@@ -466709,6 +466709,21 @@
    ]
   },
   {
+   "slug": "legea-142-2012",
+   "path": "lege/2012/142",
+   "short": "Legea nr. 142/2012",
+   "title": "Legea nr. 142/2012 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 66/2011 privind prevenirea, constatarea şi sancţionarea neregulilor apărute în obţinerea şi utilizarea fondurilor europene şi/sau a fondurilor publice naţionale aferente acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139823",
+   "versions": [
+    {
+     "from": "2012-07-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139823",
+     "sha256": "61ce66c744f2a8544e74b75c1844f492709cb3546953d325108ac89b35f19c79"
+    }
+   ]
+  },
+  {
    "slug": "legea-142-2014",
    "path": "lege/2014/142",
    "short": "Legea nr. 142/2014",
@@ -466720,6 +466735,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162403",
      "sha256": "4517da61a9e675219468dac114fb653ffb09a1ab6a2ed653d4bdc79bf2410db1"
+    }
+   ]
+  },
+  {
+   "slug": "legea-142-2015",
+   "path": "lege/2015/142",
+   "short": "Legea nr. 142/2015",
+   "title": "Legea nr. 142/2015 pentru aprobarea Ordonanţei Guvernului nr. 27/2014 privind finanţarea instituţiilor de învăţământ superior militar, de informaţii, de ordine publică şi de securitate naţională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168723",
+   "versions": [
+    {
+     "from": "2015-06-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168723",
+     "sha256": "712333cad38ee9c8bec62136c612cb5c7f80b6eec637705ec665b185916d4b79"
     }
    ]
   },
@@ -466790,6 +466820,21 @@
    ]
   },
   {
+   "slug": "legea-142-2021",
+   "path": "lege/2021/142",
+   "short": "Legea nr. 142/2021",
+   "title": "Legea nr. 142/2021 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 1/2021 privind stabilirea cadrului instituţional şi adoptarea unor măsuri necesare pentru înfiinţarea punctului naţional de acces, conform regulamentelor delegate de completare a Directivei 2010/40/UE a Parlamentului European şi a Consiliului din 7 iulie 2010 privind cadrul pentru implementarea sistemelor de transport inteligente în domeniul transportului rutier şi pentru interfeţele cu alte moduri de transport",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/242319",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/242319",
+     "sha256": "ad802684d0bbbaf75108cd114133b58759ffd0e80c3964f88b5e23d39dc56cf8"
+    }
+   ]
+  },
+  {
    "slug": "legea-142-2022",
    "path": "lege/2022/142",
    "short": "Legea nr. 142/2022",
@@ -466835,6 +466880,51 @@
    ]
   },
   {
+   "slug": "legea-143-1994",
+   "path": "lege/1994/143",
+   "short": "Legea nr. 143/1994",
+   "title": "Legea nr. 143/1994 pentru aprobarea unor ordonanţe ale Guvernului emise în baza Legii nr. 72/1994 privind abilitarea Guvernului de a emite ordonanţe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4580",
+   "versions": [
+    {
+     "from": "1994-12-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4580",
+     "sha256": "c366cc9e94d08b852c76ebb951f59311eb886f050babeb339854170833b80d77"
+    }
+   ]
+  },
+  {
+   "slug": "legea-143-1997",
+   "path": "lege/1997/143",
+   "short": "Legea nr. 143/1997",
+   "title": "Legea nr. 143/1997 pentru modificarea şi completarea Legii nr. 130/1996 privind contractul colectiv de muncă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11793",
+   "versions": [
+    {
+     "from": "1997-07-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11793",
+     "sha256": "cd6adf6b3bd35d1f6da30b477120b255fd767ee4a54e8470849fc20102347c5b"
+    }
+   ]
+  },
+  {
+   "slug": "legea-143-2001",
+   "path": "lege/2001/143",
+   "short": "Legea nr. 143/2001",
+   "title": "Legea nr. 143/2001 pentru aprobarea Ordonanţei Guvernului nr. 44/2000 referitoare la unele măsuri privind asigurarea bunurilor culturale mobile exportate temporar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27778",
+   "versions": [
+    {
+     "from": "2001-04-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27778",
+     "sha256": "60bbc7301fd6034f1fd11de19d2dbde4542453d1b523932af66a59f5abf01cba"
+    }
+   ]
+  },
+  {
    "slug": "legea-143-2004",
    "path": "lege/2004/143",
    "short": "Legea nr. 143/2004",
@@ -466850,6 +466940,21 @@
    ]
   },
   {
+   "slug": "legea-143-2005",
+   "path": "lege/2005/143",
+   "short": "Legea nr. 143/2005",
+   "title": "Legea nr. 143/2005 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 21/2005 privind susţinerea proiectului ISPA 2000/RO/16/P/PE/001 \"Program pentru managementul deşeurilor în Piatra-Neamţ\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61768",
+   "versions": [
+    {
+     "from": "2005-05-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61768",
+     "sha256": "9a6546c01a9d49e1c38ce55777b5bd20fff2374962779ad9b553c626201d039d"
+    }
+   ]
+  },
+  {
    "slug": "legea-143-2006",
    "path": "lege/2006/143",
    "short": "Legea nr. 143/2006",
@@ -466861,6 +466966,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71739",
      "sha256": "c7f9889fcb627ad003ca7fb137844c2bcddb6e4bc53ce7b6cd6f1501e9330dd5"
+    }
+   ]
+  },
+  {
+   "slug": "legea-143-2007",
+   "path": "lege/2007/143",
+   "short": "Legea nr. 143/2007",
+   "title": "Legea nr. 143/2007 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 118/2006 privind înfiinţarea, organizarea şi desfăşurarea activităţii aşezămintelor culturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82269",
+   "versions": [
+    {
+     "from": "2007-05-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82269",
+     "sha256": "04c7888ba8f79de4509a3f61633e02c3ccbe86f43e22b304b1d0d6fe460a60b3"
+    }
+   ]
+  },
+  {
+   "slug": "legea-143-2008",
+   "path": "lege/2008/143",
+   "short": "Legea nr. 143/2008",
+   "title": "Legea nr. 143/2008 pentru completarea art. 174 din Legea învăţământului nr. 84/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95610",
+   "versions": [
+    {
+     "from": "2008-07-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95610",
+     "sha256": "467e473d7fc50942b3e47b7c523633d6d1e3bef048208bd6b47e6d8089b55982"
     }
    ]
   },
@@ -466891,6 +467026,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120669",
      "sha256": "1d57dc19940a7199f8507026f60a4de51ed2becc722f036979163abb2015ce30"
+    }
+   ]
+  },
+  {
+   "slug": "legea-143-2012",
+   "path": "lege/2012/143",
+   "short": "Legea nr. 143/2012",
+   "title": "Legea nr. 143/2012 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 119/2011 privind preluarea de către Agenţia Naţională de Administrare Fiscală a unor creanţe deţinute de Autoritatea pentru Valorificarea Activelor Statului şi pentru reglementarea unor dispoziţii referitoare la înfiinţarea unei societăţi comerciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139986",
+   "versions": [
+    {
+     "from": "2012-07-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139986",
+     "sha256": "233b51c3a709423df270b32776559a8763b780df9ffdaf8250e92c7b158776b9"
     }
    ]
   },
@@ -467012,6 +467162,51 @@
    ]
   },
   {
+   "slug": "legea-143-2020",
+   "path": "lege/2020/143",
+   "short": "Legea nr. 143/2020",
+   "title": "Legea nr. 143/2020 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 71/2020 pentru modificarea şi completarea Legii nr. 346/2006 privind organizarea şi funcţionarea Ministerului Apărării Naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228031",
+   "versions": [
+    {
+     "from": "2020-07-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228031",
+     "sha256": "f41bb25b96da1fd141dd642a65c5f44be12ff49ad7256a87e54abaedc85af13b"
+    }
+   ]
+  },
+  {
+   "slug": "legea-143-2021",
+   "path": "lege/2021/143",
+   "short": "Legea nr. 143/2021",
+   "title": "Legea nr. 143/2021 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 203/2020 privind unele măsuri de reglementare a vânzării terenurilor agricole situate în extravilan",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/242321",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/242321",
+     "sha256": "1d87fe581efa531273dec6bfb3e8693502c64b1b867b7a4399ebfc6f0e8bb6a5"
+    }
+   ]
+  },
+  {
+   "slug": "legea-143-2023",
+   "path": "lege/2023/143",
+   "short": "Legea nr. 143/2023",
+   "title": "Legea nr. 143/2023 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 173/2022 privind stabilirea unor măsuri necesare pentru îndeplinirea jaloanelor şi ţintelor din Planul naţional de redresare şi rezilienţă aferente componentei 10 - Fondul local, componentei 11 - Turism şi cultură, componentei 14 - Buna guvernanţă şi componentei 15 - Educaţie, precum şi pentru completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270897",
+   "versions": [
+    {
+     "from": "2023-06-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270897",
+     "sha256": "f67cd5c95d301f06e30f9271ac7a981e9e7619d529147a256f1fda886adf6ea2"
+    }
+   ]
+  },
+  {
    "slug": "legea-143-2025",
    "path": "lege/2025/143",
    "short": "Legea nr. 143/2025",
@@ -467048,6 +467243,21 @@
    ]
   },
   {
+   "slug": "legea-144-2001",
+   "path": "lege/2001/144",
+   "short": "Legea nr. 144/2001",
+   "title": "Legea nr. 144/2001 privind aprobarea Ordonanţei Guvernului nr. 96/2000 pentru ratificarea Memorandumului de finanţare PHARE dintre Guvernul României şi Comisia Europeană referitor la Facilitatea de pregătire a proiectelor PHARE 2000/2001-RO9915, semnat la Bucureşti la 30 decembrie 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27780",
+   "versions": [
+    {
+     "from": "2001-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27780",
+     "sha256": "aa5c62b36b3dd3074ddd80daaa12ca0ac3dbc4a0261744fc7e5efd600efa5c79"
+    }
+   ]
+  },
+  {
    "slug": "legea-144-2003",
    "path": "lege/2003/144",
    "short": "Legea nr. 144/2003",
@@ -467063,6 +467273,21 @@
    ]
   },
   {
+   "slug": "legea-144-2008",
+   "path": "lege/2008/144",
+   "short": "Legea nr. 144/2008",
+   "title": "Legea nr. 144/2008 pentru completarea art. 7 din Legea învăţământului nr. 84/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95612",
+   "versions": [
+    {
+     "from": "2008-07-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95612",
+     "sha256": "db739c68de412669e507ce9e41298a50cebef89409a2ed173422cc240ebb474b"
+    }
+   ]
+  },
+  {
    "slug": "legea-144-2011",
    "path": "lege/2011/144",
    "short": "Legea nr. 144/2011",
@@ -467074,6 +467299,51 @@
      "units": 1,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/129883",
      "sha256": "40f165b54c7a3106de634f3faee97ff412400de3b581b85d11d3b9f1eb2b0c3e"
+    }
+   ]
+  },
+  {
+   "slug": "legea-144-2013",
+   "path": "lege/2013/144",
+   "short": "Legea nr. 144/2013",
+   "title": "Legea nr. 144/2013 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 2/2013 pentru completarea art. 362 din Legea nr. 95/2006 privind reforma în domeniul sănătăţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/147602",
+   "versions": [
+    {
+     "from": "2013-05-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147602",
+     "sha256": "97e270bd70f80756d1f218e7ed592e17ad5523b606a24ee0d506bbaf01564896"
+    }
+   ]
+  },
+  {
+   "slug": "legea-144-2014",
+   "path": "lege/2014/144",
+   "short": "Legea nr. 144/2014",
+   "title": "Legea nr. 144/2014 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 74/2013 privind unele măsuri pentru îmbunătăţirea şi reorganizarea activităţii Agenţiei Naţionale de Administrare Fiscală, precum şi pentru modificarea şi completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162445",
+   "versions": [
+    {
+     "from": "2014-10-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162445",
+     "sha256": "d9f84a581aa38a09594538c8d5bbbfb268f5114120fa52034f71d20950209fed"
+    }
+   ]
+  },
+  {
+   "slug": "legea-144-2015",
+   "path": "lege/2015/144",
+   "short": "Legea nr. 144/2015",
+   "title": "Legea nr. 144/2015 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 87/2014 pentru stabilirea unor măsuri privind situaţia juridică a unor bunuri din domeniul public şi privat al statului, aflate în administrarea Regiei Autonome \"Administraţia Patrimoniului Protocolului de Stat\", a unor măsuri privind managementul situaţiilor de urgenţă, precum şi pentru modificarea şi completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168821",
+   "versions": [
+    {
+     "from": "2015-06-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168821",
+     "sha256": "de9e03629ca35de0b6dd22240c36cdcdc5c6cf23a20c639c16f378b0cf9909cc"
     }
    ]
   },
@@ -467123,6 +467393,21 @@
    ]
   },
   {
+   "slug": "legea-144-2019",
+   "path": "lege/2019/144",
+   "short": "Legea nr. 144/2019",
+   "title": "Legea nr. 144/2019 pentru modificarea şi completarea Legii nr. 255/2010 privind exproprierea pentru cauză de utilitate publică, necesară realizării unor obiective de interes naţional, judeţean şi local",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/216171",
+   "versions": [
+    {
+     "from": "2019-07-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216171",
+     "sha256": "6aaa004082409d25202b4e5d81f74e2158c8e66c90f00ea13c91f1b3732bd5ba"
+    }
+   ]
+  },
+  {
    "slug": "legea-144-2020",
    "path": "lege/2020/144",
    "short": "Legea nr. 144/2020",
@@ -467134,6 +467419,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228035",
      "sha256": "a6c183d93015d4814ff5953af3790a94ac0950efec732db6fa5f910e1c919cae"
+    }
+   ]
+  },
+  {
+   "slug": "legea-144-2021",
+   "path": "lege/2021/144",
+   "short": "Legea nr. 144/2021",
+   "title": "Legea nr. 144/2021 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 55/2019 pentru modificarea şi completarea art. 29 din Ordonanţa de urgenţă a Guvernului nr. 12/1998 privind transportul pe căile ferate române şi reorganizarea Societăţii Naţionale a Căilor Ferate Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/242323",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/242323",
+     "sha256": "1c4bd695beb87928516ab07b91131e34609ca04c74465bfc4b096a6afd7f506f"
     }
    ]
   },
@@ -467198,6 +467498,21 @@
    ]
   },
   {
+   "slug": "legea-145-1994",
+   "path": "lege/1994/145",
+   "short": "Legea nr. 145/1994",
+   "title": "Legea nr. 145/1994 pentru aprobarea Ordonanţei Guvernului nr. 62 din 24 august 1994 privind stabilirea unor facilităţi pentru dezvoltarea sistemului de turism rural în zona montană, Delta Dunării şi litoralul Marii Negre",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4586",
+   "versions": [
+    {
+     "from": "1994-12-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4586",
+     "sha256": "ddcbe46003614e765ce5f5dd1113f2f3ea4984d3abc622c1b32ad67bcacac5a6"
+    }
+   ]
+  },
+  {
    "slug": "legea-145-2003",
    "path": "lege/2003/145",
    "short": "Legea nr. 145/2003",
@@ -467258,6 +467573,21 @@
    ]
   },
   {
+   "slug": "legea-145-2007",
+   "path": "lege/2007/145",
+   "short": "Legea nr. 145/2007",
+   "title": "Legea nr. 145/2007 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 97/2006 pentru modificarea Ordonanţei Guvernului nr. 39/2005 privind cinematografia, precum şi pentru modificarea şi completarea Legii nr. 328/2006 pentru aprobarea Ordonanţei Guvernului nr. 39/2005 privind cinematografia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82329",
+   "versions": [
+    {
+     "from": "2007-05-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82329",
+     "sha256": "079c5785537066ade38c033b70d4706705e572abe9f5186a76f59eb346aaf448"
+    }
+   ]
+  },
+  {
    "slug": "legea-145-2008",
    "path": "lege/2008/145",
    "short": "Legea nr. 145/2008",
@@ -467269,6 +467599,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96173",
      "sha256": "ed257481bfe5271a837c1e8e1f26a3edeb3c941cf7ded35fd7008df7e5a15167"
+    }
+   ]
+  },
+  {
+   "slug": "legea-145-2009",
+   "path": "lege/2009/145",
+   "short": "Legea nr. 145/2009",
+   "title": "Legea nr. 145/2009 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 1/2009 privind unele măsuri în domeniul salarizării personalului din sectorul bugetar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105521",
+   "versions": [
+    {
+     "from": "2009-05-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105521",
+     "sha256": "d83690b305b6c77a8f62a4a9daec093753e16e38a7fda266ff9ee6d6303ac160"
     }
    ]
   },
@@ -467372,6 +467717,21 @@
    ]
   },
   {
+   "slug": "legea-145-2015",
+   "path": "lege/2015/145",
+   "short": "Legea nr. 145/2015",
+   "title": "Legea nr. 145/2015 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 11/2014 privind adoptarea unor măsuri de reorganizare la nivelul administraţiei publice centrale şi pentru modificarea şi completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168863",
+   "versions": [
+    {
+     "from": "2015-06-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168863",
+     "sha256": "f0c0fdee954a47666d6f2ec9363587fbc2fd94eb1e2c6c0724137074b44b572c"
+    }
+   ]
+  },
+  {
    "slug": "legea-145-2016",
    "path": "lege/2016/145",
    "short": "Legea nr. 145/2016",
@@ -467383,6 +467743,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180072",
      "sha256": "2cc54f4d4bbadfb714b737f994388439591deee4956a9ccf44b6cacc7f342378"
+    }
+   ]
+  },
+  {
+   "slug": "legea-145-2017",
+   "path": "lege/2017/145",
+   "short": "Legea nr. 145/2017",
+   "title": "Legea nr. 145/2017 pentru modificarea şi completarea Legii nr. 94/1992 privind organizarea şi funcţionarea Curţii de Conturi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190430",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190430",
+     "sha256": "6bca113d0c39921a79e88a75b40337c02627e14edb059958411483e33721b8b7"
     }
    ]
   },
@@ -467468,6 +467843,21 @@
    ]
   },
   {
+   "slug": "legea-145-2024",
+   "path": "lege/2024/145",
+   "short": "Legea nr. 145/2024",
+   "title": "Legea nr. 145/2024 privind modificarea şi completarea Legii nr. 158/2020 pentru modificarea, completarea şi abrogarea unor acte normative, precum şi pentru stabilirea unor măsuri de punere în aplicare a Regulamentului (UE) 2017/2.402 al Parlamentului European şi al Consiliului din 12 decembrie 2017 de stabilire a unui cadru general privind securitizarea şi de creare a unui cadru specific pentru o securitizare simplă, transparentă şi standardizată şi de modificare a Directivelor 2009/65/CE, 2009/138/CE şi 2011/61/UE, precum şi a Regulamentelor (CE) nr. 1.060/2009 şi (UE) nr. 648/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/283152",
+   "versions": [
+    {
+     "from": "2024-05-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283152",
+     "sha256": "ded010b1c5bdb71d352ce872d2cff669f294d0d77512f5ecfad1a972a8a5f5a9"
+    }
+   ]
+  },
+  {
    "slug": "legea-145-2025",
    "path": "lege/2025/145",
    "short": "Legea nr. 145/2025",
@@ -467479,6 +467869,66 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/302768",
      "sha256": "51442aee92ea7219cccadcb22b92ee75e6f9f751aeda31af19f53a23d7c673a6"
+    }
+   ]
+  },
+  {
+   "slug": "legea-146-1994",
+   "path": "lege/1994/146",
+   "short": "Legea nr. 146/1994",
+   "title": "Legea nr. 146/1994 pentru aprobarea unor ordonanţe ale Guvernului emise în baza Legii nr. 72/1994 privind abilitarea Guvernului de a emite ordonanţe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4589",
+   "versions": [
+    {
+     "from": "1994-12-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4589",
+     "sha256": "f276f0067608c4294419db74efff0db7b44a1fd63eee3acbe09626e7e388cfba"
+    }
+   ]
+  },
+  {
+   "slug": "legea-146-1999",
+   "path": "lege/1999/146",
+   "short": "Legea nr. 146/1999",
+   "title": "Legea nr. 146/1999 privind organizarea, funcţionarea şi finanţarea spitalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18942",
+   "versions": [
+    {
+     "from": "1999-11-01",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18942",
+     "sha256": "dd6e5a6c8bcb9fd0250edbdc2979d6727b77edcd36091a846ea3e434d853f8d6"
+    }
+   ]
+  },
+  {
+   "slug": "legea-146-2000",
+   "path": "lege/2000/146",
+   "short": "Legea nr. 146/2000",
+   "title": "Legea nr. 146/2000 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 194/1999 privind instituirea medaliei comemorative \"150 de ani de la naşterea lui Mihai Eminescu\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23617",
+   "versions": [
+    {
+     "from": "2000-08-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23617",
+     "sha256": "66fb2c74c742392bd4b6edec9d7f20bfea0a76d5110ca023c271344b5528ae99"
+    }
+   ]
+  },
+  {
+   "slug": "legea-146-2001",
+   "path": "lege/2001/146",
+   "short": "Legea nr. 146/2001",
+   "title": "Legea nr. 146/2001 pentru ratificarea Acordului dintre Guvernul Român şi Guvernul Macedonean privind promovarea şi protejarea reciprocă a investiţiilor, semnat la Bucureşti la 12 iunie 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27793",
+   "versions": [
+    {
+     "from": "2001-04-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27793",
+     "sha256": "663747867b5d84a3e823ef30edb8a194ab2e67f33b9d34ae4c514e8a298747a0"
     }
    ]
   },
@@ -467543,6 +467993,36 @@
    ]
   },
   {
+   "slug": "legea-146-2009",
+   "path": "lege/2009/146",
+   "short": "Legea nr. 146/2009",
+   "title": "Legea nr. 146/2009 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 129/2008 pentru completarea art. 5 din Ordonanţa Guvernului nr. 39/1996 privind înfiinţarea şi funcţionarea Fondului de garantare a depozitelor în sistemul bancar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105524",
+   "versions": [
+    {
+     "from": "2009-05-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105524",
+     "sha256": "c30896b070ef2fe1a299e992cb0f38ce9086a9143207a89ca9076d86e6464775"
+    }
+   ]
+  },
+  {
+   "slug": "legea-146-2010",
+   "path": "lege/2010/146",
+   "short": "Legea nr. 146/2010",
+   "title": "Legea nr. 146/2010 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 3/2010 pentru modificarea şi completarea Legii apelor nr. 107/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120703",
+   "versions": [
+    {
+     "from": "2010-07-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120703",
+     "sha256": "e591c16abb4ada6ae4ee47b42d5582f412dca9bb138f95d2aed98dfe05b7db1c"
+    }
+   ]
+  },
+  {
    "slug": "legea-146-2012",
    "path": "lege/2012/146",
    "short": "Legea nr. 146/2012",
@@ -467588,6 +468068,21 @@
    ]
   },
   {
+   "slug": "legea-146-2016",
+   "path": "lege/2016/146",
+   "short": "Legea nr. 146/2016",
+   "title": "Legea nr. 146/2016 pentru modificarea Legii nr. 102/1992 privind stema ţării şi sigiliul statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180207",
+   "versions": [
+    {
+     "from": "2016-07-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180207",
+     "sha256": "19bdd708e4bba33ed2671797c2d2bda7d1dc92563f3a2d59d1ada5a5c4896273"
+    }
+   ]
+  },
+  {
    "slug": "legea-146-2017",
    "path": "lege/2017/146",
    "short": "Legea nr. 146/2017",
@@ -467599,6 +468094,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190432",
      "sha256": "2223496a4499f44a8390ee0b812751e9a1332803dc2a4a317d11998618bea52c"
+    }
+   ]
+  },
+  {
+   "slug": "legea-146-2018",
+   "path": "lege/2018/146",
+   "short": "Legea nr. 146/2018",
+   "title": "Legea nr. 146/2018 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 4/2018 privind modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 3/2015 pentru aprobarea schemelor de plăţi care se aplică în agricultură în perioada 2015-2020 şi pentru modificarea art. 2 din Legea nr. 36/1991 privind societăţile agricole şi alte forme de asociere în agricultură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201802",
+   "versions": [
+    {
+     "from": "2018-06-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201802",
+     "sha256": "702345fbc94fe9ffbe4bba91331ceddbd4e010df9804aadbf5249d81a70ad4c1"
     }
    ]
   },
@@ -467732,6 +468242,21 @@
    ]
   },
   {
+   "slug": "legea-147-1997",
+   "path": "lege/1997/147",
+   "short": "Legea nr. 147/1997",
+   "title": "Legea nr. 147/1997 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Franceze privind cooperarea în domeniul afacerilor interne, semnat la Bucureşti la 21 februarie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11811",
+   "versions": [
+    {
+     "from": "1997-07-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11811",
+     "sha256": "f4df0d8662c1a059a3841a47188e1ac8789bcfa598a4d152de6fd5434be21da5"
+    }
+   ]
+  },
+  {
    "slug": "legea-147-2000",
    "path": "lege/2000/147",
    "short": "Legea nr. 147/2000",
@@ -467765,6 +468290,36 @@
    ]
   },
   {
+   "slug": "legea-147-2002",
+   "path": "lege/2002/147",
+   "short": "Legea nr. 147/2002",
+   "title": "Legea nr. 147/2002 pentru ratificarea Convenţiei civile asupra corupţiei, adoptată la Strasbourg la 4 noiembrie 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35348",
+   "versions": [
+    {
+     "from": "2002-04-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35348",
+     "sha256": "bd8e3625db3da7266a83e7994c50a1a1cc5f1891f63805c50303507e864456d7"
+    }
+   ]
+  },
+  {
+   "slug": "legea-147-2003",
+   "path": "lege/2003/147",
+   "short": "Legea nr. 147/2003",
+   "title": "Legea nr. 147/2003 pentru ratificarea Memorandumului de finanţare convenit între Guvernul României şi Comisia Europeană privind asistenţa financiară nerambursabilă acordată prin Instrumentul pentru Politici Structurale de Preaderare pentru măsura \"Modernizarea sistemului de apa potabilă şi a celui al apelor uzate în oraşul Paşcani, România\", semnat la Bucureşti la 17 aprilie 2002 şi la Bruxelles la 18 decembrie 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43670",
+   "versions": [
+    {
+     "from": "2003-05-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43670",
+     "sha256": "c017d1dd079e3418aeffc0e24fa2c361f57f7c8da7b8cf7eac4ff5174d364f21"
+    }
+   ]
+  },
+  {
    "slug": "legea-147-2006",
    "path": "lege/2006/147",
    "short": "Legea nr. 147/2006",
@@ -467776,6 +468331,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71748",
      "sha256": "740fe65d0ca8fef51ccf5ee8cebf8d0ae8c5e876314eec6d5b8e37b0a75546d3"
+    }
+   ]
+  },
+  {
+   "slug": "legea-147-2008",
+   "path": "lege/2008/147",
+   "short": "Legea nr. 147/2008",
+   "title": "Legea nr. 147/2008 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 143/2007 pentru modificarea alin. (2) şi (4) ale art. 6 din Ordonanţa de urgenţă a Guvernului nr. 114/2005 privind unele măsuri pentru derularea şi finalizarea privatizării societăţilor comerciale filiale de distribuţie şi furnizare a energiei electrice \"Electrica Moldova\"- S.A. şi \"Electrica Oltenia\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95618",
+   "versions": [
+    {
+     "from": "2008-07-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95618",
+     "sha256": "9f548608798acdc3300cd304cf86e8cd0bbfa9cb85cc1fccaeef3001273e2a4e"
     }
    ]
   },
@@ -467900,6 +468470,21 @@
    ]
   },
   {
+   "slug": "legea-147-2018",
+   "path": "lege/2018/147",
+   "short": "Legea nr. 147/2018",
+   "title": "Legea nr. 147/2018 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 1/2018 pentru aprobarea unor măsuri de reorganizare în cadrul administraţiei publice centrale şi pentru modificarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201791",
+   "versions": [
+    {
+     "from": "2018-06-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201791",
+     "sha256": "cc96b67e9897923867e1d1e78c1766c1ef9e58104b5ba321cd27c16adac5d4c8"
+    }
+   ]
+  },
+  {
    "slug": "legea-147-2019",
    "path": "lege/2019/147",
    "short": "Legea nr. 147/2019",
@@ -467960,6 +468545,51 @@
    ]
   },
   {
+   "slug": "legea-147-2024",
+   "path": "lege/2024/147",
+   "short": "Legea nr. 147/2024",
+   "title": "Legea nr. 147/2024 pentru completarea Legii nr. 272/2004 privind protecţia şi promovarea drepturilor copilului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/283321",
+   "versions": [
+    {
+     "from": "2024-06-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283321",
+     "sha256": "32febec66912e3cbc9286768bc3cb42484bed02bd600b6f45488e4b593a991f7"
+    }
+   ]
+  },
+  {
+   "slug": "legea-148-1998",
+   "path": "lege/1998/148",
+   "short": "Legea nr. 148/1998",
+   "title": "Legea nr. 148/1998 privind abilitarea Guvernului de a emite ordonanţe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15208",
+   "versions": [
+    {
+     "from": "1998-07-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15208",
+     "sha256": "0757b67d50867ea5a833beeab93d17e21d7c242c4fbc55acb2d5f52c7426ce28"
+    }
+   ]
+  },
+  {
+   "slug": "legea-148-2002",
+   "path": "lege/2002/148",
+   "short": "Legea nr. 148/2002",
+   "title": "Legea nr. 148/2002 privind respingerea Ordonanţei Guvernului nr. 103/2000 pentru modificarea Legii nr. 98/1994 privind stabilirea şi sancţionarea contravenţiilor la normele legale de igiena şi sănătate publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36494",
+   "versions": [
+    {
+     "from": "2002-06-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36494",
+     "sha256": "50925ce94c527188eddbff170e2e89eb4cd937702dd9789147a3d05367d0d5bf"
+    }
+   ]
+  },
+  {
    "slug": "legea-148-2004",
    "path": "lege/2004/148",
    "short": "Legea nr. 148/2004",
@@ -467971,6 +468601,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51881",
      "sha256": "4f538dbfb5d29e655dce3118e8feaedb503e856dc0438ef885b5e881f0ce7fb6"
+    }
+   ]
+  },
+  {
+   "slug": "legea-148-2005",
+   "path": "lege/2005/148",
+   "short": "Legea nr. 148/2005",
+   "title": "Legea nr. 148/2005 pentru modificarea art. 7 alin. (2) din Ordonanţa Guvernului nr. 105/1999 privind acordarea unor drepturi persoanelor persecutate de către regimurile instaurate în România cu începere de la 6 septembrie 1940 până la 6 martie 1945 din motive etnice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61793",
+   "versions": [
+    {
+     "from": "2005-05-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61793",
+     "sha256": "372e7fee5ba8ba1083f1bfcee8c1114365e4cd0f533490c2c44a6e83b1a27944"
+    }
+   ]
+  },
+  {
+   "slug": "legea-148-2008",
+   "path": "lege/2008/148",
+   "short": "Legea nr. 148/2008",
+   "title": "Legea nr. 148/2008 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 12/2008 pentru reglementarea unor măsuri financiare în domeniul sanitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95724",
+   "versions": [
+    {
+     "from": "2008-07-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95724",
+     "sha256": "1e86f7b3904ff1230a2cebd391fb836fa275eb1f612ae78ca78fb3ad6756486a"
     }
    ]
   },
@@ -468016,6 +468676,21 @@
      "units": 20,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/139886",
      "sha256": "71b01d141b020f4922a5b35086dadbd600baba397d036c777a77e550e6dc139a"
+    }
+   ]
+  },
+  {
+   "slug": "legea-148-2013",
+   "path": "lege/2013/148",
+   "short": "Legea nr. 148/2013",
+   "title": "Legea nr. 148/2013 pentru aprobarea Ordonanţei Guvernului nr. 18/2010 cu privire la rectificarea bugetului de stat pe anul 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/147608",
+   "versions": [
+    {
+     "from": "2013-05-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147608",
+     "sha256": "9daac2e07c472a8c7eaf0d6bf687009cfca129eb141629d247507345d39a2de6"
     }
    ]
   },
@@ -468110,6 +468785,21 @@
    ]
   },
   {
+   "slug": "legea-148-2024",
+   "path": "lege/2024/148",
+   "short": "Legea nr. 148/2024",
+   "title": "Legea nr. 148/2024 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 106/2023 pentru modificarea art. 10 din Ordonanţa Guvernului nr. 94/1999 privind participarea României la procedurile în faţa Curţii Europene a Drepturilor Omului şi a Comitetului Miniştrilor ale Consiliului Europei şi exercitarea dreptului de regres al statului în urma hotărârilor şi convenţiilor de rezolvare pe cale amiabilă, precum şi pentru reglementarea modalităţii de executare a unor hotărâri ale Curţii Europene a Drepturilor Omului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/283323",
+   "versions": [
+    {
+     "from": "2024-06-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283323",
+     "sha256": "aa3552e381bd3f3e5d2b5b293c615cbe6ce2f1ee665e263529959e9262f9eb44"
+    }
+   ]
+  },
+  {
    "slug": "legea-148-2025",
    "path": "lege/2025/148",
    "short": "Legea nr. 148/2025",
@@ -468136,6 +468826,51 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11822",
      "sha256": "ff294688e268b0ed603405c51fd37926e6aa32ba8688ba5dd2049abfb3b075cb"
+    }
+   ]
+  },
+  {
+   "slug": "legea-149-1999",
+   "path": "lege/1999/149",
+   "short": "Legea nr. 149/1999",
+   "title": "Legea nr. 149/1999 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 62/1998 pentru modificarea şi completarea Legii nr. 27/1994 privind impozitele şi taxele locale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18944",
+   "versions": [
+    {
+     "from": "1999-08-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18944",
+     "sha256": "12b9cd2bb8f16c2d5b9277d26cf3db7013051a0a75476bc0d981854634b678c4"
+    }
+   ]
+  },
+  {
+   "slug": "legea-149-2003",
+   "path": "lege/2003/149",
+   "short": "Legea nr. 149/2003",
+   "title": "Legea nr. 149/2003 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 141/2002 privind reglementarea depozitarii seminţelor de consum, regimul certificatelor de depozit pentru acestea şi constituirea Fondului de garantare pentru certificatele de depozit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43286",
+   "versions": [
+    {
+     "from": "2003-04-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43286",
+     "sha256": "8c41174b2292d0d5a6b02651bd0ab53ae4ceb6f5c077e90523bc97e7ed9f33ce"
+    }
+   ]
+  },
+  {
+   "slug": "legea-149-2008",
+   "path": "lege/2008/149",
+   "short": "Legea nr. 149/2008",
+   "title": "Legea nr. 149/2008 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 141/2007 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 64/2007 privind datoria publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95726",
+   "versions": [
+    {
+     "from": "2008-07-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95726",
+     "sha256": "221fc73bdc10b6100ff64088c7363b2fd34de4b4afec6f54bfdeb0d4d9de7cd8"
     }
    ]
   },
@@ -468181,6 +468916,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147665",
      "sha256": "11a4126948e378451e831345b55eb5a419b14eaf59351a7bb5ab990690ba5f1f"
+    }
+   ]
+  },
+  {
+   "slug": "legea-149-2015",
+   "path": "lege/2015/149",
+   "short": "Legea nr. 149/2015",
+   "title": "Legea nr. 149/2015 privind modificarea şi completarea Legii vânătorii şi a protecţiei fondului cinegetic nr. 407/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169076",
+   "versions": [
+    {
+     "from": "2015-07-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169076",
+     "sha256": "c77183535e3368d19219473458fabd264332bf16b7665130bc1c6a424a9908a2"
     }
    ]
   },
@@ -468290,6 +469040,36 @@
    ]
   },
   {
+   "slug": "legea-149-2023",
+   "path": "lege/2023/149",
+   "short": "Legea nr. 149/2023",
+   "title": "Legea nr. 149/2023 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 30/2019 privind reorganizarea Ministerului Economiei în scopul exercitării drepturilor şi îndeplinirii obligaţiilor ce decurg din calitatea de acţionar a statului la anumiţi operatori economici, precum şi pentru modificarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270805",
+   "versions": [
+    {
+     "from": "2023-06-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270805",
+     "sha256": "679e8b9a8d06b0f97b4fd029733943276ccb25c95f3091f8d7192cb587b6cc7d"
+    }
+   ]
+  },
+  {
+   "slug": "legea-149-2024",
+   "path": "lege/2024/149",
+   "short": "Legea nr. 149/2024",
+   "title": "Legea nr. 149/2024 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 56/2021 pentru modificarea art. 3 din Legea nr. 61/1993 privind alocaţia de stat pentru copii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/283325",
+   "versions": [
+    {
+     "from": "2024-06-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283325",
+     "sha256": "527a193fed5756fe0ed2a34897635c70151c85056c1b25aed1fa1cb7956a8dfb"
+    }
+   ]
+  },
+  {
    "slug": "legea-149-2025",
    "path": "lege/2025/149",
    "short": "Legea nr. 149/2025",
@@ -468305,6 +469085,171 @@
    ]
   },
   {
+   "slug": "legea-15-1999",
+   "path": "lege/1999/15",
+   "short": "Legea nr. 15/1999",
+   "title": "Legea nr. 15/1999 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Uzbekistan privind serviciile aeriene, semnat la Bucureşti la 6 iunie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16665",
+   "versions": [
+    {
+     "from": "1999-01-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16665",
+     "sha256": "87f03f4e5ad72a514aabc06472c7d35098878c0b61d9967d1d4cb4544b9b683e"
+    }
+   ]
+  },
+  {
+   "slug": "legea-15-2000",
+   "path": "lege/2000/15",
+   "short": "Legea nr. 15/2000",
+   "title": "Legea nr. 15/2000 privind aprobarea Ordonanţei Guvernului nr. 60/1999 pentru ratificarea Acordului de împrumut dintre România, Banca Europeană de Investiţii şi Societatea Comercială de Transport cu Metroul Bucureşti \"Metrorex\" - S.A. (fosta Regie Autonomă de Exploatare a Metroului Bucureşti - Metrorex) privind finanţarea Proiectului de modernizare a metroului din Bucureşti, semnat la Luxembourg şi Bucureşti la 8 şi, respectiv, 9 iunie 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21305",
+   "versions": [
+    {
+     "from": "2000-03-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21305",
+     "sha256": "c959455a9f79818c29a91d89aefed767f4a7cc0d536467d483421e76aa30b480"
+    }
+   ]
+  },
+  {
+   "slug": "legea-15-2002",
+   "path": "lege/2002/15",
+   "short": "Legea nr. 15/2002",
+   "title": "Legea nr. 15/2002 privind aprobarea Ordonanţei Guvernului nr. 9/2001 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 57/2000 privind salarizarea personalului Consiliului Naţional pentru Studierea Arhivelor Securităţii, precum şi indemnizaţiile şi celelalte drepturi ale membrilor Colegiului Consiliului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33520",
+   "versions": [
+    {
+     "from": "2002-01-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33520",
+     "sha256": "29265849ddec51ad4e553dd5ccb7a65b07f9ac8aad8e249debe8f92dffed50b3"
+    }
+   ]
+  },
+  {
+   "slug": "legea-15-2005",
+   "path": "lege/2005/15",
+   "short": "Legea nr. 15/2005",
+   "title": "Legea nr. 15/2005 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 21/2004 privind Sistemul Naţional de Management al Situaţiilor de Urgenţă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59685",
+   "versions": [
+    {
+     "from": "2005-03-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59685",
+     "sha256": "914341d689bb15024facbf55e2a34f1d0cb7bf1944234c50f0456d34e605f51b"
+    }
+   ]
+  },
+  {
+   "slug": "legea-15-2007",
+   "path": "lege/2007/15",
+   "short": "Legea nr. 15/2007",
+   "title": "Legea nr. 15/2007 pentru modificarea art. 4 din Legea nr. 376/2004 privind bursele private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78620",
+   "versions": [
+    {
+     "from": "2007-01-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78620",
+     "sha256": "19cd86737a900765a483216471540d660888f5f84256cd92b84ac50c351ff81b"
+    }
+   ]
+  },
+  {
+   "slug": "legea-15-2008",
+   "path": "lege/2008/15",
+   "short": "Legea nr. 15/2008",
+   "title": "Legea nr. 15/2008 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 30/2007 privind organizarea şi funcţionarea Ministerului Internelor şi Reformei Administrative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89676",
+   "versions": [
+    {
+     "from": "2008-02-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89676",
+     "sha256": "e541dd064b31f99fa264f5126c233fd853d48b6cf1321df13c12ff1cecb4c6bd"
+    }
+   ]
+  },
+  {
+   "slug": "legea-15-2009",
+   "path": "lege/2009/15",
+   "short": "Legea nr. 15/2009",
+   "title": "Legea nr. 15/2009 pentru ratificarea celui de-al doilea amendament, semnat la Bucureşti la 2 iulie 2007, la Acordul de garanţie dintre România şi Banca Europeană pentru Reconstrucţie şi Dezvoltare pentru finanţarea Proiectului de modernizare şi introducere a taxării pe autostrada Bucureşti-Piteşti, semnat la Bucureşti la 5 august 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102793",
+   "versions": [
+    {
+     "from": "2009-03-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102793",
+     "sha256": "d3127e89221000250dfd1ec03693b03b378e5ef9259bc0674e16b842d70919ad"
+    }
+   ]
+  },
+  {
+   "slug": "legea-15-2011",
+   "path": "lege/2011/15",
+   "short": "Legea nr. 15/2011",
+   "title": "Legea nr. 15/2011 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 105/2010 pentru aprobarea Programului naţional de dezvoltare a infrastructurii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126843",
+   "versions": [
+    {
+     "from": "2011-03-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126843",
+     "sha256": "220654f0854d6999aff59a974c1a28dc0bf08aebd9d3640aa51214f830ac8599"
+    }
+   ]
+  },
+  {
+   "slug": "legea-15-2012",
+   "path": "lege/2012/15",
+   "short": "Legea nr. 15/2012",
+   "title": "Legea nr. 15/2012 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 29/2011 privind reglementarea acordării eşalonărilor la plată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134397",
+   "versions": [
+    {
+     "from": "2012-01-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134397",
+     "sha256": "0a6521cbc454124cba6b90748b8d3952cbf8794aea64a726598170974172df94"
+    }
+   ]
+  },
+  {
+   "slug": "legea-15-2013",
+   "path": "lege/2013/15",
+   "short": "Legea nr. 15/2013",
+   "title": "Legea nr. 15/2013 privind aprobarea Ordonanţei Guvernului nr. 12/2012 pentru modificarea şi completarea Ordonanţei Guvernului nr. 10/2004 privind falimentul instituţiilor de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145993",
+   "versions": [
+    {
+     "from": "2013-03-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145993",
+     "sha256": "07e90ae625db74e51f1091f5a42656c175e2541509d4c6f84b886458a0977c84"
+    }
+   ]
+  },
+  {
+   "slug": "legea-15-2015",
+   "path": "lege/2015/15",
+   "short": "Legea nr. 15/2015",
+   "title": "Legea nr. 15/2015 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 19/2014 pentru modificarea şi completarea Legii nr. 571/2003 privind Codul fiscal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165989",
+   "versions": [
+    {
+     "from": "2015-03-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165989",
+     "sha256": "1f66343be7b282413167b0f93e910db2e00670bda1e228555089757f2e178b88"
+    }
+   ]
+  },
+  {
    "slug": "legea-15-2016",
    "path": "lege/2016/15",
    "short": "Legea nr. 15/2016",
@@ -468316,6 +469261,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/175441",
      "sha256": "f8bddc6b5ede150816a8a53981e63d07321f3292840994c40a4993c9f4627e9a"
+    }
+   ]
+  },
+  {
+   "slug": "legea-15-2017",
+   "path": "lege/2017/15",
+   "short": "Legea nr. 15/2017",
+   "title": "Legea nr. 15/2017 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 28/2015 pentru modificarea şi completarea Legii nr. 344/2006 privind detaşarea salariaţilor în cadrul prestării de servicii transnaţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187604",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187604",
+     "sha256": "85419096a28ac5777708b0789a8cebc2decb22befef0ffbfc04234ec1ffcaa44"
     }
    ]
   },
@@ -468410,6 +469370,36 @@
    ]
   },
   {
+   "slug": "legea-150-1999",
+   "path": "lege/1999/150",
+   "short": "Legea nr. 150/1999",
+   "title": "Legea nr. 150/1999 pentru aprobarea Ordonanţei Guvernului nr. 101/1998 privind reglementarea plăţii unor tarife pentru serviciile prestate de Oficiul Naţional de Cadastru, Geodezie şi Cartografie şi oficiile judeţene de cadastru, geodezie şi cartografie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18946",
+   "versions": [
+    {
+     "from": "1999-08-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18946",
+     "sha256": "bdf100918910494279ba6b95dbf0c01d8528ab7bd6e5dde897936e513c0dbf44"
+    }
+   ]
+  },
+  {
+   "slug": "legea-150-2000",
+   "path": "lege/2000/150",
+   "short": "Legea nr. 150/2000",
+   "title": "Legea nr. 150/2000 pentru aprobarea Ordonanţei Guvernului nr. 62/1999 privind înfiinţarea Centrului de Management pentru Finanţarea Învăţământului Superior şi a Cercetării Ştiinţifice Universitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23537",
+   "versions": [
+    {
+     "from": "2000-07-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23537",
+     "sha256": "1d60c10a15f28ef97bd0174294b28df8b6aba4b41827495505a4c7ac5d357ebe"
+    }
+   ]
+  },
+  {
    "slug": "legea-150-2001",
    "path": "lege/2001/150",
    "short": "Legea nr. 150/2001",
@@ -468457,6 +469447,51 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71810",
      "sha256": "06bc7ab600ea5e083e9cccc695bf02ea12016f9f9531cb83b88f023ae9dcf2cb"
+    }
+   ]
+  },
+  {
+   "slug": "legea-150-2007",
+   "path": "lege/2007/150",
+   "short": "Legea nr. 150/2007",
+   "title": "Legea nr. 150/2007 pentru modificarea alin. (2) al art. 108 din Legea nr. 128/1997 privind Statutul personalului didactic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82658",
+   "versions": [
+    {
+     "from": "2007-06-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82658",
+     "sha256": "7fcca159ce6b81ebe76e1516fc020c8951918213f191cecec7c3943e75fe7239"
+    }
+   ]
+  },
+  {
+   "slug": "legea-150-2008",
+   "path": "lege/2008/150",
+   "short": "Legea nr. 150/2008",
+   "title": "Legea nr. 150/2008 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 149/2007 privind aprobarea unor măsuri în domeniul finanţelor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95728",
+   "versions": [
+    {
+     "from": "2008-07-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95728",
+     "sha256": "ae2a6d7b326b66f9a83594dc4d41265eb104dc5c88be7e4b98db3de9279826ae"
+    }
+   ]
+  },
+  {
+   "slug": "legea-150-2009",
+   "path": "lege/2009/150",
+   "short": "Legea nr. 150/2009",
+   "title": "Legea nr. 150/2009 pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 128/2008 privind unele măsuri de reorganizare a sectorului energetic prin preluarea de către Societatea Comercială de Distribuţie şi Furnizare a Energiei Electrice \"Electrica\" - S.A. a unor pachete de acţiuni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105565",
+   "versions": [
+    {
+     "from": "2009-05-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105565",
+     "sha256": "501039abf8067015e56bbb874c5bd7f7947ec9ab09334eb17c214d6ac6e3a1f9"
     }
    ]
   },
@@ -468517,6 +469552,51 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162455",
      "sha256": "321ab66c1afdee7f9d12d98252e32e5b2a2c27abc9e59cdf23f1e060088dd6bf"
+    }
+   ]
+  },
+  {
+   "slug": "legea-150-2015",
+   "path": "lege/2015/150",
+   "short": "Legea nr. 150/2015",
+   "title": "Legea nr. 150/2015 pentru modificarea şi completarea Legii cadastrului şi a publicităţii imobiliare nr. 7/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169161",
+   "versions": [
+    {
+     "from": "2015-06-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169161",
+     "sha256": "eba6f9e74ecc12a13417fe24829cc40c6dd1d9cef5daeed11a893f6015b7b0bc"
+    }
+   ]
+  },
+  {
+   "slug": "legea-150-2017",
+   "path": "lege/2017/150",
+   "short": "Legea nr. 150/2017",
+   "title": "Legea nr. 150/2017 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 50/2016 pentru modificarea Legii nr. 289/2002 privind perdelele forestiere de protecţie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190665",
+   "versions": [
+    {
+     "from": "2017-07-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190665",
+     "sha256": "40c782c4244ea2bba72b82255b8fd8e274574223a59c5e262b96913f4f2468e6"
+    }
+   ]
+  },
+  {
+   "slug": "legea-150-2018",
+   "path": "lege/2018/150",
+   "short": "Legea nr. 150/2018",
+   "title": "Legea nr. 150/2018 privind aprobarea Ordonanţei Guvernului nr. 30/2017 pentru modificarea şi completarea Legii nr. 207/2015 privind Codul de procedură fiscală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201866",
+   "versions": [
+    {
+     "from": "2018-06-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201866",
+     "sha256": "db5e1fa6c204a7b4a6f79405105a6b0baf79e5e6bc0fd3eb83b52ab2283b68bf"
     }
    ]
   },
@@ -468626,6 +469706,51 @@
    ]
   },
   {
+   "slug": "legea-151-1997",
+   "path": "lege/1997/151",
+   "short": "Legea nr. 151/1997",
+   "title": "Legea nr. 151/1997 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 10/1997 cu privire la diminuarea blocajului financiar şi a pierderilor din economie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11831",
+   "versions": [
+    {
+     "from": "1997-07-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11831",
+     "sha256": "5d4c5bd55ff5b0e2a0d813d5d7dda11520ca3daeb26dc918f0c5852eb43d6aba"
+    }
+   ]
+  },
+  {
+   "slug": "legea-151-1999",
+   "path": "lege/1999/151",
+   "short": "Legea nr. 151/1999",
+   "title": "Legea nr. 151/1999 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 36/1997 pentru modificarea şi completarea Legii învăţământului nr. 84/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18948",
+   "versions": [
+    {
+     "from": "1999-08-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18948",
+     "sha256": "f62717504f8c94b3051bed19f483b418fc3c0620a95e841c3dc8de9df489c503"
+    }
+   ]
+  },
+  {
+   "slug": "legea-151-2000",
+   "path": "lege/2000/151",
+   "short": "Legea nr. 151/2000",
+   "title": "Legea nr. 151/2000 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 55/1999 pentru interzicerea publicităţii produselor din tutun în sălile de spectacol şi interzicerea vânzării produselor din tutun minorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23539",
+   "versions": [
+    {
+     "from": "2000-07-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23539",
+     "sha256": "51703e83a6ef1041e1865408147bc7a9279369661501de1a46d6c931ff0bb22a"
+    }
+   ]
+  },
+  {
    "slug": "legea-151-2004",
    "path": "lege/2004/151",
    "short": "Legea nr. 151/2004",
@@ -468637,6 +469762,66 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52096",
      "sha256": "1e9e98c86d856956663c69121e13997d3470627a346b849c4d589204bf77d3fe"
+    }
+   ]
+  },
+  {
+   "slug": "legea-151-2005",
+   "path": "lege/2005/151",
+   "short": "Legea nr. 151/2005",
+   "title": "Legea nr. 151/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 16/2005 pentru modificarea lit. h) a art. 17 din Legea nr. 182/2002 privind protecţia informaţiilor clasificate şi pentru modificarea şi completarea Legii nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor şi protecţia persoanelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61918",
+   "versions": [
+    {
+     "from": "2005-05-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61918",
+     "sha256": "49719fb2f0f973dc727f785b99a5604b2dd3f30b6ddaef071f250fb73ad430c3"
+    }
+   ]
+  },
+  {
+   "slug": "legea-151-2006",
+   "path": "lege/2006/151",
+   "short": "Legea nr. 151/2006",
+   "title": "Legea nr. 151/2006 privind ratificarea Contractului de finanţare dintre România, reprezentată de Ministerul Finanţelor Publice, Banca Europeană de Investiţii şi Compania Naţională de Autostrăzi şi Drumuri Naţionale din România - S.A., semnat la Bucureşti la 22 decembrie 2005 şi la Luxemburg la 27 decembrie 2005, pentru finanţarea Proiectului privind construcţia autostrăzii Cernavodă-Constanţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72095",
+   "versions": [
+    {
+     "from": "2006-05-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72095",
+     "sha256": "058ce017fc4bc988db5f2a6a29e9da3cf702e9b749ec6dca72f8903b116f1f42"
+    }
+   ]
+  },
+  {
+   "slug": "legea-151-2007",
+   "path": "lege/2007/151",
+   "short": "Legea nr. 151/2007",
+   "title": "Legea nr. 151/2007 pentru modificarea Legii nr. 216/2004 privind înfiinţarea Administraţiei Naţionale de Meteorologie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82660",
+   "versions": [
+    {
+     "from": "2007-06-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82660",
+     "sha256": "805addf67c5858fce26776580e8672354e90c68699ecf228bfd56c5e29445cbd"
+    }
+   ]
+  },
+  {
+   "slug": "legea-151-2008",
+   "path": "lege/2008/151",
+   "short": "Legea nr. 151/2008",
+   "title": "Legea nr. 151/2008 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 150/2007 pentru modificarea art. III alin. (1) din Ordonanţa Guvernului nr. 3/2007 privind unele măsuri financiar-fiscale din domeniul protecţiei sociale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95730",
+   "versions": [
+    {
+     "from": "2008-07-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95730",
+     "sha256": "8836905e4a6081e88b270574c0217bb4dea50d7f1e7edae3bb31e31769383a42"
     }
    ]
   },
@@ -468728,6 +469913,21 @@
    ]
   },
   {
+   "slug": "legea-151-2014",
+   "path": "lege/2014/151",
+   "short": "Legea nr. 151/2014",
+   "title": "Legea nr. 151/2014 privind clarificarea statutului juridic al acţiunilor care se tranzacţionează pe Piaţa RASDAQ sau pe piaţa valorilor mobiliare necotate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162425",
+   "versions": [
+    {
+     "from": "2014-10-27",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162425",
+     "sha256": "34da584b0860e4c0457df320667f9828bcf294a5b777bcb0001d237657fb8ed2"
+    }
+   ]
+  },
+  {
    "slug": "legea-151-2016",
    "path": "lege/2016/151",
    "short": "Legea nr. 151/2016",
@@ -468754,6 +469954,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201932",
      "sha256": "3bc30b9bf24538646daf8074e710f49e1e9d71dcc5279750286ab95fbca17981"
+    }
+   ]
+  },
+  {
+   "slug": "legea-151-2019",
+   "path": "lege/2019/151",
+   "short": "Legea nr. 151/2019",
+   "title": "Legea nr. 151/2019 pentru completarea Legii nr. 350/2001 privind amenajarea teritoriului şi urbanismul",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/216610",
+   "versions": [
+    {
+     "from": "2019-07-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216610",
+     "sha256": "223f3b5b0ad7a78bbc41ac1d0f9bd2cde3d02b2af1711f9106323a9490d4e345"
     }
    ]
   },
@@ -468818,6 +470033,36 @@
    ]
   },
   {
+   "slug": "legea-152-2000",
+   "path": "lege/2000/152",
+   "short": "Legea nr. 152/2000",
+   "title": "Legea nr. 152/2000 pentru aprobarea Ordonanţei Guvernului nr. 46/2000 privind declararea Complexului Memorialul Revoluţiei - Decembrie 1989 din municipiul Timişoara ansamblu de interes naţional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23681",
+   "versions": [
+    {
+     "from": "2000-08-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23681",
+     "sha256": "5e8cb3d2d91df3fabe3d5dc95b765500cdc2501de498cfff7714550f6aa1e85f"
+    }
+   ]
+  },
+  {
+   "slug": "legea-152-2004",
+   "path": "lege/2004/152",
+   "short": "Legea nr. 152/2004",
+   "title": "Legea nr. 152/2004 privind aprobarea Ordonanţei Guvernului nr. 25/2004 pentru modificarea Ordonanţei Guvernului nr. 17/2002 privind stabilirea perioadelor de conducere şi a perioadelor de odihnă ale conducătorilor vehiculelor care efectuează transporturi rutiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52136",
+   "versions": [
+    {
+     "from": "2004-05-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52136",
+     "sha256": "5225b368565ccf0561babdef5ec12d65dc8e57e312e41e633cbcd2cc160052a6"
+    }
+   ]
+  },
+  {
    "slug": "legea-152-2006",
    "path": "lege/2006/152",
    "short": "Legea nr. 152/2006",
@@ -468829,6 +470074,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71812",
      "sha256": "977b6e247a611ef304826a878539f44c1f3c3aa3790efd3f404153cc9dae9a98"
+    }
+   ]
+  },
+  {
+   "slug": "legea-152-2007",
+   "path": "lege/2007/152",
+   "short": "Legea nr. 152/2007",
+   "title": "Legea nr. 152/2007 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 98/2006 privind supravegherea suplimentară a instituţiilor de credit, a societăţilor de asigurare şi/sau de reasigurare, a societăţilor de servicii de investiţii financiare şi a societăţilor de administrare a investiţiilor dintr-un conglomerat financiar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82682",
+   "versions": [
+    {
+     "from": "2007-06-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82682",
+     "sha256": "a8ef26e540f93dc5b72e3a06800cd87a60d4720cc0fb26fe35e0e6ea2e9dd394"
+    }
+   ]
+  },
+  {
+   "slug": "legea-152-2008",
+   "path": "lege/2008/152",
+   "short": "Legea nr. 152/2008",
+   "title": "Legea nr. 152/2008 pentru modificarea şi completarea Legii nr. 295/2004 privind regimul armelor şi al muniţiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95732",
+   "versions": [
+    {
+     "from": "2008-07-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95732",
+     "sha256": "9af168dacf8c6db8cefb0a8fd496b12a3fd9076d67d35e3649df8fa2543e293f"
     }
    ]
   },
@@ -468895,6 +470170,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169658",
      "sha256": "b7587c422b4961b209a2369fc90f09ea154a8a259e4324aef78e8e37ef9722d2"
+    }
+   ]
+  },
+  {
+   "slug": "legea-152-2016",
+   "path": "lege/2016/152",
+   "short": "Legea nr. 152/2016",
+   "title": "Legea nr. 152/2016 pentru modificarea şi completarea Legii nr. 360/2002 privind Statutul poliţistului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180224",
+   "versions": [
+    {
+     "from": "2016-07-22",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180224",
+     "sha256": "e2c8bc27b491ac7843f060dc1eaa150a82d132f117ba141acd6690de86e5bcdf"
     }
    ]
   },
@@ -468983,6 +470273,21 @@
    ]
   },
   {
+   "slug": "legea-152-2023",
+   "path": "lege/2023/152",
+   "short": "Legea nr. 152/2023",
+   "title": "Legea nr. 152/2023 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 24/2022 privind aprobarea şi finanţarea unor programe de garantare în domenii prioritare pentru economia românească",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270811",
+   "versions": [
+    {
+     "from": "2023-06-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270811",
+     "sha256": "f43b1b952757f9ac06e5b4a8e4a839d1f5b8fe95cbde69c818dc3acc9c68f99f"
+    }
+   ]
+  },
+  {
    "slug": "legea-152-2024",
    "path": "lege/2024/152",
    "short": "Legea nr. 152/2024",
@@ -469034,6 +470339,21 @@
    ]
   },
   {
+   "slug": "legea-153-2002",
+   "path": "lege/2002/153",
+   "short": "Legea nr. 153/2002",
+   "title": "Legea nr. 153/2002 privind aprobarea Ordonanţei Guvernului nr. 26/2002 pentru ratificarea amendamentelor convenite între Guvernul României şi Comisia Europeană, prin schimb de scrisori semnate la Bucureşti la 17 octombrie 2001 şi la Bruxelles la 11 decembrie 2001, la Memorandumul de finanţare convenit între Guvernul României şi Comisia Europeană privind asistenţa financiară nerambursabilă acordată prin Instrumentul pentru Politici Structurale de Preaderare pentru măsura \"Extinderea Staţiei de epurare a apelor uzate Dănuţoni - etapa de tratare biologica, Valea Jiului, România\", semnat la Bruxelles la 22 decembrie 2000 şi la Bucureşti la 13 mai 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35219",
+   "versions": [
+    {
+     "from": "2002-04-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35219",
+     "sha256": "39c0e3ae7683034260150f1affde7bac6ad9fcdcc9599470a2c4c2b31d5e37e1"
+    }
+   ]
+  },
+  {
    "slug": "legea-153-2004",
    "path": "lege/2004/153",
    "short": "Legea nr. 153/2004",
@@ -469060,6 +470380,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71814",
      "sha256": "86ed6e5a72150d3c920deef19ac714701dd1fececea7ab7b3f0b691dda18ccf1"
+    }
+   ]
+  },
+  {
+   "slug": "legea-153-2007",
+   "path": "lege/2007/153",
+   "short": "Legea nr. 153/2007",
+   "title": "Legea nr. 153/2007 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 135/2006 privind majorarea capitalului social al Casei de Economii şi Consemnaţiuni C.E.C. - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82764",
+   "versions": [
+    {
+     "from": "2007-06-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82764",
+     "sha256": "a3c16efdf92819af49525c43cdda09556135ff4e338377b0f9f8e00a8eb8f364"
+    }
+   ]
+  },
+  {
+   "slug": "legea-153-2008",
+   "path": "lege/2008/153",
+   "short": "Legea nr. 153/2008",
+   "title": "Legea nr. 153/2008 privind efectuarea recensământului general agricol din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95734",
+   "versions": [
+    {
+     "from": "2008-07-21",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95734",
+     "sha256": "54d38ae4638d807efd0e7136f9bf1400b6f9fbb499e5410ed75d76c6f550c92e"
     }
    ]
   },
@@ -469094,6 +470444,21 @@
    ]
   },
   {
+   "slug": "legea-153-2012",
+   "path": "lege/2012/153",
+   "short": "Legea nr. 153/2012",
+   "title": "Legea nr. 153/2012 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 41/2012 pentru modificarea şi completarea Legii nr. 3/2000 privind organizarea şi desfăşurarea referendumului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139892",
+   "versions": [
+    {
+     "from": "2012-07-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139892",
+     "sha256": "fc85fc3ae30795dc00fb687ac46d2afc880c2cca27d95d98dea4b0e7cc313f5d"
+    }
+   ]
+  },
+  {
    "slug": "legea-153-2013",
    "path": "lege/2013/153",
    "short": "Legea nr. 153/2013",
@@ -469120,6 +470485,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169014",
      "sha256": "b89255f4d44baa0ff7eea162ed103fd9420e8af99f2f1e799f47b8cb2b521d73"
+    }
+   ]
+  },
+  {
+   "slug": "legea-153-2016",
+   "path": "lege/2016/153",
+   "short": "Legea nr. 153/2016",
+   "title": "Legea nr. 153/2016 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 3/2016 pentru modificarea şi completarea Legii nr. 360/2002 privind Statutul poliţistului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180226",
+   "versions": [
+    {
+     "from": "2016-07-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180226",
+     "sha256": "330ad3b746ec613363d6ce5a131401848a3cecf20d70fc1b0fe2173a256dcc32"
     }
    ]
   },
@@ -469169,6 +470549,21 @@
    ]
   },
   {
+   "slug": "legea-153-2024",
+   "path": "lege/2024/153",
+   "short": "Legea nr. 153/2024",
+   "title": "Legea nr. 153/2024 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 127/2023 pentru modificarea şi completarea unor acte normative, prorogarea unor termene, precum şi unele măsuri bugetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/283333",
+   "versions": [
+    {
+     "from": "2024-06-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283333",
+     "sha256": "be904f0c9dabe9348a3bd85e6d19fc3aa7cd16d0eaf3fbf6dfa0db8d9dc9cdb7"
+    }
+   ]
+  },
+  {
    "slug": "legea-153-2025",
    "path": "lege/2025/153",
    "short": "Legea nr. 153/2025",
@@ -469201,6 +470596,126 @@
      "units": 30,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100898",
      "sha256": "357b2971612ebf491e73083f7b367ade83e3ba6351767b550a02b32f13eb5148"
+    }
+   ]
+  },
+  {
+   "slug": "legea-154-1999",
+   "path": "lege/1999/154",
+   "short": "Legea nr. 154/1999",
+   "title": "Legea nr. 154/1999 pentru ratificarea Acordului de cooperare dintre Guvernul României, Guvernul Republicii Bulgaria şi Guvernul Republicii Turcia în domeniul luptei împotriva terorismului, crimei organizate, traficului ilicit de substanţe stupefiante şi psihotrope, spălării banilor, traficului de arme şi persoane şi altor infracţiuni grave, semnat la Antalya la 16 aprilie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19530",
+   "versions": [
+    {
+     "from": "1999-10-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19530",
+     "sha256": "86c3601452cc9a11030fcdd171eea173944547b13102cdc9a32d591ac815bf61"
+    }
+   ]
+  },
+  {
+   "slug": "legea-154-2001",
+   "path": "lege/2001/154",
+   "short": "Legea nr. 154/2001",
+   "title": "Legea nr. 154/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 234/2000 pentru aprobarea prelungirii participării Guvernului României, pentru perioada 2001-2005, la Acordul dintre Comisia Economică pentru Europa a Naţiunilor Unite (C.E.E./O.N.U.) şi guvernele participante la proiectul \"Calea Ferată Transeuropeana (TER) privind fondul de cooperare şi creditare\", semnat la Geneva la 17 decembrie 1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27854",
+   "versions": [
+    {
+     "from": "2001-04-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27854",
+     "sha256": "f9a151cbd306c179bafb8710fc883540dc96a8d7e52d43b0bb1bdd283de3268c"
+    }
+   ]
+  },
+  {
+   "slug": "legea-154-2002",
+   "path": "lege/2002/154",
+   "short": "Legea nr. 154/2002",
+   "title": "Legea nr. 154/2002 privind aprobarea Ordonanţei Guvernului nr. 8/2002 pentru ratificarea Memorandumului de finanţare convenit între Guvernul României şi Comisia Europeană privind asistenţa financiară nerambursabilă acordată prin Instrumentul pentru Politici Structurale de Preaderare pentru măsura \"Reabilitarea reţelei de canalizare şi a staţiei de epurare a apelor uzate în Focşani, România\", semnat la Bruxelles la 20 august 2001 şi la Bucureşti la 10 octombrie 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35221",
+   "versions": [
+    {
+     "from": "2002-04-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35221",
+     "sha256": "c614b99980e24d8607d0ca5757fbe16482046766fbcfd65fd8eb0f5160d87864"
+    }
+   ]
+  },
+  {
+   "slug": "legea-154-2003",
+   "path": "lege/2003/154",
+   "short": "Legea nr. 154/2003",
+   "title": "Legea nr. 154/2003 pentru ratificarea Memorandumului de finanţare convenit între Guvernul României şi Comisia Europeană privind asistenţa financiară nerambursabilă acordată prin Instrumentul pentru Politici Structurale de Preaderare pentru măsura \"Reabilitarea secţiunii Drobeta-Turnu Severin-Lugoj a drumului naţional DN 6 (faza 2 a proiectului Craiova-Lugoj), România\", semnat la Bruxelles la 13 decembrie 2001 şi la Bucureşti la 17 aprilie 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43723",
+   "versions": [
+    {
+     "from": "2003-05-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43723",
+     "sha256": "5fffb2b8c82484c41e2b60aad1d89d8a70e7790cdb275a6d87a847524d5c82ea"
+    }
+   ]
+  },
+  {
+   "slug": "legea-154-2005",
+   "path": "lege/2005/154",
+   "short": "Legea nr. 154/2005",
+   "title": "Legea nr. 154/2005 pentru aprobarea Ordonanţei Guvernului nr. 8/2005 privind stabilirea unor măsuri de preluare a Gărzii Financiare şi a Autorităţii Naţionale a Vămilor în subordinea Ministerului Finanţelor Publice, precum şi a unor măsuri de reorganizare a Agenţiei Naţionale de Administrare Fiscală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62000",
+   "versions": [
+    {
+     "from": "2005-05-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62000",
+     "sha256": "c5b0a95f840c008d9e323fe19026cc2668a2e5e5e535fbc7ddeee9d70fc67115"
+    }
+   ]
+  },
+  {
+   "slug": "legea-154-2007",
+   "path": "lege/2007/154",
+   "short": "Legea nr. 154/2007",
+   "title": "Legea nr. 154/2007 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 5/2007 pentru completarea art. 3 din Legea nr. 142/1998 privind acordarea tichetelor de masă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82735",
+   "versions": [
+    {
+     "from": "2007-06-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82735",
+     "sha256": "5fb2925ab36f7d170d3bd6e968cee6302758de40ae31975ffdede2ae766da36c"
+    }
+   ]
+  },
+  {
+   "slug": "legea-154-2008",
+   "path": "lege/2008/154",
+   "short": "Legea nr. 154/2008",
+   "title": "Legea nr. 154/2008 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 5/2008 privind cadrul financiar general pentru fondul de participare JEREMIE",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95736",
+   "versions": [
+    {
+     "from": "2008-07-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95736",
+     "sha256": "71a5ad8c0b5162e6cf54afa0555590d23bf3c4285e33819fa7af7931827b3daa"
+    }
+   ]
+  },
+  {
+   "slug": "legea-154-2009",
+   "path": "lege/2009/154",
+   "short": "Legea nr. 154/2009",
+   "title": "Legea nr. 154/2009 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 100/2008 pentru completarea Legii nr. 19/2000 privind sistemul public de pensii şi alte drepturi de asigurări sociale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105783",
+   "versions": [
+    {
+     "from": "2009-05-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105783",
+     "sha256": "dbea6e13e6a0e5b24e4ddf19c8370514d0c8979b72ec04a0a5cd28397a84cfdc"
     }
    ]
   },
@@ -469448,6 +470963,51 @@
    ]
   },
   {
+   "slug": "legea-155-1999",
+   "path": "lege/1999/155",
+   "short": "Legea nr. 155/1999",
+   "title": "Legea nr. 155/1999 pentru ratificarea Tratatului de prietenie şi colaborare dintre România şi Republica Uzbekistan, semnat la Bucureşti la 6 iunie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19580",
+   "versions": [
+    {
+     "from": "1999-10-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19580",
+     "sha256": "252b80fd3599fd3e99c64020aab028dc7b8dad21f18ccaed47da1988354f4e2e"
+    }
+   ]
+  },
+  {
+   "slug": "legea-155-2001",
+   "path": "lege/2001/155",
+   "short": "Legea nr. 155/2001",
+   "title": "Legea nr. 155/2001 pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 32/1998 privind privatizarea societăţilor comerciale din turism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27856",
+   "versions": [
+    {
+     "from": "2001-04-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27856",
+     "sha256": "0749aae84f1aae0e15ce46d89699b81d072e993de639363a0296a6be906f9095"
+    }
+   ]
+  },
+  {
+   "slug": "legea-155-2002",
+   "path": "lege/2002/155",
+   "short": "Legea nr. 155/2002",
+   "title": "Legea nr. 155/2002 privind aprobarea Ordonanţei Guvernului nr. 23/2002 pentru ratificarea Memorandumului de finanţare convenit între Guvernul României şi Comisia Europeană privind asistenţa financiară nerambursabilă acordată prin Instrumentul pentru Politici Structurale de Preaderare pentru măsura \"Construirea variantei de ocolire a oraşului Sibiu la standarde de autostrada, pe Coridorul de transport european nr. IV, România\", semnat la Bruxelles la 20 august 2001 şi la Bucureşti la 10 octombrie 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35223",
+   "versions": [
+    {
+     "from": "2002-04-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35223",
+     "sha256": "7fda81051cb5772dbe222a882b008e5c18e4f34547ce55a4173b6f1aa787b59d"
+    }
+   ]
+  },
+  {
    "slug": "legea-155-2003",
    "path": "lege/2003/155",
    "short": "Legea nr. 155/2003",
@@ -469474,6 +471034,66 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52011",
      "sha256": "bc1e8b4854957796bea9e0e6dfdcec9e961cc1a3d8d34910203ed21ec326fc37"
+    }
+   ]
+  },
+  {
+   "slug": "legea-155-2007",
+   "path": "lege/2007/155",
+   "short": "Legea nr. 155/2007",
+   "title": "Legea nr. 155/2007 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 126/2006 pentru modificarea şi completarea Legii nr. 218/2005 privind stimularea absorbţiei fondurilor SAPARD prin preluarea riscului de către fondurile de garantare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82766",
+   "versions": [
+    {
+     "from": "2007-06-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82766",
+     "sha256": "901219c47d9f56cfa37fcfc186bc2ac410bf11647212794a785c205ae4eaee35"
+    }
+   ]
+  },
+  {
+   "slug": "legea-155-2008",
+   "path": "lege/2008/155",
+   "short": "Legea nr. 155/2008",
+   "title": "Legea nr. 155/2008 pentru modificarea Legii nr. 19/2003 privind organizarea şi funcţionarea Agenţiei Naţionale de Presă ROMPRES",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95738",
+   "versions": [
+    {
+     "from": "2008-07-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95738",
+     "sha256": "0f1754284a79d6d3f080133e46d4241b342f6343d1fc49c3a6d4c3b886281195"
+    }
+   ]
+  },
+  {
+   "slug": "legea-155-2009",
+   "path": "lege/2009/155",
+   "short": "Legea nr. 155/2009",
+   "title": "Legea nr. 155/2009 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 209/2008 pentru modificarea Legii nr. 19/2000 privind sistemul public de pensii şi alte drepturi de asigurări sociale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105785",
+   "versions": [
+    {
+     "from": "2009-05-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105785",
+     "sha256": "db0b27dbeabd783ef7df91d34fa432f0dc04e1dee6752c0d912afaa355309c20"
+    }
+   ]
+  },
+  {
+   "slug": "legea-155-2011",
+   "path": "lege/2011/155",
+   "short": "Legea nr. 155/2011",
+   "title": "Legea nr. 155/2011 pentru modificarea Legii nr. 246/2007 privind înfiinţarea, organizarea şi funcţionarea Institutului de Drept Public şi Ştiinţe Administrative al României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129881",
+   "versions": [
+    {
+     "from": "2011-07-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129881",
+     "sha256": "16418231ca2e79ceb130a9213289ddc3cb41493a0e40e246d6401962d55d9a0c"
     }
    ]
   },
@@ -469523,6 +471143,36 @@
    ]
   },
   {
+   "slug": "legea-155-2015",
+   "path": "lege/2015/155",
+   "short": "Legea nr. 155/2015",
+   "title": "Legea nr. 155/2015 pentru modificarea Legii nr. 263/2010 privind sistemul unitar de pensii publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169018",
+   "versions": [
+    {
+     "from": "2015-06-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169018",
+     "sha256": "ad6cfb7145f5ebd17873aa4ee4fabff6b909a0db173390a95664b08b9e6cbedf"
+    }
+   ]
+  },
+  {
+   "slug": "legea-155-2016",
+   "path": "lege/2016/155",
+   "short": "Legea nr. 155/2016",
+   "title": "Legea nr. 155/2016 pentru modificarea şi completarea Legii nr. 263/2010 privind sistemul unitar de pensii publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180216",
+   "versions": [
+    {
+     "from": "2016-07-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180216",
+     "sha256": "9122fde74fe3f0df192f3b4b315c57a3c49e3eacdbc97806960d0b41e142fae9"
+    }
+   ]
+  },
+  {
    "slug": "legea-155-2019",
    "path": "lege/2019/155",
    "short": "Legea nr. 155/2019",
@@ -469534,6 +471184,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216616",
      "sha256": "6b75010234534d14ee35fe48df8e26d197d3540209734277e2470cf1ca44983e"
+    }
+   ]
+  },
+  {
+   "slug": "legea-155-2021",
+   "path": "lege/2021/155",
+   "short": "Legea nr. 155/2021",
+   "title": "Legea nr. 155/2021 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 4/2021 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 57/2019 privind Codul administrativ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243075",
+   "versions": [
+    {
+     "from": "2021-06-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243075",
+     "sha256": "c1862c6d97b2c7888d01b8f8895d7e0b82574d60ba18a7bdabf2ecfad9fc8327"
     }
    ]
   },
@@ -469583,6 +471248,36 @@
    ]
   },
   {
+   "slug": "legea-156-1998",
+   "path": "lege/1998/156",
+   "short": "Legea nr. 156/1998",
+   "title": "Legea nr. 156/1998 pentru ratificarea Acordului de împrumut dintre România şi Fondul pentru Cooperare Economică Internaţională - Japonia privind Proiectul de reabilitare a drumurilor, semnat la Tokyo la 27 februarie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15457",
+   "versions": [
+    {
+     "from": "1998-08-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15457",
+     "sha256": "59113b71103f5a104f321e632c0362da5bc79be49f2d47ba235fc2c9f4ac3a9b"
+    }
+   ]
+  },
+  {
+   "slug": "legea-156-1999",
+   "path": "lege/1999/156",
+   "short": "Legea nr. 156/1999",
+   "title": "Legea nr. 156/1999 pentru modificarea şi completarea Legii nr. 101/1998 privind Statutul Băncii Naţionale a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19582",
+   "versions": [
+    {
+     "from": "1999-10-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19582",
+     "sha256": "0d464fb1c2229a8e560896ef2e3bf8f59f93426c235bbc0f9aa089ac79925eaa"
+    }
+   ]
+  },
+  {
    "slug": "legea-156-2002",
    "path": "lege/2002/156",
    "short": "Legea nr. 156/2002",
@@ -469624,6 +471319,51 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52020",
      "sha256": "c33a198e0fa8a7131fc701826d0aa3befe2a8375147d955ba951f752e4cf546c"
+    }
+   ]
+  },
+  {
+   "slug": "legea-156-2005",
+   "path": "lege/2005/156",
+   "short": "Legea nr. 156/2005",
+   "title": "Legea nr. 156/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 6/2005 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 56/2004 privind crearea statutului special al funcţionarului public denumit manager public",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62002",
+   "versions": [
+    {
+     "from": "2005-05-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62002",
+     "sha256": "a14d620520dc4cd2563bd6d52bb6f78ec0b8cd852aae6f839c10bf7e9c2638ea"
+    }
+   ]
+  },
+  {
+   "slug": "legea-156-2007",
+   "path": "lege/2007/156",
+   "short": "Legea nr. 156/2007",
+   "title": "Legea nr. 156/2007 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 4/2007 privind reluarea pentru anul 2007 a Programului de stimulare a înnoirii Parcului auto naţional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82737",
+   "versions": [
+    {
+     "from": "2007-06-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82737",
+     "sha256": "eb000bc733c16490175eb8e70c600760c6e066a247c95b0dab0b33eec8db63fa"
+    }
+   ]
+  },
+  {
+   "slug": "legea-156-2008",
+   "path": "lege/2008/156",
+   "short": "Legea nr. 156/2008",
+   "title": "Legea nr. 156/2008 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 2/2008 privind modificarea şi completarea Ordonanţei Guvernului nr. 14/2007 pentru reglementarea modului şi condiţiilor de valorificare a bunurilor intrate, potrivit legii, în proprietatea privată a statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95740",
+   "versions": [
+    {
+     "from": "2008-07-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95740",
+     "sha256": "93a8c6006ff52404e88b42f3f96975c5c3db61dba100e541539416bea2c0d667"
     }
    ]
   },
@@ -469714,6 +471454,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169047",
      "sha256": "6e4f333c8775f361e206f2036a5394d2c3142a983c68988790829349de792558"
+    }
+   ]
+  },
+  {
+   "slug": "legea-156-2016",
+   "path": "lege/2016/156",
+   "short": "Legea nr. 156/2016",
+   "title": "Legea nr. 156/2016 privind aprobarea Ordonanţei Guvernului nr. 13/2016 pentru modificarea şi completarea Legii nr. 372/2005 privind performanţa energetică a clădirilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180236",
+   "versions": [
+    {
+     "from": "2016-07-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180236",
+     "sha256": "d48e1f1ae281014071b9629e23f25bec4670e5862355c6533f62563e2a6ede82"
     }
    ]
   },
@@ -469835,6 +471590,36 @@
    ]
   },
   {
+   "slug": "legea-157-1998",
+   "path": "lege/1998/157",
+   "short": "Legea nr. 157/1998",
+   "title": "Legea nr. 157/1998 pentru ratificarea Acordului de împrumut dintre România şi Fondul pentru Cooperare Economică Internaţionala - Japonia privind Proiectul de dezvoltare a Portului Constanţa-Sud, semnat la Tokyo la 27 februarie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15460",
+   "versions": [
+    {
+     "from": "1998-08-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15460",
+     "sha256": "9c2f2da5fcca114adde4a95cb4d40068765cedd0cd87c3cbc9b02d46bf4daa43"
+    }
+   ]
+  },
+  {
+   "slug": "legea-157-1999",
+   "path": "lege/1999/157",
+   "short": "Legea nr. 157/1999",
+   "title": "Legea nr. 157/1999 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 56/1998 privind unele măsuri pentru restructurarea Guvernului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19584",
+   "versions": [
+    {
+     "from": "1999-10-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19584",
+     "sha256": "aec005c48e298cb33d12f0b874ea0e2836da7be3be573405b0923610aeb04e4e"
+    }
+   ]
+  },
+  {
    "slug": "legea-157-2003",
    "path": "lege/2003/157",
    "short": "Legea nr. 157/2003",
@@ -469846,6 +471631,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43439",
      "sha256": "7c664801829bd46e53438ad65aedbaa31a912f6d4c078a6a170c1eb6652fe9c6"
+    }
+   ]
+  },
+  {
+   "slug": "legea-157-2007",
+   "path": "lege/2007/157",
+   "short": "Legea nr. 157/2007",
+   "title": "Legea nr. 157/2007 privind detalierea obiectivelor cuprinse în listele de investiţii ale instituţiilor publice din sectorul de apărare naţională, ordine publică şi siguranţă naţională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82747",
+   "versions": [
+    {
+     "from": "2007-06-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82747",
+     "sha256": "a01fb752785154fd6fb2d062a93c4d052a502972682597f4de2f5973d4e04258"
     }
    ]
   },
