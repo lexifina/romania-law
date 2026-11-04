@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38858 acts, 52,611 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38870 acts, 52,623 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8199, of which 3015 amending acts)
+## Laws (legi) (8204, of which 3020 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -996,11 +996,16 @@
 | Legea nr. 348/2001 pentru modificarea Legii nr. 26/1990 privind registrul comerţului | [`lege/2001/348/`](lege/2001/348/) | amended, not consolidated | 1 | 2001-07-12 | 2001-07-12 |
 | Legea nr. 350/2001 privind amenajarea teritoriului și urbanismul | [`lege/2001/350/`](lege/2001/350/) | in force | 33 | 2001-07-10 | 2026-02-25 |
 | Legea nr. 351/2001 privind aprobarea Planului de amenajare a teritoriului național - Secțiunea a IV-a Rețeaua de localități | [`lege/2001/351/`](lege/2001/351/) | amending act | 10 | 2001-07-24 | 2022-07-28 |
+| Legea nr. 354/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 184/1999 pentru completarea art. 5 din Legea nr. 42/1990 pentru cinstirea eroilor-martiri şi acordarea unor drepturi urmaşilor acestora, răniţilor, precum şi luptătorilor pentru victoria Revoluţiei din decembrie 1989 | [`lege/2001/354/`](lege/2001/354/) | amending act | 1 | 2001-07-12 | 2001-07-12 |
+| Legea nr. 355/2001 pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 113/2000 privind modificarea alin. 1 al art. 103 din Legea pentru organizarea judecătorească nr. 92/1992 | [`lege/2001/355/`](lege/2001/355/) | amending act | 1 | 2001-07-12 | 2001-07-12 |
 | Legea nr. 356/2001 | [`lege/2001/356/`](lege/2001/356/) | in force | 2 | 2001-07-12 | 2004-01-01 |
 | Legea nr. 357/2001 privind aprobarea Ordonanţei de urgenta a Guvernului nr. 201/2000 pentru crearea cadrului instituţional necesar în vederea funcţionarii Centrului Regional al Iniţiativei de Cooperare în Sud-Estul Europei pentru combaterea infracţionalităţii transfrontaliere | [`lege/2001/357/`](lege/2001/357/) | amended, not consolidated | 1 | 2001-07-12 | 2001-07-12 |
+| Legea nr. 358/2001 pentru aprobarea Ordonanţei Guvernului nr. 50/1999 privind scutirea de la plata taxelor vamale a unor produse ale tehnologiei informaţiei | [`lege/2001/358/`](lege/2001/358/) | amending act | 1 | 2001-07-12 | 2001-07-12 |
+| Legea nr. 359/2001 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 15/1997 pentru modificarea şi completarea Legii privatizării societăţilor comerciale nr. 58/1991 | [`lege/2001/359/`](lege/2001/359/) | amending act | 1 | 2001-07-12 | 2001-07-12 |
 | Legea nr. 360/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 18/2001 pentru modificarea Legii nr. 188/2000 privind executorii judecătoreşti | [`lege/2001/360/`](lege/2001/360/) | amended, not consolidated | 1 | 2001-07-12 | 2001-07-12 |
 | Legea nr. 361/2001 privind aprobarea Ordonanţei Guvernului nr. 108/2000 pentru aprobarea exceptării de la plata impozitului pe profit aferent veniturilor proprii ale Companiei Naţionale "Aeroportul Internaţional Bucureşti-Otopeni" - S.A., destinate acoperirii cheltuielilor de investiţii şi a avansului pentru modernizarea Aeroportului Internaţional Bucureşti-Otopeni şi a celor pentru rambursarea creditelor externe contractate, potrivit legii, cu aceasta destinaţie | [`lege/2001/361/`](lege/2001/361/) | amended, not consolidated | 1 | 2001-07-12 | 2001-07-12 |
 | Legea nr. 362/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 33/2000 privind finanţarea de la bugetul de stat a unor măsuri pentru protejarea patrimoniului genetic al animalelor | [`lege/2001/362/`](lege/2001/362/) | amended, not consolidated | 1 | 2001-07-12 | 2001-07-12 |
+| Legea nr. 363/2001 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 5/2000 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 118/1999 privind înfiinţarea şi utilizarea Fondului naţional de solidaritate | [`lege/2001/363/`](lege/2001/363/) | amending act | 1 | 2001-07-12 | 2001-07-12 |
 | Legea nr. 364/2001 privind respingerea Ordonanţei Guvernului nr. 37/1998 pentru modificarea şi completarea Ordonanţei Guvernului nr. 47/1997 privind impunerea unor venituri, realizate din România, de persoanele fizice şi juridice nerezidente | [`lege/2001/364/`](lege/2001/364/) | amending act | 1 | 2001-07-13 | 2001-07-13 |
 | Legea nr. 366/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 118/1999 privind înfiinţarea şi utilizarea Fondului naţional de solidaritate | [`lege/2001/366/`](lege/2001/366/) | amended, not consolidated | 1 | 2001-07-13 | 2001-07-13 |
 | Legea nr. 367/2001 privind aprobarea Ordonanţei de urgenta a Guvernului nr. 242/2000 pentru modificarea Ordonanţei Guvernului nr. 105/1999 privind acordarea unor drepturi persoanelor persecutate de către regimurile instaurate în România cu începere de la 6 septembrie 1940 până la 6 martie 1945 din motive etnice | [`lege/2001/367/`](lege/2001/367/) | amended, not consolidated | 1 | 2001-07-16 | 2001-07-16 |
@@ -12110,7 +12115,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26714, of which 12475 amending acts)
+## Government decisions (HG) (26721, of which 12478 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13177,7 +13182,14 @@
 | Hotărârea Guvernului nr. 622/2001 pentru aprobarea Normelor metodologice de aplicare a Ordonanţei Guvernului nr. 102/2000 privind statutul şi regimul refugiaţilor în România | [`hg/2001/622/`](hg/2001/622/) | amended, not consolidated | 1 | 2001-07-18 | 2001-07-18 |
 | Hotărârea Guvernului nr. 623/2001 pentru aprobarea componentei nominale a reprezentanţilor părţii române în comisia mixtă pentru realizarea obiectivului "Pod peste fluviul Dunărea, la Calafat-Vidin" | [`hg/2001/623/`](hg/2001/623/) | amended, not consolidated | 1 | 2001-07-11 | 2001-07-11 |
 | Hotărârea Guvernului nr. 626/2001 | [`hg/2001/626/`](hg/2001/626/) | in force | 2 | 2001-07-17 | 2020-09-29 |
+| Hotărârea Guvernului nr. 635/2001 privind numirea unui consul general | [`hg/2001/635/`](hg/2001/635/) | in force | 1 | 2001-07-12 | 2001-07-12 |
 | Hotărârea Guvernului nr. 636/2001 privind nivelul taxei de abonament pentru Societatea Română de Radiodifuziune | [`hg/2001/636/`](hg/2001/636/) | amended, not consolidated | 1 | 2001-07-13 | 2001-07-13 |
+| Hotărârea Guvernului nr. 637/2001 privind alocarea unor sume din Fondul de rezerva bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2001, Consiliului Local al Municipiului Reşita | [`hg/2001/637/`](hg/2001/637/) | in force | 1 | 2001-07-12 | 2001-07-12 |
+| Hotărârea Guvernului nr. 638/2001 privind alocarea unor sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2001, pentru refacerea podului din oraşul Oţelu Roşu, judeţul Caraş-Severin, distrus în urma inundaţiilor din luna aprilie 2000 | [`hg/2001/638/`](hg/2001/638/) | in force | 1 | 2001-07-16 | 2001-07-16 |
+| Hotărârea Guvernului nr. 639/2001 pentru modificarea Hotărârii Guvernului nr. 322/2001 privind aprobarea categoriilor de cheltuieli şi a obiectivelor pentru înlăturarea efectelor calamităţilor naturale produse în perioada 1-7 martie 2001 în judeţul Suceava | [`hg/2001/639/`](hg/2001/639/) | amending act | 1 | 2001-07-16 | 2001-07-16 |
+| Hotărârea Guvernului nr. 641/2001 privind aprobarea încadrării în categoria funcţională a drumurilor judeţene a unor sectoare de drumuri situate în judeţul Hunedoara | [`hg/2001/641/`](hg/2001/641/) | amending act | 1 | 2001-07-16 | 2001-07-16 |
+| Hotărârea Guvernului nr. 642/2001 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Mărirea gradului de siguranţă a instalaţiilor aferente staţiei 400/110/10 kV Constanţa-Nord" | [`hg/2001/642/`](hg/2001/642/) | amending act | 1 | 2001-07-16 | 2001-07-16 |
+| Hotărârea Guvernului nr. 643/2001 privind plata contribuţiei României pe anii 2001 şi 2002 pentru participarea la Programul LIFE al Comunităţii Europene | [`hg/2001/643/`](hg/2001/643/) | in force | 1 | 2001-07-16 | 2001-07-16 |
 | Hotărârea Guvernului nr. 645/2001 cu privire la unele măsuri pentru asigurarea colectării şi depozitarii graului şi orzului din recolta anului 2001 | [`hg/2001/645/`](hg/2001/645/) | in force | 1 | 2001-07-18 | 2001-07-18 |
 | Hotărârea Guvernului nr. 647/2001 privind aprobarea Strategiei naţionale de dezvoltare energetica a României pe termen mediu - 2001-2004 | [`hg/2001/647/`](hg/2001/647/) | amending act | 1 | 2001-08-07 | 2001-08-07 |
 | Hotărârea Guvernului nr. 648/2001 privind declararea Societăţii Comerciale "Institutul Naţional pentru Securitate Minieră şi Protecţie Antiexplozivă - INSEMEX" - S.A. Petroşani societate de interes strategic | [`hg/2001/648/`](hg/2001/648/) | in force | 1 | 2001-07-26 | 2001-07-26 |
