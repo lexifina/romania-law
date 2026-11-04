@@ -1,6 +1,6 @@
 # Every act in this repository
 
-21995 acts, 35,628 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+22016 acts, 35,649 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3476,7 +3476,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1715, of which 605 amending acts)
+## Emergency ordinances (OUG) (1716, of which 605 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4076,6 +4076,7 @@
 | Ordonanța de urgență a Guvernului nr. 76/2010 | [`oug/2010/76/`](oug/2010/76/) | in force | 2 | 2010-07-02 | 2011-01-03 |
 | Ordonanța de urgență a Guvernului nr. 80/2010 pentru completarea art. 11 din Ordonanța de urgență a Guvernului nr. 37/2008 privind reglementarea unor măsuri financiare în domeniul bugetar | [`oug/2010/80/`](oug/2010/80/) | amending act | 10 | 2010-09-10 | 2017-07-01 |
 | Ordonanța de urgență a Guvernului nr. 82/2010 | [`oug/2010/82/`](oug/2010/82/) | in force | 2 | 2010-09-10 | 2011-06-12 |
+| Ordonanța de urgență a Guvernului nr. 83/2010 privind exceptarea de la plata tarifelor prevăzute la art. 42 alin. (3) lit. h) din Legea îmbunătăţirilor funciare nr. 138/2004 , pentru scoaterea din circuitul agricol a terenurilor necesare pentru realizarea unor obiective de interes naţional, judeţean şi local | [`oug/2010/83/`](oug/2010/83/) | in force | 1 | 2010-09-21 | 2010-09-21 |
 | Ordonanța de urgență a Guvernului nr. 84/2010 | [`oug/2010/84/`](oug/2010/84/) | in force | 2 | 2010-09-22 | 2012-07-26 |
 | Ordonanța de urgență a Guvernului nr. 87/2010 | [`oug/2010/87/`](oug/2010/87/) | in force | 1 | 2010-10-01 | 2010-10-01 |
 | Ordonanța de urgență a Guvernului nr. 88/2010 | [`oug/2010/88/`](oug/2010/88/) | in force | 3 | 2010-10-01 | 2011-06-24 |
@@ -5729,7 +5730,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (16275, of which 8446 amending acts)
+## Government decisions (HG) (16295, of which 8452 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8869,8 +8870,28 @@
 | Hotărârea Guvernului nr. 918/2010 | [`hg/2010/918/`](hg/2010/918/) | in force | 2 | 2010-09-15 | 2012-03-02 |
 | Hotărârea Guvernului nr. 932/2010 | [`hg/2010/932/`](hg/2010/932/) | in force | 1 | 2010-09-16 | 2010-09-16 |
 | Hotărârea Guvernului nr. 955/2010 | [`hg/2010/955/`](hg/2010/955/) | in force | 2 | 2010-09-27 | 2011-12-27 |
+| Hotărârea Guvernului nr. 956/2010 pentru modificarea şi completarea Hotărârii Guvernului nr. 11/2009 privind organizarea şi funcţionarea Ministerului Muncii, Familiei şi Protecţiei Sociale | [`hg/2010/956/`](hg/2010/956/) | amending act | 1 | 2010-09-20 | 2010-09-20 |
+| Hotărârea Guvernului nr. 957/2010 privind trecerea din domeniul public al statului în domeniul privat al statului a unui mijloc fix aflat în administrarea Ministerului Transporturilor şi Infrastructurii şi în concesiunea Companiei Naţionale "Administraţia Canalelor Navigabile" - S.A. Constanţa, în vederea scoaterii din funcţiune, casării şi valorificării | [`hg/2010/957/`](hg/2010/957/) | in force | 1 | 2010-09-20 | 2010-09-20 |
+| Hotărârea Guvernului nr. 958/2010 privind modificarea anexei nr. 3 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, precum şi trecerea din domeniul public al statului în domeniul privat al acestuia a unor construcţii-anexe aflate în administrarea Ministerului Agriculturii şi Dezvoltării Rurale, Agenţia de Plăţi şi Intervenţie pentru Agricultură - Centrul Judeţean Harghita, în vederea scoaterii din funcţiune şi demolării | [`hg/2010/958/`](hg/2010/958/) | amending act | 1 | 2010-09-17 | 2010-09-17 |
+| Hotărârea Guvernului nr. 959/2010 privind schimbarea regimului juridic al unor imobile | [`hg/2010/959/`](hg/2010/959/) | in force | 1 | 2010-09-20 | 2010-09-20 |
+| Hotărârea Guvernului nr. 960/2010 pentru modificarea unor anexe la Hotărârea Guvernului nr. 609/2008 pentru aprobarea Strategiei naţionale anticorupţie privind sectoarele vulnerabile şi administraţia publică locală pe perioada 2008-2010 | [`hg/2010/960/`](hg/2010/960/) | amending act | 1 | 2010-10-08 | 2010-10-08 |
+| Hotărârea Guvernului nr. 961/2010 privind schimbarea denumirii "Complexul Muzeal Bucovina" în "Muzeul Bucovinei" | [`hg/2010/961/`](hg/2010/961/) | in force | 1 | 2010-09-20 | 2010-09-20 |
 | Hotărârea Guvernului nr. 962/2010 | [`hg/2010/962/`](hg/2010/962/) | in force | 1 | 2010-09-16 | 2010-09-16 |
+| Hotărârea Guvernului nr. 963/2010 privind modificarea anexei nr. 40 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2010/963/`](hg/2010/963/) | amending act | 1 | 2010-11-02 | 2010-11-02 |
+| Hotărârea Guvernului nr. 964/2010 privind înfiinţarea Institutului Regional de Gastroenterologie-Hepatologie "Prof. Dr. Octavian Fodor" Cluj-Napoca | [`hg/2010/964/`](hg/2010/964/) | in force | 1 | 2010-10-19 | 2010-10-19 |
 | Hotărârea Guvernului nr. 966/2010 | [`hg/2010/966/`](hg/2010/966/) | in force | 2 | 2010-09-21 | 2016-12-20 |
+| Hotărârea Guvernului nr. 968/2010 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.377/2009 privind aprobarea Regulamentului de organizare şi funcţionare a Inspecţiei Muncii, precum şi pentru stabilirea unor măsuri cu caracter organizatoric | [`hg/2010/968/`](hg/2010/968/) | amending act | 1 | 2010-09-22 | 2010-09-22 |
+| Hotărârea Guvernului nr. 969/2010 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată rămase de expropriat, situate pe amplasamentul lucrării de utilitate publică "Fluidizare trafic pe DN 1 km 8+100-17+100 şi Centura rutieră în zona de nord a municipiului Bucureşti - obiect 5B - Extindere la patru benzi a Centurii Rutiere a Municipiului Bucureşti pe sectorul cuprins între km 2+400 şi intersecţia cu DN 2" | [`hg/2010/969/`](hg/2010/969/) | in force | 1 | 2010-09-28 | 2010-09-28 |
+| Hotărârea Guvernului nr. 971/2010 privind transmiterea unor imobile din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al judeţului Dâmboviţa şi în administrarea Consiliului Judeţean Dâmboviţa | [`hg/2010/971/`](hg/2010/971/) | in force | 1 | 2010-09-23 | 2010-09-23 |
+| Hotărârea Guvernului nr. 972/2010 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Finanţelor Publice în domeniul public al judeţului Tulcea şi în administrarea Consiliului Judeţean Tulcea | [`hg/2010/972/`](hg/2010/972/) | in force | 1 | 2010-09-23 | 2010-09-23 |
+| Hotărârea Guvernului nr. 973/2010 privind transmiterea unui imobil din domeniul privat al statului şi din administrarea Ministerului Administraţiei şi Internelor - Inspectoratul Judeţean al Poliţiei de Frontieră Bihor în domeniul privat al comunei Roşiori şi în administrarea Consiliului Local al Comunei Roşiori, judeţul Bihor | [`hg/2010/973/`](hg/2010/973/) | in force | 1 | 2010-09-23 | 2010-09-23 |
+| Hotărârea Guvernului nr. 974/2010 privind trecerea unui imobil din domeniul public al statului în domeniul privat al municipiului Moineşti şi în administrarea Consiliului Local al Municipiului Moineşti, judeţul Bacău | [`hg/2010/974/`](hg/2010/974/) | in force | 1 | 2010-09-28 | 2010-09-28 |
+| Hotărârea Guvernului nr. 977/2010 privind repartizarea pe proiecte a sumelor defalcate din taxa pe valoarea adăugată pentru finanţarea Programului de dezvoltare a infrastructurii şi a unor baze sportive din spaţiul rural pe anul 2010, instituit prin Ordonanţa Guvernului nr. 7/2006 privind instituirea Programului de dezvoltare a infrastructurii şi a unor baze sportive din spaţiul rural | [`hg/2010/977/`](hg/2010/977/) | in force | 1 | 2010-10-01 | 2010-10-01 |
+| Hotărârea Guvernului nr. 978/2010 pentru aprobarea Acordului dintre Ministerul Apărării Naţionale din România şi Ministerul Apărării Naţionale din Republica Elenă privind cooperarea în domeniul militar, semnat la Atena la 6 mai 2010 | [`hg/2010/978/`](hg/2010/978/) | amending act | 1 | 2010-10-05 | 2010-10-05 |
+| Hotărârea Guvernului nr. 979/2010 privind încetarea exercitării temporare a funcţiei publice de prefect al judeţului Bacău de către domnul Olaru Neculai | [`hg/2010/979/`](hg/2010/979/) | in force | 1 | 2010-09-21 | 2010-09-21 |
+| Hotărârea Guvernului nr. 980/2010 privind aplicarea mobilităţii pentru domnul Scripăţ Constantin din funcţia publică de subprefect al judeţului Bacău în funcţia publică de prefect al judeţului Bacău | [`hg/2010/980/`](hg/2010/980/) | in force | 1 | 2010-09-21 | 2010-09-21 |
+| Hotărârea Guvernului nr. 981/2010 privind exercitarea, cu caracter temporar, în condiţiile legii, a funcţiei publice de subprefect al judeţului Bacău de către domnul Dascălu Gelu-Mugurel | [`hg/2010/981/`](hg/2010/981/) | in force | 1 | 2010-09-21 | 2010-09-21 |
+| Hotărârea Guvernului nr. 982/2010 privind acordarea de către România a unui ajutor umanitar de urgenţă, cu titlu gratuit, pentru Republica Moldova | [`hg/2010/982/`](hg/2010/982/) | in force | 1 | 2010-09-21 | 2010-09-21 |
 | Hotărârea Guvernului nr. 983/2010 pentru aprobarea schimbării din clasa de secretizare secret de stat, nivel de secretizare secret, în clasa de secretizare secret de serviciu a informaţiilor cuprinse în "Fişa de evidenţă" a cadrelor militare şi "Fişa matricolă" din memoriile originale ale acestora, elaborate de Ministerul Apărării Naţionale în perioada 17 februarie 1972-31 decembrie 2002 | [`hg/2010/983/`](hg/2010/983/) | amending act | 1 | 2010-09-28 | 2010-09-28 |
 | Hotărârea Guvernului nr. 984/2010 privind transmiterea unei părţi dintr-un imobil din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al municipiului Botoşani şi în administrarea Consiliului Local al Municipiului Botoşani, judeţul Botoşani | [`hg/2010/984/`](hg/2010/984/) | in force | 1 | 2010-09-30 | 2010-09-30 |
 | Hotărârea Guvernului nr. 986/2010 privind înfiinţarea, organizarea şi funcţionarea Consiliului interministerial pentru elaborarea şi coordonarea implementării unui program de dezvoltare economico-socială a zonei "Delta Dunării" | [`hg/2010/986/`](hg/2010/986/) | in force | 1 | 2010-09-30 | 2010-09-30 |
