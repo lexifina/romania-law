@@ -1,6 +1,6 @@
 # Every act in this repository
 
-24639 acts, 38,273 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+24649 acts, 38,283 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6021,7 +6021,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (18627, of which 9553 amending acts)
+## Government decisions (HG) (18637, of which 9563 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6620,8 +6620,18 @@
 | Hotărârea Guvernului nr. 1581/2005 | [`hg/2005/1581/`](hg/2005/1581/) | in force | 1 | 2006-01-11 | 2006-01-11 |
 | Hotărârea Guvernului nr. 1724/2005 | [`hg/2005/1724/`](hg/2005/1724/) | in force | 3 | 2006-01-29 | 2007-05-04 |
 | Hotărârea Guvernului nr. 1768/2005 | [`hg/2005/1768/`](hg/2005/1768/) | in force | 4 | 2005-12-28 | 2009-11-27 |
+| Hotărârea Guvernului nr. 1823/2005 pentru modificarea şi completarea Hotărârii Guvernului nr. 142/2005 privind aprobarea obiectivelor salariale trimestriale, pe anul 2005, pentru agenţii economici monitorizaţi potrivit prevederilor Ordonanţei de urgenţă a Guvernului nr. 79/2001 privind întărirea disciplinei economico-financiare şi alte dispoziţii cu caracter financiar | [`hg/2005/1823/`](hg/2005/1823/) | amending act | 1 | 2005-12-30 | 2005-12-30 |
 | Hotărârea Guvernului nr. 1825/2005 | [`hg/2005/1825/`](hg/2005/1825/) | in force | 2 | 2006-01-04 | 2006-01-20 |
 | Hotărârea Guvernului nr. 1826/2005 | [`hg/2005/1826/`](hg/2005/1826/) | in force | 1 | 2006-01-06 | 2006-01-06 |
+| Hotărârea Guvernului nr. 1827/2005 privind aprobarea Programului de implementare a Planului naţional antisărăcie şi promovare a incluziunii sociale (PNAinc) pentru perioada 2006-2008 | [`hg/2005/1827/`](hg/2005/1827/) | amending act | 1 | 2006-01-24 | 2006-01-24 |
+| Hotărârea Guvernului nr. 1829/2005 pentru modificarea şi completarea Hotărârii Guvernului nr. 267/2004 privind instituirea Sistemului de clasificare a carcaselor de porcine, bovine şi ovine | [`hg/2005/1829/`](hg/2005/1829/) | amending act | 1 | 2006-01-05 | 2006-01-05 |
+| Hotărârea Guvernului nr. 1830/2005 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.223/1996 privind reorganizarea activităţii de coordonare şi dezvoltare a patrimoniului genetic naţional din zootehnie, precum şi pentru modificarea anexei nr. 5 la Hotărârea Guvernului nr. 155/2005 privind organizarea şi funcţionarea Ministerului Agriculturii, Pădurilor şi Dezvoltării Rurale | [`hg/2005/1830/`](hg/2005/1830/) | amending act | 1 | 2006-01-05 | 2006-01-05 |
+| Hotărârea Guvernului nr. 1831/2005 pentru modificarea Hotărârii Guvernului nr. 269/2001 privind registrul agricol pentru perioada 2001-2005 | [`hg/2005/1831/`](hg/2005/1831/) | amending act | 1 | 2005-12-30 | 2005-12-30 |
+| Hotărârea Guvernului nr. 1832/2005 pentru modificarea şi completarea Regulamentului privind procedura de constituire, atribuţiile şi funcţionarea comisiilor pentru stabilirea dreptului de proprietate privată asupra terenurilor, a modelului şi modului de atribuire a titlurilor de proprietate, precum şi punerea în posesie a proprietarilor, aprobat prin Hotărârea Guvernului nr. 890/2005 | [`hg/2005/1832/`](hg/2005/1832/) | amending act | 1 | 2006-01-09 | 2006-01-09 |
+| Hotărârea Guvernului nr. 1833/2005 pentru aprobarea Regulamentului privind organizarea şi desfăşurarea concursului naţional de admitere la programele de formare specializată în administraţia publică - anul de studii 2005-2006 | [`hg/2005/1833/`](hg/2005/1833/) | amending act | 1 | 2006-01-13 | 2006-01-13 |
+| Hotărârea Guvernului nr. 1834/2005 pentru modificarea şi completarea Normelor metodologice de aplicare a Ordonanţei de urgenţă a Guvernului nr. 88/1997 privind privatizarea societăţilor comerciale, cu modificările şi completările ulterioare, şi a Legii nr. 137/2002 privind unele măsuri pentru accelerarea privatizării, aprobate prin Hotărârea Guvernului nr. 577/2002 | [`hg/2005/1834/`](hg/2005/1834/) | amending act | 1 | 2006-01-12 | 2006-01-12 |
+| Hotărârea Guvernului nr. 1837/2005 privind aprobarea bugetului Trezoreriei Statului pe anul 2006 | [`hg/2005/1837/`](hg/2005/1837/) | amending act | 1 | 2006-01-03 | 2006-01-03 |
+| Hotărârea Guvernului nr. 1838/2005 privind aprobarea licenţei de concesiune a activităţii miniere de exploatare, încheiată între Agenţia Naţională pentru Resurse Minerale şi Societatea Comercială "Mineral Quantum" - S.R.L | [`hg/2005/1838/`](hg/2005/1838/) | amending act | 1 | 2006-01-09 | 2006-01-09 |
 | Hotărârea Guvernului nr. 1839/2005 privind modificarea art. 5 alin. (1) şi (2) din Normele metodologice pentru aplicarea Legii nr. 290/2003 privind acordarea de despăgubiri sau compensaţii cetăţenilor români pentru bunurile proprietate a acestora, sechestrate, reţinute sau rămase în Basarabia, Bucovina de Nord şi ţinutul Herţa, ca urmare a stării de război şi a aplicării Tratatului de Pace între România şi Puterile Aliate şi Asociate, semnat la Paris la 10 februarie 1947, aprobate prin Hotărârea Guvernului nr. 1.239/2004 | [`hg/2005/1839/`](hg/2005/1839/) | amending act | 1 | 2006-01-09 | 2006-01-09 |
 | Hotărârea Guvernului nr. 1840/2005 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.355/2001 privind atestarea domeniului public al judeţului Olt, precum şi al municipiilor, oraşelor şi comunelor din judeţul Olt | [`hg/2005/1840/`](hg/2005/1840/) | amending act | 1 | 2006-01-18 | 2006-01-18 |
 | Hotărârea Guvernului nr. 1841/2005 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2006 al Comisiei Naţionale pentru Controlul Activităţii Nucleare | [`hg/2005/1841/`](hg/2005/1841/) | amending act | 1 | 2006-01-09 | 2006-01-09 |
