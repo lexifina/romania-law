@@ -1,0 +1,782 @@
+1
+
+HOTARÂRE
+pentru modificarea și completarea Hotărârii Guvernului nr. 423/2022 privind aprobarea
+programelor naționale de sănătate
+
+În temeiul art. 108 din Constituția României, republicată,
+
+Guvernul României adoptă prezenta hotărâre.
+
+Art. I
+Hotărârea Guvernului nr. 423/2022 privind aprobarea programelor naționale de sănătate, publicată
+în Monitorul Oficial al României, Partea I, nr. 305 din 30 martie 2022, cu modificările și
+completările ulterioare, se modifică și se completează după cum urmează:
+
+1. La articolul 1, alineatul (1), se modifică și va avea următorul cuprins:
+„(1) Se aprobă programele naționale de sănătate publică derulate și finanțate din bugetul Ministerul
+Sănătății:
+    a) Programul național de vaccinare;
+    b) Programul național de supraveghere și control al bolilor transmisibile prioritare;
+    c) Programul național de prevenire, supraveghere și control al infecției HIV/SIDA;
+    d) Programul național de prevenire, supraveghere și control al tuberculozei;
+    e) Programul național de monitorizare a factorilor determinanți din mediul de viață și muncă;
+    f) Programul național de securitate transfuzională;
+    g) Programul național de screening organizat pentru boli oncologice cu impact asupra sănătății
+publice;
+    h) Programul național de sănătate mintală și profilaxie în patologia psihiatrică;
+    i) Programul național de transplant de organe, țesuturi și celule de origine umană;
+    j) Programul național de screening neonatal;
+   k) Programul național de tratament dietetic pentru boli rare;
+   l) Programul național de evaluare și promovare a sănătății și educație pentru sănătate;
+   m) Programul național de sănătate a femeii și copilului;”
+
+2. La articolul 1, alineatul (2), după litera p) se introduce o nouă literă, lit. q), cu următorul
+cuprins:
+„q) Programul național de îngrijiri paliative.”
+
+3. La articolul 3, alineatul (2), după litera d) se introduc două noi litere, lit. e) și f), cu
+următorul cuprins:
+„e) cabinete de medicină de familie, inclusiv cabinete medicale care funcționează în structura sau în
+coordonarea unor unități sanitare aparținând ministerelor și instituțiilor centrale cu rețea sanitară
+proprie, prevăzute la art. 52 alin.(2) lit. f) din Legea 95/2006, republicată, cu modificările și
+completările ulterioare;
+f) furnizori privați de servicii de îngrijiri paliative specializate prevăzuți la art. 52 alin.(2) lit. g) din
+Legea 95/2006, republicată, cu modificările și completările ulterioare;
+
+2
+
+4. La articolul 4, după alineatul (6) se introduce un nou alineat, alin. (7) cu următorul
+cuprins:
+(7) Prin excepție de la prevederile alin. (4), pentru implementarea Programului național de îngrijiri
+paliative, casele de asigurări de sănătate pot încheia contracte cu furnizorii privați de servicii de
+îngrijiri paliative care sunt autorizați și evaluați sau autorizați și fac dovada acreditării/înscrierii în
+procesul de acreditare, după caz.
+
+5. La articolul 5, alineatul (5) se modifică și va avea următorul cuprins:
+„(5) Direcțiile de sănătate publică sau casele de asigurări de sănătate pot stabili, prin act
+administrativ al conducătorului instituției, și alte termene de contractare decât cele prevăzute la alin.
+(3), în funcție de necesarul de servicii medicale, servicii conexe, servicii de îngrijiri paliative,
+medicamente, materiale sanitare, dispozitive medicale și altele asemenea, după caz, cu încadrarea în
+limita fondurilor aprobate pentru implementarea fiecărui program național de sănătate.”
+
+6. La articolul 7, alineatul (1) se modifică și va avea următorul cuprins:
+„(1) Creditele de angajament și bugetare alocate pentru implementarea programelor naționale de
+sănătate sunt cuprinse în bugetele de venituri și cheltuieli ale instituțiilor publice sau furnizorilor
+publici de servicii medicale sau servicii conexe sau servicii de îngrijiri paliative, după caz, respectiv
+în veniturile furnizorilor privați de medicamente, materiale sanitare, dispozitive medicale și altele
+asemenea, servicii medicale sau servicii conexe sau servicii de îngrijiri paliative, după caz.”
+
+7. La articolul 8, alineatele (4) și (5) se modifică și vor avea următorul cuprins:
+„(4) Sumele aprobate pentru decontarea medicamentelor, materialelor sanitare, dispozitivelor
+medicale și altora asemenea, precum și a serviciilor medicale, serviciilor conexe și serviciilor de
+îngrijiri paliative acordate în cadrul programelor naționale de sănătate curative se alocă lunar, la
+solicitările caselor de asigurări de sănătate, pe baza cererilor fundamentate ale unităților de
+specialitate, însoțite de documentele justificative prevăzute în normele tehnice, cu încadrarea în
+limita fondurilor aprobate cu această destinație.
+(5) Casele de asigurări de sănătate decontează unităților de specialitate aflate în relație contractuală
+pentru implementarea programelor naționale de sănătate curative contravaloarea medicamentelor,
+materialelor sanitare, dispozitivelor medicale și altora asemenea, precum și a serviciilor medicale,
+serviciilor conexe și serviciilor de îngrijiri paliative acordate în cadrul programelor naționale de
+sănătate curative potrivit contractului încheiat, pe bază de documente justificative, certificate pentru
+realitatea, regularitatea și legalitatea datelor raportate, prin semnătura reprezentanților legali ai
+unităților de specialitate care implementează programe naționale de sănătate curative și în condițiile
+prevăzute în normele tehnice.”
+
+8. La articolul 8, alineatul (6), după litera f) se introduce o nouă literă, lit. g), cu următorul
+cuprins:
+„g) tarifului per serviciu de îngrijiri paliative prevăzut în normele tehnice.”
+
+9. La articolul 8, după alineatul (6), se introduce un nou alineat, alin. (7), cu următorul
+cuprins:
+
+3
+
+„(7) Serviciile medicale acordate în cadrul programelor naționale de sănătate curative și decontate
+potrivit alin. (6) lit. a) sunt următoarele:
+a) servicii pentru diagnosticul și monitorizarea afecțiunilor hematologice maligne;
+b) servicii de radioterapie;
+c) servicii de testare genetică pentru tumori solide maligne;
+e) servicii de dozare a hemoglobinei glicozilate HbA1c la bolnavii cu diabet zaharat;
+f) servicii de dializă;
+g) servicii de Gamma-Knife;
+h) servicii de PET-CT.
+
+10. La articolul 9, alineatul (2) se modifică și va avea următorul cuprins:
+„(2) Decontarea pentru programele naționale de sănătate curative se efectuează de către casele de
+asigurări de sănătate, în ordine cronologică, în limita sumelor disponibile aprobate cu această
+destinație, în termen de până la 60 de zile calendaristice de la data transmiterii facturii electronice,
+cu excepția serviciilor din structura programelor naționale de sănătate curative decontate din
+bugetul acestora pe bază de tarif, pentru care decontarea se face în termen de 30 de zile de la data
+transmiterii facturii electronice.”
+
+11. La articolul 10, alineatele (1) și (2) se modifică și vor avea următorul cuprins:
+„(1) Instituțiile publice și furnizorii publici de servicii medicale, servicii conexe sau servicii de
+îngrijiri paliative care implementează programe naționale de sănătate au obligația gestionării
+eficiente a mijloacelor materiale și bănești și a organizării evidenței contabile a cheltuielilor pentru
+fiecare program, pe subdiviziunile clasificației bugetare, precum și a organizării evidenței nominale,
+pe baza codului numeric personal al beneficiarilor programului, cu respectarea prevederilor
+Regulamentului (UE) 2016/679 al Parlamentului European și al Consiliului din 27 aprilie 2016
+privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal și
+privind libera circulație a acestor date și de abrogare a Directivei 95/46/CE (Regulamentul general
+privind protecția datelor), după caz.
+(2) Furnizorii privați de servicii medicale, servicii conexe, servicii de îngrijiri paliative, precum și
+furnizorii privați de medicamente, materiale sanitare, dispozitive medicale care implementează
+programe naționale de sănătate au obligația gestionării eficiente a mijloacelor materiale și bănești și
+a organizării evidenței contabile a cheltuielilor pentru fiecare program național de sănătate, precum
+și a organizării evidenței nominale, pe baza codului numeric personal, cu respectarea prevederilor
+Regulamentului (UE) 2016/679, a beneficiarilor programului, după caz.”
+
+12. La articolul 12, alineatul (3) se modifică și va avea următorul cuprins:
+„(3) Cheltuielile realizate în luna decembrie a anului precedent, peste limita maximă în cadrul
+căreia s-au încheiat angajamente legale, și nedecontate pentru medicamentele, materialele sanitare,
+dispozitivele medicale și altele asemenea utilizate în programele naționale de sănătate curative în
+tratamentul ambulatoriu, eliberate prin farmaciile cu circuit deschis, precum și pentru serviciile
+medicale din structura programelor naționale de sănătate curative decontate din bugetul acestora pe
+bază de tarif, serviciile conexe și serviciile de îngrijiri paliative, pentru care documentele
+justificative nu au fost înregistrate pe cheltuiala anului precedent, sunt considerate angajamente
+
+4
+
+legale ale anului în curs și se înregistrează atât la plăți, cât și la cheltuieli în anul curent din creditele
+bugetare aprobate.”
+
+13. La articolul 13, alineatele (1)și (2) se modifică și vor avea următorul cuprins:
+ (1) Serviciile medicale din structura programelor naționale de sănătate curative decontate din
+bugetul acestora pe bază de tarif, serviciile conexe, serviciile de îngrijiri paliative inclusiv
+prescrierea și eliberarea medicamentelor, materialelor sanitare, dispozitivelor medicale și a altor
+asemenea în cadrul unităților de specialitate care implementează programe naționale de sănătate
+curative validate și decontate din bugetul alocat cu această destinație, se pot acorda concomitent cu
+furnizarea altor servicii medicale incluse în pachetul de servicii medicale de bază în asistența
+medicală spitalicească.
+(2) Pentru situațiile prevăzute la alin. (1), dacă bolnavul necesită transport medicalizat, unitatea
+sanitară în care bolnavul este internat în regim de spitalizare continuă suportă contravaloarea
+transportului medicalizat al acestuia în vederea efectuării serviciilor asigurate în cadrul programelor
+naționale de sănătate cu scop curativ.”
+
+14. La articolul 16, alineatul (3), literele a), b), f), g), i) și j) se modifică și vor avea următorul
+cuprins:
+„a) să încheie contracte numai cu furnizorii autorizați și evaluați sau cu furnizorii autorizați și
+acreditați sau înscriși în procesul de acreditare, după caz, și care au îndeplinit criteriile din
+chestionarele de evaluare prevăzute în normele tehnice, aflați în relație contractuală cu casele de
+asigurări de sănătate pentru furnizare de medicamente cu și fără contribuție personală pentru
+tratamentul ambulatoriu/furnizare de servicii medicale paraclinice/furnizare de servicii spitalicești,
+în condițiile legii, precum și cu furnizori de servicii conexe, furnizori de servicii de îngrijiri
+paliative, furnizori de servicii de dializă, respectiv furnizori de servicii de radioterapie și să facă
+publice, în termen de maximum 10 zile lucrătoare de la data încheierii contractelor, prin afișare pe
+pagina de internet proprie și la sediul casei de asigurări de sănătate, lista nominală a acestora, pentru
+informarea asiguraților, precum și valoarea de contract a fiecăruia, în cazul contractelor care au
+prevăzută o sumă ca valoare de contract, distinct pentru fiecare program/subprogram național de
+sănătate curativ, și să actualizeze permanent această listă în funcție de modificările apărute, în
+termen de maximum 5 zile lucrătoare de la data operării acestora, potrivit legii;
+b) să deconteze furnizorilor, la termenele prevăzute în contract, pe baza facturii electronice și a
+documentelor justificative transmise în format electronic, asumate prin semnătura electronică
+avansată sau calificată a reprezentantului legal al furnizorului, în formatul solicitat de Casa
+Națională de Asigurări de Sănătate, contravaloarea serviciilor medicale, serviciilor conexe și a
+serviciilor de îngrijiri paliative contractate, efectuate, raportate și validate de casele de asigurări de
+sănătate, precum și contravaloarea medicamentelor, materialelor sanitare, dispozitivelor medicale și
+altor asemenea eliberate, în limita valorii de contract;
+.........................................................
+f) să înmâneze la data finalizării controlului procesele-verbale de constatare/rapoartele de
+control/notele de constatare, după caz, furnizorilor de servicii medicale, servicii conexe, servicii de
+îngrijiri paliative, investigații paraclinice, medicamente, materiale sanitare și altele asemenea,
+precum și informațiile despre termenele de contestare, la termenele prevăzute în Ordinul
+
+5
+
+președintelui Casei Naționale de Asigurări de Sănătate nr. 1.012/2013 pentru aprobarea Normelor
+metodologice privind activitatea structurilor de control din cadrul sistemului de asigurări sociale de
+sănătate, cu modificările și completările ulterioare; în cazul în care controlul este efectuat de către
+Casa Națională de Asigurări de Sănătate sau cu participarea acesteia, notificarea privind măsurile
+dispuse se transmite furnizorului de către casele de asigurări de sănătate în termen de maximum 10
+zile calendaristice de la data primirii raportului de control de la Casa Națională de Asigurări de
+Sănătate la casa de asigurări de sănătate;
+g) să recupereze de la furnizorii care derulează programe naționale de sănătate curative sumele
+reprezentând contravaloarea serviciilor medicale, serviciilor conexe și a serviciilor de îngrijiri
+paliative, medicamentelor, materialelor sanitare și altele asemenea sau investigațiilor paraclinice, în
+situația în care asigurații nu erau în drept și nu erau îndeplinite condițiile să beneficieze de acestea,
+în situația în care furnizorul nu deține documente justificative din care să reiasă efectuarea
+serviciilor medicale/ serviciilor conexe/ serviciilor de îngrijiri paliative/ investigațiilor paraclinice,
+respectiv administrarea medicamentelor, precum și sumele reprezentând contravaloarea
+medicamentelor sau materialelor sanitare specifice expirate;
+...........................................................
+i) să țină evidența distinctă pentru serviciile medicale, serviciile conexe, serviciile de îngrijiri
+paliative, medicamentele, materialele sanitare specifice și altele asemenea acordate și decontate din
+bugetul Fondului pentru bolnavii din statele membre ale Uniunii Europene/Spațiului Economic
+European/Confederația Elvețiană/Regatul Unit al Marii Britanii și al Irlandei de Nord, titulari ai
+cardului
+european
+de
+asigurări
+sociale
+de
+sănătate,
+respectiv
+beneficiari
+ai
+formularelor/documentelor europene emise în temeiul prevederilor Regulamentului (CE) nr.
+883/2004 al Parlamentului European și al Consiliului din 29 aprilie 2004 privind coordonarea
+sistemelor de securitate socială, după caz, precum și din alte state cu care România a încheiat
+acorduri, înțelegeri, convenții sau protocoale internaționale cu prevederi în domeniul sănătății, care
+beneficiază de servicii medicale, medicamente, materiale sanitare și altele asemenea acordate pe
+teritoriul României;
+j) să deconteze contravaloarea serviciilor medicale, serviciilor conexe și a serviciilor de îngrijiri
+paliative, medicamentelor, materialelor sanitare, dispozitivelor medicale și altele asemenea
+acordate, după caz, posesorilor de card european de asigurări sociale de sănătate emis de unul dintre
+statele membre ale Uniunii Europene/Spațiului Economic European/Confederația Elvețiană/Regatul
+Unit al Marii Britanii și al Irlandei de Nord, în perioada de valabilitate a cardului, respectiv
+beneficiarilor de formulare/documente emise în temeiul prevederilor Regulamentului (CE) nr.
+883/2004, în perioada de valabilitate a acestora, precum și bolnavilor din alte state cu care România
+a încheiat acorduri, înțelegeri, convenții sau protocoale internaționale cu prevederi în domeniul
+sănătății, în condițiile prevăzute de respectivele documente internaționale, urmând să întocmească
+ulterior formularele specifice și să le transmită spre decontare, prin intermediul Casei Naționale de
+Asigurări de Sănătate, instituțiilor competente din statele ai căror asigurați sunt;”
+
+15. La articolul 16, alineatul (7), se modifică și va avea următorul cuprins:
+„(7) Casa Națională de Asigurări de Sănătate, precum și casele de asigurări de sănătate organizează
+și efectuează controlul furnizării serviciilor medicale, serviciilor conexe, serviciilor de îngrijiri
+
+6
+
+paliative, medicamentelor, materialelor sanitare, dispozitivelor medicale și altele asemenea acordate
+în cardul programelor naționale de sănătate curative.”
+
+16. Articolul 25 se modifică și va avea următorul cuprins:
+„ART. 25
+(1) În situația producerii unor întreruperi în funcționarea Platformei informatice din asigurările
+de sănătate, denumită în continuare PIAS, constatate și comunicate de Casa Națională de Asigurări
+de Sănătate prin publicare pe pagina de internet proprie, serviciile medicale, servicii conexe, servicii
+de îngrijiri paliative, asigurate bolnavilor în cadrul programelor naționale de sănătate curative se
+acordă în regim offline. Transmiterea în PIAS, de către furnizorii de servicii medicale, de furnizorii
+de servicii conexe, precum și furnizorii de servicii de îngrijiri paliative care derulează programe
+naționale de sănătate curative, a serviciilor acordate în regim offline pe perioada întreruperii
+funcționării PIAS și a serviciilor acordate offline anterior producerii întreruperii care aveau termen
+de transmitere pe perioada întreruperii, conform prevederilor contractuale, se face până la sfârșitul
+lunii în curs sau cel târziu până la termenul de raportare a activității lunii anterioare prevăzut în
+contract.
+       (2) Termenul de raportare a activității lunii anterioare prevăzut în contractul încheiat între
+furnizorii de servicii medicale, furnizorii de servicii conexe sau furnizorii de servicii de îngrijiri
+paliative, după caz, care derulează programe naționale de sănătate curative și casele de asigurări de
+sănătate se poate modifica de comun acord, ca urmare a perioadelor de întrerupere prevăzute la alin.
+(1) sau a întreruperii funcționării PIAS în perioada de raportare a serviciilor.”
+
+17. Articolul 27 se modifică și va avea următorul cuprins:
+„ART. 27
+Serviciile medicale, serviciile conexe, serviciile de îngrijiri paliative, medicamentele,
+materialele sanitare, dispozitivele medicale și altele asemenea acordate sau, după caz, eliberate
+offline în cadrul programelor naționale de sănătate curative, la care se înregistrează erori în
+utilizarea cardului de asigurări sociale de sănătate în perioada de întrerupere a funcționării
+sistemului național al cardului de asigurări sociale de sănătate, se validează strict pentru aceste
+erori.
+
+18.
+În anexa nr. 1, la secțiunea A „Programe naționale de sănătate publică finanțate din bugetul
+Ministerului Sănătății”, punctul III „Programul național de prevenire, supraveghere și control al
+infecției HIV/SIDA”, lit. b) se modifică și va avea următorul cuprins:
+„b) reducerea morbidității asociate cu infecția HIV prin utilizarea tratamentului ca metodă de
+prevenire a transmiterii secundare, inclusiv prin metode inovatoare de tipul profilaxiei preexpunere”
+
+19.
+În anexa nr. 1, la secțiunea A, punctul VII se modifică și va avea următorul cuprins:
+„VII. Programul național de screening organizat pentru boli oncologice cu impact asupra
+sănătății publice
+
+Obiectiv:
+
+Creșterea accesului populației la programe de screening organizate pe baze populaționale
+pentru boli oncologice cu impact asupra sănătății publice.
+
+7
+
+Structură:
+1. Subprogramul de depistare precoce activă a cancerului de col uterin
+2. Subprogramul
+de
+depistare
+precoce
+activă
+a
+cancerului
+de
+sân;
+3.  Subprogramul de depistare precoce activă a cancerului colorectal;”
+
+20. În anexa nr. 1, la secțiunea A, punctul VIII. „Programul național de sănătate mintală și
+profilaxie în patologia psihiatrică” se modifică și va avea următorul cuprins:
+„VIII. Programul național de sănătate mintală și profilaxie în patologia psihiatrică
+Obiective:
+a) realizarea activităților de terapie ocupațională în vederea favorizării măsurilor de reinserție
+socială și profesională a persoanelor cu tulburări de sănătate mintală;
+b) asigurarea accesului persoanelor la testarea rapidă a prezenței metaboliților de substanțe
+psihotrope, psihoactive, narcotice sau stupefiante în urină în vederea identificării precoce a
+consumului de droguri;
+c) asigurarea accesului copiilor cu vârsta sub 18 ani la testare psihologică pentru evaluarea
+dezvoltării cognitive, emoționale și comportamentale în vederea acordării îngrijirilor medicale
+preventive adecvate.”
+
+21. În anexa nr. 1, la secțiunea A, punctul IX. „Programul național de transplant de organe,
+țesuturi și celule de origine umană”, se modifică și va avea următorul cuprins:
+„IX. Programul național de transplant de organe, țesuturi și celule de origine umană
+
+Obiective:
+a) creșterea numărului de donatori vii, de donatori aflați în moarte cerebrală,
+b) creșterea accesului bolnavilor cu indicație pentru transplant la proceduri de transplant de organe,
+țesuturi și/sau celule de origine umană și la evaluarea periodică posttransplant;
+c) dezvoltarea și gestionarea unei baze de date informatice pe teritoriul României privind persoanele
+fizice care și-au dat acceptul pentru a dona celule stem hematopoietice;
+
+Structură:
+1. Subprogramul de transplant de organe, țesuturi și celule de origine umană;
+2. Subprogramul de transplant de celule stem hematopoietice de la donatori neînrudiți.”
+
+22. În anexa nr. 1, la secțiunea A, punctul X. se modifică și va avea următorul cuprins:
+„X.Programul național de screening neonatal
+
+Obiectiv:
+Identificarea precoce a nou-născuților cu afecțiuni grave, înainte de apariția simptomelor
+clinice ireversibile.”
+
+23. În anexa nr. 1, la secțiunea B „Programe naționale de sănătate curative finanțate din
+bugetul fondului național unic de asigurări sociale de sănătate”, după punctul XVI se
+introduce un nou punct, pct. XVII, cu următorul cuprins:
+„XVII. Programul național de îngrijiri paliative
+Obiectiv: Îmbunătățirea calității vieții la bolnavii cu boli cronice progresive în stadii avansate și
+în stadii terminale
+Structură:
+1. Subprogramul de îngrijiri paliative la domiciliu
+2. Subprogramul de îngrijiri paliative în ambulatoriu
+
+8
+
+3. Subprogramul de îngrijiri paliative în regim de spitalizare de zi
+4. Subprogramul de îngrijiri paliative acordate de echipe interdisciplinare de îngrijiri paliative
+în unitățile sanitare cu paturi care nu au în structură paturi de spitalizare de zi sau
+secții/compartiment de îngrijiri paliative”
+
+24. În anexa 2, la articolul 19, după alineatul (4) se introduce un nou alineat, alin. (4^1), cu
+următorul cuprins:
+„(4^1) Condițiile prevăzute la alin. (4) sunt aplicabile și în cazul în care, în urma reorganizării unui
+furnizor de servicii medicale de dializă aflat în relație contractuală cu casa de asigurări de sănătate,
+prin transferul total sau parțial al activității medicale, rezultă o altă entitate cu personalitate juridică,
+care nu se află în relație contractuală cu o casă de asigurări de sănătate, dar care a preluat ca unică
+activitate, activitatea transferată.”
+
+25. În anexa nr. 2 la articolul 25, alineatul (4) se modifică și va avea următorul cuprins:
+„(4) În cazul în care furnizorul care a preluat drepturile și obligațiile unor furnizori de servicii de
+radioterapie, aflați în relație contractuală cu o casă de asigurări de sănătate, nu se află în relație
+contractuală cu o casă de asigurări de sănătate, acesta poate intra în relație contractuală cu casa de
+asigurări de sănătate cu care a fost în contract furnizorul preluat, cu respectarea reglementărilor
+privind procedura de contractare, conform prevederilor legale în vigoare. Condițiile prevăzute
+anterior sunt aplicabile și situațiilor în care furnizorul care a preluat drepturile și obligațiile unui
+furnizor/unor furnizori de servicii de radioterapie, aflați în relație contractuală cu o casă de asigurări
+de sănătate, nu a avut contract încheiat cu casa de asigurări de sănătate pentru activitatea medicală
+preluată.”
+
+26. La anexa nr. 2, după capitolul VI se introduce un nou capitol, cap. VII, cu următorul
+cuprins:
+
+„CAPITOLUL VII
+Unități de specialitate pentru furnizarea de servicii de îngrijiri paliative
+
+SECȚIUNEA 1
+Obligațiile unităților de specialitate pentru furnizarea de servicii de îngrijiri paliative
+
+ART. 33
+În relațiile contractuale cu casele de asigurări de sănătate, unitățile de specialitate pentru
+furnizarea de servicii de îngrijiri paliative au următoarele obligații:
+a) să furnizeze bolnavilor asigurați, cuprinși în program, servicii de îngrijiri paliative și să le
+acorde tratamentul specific folosind metodele cele mai eficiente, fără niciun fel de discriminare, cu
+respectarea condițiilor privind modalitățile de acordare a acestui tip de serviciu, potrivit
+prevederilor legale în vigoare;
+b) să utilizeze fondurile primite, potrivit destinației acestora;
+
+9
+
+c) să transmită caselor de asigurări de sănătate raportări lunare, trimestriale, cumulat de la
+începutul anului, și anuale privind indicatorii realizați, în primele 10 zile ale lunii următoare
+încheierii perioadei pentru care se face raportarea; unitățile de specialitate vor raporta sumele
+utilizate, indicatorii realizați, precum și evidența nominală în baza CNP/CID/număr card
+european/număr formular/număr pașaport/număr act identitate, după caz, pentru bolnavii tratați în
+cadrul programului;
+d) să întocmească și să transmită casei de asigurări de sănătate, în luna următoare celei pentru
+care s-au efectuat serviciile, factura electronică și declarațiile de servicii lunare în format electronic,
+asumate fiecare în parte prin semnătura electronică avansată sau calificată a reprezentantului legal
+al furnizorului, în vederea validării și decontării contravalorii serviciilor de îngrijiri paliative
+acordate în limita sumei prevăzute în contract;
+e) să întocmească evidența electronică a bolnavilor care beneficiază de servicii de îngrijiri
+paliative în cadrul programului, pe baza setului minim de date al bolnavului: CNP/CID/număr card
+european/număr formular/număr pașaport/număr act identitate, diagnostic specific, servicii
+efectuate;
+f) să respecte confidențialitatea tuturor datelor și informațiilor privitoare la asigurați, precum și
+intimitatea și demnitatea acestora și să asigure securitatea în procesul de transmitere a tuturor
+datelor cu caracter personal;
+g) să respecte dreptul la libera alegere de către asigurat a medicului și a furnizorului;
+h) să notifice casa de asigurări de sănătate despre modificarea oricăreia dintre condițiile care au
+stat la baza încheierii contractului de furnizare de servicii de îngrijiri paliative, cu cel puțin trei zile
+înaintea datei la care modificarea produce efecte, cu excepția situațiilor neprevăzute, pe care are
+obligația să le notifice cel târziu în ziua în care modificarea produce efecte și să îndeplinească în
+permanență aceste condiții pe durata derulării contractelor; notificarea se face conform
+reglementărilor privind corespondența între părți prevăzute în contract;
+i) să asigure respectarea prevederilor actelor normative referitoare la sistemul asigurărilor
+sociale de sănătate, inclusiv la derularea programelor/subprogramelor naționale de sănătate
+curative;
+j) să utilizeze sistemul de raportare în timp real, începând cu data la care acesta devine
+operațional în cadrul sistemului de asigurări sociale de sănătate din România; sistemul de raportare
+în timp real se referă la raportarea activității zilnice realizate conform contractelor, fără a mai fi
+necesară o raportare lunară, în vederea decontării serviciilor de îngrijiri paliative contractate și
+validate de către casele de asigurări de sănătate; raportarea în timp real se face electronic în
+formatul solicitat de Casa Națională de Asigurări de Sănătate și stabilit prin ordin al președintelui
+Casei Naționale de Asigurări de Sănătate; în situații justificate în care nu se poate realiza
+comunicația cu sistemul informatic, raportarea activității se realizează în maximum 3 zile lucrătoare
+de la data acordării. La stabilirea acestui termen nu se ia în calcul ziua acordării serviciilor de
+îngrijiri paliative și acesta se împlinește în a 3-a zi lucrătoare de la această dată;
+k) să utilizeze platforma informatică din asigurările de sănătate. În situația în care se utilizează
+un alt sistem informatic, acesta trebuie să fie compatibil cu sistemele informatice din platforma
+informatică a asigurărilor de sănătate, caz în care unitățile de specialitate sunt obligate să asigure
+confidențialitatea în procesul de transmitere a datelor;
+
+10
+
+l) să solicite cardul național de asigurări sociale de sănătate/adeverința de asigurat cu
+valabilitate de 3 luni de la data emiterii pentru cei care refuză cardul național din motive religioase
+sau de conștiință/adeverința înlocuitoare pentru cei cărora li se va emite card național duplicat sau,
+după caz, documentele prevăzute la art. 223 alin. (1) și (1^1) din Legea nr. 95/2006, republicată, cu
+modificările și completările ulterioare, pentru persoanele cărora nu le-a fost emis cardul, și să le
+utilizeze în vederea acordării serviciilor de îngrijiri paliative. Serviciile de îngrijiri paliative
+acordate în alte condiții decât cele menționate anterior nu se decontează furnizorilor de către casele
+de asigurări de sănătate;
+m) să folosească on-line sistemul național al cardului de asigurări sociale de sănătate din
+platforma informatică a asigurărilor de sănătate; în situații justificate în care nu se poate realiza
+comunicația cu sistemul informatic se utilizează sistemul off-line; asumarea serviciilor de îngrijiri
+paliative acordate se face prin semnătură electronică extinsă/calificată potrivit legislației
+naționale/europene privind serviciile de încredere. Serviciile de îngrijiri paliative înregistrate off-
+line se transmit în platforma informatică a asigurărilor de sănătate în maximum 3 zile lucrătoare de
+la data acordării acestora pentru serviciile acordate în luna pentru care se face raportarea. La
+stabilirea acestui termen nu se ia în calcul ziua acordării serviciului de îngrijiri paliative și acesta se
+împlinește în a 3-a zi lucrătoare de la această dată. Serviciile de îngrijiri paliative acordate în alte
+condiții decât cele menționate anterior nu se decontează furnizorilor de către casele de asigurări de
+sănătate; prevederile sunt valabile și în situațiile în care se utilizează adeverința de asigurat cu
+valabilitate de 3 luni de la data emiterii pentru cei care refuză cardul național din motive religioase
+sau de conștiință/adeverința înlocuitoare pentru cei cărora li se va emite card național duplicat sau,
+după caz, documentele prevăzute la art. 223 alin. (1) și (1^1) din Legea nr. 95/2006, republicată, cu
+modificările și completările ulterioare, pentru persoanele cărora nu le-a fost emis cardul în vederea
+acordării serviciilor medicale;
+n) să transmită în platforma informatică a asigurărilor de sănătate serviciile de îngrijiri
+paliative, altele decât cele transmise în platforma informatică a asigurărilor de sănătate în condițiile
+lit. m), în maximum 3 zile lucrătoare de la data acordării serviciilor de îngrijiri paliative acordate în
+luna pentru care se face raportarea; la stabilirea acestui termen nu se ia în calcul ziua acordării
+serviciului și acesta se împlinește în a 3-a zi lucrătoare de la această dată; asumarea serviciilor de
+îngrijiri paliative acordate se face prin semnătură electronică avansată sau calificată a
+reprezentantului legal al furnizorului potrivit legislației naționale/europene privind serviciile de
+încredere. În situația nerespectării acestei obligații, serviciile de îngrijiri paliative nu se decontează
+furnizorilor de către casele de asigurări de sănătate;
+o) să pună la dispoziția organelor de control ale Casei Naționale de Asigurări de Sănătate și
+caselor de asigurări de sănătate toate documentele justificative care atestă serviciile de îngrijiri
+paliative efectuate și raportate în relația contractuală cu casele de asigurări de sănătate, respectiv
+toate documentele justificative privind sumele decontate din bugetul alocat programului național de
+sănătate curativ;
+p) să nu încaseze sume de la asigurați pentru serviciile de îngrijiri paliative care se asigură în
+cadrul programului național de sănătate curativ și pentru serviciile/documentele efectuate/eliberate
+în strânsă legătură sau necesare acordării serviciilor de îngrijiri paliative, pentru care nu este
+stabilită o reglementare în acest sens;
+q) să verifice calitatea de asigurat, potrivit prevederilor legale în vigoare;
+
+11
+
+r) să completeze/să transmită datele bolnavului în dosarul electronic de sănătate al acestuia;
+s) să asigure acordarea de serviciile de îngrijiri paliative necesare titularilor cardului european
+de asigurări sociale de sănătate emis de unul dintre statele membre ale Uniunii Europene/Spațiului
+Economic European/Confederația Elvețiană/Regatului Unit al Marii Britanii și Irlandei de Nord, în
+perioada de valabilitate a cardului, respectiv beneficiarilor formularelor/documentelor europene
+emise în baza Regulamentului (CE) nr. 883/2004, cu modificările și completările ulterioare, în
+aceleași condiții ca persoanelor asigurate în cadrul sistemului de asigurări sociale de sănătate din
+România; să acorde asistență medicală pacienților din alte state cu care România a încheiat
+acorduri, înțelegeri, convenții sau protocoale internaționale cu prevederi în domeniul sănătății, în
+condițiile prevăzute de respectivele documente internaționale;
+ș) să întocmească evidențe distincte pentru serviciile de îngrijiri paliative, asigurate potrivit
+prevederilor lit. s) și decontate din bugetul FNUASS;
+t)
+să raporteze distinct, în vederea decontării, caselor de asigurări de sănătate cu care se află în
+relație contractuală serviciile de îngrijiri paliative prevăzute la lit. s) însoțite de copii ale
+documentelor care au deschis dreptul la serviciu, de documentele justificative/documentele
+însoțitoare;
+ț) să funcționeze cu personal medico-sanitar care are încheiate asigurări de răspundere civilă în
+domeniul medical, valabile la data încheierii contractului și, după caz, să asigure reînnoirea acestora
+pe toată perioada derulării contractului;”
+u) să acorde asiguraților servicii de îngrijiri paliative, conform unui plan de îngrijiri în
+conformitate cu nevoile identificate ale bolnavului ca o consecință a actului medical propriu.
+Serviciile de îngrijiri paliative sunt furnizate pe baza recomandării eliberate de medicii de familie,
+medicii de specialitate din specialitățile clinice din ambulatoriu clinic, medicii din spital la
+externare, precum și medicii cu supraspecializare/competență/atestat de studii complementare în
+îngrijiri paliative. Casele de asigurări de sănătate nu decontează serviciile de îngrijiri paliative
+acordate în baza recomandărilor medicale în care este nominalizat furnizorul de servicii de îngrijiri
+paliative;
+v) să acorde servicii conform unui plan de îngrijiri în conformitate cu nevoile bolnavului
+identificate, inclusiv sâmbăta, duminica și în timpul sărbătorilor legale;
+w) să țină evidența serviciilor de îngrijiri paliative furnizate asiguratului, în ceea ce privește
+tipul serviciului acordat, data și ora acordării, durata, evoluția stării de sănătate;
+x) să urmărească prezentarea la controlul medical a asiguratului pe care l-a îngrijit, în situația
+în care acest lucru a fost solicitat de medicul care a făcut recomandarea pentru îngrijiri paliative;
+y) să utilizeze prescripția medicală electronică pentru medicamente cu și fără contribuție
+personală, pe care o eliberează ca o consecință a actului medical propriu, numai pentru serviciile
+medicale care fac obiectul contractului cu casa de asigurări de sănătate; prescrierea medicamentelor
+cu și fără contribuție personală de care beneficiază asigurații se face corespunzător denumirilor
+comune internaționale aprobate prin hotărâre a Guvernului, informând în prealabil asiguratul despre
+tipurile și efectele terapeutice ale medicamentelor pe care urmează să i le prescrie; să completeze
+prescripția medicală cu toate datele pe care aceasta trebuie să le cuprindă, conform normelor
+metodologice privind utilizarea și modul de completare a formularului de prescripție medicală
+electronică pentru medicamente cu și fără contribuție personală în tratamentul ambulatoriu,
+aprobate prin Ordinul ministrului sănătății și al președintelui Casei Naționale de Asigurări de
+
+12
+
+Sănătate nr. 674/252/2012, cu modificările și completările ulterioare; să utilizeze prescripția
+medicală pentru prescrierea substanțelor și preparatelor stupefiante și psihotrope în terapia durerii,
+care este formular cu regim special, cu respectarea prevederilor Legii nr. 339/2005 privind regimul
+juridic al plantelor, substanțelor și preparatelor stupefiante și psihotrope, cu modificările și
+completările ulterioare, și normelor metodologice de aplicare a acesteia;
+z) să respecte protocoalele terapeutice privind prescrierea medicamentelor aferente denumirilor
+comune internaționale prevăzute în Lista cuprinzând denumirile comune internaționale
+corespunzătoare medicamentelor de care beneficiază asigurații, cu sau fără contribuție personală, pe
+bază de prescripție medicală, în sistemul de asigurări sociale de sănătate, aprobată prin Hotărârea
+Guvernului nr. 720/2008, republicată, cu modificările și completările ulterioare; în situația în care,
+pentru unele medicamente prevăzute în Hotărârea Guvernului nr. 720/2008, republicată, cu
+modificările și completările ulterioare, care necesită prescriere pe bază de protocol terapeutic, dar
+acesta nu a fost aprobat prin ordin al ministrului sănătății și al președintelui Casei Naționale de
+Asigurări de Sănătate, până la elaborarea și aprobarea protocolului în condițiile legii, prescrierea se
+face cu respectarea indicațiilor, dozelor și contraindicațiilor din rezumatul caracteristicilor
+produsului în limita competenței medicului prescriptor;
+aa) să respecte avertizările Sistemului informatic al prescripției electronice, precum și
+informațiile puse la dispoziție pe pagina web a Casei Naționale de Asigurări de Sănătate referitoare
+la faptul că medicamentul se prescrie cu respectarea protocoalelor terapeutice aprobate prin Ordinul
+ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 564/499/2021,
+cu modificările și completările ulterioare, sau că medicamentul este produs biologic;
+ab) să utilizeze prescripția medicală electronică on-line și în situații justificate prescripția
+medicală electronică off-line pentru medicamente cu și fără contribuție personală în tratamentul
+ambulatoriu, cu respectarea tuturor prevederilor legale în vigoare; asumarea prescripției electronice
+de către medicii prescriptori se face prin semnătură electronică extinsă/calificată potrivit legislației
+naționale/europene în vigoare privind serviciile de încredere;
+ac) să introducă în sistemul informatic toate prescripțiile medicale electronice prescrise off-
+line, în termen de maximum 30 de zile calendaristice de la data prescrierii;
+ad) să publice pe site-ul propriu bugetul de venituri și cheltuieli aprobat pentru programul
+național de servicii de îngrijiri paliative sau veniturile realizate în baza contractului, după caz,
+precum și execuția pe parcursul derulării acestora.
+
+SECȚIUNEA a 2-a
+Sancțiuni, condiții de reziliere, suspendare și încetare a contractului de furnizare de
+servicii de îngrijiri paliative
+ART. 34
+(1) În cazul în care se constată nerespectarea de către furnizorii de îngrijiri paliative a
+oricăreia dintre obligațiile prevăzute la art. 33 lit. b) - h), l), m), r), s) ș), t), ț), y), z), ab, ad) se
+aplică următoarele sancțiuni:
+a) la prima constatare, reținerea unei sume calculate prin aplicarea unui procent de 1% la
+contravaloarea serviciilor de îngrijiri paliative aferente lunii în care s-au înregistrat aceste situații;
+b) la a doua constatare, reținerea unei sume calculate prin aplicarea unui procent de 3% la
+contravaloarea serviciilor de îngrijiri paliative aferente lunii în care s-au înregistrat aceste situații;
+
+13
+
+c) la a treia constatare și la următoarele constatări după aceasta, reținerea unei sume
+calculate prin aplicarea unui procent de 9% la contravaloarea serviciilor de îngrijiri paliative
+aferente lunii în care s-au înregistrat aceste situații.
+(2) În cazul în care se constată nerespectarea de către furnizorii de servicii de îngrijiri
+paliative a oricăreia dintre obligațiile prevăzute la art. 33 lit. i), j), k), q), n), w), x) aa), se aplică
+următoarele sancțiuni:
+a) la prima constatare, avertisment scris;
+b) la a doua constatare, reținerea unei sume calculate prin aplicarea unui procent de 3% la
+contravaloarea serviciilor de îngrijiri paliative aferente lunii în care s-au înregistrat aceste situații;
+c) la a doua constatare, reținerea unei sume calculate prin aplicarea unui procent de 5% la
+contravaloarea serviciilor de îngrijiri paliative aferente lunii în care s-au înregistrat aceste situații.
+(3) În cazul în care, în urma controlului efectuat de către structurile de control ale Casei
+Naționale de Asigurări de Sănătate sau ale caselor de asigurări de sănătate, se constată că serviciile
+de îngrijiri paliative raportate potrivit contractelor în vederea decontării acestora nu au fost
+efectuate, se recuperează contravaloarea acestor servicii și se diminuează cu 10% contravaloarea
+serviciilor de îngrijiri paliative aferente lunii în care s-au înregistrat aceste situații.
+(4) În cazul în care se constată nerespectarea de către furnizor a obligațiilor prevăzute la art.
+33 lit. p) se aplică următoarele sancțiuni:
+    a) la prima constatare, reținerea unei sume calculate prin aplicarea unui procent de 20% la
+contravaloarea serviciilor de îngrijiri paliative aferente lunii în care s-au înregistrat aceste situații;
+    b) la a doua constatare, reținerea unei sume calculate prin aplicarea unui procent de 30% la
+contravaloarea serviciilor de îngrijiri paliative aferente lunii în care s-au înregistrat aceste situații;
+    c) la a treia constatare, reținerea unei sume calculate prin aplicarea unui procent de 40% la
+contravaloarea serviciilor de îngrijiri paliative aferente lunii în care s-au înregistrat aceste situații.
+(5) Pentru nerespectarea obligației prevăzută la art. 33 lit. ac), constatată pe parcursul
+derulării contractului, se aplică următoarele sancțiuni:
+    a) la prima constatare, avertisment scris, pentru luna/lunile în care s-au produs aceste situații;
+    b) începând cu a doua constatare, recuperarea sumei de 100 de lei pentru fiecare prescripție off-
+line care nu a fost introdusă în sistemul informatic.
+    Pentru punerea în aplicare a sancțiunii, nerespectarea obligației prevăzută la art. 33 lit. ac) se
+constată de către casele de asigurări de sănătate, prin compararea pentru fiecare medic prescriptor
+aflat în relație contractuală cu casa de asigurări de sănătate, a componentei prescriere cu
+componenta eliberare pentru toate prescripțiile medicale electronice off-line. În situația în care
+medicul prescriptor se află în relație contractuală cu altă casă de asigurări de sănătate decât cea cu
+care are contract farmacia care a eliberat medicamentele, casa de asigurări de sănătate care
+decontează contravaloarea medicamentelor informează casa de asigurări de sănătate ce are încheiat
+contract cu medicul prescriptor care va verifica și după caz, va aplica sancțiunile prevăzute de
+prezenta hotărâre.
+„(6) Recuperarea sumei stabilite în urma aplicării prevederilor alin. (1) - (5) pentru furnizorii
+de servicii de îngrijiri paliative care sunt în relație contractuală cu casa de asigurări de sănătate, se
+face prin plată directă sau executare silită în situația în care recuperarea nu se face prin plată directă.
+Pentru recuperarea sumelor care nu sunt stabilite ca urmare a unor acțiuni de control, casa de
+asigurări de sănătate notifică furnizorul de servicii de îngrijiri paliative în termen de maximum 10
+
+14
+
+zile calendaristice de la data stabilirii sumei ce urmează a fi recuperată; furnizorul de servicii
+medicale are dreptul ca în termen de maximum 10 zile calendaristice de la data primirii notificării
+cu confirmare de primire să conteste notificarea. Soluționarea contestației se face în termen de
+maximum 10 zile lucrătoare. În situația în care casa de asigurări de sănătate respinge motivat
+contestația furnizorului de servicii de îngrijiri paliative, aduce la cunoștința acestuia faptul că, în
+termen de maximum 10 zile lucrătoare de la data primirii răspunsului la contestație, suma se
+recuperează prin plată directă. În situația în care recuperarea nu se face prin plată directă, suma se
+recuperează prin executare silită efectuată potrivit legii în temeiul unui titlu executoriu.
+Pentru recuperarea sumelor care sunt stabilite ca urmare a unor acțiuni de control, suma se
+recuperează în termen de maximum 10 zile lucrătoare de la data notificării furnizorului de servicii
+de îngrijiri paliative, prin plată directă. În situația în care recuperarea nu se face prin plată directă,
+suma se recuperează prin executare silită efectuată potrivit legii în temeiul unui titlu executoriu.
+(7) Recuperarea sumei stabilite în urma aplicării prevederilor alin. (1) - (5) se face prin plată
+directă sau executare silită efectuată pentru furnizorii de servicii de îngrijiri paliative care nu mai
+sunt în relație contractuală cu casa de asigurări de sănătate.”
+(8) Nerespectarea de către furnizor a obligației prevăzute la art. 33. lit. o) reprezintă
+contravenție, potrivit art. 312, lit. d) din Legea nr. 95/2006, republicată, cu modificările și
+completările ulterioare, și se sancționează conform art. 313, lit. b) din același act normativ.
+ART. 35
+(1) Contractul de furnizare de servicii de îngrijiri paliative se reziliază de plin drept printr-o
+notificare scrisă a casei de asigurări de sănătate în termen de maximum 5 zile calendaristice de la
+data aprobării acestei măsuri, de către conducerea casei de asigurări de sănătate, conform
+prevederilor legale în vigoare, ca urmare a constatării următoarelor situații:
+a)
+dacă din motive imputabile furnizorul de servicii de îngrijiri paliative nu începe
+activitatea în termen de cel mult 30 zile calendaristice de la data semnării contractului de furnizare
+de servicii de îngrijiri paliative;
+b)
+dacă din motive imputabile furnizorului de servicii de îngrijiri paliative acesta își
+întrerupe activitatea pe o perioadă mai mare de 30 de zile calendaristice;
+c)
+expirarea perioadei de 30 de zile calendaristice de la revocarea de către organele în
+drept a autorizației de funcționare/autorizației sanitare de funcționare sau a documentului similar,
+respectiv de la încetarea valabilității acestora;
+d)
+expirarea perioadei de 30 de zile calendaristice de la data încetării
+valabilității/revocării/retragerii/anulării dovezii de evaluare/dovezii de acreditare/înscrierii în
+procesul de acreditare a furnizorului;
+e)
+nerespectarea termenelor de transmitere a facturilor electronice și a documentelor
+justificative privind activitățile realizate conform contractului, în vederea decontării de către casa de
+asigurări de sănătate a serviciilor realizate, pentru o perioadă de 2 luni consecutive în cadrul unui
+trimestru, respectiv 3 luni într-un an; nu se reziliază contractul în situația în care vina nu este
+exclusiv a furnizorului de servicii de îngrijiri paliative și este adusă la cunoștința casei de asigurări
+de sănătate de către furnizor printr-o declarație scrisă;
+f)
+la a doua constatare că serviciile raportate, conform contractului în vederea
+decontării acestora, nu au fost efectuate - cu recuperarea contravalorii acestor servicii;
+g)
+în cazul nerespectării obligațiilor prevăzute la art. 33 lit. a), u) și v).
+
+15
+
+(2) Contractul de furnizare de servicii de îngrijiri paliative se reziliază de plin drept, ca
+urmare a rezilierii contractului încheiat conform prevederilor contractului-cadru care reglementează
+condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate aprobat
+prin hotărâre a Guvernului, după caz.
+ART. 36
+(1) Contractul de furnizare de servicii de îngrijiri paliative încetează la data la care a
+intervenit una dintre următoarele situații:
+a) de drept, la data la care a intervenit una dintre următoarele situații:
+(i) furnizorul de servicii de îngrijiri paliative își încetează activitatea în raza
+administrativ-teritorială a casei de asigurări de sănătate cu care se află în relație contractuală;
+(ii)  încetarea, după caz, prin constatarea ori declararea nulității, prin fuziune, divizare
+totală, transformare, dizolvare sau desființare ori printr-un alt mod prevăzut de actul constitutiv sau
+de lege;
+ (iii) încetarea definitivă a activității casei de asigurări de sănătate;
+(iv) medicul titular al cabinetului medical individual renunță sau pierde calitatea de
+membru al Colegiului Medicilor din România conform Hotărârii Colegiului Medicilor din România
+nr. 1/2022 privind adoptarea Statutului Colegiului Medicilor din România;
+b) din motive imputabile furnizorului, prin reziliere;
+c) acordul de voință al părților;
+d) denunțarea unilaterală a contractului de către reprezentantul legal al furnizorului de
+servicii de îngrijiri paliative sau al casei de asigurări de sănătate, printr-o notificare scrisă, cu 30 de
+zile calendaristice anterioare datei de la care se dorește încetarea contractului, cu indicarea
+motivului și a temeiului legal.
+(2) Contractul de furnizare de servicii de îngrijiri paliative încetează odată cu contractul de
+furnizare de servicii încheiat, conform prevederilor contractului-cadru care reglementează condițiile
+acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate aprobat prin
+hotărâre a Guvernului, după caz.
+(3) În cazul reorganizării furnizorului de servicii de îngrijiri paliative, aflat în relație
+contractuală cu casa de asigurări de sănătate, prin transferul total sau parțial al activității către o altă
+entitate cu personalitate juridică aflată în relație contractuală cu o casă de asigurări de sănătate,
+contractele de furnizare de servicii de îngrijiri paliative încheiate cu casele de asigurări de sănătate
+și aflate în derulare se preiau de drept de către noua entitate juridică, în aceleași condiții,
+corespunzător drepturilor și obligațiilor aferente activității transferate, începând cu data notificării
+casei de asigurări de sănătate cu privire la transferul activității, cu condiția ca activitatea preluată să
+se desfășoare în aceleași condiții avute în vedere la intrarea în relație contractuală cu casele de
+asigurări de sănătate ale furnizorilor care se reorganizează, asumată de către reprezentantul legal al
+furnizorului pe baza unei declarații pe propria răspundere a acestuia. Furnizorul are obligația de a
+depune, până la data convenită între furnizor și casa de asigurări de sănătate prevăzută în contractul
+încheiat, toate documentele necesare continuării relației contractuale, actualizate în mod
+corespunzător. Nerespectarea acestei obligații conduce la încetarea relației contractuale cu casa de
+asigurări de sănătate. Modificarea va face obiectul unui act adițional încheiat între părți cu clauză
+suspensivă.
+
+16
+
+(4) În cazul în care furnizorul care a preluat drepturile și obligațiile, unor furnizori de
+servicii de îngrijiri paliative, aflați în relație contractuală cu o casă de asigurări de sănătate, nu se
+află în relație contractuală cu o casă de asigurări de sănătate, acesta poate intra în relație
+contractuală cu casa de asigurări de sănătate cu care a fost în contract furnizorul preluat, cu
+respectarea reglementărilor privind procedura de contractare, conform prevederilor legale în
+vigoare. Condițiile prevăzute anterior sunt aplicabile și situațiilor în care furnizorul care a preluat
+drepturile și obligațiile unui furnizor/unor furnizori de servicii de îngrijiri paliative, aflați în relație
+contractuală cu o casă de asigurări de sănătate, nu a avut contract încheiat cu casa de asigurări de
+sănătate pentru activitatea preluată.
+(5) Condițiile prevăzute la alin. (4) sunt aplicabile și în cazul în care, în urma reorganizării
+unui furnizor de servicii de îngrijiri paliative aflat în relație contractuală cu casa de asigurări de
+sănătate, prin transferul total sau parțial al activității, rezultă o altă entitate cu personalitate juridică,
+care nu se află în relație contractuală cu o casă de asigurări de sănătate, dar care a preluat ca unică
+activitate, activitatea transferată.
+    ART. 37
+    (1) Contractul de furnizare de servicii de îngrijiri paliative se suspendă la data la care a
+intervenit una dintre următoarele situații:
+    a) odată cu suspendarea contractului de furnizare de servicii încheiat conform
+prevederilor contractului-cadru care reglementează condițiile acordării asistenței medicale în cadrul
+sistemului de asigurări sociale de sănătate aprobat prin hotărâre a Guvernului;
+    b) în cazurile de forță majoră, confirmate de autoritățile publice competente, până la
+încetarea cazului de forță majoră, dar nu mai mult de 6 luni, sau până la data ajungerii la termen a
+contractului;
+    c) la solicitarea furnizorului sau la constatarea casei de asigurări de sănătate, pentru
+motive obiective, independente de voința furnizorilor și care determină imposibilitatea desfășurării
+activității furnizorului o perioadă de maximum 30 de zile calendaristice, după caz, pe bază de
+documente justificative; suspendarea operează până la înlăturarea motivului obiectiv care a
+determinat imposibilitatea desfășurării activității furnizorului;
+    (2) Pentru situațiile prevăzute la alin. (1), pentru perioada de suspendare, valorile lunare
+de contract se reduc proporțional cu numărul de zile calendaristice pentru care operează
+suspendarea.
+    (3) Pentru situațiile prevăzute la alin. (1), pentru perioada de suspendare, casa de asigurări
+de sănătate nu decontează servicii de îngrijiri paliative.
+
+ART. II
+(1) Începând cu data intrării în vigoare a prezentei hotărâri, pacienții pot beneficia de servicii de
+depistare precoce activa a cancerului de col uterin, a cancerului de sân și, respectiv, a cancerului
+colorectal în cadrul programelor naționale de sănătate publică, dacă nu beneficiază de servicii de
+depistare precoce activa a cancerului de col uterin, a cancerului de sân și, respectiv, a cancerului
+colorectal din pachetul de servicii de bază și pachetul de servicii minimal reglementat la anexa nr. 1
+din Hotărârea Guvernului nr. 521/2023 pentru aprobarea pachetelor de servicii și a Contractului-
+cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a
+
+17
+
+dispozitivelor medicale, în cadrul sistemului de asigurări sociale de sănătate, cu modificările și
+completările ulterioare.
+(2) Începând cu data intrării în vigoare a prezentei hotărâri, pacienții pot beneficia de îngrijiri
+paliative acordate la domiciliu, în ambulatoriul de specialitate și/sau în regim de spitalizare de zi în
+cadrul programelor de sănătate curative, dacă nu beneficiază de îngrijiri paliative la domiciliu, în
+ambulatoriul de specialitate, respectiv în regim de spitalizare de zi din pachetul de servicii de bază
+reglementat la anexa nr. 1 din Hotărârea Guvernului nr. 521/2023 pentru aprobarea pachetelor de
+servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a
+medicamentelor și a dispozitivelor medicale, în cadrul sistemului de asigurări sociale de sănătate, cu
+modificările și completările ulterioare.
+
+ART.III. Prezenta hotărâre de guvern intră în vigoare în  trimestrul II al anului 2026.
+
+PRIM-MINISTRU
+Ilie-Gavril BOLOJAN
