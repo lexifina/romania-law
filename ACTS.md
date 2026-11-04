@@ -1,6 +1,6 @@
 # Every act in this repository
 
-24682 acts, 38,316 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+24690 acts, 38,324 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6021,7 +6021,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (18670, of which 9570 amending acts)
+## Government decisions (HG) (18678, of which 9571 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6619,7 +6619,15 @@
 | Hotărârea Guvernului nr. 1579/2005 | [`hg/2005/1579/`](hg/2005/1579/) | in force | 1 | 2006-02-09 | 2006-02-09 |
 | Hotărârea Guvernului nr. 1581/2005 | [`hg/2005/1581/`](hg/2005/1581/) | in force | 1 | 2006-01-11 | 2006-01-11 |
 | Hotărârea Guvernului nr. 1724/2005 | [`hg/2005/1724/`](hg/2005/1724/) | in force | 3 | 2006-01-29 | 2007-05-04 |
+| Hotărârea Guvernului nr. 1755/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Sibiu | [`hg/2005/1755/`](hg/2005/1755/) | in force | 1 | 2005-12-23 | 2005-12-23 |
+| Hotărârea Guvernului nr. 1757/2005 privind suplimentarea bugetului Ministerului Culturii şi Cultelor din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru înlăturarea efectelor calamităţilor naturale produse de inundaţii asupra unor monumente istorice din judeţele Caraş-Severin şi Timiş | [`hg/2005/1757/`](hg/2005/1757/) | in force | 1 | 2005-12-23 | 2005-12-23 |
+| Hotărârea Guvernului nr. 1759/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Călăraşi | [`hg/2005/1759/`](hg/2005/1759/) | in force | 1 | 2005-12-23 | 2005-12-23 |
+| Hotărârea Guvernului nr. 1762/2005 privind indexarea cuantumului alocaţiei lunare de plasament | [`hg/2005/1762/`](hg/2005/1762/) | in force | 1 | 2005-12-28 | 2005-12-28 |
+| Hotărârea Guvernului nr. 1763/2005 privind corectarea limitelor de venituri şi indexarea cuantumului alocaţiei familiale complementare şi al alocaţiei de susţinere pentru familia monoparentală | [`hg/2005/1763/`](hg/2005/1763/) | in force | 1 | 2005-12-28 | 2005-12-28 |
+| Hotărârea Guvernului nr. 1764/2005 privind actualizarea alocaţiei sociale cuvenite adulţilor nevăzători cu handicap grav şi accentuat, precum şi a indemnizaţiei lunare cuvenite adulţilor cu handicap grav şi accentuat, alţii decât nevăzătorii | [`hg/2005/1764/`](hg/2005/1764/) | in force | 1 | 2005-12-28 | 2005-12-28 |
+| Hotărârea Guvernului nr. 1767/2005 privind stabilirea cuantumului lunar al alocaţiei de stat pentru copii | [`hg/2005/1767/`](hg/2005/1767/) | in force | 1 | 2005-12-28 | 2005-12-28 |
 | Hotărârea Guvernului nr. 1768/2005 | [`hg/2005/1768/`](hg/2005/1768/) | in force | 4 | 2005-12-28 | 2009-11-27 |
+| Hotărârea Guvernului nr. 1769/2005 privind aprobarea rectificării bugetului de venituri şi cheltuieli pe anul 2005 al Companiei Române de Aviaţie "Romavia" - R.A., aflată în coordonarea Ministerului Apărării Naţionale | [`hg/2005/1769/`](hg/2005/1769/) | amending act | 1 | 2005-12-29 | 2005-12-29 |
 | Hotărârea Guvernului nr. 1772/2005 privind eliberarea domnului Soran Gavril, la cerere, din funcţia de prefect al judeţului Caraş-Severin | [`hg/2005/1772/`](hg/2005/1772/) | in force | 1 | 2005-12-29 | 2005-12-29 |
 | Hotărârea Guvernului nr. 1773/2005 privind numirea domnului Covaciu Cosmin Adrian în funcţia publică de prefect al judeţului Alba | [`hg/2005/1773/`](hg/2005/1773/) | in force | 1 | 2005-12-29 | 2005-12-29 |
 | Hotărârea Guvernului nr. 1774/2005 privind numirea domnului Stragea Cristian-Dimitrie în funcţia publică de prefect al judeţului Arad | [`hg/2005/1774/`](hg/2005/1774/) | in force | 1 | 2005-12-29 | 2005-12-29 |
