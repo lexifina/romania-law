@@ -1,6 +1,6 @@
 # Every act in this repository
 
-24768 acts, 38,402 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+24785 acts, 38,419 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6031,7 +6031,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (18746, of which 9584 amending acts)
+## Government decisions (HG) (18763, of which 9588 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6628,6 +6628,23 @@
 | Hotărârea Guvernului nr. 1514/2005 | [`hg/2005/1514/`](hg/2005/1514/) | in force | 1 | 2005-12-09 | 2005-12-09 |
 | Hotărârea Guvernului nr. 1579/2005 | [`hg/2005/1579/`](hg/2005/1579/) | in force | 1 | 2006-02-09 | 2006-02-09 |
 | Hotărârea Guvernului nr. 1581/2005 | [`hg/2005/1581/`](hg/2005/1581/) | in force | 1 | 2006-01-11 | 2006-01-11 |
+| Hotărârea Guvernului nr. 1634/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Braşov | [`hg/2005/1634/`](hg/2005/1634/) | in force | 1 | 2005-12-19 | 2005-12-19 |
+| Hotărârea Guvernului nr. 1635/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Constanţa | [`hg/2005/1635/`](hg/2005/1635/) | in force | 1 | 2005-12-19 | 2005-12-19 |
+| Hotărârea Guvernului nr. 1636/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Constanţa | [`hg/2005/1636/`](hg/2005/1636/) | in force | 1 | 2005-12-19 | 2005-12-19 |
+| Hotărârea Guvernului nr. 1637/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului prevăzut în bugetul de stat pe anul 2005, pentru judeţul Maramureş | [`hg/2005/1637/`](hg/2005/1637/) | in force | 1 | 2005-12-19 | 2005-12-19 |
+| Hotărârea Guvernului nr. 1638/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Maramureş | [`hg/2005/1638/`](hg/2005/1638/) | in force | 1 | 2005-12-19 | 2005-12-19 |
+| Hotărârea Guvernului nr. 1643/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Vaslui | [`hg/2005/1643/`](hg/2005/1643/) | in force | 1 | 2005-12-19 | 2005-12-19 |
+| Hotărârea Guvernului nr. 1644/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Ilfov | [`hg/2005/1644/`](hg/2005/1644/) | in force | 1 | 2005-12-19 | 2005-12-19 |
+| Hotărârea Guvernului nr. 1645/2005 privind suplimentarea bugetului Ministerului Administraţiei şi Internelor pe anul 2005 din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005 | [`hg/2005/1645/`](hg/2005/1645/) | in force | 1 | 2005-12-19 | 2005-12-19 |
+| Hotărârea Guvernului nr. 1646/2005 privind suplimentarea bugetului Ministerului Justiţiei din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005 | [`hg/2005/1646/`](hg/2005/1646/) | in force | 1 | 2005-12-19 | 2005-12-19 |
+| Hotărârea Guvernului nr. 1647/2005 privind suplimentarea bugetului Ministerului Justiţiei din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005 | [`hg/2005/1647/`](hg/2005/1647/) | in force | 1 | 2005-12-19 | 2005-12-19 |
+| Hotărârea Guvernului nr. 1649/2005 privind suplimentarea bugetului Ministerului Apărării Naţionale pe anul 2005 din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat, pentru aniversarea "Zilei Naţionale a României" | [`hg/2005/1649/`](hg/2005/1649/) | in force | 1 | 2005-12-19 | 2005-12-19 |
+| Hotărârea Guvernului nr. 1654/2005 privind suplimentarea numărului de permise de muncă noi ce pot fi eliberate străinilor în anul 2005 | [`hg/2005/1654/`](hg/2005/1654/) | in force | 1 | 2005-12-21 | 2005-12-21 |
+| Hotărârea Guvernului nr. 1655/2005 privind organizarea şi desfăşurarea examenului de atestare în funcţiile publice de prefect şi subprefect | [`hg/2005/1655/`](hg/2005/1655/) | in force | 1 | 2005-12-16 | 2005-12-16 |
+| Hotărârea Guvernului nr. 1656/2005 pentru completarea anexei nr. 23 la Hotărârea Guvernului nr. 1.352/2001 privind atestarea domeniului public al judeţului Hunedoara, precum şi al municipiilor, oraşelor şi comunelor din judeţul Hunedoara | [`hg/2005/1656/`](hg/2005/1656/) | amending act | 1 | 2005-12-21 | 2005-12-21 |
+| Hotărârea Guvernului nr. 1658/2005 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2006 al Autorităţii Naţionale de Reglementare în Comunicaţii | [`hg/2005/1658/`](hg/2005/1658/) | amending act | 1 | 2005-12-22 | 2005-12-22 |
+| Hotărârea Guvernului nr. 1661/2005 pentru aprobarea amendamentului convenit prin scrisoarea semnată la Zagreb la 26 octombrie 2005 şi la Bucureşti la 28 octombrie 2005 între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare cu privire la Acordul de asistenţă financiară nerambursabilă dintre România, reprezentată de Ministerul Finanţelor Publice, şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, convenit prin scrisoarea semnată la Washington D.C. la 8 mai 2002 şi la Bucureşti la 27 mai 2002, pentru Proiectul de dezvoltare instituţională a sectorului privat şi public | [`hg/2005/1661/`](hg/2005/1661/) | amending act | 1 | 2005-12-28 | 2005-12-28 |
+| Hotărârea Guvernului nr. 1662/2005 pentru aprobarea Protocolului de cooperare dintre Ministerul Administraţiei şi Internelor din România şi Ministerul de Interne din Republica Ungară privind problematica refugiaţilor, semnat la Bucureşti la 20 octombrie 2005 | [`hg/2005/1662/`](hg/2005/1662/) | amending act | 1 | 2005-12-28 | 2005-12-28 |
 | Hotărârea Guvernului nr. 1663/2005 pentru aprobarea Protocolului privind cooperarea dintre Ministerul Administraţiei şi Internelor din România şi Ministerul de Interne din Republica Ungară, semnat la Bucureşti la 20 octombrie 2005 | [`hg/2005/1663/`](hg/2005/1663/) | amending act | 1 | 2005-12-29 | 2005-12-29 |
 | Hotărârea Guvernului nr. 1664/2005 pentru modificarea şi completarea Hotărârii Guvernului nr. 65/2005 privind sprijinul direct al statului prin acordarea de subvenţii în anul 2005 producătorilor agricoli din sectorul vegetal, în scopul creşterii producţiei şi a indicilor de calitate a produselor agricole | [`hg/2005/1664/`](hg/2005/1664/) | amending act | 1 | 2005-12-29 | 2005-12-29 |
 | Hotărârea Guvernului nr. 1665/2005 pentru modificarea şi completarea Hotărârii Guvernului nr. 64/2005 privind sprijinul direct al statului prin acordarea de subvenţii, în anul 2005, producătorilor agricoli din sectorul animalier, pentru creşterea producţiei animaliere şi piscicole, precum şi a efectivelor de animale | [`hg/2005/1665/`](hg/2005/1665/) | amending act | 1 | 2005-12-29 | 2005-12-29 |
