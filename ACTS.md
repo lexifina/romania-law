@@ -1,6 +1,6 @@
 # Every act in this repository
 
-39083 acts, 52,837 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+39094 acts, 52,848 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -12200,7 +12200,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26849, of which 12526 amending acts)
+## Government decisions (HG) (26860, of which 12532 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13225,7 +13225,18 @@
 | Hotărârea Guvernului nr. 322/2001 privind aprobarea categoriilor de cheltuieli şi a obiectivelor pentru înlăturarea efectelor calamităţilor naturale produse în perioada 1-7 martie 2001 în judeţul Suceava | [`hg/2001/322/`](hg/2001/322/) | amended, not consolidated | 1 | 2001-03-23 | 2001-03-23 |
 | Hotărârea Guvernului nr. 326/2001 pentru stabilirea componentei Comisiei de privatizare a Băncii Comerciale Române - S.A | [`hg/2001/326/`](hg/2001/326/) | amended, not consolidated | 1 | 2001-03-23 | 2001-03-23 |
 | Hotărârea Guvernului nr. 336/2001 pentru constituirea Comitetului Naţional de Coordonare a Proiectului de Dezvoltare Rurală | [`hg/2001/336/`](hg/2001/336/) | amended, not consolidated | 1 | 2001-03-29 | 2001-03-29 |
+| Hotărârea Guvernului nr. 354/2001 pentru modificarea anexei la Hotărârea Guvernului nr. 435/1996 privind autorizarea Agenţiei Naţionale pentru Privatizare de a participa la constituirea Fundaţiei "Post-Privatizare" | [`hg/2001/354/`](hg/2001/354/) | amending act | 1 | 2001-04-06 | 2001-04-06 |
+| Hotărârea Guvernului nr. 355/2001 pentru aprobarea amendamentelor convenite prin schimbul de scrisori la 14 decembrie 2000 şi la 9 ianuarie 2001 la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare privind Proiectul de dezvoltare instituţională a sectorului privat, în valoare de 25 milioane dolari S.U.A., semnat la Washington DC la 17 iunie 1999 | [`hg/2001/355/`](hg/2001/355/) | amending act | 1 | 2001-04-09 | 2001-04-09 |
+| Hotărârea Guvernului nr. 357/2001 pentru aprobarea deciziilor cuprinse în Protocolul sesiunii a II-a a împuterniciţilor pentru aplicarea Acordului dintre Guvernul României şi Guvernul Ucrainei privind cooperarea în domeniul gospodăririi apelor de frontieră, semnat la Galaţi la 30 septembrie 1997 (18-21 decembrie 2000, Odesa, Ucraina) | [`hg/2001/357/`](hg/2001/357/) | amending act | 1 | 2001-05-15 | 2001-05-15 |
 | Hotărârea Guvernului nr. 358/2001 privind numirea delegaţiei părţii române în Comisia mixtă pentru întreţinerea şi reconstituirea frontierei în sectorul de uscat al frontierei de stat româno-bulgare | [`hg/2001/358/`](hg/2001/358/) | amended, not consolidated | 1 | 2001-04-09 | 2001-04-09 |
+| Hotărârea Guvernului nr. 359/2001 privind aprobarea unei licenţe de concesiune a activităţii miniere de exploatare, încheiată între Agenţia Naţionala pentru Resurse Minerale şi Societatea Comercială "Aindpex" - S.A | [`hg/2001/359/`](hg/2001/359/) | amending act | 1 | 2001-04-24 | 2001-04-24 |
+| Hotărârea Guvernului nr. 360/2001 privind aprobarea renunţării la cetăţenia Română unor persoane | [`hg/2001/360/`](hg/2001/360/) | amending act | 1 | 2001-04-09 | 2001-04-09 |
+| Hotărârea Guvernului nr. 361/2001 privind acordarea cetăţeniei române unor persoane | [`hg/2001/361/`](hg/2001/361/) | in force | 1 | 2001-04-09 | 2001-04-09 |
+| Hotărârea Guvernului nr. 362/2001 privind aprobarea renunţării la cetăţenia Română unor persoane | [`hg/2001/362/`](hg/2001/362/) | amending act | 1 | 2001-04-09 | 2001-04-09 |
+| Hotărârea Guvernului nr. 363/2001 privind trecerea din domeniul public al statului şi din administrarea Ministerului Culturii şi Cultelor în domeniul public al oraşului Topoloveni şi în administrarea Consiliului Local al Oraşului Topoloveni, judeţul Argeş, a lucrării de arta monumentala "Ion Mihalache" | [`hg/2001/363/`](hg/2001/363/) | in force | 1 | 2001-04-09 | 2001-04-09 |
+| Hotărârea Guvernului nr. 364/2001 privind trecerea din domeniul public al statului şi din administrarea Ministerului Culturii şi Cultelor în domeniul public al municipiului Sfântu Gheorghe şi în administrarea Consiliului Local al Municipiului Sfântu Gheorghe, judeţul Covasna, a lucrării de artă monumentală "Miko Imre" | [`hg/2001/364/`](hg/2001/364/) | in force | 1 | 2001-04-09 | 2001-04-09 |
+| Hotărârea Guvernului nr. 365/2001 privind trecerea din domeniul public al statului şi din administrarea Ministerului Culturii şi Cultelor în domeniul public al municipiului Bacău şi în administrarea Consiliului Local al Municipiului Bacău, judeţul Bacău, a lucrării de arta monumentala "George Apostu" | [`hg/2001/365/`](hg/2001/365/) | in force | 1 | 2001-04-09 | 2001-04-09 |
+| Hotărârea Guvernului nr. 367/2001 privind acordarea unor ajutoare de urgenta | [`hg/2001/367/`](hg/2001/367/) | in force | 1 | 2001-04-06 | 2001-04-06 |
 | Hotărârea Guvernului nr. 368/2001 privind acordarea unor ajutoare de urgenta | [`hg/2001/368/`](hg/2001/368/) | in force | 1 | 2001-04-06 | 2001-04-06 |
 | Hotărârea Guvernului nr. 370/2001 privind suplimentarea bugetului Ministerului Culturii şi Cultelor din Fondul de rezerva bugetară la dispoziţia Guvernului pe anul 2001 pentru Arhiepiscopia Tomisului | [`hg/2001/370/`](hg/2001/370/) | in force | 1 | 2001-04-12 | 2001-04-12 |
 | Hotărârea Guvernului nr. 372/2001 privind exceptarea de la plata taxelor vamale a importului de porumb, orz, secara şi seminţe de floarea-soarelui, din soiuri nemodificate genetic | [`hg/2001/372/`](hg/2001/372/) | in force | 1 | 2001-04-17 | 2001-04-17 |

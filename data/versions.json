@@ -289763,6 +289763,21 @@
    ]
   },
   {
+   "slug": "hg-354-2001",
+   "path": "hg/2001/354",
+   "short": "HG nr. 354/2001",
+   "title": "Hotărârea Guvernului nr. 354/2001 pentru modificarea anexei la Hotărârea Guvernului nr. 435/1996 privind autorizarea Agenţiei Naţionale pentru Privatizare de a participa la constituirea Fundaţiei \"Post-Privatizare\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27814",
+   "versions": [
+    {
+     "from": "2001-04-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27814",
+     "sha256": "f436d6dee4152c8db5aa495baf6b73dc59a101987299b72af202768d2f802d66"
+    }
+   ]
+  },
+  {
    "slug": "hg-354-2003",
    "path": "hg/2003/354",
    "short": "HG nr. 354/2003",
@@ -289954,6 +289969,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/281726",
      "sha256": "5d34ba4ccc8a481ae5b7f74785891146d3bc5f3bfcf2ca623048453ac938c1eb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-355-2001",
+   "path": "hg/2001/355",
+   "short": "HG nr. 355/2001",
+   "title": "Hotărârea Guvernului nr. 355/2001 pentru aprobarea amendamentelor convenite prin schimbul de scrisori la 14 decembrie 2000 şi la 9 ianuarie 2001 la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare privind Proiectul de dezvoltare instituţională a sectorului privat, în valoare de 25 milioane dolari S.U.A., semnat la Washington DC la 17 iunie 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27827",
+   "versions": [
+    {
+     "from": "2001-04-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27827",
+     "sha256": "afa1804b0f80590914787cd2057d03dfc203241e8e41a09611c23a0b1ea3ffd0"
     }
    ]
   },
@@ -290419,6 +290449,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296568",
      "sha256": "f32ee7d6836914132e72a8c923ce2e168014fb7aa29ea1809667b29e660836f3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-357-2001",
+   "path": "hg/2001/357",
+   "short": "HG nr. 357/2001",
+   "title": "Hotărârea Guvernului nr. 357/2001 pentru aprobarea deciziilor cuprinse în Protocolul sesiunii a II-a a împuterniciţilor pentru aplicarea Acordului dintre Guvernul României şi Guvernul Ucrainei privind cooperarea în domeniul gospodăririi apelor de frontieră, semnat la Galaţi la 30 septembrie 1997 (18-21 decembrie 2000, Odesa, Ucraina)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28423",
+   "versions": [
+    {
+     "from": "2001-05-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28423",
+     "sha256": "28d06805804ac3ae3ca2e48fa9d42c2fbb0d5442f620344c97cbf910c21ce306"
     }
    ]
   },
@@ -290902,6 +290947,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12541",
      "sha256": "4b1217a5ebb2e846296b1306b6925b16b4106ef725643d52acd82a424c9ea41a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-359-2001",
+   "path": "hg/2001/359",
+   "short": "HG nr. 359/2001",
+   "title": "Hotărârea Guvernului nr. 359/2001 privind aprobarea unei licenţe de concesiune a activităţii miniere de exploatare, încheiată între Agenţia Naţionala pentru Resurse Minerale şi Societatea Comercială \"Aindpex\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28043",
+   "versions": [
+    {
+     "from": "2001-04-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28043",
+     "sha256": "b1a246b28d3ecd1c2ce50c9d831ae5cf1c8826627f2aa7051be80894b26eb49a"
     }
    ]
   },
@@ -291407,6 +291467,21 @@
    ]
   },
   {
+   "slug": "hg-360-2001",
+   "path": "hg/2001/360",
+   "short": "HG nr. 360/2001",
+   "title": "Hotărârea Guvernului nr. 360/2001 privind aprobarea renunţării la cetăţenia Română unor persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27832",
+   "versions": [
+    {
+     "from": "2001-04-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27832",
+     "sha256": "26cc09bb345710f5b14a51e0d7387835aec1efe24a43ee9e33c591efff5a387c"
+    }
+   ]
+  },
+  {
    "slug": "hg-360-2007",
    "path": "hg/2007/360",
    "short": "HG nr. 360/2007",
@@ -291598,6 +291673,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12545",
      "sha256": "0c101645a7d553a389fc693160820ad5a3e49ad0b4f67f8f1007891d42c4c071"
+    }
+   ]
+  },
+  {
+   "slug": "hg-361-2001",
+   "path": "hg/2001/361",
+   "short": "HG nr. 361/2001",
+   "title": "Hotărârea Guvernului nr. 361/2001 privind acordarea cetăţeniei române unor persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27831",
+   "versions": [
+    {
+     "from": "2001-04-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27831",
+     "sha256": "7b7c35c5d7ce4ffee9beafdbc5243cd3d122288ba0114b7fd926ccef23274a20"
     }
    ]
   },
@@ -291905,6 +291995,21 @@
    ]
   },
   {
+   "slug": "hg-362-2001",
+   "path": "hg/2001/362",
+   "short": "HG nr. 362/2001",
+   "title": "Hotărârea Guvernului nr. 362/2001 privind aprobarea renunţării la cetăţenia Română unor persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27841",
+   "versions": [
+    {
+     "from": "2001-04-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27841",
+     "sha256": "edee179393ee05b930f3b72aa8336b42e57d5a40083a02708afc193c10e0231e"
+    }
+   ]
+  },
+  {
    "slug": "hg-362-2003",
    "path": "hg/2003/362",
    "short": "HG nr. 362/2003",
@@ -292205,6 +292310,21 @@
    ]
   },
   {
+   "slug": "hg-363-2001",
+   "path": "hg/2001/363",
+   "short": "HG nr. 363/2001",
+   "title": "Hotărârea Guvernului nr. 363/2001 privind trecerea din domeniul public al statului şi din administrarea Ministerului Culturii şi Cultelor în domeniul public al oraşului Topoloveni şi în administrarea Consiliului Local al Oraşului Topoloveni, judeţul Argeş, a lucrării de arta monumentala \"Ion Mihalache\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27830",
+   "versions": [
+    {
+     "from": "2001-04-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27830",
+     "sha256": "75209f5b43cb4090a9697bab82ada8608d2b27251e82788d32146ee892742ca5"
+    }
+   ]
+  },
+  {
    "slug": "hg-363-2002",
    "path": "hg/2002/363",
    "short": "HG nr. 363/2002",
@@ -292493,6 +292613,21 @@
    ]
   },
   {
+   "slug": "hg-364-2001",
+   "path": "hg/2001/364",
+   "short": "HG nr. 364/2001",
+   "title": "Hotărârea Guvernului nr. 364/2001 privind trecerea din domeniul public al statului şi din administrarea Ministerului Culturii şi Cultelor în domeniul public al municipiului Sfântu Gheorghe şi în administrarea Consiliului Local al Municipiului Sfântu Gheorghe, judeţul Covasna, a lucrării de artă monumentală \"Miko Imre\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27833",
+   "versions": [
+    {
+     "from": "2001-04-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27833",
+     "sha256": "2483f8f143832a1d733c5be1261d48935c669fec409fede03fa1d26572cb0ef0"
+    }
+   ]
+  },
+  {
    "slug": "hg-364-2005",
    "path": "hg/2005/364",
    "short": "HG nr. 364/2005",
@@ -292759,6 +292894,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21634",
      "sha256": "aa8fa05365959a67bba5a53024f5307d5ed271dfa73a8ee5ed84e155780744df"
+    }
+   ]
+  },
+  {
+   "slug": "hg-365-2001",
+   "path": "hg/2001/365",
+   "short": "HG nr. 365/2001",
+   "title": "Hotărârea Guvernului nr. 365/2001 privind trecerea din domeniul public al statului şi din administrarea Ministerului Culturii şi Cultelor în domeniul public al municipiului Bacău şi în administrarea Consiliului Local al Municipiului Bacău, judeţul Bacău, a lucrării de arta monumentala \"George Apostu\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27834",
+   "versions": [
+    {
+     "from": "2001-04-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27834",
+     "sha256": "dff959a3dce3887fbb95e544802442cb388e3c152b8cd3b7dd64b10bc0553efb"
     }
    ]
   },
@@ -293254,6 +293404,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267337",
      "sha256": "b23d82505ccd44c98c3e86f333e8486a7a8f6524c9b5cd4e9ce19d61ee2735b2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-367-2001",
+   "path": "hg/2001/367",
+   "short": "HG nr. 367/2001",
+   "title": "Hotărârea Guvernului nr. 367/2001 privind acordarea unor ajutoare de urgenta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27815",
+   "versions": [
+    {
+     "from": "2001-04-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27815",
+     "sha256": "587fe1a7d576064ea8c7d27fda1eec6c5d89d0f60341c78dd04f10c3388082bd"
     }
    ]
   },
