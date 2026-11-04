@@ -1,6 +1,6 @@
 # Every act in this repository
 
-20850 acts, 34,483 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+20865 acts, 34,498 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3308, of which 1826 amending acts)
+## Laws (legi) (3314, of which 1831 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1014,7 +1014,13 @@
 | Legea nr. 211/2011 | [`lege/2011/211/`](lege/2011/211/) | in force | 11 | 2011-11-28 | 2021-08-26 |
 | Legea nr. 214/2011 | [`lege/2011/214/`](lege/2011/214/) | in force | 3 | 2011-11-24 | 2014-02-01 |
 | Legea nr. 218/2011 | [`lege/2011/218/`](lege/2011/218/) | in force | 1 | 2011-12-09 | 2011-12-09 |
+| Legea nr. 221/2011 pentru modificarea alin. (2) al art. 29 din Legea nr. 350/2001 privind amenajarea teritoriului şi urbanismul | [`lege/2011/221/`](lege/2011/221/) | amending act | 1 | 2011-12-05 | 2011-12-05 |
+| Legea nr. 222/2011 privind respingerea Ordonanţei Guvernului nr. 5/2010 pentru modificarea art. III alin. (1) din Ordonanţa Guvernului nr. 3/2007 privind unele măsuri financiar-fiscale din domeniul protecţiei sociale | [`lege/2011/222/`](lege/2011/222/) | amending act | 1 | 2011-12-05 | 2011-12-05 |
+| Legea nr. 223/2011 pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 225/2008 privind plata unor sume prevăzute în titluri executorii având ca obiect acordarea de drepturi salariale personalului din sistemul justiţiei | [`lege/2011/223/`](lege/2011/223/) | amending act | 1 | 2011-12-05 | 2011-12-05 |
+| Legea nr. 224/2011 privind aprobarea Ordonanţei Guvernului nr. 26/2010 pentru modificarea şi completarea Legii nr. 123/2006 privind statutul personalului din serviciile de probaţiune | [`lege/2011/224/`](lege/2011/224/) | amending act | 1 | 2011-12-09 | 2011-12-09 |
+| Legea nr. 225/2011 pentru modificarea art. 64 din Legea educaţiei fizice şi sportului nr. 69/2000 | [`lege/2011/225/`](lege/2011/225/) | amending act | 1 | 2012-01-01 | 2012-01-01 |
 | Legea nr. 226/2011 | [`lege/2011/226/`](lege/2011/226/) | in force | 3 | 2011-12-05 | 2015-04-23 |
+| Legea nr. 227/2011 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Turcia privind dobândirea dreptului de proprietate asupra terenurilor de către misiunile diplomatice ale celor două state, semnat la Bucureşti la 9 decembrie 2010 | [`lege/2011/227/`](lege/2011/227/) | in force | 1 | 2011-12-05 | 2011-12-05 |
 | Legea nr. 230/2011 | [`lege/2011/230/`](lege/2011/230/) | in force | 1 | 2011-12-11 | 2011-12-11 |
 | Legea nr. 231/2011 privind transmiterea unor suprafeţe de teren aflate în domeniul public al statului din administrarea Academiei de Ştiinţe Agricole şi Silvice "Gheorghe Ionescu-Şişeşti" - Staţiunea de Cercetare-Dezvoltare pentru Creşterea Bovinelor Arad în administrarea Ministerului Transporturilor şi Infrastructurii, în vederea realizării de către Compania Naţională de Autostrăzi şi Drumuri Naţionale din România - S.A. a obiectivului de investiţii "Autostrada Arad-Timişoara-Lugoj - Varianta de ocolire Arad cu profil de autostradă", respectiv a obiectivului de investiţii "Autostrada Nădlac-Arad" | [`lege/2011/231/`](lege/2011/231/) | in force | 1 | 2011-12-11 | 2011-12-11 |
 | Legea nr. 232/2011 pentru modificarea alin. (3) al art. 31 din Legea nr. 45/2009 privind organizarea şi funcţionarea Academiei de Ştiinţe Agricole şi Silvice "Gheorghe Ionescu-Şişeşti" şi a sistemului de cercetare-dezvoltare din domeniile agriculturii, silviculturii şi industriei alimentare | [`lege/2011/232/`](lege/2011/232/) | amending act | 1 | 2011-12-17 | 2011-12-17 |
@@ -3346,7 +3352,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1701, of which 600 amending acts)
+## Emergency ordinances (OUG) (1702, of which 600 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4007,6 +4013,7 @@
 | Ordonanța de urgență a Guvernului nr. 103/2011 | [`oug/2011/103/`](oug/2011/103/) | in force | 2 | 2011-12-02 | 2012-07-22 |
 | Ordonanța de urgență a Guvernului nr. 105/2011 | [`oug/2011/105/`](oug/2011/105/) | in force | 1 | 2011-12-05 | 2011-12-05 |
 | Ordonanța de urgență a Guvernului nr. 107/2011 pentru modificarea Legii nr. 360/2002 privind Statutul polițistului | [`oug/2011/107/`](oug/2011/107/) | amending act | 2 | 2011-12-07 | 2012-07-05 |
+| Ordonanța de urgență a Guvernului nr. 108/2011 privind ratificarea Acordului-cadru de împrumut dintre Uniunea Europeană, în calitate de Împrumutător, România, în calitate de Împrumutat, şi Banca Naţională a României, în calitate de Agent al Împrumutatului, în valoare de maximum 1.400.000.000 euro, semnat la Bucureşti la 28 iunie 2011 şi la Luxemburg la 30 iunie 2011, şi a Memorandumului de înţelegere dintre Uniunea Europeană şi România, semnat la Bucureşti la 28 iunie 2011 şi la Bruxelles la 29 iunie 2011 | [`oug/2011/108/`](oug/2011/108/) | in force | 1 | 2011-12-13 | 2011-12-13 |
 | Ordonanța de urgență a Guvernului nr. 109/2011 privind guvernanța corporativă a întreprinderilor publice | [`oug/2011/109/`](oug/2011/109/) | in force | 18 | 2011-12-14 | 2025-12-09 |
 | Ordonanța de urgență a Guvernului nr. 111/2011 privind comunicațiile electronice | [`oug/2011/111/`](oug/2011/111/) | in force | 21 | 2011-12-27 | 2024-12-31 |
 | Ordonanța de urgență a Guvernului nr. 112/2011 privind ratificarea Acordului de împrumut (Al treilea împrumut pentru politici de dezvoltare) dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Bucureşti la 20 decembrie 2011 | [`oug/2011/112/`](oug/2011/112/) | in force | 1 | 2011-12-21 | 2011-12-21 |
@@ -5584,7 +5591,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (15275, of which 7792 amending acts)
+## Government decisions (HG) (15283, of which 7799 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8817,7 +8824,15 @@
 | Hotărârea Guvernului nr. 1132/2011 privind modificarea anexei nr. 11 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului și transmiterea unor imobile proprietate publică a statului din administrarea Ministerului Justiției - Administrația Națională a Penitenciarelor - Penitenciarul Slobozia în administrarea Ministerului Dezvoltării Regionale și Turismului | [`hg/2011/1132/`](hg/2011/1132/) | amending act | 1 | 2011-11-18 | 2011-11-18 |
 | Hotărârea Guvernului nr. 1135/2011 | [`hg/2011/1135/`](hg/2011/1135/) | in force | 2 | 2012-01-01 | 2012-08-13 |
 | Hotărârea Guvernului nr. 1154/2011 | [`hg/2011/1154/`](hg/2011/1154/) | in force | 1 | 2011-11-30 | 2011-11-30 |
+| Hotărârea Guvernului nr. 1167/2011 privind actualizarea inventarului centralizat al bunurilor din domeniul public al statului, ca urmare a schimbării unităţii de administrare şi modificării valorii de inventar a unui imobil aflat în domeniul public al statului şi în administrarea Ministerului Administraţiei şi Internelor | [`hg/2011/1167/`](hg/2011/1167/) | in force | 1 | 2011-12-05 | 2011-12-05 |
 | Hotărârea Guvernului nr. 1169/2011 | [`hg/2011/1169/`](hg/2011/1169/) | in force | 1 | 2011-12-12 | 2011-12-12 |
+| Hotărârea Guvernului nr. 1170/2011 privind modificarea şi completarea Normelor metodologice pentru aplicarea Legii nr. 269/2004 privind acordarea unui ajutor financiar în vederea stimulării achiziţionării de calculatoare, aprobate prin Hotărârea Guvernului nr. 1.294/2004 | [`hg/2011/1170/`](hg/2011/1170/) | amending act | 1 | 2011-12-06 | 2011-12-06 |
+| Hotărârea Guvernului nr. 1174/2011 pentru aprobarea Instrucţiunilor privind întocmirea şi actualizarea monografiei economico-militare a judeţului, respectiv a municipiului Bucureşti | [`hg/2011/1174/`](hg/2011/1174/) | amending act | 1 | 2012-01-06 | 2012-01-06 |
+| Hotărârea Guvernului nr. 1175/2011 privind transmiterea unui imobil aflat în domeniul public al statului din administrarea Ministerului Administraţiei şi Internelor - Inspectoratul Judeţean al Poliţiei de Frontieră Călăraşi în administrarea Ministerului Mediului şi Pădurilor - Regia Naţională a Pădurilor ROMSILVA şi pentru actualizarea anexei nr. 1 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2011/1175/`](hg/2011/1175/) | amending act | 1 | 2011-12-06 | 2011-12-06 |
+| Hotărârea Guvernului nr. 1176/2011 pentru modificarea şi completarea unor anexe la Hotărârea Guvernului nr. 975/2002 privind atestarea domeniului public al judeţului Covasna, precum şi al municipiilor, oraşelor şi comunelor din judeţul Covasna | [`hg/2011/1176/`](hg/2011/1176/) | amending act | 1 | 2012-01-12 | 2012-01-12 |
+| Hotărârea Guvernului nr. 1179/2011 pentru modificarea art. 1 alin. (2) din Hotărârea Guvernului nr. 1.415/2009 privind organizarea şi funcţionarea Autorităţii Naţionale Sanitare Veterinare şi pentru Siguranţa Alimentelor şi a unităţilor din subordinea acesteia | [`hg/2011/1179/`](hg/2011/1179/) | amending act | 1 | 2011-12-05 | 2011-12-05 |
+| Hotărârea Guvernului nr. 1181/2011 pentru aprobarea atestării zonei Şuior-Baia Sprie, oraşul Baia Sprie, judeţul Maramureş, ca staţiune turistică de interes local | [`hg/2011/1181/`](hg/2011/1181/) | amending act | 1 | 2011-12-08 | 2011-12-08 |
+| Hotărârea Guvernului nr. 1182/2011 privind modificarea anexei nr. 10 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2011/1182/`](hg/2011/1182/) | amending act | 1 | 2011-12-21 | 2011-12-21 |
 | Hotărârea Guvernului nr. 1185/2011 privind transmiterea cu plată a unor bunuri, investiţii nefinalizate, din patrimoniul Societăţii Comerciale "Metrom" - S.A. Braşov, filială a Companiei Naţionale "Romarm" - S.A., aflată sub autoritatea Ministerului Economiei, Comerţului şi Mediului de Afaceri, în domeniul public al statului şi în administrarea Ministerului Apărării Naţionale | [`hg/2011/1185/`](hg/2011/1185/) | in force | 1 | 2011-12-29 | 2011-12-29 |
 | Hotărârea Guvernului nr. 1186/2011 privind modificarea valorii de inventar a unor imobile aflate în domeniul public al statului şi în administrarea Ministerului Administraţiei şi Internelor | [`hg/2011/1186/`](hg/2011/1186/) | amending act | 1 | 2011-12-08 | 2011-12-08 |
 | Hotărârea Guvernului nr. 1189/2011 pentru modificarea unor anexe la Hotărârea Guvernului nr. 562/2002 privind atestarea domeniului public al judeţului Galaţi, precum şi al municipiilor, oraşelor şi comunelor din judeţul Galaţi | [`hg/2011/1189/`](hg/2011/1189/) | amending act | 1 | 2012-01-18 | 2012-01-18 |
