@@ -1,6 +1,6 @@
 # Every act in this repository
 
-27779 acts, 41,422 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+27802 acts, 41,445 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (4037, of which 2431 amending acts)
+## Laws (legi) (4042, of which 2436 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -546,10 +546,15 @@
 | Legea nr. 329/2004 | [`lege/2004/329/`](lege/2004/329/) | in force | 1 | 2004-07-23 | 2004-07-23 |
 | Legea nr. 340/2004 | [`lege/2004/340/`](lege/2004/340/) | repealed 2019-07-05 | 7 | 2004-07-24 | 2019-07-05 |
 | Legea nr. 341/2004 | [`lege/2004/341/`](lege/2004/341/) | in force | 20 | 2004-07-23 | 2021-10-11 |
+| Legea nr. 343/2004 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 102/1999 privind protecţia specială şi încadrarea în muncă a persoanelor cu handicap | [`lege/2004/343/`](lege/2004/343/) | amending act | 1 | 2004-07-18 | 2004-07-18 |
+| Legea nr. 345/2004 pentru aprobarea retragerii rezervei formulate de România la art. 5 din Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale, adoptată la Roma la 4 decembrie 1950 | [`lege/2004/345/`](lege/2004/345/) | amending act | 1 | 2004-07-29 | 2004-07-29 |
 | Legea nr. 346/2004 privind stimularea înființării și dezvoltării întreprinderilor mici și mijlocii | [`lege/2004/346/`](lege/2004/346/) | in force | 20 | 2004-08-01 | 2025-12-12 |
 | Legea nr. 347/2004 | [`lege/2004/347/`](lege/2004/347/) | in force | 6 | 2004-07-29 | 2010-08-04 |
 | Legea nr. 348/2004 privind denominarea monedei naționale | [`lege/2004/348/`](lege/2004/348/) | in force | 3 | 2004-07-26 | 2005-05-08 |
+| Legea nr. 350/2004 pentru modificarea art. 2 din Legea nr. 29/1994 privind autorizarea Guvernului de a aproba negocierea în vederea recuperării creanţelor României provenite din activitatea de comerţ exterior şi cooperare economică internaţională, derulată înainte de 31 decembrie 1989 | [`lege/2004/350/`](lege/2004/350/) | amending act | 1 | 2004-07-29 | 2004-07-29 |
 | Legea nr. 351/2004 | [`lege/2004/351/`](lege/2004/351/) | in force | 10 | 2004-08-27 | 2012-10-06 |
+| Legea nr. 352/2004 pentru completarea Legii nr. 19/2000 privind sistemul public de pensii şi alte drepturi de asigurări sociale | [`lege/2004/352/`](lege/2004/352/) | amending act | 1 | 2004-08-01 | 2004-08-01 |
+| Legea nr. 353/2004 pentru modificarea şi completarea Legii nr. 329/2003 privind exercitarea profesiei de detectiv particular | [`lege/2004/353/`](lege/2004/353/) | amending act | 1 | 2004-07-29 | 2004-07-29 |
 | Legea nr. 355/2004 privind completarea art. 3 din Legea nr. 61/1991 pentru sancţionarea faptelor de încălcare a unor norme de convieţuire socială, a ordinii şi liniştii publice | [`lege/2004/355/`](lege/2004/355/) | amending act | 1 | 2004-08-01 | 2004-08-01 |
 | Legea nr. 358/2004 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 37/2004 privind măsuri de diminuare a arieratelor din economie | [`lege/2004/358/`](lege/2004/358/) | amending act | 1 | 2004-09-13 | 2004-09-13 |
 | Legea nr. 359/2004 | [`lege/2004/359/`](lege/2004/359/) | repealed 2022-11-26 | 11 | 2004-10-13 | 2022-11-26 |
@@ -6404,7 +6409,7 @@
 | Ordonanța Guvernului nr. 3/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 70/2022 privind prevenirea, verificarea şi constatarea neregulilor/dublei finanţări, a neregulilor grave apărute în obţinerea şi utilizarea fondurilor externe nerambursabile/rambursabile alocate României prin Mecanismul de redresare şi rezilienţă şi/sau a fondurilor publice naţionale aferente acestora şi recuperarea creanţelor rezultate | [`og/2026/3/`](og/2026/3/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (21384, of which 11002 amending acts)
+## Government decisions (HG) (21402, of which 11010 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6849,7 +6854,25 @@
 | Hotărârea Guvernului nr. 1022/2004 privind organizarea și funcționarea Agenției Române de Intervenții și Salvare Navală - ARISN | [`hg/2004/1022/`](hg/2004/1022/) | in force | 3 | 2004-07-22 | 2009-09-28 |
 | Hotărârea Guvernului nr. 1024/2004 | [`hg/2004/1024/`](hg/2004/1024/) | in force | 3 | 2004-07-29 | 2006-06-13 |
 | Hotărârea Guvernului nr. 1043/2004 | [`hg/2004/1043/`](hg/2004/1043/) | in force | 2 | 2004-08-02 | 2005-01-03 |
+| Hotărârea Guvernului nr. 1056/2004 privind aprobarea plăţii contribuţiei financiare a României pentru participarea în anul 2004 la programul comunitar Fiscalis 2003-2007 | [`hg/2004/1056/`](hg/2004/1056/) | amending act | 1 | 2004-07-14 | 2004-07-14 |
+| Hotărârea Guvernului nr. 1057/2004 pentru aprobarea amendamentului convenit prin schimbul de scrisori semnate la Bucureşti la 5 martie 2004 şi la Zagreb la 26 martie 2004 între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare privind finanţarea Proiectului pentru sprijinirea serviciilor din agricultură, semnat la Bucureşti la 27 martie 2000 | [`hg/2004/1057/`](hg/2004/1057/) | amending act | 1 | 2004-07-19 | 2004-07-19 |
+| Hotărârea Guvernului nr. 1058/2004 privind stabilirea Criteriilor de acordare a etichetei ecologice pentru grupul de produse detergenţi universali şi detergenţi pentru grupuri sanitare | [`hg/2004/1058/`](hg/2004/1058/) | in force | 1 | 2004-09-18 | 2004-09-18 |
+| Hotărârea Guvernului nr. 1059/2004 privind acordarea unui ajutor umanitar, constând în materiale de construcţii şi reparat case, familiilor din judeţul Vaslui, precum şi suplimentarea cantităţilor acordate prin Hotărârea Guvernului nr. 942/2004 pentru populaţia din judeţul Neamţ, afectate de fenomenele meteorologice periculoase care s-au produs în data de 13 iunie 2004 | [`hg/2004/1059/`](hg/2004/1059/) | in force | 1 | 2004-07-13 | 2004-07-13 |
+| Hotărârea Guvernului nr. 1060/2004 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru judeţul Prahova | [`hg/2004/1060/`](hg/2004/1060/) | in force | 1 | 2004-07-13 | 2004-07-13 |
+| Hotărârea Guvernului nr. 1066/2004 privind stabilirea indemnizaţiei zilnice în valută, în vederea acoperirii cheltuielilor de hrană şi cazare, pentru poliţiştii români care îşi desfăşoară activitatea în cadrul Misiunii de Poliţie a Uniunii Europene (EUPM) în Bosnia-Herţegovina (BiH) | [`hg/2004/1066/`](hg/2004/1066/) | in force | 1 | 2004-07-16 | 2004-07-16 |
+| Hotărârea Guvernului nr. 1071/2004 privind trecerea unor imobile situate în judeţul Vaslui din domeniul public al statului şi din administrarea Administraţiei Naţionale "Apele Române" în domeniul public al municipiilor Vaslui şi Bârlad şi în administrarea consiliilor locale ale acestora | [`hg/2004/1071/`](hg/2004/1071/) | in force | 1 | 2004-07-23 | 2004-07-23 |
+| Hotărârea Guvernului nr. 1072/2004 privind trecerea unui imobil din domeniul privat al statului şi din administrarea Ministerului Administraţiei şi Internelor în domeniul public al municipiului Iaşi şi în administrarea Consiliului Local al Municipiului Iaşi | [`hg/2004/1072/`](hg/2004/1072/) | in force | 1 | 2004-07-21 | 2004-07-21 |
+| Hotărârea Guvernului nr. 1073/2004 privind trecerea unui imobil din domeniul privat al statului şi din administrarea Ministerului Administraţiei şi Internelor în domeniul privat al municipiului Botoşani şi în administrarea Consiliului Local al Municipiului Botoşani, judeţul Botoşani | [`hg/2004/1073/`](hg/2004/1073/) | in force | 1 | 2004-07-21 | 2004-07-21 |
+| Hotărârea Guvernului nr. 1074/2004 privind trecerea unui teren din domeniul public al statului şi din administrarea Ministerului Administraţiei şi Internelor în domeniul public al comunei Stăuceni şi în administrarea Consiliului Local al Comunei Stăuceni, judeţul Botoşani | [`hg/2004/1074/`](hg/2004/1074/) | in force | 1 | 2004-07-23 | 2004-07-23 |
 | Hotărârea Guvernului nr. 1076/2004 | [`hg/2004/1076/`](hg/2004/1076/) | in force | 3 | 2004-12-03 | 2012-10-29 |
+| Hotărârea Guvernului nr. 1077/2004 pentru aprobarea rectificării bugetului propriu de venituri şi cheltuieli al Autorităţii Naţionale de Reglementare pentru Serviciile Publice de Gospodărie Comunală pe anul 2004 | [`hg/2004/1077/`](hg/2004/1077/) | amending act | 1 | 2004-07-30 | 2004-07-30 |
+| Hotărârea Guvernului nr. 1078/2004 pentru modificarea Regulamentului de organizare şi funcţionare a Oficiului Naţional de Prevenire şi Combatere a Spălării Banilor, aprobat prin Hotărârea Guvernului nr. 479/2002 | [`hg/2004/1078/`](hg/2004/1078/) | amending act | 1 | 2004-07-14 | 2004-07-14 |
+| Hotărârea Guvernului nr. 1079/2004 pentru modificarea şi completarea Hotărârii Guvernului nr. 281/2004 privind suplimentarea bugetului Ministerului Culturii şi Cultelor din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2004 pentru finanţarea cheltuielilor aferente realizării şi amplasării Monumentului Marii Uniri în municipiul Arad | [`hg/2004/1079/`](hg/2004/1079/) | amending act | 1 | 2004-07-21 | 2004-07-21 |
+| Hotărârea Guvernului nr. 1080/2004 privind aprobarea Acordului de concesiune pentru explorare, dezvoltare şi exploatare petrolieră în perimetrul E IV - 1 Suceava, încheiat între Agenţia Naţională pentru Resurse Minerale şi Regal Petroleum plc | [`hg/2004/1080/`](hg/2004/1080/) | amending act | 1 | 2004-07-23 | 2004-07-23 |
+| Hotărârea Guvernului nr. 1081/2004 privind aprobarea preţului de referinţă pentru grâu în anul de piaţă 2004-2005 | [`hg/2004/1081/`](hg/2004/1081/) | amending act | 1 | 2004-07-23 | 2004-07-23 |
+| Hotărârea Guvernului nr. 1085/2004 privind transmiterea unui imobil, proprietate publică a statului, din administrarea Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat" în administrarea Ministerului Administraţiei şi Internelor şi pentru modificarea Hotărârii Guvernului nr. 1.464/2003 privind asigurarea pazei obiectivelor, bunurilor şi valorilor cu efective de jandarmi | [`hg/2004/1085/`](hg/2004/1085/) | amending act | 1 | 2004-08-10 | 2004-08-10 |
+| Hotărârea Guvernului nr. 1090/2004 privind unele măsuri pentru privatizarea Societăţii Naţionale a Petrolului "Petrom" - S.A. Bucureşti | [`hg/2004/1090/`](hg/2004/1090/) | in force | 1 | 2004-07-19 | 2004-07-19 |
+| Hotărârea Guvernului nr. 1092/2004 privind redistribuirea unor posturi, a personalului şi a fondurilor aferente de la instanţele militare, Direcţia instanţelor militare, parchetele militare şi Secţia Parchetelor Militare, la instanţele civile şi parchetele de pe lângă acestea | [`hg/2004/1092/`](hg/2004/1092/) | in force | 1 | 2004-07-23 | 2004-07-23 |
 | Hotărârea Guvernului nr. 1093/2004 privind modificarea şi completarea Hotărârii Guvernului nr. 1.489/2002 privind înfiinţarea Agenţiei Naţionale Antidrog | [`hg/2004/1093/`](hg/2004/1093/) | amending act | 1 | 2004-07-23 | 2004-07-23 |
 | Hotărârea Guvernului nr. 1094/2004 privind indexarea tarifelor de deservire generală în transportul feroviar de călători | [`hg/2004/1094/`](hg/2004/1094/) | in force | 1 | 2004-07-16 | 2004-07-16 |
 | Hotărârea Guvernului nr. 1095/2004 pentru modificarea anexei la Hotărârea Guvernului nr. 208/2004 privind aprobarea Listei societăţilor naţionale, companiilor naţionale şi societăţilor comerciale aflate sub autoritatea sau în coordonarea Ministerului Economiei şi Comerţului, la care se efectuează concedieri colective în baza prevederilor Ordonanţei de urgenţă a Guvernului nr. 8/2003 privind stimularea procesului de restructurare, reorganizare şi privatizare a unor societăţi naţionale, companii naţionale şi societăţi comerciale cu capital majoritar de stat | [`hg/2004/1095/`](hg/2004/1095/) | amending act | 1 | 2004-07-26 | 2004-07-26 |
