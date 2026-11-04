@@ -1,0 +1,56 @@
+{
+ "key": "cjue-t-680-25-hotarare-2026-11-04",
+ "label": "CJUE, Hotărârea Tribunalului (Camera a doua extinsă) din 4 noiembrie 2026, Cauza T-680/25",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2026-11-04",
+ "year": "2026",
+ "case": "Cauza T-680/25",
+ "celex": "62025TJ0680",
+ "ecli": "ECLI:EU:T:2026:716",
+ "heading": "Hotărârea Tribunalului (Camera a doua extinsă) din 4 noiembrie 2026",
+ "formation": "CHAMB_EXTD_02_T",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Curtea de Apel Bucureşti, Secția a IX-a contencios administrativ și fiscal",
+   "date": "2025-03-12",
+   "national_file": "3176/2/2024"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Bucureşti",
+ "national_followup": null,
+ "parties": "Mercedes-Benz AG împotriva Direcţiei Generale Regionale a Finanţelor Publice Bucureşti – Administraţia Fiscală pentru Contribuabili Nerezidenţi și a Ministerului Finanţelor – Direcţia Generală de Soluţionare a Contestaţiilor",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Fiscalitate – Sistemul comun al TVA‑ului – Operațiuni asimilate unor prestări de servicii cu plată – Articolul 26 alineatul (1) din Directiva 2006/112/CE – Noțiunea de „alte scopuri decât pentru desfășurarea activității sale” – Punere la dispoziția unor producători de componente, cu titlu gratuit, a unor echipamente și matrițe de către un producător de autovehicule rutiere – Lipsa unei relații directe de facturare",
+ "interprets": [],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62025TJ0680",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=T-680/25&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/513eb26b-d851-11f1-8501-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "77ab95d33af90a4c433a7c7b20cf5f73e40c93591133bb14ada01beab4fe497f"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive,",
+  "TRIBUNALUL (Camera a doua, judecând în complet de cinci judecători)",
+  "declară:",
+  "Articolul 26 alineatul (1) din Directiva 2006/112/CE a Consiliului din 28 noiembrie 2006 privind sistemul comun al taxei pe valoarea adăugată",
+  "trebuie interpretat în sensul că",
+  "punerea la dispoziție a unor echipamente, cu titlu gratuit, de către un producător de autovehicule de transport rutier unui producător de componente auto nu trebuie asimilată unei prestări de servicii cu plată în situația în care acesta din urmă produce cu ajutorul acestor echipamente componente pentru producătorul de autovehicule, dar nu i le vinde în mod direct, vânzările fiind efectuate printr‑un intermediar, astfel încât nu există nicio relație directă de facturare între producătorul de componente și producătorul de autovehicule, cu condiția ca aceste componente să fie utilizate exclusiv de producătorul de autovehicule respectiv."
+ ]
+}
