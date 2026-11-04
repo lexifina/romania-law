@@ -1,6 +1,6 @@
 # Every act in this repository
 
-25046 acts, 38,680 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+25056 acts, 38,690 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6067,7 +6067,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (18988, of which 9640 amending acts)
+## Government decisions (HG) (18998, of which 9644 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6654,6 +6654,16 @@
 | Hotărârea Guvernului nr. 1222/2005 | [`hg/2005/1222/`](hg/2005/1222/) | in force | 1 | 2005-12-18 | 2005-12-18 |
 | Hotărârea Guvernului nr. 1229/2005 | [`hg/2005/1229/`](hg/2005/1229/) | in force | 1 | 2005-10-21 | 2005-10-21 |
 | Hotărârea Guvernului nr. 1258/2005 | [`hg/2005/1258/`](hg/2005/1258/) | in force | 3 | 2005-11-01 | 2010-06-16 |
+| Hotărârea Guvernului nr. 1302/2005 privind transmiterea unei părţi dintr-un imobil, proprietate publică a statului, din administrarea Ministerului Apărării Naţionale în administrarea Ministerului Culturii şi Cultelor, pentru Episcopia Romanului | [`hg/2005/1302/`](hg/2005/1302/) | in force | 1 | 2005-11-02 | 2005-11-02 |
+| Hotărârea Guvernului nr. 1303/2005 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al municipiului Lugoj şi în administrarea Consiliului Local al Municipiului Lugoj, judeţul Timiş | [`hg/2005/1303/`](hg/2005/1303/) | in force | 1 | 2005-11-03 | 2005-11-03 |
+| Hotărârea Guvernului nr. 1304/2005 privind transmiterea unor imobile din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al oraşului Lipova şi în administrarea Consiliului Local al Oraşului Lipova, judeţul Arad | [`hg/2005/1304/`](hg/2005/1304/) | in force | 1 | 2005-11-03 | 2005-11-03 |
+| Hotărârea Guvernului nr. 1305/2005 privind trecerea unei construcţii aflate în administrarea Ministerului Muncii, Solidarităţii Sociale şi Familiei din domeniul public al statului în domeniul privat al statului şi aprobarea desfiinţării acesteia | [`hg/2005/1305/`](hg/2005/1305/) | in force | 1 | 2005-11-02 | 2005-11-02 |
+| Hotărârea Guvernului nr. 1306/2005 pentru modificarea alin. (1) al art. 31 din Statutul Academiei de Ştiinţe Medicale, aprobat prin Hotărârea Guvernului nr. 1.665/2004 | [`hg/2005/1306/`](hg/2005/1306/) | amending act | 1 | 2005-11-03 | 2005-11-03 |
+| Hotărârea Guvernului nr. 1307/2005 privind transmiterea unui imobil, monument istoric, din domeniul privat al statului şi din administrarea Ministerului Culturii şi Cultelor în domeniul public al statului şi în administrarea Institutului Naţional al Monumentelor Istorice | [`hg/2005/1307/`](hg/2005/1307/) | in force | 1 | 2005-11-03 | 2005-11-03 |
+| Hotărârea Guvernului nr. 1308/2005 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al comunei Sânmartin, judeţul Bihor, şi în administrarea Consiliului Local al Comunei Sânmartin | [`hg/2005/1308/`](hg/2005/1308/) | in force | 1 | 2005-11-02 | 2005-11-02 |
+| Hotărârea Guvernului nr. 1310/2005 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Centru administrativ pentru producerea şi valorificarea plăcilor cu numere de înmatriculare, evidenţa vehiculelor, permise de conducere şi examinare auto" | [`hg/2005/1310/`](hg/2005/1310/) | amending act | 1 | 2005-11-04 | 2005-11-04 |
+| Hotărârea Guvernului nr. 1311/2005 privind completarea anexei nr. 14 la Hotărârea Guvernului nr. 2.060/2004 pentru aprobarea inventarelor bunurilor din domeniul public al statului cu un imobil aflat în proprietatea publică a statului şi în administrarea Ministerului Muncii, Solidarităţii Sociale şi Familiei şi transmiterea acestuia în folosinţa gratuită a Asociaţiei Naţionale a Surzilor din România | [`hg/2005/1311/`](hg/2005/1311/) | amending act | 1 | 2005-11-08 | 2005-11-08 |
+| Hotărârea Guvernului nr. 1312/2005 privind aprobarea Regulamentului pentru organizarea şi funcţionarea Consiliului de onoare al Ordinului Meritul Cultural | [`hg/2005/1312/`](hg/2005/1312/) | amending act | 1 | 2005-11-09 | 2005-11-09 |
 | Hotărârea Guvernului nr. 1313/2005 privind aprobarea Regulamentului pentru organizarea şi funcţionarea Consiliului de onoare al Ordinului Meritul pentru Învăţământ | [`hg/2005/1313/`](hg/2005/1313/) | amending act | 1 | 2005-11-09 | 2005-11-09 |
 | Hotărârea Guvernului nr. 1314/2005 privind modificarea alin. (1) al art. 1 din Hotărârea Guvernului nr. 2.028/2004 pentru autorizarea Cancelariei Primului-Ministru de a accepta o donaţie în favoarea statului român | [`hg/2005/1314/`](hg/2005/1314/) | amending act | 1 | 2005-11-08 | 2005-11-08 |
 | Hotărârea Guvernului nr. 1316/2005 privind transmiterea imobilului Sala Polivalentă din municipiul Reşiţa, judeţul Caraş-Severin, din domeniul public al statului şi din administrarea Agenţiei Naţionale pentru Sport, prin Clubul Sportiv Municipal Reşiţa, în domeniul public al judeţului Caraş-Severin şi în administrarea Consiliului Judeţean Caraş-Severin | [`hg/2005/1316/`](hg/2005/1316/) | in force | 1 | 2005-11-08 | 2005-11-08 |
