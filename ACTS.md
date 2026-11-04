@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38918 acts, 52,671 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38931 acts, 52,684 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -12136,7 +12136,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26748, of which 12486 amending acts)
+## Government decisions (HG) (26761, of which 12492 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13185,12 +13185,25 @@
 | Hotărârea Guvernului nr. 530/2001 | [`hg/2001/530/`](hg/2001/530/) | in force | 3 | 2002-03-18 | 2009-04-11 |
 | Hotărârea Guvernului nr. 536/2001 | [`hg/2001/536/`](hg/2001/536/) | in force | 1 | 2001-06-15 | 2001-06-15 |
 | Hotărârea Guvernului nr. 538/2001 privind aprobarea Normelor metodologice pentru finanţarea învăţământului preuniversitar de stat | [`hg/2001/538/`](hg/2001/538/) | amended, not consolidated | 1 | 2001-06-19 | 2001-06-19 |
+| Hotărârea Guvernului nr. 541/2001 privind trecerea unor imobile din/în proprietatea publică a statului în/din proprietatea privată a statului şi transmiterea lor din/în administrarea Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat" în/din administrarea Serviciului de Protecţie şi Paza | [`hg/2001/541/`](hg/2001/541/) | in force | 1 | 2001-06-15 | 2001-06-15 |
+| Hotărârea Guvernului nr. 545/2001 privind propunerea în funcţia de arhiereu-vicar al Mitropoliei Cultului Creştin de Rit Vechi a Preacuviosului Nafanail (Ichim Nicolae), în vederea recunoaşterii prin decret al Preşedintelui României | [`hg/2001/545/`](hg/2001/545/) | in force | 1 | 2001-06-19 | 2001-06-19 |
+| Hotărârea Guvernului nr. 546/2001 pentru aprobarea modului de repartizare şi de utilizare a sumelor prevăzute la lit. a)-c) şi e)-g) din anexa nr. 3/33 la Legea bugetului de stat pe anul 2001 nr. 216/2001 | [`hg/2001/546/`](hg/2001/546/) | amending act | 1 | 2001-06-20 | 2001-06-20 |
+| Hotărârea Guvernului nr. 549/2001 privind aprobarea încadrării în categoria funcţională a drumurilor comunale, sub denumirea "DC 100", a unor drumuri nenominalizate, situate în judeţul Giurgiu | [`hg/2001/549/`](hg/2001/549/) | amending act | 1 | 2001-06-19 | 2001-06-19 |
+| Hotărârea Guvernului nr. 550/2001 pentru completarea Normelor metodologice de aplicare a Ordonanţei de urgenţă a Guvernului nr. 88/1997 privind privatizarea societăţilor comerciale, cu modificările şi completările ulterioare, aprobate prin Hotărârea Guvernului nr. 450/1999 | [`hg/2001/550/`](hg/2001/550/) | amending act | 1 | 2001-06-15 | 2001-06-15 |
 | Hotărârea Guvernului nr. 551/2001 privind introducerea sistemelor moderne de plată a salariilor | [`hg/2001/551/`](hg/2001/551/) | amended, not consolidated | 1 | 2001-06-18 | 2001-06-18 |
 | Hotărârea Guvernului nr. 552/2001 pentru aprobarea programelor de interes naţional în domeniul protecţiei drepturilor copilului | [`hg/2001/552/`](hg/2001/552/) | amended, not consolidated | 1 | 2001-06-18 | 2001-06-18 |
 | Hotărârea Guvernului nr. 556/2001 privind reactualizarea Planului naţional pentru cercetare-dezvoltare şi inovare | [`hg/2001/556/`](hg/2001/556/) | amended, not consolidated | 1 | 2001-06-25 | 2001-06-25 |
+| Hotărârea Guvernului nr. 557/2001 privind acordarea unor ajutoare | [`hg/2001/557/`](hg/2001/557/) | in force | 1 | 2001-06-15 | 2001-06-15 |
+| Hotărârea Guvernului nr. 558/2001 privind transmiterea fără plata a unui teren arabil din proprietatea privată a statului şi din administrarea Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat" în proprietatea privată a comunei Voluntari, judeţul Ilfov | [`hg/2001/558/`](hg/2001/558/) | in force | 1 | 2001-06-18 | 2001-06-18 |
 | Hotărârea Guvernului nr. 559/2001 | [`hg/2001/559/`](hg/2001/559/) | in force | 1 | 2001-06-22 | 2001-06-22 |
 | Hotărârea Guvernului nr. 561/2001 pentru aprobarea programelor de sănătate finanţate în anul 2001 din bugetul Ministerului Sănătăţii şi Familiei şi din bugetul Fondului de asigurări sociale de sănătate | [`hg/2001/561/`](hg/2001/561/) | amended, not consolidated | 1 | 2001-06-22 | 2001-06-22 |
+| Hotărârea Guvernului nr. 562/2001 privind organizarea şi finanţarea Conferinţei pentru lansarea Planului naţional de acţiune pentru tineret pentru România | [`hg/2001/562/`](hg/2001/562/) | in force | 1 | 2001-06-21 | 2001-06-21 |
+| Hotărârea Guvernului nr. 563/2001 privind stabilirea parcului normat de autovehicule şi a consumului de carburanţi pentru Casa Naţionala de Pensii şi Alte Drepturi de Asigurări Sociale | [`hg/2001/563/`](hg/2001/563/) | in force | 1 | 2001-06-22 | 2001-06-22 |
+| Hotărârea Guvernului nr. 565/2001 privind transferul unor societăţi comerciale din cadrul sectorului producţiei de apărare din portofoliul Autorităţii pentru Privatizare şi Administrarea Participaţiilor Statului în portofoliul Ministerului Industriei şi Resurselor | [`hg/2001/565/`](hg/2001/565/) | in force | 1 | 2001-07-03 | 2001-07-03 |
+| Hotărârea Guvernului nr. 567/2001 pentru aprobarea Acordului bilateral de securitate dintre Ministerul Apărării Naţionale din România şi Ministerul Apărării din Regatul Norvegiei, semnat la Bucureşti la 9 noiembrie 2000 şi la Oslo la 15 ianuarie 2001 | [`hg/2001/567/`](hg/2001/567/) | amending act | 1 | 2001-07-06 | 2001-07-06 |
 | Hotărârea Guvernului nr. 568/2001 | [`hg/2001/568/`](hg/2001/568/) | in force | 6 | 2002-01-01 | 2013-12-19 |
+| Hotărârea Guvernului nr. 569/2001 privind modificarea pct. 3 şi 4 din anexa la Hotărârea Guvernului nr. 404/2001 pentru desemnarea reprezentanţilor Guvernului în Consiliul Naţional pentru Dezvoltare Regionala | [`hg/2001/569/`](hg/2001/569/) | amending act | 1 | 2001-06-28 | 2001-06-28 |
+| Hotărârea Guvernului nr. 574/2001 pentru aprobarea Strategiei Autorităţii Naţionale pentru Protecţia Consumatorilor 2001-2004 | [`hg/2001/574/`](hg/2001/574/) | amending act | 1 | 2001-07-06 | 2001-07-06 |
 | Hotărârea Guvernului nr. 577/2001 privind alocarea sumei de 10 miliarde lei din Fondul de rezerva bugetară la dispoziţia Guvernului pe anul 2001 pentru organizarea şi desfăşurarea Festivalului "Cerbul de Aur" de la Braşov | [`hg/2001/577/`](hg/2001/577/) | in force | 1 | 2001-06-30 | 2001-06-30 |
 | Hotărârea Guvernului nr. 578/2001 privind transmiterea unor părţi din imobile, proprietate privată a statului, din administrarea Autorităţii Feroviare Române - AFER în administrarea Agenţiei Naţionale pentru Locuinţe | [`hg/2001/578/`](hg/2001/578/) | in force | 1 | 2001-07-04 | 2001-07-04 |
 | Hotărârea Guvernului nr. 579/2001 privind transmiterea unor imobile aflate în proprietatea publică a statului din administrarea Ministerului Apărării Naţionale în administrarea Agenţiei Naţionale pentru Locuinţe | [`hg/2001/579/`](hg/2001/579/) | in force | 1 | 2001-07-04 | 2001-07-04 |
