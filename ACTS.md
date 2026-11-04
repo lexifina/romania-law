@@ -1,6 +1,6 @@
 # Every act in this repository
 
-25222 acts, 38,856 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+25247 acts, 38,881 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3764, of which 2203 amending acts)
+## Laws (legi) (3765, of which 2204 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -607,6 +607,7 @@
 | Legea nr. 241/2005 pentru prevenirea și combaterea evaziunii fiscale | [`lege/2005/241/`](lege/2005/241/) | in force | 9 | 2005-08-26 | 2024-05-16 |
 | Legea nr. 246/2005 | [`lege/2005/246/`](lege/2005/246/) | in force | 1 | 2005-07-28 | 2005-07-28 |
 | Legea nr. 248/2005 | [`lege/2005/248/`](lege/2005/248/) | in force | 31 | 2006-01-29 | 2025-03-15 |
+| Legea nr. 256/2005 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 47/2005 privind unele măsuri care trebuie luate pentru punerea în aplicare a Legii nr. 348/2004 privind denominarea monedei naţionale | [`lege/2005/256/`](lege/2005/256/) | amending act | 1 | 2005-09-26 | 2005-09-26 |
 | Legea nr. 258/2005 pentru ratificarea Acordului dintre România şi Comisia Comunităţilor Europene care modifică acordurile anuale de finanţare 2000, 2001, 2002, 2003 şi Acordul multianual de finanţare, semnat la Bruxelles şi, respectiv, la Bucureşti la 24 decembrie 2004 | [`lege/2005/258/`](lege/2005/258/) | in force | 1 | 2005-09-26 | 2005-09-26 |
 | Legea nr. 259/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 92/2005 pentru modificarea art. 15 din Ordonanţa de urgenţă a Guvernului nr. 116/2003 privind privatizarea Societăţii Comerciale ”Siderurgica” - S.A. Hunedoara | [`lege/2005/259/`](lege/2005/259/) | amending act | 1 | 2005-10-03 | 2005-10-03 |
 | Legea nr. 261/2005 pentru aprobarea Ordonanței de urgență a Guvernului nr. 19/2005 privind realizarea Ansamblului Arhitectural Catedrala Mântuirii Neamului | [`lege/2005/261/`](lege/2005/261/) | amending act | 1 | 2005-10-13 | 2005-10-13 |
@@ -6084,7 +6085,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (19147, of which 9703 amending acts)
+## Government decisions (HG) (19171, of which 9712 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6664,9 +6665,33 @@
 | Hotărârea Guvernului nr. 991/2005 pentru aprobarea Codului de etică și deontologie al polițistului | [`hg/2005/991/`](hg/2005/991/) | amending act | 1 | 2005-09-07 | 2005-09-07 |
 | Hotărârea Guvernului nr. 1020/2005 | [`hg/2005/1020/`](hg/2005/1020/) | in force | 3 | 2006-03-21 | 2010-06-16 |
 | Hotărârea Guvernului nr. 1049/2005 | [`hg/2005/1049/`](hg/2005/1049/) | in force | 1 | 2005-09-14 | 2005-09-14 |
+| Hotărârea Guvernului nr. 1062/2005 privind înfiinţarea Muzeului "Ion şi dr. Nicolai Kalinderu" | [`hg/2005/1062/`](hg/2005/1062/) | in force | 1 | 2005-09-26 | 2005-09-26 |
 | Hotărârea Guvernului nr. 1063/2005 | [`hg/2005/1063/`](hg/2005/1063/) | in force | 3 | 2005-10-10 | 2024-03-27 |
 | Hotărârea Guvernului nr. 1064/2005 | [`hg/2005/1064/`](hg/2005/1064/) | in force | 3 | 2005-10-12 | 2010-11-30 |
+| Hotărârea Guvernului nr. 1066/2005 privind prorogarea termenului prevăzut la art. 3 din Hotărârea Guvernului nr. 2.190/2004 pentru aprobarea concesionării serviciilor de siguranţă legarea-dezlegarea navelor maritime şi remorcajul de manevră a navelor maritime în porturile Constanţa, Midia şi Mangalia | [`hg/2005/1066/`](hg/2005/1066/) | amending act | 1 | 2005-09-16 | 2005-09-16 |
+| Hotărârea Guvernului nr. 1067/2005 privind eliberarea domnului Toderică Paul din funcţia de prefect al judeţului Vaslui | [`hg/2005/1067/`](hg/2005/1067/) | in force | 1 | 2005-09-16 | 2005-09-16 |
+| Hotărârea Guvernului nr. 1068/2005 privind numirea domnului Zaharia Ioan în funcţia de prefect al judeţului Vaslui | [`hg/2005/1068/`](hg/2005/1068/) | in force | 1 | 2005-09-16 | 2005-09-16 |
+| Hotărârea Guvernului nr. 1069/2005 pentru aprobarea Protocolului dintre Ministerul Apărării Naţionale din România şi Ministerul Apărării al Republicii Moldova privind cooperarea în domeniul transmisiunilor, semnat la Chişinău la 21 iunie 2005 | [`hg/2005/1069/`](hg/2005/1069/) | amending act | 1 | 2005-09-23 | 2005-09-23 |
+| Hotărârea Guvernului nr. 1071/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Călăraşi | [`hg/2005/1071/`](hg/2005/1071/) | in force | 1 | 2005-09-19 | 2005-09-19 |
+| Hotărârea Guvernului nr. 1072/2005 privind numirea unui consul general | [`hg/2005/1072/`](hg/2005/1072/) | in force | 1 | 2005-09-19 | 2005-09-19 |
+| Hotărârea Guvernului nr. 1073/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Dâmboviţa | [`hg/2005/1073/`](hg/2005/1073/) | in force | 1 | 2005-09-19 | 2005-09-19 |
+| Hotărârea Guvernului nr. 1074/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Hunedoara | [`hg/2005/1074/`](hg/2005/1074/) | in force | 1 | 2005-09-19 | 2005-09-19 |
+| Hotărârea Guvernului nr. 1075/2005 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.433/2004 privind aprobarea structurii organizatorice, a numărului maxim de posturi şi a Regulamentului de organizare şi funcţionare ale Oficiului Român pentru Adopţii | [`hg/2005/1075/`](hg/2005/1075/) | amending act | 1 | 2006-01-01 | 2006-01-01 |
+| Hotărârea Guvernului nr. 1076/2005 privind asistenţa acordată de statul român, cu titlu gratuit, pentru Afganistan, în vederea formării de specialişti în domenii de interes pentru acest stat | [`hg/2005/1076/`](hg/2005/1076/) | in force | 1 | 2005-09-21 | 2005-09-21 |
+| Hotărârea Guvernului nr. 1077/2005 pentru modificarea anexei la Hotărârea Guvernului nr. 368/2005 privind aprobarea Programului Cercetare de Excelenţă - CEEX | [`hg/2005/1077/`](hg/2005/1077/) | amending act | 1 | 2005-09-21 | 2005-09-21 |
+| Hotărârea Guvernului nr. 1078/2005 privind suportul financiar acordat participanţilor români la Programul "LIFE - Natura" al Comunităţii Europene pentru anii 2005-2007 | [`hg/2005/1078/`](hg/2005/1078/) | in force | 1 | 2005-09-21 | 2005-09-21 |
+| Hotărârea Guvernului nr. 1079/2005 privind modificarea art. 4 din Hotărârea Guvernului nr. 373/2004 pentru aprobarea schimbării denumirii amplasamentului obiectivului de investiţii abandonat, situat în municipiul Bucureşti, Bd. Unirii, sectorul 3, din "Centrul de Creaţie şi Cultură - Cântarea României" în "Esplanada" şi aprobarea programului prioritar de reconversie funcţională a acestuia şi de finalizare a construcţiilor existente | [`hg/2005/1079/`](hg/2005/1079/) | amending act | 1 | 2005-09-21 | 2005-09-21 |
+| Hotărârea Guvernului nr. 1080/2005 privind suplimentarea bugetului Ministerului Transporturilor, Construcţiilor şi Turismului din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru finanţarea consultanţei juridice şi financiare aferente proiectului de parteneriat public-privat "Esplanada", precum şi pentru cofinanţarea asistenţei tehnice asigurată de grantul olandez administrat de Ministerul Finanţelor Publice | [`hg/2005/1080/`](hg/2005/1080/) | in force | 1 | 2005-09-21 | 2005-09-21 |
+| Hotărârea Guvernului nr. 1081/2005 privind trecerea unei construcţii aflate în administrarea Ministerului Administraţiei şi Internelor din domeniul public al statului în domeniul privat al acestuia | [`hg/2005/1081/`](hg/2005/1081/) | in force | 1 | 2005-09-21 | 2005-09-21 |
+| Hotărârea Guvernului nr. 1082/2005 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Administraţiei şi Internelor în domeniul public al municipiului Vatra Dornei şi în administrarea Consiliului Local al Municipiului Vatra Dornei, judeţul Suceava | [`hg/2005/1082/`](hg/2005/1082/) | in force | 1 | 2005-09-21 | 2005-09-21 |
+| Hotărârea Guvernului nr. 1083/2005 privind transmiterea unui teren aflat în domeniul public al statului din administrarea Ministerului Transporturilor, Construcţiilor şi Turismului în administrarea Autorităţii Naţionale Sanitare Veterinare şi pentru Siguranţa Alimentelor | [`hg/2005/1083/`](hg/2005/1083/) | in force | 1 | 2005-09-23 | 2005-09-23 |
+| Hotărârea Guvernului nr. 1084/2005 privind transmiterea unei părţi dintr-un imobil, proprietate publică a statului, din administrarea Ministerului Apărării Naţionale în administrarea Ministerului Public, pentru Parchetul de pe lângă Înalta Curte de Casaţie şi Justiţie | [`hg/2005/1084/`](hg/2005/1084/) | in force | 1 | 2005-09-22 | 2005-09-22 |
 | Hotărârea Guvernului nr. 1085/2005 pentru modificarea Hotărârii Guvernului nr. 182/2004 privind aprobarea indicatorilor tehnico-economici ai unor obiective de investiţii din cadrul programului "38.000 de locuinţe pentru tineri, destinate închirierii", derulate prin intermediul Agenţiei Naţionale pentru Locuinţe | [`hg/2005/1085/`](hg/2005/1085/) | amending act | 1 | 2005-11-21 | 2005-11-21 |
+| Hotărârea Guvernului nr. 1087/2005 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii cuprins în programul ISPA "Reabilitarea şi modernizarea sistemelor de alimentare cu apă, canalizare şi epurare a apelor uzate, municipiul Botoşani, judeţul Botoşani" | [`hg/2005/1087/`](hg/2005/1087/) | amending act | 1 | 2005-11-02 | 2005-11-02 |
+| Hotărârea Guvernului nr. 1088/2005 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Reabilitare şi modernizarea serviciilor de apă şi canalizare în municipiul Baia Mare", cuprins în Programul ISPA | [`hg/2005/1088/`](hg/2005/1088/) | amending act | 1 | 2005-12-12 | 2005-12-12 |
+| Hotărârea Guvernului nr. 1089/2005 pentru aprobarea rectificării bugetului de venituri şi cheltuieli pe anul 2005 al Companiei Române de Aviaţie "Romavia" - R.A., aflată în coordonarea Ministerului Apărării Naţionale | [`hg/2005/1089/`](hg/2005/1089/) | amending act | 1 | 2005-09-22 | 2005-09-22 |
+| Hotărârea Guvernului nr. 1090/2005 privind stabilirea datei alegerilor locale parţiale pentru alegerea consilierilor locali, respectiv a primarilor, în unele circumscripţii electorale | [`hg/2005/1090/`](hg/2005/1090/) | in force | 1 | 2005-09-23 | 2005-09-23 |
+| Hotărârea Guvernului nr. 1092/2005 pentru aprobarea Înţelegerii dintre Ministerul Administraţiei şi Internelor din România şi Ministerul Federal de Interne din Republica Federală Germania privind detaşarea a doi experţi germani la Ministerul Administraţiei şi Internelor din România, semnată la Berlin la 11 iulie 2005 şi la Bucureşti la 19 iulie 2005 | [`hg/2005/1092/`](hg/2005/1092/) | amending act | 1 | 2005-09-30 | 2005-09-30 |
 | Hotărârea Guvernului nr. 1097/2005 privind aprobarea renunţării la cetăţenia română unor persoane | [`hg/2005/1097/`](hg/2005/1097/) | amending act | 1 | 2005-09-28 | 2005-09-28 |
 | Hotărârea Guvernului nr. 1098/2005 pentru completarea art. 6 din Hotărârea Guvernului nr. 1.149/2003 privind participarea României la Expoziţia Mondială EXPO 2005 "Înţelepciunea Naturii" Aichi, Japonia | [`hg/2005/1098/`](hg/2005/1098/) | amending act | 1 | 2005-09-26 | 2005-09-26 |
 | Hotărârea Guvernului nr. 1100/2005 pentru modificarea şi completarea unor anexe la Hotărârea Guvernului nr. 1.362/2001 privind atestarea domeniului public al judeţului Vâlcea, precum şi al municipiilor, oraşelor şi comunelor din judeţul Vâlcea | [`hg/2005/1100/`](hg/2005/1100/) | amending act | 1 | 2005-10-31 | 2005-10-31 |
