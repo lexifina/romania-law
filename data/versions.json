@@ -115100,6 +115100,21 @@
    ]
   },
   {
+   "slug": "hg-1059-2001",
+   "path": "hg/2001/1059",
+   "short": "HG nr. 1059/2001",
+   "title": "Hotărârea Guvernului nr. 1059/2001 privind numirea persoanelor care exercită controlul financiar preventiv propriu la Agenţia SAPARD",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31927",
+   "versions": [
+    {
+     "from": "2001-10-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31927",
+     "sha256": "6f122026d879e5f637647a0dd72c169b1e19e2bc5431d0b8babb455c68da67ad"
+    }
+   ]
+  },
+  {
    "slug": "hg-1059-2002",
    "path": "hg/2002/1059",
    "short": "HG nr. 1059/2002",
@@ -115576,6 +115591,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295021",
      "sha256": "5ab7d485ef5c1cccb9887bfe606ed053333863fd037e3e9da0503ea79f890ee1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1060-2001",
+   "path": "hg/2001/1060",
+   "short": "HG nr. 1060/2001",
+   "title": "Hotărârea Guvernului nr. 1060/2001 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului pe anul 2001 pentru modernizarea Patinoarului artificial \"Vakar Lajos\" din municipiul Miercurea-Ciuc, judeţul Harghita",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31921",
+   "versions": [
+    {
+     "from": "2001-10-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31921",
+     "sha256": "f171ce16a3be3997f2ecbf537675c90398927522851f60bfa78dd0e720e7b76b"
     }
    ]
   },
@@ -625309,6 +625339,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24323",
      "sha256": "c05bd9e9dd3b348eddcab0d2ed0ebe2ca055f3e1df38563b892695d1f1ab355a"
+    }
+   ]
+  },
+  {
+   "slug": "oug-139-2001",
+   "path": "oug/2001/139",
+   "short": "OUG nr. 139/2001",
+   "title": "Ordonanța de urgență a Guvernului nr. 139/2001 privind compensarea unor obligaţii ale unor agenţi economici din domeniul transporturilor feroviare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31926",
+   "versions": [
+    {
+     "from": "2001-10-31",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31926",
+     "sha256": "f0665ac3ebceb3c2ea7bbe3f7f050c27b3a85fadb2c739e0a3d0b9436f52660d"
     }
    ]
   },

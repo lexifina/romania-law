@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38500 acts, 52,253 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38503 acts, 52,256 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -8135,7 +8135,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (2869, of which 661 amending acts)
+## Emergency ordinances (OUG) (2870, of which 661 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8504,6 +8504,7 @@
 | Ordonanța de urgență a Guvernului nr. 126/2001 privind stingerea obligaţiilor bugetare ale agenţilor economici din sectorul producţiei de apărare, din patrimoniul cărora se constituie parcuri industriale | [`oug/2001/126/`](oug/2001/126/) | amended, not consolidated | 1 | 2001-10-19 | 2001-10-19 |
 | Ordonanța de urgență a Guvernului nr. 137/2001 pentru modificarea şi completarea Legii bancare nr. 58/1998 | [`oug/2001/137/`](oug/2001/137/) | amended, not consolidated | 1 | 2001-10-24 | 2001-10-24 |
 | Ordonanța de urgență a Guvernului nr. 138/2001 pentru modificarea şi completarea Legii nr. 83/1998 privind procedura falimentului băncilor | [`oug/2001/138/`](oug/2001/138/) | amended, not consolidated | 1 | 2001-11-23 | 2001-11-23 |
+| Ordonanța de urgență a Guvernului nr. 139/2001 privind compensarea unor obligaţii ale unor agenţi economici din domeniul transporturilor feroviare | [`oug/2001/139/`](oug/2001/139/) | in force | 1 | 2001-10-31 | 2001-10-31 |
 | Ordonanța de urgență a Guvernului nr. 141/2001 | [`oug/2001/141/`](oug/2001/141/) | in force | 2 | 2001-10-31 | 2003-10-08 |
 | Ordonanța de urgență a Guvernului nr. 143/2001 pentru aprobarea amendamentelor la Acordul-cadru de împrumut dintre România şi Fondul de Dezvoltare Socială al Consiliului Europei pentru sprijinirea regiunilor afectate de inundaţiile din ultima perioadă, semnat la Paris la 19 ianuarie 1999, convenite prin Scrisoarea Suplimentară între România, prin Ministerul Finanţelor Publice, şi Banca de Dezvoltare a Consiliului Europei, semnată la Paris la 19 iunie 2001 şi la Bucureşti la 23 iulie 2001, şi pentru modificarea Ordonanţei Guvernului nr. 28/1999 de ratificare a Acordului-cadru de împrumut dintre România şi Fondul de Dezvoltare Socială al Consiliului Europei pentru sprijinirea regiunilor afectate de inundaţiile din ultima perioadă, semnat la Paris la 19 ianuarie 1999 | [`oug/2001/143/`](oug/2001/143/) | amended, not consolidated | 1 | 2001-11-14 | 2001-11-14 |
 | Ordonanța de urgență a Guvernului nr. 144/2001 | [`oug/2001/144/`](oug/2001/144/) | in force | 7 | 2001-12-01 | 2006-04-14 |
@@ -11996,7 +11997,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26470, of which 12377 amending acts)
+## Government decisions (HG) (26472, of which 12377 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13104,6 +13105,8 @@
 | Hotărârea Guvernului nr. 1048/2001 pentru aprobarea programului "Constituirea Fondului naţional de garantare a creditelor pentru întreprinderile mici şi mijlocii" finanţat din bugetul Ministerului pentru Întreprinderile Mici şi Mijlocii şi Cooperaţie pe anul 2001 | [`hg/2001/1048/`](hg/2001/1048/) | amended, not consolidated | 1 | 2001-10-29 | 2001-10-29 |
 | Hotărârea Guvernului nr. 1052/2001 privind aprobarea volumului maxim de masa lemnoasă care se va recolta în anul 2002 | [`hg/2001/1052/`](hg/2001/1052/) | amended, not consolidated | 1 | 2001-10-30 | 2001-10-30 |
 | Hotărârea Guvernului nr. 1055/2001 privind condiţiile de introducere pe piaţa a mijloacelor de măsurare | [`hg/2001/1055/`](hg/2001/1055/) | amended, not consolidated | 1 | 2002-11-05 | 2002-11-05 |
+| Hotărârea Guvernului nr. 1059/2001 privind numirea persoanelor care exercită controlul financiar preventiv propriu la Agenţia SAPARD | [`hg/2001/1059/`](hg/2001/1059/) | in force | 1 | 2001-10-31 | 2001-10-31 |
+| Hotărârea Guvernului nr. 1060/2001 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului pe anul 2001 pentru modernizarea Patinoarului artificial "Vakar Lajos" din municipiul Miercurea-Ciuc, judeţul Harghita | [`hg/2001/1060/`](hg/2001/1060/) | in force | 1 | 2001-10-31 | 2001-10-31 |
 | Hotărârea Guvernului nr. 1061/2001 pentru modificarea art. 4 din Hotărârea Guvernului nr. 691/2001 privind înfiinţarea Muzeului Naţional de Arta Contemporana al României | [`hg/2001/1061/`](hg/2001/1061/) | amending act | 1 | 2001-10-31 | 2001-10-31 |
 | Hotărârea Guvernului nr. 1062/2001 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului pe anul 2001 pentru continuarea lucrărilor la Aşezământul românesc din Ierihon, Israel | [`hg/2001/1062/`](hg/2001/1062/) | in force | 1 | 2001-10-31 | 2001-10-31 |
 | Hotărârea Guvernului nr. 1065/2001 privind aprobarea Programului naţional de prevenire a corupţiei şi a Planului naţional de acţiune împotriva corupţiei | [`hg/2001/1065/`](hg/2001/1065/) | amending act | 1 | 2001-11-15 | 2001-11-15 |
