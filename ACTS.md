@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38560 acts, 52,313 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38572 acts, 52,325 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8128, of which 2950 amending acts)
+## Laws (legi) (8129, of which 2951 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1087,6 +1087,7 @@
 | Legea nr. 557/2001 privind respingerea Ordonanţei Guvernului nr. 6/1998 pentru modificarea şi completarea Legii nr. 32/1991 privind impozitul pe salarii | [`lege/2001/557/`](lege/2001/557/) | amending act | 1 | 2001-10-30 | 2001-10-30 |
 | Legea nr. 558/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 125/1999 privind modificarea Ordonanţei de urgenţă a Guvernului nr. 93/1999 pentru aprobarea finanţării repatrierii personalului navigant debarcat sau aflat la bordul unor nave maritime de transport, achitarea drepturilor restante şi pentru menţinerea în siguranţă a navelor aflate în conservare din patrimoniul companiilor de navigaţie maritime "Navrom" - S.A. Constanţa şi "Romline" - S.A. Constanţa | [`lege/2001/558/`](lege/2001/558/) | amending act | 1 | 2001-10-30 | 2001-10-30 |
 | Legea nr. 559/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 93/1999 pentru aprobarea finanţării repatrierii personalului navigant debarcat sau aflat la bordul unor nave maritime de transport, achitarea drepturilor restante şi pentru menţinerea în siguranţă a navelor aflate în conservare din patrimoniul companiilor de navigaţie maritime "Navrom"-S.A. Constanţa şi "Romline" - S.A. Constanţa | [`lege/2001/559/`](lege/2001/559/) | amending act | 1 | 2001-10-30 | 2001-10-30 |
+| Legea nr. 560/2001 privind aprobarea Ordonanţei Guvernului nr. 94/1998 pentru modificarea anexelor nr. 1 şi 2 la Legea telecomunicaţiilor nr. 74/1996 | [`lege/2001/560/`](lege/2001/560/) | amending act | 1 | 2001-10-30 | 2001-10-30 |
 | Legea nr. 561/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 43/2001 pentru modificarea Ordonanţei Guvernului nr. 11/1996 privind executarea creanţelor bugetare | [`lege/2001/561/`](lege/2001/561/) | amended, not consolidated | 1 | 2001-10-30 | 2001-10-30 |
 | Legea nr. 562/2001 privind completarea art. 2 din Decretul nr. 343/1970 pentru aderarea Republicii Socialiste România la Convenţia cu privire la privilegiile şi imunităţile instituţiilor specializate, aprobată de Adunarea generală a Organizaţiei Naţiunilor Unite la 21 noiembrie 1947 | [`lege/2001/562/`](lege/2001/562/) | amending act | 1 | 2001-10-30 | 2001-10-30 |
 | Legea nr. 563/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 173/2000 pentru modificarea Decretului-lege nr. 118/1990 privind acordarea unor drepturi persoanelor persecutate din motive politice de dictatura instaurată cu începere de la 6 martie 1945, precum şi celor deportate în străinătate ori constituite în prizonieri | [`lege/2001/563/`](lege/2001/563/) | amended, not consolidated | 1 | 2001-10-30 | 2001-10-30 |
@@ -12029,7 +12030,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26497, of which 12389 amending acts)
+## Government decisions (HG) (26508, of which 12397 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13132,6 +13133,17 @@
 | Hotărârea Guvernului nr. 952/2001 | [`hg/2001/952/`](hg/2001/952/) | in force | 1 | 2001-10-09 | 2001-10-09 |
 | Hotărârea Guvernului nr. 962/2001 | [`hg/2001/962/`](hg/2001/962/) | in force | 3 | 2001-10-04 | 2014-04-08 |
 | Hotărârea Guvernului nr. 974/2001 | [`hg/2001/974/`](hg/2001/974/) | in force | 1 | 2001-10-18 | 2001-10-18 |
+| Hotărârea Guvernului nr. 993/2001 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2001 al Institutului Naţional de Cercetare-Dezvoltare în Turism (I.N.C.D.T.), aflat în coordonarea Ministerului Turismului | [`hg/2001/993/`](hg/2001/993/) | amending act | 1 | 2001-10-15 | 2001-10-15 |
+| Hotărârea Guvernului nr. 994/2001 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2001 al Regiei Autonome "Multiproduct" | [`hg/2001/994/`](hg/2001/994/) | amending act | 1 | 2001-10-15 | 2001-10-15 |
+| Hotărârea Guvernului nr. 995/2001 pentru aprobarea bugetelor de venituri şi cheltuieli pe anul 2001 ale regiilor autonome de interes naţional aflate sub autoritatea Ministerului Apărării Naţionale | [`hg/2001/995/`](hg/2001/995/) | amending act | 1 | 2001-10-15 | 2001-10-15 |
+| Hotărârea Guvernului nr. 996/2001 privind exercitarea de către România a preşedinţiei Comitetului de Coordonare a Procesului Reuniunilor Miniştrilor Apărării din Europa de Sud-Est şi a Comitetului Director Politico-Militar al Forţei Multinaţionale de Pace din Europa de Sud-Est | [`hg/2001/996/`](hg/2001/996/) | in force | 1 | 2001-10-15 | 2001-10-15 |
+| Hotărârea Guvernului nr. 997/2001 pentru aprobarea amendamentului convenit prin schimb de scrisori semnate la Bucureşti la 26 martie 2001 şi la Washington la 26 iulie 2001 între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare referitor la Proiectul privind forţa de muncă şi protecţia socială, semnat la Washington la data de 23 august 1995 | [`hg/2001/997/`](hg/2001/997/) | amending act | 1 | 2001-10-24 | 2001-10-24 |
+| Hotărârea Guvernului nr. 1001/2001 privind schimbarea titularului dreptului de administrare asupra unor terenuri, proprietate publică a statului, situate în municipiul Constanţa, judeţul Constanţa | [`hg/2001/1001/`](hg/2001/1001/) | in force | 1 | 2001-10-16 | 2001-10-16 |
+| Hotărârea Guvernului nr. 1002/2001 privind transmiterea unui imobil situat în municipiul Orăştie, judeţul Hunedoara, din domeniul public al statului şi din administrarea Ministerului Culturii şi Cultelor în domeniul public al municipiului Orăştie şi în administrarea Consiliului Local al Municipiului Orăştie | [`hg/2001/1002/`](hg/2001/1002/) | in force | 1 | 2001-10-16 | 2001-10-16 |
+| Hotărârea Guvernului nr. 1003/2001 pentru aprobarea Strategiei de dezvoltare a sistemului feroviar din România în perioada 2001-2010 | [`hg/2001/1003/`](hg/2001/1003/) | amending act | 1 | 2001-11-06 | 2001-11-06 |
+| Hotărârea Guvernului nr. 1006/2001 pentru aprobarea Strategiei Guvernului privind accelerarea reformei în administraţia publică | [`hg/2001/1006/`](hg/2001/1006/) | amending act | 1 | 2001-10-19 | 2001-10-19 |
+| Hotărârea Guvernului nr. 1007/2001 pentru aprobarea Strategiei Guvernului privind informatizarea administraţiei publice | [`hg/2001/1007/`](hg/2001/1007/) | amending act | 1 | 2001-11-06 | 2001-11-06 |
+| Hotărârea Guvernului nr. 1009/2001 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Extinderea şi reabilitarea reţelei de canalizare din municipiul Craiova", cuprins în programul ISPA "Reabilitarea reţelei de canalizare şi furnizarea de facilităţi pentru epurarea apelor uzate în municipiul Craiova, în vederea protecţiei fluviului Dunărea" | [`hg/2001/1009/`](hg/2001/1009/) | amending act | 1 | 2001-10-12 | 2001-10-12 |
 | Hotărârea Guvernului nr. 1011/2001 privind organizarea şi funcţionarea învăţământului la distanta şi a învăţământului cu frecventa redusă în instituţiile de învăţământ superior | [`hg/2001/1011/`](hg/2001/1011/) | in force | 1 | 2001-10-26 | 2001-10-26 |
 | Hotărârea Guvernului nr. 1014/2001 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Justiţiei în domeniul public al comunei Parincea, judeţul Bacău, şi în administrarea Consiliului Local al Comunei Parincea | [`hg/2001/1014/`](hg/2001/1014/) | in force | 1 | 2001-10-12 | 2001-10-12 |
 | Hotărârea Guvernului nr. 1021/2001 privind transmiterea fără plata a unui imobil din domeniul privat al statului şi din administrarea Autorităţii pentru Valorificarea Activelor Bancare în domeniul public al statului şi în administrarea Autorităţii pentru Privatizare şi Administrarea Participaţiilor Statului | [`hg/2001/1021/`](hg/2001/1021/) | in force | 1 | 2001-10-19 | 2001-10-19 |
