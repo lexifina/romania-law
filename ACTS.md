@@ -1,6 +1,6 @@
 # Every act in this repository
 
-24807 acts, 38,441 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+24820 acts, 38,454 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6031,7 +6031,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (18785, of which 9589 amending acts)
+## Government decisions (HG) (18798, of which 9589 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6628,6 +6628,19 @@
 | Hotărârea Guvernului nr. 1514/2005 | [`hg/2005/1514/`](hg/2005/1514/) | in force | 1 | 2005-12-09 | 2005-12-09 |
 | Hotărârea Guvernului nr. 1579/2005 | [`hg/2005/1579/`](hg/2005/1579/) | in force | 1 | 2006-02-09 | 2006-02-09 |
 | Hotărârea Guvernului nr. 1581/2005 | [`hg/2005/1581/`](hg/2005/1581/) | in force | 1 | 2006-01-11 | 2006-01-11 |
+| Hotărârea Guvernului nr. 1593/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Bacău | [`hg/2005/1593/`](hg/2005/1593/) | in force | 1 | 2005-12-15 | 2005-12-15 |
+| Hotărârea Guvernului nr. 1594/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Botoşani | [`hg/2005/1594/`](hg/2005/1594/) | in force | 1 | 2005-12-15 | 2005-12-15 |
+| Hotărârea Guvernului nr. 1595/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Botoşani | [`hg/2005/1595/`](hg/2005/1595/) | in force | 1 | 2005-12-15 | 2005-12-15 |
+| Hotărârea Guvernului nr. 1596/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Botoşani | [`hg/2005/1596/`](hg/2005/1596/) | in force | 1 | 2005-12-15 | 2005-12-15 |
+| Hotărârea Guvernului nr. 1597/2005 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru înlăturarea efectelor calamităţilor naturale produse în judeţul Botoşani | [`hg/2005/1597/`](hg/2005/1597/) | in force | 1 | 2005-12-15 | 2005-12-15 |
+| Hotărârea Guvernului nr. 1598/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru municipiul Bucureşti | [`hg/2005/1598/`](hg/2005/1598/) | in force | 1 | 2005-12-15 | 2005-12-15 |
+| Hotărârea Guvernului nr. 1599/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru municipiul Bucureşti | [`hg/2005/1599/`](hg/2005/1599/) | in force | 1 | 2005-12-15 | 2005-12-15 |
+| Hotărârea Guvernului nr. 1600/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Bistriţa-Năsăud | [`hg/2005/1600/`](hg/2005/1600/) | in force | 1 | 2005-12-15 | 2005-12-15 |
+| Hotărârea Guvernului nr. 1601/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Brăila | [`hg/2005/1601/`](hg/2005/1601/) | in force | 1 | 2005-12-15 | 2005-12-15 |
+| Hotărârea Guvernului nr. 1602/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Buzău | [`hg/2005/1602/`](hg/2005/1602/) | in force | 1 | 2005-12-15 | 2005-12-15 |
+| Hotărârea Guvernului nr. 1603/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Bihor | [`hg/2005/1603/`](hg/2005/1603/) | in force | 1 | 2005-12-15 | 2005-12-15 |
+| Hotărârea Guvernului nr. 1604/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Constanţa | [`hg/2005/1604/`](hg/2005/1604/) | in force | 1 | 2005-12-15 | 2005-12-15 |
+| Hotărârea Guvernului nr. 1605/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Constanţa | [`hg/2005/1605/`](hg/2005/1605/) | in force | 1 | 2005-12-15 | 2005-12-15 |
 | Hotărârea Guvernului nr. 1606/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Constanţa | [`hg/2005/1606/`](hg/2005/1606/) | in force | 1 | 2005-12-15 | 2005-12-15 |
 | Hotărârea Guvernului nr. 1607/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Cluj | [`hg/2005/1607/`](hg/2005/1607/) | in force | 1 | 2005-12-15 | 2005-12-15 |
 | Hotărârea Guvernului nr. 1608/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Cluj | [`hg/2005/1608/`](hg/2005/1608/) | in force | 1 | 2005-12-15 | 2005-12-15 |
