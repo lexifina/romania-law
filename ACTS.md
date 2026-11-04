@@ -1,6 +1,6 @@
 # Every act in this repository
 
-43297 acts, 57,051 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); an order adds its issuer, `ordin/<issuer>/<year>/<number>[-<series>]/` (`ordin/justitie/2012/492-c/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+43305 acts, 57,059 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); an order adds its issuer, `ordin/<issuer>/<year>/<number>[-<series>]/` (`ordin/justitie/2012/492-c/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -12218,7 +12218,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26923, of which 12560 amending acts)
+## Government decisions (HG) (26931, of which 12561 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13224,8 +13224,16 @@
 | Hotărârea Guvernului nr. 173/2001 privind reorganizarea Regiei Naţionale a Pădurilor | [`hg/2001/173/`](hg/2001/173/) | amended, not consolidated | 1 | 2001-01-29 | 2001-01-29 |
 | Hotărârea Guvernului nr. 189/2001 privind unele măsuri referitoare la efectuarea deplasărilor în străinătate, în interes de serviciu, de către demnitarii şi asimilaţii acestora din administraţia publică | [`hg/2001/189/`](hg/2001/189/) | amended, not consolidated | 1 | 2001-01-30 | 2001-01-30 |
 | Hotărârea Guvernului nr. 214/2001 privind transmiterea unor imobile, situate în municipiul Bucureşti, din administrarea Regiei Autonome "Locato" în administrarea Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat" | [`hg/2001/214/`](hg/2001/214/) | amended, not consolidated | 1 | 2001-02-05 | 2001-02-05 |
+| Hotărârea Guvernului nr. 225/2001 privind instituirea procedurilor speciale de supraveghere financiară a Societăţii Comerciale "Siderca" - S.A. Călăraşi, societate comercială cu capital majoritar de stat | [`hg/2001/225/`](hg/2001/225/) | in force | 1 | 2001-02-13 | 2001-02-13 |
 | Hotărârea Guvernului nr. 226/2001 privind numirea reprezentanţilor Guvernului în Consiliul Economic şi Social | [`hg/2001/226/`](hg/2001/226/) | amended, not consolidated | 1 | 2001-02-13 | 2001-02-13 |
+| Hotărârea Guvernului nr. 227/2001 privind numirea în funcţia de subprefect al judeţului Botoşani | [`hg/2001/227/`](hg/2001/227/) | in force | 1 | 2001-02-14 | 2001-02-14 |
+| Hotărârea Guvernului nr. 228/2001 privind numirea în funcţia de subprefect al judeţului Dolj | [`hg/2001/228/`](hg/2001/228/) | in force | 1 | 2001-02-14 | 2001-02-14 |
+| Hotărârea Guvernului nr. 229/2001 privind numirea în funcţia de subprefect al judeţului Mehedinţi | [`hg/2001/229/`](hg/2001/229/) | in force | 1 | 2001-02-14 | 2001-02-14 |
+| Hotărârea Guvernului nr. 230/2001 privind numirea în funcţia de subprefect al judeţului Vaslui | [`hg/2001/230/`](hg/2001/230/) | in force | 1 | 2001-02-14 | 2001-02-14 |
 | Hotărârea Guvernului nr. 231/2001 privind modificarea Hotărârii Guvernului nr. 1.166/2000 pentru stabilirea salariului de baza minim brut pe ţara | [`hg/2001/231/`](hg/2001/231/) | amended, not consolidated | 1 | 2001-02-19 | 2001-02-19 |
+| Hotărârea Guvernului nr. 232/2001 privind acordarea unor ajutoare de urgenta | [`hg/2001/232/`](hg/2001/232/) | in force | 1 | 2001-02-20 | 2001-02-20 |
+| Hotărârea Guvernului nr. 234/2001 pentru modificarea anexei la Hotărârea Guvernului nr. 379/1998 privind constituirea Comisiei centrale pentru aplicarea dispoziţiilor Legii nr. 9/1998 privind acordarea de compensaţii cetăţenilor români pentru bunurile trecute în proprietatea statului bulgar în urma aplicării Tratatului dintre România şi Bulgaria, semnat la Craiova la 7 septembrie 1940 | [`hg/2001/234/`](hg/2001/234/) | amending act | 1 | 2001-02-20 | 2001-02-20 |
+| Hotărârea Guvernului nr. 236/2001 privind numirea în funcţia de subprefect al municipiului Bucureşti | [`hg/2001/236/`](hg/2001/236/) | in force | 1 | 2001-02-19 | 2001-02-19 |
 | Hotărârea Guvernului nr. 237/2001 | [`hg/2001/237/`](hg/2001/237/) | in force | 3 | 2001-03-24 | 2008-09-12 |
 | Hotărârea Guvernului nr. 238/2001 | [`hg/2001/238/`](hg/2001/238/) | in force | 3 | 2001-03-23 | 2010-05-15 |
 | Hotărârea Guvernului nr. 242/2001 privind unele măsuri de redresare financiară la Societatea Naţională "Tutunul Românesc" - S.A | [`hg/2001/242/`](hg/2001/242/) | amended, not consolidated | 1 | 2001-02-20 | 2001-02-20 |

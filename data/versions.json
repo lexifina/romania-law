@@ -309338,6 +309338,21 @@
    ]
   },
   {
+   "slug": "hg-225-2001",
+   "path": "hg/2001/225",
+   "short": "HG nr. 225/2001",
+   "title": "Hotărârea Guvernului nr. 225/2001 privind instituirea procedurilor speciale de supraveghere financiară a Societăţii Comerciale \"Siderca\" - S.A. Călăraşi, societate comercială cu capital majoritar de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26648",
+   "versions": [
+    {
+     "from": "2001-02-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26648",
+     "sha256": "eca03c24663b12d39073c2d6db79e0e2207fee24846384fb0de07d538b2200ea"
+    }
+   ]
+  },
+  {
    "slug": "hg-225-2003",
    "path": "hg/2003/225",
    "short": "HG nr. 225/2003",
@@ -310085,6 +310100,21 @@
    ]
   },
   {
+   "slug": "hg-227-2001",
+   "path": "hg/2001/227",
+   "short": "HG nr. 227/2001",
+   "title": "Hotărârea Guvernului nr. 227/2001 privind numirea în funcţia de subprefect al judeţului Botoşani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26682",
+   "versions": [
+    {
+     "from": "2001-02-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26682",
+     "sha256": "579db9b6546952362a21005e27164465fcf9accf41715682d583bfa1aa0a99af"
+    }
+   ]
+  },
+  {
    "slug": "hg-227-2004",
    "path": "hg/2004/227",
    "short": "HG nr. 227/2004",
@@ -310336,6 +310366,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58057",
      "sha256": "aa94252dedcf9be1c22641b9f836ace793d53bec9d0c555d9aeb65e407154a60"
+    }
+   ]
+  },
+  {
+   "slug": "hg-228-2001",
+   "path": "hg/2001/228",
+   "short": "HG nr. 228/2001",
+   "title": "Hotărârea Guvernului nr. 228/2001 privind numirea în funcţia de subprefect al judeţului Dolj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26683",
+   "versions": [
+    {
+     "from": "2001-02-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26683",
+     "sha256": "a475789d9cc9af736b057ba6fc1d1f06495f6a99e58764ba1ca0b9b5da8db97f"
     }
    ]
   },
@@ -310741,6 +310786,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21737",
      "sha256": "d55cf5bb0d81b75cfa198e87a90733c4d6b3ad8154f50352206b0764119784c6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-229-2001",
+   "path": "hg/2001/229",
+   "short": "HG nr. 229/2001",
+   "title": "Hotărârea Guvernului nr. 229/2001 privind numirea în funcţia de subprefect al judeţului Mehedinţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26684",
+   "versions": [
+    {
+     "from": "2001-02-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26684",
+     "sha256": "1df04fa60739bf0f0176515a179fdc260694e142aeda3b7b405c5740914e8fda"
     }
    ]
   },
@@ -311239,6 +311299,21 @@
      "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294016",
      "sha256": "514546627de88049e73452a4c9c574ebd53fc3ac3bcb7325bbe0973280bfae7a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-230-2001",
+   "path": "hg/2001/230",
+   "short": "HG nr. 230/2001",
+   "title": "Hotărârea Guvernului nr. 230/2001 privind numirea în funcţia de subprefect al judeţului Vaslui",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26685",
+   "versions": [
+    {
+     "from": "2001-02-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26685",
+     "sha256": "9343cb2d58415e62aa3cbe2b6966eb92632cd5fec1dd5eb15db1d5ce393d2db5"
     }
    ]
   },
@@ -311899,6 +311974,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57848",
      "sha256": "d7157016d0018e5b41cf9dae50124f58fcffdd1263970b5c1a1f1d45c9c534e8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-232-2001",
+   "path": "hg/2001/232",
+   "short": "HG nr. 232/2001",
+   "title": "Hotărârea Guvernului nr. 232/2001 privind acordarea unor ajutoare de urgenta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26782",
+   "versions": [
+    {
+     "from": "2001-02-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26782",
+     "sha256": "02be96d649f91a87c617f007b8c931a2fd981d5b5736485e0530fa7434bc67ec"
     }
    ]
   },
@@ -312655,6 +312745,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58277",
      "sha256": "16313107b4d7cc59bf5183ff08914885cd9cf0b95257213082a384c62677e50c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-234-2001",
+   "path": "hg/2001/234",
+   "short": "HG nr. 234/2001",
+   "title": "Hotărârea Guvernului nr. 234/2001 pentru modificarea anexei la Hotărârea Guvernului nr. 379/1998 privind constituirea Comisiei centrale pentru aplicarea dispoziţiilor Legii nr. 9/1998 privind acordarea de compensaţii cetăţenilor români pentru bunurile trecute în proprietatea statului bulgar în urma aplicării Tratatului dintre România şi Bulgaria, semnat la Craiova la 7 septembrie 1940",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26757",
+   "versions": [
+    {
+     "from": "2001-02-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26757",
+     "sha256": "7ff43c0b2565a741cfb8d40137350f3488de386b8a37565014ad4ad807bc282c"
     }
    ]
   },
@@ -313450,6 +313555,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12176",
      "sha256": "209a7ca5ac63a7547dcd41f688c933aa5a95883158ce414dd2d86ab6a9143e3a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-236-2001",
+   "path": "hg/2001/236",
+   "short": "HG nr. 236/2001",
+   "title": "Hotărârea Guvernului nr. 236/2001 privind numirea în funcţia de subprefect al municipiului Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26735",
+   "versions": [
+    {
+     "from": "2001-02-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26735",
+     "sha256": "fa5aaa119ded4e3560b77280ee24d4cadfba9b58f560bc0cee323fb88b5f7f75"
     }
    ]
   },
