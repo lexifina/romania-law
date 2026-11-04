@@ -1,0 +1,2 @@
+# Anexa: Articolul 209
+În cadrul serviciilor Camerei Deputaților funcționează Departamentul tehnic-legislativ, format din specialiști în domeniul juridic, angajați sau, după caz, remunerați cu o indemnizație fixa lunară. Departamentul tehnic-legislativ asigura asistența tehnica necesară pentru redactarea proiectelor și propunerilor legislative, cu respectarea normelor de tehnica legislativă, precum și evidenta legislației.

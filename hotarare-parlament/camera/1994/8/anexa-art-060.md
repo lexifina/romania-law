@@ -1,0 +1,2 @@
+# Anexa: Articolul 60
+Dacă o comisie permanenta considera ca un proiect de lege sau o propunere legislativă este de competența în fond a altei comisii, ea poate cere Biroului permanent, în termen de cel mult 10 zile de la anunțarea în plen a proiectului de lege sau a propunerii legislative, trimiterea lor către acea comisie. În caz de refuz din partea acestuia, se va proceda potrivit art. 59 alin. 2. La fel se va proceda și în caz de conflict de competența între comisii.

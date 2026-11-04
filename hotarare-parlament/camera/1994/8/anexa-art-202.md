@@ -1,0 +1,2 @@
+# Anexa: Articolul 202
+În cazul unor abateri grave, săvârșite de deputat în mod repetat, sau al unor abateri deosebit de grave, Camera poate aplica sancțiunea interzicerii participării deputatului la lucrările ei pe o perioadă de maximum 15 zile sau poate hotărî, la propunerea președintelui, excluderea temporară a deputatului în culpa. Gravitatea abaterilor va fi stabilită de Comisia juridică, de disciplina și imunități, în cel mult 4 zile.

@@ -1,0 +1,2 @@
+# Anexa: Articolul 80
+Proiectul ordinii de zi poate cuprinde proiecte de legi, propuneri legislative, proiecte de hotărâri, precum și, după caz, întrebări, interpelări, petiții sau alte probleme propuse de Guvern, Biroul permanent ori deputați. Proiectele de legi și propunerile legislative avizate de comisii se înscriu în proiectul ordinii de zi în cel mult 10 zile de la primirea raportului comisiei sesizate în fond.

@@ -1,0 +1,2 @@
+# Anexa: Articolul 73
+Comisia de mediere se reuneste la sediul uneia dintre Camere la convocarea președintelui comisiei sesizate în fond de la Camera care a adoptat ultima proiectul și stabilește regulile după care își va desfășura activitatea, inclusiv termenul în care urmează să prezinte raportul. Conducerea lucrărilor se realizează prin rotație de către un deputat sau un senator, stabilit de comisie.

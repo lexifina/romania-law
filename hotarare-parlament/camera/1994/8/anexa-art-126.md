@@ -1,0 +1,2 @@
+# Anexa: Articolul 126
+Camera Deputaților își desfășoară activitatea, în plen, în comisii și în grupurile parlamentare pe parcursul a 4 sau 5 zile consecutive din saptamina, potrivit programului stabilit de ea, la propunerea Biroului permanent. De regula, a 5-a zi din saptamina este rezervată activității în circumscripțiile electorale în care deputații au fost aleși. La propunerea Biroului permanent se vor putea tine ședințe după un alt program.

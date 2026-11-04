@@ -1,0 +1,2 @@
+# Anexa: Articolul 137
+Dezbaterile din ședințele Camerei se înregistrează pe banda magnetica și se stenografiaza. Stenogramele se publică în Monitorul Oficial al României, Partea a II-a, în cel mult 10 zile, cu excepția celor privitoare la ședințele secrete. Deputații au dreptul de a verifica exactitatea stenogramei, prin confruntarea ei cu banda magnetica, în cel mult 3 zile de la data ședinței. Până la apariția Monitorului Oficial, deputații au dreptul de a obține o copie a acesteia.

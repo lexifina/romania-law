@@ -1,0 +1,2 @@
+# Anexa: Articolul 20
+După constituirea legală a Camerei Deputaților se alege președintele Camerei Deputaților și apoi Biroul permanent al acesteia. Președintele Camerei Deputaților este și președintele Biroului permanent, din care mai fac parte 4 vicepreședinți, 4 secretari și 4 chestori. Biroul permanent se alcătuiește prin negocieri între liderii grupurilor parlamentare, respectându-se, pe cît posibil, configurația politica a Camerei, asa cum rezultă din constituirea grupurilor parlamentare.

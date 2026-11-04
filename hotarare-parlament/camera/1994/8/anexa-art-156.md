@@ -1,0 +1,2 @@
+# Anexa: Articolul 156
+Interpelările se fac în scris, aratindu-se obiectul acestora, fără nici o dezvoltare. Interpelarea consta într-o cerere adresată Guvernului de un grup parlamentar, de unul sau mai mulți deputați prin care se solicita explicații asupra politicii Guvernului în probleme importante ale activității sale interne sau externe. Ele se citesc în ședința publică de luni consacrată intrebarilor și interpelarilor, între orele 19,30 - 20,00 , după care se prezintă președintelui Camerei spre a fi transmise primului-ministru.

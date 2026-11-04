@@ -1,0 +1,2 @@
+# Anexa: Articolul 143
+Până la încheierea dezbaterii unei moțiuni, un deputat care a semnat-o nu mai poate semna alte moțiuni în aceeași problema. Moțiunile trebuie să fie motivate și se depun la președintele Camerei, în cursul ședințelor publice. După primirea motiunii, președintele Camerei o comunică de îndată Guvernului și o aduce la cunoștința Camerei, după care dispune afișarea ei la sediul Camerei Deputaților.

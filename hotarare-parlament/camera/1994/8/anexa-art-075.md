@@ -1,0 +1,2 @@
+# Anexa: Articolul 75
+Activitatea comisiei încetează o dată cu depunerea raportului, a cărui aprobare are loc în condițiile art. 74, precum și în cazul în care comisia nu ajunge la un acord asupra raportului în termenul stabilit. În cazul în care comisia de mediere nu ajunge la un acord cu privire la textele aflate în divergenta, în termenul stabilit potrivit art. 73 alin. 1, sau dacă una dintre Camere nu aproba raportul comisiei de mediere, textele aflate în divergenta se supun dezbaterii în ședința comuna a celor două Camere, potrivit regulamentului acestor ședințe.

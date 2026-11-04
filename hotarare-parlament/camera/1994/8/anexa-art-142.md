@@ -1,0 +1,2 @@
+# Anexa: Articolul 142
+Moțiunea exprima poziția Camerei Deputaților într-o anumită problema de politica interna sau externa. Moțiunea poate fi initiata de cel puțin 50 de deputați. Președintele Camerei nu va lua în considerare moțiunile care nu îndeplinesc cerințele prevăzute la alin. 1 și 2 și nici pe cele care vizează finalitati specifice motiunii de cenzura. Inițierea motiunilor de cenzura are loc în condițiile prevăzute de art. 78 din regulamentul ședințelor comune ale Camerei și Senatului.

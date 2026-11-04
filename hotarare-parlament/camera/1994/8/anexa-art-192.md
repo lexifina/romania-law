@@ -1,0 +1,2 @@
+# Anexa: Articolul 192
+În scopul exercitării mandatului în circumscripțiile electorale, deputaților li se aloca, lunar, o sumă forfetara din bugetul Camerei Deputaților, egala cu indemnizația lunară bruta a deputaților. În limitele sumei prevăzute la alin. 1, deputații își pot organiza, separat sau prin asociere, birouri parlamentare în circumscripțiile în care au fost aleși. Consiliile locale și consiliile județene asigura spațiile și dotarea acestora cu mobilierul necesar, în condiții de închiriere.

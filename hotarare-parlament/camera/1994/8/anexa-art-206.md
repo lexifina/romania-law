@@ -1,0 +1,2 @@
+# Anexa: Articolul 206
+Personalul din serviciile Camerei Deputaților este condus de secretarul general al Camerei Deputaților. Secretarul general și secretarul general adjunct sunt numiți și eliberați din funcție de către Camera Deputaților, la propunerea președintelui acesteia. Secretarul general este ordonator principal de credite. În îndeplinirea atribuțiilor sale secretarul general emite ordine.

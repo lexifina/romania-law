@@ -1,0 +1,2 @@
+# Anexa: Articolul 180
+Deputatul care se afla într-una din incompatibilitățile prevăzute la art. 174-179 va demisiona din funcțiile care sunt incompatibile cu mandatul de deputat în termen de 10 zile de la data apariției cazului de incompatibilitate. După expirarea termenului prevăzut la alin. 1, deputatul care continua să se afle într-un caz de incompatibilitate este considerat demisionat din funcția de deputat. Demisia se aduce la cunoștința Camerei Deputaților și se publică în Monitorul Oficial al României, Partea I.

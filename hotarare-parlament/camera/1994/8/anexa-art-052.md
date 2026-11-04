@@ -1,0 +1,2 @@
+# Anexa: Articolul 52
+La începerea dezbaterii unei lucrări aflate pe ordinea de zi, comisia desemnează, la propunerea președintelui, unu sau mai mulți raportori dintre membrii săi. Aceștia vor asigura redactarea raportului sau a avizului comisiei, care va fi supus aprobării acesteia. Rapoartele și avizele vor cuprinde, în mod obligatoriu, pe lângă opinia majorității membrilor comisiei, și părerea contrară motivată, a celorlalți deputați din comisie.

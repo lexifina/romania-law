@@ -1,0 +1,2 @@
+# Anexa: Articolul 64
+Biroul permanent, după consultarea președintelui comisiei sesizate în fond, stabilește un termen înăuntrul căruia comisia trebuie să-și depună raportul; modificarea acestui termen poate fi aprobată numai de Camera. Termenele stabilite de Biroul permanent nu pot fi, de regula, mai mici de 14 zile sau mai mari de 60 de zile. Raportul va fi imprimat și difuzat deputaților cu cel puțin 8 zile înainte de data stabilită pentru dezbaterea proiectului sau propunerii legislative în plenul Camerei.

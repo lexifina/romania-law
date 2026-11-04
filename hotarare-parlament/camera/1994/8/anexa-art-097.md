@@ -1,0 +1,2 @@
+# Anexa: Articolul 97
+La discutarea fiecărui articol deputații pot lua cuvintul pentru a-și exprima punctul de vedere. De asemenea, va putea lua cuvintul și reprezentantul Guvernului sau al inițiatorului. Președintele Camerei poate supune, spre aprobare, sistarea discuțiilor la articolul dezbătut. În cursul luarilor de cuvint, amendamentele privind probleme de redactare sau alte aspecte mai puțin importante pot fi prezentate și oral. Amendamentele trebuie să se refere la conținutul unui singur articol.

@@ -1,0 +1,2 @@
+# Anexa: Articolul 83
+Modificarea ordinii de zi poate avea loc numai în prima zi a saptaminii, la cererea Guvernului, a Biroului permanent sau a unui grup parlamentar. Motivarea cererii de modificare a ordinii de zi sau a programului de lucru se face printr-o singura luare de cuvint, limitată în timp. În cazul în care exista opoziție, se va da cuvintul unui singur vorbitor, după care se va trece la vot. Modificarea ordinii de zi și a programului se aproba cu votul majorității deputaților prezenți.

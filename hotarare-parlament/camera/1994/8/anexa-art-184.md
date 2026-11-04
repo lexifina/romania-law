@@ -1,0 +1,2 @@
+# Anexa: Articolul 184
+Cazurile de incompatibilitate vor fi trimise spre examinare Comisiei juridice, de disciplina și imunități a Camerei Deputaților, care va întocmi un raport. Propunerile comisiei se aproba de Camera cu votul majorității membrilor săi. Dacă deputatul a făcut sa înceteze cauza de incompatibilitate, după sesizarea comisiei, se va lua act despre aceasta în procesul-verbal al ședinței; asemenea cazuri nu se trec în raportul comisiei.

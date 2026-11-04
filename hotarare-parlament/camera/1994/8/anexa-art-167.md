@@ -1,0 +1,2 @@
+# Anexa: Articolul 167
+Trimestrial, Comisia pentru cercetarea abuzurilor, corupției și pentru petiții prezintă Biroului permanent și, la începutul fiecărei sesiuni, Camerei un raport asupra petitiilor primite și asupra modului de soluționare a acestora. În raport se vor face mențiuni cu privire la soluțiile date de autoritățile publice la petitiile care le-au fost trimise spre soluționare. Autoritățile publice care au primit petiții spre soluționare sunt obligate sa transmită comisiei soluțiile adoptate în termen de cel mult o luna de la primirea petiției.

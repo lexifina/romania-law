@@ -1,0 +1,2 @@
+# Anexa: Articolul 157
+Interpelările se înscriu, în ordinea prezentării, într-un registru special și se afișează la sediul Camerei. Dezvoltarea interpelarilor are loc în ședința de luni, după ora ministerială, consacrată intrebarilor și raspunsurilor la întrebări. Durata dezvoltării interpelării nu poate depăși 5 minute. În ședința consacrată dezbaterii interpelarilor, un grup parlamentar nu poate prezenta mai mult de o interpelare. În cazul în care timpul consacrat interpelarilor permite, un grup parlamentar poate dezvolta și o a doua interpelare.

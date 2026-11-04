@@ -1,0 +1,2 @@
+# Anexa: Articolul 19
+Orice modificare intervenita în componenta unui grup parlamentar se aduce la cunoștința președintelui Camerei Deputaților sub semnatura liderului grupului și după caz, a deputatului. Președintele Camerei informează deputații, în ședința publică, asupra modificărilor intervenite în componenta grupurilor parlamentare. Secțiunea a 3-a Alegerea președintelui Camerei Deputaților și a celorlalți membri ai Biroului permanent

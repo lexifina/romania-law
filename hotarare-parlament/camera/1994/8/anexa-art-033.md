@@ -1,0 +1,2 @@
+# Anexa: Articolul 33
+Secretarii întocmesc lista inscrierilor la cuvint, pe baza solicitărilor deputaților, în ordinea în care au fost făcute; prezintă propunerile, amendamentele și orice alte comunicări adresate Camerei, efectuează apelul nominal, consemnează rezultatul votului, țin evidenta hotărîrilor adoptate, veghează la întocmirea stenogramelor, asista președintele în realizarea atribuțiilor ce-i revin și îndeplinesc orice alte sarcini primite de la acesta sau de la Biroul permanent.

@@ -1,0 +1,2 @@
+# Anexa: Articolul 98
+Discutarea articolelor începe cu amendamentele. În cursul dezbaterilor, deputații, Guvernul sau grupurile parlamentare pot pune în discuție amendamentele respinse de comisia sesizată în fond sau amendamentele depuse la comisie, în conformitate cu prevederile prezentului regulament, dar care nu figurează în raportul acesteia. În mod excepțional pot fi depuse amendamente noi și în timpul dezbaterilor în plen.

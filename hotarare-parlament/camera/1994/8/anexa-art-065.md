@@ -1,0 +1,2 @@
+# Anexa: Articolul 65
+Avizarea amendamentelor scrise, depuse de deputați cu cel puțin 6 zile înainte de data dezbaterii în plen, se va face de către comisia sesizată în fond și, numai dacă aceasta considera necesar, și de o alta comisie. Pentru amendamentele orale prezentate în plen cu privire la probleme de redactare sau la alte aspecte mai puțin însemnate, avizarea se va putea face oral de către raportorul comisiei sesizate în fond, la solicitarea președintelui Camerei.

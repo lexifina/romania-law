@@ -1,0 +1,2 @@
+# Anexa: Articolul 152
+Fiecare deputat are dreptul sa adreseze Guvernului, membrilor săi sau altor conducatori ai organelor administrației publice, întrebări scrise care se depun la președintele Camerei în fiecare zi de luni, la încheierea orei ministeriale. Deputații care adresează întrebări scrise vor preciza dacă doresc un răspuns în scris sau oral de la tribuna Camerei Deputaților. Întrebările scrise se transmit membrilor Guvernului de către președintele Camerei Deputaților.

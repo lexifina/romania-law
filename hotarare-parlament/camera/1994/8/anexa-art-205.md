@@ -1,0 +1,2 @@
+# Anexa: Articolul 205
+Pentru menținerea ordinii în ședințele comisiilor, președinții acestora au aceleași drepturi ca și președintele Camerei și pot aplica sancțiunile prevăzute la art. 197 alin. 1 lit. a), b) și c). În cazul în care un deputat săvârșește abateri deosebit de grave, președintele comisiei va suspenda ședința și va aduce cazul la cunoștința președintelui Camerei, care îl va supune Camerei Deputaților în vederea aplicării sancțiunilor prevăzute de regulament.

@@ -1,0 +1,2 @@
+# Anexa: Articolul 103
+Deputații, grupurile parlamentare sau Guvernul pot prezenta amendamente în scris, motivate, care se trimit comisiei sesizate, în termen de cel mult 48 de ore de la aprobarea procedurii de urgenta. În același interval de timp, avizul Consiliului Legislativ se va trimite comisiei sesizate în fond. Comisia sesizată în fond este obligată să depună raportul în cel mult 3 zile de la sesizare.

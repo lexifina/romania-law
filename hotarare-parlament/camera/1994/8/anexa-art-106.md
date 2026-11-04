@@ -1,0 +1,2 @@
+# Anexa: Articolul 106
+Dezbaterea unui proiect de lege sau a unei propuneri legislative în procedura de urgenta nu poate depăși durata de timp aprobată de Camera, la propunerea președintelui acesteia, după consultarea biroului comisiei sesizate în fond. În situația în care timpul prevăzut la alin. 1 s-a epuizat, dezbaterea se încheie și președintele Camerei supune votului fiecare amendament cuprins în raportul comisiei sesizate în fond și fiecare articol, după care se va proceda la votarea finala a proiectului de lege sau a propunerii legislative.

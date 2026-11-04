@@ -1,0 +1,2 @@
+# Anexa: Articolul 11
+În cazul deputaților pentru care nu exista motive de invalidare potrivit art. 7, se întocmește, pe circumscripții electorale, o lista cu numele și prenumele acestora, asupra căreia Camera se pronunța printr-un singur vot. În cazul deputaților la care a fost propusă invalidarea mandatului, Camera dezbate și se pronunța prin vot pentru fiecare caz în parte. Validarea sau invalidarea mandatelor de deputat se face prin votul majorității deputaților prezenți.

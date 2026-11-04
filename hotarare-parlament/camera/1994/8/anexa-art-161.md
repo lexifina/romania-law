@@ -1,0 +1,2 @@
+# Anexa: Articolul 161
+Camera Deputaților și comisiile sale pot cere Guvernului și celorlalte organe ale administrației publice informații și documente, în cadrul controlului parlamentar al activității acestora. În cazul în care informațiile sau documentele solicitate privesc, potrivit legii, secrete de stat, Guvernul informează Camera Deputaților despre aceasta, iar Camera decide în ședința secreta. Documentele se restituie după consultare.

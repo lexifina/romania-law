@@ -1,0 +1,2 @@
+# Anexa: Articolul 25
+Oricărui membru al Biroului permanent i se poate revoca mandatul înainte de expirarea acestuia, la cererea motivată a grupului parlamentar care l-a propus sau a cel puțin o treime din numărul deputaților provenind din minimum trei grupuri parlamentare. Votul este secret și se exprima prin bile pentru fiecare caz în parte, în cel mult 15 zile de la data înregistrării cererii de revocare.

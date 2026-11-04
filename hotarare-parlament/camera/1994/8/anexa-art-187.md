@@ -1,0 +1,2 @@
+# Anexa: Articolul 187
+După validarea mandatelor, deputaților li se eliberează legitimatia de membru al Camerei Deputaților, semnată de președintele acesteia. Deputații primesc un însemn distinctiv al calității lor de reprezentanți ai poporului, cu dreptul de a-l purta pe toată durata mandatului. Modelul insemnului se stabilește de Biroul permanent, iar cheltuielile pentru confecționarea acestuia se suporta din bugetul Camerei Deputaților.

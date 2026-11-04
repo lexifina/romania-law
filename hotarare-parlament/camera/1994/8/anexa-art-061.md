@@ -1,0 +1,2 @@
+# Anexa: Articolul 61
+Comisia permanenta sesizată în fond va putea stabili un termen în care să-i fie remise avizul sau avizele celorlalte comisii care examinează proiectul sau propunerea legislativă, consultindu-se cu acestea și ținând seama de termenul de predare a raportului. În caz de nerespectare a acestui termen, comisia sesizată în fond își va putea redacta raportul fără a mai aștepta avizul sau avizele respective.

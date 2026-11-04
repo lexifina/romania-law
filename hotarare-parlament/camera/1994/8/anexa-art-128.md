@@ -1,0 +1,2 @@
+# Anexa: Articolul 128
+Camera Deputaților lucrează legal în prezenta majorității deputaților. În timpul ședințelor, liderii grupurilor parlamentare pot cere președintelui Camerei verificarea întrunirii cvorumului. Președintele Camerei va decide dacă acest lucru este necesar. În cazul în care cvorumul legal nu este întrunit, președintele Camerei suspenda ședința și arata ziua și ora de reluare a lucrărilor. Secretarii vor informa ulterior Camera despre cauzele lipsei deputaților care nu și-au anuntat absenta.

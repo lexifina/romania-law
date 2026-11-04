@@ -1,0 +1,2 @@
+# Anexa: Articolul 125
+Deputații sunt obligați să fie prezenți la lucrările Camerei și să se înscrie pe lista de prezenta, ținuta de unul dintre secretari. Deputatul care nu poate lua parte la ședința, din motive independente de voința sa, va trebui sa anunțe din timp Biroul permanent, menționînd cauzele care îl împiedica sa participe. Deputatului care nu își poate motiva absenta i se retine din indemnizația lunară, pentru fiecare zi de absenta, o sumă de bani ce reprezintă a 21-a parte din indemnizația lunară, la care se adauga diurna de ședința și diurna de deplasare.

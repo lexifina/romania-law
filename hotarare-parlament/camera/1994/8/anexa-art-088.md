@@ -1,0 +1,2 @@
+# Anexa: Articolul 88
+După examinarea proiectului sau a propunerii legislative, comisia permanenta sesizată în fond întocmește un raport care va cuprinde propuneri cu privire la adoptarea sau, după caz, modificarea ori respingerea proiectului sau a propunerii legislative examinate. Raportul se transmite Biroului permanent, care va asigura multiplicarea și difuzarea acestuia Guvernului, deputaților și initiatorilor, cu respectarea termenului prevăzut la art. 64 alin. 2.
