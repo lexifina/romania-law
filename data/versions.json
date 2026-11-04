@@ -200849,6 +200849,51 @@
    ]
   },
   {
+   "slug": "hg-2047-2004",
+   "path": "hg/2004/2047",
+   "short": "HG nr. 2047/2004",
+   "title": "Hotărârea Guvernului nr. 2047/2004 privind acordarea unor ajutoare financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57246",
+   "versions": [
+    {
+     "from": "2004-11-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57246",
+     "sha256": "5d02c0a512b0fc4f9bf74854aa5ef364a6c9d7d2de23727ab84783a3220e6b3d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2048-2004",
+   "path": "hg/2004/2048",
+   "short": "HG nr. 2048/2004",
+   "title": "Hotărârea Guvernului nr. 2048/2004 privind acordarea unor ajutoare financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57236",
+   "versions": [
+    {
+     "from": "2004-11-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57236",
+     "sha256": "b646ca80ebd4b8bad4c2e9c3f3d06511fd9e8adac92e1c3004dbbd7d61a23b70"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2049-2004",
+   "path": "hg/2004/2049",
+   "short": "HG nr. 2049/2004",
+   "title": "Hotărârea Guvernului nr. 2049/2004 privind aprobarea stemelor unor comune din judeţul Caraş-Severin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57489",
+   "versions": [
+    {
+     "from": "2004-12-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57489",
+     "sha256": "dcd8df0bb01b0da81b29ac98b020d4a0f507ef387e1884cd9daaa8dc4a698a35"
+    }
+   ]
+  },
+  {
    "slug": "hg-205-2007",
    "path": "hg/2007/205",
    "short": "HG nr. 205/2007",
@@ -201070,6 +201115,96 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295585",
      "sha256": "c5c007435f8be49502b7dc5fd2d714ee9ff3e961c07d171e017d8ae117b333b9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2052-2004",
+   "path": "hg/2004/2052",
+   "short": "HG nr. 2052/2004",
+   "title": "Hotărârea Guvernului nr. 2052/2004 pentru modificarea anexei la Hotărârea Guvernului nr. 1.640/2004 privind stabilirea unor măsuri pentru organizarea şi funcţionarea Muzeului Costumelor Populare din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57314",
+   "versions": [
+    {
+     "from": "2004-12-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57314",
+     "sha256": "01237973f1b63557e2d8ca1f843cae1d1fc9067a92d91c2f99fdcf54b33f74e1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2054-2004",
+   "path": "hg/2004/2054",
+   "short": "HG nr. 2054/2004",
+   "title": "Hotărârea Guvernului nr. 2054/2004 privind numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57093",
+   "versions": [
+    {
+     "from": "2004-11-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57093",
+     "sha256": "41efa4a02cc9c98a4739c0050595b5c9c1e15cacead3d9605f44a626757ef5b3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2055-2004",
+   "path": "hg/2004/2055",
+   "short": "HG nr. 2055/2004",
+   "title": "Hotărârea Guvernului nr. 2055/2004 privind aprobarea bugetului Trezoreriei Statului pe anul 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57324",
+   "versions": [
+    {
+     "from": "2004-12-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57324",
+     "sha256": "37e615beebf5608a7223fa779e010ee3d2728eb605606434075d576778480578"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2056-2004",
+   "path": "hg/2004/2056",
+   "short": "HG nr. 2056/2004",
+   "title": "Hotărârea Guvernului nr. 2056/2004 privind aprobarea stemei comunei Chichiş, judeţul Covasna",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57490",
+   "versions": [
+    {
+     "from": "2004-12-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57490",
+     "sha256": "0a39c67de9dfdbe465b2efd8b08eda45dbefbe4c4ff26724dfa6730dcc1580c7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2057-2004",
+   "path": "hg/2004/2057",
+   "short": "HG nr. 2057/2004",
+   "title": "Hotărârea Guvernului nr. 2057/2004 privind aprobarea stemei comunei Luncaviţa, judeţul Caraş-Severin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57491",
+   "versions": [
+    {
+     "from": "2004-12-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57491",
+     "sha256": "661311fa67aabc2a43efd7dba3411355064391d133fbbbc284bbb4dca26be4f9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2058-2004",
+   "path": "hg/2004/2058",
+   "short": "HG nr. 2058/2004",
+   "title": "Hotărârea Guvernului nr. 2058/2004 privind aprobarea plafonului maxim în limita căruia Regia Autonomă pentru Activităţi Nucleare va face compensări în anul 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57195",
+   "versions": [
+    {
+     "from": "2004-12-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57195",
+     "sha256": "15c9476ea4a29785b9e85a296909b2d6b57be4162ff38b426e092adab7957e67"
     }
    ]
   },
@@ -201305,6 +201440,126 @@
    ]
   },
   {
+   "slug": "hg-2061-2004",
+   "path": "hg/2004/2061",
+   "short": "HG nr. 2061/2004",
+   "title": "Hotărârea Guvernului nr. 2061/2004 privind aprobarea încadrării în categoria funcţională a drumurilor comunale a unor drumuri situate în judeţul Argeş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57326",
+   "versions": [
+    {
+     "from": "2004-12-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57326",
+     "sha256": "4c5e353149cd55b59e6f0f0e81ea90b5a92537a496cd430fa5427c749b9ba938"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2062-2004",
+   "path": "hg/2004/2062",
+   "short": "HG nr. 2062/2004",
+   "title": "Hotărârea Guvernului nr. 2062/2004 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Extinderea Centralei Electrice de Termoficare Bucureşti Vest cu unităţi moderne de cogenerare\", municipiul Bucureşti - Societatea Comercială \"Electrocentrale Bucureşti\" - S.A. şi pentru modificarea Hotărârii Guvernului nr. 1.312/2003 privind unele măsuri pentru execuţia lucrărilor de extindere a CET Bucureşti Vest cu capacităţi noi, de cogenerare, în tehnologie modernă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57149",
+   "versions": [
+    {
+     "from": "2004-11-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57149",
+     "sha256": "ab2cb415841211dd54b8dc0b2a35ef1d2289ee1bf8efdeb72678ec47fb7f1e12"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2063-2004",
+   "path": "hg/2004/2063",
+   "short": "HG nr. 2063/2004",
+   "title": "Hotărârea Guvernului nr. 2063/2004 privind trecerea din domeniul public al statului în domeniul privat al statului a unor imobile aflate în administrarea Centrului European de Cultură din Sinaia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57414",
+   "versions": [
+    {
+     "from": "2004-12-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57414",
+     "sha256": "48bc288269e264953875bf99b6bc0c455f5f9e6a6e0987954b7d81b96af95a40"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2064-2004",
+   "path": "hg/2004/2064",
+   "short": "HG nr. 2064/2004",
+   "title": "Hotărârea Guvernului nr. 2064/2004 privind transmiterea fără plată a unui teren, aflat în proprietatea publică a statului, din administrarea Agenţiei Domeniilor Statului în administrarea Administraţiei Naţionale de Meteorologie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57396",
+   "versions": [
+    {
+     "from": "2004-12-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57396",
+     "sha256": "6096889c135698c5073d37d0e4812e24c3fa5a6be878e367eeb03aef1b5c9cbf"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2065-2004",
+   "path": "hg/2004/2065",
+   "short": "HG nr. 2065/2004",
+   "title": "Hotărârea Guvernului nr. 2065/2004 privind transmiterea fără plată a unui teren, aflat în proprietatea publică a statului, din administrarea Agenţiei Domeniilor Statului în administrarea Administraţiei Naţionale de Meteorologie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57397",
+   "versions": [
+    {
+     "from": "2004-12-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57397",
+     "sha256": "a81a27260e600574fccf9ae4be8a4081b561656f96a69d3f6880da5f7b50b182"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2067-2004",
+   "path": "hg/2004/2067",
+   "short": "HG nr. 2067/2004",
+   "title": "Hotărârea Guvernului nr. 2067/2004 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Administraţiei şi Internelor în domeniul public al municipiului Alexandria şi în administrarea Consiliului Local al Municipiului Alexandria, judeţul Teleorman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57399",
+   "versions": [
+    {
+     "from": "2004-12-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57399",
+     "sha256": "bf4577fc6bedb964191f3e7ffed103d39ffcde81522fa177a419183ef47ad401"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2068-2004",
+   "path": "hg/2004/2068",
+   "short": "HG nr. 2068/2004",
+   "title": "Hotărârea Guvernului nr. 2068/2004 privind trecerea din domeniul public al statului în domeniul privat al statului a unor construcţii aflate în administrarea Ministerului Agriculturii, Pădurilor şi Dezvoltării Rurale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57547",
+   "versions": [
+    {
+     "from": "2004-12-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57547",
+     "sha256": "f43778babc3a274848cf8d6bed284e71337d88b2d59ba3313b256f7168c4540c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2069-2004",
+   "path": "hg/2004/2069",
+   "short": "HG nr. 2069/2004",
+   "title": "Hotărârea Guvernului nr. 2069/2004 privind transmiterea unui sector de drum naţional, proprietate publică a statului, din administrarea Consiliului Local al Municipiului Drobeta-Turnu Severin în administrarea Ministerului Transporturilor, Construcţiilor şi Turismului, în vederea realizării de către Compania Naţională de Autostrăzi şi Drumuri Naţionale din România - S.A. a activităţilor de interes naţional în domeniul administrării drumurilor naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57400",
+   "versions": [
+    {
+     "from": "2004-12-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57400",
+     "sha256": "88b0dd2f63e9979d671617bd47df180e732a08afa9c9e29e2a1b74d0ff6b4ca8"
+    }
+   ]
+  },
+  {
    "slug": "hg-207-2007",
    "path": "hg/2007/207",
    "short": "HG nr. 207/2007",
@@ -201485,6 +201740,66 @@
    ]
   },
   {
+   "slug": "hg-2070-2004",
+   "path": "hg/2004/2070",
+   "short": "HG nr. 2070/2004",
+   "title": "Hotărârea Guvernului nr. 2070/2004 privind aprobarea unor licenţe de concesiune a activităţii miniere de exploatare, încheiate între Agenţia Naţională pentru Resurse Minerale şi Societatea Comercială \"ALCIF\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57193",
+   "versions": [
+    {
+     "from": "2004-12-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57193",
+     "sha256": "8f22686bc9e42eb0bfb21a0fea25b409c34ee28c31a866394a70c410bbfc3d3c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2071-2004",
+   "path": "hg/2004/2071",
+   "short": "HG nr. 2071/2004",
+   "title": "Hotărârea Guvernului nr. 2071/2004 privind aprobarea unei licenţe de dare în administrare a activităţii miniere de exploatare, încheiată între Agenţia Naţională pentru Resurse Minerale şi Ministerul Sănătăţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57194",
+   "versions": [
+    {
+     "from": "2004-12-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57194",
+     "sha256": "0ce12eb649108d382f9e166082b3071d6cbc9c3a943e95fc215824215d96efa8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2072-2004",
+   "path": "hg/2004/2072",
+   "short": "HG nr. 2072/2004",
+   "title": "Hotărârea Guvernului nr. 2072/2004 pentru modificarea anexei la Hotărârea Guvernului nr. 281/2004 privind suplimentarea bugetului Ministerului Culturii şi Cultelor din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2004, pentru finanţarea cheltuielilor aferente realizării şi amplasării unor lucrări de artă plastică, precum şi pentru unele proiecte culturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57094",
+   "versions": [
+    {
+     "from": "2004-11-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57094",
+     "sha256": "27db252477dfadeb2f09b429f9bdd9c8a438a6eae4ea171f0c03ed991939cffb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2073-2004",
+   "path": "hg/2004/2073",
+   "short": "HG nr. 2073/2004",
+   "title": "Hotărârea Guvernului nr. 2073/2004 privind completarea anexei la Hotărârea Guvernului nr. 1.358/2004 privind aprobarea Listei societăţilor comerciale din portofoliul Autorităţii pentru Valorificarea Activelor Statului, care efectuează concedieri colective în baza prevederilor art. 6 din Ordonanţa de urgenţă a Guvernului nr. 8/2003 privind stimularea procesului de restructurare, reorganizare şi privatizare a unor societăţi naţionale, companii naţionale şi societăţi comerciale cu capital majoritar de stat, precum şi a societăţilor şi regiilor autonome subordonate autorităţilor administraţiei publice locale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57095",
+   "versions": [
+    {
+     "from": "2004-11-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57095",
+     "sha256": "c88860d93754d6da23286380a794b4b37495b6290f8f432c8305b3b820198964"
+    }
+   ]
+  },
+  {
    "slug": "hg-2074-2004",
    "path": "hg/2004/2074",
    "short": "HG nr. 2074/2004",
@@ -201496,6 +201811,66 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57918",
      "sha256": "9cdcf0e3bef9baabfdafb5127e5de4d06dd35bbddcd74998979eac6c3c90a893"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2076-2004",
+   "path": "hg/2004/2076",
+   "short": "HG nr. 2076/2004",
+   "title": "Hotărârea Guvernului nr. 2076/2004 privind recunoaşterea Fundaţiei \"Familia\" ca fiind de utilitate publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57189",
+   "versions": [
+    {
+     "from": "2004-11-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57189",
+     "sha256": "f2347f21b4e7af784553e5173308bdcc0fad59293357af852deb9cebbc413445"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2077-2004",
+   "path": "hg/2004/2077",
+   "short": "HG nr. 2077/2004",
+   "title": "Hotărârea Guvernului nr. 2077/2004 pentru aprobarea duratei contractului de concesiune a unor bunuri proprietate publică a statului, care se atribuie Societăţii Comerciale de Producere a Energiei Electrice \"Hidroelectrica\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57450",
+   "versions": [
+    {
+     "from": "2004-12-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57450",
+     "sha256": "f6eeebff0896d668afb144057b61c6de3e5ff587aa03e04fecb9bccaed5298bf"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2078-2004",
+   "path": "hg/2004/2078",
+   "short": "HG nr. 2078/2004",
+   "title": "Hotărârea Guvernului nr. 2078/2004 privind trecerea din domeniul public în domeniul privat al statului a unor construcţii aflate în administrarea Ministerului Administraţiei şi Internelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57479",
+   "versions": [
+    {
+     "from": "2004-12-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57479",
+     "sha256": "bcda43ca551ee0b294a3a46af63c7d541485077e908bc1c3c78702dbf16d0a47"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2079-2004",
+   "path": "hg/2004/2079",
+   "short": "HG nr. 2079/2004",
+   "title": "Hotărârea Guvernului nr. 2079/2004 privind schimbarea destinaţiei unui imobil",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57190",
+   "versions": [
+    {
+     "from": "2004-11-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57190",
+     "sha256": "427d171bc7e2ee2a3083ee31cd2ed1c8caffac9c791bf88e4096433467e4a661"
     }
    ]
   },
@@ -201695,6 +202070,36 @@
    ]
   },
   {
+   "slug": "hg-2080-2004",
+   "path": "hg/2004/2080",
+   "short": "HG nr. 2080/2004",
+   "title": "Hotărârea Guvernului nr. 2080/2004 pentru modificarea şi completarea Hotărârii Guvernului nr. 556/2001 privind reactualizarea Planului naţional pentru cercetare-dezvoltare şi inovare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57496",
+   "versions": [
+    {
+     "from": "2004-12-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57496",
+     "sha256": "f8287e2aad52a09cd5aa540b53fda57234f08789f8fc7ea764a0476638f3cc78"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2081-2004",
+   "path": "hg/2004/2081",
+   "short": "HG nr. 2081/2004",
+   "title": "Hotărârea Guvernului nr. 2081/2004 privind suplimentarea bugetului Ministerului Educaţiei şi Cercetării din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57191",
+   "versions": [
+    {
+     "from": "2004-11-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57191",
+     "sha256": "aa138d3e75d102e14266782effa1fc099ac475a275237d2dc637568fc9bf80a1"
+    }
+   ]
+  },
+  {
    "slug": "hg-2082-2004",
    "path": "hg/2004/2082",
    "short": "HG nr. 2082/2004",
@@ -201706,6 +202111,96 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/57936",
      "sha256": "e12dff2f44a8ac475ac0c3ef450e90598b1c536362a3c9057024f1f0bf4e9169"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2083-2004",
+   "path": "hg/2004/2083",
+   "short": "HG nr. 2083/2004",
+   "title": "Hotărârea Guvernului nr. 2083/2004 pentru completarea art. 4 din Hotărârea Guvernului nr. 1.239/1996 privind înfiinţarea, organizarea şi funcţionarea Federaţiei Sportului Şcolar şi Universitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57563",
+   "versions": [
+    {
+     "from": "2004-12-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57563",
+     "sha256": "abeaa45dc6c9d5c0f9cd486dcb9a5b7208a5d3825595a0c07fe4954fcffa9d6e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2084-2004",
+   "path": "hg/2004/2084",
+   "short": "HG nr. 2084/2004",
+   "title": "Hotărârea Guvernului nr. 2084/2004 privind transmiterea unor terenuri din domeniul public al statului şi din administrarea Agenţiei Domeniilor Statului în domeniul privat al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57559",
+   "versions": [
+    {
+     "from": "2004-12-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57559",
+     "sha256": "6c743a38241e7b5bdbce7d0422d6268abe82944bbbdce15106ed6ee4862c0d44"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2085-2004",
+   "path": "hg/2004/2085",
+   "short": "HG nr. 2085/2004",
+   "title": "Hotărârea Guvernului nr. 2085/2004 privind transmiterea unei părţi dintr-un imobil proprietate publică a statului din administrarea Ministerului Apărării Naţionale în administrarea Ministerului Administraţiei şi Internelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57565",
+   "versions": [
+    {
+     "from": "2004-12-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57565",
+     "sha256": "bff263343dc9490302c4aba10824a1c4efebfdd5a31998a1a940725a95c903ae"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2087-2004",
+   "path": "hg/2004/2087",
+   "short": "HG nr. 2087/2004",
+   "title": "Hotărârea Guvernului nr. 2087/2004 privind trecerea unor terenuri din domeniul public al statului şi din administrarea Agenţiei Domeniilor Statului în domeniul public al judeţului Brăila şi în administrarea Consiliului Judeţean Brăila",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57481",
+   "versions": [
+    {
+     "from": "2004-12-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57481",
+     "sha256": "24088363bc1007a025a86b0436fa34ff97f0b586a3d717f3df8c305a28df5aa6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2088-2004",
+   "path": "hg/2004/2088",
+   "short": "HG nr. 2088/2004",
+   "title": "Hotărârea Guvernului nr. 2088/2004 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.574/2003 privind organizarea şi funcţionarea Ministerului Finanţelor Publice şi a Agenţiei Naţionale de Administrare Fiscală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57591",
+   "versions": [
+    {
+     "from": "2004-12-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57591",
+     "sha256": "e60fd1634863d41250f31520b7ead1cee7959495e5ec5f50b56f697729896b74"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2089-2004",
+   "path": "hg/2004/2089",
+   "short": "HG nr. 2089/2004",
+   "title": "Hotărârea Guvernului nr. 2089/2004 privind aprobarea Listei unităţilor de cercetare-dezvoltare care beneficiază de înlesnirile la plata obligaţiilor fiscale restante prevăzute de art. II din Legea nr. 230/2004 privind aprobarea Ordonanţei Guvernului nr. 38/2004 pentru modificarea Ordonanţei Guvernului nr. 57/2002 privind cercetarea ştiinţifică şi dezvoltarea tehnologică, precum şi a plafoanelor până la care se acordă scutiri la plată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57566",
+   "versions": [
+    {
+     "from": "2004-12-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57566",
+     "sha256": "6b27eb58d168e2fa4b0ac14d87e6260f14de309999ddd140f816d1e97e6534ce"
     }
    ]
   },
@@ -201901,6 +202396,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295292",
      "sha256": "b10c687c0af6dc9192562fcb27d32d35be68f4a1e156153ba5ae3650422765ca"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2090-2004",
+   "path": "hg/2004/2090",
+   "short": "HG nr. 2090/2004",
+   "title": "Hotărârea Guvernului nr. 2090/2004 pentru modificarea Hotărârii Guvernului nr. 742/2003 privind organizarea şi funcţionarea Ministerului Culturii şi Cultelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57564",
+   "versions": [
+    {
+     "from": "2004-12-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57564",
+     "sha256": "e3857d36c87599f35e1c663875b95ed811445d33659a56b2da13e0f937ef17c9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2091-2004",
+   "path": "hg/2004/2091",
+   "short": "HG nr. 2091/2004",
+   "title": "Hotărârea Guvernului nr. 2091/2004 privind aprobarea finanţării transportului aerian tur-retur în România al unor invitaţi străini cu ocazia inaugurării Muzeului Naţional de Artă Contemporană al României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57447",
+   "versions": [
+    {
+     "from": "2004-12-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57447",
+     "sha256": "6e58f39855d399f882a84ea2d8d32b5aa81d35d5630eddbb6140363f568cfe33"
     }
    ]
   },
