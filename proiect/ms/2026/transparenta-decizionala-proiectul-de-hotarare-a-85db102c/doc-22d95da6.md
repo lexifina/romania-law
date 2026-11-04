@@ -1,0 +1,45 @@
+PROCES - VERBAL
+
+Anul______, luna_____, ziua_____, ora___ : ___, în______________________________________
+___________________________________ din cadrul ___________________________________ ,
+                (gradul profesional, numele și prenumele polițistului rutier)
+Azi, data de mai sus, pe ________________________, în _________________________ a fost depistat/ă numitul/a _________________ C.N.P./_/_/_/_/_/_/_/_/_/_/_/_/_/, cu domiciliul/reședința în ______________________________care posedă actul de identitate/pașaportul seria_____________________, eliberat la data de ____________ de __________________________, în timp ce conducea autovehiculul marca _______________ cu nr. de înmatriculare/înregistrare_____________________, iar cu ocazia solicitării de a se supune testării în vederea stabilirii consumului de substanțe psihoactive/concentrației de alcool în aerul expirat, persoana mai sus menționată a refuzat /nu a putut să se supună testării.
+
+Persoana în cauză a fost condusă la unitatea medicală ______________ din ________________, unde i-au fost recoltate mostre biologice, această procedură finalizându-se la ora ____ : ____, conform procesului-verbal de recoltare a mostrelor biologice întocmit la această unitate.
+	Cu această ocazie dispun retragerea permisului de conducere aparținând persoanei mai sus-menționate.
+
+	Pe perioada retragerii permisului de conducere, titularul acestuia nu are dreptul de a conduce vehicule pe drumurile publice.
+	Măsura retragerii permisului de conducere poate fi contestată în condițiile Legii contenciosului administrativ nr.554/2004, cu modificările și completările ulterioare.
+
+	Totodată, i-am adus la cunoștință persoanei în cauză, faptul că permisul de conducere retras se restituie în baza buletinului de analiză toxicologică prin care s-a stabilit absența în organism a substanțelor psihoactive sau a alcoolului în sânge, după caz, ori la împlinirea termenului de 72 de ore de la momentul finalizării procedurilor de recoltare a mostrelor biologice, respectiv ora ____ : ____ , dacă nu a fost comunicat un astfel de buletin, conform art. 1 alin. (2) din Ordonanța de urgență a Guvernului nr. 97/2024 privind stabilirea unor măsuri în domeniul siguranței rutiere.
+
+Titularul permisului de conducere solicită comunicarea informațiilor privind rezultatul consemnat în buletinul de analiză toxicologică:
+ prin e-mail la adresa ________________________________________________________
+ prin SMS, la numărul de telefon ________________________________.
+ la adresa de corespondență ________________________________________________________.
+
+        Titularul permisului de conducere optează pentru:
+ expedierea permisului la următoarea adresă de corespondență________________________________;
+(prin servicii de curierat, dacă adresa de corespondență se află pe teritoriul României, respectiv prin poștă, dacă adresa de corespondență se află străinătate);
+ ridicarea permisului de conducere în timpul programului de lucru cu publicul de la sediul _________________________________________________, (se va indica sediul unui serviciu al poliției rutiere sau al unei poliții municipale, orășenești sau de stațiune);
+
+ A fost ridicat permisul de conducere seria_________, nr.___________.
+
+Prezentul proces-verbal ține loc de dovadă înlocuitoare.
+
+ Nu a fost ridicat permisul de conducere, deoarece persoana nu avea documentul asupra sa.
+
+Pentru care am încheiat prezentul proces-verbal în două exemplare.
+
+Polițist rutier ____________________                         Titular permis de conducere________________
+R  O  M  Â  N  I  A
+MINISTERUL AFACERILOR INTERNE
+INSPECTORATUL GENERAL AL POLIȚIEI ROMÂNE
+                                   Unitatea …………… |  | Anexa nr. 3
+(Anexa nr. 1H la regulament)
+
+Nr. ______ / _______
+
+Exemplar ____/ 2
+Îmi exprim consimțământul pentru examinarea medicală și recoltarea, procesarea și analiza mostrelor biologice în vederea stabilirii îmbibației de alcool în sânge sau a prezenței în organism a substanțelor psihoactive.
+Semnătură persoană condusă la unitatea medicală _________________
