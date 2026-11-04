@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38058 acts, 51,715 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38073 acts, 51,730 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -7989,7 +7989,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (2851, of which 657 amending acts)
+## Emergency ordinances (OUG) (2852, of which 657 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8382,6 +8382,7 @@
 | Ordonanța de urgență a Guvernului nr. 7/2002 pentru modificarea şi completarea Legii nr. 92/1996 privind organizarea şi funcţionarea Serviciului de Telecomunicaţii Speciale | [`oug/2002/7/`](oug/2002/7/) | amended, not consolidated | 1 | 2002-02-12 | 2002-02-12 |
 | Ordonanța de urgență a Guvernului nr. 9/2002 pentru modificarea Legii serviciilor publice de gospodărie comunală nr. 326/2001 | [`oug/2002/9/`](oug/2002/9/) | amended, not consolidated | 1 | 2002-02-14 | 2002-02-14 |
 | Ordonanța de urgență a Guvernului nr. 10/2002 pentru modificarea Legii nr. 142/1999 privind sprijinul statului pentru salarizarea clerului | [`oug/2002/10/`](oug/2002/10/) | amended, not consolidated | 1 | 2002-02-18 | 2002-02-18 |
+| Ordonanța de urgență a Guvernului nr. 11/2002 privind transferul pachetului de acţiuni deţinut de stat la Societatea Comercială "Horticola" - S.A. Bucureşti de la Agenţia Domeniilor Statului la Regia Autonomă "Administraţia Patrimoniului Protocolului de Stat" | [`oug/2002/11/`](oug/2002/11/) | in force | 1 | 2002-02-18 | 2002-02-18 |
 | Ordonanța de urgență a Guvernului nr. 13/2002 pentru modificarea art. III din Ordonanţa de urgenţă a Guvernului nr. 163/2001 privind reglementarea unor măsuri financiare | [`oug/2002/13/`](oug/2002/13/) | amended, not consolidated | 1 | 2002-02-20 | 2002-02-20 |
 | Ordonanța de urgență a Guvernului nr. 15/2002 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 170/2001 privind atenuarea impactului social ca urmare a procesului de reorganizare a sectorului producţiei de apărare | [`oug/2002/15/`](oug/2002/15/) | amended, not consolidated | 1 | 2002-02-25 | 2002-02-25 |
 | Ordonanța de urgență a Guvernului nr. 16/2002 | [`oug/2002/16/`](oug/2002/16/) | in force | 2 | 2002-02-26 | 2003-01-01 |
@@ -10845,7 +10846,7 @@
 | Ordonanța de urgență a Guvernului nr. 37/2026 pentru modificarea şi completarea Legii nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor şi protecţia persoanelor | [`oug/2026/37/`](oug/2026/37/) | amending act | 2 | 2026-05-06 | 2026-06-05 |
 | Ordonanța de urgență a Guvernului nr. 39/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 58/2023 privind unele măsuri pentru acordarea unei prime de carieră didactică pentru personalul didactic şi didactic auxiliar, precum şi unei prime de carieră profesională pentru personalul administrativ din învăţământul de stat, suportate din fonduri externe nerambursabile, precum şi pentru instituirea unor reglementări în vederea gestionării Programului Educaţie şi Ocupare 2021-2027 | [`oug/2026/39/`](oug/2026/39/) | amended, not consolidated | 1 | 2026-05-06 | 2026-05-06 |
 
-## Ordinances (OG) (970, of which 115 amending acts)
+## Ordinances (OG) (972, of which 115 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -11199,6 +11200,7 @@
 | Ordonanța Guvernului nr. 8/2002 pentru ratificarea Memorandumului de finanţare convenit între Guvernul României şi Comisia Europeană privind asistenţa financiară nerambursabilă acordată prin Instrumentul pentru Politici Structurale de Preaderare pentru măsura "Reabilitarea reţelei de canalizare şi a staţiei de epurare a apelor uzate în Focşani, România", semnat la Bruxelles la 20 august 2001 şi la Bucureşti la 10 octombrie 2001 | [`og/2002/8/`](og/2002/8/) | amended, not consolidated | 1 | 2002-02-01 | 2002-02-01 |
 | Ordonanța Guvernului nr. 9/2002 pentru ratificarea Memorandumului de finanţare convenit între Guvernul României şi Comisia Europeană privind asistenţa financiară nerambursabilă acordată prin Instrumentul pentru Politici Structurale de Preaderare pentru măsura "Reabilitarea reţelei de canalizare şi a staţiei de epurare a apelor uzate în Oradea, România", semnat la Bruxelles la 20 august 2001 şi la Bucureşti la 10 octombrie 2001 | [`og/2002/9/`](og/2002/9/) | amended, not consolidated | 1 | 2002-02-01 | 2002-02-01 |
 | Ordonanța Guvernului nr. 10/2002 pentru ratificarea Memorandumului de finanţare convenit între Guvernul României şi Comisia Europeană privind asistenţa financiară nerambursabilă acordată prin Instrumentul pentru Politici Structurale de Preaderare pentru măsura "Reabilitarea şi modernizarea sistemului de alimentare cu apa potabilă şi a reţelei de canalizare din municipiul Cluj-Napoca, România", semnat la Bruxelles la 31 mai 2001 şi la Bucureşti la 10 octombrie 2001 | [`og/2002/10/`](og/2002/10/) | amended, not consolidated | 1 | 2002-02-01 | 2002-02-01 |
+| Ordonanța Guvernului nr. 11/2002 pentru ratificarea Memorandumului de finanţare convenit între Guvernul României şi Comisia Europeană privind grantul acordat în cadrul Instrumentului pentru Politici Structurale de Preaderare pentru proiectul "Asistenţa în vederea organizării comitetelor de monitorizare ISPA în România", semnat la Bruxelles la 16 iulie 2001 şi la Bucureşti la 10 octombrie 2001 | [`og/2002/11/`](og/2002/11/) | in force | 1 | 2002-02-02 | 2002-02-02 |
 | Ordonanța Guvernului nr. 13/2002 pentru modificarea şi completarea Ordonanţei Guvernului nr. 102/2000 privind statutul şi regimul refugiaţilor în România | [`og/2002/13/`](og/2002/13/) | amended, not consolidated | 1 | 2002-02-01 | 2002-02-01 |
 | Ordonanța Guvernului nr. 14/2002 | [`og/2002/14/`](og/2002/14/) | in force | 2 | 2002-02-01 | 2003-02-03 |
 | Ordonanța Guvernului nr. 15/2002 | [`og/2002/15/`](og/2002/15/) | in force | 26 | 2002-02-01 | 2025-09-08 |
@@ -11222,6 +11224,7 @@
 | Ordonanța Guvernului nr. 36/2002 | [`og/2002/36/`](og/2002/36/) | repealed 2004-01-01 | 5 | 2002-02-02 | 2004-01-01 |
 | Ordonanța Guvernului nr. 37/2002 | [`og/2002/37/`](og/2002/37/) | in force | 2 | 2002-02-02 | 2007-03-02 |
 | Ordonanța Guvernului nr. 38/2002 | [`og/2002/38/`](og/2002/38/) | in force | 4 | 2002-02-02 | 2004-05-15 |
+| Ordonanța Guvernului nr. 39/2002 privind trecerea Spitalului "Elias" şi a Complexului Olăneşti din subordinea şi administrarea Ministerului Apărării Naţionale în administrarea Academiei Române | [`og/2002/39/`](og/2002/39/) | in force | 1 | 2002-02-02 | 2002-02-02 |
 | Ordonanța Guvernului nr. 40/2002 pentru modificarea şi completarea art. 5 din Ordonanţa Guvernului nr. 80/2001 privind stabilirea unor normative de cheltuieli pentru autorităţile administraţiei publice şi instituţiile publice | [`og/2002/40/`](og/2002/40/) | amended, not consolidated | 1 | 2002-07-15 | 2002-07-15 |
 | Ordonanța Guvernului nr. 41/2002 pentru prorogarea termenelor prevăzute în Legea nr. 146/2002 privind regimul juridic al fundaţiilor judeţene pentru tineret şi a municipiului Bucureşti şi al Fundaţiei Naţionale pentru Tineret | [`og/2002/41/`](og/2002/41/) | amended, not consolidated | 1 | 2002-07-12 | 2002-07-12 |
 | Ordonanța Guvernului nr. 44/2002 privind valorificarea unor active corporale aferente capitalului imobilizat, aparţinând societăţilor comerciale la care statul sau o autoritate a administraţiei publice locale este acţionar majoritar şi care se afla în proces de privatizare | [`og/2002/44/`](og/2002/44/) | in force | 1 | 2002-08-06 | 2002-08-06 |
@@ -11820,7 +11823,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26247, of which 12305 amending acts)
+## Government decisions (HG) (26259, of which 12309 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -12964,13 +12967,25 @@
 | Hotărârea Guvernului nr. 26/2002 | [`hg/2002/26/`](hg/2002/26/) | in force | 2 | 2002-03-01 | 2013-09-12 |
 | Hotărârea Guvernului nr. 27/2002 privind stabilirea cerinţelor referitoare la etichetarea şi eficienta energetica pentru introducerea pe piaţa a maşinilor de spălat vase de uz casnic | [`hg/2002/27/`](hg/2002/27/) | amended, not consolidated | 1 | 2002-10-30 | 2002-10-30 |
 | Hotărârea Guvernului nr. 29/2002 privind acordarea unor ajutoare copiilor protejaţi în centrele de plasament publice, celor daţi în plasament la asistenţi maternali profesionişti şi celor care au fost reintegraţi în familii cu venituri mici | [`hg/2002/29/`](hg/2002/29/) | amended, not consolidated | 1 | 2002-01-25 | 2002-01-25 |
+| Hotărârea Guvernului nr. 39/2002 privind strategia de privatizare a Societăţii Comerciale "Alprom" - S.A. Slatina, inclusă în proiectul componenta de "Privatizarea caz cu caz a 4 mari societăţi comerciale prin intermediul băncilor de investiţii", din cadrul PSAL (Programul pentru ajustarea sectorului privat) | [`hg/2002/39/`](hg/2002/39/) | in force | 1 | 2002-01-28 | 2002-01-28 |
+| Hotărârea Guvernului nr. 42/2002 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2002 al Companiei Naţionale "UNIFARM" - S.A. Bucureşti, aflată sub autoritatea Ministerului Sănătăţii şi Familiei | [`hg/2002/42/`](hg/2002/42/) | amending act | 1 | 2002-01-28 | 2002-01-28 |
 | Hotărârea Guvernului nr. 45/2002 privind darea unor imobile, proprietate publică a statului, în administrarea Ministerului Culturii şi Cultelor şi în folosinţa gratuită a Uniunii Scriitorilor din România | [`hg/2002/45/`](hg/2002/45/) | in force | 1 | 2002-01-30 | 2002-01-30 |
 | Hotărârea Guvernului nr. 48/2002 pentru majorarea gradului de deschidere a pieţei energiei electrice | [`hg/2002/48/`](hg/2002/48/) | amended, not consolidated | 1 | 2002-01-31 | 2002-01-31 |
 | Hotărârea Guvernului nr. 49/2002 pentru aprobarea Normelor metodologice de aplicare a prevederilor Ordonanţei de urgenţă a Guvernului nr. 108/2001 privind exploataţiile agricole | [`hg/2002/49/`](hg/2002/49/) | amended, not consolidated | 1 | 2002-01-31 | 2002-01-31 |
 | Hotărârea Guvernului nr. 56/2002 privind reducerea temporară a taxei vamale pentru unele produse agricole | [`hg/2002/56/`](hg/2002/56/) | amended, not consolidated | 1 | 2002-01-31 | 2002-01-31 |
+| Hotărârea Guvernului nr. 60/2002 pentru aprobarea bugetului de venituri şi cheltuieli al Ministerului Turismului privind activitatea de privatizare pe anul 2002 | [`hg/2002/60/`](hg/2002/60/) | amending act | 1 | 2002-02-01 | 2002-02-01 |
 | Hotărârea Guvernului nr. 62/2002 | [`hg/2002/62/`](hg/2002/62/) | in force | 1 | 2002-02-01 | 2002-02-01 |
 | Hotărârea Guvernului nr. 63/2002 | [`hg/2002/63/`](hg/2002/63/) | in force | 3 | 2002-05-06 | 2007-05-22 |
+| Hotărârea Guvernului nr. 68/2002 privind acordarea unor ajutoare financiare | [`hg/2002/68/`](hg/2002/68/) | in force | 1 | 2002-02-01 | 2002-02-01 |
+| Hotărârea Guvernului nr. 77/2002 privind actualizarea valorii patrimoniului Inspectoratului de Stat în Construcţii - I.S.C | [`hg/2002/77/`](hg/2002/77/) | in force | 1 | 2002-02-08 | 2002-02-08 |
+| Hotărârea Guvernului nr. 80/2002 privind aprobarea sprijinului financiar acordat participanţilor români la Programul LIFE-MEDIU din bugetul de stat al României | [`hg/2002/80/`](hg/2002/80/) | amending act | 1 | 2002-02-12 | 2002-02-12 |
 | Hotărârea Guvernului nr. 82/2002 privind trecerea unor imobile din domeniul public al statului în domeniul privat al statului şi din administrarea Ministerului Justiţiei, a Ministerului Culturii şi Cultelor şi a Societăţii Române de Radiodifuziune în administrarea Ministerului Lucrărilor Publice, Transporturilor şi Locuinţei, precum şi mandatarea acestuia de a iniţia un program prioritar de reconversie funcţională a amplasamentului şi de finalizare a construcţiilor existente | [`hg/2002/82/`](hg/2002/82/) | amended, not consolidated | 1 | 2002-02-12 | 2002-02-12 |
+| Hotărârea Guvernului nr. 83/2002 privind aprobarea Acordului de concesiune pentru explorare, dezvoltare şi exploatare petrolieră în perimetrul E III-5 Focşani, încheiat între Agenţia Naţionala pentru Resurse Minerale şi Compania "Forest Oil Internaţional" | [`hg/2002/83/`](hg/2002/83/) | amending act | 1 | 2002-02-12 | 2002-02-12 |
+| Hotărârea Guvernului nr. 84/2002 privind numirea unui consul general | [`hg/2002/84/`](hg/2002/84/) | in force | 1 | 2002-02-12 | 2002-02-12 |
+| Hotărârea Guvernului nr. 87/2002 privind numirea domnului Florian Serac în funcţia de prefect al judeţului Bihor | [`hg/2002/87/`](hg/2002/87/) | in force | 1 | 2002-02-08 | 2002-02-08 |
+| Hotărârea Guvernului nr. 88/2002 privind numirea domnului Viorel Pupeza în funcţia de prefect al judeţului Bistriţa-Năsăud | [`hg/2002/88/`](hg/2002/88/) | in force | 1 | 2002-02-08 | 2002-02-08 |
+| Hotărârea Guvernului nr. 89/2002 privind numirea domnului Mihai Manea în funcţia de prefect al judeţului Brăila | [`hg/2002/89/`](hg/2002/89/) | in force | 1 | 2002-02-08 | 2002-02-08 |
+| Hotărârea Guvernului nr. 90/2002 privind eliberarea domnului Dumitru Tătaru din funcţia de prefect al judeţului Ilfov | [`hg/2002/90/`](hg/2002/90/) | in force | 1 | 2002-02-08 | 2002-02-08 |
 | Hotărârea Guvernului nr. 93/2002 pentru aprobarea bugetelor de venituri şi cheltuieli pe anul 2002 ale Companiei Naţionale "Imprimeria Naţionala" - S.A. şi Companiei Naţionale "Loteria Română" - S.A., unităţi economice de interes public naţional, aflate sub autoritatea Ministerului Finanţelor Publice | [`hg/2002/93/`](hg/2002/93/) | amending act | 1 | 2002-02-12 | 2002-02-12 |
 | Hotărârea Guvernului nr. 97/2002 privind darea în folosinţa gratuită a unor bunuri imobile, proprietate publică a statului, aflate în administrarea Ministerului Tineretului şi Sportului, unor federaţii sportive naţionale | [`hg/2002/97/`](hg/2002/97/) | amended, not consolidated | 1 | 2002-03-20 | 2002-03-20 |
 | Hotărârea Guvernului nr. 98/2002 pentru modificarea Hotărârii Guvernului nr. 709/2001 privind transmiterea fără plata a Centralei Electrice de Termoficare Reşita din domeniul privat al statului şi din patrimoniul Societăţii Comerciale "Termoelectrica" - S.A. în domeniul privat al statului şi în administrarea Consiliului Local Reşita, judeţul Caraş-Severin | [`hg/2002/98/`](hg/2002/98/) | amending act | 1 | 2002-02-12 | 2002-02-12 |
