@@ -1,6 +1,6 @@
 # Every act in this repository
 
-24596 acts, 38,230 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+24630 acts, 38,264 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3707, of which 2157 amending acts)
+## Laws (legi) (3713, of which 2161 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -620,8 +620,14 @@
 | Legea nr. 350/2005 | [`lege/2005/350/`](lege/2005/350/) | in force | 3 | 2006-01-13 | 2015-05-18 |
 | Legea nr. 372/2005 | [`lege/2005/372/`](lege/2005/372/) | in force | 14 | 2007-01-01 | 2024-07-25 |
 | Legea nr. 395/2005 | [`lege/2005/395/`](lege/2005/395/) | in force | 2 | 2005-12-23 | 2010-11-29 |
+| Legea nr. 397/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 141/2005 pentru ratificarea Protocolului adiţional la Scrisoarea de înţelegere privind controlul drogurilor şi aplicarea legii, semnată la Bucureşti la 3 iulie 2001, dintre Guvernul României şi Guvernul Statelor Unite ale Americii, semnat la Bucureşti la 26 septembrie 2005 | [`lege/2005/397/`](lege/2005/397/) | amending act | 1 | 2006-01-01 | 2006-01-01 |
+| Legea nr. 398/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 136/2005 pentru ratificarea Protocolului adiţional, semnat la Bucureşti la 13 septembrie 2005, la Convenţia dintre Ministerul Administraţiei şi Internelor din România şi Ministerul Afacerilor Externe din Republica Franceză privind condiţiile de funcţionare a cursului internaţional al Şcolii de Aplicaţie pentru Ofiţeri "Mihai Viteazul" a Jandarmeriei Române, semnată la Bucureşti la 11 iulie 2003, şi a Protocolului adiţional, semnat la Bucureşti la 13 septembrie 2005, la Convenţia de finanţare dintre Ministerul Administraţiei şi Internelor din România şi Ministerul Afacerilor Externe din Republica Franceză privind participarea părţii franceze la finanţarea întreţinerii stagiarilor de la cursul internaţional al Şcolii de Aplicaţie pentru Ofiţeri "Mihai Viteazul" a Jandarmeriei Române, semnată la Bucureşti la 11 iulie 2003 | [`lege/2005/398/`](lege/2005/398/) | amending act | 1 | 2006-01-08 | 2006-01-08 |
 | Legea nr. 400/2005 | [`lege/2005/400/`](lege/2005/400/) | in force | 1 | 2006-01-13 | 2006-01-13 |
+| Legea nr. 402/2005 privind înfiinţarea comunei Adăşeni prin reorganizarea comunei Avrămeni, judeţul Botoşani | [`lege/2005/402/`](lege/2005/402/) | in force | 1 | 2006-01-02 | 2006-01-02 |
 | Legea nr. 403/2005 | [`lege/2005/403/`](lege/2005/403/) | in force | 1 | 2006-01-12 | 2006-01-12 |
+| Legea nr. 405/2005 pentru ratificarea Acordului de garanţie dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare referitor la Proiectul de retehnologizare a echipamentelor din Centrala Hidroelectrică Lotru Ciunget, semnat la Bucureşti la 13 iulie 2005 | [`lege/2005/405/`](lege/2005/405/) | in force | 1 | 2006-01-02 | 2006-01-02 |
+| Legea nr. 408/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 95/2005 pentru modificarea art. 4 din Ordonanţa de urgenţă a Guvernului nr. 86/2002 privind înfiinţarea Ghişeului unic în punctele de trecere a frontierei de stat a României | [`lege/2005/408/`](lege/2005/408/) | amending act | 1 | 2006-01-08 | 2006-01-08 |
+| Legea nr. 409/2005 pentru aprobarea Ordonanţei Guvernului nr. 46/2005 privind accelerarea absorbţiei fondurilor SAPARD prin garantarea creditelor de cofinanţare cu activele achiziţionate în cadrul proiectelor SAPARD | [`lege/2005/409/`](lege/2005/409/) | amending act | 1 | 2006-01-08 | 2006-01-08 |
 | Legea nr. 410/2005 | [`lege/2005/410/`](lege/2005/410/) | in force | 1 | 2006-01-12 | 2006-01-12 |
 | Legea nr. 7/2006 | [`lege/2006/7/`](lege/2006/7/) | in force | 14 | 2006-01-19 | 2024-01-01 |
 | Legea nr. 8/2006 | [`lege/2006/8/`](lege/2006/8/) | in force | 8 | 2006-01-20 | 2024-11-11 |
@@ -5481,7 +5487,7 @@
 | Ordonanța de urgență a Guvernului nr. 33/2026 pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr. 69/2000 | [`oug/2026/33/`](oug/2026/33/) | amending act | 1 | 2026-04-27 | 2026-04-27 |
 | Ordonanța de urgență a Guvernului nr. 37/2026 pentru modificarea şi completarea Legii nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor şi protecţia persoanelor | [`oug/2026/37/`](oug/2026/37/) | amending act | 2 | 2026-05-06 | 2026-06-05 |
 
-## Ordinances (OG) (528, of which 108 amending acts)
+## Ordinances (OG) (529, of which 108 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5745,6 +5751,7 @@
 | Ordonanța Guvernului nr. 24/2006 | [`og/2006/24/`](og/2006/24/) | in force | 2 | 2006-02-02 | 2006-07-01 |
 | Ordonanța Guvernului nr. 25/2006 | [`og/2006/25/`](og/2006/25/) | in force | 5 | 2006-03-01 | 2011-06-27 |
 | Ordonanța Guvernului nr. 26/2006 pentru modificarea și completarea Legii bibliotecilor nr. 334/2002 | [`og/2006/26/`](og/2006/26/) | amending act | 2 | 2006-02-02 | 2006-07-13 |
+| Ordonanța Guvernului nr. 29/2006 privind creşterile salariale ce se vor acorda în anul 2006 personalului salarizat potrivit Legii nr. 495/2004 privind salarizarea şi alte drepturi băneşti ale personalului din administraţia centrală a Ministerului Afacerilor Externe şi de la misiunile diplomatice, oficiile consulare şi institutele culturale româneşti din străinătate | [`og/2006/29/`](og/2006/29/) | in force | 1 | 2006-02-03 | 2006-02-03 |
 | Ordonanța Guvernului nr. 30/2006 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 102/2005 privind libera circulație pe teritoriul României a cetățenilor statelor membre ale Uniunii Europene și Spațiului Economic European | [`og/2006/30/`](og/2006/30/) | amending act | 2 | 2007-01-01 | 2007-01-02 |
 | Ordonanța Guvernului nr. 36/2006 | [`og/2006/36/`](og/2006/36/) | in force | 9 | 2006-09-01 | 2022-11-17 |
 | Ordonanța Guvernului nr. 38/2006 | [`og/2006/38/`](og/2006/38/) | in force | 2 | 2006-08-17 | 2007-01-19 |
@@ -6014,7 +6021,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (18591, of which 9526 amending acts)
+## Government decisions (HG) (18618, of which 9546 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6618,10 +6625,22 @@
 | Hotărârea Guvernului nr. 1844/2005 | [`hg/2005/1844/`](hg/2005/1844/) | in force | 2 | 2006-01-18 | 2010-10-24 |
 | Hotărârea Guvernului nr. 1850/2005 | [`hg/2005/1850/`](hg/2005/1850/) | in force | 3 | 2006-01-30 | 2021-10-15 |
 | Hotărârea Guvernului nr. 1854/2005 | [`hg/2005/1854/`](hg/2005/1854/) | in force | 1 | 2006-01-26 | 2006-01-26 |
+| Hotărârea Guvernului nr. 1855/2005 privind stabilirea Criteriilor de acordare a etichetei ecologice pentru serviciile de cazare pentru turişti | [`hg/2005/1855/`](hg/2005/1855/) | in force | 1 | 2006-01-18 | 2006-01-18 |
 | Hotărârea Guvernului nr. 1856/2005 | [`hg/2005/1856/`](hg/2005/1856/) | in force | 2 | 2006-01-11 | 2017-05-05 |
+| Hotărârea Guvernului nr. 1857/2005 pentru aprobarea Înţelegerii privind schimbul de informaţii tehnice şi cooperarea în domeniul securităţii nucleare dintre Comisia Naţională pentru Controlul Activităţilor Nucleare din România (C.N.C.A.N.) şi Comisia pentru Reglementări Nucleare din Statele Unite ale Americii (U.S.N.R.C.), semnată la Viena la 28 septembrie 2005 | [`hg/2005/1857/`](hg/2005/1857/) | amending act | 1 | 2006-01-18 | 2006-01-18 |
+| Hotărârea Guvernului nr. 1859/2005 pentru modificarea şi completarea Normelor metodologice de aplicare a Legii nr. 76/2002 privind sistemul asigurărilor pentru şomaj şi stimularea ocupării forţei de muncă, aprobate prin Hotărârea Guvernului nr. 174/2002 | [`hg/2005/1859/`](hg/2005/1859/) | amending act | 1 | 2006-01-20 | 2006-01-20 |
+| Hotărârea Guvernului nr. 1860/2005 pentru modificarea şi completarea Procedurilor privind accesul la măsurile pentru stimularea ocupării forţei de muncă, modalităţile de finanţare şi instrucţiunile de implementare a acestora, aprobate prin Hotărârea Guvernului nr. 377/2002 | [`hg/2005/1860/`](hg/2005/1860/) | amending act | 1 | 2006-01-13 | 2006-01-13 |
+| Hotărârea Guvernului nr. 1862/2005 pentru aprobarea proiectului "Incinerarea deşeurilor periculoase şi sterilizarea deşeurilor provenite din activităţi medicale" | [`hg/2005/1862/`](hg/2005/1862/) | amending act | 1 | 2006-01-20 | 2006-01-20 |
+| Hotărârea Guvernului nr. 1863/2005 pentru modificarea şi completarea Hotărârii Guvernului nr. 978/2002 privind atestarea domeniului public al judeţului Sibiu, precum şi al municipiilor, oraşelor şi comunelor din judeţul Sibiu | [`hg/2005/1863/`](hg/2005/1863/) | amending act | 1 | 2006-01-20 | 2006-01-20 |
+| Hotărârea Guvernului nr. 1864/2005 privind transmiterea unor imobile, din domeniul public şi privat al statului, din administrarea Ministerului Administraţiei şi Internelor în domeniul public al judeţului Vaslui şi în administrarea Consiliului Judeţean Vaslui | [`hg/2005/1864/`](hg/2005/1864/) | in force | 1 | 2006-01-13 | 2006-01-13 |
+| Hotărârea Guvernului nr. 1866/2005 pentru modificarea şi completarea Hotărârii Guvernului nr. 546/2005 privind aprobarea Strategiei de privatizare a Societăţii Comerciale Filiala de Distribuţie şi Furnizare a Energiei Electrice ”Electrica Muntenia Sud” - S.A., a unor măsuri pentru punerea în aplicare a strategiei, precum şi privind constituirea Comisiei pentru coordonarea privatizării acestei societăţi | [`hg/2005/1866/`](hg/2005/1866/) | amending act | 1 | 2006-01-16 | 2006-01-16 |
+| Hotărârea Guvernului nr. 1868/2005 privind aprobarea şi finanţarea Programului pilot de reabilitare termică a unor clădiri din domeniul public, cu funcţiunea de asistenţă socială şi/sau ocrotirea sănătăţii, aflate în administrarea autorităţilor administraţiei publice locale | [`hg/2005/1868/`](hg/2005/1868/) | amending act | 1 | 2006-01-11 | 2006-01-11 |
 | Hotărârea Guvernului nr. 1872/2005 | [`hg/2005/1872/`](hg/2005/1872/) | in force | 1 | 2006-02-06 | 2006-02-06 |
+| Hotărârea Guvernului nr. 1873/2005 pentru aprobarea Normelor metodologice de aplicare a prevederilor Legii nr. 203/1999 privind permisele de muncă | [`hg/2005/1873/`](hg/2005/1873/) | amending act | 1 | 2006-02-01 | 2006-02-01 |
+| Hotărârea Guvernului nr. 1874/2005 privind modificarea şi completarea Hotărârii Guvernului nr. 1.309/2004 pentru aprobarea Regulamentului de organizare şi funcţionare a Administraţiei Naţionale a Îmbunătăţirilor Funciare | [`hg/2005/1874/`](hg/2005/1874/) | amending act | 1 | 2006-02-02 | 2006-02-02 |
 | Hotărârea Guvernului nr. 1876/2005 | [`hg/2005/1876/`](hg/2005/1876/) | in force | 2 | 2006-09-01 | 2007-07-12 |
 | Hotărârea Guvernului nr. 1878/2005 | [`hg/2005/1878/`](hg/2005/1878/) | in force | 2 | 2006-01-17 | 2009-12-04 |
+| Hotărârea Guvernului nr. 1880/2005 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării "Pasaj denivelat pe DN 71 km 10+400 peste C.F. la Conţeşti" din cadrul obiectivului de investiţii "Pasaj denivelat peste C.F. Bucureşti-Piteşti pe DN 71 km 10+400 la Conţeşti" | [`hg/2005/1880/`](hg/2005/1880/) | in force | 1 | 2006-01-24 | 2006-01-24 |
 | Hotărârea Guvernului nr. 1/2006 | [`hg/2006/1/`](hg/2006/1/) | in force | 1 | 2006-01-06 | 2006-01-06 |
 | Hotărârea Guvernului nr. 29/2006 privind redobândirea cetăţeniei române de către unele persoane | [`hg/2006/29/`](hg/2006/29/) | in force | 1 | 2006-01-17 | 2006-01-17 |
 | Hotărârea Guvernului nr. 37/2006 | [`hg/2006/37/`](hg/2006/37/) | in force | 1 | 2006-01-19 | 2006-01-19 |
@@ -6630,10 +6649,25 @@
 | Hotărârea Guvernului nr. 44/2006 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al comunei Coşteiu, judeţul Timiş, şi în administrarea Consiliului Local al Comunei Coşteiu | [`hg/2006/44/`](hg/2006/44/) | in force | 1 | 2006-01-24 | 2006-01-24 |
 | Hotărârea Guvernului nr. 46/2006 privind înfiinţarea unui post în serviciul extern al Ministerului Apărării Naţionale pe lângă Comandamentul Forţelor Întrunite ale Statelor Unite ale Americii - USJFCOM | [`hg/2006/46/`](hg/2006/46/) | in force | 1 | 2006-01-22 | 2006-01-22 |
 | Hotărârea Guvernului nr. 48/2006 pentru aprobarea efectuării concedierilor colective în baza prevederilor Ordonanţa de urgenta a Guvernului nr. 8/2003 privind stimularea procesului de restructurare, reorganizare şi privatizare a unor societăţi naţionale, companii naţionale şi societăţi comerciale cu capital majoritar de stat, precum şi a societăţilor comerciale şi regiilor autonome subordonate autorităţilor administraţiei publice locale, de către Societatea Comercială "Urbana" - S.A. Zimnicea, judeţul Teleorman | [`hg/2006/48/`](hg/2006/48/) | amending act | 1 | 2006-01-23 | 2006-01-23 |
+| Hotărârea Guvernului nr. 56/2006 pentru modificarea anexei la Hotărârea Guvernului nr. 100/2005 privind numirea reprezentanţilor Guvernului în Consiliul Economic şi Social | [`hg/2006/56/`](hg/2006/56/) | amending act | 1 | 2006-01-31 | 2006-01-31 |
 | Hotărârea Guvernului nr. 58/2006 privind numirea unui consul general | [`hg/2006/58/`](hg/2006/58/) | in force | 1 | 2006-01-24 | 2006-01-24 |
+| Hotărârea Guvernului nr. 62/2006 privind aprobarea stemei oraşului Amara, judeţul Ialomiţa | [`hg/2006/62/`](hg/2006/62/) | amending act | 1 | 2006-01-31 | 2006-01-31 |
+| Hotărârea Guvernului nr. 63/2006 privind aprobarea stemei oraşului Oraviţa, judeţul Caraş-Severin | [`hg/2006/63/`](hg/2006/63/) | amending act | 1 | 2006-01-31 | 2006-01-31 |
+| Hotărârea Guvernului nr. 65/2006 privind aprobarea stemelor comunelor Giurgeni, Movila şi Vlădeni, judeţul Ialomiţa | [`hg/2006/65/`](hg/2006/65/) | amending act | 1 | 2006-01-31 | 2006-01-31 |
+| Hotărârea Guvernului nr. 66/2006 privind aprobarea stemelor comunelor Rusca Montană şi Vrani, judeţul Caraş-Severin | [`hg/2006/66/`](hg/2006/66/) | amending act | 1 | 2006-01-31 | 2006-01-31 |
+| Hotărârea Guvernului nr. 69/2006 pentru completarea Hotărârii Guvernului nr. 975/2002 privind atestarea domeniului public al judeţului Covasna, precum şi al municipiilor, oraşelor şi comunelor din judeţul Covasna | [`hg/2006/69/`](hg/2006/69/) | amending act | 1 | 2006-01-27 | 2006-01-27 |
 | Hotărârea Guvernului nr. 74/2006 privind transmiterea unor imobile din domeniul public al statului şi din administrarea Ministerului Culturii şi Cultelor în domeniul public al judeţului Dâmboviţa şi în administrarea Consiliului Judeţean Dâmboviţa, pentru Complexul Naţional Muzeal "Curtea Domnească" Târgovişte | [`hg/2006/74/`](hg/2006/74/) | in force | 1 | 2006-01-26 | 2006-01-26 |
 | Hotărârea Guvernului nr. 78/2006 pentru modificarea Hotărârii Guvernului nr. 2.251/2004 privind aprobarea Listei societăţilor naţionale, companiilor naţionale şi societăţilor comerciale aflate sub autoritatea sau în coordonarea Ministerului Economiei şi Comerţului, la care se efectuează concedieri colective în anul 2005 şi care vor beneficia de prevederile Ordonanţei de urgenţă a Guvernului nr. 8/2003 privind stimularea procesului de restructurare, reorganizare şi privatizare a unor societăţi naţionale, companii naţionale şi societăţi comerciale cu capital majoritar de stat, precum şi a societăţilor comerciale şi regiilor autonome subordonate autorităţilor administraţiei publice locale | [`hg/2006/78/`](hg/2006/78/) | amending act | 1 | 2006-01-25 | 2006-01-25 |
+| Hotărârea Guvernului nr. 79/2006 privind modificarea art. 5 alin. (2) din Hotărârea Guvernului nr. 69/2005 pentru stabilirea unor măsuri privind cazarea şi transportul persoanelor care ocupă funcţii de demnitate publică numite sau funcţii asimilate funcţiilor de demnitate publică | [`hg/2006/79/`](hg/2006/79/) | amending act | 1 | 2006-01-25 | 2006-01-25 |
+| Hotărârea Guvernului nr. 80/2006 privind aprobarea Acordului de cooperare dintre Ministerul Administraţiei şi Internelor din România şi Ministerul Securităţii Publice din Republica Populară Chineză pentru prevenirea şi combaterea traficului şi consumului ilicit de substanţe stupefiante, psihotrope şi precursori, semnat la Beijing la 14 noiembrie 2005 | [`hg/2006/80/`](hg/2006/80/) | amending act | 1 | 2006-02-03 | 2006-02-03 |
+| Hotărârea Guvernului nr. 81/2006 privind transmiterea unor părţi de imobile din domeniul public al statului şi din administrarea Ministerului Administraţiei şi Internelor în domeniul public al municipiului Drobeta-Turnu Severin şi în administrarea Consiliului Local al Municipiului Drobeta-Turnu Severin | [`hg/2006/81/`](hg/2006/81/) | in force | 1 | 2006-02-08 | 2006-02-08 |
+| Hotărârea Guvernului nr. 83/2006 privind transmiterea, cu titlu gratuit, a unor bunuri intrate în proprietatea privată a statului | [`hg/2006/83/`](hg/2006/83/) | in force | 1 | 2006-01-30 | 2006-01-30 |
+| Hotărârea Guvernului nr. 90/2006 pentru aprobarea Normelor metodologice de aplicare a Ordonanţei Guvernului nr. 16/2002 privind contractele de parteneriat public-privat | [`hg/2006/90/`](hg/2006/90/) | amending act | 1 | 2006-03-30 | 2006-03-30 |
+| Hotărârea Guvernului nr. 91/2006 privind prelungirea dreptului de şedere, din motive umanitare, a unor cetăţeni uzbeci aflaţi temporar pe teritoriul României | [`hg/2006/91/`](hg/2006/91/) | in force | 1 | 2006-01-27 | 2006-01-27 |
+| Hotărârea Guvernului nr. 93/2006 pentru modificarea alin. 3 al art. 4 din Instrucţiunile de metrologie legală IML 8-01 "Preambalarea unor produse în funcţie de masă sau volum", aprobate prin Hotărârea Guvernului nr. 530/2001 | [`hg/2006/93/`](hg/2006/93/) | amending act | 1 | 2006-02-03 | 2006-02-03 |
 | Hotărârea Guvernului nr. 94/2006 | [`hg/2006/94/`](hg/2006/94/) | in force | 1 | 2006-01-29 | 2006-01-29 |
+| Hotărârea Guvernului nr. 100/2006 privind numirea domnului Nicolae Alexandri în funcţia publică de subprefect al judeţului Prahova | [`hg/2006/100/`](hg/2006/100/) | in force | 1 | 2006-02-01 | 2006-02-01 |
+| Hotărârea Guvernului nr. 104/2006 pentru aprobarea efectuării concedierilor colective în baza prevederilor Ordonanţei de urgenţă a Guvernului nr. 8/2003 privind stimularea procesului de restructurare, reorganizare şi privatizare a unor societăţi naţionale, companii naţionale şi societăţi comerciale cu capital majoritar de stat, precum şi a societăţilor comerciale şi regiilor autonome subordonate autorităţilor administraţiei publice locale, de către Societatea Comercială "TERMSAL" - S.A. Tecuci | [`hg/2006/104/`](hg/2006/104/) | amending act | 1 | 2006-02-03 | 2006-02-03 |
 | Hotărârea Guvernului nr. 109/2006 privind modificarea Hotărârii Guvernului nr. 276/2005 pentru aprobarea Programului privind sprijinirea producătorilor agricoli pentru achiziţionarea de tractoare agricole noi, combine noi de recoltat cereale şi maşini agricole noi care lucrează în agregat cu tractoarele, cu finanţare de la bugetul de stat | [`hg/2006/109/`](hg/2006/109/) | amending act | 1 | 2006-02-03 | 2006-02-03 |
 | Hotărârea Guvernului nr. 110/2006 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2006 al Autorităţii Naţionale de Reglementare în Domeniul Energiei | [`hg/2006/110/`](hg/2006/110/) | amending act | 1 | 2006-02-02 | 2006-02-02 |
 | Hotărârea Guvernului nr. 112/2006 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2006 al Autorităţii Naţionale de Reglementare în Domeniul Gazelor Naturale | [`hg/2006/112/`](hg/2006/112/) | amending act | 1 | 2006-02-01 | 2006-02-01 |

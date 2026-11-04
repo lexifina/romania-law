@@ -99350,6 +99350,21 @@
    ]
   },
   {
+   "slug": "hg-100-2006",
+   "path": "hg/2006/100",
+   "short": "HG nr. 100/2006",
+   "title": "Hotărârea Guvernului nr. 100/2006 privind numirea domnului Nicolae Alexandri în funcţia publică de subprefect al judeţului Prahova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68510",
+   "versions": [
+    {
+     "from": "2006-02-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68510",
+     "sha256": "fe55d1e302c83a7867bd39b936f48d3de99dde9bfb03b7afb1a9b3d3c07d83e3"
+    }
+   ]
+  },
+  {
    "slug": "hg-100-2011",
    "path": "hg/2011/100",
    "short": "HG nr. 100/2011",
@@ -107308,6 +107323,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287713",
      "sha256": "a65f5dcb6b5a67102791f9a1a603e16fe658f54e5464578a2050b837089bfc1a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-104-2006",
+   "path": "hg/2006/104",
+   "short": "HG nr. 104/2006",
+   "title": "Hotărârea Guvernului nr. 104/2006 pentru aprobarea efectuării concedierilor colective în baza prevederilor Ordonanţei de urgenţă a Guvernului nr. 8/2003 privind stimularea procesului de restructurare, reorganizare şi privatizare a unor societăţi naţionale, companii naţionale şi societăţi comerciale cu capital majoritar de stat, precum şi a societăţilor comerciale şi regiilor autonome subordonate autorităţilor administraţiei publice locale, de către Societatea Comercială \"TERMSAL\" - S.A. Tecuci",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68633",
+   "versions": [
+    {
+     "from": "2006-02-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68633",
+     "sha256": "dac9bca69dd59cc8287c8c6526763e1884437f27bad473c6d8bda9d95fa5987f"
     }
    ]
   },
@@ -182771,6 +182801,21 @@
    ]
   },
   {
+   "slug": "hg-1855-2005",
+   "path": "hg/2005/1855",
+   "short": "HG nr. 1855/2005",
+   "title": "Hotărârea Guvernului nr. 1855/2005 privind stabilirea Criteriilor de acordare a etichetei ecologice pentru serviciile de cazare pentru turişti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67994",
+   "versions": [
+    {
+     "from": "2006-01-18",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67994",
+     "sha256": "a8ed846de90fba74c5175b03d32651b4024e9de5b3a0bd5429ea323ac2ac5858"
+    }
+   ]
+  },
+  {
    "slug": "hg-1856-2005",
    "path": "hg/2005/1856",
    "short": "HG nr. 1856/2005",
@@ -182788,6 +182833,36 @@
      "units": 26,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67781",
      "sha256": "b860b17ec7589535ec56deea8401cdcfd07811b92715cca70dc79fe4c2d8b01e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1857-2005",
+   "path": "hg/2005/1857",
+   "short": "HG nr. 1857/2005",
+   "title": "Hotărârea Guvernului nr. 1857/2005 pentru aprobarea Înţelegerii privind schimbul de informaţii tehnice şi cooperarea în domeniul securităţii nucleare dintre Comisia Naţională pentru Controlul Activităţilor Nucleare din România (C.N.C.A.N.) şi Comisia pentru Reglementări Nucleare din Statele Unite ale Americii (U.S.N.R.C.), semnată la Viena la 28 septembrie 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67992",
+   "versions": [
+    {
+     "from": "2006-01-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67992",
+     "sha256": "f4e9e5a1f92a068edc9c6244f441975d0bc6f127a6aeb0427e888268d2f25d44"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1859-2005",
+   "path": "hg/2005/1859",
+   "short": "HG nr. 1859/2005",
+   "title": "Hotărârea Guvernului nr. 1859/2005 pentru modificarea şi completarea Normelor metodologice de aplicare a Legii nr. 76/2002 privind sistemul asigurărilor pentru şomaj şi stimularea ocupării forţei de muncă, aprobate prin Hotărârea Guvernului nr. 174/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68084",
+   "versions": [
+    {
+     "from": "2006-01-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68084",
+     "sha256": "d54ce7a8b4c7b3dcfc2340c9f474ee2bd6259e4d9bbfdcbeb894ffcdeea4b458"
     }
    ]
   },
@@ -182972,6 +183047,81 @@
    ]
   },
   {
+   "slug": "hg-1860-2005",
+   "path": "hg/2005/1860",
+   "short": "HG nr. 1860/2005",
+   "title": "Hotărârea Guvernului nr. 1860/2005 pentru modificarea şi completarea Procedurilor privind accesul la măsurile pentru stimularea ocupării forţei de muncă, modalităţile de finanţare şi instrucţiunile de implementare a acestora, aprobate prin Hotărârea Guvernului nr. 377/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67855",
+   "versions": [
+    {
+     "from": "2006-01-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67855",
+     "sha256": "b8c4e698c7fbc28c9f5512b6cbb78fddea21eb3350cc5d52ccc7af958a9a0121"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1862-2005",
+   "path": "hg/2005/1862",
+   "short": "HG nr. 1862/2005",
+   "title": "Hotărârea Guvernului nr. 1862/2005 pentru aprobarea proiectului \"Incinerarea deşeurilor periculoase şi sterilizarea deşeurilor provenite din activităţi medicale\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68073",
+   "versions": [
+    {
+     "from": "2006-01-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68073",
+     "sha256": "0ae09197f2d14cde629123ee310d8677b4659533dd8ae3b1edd9d630bf60e3da"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1863-2005",
+   "path": "hg/2005/1863",
+   "short": "HG nr. 1863/2005",
+   "title": "Hotărârea Guvernului nr. 1863/2005 pentru modificarea şi completarea Hotărârii Guvernului nr. 978/2002 privind atestarea domeniului public al judeţului Sibiu, precum şi al municipiilor, oraşelor şi comunelor din judeţul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68078",
+   "versions": [
+    {
+     "from": "2006-01-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68078",
+     "sha256": "07d8eeb9acaa7b56faa038d4b0e1cf4553c7aacf671e0ec0fd861a60cd5c097a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1864-2005",
+   "path": "hg/2005/1864",
+   "short": "HG nr. 1864/2005",
+   "title": "Hotărârea Guvernului nr. 1864/2005 privind transmiterea unor imobile, din domeniul public şi privat al statului, din administrarea Ministerului Administraţiei şi Internelor în domeniul public al judeţului Vaslui şi în administrarea Consiliului Judeţean Vaslui",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67845",
+   "versions": [
+    {
+     "from": "2006-01-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67845",
+     "sha256": "941294d7b95c7dd19aa37975028fd9f2fecde991faaa3f2ff641ab8a09850e5c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1866-2005",
+   "path": "hg/2005/1866",
+   "short": "HG nr. 1866/2005",
+   "title": "Hotărârea Guvernului nr. 1866/2005 pentru modificarea şi completarea Hotărârii Guvernului nr. 546/2005 privind aprobarea Strategiei de privatizare a Societăţii Comerciale Filiala de Distribuţie şi Furnizare a Energiei Electrice ”Electrica Muntenia Sud” - S.A., a unor măsuri pentru punerea în aplicare a strategiei, precum şi privind constituirea Comisiei pentru coordonarea privatizării acestei societăţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67884",
+   "versions": [
+    {
+     "from": "2006-01-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67884",
+     "sha256": "9bf0893bd5ba10b049a306673b8360adbc73fc7bca612af4a04f34bb59293e99"
+    }
+   ]
+  },
+  {
    "slug": "hg-1866-2006",
    "path": "hg/2006/1866",
    "short": "HG nr. 1866/2006",
@@ -182998,6 +183148,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78374",
      "sha256": "7f40388fb83aa0d8aeac40a3e091a7847008b5cbf09d867cda1b26e1d3421e1f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1868-2005",
+   "path": "hg/2005/1868",
+   "short": "HG nr. 1868/2005",
+   "title": "Hotărârea Guvernului nr. 1868/2005 privind aprobarea şi finanţarea Programului pilot de reabilitare termică a unor clădiri din domeniul public, cu funcţiunea de asistenţă socială şi/sau ocrotirea sănătăţii, aflate în administrarea autorităţilor administraţiei publice locale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67852",
+   "versions": [
+    {
+     "from": "2006-01-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67852",
+     "sha256": "6b2760493be6eae8948fe36bc32aaaad2182839d44a69d9d90d81bd4e5166fd7"
     }
    ]
   },
@@ -183227,6 +183392,21 @@
    ]
   },
   {
+   "slug": "hg-1873-2005",
+   "path": "hg/2005/1873",
+   "short": "HG nr. 1873/2005",
+   "title": "Hotărârea Guvernului nr. 1873/2005 pentru aprobarea Normelor metodologice de aplicare a prevederilor Legii nr. 203/1999 privind permisele de muncă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68494",
+   "versions": [
+    {
+     "from": "2006-02-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68494",
+     "sha256": "c6d9bf199d4a27e1be4705f6c8fc07e36fafd922732779017e92a6977d865a68"
+    }
+   ]
+  },
+  {
    "slug": "hg-1873-2006",
    "path": "hg/2006/1873",
    "short": "HG nr. 1873/2006",
@@ -183238,6 +183418,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78324",
      "sha256": "d759aea8118f3dc4ea0cb603d9f4a822c1db1138fc1767fb622cb6b788503725"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1874-2005",
+   "path": "hg/2005/1874",
+   "short": "HG nr. 1874/2005",
+   "title": "Hotărârea Guvernului nr. 1874/2005 privind modificarea şi completarea Hotărârii Guvernului nr. 1.309/2004 pentru aprobarea Regulamentului de organizare şi funcţionare a Administraţiei Naţionale a Îmbunătăţirilor Funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68690",
+   "versions": [
+    {
+     "from": "2006-02-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68690",
+     "sha256": "24ed5e589b55417f1baefa4cc278e11bc8f5256bca68be2664cce6e8c20953f3"
     }
    ]
   },
@@ -183520,6 +183715,21 @@
      "units": 24,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295124",
      "sha256": "4631e5e33f99916336d346b926b48cd0e98032e373e13901a27567e022662110"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1880-2005",
+   "path": "hg/2005/1880",
+   "short": "HG nr. 1880/2005",
+   "title": "Hotărârea Guvernului nr. 1880/2005 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării \"Pasaj denivelat pe DN 71 km 10+400 peste C.F. la Conţeşti\" din cadrul obiectivului de investiţii \"Pasaj denivelat peste C.F. Bucureşti-Piteşti pe DN 71 km 10+400 la Conţeşti\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68149",
+   "versions": [
+    {
+     "from": "2006-01-24",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68149",
+     "sha256": "898de092e52eff18ef91a39a37f38510b15e2619b76674965391b5eedf6080f6"
     }
    ]
   },
@@ -268421,6 +268631,21 @@
    ]
   },
   {
+   "slug": "hg-56-2006",
+   "path": "hg/2006/56",
+   "short": "HG nr. 56/2006",
+   "title": "Hotărârea Guvernului nr. 56/2006 pentru modificarea anexei la Hotărârea Guvernului nr. 100/2005 privind numirea reprezentanţilor Guvernului în Consiliul Economic şi Social",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68366",
+   "versions": [
+    {
+     "from": "2006-01-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68366",
+     "sha256": "bce8c0b89a270b0e01858946a905f0024a771a78eee0bc7af9db0ac8cd4871d5"
+    }
+   ]
+  },
+  {
    "slug": "hg-56-2009",
    "path": "hg/2009/56",
    "short": "HG nr. 56/2009",
@@ -282656,6 +282881,21 @@
    ]
   },
   {
+   "slug": "hg-62-2006",
+   "path": "hg/2006/62",
+   "short": "HG nr. 62/2006",
+   "title": "Hotărârea Guvernului nr. 62/2006 privind aprobarea stemei oraşului Amara, judeţul Ialomiţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68403",
+   "versions": [
+    {
+     "from": "2006-01-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68403",
+     "sha256": "c426f10ab633af925073aa627ce58b7baff8b7b7510409853657502ae7687124"
+    }
+   ]
+  },
+  {
    "slug": "hg-62-2009",
    "path": "hg/2009/62",
    "short": "HG nr. 62/2009",
@@ -284908,6 +285148,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/300520",
      "sha256": "0c786d781ac6fdcee84b4535c5128f6e3868116f0ed018549fba3b4613ad2d6f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-63-2006",
+   "path": "hg/2006/63",
+   "short": "HG nr. 63/2006",
+   "title": "Hotărârea Guvernului nr. 63/2006 privind aprobarea stemei oraşului Oraviţa, judeţul Caraş-Severin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68404",
+   "versions": [
+    {
+     "from": "2006-01-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68404",
+     "sha256": "8e0ab7db9b98cca61c4b91d54c7ef065f57ff86377fb2e13f65c9ef2d42e6d3f"
     }
    ]
   },
@@ -289448,6 +289703,21 @@
    ]
   },
   {
+   "slug": "hg-65-2006",
+   "path": "hg/2006/65",
+   "short": "HG nr. 65/2006",
+   "title": "Hotărârea Guvernului nr. 65/2006 privind aprobarea stemelor comunelor Giurgeni, Movila şi Vlădeni, judeţul Ialomiţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68406",
+   "versions": [
+    {
+     "from": "2006-01-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68406",
+     "sha256": "515de4c2fc3c99837791846a6ece34d12a99777ac183fa54db1af1b1612532b9"
+    }
+   ]
+  },
+  {
    "slug": "hg-65-2007",
    "path": "hg/2007/65",
    "short": "HG nr. 65/2007",
@@ -291859,6 +292129,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301387",
      "sha256": "e0b5cbf709718e49a2146e90109297220bcf0ab3bb6c432db2fc638dca5fb4ea"
+    }
+   ]
+  },
+  {
+   "slug": "hg-66-2006",
+   "path": "hg/2006/66",
+   "short": "HG nr. 66/2006",
+   "title": "Hotărârea Guvernului nr. 66/2006 privind aprobarea stemelor comunelor Rusca Montană şi Vrani, judeţul Caraş-Severin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68407",
+   "versions": [
+    {
+     "from": "2006-01-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68407",
+     "sha256": "73f747801c58a7532fb728d1d47bd0d0581f8698077eb903881db204ef39390c"
     }
    ]
   },
@@ -298672,6 +298957,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301627",
      "sha256": "215fe1792fb48b79ff3df3fad28ae82e23dfbed8e54ebd620ed5733b667fa8b5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-69-2006",
+   "path": "hg/2006/69",
+   "short": "HG nr. 69/2006",
+   "title": "Hotărârea Guvernului nr. 69/2006 pentru completarea Hotărârii Guvernului nr. 975/2002 privind atestarea domeniului public al judeţului Covasna, precum şi al municipiilor, oraşelor şi comunelor din judeţul Covasna",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68310",
+   "versions": [
+    {
+     "from": "2006-01-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68310",
+     "sha256": "8bc25811ae718d4b15e3dd6670284b59722d6e080bfac1bfab0399dda7a6b3c9"
     }
    ]
   },
@@ -321404,6 +321704,21 @@
    ]
   },
   {
+   "slug": "hg-79-2006",
+   "path": "hg/2006/79",
+   "short": "HG nr. 79/2006",
+   "title": "Hotărârea Guvernului nr. 79/2006 privind modificarea art. 5 alin. (2) din Hotărârea Guvernului nr. 69/2005 pentru stabilirea unor măsuri privind cazarea şi transportul persoanelor care ocupă funcţii de demnitate publică numite sau funcţii asimilate funcţiilor de demnitate publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68153",
+   "versions": [
+    {
+     "from": "2006-01-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68153",
+     "sha256": "47820c42c7c2354c1a03933d05e4f66efa52cb0ee78bacf9d5a5d0a2d8f69d5a"
+    }
+   ]
+  },
+  {
    "slug": "hg-79-2007",
    "path": "hg/2007/79",
    "short": "HG nr. 79/2007",
@@ -323824,6 +324139,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293679",
      "sha256": "9b5e52633e0616ca7a5c6c48e3dccff0a2b99833a3b71bf3cc824cd3dd3f3af3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-80-2006",
+   "path": "hg/2006/80",
+   "short": "HG nr. 80/2006",
+   "title": "Hotărârea Guvernului nr. 80/2006 privind aprobarea Acordului de cooperare dintre Ministerul Administraţiei şi Internelor din România şi Ministerul Securităţii Publice din Republica Populară Chineză pentru prevenirea şi combaterea traficului şi consumului ilicit de substanţe stupefiante, psihotrope şi precursori, semnat la Beijing la 14 noiembrie 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68624",
+   "versions": [
+    {
+     "from": "2006-02-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68624",
+     "sha256": "35fe893085910c759399579c0af0b26c8bb98d242cfeabef0c1fcb276e164fca"
     }
    ]
   },
@@ -326293,6 +326623,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302723",
      "sha256": "167de49b78010caf3fadecc8608b89bd6a6f282ec2a182b49e72f1c9b8e268bc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-81-2006",
+   "path": "hg/2006/81",
+   "short": "HG nr. 81/2006",
+   "title": "Hotărârea Guvernului nr. 81/2006 privind transmiterea unor părţi de imobile din domeniul public al statului şi din administrarea Ministerului Administraţiei şi Internelor în domeniul public al municipiului Drobeta-Turnu Severin şi în administrarea Consiliului Local al Municipiului Drobeta-Turnu Severin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68752",
+   "versions": [
+    {
+     "from": "2006-02-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68752",
+     "sha256": "d6232755069f243c868a48c6e7ba96a02497b63b95ce4416dc4b88bf077b1be5"
     }
    ]
   },
@@ -330931,6 +331276,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285463",
      "sha256": "70a15fbd679500148f98e4d88432e47fcd9f97bcba49dd616e83d7d10585f22f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-83-2006",
+   "path": "hg/2006/83",
+   "short": "HG nr. 83/2006",
+   "title": "Hotărârea Guvernului nr. 83/2006 privind transmiterea, cu titlu gratuit, a unor bunuri intrate în proprietatea privată a statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68330",
+   "versions": [
+    {
+     "from": "2006-01-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68330",
+     "sha256": "97c8b5aa2b20e8e5247596c9ce1ef91d5318b1eb142e90957d9e3b731d3ddab5"
     }
    ]
   },
@@ -347780,6 +348140,21 @@
    ]
   },
   {
+   "slug": "hg-90-2006",
+   "path": "hg/2006/90",
+   "short": "HG nr. 90/2006",
+   "title": "Hotărârea Guvernului nr. 90/2006 pentru aprobarea Normelor metodologice de aplicare a Ordonanţei Guvernului nr. 16/2002 privind contractele de parteneriat public-privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70391",
+   "versions": [
+    {
+     "from": "2006-03-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70391",
+     "sha256": "87b84ef3ab85dd9e383ba29c8eca7e5191f279496e7483c8351f935b70e712d2"
+    }
+   ]
+  },
+  {
    "slug": "hg-90-2007",
    "path": "hg/2007/90",
    "short": "HG nr. 90/2007",
@@ -350266,6 +350641,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303743",
      "sha256": "077aa2f639d1d731d1351be54038673594fc4afab0b666cca0c5941ac6849f3b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-91-2006",
+   "path": "hg/2006/91",
+   "short": "HG nr. 91/2006",
+   "title": "Hotărârea Guvernului nr. 91/2006 privind prelungirea dreptului de şedere, din motive umanitare, a unor cetăţeni uzbeci aflaţi temporar pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68261",
+   "versions": [
+    {
+     "from": "2006-01-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68261",
+     "sha256": "c77ac4c1b971655633e76eab05163522535afb80837dfe200801aec8511828c1"
     }
    ]
   },
@@ -354925,6 +355315,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304027",
      "sha256": "7cd95057bfe51852a73a48e3058d952099c32d5f8dee234c3be8b7f33751ac32"
+    }
+   ]
+  },
+  {
+   "slug": "hg-93-2006",
+   "path": "hg/2006/93",
+   "short": "HG nr. 93/2006",
+   "title": "Hotărârea Guvernului nr. 93/2006 pentru modificarea alin. 3 al art. 4 din Instrucţiunile de metrologie legală IML 8-01 \"Preambalarea unor produse în funcţie de masă sau volum\", aprobate prin Hotărârea Guvernului nr. 530/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68626",
+   "versions": [
+    {
+     "from": "2006-02-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68626",
+     "sha256": "ced103c7dc14e5f0989bdde90ce51e7e3c4b21a42e8bf30eb7a4638ffb61b206"
     }
    ]
   },
@@ -409844,6 +410249,36 @@
    ]
   },
   {
+   "slug": "legea-397-2005",
+   "path": "lege/2005/397",
+   "short": "Legea nr. 397/2005",
+   "title": "Legea nr. 397/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 141/2005 pentru ratificarea Protocolului adiţional la Scrisoarea de înţelegere privind controlul drogurilor şi aplicarea legii, semnată la Bucureşti la 3 iulie 2001, dintre Guvernul României şi Guvernul Statelor Unite ale Americii, semnat la Bucureşti la 26 septembrie 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67490",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67490",
+     "sha256": "c5fc1c9a5e049b17c2e19229a7c4659da1aa66917261f66d90fbb376312a9223"
+    }
+   ]
+  },
+  {
+   "slug": "legea-398-2005",
+   "path": "lege/2005/398",
+   "short": "Legea nr. 398/2005",
+   "title": "Legea nr. 398/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 136/2005 pentru ratificarea Protocolului adiţional, semnat la Bucureşti la 13 septembrie 2005, la Convenţia dintre Ministerul Administraţiei şi Internelor din România şi Ministerul Afacerilor Externe din Republica Franceză privind condiţiile de funcţionare a cursului internaţional al Şcolii de Aplicaţie pentru Ofiţeri \"Mihai Viteazul\" a Jandarmeriei Române, semnată la Bucureşti la 11 iulie 2003, şi a Protocolului adiţional, semnat la Bucureşti la 13 septembrie 2005, la Convenţia de finanţare dintre Ministerul Administraţiei şi Internelor din România şi Ministerul Afacerilor Externe din Republica Franceză privind participarea părţii franceze la finanţarea întreţinerii stagiarilor de la cursul internaţional al Şcolii de Aplicaţie pentru Ofiţeri \"Mihai Viteazul\" a Jandarmeriei Române, semnată la Bucureşti la 11 iulie 2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67684",
+   "versions": [
+    {
+     "from": "2006-01-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67684",
+     "sha256": "0265aefa921ba036cb456887cbb05ea0dc8be6263993c63fe87322ff16c2f156"
+    }
+   ]
+  },
+  {
    "slug": "legea-398-2006",
    "path": "lege/2006/398",
    "short": "Legea nr. 398/2006",
@@ -410069,6 +410504,21 @@
    ]
   },
   {
+   "slug": "legea-402-2005",
+   "path": "lege/2005/402",
+   "short": "Legea nr. 402/2005",
+   "title": "Legea nr. 402/2005 privind înfiinţarea comunei Adăşeni prin reorganizarea comunei Avrămeni, judeţul Botoşani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67538",
+   "versions": [
+    {
+     "from": "2006-01-02",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67538",
+     "sha256": "48d1c215abc97e88f0c7b2d210cc4d2f00211465a8c8639b7e3010d3d33495dc"
+    }
+   ]
+  },
+  {
    "slug": "legea-402-2006",
    "path": "lege/2006/402",
    "short": "Legea nr. 402/2006",
@@ -410135,6 +410585,21 @@
    ]
   },
   {
+   "slug": "legea-405-2005",
+   "path": "lege/2005/405",
+   "short": "Legea nr. 405/2005",
+   "title": "Legea nr. 405/2005 pentru ratificarea Acordului de garanţie dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare referitor la Proiectul de retehnologizare a echipamentelor din Centrala Hidroelectrică Lotru Ciunget, semnat la Bucureşti la 13 iulie 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67531",
+   "versions": [
+    {
+     "from": "2006-01-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67531",
+     "sha256": "6658b1d5608925e33bc28b875b018768647232b333c57d3db5e8d20b5f0dd837"
+    }
+   ]
+  },
+  {
    "slug": "legea-405-2023",
    "path": "lege/2023/405",
    "short": "Legea nr. 405/2023",
@@ -410195,6 +410660,21 @@
    ]
   },
   {
+   "slug": "legea-408-2005",
+   "path": "lege/2005/408",
+   "short": "Legea nr. 408/2005",
+   "title": "Legea nr. 408/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 95/2005 pentru modificarea art. 4 din Ordonanţa de urgenţă a Guvernului nr. 86/2002 privind înfiinţarea Ghişeului unic în punctele de trecere a frontierei de stat a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67668",
+   "versions": [
+    {
+     "from": "2006-01-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67668",
+     "sha256": "23ed0fa6efbaae6258dbb0ab9e7197adcb3ae75acfab9fd5f6bae00fa5e31ab7"
+    }
+   ]
+  },
+  {
    "slug": "legea-408-2006",
    "path": "lege/2006/408",
    "short": "Legea nr. 408/2006",
@@ -410221,6 +410701,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277478",
      "sha256": "3f8bf2631ac88e95c3b0217b0eb34c64d4081c3815100f2f45b96b50ad3d3070"
+    }
+   ]
+  },
+  {
+   "slug": "legea-409-2005",
+   "path": "lege/2005/409",
+   "short": "Legea nr. 409/2005",
+   "title": "Legea nr. 409/2005 pentru aprobarea Ordonanţei Guvernului nr. 46/2005 privind accelerarea absorbţiei fondurilor SAPARD prin garantarea creditelor de cofinanţare cu activele achiziţionate în cadrul proiectelor SAPARD",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67670",
+   "versions": [
+    {
+     "from": "2006-01-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67670",
+     "sha256": "3cc85c3c5d43ab0d5b0954bd45504dc55831e8f7909603608978f4dfd034163b"
     }
    ]
   },
@@ -421897,6 +422392,21 @@
      "units": 9,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/49089",
      "sha256": "ca39dd1e38d0802f086950a2d776721d18d14b4f4bf69db579193889bd350a1d"
+    }
+   ]
+  },
+  {
+   "slug": "og-29-2006",
+   "path": "og/2006/29",
+   "short": "OG nr. 29/2006",
+   "title": "Ordonanța Guvernului nr. 29/2006 privind creşterile salariale ce se vor acorda în anul 2006 personalului salarizat potrivit Legii nr. 495/2004 privind salarizarea şi alte drepturi băneşti ale personalului din administraţia centrală a Ministerului Afacerilor Externe şi de la misiunile diplomatice, oficiile consulare şi institutele culturale româneşti din străinătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68375",
+   "versions": [
+    {
+     "from": "2006-02-03",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68375",
+     "sha256": "6f7884c37e2c4344a0db4f721145cc7982d635a1ffd8861284a5f9a26c872c21"
     }
    ]
   },
