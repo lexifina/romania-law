@@ -1,6 +1,6 @@
 # Every act in this repository
 
-27626 acts, 41,269 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+27646 acts, 41,289 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -5862,7 +5862,7 @@
 | Ordonanța de urgență a Guvernului nr. 33/2026 pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr. 69/2000 | [`oug/2026/33/`](oug/2026/33/) | amending act | 1 | 2026-04-27 | 2026-04-27 |
 | Ordonanța de urgență a Guvernului nr. 37/2026 pentru modificarea şi completarea Legii nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor şi protecţia persoanelor | [`oug/2026/37/`](oug/2026/37/) | amending act | 2 | 2026-05-06 | 2026-06-05 |
 
-## Ordinances (OG) (534, of which 111 amending acts)
+## Ordinances (OG) (535, of which 112 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6085,6 +6085,7 @@
 | Ordonanța Guvernului nr. 59/2004 | [`og/2004/59/`](og/2004/59/) | in force | 5 | 2004-08-09 | 2005-11-29 |
 | Ordonanța Guvernului nr. 67/2004 | [`og/2004/67/`](og/2004/67/) | in force | 2 | 2005-01-01 | 2005-01-01 |
 | Ordonanța Guvernului nr. 72/2004 | [`og/2004/72/`](og/2004/72/) | in force | 3 | 2004-08-30 | 2005-03-18 |
+| Ordonanța Guvernului nr. 73/2004 pentru abrogarea art. 11 alin. (2) din Ordonanţa Guvernului nr. 44/2004 privind integrarea socială a străinilor care au dobândit o formă de protecţie în România | [`og/2004/73/`](og/2004/73/) | amending act | 1 | 2004-08-29 | 2004-08-29 |
 | Ordonanța Guvernului nr. 77/2004 | [`og/2004/77/`](og/2004/77/) | in force | 3 | 2004-08-30 | 2005-12-30 |
 | Ordonanța Guvernului nr. 79/2004 | [`og/2004/79/`](og/2004/79/) | in force | 3 | 2004-09-26 | 2006-05-21 |
 | Ordonanța Guvernului nr. 81/2004 | [`og/2004/81/`](og/2004/81/) | in force | 2 | 2004-08-30 | 2004-11-22 |
@@ -6401,7 +6402,7 @@
 | Ordonanța Guvernului nr. 3/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 70/2022 privind prevenirea, verificarea şi constatarea neregulilor/dublei finanţări, a neregulilor grave apărute în obţinerea şi utilizarea fondurilor externe nerambursabile/rambursabile alocate României prin Mecanismul de redresare şi rezilienţă şi/sau a fondurilor publice naţionale aferente acestora şi recuperarea creanţelor rezultate | [`og/2026/3/`](og/2026/3/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (21234, of which 10947 amending acts)
+## Government decisions (HG) (21253, of which 10952 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6852,8 +6853,27 @@
 | Hotărârea Guvernului nr. 1265/2004 | [`hg/2004/1265/`](hg/2004/1265/) | in force | 1 | 2004-08-25 | 2004-08-25 |
 | Hotărârea Guvernului nr. 1266/2004 | [`hg/2004/1266/`](hg/2004/1266/) | in force | 2 | 2004-08-25 | 2006-08-04 |
 | Hotărârea Guvernului nr. 1294/2004 | [`hg/2004/1294/`](hg/2004/1294/) | in force | 1 | 2004-08-27 | 2004-08-27 |
+| Hotărârea Guvernului nr. 1297/2004 privind indexarea pensiilor din sistemul public de pensii şi a unor venituri ale populaţiei începând cu luna septembrie 2004 | [`hg/2004/1297/`](hg/2004/1297/) | in force | 1 | 2004-08-27 | 2004-08-27 |
+| Hotărârea Guvernului nr. 1298/2004 pentru modificarea anexei nr. 7 la Hotărârea Guvernului nr. 344/2004 privind stabilirea condiţiilor de introducere pe piaţă şi/sau de punere în funcţiune a dispozitivelor medicale implantabile active | [`hg/2004/1298/`](hg/2004/1298/) | amending act | 1 | 2004-08-27 | 2004-08-27 |
+| Hotărârea Guvernului nr. 1299/2004 privind înfiinţarea unui compartiment de specialitate pentru perfecţionarea personalului din horticultură în structura Agenţiei Naţionale de Consultanţă Agricolă, prin reorganizarea Centrului de Perfecţionare a Personalului din Horticultură Uzunu | [`hg/2004/1299/`](hg/2004/1299/) | in force | 1 | 2004-08-31 | 2004-08-31 |
+| Hotărârea Guvernului nr. 1300/2004 privind sprijinul acordat Asociaţiei Naţionale a Veteranilor de Război pentru activităţi iniţiate de aceasta cu ocazia împlinirii a 60 de ani de la alăturarea României la Coaliţia Naţiunilor Unite | [`hg/2004/1300/`](hg/2004/1300/) | in force | 1 | 2004-08-20 | 2004-08-20 |
 | Hotărârea Guvernului nr. 1301/2004 | [`hg/2004/1301/`](hg/2004/1301/) | in force | 1 | 2004-08-20 | 2004-08-20 |
+| Hotărârea Guvernului nr. 1302/2004 privind redobândirea cetăţeniei române de către unele persoane | [`hg/2004/1302/`](hg/2004/1302/) | in force | 1 | 2004-08-25 | 2004-08-25 |
+| Hotărârea Guvernului nr. 1303/2004 privind exceptarea unilaterală a cetăţenilor Principatului Andorra de la obligativitatea obţinerii vizei de intrare în România, începând cu data de 1 septembrie 2004 | [`hg/2004/1303/`](hg/2004/1303/) | in force | 1 | 2004-08-25 | 2004-08-25 |
+| Hotărârea Guvernului nr. 1306/2004 privind aprobarea efectuării concedierilor colective în baza prevederilor Ordonanţei de urgenţă a Guvernului nr. 8/2003 privind stimularea procesului de restructurare, reorganizare şi privatizare a unor societăţi naţionale, companii naţionale şi societăţi comerciale cu capital majoritar de stat, precum şi a societăţilor şi regiilor autonome subordonate autorităţilor administraţiei publice locale, de către Regia Autonomă de Distribuţie a Energiei Termice Bucureşti | [`hg/2004/1306/`](hg/2004/1306/) | amending act | 1 | 2004-08-25 | 2004-08-25 |
 | Hotărârea Guvernului nr. 1309/2004 | [`hg/2004/1309/`](hg/2004/1309/) | in force | 2 | 2004-09-01 | 2006-02-02 |
+| Hotărârea Guvernului nr. 1310/2004 privind suplimentarea bugetului Ministerului Transporturilor, Construcţiilor şi Turismului din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004 | [`hg/2004/1310/`](hg/2004/1310/) | in force | 1 | 2004-08-25 | 2004-08-25 |
+| Hotărârea Guvernului nr. 1311/2004 privind trecerea din domeniul public al statului în domeniul privat al statului a unor construcţii aflate în administrarea Ministerului Apărării Naţionale | [`hg/2004/1311/`](hg/2004/1311/) | in force | 1 | 2004-08-26 | 2004-08-26 |
+| Hotărârea Guvernului nr. 1312/2004 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al comunei Schitu Goleşti şi în administrarea Consiliului Local al Comunei Schitu Goleşti, judeţul Argeş | [`hg/2004/1312/`](hg/2004/1312/) | in force | 1 | 2004-08-25 | 2004-08-25 |
+| Hotărârea Guvernului nr. 1313/2004 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al municipiului Turnu Măgurele şi în administrarea Consiliului Local al Municipiului Turnu Măgurele, judeţul Teleorman | [`hg/2004/1313/`](hg/2004/1313/) | in force | 1 | 2004-08-25 | 2004-08-25 |
+| Hotărârea Guvernului nr. 1315/2004 privind plata de la bugetul de stat a contribuţiei României la programul Life - Mediu "Obţinerea cărbunelui activ prin recuperarea xilitului folosind tehnologii nepoluante - ENVACTCARB" | [`hg/2004/1315/`](hg/2004/1315/) | in force | 1 | 2004-08-25 | 2004-08-25 |
+| Hotărârea Guvernului nr. 1316/2004 privind aprobarea donării a 12 lucrări de artă plastică, achiziţionate de către Ministerul Culturii şi Cultelor, către Palatul Naţiunilor din Geneva | [`hg/2004/1316/`](hg/2004/1316/) | amending act | 1 | 2004-08-25 | 2004-08-25 |
+| Hotărârea Guvernului nr. 1317/2004 privind transmiterea unui imobil, proprietate publică a statului, în administrarea Agenţiei Naţionale pentru Ocuparea Forţei de Muncă | [`hg/2004/1317/`](hg/2004/1317/) | in force | 1 | 2004-08-25 | 2004-08-25 |
+| Hotărârea Guvernului nr. 1320/2004 privind suplimentarea bugetului Secretariatului General al Guvernului din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, în vederea elaborării studiului de fezabilitate aferent lucrărilor de edificare a unei "Clădiri de servicii guvernamentale" | [`hg/2004/1320/`](hg/2004/1320/) | in force | 1 | 2004-08-24 | 2004-08-24 |
+| Hotărârea Guvernului nr. 1321/2004 privind suplimentarea bugetului Secretariatului General al Guvernului din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2004 | [`hg/2004/1321/`](hg/2004/1321/) | in force | 1 | 2004-08-24 | 2004-08-24 |
+| Hotărârea Guvernului nr. 1322/2004 privind modificarea art. 2 alin. (2) din Hotărârea Guvernului nr. 440/2004 pentru stabilirea unor măsuri privind reamplasarea imobilului fost "Monument al Eroilor Comunişti" | [`hg/2004/1322/`](hg/2004/1322/) | amending act | 1 | 2004-08-24 | 2004-08-24 |
+| Hotărârea Guvernului nr. 1323/2004 privind recunoaşterea Asociaţiei Institutul de Ştiinţe Administrative "Paul Negulescu" (I.S.A.) ca fiind de utilitate publică | [`hg/2004/1323/`](hg/2004/1323/) | in force | 1 | 2004-08-25 | 2004-08-25 |
+| Hotărârea Guvernului nr. 1324/2004 pentru aprobarea finanţării Proiectului "Promovarea investiţiilor străine din România prin publicarea lunară a unui newsletter" din fondurile pentru promovarea imaginii externe a României | [`hg/2004/1324/`](hg/2004/1324/) | amending act | 1 | 2004-08-24 | 2004-08-24 |
 | Hotărârea Guvernului nr. 1325/2004 pentru aprobarea volumului maxim de masă lemnoasă care poate fi recoltată în anul 2005 | [`hg/2004/1325/`](hg/2004/1325/) | amending act | 1 | 2004-08-26 | 2004-08-26 |
 | Hotărârea Guvernului nr. 1326/2004 pentru modificarea şi completarea Hotărârii Guvernului nr. 737/2003 privind organizarea şi funcţionarea Ministerului Muncii, Solidarităţii Sociale şi Familiei | [`hg/2004/1326/`](hg/2004/1326/) | amending act | 1 | 2004-08-27 | 2004-08-27 |
 | Hotărârea Guvernului nr. 1327/2004 privind suplimentarea bugetului Ministerului Administraţiei şi Internelor din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004 | [`hg/2004/1327/`](hg/2004/1327/) | in force | 1 | 2004-08-31 | 2004-08-31 |
