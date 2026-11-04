@@ -300755,6 +300755,21 @@
    ]
   },
   {
+   "slug": "hg-391-2001",
+   "path": "hg/2001/391",
+   "short": "HG nr. 391/2001",
+   "title": "Hotărârea Guvernului nr. 391/2001 pentru prelungirea termenului prevăzut la art. 6 alin. (2) din Hotărârea Guvernului nr. 299/2001 pentru aprobarea Regulamentului de reorganizare şi funcţionare a Agenţiei Naţionale a Funcţionarilor Publici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27986",
+   "versions": [
+    {
+     "from": "2001-04-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27986",
+     "sha256": "8d6a917ddbc73cdb766726ab29f89546b22ea9ca24418f5359d3ab741acebb4d"
+    }
+   ]
+  },
+  {
    "slug": "hg-391-2004",
    "path": "hg/2004/391",
    "short": "HG nr. 391/2004",
@@ -301010,6 +301025,21 @@
    ]
   },
   {
+   "slug": "hg-392-2001",
+   "path": "hg/2001/392",
+   "short": "HG nr. 392/2001",
+   "title": "Hotărârea Guvernului nr. 392/2001 pentru aprobarea Normelor privind organizarea şi finanţarea unor acţiuni de protocol specifice aparatului de lucru al Guvernului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27989",
+   "versions": [
+    {
+     "from": "2001-04-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27989",
+     "sha256": "9088c338dcb08133c2c6e463baa1b817160d97be62dfa7ef6f04d675d0a7270a"
+    }
+   ]
+  },
+  {
    "slug": "hg-392-2002",
    "path": "hg/2002/392",
    "short": "HG nr. 392/2002",
@@ -301261,6 +301291,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9238",
      "sha256": "f1daef3e9a17d9e5edc44d967182d368143e3f9e77bd5348de6b46cb07afd24c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-393-2001",
+   "path": "hg/2001/393",
+   "short": "HG nr. 393/2001",
+   "title": "Hotărârea Guvernului nr. 393/2001 privind garantarea de către Ministerul Finanţelor Publice a unui credit extern pentru Ministerul Afacerilor Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28072",
+   "versions": [
+    {
+     "from": "2001-04-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28072",
+     "sha256": "eddfe076d9f1a45498237f946d1fcf431121d19a28aee959bf581d6e92d0e0e3"
     }
    ]
   },
@@ -301537,6 +301582,21 @@
      "units": 0,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/47786",
      "sha256": "26b201a7c2ac1ead267e7a7cbe6d859c9e652839de85857bca5f3de978a1ad21"
+    }
+   ]
+  },
+  {
+   "slug": "hg-394-2001",
+   "path": "hg/2001/394",
+   "short": "HG nr. 394/2001",
+   "title": "Hotărârea Guvernului nr. 394/2001 privind transmiterea unui imobil, proprietate publică a statului, din administrarea Ministerului Apărării Naţionale în administrarea Consiliului Local al Municipiului Vatra Dornei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28052",
+   "versions": [
+    {
+     "from": "2001-04-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28052",
+     "sha256": "690c80437cf3309afac8c85bf411a502e7bed9841e3eeee14279c3971b419325"
     }
    ]
   },
@@ -301871,6 +301931,21 @@
    ]
   },
   {
+   "slug": "hg-395-2001",
+   "path": "hg/2001/395",
+   "short": "HG nr. 395/2001",
+   "title": "Hotărârea Guvernului nr. 395/2001 privind transmiterea unui imobil proprietate publică a statului din administrarea Ministerului Apărării Naţionale în administrarea Consiliului Local al Comunei Parancea, judeţul Bacău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28073",
+   "versions": [
+    {
+     "from": "2001-04-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28073",
+     "sha256": "059b2be8860a2b8c9c2ac2fe90b5f0402953db42a7af028e3233d94eee29181d"
+    }
+   ]
+  },
+  {
    "slug": "hg-395-2004",
    "path": "hg/2004/395",
    "short": "HG nr. 395/2004",
@@ -302122,6 +302197,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296836",
      "sha256": "5a85519052af98e9fec43db2f5e0d120df286b1b798e897c0bd2421402b2178d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-396-2001",
+   "path": "hg/2001/396",
+   "short": "HG nr. 396/2001",
+   "title": "Hotărârea Guvernului nr. 396/2001 privind funcţionarea Corpului consilierilor diplomatici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28074",
+   "versions": [
+    {
+     "from": "2001-04-25",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28074",
+     "sha256": "74436ffaf5e66c3d8ed562a8d5428604813e8250cf6d879c527e680bdf0d0434"
     }
    ]
   },
@@ -302923,6 +303013,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22476",
      "sha256": "08a5118407f3b334405d6887deca2b7a3e40286c8ecb2354528b6ac0e29a5ac0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-399-2001",
+   "path": "hg/2001/399",
+   "short": "HG nr. 399/2001",
+   "title": "Hotărârea Guvernului nr. 399/2001 privind concentrarea fondurilor PHARE 2001 - componenta coeziune economică şi socială - şi a fondurilor de cofinanţare corespunzătoare de la bugetul de stat, în zone de restructurare industriala cu potenţial de creştere economică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28277",
+   "versions": [
+    {
+     "from": "2001-05-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28277",
+     "sha256": "44637fe36d3d6129e4fdd779a0a7bd2d22ea848997c7443a01246162b011ecca"
     }
    ]
   },
@@ -303847,6 +303952,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22491",
      "sha256": "e9c1b0c6e5b05b73eac80a0d02add1ead2aac6c8c914f178bf64920f5d715bce"
+    }
+   ]
+  },
+  {
+   "slug": "hg-401-2001",
+   "path": "hg/2001/401",
+   "short": "HG nr. 401/2001",
+   "title": "Hotărârea Guvernului nr. 401/2001 pentru autorizarea Regiei Autonome \"Administraţia Patrimoniului Protocolului de Stat\" de a stinge, prin tranzacţie, un proces pe care îl are cu Societatea Comercială \"Racot Development\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28135",
+   "versions": [
+    {
+     "from": "2001-04-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28135",
+     "sha256": "8c62c6ceb41d3041004a250565ca1a49ca14bb0a85cb5ebc1ab839c146f05021"
     }
    ]
   },
@@ -304964,6 +305084,21 @@
    ]
   },
   {
+   "slug": "hg-405-2001",
+   "path": "hg/2001/405",
+   "short": "HG nr. 405/2001",
+   "title": "Hotărârea Guvernului nr. 405/2001 privind acordarea unor ajutoare de urgenta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28139",
+   "versions": [
+    {
+     "from": "2001-04-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28139",
+     "sha256": "45f3b5c7f26aeb0022c6a647e3db9f3ef29648f1dc5a4c5fe58c3d8f185f0715"
+    }
+   ]
+  },
+  {
    "slug": "hg-405-2002",
    "path": "hg/2002/405",
    "short": "HG nr. 405/2002",
@@ -305707,6 +305842,21 @@
      "units": 8,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/18349",
      "sha256": "4a27e81c1ed472df7cb8c9e060470a6e459846f42f69332da7edfd0894d1e41a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-408-2001",
+   "path": "hg/2001/408",
+   "short": "HG nr. 408/2001",
+   "title": "Hotărârea Guvernului nr. 408/2001 privind suplimentarea bugetului Ministerului Administraţiei Publice pe anul 2001 din Fondul de rezerva bugetară la dispoziţia Guvernului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28150",
+   "versions": [
+    {
+     "from": "2001-04-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28150",
+     "sha256": "a98d88a7a06fe5fb0284249b4e4906f4ad26652cfce4d29658d7dd0f26c62f63"
     }
    ]
   },
@@ -306737,6 +306887,21 @@
    ]
   },
   {
+   "slug": "hg-411-2001",
+   "path": "hg/2001/411",
+   "short": "HG nr. 411/2001",
+   "title": "Hotărârea Guvernului nr. 411/2001 pentru aprobarea Acordului dintre Guvernul României şi Guvernul Republicii Ungare privind angajarea lucrătorilor sezonieri, semnat la Budapesta la 9 mai 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28340",
+   "versions": [
+    {
+     "from": "2001-05-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28340",
+     "sha256": "e3e864cb89b1832759af60b420aabc9d4a4887b45906f276378cbfbd1275be7c"
+    }
+   ]
+  },
+  {
    "slug": "hg-411-2006",
    "path": "hg/2006/411",
    "short": "HG nr. 411/2006",
@@ -306977,6 +307142,21 @@
    ]
   },
   {
+   "slug": "hg-412-2001",
+   "path": "hg/2001/412",
+   "short": "HG nr. 412/2001",
+   "title": "Hotărârea Guvernului nr. 412/2001 pentru aprobarea Acordului dintre Guvernul României şi Guvernul Republicii Ungare privind schimbul de stagiari, semnat la Budapesta la 9 mai 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28278",
+   "versions": [
+    {
+     "from": "2001-05-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28278",
+     "sha256": "1851c9cbde8cac8950f6eb6ec4439fe3743b824220b8e657420c14b93d965e9c"
+    }
+   ]
+  },
+  {
    "slug": "hg-412-2003",
    "path": "hg/2003/412",
    "short": "HG nr. 412/2003",
@@ -307213,6 +307393,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15288",
      "sha256": "40634004c5e18ff154874ad154f5261cc56e32e3fe09d68bc66b0ca6735ce1a1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-413-2001",
+   "path": "hg/2001/413",
+   "short": "HG nr. 413/2001",
+   "title": "Hotărârea Guvernului nr. 413/2001 pentru aprobarea încredinţării directe a serviciului de efectuare a auditului Fondului de contrapartidă, constituit din contravaloarea în moneda naţională a ajutoarelor economice nerambursabile acordate Guvernului României de Comisia Europeană, firmei Deloitte &amp; Touche Management Consulting Taxe, Audit şi Expertiză Contabilă - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28158",
+   "versions": [
+    {
+     "from": "2001-04-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28158",
+     "sha256": "6b6db3d985f918cc4661c62a58163db5310a9aa4d4381c00a68685e4c83f4fe4"
     }
    ]
   },
@@ -307474,6 +307669,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6924",
      "sha256": "30b5c06956a88ceb487deaedb1068f1503f08f7c9ea69872bd38e2a3059a817b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-414-2001",
+   "path": "hg/2001/414",
+   "short": "HG nr. 414/2001",
+   "title": "Hotărârea Guvernului nr. 414/2001 pentru aprobarea plăţii contribuţiei suplimentare a României la bugetul Curţii Europene a Drepturilor Omului (CEDO) pe anul 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28159",
+   "versions": [
+    {
+     "from": "2001-04-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28159",
+     "sha256": "162fa8974d68b2a4152248d8d389e5f58696b3bfed6152ed0d4369035a7a8c0b"
     }
    ]
   },
@@ -307750,6 +307960,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296920",
      "sha256": "a3edd1356f1eb27257b4f8a02c1c50b8b917d62f6ce3e2a4e98729a31ecc2fe5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-415-2001",
+   "path": "hg/2001/415",
+   "short": "HG nr. 415/2001",
+   "title": "Hotărârea Guvernului nr. 415/2001 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2000 al Institutului Naţional de Cercetare-Dezvoltare în Domeniul Patologiei şi Ştiinţelor Biomedicale \"Victor Babeş\", aflat în coordonarea Ministerului Sănătăţii şi Familiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28232",
+   "versions": [
+    {
+     "from": "2001-05-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28232",
+     "sha256": "2a51d50d50acb6e7d4d3081964df9dd781c1e13e85fafbb707662900e320e4cd"
     }
    ]
   },
@@ -528782,6 +529007,21 @@
    ]
   },
   {
+   "slug": "legea-196-2001",
+   "path": "lege/2001/196",
+   "short": "Legea nr. 196/2001",
+   "title": "Legea nr. 196/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 218/1999 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 44/1997 privind suspendarea impozitului pe venitul agricol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28033",
+   "versions": [
+    {
+     "from": "2001-04-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28033",
+     "sha256": "3c83ad92e627908533888c78df1d7aade19fdbfef9064487141d70cf736e898b"
+    }
+   ]
+  },
+  {
    "slug": "legea-196-2002",
    "path": "lege/2002/196",
    "short": "Legea nr. 196/2002",
@@ -529085,6 +529325,21 @@
    ]
   },
   {
+   "slug": "legea-197-2001",
+   "path": "lege/2001/197",
+   "short": "Legea nr. 197/2001",
+   "title": "Legea nr. 197/2001 pentru ratificarea Addendumului la Acordul dintre Guvernul României şi Guvernul Republicii Moldova referitor la un împrumut pe termen lung pentru suma de 20 miliarde lei, semnat la Bucureşti la 1 septembrie 1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28038",
+   "versions": [
+    {
+     "from": "2001-04-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28038",
+     "sha256": "7f48510514fd9fe2652fb3e365bd42ed66bc154c2a9af8caf559567ea29df11e"
+    }
+   ]
+  },
+  {
    "slug": "legea-197-2002",
    "path": "lege/2002/197",
    "short": "Legea nr. 197/2002",
@@ -529306,6 +529561,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24991",
      "sha256": "c026b5f115995608b21ee53afd8efe6653668c26e0a4017d29d7eb60215194b9"
+    }
+   ]
+  },
+  {
+   "slug": "legea-198-2001",
+   "path": "lege/2001/198",
+   "short": "Legea nr. 198/2001",
+   "title": "Legea nr. 198/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 203/2000 privind participarea României în anul 2000 la Programul de acţiune comunitară \"Tineret\" şi plata contribuţiei financiare la acest program",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28035",
+   "versions": [
+    {
+     "from": "2001-04-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28035",
+     "sha256": "728079e73f885286262b9e5d3b3ab4e007ed6cd2de4dee2f0b01357fc844ef7f"
     }
    ]
   },
@@ -529588,6 +529858,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12032",
      "sha256": "a6d9d86aee53a55642e46b60c51e7dfeae07888e8c7183f3c637e572e4bb4786"
+    }
+   ]
+  },
+  {
+   "slug": "legea-199-2001",
+   "path": "lege/2001/199",
+   "short": "Legea nr. 199/2001",
+   "title": "Legea nr. 199/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 279/2000 privind aprobarea surselor de plată pentru achitarea de către Ministerul Finanţelor a obligaţiilor financiare asumate de Banca Generală de Credit şi Promovare - BANKCOOP - S.A. ce decurg din Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare pentru finanţarea Proiectului de dezvoltare industrială, în valoare de 120 milioane dolari S.U.A., semnat la Washington la 21 martie 1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28080",
+   "versions": [
+    {
+     "from": "2001-04-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28080",
+     "sha256": "dd18700317b3262324088a50e42210012462438a667b5d4ed3001aacb00bafe5"
     }
    ]
   },
@@ -530417,6 +530702,21 @@
    ]
   },
   {
+   "slug": "legea-200-2001",
+   "path": "lege/2001/200",
+   "short": "Legea nr. 200/2001",
+   "title": "Legea nr. 200/2001 privind respingerea Ordonanţei Guvernului nr. 59/1998 pentru completarea Ordonanţei Guvernului nr. 12/1998 privind taxele de timbru pentru activitatea notarială",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28082",
+   "versions": [
+    {
+     "from": "2001-04-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28082",
+     "sha256": "bfdb6bdf10a321962537f84af8603499bba9c9170a1af7a223aeda0db95fe105"
+    }
+   ]
+  },
+  {
    "slug": "legea-200-2002",
    "path": "lege/2002/200",
    "short": "Legea nr. 200/2002",
@@ -530717,6 +531017,21 @@
    ]
   },
   {
+   "slug": "legea-201-2001",
+   "path": "lege/2001/201",
+   "short": "Legea nr. 201/2001",
+   "title": "Legea nr. 201/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 19/2001 pentru ratificarea Memorandumului de înţelegere privind cooperarea AIJ/JI dintre Guvernul României şi Guvernul Elveţiei şi a Înţelegerii asupra proiectului - Proiect elveţian privind energia termică (Buzău, Paşcani), semnate la Bucureşti la 8 ianuarie 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28097",
+   "versions": [
+    {
+     "from": "2001-04-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28097",
+     "sha256": "254cead482a9299413d654ec8a88d57e9d205d90571f26836c29dcf4f58c6596"
+    }
+   ]
+  },
+  {
    "slug": "legea-201-2002",
    "path": "lege/2002/201",
    "short": "Legea nr. 201/2002",
@@ -530974,6 +531289,21 @@
      "units": 0,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/269120",
      "sha256": "fffc4b4b7e28ae71d114b8c556995be1894523bf9de8d4f18d15fe7daffbbee5"
+    }
+   ]
+  },
+  {
+   "slug": "legea-202-2001",
+   "path": "lege/2001/202",
+   "short": "Legea nr. 202/2001",
+   "title": "Legea nr. 202/2001 privind aprobarea Ordonanţei Guvernului nr. 91/2000 pentru ratificarea Memorandumului de finanţare PHARE dintre Guvernul României şi Comisia Europeană referitor la Programul pentru reforma protecţiei sociale şi implementarea acquisului comunitar în sectorul social (Consensus III), semnat la Bucureşti la 30 decembrie 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28099",
+   "versions": [
+    {
+     "from": "2001-04-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28099",
+     "sha256": "c5eda667e0c4cb517fd1779a807c732fa967cbce2e73bfd7b700c2d38846d2ad"
     }
    ]
   },
@@ -532756,6 +533086,21 @@
      "units": 17,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/12068",
      "sha256": "2004ba34ff242835eeeb554eb128310a01328fa8be41a5b135283536216a3383"
+    }
+   ]
+  },
+  {
+   "slug": "legea-208-2001",
+   "path": "lege/2001/208",
+   "short": "Legea nr. 208/2001",
+   "title": "Legea nr. 208/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 13/1999 pentru acordarea unor înlesniri la plata obligaţiilor bugetare unor agenţi economici din minerit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28106",
+   "versions": [
+    {
+     "from": "2001-04-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28106",
+     "sha256": "a0087c72116fba1c694e087ca4a5a1897aa44e422407a1f0e42ec52f3bc1cbf7"
     }
    ]
   },

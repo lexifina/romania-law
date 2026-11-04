@@ -1,6 +1,6 @@
 # Every act in this repository
 
-39038 acts, 52,792 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+39061 acts, 52,815 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8268, of which 3079 amending acts)
+## Laws (legi) (8276, of which 3086 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -942,11 +942,19 @@
 | Legea nr. 192/2001 | [`lege/2001/192/`](lege/2001/192/) | in force | 8 | 2001-04-20 | 2006-05-12 |
 | Legea nr. 193/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 39/1999 privind unele măsuri pentru susţinerea programului de restructurare prin garantarea unui credit la Societatea Comercială "Roman" - S.A. Braşov | [`lege/2001/193/`](lege/2001/193/) | amended, not consolidated | 1 | 2001-04-24 | 2001-04-24 |
 | Legea nr. 195/2001 | [`lege/2001/195/`](lege/2001/195/) | in force | 4 | 2001-06-23 | 2007-04-25 |
+| Legea nr. 196/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 218/1999 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 44/1997 privind suspendarea impozitului pe venitul agricol | [`lege/2001/196/`](lege/2001/196/) | amending act | 1 | 2001-04-24 | 2001-04-24 |
+| Legea nr. 197/2001 pentru ratificarea Addendumului la Acordul dintre Guvernul României şi Guvernul Republicii Moldova referitor la un împrumut pe termen lung pentru suma de 20 miliarde lei, semnat la Bucureşti la 1 septembrie 1993 | [`lege/2001/197/`](lege/2001/197/) | in force | 1 | 2001-04-24 | 2001-04-24 |
+| Legea nr. 198/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 203/2000 privind participarea României în anul 2000 la Programul de acţiune comunitară "Tineret" şi plata contribuţiei financiare la acest program | [`lege/2001/198/`](lege/2001/198/) | amending act | 1 | 2001-04-24 | 2001-04-24 |
+| Legea nr. 199/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 279/2000 privind aprobarea surselor de plată pentru achitarea de către Ministerul Finanţelor a obligaţiilor financiare asumate de Banca Generală de Credit şi Promovare - BANKCOOP - S.A. ce decurg din Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare pentru finanţarea Proiectului de dezvoltare industrială, în valoare de 120 milioane dolari S.U.A., semnat la Washington la 21 martie 1995 | [`lege/2001/199/`](lege/2001/199/) | amending act | 1 | 2001-04-25 | 2001-04-25 |
+| Legea nr. 200/2001 privind respingerea Ordonanţei Guvernului nr. 59/1998 pentru completarea Ordonanţei Guvernului nr. 12/1998 privind taxele de timbru pentru activitatea notarială | [`lege/2001/200/`](lege/2001/200/) | amending act | 1 | 2001-04-25 | 2001-04-25 |
+| Legea nr. 201/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 19/2001 pentru ratificarea Memorandumului de înţelegere privind cooperarea AIJ/JI dintre Guvernul României şi Guvernul Elveţiei şi a Înţelegerii asupra proiectului - Proiect elveţian privind energia termică (Buzău, Paşcani), semnate la Bucureşti la 8 ianuarie 1999 | [`lege/2001/201/`](lege/2001/201/) | amending act | 1 | 2001-04-26 | 2001-04-26 |
+| Legea nr. 202/2001 privind aprobarea Ordonanţei Guvernului nr. 91/2000 pentru ratificarea Memorandumului de finanţare PHARE dintre Guvernul României şi Comisia Europeană referitor la Programul pentru reforma protecţiei sociale şi implementarea acquisului comunitar în sectorul social (Consensus III), semnat la Bucureşti la 30 decembrie 1999 | [`lege/2001/202/`](lege/2001/202/) | amending act | 1 | 2001-04-26 | 2001-04-26 |
 | Legea nr. 203/2001 pentru aprobarea Ordonanţei Guvernului nr. 5/1999 privind declararea municipiului Sibiu şi a zonei înconjurătoare ca obiectiv de interes naţional | [`lege/2001/203/`](lege/2001/203/) | amended, not consolidated | 1 | 2001-04-26 | 2001-04-26 |
 | Legea nr. 204/2001 privind aprobarea Ordonanței Guvernului nr. 36/1998 pentru modificarea și completarea Legii nr. 32/1994 privind sponsorizarea | [`lege/2001/204/`](lege/2001/204/) | amending act | 2 | 2001-07-05 | 2001-10-26 |
 | Legea nr. 205/2001 pentru aprobarea Ordonanţei Guvernului nr. 84/1998 privind constituirea Fondului de susţinere a bibliotecilor din învăţământ | [`lege/2001/205/`](lege/2001/205/) | amended, not consolidated | 1 | 2001-04-26 | 2001-04-26 |
 | Legea nr. 206/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 71/1999 privind reorganizarea activităţii de protecţie a plantelor şi carantina fitosanitara | [`lege/2001/206/`](lege/2001/206/) | amended, not consolidated | 1 | 2001-04-26 | 2001-04-26 |
 | Legea nr. 207/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 271/2000 privind regimul activităţilor de transport, comercializare şi recuperare a ţiţeiului, gazolinei, condensatului şi etanului lichid | [`lege/2001/207/`](lege/2001/207/) | amended, not consolidated | 1 | 2001-05-02 | 2001-05-02 |
+| Legea nr. 208/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 13/1999 pentru acordarea unor înlesniri la plata obligaţiilor bugetare unor agenţi economici din minerit | [`lege/2001/208/`](lege/2001/208/) | amending act | 1 | 2001-04-26 | 2001-04-26 |
 | Legea nr. 209/2001 pentru aprobarea Ordonanței de urgenta a Guvernului nr. 79/2000 privind stingerea unei părți din datoria Companiei Naționale de Electricitate - S.A. către stat cu contravaloarea energiei electrice livrate în Republica Moldova | [`lege/2001/209/`](lege/2001/209/) | amending act | 1 | 2001-04-26 | 2001-04-26 |
 | Legea nr. 211/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 77/1999 privind unele măsuri pentru prevenirea incapacităţii de plată | [`lege/2001/211/`](lege/2001/211/) | amended, not consolidated | 1 | 2001-04-26 | 2001-04-26 |
 | Legea nr. 212/2001 pentru aprobarea Ordonanţei Guvernului nr. 47/1998 privind constituirea şi utilizarea Fondului special al aviaţiei civile | [`lege/2001/212/`](lege/2001/212/) | amended, not consolidated | 1 | 2001-04-26 | 2001-04-26 |
@@ -12182,7 +12190,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26822, of which 12515 amending acts)
+## Government decisions (HG) (26837, of which 12522 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13210,12 +13218,27 @@
 | Hotărârea Guvernului nr. 358/2001 privind numirea delegaţiei părţii române în Comisia mixtă pentru întreţinerea şi reconstituirea frontierei în sectorul de uscat al frontierei de stat româno-bulgare | [`hg/2001/358/`](hg/2001/358/) | amended, not consolidated | 1 | 2001-04-09 | 2001-04-09 |
 | Hotărârea Guvernului nr. 379/2001 | [`hg/2001/379/`](hg/2001/379/) | in force | 1 | 2001-04-23 | 2001-04-23 |
 | Hotărârea Guvernului nr. 384/2001 | [`hg/2001/384/`](hg/2001/384/) | in force | 1 | 2001-04-24 | 2001-04-24 |
+| Hotărârea Guvernului nr. 391/2001 pentru prelungirea termenului prevăzut la art. 6 alin. (2) din Hotărârea Guvernului nr. 299/2001 pentru aprobarea Regulamentului de reorganizare şi funcţionare a Agenţiei Naţionale a Funcţionarilor Publici | [`hg/2001/391/`](hg/2001/391/) | amending act | 1 | 2001-04-20 | 2001-04-20 |
+| Hotărârea Guvernului nr. 392/2001 pentru aprobarea Normelor privind organizarea şi finanţarea unor acţiuni de protocol specifice aparatului de lucru al Guvernului | [`hg/2001/392/`](hg/2001/392/) | amending act | 1 | 2001-04-20 | 2001-04-20 |
+| Hotărârea Guvernului nr. 393/2001 privind garantarea de către Ministerul Finanţelor Publice a unui credit extern pentru Ministerul Afacerilor Externe | [`hg/2001/393/`](hg/2001/393/) | in force | 1 | 2001-04-25 | 2001-04-25 |
+| Hotărârea Guvernului nr. 394/2001 privind transmiterea unui imobil, proprietate publică a statului, din administrarea Ministerului Apărării Naţionale în administrarea Consiliului Local al Municipiului Vatra Dornei | [`hg/2001/394/`](hg/2001/394/) | in force | 1 | 2001-04-24 | 2001-04-24 |
+| Hotărârea Guvernului nr. 395/2001 privind transmiterea unui imobil proprietate publică a statului din administrarea Ministerului Apărării Naţionale în administrarea Consiliului Local al Comunei Parancea, judeţul Bacău | [`hg/2001/395/`](hg/2001/395/) | in force | 1 | 2001-04-25 | 2001-04-25 |
+| Hotărârea Guvernului nr. 396/2001 privind funcţionarea Corpului consilierilor diplomatici | [`hg/2001/396/`](hg/2001/396/) | in force | 1 | 2001-04-25 | 2001-04-25 |
 | Hotărârea Guvernului nr. 397/2001 privind transmiterea unui imobil proprietate publică a statului din administrarea Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat" în administrarea Serviciului de Protecţie şi Paza | [`hg/2001/397/`](hg/2001/397/) | amended, not consolidated | 1 | 2001-04-25 | 2001-04-25 |
 | Hotărârea Guvernului nr. 398/2001 privind unele măsuri de redresare financiară a agenţilor economici cu capital integral de stat din sistemul energetic, petrol, gaze şi minier | [`hg/2001/398/`](hg/2001/398/) | amended, not consolidated | 1 | 2001-04-25 | 2001-04-25 |
+| Hotărârea Guvernului nr. 399/2001 privind concentrarea fondurilor PHARE 2001 - componenta coeziune economică şi socială - şi a fondurilor de cofinanţare corespunzătoare de la bugetul de stat, în zone de restructurare industriala cu potenţial de creştere economică | [`hg/2001/399/`](hg/2001/399/) | in force | 1 | 2001-05-07 | 2001-05-07 |
 | Hotărârea Guvernului nr. 400/2001 | [`hg/2001/400/`](hg/2001/400/) | in force | 1 | 2001-05-16 | 2001-05-16 |
+| Hotărârea Guvernului nr. 401/2001 pentru autorizarea Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat" de a stinge, prin tranzacţie, un proces pe care îl are cu Societatea Comercială "Racot Development" - S.R.L | [`hg/2001/401/`](hg/2001/401/) | in force | 1 | 2001-04-26 | 2001-04-26 |
 | Hotărârea Guvernului nr. 403/2001 | [`hg/2001/403/`](hg/2001/403/) | in force | 1 | 2001-04-25 | 2001-04-25 |
 | Hotărârea Guvernului nr. 404/2001 pentru desemnarea reprezentanţilor Guvernului în Consiliul Naţional pentru Dezvoltare Regionala | [`hg/2001/404/`](hg/2001/404/) | amended, not consolidated | 1 | 2001-04-26 | 2001-04-26 |
+| Hotărârea Guvernului nr. 405/2001 privind acordarea unor ajutoare de urgenta | [`hg/2001/405/`](hg/2001/405/) | in force | 1 | 2001-04-26 | 2001-04-26 |
+| Hotărârea Guvernului nr. 408/2001 privind suplimentarea bugetului Ministerului Administraţiei Publice pe anul 2001 din Fondul de rezerva bugetară la dispoziţia Guvernului | [`hg/2001/408/`](hg/2001/408/) | in force | 1 | 2001-04-27 | 2001-04-27 |
 | Hotărârea Guvernului nr. 410/2001 | [`hg/2001/410/`](hg/2001/410/) | in force | 1 | 2001-04-27 | 2001-04-27 |
+| Hotărârea Guvernului nr. 411/2001 pentru aprobarea Acordului dintre Guvernul României şi Guvernul Republicii Ungare privind angajarea lucrătorilor sezonieri, semnat la Budapesta la 9 mai 2000 | [`hg/2001/411/`](hg/2001/411/) | amending act | 1 | 2001-05-04 | 2001-05-04 |
+| Hotărârea Guvernului nr. 412/2001 pentru aprobarea Acordului dintre Guvernul României şi Guvernul Republicii Ungare privind schimbul de stagiari, semnat la Budapesta la 9 mai 2000 | [`hg/2001/412/`](hg/2001/412/) | amending act | 1 | 2001-05-07 | 2001-05-07 |
+| Hotărârea Guvernului nr. 413/2001 pentru aprobarea încredinţării directe a serviciului de efectuare a auditului Fondului de contrapartidă, constituit din contravaloarea în moneda naţională a ajutoarelor economice nerambursabile acordate Guvernului României de Comisia Europeană, firmei Deloitte &amp; Touche Management Consulting Taxe, Audit şi Expertiză Contabilă - S.R.L | [`hg/2001/413/`](hg/2001/413/) | amending act | 1 | 2001-04-27 | 2001-04-27 |
+| Hotărârea Guvernului nr. 414/2001 pentru aprobarea plăţii contribuţiei suplimentare a României la bugetul Curţii Europene a Drepturilor Omului (CEDO) pe anul 2001 | [`hg/2001/414/`](hg/2001/414/) | amending act | 1 | 2001-04-27 | 2001-04-27 |
+| Hotărârea Guvernului nr. 415/2001 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2000 al Institutului Naţional de Cercetare-Dezvoltare în Domeniul Patologiei şi Ştiinţelor Biomedicale "Victor Babeş", aflat în coordonarea Ministerului Sănătăţii şi Familiei | [`hg/2001/415/`](hg/2001/415/) | amending act | 1 | 2001-05-03 | 2001-05-03 |
 | Hotărârea Guvernului nr. 417/2001 privind acordarea unor ajutoare de urgenta | [`hg/2001/417/`](hg/2001/417/) | in force | 1 | 2001-04-27 | 2001-04-27 |
 | Hotărârea Guvernului nr. 418/2001 privind acordarea unor ajutoare de urgenta | [`hg/2001/418/`](hg/2001/418/) | in force | 1 | 2001-04-27 | 2001-04-27 |
 | Hotărârea Guvernului nr. 427/2001 pentru aprobarea Normelor metodologice privind condiţiile de încadrare, drepturile şi obligaţiile asistentului personal al persoanei cu handicap | [`hg/2001/427/`](hg/2001/427/) | amended, not consolidated | 1 | 2001-05-07 | 2001-05-07 |
