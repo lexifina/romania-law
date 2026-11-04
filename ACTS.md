@@ -1,6 +1,6 @@
 # Every act in this repository
 
-21131 acts, 34,764 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+21143 acts, 34,776 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -5622,7 +5622,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (15518, of which 7965 amending acts)
+## Government decisions (HG) (15530, of which 7973 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8831,7 +8831,19 @@
 | Hotărârea Guvernului nr. 723/2011 | [`hg/2011/723/`](hg/2011/723/) | in force | 1 | 2011-09-01 | 2011-09-01 |
 | Hotărârea Guvernului nr. 738/2011 pentru aprobarea Regulamentului de organizare şi funcţionare al Departamentului pentru lupta antifraudă - DLAF | [`hg/2011/738/`](hg/2011/738/) | amending act | 1 | 2011-08-04 | 2011-08-04 |
 | Hotărârea Guvernului nr. 762/2011 | [`hg/2011/762/`](hg/2011/762/) | in force | 1 | 2011-08-04 | 2011-08-04 |
+| Hotărârea Guvernului nr. 781/2011 privind darea în administrarea Ministerului Transporturilor şi Infrastructurii a unor terenuri în suprafaţă totală de 62.702 m&#178;, aflate în domeniul public al statului, din administrarea Ministerului Educaţiei, Cercetării, Tineretului şi Sportului - Universitatea din Craiova, în vederea finalizării de către Compania Naţională de Autostrăzi şi Drumuri Naţionale din România - S.A. a obiectivului de investiţie "Varianta de ocolire a municipiului Caracal" | [`hg/2011/781/`](hg/2011/781/) | in force | 1 | 2011-08-10 | 2011-08-10 |
+| Hotărârea Guvernului nr. 782/2011 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică "Varianta ocolitoare Săcueni km 0+000-km 7+623", pe raza localităţilor Săcueni şi Cherechiu din judeţul Bihor | [`hg/2011/782/`](hg/2011/782/) | in force | 1 | 2011-08-16 | 2011-08-16 |
+| Hotărârea Guvernului nr. 783/2011 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Reabilitarea liniei c.f. Braşov-Simeria, componentă a Coridorului IV paneuropean, pentru circulaţia trenurilor cu viteza maximă de 160 km/h, secţiunea Coşlariu-Sighişoara" | [`hg/2011/783/`](hg/2011/783/) | amending act | 1 | 2011-08-10 | 2011-08-10 |
+| Hotărârea Guvernului nr. 784/2011 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Reabilitarea liniei c.f. Braşov-Simeria, componentă a Coridorului IV paneuropean, pentru circulaţia trenurilor cu viteza maximă de 160 km/h, secţiunea Coşlariu-Simeria" | [`hg/2011/784/`](hg/2011/784/) | amending act | 1 | 2011-08-10 | 2011-08-10 |
+| Hotărârea Guvernului nr. 785/2011 privind darea în administrarea Ministerului Justiţiei şi a Ministerului Public - Parchetul de pe lângă Înalta Curte de Casaţie şi Justiţie a unui imobil trecut în domeniul public al statului | [`hg/2011/785/`](hg/2011/785/) | in force | 1 | 2011-08-10 | 2011-08-10 |
+| Hotărârea Guvernului nr. 786/2011 pentru modificarea şi completarea unor anexe la Hotărârea Guvernului nr. 963/2002 privind atestarea domeniului public al judeţului Mehedinţi, precum şi al municipiilor, oraşelor şi comunelor din judeţul Mehedinţi | [`hg/2011/786/`](hg/2011/786/) | amending act | 1 | 2011-09-05 | 2011-09-05 |
+| Hotărârea Guvernului nr. 787/2011 pentru aprobarea Protocolului de cooperare dintre Ministerul Administraţiei şi Internelor din România şi Ministerul Afacerilor Interne al Republicii Moldova în domeniul prevenirii şi combaterii traficului şi consumului ilicit de stupefiante, substanţe psihotrope şi precursori, semnat la Bucureşti la 24 martie 2011 | [`hg/2011/787/`](hg/2011/787/) | amending act | 1 | 2011-08-25 | 2011-08-25 |
 | Hotărârea Guvernului nr. 789/2011 | [`hg/2011/789/`](hg/2011/789/) | in force | 1 | 2011-08-10 | 2011-08-10 |
+| Hotărârea Guvernului nr. 792/2011 pentru modificarea unor acte normative din domeniul naval | [`hg/2011/792/`](hg/2011/792/) | amending act | 1 | 2011-08-16 | 2011-08-16 |
+| Hotărârea Guvernului nr. 793/2011 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.357/2001 privind atestarea domeniului public al judeţului Suceava, precum şi al municipiilor, oraşelor şi comunelor din judeţul Suceava | [`hg/2011/793/`](hg/2011/793/) | amending act | 1 | 2011-08-31 | 2011-08-31 |
+| Hotărârea Guvernului nr. 794/2011 privind înscrierea în inventarul centralizat al bunurilor din domeniul public al statului şi darea în administrarea Ministerului Administraţiei şi Internelor - Instituţia Prefectului Judeţului Braşov a unui imobil, trecut în domeniul public al statului | [`hg/2011/794/`](hg/2011/794/) | in force | 1 | 2011-08-11 | 2011-08-11 |
+| Hotărârea Guvernului nr. 796/2011 pentru modificarea unor acte normative din domeniul protecţiei consumatorilor | [`hg/2011/796/`](hg/2011/796/) | amending act | 1 | 2011-08-11 | 2011-08-11 |
+| Hotărârea Guvernului nr. 797/2011 pentru abrogarea Hotărârii Guvernului nr. 641/1992 privind modificarea taxei speciale pentru îndeplinirea formalităţilor vamale la transporturile rutiere internaţionale, instituită prin H.C.M. nr. 917/1975 | [`hg/2011/797/`](hg/2011/797/) | amending act | 1 | 2011-08-12 | 2011-08-12 |
 | Hotărârea Guvernului nr. 799/2011 pentru modificarea şi completarea unor anexe la Hotărârea Guvernului nr. 1.362/2001 privind atestarea domeniului public al judeţului Vâlcea, precum şi al municipiilor, oraşelor şi comunelor din judeţul Vâlcea | [`hg/2011/799/`](hg/2011/799/) | amending act | 1 | 2011-09-19 | 2011-09-19 |
 | Hotărârea Guvernului nr. 800/2011 privind aprobarea actului adiţional nr. 2 la Acordul de concesiune pentru explorare, dezvoltare şi exploatare petrolieră în perimetrul XIX Neptun, aprobat prin Hotărârea Guvernului nr. 1.233/2000 | [`hg/2011/800/`](hg/2011/800/) | amending act | 1 | 2011-08-10 | 2011-08-10 |
 | Hotărârea Guvernului nr. 802/2011 pentru modificarea şi completarea unor acte normative din domeniul implementării instrumentelor structurale | [`hg/2011/802/`](hg/2011/802/) | amending act | 1 | 2011-08-09 | 2011-08-09 |
