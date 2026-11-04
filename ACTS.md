@@ -1,6 +1,6 @@
 # Every act in this repository
 
-27729 acts, 41,372 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+27731 acts, 41,374 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6402,7 +6402,7 @@
 | Ordonanța Guvernului nr. 3/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 70/2022 privind prevenirea, verificarea şi constatarea neregulilor/dublei finanţări, a neregulilor grave apărute în obţinerea şi utilizarea fondurilor externe nerambursabile/rambursabile alocate României prin Mecanismul de redresare şi rezilienţă şi/sau a fondurilor publice naţionale aferente acestora şi recuperarea creanţelor rezultate | [`og/2026/3/`](og/2026/3/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (21336, of which 10985 amending acts)
+## Government decisions (HG) (21338, of which 10986 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6849,6 +6849,8 @@
 | Hotărârea Guvernului nr. 1043/2004 | [`hg/2004/1043/`](hg/2004/1043/) | in force | 2 | 2004-08-02 | 2005-01-03 |
 | Hotărârea Guvernului nr. 1076/2004 | [`hg/2004/1076/`](hg/2004/1076/) | in force | 3 | 2004-12-03 | 2012-10-29 |
 | Hotărârea Guvernului nr. 1126/2004 | [`hg/2004/1126/`](hg/2004/1126/) | in force | 1 | 2004-07-28 | 2004-07-28 |
+| Hotărârea Guvernului nr. 1161/2004 privind stabilirea cuantumului compensaţiei lunare pentru chirie şi condiţiile de acordare a acesteia unor cadre militare în activitate | [`hg/2004/1161/`](hg/2004/1161/) | in force | 1 | 2004-08-02 | 2004-08-02 |
+| Hotărârea Guvernului nr. 1164/2004 privind modificarea şi completarea unor acte normative care reglementează funcţionarea unor agenţii din subordinea Ministerului Educaţiei şi Cercetării care participă la programele comunitare | [`hg/2004/1164/`](hg/2004/1164/) | amending act | 1 | 2004-07-30 | 2004-07-30 |
 | Hotărârea Guvernului nr. 1168/2004 privind transmiterea unei părţi dintr-un imobil, proprietate publică a statului, din administrarea Autorităţii Naţionale de Control - Autoritatea Naţională a Vămilor în administrarea Autorităţii Naţionale Sanitare Veterinare şi pentru Siguranţa Alimentelor | [`hg/2004/1168/`](hg/2004/1168/) | in force | 1 | 2004-08-04 | 2004-08-04 |
 | Hotărârea Guvernului nr. 1169/2004 privind transmiterea fără plată a unor terenuri din domeniul privat al statului şi din administrarea Companiei Naţionale a Huilei - S.A. în domeniul public al localităţilor Petrila, Petroşani, Aninoasa, Vulcan, Lupeni, Uricani şi Brad, judeţul Hunedoara, şi în administrarea consiliilor locale | [`hg/2004/1169/`](hg/2004/1169/) | in force | 1 | 2004-08-03 | 2004-08-03 |
 | Hotărârea Guvernului nr. 1171/2004 pentru modificarea şi completarea anexelor la Hotărârea Guvernului nr. 908/2002 privind atestarea domeniului public al judeţului Vrancea, precum şi al municipiilor, oraşelor şi comunelor din judeţul Vrancea | [`hg/2004/1171/`](hg/2004/1171/) | amending act | 1 | 2004-08-17 | 2004-08-17 |

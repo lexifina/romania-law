@@ -130934,6 +130934,21 @@
    ]
   },
   {
+   "slug": "hg-1161-2004",
+   "path": "hg/2004/1161",
+   "short": "HG nr. 1161/2004",
+   "title": "Hotărârea Guvernului nr. 1161/2004 privind stabilirea cuantumului compensaţiei lunare pentru chirie şi condiţiile de acordare a acesteia unor cadre militare în activitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54043",
+   "versions": [
+    {
+     "from": "2004-08-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54043",
+     "sha256": "199d59cdd737e7562da3c851f976223d3abecb53814d8bc0133fdc0e03c39564"
+    }
+   ]
+  },
+  {
    "slug": "hg-1161-2005",
    "path": "hg/2005/1161",
    "short": "HG nr. 1161/2005",
@@ -131470,6 +131485,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288851",
      "sha256": "7f2a6d25c956f6fc54e0280438039c18e8917d7d998ef08cd477db4c7d794a12"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1164-2004",
+   "path": "hg/2004/1164",
+   "short": "HG nr. 1164/2004",
+   "title": "Hotărârea Guvernului nr. 1164/2004 privind modificarea şi completarea unor acte normative care reglementează funcţionarea unor agenţii din subordinea Ministerului Educaţiei şi Cercetării care participă la programele comunitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54019",
+   "versions": [
+    {
+     "from": "2004-07-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54019",
+     "sha256": "5d7260abdc761a62e74d8c24751e92ff4a8148e8677ecb211ce98163ef76d2d6"
     }
    ]
   },
