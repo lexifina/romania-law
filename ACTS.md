@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38362 acts, 52,115 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38375 acts, 52,128 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -8077,7 +8077,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (2865, of which 659 amending acts)
+## Emergency ordinances (OUG) (2866, of which 659 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8454,6 +8454,7 @@
 | Ordonanța de urgență a Guvernului nr. 152/2001 privind unele măsuri pentru redresarea economico-financiară a Societăţii Comerciale de Producere a Energiei Electrice şi Termice "Termoelectrica" - S.A | [`oug/2001/152/`](oug/2001/152/) | amended, not consolidated | 1 | 2001-11-28 | 2001-11-28 |
 | Ordonanța de urgență a Guvernului nr. 154/2001 pentru modificarea şi completarea Legii nr. 1/1998 privind organizarea şi funcţionarea Serviciului de Informaţii Externe | [`oug/2001/154/`](oug/2001/154/) | amended, not consolidated | 1 | 2001-11-29 | 2001-11-29 |
 | Ordonanța de urgență a Guvernului nr. 155/2001 | [`oug/2001/155/`](oug/2001/155/) | in force | 7 | 2001-12-13 | 2023-12-11 |
+| Ordonanța de urgență a Guvernului nr. 157/2001 privind garantarea unui plasament interbancar | [`oug/2001/157/`](oug/2001/157/) | in force | 1 | 2001-11-28 | 2001-11-28 |
 | Ordonanța de urgență a Guvernului nr. 158/2001 | [`oug/2001/158/`](oug/2001/158/) | in force | 2 | 2002-01-01 | 2003-07-16 |
 | Ordonanța de urgență a Guvernului nr. 159/2001 pentru prevenirea şi combaterea utilizării sistemului financiar-bancar în scopul finanţării de acte de terorism | [`oug/2001/159/`](oug/2001/159/) | amended, not consolidated | 1 | 2001-12-14 | 2001-12-14 |
 | Ordonanța de urgență a Guvernului nr. 162/2001 pentru modificarea alin. (2) al art. 4 din Legea nr. 35/1999 privind ratificarea Acordului de împrumut dintre România şi Banca Europeană de Investiţii şi Societatea Naţionala a Căilor Ferate Române (S.N.C.F.R.) pentru finanţarea Proiectului de modernizare a căilor ferate, semnat la Luxemburg şi la Bucureşti la 30 iunie 1998 | [`oug/2001/162/`](oug/2001/162/) | amended, not consolidated | 1 | 2001-12-12 | 2001-12-12 |
@@ -11934,7 +11935,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26394, of which 12344 amending acts)
+## Government decisions (HG) (26406, of which 12350 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13069,8 +13070,20 @@
 | Hotărârea Guvernului nr. 1157/2001 | [`hg/2001/1157/`](hg/2001/1157/) | in force | 1 | 2001-12-05 | 2001-12-05 |
 | Hotărârea Guvernului nr. 1172/2001 pentru aprobarea Regulamentului privind procedura de constituire, atribuțiile și funcționarea comisiilor pentru stabilirea dreptului de proprietate privată asupra terenurilor, a modelului și modului de atribuire a titlurilor de proprietate, precum și punerea în posesie a proprietarilor | [`hg/2001/1172/`](hg/2001/1172/) | amending act | 2 | 2001-12-21 | 2002-07-19 |
 | Hotărârea Guvernului nr. 1175/2001 | [`hg/2001/1175/`](hg/2001/1175/) | in force | 1 | 2001-12-12 | 2001-12-12 |
+| Hotărârea Guvernului nr. 1181/2001 privind organizarea la Bucureşti a reuniunii Consiliului Ministerial al OSCE şi a reuniunii pregătitoare a acestuia, în perioada 30 noiembrie-4 decembrie 2001 | [`hg/2001/1181/`](hg/2001/1181/) | in force | 1 | 2001-11-28 | 2001-11-28 |
+| Hotărârea Guvernului nr. 1182/2001 privind înfiinţarea Societăţii Comerciale de Producere a Energiei Electrice şi Termice "Electrocentrale Deva" - S.A. - Filiala a Societăţii Comerciale de Producere a Energiei Electrice şi Termice "Termoelectrica" - S.A., prin divizarea parţială a Societăţii Comerciale de Producere a Energiei Electrice şi Termice "Termoelectrica" - S.A. - Sucursala Electrocentrale Deva | [`hg/2001/1182/`](hg/2001/1182/) | in force | 1 | 2001-12-04 | 2001-12-04 |
+| Hotărârea Guvernului nr. 1183/2001 pentru modificarea anexelor nr. 2 şi 3 la Hotărârea Guvernului nr. 680/2001 privind organizarea şi desfăşurarea recensământului populaţiei şi al locuinţelor din România în anul 2002 | [`hg/2001/1183/`](hg/2001/1183/) | amending act | 1 | 2001-12-06 | 2001-12-06 |
+| Hotărârea Guvernului nr. 1185/2001 privind majorarea limitelor amenzilor contravenţionale prevăzute în unele acte normative din domeniul turismului | [`hg/2001/1185/`](hg/2001/1185/) | in force | 1 | 2001-12-06 | 2001-12-06 |
+| Hotărârea Guvernului nr. 1187/2001 pentru modificarea Hotărârii Guvernului nr. 903/2001 privind detalierea listei-sinteza pe amplasamente şi obiective de investiţii din cadrul Programului de construcţii de locuinţe pentru tineret | [`hg/2001/1187/`](hg/2001/1187/) | amending act | 1 | 2001-12-11 | 2001-12-11 |
 | Hotărârea Guvernului nr. 1188/2001 pentru aprobarea Normelor metodologice privind recalcularea pensiilor militare de stat | [`hg/2001/1188/`](hg/2001/1188/) | amended, not consolidated | 1 | 2001-12-07 | 2001-12-07 |
+| Hotărârea Guvernului nr. 1192/2001 privind alocarea unor sume din Fondul de rezerva bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2001, pentru subvenţionarea energiei termice livrate populaţiei | [`hg/2001/1192/`](hg/2001/1192/) | in force | 1 | 2001-12-06 | 2001-12-06 |
+| Hotărârea Guvernului nr. 1193/2001 privind aprobarea Listei cuprinzând subvenţiile unitare pentru produsele din industria cărbunelui, minereurilor feroase, neferoase, radioactive, rare şi nemetalifere, care se subvenţionează de la bugetul de stat în anul 2001 | [`hg/2001/1193/`](hg/2001/1193/) | amending act | 1 | 2001-12-12 | 2001-12-12 |
 | Hotărârea Guvernului nr. 1194/2001 | [`hg/2001/1194/`](hg/2001/1194/) | in force | 2 | 2001-12-12 | 2003-11-17 |
+| Hotărârea Guvernului nr. 1196/2001 pentru modificarea anexei nr. 1 la Hotărârea Guvernului nr. 517/1999 privind delimitarea suprafeţelor de teren strict necesare pentru cercetarea şi producerea de seminţe şi material săditor din categorii biologice superioare şi de animale de rasa şi trecerea terenurilor destinate producţiei, aflate în administrarea institutelor şi staţiunilor de cercetare şi producţie agricolă, în domeniul privat al statului | [`hg/2001/1196/`](hg/2001/1196/) | amending act | 1 | 2001-12-12 | 2001-12-12 |
+| Hotărârea Guvernului nr. 1199/2001 pentru aprobarea bugetelor de venituri şi cheltuieli pe anul 2001 ale institutelor naţionale de cercetare-dezvoltare aflate în coordonarea Ministerului Muncii şi Solidarităţii Sociale | [`hg/2001/1199/`](hg/2001/1199/) | amending act | 1 | 2001-12-12 | 2001-12-12 |
+| Hotărârea Guvernului nr. 1200/2001 privind aprobarea valorii coşului minim de consum lunar pentru trimestrele I, II şi III ale anului 2001 | [`hg/2001/1200/`](hg/2001/1200/) | amending act | 1 | 2001-12-12 | 2001-12-12 |
+| Hotărârea Guvernului nr. 1201/2001 privind acordarea unor ajutoare financiare | [`hg/2001/1201/`](hg/2001/1201/) | in force | 1 | 2001-12-12 | 2001-12-12 |
+| Hotărârea Guvernului nr. 1202/2001 privind transmiterea cu plata a unor construcţii din domeniul privat al statului şi administrarea Regiei Autonome "Locato" către Republica Islamica Iran | [`hg/2001/1202/`](hg/2001/1202/) | in force | 1 | 2001-12-11 | 2001-12-11 |
 | Hotărârea Guvernului nr. 1203/2001 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2001, pentru judeţul Gorj | [`hg/2001/1203/`](hg/2001/1203/) | in force | 1 | 2001-12-05 | 2001-12-05 |
 | Hotărârea Guvernului nr. 1206/2001 pentru aprobarea Normelor de aplicare a dispoziţiilor privitoare la dreptul cetăţenilor aparţinând unei minorităţi naţionale de a folosi limba maternă în administraţia publică locală, cuprinse în Legea administraţiei publice locale nr. 215/2001 | [`hg/2001/1206/`](hg/2001/1206/) | amending act | 1 | 2001-12-07 | 2001-12-07 |
 | Hotărârea Guvernului nr. 1207/2001 pentru modificarea art. 39 din Normele privind reglementarea unor probleme financiare în activitatea sportiva, aprobate prin Hotărârea Guvernului nr. 766/2001 | [`hg/2001/1207/`](hg/2001/1207/) | amending act | 1 | 2001-12-13 | 2001-12-13 |
