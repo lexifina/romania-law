@@ -1,6 +1,6 @@
 # Every act in this repository
 
-20865 acts, 34,498 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+20872 acts, 34,505 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -5591,7 +5591,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (15283, of which 7799 amending acts)
+## Government decisions (HG) (15290, of which 7804 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8817,13 +8817,20 @@
 | Hotărârea Guvernului nr. 1023/2011 | [`hg/2011/1023/`](hg/2011/1023/) | in force | 1 | 2011-10-25 | 2011-10-25 |
 | Hotărârea Guvernului nr. 1024/2011 | [`hg/2011/1024/`](hg/2011/1024/) | in force | 1 | 2011-10-24 | 2011-10-24 |
 | Hotărârea Guvernului nr. 1040/2011 | [`hg/2011/1040/`](hg/2011/1040/) | in force | 2 | 2011-11-08 | 2012-06-22 |
+| Hotărârea Guvernului nr. 1048/2011 pentru aprobarea Acordului privind cooperarea în domeniul sănătăţii şi al ştiinţei medicale dintre Ministerul Sănătăţii al României şi Ministerul Sănătăţii al Republicii Azerbaidjan, semnat la Baku la 18 aprilie 2011 | [`hg/2011/1048/`](hg/2011/1048/) | amending act | 1 | 2011-11-21 | 2011-11-21 |
 | Hotărârea Guvernului nr. 1088/2011 privind organizarea și funcționarea Inspectoratului de Stat pentru Controlul în Transportul Rutier | [`hg/2011/1088/`](hg/2011/1088/) | in force | 2 | 2011-11-03 | 2022-08-13 |
 | Hotărârea Guvernului nr. 1094/2011 | [`hg/2011/1094/`](hg/2011/1094/) | in force | 1 | 2011-12-16 | 2011-12-16 |
 | Hotărârea Guvernului nr. 1105/2011 | [`hg/2011/1105/`](hg/2011/1105/) | in force | 1 | 2011-11-10 | 2011-11-10 |
 | Hotărârea Guvernului nr. 1128/2011 pentru modificarea anexei la Hotărârea Guvernului nr. 867/2007 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiţii "Lărgire la 4 benzi de circulaţie a DN 73 între km 7+000 - km 11+100 şi drum de legătură cu DN 73D", precum şi pentru declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică "Lărgire la 4 benzi de circulaţie a DN 73 între km 7+000 - km 11+100 şi drum de legătură cu DN 73D" | [`hg/2011/1128/`](hg/2011/1128/) | amending act | 1 | 2011-11-24 | 2011-11-24 |
 | Hotărârea Guvernului nr. 1132/2011 privind modificarea anexei nr. 11 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului și transmiterea unor imobile proprietate publică a statului din administrarea Ministerului Justiției - Administrația Națională a Penitenciarelor - Penitenciarul Slobozia în administrarea Ministerului Dezvoltării Regionale și Turismului | [`hg/2011/1132/`](hg/2011/1132/) | amending act | 1 | 2011-11-18 | 2011-11-18 |
 | Hotărârea Guvernului nr. 1135/2011 | [`hg/2011/1135/`](hg/2011/1135/) | in force | 2 | 2012-01-01 | 2012-08-13 |
+| Hotărârea Guvernului nr. 1152/2011 privind actualizarea valorii de inventar şi darea în administrarea Ministerului Transporturilor şi Infrastructurii a unor imobile - construcţii şi terenuri, aflate în domeniul public al statului, din administrarea Ministerului Administraţiei şi Internelor - Inspectoratul General pentru Situaţii de Urgenţă, prin Inspectoratul pentru Situaţii de Urgenţă "Dealu Spirii" al Municipiului Bucureşti, în vederea realizării de către Compania Naţională de Autostrăzi şi Drumuri Naţionale din România - S.A. a obiectivului de interes naţional "Autostrada Bucureşti-Braşov, tronson Bucureşti-Ploieşti" | [`hg/2011/1152/`](hg/2011/1152/) | in force | 1 | 2011-11-24 | 2011-11-24 |
 | Hotărârea Guvernului nr. 1154/2011 | [`hg/2011/1154/`](hg/2011/1154/) | in force | 1 | 2011-11-30 | 2011-11-30 |
+| Hotărârea Guvernului nr. 1158/2011 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2011 | [`hg/2011/1158/`](hg/2011/1158/) | in force | 1 | 2011-11-29 | 2011-11-29 |
+| Hotărârea Guvernului nr. 1159/2011 pentru aprobarea listei obiectivelor de investiţii finanţate în cadrul Proiectului "Servicii comunitare de prevenire a separării copilului de familia sa şi instruirea personalului aferent" din judeţele Bacău, Botoşani, Dolj şi Mehedinţi şi a indicatorilor tehnico-economici ai acestora | [`hg/2011/1159/`](hg/2011/1159/) | amending act | 1 | 2011-12-05 | 2011-12-05 |
+| Hotărârea Guvernului nr. 1163/2011 pentru modificarea anexei la Hotărârea Guvernului nr. 508/2010 privind aprobarea finanţării din bugetul Fondului pentru mediu a lucrărilor de înlăturare şi prevenire a efectelor calamităţilor naturale produse de inundaţii | [`hg/2011/1163/`](hg/2011/1163/) | amending act | 1 | 2011-12-05 | 2011-12-05 |
+| Hotărârea Guvernului nr. 1164/2011 pentru aprobarea plăţii contribuţiei voluntare, în lei, a României la Centrul de Informare al ONU pe anul 2011 | [`hg/2011/1164/`](hg/2011/1164/) | amending act | 1 | 2011-12-05 | 2011-12-05 |
+| Hotărârea Guvernului nr. 1166/2011 pentru aprobarea amendamentului convenit prin schimbul de scrisori semnate la Bucureşti la 23 februarie 2011, respectiv 23 martie 2011 şi 14 iunie 2011 şi la Washington la 14 martie 2011, respectiv 2 iunie 2011 între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare la Acordul de împrumut (Proiect privind completarea sprijinului financiar acordat de Uniunea Europeană pentru restructurarea agriculturii) dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Bucureşti la 28 decembrie 2007 | [`hg/2011/1166/`](hg/2011/1166/) | amending act | 1 | 2011-12-06 | 2011-12-06 |
 | Hotărârea Guvernului nr. 1167/2011 privind actualizarea inventarului centralizat al bunurilor din domeniul public al statului, ca urmare a schimbării unităţii de administrare şi modificării valorii de inventar a unui imobil aflat în domeniul public al statului şi în administrarea Ministerului Administraţiei şi Internelor | [`hg/2011/1167/`](hg/2011/1167/) | in force | 1 | 2011-12-05 | 2011-12-05 |
 | Hotărârea Guvernului nr. 1169/2011 | [`hg/2011/1169/`](hg/2011/1169/) | in force | 1 | 2011-12-12 | 2011-12-12 |
 | Hotărârea Guvernului nr. 1170/2011 privind modificarea şi completarea Normelor metodologice pentru aplicarea Legii nr. 269/2004 privind acordarea unui ajutor financiar în vederea stimulării achiziţionării de calculatoare, aprobate prin Hotărârea Guvernului nr. 1.294/2004 | [`hg/2011/1170/`](hg/2011/1170/) | amending act | 1 | 2011-12-06 | 2011-12-06 |
