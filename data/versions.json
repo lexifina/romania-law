@@ -152282,6 +152282,21 @@
    ]
   },
   {
+   "slug": "hg-1353-2005",
+   "path": "hg/2005/1353",
+   "short": "HG nr. 1353/2005",
+   "title": "Hotărârea Guvernului nr. 1353/2005 pentru aprobarea amendamentelor convenite prin schimb de scrisori, semnate la Bucureşti la 20 şi 28 iulie 2005, precum şi la Washington la 2 şi 4 august 2005, între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare privind finanţarea Proiectului de închidere a minelor şi de atenuare a impactului social, în valoare de 44,5 milioane dolari S.U.A., semnat la Bucureşti la 13 octombrie 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66002",
+   "versions": [
+    {
+     "from": "2005-11-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66002",
+     "sha256": "c2f47321650ef607e2d93f8127004e5395d4e156bf189bd46e3dc4e3b40c327a"
+    }
+   ]
+  },
+  {
    "slug": "hg-1353-2006",
    "path": "hg/2006/1353",
    "short": "HG nr. 1353/2006",
@@ -152353,6 +152368,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261338",
      "sha256": "dbd7c0fa17476313e2bc39df187bec7750d48448141a729b0e45cfcb4f74b455"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1354-2005",
+   "path": "hg/2005/1354",
+   "short": "HG nr. 1354/2005",
+   "title": "Hotărârea Guvernului nr. 1354/2005 pentru modificarea şi completarea Hotărârii Guvernului nr. 618/2005 privind constituirea Colegiului pentru Consultarea Societăţii Civile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65897",
+   "versions": [
+    {
+     "from": "2005-11-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65897",
+     "sha256": "fa79b487e87de0ae4c65d78878acf6b519705512538138131efbe6452d97ea5b"
     }
    ]
   },
@@ -152567,6 +152597,21 @@
    ]
   },
   {
+   "slug": "hg-1358-2005",
+   "path": "hg/2005/1358",
+   "short": "HG nr. 1358/2005",
+   "title": "Hotărârea Guvernului nr. 1358/2005 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.549/2004 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării \"Varianta ocolitoare a municipiului Piteşti\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66039",
+   "versions": [
+    {
+     "from": "2005-11-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66039",
+     "sha256": "6b1271b57f9e0af0a80f7ba900b877fa5e57bc307418e8a137a8db61d03b8cfb"
+    }
+   ]
+  },
+  {
    "slug": "hg-1358-2006",
    "path": "hg/2006/1358",
    "short": "HG nr. 1358/2006",
@@ -152623,6 +152668,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125048",
      "sha256": "7674d656be2f95cfb62cb5f4cf5363e51b83f2f811d719127ddc7f2646a8f6f9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1359-2005",
+   "path": "hg/2005/1359",
+   "short": "HG nr. 1359/2005",
+   "title": "Hotărârea Guvernului nr. 1359/2005 pentru modificarea Hotărârii Guvernului nr. 392/2005 privind utilizarea sumelor încasate din privatizare pentru construirea şi/sau reabilitarea caselor de locuit din zonele calamitate, inclusiv pentru amenajarea terenurilor de construcţii şi a căilor de acces",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66013",
+   "versions": [
+    {
+     "from": "2005-11-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66013",
+     "sha256": "5c7926b7625ce772ea524dcd9291750e6edc36890fb30c8a958281482aed039d"
     }
    ]
   },
@@ -153110,6 +153170,21 @@
    ]
   },
   {
+   "slug": "hg-1363-2005",
+   "path": "hg/2005/1363",
+   "short": "HG nr. 1363/2005",
+   "title": "Hotărârea Guvernului nr. 1363/2005 privind eliberarea domnului Hărdău Mihail din funcţia de prefect al judeţului Cluj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65765",
+   "versions": [
+    {
+     "from": "2005-11-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65765",
+     "sha256": "f4ffb58b856149af83c43e932322c91bfa2ad5a6f45b811ee7d7c38a7c127484"
+    }
+   ]
+  },
+  {
    "slug": "hg-1363-2006",
    "path": "hg/2006/1363",
    "short": "HG nr. 1363/2006",
@@ -153200,6 +153275,21 @@
    ]
   },
   {
+   "slug": "hg-1364-2005",
+   "path": "hg/2005/1364",
+   "short": "HG nr. 1364/2005",
+   "title": "Hotărârea Guvernului nr. 1364/2005 privind numirea domnului Tişe Alin-Păunel în funcţia de prefect al judeţului Cluj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65766",
+   "versions": [
+    {
+     "from": "2005-11-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65766",
+     "sha256": "4fd99c8307a6db4b08e6f583180156298cc91cb6de6534ac7c4a9dce35f4e185"
+    }
+   ]
+  },
+  {
    "slug": "hg-1364-2006",
    "path": "hg/2006/1364",
    "short": "HG nr. 1364/2006",
@@ -153256,6 +153346,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125138",
      "sha256": "2a8db711f7d554bdf8b543c41cce0487f24a991069253f2b35963d6f207fe189"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1365-2005",
+   "path": "hg/2005/1365",
+   "short": "HG nr. 1365/2005",
+   "title": "Hotărârea Guvernului nr. 1365/2005 pentru propunerea Preasfinţitului Episcop dr. Laurenţiu (Liviu Streza) în funcţia de Arhiepiscop al Sibiului şi Mitropolit al Ardealului în vederea recunoaşterii prin decret al Preşedintelui României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65767",
+   "versions": [
+    {
+     "from": "2005-11-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65767",
+     "sha256": "823884a1f4027f7877d6669a7441717cc478f07011131bca1585d355053bb517"
     }
    ]
   },
@@ -153455,6 +153560,21 @@
    ]
   },
   {
+   "slug": "hg-1367-2005",
+   "path": "hg/2005/1367",
+   "short": "HG nr. 1367/2005",
+   "title": "Hotărârea Guvernului nr. 1367/2005 pentru aprobarea finanţării proiectului \"A IV-a ediţie a Forumului româno-francez al cooperării descentralizate\" din fondurile pentru promovarea imaginii externe a României pe anul 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65807",
+   "versions": [
+    {
+     "from": "2005-11-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65807",
+     "sha256": "7d6f741154ae600a7d53bd8b3fdcfe08fb010cfdb02b79193aac73b8bfbb87ea"
+    }
+   ]
+  },
+  {
    "slug": "hg-1367-2006",
    "path": "hg/2006/1367",
    "short": "HG nr. 1367/2006",
@@ -153545,6 +153665,21 @@
    ]
   },
   {
+   "slug": "hg-1368-2005",
+   "path": "hg/2005/1368",
+   "short": "HG nr. 1368/2005",
+   "title": "Hotărârea Guvernului nr. 1368/2005 privind aprobarea stemei municipiului Slatina, judeţul Olt",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65988",
+   "versions": [
+    {
+     "from": "2005-11-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65988",
+     "sha256": "d09f7ecec7a65fead1864befb4846f0fddbd41bf369584cccd01512d64b7ead0"
+    }
+   ]
+  },
+  {
    "slug": "hg-1368-2006",
    "path": "hg/2006/1368",
    "short": "HG nr. 1368/2006",
@@ -153616,6 +153751,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261315",
      "sha256": "9e8bfa2c5e3b7752630586cd6a104319fd35827a42e6ea2ac5c38b7724e0c94a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1369-2005",
+   "path": "hg/2005/1369",
+   "short": "HG nr. 1369/2005",
+   "title": "Hotărârea Guvernului nr. 1369/2005 privind aprobarea stemei municipiului Sebeş, judeţul Alba",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65989",
+   "versions": [
+    {
+     "from": "2005-11-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65989",
+     "sha256": "ca9a6ba169fea6d4e3c66e24aeddd475bb5a77737c876d0e929b5ce24f6f31e6"
     }
    ]
   },
@@ -154094,6 +154244,21 @@
    ]
   },
   {
+   "slug": "hg-1373-2005",
+   "path": "hg/2005/1373",
+   "short": "HG nr. 1373/2005",
+   "title": "Hotărârea Guvernului nr. 1373/2005 privind aprobarea renunţării la cetăţenia română de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66009",
+   "versions": [
+    {
+     "from": "2005-11-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66009",
+     "sha256": "a03b04f59115dd04237722a350653adde8453f472a8c7db5ce49a113bd9353ec"
+    }
+   ]
+  },
+  {
    "slug": "hg-1373-2006",
    "path": "hg/2006/1373",
    "short": "HG nr. 1373/2006",
@@ -154196,6 +154361,21 @@
    ]
   },
   {
+   "slug": "hg-1374-2005",
+   "path": "hg/2005/1374",
+   "short": "HG nr. 1374/2005",
+   "title": "Hotărârea Guvernului nr. 1374/2005 privind aprobarea Regulamentului pentru organizarea şi funcţionarea Consiliului de onoare al Ordinului Meritul Sanitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65995",
+   "versions": [
+    {
+     "from": "2005-11-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65995",
+     "sha256": "93ad553fa22e05e1ff1046c02b28308941e383d78c1417b0ce77d83e61364e20"
+    }
+   ]
+  },
+  {
    "slug": "hg-1374-2008",
    "path": "hg/2008/1374",
    "short": "HG nr. 1374/2008",
@@ -154252,6 +154432,21 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55060",
      "sha256": "904e90159dc3a70d9d27117144b6fc482ae8f400eca7c6693800bb1881cbc1bf"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1375-2005",
+   "path": "hg/2005/1375",
+   "short": "HG nr. 1375/2005",
+   "title": "Hotărârea Guvernului nr. 1375/2005 privind suplimentarea bugetului Ministerului Administraţiei şi Internelor din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Braşov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65869",
+   "versions": [
+    {
+     "from": "2005-11-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65869",
+     "sha256": "4f9d5a7812bf3f67761b7ec700983ae283634e78641d327d94164a4eee3bb56a"
     }
    ]
   },
@@ -154331,6 +154526,21 @@
    ]
   },
   {
+   "slug": "hg-1376-2005",
+   "path": "hg/2005/1376",
+   "short": "HG nr. 1376/2005",
+   "title": "Hotărârea Guvernului nr. 1376/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Cluj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65944",
+   "versions": [
+    {
+     "from": "2005-11-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65944",
+     "sha256": "365d65ce119f78b1514938d0063c48bbf1f8b025b362afa822b3c3b8e02693cd"
+    }
+   ]
+  },
+  {
    "slug": "hg-1376-2007",
    "path": "hg/2007/1376",
    "short": "HG nr. 1376/2007",
@@ -154387,6 +154597,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290437",
      "sha256": "515d3e82b1f1d2023eaa68063d08e3e63425e122e890f8a9ee32141029a1f2a7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1377-2005",
+   "path": "hg/2005/1377",
+   "short": "HG nr. 1377/2005",
+   "title": "Hotărârea Guvernului nr. 1377/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Brăila",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65945",
+   "versions": [
+    {
+     "from": "2005-11-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65945",
+     "sha256": "eb496a63e16274c09c07fa87f156d2b607ec1952a635cad9d2e67021b291f8f3"
     }
    ]
   },
@@ -154466,6 +154691,21 @@
    ]
   },
   {
+   "slug": "hg-1378-2005",
+   "path": "hg/2005/1378",
+   "short": "HG nr. 1378/2005",
+   "title": "Hotărârea Guvernului nr. 1378/2005 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru înlăturarea efectelor calamităţilor naturale produse în judeţul Bacău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65946",
+   "versions": [
+    {
+     "from": "2005-11-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65946",
+     "sha256": "7177e04cfcad7ed06d690125d68644effdfd1ac2002e47161d50ba2590c263f5"
+    }
+   ]
+  },
+  {
    "slug": "hg-1378-2007",
    "path": "hg/2007/1378",
    "short": "HG nr. 1378/2007",
@@ -154522,6 +154762,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290439",
      "sha256": "2f3bc87a7bab2ce21bc7980be618dd413575e5d19952225ea79907062748dfb4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1379-2005",
+   "path": "hg/2005/1379",
+   "short": "HG nr. 1379/2005",
+   "title": "Hotărârea Guvernului nr. 1379/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Giurgiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65950",
+   "versions": [
+    {
+     "from": "2005-11-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65950",
+     "sha256": "c9aed237d119dbc73945adb7e69f59eab660432e537a73b0354330031a4929a4"
     }
    ]
   },
@@ -154792,6 +155047,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308292",
      "sha256": "82f02912c0954c2f5d576855794c507abaca7b2d8f8d447af1cc9a43c34ae7ac"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1380-2005",
+   "path": "hg/2005/1380",
+   "short": "HG nr. 1380/2005",
+   "title": "Hotărârea Guvernului nr. 1380/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Constanţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65952",
+   "versions": [
+    {
+     "from": "2005-11-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65952",
+     "sha256": "098fd855ebb17e579d6eb835b10d15d30af28207f46b302cdcf817cf295a16c1"
     }
    ]
   },
@@ -409046,6 +409316,21 @@
    ]
   },
   {
+   "slug": "legea-310-2005",
+   "path": "lege/2005/310",
+   "short": "Legea nr. 310/2005",
+   "title": "Legea nr. 310/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 60/2005 pentru modificarea Legii nr. 80/1995 privind Statutul cadrelor militare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65763",
+   "versions": [
+    {
+     "from": "2005-11-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65763",
+     "sha256": "f6459bc0569213a158972afe8c584405d03f7c54bf4dc67ac760a6c7b93b66e7"
+    }
+   ]
+  },
+  {
    "slug": "legea-310-2007",
    "path": "lege/2007/310",
    "short": "Legea nr. 310/2007",
@@ -409337,6 +409622,21 @@
    ]
   },
   {
+   "slug": "legea-314-2005",
+   "path": "lege/2005/314",
+   "short": "Legea nr. 314/2005",
+   "title": "Legea nr. 314/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 101/2005 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 70/2004 privind instituirea unor măsuri postprivatizare la Societatea Comercială \"Automobile Dacia\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65900",
+   "versions": [
+    {
+     "from": "2005-11-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65900",
+     "sha256": "3fb9dff18f479977fe114e8ad25cba9c5814afa0fe8c9d2d09178aa33b75f3a4"
+    }
+   ]
+  },
+  {
    "slug": "legea-314-2006",
    "path": "lege/2006/314",
    "short": "Legea nr. 314/2006",
@@ -409438,6 +409738,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261524",
      "sha256": "176d2d75aa49a9881616fd5a24bc303142bf2744d5a71fe205236b98dba2ecdc"
+    }
+   ]
+  },
+  {
+   "slug": "legea-315-2005",
+   "path": "lege/2005/315",
+   "short": "Legea nr. 315/2005",
+   "title": "Legea nr. 315/2005 privind acceptarea Codului pentru construcţia şi echipamentul unităţilor mobile de foraj marin (Codul MODU 1979) adoptat de Adunarea Organizaţiei Maritime Consultative Interguvernamentale prin Rezoluţia A.414(XI) la Londra la 15 noiembrie 1979, a amendamentelor la Codul MODU 1979 adoptate de Organizaţia Maritimă Internaţională prin anexa 18 din Raportul Comitetului Securităţii Maritime la a cincizeci şi noua sa sesiune la Londra la 13-24 mai 1991, precum şi a Codului din 1989 pentru construcţia şi echipamentul unităţilor mobile de foraj marin (Codul MODU 1989) adoptat de Adunarea Organizaţiei Maritime Internaţionale prin Rezoluţia A.649 (16) la Londra la 19 octombrie 1989, astfel cum a fost modificat de amendamentele adoptate prin anexa 17 din Raportul Comitetului Securităţii Maritime la a cincizeci şi noua sa sesiune la Londra la 13-24 mai 1991, şi prin Rezoluţia MSC.38 (63) a Comitetului Securităţii Maritime la Londra la 19 mai 1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66226",
+   "versions": [
+    {
+     "from": "2005-11-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66226",
+     "sha256": "fc5c982afc9c920dcc4980261055cdc6e39161f4261aa456ad1a704a52c86895"
     }
    ]
   },
@@ -409547,6 +409862,21 @@
    ]
   },
   {
+   "slug": "legea-316-2005",
+   "path": "lege/2005/316",
+   "short": "Legea nr. 316/2005",
+   "title": "Legea nr. 316/2005 pentru acceptarea amendamentelor la Protocolul din 1988 privind Convenţia internaţională din 1966 asupra liniilor de încărcare, adoptate de Organizaţia Maritima Internaţională prin Rezoluţia MSC.143 (77) a Comitetului Siguranţei Maritime la Londra la 5 iunie 2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66110",
+   "versions": [
+    {
+     "from": "2005-11-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66110",
+     "sha256": "af21cfb235aebf7b7f3fb62c0fd8708bb6a94f5892e2ab407ec45ee18bf1ee1d"
+    }
+   ]
+  },
+  {
    "slug": "legea-316-2013",
    "path": "lege/2013/316",
    "short": "Legea nr. 316/2013",
@@ -409588,6 +409918,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276095",
      "sha256": "55323db3dc2e91e107ce291d4b7cdbeb32187003c0bf842d9b7cbd2256cfff22"
+    }
+   ]
+  },
+  {
+   "slug": "legea-317-2005",
+   "path": "lege/2005/317",
+   "short": "Legea nr. 317/2005",
+   "title": "Legea nr. 317/2005 privind acceptarea amendamentelor la anexele la Protocolul din 1978 referitor la Convenţia internaţională din 1973 pentru prevenirea poluării de către nave (MARPOL 73/78), adoptate de Organizaţia Maritimă Internaţională la Londra prin rezoluţiile MEPC.111(50) la 4 decembrie 2003 şi MEPC.116(51) la 1 aprilie 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90916",
+   "versions": [
+    {
+     "from": "2005-11-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90916",
+     "sha256": "dd9c802046de93ba9e0f9495ac344542d838663f42d4b2d9cd14915d53230982"
     }
    ]
   },
@@ -409667,6 +410012,21 @@
    ]
   },
   {
+   "slug": "legea-318-2005",
+   "path": "lege/2005/318",
+   "short": "Legea nr. 318/2005",
+   "title": "Legea nr. 318/2005 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 87/2005 privind abrogarea art. 8 alin. (4) din Ordonanţa de urgenţă a Guvernului nr. 64/2003 pentru stabilirea unor măsuri privind înfiinţarea, organizarea, reorganizarea sau funcţionarea unor structuri din cadrul aparatului de lucru al Guvernului, a ministerelor, a altor organe de specialitate ale administraţiei publice centrale şi a unor instituţii publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65902",
+   "versions": [
+    {
+     "from": "2005-11-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65902",
+     "sha256": "4aa5255219debc91b20b7a47734fffe3683135a221765a85520781de41325a06"
+    }
+   ]
+  },
+  {
    "slug": "legea-318-2013",
    "path": "lege/2013/318",
    "short": "Legea nr. 318/2013",
@@ -409708,6 +410068,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276099",
      "sha256": "2fcc3ea86b1c6696e8be016eafcdd35f03cdb015e9a70ba53f3cbc12e6371a5d"
+    }
+   ]
+  },
+  {
+   "slug": "legea-319-2005",
+   "path": "lege/2005/319",
+   "short": "Legea nr. 319/2005",
+   "title": "Legea nr. 319/2005 pentru abrogarea alin. (5) al art. 2 din Legea nr. 376/2004 privind bursele private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65904",
+   "versions": [
+    {
+     "from": "2005-11-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65904",
+     "sha256": "2b7a1ba640683129946a78f4c967699f0954576d166b9866915c51122eb29e08"
     }
    ]
   },
@@ -409864,6 +410239,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252246",
      "sha256": "4c568a424eb9c11d1e5afcc1535b82dab8af13b42a1f91bf9802171ab1d6fd74"
+    }
+   ]
+  },
+  {
+   "slug": "legea-320-2005",
+   "path": "lege/2005/320",
+   "short": "Legea nr. 320/2005",
+   "title": "Legea nr. 320/2005 privind aprobarea Ordonanţei Guvernului nr. 24/2005 pentru modificarea alin. (2) al art. 7 din Ordonanţa Guvernului nr. 80/2001 privind stabilirea unor normative de cheltuieli pentru autorităţile administraţiei publice şi instituţiile publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65912",
+   "versions": [
+    {
+     "from": "2005-11-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65912",
+     "sha256": "a9edb1ca1b1399c514f203c1c1870d187017b4efa7c11d534de4fcb3f7a9703f"
     }
    ]
   },
@@ -410078,6 +410468,21 @@
    ]
   },
   {
+   "slug": "legea-322-2005",
+   "path": "lege/2005/322",
+   "short": "Legea nr. 322/2005",
+   "title": "Legea nr. 322/2005 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 117/2005 privind acordarea unui sprijin direct al statului producătorilor agricoli pentru înfiinţarea culturilor în toamna anului 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65916",
+   "versions": [
+    {
+     "from": "2005-11-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65916",
+     "sha256": "52138dd5dbceec93084766d679484c6e3bab2e0857490d62165da9c18c37daf1"
+    }
+   ]
+  },
+  {
    "slug": "legea-322-2007",
    "path": "lege/2007/322",
    "short": "Legea nr. 322/2007",
@@ -410179,6 +410584,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276107",
      "sha256": "2f7d190bde386b308f4d71bd11ce3b909fdb84cc42710a443be0381c90cb06b5"
+    }
+   ]
+  },
+  {
+   "slug": "legea-323-2005",
+   "path": "lege/2005/323",
+   "short": "Legea nr. 323/2005",
+   "title": "Legea nr. 323/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 63/2005 pentru reglementarea unor măsuri de reducere a cheltuielilor de personal în anul 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65918",
+   "versions": [
+    {
+     "from": "2005-11-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65918",
+     "sha256": "8432171f0a113c89bd40bbb0545e5c26e3d01384637bd7c87b0423b94b325c07"
     }
    ]
   },
@@ -410290,6 +410710,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/276151",
      "sha256": "238eb1f8b81da077fe46874ed5a9bc19081f0b811e45c57b72687836856e102f"
+    }
+   ]
+  },
+  {
+   "slug": "legea-324-2005",
+   "path": "lege/2005/324",
+   "short": "Legea nr. 324/2005",
+   "title": "Legea nr. 324/2005 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 200/2000 privind clasificarea, etichetarea şi ambalarea substanţelor şi preparatelor chimice periculoase",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65977",
+   "versions": [
+    {
+     "from": "2005-11-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65977",
+     "sha256": "0a69e724bbc13d31d3a393d7d85bc36e7bccf95ba74a64a51797e39c929f1220"
     }
    ]
   },
@@ -410729,6 +411164,21 @@
    ]
   },
   {
+   "slug": "legea-329-2005",
+   "path": "lege/2005/329",
+   "short": "Legea nr. 329/2005",
+   "title": "Legea nr. 329/2005 pentru completarea Ordonanţei de urgenţă a Guvernului nr. 179/2002 privind demilitarizarea unităţilor aparatului central al Ministerului de Interne şi a structurilor subordonate acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66055",
+   "versions": [
+    {
+     "from": "2005-11-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66055",
+     "sha256": "2b8082d7069e1a49d9645b4db3f5c709a57bd1cdba1e9ca2c999ce8839ac158c"
+    }
+   ]
+  },
+  {
    "slug": "legea-329-2013",
    "path": "lege/2013/329",
    "short": "Legea nr. 329/2013",
@@ -410890,6 +411340,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308293",
      "sha256": "c7d48c990f85a40215dee5ba5f09b44b0b2b2fcc5b4aaf3bd2f8169084e0aa73"
+    }
+   ]
+  },
+  {
+   "slug": "legea-330-2005",
+   "path": "lege/2005/330",
+   "short": "Legea nr. 330/2005",
+   "title": "Legea nr. 330/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 118/2005 pentru modificarea Ordonanţei Guvernului nr. 9/2005 privind creşterile salariale ce se vor acorda în anul 2005 personalului bugetar salarizat potrivit Ordonanţei de urgenţă a Guvernului nr. 24/2000 privind sistemul de stabilire a salariilor de bază pentru personalul contractual din sectorul bugetar şi personalului salarizat potrivit anexelor nr. II şi III la Legea nr. 154/1998 privind sistemul de stabilire a salariilor de bază în sectorul bugetar şi a indemnizaţiilor pentru persoane care ocupă funcţii de demnitate publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65986",
+   "versions": [
+    {
+     "from": "2005-11-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65986",
+     "sha256": "eed1691f09ca2fdcd4296a7f67bf81321ab9dda9ddc0a012e57f4818a8c12437"
     }
    ]
   },
