@@ -1,6 +1,6 @@
 # Every act in this repository
 
-27499 acts, 41,142 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+27506 acts, 41,149 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6398,7 +6398,7 @@
 | Ordonanța Guvernului nr. 3/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 70/2022 privind prevenirea, verificarea şi constatarea neregulilor/dublei finanţări, a neregulilor grave apărute în obţinerea şi utilizarea fondurilor externe nerambursabile/rambursabile alocate României prin Mecanismul de redresare şi rezilienţă şi/sau a fondurilor publice naţionale aferente acestora şi recuperarea creanţelor rezultate | [`og/2026/3/`](og/2026/3/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (21110, of which 10889 amending acts)
+## Government decisions (HG) (21117, of which 10891 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6868,7 +6868,14 @@
 | Hotărârea Guvernului nr. 1492/2004 privind principiile de organizare, funcționarea și atribuțiile serviciilor de urgență profesioniste | [`hg/2004/1492/`](hg/2004/1492/) | in force | 4 | 2004-09-28 | 2024-08-22 |
 | Hotărârea Guvernului nr. 1505/2004 | [`hg/2004/1505/`](hg/2004/1505/) | in force | 1 | 2004-09-23 | 2004-09-23 |
 | Hotărârea Guvernului nr. 1506/2004 | [`hg/2004/1506/`](hg/2004/1506/) | in force | 1 | 2004-09-23 | 2004-09-23 |
+| Hotărârea Guvernului nr. 1512/2004 privind suplimentarea bugetului Cancelariei Primului-Ministru din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004 | [`hg/2004/1512/`](hg/2004/1512/) | in force | 1 | 2004-09-24 | 2004-09-24 |
+| Hotărârea Guvernului nr. 1514/2004 pentru aprobarea Memorandumului de înţelegere referitor la cofinanţarea şi administrarea Programului "Activităţi de implementare şi monitorizare a strategiei pentru îmbunătăţirea situaţiei romilor - 2004" dintre Secretariatul General al Guvernului (S.G.G.) Departamentul pentru Relaţii Interetnice (D.R.I.) şi Programul Naţiunilor Unite pentru Dezvoltare (P.N.U.D.), semnat la Bucureşti la 2 septembrie 2004 | [`hg/2004/1514/`](hg/2004/1514/) | amending act | 1 | 2004-10-07 | 2004-10-07 |
 | Hotărârea Guvernului nr. 1516/2004 | [`hg/2004/1516/`](hg/2004/1516/) | in force | 1 | 2004-10-05 | 2004-10-05 |
+| Hotărârea Guvernului nr. 1517/2004 privind sistarea obiectivelor de investiţii la capacităţile aprobate prin decretele Consiliului de Stat nr. 159/1980 şi nr. 332/1984, nepuse în funcţiune până la data de 31 decembrie 1990 la Societatea Comercială "ROMAERO" - S.A. Bucureşti | [`hg/2004/1517/`](hg/2004/1517/) | in force | 1 | 2004-10-04 | 2004-10-04 |
+| Hotărârea Guvernului nr. 1520/2004 privind suplimentarea bugetului Cancelariei Primului-Ministru din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2004 | [`hg/2004/1520/`](hg/2004/1520/) | in force | 1 | 2004-09-24 | 2004-09-24 |
+| Hotărârea Guvernului nr. 1521/2004 privind eliberarea domnului Serafinceanu Aurelian Calistru, la cerere, din funcţia de prefect al judeţului Hunedoara | [`hg/2004/1521/`](hg/2004/1521/) | in force | 1 | 2004-09-25 | 2004-09-25 |
+| Hotărârea Guvernului nr. 1522/2004 pentru modificarea anexei la Hotărârea Guvernului nr. 151/2004 privind transmiterea unor bunuri mobile, proprietate privată a statului, din administrarea Ministerului Apărării Naţionale în administrarea unor consilii judeţene şi locale | [`hg/2004/1522/`](hg/2004/1522/) | amending act | 1 | 2004-09-25 | 2004-09-25 |
+| Hotărârea Guvernului nr. 1524/2004 privind suplimentarea bugetului Ministerului Educaţiei şi Cercetării pe anul 2004 din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004 | [`hg/2004/1524/`](hg/2004/1524/) | in force | 1 | 2004-09-27 | 2004-09-27 |
 | Hotărârea Guvernului nr. 1525/2004 privind suplimentarea bugetului Ministerului Mediului şi Gospodăririi Apelor din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004 | [`hg/2004/1525/`](hg/2004/1525/) | in force | 1 | 2004-09-28 | 2004-09-28 |
 | Hotărârea Guvernului nr. 1526/2004 pentru aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2004 al Regiei Naţionale a Pădurilor - Romsilva, aflată sub autoritatea Ministerului Agriculturii, Pădurilor şi Dezvoltării Rurale | [`hg/2004/1526/`](hg/2004/1526/) | amending act | 1 | 2004-09-28 | 2004-09-28 |
 | Hotărârea Guvernului nr. 1527/2004 privind acordarea unor ajutoare de urgenţă | [`hg/2004/1527/`](hg/2004/1527/) | in force | 1 | 2004-09-28 | 2004-09-28 |
