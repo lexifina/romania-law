@@ -1,6 +1,6 @@
 # Every act in this repository
 
-23688 acts, 37,321 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+23707 acts, 37,340 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3620, of which 2084 amending acts)
+## Laws (legi) (3623, of which 2087 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -682,6 +682,9 @@
 | Legea nr. 374/2006 | [`lege/2006/374/`](lege/2006/374/) | in force | 2 | 2006-10-16 | 2018-11-12 |
 | Legea nr. 380/2006 | [`lege/2006/380/`](lege/2006/380/) | in force | 1 | 2006-10-16 | 2006-10-16 |
 | Legea nr. 384/2006 | [`lege/2006/384/`](lege/2006/384/) | in force | 14 | 2006-12-23 | 2024-03-24 |
+| Legea nr. 385/2006 pentru aprobarea plăţii unor contribuţii voluntare anuale din partea României la bugetele Comitetului Internaţional al Crucii Roşii, Înaltului Comisariat al Naţiunilor Unite pentru Refugiaţi şi Oficiului Înaltului Comisar al Naţiunilor Unite pentru Drepturile Omului | [`lege/2006/385/`](lege/2006/385/) | amending act | 1 | 2006-10-28 | 2006-10-28 |
+| Legea nr. 386/2006 pentru aprobarea prelungirii participării Guvernului României, pentru perioada 2006-2010, la Acordul dintre Comisia Economică pentru Europa a Naţiunilor Unite (C.E.E./O.N.U.) şi guvernele participante la proiectul "Calea Ferată Trans-Europeană (TER)" privind fondul de cooperare şi creditare, semnat la Geneva la 17 decembrie 1992 | [`lege/2006/386/`](lege/2006/386/) | amending act | 1 | 2006-10-28 | 2006-10-28 |
+| Legea nr. 387/2006 privind modificarea art. 1 din Legea nr. 476/2002 pentru aprobarea plăţii contribuţiei României la Fondul de Cooperare al Iniţiativei Central Europene | [`lege/2006/387/`](lege/2006/387/) | amending act | 1 | 2006-10-28 | 2006-10-28 |
 | Legea nr. 389/2006 | [`lege/2006/389/`](lege/2006/389/) | in force | 1 | 2006-10-30 | 2006-10-30 |
 | Legea nr. 391/2006 | [`lege/2006/391/`](lege/2006/391/) | in force | 1 | 2006-11-05 | 2006-11-05 |
 | Legea nr. 392/2006 pentru abrogarea unor acte normative | [`lege/2006/392/`](lege/2006/392/) | amending act | 1 | 2006-11-05 | 2006-11-05 |
@@ -3658,7 +3661,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1729, of which 609 amending acts)
+## Emergency ordinances (OUG) (1730, of which 609 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3991,6 +3994,7 @@
 | Ordonanța de urgență a Guvernului nr. 71/2006 | [`oug/2006/71/`](oug/2006/71/) | in force | 2 | 2006-09-22 | 2006-12-24 |
 | Ordonanța de urgență a Guvernului nr. 72/2006 | [`oug/2006/72/`](oug/2006/72/) | in force | 2 | 2006-09-25 | 2007-01-21 |
 | Ordonanța de urgență a Guvernului nr. 74/2006 | [`oug/2006/74/`](oug/2006/74/) | in force | 2 | 2006-10-09 | 2007-11-19 |
+| Ordonanța de urgență a Guvernului nr. 81/2006 privind scutirea de la plata drepturilor de import şi a altor impozite şi taxe indirecte pentru o autospecială de intervenţie pentru accidente colective, calamităţi şi operaţiuni de salvare grea | [`oug/2006/81/`](oug/2006/81/) | in force | 1 | 2006-10-27 | 2006-10-27 |
 | Ordonanța de urgență a Guvernului nr. 82/2006 | [`oug/2006/82/`](oug/2006/82/) | repealed 2021-02-04 | 8 | 2006-11-03 | 2021-02-04 |
 | Ordonanța de urgență a Guvernului nr. 85/2006 | [`oug/2006/85/`](oug/2006/85/) | repealed 2025-01-12 | 3 | 2006-11-15 | 2025-01-12 |
 | Ordonanța de urgență a Guvernului nr. 86/2006 | [`oug/2006/86/`](oug/2006/86/) | in force | 11 | 2006-11-22 | 2022-07-17 |
@@ -5925,7 +5929,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (17772, of which 9205 amending acts)
+## Government decisions (HG) (17787, of which 9209 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6620,7 +6624,22 @@
 | Hotărârea Guvernului nr. 1418/2006 pentru aprobarea Metodologiei de evaluare externă, a standardelor, a standardelor de referință și a listei indicatorilor de performanță a Agenției Române de Asigurare a Calității în Învățământul Superior | [`hg/2006/1418/`](hg/2006/1418/) | amending act | 1 | 2006-10-23 | 2006-10-23 |
 | Hotărârea Guvernului nr. 1425/2006 | [`hg/2006/1425/`](hg/2006/1425/) | in force | 1 | 2006-10-30 | 2006-10-30 |
 | Hotărârea Guvernului nr. 1460/2006 privind înființarea unor stațiuni de cercetare-dezvoltare agricolă în domeniul culturii plantelor de camp prin reorganizarea unor stațiuni de cercetare și producție agricolă în domeniul culturii plantelor de camp | [`hg/2006/1460/`](hg/2006/1460/) | in force | 3 | 2006-11-10 | 2019-10-09 |
+| Hotărârea Guvernului nr. 1464/2006 pentru aprobarea Normelor privind întocmirea, emiterea şi utilizarea dovezilor de onorabilitate şi moralitate profesională ale medicilor, medicilor dentişti şi ale farmaciştilor | [`hg/2006/1464/`](hg/2006/1464/) | amending act | 1 | 2006-10-25 | 2006-10-25 |
+| Hotărârea Guvernului nr. 1465/2006 privind utilizarea sumelor încasate din privatizare pentru transmiterea cu plată a imobilului "Palatul CEC", cu terenul aferent, din patrimoniul Casei de Economii şi Consemnaţiuni C.E.C. - S.A. în domeniul public al municipiului Bucureşti şi în administrarea Consiliului General al Municipiului Bucureşti | [`hg/2006/1465/`](hg/2006/1465/) | in force | 1 | 2006-10-24 | 2006-10-24 |
+| Hotărârea Guvernului nr. 1467/2006 pentru aprobarea amendamentului convenit prin schimbul de scrisori, semnate la Bucureşti la 14 iunie 2006 şi la Zagreb la 23 iunie 2006, între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare privind finanţarea Proiectului de închidere a minelor şi de atenuare a impactului social, în valoare de 44,5 milioane dolari S.U.A., semnat la Bucureşti la 13 octombrie 1999 | [`hg/2006/1467/`](hg/2006/1467/) | amending act | 1 | 2006-11-08 | 2006-11-08 |
+| Hotărârea Guvernului nr. 1469/2006 privind aprobarea Strategiei de restructurare şi privatizare a Societăţii Naţionale "Plafar" - S.A. şi a mandatului instituţiei publice implicate | [`hg/2006/1469/`](hg/2006/1469/) | amending act | 1 | 2006-11-06 | 2006-11-06 |
 | Hotărârea Guvernului nr. 1470/2006 privind redobândirea cetățeniei române de către unele persoane | [`hg/2006/1470/`](hg/2006/1470/) | in force | 1 | 2006-11-15 | 2006-11-15 |
+| Hotărârea Guvernului nr. 1472/2006 pentru modificarea Hotărârii Guvernului nr. 1.088/2006 privind înfiinţarea Centrului Cultural "Sala Palatului" | [`hg/2006/1472/`](hg/2006/1472/) | amending act | 1 | 2006-10-26 | 2006-10-26 |
+| Hotărârea Guvernului nr. 1474/2006 privind suplimentarea bugetului Cancelariei Primului-Ministru din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, în vederea asigurării unor cheltuieli cu caracter obligatoriu | [`hg/2006/1474/`](hg/2006/1474/) | in force | 1 | 2006-10-30 | 2006-10-30 |
+| Hotărârea Guvernului nr. 1475/2006 privind suplimentarea bugetului Cancelariei Primului-Ministru din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru Agenţia Naţională Anti-Doping, în vederea organizării Conferinţei "Nu Dopajului" şi pentru obţinerea acreditării internaţionale a Laboratorului de Control Doping | [`hg/2006/1475/`](hg/2006/1475/) | in force | 1 | 2006-10-30 | 2006-10-30 |
+| Hotărârea Guvernului nr. 1479/2006 privind suplimentarea bugetului Ministerului Culturii şi Cultelor din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2006, pentru Mănăstirea Locurele, judeţul Gorj | [`hg/2006/1479/`](hg/2006/1479/) | in force | 1 | 2006-10-30 | 2006-10-30 |
+| Hotărârea Guvernului nr. 1480/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru judeţul Arad | [`hg/2006/1480/`](hg/2006/1480/) | in force | 1 | 2006-10-30 | 2006-10-30 |
+| Hotărârea Guvernului nr. 1481/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru judeţul Bihor | [`hg/2006/1481/`](hg/2006/1481/) | in force | 1 | 2006-10-30 | 2006-10-30 |
+| Hotărârea Guvernului nr. 1482/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru judeţul Botoşani | [`hg/2006/1482/`](hg/2006/1482/) | in force | 1 | 2006-10-30 | 2006-10-30 |
+| Hotărârea Guvernului nr. 1483/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru judeţul Braşov | [`hg/2006/1483/`](hg/2006/1483/) | in force | 1 | 2006-10-30 | 2006-10-30 |
+| Hotărârea Guvernului nr. 1484/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru judeţul Constanţa | [`hg/2006/1484/`](hg/2006/1484/) | in force | 1 | 2006-10-30 | 2006-10-30 |
+| Hotărârea Guvernului nr. 1485/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru judeţul Constanţa | [`hg/2006/1485/`](hg/2006/1485/) | in force | 1 | 2006-10-30 | 2006-10-30 |
+| Hotărârea Guvernului nr. 1486/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru judeţul Gorj | [`hg/2006/1486/`](hg/2006/1486/) | in force | 1 | 2006-10-30 | 2006-10-30 |
 | Hotărârea Guvernului nr. 1487/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru judeţul Giurgiu | [`hg/2006/1487/`](hg/2006/1487/) | in force | 1 | 2006-10-30 | 2006-10-30 |
 | Hotărârea Guvernului nr. 1488/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru judeţul Olt | [`hg/2006/1488/`](hg/2006/1488/) | in force | 1 | 2006-10-30 | 2006-10-30 |
 | Hotărârea Guvernului nr. 1489/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru judeţul Suceava | [`hg/2006/1489/`](hg/2006/1489/) | in force | 1 | 2006-10-30 | 2006-10-30 |
