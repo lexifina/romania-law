@@ -1,6 +1,6 @@
 # Every act in this repository
 
-27514 acts, 41,157 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+27533 acts, 41,176 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (4033, of which 2429 amending acts)
+## Laws (legi) (4035, of which 2429 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -551,8 +551,10 @@
 | Legea nr. 348/2004 privind denominarea monedei naționale | [`lege/2004/348/`](lege/2004/348/) | in force | 3 | 2004-07-26 | 2005-05-08 |
 | Legea nr. 351/2004 | [`lege/2004/351/`](lege/2004/351/) | in force | 10 | 2004-08-27 | 2012-10-06 |
 | Legea nr. 359/2004 | [`lege/2004/359/`](lege/2004/359/) | repealed 2022-11-26 | 11 | 2004-10-13 | 2022-11-26 |
+| Legea nr. 363/2004 pentru ratificarea Acordului dintre România şi Regatul Spaniei privind protecţia informaţiilor clasificate din domeniul apărării, semnat la Bucureşti la 3 martie 2004 | [`lege/2004/363/`](lege/2004/363/) | in force | 1 | 2004-09-25 | 2004-09-25 |
 | Legea nr. 364/2004 | [`lege/2004/364/`](lege/2004/364/) | in force | 9 | 2004-09-26 | 2020-02-11 |
 | Legea nr. 365/2004 pentru ratificarea Convenției Națiunilor Unite împotriva corupției , adoptată la New York la 31 octombrie 2003 | [`lege/2004/365/`](lege/2004/365/) | in force | 1 | 2004-10-08 | 2004-10-08 |
+| Legea nr. 367/2004 pentru ratificarea Scrisorii de înţelegere dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare privind acordarea unui avans, în valoare de 2 milioane dolari S.U.A., pentru pregătirea proiectului "Economia bazată pe cunoaştere", care urmează să fie finanţat printr-un împrumut în valoare de 80 milioane dolari S.U.A., semnată la Bucureşti la 30 iunie 2004 | [`lege/2004/367/`](lege/2004/367/) | in force | 1 | 2004-09-27 | 2004-09-27 |
 | Legea nr. 369/2004 | [`lege/2004/369/`](lege/2004/369/) | in force | 4 | 2004-12-29 | 2023-02-21 |
 | Legea nr. 370/2004 pentru alegerea Președintelui României | [`lege/2004/370/`](lege/2004/370/) | in force | 15 | 2004-10-02 | 2024-05-10 |
 | Legea nr. 372/2004 | [`lege/2004/372/`](lege/2004/372/) | in force | 1 | 2004-10-01 | 2004-10-01 |
@@ -6398,7 +6400,7 @@
 | Ordonanța Guvernului nr. 3/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 70/2022 privind prevenirea, verificarea şi constatarea neregulilor/dublei finanţări, a neregulilor grave apărute în obţinerea şi utilizarea fondurilor externe nerambursabile/rambursabile alocate României prin Mecanismul de redresare şi rezilienţă şi/sau a fondurilor publice naţionale aferente acestora şi recuperarea creanţelor rezultate | [`og/2026/3/`](og/2026/3/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (21125, of which 10893 amending acts)
+## Government decisions (HG) (21142, of which 10901 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6861,11 +6863,26 @@
 | Hotărârea Guvernului nr. 1441/2004 | [`hg/2004/1441/`](hg/2004/1441/) | in force | 2 | 2005-01-01 | 2016-08-12 |
 | Hotărârea Guvernului nr. 1443/2004 | [`hg/2004/1443/`](hg/2004/1443/) | in force | 1 | 2005-01-01 | 2005-01-01 |
 | Hotărârea Guvernului nr. 1470/2004 | [`hg/2004/1470/`](hg/2004/1470/) | in force | 2 | 2004-10-18 | 2007-04-24 |
+| Hotărârea Guvernului nr. 1471/2004 pentru modificarea art. 8 lit. a) din Hotărârea Guvernului nr. 281/1993 cu privire la salarizarea personalului din unităţile bugetare | [`hg/2004/1471/`](hg/2004/1471/) | amending act | 1 | 2004-09-17 | 2004-09-17 |
+| Hotărârea Guvernului nr. 1474/2004 pentru aprobarea Memorandumului de înţelegere dintre Ministerul Transporturilor, Construcţiilor şi Turismului - Autoritatea Naţională pentru Turism din România şi Administraţia Naţională a Turismului din Republica Populară Chineză privind programul de derulare pentru turismul organizat al cetăţenilor chinezi în România, semnat la Bucureşti la 13 iunie 2004 | [`hg/2004/1474/`](hg/2004/1474/) | amending act | 1 | 2004-09-20 | 2004-09-20 |
+| Hotărârea Guvernului nr. 1475/2004 privind transmiterea unor suprafeţe de teren agricol din proprietatea publică a statului şi din administrarea Ministerului Agriculturii, Pădurilor şi Dezvoltării Rurale - Agenţia Naţională de Consultanţă Agricolă - în proprietatea privată a statului | [`hg/2004/1475/`](hg/2004/1475/) | in force | 1 | 2004-09-20 | 2004-09-20 |
+| Hotărârea Guvernului nr. 1476/2004 privind transmiterea unor bunuri imobile, situate în judeţul Botoşani, din domeniul public al statului şi din administrarea Administraţiei Naţionale "Apele Române" în domeniul public al unor unităţi administrativ-teritoriale şi în administrarea consiliilor locale respective | [`hg/2004/1476/`](hg/2004/1476/) | in force | 1 | 2004-09-15 | 2004-09-15 |
+| Hotărârea Guvernului nr. 1477/2004 privind aprobarea unor licenţe de concesiune a activităţii miniere de exploatare, încheiate între Agenţia Naţională pentru Resurse Minerale şi Societatea Comercială "Carpat Agregate" - S.A | [`hg/2004/1477/`](hg/2004/1477/) | amending act | 1 | 2004-09-17 | 2004-09-17 |
+| Hotărârea Guvernului nr. 1478/2004 privind transmiterea sălilor şi grădinilor de spectacol cinematografic, proprietate publică a statului, din administrarea Centrului Naţional al Cinematografiei în administrarea Regiei Autonome de Distribuţie şi Exploatare a Filmelor "Româniafilm" | [`hg/2004/1478/`](hg/2004/1478/) | in force | 1 | 2004-09-17 | 2004-09-17 |
+| Hotărârea Guvernului nr. 1480/2004 privind recunoaşterea Organizaţiei "Caritas Alba Iulia din Arhidioceza Româno-Catolică Alba Iulia" ca fiind de utilitate publică | [`hg/2004/1480/`](hg/2004/1480/) | in force | 1 | 2004-09-15 | 2004-09-15 |
+| Hotărârea Guvernului nr. 1481/2004 privind recunoaşterea Asociaţiei Creştine de Caritate, Misiune şi Ajutor Olanda-România "Betania" ca fiind de utilitate publică | [`hg/2004/1481/`](hg/2004/1481/) | in force | 1 | 2004-09-15 | 2004-09-15 |
+| Hotărârea Guvernului nr. 1484/2004 pentru aprobarea Programului naţional "Sport în cartier" privind construcţia şi amenajarea a 1.000 de terenuri de sport în perioada 2004-2008 | [`hg/2004/1484/`](hg/2004/1484/) | amending act | 1 | 2004-09-24 | 2004-09-24 |
+| Hotărârea Guvernului nr. 1486/2004 pentru modificarea poziţiilor nr. 11 şi 30 din anexa nr. 1 la Hotărârea Guvernului nr. 517/1999 privind delimitarea suprafeţelor de teren strict necesare pentru cercetarea şi producerea de seminţe şi material săditor din categorii biologice superioare şi de animale de rasă şi trecerea terenurilor destinate producţiei, aflate în administrarea institutelor şi staţiunilor de cercetare şi producţie agricolă, în domeniul privat al statului | [`hg/2004/1486/`](hg/2004/1486/) | amending act | 1 | 2004-09-17 | 2004-09-17 |
 | Hotărârea Guvernului nr. 1488/2004 | [`hg/2004/1488/`](hg/2004/1488/) | in force | 5 | 2004-09-21 | 2018-09-17 |
 | Hotărârea Guvernului nr. 1489/2004 | [`hg/2004/1489/`](hg/2004/1489/) | in force | 1 | 2004-10-28 | 2004-10-28 |
 | Hotărârea Guvernului nr. 1490/2004 | [`hg/2004/1490/`](hg/2004/1490/) | in force | 2 | 2004-09-28 | 2009-12-16 |
 | Hotărârea Guvernului nr. 1491/2004 | [`hg/2004/1491/`](hg/2004/1491/) | in force | 2 | 2004-09-28 | 2016-08-26 |
 | Hotărârea Guvernului nr. 1492/2004 privind principiile de organizare, funcționarea și atribuțiile serviciilor de urgență profesioniste | [`hg/2004/1492/`](hg/2004/1492/) | in force | 4 | 2004-09-28 | 2024-08-22 |
+| Hotărârea Guvernului nr. 1493/2004 privind transmiterea, fără plată, a unui imobil în proprietatea Arhiepiscopiei Sucevei şi Rădăuţilor din cadrul Patriarhiei Bisericii Ortodoxe Române | [`hg/2004/1493/`](hg/2004/1493/) | in force | 1 | 2004-09-23 | 2004-09-23 |
+| Hotărârea Guvernului nr. 1495/2004 privind acordarea unui ajutor | [`hg/2004/1495/`](hg/2004/1495/) | in force | 1 | 2004-09-17 | 2004-09-17 |
+| Hotărârea Guvernului nr. 1496/2004 pentru completarea art. 6 din Hotărârea Guvernului nr. 11/2003 privind acordarea unui ajutor umanitar şi a 10 burse de studii Republicii Angola | [`hg/2004/1496/`](hg/2004/1496/) | amending act | 1 | 2004-09-20 | 2004-09-20 |
+| Hotărârea Guvernului nr. 1497/2004 privind transmiterea unei părţi dintr-un imobil din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al municipiului Târgu Jiu şi în administrarea Consiliului Local al Municipiului Târgu Jiu, judeţul Gorj | [`hg/2004/1497/`](hg/2004/1497/) | in force | 1 | 2004-09-20 | 2004-09-20 |
+| Hotărârea Guvernului nr. 1499/2004 privind trecerea unor imobile, aflate în administrarea Ministerului Administraţiei şi Internelor, din domeniul public al statului în domeniul privat al statului | [`hg/2004/1499/`](hg/2004/1499/) | in force | 1 | 2004-09-21 | 2004-09-21 |
 | Hotărârea Guvernului nr. 1500/2004 privind aprobarea efectuării unei plăţi din bugetul Ministerului Afacerilor Externe pentru o lucrare contractată în baza Programului naţional "Nicolae Titulescu" | [`hg/2004/1500/`](hg/2004/1500/) | amending act | 1 | 2004-09-21 | 2004-09-21 |
 | Hotărârea Guvernului nr. 1501/2004 privind plata contribuţiei financiare a României, aferentă participării în anul 2004 la Programul comunitar privind reţelele de telecomunicaţii transeuropene - eTEN | [`hg/2004/1501/`](hg/2004/1501/) | in force | 1 | 2004-09-21 | 2004-09-21 |
 | Hotărârea Guvernului nr. 1502/2004 privind suplimentarea bugetului Ministerului Agriculturii, Pădurilor şi Dezvoltării Rurale pe anul 2004 din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004 | [`hg/2004/1502/`](hg/2004/1502/) | in force | 1 | 2004-09-21 | 2004-09-21 |
@@ -7006,6 +7023,8 @@
 | Hotărârea Guvernului nr. 1691/2004 privind acordarea de către România a unui ajutor umanitar, cu titlu gratuit, pentru Sudan | [`hg/2004/1691/`](hg/2004/1691/) | in force | 1 | 2004-10-21 | 2004-10-21 |
 | Hotărârea Guvernului nr. 1692/2004 pentru modificarea şi completarea Hotărârii Guvernului nr. 744/2003 privind organizarea şi funcţionarea Ministerului Comunicaţiilor şi Tehnologiei Informaţiei | [`hg/2004/1692/`](hg/2004/1692/) | amending act | 1 | 2004-10-27 | 2004-10-27 |
 | Hotărârea Guvernului nr. 1693/2004 | [`hg/2004/1693/`](hg/2004/1693/) | in force | 4 | 2004-10-21 | 2022-02-14 |
+| Hotărârea Guvernului nr. 1694/2004 privind aprobarea stemei comunei Căiuţi, judeţul Bacău | [`hg/2004/1694/`](hg/2004/1694/) | amending act | 1 | 2004-10-28 | 2004-10-28 |
+| Hotărârea Guvernului nr. 1695/2004 privind aprobarea stemei comunei Bucov, judeţul Prahova | [`hg/2004/1695/`](hg/2004/1695/) | amending act | 1 | 2004-10-28 | 2004-10-28 |
 | Hotărârea Guvernului nr. 1696/2004 privind aprobarea stemelor unor comune din judeţul Prahova | [`hg/2004/1696/`](hg/2004/1696/) | amending act | 1 | 2004-11-02 | 2004-11-02 |
 | Hotărârea Guvernului nr. 1697/2004 | [`hg/2004/1697/`](hg/2004/1697/) | in force | 1 | 2004-10-28 | 2004-10-28 |
 | Hotărârea Guvernului nr. 1698/2004 privind aprobarea stemei oraşului Moldova Nouă, judeţul Caraş-Severin | [`hg/2004/1698/`](hg/2004/1698/) | amending act | 1 | 2004-10-28 | 2004-10-28 |
