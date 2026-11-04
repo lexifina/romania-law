@@ -173744,6 +173744,81 @@
    ]
   },
   {
+   "slug": "hg-1834-2006",
+   "path": "hg/2006/1834",
+   "short": "HG nr. 1834/2006",
+   "title": "Hotărârea Guvernului nr. 1834/2006 pentru aprobarea plăţii din bugetul Ministerului Administraţiei şi Internelor a contravalorii cheltuielilor legate de participarea a 4 reprezentanţi ai Inspectoratului General al Poliţiei de Frontieră la Misiunea de asistenţă a Uniunii Europene la punctul de trecere a frontierei de la Rafah, dintre Fâşia Gaza şi Egipt",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78064",
+   "versions": [
+    {
+     "from": "2006-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78064",
+     "sha256": "f5b571ca2268803dbe8f74eb3807ddaa88dcfc69fb0483e76a11b38efddbf7ba"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1836-2006",
+   "path": "hg/2006/1836",
+   "short": "HG nr. 1836/2006",
+   "title": "Hotărârea Guvernului nr. 1836/2006 privind suplimentarea plafonului maxim în limita căruia Regia Autonomă pentru Activităţi Nucleare va face compensări în anul 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78007",
+   "versions": [
+    {
+     "from": "2006-12-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78007",
+     "sha256": "d6f48c945b2cbe9f26143463d60b9443b528a76e2d260f55835432d1db6ed203"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1837-2006",
+   "path": "hg/2006/1837",
+   "short": "HG nr. 1837/2006",
+   "title": "Hotărârea Guvernului nr. 1837/2006 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru înlăturarea efectelor calamităţilor naturale produse în judeţele Ialomiţa şi Neamţ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77994",
+   "versions": [
+    {
+     "from": "2006-12-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77994",
+     "sha256": "0ae6e5ffe75d7a5a82c548a7cc00bd785c2b690c14a9b3c709cec052ce06a53e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1838-2006",
+   "path": "hg/2006/1838",
+   "short": "HG nr. 1838/2006",
+   "title": "Hotărârea Guvernului nr. 1838/2006 pentru modificarea poziţiei nr. 21 din anexa la Hotărârea Guvernului nr. 876/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru asigurarea unor cheltuieli curente şi de capital ale autorităţilor administraţiei publice locale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77980",
+   "versions": [
+    {
+     "from": "2006-12-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77980",
+     "sha256": "0297abe213972e9ce49cf3cff78f58c2d8f8df3b5f7edbff4a1017fc2d742381"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1839-2006",
+   "path": "hg/2006/1839",
+   "short": "HG nr. 1839/2006",
+   "title": "Hotărârea Guvernului nr. 1839/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru judeţul Iaşi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78325",
+   "versions": [
+    {
+     "from": "2006-12-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78325",
+     "sha256": "972da78218d3928fcd34febfb6027c08c1eb48928cc281914cc4b720f7ba672f"
+    }
+   ]
+  },
+  {
    "slug": "hg-184-2007",
    "path": "hg/2007/184",
    "short": "HG nr. 184/2007",
@@ -173909,6 +173984,21 @@
    ]
   },
   {
+   "slug": "hg-1840-2006",
+   "path": "hg/2006/1840",
+   "short": "HG nr. 1840/2006",
+   "title": "Hotărârea Guvernului nr. 1840/2006 privind suplimentarea bugetului Ministerului Economiei şi Comerţului din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78340",
+   "versions": [
+    {
+     "from": "2006-12-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78340",
+     "sha256": "64de02cdf6ec3e08addd628345f9582493159813d48237878024c067d2a48e25"
+    }
+   ]
+  },
+  {
    "slug": "hg-1842-2004",
    "path": "hg/2004/1842",
    "short": "HG nr. 1842/2004",
@@ -173920,6 +174010,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56822",
      "sha256": "3825ace2243344604b9ed417d73af7c8207f77dde6b4eb8d7d2e488f9da4876f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1843-2006",
+   "path": "hg/2006/1843",
+   "short": "HG nr. 1843/2006",
+   "title": "Hotărârea Guvernului nr. 1843/2006 privind modificarea în structură a sumelor alocate din credite externe în bugetul Ministerului Educaţiei şi Cercetării pe anul 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78098",
+   "versions": [
+    {
+     "from": "2006-12-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78098",
+     "sha256": "db0b8edeff1fa51a485860980b4da4c6c5e90edac2d3b9e3e63b9f36ad0ead10"
     }
    ]
   },
@@ -173941,6 +174046,21 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122133",
      "sha256": "96aa0408264e611052357737afbb46c81d5976c7ec91b6ffb67d081c65638601"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1846-2006",
+   "path": "hg/2006/1846",
+   "short": "HG nr. 1846/2006",
+   "title": "Hotărârea Guvernului nr. 1846/2006 pentru aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2006 al Companiei Naţionale \"UNIFARM\" - S.A. Bucureşti, aflată sub autoritatea Ministerului Sănătăţii Publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78119",
+   "versions": [
+    {
+     "from": "2006-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78119",
+     "sha256": "b55f3d805e4613a9e4d31c2072b8f6796ee80d10edc123d85e0435f96a5ee541"
     }
    ]
   },
@@ -174125,6 +174245,51 @@
    ]
   },
   {
+   "slug": "hg-1851-2006",
+   "path": "hg/2006/1851",
+   "short": "HG nr. 1851/2006",
+   "title": "Hotărârea Guvernului nr. 1851/2006 pentru modificarea anexei nr. 2 la Hotărârea Guvernului nr. 725/2003 privind structura organizatorică şi efectivele Ministerului Administraţiei şi Internelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78234",
+   "versions": [
+    {
+     "from": "2006-12-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78234",
+     "sha256": "aa40e66d3db017689ac2e8832ddd7e8e8c270648444567c383a87dff1f9e6c13"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1852-2006",
+   "path": "hg/2006/1852",
+   "short": "HG nr. 1852/2006",
+   "title": "Hotărârea Guvernului nr. 1852/2006 privind autorizarea Ministerului Administraţiei şi Internelor de a atribui contracte multianuale de furnizare de mijloace de transport pe bază de leasing financiar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78475",
+   "versions": [
+    {
+     "from": "2007-01-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78475",
+     "sha256": "924fd77ba62c0667aba62ea970328aa85f6004d8b8af8d0380ab368363fb7629"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1853-2006",
+   "path": "hg/2006/1853",
+   "short": "HG nr. 1853/2006",
+   "title": "Hotărârea Guvernului nr. 1853/2006 privind aprobarea contractării de către Ministerul Finanţelor Publice a unor credite externe în valoare de 60 milioane euro şi 10 milioane USD, destinate asigurării parţiale a necesarului de finanţat pentru derularea unor proiecte din portofoliul Ministerului Transporturilor, Construcţiilor şi Turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78027",
+   "versions": [
+    {
+     "from": "2006-12-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78027",
+     "sha256": "1faadb328a6624283b07b41fec910660a2008909c1cff7abe406ab1a30edd3e5"
+    }
+   ]
+  },
+  {
    "slug": "hg-1854-2005",
    "path": "hg/2005/1854",
    "short": "HG nr. 1854/2005",
@@ -174136,6 +174301,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/68248",
      "sha256": "b0d4f007a57c51e7e940ec558f00dfcb93f921e074701653743396bbb6912d9c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1854-2006",
+   "path": "hg/2006/1854",
+   "short": "HG nr. 1854/2006",
+   "title": "Hotărârea Guvernului nr. 1854/2006 privind garantarea de către Ministerul Finanţelor Publice, în proporţie de 80%, a împrumutului intern în valoare de maximum 26,8 milioane dolari S.U.A. pentru Societatea Comercială \"Electrocentrale Galaţi\"- S.A., în vederea completării finanţării achiziţiilor de resurse energetice din ţară şi din import pentru iarna 2006-2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78035",
+   "versions": [
+    {
+     "from": "2006-12-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78035",
+     "sha256": "0cc13cb15141b600f5cba3387589326e007975ba628402b0e0dcb27adfd600cb"
     }
    ]
   },
@@ -174157,6 +174337,21 @@
      "units": 26,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67781",
      "sha256": "b860b17ec7589535ec56deea8401cdcfd07811b92715cca70dc79fe4c2d8b01e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1859-2006",
+   "path": "hg/2006/1859",
+   "short": "HG nr. 1859/2006",
+   "title": "Hotărârea Guvernului nr. 1859/2006 privind constatarea încetării de drept a raportului de serviciu al unui subprefect al judeţului Iaşi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78036",
+   "versions": [
+    {
+     "from": "2006-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78036",
+     "sha256": "cbaa7120171043f78a0548095c04840476a61fbf8df22e1917401de797228821"
     }
    ]
   },
@@ -174311,6 +174506,66 @@
    ]
   },
   {
+   "slug": "hg-1866-2006",
+   "path": "hg/2006/1866",
+   "short": "HG nr. 1866/2006",
+   "title": "Hotărârea Guvernului nr. 1866/2006 pentru completarea Hotărârii Guvernului nr. 1.059/2005 privind asigurarea de sprijin prin Agenţia Naţională pentru Dezvoltarea Zonelor Miniere autorităţilor administraţiei publice locale din regiunile miniere, pe bază de grant, pentru implementarea programului de infrastructură prevăzut în Legea nr. 167/2005 privind ratificarea Acordului de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare pentru finanţarea Proiectului privind închiderea minelor, refacerea mediului şi regenerarea socioeconomică, semnat la Bucureşti la 28 ianuarie 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78465",
+   "versions": [
+    {
+     "from": "2007-01-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78465",
+     "sha256": "8bada3a72c0b3e08ea960c5db3acdd584ca55806f7845a2c3d88c6f712e4f2a9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1867-2006",
+   "path": "hg/2006/1867",
+   "short": "HG nr. 1867/2006",
+   "title": "Hotărârea Guvernului nr. 1867/2006 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Reabilitarea zonelor urbane cu deficienţe majore în sistemul de canalizare şi alimentare cu apă din municipiul Bucureşti - inclusiv modernizarea sistemului rutier aferent - sectoarele 1 şi 6\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78374",
+   "versions": [
+    {
+     "from": "2007-01-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78374",
+     "sha256": "7f40388fb83aa0d8aeac40a3e091a7847008b5cbf09d867cda1b26e1d3421e1f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1868-2006",
+   "path": "hg/2006/1868",
+   "short": "HG nr. 1868/2006",
+   "title": "Hotărârea Guvernului nr. 1868/2006 privind plata contribuţiei României pentru anul 2007 la bugetul Institutului de Studii de Securitate al Uniunii Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78037",
+   "versions": [
+    {
+     "from": "2006-12-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78037",
+     "sha256": "23f379a6d71c66a778a560cc282078f728e479d1067e41706429ad0f38c31b69"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1869-2006",
+   "path": "hg/2006/1869",
+   "short": "HG nr. 1869/2006",
+   "title": "Hotărârea Guvernului nr. 1869/2006 pentru modificarea Hotărârii Guvernului nr. 557/2006 privind stabilirea datei de la care se pun în circulaţie paşapoartele electronice, precum şi a formei şi conţinutului acestora, şi pentru modificarea Hotărârii Guvernului nr. 1.016/2003 privind stabilirea formei şi conţinutului permiselor de şedere şi ale documentelor de călătorie care se eliberează străinilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78293",
+   "versions": [
+    {
+     "from": "2007-01-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78293",
+     "sha256": "0968354c6896620ebcc8a58df7b6446ae48b25c676a4cfb30c78380031baff5f"
+    }
+   ]
+  },
+  {
    "slug": "hg-187-2007",
    "path": "hg/2007/187",
    "short": "HG nr. 187/2007",
@@ -174461,6 +174716,21 @@
    ]
   },
   {
+   "slug": "hg-1870-2006",
+   "path": "hg/2006/1870",
+   "short": "HG nr. 1870/2006",
+   "title": "Hotărârea Guvernului nr. 1870/2006 pentru completarea Hotărârii Guvernului nr. 1.100/2004 privind acordarea unui ajutor cu titlu gratuit producătorilor agricoli, persoane fizice, ca urmare a fenomenelor meteorologice nefavorabile din perioada mai-iulie 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78349",
+   "versions": [
+    {
+     "from": "2007-01-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78349",
+     "sha256": "a93c81fe2ce4be5bba9accaca09e3f170e8f7be724f9427244c813d6f0f6e4ef"
+    }
+   ]
+  },
+  {
    "slug": "hg-1872-2005",
    "path": "hg/2005/1872",
    "short": "HG nr. 1872/2005",
@@ -174472,6 +174742,96 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/68694",
      "sha256": "ce362c007c128a71749017b6e569b860ecee2f0c707d7a82a1e09a4b2d4f34c0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1872-2006",
+   "path": "hg/2006/1872",
+   "short": "HG nr. 1872/2006",
+   "title": "Hotărârea Guvernului nr. 1872/2006 pentru modificarea şi completarea Hotărârii Guvernului nr. 621/2005 privind gestionarea ambalajelor şi a deşeurilor de ambalaje",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78424",
+   "versions": [
+    {
+     "from": "2007-01-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78424",
+     "sha256": "c9a0bed4cad268a647e69af83fb429843aa1383979337838f1dc80fcf469bd3d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1873-2006",
+   "path": "hg/2006/1873",
+   "short": "HG nr. 1873/2006",
+   "title": "Hotărârea Guvernului nr. 1873/2006 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.489/2002 privind înfiinţarea Agenţiei Naţionale Antidrog",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78324",
+   "versions": [
+    {
+     "from": "2007-01-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78324",
+     "sha256": "d759aea8118f3dc4ea0cb603d9f4a822c1db1138fc1767fb622cb6b788503725"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1875-2006",
+   "path": "hg/2006/1875",
+   "short": "HG nr. 1875/2006",
+   "title": "Hotărârea Guvernului nr. 1875/2006 pentru modificarea anexei la Hotărârea Guvernului nr. 595/2000 privind stabilirea serviciului public pentru transportul pasagerilor şi al mărfurilor de strictă necesitate între localităţile din Delta Dunării şi municipiul Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78350",
+   "versions": [
+    {
+     "from": "2007-01-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78350",
+     "sha256": "c3e47944f5b7d4000abbb0637ae042c02026e12e6a92ce8517d5e680f058e36a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1876-2006",
+   "path": "hg/2006/1876",
+   "short": "HG nr. 1876/2006",
+   "title": "Hotărârea Guvernului nr. 1876/2006 pentru modificarea Normei nr. 9 din anexa nr. 2 la Hotărârea Guvernului nr. 1.301/2006 privind stabilirea uniformei şi a însemnelor distinctive pentru personalul militar din Inspectoratul General pentru Situaţii de Urgenţă şi din unităţile şi instituţiile subordonate acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78491",
+   "versions": [
+    {
+     "from": "2007-01-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78491",
+     "sha256": "73eeedc9b8672161db6dd98e18c5be071bd61034a56f406f5dbf5122fbf6961d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1877-2006",
+   "path": "hg/2006/1877",
+   "short": "HG nr. 1877/2006",
+   "title": "Hotărârea Guvernului nr. 1877/2006 pentru modificarea Hotărârii Guvernului nr. 744/2003 privind organizarea şi funcţionarea Ministerului Comunicaţiilor şi Tehnologiei Informaţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78435",
+   "versions": [
+    {
+     "from": "2007-01-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78435",
+     "sha256": "f93a54e16a5c2ece6c70e84ddc88069f09aa886f7dd12ee7caf9b8a482906009"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1878-2006",
+   "path": "hg/2006/1878",
+   "short": "HG nr. 1878/2006",
+   "title": "Hotărârea Guvernului nr. 1878/2006 pentru modificarea şi completarea Hotărârii Guvernului nr. 412/2005 privind organizarea şi funcţionarea Ministerului Muncii, Solidarităţii Sociale şi Familiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78089",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78089",
+     "sha256": "8b869f9bc6ca2ac9b7f1da54ea834eabfdee843fe36be8c91ee97fabee533840"
     }
    ]
   },
@@ -174679,6 +175039,96 @@
      "units": 24,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295124",
      "sha256": "4631e5e33f99916336d346b926b48cd0e98032e373e13901a27567e022662110"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1880-2006",
+   "path": "hg/2006/1880",
+   "short": "HG nr. 1880/2006",
+   "title": "Hotărârea Guvernului nr. 1880/2006 privind aprobarea realizării de către Ministerul Administraţiei şi Internelor, prin Agenţia Naţională Antidrog, în colaborare cu Serviciul de Telecomunicaţii Speciale, a reţelei securizate de comunicaţii de arie extinsă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78351",
+   "versions": [
+    {
+     "from": "2007-01-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78351",
+     "sha256": "7af60c74f9de7ca7fac957610ccd4f1660f6a2fc5408e5a5d2a3c8ad8772ca58"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1882-2006",
+   "path": "hg/2006/1882",
+   "short": "HG nr. 1882/2006",
+   "title": "Hotărârea Guvernului nr. 1882/2006 privind înfiinţarea Centrului de Sănătate Urlaţi în oraşul Urlaţi, judeţul Prahova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78425",
+   "versions": [
+    {
+     "from": "2007-01-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78425",
+     "sha256": "0031f5de72d1fca445797e3e975edaf4c7c33de211c63398a58ccbccac0d6aa4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1885-2006",
+   "path": "hg/2006/1885",
+   "short": "HG nr. 1885/2006",
+   "title": "Hotărârea Guvernului nr. 1885/2006 privind transmiterea unui imobil, proprietate publică a statului, din administrarea Agenţiei de Protecţie a Mediului Caraş-Severin în administrarea Comisariatului Regional Timiş al Gărzii Naţionale de Mediu, respectiv în folosinţa Comisariatului Judeţean Caraş-Severin al Gărzii Naţionale de Mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78426",
+   "versions": [
+    {
+     "from": "2007-01-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78426",
+     "sha256": "f4ecd955241649c59c8cc32b6497c176fadaaa9689079ef0af68913c51afeccf"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1887-2006",
+   "path": "hg/2006/1887",
+   "short": "HG nr. 1887/2006",
+   "title": "Hotărârea Guvernului nr. 1887/2006 privind aprobarea Memorandumului de înţelegere semnat la Atena la 20 octombrie 2006 între Guvernul României, prin Ministerul Finanţelor Publice, şi Banca Europeană de Investiţii privind dezvoltarea şi finanţarea proiectelor în cadrul priorităţilor de investiţii ale Guvernului român (2007-2013)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78431",
+   "versions": [
+    {
+     "from": "2007-01-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78431",
+     "sha256": "f58ddd4d9de71338645230ecea9947d414e692d78dbf3788986e26e84a9d0a03"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1888-2006",
+   "path": "hg/2006/1888",
+   "short": "HG nr. 1888/2006",
+   "title": "Hotărârea Guvernului nr. 1888/2006 privind transmiterea unor imobile aflate în domeniul public al statului din administrarea Ministerului Finanţelor Publice - Agenţia Naţională de Administrare Fiscală - Autoritatea Naţională a Vămilor în administrarea Ministerului Administraţiei şi Internelor - Inspectoratul General al Poliţiei de Frontieră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78352",
+   "versions": [
+    {
+     "from": "2007-01-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78352",
+     "sha256": "9b390746e064fb396a6c13a6bca0c8a5444af62b62efe3ab476be5bcfa7152dc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1889-2006",
+   "path": "hg/2006/1889",
+   "short": "HG nr. 1889/2006",
+   "title": "Hotărârea Guvernului nr. 1889/2006 privind transmiterea unor imobile aflate în domeniul public al statului din administrarea Aeroclubului României în administrarea Şcolii Superioare de Aviaţie Civilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78466",
+   "versions": [
+    {
+     "from": "2007-01-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78466",
+     "sha256": "f5d4e1342a0764be1fc4b037f509f99c09867141a04a441b0a24207cd7d2b879"
     }
    ]
   },
@@ -174895,6 +175345,36 @@
      "units": 18,
      "source_url": "https://legislatie.just.ro/public/DetaliiDocument/295125",
      "sha256": "1239d0fa328a346d4e5ea6c0e281258d0b66e86fed16949b69a4bcc6e27f1af9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1891-2006",
+   "path": "hg/2006/1891",
+   "short": "HG nr. 1891/2006",
+   "title": "Hotărârea Guvernului nr. 1891/2006 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Administraţiei şi Internelor în administrarea Ministerului Finanţelor Publice - Agenţia Naţională de Administrare Fiscală - Autoritatea Naţională a Vămilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78467",
+   "versions": [
+    {
+     "from": "2007-01-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78467",
+     "sha256": "e234648eb056b6de172f85a5431b277516cff85edffb760d366a0e1b4b1da042"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1894-2006",
+   "path": "hg/2006/1894",
+   "short": "HG nr. 1894/2006",
+   "title": "Hotărârea Guvernului nr. 1894/2006 privind transmiterea unui teren din domeniul privat al statului şi din administrarea Ministerului Agriculturii, Pădurilor şi Dezvoltării Rurale - Agenţia Domeniilor Statului în domeniul privat al comunei Icuşeşti şi în administrarea Consiliului Local al Comunei Icuşeşti, judeţul Neamţ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78437",
+   "versions": [
+    {
+     "from": "2007-01-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78437",
+     "sha256": "27aaad6af9e89ca8f73246c51aba86a4cb18262253859e6621c03bcb05fdd9b8"
     }
    ]
   },
@@ -175252,6 +175732,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295196",
      "sha256": "192f3efe49b53d9989dbbbbdd24482a835d8ace3bdeffa1df6c7f629b69d7f8e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1900-2006",
+   "path": "hg/2006/1900",
+   "short": "HG nr. 1900/2006",
+   "title": "Hotărârea Guvernului nr. 1900/2006 pentru abrogarea unor acte normative din domeniul comerţului exterior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78141",
+   "versions": [
+    {
+     "from": "2006-12-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78141",
+     "sha256": "18c2f54ebf0963870b7a8675918dc04f51ed23f4c7f4ddf2eb2c2bb54f5ea22d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1901-2006",
+   "path": "hg/2006/1901",
+   "short": "HG nr. 1901/2006",
+   "title": "Hotărârea Guvernului nr. 1901/2006 pentru modificarea Hotărârii Guvernului nr. 1.268/2006 privind sprijinul financiar care se acordă producătorilor agricoli în anul 2006 pentru anumite cantităţi de legume şi fructe proaspete destinate prelucrării industriale, cuantumul sprijinului financiar, sumele alocate pentru fiecare produs, precum şi pentru modificarea şi completarea Hotărârii Guvernului nr. 1.205/2004 privind modul de acordare a sprijinului financiar producătorilor agricoli pentru unele legume şi fructe proaspete destinate prelucrării industriale, precum şi pentru completarea art. 7 din Hotărârea Guvernului nr. 1.205/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78031",
+   "versions": [
+    {
+     "from": "2006-12-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78031",
+     "sha256": "77c188d9f9b7cddf010b9649b10ccb4fa6a49b62dae361eedc7cc424b58b46b2"
     }
    ]
   },
