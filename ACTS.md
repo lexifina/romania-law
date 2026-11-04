@@ -1,6 +1,6 @@
 # Every act in this repository
 
-26977 acts, 40,619 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+26986 acts, 40,628 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3867, of which 2268 amending acts)
+## Laws (legi) (3869, of which 2270 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -565,6 +565,8 @@
 | Legea nr. 403/2004 | [`lege/2004/403/`](lege/2004/403/) | in force | 1 | 2004-10-28 | 2004-10-28 |
 | Legea nr. 411/2004 | [`lege/2004/411/`](lege/2004/411/) | in force | 26 | 2006-07-01 | 2025-04-17 |
 | Legea nr. 418/2004 privind statutul profesional specific al medicului de medicina a muncii | [`lege/2004/418/`](lege/2004/418/) | in force | 2 | 2004-11-01 | 2007-03-24 |
+| Legea nr. 421/2004 pentru aprobarea Ordonanţei Guvernului nr. 65/2004 privind trecerea unui teren din domeniul public al statului şi din administrarea Regiei Naţionale a Pădurilor - Romsilva în domeniul privat al statului şi în administrarea Societăţii Naţionale de Gaze Naturale "Romgaz" - S.A. Mediaş | [`lege/2004/421/`](lege/2004/421/) | amending act | 1 | 2004-10-31 | 2004-10-31 |
+| Legea nr. 422/2004 privind completarea Legii nr. 526/2003 pentru aprobarea Programului naţional de dezvoltare a turismului montan "Superschi în Carpaţi" | [`lege/2004/422/`](lege/2004/422/) | amending act | 1 | 2004-10-31 | 2004-10-31 |
 | Legea nr. 423/2004 privind aderarea României la Acordul dintre părţile la Tratatul Atlanticului de Nord pentru securitatea informaţiilor, adoptat la Bruxelles la 6 martie 1997 | [`lege/2004/423/`](lege/2004/423/) | in force | 1 | 2004-10-31 | 2004-10-31 |
 | Legea nr. 424/2004 privind ratificarea Acordului dintre Guvernul României şi Fondul Naţiunilor Unite pentru Populaţie pentru aplicarea mutatis mutandis a Acordului dintre Guvernul României şi Programul Naţiunilor Unite pentru Dezvoltare, semnat la Bucureşti la 23 ianuarie 1991, activităţilor şi personalului Fondului Naţiunilor Unite pentru Populaţie din România, convenit prin schimb de scrisori semnate la New York la 5 mai 2003 şi la Bucureşti la 13 noiembrie 2003 | [`lege/2004/424/`](lege/2004/424/) | in force | 1 | 2004-11-21 | 2004-11-21 |
 | Legea nr. 425/2004 | [`lege/2004/425/`](lege/2004/425/) | in force | 1 | 2004-10-31 | 2004-10-31 |
@@ -6200,7 +6202,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (20786, of which 10659 amending acts)
+## Government decisions (HG) (20793, of which 10663 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6682,9 +6684,16 @@
 | Hotărârea Guvernului nr. 1723/2004 | [`hg/2004/1723/`](hg/2004/1723/) | in force | 2 | 2004-11-02 | 2005-12-09 |
 | Hotărârea Guvernului nr. 1733/2004 | [`hg/2004/1733/`](hg/2004/1733/) | in force | 1 | 2004-10-25 | 2004-10-25 |
 | Hotărârea Guvernului nr. 1760/2004 | [`hg/2004/1760/`](hg/2004/1760/) | in force | 1 | 2004-11-25 | 2004-11-25 |
+| Hotărârea Guvernului nr. 1765/2004 pentru modificarea anexei nr. 1 la Hotărârea Guvernului nr. 100/2004 privind organizarea şi funcţionarea Ministerului Afacerilor Externe | [`hg/2004/1765/`](hg/2004/1765/) | amending act | 1 | 2004-11-08 | 2004-11-08 |
+| Hotărârea Guvernului nr. 1766/2004 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 300/2004 privind autorizarea persoanelor fizice şi a asociaţiilor familiale care desfăşoară activităţi economice în mod independent | [`hg/2004/1766/`](hg/2004/1766/) | amending act | 1 | 2004-11-12 | 2004-11-12 |
 | Hotărârea Guvernului nr. 1767/2004 privind modul de organizare şi funcţionare a serviciilor publice comunitare regim permise de conducere şi înmatriculare a vehiculelor | [`hg/2004/1767/`](hg/2004/1767/) | in force | 2 | 2004-11-12 | 2011-06-30 |
 | Hotărârea Guvernului nr. 1769/2004 | [`hg/2004/1769/`](hg/2004/1769/) | in force | 1 | 2004-11-08 | 2004-11-08 |
+| Hotărârea Guvernului nr. 1772/2004 privind organizarea şi funcţionarea Institutului Naţional de Cercetare-Dezvoltare pentru Protecţia Muncii - I.N.C.D.P.M. "Alexandru Darabont" - Bucureşti | [`hg/2004/1772/`](hg/2004/1772/) | in force | 1 | 2004-11-10 | 2004-11-10 |
+| Hotărârea Guvernului nr. 1773/2004 privind organizarea şi funcţionarea Institutului Naţional de Cercetare Ştiinţifică în domeniul Muncii şi Protecţiei Sociale - I.N.C.S.M.P.S | [`hg/2004/1773/`](hg/2004/1773/) | in force | 1 | 2004-11-10 | 2004-11-10 |
+| Hotărârea Guvernului nr. 1776/2004 pentru aprobarea Normelor metodologice de aplicare a prevederilor Ordonanţei de urgenţă a Guvernului nr. 62/2004 privind regimul de organizare şi funcţionare a parcurilor turistice | [`hg/2004/1776/`](hg/2004/1776/) | amending act | 1 | 2004-11-11 | 2004-11-11 |
 | Hotărârea Guvernului nr. 1777/2004 | [`hg/2004/1777/`](hg/2004/1777/) | in force | 6 | 2004-12-08 | 2012-01-12 |
+| Hotărârea Guvernului nr. 1778/2004 pentru atribuirea competenţei Secretariatului General al Guvernului de a semna extinderea contractului comercial de închiriere de licenţe, încheiat la data de 15 aprilie 2004, pentru produsele educaţionale Microsoft | [`hg/2004/1778/`](hg/2004/1778/) | in force | 1 | 2004-11-02 | 2004-11-02 |
+| Hotărârea Guvernului nr. 1779/2004 privind aprobarea Strategiei de dezvoltare durabilă a zonei montane | [`hg/2004/1779/`](hg/2004/1779/) | amending act | 1 | 2004-11-05 | 2004-11-05 |
 | Hotărârea Guvernului nr. 1780/2004 privind suplimentarea bugetului Ministerului Culturii şi Cultelor pe anul 2004, din Fondul de rezervă bugetară la dispoziţia Guvernului, pentru Catedrala Ortodoxă Română "Sfânta Treime" din municipiul Baia Mare, judeţul Maramureş | [`hg/2004/1780/`](hg/2004/1780/) | in force | 1 | 2004-10-28 | 2004-10-28 |
 | Hotărârea Guvernului nr. 1781/2004 privind constatarea suspendării de drept din funcţie a unor prefecţi | [`hg/2004/1781/`](hg/2004/1781/) | in force | 1 | 2004-10-30 | 2004-10-30 |
 | Hotărârea Guvernului nr. 1782/2004 privind eliberarea domnului Băeşu George, la cerere, din funcţia de prefect al judeţului Vrancea | [`hg/2004/1782/`](hg/2004/1782/) | in force | 1 | 2004-10-30 | 2004-10-30 |
