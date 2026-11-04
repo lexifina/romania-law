@@ -1,6 +1,6 @@
 # Every act in this repository
 
-22567 acts, 36,200 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+22578 acts, 36,211 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3458, of which 1948 amending acts)
+## Laws (legi) (3461, of which 1950 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -935,7 +935,10 @@
 | Legea nr. 349/2009 | [`lege/2009/349/`](lege/2009/349/) | in force | 1 | 2009-11-21 | 2009-11-21 |
 | Legea nr. 354/2009 privind aprobarea Ordonanței de urgență a Guvernului nr. 36/2009 pentru modificarea și completarea Legii cetățeniei române nr. 21/1991 | [`lege/2009/354/`](lege/2009/354/) | amending act | 2 | 2009-11-19 | 2010-02-10 |
 | Legea nr. 355/2009 | [`lege/2009/355/`](lege/2009/355/) | in force | 1 | 2010-02-23 | 2010-02-23 |
+| Legea nr. 377/2009 pentru ratificarea Acordului suplimentar referitor la aderarea Guvernului României la Memorandumul multilateral de înţelegere privind Programul comun NATO E-3A, semnat la Bruxelles la 6 decembrie 1978, completat la 10 decembrie 1990, amendat la 13 august 1997, şi a Acordului suplimentar referitor la aderarea Guvernului României la Memorandumul de înţelegere pentru operaţii şi sprijin al Forţei Aeropurtate a NATO de Avertizare Timpurie şi Control, semnat la 26 septembrie 1984 şi revizuit la 27 martie 2003, semnate la Bucureşti la 19 martie 2009 | [`lege/2009/377/`](lege/2009/377/) | in force | 1 | 2009-12-21 | 2009-12-21 |
+| Legea nr. 380/2009 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 78/2009 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 90/2008 privind auditul statutar al situaţiilor financiare anuale şi al situaţiilor financiare anuale consolidate | [`lege/2009/380/`](lege/2009/380/) | amending act | 1 | 2009-12-18 | 2009-12-18 |
 | Legea nr. 381/2009 | [`lege/2009/381/`](lege/2009/381/) | repealed 2014-06-28 | 3 | 2010-01-13 | 2014-06-28 |
+| Legea nr. 383/2009 pentru modificarea art. 6 alin. (1) lit. c) din Ordonanţa Guvernului nr. 51/1997 privind operaţiunile de leasing şi societăţile de leasing | [`lege/2009/383/`](lege/2009/383/) | amending act | 1 | 2009-12-17 | 2009-12-17 |
 | Legea nr. 386/2009 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 163/2008 pentru abrogarea Ordonanţei de urgenţă a Guvernului nr. 45/2006 privind unele măsuri pentru privatizarea Societăţii Comerciale "Oltchim" - S.A. Râmnicu Vâlcea | [`lege/2009/386/`](lege/2009/386/) | amending act | 1 | 2009-12-21 | 2009-12-21 |
 | Legea nr. 388/2009 privind acceptarea Acordului dintre Republica Albania, Republica Austria, Republica Bulgaria, Bosnia şi Herţegovina, Republica Croaţia, Republica Cehă, Republica Ungară, Republica Macedonia, Muntenegru, Republica Polonă, România, Republica Serbia, Republica Slovacă şi Republica Slovenia pentru promovarea cooperării în domeniul învăţământului superior în cadrul Programului de schimburi pentru studii universitare în Europa Centrală (CEEPUS II), revizuit de Comitetul mixt al miniştrilor în 16 martie 2007 la Zagreb, Republica Croaţia | [`lege/2009/388/`](lege/2009/388/) | in force | 1 | 2010-01-16 | 2010-01-16 |
 | Legea nr. 391/2009 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 84/2009 pentru prorogarea termenului prevăzut la art. 9 alin. (1) din Legea recunoştinţei faţă de eroii-martiri şi luptătorii care au contribuit la victoria Revoluţiei române din decembrie 1989, precum şi faţă de persoanele care şi-au jertfit viaţa sau au avut de suferit în urma revoltei muncitoreşti anticomuniste de la Braşov din noiembrie 1987 nr. 341/2004 | [`lege/2009/391/`](lege/2009/391/) | amending act | 1 | 2010-01-01 | 2010-01-01 |
@@ -5757,7 +5760,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (16819, of which 8752 amending acts)
+## Government decisions (HG) (16827, of which 8755 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8808,6 +8811,14 @@
 | Hotărârea Guvernului nr. 1431/2009 | [`hg/2009/1431/`](hg/2009/1431/) | in force | 3 | 2009-12-10 | 2010-09-03 |
 | Hotărârea Guvernului nr. 1476/2009 | [`hg/2009/1476/`](hg/2009/1476/) | in force | 5 | 2009-12-03 | 2023-06-07 |
 | Hotărârea Guvernului nr. 1489/2009 | [`hg/2009/1489/`](hg/2009/1489/) | in force | 1 | 2009-12-10 | 2009-12-10 |
+| Hotărârea Guvernului nr. 1560/2009 pentru modificarea art. 5 lit. a) din Hotărârea Guvernului nr. 1.244/2009 privind utilizarea fondurilor alocate prin Fondul de Solidaritate al Uniunii Europene pentru decontarea cheltuielilor publice eligibile operaţiunilor de urgenţă întreprinse în scopul înlăturării pagubelor provocate de inundaţiile din luna iulie 2008 | [`hg/2009/1560/`](hg/2009/1560/) | amending act | 1 | 2009-12-18 | 2009-12-18 |
+| Hotărârea Guvernului nr. 1561/2009 privind aprobarea rectificării bugetului de venituri şi cheltuieli pe anul 2009 al Fondului pentru mediu şi al Administraţiei Fondului pentru Mediu | [`hg/2009/1561/`](hg/2009/1561/) | amending act | 1 | 2009-12-21 | 2009-12-21 |
+| Hotărârea Guvernului nr. 1562/2009 privind înfiinţarea Serviciului de ambulanţă Bucureşti-Ilfov al municipiului Bucureşti şi al judeţului Ilfov | [`hg/2009/1562/`](hg/2009/1562/) | in force | 1 | 2009-12-21 | 2009-12-21 |
+| Hotărârea Guvernului nr. 1564/2009 pentru modificarea anexei la Hotărârea Guvernului nr. 77/2009 privind aprobarea cifrelor de şcolarizare pentru învăţământul preuniversitar şi superior de stat în anul şcolar/universitar 2009-2010 | [`hg/2009/1564/`](hg/2009/1564/) | amending act | 1 | 2009-12-29 | 2009-12-29 |
+| Hotărârea Guvernului nr. 1567/2009 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2009, pentru judeţul Dâmboviţa | [`hg/2009/1567/`](hg/2009/1567/) | in force | 1 | 2009-12-18 | 2009-12-18 |
+| Hotărârea Guvernului nr. 1568/2009 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2009, pentru judeţul Alba | [`hg/2009/1568/`](hg/2009/1568/) | in force | 1 | 2009-12-18 | 2009-12-18 |
+| Hotărârea Guvernului nr. 1569/2009 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2009, pentru judeţul Neamţ | [`hg/2009/1569/`](hg/2009/1569/) | in force | 1 | 2009-12-18 | 2009-12-18 |
+| Hotărârea Guvernului nr. 1571/2009 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2009, pentru judeţele Hunedoara şi Suceava | [`hg/2009/1571/`](hg/2009/1571/) | in force | 1 | 2009-12-21 | 2009-12-21 |
 | Hotărârea Guvernului nr. 1572/2009 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2009, pentru judeţul Arad | [`hg/2009/1572/`](hg/2009/1572/) | in force | 1 | 2009-12-21 | 2009-12-21 |
 | Hotărârea Guvernului nr. 1573/2009 privind suplimentarea bugetului Ministerului Transporturilor şi Infrastructurii din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2009 | [`hg/2009/1573/`](hg/2009/1573/) | in force | 1 | 2009-12-21 | 2009-12-21 |
 | Hotărârea Guvernului nr. 1575/2009 privind încetarea exercitării temporare a funcţiei publice de subprefect al judeţului Dolj de către domnul Brezniceanu Alexandru-Cosmin | [`hg/2009/1575/`](hg/2009/1575/) | in force | 1 | 2009-12-21 | 2009-12-21 |
