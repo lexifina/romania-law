@@ -1,6 +1,6 @@
 # Every act in this repository
 
-26616 acts, 40,258 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+26632 acts, 40,274 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6146,7 +6146,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (20479, of which 10550 amending acts)
+## Government decisions (HG) (20495, of which 10552 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6643,6 +6643,22 @@
 | Hotărârea Guvernului nr. 2139/2004 pentru aprobarea Catalogului privind clasificarea și duratele normale de funcționare a mijloacelor fixe | [`hg/2004/2139/`](hg/2004/2139/) | amending act | 1 | 2005-01-13 | 2005-01-13 |
 | Hotărârea Guvernului nr. 2151/2004 | [`hg/2004/2151/`](hg/2004/2151/) | in force | 1 | 2005-01-12 | 2005-01-12 |
 | Hotărârea Guvernului nr. 2155/2004 | [`hg/2004/2155/`](hg/2004/2155/) | in force | 1 | 2004-12-20 | 2004-12-20 |
+| Hotărârea Guvernului nr. 2221/2004 privind suplimentarea bugetului Ministerului Culturii şi Cultelor din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2004, pentru Mănăstirea "Brâncoveanu" din localitatea Sâmbăta de Sus, judeţul Braşov, din cadrul Arhiepiscopiei Sibiului | [`hg/2004/2221/`](hg/2004/2221/) | in force | 1 | 2004-12-10 | 2004-12-10 |
+| Hotărârea Guvernului nr. 2224/2004 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru judeţul Mureş | [`hg/2004/2224/`](hg/2004/2224/) | in force | 1 | 2004-12-10 | 2004-12-10 |
+| Hotărârea Guvernului nr. 2225/2004 privind suplimentarea bugetului Cancelariei Primului-Ministru din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2004, pentru Agenţia Naţională pentru Sport | [`hg/2004/2225/`](hg/2004/2225/) | in force | 1 | 2004-12-13 | 2004-12-13 |
+| Hotărârea Guvernului nr. 2226/2004 privind suplimentarea bugetului Ministerului Culturii şi Cultelor pe anul 2004 din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru Biserica "Adormirea Maicii Domnului", comuna Afumaţi, judeţul Ilfov | [`hg/2004/2226/`](hg/2004/2226/) | in force | 1 | 2004-12-10 | 2004-12-10 |
+| Hotărârea Guvernului nr. 2227/2004 privind acordarea unui ajutor umanitar, constând în materiale de construcţii şi reparat case, pentru populaţia afectată de fenomenele naturale periculoase produse în comuna Suceviţa, judeţul Suceava, şi în comuna Cernişoara, judeţul Vâlcea | [`hg/2004/2227/`](hg/2004/2227/) | in force | 1 | 2004-12-13 | 2004-12-13 |
+| Hotărârea Guvernului nr. 2228/2004 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, pentru înlăturarea efectelor calamităţilor naturale produse de inundaţii în anii 1998-2004, în judeţul Sibiu | [`hg/2004/2228/`](hg/2004/2228/) | in force | 1 | 2004-12-13 | 2004-12-13 |
+| Hotărârea Guvernului nr. 2229/2004 privind aprobarea renunţării la cetăţenia română unor persoane | [`hg/2004/2229/`](hg/2004/2229/) | amending act | 1 | 2004-12-20 | 2004-12-20 |
+| Hotărârea Guvernului nr. 2230/2004 privind trecerea unui teren din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al judeţului Bacău şi în administrarea Consiliului Judeţean Bacău | [`hg/2004/2230/`](hg/2004/2230/) | in force | 1 | 2004-12-13 | 2004-12-13 |
+| Hotărârea Guvernului nr. 2231/2004 privind suplimentarea bugetului Curţii de Conturi din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004 | [`hg/2004/2231/`](hg/2004/2231/) | in force | 1 | 2004-12-10 | 2004-12-10 |
+| Hotărârea Guvernului nr. 2232/2004 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru judeţul Ilfov | [`hg/2004/2232/`](hg/2004/2232/) | in force | 1 | 2004-12-13 | 2004-12-13 |
+| Hotărârea Guvernului nr. 2233/2004 pentru modificarea structurii sumelor alocate din credite externe în bugetul Ministerului Administraţiei şi Internelor pe anul 2004 | [`hg/2004/2233/`](hg/2004/2233/) | amending act | 1 | 2004-12-13 | 2004-12-13 |
+| Hotărârea Guvernului nr. 2234/2004 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2004, pentru judeţul Prahova | [`hg/2004/2234/`](hg/2004/2234/) | in force | 1 | 2004-12-13 | 2004-12-13 |
+| Hotărârea Guvernului nr. 2235/2004 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru judeţul Gorj | [`hg/2004/2235/`](hg/2004/2235/) | in force | 1 | 2004-12-13 | 2004-12-13 |
+| Hotărârea Guvernului nr. 2236/2004 privind suplimentarea bugetului Parchetului Naţional Anticorupţie din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2004 | [`hg/2004/2236/`](hg/2004/2236/) | in force | 1 | 2004-12-13 | 2004-12-13 |
+| Hotărârea Guvernului nr. 2238/2004 privind suplimentarea bugetului Ministerului Transporturilor, Construcţiilor şi Turismului din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004 | [`hg/2004/2238/`](hg/2004/2238/) | in force | 1 | 2004-12-10 | 2004-12-10 |
+| Hotărârea Guvernului nr. 2239/2004 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru judeţul Tulcea | [`hg/2004/2239/`](hg/2004/2239/) | in force | 1 | 2004-12-10 | 2004-12-10 |
 | Hotărârea Guvernului nr. 2240/2004 privind suplimentarea bugetului Ministerului Justiţiei din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004 | [`hg/2004/2240/`](hg/2004/2240/) | in force | 1 | 2004-12-16 | 2004-12-16 |
 | Hotărârea Guvernului nr. 2241/2004 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru judeţul Prahova | [`hg/2004/2241/`](hg/2004/2241/) | in force | 1 | 2004-12-16 | 2004-12-16 |
 | Hotărârea Guvernului nr. 2242/2004 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru judeţul Iaşi | [`hg/2004/2242/`](hg/2004/2242/) | in force | 1 | 2004-12-16 | 2004-12-16 |
