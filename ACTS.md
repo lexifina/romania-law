@@ -1,6 +1,6 @@
 # Every act in this repository
 
-24649 acts, 38,283 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+24661 acts, 38,295 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6021,7 +6021,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (18637, of which 9563 amending acts)
+## Government decisions (HG) (18649, of which 9570 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6620,6 +6620,18 @@
 | Hotărârea Guvernului nr. 1581/2005 | [`hg/2005/1581/`](hg/2005/1581/) | in force | 1 | 2006-01-11 | 2006-01-11 |
 | Hotărârea Guvernului nr. 1724/2005 | [`hg/2005/1724/`](hg/2005/1724/) | in force | 3 | 2006-01-29 | 2007-05-04 |
 | Hotărârea Guvernului nr. 1768/2005 | [`hg/2005/1768/`](hg/2005/1768/) | in force | 4 | 2005-12-28 | 2009-11-27 |
+| Hotărârea Guvernului nr. 1808/2005 privind numirea domnului Zaharia Ioan în funcţia publică de prefect al judeţului Vaslui | [`hg/2005/1808/`](hg/2005/1808/) | in force | 1 | 2005-12-29 | 2005-12-29 |
+| Hotărârea Guvernului nr. 1809/2005 privind numirea doamnei Handolescu Anuţa în funcţia publică de prefect al judeţului Vâlcea | [`hg/2005/1809/`](hg/2005/1809/) | in force | 1 | 2005-12-29 | 2005-12-29 |
+| Hotărârea Guvernului nr. 1810/2005 privind numirea domnului Oprea Ion în funcţia publică de prefect al judeţului Vrancea | [`hg/2005/1810/`](hg/2005/1810/) | in force | 1 | 2005-12-29 | 2005-12-29 |
+| Hotărârea Guvernului nr. 1811/2005 privind numirea doamnei Mantale Mioara în funcţia publică de prefect al municipiului Bucureşti | [`hg/2005/1811/`](hg/2005/1811/) | in force | 1 | 2005-12-29 | 2005-12-29 |
+| Hotărârea Guvernului nr. 1812/2005 privind aprobarea plafonului maxim în limita căruia Regia Autonomă pentru Activităţi Nucleare va face compensări în anul 2006 | [`hg/2005/1812/`](hg/2005/1812/) | amending act | 1 | 2005-12-29 | 2005-12-29 |
+| Hotărârea Guvernului nr. 1813/2005 pentru aprobarea efectuării concedierilor colective în baza prevederilor Ordonanţei de urgenţă a Guvernului nr. 8/2003 privind stimularea procesului de restructurare, reorganizare şi privatizare a unor societăţi naţionale, companii naţionale şi societăţi comerciale cu capital majoritar de stat, precum şi a societăţilor comerciale şi regiilor autonome subordonate autorităţilor administraţiei publice locale, de către Societatea Comercială "Termica" Vaslui - S.A | [`hg/2005/1813/`](hg/2005/1813/) | amending act | 1 | 2005-12-30 | 2005-12-30 |
+| Hotărârea Guvernului nr. 1815/2005 privind prorogarea unui termen | [`hg/2005/1815/`](hg/2005/1815/) | amending act | 1 | 2005-12-28 | 2005-12-28 |
+| Hotărârea Guvernului nr. 1817/2005 pentru modificarea Hotărârii Guvernului nr. 119/2005 privind aprobarea Programului de acţiuni şi lucrări finanţate din bugetul de stat în domeniul aviaţiei civile, pentru anul 2005 | [`hg/2005/1817/`](hg/2005/1817/) | amending act | 1 | 2005-12-28 | 2005-12-28 |
+| Hotărârea Guvernului nr. 1818/2005 pentru aprobarea decontării unor cheltuieli privind exploatarea Reţelei naţionale de calculatoare în domeniul cercetării-dezvoltării | [`hg/2005/1818/`](hg/2005/1818/) | amending act | 1 | 2005-12-29 | 2005-12-29 |
+| Hotărârea Guvernului nr. 1819/2005 privind aprobarea rectificării bugetului de venituri şi cheltuieli pe anul 2005 al Companiei Naţionale "Poşta Română" - S.A | [`hg/2005/1819/`](hg/2005/1819/) | amending act | 1 | 2005-12-29 | 2005-12-29 |
+| Hotărârea Guvernului nr. 1821/2005 privind trecerea din domeniul public al statului în domeniul privat al statului a unor mijloace fixe concesionate Companiei Naţionale de Transport al Energiei Electrice "Transelectrica" - S.A., Sucursala de Transport Timişoara | [`hg/2005/1821/`](hg/2005/1821/) | in force | 1 | 2006-01-06 | 2006-01-06 |
+| Hotărârea Guvernului nr. 1822/2005 pentru abrogarea şi completarea unor acte normative din domeniul protecţiei consumatorilor | [`hg/2005/1822/`](hg/2005/1822/) | amending act | 1 | 2006-01-05 | 2006-01-05 |
 | Hotărârea Guvernului nr. 1823/2005 pentru modificarea şi completarea Hotărârii Guvernului nr. 142/2005 privind aprobarea obiectivelor salariale trimestriale, pe anul 2005, pentru agenţii economici monitorizaţi potrivit prevederilor Ordonanţei de urgenţă a Guvernului nr. 79/2001 privind întărirea disciplinei economico-financiare şi alte dispoziţii cu caracter financiar | [`hg/2005/1823/`](hg/2005/1823/) | amending act | 1 | 2005-12-30 | 2005-12-30 |
 | Hotărârea Guvernului nr. 1825/2005 | [`hg/2005/1825/`](hg/2005/1825/) | in force | 2 | 2006-01-04 | 2006-01-20 |
 | Hotărârea Guvernului nr. 1826/2005 | [`hg/2005/1826/`](hg/2005/1826/) | in force | 1 | 2006-01-06 | 2006-01-06 |
