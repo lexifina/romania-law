@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38388 acts, 52,141 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38400 acts, 52,153 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8039, of which 2881 amending acts)
+## Laws (legi) (8044, of which 2883 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1103,8 +1103,13 @@
 | Legea nr. 660/2001 | [`lege/2001/660/`](lege/2001/660/) | in force | 1 | 2001-12-04 | 2001-12-04 |
 | Legea nr. 662/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 8/2000 pentru modificarea şi completarea Legii nr. 128/1997 privind Statutul personalului didactic, referitor la stabilirea salariului de baza al personalului din învăţământ, şi pentru abrogarea unor dispoziţii din Legea nr. 154/1998 privind sistemul de stabilire a salariilor de baza în sectorul bugetar şi a indemnizaţiilor pentru persoane care ocupa funcţii de demnitate publică | [`lege/2001/662/`](lege/2001/662/) | amended, not consolidated | 1 | 2001-12-05 | 2001-12-05 |
 | Legea nr. 665/2001 privind aprobarea Ordonanţei Guvernului nr. 20/2001 pentru ratificarea Memorandumului de finanţare convenit între Guvernul României şi Comisia Europeană privind asistenţa financiară nerambursabilă acordată prin Instrumentul pentru Politici Structurale de Preaderare pentru măsura "Asistenţa tehnică pentru pregătirea proiectului &#171;Finalizarea lucrărilor şi modernizarea Staţiei de epurare a apelor uzate Bucureşti, România&#187;", semnat la Bruxelles la 22 februarie 2001 şi la Bucureşti la 1 iunie 2001 | [`lege/2001/665/`](lege/2001/665/) | amended, not consolidated | 1 | 2001-12-05 | 2001-12-05 |
+| Legea nr. 674/2001 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Indonezia privind serviciile aeriene, semnat la Jakarta la 7 septembrie 1993 | [`lege/2001/674/`](lege/2001/674/) | in force | 1 | 2001-12-14 | 2001-12-14 |
+| Legea nr. 675/2001 privind aprobarea Ordonanţei Guvernului nr. 54/2001 pentru ratificarea anexei nr. 4 la Memorandumul de înţelegere privind Programul de cooperare economică, Programul PSO pentru aderare şi Programul MATRA pentru aderare dintre Guvernul României şi Guvernul Olandei pentru anii 2001-2003, semnat la Bucureşti la 23 martie 2001 | [`lege/2001/675/`](lege/2001/675/) | amending act | 1 | 2001-12-13 | 2001-12-13 |
 | Legea nr. 677/2001 pentru protecția persoanelor cu privire la prelucrarea datelor cu caracter personal și libera circulație a acestor date | [`lege/2001/677/`](lege/2001/677/) | repealed 2018-06-24 | 4 | 2001-12-12 | 2018-06-24 |
 | Legea nr. 678/2001 | [`lege/2001/678/`](lege/2001/678/) | in force | 10 | 2001-12-11 | 2023-05-29 |
+| Legea nr. 679/2001 privind aprobarea Ordonanţei Guvernului nr. 41/2001 pentru ratificarea Addendumului la Memorandumul de finanţare PHARE RO9916 dintre Guvernul României şi Comisia Europeană referitor la participarea la cel de-al cincilea Program-cadru în domeniul cercetării şi dezvoltării tehnologice, semnat la Bucureşti la 27 iulie 2000 | [`lege/2001/679/`](lege/2001/679/) | amending act | 1 | 2001-12-13 | 2001-12-13 |
+| Legea nr. 680/2001 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Federal al Republicii Federale Iugoslavia privind cooperarea în domeniul militar, semnat la Bucureşti la 27 octombrie 1997 | [`lege/2001/680/`](lege/2001/680/) | in force | 1 | 2001-12-11 | 2001-12-11 |
+| Legea nr. 681/2001 pentru ratificarea Acordului de securitate dintre Guvernul României şi Organizaţia Tratatului Atlanticului de Nord, semnat la Bruxelles la 8 iulie 1994 | [`lege/2001/681/`](lege/2001/681/) | in force | 1 | 2001-12-11 | 2001-12-11 |
 | Legea nr. 682/2001 | [`lege/2001/682/`](lege/2001/682/) | in force | 2 | 2001-12-21 | 2005-05-12 |
 | Legea nr. 683/2001 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Croaţia privind readmisia cetăţenilor proprii şi a străinilor, semnat la Zagreb la 30 septembrie 2000 | [`lege/2001/683/`](lege/2001/683/) | in force | 1 | 2001-12-19 | 2001-12-19 |
 | Legea nr. 684/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 10/2000 privind selectarea şi plata specialiştilor care prestează servicii de consultanţa necesare pentru realizarea programelor PSAL şi PIBL finanţate de Banca Mondială, a Programului RICOP finanţat de Uniunea Europeană, precum şi a programelor pentru continuarea acestora | [`lege/2001/684/`](lege/2001/684/) | amending act | 1 | 2001-12-11 | 2001-12-11 |
@@ -11935,7 +11940,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26419, of which 12356 amending acts)
+## Government decisions (HG) (26426, of which 12356 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13064,6 +13069,13 @@
 | Hotărârea Guvernului nr. 1124/2001 privind normarea parcului auto şi a consumului de carburanţi pentru activităţi specifice desfăşurate în unele unităţi din subordinea Ministerului Sănătăţii şi Familiei | [`hg/2001/1124/`](hg/2001/1124/) | amended, not consolidated | 1 | 2001-11-22 | 2001-11-22 |
 | Hotărârea Guvernului nr. 1133/2001 privind aprobarea Strategiei de privatizare a Societăţii Comerciale "Alro" - S.A. Slatina | [`hg/2001/1133/`](hg/2001/1133/) | amended, not consolidated | 1 | 2001-11-21 | 2001-11-21 |
 | Hotărârea Guvernului nr. 1136/2001 privind normarea parcului auto şi a consumului de carburanţi la Ministerul Afacerilor Externe | [`hg/2001/1136/`](hg/2001/1136/) | amended, not consolidated | 1 | 2001-11-28 | 2001-11-28 |
+| Hotărârea Guvernului nr. 1143/2001 privind eliberarea domnului Rus Grigore din funcţia de prefect al judeţului Bistriţa-Năsăud | [`hg/2001/1143/`](hg/2001/1143/) | in force | 1 | 2001-11-22 | 2001-11-22 |
+| Hotărârea Guvernului nr. 1144/2001 privind transmiterea unui imobil proprietate publică a statului în administrarea Consiliului Local al Sectorului 3 al Municipiului Bucureşti | [`hg/2001/1144/`](hg/2001/1144/) | in force | 1 | 2001-12-04 | 2001-12-04 |
+| Hotărârea Guvernului nr. 1146/2001 privind acordarea unor ajutoare de urgenta | [`hg/2001/1146/`](hg/2001/1146/) | in force | 1 | 2001-12-04 | 2001-12-04 |
+| Hotărârea Guvernului nr. 1147/2001 privind acordarea unor ajutoare de urgenta | [`hg/2001/1147/`](hg/2001/1147/) | in force | 1 | 2001-12-04 | 2001-12-04 |
+| Hotărârea Guvernului nr. 1148/2001 privind acordarea unui ajutor de urgenta | [`hg/2001/1148/`](hg/2001/1148/) | in force | 1 | 2001-12-04 | 2001-12-04 |
+| Hotărârea Guvernului nr. 1149/2001 privind acordarea unor ajutoare financiare | [`hg/2001/1149/`](hg/2001/1149/) | in force | 1 | 2001-12-04 | 2001-12-04 |
+| Hotărârea Guvernului nr. 1150/2001 privind acordarea unor ajutoare financiare | [`hg/2001/1150/`](hg/2001/1150/) | in force | 1 | 2001-12-04 | 2001-12-04 |
 | Hotărârea Guvernului nr. 1151/2001 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2001 al Companiei Naţionale "Romtehnica" - S.A | [`hg/2001/1151/`](hg/2001/1151/) | amending act | 1 | 2001-12-07 | 2001-12-07 |
 | Hotărârea Guvernului nr. 1152/2001 privind actualizarea valorii taxelor anuale pentru activităţile miniere şi a amenzilor contravenţionale prevăzute în Legea minelor nr. 61/1998 şi în Legea petrolului nr. 134/1995 | [`hg/2001/1152/`](hg/2001/1152/) | amended, not consolidated | 1 | 2001-12-04 | 2001-12-04 |
 | Hotărârea Guvernului nr. 1153/2001 pentru aprobarea Normelor metodologice de aplicare a prevederilor Legii nr. 34/1998 privind acordarea unor subvenţii asociaţiilor şi fundaţiilor române cu personalitate juridică, care înfiinţează şi administrează unităţi de asistenţă socială | [`hg/2001/1153/`](hg/2001/1153/) | amending act | 7 | 2001-11-28 | 2024-10-10 |
