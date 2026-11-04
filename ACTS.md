@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38412 acts, 52,165 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38418 acts, 52,171 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8056, of which 2893 amending acts)
+## Laws (legi) (8062, of which 2896 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1090,7 +1090,13 @@
 | Legea nr. 629/2001 pentru aprobarea Ordonanţei Guvernului nr. 124/1998 privind organizarea şi funcţionarea cabinetelor medicale | [`lege/2001/629/`](lege/2001/629/) | amended, not consolidated | 1 | 2001-11-13 | 2001-11-13 |
 | Legea nr. 631/2001 pentru aprobarea Ordonanţei Guvernului nr. 107/1999 privind activitatea de comercializare a pachetelor de servicii turistice | [`lege/2001/631/`](lege/2001/631/) | amended, not consolidated | 1 | 2001-11-27 | 2001-11-27 |
 | Legea nr. 635/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 95/2001 privind constituirea şi utilizarea Fondului România | [`lege/2001/635/`](lege/2001/635/) | amended, not consolidated | 1 | 2001-11-23 | 2001-11-23 |
+| Legea nr. 636/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 103/2001 pentru completarea art. 1 din Ordonanţa de urgenţă a Guvernului nr. 73/2001 privind scutirea temporară de la plata taxelor vamale a unor bunuri provenite din import | [`lege/2001/636/`](lege/2001/636/) | amending act | 1 | 2001-11-29 | 2001-11-29 |
+| Legea nr. 637/2001 pentru ratificarea Protocolului dintre Guvernul României şi Guvernul Republicii Bulgaria privind rezolvarea definitivă a drepturilor financiare reciproce dintre România şi Republica Bulgaria, semnat la Bucureşti la 27 martie 2000 | [`lege/2001/637/`](lege/2001/637/) | in force | 1 | 2001-11-29 | 2001-11-29 |
+| Legea nr. 638/2001 pentru ratificarea Acordului sub forma de schimb de scrisori între România şi Comunitatea Europeană privind concesiile comerciale reciproce pentru anumite vinuri şi băuturi alcoolice, efectuat la Bruxelles la 22 martie 2001 | [`lege/2001/638/`](lege/2001/638/) | in force | 1 | 2001-11-29 | 2001-11-29 |
+| Legea nr. 639/2001 privind aprobarea Ordonanţei Guvernului nr. 50/2001 pentru ratificarea Memorandumului de înţelegere privind controlul statului portului în regiunea Marii Negre, semnat la Istanbul la 7 aprilie 2000 | [`lege/2001/639/`](lege/2001/639/) | amending act | 1 | 2001-12-03 | 2001-12-03 |
 | Legea nr. 640/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 208/1999 privind regimul vamal al mărfurilor comercializate în regim duty-free | [`lege/2001/640/`](lege/2001/640/) | amended, not consolidated | 1 | 2001-12-03 | 2001-12-03 |
+| Legea nr. 641/2001 privind aprobarea Ordonanţei Guvernului nr. 1/2001 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Statelor Unite ale Americii privind înfiinţarea, funcţionarea şi exploatarea în România a unei staţii de monitorizare a seismelor, semnat la Baza Aeriană Patrick, Florida - S.U.A. la 28 septembrie 2000 | [`lege/2001/641/`](lege/2001/641/) | amending act | 1 | 2001-12-03 | 2001-12-03 |
+| Legea nr. 642/2001 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Regatului Suediei privind readmisia persoanelor, semnat la Bucureşti la 2 aprilie 2001 | [`lege/2001/642/`](lege/2001/642/) | in force | 1 | 2001-12-03 | 2001-12-03 |
 | Legea nr. 643/2001 privind respingerea Ordonanţei de urgenta a Guvernului nr. 166/2000 pentru modificarea şi completarea Ordonanţei Guvernului nr. 55/1999 privind executarea silită a creanţelor bancare neperformante preluate la datoria publică internă | [`lege/2001/643/`](lege/2001/643/) | amended, not consolidated | 1 | 2001-12-03 | 2001-12-03 |
 | Legea nr. 644/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 27/2000 privind repartizarea profitului la Regia Autonomă "Locato" | [`lege/2001/644/`](lege/2001/644/) | amended, not consolidated | 1 | 2001-11-28 | 2001-11-28 |
 | Legea nr. 645/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 188/2000 pentru modificarea art. 5 din Ordonanţa Guvernului nr. 26/1993 privind Tariful vamal de import al României | [`lege/2001/645/`](lege/2001/645/) | amending act | 1 | 2001-11-28 | 2001-11-28 |
