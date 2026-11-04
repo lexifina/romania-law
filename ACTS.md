@@ -1,6 +1,6 @@
 # Every act in this repository
 
-22550 acts, 36,183 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+22567 acts, 36,200 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -5757,7 +5757,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (16802, of which 8744 amending acts)
+## Government decisions (HG) (16819, of which 8752 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8808,6 +8808,23 @@
 | Hotărârea Guvernului nr. 1431/2009 | [`hg/2009/1431/`](hg/2009/1431/) | in force | 3 | 2009-12-10 | 2010-09-03 |
 | Hotărârea Guvernului nr. 1476/2009 | [`hg/2009/1476/`](hg/2009/1476/) | in force | 5 | 2009-12-03 | 2023-06-07 |
 | Hotărârea Guvernului nr. 1489/2009 | [`hg/2009/1489/`](hg/2009/1489/) | in force | 1 | 2009-12-10 | 2009-12-10 |
+| Hotărârea Guvernului nr. 1572/2009 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2009, pentru judeţul Arad | [`hg/2009/1572/`](hg/2009/1572/) | in force | 1 | 2009-12-21 | 2009-12-21 |
+| Hotărârea Guvernului nr. 1573/2009 privind suplimentarea bugetului Ministerului Transporturilor şi Infrastructurii din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2009 | [`hg/2009/1573/`](hg/2009/1573/) | in force | 1 | 2009-12-21 | 2009-12-21 |
+| Hotărârea Guvernului nr. 1575/2009 privind încetarea exercitării temporare a funcţiei publice de subprefect al judeţului Dolj de către domnul Brezniceanu Alexandru-Cosmin | [`hg/2009/1575/`](hg/2009/1575/) | in force | 1 | 2009-12-21 | 2009-12-21 |
+| Hotărârea Guvernului nr. 1576/2009 privind încetarea suspendării de drept a raportului de serviciu al domnului Ciobotea Ionel, subprefect al judeţului Dolj | [`hg/2009/1576/`](hg/2009/1576/) | in force | 1 | 2009-12-21 | 2009-12-21 |
+| Hotărârea Guvernului nr. 1577/2009 privind stabilirea numărului autorizaţiilor de muncă ce pot fi eliberate străinilor în anul 2010 | [`hg/2009/1577/`](hg/2009/1577/) | in force | 1 | 2009-12-21 | 2009-12-21 |
+| Hotărârea Guvernului nr. 1578/2009 privind aprobarea finanţării unor cheltuieli pentru construcţia şi amenajarea unei unităţi de asistenţă socială | [`hg/2009/1578/`](hg/2009/1578/) | amending act | 1 | 2009-12-21 | 2009-12-21 |
+| Hotărârea Guvernului nr. 1579/2009 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiţii "Centrul Multifuncţional de Pregătire Schengen" | [`hg/2009/1579/`](hg/2009/1579/) | amending act | 1 | 2009-12-21 | 2009-12-21 |
+| Hotărârea Guvernului nr. 1580/2009 privind completarea sublistei C din anexa la Hotărârea Guvernului nr. 720/2008 pentru aprobarea Listei cuprinzând denumirile comune internaţionale corespunzătoare medicamentelor de care beneficiază asiguraţii, cu sau fără contribuţie personală, pe bază de prescripţie medicală, în sistemul de asigurări sociale de sănătate | [`hg/2009/1580/`](hg/2009/1580/) | amending act | 1 | 2009-12-21 | 2009-12-21 |
+| Hotărârea Guvernului nr. 1582/2009 privind actualizarea inventarului centralizat al bunurilor din domeniul public al statului prin schimbarea unităţii de administrare şi modificarea valorilor de inventar ale unor imobile aflate în domeniul public al statului şi în administrarea Ministerului Administraţiei şi Internelor | [`hg/2009/1582/`](hg/2009/1582/) | in force | 1 | 2009-12-23 | 2009-12-23 |
+| Hotărârea Guvernului nr. 1585/2009 privind recunoaşterea asociaţiei "Camera de Comerţ şi Industrie România-Turcia" ca fiind de utilitate publică | [`hg/2009/1585/`](hg/2009/1585/) | in force | 1 | 2009-12-21 | 2009-12-21 |
+| Hotărârea Guvernului nr. 1593/2009 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2009 al Regiei Autonome "Monetăria Statului" din subordinea Băncii Naţionale a României | [`hg/2009/1593/`](hg/2009/1593/) | amending act | 1 | 2009-12-22 | 2009-12-22 |
+| Hotărârea Guvernului nr. 1594/2009 privind trecerea unor construcţii aflate în administrarea Ministerului Administraţiei şi Internelor din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune şi desfiinţării, şi pentru actualizarea anexei nr. 1 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2009/1594/`](hg/2009/1594/) | amending act | 1 | 2009-12-23 | 2009-12-23 |
+| Hotărârea Guvernului nr. 1596/2009 privind darea în administrarea Ministerului Transporturilor şi Infrastructurii a unei suprafeţe totale de teren de 463 mp, trecută în domeniul public al statului, în vederea realizării de către Compania Naţională de Autostrăzi şi Drumuri Naţionale din România - S.A. a lucrării "Autostrada Braşov-Cluj-Borş, sector 2 Târgu Mureş-Cluj, secţiunea 2B Câmpia Turzii-Cluj Vest" | [`hg/2009/1596/`](hg/2009/1596/) | in force | 1 | 2009-12-23 | 2009-12-23 |
+| Hotărârea Guvernului nr. 1597/2009 privind aprobarea Planului de realizare a cadastrului general pentru anul 2009 | [`hg/2009/1597/`](hg/2009/1597/) | amending act | 1 | 2009-12-23 | 2009-12-23 |
+| Hotărârea Guvernului nr. 1598/2009 privind declararea utilităţii publice pentru lucrarea de interes naţional "Amenajarea hidroenergetică a râului Siret pe sector Cosmeşti - Movileni" | [`hg/2009/1598/`](hg/2009/1598/) | in force | 1 | 2009-12-24 | 2009-12-24 |
+| Hotărârea Guvernului nr. 1599/2009 privind modificarea anexei nr. 1 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2009/1599/`](hg/2009/1599/) | amending act | 1 | 2009-12-24 | 2009-12-24 |
+| Hotărârea Guvernului nr. 1601/2009 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţie "Sală polivalentă 4.000 locuri" - structură preluată, bd. Ştirbei Vodă, municipiul Craiova, judeţul Dolj, din cadrul Programului "Săli de sport", realizat prin Compania Naţională de Investiţii "C.N.I." - S.A | [`hg/2009/1601/`](hg/2009/1601/) | amending act | 1 | 2009-12-24 | 2009-12-24 |
 | Hotărârea Guvernului nr. 1602/2009 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţie "Bazin de înot olimpic - Bd. Gării nr. 21, municipiul Braşov, judeţul Braşov" - structură preluată, din cadrul Programului "Bazine de înot", realizat prin Compania Naţională de Investiţii "C.N.I." - S.A | [`hg/2009/1602/`](hg/2009/1602/) | amending act | 1 | 2009-12-24 | 2009-12-24 |
 | Hotărârea Guvernului nr. 1604/2009 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.359/2001 privind atestarea domeniului public al judeţului Prahova, precum şi al municipiilor, oraşelor şi comunelor din judeţul Prahova | [`hg/2009/1604/`](hg/2009/1604/) | amending act | 1 | 2010-01-11 | 2010-01-11 |
 | Hotărârea Guvernului nr. 1609/2009 | [`hg/2009/1609/`](hg/2009/1609/) | in force | 1 | 2009-12-30 | 2009-12-30 |
