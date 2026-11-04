@@ -1,6 +1,6 @@
 # Every act in this repository
 
-23811 acts, 37,444 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+23823 acts, 37,456 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -5939,7 +5939,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (17881, of which 9230 amending acts)
+## Government decisions (HG) (17893, of which 9234 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6625,7 +6625,19 @@
 | Hotărârea Guvernului nr. 1276/2006 | [`hg/2006/1276/`](hg/2006/1276/) | in force | 1 | 2006-10-12 | 2006-10-12 |
 | Hotărârea Guvernului nr. 1297/2006 | [`hg/2006/1297/`](hg/2006/1297/) | in force | 1 | 2006-09-26 | 2006-09-26 |
 | Hotărârea Guvernului nr. 1301/2006 | [`hg/2006/1301/`](hg/2006/1301/) | in force | 1 | 2006-10-03 | 2006-10-03 |
+| Hotărârea Guvernului nr. 1307/2006 privind suplimentarea bugetului Cancelariei Primului-Ministru din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru Autoritatea Naţională pentru Tineret, în scopul susţinerii activităţii Agenţiei Naţionale pentru Sprijinirea Iniţiativelor Tinerilor | [`hg/2006/1307/`](hg/2006/1307/) | in force | 1 | 2006-09-25 | 2006-09-25 |
+| Hotărârea Guvernului nr. 1308/2006 privind suplimentarea bugetului Cancelariei Primului-Ministru din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru Agenţia Naţională pentru Sport | [`hg/2006/1308/`](hg/2006/1308/) | in force | 1 | 2006-10-03 | 2006-10-03 |
+| Hotărârea Guvernului nr. 1309/2006 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Agenţiei Naţionale pentru Sport, prin Direcţia pentru Sport a Judeţului Ialomiţa, în domeniul public al municipiului Slobozia şi în administrarea Consiliului Local al Municipiului Slobozia, judeţul Ialomiţa | [`hg/2006/1309/`](hg/2006/1309/) | in force | 1 | 2006-10-02 | 2006-10-02 |
+| Hotărârea Guvernului nr. 1312/2006 pentru aprobarea Amendamentului convenit prin scrisoarea semnată la Luxemburg la 2 iunie 2006 şi la Bucureşti la 26 iunie 2006, între Guvernul României, Banca Europeană de Investiţii şi Consiliul General al Municipiului Bucureşti, la Contractul de finanţare dintre România, Banca Europeană de Investiţii şi Consiliul General al Municipiului Bucureşti pentru finanţarea Proiectului privind infrastructura urbană în Bucureşti, semnat la Luxemburg la 18 decembrie 2000 şi la Bucureşti la 19 decembrie 2000 | [`hg/2006/1312/`](hg/2006/1312/) | amending act | 1 | 2006-10-03 | 2006-10-03 |
+| Hotărârea Guvernului nr. 1314/2006 pentru modificarea şi completarea Hotărârii Guvernului nr. 725/2003 privind structura organizatorică şi efectivele Ministerului Administraţiei şi Internelor | [`hg/2006/1314/`](hg/2006/1314/) | amending act | 1 | 2006-10-05 | 2006-10-05 |
+| Hotărârea Guvernului nr. 1315/2006 pentru aprobarea Acordului tehnic dintre Ministerul Apărării Naţionale din România şi Ministerul Apărării din Republica Italiană privind cooperarea în domeniile geografiei militare, hidrografiei şi a schimbului de date şi materiale, semnat la Bucureşti la 12 iulie 2006 | [`hg/2006/1315/`](hg/2006/1315/) | amending act | 1 | 2006-10-09 | 2006-10-09 |
+| Hotărârea Guvernului nr. 1316/2006 pentru publicarea în Monitorul Oficial al României, Partea I, a anexei la Hotărârea Guvernului nr. 1.585/2005 privind aprobarea proiectului final al contractului de vânzare-cumpărare a pachetului de acţiuni deţinut de stat la Banca Comercială Română - S.A. şi a anexei la Hotărârea Guvernului nr. 1.719/2005 pentru aprobarea preţului de vânzare al acţiunilor deţinute de stat la Banca Comercială Română - S.A. şi a unor documente contractuale necesare încheierii procesului de privatizare a acestei bănci | [`hg/2006/1316/`](hg/2006/1316/) | amending act | 1 | 2006-10-09 | 2006-10-09 |
 | Hotărârea Guvernului nr. 1317/2006 | [`hg/2006/1317/`](hg/2006/1317/) | in force | 14 | 2006-10-06 | 2017-11-27 |
+| Hotărârea Guvernului nr. 1318/2006 privind suplimentarea bugetului Ministerului Culturii şi Cultelor din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2006, pentru Episcopia Ortodoxă Giurgiu | [`hg/2006/1318/`](hg/2006/1318/) | in force | 1 | 2006-10-04 | 2006-10-04 |
+| Hotărârea Guvernului nr. 1319/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru unele judeţe | [`hg/2006/1319/`](hg/2006/1319/) | in force | 1 | 2006-10-04 | 2006-10-04 |
+| Hotărârea Guvernului nr. 1320/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru judeţul Vâlcea | [`hg/2006/1320/`](hg/2006/1320/) | in force | 1 | 2006-10-04 | 2006-10-04 |
+| Hotărârea Guvernului nr. 1322/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru judeţul Cluj | [`hg/2006/1322/`](hg/2006/1322/) | in force | 1 | 2006-10-04 | 2006-10-04 |
+| Hotărârea Guvernului nr. 1323/2006 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru înlăturarea efectelor calamităţilor naturale produse în judeţul Argeş | [`hg/2006/1323/`](hg/2006/1323/) | in force | 1 | 2006-10-04 | 2006-10-04 |
 | Hotărârea Guvernului nr. 1324/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru judeţul Suceava | [`hg/2006/1324/`](hg/2006/1324/) | in force | 1 | 2006-10-04 | 2006-10-04 |
 | Hotărârea Guvernului nr. 1325/2006 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru înlăturarea efectelor calamităţilor naturale produse în judeţul Alba | [`hg/2006/1325/`](hg/2006/1325/) | in force | 1 | 2006-10-04 | 2006-10-04 |
 | Hotărârea Guvernului nr. 1326/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru judeţul Constanţa | [`hg/2006/1326/`](hg/2006/1326/) | in force | 1 | 2006-10-04 | 2006-10-04 |
