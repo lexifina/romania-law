@@ -1,6 +1,6 @@
 # Every act in this repository
 
-27714 acts, 41,357 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+27729 acts, 41,372 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6402,7 +6402,7 @@
 | Ordonanța Guvernului nr. 3/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 70/2022 privind prevenirea, verificarea şi constatarea neregulilor/dublei finanţări, a neregulilor grave apărute în obţinerea şi utilizarea fondurilor externe nerambursabile/rambursabile alocate României prin Mecanismul de redresare şi rezilienţă şi/sau a fondurilor publice naţionale aferente acestora şi recuperarea creanţelor rezultate | [`og/2026/3/`](og/2026/3/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (21321, of which 10981 amending acts)
+## Government decisions (HG) (21336, of which 10985 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6849,6 +6849,21 @@
 | Hotărârea Guvernului nr. 1043/2004 | [`hg/2004/1043/`](hg/2004/1043/) | in force | 2 | 2004-08-02 | 2005-01-03 |
 | Hotărârea Guvernului nr. 1076/2004 | [`hg/2004/1076/`](hg/2004/1076/) | in force | 3 | 2004-12-03 | 2012-10-29 |
 | Hotărârea Guvernului nr. 1126/2004 | [`hg/2004/1126/`](hg/2004/1126/) | in force | 1 | 2004-07-28 | 2004-07-28 |
+| Hotărârea Guvernului nr. 1168/2004 privind transmiterea unei părţi dintr-un imobil, proprietate publică a statului, din administrarea Autorităţii Naţionale de Control - Autoritatea Naţională a Vămilor în administrarea Autorităţii Naţionale Sanitare Veterinare şi pentru Siguranţa Alimentelor | [`hg/2004/1168/`](hg/2004/1168/) | in force | 1 | 2004-08-04 | 2004-08-04 |
+| Hotărârea Guvernului nr. 1169/2004 privind transmiterea fără plată a unor terenuri din domeniul privat al statului şi din administrarea Companiei Naţionale a Huilei - S.A. în domeniul public al localităţilor Petrila, Petroşani, Aninoasa, Vulcan, Lupeni, Uricani şi Brad, judeţul Hunedoara, şi în administrarea consiliilor locale | [`hg/2004/1169/`](hg/2004/1169/) | in force | 1 | 2004-08-03 | 2004-08-03 |
+| Hotărârea Guvernului nr. 1171/2004 pentru modificarea şi completarea anexelor la Hotărârea Guvernului nr. 908/2002 privind atestarea domeniului public al judeţului Vrancea, precum şi al municipiilor, oraşelor şi comunelor din judeţul Vrancea | [`hg/2004/1171/`](hg/2004/1171/) | amending act | 1 | 2004-08-17 | 2004-08-17 |
+| Hotărârea Guvernului nr. 1172/2004 pentru aprobarea Protocolului dintre Guvernul României şi Guvernul Landului Baden-W\'fcrttemberg privind crearea Comisiei mixte guvernamentale pentru promovarea colaborării, în special în domeniul economic, semnat la Stuttgart la 13 mai 2004 | [`hg/2004/1172/`](hg/2004/1172/) | amending act | 1 | 2004-08-03 | 2004-08-03 |
+| Hotărârea Guvernului nr. 1173/2004 privind redobândirea cetăţeniei române de către unele persoane | [`hg/2004/1173/`](hg/2004/1173/) | in force | 1 | 2004-08-03 | 2004-08-03 |
+| Hotărârea Guvernului nr. 1174/2004 privind acordarea cetăţeniei române unor persoane | [`hg/2004/1174/`](hg/2004/1174/) | in force | 1 | 2004-08-03 | 2004-08-03 |
+| Hotărârea Guvernului nr. 1176/2004 privind organizarea la Bucureşti, în perioada 23-25 septembrie 2004, a Conferinţei de Evaluare Economică pe Termen Mediu (CMTEA) | [`hg/2004/1176/`](hg/2004/1176/) | in force | 1 | 2004-08-04 | 2004-08-04 |
+| Hotărârea Guvernului nr. 1177/2004 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru judeţul Hunedoara | [`hg/2004/1177/`](hg/2004/1177/) | in force | 1 | 2004-07-30 | 2004-07-30 |
+| Hotărârea Guvernului nr. 1178/2004 privind acordarea unui ajutor umanitar, constând în materiale de construcţii şi reparat case, pentru populaţia din judeţele Argeş, Bacău, Buzău, Hunedoara şi Vrancea, afectate de fenomenele meteorologice periculoase care s-au produs în perioada 11-28 iulie 2004 | [`hg/2004/1178/`](hg/2004/1178/) | in force | 1 | 2004-07-30 | 2004-07-30 |
+| Hotărârea Guvernului nr. 1180/2004 pentru aprobarea cheltuielilor ocazionate de deplasările efectuate în ţările Uniunii Europene de către doamna Corina Coman, detaşată de Guvernul Republicii Franceze în calitate de consilier de stat al primului-ministru | [`hg/2004/1180/`](hg/2004/1180/) | amending act | 1 | 2004-07-30 | 2004-07-30 |
+| Hotărârea Guvernului nr. 1181/2004 pentru aprobarea finanţării, pe perioada iulie-septembrie 2004, a proiectului "Corespondenţii Televiziunii Române în străinătate", din fondurile pentru promovarea imaginii externe a României | [`hg/2004/1181/`](hg/2004/1181/) | amending act | 1 | 2004-07-30 | 2004-07-30 |
+| Hotărârea Guvernului nr. 1182/2004 privind exceptarea temporară de la plata taxelor vamale de import pentru unele categorii de mărfuri | [`hg/2004/1182/`](hg/2004/1182/) | in force | 1 | 2004-07-30 | 2004-07-30 |
+| Hotărârea Guvernului nr. 1183/2004 privind suplimentarea bugetului Ministerului Afacerilor Externe din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2004 | [`hg/2004/1183/`](hg/2004/1183/) | in force | 1 | 2004-08-03 | 2004-08-03 |
+| Hotărârea Guvernului nr. 1184/2004 privind transmiterea unui imobil, proprietate publică a statului, din administrarea Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat" în administrarea Regiei Naţionale a Pădurilor - Romsilva | [`hg/2004/1184/`](hg/2004/1184/) | in force | 1 | 2004-08-03 | 2004-08-03 |
+| Hotărârea Guvernului nr. 1186/2004 privind suplimentarea bugetului Secretariatului General al Guvernului din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2004 | [`hg/2004/1186/`](hg/2004/1186/) | in force | 1 | 2004-08-03 | 2004-08-03 |
 | Hotărârea Guvernului nr. 1187/2004 privind finanţarea proiectului "Promovarea imaginii României de către Patriarhia Română" din fondurile pentru promovarea imaginii externe a României | [`hg/2004/1187/`](hg/2004/1187/) | in force | 1 | 2004-08-03 | 2004-08-03 |
 | Hotărârea Guvernului nr. 1190/2004 privind garantarea de către Ministerul Finanţelor Publice a unui împrumut extern pentru Societatea Comercială de Producere a Energiei Electrice şi Termice "Termoelectrica" - S.A | [`hg/2004/1190/`](hg/2004/1190/) | in force | 1 | 2004-08-04 | 2004-08-04 |
 | Hotărârea Guvernului nr. 1191/2004 privind suplimentarea bugetului Ministerului Finanţelor Publice din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004 | [`hg/2004/1191/`](hg/2004/1191/) | in force | 1 | 2004-08-04 | 2004-08-04 |
