@@ -1,6 +1,6 @@
 # Every act in this repository
 
-25117 acts, 38,751 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+25139 acts, 38,773 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3757, of which 2197 amending acts)
+## Laws (legi) (3758, of which 2198 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -612,6 +612,7 @@
 | Legea nr. 279/2005 | [`lege/2005/279/`](lege/2005/279/) | in force | 10 | 2006-02-08 | 2019-05-11 |
 | Legea nr. 281/2005 | [`lege/2005/281/`](lege/2005/281/) | in force | 1 | 2005-10-15 | 2005-10-15 |
 | Legea nr. 282/2005 | [`lege/2005/282/`](lege/2005/282/) | in force | 9 | 2005-10-16 | 2022-04-14 |
+| Legea nr. 286/2005 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 80/2005 privind completarea Legii nr. 178/1997 pentru autorizarea şi plata interpreţilor şi traducătorilor folosiţi de Consiliul Superior al Magistraturii, de Ministerul Justiţiei, Parchetul de pe lângă Înalta Curte de Casaţie şi Justiţie, Parchetul Naţional Anticorupţie, de organele de urmărire penală, de instanţele judecătoreşti, de birourile notarilor publici, de avocaţi şi de executori judecătoreşti | [`lege/2005/286/`](lege/2005/286/) | amending act | 1 | 2005-10-16 | 2005-10-16 |
 | Legea nr. 289/2005 privind unele măsuri pentru prevenirea și combaterea fenomenului infracțional în domeniul transportului pe calea ferată | [`lege/2005/289/`](lege/2005/289/) | in force | 2 | 2005-10-20 | 2014-02-01 |
 | Legea nr. 292/2005 pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 89/2005 privind modificarea şi completarea Legii nr. 373/2004 pentru alegerea Camerei Deputaţilor şi a Senatului | [`lege/2005/292/`](lege/2005/292/) | amending act | 1 | 2005-10-31 | 2005-10-31 |
 | Legea nr. 293/2005 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 119/2005 privind modificarea Legii educaţiei fizice şi sportului nr. 69/2000 | [`lege/2005/293/`](lege/2005/293/) | amending act | 1 | 2005-10-30 | 2005-10-30 |
@@ -3795,7 +3796,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1740, of which 615 amending acts)
+## Emergency ordinances (OUG) (1741, of which 615 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4089,6 +4090,7 @@
 | Ordonanța de urgență a Guvernului nr. 128/2005 | [`oug/2005/128/`](oug/2005/128/) | repealed 2010-07-22 | 3 | 2005-09-26 | 2010-07-22 |
 | Ordonanța de urgență a Guvernului nr. 134/2005 | [`oug/2005/134/`](oug/2005/134/) | in force | 2 | 2005-10-07 | 2006-03-16 |
 | Ordonanța de urgență a Guvernului nr. 135/2005 | [`oug/2005/135/`](oug/2005/135/) | in force | 2 | 2005-10-07 | 2006-03-13 |
+| Ordonanța de urgență a Guvernului nr. 141/2005 pentru ratificarea Protocolului adiţional la Scrisoarea de înţelegere privind controlul drogurilor şi aplicarea legii, semnată la Bucureşti la 3 iulie 2001, dintre Guvernul României şi Guvernul Statelor Unite ale Americii, semnat la Bucureşti la 26 septembrie 2005 | [`oug/2005/141/`](oug/2005/141/) | in force | 1 | 2005-10-25 | 2005-10-25 |
 | Ordonanța de urgență a Guvernului nr. 145/2005 privind utilizarea unor sume încasate în valută din activitatea de privatizare | [`oug/2005/145/`](oug/2005/145/) | in force | 1 | 2005-10-28 | 2005-10-28 |
 | Ordonanța de urgență a Guvernului nr. 148/2005 | [`oug/2005/148/`](oug/2005/148/) | in force | 13 | 2006-01-01 | 2012-10-14 |
 | Ordonanța de urgență a Guvernului nr. 152/2005 | [`oug/2005/152/`](oug/2005/152/) | repealed 2013-12-01 | 5 | 2005-11-30 | 2013-12-01 |
@@ -6074,7 +6076,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (19052, of which 9663 amending acts)
+## Government decisions (HG) (19072, of which 9669 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6658,7 +6660,27 @@
 | Hotărârea Guvernului nr. 1064/2005 | [`hg/2005/1064/`](hg/2005/1064/) | in force | 3 | 2005-10-12 | 2010-11-30 |
 | Hotărârea Guvernului nr. 1085/2005 pentru modificarea Hotărârii Guvernului nr. 182/2004 privind aprobarea indicatorilor tehnico-economici ai unor obiective de investiţii din cadrul programului "38.000 de locuinţe pentru tineri, destinate închirierii", derulate prin intermediul Agenţiei Naţionale pentru Locuinţe | [`hg/2005/1085/`](hg/2005/1085/) | amending act | 1 | 2005-11-21 | 2005-11-21 |
 | Hotărârea Guvernului nr. 1176/2005 | [`hg/2005/1176/`](hg/2005/1176/) | in force | 1 | 2005-10-20 | 2005-10-20 |
+| Hotărârea Guvernului nr. 1196/2005 privind transmiterea unei părţi din imobilul Casa Agronomului Cluj, proprietate publică a statului, din administrarea Agenţiei Naţionale de Consultanţă Agricolă în administrarea Direcţiei pentru Agricultură şi Dezvoltare Rurală Cluj | [`hg/2005/1196/`](hg/2005/1196/) | in force | 1 | 2005-10-12 | 2005-10-12 |
+| Hotărârea Guvernului nr. 1197/2005 privind transmiterea, fără plată, a Bazei Sportive "Voinicelul" - construcţii şi teren - din domeniul public al statului şi din administrarea Ministerului Educaţiei şi Cercetării - Clubul Copiilor din sectorul 3 în domeniul public al sectorului 3 al municipiului Bucureşti şi în administrarea Consiliului Local al Sectorului 3, pentru Grupul Şcolar Industrial "Nicolae Teclu" | [`hg/2005/1197/`](hg/2005/1197/) | in force | 1 | 2005-10-17 | 2005-10-17 |
+| Hotărârea Guvernului nr. 1198/2005 privind trecerea unor construcţii aflate în administrarea Ministerului Administraţiei şi Internelor din domeniul public al statului în domeniul privat al statului | [`hg/2005/1198/`](hg/2005/1198/) | in force | 1 | 2005-10-12 | 2005-10-12 |
+| Hotărârea Guvernului nr. 1199/2005 pentru modificarea pct. VI din anexa la Hotărârea Guvernului nr. 87/2005 privind aprobarea cifrelor de şcolarizare pentru învăţământul preuniversitar şi superior de stat în anul şcolar/universitar 2005-2006 | [`hg/2005/1199/`](hg/2005/1199/) | amending act | 1 | 2005-10-12 | 2005-10-12 |
+| Hotărârea Guvernului nr. 1202/2005 privind aprobarea Regulamentului pentru organizarea şi funcţionarea Consiliului de onoare al Ordinului Meritul Sportiv | [`hg/2005/1202/`](hg/2005/1202/) | amending act | 1 | 2005-10-13 | 2005-10-13 |
+| Hotărârea Guvernului nr. 1203/2005 privind transmiterea din domeniul public al statului în domeniul public al municipiului Giurgiu a unui imobil aflat în administrarea Consiliului Local al Municipiului Giurgiu | [`hg/2005/1203/`](hg/2005/1203/) | in force | 1 | 2005-10-12 | 2005-10-12 |
+| Hotărârea Guvernului nr. 1204/2005 privind darea în administrare Casei Naţionale de Asigurări de Sănătate - Casa de Asigurări de Sănătate a Municipiului Bucureşti a unui bun imobil, proprietate publică a statului | [`hg/2005/1204/`](hg/2005/1204/) | in force | 1 | 2005-10-13 | 2005-10-13 |
+| Hotărârea Guvernului nr. 1205/2005 privind transmiterea în folosinţă gratuită a navei Tismana, proprietate privată a statului, aflată în administrarea Agenţiei Naţionale pentru Sport, Federaţiei Române de Canotaj | [`hg/2005/1205/`](hg/2005/1205/) | in force | 1 | 2005-10-12 | 2005-10-12 |
+| Hotărârea Guvernului nr. 1206/2005 privind suplimentarea bugetului Ministerului Sănătăţii din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru finanţarea unor măsuri de prevenire a riscului epidemiologic şi a îmbolnăvirilor în rândul populaţiei afectate de calamităţile naturale produse de inundaţii | [`hg/2005/1206/`](hg/2005/1206/) | in force | 1 | 2005-10-11 | 2005-10-11 |
+| Hotărârea Guvernului nr. 1207/2005 pentru modificarea şi completarea Normelor tehnice privind deţinerea, prepararea, experimentarea, distrugerea, transportul, depozitarea, mânuirea şi folosirea materiilor explozive utilizate în orice alte operaţiuni specifice în activităţile deţinătorilor, precum şi autorizarea artificierilor şi a pirotehniştilor, aprobate prin Hotărârea Guvernului nr. 536/2002 | [`hg/2005/1207/`](hg/2005/1207/) | amending act | 1 | 2005-10-21 | 2005-10-21 |
+| Hotărârea Guvernului nr. 1208/2005 privind transmiterea unei părţi dintr-un imobil aflat în domeniul public al statului din administrarea Administraţiei Naţionale a Rezervelor de Stat în administrarea Consiliului Naţional pentru Studierea Arhivelor Securităţii | [`hg/2005/1208/`](hg/2005/1208/) | in force | 1 | 2005-10-19 | 2005-10-19 |
+| Hotărârea Guvernului nr. 1209/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Suceava | [`hg/2005/1209/`](hg/2005/1209/) | in force | 1 | 2005-10-19 | 2005-10-19 |
+| Hotărârea Guvernului nr. 1210/2005 privind concesionarea activităţii de neutralizare a deşeurilor de origine animală | [`hg/2005/1210/`](hg/2005/1210/) | in force | 1 | 2005-10-20 | 2005-10-20 |
+| Hotărârea Guvernului nr. 1214/2005 pentru aprobarea Înţelegerii privind aplicarea Acordului din 8 aprilie 2005 dintre România şi Republica Federală Germania privind securitatea socială, semnată la Bucureşti la 8 aprilie 2005 | [`hg/2005/1214/`](hg/2005/1214/) | amending act | 1 | 2005-10-21 | 2005-10-21 |
+| Hotărârea Guvernului nr. 1216/2005 pentru modificarea şi completarea Hotărârii Guvernului nr. 412/2004 privind organizarea şi funcţionarea Ministerului Transporturilor, Construcţiilor şi Turismului | [`hg/2005/1216/`](hg/2005/1216/) | amending act | 1 | 2005-10-27 | 2005-10-27 |
+| Hotărârea Guvernului nr. 1217/2005 privind suplimentarea bugetului Autorităţii Naţionale Sanitare Veterinare şi pentru Siguranţa Alimentelor şi al Ministerului Agriculturii, Pădurilor şi Dezvoltării Rurale din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru măsurile ce trebuie să se aplice ca urmare a suspiciunii influenţei aviare în judeţul Tulcea | [`hg/2005/1217/`](hg/2005/1217/) | in force | 1 | 2005-10-11 | 2005-10-11 |
+| Hotărârea Guvernului nr. 1219/2005 privind suplimentarea bugetului Secretariatului General al Guvernului din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru acoperirea cheltuielilor ocazionate de organizarea şi desfăşurarea, în România, în perioada 20-21 octombrie 2005, a unei şedinţe comune a Guvernului României şi Guvernului Republicii Ungare | [`hg/2005/1219/`](hg/2005/1219/) | in force | 1 | 2005-10-11 | 2005-10-11 |
+| Hotărârea Guvernului nr. 1220/2005 privind acordarea unui ajutor umanitar de urgenţă pentru populaţia din comuna Ceamurlia de Jos, judeţul Tulcea | [`hg/2005/1220/`](hg/2005/1220/) | in force | 1 | 2005-10-17 | 2005-10-17 |
 | Hotărârea Guvernului nr. 1222/2005 | [`hg/2005/1222/`](hg/2005/1222/) | in force | 1 | 2005-12-18 | 2005-12-18 |
+| Hotărârea Guvernului nr. 1223/2005 privind aprobarea stemei comunei Fărcaşa, judeţul Maramureş | [`hg/2005/1223/`](hg/2005/1223/) | amending act | 1 | 2005-10-20 | 2005-10-20 |
+| Hotărârea Guvernului nr. 1224/2005 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru înlăturarea efectelor calamităţilor naturale produse de inundaţii în luna septembrie 2005 | [`hg/2005/1224/`](hg/2005/1224/) | in force | 1 | 2005-10-20 | 2005-10-20 |
 | Hotărârea Guvernului nr. 1225/2005 pentru modificarea art. 1 alin. (2) din Hotărârea Guvernului nr. 884/2004 privind concesionarea unor spaţii cu destinaţia de cabinete medicale | [`hg/2005/1225/`](hg/2005/1225/) | amending act | 1 | 2005-10-24 | 2005-10-24 |
 | Hotărârea Guvernului nr. 1226/2005 privind suplimentarea bugetului Ministerului Transporturilor, Construcţiilor şi Turismului din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru înlăturarea efectelor calamităţilor naturale produse de inundaţii asupra infrastructurii rutiere şi feroviare | [`hg/2005/1226/`](hg/2005/1226/) | in force | 1 | 2005-10-20 | 2005-10-20 |
 | Hotărârea Guvernului nr. 1227/2005 privind declararea stării de calamitate naturală în agricultură pentru culturile însămânţate în toamna anului 2004 şi în primăvara anului 2005, pentru culturile de viţă-de-vie şi pomi fructiferi, ca urmare a fenomenelor meteorologice din perioada aprilie-septembrie 2005, precum şi stabilirea nivelului maxim al sumei ce poate fi acordată ca despăgubire | [`hg/2005/1227/`](hg/2005/1227/) | in force | 1 | 2005-10-20 | 2005-10-20 |
