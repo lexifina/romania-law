@@ -1,0 +1,5184 @@
+ANEXA
+MODIFICĂRI ȘI COMPLETĂRI
+la anexele nr. 1 și nr. 2 la Ordinul ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 564/499/2021
+
+La anexa nr. 1, după poziția 341 se introduc șase noi poziții, pozițiile 342 - 347, cu următorul cuprins:
+
+La anexa nr. 1, protocolul terapeutic corespunzător poziției nr. 15 cod (A021E): DCI ACIDUM TIOCTICUM (ALFA-LIPOICUM) se modifică și se înlocuiește cu următorul protocol:
+
+”Protocol terapeutic corespunzător poziției nr. 15 cod (A021E): DCI ACIDUM TIOCTICUM (ALFA-LIPOICUM)
+
+I. Indicație
+Tratamentul tulburărilor senzitive din polineuropatia diabetică.
+
+II. Criterii de includere în tratamentul specific:
+Pacienți adulti cu diabet zaharat cu tulburări senzitive din polineuropatia diabetică.
+
+III. Doze și mod de administrare
+La adulți, în cazul tulburărilor senzitive din polineuropatie diabetică, doza recomandată este de 600 mg acid alfa-lipoic pe zi.
+
+Modul și durata de administrare
+Medicamentul poate fi administrat independent de mese, cu suficient lichid. (Deoarece acidul alfa-lipoic interacționează cu alimentele, se recomandă administrarea medicamentului a jeun, pentru a îmbunătăți absorbția).
+
+Deoarece polineuropatia diabetică este o boală cronică, poate fi necesar tratament cronic. Decizia asupra fiecărui caz trebuie să aparțină medicului care tratează pacientul.
+
+IV. Contraindicații
+Acidul alfa-lipoic este contraindicat la pacienții cu hipersensibilitate cunoscută la acid alfa-lipoic sau la oricare dintre excipienții produsului.
+
+V. Atenționări și precauții speciale
+La copii și adolescenți nu se recomandă tratamentul cu acidul alfa-lipoic, deoarece nu există experiență clinică pentru aceste grupe de vârstă. Deoarece nu sunt disponibile date cu privire la siguranța administrării acidului alfa-lipoic în timpul sarcinii, se recomandă ca pacienta, după apariția sarcinii, să nu continue să utilizeze acidul alfa-lipoic decât la recomandarea medicului. Nu se cunoaște dacă acidul alfa-lipoic se excretă în laptele matern. De aceea, acidul alfa-lipoic nu trebuie administrat niciodată în timpul alăptării.
+
+Interacțiuni cu alte produse medicamentoase, alte interacțiuni
+Nu se poate exclude faptul că administrarea concomitentă a acidului alfa-lipoic poate diminua efectul cisplatinei. Efectul insulinei și antidiabeticelor orale de scădere a glicemiei crescute, poate fi potențat. De aceea, se recomandă un control glicemic repetat, mai ales la începutul terapiei cu acid alfa-lipoic.
+
+În cazuri izolate, poate fi necesară scăderea dozei de insulină, respectiv de antidiabetice orale, pentru a evita apariția hipoglicemiilor.
+
+În timpul tratamentului cu acidul alfa-lipoic este contraindicat consumul de alcool etilic, deoarece alcoolul etilic și metaboliții acestuia scad efectul terapeutic al acidului alfa-lipoic.
+
+VI. Reacții adverse
+Până în prezent nu s-au raportat reacții adverse după administrarea de preparate medicamentoase care conțin acid alfa-lipoic. Totuși, reacțiile adverse care sunt cunoscute că apar după administrare intravenoasă nu poate fi exclusă cu certitudine în relația administrării acestor comprimate filmate.
+
+Ocazional, după administrarea rapidă în perfuzie pot să apară cefalee, dispnee, care ulterior dispar spontan. La locul de puncție sau sistemic, pot să apară reacții alergice cu urticarie și erupții cutanate locale sau chiar șoc. În cazuri izolate, după administrarea intravenoasă a medicamentului, s-au observat crampe musculare, diplopie, purpură și trombocitopatii. În cazuri izolate, datorită creșterii utilizării glucozei, pot să apară hipoglicemii.
+
+VII. Prescriptori
+Medici din specialitatea diabet zaharat, nutriție și boli metabolice, medici cu competență/atestat în diabet, medici din specialitatea neurologie, cardiologie, medicină internă, medicină de familie.”
+
+La anexa nr. 1, protocolul terapeutic corespunzător poziției nr. 36 cod (A10BK03): DCI EMPAGLIFLOZINUM se modifică și se înlocuiește cu următorul protocol:
+
+”Protocol terapeutic corespunzător poziției nr. 36 cod (A10BK03): DCI EMPAGLIFLOZINUM
+
+I. Indicație:
+Empagliflozinum este indicat pentru tratamentul adulților cu diabet zaharat de tip 2 insuficient controlat, ca adjuvant la dieta și exercițiul fizic în plus față de alte medicamente pentru tratamentul diabetului zaharat.
+
+II. Criterii de includere în tratamentul specific:
+
+1. Dublă terapie:
+Empagliflozinum în asociere cu metformin la pacienții necontrolați sub terapia anterioară.
+Empagliflozinum în asociere cu sulfoniluree la pacienții necontrolați sub terapia anterioară.
+Empagliflozinum în asociere cu agoniști ai receptorului GLP-1 la pacienții necontrolați sub terapia anterioară.
+Empagliflozinum în asociere cu inhibitori ai DPP-4 la pacienții necontrolați sub terapia anterioară.
+Empagliflozinum în asociere cu insulină la pacienții necontrolați sub terapia anterioară.
+2. Triplă terapie:
+Empagliflozinum cu Metformin și Sulfoniluree la pacienții necontrolați sub terapia anterioară.
+Empagliflozinum cu Metformin și inhibitori ai DPP4 la pacienții necontrolați sub terapia anterioară.
+Empagliflozinum cu Metformin și agoniști ai receptorului de GLP1 la pacienții necontrolați sub terapia anterioară.
+Empagliflozinum cu Metformin și Insulină la pacienții necontrolați sub terapia anterioară.
+
+III. Doze și mod de administrare
+Doza inițială recomandată de DCI EMPAGLIFLOZINUM este de 10 mg o dată pe zi atunci când se administrează în monoterapie si terapie asociată suplimentară cu alte medicamente pentru tratamentul diabetului zaharat. La pacienții care tolerează empagliflozin 10 mg o dată pe zi, care prezintă eRFG ≥ 60 ml/min/1,73 m2 și care necesită un control glicemic mai strict, doza poate fi crescută la 25 mg o dată pe zi.
+Doza zilnică maximă este de 25 mg. Când empagliflozin este utilizat în asociere cu o sulfoniluree sau cu insulină, se poate avea în vedere o doză mai mică de sulfoniluree sau de insulină, pentru a reduce riscul de hipoglicemie.
+
+La pacienții cu diabet zaharat și insuficiență cardiacă doza recomandată de empagliflozin este 10 mg o dată pe zi.
+
+IV. Monitorizarea tratamentului
+de către medicul specialist diabetolog sau medicul cu competență/atestat în diabet, în funcție de fiecare caz în parte, pe baza unor parametri clinici și paraclinici.
+clinic: toleranță individuală, semne/simptome de reacție alergică
+paraclinic: parametrii de echilibru metabolic (glicemie bazală și postprandială în funcție de fiecare caz în parte), HbA1c la inițierea tratamentului și ulterior periodic, parametrii funcției renale înainte de inițierea tratamentului și periodic ulterior.
+V. Contraindicații
+Hipersensibilitate la substanța activă sau la oricare dintre excipienți.
+
+VI. Atenționări speciale la grupe speciale de pacienți
+DCI EMPAGLIFLOZINUM nu trebuie utilizat la pacienți cu diabet de tip 1.
+1. Inhibitorii co-transportorului de glucoză 2(SGLT2i) se utilizează cu prudență la pacienții cu risc crescut de cetoacidoză diabetică (CAD) și, dacă există suspiciune a diagnosticului de CAD, tratamentul cu Empagliflozin se întrerupe imediat.
+
+2. Insuficiență renală*)
+Pentru indicația de diabet zaharat de tip 2 la pacienții cu RFGe sub 60 ml/minut/1,73 m2 sau  ClCr <60 ml/minut, doza zilnică de empagliflozin este limitată la 10 mg. Empagliflozin  nu este recomandat atunci când RFGe se situează sub 30 ml/minut/1,73 m2 sau ClCr sub 30 ml/minut.
+
+Din cauza mecanismului de acțiune, eficacitatea glicemică a empagliflozinului este dependentă de funcția renală. Nu este necesară ajustarea dozei la pacienți cu eRFG ≥ 60 ml/min/1,73 m2 sau ClCr ≥ 60 ml/min. Empagliflozin nu trebuie utilizat la pacienții cu boală renală în stadiu terminal (BRST) sau la pacienții cărora li se efectuează dializă, deoarece nu se anticipează că va fi eficient la aceștia. Pentru tratamentul insuficienței cardiace la pacienții cu diabet zaharat de tip 2, administrarea de empagliflozin 10 mg poate fi inițiată sau continuată până la o valoare a RFGe de 20 ml/minut.
+___________
+*) Pentru informații detaliate cu privire la reacțiile adverse, interacțiuni cu alte medicamente, reacții adverse, proprietăți farmacologice este obligatoriu a se studia Rezumatul caracteristicilor produsului (RCP) produsului EMPAGLIFLOZINUM extins.
+
+3. Insuficiență hepatică
+Nu este necesară ajustarea dozei la pacienți cu insuficiență hepatică. Expunerea la empagliflozin este crescută la pacienții cu insuficiență hepatică severă. Experiența terapeutică la pacienții cu insuficiență hepatică severă este limitată și, prin urmare, nu se recomandă utilizarea la acest grup de pacienți.
+
+4. Vârstnici
+Nu se recomandă ajustarea dozei în funcție de vârstă. La pacienții cu vârsta de 75 ani și peste, trebuie avut în vedere un risc crescut de depleție volemică. Din cauza experienței terapeutice limitate la pacienții cu vârsta de 85 ani și peste, nu se recomandă începerea tratamentului cu empagliflozin.
+
+5. Copii și adolescenți
+Siguranța și eficacitatea administrării empagliflozin la copii și adolescenți nu au fost încă stabilite. Nu sunt disponibile date.
+
+VII. Întreruperea tratamentului:
+Decizia de întrerupere temporară sau definitivă a tratamentului va fi luată în funcție de indicații și contraindicații de către specialistul diabetolog, medici specialiști cu competența/atestat în diabet, în funcție de fiecare caz în parte.
+
+VIII. Prescriptori:
+Inițierea se face de către medicii diabetologi, alți medici specialiști cu competența în diabet în baza protocolului terapeutic și ghidului în vigoare, iar continuarea se poate face și de către medicii desemnați conform prevederilor legale în vigoare sau medicii de familie, în dozele și pe durata recomandată în scrisoarea medicală.”
+
+La anexa nr. 1, protocolul terapeutic corespunzător poziției nr. 37 cod (A10BX09): DCI DAPAGLIFLOZINUM se modifică și se înlocuiește cu următorul protocol:
+
+”Protocol terapeutic corespunzător poziției nr. 37 cod (A10BX09): DCI DAPAGLIFLOZINUM
+
+I. Indicații:
+Dapagliflozina este indicată la pacienții adulți și la copii cu vârsta de 10 ani și peste, pentru tratamentul diabetului zaharat de tip 2 insuficient controlat , în asociere cu dietă și programul de exerciții fizice.
+
+II. Criterii de includere în tratamentul specific:
+
+Monoterapie, dacă utilizarea metformin nu este adecvată din cauza intoleranței
+În asociere cu alte medicamente pentru tratamentul diabetului zaharat tip 2 atunci cand acestea nu sunt suficiente pentru controlul diabetului după cum urmează:
+
+a. Dublă terapie:
+Dapagliflozinum în asociere cu metformin la pacienții necontrolați sub terapia anterioară.
+Dapagliflozinum în asociere cu sulfoniluree la pacienții necontrolați sub terapia anterioară.
+Dapagliflozinum în asociere cu insulina la pacienții necontrolați sub terapia anterioară.
+
+b. Triplă terapie:
+Dapagliflozinum cu Metformin și sulfoniluree la pacienții necontrolați sub terapia anterioară
+Dapagliflozinum cu Metformin și Insulină la pacienții necontrolați sub terapia anterioară
+Dapagliflozinum  cu metformin si inhibitori ai DPP-4 la pacientii necontrolati sub terapia anterioara
+
+III. Doze și mod de administrare.
+Doza recomandată de dapagliflozin este de 10 mg administrată o dată pe zi, ca tratament adjuvant asociat terapiei hipoglicemiante menționate anterior iar la pacienții cu diabet zaharat tip 2 și insuficiență cardiacă se recomandă aceeași doză, de 10 mg Dapagliflozinum.
+
+Atunci când dapagliflozin este utilizat în asociere cu insulină sau un secretagog al insulinei, cum este o sulfoniluree, se poate lua în considerare utilizarea unei doze mai mici de insulină sau de secretagog al insulinei pentru a reduce riscul hipoglicemiei.
+
+IV. Monitorizarea tratamentului:
+de către medicul specialist diabetolog sau medicul cu competență/atestat în diabet, în funcție de fiecare caz în parte, pe baza unor parametri clinici și paraclinici.
+clinic: toleranță individuală, semne/simptome de reacție alergică - paraclinic: parametrii de echilibru metabolic (glicemie bazală și postprandială în funcție de fiecare caz în parte), HbA1c la inițierea tratamentului și ulterior periodic, parametrii funcției renale înainte de inițierea tratamentului și periodic ulterior.
+
+V. Contraindicații.
+Dapagliflozin este contraindicată la pacienții cu hipersensibilitate la substanțele active sau la oricare dintre excipienți.
+
+VI. Atenționări și precauții speciale pentru utilizare:
+Dapagliflozin nu trebuie utilizat la pacienți cu diabet zaharat de tip 1.
+Insuficiența renală: Utilizarea Dapagliflozinum nu necesită ajustarea dozei în funcție de rață de filtrare glomerulară (RFG). Molecula Dapagliflozinum poate fi inițiată la pacienții cu RFG ≥ 25 ml/minut. Datorită experienței limitate, inițierea cu Dapagliflozinum nu este recomandată la pacienții cu RFG< 25ml/minut. La pacienții cu diabet zaharat, eficacitatea dapagliflozin de scădere a glicemiei este redusă la valori ale ratei filtrării glomerulare (RFG) <45 ml/minut și este probabil absentă la pacienții cu insuficiență renală severă. Astfel, dacă RFG scade sub 45 ml/minut, la pacienții cu diabet zaharat trebuie luat în considerare un tratament hipoglicemiant suplimentar dacă este necesară îmbunătățirea controlului glicemic în continuare.
+Inhibitorii co-transportorului de glucoză 2(SGLT2i) se utilizează cu prudență la pacienții cu risc crescut de cetoacidoză diabetică (CAD) și dacă există suspiciune a diagnosticului de CAD, tratamentul cu Dapagliflozinum se întrerupe imediat.
+Insuficiența hepatică: La pacienții cu insuficiență hepatică ușoară și moderată nu este necesară ajustarea dozei de Dapagliflozinum.La pacienții cu insuficiență hepatică severă se recomandă administrarea dozei inițiale de 5 mg și în funcție de toleranță, se poate ajusta la 10 mg.
+Dacă există suspiciunea de gangrenă Fournier se va întrerupe administrarea de Dapagliflozinum și se instituie tratamentul specific acesteia.
+
+VII. Întreruperea tratamentului:
+Decizia de întrerupere temporară sau definitivă a tratamentului cu dapagliflozină va fi luată în funcție de indicații și contraindicații de către medicul specialist sau medicul cu competență/atestat în diabet, la fiecare caz în parte.
+
+VIII. Prescriptori:
+Inițierea se face de către medicii diabetologi, alți medici specialiști cu competența în diabet în baza protocolului terapeutic și ghidului în vigoare, iar continuarea se poate face și de către medicii desemnați conform prevederilor legale în vigoare sau medicii de familie, în dozele și pe durata recomandată în scrisoarea medicală.”
+
+Protocolul terapeutic corespunzător poziției nr. 82 cod (D11AH05) se abrogă.
+
+Protocolul terapeutic corespunzător poziției nr. 119 cod (L002C) se abrogă
+
+Protocolul terapeutic corespunzător poziției nr. 120 cod (L003C) se abrogă.
+
+Protocolul terapeutic corespunzător poziției nr. 122 cod (L005C) se abrogă.
+
+Protocolul terapeutic corespunzător poziției nr. 123 cod (L006C) se abrogă.
+
+La anexa nr. 1, protocolul terapeutic corespunzător poziției nr. 141 cod (L01XC11-17): DCI NIVOLUMAB + DCI IPILIMUMAB se modifică și se înlocuiește cu următorul protocol:
+
+”Protocol terapeutic corespunzător poziției nr. 141 cod (L01XC11-17): DCI NIVOLUMAB + DCI IPILIMUMAB
+
+Carcinomul renal avansat (face obiectul unui contrat cost-volum)
+
+I. Indicații:
+Combinatia nivolumab plus ipilimumab este indicata ca tratament de primă linie pentru  carcinomul renal non-urotelial, avansat, cu prognostic intermediar sau nefavorabil la pacienți adulți.
+Exclusiv în scopul identificării și raportării pacienților efectiv tratați pe această indicație si linie de tratament, se codifică la prescriere prin codul 141 (conform clasificării internaționale a maladiilor revizia a 10-a, varianta 999 coduri de boală).
+II. Criterii de includere
+Pacienți cu vârsta mai mare de 18 ani
+Diagnostic de carcinom cu celule renale clare, confirmat histologic, stadiul avansat (sunt eligibile si celelalte tipuri histologice de carcinom renal, cu excepția celor uroteliale)
+Pacienți cu prognostic intermediar/nefavorabil care prezintă cel puțin un criteriu  (sau mai multe), din cele 6 criterii stabilite de către Consorțiul Internațional pentru RCC Metastazat, în urma analizei bazei proprii de date (IMDC, International Metastatic RCC Database Consortium):
+mai puțin de un an de la diagnosticul inițial al carcinomului renal,
+status de performanță alterat – scor Karnofsky mai mic de 80%,
+nivelul hemoglobinei mai mic decât limita inferioară a valorilor normale,
+calcemia serică mai mare de 10 mg/dl,
+numărul trombocitelor mai mare decât limita superioară a valorilor normale,
+numărul absolut al neutrofilelor mai mare decât limita superioară a valorilor normale
+Este permisă prezența metastazelor cerebrale, cu condiția ca acestea să fie tratate si stabile, fără corticoterapie de întreținere mai mult de echivalentul a 10 mg prednison - ca doza de întreținere*).
+
+III. Criterii de excludere pentru terapia cu ipilimumab
+Hipersensibilitate la substanța activă sau la oricare dintre excipienți
+Pacientă însărcinată sau care alăptează
+Lipsa răspunsului la tratamentul anterior cu imunoterapie (antiPD1/antiPDL1 sau antiCTLA4 etc) – boala evolutiva dovedita cert, clinic sau imagistic, anterior episodului actual
+
+*) Observație:
+Pentru pacienții care prezintă următoarele condiții asociate / ale afecțiunii oncologice: determinări secundare cerebrale netratate sau instabile neurologic, boala inflamatorie pulmonară preexistentă, afecțiuni autoimune pre-existente, tratamente imunosupresoare anterioare, necesar de corticoterapie in doza mai mare de 10 mg de prednison pe zi sau echivalent, hepatita cronica cu virus B sau C tratata, controlata, cu viremie redusa semnificativ sau absenta după tratamentul specific, insuficiență hepatica severa, nu exista date din trialurile clinice de înregistrare, nefiind înrolați pacienți în aceste studii clinice.
+Asocierea nivolumab cu ipilimumab nu se recomandă a fi utilizată la pacienții care prezintă condițiile enumerate mai sus, mai ales la pacienții cu: boală interstițială pulmonară simptomatică, insuficiență hepatică severă, hepatită virală C sau B în antecedente sau pacienți care urmează tratament imunosupresiv pentru o afecțiune concomitentă, inclusiv corticoterapie, în doză zilnică mai mare decât echivalentul a 10 mg de prednison (reprezintă contraindicații relative pentru acest protocol terapeutic – fiecare caz în parte va fi analizat din punct de vedere al raportului riscuri versus beneficii).
+Prezenta unei afecțiuni autoimune cu evoluție lipsită de agresivitate (conform aprecierii subiective a medicului curant, specialist oncologie medicală), cum ar fi, de exemplu,  afecțiunile cutanate autoimune vitiligo, psoriazis care nu necesita tratament sistemic imunosupresor, nu reprezintă contraindicație pentru asocierea celor două medicamente.
+
+IV. Tratament
+Evaluare pre-terapeutică:
+Evaluare clinică și imagistică pentru certificarea stadiului avansat al afecțiunii oncologice - este obligatorie evaluarea imagistică înainte de inițierea tratamentului, evaluare care va fi utilizată ca investigație imagistică de referință pentru evaluarea obiectivă a răspunsului la tratament. Se recomandă ca evaluarea imagistică să fie efectuată cu cel mult 6 săptămâni anterior inițierii tratamentului. Sunt premise excepții justificate.
+Confirmarea histologică a diagnosticului
+Evaluare biologică: hemoleucograma, GOT, GPT, lipaza, amilaza, TSH, T3, T4, glicemie, creatinina, uree, ionograma serică și / sau alți parametri, în funcție de decizia medicului curant (acesta – medicul curant, va stabili ce investigații biologice sunt necesare la fiecare pacient în parte)
+
+Doze, monitorizarea tratamentului, întreruperea tratamentului:
+Acest regim asociat, nivolumab plus ipilimumab este administrat astfel:
+În prima etapă a protocolului terapeutic sunt administrate ambele medicamente (etapa de inducție - primele 4 secvențe, administrate la interval de 3 săptămâni):
+nivolumab 3 mg/kg, perfuzie intravenoasă, durata de 30 de minute;
+ipilimumab 1 mg/kg perfuzie intravenoasă, durata de 30 de minute
+În etapa a doua a regimului terapeutic va fi administrat doar nivolumab in monoterapie (etapa de întreținere), prima doză de nivolumab trebuie administrată:
+la interval de 3 săptămâni de la ultima doză a terapiei asociate (nivolumab plus ipilimumab), dacă va fi utilizată doza de 240 mg, administrată intravenos în 30 minute, la fiecare 2 săptămâni;
+SAU
+la interval de 6 săptămâni de la ultima doză a terapiei asociate (nivolumab plus ipilimumab), dacă va fi utilizată doza de 480 mg, administrată intravenos în 60 minute, la fiecare 4 săptămâni
+Pacienților trebuie să li se administreze regimul complet de inducție (4 doze) în funcție de tolerabilitate, indiferent dacă apar leziuni noi sau dacă leziunile existente progresează. Evaluarea răspunsului tumoral trebuie efectuată doar după finalizarea terapiei de inducție.
+Testele funcției hepatice și testele funcției tiroidiene trebuie evaluate la momentul inițial și înaintea fiecărei doze de combinație. În plus, orice semne sau simptome de reacții adverse mediate imun, inclusiv diaree și colită, trebuie evaluate în timpul tratamentului cu nivolumab plus ipilimumab.
+Nu se recomandă reducerea dozelor.
+In cazul unor efecte secundare mediate imun, doza necesara de metilprednisolon, administrat intravenos, este de 1-4 mg/kgc, in funcție de tipul efectului secundar si de intensitatea acestuia.
+Se va adaugă terapie specifica fiecărui tip de efect secundar: anti-diareice uzuale (loperamid, Smecta®), hidratare intravenoasa, substituție de săruri (per os sau intravenos – soluție Ringer)- pentru sindrom diareic, antibiotice – pentru pneumonita interstițială, hepato-protectoare – pentru reacția hepatitică, etc
+Se va adăuga terapie cu rol imunosupresiv diferită de corticoterapie în cazul în care se constată o agravare sau nu se observă o ameliorare în pofida utilizării corticosteroizilor.
+
+Efecte secundare. Managementul efectelor secundare mediate imun
+În urma administrării nivolumab în asociere cu ipilimumab cele mai frecvente efecte secundare au fost fatigabilitatea (48%), erupțiile cutanate tranzitorii (34%), pruritul (28%), diareea (27%), greața (20%), hipotiroidismul (16%), durerea musculară (15%), artralgia (14%), scăderea apetitului alimentar (14%), febra (14%), vărsăturile (11%), hipertiroidismul (11%). Majoritatea reacțiilor adverse au fost ușoare până la moderate (grad 1 sau 2).
+V. Monitorizarea tratamentului:
+Examen imagistic – examen CT sau RMN, scintigrafie osoasa, PET-CT, in funcție de decizia medicului curant. Prima evaluare a răspunsului la nivolumab plus ipilimumab se va efectua după finalizarea celor 4 cicluri de tratament de inducție. Ulterior, monitorizarea imagistica va fi efectuata la un interval apreciat ca fiind optim și posibil de realizat de către medicul curant.
+Pentru a confirma etiologia reacțiilor adverse mediate imun sau pentru a exclude alte cauze, trebuie efectuată o evaluare adecvată, comprehensivă și se recomandă consulturi interdisciplinare, în funcție de tipul toxicității.
+Pacienții trebuie monitorizați continuu (timp de cel puțin 5 luni după administrarea ultimei doze), deoarece o reacție adversă la imunoterapie poate apărea în orice moment, în timpul sau după oprirea terapiei.
+
+VI. Criterii de întrerupere a tratamentului
+Evoluția bolii pe parcursul celor 4 cicluri de tratament combinat nu trebuie sa conducă la întreruperea tratamentului cu ipilimumab, cu excepția cazurilor care evoluează cu deteriorare simptomatica (apariția simptomelor care nu pot fi explicate prin efecte secundare la tratament si care sunt, foarte probabil, cauzate de afecțiunea oncologică)
+Tratamentul cu nivolumab trebuie oprit definitiv în cazul reapariției oricărei reacții adverse severe mediată imun, cât și în cazul unei reacții adverse mediată imun ce pune viața în pericol - in funcție de decizia medicului curant, după informarea pacientului.
+Decizia medicului sau a pacientului
+
+VIII. Prescriptori
+Inițierea se face de către medicul specialist oncologie medicală. Continuarea tratamentului se face, de asemenea, de către medicul specialist oncologie medicală.
+
+Cancerul bronho-pulmonar altul decât cel cu celule mici (NSCLC) (face obiectul unui contract cost-volum)
+
+I. Indicatie
+Nivolumab în asociere cu Ipilimumab și 2 cicluri de chimioterapie pe bază de săruri de platină este indicat pentru tratamentul de primă linie al cancerului bronho-pulmonar altul decât cel cu celule mici metastazat, la adulții ale căror tumori nu prezintă mutație sensibilizantă EGFR sau translocație ALK.
+
+Exclusiv în scopul identificării și raportării pacienților efectiv tratați pe această indicație si linie de tratament, se codifică la prescriere prin codul 110 (conform clasificării internaționale a maladiilor revizia a 10-a, varianta 999 coduri de boală).
+
+II.	Criterii de includere:
+Pacienți cu vârsta mai mare de 18 ani
+Diagnostic de cancer bronho-pulmonar altul decât cel cu celule mici, stadiul IV sau boală recurentă, confirmat histologic (scuamos sau non-scuamos)
+Indice al statusului de performanță ECOG 0-1
+Pacienți netratați anterior cu terapie antineoplazică, ca tratament primar pentru boala avansată sau metastatica
+
+III.	Criterii de excludere:
+Hipersensibilitate la substanțele active (NIVOLUMAB, Ipilimumab, dublet de chimioterapie) sau la oricare dintre excipienți
+Pacienta însărcinată sau care alăptează
+Pacienți ale căror tumori prezintă mutație sensibilizantă EGFR sau translocație ALK
+Pacienți cu metastaze cerebrale active (netratate), cu meningită carcinomatoasă, boală autoimună activă sau cei cu afecțiuni medicale ce necesită imunosupresie sistemică
+
+IV.	Tratament și mod de administrare
+Doze recomandate:
+Nivolumab - 360 mg administrat intravenos, pe durata a 30 minute la fiecare 3 săptămâni
+Ipilimumab - 1 mg/kg administrat intravenos, pe durata a 30 minute la fiecare 6 săptămâni Chimioterapie pe bază de săruri de platina administrată la fiecare 3 săptămâni (x2 cicluri)
+După finalizarea a 2 cicluri de chimioterapie, tratamentul se continuă cu 360 mg Nivolumab administrat intravenos la fiecare 3 săptămâni în asociere cu 1 mg/kg Ipilimumab la fiecare 6 săptămâni
+In cazul aparitiei unor efecte secundare semnificative, atribuite ipilimumab-ului, acesta poate fi oprit, iar nivolumab continuat in monoterapie (tot 360 mg la 3 saptamani).
+
+Durata tratamentului:
+Tratamentul este recomandat până la progresia bolii, toxicitate inacceptabilă sau până la 24 luni la pacienții fără progresia bolii.
+Tratamentul poate fi continuat și după progresia bolii dacă pacientul este stabil din punct de vedere clinic și medicul oncolog consideră că pacientul obține un beneficiu clinic ca urmare a tratamentului
+Mod de administrare:
+Nivolumab:
+se poate utiliza Nivolumab 120 mg x 3 flacoane sau Nivolumab 100 mg si 40 mg, in functie de achizitii si stocurile existente
+este administrat în perfuzie intravenoasă cu durata a 30 minute (nu trebuie administrat intravenos rapid sau în bolus)
+perfuzia trebuie administrată printr-un filtru încorporat steril, apirogen, cu legare redusă de proteine și dimensiune a porilor de 0,2-1,2 μm
+doza totală de Nivolumab necesară poate fi perfuzată direct sub forma soluției de 10 mg/ml sau poate fi diluată prin utilizarea soluției de clorură de sodiu 9 mg/ml (0,9%) sau a soluției de glucoză 50 mg/ml (5%)
+Nivolumab trebuie administrat primul, urmat de administrarea Ipilimumab și apoi de chimioterapie (toate în aceeași zi); pentru fiecare perfuzie se vor utiliza pungi și filtre pentru perfuzie diferite
+Ipilimumab
+poate fi folosit pentru administrare intravenoasă, fără diluare sau poate fi diluat cu soluție de clorură de sodiu 9 mg/ml (0,9%) sau cu soluție de glucoză 50 mg/ml (5%), până la concentrații între 1 și 4 mg/ml.
+
+Chimioterapia pe bază de săruri de platina – regimuri utilizate:
+carboplatină (AUC 5 sau 6) și pemetrexed 500 mg/m2 urmata sau nu de terapie de întreținere cu pemetrexed (indiferent de histologie)
+cisplatin 75 mg/m2 și pemetrexed 500 mg/m2 urmata sau nu de terapie de întreținere cu pemetrexed (pentru NSCLC non-scuamos);
+carboplatină (ASC 6) și paclitaxel 200 mg/m2 (pentru NSCLC scuamos).
+
+Modificarea dozei. Principii de tratament al efectelor secundare
+Nu se recomandă creșterea sau scăderea dozelor pentru Nivolumab în asociere cu alți agenți terapeutici.
+Poate fi necesară amânarea sau oprirea administrării tratamentului în funcție de profilul individual de siguranță și tolerabilitate.
+Atunci când Nivolumab este administrat în asociere cu Ipilimumab, dacă se întrerupe temporar administrarea oricăruia dintre aceste medicamente, se va întrerupe temporar și administrarea celuilalt medicament. Dacă se reia utilizarea după o amânare a administrării dozei, se poate relua administrarea fie a tratamentului asociat, fie doar a Nivolumab în monoterapie, in functie de evaluarea medicului curant asupra cauzei efectului secundar.
+În funcție de severitatea reacției adverse, tratamentul cu Nivolumab în asociere cu Ipilimumab trebuie întrerupt temporar și administrați corticosteroizi
+Tratamentul cu Nivolumab în asociere cu Ipilimumab nu trebuie reluat în timpul imunosupresiei cu corticosteroizi sau cu alte medicamente imunosupresoare. La pacienții la care se administrează terapie imunosupresoare, se va utiliza profilaxia cu antibiotice pentru a preveni infecțiile oportuniste.
+
+V. MONITORIZAREA TRATAMENTULUI
+În tratamentul de primă linie al NSCLC, evaluările imagistice se recomandă a fi efectuate la fiecare 6 săptămâni de la prima doză de tratament si apoi în primele 12 luni, apoi la fiecare 12 săptămâni până la progresia bolii sau până la oprirea tratamentului (intervalele la care va fi efectuata evaluarea imagistica vor fi stabilite de catre medicul curant, in functie de particularitatile pacientului respectiv).
+Pacienții trebuie monitorizați continuu (timp de cel puțin 5 luni după administrarea ultimei doze) deoarece o reacție adversă la tratamentul cu Nivolumab în asociere cu Ipilimumab poate apărea în orice moment în timpul sau după oprirea terapiei.
+VI. CRITERII DE ÎNTRERUPERE A TRATAMENTULUI
+Progresia obiectivă a bolii în absența beneficiului clinic
+reacții adverse cardiace și pulmonare care pun viața în pericol sau al reacțiilor severe recurente
+Tratamentul cu Nivolumab în asociere cu Ipilimumab trebuie oprit definitiv:
+in cazul recurenței oricărei reacții adverse mediată imun severe, cât și în cazul oricărei reacții adverse mediată imun care pune viața în pericol:
+Diaree sau colită de grad 4
+Cresteri de grad 3 sau 4 ale valorilor transaminazelor sau bilirubinei totale
+Cresteri de grad 4 ale concentrațiilor serice ale creatininei
+Cazuri de hipertiroidism sau hipotiroidism, care pun viața în pericol
+in cazul în care se observă o agravare sau nu se obține nicio ameliorare în pofida inițierii corticoterapiei
+Recomandările privind oprirea definitivă sau întreruperea temporară a dozelor, cât și recomandările detaliate privind conduita terapeutică în cazul reacțiilor adverse mediate imun, sunt prezentate și în RCP-urile administrați agenților terapeutici
+
+VII. Prescriptori: medicii cu specialitatea oncologie medicală.”
+La anexa nr. 1, protocolul terapeutic corespunzător poziției nr. 148 cod (L01XC18): DCI PEMBROLIZUMABUM se modifică și se înlocuiește cu următorul protocol:
+
+”Protocol terapeutic corespunzător poziției nr. 148 cod (L01XC18): DCI PEMBROLIZUMABUM
+
+1. CANCERUL PULMONAR
+
+I. Indicații
+In monoterapie pentru tratamentul de primă linie al carcinomului pulmonar, altul decât cel cu celule mici (NSCLC, non-small cell lung carcinoma), metastatic, la adulți ale căror tumori exprimă PD-L1 cu un scor tumoral proporțional (STP) ≥ 50%, fără mutații tumorale EGFR sau ALK pozitive (nu este necesară testarea EGFR si ALK la pacienți diagnosticați cu carcinom epidermoid, cu excepția pacienților nefumători sau care nu mai fumează de foarte mult timp).
+In asociere cu pemetrexed si chimioterapie pe baza de săruri de platina, pentru tratamentul de primă linie al carcinomului pulmonar, altul decât cel cu celule mici (NSCLC), non-epidermoid, metastatic, fără mutații tumorale EGFR sau ALK pozitive.
+In asociere cu carboplatină și paclitaxel sau nab-paclitaxel, pentru tratamentul de primă linie al NSCLC metastatic scuamos, la adulți.
+
+Aceste indicații se codifică la prescriere prin codul 111 (conform clasificării internaționale a maladiilor revizia a 10-a, varianta 999 coduri de boală.
+
+II. Criterii de includere:
+in monoterapie: carcinom pulmonar, altul decât cel cu celule mici (NSCLC, non-small cell lung carcinoma), confirmat histopatologic, metastatic si PD-L1 pozitiv cu un scor tumoral proporțional (STP) ≥ 50% confirmat , efectuat printr-o testare validată
+In asociere cu Pemetrexed si chimioterapie pe baza de săruri de platina (Cisplatin sau Carboplatin), pentru carcinom pulmonar, altul decât cel cu celule mici (NSCLC, non- small cell lung carcinoma), non epidermoid metastatic, in absenta mutațiilor EGFR sau ALK si independent de scorul PD-L1 .
+Pacienții aflați in prima linie de tratament pentru un carcinom pulmonar, altul decât cel cu celule mici, (NSCLC, non-small cell lung carcinoma) non epidermoid, metastatic, cu expresia PDL 1 ≥ 50%, sunt eligibili, in egala măsura, atât pentru Pembrolizumab in monoterapie, cât și pentru Pembrolizumab in asociere cu chimioterapia (lipsesc date de comparație directa intre cele doua strategii; datele individuale prezentate nu arata diferențe semnificative intre cele doua protocoale, din punct de vedere al eficacității).
+Alegerea tratamentului la acești pacienți trebuie sa fie ghidata de profilul de siguranță, favorabil pentru monoterapie comparativ cu asocierea cu chimioterapia
+In asociere cu carboplatină și paclitaxel sau nab-paclitaxel, pentru tratamentul de primă linie al carcinomului pulmonar, altul decât cel cu celule mici (NSCLC, non- small cell lung carcinoma), tip epidermoid, metastatic, independent de scorul PD-L1
+Vârsta peste 18 ani
+Indice al statusului de performanță ECOG 0-2
+Pacienți la care a fost administrat anterior Pembrolizumab (din alte surse financiare), cu răspuns favorabil la acest tratament (care nu au prezentat boala progresiva in urma tratamentului cu pembrolizumab)
+
+III. Criterii de excludere
+Hipersensibilitate la substanță activă sau la oricare dintre excipienții
+sarcina si alăptare
+mutații prezente ale EGFR sau rearanjamente ALK (nu este necesară testarea EGFR si ALK la pacienți diagnosticați cu carcinom epidermoid, cu excepția pacienților nefumători sau care nu mai fumează de foarte mult timp).
+In cazul următoarelor situații: metastaze active la nivelul SNC, status de performanță ECOG > 2, infecție HIV, hepatită B sau hepatită C, boli autoimune sistemice active, boală pulmonară interstițială, antecedente de pneumonită care a necesitat tratament sistemic cu corticosteroizi, antecedente de hipersensibilitate severă la alți anticorpi monoclonali, pacienții cărora li se administrează tratament imunosupresiv, pacienții cu infecții active, după o evaluare atentă a riscului potențial crescut, tratamentul cu pembrolizumab poate fi utilizat la acești pacienți, daca medicul curant considera ca beneficiile depășesc riscurile potențiale iar pacientul a fost informat in detaliu.
+
+IV. Tratament
+
+Evaluare pre-terapeutică:
+Evaluare clinică și imagistică pentru certificarea stadiului IV
+Confirmarea histologica a diagnosticului
+Evaluare biologica: in funcție de decizia medicului curant
+
+Doza:
+Doza recomandată de pembrolizumab la adulți este fie de 200 mg la interval de 3 săptămâni, fie de 400 mg la interval de 6 săptămâni, administrată sub forma unei perfuzii intravenoase cu durata de 30 minute, atat in monoterapie, cat si in asociere cu alte medicamente pentru tratamentul de prima linie al carcinomului pulmonar.
+Protocoalele de chimioterapie asociate (pemetrexed + sare de platina sau paclitaxel / nab-paclitaxel + carboplatin) sunt cele standard (ca doze si ritm de administrare)
+
+Pacienților trebuie să li se administreze Pembrolizumab până la progresia bolii sau până la apariția toxicității inacceptabile. S-au observat răspunsuri atipice (de exemplu creșterea inițială tranzitorie a dimensiunilor tumorale sau chiar apariția unor noi leziuni de dimensiuni mici în primele luni urmate de reducerea tumorală). La pacienții stabili clinic, cu date imagistice ce ar putea sugera progresia bolii, se recomandă continuarea tratamentului până la confirmarea, ulterioara, a progresiei bolii. In aceste situații, repetarea examenelor imagistice va fi efectuata cat mai devreme posibil (intre 1-3 luni), pentru confirmarea / infirmarea progresiei bolii.
+
+Modificarea dozei:
+Nu se recomandă creșterea sau reducerea dozei. Poate fi necesară amânarea sau oprirea administrării tratamentului în funcție de profilul individual de siguranță și tolerabilitate.
+În funcție de gradul de severitate al reacției adverse, administrarea pembrolizumab poate fi amânată și administrați (sistemic) corticosteroizi.
+Administrarea pembrolizumab poate fi reluată în decurs de 12 săptămâni după ultima doză de pembrolizumab, dacă intensitatea reacției adverse este redusă la grad ≤ 1, iar doza zilnică de corticosteroid a fost redusă la ≤ 10 mg prednison sau echivalent.
+Administrarea pembrolizumab trebuie întreruptă definitiv în cazul recurenței oricărei reacții adverse mediată imun de grad 3 sau în cazul apariției oricărei reacții adverse mediată imun de grad 4.
+Grupe speciale de pacienți:
+Insuficiență renală
+Nu au fost evidențiate diferențe semnificative clinic referitor la clearance-ul pembrolizumab între pacienții cu insuficiență renală ușoară sau moderată și cei cu funcție renală normală. Pembrolizumab nu a fost studiat la pacienții cu insuficiență renală severă.
+Insuficiență hepatica
+Nu au fost evidențiate diferențe semnificative clinic în ceea ce privește eliminarea pembrolizumab între pacienții cu insuficiență hepatică ușoară și cei cu cu funcție hepatică normală. Pembrolizumab nu a fost studiat la pacienții cu insuficiență hepatică moderată sau severă.
+
+V.  Monitorizarea tratamentului
+Examen imagistic – examen CT efectuat regulat pentru monitorizarea răspunsului la tratament (recomandat la interval de 8-12 săptămâni) si / sau alte investigații paraclinice în funcție de decizia  medicului  (RMN, scintigrafie osoasa, PET-CT).
+Pentru a confirma etiologia reacțiile adverse mediate imun suspectate sau a exclude alte cauze, trebuie efectuată o evaluare adecvată, inclusiv consult interdisciplinar.
+Evaluare biologica: in funcție de decizia medicului curant
+
+VI. Efecte secundare. Managementul efectelor secundare mediate imun
+
+Considerații generale
+Pembrolizumab este asociat cel mai frecvent cu reacții adverse mediate imun. Cele mai multe dintre acestea, inclusiv reacțiile adverse severe, s-au remis după inițierea tratamentului medical adecvat sau întreruperea administrării pembrolizumab.  Majoritatea reacțiilor adverse raportate au fost de grad 1 sau 2 ca severitate.
+Majoritatea reacțiilor adverse mediate imun survenite în timpul tratamentului cu pembrolizumab au fost reversibile și gestionate prin întreruperea tratamentului cu pembrolizumab, administrarea de corticosteroizi și/sau tratament de susținere. Reacțiile adverse mediate imun au apărut și după ultima doză de pembrolizumab. Reacțiile adverse mediate imun care afectează mai mult de un aparat sau sistem pot să apară simultan.
+În cazul în care se suspectează apariția de reacții adverse mediate imun, trebuie asigurată evaluarea adecvată în vederea confirmării etiologiei sau excluderii altor cauze. În funcție de gradul de severitate a reacției adverse, administrarea de pembrolizumab trebuie întreruptă și trebuie administrați corticosteroizi. După ameliorarea până la gradul ≤ 1, trebuie inițiată întreruperea treptată a corticoterapiei și continuată timp de cel puțin o lună. Pe baza datelor limitate din studiile clinice efectuate la pacienți ale căror reacții  adverse mediate imun nu au putut fi controlate cu corticosteroizi, poate fi luată în considerare administrarea altor imunosupresoare.
+Administrarea pembrolizumab poate fi reluată în decurs de 12 săptămâni după ultima doză administrată, dacă reacția adversă revine la gradul ≤ 1 iar doza zilnică de corticosteroid a fost redusă la ≤ 10 mg prednison sau echivalent.
+Administrarea pembrolizumab trebuie întreruptă definitiv în cazul recurenței oricărei reacții adverse mediată imun de grad 3 și în cazul oricărei reacții adverse mediată imun cu toxicitate de grad 4, cu excepția endocrinopatiilor controlate prin tratament de substituție hormonală.
+
+Pneumonită mediată imun
+Pacienții trebuie monitorizați pentru depistarea semnelor și simptomelor de pneumonită. Pneumonita suspectată trebuie confirmată prin evaluare radiologică și trebuie exclusă prezența altor cauze. Trebuie administrați corticosteroizi pentru evenimente de gradul ≥ 2 (doză inițială de 1-2 mg/kg/zi metilprednisolon sau echivalent, urmat de scăderea treptată a acesteia); administrarea pembrolizumab trebuie amânată în cazul pneumonitei de gradul 2 și întreruptă definitiv în cazul pneumonitei de gradul 3, gradul 4 sau pneumonitei de gradul 2 recurente.
+Colită mediată imun
+Pacienții trebuie monitorizați pentru depistarea semnelor și simptomelor de colită și trebuie excluse alte cauze. Trebuie administrați corticosteroizi pentru evenimente de grad ≥ 2 (doză inițială de 1-2 mg/kg/zi  metilprednisolon sau echivalent,  urmat de scăderea  treptată  a acesteia); administrarea pembrolizumab trebuie amânată în cazul apariției colitei de grad 2 sau 3 și întreruptă definitiv în cazul colitei de grad 4. Trebuie luat în considerație riscul potențial de perforație gastro-intestinală.
+Hepatită mediată imun
+Pacienții trebuie monitorizați pentru depistarea modificărilor funcției hepatice (la momentul inițierii tratamentului, periodic pe durata acestuia și în funcție de starea clinică) și a simptomelor de hepatită și trebuie excluse alte cauze. Trebuie administrați corticosteroizi: doză inițială de 0,5-1 mg/kg/zi (pentru evenimente de gradul 2) și 1-2 mg/kg/ zi (pentru evenimente de grad ≥ 3) metilprednisolon sau echivalent, urmată de scăderea treptată a dozelor, iar în funcție de severitatea creșterii valorilor enzimelor hepatice, se amână sau se întrerupe definitiv administrarea pembrolizumab.
+Nefrită mediată imun
+Pacienții trebuie monitorizați pentru depistarea modificărilor funcției renale și trebuie excluse alte cauze de disfuncție renală. Trebuie administrați corticosteroizi pentru evenimente de grad ≥ 2 (doză inițială de 1-2 mg/kg/zi metilprednisolon sau echivalent, urmat de scăderea treptată a acesteia) iar în funcție de gradul de severitate al valorilor creatininei, administrarea pembrolizumab trebuie amânată în cazul nefritei de gradul 2 și întreruptă definitiv în cazul nefritei de gradul 3 sau 4.
+Endocrinopatii mediate imun
+La administrarea tratamentului cu pembrolizumab s-au observat cazuri de endocrinopatii severe, inclusiv hipofizită, diabet zaharat tip 1 inclusiv cetoacidoză diabetică, hipotiroidism și hipertiroidism. În cazul endocrinopatiilor mediate imun poate fi necesar tratament de substituție hormonală pe termen lung. Pacienții trebuie monitorizați pentru depistarea semnelor și simptomelor de hipofizită (inclusiv hipopituitarism și insuficiență secundară a glandelor suprarenale) și trebuie excluse alte cauze. Pentru tratamentul insuficienței corticosuprarenaliene secundare trebuie administrați corticosteroizi iar în funcție de starea clinică, un alt tip de tratament de substituție hormonală. In cazul hipofizitei simptomatice trebuie amânată administrarea pembrolizumab până când evenimentul este controlat cu tratament de substituție hormonală. Dacă este necesar, continuarea administrării de pembrolizumab poate fi luată în considerare, după întreruperea treptată a corticoterapiei. Valorile hormonilor hipofizari trebuie monitorizate pentru a asigura un tratament hormonal de substituție corespunzător. Pacienții trebuie monitorizați pentru depistarea hiperglicemiei sau a altor semne și simptome de diabet zaharat. Pentru tratamentul diabetului zaharat de tip 1, trebuie administrată insulină și trebuie amânată administrarea pembrolizumab în cazurile de hiperglicemie grad 3, până la obținerea controlului metabolic. Pacienții trebuie monitorizați pentru depistarea modificărilor funcției tiroidiene (la momentul inițierii tratamentului, periodic pe durata acestuia și în funcție de starea clinică) și a semnelor clinice și a simptomelor de tulburări tiroidiene. Hipotiroidismul poate fi gestionat prin tratament de substituție, fără întreruperea tratamentului cu pembrolizumab și fără utilizarea corticosteroizilor. Hipertiroidismul poate fi gestionat prin administrarea de tratament simptomatic. În cazurile de hipertiroidism de grad ≥ 3, administrarea pembrolizumab trebuie amânată până la revenirea de grad ≤ 1. Dacă este necesar, la pacienții cu hipertiroidism de gradul 3 sau 4 care se remite până la gradul 2 sau mai mic, continuarea administrării pembrolizumab poate fi luată în considerare după întreruperea treptată a corticoterapiei. Valorile hormonilor tiroidieni trebuie monitorizate pentru a asigura un tratament de substituție hormonală corespunzător.
+Alte reacții adverse mediate imun
+Următoarele reacții adverse mediate imun, semnificative din punct de vedere clinic (inclusiv cazurile severe și letale), au fost raportate în studiile clinice sau în timpul experienței după punerea pe piață: uveită, artrită, miozită, miocardită, pancreatită, sindrom Guillain-Barré, sindrom miastenic, anemie hemolitică și crize convulsive parțiale apărute la pacienții cu focare inflamatorii în parenchimul cerebral. În funcție de gradul de severitate al reacției adverse, administrarea pembrolizumab trebuie amânată și trebuie administrați corticosteroizi.
+Reacții asociate administrării intravenoase
+În cazul reacțiilor adverse severe asociate perfuziei intravenoase (iv), trebuie întreruptă administrarea acesteia și trebuie întrerupt definitiv tratamentul cu pembrolizumab. Pacienții cu reacții adverse ușoare sau moderate asociate administrării perfuziei iv pot continua tratamentul cu pembrolizumab în condițiile monitorizării stricte; poate fi luată în considerare administrarea de antipiretice și antihistaminice, ca premedicație. Administrarea pembrolizumab trebuie întreruptă definitiv în cazul recurenței oricărei reacții adverse mediată imun de grad 3 și în cazul oricărei reacții adverse mediată imun de grad 4.
+
+VII. Criterii de întrerupere a tratamentului:
+Progresia obiectivă a bolii (examene imagistice și clinice) in absenta beneficiului clinic. Cazurile cu progresie imagistica, fără deteriorare simptomatica, trebuie evaluate cu atenție, având in vedere posibilitatea de apariție a falsei progresii de boala, prin instalarea unui răspuns imunitar anti-tumoral puternic. In astfel de cazuri, nu se recomanda întreruperea tratamentului. Se va repeta evaluarea imagistica, după 4 - 12 săptămâni si numai daca exista o noua creștere obiectiva a volumul tumoral sau deteriorare simptomatica, se va avea in vedere întreruperea tratamentului.
+Tratamentul cu Pembrolizumab trebuie oprit definitiv în cazul reapariției oricărei reacții adverse mediată imun severă (grad 3) cât și în cazul primei apariții a unei reacții adverse mediată imun ce pune viața în pericol (grad 4) – pot exista excepții de la aceasta regula, in funcție de decizia medicului curant, după informarea  pacientului.
+Decizia medicului sau a pacientului
+
+VIII. Prescriptori
+Medicii din specialitatea oncologie medicală.
+
+2. MELANOM MALIGN
+
+I. Indicații:
+Pembrolizumab este indicat pentru tratamentul melanomului malign, la pacienți adulți, în două situații si la adolescenti cu varsta de 12 ani si peste intr-o situatie:
+
+Indicația 1- monoterapie pentru tratamentul adultilor si adolescentilor cu varsta de 12 ani si peste, cu melanom avansat ( nerezecabil si metastatic)
+Indicația 2 - monoterapie pentru tratamentul adjuvant al pacienților adulți cu melanom stadiul III și extindere la nivelul ganglionilor limfatici, la care s-a efectuat rezecție completă.
+
+Aceste indicații se codifică la prescriere prin codul 117 (conform clasificării internaționale a maladiilor revizia a 10-a, varianta 999 coduri de boală).
+II. Criterii de includere:
+
+Pentru indicația 1:
+Pacienți cu vârsta mai mare de 12 ani
+Melanom avansat local si/sau regional, inoperabil, sau metastazat, confirmat histologic
+Evaluarea extensiei bolii locale, regionale si la distanta (imagistica standard) pentru a certifica încadrarea in stadiile avansate de boala
+Status de performanta ECOG 0-2* (*vezi observația de mai jos)
+Este permisa prezenta metastazelor cerebrale, cu condiția ca acestea sa fie tratate si stabile, fără corticoterapie de întreținere mai mult de echivalentul a 10 mg prednison (ca doza de întreținere)* (*vezi observația de mai jos)
+Pacienți la care a fost administrat anterior Pembrolizumab (din alte surse financiare), cu răspuns favorabil la acest tratament (care nu au prezentat boala progresiva in urma tratamentului cu pembrolizumab)
+Pentru indicația 2 – (pacienți cu indicație de tratament cu intenție adjuvantă):
+Vârsta mai mare de 18 ani
+Melanom malign stadiul III, confirmat histologic, operat cu intenție de radicalitate (inclusiv îndepărtarea chirurgicală a adenopatiilor regionale)
+Absența semnelor de boală (clinic și imagistic), după intervenția chirurgicală, înainte de începerea tratamentului cu pembrolizumab
+Status de performanță ECOG 0-2
+
+III. Criterii de excludere
+Hipersensibilitate la substanța activă sau la oricare dintre excipienți
+Sarcina si alăptare
+Lipsa răspunsului la tratament anterior cu imunoterapie (antiPD1/antiPDL1).
+In cazul următoarelor situații: metastaze active la nivelul SNC, status de performanță ECOG > 2, infecție HIV, hepatită B sau hepatită C, boli autoimune sistemice active, boală pulmonară interstițială, antecedente de pneumonită care a necesitat tratament sistemic cu corticosteroizi, antecedente de hipersensibilitate severă la alți anticorpi monoclonali, pacienții cărora li se administrează tratament imunosupresiv, pacienții cu infecții active, după o evaluare atentă a riscului potențial crescut, tratamentul cu pembrolizumab poate fi utilizat la acești pacienți, daca medicul curant considera ca beneficiile depășesc riscurile potențiale iar pacientul a fost informat in detaliu.
+
+IV. Tratament
+Evaluare pre-terapeutică (valabilă pentru ambele indicații):
+Confirmarea histologică a diagnosticului
+Evaluare clinică și imagistică (evaluare completa pentru certificarea stadiului afecțiunii si încadrarea intr-una dintre indicații)
+Evaluare biologica – care va conține analizele recomandate de către medicul curant (in funcție de starea pacientului si de posibilele co-morbidități existente)
+Doza si mod de administrare:
+Doza recomandata pentru pacientii adulti este de 200 mg, administrata sub forma unei perfuzii intravenoase cu durata de 30 minute, la interval de 3 săptămâni SAU in doza de 400 mg sub forma unei perfuzii intravenoase cu durata de 30 minute, la interval de 6 săptămâni.
+Doza recomandata in monoterapie la pacientii adolescenti cu varsta de 12 ani si peste cu melanom, este de 2mg/kg greutate corporala (GC) ( pana la maxim de 200 mg) la interval de 3 saptamani, administrata sub forma unei perfuzii intravenoase cu durata de 30 minute.
+Pentru indicația 1, pacienților trebuie să li se administreze Pembrolizumab până la progresia bolii sau până la apariția toxicității inacceptabile.
+S-au observat răspunsuri atipice (de exemplu creșterea inițială tranzitorie a dimensiunilor tumorale sau apariția unor noi leziuni de dimensiuni mici, în primele luni de tratament, urmate de reducerea volumului tumoral – „falsă progresie”). La pacienții stabili clinic, cu semne de posibilă progresie a bolii, se recomandă continuarea tratamentului până la confirmarea/infirmarea acesteia (prin repetarea evaluării imagistice, la un interval cât mai scurt – 4-12 săptămâni, in funcție de posibilitățile tehnice locale si de evoluția clinică a pacientului).
+Pentru indicația 2 (tratament adjuvant), pembrolizumab trebuie administrat până la recurența bolii sau până la apariția toxicității inacceptabile sau pentru o durată de până la un an.
+Trebuie evitată utilizarea de corticoizi sistemici sau imunosupresoare înaintea inițierii tratamentului cu pembrolizumab din cauza potențialului acestora de a interfera cu activitatea farmacodinamică și eficacitatea pembrolizumab. După inițierea administrării pembrolizumab, pot fi utilizați corticoizi sistemici (sau alte imunosupresoare) pentru tratamentul reacțiilor adverse mediate imun.
+
+Modificarea dozei:
+Nu se recomandă creșterea sau reducerea dozei. Poate fi necesară amânarea sau oprirea administrării tratamentului în funcție de profilul individual de siguranță și tolerabilitate.
+În funcție de gradul de severitate al reacției adverse, administrarea pembrolizumab poate fi amânată și administrați (sistemic) corticosteroizi.
+Administrarea pembrolizumab poate fi reluată în decurs de 12 săptămâni după ultima doză de pembrolizumab, dacă intensitatea reacției adverse este redusă la grad ≤ 1, iar doza zilnică de corticosteroid a fost redusă la ≤ 10 mg prednison sau echivalent.
+Administrarea pembrolizumab trebuie întreruptă definitiv în cazul recurenței oricărei reacții adverse mediată imun de grad 3 sau în cazul apariției oricărei reacții adverse mediată imun de grad 4.
+
+Grupe speciale de pacienți:
+Insuficiență renală
+Nu au fost evidențiate diferențe semnificative clinic, referitor la clearance-ul pembrolizumab, între pacienții cu insuficiență renală ușoară sau moderată și cei cu funcție renală normală. Pembrolizumab nu a fost studiat la pacienții cu insuficiență renală severă.
+Insuficiență hepatică
+Nu au fost evidențiate diferențe semnificative clinic, în ceea ce privește eliminarea pembrolizumab la pacienții cu insuficiență hepatică ușoară și, respectiv, la cei cu funcție hepatică normală. Pembrolizumab nu a fost studiat la pacienții cu insuficiență hepatică moderată sau severă.
+
+V. Monitorizarea tratamentului (recomandări valabile pentru ambele indicații):
+Examen imagistic – examen CT efectuat regulat pentru monitorizarea răspunsului la tratament (la interval de 8-16 săptămâni) si/sau alte investigații paraclinice în funcție de decizia medicului curant (RMN, scintigrafie osoasa, PET-CT).
+Consult interdisciplinar – ori de cate ori este indicat, pentru precizarea cauzei posibilelor reacții adverse (suspect a fi mediate imun) sau pentru a exclude alte cauze.
+Evaluare biologica: in funcție de decizia medicului curant
+
+VI. Criterii de întrerupere a tratamentului:
+Progresia obiectivă a bolii (examene imagistice și clinice) in absenta beneficiului clinic. Cazurile cu progresie imagistica, fără deteriorare simptomatica, trebuie evaluate cu atenție, având in vedere posibilitatea de apariție a falsei progresii de boala, prin instalarea unui răspuns imunitar anti-tumoral puternic. In astfel de cazuri, nu se recomanda întreruperea tratamentului. Se va repeta evaluarea imagistica, după 4 - 12 săptămâni si numai daca exista o noua creștere obiectiva a volumul tumoral sau deteriorare simptomatica, se va avea in vedere întreruperea tratamentului.
+Tratamentul cu Pembrolizumab trebuie oprit definitiv în cazul reapariției oricărei reacții adverse mediată imun severă (grad 3) cât și în cazul primei apariții a unei reacții adverse mediată imun ce pune viața în pericol (grad 4) – pot exista excepții de la aceasta regula, in funcție de decizia medicului curant, după informarea  pacientului.
+Tratamentul cu intenție de adjuvanță (indicația 2) se va opri după 12 luni, în absența progresiei bolii sau a toxicității inacceptabile (motive pentru care tratamentul va fi întrerupt înainte de finalizarea celor 12 luni de tratament).
+Decizia medicului sau a pacientului
+
+VII. Prescriptori
+Medicii din specialitatea oncologie medicală pentru adulti.
+Medici din specialitatea hematologie pediatrică sau medicii din specialitatea pediatrie cu atestat/specializare oncologie pediatrică/hematologie și oncologie pediatrică pentru pacientii adolescenti cu varsta de 12 ani si peste.
+
+3. CARCINOAME UROTELIALE
+
+I. Indicație
+Pembrolizumab este indicat în monoterapie pentru tratamentul carcinomului urotelial local avansat sau metastatic, la adulți cărora li s-a administrat anterior chimioterapie care conține săruri de platină.
+
+Această indicație se codifică la prescriere prin codul 140 (conform clasificării internaționale a maladiilor revizia a 10-a, varianta 999 coduri de boală). Observatie: se va utiliza acest cod inclusiv pentru localizarile la nivelul bazinetului renal sau ureterului (nu numai pentru cele de la nivelul vezicii urinare).
+
+II. Criterii de includere:
+Pacienți cu vârsta mai mare de 18 ani
+Carcinom urotelial avansat local si/sau regional, inoperabil sau metastazat, confirmat histologic si tratat anterior pentru aceasta indicație, cu un regim pe baza de săruri de platina
+Sunt eligibili pacienți care beneficiază / au beneficiat de chimioterapie adjuvantă / neoadjuvantă cu un regim pe baza de săruri de platina si care prezinta progresia bolii in timpul acestui tratament sau in primele 12 luni de la finalizarea acestuia.
+Evaluarea extensiei reale a bolii la nivel local, regional si la distanta (imagistica standard) pentru a certifica încadrarea in stadiile avansate de boala
+Status de performanta ECOG 0-2
+Este permisă prezenta metastazelor cerebrale, cu condiția ca acestea sa fie tratate si stabile, fără corticoterapie de întreținere mai mult de echivalentul a 10 mg prednison (ca doza de întreținere)
+Pacienți la care a fost administrat anterior Pembrolizumab (din alte surse financiare), cu răspuns favorabil la acest tratament (care nu au prezentat boala progresiva in urma tratamentului cu pembrolizumab)
+
+III. Criterii de excludere
+Hipersensibilitate la substanță activă sau la oricare dintre excipienți
+Sarcina si alăptare
+In cazul următoarelor situații: metastaze active la nivelul SNC, status de performanță ECOG > 2, infecție HIV, hepatită B sau hepatită C, boli autoimune sistemice active, boală pulmonară interstițială, antecedente de pneumonită care a necesitat tratament sistemic cu corticosteroizi, antecedente de hipersensibilitate severă la alți anticorpi monoclonali, pacienții cărora li se administrează tratament imunosupresiv, pacienții cu infecții active, după o evaluare atentă a riscului potențial crescut, tratamentul cu pembrolizumab poate fi utilizat la acești pacienți, daca medicul curant considera ca beneficiile depășesc riscurile potențiale iar pacientul a fost informat in detaliu.
+
+IV. Tratament
+Evaluare pre-terapeutică:
+Confirmarea histologică a diagnosticului
+Evaluare clinică și imagistică (evaluare completa pentru certificarea stadiului afecțiunii)
+Evaluare biologica – care va conține analizele recomandate de către medicul curant (in funcție de starea pacientului si de posibilele co-morbidități existente)
+
+Doza si mod de administrare:
+Doza recomandată de pembrolizumab la adulți este fie de 200 mg la interval de 3 săptămâni, fie de 400 mg la interval de 6 săptămâni, administrată sub forma unei perfuzii intravenoase cu durata de 30 minute.
+
+Durata tratamentului:
+Pacienților trebuie să li se administreze pembrolizumab până la progresia bolii sau până la apariția toxicității inacceptabile. S-au observat răspunsuri atipice (de exemplu creșterea inițială tranzitorie a dimensiunilor tumorale sau apariția unor noi leziuni de dimensiuni mici în primele luni urmate de reducerea tumorală). La pacienții stabili clinic cu dovezi inițiale de progresie a bolii se recomandă continuarea tratamentului până la confirmarea progresiei bolii. Trebuie evitată utilizarea de corticoizi sistemici sau imunosupresoare înaintea inițierii tratamentului cu pembrolizumab din cauza potențialului acestora de a interfera cu activitatea farmacodinamică și eficacitatea pembrolizumab. Cu toate acestea, după inițierea administrării pembrolizumab pot fi utilizați corticoizi sistemici sau alte imunosupresoare pentru tratamentul reacțiilor adverse mediate imun
+
+Modificarea dozei:
+Nu se recomandă creșterea sau reducerea dozei. Poate fi necesară amânarea sau oprirea administrării tratamentului în funcție de profilul individual de siguranță și tolerabilitate.
+În funcție de gradul de severitate al reacției adverse, administrarea pembrolizumab poate fi amânată și administrați (sistemic) corticosteroizi.
+Administrarea pembrolizumab poate fi reluată în decurs de 12 săptămâni după ultima doză de pembrolizumab, dacă intensitatea reacției adverse este redusă la grad ≤ 1, iar doza zilnică de corticosteroid a fost redusă la ≤ 10 mg prednison sau echivalent.
+Administrarea pembrolizumab trebuie întreruptă definitiv în cazul recurenței oricărei reacții adverse mediată imun de grad 3 sau în cazul apariției oricărei reacții adverse mediată imun de grad 4.
+
+Grupe speciale de pacienți:
+Insuficiența renală
+Nu au fost evidențiate diferențe semnificative clinic referitor la clearance-ul pembrolizumab între pacienții cu insuficiență renală ușoară/moderată și cei cu funcție renală normală. Pembrolizumab nu a fost studiat la pacienții cu insuficiență renală severă.
+Insuficiența hepatică
+Nu au fost diferențe semnificative clinic în ceea ce privește eliminarea pembrolizumab între pacienții cu insuficiență hepatică ușoară și cei cu funcție hepatică normală. Pembrolizumab nu a fost studiat la pacienții cu insuficiență hepatică moderată/severă.
+
+V. Monitorizarea tratamentului:
+Examen imagistic – examen CT efectuat regulat pentru monitorizarea răspunsului la tratament (la interval de 8-16 săptămâni) si/sau alte investigații paraclinice în funcție de decizia medicului curant (RMN, scintigrafie osoasa, PET-CT).
+Consult interdisciplinar – ori de cate ori este indicat, pentru precizarea cauzei posibilelor reacții adverse (suspect a fi mediate imun) sau pentru a exclude alte cauze.
+Evaluare biologica: in funcție de decizia medicului curant
+
+VI. Criterii de întrerupere a tratamentului:
+Progresia obiectivă a bolii (examene imagistice și clinice) in absenta beneficiului clinic. Cazurile cu progresie imagistica, fără deteriorare simptomatica, trebuie evaluate cu atenție, având in vedere posibilitatea de apariție a falsei progresii de boala, prin instalarea unui răspuns imunitar anti-tumoral puternic. In astfel de cazuri, nu se recomanda întreruperea tratamentului. Se va repeta evaluarea imagistica, după 4 - 12 săptămâni si numai daca exista o noua creștere obiectiva a volumul tumoral sau deteriorare simptomatica, se va avea in vedere întreruperea tratamentului.
+Tratamentul cu Pembrolizumab trebuie oprit definitiv în cazul reapariției oricărei reacții adverse mediată imun severă (grad 3) cât și în cazul primei apariții a unei reacții adverse mediată imun ce pune viața în pericol (grad 4) – pot exista excepții de la aceasta regula, in funcție de decizia medicului curant, după informarea  pacientului.
+Decizia medicului sau a pacientului
+
+VII. Prescriptori
+Medicii din specialitatea oncologie medicală.
+
+4. LIMFOMUL HODGKIN CLASIC (LHC)
+
+I. Indicații:
+Tratamentul pacienților adulți, adolescenți și copii cu vârsta de 3 ani și peste, cu limfom Hodgkin clasic recidivat sau refractar, care au prezentat eșec la transplantul autolog de celule stem (TACS) sau în urma a cel puțin două tratamente anterioare, atunci când TACS nu reprezintă o opțiune de tratament-monoterapie.
+
+Această indicație se codifică la prescriere prin codul 154 (conform clasificării internaționale a maladiilor revizia a 10-a, varianta 999 coduri de boală).
+
+II. Criterii de includere în tratament:
+vârsta peste 3 ani
+pacienți cu limfom Hodgkin clasic (LHc) recidivat sau refractar:
+la care transplantul autolog de celule stem (TACS) a eșuat
+sau
+care nu sunt eligibili pentru transplant în condițiile eșecului tratamentului  la puțin două linii de tratament anterioare
+ III. Criterii de excludere:
+Hipersensibilitate la substanța activă sau la oricare dintre excipienți.
+
+IV. Tratament:
+Tratamentul cu pembrolizumab trebuie inițiat și supravegheat de un medic cu experiență în utilizarea medicamentelor antineoplazice.
+
+Doza recomandată
+Pacienti adulti
+200 mg la interval de 3 săptămâni sau
+400 mg la interval de 6 săptămâni
+administrată sub forma unei perfuzii intravenoase cu durata de 30 minute.
+Copii și adolescenți cu vârsta de 3 ani și peste
+2 mg/kg greutate corporală (GC) (până la un maxim de 200 mg) la interval de 3 săptămâni, administrată sub forma unei perfuzii intravenoase cu durata de 30 minute
+  Manipularea medicamentului înainte de administrare, precum și administrarea se vor face conform instrucțiunilor din RCP (rezumatul caracteristicilor produsului).
+  NU trebuie administrat intravenos rapid sau în bolus.
+
+Durata tratamentului
+Pacienților trebuie să li se administreze pembrolizumab până la progresia bolii sau până la apariția toxicității inacceptabile.
+
+Modificarea dozei
+NU se recomandă escaladarea sau reducerea dozei.
+poate fi necesară întârzierea sau întreruperea administrării, în funcție de siguranța și tolerabilitatea  individuală; recomandări în Tabelul 1:
+
+Tabelul 1: Recomandări privind modificarea tratamentului cu pembrolizumab
+Notă: gradele de toxicitate sunt în conformitate cu Terminologia Criteriilor pentru Evenimente
+Adverse Versiunea 4.0, formulate de Institutul Național al Cancerului (NCI-CTCAE v.4).
+
+Dacă toxicitatea asociată tratamentului nu se remite până la gradele 0-1 în interval de 12 săptămâni după administrarea ultimei doze de pembrolizumab, sau dacă doza zilnică de corticosteroid nu poate fi redusă la ≤ 10 mg prednison sau echivalent în interval de 12 săptămâni, tratamentul cu pembrolizumab trebuie întrerupt definitiv.
+Siguranța reluării tratamentului cu pembrolizumab la pacienții care au prezentat miocardită mediată imun în antecedente nu este cunoscută.
+Cu excepția cazului în care se specifică altfel în tabelul 1, tratamentul cu pembrolizumab trebuie întrerupt definitiv în cazul reacțiilor adverse mediate imun de gradul 4 sau recurente de gradul 3.
+La pacienții cu LHc, în cazul toxicității hematologice de gradul 4, administrarea pembrolizumab trebuie amânată până când reacțiile adverse se ameliorează la gradele  0-1.
+
+V. Monitorizarea tratamentului:
+Înaintea începerii tratamentului este necesară o evaluare completă a pacientului:
+Examen clinic
+Hemoleucograma
+Examene biochimice: glicemie, probe hepatice (transaminaze, bilirubină), probe renale (uree, creatinină), ionogramă, hormoni tiroidieni
+Examene imagistice
+În timpul și după terminarea tratamentului:
+Tratamentul cu pembrolizumab este asociat cu reacții adverse mediate imun. Pacienții trebuie monitorizați continuu  deoarece o reacție adversă la tratament poate apărea în orice moment atât în timpul cât și după ultima doză de pembrolizumab.
+ Pentru a confirma etiologia reacțiilor adverse mediate imun suspectate sau a exclude alte cauze, trebuie efectuată o evaluare adecvată.
+
+VI. Reacții adverse:
+Reacții adverse mediate imun:
+majoritatea reacțiilor adverse mediate imun survenite în timpul tratamentului cu pembrolizumab sunt reversibile și gestionabile prin întreruperea tratamentului cu pembrolizumab, administrarea de corticosteroizi și/sau tratament de susținere
+pot apărea simultan reacții adverse mediate imun ce afectează mai mult de un aparat sau sistem
+în cazul suspicionării unor reacții adverse mediate imun, se impune evaluarea adecvată în vederea confirmării etiologiei sau a excluderii altor cauze.
+ în funcție de gradul de severitate a reacției adverse, administrarea de pembrolizumab trebuie amânată și trebuie administrați corticosteroizi.
+după ameliorarea până la gradul ≤ 1, trebuie inițiată întreruperea treptată a corticoterapiei în decurs de 1 lună; reducerea rapidă a dozei poate duce la agravarea reacției adverse.
+ la pacienți ale căror reacții adverse mediate imun nu au putut fi controlate cu corticosteroizi, poate fi luată în considerare administrarea altor imunosupresoare sistemice.
+administrarea de pembrolizumab poate fi reluată în decurs de 12 săptămâni după ultima doză administrată dacă reacția adversă rămâne la gradul ≤ 1 și doza zilnică de corticosteroid a fost redusă la ≤ 10 mg prednison sau echivalent.
+administrarea pembrolizumab trebuie întreruptă definitiv în cazul recurenței oricărei reacții adverse de grad 3, mediată imun, și în cazul oricărei reacții adverse de toxicitate de grad 4, mediată imun, cu excepția endocrinopatiilor controlate prin tratament de substituție hormonală.
+
+Pneumonită mediată imun.
+Pacienții trebuie monitorizați pentru depistarea semnelor și simptomelor de  pneumonită.
+Pneumonita suspectată trebuie confirmată prin imagistică radiografică și trebuie exclusă prezența altor cauze.
+Pentru evenimente de gradul ≥ 2 trebuie administrați corticosteroizi (doză inițială de 1-2 mg/kg/zi prednison sau echivalent, urmată de scăderea treptată a acesteia). Administrarea pembrolizumab trebuie amânată în cazul pneumonitei de gradul 2 și întreruptă definitiv în cazul pneumonitei de gradul 3, gradul 4 sau pneumonitei de gradul 2 recurente.
+
+Colită mediată imun.
+Pacienții trebuie monitorizați pentru depistarea semnelor și simptomelor de colită și trebuie excluse alte cauze.
+Pentru evenimente de gradul ≥ 2 trebuie administrați corticosteroizi (doză inițială de 1-2 mg/kg/zi prednison sau echivalent, urmată de scăderea treptată a acesteia).
+Administrarea pembrolizumab trebuie amânată în cazul apariției colitei de gradul 2 sau gradul 3 și întreruptă definitiv în cazul colitei de gradul 4 sau recurenței de gradul 3.
+Trebuie luat în considerare riscul potențial de perforație gastro-intestinală.
+
+Hepatită mediată imun.
+Pacienții trebuie monitorizați pentru depistarea modificărilor funcției hepatice și a simptomelor de hepatită (la momentul inițierii tratamentului, periodic pe durata acestuia și în orice moment în funcție de evoluția clinică)
+Trebuie excluse alte cauze.
+Trebuie administrați corticosteroizi: doză inițială de 0,5-1 mg/kg/zi ( pentru evenimente de gradul 2) și 1-2 mg/kg și zi (pentru evenimente de grad ≥ 3) prednison sau echivalent, urmată de scăderea treptată a dozelor și, în funcție de severitatea creșterii valorilor enzimelor hepatice, se amână sau se întrerupe definitive administrarea pembrolizumab.
+
+Nefrită mediată imun.
+Pacienții trebuie monitorizați pentru depistarea modificărilor funcției renale și trebuie excluse alte cauze de disfuncție renală.
+Trebuie administrați corticosteroizi pentru evenimente de grad ≥ 2 (doză inițială de 1-2 mg/kg și zi prednison sau echivalent, urmată de scăderea treptată a acesteia) și, în funcție de severitatea creșterii valorilor creatininei, administrarea pembrolizumab trebuie amânată în cazul nefritei de gradul 2 și întreruptă definitiv în cazul nefritei de gradul 3 sau gradul 4.
+
+Endocrinopatii mediate imun.
+La administrarea tratamentului cu pembrolizumab s-au observat cazuri de endocrinopatii severe, inclusiv insuficiență suprarenală, hipofizită, diabet zaharat tip 1, cetoacidoză diabetică, hipotiroidism și hipertiroidism.
+În cazul endocrinopatiilor mediate imun poate fi necesar tratament de substituție hormonală pe termen lung.
+insuficiență suprarenală (primară și secundară); hipofizită.
+Pacienții trebuie monitorizați pentru depistarea semnelor și simptomelor de insuficiență suprarenală și hipofizită (inclusiv hipopituitarism) și trebuie excluse alte cauze.
+Pentru tratamentul insuficienței suprarenale trebuie administrați corticosteroizi și, în funcție de starea clinică, un alt tip de tratament de substituție hormonală.
+În cazul insuficienței suprarenale de gradul 2 sau hipofizitei simptomatice trebuie amânată administrarea pembrolizumab până când evenimentul este controlat cu tratament de substituție hormonală.
+Administrarea pembrolizumab trebuie amânată sau întreruptă în cazul insuficienței suprarenale de gradele 3 sau 4 sau în cazul hipofizitei.
+Dacă este necesar, continuarea administrării de pembrolizumab poate fi luată în considerare, după întreruperea treptată a corticoterapiei.
+Funcția hipofizară și valorile hormonilor hipofizari trebuie monitorizate pentru a asigura tratament hormonal de substituție corespunzător.
+diabet zaharat tip 1, inclusiv cetoacidoză diabetică.
+Pacienții trebuie monitorizați pentru depistarea hiperglicemiei sau a altor semne și simptome de diabet zaharat.
+Pentru tratamentul diabetului zaharat de tip 1 trebuie administrată insulina.
+Trebuie amânată administrarea pembrolizumab în cazurile de diabet zaharat de tip 1 asociat cu hiperglicemie de gradul ≥ 3 sau cu cetoacidoză, până la obținerea controlului metabolic.
+tulburări tiroidiene: hipotiroidism, hipertiroidism și tiroidită.
+Pot surveni în orice moment pe durata tratamentului.
+Pacienții trebuie monitorizați pentru depistarea modificărilor funcției tiroidiene și a semnelor și simptomelor clinice de tulburări tiroidiene (la momentul inițierii tratamentului, periodic pe durata acestuia și în orice moment în funcție de evoluția clinică).
+Hipotiroidismul poate fi gestionat prin tratament de substituție fără întreruperea tratamentului și fără utilizarea corticosteroizilor.
+Hipertiroidismul poate fi gestionat prin administrarea de tratament simptomatic.
+În cazurile de hipertiroidism de gradul ≥ 3 administrarea pembrolizumab trebuie amânată până la ameliorarea la grad ≤ 1.
+Funcția tiroidiană și valorile hormonilor tiroidieni trebuie monitorizate pentru a asigura tratament de substituție hormonală corespunzător.
+Dacă este necesar, la pacienții cu endocrinopatii de gradul 3 sau gradul 4 care s-au ameliorat până la gradul 2 sau mai puțin și care sunt controlate cu tratament de substituție hormonală, în cazul în care este indicat, continuarea administrării pembrolizumab poate fi luată în considerare după întreruperea treptată a corticoterapiei.
+În caz contrar, tratamentul trebuie intrerupt.
+
+Reacții adverse cutanate mediate imun.
+Pacienții trebuie monitorizați pentru depistarea reacțiilor cutanate severe și trebuie excluse alte cauze.
+În funcție de gradul de severitate a reacției adverse, administrarea pembrolizumab trebuie amânată în cazul reacțiilor cutanate de gradul 3 până la ameliorarea la gradul ≤ 1 sau întreruptă definitiv în cazul reacțiilor cutanate de gradul 4 și trebuie administrați corticosteroizi.
+În cazul suspiciunii de sindrom Stevens-Johnson (SSJ) sau necroliză epidermică toxică (NET), administrarea pembrolizumab trebuie amânată și pacientul direcționat către o unitate specializată pentru evaluare și tratament.
+În cazul în care se confirmă apariția SSJ sau NET, administrarea pembrolizumab trebuie întreruptă definitiv.
+Se recomandă precauție atunci când se ia în considerare utilizarea pembrolizumab la un pacient care a prezentat anterior o reacție adversă cutanată severă sau  amenințătoare de viață cu alte medicamente imunostimulatoare antineoplazice.
+
+Alte reacții adverse mediate imun: uveită, artrită, miozită, miocardită, pancreatită,    sindrom Guillain-Barré, sindrom miastenic, anemie hemolitică, sarcoidoză și encefalită.
+În funcție de gradul de severitate și tipul reacției adverse, administrarea pembrolizumab trebuie amânată în cazul evenimentelor de gradul 2 sau gradul 3 și trebuie administrați corticosteroizi.
+Administrarea pembrolizumab poate fi reluată în decurs de 12 săptămâni după ultima  doză dacă reacția adversă se ameliorează la gradul ≤ 1 și doza zilnică de corticosteroid a fost redusă la ≤ 10 mg prednison sau echivalent.
+Administrarea pembrolizumab trebuie întreruptă definitiv în cazul recurenței oricărei reacții adverse de grad 3, mediată imun și în cazul oricărei reacții adverse de grad 4, mediată imun.
+În cazul miocarditei, encefalitei sau Sindromului Guillain-Barré de gradele 3 sau 4, administrarea pembrolizumab trebuie întreruptă definitiv.
+
+Reacții adverse legate de transplant
+Complicații ale transplantului alogen de celule stem hematopoietice (TCSH alogen)
+
+TCSH alogen după tratamentul cu pembrolizumab
+Cazuri de boală grefă contra gazdă (BGcG) și boală veno-ocluzivă (BVO) hepatică au fost observate la pacienții cu LHc la care s-a efectuat TCSH alogen, după expunerea anterioară la pembrolizumab.
+Până când devin disponibile date suplimentare, o analiză atentă a beneficiilor potențiale ale TCSH și a riscului posibil crescut de complicații asociate transplantului trebuie efectuată pentru fiecare caz în parte.
+TCSH alogen înaintea tratamentului cu pembrolizumab
+La pacienții cu TCSH alogen în antecedente, a fost raportată apariția BGcG acută, inclusiv a cazurilor letale de BGcG, după tratamentul cu pembrolizumab.
+Pacienții care au prezentat BGcG după procedura de transplant pot prezenta un risc crescut de apariție a BGcG după tratamentul cu pembrolizumab.
+La pacienții cu TCSH alogen în antecedente, trebuie luat în considerare beneficiul tratamentului cu pembrolizumab comparativ cu riscul posibil de apariție a BGcG.
+Pentru subiecții cu LHc recidivat sau refractar, datele clinice privind utilizarea   pembrolizumab la pacienții care nu sunt eligibili pentru TACS din alte motive decât eșecul la chimioterapia de salvare sunt limitate.
+După o evaluare atentă a riscului potențial crescut, tratamentul cu pembrolizumab poate fi utilizat la acești pacienți în condițiile unei conduite medicale adecvate.
+
+Reacții legate de administrarea perfuziei.
+La pacienții cărora li s-a administrat pembrolizumab s-au raportat reacții adverse   severe asociate administrării în perfuzie, inclusiv hipersensibilitate și anafilaxie.
+În cazul reacțiilor adverse de gradele 3 sau 4 asociate perfuzării, trebuie întreruptă  administrarea perfuziei și trebuie întrerupt definitiv tratamentul cu pembrolizumab.
+Pacienții cu reacții adverse de gradele 1 sau 2 asociate administrării perfuziei pot  continua tratamentul cu pembrolizumab în condițiile monitorizării stricte; poate fi luată în considerare administrarea de antipiretice și antihistaminice ca premedicație.
+
+VII. Atenționări și precauții:
+Trebuie evitată utilizarea de corticosteroizi sistemici sau imunosupresoare înaintea inițierii tratamentului cu pembrolizumab din cauza potențialului acestora de a interfera cu activitatea farmacodinamică și eficacitatea pembrolizumab.
+Cu toate acestea, după inițierea administrării pembrolizumab pot fi utilizați corticosteroizi sistemici sau alte imunosupresoare pentru tratamentul reacțiilor adverse mediate imun.
+De asemenea, corticosteroizii pot fi utilizați ca premedicație, atunci când pembrolizumab este utilizat în asociere cu chimioterapia, ca profilaxie antiemetică și/sau pentru a atenua reacțiile adverse legate de administrarea chimioterapiei.
+Femeile cu potențial fertil trebuie să utilizeze măsuri contraceptive eficace în timpul tratamentului cu pembrolizumab și timp de cel puțin 4 luni după administrarea ultimei doze de pembrolizumab.
+Sarcina. Nu există date privind utilizarea pembrolizumab la femei gravide; fiind o IgG4, pembrolizumab are potențialul de a fi transferat de la mamă la fătul aflat în dezvoltare. Pembrolizumab nu trebuie utilizat în timpul sarcinii cu excepția cazului în care starea clinică a femeii impune tratamentul cu pembrolizumab.
+Alăptarea. Nu se cunoaște dacă pembrolizumab se excretă în laptele uman. Întrucât este cunoscut faptul că anticorpii pot fi secretați în laptele uman, riscul pentru nou-născuți/sugari nu poate fi exclus.
+Decizia de a întrerupe fie alăptarea, fie tratamentul cu pembrolizumab trebuie luată având în vedere beneficiul alăptării pentru copil și beneficiul tratamentului cu pembrolizumab pentru mamă.
+Capacitatea de a conduce vehicule și de a folosi utilaje.
+Pembrolizumab are o influență minoră asupra capacității de a conduce vehicule și de a folosi utilaje.
+La unii pacienți, s-a raportat apariția amețelii și fatigabilității după administrarea Pembrolizumab.
+
+VIII. Prescriptori:
+Medici din specialitatea hematologie și oncologie medicală.
+5. CARCINOM CU CELULE SCUAMOASE AL CAPULUI SI GATULUI
+I. Indicație
+Pembrolizumab este indicat în monoterapie sau în asociere cu chimioterapia pe bază de săruri de platină și 5-fluorouracil (5-FU) pentru tratamentul de primă linie al carcinomului cu celule scuamoase al capului și gâtului, metastatic sau recurent nerezecabil, la adulți ale căror tumori exprimă PD-L1 cu un scor combinat pozitiv  (CPS, Combined positive score) ≥ 1.
+Exclusiv în scopul identificării și raportării pacienților efectiv tratați pe această indicație, indiferent de localizarea carcinomului scuamos (cavitate bucală, faringe, laringe, etc) se codifică la prescriere prin codul 94 sau 109 (conform clasificării internaționale a maladiilor revizia a 10-a, varianta 999 coduri de boală).
+
+II. Criterii de includere
+Pacienți cu vârsta mai mare de 18 ani
+Diagnostic histopatologic de carcinom scuamos, cu localizare in sfera ORL (cap și gât), recurent/metastazat, netratat anterior pentru aceasta indicație (linia 1 pentru boala metastazată sau pentru boala recurenta după terapie multi-modala inițială – chimio-radioterapie cu sau fără tratament chirurgical).
+Expresie tumorala PD-L1 cu un CPS ≥ 1.
+Pacienți la care a fost administrat anterior Pembrolizumab (din alte surse financiare), cu răspuns favorabil la acest tratament (care nu au prezentat boala progresiva in urma tratamentului cu pembrolizumab)
+
+III. Criterii de excludere
+Hipersensibilitate la substanță activă sau la oricare dintre excipienți
+Sarcina si alăptare
+In cazul următoarelor situații: metastaze active la nivelul SNC, status de performanță ECOG > 2, infecție HIV, hepatită B sau hepatită C, boli autoimune sistemice active, boală pulmonară interstițială, antecedente de pneumonită care a necesitat tratament sistemic cu corticosteroizi, antecedente de hipersensibilitate severă la alți anticorpi monoclonali, pacienții cărora li se administrează tratament imunosupresiv, pacienții cu infecții active, după o evaluare atentă a riscului potențial crescut, tratamentul cu pembrolizumab poate fi utilizat la acești pacienți, daca medicul curant considera ca beneficiile depășesc riscurile potențiale iar pacientul a fost informat in detaliu.
+
+IV. Tratament
+Evaluare pre-terapeutică:
+Evaluare clinică și imagistică pentru certificarea stadiilor metastatic sau recurent nerezecabil - este obligatorie evaluarea imagistică (+/- consult specialitate ORL/chirurgie BMF) înainte de inițierea imunoterapiei. Se recomandă ca evaluarea imagistică să fie efectuată cu cel mult 6 săptămâni anterior inițierii imunoterapiei (sunt permise excepții justificate).
+Confirmarea histologică a diagnosticului
+Evaluare biologică: în funcție de decizia medicului curant
+
+Doza
+Doza recomandată de pembrolizumab la adulți este fie de 200 mg la interval de 3 săptămâni, fie de 400 mg la interval de 6 săptămâni, administrată sub forma unei perfuzii intravenoase cu durata de 30 minute.
+Protocoalele de chimioterapie asociate - chimioterapia pe bază de săruri de platină și 5-fluorouracil (5-FU) sunt cele standard (ca doze și ritm de administrare).
+Pembrolizumab va fi administrat până la progresia bolii sau până la apariția toxicității inacceptabile. S-au observat răspunsuri atipice (de exemplu creșterea inițială tranzitorie a dimensiunilor tumorale sau chiar apariția unor noi leziuni de dimensiuni mici în primele luni urmate de reducerea tumorală). La pacienții stabili clinic, cu date imagistice ce ar putea sugera progresia bolii, se recomandă continuarea tratamentului până la confirmarea, ulterioară, a progresiei bolii. În aceste situații, repetarea examenelor imagistice va fi efectuată cât mai devreme posibil (între 1 - 3 luni), pentru confirmarea/infirmarea progresiei bolii.
+
+Modificarea dozei:
+Nu se recomandă creșterea sau reducerea dozei. Poate fi necesară amânarea sau oprirea administrării tratamentului în funcție de profilul individual de siguranță și tolerabilitate.
+În funcție de gradul de severitate al reacției adverse, administrarea pembrolizumab poate fi amânată și administrați (sistemic) corticosteroizi.
+Administrarea pembrolizumab poate fi reluată în decurs de 12 săptămâni după ultima doză de pembrolizumab, dacă intensitatea reacției adverse este redusă la grad ≤ 1, iar doza zilnică de corticosteroid a fost redusă la ≤ 10 mg prednison sau echivalent.
+Administrarea pembrolizumab trebuie întreruptă definitiv în cazul recurenței oricărei reacții adverse mediată imun de grad 3 sau în cazul apariției oricărei reacții adverse mediată imun de grad 4.
+Grupe speciale de pacienți:
+Insuficiență renală
+Nu au fost evidențiate diferențe semnificative clinic referitor la clearance-ul pembrolizumab între pacienții cu insuficiență renală ușoară sau moderată și cei cu funcție renală normală. Pembrolizumab nu a fost studiat la pacienții cu insuficiență renală severă.
+Insuficiență hepatică
+Nu au fost evidențiate diferențe semnificative clinic în ceea ce privește eliminarea pembrolizumab între pacienții cu insuficiență hepatică ușoară și cei cu funcție hepatică normală. Pembrolizumab nu a fost studiat la pacienții cu insuficiență hepatică moderată sau severă.
+
+V.   Monitorizarea tratamentului
+Evaluarea evoluției bolii - examenul CT/RMN trebuie efectuat regulat pe durata tratamentului, pentru monitorizarea răspunsului la tratament, la intervale considerate optime de către medicul curant (recomandat la 8-12 luni), care va aprecia necesitatea efectuării și a altor investigații imagistice: scintigrafie, PET-CT, etc.
+Consultul de specialitate ORL/chirurgie BMF este necesar, alături de evaluarea imagistică, pentru aprecierea răspunsului la tratament.
+Consult interdisciplinar – ori de cate ori este indicat, pentru precizarea cauzei posibilelor reacții adverse (suspect a fi mediate imun) sau pentru a exclude alte cauze.
+Evaluare biologică: în funcție de decizia medicului curant
+
+VI. Criterii de întrerupere a tratamentului:
+Progresia obiectivă a bolii (examene imagistice și clinice) in absenta beneficiului clinic. Cazurile cu progresie imagistica, fără deteriorare simptomatica, trebuie evaluate cu atenție, având in vedere posibilitatea de apariție a falsei progresii de boala, prin instalarea unui răspuns imunitar anti-tumoral puternic. In astfel de cazuri, nu se recomanda întreruperea tratamentului. Se va repeta evaluarea imagistica, după 4 - 12 săptămâni si numai daca exista o noua creștere obiectiva a volumul tumoral sau deteriorare simptomatica, se va avea in vedere întreruperea tratamentului.
+Tratamentul cu Pembrolizumab trebuie oprit definitiv în cazul reapariției oricărei reacții adverse mediată imun severă (grad 3) cât și în cazul primei apariții a unei reacții adverse mediată imun ce pune viața în pericol (grad 4) – pot exista excepții de la aceasta regula, in funcție de decizia medicului curant, după informarea  pacientului.
+Decizia medicului sau a pacientului
+
+VII. Prescriptori
+Medicii din specialitatea oncologie medicală.”
+
+La anexa nr. 1, protocolul terapeutic corespunzător poziției nr. 151 cod (L01XC24): DCI DARATUMUMABUM se modifică și se înlocuiește cu următorul protocol:
+
+”Protocol terapeutic corespunzător poziției nr. 151 cod (L01XC24): DCI DARATUMUMABUM
+
+I. INDICAȚII:
+Mielomul Multiplu (MM)
+Amiloidoza cu lanturi usoare (AL)
+
+II.	CRITERII DE INCLUDERE
+
+Mielom Multiplu (MM)
+În monoterapie, pentru tratamentul pacienților adulți cu mielom multiplu recidivant și refractar, care au fost tratați anterior cu un inhibitor de proteazom și un agent imunomodulator și care au înregistrat progresia bolii sub ultimul tratament.
+În asociere cu lenalidomidă și dexametazonă sau cu bortezomib și dexametazonă, pentru tratamentul pacienților adulți cu mielom multiplu la care s-a administrat cel puțin un tratament anterior.
+În asociere cu lenalidomidă și dexametazonă pentru tratamentul pacienților adulți cu mielom multiplu nou diagnosticat și care nu sunt eligibili pentru transplant autolog de celule stem.
+În asociere cu pomalidomidă și dexametazonă pentru tratamentul pacienților adulți cu mielom multiplu la care s-a administrat cel puțin un tratament anterior conținând un inhibitor de proteazom și lenalidomidă și care au fost refractari la lenalidomidă, sau care au primit cel puțin două terapii anterioare care au inclus lenalidomidă și un inhibitor proteazom și care au înregistrat progresia bolii în timpul sau după ultimul tratamen – doar DARATUMUMABUM s.c.
+În asociere cu bortezomib, talidomidă și dexametazonă pentru tratamentul pacienților adulți cu mielom multiplu nou dignosticat și care sunt eligibili pentru transplant autolog de celule stem.
+În asociere cu bortezomib, melfalan și prednison pentru tratamentul pacienților adulți cu mielom multiplu nou diagnosticat și care nu sunt eligibili pentru transplant autolog de celule stem.
+În combinații terapeutice conform ghidurilor ESMO și NCCN actualizate
+
+Amiloiodoza cu lanțuri ușoare
+În asociere cu ciclofosfamidă, bortezomib și dexametazonă pentru tratamentul pacienților adulți cu amiloidoză sistemică cu lanțuri ușoare (AL) nou diagnosticată - doar DARATUMUMABUM s.c..
+
+CRITERII DE EXCLUDERE
+hipersensibilitate la substanța(ele) activă(e) sau la oricare dintre excipienți
+sarcina și alăptarea.
+infecția activă VHB necontrolată adecvat
+vârsta sub 18 ani
+Pacienți cu afecțiuni ereditare de intoleranță la fructoză
+
+II. TRATAMENT
+Tratamentul cu daratumumab, concentrat soluție perfuzabilă, trebuie administrat de un profesionist în domeniul sănătății, într-un mediu unde posibilitatea resuscitării este disponibilă.
+Daratumumabul se administrează sub formă de perfuzie intravenoasă după diluare cu clorură de sodiu 9 mg/ml (0,9%) soluție injectabilă. Soluția perfuzabilă se pregătește respectând tehnica aseptică, conform instrucțiunilor din RCP-ul produsului.
+
+Daratumumab, soluție injectabilă subcutanată nu este destinat administrării intravenoase și trebuie administrat numai prin injecție subcutanată, folosind dozele specificate și trebuie administrat de un profesionist în domeniul sănătății, iar prima doză trebuie administrată într-un mediu unde posibilitatea resuscitării este disponibilă.
+
+Este important să se verifice eticheta flacoanelor pentru a vă asigura că pacientului i se administrează
+forma farmaceutică (intravenoasă sau subcutanată) și doza adecvată, conform prescripției.
+
+Pentru pacienții cărora în prezent li se administrează daratumamab intravenos, soluția injectabilă subcutanată poate fi utilizat ca tratament alternativ la forma farmaceutică daratumumab intravenos, începând cu următoarea doză planificată
+
+Inaintea initierii tratamentului cu Daratumumab se vor face testari pentru depistarea infectiei cu VHB.
+La pacienții care dezvoltă reactivarea VHB, tratamentul cu daratumumab trebuie oprit și trebuie solicitat consultul unui medic gastroenterolig/infectionist specializat în tratamentul infecției cu VHB.
+
+Reluarea tratamentului cu daratumumab la pacienții în cazul cărora reactivarea VHB este controlată adecvat se face numai cu avizul medicului gastroenterolog/infectionist.
+
+Doza recomandată este de:
+16 mg/kg greutate corporală pentru concentrate soluție perfuzabilă
+1800 mg pentru soluție injectabilă cu administrare subcutanată
+
+Schema de administrare:
+
+Mielom multiplu
+
+1. Mielom multiplu recent diagnosticat
+
+A. Daratumumab în asociere cu bortezomib, melfalan și prednison (regim de tratament cu cicluri de câte 6 săptămâni) pentru pacienți care nu sunt eligibili pentru transplant autolog de celule (TACS)
+
+a)Prima doză din schema de administrare la interval de trei săptămâni se administrează în săptămâna 7.
+b)Prima doză din schema de administrare la interval de patru săptămâni se administrează în săptămâna 55
+
+Bortezomib se administrează de două ori pe săptămână în săptămânile 1, 2, 4 și 5 pentru primul ciclu de 6 săptămâni, după care se administrează o dată pe săptămână în săptămânile 1, 2, 4 și 5 în următoarele opt cicluri de 6 săptămâni
+
+Melfalan 9 mg/m2 și prednison 60 mg/m2 se administrează pe cale orală în zilele 1 - 4 ale celor nouă cicluri de 6 săptămâni (Ciclurile 1-9).
+
+B. Daratumumab în asociere cu bortezomib, talidomidă și dexametazonă (regimuri de tratament cu cicluri de 4 săptămâni) pentru tratamentul pacienților nou diagnosticați și care sunt eligibili pentru transplant autolog de celule stem (TACS)
+
+a) Prima doză din schema de administrare la interval de 2 săptămâni se administrează în săptămâna 9
+b )Prima doză din schema de administrare la interval de 2 săptămâni se administrează în săptămâna 1, odată cu reluarea tratamentului în urma TACS
+
+Bortezomib se administrează prin injecție subcutanată sau perfuzie intravenoasă în doză de 1,3 mg/m2 de arie a suprafeței corporale, de două ori pe săptămână timp de două săptămâni (zilele 1, 4, 8 și 11) din ciclurile de tratament de inducție repetate cu durata de 28 de zile (4 săptămâni) (ciclurile 1-4) și două cicluri de consolidare (ciclurile 5 și 6) în urma TACS după ciclul 4.
+
+Talidomida se administrează oral în doze de 100 mg pe zi în șase cicluri cu bortezomib.
+
+Dexametazona (orală sau intravenoasă) se administrează în doze de 40 mg în zilele 1, 2, 8, 9, 15, 16, 22 și 23 din ciclurile 1 și 2 și în doze de 40 mg în zilele 1-2 și de 20 mg în următoarele zile de administrare (zilele 8, 9, 15, 16) din ciclurile 3-4. Dexametazona 20 mg se administrează în zilele 1, 2, 8, 9, 15, 16 din ciclurile 5 și 6
+
+Daratumumab în asociere cu lenalidomida și dexametazonă (regim de tratament cu ciclu de 4 săptămâni) pentru pacienți care nu sunt eligibili pentru transplant autolog de celule stem
+
+a)  Prima doză din schema de administrare la interval de două săptămâni se administrează în săptămâna 9
+b) Prima doză din schema de administrare la interval de patru săptămâni se administrează în  săptămâna 25
+
+Lenalidomida 25 mg o dată pe zi pe cale orală în zilele 1-21 ale ciclului repetat de 28 de zile (4 săptămâni)
+
+Dexametazonă 40 mg/săptămână sub formă de doză redusă pe cale orală sau injecție intravenoasă (sau o doză redusă 20 mg/săptămână la pacienții cu vârsta >75 de ani sau cu indicele de masă corporală (IMC) <18,5)
+
+2. Mielom multiplu recidivant/refractor
+A. Daratumumab în monoterapie sau în asociere cu lenalidomida (regim de tratament cu ciclu de 4 săptămâni):
+a)	Prima doză din schema de administrare la interval de două săptămâni se administrează în săptămâna 9.
+b)	Prima doză din schema de administrare la interval de patru săptămâni se administrează în săptămâna 25
+
+Lenalidomida 25 mg o dată pe zi pe cale orală în zilele 1-21 ale ciclului repetat de 28 de zile (4 săptămâni)
+
+Dexametazonă 40 mg/săptămână sub formă de doză redusă pe cale orală sau injecție intravenoasă (sau o doză redusă 20 mg/săptămână la pacienții cu vârsta >75 de ani sau cu indicele de masă corporală (IMC) <18,5)
+
+B. Daratumumab în asociere cu pomalidomida și dexametazona (regim de tratament cu ciclu de 4 săptămâni)
+
+Doza recomandată de daratumumabum este de 1800 mg soluție injectabilă, administrată subcutanat pe durata a aprox. 3-5 minute, în conformitate cu următoarea schemă de administrare din tabelul de mai jos
+
+a)Prima doză din schema de administrare la interval de două săptămâni se administrează în săptămâna 9.
+b)Prima doză din schema de administrare la interval de patru săptămâni se administrează în săptămâna 25
+
+Pomalidomida (4 mg o dată pe zi, pe cale orală, în zilele 1-21 ale ciclurilor repetate de 28 de zile [4 săptămâni]) se administrează împreună cu o doză mică de dexametazonă, administrată pe cale orală sau intravenos, de 40 mg/săptămână (sau o doză redusă de 20 mg/săptămână pentru pacienții cu vârsta >75 ani).
+
+În zilele de administrare a daratumumabum în formă subcutanată, se administrează 20 mg din doza de dexametazonă ca un medicament înaintea administrării, iar restul dozei se administrează în prima zi după administrare. La pacienții tratați cu o doză redusă de dexametazonă, întreaga doză de 20 mg se  administrată ca medicament înaintea administrării daratumumabum în formă subcutanată
+
+C. Daratumumab în asociere cu bortezomib (regim de tratament cu ciclu de 3 săptămâni):
+
+a)	Prima doză din schema de administrare la interval de trei săptămâni se administrează în săptămâna 10.
+b)	Prima doză din schema de administrare la interval de patru săptămâni se administrează în săptămâna 25
+
+Bortezomib se administrează prin injecție subcutanată sau perfuzie i.v., în doză de 1,3 mg/m2 de suprafață corporală, de două ori pe săptămână, timp de două săptămâni (zilele 1, 4, 8 și 11) din ciclurile de tratament repetate cu durata de 21 de zile (3 săptămâni), timp de 8 cicluri de tratament în total.
+
+Dexametazona se administrează pe cale orală în doză de 20 mg, în zilele 1, 2, 4, 5, 8, 9, 11 și 12 ale fiecăruia dintre cele 8 cicluri de bortezomib (80 mg pe săptămână în două din cele trei săptămâni ale ciclului de bortezomib) sau în doză redusă, de 20 mg/săptămână pentru pacienții cu vârsta >75 de ani, cu IMC <18,5, cu diabet zaharat insuficient controlat sau cu intoleranță anterioară la administrarea de steroizi
+
+Amiloidoza cu lanțuri ușoare (AL)
+Schema de administrare în asociere cu bortezomib, ciclofosfamidă și dexametazonă (regim de administrare cu ciclu de 4 săptămâni)a)
+Doza recomandată de daratumumabum este de 1800 mg soluție injectabilă administrată subcutanat pe durata a aprox. 3-5 minute, în conformitate cu următoarea schemă de administrare
+
+a) În studiul clinic, daratumumabum a fost administrat până la progresia bolii sau maximum 24 de cicluri (~2 ani) de la prima doză din tratamentul de studiu.
+b) Prima doză din schema de administrare la 2 săptămâni este administrată în săptămâna 9
+c) Prima doză din schema de administrare la 4 săptămâni este administrată în săptămâna 25
+
+Bortezomib (SC; 1,3 mg/m2 de arie a suprafeței corporale), ciclofosfamidă (administrată oral sau IV; 300 mg/m2 de arie a suprafeței corporale; doză maximă 500 mg) și dexametazonă (administrată oral sau IV; 40 mg sau o doză redusă de 20 mg pentru pacienții cu vârsta >70 ani sau cu un indice de masă corporală [IMC] <18,5 sau cei care au hipervolemie, diabet zaharat insuficient controlat sau intoleranță anterioară la administrarea de steroizi) au fost administrate săptămânal în zilele 1, 8, 15 și 22 din ciclurile repetate cu durata de 28 de zile [4 săptămâni].
+
+În zilele de administrare a daratumumabum, doza de dexametazonă de 20 mg s-a administrat ca medicament înaintea injecției, iar restul s-a administrat în următoarea zi după administrarea daratumumabum.
+
+3. Mod administrare
+Rate de perfuzare daratumumab soluție perfuzabilă
+După diluare, perfuzia cu daratumumab trebuie administrată intravenos la rata de perfuzare inițială prezentată în tabelul de mai jos. Creșterea progresivă a ratei de perfuzare poate fi luată în considerare numai în absența oricăror reacții legate de perfuzie.
+a) Creșterea incrementală a ratei de perfuzare poate fi luată în considerare numai în absența oricăror reacții legate de perfuzie (RLP).
+b) Se va utiliza un volum după diluare de 500 ml numai în lipsa oricăror RLP ≥ Grad 1 în primele 3 ore de la prima perfuzie. Altfel, se va utiliza în continuare un volum după diluare de 1000 ml și se vor urma instrucțiunile pentru prima perfuzie.
+c) Se va utiliza o rată inițială modificată pentru perfuziile ulterioare (adică începând cu a treia perfuzie) numai în lipsa oricăror RLP ≥ Grad 1 la o rată de perfuzare finală ≥ 100 ml/h a primelor două perfuzii.
+
+Altfel, se vor urma instrucțiunile pentru a doua perfuzie
+Administrare daratumumab soluție injectabilă subcutanată
+Injectați 15 ml daratumumab soluție injectabilă subcutanată în țesutul subcutanat al abdomenului, la o distanță de aprox. 7,5 cm la dreapta sau stânga ombilicului, timp de aproximativ 3-5 minute. Nu injectați daratumumab soluție injectabilă subcutanată în alte părți ale corpului, deoarece nu există date disponibile în acest scop.
+Locurile de administrare trebuie alternate de la o injecție la alta
+Daratumumab soluție injectabilă subcutanată nu trebuie niciodată administrată în zone în care pielea este roșie, tumefiată, dureroasă, întărită sau în zone cu țesut cicatrizat
+Pe durata tratamentului cu daratumumab soluție injectabilă subcutanată, nu administrați altă medicație subcutanat în același loc în care a fost administrat daratumumabum.
+
+4. Premedicație și medicație adjuvantă:
+
+a. Medicație administrată înaintea perfuziei sau injecției subcutanate.
+Pentru a reduce riscul reacțiilor legate de perfuzie (RLP) se administrează tuturor pacienților cu 1-3 ore înainte de fiecare perfuzie sau injecție de daratumumab:
+
+Corticosteroid (cu acțiune prelungită sau intermediară)
+Monoterapie:
+Metilprednisolon 100 mg sau doza echivalentă, administrat intravenos. După a doua perfuzie sau injecție, doza de corticosteroid poate fi redusă la metilprednisolon 60 mg administrat oral sau intravenos.
+Tratament asociat:
+Dexametazonă 20 mg, administrată înainte de  fiecare perfuzie sau injecție cu daratumumab.
+Dexametazona se administrează intravenos înainte  de prima perfuzie cu daratumumab; administrarea orală poate fi avută în vedere înainte de perfuziile ulterioare.
+Când dexametazona este corticosteroidul specific tratamentului de fond doza de tratament cu dexametazonă va avea rol de premedicație în zilele în care se administrează prefuzia sau injecția cu daratumumab
+În zilele de administrare subcutanată cu daratumumab când pacienții iau dexametazonă (sau un produs echivalent) ca premedicație, nu trebuie administrați alți corticosteroizi specifici tratamentului de fond (de exemplu, prednison)
+Antipiretice (paracetamol administrat oral între 650 și 1000 mg).
+Antihistaminice (difenhidramină între 25 și 50 mg sau echivalent, cu administrare orală sau intravenoasă).
+
+b. Medicație administrată după perfuzie sau injecție subcutanată.
+Medicația administrată după perfuzie s au in j ec ți e are rolul de a reduce riscul reacțiilor întârziate legate de perfuzie (RLP)și se administrează astfel:
+Monoterapie:
+În prima și a doua zi după toate perfuziile sau injecțiile, trebuie să se administreze pacienților corticosteroizi pe cale orală (20 mg metilprednisolon sau doza echivalentă a unui corticosteroid cu acțiune intermediară sau prelungită, în conformitate cu standardele locale).
+Tratament asociat:
+Se poate administra pe cale orală o doză mică de metilprednisolon (≤ 20 mg) sau echivalent, în prima zi după perfuzia sau injecția cu daratummab
+Totuși, dacă în prima zi după perfuzia sau injecția cu daratumumab se administează un corticosteroid specific tratamentului de fond (de exemplu,dexametazona), există posibilitatea ca alte medicații administrate după perfuzie să nu mai fie necesare
+Dacă pacientul nu suferă RLP majore după primele trei injecții subcutanate, administrarea corticosteroizilor post-injecție (excluzând corticosteroizii specifici tratamenului de fond) poate fi întreruptă la pacienții cu antecedente de boală pulmonară obstructivă cronică, trebuie luată în considerare utilizarea unor medicații post-perfuzie, inclusiv bronhodilatatoare cu durată scurtă și lungă de acțiune, precum și corticosteroizi inhalatori.
+După primele patru perfuzii sau injecții, în cazul în care pacientul nu prezintă RLP majore, aceste medicamente inhalatorii post-perfuzie se pot întrerupe, la latitudinea medicului.
+
+c. Profilaxia reactivării virusului herpes zoster
+Trebuie luată în considerare profilaxia anti-virală pentru prevenirea reactivării virusului herpes zoster.
+
+5. Modificarea dozelor.
+Nu se recomandă niciun fel de reducere a dozelor de daratumumab.
+Poate fi necesară în schimb temporizarea administrării dozei, pentru a permite restabilirea numărului de celule sanguine în caz de toxicitate hematologică.
+
+6. Omiterea unei (unor) doze.
+Dacă se omite o doză planificată de daratumumab, doza trebuie administrată cât mai curând posibil, iar schema de administrare trebuie modificată în consecință, menținându-se intervalul de tratament.
+
+IV. ATENȚIONĂRI și PRECAUȚII.
+
+A. Reacțiile legate de perfuzie (RLP)
+a)	concentrat pentru soluție perfuzabilă
+raportate la aproximativ jumătate din toți pacienții tratați cu daratumumab; majoritatea RLP au apărut la prima perfuzie; unele sunt severe: bronhospasm, hipoxie, dispnee, hipertensiune arterială, edem laringian și edem pulmonar.
+pacienții  trebuie  monitorizați  pe  întreaga  durată  a  perfuziei  și  în  perioada postperfuzie.
+abordarea terapeutică a reacțiilor legate de perfuzie:
+înaintea perfuziei cu daratumumab se va administra medicație pentru reducerea  riscului de RLP.
+în  cazul  apariției  RLP  de  orice  grad,  perfuzia  cu  daratumumab  se  va întrerupe imediat și se vor trata simptomele.
+managementul RLP poate necesita reducerea suplimentară a ratei de perfuzare sau întreruperea tratamentului cu daratumumab, după cum este prezentat mai jos:
+Grad 1-2 (ușoare până la moderate): După ce simptomele reacției dispar, perfuzia trebuie reluată la maximum jumătate din rata la care a apărut RLP. În cazul în care pacientul nu prezintă alte simptome de RLP, creșterea ratei de perfuzare se poate relua treptat la intervalele adecvate din punct de vedere clinic, până la rata maximă de 200 ml/oră.
+Gradul 3 (severe): După ce simptomele reacției dispar, se poate avea în vedere reluarea perfuziei la maximum jumătate din rata la care a avut loc reacția. Dacă pacientul nu prezintă simptome suplimentare, creșterea ratei de perfuzare se poate relua treptat la intervalele adecvate. Procedura de mai sus se va repeta în cazul reapariției simptomelor de Grad 3. Administrarea daratumumab se va întrerupe permanent la a treia apariție a unei reacții legate de perfuzie de Grad 3 sau mai mare.
+Gradul 4 (cu potențial letal): Tratamentul cu daratumumab se va întrerupe definitiv.
+
+b)	soluție injectabilă subcutanată
+Majoritatea RLP s-au produs după prima injecție și au fost de gradul 1-2. RLP la injecții ulterioare s-au constatat la mai puțin de 1% dintre pacienți
+Perioada mediană până la producerea RLP după administrarea injecției cu daratumumab a fost de 3,7 ore (interval cuprins între 0,15 și 83 ore).
+Semnele și simptomele de RLP pot include simptome respiratorii, precum congestie nazală, tuse, iritație faringiană, rinită alergică, respirație șuierată și pirexie, disconfort toracic, prurit, frisoane, vărsături, greață și hipotensiune arterială. Au apărut și unele reacții severe, inclusiv bronhospasm, hipoxie, dispnee, hipertensiune arterială și tahicardie
+Înaintea tratamentului, pacienților trebuie să li se administreze antihistaminice, antipiretice și corticosteroizi și să li se ofere monitorizare și consiliere privind RLP, în special în timpul și după prima și a doua injecție
+Dacă apare o reacție anafilactică sau cu potențial letal (Gradul 4), trebuie inițiată imediat procedura adecvată de resuscitare de urgență. Tratamentul cu daratumumab trebuie întrerupt imediat și definitive
+Pentru a reduce riscul de RLP întârziate, tuturor pacienților trebuie să li se administreze corticosteroizi pe cale orală după injecția cu daratumumab
+
+B. Neutropenia/Trombocitopenia:
+Temporizarea administrării daratumumab poate fi necesară pentru a permite refacerea numărului de celule sanguine. Nu se recomandă niciun fel de reducere a dozelor de daratumumab. Monitorizare pentru identificarea oricărui semn de infecție.
+
+C. Interferența cu testul antiglobulinic indirect (testul Coombs Indirect):
+Legarea daratumumabului la CD38, prezent la niveluri scăzute în hematii, poate duce la un rezultat pozitiv al testului Coombs indirect ce poate persista timp de până la 6 luni după ultima perfuzie cu daratumumab.
+
+Daratumumab legat la RBC poate masca detectarea anticorpilor la antigene minore în serul pacientului. Nu sunt afectate determinarea grupei sanguine și a Rh-ului.
+
+Pacienților trebuie să li se determine grupa sanguină, Rh-ul și fenotipul înaintea începerii tratamentului cu daratumumab.
+
+În cazul unei transfuzii planificate trebuie înștiințat centrul de transfuzii de sânge despre această interferență cu testele indirecte antiglobulinice.
+
+Dacă este necesară o transfuzie în regim de urgență, se pot administra RBC compatibile ABO/RhD, fără test pentru detectarea compatibilității încrucișate.
+
+C. Interferența cu determinarea Răspunsului Complet:
+Daratumumab este un anticorp monoclonal IgG1қappa care poate fi detectat atât prin testul de electroforeză a proteinelor serice, cât și prin testul de imunofixare folosit pentru monitorizarea clinică a proteinei-M endogenă. Această interferență poate impacta determinarea unui răspuns complet sau progresiei bolii la pacienții cu mielom cu proteină IgG kappa.
+
+Femeile cu potențial fertil/Contracepția
+Femeile cu potențial fertil trebuie să utilizeze metode contraceptive eficiente pe parcursul și timp de 3 luni după încetarea tratamentului cu daratumumab.
+
+Sarcina.
+Daratumumab nu trebuie utilizat în timpul sarcinii decât dacă beneficiile tratamentului pentru mamă sunt considerate mai importante decât riscurile potențiale pentru făt.
+În cazul în care pacienta rămâne gravidă în timp ce urmează tratament cu acest medicament, aceasta trebuie informată despre riscul potențial pentru făt.
+
+Alăptarea.
+Nu se cunoaște efectul daratumumab asupra nou-născuților/sugarilor. Trebuie luată decizia fie de a întrerupe alăptarea fie de a întrerupe tratamentul cu daratumumab ținând cont de beneficiul alăptării pentru copil și de beneficiul tratamentului pentru mamă.
+REACȚII ADVERSE
+Infecții: pneumonie; infecții ale căilor respiratorii superioare; gripă
+Tulburări hematologice și limfatice: neutropenie; trombocitopenie; anemie; limfopenie
+Tulburări ale sistemului nervos: neuropatie senzorială periferică; cefalee
+Tulburări cardiace: fibrilație atrială
+Tulburări respiratorii, toracice și mediastinale: tuse; dispnee
+Tulburări gastro-intestinale: diaree; greață; vărsături
+Tulburări musculoscheletice și ale țesutului conjunctiv: spasme musculare
+Tulburări generale și la nivelul locului de administrare: fatigabilitate; pirexie; edem periferic
+Reacții legate de perfuzie
+
+Contraindicații
+Hipersensibilitate la substanța ctive sau la oricare dintre excipienții enumerați.
+Contraindicații conform RCP ciclofosfamidă:
+hipersensibilitate la ciclofosfamidă, la oricare dintre metaboliții săi sau la oricare dintre excipienții enumerați
+infecții acute
+aplazie medulară sau depresie medulară anterioară tratamentului
+infecție a tractului urinar
+toxicitate urotelială acută din cauza chimioterapiei citotoxice sau din cauza radioterapiei
+obstrucție a debitului urinar
+sarcină
+alăptare
+persoane asiatice cu genotip ALDH2 mutant, deoarece la acești pacienți nu a fost stabilit un raport pozitiv între beneficiu și risc
+Contraindicații legate de administrarea tratamentului cu bortezomib:
+Hipersensibilitate la substanța activă, bor sau la oricare dintre excipienții enumerați.
+Infiltrat pulmonar acut difuz și pericardită.
+
+V. CRITERII DE EVALUARE A EFICACITĂȚII TERAPEUTICE
+Mielom Multiplu
+Se utilizează criteriile elaborate de către Grupul Internațional de Lucru pentru Mielom (IMWG)
+PC = plasmocite; MO = măduvă osoasă; CR = răspuns complet; VGPR = răspuns parțial foarte bun; PR = răspuns parțial; ASO-PCR = reacția în lanț a polimerazei, specifică anumitor alele; FLC = lanțuri ușoare libere.
+Amiloidoza cu lanțuri ușoare (AL)
+Se utilizează criteriile de evaluare a răspunsului la tratament, conform Protocol de diagnostic și tratament al amiloidozei sistemice tip lanț ușor (AL)
+
+Monitorizarea răspunsului la tratament:
+La 2 luni (după 2 cicluri): scăderea dFLC >50%
+După 4-6 cicluri sau în Z100 post autotransplant: scăderea dFLC < 40 mg/l
+
+Evaluarea pacienților lunar în primul an și atâta timp cât sunt în tratament. EFPP și dozare FLC lunar
+(la 2 luni).
+
+Pentru evaluarea răspunsului de organ, sunt urmăriți următorii parametrii, de obicei la intervale de 3
+luni:
+Troponina, NTproBNP
+Creatinina, Proteinuria/24 ore
+Teste hepatice
+ECG, Ecocardiografie
+
+Criterii validate pentru evaluarea raspusului precoce (la 3 și 6 luni de tratament):
+
+1. Răspuns hematologic:
+Răspuns complet (CR): imunofixare proteine serice și urinare negative + lanțuri ușoare libere
+(FLC) normale
+Very Good Parțial Response (VGPR): dFLC < 40 mg /dl
+Răspuns parțial (PR); scăderea dFLC cu peste 50%
+Low dFLC response: dFLC < 10 mg/L
+
+2. Răspuns cardiac: scăderea NTproBNP cu >30% și cu > 300 ng/L
+3. Răspuns renal: reducerea proteinuriei cu > 30% (urina / 24 ore)
+4. Răspuns pe afectarea hepatică: reducerea fosfatazei alcaline cu >50% și / sau reducerea
+diametrului hepatic cu peste 2 cm
+5. Răspuns pe afectarea neurologică: îmbunătățirea vitezelor de conducere (EMG)
+Criterii pentru întreruperea tratamentului:
+Numărul de trombocite trebuie monitorizat înainte de administrarea fiecărei doze de bortezomib. Tratamentul cu bortezomib trebuie întrerupt în cazul în care numărul de trombocite este < 25000/l sau în cazul asocierii cu rednison și rednisone, dacă numărul de trombocite este ≤30000/μl.
+
+Tratamentul cu bortezomib trebuie întrerupt dacă numărul de trombocite 30  109 /l sau NAN 0,75 x 109 /l într-o zi în care se administrează bortezomib (alta decât ziua 1).
+
+În caz de toxicitate alta decât cea hematologică de Gradul ≥ 3 tratamentul cu bortezomib trebuie întrerupt până când simptomele toxicității s-au remis la Gradul 1 sau valoarea inițială. Apoi, bortezomib poate fi reinițiat cu o scădere de un nivel a dozei (de la 1,3 mg/m2 la 1 mg/m2 , sau de la 1 mg/m2 la 0,7 mg/m2 ).
+În caz de neuropatie Gradul 2 cu dureri sau gradul 3 se recomandă întreruperea tratamentului cu bortezomib până la remiterea simptomelor de toxicitate. Când efectele toxice s-au remis, se reinițiază tratamentul cu bortezomib, se scade doza la 0,7 mg/m2 o dată pe săptămână.
+În caz de neuropatie Gradul 4 (consecințe cu risc letal; se recomandă intervenție imediată) și/sau neuropatie vegetativă severă se întrerupe tratamentul cu bortezomib
+
+VI. PRESCRIPTORI:
+Inițierea și continuarea tratamentului se face de către medicii din specialitatea hematologie sau după caz, specialiști în oncologie medicală cu avizul medicului hematolog.”
+La anexa nr. 1, protocolul terapeutic corespunzător poziției nr. 175 cod (L01XE27): DCI IBRUTINIBUM se modifică și se înlocuiește cu următorul protocol:
+
+”Protocol terapeutic corespunzător poziției nr. 175 cod (L01XE27): DCI IBRUTINIBUM
+
+I. 	DEFINIȚIA AFECȚIUNII:
+Leucemie limfatică cronică (LLC)
+Limfom limfocitic cu celule B mici (SLL)
+Limfom non-hodgkin cu celule de mantă (LCM) recidivant sau refractar.
+Macroglobulinemia Waldenstrom (MW) (limfomul limfoplasmocitic secretor de IgM)
+
+II. CRITERII DE INCLUDERE ÎN TRATAMENT
+pacienții adulți (peste 18 ani) cu Leucemie limfatică cronică (LLC) sau limfom limfocitic cu celule B mici (SLL)
+ca tratament de primă linie - în monoterapie sau în asociere cu Obinutuzumab sau Rituximab sau Venetoclax*)
+pacienți care au primit anterior cel puțin o linie de tratament - în monoterapie sau în
+în asociere cu bendamustina și rituximab (BR)
+boala activă: minim 1 criteriu IWCLL îndeplinit
+pacienții adulți (peste 18 ani) cu Limfom non-hodgkin cu celule de manta (LCM) care nu au răspuns sau au recăzut după tratamentul administrat anterior - în monoterapie
+pacienții adulți (peste 18 ani) cu Macroglobulinemie Waldenstrom
+care nu sunt eligibili pentru chimio-imunoterapie - ca terapie de linia întâi, în monoterapie.
+cărora li s-a administrat cel puțin o terapie anterioară - în monoterapie
+în asociere cu Rituximab (toate liniile)
+diagnostic confirmat de LLC/SLL/LCM/MW (prin imunofenotipare prin citometrie în flux sau examen histopatologic cu imunohistochimie; electroforeza proteinelor serice cu imunelectroforeză și dozări)
+
+*) pacienții adulți cu LLC netratati anterior care sunt în tratament cu ibrutinib in monoterapie de maxim trei luni, pot beneficia de combinația cu Venetoclax daca se considera necesar conform modului de administrare din RCP)
+
+III. CRITERII DE EXCLUDERE
+hipersensibilitate la substanța activă sau la oricare dintre excipienți.
+sarcină
+insuficiență hepatică severă clasa Child Pugh C
+
+IV. TRATAMENT:
+comprimate filmate, concentratie 140 mg, 280 mg, 420 mg si 560 mg
+capsule, concentrație 140 mg
+
+Doze
+Pentru LLC sau SLL doza de ibrutinib recomandată este de 420 mg (1 comprimat filmat de 420 mg sau 3 capsule de 140 mg)  o dată pe zi, administrate oral
+Pentru LCM doza de ibrutinib recomandată este de 560 mg (1 comprimat filmat de 560 mg sau 4 capsule de 140 mg)  o dată pe zi, administrate oral
+Pentru MW doza de ibrutinib recomandată este de 420 mg ( 1 comprimat filmat de 420 mg sau 3 capsule de 140 mg)  o dată pe zi, administrate oral
+
+Medicamente asociate
+Pentru tratamentul asociat cu R in LLC prima linie
+Rituximab 50 mg/m2 IV, ziua  1, ciclul 2, apoi 325 mg/m2 IV, ziua 2, ciclu 2 urmat de Rituximab 500 mg/m2 IV,ziua1, ciclurile 3-7
+Pentru tratamentul asociat cu R in MW
+Rituximab administrat săptămânal în doză de 375 mg/m2 timp de 4 săptămâni consecutive (săptămânile 1-4) urmat de o a doua cură de rituximab administrat săptămânal timp de 4 săptămâni consecutive (săptămânile 17-20) la un interval de 3 luni
+Pentru tratamentul asociat cu BR:
+Doza de bendamustină este de 70 mg/m2 administrată prin perfuzie IV timp de 30 de minute în Ciclul 1, Zilele 2 și 3, și în Ciclurile 2-6, în Zilele 1 și 2 timp de până la 6 cicluri.
+Rituximab este  administrat la o doză de 375 mg/m2, în primul ciclu, Ziua 1, și la o doză de 500 mg/m2 în Ciclurile 2 până la 6, în Ziua .
+Pentru tratamentul asociat cu obinutuzumab:
+Doza de obinutuzumab este de 1000 mg de obinutuzumab în Zilele 1, 8 și 15 din primul ciclu, urmat de tratament în prima zi a următoarelor 5 cicluri (în total 6 cicluri, fiecare având 28 de zile). Prima doză de obinutuzumab a fost împărțită între ziua 1 (100 mg) și ziua 2 (900 mg)
+Pentru tratamentul asociat cu venetoclax
+În tratamentul LLC, în asociere cu venetoclax, ibrutinib trebuie administrat în monoterapie timp de 3 cicluri (1 ciclu cuprinde 28 zile), urmat de 12 cicluri de ibrutinib plus venetoclax.
+Venetoclax se administrează zilnic, începând cu doza de 20 mg timp de 1 săptămână, și continuând cu câte 1 săptămână cu doza de 50 mg, 100 mg și, respectiv, 200 mg, iar ulterior cu doza recomandată de 400 mg zilnic
+
+În cazul în care un pacient omite o doză de venetoclax și au trecut mai puțin de 8 ore de la momentul în care aceasta trebuia administrată de obicei, pacientul trebuie să ia doza omisă cât mai curând posibil, în aceeași zi. În cazul în care pacientul a omis o doză și au trecut mai mult de 8 ore, pacientul nu trebuie să ia doza omisă și trebuie să reia administrarea dozelor conform schemei în ziua următoare. Dacă pacientul prezintă vărsături după ce a luat doza, nu trebuie să ia o altă doză în ziua respectivă. Următoarea doză prescrisă trebuie luată conform programului în ziua următoare.
+
+În cazul utilizării ibrutinib în asociere cu terapii anti-CD20, se recomandă ca acesta să fie administrat înainte de rituximab sau obinutuzumab dacă administrarea are loc în aceeași zi
+Mod de administrare
+Ibrutinibul trebuie administrat oral o dată pe zi cu un pahar cu apa la aproximativ aceeasi ora in fiecare zi. Capsulele se inghit intregi, nu se deschid, nu se sparg, nu se mesteca. Comprimatele trebuie înghițite întregi cu apă și nu trebuie sparte sau mestecate. NU trebuie administrat cu suc de grapefruit sau portocale de Sevilla.
+Contraindicații
+Hipersensibilitate la substanța activă sau la oricare dintre excipienți.
+Sarcină
+La pacienții tratați cu ibrutinib este contraindicată utilizarea preparatelor pe bază de plante ce conțin sunătoare
+La pacienții cu LLC, este contraindicată utilizarea concomitentă a venetoclax cu inhibitori puternici ai CYP3A în perioada de inițiere a tratamentului și în timpul perioadei de titrare a dozei
+Ajustarea dozelor
+Terapia cu ibrutinib trebuie întreruptă în cazul apariției insuficienței cardiace nou instalate sau agravate de grad 2, aritmiilor cardiace de grad 3, în caz detoxicități non-hematologice de grad ≥ 3, în caz de neutropenie de grad ≥ 3 însoțită de infecție sau febră, sau hemotoxicitate de grad 4. După ce simptomele induse de toxicitate s-au remis până la gradul 1 sau valoarea inițială (de recuperare), se reia terapia cu ibrutinib la doza recomandată conform tabelelor de mai jos.
+
+Modificările de doză recomandate pentru evenimente adverse de insuficiență cardiacă sau aritmii cardiace sunt descrise mai jos:
+
+Modificările de doză recomandate pentru evenimente adverse non-cardiace sunt descrise mai jos:
+
+pentru pacienții vârstnici nu este necesară ajustarea dozei
+insuficiența renală - nu este necesară ajustarea dozei la pacienții cu insuficiența renală; la pacienții cu insuficiență renală severă (clearance-ul creatininei < 30 ml/min) ibrutinib se va administra numai dacă beneficiile depășesc riscurile, iar pacienții trebuie monitorizați îndeaproape pentru semne de toxicitate.
+insuficiența hepatică - la pacienții cu funcția hepatică afectată ușor sau moderat (Child- Pugh cls A și B) doza recomandată este de 280 mg, respectiv 140 mg, cu monitorizarea semnelor de toxicitate. Nu este recomandată administrarea ibrutinib la pacienții cu disfuncție hepatică severă.
+Omiterea dozei- în cazul în care se omite administrarea dozei de ibrutinib la ora programată, aceasta se poate administra cât mai curând posibil în aceeași zi, revenind la programul normal în ziua următoare.Pacientul nu trebuie să administreze capsule suplimentare pentru a compensa doza omisă.
+Interacțiuni medicamentoase
+Medicamentele care au un mecanism de acțiune care inhibă puternic sau moderat CYP3A potentează acțiunea ibrutinib și trebuiesc evitate.
+Dacă este absolut necesară folosirea unui asemenea medicament se recomandă:
+În cazul inhibitorilor puternici: întreruperea temporară a ibrutinibului (până la 7 zile sau mai puțin) sau reducerea dozei la 140 mg/zi cu monitorizare atentă pentru apariția fenomenelor de toxicitate.
+În cazul inhibitorilor moderați: reducerea dozei la 280 mg/zi cu monitorizare atentă pentru apariția fenomenelor de toxicitate.
+Nu este necesară ajustarea dozei când se asociază cu medicamente care inhibă ușor CYP3A.
+Utilizarea concomitentă a inductorilor puternici sau moderați ai CYP3A4 trebuie evitată deoarece scad concentrația plasmatică a ibrutinibului. Dacă este absolut necesară folosirea unui asemenea produs se recomandă monitorizarea cu atenție a pacientului pentru lipsa eficacității.
+Inductorii slabi pot fi utilizați concomitent cu ibrutinibul cu condiția monitorizării pacienților pentru o eventuală lipsă de eficacitate.
+Pentru Venetoclax- a se vedea protocolul terapeutic L01XX52
+Perioada de tratament.
+Tratamentul trebuie continuat până la progresia bolii sau până când nu mai este tolerat de către pacient.
+
+V. MONITORIZAREA TRATAMENTULUI (parametrii clinico-paraclinici și periodicitate)
+Se recomanda monitorizarea atenta pentru orice semne sau simptome de toxicitate hematologica (febra și infectii, sangerare, sdr. de leucostaza) sau non-hematologica.
+Se recomanda monitorizarea hemogramei, functiei hepatice, renale, electrolitilor, EKG; efectuarea initial si apoi monitorizare periodica sau la aprecierea medicului.
+Pacientii trebuie monitorizati pentru aparitia febrei, neutropeniei si infectiilor si trebuie instituita terapia antiinfectioasa adecvata, dupa caz.
+La pacientii cu factori de risc cardiac, hipertensiune arteriala, infectii acute si antecedente de fibrilatie atriala se recomanda monitorizarea clinica periodica a pacientilor pentru fibrilatie atriala. Pacientii care dezvolta simptome de aritmii sau dispnee nou instalata trebuie evaluati clinic si EKG.
+Se recomanda monitorizarea cu atentie a pacientilor care prezinta volum tumoral crescut inainte de tratament si luarea masurilor corespunzatoare pentru sindromul de liza tumorala.
+Pacientii trebuie monitorizati pentru aparitia cancerului cutanat de tip non-melanom. Monitorizare pentru simptome pulmonare sugestive de boala pulmonara interstitiala.
+VI. CRITERII DE EVALUARE A RĂSPUNSULUI LA TRATAMENT
+Eficiența tratamentului cu ibrutinib în LLC sau SLL și LCM se apreciază pe baza criteriilor ghidului IWCLL (International Workshops on CLL) respectiv IWG-NHL (International Working Group for non-Hodgkin’s lymphoma):
+criterii hematologice: dispariția/reducerea limfocitozei din măduvă/sânge periferic, corectarea anemiei și trombopeniei și
+clinic: reducerea/dispariția adenopatiilor periferice și organomegaliilor, a semnelor generale.
+Eficiența tratamentului cu ibrutinib în MW se apreciază conform ghidului IWWM (International Workshops on Waldenstrom Macroglobulinemia)
+
+VII.	CRITERII DE ÎNTRERUPERE A TRATAMENTULUI
+Tratamentul cu ibrutinib se întrerupe:
+când apare progresia bolii sub tratament și se pierde beneficiul clinic;
+când apare toxicitate inacceptabilă sau toxicitatea persistă după două scăderi succesive de doză;
+când pacientul necesită obligatoriu tratament cu unul din medicamentele incompatibile cu administrarea ibrutinib;
+sarcină.
+
+Nota: Dacă se suspectează LMP (leucoencefalopatie multifocală progresivă) trebuie efectuate evaluări diagnostice adecvate, iar tratamentul trebuie intrerupt până la excluderea LMP. Dacă există incertitudini, trebuie avute în vedere consultul neurologic și măsuri adecvate pentru diagnosticul LMP, inclusiv explorare IRM, de preferință cu substanță de contrast, analiza lichidului cefalorahidian (LCR) pentru depistarea ADN ul virusului JC și repetarea evaluărilor neurologice.
+Particularități:
+Limfocitoza ca efect farmacodinamic
+după inițierea tratamentului, la aproximativ trei sferturi dintre pacienții cu LLC / SLL tratați cu ibrutinib, s-a observat o creștere reversibilă a numărului de limfocite (de exemplu o creștere de ≥ 50% față de valoarea inițială și un număr absolut > 5000/mmc), deseori asociată cu reducerea limfadenopatiei.
+această limfocitoză observată reprezintă un efect farmacodinamic și NU trebuie considerată boală progresivă, în absența altor constatări clinice.
+apare de obicei în primele câteva săptămâni de tratament cu ibrutinib (durata mediană de timp 1,1 săptămâni) și de obicei dispare într-un interval median de timp de 18,7 săptămâni la pacienții cu LLC.
+
+VIII. ATENȚIONĂRI ȘI PRECAUȚII SPECIALE:
+Ibrutinib NU trebuie administrat cu suc de grapefruit sau portocale de Sevilla.
+Warfarina sau alți antagoniști ai vitaminei K - NU trebuie administrați concomitent cu ibrutinib. Trebuie evitate suplimentele cum ar fi uleiul de pește și preparatele cu vitamina E.
+Tratamentul cu ibrutinib trebuie întrerupt pentru un interval minim de 3 - 7 zile pre- și post-operator în funcție de tipul intervenției chirurgicale și riscul de sângerare.
+În caz de leucostază trebuie luată în considerare întreruperea temporară a tratamentului cu ibrutinib.
+În prezența semnelor de boală pulmonară interstițială (BPI) se întrerupe tratamentul cu ibrutinib și se administrează tratament specific; dacă simptomatologia persistă se vor lua în considerare riscurile și beneficiile tratamentului cu ibrutinib și în cazul continuării tratamentului se vor respecta ghidurile de modificare a dozelor.
+La pacienții cu fibrilație atrială cu risc crescut de evenimente tromboembolice la care alternativele terapeutice pentru ibrutinib nu sunt adecvate se va avea în vedere administrarea unui tratament anticoagulant strict controlat.
+La pacienții cu fibrilație atrială preexistentă ce necesită terapie anticoagulantă se vor lua în considerare alternative terapeutice la ibrutinib.
+La pacienții cu risc de scurtare suplimentară a intervalului QT (ex: sindrom de QT scurt congenital sau existent acestui sindrom în antecedentele familiale) prescrierea ibrutinib trebuie făcută cu multă precauție și monitorizare atentă.
+În timpul tratamentului cu ibrutinib femeile aflate în perioada fertilă trebuie să utilizeze mijloace de contracepție.
+alăptarea trebuie întreruptă în timpul tratamentului cu ibrutinib
+risc de reactivare a hepatitei VHB+; se recomandă:
+testare pentru infecție VHB înaintea începerii tratamentului;
+la pacienții cu serologie pozitivă VHB decizia începerii tratamentului se ia împreună cu un medic specialist în boli hepatice
+monitorizare atentă a purtătorilor de VHB, împreună cu un medic expert în boală hepatică, pentru depistarea precoce a semnelor și simptomelor infecției active cu VHB, pe toată durata tratamentului și apoi timp de mai multe luni după încheierea acestuia.
+Venetoclax poate provoca scăderea rapidă a tumorii și astfel se asociază cu riscul de SLT (sindrom de liză tumorală) în faza inițială de ajustare a dozei cu durata de 5 săptămâni la toți pacienții cu LLC, indiferent de încărcătura tumorală și de alte caracteristici ale pacientului. Modificări ale valorilor electroliților sugestive pentru SLT care necesită tratament prompt pot să apară încă de la 6 până la 8 ore după administrarea primei doze de venetoclax și la fiecare creștere a dozei. Trebuie evaluați factorii specifici pacientului pentru nivelul riscului de apariție al SLT și trebuie asigurată o hidratare profilactică și trebuie administrate medicamente care scad acidul uric pacienților înainte de prima doză de venetoclax, pentru a reduce riscul de SLT. Înainte de începerea tratamentului cu venetoclax, trebuie evaluată încărcătura tumorală la toți pacienții, inclusiv radiologic (de exemplu, tomografie computerizată [CT]). Trebuie să se efectueze teste biochimice sanguine (potasiu, acid uric, fosfor, calciu și creatinină) și trebuie corectate valorile anormale pre-existente
+
+IX. PRESCRIPTORI
+Medici specialiști hematologi (sau, după caz, specialiști de oncologie medicală).
+Continuarea tratamentului se face de către medicul hematolog.”
+
+Protocolul terapeutic corespunzător poziției nr. 199 cod (L032C) se abrogă.
+
+Protocolul terapeutic corespunzător poziției nr. 206 cod (L047C) se abrogă.
+
+La anexa nr. 1, protocolul terapeutic corespunzător poziției nr. 213 cod (L04AX06): DCI POMALIDOMIDUM se modifică și se înlocuiește cu următorul protocol:
+
+”Protocol terapeutic corespunzător poziției nr. 213 cod (L04AX06): DCI POMALIDOMIDUM
+
+I. DEFINIȚIA AFECȚIUNII
+MIELOMUL MULTIPLU (MM)
+
+II. CRITERII DE INCLUDERE
+În asociere cu bortezomib și dexametazonă, pentru tratamentul pacienților adulți cu mielom multiplu cărora li s-a administrat cel puțin o schemă de tratament anterioară, inclusiv lenalidomidă.
+În asociere cu dexametazona, pentru tratamentul pacienților adulți cu mielom multiplu recidivat și refractar, cărora li s-au administrat cel puțin două scheme de tratament anterioare, incluzând lenalidomidă și bortezomib, și care au prezentat progresia bolii la ultimul tratament.
+
+III. CRITERII DE EXCLUDERE/CONTRAINDICAȚII
+hipersensibilitate la substanța activă sau la oricare dintre excipienți
+sarcina
+femei aflate în perioada fertilă, dacă nu sunt îndeplinite toate condițiile Programului de prevenire a sarcinii
+pacienți de sex masculin care nu pot urma sau respecta măsurile contraceptive necesare
+vârsta sub 18 ani
+
+IV. TRATAMENT
+Tratamentul trebuie inițiat și monitorizat sub supravegherea unor medici cu experiență în tratamentul mielomului multiplu; schema de tratament va fi menținută sau modificată, în funcție de datele clinice și de laborator.
+Mod de administrare:
+se administrează oral, la aceeași oră în fiecare zi.
+capsulele nu trebuie deschise, sfărâmate sau mestecate; capsulele trebuie înghițite întregi, de preferință cu apă, cu sau fără alimente
+dacă pacientul uită să administreze o doză de pomalidomidă într-o zi, atunci acesta trebuie să utilizeze doza prescrisă în mod normal în ziua următoare; doza nu trebuie ajustată pentru a compensa doza omisă în zilele anterioare
+se recomandă apăsarea pe un singur capăt al capsulei pentru scoaterea acesteia din blister, reducând astfel riscul deformării sau ruperii capsulei.
+Doza recomandată:
+Pomalidomidă în asociere cu bortezomib și dexametazonă
+Pomalidomida: doza inițială recomandată este de 4 mg o dată pe zi, administrată pe cale orală, în zilele 1 până la 14 ale fiecărui ciclu repetat de 21 zile.
+Bortezomib: doza inițială recomandată de este de 1,3 mg/m2, administrată o dată pe zi pe cale intravenoasă sau subcutanată, ȋn zilele prezentate ȋn Tabelul 1. Doza recomandată de dexametazonă este de 20 mg o dată pe zi, administrată pe cale orală, ȋn zilele prezentate ȋn Tabelul 1.
+Tratamentul cu pomalidomidă în asociere cu bortezomib și dexametazonă trebuie administrat până la apariția progresiei bolii sau a unei toxicități inacceptabile
+Pomalidomida este administrată în asociere cu bortezomib și dexametazonă, așa cum este prezentat în tabelul 1.
+Tabelul 1. Schema terapeutică recomandată pentru pomalidomida în asociere cu bortezomib și dexametazonă
+* Pentru pacienții cu vârsta > 75 ani, vezi Grupe speciale de pacienți.
+Grupe speciale de pacienți
+Vârstnici
+Pomalidomidă în asociere cu bortezomib și dexametazonă Nu este necesară ajustarea dozei pentru pomalidomidă.
+ Pentru pacienții cu vârsta > 75 ani, doza inițială de dexametazonă este de: • Pentru ciclurile 1 până la 8: 10 mg o dată pe zi în Zilele 1, 2, 4, 5, 8, 9, 11 și 12 ale fiecărui ciclu de 21 de zile • Pentru ciclurile 9 și ulterior: 10 mg o dată pe zi în Zilele 1, 2, 8 și 9 ale fiecărui ciclu de 21 de zile.
+Pomalidomidă în asociere cu dexametazonă Nu este necesară ajustarea dozei pentru pomalidomidă. Pentru pacienții cu vârsta > 75 ani, doza inițială de dexametazonă este de: • 20 mg o dată pe zi în ziua 1, 8, 15 și 22 a fiecărui ciclu de 28 zile.
+Modificarea sau întreruperea dozei de pomalidomidă
+Pentru a începe un nou ciclu de tratament cu pomalidomidă, numărul de neutrofile trebuie să fie ≥ 1 x 109/l și numărul de trombocite trebuie să fie ≥ 50 x 109/l.
+Instrucțiunile privind întreruperea sau scăderea dozei de pomalidomidă în cazul reacțiilor adverse asociate sunt prezentate în Tabelul 2, iar nivelurile de doză sunt definite în Tabelul 3 de mai jos:
+Tabelul 2. Instrucțiuni privind modificarea dozei de pomalidomidă
+Instrucțiunile privind modificarea dozei din acest tabel se aplică pomalidomidei în asociere cu bortezomib și dexametazonă și pomalidomidei în asociere cu dexametazonă.
+* În caz de neutropenie, medicul trebuie să ia în considerare utilizarea factorilor de creștere.
+** NAN - Număr absolut de neutrofile,
+*** HLG - Hemograma completă.
+
+Tabelul 3. Reducerea dozei de pomalidomidă
+Reducerea dozei din acest tabel se aplică pomalidomidei în asociere cu bortezomib și dexametazonă și pomalidomidei în asociere cu dexametazonă.
+Dacă reacțiile adverse apar după scăderi ale dozelor de până la 1 mg, administrarea medicamentului trebuie oprită.
+În  cazul în care apar reactii adverse care nu pot fi gestionate de catre medicul specialist cu  formelele farmaceutice disponibie în Romania (Pomalidomida 4 mg si Pomalidomida 3 mg),   se recomanda intreruperea temporara a tratamentului.
+
+Modificarea sau întreruperea dozei de dexametazonă
+Instrucțiunile privind întreruperea sau scăderea dozei pentru dexametazonă cu doză scăzută ȋn cazul reacțiilor adverse asociate, sunt prezentate în Tabelele 4 și 5 de mai jos.
+Tabelul 4. Instrucțiuni privind modificarea dozei de dexametazonă
+Dacă rezolvarea reacțiilor toxice se prelungește peste 14 zile, atunci se reia doza de dexametazonă la un nivel de doză cu o treaptă sub doza anterioară.
+Tabelul 5. Scăderea dozei de dexametazonă
+
+Dexametazona trebuie oprită dacă pacientul nu poate tolera doza de 8 mg în cazul celor cu vârsta ≤ 75 ani, sau doza de 4 mg în cazul celor cu vârsta > 75 ani.
+În cazul încetării definitive a oricărui component al schemei de tratament, continuarea terapiei cu medicamente rămase este la latitudinea medicului.
+Pomalidomidă în asociere cu dexametazona
+Pomalidomida: doza inițială recomandată este de 4 mg o dată pe zi, administrată pe cale orală în zilele 1 până la 21 ale ciclurilor repetate de 28 de zile.
+Dexametazona: doza recomandată este de 40 mg o dată pe zi, administrată pe cale orală, în zilele 1, 8, 15 și 22 ale fiecărui ciclu de tratament de 28 zile.
+Tratamentul cu pomalidomidă în asociere cu dexametazonă trebuie administrat până la apariția progresiei bolii sau a unei toxicități inacceptabile.
+Modificarea sau întreruperea dozei de pomalidomidă
+Instrucțiunile privind întreruperea sau scăderea dozei de pomalidomidă în cazul reacțiilor adverse mediate sunt prezentate în Tabelele 2 și 3.
+Modificarea sau întreruperea dozei de dexametazonă
+Instrucțiunile privind modificarea dozei de dexametazonă în cazul reacțiilor adverse asociate sunt prezentate în Tabelul 4. Instrucțiunile privind scăderea dozei de dexametazonă în cazul reacțiilor adverse asociate sunt prezentate în Tabelul 6 de mai jos. Cu toate acestea, deciziile privind întreruperea/reluarea dozei sunt la latitudinea medicului, conform versiunii actuale a Rezumatului caracteristicilor produsului (RCP).
+Tabelul 6. Scăderea dozei de dexametazonă
+
+Dexametazona trebuie oprită dacă pacientul nu poate tolera doza de 10 mg în cazul celor cu vârsta ≤ 75 ani, sau doza de 8 mg în cazul celor cu vârsta > 75 ani.
+
+V. MONITORIZAREA TRATAMENULUI. ATENȚIONĂRI și PRECAUȚII
+A. Teratogenicitate
+a. Pentru pacienții de sex feminin:
+Pomalidomida, asemănătoare din punct de vedere structural cu talidomida, nu trebuie utilizată în timpul sarcinii deoarece se prevede un efect teratogen.
+Condițiile Programului de prevenire a sarcinii trebuie îndeplinite în cazul tuturor pacientelor, cu excepția cazurilor în care există dovezi sigure privind faptul că pacientele respective nu se mai află în perioada fertilă.
+Criterii pentru femeile care nu se mai află în perioada fertilă (trebuie îndeplinit cel puțin unul dintre criterii):
+vârsta > 50 ani și amenoree instalată în mod natural de > 1 an (amenoreea instalată în urma tratamentului citostatic sau în timpul alăptării nu exclude posibilitatea ca pacienta să fie în perioada fertilă)
+insuficiență ovariană prematură confirmată de către un medic specialist ginecolog
+salpingo-ovarectomie bilaterală sau histerectomie în antecedente
+genotip XY, sindrom Turner, agenezie uterină
+Pomalidomida este contraindicată femeilor aflate în perioada fertilă, cu excepția cazurilor în care sunt îndeplinite toate condițiile următoare:
+pacienta înțelege riscul teratogen prevăzut pentru făt
+pacienta înțelege necesitatea utilizării unor măsuri contraceptive eficace, în mod continuu, începând cu cel puțin 4 săptămâni înaintea inițierii tratamentului, pe toată durata tratamentului și timp de cel puțin 4 săptămâni după întreruperea definitivă a tratamentului
+pacienta aflată în perioada fertilă trebuie să urmeze toate recomandările privind măsurile contraceptive eficace, chiar dacă prezintă amenoree
+pacienta trebuie să fie capabilă să aplice măsurile contraceptive eficace
+pacienta este informată și înțelege posibilele consecințele ale unei sarcini, precum și necesitatea de a consulta imediat un medic, în cazul în care există riscul de a fi gravidă
+pacienta înțelege necesitatea de a începe tratamentul imediat după ce i se eliberează pomalidomidă, în urma obținerii unui rezultat negativ la testul de sarcină
+pacienta înțelege necesitatea de a efectua teste de sarcină și acceptă efectuarea acestora la intervale de cel puțin 4 săptămâni, cu excepția cazurilor de sterilizare tubară confirmată
+pacienta confirmă că înțelege riscurile și precauțiile necesare asociate cu utilizarea pomalidomidei.
+Pentru femeile aflate în perioada fertilă, medicul care prescrie medicamentul trebuie să se asigure că:
+pacienta îndeplinește condițiile specificate în Programul de prevenire a sarcinii, incluzând confirmarea faptului că pacienta are o capacitate adecvată de înțelegere
+pacienta a luat cunoștință de condițiile menționate mai sus.
+
+b. Pentru pacienții de sex masculin
+datele farmacocinetice au demonstrat că pomalidomida este prezentă în sperma umană în timpul tratamentului.
+toți pacienții de sex masculin cărora li se administrează pomalidomidă trebuie să îndeplinească următoarele condiții:
+pacientul înțelege riscul teratogen prevăzut, în cazul în care are raporturi sexuale cu o femeie gravidă sau aflată în perioada fertilă.
+pacientul înțelege necesitatea utilizării prezervativelor dacă are raporturi sexuale cu o femeie gravidă sau aflată în perioada fertilă, care nu utilizează metode contraceptive eficace pe toată durata tratamentului, pe parcursul întreruperii administrării și timp de 7 zile după întreruperea administrării dozei și/sau oprirea tratamentului; sunt incluși și pacienții de sex masculin vasectomizați, care trebuie să utilizeze prezervativul dacă au raporturi sexuale cu o femeie gravidă sau aflată în perioada fertilă, întrucât lichidul seminal poate conține pomalidomidă chiar și în absența spermatozoizilor.
+pacientul înțelege că, dacă partenera sa rămâne gravidă în timp ce lui i se administrează pomalidomidă sau în decurs de 7 zile după ce acesta a încetat administrarea pomalidomidei, trebuie să își informeze imediat medicul curant, iar partenerei sale i se recomandă să se adreseze unui medic specialist sau cu experiență în teratologie, pentru evaluare și recomandări.
+
+c. Contracepție
+Femeile aflate în perioada fertilă trebuie să utilizeze cel puțin o metodă contraceptivă eficace timp de cel puțin 4 săptămâni înainte de tratament, pe durata tratamentului și timp de cel puțin 4 săptămâni după întreruperea definitivă a tratamentului cu pomalidomidă, inclusiv pe durata întreruperii temporare a tratamentului, cu excepția cazului în care pacienta se angajează să mențină o abstinență totală și continuă, confirmată lunar.
+Dacă nu utilizează o metodă contraceptivă eficace, pacienta trebuie să se adreseze personalului medical calificat, pentru recomandări privind inițierea contracepției.
+Metode contraceptive adecvate:
+implantul contraceptiv
+dispozitivul intrauterin cu eliberare de levonorgestrel
+acetatul de medroxiprogesteron, preparat retard
+sterilizarea tubară
+rapoarte sexuale numai cu un partener vasectomizat; vasectomia trebuie confirmată prin două analize ale spermei cu rezultate negative
+anticoncepționale care inhibă ovulația care conțin numai progesteron (desogestrel)
+Atenționări:
+pacientele cu mielom multiplu cărora li se administrează pomalidomidă și dexametazonă, prezintă un risc crescut de tromboembolie venoasă, ca urmare nu se recomandă administrarea de contraceptive orale combinate; dacă o pacientă utilizează în mod obișnuit un contraceptiv oral combinat, acesta trebuie înlocuit cu una dintre metodele contraceptive eficace enumerate mai sus; riscul tromboemboliei venoase se menține timp de 4-6 săptămâni după întreruperea administrării unui contraceptiv oral combinat.
+eficacitatea contraceptivelor steroidiene poate fi scăzută în timpul tratamentului concomitent cu dexametazonă.
+implanturile și dispozitivele intrauterine cu eliberare de levonorgestrel prezintă un risc crescut de infecție în momentul inserției și de apariție a hemoragiilor vaginale neregulate; trebuie evaluată necesitatea instituirii unui tratament profilactic cu antibiotice, în special la pacientele cu neutropenie.
+introducerea dispozitivelor intrauterine cu eliberare de cupru nu este în general recomandată, din cauza riscului potențial de infecție în momentul inserției și de apariție a unor pierderi de sânge semnificative la menstruație, care pot determina complicații la pacientele cu neutropenie severă sau trombocitopenie severă.
+
+d. Teste de sarcină
+femeile aflate în perioada fertilă trebuie să efectueze, sub supraveghere medicală, teste de sarcină având o sensibilitate de cel puțin 25 mUI/ml
+în mod ideal, testul de sarcină, emiterea prescripției medicale și eliberarea medicamentului trebuie efectuate în aceeași zi
+la femeile aflate în perioada fertilă, pomalidomida trebuie eliberată într-un interval de 7 zile de la data emiterii prescripției medicale.
+
+Înaintea inițierii tratamentului
+testul de sarcină trebuie efectuat, sub supraveghere medicală, în timpul consultației medicale în care se prescrie pomalidomidă sau într-un interval de 3 zile înaintea consultației, în condițiile în care pacienta a utilizat o metodă contraceptivă eficace timp de cel puțin 4 săptămâni.
+testul trebuie să confirme faptul că pacienta nu este gravidă în momentul inițierii tratamentului cu pomalidomidă.
+Monitorizarea pacientelor și oprirea tratamentului
+testul de sarcină trebuie repetat, sub supraveghere medicală, cel puțin la fiecare 4 săptămâni, inclusiv după cel puțin 4 săptămâni de la încheierea tratamentului, cu excepția cazurilor de sterilizare tubară confirmată.
+testele de sarcină trebuie efectuate în ziua consultației medicale în care se prescrie medicamentul sau în interval de 3 zile înaintea acestei consultații.
+e. Precauții suplimentare
+pacienții trebuie instruiți să nu dea niciodată acest medicament altei persoane, iar la sfârșitul tratamentului să restituie farmacistului toate capsulele neutilizate.
+pacienții nu trebuie să doneze sânge sau spermă în timpul tratamentului (inclusiv în cursul întreruperilor administrării dozei) și timp de 7 zile după întreruperea tratamentului cu pomalidomidă.
+prescripția la femeile aflate la vârsta fertilă poate fi efectuată pe o durată maximă de 4 săptămâni iar prescripția pentru toți ceilalți pacienți poate fi efectuată pe o durată maximă de 12 săptămâni.
+
+B. Alăptarea.
+din cauza reacțiilor adverse posibile ale pomalidomidei la copiii alăptați, trebuie luată decizia fie de a întrerupe alăptarea, fie de a întrerupe administrarea medicamentului, având în vedere beneficiul alăptării pentru copil și beneficiul terapiei pentru femeie.
+
+C. Evenimente hematologice (neutropenie / anemie / trombocitopenie):
+hemograma completă trebuie efectuată la momentul inițial, săptămânal în primele 8 săptămâni și apoi lunar.
+poate fi necesară modificarea dozei
+poate fi necesară administrarea substituției cu produse de sânge și/sau factori de creștere.
+
+D. Evenimente tromboembolice (predominant tromboză venoasă profundă și embolie pulmonară) și evenimente trombotice arteriale (infarct miocardic și accident vascular cerebral):
+evaluarea atentă a factorilor de risc preexistenți ai pacientului
+pacienții cu factori de risc cunoscuți pentru tromboembolie - incluzând tromboză precedentă - trebuie monitorizați strict
+scăderea la minim a tuturor factorilor de risc care pot fi modificați (ex: fumat, hipertensiune arterială și hiperlipidemie)
+se recomandă tratamentul anticoagulant (cu excepția cazului în care acesta este contraindicat): acidul acetilsalicilic, warfarina, heparina sau clopidogrel, în special la pacienții cu factori de risc trombotic suplimentari.
+medicamentele eritropietice, ca și medicamentele care pot crește riscul de evenimente tromboembolice, trebuie utilizate cu precauție.
+
+E. Tumori primare suplimentare (ex: cancerul cutanat nemelanomatos)
+evaluarea atentă a pacienților înaintea și în timpul tratamentului, utilizând măsurile standard de screening al neoplaziilor în vederea identificării tumorilor maligne primare și începerea tratamentului conform indicațiilor.
+
+F. Reacții alergice și reacții cutanate severe
+la utilizarea pomalidomidei au fost raportate angioedem și reacții cutanate severe, inclusiv Sindrom Stevens Johnson (SSJ), necroliză epidermică toxică (TEN) sau reacție la medicament cu eozinofilie și simptome sistemice (RMESS)
+administrarea pomalidomidei trebuie întreruptă în caz de erupție cutanată exfoliativă sau buloasă sau dacă se suspectează SSJ, TEN sau RMESS și nu trebuie reluată după întreruperea administrării din cauza acestor reacții.
+în caz de angioedem, administrarea de pomalidomidă trebuie încetată definitiv.
+pacienților cu antecedente de erupții cutanate tranzitorii asociate cu administrarea de lenalidomidă sau talidomidă nu trebuie să li se administreze pomalidomidă
+
+G. Reactivarea hepatitei B
+trebuie stabilit statutul viral al hepatitei B înainte de inițierea tratamentului cu pomalidomidă.
+pentru pacienții cu rezultat pozitiv la testul pentru infecția cu VHB, se recomandă adresarea
+către un medic specialist în tratamentul hepatitei B.
+trebuie procedat cu prudență la utilizarea pomalidomidei în asociere cu dexametazonă la pacienții cu antecedente de infecție cu VHB, inclusiv pacienții care au status pozitiv pentru anticorpi anti-HBc, dar negativ pentru AgHBs; acești pacienți trebuie monitorizați cu atenție pentru depistarea semnelor și simptomelor de infecție activă cu VHB pe parcursul tratamentului.
+H. Insuficiența renală
+la pacienții aflați în regim de hemodializă, în zilele în care se efectuează ședințe de hemodializă, doza de pomalidomidă trebuie administrată după efectuarea hemodializei.
+
+I. Disfuncție cardiacă
+s-au raportat evenimente cardiace, inclusiv insuficiență cardiacă congestivă, edem pulmonar și fibrilație atrială, în principal la pacienți cu boală cardiacă preexistentă sau factori de risc cardiac.
+precauție adecvată; monitorizare periodică pentru depistarea semnelor sau simptomelor de evenimente cardiace.
+
+J. Boală pulmonară interstițială (BPI)
+evaluare precaută a pacienților cu debut acut sau cu o agravare inexplicabilă a simptomelor pulmonare, în vederea excluderii BPI.
+tratamenul cu pomalidomidă trebuie întrerupt pe durata investigării acestor simptome și, în cazul confirmării BPI, trebuie inițiat tratamentul adecvat.
+administrarea pomalidomidei trebuie reluată numai după o evaluare completă a beneficiilor și riscurilor.
+
+K. Neuropatie periferică
+la pacienții cu neuropatie periferică manifestă ≥ gradul 2 se impune precauție când se ia în considerare tratamentul cu pomalidomidă
+
+VI. CRITERII DE EVALUARE A EFICACITĂȚII TERAPEUTICE
+Se utilizează criteriile elaborate de către Grupul Internațional de Lucru pentru Mielom (IMWG).
+PC = plasmocite; MO = maduva osoasa; CR = raspuns complet; VGPR = raspuns partial foarte bun; PR = raspuns partial; ASO-PCR = reactia în lant a polimerazei, specifica anumitor alele; FLC = lanturi usoare libere.
+VII. PRESCRIPTORI:
+Inițierea și continuarea tratamentului se face de către medicii din specialitatea hematologie.”
+
+La anexa nr. 1, protocolul terapeutic corespunzător poziției nr. 217 cod (M05BX04): DCI DENOSUMAB (PROLIA) se modifică și se înlocuiește cu următorul protocol:
+
+”Protocol terapeutic corespunzător poziției nr. 217 cod (M05BX04): DCI DENOSUMAB (PROLIA)
+
+I. Indicații:
+Tratamentul osteoporozei la femeile în postmenopauză cu risc crescut de fracturi după tratamentul inițiat cu bifosfonați sau care au intoleranță sau contraindicație la bifosfonați.
+
+II. Criterii de includere
+A. Pacienți (femei în postmenopauză) cu osteoporoză care au primit terapie antiresorbtivă minim 3 ani și care îndeplinesc unul dintre cele 2 criterii de mai jos:
+a.au avut fractură de fragilitate definită ca fractură spontană sau la traumatisme minime apărută în perioada de adult
+b.au scor T< = 2 DS și asociază alți 3 factori de risc din tabelul de mai jos
+
+* factori de risc care se vor proba pe baza declarației pacientului
+
+B. Pacienți (femei în postmenopauză) cu osteoporoză la care tratamentul cu bisfosfonați este contraindicat, sau există intoleranță la tratamentul cu bisfosfonați;
+
+C. Pacienți (femei în postmenopauză) cu osteoporoză în condițiile lipsei de răspuns la tratamentul cu bisfosfonați. Lipsa de răspuns este definită ca minim 12 luni de tratament cu bifosfonați și unul dintre cele 2 criterii de mai jos:
+a.apariția unei fracturi de fragilitate în perioada tratamentului, după minim 12 luni de la inițierea acestuia
+b.pierdere de densitate minerală osoasă (DMO) măsurată prin DXA (dual x-ray absorbtiometry = absorbțiometrie duală cu raze X), > = 5% la nivelul coloanei lombare sau colului femural, sau 4% la nivelul șoldului total, repetată la > = 1 an
+D. Pacienți (femei în postmenopauză) aflați deja în tratament cu denosumab și care, la momentul inițierii tratamentului cu denosumab, respectau indicația compensată și unul din criteriile de eligibilitate de mai sus. Pauza de tratament (drug holiday) nu se recomandă.
+
+E. Pacienți (femei în postmenopauză) cu osteoporoză tratati anterior cu terapie anabolizanta
+III. Inițierea tratamentului (documente/investigații):
+Dacă este cazul, DXA șold și/sau DXA coloană. În condițiile imposibilității măsurării DMO la nivelul coloanei lombare și șoldului, se va efectua DXA antebraț (33% radius)
+Imagistică - pentru documentarea diagnosticului de fractură, una din următoarele: radiografie simplă, RMN, CT sau documente medicale justificative pentru alte fracturi de fragilitate nonvertebrale;
+Tratament anterior pentru osteoporoză;
+Calcemie, fosfatemie, creatinină/clearance creatinină, 25 OH vitamina D (determinarea nu este necesară în cazul în care pacientul se află în terapie cu alfacalcidol), alte investigații necesare pentru screening-ul cauzelor secundare de osteoporoză conform recomandării medicului curant
+
+IV. Doze și mod de administrare
+Doza recomandată de Prolia este de 60 mg administrată sub forma unei singure injecții subcutanate, o dată la 6 luni la nivelul coapselor sau abdomenului sau a brațului.
+
+Pacienții trebuie să primească suplimente adecvate de calciu (1000-1200 mg/zi) și vitamină D (800-1000 UI/zi) în cazul suficienței de vitamină D și al unei funcții renale normale. Se va corecta deficitul de vitamină D dacă există, și se administrează metaboliți activi ai vitaminei D la cei cu funcție renală afectată, la indicația medicului curant.
+
+V. Criterii de excludere
+Hipersensibilitate la substanța activă sau la oricare dintre excipienți. (lista excipienți: Acid acetic glacial; Hidroxid de sodiu; Sorbitol (E420); Polisorbat 20; Apă pentru preparate injectabile).
+
+VI. Alte precauții și recomandări
+Este important să se identifice pacienții cu risc pentru hipocalcemie. Hipocalcemia trebuie corectată printr-un aport corespunzător de calciu și vitamină D înainte de începerea tratamentului. Se recomandă monitorizarea clinică a concentrației de calciu înainte de fiecare doză, și la pacienții cu predispoziție la hipocalcemie (în mod special la cei cu insuficiență renală severă), în decurs de două săptămâni după doza inițială.
+Dacă un pacient prezintă simptome suspecte de hipocalcemie în timpul tratamentului, trebuie măsurată calcemia.
+Pauza de tratament (Drug holiday) nu este recomandată, deoarece markerii biochimici ai turnoverului osos revin la nivelul inițial al tratamentului cu denosumab în 18-24 luni, iar riscul de fracturi noi vertebrale va crește.
+Întreruperea tratamentului cu denosumab, în cazul unor reacții adverse sau ameliorării semnificative a riscului de fractură se va face la recomandarea medicului specialist, cu recomandarea continuării tratamentului minim 1 an cu bifosfonat cu remanență osoasă mare, pentru a evita creșterea riscului de fracturi la întreruperea tratamentului cu denosumab.
+
+VII. Monitorizare
+Perioadele de timp la care se face evaluarea (monitorizarea sub tratament): evaluare DXA la 2 ani sau la recomandarea medicului curant;
+Analize biochimice: calcemie, fosfatemie, creatinină/clearance creatinină, la 6 luni.
+
+VIII. Medicii prescriptori
+Inițierea și continuarea se face de către medici cu specialitatea endocrinologie, reumatologie, medicină fizică și de reabilitare.”
+
+La anexa nr. 1, protocolul terapeutic corespunzător poziției nr. 261 cod (R03DX05): DCI OMALIZUMABUM se modifică și se înlocuiește cu următorul protocol:
+
+”Protocol terapeutic corespunzător poziției nr. 261 cod (R03DX05): DCI OMALIZUMABUM
+
+Indicații terapeutice:
+Astmul alergic sever refractar insuficient controlat cu doze mari de corticosteroid inhalator în asociere cu beta-2 agonist cu durată lungă de acțiune, cu nivele de IgE serice totale în intervalul acceptat (30UI/ml-1500UI/ml)
+
+Criterii de includere:
+
+adulti, adolescenți și copii cu vârsta peste 6 ani
+diagnostic de astm sever, conform recomandarilor Strategiei Globale pentru Managementul și Prevenirea Astmului (GINA);
+alergie IgE mediată confirmată prin una din (inclusiv în antecedente):
+test cutanat prick pozitiv la minimum un aeroalergen peren;
+IgE specifice prezente la minimum un aeroalergen peren (peste nivelul prag indicat de laborator);
+management al astmului optimizat de către medicul specialist, cu durată de urmărire de minimum 6 luni, care să includă:
+tratament cu corticosteroizi inhalatori în doză mare, conform recomandărilor GINA (vezi tabel anexa 1), în asociere cu beta-2 agonist cu durată lungă de acțiune timp de minimum 6 luni (tehnică inhalatorie corectă și aderență la tratament confirmată de medicul curant);
+managementul corect al comorbidităților (rinosinuzită cronică, reflux gastroesofagian, tulburări psihice etc.) sau altor condiții (fumatul de țigarete);
+lipsa de control al astmului, conform ghidului GINA, definită prin una din:
+a) control redus al simptomelor (scor ACT < 20 sau scor ACQ > 1,5)
+b)	exacerbari frecvente (= 2/an) care necesita corticoseroizi orali sau exacerbari severe (= 1/an) care necesita spitalizare
+
+Criterii de excludere:
+Hipersensibilitate / intoleranță la omalizumab sau la unul din excipienți
+
+Tratament:
+Posologie:
+Doza și frecventa administrarii adecvate de Xolair pentru aceste afecțiuni sunt stabilite in functie de cantitatea initiala de lgE (Ul/ml), determinata inainte de inceperea tratamentului și greutatea corporala (kg). Tnainte de administrarea dozei initiale, pacientilor trebuie sa li se determine concentratia lgE prin orice determinare uzuala a lgE totale serice, pentru stabilirea dozei.
+Pe baza acestor determinari, pentru fiecare administrare pot fi necesare 75 pâna la 600 mg de Xolair, administrate fractionat in 1 pana la 4 injectari.
+Doza administrata și intervalul în funcție de masa corporala și de nivelul lgE serice totale sunt figurate in tabel (anexa 2).
+Omalizumab nu trebuie administrat pacientilor care, inainte de inceperea tratamentului, prezinta valori ale concentratiei plasmatice de lgE sau ale greutatii corporale, exprimate in kilograme, in afara limitelor din tabelul de dozare.
+Doza maxima recomandata este de 600 mg omalizumab la fiecare doua saptamani
+Durata: Omalizumab se administrează inițial pe o durată de 16 săptămâni, urmată de o evaluare de către medicul curant pentru a stabili efectul tratamentului asupra controlului astmului (vezi monitorizare). În cazul unui efect favorabil, tratamentul se administrează indefinit, cu reevaluarea anuală a efectului și continuarea tratamentului la cei cu efect favorabil.
+
+ Mod de administrare
+Omalizumab se administreaza injectabil subcutanat. Omalizumab nu trebuie administrat pe cale intravenoasa sau intramusculara.
+Pacienții fara antecedente cunoscute de anafilaxie iși pot autoadministra omalizumab sau medicamentul le poate fi administrat de un apartinator, incepand cu doza a patra, daca un medic stabilește ca acest lucru este adecvat. Pacientul sau apartinatorul trebuie sa fi fost instruit anterior cu privire la tehnica corecta de injectare și la recunoașterea primelor semne și simptome ale reacțiilor adverse grave.
+ Reactii adverse posibile
+În timpul studiilor clinice privind astmul alergic la adulti și adolescenti cu varsta de 12 ani și peste, cele mai frecvente reactii adverse raportate au fost cefaleea și reactiile la locul injectarii, incluzand durere la locul injectarii, inflamatie, eritem și prurit. ln studiile clinice la copii cu varsta cuprinsa intre 6 și < de 12 ani, reactiile adverse cel mai frecvent raportate au inclus cefalee, pirexie și dureri în regiunea abdominala superioara. Majoritatea acestor reactii au avut o severitate ușoara sau moderata.
+Raportarea reactiilor adverse: profesioniștii din domeniul sanatatii sunt rugati sa raporteze orice reactie adversa suspectata prin intermediul sistemului national de raportare (https://adr.anm.ro).
+
+Atentionari și precautii pentru utilizare
+1. Reactii alergice de tip 1
+Daca apar alte reacții alergice grave sau o reacție anafilactica, administrarea omalizumab trebuie întrerupta imediat și trebuie inițiat tratament adecvat. Pacientii trebuie informati ca sunt posibile reactii de acest tip și, în cazul aparitiei reactiilor alergice, trebuie solicitata ingrijire medicala prompta.
+2. Boala serului
+Boala serului și reacții asemănatoare bolii serului, care sunt reactii alergice de tip III întarziate, au fost observate la pacientii tratati cu anticorpi monoclonali umanizati, din care face parte omalizumab. De obicei, debutul a avut loc la 1-5 zile de la administrarea primei injectii sau a injectiilor ulterioare, și dupa un tratament de lunga durata. Simptomele care sugereaza boala serului includ artrita/artralgii, eruptii cutanate (urticarie sau alte forme), febra și limfadenopatie. Antihistaminicele și corticosteroizii pot fi utili pentru prevenirea sau tratarea acestei afectiuni, iar pacientii trebuie sfatuiti sa raporteze orice simptome suspectate.
+3.Sindromul Churg-Strauss și sindromul hipereozinofilic
+Rar, pacienții cu astm sever pot prezenta sindrom hipereozinofilic sistemic sau vasculita granulomatoasa eozinofilica alergica (Sindrom Churg-Strauss), ambele fiind de obicei tratate cu corticosteroizi cu administrare sistemica.
+tn cazuri rare, pacientii tratati cu medicamente antiasmatice, inclusiv omalizumab, pot prezenta sau dezvolta eozinofilie sistemica și vasculita. Aceste evenimente sunt frecvent asociate cu reducerea tratamentului cu corticosteroizi administrati oral.
+La acești pacienti, medicul trebuie sa fie atent la aparitia eozinofiliei marcate, eruptiilor vasculitice, agravarea simptomelor pulmonare, anomaliilor sinusurilor paranazale,complicatiilor cardiace și/sau neuropatiei.
+În toate cazurile severe ale tulburarilor sistemului imunitar mentionate mai sus trebuie avuta in vedere intreruperea administrarii omalizumab.
+4. Infestari parazitare (helminti)
+lgE pot fi implicate in raspunsul imunitar in cazul unor infestari helmintice. Este necesara prudenta la pacientii cu risc crescut de infestari helmintice, in special Tn cazul calatoriilor in zone in care infestarile helmintice sunt endemice.
+ln cazul in care pacientii nu raspund la tratamentul anti-helmintic recomandat, trebuie avuta în vedere intreruperea tratamentului cu omalizumab.
+5. Omalizumab nu a fost studiat la pacientii cu sindrom hiperimunoglobulinic E sau aspergiloza bronhopulmonara alergica sau pentru profilaxia reactiilor anafilactice, inclusiv a celor provocate de alergeni alimentari, dermatita atopica sau rinita alergica. Omalizumab nu este indicat pentru tratamentul acestor afectiuni.
+6. Tratamentul cu omalizumab nu a fost studiat la pacientii cu tulburari autoimune, conditii mediate de complexe imune sau cu insuficienta renala sau hepatica pre-existente. Se recomanda prudenta atunci cand omalizumab este administrat la aceste populatii de pacienti.
+7. Dupa inceperea tratamentului cu omalizumab, nu se recomanda intreruperea brusca a corticosteroizilor administrati sistemic sau inhalator. Reducerea dozei de corticosteroizi trebuie efectuata sub supravegherea directa a unui medic și poate fi necesar ca aceasta sa fie efectuata gradat.
+
+Monitorizarea tratamentului:
+Evaluarea pacientului după 16 săptămâni de tratament printr-o evaluare globală a medicului specialist care se bazează pe (și se justifică prin) compararea următorilor parametri cu valorile preexistente tratamentului cu omalizumab:
+controlul astmului printr-un chestionar ACT sau ACQ (anexele 3 și 4);
+frecvența exacerbărilor severe;
+spirometrii minim 3 pe an
+
+Pe baza acestor parametri medicul specialist curant va clasifica răspunsul la tratament ca:
+răspuns favorabil complet (toate criteriile: ameliorarea scorului simptomatic ACT cu minimum 3 pct sau a scorului simptomatic ACQ cu minimum 0.5 pct; ameliorarea sau menținerea funcției pulmonare; lipsa exacerbărilor severe în ultimele 4 luni);
+răspuns parțial favorabil (cel puțin 1 criteriu de răspuns favorabil);
+răspuns nefavorabil sau agravare
+
+Tratamentul va fi continuat numai pentru pacienții cu răspuns favorabil (complet sau parțial) la 16 săptămâni de administrare de omalizumab.
+Pentru pacienții care vor continua tratamentul peste 16 săptămâni evaluarea va fi anuală după aceleași criterii ca mai sus, cu decizia de a continua tratamentul în cazul în care se menține efectul favorabil inițial.
+
+Criterii pentru intreruperea tratamentului
+Intreruperea tratamentului cu Omalizumab
+decizia pacientului de a întrerupe tratamentul cu Omalizumab, contrar indicației medicale;
+decizie medicală de întrerupere a tratamentului cu Omalizumab în cazul intoleranței la tratament sau efectului insuficient sau absent.
+
+Prescriptori
+Medicamentul poate fi prescris de către medicii din specialitățile pneumologie, pediatrie, alergologie și imunologie clinică. ”
+
+La anexa nr. 1, protocolul terapeutic corespunzător poziției nr. 282 cod (D11AH05-A): DCI DUPILUMABUM se modifică și se înlocuiește cu următorul protocol:
+
+”Protocol terapeutic corespunzător poziției nr. 282 cod (D11AH05-A): DCI DUPILUMABUM
+
+Indicații terapeutice
+
+Adulți și adolescenți
+Dupilumab este indicat la adulți și adolescenți cu vârsta de 12 ani și peste, ca terapie adăugată de întreținere pentru astm sever, însoțit de inflamație de tip Th2, care este inadecvat controlata cu doze mari de corticosteroizi inhalatori (CSI) plus un alt medicament utilizat ca tratament de întreținere.
+
+Copii cu vârsta cuprinsă între 6 ani și 11 ani
+Dupilumab este indicat la copii cu vârsta cuprinsă între 6 ani și 11 ani, ca terapie adăugată de întreținere pentru astm sever, însoțit de inflamație de tip Th2, care este inadecvat controlata cu doze medii până la mari de corticosteroizi inhalatori (CSI) plus un alt medicament utilizat ca tratament de întreținere.
+
+Inflamația de tip Th2 este o componenta importanta în mecanismul fiziopatologic al astmului.
+
+Dupilumab este un anticorp monoclonal uman  de tip IgG4 care exercită o acțiune inhibitorie asupra semnalizării celulare a interleukinei-4 (IL-4) și interleukinei-13(IL-13).
+
+Dupilumab inhibă semnalizarea celulară a IL-4 prin intermediul receptorului de tip I (IL-4 Rα/γc), precum și semnalizarea celulară a IL-4 și IL-13 prin intermediul receptorului de tip II (IL-4 Rα/IL-13Rα). IL-4 și IL-13 sunt factorii principali implicați în afecțiunile inflamatorii de tip Th2 la om, cum este astmul de tip Th2.
+
+La pacienții tratați cu Dupilumab se produce blocarea timpurie a cascadei inflamatorii de tip Th2, interferând receptorii specifici pentru IL-4 si IL-13 și determinând un efect în lanț asupra  unui număr mare de mediatori proinflamatori.
+
+II. Criterii de includere a pacientilor cu astm sever in tratament cu dupilumab
+
+a) Criterii de includere:
+1. Adulți si adolescenți cu astm sever cu vârsta de 12 ani si peste;
+
+2. Copii cu astm sever cu vârsta cuprinsă între 6 ani și 11 ani
+
+3. Pacienți cu astm sever inadecvat controlat (avand exacerbări în ultimul an) cu doze mari de  corticosteroizi inhalatori (CSI) sau controlați doar cu doze de corticosteroizi de administrare orală (CSO) (fie cea mai mica doza posibilă de CSO în cure intermitente, fie pacienți corticodependenți) care la evaluarea fenotipului de astm sever au un tip Th2 si conform recomandărilor Strategiei Globale pentru Managementul și Prevenirea Astmului (GINA  2022) încă prezintă:
+Eozinofile in sânge ≥ 150 elemente/μL și mai puțin de 1500 elemente/ μL
+sau
+FeNO ≥ 20 ppb
+sau
+Eozinofile in sputa ≥ 2%
+sau
+Elemente ale astmului alergic (pacienti sensibilizati la un aeroalergen avand IgE >30 UI/ml - 1300 UI/ml)
+sau
+Necesitatea mentinerii CSO pentru a asigura controlul si lipsa exacerbarilor frecvente (≥ 2/an) care necesită corticoseroizi orali sau exacerbări severe (≥ 1/an) care necesită spitalizare.
+
+Daca eozinofilele si/sau FeNO nu sunt crescute se recomandă repetarea de până la 3 ori a determinarilor, la cel putin 1-2 săptămâni de la oprirea OCS sau de la reducerea la cea mai mica doza de OCS necesara pentru un control relativ al bolii.
+4. Management al astmului prescris de către medicul specialist, cu durată de urmărire de minimum 6 luni, care să includă:
+tratament cu corticosteroizi inhalatori în doză mare, conform recomandărilor GINA (Anexa 1), în asociere cu beta-2 agonist cu durată lungă de acțiune (tehnică inhalatorie corectă și aderență la tratament confirmată de medicul curant);
+managementul corect al comorbidităților (rinosinuzită cronică, reflux gastroesofagian, tulburări psihice etc.) sau al altor condiții (fumatul de țigarete sau vaping);
+
+5. Lipsa de control al astmului, conform ghidului GINA 2022, definită prin una dintre:
+control redus al simptomelor (simptome frecvente sau utilizarea frecventă a terapiei de ameliorare a simptomelor, activitate limitată de astm, treziri nocturne cauzate de astm);27
+exacerbări frecvente (≥ 2/an) care necesită corticosteroizi orali sau exacerbări severe (≥ 1/an) care necesită spitalizare.
+
+*CSO – corticoterapie orala
+*CSI - corticoterapie inhalatorie
+*FeNO – fracția de oxid nitric in aerul exhalat
+
+b) Criterii de excludere din tratamentul cu dupilumab
+copii cu vârsta sub 6 ani, având astm bronșic sever
+
+Contraindicații
+Hipersensibilitate/intoleranță la dupilumab sau la unul din excipienți
+
+III. Tratament
+
+Posologie
+
+Doza recomandată la adulți și adolescenți (cu vârsta de 12 ani și peste):
+La următoarele categorii de pacienți se recomanda o doză inițială de 600 mg (două injecții de 300 mg), urmată de administrarea a 300 mg ca injecție subcutanată la interval de 2 săptămâni
+pacienți cu astm sever și care se află în tratament de menținere cu corticosteroizi orali
+pacienți cu astm sever și dermatită atopică moderată până la severă concomitentă
+adulți cu astm sever și cu rinosinuzită cronică severă concomitentă, însoțită de polipoză nazală
+
+Pentru toți ceilalți pacienți, se recomanda o doză inițială de 400 mg (două injecții de 200 mg),
+urmată de administrarea a 200 mg ca injecție subcutanată la interval de 2 săptămâni.
+
+Doza recomandată la copii cu vârsta cuprinsă între 6 ani și 11 ani,  în funcție de greutate:
+
+ La copiii cu astm bronșic și dermatită atopică severă asociată, conform indicației aprobate, doza recomandată este:
+
+*doza poate fi crescută la 200 mg, cu administrare la interval de 2 săptămâni, pe baza evaluării medicului
+
+2. Durata terapiei: dupilumab este indicat în tratamentul pe termen lung. Decizia de a continua terapia trebuie stabilită la prima reevaluare (la 4 luni de la initiere, conform GINA 2022) si apoi cel puțin anual, în funcție de gradul de control, estimat prin severitatea afecțiunii și prin frecvența exacerbărilor. Tratamentul va fi continuat inca 6-12 luni pentru pacienții la care se menține răspunsul parțial favorabil, apoi reevaluare. Medicația va fi prelungită apoi doar la cei cu raspuns bun, in baza evaluării anuale.
+
+3. Mod de administrare
+
+Stiloul injector (pen-ul) preumplut de dupilumab nu este destinat utilizării la copii cu vârsta sub 12 ani. Pentru copiii cu vârsta cuprinsă între 6 ani și 11 ani, forma de prezentare adecvată pentru administrarea la această grupă de pacienți este seringa preumplută de dupilumab.
+
+Dupilumab se administrează injectabil, subcutanat, la nivelul coapsei sau abdomenului, cu excepția unei zone circulare cu o rază de 5 cm situată periombilical, și în regiunea superioară a brațului. Administrarea la nivelul regiunii superioare a brațului este recomandata doar dacă dupilumab este administrat de o altă persoană .
+
+Fiecare seringă preumplută/stilou injector (pen) preumplut sunt pentru o singură utilizare.
+
+Pentru doza inițială de 600 mg se administrează consecutiv două injecții de  300 mg, în două locuri de administrare diferite. Se recomandă utilizarea alternativă a locurilor de administrare a injecției, la fiecare injecție în parte.
+
+Dupilumab nu trebuie administrat injectabil la nivelul pielii sensibile, lezate sau care prezintă echimoze ori cicatrici.
+
+Tratamentul cu dupilumab poate fi administrat injectabil la domiciliu, dacă medicul curant stabilește că acest lucru este adecvat, fie prin autoadministrare, fie administrat de persoana care îngrijește pacientul.
+
+Se recomandă ca prima doză să se administreze sub supraveghere, în spital sau în cabinetul medical al specialistului ce inițiaza terapia.
+
+Pacienților și/sau persoanelor care îngrijesc pacienții trebuie să li se asigure instruirea corespunzătoare privind pregătirea și administrarea dupilumab, anterior utilizării.
+
+În cazul pacienților copii, cu vârsta cuprinsă între 6 și 11 ani, administrarea primelor două doze de dupilumab se vor face sub supravegherea medicului prescriptor, următoarele putând fi efectuate în cabinetul medicului de familie,  până la vizita de reevaluare, vizită destinată stabilirii existenței unui răspuns terapeutic. Ulterior, aparținătorii pot opta, în baza unui instructaj adecvat  și a unui consimțământ semnat pentru administrare la domiciliu, de către persoana care îngrijește pacientul.
+
+4. Doză omisă. Dacă este omisă administrarea unei doze la interval de două săptămâni, injecția trebuie administrată în decurs de 7 zile de la doza omisă, apoi reluați schema terapeutică inițială a pacientului. Dacă doza omisă nu este administrată în decurs de 7 zile, așteptați până la următoarea doză conform programului inițial. Dacă este omisă administrarea unei doze la interval de 4 săptămâni, injecția trebuie administrată în decurs de 7 zile de la doza omisă, apoi reluați schema terapeutică inițială a pacientului. Dacă doza omisă nu este administrată în decurs de 7 zile, administrați doza, începând o nouă schemă terapeutică de la această dată
+
+5. Reacții adverse posibile
+
+Reacții de hipersensibilitate: Dacă apare o reacție de hipersensibilitate sistemică (imediată sau
+întârziată), administrarea dupilumab trebuie întreruptă imediat și trebuie inițiată terapia adecvată.
+Au fost raportate cazuri de reacție anafilactică, angioedem și boală a serului/reacții asemănătoare cu boala serului. Cazurile de reacție anafilactică și angioedem au debutat în decurs de câteva minute până la șapte zile după administrarea injectabilă a dupilumab.
+128
+Alte reacții adverse frecvente pot fi: reacții la locul de administrare al injecției (includ eritem,
+edem, prurit, durere și inflamație), conjunctivită, artralgie, herpes oral și eozinofilie.
+Au fost raportate cazuri rare de boală a serului, reacții asemănătoare cu boala serului, reacție anafilactică și keratită ulcerativă.
+
+Raportarea reacțiilor adverse.
+Profesioniștii din domeniul sănătății trebuie să raporteze imediat orice reacție adversă suspectată a fi produsa de trapia cu dupilumab prin intermediul sistemului național de raportare (https://adr.anm.ro).
+
+IV. Atentionari si precautii speciale pentru utilizare
+
+1. Pacienții care prezintă infestări cu helminți preexistente trebuie tratați înainte de inițierea
+tratamentului cu dupilumab. Dacă pacienții se infestează în timpul tratamentului cu dupilumab și nu răspund la tratamentul antihelmintic, administrarea dupilumab trebuie întreruptă până la eliminarea infestării.
+2. Pacienții aflați în tratament cu dupilumab pot fi imunizați cu vaccinuri cu virusuri inactivate sau ce conțin subunități/fragmente virale (de exemplu vaccinarea pentru gripa sezonieră cu virus inactivat).  Vaccinurile vii și vaccinurile vii atenuate nu trebuie administrate concomitent cu dupilumab, întrucât siguranța și eficacitatea clinică nu au fost încă stabilite. Se recomandă ca imunizarea pacientului cu vaccinuri vii și vaccinuri vii atenuate să fie adusă la zi, în conformitate cu ghidurile în vigoare privind imunizarea, înainte de administrarea tratamentului cu dupilumab.
+3. Dupilumab nu trebuie utilizat în timpul sarcinii, cu excepția cazului în care beneficiul potential justifică riscul posibil pentru făt. Se recomanda si opinia medicului ginecolog. Nu se cunoaște dacă dupilumab se excretă în laptele uman sau se absoarbe sistemic după ingestie. Trebuie luată decizia fie de a întrerupe alăptarea, fie de a întrerupe tratamentul cu dupilumab, având în vedere beneficiul alăptării pentru copil și beneficiul tratamentului pentru mamă. Se recomandă și opinia medicului pediatru/neonatolog
+4. Administrarea corticosteroizilor pe cale sistemică, topică sau inhalatorie nu trebuie întreruptă brusc la inițierea tratamentului cu dupilumab. Scăderea dozei de corticosteroizi, dacă este cazul, trebuie efectuată progresiv și sub directa supraveghere a unui medic.
+5. Pacienții trebuie instruiți să solicite asistență medicală în cazul în care astmul nu este controlat sau dacă se agravează după inițierea tratamentului.
+6. Intercurentele respiratorii apărute în timpul tratamentului nu necesită întreruperea administrării de dupilumab și trebuiesc tratate conform practicii curente vizând exacerbările.
+
+V. Monitorizarea tratamentului cu dupilumab
+
+Evaluarea țintei terapeutice de către medicul specialist privind severitatea bolii și a  gradului de control al exacerbărilor se va face cel puțin la 4 luni de la inițierea tratamentului, prin următorii parametri (comparativ cu valorile preexistente inițierii tratamentului cu dupilumab):
+1. Controlul astmului prin chestionarele de control al astmului la adult și copil ACT/ACTc sau ACQ (Anexele 2 și 3);
+2. Prezența si frecvența exacerbărilor severe;
+3. Spirometrii  (in mod ideal vor fi facute 2 pe an, minim 1).
+
+Pe baza acestor parametri medicul curant va clasifica răspunsul la tratament ca:
+
+1. Răspuns favorabil complet pentru toate criteriile:
+ameliorarea scorului simptomatic ACT (vezi valorile de punctaj aferente controlului complet, pe varste) sau a scorului simptomatic ACQ cu minimum 0.5 puncte;
+ameliorarea sau menținerea funcției pulmonare;
+dispariția exacerbărilor severe.
+
+2. Răspuns parțial favorabil (cel puțin 1 criteriu de răspuns favorabil);
+
+3. Răspuns nefavorabil (niciun criteriu de răspuns favorabil) sau agravare.
+
+Tratamentul va fi continuat numai pentru pacienții la care se menține răspunsul favorabil (complet sau parțial) pe o perioada de inca 6-12 luni, apoi reevaluare. Vor continua tratamentul cu dupilumab doar pacientii cu raspuns favorabil. Monitorizarea pacientilor si deciziile terapeutice vor fi personalizate in baza reevaluarilor la 3-6 luni interval.
+
+VI. Criterii pentru întreruperea tratamentului
+
+Oprirea tratamentului cu dupilumab se face prin:
+1. Decizia unilaterala a pacientului de a întrerupe tratamentul;
+2. Decizia medicală de întrerupere a tratamentului în cazul intoleranței la tratament, a lipsei de aderența la tratament si la planul scris de actiune privind controlul bolii sau a răspunsului nefavorabil (lipsa răspunsului) după vizita de la 16 săptămâni de la inițierea făcută de specialist sau la vizita ce survine după perioada de extensie de 6-12 luni, recomandată la cei cu răspuns parțial favorabil, la momentul primei reevaluări.
+
+VII. Prescriptori
+
+Medicii care pot iniția terapia cu dupilumab sunt cei din specialitățile pneumologie, alergologie și imunologie clinică, pneumologie pediatrica, pediatrie. Continuarea prescripției poate fi făcuta și de către medicii din ambulatoriu de specialitate clinic, in specialitățile mai sus mentionate sau de către medicul de familie, în baza scrisorii medicale transmisa de medicul care a initiat tratamentul,  in dozele si pe durata prevazuta in aceasta (până la reevaluare). Calendarul reevaluărilor necesare fiecarui caz in parte, va fi comunicat prin scrisoarea medicală.”
+
+Anexa 1.
+Dozele zilnice mici, medii și mari de corticosteroizi inhalatori. GINA 2022
+
+Anexa 2.
+Chestionar privind controlul asupra astmului (ACT™)-adulți și adolescenți
+
+Interpretare
+25  - astm perfect controlat
+20-24 – astm bine controlat
+15-20 – astm parțial controlat
+<15 – astm necontrolat
+
+Anexa 2.
+Chestionar privind controlul astmului în copilărie pentru copii între 4 și 11 ani. (C-ACT)
+
+Interpretare:
+25  - astm perfect controlat
+20-24 – astm bine controlat
+15-20 – astm parțial controlat
+<15 – astm necontrolat
+
+Anexa 3.
+Asthma Control Questionnaire®(ACQ)
+
+Interpretare
+0.0 - 0.75 – total controlat
+0.75 - 1.5 – parțial controlat
+>1.5 – necontrolat
+
+La anexa nr. 1, protocolul terapeutic corespunzător poziției nr. 290 cod (L01XC37): DCI POLATUZUMAB VEDOTIN se modifică și se înlocuiește cu următorul protocol:
+
+”Protocol terapeutic corespunzător poziției nr. 290 cod (L01XC37): DCI POLATUZUMAB VEDOTIN
+
+I. Indicații terapeutice
+Polatuzumab Vedotin, în asociere cu rituximab, ciclofosfamidă, doxorubicină și prednison (R-CHP) este indicat pentru tratamentul pacienților adulți cu limfom difuz cu celulă mare B (DLBCL), netratat anterior.
+Polatuzumab Vedotin, în asociere cu bendamustină și rituximab, este indicat pentru tratamentul pacienților adulți cu limfom difuz cu celulă mare B (DLBCL) recidivat/refractar, care nu sunt candidați pentru transplantul de celule stem hematopoietice.
+
+II. Criterii de includere
+Pacienții adulți cu limfom difuz cu celulă mare B (DLBCL) netratat anterior.
+
+Pacienții adulți cu limfom difuz cu celulă mare B (DLBCL) cu boală recidivată sau refractară, după administrarea a cel puțin unui regim anterior de chimioterapie sistemică.
+
+III. Criterii de excludere
+Hipersensibilitate la substanța activă sau la excipienții din compoziția produsului;
+Infecții active grave;
+Polatuzumab Vedotin nu este recomandat în timpul sarcinii și la femeile aflate în perioada fertilă, care nu folosesc metode contraceptive decât dacă beneficiul potențial pentru mamă depășește riscul potențial pentru făt.
+Insuficiență hepatică severă (bilirubinemie > 3,0 mg/dl) (conform RCP bendamustină)
+Supresie severă a măduvei osoase și modificări severe ale hemoleucogramei (scădere a valorilor leucocitelor și/sau trombocitelor la < 3000/μl sau, respective, la < 75000/μl) (conform RCP bendamustină)
+IV. Tratament
+DLBCL netratat anterior
+Se administrează 6 cicluri de tratament cu Polatuzumab Vedotin în asociere cu rituximab, ciclofosfamidă, doxorubicină și prednison (R-CHP),  urmate de două cicluri suplimentare de rituximab în monoterapie;
+Fiecare ciclu de tratament dureaza 21 de zile;
+Dacă pacientul nu a fost deja premedicat, premedicația cu un antihistaminic și un antipiretic trebuie administrată pacienților înaintea administrării Polatuzumab Vedotin.
+
+Doze recomandate:
+Polatuzumab Vedotin, în asociere cu rituximab 375 mg/m², ciclofosfamidă 750 mg/m², doxorubicină 50 mg/m² și prednison 100 mg/zi, se administrează sub formă de perfuzie intravenoasă, în doza de 1,8 mg/kg în Ziua 1 a ciclurilor 1-6; se  recomandă  să  nu se  depășească  doza  de  240  mg/ciclu. Polatuzumab Vedotin, rituximab, ciclofosfamida și doxorubicina pot fi administrate în orice ordine în Ziua 1, după administrarea prednisonului;
+Prednisonul este administrat în Zilele 1-5 ale fiecărui ciclu;
+Ciclurile 7 și 8 constau din rituximab în monoterapie.
+
+DLBCL recidivat sau refractar
+Se administreaza 6 cicluri de tratament cu Polatuzumab Vedotin în asociere cu bendamustină;
+Fiecare ciclu de tratament dureaza 21 de zile;
+Dacă pacientul nu a fost deja premedicat, premedicația cu un antihistaminic și trebuie administrată pacienților înaintea administrării Polatuzumab Vedotin.
+
+Doze recomandate:
+Polatuzumab Vedotin administrat intravenos, in doza de 1,8 mg/kg, în Ziua 2 a ciclului 1 și Ziua 1 a ciclurilor 2-6; se  recomandă  să  nu se  depășească  doza  de  240  mg/ciclu;
+Rituximab administrată intravenos, in doză de 375 mg/m² în Ziua 1 a ciclurilor 1-6;
+Bendamustina administrată intravenos, in doză de 90 mg/ m²/zi, în Zilele 2 și 3 ale ciclului 1 și în Zilele 1 și 2 ale ciclurilor 2-6.
+
+Doze omise sau întârziate:
+Dacă ați omis o doză planificată de Polatuzumab Vedotin, aceasta trebuie administrată cât mai repede posibil, iar calendarul administrării trebuie ajustat astfel încât să se mențină un interval de 21 zile între doze.
+
+Modificări ale dozei:
+Viteza de perfuzie a Polatuzumab Vedotin trebuie încetinită sau perfuzia trebuie întreruptă dacă pacientul manifestă o reacție adversă la administrarea perfuziei. Polatuzumab Vedotin trebuie întrerupt imediat și definitiv dacă pacientul manifestă o reacție ce pune în pericol viața.
+
+Reacțiile adverse enumerate se bazează pe datele din studiile clinice și sunt prezentate în funcție de frecvență și clasificarea MedDRA pe aparate, sisteme și organe. Categoriile de frecvență sunt definite după următoarea convenție: foarte frecvente (≥ 1/10); frecvente (≥ 1/100 și < 1/10); mai puțin frecvente (≥ 1/1000 și < 1/100); rare (≥ 1/10000 și < 1/1000); foarte rare (< 1/10000) și cu frecvență necunoscută (care nu poate fi estimată din datele disponibile). Evenimentele adverse au fost clasificate pe grade de severitate conform Criteriilor de terminologie comună pentru evenimentele adverse ale Institutului Național de Cancer din SUA (National Cancer Institute - Common Terminology Criteria for Adverse Events, NCI-CTCAE).
+
+Există diferite modificări potențiale ale dozei de Polatuzumab Vedotin la pacienții cu DLBCL netratat anterior și la cei care sunt recidivanți sau refractari.
+
+Modifiări ale dozei de Polatuzumab Vedotin în cazul neuropatiei periferice (NP):
+
+ a R-CHP poate continua să fie administrat.
+Modificări   ale   dozei   de   Polatuzumab Vedotin,   chimioterapie   și   rituximab   în   controlul mielosupresiei:
+
+1În  situația  în  care  cauza  primară  este  datorată  limfomului,  poate  să  nu  fie  necesară  reducerea dozei  de bendamustină.
+*ANC: număr absolut de neutrofile
+
+Modificări ale dozei de Polatuzumab Vedotin în cazul reacțiilor legate de perfuzie (IRR):
+
+Contraindicații:
+Hipersensibilitate la substanța activă sau la oricare dintre excipienții enumerați.
+Infecții active severe.
+Contraindicații legate de tratamentul cu rituximab:
+Hipersensibilitate la substanța activă sau la proteinele murine, hialuronidază sau la oricare dintre excipienții enumerați
+Contraindicații legate de tratamentul cu ciclofosfamidă:
+hipersensibilitate la ciclofosfamidă, la oricare dintre metaboliții săi sau la oricare dintre excipienții enumerați
+infecții acute
+aplazie medulară sau depresie medulară anterioară tratamentului
+infecție a tractului urinar
+toxicitate urotelială acută din cauza chimioterapiei citotoxice sau din cauza radioterapiei
+obstrucție a debitului urinar
+sarcină
+alăptare
+persoane asiatice cu genotip ALDH2 mutant, deoarece la acești pacienți nu a fost stabilit un raport pozitiv între beneficiu și risc
+
+Contraindicații legate de tratamentul cu doxorubicină
+Hipersensibilitate la substanța activă clorhidrat de doxorubicină sau la oricare dintre excipienți.
+
+Contraindicații pentru administrarea intravenoasă:
+Hipersensibilitate la antracendione sau alte antracicline
+Mielosupresie marcată persistentă și/sau stomatită severă induse de tratamentul anterior cu alte citotoxice și/sau radioterapie
+Tratamentul anterior cu doxorubicină și/sau alte antracicline, până la doza lor cumulativă maximă (de exemplu, daunorubicină, epirubicină, idarubicină) și antracendione
+Infecție generalizată
+-Insuficiență hepatică severă
+Aritmii severe, insuficiență cardiacă, infarct miocardic în antecedente, boală cardiacă inflamatorie acută - Tendință hemoragică crescută
+Alăptarea
+
+Contraindicații legate de tratamentul cu bendamustină
+Hipersensibilitate la substanța activă sau la oricare dintre excipienții enumerați
+Insuficiență hepatică severă (bilirubinemie > 3,0 mg/dl)
+
+Atenționări și precauții speciale pentru utilizare
+În studiile nonclinice, polatuzumab vedotin a avut ca efect toxicitatea testiculară, și poate afecta funcția reproducătoare și fertilitatea masculină. Așadar, bărbații tratați cu acest medicament sunt sfătuiți să-și conserve și să-și păstreze probe de spermă anterior tratamentului.
+S-au raportat reactivări ale unor infecții latente. Pacienții trebuie monitorizați cu atenție pe durata tratamentului pentru semne ale unor infecții bacteriene, fungice sau virale și trebuie să ceară sfatul medicului dacă apar semne sau simptome. Trebuie luată în considerare profilaxia antiinfecțioasă pe durata tratamentului. Polatuzumab Vedotin nu trebuie administrat în prezența unei infecții active grave.
+Vaccinurile cu virus viu sau viu atenuat nu trebuie administrate concomitent cu tratamentul.
+Femeile însărcinate trebuie sfătuite cu privire la riscul pentru făt.
+Pacientele cu potențial fertil trebuie sfătuite să folosească metode contraceptive eficace pe durata tratamentului cu Polatuzumab Vedotin și timp de cel puțin 9 luni după ultima doză. Pacienții cu partenere având potențial fertil trebuie sfătuiți să folosească metode contraceptive eficace pe durata tratamentului. și timp de cel puțin 6 luni după ultima doză
+Precizări legate de asocierea Polatuzumab Vedotin cu rituximab, ciclofosfamidă, doxorubicină:
+Înainte de inițierea tratamentului cu rituximab, toți pacienții trebuie supuși testelor de depistare a virusului hepatitei B (VHB), dintre care cel puțin statusul AgHBs și statusul Ac anti-HBc. Acestea se pot completa cu teste corespunzătoare altor markeri conform ghidurilor locale. Pacienții cu forma activă a hepatitei B nu trebuie tratați cu medicamentul rituximab. Pacienții la care s-a depistat serologie pozitivă a hepatitei B (AgHBs sau Ac anti-HBc) trebuie consultați de către specialiști în boli hepatice înainte de a începe tratamentul și trebuie să fie monitorizați și controlați conform standardelor medicale locale pentru a preveni reactivarea hepatitei B.
+În timpul tratamentului cu ciclofosfamidă, trebuie să se efectueze cu regularitate analiza numărului de leucocite și de trombocite. Dacă semnele mielosupresiei devin evidente, se recomandă ajustarea dozei după caz.
+Funcția cardiacă trebuie evaluată înainte ca pacienții să înceapă tratamentul cu doxorubicină și trebuie monitorizată pe parcursul tratamentului, pentru a minimaliza riscul apariției insuficienței cardiace severe. Riscul poate fi scăzut prin monitorizarea regulată a FEVS în timpul tratamentului cu întreruperea imediată a doxorubicinei la primul semn de insuficiență cardiacă. Metoda cantitativă adecvată pentru evaluarea repetată a funcției cardiace (evaluarea FEVS) include Angiografie Multipla (AGMU) sau ecocardiografie (ECO).
+Pacienții cu insuficiență hepatica severă nu trebuie să primească doxorubicină.
+Profilurile hematologice trebuie evaluate înainte și în timpul fiecărui ciclu de tratament cu doxorubicină, incluzând formula leucocitară. Leucopenia și/sau granulocytopenia (neutropenia) sunt manifestarea predominantă a toxicității hematologice a doxorubicinei și reprezintă cea mai comună toxicitate acută care limitează doza acestui medicament. În timpul tratamentului, concentrația serică de acid uric poate crește. În cazul apariției hiperuricemiei trebuie inițiat tratamentul antihiperuricemic.
+
+V. Întreruperea tratamentului
+Progresia bolii sub tratament sau pierderea beneficiului clinic;
+Toxicitate inacceptabilă;
+Decizia pacientului.
+
+VI. Prescriptori
+Inițierea si continuarea tratamentului se face de către medicii din specialitatea hematologie sau oncologie clinică.”
+
+La anexa nr. 1, protocolul terapeutic corespunzător poziției nr. 334 cod (L01FX09): DCI MOGAMULIZUMAB se modifică și se înlocuiește cu următorul protocol:
+
+”Protocol terapeutic corespunzător poziției nr. 334 cod (L01FX09): DCI MOGAMULIZUMAB
+
+I.	INDICAȚIE TERAPEUTICA (face obiectul unui contract cost volum):
+Mogamulizumab  este  indicat  pentru  tratamentul  pacien\ilor  adulți  cu  micozis  fungoid  (MF)  sau sindrom Sézary (SS) cărora li s-a administrat anterior cel puțin o terapie sistemică
+
+II.	DIAGNOSTIC:
+Diagnosticul  și  clasificarea  limfoamelor cutanate primare  trebuie  să  se bazeze  întotdeauna  pe  o  combinație  de  date  clinice,  histologice,  imunofenotipice  și  genetice.  În anumite cazuri, punerea în evidență a receptorilor celulelor T clonale sau identificarea modificărilor genetice de tip rearanjare a genelor pentru imunoglobuline în leziunea cutanată sau sângele periferic, pot fi valoroase pentru diagnostic. Cu toate acestea, în majoritatea cazurilor, caracteristicile clinice și histopatologice rămân  factorii  decisivi   cei  mai  importanți  pentru  planificarea  tratamentului.  Limfoamele cutanate  primare  trebuie clasificate în funcție de criteriile din clasificarea revizuită a Organizației Mondiale a Sănătății (OMS) din 2017.
+În  toate  cazurile  trebuie  efectuată  o  stadializare  adecvată  pentru  a  exclude  prezența  unei  boli extracutanate. Citometria în flux a probei din sângele periferic este de obicei recomandată în toate stadiile MF. Cu toate acestea, este discutabil dacă aceasta este justificată la pacienții fără suspiciune de SS.
+Tomografia computerizată (CT) și/sau tomografia cu emisie de pozitroni cu fluorodeoxiglucoză (FDG-PET) sunt opționale în stadiul incipient al MF.
+Recomandări pentru evaluarea stadializării la pacienții cu MF/SS - Limfoame cutanate primare: Ghidul ESMO de practică clinică
+Examen fizic complet, inclusiv:
+Determinarea tipului de leziuni cutanate
+Identificarea tuturor adenopatiilor palpabile, în special a ganglionilor cu diametrul cel mai mare de 1,5 cm sau a celor fermi, cu contur neregulat, grupați sau ficși.
+Identificarea oricăror organomegalii prezente
+Biopsie cutanată
+Din zona cu indurația cea mai mare dacă se prelevează o singură biopsie
+Examen histopatologic și imunofenotipare de rutină
+Evaluarea  rearanjării genetice a clonelor receptorilor celulelor T  (TCR) (opțional)
+Analize de sânge
+Hemoleucogramă completă cu analiză celulară diferențială, teste ale funcției hepatice,  LDH, teste complete de biochimie
+Rearanjările genei TCR și corelația cu orice clonă de la nivel cutanat (opțional)
+Identificarea limfocitelor anormale fie prin numărarea celulelor Sézary cu determinarea numărului  absolut  de  celule  Sézary  și/sau  prin  citometrie  în  flux  (inclusiv  CD4+/CD7–  sau CD4+/CD26-) (opțional)
+
+Teste radiologice
+CT torace, abdomen și pelvis; ± FDG-PET (opțional la pacienții cu MF în stadiu incipient)
+Biopsia ganglionilor limfatici
+Biopsie  excizională  la  pacienții  cu  un  ganglion  limfatic  cu  diametrul  de  1,5  cm  și/sau  cu ganglioni fermi, cu contur neregulat, grupați sau ficși
+Evaluări histologice, imunochimice și de rearanjare a genei TCR de rutină
+
+III.	CRITERII DE INCLUDERE:
+Pacienți adulți cu micozis fungoid (MF) sau sindrom Sézary (SS) cărora li s-a administrat anterior cel puțin o terapie sistemică
+Pacienții cu MF sau SS în stadiul IB–IVB3 confirmate histologic, recidivate sau refractare
+Status  de  performanță  ECOG  (Eastern  Cooperative  Oncology  Group)  1  sau  0  și  funcție hematologică, hepatică și renală adecvată
+Pacienții trebuie testați pentru depistarea infecției cu virusul hepatitei B înainte de instituirea tratamentului cu mogamulizumab
+
+IV.	CRITERII DE EXCLUDERE:
+Hipersensibilitate la substanța activă sau la oricare dintre excipienți
+Transformarea celulelor mari (large cell transformation, LCT)
+Status de performanță ECOG >1
+Metastaze la nivelul sistemului nervos central, boli autoimune active, afecțiune intercurentă necontrolată semnificativă clinic și istoric de transplant alogen
+
+V.	TRATAMENT:
+DOZE:
+Doza recomandată este de 1 mg/kg mogamulizumab, administrată prin perfuzie intravenoasă cu durata de cel puțin 60 de minute. Se administrează săptămânal, în zilele 1, 8, 15 și 22 ale primului ciclu de 28 de zile, apoi prin perfuzii o dată la două săptămâni în zilele 1 și 15 ale fiecărui ciclu de 28 de zile ulterior, până la progresia bolii sau până la apariția unei toxicități inacceptabile.
+Mogamulizumab trebuie administrat în interval de 2 zile față de ziua programată. Dacă o doză este omisă mai mult de 2 zile, următoarea doză trebuie administrată cât mai curând posibil, după care schema de tratament se reia cu administrarea dozelor respectând noile zile programate.
+Pentru  prima  perfuzie  cu  mogamulizumab  se  recomandă  pre-medicație  cu  un  antipiretic  și  un antihistaminic.  Dacă  apare  o  reacție  la  perfuzie,  administrați  pre-medicația  și  pentru  perfuziile ulterioare cu mogamulizumab
+MODIFICAREA DOZEI:
+În cazul unei erupții cutanate tranzitorii (asociate cu medicamentul) de  grad 2 sau 3 (moderată sau severă),  tratamentul  cu  mogamulizumab  trebuie  întrerupt,  iar  erupția  cutanată  trebuie  tratată corespunzător  până  la  ameliorarea   la  grad  1  sau  mai  puțin  (severitate  ușoară),  moment  în  care tratamentul cu mogamulizumab poate fi reluat.
+Administrarea mogamulizumab trebuie să fie întreruptă definitiv în cazul unei erupții cutanate care pune viața pacientului în pericol (de gradul 4).
+Perfuzia cu mogamulizumab trebuie întreruptă temporar în cazul reacțiilor ușoare până la moderate (gradele 1-3) asociate cu perfuzia, iar simptomele trebuie tratate. Viteza perfuziei trebuie redusă cu cel puțin 50% atunci când se reia perfuzia, după remisia simptomelor. Dacă reacția apare din nou, trebuie luată în considerare întreruperea perfuziei.
+Administrarea mogamulizumab trebuie întreruptă definitiv în cazul unei reacții asociate cu perfuzia care pune viața în pericol (de gradul 4)
+
+DURATA TRATAMENTULUI:
+Tratamentul  cu  mogamulizumab  continuă  până  la  progresia  bolii  sau  apariția  unei  toxicități inacceptabile
+Dacă pacientul prezintă răspuns global complet (RC), acesta poate continua tratamentul până aparitia unei toxicitati inacceptabile sau până la progresia bolii, oricare dintre acestea survine mai întâi.
+Evaluările de eficacitate se vor baza pe răspunsul la tratament (răspuns parțial [RP] sau mai bun)
+Răspunsul global va fi evaluat pe baza răspunsurilor din fiecare compartiment (cutanat, sangvin, limfatic, visceral)
+
+Scorul global compus
+Abrevieri în tabel: BP = progresia bolii; BS = boală stabilă; NI =noni-involved (fără implicare); RC = răspuns complet; RP = răspuns parțial.
+VI.	MONITORIZAREA TRATAMENTULUI:
+Pacienții cărora li se administrează mogamulizumab pot prezenta erupții cutanate tranzitorii asociate cu medicamentul, dintre care unele pot fi severe și/sau grave.
+Pacienții trebuie monitorizați cu atenție pentru decelarea simptomelor sau a semnelor care sugerează sindrom Stevens-Johnson (SSJ) sau necroliză epidermică toxică (NET) . Dacă apar aceste semne sau simptome, administrarea mogamulizumab trebuie întreruptă, iar tratamentul nu trebuie reluat decât dacă se exclude diagnosticul de SSJ sau NET, iar reacția cutanată tranzitorie se remite până la gradul 1 sau mai puțin. Dacă apare SSJ/NET, trebuie să se administreze terapia medicamentoasă adecvată. La pacienții tratați cu mogamulizumab au fost observate reacții acute asociate cu perfuzia. Reacțiile asociate cu perfuzia au fost preponderent de gravitate ușoară până la moderată, cu toate că au existat puține raportări de reacții severe (gradul 3). Cele mai multe reacții asociate cu perfuzia apar în timpul primei perfuzii sau la scurt timp după aceasta (toate în interval de 24 de ore de la administrare), iar incidența  scade  pe  parcursul  tratamentelor  ulterioare.  Pacienții  trebuie  monitorizați  cu  atenție  în timpul perfuziei și după aceasta. Dacă apare o reacție anafilactică, administrarea mogamulizumab trebuie  să  fie  întreruptă  imediat  și  definitiv  și  trebuie  să  se  administreze  terapia  medicamentoasă corespunzătoare.
+Pacienții cu MF sau SS tratați cu mogamulizumab sunt expuși unui risc crescut de infecții grave și/sau reactivare  virală.  Pacienții  trebuie  monitorizați  pentru  identificarea  semnelor  și  simptomelor  de infecție și trebuie tratați prompt.
+A fost raportat un risc mai mare de complicații după transplant dacă mogamulizumab este administrat cu puțin timp înainte de TCSH (într-un interval de aproximativ 50 de zile).
+Sindromul   de   liză   tumorală   (SLT)   a   fost   observat   la   pacienții   cărora   li   s-a   administrat mogamulizumab.  Pacienții  trebuie  monitorizați  cu  atenție,  prin  teste  de  laborator  și  teste  clinice adecvate pentru evaluarea  statusului electrolitic, ale hidratării și ale funcției renale, în special în prima lună de tratament, în conformitate cu cele mai bune practici medicale .
+Pacienții care au factori de risc asociați cu boala cardiacă trebuie monitorizați și trebuie luate măsuri de precauție corespunzătoare.
+
+VII PRESCRIPTORI:
+Tratamentul   trebuie    instituit   și    supravegheat   de   medici   în   specialitatea   hematologie   si oncohematologie cu experiență în tratamentul afecțiunilor oncologice și trebuie administrat numai de profesioniști din domeniul sănătății, într-un mediu în care este disponibil echipament de resuscitare.”
+
+La anexa nr. 1, protocolul terapeutic corespunzător poziției nr. 292 cod (L01XE54): DCI GILTERITINIB se modifică și se înlocuiește cu următorul protocol:
+
+”Protocol terapeutic corespunzător poziției nr. 292 cod (L01XE54): DCI GILTERITINIB
+
+Indicatia terapeutica:
+Leucemie Acută Mieloidă (LAM) refractară sau recidivantă cu mutație FLT3
+
+Criterii de includere:
+Pacienții adulți cu leucemie acută mieloidă (LAM) refractară sau recidivantă cu mutație FLT3. Înainte de administrarea gilteritinib, pacienții cu LAM refractară sau recidivantă trebuie să aibă confirmarea unei mutații a tirozin-kinazei-3 similare FMS (FLT3) (duplicare tandem internă [internal tandem duplication, ITD] sau în domeniul tirozin-kinazei [tyrosine kinase domain, TKD]).
+Gilteritinib poate fi reluat pentru pacienții în urma unui transplant de celule stem hematopoietice (TCSH).
+Contraindicatii:
+Hipersensibilitate la substanța activă sau la oricare dintre excipienții enumerați.
+Insuficiență hepatică severă (clasa C Child-Pugh),
+
+Tratament (doze, condițiile de scădere a dozelor, perioada de tratament):
+Tratamentul cu Gilteritinib trebuie inițiat și supravegheat de un medic cu experiență în utilizarea terapiilor anticanceroase si se administreaza in monoterapie.
+Doze
+Doza inițială recomandată este de 120 mg de gilteritinib (trei comprimate a 40 mg) o dată pe zi.
+În absența unui răspuns [pacientul nu a obținut remisiunea completă compozită (RCc)] după 4 săptămâni de tratament), doza poate fi crescută la 200 mg (cinci comprimate de 40 mg) o dată pe zi, dacă este tolerată sau justificată clinic.
+Se recomandă continuarea tratamentului până când pacientul nu mai obține beneficii clinice Gilteritinib sau până la apariția unei toxicități inacceptabile. Răspunsul ar putea fi întârziat; prin urmare, se recomandă continuarea tratamentului timp de cel puțin 6 luni, pentru a permite obținerea unui răspuns clinic.
+Recomandările privind întreruperea, reducerea și încetarea dozei de Gilteritinib la pacienții cu LMA refractară sau recidivantă :.
+a. Gradul 1 este ușor, gradul 2 este moderat, gradul 3 este sever, gradul 4 poate pune viața în pericol.
+b. Doza zilnică poate fi redusă de la 120 mg la 80 mg sau de la 200 mg la 120 mg.
+c. RCc este definită ca rata de remisiune a tuturor RC, RCp [RC obținut cu excepția recuperării incomplete a trombocitelor (<100 x 109/L)] și RCi (a obținut toate criteriile pentru RC cu excepția recuperării hematologice incomplete cu neutropenie reziduală <1 x 109/L cu sau fără recuperarea completă a trombocitelor).
+
+Nota:
+Gilteritinib este destinat administrării orale. Comprimatele pot fi administrate cu sau fără alimente. Acestea trebuie înghițite întregi, cu apă, și nu trebuie rupte sau zdrobite. Gilteritinib trebuie administrat la aproximativ aceeași oră în fiecare zi. Dacă o doză este omisă sau nu este administrată la ora obișnuită, trebuie să administrați doza cât mai curând posibil în aceeași zi și trebuie să reveniți la programul normal în ziua următoare. Dacă apar vărsături după administrarea dozei, pacienților nu trebuie să li se mai administreze încă o doză, ci trebuie să revină la programul normal în ziua următoare.
+Monitorizarea tratamentului si Precautii:
+Se recomandă efectuarea de teste biochimice, care să includă nivelul creatin-fosfokinazei înainte de inițierea tratamentului, în ziua 15 și lunar pe tot parcursul tratamentului.
+Se recomandă efectuarea unei electrocardiograme (ECG) înaintea inițierii tratamentului cu gilteritinib, în zilele 8 și 15 ale ciclului 1 și înaintea începerii următoarelor trei luni de tratament. Tratamentul cu gilteritinib trebuie întrerupt la pacienții care au QTcF >500 msec. Decizia de a reintroduce tratamentul cu gilteritinib după un eveniment de prelungire a QT ar trebui să se bazeze pe o analiză atentă a beneficiilor și riscurilor. Dacă tratamentul cu gilteritinib este reintrodus la o doză redusă, trebuie efectuată o ECG după ziua 15 de la administrare și înainte de începerea următoarelor trei luni de tratament.
+Dacă se suspectează apariția sindromului de diferențiere, trebuie inițiată terapia cu corticosteroizi, sub monitorizare hemodinamică, până la remedierea simptomelor. Dacă semnele și/sau simptomele severe persistă mai mult de 48 de ore de la inițierea tratamentului cu corticosteroizi, tratamentul cu gilteritinib trebuie întrerupt până când semnele și simptomele nu mai sunt severe. Tratamentul cu corticosteroizi poate fi redus treptat după remedierea simptomelor și trebuie administrat cel puțin 3 zile. Simptomele sindromului de diferențiere pot să recidiveze în cazul întreruperii premature a tratamentului cu corticosteroizi.
+Dacă se suspectează apariția sindromului de encefalopatie posterioară reversibilă (SEPR), aceasta trebuie confirmată prin metode de imagistică medicală, preferabil prin imagistică prin rezonanță magnetică (IRM). Se recomandă întreruperea tratamentului cu gilteritinib la pacienții care dezvoltă SEPR.
+Pacienții care dezvoltă semne și simptome ce sugerează apariția pancreatitei trebuie evaluați și monitorizați.Tratamentul cu gilteritinib trebuie întrerupt și poate fi reluat la doză redusă atunci când semnele și simptomele de pancreatită au fost remediate
+Gilteritinib nu este recomandat pentru pacienți cu insuficiență hepatică severă (clasa C Child-Pugh), deoarece siguranța și eficacitatea nu au fost evaluate pentru această populație.
+Administrarea concomitentă de inductori ai CYP3A/P-gp poate determina reducerea expunerii la gilteritinib și, în consecință, un risc de lipsă de eficacitate. Prin urmare, trebuie evitată utilizarea concomitentă a gilteritinib cu inductori puternici ai CYP3A4/P-gp. Se impune precauția la prescrierea concomitentă a gilteritinib și a medicamentelor puternic inhibitoare ale CYP3A, P-gp și/sau proteinei de rezistență la cancer mamar (BCRP) (cum sunt, dar fără a se limita la, voriconazol, itraconazol, posaconazol și claritromicină), deoarece acestea pot crește expunerea la gilteritinib. Trebuie luată în calcul prescrierea unor medicamente alternative, care nu inhibă puternic activitatea CYP3A, P-gp și/sau BCRP. În situațiile în care nu există alternative terapeutice satisfăcătoare, pacienții trebuie monitorizați îndeaproape pentru a observa cazurile de toxicitate pe parcursul administrării gilteritinib.
+Gilteritinib poate reduce efectele medicamentelor care țintesc receptorul 5HT2B sau receptorii nespecifici sigma. Prin urmare, trebuie evitată utilizarea concomitentă a gilteritinib cu aceste medicamente, cu excepția cazului în care această combinație este considerată esențială pentru îngrijirea pacientului.
+La femeile aflate la vârsta fertilă se recomandă efectuarea unui test de sarcină cu șapte zile înainte de inițierea tratamentului cu gilteritinib. Se recomandă ca femeile aflate la vârsta fertilă să utilizeze metode eficiente de contracepție (metode care asigură un risc de sarcină sub 1%) pe parcursul tratamentului și timp de 6 luni după tratament. Nu se știe dacă tratamentul cu gilteritinib poate reduce eficiența contraceptivelor hormonale și, prin urmare, femeile care folosesc contraceptive hormonale ar trebui să adauge o metodă de contracepție cu barieră. Bărbații cu potențial de reproducere trebuie sfătuiți să utilizeze metode eficiente de contracepție pe parcursul tratamentului și timp de cel puțin 4 luni după ultima doză de gilteritinib. Gilteritinib nu este recomandat în timpul sarcinii și la femei aflate la vârsta fertilă, care nu utilizează măsuri contraceptive eficiente. Alăptarea trebuie întreruptă pe parcursul tratamentului cu gilteritinib și timp de cel puțin două luni după ultima doză.
+VI. Prescriptori: tratamentul se initiaza si se continua de catre medicii in specialitatea hematologie sau oncologie medicală.”
+
+La anexa nr. 1, protocolul terapeutic corespunzător poziției nr. 298 cod (R07AX30): DCI LUMACAFTORUM + IVACAFTORUM se modifică și se înlocuiește cu următorul protocol:
+
+”Protocol terapeutic corespunzător poziției nr. 298 cod (R07AX30): DCI LUMACAFTORUM + IVACAFTORUM
+
+INDICAȚII TERAPEUTICE
+Lumacaftor/Ivacaftor este indicat pentru tratamentul pacienților cu fibroză chistică (FC), cu vârsta de2 ani si peste cu genotip homozigot pentru mutația F508del la nivelul genei CFTR.
+
+CRITERII DE INCLUDERE
+Pacienții diagnosticați cu fibroză chistică având genotip homozigot pentru mutația F508 prin test genetic
+Testul sudorii la începerea tratamentului (nu este obligatoriu)
+Vârsta de 2 ani și peste
+Consimțământ informat: tratamentul va fi început numai după ce pacienții sau părinții, respectiv tutorii legali ai acestora au semnat consimțământul informat privind administrarea medicamentului, acceptarea criteriilor de includere, de excludere și de oprire a tratamentului, precum și acceptul de a se prezenta periodic la evaluările recomandate.
+
+CRITERII DE EXCLUDERE
+Vârsta sub 2 ani
+Pacienții cu fibroză chistică și genotip heterozigot F508
+Refuzul semnării consimțământului informat privind administrarea medicamentului, a criteriilor de includere, excludere respectiv de oprire a tratamentului precum și acceptul de a se prezenta periodic la evaluările recomandate.
+Pacienții cu intoleranță la galactoză, cu deficit total de lactază sau cei cu sindrom de malabsorbție la glucoză-galactoză (pentru componenta de ivacaftor)
+
+CRITERII  DE OPRIRE A TRATAMENTULUI
+Efecte adverse respiratorii severe (bronhospasm, dispnee, scăderea marcată a FEV1 față de valoarea inițială)
+Pacient necompliant la evaluările periodice
+Renunțarea la tratament din partea pacientului
+Întreruperea din cauza reacțiilor adverse (altele decât cele respiratorii)
+Creșteri semnificative ale transaminazelor (de exemplu, pacienții cu ALT sau AST ce cresc de mai mult de 5 ori peste limita superioară a normalului [LSN] sau ALT ori AST ce cresc de mai mult de 3 ori peste LSN și sunt asociate cu bilirubină ce crește de mai mult de 2 ori peste LSN). In  aceste cazuri administrarea dozelor trebuie întreruptă până la normalizarea valorilor paraclinice observate. Ulterior va fi evaluat raportul intre beneficiile expectate și riscurile posibile ale reluării tratamentului și se vor lua decizii conforme cu acest raport risc/beneficiu.
+
+V. DOZE ȘI MOD DE ADMINISTRARE
+Lumacaftor/ivacaftor se poate iniția doar de către medicii cu experiență în diagnosticarea si tratamentului fibrozei chistice și doar la pacienții cu genotip homozigot DF508. Dacă genotipul pacientului nu este cunoscut, înainte de începerea tratamentului trebuie aplicată o metodă de genotipare precisă și validată, pentru a confirma prezența acestui genotip.
+
+Administrare:
+Medicația trebuie administrată sincron cu alimente având un conținut lipidic, la o masă sau o gustare la care se asociază enzime pancreatice.
+Plicurile trebuie amestecate intr o lingura ( aproximativ 5 ml) de alimente semisolide sau lichide ( de exemplu iaurt, piure de fructe,lapte, suc si consumate in interval de 1 ora de la amestecare .
+Comprimate: Pacienții trebuie instruiți să înghită comprimatele întregi. Comprimatele nu trebuie  mestecate, zdrobite sau sparte înainte de ingerare.
+Nu se administrează cu suc de grepfruit sau de portocale roșii, ceai de sunătoare.
+Contraindicatii- hipersensibilitate la substanțele active sau excipienți
+
+Atenționări și precauții speciale:
+
+Dacă pacientul uită să ia o doză, o poate primi în interval de 6 ore de la momentul uzual în care primea respectiva doză și ar putea sa primească doza următoare conform orei prescrise anterior. Dacă pacientul pierde o doză în interval mai mare de 6 ore va primi doar doza următoare.
+
+Dozele de Lumacaftor/Ivacaftor  pot fi modificate în cazul asocierii cu medicamente inhibitoare CYP3A și la pacienții cu afectare hepatică sau renală semnificativă.
+
+În eventualitatea unei creșteri semnificative a transaminazelor (de exemplu, pacienții cu ALT sau AST ce cresc de mai mult de 5 ori peste limita superioară a normalului [LSN] sau ALT ori AST ce cresc de mai mult de 3 ori peste LSN si sunt asociate cu bilirubină ce creste de mai mult de 2 ori peste LSN), administrarea dozelor trebuie întreruptă și trebuie să se urmărească atent rezultatele analizelor de laborator până la rezolvarea anomaliilor. După rezolvarea creșterilor transaminazelor, trebuie să fie evaluat raportul risc/beneficiu al reluării tratamentului.
+
+Tabel 1. Recomandări privind ajustarea dozei la pacienții cu afectare hepatică
+
+Administrarea nu este recomandată la pacienții cu insuficiență hepatică severă, decât dacă se anticipează că beneficiile vor depăși riscurile.
+
+Reacții adverse respiratorii
+Reacțiile adverse respiratorii (disconfortul la nivelul toracelui, dispneea, bronhospasmul și respirația anormală) au fost mai frecvente în timpul inițierii terapiei cu lumacaftor/ivacaftor. Evenimentele respiratorii grave au fost observate mai frecvent la pacienții cu afectare respiratorie severă. Experiența clinică la pacienții  cu FEV1 < 40  % este limitată și se recomandă monitorizarea suplimentară a acestor pacienți în timpul inițierii terapiei. Nu există experiență privind inițierea tratamentului cu lumacaftor/ivacaftor la pacienții care manifestă o exacerbare pulmonară și, ca atare, inițierea tratamentului la pacienții care manifestă o exacerbare pulmonară, la acel moment, nu este recomandabilă.
+Efect asupra tensiunii arteriale
+S-a observat creșterea tensiunii arteriale la unii pacienți tratați cu lumacaftor/ivacaftor.  Tensiunea arterială trebuie monitorizată periodic, la toți pacienții, pe durata tratamentului.
+Se recomandă prudență la pacienții cu insuficiență renală severă (clearance creatinină < 30 mL/min) sau cu boală renală în stadiul terminal.
+
+Tabel 2. Interacțiuni medicamentoase
+
+Notă: ↑ = creștere, ↓ = scădere, ↔ = nicio modificare; LUM = lumacaftor; IVA = ivacaftor.
+Notă : studiile despre interacțiunile medicamentoase s-au efectuat doar la pacienții adulți.
+Cât privește sarcina și alăptarea nu există date suficiente.
+Poate produce amețeală, deci este necesară prudență în timpul condusului la acești pacienți.
+
+Pacienții care primesc inhibitori puternici CYP3A necesită ajustarea dozelor
+Daca la inițierea tratamentului cu Lumacaftor/Ivacaftor pacienții primesc deja inhibitori puternici CYP3A se recomandă admnistrarea astfel:
+Varsta 2- 5 ani   1 plic din doza recomandata funcție de greutate in zile alternative 1 saptamana apoi se admnistreaza doza recomandata normal
+Peste 6 ani : 1 comprimat zilnic din  doza recomandata în funcție de vârstă 1 saptamana apoi se vor admnistra dozele recomandate in mod normal
+
+Dacă  pacientii  au întrerupt mai mult de 1 săptămână tratamentul cu Lumacaftor/Ivacaftor și primesc în continuare tratament cu inhibitori puternici CYP3A reintroducerea tratamentului  cu modulator CFTR se efectueaza după aceleași recomandări de mai sus.
+
+MONITORIZAREA PACIENȚILOR ÎN CADRUL PROGRAMULUI DE TRATAMENT CU LUMACAFTOR/ IVACAFTOR
+
+La includerea în tratamentul cu LUMACAFTOR/IVACAFTOR se documentează în dosarul pacientului:
+Rezultatul analizei genetice care confirmă prezența genotipului homozigot DF508
+Evaluarea clinică conform Fișei de evaluare clinică inițială (anexa 1)
+Consimțământul informat al pacientului (reprezentant legal) (anexa 3)
+
+Monitorizarea pacientului pe parcursul tratamentului cu Lumacaftor/Ivacaftor:
+Evaluarea la inițierea tratamentului (anexa 1)
+Evaluarea la fiecare 3 luni de la inițierea tratamentului in primul an si apoi anual (anexa 2)
+
+Monitorizarea tratamentului cu Lumacaftor/Ivacaftor după primul an de la inițierea acestuia se va face anual conform fișei de monitorizare- (anexa 2).
+Monitorizarea pacientului în tratament cu Lumacaftor/Ivacaftor va fi personalizată (ca interval de monitorizare) în funcție de gradul de afectare hepatică/renală și de complicațiile bolii de fond.
+
+VII. PRESCRIPTORI:
+Medici din specialitatea pediatrie, pneumologie pediatrică, pneumologie, cu experiență în diagnosticul și tratamentul fibrozei chistice, care vor întocmi dosarul de inițiere al tratamentului și vor emite prima prescripție medicală pentru o perioadă de 28 zile de tratament (menționăm că deoarece cutia asigură tratamentul pentru 28 de zile, rețeta va fi eliberată separat de celelalte medicamente cuprinse în Programul curativ 6.4 Mucoviscidoză care sunt recomandate pe o durata diferită de timp).
+Este recomandat ca medicii care initiaza tratamentul  să facă parte dintr-o unitate sanitară unde se pot asigura condițiile necesare monitorizării  adecvate pentru acești pacienți.
+După inițierea tratamentului, continuarea prescrierii acestuia se poate face de către medicii din specialitatea pediatrie, pneumologie pediatrică, pneumologie, din teritoriu sau  de către medicul de familie în baza scrisorii medicale emisă de medicul care inițiază tratamentul.
+Recomandarea pentru inițierea tratamentului se face după evaluarea pacientului și a dosarului acestuia și după confirmarea diagnosticului. Se menționează perioada pentru care va fi prescris tratamentul (care nu va fi mai mare de 6 luni în primul an de tratament și 12 luni ulterior, cu reevaluare în vederea continuării).
+
+DOSARUL DE INIȚIERE A TRATAMENTULUI  trebuie să cuprindă următoarele documente:
+Datele de identificare (copii după certificat de naștere, carte de identitate)
+Consimțământul informat al părintelui (tutorelui legal), al copilului, sau al bolnavului (dacă are vârsta peste 18 ani) (anexa 3)
+Bilet de externare sau scrisoare medicală din unitatea sanitară care să ateste diagnosticul de fibroză chistică/mucoviscidoză
+Buletin de testare genetică care să ateste genotip homozigot F508
+Evaluarea  inițială – clinică  și paraclinică  (anexa 1)
+Tratament concomitent  (care ar impune modificarea dozelor terapeutice)
+
+Anexa 1
+Unitatea Sanitară
+……………………………………………………………………….
+
+Fișa de evaluare inițială în vederea includerii în tratament cu Lumacaftor/Ivacaftor
+
+SE RECOMANDĂ:
+Lumacaftor/Ivacaftor –  doza:…………………….
+Perioada…………………..
+Medic :
+Semnătura, parafă:
+Data completării Fișei de inițiere:
+
+Anexa 2
+Fișa de  monitorizare a pacientului cu Fibroză în tratament cu Lumicaftor/Ivacaftor
+Unitatea sanitară
+……………………………………………………………………….
+Tip evaluare
+  [   ] 3 luni; [   ] 6 luni; [   ] 9 luni; [   ]12 luni;
+Anul inițierii tratamentului cu Lumacaftor/Ivacaftor:…….
+*la 12 luni
+# la 6 luni de la inițierea tratamentului și ulterior anual. La pacientul care are afectare hepatică – la 3 luni
+
+SE RECOMANDĂ:
+Continuarea tratamentului cu Lumacaftor/Ivacaftor
+forma farmaceutică................................
+doza: ……………….  perioada……………….
+Întreruperea tratamentului cu Lumicaftor/Ivacaftor
+Motivele care au dus la întreruperea tratamentului :
+
+Medic curant :
+Semnătură, parafă:
+Data completării Fișei de monitorizare:
+
+Anexa 3
+FORMULAR PENTRU CONSIMȚĂMÂNTUL PACIENTULUI CU FIBROZĂ CHISTICĂ ELIGIBIL PENTRU TRATAMENT CU LUMACAFTOR/ IVACAFTOR  (ORKAMBI)
+
+	Subsemnatul(a) …..................................……........................……, cu CI/BI ............................
+pacient/părinte/tutore legal al copilului ..................................................................................................
+cu CNP ………………………… diagnosticat cu fibroză chistică, homozigot F508del (pacient adult/copil care îndeplinește criteriile de includere) am fost informat de către …………………………………………............................……… privind tratamentul medical al bolii cu  Lumacaftor/Ivacaftor (Orkambi).
+
+Orkambi  este un medicament care conține următoarele subtanțe active: lumacaftor și ivacaftor. Lumacaftor/Ivacaftor (Orkambi) granule este indicat pentru tratamentul pacienților cu fibroză chistică (FC), cu vârsta de 2 ani și peste, cu genotip homozigot pentru mutația F508del la nivelul genei CFTR. Pentru copiii cu vârsta de 6 ani și peste se administrează Lumacaftor/Ivacaftor (Orkambi) comprimate.
+Ca toate medicamentele, acest medicament poate provoca reacții adverse.
+
+Reacții adverse foarte frecvente (pot afecta mai mult de o persoană din 10): infecții de căi respiratorii superioare, rinofaringită, cefalee, amețeală, congestie nazală, dispnee, tuse productivă, creșterea producției de spută, dureri abdominale, diaree, greață, suprainfecții bacteriene.
+
+Reacții adverse frecvente (pot afecta mai puțin de 1 persoană din 10): rinită, otalgie, tinitus, congestie timpanică, tulburări vestibulare, odinofagie, congestie sinusală, hiperemie faringiană, bronhospasm, flatulență, vărsături, creșteri ale valorilor transaminazelor, erupție cutanată tranzitorie, formațiuni la nivelul sânilor, menstruație neregulată, dismenoree, metroragie.
+
+Reacții adverse mai rar întâlnite: hipertensiune arterială, hepatită colestatică, encefalopatie hepatică, congestie auriculară, menoragie, amenoree, polimenoree, oligomenoree, durere sau inflamație la nivel mamelonar.
+
+Tratamentul cu Orkambi nu este indicat la copii cu vârsta sub 2 ani, sau dacă pacientul este alergic la Orkambi, sau la oricare dintre celelalte componente ale acestui medicament, sau dacă pacientul primește tratament cu rifampicină, fenobarbital, carbamazepină, fenitoină.
+
+Orkambi poate afecta modul de acțiune al altor medicamente!
+
+Spuneți medicului dumneavoastră dacă dumneavoastră (în cazul că sunteți pacient) sau copilul dumneavoastră (dacă sunteți părinte de pacient) primiți sau s-ar putea să primiți alte medicamente concomitent cu Orkambi.
+
+Spuneți medicului dacă primiți dvs. sau copilul dvs. (ca pacient) oricare dintre următoarele medicamente:
+
+Aceste medicamente influențează eficiența Orkambi și necesită modificarea dozelor și respectiv monitorizare specială.
+
+Se recomandă a se efectua analize ale sângelui înainte de tratamentul cu Orkambi și periodic în timpul tratamentului. Dacă pacientul are orice afecțiune hepatică sau renală, medicul trebuie să verifice periodic funcțiile hepatice și renale, funcția pulmonară și afectarea oftalmologică conform recomandarilor de monitorizare la 3, 6, 9 și 12 luni sau de câte ori consideră necesar în funcție de evoluția pacientului.
+
+Pentru o supraveghere atentă a stării de sănătate a copilului aflat în tratament, a
+eficienței și a posibilelor reacții adverse ale terapiei cu Orkambi, am obligația de a mă prezenta la medicul curant pentru control la 3, 6, 9, 12 luni de la inițierea tratamentului și ulterior anual, în unitatea sanitară unde a fost inițiat tratamentul și să respect protocolul de tratament și supraveghere, așa cum a fost publicat și mi-a fost explicat de către medic, sau ori de câte ori apar modificări în evoluția stării de sănătate a copilului meu (dacă sunt părinte/tutore legal) sau a mea (dacă sunt pacient) sau la solicitarea medicului curant.
+
+În situația în care în mod nejustificat nu voi respecta obligațiile asumate, inclusiv cea de a mă prezenta sistematic la controalele periodice stabilite prin protocolul terapeutic pentru fibroza chistică, obligații care mi-au fost comunicate de către medicul curant,  acesta are dreptul de a mă exclcude (sau a exclude copilul meu) din acest program de tratament, așa cum este stipulat în  protocolul terapeutic.
+
+În cazul în care evoluția clinică este nefavorabilă sau riscurile prin efecte adverse depășesc beneficiile, medicul curant poate opta pentru întreruperea tratamentului cu Orkambi.
+
+Sunt de acord să respect condițiile de includere în programul de tratament cu Orkambi.
+
+Înainte de a începe tratamentul, mă voi prezenta împreună cu copilul meu la
+medicul curant în vederea instructajului efectuat de către medic și de către asistenta medicală
+privind modul de administrare.
+
+După inițierea tratamentului, în termen de maxim 14 zile mă oblig să mă prezint cu toate documentele medicale la medicul din teritoriu care urmează a continua prescrierea tratamentului (medicii din specialitatea pediatrie, pneumologie pediatrică, pneumologie din teritoriu sau  medicul meu de familie).
+
+Pacient:
+Semnătura:
+Părinte/ Tutore legal:
+Semnătura:
+Medic curant:
+Semnătură:
+Data:”
+La anexa nr. 1, după protocolul terapeutic corespunzător poziției cu nr. 341 se introduce protocolul terapeutic corespunzător poziției nr. 342 cod (B02BD02): DCI TUROCTOCOG ALFA PEGOL cu următorul cuprins:
+
+”Protocol terapeutic corespunzător poziției nr. 342 cod (B02BD02): DCI TUROCTOCOG ALFA PEGOL
+
+I.	DEFINIȚIA AFECȚIUNII:
+
+1. Hemofilia A este o afecțiune hemoragică congenitală transmisă ereditar X-linkat, caracterizată prin sinteza cantitativ diminuată sau calitativ alterată a factorilor de coagulare VIII.
+
+În funcție de nivelul seric al factorului de coagulare, se descriu 3 forme de severitate ale hemofiliei A:
+- forma ușoară, cantitatea de factor de coagulare este 5% - 40% (0,05 - 0,40 UI/ml)
+- forma moderată, cantitatea de factor de coagulare cuprinsă între 1 - 5% (0,01 - 0,05 UI/ml)
+- forma severă, cantitatea factor de coagulare < 1% din normal (< 0,01 UI/ml).
+
+Conform datelor Federației Mondiale de Hemofilie (WFH) și ale Consorțiului European de Hemofilie (EHC), nu există diferențe notabile ale incidenței hemofiliei congenitale, legate de zona geografică, rasă sau de nivelul socio-economic. Prevalența bolii este de aproximativ 25 de cazuri la 100.000 persoane de sex masculin, respectiv 1 bolnav la 10.000 persoane din populația totală. În medie, 80-85% din cazuri sunt reprezentate de hemofilia A, iar proporția formelor severe (nivelul FVIII < 1%) este de 50 - 70%.i
+
+2. Manifestările hemoragice:
+Fenotipul caracteristic al hemofiliei constă în tendința la hemoragii spontane sau provocate în funcție de severitatea deficitului de factor de coagulare (Tabele 1, 2 și 3).
+
+Tabel nr. 1: Corelația dintre severitatea episoadelor hemoragice și nivelul factorului de coagulare
+
+Tabel nr. 2: Frecvența episoadelor hemoragice în funcție de localizare
+
+Tabel nr. 3: În funcție de localizare, hemoragiile pot fi severe sau care pun viața în pericol
+
+3. Protocol de diagnostic inițial al hemofiliei congenitale:
+
+Diagnosticul
+Suspiciunea de diagnostic
+anamneza (manifestări hemoragice caracteristice, ancheta familială - arborele genealogic);
+diagnostic activ la copiii de sex masculin din familiile cu hemofilie (arborele genealogic);
+circa 50% din cazurile nou diagnosticate nu au antecedente familiale (forme sporadice).
+
+Confirmarea diagnosticului și precizarea tipului de hemofilie
+timp parțial de tromboplastină activat (TPTA);
+timp de consum de protrombină;
+timpul de coagulare global, timpul Howell cu valori frecvent normale în formele non-severe și nefiind indicate ca teste screening (tabel nr. 4);
+corecția timpului de consum de protrombină sau a TPTA cu plasmă proaspătă, ser vechi și plasmă absorbită pe sulfat de bariu;
+determinarea concentrației plasmatice a factorului VIII/IX - prin metodă coagulometrică sau cromogenică.
+
+Tabel nr. 4 - Interpretarea testului screening
+
+Precizarea formei de severitate a hemofiliei - determinarea concentrației plasmatice a factorului VIII/IX prin metodă coagulometrică sau cromogenică.
+
+Identificarea inhibitorilor - determinarea inhibitorilor anti-FVIII sau anti-FIX, testul cel mai accesibil fiind testul Bethesda, testul de recovery și stabilirea timpului de înjumătățire a FVIII și FIX.
+
+II.	 INDICAȚII TERAPEUTICE:
+
+Tratamentul și profilaxia sângerărilor la pacienții cu vârsta de 12 ani și peste, cu hemofilie A (deficit congenital de factor VIII)  - face obiectul unui contract cost-volum
+
+Substanța activă turoctocog alfa pegol este un conjugat covalent al proteinei turoctocog alfa cu polietilenglicol (PEG) 40 kDa. Factorul uman VIII, produs prin tehnologie ADN recombinant dintr-o linie celulară ovariană de hamster chinezesc (OHC) și nu se utilizează aditivi de origine umană sau animală în cultura celulară, purificarea, conjugarea sau formularea turoctocog alfa pegol. Turoctocog alfa pegol este un medicament de tip factor VIII uman recombinant (rFVIII) purificat, cu 40 kDa polietilenglicol (PEG) conjugat la proteină. PEG este atașat de glicanul legat de O din domeniul B trunchiat al rFVIII (turoctocog alfa). Mecanismul de acțiune al turoctocog alfa pegol se bazează pe înlocuirea factorului VIII deficitar sau absent la pacienții cu hemofilie A. Atunci când turoctocog alfa pegol este activat de trombină la locul leziunii, domeniul B care conține fragmentul PEG și regiunea a3 sunt scindate, generând astfel factorul VIII (rFVIIIa) recombinant activat care este similar structurii factorului VIIIa endogen.
+
+III.	CRITERII PENTRU INCLUDEREA UNUI PACIENT ÎN TRATAMENT:
+
+1. Criterii de includere în tratament:
+Pacienții cu vârsta de 12 ani și peste, cu hemofilie A (deficit congenital de factor VIII) indiferent de formă (ușoară, moderată sau severă).
+
+2. Criterii de excludere:
+Hipersensibilitate la substanța activă sau la oricare dintre excipienții enumerați: Clorură de sodiu, L-Histidină, Zahăr, Polisorbat 80, L-Metionină, Clorură de calciu dihidrat, Hidroxid de sodiu, Acid clorhidric;
+Reacții alergice cunoscute la proteine de hamster;
+Pacienții cu vârsta de sub 12 ani.
+
+IV.	PROTOCOL DE TRATAMENT AL HEMOFILIEI A CONGENITALE CU TUROCTOCOG ALFA PEGOL (doze, ajustarea dozelor, perioada de tratament):
+
+1. Doze
+Doza, intervalul de administrare și durata terapiei de substituție depind de severitatea deficitului de factor VIII, de locul și de intensitatea sângerării, de nivelul activității vizate a factorului VIII și de starea clinică a pacientului. Numărul de unități de factor VIII administrat este exprimat în unități internaționale (UI), stabilite conform standardului actual al concentrației stabilit de OMS privind medicamentele care conțin factor VIII. Activitatea plasmatică a factorului VIII este exprimată fie ca procent (raportat la valoarea plasmatică normală la om), fie, de preferință, în unități internaționale pe dl (raportat la standardul internațional actual privind nivelul de factor VIII în plasmă).
+O unitate internațională (UI) a activității factorului VIII este echivalentă cu cantitatea de factor VIII dintr-un ml de plasmă umană normală.
+
+2. Mod de administrare
+Turoctocog alfa pegol este pentru administrare intravenoasă.
+Turoctocog alfa pegol trebuie administrat prin injecție intravenoasă (timp de aproximativ 2 minute) după reconstituirea pulberii cu 4 ml din solventul furnizat (clorură de sodiu 9 mg/ml (0,9%) soluție
+injectabilă).
+
+3. Tratamentul profilactic continuu sau intermitent:
+-  Tratamentul profilactic continuu definit ca intenția de tratament pentru 52 de săptămâni pe an și un minim de administrări definit a priori pentru cel puțin 45 săptămâni (85%) pe an;
+- Tratamentul profilactic intermitent definit ca tratament administrat pentru prevenirea sângerărilor pe o perioadă de timp care nu depășește 20 de săptămâni consecutive într-un an sau între 20 - 45 de săptămâni în cazurile selectate și bine documentate.
+
+În cazul profilaxiei, doza recomandată este de 50 UI de turoctocog alfa pegol per kg greutate corporală la fiecare 4 zile. Dozele și intervalele dintre administrări pot fi ajustate în funcție de valorile FVIII obținute și de tendința de sângerare individuală.
+Doza la adolescenți (12 ani și peste) este aceeași cu cea pentru adulți.
+
+4. Tratamentul la nevoie "ON DEMAND":
+Calcularea dozei necesare de factor VIII se bazează pe observația empirică că 1 UI de factor VIII pe kg greutate corporală crește activitatea plasmatică a factorului VIII cu 2 UI/dl.
+Doza necesară este determinată pe baza următoarei formule:
+Unități internaționale (UI) necesare = greutatea corporală (kg) x creșterea dorită de factor VIII (%) x 0,5
+Cantitatea administrată și frecvența de administrare trebuie ajustate întotdeauna în scopul maximizării eficacității clinice, pentru fiecare pacient în parte.
+În cazul următoarelor evenimente hemoragice, activitatea factorului VIII nu trebuie să scadă sub nivelul precizat de activitate în plasmă (în % față de normal sau în UI/dl) în perioada corespunzătoare. Pentru tratamentul sângerărilor, se poate administra o doză unică maximă de turoctocog alfa pegol de 75 UI/kg și o doză totală maximă de 200 UI/kg/24 ore.
+
+Datele din Tabelul nr. 5 de mai jos pot fi utilizate ca ghid pentru stabilirea schemei terapeutice în episoadele de sângerare:
+
+Tabel nr. 5 - Recomandări privind tratamentul episoadelor hemoragice cu turoctocog alfa pegol
+
+aDoza necesară se stabilește cu ajutorul formulei următoare:
+Număr de unități necesare (UI) = greutatea corporală (kg) x creșterea necesară a nivelului de factor VIII (%) (UI/dl) x 0,5 (UI/kg per UI/dl).
+
+Doza și intervalul de administrare pentru o intervenție chirurgicală depind de procedura și practica
+locală. Se poate administra o doză unică maximă de turoctocog alfa pegol de 75 UI/kg și o doză totală maximă de 200 UI/kg/24 ore. Frecvența dozelor și durata terapiei trebuie ajustate întotdeauna individual în funcție de răspunsul clinic individual.
+
+Datele din Tabelul nr. 6 de mai jos pot fi utilizate ca ghid pentru stabilirea schemei terapeutice în intervențiile chirurgicale:
+
+Tabel nr. 6 - Recomandări privind administrarea turoctocog alfa pegol pentru managementul perioperator
+
+a Doza necesară se stabilește cu ajutorul formulei următoare:
+Număr de unități necesare (UI) = greutatea corporală (kg) x creșterea necesară a nivelului de factor VIII (%) (UI/dl) x 0,5 (UI/kg per UI/dl).
+
+Copii și adolescenți
+Doza la adolescenți (12 ani și peste) este aceeași cu cea pentru adulți.
+La copiii cu vârsta sub 12 ani siguranța pe termen lung nu a fost stabilită.
+
+V. CONTRAINDICAȚII:
+Hipersensibilitate la substanța activă sau la oricare dintre excipienți.
+Reacții alergice cunoscute la proteinele provenite de la hamster.
+
+VI. REACȚII ADVERSE, ATENȚIONĂRI ȘI PRECAUȚII SPECIALE PENTRU UTILIZARE:
+În cazuri rare au fost observate reacții de hipersensibilitate sau alergice (care pot include angioedem, senzație de arsură și de usturime la locul administrării în perfuzie, frisoane, înroșirea feței, urticarie generalizată, cefalee, papule pruriginoase, hipotensiune arterială, letargie, greață, neliniște, tahicardie, senzație de constricție toracică, senzație de furnicături, vărsături, wheezing) și pot evolua în unele situații la anafilaxie severă (inclusiv șoc).
+Foarte rar s-a observat dezvoltarea de anticorpi împotriva proteinelor provenite de la hamster, însoțită de reacții de hipersensibilitate.
+
+Atenționări și precauții:
+în cazul apariției simptomelor de hipersensibilitate, tratamentul trebuie întrerupt imediat;
+formarea anticorpilor neutralizanți (inhibitori) față de factorul VIII este o complicație cunoscută în tratamentul pacienților cu hemofilie A. Riscul dezvoltării inhibitorilor este corelat cu severitatea afecțiunii, precum și cu expunerea la factor VIII, acest risc fiind maxim în primele 50 de zile de expunere. Relevanța clinică a dezvoltării inhibitorilor va depinde de titrul inhibitorilor, astfel: cazurile cu inhibitori în titru scăzut și prezenți în mod tranzitoriu sau cazurile cu inhibitori în titru scăzut și prezenți în mod constant prezintă un risc mai scăzut de apariție a unui răspuns clinic insuficient, în comparație cu cazurile cu inhibitori în titru crescut.
+Acest medicament conține 30,5 mg de sodiu per flacon reconstituit, echivalent cu 1,5% din aportul zilnic maxim recomandat de OMS de 2,0 g sodiu pentru un adult.
+nu există experiență referitoare la utilizarea factorului VIII în timpul sarcinii și alăptării. Prin urmare, factorul VIII nu trebuie utilizat în timpul sarcinii și al alăptării decât dacă este clar indicat.
+
+VII. MONITORIZAREA TRATAMENTULUI:
+monitorizarea clinică și paraclinică la cel mult 3 luni a evenimentelor hemoragice cu orice localizare și a statusului articular;
+determinarea corespunzătoare a valorilor de factor VIII pe durata tratamentului prin teste adecvate de laborator (testul pe substrat cromogenic, fie testul de coagulare într-o singură etapă), cu rol în stabilirea dozei care trebuie administrată și a frecvenței de repetare a perfuziilor.
+
+VIII. CRITERII PENTRU ÎNTRERUPEREA TRATAMENTULUI:
+Hipersensibilitate la substanța activă care include erupție cutanată, urticarie generalizată, constricție toracică, wheezing, hipotensiune arterială și anafilaxie sau la oricare dintre excipienți sau la proteinele de hamster.
+
+IX. MEDICI PRESCRIPTORI:
+Medici cu specialitatea hematologie, pediatrie sau medicină internă, cu atestare din partea unui serviciu de hematologie, pentru cazurile în care nu există medic pediatru sau hematolog, din unitățile sanitare prin care se derulează PNS hemofilie și talasemie.”
+
+La anexa nr. 1, după protocolul terapeutic corespunzător poziției cu nr. 342 se introduce protocolul terapeutic corespunzător poziției nr. 343 cod (L01FD04): DCI TRASTUZUMABUM DERUXTECANUM cu următorul cuprins:
+
+”Protocol terapeutic corespunzător poziției nr. 343 cod (L01FD04): DCI TRASTUZUMABUM DERUXTECANUM
+
+I. Indicație (face obiectul unui contract cost-volum):
+Trastuzumab deruxtecan în monoterapie este indicat pentru tratamentul pacienților adulți cu cancer mamar nerezecabil sau metastazat HER2 pozitiv, cărora li s-au administrat anterior doua sau mai multe scheme de tratament anti-HER2.
+
+Această indicație se codifică la prescriere prin codul 124 (conform clasificării internaționale a maladiilor revizia a 10-a, varianta 999 coduri de boală).
+
+II. Criterii de includere:
+vârstă peste 18 ani;
+status de performanta ECOG 0-2;
+Cancer mamar nerezecabil sau metastazat HER2 pozitiv (scor 3+ la IHC sau rezultat pozitiv la testarea de tip hibridizare in situ (ISH)), care au primit anterior doua sau mai multe scheme de tratament anti-HER2.
+III. Criterii de excludere/contraindicații
+Sarcină/alăptare;
+Hipersensibilitate cunoscută la substanța activă sau la oricare dintre excipienți
+Boala pulmonară interstițială/pneumonită
+Metastaze cerebrale netratate anterior sau simptomatice (instabile din punct de vedere clinic – la aprecierea medicului curant)
+
+IV. Durata tratamentului: până la progresia bolii sau la apariția toxicității inacceptabile.
+
+Atenționări și precauții speciale pentru utilizare
+În scopul prevenirii erorilor de medicație, este important să se verifice etichetele flaconului, pentru a se asigura faptul că medicamentul care urmează să fie pregătit și administrat este Enhertu (trastuzumab deruxtecan) și nu trastuzumab sau trastuzumab emtanzină.
+
+Pentru a avea sub control trasabilitatea medicamentelor biologice, numele și numărul lotului medicamentului administrat trebuie înregistrate cu atenție.
+
+Au fost raportate cazuri de boală pulmonară interstițială (BPI) și/sau pneumonită la utilizarea Trastuzumab deruxtecan. Au fost observate rezultate letale. Pacienții trebuie sfătuiți să raporteze imediat tusea, dispneea, febra și/sau orice simptome respiratorii noi sau agravate. Pacienții trebuie monitorizați pentru semnele și simptomele de BPI/pneumonită. Dovezile de BPI/pneumonită trebuie investigate cu promptitudine. Pacienții cu suspiciune de BPI/pneumonită trebuie evaluați prin imagistică radiologică, preferabil folosind scanarea prin tomografie computerizată (CT). Trebuie avută în vedere consultarea unui medic pneumolog. Pentru BPI/pneumonită asimptomatică (Gradul 1), se va avea în vedere tratamentul cu corticosteroizi (de exemplu, prednisolon ≥ 0,5 mg/kg și zi sau echivalent). Tratamentul cu Trastuzumab deruxtecan trebuie sistat până la recuperarea la Gradul 0 și poate fi reluat conform instrucțiunilor. Pentru BPI/pneumonită simptomatică (Gradul 2 sau peste), se
+va începe cu promptitudine tratamentul cu corticosteroizi (de exemplu, prednisolon ≥ 1 mg/kg și zi sau echivalent) și se va continua timp de cel puțin 14 zile, după care se reduce treptat timp de cel puțin 4 săptămâni. Tratamentul cu Trastuzumab deruxtecan trebuie oprit definitiv la pacienții care sunt diagnosticați cu BPI/pneumonită simptomatică (Gradul 2 sau peste). Pacienții cu istoric de BPI/pneumonită sau pacienții cu insuficiență renală moderată sau severă pot fi expuși unui risc crescut de a dezvolta BPI/pneumonită și trebuie monitorizați cu atenție.
+
+Neutropenie
+În studiile clinice cu Trastuzumab deruxtecan au fost raportate cazuri de neutropenie, inclusiv neutropenie febrilă cu evoluție letală. Hemoleucograma completă trebuie monitorizată înainte de începerea tratamentului cu Trastuzumab deruxtecan și înainte de administrarea fiecărei doze, precum și conform indicațiilor. În funcție de severitatea neutropeniei, poate fi necesară întreruperea terapiei sau reducerea dozei Trastuzumab deruxtecan.
+
+Scăderea fracției de ejecție a ventriculului stâng
+Scăderea fracției de ejecție a ventriculului stâng (FEVS) a fost observată în asociere cu terapiile antiHER2. Trebuie să se efectueze testarea funcțională cardiacă standard (ecocardiografie sau scanare [cu achiziție multiplă] MUGA) pentru a evalua FEVS înainte de începerea administrării Trastuzumab deruxtecan și la intervale de timp regulate în timpul tratamentului, după cum este indicat din punct de vedere clinic.
+
+Pacienți cu insuficiență hepatică moderată sau severă
+Deoarece metabolizarea și excreția biliară reprezintă căile principale de eliminare ale inhibitorului topoizomerazei I, DXd, Trastuzumab deruxtecan trebuie administrat cu precauție la pacienții cu insuficiență hepatică moderată și severă.
+
+Administrarea concomitentă cu ritonavir, un inhibitor al OATP1B, CYP3A și gp P, sau cu itraconazol, un inhibitor puternic al CYP3A și gp P, nu a avut ca rezultat nicio creștere semnificativă clinic (aproximativ 10-20%) a expunerilor la trastuzumab deruxtecan sau la inhibitorul topoizomerazei I. Nu este necesară ajustarea dozei în timpul administrării concomitente de trastuzumab deruxtecan cu medicamente care sunt inhibitori ai transportorilor CYP3A sau OATP1B sau gp P.
+
+Existența sarcinii la femeile aflate la vârsta fertilă trebuie verificată înainte de începerea administrării Enhertu. Femeile aflate la vârsta fertilă trebuie să utilizeze măsuri contraceptive eficace în timpul tratamentului cu Trastuzumab deruxtecan și timp de cel puțin 7 luni după ultima doză.
+
+Bărbații cu partenere aflate la vârsta fertilă trebuie să utilizeze măsuri contraceptive eficace în timpul tratamentului cu Trastuzumab deruxtecan și timp de cel puțin 4 luni după ultima doză.
+
+Trastuzumab deruxtecan poate avea influență mică asupra capacității de a conduce vehicule sau de a folosi utilaje. Pacienții trebuie informați să acționeze cu prudență atunci când conduc vehicule sau folosesc utilaje, în cazul în care manifestă fatigabilitate, cefalee sau amețeală în timpul tratamentului cu trastuzumab deruxtecan.
+
+V. Schema terapeutică:
+Doza recomandată de trastuzumab deruxtecan este de 5,4 mg/kg administrată sub forma unei perfuzii intravenoase o dată la interval de 3 săptămâni (ciclu de 21 de zile), conform instrucțiunilor din RCP produsului.
+
+Doza inițială trebuie administrată sub formă de perfuzie intravenoasă cu durata de 90 minute. Dacă perfuzia anterioară a fost bine tolerată, dozele ulterioare de Trastuzumab deruxtecan pot fi administrate ca perfuzii cu durata de 30 minute.
+
+Premedicație
+Trastuzumabum Deruxtecanum este emetogen, ceea ce include greață și/sau vărsături tardive. Înainte de fiecare doză, pacienților trebuie să li se administreze premedicație cu o schema terapeutică ce asociază două sau trei medicamente (de exemplu, dexametazonă cu un antagonist al receptorului 5-
+HT3 și/sau cu un antagonist al receptorului NK1, precum și cu alte medicamente, după cum este indicat) pentru prevenirea stărilor de greață și vărsăturilor induse de chimioterapie.
+
+Dacă doza planificată este întârziată sau omisă, aceasta trebuie administrată imediat ce este posibil, fără a se aștepta până la următorul ciclu planificat. Schema terapeutică trebuie ajustată pentru a menține un interval de 3 săptămâni între administrarea dozelor. Perfuzia trebuie administrată la doza și cu viteza pe care pacientul le-a tolerat la cea mai recentă perfuzie.
+
+Modificarea dozei
+Abordarea terapeutică a reacțiilor adverse poate necesita întreruperea temporară a terapiei, reducerea dozei sau oprirea tratamentului cu trastuzumab deruxtecan, conform recomandarilor din RCP.
+
+Modificările dozei în contextul reacțiilor adverse
+1. Boală pulmonară interstițială (BPI)/pneumonită
+BPI/pneumonită asimptomatică (Gradul 1):
+Se întrerupe administrarea trastuzumab deruxtecan până la rezolvarea la Gradul 0, apoi:
+dacă se rezolvă în 28 de zile sau mai puțin de la data debutului, se menține doza.
+dacă se rezolvă în mai mult de 28 de zile de la data debutului, se reduce doza cu un nivel
+Se va avea în vedere tratamentul cu corticosteroizi, imediat ce se suspicionează BPI/pneumonită
+BPI/pneumonită simptomatică (Gradul 2 sau peste)
+Se va opri definitiv administrarea Trastuzumabum Deruxtecanum.
+Se va începe cu promptitudine tratamentul cu corticosteroizi, imediat ce se suspicionează BPI/pneumonită
+
+2. Neutropenie
+Gradul 3 (sub 1,0-0,5 × 109 /l)
+Se va întrerupe administrarea Trastuzumabum Deruxtecanum până la rezolvarea la Gradul 2 sau mai puțin, apoi se va menține doza.
+Gradul 4 (sub 0,5 × 109 /l)
+Se va întrerupe administrarea Trastuzumabum Deruxtecanum până la rezolvarea la Gradul 2 sau mai puțin.
+Se va reduce doza cu un nivel.
+
+3. Neutropenie febrilă: număr absolut de neutrofile mai mic de 1,0 × 109 /l și temperatură mai mare
+de 38,3 °C sau temperatură susținută de 38 °C sau mai mare, timp de peste o oră.
+Se va întrerupe administrarea Trastuzumabum Deruxtecanum până la rezolvare.
+Se va reduce doza cu un nivel.
+
+4. Fracție de ejecție a ventriculului stâng (FEVS) scăzută
+FEVS mai mare de 45% și scăderea absolută față de valoarea inițială este cuprinsă între 10% și 20%:
+- Se va continua tratamentul cu Trastuzumabum Deruxtecanum.
+FEVS cuprinsă între 40% și 45% și scăderea absolută față de valoarea inițială este mai mică de 10%:
+Se va continua tratamentul cu Trastuzumabum Deruxtecanum.
+Se va repeta evaluarea FEVS în decurs de 3 săptămâni.
+FEVS cuprinsă între 40% și 45% și scăderea absolută față de valoarea inițială este cuprinsă între 10% și 20%:
+Se va întrerupe administrarea Trastuzumabum Deruxtecanum.
+Se va repeta evaluarea FEVS în decurs de 3 săptămâni. Dacă FEVS nu s-a recuperat la o scădere mai mică de 10% față de valoarea inițială, se va opri definitiv administrarea Trastuzumabum Deruxtecanum. Dacă FEVS se recuperează la o scădere mai mică de 10% față de valoarea inițială, se va relua tratamentul cu Trastuzumabum Deruxtecanum la aceeași doză.
+FEVS este mai mică de 40% sau scăderea absolută față de valoarea inițială este mai mare de 20%:
+Se va întrerupe administrarea Trastuzumabum Deruxtecanum.
+Se va repeta evaluarea FEVS în decurs de 3 săptămâni. Dacă FEVS este mai mică de 40% sau dacă scăderea absolută față de valoarea inițială mai mare de 20% se confirmă, se va opri definitiv administrarea Trastuzumabum Deruxtecanum.
+Insuficiență cardiacă congestivă (ICC) simptomatică:
+Se va opri definitiv administrarea Trastuzumabum Deruxtecanum.
+
+VI. Întreruperea definitivă/temporară a tratamentului
+la progresia bolii, răspunsul terapeutic se va evalua conform practicii curente.
+sarcina/alăptare;
+reactii adverse severe (BPI/pneumonită simptomatică (Gradul 2 sau peste, Insuficiență cardiacă congestivă (ICC) simptomatică)
+decizia medicului oncolog curant
+decizia/decesul pacientului
+
+VII. Monitorizare:
+Funcția cardiacă trebuie evaluată la inițierea tratamentului și monitorizată pe parcursul acestuia, ori de câte ori este nevoie, inclusiv după încheierea tratamentului.
+Evaluare imagistică periodică conform cu practica curenta
+
+VIII. Prescriptori: medicii din specialitatea oncologie medicală.”
+
+La anexa nr. 1, după protocolul terapeutic corespunzător poziției cu nr. 343 se introduce protocolul terapeutic corespunzător poziției nr. 343 cod (L01XX41): DCI ERIBULINUM cu următorul cuprins:
+
+”Protocol terapeutic corespunzător poziției nr. 344 cod (L01XX41): DCI ERIBULINUM
+
+Indicatia terapeutica (face obiectul unui contract cost-volum):
+
+Eribulin este indicat pentru tratamentul pacienților adulți cu neoplasm mamar local în stadiu avansat sau metastatic, la care boala a progresat după cel puțin un regim chimioterapic pentru boală în stadiu avansat. Tratamentul anterior trebuia să includă o antraciclină și un taxan fie în context adjuvant, fie în context metastatic, cu excepția cazului în care pacienții nu îndeplineau criteriile pentru administrarea acestor medicamente.
+
+Criterii de includere:
+Varsta peste 18 ani
+Diagnostic de neoplasm mamar în stadiu local-avansat sau metastatic, la care boala a progresat după cel puțin un regim de chimioterapie pentru boală în stadiu avansat. Tratamentul anterior trebuie să fi inclus o antraciclină și un taxan fie în context adjuvant, fie în context metastatic, cu excepția cazului în care pacienții au contraindicatii pentru administrarea acestor medicamente.
+Valori ale constantelor hematologice și biochimice care, în opinia medicului oncolog curant, permit administrarea tratamentului cu eribulin în siguranță. NB. Daca pacientii prezinta hipokaliemie, hipocalcemie sau hipomagneziemie acestea trebuie corectate înaintea inițierii tratamentului cu eribulin
+
+Criterii de excludere/:
+Număr absolut de neutrofile (NAN) < 1,5 x 109/l la decizia de initiere a tratamentului
+Număr de trombocite < 100 x 109/l la decizia de initiere a tratamentului
+Sarcina
+
+Contraindicații
+Hipersensibilitatea la substanța activă sau la oricare dintre excipienți
+Alăptarea
+
+Tratament si mod de administrare
+
+Doza recomandată
+Doza recomandată de eribulin este de 1,23 mg/m2; se administrează intravenos, in 2 - 5 minute, în zilele 1 și 8 ale fiecărui ciclu de 21 zile
+
+În UE, doza recomandată se referă la forma de bază a substanței active (eribulin). Calcularea dozei individuale care trebuie administrată unui pacient trebuie efectuată în funcție de concentrația soluției preparate pentru utilizare, care conține eribulin 0,44 mg/ml, și de doza recomandată, de 1,23 mg/m2 .
+Recomandările de mai jos privind scăderea dozei sunt prezentate de asemenea ca doza de eribulin care trebuie administrată în funcție de concentrația soluției preparate pentru utilizare
+Doza poate fi diluată cu până la 100 ml de soluție injectabilă de clorură de sodiu 9 mg/ml (0,9%). Doza nu trebuie diluată în soluție perfuzabilă de glucoză 5%.
+
+Modificări ale dozei
+Temporizarea administrării dozei în timpul tratamentului
+
+Administrarea eribulin trebuie temporizată în ziua 1 sau în ziua 8 în oricare dintre următoarele situații:
+Număr absolut de neutrofile (NAN) < 1 x 109/l
+Număr de trombocite < 75 x 109/l
+Efecte toxice nehematologice de gradul 3 sau 4.
+
+Reducerea dozei în timpul tratamentului
+
+În tabelul 1 sunt prezentate recomandările privind reducerea dozei în cazul repetării tratamentului. După ce a fost redusă, doza de eribulin nu trebuie mărită din nou.
+
+Tabel 1- Recomandări privind reducerea dozei:
+
+Atenționări și precauții speciale pentru utilizare
+Eribulin trebuie evitat la pacienții cu sindrom congenital de interval QT lung.
+
+Pacienților de sex masculin trebuie să li se recomande conservarea spermei înaintea tratamentului, deoarece există posibilitatea infertilității permanente ca urmare a tratamentului cu Eribulinum.
+
+Eribulinum poate provoca reacții adverse cum sunt fatigabilitate și amețeli, care pot avea influență mică sau moderată asupra capacității de a conduce vehicule sau de a folosi utilaje. Pacienților trebuie să li se recomande să nu conducă și să nu folosească utilaje dacă prezintă simptome de fatigabilitate sau amețeli
+
+Pacienți cu insuficiență hepatică
+
+Afectarea funcției hepatice ca urmare a metastazelor
+Doza de eribulin recomandată la pacienți cu insuficiență hepatică ușoară (clasa Child-Pugh A) este de 0,97 mg/m2, administrată intravenos în decurs de 2 până la 5 minute, în ziua 1 și în ziua 8 a unui ciclu de 21 zile.
+
+Doza de eribulin recomandată la pacienți cu insuficiență hepatică moderată (clasa Child- Pugh B) este de 0,62 mg/m2, administrată intravenos în decurs de 2 până la 5 minute în ziua 1 și în ziua 8 a unui ciclu de 21 zile.
+
+Nu s-a studiat administrarea medicamentului la pacienți cu insuficiență hepatică severă (clasa Child- Pugh C), dar se anticipează că este necesară o reducere mai marcată a dozei dacă se administrează eribulin la acești pacienți.
+
+Afectarea funcției hepatice ca urmare a cirozei hepatice
+Acest grup de pacienți nu a fost studiat. Dozele de mai sus pot fi utilizate la pacienți cu insuficiență ușoară și moderată, dar se recomandă monitorizarea atentă, deoarece poate fi necesară reajustarea dozei.
+
+Pacienți cu insuficiență renală
+Reducerea dozei poate fi necesară la unii pacienți cu insuficiență renală moderată sau severă (clearance-ul creatininei <50 ml/min), care pot prezenta o expunere crescută la eribulin. Se recomandă
+prudență și monitorizarea atentă privind siguranța la toți pacienții cu insuficiență renală.
+
+Pacienți vârstnici
+Nu se recomandă ajustări specifice ale dozei în funcție de vârsta pacientului .
+
+Neuropatie periferică
+Pacienții trebuie monitorizați cu atenție în vederea identificării semnelor de neuropatie periferică motorie și senzorială. Apariția neurotoxicității periferice severe necesită temporizarea administrării sau reducerea dozei (Tabelul 1.).
+
+În studiile clinice nu au fost incluși pacienți cu neuropatie preexistentă de grad mai mare de 2. Cu toate acestea, posibilitatea apariției unor simptome noi sau agravarea simptomelor existente nu a fost mai mare la pacienții cu neuropatie de gradul 1 sau 2 preexistentă în comparație cu pacienții incluși în studiu fără această afecțiune.
+
+Durata  tratamentului: până  la  progresia  bolii  sau  până  la  apariția  toxicității  inacceptabile.
+
+Monitorizarea tratamentului:
+Evaluare imagistica periodica (CT sau RMN sau PET-CT) sau in funcție de particularitatea fiecărui pacient, decizia aparținând medicului curant).
+
+Înaintea administrării fiecărei doze de eribulin trebuie efectuată monitorizarea hemogramei complete la toți pacienții. Mielosupresia este dependentă de doză și se manifestă în principal sub formă de neutropenie.
+Neutropenia severă poate fi tratată prin administrarea factorului de stimulare a coloniilor granulocitare (G-CSF) sau a unor medicamente echivalente, potrivit deciziei medicului și în conformitate cu ghidurile terapeutice curente.
+Se recomandă monitorizarea ECG dacă tratamentul este inițiat la pacienți cu insuficiență cardiacă congestivă, bradiaritmii sau tratament concomitent cu medicamente despre care se cunoaște faptul că prelungesc intervalul QT, incluzând antiaritmicele de clasă Ia și III, și pacienți cu tulburări electrolitice.
+
+Criterii pentru intreruperea tratamentului:
+Progresia obiectivă a bolii
+Efecte secundare (toxice) nerecuperate chiar in condițiile scăderii dozei la 0.62mg/m2
+Decizia medicului
+Decizia pacientului de a întrerupe tratamentul
+
+Prescriptori: medici cu specialitatea oncologie medicala.”
+
+La anexa nr. 1, după protocolul terapeutic corespunzător poziției cu nr. 344 se introduce protocolul terapeutic corespunzător poziției nr. 345 cod (N05AX15): DCI CARIPRAZINUM cu următorul cuprins:
+
+”Protocol terapeutic corespunzător poziției nr. 345 cod (N05AX15): DCI CARIPRAZINUM
+
+Indicația terapeutică (face obiectul unui contract cost-volum)
+Tratamentul schizofreniei la adulți (cod 312 conform CIM revizia a 10-a)
+
+Criterii pentru includerea unui pacient în tratament
+
+Criterii de includere
+Diagnostic confirmat de schizofrenie, lipsa contraindicațiilor majore constatată clinic și anamnestic.
+Criterii de excludere
+Lipsă de eficacitate pe baza evaluării clinice, intoleranță la tratament, efecte secundare și/sau adverse necontrolabile sau intolerabile.
+
+Tratament
+Doza inițială recomandată este de 1,5mg. Creșterea dozelor se face progresiv, pe baza evaluării clinico-evolutive, cu câte 1,5mg, o dată pe zi, până la doza eficace. Doza maximă zilnică este de 6mg.
+Ajustarea dozelor și durata tratamentului se stabilesc în funcție de forma, severitatea și stadiul tulburării, pe baza argumentelor clinice și a raportului risc-beneficiu.
+
+Contraindicații
+Hipersensibilitate sau intoleranță.
+Administrarea concomitentă de inhibitori puternici sau moderați ai CYP3A4 (de exemplu: boceprevir, claritromicină, cobicistat, indinavir, itraconazol, ketoconazol, nefazodonă, nelfinavir, posaconazol, ritonavir, saquinavir, telaprevir, telitromcină, voriconazol, diltiazem, eritromicină, fluconazol, verapamil).
+Administrarea concomitentă de inductori puternici sau moderați ai CYP3A4 (de exemplu: carbamazepină, fenobarbital, fenitoină, rifampicină, sunătoare (Hypericum perforatum), bosentan, efavirenz, etravirină, modafinil, nafcilină).
+
+Atenționări și precauții speciale pentru utilizare
+Monitorizarea periodică a tensiunii arteriale, mai ales la pacienții cu boală cardiovasculară cunoscută.
+Monitorizarea periodică a glicemiei la pacienții cu diabet zaharat.
+Monitorizarea periodică a greutății și IMC.
+Prudență și ajustarea dozelor la pacienții vârstnici, după caz și indicație.
+De evitat consumul de alcool pe durata tratamentului.
+
+Monitorizarea tratamentului / criterii de evaluare a eficacității terapeutice
+Evaluarea tratamentului se face la câteva săptămâni de la inițiere și după fiecare ajustare a dozelor. Eficacitatea tratamentului se reflectă în ameliorarea simptomatologiei și a gradului de funcționare globală, pe baza evaluării periodice de specialitate (la 3-6 luni).
+
+Criterii pentru întreruperea tratamentului
+Lipsă de eficacitate pe baza evaluării clinice, intoleranță la tratament, efecte secundare și/sau adverse necontrolabile sau intolerabile, interacțiuni medicamentoase incompatibile, insuficiență hepatică sau renală severă confirmată.
+
+Prescriptori
+Inițiere: Medici din specialitatea psihiatrie.
+Continuare: Medici din specialitatea psihiatrie sau medici de familie care pot continua prescrierea pe o perioadă de 3 luni conform scrisorii medicale eliberate de medicul psihiatru.”
+La anexa nr. 1, după protocolul terapeutic corespunzător poziției cu nr. 345 se introduce protocolul terapeutic corespunzător poziției nr. 346 cod (N06AX26): DCI VORTIOXETINUM cu următorul cuprins:
+
+”Protocol terapeutic corespunzător poziției nr. 346 cod (N06AX26): DCI VORTIOXETINUM
+
+Indicația terapeutică (face obiectul unui contract cost-volum)
+Tratamentul episoadelor depresive majore la adulți (cod 321 conform CIM revizia a 10-a)
+
+Criterii pentru includerea unui pacient în tratament
+Criterii de includere
+Diagnostic confirmat de depresie majoră, lipsa contraindicațiilor majore constatată clinic și anamnestic.
+Criterii de excludere
+Lipsă de eficacitate pe baza evaluării clinice, intoleranță la tratament, efecte secundare și/sau adverse necontrolabile sau intolerabile.
+
+Tratament
+La pacienții cu vârsta sub 65 de ani, doza zilnică inițială și de întreținere este de 10mg. Modificarea dozelor se face pe baza evaluării clinico-evolutive, între 5mg (doză minimă zilnică) și 20mg (doză maximă zilnică).
+La pacienții cu vârsta ≥ 65 de ani, doza inițială este de 5mg (doza eficientă cea mai mică). Se recomandă precauție la doze zilnice mai mari de 10mg la această categorie de pacienți.
+Ajustarea dozelor și durata tratamentului se stabilesc în funcție de forma, severitatea și stadiul tulburării, pe baza argumentelor clinice și a raportului risc-beneficiu. Durata tratamentului după remiterea simptomelor depresive este de cel puțin 6 luni.
+Contraindicații
+Hipersensibilitate sau intoleranță.
+Utilizarea concomitentă cu inhibitori neselectivi ai monoaminoxidazei (IMAO) sau inhibitori selectivi ai MAO-A.
+Atenționări și precauții speciale pentru utilizare
+Prudență și ajustarea dozelor la pacienții vârstnici, după caz și indicație.
+Prudență la asocierea unui alt antidepresiv.
+De evitat consumul de alcool pe durata tratamentului.
+Monitorizarea tratamentului / criterii de evaluare a eficacității terapeutice
+Eficacitatea tratamentului se reflectă în ameliorarea simptomatologiei și a gradului de funcționare globală, pe baza evaluării periodice de specialitate (la 3-6 luni).
+
+Criterii pentru întreruperea tratamentului
+Lipsă de eficacitate pe baza evaluării clinice, intoleranță la tratament, efecte secundare și/sau adverse necontrolabile sau intolerabile, interacțiuni medicamentoase incompatibile.
+
+Prescriptori
+Inițiere: Medici din specialitatea psihiatrie.
+Continuare: Medici din specialitatea psihiatrie sau medici de familie care pot continua prescrierea pe o perioadă de 3 luni conform scrisorii medicale eliberate de medicul psihiatru.”
+
+La anexa nr. 1, după protocolul terapeutic corespunzător poziției cu nr. 346 se introduce protocolul terapeutic corespunzător poziției nr. 347 cod (N06AX27): DCI ESKETAMINUM cu următorul cuprins:
+
+”Protocol terapeutic corespunzător poziției nr. 347 cod (N06AX27): DCI ESKETAMINUM
+
+Indicația terapeutică (face obiectul unui contract cost-volum)
+Tratamentul tulburării depresive majore rezistente la tratament, în asociere cu un SSRI sau un SNRI, la adulții care nu au răspuns la cel puțin două tratamente diferite cu antidepresive în episodul depresiv curent moderat până la sever.
+
+Criterii pentru includerea unui pacient în tratament
+Criterii de includere
+Diagnostic confirmat de depresie rezistentă la tratament, lipsa contraindicațiilor majore constatată clinic și anamnestic, disponibilitate de prezentare într-o unitate sanitară de specialitate pentru administrarea tratamentului și monitorizare post-administrare, conform graficului de administrare.
+Criterii de excludere
+Lipsă de eficacitate pe baza evaluării clinice, intoleranță la tratament, efecte secundare și/sau adverse necontrolabile sau intolerabile, contraindicații majore, vârsta sub 18 ani, pacienți cu cu insuficiență hepatică (severă) Clasa C Child-Pugh.
+Tratament
+Administrarea tratamentului se face în două etape, doar într-un cadru clinic adecvat:
+
+Etapa de inducție: săptămânile 1-4
+În ziua 1 se administrează doza de inițiere. Dozele ulterioare vor fi administrare de două ori pe săptămână.
+Etapa de întreținere: începând cu săptămâna 5
+Pe parcursul săptămânilor 5-8, tratamentul va fi administrat o dată pe săptămână. Începând cu săptămâna 9, tratamentul va fi administrat o dată pe săptămână sau o dată la două săptămâni, în funcție de răspunsul la tratament și evoluția clinică.
+
+Antidepresivele orale recomandate pentru asociere sunt:
+SSRI - escitalopram sau sertralină. Cu prudență, pot fi administrate și alte substanțe din această clasă.
+SNRI - duloxetină sau venlafaxină cu eliberare prelungită
+
+Înaintea administrării, pacientul trebuie instruit să nu consume alimente cu 2 ore înainte, să nu folosească decongestionante nazale cu 1 oră înainte și să nu consume băuturi cu 30 minute înainte. De asemenea, va fi instruit să nu planifice conducerea de autovehicule sau implicarea în activități care necesită vigilență mentală și coordonare motorie până în ziua următoare, după un somn odihnitor.
+
+Tensiunea arterială va fi măsurată înaintea administrării. Ca regulă, o valoare peste 140/90 mmHg impune evaluarea raportului risc-beneficiu pentru administrarea esketaminei.
+
+Administrarea spray-ului nazal de esketamină se face de către pacient, sub supravegherea personalului medical, conform procedurii descrise în prospect.
+
+După administrare, pacientul va fi monitorizat timp de 1-2 ore în privința tensiunii arteriale și a stării de vigilență, putând părăsi unitatea sanitară atunci când starea generală este considerată stabilă de către medic. Pacientul nu va conduce autovehicule după administrarea tratamentului.
+
+La sfârșitul perioadei de inducție se va face o evaluare a beneficiului terapeutic pentru a aprecia oportunitatea de continuare a tratamentului în etapa de întreținere. În situația în care pacientul prezintă indicație de continuare a administrării, durata tratamentului după ameliorarea simptomelor depresive este de cel puțin 6 luni.
+Graficul de administrare și ajustarea dozelor în funcție de vârstă și evoluția clinică sunt redate în tabelul de mai jos.
+
+Contraindicații
+Hipersensibilitate sau intoleranță.
+Tensiune arterială necontrolată terapeutic.
+Istoric de AVC sau boală anevrismală
+Eveniment cardiovascular recent (în ultimele 6 săptămâni), inclusiv infarct miocardic
+Pacienți cu antecedente de hemoragie intracerebrală
+
+Atenționări și precauții speciale pentru utilizare
+Prudență și ajustarea dozelor la pacienții vârstnici, după caz și indicație.
+Comorbidități psihiatrice (adicții, tulburări psihotice, tulburare bipolară).
+Hipertiroidism care nu a fost suficient tratat
+De evitat consumul de alcool pe durata tratamentului.
+Spravato nu este recomandat în timpul sarcinii și la femeile aflate la vârsta fertilă și care nu utilizează metode contraceptive. Dacă o femeie rămâne gravidă în timpul tratamentului cu Spravato, tratamentul trebuie întrerupt, iar pacienta trebuie consiliată cât mai rapid posibil cu privire la riscul potențial pentru făt și opțiunile clinice/terapeutice.
+
+Monitorizarea tratamentului / criterii de evaluare a eficacității terapeutice
+Eficacitatea tratamentului se reflectă în ameliorarea simptomatologiei și a gradului de funcționare globală, pe baza evaluării periodice de specialitate, după etapa de inducție și ulterior la 3-6 luni.
+
+Criterii pentru întreruperea tratamentului
+Lipsă de eficacitate pe baza evaluării clinice, intoleranță la tratament, efecte secundare și/sau adverse necontrolabile sau intolerabile, interacțiuni medicamentoase incompatibile.
+
+Prescriptori
+Inițiere și continuare:	Medici din specialitatea psihiatrie din unitațile sanitare de specialitate prin care se deruleaza subprogramul P11.2 – Tulburare depresivă majoră.”
+
+La anexa nr. 2, după poziția 26 se introduce o nouă poziție, poziția 27, cu următorul cuprins:
+
+La anexa nr. 2, protocolul terapeutic corespunzător poziției nr. 9 cod (J05AP): HEPATITĂ CRONICĂ ȘI CIROZĂ HEPATICĂ COMPENSATĂ CU VHC-MEDICAMENTE CU ACȚIUNE ANTIVIRALĂ DIRECTĂ (INTERFERON-FREE) se modifică și se înlocuiește cu următorul protocol:
+
+”Protocol terapeutic corespunzător poziției nr. 9 cod (J05AP): HEPATITĂ CRONICĂ ȘI CIROZĂ HEPATICĂ COMPENSATĂ CU VHC-MEDICAMENTE CU ACȚIUNE ANTIVIRALĂ DIRECTĂ (INTERFERON-FREE)
+
+DCI:  Sofosbuvirum+ Ledipasvirum (Harvoni)
+DCI: SOFOSBUVIR + VELPATASVIR (Epclusa)
+DCI: GLECAPREVIR + PIBRENTASVIR (Maviret)
+
+PACIENȚII ADULȚI CU HEPATITĂ CRONICĂ HCV CU FIBROZĂ ABSENTĂ PÂNĂ LA SEVERĂ (FO – F3)
+
+Criterii de includere
+Pacienți naivi (fără tratamente antivirale anterioare cu peg-interferon în asociere cu Ribavirina)  cu hepatită cronică cu fibroză F0, F1, F2, F3
+Pacienți care au fost în tratament antiviral anterior (experimentați) cu peg-interferon + Ribavirină – cu fibroză F0, F1 și F2, F3
+Pacienți cu coinfectie VHC-HIV (tratamentul va fi recomandat și monitorizat în centrele regionale HIV/SIDA de către medici specialiști boli infecțioase).
+Pacienți cu coinfecție VHB-VHC - Pacienții cu coinfecție VHB confirmată la inițierea tratamentului cu medicamente cu acțiune antivirală directă, - dacă pacientul îndeplinește criteriile de terapie VHB (conform protocol CNAS/MS), se începe concomitent și tratamentul cu analogi nucleotidici/nucleozidici pentru VHB utilizându-se aceleași criterii de monitorizare, iar dacă are AgHBs pozitiv dar nu intrunește criteriile standard de tratament VHB, trebuie tratat cu analogi nucleozidici/nucleotidici în dozele standard pentru VHB pe parcursul terapiei anti VHC plus încă 12 săptămâni după finalizarea terapiei VHC
+Pacienții cu hepatocarcinom și infecție cronică VHC fără ciroză hepatică eligibili pentru tratament potențial curativ (rezecție sau ablație) vor fi tratați cu medicamente antivirale directe după finalizarea tratamentului pentru hepatocarcinom. Pacienții cu hepatocarcinom și infecție cronică VHC listați pentru transplant hepatic pot fi tratați antiviral înainte sau după transplantul hepatic cu medicamente pangenotipice sau medicamente genotip specifice, conform RCP produs.
+Pacienți cu afecțiuni maligne extrahepatice pot fi tratați, după evaluare imagistică și acordul specialistului oncolog/hematolog.
+
+Evaluarea pre-terapeutică
+Evaluarea fibrozei hepatice (în sistemul Metavir) se va efectua prin
+Testul de evaluare a fibrozei APRI (AST to Platelet Ratio Index)*sau
+Elastografie hepatică (Fibroscan sau alte determinări) sau
+Fibromax sau
+PBH
+* (În cazul în care APRI este peste 0,50 se recomandă evaluarea gradului de fibroză și prin una din celelalte metode)
+Vor fi luate în considerare și determinările anterioare sau curente care arată absența fibrozei (F0)  sau existența fibrozei F1 sau F2 sau F3 ( PBH sau Fibroscan sau alte metode de elastografie hepatică sau Fibromax) dar nu mai vechi de 2 ani.
+
+Gradul de fibroză hepatică se determină doar dacă medicul curant apreciază că este necesar pentru includerea corectă a pacientului în tratament și alegerea schemei terapeutice și a duratei optime a acesteia.
+
+Determinarea cantitativă a ARN-VHC (ARN VHC peste limita de detecție a laboratorului≥10 UI/ml sau ≥ 12 UI/ ml sau ≥15UI/ml). Tratamentul este indicat indiferent de valoarea ARN VHC (se ia in considerare si o determinare anterioara (maxim 12 luni)
+anticorpi anti HCV pozitivi. Poate fi luată în considerare și o determinare anterioară.
+Transaminazele serice (ALT, AST)
+Hemograma
+Creatinina serică (la pacienții cu insuficiență renală cronică este necesară și rata de filtrare glomerulară);
+Evaluarea și înregistrarea corectă și completă a medicamentelor utilizate de pacient în vederea evitării contraindicațiilor sau interacțiunilor medicamentoase (vezi Rezumatul Caracteristicilor Produselor)
+genotiparea (optionala) – poate fi efectuată la recomandarea medicului prescriptor, în funcție de încadrarea pacientului într-o grupă de risc de a prezenta alt genotip decât 1B și în funcție de schema terapeutică ce urmează a fi recomandată
+ecografie abdominală
+
+Criterii de excludere/contraindicații
+
+Comorbiditățile extra-hepatice severe care implică o durată de viață limitată
+Contraindicațiile medicamentoase specifice pentru optiunea terapeutică aleasă: vezi Rezumatul Caracteristicilor Produselor Harvoni, Epclusa, Maviret
+
+Tratament cu una dintre următoarele opțiuni-posologie:
+
+	1. Harvoni: 1 cp.pe zi cu sau fără alimente
+sau
+2. Epclusa: 1 cp.pe zi cu sau fără alimente
+						sau
+    	3. Maviret: 3 cp.odată pe zi cu alimente
+
+Durata tratamentului (săptămâni):
+
+Pacienții naivi.
+
+Pacienții experimentați:
+
+*16 săptămâni doar pentru gen. 3
+
+Monitorizarea tratamentului
+
+În timpul tratamentului
+Pacienții cu infecție ocultă VHB (Ag HBs negativ, Ac anti HBc pozitiv, Ac anti HBs negativ) vor fi monitorizați lunar pe parcursul tratamentului cu medicamente cu acțiune antivirală directă: ALT, AST (lunar).
+
+Dacă pe parcursul monitorizării se constată creșterea transaminazelor, (sau lipsa de normalizare daca anterior erau crescute) se va repeta Ag HBs si DNA VHB. Dacă una dintre ele este pozitivă (indiferent de nivel) se începe tratamentul pentru VHB conform recomandărilor anterioare.
+La terminarea tratamentului: Transaminazele serice, Hemograma
+
+La 12 săptămâni de la terminarea tratamentului
+Viremia cantitativă (RVS-12) : ARN VHC
+
+Criterii de evaluare a rezultatului terapiei
+
+Răspuns virusologic susținut (RVS-12):
+ARN-VHC nedetectabil la 12 săptămâni de la terminarea tratamentului
+Eșec terapeutic:
+ARN-VHC detectabil, indiferent de nivelul de detecție  la 12 săptămâni de la terminarea tratamentului.
+
+Prescriptori
+Medicii în specialitatea gastroenterologie și medicii în specialitatea boli infecțioase, aflați în relații contractuale cu casele de asigurări de sănătate: Arad, Argeș, București, Bacău, Bihor, Brașov, Cluj, Constanța, Dolj, Galați, Iași, Mureș, Sibiu, Timiș, Suceava, Vâlcea și CAS AOPSNAJ
+PACIENȚII ADULȚI CU HEPATITĂ CRONICĂ HCV CU CIROZĂ COMPENSATĂ – scor Child – Pugh A
+Criterii de includere
+Pacienți naivi (fără tratamente antivirale anterioare pe bază de peg-interferon ) cu fibroză F4 ( ciroză compensată Child – Pugh A).
+Pacienți experimentați (tratamente antivirale anterioare cu peg-interferon +Ribavirină ) cu F4 (ciroză compensată Child – Pugh A).
+Pacienții cu coinfecție VHC-HIV (tratamentul va fi recomandat și monitorizat în centrele regionale HIV/SIDA de către medici specialiști boli infecțioase).
+Pacienții cu coinfecție VHC-VHB
+Pacienții cu coinfecție VHB confirmată la inițierea tratamentului cu medicamente cu acțiune antivirală directă, - dacă pacientul îndeplinește criteriile de terapie VHB (conform protocol CNAS/MS), se începe concomitent și tratamentul cu analogi nucleotidici/nucleozidici pentru VHB utilizându-se aceleași criterii de monitorizare, iar dacă are AgHBs pozitiv dar nu întrunește criteriile standard de tratament VHB, trebuie tratat cu analogi nucleozidici/nucleotidici în dozele standard pentru VHB pe parcursul terapiei anti VHC plus încă 12 săptămâni după finalizarea terapiei VHC.
+Pacienții cu hepatocarcinom și infecție cronică VHC cu ciroză hepatică compensată eligibili pentru tratament potențial curativ (rezecție sau ablație) vor fi tratați cu medicamente antivirale directe după finalizarea tratamentului pentru hepatocarcinom. Pacienții cu hepatocarcinom și infecție cronică VHC listați pentru transplant hepatic pot fi tratați antiviral înainte sau după transplantul hepatic cu medicamente pangenotipice sau medicamente genotip specifice, conform RCP produs.
+Pacienții cu afecțiuni maligne extrahepatice pot fi tratați, după evaluare imagistică și acordul specialistului oncolog/hematolog.
+
+Evaluarea pre-terapeutică
+
+Evaluarea fibrozei hepatice (în sistemul Metavir) se va efectua prin:
+Testul de evaluare a fibrozei APRI (AST to Platelet Ratio Index)* sau
+Elastografie hepatică (Fibroscan sau alte determinări) sau
+Fibromax sau
+PBH
+* (În cazul în care APRI este peste 0,50 se recomandă evaluarea gradului de fibroză și prin una din celelalte metode)
+Vor fi luate în considerare și determinările anterioare sau curente care arată existența fibrozei F4 (PBH sau Fibroscan sau alte metode de elastografie hepatică sau Fibromax) dar nu mai vechi de 2 ani.
+Atunci când ciroza este evidentă (clinic,imagistic) sau sunt prezente semnele hipertensiunii portale (varice esofagiene) - evaluarea gradului fibrozei nu mai este necesară.
+ARN-VHC (peste limita de detecție  a laboratorului  ≥10 UI/ml sau ≥ 12 UI/ ml sau ≥15UI/ml) - indiferent de valoare. (se ia in considerare si o determinare anterioara (maxim 12 luni)
+anticorpi anti HCV pozitivi. Poate fi luată în considerare și o determinare anterioară.
+Transaminazele serice (ALT, AST) - indiferent de valoare
+Hemograma
+Albumina serică
+Bilirubina
+TP (INR)
+Alfa-fetoproteina; în cazul în care nivelul seric al AFP depășește 50 ng/ml, se recomandă examen CT sau IRM abdomen cu substanță de contrast i.v. pentru excluderea hepatocarcinomului
+Creatinina serică (la pacienții cu insuficiență renală cronică este necesară și rata de filtrare glomerulară);
+Ecografia abdominală (suspiciunea de HCC impune CT și/sau RMN cu substanță de contrast)
+Endoscopia digestivă superioară (varice esofagiene, risc de sângerare, gastropatie portal-hipertensivă)
+Bolile asociate (pulmonare, cardiace, renale etc) impun consultarea și evaluarea contraindicațiilor din punct de vedere al specialității respective pentru introducerea tratamentului antiviral.
+Evaluarea și înregistrarea corectă și completă a medicamentelor utilizate de pacient în vederea evitării contraindicațiilor sau interacțiunilor medicamentoase (vezi Rezumatul Caracteristicilor Produselor sau http//www.hepdruginteractions.org).
+genotiparea (optionala) – poate fi efectuată la recomandarea medicului prescriptor, în funcție de încadrarea pacientului într-o grupa de risc de a prezenta alt genotip decât 1 B și în funcție de schema terapeutica ce urmează a fi recomandată.
+
+Criterii de excludere/contraindicații
+Cirozele decompensate (ascită, icter, hemoragie digestivă, encefalopatie hepatică, peritonită bacteriană spontană, sindrom hepato-renal) actual sau în antecedente, scorul Child-Pugh> 6 puncte
+Comorbiditățile extra-hepatice care implică o durată de viață limitată
+Contraindicațiile medicamentoase specifice pentru opțiunea terapeutică aleasă: vezi Rezumatul Caracteristicilor Produselor Harvoni, , Epclusa, Maviret
+
+Tratament cu una dintre următoarele opțiuni-posologie:
+
+1 .Harvoni: 1cp pe zi cu sau fără alimente
+sau
+2. Epclusa: 1cp zi cu sau fără alimente
+sau
+3. Maviret: 3 cp odată pe zi cu alimente
+
+Durata tratamentului (săptămâni):
+
+a) Pacienții naivi
+* doar pentru gen. 3 în asociere cu Ribavirina
+** Asocierea Ribavirinei la tratamentul cu Harvoni 12 săptămâni va fi decisă de medicul curant în funcție de starea clinică a pacientului și conform ghidurilor internaționale de tratament a infecției cu VHC
+*** Se poate lua in considerare adaugarea Ribavirinei la pacientii cu genotip 3. La  utilizarea  în  asociere  cu  ribavirină, trebuie  consultat Rezumatul  caracteristicilor produsului pentru medicamentul prescris.
+
+Pacienții experimentați:
+* doar pentru gen. 3 în asociere cu Ribavirina
+** Asocierea Ribavirinei la tratamentul cu Harvoni 12 săptămâni va fi decisă de medicul curant în funcție de starea clinică a pacientului și conform ghidurilor internaționale de tratament a infecției cu VHC
+***16 săptămâni doar pentru gen. 3
+**** Se poate lua in considerare adaugarea Ribavirinei la pacientii cu genotip 3. La  utilizarea  în  asociere  cu  ribavirină, trebuie  consultat Rezumatul  caracteristicilor produsului  pentru  medicamentul  prescris
+
+Monitorizarea tratamentului
+
+În timpul tratamentului
+Pacienții cu infecție ocultă VHB (Ag HBs negativ, Ac anti HBc pozitiv, Ac anti HBs negativ) vor fi monitorizați lunar pe parcursul tratamentului cu medicamente cu acțiune antivirală directă: ALT, AST lunar. Dacă pe parcursul monitorizării se constată creșterea transaminazelor (sau lipsa de normalizare daca anterior erau crescute), se va repeta Ag HBs si DNA VHB. Dacă una dintre ele este pozitivă (indiferent de nivel) se începe tratamentul pentru VHB conform recomandărilor anterioare.
+
+La sfârșitul tratamentului (săptămâna 12)  evaluare biochimică: ALT, AST și analizele pe baza căruia se calculează scorul Child (F4).
+
+La 12 săptămâni de la terminarea tratamentului :
+Viremia cantitativă (RVS-12) : ARN VHC
+
+Notă : Pacienții cu ciroză compensată (F4) vor fi evaluați ulterior la fiecare 6 luni biochimic și ecografic, conform recomandărilor ghidurilor de specialitate (riscul de decompensare, de HDS și HCC deși mai redus, se menține)
+
+Criterii de evaluare a rezultatului tratamentului
+
+Răspuns viral susținut (RVS-12):
+ARN-VHC nedetectabil  la 12 săptămâni de la terminarea tratamentului
+Eșec terapeutic:
+ARN-VHC detectabil, indiferent de nivelul de detecție, la 12 săptămâni de la terminarea tratamentului.
+
+Prescriptori
+Medicii în specialitatea gastroenterologie și medicii în specialitatea boli infecțioase, aflați în relatii contractuale cu casele de asigurari de sănătate: Arad, Argeș, București, Bacău, Bihor, Brașov, Cluj, Constanța, Dolj, Galați, Iași, Mureș, Sibiu, Timiș, Suceava, Vâlcea și CAS AOPSNAJ
+
+CATEGORII SPECIALE DE PACIENȚI ADULȚI INFECTAȚI CU VIRUSULHEPATITIC  C
+
+A. Pacienți cu ciroză hepatică decompensată (clasa Child B sau C) și pacienți cu ciroză hepatică compensată cu episoade de decompensare în antecedente
+a) medicamente pangenotipice
+Epclusa 1cp/zi,+RIBAVIRINA* 1000 mg/zi pentru greutate <75 kg, respectiv 1200 mg/zi pentru greutate ≥ 75 kg, 12 săptămâni
+b) medicamente genotip specifice
+Harvoni 1cp/zi,+RIBAVIRINA* 1000 mg/zi pentru greutate <75 kg, respectiv 1200 mg/zi pentru greutate ≥ 75 kg, 12 săptămâni
+Harvoni 1cp/zi, 24 săptămâni pentru pacienții cu contraindicație la Ribavirina sau cu intoleranță la Ribavirina
+*La pacientii cu scor Child C se administrează initial RIBAVIRINĂ 600 mg/zi și se crește progresiv în acord cu toleranța pacientului, conform RCP produs.
+
+Notă. Evaluarea pre-terapeutica, monitorizarea tratamentului, criteriile de evaluare a rezultatului medical și medicii prescriptori sunt conform pct. 2, 6, 7 si 8 de la cap II.
+
+B.Pacienți cu infecție cronică VHC și afectare renală severă (eGFR<30 ml/min/1.73 m2) și cei hemodializați
+B.1. Pacienți cu hepatită cronică VHC fibroză F0-F3 sau ciroză compensată și afectare renală severă (eGFR<30 ml/min/1.73 m2) și cei hemodializați
+a) medicamente pangenotipice
+Maviret fara ajustarea dozei si posologiei prevazuta la cap I pct. 4 si  5 si cap II pct. 4 si 5
+Epclusa fara ajustarea dozei si posologiei prevazuta la cap I pct. 4 si  5 si cap II pct. 4 si 5, doar în situația în care nu sunt disponibile alte opțiuni de tratament relevante
+b)medicamente genotip specifice
+Harvoni poate fi utilizata la aceasta categorie de pacienti fara ajustarea dozei si posologiei prevazuta la cap I pct. 4 si  5 si cap II pct. 4 si 5, doar în situația în care nu sunt disponibile alte opțiuni de tratament relevante
+B.2. Pacienți cu ciroză hepatică decompensată (clasa Child Pugh B sau C) și afectare renală severă (eGFR<30 ml/min/1.73 m2) și cei hemodializați
+Medicamente pangenotipice
+Epclusa fara ajustarea dozei si posologiei prevazuta la cap I pct. 4 si  5 si cap II pct. 4 si 5,
+
+Nota. La pacientii cu afectare renala severa (inclusiv hemodializa) care necesita administrare de Ribavirina, se va consulta RCP-ul pentru Ribavirina pentru informatiile privind ajustarea dozei.
+
+Evaluarea pre-terapeutică, monitorizarea tratamentului, criteriile de evaluare a rezultatului medical și medicii prescriptori sunt conform pct. 2, 6, 7 și 8 de la cap I sau cap II, după caz, cu precizarea faptului că, inițierea și monitorizarea tratamentului include efectuarea lunară a clearance-ului la creatinină, indiferent de regimul terapeutic, și după caz, medicul prescriptor poate recurge la consultul nefrologic dacă situația o impune, având în vedere contraindicațiile și interacțiunile medicamentoase potențiale.
+
+C. Pacienti cu transplant hepatic
+
+a) medicamente pangenotipice
+Epclusa:
+1cp/zi, 12 saptamani (F0-F3+ ciroză compensată – scor Child – Pugh A). Se poate lua in considerare adaugarea Ribavirinei la pacientii cu genotip 3.
+1cp/zi,+RIBAVIRINA (se va consulta RCP-ul pentru Ribavirina pentru informatiile privind doza), 12 săptămâni (ciroză hepatică decompensată -clasa Child B sau C)
+Maviret – 3 cp/zi, 12 saptamani (F0-F3+ ciroză compensată – scor Child – Pugh A). Trebuie luata in considerare o durata a tratamentului de 16 saptamani la pacientii experimentati, cu genotip 3
+b) medicamente genotip specifice
+Harvoni:
+1cp/zi, 12 săptămâni (F0-F3+ ciroză compensată – scor Child – Pugh A) ±. RIBAVIRINA. Asocierea Ribavirinei la tratamentul cu Harvoni 12 săptămâni va fi decisă de medicul curant în funcție de starea clinică a pacientului și conform ghidurilor internaționale de tratament a infecției cu VHC
+1 cp/zi+RIBAVIRINA (se va consulta RCP-ul pentru Ribavirina pentru informatiile privind doza), 12 săptămâni ( ciroză hepatică decompensată -clasa Child B sau C)
+1cp/zi, 24 săptămâni pentru pacienții cu contraindicație la Ribavirina sau cu intoleranță la Ribavirina
+
+Notă. Evaluarea pre-terapeutică, monitorizarea tratamentului, criteriile de evaluare a rezultatului medical și medicii prescriptori sunt conform pct. 2, 6, 7 și 8 de la cap I sau cap II, după caz  cu precizarea faptului că, monitorizarea pacientului se va face de medicul prescriptor împreună cu medicul curant din centrul care se ocupă de monitorizarea post-transplant.
+
+D. Pacienti cu transplant renal
+
+Medicamente pangenotipice
+Maviret 3 cp/zi, 12 saptamani (F0-F3+ ciroză compensată – scor Child – Pugh A). Trebuie luata in considerare o durata a tratamentului de 16 saptamani la pacientii experimentati cu genotip 3.
+
+Notă. Evaluarea pre-terapeutică, monitorizarea tratamentului, criteriile de evaluare a rezultatului medical și medicii prescriptori sunt conform pct. 2, 6, 7 și 8 de la cap I sau cap II, după caz  cu precizarea faptului că, monitorizarea pacientului se va face de medicul prescriptor împreună cu medicul curant din centrul care se ocupă de monitorizarea post-transplant.
+
+E. Pacienti Reinfectați
+
+Reinfecția cu VHC se definește ca reapariția ARN VHC la peste 24 de săptămâni de la obținerea RVS (ARN VHC nedetectabil la 12 săptămâni dupa terminarea oricărui tip de tratament antiviral cu antivirale directe sau bazat pe Peg-IFN).
+Reinfecția este întâlnită la următoarele categorii de persoane cu risc crescut:
+utilizatorii de droguri intravenoase,
+pacienții HIV pozitivi,
+persoanele care au contacte sexulale cu parteneri multipli, necunoscuți sau contacte sexuale neprotejate (în special barbații care au contacte sexuale cu alți bărbați)
+persoane cu expuneri nosocomiale (după transfuzii, intervenții chirurgicale, intervenții dentare sângerânde, hemodializă, proceduri medicale ce implică utilizarea acelor),
+utilizarea aceluiași instrumentar pt diverse proceduri nonmedicale –(ex. piercing, tatuaje, manichiură),
+persoane cu risc profesional (personalul medical, pompieri, polițiști etc.),
+persoane instituționalizate (ex. deținuți)
+Avand în vedere importanța profilaxiei reinfecției, medicii prescriptori vor informa pacienții de la momentul primei terapii antivirale asupra riscului de reinfecție, ca și asupra mijloacelor de prevenire a reinfectării în funcție de categoria de risc la care aceștia se încadrează, pacientul luând la cunoștință prin semnarea consimțământului informat.
+
+Persoanele încadrate în aceste categorii cu reinfecție VHC documentată de medicul curant (ARN VHC detectabil la peste 24 de săptămâni de la obținerea RVS) au indicație de retratament. Retratamentul se va efectua cu medicație pangenotipică conform recomandărilor din protocol (evaluare pre-terapeutică, posologie, durata tratament, monitorizare și criterii de evaluare a rezultatului medical).
+
+IV. Categorii de pacienți adolescenți cu vârsta cuprinsă între 12 și < 18 ani cu infectie cu VHC eligibili
+
+1. Pacienții cu fibroză F0-F3
+	a. naivi la interferon + ribavirina, genotip 1B,
+Harvoni 1 cp/zi, 8 săptămâni
+Maviret 3 cp/zi 8 săptămâni
+	b. naivi la interferon + ribavirina, oricare alt genotip în afara de genotipul 1B
+Harvoni 1 cp/zi 12 săptămâni
+Maviret 3 cp/zi 8 săptămâniuj
+c. experimentați la interferon + ribavirina oricare genotip în afara de genotipul 3
+Harvoni 1 cp/zi 12 săptămâni
+Maviret  3 cp/zi 8 săptămâni
+d. experimentați la interferon + ribavirina genotip 3
+Harvoni 1 cp/zi, 12 săptămâni
+Maviret 3 cp/zi 16 săptămâni
+
+2. Pacienții cu ciroza hepatică compensată scor Child A
+	a. naivi la interferon + ribavirina, indiferent de genotip,
+Harvoni 1 cp/zi, 12 săptămâni
+Maviret 3 cp/zi 8 săptămâni
+	b. experimentați la interferon + ribavirina oricare genotip în afara de genotipul 3
+Harvoni 1 cp/zi, 12 săptămâni
+Maviret 3 cp/zi 12 săptămâni
+c. experimentați la interferon + ribavirina genotip 3
+Harvoni 1 cp/zi, 12 săptămâni
+Maviret 3 cp/zi 16 săptămâni
+
+3. Pacienții infectați VHC posttransplant hepatic,
+Harvoni 1 cp/zi 12 săptămâni
+Maviret 3 cp/zi 12 săptămâni la orice genotip cu excepția genotipului 3
+	Maviret 3 cp/zi 16 săptămâni la prezența genotipului 3
+
+Genotiparea ramâne o decizie a medicului prescriptor și ține cont de factorii de risc asociați infecției VHC.
+
+Notă
+1. Evaluarea pre-terapeutică, monitorizarea tratamentului și criteriile de evaluare a rezultatului medical sunt conform pct. 2, 6 si 7 de la cap I sau II
+2. Contraindicațiile specifice pentru pacienții pediatrici sunt legate de aprobarea tipul de medicație antivirală  cu acțiune directă pentru vârsta pediatrică
+PRESCRIPTORI
+Medicii pediatri cu supraspecializare/competență/atestat în gastroenterologie pediatrică, medicii din specialitatea gastroenterologie pediatrică și medicii din specialitatea boli infecțioase aflați în relații contractuale cu casele de asigurări de sănătate din judetele București, Bihor, Brașov, Cluj, Constanța, Dolj, Galați, Iași, Mureș, Sibiu, Timiș și CAS AOPSNAJ.”
+
+La anexa nr. 2, protocolul terapeutic corespunzător poziției nr. 14 cod (L034K): BOALA CRONICĂ INFLAMATORIE INTESTINALĂ se modifică și se înlocuiește cu următorul protocol:
+
+”Protocol terapeutic corespunzător poziției nr. 14 cod (L034K): BOALA CRONICĂ INFLAMATORIE INTESTINALĂ
+
+Boala inflamatorie intestinală (BII) cuprinde B. Crohn (BC), colita ulcerativă (CU) și colita în curs de clasificare (Colita nedeterminată).
+
+Diagnosticul complet și stabilirea strategiei terapeutice, inclusiv indicația tratamentului biologic se face prin internare în serviciile de Gastroenterologie care au dotările minime necesare: laborator performant, (și calprotectina, eventual și cu evaluarea nivelului seric și al anticorpilor împotriva produșilor biologici), posibilitatea efectuării endoscopiei digestive superioare și inferioare, Ecografie, ecoendoscopie, imagistică (enteroCT, RMN, Capsula endoscopică). Decizia de întrerupere sau schimbare a agentului terapeutic se face de asemenea prin internare în servicii de gastroenterologie. Urmărirea periodică a pacienților cu BII se poate face și prin ambulatoriile de gastroenterologie sau internare de zi.
+Pentru administrarea agenților biologici, pacientul trebuie să semneze Formularul de Consimțământ Informat al pacientului.
+Pacienții vor fi înscriși în Registrul național de BII: IBD-Prospect (la data la care acesta va deveni operațional)
+
+I. Criterii de diagnostic
+1. Pentru diagnosticul de boală Crohn este necesară existența criteriilor clinice (numărul scaunelor/24 h, sensibilitate abdominală, scădere din greutate, febră, tahicardie), biologice (VSH, PCR, calprotectina, lactoferina, anemie, hipoalbuminemie) endoscopice (VCE): (afte, ulcere serpigionoase, aspect de piatră de pavaj, afectarea lumenului) histologice (când este posibilă biopsia) (inflamație trasmurală, granulom inflamator). Evaluarea gravității se poate face complementar și prin calcularea scorului CDAI.
+
+2. Pentru diagnosticul de colită ulcerativă - scaune diareice cel mai adesea cu sânge, tahicardie, sensibilitate abdominală, febră, probe inflamatorii (VSH, leucocitoza, PCR; calprotectina, anemie) endoscopic sunt prezente parțial sau în totalitate: dispariția desenului vascular, friabilitate, eroziuni, ulcere, sângerări spontane iar histologic se constată infiltrat inflamator în lamina proprie, cript-abcese. Colita ulceroasă fulminantă și colita în curs de clasificare se prezintă cu leziuni extinse (colita stângă extinsă, pancolită) și cu toate criteriile de diagnostic amintite foarte alterate (mai mult de 10 scaune cu sânge, febră, VSH, PCR, calprotectina la valori ridicate etc).
+
+3. Pentru ambele afecțiuni este necesar să existe la inițierea terapiei biologice:
+Consimțământul informat al pacientului
+Excluderea altor cauze de colită (infecțioasă, cu atenție la C. difficile, cu CMV, de iradiere, ischemică, diverticulară, medicamentoasă)
+Screening infecțios - pentru infecțiile sistemice semnificative (HIV; VHB; VHC, TBC), tratamentul anti TNF α se va iniția numai după obținerea avizului favorabil al specialistului pneumolog (în cazul TB). Infecția cu VHC nu este o contraindicație, dar pacientul trebuie monitorizat; infecția cu VHB este o contraindicație relativă; dacă tratamentul cu antiTNF este indispensabil, trebuie precedat de inițierea tratamentului antiviral cu analogi nucleozidici/nucleotidici, iar pacientul trebuie monitorizat adecvat.
+Screening pentru neoplazii, afecțiuni autoimune sau demielinizante, în funcție de riscul individualizat al pacientului
+Screening imagistic (RMN) pentru abcese (intraabdominale/pelvine) care ar contraindica terapia, la pacienții cu boala Crohn forma fistulizantă
+Verificarea inexistenței contraindicațiilor pentru tratamentul biologic.
+Verificarea tuturor caracteristicilor prezentate în RCP-ul și aprobarea ANMDMR a medicamentului prescris (indicații, contraindicații, mod de preparare și administrare, reacții adverse, etc.)
+
+II. Principii terapeutice în BII
+Tratamentul BII urmărește amendarea fazei acute sau a reaprinderilor, instalarea remisiunii și menținerea stării de remisiune.
+Cu excepția unor forme grave tratamentul BII se desfășoară în trepte pe principiul step-up, adică se începe cu terapia standard monoterapie, standard-terapie asociată, terapie biologică.
+În formele acute sunt indicate: preparatele 5-ASA, prednisonul și terapia biologică (nu imunomodulatoarele, cu excepția metotrexatului)
+Pentru tratamentul de menținere a remisiunii sunt indicate preparatele 5-ASA, imunomodulatoarele, și tratamentul biologic (nu corticoizii)
+
+III. Tratamentul standard
+
+1. Colita ulcerativă:
+
+a. Preparatele 5-ASA (sulfasalazină-tb, mesalazină:-tb, supozitoare, clismă, olsalazină-tb) reprezintă prima treaptă de tratament în CU în toate formele evolutive atât în inducția remisiunii și pentru menținerea acesteia. Cel mai utilizat preparat este mesalazina (Salofalk, Pentasa) cu următoarele indicații:
+Supozitoare: 1 g/24 în proctite (rectite)
+Clisme sau spume: 1 g - 4g)/24 h în proctite și colite stângi (până la 60 cm)
+Comprimate: 2 - 4 g/zi. Colite stângi, colite stângi extinse, pancolite
+
+În remisiune - menținerea remisiunii dozele se reduc, prin tatonare, la jumătate.
+
+b. Corticosteroizii (Prednison, Metylprednisolon, Hidrocortison) se administrează în formele refractare la terapia cu compușii 5-ASA și în formele moderat-severe și severe de CU. Prednisonul se administrează în doze de ( 0,5-1 mg/kgc sau echivalentul metilprednisolon oral) maxim 40 - 60 mg/24 h.
+Metylprednisolonul (50 - 60 mg/zi), Hidrocortisonul (200 - 300 mg/zi) (200-400 mg/zi) se administrează iv în formele severe.
+Corticoticoizii nu sunt indicați în remisiune și menținerea remisiunii.
+
+c. Imunomodulatoarele: Azathioprina (AZA) 2,5 mg/Kg corp/24 h, 6-mercaptopurina (6-MP) 1,5 mg/Kg corp/24 h, sunt utile pentru menținerea remisiunii. Efectul lor devine evident după 3 - 4 luni de administrare. Se administrează încă din faza acută sau la intrarea în remisiune odată cu reducerea treptată a dozelor de corticosteroizi.
+Metotrexatul (25 mg im/săptămână) poate fi administrat și în faza acută.
+
+2. Boala Crohn (BC)
+
+a. Preparatele 5-ASA - sunt indicate doar în formele ușoare și moderate cu localizare ileocolică sau colonică (Pentasa 2 - 4 g/24 h, Salofalk 3 - 4,5 g/zi) atât la inițiere cât și pentru menținerea remisiunii dacă aceasta s-a obținut.
+
+ b. Corticosteroizii: (Prednison, Metylprednisolon, Hidrocortison, Budesonid) se administrează la formele refractare la terapia cu compușii 5-ASA și în formele moderat-severe și severe de BC. Prednisonul se administrează în doze de  0,5-1 mg/kgc maxim 40 - 60 mg/24 h. Budesonidul (3 - 9 mg/24 h) poate fi o alternativă cu efecte adverse mai reduse.
+Metylprednisolonul (50 - 60 mg/zi), Hidrocortizonul  (200-400 mg/zi) se administrează iv în formele severe.
+Corticoticoizii nu sunt indicați în remisiune și menținerea remisiunii.
+
+c. Imunomodulatoarele: Azathioprina (AZA) 2,5 mg/Kg corp/24 h, 6-mercaptopurina (6-MP) 1,5 mg/Kg corp/24 h, sunt utile pentru menținerea remisiunii. Efectul lor devine evident după 3 - 4 luni de administrare. Se administrează încă din faza acută sau la intrarea în remisiune odată cu reducerea treptată a dozelor de corticosteroizi.
+
+d. Metotrexatul (25 mg im/săptămână poate fi administrat și în faza acută
+
+e. Antibioticele cu spectru larg (Metronidazol, Ciprofloxacina, Rifaximina) sunt utilizate în tratamentul complicațiilor supurative ale BC (abcese supurații perianale, exacerbări bacteriene suprastricturale)
+
+IV. Tratamentul biologic (agenti biologici si alte produse de sinteza)
+Indicațiile tratamentului biologic (infliximab - original și biosimilar cu administrare intravenoasa sau subcutana, adalimumab - original și biosimilar, vedolizumab, ustekinumab, tofacitinib):
+
+1. Boala Crohn:
+
+a. Pacienți adulți, cu boala Crohn moderată sau severă, cu eșec la tratamentul standard corect condus: corticosteroizi (40 - 60 mg + Imunomodulatori (Azatioprină - 2,5 mg/kg, sau -6 MP - 1,5 mg/kg, sau Metotrexat 25 mg intramuscular/săpt) sau la pacienții cu cortico-dependență, intoleranță sau contraindicații la corticoizi.
+
+b. Boala Crohn fistulizantă, fără răspuns la tratamentul standard, în absența abceselor (ecoendoscopie endorectală, RMN)
+
+c. Postoperator la pacienții cu risc de reactivare a b. Crohn (clinic, biologic, endoscopic)
+
+d. Pacienți cu boala Crohn severă - (fulminantă) care nu răspund în 3 - 5 zile la tratamentul intens cu corticoizi iv (echivalent 60 mg metilprednisolon/zi), sau la pacienții cu boală severă și minim 2 dintre următoarele caracteristici: debutul sub 40 ani, markerii inflamației peste valorile normale, prezența afectării perianale de la debut, pacienți cu fenotip fistulizant sau stenozant). În aceste cazuri terapia biologică singură sau în asociere cu un imunosupresor poate constitui prima linie de tratament.
+
+e. Copiii mai mari de 6 ani, cu boala Crohn, cu răspuns inadecvat la terapia standard incluzand terapia nutrițională, corticoterapia și/sau imunomodulatoare (Azatioprina sau 6-mercaptupurina și/sau Metrotrexat), sau care au intoleranță la aceste tratamente sau cărora aceste tratamente le sunt contraindicate din motive medicale pot fi tratați cu adalimumab (forme moderate sau severe de boală) sau cu infliximab (forme severe).
+
+2. Colita ulcerativă
+
+a. Colită ulcerativă activă moderată sau severă, cu localizare stângă sau stângă extinsă - pancolită, la pacienții adulți, aflați în eșec terapeutic la terapia standard (5-ASA: 2 - 4 g + Prednison (40 - 60 mg) + Imunomodulator (AZA 2 - 2,5 mg/kg, sau 6-MP 1,5 mg/kg, sau Metotrexat 25 mg im/săpt)
+
+b. Copii de la vârsta de 6 ani, cu colită ulcerativă activă, cu răspuns inadecvat la tratamentul standard, inclusiv la corticosteroizi și/sau 6-mercaptopurina (6-MP) sau azatioprina sau care au intoleranță la aceste tratamente sau cărora aceste tratamente le sunt contraindicate din motive medicale, pot fi tratați cu adalimumab (forme moderate sau severe de boală) sau cu infliximab (forme severe de boală).
+
+c. Colită ulcerativă/colită în curs de clasificare, acută gravă (colită fulminantă), în cazul eșecului terapiei după 3 - 5 zile cu corticoizi iv (echivalent 60 mg metilprednisolon) cu dimensiunile lumenului colonului sub 5,5 cm (eco, CT) - indicație numai pentru infliximab.
+
+NOTĂ
+Vedolizumab se poate administra la pacienții adulți cu Boala Crohn sau colită ulcerativă, forme clinice moderat până la sever active, care au prezentat un răspuns inadecvat, nu au mai prezentat răspuns sau au prezentat intoleranță la tratamentul convențional sau la un antagonist al factorului alfa de necroză tumorală (TNFα).
+Ustekinumab se poate administra la pacienții adulți cu boala Crohn activa sau colită ulcerativă activă, forme moderate pana la severe, care au avut un raspuns necorespunzător, au incetat să mai raspundă sau au dezvoltat intoleranță fie la tratamentele convenționale, fie la medicamentele anti TNF-alfa sau in cazul in care aceste tratamente le sunt contraindicate din punct de vedere medical”
+Tofacitinib se poate administra la pacienții adulți cu colită ulcerativă activă, formă moderată pana la severă, care au avut un raspuns inadecvat, au pierdut răspunsul terapeutic sau nu au tolerat fie tratamentul convențional, fie un agent biologic.
+
+A. Tratamentul de inducție:
+
+Adalimumab - original și biosimilar cu administrare subcutanată:
+la adulți - 160 mg inițial, urmat de 80 mg la 2 săptămâni și, ulterior, 40 mg la fiecare 2 săptămâni în colita ulcerativă
+la adulți - 160 mg inițial (sau 80 mg) urmat de 80 mg (sau 40 mg) la două săptămâni, în b. Crohn
+copii cu greutatea < 40 kg - 40 mg inițial, urmat de 20 mg la 2 săptămâni; în cazul în care este necesar un răspuns mai rapid la tratament poate fi utilizată doza de 80 mg în săptămâna 0 și 40 mg în săptămâna 2. Ulterior, doza recomandată, în ambele scheme, este de 20 mg la fiecare 2 săptămâni - în b. Crohn ; în colita ulcerativă - 80 mg inițial (săptămâna 0) urmată de 40 mg in săptămâna 2, doza de întreținere recomandată, începând cu săptămâna 4 fiind de 40 mg la 2 săptămâni
+copii cu greutatea ≥ 40 kg - 80 mg inițial, urmat de 40 mg în săptămâna 2, iar ulterior - 40 mg la fiecare 2  săptămâni. În cazul în care este necesar un răspuns mai rapid la tratament poate fi utilizată doza de 160 mg în săptămâna 0, urmată de 80 mg în săptămâna 2 și câte 40 mg la fiecare 2 săptămâni ulterior - în b. Crohn ; în colita ulcerativă - 160 mg inițial (săptămâna 0) urmată de 80 mg in săptămâna 2, doza de întreținere recomandată, începând cu săptămâna 4 fiind de 80 mg la 2 săptămâni
+
+Infliximab - original și biosimilar
+la adulți și copii > 6 ani inducția se face doar cu infliximab cu administrare intravenoasa cu 5 mg/kg, în perfuzie lentă, cu durată de minim 2 ore, 3 aplicații (la 0, 2 și 6 săptămâni) - în b. Crohn și colita ulcerativă.
+
+NOTĂ - Infliximab cu administrare subcutană (120 mg pen preumplut) – se administrează doar după inducția cu infliximab administrat intravenos 5 mg/kg, în perfuzie lentă, cu durată de minim 2 ore, 2 aplicații (în săptămânile 0 și 2 ) , la distanța de 4 săptămâni (săptămâna 6) ca tratament de intretinere
+
+Vedolizumab
+La adulți - 300 mg în perfuzie intravenoasă la 0, 2 și 6 săptămâni- în b. Crohn și colită ulcerativă.
+pacienții cu boală Crohn care nu au răspuns la tratament în săptămânile 0, 2, 6 pot beneficia de administrarea unei perfuzii adiționale de Vedolizumab 300 mg în săptămâna 10
+În b. Crohn, Vedolizumab nu se administrează ca prima linie tratament biologic la pacienții naivi la anti TNF (în acord cu raportul de evaluare HTA), cu excepția celor cu contraindicații documentate la anti -TNF alfa)
+
+Ustekinumab
+Tratamentul de inducție va fi suportat integral de către compania deținătoare a autorizației de punere pe piață pentru pacienții eligibili, pe măsura înrolării acestora în tratament
+Tratamentul se va iniția cu o singură doză cu administrare intravenoasă pe o perioadă de cel puțin 1 oră în funcție de greutatea corporală, care se va calcula conform tabelului. (Tabel 1)
+
+Tabel 1. Doza tratamentului de inducție cu ustekinumab (se utilizează exclusiv flacoanele de 130 mg)
+
+Tofacitinib
+Tratamentul se va iniția prin administrarea a unei doze de 10 mg pe cale orală de două ori pe zi, pentru perioada de inducție, timp de 8 săptămâni. Pentru pacienții care nu ating beneficiul terapeutic adecvat înainte de săptămâna 8, doza de inducție de 10 mg de două ori pe zi poate fi extinsă pentru o perioadă suplimentară de 8 săptămâni (16 săptămâniîn total), urmată de 5 mg de două ori pe zi pentru menținere.
+Tratamentul de inducție cu tofacitinib trebuie întrerupt la orice pacient care nu prezintă nici o dovadă de beneficiu terapeutic până în săptămâna a 16 -a.
+Se recomandă ca tratamentul să nu fie inițiat la pacienții cu risc pentru accidente tromboembolice, inclusiv pacienți ≥ 65 ani, fumători sau foști mari fumători, cu un număr absolut de limfocite mai mic de 750 celule/mm3, numar total de neutrofile < 1000 /mm3 , valoarea Hb< 9g/dl
+
+B. Tratamentul de menținere a remisiunii:
+Infliximab (original si biosimilar) 5 mg/kg în perfuzie lentă, la interval de 8 săptămâni în perfuzie intravenoasă. Infliximab cu administrare subcutana - 120mg subcutanat la fiecare 2 săptămâni.
+Switch-ul la si de la infliximab subcutanat
+In schema de mentinere switch-ul de la infliximab intravenos ( in schema de mentinere) la infliximab subcutanat trebuie sa se efectueze cu prima administrare de infliximab subcutanat la 8 saptamani de la ultima administrare a dozei de infliximab intravenos ( adica in locul dozei programate pentru administrarea iv)
+Exista date insuficiente referitoare la switch-ul de la infliximab intravenos la infliximab subcutanat la pacientii care au primit mai mult de 5 mg/kgc infliximab intravenos la 8 saptamani
+Nu sunt disponibile informatii privind switch-ul de la infliximab subcutanat la infliximab intravenos
+In cazul omiterii unei doze de infliximab subcutanat aceasta trebuie administrata imediat daca au trecut mai putin de 7 zile de la doza programata, iar in cazul omiterii dozei mai mult de 8 zile se va astepta pana la data corespunzatoare programarii din regimul initial , ulterior se continua cu administrarea  regimului original.
+Dacă un pacient cu boala Crohn activa, fistulizata nu prezintă răspuns terapeutic după 6 doze (adică 2 perfuzii intravenoase și 4 injecții subcutanate), nu trebuie administrat în continuare tratament cu infliximab.
+Dacă un pacient cu colită ulcerativă nu prezintă răspuns terapeutic după 6 doze (adică 2 perfuzii intravenoase și 4 injecții subcutanate), continuarea terapiei trebuie reevaluată cu atenție.
+Adalimumab, (original si biosimilar) subcutanat, 40 mg la fiecare 2 săptămâni pentru pacienții adulți. Pentru copii cu greutatea < 40 kg - 20 mg la fiecare 2 săptămâni - în b. Crohn si 40 mg la fiecare 2 săptămâni - în colita ulcerativă. Pentru copii cu greutatea ≥ 40 kg- 40 mg la fiecare 2 săptămâni - în b. Crohn si 80 mg la fiecare 2 săptămâni - în colita ulcerativă
+
+Vedolizumab - 300 mg în perfuzie intravenoasă la fiecare 8 săptămâni SAU Vedolizumab 108 mg cu administrare  subcutanata la fiecare 2 săptămâni (nota - vedolizumab  cu administrare subcutanata se poate utiliza după cel puțin 2 perfuzii intravenoase,iar prima doză trebuie administrată sub supraveghere medicala la data corespunzatoare următoarei doze care ar fi fost programate prin perfuzie intravenoasă).
+La adulții care au prezentat o diminuare a răspunsului la Vedolizumab cu administrare intravenoasa (300 mg) se poate optimiza tratamentul prin administrarea Vedolizumab 300 mg în perfuzie intravenoasă la fiecare 4 săptămâni.
+Nu sunt disponibile suficiente date pentru a determina dacă pacienții care prezintă o descreștere a răspunsului la tratamentul de întreținere cu vedolizumab cu administrare subcutanată (108 mg) ar beneficia de o creștere a frecvenței de administrare, si nici privind tranziția pacienților de la vedolizumab cu administrare subcutanată la vedolizumab prin perfuzie intravenoasă
+Este necesară respectarea procedurii de preparare și administrare conform RCP.
+
+Ustekinumab - subcutan, 90 mg. Prima administrare va fi efectuată la 8 săptămâni de la doza de inducție, ulterior la fiecare 12 săptămâni.
+Pacienții cu răspuns inadecvat la 8 săptămâni după prima administrare subcutanată, pot primi o a doua doză subcutanată la acest moment.
+Pacienții care pierd răspunsul la administrarea la 12 săptămâni pot optimiza tratamentul prin creșterea frecvenței de administrare la fiecare 8 săptămâni.
+Ulterior pacienții beneficiază de administrarea de ustekinumab subcutanat la 8 sau la 12 săptămâni în funcție de evaluarea clinică.
+
+Tofacitinib - Doza recomandată este de 5 mg, administrata pe cale orală de două ori pe zi.
+Nu este recomandat tratamentul de mentinere la pacienții cu CU care prezintă factori de risc pentru accidente tromboembolice, inclusiv pacienți ≥ 65 ani, fumători sau foști mari fumători la o doza de 10 mg, administrata pe cale orală de două ori pe zi cu excepția situației în care nu există o alternativă adecvată de tratament disponibilă.
+Pentru pacienții cu CU care nu prezintă un risc crescut de pentru accidente tromboembolice, inclusiv pacienți ≥ 65 ani, fumători sau foști mari fumători, tofacitinib 10 mg pe cale orală de două  ori pe zi poate fi avut  în vedere dacă pacientul prezintă o scădere a răspunsului la tofacitinib 5 mg de două ori pe zi și nu a răspuns la opțiunile alternative de tratament pentru colita ulcerativă, precum tratamentul cu inhibitori ai factorului de necroză tumorală (inhibitori de TNF).
+Tofacitinib 10 mg de două ori pe zi pentru tratamentul de menținere trebuie utilizat pentru cea mai scurtă durată posibilă. Trebuie utilizată cea mai mică doză eficientă necesară pentru menținerea răspunsului.
+La pacienții care au răspuns la tratamentul cu tofacitinib, tratamentul cu corticosteroizi poate fi redus și/sau întrerupt, în conformitate cu standardul de îngrijire.
+Nota bene!
+Se recomandă examinarea periodică a pielii tuturor pacienților pentru a exlude melanomul.
+Medicii prescriptori trebuie să discute cu pacienții despre riscurile asociate administrării de JAK.
+
+C. Evaluarea răspunsului terapeutic
+
+Răspunsul terapeutic la medicamentele anti TNF va fi evaluat la 12 săptămâni de la inițierea terapiei și, ulterior, la interval de maxim 6 luni sau de câte ori se suspectează pierderea răspunsului. Lipsa răspunsului primar la 12 săptămâni impune renunțarea la terapia inițiată.
+Răspunsul terapeutic la Vedolizumab va fi evaluat la 10 săptămâni de la inițierea terapiei, la pacienții cu colită ulcerativă și boala Crohn și la săptămâna 14 pentru pacienții cu boală Crohn care au beneficiat de perfuzia adițională la săptămâna 10, ulterior la interval de maxim 6 luni sau de câte ori se suspectează pierderea răspunsului.
+Evaluarea răspunsului la ustekinumab se va face la 8 săptămâni de la administrarea dozei de inducție intravenos și la 16 săptămâni de la trecerea la doza de menținere administrată la 8 săptămâni, ulterior la un interval de maxim 6 luni sau ori de câte ori se suspectează pierderea răspunsului. Se va lua în considerare oprirea tratamentului dacă nu există un răspuns terapeutic la 16 săptămâni de la administrarea dozei de inducție intravenos sau la 16 săptămâni de la trecerea la doza de menținere administrate la 8 săptămâni.
+
+Evaluarea răspunsului la tofacitinib se va face la 8 săptămâni de la inițierea terapiei. In cazul raspunsului clinic, se continua cu doza de intretinere de 5 mg de 2 ori pe zi,iar  in cazul lipsei de raspuns, la 8 saptamani se poate continua pana la 16 săptămâni doza de10 mg de 2 ori pe zi.  Dupa obtinerea remisiunii clinice, monitorizarea ulterioara se face la un interval de maxim 6 luni sau ori de câte ori se suspectează pierderea răspunsului. Se va lua în considerare oprirea tratamentului dacă nu există un răspuns terapeutic la 16 săptămâni de la inceperea tratamentului.  Dupa intreruperea tratamentului, posibilitatea reluarii acestuia se poate face la decizia medicului prescriptor in conformitate cu RCP produs
+
+Răspunsul terapeutic va fi apreciat prin încadrarea într-una dintre următoarele categorii:
+
+1. Pentru boala Crohn:
+Remisiune clinică (dispariția simptomelor clinice) clinico-biologică (dispariția simptomelor și a alterărilor biologice existente) endoscopică (vindecarea mucosală) histologică (fără elemente inflamatorii) - Fistulele se închid iar scorul CDAI < 150 puncte.
+Răspuns parțial - ameliorare clinico-biologică (ameliorarea simptomelor, reducerea cu 50% a valorilor probelor biologice față de start) scăderea scorului CDAI cu > 100 puncte scăderea drenajului fistulelor cu > 50%
+Recădere - pierderea răspunsului: reapariția simptomelor, a modificărilor biologice, endoscopice. Valoare predictivă ridicată: creșterea calprotectinei fecale.
+
+2. Pentru colita ulcerativă:
+Remisiune clinică - dispariția simptomelor, clinico-biologică (fără simptome și probe biologice normale), endoscopică (vindecare mucosală) histologică (fără elemente inflamatorii de tip acut):
+Răspuns terapeutic: ameliorare clinico-biologică, eventual endoscopică cu persistența eritemului, granulației și ștergerea desenului vascular
+Recădere - pierderea răspunsului terapeutic: reapariția simptomelor, modificărilor biologice (valoare predictivă calprotectina fecală), endoscopice și histologice.
+Monitorizare după obținerea remisiunii
+Din 6 luni în 6 luni prin examinare clinică, biochimică, calprotectina fecală, eventual endoscopică/RMN dacă valoarea calprotectinei este crescută.
+Recăderea sau pierderea secundară a răspunsului la tratament.
+
+Recomandări:
+Verificarea complianței la tratament
+Excluderea unei alte cauze a simptomatologiei (prezența unui abces, infecția cu CMV sau C. difficile, etc.) și reevaluarea răspunsului terapeutic după corectarea cauzei respective.
+Optimizare a terapiei prin una dintre variantele:
+Creșterea empirică a dozelor și/sau scăderea intervalului de administrare pentru biologicul/biosimilarului antiTNF folosit anterior, urmată de reevaluarea răspunsului terapeutic la 12 săptămâni.
+Schimbarea agentului antiTNF/Vedolizumab cu Vedolizumab/anti TNF, sau antiTNF/Ustekinumab cu Ustekinumab/anti TNF sau antiTNF/tofacitinib cu tofacitinib/anti TNF pentru situațiile în care pacientul nu a obținut remisiunea clinică după perioada de inducție sau după creșterea dozelor și sau scăderea intervalului de administrare, precum și pentru situațiile de recădere sau intoleranța inacceptabilă la tratament.
+Adăugarea unui imunomodulator (AZA) - poate ameliora răspunsul și prelungi remisiunea.
+Verificarea nivelului seric al agentului antiTNF și anticorpilor antidrog specifici și ghidarea terapiei în funcție de rezultatul acestor determinări (opțiune ideală dar cu accesibilitate foarte limitată în prezent): oprirea tratamentului (nivel normal - fără anticorpi), creșterea dozelor (sau scurtarea intervalului) la nivel scăzut fără anticorpi, schimbarea agentului biologic la nivel scăzut și prezența anticorpilor - (ultimele două variante doar pentru infliximab).
+Schimbarea (swich-ul) tratamentului de la originalul de antiTNF la biosimilar si invers sau intre biosimilare fara avizul/recomandarea medicului prescriptor nu este acceptata.
+La pacienții cu boala Crohn care au întrerupt tratamentul cu ustekinumb, reluarea tratamentului cu administrarea subcutanată la 8 săptămâni este sigură și eficientă.
+
+V. Prescriptori - tratamentul se prescrie și se monitorizează de către medicii in specialitatile gastroenterologie (toate terapiile), pediatrie (pentru terapiile accesibile copiilor), gastroenterologie pediatrică (pentru terapiile accesibile copiilor), medicina interna (pentru toate terapiile), chirurgie (pentru tratamentul standard) medicina de familie (pentru tratamentul standard la indicația medicului specialist) aflați în contract cu o casă de asigurări de sănătate.”
+
+La anexa nr. 2, protocolul terapeutic corespunzător poziției nr. 16 cod (L040M): ARTROPATIA PSORIAZICĂ - AGENȚI BIOLOGICI: ADALIMUMABUM**1 (ORIGINAL ȘI BIOSIMILAR), CERTOLIZUMABUM**1, ETANERCEPTUM**1 (ORIGINAL ȘI BIOSIMILAR), GOLIMUMABUM**1, INFLIXIMABUM**1 (ORIGINAL ȘI BIOSIMILAR), SECUKINUMABUM**1, IXEKIZUMABUM**1, GUSELKUMABUM**1Ω ȘI REMISIVE SINTETICE ȚINTITE (ts - DMARDs): TOFACITINIB**1 se modifică și se înlocuiește cu următorul protocol:
+
+”Protocol terapeutic corespunzător poziției nr. 16 cod (L040M): ARTROPATIA PSORIAZICĂ - AGENȚI BIOLOGICI: ADALIMUMABUM**1 (ORIGINAL ȘI BIOSIMILAR), CERTOLIZUMABUM**1, ETANERCEPTUM**1 (ORIGINAL ȘI BIOSIMILAR), GOLIMUMABUM**1, INFLIXIMABUM**1 (ORIGINAL ȘI BIOSIMILAR), SECUKINUMABUM**1, IXEKIZUMABUM**1, GUSELKUMABUM**1Ω ȘI REMISIVE SINTETICE ȚINTITE (ts - DMARDs): TOFACITINIB**1
+
+I. Definiția afecțiunii/Factori de prognostic nefavorabil
+Artropatia psoriazică (AP) este o artropatie inflamatoare cu prevalența cuprinsă între 0,1 și 1% ce apare la aproximativ o treime din bolnavii afectați de psoriazis, având o distribuție egală între sexe. AP este recunoscută a avea potențial eroziv și distructiv la aproximativ 40 - 60% din pacienți, cu o evoluție progresivă încă din primul an de la diagnostic. Asemănător cu artrita reumatoidă, artropatia psoriazică poate produce leziuni articulare cronice, deficit funcțional și un exces de mortalitate, cu costuri medicale și sociale semnificative.
+Diagnosticul cert de AP este realizat cu ajutorul criteriilor CASPAR (Classification criteria for Psoriatic Arthritis), conform căruia pacientul trebuie să aibă boală inflamatoare articulară (articulații, coloană vertebrală sau enteze) și cel puțin 3 puncte din următoarele 5 categorii:
+psoriazis (manifest, istoric personal, istoric familial);
+dactilită;
+reacții osoase juxta-articulare - periostită (evidențiate radiografic la nivelul mâinilor și picioarelor);
+absența factorului reumatoid;
+distrofie unghială.
+
+Artrita definită periferică poate avea următoarele forme clinice:
+oligo-artrita asimetrică;
+poliartrita simetrică;
+artrita IFD;
+artrita mutilantă.
+
+Afectarea axială în AP cuprinde una din următoarele manifestări:
+sacroiliita;
+spondilita;
+entezita ahiliană.
+
+În aprecierea potențialului evolutiv al bolii sunt evaluați următorii factori de prognostic nefavorabil:
+numărul mare de articulații activ afectate (tumefiate; > 5 articulații tumefiate);
+valori mari ale reactanților de fază acută: PCR/VSH (PCR de peste 5 ori limita superioară a normalului determinată cantitativ în mg/dL; VSH > 50 mm/h);
+modificări distructive/erozive osteo-articulare evidențiate radiologic;
+prezența manifestărilor extra-articulare (în special dactilită).
+
+II. Tratamentul artropatiei psoriazice
+Tratamentul remisiv (de fond) al AP este obligatoriu în toate formele active ale bolii. Nomenclatura utilizată în acest protocol respectă recomandările actuale EULAR: terapii remisive sau modificatoare de boală (disease-modifying antirheumatic drugs - DMARDs), care se clasifică în: remisive sintetice convenționale (csDMARDs), remisive biologice (bDMARDs) care pot fi originale (boDMARDs) sau biosimilare (bsDMARDs) si remisive sintetice tintite (ts-DMARDs).
+Conform recomandărilor EULAR, revizia 2015, tratamentul cu csDMARDs reprezintă prima linie terapeutică, este obligatoriu în toate formele active ale bolii și trebuie început cât mai devreme de la stabilirea diagnosticului (ideal în primele 6 săptămâni de la diagnostic). Obiectivul terapeutic urmărit este obținerea:
+remisiunii bolii, ori de câte ori este posibil (cel mai frecvent în formele de boală depistate timpuriu, cu inițierea precoce a tratamentului);
+activității joase a bolii, la cazurile la care nu se poate obține remisiunea (cel mai frecvent în formele constituite de boală).
+
+Cele mai utilizate terapii sunt reprezentate de:
+antiinflamatoarele nesteroidiene (AINS), care se folosesc pentru controlul durerii și a simptomelor, și/sau glucocorticoizii în administrare locală;
+metotrexat: conform EULAR reprezintă csDMARDs de primă alegere, cu excepția cazurilor când exista contraindicații majore, în doza de întreținere uzuală (20 mg/săptămână). Pentru creșterea toleranței asocierea de folat este de regulă recomandată, iar administrarea injectabilă (subcutanată sau intramusculară) trebuie luată în calcul pentru creșterea biodisponibilității și reducerea riscului de efecte adverse digestive (alături de administrarea de domperidonă și antiemetice: ondasetron sau granisetron). Metotrexatul este preferat în forma cu psoriazis manifest deoarece el prezintă eficacitate demonstrată și în afectarea cutanată.
+leflunomid: utilizat ca alternativă la metotrexat doar atunci când acesta este contraindicat sau la pacienții non-responsivi, cu răspuns insuficient sau care au dezvoltat reacții adverse la metotrexat, în doză uzuală de 20 mg/zi oral;
+sulfasalazină: utilizată ca alternativă la metotrexat doar atunci când acesta este contraindicat sau la pacienții non-responsivi, cu răspuns insuficient sau care au dezvoltat reacții adverse la alte csDMARD, în doza de întreținere uzuală de minim 2 g/zi, crescută până la 3 g/zi (în funcție de toleranță);
+ciclosporina: 3 - 5 mg/kgc/zi oral;
+
+În funcție de particularitățile cazului tratat și de gradul de activitate a bolii, medicul curant formulează schema de tratament și indică aceste preparate remisive, care se pot utiliza singure sau în asociere. Asocierea trebuie de obicei să includă metotrexat.
+
+Evaluarea activității bolii
+Evaluarea activității bolii este obligatorie pentru alegerea schemei terapeutice și evaluarea gradului de răspuns la tratament, făcându-se prin calcularea unui indice cumulativ numit indicele de activitate a bolii în artropatia psoriazică (Disease Activity Index for PSoriatic Arthritis - DAPSA), care include:
+numărul articulațiilor dureroase (NAD): evaluarea articulară la artropatia psoriazică se face pentru 68 de articulații;
+numărul articulațiilor tumefiate (NAT): evaluarea articulară la artropatia psoriazică se face pentru 66 de articulații;
+evaluarea globală a activității bolii de către pacient (PtGA) pe o scală analogă vizuală (VAS) în centimetri (0 - 10);
+evaluarea durerii de către pacient (PtPain) pe scala analogă vizuală (VAS) în centimetri (0 - 10);
+PCR cantitativ (în mg/dL).
+
+Formula de calcul DAPSA este următoarea: NAD68+ NAT66 + PtGA (VAS în cm) + PtPain (VAS în cm) + CRP (mg/dL).
+În evaluarea semnificației DAPSA se ține cont de următoarele definiții:
+remisiune: DAPSA ≤ 4;
+activitate scăzută a bolii (LDA): 4 < DAPSA ≤ 14;
+activitate moderată a bolii (MDA): 14 < DAPSA ≤ 28;
+activitate ridicată a bolii (HDA): DAPSA > 28.
+
+Pentru aprecierea răspunsului la tratament se vor folosi criteriile de răspuns DAPSA. Astfel:
+scăderea (reducerea) cu 85% a DAPSA (DAPSA85) față de evaluarea inițială (înainte de inițierea respectivului tratament) semnifică răspuns bun la tratament;
+scăderea (reducerea) cu 75% a DAPSA (DAPSA75) față de evaluarea inițială (înainte de inițierea respectivului tratament) semnifică răspuns moderat la tratament;
+scăderea (reducerea) cu 50% a DAPSA (DAPSA50) față de evaluarea inițială (înainte de inițierea respectivului tratament) semnifică răspuns minor la tratament.
+
+Evoluția bolii va fi strâns monitorizată, clinic și biologic (lunar sau cel puțin o dată la fiecare 3 - 6 luni), iar medicul curant va adapta și va modifica schema de tratament, utilizând DAPSA ca indicator global de evoluție al afecțiunii, ținta terapeutică fiind obținerea remisiunii sau atingerea unui grad scăzut de activitate a bolii. Nu este recomandată utilizarea de parametri individuali (clinici sau biologici) pentru a aprecia evoluția bolii sub tratament, aplicarea indicilor compoziți fiind întotdeauna superioară. Dacă nu se obține nicio îmbunătățire în interval de cel mult 3 luni de la inițierea terapiei sau dacă obiectivul terapeutic nu este atins în 6 luni, terapia trebuie reconsiderată, ca preparate, doze sau scheme terapeutice.
+Medicul curant este singurul care poate evalua corect gradul de răspuns la terapie și poate încadra cazul ca responder sau nonresponder la tratamentul cu csDMARDs, situație în care se poate indica utilizarea terapiilor blocante de TNFα. Pacienții cu AP activă, la care boala nu poate fi satisfăcător controlată prin aplicarea corectă a tratamentului csDMARDs, necesită utilizarea de tratament biologic sau sintetic tintit. Prescrierea acestuia va fi făcută numai la indicația medicului reumatolog, care va ține cont de particularitățile cazului și de caracteristicile fiecărui preparat, așa cum sunt descrise în rezumatul caracteristicilor fiecărui produs, de recomandările ghidurilor terapeutice (EULAR) și a protocoalelor de prescriere aprobate.
+Complexitatea și riscurile terapiei biologice impun supravegherea permanentă a pacientului de către medicul curant în centre de specialitate reumatologice. În vederea inițierii unei terapii biologice sau sintetice tintite, medicul curant va înregistra o serie de parametri de activitate a bolii, între care următorii sunt obligatorii:
+numărul de articulații dureroase (NAD) din 68 de articulații dureroase;
+numărul de articulații tumefiate (NAT) din 66 de articulații tumefiate;
+evaluarea globală a activității bolii de către pacient pe scala analogă vizuală (VAS) în centimetri (0 - 10);
+evaluarea durerii de către pacient pe scala analogă vizuală (VAS) în centimetri (0 - 10);
+PCR cantitativ (în mg/dL).
+
+Datele medicale ale pacientului vor fi introduse într-o aplicație informatică numită Registrul Român de boli Reumatice (RRBR).
+
+Criterii de includere a pacienților cu AP în tratamentul biologic cu: blocanți de TNFα (adalimumabum original și biosimilar, certolizumab, etanerceptum original și biosimilar, golimumabum, infliximabum original și biosimilar), blocanți de IL-17 (secukinumabum, ixekizumabum), blocanti de IL-23 (guselkumabum)  sau tratament cu ts-DMARDs (tofacitinib)
+
+Pentru includerea unui pacient cu AP în terapia biologică sau terapia cu ts-DMARDs este necesară îndeplinirea simultană a următoarelor 4 criterii:
+1. Diagnostic cert de AP conform criteriilor CASPAR;
+2. Pacienți cu AP severă, cu activitate ridicată a bolii (DAPSA > 28), în ciuda tratamentului administrat. Pacienții trebuie să prezinte cel puțin:
+5 articulații dureroase și tumefiate (evaluarea articulară la artropatia psoriazică se face pentru 68 articulații dureroase și 66 articulații tumefiate; prezența dactilitei sau a entezitei se cuantifică drept o articulație);
+PCR de peste 3 ori limita superioară a valorilor normale, determinată cantitativ în mg/dL.
+3. Eșecul la terapia convențională:
+pacienți cu AP fără factori de prognostic nefavorabil, nonresponsivi la csDMARDs, corect administrate (atât ca doze, cât și ca durată a terapiei), respectiv după utilizarea a cel puțin 2 terapii remisive sintetice, cu durata de minim 12 săptămâni fiecare, dintre care una este de obicei reprezentată de metotrexat (cu excepția cazurilor cu contraindicație majoră la acest preparat sau a cazurilor care nu tolerează acest tratament având documentație medicală);
+pacienți cu AP cu factori de prognostic nefavorabil nonresponsivi după utilizarea a cel puțin o terapie remisivă sintetică administrată în doză maximă cu durată de minim 12 săptămâni reprezentată de metotrexat (cu excepția cazurilor cu contraindicație majoră la acest preparat sau a cazurilor care nu tolerează acest tratament având documentație medicală);
+pacienți cu AP predominant axială, activă (BASDAI > 6) nonresponsivi după utilizarea a cel puțin la 2 AINS administrate în doză maximă pe o perioadă de 6 săptămâni fiecare, chiar dacă terapia cu csDMARDs nu a fost încercată, deoarece csDMARDS nu și-au dovedit eficacitatea în boala axială;
+pacienți cu AP cu entezită și/sau dactilită activă nonresponsivi la 2 AINS administrate în doză maximă pe o perioadă de 6 săptămâni fiecare și/sau injectări locale de glucocorticoizi chiar dacă terapia cu csDMARDs nu a fost încercată, deoarece csDMARDs nu și-au dovedit eficacitatea în tratamentul acestor determinări ale bolii.
+4. Absența contraindicațiilor recunoscute pentru terapiile biologice sau ts-DMARDs.
+În cazul în care medicul curant decide să nu indice metotrexat, motivul acestei decizii va fi explicit menționat, iar prezența unor eventuale contraindicații sau reacții adverse va fi adecvat documentată.
+Definirea unui caz ca fiind non-responder la csDMARDs se face prin persistența criteriilor de activitate, după 12 săptămâni de tratament continuu, cu doza maximă recomandată uzual și tolerată din preparatul remisiv respectiv, excepție făcând pacienții cu AP predominant axială și pacienții cu AP cu entezită și/sau dactilită activă la care utilizarea de AINS este suficientă în dozele maximale în ultimele 12 săptămâni, deoarece csDMARDS nu și-au dovedit eficacitatea în boala axială și în AP cu entezită și/sau dactilită.
+Pentru a fi relevante, toate evaluările (clinice și de laborator) privind activitatea bolii, precum și cele pentru excluderea contraindicațiilor de terapie biologică vor fi efectuate într-o perioada relativ scurtă (ce nu va depăși 4 săptămâni).
+
+Screeningul necesar înainte de orice inițiere a terapiei biologice sau ts-DMARDs
+1. Tuberculoza
+Înaintea inițierii terapiei se va evalua riscul pacientului cu artropatie psoriazică de a dezvolta o reactivare a unei tuberculoze latente, în condițiile riscului epidemiologic mare al acestei populații. Evaluarea riscului de tuberculoză va cuprinde: anamneză, examen clinic, radiografie pulmonară și teste de tip IGRA (interferon-gamma release assays): QuantiFERON TB Gold sau testul cutanat la tuberculină (TCT). Pentru pacienții testați pozitiv la QuantiFERON sau la TCT (TCT) ≥ 5 mm se indică consult pneumologic în vederea chimioprofilaxiei (efectuată sub supravegherea medicului pneumolog; terapia biologică se poate iniția după minimum o lună de tratament profilactic, numai cu avizul expres al medicului pneumolog). Numai la pacienții care au avut teste inițiale negative, se recomandă repetarea periodică a screening-ului pentru reactivarea tuberculozei (inclusiv testul QuantiFERON sau TCT), în caz de necesitate dar nu mai rar de 1 an (la reevaluare se va folosi același test care a fost folosit inițial).
+Pentru detalii legate de definirea pacienților cu risc crescut și a conduitei de urmat, precum și a situațiilor particulare întâlnite în practică, medicul curant va utiliza recomandările in extenso din Ghidul de tratament al artropatiei psoriazice elaborat de Societatea Română de Reumatologie.
+2. Hepatitele virale
+Ținând cont de riscul crescut al reactivării infecțiilor cu virusuri hepatitice B și C, care pot îmbrăca forme fulminante, deseori letale, este imperios necesar ca înaintea inițierii terapiei cu un agent biologic să se efectueze screeningul infecțiilor cronice cu virusurile hepatitice B și C. Markerii serologici virali care trebuie obligatoriu solicitați alături de transaminaze înainte de inițierea unei terapii biologice sunt: pentru virusul hepatitic B (VHB): AgHBs, anticorpi anti-HBs, anticorpi anti-HBc (IgG); pentru virusul hepatitic C (VHC): anticorpi anti-VHC.
+Decizia de inițiere a terapiei biologice la cei cu markeri virali pozitivi impune avizul explicit al medicului specialist în boli infecțioase sau gastroenterologie, care va efectua o evaluare completă (hepatică și virusologică) a pacientului și va recomanda măsurile profilactice care se impun, stabilind momentul când terapia biologică a AP poate fi inițiată, precum și schema de monitorizare a siguranței hepatice. Se recomandă repetarea periodică a screeningului pentru infecțiile cronice cu virusuri hepatitice B și C, în caz de necesitate, dar nu mai rar de un an.
+Pentru detalii legate de managementul infecției cu virusuri hepatitice la pacienții cu terapii biologice medicul curant va utiliza recomandările in extenso din Ghidul de tratament al artropatiei psoriazice elaborat de Societatea Română de Reumatologie și protocoalele terapeutice din hepatitele cronice aprobate de Ministerul Sănătății și Casa Națională de Asigurări de Sănătate.
+
+Scheme terapeutice
+Conform recomandărilor EULAR, medicul curant poate alege ca primă soluție terapeutică terapia biologică cu oricare dintre următorii: inhibitori TNFα (listați în ordine alfabetică: adalimumab original sau biosimilar, certolizumab, etanercept original sau biosimilar, golimumab, infliximab original sau biosimilar), blocanți de IL-17 (secukinumab, ixekizumab) sau terapia cu ts-DMARDs (tofacitinib) fără a se acorda preferință sau prioritate unui produs, în funcție de particularitățile cazului. Schemele terapeutice sunt următoarele:
+adalimumabum (original, biosimilar): 40 mg o dată la 2 săptămâni, subcutanat;
+certolizumab: 200 mg x 2, injectabil subcutanat la 0, 2, 4 săptămâni, apoi 200 mg subcutanat la 2 săptămâni. Atunci când este obținut răspunsul clinic, poate fi luată în considerare o doză de menținere alternativă de 400 mg o dată la 4 săptămâni.
+etanerceptum (original, biosimilar): 25 mg de 2 ori pe săptămână sau 50 mg o dată pe săptămână, subcutanat.
+golimumabum: 50 mg injectabil subcutanat administrat o dată pe lună în aceeași dată a fiecărei luni. La pacienții cu greutate peste 100 kg care nu ating răspunsul clinic după 3 sau 4 doze golimumab 50 mg se crește doza la 100 mg o dată pe lună în aceeași dată a lunii.
+infliximabum (original, biosimilar): în doze de 5 mg/kgc, în PEV, administrat în ziua 0 și apoi la 2 și 6 săptămâni, ulterior la fiecare 8 săptămâni. Tratamentul cu infliximab administrat subcutanat trebuie inițiat ca tratament de întreținere la 4 săptămâni de la ultima administrare a două perfuzări intravenoase de infliximab la 5 mg/kg, administrate la interval de 2 săptămâni. Doza recomandată pentru infliximab în forma farmaceutică pentru utilizare subcutanată este de 120 mg la interval de 2 săptămâni.
+În cazul în care tratamentul de întreținere este întrerupt și este necesară reînceperea tratamentului, nu este recomandată utilizarea unui regim de re-inducție a infliximabului intravenos. În această situație, infliximabul trebuie reinițiat ca doză unică de infliximab intravenos urmată de recomandările privind doza de întreținere pentru infliximab subcutanat descrise mai sus, la 4 săptămâni după ultima administrare de infliximab intravenos.
+Când se trece de la terapia de întreținere cu infliximab formulă intravenoasă la forma farmaceutică subcutanată a infliximab, forma farmaceutică subcutanată poate fi administrată la 8 săptămâni după ultima administrare a perfuziilor intravenoase de infliximab.
+Nu sunt disponibile informații privind trecerea pacienților de la forma farmaceutică subcutanată la forma farmaceutică intravenoasă a infliximabum.
+Dacă pacienții omit administrarea unei injecții cu formularea subcutanată a infliximab, trebuie să fie instruiți să-și administreze imediat doza omisă în cazul în care acest lucru se întâmplă în termen de 7 zile de la doza omisă, apoi să rămână la schema lor inițială. Dacă doza este întârziată cu 8 zile sau mai mult, pacienții trebuie să fie instruiți să sară peste doza omisă, să aștepte până la următoarea doză programată și apoi să rămână la schema lor inițială.
+secukinumabum: doza recomandată este de 150 mg/săptămână subcutanat (1 injecție la săptămânile 0, 1, 2, 3 și 4, ulterior de 150 mg/lună subcutanat (1 injecție în fiecare lună). Doza de 300 mg/săptămână subcutanat la săptămânile 0, 1, 2, 3 și 4, ulterior de 300 mg/lună subcutanat, se utilizează la pacienții cu artropatie psoriazică, care nu au răspuns corespunzător la terapia cu medicamente anti-TNFα utilizate anterior. Fiecare doză de 300 mg poate fi administrată sub forma unei injecții subcutanate de 300mg sau a două injecții subcutanate de 150 mg. La pacienții care au început tratament cu secukinumabum 150 mg și nu au atins ținta terapeutică (conform definiției de mai jos la capitolul "Continuarea tratamentului"), se poate crește doza de secukinumabum la 300 mg/lună.
+ixekizumabum: doza recomandată este de 160 mg prin injectare subcutanată (două injecții de 80 mg) în săptămâna 0, urmată apoi de 80 mg (o injecție) la intervale de 4 săptămâni.
+Guselkumabum (face obiectul unui contract cost-volum): doza recomandata este de 100 mg prin injecție subcutanată în săptămânile 0 și 4, urmată de o doză de întreținere la fiecare 8 săptămâni. Pentru pacienții cu risc crescut de afectare a articulațiilor constatat la examenul clinic, poate fi luată în considerare o doză de 100 mg la fiecare 4 săptămâni. Se poate administra singur sau în asociere cu metotrexat.
+tofacitinib: doza recomandată este de 5 mg per os administrat de două ori pe zi  sau 11 mg (comprimate cu eliberare prelungita) o data pe zi, oral și este indicat în asociere cu MTX în tratamentul AP active la pacienții adulți care au avut un răspuns inadecvat sau care nu au tolerat un tratament anterior cu un medicament antireumatic modificator al bolii (DMARD). Schimbul bidirecțional între tratamentul cu tofacitinib 5 mg comprimate filmate, de două ori pe zi și cel cu tofacitinib 11 mg comprimat cu eliberare prelungită, o dată pe zi se poate face în ziua imediat următoare ultimei doze din fiecare comprimat.
+Conform noilor recomandări și evidențe nu este obligatorie asocierea agentului biologic cu un remisiv sintetic convențional. Acesta poate fi continuat la latitudinea medicului curant pentru prevenirea apariției de anticorpi anti-agent biologic.
+Tratamentul biologic sau cu ts-DMARDs  inițiat este continuat atâta vreme cât pacientul răspunde la terapie (îndeplinind criteriile de ameliorare de mai jos) și nu dezvoltă reacții adverse care să impună oprirea terapiei. Evaluarea răspunsului la tratament se face la fiecare 24 săptămâni de tratament.
+
+Evaluarea răspunsului la tratament
+Evaluarea răspunsului la tratament este apreciat prin urmărirea următorilor parametri clinici și de laborator:
+numărul de articulații dureroase (NAD) din 68 de articulații;
+numărul de articulații tumefiate (NAT) din 66 de articulații;
+scala analogă vizuală (VAS în centimetri 0 - 10) pentru evaluarea globală a activității bolii de către pacient;
+scala analogă vizuală (VAS în centimetri 0 - 10) pentru evaluarea durerii de către pacient;
+PCR (cantitativ) în mg/dL;
+indicele cumulativ DAPSA.
+Pentru a fi relevante, toate evaluările (clinice și de laborator) privind activitatea bolii, precum și cele pentru identificarea unor potențiale reacții adverse vor fi efectuate într-o perioadă relativ scurtă (ce nu va depăși 4 săptămâni). În conformitate cu recomandările EULAR și principiile strategiei terapeutice "treat to target", obiectivul terapeutic este reprezentat de obținerea remisiunii, iar în cazurile în care aceasta nu este posibilă, de obținerea unei activități joase a bolii.
+
+Continuarea tratamentului
+În cazul pacienților în curs de tratament biologic sau cu ts-DMARDs (inclusiv cei provenind din cazuri pediatrice, terapii inițiate în străinătate sau alte situații justificate, corespunzător documentate), pacientul este considerat ameliorat (responder) și poate continua tratamentul cu condiția atingerii obiectivului terapeutic, respectiv atingerea remisiunii (DAPSA ≤ 4) sau cel puțin a activității scăzute a bolii (4 < DAPSA ≤ 14). Până la obținerea acestui obiectiv se acceptă un răspuns bun sau moderat la tratament (DAPSA85, DAPSA75) față de evaluarea inițială (înainte de inițierea tratamentului biologic).
+Se definesc ca nonresponderi la tratamentul administrat acei pacienți care au un răspuns minor la tratament respectiv o scădere cu 50% a DAPSA (DAPSA50) față de evaluarea inițială (înainte de inițierea respectivului tratament biologic) menținându-se în boală cu activitate moderată (14 < DAPSA ≤ 28) sau înaltă (DAPSA > 28).
+În cazul pacienților care au răspuns la tratament, dar la care se înregistrează o pierdere a răspunsului, definite prin prezența unui răspuns minor la tratament, respectiv ameliorare doar cu 50% a valorii DAPSA (DAPSA50) între 2 evaluări succesive, cu condiția trecerii într-un grad mai mare de activitate (de exemplu de la remisiune la activitatea joasă sau de la activitate joasă la activitate moderată), se impune schimbarea terapiei administrate.
+Medicul curant este singurul care poate evalua corect gradul de răspuns la terapie și poate recomanda continuarea sau schimbarea tratamentului administrat.
+
+Schimbarea terapiei biologice
+La pacienții non-responderi la primul tratament biologic administrat sau care au dezvoltat o reacție adversă care să impună oprirea respectivului tratament, medicul curant va recomanda utilizarea altei terapii biologice, putând alege: un alt inhibitor TNFα (pe care pacientul nu l-a mai încercat, listați în ordine alfabetică: adalimumabum original sau biosimilar, certolizumab, etanerceptum original sau biosimilar, golimumabum, infliximabum original sau biosimilar), un blocant IL-17 (secukinumabum, ixekizumabum), un blocant de IL-23 (guselkumabum)  sau utilizarea unui ts-DMARD (tofacitinib) în dozele adecvate, cu mențiunea că nu este permisă folosirea unui biosimilar după produsul original cu aceeasi substanta activa care nu a fost eficient sau a produs o reacție adversă (inversul afirmației fiind și el corect).
+În cazul în care medicul curant constată lipsa de răspuns la tratamentul administrat sau apariția unei reacții adverse care să impună oprirea tratamentului, acesta poate recomanda modificarea schemei terapeutice înainte de împlinirea celor 24 de săptămâni prevăzute pentru evaluarea uzuală de eficacitate. Conform EULAR, lipsa răspunsului la 3 luni de la inițierea unei terapii impune schimbarea acesteia.
+Același protocol de modificare a schemei de tratament se repetă ori de câte ori este nevoie, respectiv pacientul nu mai răspunde la terapie sau dezvoltă o reacție adversă care să impună oprirea terapiei.
+
+Atitudinea la pacienții aflați în remisiune persistentă (boală inactivă)
+În conformitate cu recomandările EULAR și ținând cont de preocuparea pentru minimalizarea expunerii la riscurile implicite ale tratamentului biologic, se recomandă ca la pacienții aflați în remisiune persistentă (definită prin DAPSA ≤ 4 sau absența activității bolii la nivel articular periferic și axial, cutanat, unghial, absența entezitei și a dactilitei, prezența valorilor normale a VSH și PCR) la două evaluări consecutive la interval de 6 luni se recomandă ca tratamentul biologic administrat să fie redus progresiv prin creșterea intervalului dintre administrări. Această reducere a expunerii la terapie biologică se face treptat, monitorizând evoluția pacientului, cu posibilitatea revenirii în orice moment la dozele/frecvența inițială în cazul unui puseu evolutiv de boală. Reducerea expunerii la terapie biologică va fi aplicată cu acordul scris al pacientului, numai după ce acesta a fost informat de medicul curant asupra avantajelor și riscurilor spațierii intervalului de administrare.
+
+O schemă propusă de reducere a expunerii la agentul biologic sau sintetic țintit (tsDMARDs) se face după cum urmează:
+adalimumabum (original sau biosimilar) 40 mg injectabil subcutanat - se crește intervalul între administrări la 3 săptămâni timp de 6 luni, apoi la o lună, cu condiția păstrării răspunsului terapeutic.
+certolizumab: se crește intervalul între administrări la 6 săptămâni timp de 6 luni, apoi la 8 săptămâni, cu condiția păstrării răspunsului terapeutic (schema aplicabilă în cazul în care remisiunea este obținută cu 400 mg o dată la 4 săptămâni). Dacă se utilizează 200 mg la 2 săptămâni, se crește intervalul la 3 săptămâni timp de 6 luni, apoi la 4 săptămâni.
+etanerceptum (original sau biosimilar) pentru doza de 50 mg/săpt. injectabil subcutanat - se crește intervalul între administrări la 10 zile timp de 6 luni, apoi la 2 săptămâni, cu condiția păstrării răspunsului terapeutic.
+golimumabum 50 mg injectabil subcutanat - se crește intervalul la 6 săptămâni timp de 6 luni, apoi la 2 luni, în aceeași dată a lunii, cu condiția păstrării răspunsului terapeutic.
+infliximabum (original sau biosimilar) utilizat în doza care a indus remisiunea - se crește intervalul între perfuzii la 10 săptămâni timp de 6 luni, apoi la 12 săptămâni, fără a se depăși intervalul de 16 săptămâni între administrări. Infliximab administrat subcutanat: se crește intervalul între administrări la 3 săptămâni timp de 6 luni, apoi la o lună, cu condiția păstrării răspunsului terapeutic.
+secukinumabum 150/300 mg injectabil subcutanat se crește intervalul la 6 săptămâni pentru 6 luni, apoi la 2 luni, în aceeași dată a lunii, cu condiția păstrării răspunsului terapeutic.
+ixekizumabum 80 mg injectabil subcutanat se crește intervalul la 6 săptămâni  pentru 6 luni, apoi la 2 luni, cu condiția păstrării răspunsului terapeutic
+guselkumabum: in cazul utilizarii ca schema de intretinere 100 mg la fiecare 8 saptamani se crește intervalul la 10 săptămâni  pentru 6 luni, apoi la 12 saptamani, cu condiția păstrării răspunsului terapeutic. In cazul utilizarii ca schema de intretinere 100 mg la fiecare 4 saptamani: se crește intervalul la 6 săptămâni pentru 6 luni, apoi la 8 saptamani, cu condiția păstrării răspunsului terapeutic
+tofacitinib: 10 mg/zi sau 11mg/zi - se reduce doza la 5 mg/zi, cu condiția păstrării răspunsului terapeutic.
+
+Criterii de excludere a pacienților din tratamentul cu terapii biologice sau ts-DMARDs sau contraindicații pentru acestea
+pacienți cu infecții severe (actuale, netratate) precum (dar nu limitativ): stări septice, abcese, tuberculoză activă, infecții oportuniste sau orice alte infecții considerate semnificative în opinia medicului curant
+tratamentul biologic este contraindicat la pacienții cu infecții active cu VHB și utilizat cu prudență la cei cu infecție cronică VHC, cu monitorizare atentă. În ambele situații de infecție virală B sau C decizia de inițiere/continuare a terapiei impune avizul medicului infecționist sau gastroenterolog;
+antecedente de hipersensibilitate la adalimumab (original sau biosimilar), certolizumab, etanercept (original sau biosimilar), golimumab, infliximab (original sau biosimilar), la proteine murine sau la oricare dintre excipienții produsului folosit;
+sarcina/alăptarea; la pacienții de vârstă fertilă eventualitatea unei sarcini va fi atent discutată anterior concepției împreună cu medicul curant și medicul de obstetrică-ginecologie; pentru pacienții care doresc să procreeze, medicul curant va ține cont de informațiile din rezumatul caracteristicilor produsului pentru certolizumab pegol;
+pacienți cu stări de imunodeficiență severă;
+administrarea concomitentă a vaccinurilor cu germeni vii;
+afecțiuni maligne prezente sau afecțiuni maligne în antecedente fără aviz oncologic.
+orice contraindicații recunoscute ale terapiilor biologice, conform RCP fiecărui produs;
+lipsa/retragerea consimțământului pacientului față de tratament;
+pierderea calității de asigurat;
+în cazul non-aderenței la tratament, medicul curant va evalua cauzele acesteia și oportunitatea continuării terapiei biologice, având în vedere îndeplinirea tuturor criteriilor de continuare/modificare a terapiei.
+pentru infliximab original sau biosimilar, readministrarea după un interval liber de peste 16 săptămâni;
+insuficiența cardiacă congestivă severă (NYHA clasa III/IV), cu excepția etanercept la care se va consulta rezumatul caracteristicilor produsului.
+pacienți cu lupus sau sindroame lupus-like, cu excepția etanercept la care se va consulta rezumatul caracteristicilor produsului.
+
+Precauții și atenționări pentru pacienții tratați cu inhibitori de JAK (JAKi):
+A fost observată o incidență crescută de afecțiuni maligne, evenimente adverse cardiovasculare majore (MACE), infecții grave, trombembolism venos (TEV) și mortalitate, la pacienții cu poliartrită reumatoidă (PR) cu anumiți factori de risc, care au fost tratați cu JAKi, comparativ cu pacienții tratați cu inhibitori de TNF-α. Aceste riscuri sunt considerate efecte de clasă și sunt relevane în cadrul tuturor indicațiilor aprobate ale JAKi, în afecțiunile inflamatoare și dermatologice. JAKi trebuie administrați numai dacă nu sunt disponibile alternative de tratament adecvate, la pacienții:
+- cu vârstă de 65 de ani și peste;
+- fumători actuali sau care au fumat o perioadă îndelungată în trecut;
+- cu alți factori de risc cardiovascular sau cu factori de risc pentru apariția afecțiunilor maligne.
+JAKi trebuie administrați cu precauție la pacienții cu factori de risc pentru TEV, alții decât cei enumerați mai sus. Recomandările privind dozele sunt reviziute pentru anumite grupe de pacienți cu factori de risc. Se recomandă examinarea perioadică a pielii pentru toți pacienții. Medicii prescriptori trebuie să discute cu pacienții despre riscurile asociate cu administrarea JAKi.
+
+III. Prescriptori
+Medicul de specialitate care are dreptul de a prescrie tratament specific în conformitate cu Hotărârea Guvernului nr. 720/2008 pentru aprobarea listei cuprinzând denumirile comune internaționale corespunzătoare medicamentelor de care beneficiază asigurații, cu sau fără contribuție personală, pe bază de prescripție medicală, în sistemul de asigurări sociale de sănătate, precum și denumirile comune internaționale corespunzătoare medicamentelor care se acordă în cadrul programelor naționale de sănătate, republicata, cu modificările și completările ulterioare, va completa o foaie de observație/fișă medicală care va conține evaluările clinice și de laborator sau imagistice necesare, datele fiind introduse în aplicația informatică Registrul Român de Boli Reumatice.
+
+Se recomandă înregistrarea următoarelor date, atât la inițierea terapiei, cât și pe parcursul evoluției bolii sub tratament:
+informații demografice și generale despre pacient;
+diagnosticul cert de AP conform criteriilor CASPAR;
+istoricul bolii (debut, evoluție, scheme terapeutice anterioare - preparate, doze, data inițierii și data opririi tratamentului, evoluție sub tratament), prezența manifestărilor sistemice sau non-articulare;
+antecedente semnificative și comorbidități;
+starea clinică actuală (NAD, NAT, VAS pacient, deficite funcționale);
+nivelul reactanților de fază acută (VSH, CRP cantitativ);
+rezultatele screening-ului pentru tuberculoză (inclusiv rezultat test QuantiFERON), avizul medicului pneumolog în cazul unui rezultat pozitiv;
+rezultatele testelor pentru hepatitele virale B și C, avizul medicului gastroenterolog sau infecționist în cazul unui rezultat pozitiv;
+alte teste de laborator relevante;
+evaluarea gradului de leziuni osteo-articulare (imagistic: radiologic);
+justificarea recomandării tratamentului cu agenți biologici (verificarea îndeplinirii criteriilor de protocol);
+preparatul biologic sau ts-DMARDs recomandat: denumirea comună internațională și denumirea comercială, precizând doza și schema terapeutică;
+nivelul indicilor compoziți: DAPSA și după caz îndeplinirea criteriilor de remisiune/boală cu activitate scăzută;
+apariția și evoluția în caz de reacții adverse post-terapeutice, complicații, comorbidități.
+
+Scala analogă vizuală (VAS) este completată direct de pacient pe fișă, acesta semnând și datând personal.
+Pentru inițierea terapiei biologice sau ts-DMARDs se recomandă obținerea unei a doua opinii de la un medic primar în specialitatea reumatologie dintr-un centru universitar (București, Iași, Cluj, Târgu Mureș, Constanța, Craiova, Timișoara) privind diagnosticul, gradul de activitate a bolii și necesitatea instituirii tratamentului biologic sau ts-DMARDs.
+Medicul curant are obligația să discute cu pacientul starea evolutivă a bolii, prognosticul și riscurile de complicații, justificând indicația de tratament biologic sau ts-DMARDs. Vor fi detaliate atât beneficiile previzibile, cât și limitele și riscurile potențiale ale acestor terapii, vor fi discutate diversele variante de tratament disponibil (preparate și scheme terapeutice), precum și monitorizarea necesară, astfel încât pacientul să fie complet informat asupra tuturor aspectelor legate de tratamentul recomandat. Medicul curant va solicita pacientului să semneze o declarație de consimțământ informat privind tratamentul recomandat, care va include în clar denumirea comună internațională și numele comercial al preparatului recomandat și va fi semnată și datată personal de către pacient. Consimțământul este obligatoriu la inițierea tratamentului, precum și pe parcursul acestuia, dacă: se schimbă schema terapeutică (denumirea comună internațională sau preparat comercial, doza sau frecvența de administrare) sau pacientul trece în grija altui medic curant. Medicul curant are obligația de a păstra originalul consimțământului informat.”
+
+La anexa nr. 2, protocolul terapeutic corespunzător poziției nr. 17 cod (L041M): SPONDILOARTRITA AXIALĂ, INCLUSIV SPONDILITA ANCHILOZANTĂ - AGENȚI BIOLOGICI: ADALIMUMABUM**1 (ORIGINAL ȘI BIOSIMILAR), CERTOLIZUMABUM**1, ETANERCEPTUM**1 (ORIGINAL ȘI BIOSIMILAR), GOLIMUMABUM**1, INFLIXIMABUM**1 (ORIGINAL ȘI BIOSIMILAR), SECUKINUMABUM**1 se modifică și se înlocuiește cu următorul protocol:
+
+”Protocol terapeutic corespunzător poziției nr. 17 cod (L041M): SPONDILOARTRITA AXIALĂ, INCLUSIV SPONDILITA ANCHILOZANTĂ - AGENȚI BIOLOGICI: ADALIMUMABUM**1 (ORIGINAL ȘI BIOSIMILAR), CERTOLIZUMABUM**1, ETANERCEPTUM**1 (ORIGINAL ȘI BIOSIMILAR), GOLIMUMABUM**1, INFLIXIMABUM**1 (ORIGINAL ȘI BIOSIMILAR), SECUKINUMABUM**1, IXEKIZUMABUM**1Ω
+
+I. Definiția afecțiunii
+Spondiloartritele (SpA) sunt un grup de boli inflamatoare cronice care afecteaza  scheletul axial (articulațiile sacro-iliace si coloana vertebrala), uneori si articulațiile periferice (oligoartrita asimetrica interesand predominant articulațiile membrelor inferioare), asociate frecvent cu entesita, dactilita, manifestari extraarticulare (uveita acuta anterioara, psoriazis, boala inflamatoare intestinală), precum si un factor genetic predispozant: antigenul HLA-B27.
+
+Clasificarea actuală a SpA in forma axiala (SpAax) si forma periferica (SpAp) se bazeaza pe manifestările clinice  predominante: axiale sau periferice
+
+SpAax este o boala inflamatoare cronică afectând predominant scheletul axial (articulații sacro-iliace si coloană), avand 2 subtipuri principale:
+spondiloartrita axiala nonradiografica (SpAax nr), fără sacroiliită radiografica, si
+spondilita anchilozantă (SA) cu sacroiliită evidentiata radiologic.
+
+II. Tratamentul spondiloartritei axiale (SA si SpA ax nr)
+
+Tratamentul trebuie ghidat în funcție de:
+manifestări clinice actuale ale bolii
+simptomatologia pacientului și factori de prognostic:
+activitatea bolii/inflamație;
+durere;
+nivel de funcționalitate/dizabilitate;
+afectarea articulațiilor coxofemurale, anchiloze la nivelul coloanei.
+factori individuali (sex, vârstă, comorbidități, medicație concomitentă, particularitațile individuale ale pacientului).
+
+Cele mai utilizate terapii sunt:
+antiinflamatoarele nesteroidiene (AINS) - au fost primele și pentru mult timp singurele medicamente folosite; evaluarea eficacității AINS necesită administrarea unor doze maxime, pe o perioadă de minimum  6 săptămâni, cu conditia unei tolerante satisfacatoare.
+Sulfasalazina  - este indicata doar în tratamentul afectărilor periferice din SpA. Doza eficientă de sulfasalazină este de 2 - 3 g/zi oral, tratamentul fiind inițiat cu 500 mg/zi și crescut progresiv până la doza eficientă, cu conditia unei tolerante bune. Se consideră nonresponder la sulfasalazină lipsa de ameliorare semnificativa după 4 luni de tratament.
+terapia biologică a modificat prognosticul pacienților cu SpAax, determinând nu doar ameliorări semnificative ale activității bolii, ci și oprirea evoluției bolii, permițând reintegrarea socială a pacienților tineri condamnați la invaliditate, cu scăderea costurilor totale și în special a celor indirecte datorate handicapului fizic și echilibrarea balanței cost/beneficiu.
+
+Criterii de includere a pacienților cu SpAax (SA, SpAax nr) în tratamentul biologic cu blocanți de TNFα (adalimumabum original și biosimilar, certolizumabum, etanerceptum original și biosimilar, golimumabum, infliximabum original și biosimilar) și blocanți de IL17 (secukinumab, ixekizumab):
+
+1. Diagnosticul cert de SpAax  se stabileste de către medicul reumatolog, si se bazează demonstrarea sacroiliitei pe imagistica (IRM: cu semne de inflamatie activa sau radiografie) la care se asociaza, conform criteriilor de clasificare  ale  SpAax, cel putin unul dintre elementele caracteristice ale SpAax:
+artrita
+entesita (calcâi)
+uveita
+dactilita
+psoriasis
+boala Crohn/colita ulcerativă
+răspuns bun la AINS
+antecedente de SpAax
+HLA-B27
+nivele crescute de proteina C reactiva (PCR)
+
+In cazul in care pacientul prezinta pe radiografie modificari de sacroiliita, care sa indeplineasca criteriile de clasificare New York modificate (1984), cazul se incadreaza ca SA, conform celor de mai jos:
+durere lombară joasă si redoare, cu durata de peste 3 luni, care se ameliorează la mobilizare și nu dispare în repaus;
+limitarea mișcării coloanei lombare în plan sagital și frontal;
+limitarea expansiunii cutiei toracice;
+criteriul imagistic: sacroiliita unilaterală grad 3-4 sau sacroiliita bilaterală grad 2-4 radiografic.
+Diagnosticul cert de SA presupune prezența criteriului imagistic asociat cel puțin unui criteriu clinic.
+
+2. Boala activă și severă:
+BASDAI > 6 la 2 evaluări succesive separate de cel puțin 4 săptămâni și ASDAS ≥ 2,5 (boală cu activitate înaltă sau foarte înaltă)
+VSH > 28 mm/h și/sau proteina C reactivă (PCR) de peste 3 ori limita superioară a normalului (determinată cantitativ, nu se admit evaluări calitative sau semicantitative).
+
+BASDAI (Bath Ankylosing Spondylitis Activity Index) este format din 6 întrebări privind principalele 5 simptome din spondilită anchilozantă: oboseală, durerea coloanei cervicale, toracale sau lombare, durerea/tumefacția articulațiilor periferice, durerea la atingere ori presiune la nivelul entezelor, redoare matinală (severitate, durată). Aprecierea se face folosind scala analogă vizuală (VAS) - o scală de 0-10, în care se notează cu 0 = absența durerii, oboselii și 10 - durere sau oboseală foarte severă. Se face scorul total adunând întrebările 1-4 cu media întrebărilor 5 și 6, iar rezultatul se împarte la 5. (vezi anexa BASDAI).
+
+ASDAS (Ankylosing Spondylitis Disease Activity Score) este format din 5 variabile: durerea lombară cuantificată în întrebarea nr. 2 din BASDAI, durata redorii matinale cuantificată prin întrebarea nr. 6 din BASDAI, VAS (0-10) care cuantifică activitatea bolii de către pacient în ultima săptămână, durerile și tumefacțiile articulare resimțite de pacient cuantificate prin a treia întrebare din BASDAI, VSH (la 1 h) sau PCR cantitativ (mg/L).
+
+În funcție de valorile scorului ASDAS activitatea bolii se împarte pe următoarele paliere:
+ASDAS ≥ 3,5 (boală cu activitate foarte înaltă);
+ASDAS ≥ 2,1 și < 3,5 (boală cu activitate înaltă);
+ASDAS > 1,3 și < 2,1 (boală cu activitate medie);
+ASDAS ≤ 1,3 (boală inactivă).
+
+3. Eșecul terapiilor tradiționale
+cel puțin 2 AINS administrate continuu, cel puțin 6 săptămâni fiecare, la doze maxim recomandate sau tolerate. Pacienții cu SpAax si SA numai cu afectare axiala, nu au nevoie de DMARD (sulfasalazinum) înainte de terapia biologică;
+sulfasalazina în formele periferice, cel puțin 4 luni de tratament la doze maxim tolerate (2 - 3 g/zi);
+răspuns ineficient la cel puțin o administrare de glucocorticoid injectabil local în artritele periferice și/sau entesitele active, dacă este indicată.
+
+4. Prezența afectărilor articulațiilor coxofemurale și a manifestărilor extra-articulare reprezintă factori adiționali ce permit administrarea terapiei anti-TNFα la un scor mai mic de activitate al bolii cu un BASDAI > 4 sau la un scor al ASDAS între 2,1 și 2,5.
+
+Screeningul necesar înainte de orice inițiere a terapiei biologice
+
+1. Tuberculoza
+Înaintea inițierii terapiei se va evalua riscul pacientului cu SpAax de a dezvolta o reactivare a unei tuberculoze latente, în condițiile riscului epidemiologie mare al acestei populații. Evaluarea riscului de tuberculoză va cuprinde: anamneză, examen clinic, radiografie pulmonară și teste de tip IGRA (interferon-gamma release assays): QuantiFERON TB Gold sau testul cutanat la tuberculină (TCT). Pentru pacienții testați pozitiv la QuantiFERON sau la TCT (TCT) ≥ 5 mm se indică consult pneumologic în vederea chimioprofilaxiei (efectuată sub supravegherea medicului pneumolog; terapia biologică se poate iniția după minimum o lună de tratament profilactic, numai cu avizul expres al medicului pneumolog). Numai la pacienții care au avut teste inițiale negative, se recomandă repetarea periodică a screening-ului pentru reactivarea tuberculozei (inclusiv testul QuantiFERON sau TCT), în caz de necesitate, dar nu mai rar de un an (la reevaluare se va folosi același test care a fost folosit inițial).
+
+Pentru detalii legate de definirea pacienților cu risc crescut și a conduitei de urmat, precum și a situațiilor particulare întâlnite în practică, medicul curant va utiliza recomandările in extenso din Ghidul de tratament al SA elaborat de Societatea Română de Reumatologie.
+
+2. Hepatitele virale
+Ținând cont de riscul crescut al reactivării infecțiilor cu virusuri hepatitice B și C, care pot îmbrăca forme fulminante, deseori letale, este imperios necesar ca înaintea inițierii terapiei cu un agent biologic să se efectueze screeningul infecțiilor cronice cu virusurile hepatitice B și C. Markerii serologici virali care trebuie obligatoriu solicitați alături de transaminaze înainte de inițierea unei terapii biologice sunt: pentru virusul hepatitic B (VHB): AgHBs, anticorpi anti-HBs, anticorpi anti-HBc (IgG); pentru virusul hepatitic C (VHC): anticorpi anti-VHC.
+
+Decizia de inițiere a terapiei biologice la cei cu markeri virali pozitivi impune avizul explicit al medicului specialist în boli infecțioase sau gastroenterologie, care va efectua o evaluare completă (hepatică și virusologică) a pacientului și va recomanda măsurile profilactice care se impun, stabilind momentul când terapia biologică a SpAax poate fi inițiată, precum și schema de monitorizare a siguranței hepatice. Se recomandă repetarea periodică, a screeningului pentru infecțiile cronice cu virusuri hepatitice B și C, în caz de necesitate, dar nu mai rar de un an.
+
+Pentru detalii legate de managementul infecției cu virusuri hepatitice la pacienții cu terapii biologice medicul curant va utiliza recomandările in extenso din Ghidul de tratament al SA elaborat de Societatea Română de Reumatologie și protocoalele terapeutice din hepatitele cronice aprobate de Ministerul Sănătății și Casa Națională de Asigurări de Sănătate.
+
+Scheme terapeutice
+La pacienții la care sunt îndeplinite criteriile privind inițierea terapiei biologice medicul curant va alege, în funcție de particularitățile cazului și caracteristicile produselor disponibile, preparatul biologic pe care îl consideră adecvat. De regulă, nu se recomandă combinarea preparatului biologic cu un remisiv sintetic (sulfasalazină).
+
+Blocanții TNFα utilizați în SpAax:
+adalimumabum original și biosimilar: 40 mg o dată la două săptămâni, subcutanat; se indică in tratamentul in SpAax (SA si SpA ax nr).
+certolizumab pegol: doza de încărcare este de 400 mg (administrată a câte 2 injecții subcutanate a câte 200 mg fiecare) în săptămânile 0, 2 și 4; doza de întreținere recomandată este de 200 mg o dată la 2 săptămâni sau 400 mg o dată la 4 săptămâni, subcutanat; se indică in tratamentul in SpAax (SA si SpA ax nr).
+etanerceptum (original și biosimilar): 25 mg de două ori pe săptămână sau 50 mg o dată pe săptămână, subcutanat; se indică in tratamentul in SpAax (SA si SpA ax nr)
+golimumab: 50 mg lunar în aceeași dată a lunii subcutanat. La pacienții cu greutatea > 100 kg care nu ating răspunsul clinic după 3 sau 4 doze de golimumab 50 mg lunar poate fi folosită doza de 100 mg injectabil subcutanat o dată pe lună în aceeași dată a lunii; se indică in tratamentul in SpAax (SA si SpA ax nr).
+infliximabum (original și biosimilar): se utilizează în doze de 5 mg/kgc, în PEV, administrat în ziua 0 și apoi la 2 și 6 săptămâni, ulterior la fiecare 8 săptămâni; se indică numai în tratamentul SA. Tratamentul cu infliximab administrat subcutanat trebuie inițiat ca tratament de întreținere la 4 săptămâni de la ultima administrare a două perfuzări intravenoase de infliximab la 5 mg/kg, administrate la interval de 2 săptămâni. Doza recomandată pentru infliximab forma farmaceutică pentru utilizare subcutanată de este de 120 mg la interval de 2 săptămâni.
+În cazul în care tratamentul de întreținere este întrerupt și este necesară reînceperea tratamentului, nu este recomandată utilizarea unui regim de re-inducție a infliximabului intravenos. În această situație, infliximabul trebuie reinițiat ca doză unică de infliximab intravenos urmată de recomandările privind doza de întreținere pentru infliximab subcutanat descrise mai sus, la 4 săptămâni după ultima administrare de infliximab intravenos.
+Când se trece de la terapia de întreținere cu infliximab formulă intravenoasă la forma farmaceutică subcutanată a infliximab, forma farmaceutică subcutanată poate fi administrată la 8 săptămâni după ultima administrare a perfuziilor intravenoase de infliximab.
+Nu sunt disponibile informații privind trecerea pacienților de la forma farmaceutică subcutanată la forma farmaceutică intravenoasă a infliximabum.
+Dacă pacienții omit administrarea unei injecții cu formularea subcutanată a infliximab, trebuie să fie instruiți să-și administreze imediat doza omisă în cazul în care acest lucru se întâmplă în termen de 7 zile de la doza omisă, apoi să rămână la schema lor inițială. Dacă doza este întârziată cu 8 zile sau mai mult, pacienții trebuie să fie instruiți să sară peste doza omisă, să aștepte până la următoarea doză programată și apoi să rămână la schema lor inițială.
+
+Blocanți de IL17 utilizați în SA:
+secukinumab: doza recomandată este de 150 mg/săptămână subcutanat timp de 4 săptămâni (1 injecție la săptămânile 0, 1, 2 și 3), ulterior de 150 mg/lună subcutanat (1 injecție în fiecare lună începând cu săptămâna 4). La pacienții care au început tratamentul cu secukinumabum 150 mg si au avut un răspuns clinic inadecvat (conform definiției de mai jos la capitolul „Continuarea tratamentului”), se poate crește doza de secukinumabum la 300 mg/lună. Fiecare doză de 300 mg poate fi administrată sub forma unei injecții subcutanate de 300mg sau a două injecții subcutanate de 150 mg; se indică in tratamentul in SpAax (SA si SpA ax nr).
+ixekizumab: doza recomandată este de 160 mg (două injecții a câte 80 mg) administrată prin injectare subcutanată în săptămâna 0, urmată de 80 mg la intervale de 4 săptămâni. Se indică in tratamentul in SpAax (SA si SpA ax nr).
+
+Atenționări și precauții speciale pentru utilizare
+Ixekizumab nu se recomandă pacienților cu boală inflamatorie intestinală. Dacă un pacient prezintă semne și simptome de boală inflamatorie intestinală sau are o exacerbare a unei boli inflamatorii intestinale preexistente, administrarea ixekizumab trebuie întreruptă și trebuie inițiat tratamentul adecvat.
+Ixekizumab nu trebuie să fie utilizat cu vaccinuri vii.
+Evaluarea răspunsului la tratamentului biologic
+Evaluarea răspunsului la tratament se face la 24 de săptămâni de tratament în vederea încadrării cazului ca responder sau nonresponder, ținând cont de următoarele elemente:
+Dinamica ASDAS definită ca diferență între ASDAS-ul anterior și cel actual (delta ASDAS):
+delta ASDAS ≥ 1,1- ameliorare clinică importantă,
+delta ASDAS ≥ 2 - ameliorare clinică majoră;
+delta ASDAS < 1,1 - ameliorare clinică absentă
+Dinamica BASDAI care se definește ca modificare procentuală (%) sau scăderea acestuia în valoare absolută, față de evaluarea anterioară.
+
+Continuarea tratamentului
+
+În cazul pacienților în curs de tratament biologic (inclusiv cei provenind din cazuri pediatrice, terapii inițiate în străinătate sau alte situații justificate, corespunzător documentate), tratamentul se continuă dacă pacientul este responder, după cum urmează:
+se înregistrează ameliorare de peste 50% a BASDAI;
+se înregistrează o scădere a valorilor VSH și/sau CRP cu peste 50%;
+delta ASDAS ≥ 1,1.
+
+Acest profil se raportează față de inițiere și/sau față de evaluarea anterioară.
+
+În caz de discordanțe între valorile ASDAS și delta ASDAS cu cele ale BASDAI, vor prima la evaluarea răspunsului ASDAS și delta ASDAS.
+
+Boala cu activitate medie (1,3 < ASDAS < 2,1) este acceptată doar în primul an de tratament, țintă fiind ASDAS ≤ 1,3 (boală inactivă).
+
+Situații speciale la pacienții responderi:
+pacienții cu boală veche (cel puțin 5 ani de la diagnostic) pot continua tratamentul dacă ASDAS este între 1,3 și 2,1.
+pacienții care sub tratament înregistrează o creștere a activității bolii, cu depășirea pragului ASDAS de 2,1, dar nu mai mult de 2,5, pot continua tratamentul încă 24 de săptămâni cu reevaluare ulterioară și reîncadrare în responder sau nonresponder.
+
+Pacientul nonresponder se definește ca: ASDAS ≥ 3,5 (boala cu activitate foarte înaltă) și/sau delta ASDAS < 1,1; BASDAI < 50% ameliorare (sau BASDAI > 4); VSH și/sau CRP > 50% față de momentul inițierii tratamentului.
+
+Medicul curant este cel care poate evalua corect gradul de răspuns la terapie și poate încadra cazul ca responder sau nonresponder la tratamentul administrat. Apariția unei reacții adverse poate impune schimbarea terapiei biologice.
+
+Lipsa de ameliorare a criteriilor enunțate după schimbări succesive ale agenților biologici duce la oprirea tratamentului biologic.
+
+Evoluția bolii va fi strâns monitorizată, clinic și biologic (lunar sau cel puțin o dată la fiecare 3 - 6 luni), iar medicul curant va adapta și modifica schema de tratament, utilizând ASDAS și BASDAI ca indicatori de evoluție a afecțiunii, ținta terapeutică fiind obținerea remisiunii sau atingerea unui grad scăzut de activitate a bolii.
+
+Atitudinea la pacienții aflați în remisiune persistentă (boală inactivă)
+
+În conformitate cu recomandările EULAR și ținând cont de preocuparea pentru minimalizarea expunerii la riscurile implicite ale tratamentului biologic, se recomandă ca la pacienții aflați în remisiune persistentă (boală inactivă) ASDAS ≤ 1,3 și valori normale VSH și PCR la 2 evaluări succesive (la interval de minimum 6 luni între evaluări) tratamentul biologic administrat să fie redus treptat. Această reducere a expunerii la terapie biologică se face treptat, monitorizând evoluția pacientului, cu posibilitatea revenirii în orice moment la schema inițială în cazul unui puseu evolutiv de boală.
+
+O schemă propusă de reducere a expunerii la agentul biologic se face după cum urmează:
+adalimumabum  original și biosimilar 40 mg injectabil subcutanat se crește intervalul între administrări la 3 săptămâni pentru 6 luni, apoi la o lună, cu condiția păstrării răspunsului terapeutic;
+certolizumab pegol: se crește intervalul dintre administrări la 6 săptămâni pentru 6 luni cu condiția păstrării răspunsului terapeutic (schema aplicabilă în cazul în care remisiunea este obținută cu 400 mg sc la 4 săptămâni). Dacă se utilizează 200 mg subcutanat la 2 săptămâni se crește intervalul la 3 săptămâni pentru 6 luni, apoi la 4 săptămâni;
+etanerceptum (original sau biosimilar) pentru doza de 50 mg/săpt. injectabil subcutanat - se crește intervalul între administrări la 10 zile timp de 6 luni, apoi la 2 săptămâni, cu condiția păstrării răspunsului terapeutic. Alternativ se poate folosi doza de 25 mg la 5 zile timp de 6 luni, apoi 25 mg/săptămână, cu condiția păstrării răspunsului terapeutic;
+golimumabum 50 mg injectabil subcutanat se crește intervalul la 6 săptămâni pentru 6 luni, apoi la 2 luni, în aceeași dată a lunii, cu condiția păstrării răspunsului terapeutic;
+infliximabum (original sau biosimilar) utilizat în doza care a indus remisiunea - se crește intervalul între perfuzii la 10 săptămâni timp de 6 luni, apoi la 12 săptămâni, fără a se depăși intervalul de 16 săptămâni între administrări. Infliximab administrat subcutanat: se crește intervalul între administrări la 3 săptămâni timp de 6 luni, apoi la o lună, cu condiția păstrării răspunsului terapeutic.
+secukinumabum150 mg/lună subcutanat se crește intervalul la 6 săptămâni pentru 6 luni, apoi la 2 luni, în aceeași dată a lunii, cu condiția păstrării răspunsului terapeutic; pentru secukinumabum 300 mg/lună subcutanat se poate reduce doza la 150 mg/lună subcutanat, cu condiția păstrării răspunsului terapeutic.
+ixekizumab 80 mg: injectabil subcutanat se crește intervalul la 6 săptămâni pentru 6 luni, apoi la 2 luni, în aceeași dată a lunii, cu condiția păstrării răspunsului terapeutic.
+
+Criterii de excludere a pacienților din tratamentul cu terapii biologice sau contraindicații pentru acestea
+pacienți cu infecții severe (actuale, netratate) precum (dar nu limitativ): stări septice, abcese, tuberculoză activă, infecții oportuniste sau orice alte infecții considerate semnificative în opinia medicului curant;
+tratamentul biologic este contraindicat la pacienții cu infecții active cu VHB și utilizat cu prudență la cei cu infecție cronică VHC, cu monitorizare atentă. În ambele situații de infecție virală B sau C decizia de inițiere/continuare a terapiei impune avizul medicului infecționist sau gastroenterolog;
+antecedente de hipersensibilitate la adalimumab original și biosimilar, certolizumab, etanercept (original sau biosimilar), golimumab, infliximab (original sau biosimilar), secukinumab, ixekizumab, la proteine murine sau la oricare dintre excipienții produsului folosit;
+sarcina/alăptarea; la pacienții de vârstă fertilă eventualitatea unei sarcini va fi atent discutată anterior concepției împreună cu medicul curant și medicul de obstetrică-ginecologie; pentru pacienții care doresc să procreeze, medicul curant va ține cont de informațiile din rezumatul caracteristicilor produsului pentru certolizumab pegol;
+pacienți cu stări de imunodeficiență severă;
+administrarea concomitentă a vaccinurilor cu germeni vii;
+afecțiuni maligne prezente sau afecțiune maligne în antecedente fără avizul oncologic;
+orice contraindicații recunoscute ale terapiilor biologice;
+lipsa/retragerea consimțământului pacientului față de tratament;
+pierderea calității de asigurat;
+în cazul non-aderenței majore la tratament, medicul curant va evalua cauzele acesteia și oportunitatea continuării terapiei biologice, având în vedere îndeplinirea tuturor criteriilor de continuare/modificare a terapiei.
+pentru infliximab original sau biosimilar: readministrarea după un interval liber de peste 16 săptămâni;
+insuficiență cardiacă congestivă severă (NYHA clasa III/IV), cu excepția etanercept la care se va consulta rezumatul caracteristicilor produsului;
+pacienți cu lupus sau sindroame lupus-like, cu excepția etanercept la care se va consulta rezumatul caracteristicilor produsului.
+
+III. Prescriptori
+Medicul de specialitate care are dreptul de a prescrie tratament specific în conformitate cu Hotărârea Guvernului nr. 720/2008 pentru aprobarea Listei cuprinzând denumirile comune internaționale corespunzătoare medicamentelor de care beneficiază asigurații, cu sau fără contribuție personală, pe bază de prescripție medicală, în sistemul de asigurări sociale de sănătate, precum și denumirile comune internaționale corespunzătoare medicamentelor care se acordă în cadrul programelor naționale de sănătate, cu modificările și completările ulterioare, va completa o foaie de observație/fișă medicală care va conține evaluările clinice și de laborator sau imagistice necesare, datele fiind introduse în aplicația informatică Registrul Român de Boli Reumatice.
+
+Se recomandă înregistrarea următoarelor date, atât la inițierea terapiei, cât și pe parcursul evoluției bolii sub tratament:
+informații demografice și generale despre pacient;
+diagnosticul cert de SA;
+istoricul bolii (debut, evoluție, scheme terapeutice anterioare - preparate, doze, data inițierii și data opririi tratamentului, evoluție sub tratament), prezența manifestărilor sistemice sau non-articulare;
+antecedente semnificative și comorbidități;
+starea clinică actuală (NAD, NAT, redoare matinală, deficite funcționale);
+BASDAI, ASDAS;
+nivelul reactanților de fază acută (VSH, PCR cantitativ);
+rezultatele screening-ului pentru tuberculoză (inclusiv rezultat test Quantiferon), avizul medicului pneumolog în cazul unui rezultat pozitiv;
+rezultatele testelor pentru hepatitele virale B și C, avizul medicului gastroenterolog sau infecționist în cazul unui rezultat pozitiv;
+alte teste de laborator relevante;
+evaluarea gradului de leziuni osteo-articulare (imagistic: radiologic/IRM);
+justificarea recomandării tratamentului cu agenți biologici (verificarea îndeplinirii criteriilor de protocol);
+preparatul biologic recomandat: denumirea comună internațională și denumirea comercială, precizând doza și schema terapeutică;
+apariția și evoluția în caz reacții adverse post-terapeutice, complicații, comorbidități.
+
+Chestionarul BASDAI pentru evaluarea globală a activității bolii de către pacient este completat direct de pacient pe fișă, acesta semnând și datând personal.
+
+Pentru inițierea terapiei biologice se recomandă obținerea unei a doua opinii de la un medic primar în specialitatea reumatologie dintr-un centru universitar (București, Iași, Cluj, Târgu Mureș, Constanța, Craiova, Timișoara) privind diagnosticul, gradul de activitate a bolii și necesitatea instituirii tratamentului biologic.
+
+Medicul curant are obligația să discute cu pacientul starea evolutivă a bolii, prognosticul și riscurile de complicații, justificând indicația de tratament biologic. Vor fi detaliate atât beneficiile previzibile, cât și limitele și riscurile potențiale ale acestor terapii, vor fi discutate diversele variante de tratament disponibil (preparate și scheme terapeutice), precum și monitorizarea necesară, astfel încât pacientul să fie complet informat asupra tuturor aspectelor legate de tratamentul biologic recomandat.
+
+Medicul curant va solicita pacientului să semneze o declarație de consimțământ informat privind tratamentul recomandat, care va include în clar denumirea comună internațională și numele comercial al preparatului recomandat și va fi semnată și datată personal de către pacient. Consimțământul este obligatoriu la inițierea tratamentului biologic, precum și pe parcursul acestuia, dacă: se schimbă schema terapeutică (denumirea comună internațională sau preparat comercial, doza sau frecvența de administrare) sau pacientul trece în grija altui medic curant. Medicul curant are obligația de a păstra originalul consimțământului informat.”
+
+La anexa nr. 2, protocolul terapeutic corespunzător poziției nr. 18 cod (L043M): POLIARTRITA REUMATOIDĂ - AGENȚI BIOLOGICI: INFLIXIMABUM**1 (ORIGINAL ȘI BIOSIMILAR), ETANERCEPTUM**1 (ORIGINAL ȘI BIOSIMILAR), ADALIMUMABUM**1 (ORIGINAL ȘI BIOSIMILAR), GOLIMUMABUM**1, CERTOLIZUMABUM**1, RITUXIMABUM**1 (ORIGINAL ȘI BIOSIMILAR), TOCILIZUMABUM**1, ABATACEPTUM**1 ȘI REMISIVE SINTETICE ȚINTITE: BARICITINIB**1, TOFACITINIB**1, UPADACITINIB**1 se modifică și se înlocuiește cu următorul protocol:
+
+”Protocol terapeutic corespunzător poziției nr. 18 cod (L043M): POLIARTRITA REUMATOIDĂ - AGENȚI BIOLOGICI: INFLIXIMABUM**1 (ORIGINAL ȘI BIOSIMILAR), ETANERCEPTUM**1 (ORIGINAL ȘI BIOSIMILAR), ADALIMUMABUM**1 (ORIGINAL ȘI BIOSIMILAR), GOLIMUMABUM**1, CERTOLIZUMABUM**1, RITUXIMABUM**1 (ORIGINAL ȘI BIOSIMILAR), TOCILIZUMABUM**1, ABATACEPTUM**1 ȘI REMISIVE SINTETICE ȚINTITE: BARICITINIB**1, TOFACITINIB**1, UPADACITINIB**1
+
+I. Definiția afecțiunii/Diagnostic/Factori prognostici
+
+Poliartrita reumatoidă reprezintă forma cea mai frecventă de reumatism inflamator, afectând aproximativ 1% din populația generală. Netratată sau tratată necorespunzător are de obicei o evoluție severă și progresiv agravantă, generând durere și inflamație articulară, distrucții osteocartilaginoase definitive și handicap funcțional semnificativ. Severitatea bolii rezultă din faptul că peste 50% din pacienți își încetează activitatea profesională în primii 5 ani de boală, iar la 10% din cazuri apare o invaliditate gravă în primii 2 ani de evoluție. Apariția unor leziuni viscerale este responsabilă de o scurtare a duratei medii de viață cu 5 până la 10 ani. Având în vedere severitatea potențială și riscul de complicații, diagnosticul PR trebuie confirmat într-un stadiu cât mai precoce și în acest sens pacientul va fi îndrumat către un medic reumatolog.
+
+Diagnosticul cert de poliartrită reumatoidă va fi confirmat de medicul reumatolog, cât mai devreme față de debutul bolii, conform criteriilor de clasificare EULAR/ACR 2010. Populația-țintă de pacienți la care se aplică aceste criterii este reprezentată de pacienți cu cel puțin o articulație tumefiată și la care prezența sinovitei nu poate fi explicată de o altă boală. Sunt evaluate cantitativ un număr de 4 domenii, conform tabelului de mai jos, pentru diagnosticul de PR fiind necesare minimum 6 puncte din 10 posibile (Tabel 1).
+
+În aprecierea potențialului evolutiv al bolii sunt considerați factori de prognostic nefavorabil următorii:
+vârsta sub 45 ani la debut;
+un titru înalt al factorilor reumatoizi sau al anticorpilor anti-CCP (de peste 10 ori valoarea normală);
+valori mari ale reactanților de fază acută: proteina C reactivă > 5 ori limita superioară a normalului sau VSH > 50 mm/1 h;
+numărul mare de articulații tumefiate (> 5 articulații tumefiate);
+eroziuni evidențiate imagistic;
+status funcțional alterat (HAQ peste 1,5);
+prezența manifestărilor extra-articulare (noduli reumatoizi, sindrom Felty sau vasculită sau altele).
+
+II. Tratamentul remisiv al poliartritei reumatoide, evaluare, criterii de includere și excludere, scheme terapeutice pentru terapia biologică și cu remisive sintetice țintite
+
+Tratamentul remisiv (de fond) al poliartritei reumatoide este obligatoriu în toate formele active ale bolii.
+
+Nomenclatura utilizată în acest protocol respectă recomandările actuale EULAR: terapii remisive sau modificatoare de boală (Disease-Modifying Antirheumatic Drugs - DMARDs), care se clasifică în:
+remisive sintetice (sDMARDs), cu subtipurile: sintetice convenționale (csDMARDs) și sintetice țintite (tsDMARDs);
+remisive biologice (bDMARDs), care pot fi originale (boDMARDs) sau biosimilare (bsDMARDs).
+
+Conform recomandărilor EULAR, revizia 2013/2016, tratamentul cu remisive sintetice convenționale reprezintă prima linie terapeutică, este obligatoriu în toate formele active ale bolii și trebuie început cât mai devreme de la stabilirea diagnosticului (ideal în primele 6 săptămâni de la diagnostic).
+
+Obiectivul terapeutic urmărit este obținerea:
+remisiunii bolii, ori de câte ori este posibil (cel mai frecvent în formele de boală depistate timpuriu, cu inițierea precoce a tratamentului);
+activității joase a bolii (LDA), la cazurile la care nu se poate obține remisiunea (cel mai frecvent în formele constituite de boală).
+
+Cele mai utilizate terapii remisive sintetice convenționale sunt reprezentate de:
+metotrexat - conform EULAR reprezintă medicația remisivă sintetică convențională de primă alegere, cu excepția cazurilor când există contraindicații majore, în doza de întreținere uzuală: 20 mg/săptămână (în funcție de toleranță), de regulă oral. Pentru creșterea toleranței, asocierea de folat este de regulă recomandată, iar administrarea injectabilă (subcutanat sau intramuscular) a metotrexatului trebuie luată în calcul pentru creșterea biodisponibilității și reducerea riscului de efecte adverse digestive (alături de administrarea de domperidonă și antiemetice: ondansetron sau granisetron);
+leflunomid - utilizat ca alternativă la metotrexat doar atunci când acesta este contraindicat ori la pacienții nonresponsivi, cu răspuns insuficient sau care au dezvoltat reacții adverse la metotrexat, în doza uzuală de 20 mg/zi;
+sulfasalazina - utilizat ca alternativă la metotrexat doar atunci când acesta este contraindicat ori la pacienții nonresponsivi, cu răspuns insuficient sau care au dezvoltat reacții adverse la alte remisive sintetice, doza de întreținere uzuală minim 2 g/zi, crescută la nevoie până la 3 g/zi (funcție de toleranță);
+hidroxiclorochina - utilizată de obicei în asociere cu alte remisive sintetice convenționale majore (de exemplu: metotrexat, leflunomid, sulfasalazină), din cauza eficacității relative mai mici; utilizarea sa, ca a doua opțiune de remisiv sintetic, în afara metotrexat, nu este considerată suficientă pentru indicația de terapie biologică și sintetică țintită (tsDMARDs); doza uzuală de 400 mg/zi;
+următoarele 2 preparate remisive sintetice convenționale au în prezent, conform EULAR, indicație foarte limitată în PR, rezervată doar formelor nonresponsive, care nu au răspuns la nicio altă terapie sintetică sau biologică sau care au dezvoltat reacții adverse la alte remisive sintetice sau biologice, fiind utilizate doar în situații excepționale:
+ciclosporina A, în doză uzuală de 3 - 5 mg/kgc/zi;
+azatioprina, în doză uzuală de 100 mg/zi.
+
+În funcție de particularitățile cazului tratat și de gradul de activitate a bolii, medicul curant formulează schema de tratament și indică aceste preparate remisive, care se pot utiliza singure sau în asociere, iar asocierea trebuie de obicei să includă metotrexat.
+
+Glucocorticoizii în doze mici (≤ 7,5 mg/zi) trebuie avuți în vedere ca parte a strategiei terapeutice inițiale (în asociere cu unul sau mai multe remisive sintetice convenționale), însă tratamentul trebuie redus și oprit cât mai rapid posibil.
+
+Evaluarea activității bolii
+Evaluarea activității bolii este obligatorie pentru alegerea schemei terapeutice și evaluarea gradului de răspuns la tratament; se face prin calcularea unui indice cumulativ numit scorul activității bolii (DAS28).
+
+Indicele cumulativ DAS28 cu 4 variabile include:
+NAD: numărul articulațiilor dureroase;
+NAT: numărul articulațiilor tumefiate;
+VAS: scală analogă vizuală (mm) pentru evaluarea globală a activității bolii, de către pacient;
+VSH (la 1 h) sau proteina C reactivă cantitativ.
+
+În evaluarea semnificației DAS28 se ține cont de următoarele definiții:
+DAS28 ≤ 2,6 = remisiune:
+DAS28 > 2,6 și ≤ 3,2 = activitate scăzută a bolii (LDA);
+DAS28 > 3,2 și < 5,1 = activitate moderată a bolii (MDA);
+DAS28 ≥ 5,1 = activitate ridicată a bolii (HDA).
+
+Pentru aprecierea răspunsului la tratament se vor folosi criteriile de răspuns EULAR, utilizând DAS28 (Tabel 2):
+
+Evoluția bolii va fi strâns monitorizată, clinic și biologic (lunar sau cel puțin o dată la fiecare 3 - 6 luni), iar medicul curant va adapta și modifica schema de tratament, utilizând DAS28 ca indicator global de evoluție al afecțiunii, ținta terapeutică fiind obținerea remisiunii sau atingerea unui grad scăzut de activitate a bolii. Nu este recomandată utilizarea de parametri individuali (clinici sau biologici) pentru a aprecia evoluția bolii sub tratament, aplicarea indicilor compoziți fiind întotdeauna superioară. Dacă nu se obține nicio îmbunătățire în interval de cel mult 3 luni de la inițierea terapiei sau dacă obiectivul terapeutic nu este atins în 6 luni, terapia trebuie ajustată, ca preparate, doze ori scheme terapeutice.
+
+Medicul curant este singurul care poate evalua corect gradul de răspuns la terapie și poate încadra cazul ca având lipsă de răspuns sau răspuns parțial la tratamentul remisiv sintetic convențional, situație în care se poate indica utilizarea terapiilor biologice sau sintetice țintite (tsDMARDs).
+
+Pacienții cu poliartrită reumatoidă activă, la care boala nu poate fi satisfăcător controlată prin aplicarea corectă a tratamentului remisiv sintetic convențional, necesită utilizarea de tratament biologic sau sintetic țintit (tsDMARDs).
+
+În vederea inițierii unei terapii biologice sau sintetice țintite (tsDMARDs), medicul curant va înregistra o serie de parametri de activitate a bolii, între care următorii sunt obligatorii:
+numărul de articulații dureroase (NAD);
+numărul de articulații tumefiate (NAT);
+redoarea matinală (în minute);
+scala analogă vizuală (VAS în milimetri) pentru evaluarea globală a activității bolii de către pacient;
+VSH (la 1 oră);
+proteina C reactivă (determinată cantitativ, nu se admit evaluări calitative sau semicantitative), determinarea este obligatorie, chiar dacă nu este folosită la calculul DAS28.
+
+Datele medicale ale pacientului vor fi introduse în aplicația informatică numită Registrul Român de Boli Reumatice (RRBR).
+
+Criterii de includere a pacienților cu poliartrită reumatoidă în tratamentul cu agenții biologici infliximabum (original și biosimilar), etanerceptum (original și biosimilar), adalimumabum (original și biosimilar), golimumabum, certolizumabum, rituximabum (original și biosimilar), tocilizumabum, abataceptum și cu remisive sintetice țintite (baricitinib, tofacitinib, upadacitinib).
+
+Pentru includerea unui pacient cu poliartrită reumatoidă în terapia biologică sau în terapia cu remisive sintetice țintite (tsDMARD) este necesară îndeplinirea simultană a următoarelor 4 criterii:
+
+1. Diagnostic cert de poliartrită reumatoidă conform criteriilor ACR/EULAR (2010);
+
+2. a)  Pacienți cu poliartrită reumatoidă severă, cu activitate ridicată a bolii (DAS > 5,1), în pofida  tratamentului administrat;
+2. b) Pacienți cu poliartrită reumatoidă precoce (< 2 ani de la debut), cu activitate medie a bolii (DAS28 > 3,2) în pofida tratamentului administrat, dar cu prezența a cel puțin 5 factori de prognostic nefavorabil (conform criteriilor prezentate la pct. I). Pentru oricare categorie 2.a) și 2.b), pacienții trebuie să prezinte cel puțin:
+5 sau mai multe articulații cu sinovită activă (articulații dureroase și tumefiate);
+și 2 din următoarele 3 criterii:
+redoare matinală peste 60 de minute;
+VSH > 28 mm la o oră (respectiv peste 50 mm/h pentru pct. 2b);
+proteina C reactivă > de 3 ori (respectiv de 5 ori pentru pct. 2b) limita superioară a valorilor normale.
+
+Indicele DAS28 se calculează conform practicii uzuale (automat în cazul utilizării aplicației on-line RRBR) în varianta cu 4 variabile (NAD, NAT, VAS, VSH sau CRP). Medicul curant poate alege să calculeze DAS28 cu oricare dintre cei doi reactanți de fază acută, va ține însă cont că pentru toate evaluările ulterioare va trebui să utilizeze același parametru care a fost folosit la prima evaluare.
+
+3. Cazuri de poliartrită reumatoidă care nu au răspuns la terapia remisivă sintetică convențională, corect administrată (atât ca doze, cât și ca durate a terapiei), respectiv după utilizarea a cel puțin 2 terapii remisive sintetice convenționale, cu durata de minimum 12 săptămâni fiecare, dintre care una este de obicei reprezentată de metotrexat (cu excepția cazurilor cu contraindicație majoră la acest preparat sau a cazurilor care nu tolerează acest tratament, corespunzător documentate). Pentru categoria de pacienți cu poliartrită reumatoidă precoce (< 2 ani de la debut), cu activitate medie a bolii (DAS > 3,2) în pofida tratamentului administrat, dar cu prezența a cel puțin 5 factori de prognostic nefavorabil, este necesară utilizarea unei singure terapii remisive sintetice convenționale, cu durata de minimum 12 săptămâni, de obicei reprezentată de metotrexat (cu excepția cazurilor cu contraindicație majoră la acest preparat sau a cazurilor care nu tolerează acest tratament, corespunzător documentate).
+
+4. Absența contraindicațiilor recunoscute pentru terapiile biologice sau sintetice țintite (tsDMARDs). Definirea unui caz ca având lipsă de răspuns sau răspuns parțial la terapia remisivă sintetică convențională se face prin persistența criteriilor de activitate, după 12 săptămâni de tratament continuu, cu doza maximă uzual recomandată și tolerată din preparatul remisiv convențional respectiv. Pentru a fi relevante, evaluările (clinice și de laborator) privind activitatea bolii, precum și cele pentru excluderea contraindicațiilor de terapie biologică sau sintetică țintită (tsDMARDs) vor fi efectuate într-o perioadă relativ scurtă (ce nu va depăși de regulă 4 săptămâni).
+
+Screeningul necesar înainte de orice inițiere a terapiei biologice sau sintetice țintite (tsDMARDs)
+
+1. Tuberculoza
+Înaintea inițierii terapiei se va evalua riscul pacientului cu poliartrită reumatoidă de a dezvolta o reactivare a unei tuberculoze latente, în condițiile riscului epidemiologic mare al acestei populații.
+
+Evaluarea riscului de tuberculoză va cuprinde: anamneză, examen clinic, radiografie pulmonară și teste de tip IGRA (interferon-gamma release assays): QuantiFERON TB Gold sau testul cutanat la tuberculină (TCT). Pentru pacienții testați pozitiv la QuantiFERON sau la TCT (TCT) ≥ 5 mm se indică consult pneumologic în vederea chimioprofilaxiei (efectuată sub supravegherea medicului pneumolog; terapia biologică se poate iniția după minimum o lună de tratament profilactic, numai cu avizul expres al medicului pneumolog). Numai la pacienții care au avut teste inițiale negative, se recomandă repetarea periodică a screening-ului pentru reactivarea tuberculozei (inclusiv testul QuantiFERON sau TCT), în caz de necesitate dar nu mai rar de un an (la reevaluare se va folosi același test care a fost folosit inițial).
+
+Pentru detalii legate de definirea pacienților cu risc crescut și a conduitei de urmat, precum și a situațiilor particulare întâlnite în practică, medicul curant va utiliza recomandările în extenso din Ghidul de tratament al poliartritei reumatoide elaborat de Societatea Română de Reumatologie.
+
+2. Hepatitele virale
+Ținând cont de riscul crescut al reactivării infecțiilor cu virusuri hepatitice B și C, care pot îmbrăca forme fulminante, deseori letale, este imperios necesar ca înaintea inițierii terapiei cu un agent biologic sau sintetic țintit (tsDMARDs) să se efectueze screeningul infecțiilor cronice cu virusurile hepatitice B și C.
+
+Markerii serologici virali care trebuie obligatoriu solicitați alături de transaminaze înainte de inițierea unei terapii biologice sau sintetice țintite (tsDMARDs) sunt pentru virusul hepatitic B (VHB): antigen HBs, anticorpi anti-HBs, anticorpi anti-HBc (IgG); pentru virusul hepatitic C (VHC): anticorpi anti-VHC.
+
+Decizia de inițiere a terapiei biologice sau sintetice țintite (tsDMARDs) la cei cu markeri virali pozitivi impune avizul explicit al medicului specialist în boli infecțioase sau gastroenterologie, care va efectua o evaluare completă (hepatică și virusologică) a pacientului și va recomanda măsurile profilactice care se impun, stabilind momentul când terapia biologică sau sintetică țintită (tsDMARDs) a poliartritei reumatoide poate fi inițiată, precum și schema de monitorizare a siguranței hepatice. Se recomandă repetarea periodică a screening-ului pentru infecțiile cronice cu virusuri hepatitice B și C, în caz de necesitate, dar nu mai rar de un an.
+
+Pentru detalii legate de managementul infecției cu virusuri hepatitice la pacienții cu terapii biologice sau sintetice țintite (tsDMARDs) medicul curant va utiliza recomandările în extenso din Ghidul de tratament al poliartritei reumatoide elaborat de Societatea Română de Reumatologie și protocoalele terapeutice din hepatitele cronice aprobate de Ministerul Sănătății și Casa Națională de Asigurări de Sănătate.
+
+Scheme terapeutice în tratamentul cu agenți biologici și terapii sintetice țintite (tsDMARDs)
+
+Conform recomandărilor EULAR, medicul curant poate alege ca primă soluție terapeutică biologică sau sintetică țintită (tsDMARDs) oricare dintre următoarele (fără a se acorda preferință sau prioritate unei clase):
+inhibitori TNF (listați în ordine alfabetică: adalimumab original și biosimilar, certolizumab pegol, etanercept original sau biosimilar, golimumab, infliximab original sau biosimilar);
+abatacept;
+tocilizumab;
+în anumite circumstanțe (detaliate ulterior), rituximab (original și biosimilar);
+sau un preparat sintetic țintit (tsDMARDs) (baricitinib, tofacitinib, upadacitinib)
+
+Tratamentul biologic sau sintetic țintit (tsDMARDs) inițiat este continuat atâta vreme cât pacientul răspunde la terapie (îndeplinind criteriile de ameliorare de mai jos) și nu dezvoltă reacții adverse care să impună oprirea terapiei. Evaluarea răspunsului la tratament se face de regulă la fiecare 24 săptămâni de tratament.
+
+De regulă, orice terapie biologică (inclusiv tocilizumab) și sintetică țintită (tsDMARDs) se recomandă a fi administrată asociat cu un remisiv sintetic convențional (de regulă unul singur, cel mai frecvent utilizat fiind metotrexat, pentru care se recomandă o doză minimă de 10 mg/săptămână), care este menținut și după inițierea biologicului sau remisivului sintetic țintit (tsDMARDs). În cazul în care din motive obiective, documentate corespunzător, nu este posibilă utilizarea concomitentă a niciunui remisiv sintetic convențional, se recomandă utilizarea preferențială de tocilizumab sau de sintetic țintit (tsDMARDs). De menționat că în conformitate cu rezumatele caracteristicilor produselor aprobate, următoarele terapii biologice sau sintetice țintite (tsDMARDs) pot fi utilizate în monoterapie, în situații speciale ce trebuie documentate: adalimumab original și biosimilar, certolizumab, etanercept original sau biosimilar, tsDMARDs (baricitinib, tofacitinib, upadacitinib).
+
+Evaluarea răspunsului la tratament este apreciat prin urmărirea următorilor parametri clinici și de laborator:
+numărul de articulații dureroase (NAD);
+numărul de articulații tumefiate (NAT);
+scala analogă vizuală (VAS în milimetri) pentru evaluarea globală a activității bolii de către pacient;
+VSH (la 1 oră);
+proteina C reactivă (cantitativ), a cărui determinare este obligatorie, chiar dacă nu este folosit la calculul DAS28;
+indicele cumulativ DAS28 cu 4 variabile (NAD, NAT, VAS și nivel VSH sau CRP).
+
+Pentru a fi relevante, toate evaluările (clinice și de laborator) privind activitatea bolii, precum și cele pentru identificarea unor potențiale reacții adverse vor fi efectuate într-o perioadă relativ scurtă (ce nu va depăși de regulă 4 săptămâni). În conformitate cu recomandările EULAR și principiile strategiei terapeutice "treat to target (T2T)" obiectivul terapeutic este reprezentat de obținerea remisiunii, iar în cazurile în care aceasta nu este posibilă, de obținerea unei activități joase a bolii.
+
+Continuarea tratamentului
+În cazul pacienților în curs de tratament biologic sau sintetic țintit (tsDMARDs) (inclusiv cei provenind din cazuri pediatrice, terapii inițiate în străinătate sau alte situații justificate, corespunzător documentate), pacientul este considerat ameliorat și poate continua tratamentul cu condiția atingerii obiectivului terapeutic, respectiv atingerea remisiunii sau cel puțin activitatea joasă a bolii (definite ca o valoare DAS28 mai mică de 2,6 și respectiv 3,2). Până la atingerea țintei terapeutice se va evalua folosind criteriul de răspuns bun EULAR, respectiv o scădere a DAS28 de minimum 1,2 față de evaluarea precedentă.
+
+Medicul curant este singurul care poate evalua corect gradul de răspuns la terapie și poate recomanda continuarea sau schimbarea tratamentului administrat. Schimbarea terapiei biologice sau sintetice țintite (tsDMARDs): la pacienții având lipsă de răspuns sau răspuns moderat (vezi Tabel 2) la primul tratament biologic sau sintetic țintit (tsDMARDs) administrat sau care au dezvoltat o reacție adversă documentată care să impună oprirea respectivului tratament, medicul curant va recomanda utilizarea altei terapii biologice sau sintetice țintite (tsDMARDs), putând alege, conform recomandărilor EULAR, între oricare dintre următoarele opțiuni (alegerea făcându-se în funcție de particularitățile cazului, de evoluția și de severitatea bolii):
+un alt inhibitor TNFα biosimilar sau original, pe care pacientul nu l-a mai încercat, cu mențiunea că nu este permisă folosirea unui biosimilar după un produs original care nu a fost eficient sau a produs o reacție adversă (inversul afirmației fiind și el corect); conform recomandărilor EULAR este în mod explicit permisă utilizarea unui al doilea inhibitor de TNFα după eșecul primului; în cazul eșecului celui de-al doilea blocant TNFα din motive de eficacitate, se recomandă utilizarea unei terapii cu un alt mod de acțiune;
+abatacept;
+rituximab (original și biosimilar);
+tocilizumab;
+terapie sintetică țintită (tsDMARDs) (baricitinib, tofacitinib, upadacitinib).
+
+În cazul în care medicul curant constată lipsa de răspuns la tratamentul administrat sau apariția unei reacții adverse care să impună oprirea tratamentului, acesta poate recomanda modificarea schemei terapeutice înainte de împlinirea celor 24 de săptămâni prevăzute pentru evaluarea uzuală de eficacitate.
+
+Același protocol de modificare a schemei de tratament se repetă ori de câte ori este nevoie, respectiv pacientul nu mai răspunde la terapie sau dezvoltă o reacție adversă care să impună oprirea terapiei. În cazul pacienților care au răspuns la tratament, dar la care se înregistrează o pierdere a răspunsului, exprimată într-o creștere a DAS28 mai mare de 1,2 între 2 evaluări succesive, cu condiția trecerii într-un grad mai mare de activitate (de exemplu de la remisiune la LDA) sau de la LDA la MDA, se recomandă ajustarea schemei de tratament administrate (prin modificarea dozelor, frecvenței de administrare, preparatelor utilizate sau terapiilor asociate).
+
+A. Clasa blocanților de TNFα: adalimumab (original și biosimilar), certolizumab, etanercept (original și biosimilar), golimumab, infliximab (original și biosimilar)
+
+1. Adalimumab (original și biosimilar): se utilizează în doze de 40 mg o dată la 2 săptămâni, subcutanat.
+Pentru a asigura eficacitatea maximă se utilizează de regulă asociat cu metotrexat, în doză maxim tolerată (atunci când acesta nu este contraindicat), dar nu mai puțin de 10 mg/săptămână. În cazul în care nu se folosește asociat cu metotrexat, medicul curant poate indica, în funcție de particularitățile cazului, asocierea cu un alt preparat remisiv sintetic convențional.
+
+2. Certolizumab: se utilizează în doze de 200 mg x 2, injectabil subcutanat la 0, 2, 4 săptămâni, apoi 200 mg subcutanat la 2 săptămâni. Atunci când este obținut răspunsul clinic, poate fi luată în considerare o doză de menținere alternativă de 400 mg o dată la 4 săptămâni. Pentru a asigura eficacitatea maximă, se utilizează de regulă asociat cu metotrexat, în doză maxim tolerată (atunci când acesta nu este contraindicat), dar nu mai puțin de 10 mg/săptămână. În cazul în care nu se folosește asociat cu metotrexat, medicul curant poate indica, în funcție de particularitățile cazului, asocierea cu un alt preparat remisiv sintetic convențional.
+
+3. Etanercept (original și biosimilar): se utilizează în doze de 25 mg de 2 ori pe săptămână sau 50 mg o dată pe săptămână, subcutanat. Pentru a asigura eficacitatea maximă se utilizează asociat cu metotrexat, în doza maxim tolerată (atunci când acesta nu este contraindicat), dar nu mai puțin de 10 mg/săptămână. În cazul în care nu se folosește asociat cu metotrexat, medicul curant poate indica, în funcție de particularitățile cazului, asocierea cu un alt preparat remisiv sintetic convențional.
+
+4. Golimumab: se utilizează în doze de 50 mg o dată pe lună, injectabil subcutanat în aceeași dată a lunii.
+La pacienții cu greutate peste 100 kg care nu ating răspunsul clinic după 3 sau 4 doze golimumab 50 mg, se poate folosi doza de 100 mg injectabil subcutanat lunar în aceeași dată a lunii. Pentru a asigura eficacitatea maximă se utilizează de regulă asociat cu metotrexat, în doză maxim tolerată (atunci când acesta nu este contraindicat), dar nu mai puțin de 10 mg/săptămână. În cazul în care nu se folosește asociat cu metotrexat, medicul curant poate indica, în funcție de particularitățile cazului, asocierea cu un alt preparat remisiv sintetic convențional.
+
+5. Infliximab (original și biosimilar): în doze de 3 mg/kgc, în PEV, administrat în ziua 0 și apoi la 2 și 6 săptămâni, ulterior la fiecare 8 săptămâni. Pentru a asigura eficacitatea maximă se utilizează de regulă asociat cu metotrexat, în doză maxim tolerată (atunci când acesta nu este contraindicat), dar nu mai puțin de 10 mg/săptămână. În cazul în care nu se folosește asociat cu metotrexat, medicul curant poate indica, în funcție de particularitățile cazului, asocierea cu un alt preparat remisiv sintetic convențional. În caz de răspuns insuficient se poate crește treptat doza de infliximabum până la 7,5 mg/kgc sau se poate reduce intervalul dintre administrări până la 6 săptămâni.
+Tratamentul cu infliximabum în forma farmaceutică pentru utilizare subcutanată trebuie inițiat cu dozele de infliximab de încărcare, care pot fi administrate intravenos sau subcutanat. Când dozele de încărcare sunt administrate subcutanat, Infliximabum 120 mg trebuie administrat sub formă de injecție subcutanată, urmat de injecții subcutanate suplimentare la 1, 2, 3 și 4 săptămâni de la prima injecție, apoi la interval de 2 săptămâni. Dacă pentru inițierea tratamentului dozele de infliximab de încărcare se administrează intravenos, trebuie administrate intravenos 2 perfuzii cu infliximab 3 mg/kg la interval de 2 săptămâni. Primul tratament cu infliximab administrat subcutanat trebuie inițiat ca tratament de întreținere la 4 săptămâni de la a doua administrare intravenoasă. Doza recomandată de întreținere pentru infliximab în forma farmaceutică pentru utilizare subcutanată este de 120 mg, la interval de 2 săptămâni.
+În cazul în care tratamentul de întreținere este întrerupt și este necesară reînceperea tratamentului, nu este recomandată utilizarea unui regim de re-inducție a infliximabului intravenos. În această situație, infliximabul trebuie reinițiat ca doză unică de infliximab intravenos urmată de recomandările privind doza de întreținere pentru infliximab subcutanat descrise mai sus, la 4 săptămâni după ultima administrare de infliximab intravenos.
+Când se trece de la terapia de întreținere cu infliximab formulă intravenoasă la forma farmaceutică subcutanată a infliximab, forma farmaceutică subcutanată poate fi administrată la 8 săptămâni după ultima administrare a perfuziilor intravenoase de infliximab.
+Nu sunt disponibile informații privind trecerea pacienților de la forma farmaceutică subcutanată la forma farmaceutică intravenoasă a infliximabum.
+Dacă pacienții omit administrarea unei injecții cu formularea subcutanată a infliximab, trebuie să fie instruiți să-și administreze imediat doza omisă în cazul în care acest lucru se întâmplă în termen de 7 zile de la doza omisă, apoi să rămână la schema lor inițială. Dacă doza este întârziată cu 8 zile sau mai mult, pacienții trebuie să fie instruiți să sară peste doza omisă, să aștepte până la următoarea doză programată și apoi să rămână la schema lor inițială.
+
+B. Clasa blocanților co-stimulării limfocitelor T - abatacept: se utilizează în doză de 125 mg săptămânal sub formă de injecție subcutanată, indiferent de greutatea corporală. Pentru a asigura eficacitatea maximă se utilizează de regulă asociat cu metotrexat, în doză maxim tolerată (atunci când acesta nu este contraindicat), dar nu mai puțin de 10 mg/săptămână. În cazul în care nu se folosește asociat cu metotrexat, medicul curant poate indica, în funcție de particularitățile cazului, asocierea cu un alt preparat remisiv sintetic convențional.
+
+C. Blocanți ai receptorului pentru IL-6 - tocilizumab: se administrează în perfuzie intravenoasă (timp de o oră), la interval de 4 săptămâni în doză de 8 mg/kg (fără a se depăși doza totală de 800 mg/PEV).
+Pentru situațiile de reacții adverse care nu impun întreruperea tratamentului, doza se scade la 4 mg/kg.
+Pentru administrarea dozei adecvate se vor folosi atât flacoanele concentrat pentru soluție perfuzabilă de 200 sau 400 mg/flacon, cât și cele de 80 mg/flacon. În funcție de greutatea pacientului, reconstituirea dozei standard se realizează în felul următor:
+50 kg - 1 flacon de 400 mg
+51 - 61 kg - 1 flacon de 400 mg + 1 flacon de 80 mg
+62 - 65 kg - 1 flacon de 200 mg + 4 flacoane de 80 mg
+66 - 70 kg - 1 flacon de 400 mg + 2 flacoane de 80 mg
+71 - 75 kg - 1 flacon de 400 mg + 1 flacon de 200 mg
+76 - 80 kg - 1 flacon de 400 mg + 3 flacoane de 80 mg
+81 - 84 kg - 1 flacon de 400 mg + 1 flacon de 200 mg + 1 flacon de 80 mg
+85 - 90 kg - 1 flacon de 400 mg + 4 flacoane de 80 mg
+91 - 94 kg - 1 flacon de 400 mg + 1 flacon de 200 mg + 2 flacoane de 80 mg
+95 kg - 2 flacoane de 400 mg
+
+Pentru formularea subcutanată a tocilizumabului, doza recomandată este de 162 mg (conținutul unei seringi pre-umplute) administrată subcutanat o dată pe săptămână. Pacienții care trec de la forma farmaceutică intravenoasă la cea subcutanată trebuie să-și administreze subcutanat prima doză care înlocuiește următoarea doză programată a fi administrată intravenos, sub supravegherea medicului calificat. Pentru a asigura eficacitatea maximă se utilizează de regulă asociat cu metotrexat, în doză maxim tolerată (atunci când acesta nu este contraindicat), dar nu mai puțin de 10 mg/săptămână. În cazul în care nu se folosește asociat cu metotrexat, medicul curant poate indica, în funcție de particularitățile cazului, asocierea cu un alt preparat remisiv sintetic convențional. Tocilizumab poate fi administrat ca monoterapie în cazul intoleranței la remisivele sintetice convenționale sau unde continuarea tratamentului cu acestea nu este adecvată.
+
+D. Terapia cu anticorpi anti-CD20: rituximab (original și biosimilar)
+Tratamentul cu rituximab (original și biosimilar) este de regulă o terapie biologică de linia a doua, fiind indicat în prezența cumulativă a două criterii:
+pacienți cu PR activă (DAS28 > 3,2) și
+având lipsă de răspuns sau răspuns moderat sau intoleranță la unul sau mai mulți agenți biologici (incluzând cel puțin un blocant de TNFα), apreciat după criteriile de evaluare la tratament mai sus-descrise.
+
+În situații particulare menționate mai jos, rituximab (original și biosimilar) poate fi folosit ca terapie biologică de linia I după eșecul terapiilor remisive sintetice convenționale (situație în care se aplică criteriile de activitate a bolii de la prima soluție terapeutică biologică):
+istoric de limfom;
+tuberculoză latentă, cu contraindicație specifică pentru chimioprofilaxie;
+antecedente recente de neoplazie;
+istoric de afecțiuni demielinizante.
+
+Rituximab (original și biosimilar): se administrează de regulă asociat cu metotrexat, în doză maxim tolerată (atunci când acesta nu este contraindicat), dar nu mai puțin de 10 mg/săptămână. În cazul în care rituximab (original și biosimilar) nu poate fi asociat cu metotrexat, medicul curant va indica, în funcție de particularitățile cazului, asocierea cu un alt preparat remisiv sintetic.
+
+O serie de tratament cu rituximab (original și biosimilar) constă în două perfuzii intravenoase de 1000 mg fiecare, administrate la două săptămâni interval. Premedicația cu antipiretice (exemplu: paracetamol), antihistaminice (exemplu: difenhidramină) și 100 mg metilprednisolon (cu 30 minute înaintea administrării de rituximab original și biosimilar) este obligatorie.
+
+Evaluarea răspunsului la tratamentul cu rituximab (original și biosimilar) se face la 24 de săptămâni de la seria precedentă de tratament cu rituximab (original și biosimilar). Astfel, la 24 de săptămâni de la primul ciclu de tratament dacă pacientul este considerat ca având răspuns EULAR bun, continuă tratamentul până atinge obiectivul terapeutic, respectiv obținerea remisiunii sau cel puțin activitatea joasă a bolii (definite ca o valoare DAS28 mai mică de 2,6 și, respectiv, 3,2). Până la atingerea țintei terapeutice se va evalua folosind criteriul de răspuns bun EULAR, respectiv o scădere a DAS28 de minimum 1,2 față de evaluarea precedentă.
+
+Repetarea tratamentului se va face după cel puțin 24 săptămâni de la ciclul de tratament precedent, doar la responderi, și numai la momentul în care sunt îndeplinite una din următoarele condiții de activitate a bolii:
+există o boală activă reziduală (DAS 28 ≥ 3,2); sau
+se produce o reactivare a bolii cu creșterea DAS 28 cu ≥ 1,2, cu condiția trecerii bolii la nivelul superior de activitate (din remisiune în LDA sau din LDA în MDA).
+
+E. Terapia cu remisive sintetice țintite (tsDMARDs):
+baricitinib: doza recomandată este de 4 mg/zi per os. Doza de 2 mg/zi per os este adecvată pentru pacienții cu vârste de ≥ 75 ani și poate fi adecvată și pentru pacienții cu un istoric de infecții cronice sau recurente, la pacienții cu clearence al creatininei între 30 și 60 ml/min și la pacienții care se află în tratament cu inhibitori ai transportorilor organici anionici 3 (OAT3), cum ar fi probenecidul.
+tofacitinib: doza recomandată este de 5 mg (comprimate filmate) de 2 ori pe zi oral sau 11 mg (comprimate cu eliberare prelungita) o data pe zi, oral. Schimbul bidirecțional între tratamentul cu tofacitinib 5 mg comprimate filmate, de două ori pe zi și cel cu tofacitinib 11 mg comprimat cu eliberare prelungită, o dată pe zi se poate face în ziua imediat următoare ultimei doze din fiecare comprimat. Doza de tofacitinib  trebuie redusă la jumătate la pacienții cărora li se administrează inhibitori ai citocromilor hepatici (ketoconazol, fluconazol). Acest medicament face obiectul unei monitorizări suplimentare. Pacienții trebuie monitorizați pe parcursul tratamentului pentru semne și simptome de embolism pulmonar.
+upadacitinib: doza recomandată este de 15 mg (comprimate cu eliberare prelungită)/zi, oral. Nu este necesară ajustarea dozei la pacienții cu insuficiență hepatică ușoară sau moderată (clasă Child-Pugh A sau B). Nu este necesară ajustarea dozei la pacienții cu insuficiență renală ușoară sau moderată; trebuie utilizat cu precauție la pacienții cu insuficiență renală severă. Tratamentul trebuie întrerupt în cazul în care pacientul are o infecție gravă până la obținerea controlului asupra infecției. Upadacitinib trebuie utilizat cu prudență la pacienții cu risc înalt de TVP/EP. Asocierea cu alte medicamente imunosupresoare puternice cum sunt azatioprina, ciclosporina, tacrolimus nu este recomandată. Upadacitinib trebuie utilizat cu precauție la pacienții care urmează tratamente de lungă durată cu inhibitori puternici ai CYP3A4 (ketoconazol, itraconazol, posaconazol, voriconazol și claritromicina).
+
+Atitudinea la pacienții cu poliartrită reumatoidă aflați în remisiune persistentă
+
+Ținta terapeutică finală este reprezentată de remisiunea bolii, pentru evaluarea posibilității de reducere treptată a terapiei administrate se utilizează o definiție a remisiunii stringente care a fost validată de ACR și EULAR, care poate fi aplicată în două variante:
+
+A. Definiția bazată pe analiza booleană: în orice moment, pacientul trebuie să satisfacă toate condițiile de mai jos:
+numărul articulațiilor dureroase ≤ 1;
+numărul articulațiilor tumefiate ≤ 1;
+proteina C reactivă ≤ 1 mg/dl;
+aprecierea globală de către pacient ≤ 1 (pe o scală de la 0 la 10).
+
+ B. Definiția bazată pe indicele compozit: în orice moment, pacientul trebuie să aibă un scor al indicelui simplificat de activitate a bolii (SDAI) ≤ 3,3, definit conform formulei SDAI = NAD28 + NAT28 + evaluarea globală a pacientului pe o scală (0 - 10) + evaluarea globală a medicului pe o scală (0 - 10) + proteina C reactivă (mg/dL).
+
+În conformitate cu recomandările EULAR și ținând cont de preocuparea pentru minimalizarea expunerii la riscurile implicite ale tratamentului biologic și sintetic țintit (tsDMARDs), se recomandă ca la pacienții aflați în remisiune persistentă, definită conform criteriilor ACR/EULAR 2011 (vezi mai sus), la două evaluări succesive (la minimum 6 luni interval între evaluări), să se ia în considerare, de comun acord cu pacientul, reducerea treptată a administrării tratamentului biologic sau sintetic țintit (tsDMARDs), în condițiile menținerii neschimbate a terapiei remisive sintetice convenționale asociate. Această reducere a expunerii la terapia biologică sau sintetică țintită (tsDMARDs) se face treptat, monitorizând evoluția pacientului, cu posibilitatea revenirii în orice moment la schema inițială în cazul unui puseu evolutiv de boală, după discutarea propunerii de reducere a dozei de biologic sau sintetic țintit (tsDMARDs) cu pacientul și semnarea unui consimțământ informat.
+
+O schemă propusă de reducere a expunerii la agentul biologic sau sintetic țintit (tsDMARDs) se face după cum urmează:
+abatacept: 125 mg - se crește intervalul între administrări la 10 zile timp de 6 luni, apoi la două săptămâni, cu condiția păstrării răspunsului terapeutic.
+adalimumab (original și biosimilar): 40 mg - se crește intervalul între administrări la 3 săptămâni timp de 6 luni, apoi la o lună, cu condiția păstrării răspunsului terapeutic.
+certolizumab: se crește intervalul între administrări la 6 săptămâni timp de 6 luni, apoi la 2 luni, cu condiția păstrării răspunsului terapeutic (schema aplicabilă în cazul în care remisiunea este obținută cu 400 mg o dată la 4 săptămâni). Dacă se utilizează 200 mg la 2 săptămâni, se crește intervalul la 3 săptămâni timp de 6 luni, apoi la 4 săptămâni.
+etanercept (original și biosimilar): pentru doza de 50 mg/săpt. se crește intervalul între administrări la 10 zile timp de 6 luni, apoi la 2 săptămâni, cu condiția păstrării răspunsului terapeutic. Alternativ se poate folosi doza de 25 mg la 5 zile pentru 6 luni, apoi 25 mg/săpt., cu condiția păstrării răspunsului terapeutic.
+golimumab: 50 mg - se crește intervalul între administrări la 6 săptămâni timp de 6 luni, apoi la 2 luni, cu condiția păstrării răspunsului terapeutic.
+infliximab (original sau biosimilar): utilizat în doza care a indus remisiunea, se crește intervalul între perfuzii la 10 săptămâni timp de 6 luni, apoi la 12 săptămâni, cu condiția păstrării răspunsului terapeutic, cu grija de a nu depăși 16 săptămâni între administrări. Infliximab administrat subcutanat: se crește intervalul între administrări la 3 săptămâni timp de 6 luni, apoi la o lună, cu condiția păstrării răspunsului terapeutic.
+
+rituximab (original și biosimilar): 1.000 mg x 2, readministrare doar în cazul reluării activității bolii (creșterea DAS28 cu peste 1.2, cu trecerea într-o categorie superioară de activitate a bolii (din remisiune în LDA sau din LDA în MDA) sau existența unei boli cu activitate reziduală (DAS28 peste 3,2).
+tocilizumab: 8 mg/kg - se crește intervalul între administrări la 6 săptămâni timp de 6 luni, apoi la două luni, cu condiția păstrării răspunsului terapeutic.
+baricitinib: 4 mg/zi sau 2 mg/zi - la cei cu 4 mg/zi se reduce doza la 2 mg/zi, cu condiția păstrării răspunsului terapeutic.
+tofacitinib: 10 mg/zi sau 11mg/zi - se reduce doza la 5 mg/zi, cu condiția păstrării răspunsului terapeutic.
+upadacitinib: 15mg/zi - se reduce doza la 15 mg o data la 2 zile, cu condiția păstrării răspunsului terapeutic.
+
+Criterii de excludere a pacienților din tratamentul cu terapii biologice sau sintetice țintite (tsDMARDs) sau contraindicații pentru acestea:
+
+1. Criterii valabile pentru toate medicamentele biologice și sintetice țintite (tsDMARDs):
+1.1. pacienți cu infecții severe (actuale, netratate) precum (dar nu limitativ): stări septice, abcese, tuberculoză activă, infecții oportuniste sau orice alte infecții considerate semnificative în opinia medicului curant;
+1.2. tratamentul biologic și sintetic țintit (tsDMARDs) este contraindicat la pacienții cu infecții active cu VHB și utilizat cu prudență la cei cu infecție cronică VHC, cu monitorizare atentă. În ambele situații de infecție virală B sau C decizia de inițiere și continuare a terapiei impune avizul medicului infecționist sau gastroenterolog;
+1.3. antecedente de hipersensibilitate la abatacept, adalimumab (original și biosimilar), baricitinib, certolizumab, etanercept (original sau biosimilar), golimumab, infliximab (original sau biosimilar), rituximab (original și biosimilar), tocilizumab, tofacitinib, upadacitinib, la proteine murine sau la oricare dintre excipienții produsului folosit;
+1.4. sarcina/alăptarea: la pacienții de vârstă fertilă eventualitatea unei sarcini va fi atent discutată anterior concepției împreună cu medicul curant și medicul de obstetrică-ginecologie; pentru pacienții care doresc să procreeze, medicul curant va ține cont de informațiile din rezumatul caracteristicilor produsului pentru certolizumab pegol;
+1.5. pacienți cu stări de imunodeficiență severă;
+1.6. administrarea concomitentă a vaccinurilor cu germeni vii;
+1.7. afecțiuni maligne prezente sau afecțiuni maligne în antecedente, fără avizul oncologic;
+1.8. orice contraindicații recunoscute ale terapiilor biologice și sintetice țintite (tsDMARDs), conform rezumatului caracteristicilor fiecărui produs;
+1.9. lipsa/retragerea consimțământului pacientului față de tratament;
+1.10. pierderea calității de asigurat;
+1.11. în cazul non-aderenței majore la tratament, medicul curant va evalua cauzele acesteia și oportunitatea continuării terapiei biologice sau sintetice țintite (tsDMARDs), având în vedere îndeplinirea tuturor criteriilor de continuare/modificare a terapiei.
+
+2. Criterii particulare:
+2.1. pentru infliximab original sau biosimilar: readministrarea după un interval liber de peste 16 săptămâni;
+2.2. pentru agenții anti-TNFα (cu excepția etanercept la care se va consulta rezumatul caracteristicilor produsului) și rituximab (original și biosimilar): pacienți cu insuficiență cardiacă congestivă severă (NYHA clasa III/IV);
+2.3. pentru agenții anti-TNFα (cu excepția etanercept la care se va consulta rezumatul caracteristicilor produsului): pacienți cu lupus sau sindroame lupus-like;
+2.4. pentru baricitinib: pacienți cu număr absolut de limfocite < 0,5 x 109 celule/L, număr absolut de neutrofile < 1 x 109 celule/L, valoare a hemoglobinei < 8 g/dL, pacienți cu clearance al creatininei < 30 ml/minut și pacienții cu insuficiență hepatică severă.
+2.5. pentru tofacitinib: pacienți cu număr absolut de limfocite < 750 celule/mm3, număr absolut de neutrofile < 1000 celule/mm3, scăderea hemoglobinei cu mai mult de 2 g/dL sau hemoglobină < 8 g/dL (confirmată prin testare repetată), insuficiență hepatică severă (clasa Child Pugh C).
+2.6. pentru upadacitinib: tratamentul nu trebuie inițiat sau trebuie oprit temporar în cazul pacienților cu valori ale numarului absolut de neutrofile < 1 x 109 celule/L, numarului absolut de limfocite < 0,5 x 109 celule/L sau valori ale hemoglobinei < 8 g/dL, insuficiență hepatică severă (clasă Child-Pugh C).
+
+3. Precauții și atenționări pentru pacienții tratați cu inhibitori de JAK (JAKi):
+A fost observată o incidență crescută de afecțiuni maligne, evenimente adverse cardiovasculare majore (MACE), infecții grave, trombembolism venos (TEV) și mortalitate, la pacienții cu poliartrită reumatoidă (PR) cu anumiți factori de risc, care au fost tratați cu JAKi, comparativ cu pacienții tratați cu inhibitori de TNF-α. Aceste riscuri sunt considerate efecte de clasă și sunt relevane în cadrul tuturor indicațiilor aprobate ale JAKi, în afecțiunile inflamatoare și dermatologice. JAKi trebuie administrați numai dacă nu sunt disponibile alternative de tratament adecvate, la pacienții:
+- cu vârstă de 65 de ani și peste;
+- fumători actuali sau care au fumat o perioadă îndelungată în trecut;
+- cu alți factori de risc cardiovascular sau cu factori de risc pentru apariția afecțiunilor maligne.
+JAKi trebuie administrați cu precauție la pacienții cu factori de risc pentru TEV, alții decât cei enumerați mai sus. Recomandările privind dozele sunt reviziute pentru anumite grupe de pacienți cu factori de risc. Se recomandă examinarea perioadică a pielii pentru toți pacienții. Medicii prescriptori trebuie să discute cu pacienții despre riscurile asociate cu administrarea JAKi.
+
+III. Prescriptori
+Medicul de specialitate care are dreptul de a prescrie tratament specific în conformitate cu Hotărârea Guvernului nr. 720/2008 pentru aprobarea Listei cuprinzând denumirile comune internaționale corespunzătoare medicamentelor de care beneficiază asigurații, cu sau fără contribuție personală, pe bază de prescripție medicală, în sistemul de asigurări sociale de sănătate, precum și denumirile comune internaționale corespunzătoare medicamentelor care se acordă în cadrul programelor naționale de sănătate, cu modificările și completările ulterioare, va completa o foaie de observație/fișă medicală care va conține evaluările clinice și de laborator sau imagistice necesare, datele fiind introduse în aplicația informatică Registrul Român de Boli Reumatice. Se recomandă înregistrarea următoarelor date, atât la inițierea terapiei, cât și pe parcursul evoluției bolii sub tratament:
+informații demografice și generale despre pacient;
+diagnosticul cert de PR, confirmat conform criteriilor ACR/EULAR (2010);
+istoricul bolii (debut, evoluție, scheme terapeutice anterioare - preparate, doze, data inițierii și data opririi tratamentului, evoluție sub tratament), prezența manifestărilor sistemice sau nonarticulare;
+antecedente semnificative și comorbidități;
+starea clinică actuală (NAD, NAT, redoare matinală, VAS, deficite funcționale)
+nivelul reactanților de fază acută (VSH, CRP cantitativ),
+rezultatele screening-ului pentru TB (inclusiv rezultat test Quantiferon), avizul medicului pneumolog în cazul unui rezultat pozitiv;
+rezultatele testelor pentru hepatitele virale B și C, avizul medicului gastroenterolog sau infecționist în cazul unui rezultat pozitiv;
+alte teste de laborator relevante,
+evaluarea gradului de leziuni osteo-articulare (imagistic: radiologic/echografic), opțional, acolo unde este aplicabil;
+justificarea recomandării tratamentului cu agenți biologici sau sintetici țintiți (tsDMARDs) (verificarea îndeplinirii criteriilor de protocol);
+preparatul biologic sau sintetic țintit (tsDMARDs) recomandat: denumirea comună internațională și denumirea comercială, precizând doza și schema terapeutică;
+nivelul indicilor compoziți: DAS28 și după caz îndeplinirea criteriilor de remisiune/remisiune stringentă;
+apariția și evoluția în caz de reacții adverse post-terapeutice, complicații, comorbidități.
+
+Scala analogă vizuală (VAS) pentru evaluarea globală a activității bolii de către pacient este completată direct de pacient pe fișă, acesta semnând și datând personal.
+
+Pentru inițierea terapiei biologice sau sintetice țintite (tsDMARDs) se recomandă obținerea unei a doua opinii de la un medic primar în specialitatea reumatologie dintr-un centru universitar (București, Iași, Cluj, Târgu Mureș, Constanța, Craiova, Timișoara) privind diagnosticul, gradul de activitate a bolii și necesitatea instituirii tratamentului biologic sau sintetic țintit (tsDMARDs).
+
+Medicul curant are obligația să discute cu pacientul starea evolutivă a bolii, prognosticul și riscurile de complicații, justificând indicația de tratament biologic sau sintetic țintit (tsDMARDs). Vor fi detaliate atât beneficiile previzibile, cât și limitele și riscurile potențiale ale acestor terapii, vor fi discutate diversele variante de tratament disponibil (preparate și scheme terapeutice), precum și monitorizarea necesară, astfel încât pacientul să fie complet informat asupra tuturor aspectelor legate de tratamentul biologic sau sintetic țintit (tsDMARDs) recomandat.
+
+Medicul curant va solicita pacientului să semneze o declarație de consimțământ informat privind tratamentul recomandat, care va include în clar denumirea comună internațională și numele comercial al preparatului recomandat și va fi semnată și datată personal de către pacient. Consimțământul este obligatoriu la inițierea tratamentului biologic sau sintetic țintit (tsDMARDs) precum și pe parcursul acestuia, dacă: se schimbă schema terapeutică (denumirea comună internațională sau preparat comercial, doza sau frecvența de administrare) sau pacientul trece în grija altui medic curant. Medicul curant are obligația de a păstra originalul consimțământului informat.”
+
+La anexa nr. 2, protocolul terapeutic corespunzător poziției nr. 26 cod (A10BK01-03): INSUFICIENȚĂ CARDIACĂ CRONICĂ CU FRACȚIE DE EJECȚIE REDUSĂ se modifică și se înlocuiește cu următorul protocol:
+
+”Protocol terapeutic corespunzător poziției nr. 29 cod (A10BK01-03): INSUFICIENȚĂ CARDIACĂ CRONICĂ CU FRACȚIE DE EJECȚIE REDUSĂ
+
+I. Indicația terapeutică:
+Tratamentul pacienților adulti, simptomatici, cu insuficiență cardiacă cronică cu fracție de ejecție redusă.
+
+II. Criterii pentru includerea unui pacient în tratament
+
+1. Criterii de includere (cumulativ):
+pacienți cu insuficiență cardiacă simptomatică (clasele II-IV NYHA), după stabilizarea hemodinamică;
+pacienți cu fracție de ejecție redusă (fracția de ejecție a ventriculului stâng ≤ 40%, documentată prin ecocardiografie sau RMN cardiac).
+
+Se poate recomanda dapagliflozinum / empagliflozinum DOAR în asociere cu una sau mai multe din următoarele clase terapeutice: un inhibitor al enzimei de conversie a angiotensinei (IECA) sau un inhibitor al receptorilor angiotensinei (ARB) sau un inhibitor al receptorilor angiotensinei combinat cu un inhibitor al neprilizinei (ARNI), un beta-blocant, un antagonist al receptorilor mineralocorticoizi (MRA).
+
+2. Criterii de excludere:
+pacienții cu RFG < 25 ml/minut (pentru dapagliflozinum)
+pacienții cu RFG < 20 ml/minut (pentru empagliflozinum)
+Diabet zaharat tip I
+vârsta sub 18 ani
+afecțiuni ereditare rare de intoleranță la galactoză, deficit total de lactază sau sindrom de malabsorbție la glucoză-galactoză
+TEMPORAR, la pacienții care dezvoltă depleție volemică se recomandă întreruperea  tratamentului cu dapagliflozinum / empagliflozinum.
+
+III. Doze, mod de administrare, perioada de tratament, ajustare doze:
+Doza recomandată de dapagliflozinum / empagliflozinum este de 10 mg, administrată o dată pe zi pe cale orală, în orice moment al zilei, cu sau fără alimente. Tratamentul este cronic.
+
+IV. Contraindicații importante:
+Dapagliflozinum / empagliflozinum este contraindicat:
+La pacienții cu hipersensibilitate la substanța activă sau la oricare dintre excipienți;
+Sarcină sau alăptare;
+În caz de intervenție chirurgicală majoră.
+
+V. Atenționări și precauții speciale pentru utilizare:
+Nu se recomandă utilizarea dapagliflozinum / empagliflozinum la pacienții cu insuficiență cardiacă și diabet zaharat de tip 1.
+Insuficiență renală: utilizarea dapagliflozinum / empagliflozinum nu necesită ajustarea dozei în funcție de rata de filtrare glomerulară (RFG). Dapagliflozinum poate fi inițiat la pacienții cu RFG ≥ 25 ml/min/1,73 m2. Datorită experienței limitate, inițierea dapagliflozinum nu este recomandată la pacienții cu RFG < 25 ml/min/1,73 m2 sau în dializă. Empagliflozinum poate fi inițiat la pacienții cu RFG ≥ 20 ml/min/1,73 m2. Datorită experienței limitate, inițierea empagliflozinum nu este recomandată la pacienții cu RFG < 20 ml/min/1,73 m2 sau in dializa.
+Insuficiență hepatică: nu este necesară ajustarea dozei la pacienții cu insuficiență hepatică ușoară sau moderată. La pacienții cu insuficiență hepatică severă se recomandă administrarea unei doze inițiale de 5 mg pe zi. Dacă aceasta este bine tolerată, doza poate fi crescută la 10 mg pe zi.
+Vârstnici (≥ 65 ani): nu este necesară ajustarea dozei în funcție de vârstă.
+Dapagliflozinum / empagliflozinum se utilizează cu prudență la pacienții cu insuficiență cardiacă și diabet zaharat de tip 2, având în vedere riscul crescut de cetoacidoză diabetică; dacă există suspiciune de cetoacidoza diabetica, tratamentul cu dapagliflozinum / empagliflozinum se întrerupe imediat.
+Dapagliflozinum / empagliflozinum se utilizează cu prudență la pacienții cu risc de depleție volemică și/sau hipotensiune arterială. În cazul unor afecțiuni intercurente care pot duce la depleție volemică, se recomandă monitorizarea atentă a volemiei (de exemplu prin examen clinic, măsurarea tensiunii arteriale, teste de laborator, inclusiv hematocrit și electroliți).
+
+VI. Monitorizarea tratamentului/criterii de evaluare a eficacității terapeutice:
+Monitorizarea se realizează în funcție de fiecare caz în parte, pe baza unor parametri clinici și paraclinici:
+Siguranța tratamentului:
+Clinic: toleranță individuală, semne / simptome de reacție alergică;
+Paraclinic: parametri de echilibru metabolic și ai funcției renale, la inițierea tratamentului și periodic. Dacă apare hipotensiune arterială severă (TA sistolică < 100 mmHg) se recomandă oprirea temporară a administrării de dapagliflozinum / empagliflozinum. Se recomandă evaluarea funcției renale după cum urmează: înainte de începerea tratamentului cu dapagliflozinum / empagliflozinum și periodic în timpul tratamentului (cel puțin anual), precum și înainte de începerea tratamentului concomitent cu orice medicament care poate avea impact negativ asupra funcției renale.
+b. Eficiența tratamentului:
+Clinic: ameliorarea simptomatologiei și a congestiei;
+Paraclinic: BNP/NT-proBNP. Pentru pacienții inițiați conform prezentului protocol și la care se constată o ameliorare a fracției de ejecție în timp, se continuă terapia cu dapagliflozinum / empagliflozinum în asociere cu clasele terapeutice recomandate.
+
+VII. Prescriptori:
+Prescrierea se face de către medicii specialiști de cardiologie și medicină interna. Continuarea tratamentului poate fi facută și de către medicii de familie, pe durata prevăzută în scrisoarea medicală.
+
+La anexa nr. 2, după protocolul terapeutic corespunzător poziției cu nr. 26 se introduce protocolul terapeutic corespunzător poziției nr. 27 cod (D11AH-L04AA): DERMATITA ATOPICĂ - AGENȚI BIOLOGICI: DUPILUMABUM**1Ω ȘI INHIBITORI DE JAK: BARICITINIBUM**1Ω cu următorul cuprins:
+
+”Protocol terapeutic corespunzător poziției nr. 27 cod (D11AH-L04AA): DERMATITA ATOPICĂ - AGENȚI BIOLOGICI: DUPILUMABUM**1Ω ȘI INHIBITORI DE JAK: BARICITINIBUM**1Ω
+
+Protocol terapeutic pentru tratamentul dermatitei atopice cu terapii biologice sau inhibitori de JAK (D11AH-L04AA)
+
+1. Dermatita atopica  (D.A.) este o afectiune inflamatorie cronica,care afecteaza in mod caracteristic prima copilarie dar poate debuta la toate grupele de varsta. Aproximativ 60% din cazuri apar in primul an de viata,si pana la 85% debuteaza pana la 5 ani. Se apreciaza prevalenta ca fiind intre 10-25% la copii si 2-4% pana la 10% la adulti.
+
+D.A. este o afectiune multifactoriala din care mentionam mecanisme genetice (predispozitia ereditara),factori imunologici,afectarea functiei de bariera tegumentara etc. In prezent se discuta despre probabilitatea de a exista endotipuri ale acestei afectiuni.
+
+Din cauza polimorfismului lezional diagnosticul diferențial este esențial pentru această afecțiune care pretează deseori la confuzii de diagnostic, uneori cu afecțiuni extrem de severe cum ar fi spre exemplu limfoamele cutanate (afecțiuni care reprezintă contraindicații relative sau absolute pentru aceste terapii).
+
+2. Scoruri si Clasificare
+Clasificarea dermatitei atopice are în vede indicatori clinici: suprafața tegumentului afectat, regiunea topografică afectată și caracteristica afectării cutanate precum si simptome subiective  sintetizate în scorul  SCORAD (SCoring Atopic Dermatita). Valora maxima a acestui scor este de 103.
+
+Dermatita atopica:
+forma usoara SCORAD < 25
+forma moderata SCORAD 25-50
+forma severa SCORAD > 50
+
+Pentru evaluarea pacienților se folosesc și elemente referitoare la calitatea vieții pacientului (scorul DLQI - Anexa 1) și se apreciază răspunsul terapeutic.  Se considera afectiune severa la un scor mai mare de 10.
+
+3. Diagnosticul pacientului cu D.A.
+diagnosticul pacientului suferind de D.A. se realizează pe baza  anamnezei, a diagnosticului diferențial (extrem de important mai ales pentru limfoame cutanate sau alte malignități), antecedentelor heredocolaterale si personale si a  examenului clinic cu obiectivare prin scorul  SCORAD
+calitatea vietii pacientului suferind de D.A. se evalueaza pe baza scorului DLQI
+pentru diagnosticul de certitudine se utilizează criteriile Hanifin & Rajka (vezi anexa 6).
+pentru inițierea și monitorizarea terapeutică în cazul folosirii agenților biologici sau inhibitori de Janus Kinaze (JAK) sunt necesare investigații pentru eventuale reacții adverse sau complicații conform Fișei de evaluare și monitorizare a pacientului cu D.A. forma moderat-severa aflat în tratament cu agent biologic sau inhibitori de JAK (Anexa 3): hemoleucogramă, VSH, creatinină, uree, electroliti (Na+, K+), ASAT, ALAT, GGT, IgE, LDH (opțional), examen sumar urină, test cutanat tuberculinic/IGRA (opțional în cazul Dupilumab), radiografie pulmonară. La inițierea terapiei biologice/inhibitori de JAK pacientul va prezenta adeverință de la medicul de familie cu bolile cronice pentru îngrijire carora este în evidența. În cazul afecțiunilor care reprezinta contraindicații relative este obligatoriu consultul de specialitate.
+
+Supravegherea terapeutică este obligatorie pentru toti pacientii cu D.A. în tratament cu agent biologic  sau inhibitori de JAK . În functie de particularitatile medicale ale pacientului, medicului curant va solicita și alte evaluări paraclinice și interdisciplinare.
+
+4. Tratamentul pacientului cu D.A.
+D.A. este o afecțiune cu evoluție cronică,  cu numeroase episoade de acutizare. Tratamentele utilizate pana in prezent in D.A. isi propun sa obtina  remisiunea  sau diminuarea  leziunilor  si sa reduca simptomatologia subiectiva  până la pragul de tolerabilitate al pacientului. Tratamentul pacientului este realizat pe o perioadă lungă de timp. Apariția puseelor  de acutizare  nu este previzibilă și nu poate fi prevenită prin administrare unei terapii topice. Din aceste considerente si nu numai, medicația în  D.A. trebuie sa fie eficientă și sigură în administrare pe termen lung.
+
+Terapia topică constituie o optiune de tratament frecvent utilizata atat ca monoterapie in formele usoare cat si ca terapie adjuvanta in formele moderat-severe. Eficiența acestor medicamente a fost dovedită de numeroase studii, indiferent daca vorbim despre dermatocorticoizi, inhibitori topici de calcineurina sau creme emoliente.
+
+Tratamentul D.A. cu raze ultraviolete  poate da rezultate satisfacatoare. Se poate utiliza atat PUVA  (UVA plus  8-metoxi psoralen) cat si UVB cu banda ingusta. Aceste terapii se pot efectua atat in spital cat si in ambulatoriu.
+
+Terapia clasică sistemică se realizează de exemplu cu ciclosporină sau corticoterapie sistemica ( în special în pusee), în funcție de particularitatea cazului. Pentru remisiune leziunilor de  D.A. se pot efectua și tratamente combinate.
+
+Terapia sistemica actuala cu utilizarea de agenti biologici sau inhibitori de JAK induce remisiuni de lunga durata si permite o calitate a vietii normala  a pacientilor cu forme moderat sau severe de  D.A.
+
+5. Terapiile biologice disponibile în România
+
+Dupilumab– este un anticorp monoclonal uman de tip IgG4  produs in celulele ovariene de hamster chinezesc (CHO), cu ajutatorul tehnologiei ADN recombinant. Realizeaza o actiune duala, inhibitoare asupra semnalizarii celulare a IL-4/IL-13 (receptorul alfa al interleukinei 4).
+
+Adulți-peste 18 ani
+Dupilumab este indicat pentru tratamentul dermatiei atopice forma moderată la severă la pacienții adulți care sunt candidati pentru terapie sistemică.
+
+Doza de dupilumab pentru pacienții adulți este de 600 mg (două injecții de 300 mg) ca doza inițială, urmată de administrare injectabilă subcutanată a unei doze de 300 mg, la interval de 2 săptămâni. Dupilumab se administraza injectabil subcutanat la nivelul coapsei sau abdomenului, cu excepția unei zone circulare cu o sferă de 5 cm situată periombilical. Daca injecția este administrativă de o alta persoană, poate fi și i regiunea superioara a brațului.
+
+Trebuie avuta în vedere întreruperea tratamentului la pacienții care nu au prezentat răspuns dupa 16 săptămâni de tratament pentru dermatită atopică.
+
+Unii pacienți cu raspuns parțial pot prezenta ulterior o îmbunățire, ca urmare a continuării tratamentului după 16 săptămâni.
+
+Daca intreruperea tratamentului cu dupilumab devine necesara, este totusi posibil ca pacienții sa fie re-tratați cu succes.
+
+Adolescenți cu vârsta cuprinsa între 12-17 ani
+Dupilumab este indicat pentru tratamentul dermatiei atopice forma moderată la severă la pacienții cu vârstă cuprinsă între 12-17 ani care sunt candidati pentru terapie sistemică.
+
+Doza recomandată de dupilumab pentru pacienți adolescenți cu vârsta cuprinsă între 12 ani și 17 ani este variabilă în funcție de greutatea corporală. Astfel pentru cei cu greutate sub 60 kg doza inițială este de 400 mg (două injecții de 200 mg) urmată la intervale de câta două săptămâni de câte o doză de 200 mg. Pentru cei cu greutate de 60 kg sau mai mare doza inițială este de 600 mg (două injecții de 300 mg) urmată de administrarea de 300 mg din două în două săptămâni (vezi tabel 1).
+
+Tabelul 1: Doza de dupilumab pentru administrare subcutanată la pacienți adolescenți cu vârsta cuprinsă între 12 ani și 17 ani
+
+Trebuie avuta în vedere întreruperea tratamentului la pacienții care nu au prezentat răspuns dupa 16 săptămâni de tratament pentru dermatită atopică.
+
+Unii pacienți cu raspuns parțial pot prezenta ulterior o îmbunățire, ca urmare a continuării tratamentului după 16 săptămâni.
+
+Daca intreruperea tratamentului cu dupilumab devine necesara, este totusi posibil ca pacienții sa fie re-tratați cu succes.
+
+Copii cu vârsta între 6-11 ani
+Dupilumab este indicat pentru tratamentul dermatiei atopice forma severă la pacienții cu vârstă cuprinsă între 6-11 ani care sunt candidati pentru terapie sistemică.
+
+Doza recomandată de dupilumab pentru pacienți copii cu vârsta cuprinsă între 6 ani și 11 ani este variabilă în funcție de greutatea corporală. Astfel pentru cei cu greutate între15 kg până la mai puțin de 60 kg doza inițială este de 300 mg (o injecți3 de 300 mg) în ziua 1 urmată de o doză de 300 mg în ziua 15 și apoi urmată de o doză de 300 mg la interval de 4 săptămâni (Q4W)*, începând după 4 săptămâni de la doza din Ziua 15. * La pacienții cu greutatea corporală de 15 kg până la mai puțin de 60 kg, dozele ulterioare (de întreținere) pot fi crescute la 200 mg, cu administrare la interval de 2 săptămâni, pe baza evaluării medicului. Pentru cei cu greutate de 60 kg și mai mare doza inițială este de 600 mg (două injecții de 300 mg) urmată de administrarea de 300 mg din două în două săptămâni (Q2W)-vezi tabel 2.
+
+Tabelul 2: Doza de dupilumab pentru administrare subcutanată la pacienții copii cu vârsta cuprinsă între 6 ani și 11 ani
+* La pacienții cu greutatea corporală de 15 kg până la mai puțin de 60 kg, doza poate fi crescută la 200 mg, cu administrare la interval de 2 săptămâni, pe baza evaluării medicului curant
+Trebuie avuta în vedere întreruperea tratamentului la pacienții care nu au prezentat răspuns dupa 16 săptămâni de tratament pentru dermatită atopică.
+
+Unii pacienți cu raspuns parțial pot prezenta ulterior o îmbunățire, ca urmare a continuării tratamentului după 16 săptămâni.
+
+Daca intreruperea tratamentului cu dupilumab devine necesara, este totusi posibil ca pacienții sa fie re-tratați cu succes.
+
+6. Terapii cu inhibitori de JAK disponibile in Romania
+
+Baricitinib - este inhibitor pentru subtipurile JAK1 și JAK2. Este o terapie cu administrare orală care acționează la nivel intracelular.
+
+Indicație terapeutică :adulți cu vârsta peste 18 ani care prezintă forme moderate sau severe de dermatită atopică și care sunt candidati pentru terapie sistemică.
+
+Doza recomandată este de 4mg/zi administrată pe cale orală cu multă apă. Dacă pacienții omit să își administreze o doză, se recomandă să ia  doza respectivă cât mai curând. Nu se recomandă o doză dublă pentru a compensa doza uitată.
+
+Pentru pacienții aflați în zona de risc pentru utilizarea inhibitorilor de JAK (în special cei cu afecțiuni CV, tromboze venose sau risc de embolie, cancere, infecții severe, marii fumători) sau cei cu vârsta peste 65 de ani și la care nu există alternativă terapeutică eficientă se recomandă inițierea terapiei cu doza de 2mg/zi. În cazul în care nu este suficientă această doză se poate recomanda doza de 4mg/zi. Pentru această categorie de pacienți este necesar consult de specialitate în aria de risc în care se află.
+
+Criterii de includere in tratamentul cu agenti biologici/inhibitori de JAK pentru pacienții adulți  (peste 18 ani)
+
+Criterii de eligibilitate ale pacienților pentru agenți biologici/inhibitori de JAK:
+pacientul suferă de dermatita atopica ( forma moderat-severa  (SCORAD  >  25) de peste 6 luni
+      și
+DLQI >  10
+      și
+pacientul sa fie un candidat eligibil pentru terapie biologică
+      și
+eșecul, intoleranța sau contraindicația terapiei clasice sistemice dupa cum urmează: îndeplinirea a cel putin unul din următoarele criterii:
+a devenit ne-responsiv la terapiile clasice sistemice (răspuns clinic nesatisfăcător)  dupa cel putin 2 luni de la inițierea tratamentului  și
+îmbunătațire a scorului DLQI cu mai putin de 5 puncte de scorul de la inițierea tratamentului, dupa cel putin  2 luni de tratament (efectiv în ultimele 12 luni) din care mentionam:
+corticoterapie sistemica
+ciclosporină 2 - 5 mg/kgc zilnic
+fototerapie UVB cu banda ingusta sau PUVA terapie(minim 4 sedinte/saptamana)
+               sau
+a devenit intolerant sau are contraindicatii sau nu se pot administra terapiile clasice sistemice
+               sau
+pacientul este la risc sa dezvolte toxicitate la terapiile clasice sistemice folosite (de exemplu depășirea dozei maxime recomandate), iar alte terapii alternative nu pot fi folosite
+               sau
+sunt cu o boală cu recadere rapidă
+
+Nota:
+pentru următoarele categorii de pacienți:
+cu afecțiuni CV,
+cu tromboze venose sau risc de embolie,
+cu afecțiuni onco-hematologice
+cu infecții severe,
+marii fumători
+cu vârsta peste 65 de ani
+terapia cu inhibitorii de JAK se inițiază doar dacă nu există alternativă terapeutică eficientă și beneficiul terapeutic depășește riscurile.
+
+Criterii de includere in tratamentul cu agenti biologici pentru pacienții copii și adolescenți cu vârste cuprinse între 6-17 ani
+
+Criterii de eligibilitate ale pacienților pentru agenți biologici:
+pacientul suferă de dermatita atopica ( forma moderat-severa  (SCORAD  >  25) de peste 6 luni
+      și
+cDLQI >  10
+      și
+pacientul sa fie un candidat eligibil pentru terapie biologică
+      și
+eșecul, intoleranța sau contraindicația terapiei clasice sistemice dupa cum urmează: îndeplinirea a cel putin unul din următoarele criterii:
+a devenit ne-responsiv la terapiile clasice sistemice (răspuns clinic nesatisfăcător)  dupa cel putin 2 luni de la inițierea tratamentului  și
+îmbunătațire a scorului cDLQI cu mai putin de 5 puncte de scorul de la inițierea tratamentului, dupa cel putin  2 luni de tratament (efectiv în ultimele 12 luni) din care mentionam:
+corticoterapie sistemica
+fototerapie UVB cu banda ingusta sau PUVA terapie(minim 4 sedinte/saptamana)
+               sau
+a devenit intolerant sau are contraindicatii sau nu se pot administra terapiile clasice sistemice
+               sau
+pacientul este la risc sa dezvolte toxicitate la terapiile clasice sistemice folosite (de exemplu depășirea dozei maxime recomandate), iar alte terapii alternative nu pot fi folosite
+               sau
+sunt cu o boală cu recadere rapidă
+
+7. Consimțământul pacientului
+Pacientul trebuie sa fie informat în detaliu despre riscurile și beneficiile terapii biologice. Informatii scrise vor fi furnizate iar pacientul trebuie sa aibă la dispoziție timpul necesar pentru a lua o decizie.
+Pacientul va semna declaratia de consimtamânt la initierea terapiei biologice. (a se vedea Anexa 2). În cazul unui pacient cu vârsta între 6 - 17 ani, declarația de consimțământ va fi semnată, conform legislației în vigoare, de către părinți sau tutori legali (a se vedea Anexa 3).
+
+8. Criterii de excludere a pacienților din tratamentul cu agenți biologici/inhibitorii de JAK:
+Pentru tratamentul cu dupilumabum:
+ copii cu vârsta sub 6 ani, având dermatită atopică
+
+Pentru tratamentul cu baricitinibum:
+vârsta sub 18 ani
+pacienți cu cu un număr absolut de limfocite (ALC) mai mic de 0,5 x 109 celule/l, număr absolut de neutrofile (ANC) mai mic de 1 x 109 celule/l, sau care au o valoare a hemoglobinei mai ica de 8 g/dl
+pacienți cu cu clearance-ul creatininei < 30 ml/minut
+
+Toți pacienții trebuie sa aibă o anamneză completă, examen fizic și investigațiile cerute de inițierea terapiei biologice.
+
+Contraindicatii absolute  (se vor exclude)  :
+Pacienți cu infecții severe active precum: stare septică, abcese, tuberculoza activă, infecții oportuniste;
+Antecedente de hipersensibilite la medicament, la proteine murine sau la oricare dintre excipienții produsului folosit;
+3.Administrarea concomitentă a vaccinurilor cu germeni vii; (exceptie pentru situații de urgență unde se solicită avizul explicit al medicului infecționist)
+Orice alte contraindicații absolute recunoscute agenților biologici sau inhibitorilor de JAK .
+
+Contraindicatii relative:
+Sarcina si alaptare
+Infectii parazitare (Helminth)
+Simptome acute de astm,stare de rau astmatic,acutizari,bronhospasm acut etc
+Afectiuni insotite de eozinofilie
+Infecție HIV sau SIDA
+Afecțiuni maligne sau premaligne
+PUVA-terapie peste 200 ședințe, în special când sunt urmate de terapie cu ciclosporina
+Conjunctivita si cheratita
+Tromboză venoasă profundă sau embolism pulmonar
+Hepatită virală cu virus B sau C
+Afecțiuni cardiovasculare (infarct miocardic, accident vascular cerebral, fibrilație atrială)
+Orice alte contraindicatii relative recunoscute agenților biologici sau inhibitorilor de JAK
+
+EVALUAREA TRATAMENTULUI
+Evaluarea tratamentului este realizata pentru siguranța pacientului și pentru demonstrarea eficacitații terapeutice.
+
+Se realizează la intervale fixe în cadrul unor controale medicale cu evaluarea statusului clinic și biologic al pacientului. Sunt esentiale pentru detectarea cat mai rapida a aparitiei unor evenimente medicale care necesita interventia medicului.
+
+Eficacitatea clinica se defineste prin obtinerea unui raspuns la tratament fata de momentul inițial, obiectivat prin scorurile specifice.
+
+Ținta terapeutică se definește prin:
+scăderea cu 50%  a scorului  SCORAD  față de momentul inițierii
+      și
+scăderea cu minim  5 puncte a scorului DLQI/cDLQI față de momentul inițierii
+
+Întreruperea tratamentului cu un agent biologic/inhibitor de JAK se face atunci când la evaluarea atingerii țintei terapeutice nu s-a obținut ținta terapeutice. Întreruperea tratamentului este de asemenea indicată în cazul apariției unei reacții adverse severe. În situațiile în care se impune întreruperea tempora a terapiei (deși pacientul se afla în ținta terapeutică  - de ex. sarcina,interventie chirurgicală etc),tratamentul poate fi reluat după avizul medicului care a solicitat întreruperea temporară a terapiei biologice/cu inhibitori de JAK.
+
+Daca se intrerupe voluntar tratamentul biologic sau cu inhibitori de JAK pentru o perioada de minim 12 luni, este necesară reluarea terapiei convenționale sistemice si doar in cazul unui pacient nonresponder (conform definitiei anterioare) sau care prezinta reactii adverse importante si este eligibil conform protocolului se poate reinitia terapia biologică sau cu inhibitori de JAK. Daca intreruperea tratamentului este de data mai mica si pacientul este responder conform definitiei de mai sus, se poate continua terapia biologica sau cu inhibitori de JAK.
+Calendarul evaluatorului:
+evaluare pre-tratament
+evaluarea sigurației terapeutice și a eficacității clinice la 3 luni
+prima evaluare pentru atingerea tintei terapeutice se face la 6 luni de tratament continuu de la initierea terapiei biologice.
+monitorizarea menținerii tintei terapeutice și  a sigurantei terapeutice se realizează la fiecare 6 luni de tratament de la prima evaluare a tintei terapeutice (vezi anexa 4 sau anexa 5).
+
+1. Evaluarea de pre-tratament
+Pacientul trebuie evaluat de inițierea tratamentului cu agent biologic/cu inhibitor de JAK (evaluare pre-tratament) prin următoarele de investiții:
+*optional, pentru Dupilumab, obligatorie pentru inhibitorii de JAK
+
+2. Evaluarea sigurantei terapeutice si a eficacitatii clinice
+Pacientul trebuie evaluat pentru siguranța terapeutică și eficacitatea clinică la 3 luni de la inițierea terapiei cu agent biologic/inhibitor de JAK prin următoarele investigații:
+
+3. Prima evaluare pentru atingerea țintei terapeutice - la 6 luni de tratament continuu de la initierea terapiei biologice/inhibitor de JAK
+
+4. Monitorizarea menținerii țintei terapeutice și a sigurantei terapeutice se realizeaza la fiecare 6 luni de tratament de la prima evaluare a țintei terapeutice
+
+*obligatorie pentru inhibitorii de JAK
+
+PRESCRIPTORI:  tratamentul se inițiaza si se continua de medici din specialitatea dermatologie-venerologie. Acestia au  obligatia de a introduce pacientul in Registrul National de Dermatita Atopica.
+
+Anexa nr. 1
+
+SCORUL DLQI pentru adulți
+Scorul DLQI
+Scorul DLQI - Dermatologic Life Quality Index a fost elaborat de Prof. A. Finlay din Marea Britanie. Scorul DLQI poate fi utilizat pentru oricare afecțiune cutanată.
+Pacientul la cele 10 întrebări referindu-se la experiența sa din ultima săptămână. Textul chestionarului este următorul:
+Scorul DLQI pentru adulți
+
+Scopul acestui chestionar este de a măsura cât de mult v-a afectat viața ÎN ULTIMA SĂPTĂMÂNĂ problema dvs. de piele. Vă rugăm să bifați câte o căsuță pentru fiecare întrebare.
+
+1. În ultima săptămână, cât de mult ați simțit senzații de mâncărime, înțepături, dureri sau rană la nivelul pielii?
+    Foarte mult/Mult/Puțin/Deloc
+
+2. În ultima săptămână, cât ați fost de jenat sau conștient de boală datorită pielii dvs.?
+    Foarte mult/Mult/Puțin/Deloc
+
+3. În ultima săptămână, cât de mult a interferat boala dvs. de piele cu mersul la cumpărături sau cu îngrijirea casei și a grădinii?
+    Foarte mult/Mult/Puțin/Deloc         Nerelevant
+
+4. În ultima săptămână, cât de mult a influențat problema dvs de piele alegerea hainelor cu care v-ați îmbrăcat?
+    Foarte mult/Mult/Puțin/Deloc         Nerelevant
+
+5. În ultima săptămână, cât de mult v-a afectat problema dvs. de piele activitățile sociale sau cele de relaxare?
+    Foarte mult/Mult/Puțin/Deloc         Nerelevant
+
+6. În ultima săptămână, cât de mult v-a împiedicat pielea dvs. să practicați un sport?
+    Foarte mult/Mult/Puțin/Deloc         Nerelevant
+
+7. În ultima săptămână v-a împiedicat pielea dvs. la serviciu sau studiu?
+    Da/Nu         Nerelevant
+    Dacă "nu" în ultima săptămână cât de mult a fost pielea dvs. o problemă pentru serviciu sau studii?
+    Mult/Puțin/Deloc
+
+8. În ultima săptămână, cât de mult v-a creat pielea dvs. dificultăți cu partenerul sau oricare din prietenii apropiați sau rude?
+    Foarte mult/Mult/Puțin/Deloc         Nerelevant
+
+9. În ultima săptămână, cât de mult v-a creat pielea dvs. dificultăți sexuale?
+    Foarte mult/Mult/Puțin/Deloc         Nerelevant
+
+10. În ultima săptămână, cât de mult a fost o problemă tratamentul pentru afecțiunea dvs., de ex. pentru că v-a murdărit casa sau a durat mult timp?
+    Foarte mult/Mult/Puțin/Deloc         Nerelevant
+
+Vă rugăm să verificați dacă ați răspuns la toate întrebările. Vă mulțumesc.
+©AY Finlay. GK Khan, aprilie 1992.
+
+Se vor atribui scoruri de la 0 la 3 răspunsurilor:
+0 pentru "deloc", "nerelevant" sau lipsa răspunsului
+1 pentru "puțin"
+2 pentru "mult"
+3 pentru "foarte mult" și pentru răspunsul "Da" la întrebarea 7.
+
+Se va obține un scor de la 0 la 30. Cu cât scorul va fi mai mare cu atât calitatea vieții pacientului este mai afectată de boală.
+
+Interpretarea scorului:
+    0 -   1 = fără efect asupra calității vieții pacientului
+    2 -   5 = efect scăzut asupra calității vieții pacientului
+    6 - 10 = efect moderat asupra calității vieții pacientului
+  11 - 20 = efect important asupra calității vieții pacientului
+  21 - 30 = efect foarte important asupra calității vieții pacientului.
+
+Scorul DLQI pentru copii (cDLQI)
+
+Scopul acestui chestionar este de a măsura cât de mult v-a afectat viața ÎN ULTIMA SĂPTĂMÂNĂ problema dvs. de piele. Vă rugăm să bifați câte o căsuță pentru fiecare întrebare.
+
+1. În ultima săptămână, cât de mult ai avut la nivelul pielii senzația de mâncărime, rană, durere sau ai simțit nevoia de a te scărpina?
+Foarte mult/Destul de mult/Doar puțin/Deloc
+
+2. În ultima săptămână, cât ai fost de jenat sau conștient de boală, indispus sau trist datorită pielii tale?
+Foarte mult/Destul de mult/Doar puțin/Deloc
+
+3. În ultima săptămână, cât de mult ți-a influențat pielea relațiile cu prietenii?
+Foarte mult/Destul de mult/Doar puțin/Deloc
+
+4. În ultima săptămână, cât de mult te-ai schimbat sau ai purtat haine sau încălțăminte diferită sau specială din cauza pielii?
+Foarte mult/Destul de mult/Doar puțin/Deloc
+
+5. În ultima săptămână, cât de mult a influențat pielea ta ieșitul afară, jocurile sau activitățile preferate?
+Foarte mult/Destul de mult/Doar puțin/Deloc
+
+6. În ultima săptămână, cât de mult ai evitat înotul sau alte sporturi din cauza problemei tale de piele?
+Foarte mult/Destul de mult/Doar puțin/Deloc
+
+7. Ultima săptămână a fost de școală? Dacă da: Cât de mult ți-a influențat pielea lucrul la școală?
+Oprirea școlii/Foarte mult/Destul de mult/Doar puțin/Deloc
+    Ultima săptămână a fost vacanță? Dacă da: Cât de mult a influențat problema ta de piele plăcerea vacanței?
+Foarte mult/Destul de mult/Doar puțin/Deloc
+
+8. În ultima săptămână, cât de mult ai avut probleme cu alții din cauza pielii tale pentru că ți-au pus porecle, te-au tachinat, te-au persecutat, ți-au pus întrebări sau te-au evitat?
+Foarte mult/Destul de mult/Doar puțin/Deloc
+
+9. În ultima săptămână, cât de mult ți-a influențat problema ta de piele somnul?
+Foarte mult/Destul de mult/Doar puțin/Deloc
+
+10. În ultima săptămână, cât de mult te-a deranjat tratamentul pentru piele?
+Foarte mult/Destul de mult/Doar puțin/Deloc
+
+Vă rugăm să verificați dacă ați răspuns la toate întrebările. Vă mulțumesc.
+©M.S. Lewis-Jones, A.Y. Finlay, mai 1993, Nu poate fi copiat fără permisiunea autorilor.
+
+Se vor atribui scoruri de la 0 la 3 răspunsurilor:
+0 pentru "deloc", "nerelevant" sau lipsa răspunsului
+1 pentru "puțin"
+2 pentru "mult"
+3 pentru "foarte mult" și pentru răspunsul "Da" la întrebarea 7.
+
+Se va obține un scor de la 0 la 30. Cu cât scorul va fi mai mare cu atât calitatea vieții pacientului este mai afectată de boală.
+
+Interpretarea scorului:
+    0 -   1 = fără efect asupra calității vieții pacientului
+    2 -   5 = efect scăzut asupra calității vieții pacientului
+    6 - 10 = efect moderat asupra calității vieții pacientului
+  11 - 20 = efect important asupra calității vieții pacientului
+  21 - 30 = efect foarte important asupra calității vieții pacientului.
+
+Anexa nr. 2
+Declarație de consimțământ pacient adult
+
+DECLARAȚIE DE CONSIMȚĂMÂNT INFORMAT
+    Subsemnatul/Subsemnata ................................................................. menționez că mi-a fost explicat pe înțelesul meu diagnosticul, planul de tratament și mi s-au comunicat informații cu privire la gravitatea bolilor, precum și posibilele reacții adverse sau implicații pe termen lung asupra stării de sănătate ale terapiilor administrate, inclusiv intr-o eventuala sarcina și îmi asum și însușesc tratamentele propuse și voi respecta indicațiile date.
+    Am luat la cunoștință că, pe parcursul acestui proces, va fi asigurată confidențialitatea deplină asupra datelor mele personale și medicale, eventuala prelucrare a acestora făcându-se în mod anonim. Colectarea datelor solicitate va contribui atât la îmbunătățirea îngrijirii mele medicale, cât și la ameliorarea serviciilor de sănătate asigurate tuturor pacienților.
+    |¯| (pentru paciente) Declar pe proprie răspundere că la momentul inițierii terapiei nu sunt însărcinată și nu alăptez și mă oblig ca în cazul în care rămân însărcinată să anunț medicul curant dermato-venerolog.
+    Am înțeles informațiile prezentate și declar în deplină cunoștință de cauză că mi le însușesc în totalitate, așa cum mi-au fost explicate de domnul/doamna dr. ....................................................................................
+
+    Pacient: (completați cu MAJUSCULE)                 Medic: (completati cu majuscule)
+    NUME ...................................                                NUME...................................
+    PRENUME ............................                                PRENUME.............................
+
+    Semnătura pacient:                                                  Semnătura și parafa medic:
+    Data: _ _/_ _/_ _ _ _
+
+Anexa nr. 3
+Declarație de consimțământ pentru pacientul pediatric
+
+CONSIMȚĂMÂNT PACIENT
+
+    Copilul ..................................................................................................,
+    CNP copil: |¯||¯||¯||¯||¯||¯||¯||¯||¯||¯||¯||¯||¯|
+    Subsemnații ..........................................................................................,
+    CNP: |¯||¯||¯||¯||¯||¯||¯||¯||¯||¯||¯||¯||¯|
+    CNP: |¯||¯||¯||¯||¯||¯||¯||¯||¯||¯||¯||¯||¯|
+    (se completează CNP-urile părinților sau aparținătorilor)
+
+   	 Domiciliați în str. ..........................................., nr. ..., bl. ..., sc. ..., et. ....., ap. ..., sector ...., localitatea ....................., județul .........................., telefon ..................., în calitate de reprezentant legal al copilului ............................................., diagnosticat cu ......................................... sunt de acord să urmeze tratamentul cu ......................................................
+    	Am fost informați asupra importanței, efectelor și consecințelor administrării acestei terapii cu produse biologice.
+    	Ne declarăm de acord cu instituirea acestui tratament precum și a tuturor examenelor clinice și de laborator necesare unei conduite terapeutice eficiente.
+    	Ne declarăm de acord să urmeze instrucțiunile medicului curant, să răspundem la întrebări și să semnalăm în timp util orice manifestare clinică survenită pe parcursul terapiei.
+    |	¯| (pentru paciente) Declarăm pe proprie răspundere că la momentul inițierii terapiei pacienta nu este însărcinată și nu alăptează și ne obligăm ca în cazul în care rămâne însărcinată să fie anunțat medicul curant dermato-venerolog.
+
+Medicul specialist care a recomandat tratamentul:
+    ........................................................................................................................
+Unitatea sanitară unde se desfășoară monitorizarea tratamentului
+    ........................................................................................................................
+
+    Semnătura și parafa medicului”
+
+Anexa nr. 4
+Fișa de evaluare și monitorizare a pacientului adult cu D.A. forma moderat-severa  aflat în tratament cu agent biologic/inhibitor de JAK
+
+     PACIENT
+
+    Adresa .................................................................................................................
+    .............................................................................................................................
+    ............................................................................................................................
+    Telefon ...........................
+
+    Medic curant dermatolog:
+    Nume ................................................................... Prenume ...........................................
+    Unitatea sanitară .............................................................................................................
+    Adresa de corespondență ...............................................................................................
+    Telefon: .............................. Fax .......................... E-mail .............................
+    Parafa:                                         Semnătura:
+
+I. CO-MORBIDITĂȚI:
+Pacientul a prezentat următoarele afecțiuni (bifați varianta corespunzătoare la fiecare rubrică, iar dacă răspunsul este DA, furnizați detalii)
+
+II. DIAGNOSTIC ȘI ISTORIC D.A. (se va completa doar la vizita de evaluare pre-tratament)
+Certificat de diagnostic de D.A. : anul _ _ _ _ luna _ _
+Data debutului: anul _ _ _ _ luna _ _
+
+III. TERAPII CLASICE URMATE ANTERIOR - se completează numai la vizita de evaluare pre-tratament, nu este necesară completare pentru  continuarea terapiilor
+    (în cazul modificarii dozelor se trece data de începere și de oprire pentru fiecare doza)
+În caz de intoleranță MAJORĂ/CONFIRMATĂ (anexați documente medicale) la terapiile sistemice standard, furnizați detalii privitor la alta terapie actuală.
+IV. TERAPII CLASICE SISTEMICE ACTUALE:
+
+V. ALTE TRATAMENTE ACTUALE PENTRU D.A. :
+VI. EVALUAREA CLINICA:
+Date: _ _/_ _/_ _ _ _ _
+Greutate (kg): _ _ _ Talie (cm): _ _ _
+
+VII. EVALUARE PARACLINICĂ:
+Se vor anexa buletinele de analiză cu valabilitate de maxim 45 de zile, în original sau copie autentificată prin semnătura și parafa medicului curant dermatolog
+Se vor insera rezultatele de laborator corespunzătoare etapei de evaluare conform Protocolului.
+
+VIII. TRATAMENTUL BIOLOGIC SAU INHIBITOR JAK PROPUS:
+INIȚIERE | ¯|
+Medicament (denumire comercială)  .................................. (DCI)  ............................
+
+IX. REACȚII ADVERSE (RA) legat de terapia  D.A. (descriere a RA aparute de la completarea ultimei fișe de evaluare; prin RA se intelege fiecare eveniment medical semnificativ, indiferent de relația de cauzalitate fata de boală sau tratamentul administrat, vor fi precizate cel putin: diagnosticul, descrierea pe scurt a RA, data apariției/rezolvarii, tratamentul aplicat):
+    .....................................................................................................................................
+X. COMPLIANȚA LA TRATAMENT:
+Buna | ¯|             Necorespunzătoare | ¯|
+
+XI. CONCLUZII, OBSERVAȚII, RECOMANDĂRI:
+    .....................................................................................................................................
+
+NOTA:
+Fișa se completează citeț, la toate rubricile, alegând varianta corespunzătoare și precizând detalii acolo unde sunt solicitate. Datele se introduc  obligatoriu în Registrul Național de  D.A. Este obligatorie introducerea in Registrul National de D.A.si a unui pacient care are terapie conventionala sistemica din momentul initierii acesteia sau din momentul preluarii pacientului de catre medicul dermatolog curant (cu mentionarea la rubrica de observatii din Registru a documentelor justificative-nr. de înregistrare consutlatie, reteta etc) pentru a avea dovada eligibilitatii acestuia.
+Completa fișei se face la inițierea terapiei, la 3 luni, la prima evaluare pentru atingerea țintei terapeutice, la sase luni de la initierea terapiei biologice/cu inhibitor de JAK și apoi la fiecare 6 luni (sau mai des în caz de nevoie). Este obligatorie pastrarea dosarului medical complet al pacientului (bilete externare, fișe ambulator, rezultate analize medicale etc) la medicul curant pentru eventuala solicitare a ale forurilor abilitate.
+
+Anexa nr. 5
+Fișa de evaluare și monitorizare a pacientului copil cu varsta intre 6-11 ani cu DA forma severa si a pacientului adolescent cu vârsta între 12-17 ani cu D.A. forma moderat-severa,  aflat în tratament cu agent biologic
+
+     PACIENT
+
+    Adresa .................................................................................................................
+    .............................................................................................................................
+    ............................................................................................................................
+    Telefon aparținător legal ...........................
+
+    Medic curant dermatolog:
+    Nume ................................................................... Prenume ...........................................
+    Unitatea sanitară .............................................................................................................
+    Adresa de corespondență ...............................................................................................
+    Telefon: .............................. Fax .......................... E-mail .............................
+    Parafa:                                         Semnătura:
+
+I. CO-MORBIDITĂȚI:
+Pacientul a prezentat următoarele afecțiuni (bifați varianta corespunzătoare la fiecare rubrică, iar dacă răspunsul este DA, furnizați detalii)
+
+II. DIAGNOSTIC ȘI ISTORIC D.A. (se va completa doar la vizita de evaluare pre-tratament)
+Certificat de diagnostic de D.A. : anul _ _ _ _ luna _ _
+Data debutului: anul _ _ _ _ luna _ _
+
+III. TERAPII CLASICE URMATE ANTERIOR - se completează numai la vizita de evaluare pre-tratament, nu este necesară completare pentru  continuarea terapiilor
+    (în cazul modificarii dozelor se trece data de începere și de oprire pentru fiecare doza)
+În caz de intoleranță MAJORĂ/CONFIRMATĂ (anexați documente medicale) la terapiile sistemice standard, furnizați detalii privitor la alta terapie actuală.
+IV. TERAPII CLASICE SISTEMICE ACTUALE:
+
+V. ALTE TRATAMENTE ACTUALE PENTRU D.A. :
+VI. EVALUAREA CLINICA:
+Date: _ _/_ _/_ _ _ _ _
+Greutate (kg): _ _ _ Talie (cm): _ _ _
+
+VII. EVALUARE PARACLINICĂ:
+Se vor anexa buletinele de analiză cu valabilitate de maxim 45 de zile, în original sau copie autentificată prin semnătura și parafa medicului curant dermatolog
+Se vor insera rezultatele de laborator corespunzătoare etapei de evaluare conform Protocolului.
+
+VIII. TRATAMENTUL BIOLOGIC PROPUS:
+INIȚIERE | ¯|
+Agent biologic (denumire comercială)  .................................. (DCI)  ............................
+
+IX. REACȚII ADVERSE (RA) legat de terapia  D.A. (descriere a RA aparute de la completarea ultimei fișe de evaluare; prin RA se intelege fiecare eveniment medical semnificativ, indiferent de relația de cauzalitate fata de boală sau tratamentul administrat, vor fi precizate cel putin: diagnosticul, descrierea pe scurt a RA, data apariției/rezolvarii, tratamentul aplicat):
+    .....................................................................................................................................
+
+X. COMPLIANȚA LA TRATAMENT:
+Buna | ¯|             Necorespunzătoare | ¯|
+
+XI. CONCLUZII, OBSERVAȚII, RECOMANDĂRI:
+    .....................................................................................................................................
+
+NOTA:
+Fișa se completează citeț, la toate rubricile, alegând varianta corespunzătoare și precizând detalii acolo unde sunt solicitate. Datele se introduc  obligatoriu în Registrul Național de  D.A. Este obligatorie introducerea in Registrul National de D.A.si a unui pacient care are terapie conventionala sistemica din momentul initierii acesteia sau din momentul preluarii pacientului de catre medicul dermatolog curant (cu mentionarea la rubrica de observatii din Registru a documentelor justificative-nr. de înregistrare consutlatie, reteta etc) pentru a avea dovada eligibilitatii acestuia.
+Completa fișei se face la inițierea terapiei, la 3 luni, la prima evaluare pentru atingerea țintei terapeutice, la sase luni de la initierea terapiei biologice și apoi la fiecare 6 luni (sau mai des în caz de nevoie). Este obligatorie pastrarea dosarului medical complet al pacientului (bilete externare, fișe ambulator, rezultate analize medicale etc) la medicul curant pentru eventuala solicitare a ale forurilor abilitate.
+
+Anexa nr. 6
+
+Standardul de diagnosticare a Hanifin & Rajika
+
+1. Trebuie să aibă trei sau mai multe caracteristici de bază descrise mai jos
+(1) Prurit
+(2) Morfologia și distribuția tipică:
+Lichenificare flexurală la adulți
+Erupții faciale și pe zonele de flexie la sugari și copii
+(3) Dermatită cronică sau cu recăderi
+(4) Antecedente personale sau familiale de atopie (astm bronșic, rinită, dermatită atopică)
+
+2. Trebuie să aibă trei sau mai multe caracteristici minore următoarele:
+(1) Xeroza
+(2) Ihtioză/hiperlinearitate palmară, keratoză pilară
+(3) Reacție imediată (de tip I) la testele cutanate
+(4) IgE seric crescut
+(5) Vârsta precoce a debutului
+(6) Tendința spre infecții cutanate (în special Staph. aureus și herpes simplex)
+(7) Dermatită nespecifică a mâinii sau piciorului
+(8) Eczema mamelonară
+(9) Cheilită
+(10) Conjunctivită recurentă
+(11) Pliul infraorbitar Dennie -Morgan
+(12) Keratoconus
+(13) Cataractă subcapsulară anterioară
+(14) Pigmentare periorbitară
+(15) Paloare facială, eritem facial
+(16) Pitiriazis alb
+(17) Pliuri anterioare ale gâtului
+(18) Prurit indus de hipersudoratie
+(19) Intoleranță la lâna și solvenți lipidici
+(20) Dermatita folliculară
+(21) Intoleranță alimentară
+(22) Leziuni influențate de mediu și factori emoționali
+(23) Dermografism alb și albire întârziată.”
+NR. | Cod Protocol | DENUMIRE
+342 | B02BD02 | TUROCTOCOG ALFA PEGOL
+343 | L01FD04 | TRASTUZUMABUM DERUXTECANUM
+344 | L01XX41 | ERIBULINUM
+345 | N05AX15 | CARIPRAZINUM
+346 | N06AX26 | VORTIOXETINUM
+347 | N06AX27 | ESKETAMINUM
+Reacții adverse mediate imun | Severitate | Modificarea tratamentului
+Pneumonită | Gradul 2 | Se amână administrarea dozei până când reacțiile adverse se ameliorează la gradele 0-1*
+Pneumonită | Gradele 3 sau 4 sau recurență de gradul 2 | Se întrerupe definitiv tratamentul
+Colită | Gradele 2 sau 3 | Se amână administrarea dozei până când reacțiile adverse se ameliorează la gradele 0-1*
+Colită | Gradul 4 sau recurență de gradul 3 | Se întrerupe definitiv tratamentul
+Nefrită | Gradul 2 cu valori creatinina > 1,5 până la ≤ 3 ori limita superioară a valorilor normale (LSVN) | Se amână administrarea dozei până când reacțiile adverse se ameliorează la gradele 0-1*
+Nefrită | Gradul ≥ 3 cu valori creatinina > 3 ori LSVN | Se întrerupe definitiv tratamentul
+Endocrinopatii | Insuficiență suprarenală grad 2
+Hipofizită | Se amână tratamentul până când este controlat prin substituție hormonală
+Endocrinopatii | Insuficiență suprarenală
+grad 3 sau 4
+Hipofizită simptomatică
+Diabet zaharat de tip 1 asociat cu
+hiperglicemie de gradul ≥ 3 (glucoză > 250 mg/dl
+sau > 13,9 mmol/l) sau
+asociată cu cetoacidoză
+Hipertiroidism de grad ≥ 3 | Se amână administrarea dozei până când reacțiile adverse se ameliorează la gradele 0-1*
+Pentru pacienții cu endocrinopatie de gradul 3 sau gradul 4 care s-a ameliorat până la gradul 2 sau mai puțin și care este controlată cu tratament de substituție hormonală, dacă este indicat, continuarea administrării pembrolizumab poate fi luată în considerare, după întreruperea treptată a corticoterapiei în cazul în care este necesar. În caz contrar, taratamentul trebuie întrerupt definitiv.
+Endocrinopatii | Hipotiroidism | Hipotiroidismul poate fi gestionat prin tratament de substituție hormonală, fără a fi necesară întreruperea tratamentului.
+Hepatită | Gradul 2 cu valori ale aspartat
+aminotransferazei (AST) sau alanin aminotransferazei (ALT) > 3 până la de 5 ori LSVN sau ale bilirubinei totale > 1,5 până la de 3 ori LSVN | Se amână administrarea dozei până când reacțiile adverse se ameliorează la gradele 0-1*
+Hepatită | Gradul ≥ 3 cu valori ale AST sau ALT > 5 ori LSVN sau ale bilirubinei totale > 3 ori LSVN | Se întrerupe definitiv tratamentul
+Hepatită | În cazul metastazelor hepatice cu
+creșteri de gradul 2 ale valorilor
+inițiale ale AST sau ALT, hepatită cu creșteri ale AST sau ALT ≥ 50% și durata ≥ 1 săptămână | Se întrerupe definitiv tratamentul
+Reacții cutanate | Gradul 3, sau sindrom Stevens-Johnson (SSJ) sau necroliză epidermică toxică (NET) suspectate | Se amână administrarea dozei până când reacțiile adverse se ameliorează la gradele 0-1*
+Reacții cutanate | Gradul 4, sau SSJ sau NET confirmate | Se întrerupe definitiv tratamentul
+Alte reacții adverse mediate imun | În funcție de severitatea și tipul reacției (gradul 2 sau gradul 3)
+Miocardită gradele 3 sau 4
+Encefalită gradele 3 sau 4
+Sindrom Guillain-Barré gradele 3
+    sau 4
+Gradul 4 sau recurență de gradul 3 | Se amână administrarea dozei până când reacțiile adverse se ameliorează la gradele 0-1*
+Se întrerupe definitiv tratamentul
+
+Se întrerupe definitiv tratamentul
+Reacții adverse asociate administrării în perfuzie | Gradele 3 sau 4 | Se întrerupe definitiv tratamentul
+Săptămâni | Schemă
+Săptămânile 1 – 6 | săptămânal (6 doze în total)
+Săptămânile 7 - 54a) | la interval de trei săptămâni (16 doze în total)
+Din săptămâna 55 până la progresia boliib) | la interval de patru săptămâni
+Etapa de tratament | Săptămâni | Schemă
+Inducție | Săptămânile 1-8
+Săptămânile 9-16a | săptămânal (8 doze în total)
+la interval de două săptămâni (4 doze în total)
+Oprire pentru chimioterapie în doză mare și TACS | Oprire pentru chimioterapie în doză mare și TACS | Oprire pentru chimioterapie în doză mare și TACS
+Consolidare | Săptămânile 1-8b | la interval de două săptămâni
+Săptămâni | Schemă
+Săptămânile 1-8
+Săptămânile 9-24a | săptămânal (8 doze în total)
+la interval de două săptămâni (8 doze în total)
+Din  săptămâna  25 progresia boliib | la interval de patru săptămâni
+Săptămâni | Schemă
+Săptămânile 1 – 8 | săptămânal (8 doze în total)
+Săptămânile 9 - 24a) | la interval de două săptămâni (8 doze în total)
+Din săptămâna 25 până la progresia boliib) | la interval de patru săptămâni
+Săptămâni | Schemă
+Săptămânile 1 – 8 | săptămânal (8 doze în total)
+Săptămânile 9 - 24a) | la interval de două săptămâni (8 doze în total)
+Din săptămâna 25 până la progresia boliib) | la interval de patru săptămâni
+Săptămâni | Schemă
+Săptămânile 1 – 9 | săptămânal (9 doze în total)
+Săptămânile 10 - 24a) | la interval de două săptămâni (5 doze în total)
+Din săptămâna 25 până la progresia boliib) | la interval de patru săptămâni
+Săptămâni | Schemă
+Săptămânile 1 – 8 | săptămânal (8 doze în total)
+Săptămânile 9- 24b) | la două săptămâni (8 doze în total)
+Din săptămâna 25 până la progresia boliic) | la patru săptămâni
+ | Volum după diluare | Rata de perfuzare inițială (prima oră) | Creșteri ale ratei de
+perfuzarea) | Rata maximă de perfuzare
+PERFUZIA DIN SĂPTĂMÂNA 1 | PERFUZIA DIN SĂPTĂMÂNA 1 | PERFUZIA DIN SĂPTĂMÂNA 1 | PERFUZIA DIN SĂPTĂMÂNA 1 | PERFUZIA DIN SĂPTĂMÂNA 1
+Opțiunea 1
+(perfuzie în doză unică = 16 mg/kg) săptămâna 1, ziua 1 | 1.000 ml | 50 ml/oră | 50 ml/oră la fiecare oră | 200 ml/oră
+Opțiunea 2
+(perfuzie în doză divizată) |  |  |  |
+Săptămâna 1, ziua 1 (8 mg/kg) | 500 ml | 50 ml/oră | 50 ml/oră la fiecare oră | 200 ml/oră
+Săptămâna 1, ziua 2 (8 mg/kg) | 500 ml | 50 ml/oră | 50 ml/oră la fiecare oră | 200 ml/oră
+PERFUZIA DIN SĂPTĂMÂNA 2 (16 mg/kg)b) | 500 ml | 50 ml/oră | 50 ml/oră la fiecare oră | 200 ml/oră
+PERFUZII ULTERIOARE
+(începând cu săptămâna 3 - 16 mg/kg)c) | 500 ml | 50 ml/oră | 50 ml/oră la fiecare oră | 200 ml/oră
+Subcategorie de răspuns | Criterii de răspuns
+CR molecular | CR plus ASO-PCR negative, sensibilitate 10-5
+CR imunofenotipic | CR strict plus
+Absența PC cu aberații fenotipice (clonale) la nivelul MO, după analiza unui număr total minim de 1 milion de celule medulare prin citometrie de flux multiparametric (cu > 4 culori)
+CR strict (sCR) | CR conform definiției de mai jos plus
+Raport normal al FLC și
+Absența PC clonale, evaluate prin imunohistochimie sau citometrie de flux cu 2 - 4 culori
+CR | Rezultate negative la testul de imunofixare în ser și urină și Dispariția oricăror plasmocitoame de la nivelul țesuturilor moi și ≤ 5% PC în MO
+VGPR | Proteina M decelabilă prin imunofixare în ser și urină, dar nu prin electroforeză sau Reducere de cel puțin 90% a nivelurilor serice de protein M plus
+Protein M urinară < 100 mg/24 ore
+PR | Reducere ≥ a proteinei M serice și reducerea proteinei M urinare din 24 ore cu ≥ 90% sau până la < 200 mg în 24 ore.
+Dacă protein M serică și urinară nu sunt decelabile este necesară o reducere ≥ 50% a diferenței dintre nivelurile FLC implicate și cele neimplicate, în locul criteriilor care reflectă statusul proteinei M. Dacă protein M serică și urinară nu sunt decelabile, iar testul lanțurilor ușoare libere este nedecelabil, o reducere ≥ 50% a PC este necesară în locul proteinei M, dacă procentul inițial al PC din MO a fost ≥ 30%.
+Pe lângă criteriile enumerate mai sus, este necesară o reducere ≥ 50% a dimensiunilor plasmocitoamelor de la nivelul țesuturilor moi, dacă acestea au fost inițial prezente.
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ | Ciclul 1-8 | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile)
+ | Ciclul 1-8 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21
+ | Pomalidomidă (4 mg) | • | • | • | • | • | • | • | • | • | • | • | • | • | • |  |  |  |  |  |  |
+ | Bortezomib (1,3 mg/m2) | • |  |  | • |  |  |  | • |  |  | • |  |  |  |  |  |  |  |  |  |
+ | Dexametazonă (20 mg) * | • | • |  | • | • |  |  | • | • |  | • | • |  |  |  |  |  |  |  |  |
+ | Începând cu Ciclul 9 | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile) | Ziua (din ciclul de 21 zile)
+ | Începând cu Ciclul 9 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21
+ | Pomalidomidă (4 mg) | • | • | • | • | • | • | • | • | • | • | • | • | • | • |  |  |  |  |  |  |
+ | Bortezomib (1,3 mg/m2) | • |  |  |  |  |  |  | • |  |  |  |  |  |  |  |  |  |  |  |  |
+ | Dexametazonă (20 mg) * | • | • |  |  |  |  |  | • | • |  |  |  |  |  |  |  |  |  |  |  |
+ |  |
+ | Toxicitate | Modificarea dozei
+ | Neutropenie* | Neutropenie*
+ | NAN** < 0,5 x 109/l sau neutropenie febrilă (febră ≥ 38,5°C și NAN < 1 x 109/l) | întreruperea tratamentului cu pomalidomidă pentru perioada rămasă a ciclului; monitorizarea săptămânală a HLG***.
+ | NAN** < 0,5 x 109/l sau neutropenie febrilă (febră ≥ 38,5°C și NAN < 1 x 109/l) | întreruperea tratamentului cu pomalidomidă pentru perioada rămasă a ciclului; monitorizarea săptămânală a HLG***.
+ | NAN revine la ≥ 1 x 109/l | reluarea tratamentului cu pomalidomidă la un nivel de doză cu o treaptă sub doza anterioară.
+ | Pentru fiecare scădere ulterioară < 0,5 x 109/l | întreruperea tratamentului cu pomalidomidă.
+ | Trombocitopenie | Trombocitopenie
+ | Număr de trombocite < 25 x 109/l | întreruperea tratamentului cu pomalidomidă pentru perioada rămasă a ciclului; monitorizarea săptămânală a HLG***.
+ | Numărul de trombocite revine la ≥ 50 x 109/l | reluarea tratamentului cu pomalidomidă la un nivel de doză cu o treaptă sub doza anterioară.
+ | Pentru fiecare scădere ulterioară < 25 x 109/l | întreruperea tratamentului cu pomalidomidă.
+ | Numărul de trombocite revine la ≥ 50 x 109/l | reluarea tratamentului cu pomalidomidă la un nivel de doză cu o treaptă sub doza anterioară.
+ | Erupție cutanată tranzitorie | Erupție cutanată tranzitorie
+ | Erupție cutanată tranzitorie = gradul 2-3 | se va lua în considerare întreruperea sau încetarea administrării tratamentului cu pomalidomidă.
+ | Erupție cutanată tranzitorie = gradul 4 sau apariția veziculelor (inclusiv angioedem, erupție cutanată exfoliativă sau buloasă sau dacă se suspicionează sindromul Stevens-Johnson (SSJ), necroliza epidermică toxică (TEN) sau reacția medicamentoasă cu eozinofilie și simptome sistemice (RMESS)). | se va înceta definitiv tratamentul
+ | Altele | Altele
+ | Alte reacții adverse mediate ≥ gradul 3 legate de pomalidomidă | întreruperea tratamentului cu pomalidomidă pentru perioada rămasă a ciclului; se va relua la un nivel de doză cu o treaptă sub doza anterioară, în următorul ciclu (reacția adversă trebuie să fie remisă sau ameliorată la ≤ gradul 2 înaintea reluării dozelor).
+ |
+Nivel de doză | Doză de pomalidomidă pe cale orală
+Doză inițială | 4 mg
+Nivel de doză -1 | 3 mg
+Nivel de doză -2 | 2 mg
+Nivel de doză -3 | 1 mg
+ |  |
+ | Toxicitate | Modificarea dozei
+ | Dispepsie = gradul 1-2 | se menține doza și se tratează cu blocanți ai receptorilor de histamină (H2) sau medicamente echivalente; se va scădea cu un nivel de doză dacă simptomele persistă.
+ | Dispepsie ≥ gradul 3 | se întrerupe doza până când simptomele sunt controlate; se adaugă un blocant H2 sau un medicament echivalent și se reia la un nivel de doză cu o treaptă sub doza anterioară.
+ | Edem ≥ gradul 3 | se utilizează diuretice după cum este necesar și se scade doza cu un nivel de doză.
+ | Confuzie sau modificări ale dispoziției ≥ gradul 2 | se întrerupe doza până la dispariția simptomelor; se reia la un nivel de doză cu o treaptă sub doza anterioară.
+ | Slăbiciune musculară ≥ gradul 2 | se întrerupe doza până la slăbiciune musculară ≤ gradul 1; se reia la un nivel de doză cu o treaptă sub doza anterioară.
+ | Hiperglicemie ≥ gradul 3 | se scade doza cu un nivel de dozaj; se tratează cu insulină sau medicamente antidiabetice orale, după necesități.
+ | Pancreatită acută | se oprește dexametazona din cadrul regimului terapeutic.
+ | Alte reacții adverse legate de dexametazonă ≥ gradul 3 | se oprește administrarea dozelor de dexametazonă până la rezolvarea reacțiilor adverse la ≤ gradul 2; se reia la un nivel de doză cu o treaptă sub doza anterioară.
+ |  |  |
+ | Nivel de doză | ≤ 75 ani
+Doză (Ciclul 1-8: Zilele 1, 2, 4, 5, 8, 9, 11, 12 ale unui ciclu de 21 de zile Ciclul ≥ 9:
+Zilele 1, 2, 8, 9 ale unui ciclu de 21 de zile) | > 75 ani
+Doză (Ciclul 1-8: Zilele 1, 2, 4, 5, 8, 9, 11, 12 ale unui ciclu de 21 de zile Ciclul ≥ 9: Zilele 1, 2, 8, 9 ale unui ciclu de 21 de zile)
+ | Doză inițială | 20 mg | 10 mg
+ | Nivel de doză -1 | 12 mg | 6 mg
+ | Nivel de doză -2 | 8 mg | 4 mg
+ |  |  |
+ | Nivel de doză | ≤ 75 ani
+Zilele 1, 8, 15 și 22 ale fiecărui ciclu de 28 de zile | > 75 ani
+Zilele 1, 8, 15 și 22 ale fiecărui ciclu de 28 de zile
+ | Doză inițială | 40 mg | 20 mg
+ | Nivel de doză -1 | 20 mg | 12 mg
+ | Nivel de doză -2 | 10 mg | 8 mg
+ |  |
+ | Subcategorie de raspuns | Criterii de raspuns
+ | CR molecular | CR plus ASO-PCR negative, sensibilitate 10-5
+ | CR
+imunofenotipic | CR strict plus
+Absenta PC cu aberatii fenotipice (clonale) la nivelul MO, dupa analiza unui numar total minim de 1 milion de celule medulare prin citometrie de flux multiparametric (cu >4 culori)
+ | CR strict (sCR) | CR conform definitiei de mai jos plus
+Raport normal al FLC si
+Absenta PC clonale, evaluate prin imunohistochmie sau citometrie de flux cu 2-4 culori
+ | CR | Rezultate negative la testul de imunofixare în ser si urina si
+Disparitia oricaror plasmocitoame de la nivelul tesuturilor moi si
+≤ 5% PC în MO
+ | VGPR | Proteina M decelabila prin imunofixare în ser si urina, dar nu prin electroforeza sau
+Reducere de cel putin 90% a nivelurilor serice de protein M plus
+Protein M urinara < 100mg/24 ore
+ | PR | Reducere ≥ a proteinei M serice si reducerea proteinei M urinare din 24 ore cu ≥ 90% sau pana la
+< 200 mg în 24 ore.
+Daca protein M serica si urinara nu sunt decelabile este necesara o reducere ≥ 50% a diferentei dintre nivelurile FLC implicate si cele neimplicate, în locul criteriilor care reflecta statusul proteinei M.
+Daca protein M serica si urinara nu sunt decelabile, iar testul lanturilor usoare libere este nedecelabil, o reducere ≥50% a PC este necesara în locul proteinei M, daca procentul initial al PC din MO a fost ≥ 30%.
+Pe langa criteriile enumerate mai sus, este necesara o reducere ≥50% a dimensiunilor plasmocitoamelor de la nivelul tesuturilor moi, daca acestea au fost initial prezente.
+Factorii de risc incluși în
+calcularea FRAX (WHO) | Caracteristici
+Vârsta | > 65 ani la femei
+Menopauza precoce | Ultima menstruație înainte de 40 de ani *
+IMC (indice de masă corporală) | < 20 Kg/m2
+Tratament cu glucocorticoizi | Terapia anterioară (minim 3 luni) sau actuală cu corticosteroizi sistemici
+> = 7,5 mg/zi prednison sau echivalent
+Consum de alcool | Minim 3 unități/zi (Echivalentul este un pahar standard de bere (285 ml), o singură măsură de tărie (30 ml), un pahar mediu de vin (120 ml), sau o măsură de aperitiv (60 ml))*
+Istoric familial de fractură de șold | Fractura de șold la unul dintre părinți*
+Fumatul activ | Pacient fumător în prezent *
+Artrita reumatoidă | Diagnostic confirmat
+Oteoporoza secundara | Pacientul prezintă o afecțiune asociată cu osteoporoza: diabet zaharat tip 1 (insulinodependent), osteogeneza imperfectă, hipertiroidism vechi, netratat, hipogonadism, malnutriție cronică, malabsorbție, boala hepatica cronică, tratamentul cu inhibitori de aromatază
+Greutate corporală a pacientului | Dozele inițială și ulterioare
+15 kg - 30 kg | 100 mg la interval de 2 săptămâni (Q2W)
+sau
+300 mg la interval de 4 săptămâni (Q4W)
+30 kg - 60 kg | 200 mg la interval de 2 săptămâni (Q2W)
+sau
+300 mg la interval de 4 săptămâni (Q4W)
+60 kg sau peste | 200 mg la interval de 2 săptămâni (Q2W)
+Greutate corporală a pacientului | Doză inițială | Doze ulterioare
+15 kg până la
+mai puțin de 60 kg | 300 mg (o injecție de 300 mg) în Ziua 1, urmată de o doză de 300 mg în Ziua 15 | 300 mg la interval de 4 săptămâni (Q4W)*, începând după 4 săptămâni de la doza din Ziua 15
+60 kg sau peste | 600 mg (două injecții de 300 mg) | 300 mg la interval de 2 săptămâni (Q2W)
+Adulți și adolescenți (> 12 ani) | Adulți și adolescenți (> 12 ani) | Adulți și adolescenți (> 12 ani) | Adulți și adolescenți (> 12 ani)
+Corticosteroid inhalator | doză zilnică (mcg) (doza masurata) | doză zilnică (mcg) (doza masurata) | doză zilnică (mcg) (doza masurata)
+Corticosteroid inhalator | Mica | Medie | Mare
+Beclometazonă dipropionat (CFC) | 200-500 | 500-1000 | ≥1000
+Beclometazonă dipropionat (HFA) | 100-200 | 200-400 | ≥400
+Budesonidă (DPI) | 200-400 | 400-800 | ≥800
+Ciclesonidă (HFA) | 80-160 | 160-320 | ≥320
+Fluticazonă furoat (DPI) | 100 | n/a | ≥200
+Fluticazonă propionat (DPI) | 100-250 | 250-500 | ≥500
+Fluticazonă propionat (HFA) | 100-250 | 250-500 | ≥500
+Mometazonă furoat | 110-220 | 220-440 | ≥440
+Triamcinolon acetonid | 400-1000 | 1000-2000 | ≥2000
+Copii cu vârsta  cuprinsă între 6 ani și 11 ani | Copii cu vârsta  cuprinsă între 6 ani și 11 ani | Copii cu vârsta  cuprinsă între 6 ani și 11 ani | Copii cu vârsta  cuprinsă între 6 ani și 11 ani
+Corticosteroid inhalator | doză zilnică (mcg) (doza masurata) | doză zilnică (mcg) (doza masurata) | doză zilnică (mcg) (doza masurata)
+Corticosteroid inhalator | Mica | Medie | Mare
+Beclometazonă dipropionat (CFC) | 100-200 | 200-400 | ≥400
+Beclometazonă dipropionat (HFA) | 50-100 | 100-200 | ≥200
+Budesonidă (DPI) | 100-200 | 200-400 | ≥400
+Budesonidă (nebulizator) | 250-500 | 500-1000 | ≥1000
+Ciclesonidă (HFA) | 80 | 80 -160 | ≥160
+Fluticazonă furoat (DPI) | 50 | 50 | n/a
+Fluticazonă propionat (DPI) | 50-100 | 100-200 | ≥200
+Fluticazonă propionat (HFA) | 50-100 | 100-200 | ≥200
+Mometazonă furoat | 100 | 100 | 200
+1. În ultimele 4 săptămâni, cât de mult timp v-a împiedicat astmul să faceți la fel de multe lucruri ca de
+obicei la serviciu, la școală sau acasă?
+
+Tot timpul                  Majoritatea timpului            O parte din timp                 Puțin timp                   Niciodată
+
+     1                                           2                                          3                                    4                                5
+2. În ultimele 4 săptămâni, cât de des ați avut dificultăți de respirație?
+
+Mai mult de o data pe zi       O dată pe zi           De 3 - 6 ori pe săptămână        O dată sau de două ori pe săptămână        Deloc
+
+                    1                                          2                                         3                                                             4                                               5
+3. În ultimele 4 săptămâni, cât de des v-ați trezit în timpul nopții sau mai devreme decât de obicei
+dimineața, din cauza simptomelor astmului dvs. (respirație șuierătoare, tuse, respirație dificilă, apăsare
+sau durere în piept)?
+
+4 sau mai multe nopți pe săptămână       2-3 nopți pe săptămână       O dată pe săptămână       O dată sau de două ori      Deloc
+
+                         1                                                        2                                      3                                        4                            5
+4. În ultimele 4 săptămâni, cât de des ați utilizat medicația de criză, prin inhalator sau nebulizator?
+
+De 3 sau mai multe ori pe zi          De 1 sau 2 ori pe zi        De 2 sau 3 ori pe săptămână         O dată pe săptămână sau mai puțin         Deloc
+
+                       1                                             2                                                  3                                                  4                                         5
+5. Cum ați evalua controlul pe care l-ați avut asupra astmului dvs. în ultimele 4 săptămâni?
+
+Nu a fost controlat deloc        Slab controlat       Oarecum controlat         Bine controlat         Controlat pe deplin
+
+                  1                                     2                                3                                4                                      5
+1. Cum stai cu astmul azi?
+     Foarte rău                                 Rău                                            Bine                                            Foarte bine
+
+         0                                           1                                                 2                                                            3
+2. Cât de mult te supără când când alergi, faci gimnastică sau faci sport?
+
+E o mare problemă,                                  E o problemă                          E o mica problemă,                            Nu e o problemă
+nu pot face ceea ce vreau                      și nu îmi place                           dar e în regulă
+
+             0                                                                  1                                                          2                                                             3
+3. Tușești din cauza astmului?
+
+Da, tot timpul                         Da, cea mai mare parte a timpului                  Da, câteodată                                         Nu, niciodată
+
+          0                                                                        1                                                          2                                                                    3
+4. Te trezești noaptea din cauza astmului?
+
+Da, tot timpul                       Da, cea mai mare parte a timpului                  Da, câteodată                                         Nu, niciodată
+
+          0                                                                     1                                                          2                                                                    3
+5. În ultimele 4 săptămâni, în câte zile a avut copilul dumneavoastră simptome de astm în timpul zilei?
+
+Niciuna                 1-3 zile                4-10 zile                  11-18 zile                    19-24 zile                       zilnic
+     5                            4                           3                                2                                1                                   0
+6. În ultimele 4 săptămâni, în câte zile a respirat șuierător copilul dumneavoastră în timpul zilei din cauza astmului?
+
+Niciuna                 1-3 zile                4-10 zile                  11-18 zile                    19-24 zile                       zilnic
+     5                            4                           3                                2                                1                                   0
+7. În ultimele 4 săptămâni, în câte zile s-a trezit noaptea copilul dumneavoastră din cauza astmului?
+
+Niciunul                 1-3 zile                4-10 zile                  11-18 zile                    19-24 zile                       zilnic
+      5                            4                           3                                2                                1                                   0
+1. În ultimele 7 zile, cât de des v-ați trezit, în medie,
+noaptea, din cauza astmului? | 0 Niciodată
+1 Rareori
+2 De puține ori
+3 De câteva ori
+4 De multe ori
+5 De foarte multe ori
+6 Nu am putut să dorm din cauza astmului
+2. În ultimele 7 zile, cât de grave au fost, în medie,
+simptomele dvs. de astm, când v-ați trezit dimineața? | 0 Nu am avut simptome
+1 Simptome foarte slabe
+2 Simptome slabe
+3 Simptome moderate
+4 Simptome destul de grave
+5 Simptome grave
+6 Simptome foarte grave
+3. În ultimele 7 zile, cât de limitat/ă ați fost, în general,
+în activitățile dvs. din cauza astmului? | 0 Deloc limitat/ă
+1 Foarte puțin limitat/ă
+2 Puțin limitat/ă
+3 Moderat limitat/ă
+4 Foarte limitat/ă
+5 Extrem de limitat/ă
+6 Total limitat/ă
+4. În ultimele 7 zile, câtă lipsă de aer ați simțit, în
+general, din cauza astmului? | 0 Deloc
+1 Foarte puțină
+2 Puțină
+3 Moderată
+4 Destul de multă
+5 Multă
+6 Foarte multă
+5. În ultimele 7 zile, cât timp ați avut, în general, un
+hârâit în piept? | 0 Niciodată
+1 Rareori
+2 Puțin timp
+3 O perioadă moderată de timp
+4 Mult timp
+5 Cea mai mare parte din timp
+6 Tot timpul
+6. În ultimele 7 zile, câte pufuri/inhalații cu
+bronhodilatator cu acțiune pe termen scurt (ex.
+Ventolin/Bricanyl) ați folosit, în medie, în fiecare zi?
+(Dacă nu sunteți sigur/ă cum să răspundeți la această
+întrebare, vă rugăm să cereți ajutor) | 0 Deloc
+1 1-2 pufuri/inhalații în cele mai multe zile
+2 3-4 pufuri/inhalații în cele mai multe zile
+3 5-8 pufuri/inhalații în cele mai multe zile
+4 9-12 pufuri/inhalații în cele mai multe zile
+5 13-16 pufuri/inhalații în cele mai multe zile
+6 Mai mult de 16 pufuri/inhalații în cele mai multe zile
+Indicație | Severitatea NP în Ziua
+1 a oricărui ciclu | Modificarea dozei
+DLBCL netratat anterior | Gradul 2a | Neuropatie senzorială:
+Reduceți doza de  Polatuzumab Vedotin  la 1,4 mg/kg.
+Dacă Gradul 2 persistă sau reapare în Ziua 1 a unui ciclu viitor, reduceți Polatuzumab Vedotin  la 1,0 mg/kg.
+Dacă doza este deja la 1,0 mg/kg și Gradul 2  apare în Ziua 1 a unui ciclu viitor, întrerupeți  administrarea  Polatuzumab Vedotin.
+Neuropatie motorie:
+Întrerupeți dozele de  Polatuzumab Vedotin până la ameliorarea la Grad ≤ 1.
+Reîncepeți administrarea de  Polatuzumab Vedotin la următorul ciclu cu 1,4 mg/kg.
+Dacă doza este deja la 1,4 mg/kg și Gradul 2  apare în Ziua 1 a unui ciclu viitor, întrerupeți  administrarea  Polatuzumab Vedotin până la îmbunățirea la Grad ≤1. Reîncepeți  Polatuzumab Vedotin la 1,0 mg/kg.
+Dacă doza este deja la 1,0 mg/kg și Gradul 2  apare în Ziua 1 a unui ciclu viitor, întrerupeți administrarea  Polatuzumab Vedotin.
+În cazul apariției concomitente a neuropatiei senzoriale și motorie, urmați cea mai severă  recomandare prezentată mai sus.
+ | Gradul 3a | Neuropatie senzorială:
+Întrerupeți dozele de  Polatuzumab Vedotin  până la ameliorarea  la Grad ≤ 2.
+Reduceți doza de  Polatuzumab Vedotin  la 1,4 mg/kg.
+Dacă doza este deja la 1,4 mg/kg, reduceți  Polatuzumab Vedotin  la 1,0 mg/kg. Dacă doza este deja la 1,0 mg/kg,   întrerupeți administrarea  Polatuzumab Vedotin.
+Neuropatie motorie:
+Întrerupeți dozele de  Polatuzumab Vedotin  până la ameliorarea la Grad ≤ 1.
+Reîncepeți administrarea de  Polatuzumab Vedotin  la următorul ciclu cu 1,4 mg/kg.
+Dacă doza este deja la 1,4 mg/kg și Gradul 2-3  apare, întrerupeți administrarea  Polatuzumab Vedotin  până la  îmbunățirea la  Grad ≤ 1. Reîncepeți  Polatuzumab Vedotin la 1,0 mg/kg.
+Dacă doza este deja la 1,0 mg/kg și Gradul 2-3  apare, întrerupeți administrarea Polatuzumab Vedotin.  În cazul apariției concomitente a neuropatiei senzoriale și   motorie,   urmați   cea   mai   severă  recomandare prezentată mai sus.
+ | Gradul 4 | Întrerupeți administrarea  Polatuzumab Vedotin.
+Indicație | Severitatea NP în Ziua
+1 a oricărui ciclu | Modificarea dozei
+R/R DLBCL | Gradul 2–3 | Întrerupeți dozele de  Polatuzumab Vedotin  până la ameliorarea la  Grad ≤ 1.
+Dacă s-a ameliorat la Grad ≤ 1 în Ziua 14 sau înainte de aceasta, reluați  Polatuzumab Vedotin  la o doză redusă permanent  de 1,4 mg/kg.
+Dacă a avut loc o reducere anterioară a dozei la 1,4  mg/kg, întrerupeți  Polatuzumab Vedotin .
+Dacă nu s-a ameliorat la Grad ≤ 1 în Ziua 14 sau  înainte de aceasta, întrerupeți  Polatuzumab Vedotin .
+ | Gradul 4 | Întrerupeți administrarea  Polatuzumab Vedotin.
+Indicație | Severitatea mielosupresiei
+în Ziua 1 a oricărui ciclu | Modificarea dozei
+DLBCL netratat  anterior | Gradul 3–4
+Neutropenie | Întrerupeți întreg tratamentul până când ANC* se ameliorează la > 1000/µl.
+
+Dacă ANC se ameliorează la > 1000/µl în Ziua 7 sau  înainte de aceasta, reluați întregul tratament fără nicio  reducere a dozei.
+
+Dacă ANC se ameliorează la > 1000/µl după Ziua 7:
+reluați întregul tratament; luați în considerare o  reducere a dozei de ciclofosfamidă și/sau doxorubicină  cu 25-50%.
+dacă ciclofosfamida și/sau doxorubicina sunt deja  reduse cu 25%, luați în considerare reducerea unuia sau a ambelor medicamente la 50%.
+ | Gradul 3–4
+Trombocitopenie | Întrerupeți întreg tratamentul până când nivelul trombocitelor se ameliorează la > 75000/µl.
+Dacă nivelul trombocitelor se ameliorează la > 75000/µl în Ziua 7 sau înainte de aceasta, reluați întregul tratament fără nicio reducere a dozei.
+
+Dacă nivelul trombocitelor se ameliorează la > 75000/µl după Ziua 7:
+ reluați întregul tratament; luați în considerare o reducere a dozei de ciclofosfamidă și/sau doxorubicină cu 25-50%.
+ dacă ciclofosfamida și/sau doxorubicina sunt deja reduse cu 25%, luați în considerare reducerea unuia sau a ambelor medicamente la 50%.
+DLBCL R/R | Gradul 3-4   Neutropenie1 | Întrerupeți tot tratamentul până când valoarea ANC revine  la > 1000/µl.
+
+Dacă valoarea ANC revine la > 1000/µl în Ziua 7 sau  înainte de Ziua 7, reluați tot tratamentul fără nicio reducere suplimentară a dozelor.
+
+Dacă valoarea ANC revine la > 1000/µl după Ziua 7:
+reluați tot tratamentul cu o reducere a dozei de  bendamustină de la 90 mg/m2 la 70 mg/m2 sau de la  70 mg/m2 la 50 mg/m2.
+ | Gradul 3-4   Trombocitopenie1 | Întrerupeți tot tratamentul până când valoarea  trombocitelor revine la >75000/µl.
+
+Dacă valoarea trombocitelor revine la > 75000/µl µl în  Ziua 7 sau înainte de Ziua 7, reluați tot tratamentul fără  nicio reducere a dozelor.
+
+Dacă valoarea trombocitelor revine la > 75000/µl după  Ziua 7:
+reluați tot tratamentul cu o reducere a dozei de  bendamustină de la 90 mg/m2 la 70 mg/m2 sau de la 70 mg/m2 la 50 mg/m2.
+dacă a avut loc o reducere anterioară a dozei de  bendamustină la 50 mg/m2, întrerupeți tot tratamentul.
+Indicație | Severitatea IRR în Ziua 1
+a oricărui ciclu | Modificarea dozei
+DLBCL netratat  anterior  și
+DLBCL R/R | Gradul 1–3 IRR | Întrerupeți perfuzia de  Polatuzumab Vedotin  și administrați tratament de susținere.
+
+Pentru primul caz de wheezing grad 3, bronhospasm, sau  urticarie generalizată, întrerupeți permanent  Polatuzumab Vedotin .
+În cazul wheezing-ului sau urticariei de grad 2 recurente, sau pentru recurența oricăror simptome de grad 3, întrerupeți permanent  Polatuzumab Vedotin .
+În caz contrar, la rezolvarea completă a simptomelor,  perfuzia poate fi reluată la 50% din rata atinsă înainte de întrerupere. În absența reacțiilor asociate perfuziei, rata  perfuziei poate crescută în trepte cu câte 50 mg/oră la  fiecare 30 minute.
+Pentru următorul ciclu, administrați în perfuzie  Polatuzumab Vedotin timp de 90 minute. Dacă nu apar reacții legate de perfuzie, perfuziile ulterioare pot fi administrate timp de 30 minute. Administrați premedicație pentru toate ciclurile.
+DLBCL netratat  anterior  și
+DLBCL R/R | Gradul 4 IRR | Întrerupeți perfuzia de  Polatuzumab Vedotin  imediat. Administrați tratament de susținere.   Întrerupeți permanent  Polatuzumab Vedotin .
+Scorul global | Definiție | Cutanat | Ganglioni limfatici | Organe interne | Sânge
+RC | Dispariția	completă	a	tuturor dovezilor clinice de prezență a bolii | RC | Toate categoriile prezintă RC/NI | Toate categoriile prezintă RC/NI | Toate categoriile prezintă RC/NI
+RP | Regresia bolii măsurabile | RC | RC/NI  nu  este  prezent  în  toate  categoriile  și  nicio categorie nu prezintă BP | RC/NI  nu  este  prezent  în  toate  categoriile  și  nicio categorie nu prezintă BP | RC/NI  nu  este  prezent  în  toate  categoriile  și  nicio categorie nu prezintă BP
+RP | Regresia bolii măsurabile | RP | Nicio categorie nu prezintă BP, iar dacă la momentul inițial au fost implicate oricare dintre celelalte categorii, cel puțin una prezintă RC sau RP | Nicio categorie nu prezintă BP, iar dacă la momentul inițial au fost implicate oricare dintre celelalte categorii, cel puțin una prezintă RC sau RP | Nicio categorie nu prezintă BP, iar dacă la momentul inițial au fost implicate oricare dintre celelalte categorii, cel puțin una prezintă RC sau RP
+BS | Incapacitatea  de  a  obține  RC,  RP; fără BP | RP | Nicio categorie nu prezintă BP, iar dacă la momentul
+inițial au fost implicate oricare dintre celelalte categorii, niciuna nu prezintă RC sau RP | Nicio categorie nu prezintă BP, iar dacă la momentul
+inițial au fost implicate oricare dintre celelalte categorii, niciuna nu prezintă RC sau RP | Nicio categorie nu prezintă BP, iar dacă la momentul
+inițial au fost implicate oricare dintre celelalte categorii, niciuna nu prezintă RC sau RP
+BS | Incapacitatea  de  a  obține  RC,  RP; fără BP | BS | RC/NI,  RP,  BS  prezente  la  oricare  dintre  categorii  și nicio categorie nu prezintă BP | RC/NI,  RP,  BS  prezente  la  oricare  dintre  categorii  și nicio categorie nu prezintă BP | RC/NI,  RP,  BS  prezente  la  oricare  dintre  categorii  și nicio categorie nu prezintă BP
+BP | Boală progresivă | Progresia bolii în orice categorie | Progresia bolii în orice categorie | Progresia bolii în orice categorie | Progresia bolii în orice categorie
+Recidivă | Reapariția  bolii  la  pacienți  cu  RC anterior | Recidivă în orice categorie | Recidivă în orice categorie | Recidivă în orice categorie | Recidivă în orice categorie
+Criterii | Doza de Gilteritinib
+Sindrom de diferențiere | • Dacă se suspectează apariția sindromului de diferențiere, administrați corticosteroizi și inițiați monitorizare hemodinamică.
+• Întrerupeți tratamentul cu gilteritinib dacă semnele și/sau simptomele severe persistă mai mult de 48 de ore de la inițierea tratamentului cu corticosteroizi.
+• Reluați tratamentul cu gilteritinib la aceeași doză atunci când semnele și simptomele se ameliorează până la gradul 2a sau un grad inferior.
+Sindrom de encefalopatie posterioară reversibilă | • Opriți tratamentul cu gilteritinib.
+Interval QTcF >500 msec | • Întrerupeți tratamentul cu gilteritinib.
+• Reluați tratamentul cu gilteritinib la doză redusă (80 mg sau 120 mgb ) atunci când intervalul QTcF revine până în 30 msec față de nivelul de referință sau ≤480 msec.
+Interval QTcF crescut cu >30 msec la ECG în ziua 8 a ciclului 1 | •Confirmați cu ECG în ziua 9.
+• Dacă este confirmat, luați în considerare reducerea dozei la 80 mg.
+Pancreatită | •Întrerupeți tratamentul cu gilteritinib până la remedierea pancreatitei.
+•Reluați tratamentul cu gilteritinib la doză redusă (80 mg sau 120 mgb ).
+Alte efecte de toxicitate de gradul 3a sau mai ridicat, care se consideră asociate tratamentului. | •Întrerupeți tratamentul cu gilteritinib până la soluționarea toxicității sau ameliorarea acesteia până la gradul 1a.
+• Reluați tratamentul cu gilteritinib la doză redusă (80 mg sau 120 mgb ).
+Planificarea TCSH. | • Întrerupeți tratamentul cu gilteritinib cu o săptămână înaintea administrării regimului de condiționare pentru TCSH.
+• Tratamentul poate fi reluat la 30 de zile după TCSH, dacă transplantarea a avut succes, pacientul nu a avut boală acută grefă contra gazdă de gradul ≥2 și a fost în RCc.c
+Vârstă | Doza | Doza  zilnică totală
+2-5 ani  14 kg | 1 plic de Lumacaftor 100mg/Ivacaftor 125 mg la 12 ore | lumacaftor200mg/ivacaftor 250 mg
+2-5 ani  14 kg | 1 plic lumacaftor 150 mg/ivacaftor 188 mgla interval de 12 ore | lumacaftor 300mg/ivacaftor 376 mg
+Între 6 și 11 ani | 2 comprimate de lumacaftor 100 mg/ivacaftor 125 mg la interval de 12 ore | lumacaftor 400 mg/ ivacaftor 500 mg
+12 ani și peste | 2 comprimate de lumacaftor 200 mg/ivacaftor 125 mg la interval de 12 ore | lumacaftor 800 mg/ ivacaftor 500 mg
+Afectare hepatică | Ajustare doză | Doza zilnică totală
+Afectare ușoară (Child-Pugh Class A) | Nu necesită ajustarea dozei! | Pentru pacientii intre 2-5 ani si  14 kg lumacaftor200mg/ivacaftor 250 mg
+Pentru pacientii intre 2-5 ani  14 kg lumacaftor 300mg/ivacaftor 376 mg Pentru pacienții cu vârsta cuprinsă între 6 și 11 ani
+400 mg lumacaftor + 500 mg ivacaftor
+Pentru pacienții cu vârsta de 12 ani și peste
+ 800 mg lumacaftor + 500 mg ivacaftor
+Afectare moderată (Child-Pugh Class B) | Pentru pacientii intre 2-5 ani si  14 kg 1 plic de Lumacaftor 100mg/Ivacaftor 125 mg dimineata si un plic seara in zile alternative
+
+Pentru pacientii intre 2-5 ani  14 kg1 plic lumacaftor 150 mg/ivacaftor 188 mg dimineata si un plic seara in zile alternative
+
+Pentru pacienții cu vârsta cuprinsă între 6 și 11 ani
+2 comprimate de 100 mg/125 mg dimineața + 1 comprimat de 100 mg/125 mg seara (12 ore mai târziu)
+
+Pentru pacienții cu vârsta de 12 ani și peste
+2 comprimate de 200 mg/125 mg dimineața + 1 comprimat de 200 mg/125 mg seara (12 ore mai târziu) | Pentru pacienții cu vârsta cuprinsă între 6 și 11 ani
+300 mg lumacaftor + 375 mg ivacaftor
+
+Pentru pacienții cu vârsta de 12 ani și peste
+600 mg lumacaftor + 375 mg ivacaftor
+Afectară hepatică severă (Child-Pugh clasa C) | Pentru pacientii intre 2-5 ani si  14 kg 1 plic de Lumacaftor 100mg/Ivacaftor 125 mg dimineata
+
+Pentru pacientii intre 2-5 ani  14 kg1 plic lumacaftor 150 mg/ivacaftor 188 mg dimineata
+
+Pentru pacienții cu vârsta cuprinsă între 6 și 11 ani
+1 comprimat de 100 mg/125 mg dimineața + 1 comprimat de 100 mg/125 mg seara (12 ore mai târziu) sau o doză zilnică redusă
+
+Pentru pacienții cu vârsta de 12 ani și peste
+1 comprimat de 200 mg/125 mg dimineața + 1 comprimat de 200 mg/125 mg seara (12 ore mai târziu) sau o doză zilnică redusă | Pentru pacienții cu vârsta cuprinsă între 6 și 11 ani
+200 mg lumacaftor + 250 mg ivacaftor sau o doză zilnică redusă
+
+Pentru pacienții cu vârsta de 12 ani și peste 400 mg lumacaftor + 250 mg ivacaftor sau o doză zilnică redusă
+Medicament | Efect asupra LUM/IVA  si respectiv a medicamentului | Recomandare
+montelukast | ↔ LUM, IVA
+↓ montelukast | Nu se recomandă ajustarea dozei de montelukast, monitorizarea clinică la administrarea concomitentă
+lumacaftor/ivacaftor poate reduce eficacitatea montelukast.
+fexofenadină | ↔ LUM, IVA
+↑ sau ↓ fexofenadină | Poate fi necesară ajustarea dozei de fexofenadină pentru a obține efectul clinic dorit. Lumacaftor/ivacaftor poate modifica expunerea la fexofenadină.
+eritromicină | ↔ LUM
+↑ IVA
+↓ eritromicină | Alternativă la eritromicină = azitromicina. Lumacaftor/ivacaftor  poate reduce eficacitatea eritromicinei
+claritromicină, telitromicină | ↔ LUM
+↑ IVA
+telitromicină ↓ claritromicină ↓ | Nu se recomandă ajustarea dozei de LUM/IVA atunci când este inițiat tratamentul cu claritromicină sau telitromicină la pacienții la care se administrează în momentul respectiv lumacaftor/ivacaftor.
+Doza de LUM/IVA trebuie redusă la un comprimat pe zi în prima săptămână de tratament atunci când tratamentul cu LUM/IVA este inițiat la pacienții la care se administrează în momentul respectiv aceste antibiotice.
+Alternativă = azitromicină.
+LUM/IVA  poate reduce eficacitatea acestor antibiotice
+carbamazepină, fenobarbital, fenitoină | ↔ LUM
+↓ IVA
+↓ carbamazepină, fenobarbital, fenitoină | Utilizarea concomitentă de LUM/IVA cu aceste anticonvulsivante nu este recomandată.
+itraconazol, ketoconazol, posaconazol, voriconazol | ↔ LUM
+↑ IVA
+ ↓ itraconazol, ketoconazol ↓ posaconazol | Nu se recomandă ajustarea dozei de LUM/IVA atunci când este inițiat tratamentul cu aceste antifungice la pacienții la care se administrează în momentul respectiv LUM/IVA.
+Doza de  LUM/IVA trebuie redusă la un comprimat pe zi în prima săptămână de tratament atunci când tratamentul este inițiat la pacienții la care se administrează în momentul respectiv aceste antifungice.
+Utilizarea concomitentă de LUM/IVA cu aceste antifungice nu este recomandată. Pacienții trebuie monitorizați atent pentru depistarea eventualelor infecții fungice invazive.
+LUM/IVA poate reduce eficacitatea acestor antifungice
+fluconazol | ↔ LUM
+↑ IVA
+↓ fluconazol | Nu se recomandă ajustarea dozei de  LUM/IVA atunci când se administrează concomitent cu fluconazol.
+Poate fi necesară o doză mai mare de fluconazol pentru a obține efectul clinic dorit, LUM/IVA poate reduce eficacitatea fluconazol
+ibuprofen | ↔ LUM, IVA
+↓ ibuprofen | Poate fi necesară o doză mai mare de ibuprofen pentru a obține efectul clinic dorit, LUM/IVA poate reduce eficiența ibuprofen
+rifabutină, rifampicină, rifapentină | ↔ LUM
+↓ IVA
+↓ rifabutină
+↔ rifampicină, rifapentină | Utilizarea concomitentă nu este recomandată.
+Expunerea la ivacaftor va fi scăzută, ceea ce poate reduce eficacitatea LUM/IVA.
+Poate fi necesară o doză mai mare de rifabutină pentru a obține efectul clinic dorit, LUM/IVA  poate reduce eficacitatea rifabutinei.
+midazolam, triazolam | ↔ LUM, IVA
+↓ midazolam, triazolam | Utilizarea concomitentă LUM/IVA  nu este recomandată, reduce eficacitatea acestora
+Contraceptive hormonale: etinil estradiol, noretindronă și alți progestogeni | ↓ etinil estradiol, noretindronă și alți progestogeni | Contraceptivele hormonale nu trebuie luate în considerare ca metodă de contracepție eficace atunci când sunt administrate concomitent cu LUM/IVA, deoarece le poate reduce eficacitatea.
+ciclosporină, everolimus, sirolimus, tacrolimus (utilizate după transplantul de organe) | ↔ LUM, IVA
+↓ ciclosporină, everolimus, sirolimus, tacrolimus | Utilizarea concomitentă nu este recomandată. LUM/IVA  reduce eficacitatea acestora.
+Utilizarea de lumacaftor/ivacaftor la pacienții cu transplant de organe nu a fost studiată
+Inhibitori ai pompei de protoni: esomeprazol, lansoprazol, omeprazol | ↔ LUM, IVA
+↓ esomeprazol, lansoprazol, omeprazol | Poate fi necesară o doză mai mare de inhibitori ai pompei de protoni pentru a obține efectul clinic dorit. LUM/IVA
+ poate reduce eficacitatea acestora.
+Remedii din plante: sunătoare (Hypericum perforatum) | ↔ LUM ↓ IVA | Utilizarea concomitentă nu este recomandată.
+digoxină | ↔ LUM, IVA
+↑  sau ↓ digoxină | Concentrația serică a digoxinei trebuie monitorizată și doza trebuie stabilită treptat pentru a obține efectul clinic dorit.
+dabigatran | ↔ LUM, IVA
+↑ sau ↓ dabigatran | Monitorizarea clinică adecvată în cazul administrării concomitente, poate fi necesară ajustarea dozei de dabigatran
+Warfarină și derivați | ↔ LUM, IVA
+↑  sau ↓ warfarină | Monitorizare INR pentru evaluarea efectului warfarinei
+Antidepresive: citalopram, escitalopram, sertralină | ↔ LUM, IVA
+↓ citalopram, escitalopram, sertralină | Poate fi necesară o doză mai mare de antidepresive pentru a obține efectul clinic dorit. LUM/IVA  poate reduce eficacitatea acestora.
+bupropionă | ↔ LUM, IVA
+↓ bupropionă | Poate fi necesară o doză mai mare de bupropionă pentru a obține efectul clinic dorit. LUM/IVA  poate reduce eficacitatea acesteia.
+Corticosteroizi sistemici: metilprednisolon, prednison | ↔ LUM, IVA
+↓ metilprednisolon, prednison | Poate fi necesară o doză mai mare de corticosteroizi sistemici pentru a obține efectul clinic dorit. LUM/IVA  poate reduce eficacitatea acestora.
+Blocante ale receptorilor H2: ranitidină | ↔ LUM, IVA
+↑ sau ↓ ranitidină | Poate fi necesară ajustarea dozei de ranitidină pentru a obține efectul clinic dorit.
+Hipoglicemiante orale: repaglinidă | ↔ LUM, IVA
+↓ repaglinidă | Poate fi necesară o doză mai mare de repaglinidă pentru a obține efectul clinic dorit. LUM/IVA  poate reduce eficacitatea acesteia.
+Nume |
+Prenume |
+Data nașterii
+ZZ/ LL/ AAAA |
+Data evaluării
+ZZ/ LL/ AAAA |
+Adresa |
+Asigurat la CAS |
+Telefon, email |
+Nume, prenume mama/ tata/ tutore legal |
+Diagnostic complet |
+Diagnostic genetic |
+Testul sudorii
+(valoare  / tip de aparat) - opțional |
+Antecedente personale fiziologice |
+Antecedente personale patologice semnificative
+(afectare pulmonară,   digestivă, complicații) |
+Date clinice: Greutate, talie, examen clinic general - elemente patologice |
+Date paraclinice | obligatorii la inițierea tratamentului
+Test genetic |
+TGO |
+TGP |
+Bilirubină |
+Uree serică |
+Creatinină serică |
+Ecografie hepatică |
+Spirometrie ( la varsta  6 ani) |
+Data efectuării |
+FVC |
+FEV1 |
+Tensiune arterială |
+Examen oftalmologic |
+Test de sarcină (daca e cazul) |
+Nume |
+Prenume |
+Data nașterii (ZZ/ LL/ AAAA) |
+Data evaluării(ZZ/ LL/ AAAA) |
+Adresă |
+Asigurat la CAS |
+Telefon, email |
+Nume, prenume mamă/tată/tutore legal |
+Diagnostic complet |
+Date clinice: Greutate, Talie,
+Examen clinic general -elemente patologice |
+Date paraclinice |
+TGO |
+TGP |
+Bilirubină |
+Uree serică |
+Creatinină serică |
+Ecografie hepatică# |
+Tensiune arteriala |
+Spirometrie ( la varsta  6 ani) |
+Data efectuării |
+FVC |
+FEV1( la varsta de peste 6 ani) |
+Examen oftalmologic * |
+Medicament | Indicație | Da
+Rifampicină | tratamentul tuberculozei |
+Fenobarbital, Carbamazepină,
+Fenitoină | inducerea somnului,
+prevenirea convulsiilor |
+Ketoconazol,
+Itraconazol,
+Posaconazol,
+Fluconazol
+Voriconazol, | tratamentul infecțiilor fungice |
+Claritromicină
+Eritromicină | tratamentul infecțiilor bacteriene |
+Digoxină | tratamentul sau prevenția insuficienței cardiace |
+Ciclosporină,
+Everolimus,
+Sirolimus,
+Tacrolimus | tratament imunosupresiv specific post transplant de organ, anti-tumorale |
+Corticoizi doze mari | tratamentul afecțiunilor inflamatorii asociate |
+Warfarină și derivați | profilaxia embolismului, tulburări de ritm cardiac |
+Severitatea Hemofiliei (nivelul factorului VIII în procente) | Caracteristicile sângerării
+Severă (F VIII < 1%) | Hemoragii frecvente, spontane mai ales la nivelul articulațiilor și mușchilor, în general fără o cauză precizată
+Moderată (F VIII 1 - 5%) | Rar hemoragiile pot apărea spontan; hemoragii grave prelungite în urma traumatismelor sau intervențiilor chirurgicale
+Ușoară (F VIII 5- 40%) | Hemoragii severe și prelungite în cazul traumatismelor majore sau intervențiilor chirurgicale
+Localizarea hemoragiilor | Frecvența (%)
+Hemartroze | 70 - 80
+Hemoragii musculare | 10 - 20
+Alte hemoragii majore | 5 - 10
+Hemoragii SNC | < 5
+Hemoragii severe | Hemoragii care pun viața în pericol
+Articulații | Cerebrale (SNC)
+Musculatura și țesuturile moi | Gastrointestinale (GI)
+Bucale/nazale/intestinale | Gât/faringe
+Hematurie | Traumatisme severe
+Diagnostic posibil | TP | TPTA | Timp de sângerare | Nr. Trombocite
+Normal | Normal | Normal | Normal | Normal
+Hemofilie A sau B | Normal | Prelungit | Normal | Normal
+Boala von Willebrand | Normal | Normal sau Prelungit | Normal sau Prelungit | Normal sau Redus
+Defect de trombocite | Normal | Normal | Normal sau Prelungit | Normal sau Redus
+Intensitatea hemoragiei | Nivelul necesar de activitate al
+factorului VIII (UI/dl sau % din cantitatea normală)a | Frecvența
+dozelor (ore) | Durata terapiei
+Ușoară
+Hemartroză incipientă,
+sângerări musculare
+ușoare sau sângerări
+ușoare la nivelul cavității bucale | 20-40 | 12-24 | Până la eliminarea hemoragiei
+Moderată
+Hemartroză extinsă,
+sângerări musculare,
+hematom | 30-60 | 12-24 | Până la eliminarea hemoragiei
+Hemoragii severe sau
+amenințătoare de viață | 60-100 | 8-24 | Până la eliminarea riscului
+Tipul procedurii chirurgicale | Nivelul necesar
+de activitate al
+factorului VIII
+(%) (UI/dl)a | Frecvența dozelor (ore) | Durata terapiei
+Intervenții
+chirurgicale
+minore
+Inclusiv extracții
+dentare | 30-60 | Cu o oră înainte
+de intervenția chirurgicală
+Repetați după 24 de ore dacă este necesar | O doză unică sau repetați injecția
+la fiecare 24 de ore timp de cel puțin o zi până la vindecare
+Intervenții
+chirurgicale
+majore | 80-100
+(pre- și postoperator) | Cu o oră înainte de intervenția chirurgicală pentru a avea activitatea factorului VIII în intervalul țintă
+
+Repetați la fiecare 8 până la 24 de ore pentru a menține activitatea factorului VIII în intervalul țintă | Repetați injecția la fiecare 8 până la 24 de ore, în funcție de necesități, până la vindecarea plăgii
+
+Luați în considerare continuarea terapiei timp de încă 7 zile pentru a menține activitatea factorului VIII între 30% și 60% (UI/dl)
+Reacții adverse după administrarea precedentă a eribulin | Doza recomandată de eribulin
+Hematologice: | 0,97 mg/m2
+NAN < 0,5 x 109/l, care durează mai mult de 7 zile | 0,97 mg/m2
+NAN < 1 x 109/l, neutropenie complicată cu febră sau infecție | 0,97 mg/m2
+Număr de trombocite < 25 x 109/l, trombocitopenie | 0,97 mg/m2
+Număr de trombocite < 50 x 109/l, trombocitopenie cu complicații hemoragice sau care necesită transfuzii de sânge sau de masă trombocitară | 0,97 mg/m2
+Nehematologice: | 0,97 mg/m2
+Orice reacție adversă de gradul 3 sau 4 în ciclul precedent | 0,97 mg/m2
+Reapariția oricărei reacții adverse hematologice sau nehematologice, după cum se specifică mai sus |
+În pofida reducerii dozei la 0,97 mg/m2 | 0,62 mg/m2
+În pofida reducerii dozei la 0,62 mg/m2 | Se ia în considerare întreruperea administrării
+Vizita | Adulți < 65 ani | Adulți ≥ 65 ani
+Etapa de inducție | Etapa de inducție | Etapa de inducție
+Săptămâna 1 |  |
+Inițiere - Vizita 1 | 56mg | 28mg
+Vizita 2 | 56mg sau 84mg | 28mg, 56mg sau 84mg
+Săptămâna 2 |  |
+Vizitele 3 și 4 | 56mg sau 84mg | 28mg, 56mg sau 84mg
+Săptămâna 3 |  |
+Vizitele 5 și 6 | 56mg sau 84mg | 28mg, 56mg sau 84mg
+Săptămâna 4 |  |
+Vizitele 7 și 8 | 56mg sau 84mg | 28mg, 56mg sau 84mg
+Etapa de întreținere | Etapa de întreținere | Etapa de întreținere
+Săptămâna 5 |  |
+Vizita 9 | 56mg sau 84mg | 28mg, 56mg sau 84mg
+Săptămâna 6 |  |
+Vizita 10 | 56mg sau 84mg | 28mg, 56mg sau 84mg
+Săptămâna 7 |  |
+Vizita 11 | 56mg sau 84mg | 28mg, 56mg sau 84mg
+Săptămâna 8 |  |
+Vizita 12 | 56mg sau 84mg | 28mg, 56mg sau 84mg
+Din săptămâna 9 |  |
+Vizita 13 și în continuare,
+la 1 sau 2 săptămâni | 56mg sau 84mg | 28mg, 56mg sau 84mg
+NR. | Cod Protocol | DENUMIRE
+27 | D11AH-L04AA | DERMATITA ATOPICĂ - AGENȚI BIOLOGICI: DUPILUMABUM**1Ω ȘI INHIBITORI DE JAK: BARICITINIBUM**1Ω
+medicament | F0-F2, gen.1b | F3, gen. 1b | F0-F2, gen. 1a | F3, gen. 1a | F0-F3, gen. 2-3 | F0-F3, gen.4 | F0-F3, gen.5-6
+Harvoni-genotip specific | 8 | 8 | 8 | 8 | -------- | 12 | 12
+Epclusa-pangenotipic | 12 | 12 | 12 | 12 | 12 | 12 | 12
+Maviret-pangenotipic | 8 | 8 | 8 | 8 | 8 | 8 | 8
+medicament | F0-F2, gen. 1b | F3, gen. 1b | F0-F2, gen. 1a | F3,gen. 1a | F0-F3, gen. 2-3 | F0-F3, gen.4 | F0-F3, gen.5-6
+Harvoni-genotip specific | 12 | 12 | 12 | 12 | -------- | 12 | 12
+Epclusa-pangenotipic | 12 | 12 | 12 | 12 | 12 | 12 | 12
+Maviret-pangenotipic | 8 | 8 | 8 | 8 | 8/16* | 8 | 8
+medicament | Gen. 1b | Gen.1a | Gen.2-3 | Gen.4 | Gen.5-6
+Harvoni-genotip specific** | 12 | 12 | 24* | 12 | 12
+Epclusa-pangenotipic | 12 | 12 | 12*** | 12 | 12
+Maviret-pangenotipic | 8 | 8 | 8 | 8 | 8
+medicament | Gen. 1b | Gen.1a | Gen.2-3 | Gen.4 | Gen.5-6
+Harvoni-genotip specific** | 12 | 12 | 24* | 12 | 12
+Epclusa-pangenotipic | 12 | 12 | 12**** | 12 | 12
+Maviret-pangenotipic | 12 | 12 | 12/16*** | 12 | 12
+Greutatea pacientului | Doza recomandată
+≤ 55 kg | 260 mg - 2 flacoane
+> 55 kg până la ≤ 85 kg | 390 mg - 3 flacoane
+> 85 kg | mg - 4 flacoane
+Tabel 1. Criteriile de clasificare a poliartritei reumatoide conform EULAR/ACR 2010 | Tabel 1. Criteriile de clasificare a poliartritei reumatoide conform EULAR/ACR 2010
+A. Afectarea articulară1) | Puncte
+1 articulație mare2) | 0
+2 - 10 articulații mari | 1
+1 - 3 articulații mici (cu sau fără afectare a articulațiilor mari)3) | 2
+4 - 10 articulații mici (cu sau fără afectare a articulațiilor mari) | 3
+> 10 articulații (cu cel puțin o articulație mică)4) | 5
+B. Serologie (cel puțin un test necesar pentru diagnostic)5) |
+FR și anticorpi anti-CCP negativi | 0
+FR sau anticorpi anti-CCP pozitivi în titru mic | 2
+FR sau anticorpi anti-CCP pozitivi în titru mare | 3
+C. Reactanți de fază acută (cel puțin un test necesar pentru diagnostic)6) |
+PCR și VSH normale | 0
+PCR sau VSH crescute | 1
+D. Durata simptomelor7) |
+< 6 săptămâni | 0
+> 6 săptămâni | 1
+Note: | Note:
+afectarea articulară se referă la orice articulație dureroasă sau tumefiată la examinare, care pot fi confirmate de evidențierea imagistică a sinovitei. Primele articulații carpo-metacarpiene, primele articulații metatarsofalangiene și articulațiile interfalangiene distale nu se evaluează. | afectarea articulară se referă la orice articulație dureroasă sau tumefiată la examinare, care pot fi confirmate de evidențierea imagistică a sinovitei. Primele articulații carpo-metacarpiene, primele articulații metatarsofalangiene și articulațiile interfalangiene distale nu se evaluează.
+articulații mari sunt: umerii, coatele, șoldurile, genunchii, articulațiile tibio-tarsiene. | articulații mari sunt: umerii, coatele, șoldurile, genunchii, articulațiile tibio-tarsiene.
+articulații mici sunt: metacarpofalangiene, interfalangiene proximale, metatarsofalangiene, interfalangiană a policelui, radiocubitocarpiene. | articulații mici sunt: metacarpofalangiene, interfalangiene proximale, metatarsofalangiene, interfalangiană a policelui, radiocubitocarpiene.
+se referă la orice combinație de articulații mari cu cel puțin o articulație mică, inclusiv articulații nespecificate anterior (de exemplu temporomandibulare, acromioclaviculare, sternoclaviculare etc.). | se referă la orice combinație de articulații mari cu cel puțin o articulație mică, inclusiv articulații nespecificate anterior (de exemplu temporomandibulare, acromioclaviculare, sternoclaviculare etc.).
+valori negative se referă la valori în unități internaționale mai mici sau egale cu valoarea superioară a normalului (VSN); titrul mic se referă la valori mai mari decât VSN dar mai mici sau egale cu de 3 ori VSN a laboratorului; titrul mare se referă la valori mai mari de 3 ori VSN. În cazurile în care testarea FR este disponibilă numai ca test calitativ (rezultat cu FR negativ sau pozitiv), un rezultat pozitiv va fi catalogat drept FR în titru mic. | valori negative se referă la valori în unități internaționale mai mici sau egale cu valoarea superioară a normalului (VSN); titrul mic se referă la valori mai mari decât VSN dar mai mici sau egale cu de 3 ori VSN a laboratorului; titrul mare se referă la valori mai mari de 3 ori VSN. În cazurile în care testarea FR este disponibilă numai ca test calitativ (rezultat cu FR negativ sau pozitiv), un rezultat pozitiv va fi catalogat drept FR în titru mic.
+valorile normale sau crescute se determină conform standardelor laboratorului local. | valorile normale sau crescute se determină conform standardelor laboratorului local.
+durata simptomelor se referă la auto-evaluarea pacientului asupra perioadei semnelor de sinovită (durere, tumefacție, sensibilitate) la articulațiile afectate clinic la momentul evaluării, indiferent de tratament. | durata simptomelor se referă la auto-evaluarea pacientului asupra perioadei semnelor de sinovită (durere, tumefacție, sensibilitate) la articulațiile afectate clinic la momentul evaluării, indiferent de tratament.
+Abrevieri: FR - factor reumatoid, CCP - cyclic citrullinated peptides, PR - poliartrită reumatoidă, PCR - proteina C reactivă, RCC - radiocubitocarpiene, VSH - viteza de sedimentare a hematiilor. | Abrevieri: FR - factor reumatoid, CCP - cyclic citrullinated peptides, PR - poliartrită reumatoidă, PCR - proteina C reactivă, RCC - radiocubitocarpiene, VSH - viteza de sedimentare a hematiilor.
+Tabel 2. Criteriile EULAR de răspuns la tratament a PR folosind DAS28 | Tabel 2. Criteriile EULAR de răspuns la tratament a PR folosind DAS28 | Tabel 2. Criteriile EULAR de răspuns la tratament a PR folosind DAS28 | Tabel 2. Criteriile EULAR de răspuns la tratament a PR folosind DAS28
+ |  |  |
+ | scăderea DAS28 | scăderea DAS28 | scăderea DAS28
+nivel DAS atins | > 1,2 | 0,6 - 1,2 | < 0,6
+DAS28 < 3,2 | răspuns bun | răspuns moderat | fără răspuns
+3,2 ≤ DAS28 ≤ 5,1 | răspuns moderat | răspuns moderat | fără răspuns
+DAS28 > 5,1 | răspuns moderat | fără răspuns | fără răspuns
+Greutate corporală a pacientului | Doză inițială | Doze ulterioare (administrate la interval de 2 săptămâni)
+sub 60 kg | 400 mg (două injecții de 200 mg) | 200 mg
+60 kg sau peste | 600 mg (două injecții de 300 mg) | 300 mg
+Greutate corporală a pacientului | Doză inițială | Doze ulterioare
+15 kg până la mai puțin de 60 kg | 300 mg (o injecție de 300 mg) în Ziua 1, urmată de o doză de 300 mg în Ziua 15 | 300 mg la interval de 4 săptămâni (Q4W)*, începând după 4 săptămâni de la doza din Ziua 15
+60 kg sau peste | 600 mg (două injecții de 300 mg) | 300 mg la interval de 2 săptămâni (Q2W)
+Severitatea bolii | SCORAD și DLQI/cDLQI
+Stare generală (clinica de simptomatologie și examen) |
+Infecție TBC* | - testul cutanat tuberculinic sau
+- IGRA
+Teste serologice | - HLG, VSH
+ | - creatinina, uree , , electroliti (Na+,K+),  TGO (ASAT), TGP (ALAT), GGT, IgE, LDH (opțional)
+Urina | analiza urinii
+Radiologie | Radiografie cardio-pulmonară
+Alte date de laborator semnificative | - dupa caz
+Severitatea bolii | SCORAD și DLQI/cDLQI reduse
+Stare generală (clinica de simptomatologie și examen) |
+Teste serologice | - HLG, VSH
+ | - creatinina, uree, electroliti (Na+, K+),  TGO (ASAT), TGP (ALAT), GGT,IgE , LDH (opțional)
+Urina | -analiza urinii
+Alte data de laborator semnificativ | - dupa caz
+Severitatea bolii | SCORAD redus cu 50% fata de momentul initerii și DLQI/cDLQI (scăderea scorului cu minim 5 puncte fata de momentul initierii)
+Teste serologice | HLG, VSH
+ | creatinina, uree, electroliti (Na+, K+),  TGO (ASAT), TGP (ALAT), GGT,IgE , LDH (opțional)
+Urina | Analiza urinii
+Alte data de laborator semnificativ | dupa caz
+ |  | Monitorizare
+Severitatea bolii | -SCORAD redus cu 50% fata de scorul inițial | la fiecare 6 luni
+ | - DLQI/cDLQI (menținerea reducerii scorului cu minim 5 puncte fata de scorul inițial). |
+Stare generală (clinica de simptomatologie și examen) | Manifestari clinice (simptome și/sau semne) sugestive pentru: infecții , malignați etc. | la fiecare 6 luni
+Infecție TBC * | - testul cutanat tuberculic
+sau
+
+- IGRA | Dupa primele 12 luni pentru pacienții care nu au avut chimioprofilaxie în acest interval este obligatorie testarea cutanata sau IGRA. Incepand cu al doilea an si pentru acestia se solicita doar avizul medicului pneumolog
+Pentru ceilalți pacienți doar evaluarea anuală a medicului pneumo-ftiziolog
+Daca se considera necesar de catre medicul pneumo-ftiziolog sau dermatolog se efectueaza din nou analizele (test cutanat sau IGRA).
+Teste serologice | HLG, VSH | la fiecare 6 luni
+ | creatinina, uree, electroliti (Na+, K+),  TGO (ASAT), TGP (ALAT), GGT,IgE , LDH (opțional) | la fiecare 6 luni
+Urina | analiza urinii | la fiecare 6 luni
+Radiologie | radiografie cardio-pulmonară | Anual
+Alte data de laborator semnificativ | dupa caz | dupa caz
+Unitatea sanitară: | Data:
+Nume pacient:
+    Semnatura pacient: | Diagnostic:
+Nume si parafa medic:
+Adresa: | Scor:
+Unitatea sanitară: |
+Data: | Scor:
+Nume:
+    Nume parinti: | Vârsta:
+Nume si parafa medic
+Adresa: | Diagnostic:
+Data | Semnătura părinților sau aparținătorilor legali
+ | ............................................................................
+ | ............................................................................
+ | Semnătura pacientului (copil peste vârsta de 14 ani) (facultativ) ............................................................................
+Nume ................................... | Prenume .......................................
+Data nașterii: |¯¯|¯¯|¯¯|¯¯|¯¯|¯¯|¯¯|¯¯| | CNP: |¯¯|¯¯|¯¯|¯¯|¯¯|¯¯|¯¯|¯¯|¯¯|¯¯|¯¯|¯¯|¯¯|
+ | DA/NU | Data diagnostic (lună/an) | Tratament actual
+Infecții acute |  |  |
+Infecții recidivante/persistente |  |  |
+TBC - dacă nu face tratament actual, data ultimului tratament și data ultimei evaluări ftiziologice |  |  |
+HTA |  |  |
+Boala ischemică coronariană/IM |  |  |
+ICC |  |  |
+Tromboflebită profundă |  |  |
+AVC |  |  |
+Epilepsie |  |  |
+Astm bronșic |  |  |
+BPOC |  |  |
+Ulcer gastro-duodenal |  |  |
+Boli hepatice |  |  |
+Boli renale |  |  |
+Diabet zaharat - tratament cu: |  |  |
+dietă |¯| oral |¯| insulină |¯| |  |  |
+Afecțiuni sanguine - descrieți |  |  |
+Reacții (boli) alergice |  |  |
+locale |¯| - generale |¯| |  |  |
+Afecțiuni cutanate |  |  |
+Neoplasme - descrieți localizarea |  |  |
+Spitalizări |  |  |
+Intervenții chirurgicale |  |  |
+Alte boli semnificative |  |  |
+Medicament | Doză | Data           începerii | Data opririi | Observatii (motivul intreruperii, reactii adverse*, ineficienta etc. )
+ |  |  |  |
+ |  |  |  |
+*) termenele de "reacții adverse" se refera la reacții adverse majore, de principiu manifestarile digestive de tip dispeptic nu se incadreaza la aceasta categorie și nu justifica întreruperea/modificarea terapiei. | *) termenele de "reacții adverse" se refera la reacții adverse majore, de principiu manifestarile digestive de tip dispeptic nu se incadreaza la aceasta categorie și nu justifica întreruperea/modificarea terapiei. | *) termenele de "reacții adverse" se refera la reacții adverse majore, de principiu manifestarile digestive de tip dispeptic nu se incadreaza la aceasta categorie și nu justifica întreruperea/modificarea terapiei. | *) termenele de "reacții adverse" se refera la reacții adverse majore, de principiu manifestarile digestive de tip dispeptic nu se incadreaza la aceasta categorie și nu justifica întreruperea/modificarea terapiei. | *) termenele de "reacții adverse" se refera la reacții adverse majore, de principiu manifestarile digestive de tip dispeptic nu se incadreaza la aceasta categorie și nu justifica întreruperea/modificarea terapiei.
+Medicament | Doza actuală | Din data de: | Puteți confirma că pacientul folosește continuu această doză - DA/NU
+ |  |  |
+ |  |  |
+Medicament | Doză | Date începerii | Observatii (motivul introducerii)
+ |  |  |
+ |  |  |
+ | La inițierea terapiei | Precedent | Actual
+Scor SCORAD |  |  |
+Scor DLQI (se vor anexa formulare semnate de pacient si semnate si parafate de medicul dermatolog curant) |  |  |
+Analiza | Data | Rezultat | Valori normale
+VSH (la o oră) |  |  |
+Hemograma: |  |  |
+Hb |  |  |
+Hematocrit |  |  |
+Număr hematii |  |  |
+Număr leucocite |  |  |
+Număr neutrofile |  |  |
+Număr bazofile |  |  |
+Număr eozinofile |  |  |
+Număr monocite |  |  |
+Număr limfocite |  |  |
+Număr trombocite |  |  |
+Altele modificate |  |  |
+Creatinină |  |  |
+Uree |  |  |
+Electroliti (Na+, K+) |  |  |
+TGO (ASAT) |  |  |
+TGP (ALAT) |  |  |
+GGT |  |  |
+IgE |  |  |
+LDH |  |  |
+Sumar de urină |  |  |
+Radiografie pulmonară |  |  |
+Testul cutanat tuberculinic sau |  |  |
+IGRA |  |  |
+Alte date de laborator semnificative |  |  |
+ | interval | administrare a datelor | doza | mod administrare
+1 | Vizita înițială | zz/ll/a |  |
+2 | Vizita de evaluare | zz/ll/a |  |
+Nume ................................... | Prenume .......................................
+Data nașterii: |¯¯|¯¯|¯¯|¯¯|¯¯|¯¯|¯¯|¯¯| | CNP: |¯¯|¯¯|¯¯|¯¯|¯¯|¯¯|¯¯|¯¯|¯¯|¯¯|¯¯|¯¯|¯¯|
+ | DA/NU | Data diagnostic (lună/an) | Tratament actual
+Infecții acute |  |  |
+Infecții recidivante/persistente |  |  |
+TBC - dacă nu face tratament actual, data ultimului tratament și data ultimei evaluări ftiziologice |  |  |
+HTA |  |  |
+Boala ischemică coronariană/I |  |  |
+ICC |  |  |
+Tromboflebită profundă |  |  |
+AVC |  |  |
+Epilepsie |  |  |
+Astm bronșic |  |  |
+BPOC |  |  |
+Ulcer gastro-duodenal |  |  |
+Boli hepatice |  |  |
+Boli renale |  |  |
+Diabet zaharat - tratament cu: |  |  |
+dietă |¯| oral |¯| insulină |¯| |  |  |
+Afecțiuni sanguine - descrieți |  |  |
+Reacții (boli) alergice |  |  |
+locale |¯| - generale |¯| |  |  |
+Afecțiuni cutanate |  |  |
+Neoplasme - descrieți localizarea |  |  |
+Spitalizări |  |  |
+Intervenții chirurgicale |  |  |
+Alte boli semnificative |  |  |
+Medicament | Doză | Data           începerii | Data opririi | Observatii (motivul intreruperii, reactii adverse*, ineficienta etc. )
+ |  |  |  |
+ |  |  |  |
+*) termenele de "reacții adverse" se refera la reacții adverse majore, de principiu manifestarile digestive de tip dispeptic nu se incadreaza la aceasta categorie și nu justifica întreruperea/modificarea terapiei. | *) termenele de "reacții adverse" se refera la reacții adverse majore, de principiu manifestarile digestive de tip dispeptic nu se incadreaza la aceasta categorie și nu justifica întreruperea/modificarea terapiei. | *) termenele de "reacții adverse" se refera la reacții adverse majore, de principiu manifestarile digestive de tip dispeptic nu se incadreaza la aceasta categorie și nu justifica întreruperea/modificarea terapiei. | *) termenele de "reacții adverse" se refera la reacții adverse majore, de principiu manifestarile digestive de tip dispeptic nu se incadreaza la aceasta categorie și nu justifica întreruperea/modificarea terapiei. | *) termenele de "reacții adverse" se refera la reacții adverse majore, de principiu manifestarile digestive de tip dispeptic nu se incadreaza la aceasta categorie și nu justifica întreruperea/modificarea terapiei.
+Medicament | Doza actuală | Din data de: | Puteți confirma că pacientul folosește continuu această doză - DA/NU
+ |  |  |
+ |  |  |
+Medicament | Doză | Date începerii | Observatii (motivul introducerii)
+ |  |  |
+ |  |  |
+ | La inițierea terapiei | Precedent | Actual
+Scor SCORAD |  |  |
+Scor cDLQI (se vor anexa formulare semnate de parinte/tutore legal si semnate si parafate de medicul dermatolog curant) |  |  |
+Analiza | Data | Rezultat | Valori normale
+VSH (la o oră) |  |  |
+Hemograma: |  |  |
+Hb |  |  |
+Hematocrit |  |  |
+Număr hematii |  |  |
+Număr leucocite |  |  |
+Număr neutrofile |  |  |
+Număr bazofile |  |  |
+Număr eozinofile |  |  |
+Număr monocite |  |  |
+Număr limfocite |  |  |
+Număr trombocite |  |  |
+Altele modificate |  |  |
+Creatinină |  |  |
+Uree |  |  |
+Electroliti (Na+, K+) |  |  |
+TGO (ASAT) |  |  |
+TGP (ALAT) |  |  |
+GGT |  |  |
+IgE |  |  |
+LDH |  |  |
+Sumar de urină |  |  |
+Radiografie pulmonară |  |  |
+Testul cutanat tuberculinic sau |  |  |
+IGRA |  |  |
+Alte date de laborator semnificative |  |  |
+ | Interval | administrare a datelor | doza | mod administrare
+1 | Vizita înițială | zz/ll/a |  |
+2 | Vizita de evaluare | zz/ll/a |  |
