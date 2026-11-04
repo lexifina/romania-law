@@ -23,26 +23,6 @@ The aim: every source a Romanian lawyer or citizen needs, in one git history. La
 
 An AI assistant answering questions about Romanian law through the MCP, each answer citing the exact article and version in this repository.
 
-`git blame` names the act behind every paragraph, `git log` lists every change to an article, and the tools give the text in force on any date. The texts are in Romanian, as published. [AGENTS.md](AGENTS.md) explains the layout for programs and AI agents.
-
-## Contents
-
-Here now:
-- **Primary legislation:** the Constitution, the codes (and the historical codes still applied), the laws of Parliament, and the Government's emergency ordinances (OUG), ordinances (OG) and decisions (HG), with their full histories; the decree-laws of 1989–1990.
-- **Parliament:** the first decisions of the Chamber of Deputies, the Senate and joint sittings.
-- **Case law:** Constitutional Court decisions, the High Court's binding decisions (RIL and HP) and the European Court of Human Rights' judgments against Romania, under `jurisprudenta/`.
-- **Data:** promulgation decrees, treaty–ratification links, rectifications, EU transposition, the Monitorul Oficial issue index and local tax decisions, under `data/`.
-
-Coming: ministries' and authorities' orders and norms, local councils' decisions, draft acts in consultation, electoral and oversight bodies' decisions, construction norms and more. [PLAN.md](PLAN.md) lists every part planned, with its size and progress.
-
-<!-- plan:start -->
-
-## Progress
-
-**48.5% of the plan is published** and 72.0% is collected, weighted by how binding each source is and how often it is used. The plan, part by part, with targets and progress: [PLAN.md](PLAN.md). Updated 2026-11-04 23:12 UTC.
-
-<!-- plan:end -->
-
 ## Layout
 
 | Where | What |
@@ -52,33 +32,14 @@ Coming: ministries' and authorities' orders and norms, local councils' decisions
 | `oug/<year>/<number>/` | Government emergency ordinances (Codul administrativ is `oug/2019/57/`) |
 | `og/<year>/<number>/` · `hg/<year>/<number>/` | Government ordinances · Government decisions |
 | `<act>/art-NNN.md` | one article per file, one paragraph, letter or point per line; art. 112^1 is `art-112-1.md` |
-| `<act>/README.md` | the act's articles, versions and the decisions made by hand for it |
-| [ACTS.md](ACTS.md) | every act, with its folder, status and span; the codes first |
-| `data/` | `acts.json` (one row per act), `paths.json`, `versions.json` and CSV tables, including `act-links.csv` and `eu-transposition.csv` (below) |
+| `<act>/README.md` | the act's articles, versions and any decisions made by hand for it |
+| `jurisprudenta/` | court decisions: `ccr/`, `iccj/<panel>/`, `cedo/` |
+| [ACTS.md](ACTS.md) | every act, with its folder, status and span |
+| `data/` | `acts.json`, `paths.json`, `versions.json` and the CSV tables below |
 | `tools/` | `on.py` and `in_vigoare_la.py` (the law on any date); `tools/build/` holds the builder |
 | [AGENTS.md](AGENTS.md) | how a program or an AI agent should query this repository |
 
-Each act also has a short id (`codul-civil`, `legea-31-1990`, `hg-10-2016`) used by the tools and the tags. Until the layout move of November 2026 the folders were named by id; `git blame` and the tools follow the move, and `git log` on one file needs `--follow`.
-
-### Links between acts
-
-`data/act-links.csv` lists 86,809 links between acts as the Chamber of Deputies' legislation database records them: which act amends, repeals, approves, rejects, promulgates or implements another, and the republications and rectifications in the Monitorul Oficial. Columns: `source`, `target` (this repository's ids where the act is one of its kinds; other acts keep a kind prefix such as `decret-` or `ordin-`), `relation`, `provisions` (as the database states them), `captured` (the date of the database page that shows the link), `label` (the database's own wording) and the Chamber's record numbers. The database is not official and its pages were read as captured between 2018 and 2025: a link made later is missing, and a missing link does not mean an act was never changed. Use it to find related acts, then check them against the Monitorul Oficial.
-
-### EU law each act transposes
-
-`data/eu-transposition.csv` links 2,339 Romanian acts to the 1,814 EU acts they transpose or implement (6,938 rows). `link_source` says where each link comes from: `nim`, Romania's notification to the European Commission (the EU Publications Office's records of national implementing measures, CC0); `clause`, the transposition note in the act as published (Legea 24/2000, art. 45); `both`, when they agree. Other columns: `act_slug`, `act_folder`, `eu_celex`, `eu_title`, `scope` (the whole act, or the part the note names) and the Monitorul Oficial issue named in the notification. The two sources often name different EU acts (a base directive, or a later amendment); both are kept. Some acts listed are not in the repository yet. Retrieved 4 November 2026.
-
-## Case law
-
-`jurisprudenta/` holds the decisions that say what a provision means or whether it still applies, as published in the Monitorul Oficial, Part I. They are added in batches, oldest first, until all 23,743 are on `main`:
-
-| Court | Decisions | Folder |
-| --- | ---: | --- |
-| Constitutional Court (Curtea Constituțională), from 1992 | 21,561 | `jurisprudenta/ccr/<year>/<number>/` |
-| High Court of Cassation and Justice (ÎCCJ): appeals in the interest of the law and preliminary rulings, from 1998 | 1,863 | `jurisprudenta/iccj/<panel>/<year>/<number>/` (`ril`, `hp`, `hp-penal`, `su`, `scaf`) |
-| European Court of Human Rights, judgments against Romania in the Monitorul Oficial's translation | 319 | `jurisprudenta/cedo/<year>/<application>/` |
-
-Each folder has the text (`decizie.md`, one paragraph per line) and `meta.json`: number, date, Monitorul Oficial issue, kind, outcome, the operative part, and the acts and articles it rules on. `data/rulings-by-provision.json` maps each article (`lege/2009/287`, `2526`) to the decisions about it; `jurisprudenta/acte/<act folder>.md` is the same for people; `data/decisions.csv` lists them all. Each decision is one commit of kind `ruling` on its publication day, authored by the court at the decision's id (`dcc-623-2019`), tagged `ruling/<id>`. A ruling changes no act file: the change a Constitutional Court decision made to a text is a separate commit of kind `court` in that act's history, under the same id. Names of parties are reproduced as the Monitorul Oficial prints them. The portal holds about 85% of the Constitutional Court's own yearly totals in recent years; the gap is not explained yet. Field-by-field details are in [AGENTS.md](AGENTS.md).
+Each act also has a short id (`codul-civil`, `legea-31-1990`) used by the tools and tags. Folders were named by id until November 2026; `git log` on one file needs `--follow` across that move.
 
 ## Use it
 
@@ -91,30 +52,36 @@ Each folder has the text (`decizie.md`, one paragraph per line) and `meta.json`:
 | Everything one act changed | `git show law/legea-200-2023` |
 | An act as it stood from a day | `git show codul-penal/2023-07-09` (tags `<id>/<in-force day>`) |
 
-Read a date with the tools rather than `git rev-list --before`: they choose each version by its `In-force:` trailer. After a rebuild, refresh tags with `git fetch --force --tags`.
+Read dates with the tools, not `git rev-list --before`: they pick each version by its `In-force:` trailer.
 
-## Dates and authors
+## Data tables
 
-- Each commit is dated at noon, Europe/Bucharest, on the day the change took effect; `Enacted:`, `Published:` and `In-force:` are trailers. The in-force days are the portal's, which apply each act's own clause or the default rule (Constituția art. 78: 3 days after publication in the Monitorul Oficial).
-- The author is the act that made the change, with an address that cannot exist (`legea-200-2023@legislatie.invalid`); the committer is Lexifina. A change is credited to an act only when the portal's amendment note names it; Constitutional Court decisions that changed the text are commits of kind `court`. Changes no note explains are committed by the publisher and labelled "unexplained".
-- Where an act needed a judgement (a missing form, a republication, an article the source leaves out), the decision is in that act's `README.md`;
+| File | What |
+| --- | --- |
+| `data/act-links.csv` | links between acts (amends, repeals, approves, promulgates, republishes…) from the Chamber of Deputies' database, captured 2018–2025; not official, and not complete for later links |
+| `data/eu-transposition.csv` | the EU acts each Romanian act transposes, from Romania's notifications to the Commission (`nim`), the act's own note (`clause`) or both |
+| `data/decisions.csv`, `data/rulings-by-provision.json` | every court decision here, and the decisions on each article |
+| `data/promulgation.csv` | the decree that promulgated each law |
+| `data/treaty-links.csv` | treaties and the acts that ratify them |
+| `data/rectifications.csv` | rectifications in the Monitorul Oficial and the acts they correct |
+| `data/mo-issues.csv` | an index of Monitorul Oficial issues |
+| `data/local-taxes.csv` | local councils' decisions on local taxes, by locality and year |
 
-## Limits
+## Case law
 
-- Each act's latest version is the newest consolidated form held; amendments in force after it may be missing.
-- Acts with the status `amended, not consolidated` (ACTS.md, `data/acts.json`) were amended, but the official portal publishes no consolidated text of them: only the act as published is here, and its `README.md` names the amending acts known. Read those for the text in force.
-- No consolidated text has legal force in Romania, ours included: only the text published in the Monitorul Oficial, Part I (and an official republication there) is authoritative. The portal's and the Legislative Council's consolidated versions are documentation tools too.
-- Not included: chapter and section headings, the portal's editorial notes, annexes and figures printed as facsimiles or in a separate issue, and rulings that interpret a text without changing its wording.
+All 23,743 decisions are here, as published in the Monitorul Oficial, Part I: 21,561 of the Constitutional Court (from 1992), 1,863 binding decisions of the High Court of Cassation and Justice (RIL and HP, from 1998) and 319 European Court of Human Rights judgments against Romania. Each folder holds the text and `meta.json`. Each decision is one commit of kind `ruling`, tagged `ruling/<id>`; a ruling changes no act file, and a Constitutional Court decision that changed a text is a separate commit of kind `court` in that act's history. Parties' names are as the Monitorul Oficial prints them. The portal holds about 85% of the Constitutional Court's yearly totals in recent years.
 
-## How it is checked
+## Dates, authors and limits
 
-Every version of every act is read back from git on the day it took effect and on the day before (`tools/build/check_repo.py`), and must match the corpus. `main` has no merge commits, dates never go backwards, every trailer parses, and a second build from the same data gives identical hashes. Results are in `REPRODUCE.md`.
+- Each commit is dated on the day the change took effect, by each act's own clause or the default rule (Constituția art. 78: three days after publication). The author is the act that made the change; the committer is Lexifina.
+- A change is credited to an act only when the portal's amendment note names it; changes no note explains are labelled "unexplained". Judgement calls are recorded in each act's `README.md` and listed in `REPRODUCE.md`.
+- Each act's latest version is the newest consolidated form held, so later amendments may be missing. Acts marked `amended, not consolidated` hold only the act as published; their `README.md` names the amending acts.
+- Only the Monitorul Oficial, Part I is authoritative; no consolidated text, ours included, has legal force.
+- Not included: chapter and section headings, the portal's editorial notes, and annexes or figures printed as facsimiles or in a separate issue.
 
-## How it is built
+## How it is built and checked
 
-Lexifina reads the sources listed here and records each act's dated versions, and the laws that made each change, in one corpus file. `tools/build.py` writes this repository from that file, and the same corpus always gives the same commit hashes; `REPRODUCE.md` gives the details and the checks. A model (Claude) wrote Lexifina's code; it wrote no legal text, and no model runs when the history is built.
-
-Every version names the page it was read from and that page's sha256.
+Every version names the page it was read from and that page's sha256. Every version of every act is read back from git on the day it took effect and the day before (`tools/build/check_repo.py`) and must match the corpus; `main` has no merge commits, dates never go backwards, and a rebuild gives identical hashes. Results are in `REPRODUCE.md`.
 
 ## Sources
 
@@ -123,19 +90,13 @@ Every version names the page it was read from and that page's sha256.
 | [Portalul legislativ](https://legislatie.just.ro), Ministerul Justiției | the official texts, every consolidated form and the amendment notes |
 | – | archived copies of the portal's pages, each capture pinned per version |
 | [legalize-ro](https://github.com/legalize-dev/legalize-ro) | a check of the Codul fiscal's text |
-| [Camera Deputaților](https://www.cdep.ro), legislation database | the links between acts in `data/act-links.csv` |
-| [EU Publications Office](https://op.europa.eu) (CELLAR) | the notifications in `data/eu-transposition.csv` (CC0) |
+| [Camera Deputaților](https://www.cdep.ro), legislation database | `data/act-links.csv` |
+| [EU Publications Office](https://op.europa.eu) (CELLAR) | `data/eu-transposition.csv` (CC0) |
 
 ## Licence
 
-The legal texts are official texts of Romanian normative acts (Sursa: Portalul legislativ al Ministerului Justiției, https://legislatie.just.ro), which Romanian copyright law excludes from protection (Legea nr. 8/1996, art. 9 lit. b). The arrangement, tables, commit messages and tools are by Lexifina, under the terms in `LICENSE`. This repository is not legal advice and not an official publication.
+The legal texts are official texts of Romanian normative acts (Sursa: Portalul legislativ al Ministerului Justiției, https://legislatie.just.ro), excluded from copyright by Legea nr. 8/1996, art. 9 lit. b. Lexifina's arrangement, tables, commit messages and tools are in the public domain (CC0), as set out in `LICENSE`. This repository is not legal advice and not an official publication.
 
 ## În limba română
 
-Istoria dreptului românesc în git: un fișier pentru fiecare articol și un commit pentru fiecare modificare, datat în ziua intrării ei în vigoare și semnat de actul care a făcut-o (`git blame` numește actul fiecărui paragraf). Lista completă a actelor este în [ACTS.md](ACTS.md).
-
-- Textul în vigoare la o dată: `python tools/on.py 2014-10-18 lege/2009/287 1112`
-- Datele sunt cele ale Portalului legislativ; regula generală este art. 78 din Constituție.
-- O modificare este atribuită unui act numai dacă nota de modificare a portalului îl numește.
-- Ultima versiune a fiecărui act este cea mai nouă formă consolidată pe care o avem: modificările ulterioare pot lipsi.
-- Sursa: Portalul legislativ al Ministerului Justiției (legislatie.just.ro). Niciun model de inteligență artificială nu a scris text juridic.
+Istoria dreptului românesc în git: un fișier pentru fiecare articol și un commit pentru fiecare modificare, datat în ziua intrării ei în vigoare și semnat de actul care a făcut-o. Lista actelor este în [ACTS.md](ACTS.md); textul în vigoare la o dată: `python tools/on.py 2014-10-18 lege/2009/287 1112`. Sursa: Portalul legislativ al Ministerului Justiției (legislatie.just.ro). Niciun model de inteligență artificială nu a scris text juridic.

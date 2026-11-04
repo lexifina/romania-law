@@ -284753,6 +284753,21 @@
    ]
   },
   {
+   "slug": "hg-338-2001",
+   "path": "hg/2001/338",
+   "short": "HG nr. 338/2001",
+   "title": "Hotărârea Guvernului nr. 338/2001 pentru aprobarea taxei vamale aplicate în România la importul anumitor sortimente de vinuri şi băuturi alcoolice originare din Uniunea Europeană, în cadrul contingentelor tarifare pentru anul 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27588",
+   "versions": [
+    {
+     "from": "2001-03-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27588",
+     "sha256": "15243c5d1f557356fc17ff0e84db5dc6e70d788beb632063c2a2f0fe340796f0"
+    }
+   ]
+  },
+  {
    "slug": "hg-338-2002",
    "path": "hg/2002/338",
    "short": "HG nr. 338/2002",
@@ -285034,6 +285049,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296611",
      "sha256": "d1afa6a20e5f1aaec9bff7b92c7914ac00ae5b82390a9c53d4d9774479ebd1bd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-339-2001",
+   "path": "hg/2001/339",
+   "short": "HG nr. 339/2001",
+   "title": "Hotărârea Guvernului nr. 339/2001 pentru constituirea, în cadrul Ministerului Integrării Europene, a Autorităţii de Management pentru Programul SAPARD",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27664",
+   "versions": [
+    {
+     "from": "2001-03-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27664",
+     "sha256": "4c1de397efb02525f61b76912be42d0facecf6fb22f4b054d417f01d49fcf9df"
     }
    ]
   },
@@ -285758,6 +285788,21 @@
    ]
   },
   {
+   "slug": "hg-341-2001",
+   "path": "hg/2001/341",
+   "short": "HG nr. 341/2001",
+   "title": "Hotărârea Guvernului nr. 341/2001 privind trecerea din domeniul public al statului şi din administrarea Ministerului Culturii şi Cultelor în domeniul public al municipiului Iaşi şi în administrarea Consiliului Local al Municipiului Iaşi, judeţul Iaşi, a lucrărilor de arta monumentala \"Titu Maiorescu\" şi \"Grigore T. Popa\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27679",
+   "versions": [
+    {
+     "from": "2001-03-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27679",
+     "sha256": "ed2d9a7fb9fcffba8108a043076ae484f64f381afee306064ee3632cf3f91b46"
+    }
+   ]
+  },
+  {
    "slug": "hg-341-2002",
    "path": "hg/2002/341",
    "short": "HG nr. 341/2002",
@@ -286039,6 +286084,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296595",
      "sha256": "5dd41eb7ee202472add9d031af6621928b9040990548bf46d60f87d58ca28a35"
+    }
+   ]
+  },
+  {
+   "slug": "hg-342-2001",
+   "path": "hg/2001/342",
+   "short": "HG nr. 342/2001",
+   "title": "Hotărârea Guvernului nr. 342/2001 privind trecerea din domeniul public al statului şi din administrarea Ministerului Culturii şi Cultelor în domeniul public al municipiului Timişoara şi în administrarea Consiliului Local al Municipiului Timişoara a lucrării de arta monumentala \"Regele Ferdinand I - Întregitorul\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27680",
+   "versions": [
+    {
+     "from": "2001-03-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27680",
+     "sha256": "7a60c92f6bccc101ef35cefc951fc9a57a225aa819a67c44449fd9e6de3a349b"
     }
    ]
   },
@@ -286666,6 +286726,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310123",
      "sha256": "d03244164a1de714906a8134920a26af863352ffa3959eb36a16f103e30f4ed1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-344-2001",
+   "path": "hg/2001/344",
+   "short": "HG nr. 344/2001",
+   "title": "Hotărârea Guvernului nr. 344/2001 pentru aprobarea strategiei de privatizare a Băncii Agricole - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27597",
+   "versions": [
+    {
+     "from": "2001-03-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27597",
+     "sha256": "e555c8b8351f8aaf58d941fb549b810a03d30bb321c04a2e7eb94f7cd9d70859"
     }
    ]
   },
@@ -499724,6 +499799,21 @@
    ]
   },
   {
+   "slug": "legea-110-2001",
+   "path": "lege/2001/110",
+   "short": "Legea nr. 110/2001",
+   "title": "Legea nr. 110/2001 privind aprobarea Ordonanţei Guvernului nr. 33/2000 pentru ratificarea Acordului dintre Ministerul Educaţiei Naţionale şi Agenţia Naţionala pentru Ştiinţa, Tehnologie şi Inovare din România şi Organizaţia Naţiunilor Unite pentru Educaţie, Ştiinţa şi Cultura privind înfiinţarea Centrului Internaţional de Biodinamica, semnat la Paris la 30 octombrie 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27599",
+   "versions": [
+    {
+     "from": "2001-03-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27599",
+     "sha256": "5f6afda4d73bce0c92188e635e4dbceed0eddb23231dae2afbde677e0a014cda"
+    }
+   ]
+  },
+  {
    "slug": "legea-110-2002",
    "path": "lege/2002/110",
    "short": "Legea nr. 110/2002",
@@ -500050,6 +500140,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23052",
      "sha256": "3628a30c02a022b45fca09aa8d4fa17f048171ab86a11841cb24b44ef1b42b6f"
+    }
+   ]
+  },
+  {
+   "slug": "legea-111-2001",
+   "path": "lege/2001/111",
+   "short": "Legea nr. 111/2001",
+   "title": "Legea nr. 111/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 278/2000 pentru ratificarea Înţelegerii dintre Guvernul României şi Guvernul Republicii Coreea privind creditul de la Fondul pentru Dezvoltare şi Cooperare Economică, semnată la Bucureşti la 11 octombrie 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27601",
+   "versions": [
+    {
+     "from": "2001-03-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27601",
+     "sha256": "f28cef0d17ada98420cf4d94b8d339479bff0529380aba092feee2595f2f186b"
     }
    ]
   },
@@ -501442,6 +501547,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6311",
      "sha256": "c5d02ceada036402a8d3f2fa98d08196d5ce329d1d8dbefe2f01a21d0e59418d"
+    }
+   ]
+  },
+  {
+   "slug": "legea-116-2001",
+   "path": "lege/2001/116",
+   "short": "Legea nr. 116/2001",
+   "title": "Legea nr. 116/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 198/2000 pentru aprobarea participării Consiliului Naţional al Audiovizualului la lucrările Platformei Europene a Autorităţilor de Reglementare în Domeniul Audiovizualului - EPRA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27614",
+   "versions": [
+    {
+     "from": "2001-03-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27614",
+     "sha256": "d59597c0a79d728ba8605d5fd69d4e229e918ea7802fce0d2449d09b36f031c2"
     }
    ]
   },
@@ -609644,6 +609764,21 @@
    ]
   },
   {
+   "slug": "legea-91-2001",
+   "path": "lege/2001/91",
+   "short": "Legea nr. 91/2001",
+   "title": "Legea nr. 91/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 149/2000 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Bulgaria privind aspectele tehnice, financiare, juridice şi organizatorice referitoare la construirea unui nou pod mixt (rutier şi feroviar) de frontieră între cele doua tari, peste fluviul Dunărea, semnat la Bucureşti la 5 iunie 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27623",
+   "versions": [
+    {
+     "from": "2001-03-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27623",
+     "sha256": "9bff1d167380876386ae0af306cf97f34af750e1a00ee8785e85ba8ff9c28f5a"
+    }
+   ]
+  },
+  {
    "slug": "legea-91-2002",
    "path": "lege/2002/91",
    "short": "Legea nr. 91/2002",
@@ -609991,6 +610126,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22334",
      "sha256": "65639223546bd1585c701d4f9fdbfa2cc0b105ffe3567081d3f607709d7b56b1"
+    }
+   ]
+  },
+  {
+   "slug": "legea-92-2001",
+   "path": "lege/2001/92",
+   "short": "Legea nr. 92/2001",
+   "title": "Legea nr. 92/2001 pentru aprobarea Ordonanţei Guvernului nr. 117/1999 privind adoptarea termenilor şi condiţiilor de participare a României la programele Comunităţii Europene în domeniul cercetării, dezvoltării tehnologice şi demonstraţiilor şi la programele de cercetare şi activităţile de instruire",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27625",
+   "versions": [
+    {
+     "from": "2001-03-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27625",
+     "sha256": "9b89545448d1e6ee79d692ced0ef690777013cf3fd44f0844302f9cb4d9e4987"
     }
    ]
   },
@@ -610916,6 +611066,21 @@
    ]
   },
   {
+   "slug": "legea-95-2001",
+   "path": "lege/2001/95",
+   "short": "Legea nr. 95/2001",
+   "title": "Legea nr. 95/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 31/2000 pentru ratificarea Acordului dintre Republica Austria, Republica Bulgaria, Republica Croaţia, Republica Ceha, Republica Ungara, Republica Polona, România, Republica Slovaca şi Republica Slovenia, adoptat la Budapesta (Ungaria) la 7 februarie 1998, cu privire la prelungirea Programului de schimburi pentru studii universitare în Europa Centrala (CEEPUS) pentru perioada 1 ianuarie 2000-31 decembrie 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27635",
+   "versions": [
+    {
+     "from": "2001-03-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27635",
+     "sha256": "e0f6b6e393abf882e1f2f0499c5549211bc9eb1fd16eb6bf04f904f5ec3b872b"
+    }
+   ]
+  },
+  {
    "slug": "legea-95-2003",
    "path": "lege/2003/95",
    "short": "Legea nr. 95/2003",
@@ -611233,6 +611398,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14759",
      "sha256": "81c8560f0bfdfafccce4cd69347e4d816faafab4263236ee9d2843b0bc1f9976"
+    }
+   ]
+  },
+  {
+   "slug": "legea-96-2001",
+   "path": "lege/2001/96",
+   "short": "Legea nr. 96/2001",
+   "title": "Legea nr. 96/2001 pentru ratificarea Acordului dintre România şi Republica Portugheză privind cooperarea în domeniile învăţământului, ştiinţei, culturii, sportului, tineretului, turismului şi comunicării sociale, semnat la Bucureşti la 16 septembrie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27693",
+   "versions": [
+    {
+     "from": "2001-04-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27693",
+     "sha256": "cbd73ddcc51038a5c0a9e53b1e0e8d54e06e31a205a67658cd66f8bd3722b377"
     }
    ]
   },
