@@ -1,0 +1,18 @@
+GUVERNUL   ROMÂNIEI
+HOTĂRÂRE
+privind modificarea denumirii și actualizarea datelor de identificare și a valorilor de inventar, după caz, ale unor imobile aflate în domeniul public al statului și în administrarea Ministerului Sănătății prin unități aflate în subordinea sa
+
+Având în vedere prevederile art. 2^1 și 2^2 din Ordonanța Guvernului nr. 81/2003 privind reevaluarea și amortizarea activelor fixe aflate în patrimoniul instituțiilor publice, aprobată prin Legea nr. 493/2003, cu modificările și completările ulterioare și ale art.2 alin (1) din Hotărârea Guvernului nr 1705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniu public al statului, cu modificările și completările ulterioare
+în temeiul art. 108 din Constituția României, republicată, al art. 288 alin. (1) și (2) din OUG nr. 57/2019 privind Codul administrativ, cu completările ulterioare,
+
+    Guvernul României adoptă prezenta hotărâre.
+
+ART. 1
+Se aprobă modificarea denumirii și actualizarea datelor de identificare și a valorilor de inventar, după caz, ale unor imobile aflate în domeniul public al statului și în administrarea Ministerului Sănătății prin unități aflate în subordinea sa, potrivit Anexei care face parte integrantă din prezenta hotărâre.
+
+ART. 2
+Ministerul Sănătății împreună cu Ministerul Finanțelor, vor opera modificările corespunzătoare în Anexa nr. 15 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, cu modificările și completările ulterioare.
+
+PRIM-MINISTRU
+
+ION - MARCEL CIOLACU
