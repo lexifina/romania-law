@@ -9,6 +9,25 @@ The law of Romania as a git history: one file per article, one commit per change
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `romania/national/acts/`.
 
+## Scope
+
+This repository holds Romania's **primary legislation**: the Constitution, the laws of Parliament (the codes among them), and the Government's emergency ordinances (OUG), ordinances (OG) and decisions (HG). The card above counts them against every such act we have found in the official service; that list is still growing, so the real total is higher.
+
+**Not here yet.** The official portal publishes about 306,000 documents. Besides the acts above, they include:
+
+| Kind of document | On the portal (about) |
+| --- | ---: |
+| Orders of ministries and authorities (ordine) | 67,000 |
+| Presidential decrees (appointments, decorations, promulgations, pardons) | 37,000 |
+| Decisions of the Constitutional Court | 24,600 |
+| Regulations, norms, methodologies and procedures of authorities (BNR, ASF, ANRE, ministries) | 24,000 |
+| Decisions of the Prime Minister and individual Government decisions | 9,700 |
+| Decisions of the Chamber of Deputies and the Senate | 7,000 |
+| Treaties, agreements, conventions and protocols | 4,700 |
+| Decisions of the High Court of Cassation and Justice published in the Monitorul Oficial | 1,900 |
+
+Ordinary court judgments, local council decisions and EU law are almost absent from the portal (a few hundred documents each): they are published elsewhere.
+
 ## Layout
 
 | Where | What |
