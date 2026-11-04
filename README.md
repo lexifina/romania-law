@@ -2,14 +2,13 @@
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Romania's national law, which global-law reads at `romania/national/acts/`.
 
-> ### The aim: every source a Romanian lawyer or citizen needs, in one git history. > Laws and their full histories, case law, secondary legislation, local acts and more: the [plan](PLAN.md) lists every > part, with its progress.
+The aim: every source a Romanian lawyer or citizen needs, in one git history. Laws and their full histories, case law, secondary legislation, local acts and more: the [plan](PLAN.md) lists every part, with its progress.
 
-**What we did**
+**Scope**
 - Rebuilt Romanian law from the official texts as one git history: the Constitution, the codes and tens of thousands of laws, ordinances and Government decisions.
-- Each article is a file. Each change is a commit dated the day it took effect, credited to the act that made it.
 - Linked Constitutional Court and High Court rulings to the articles they concern, and added the European Court of Human Rights' judgments against Romania.
 
-**Why**
+**Use**
 - The official portal shows one version of an act at a time, so tracing how a provision changed, or what it said on a given date, means comparing versions by hand. Here it is one `git log` or `git blame`.
 - The whole history can be searched, compared and reused: the texts are official, and our work on them is in the public domain (CC0).
 
@@ -26,7 +25,7 @@ An AI assistant answering questions about Romanian law through the MCP, each ans
 
 `git blame` names the act behind every paragraph, `git log` lists every change to an article, and the tools give the text in force on any date. The texts are in Romanian, as published. [AGENTS.md](AGENTS.md) explains the layout for programs and AI agents.
 
-## Scope
+## Contents
 
 Here now:
 - **Primary legislation:** the Constitution, the codes (and the historical codes still applied), the laws of Parliament, and the Government's emergency ordinances (OUG), ordinances (OG) and decisions (HG), with their full histories; the decree-laws of 1989–1990.

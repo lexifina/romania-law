@@ -287033,6 +287033,21 @@
    ]
   },
   {
+   "slug": "hg-345-2001",
+   "path": "hg/2001/345",
+   "short": "HG nr. 345/2001",
+   "title": "Hotărârea Guvernului nr. 345/2001 privind prelungirea termenului de valabilitate a ofertei formulate de Autoritatea pentru Privatizare şi Administrarea Participaţiilor Statului în vederea vânzării pachetului de acţiuni gestionat la Banca Agricolă - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27665",
+   "versions": [
+    {
+     "from": "2001-03-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27665",
+     "sha256": "cd23f4fd953e4a879609e50a6a8a4cb9fa5d4d919ade54f62e4371cea91d44e2"
+    }
+   ]
+  },
+  {
    "slug": "hg-345-2003",
    "path": "hg/2003/345",
    "short": "HG nr. 345/2003",
@@ -287303,6 +287318,21 @@
    ]
   },
   {
+   "slug": "hg-346-2001",
+   "path": "hg/2001/346",
+   "short": "HG nr. 346/2001",
+   "title": "Hotărârea Guvernului nr. 346/2001 privind suspendarea din funcţia de prefect al judeţului Gorj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27736",
+   "versions": [
+    {
+     "from": "2001-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27736",
+     "sha256": "1cb4bc350fc28b20ee91a9aac5cdf2e03cc08fe5f3d8a98d68c2298f37daed26"
+    }
+   ]
+  },
+  {
    "slug": "hg-346-2003",
    "path": "hg/2003/346",
    "short": "HG nr. 346/2003",
@@ -287554,6 +287584,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296547",
      "sha256": "ba1e9d4ee7ee6415e2a4c72b64218994806f4c51ff358b22d77506c687f280cb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-347-2001",
+   "path": "hg/2001/347",
+   "short": "HG nr. 347/2001",
+   "title": "Hotărârea Guvernului nr. 347/2001 privind transferul acţiunilor deţinute de stat la unele societăţi comerciale din administrarea Ministerului Finanţelor Publice în administrarea Autorităţii pentru Privatizare şi Administrarea Participaţiilor Statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27790",
+   "versions": [
+    {
+     "from": "2001-04-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27790",
+     "sha256": "da7bddd2a46845588dc768101c18a7fb3855669bc69b8483645bead098450d33"
     }
    ]
   },
@@ -287839,6 +287884,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296600",
      "sha256": "652184594acbeeb7173954efba88440ec52b728ec7a3cd75df45e51a530cd7f8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-348-2001",
+   "path": "hg/2001/348",
+   "short": "HG nr. 348/2001",
+   "title": "Hotărârea Guvernului nr. 348/2001 privind alocarea unor sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2001, pentru începerea lucrărilor de înlăturare a efectelor produse de inundaţii, ca urmare a revărsării râului Olteţ şi a pâraielor Roşu şi Barza din judeţul Olt, comuna Dobrun",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27810",
+   "versions": [
+    {
+     "from": "2001-04-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27810",
+     "sha256": "934dd689e136429552b5c41bc027b58afc441ac9617543062cf02d7ea83e24de"
     }
    ]
   },
@@ -288178,6 +288238,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4914",
      "sha256": "48cd8659868f40b11f459e271dceeb268005615bfdb1c091018aaf436f2e4100"
+    }
+   ]
+  },
+  {
+   "slug": "hg-349-2001",
+   "path": "hg/2001/349",
+   "short": "HG nr. 349/2001",
+   "title": "Hotărârea Guvernului nr. 349/2001 pentru modificarea alin. (3) al art. 1 din Hotărârea Guvernului nr. 166/2001 privind organizarea şi funcţionarea Autorităţii Naţionale pentru Protecţia Consumatorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27811",
+   "versions": [
+    {
+     "from": "2001-04-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27811",
+     "sha256": "81959f4c066897ed4aa26f06947c32a9a3fb3216d2f5a6faa249286faf768fbb"
     }
    ]
   },
@@ -504902,6 +504977,21 @@
    ]
   },
   {
+   "slug": "legea-125-2001",
+   "path": "lege/2001/125",
+   "short": "Legea nr. 125/2001",
+   "title": "Legea nr. 125/2001 privind modificarea şi completarea art. 1 din Ordonanţa de urgenţă a Guvernului nr. 55/1999 pentru interzicerea publicităţii produselor din tutun în sălile de spectacol şi interzicerea vânzării produselor din tutun minorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27758",
+   "versions": [
+    {
+     "from": "2001-04-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27758",
+     "sha256": "f348f01fe49b80438db48ee5aea041dfd494a613f4fc38b1d61461bd4ff204e7"
+    }
+   ]
+  },
+  {
    "slug": "legea-125-2002",
    "path": "lege/2002/125",
    "short": "Legea nr. 125/2002",
@@ -509933,6 +510023,21 @@
    ]
   },
   {
+   "slug": "legea-139-2001",
+   "path": "lege/2001/139",
+   "short": "Legea nr. 139/2001",
+   "title": "Legea nr. 139/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 145/2000 cu privire la rectificarea bugetului de stat pe anul 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27749",
+   "versions": [
+    {
+     "from": "2001-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27749",
+     "sha256": "d7bf039cd0b0ad6111934f8bfa2db753d33732988f2296e0b8af4bea8740b9d7"
+    }
+   ]
+  },
+  {
    "slug": "legea-139-2002",
    "path": "lege/2002/139",
    "short": "Legea nr. 139/2002",
@@ -510937,6 +511042,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18841",
      "sha256": "689ec7c1365bf53a75f8ab21e1c472ba745016c081b407805df410ca468db49a"
+    }
+   ]
+  },
+  {
+   "slug": "legea-141-2001",
+   "path": "lege/2001/141",
+   "short": "Legea nr. 141/2001",
+   "title": "Legea nr. 141/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 260/2000 cu privire la rectificarea bugetului de stat pe anul 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27796",
+   "versions": [
+    {
+     "from": "2001-04-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27796",
+     "sha256": "e4d28d7a2d8b0b89beed04cbf972a4fd261bbc61840e579ceff4462282db6447"
     }
    ]
   },
@@ -513005,6 +513125,21 @@
    ]
   },
   {
+   "slug": "legea-147-2001",
+   "path": "lege/2001/147",
+   "short": "Legea nr. 147/2001",
+   "title": "Legea nr. 147/2001 privind aprobarea Ordonanţei Guvernului nr. 84/2000 pentru ratificarea Acordului-cadru de împrumut dintre România şi Banca de Dezvoltare a Consiliului Europei, semnat la Paris la 3 august 2000 şi la Bucureşti la 14 august 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27788",
+   "versions": [
+    {
+     "from": "2001-04-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27788",
+     "sha256": "418050ce7253ed55a2905f5824b39ae9db9e0c7b1a439305329109f68cb02d89"
+    }
+   ]
+  },
+  {
    "slug": "legea-147-2002",
    "path": "lege/2002/147",
    "short": "Legea nr. 147/2002",
@@ -513301,6 +513436,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18899",
      "sha256": "ee56e780125a586d5432ffed4364a9ec923bbc6096afc92a2e8ab8dc946016cd"
+    }
+   ]
+  },
+  {
+   "slug": "legea-148-2001",
+   "path": "lege/2001/148",
+   "short": "Legea nr. 148/2001",
+   "title": "Legea nr. 148/2001 pentru aderarea României la Convenţia privind elaborarea unei farmacopee europene, adoptată la Strasbourg la 22 iulie 1964",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27799",
+   "versions": [
+    {
+     "from": "2001-04-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27799",
+     "sha256": "66b04e6d05010f60f112e9d7fde982ccfd7b7a0f22b1834bfb11759f86656732"
     }
    ]
   },
@@ -653806,6 +653956,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244742",
      "sha256": "300f36b128cc591fc7dfa3d7a3e1c4e6513f67c3c78c9b30835c3d029c1b8b64"
+    }
+   ]
+  },
+  {
+   "slug": "oug-54-2001",
+   "path": "oug/2001/54",
+   "short": "OUG nr. 54/2001",
+   "title": "Ordonanța de urgență a Guvernului nr. 54/2001 pentru ratificarea Acordului de garanţie dintre România şi Banca Europeană pentru Reconstrucţie şi Dezvoltare privind Proiectul pentru Compania Naţională de Transport al Energiei Electrice \"Transelectrica\" - S.A., semnat la Bucureşti la 8 decembrie 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27916",
+   "versions": [
+    {
+     "from": "2001-04-13",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27916",
+     "sha256": "ea0917e9d46b32b4f181f33a3d3922e9697d7dfb4350ed8c64e772e82c571f40"
     }
    ]
   },
