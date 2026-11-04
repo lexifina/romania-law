@@ -1,6 +1,6 @@
 # Every act in this repository
 
-22490 acts, 36,123 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+22522 acts, 36,155 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3454, of which 1945 amending acts)
+## Laws (legi) (3455, of which 1946 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -942,6 +942,7 @@
 | Legea nr. 20/2010 | [`lege/2010/20/`](lege/2010/20/) | in force | 1 | 2010-03-07 | 2010-03-07 |
 | Legea nr. 25/2010 | [`lege/2010/25/`](lege/2010/25/) | in force | 1 | 2010-03-08 | 2010-03-08 |
 | Legea nr. 26/2010 | [`lege/2010/26/`](lege/2010/26/) | in force | 1 | 2010-03-08 | 2010-03-08 |
+| Legea nr. 32/2010 privind aprobarea Ordonanţei Guvernului nr. 12/2009 pentru reglementarea unor măsuri financiar-contabile aplicabile în implementarea programului Facilitatea de tranziţie pentru România, prevăzut în Decizia Comisiei C (2007) 5.793 din 30 noiembrie 2007 privind contribuţia financiară a Facilităţii de tranziţie pentru întărirea capacităţii instituţionale în România | [`lege/2010/32/`](lege/2010/32/) | amending act | 1 | 2010-03-07 | 2010-03-07 |
 | Legea nr. 38/2010 pentru abrogarea Ordonanţei Guvernului nr. 48/2005 privind organizarea pieţei laptelui de vacă | [`lege/2010/38/`](lege/2010/38/) | amending act | 1 | 2010-03-14 | 2010-03-14 |
 | Legea nr. 40/2010 | [`lege/2010/40/`](lege/2010/40/) | in force | 1 | 2010-03-12 | 2010-03-12 |
 | Legea nr. 42/2010 privind darea în administrarea autorităților administrației publice locale a unor bunuri aflate în domeniul public al statului | [`lege/2010/42/`](lege/2010/42/) | in force | 1 | 2010-03-26 | 2010-03-26 |
@@ -5752,7 +5753,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (16747, of which 8712 amending acts)
+## Government decisions (HG) (16778, of which 8732 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8814,19 +8815,36 @@
 | Hotărârea Guvernului nr. 22/2010 | [`hg/2010/22/`](hg/2010/22/) | in force | 2 | 2010-01-11 | 2012-07-16 |
 | Hotărârea Guvernului nr. 26/2010 privind organizarea şi funcţionarea Departamentului pentru Relaţia cu Parlamentul | [`hg/2010/26/`](hg/2010/26/) | in force | 3 | 2010-01-12 | 2013-01-19 |
 | Hotărârea Guvernului nr. 56/2010 privind stabilirea unor măsuri pentru reorganizarea producătorilor de energie electrică şi termică de sub autoritatea Ministerului Economiei, Comerţului şi Mediului de Afaceri, prin înfiinţarea Companiei Naţionale Electra - S.A. şi Companiei Naţionale Hidroenergetica - S.A | [`hg/2010/56/`](hg/2010/56/) | in force | 2 | 2010-02-05 | 2010-04-20 |
+| Hotărârea Guvernului nr. 67/2010 privind aplicarea mobilităţii pentru domnul Iftimoaei Ciprian Constantin din funcţia publică de prefect al judeţului Vaslui în funcţia publică de subprefect al judeţului Vaslui | [`hg/2010/67/`](hg/2010/67/) | in force | 1 | 2010-01-29 | 2010-01-29 |
+| Hotărârea Guvernului nr. 70/2010 privind numirea unui consul general | [`hg/2010/70/`](hg/2010/70/) | in force | 1 | 2010-01-29 | 2010-01-29 |
+| Hotărârea Guvernului nr. 73/2010 privind mandatarea reprezentanţilor statului în Adunarea generală a acţionarilor la Societatea Comercială "Fondul Proprietatea"- S.A. să aprobe forma finală a Contractului de administrare ce urmează a fi încheiat de societate cu Franklin Templeton Investment Management Limited (Londra) | [`hg/2010/73/`](hg/2010/73/) | in force | 1 | 2010-02-05 | 2010-02-05 |
 | Hotărârea Guvernului nr. 77/2010 | [`hg/2010/77/`](hg/2010/77/) | in force | 1 | 2010-02-05 | 2010-02-05 |
 | Hotărârea Guvernului nr. 81/2010 | [`hg/2010/81/`](hg/2010/81/) | in force | 3 | 2010-02-09 | 2011-03-29 |
 | Hotărârea Guvernului nr. 82/2010 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2010 al Fondului pentru mediu şi al Administraţiei Fondului pentru Mediu, precum şi a Listei programelor finanţate din Fondul pentru mediu în anul 2010 | [`hg/2010/82/`](hg/2010/82/) | amending act | 1 | 2010-02-09 | 2010-02-09 |
 | Hotărârea Guvernului nr. 86/2010 | [`hg/2010/86/`](hg/2010/86/) | in force | 1 | 2010-02-17 | 2010-02-17 |
+| Hotărârea Guvernului nr. 88/2010 privind aprobarea bugetelor de venituri şi cheltuieli actualizate pe anul 2009 ale unor operatori economici aflaţi sub autoritatea Ministerului Transporturilor şi Infrastructurii | [`hg/2010/88/`](hg/2010/88/) | amending act | 1 | 2010-02-15 | 2010-02-15 |
 | Hotărârea Guvernului nr. 89/2010 | [`hg/2010/89/`](hg/2010/89/) | in force | 1 | 2010-02-15 | 2010-02-15 |
 | Hotărârea Guvernului nr. 90/2010 | [`hg/2010/90/`](hg/2010/90/) | in force | 19 | 2010-02-22 | 2025-04-17 |
+| Hotărârea Guvernului nr. 92/2010 privind stabilirea datei alegerilor locale parţiale pentru alegerea consiliilor locale şi a primarilor în unele circumscripţii electorale | [`hg/2010/92/`](hg/2010/92/) | in force | 1 | 2010-02-12 | 2010-02-12 |
+| Hotărârea Guvernului nr. 94/2010 pentru declasificarea unor informaţii secrete de stat emise de Ministerul Apărării Naţionale | [`hg/2010/94/`](hg/2010/94/) | in force | 1 | 2010-02-16 | 2010-02-16 |
+| Hotărârea Guvernului nr. 95/2010 privind aprobarea Listei societăţilor naţionale, companiilor naţionale şi societăţilor comerciale aflate sub autoritatea sau în coordonarea Ministerului Economiei, Comerţului şi Mediului de Afaceri la care se efectuează concedieri colective în anul 2010 şi care vor beneficia de prevederile Ordonanţei de urgenţă a Guvernului nr. 116/2006 privind protecţia socială acordată persoanelor disponibilizate prin concedieri colective efectuate ca urmare a restructurării şi reorganizării unor societăţi naţionale, regii autonome, companii naţionale şi societăţi comerciale cu capital majoritar de stat, precum şi a societăţilor comerciale şi regiilor autonome subordonate autorităţilor administraţiei publice locale | [`hg/2010/95/`](hg/2010/95/) | amending act | 1 | 2010-02-15 | 2010-02-15 |
+| Hotărârea Guvernului nr. 96/2010 privind aprobarea bugetului de venituri şi cheltuieli actualizat pe anul 2009 al Companiei Naţionale de Autostrăzi şi Drumuri Naţionale din România - S.A., aflată sub autoritatea Ministerului Transporturilor şi Infrastructurii | [`hg/2010/96/`](hg/2010/96/) | amending act | 1 | 2010-02-16 | 2010-02-16 |
 | Hotărârea Guvernului nr. 98/2010 privind constituirea Consiliului interministerial "Consiliul pentru aplicarea politicii în domeniul ajutorului de stat" | [`hg/2010/98/`](hg/2010/98/) | in force | 1 | 2010-02-17 | 2010-02-17 |
 | Hotărârea Guvernului nr. 99/2010 | [`hg/2010/99/`](hg/2010/99/) | in force | 1 | 2010-02-17 | 2010-02-17 |
+| Hotărârea Guvernului nr. 101/2010 pentru modificarea şi completarea unor anexe la Hotărârea Guvernului nr. 1.348/2001 privind atestarea domeniului public al judeţului Buzău, precum şi al municipiilor, oraşelor şi comunelor din judeţul Buzău şi a anexei nr. 10 la Hotărârea Guvernului nr. 897/2006 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.348/2001 privind atestarea domeniului public al judeţului Buzău, precum şi al municipiilor, oraşelor şi comunelor din judeţul Buzău | [`hg/2010/101/`](hg/2010/101/) | amending act | 1 | 2010-03-01 | 2010-03-01 |
+| Hotărârea Guvernului nr. 102/2010 privind aprobarea plăţii de către Ministerul Mediului şi Pădurilor a taxei de asociere a Gărzii Naţionale de Mediu la reţeaua europeană IMPEL pentru anii 2010 şi 2011 | [`hg/2010/102/`](hg/2010/102/) | amending act | 1 | 2010-02-22 | 2010-02-22 |
 | Hotărârea Guvernului nr. 104/2010 | [`hg/2010/104/`](hg/2010/104/) | in force | 1 | 2010-03-03 | 2010-03-03 |
+| Hotărârea Guvernului nr. 106/2010 privind exercitarea, cu caracter temporar, a funcţiei publice de subprefect al judeţului Covasna de către domnul Ionaşcu Valentin | [`hg/2010/106/`](hg/2010/106/) | in force | 1 | 2010-02-18 | 2010-02-18 |
+| Hotărârea Guvernului nr. 110/2010 privind exercitarea, cu caracter temporar, în condiţiile legii, a funcţiei publice de subprefect al municipiului Bucureşti de către domnul Mănoiu Dafinel | [`hg/2010/110/`](hg/2010/110/) | in force | 1 | 2010-02-18 | 2010-02-18 |
 | Hotărârea Guvernului nr. 113/2010 | [`hg/2010/113/`](hg/2010/113/) | in force | 1 | 2010-02-25 | 2010-02-25 |
+| Hotărârea Guvernului nr. 116/2010 privind aprobarea suplimentării sumei prevăzute ca justă despăgubire pentru imobilele ce constituie amplasamentul lucrării de utilitate publică, aprobat prin Hotărârea Guvernului nr. 948/2007 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării de utilitate publică "Fluidizare trafic pe DN 1 km 8+100km - 17+100 şi Centura rutieră în zona de nord a municipiului Bucureşti - obiect 5A - Reabilitare şi extindere la patru benzi a Centurii rutiere a municipiului Bucureşti între DN 1A şi DN 1" | [`hg/2010/116/`](hg/2010/116/) | amending act | 1 | 2010-02-23 | 2010-02-23 |
 | Hotărârea Guvernului nr. 117/2010 pentru aprobarea Regulamentului de investigare a accidentelor şi a incidentelor, de dezvoltare şi îmbunătăţire a siguranţei feroviare pe căile ferate şi pe reţeaua de transport cu metroul din România | [`hg/2010/117/`](hg/2010/117/) | amending act | 1 | 2010-05-01 | 2010-05-01 |
 | Hotărârea Guvernului nr. 118/2010 pentru aprobarea Metodologiei de achiziționare prin cumpărare, schimb sau donație de către stat, prin Regia Națională a Pădurilor - Romsilva și ceilalți administratori, a terenurilor ce pot fi incluse în fondul forestier proprietate publică a statului | [`hg/2010/118/`](hg/2010/118/) | amending act | 2 | 2010-03-01 | 2010-03-31 |
 | Hotărârea Guvernului nr. 120/2010 | [`hg/2010/120/`](hg/2010/120/) | in force | 3 | 2010-02-24 | 2016-08-18 |
+| Hotărârea Guvernului nr. 122/2010 pentru modificarea şi completarea unor anexe la Hotărârea Guvernului nr. 1.359/2001 privind atestarea domeniului public al judeţului Prahova, precum şi al municipiilor, oraşelor şi comunelor din judeţul Prahova | [`hg/2010/122/`](hg/2010/122/) | amending act | 1 | 2010-03-10 | 2010-03-10 |
+| Hotărârea Guvernului nr. 123/2010 pentru modificarea anexei nr. 1 la Hotărârea Guvernului nr. 1.359/2001 privind atestarea domeniului public al judeţului Prahova, precum şi al municipiilor, oraşelor şi comunelor din judeţul Prahova | [`hg/2010/123/`](hg/2010/123/) | amending act | 1 | 2010-02-26 | 2010-02-26 |
+| Hotărârea Guvernului nr. 124/2010 privind modificarea şi completarea unor anexe la Hotărârea Guvernului nr. 1.362/2001 privind atestarea domeniului public al judeţului Vâlcea, precum şi al municipiilor, oraşelor şi comunelor din judeţul Vâlcea | [`hg/2010/124/`](hg/2010/124/) | amending act | 1 | 2010-02-27 | 2010-02-27 |
+| Hotărârea Guvernului nr. 125/2010 pentru modificarea şi completarea unor anexe la Hotărârea Guvernului nr. 1.362/2001 privind atestarea domeniului public al judeţului Vâlcea, precum şi al municipiilor, oraşelor şi comunelor din judeţul Vâlcea | [`hg/2010/125/`](hg/2010/125/) | amending act | 1 | 2010-02-26 | 2010-02-26 |
 | Hotărârea Guvernului nr. 126/2010 | [`hg/2010/126/`](hg/2010/126/) | in force | 1 | 2010-02-25 | 2010-02-25 |
 | Hotărârea Guvernului nr. 127/2010 | [`hg/2010/127/`](hg/2010/127/) | in force | 1 | 2010-02-25 | 2010-02-25 |
 | Hotărârea Guvernului nr. 128/2010 | [`hg/2010/128/`](hg/2010/128/) | in force | 1 | 2010-02-25 | 2010-02-25 |
@@ -8834,12 +8852,26 @@
 | Hotărârea Guvernului nr. 132/2010 | [`hg/2010/132/`](hg/2010/132/) | in force | 1 | 2010-03-04 | 2010-03-04 |
 | Hotărârea Guvernului nr. 135/2010 | [`hg/2010/135/`](hg/2010/135/) | in force | 1 | 2010-02-24 | 2010-02-24 |
 | Hotărârea Guvernului nr. 136/2010 | [`hg/2010/136/`](hg/2010/136/) | in force | 1 | 2010-02-24 | 2010-02-24 |
+| Hotărârea Guvernului nr. 137/2010 pentru modificarea Hotărârii Guvernului nr. 27/2010 privind organizarea şi funcţionarea Departamentului pentru Românii de Pretutindeni şi a Hotărârii Guvernului nr. 1.431/2009 privind înfiinţarea, organizarea şi funcţionarea Centrului Român pentru Promovarea Comerţului şi Investiţiilor Străine | [`hg/2010/137/`](hg/2010/137/) | amending act | 1 | 2010-02-25 | 2010-02-25 |
 | Hotărârea Guvernului nr. 139/2010 | [`hg/2010/139/`](hg/2010/139/) | in force | 1 | 2010-03-03 | 2010-03-03 |
 | Hotărârea Guvernului nr. 141/2010 | [`hg/2010/141/`](hg/2010/141/) | in force | 3 | 2010-03-02 | 2012-08-06 |
+| Hotărârea Guvernului nr. 142/2010 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.347/2001 privind atestarea domeniului public al judeţului Bacău, precum şi al municipiilor, oraşelor şi comunelor din judeţul Bacău | [`hg/2010/142/`](hg/2010/142/) | amending act | 1 | 2010-03-10 | 2010-03-10 |
+| Hotărârea Guvernului nr. 143/2010 privind aprobarea stemei comunei Independenţa, judeţul Călăraşi | [`hg/2010/143/`](hg/2010/143/) | amending act | 1 | 2010-03-09 | 2010-03-09 |
 | Hotărârea Guvernului nr. 144/2010 | [`hg/2010/144/`](hg/2010/144/) | in force | 22 | 2010-03-02 | 2025-03-28 |
+| Hotărârea Guvernului nr. 146/2010 pentru modificarea şi completarea unor anexe la Hotărârea Guvernului nr. 1.362/2001 privind atestarea domeniului public al judeţului Vâlcea, precum şi al municipiilor, oraşelor şi comunelor din judeţul Vâlcea | [`hg/2010/146/`](hg/2010/146/) | amending act | 1 | 2010-03-09 | 2010-03-09 |
+| Hotărârea Guvernului nr. 147/2010 privind trecerea unor construcţii aflate în administrarea Ministerului Administraţiei şi Internelor din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune şi desfiinţării şi pentru actualizarea anexei nr. 1 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2010/147/`](hg/2010/147/) | amending act | 1 | 2010-03-04 | 2010-03-04 |
 | Hotărârea Guvernului nr. 148/2010 | [`hg/2010/148/`](hg/2010/148/) | in force | 1 | 2010-03-05 | 2010-03-05 |
 | Hotărârea Guvernului nr. 153/2010 | [`hg/2010/153/`](hg/2010/153/) | in force | 1 | 2010-03-04 | 2010-03-04 |
+| Hotărârea Guvernului nr. 156/2010 pentru aprobarea amendamentelor convenite între Guvernul României şi Banca Europeană de Investiţii, prin scrisorile semnate la Luxemburg la 26 martie 2008 şi la Bucureşti la 9 aprilie 2008, precum şi la Luxemburg la 15 septembrie 2009 şi la Bucureşti la 2 octombrie 2009, la Contractul de finanţare dintre România şi Banca Europeană de Investiţii pentru finanţarea Proiectului de reabilitare a infrastructurii şcolare din România, semnat la Bucureşti la 11 iulie 2003 | [`hg/2010/156/`](hg/2010/156/) | amending act | 1 | 2010-03-10 | 2010-03-10 |
+| Hotărârea Guvernului nr. 157/2010 privind aprobarea stemei municipiului Botoşani, judeţul Botoşani | [`hg/2010/157/`](hg/2010/157/) | amending act | 1 | 2010-03-09 | 2010-03-09 |
+| Hotărârea Guvernului nr. 158/2010 privind aprobarea stemei oraşului Ştefăneşti, judeţul Botoşani | [`hg/2010/158/`](hg/2010/158/) | amending act | 1 | 2010-03-09 | 2010-03-09 |
+| Hotărârea Guvernului nr. 159/2010 privind darea în administrarea Ministerului Administraţiei şi Internelor a unui imobil trecut în proprietatea publică a statului | [`hg/2010/159/`](hg/2010/159/) | in force | 1 | 2010-03-08 | 2010-03-08 |
+| Hotărârea Guvernului nr. 161/2010 privind suplimentarea bugetului Ministerului Mediului şi Pădurilor pe anul 2010 din Fondul de rezervă bugetară la dispoziţia Guvernului | [`hg/2010/161/`](hg/2010/161/) | in force | 1 | 2010-03-08 | 2010-03-08 |
+| Hotărârea Guvernului nr. 163/2010 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2010 al Companiei Naţionale "Poşta Română" - S.A., la care Ministerul Comunicaţiilor şi Societăţii Informaţionale îndeplineşte atribuţiile pe care statul român le are în calitate de acţionar | [`hg/2010/163/`](hg/2010/163/) | amending act | 1 | 2010-03-09 | 2010-03-09 |
+| Hotărârea Guvernului nr. 165/2010 pentru aprobarea Programului calendaristic privind realizarea acţiunilor referitoare la organizarea şi desfăşurarea alegerilor locale parţiale pentru primarul municipiului Râmnicu Vâlcea, judeţul Vâlcea, din data de 18 aprilie 2010 | [`hg/2010/165/`](hg/2010/165/) | amending act | 1 | 2010-03-12 | 2010-03-12 |
+| Hotărârea Guvernului nr. 166/2010 privind reglementarea situaţiei juridice a unui imobil situat în comuna Păuliş, judeţul Arad | [`hg/2010/166/`](hg/2010/166/) | in force | 1 | 2010-03-10 | 2010-03-10 |
 | Hotărârea Guvernului nr. 168/2010 | [`hg/2010/168/`](hg/2010/168/) | in force | 1 | 2010-03-10 | 2010-03-10 |
+| Hotărârea Guvernului nr. 170/2010 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2010, pentru înlăturarea efectelor alunecării de teren produse în comuna Odăile, judeţul Buzău | [`hg/2010/170/`](hg/2010/170/) | in force | 1 | 2010-03-09 | 2010-03-09 |
 | Hotărârea Guvernului nr. 172/2010 | [`hg/2010/172/`](hg/2010/172/) | in force | 1 | 2010-03-17 | 2010-03-17 |
 | Hotărârea Guvernului nr. 174/2010 | [`hg/2010/174/`](hg/2010/174/) | in force | 2 | 2010-03-16 | 2012-12-27 |
 | Hotărârea Guvernului nr. 179/2010 pentru aprobarea Protocolului celei de-a şaptea reuniuni a Comisiei mixte româno-ungare pentru protecţia mediului, semnat la Budapesta la 10 septembrie 2009, pentru aplicarea prevederilor Acordului dintre Guvernul României şi Guvernul Republicii Ungare privind cooperarea în domeniul protecţiei mediului, semnat la Bucureşti la 26 mai 1997 | [`hg/2010/179/`](hg/2010/179/) | amending act | 1 | 2010-05-04 | 2010-05-04 |
