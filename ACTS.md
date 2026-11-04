@@ -1,6 +1,6 @@
 # Every act in this repository
 
-25029 acts, 38,663 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+25039 acts, 38,673 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6067,7 +6067,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (18971, of which 9632 amending acts)
+## Government decisions (HG) (18981, of which 9635 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6655,8 +6655,18 @@
 | Hotărârea Guvernului nr. 1229/2005 | [`hg/2005/1229/`](hg/2005/1229/) | in force | 1 | 2005-10-21 | 2005-10-21 |
 | Hotărârea Guvernului nr. 1258/2005 | [`hg/2005/1258/`](hg/2005/1258/) | in force | 3 | 2005-11-01 | 2010-06-16 |
 | Hotărârea Guvernului nr. 1317/2005 | [`hg/2005/1317/`](hg/2005/1317/) | in force | 1 | 2005-11-10 | 2005-11-10 |
+| Hotărârea Guvernului nr. 1325/2005 privind numirea Comisiei pentru efectuarea cercetării prealabile în vederea declarării utilităţii publice pentru lucrarea de interes naţional "Reabilitarea liniei de cale ferată Bucureşti Băneasa-Feteşti, componentă a Coridorului IV paneuropean, pentru circulaţia trenurilor cu viteza maximă de 160 km/h" | [`hg/2005/1325/`](hg/2005/1325/) | in force | 1 | 2005-11-17 | 2005-11-17 |
 | Hotărârea Guvernului nr. 1326/2005 | [`hg/2005/1326/`](hg/2005/1326/) | in force | 1 | 2005-11-17 | 2005-11-17 |
+| Hotărârea Guvernului nr. 1330/2005 privind modificarea bugetului de venituri şi cheltuieli pe anul 2005 al Companiei Naţionale "Loteria Română" - S.A., aflata sub autoritatea Ministerului Finanţelor Publice | [`hg/2005/1330/`](hg/2005/1330/) | amending act | 1 | 2005-11-22 | 2005-11-22 |
+| Hotărârea Guvernului nr. 1331/2005 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.664/2004 privind declanşarea procedurilor de expropriere a bunurilor imobile, proprietate privată, situate pe amplasamentul lucrării "Infrastructura conexă de pe teritoriul românesc a obiectivului &#171;Pod peste fluviul Dunărea, la Calafat-Vidin&#187;", municipiul Calafat, judeţul Dolj | [`hg/2005/1331/`](hg/2005/1331/) | amending act | 1 | 2005-11-18 | 2005-11-18 |
+| Hotărârea Guvernului nr. 1332/2005 pentru alocarea din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, a unei sume în bugetul alocat Ministerului Muncii, Solidarităţii Sociale şi Familiei, în vederea acordării unui ajutor financiar | [`hg/2005/1332/`](hg/2005/1332/) | in force | 1 | 2005-11-04 | 2005-11-04 |
+| Hotărârea Guvernului nr. 1333/2005 privind modificarea art. 1 din Hotărârea Guvernului nr. 326/2001 pentru stabilirea componenţei Comisiei de privatizare a Băncii Comerciale Române - S.A | [`hg/2005/1333/`](hg/2005/1333/) | amending act | 1 | 2005-11-04 | 2005-11-04 |
 | Hotărârea Guvernului nr. 1334/2005 | [`hg/2005/1334/`](hg/2005/1334/) | in force | 1 | 2005-11-08 | 2005-11-08 |
+| Hotărârea Guvernului nr. 1335/2005 pentru alocarea din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, a unei sume în bugetul alocat Ministerului Sănătăţii, în vederea acordării unui ajutor | [`hg/2005/1335/`](hg/2005/1335/) | in force | 1 | 2005-11-04 | 2005-11-04 |
+| Hotărârea Guvernului nr. 1336/2005 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru înlăturarea efectelor calamităţilor naturale produse în judeţul Gorj | [`hg/2005/1336/`](hg/2005/1336/) | in force | 1 | 2005-11-08 | 2005-11-08 |
+| Hotărârea Guvernului nr. 1337/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru suplimentarea bugetului Secretariatului General al Guvernului | [`hg/2005/1337/`](hg/2005/1337/) | in force | 1 | 2005-11-08 | 2005-11-08 |
+| Hotărârea Guvernului nr. 1339/2005 privind stabilirea unor normative de cheltuieli pentru Ministerul Culturii şi Cultelor, ocazionate de organizarea şi desfăşurarea Festivalului Internaţional "George Enescu" | [`hg/2005/1339/`](hg/2005/1339/) | in force | 1 | 2005-11-09 | 2005-11-09 |
+| Hotărârea Guvernului nr. 1340/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Giurgiu | [`hg/2005/1340/`](hg/2005/1340/) | in force | 1 | 2005-11-09 | 2005-11-09 |
 | Hotărârea Guvernului nr. 1341/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Cluj | [`hg/2005/1341/`](hg/2005/1341/) | in force | 1 | 2005-11-09 | 2005-11-09 |
 | Hotărârea Guvernului nr. 1342/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Sălaj | [`hg/2005/1342/`](hg/2005/1342/) | in force | 1 | 2005-11-16 | 2005-11-16 |
 | Hotărârea Guvernului nr. 1344/2005 privind stabilirea cuantumului ajutorului anual pentru acoperirea unei părţi din costul chiriei, energiei electrice şi energiei termice pentru nevoi casnice, cuvenit veteranilor de război, văduvelor de război, precum şi accidentaţilor de război în afara serviciului ordonat | [`hg/2005/1344/`](hg/2005/1344/) | in force | 1 | 2005-11-09 | 2005-11-09 |
