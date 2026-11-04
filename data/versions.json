@@ -296207,6 +296207,21 @@
    ]
   },
   {
+   "slug": "hg-377-2001",
+   "path": "hg/2001/377",
+   "short": "HG nr. 377/2001",
+   "title": "Hotărârea Guvernului nr. 377/2001 privind finanţarea în anul 2001 din bugetul Ministerului Educaţiei şi Cercetării a lucrărilor de consolidare a structurii de rezistenta, precum şi de reabilitare a clădirii şcolii Grupului şcolar cu program sportiv Deva, judeţul Hunedoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28001",
+   "versions": [
+    {
+     "from": "2001-04-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28001",
+     "sha256": "4dee7bb0581ecc2c196d7e1731f5117881f4df69166d9d485340b23311025dad"
+    }
+   ]
+  },
+  {
    "slug": "hg-377-2002",
    "path": "hg/2002/377",
    "short": "HG nr. 377/2002",
@@ -296533,6 +296548,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15237",
      "sha256": "bd40ee240b35bdcb3f21b0433dfd7ad5db364b656442c9928595d316de8a23bd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-378-2001",
+   "path": "hg/2001/378",
+   "short": "HG nr. 378/2001",
+   "title": "Hotărârea Guvernului nr. 378/2001 privind alocarea sumei de 3.800 milioane lei din Fondul de rezerva bugetară la dispoziţia Guvernului pe anul 2001 pentru continuarea lucrărilor la obiectivul de investiţii \"Conducta racord gaze naturale din magistrala ROMGAZ şi Staţie - Reglare-Măsurare pentru alimentarea cu gaze naturale a localităţilor Popeşti, Roeşti, Şirineasa, judeţul Valcea\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28002",
+   "versions": [
+    {
+     "from": "2001-04-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28002",
+     "sha256": "5871e73e112d5ecd93696915148111a0a30a016004a30687c2c5786ad66a5562"
     }
    ]
   },
@@ -297443,6 +297473,21 @@
    ]
   },
   {
+   "slug": "hg-380-2001",
+   "path": "hg/2001/380",
+   "short": "HG nr. 380/2001",
+   "title": "Hotărârea Guvernului nr. 380/2001 privind aprobarea valorii coşului minim de consum lunar pentru trimestrul IV al anului 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28004",
+   "versions": [
+    {
+     "from": "2001-04-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28004",
+     "sha256": "daf33e8036ebf3630e798113a0b5bb2ee169294a19908f53acec83682481ff1b"
+    }
+   ]
+  },
+  {
    "slug": "hg-380-2004",
    "path": "hg/2004/380",
    "short": "HG nr. 380/2004",
@@ -297709,6 +297754,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6853",
      "sha256": "93b98fcab8bd382df70f85094588a5a2209ca76b30581ef7779bb5eb3cd59e62"
+    }
+   ]
+  },
+  {
+   "slug": "hg-381-2001",
+   "path": "hg/2001/381",
+   "short": "HG nr. 381/2001",
+   "title": "Hotărârea Guvernului nr. 381/2001 privind stabilirea tarifului de licenţiere a Regiei Autonome \"Administraţia Română a Serviciilor de Trafic Aerian\" - ROMATSA pentru anul 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28005",
+   "versions": [
+    {
+     "from": "2001-04-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28005",
+     "sha256": "868ecced6b929dbd6d1b2d69dcbf26e4f879fe4fc1c098cd0b40a2e4fe56e3bf"
     }
    ]
   },
@@ -298892,6 +298952,21 @@
    ]
   },
   {
+   "slug": "hg-385-2001",
+   "path": "hg/2001/385",
+   "short": "HG nr. 385/2001",
+   "title": "Hotărârea Guvernului nr. 385/2001 pentru actualizarea limitelor amenzilor contravenţionale prevăzute în Legea viei şi vinului nr. 67/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28102",
+   "versions": [
+    {
+     "from": "2001-04-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28102",
+     "sha256": "be724cd6e561aee5cbd17ef9d52cbeedc639b3ebec8d1bc67ed13a79fc3f6826"
+    }
+   ]
+  },
+  {
    "slug": "hg-385-2003",
    "path": "hg/2003/385",
    "short": "HG nr. 385/2003",
@@ -299462,6 +299537,21 @@
    ]
   },
   {
+   "slug": "hg-387-2001",
+   "path": "hg/2001/387",
+   "short": "HG nr. 387/2001",
+   "title": "Hotărârea Guvernului nr. 387/2001 pentru modificarea anexei la Hotărârea Guvernului nr. 1224/2000 privind transmiterea unor bunuri culturale mobile din proprietatea publică a statului şi din administrarea Muzeului Naţional de Arta al României în proprietatea Patriarhiei Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28071",
+   "versions": [
+    {
+     "from": "2001-04-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28071",
+     "sha256": "7013479d4f4406160b2f3f0b7ba25c14555ad0d78839c3693920a29b0777fc3f"
+    }
+   ]
+  },
+  {
    "slug": "hg-387-2003",
    "path": "hg/2003/387",
    "short": "HG nr. 387/2003",
@@ -299719,6 +299809,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296796",
      "sha256": "8b56d3530a2ac58d3b2ed8e33b0ff745cc091d1f4fc7858fa198182b2410699c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-388-2001",
+   "path": "hg/2001/388",
+   "short": "HG nr. 388/2001",
+   "title": "Hotărârea Guvernului nr. 388/2001 privind trecerea unor lucrări de arta monumentala din domeniul public al statului şi din administrarea Ministerului Culturii şi Cultelor în domeniul public al municipiului Bucureşti şi în administrarea Consiliului General al Municipiului Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28053",
+   "versions": [
+    {
+     "from": "2001-04-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28053",
+     "sha256": "70f543ad03c63e81ea3274c4c8c8c398b2990becd050c5491fea21f84178e58d"
     }
    ]
   },
@@ -519359,6 +519464,21 @@
    ]
   },
   {
+   "slug": "legea-167-2001",
+   "path": "lege/2001/167",
+   "short": "Legea nr. 167/2001",
+   "title": "Legea nr. 167/2001 privind aprobarea Ordonanţei Guvernului nr. 116/2000 pentru ratificarea Memorandumului de finanţare PHARE dintre Guvernul României şi Comisia Europeană referitor la Facilitatea de recuperare (Pre-ins Facility), semnat la Bucureşti la 30 decembrie 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27872",
+   "versions": [
+    {
+     "from": "2001-04-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27872",
+     "sha256": "745f37ce4f77b6259499e7190df08eb4e7b01ab94fd0f4a96cff7ab945db497b"
+    }
+   ]
+  },
+  {
    "slug": "legea-167-2002",
    "path": "lege/2002/167",
    "short": "Legea nr. 167/2002",
@@ -520754,6 +520874,21 @@
    ]
   },
   {
+   "slug": "legea-171-2001",
+   "path": "lege/2001/171",
+   "short": "Legea nr. 171/2001",
+   "title": "Legea nr. 171/2001 pentru modificarea şi completarea unor prevederi ale Legii nr. 31/1996 privind regimul monopolului de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27880",
+   "versions": [
+    {
+     "from": "2001-04-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27880",
+     "sha256": "28c47cc0b01a8abc8004f4ffd3d4c6b524315e3e6b6304864d4d0bc86d2b584e"
+    }
+   ]
+  },
+  {
    "slug": "legea-171-2002",
    "path": "lege/2002/171",
    "short": "Legea nr. 171/2002",
@@ -521470,6 +521605,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24795",
      "sha256": "373c0b34de4d9d9a3ba8e2b9761b1a9646a231f02f4859b7aba69b6cdb456b93"
+    }
+   ]
+  },
+  {
+   "slug": "legea-173-2001",
+   "path": "lege/2001/173",
+   "short": "Legea nr. 173/2001",
+   "title": "Legea nr. 173/2001 pentru aprobarea Ordonanţei de urgenta a Guvernului nr. 158/2000 privind aprobarea compensaţiei de 500 lei/kg producătorilor agricoli pentru graul de panificaţie livrat din recolta anului 2000, destinat consumului intern",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27910",
+   "versions": [
+    {
+     "from": "2001-04-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27910",
+     "sha256": "b5dfb1f1165d7c3515d1c87460e23d1bf69e979e9064e885b45d0f0c022e8895"
     }
    ]
   },
@@ -525545,6 +525695,21 @@
    ]
   },
   {
+   "slug": "legea-185-2001",
+   "path": "lege/2001/185",
+   "short": "Legea nr. 185/2001",
+   "title": "Legea nr. 185/2001 pentru aprobarea Ordonanţei Guvernului nr. 11/1999 privind aprobarea plafonului de îndatorare publică externa a României pentru anul 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27987",
+   "versions": [
+    {
+     "from": "2001-04-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27987",
+     "sha256": "59c8c3c41080ee90936334a2d449668dc3015bfe7819ee8e49a36fe0b0022ba9"
+    }
+   ]
+  },
+  {
    "slug": "legea-185-2003",
    "path": "lege/2003/185",
    "short": "Legea nr. 185/2003",
@@ -525904,6 +526069,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24886",
      "sha256": "42978c93acb2be877132a42a9d6d561bd2baa6dbe61540d6d438d0755e2eb929"
+    }
+   ]
+  },
+  {
+   "slug": "legea-186-2001",
+   "path": "lege/2001/186",
+   "short": "Legea nr. 186/2001",
+   "title": "Legea nr. 186/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 6/2001 privind aprobarea plafonului de îndatorare publică externa a României pentru anul 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27973",
+   "versions": [
+    {
+     "from": "2001-04-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27973",
+     "sha256": "0b65d126d0d5ff68c651d368f514a05e581c1f3db7c2e157a4456ee70fc9da84"
     }
    ]
   },
@@ -526381,6 +526561,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/256650",
      "sha256": "9204beb8de08ed8eddd334981cf434bf529f8e1ad38f69f6c193472117257fdd"
+    }
+   ]
+  },
+  {
+   "slug": "legea-188-2001",
+   "path": "lege/2001/188",
+   "short": "Legea nr. 188/2001",
+   "title": "Legea nr. 188/2001 pentru aprobarea Ordonanţei Guvernului nr. 69/1998 privind unele măsuri de protecţie pentru personalul al cărui contract individual de muncă va fi desfăcut ca urmare a concedierilor colective determinate de reorganizarea Societăţii Naţionale a Căilor Ferate Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27979",
+   "versions": [
+    {
+     "from": "2001-04-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27979",
+     "sha256": "79152d76069dee39f3dd606bca5d86f568f74c49e69cb41bcbb6dbc4ae1e12cf"
     }
    ]
   },
@@ -653593,6 +653788,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200894",
      "sha256": "045b491be39cf5da76d2f5c07ad4deff7de82db832c6108eaa728ec640551150"
+    }
+   ]
+  },
+  {
+   "slug": "oug-55-2001",
+   "path": "oug/2001/55",
+   "short": "OUG nr. 55/2001",
+   "title": "Ordonanța de urgență a Guvernului nr. 55/2001 privind reglementarea rambursării ratelor scadente, precum şi plata altor costuri aferente unor împrumuturi externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28025",
+   "versions": [
+    {
+     "from": "2001-04-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28025",
+     "sha256": "330f8a0407d78e09130000bf415c88839bc548c89c384e3cf7c7bc5a8facce20"
     }
    ]
   },
