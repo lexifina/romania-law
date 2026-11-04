@@ -1,6 +1,6 @@
 # Every act in this repository
 
-27656 acts, 41,299 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+27667 acts, 41,310 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6402,7 +6402,7 @@
 | Ordonanța Guvernului nr. 3/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 70/2022 privind prevenirea, verificarea şi constatarea neregulilor/dublei finanţări, a neregulilor grave apărute în obţinerea şi utilizarea fondurilor externe nerambursabile/rambursabile alocate României prin Mecanismul de redresare şi rezilienţă şi/sau a fondurilor publice naţionale aferente acestora şi recuperarea creanţelor rezultate | [`og/2026/3/`](og/2026/3/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (21263, of which 10957 amending acts)
+## Government decisions (HG) (21274, of which 10964 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6850,8 +6850,19 @@
 | Hotărârea Guvernului nr. 1076/2004 | [`hg/2004/1076/`](hg/2004/1076/) | in force | 3 | 2004-12-03 | 2012-10-29 |
 | Hotărârea Guvernului nr. 1126/2004 | [`hg/2004/1126/`](hg/2004/1126/) | in force | 1 | 2004-07-28 | 2004-07-28 |
 | Hotărârea Guvernului nr. 1210/2004 | [`hg/2004/1210/`](hg/2004/1210/) | in force | 8 | 2004-08-09 | 2012-06-01 |
+| Hotărârea Guvernului nr. 1254/2004 pentru abrogarea Hotărârii Guvernului nr. 1.046/1996 privind înfiinţarea şi organizarea Comisiei Naţionale de Atestare a Maşinilor şi Echipamentelor Tehnologice de Construcţii şi a Registrului Român al Maşinilor şi Echipamentelor Tehnologice de Construcţii | [`hg/2004/1254/`](hg/2004/1254/) | amending act | 1 | 2004-08-23 | 2004-08-23 |
+| Hotărârea Guvernului nr. 1258/2004 privind aprobarea Planului naţional de acţiune pentru combaterea discriminării | [`hg/2004/1258/`](hg/2004/1258/) | amending act | 1 | 2004-08-24 | 2004-08-24 |
+| Hotărârea Guvernului nr. 1260/2004 privind acordarea unui ajutor | [`hg/2004/1260/`](hg/2004/1260/) | in force | 1 | 2004-08-17 | 2004-08-17 |
+| Hotărârea Guvernului nr. 1263/2004 privind acordarea unui ajutor umanitar, constând în materiale de construcţii şi reparat case, pentru strămutarea sau consolidarea gospodăriilor populaţiei din comuna Ştiubieni, satul Negreni, şi din municipiul Botoşani, judeţul Botoşani, afectate de alunecările de teren | [`hg/2004/1263/`](hg/2004/1263/) | in force | 1 | 2004-08-18 | 2004-08-18 |
 | Hotărârea Guvernului nr. 1265/2004 | [`hg/2004/1265/`](hg/2004/1265/) | in force | 1 | 2004-08-25 | 2004-08-25 |
 | Hotărârea Guvernului nr. 1266/2004 | [`hg/2004/1266/`](hg/2004/1266/) | in force | 2 | 2004-08-25 | 2006-08-04 |
+| Hotărârea Guvernului nr. 1267/2004 privind aprobarea încadrării în categoria funcţională a drumurilor comunale a unui drum situat în comuna Păuleşti, judeţul Vrancea | [`hg/2004/1267/`](hg/2004/1267/) | amending act | 1 | 2004-08-23 | 2004-08-23 |
+| Hotărârea Guvernului nr. 1268/2004 privind trecerea unor terenuri din domeniul public al statului şi din administrarea Ministerului Administraţiei şi Internelor în domeniul privat al statului | [`hg/2004/1268/`](hg/2004/1268/) | in force | 1 | 2004-08-24 | 2004-08-24 |
+| Hotărârea Guvernului nr. 1269/2004 privind aprobarea încadrării în categoria funcţională a drumurilor comunale a unui drum situat în comuna Vintileasca, judeţul Vrancea | [`hg/2004/1269/`](hg/2004/1269/) | amending act | 1 | 2004-08-23 | 2004-08-23 |
+| Hotărârea Guvernului nr. 1270/2004 privind aprobarea statutului de consilier de stat al primului-ministru pentru doamna Corina Coman, detaşată de Guvernul Republicii Franceze, în perioada mai 2004-iulie 2005 | [`hg/2004/1270/`](hg/2004/1270/) | amending act | 1 | 2004-08-23 | 2004-08-23 |
+| Hotărârea Guvernului nr. 1271/2004 pentru aprobarea amendamentelor convenite prin scrisoarea semnată la Zagreb la 28 iunie 2004 şi la Bucureşti la 7 iulie 2004 între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare cu privire la Acordul de asistenţă financiară nerambursabilă dintre România, reprezentată prin Ministerul Finanţelor Publice, şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, convenit prin scrisoarea semnată la Washington DC la 8 mai 2002 şi la Bucureşti la 27 mai 2002, pentru Proiectul de dezvoltare instituţională a sectorului privat şi public | [`hg/2004/1271/`](hg/2004/1271/) | amending act | 1 | 2004-08-25 | 2004-08-25 |
+| Hotărârea Guvernului nr. 1272/2004 privind trecerea unei hidrocentrale de mică putere, a staţiei de transformare aferente şi a clădirilor administrative conexe din patrimoniul Societăţii Comerciale de Producere a Energiei Electrice "Hidroelectrica" - S.A. în patrimoniul Companiei Naţionale "Romarm" - S.A. - Filiala Societatea Comercială "Uzina Mecanică Sadu" - S.A | [`hg/2004/1272/`](hg/2004/1272/) | in force | 1 | 2004-08-23 | 2004-08-23 |
+| Hotărârea Guvernului nr. 1273/2004 privind aprobarea Listei cuprinzând echipamentele pentru protecţia mediului, achiziţionate în cadrul proiectului "Reabilitarea grupului nr. 4 de 150 MW din CET Paroşeni", scutite de la plata taxelor vamale şi a taxei pe valoarea adăugată | [`hg/2004/1273/`](hg/2004/1273/) | amending act | 1 | 2004-08-23 | 2004-08-23 |
 | Hotărârea Guvernului nr. 1275/2004 privind suplimentarea bugetului Ministerului Culturii şi Cultelor pe anul 2004, din Fondul de rezervă bugetară la dispoziţia Guvernului, pentru Patriarhia Română - Parohia Ortodoxă Română din Roma, Italia | [`hg/2004/1275/`](hg/2004/1275/) | in force | 1 | 2004-08-23 | 2004-08-23 |
 | Hotărârea Guvernului nr. 1276/2004 privind recunoaşterea "Fundaţiei pentru sprijinul familiilor de vârstnici şi a vârstnicilor aflaţi în situaţie de risc social" ca fiind de utilitate publică | [`hg/2004/1276/`](hg/2004/1276/) | in force | 1 | 2004-08-23 | 2004-08-23 |
 | Hotărârea Guvernului nr. 1279/2004 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru judeţul Olt | [`hg/2004/1279/`](hg/2004/1279/) | in force | 1 | 2004-08-20 | 2004-08-20 |
