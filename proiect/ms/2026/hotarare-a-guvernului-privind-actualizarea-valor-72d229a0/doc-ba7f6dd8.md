@@ -1,0 +1,41 @@
+NOTĂ DE FUNDAMENTARE
+
+HOTĂRÂRE DE GUVERN
+
+privind actualizarea valorii de inventar și a datelor de identificare ale unui imobil aflat în domeniul public al statului și în administrarea Institutului Național de Transfuzie Sanguină ”Prof. Dr. C.T. Nicolau” prin Centrul de transfuzie sanguină Mehedinți, instituție subordonată Ministerului Sănătății
+
+         Proiectul propus spre aprobare nu prezintă impact asupra domeniilor social, economic și de mediu, asupra bugetului general consolidat sau asupra legislației în vigoare și intră sub incidența dispozițiilor art. 1 alin. (3) lit. a) din H.G. nr. 443/2022 pentru aprobarea instrumentului de prezentare și motivare, a structurii raportului privind implementarea actelor normative, a instrucțiunilor metodologice pentru realizarea evaluării impactului, precum și pentru înființarea Consiliului consultativ pentru evaluarea impactului actelor normative, nefiind necesară respectarea structurii prevăzute în anexa nr.1 la această hotărâre.
+Față de cele prezentate, a fost elaborat prezentul proiect de Hotărâre de Guvern privind actualizarea valorii de inventar și a datelor de identificare ale unui imobil aflat în domeniul public al statului și în administrarea Institutului Național de Transfuzie Sanguină ”Prof. Dr. C.T. Nicolau” prin Centrul de transfuzie sanguină Mehedinți, instituție subordonată Ministerului Sănătății, pe care îl supunem Guvernului spre adoptare.
+
+Ministrul Sănătății,
+Prof.univ.dr. Alexandru Rafila
+
+Avizăm favorabil:
+Viceprim – ministru,
+Ministrul transporturilor și infrastructurii
+Sorin-Mihai Grindeanu
+
+Ministrul Finanțelor 			  		                  Ministrul Justiției
+Adrian CÂCIU                                                                             Marian-Cătălin PREDOIU
+
+Motivele emiterii actului normativ
+Prin prezentul proiect de act normativ se are în vedere crearea cadrului legal pentru actualizarea valorii de inventar și descrierea tehnică a unui bun imobil aflat în inventarul centralizat al bunurilor din domeniul public al statului, aprobat prin HG nr. 1705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, cu modificările și completările ulterioare și administrarea Institutului Național de Transfuzie Sanguină ”Prof. Dr. C.T. Nicolau” prin Centrul de transfuzie sanguină Mehedinți, instituție subordonată Ministerului Sănătății.
+Instituțiile publice aflate în subordinea Ministerului Sănătății dețin în administrare bunuri din domeniul public al statului, înregistrate în anexa nr.15 din Hotărârea Guvernului nr. 1705/ 2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, cu modificările și completările ulterioare.
+Institutul Național de Transfuzie Sanguină ”Prof. Dr. C.T. Nicolau” este cuprins în Lista unităților cu personalitate juridică aflate în subordinea Ministerului Sănătății din Anexa II la Hotărârea Guvernului nr.144/2010 privind organizarea și funcționarea Ministerului Sănătății, cu modificările și completările ulterioare.
+Institutul Național de Transfuzie Sanguină ”Prof. Dr. C.T. Nicolau” deține în subordine Centrele de transfuzie sanguină județene potrivit OMS nr. 1250/2022 și H.G. nr. 294/1995 referitoare la reorganizarea Institutului de Hematologie București și stabilirea unor măsuri în aplicarea Legii nr. 4/1995 privind donarea de sânge, utilizarea terapeutică a singelui uman și organizarea transfuzională în România.
+Dreptul de administrare al Institutului Național de Transfuzie Sanguină ”Prof. Dr. C.T. Nicolau” prin Centrul de transfuzie sanguină Mehedinți, din subordinea Ministerului Sănătății, asupra acestui bun imobil, rezultă totodată și din cartea funciară atașată la acest proiect de act normativ.
+Valoarea de inventar se actualizează potrivit prevederilor art. 2^1 și 2^2 din Ordonanța Guvernului nr. 81/2003 privind reevaluarea și amortizarea activelor fixe aflate în patrimoniul instituțiilor publice, aprobată prin Legea nr. 493/2003, cu modificările și completările ulterioare.
+Potrivit dispozițiilor art. 288 alin. (1) din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ, cu completările ulterioare: „Inventarul bunurilor din domeniul public al statului se întocmește și se modifică, după caz, potrivit prevederilor în vigoare, de ministere sau de celelalte organe de specialitate ale administrației publice centrale, atât pentru bunurile aflate în administrarea acestora, cât și pentru bunurile aflate în administrarea unităților din subordinea, coordonarea sau sub autoritatea acestora, precum și de autoritățile publice autonome, și se aprobă prin hotărâre a Guvernului.”
+Urmare a efectuării măsurătorilor cadastrale, a reevaluării activelor și a verificării conformității datelor înscrise în anexa nr. 15 la HG nr. 1705/2006, cu modificările și completările ulterioare, cu situația reală, în vederea realizării concordanței acestora și aplicarea corespunzătoare a prevederilor Ordinului ministrului finanțelor publice nr. 1718/2011 pentru aprobarea Precizărilor privind întocmirea și actualizarea inventarului centralizat al bunurilor din domeniul public al statului, a rezultat necesitatea actualizării anexei nr. 15 la HG nr. 1705/2006, cu modificările și completările ulterioare, în conformitate cu documentele emise.
+        Imobilele aflate în domeniul public al statului și în administrarea Institutului Național de Transfuzie Sanguină ”Prof. Dr. C.T. Nicolau” prin centrele de transfuzii sanguine, instituții subordonate Ministerului Sănătății, au fost reevaluate potrivit dispozițiilor Ordonanței Guvernului nr. 81/2003 privind reevaluarea și amortizarea activelor fixe aflate în patrimoniul instituțiilor publice aprobată prin Legea nr. 493/2003, cu modificările și completările ulterioare, și ale Ordinul Ministrului Finanțelor Publice nr. 3471/2008 pentru aprobarea Normelor metodologice privind reevaluarea și amortizarea activelor fixe aflate în patrimoniul instituțiilor publice, fapt care a condus la apariția unor diferențe între valoarea reevaluată a imobilelor și valoarea lor din inventarul centralizat al bunurilor din domeniul public al statului.
+Prin prezentul proiect se propune:
+
+- actualizarea valorii de inventar și modificarea datelor de identificare ale imobilului, clădiri și teren, aflat în domeniul public al statului și în adminstrarea Institutului Național de Transfuzie Sanguină ”Prof. Dr. C.T. Nicolau” prin Centrul de transfuzie sanguină Mehedinți, din subordinea Ministerului Sănătății
+             Centrul de Transfuzie Sanguină Mehedinți / CUI: 4222247  - instituție publică cu rang de ordonator terțiar de credite, cu sediul în Bdul. Carol I nr. 16., Loc. Drobeta Tr. Severin, Jud. Mehedinți, deține în administrare imobile clădiri și teren aferent, înscrise în inventarul bunurilor din domeniul public al statului cu nr. MF 39208 și întabulate în CF nr. 61194 și nr. 61194-C1.
+Ca urmare a efectuării măsurătorilor cadastrale și evaluării imobilelor se impune actualizarea valorii de inventar și modificarea datelor de identificare în conformitate cu documentele emise. Valoarea imobilelor a fost stabilită prin Raportul de evaluare nr. 1586/18.01.2023 întocmit de către persoana autorizată Cebuc Marian Viorel, în sumă de 1.065.984 lei.
+Prin adresa nr. 101/05.04.2023 unitatea sanitară declară că imobilele nu sunt supuse unor cereri de revendicare, nu se află în litigii pe rolul instanțelor judecătorești, nu sunt grevate de sarcini, nu sunt închiriate sau concesionate.
+
+Valorile stabilite prin rapoartul de evaluare nr. 1586/1801.2023 nu au suferit modificări până la data prezentă conform adresei nr. 102/05.04.2023 transmise de către centrul de transfuzie.
+
+Necesitatea și oportunitatea promovării proiectului de act normativ, corectitudinea și realitatea datelor prezentate în proiectul de act normativ și documentele justificative anexate, aparțin Institutului Național de Hematologie Transfuzională și Centrului de Transfuzie Sanguină Mehedinți, instituție subordonată Ministerului Sănătății.
+Ministerul Sănătății și Ministerul Finanțelor vor actualiza în mod corespunzător datele și vor opera modificările în anexa nr. 15 la Hotărârea Guvernului nr. 1705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului, cu modificările și completările ulterioare.
