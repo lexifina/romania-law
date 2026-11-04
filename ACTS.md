@@ -1,6 +1,6 @@
 # Every act in this repository
 
-26547 acts, 40,189 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+26560 acts, 40,202 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6144,7 +6144,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (20412, of which 10522 amending acts)
+## Government decisions (HG) (20425, of which 10529 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6646,6 +6646,19 @@
 | Hotărârea Guvernului nr. 2293/2004 | [`hg/2004/2293/`](hg/2004/2293/) | in force | 2 | 2004-12-28 | 2016-10-20 |
 | Hotărârea Guvernului nr. 2294/2004 | [`hg/2004/2294/`](hg/2004/2294/) | in force | 1 | 2005-01-11 | 2005-01-11 |
 | Hotărârea Guvernului nr. 2333/2004 | [`hg/2004/2333/`](hg/2004/2333/) | in force | 1 | 2005-01-05 | 2005-01-05 |
+| Hotărârea Guvernului nr. 2335/2004 pentru aprobarea Normelor metodologice privind vânzarea de către Serviciul de Informaţii Externe a locuinţelor de serviciu, proprietate privată a statului, pe care le are în administrare | [`hg/2004/2335/`](hg/2004/2335/) | amending act | 1 | 2004-12-23 | 2004-12-23 |
+| Hotărârea Guvernului nr. 2336/2004 pentru aplicarea de către Serviciul Român de Informaţii a prevederilor Legii nr. 562/2004 privind autorizarea instituţiilor publice din sistemul de apărare, ordine publică şi securitate naţională de a vinde personalului propriu unele locuinţe de serviciu pe care acestea le au în administrare | [`hg/2004/2336/`](hg/2004/2336/) | in force | 1 | 2005-01-03 | 2005-01-03 |
+| Hotărârea Guvernului nr. 2337/2004 privind stabilirea taxelor pentru furnizarea datelor din Registrul naţional de evidenţă a permiselor de conducere şi certificatelor de înmatriculare şi din registrele judeţene şi al municipiului Bucureşti de evidenţă a permiselor de conducere şi certificatelor de înmatriculare | [`hg/2004/2337/`](hg/2004/2337/) | in force | 1 | 2005-01-06 | 2005-01-06 |
+| Hotărârea Guvernului nr. 2338/2004 privind transmiterea unui imobil, proprietate publică a statului, din administrarea Ministerului Sănătăţii - Direcţia de Sănătate Publică a Judeţului Cluj în administrarea Casei de Asigurări de Sănătate Cluj | [`hg/2004/2338/`](hg/2004/2338/) | in force | 1 | 2005-01-03 | 2005-01-03 |
+| Hotărârea Guvernului nr. 2339/2004 pentru modificarea anexei la Hotărârea Guvernului nr. 1.124/2001 privind normarea parcului auto şi a consumului de carburanţi pentru activităţi specifice desfăşurate în unele unităţi din subordinea Ministerului Sănătăţii şi Familiei | [`hg/2004/2339/`](hg/2004/2339/) | amending act | 1 | 2005-01-03 | 2005-01-03 |
+| Hotărârea Guvernului nr. 2340/2004 pentru modificarea alin. (5) al art. 2 din Hotărârea Guvernului nr. 625/1998 privind organizarea şi funcţionarea Autorităţii Rutiere Română - A.R.R | [`hg/2004/2340/`](hg/2004/2340/) | amending act | 1 | 2005-01-03 | 2005-01-03 |
+| Hotărârea Guvernului nr. 2341/2004 pentru înfiinţarea Elementului de Sprijin Naţional pe lângă Reprezentanţa Statului Major General la Comandamentul Suprem al Forţelor Aliate din Europa - SHAPE | [`hg/2004/2341/`](hg/2004/2341/) | in force | 1 | 2005-01-03 | 2005-01-03 |
+| Hotărârea Guvernului nr. 2343/2004 privind trecerea unor imobile din domeniul public al statului şi din administrarea Administraţiei Naţionale "Apele Române" în domeniul public al judeţului Iaşi şi al unor unităţi administrativ-teritoriale de pe raza judeţului Iaşi şi în administrarea Consiliului Judeţean Iaşi şi a unor consilii locale din judeţul Iaşi | [`hg/2004/2343/`](hg/2004/2343/) | in force | 1 | 2004-12-29 | 2004-12-29 |
+| Hotărârea Guvernului nr. 2344/2004 privind trecerea unor bunuri din domeniul public sau privat al statului şi din administrarea Ministerului Administraţiei şi Internelor în domeniul public al unităţilor administrativ-teritoriale şi în administrarea Consiliului General al Municipiului Bucureşti, a consiliilor judeţene sau locale | [`hg/2004/2344/`](hg/2004/2344/) | in force | 1 | 2004-12-30 | 2004-12-30 |
+| Hotărârea Guvernului nr. 2347/2004 pentru aprobarea Aranjamentului tehnic dintre Ministerul Apărării Naţionale din România şi Ministerul Apărării din Republica Franceză privind cooperarea în domeniul geografiei militare, semnat la Bucureşti la 27 octombrie 2004 | [`hg/2004/2347/`](hg/2004/2347/) | amending act | 1 | 2005-01-07 | 2005-01-07 |
+| Hotărârea Guvernului nr. 2349/2004 privind aprobarea unei licenţe de concesiune a activităţii miniere de exploatare, încheiată între Agenţia Naţională pentru Resurse Minerale şi Societatea Comercială "Bega Upsom" - S.A | [`hg/2004/2349/`](hg/2004/2349/) | amending act | 1 | 2004-12-29 | 2004-12-29 |
+| Hotărârea Guvernului nr. 2351/2004 privind aprobarea unei licenţe de concesiune a activităţii miniere de exploatare, încheiată între Agenţia Naţională pentru Resurse Minerale şi Societatea Comercială "Carpat Agregate" - S.A | [`hg/2004/2351/`](hg/2004/2351/) | amending act | 1 | 2004-12-29 | 2004-12-29 |
+| Hotărârea Guvernului nr. 2352/2004 privind modificarea anexei la Legea nr. 526/2003 pentru aprobarea Programului naţional de dezvoltare a turismului montan "Superschi în Carpaţi" | [`hg/2004/2352/`](hg/2004/2352/) | amending act | 1 | 2004-12-24 | 2004-12-24 |
 | Hotărârea Guvernului nr. 2353/2004 privind suplimentarea bugetului Ministerului Agriculturii, Pădurilor şi Dezvoltării Rurale pe anul 2004 din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004 | [`hg/2004/2353/`](hg/2004/2353/) | in force | 1 | 2004-12-24 | 2004-12-24 |
 | Hotărârea Guvernului nr. 2355/2004 privind aprobarea execuţiei bugetelor acţiunilor şi proiectelor derulate în anul 2004 prin bugetul Secretariatului General al Guvernului | [`hg/2004/2355/`](hg/2004/2355/) | amending act | 1 | 2004-12-29 | 2004-12-29 |
 | Hotărârea Guvernului nr. 2359/2004 privind alocarea unor sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru asigurarea cheltuielilor de personal ale unităţilor de învăţământ preuniversitar de stat | [`hg/2004/2359/`](hg/2004/2359/) | in force | 1 | 2004-12-23 | 2004-12-23 |
