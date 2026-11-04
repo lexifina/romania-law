@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38498 acts, 52,251 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38500 acts, 52,253 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -11996,7 +11996,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26468, of which 12376 amending acts)
+## Government decisions (HG) (26470, of which 12377 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13104,6 +13104,8 @@
 | Hotărârea Guvernului nr. 1048/2001 pentru aprobarea programului "Constituirea Fondului naţional de garantare a creditelor pentru întreprinderile mici şi mijlocii" finanţat din bugetul Ministerului pentru Întreprinderile Mici şi Mijlocii şi Cooperaţie pe anul 2001 | [`hg/2001/1048/`](hg/2001/1048/) | amended, not consolidated | 1 | 2001-10-29 | 2001-10-29 |
 | Hotărârea Guvernului nr. 1052/2001 privind aprobarea volumului maxim de masa lemnoasă care se va recolta în anul 2002 | [`hg/2001/1052/`](hg/2001/1052/) | amended, not consolidated | 1 | 2001-10-30 | 2001-10-30 |
 | Hotărârea Guvernului nr. 1055/2001 privind condiţiile de introducere pe piaţa a mijloacelor de măsurare | [`hg/2001/1055/`](hg/2001/1055/) | amended, not consolidated | 1 | 2002-11-05 | 2002-11-05 |
+| Hotărârea Guvernului nr. 1061/2001 pentru modificarea art. 4 din Hotărârea Guvernului nr. 691/2001 privind înfiinţarea Muzeului Naţional de Arta Contemporana al României | [`hg/2001/1061/`](hg/2001/1061/) | amending act | 1 | 2001-10-31 | 2001-10-31 |
+| Hotărârea Guvernului nr. 1062/2001 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului pe anul 2001 pentru continuarea lucrărilor la Aşezământul românesc din Ierihon, Israel | [`hg/2001/1062/`](hg/2001/1062/) | in force | 1 | 2001-10-31 | 2001-10-31 |
 | Hotărârea Guvernului nr. 1065/2001 privind aprobarea Programului naţional de prevenire a corupţiei şi a Planului naţional de acţiune împotriva corupţiei | [`hg/2001/1065/`](hg/2001/1065/) | amending act | 1 | 2001-11-15 | 2001-11-15 |
 | Hotărârea Guvernului nr. 1066/2001 privind unele măsuri în vederea constituirii unui parc industrial în cadrul Societăţii Comerciale "Uzina Mecanică Vălenii de Munte" - S.A | [`hg/2001/1066/`](hg/2001/1066/) | amended, not consolidated | 1 | 2001-10-30 | 2001-10-30 |
 | Hotărârea Guvernului nr. 1070/2001 privind acordarea unor burse de studiu lunare tinerilor români aflaţi la studii în străinătate | [`hg/2001/1070/`](hg/2001/1070/) | amended, not consolidated | 1 | 2001-11-16 | 2001-11-16 |

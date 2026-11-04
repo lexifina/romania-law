@@ -115835,6 +115835,21 @@
    ]
   },
   {
+   "slug": "hg-1061-2001",
+   "path": "hg/2001/1061",
+   "short": "HG nr. 1061/2001",
+   "title": "Hotărârea Guvernului nr. 1061/2001 pentru modificarea art. 4 din Hotărârea Guvernului nr. 691/2001 privind înfiinţarea Muzeului Naţional de Arta Contemporana al României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31917",
+   "versions": [
+    {
+     "from": "2001-10-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31917",
+     "sha256": "e9bbf0059b513b90f306c0468e854a29a96d8a7239fdbd45372fd3a1e5a0ca18"
+    }
+   ]
+  },
+  {
    "slug": "hg-1061-2003",
    "path": "hg/2003/1061",
    "short": "HG nr. 1061/2003",
@@ -116056,6 +116071,21 @@
      "units": 20,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305059",
      "sha256": "37724131a2c0f869f37979f1f3f7796ad1c99da7176e32afa45cec30cf9d23d9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1062-2001",
+   "path": "hg/2001/1062",
+   "short": "HG nr. 1062/2001",
+   "title": "Hotărârea Guvernului nr. 1062/2001 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului pe anul 2001 pentru continuarea lucrărilor la Aşezământul românesc din Ierihon, Israel",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31918",
+   "versions": [
+    {
+     "from": "2001-10-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31918",
+     "sha256": "887286658f46669e319ae4481b874ff57c1a20711c7d09394a0723eb5fb4b483"
     }
    ]
   },
