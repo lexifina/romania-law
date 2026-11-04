@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38448 acts, 52,201 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38452 acts, 52,205 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8067, of which 2901 amending acts)
+## Laws (legi) (8071, of which 2903 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1084,9 +1084,13 @@
 | Legea nr. 608/2001 | [`lege/2001/608/`](lege/2001/608/) | repealed 2010-08-29 | 10 | 2002-05-08 | 2010-08-29 |
 | Legea nr. 612/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 70/2000 pentru modificarea Legii nr. 29/2000 privind sistemul naţional de decoraţii al României | [`lege/2001/612/`](lege/2001/612/) | amended, not consolidated | 1 | 2001-11-09 | 2001-11-09 |
 | Legea nr. 619/2001 privind aprobarea Ordonanţei Guvernului nr. 21/2001 pentru ratificarea Memorandumului de finanţare convenit între Guvernul României şi Comisia Europeană privind asistenţa financiară nerambursabilă acordată prin Instrumentul pentru Politici Structurale de Preaderare pentru măsura "Reabilitarea secţiunii Craiova-Drobeta-Turnu Severin a drumului naţional DN 6 (faza 1 a proiectului Craiova-Lugoj), România", semnat la Bruxelles la 22 februarie 2001 şi la Bucureşti la 1 iunie 2001 | [`lege/2001/619/`](lege/2001/619/) | amended, not consolidated | 1 | 2001-11-19 | 2001-11-19 |
+| Legea nr. 620/2001 pentru ratificarea Acordului dintre România şi Bosnia şi Herţegovina privind promovarea şi protejarea reciprocă a investiţiilor, semnat la Sarajevo la 20 februarie 2001 | [`lege/2001/620/`](lege/2001/620/) | in force | 1 | 2001-11-20 | 2001-11-20 |
 | Legea nr. 621/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 75/2000 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 24/1998 privind regimul zonelor defavorizate, republicată | [`lege/2001/621/`](lege/2001/621/) | amended, not consolidated | 1 | 2001-11-19 | 2001-11-19 |
+| Legea nr. 622/2001 pentru ratificarea Actului final al negocierilor dintre Guvernul României şi Comunitatea Europeană de adoptare a Acordului privind participarea României la Agenţia Europeană de Mediu şi la Reţeaua europeană de informare şi observare a mediului (EIONET), adoptat la Bruxelles la 9 octombrie 2000, şi a Acordului dintre România şi Comunitatea Europeană privind participarea României la Agenţia Europeană de Mediu şi la Reţeaua europeană de informare şi observare a mediului | [`lege/2001/622/`](lege/2001/622/) | in force | 1 | 2001-12-03 | 2001-12-03 |
 | Legea nr. 623/2001 privind aprobarea Ordonanţei Guvernului nr. 17/2001 pentru ratificarea Memorandumului de finanţare convenit între Guvernul României şi Comisia Europeană privind asistenţa financiară nerambursabilă acordată prin Instrumentul pentru Politici Structurale de Preaderare pentru măsura "Reabilitarea şi extinderea reţelei de canalizare şi construirea unei staţii de epurare a apelor uzate în municipiul Brăila, România", semnat la Bruxelles la 15 februarie 2001 şi la Bucureşti la 1 iunie 2001 | [`lege/2001/623/`](lege/2001/623/) | amended, not consolidated | 1 | 2001-11-19 | 2001-11-19 |
 | Legea nr. 624/2001 pentru aprobarea Ordonanţei Guvernului nr. 45/2000 privind unele măsuri pentru combaterea producerii şi comercializării neautorizate a fonogramelor | [`lege/2001/624/`](lege/2001/624/) | amended, not consolidated | 1 | 2001-11-15 | 2001-11-15 |
+| Legea nr. 625/2001 privind aprobarea Ordonanţei Guvernului nr. 39/2001 pentru aprobarea amendamentelor convenite prin schimb de scrisori între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare cu privire la Acordul de asistenţa financiară nerambursabilă dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare din fondurile Facilităţii globale de mediu (FGM) pentru finanţarea Proiectului "Managementul conservării biodiversităţii", în valoare de 5,5 milioane dolari S.U.A. echivalent, semnat la Washington la 17 iunie 1999, şi pentru modificarea Ordonanţei Guvernului nr. 47/1999 | [`lege/2001/625/`](lege/2001/625/) | amending act | 1 | 2001-11-20 | 2001-11-20 |
+| Legea nr. 627/2001 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 154/1999 pentru modificarea art. 1 din Ordonanţa de urgenţă a Guvernului nr. 120/1999 privind unele măsuri de restructurare financiară a Băncii Agricole - S.A | [`lege/2001/627/`](lege/2001/627/) | amending act | 1 | 2001-11-20 | 2001-11-20 |
 | Legea nr. 628/2001 privind aprobarea Ordonanţei Guvernului nr. 120/2000 pentru modificarea şi completarea Legii nr. 129/1998 privind înfiinţarea, organizarea şi funcţionarea Fondului Român de Dezvoltare Socială | [`lege/2001/628/`](lege/2001/628/) | amending act | 1 | 2001-11-13 | 2001-11-13 |
 | Legea nr. 629/2001 pentru aprobarea Ordonanţei Guvernului nr. 124/1998 privind organizarea şi funcţionarea cabinetelor medicale | [`lege/2001/629/`](lege/2001/629/) | amended, not consolidated | 1 | 2001-11-13 | 2001-11-13 |
 | Legea nr. 630/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 218/2000 pentru completarea pct. V al art. 17 din Legea nr. 40/1990 privind organizarea şi funcţionarea Ministerului de Interne | [`lege/2001/630/`](lege/2001/630/) | amending act | 1 | 2001-11-27 | 2001-11-27 |

@@ -17818,6 +17818,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/32256"
 },
 {
+"slug": "legea-620-2001",
+"path": "lege/2001/620",
+"kind": "lege",
+"year": "2001",
+"number": "620",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 620/2001 pentru ratificarea Acordului dintre România şi Bosnia şi Herţegovina privind promovarea şi protejarea reciprocă a investiţiilor, semnat la Sarajevo la 20 februarie 2001",
+"short": "Legea nr. 620/2001",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2001-11-20",
+"latest": "2001-11-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/32283"
+},
+{
 "slug": "legea-621-2001",
 "path": "lege/2001/621",
 "kind": "lege",
@@ -17833,6 +17850,23 @@
 "from": "2001-11-19",
 "latest": "2001-11-19",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/32262"
+},
+{
+"slug": "legea-622-2001",
+"path": "lege/2001/622",
+"kind": "lege",
+"year": "2001",
+"number": "622",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 622/2001 pentru ratificarea Actului final al negocierilor dintre Guvernul României şi Comunitatea Europeană de adoptare a Acordului privind participarea României la Agenţia Europeană de Mediu şi la Reţeaua europeană de informare şi observare a mediului (EIONET), adoptat la Bruxelles la 9 octombrie 2000, şi a Acordului dintre România şi Comunitatea Europeană privind participarea României la Agenţia Europeană de Mediu şi la Reţeaua europeană de informare şi observare a mediului",
+"short": "Legea nr. 622/2001",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2001-12-03",
+"latest": "2001-12-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/32479"
 },
 {
 "slug": "legea-623-2001",
@@ -17867,6 +17901,40 @@
 "from": "2001-11-15",
 "latest": "2001-11-15",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/32205"
+},
+{
+"slug": "legea-625-2001",
+"path": "lege/2001/625",
+"kind": "lege",
+"year": "2001",
+"number": "625",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 625/2001 privind aprobarea Ordonanţei Guvernului nr. 39/2001 pentru aprobarea amendamentelor convenite prin schimb de scrisori între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare cu privire la Acordul de asistenţa financiară nerambursabilă dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare din fondurile Facilităţii globale de mediu (FGM) pentru finanţarea Proiectului \"Managementul conservării biodiversităţii\", în valoare de 5,5 milioane dolari S.U.A. echivalent, semnat la Washington la 17 iunie 1999, şi pentru modificarea Ordonanţei Guvernului nr. 47/1999",
+"short": "Legea nr. 625/2001",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2001-11-20",
+"latest": "2001-11-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/32276"
+},
+{
+"slug": "legea-627-2001",
+"path": "lege/2001/627",
+"kind": "lege",
+"year": "2001",
+"number": "627",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 627/2001 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 154/1999 pentru modificarea art. 1 din Ordonanţa de urgenţă a Guvernului nr. 120/1999 privind unele măsuri de restructurare financiară a Băncii Agricole - S.A",
+"short": "Legea nr. 627/2001",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2001-11-20",
+"latest": "2001-11-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/32280"
 },
 {
 "slug": "legea-628-2001",
