@@ -1,6 +1,6 @@
 # Every act in this repository
 
-43315 acts, 57,069 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); an order adds its issuer, `ordin/<issuer>/<year>/<number>[-<series>]/` (`ordin/justitie/2012/492-c/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+43336 acts, 57,090 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); an order adds its issuer, `ordin/<issuer>/<year>/<number>[-<series>]/` (`ordin/justitie/2012/492-c/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -12218,7 +12218,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26941, of which 12564 amending acts)
+## Government decisions (HG) (26962, of which 12565 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13220,9 +13220,30 @@
 | Hotărârea Guvernului nr. 102/2001 | [`hg/2001/102/`](hg/2001/102/) | in force | 1 | 2001-01-15 | 2001-01-15 |
 | Hotărârea Guvernului nr. 161/2001 pentru modificarea alin. (2) al art. 1 din Hotărârea Guvernului nr. 240/1997 privind stabilirea preţurilor, tarifelor şi adaosurilor comerciale maximale la unele produse şi servicii reglementate potrivit Legii concurentei nr. 21/1996 , a impozitului pe ţiţei şi gaze din producţia internă şi a modului de reglementare a cheltuielilor necesare realizării, dezvoltării şi modernizării producţiei la produsele respective şi pentru aprobarea Listei cuprinzând produsele din industria cărbunelui, minereurilor feroase, neferoase, radioactive, rare şi nemetalifere care se subvenţionează de la bugetul de stat în anul 2001 | [`hg/2001/161/`](hg/2001/161/) | amended, not consolidated | 1 | 2001-01-15 | 2001-01-15 |
 | Hotărârea Guvernului nr. 165/2001 pentru aprobarea Contractului-cadru privind condiţiile acordării asistenţei medicale în cadrul sistemului asigurărilor sociale de sănătate pentru anul 2001 | [`hg/2001/165/`](hg/2001/165/) | amended, not consolidated | 1 | 2001-01-19 | 2001-01-19 |
+| Hotărârea Guvernului nr. 167/2001 privind acordarea unor ajutoare de urgenta | [`hg/2001/167/`](hg/2001/167/) | in force | 1 | 2001-01-22 | 2001-01-22 |
 | Hotărârea Guvernului nr. 169/2001 privind participarea Ministerului Turismului la manifestările expoziţionale internaţionale de turism în semestrul I al anului 2001 | [`hg/2001/169/`](hg/2001/169/) | amended, not consolidated | 1 | 2001-01-24 | 2001-01-24 |
 | Hotărârea Guvernului nr. 173/2001 privind reorganizarea Regiei Naţionale a Pădurilor | [`hg/2001/173/`](hg/2001/173/) | amended, not consolidated | 1 | 2001-01-29 | 2001-01-29 |
+| Hotărârea Guvernului nr. 175/2001 cu privire la asigurarea plăţii serviciilor medicale, inclusiv a obligaţiilor către furnizorii de medicamente şi materiale sanitare rămase nedecontate până la finele anului 2000, din Fondul de asigurări sociale de sănătate | [`hg/2001/175/`](hg/2001/175/) | in force | 1 | 2001-01-29 | 2001-01-29 |
+| Hotărârea Guvernului nr. 176/2001 privind eliberarea din funcţie a inspectorului general al Inspectoratului General al Poliţiei | [`hg/2001/176/`](hg/2001/176/) | in force | 1 | 2001-01-29 | 2001-01-29 |
+| Hotărârea Guvernului nr. 178/2001 privind eliberarea din funcţia de prefect al municipiului Bucureşti | [`hg/2001/178/`](hg/2001/178/) | in force | 1 | 2001-01-29 | 2001-01-29 |
+| Hotărârea Guvernului nr. 179/2001 privind eliberarea din funcţia de prefect al judeţului Neamţ | [`hg/2001/179/`](hg/2001/179/) | in force | 1 | 2001-01-29 | 2001-01-29 |
+| Hotărârea Guvernului nr. 180/2001 privind eliberarea din funcţia de prefect al judeţului Sibiu | [`hg/2001/180/`](hg/2001/180/) | in force | 1 | 2001-01-29 | 2001-01-29 |
+| Hotărârea Guvernului nr. 181/2001 privind eliberarea din funcţia de prefect al judeţului Bihor | [`hg/2001/181/`](hg/2001/181/) | in force | 1 | 2001-01-29 | 2001-01-29 |
+| Hotărârea Guvernului nr. 182/2001 privind numirea în funcţia de prefect al judeţului Valcea | [`hg/2001/182/`](hg/2001/182/) | in force | 1 | 2001-01-29 | 2001-01-29 |
+| Hotărârea Guvernului nr. 183/2001 privind numirea în funcţia de prefect al judeţului Sibiu | [`hg/2001/183/`](hg/2001/183/) | in force | 1 | 2001-01-29 | 2001-01-29 |
+| Hotărârea Guvernului nr. 185/2001 privind numirea în funcţia de prefect al judeţului Bistriţa-Năsăud | [`hg/2001/185/`](hg/2001/185/) | in force | 1 | 2001-01-29 | 2001-01-29 |
+| Hotărârea Guvernului nr. 186/2001 privind numirea în funcţia de prefect al judeţului Bihor | [`hg/2001/186/`](hg/2001/186/) | in force | 1 | 2001-01-29 | 2001-01-29 |
+| Hotărârea Guvernului nr. 188/2001 pentru modificarea Hotărârii Guvernului nr. 1.255/2000 privind acordarea unui ajutor nerambursabil Republicii Moldova, sub forma de energie electrică | [`hg/2001/188/`](hg/2001/188/) | amending act | 1 | 2001-01-29 | 2001-01-29 |
 | Hotărârea Guvernului nr. 189/2001 privind unele măsuri referitoare la efectuarea deplasărilor în străinătate, în interes de serviciu, de către demnitarii şi asimilaţii acestora din administraţia publică | [`hg/2001/189/`](hg/2001/189/) | amended, not consolidated | 1 | 2001-01-30 | 2001-01-30 |
+| Hotărârea Guvernului nr. 190/2001 privind eliberarea din funcţia de subprefect al municipiului Bucureşti | [`hg/2001/190/`](hg/2001/190/) | in force | 1 | 2001-01-31 | 2001-01-31 |
+| Hotărârea Guvernului nr. 191/2001 privind eliberarea din funcţia de subprefect al municipiului Bucureşti | [`hg/2001/191/`](hg/2001/191/) | in force | 1 | 2001-01-31 | 2001-01-31 |
+| Hotărârea Guvernului nr. 193/2001 privind eliberarea din funcţia de subprefect al judeţului Mureş | [`hg/2001/193/`](hg/2001/193/) | in force | 1 | 2001-01-31 | 2001-01-31 |
+| Hotărârea Guvernului nr. 194/2001 privind eliberarea din funcţia de subprefect al judeţului Neamţ | [`hg/2001/194/`](hg/2001/194/) | in force | 1 | 2001-01-31 | 2001-01-31 |
+| Hotărârea Guvernului nr. 196/2001 privind numirea în funcţia de subprefect al judeţului Arad | [`hg/2001/196/`](hg/2001/196/) | in force | 1 | 2001-01-31 | 2001-01-31 |
+| Hotărârea Guvernului nr. 204/2001 privind numirea în funcţia de subprefect al judeţului Satu Mare | [`hg/2001/204/`](hg/2001/204/) | in force | 1 | 2001-01-31 | 2001-01-31 |
+| Hotărârea Guvernului nr. 205/2001 privind numirea în funcţia de subprefect al judeţului Sălaj | [`hg/2001/205/`](hg/2001/205/) | in force | 1 | 2001-01-31 | 2001-01-31 |
+| Hotărârea Guvernului nr. 206/2001 privind numirea în funcţia de subprefect al judeţului Sibiu | [`hg/2001/206/`](hg/2001/206/) | in force | 1 | 2001-01-31 | 2001-01-31 |
+| Hotărârea Guvernului nr. 207/2001 privind numirea în funcţia de subprefect al judeţului Tulcea | [`hg/2001/207/`](hg/2001/207/) | in force | 1 | 2001-01-31 | 2001-01-31 |
 | Hotărârea Guvernului nr. 208/2001 privind aprobarea prelungirii aplicării unor programe de interes naţional în domeniul protecţiei drepturilor copilului aflat în dificultate | [`hg/2001/208/`](hg/2001/208/) | amending act | 1 | 2001-01-31 | 2001-01-31 |
 | Hotărârea Guvernului nr. 209/2001 privind acordarea unor ajutoare de urgenta | [`hg/2001/209/`](hg/2001/209/) | in force | 1 | 2001-01-31 | 2001-01-31 |
 | Hotărârea Guvernului nr. 211/2001 privind acordarea unor ajutoare de urgenta | [`hg/2001/211/`](hg/2001/211/) | in force | 1 | 2001-01-31 | 2001-01-31 |
