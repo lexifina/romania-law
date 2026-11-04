@@ -18787,6 +18787,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/33900"
 },
 {
+"slug": "legea-11-2002",
+"path": "lege/2002/11",
+"kind": "lege",
+"year": "2002",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 11/2002 privind respingerea Ordonanţei Guvernului nr. 27/1998 pentru majorarea limitelor minime şi maxime ale amenzilor contravenţionale stabilite prin Legea nr. 25/1969 privind regimul străinilor în România",
+"short": "Legea nr. 11/2002",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2002-02-05",
+"latest": "2002-02-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/33902"
+},
+{
 "slug": "legea-12-2002",
 "path": "lege/2002/12",
 "kind": "lege",

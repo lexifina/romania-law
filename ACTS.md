@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38210 acts, 51,961 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38211 acts, 51,962 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (7972, of which 2824 amending acts)
+## Laws (legi) (7973, of which 2825 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1141,6 +1141,7 @@
 | Legea nr. 8/2002 privind jurământul de credinţa fata de ţara şi popor al senatorilor şi deputaţilor din Parlamentul României | [`lege/2002/8/`](lege/2002/8/) | amended, not consolidated | 1 | 2002-02-05 | 2002-02-05 |
 | Legea nr. 9/2002 privind denunţarea Convenţiei internaţionale pentru unificarea anumitor reguli în materie de conosament, semnată la Bruxelles la 25 august 1924 | [`lege/2002/9/`](lege/2002/9/) | amended, not consolidated | 1 | 2002-02-05 | 2002-02-05 |
 | Legea nr. 10/2002 pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 62/2001 privind conversia în acţiuni a unor sume datorate statului | [`lege/2002/10/`](lege/2002/10/) | amended, not consolidated | 1 | 2002-02-05 | 2002-02-05 |
+| Legea nr. 11/2002 privind respingerea Ordonanţei Guvernului nr. 27/1998 pentru majorarea limitelor minime şi maxime ale amenzilor contravenţionale stabilite prin Legea nr. 25/1969 privind regimul străinilor în România | [`lege/2002/11/`](lege/2002/11/) | amending act | 1 | 2002-02-05 | 2002-02-05 |
 | Legea nr. 12/2002 privind aprobarea Ordonanţei Guvernului nr. 35/2001 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Portugheze privind şederea temporară în scopul angajării lucrătorilor români pe teritoriul Republicii Portugheze, semnat la Lisabona la 19 iulie 2001 | [`lege/2002/12/`](lege/2002/12/) | amended, not consolidated | 1 | 2002-02-05 | 2002-02-05 |
 | Legea nr. 13/2002 pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 2/2000 privind modificarea coeficienţilor de multiplicare pentru unele funcţii prevăzute în anexele nr. V-VIII la Legea nr. 154/1998 privind sistemul de stabilire a salariilor de baza în sectorul bugetar şi a indemnizaţiilor pentru persoane care ocupa funcţii de demnitate publică | [`lege/2002/13/`](lege/2002/13/) | amended, not consolidated | 1 | 2002-02-05 | 2002-02-05 |
 | Legea nr. 15/2002 privind aprobarea Ordonanţei Guvernului nr. 9/2001 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 57/2000 privind salarizarea personalului Consiliului Naţional pentru Studierea Arhivelor Securităţii, precum şi indemnizaţiile şi celelalte drepturi ale membrilor Colegiului Consiliului | [`lege/2002/15/`](lege/2002/15/) | amended, not consolidated | 1 | 2002-01-24 | 2002-01-24 |
