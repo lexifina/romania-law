@@ -1,6 +1,6 @@
 # Every act in this repository
 
-27441 acts, 41,084 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+27453 acts, 41,096 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6392,7 +6392,7 @@
 | Ordonanța Guvernului nr. 3/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 70/2022 privind prevenirea, verificarea şi constatarea neregulilor/dublei finanţări, a neregulilor grave apărute în obţinerea şi utilizarea fondurilor externe nerambursabile/rambursabile alocate României prin Mecanismul de redresare şi rezilienţă şi/sau a fondurilor publice naţionale aferente acestora şi recuperarea creanţelor rezultate | [`og/2026/3/`](og/2026/3/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (21058, of which 10871 amending acts)
+## Government decisions (HG) (21070, of which 10876 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6866,6 +6866,18 @@
 | Hotărârea Guvernului nr. 1547/2004 | [`hg/2004/1547/`](hg/2004/1547/) | in force | 1 | 2004-10-12 | 2004-10-12 |
 | Hotărârea Guvernului nr. 1550/2004 | [`hg/2004/1550/`](hg/2004/1550/) | in force | 2 | 2004-10-01 | 2005-02-28 |
 | Hotărârea Guvernului nr. 1553/2004 | [`hg/2004/1553/`](hg/2004/1553/) | in force | 4 | 2007-01-01 | 2011-09-30 |
+| Hotărârea Guvernului nr. 1584/2004 privind recunoaşterea Fundaţiei Colegiului Naţional de Apărare ca fiind de utilitate publică | [`hg/2004/1584/`](hg/2004/1584/) | in force | 1 | 2004-10-06 | 2004-10-06 |
+| Hotărârea Guvernului nr. 1585/2004 privind transmiterea unui imobil din administrarea Ministerului Administraţiei şi Internelor în administrarea Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat", cu destinaţia de sediu pentru Oficiul Naţional pentru Cultul Eroilor | [`hg/2004/1585/`](hg/2004/1585/) | in force | 1 | 2004-10-06 | 2004-10-06 |
+| Hotărârea Guvernului nr. 1586/2004 privind trecerea unor imobile din domeniul privat al statului şi din administrarea Ministerului Apărării Naţionale în domeniul privat al comunei Pantelimon şi în administrarea Consiliului Local al Comunei Pantelimon, judeţul Ilfov | [`hg/2004/1586/`](hg/2004/1586/) | in force | 1 | 2004-10-06 | 2004-10-06 |
+| Hotărârea Guvernului nr. 1587/2004 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Reabilitarea colectării, transportului, tratării şi depozitării deşeurilor solide în judeţul Dâmboviţa" | [`hg/2004/1587/`](hg/2004/1587/) | amending act | 1 | 2004-10-06 | 2004-10-06 |
+| Hotărârea Guvernului nr. 1588/2004 privind constituirea, organizarea şi funcţionarea Comisiei interministeriale pentru finalizarea politicii de stabilire a sistemului unitar de salarizare a funcţionarilor publici | [`hg/2004/1588/`](hg/2004/1588/) | in force | 1 | 2004-10-06 | 2004-10-06 |
+| Hotărârea Guvernului nr. 1589/2004 privind trecerea, fără plată, a unei clădiri din patrimoniul Regiei Naţionale a Pădurilor - Romsilva, Direcţia Silvică Suceava, în domeniul public al statului şi în administrarea Ministerului Educaţiei şi Cercetării, pentru Universitatea "Ştefan cel Mare" din Suceava, judeţul Suceava | [`hg/2004/1589/`](hg/2004/1589/) | in force | 1 | 2004-10-07 | 2004-10-07 |
+| Hotărârea Guvernului nr. 1590/2004 privind trecerea, fără plată, a unei clădiri din patrimoniul Regiei Naţionale a Pădurilor - Romsilva, Direcţia Silvică Suceava, în domeniul public al statului şi în administrarea Ministerului Educaţiei şi Cercetării, pentru Universitatea "Ştefan cel Mare" din Suceava, judeţul Suceava | [`hg/2004/1590/`](hg/2004/1590/) | in force | 1 | 2004-10-07 | 2004-10-07 |
+| Hotărârea Guvernului nr. 1591/2004 privind suplimentarea bugetului Serviciului de Protecţie şi Pază din Fondul de rezervă bugetară la dispoziţia Guvernului | [`hg/2004/1591/`](hg/2004/1591/) | in force | 1 | 2004-10-11 | 2004-10-11 |
+| Hotărârea Guvernului nr. 1592/2004 privind aprobarea unei licenţe de concesiune a activităţii miniere de exploatare, încheiată între Agenţia Naţională pentru Resurse Minerale şi Societatea Comercială "PHOENIX" - S.A | [`hg/2004/1592/`](hg/2004/1592/) | amending act | 1 | 2004-10-11 | 2004-10-11 |
+| Hotărârea Guvernului nr. 1593/2004 privind aprobarea unei licenţe de concesiune a activităţii miniere de exploatare, încheiată între Agenţia Naţională pentru Resurse Minerale şi Administraţia Naţională "Apele Române" | [`hg/2004/1593/`](hg/2004/1593/) | amending act | 1 | 2004-10-11 | 2004-10-11 |
+| Hotărârea Guvernului nr. 1594/2004 privind aprobarea unor licenţe de concesiune a activităţii miniere de exploatare, încheiate între Agenţia Naţională pentru Resurse Minerale şi Societatea Comercială "Conar" - S.A | [`hg/2004/1594/`](hg/2004/1594/) | amending act | 1 | 2004-10-11 | 2004-10-11 |
+| Hotărârea Guvernului nr. 1598/2004 privind aprobarea unor licenţe de concesiune a activităţii miniere de exploatare, încheiate între Agenţia Naţională pentru Resurse Minerale şi Societatea Comercială "Cema" - S.A | [`hg/2004/1598/`](hg/2004/1598/) | amending act | 1 | 2004-10-11 | 2004-10-11 |
 | Hotărârea Guvernului nr. 1600/2004 privind suplimentarea bugetului Parchetului Naţional Anticorupţie pe anul 2004 din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2004 | [`hg/2004/1600/`](hg/2004/1600/) | in force | 1 | 2004-10-07 | 2004-10-07 |
 | Hotărârea Guvernului nr. 1601/2004 privind aprobarea finanţării vizitei în România a unor invitaţi străini cu ocazia comemorării, în plan naţional, a Zilei Holocaustului în România | [`hg/2004/1601/`](hg/2004/1601/) | amending act | 1 | 2004-10-08 | 2004-10-08 |
 | Hotărârea Guvernului nr. 1602/2004 privind aprobarea extinderii Sistemului informatic pentru şedinţele Guvernului | [`hg/2004/1602/`](hg/2004/1602/) | amending act | 1 | 2004-10-11 | 2004-10-11 |
