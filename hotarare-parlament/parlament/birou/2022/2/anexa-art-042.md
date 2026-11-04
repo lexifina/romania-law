@@ -1,0 +1,2 @@
+# Anexa: Articolul 42
+Elaborarea proiectelor de coduri sau de alte legi complexe va fi precedată de o activitate de documentare, finalizată prin studii care vor cuprinde analiza legislației existente în domeniul supus reglementării, imperfecțiunile acesteia sau lipsa unei reglementări în materie, istoricul reglementării în dreptul românesc și de drept comparat, cu prezentarea efectelor previzibile ale soluțiilor preconizate.

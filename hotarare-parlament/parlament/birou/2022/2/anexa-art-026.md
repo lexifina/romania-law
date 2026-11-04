@@ -1,0 +1,2 @@
+# Anexa: Articolul 26
+După verificarea întrunirii condițiilor legale, președintele Consiliului Legislativ repartizează lucrarea, prin rezoluție, către secțiile competente și stabilește termenul de soluționare a lucrării. Prin excepție, președintele Consiliului Legislativ stabilește colectivul care examinează lucrarea, precum și persoana care întocmește proiectul avizului sau al notei de restituire.

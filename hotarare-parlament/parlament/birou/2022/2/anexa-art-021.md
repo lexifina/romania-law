@@ -1,0 +1,2 @@
+# Anexa: Articolul 21
+(1) Departamentul de informatică legislativă are în structura sa Serviciul pentru proiectarea și implementarea arhitecturilor hardware și software și Biroul pentru proiectarea și implementarea de baze de date legislative. (2) Activitatea Departamentului de informatică legislativă se desfășoară pe bază de proiecte TIC coordonate de un șef de proiect, desemnat de președintele Consiliului Legislativ, la propunerea șefului de departament.

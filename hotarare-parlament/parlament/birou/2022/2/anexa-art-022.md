@@ -1,0 +1,2 @@
+# Anexa: Articolul 22
+(1) Departamentul de informatică legislativă este condus de un șef de departament, care are următoarele atribuții principale: a) coordonează activitatea șefilor de proiecte; ... b) stabilește arhitectura software și hardware din cadrul Sistemului Integrat pentru managementului legislației la nivelul Consiliului Legislativ. ... (2) Șeful de departament este ajutat în activitatea sa de șeful de serviciu, care este locțiitorul de drept al acestuia.

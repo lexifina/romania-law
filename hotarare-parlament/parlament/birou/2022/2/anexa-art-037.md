@@ -1,0 +1,2 @@
+# Anexa: Articolul 37
+(1) Avizul favorabil cu observații sau propuneri cuprinde observațiile de principiu și, subsecvent, cele cu privire la text, în ordinea grupării pe articole. (2) Propunerile de reformulare a textului se fac prin redarea noului text în forma avută în vedere. (3) Observațiile pot fi fundamentate și pe lucrări de doctrină, jurisprudență și legislație comparată, fără a cuprinde considerații cu caracter politic.

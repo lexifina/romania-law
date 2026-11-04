@@ -1,0 +1,2 @@
+# Anexa: Articolul 75
+(1) Încadrarea pe funcțiile prevăzute la art. 74 încetează prin demisie, în cazul încălcării articolului precedent, al pierderii drepturilor electorale, în situația condamnării definitive pentru săvârșirea unei infracțiuni sau, după caz, în alte situații prevăzute de lege. (2) Încetarea exercitării funcțiilor se constată de către conducătorii autorităților în fața cărora cei care ocupă aceste funcții au prestat jurământul.

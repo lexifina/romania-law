@@ -1,0 +1,2 @@
+# Anexa: Articolul 76
+Salarizarea și celelalte drepturi de natură salarială ale personalului Consiliului Legislativ sunt corespunzătoare celor stabilite pentru personalul cu funcții similare din aparatul celor două Camere ale Parlamentului. Funcția de secretar general este asimilată, din punctul de vedere al salarizării, funcției de șef de departament, iar ceilalți funcționari publici sunt salarizați potrivit reglementărilor legale aplicabile funcțiilor respective.

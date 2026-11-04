@@ -1,0 +1,2 @@
+# Anexa: Articolul 82
+(1) Sancțiunile disciplinare sunt cele prevăzute de Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare, în cazul funcționarilor publici, respectiv cele prevăzute de Legea nr. 53/2003 - Codul muncii, republicată , cu modificările și completările ulterioare, în cazul personalului contractual. (2) Sancțiunile disciplinare se aplică prin ordin al președintelui Consiliului Legislativ.

@@ -1,0 +1,2 @@
+# Anexa: Articolul 46
+(1) Proiectul de cod, respectiv de lege va fi însoțit de un raport întocmit potrivit art. 16 alin. (1) din Legea nr. 73/1993, republicată , și va fi înaintat Guvernului în vederea dezbaterii și adoptării. (2) În cazul în care, în urma dezbaterii în ședința de Guvern, se vor aduce modificări proiectului, Guvernul va solicita Consiliului Legislativ un aviz pentru aceste modificări.

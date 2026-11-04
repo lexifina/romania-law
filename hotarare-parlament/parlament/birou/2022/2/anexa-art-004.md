@@ -1,0 +1,2 @@
+# Anexa: Articolul 4
+Din structura Consiliului Legislativ fac parte Secția de drept public, Secția de drept privat, Secția de evidență oficială a legislației și documentare, Cancelaria președintelui, Departamentul pentru armonizarea legislației cu reglementările Uniunii Europene, Departamentul de informatică legislativă, Secretariatul Consiliului Legislativ, Sectorul resurse umane și contencios și Compartimentul de audit public intern, aflate în subordinea președintelui Consiliului Legislativ.

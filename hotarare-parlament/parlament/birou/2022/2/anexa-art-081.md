@@ -1,0 +1,2 @@
+# Anexa: Articolul 81
+(1) Funcționarii publici sunt cercetați pentru abaterile disciplinare comise de către Comisia de disciplină a Consiliului Legislativ. (2) Pentru efectuarea cercetării disciplinare a personalului contractual, președintele Consiliului Legislativ împuternicește Comisia de disciplină sau desemnează o persoană ori apelează la serviciile unui consultant extern specializat în legislația muncii, pe care o/îl va împuternici în acest sens.

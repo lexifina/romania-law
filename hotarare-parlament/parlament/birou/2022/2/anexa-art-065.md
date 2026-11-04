@@ -1,0 +1,2 @@
+# Anexa: Articolul 65
+(1) Personalul Consiliului Legislativ este alcătuit din demnitari, funcționari publici și personal contractual. (2) Condițiile de numire în funcțiile de președinte al Consiliului Legislativ, președinte de secție, șef al Departamentului pentru armonizarea legislației cu reglementările Uniunii Europene, șef al Departamentului de informatică legislativă, secretar general, director al Direcției de studii și documentare și de șef al Sectorului financiar-contabil sunt cele prevăzute la art. 18 alin. (1) din Legea nr. 73/1993, republicată .

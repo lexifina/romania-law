@@ -1,0 +1,2 @@
+# Anexa: Articolul 83
+Pentru executarea unor lucrări care implică o specialitate deosebită, președintele Consiliului Legislativ poate aproba consultarea unor specialiști de prestigiu în calitate de colaboratori externi. Aceștia vor fi folosiți, de regulă, la elaborarea unor studii sau a altor lucrări de specialitate, precum și în colectivele de elaborare a codurilor și a altor legi de complexitate deosebită.
