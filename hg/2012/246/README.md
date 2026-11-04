@@ -11,7 +11,7 @@ Act id: `hg-246-2012` (tags `hg-246-2012/<day>`; `python tools/on.py <day> hg-24
 
 ## Decisions made by hand
 
-- HG nr. 246/2012: added from the official web service of the Portalul legislativ (FreeWebService): its only version is the act as published (document 136916, retrieved 2026-11-03). No consolidated form exists: a full-text search of the official web service on 2026-11-04 finds no act changing it ().
+- HG nr. 246/2012: added from the official web service of the Portalul legislativ (FreeWebService): the act as published (document 136916, retrieved 2026-11-03).
 - HG nr. 246/2012: added by Lexifina's automatic pass with the default rules, and no rule or ruling made for this act alone was applied. It was published only because every automatic check that applies to an act known from the official web service alone passed: two parses identical, issuer, number and in-force day confirmed by the service, and no act changing it found by the full-text search.
 - HG nr. 246/2012: the first version is the Government decision as published in Monitorul Oficial nr. 230 of 5 April 2012 (document 136916 of the official web service), dated 5 April 2012: a Government decision with no day of its own, in force on publication (Legea nr. 24/2000 art. 12 alin. (3)). No consolidated form of it exists, so the text as published is its only version; no page of the act is held.
 - HG nr. 246/2012: the Government decision numbers its own articles in Roman numerals (I, II, ...); each is kept under its Roman title and filed by its value (art-001 for Articolul I), so the files sort in order. The articles of other acts it quotes stay in the text of the article that quotes them.
