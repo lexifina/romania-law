@@ -95,6 +95,8 @@ def status(a: dict) -> str:
     last = a['versions'][-1] if a['versions'] else {}
     if 'units' in last and not last['units']:
         return f'repealed {last["from"]}'
+    if a.get('unconsolidated'):  # amended, but the portal publishes no consolidated text: the act as published only
+        return 'amended, not consolidated'
     if AMENDING.search(a.get('title', '')):
         return 'amending act'
     return 'in force'

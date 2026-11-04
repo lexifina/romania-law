@@ -69,6 +69,7 @@ Read a date with the tools rather than `git rev-list --before`: they choose each
 ## Limits
 
 - Each act's latest version is the newest consolidated form held; amendments in force after it may be missing.
+- Acts with the status `amended, not consolidated` (ACTS.md, `data/acts.json`) were amended, but the official portal publishes no consolidated text of them: only the act as published is here, and its `README.md` names the amending acts known. Read those for the text in force.
 - No consolidated text has legal force in Romania, ours included: only the text published in the Monitorul Oficial, Part I (and an official republication there) is authoritative. The portal's and the Legislative Council's consolidated versions are documentation tools too.
 - Not included: chapter and section headings, the portal's editorial notes, annexes and figures printed as facsimiles or in a separate issue, and rulings that interpret a text without changing its wording.
 
