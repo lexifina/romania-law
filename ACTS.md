@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38343 acts, 52,095 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38357 acts, 52,110 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8025, of which 2870 amending acts)
+## Laws (legi) (8039, of which 2881 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1106,9 +1106,23 @@
 | Legea nr. 677/2001 pentru protecția persoanelor cu privire la prelucrarea datelor cu caracter personal și libera circulație a acestor date | [`lege/2001/677/`](lege/2001/677/) | repealed 2018-06-24 | 4 | 2001-12-12 | 2018-06-24 |
 | Legea nr. 678/2001 | [`lege/2001/678/`](lege/2001/678/) | in force | 10 | 2001-12-11 | 2023-05-29 |
 | Legea nr. 682/2001 | [`lege/2001/682/`](lege/2001/682/) | in force | 2 | 2001-12-21 | 2005-05-12 |
+| Legea nr. 683/2001 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Croaţia privind readmisia cetăţenilor proprii şi a străinilor, semnat la Zagreb la 30 septembrie 2000 | [`lege/2001/683/`](lege/2001/683/) | in force | 1 | 2001-12-19 | 2001-12-19 |
+| Legea nr. 684/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 10/2000 privind selectarea şi plata specialiştilor care prestează servicii de consultanţa necesare pentru realizarea programelor PSAL şi PIBL finanţate de Banca Mondială, a Programului RICOP finanţat de Uniunea Europeană, precum şi a programelor pentru continuarea acestora | [`lege/2001/684/`](lege/2001/684/) | amending act | 1 | 2001-12-11 | 2001-12-11 |
+| Legea nr. 686/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 98/2001 privind scutirea de la plata taxelor vamale a unor bunuri din import | [`lege/2001/686/`](lege/2001/686/) | amending act | 1 | 2001-12-11 | 2001-12-11 |
+| Legea nr. 687/2001 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 202/1999 pentru modificarea Ordonanţei Guvernului nr. 118/1999 privind achiziţiile publice | [`lege/2001/687/`](lege/2001/687/) | amending act | 1 | 2001-12-11 | 2001-12-11 |
+| Legea nr. 688/2001 privind aprobarea Ordonanţei Guvernului nr. 99/1998 pentru modificarea Ordonanţei Guvernului nr. 48/1998 privind majorarea capitalului social al societăţilor comerciale bancare la care statul este acţionar majoritar | [`lege/2001/688/`](lege/2001/688/) | amending act | 1 | 2001-12-11 | 2001-12-11 |
+| Legea nr. 689/2001 pentru aprobarea Ordonanţei Guvernului nr. 80/1998 privind prelungirea duratei de valabilitate a licenţei N.M.T. şi stabilirea taxei aferente | [`lege/2001/689/`](lege/2001/689/) | amending act | 1 | 2001-12-13 | 2001-12-13 |
+| Legea nr. 690/2001 pentru declararea municipiului Reşita Oraş-martir al Revoluţiei din Decembrie 1989 | [`lege/2001/690/`](lege/2001/690/) | in force | 1 | 2001-12-13 | 2001-12-13 |
+| Legea nr. 691/2001 privind aprobarea Ordonanţei Guvernului nr. 60/2001 pentru modificarea art. 3 din Ordonanţa Guvernului nr. 29/1994 privind constituirea şi utilizarea Fondului special pentru dezvoltarea sistemului energetic | [`lege/2001/691/`](lege/2001/691/) | amending act | 1 | 2001-12-13 | 2001-12-13 |
+| Legea nr. 692/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 89/2000 pentru abrogarea Ordonanţei de urgenţă a Guvernului nr. 21/2000 privind majorarea participaţiei statului la capitalul social de la societăţile comerciale "Tractorul-UTB" - S.A. Braşov, "MAT" - S.A. Craiova, "HART" - S.A. Miercurea-Ciuc şi "ARO" - S.A. Câmpulung Muscel, precum şi alocarea sumei de 200 miliarde lei de la bugetul de stat Regiei Autonome a Îmbunătăţirilor Funciare | [`lege/2001/692/`](lege/2001/692/) | amending act | 1 | 2001-12-13 | 2001-12-13 |
+| Legea nr. 693/2001 privind respingerea Ordonanţei Guvernului nr. 30/1998 pentru modificarea şi completarea Ordonanţei Guvernului nr. 19/1992 privind activitatea de standardizare în România, precum şi unele măsuri privind acreditarea organismelor de certificare şi a laboratoarelor | [`lege/2001/693/`](lege/2001/693/) | amending act | 1 | 2001-12-17 | 2001-12-17 |
+| Legea nr. 694/2001 pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 21/2000 privind majorarea participaţiei statului la capitalul social de la societăţile comerciale "Tractorul-UTB" - S.A. Braşov, "MAT" - S.A. Craiova, "HART" - S.A. Miercurea-Ciuc şi "ARO" - S.A. Câmpulung Muscel, precum şi alocarea sumei de 200 miliarde lei de la bugetul de stat Regiei Autonome a Îmbunătăţirilor Funciare | [`lege/2001/694/`](lege/2001/694/) | amending act | 1 | 2001-12-13 | 2001-12-13 |
 | Legea nr. 695/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 110/2001 pentru ratificarea Acordului-cadru de împrumut dintre România şi Banca de Dezvoltare a Consiliului Europei, semnat la Paris la 17 august 2001 şi la Bucureşti la 20 august 2001 | [`lege/2001/695/`](lege/2001/695/) | amended, not consolidated | 1 | 2001-12-17 | 2001-12-17 |
+| Legea nr. 696/2001 pentru aprobarea Ordonanţei Guvernului nr. 49/2001 privind acceptarea unor amendamente la Convenţia internaţionala pentru securitatea containerelor, încheiată la Geneva la 2 decembrie 1972 | [`lege/2001/696/`](lege/2001/696/) | amending act | 1 | 2001-12-13 | 2001-12-13 |
+| Legea nr. 700/2001 privind aprobarea Ordonanţei Guvernului nr. 59/2001 pentru ratificarea amendamentelor la Convenţia privind Organizaţia internaţională de telecomunicaţii maritime prin sateliţi "INMARSAT", adoptate la cea de-a 12-a sesiune a Adunării părţilor (Londra, aprilie 1998) | [`lege/2001/700/`](lege/2001/700/) | amending act | 1 | 2001-12-12 | 2001-12-12 |
 | Legea nr. 702/2001 pentru aprobarea Ordonanţei Guvernului nr. 39/1999 privind finalizarea procesului de restructurare a Băncii Române de Comerţ Exterior - Bancorex - S.A. şi fuziunea prin absorbire a acestei bănci cu Banca Comercială Română - S.A | [`lege/2001/702/`](lege/2001/702/) | amended, not consolidated | 1 | 2002-01-25 | 2002-01-25 |
 | Legea nr. 703/2001 privind răspunderea civilă pentru daune nucleare | [`lege/2001/703/`](lege/2001/703/) | amended, not consolidated | 1 | 2002-12-19 | 2002-12-19 |
+| Legea nr. 704/2001 privind asistenţa judiciară internaţionala în materie penală | [`lege/2001/704/`](lege/2001/704/) | repealed 2004-08-30 | 2 | 2002-01-16 | 2004-08-30 |
 | Legea nr. 706/2001 privind aprobarea Ordonanţei Guvernului nr. 11/2001 pentru modificarea şi completarea Ordonanţei Guvernului nr. 68/1997 privind procedura de întocmire şi depunere a declaraţiilor de impozite şi taxe | [`lege/2001/706/`](lege/2001/706/) | amending act | 1 | 2001-12-11 | 2001-12-11 |
 | Legea nr. 707/2001 pentru aprobarea Ordonanţei Guvernului nr. 63/2001 privind înfiinţarea Inspectoratului de Stat în Construcţii - I.S.C | [`lege/2001/707/`](lege/2001/707/) | amended, not consolidated | 1 | 2001-12-11 | 2001-12-11 |
 | Legea nr. 708/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 96/2000 pentru modificarea şi completarea unor acte normative în vederea unificării sistemului de evidenta informatizata a persoanei | [`lege/2001/708/`](lege/2001/708/) | amending act | 1 | 2001-12-11 | 2001-12-11 |
