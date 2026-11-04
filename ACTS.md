@@ -1,6 +1,6 @@
 # Every act in this repository
 
-22602 acts, 36,235 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+22627 acts, 36,260 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3462, of which 1951 amending acts)
+## Laws (legi) (3465, of which 1954 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -935,6 +935,9 @@
 | Legea nr. 349/2009 | [`lege/2009/349/`](lege/2009/349/) | in force | 1 | 2009-11-21 | 2009-11-21 |
 | Legea nr. 354/2009 privind aprobarea Ordonanței de urgență a Guvernului nr. 36/2009 pentru modificarea și completarea Legii cetățeniei române nr. 21/1991 | [`lege/2009/354/`](lege/2009/354/) | amending act | 2 | 2009-11-19 | 2010-02-10 |
 | Legea nr. 355/2009 | [`lege/2009/355/`](lege/2009/355/) | in force | 1 | 2010-02-23 | 2010-02-23 |
+| Legea nr. 369/2009 pentru aprobarea Ordonanţei Guvernului nr. 15/2009 privind unele măsuri pentru accelerarea absorbţiei sumelor alocate prin Fondul European Agricol pentru Dezvoltare Rurală şi prin Fondul European pentru Pescuit | [`lege/2009/369/`](lege/2009/369/) | amending act | 1 | 2009-12-03 | 2009-12-03 |
+| Legea nr. 374/2009 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 73/2009 pentru modificarea art. 19 din Ordonanţa Guvernului nr. 42/2004 privind organizarea activităţii sanitar-veterinare şi pentru siguranţa alimentelor | [`lege/2009/374/`](lege/2009/374/) | amending act | 1 | 2009-12-03 | 2009-12-03 |
+| Legea nr. 375/2009 pentru modificarea alin. (2) al art. 53 din Legea administraţiei publice locale nr. 215/2001 | [`lege/2009/375/`](lege/2009/375/) | amending act | 1 | 2009-12-06 | 2009-12-06 |
 | Legea nr. 376/2009 pentru completarea art. 26 din Legea nr. 90/2001 privind organizarea şi funcţionarea Guvernului României şi a ministerelor | [`lege/2009/376/`](lege/2009/376/) | amending act | 1 | 2009-12-06 | 2009-12-06 |
 | Legea nr. 377/2009 pentru ratificarea Acordului suplimentar referitor la aderarea Guvernului României la Memorandumul multilateral de înţelegere privind Programul comun NATO E-3A, semnat la Bruxelles la 6 decembrie 1978, completat la 10 decembrie 1990, amendat la 13 august 1997, şi a Acordului suplimentar referitor la aderarea Guvernului României la Memorandumul de înţelegere pentru operaţii şi sprijin al Forţei Aeropurtate a NATO de Avertizare Timpurie şi Control, semnat la 26 septembrie 1984 şi revizuit la 27 martie 2003, semnate la Bucureşti la 19 martie 2009 | [`lege/2009/377/`](lege/2009/377/) | in force | 1 | 2009-12-21 | 2009-12-21 |
 | Legea nr. 380/2009 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 78/2009 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 90/2008 privind auditul statutar al situaţiilor financiare anuale şi al situaţiilor financiare anuale consolidate | [`lege/2009/380/`](lege/2009/380/) | amending act | 1 | 2009-12-18 | 2009-12-18 |
@@ -5761,7 +5764,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (16850, of which 8769 amending acts)
+## Government decisions (HG) (16872, of which 8788 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8811,7 +8814,29 @@
 | Hotărârea Guvernului nr. 1424/2009 | [`hg/2009/1424/`](hg/2009/1424/) | in force | 4 | 2009-12-07 | 2024-12-20 |
 | Hotărârea Guvernului nr. 1431/2009 | [`hg/2009/1431/`](hg/2009/1431/) | in force | 3 | 2009-12-10 | 2010-09-03 |
 | Hotărârea Guvernului nr. 1476/2009 | [`hg/2009/1476/`](hg/2009/1476/) | in force | 5 | 2009-12-03 | 2023-06-07 |
+| Hotărârea Guvernului nr. 1485/2009 pentru aprobarea Amendamentului nr. 2 convenit între Guvernul României şi Banca Europeană de Investiţii, prin scrisoarea semnată la Luxemburg la 12 martie 2009 şi la Bucureşti la 7 aprilie 2009, la Contractul de finanţare dintre România şi Banca Europeană de Investiţii privind Proiectul de reconstrucţie a drumurilor afectate de inundaţii, semnat la Bucureşti la 22 decembrie 2005 şi la Luxemburg la 27 decembrie 2005 | [`hg/2009/1485/`](hg/2009/1485/) | amending act | 1 | 2009-12-09 | 2009-12-09 |
+| Hotărârea Guvernului nr. 1487/2009 pentru modificarea şi completarea Hotărârii Guvernului nr. 755/2004 privind aprobarea unităţilor de măsură legale | [`hg/2009/1487/`](hg/2009/1487/) | amending act | 1 | 2010-01-01 | 2010-01-01 |
+| Hotărârea Guvernului nr. 1488/2009 pentru abrogarea pct. 4 din anexa nr. 1 la Legea nr. 64/2008 privind funcţionarea în condiţii de siguranţă a instalaţiilor sub presiune, instalaţiilor de ridicat şi a aparatelor consumatoare de combustibil | [`hg/2009/1488/`](hg/2009/1488/) | amending act | 1 | 2009-12-10 | 2009-12-10 |
 | Hotărârea Guvernului nr. 1489/2009 | [`hg/2009/1489/`](hg/2009/1489/) | in force | 1 | 2009-12-10 | 2009-12-10 |
+| Hotărârea Guvernului nr. 1491/2009 pentru completarea anexei nr. 1 la Legea nr. 608/2001 privind evaluarea conformităţii produselor | [`hg/2009/1491/`](hg/2009/1491/) | amending act | 1 | 2009-12-18 | 2009-12-18 |
+| Hotărârea Guvernului nr. 1493/2009 privind modificarea şi completarea Hotărârii Guvernului nr. 367/2009 pentru aprobarea programelor naţionale de sănătate în anul 2009 | [`hg/2009/1493/`](hg/2009/1493/) | amending act | 1 | 2009-12-17 | 2009-12-17 |
+| Hotărârea Guvernului nr. 1494/2009 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Palatul de Justiţie Neamţ" | [`hg/2009/1494/`](hg/2009/1494/) | amending act | 1 | 2009-12-18 | 2009-12-18 |
+| Hotărârea Guvernului nr. 1495/2009 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2009, pentru acordarea de daruri cu ocazia sărbătorii Crăciunului şi a Anului Nou | [`hg/2009/1495/`](hg/2009/1495/) | in force | 1 | 2009-12-08 | 2009-12-08 |
+| Hotărârea Guvernului nr. 1497/2009 privind suplimentarea bugetului Ministerului Justiţiei şi Libertăţilor Cetăţeneşti pe anul 2009 din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2009 | [`hg/2009/1497/`](hg/2009/1497/) | in force | 1 | 2009-12-04 | 2009-12-04 |
+| Hotărârea Guvernului nr. 1499/2009 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată rămase de expropriat, situate pe amplasamentul lucrării "Lărgire la 4 benzi a drumului naţional DN 5 Adunaţii Copăceni-Giurgiu, km 23+200-km 59+100" | [`hg/2009/1499/`](hg/2009/1499/) | in force | 1 | 2009-12-09 | 2009-12-09 |
+| Hotărârea Guvernului nr. 1501/2009 pentru aprobarea amendamentelor convenite prin schimb de scrisori semnate la Bucureşti la 5 iunie 2009 şi la Washington la 29 iunie 2009 şi 10 septembrie 2009 între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Bucureşti la 28 ianuarie 2005, pentru finanţarea Proiectului de restructurare a transporturilor | [`hg/2009/1501/`](hg/2009/1501/) | amending act | 1 | 2009-12-30 | 2009-12-30 |
+| Hotărârea Guvernului nr. 1504/2009 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2009 al Societăţii Comerciale Studioul Cinematografic "Sahia Film" - S.A., aflată sub autoritatea Ministerului Culturii, Cultelor şi Patrimoniului Naţional | [`hg/2009/1504/`](hg/2009/1504/) | amending act | 1 | 2009-12-09 | 2009-12-09 |
+| Hotărârea Guvernului nr. 1505/2009 privind modificarea şi completarea anexei nr. 6 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2009/1505/`](hg/2009/1505/) | amending act | 1 | 2009-12-17 | 2009-12-17 |
+| Hotărârea Guvernului nr. 1506/2009 pentru completarea anexei nr. 4 la Hotărârea Guvernului nr. 972/2002 privind atestarea domeniului public al judeţului Braşov, precum şi al municipiilor, oraşelor şi comunelor din judeţul Braşov | [`hg/2009/1506/`](hg/2009/1506/) | amending act | 1 | 2009-12-14 | 2009-12-14 |
+| Hotărârea Guvernului nr. 1507/2009 pentru completarea Hotărârii Guvernului nr. 908/2002 privind atestarea domeniului public al judeţului Vrancea, precum şi al municipiilor, oraşelor şi comunelor din judeţul Vrancea | [`hg/2009/1507/`](hg/2009/1507/) | amending act | 1 | 2009-12-11 | 2009-12-11 |
+| Hotărârea Guvernului nr. 1511/2009 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2009 al Societăţii Comerciale "Editura Scrisul Românesc" - S.A., aflată sub autoritatea Ministerului Culturii, Cultelor şi Patrimoniului Naţional | [`hg/2009/1511/`](hg/2009/1511/) | amending act | 1 | 2009-12-11 | 2009-12-11 |
+| Hotărârea Guvernului nr. 1512/2009 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Modernizare DN 56C km 0+000 - km 60+375" | [`hg/2009/1512/`](hg/2009/1512/) | amending act | 1 | 2009-12-14 | 2009-12-14 |
+| Hotărârea Guvernului nr. 1513/2009 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Modernizare DN 55A km 0+000 - km 92+000" | [`hg/2009/1513/`](hg/2009/1513/) | amending act | 1 | 2009-12-14 | 2009-12-14 |
+| Hotărârea Guvernului nr. 1518/2009 pentru modificarea şi completarea Hotărârii Guvernului nr. 448/2005 privind deşeurile de echipamente electrice şi electronice şi a Hotărârii Guvernului nr. 992/2005 privind limitarea utilizării anumitor substanţe periculoase în echipamentele electrice şi electronice | [`hg/2009/1518/`](hg/2009/1518/) | amending act | 1 | 2009-12-11 | 2009-12-11 |
+| Hotărârea Guvernului nr. 1519/2009 pentru modificarea Hotărârii Guvernului nr. 367/2002 privind aprobarea Statutului de organizare şi funcţionare a Administraţiei Rezervaţiei Biosferei "Delta Dunării" şi a componenţei nominale a Consiliului ştiinţific | [`hg/2009/1519/`](hg/2009/1519/) | amending act | 1 | 2009-12-11 | 2009-12-11 |
+| Hotărârea Guvernului nr. 1522/2009 pentru modificarea şi completarea unor acte normative privind organizarea şi funcţionarea unor instituţii din subordinea Ministerului Muncii, Familiei şi Protecţiei Sociale | [`hg/2009/1522/`](hg/2009/1522/) | amending act | 1 | 2009-12-15 | 2009-12-15 |
+| Hotărârea Guvernului nr. 1523/2009 privind aprobarea Planului de acţiuni pentru situaţii de urgenţă pentru anul gazier 2009-2010 | [`hg/2009/1523/`](hg/2009/1523/) | amending act | 1 | 2009-12-22 | 2009-12-22 |
+| Hotărârea Guvernului nr. 1524/2009 pentru modificarea art. 42 din Regulamentul privind organizarea şi desfăşurarea procedurilor pentru valorificarea bunurilor scoase din funcţiune, precum şi a celor scoase din rezervele proprii, aflate în administrarea Ministerului Administraţiei şi Internelor, aprobat prin Hotărârea Guvernului nr. 81/2003 | [`hg/2009/1524/`](hg/2009/1524/) | amending act | 1 | 2009-12-18 | 2009-12-18 |
 | Hotărârea Guvernului nr. 1525/2009 pentru aprobarea Acordului de coproducţie în domeniul cinematografiei între Guvernul României şi Guvernul Republicii Franceze, semnat la Cannes la 18 mai 2009 | [`hg/2009/1525/`](hg/2009/1525/) | amending act | 1 | 2009-12-23 | 2009-12-23 |
 | Hotărârea Guvernului nr. 1526/2009 privind aprobarea Listei obiectivelor de investiţii din Bucureşti şi din judeţele Constanţa şi Iaşi şi a indicatorilor tehnico-economici ai acestora din cadrul Programului pentru victimele violenţei în familie - Programe de asistenţă socială, parte a Proiectului privind incluziunea socială finanţat din Împrumutul 4825-RO, ratificat potrivit Legii nr. 40/2007 pentru ratificarea Acordului de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, destinat finanţării Proiectului privind incluziunea socială, semnat la Bucureşti la 4 iulie 2006 | [`hg/2009/1526/`](hg/2009/1526/) | amending act | 1 | 2009-12-31 | 2009-12-31 |
 | Hotărârea Guvernului nr. 1527/2009 privind reorganizarea Staţiunii de Cercetare şi Producţie Pomicolă Vâlcea şi preluarea acesteia prin absorbţie de către Universitatea din Craiova | [`hg/2009/1527/`](hg/2009/1527/) | in force | 1 | 2009-12-31 | 2009-12-31 |
