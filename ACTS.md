@@ -1,6 +1,6 @@
 # Every act in this repository
 
-27747 acts, 41,390 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+27768 acts, 41,411 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -5862,7 +5862,7 @@
 | Ordonanța de urgență a Guvernului nr. 33/2026 pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr. 69/2000 | [`oug/2026/33/`](oug/2026/33/) | amending act | 1 | 2026-04-27 | 2026-04-27 |
 | Ordonanța de urgență a Guvernului nr. 37/2026 pentru modificarea şi completarea Legii nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor şi protecţia persoanelor | [`oug/2026/37/`](oug/2026/37/) | amending act | 2 | 2026-05-06 | 2026-06-05 |
 
-## Ordinances (OG) (535, of which 112 amending acts)
+## Ordinances (OG) (536, of which 113 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6080,6 +6080,7 @@
 | Ordonanța Guvernului nr. 38/2004 | [`og/2004/38/`](og/2004/38/) | in force | 2 | 2004-02-03 | 2004-06-07 |
 | Ordonanța Guvernului nr. 42/2004 | [`og/2004/42/`](og/2004/42/) | in force | 26 | 2004-02-03 | 2026-01-01 |
 | Ordonanța Guvernului nr. 44/2004 | [`og/2004/44/`](og/2004/44/) | in force | 6 | 2004-04-30 | 2019-10-19 |
+| Ordonanța Guvernului nr. 54/2004 pentru modificarea art. 6 alin. (1) din Ordonanţa Guvernului nr. 82/2000 privind autorizarea agenţilor economici care desfăşoară activităţi de reparaţii, de reglare, de modificări constructive, de reconstrucţie a vehiculelor rutiere, precum şi de dezmembrare a vehiculelor uzate | [`og/2004/54/`](og/2004/54/) | amending act | 1 | 2004-08-02 | 2004-08-02 |
 | Ordonanța Guvernului nr. 55/2004 | [`og/2004/55/`](og/2004/55/) | in force | 12 | 2004-08-02 | 2008-10-16 |
 | Ordonanța Guvernului nr. 58/2004 | [`og/2004/58/`](og/2004/58/) | in force | 3 | 2004-09-05 | 2010-01-27 |
 | Ordonanța Guvernului nr. 59/2004 | [`og/2004/59/`](og/2004/59/) | in force | 5 | 2004-08-09 | 2005-11-29 |
@@ -6402,7 +6403,7 @@
 | Ordonanța Guvernului nr. 3/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 70/2022 privind prevenirea, verificarea şi constatarea neregulilor/dublei finanţări, a neregulilor grave apărute în obţinerea şi utilizarea fondurilor externe nerambursabile/rambursabile alocate României prin Mecanismul de redresare şi rezilienţă şi/sau a fondurilor publice naţionale aferente acestora şi recuperarea creanţelor rezultate | [`og/2026/3/`](og/2026/3/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (21354, of which 10992 amending acts)
+## Government decisions (HG) (21374, of which 10997 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6848,7 +6849,27 @@
 | Hotărârea Guvernului nr. 1024/2004 | [`hg/2004/1024/`](hg/2004/1024/) | in force | 3 | 2004-07-29 | 2006-06-13 |
 | Hotărârea Guvernului nr. 1043/2004 | [`hg/2004/1043/`](hg/2004/1043/) | in force | 2 | 2004-08-02 | 2005-01-03 |
 | Hotărârea Guvernului nr. 1076/2004 | [`hg/2004/1076/`](hg/2004/1076/) | in force | 3 | 2004-12-03 | 2012-10-29 |
+| Hotărârea Guvernului nr. 1106/2004 privind trecerea unui imobil din domeniul privat al statului şi din administrarea Ministerului Administraţiei şi Internelor în domeniul public al oraşului Sulina şi în administrarea Consiliului Local al Oraşului Sulina | [`hg/2004/1106/`](hg/2004/1106/) | in force | 1 | 2004-07-27 | 2004-07-27 |
+| Hotărârea Guvernului nr. 1107/2004 privind trecerea unor imobile din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al unor unităţi administrativ-teritoriale şi în administrarea consiliilor locale ale acestora | [`hg/2004/1107/`](hg/2004/1107/) | in force | 1 | 2004-07-27 | 2004-07-27 |
+| Hotărârea Guvernului nr. 1108/2004 privind aprobarea rectificării bugetului de venituri şi cheltuieli pe anul 2004 al Comisiei Naţionale pentru Controlul Activităţilor Nucleare | [`hg/2004/1108/`](hg/2004/1108/) | amending act | 1 | 2004-07-27 | 2004-07-27 |
+| Hotărârea Guvernului nr. 1109/2004 privind producţia şi finanţarea stocului de octoxid de uraniu necesar Unităţii 2 din cadrul obiectivului de investiţii "Centrala Nuclearoelectrică Cernavodă - 5 X 700 MW", în anul 2005 | [`hg/2004/1109/`](hg/2004/1109/) | in force | 1 | 2004-07-27 | 2004-07-27 |
+| Hotărârea Guvernului nr. 1110/2004 privind trecerea din domeniul public al statului în domeniul privat al statului a unor construcţii aflate în administrarea Ministerului Apărării Naţionale | [`hg/2004/1110/`](hg/2004/1110/) | in force | 1 | 2004-07-27 | 2004-07-27 |
+| Hotărârea Guvernului nr. 1111/2004 privind trecerea din domeniul public al statului în domeniul privat al statului a unei construcţii aflate în administrarea Ministerului Administraţiei şi Internelor | [`hg/2004/1111/`](hg/2004/1111/) | in force | 1 | 2004-07-27 | 2004-07-27 |
+| Hotărârea Guvernului nr. 1114/2004 pentru completarea Hotărârii Guvernului nr. 1.336/2002 privind instituirea Sistemului naţional de gradare a seminţelor de consum | [`hg/2004/1114/`](hg/2004/1114/) | amending act | 1 | 2004-07-23 | 2004-07-23 |
+| Hotărârea Guvernului nr. 1120/2004 pentru modificarea şi completarea Hotărârii Guvernului nr. 737/2003 privind organizarea şi funcţionarea Ministerului Muncii, Solidarităţii Sociale şi Familiei, precum şi pentru modificarea anexei nr. 2 la Hotărârea Guvernului nr. 837/1995 cu privire la criteriile de salarizare în valută şi celelalte drepturi în valută şi în lei ale personalului trimis în misiune permanentă în străinătate | [`hg/2004/1120/`](hg/2004/1120/) | amending act | 1 | 2004-08-03 | 2004-08-03 |
+| Hotărârea Guvernului nr. 1121/2004 pentru modificarea lit. C din anexa nr. 2 la Hotărârea Guvernului nr. 412/2004 privind organizarea şi funcţionarea Ministerului Transporturilor, Construcţiilor şi Turismului | [`hg/2004/1121/`](hg/2004/1121/) | amending act | 1 | 2004-07-28 | 2004-07-28 |
+| Hotărârea Guvernului nr. 1124/2004 privind transmiterea unor suprafeţe de teren din domeniul public al unor unităţi administrativ-teritoriale şi din administrarea unor consilii locale din judeţele Călăraşi şi Ialomiţa în domeniul public al statului şi în administrarea Ministerului Transporturilor, Construcţiilor şi Turismului, în vederea realizării activităţilor de interes naţional de către Compania Naţională de Autostrăzi şi Drumuri Naţionale din România - S.A | [`hg/2004/1124/`](hg/2004/1124/) | in force | 1 | 2004-08-02 | 2004-08-02 |
+| Hotărârea Guvernului nr. 1125/2004 pentru modificarea şi completarea Hotărârii Guvernului nr. 409/2004 privind organizarea şi funcţionarea Ministerului Agriculturii, Pădurilor şi Dezvoltării Rurale | [`hg/2004/1125/`](hg/2004/1125/) | amending act | 1 | 2004-08-03 | 2004-08-03 |
 | Hotărârea Guvernului nr. 1126/2004 | [`hg/2004/1126/`](hg/2004/1126/) | in force | 1 | 2004-07-28 | 2004-07-28 |
+| Hotărârea Guvernului nr. 1127/2004 privind transmiterea unor suprafeţe de teren din domeniul privat al statului şi din administrarea Agenţiei Domeniilor Statului, prin societăţi comerciale, în proprietatea publică a statului şi în administrarea Ministerului Transporturilor, Construcţiilor şi Turismului, în vederea realizării activităţilor de interes naţional de către Compania Naţională de Autostrăzi şi Drumuri Naţionale din România - S.A | [`hg/2004/1127/`](hg/2004/1127/) | in force | 1 | 2004-08-10 | 2004-08-10 |
+| Hotărârea Guvernului nr. 1128/2004 privind recunoaşterea Asociaţiei Amelioratorilor, Producătorilor şi Comercianţilor de Sămânţă şi Material Săditor din România - AMSEM ca fiind de utilitate publică | [`hg/2004/1128/`](hg/2004/1128/) | in force | 1 | 2004-08-10 | 2004-08-10 |
+| Hotărârea Guvernului nr. 1129/2004 privind încetarea mandatului unor membri ai Plenului Oficiului Naţional de Prevenire şi Combatere a Spălării Banilor şi numirea în funcţie pe posturile rămase vacante a altor membri | [`hg/2004/1129/`](hg/2004/1129/) | in force | 1 | 2004-07-28 | 2004-07-28 |
+| Hotărârea Guvernului nr. 1130/2004 privind numirea domnului Cuibus Valentin Claudiu în funcţia de prefect al judeţului Cluj | [`hg/2004/1130/`](hg/2004/1130/) | in force | 1 | 2004-07-24 | 2004-07-24 |
+| Hotărârea Guvernului nr. 1131/2004 privind numirea domnului Marian Valer în funcţia de prefect al judeţului Satu Mare | [`hg/2004/1131/`](hg/2004/1131/) | in force | 1 | 2004-07-24 | 2004-07-24 |
+| Hotărârea Guvernului nr. 1132/2004 privind numirea domnului Răducanu Ion în funcţia de prefect al judeţului Timiş | [`hg/2004/1132/`](hg/2004/1132/) | in force | 1 | 2004-07-24 | 2004-07-24 |
+| Hotărârea Guvernului nr. 1133/2004 privind eliberarea domnului Mândru Traian, la cerere, din funcţia de prefect al judeţului Galaţi | [`hg/2004/1133/`](hg/2004/1133/) | in force | 1 | 2004-07-24 | 2004-07-24 |
+| Hotărârea Guvernului nr. 1134/2004 privind numirea domnului Necula Marius-Gerard în funcţia de prefect al judeţului Galaţi | [`hg/2004/1134/`](hg/2004/1134/) | in force | 1 | 2004-07-24 | 2004-07-24 |
+| Hotărârea Guvernului nr. 1138/2004 privind numirea domnului Zimţea Constantin în funcţia de prefect al judeţului Mehedinţi | [`hg/2004/1138/`](hg/2004/1138/) | in force | 1 | 2004-07-24 | 2004-07-24 |
 | Hotărârea Guvernului nr. 1139/2004 pentru modificarea şi completarea Hotărârii Guvernului nr. 751/2002 privind înfiinţarea Comisiei de atestare şi avizare în domeniul impresariatului artistic şi pentru aprobarea Normelor metodologice de atestare a impresarilor artistici şi de avizare pentru derularea activităţii de impresariat artistic | [`hg/2004/1139/`](hg/2004/1139/) | amending act | 1 | 2004-08-03 | 2004-08-03 |
 | Hotărârea Guvernului nr. 1140/2004 privind suplimentarea bugetului Ministerului Culturii şi Cultelor din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2004, pentru finalizarea unor lucrări la Aşezământul sociocaritativ "Providenţa" din cadrul Mitropoliei Moldovei şi Bucovinei | [`hg/2004/1140/`](hg/2004/1140/) | in force | 1 | 2004-07-30 | 2004-07-30 |
 | Hotărârea Guvernului nr. 1141/2004 pentru modificarea alin. (1) al art. 20 din Normele metodologice de aplicare a prevederilor Ordonanţei de urgenţă a Guvernului nr. 96/2003 privind protecţia maternităţii la locurile de muncă, aprobate prin Hotărârea Guvernului nr. 537/2004 | [`hg/2004/1141/`](hg/2004/1141/) | amending act | 1 | 2004-07-30 | 2004-07-30 |
