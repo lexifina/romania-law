@@ -1,6 +1,6 @@
 # Every act in this repository
 
-24958 acts, 38,592 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+24966 acts, 38,600 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6053,7 +6053,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (18914, of which 9607 amending acts)
+## Government decisions (HG) (18922, of which 9610 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6643,6 +6643,14 @@
 | Hotărârea Guvernului nr. 1326/2005 | [`hg/2005/1326/`](hg/2005/1326/) | in force | 1 | 2005-11-17 | 2005-11-17 |
 | Hotărârea Guvernului nr. 1334/2005 | [`hg/2005/1334/`](hg/2005/1334/) | in force | 1 | 2005-11-08 | 2005-11-08 |
 | Hotărârea Guvernului nr. 1401/2005 pentru aprobarea Regulamentului de organizare și funcționare a Institutului Național de Cercetare-Dezvoltare pentru Tehnologii Izotopice și Moleculare - I.N.C.D.T.I.M. Cluj-Napoca | [`hg/2005/1401/`](hg/2005/1401/) | amending act | 1 | 2005-12-29 | 2005-12-29 |
+| Hotărârea Guvernului nr. 1418/2005 privind suplimentarea bugetului Ministerului Culturii şi Cultelor din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2005 | [`hg/2005/1418/`](hg/2005/1418/) | in force | 1 | 2005-11-24 | 2005-11-24 |
+| Hotărârea Guvernului nr. 1419/2005 privind suplimentarea bugetului Ministerului Culturii şi Cultelor pe anul 2005 din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru ansamblul monumental "Glorie eternă eroilor şi Revoluţiei Române din Decembrie 1989" | [`hg/2005/1419/`](hg/2005/1419/) | in force | 1 | 2005-11-24 | 2005-11-24 |
+| Hotărârea Guvernului nr. 1420/2005 privind aprobarea bugetului de venituri şi cheltuieli pentru implementarea Memorandumului de înţelegere dintre Guvernul României şi Organizaţia Internaţională pentru Migraţie privind cooperarea în domeniul repatrierii voluntare umanitare asistate pentru anul 2005 | [`hg/2005/1420/`](hg/2005/1420/) | amending act | 1 | 2005-11-24 | 2005-11-24 |
+| Hotărârea Guvernului nr. 1421/2005 privind aprobarea bugetului de venituri şi cheltuieli pentru implementarea Memorandumului de înţelegere dintre Guvernul României şi Organizaţia Internaţională pentru Migraţie privind cooperarea în domeniul repatrierii voluntare umanitare asistate pentru anul 2006 | [`hg/2005/1421/`](hg/2005/1421/) | amending act | 1 | 2005-11-24 | 2005-11-24 |
+| Hotărârea Guvernului nr. 1422/2005 privind transmiterea unui imobil, proprietate publică a statului, din administrarea Ministerului Administraţiei şi Internelor în administrarea Ministerului Culturii şi Cultelor, pentru Teatrul Naţional de Operetă "Ion Dacian" | [`hg/2005/1422/`](hg/2005/1422/) | in force | 1 | 2005-11-24 | 2005-11-24 |
+| Hotărârea Guvernului nr. 1423/2005 pentru aprobarea rectificării bugetului de venituri şi cheltuieli al Oficiului Participaţiilor Statului şi Privatizării în Industrie pe anul 2005 | [`hg/2005/1423/`](hg/2005/1423/) | amending act | 1 | 2005-11-26 | 2005-11-26 |
+| Hotărârea Guvernului nr. 1424/2005 privind transmiterea unor imobile din domeniul public al statului şi din administrarea Ministerului Agriculturii, Pădurilor şi Dezvoltării Rurale în domeniul public al oraşului Lipova şi în administrarea Consiliului Local al Oraşului Lipova, judeţul Arad | [`hg/2005/1424/`](hg/2005/1424/) | in force | 1 | 2005-11-26 | 2005-11-26 |
+| Hotărârea Guvernului nr. 1429/2005 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al municipiului Slatina şi în administrarea Consiliului Local al Municipiului Slatina, judeţul Olt | [`hg/2005/1429/`](hg/2005/1429/) | in force | 1 | 2005-11-26 | 2005-11-26 |
 | Hotărârea Guvernului nr. 1431/2005 privind transmiterea unor bunuri mobile, proprietate privată a statului, din administrarea Ministerului Apărării Naţionale în administrarea unor consilii judeţene şi locale | [`hg/2005/1431/`](hg/2005/1431/) | in force | 1 | 2005-11-26 | 2005-11-26 |
 | Hotărârea Guvernului nr. 1433/2005 privind transmiterea unei părţi dintr-un imobil din domeniul public al statului şi din administrarea Ministerului Administraţiei şi Internelor în domeniul public al municipiului Satu Mare şi în administrarea Consiliului Local al Municipiului Satu Mare, judeţul Satu Mare | [`hg/2005/1433/`](hg/2005/1433/) | in force | 1 | 2005-11-26 | 2005-11-26 |
 | Hotărârea Guvernului nr. 1434/2005 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al comunei Băneasa şi în administrarea Consiliului Local al Comunei Băneasa, judeţul Giurgiu | [`hg/2005/1434/`](hg/2005/1434/) | in force | 1 | 2005-11-26 | 2005-11-26 |
