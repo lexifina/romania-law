@@ -176540,6 +176540,21 @@
    ]
   },
   {
+   "slug": "hg-1527-2004",
+   "path": "hg/2004/1527",
+   "short": "HG nr. 1527/2004",
+   "title": "Hotărârea Guvernului nr. 1527/2004 privind acordarea unor ajutoare de urgenţă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55529",
+   "versions": [
+    {
+     "from": "2004-09-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55529",
+     "sha256": "f5cf394712aff56784a5dc1daad0aa307edca9d136853d4798fe9f355579a0cb"
+    }
+   ]
+  },
+  {
    "slug": "hg-1527-2005",
    "path": "hg/2005/1527",
    "short": "HG nr. 1527/2005",
@@ -176641,6 +176656,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291793",
      "sha256": "f1522201e624745972f83ac5164097e7387966e47dae73f334c2b0d61b667684"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1528-2004",
+   "path": "hg/2004/1528",
+   "short": "HG nr. 1528/2004",
+   "title": "Hotărârea Guvernului nr. 1528/2004 privind prorogarea unui termen",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55479",
+   "versions": [
+    {
+     "from": "2004-09-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55479",
+     "sha256": "e2cddb7a8e8f50695a3b1cc6e28688c34d1dc13864a1db76bd7edd7170f2facf"
     }
    ]
   },
@@ -176975,6 +177005,21 @@
    ]
   },
   {
+   "slug": "hg-1530-2004",
+   "path": "hg/2004/1530",
+   "short": "HG nr. 1530/2004",
+   "title": "Hotărârea Guvernului nr. 1530/2004 privind stabilirea Criteriilor de acordare a etichetei ecologice pentru grupul de produse detergenţi de vase pentru spălare manuală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55669",
+   "versions": [
+    {
+     "from": "2004-11-05",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55669",
+     "sha256": "91fdae6cf37579a06d24dd9407a06eecb85cabd1fd7356bbef0e0d5e59c0b4aa"
+    }
+   ]
+  },
+  {
    "slug": "hg-1530-2005",
    "path": "hg/2005/1530",
    "short": "HG nr. 1530/2005",
@@ -177136,6 +177181,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262927",
      "sha256": "0d15d11e641eedea367c439ca42d5cbf6776c553dea9d1c79180b2056be6455f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1532-2004",
+   "path": "hg/2004/1532",
+   "short": "HG nr. 1532/2004",
+   "title": "Hotărârea Guvernului nr. 1532/2004 pentru aprobarea amendamentului convenit prin schimbul de scrisori semnate la Bucureşti la 31 mai 2004 şi la Zagreb la 9 iunie 2004 între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, acţionând în calitate de agenţie de implementare a Facilităţii Globale de Mediu, pentru finanţarea Proiectului \"Controlul poluării în agricultură\", semnat la Bucureşti la 16 ianuarie 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55503",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55503",
+     "sha256": "823e250d9c240f935ec0285c1af1134bfaa97ae9923afd4195295e001ed6591a"
     }
    ]
   },
