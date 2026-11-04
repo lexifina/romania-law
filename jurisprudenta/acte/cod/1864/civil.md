@@ -66,12 +66,14 @@ Act folder [`cod/1864/civil/`](../../../../cod/1864/civil/) · id `codul-civil-1
 | Art. 483 | [Decizia CCR nr. 453/2011](../../../../jurisprudenta/ccr/2011/453/) | exceptie | rejected | 2011-05-31 |
 | Art. 485 | [Decizia CCR nr. 1618/2010](../../../../jurisprudenta/ccr/2010/1618/) | exceptie | rejected | 2011-03-10 |
 | Art. 487 | [Decizia CCR nr. 1618/2010](../../../../jurisprudenta/ccr/2010/1618/) | exceptie | rejected | 2011-03-10 |
+| Art. 492 | [Decizia ÎCCJ nr. 13/2019 (RIL)](../../../../jurisprudenta/iccj/ril/2019/13/) | RIL | admitted | 2019-06-03 |
 | Art. 494 | [Decizia CCR nr. 91/2003](../../../../jurisprudenta/ccr/2003/91/) | exceptie | rejected | 2003-03-26 |
 | Art. 494 | [Decizia CCR nr. 152/2007](../../../../jurisprudenta/ccr/2007/152/) | exceptie | rejected | 2007-04-16 |
 | Art. 494 | [Decizia CCR nr. 395/2007](../../../../jurisprudenta/ccr/2007/395/) | exceptie | rejected | 2007-05-16 |
 | Art. 494 | [Decizia CCR nr. 1306/2009](../../../../jurisprudenta/ccr/2009/1306/) | exceptie | rejected | 2009-11-11 |
 | Art. 494 | [Decizia CCR nr. 456/2010](../../../../jurisprudenta/ccr/2010/456/) | exceptie | rejected | 2010-05-20 |
 | Art. 494 | [Decizia CCR nr. 1244/2010](../../../../jurisprudenta/ccr/2010/1244/) | exceptie | rejected | 2010-11-08 |
+| Art. 494 | [Decizia CCR nr. 703/2017](../../../../jurisprudenta/ccr/2017/703/) | exceptie | rejected | 2018-02-02 |
 | Art. 584 | [Decizia CCR nr. 826/2008](../../../../jurisprudenta/ccr/2008/826/) | exceptie | rejected | 2008-08-01 |
 | Art. 584 | [Decizia CCR nr. 969/2010](../../../../jurisprudenta/ccr/2010/969/) | exceptie | rejected | 2010-08-27 |
 | Art. 584 | [Decizia CCR nr. 1141/2010](../../../../jurisprudenta/ccr/2010/1141/) | exceptie | rejected | 2010-11-01 |
@@ -91,6 +93,7 @@ Act folder [`cod/1864/civil/`](../../../../cod/1864/civil/) · id `codul-civil-1
 | Art. 655 | [Decizia CCR nr. 530/2005](../../../../jurisprudenta/ccr/2005/530/) | exceptie | rejected | 2005-11-23 |
 | Art. 657 | [Decizia CCR nr. 530/2005](../../../../jurisprudenta/ccr/2005/530/) | exceptie | rejected | 2005-11-23 |
 | Art. 658 | [Decizia CCR nr. 530/2005](../../../../jurisprudenta/ccr/2005/530/) | exceptie | rejected | 2005-11-23 |
+| Art. 659 | [Decizia CCR nr. 240/2014](../../../../jurisprudenta/ccr/2014/240/) | exceptie | rejected | 2014-06-30 |
 | Art. 665 | [Decizia CCR nr. 185/2006](../../../../jurisprudenta/ccr/2006/185/) | exceptie | rejected | 2006-03-31 |
 | Art. 666 | [Decizia CCR nr. 185/2006](../../../../jurisprudenta/ccr/2006/185/) | exceptie | rejected | 2006-03-31 |
 | Art. 676 | [Decizia CCR nr. 185/2006](../../../../jurisprudenta/ccr/2006/185/) | exceptie | rejected | 2006-03-31 |
@@ -104,6 +107,7 @@ Act folder [`cod/1864/civil/`](../../../../cod/1864/civil/) · id `codul-civil-1
 | Art. 700 | [Decizia CCR nr. 547/2009](../../../../jurisprudenta/ccr/2009/547/) | exceptie | rejected | 2009-07-20 |
 | Art. 700 | [Decizia CCR nr. 1394/2009](../../../../jurisprudenta/ccr/2009/1394/) | exceptie | rejected | 2009-12-07 |
 | Art. 700 | [Decizia CCR nr. 1102/2010](../../../../jurisprudenta/ccr/2010/1102/) | exceptie | rejected | 2010-11-16 |
+| Art. 700 | [Decizia CCR nr. 247/2017](../../../../jurisprudenta/ccr/2017/247/) | exceptie | rejected | 2017-08-18 |
 | Art. 700 | [Decizia ÎCCJ nr. XI/2007 (Secțiile Unite)](../../../../jurisprudenta/iccj/su/2007/11/) | RIL | admitted | 2007-10-30 |
 | Art. 728 | [Decizia CCR nr. 143/2006](../../../../jurisprudenta/ccr/2006/143/) | exceptie | rejected | 2006-03-23 |
 | Art. 728 | [Decizia CCR nr. 844/2008](../../../../jurisprudenta/ccr/2008/844/) | exceptie | rejected | 2008-08-07 |
@@ -138,6 +142,7 @@ Act folder [`cod/1864/civil/`](../../../../cod/1864/civil/) · id `codul-civil-1
 | Art. 969 | [Decizia CCR nr. 701/2011](../../../../jurisprudenta/ccr/2011/701/) | exceptie | rejected | 2011-08-29 |
 | Art. 969 | [Decizia CCR nr. 985/2011](../../../../jurisprudenta/ccr/2011/985/) | exceptie | rejected | 2011-10-05 |
 | Art. 969 | [Decizia CCR nr. 1121/2011](../../../../jurisprudenta/ccr/2011/1121/) | exceptie | rejected | 2011-10-05 |
+| Art. 969 | [Decizia CCR nr. 296/2013](../../../../jurisprudenta/ccr/2013/296/) | exceptie | rejected | 2013-06-27 |
 | Art. 969 | [Decizia ÎCCJ nr. XI/2005 (Secțiile Unite)](../../../../jurisprudenta/iccj/su/2005/11/) | RIL | admitted | 2006-02-09 |
 | Art. 970 | [Decizia CCR nr. 220/2000](../../../../jurisprudenta/ccr/2000/220/) | exceptie | rejected | 2001-03-23 |
 | Art. 970 | [Decizia CCR nr. 914/2007](../../../../jurisprudenta/ccr/2007/914/) | exceptie | rejected | 2007-11-15 |
@@ -179,9 +184,11 @@ Act folder [`cod/1864/civil/`](../../../../cod/1864/civil/) · id `codul-civil-1
 | Art. 998 | [Decizia CCR nr. 894/2009](../../../../jurisprudenta/ccr/2009/894/) | exceptie | rejected | 2009-07-22 |
 | Art. 998 | [Decizia CCR nr. 466/2011](../../../../jurisprudenta/ccr/2011/466/) | exceptie | rejected | 2011-05-25 |
 | Art. 998 | [Decizia CCR nr. 1563/2011](../../../../jurisprudenta/ccr/2011/1563/) | exceptie | rejected | 2012-02-01 |
+| Art. 998 | [Decizia CCR nr. 430/2014](../../../../jurisprudenta/ccr/2014/430/) | exceptie | rejected | 2014-08-01 |
 | Art. 999 | [Decizia CCR nr. 44/2002](../../../../jurisprudenta/ccr/2002/44/) | exceptie | rejected | 2002-04-18 |
 | Art. 999 | [Decizia CCR nr. 894/2009](../../../../jurisprudenta/ccr/2009/894/) | exceptie | rejected | 2009-07-22 |
 | Art. 999 | [Decizia CCR nr. 1563/2011](../../../../jurisprudenta/ccr/2011/1563/) | exceptie | rejected | 2012-02-01 |
+| Art. 999 | [Decizia CCR nr. 430/2014](../../../../jurisprudenta/ccr/2014/430/) | exceptie | rejected | 2014-08-01 |
 | Art. 1000 | [Decizia CCR nr. 683/2007](../../../../jurisprudenta/ccr/2007/683/) | exceptie | rejected | 2007-10-22 |
 | Art. 1000 | [Decizia CCR nr. 957/2009](../../../../jurisprudenta/ccr/2009/957/) | exceptie | rejected | 2009-07-29 |
 | Art. 1019 | [Decizia CCR nr. 748/2006](../../../../jurisprudenta/ccr/2006/748/) | exceptie | rejected | 2006-12-12 |
@@ -239,6 +246,8 @@ Act folder [`cod/1864/civil/`](../../../../cod/1864/civil/) · id `codul-civil-1
 | Art. 1073 | [Decizia CCR nr. 968/2011](../../../../jurisprudenta/ccr/2011/968/) | exceptie | rejected | 2011-09-21 |
 | Art. 1073 | [Decizia CCR nr. 1111/2011](../../../../jurisprudenta/ccr/2011/1111/) | exceptie | rejected | 2011-10-05 |
 | Art. 1073 | [Decizia CCR nr. 1121/2011](../../../../jurisprudenta/ccr/2011/1121/) | exceptie | rejected | 2011-10-05 |
+| Art. 1073 | [Decizia CCR nr. 135/2013](../../../../jurisprudenta/ccr/2013/135/) | exceptie | rejected | 2013-03-27 |
+| Art. 1073 | [Decizia CCR nr. 296/2013](../../../../jurisprudenta/ccr/2013/296/) | exceptie | rejected | 2013-06-27 |
 | Art. 1074 | [Decizia CCR nr. 701/2011](../../../../jurisprudenta/ccr/2011/701/) | exceptie | rejected | 2011-08-29 |
 | Art. 1075 | [Decizia CCR nr. 311/2009](../../../../jurisprudenta/ccr/2009/311/) | exceptie | rejected | 2009-03-26 |
 | Art. 1075 | [Decizia CCR nr. 460/2010](../../../../jurisprudenta/ccr/2010/460/) | exceptie | rejected | 2010-05-19 |
@@ -250,8 +259,11 @@ Act folder [`cod/1864/civil/`](../../../../cod/1864/civil/) · id `codul-civil-1
 | Art. 1077 | [Decizia CCR nr. 1108/2010](../../../../jurisprudenta/ccr/2010/1108/) | exceptie | rejected | 2010-10-11 |
 | Art. 1077 | [Decizia CCR nr. 456/2011](../../../../jurisprudenta/ccr/2011/456/) | exceptie | rejected | 2011-06-17 |
 | Art. 1077 | [Decizia CCR nr. 701/2011](../../../../jurisprudenta/ccr/2011/701/) | exceptie | rejected | 2011-08-29 |
+| Art. 1077 | [Decizia CCR nr. 135/2013](../../../../jurisprudenta/ccr/2013/135/) | exceptie | rejected | 2013-03-27 |
 | Art. 1082 | [Decizia CCR nr. 672/2005](../../../../jurisprudenta/ccr/2005/672/) | exceptie | rejected | 2006-01-27 |
+| Art. 1082 | [Decizia ÎCCJ nr. 2/2014 (RIL)](../../../../jurisprudenta/iccj/ril/2014/2/) | RIL | admitted | 2014-06-03 |
 | Art. 1088 | [Decizia CCR nr. 1234/2011](../../../../jurisprudenta/ccr/2011/1234/) | exceptie | rejected | 2011-10-27 |
+| Art. 1088 | [Decizia ÎCCJ nr. 2/2014 (RIL)](../../../../jurisprudenta/iccj/ril/2014/2/) | RIL | admitted | 2014-06-03 |
 | Art. 1089 | [Decizia CCR nr. 524/1997](../../../../jurisprudenta/ccr/1997/524/) | exceptie | rejected | 1998-03-25 |
 | Art. 1089 | [Decizia CCR nr. 541/2006](../../../../jurisprudenta/ccr/2006/541/) | exceptie | rejected | 2006-08-08 |
 | Art. 1089 | [Decizia CCR nr. 676/2006](../../../../jurisprudenta/ccr/2006/676/) | exceptie | rejected | 2006-11-10 |
@@ -284,6 +296,9 @@ Act folder [`cod/1864/civil/`](../../../../cod/1864/civil/) · id `codul-civil-1
 | Art. 1201 | [Decizia CCR nr. 1351/2009](../../../../jurisprudenta/ccr/2009/1351/) | exceptie | rejected | 2009-12-09 |
 | Art. 1201 | [Decizia CCR nr. 582/2011](../../../../jurisprudenta/ccr/2011/582/) | exceptie | rejected | 2011-07-26 |
 | Art. 1201 | [Decizia CCR nr. 617/2011](../../../../jurisprudenta/ccr/2011/617/) | exceptie | rejected | 2011-07-29 |
+| Art. 1202 | [Decizia CCR nr. 618/2016](../../../../jurisprudenta/ccr/2016/618/) | exceptie | rejected | 2017-01-27 |
+| Art. 1202 | [Decizia CCR nr. 66/2017](../../../../jurisprudenta/ccr/2017/66/) | exceptie | rejected | 2017-04-19 |
+| Art. 1202 | [Decizia CCR nr. 288/2017](../../../../jurisprudenta/ccr/2017/288/) | exceptie | rejected | 2017-07-27 |
 | Art. 1294 | [Decizia CCR nr. 1021/2010](../../../../jurisprudenta/ccr/2010/1021/) | exceptie | rejected | 2010-10-13 |
 | Art. 1295 | [Decizia CCR nr. 1064/2009](../../../../jurisprudenta/ccr/2009/1064/) | exceptie | rejected | 2009-08-14 |
 | Art. 1298 | [Decizia CCR nr. 218/2005](../../../../jurisprudenta/ccr/2005/218/) | exceptie | rejected | 2005-06-07 |
@@ -295,6 +310,14 @@ Act folder [`cod/1864/civil/`](../../../../cod/1864/civil/) · id `codul-civil-1
 | Art. 1340 | [Decizia CCR nr. 763/2010](../../../../jurisprudenta/ccr/2010/763/) | exceptie | rejected | 2010-06-24 |
 | Art. 1361 | [Decizia CCR nr. 379/2006](../../../../jurisprudenta/ccr/2006/379/) | exceptie | rejected | 2006-06-19 |
 | Art. 1364 | [Decizia CCR nr. 668/2008](../../../../jurisprudenta/ccr/2008/668/) | exceptie | rejected | 2008-07-24 |
+| Art. 1391 | [Decizia CCR nr. 727/2014](../../../../jurisprudenta/ccr/2014/727/) | exceptie | rejected | 2015-03-03 |
+| Art. 1392 | [Decizia CCR nr. 727/2014](../../../../jurisprudenta/ccr/2014/727/) | exceptie | rejected | 2015-03-03 |
+| Art. 1393 | [Decizia CCR nr. 727/2014](../../../../jurisprudenta/ccr/2014/727/) | exceptie | rejected | 2015-03-03 |
+| Art. 1394 | [Decizia CCR nr. 727/2014](../../../../jurisprudenta/ccr/2014/727/) | exceptie | rejected | 2015-03-03 |
+| Art. 1395 | [Decizia CCR nr. 727/2014](../../../../jurisprudenta/ccr/2014/727/) | exceptie | rejected | 2015-03-03 |
+| Art. 1396 | [Decizia CCR nr. 727/2014](../../../../jurisprudenta/ccr/2014/727/) | exceptie | rejected | 2015-03-03 |
+| Art. 1397 | [Decizia CCR nr. 727/2014](../../../../jurisprudenta/ccr/2014/727/) | exceptie | rejected | 2015-03-03 |
+| Art. 1398 | [Decizia CCR nr. 727/2014](../../../../jurisprudenta/ccr/2014/727/) | exceptie | rejected | 2015-03-03 |
 | Art. 1402 | [Decizia CCR nr. 6/2001](../../../../jurisprudenta/ccr/2001/6/) | exceptie | rejected | 2001-03-29 |
 | Art. 1403 | [Decizia CCR nr. 6/2001](../../../../jurisprudenta/ccr/2001/6/) | exceptie | rejected | 2001-03-29 |
 | Art. 1404 | [Decizia CCR nr. 6/2001](../../../../jurisprudenta/ccr/2001/6/) | exceptie | rejected | 2001-03-29 |

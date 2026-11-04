@@ -4,6 +4,7 @@ Act folder [`cod/1887/comercial/`](../../../../cod/1887/comercial/) · id `codul
 
 | Provision | Decision | Kind | Outcome | Binding from |
 | --- | --- | --- | --- | --- |
+| whole act | [Decizia ÎCCJ nr. 6/2017 (HP penal)](../../../../jurisprudenta/iccj/hp-penal/2017/6/) | HP | admitted | 2017-04-24 |
 | Art. 3 | [Decizia ÎCCJ nr. LXXXV/2007 (Secțiile Unite)](../../../../jurisprudenta/iccj/su/2007/85/) | RIL | admitted | 2008-10-07 |
 | Art. 4 | [Decizia CCR nr. 553/2007](../../../../jurisprudenta/ccr/2007/553/) | exceptie | rejected | 2007-07-05 |
 | Art. 7 | [Decizia CCR nr. 909/2010](../../../../jurisprudenta/ccr/2010/909/) | exceptie | rejected | 2010-08-10 |
