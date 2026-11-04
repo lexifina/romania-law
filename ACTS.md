@@ -1,6 +1,6 @@
 # Every act in this repository
 
-25020 acts, 38,654 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+25029 acts, 38,663 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6067,7 +6067,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (18962, of which 9629 amending acts)
+## Government decisions (HG) (18971, of which 9632 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6657,6 +6657,15 @@
 | Hotărârea Guvernului nr. 1317/2005 | [`hg/2005/1317/`](hg/2005/1317/) | in force | 1 | 2005-11-10 | 2005-11-10 |
 | Hotărârea Guvernului nr. 1326/2005 | [`hg/2005/1326/`](hg/2005/1326/) | in force | 1 | 2005-11-17 | 2005-11-17 |
 | Hotărârea Guvernului nr. 1334/2005 | [`hg/2005/1334/`](hg/2005/1334/) | in force | 1 | 2005-11-08 | 2005-11-08 |
+| Hotărârea Guvernului nr. 1341/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Cluj | [`hg/2005/1341/`](hg/2005/1341/) | in force | 1 | 2005-11-09 | 2005-11-09 |
+| Hotărârea Guvernului nr. 1342/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Sălaj | [`hg/2005/1342/`](hg/2005/1342/) | in force | 1 | 2005-11-16 | 2005-11-16 |
+| Hotărârea Guvernului nr. 1344/2005 privind stabilirea cuantumului ajutorului anual pentru acoperirea unei părţi din costul chiriei, energiei electrice şi energiei termice pentru nevoi casnice, cuvenit veteranilor de război, văduvelor de război, precum şi accidentaţilor de război în afara serviciului ordonat | [`hg/2005/1344/`](hg/2005/1344/) | in force | 1 | 2005-11-09 | 2005-11-09 |
+| Hotărârea Guvernului nr. 1345/2005 privind suplimentarea bugetului Ministerului Transporturilor, Construcţiilor şi Turismului din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005 | [`hg/2005/1345/`](hg/2005/1345/) | in force | 1 | 2005-11-09 | 2005-11-09 |
+| Hotărârea Guvernului nr. 1346/2005 privind transmiterea cu titlu gratuit a unor active cu caracter social din patrimoniul Societăţii Comerciale "Uzina de Agent Termic şi Alimentare cu Apă" - S.A. Motru în domeniul public al municipiului Motru, judeţul Gorj, şi în administrarea Consiliului Local al Municipiului Motru | [`hg/2005/1346/`](hg/2005/1346/) | in force | 1 | 2005-11-16 | 2005-11-16 |
+| Hotărârea Guvernului nr. 1347/2005 pentru modificarea anexelor nr. 1-3 la Hotărârea Guvernului nr. 941/2002 privind organizarea şi funcţionarea Agenţiei Române pentru Conservarea Energiei | [`hg/2005/1347/`](hg/2005/1347/) | amending act | 1 | 2005-11-10 | 2005-11-10 |
+| Hotărârea Guvernului nr. 1350/2005 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Agriculturii, Pădurilor şi Dezvoltării Rurale în domeniul public al municipiului Suceava şi în administrarea Consiliului Local al Municipiului Suceava, judeţul Suceava | [`hg/2005/1350/`](hg/2005/1350/) | in force | 1 | 2005-11-09 | 2005-11-09 |
+| Hotărârea Guvernului nr. 1351/2005 pentru modificarea şi completarea Hotărârii Guvernului nr. 764/2005 privind suplimentarea bugetului Ministerului Culturii şi Cultelor, precum şi alocarea unei sume pentru judeţul Suceava din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005 | [`hg/2005/1351/`](hg/2005/1351/) | amending act | 1 | 2005-11-10 | 2005-11-10 |
+| Hotărârea Guvernului nr. 1352/2005 pentru modificarea şi completarea Hotărârii Guvernului nr. 744/2003 privind organizarea şi funcţionarea Ministerului Comunicaţiilor şi Tehnologiei Informaţiei | [`hg/2005/1352/`](hg/2005/1352/) | amending act | 1 | 2005-11-09 | 2005-11-09 |
 | Hotărârea Guvernului nr. 1353/2005 pentru aprobarea amendamentelor convenite prin schimb de scrisori, semnate la Bucureşti la 20 şi 28 iulie 2005, precum şi la Washington la 2 şi 4 august 2005, între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare privind finanţarea Proiectului de închidere a minelor şi de atenuare a impactului social, în valoare de 44,5 milioane dolari S.U.A., semnat la Bucureşti la 13 octombrie 1999 | [`hg/2005/1353/`](hg/2005/1353/) | amending act | 1 | 2005-11-17 | 2005-11-17 |
 | Hotărârea Guvernului nr. 1354/2005 pentru modificarea şi completarea Hotărârii Guvernului nr. 618/2005 privind constituirea Colegiului pentru Consultarea Societăţii Civile | [`hg/2005/1354/`](hg/2005/1354/) | amending act | 1 | 2005-11-15 | 2005-11-15 |
 | Hotărârea Guvernului nr. 1358/2005 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.549/2004 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării "Varianta ocolitoare a municipiului Piteşti" | [`hg/2005/1358/`](hg/2005/1358/) | amending act | 1 | 2005-11-18 | 2005-11-18 |
