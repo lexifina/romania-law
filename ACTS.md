@@ -1,6 +1,6 @@
 # Every act in this repository
 
-25056 acts, 38,690 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+25065 acts, 38,699 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6067,7 +6067,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (18998, of which 9644 amending acts)
+## Government decisions (HG) (19007, of which 9646 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6654,6 +6654,15 @@
 | Hotărârea Guvernului nr. 1222/2005 | [`hg/2005/1222/`](hg/2005/1222/) | in force | 1 | 2005-12-18 | 2005-12-18 |
 | Hotărârea Guvernului nr. 1229/2005 | [`hg/2005/1229/`](hg/2005/1229/) | in force | 1 | 2005-10-21 | 2005-10-21 |
 | Hotărârea Guvernului nr. 1258/2005 | [`hg/2005/1258/`](hg/2005/1258/) | in force | 3 | 2005-11-01 | 2010-06-16 |
+| Hotărârea Guvernului nr. 1288/2005 privind redobândirea cetăţeniei române de către unele persoane | [`hg/2005/1288/`](hg/2005/1288/) | in force | 1 | 2005-11-02 | 2005-11-02 |
+| Hotărârea Guvernului nr. 1293/2005 privind aprobarea renunţării la cetăţenia română unor persoane | [`hg/2005/1293/`](hg/2005/1293/) | amending act | 1 | 2005-11-01 | 2005-11-01 |
+| Hotărârea Guvernului nr. 1295/2005 privind aprobarea plăţii cheltuielilor prilejuite de participarea României la Summitul Mondial pentru Societatea Informaţională din Tunisia | [`hg/2005/1295/`](hg/2005/1295/) | amending act | 1 | 2005-11-01 | 2005-11-01 |
+| Hotărârea Guvernului nr. 1296/2005 privind suplimentarea bugetului Ministerului Culturii şi Cultelor din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2005, pentru Biserica "Sfânta Treime" din Tulcea | [`hg/2005/1296/`](hg/2005/1296/) | in force | 1 | 2005-11-01 | 2005-11-01 |
+| Hotărârea Guvernului nr. 1297/2005 privind suplimentarea bugetului Serviciului de Protecţie şi Pază pe anul 2005 din Fondul de rezervă bugetară la dispoziţia Guvernului | [`hg/2005/1297/`](hg/2005/1297/) | in force | 1 | 2005-11-02 | 2005-11-02 |
+| Hotărârea Guvernului nr. 1298/2005 privind suplimentarea bugetului Ministerului Culturii şi Cultelor din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2005, pentru Biserica unitariană din Sângeorgiu de Pădure | [`hg/2005/1298/`](hg/2005/1298/) | in force | 1 | 2005-11-03 | 2005-11-03 |
+| Hotărârea Guvernului nr. 1299/2005 privind suplimentarea bugetului Ministerului Culturii şi Cultelor din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2005, pentru Episcopia Româno-Catolică din Oradea | [`hg/2005/1299/`](hg/2005/1299/) | in force | 1 | 2005-11-03 | 2005-11-03 |
+| Hotărârea Guvernului nr. 1300/2005 privind organizarea la Bucureşti, în perioada 3-5 noiembrie 2005, a celei de-a XXXI-a ediţii a Sesiunii de comunicări ştiinţifice cu participare internaţională "Tehnologii moderne în secolul XXI" | [`hg/2005/1300/`](hg/2005/1300/) | in force | 1 | 2005-11-02 | 2005-11-02 |
+| Hotărârea Guvernului nr. 1301/2005 privind majorarea bugetului de venituri şi cheltuieli al activităţii de "intervenţii operative şi reîntregirea stocurilor diminuate", finanţată integral din veniturile proprii ale Administraţiei Naţionale a Rezervelor de Stat | [`hg/2005/1301/`](hg/2005/1301/) | in force | 1 | 2005-11-03 | 2005-11-03 |
 | Hotărârea Guvernului nr. 1302/2005 privind transmiterea unei părţi dintr-un imobil, proprietate publică a statului, din administrarea Ministerului Apărării Naţionale în administrarea Ministerului Culturii şi Cultelor, pentru Episcopia Romanului | [`hg/2005/1302/`](hg/2005/1302/) | in force | 1 | 2005-11-02 | 2005-11-02 |
 | Hotărârea Guvernului nr. 1303/2005 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al municipiului Lugoj şi în administrarea Consiliului Local al Municipiului Lugoj, judeţul Timiş | [`hg/2005/1303/`](hg/2005/1303/) | in force | 1 | 2005-11-03 | 2005-11-03 |
 | Hotărârea Guvernului nr. 1304/2005 privind transmiterea unor imobile din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al oraşului Lipova şi în administrarea Consiliului Local al Oraşului Lipova, judeţul Arad | [`hg/2005/1304/`](hg/2005/1304/) | in force | 1 | 2005-11-03 | 2005-11-03 |
