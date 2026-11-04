@@ -1,6 +1,6 @@
 # Every act in this repository
 
-27537 acts, 41,180 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+27557 acts, 41,200 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (4035, of which 2429 amending acts)
+## Laws (legi) (4036, of which 2430 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -550,6 +550,7 @@
 | Legea nr. 347/2004 | [`lege/2004/347/`](lege/2004/347/) | in force | 6 | 2004-07-29 | 2010-08-04 |
 | Legea nr. 348/2004 privind denominarea monedei naționale | [`lege/2004/348/`](lege/2004/348/) | in force | 3 | 2004-07-26 | 2005-05-08 |
 | Legea nr. 351/2004 | [`lege/2004/351/`](lege/2004/351/) | in force | 10 | 2004-08-27 | 2012-10-06 |
+| Legea nr. 358/2004 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 37/2004 privind măsuri de diminuare a arieratelor din economie | [`lege/2004/358/`](lege/2004/358/) | amending act | 1 | 2004-09-13 | 2004-09-13 |
 | Legea nr. 359/2004 | [`lege/2004/359/`](lege/2004/359/) | repealed 2022-11-26 | 11 | 2004-10-13 | 2022-11-26 |
 | Legea nr. 363/2004 pentru ratificarea Acordului dintre România şi Regatul Spaniei privind protecţia informaţiilor clasificate din domeniul apărării, semnat la Bucureşti la 3 martie 2004 | [`lege/2004/363/`](lege/2004/363/) | in force | 1 | 2004-09-25 | 2004-09-25 |
 | Legea nr. 364/2004 | [`lege/2004/364/`](lege/2004/364/) | in force | 9 | 2004-09-26 | 2020-02-11 |
@@ -6400,7 +6401,7 @@
 | Ordonanța Guvernului nr. 3/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 70/2022 privind prevenirea, verificarea şi constatarea neregulilor/dublei finanţări, a neregulilor grave apărute în obţinerea şi utilizarea fondurilor externe nerambursabile/rambursabile alocate României prin Mecanismul de redresare şi rezilienţă şi/sau a fondurilor publice naţionale aferente acestora şi recuperarea creanţelor rezultate | [`og/2026/3/`](og/2026/3/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (21146, of which 10905 amending acts)
+## Government decisions (HG) (21165, of which 10915 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6855,13 +6856,32 @@
 | Hotărârea Guvernului nr. 1309/2004 | [`hg/2004/1309/`](hg/2004/1309/) | in force | 2 | 2004-09-01 | 2006-02-02 |
 | Hotărârea Guvernului nr. 1375/2004 | [`hg/2004/1375/`](hg/2004/1375/) | in force | 1 | 2004-09-09 | 2004-09-09 |
 | Hotărârea Guvernului nr. 1407/2004 | [`hg/2004/1407/`](hg/2004/1407/) | in force | 2 | 2004-09-14 | 2007-08-29 |
+| Hotărârea Guvernului nr. 1424/2004 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru judeţul Arad | [`hg/2004/1424/`](hg/2004/1424/) | in force | 1 | 2004-09-10 | 2004-09-10 |
+| Hotărârea Guvernului nr. 1426/2004 pentru aprobarea Normelor metodologice privind constituirea şi utilizarea fondului de stimulente de către Autoritatea Naţională a Vămilor | [`hg/2004/1426/`](hg/2004/1426/) | amending act | 1 | 2004-09-14 | 2004-09-14 |
+| Hotărârea Guvernului nr. 1430/2004 pentru aprobarea Protocolului de cooperare în domeniul arhivistic dintre Arhivele Naţionale din România şi Direcţia Generală a Arhivelor din Republica Albania, semnat la Tirana la 3 decembrie 2003 | [`hg/2004/1430/`](hg/2004/1430/) | amending act | 1 | 2004-09-15 | 2004-09-15 |
+| Hotărârea Guvernului nr. 1431/2004 pentru aprobarea amendamentului convenit prin schimbul de scrisori semnate la Bucureşti la 22 ianuarie 2004 şi la Zagreb la 19 decembrie 2003 şi 14 aprilie 2004 între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare la Acordul de asistenţă financiară nerambursabilă dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, acţionând în calitate de agenţie de implementare a Facilităţii Globale de Mediu, pentru finanţarea Proiectului "Controlul poluării în agricultură", semnat la Bucureşti la 16 ianuarie 2002 | [`hg/2004/1431/`](hg/2004/1431/) | amending act | 1 | 2004-09-16 | 2004-09-16 |
 | Hotărârea Guvernului nr. 1432/2004 | [`hg/2004/1432/`](hg/2004/1432/) | in force | 4 | 2005-01-01 | 2007-10-02 |
 | Hotărârea Guvernului nr. 1433/2004 | [`hg/2004/1433/`](hg/2004/1433/) | in force | 4 | 2005-01-01 | 2013-08-02 |
 | Hotărârea Guvernului nr. 1434/2004 | [`hg/2004/1434/`](hg/2004/1434/) | in force | 4 | 2005-01-01 | 2010-09-22 |
+| Hotărârea Guvernului nr. 1438/2004 pentru aprobarea regulamentelor-cadru de organizare şi funcţionare a serviciilor de prevenire a separării copilului de familia sa, precum şi a celor de protecţie specială a copilului lipsit temporar sau definitiv de ocrotirea părinţilor săi | [`hg/2004/1438/`](hg/2004/1438/) | amending act | 1 | 2005-01-01 | 2005-01-01 |
 | Hotărârea Guvernului nr. 1439/2004 | [`hg/2004/1439/`](hg/2004/1439/) | in force | 1 | 2005-01-01 | 2005-01-01 |
 | Hotărârea Guvernului nr. 1440/2004 | [`hg/2004/1440/`](hg/2004/1440/) | in force | 2 | 2005-01-01 | 2006-01-19 |
 | Hotărârea Guvernului nr. 1441/2004 | [`hg/2004/1441/`](hg/2004/1441/) | in force | 2 | 2005-01-01 | 2016-08-12 |
+| Hotărârea Guvernului nr. 1442/2004 privind serviciile şi activităţile ce pot fi desfăşurate de către organismele private române în cadrul procedurii adopţiei interne | [`hg/2004/1442/`](hg/2004/1442/) | in force | 1 | 2005-01-01 | 2005-01-01 |
 | Hotărârea Guvernului nr. 1443/2004 | [`hg/2004/1443/`](hg/2004/1443/) | in force | 1 | 2005-01-01 | 2005-01-01 |
+| Hotărârea Guvernului nr. 1444/2004 privind suplimentarea bugetului Serviciului de Protecţie şi Pază din Fondul de rezervă bugetară la dispoziţia Guvernului | [`hg/2004/1444/`](hg/2004/1444/) | in force | 1 | 2004-09-10 | 2004-09-10 |
+| Hotărârea Guvernului nr. 1445/2004 privind suplimentarea bugetului Ministerului Administraţiei şi Internelor din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004 | [`hg/2004/1445/`](hg/2004/1445/) | in force | 1 | 2004-09-10 | 2004-09-10 |
+| Hotărârea Guvernului nr. 1446/2004 privind exceptarea participanţilor la Congresul Uniunii Poştale Universale de la obligativitatea vizelor pentru perioada 14 septembrie-6 octombrie 2004 | [`hg/2004/1446/`](hg/2004/1446/) | in force | 1 | 2004-09-10 | 2004-09-10 |
+| Hotărârea Guvernului nr. 1448/2004 privind trecerea unui imobil, proprietate privată a statului, din administrarea Ministerului Transporturilor, Construcţiilor şi Turismului în administrarea Companiei Naţionale de Investiţii "C.N.I." - S.A | [`hg/2004/1448/`](hg/2004/1448/) | in force | 1 | 2004-09-17 | 2004-09-17 |
+| Hotărârea Guvernului nr. 1449/2004 pentru modificarea anexei la Hotărârea Guvernului nr. 1.521/2003 privind exceptarea şi reducerea temporară a taxelor vamale de import pentru unele categorii de mărfuri | [`hg/2004/1449/`](hg/2004/1449/) | amending act | 1 | 2004-09-13 | 2004-09-13 |
+| Hotărârea Guvernului nr. 1451/2004 pentru modificarea şi completarea anexei nr. 1 la Hotărârea Guvernului nr. 264/2003 privind stabilirea acţiunilor şi categoriilor de cheltuieli, criteriilor, procedurilor şi limitelor pentru efectuarea de plăţi în avans din fonduri publice | [`hg/2004/1451/`](hg/2004/1451/) | amending act | 1 | 2004-09-16 | 2004-09-16 |
+| Hotărârea Guvernului nr. 1452/2004 privind redobândirea cetăţeniei române de către unele persoane | [`hg/2004/1452/`](hg/2004/1452/) | in force | 1 | 2004-09-17 | 2004-09-17 |
+| Hotărârea Guvernului nr. 1456/2004 pentru abrogarea unor reglementări privind acordarea înlesnirilor la plata obligaţiilor bugetare | [`hg/2004/1456/`](hg/2004/1456/) | amending act | 1 | 2004-09-14 | 2004-09-14 |
+| Hotărârea Guvernului nr. 1457/2004 privind aprobarea organizării şi finanţării seminarului internaţional cu tematica "Prevenirea şi combaterea bioterorismului", în perioada 6-10 octombrie 2004 | [`hg/2004/1457/`](hg/2004/1457/) | amending act | 1 | 2004-09-14 | 2004-09-14 |
+| Hotărârea Guvernului nr. 1458/2004 pentru autorizarea Cancelariei Primului-Ministru de a accepta o donaţie în favoarea statului român | [`hg/2004/1458/`](hg/2004/1458/) | in force | 1 | 2004-09-14 | 2004-09-14 |
+| Hotărârea Guvernului nr. 1459/2004 pentru autorizarea Ministerului Sănătăţii de a accepta o donaţie în favoarea statului român | [`hg/2004/1459/`](hg/2004/1459/) | in force | 1 | 2004-09-14 | 2004-09-14 |
+| Hotărârea Guvernului nr. 1460/2004 pentru modificarea şi completarea Hotărârii Guvernului nr. 412/2004 privind organizarea şi funcţionarea Ministerului Transporturilor, Construcţiilor şi Turismului | [`hg/2004/1460/`](hg/2004/1460/) | amending act | 1 | 2004-09-14 | 2004-09-14 |
+| Hotărârea Guvernului nr. 1462/2004 pentru aprobarea Regulamentului de organizare şi funcţionare a Institutului Naţional de Cercetare-Dezvoltare Turbomotoare - COMOTI Bucureşti | [`hg/2004/1462/`](hg/2004/1462/) | amending act | 1 | 2004-10-21 | 2004-10-21 |
 | Hotărârea Guvernului nr. 1463/2004 pentru aprobarea Regulamentului de organizare şi funcţionare a Institutului Naţional de Cercetare-Dezvoltare pentru Textile şi Pielărie - I.N.C.D.T.P. Bucureşti | [`hg/2004/1463/`](hg/2004/1463/) | amending act | 1 | 2004-10-22 | 2004-10-22 |
 | Hotărârea Guvernului nr. 1464/2004 pentru completarea Hotărârii Guvernului nr. 549/2004 privind înfiinţarea Societăţii Comerciale "Baza de Aprovizionare C.F.R." - S.A. ca filială a Companiei Naţionale de Căi Ferate "C.F.R." - S.A | [`hg/2004/1464/`](hg/2004/1464/) | amending act | 1 | 2004-09-16 | 2004-09-16 |
 | Hotărârea Guvernului nr. 1467/2004 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.022/2004 privind organizarea şi funcţionarea Agenţiei Române de Intervenţii şi Salvare Navală - ARISN | [`hg/2004/1467/`](hg/2004/1467/) | amending act | 1 | 2004-09-21 | 2004-09-21 |
