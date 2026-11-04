@@ -1,6 +1,6 @@
 # Every act in this repository
 
-24966 acts, 38,600 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+24975 acts, 38,609 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3776,7 +3776,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1738, of which 615 amending acts)
+## Emergency ordinances (OUG) (1739, of which 615 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4072,6 +4072,7 @@
 | Ordonanța de urgență a Guvernului nr. 135/2005 | [`oug/2005/135/`](oug/2005/135/) | in force | 2 | 2005-10-07 | 2006-03-13 |
 | Ordonanța de urgență a Guvernului nr. 148/2005 | [`oug/2005/148/`](oug/2005/148/) | in force | 13 | 2006-01-01 | 2012-10-14 |
 | Ordonanța de urgență a Guvernului nr. 152/2005 | [`oug/2005/152/`](oug/2005/152/) | repealed 2013-12-01 | 5 | 2005-11-30 | 2013-12-01 |
+| Ordonanța de urgență a Guvernului nr. 156/2005 privind suplimentarea numărului maxim de posturi finanţat pentru Cancelaria Primului-Ministru | [`oug/2005/156/`](oug/2005/156/) | in force | 1 | 2005-11-18 | 2005-11-18 |
 | Ordonanța de urgență a Guvernului nr. 158/2005 | [`oug/2005/158/`](oug/2005/158/) | in force | 31 | 2006-01-01 | 2025-12-31 |
 | Ordonanța de urgență a Guvernului nr. 166/2005 privind aprobarea scoaterii din rezervele de stat a unor cantităţi de carburanţi şi lubrifianţi, care vor fi acordate, în mod gratuit, Ministerului Apărării Naţionale, Ministerului Administraţiei şi Internelor şi Serviciului Român de Informaţii | [`oug/2005/166/`](oug/2005/166/) | amending act | 1 | 2005-12-06 | 2005-12-06 |
 | Ordonanța de urgență a Guvernului nr. 171/2005 | [`oug/2005/171/`](oug/2005/171/) | in force | 2 | 2005-12-13 | 2006-05-25 |
@@ -6053,7 +6054,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (18922, of which 9610 amending acts)
+## Government decisions (HG) (18930, of which 9612 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6643,6 +6644,14 @@
 | Hotărârea Guvernului nr. 1326/2005 | [`hg/2005/1326/`](hg/2005/1326/) | in force | 1 | 2005-11-17 | 2005-11-17 |
 | Hotărârea Guvernului nr. 1334/2005 | [`hg/2005/1334/`](hg/2005/1334/) | in force | 1 | 2005-11-08 | 2005-11-08 |
 | Hotărârea Guvernului nr. 1401/2005 pentru aprobarea Regulamentului de organizare și funcționare a Institutului Național de Cercetare-Dezvoltare pentru Tehnologii Izotopice și Moleculare - I.N.C.D.T.I.M. Cluj-Napoca | [`hg/2005/1401/`](hg/2005/1401/) | amending act | 1 | 2005-12-29 | 2005-12-29 |
+| Hotărârea Guvernului nr. 1406/2005 privind modificarea anexei la Hotărârea Guvernului nr. 276/2005 pentru aprobarea Programului privind sprijinirea producătorilor agricoli pentru achiziţionarea de tractoare agricole noi, combine noi de recoltat cereale şi maşini agricole noi care lucrează în agregat cu tractoarele, cu finanţare de la bugetul de stat, precum şi pentru completarea Hotărârii Guvernului nr. 1.399/2003 pentru aprobarea Programului privind sprijinirea producătorilor agricoli pentru achiziţionarea de tractoare agricole noi, cu puteri cuprinse între 45-75 CP DIN, şi echipamente agricole noi, cu finanţare de la bugetul de stat | [`hg/2005/1406/`](hg/2005/1406/) | amending act | 1 | 2005-11-25 | 2005-11-25 |
+| Hotărârea Guvernului nr. 1407/2005 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru înlăturarea efectelor calamităţilor naturale produse în unele judeţe ale ţării | [`hg/2005/1407/`](hg/2005/1407/) | in force | 1 | 2005-11-25 | 2005-11-25 |
+| Hotărârea Guvernului nr. 1409/2005 pentru modificarea art. 3 alin. (1) şi (3) din Hotărârea Guvernului nr. 803/2005 privind stabilirea unor măsuri pentru organizarea şi funcţionarea Teatrului Naţional "I.L. Caragiale" din Bucureşti | [`hg/2005/1409/`](hg/2005/1409/) | amending act | 1 | 2005-11-23 | 2005-11-23 |
+| Hotărârea Guvernului nr. 1410/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Hunedoara | [`hg/2005/1410/`](hg/2005/1410/) | in force | 1 | 2005-11-21 | 2005-11-21 |
+| Hotărârea Guvernului nr. 1413/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Constanţa | [`hg/2005/1413/`](hg/2005/1413/) | in force | 1 | 2005-11-24 | 2005-11-24 |
+| Hotărârea Guvernului nr. 1415/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Arad | [`hg/2005/1415/`](hg/2005/1415/) | in force | 1 | 2005-11-24 | 2005-11-24 |
+| Hotărârea Guvernului nr. 1416/2005 privind suplimentarea bugetului Ministerului Culturii şi Cultelor din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2005 | [`hg/2005/1416/`](hg/2005/1416/) | in force | 1 | 2005-11-24 | 2005-11-24 |
+| Hotărârea Guvernului nr. 1417/2005 privind suplimentarea bugetului Ministerului Culturii şi Cultelor din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2005 pentru Catedrala ortodoxă "Învierea Mântuitorului" din Oradea | [`hg/2005/1417/`](hg/2005/1417/) | in force | 1 | 2005-11-24 | 2005-11-24 |
 | Hotărârea Guvernului nr. 1418/2005 privind suplimentarea bugetului Ministerului Culturii şi Cultelor din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2005 | [`hg/2005/1418/`](hg/2005/1418/) | in force | 1 | 2005-11-24 | 2005-11-24 |
 | Hotărârea Guvernului nr. 1419/2005 privind suplimentarea bugetului Ministerului Culturii şi Cultelor pe anul 2005 din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru ansamblul monumental "Glorie eternă eroilor şi Revoluţiei Române din Decembrie 1989" | [`hg/2005/1419/`](hg/2005/1419/) | in force | 1 | 2005-11-24 | 2005-11-24 |
 | Hotărârea Guvernului nr. 1420/2005 privind aprobarea bugetului de venituri şi cheltuieli pentru implementarea Memorandumului de înţelegere dintre Guvernul României şi Organizaţia Internaţională pentru Migraţie privind cooperarea în domeniul repatrierii voluntare umanitare asistate pentru anul 2005 | [`hg/2005/1420/`](hg/2005/1420/) | amending act | 1 | 2005-11-24 | 2005-11-24 |
