@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38503 acts, 52,256 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38517 acts, 52,270 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8097, of which 2923 amending acts)
+## Laws (legi) (8104, of which 2929 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1067,10 +1067,17 @@
 | Legea nr. 561/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 43/2001 pentru modificarea Ordonanţei Guvernului nr. 11/1996 privind executarea creanţelor bugetare | [`lege/2001/561/`](lege/2001/561/) | amended, not consolidated | 1 | 2001-10-30 | 2001-10-30 |
 | Legea nr. 563/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 173/2000 pentru modificarea Decretului-lege nr. 118/1990 privind acordarea unor drepturi persoanelor persecutate din motive politice de dictatura instaurată cu începere de la 6 martie 1945, precum şi celor deportate în străinătate ori constituite în prizonieri | [`lege/2001/563/`](lege/2001/563/) | amended, not consolidated | 1 | 2001-10-30 | 2001-10-30 |
 | Legea nr. 564/2001 | [`lege/2001/564/`](lege/2001/564/) | in force | 1 | 2001-11-01 | 2001-11-01 |
+| Legea nr. 565/2001 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 38/1999 pentru modificarea şi completarea Legii nr. 46/1996 privind pregătirea populaţiei pentru apărare | [`lege/2001/565/`](lege/2001/565/) | amending act | 1 | 2001-10-30 | 2001-10-30 |
+| Legea nr. 566/2001 pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 198/1999 privind privatizarea societăţilor comerciale ce deţin în administrare terenuri agricole sau terenuri aflate permanent sub luciu de apa | [`lege/2001/566/`](lege/2001/566/) | amending act | 1 | 2001-10-30 | 2001-10-30 |
 | Legea nr. 567/2001 | [`lege/2001/567/`](lege/2001/567/) | in force | 1 | 2001-10-31 | 2001-10-31 |
+| Legea nr. 570/2001 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Regatului Suediei privind reglementarea pretenţiilor suedeze nesoluţionate, semnat la Bucureşti la 24 iunie 2001 | [`lege/2001/570/`](lege/2001/570/) | in force | 1 | 2001-10-25 | 2001-10-25 |
+| Legea nr. 571/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 50/2001 pentru prelungirea valabilităţii Ordonanţei de urgenţă a Guvernului nr. 4/2001 privind scutirea de la plata drepturilor de import şi a comisionului vamal pentru unele bunuri provenite din import | [`lege/2001/571/`](lege/2001/571/) | amending act | 1 | 2001-10-24 | 2001-10-24 |
+| Legea nr. 572/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 18/1999 privind trecerea Biroului Român de Metrologie Legală din subordinea Guvernului în subordinea Ministerului Industriei şi Comerţului | [`lege/2001/572/`](lege/2001/572/) | amending act | 1 | 2001-10-30 | 2001-10-30 |
 | Legea nr. 573/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 147/1999 privind asociaţiile utilizatorilor de apa pentru irigaţii | [`lege/2001/573/`](lege/2001/573/) | amended, not consolidated | 1 | 2001-11-01 | 2001-11-01 |
 | Legea nr. 574/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 9/2001 privind unele măsuri în domeniile culturii şi artei, cultelor, cinematografiei şi dreptului de autor | [`lege/2001/574/`](lege/2001/574/) | amended, not consolidated | 1 | 2001-10-30 | 2001-10-30 |
 | Legea nr. 575/2001 | [`lege/2001/575/`](lege/2001/575/) | in force | 1 | 2001-11-14 | 2001-11-14 |
+| Legea nr. 576/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 127/1999 privind instituirea unor măsuri cu caracter fiscal şi îmbunătăţirea realizării şi colectării veniturilor statului | [`lege/2001/576/`](lege/2001/576/) | amending act | 1 | 2001-10-26 | 2001-10-26 |
+| Legea nr. 577/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 256/2000 privind aprobarea surselor de plată pentru achitarea de către Ministerul Finanţelor a obligaţiilor financiare fata de Banca Naţionala a României rezultate din plata serviciului datoriei publice externe | [`lege/2001/577/`](lege/2001/577/) | amending act | 1 | 2001-10-25 | 2001-10-25 |
 | Legea nr. 579/2001 privind declararea municipiului Hunedoara Oraş martir al Revoluţiei din decembrie 1989 | [`lege/2001/579/`](lege/2001/579/) | in force | 1 | 2001-11-05 | 2001-11-05 |
 | Legea nr. 580/2001 privind declararea ca municipiu a oraşului Moineşti, judeţul Bacău | [`lege/2001/580/`](lege/2001/580/) | in force | 1 | 2001-11-05 | 2001-11-05 |
 | Legea nr. 581/2001 privind declararea ca municipiu a oraşului Salonta, judeţul Bihor | [`lege/2001/581/`](lege/2001/581/) | in force | 1 | 2001-11-05 | 2001-11-05 |
@@ -11997,7 +12004,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26472, of which 12377 amending acts)
+## Government decisions (HG) (26479, of which 12381 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13102,9 +13109,16 @@
 | Hotărârea Guvernului nr. 974/2001 | [`hg/2001/974/`](hg/2001/974/) | in force | 1 | 2001-10-18 | 2001-10-18 |
 | Hotărârea Guvernului nr. 1028/2001 privind modificarea art. 8 din Normele metodologice pentru aplicarea Ordonanţei de urgenţă a Guvernului nr. 24/1998 privind regimul zonelor defavorizate, republicată, cu modificările ulterioare, aprobate prin Hotărârea Guvernului nr. 728/2001 | [`hg/2001/1028/`](hg/2001/1028/) | amended, not consolidated | 1 | 2001-10-25 | 2001-10-25 |
 | Hotărârea Guvernului nr. 1032/2001 privind stabilirea condiţiilor de introducere pe piaţa şi de funcţionare a aparatelor electrice şi electronice din punct de vedere al compatibilităţii electromagnetice | [`hg/2001/1032/`](hg/2001/1032/) | amended, not consolidated | 1 | 2002-01-01 | 2002-01-01 |
+| Hotărârea Guvernului nr. 1046/2001 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului pe anul 2001 pentru finanţarea continuării lucrărilor la "Biserica Sfântul Ştefan a Martirilor din Decembrie 1989" din Timişoara | [`hg/2001/1046/`](hg/2001/1046/) | in force | 1 | 2001-10-29 | 2001-10-29 |
+| Hotărârea Guvernului nr. 1047/2001 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2001, pentru finanţarea obiectivului de investiţii "Extindere centrala termica comuna Măgurele, judeţul Ilfov" | [`hg/2001/1047/`](hg/2001/1047/) | in force | 1 | 2001-10-29 | 2001-10-29 |
 | Hotărârea Guvernului nr. 1048/2001 pentru aprobarea programului "Constituirea Fondului naţional de garantare a creditelor pentru întreprinderile mici şi mijlocii" finanţat din bugetul Ministerului pentru Întreprinderile Mici şi Mijlocii şi Cooperaţie pe anul 2001 | [`hg/2001/1048/`](hg/2001/1048/) | amended, not consolidated | 1 | 2001-10-29 | 2001-10-29 |
+| Hotărârea Guvernului nr. 1049/2001 pentru modificarea anexei nr. 2 la Hotărârea Guvernului nr. 292/2001 privind aprobarea categoriilor de cheltuieli şi a obiectivelor pentru înlăturarea efectelor calamităţilor naturale produse în perioada 3-6 martie 2001 în judeţele Alba, Bihor, Bistriţa-Năsăud, Cluj, Hunedoara, Maramureş şi Satu Mare | [`hg/2001/1049/`](hg/2001/1049/) | amending act | 1 | 2001-10-29 | 2001-10-29 |
+| Hotărârea Guvernului nr. 1050/2001 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2001 al Regiei Autonome "Administraţia Naţionala a Drumurilor din România" care funcţionează sub autoritatea Ministerului Lucrărilor Publice, Transporturilor şi Locuinţei | [`hg/2001/1050/`](hg/2001/1050/) | amending act | 1 | 2001-10-29 | 2001-10-29 |
+| Hotărârea Guvernului nr. 1051/2001 privind modificarea şi completarea Regulamentului pentru aplicarea Decretului nr. 328/1966 privind circulaţia pe drumurile publice şi pentru stabilirea şi sancţionarea contravenţiilor în acest sector | [`hg/2001/1051/`](hg/2001/1051/) | amending act | 1 | 2001-10-30 | 2001-10-30 |
 | Hotărârea Guvernului nr. 1052/2001 privind aprobarea volumului maxim de masa lemnoasă care se va recolta în anul 2002 | [`hg/2001/1052/`](hg/2001/1052/) | amended, not consolidated | 1 | 2001-10-30 | 2001-10-30 |
 | Hotărârea Guvernului nr. 1055/2001 privind condiţiile de introducere pe piaţa a mijloacelor de măsurare | [`hg/2001/1055/`](hg/2001/1055/) | amended, not consolidated | 1 | 2002-11-05 | 2002-11-05 |
+| Hotărârea Guvernului nr. 1056/2001 privind stabilirea cerinţelor referitoare la eficienta şi etichetarea energetica pentru introducerea pe piaţa a lămpilor electrice de uz casnic | [`hg/2001/1056/`](hg/2001/1056/) | in force | 1 | 2002-08-15 | 2002-08-15 |
+| Hotărârea Guvernului nr. 1058/2001 pentru aprobarea Protocolului de colaborare în domeniul învăţământului dintre Ministerul Educaţiei şi Cercetării din România şi Ministerul Învăţământului şi Ştiinţei din Ucraina pe anul de învăţământ 2001/2002, semnat la Bucureşti la 31 iulie 2001 | [`hg/2001/1058/`](hg/2001/1058/) | amending act | 1 | 2001-11-09 | 2001-11-09 |
 | Hotărârea Guvernului nr. 1059/2001 privind numirea persoanelor care exercită controlul financiar preventiv propriu la Agenţia SAPARD | [`hg/2001/1059/`](hg/2001/1059/) | in force | 1 | 2001-10-31 | 2001-10-31 |
 | Hotărârea Guvernului nr. 1060/2001 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului pe anul 2001 pentru modernizarea Patinoarului artificial "Vakar Lajos" din municipiul Miercurea-Ciuc, judeţul Harghita | [`hg/2001/1060/`](hg/2001/1060/) | in force | 1 | 2001-10-31 | 2001-10-31 |
 | Hotărârea Guvernului nr. 1061/2001 pentru modificarea art. 4 din Hotărârea Guvernului nr. 691/2001 privind înfiinţarea Muzeului Naţional de Arta Contemporana al României | [`hg/2001/1061/`](hg/2001/1061/) | amending act | 1 | 2001-10-31 | 2001-10-31 |
