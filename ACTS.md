@@ -1,6 +1,6 @@
 # Every act in this repository
 
-25260 acts, 38,894 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+25273 acts, 38,907 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6085,7 +6085,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (19184, of which 9717 amending acts)
+## Government decisions (HG) (19197, of which 9721 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6664,6 +6664,19 @@
 | Hotărârea Guvernului nr. 984/2005 | [`hg/2005/984/`](hg/2005/984/) | in force | 6 | 2005-09-18 | 2019-07-28 |
 | Hotărârea Guvernului nr. 991/2005 pentru aprobarea Codului de etică și deontologie al polițistului | [`hg/2005/991/`](hg/2005/991/) | amending act | 1 | 2005-09-07 | 2005-09-07 |
 | Hotărârea Guvernului nr. 1020/2005 | [`hg/2005/1020/`](hg/2005/1020/) | in force | 3 | 2006-03-21 | 2010-06-16 |
+| Hotărârea Guvernului nr. 1024/2005 privind acordarea unui ajutor umanitar de urgenţă pentru judeţul Harghita | [`hg/2005/1024/`](hg/2005/1024/) | in force | 1 | 2005-09-12 | 2005-09-12 |
+| Hotărârea Guvernului nr. 1025/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Teleorman | [`hg/2005/1025/`](hg/2005/1025/) | in force | 1 | 2005-09-12 | 2005-09-12 |
+| Hotărârea Guvernului nr. 1026/2005 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru înlăturarea efectelor calamităţilor naturale produse în judeţul Harghita | [`hg/2005/1026/`](hg/2005/1026/) | in force | 1 | 2005-09-12 | 2005-09-12 |
+| Hotărârea Guvernului nr. 1028/2005 privind suplimentarea bugetului Ministerului Transporturilor, Construcţiilor şi Turismului din Fondul de intervenţie la dispoziţia Guvernului, pentru înlăturarea efectelor calamităţilor naturale produse de inundaţii şi pentru repararea drumurilor aflate în pericol de pierdere a stabilităţii | [`hg/2005/1028/`](hg/2005/1028/) | in force | 1 | 2005-09-12 | 2005-09-12 |
+| Hotărârea Guvernului nr. 1029/2005 pentru modificarea Hotărârii Guvernului nr. 60/2005 privind organizarea şi funcţionarea Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat" | [`hg/2005/1029/`](hg/2005/1029/) | amending act | 1 | 2005-09-16 | 2005-09-16 |
+| Hotărârea Guvernului nr. 1030/2005 privind modificarea art. 1 din Hotărârea Guvernului nr. 326/2001 pentru stabilirea componenţei Comisiei de privatizare a Băncii Comerciale Române - S.A | [`hg/2005/1030/`](hg/2005/1030/) | amending act | 1 | 2005-09-13 | 2005-09-13 |
+| Hotărârea Guvernului nr. 1031/2005 privind organizarea la Bucureşti, în perioada 20-23 octombrie 2005, a celei de-a IV-a ediţii a Expoziţiei Internaţionale de Tehnică Militară EXPOMIL 2005 şi a Seminarului Internaţional ICOMIL 2005 | [`hg/2005/1031/`](hg/2005/1031/) | in force | 1 | 2005-09-14 | 2005-09-14 |
+| Hotărârea Guvernului nr. 1032/2005 pentru abrogarea Hotărârii Guvernului nr. 1.145/2003 privind trecerea imobilului U.M. 01300, proprietate publică a statului, din administrarea Ministerului Apărării Naţionale în administrarea Ministerului Administraţiei şi Internelor, precum şi pentru transmiterea unei părţi dintr-un imobil, proprietate publică a statului, din administrarea Ministerului Apărării Naţionale în administrarea Ministerului Administraţiei şi Internelor | [`hg/2005/1032/`](hg/2005/1032/) | amending act | 1 | 2005-09-15 | 2005-09-15 |
+| Hotărârea Guvernului nr. 1033/2005 privind transmiterea, cu titlu gratuit, a pachetului de părţi sociale, reprezentând 100% din capitalul social al Societăţii Comerciale GEMINSERV - S.R.L. Râmnicu Vâlcea - al cărei asociat unic este statul, prin Autoritatea pentru Valorificarea Activelor Statului - municipiului Râmnicu Vâlcea, judeţul Vâlcea | [`hg/2005/1033/`](hg/2005/1033/) | in force | 1 | 2005-09-14 | 2005-09-14 |
+| Hotărârea Guvernului nr. 1035/2005 privind trecerea din domeniul public al statului în domeniul privat al statului a unor construcţii aflate în administrarea Ministerului Agriculturii, Pădurilor şi Dezvoltării Rurale | [`hg/2005/1035/`](hg/2005/1035/) | in force | 1 | 2005-09-19 | 2005-09-19 |
+| Hotărârea Guvernului nr. 1036/2005 privind transmiterea cu titlu gratuit a unor active cu caracter social din patrimoniul Societăţii Comerciale "Exploatarea Minieră de Carieră" Berbeşti din cadrul Societăţii Naţionale a Lignitului Oltenia - S.A. Târgu Jiu în domeniul public al oraşului Berbeşti şi, respectiv, al comunei Copăceni, judeţul Vâlcea, şi în administrarea consiliilor locale ale unităţilor administrativ-teritoriale respective | [`hg/2005/1036/`](hg/2005/1036/) | in force | 1 | 2005-09-19 | 2005-09-19 |
+| Hotărârea Guvernului nr. 1037/2005 privind modificarea şi completarea Hotărârii Guvernului nr. 1.238/2004 pentru stabilirea speciilor şi a ajutorului financiar pentru producţia internă de seminţe certificată oficial, destinată pentru însămânţare în campaniile agricole din toamna anului 2004, primăvara şi toamna anului 2005 şi primăvara anului 2006 şi pentru aprobarea normelor metodologice | [`hg/2005/1037/`](hg/2005/1037/) | amending act | 1 | 2005-09-14 | 2005-09-14 |
+| Hotărârea Guvernului nr. 1038/2005 privind garantarea unor credite interne necesare desfăşurării Măsurii 2.1 "Dezvoltarea şi îmbunătăţirea infrastructurii rurale" a Programului SAPARD | [`hg/2005/1038/`](hg/2005/1038/) | in force | 1 | 2005-09-15 | 2005-09-15 |
 | Hotărârea Guvernului nr. 1039/2005 pentru modificarea Hotărârii Guvernului nr. 1.589/2002 privind aprobarea înfiinţării pe lângă Ministerul Educaţiei şi Cercetării şi unităţile din subordinea sa a unor activităţi finanţate integral din venituri proprii | [`hg/2005/1039/`](hg/2005/1039/) | amending act | 1 | 2005-09-14 | 2005-09-14 |
 | Hotărârea Guvernului nr. 1040/2005 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al municipiului Bacău, judeţul Bacău, şi în administrarea Consiliului Local al Municipiului Bacău | [`hg/2005/1040/`](hg/2005/1040/) | in force | 1 | 2005-09-15 | 2005-09-15 |
 | Hotărârea Guvernului nr. 1041/2005 privind schimbarea regimului juridic al unor imobile situate în judeţul Constanţa | [`hg/2005/1041/`](hg/2005/1041/) | in force | 1 | 2005-09-15 | 2005-09-15 |
