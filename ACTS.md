@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38252 acts, 52,003 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38255 acts, 52,006 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -11885,7 +11885,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26333, of which 12317 amending acts)
+## Government decisions (HG) (26336, of which 12319 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13033,6 +13033,9 @@
 | Hotărârea Guvernului nr. 1259/2001 | [`hg/2001/1259/`](hg/2001/1259/) | in force | 2 | 2001-12-28 | 2004-12-30 |
 | Hotărârea Guvernului nr. 1272/2001 pentru majorarea gradului de deschidere a pieţei energiei electrice | [`hg/2001/1272/`](hg/2001/1272/) | amended, not consolidated | 1 | 2001-12-21 | 2001-12-21 |
 | Hotărârea Guvernului nr. 1305/2001 privind exceptarea şi reducerea temporară de la plata taxelor vamale la unele produse din import | [`hg/2001/1305/`](hg/2001/1305/) | amended, not consolidated | 1 | 2002-01-04 | 2002-01-04 |
+| Hotărârea Guvernului nr. 1308/2001 pentru modificarea Hotărârii Guvernului nr. 920/2001 privind aprobarea bugetelor de venituri şi cheltuieli pe anul 2001 pentru companiile şi societăţile naţionale, societăţile comerciale şi institutele naţionale de cercetare-dezvoltare aflate sub autoritatea sau în coordonarea Ministerului Industriei şi Resurselor, precum şi a transferurilor pentru societăţile comerciale din sectorul minier şi pentru Societatea Comercială "Romplumb" - S.A. Baia Mare | [`hg/2001/1308/`](hg/2001/1308/) | amending act | 1 | 2002-01-10 | 2002-01-10 |
+| Hotărârea Guvernului nr. 1309/2001 privind completarea art. 4 din Hotărârea Guvernului nr. 445/2000 pentru organizarea şi funcţionarea unei unităţi de management de proiect pentru participarea României la Expoziţia Mondială EXPO-2000 "Om-Natura-Tehnologie", Hanovra 2000, în cadrul Agenţiei Naţionale pentru Dezvoltare Regionala | [`hg/2001/1309/`](hg/2001/1309/) | amending act | 1 | 2002-01-10 | 2002-01-10 |
+| Hotărârea Guvernului nr. 1310/2001 privind trecerea unui imobil, situat în municipiul Târgovişte, judeţul Dâmboviţa, în domeniul public al municipiului Târgovişte | [`hg/2001/1310/`](hg/2001/1310/) | in force | 1 | 2002-01-10 | 2002-01-10 |
 | Hotărârea Guvernului nr. 1311/2001 privind transmiterea unui imobil, proprietate publică a statului, din administrarea Ministerului Apărării Naţionale în administrarea Ministerului de Interne | [`hg/2001/1311/`](hg/2001/1311/) | in force | 1 | 2002-01-10 | 2002-01-10 |
 | Hotărârea Guvernului nr. 1312/2001 privind transmiterea unui teren, proprietate publică a statului, din administrarea Ministerului Educaţiei şi Cercetării în administrarea Serviciului Român de Informaţii | [`hg/2001/1312/`](hg/2001/1312/) | in force | 1 | 2002-01-10 | 2002-01-10 |
 | Hotărârea Guvernului nr. 1313/2001 privind transmiterea unui imobil, proprietate publică a statului, din administrarea Direcţiei Fitosanitare a Judeţului Hunedoara în administrarea Direcţiei Generale pentru Agricultura şi Industrie Alimentara a Judeţului Hunedoara | [`hg/2001/1313/`](hg/2001/1313/) | in force | 1 | 2002-01-10 | 2002-01-10 |
