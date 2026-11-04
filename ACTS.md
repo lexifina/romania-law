@@ -1,6 +1,6 @@
 # Every act in this repository
 
-20872 acts, 34,505 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+20897 acts, 34,530 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3314, of which 1831 amending acts)
+## Laws (legi) (3317, of which 1833 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1011,8 +1011,11 @@
 | Legea nr. 187/2011 | [`lege/2011/187/`](lege/2011/187/) | in force | 2 | 2011-11-03 | 2022-12-14 |
 | Legea nr. 191/2011 | [`lege/2011/191/`](lege/2011/191/) | in force | 3 | 2011-11-06 | 2024-08-24 |
 | Legea nr. 194/2011 privind combaterea operațiunilor cu produse susceptibile de a avea efecte psihoactive, altele decât cele prevăzute de acte normative în vigoare | [`lege/2011/194/`](lege/2011/194/) | in force | 7 | 2011-11-13 | 2024-06-03 |
+| Legea nr. 207/2011 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 37/2010 pentru modificarea şi completarea Ordonanţei Guvernului nr. 10/2004 privind falimentul instituţiilor de credit | [`lege/2011/207/`](lege/2011/207/) | amending act | 1 | 2011-11-21 | 2011-11-21 |
+| Legea nr. 210/2011 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 41/2011 pentru modificarea Legii nr. 678/2001 privind prevenirea şi combaterea traficului de persoane | [`lege/2011/210/`](lege/2011/210/) | amending act | 1 | 2011-11-24 | 2011-11-24 |
 | Legea nr. 211/2011 | [`lege/2011/211/`](lege/2011/211/) | in force | 11 | 2011-11-28 | 2021-08-26 |
 | Legea nr. 214/2011 | [`lege/2011/214/`](lege/2011/214/) | in force | 3 | 2011-11-24 | 2014-02-01 |
+| Legea nr. 215/2011 pentru ratificarea Protocolului dintre Guvernul României şi Guvernul Republicii Populare Democrate Coreene privind acordurile bilaterale încheiate în perioada 1956-1989, semnat la Phenian la 20 ianuarie 2011 | [`lege/2011/215/`](lege/2011/215/) | in force | 1 | 2011-11-24 | 2011-11-24 |
 | Legea nr. 218/2011 | [`lege/2011/218/`](lege/2011/218/) | in force | 1 | 2011-12-09 | 2011-12-09 |
 | Legea nr. 221/2011 pentru modificarea alin. (2) al art. 29 din Legea nr. 350/2001 privind amenajarea teritoriului şi urbanismul | [`lege/2011/221/`](lege/2011/221/) | amending act | 1 | 2011-12-05 | 2011-12-05 |
 | Legea nr. 222/2011 privind respingerea Ordonanţei Guvernului nr. 5/2010 pentru modificarea art. III alin. (1) din Ordonanţa Guvernului nr. 3/2007 privind unele măsuri financiar-fiscale din domeniul protecţiei sociale | [`lege/2011/222/`](lege/2011/222/) | amending act | 1 | 2011-12-05 | 2011-12-05 |
@@ -3352,7 +3355,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1702, of which 600 amending acts)
+## Emergency ordinances (OUG) (1703, of which 600 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4008,6 +4011,7 @@
 | Ordonanța de urgență a Guvernului nr. 93/2011 | [`oug/2011/93/`](oug/2011/93/) | in force | 2 | 2011-11-11 | 2012-11-17 |
 | Ordonanța de urgență a Guvernului nr. 94/2011 | [`oug/2011/94/`](oug/2011/94/) | in force | 4 | 2011-11-11 | 2012-08-27 |
 | Ordonanța de urgență a Guvernului nr. 98/2011 | [`oug/2011/98/`](oug/2011/98/) | in force | 2 | 2011-11-22 | 2016-01-01 |
+| Ordonanța de urgență a Guvernului nr. 99/2011 pentru asigurarea de la bugetul de stat, prin bugetul Ministerului Sănătăţii, a sumelor necesare acoperirii plăţii TVA aferente bunurilor şi serviciilor achiziţionate în cadrul programelor privind combaterea HIV/SIDA şi tuberculozei în România, implementate de Fundaţia Romanian Angel Appeal | [`oug/2011/99/`](oug/2011/99/) | in force | 1 | 2011-11-23 | 2011-11-23 |
 | Ordonanța de urgență a Guvernului nr. 101/2011 privind reglementarea condițiilor pentru vânzarea imobilelor, proprietate privată a statului, aflate în administrarea Regiei Autonome "Administrația Patrimoniului Protocolului de Stat", a imobilelor proprietatea Regiei Autonome ”Administrația Patrimoniului Protocolului de Stat”, precum și pentru modificarea unor acte normative | [`oug/2011/101/`](oug/2011/101/) | amending act | 18 | 2011-11-30 | 2022-06-30 |
 | Ordonanța de urgență a Guvernului nr. 102/2011 | [`oug/2011/102/`](oug/2011/102/) | in force | 1 | 2011-12-02 | 2011-12-02 |
 | Ordonanța de urgență a Guvernului nr. 103/2011 | [`oug/2011/103/`](oug/2011/103/) | in force | 2 | 2011-12-02 | 2012-07-22 |
@@ -5591,7 +5595,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (15290, of which 7804 amending acts)
+## Government decisions (HG) (15311, of which 7817 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8821,9 +8825,30 @@
 | Hotărârea Guvernului nr. 1088/2011 privind organizarea și funcționarea Inspectoratului de Stat pentru Controlul în Transportul Rutier | [`hg/2011/1088/`](hg/2011/1088/) | in force | 2 | 2011-11-03 | 2022-08-13 |
 | Hotărârea Guvernului nr. 1094/2011 | [`hg/2011/1094/`](hg/2011/1094/) | in force | 1 | 2011-12-16 | 2011-12-16 |
 | Hotărârea Guvernului nr. 1105/2011 | [`hg/2011/1105/`](hg/2011/1105/) | in force | 1 | 2011-11-10 | 2011-11-10 |
+| Hotărârea Guvernului nr. 1121/2011 pentru aprobarea indicatorilor tehnico-economici aferenţi lucrărilor de intervenţii "Refacere sistem rutier cu asigurarea lăţimii corespunzătoare, consolidare maluri, refacere podeţe DN 2A km 124+000 - km 141+500" | [`hg/2011/1121/`](hg/2011/1121/) | amending act | 1 | 2011-11-24 | 2011-11-24 |
+| Hotărârea Guvernului nr. 1122/2011 privind aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2011 al Companiei Naţionale de Căi Ferate "C.F.R." - S.A., aflată sub autoritatea Ministerului Transporturilor şi Infrastructurii | [`hg/2011/1122/`](hg/2011/1122/) | amending act | 1 | 2011-11-24 | 2011-11-24 |
+| Hotărârea Guvernului nr. 1123/2011 privind reglementarea regimului juridic al unor imobile situate în municipiul Tulcea, judeţul Tulcea, şi pentru actualizarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2011/1123/`](hg/2011/1123/) | amending act | 1 | 2011-11-24 | 2011-11-24 |
+| Hotărârea Guvernului nr. 1124/2011 privind aprobarea stemei oraşului Curtici, judeţul Arad | [`hg/2011/1124/`](hg/2011/1124/) | amending act | 1 | 2011-11-24 | 2011-11-24 |
+| Hotărârea Guvernului nr. 1125/2011 privind actualizarea inventarului centralizat al bunurilor din domeniul public al statului ca urmare a modificării valorii de inventar şi schimbării unităţii de administrare a unei părţi dintr-un imobil aflat în domeniul public al statului şi în administrarea Ministerului Administraţiei şi Internelor | [`hg/2011/1125/`](hg/2011/1125/) | in force | 1 | 2011-11-21 | 2011-11-21 |
+| Hotărârea Guvernului nr. 1126/2011 privind trecerea din domeniul public al statului în domeniul privat al acestuia a unor construcţii aflate în administrarea Ministerului Administraţiei şi Internelor, în vederea scoaterii din funcţiune şi casării şi pentru actualizarea anexei nr. 1 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2011/1126/`](hg/2011/1126/) | amending act | 1 | 2011-11-18 | 2011-11-18 |
+| Hotărârea Guvernului nr. 1127/2011 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.353/2001 privind atestarea domeniului public al judeţului Ialomiţa, precum şi al municipiilor, oraşelor şi comunelor din judeţul Ialomiţa | [`hg/2011/1127/`](hg/2011/1127/) | amending act | 1 | 2011-11-28 | 2011-11-28 |
 | Hotărârea Guvernului nr. 1128/2011 pentru modificarea anexei la Hotărârea Guvernului nr. 867/2007 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiţii "Lărgire la 4 benzi de circulaţie a DN 73 între km 7+000 - km 11+100 şi drum de legătură cu DN 73D", precum şi pentru declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică "Lărgire la 4 benzi de circulaţie a DN 73 între km 7+000 - km 11+100 şi drum de legătură cu DN 73D" | [`hg/2011/1128/`](hg/2011/1128/) | amending act | 1 | 2011-11-24 | 2011-11-24 |
+| Hotărârea Guvernului nr. 1129/2011 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică "Pod pe DN 61 km 74+015 peste râul Argeş la Ioneşti" | [`hg/2011/1129/`](hg/2011/1129/) | in force | 1 | 2011-11-23 | 2011-11-23 |
+| Hotărârea Guvernului nr. 1130/2011 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică "Reabilitare DN 1H Zalău - Aleşd (km 0+000 - km 69+334)" | [`hg/2011/1130/`](hg/2011/1130/) | in force | 1 | 2011-11-18 | 2011-11-18 |
 | Hotărârea Guvernului nr. 1132/2011 privind modificarea anexei nr. 11 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului și transmiterea unor imobile proprietate publică a statului din administrarea Ministerului Justiției - Administrația Națională a Penitenciarelor - Penitenciarul Slobozia în administrarea Ministerului Dezvoltării Regionale și Turismului | [`hg/2011/1132/`](hg/2011/1132/) | amending act | 1 | 2011-11-18 | 2011-11-18 |
+| Hotărârea Guvernului nr. 1133/2011 privind modificarea anexelor la Hotărârea Guvernului nr. 16/2011 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţie "Modernizarea infrastructurii privind siguranţa circulaţiei pe DN 1, în sate lineare şi puncte negre" | [`hg/2011/1133/`](hg/2011/1133/) | amending act | 1 | 2011-11-23 | 2011-11-23 |
 | Hotărârea Guvernului nr. 1135/2011 | [`hg/2011/1135/`](hg/2011/1135/) | in force | 2 | 2012-01-01 | 2012-08-13 |
+| Hotărârea Guvernului nr. 1136/2011 privind aplicarea prevederilor Regulamentului (CE) nr. 1.005/2008 al Consiliului din 29 septembrie 2008 de instituire a unui sistem comunitar pentru prevenirea, descurajarea şi eliminarea pescuitului ilegal, nedeclarat şi nereglementat, de modificare a Regulamentelor (CEE) nr. 2.847/93, (CE) nr. 1.936/2001 şi (CE) nr. 601/2004 şi de abrogare a Regulamentelor (CE) nr. 1.093/94 şi (CE) nr. 1.447/1999 | [`hg/2011/1136/`](hg/2011/1136/) | amending act | 1 | 2011-12-02 | 2011-12-02 |
+| Hotărârea Guvernului nr. 1137/2011 pentru aprobarea amendamentului 2 convenit prin scrisoarea semnată la Washington la 19 august 2011 şi la Bucureşti la 9 septembrie 2011 între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, la Acordul de împrumut în valoare de 60,0 milioane dolari SUA dintre România, reprezentată de Ministerul Finanţelor Publice, şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare pentru finanţarea proiectului "Economia bazată pe cunoaştere", semnat la Bucureşti la 8 decembrie 2005 | [`hg/2011/1137/`](hg/2011/1137/) | amending act | 1 | 2011-11-23 | 2011-11-23 |
+| Hotărârea Guvernului nr. 1138/2011 privind trecerea corpului central din obiectivul de investiţii "Casa Academiei" din administrarea Ministerului Finanţelor Publice - Agenţia Naţională de Administrare Fiscală în administrarea Academiei Române | [`hg/2011/1138/`](hg/2011/1138/) | in force | 1 | 2011-11-23 | 2011-11-23 |
+| Hotărârea Guvernului nr. 1139/2011 privind aprobarea bugetului Trezoreriei Statului pe anul 2012 | [`hg/2011/1139/`](hg/2011/1139/) | amending act | 1 | 2011-11-23 | 2011-11-23 |
+| Hotărârea Guvernului nr. 1140/2011 privind desfiinţarea Spitalului de Boli Infecţioase Singureni aflat în reţeaua sanitară a Consiliului Judeţean Giurgiu | [`hg/2011/1140/`](hg/2011/1140/) | in force | 1 | 2011-11-30 | 2011-11-30 |
+| Hotărârea Guvernului nr. 1141/2011 privind reglementarea unor măsuri financiare temporare pentru stimularea gradului de absorbţie a fondurilor alocate pentru agricultură aferente schemelor de plăţi directe şi pentru măsuri de piaţă în agricultură | [`hg/2011/1141/`](hg/2011/1141/) | in force | 1 | 2011-11-21 | 2011-11-21 |
+| Hotărârea Guvernului nr. 1142/2011 pentru aprobarea indicatorilor tehnico-economici aferenţi lucrărilor de intervenţii "Consolidare şi refacere sistem rutier DN 2A km 190+750 - km 192+750" | [`hg/2011/1142/`](hg/2011/1142/) | amending act | 1 | 2011-11-25 | 2011-11-25 |
+| Hotărârea Guvernului nr. 1143/2011 privind achitarea în anul 2011 a sumelor alocate ca justă despăgubire şi neachitate pe anii 2007-2010 pentru lucrarea "Secţiunea 2B pe teritoriul localităţilor Câmpia Turzii, Gilău, Floreşti, Săvădisla, Petreştii de Jos, Luna şi Sănduleşti din judeţul Cluj şi Secţiunea 3C pe teritoriul localităţilor Abram, Suplacu de Barcău, Balc, Chişlaz, Tăuteu, Sârbi şi Biharia din judeţul Bihor" din cadrul obiectivului de investiţie "Autostrada Braşov-Cluj-Borş" şi pentru lucrarea de utilitate publică "Secţiunea 3C pe teritoriul localităţilor Ip şi Marca din judeţul Sălaj şi al localităţilor Spinuş, Ciuhoiu, Sălard şi Tămăşeu din judeţul Bihor" din cadrul obiectivului de investiţii "Autostrada Braşov-Cluj-Borş" | [`hg/2011/1143/`](hg/2011/1143/) | in force | 1 | 2011-11-28 | 2011-11-28 |
+| Hotărârea Guvernului nr. 1144/2011 privind înscrierea în inventarul centralizat al bunurilor din domeniul public al statului şi darea în administrarea Ministerului Agriculturii şi Dezvoltării Rurale - Agenţia de Plăţi şi Intervenţie pentru Agricultură - Centrul Judeţean Dâmboviţa a unor imobile care au trecut în proprietatea publică a statului prin hotărâri ale consiliilor locale | [`hg/2011/1144/`](hg/2011/1144/) | in force | 1 | 2011-11-25 | 2011-11-25 |
+| Hotărârea Guvernului nr. 1147/2011 privind modificarea anexei nr. 41 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului | [`hg/2011/1147/`](hg/2011/1147/) | amending act | 1 | 2011-11-30 | 2011-11-30 |
+| Hotărârea Guvernului nr. 1148/2011 privind modificarea valorii de inventar a unor imobile aflate în domeniul public al statului şi în administrarea Ministerului Administraţiei şi Internelor | [`hg/2011/1148/`](hg/2011/1148/) | amending act | 1 | 2011-11-29 | 2011-11-29 |
 | Hotărârea Guvernului nr. 1152/2011 privind actualizarea valorii de inventar şi darea în administrarea Ministerului Transporturilor şi Infrastructurii a unor imobile - construcţii şi terenuri, aflate în domeniul public al statului, din administrarea Ministerului Administraţiei şi Internelor - Inspectoratul General pentru Situaţii de Urgenţă, prin Inspectoratul pentru Situaţii de Urgenţă "Dealu Spirii" al Municipiului Bucureşti, în vederea realizării de către Compania Naţională de Autostrăzi şi Drumuri Naţionale din România - S.A. a obiectivului de interes naţional "Autostrada Bucureşti-Braşov, tronson Bucureşti-Ploieşti" | [`hg/2011/1152/`](hg/2011/1152/) | in force | 1 | 2011-11-24 | 2011-11-24 |
 | Hotărârea Guvernului nr. 1154/2011 | [`hg/2011/1154/`](hg/2011/1154/) | in force | 1 | 2011-11-30 | 2011-11-30 |
 | Hotărârea Guvernului nr. 1158/2011 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2011 | [`hg/2011/1158/`](hg/2011/1158/) | in force | 1 | 2011-11-29 | 2011-11-29 |
