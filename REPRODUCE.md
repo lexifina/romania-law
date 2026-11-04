@@ -39125,7 +39125,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | --- | --- | ---: | --- |
 | 38730 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 52475 | |
 
-The build made 57373 commits:
+The build made 57402 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -39149,7 +39149,7 @@ When a law gives no date of its own, the default rule applies: Constitu»õia Rom√
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `0224889f6406bb22ad24d1334abd6a2eb0c4e82bc47f95922e3c24c192094617` (675031083 bytes).
+- Corpus: sha256 `cbe503aa46cf7c103f471fe497d544aa1bba278e94e0797320b05228da35fcf1` (675053201 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `b7d1f51711814505bec7b7515f6a7cd02cf9fa02`, `check.py` `d36188b60926167ff377bd58f0b03f30cc9a1a52`, `on.py` `55bf92027127e36254521d114abde53cfefbb67d`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
