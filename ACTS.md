@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38308 acts, 52,060 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38321 acts, 52,073 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8002, of which 2847 amending acts)
+## Laws (legi) (8003, of which 2848 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1116,6 +1116,7 @@
 | Legea nr. 720/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 163/2000 pentru diminuarea arieratelor la bugetul de stat | [`lege/2001/720/`](lege/2001/720/) | amended, not consolidated | 1 | 2001-12-13 | 2001-12-13 |
 | Legea nr. 730/2001 privind aprobarea Ordonanţei Guvernului nr. 61/2000 pentru modificarea şi completarea Ordonanţei Guvernului nr. 39/1999 privind finalizarea procesului de restructurare a Băncii Române de Comerţ Exterior - Bancorex - S.A. şi fuziunea prin absorbire a acestei bănci cu Banca Comercială Română - S.A | [`lege/2001/730/`](lege/2001/730/) | amended, not consolidated | 1 | 2001-12-18 | 2001-12-18 |
 | Legea nr. 732/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 100/2001 privind acumularea cantităţii de 3 milioane tone de cărbune energetic de către Administraţia Naţionala a Rezervelor de Stat în anul 2001 | [`lege/2001/732/`](lege/2001/732/) | amended, not consolidated | 1 | 2001-12-18 | 2001-12-18 |
+| Legea nr. 740/2001 pentru aprobarea Ordonanţei Guvernului nr. 3/2001 privind aprobarea şi implementarea Programului special de dezvoltare turistica a zonei Sighişoara | [`lege/2001/740/`](lege/2001/740/) | amending act | 1 | 2001-12-17 | 2001-12-17 |
 | Legea nr. 742/2001 privind aprobarea Ordonanţei Guvernului nr. 34/2001 pentru modificarea şi completarea Legii nr. 146/1997 privind taxele judiciare de timbru | [`lege/2001/742/`](lege/2001/742/) | amended, not consolidated | 1 | 2001-12-17 | 2001-12-17 |
 | Legea nr. 744/2001 | [`lege/2001/744/`](lege/2001/744/) | in force | 1 | 2001-12-11 | 2001-12-11 |
 | Legea nr. 745/2001 pentru ratificarea Memorandumului de înţelegere dintre Guvernul României şi Guvernul Republicii Turcia privind crearea unei linii directe de ferry-boat între Samsun şi Constanţa, semnat la Ankara la 15 iulie 1996 | [`lege/2001/745/`](lege/2001/745/) | in force | 1 | 2001-12-27 | 2001-12-27 |
@@ -11897,7 +11898,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26377, of which 12339 amending acts)
+## Government decisions (HG) (26389, of which 12341 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13038,7 +13039,19 @@
 | Hotărârea Guvernului nr. 1211/2001 | [`hg/2001/1211/`](hg/2001/1211/) | in force | 8 | 2001-12-11 | 2017-06-12 |
 | Hotărârea Guvernului nr. 1217/2001 | [`hg/2001/1217/`](hg/2001/1217/) | in force | 1 | 2001-12-17 | 2001-12-17 |
 | Hotărârea Guvernului nr. 1219/2001 | [`hg/2001/1219/`](hg/2001/1219/) | in force | 1 | 2001-12-11 | 2001-12-11 |
+| Hotărârea Guvernului nr. 1220/2001 privind eliberarea din funcţia de prefect al Judeţului Vrancea | [`hg/2001/1220/`](hg/2001/1220/) | in force | 1 | 2001-12-07 | 2001-12-07 |
+| Hotărârea Guvernului nr. 1221/2001 privind numirea în funcţia de prefect al judeţului Vrancea | [`hg/2001/1221/`](hg/2001/1221/) | in force | 1 | 2001-12-07 | 2001-12-07 |
 | Hotărârea Guvernului nr. 1222/2001 pentru aprobarea compensării timpului de muncă aferent zilelor de 24 şi 31 decembrie 2001, stabilite ca zile libere | [`hg/2001/1222/`](hg/2001/1222/) | amended, not consolidated | 1 | 2001-12-07 | 2001-12-07 |
+| Hotărârea Guvernului nr. 1225/2001 pentru modificarea Hotărârii Guvernului nr. 707/2001 privind autorizarea Ministerului Finanţelor Publice de a garanta un credit extern pentru Regia Autonomă "Administraţia Naţionala a Drumurilor din România" | [`hg/2001/1225/`](hg/2001/1225/) | amending act | 1 | 2001-12-12 | 2001-12-12 |
+| Hotărârea Guvernului nr. 1226/2001 pentru aprobarea Acordului dintre Guvernul României şi Organizaţia Internaţionala pentru Migrari privind înfiinţarea unui centru de primire şi adăpostire temporară, asistenţa medicală şi consiliere de specialitate pentru femei repatriate, victime ale traficului de persoane, semnat la Bucureşti la 30 aprilie 2001 | [`hg/2001/1226/`](hg/2001/1226/) | amending act | 1 | 2001-12-19 | 2001-12-19 |
+| Hotărârea Guvernului nr. 1227/2001 pentru alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului pe anul 2001, pentru judeţul Iaşi | [`hg/2001/1227/`](hg/2001/1227/) | in force | 1 | 2001-12-18 | 2001-12-18 |
+| Hotărârea Guvernului nr. 1228/2001 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului pe anul 2001, pentru continuarea lucrărilor de investiţii la o parte din imobilul Bloc F3, situat în municipiul Bucureşti | [`hg/2001/1228/`](hg/2001/1228/) | in force | 1 | 2001-12-18 | 2001-12-18 |
+| Hotărârea Guvernului nr. 1229/2001 privind stabilirea Centrului-pilot de consultanţa şi informare a consumatorilor, pentru care se acordă sume de la bugetul de stat în anul 2001 | [`hg/2001/1229/`](hg/2001/1229/) | in force | 1 | 2001-12-18 | 2001-12-18 |
+| Hotărârea Guvernului nr. 1230/2001 privind alocarea unor sume din Fondul de rezerva bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2001, pentru finanţarea cheltuielilor de personal la instituţiile de învăţământ preuniversitar de stat din judeţul Botoşani | [`hg/2001/1230/`](hg/2001/1230/) | in force | 1 | 2001-12-18 | 2001-12-18 |
+| Hotărârea Guvernului nr. 1231/2001 privind suplimentarea bugetului Ministerului Culturii şi Cultelor din Fondul de rezerva bugetară la dispoziţia Guvernului pentru continuarea construcţiei Bisericii Eroilor-Martiri din Decembrie 1989, cu hramul "Naşterea Domnului" | [`hg/2001/1231/`](hg/2001/1231/) | in force | 1 | 2001-12-18 | 2001-12-18 |
+| Hotărârea Guvernului nr. 1232/2001 privind numirea unui consul general | [`hg/2001/1232/`](hg/2001/1232/) | in force | 1 | 2001-12-18 | 2001-12-18 |
+| Hotărârea Guvernului nr. 1233/2001 privind trecerea unor imobile, proprietate publică a statului, de la Compania Naţională "Apele Române" - S.A. în administrarea Inspectoratului de Protecţie a Mediului al Judeţului Ilfov şi a Inspectoratului de Protecţie a Mediului al Municipiului Bucureşti, unităţi sub autoritatea, respectiv în subordinea Ministerului Apelor şi Protecţiei Mediului | [`hg/2001/1233/`](hg/2001/1233/) | in force | 1 | 2001-12-18 | 2001-12-18 |
+| Hotărârea Guvernului nr. 1234/2001 privind trecerea unor bunuri din administrarea Ministerului Lucrărilor Publice, Transporturilor şi Locuinţei în administrarea Regiei Autonome "Administraţia Naţionala a Drumurilor din România" şi apoi în administrarea Ministerului Finanţelor Publice - Direcţia Generală a Vămilor | [`hg/2001/1234/`](hg/2001/1234/) | in force | 1 | 2001-12-18 | 2001-12-18 |
 | Hotărârea Guvernului nr. 1235/2001 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului de Interne în domeniul public al municipiului Bârlad şi în administrarea Consiliului Local al Municipiului Bârlad | [`hg/2001/1235/`](hg/2001/1235/) | in force | 1 | 2001-12-17 | 2001-12-17 |
 | Hotărârea Guvernului nr. 1236/2001 pentru aprobarea amendamentului convenit prin schimb de scrisori la Washington la 12 iulie 2001 şi la Bucureşti la 3 august 2001 între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare pentru finanţarea Proiectului de reforma a învăţământului superior şi cercetării ştiinţifice universitare, în valoare de 50 milioane dolari S.U.A., semnat la Washington la 2 octombrie 1996 | [`hg/2001/1236/`](hg/2001/1236/) | amending act | 1 | 2001-12-17 | 2001-12-17 |
 | Hotărârea Guvernului nr. 1238/2001 pentru modificarea Hotărârii Guvernului nr. 1.069/2001 privind unele măsuri în vederea constituirii unui parc industrial prin divizarea Societăţii Comerciale "Electromecanica Ploieşti" - S.A. din cadrul Companiei Naţionale "Romarm" - S.A | [`hg/2001/1238/`](hg/2001/1238/) | amending act | 1 | 2001-12-17 | 2001-12-17 |

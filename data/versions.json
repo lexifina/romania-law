@@ -152576,6 +152576,21 @@
    ]
   },
   {
+   "slug": "hg-1220-2001",
+   "path": "hg/2001/1220",
+   "short": "HG nr. 1220/2001",
+   "title": "Hotărârea Guvernului nr. 1220/2001 privind eliberarea din funcţia de prefect al Judeţului Vrancea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32560",
+   "versions": [
+    {
+     "from": "2001-12-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32560",
+     "sha256": "1d1a1db3dd00c1a2a5486e24b02ec5226d357b3ab3db55595f16c7807cf5de98"
+    }
+   ]
+  },
+  {
    "slug": "hg-1220-2003",
    "path": "hg/2003/1220",
    "short": "HG nr. 1220/2003",
@@ -152767,6 +152782,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25437",
      "sha256": "7efe67e392a3173302cab578369e99b39beaf973b49be63da83ffbe5654bc243"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1221-2001",
+   "path": "hg/2001/1221",
+   "short": "HG nr. 1221/2001",
+   "title": "Hotărârea Guvernului nr. 1221/2001 privind numirea în funcţia de prefect al judeţului Vrancea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32561",
+   "versions": [
+    {
+     "from": "2001-12-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32561",
+     "sha256": "5d30b05ad60d49f1fe2e8e5abfa2ecb892ce8249b158047f5aa4138520d62357"
     }
    ]
   },
@@ -153401,6 +153431,21 @@
    ]
   },
   {
+   "slug": "hg-1225-2001",
+   "path": "hg/2001/1225",
+   "short": "HG nr. 1225/2001",
+   "title": "Hotărârea Guvernului nr. 1225/2001 pentru modificarea Hotărârii Guvernului nr. 707/2001 privind autorizarea Ministerului Finanţelor Publice de a garanta un credit extern pentru Regia Autonomă \"Administraţia Naţionala a Drumurilor din România\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32719",
+   "versions": [
+    {
+     "from": "2001-12-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32719",
+     "sha256": "be9c4e853446e313041f743cbf1f35ac03b49d48d837f57ff1110ae8f19058c3"
+    }
+   ]
+  },
+  {
    "slug": "hg-1225-2002",
    "path": "hg/2002/1225",
    "short": "HG nr. 1225/2002",
@@ -153566,6 +153611,21 @@
    ]
   },
   {
+   "slug": "hg-1226-2001",
+   "path": "hg/2001/1226",
+   "short": "HG nr. 1226/2001",
+   "title": "Hotărârea Guvernului nr. 1226/2001 pentru aprobarea Acordului dintre Guvernul României şi Organizaţia Internaţionala pentru Migrari privind înfiinţarea unui centru de primire şi adăpostire temporară, asistenţa medicală şi consiliere de specialitate pentru femei repatriate, victime ale traficului de persoane, semnat la Bucureşti la 30 aprilie 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32895",
+   "versions": [
+    {
+     "from": "2001-12-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32895",
+     "sha256": "b48b8e6b55b32e5c2fd8320e852c7c2762a72e014da72b0a4eacbf0bd2c9ec0d"
+    }
+   ]
+  },
+  {
    "slug": "hg-1226-2002",
    "path": "hg/2002/1226",
    "short": "HG nr. 1226/2002",
@@ -153697,6 +153757,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289192",
      "sha256": "55d1ad2f903be0b1768c96bb8325d58e362ffd5b1b0a9278e7433117e7522744"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1227-2001",
+   "path": "hg/2001/1227",
+   "short": "HG nr. 1227/2001",
+   "title": "Hotărârea Guvernului nr. 1227/2001 pentru alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului pe anul 2001, pentru judeţul Iaşi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32837",
+   "versions": [
+    {
+     "from": "2001-12-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32837",
+     "sha256": "a6bea63e1780e8e1b843dd9f62061b6994a23cc10fb34100be4a8a5b316a1510"
     }
    ]
   },
@@ -153896,6 +153971,21 @@
    ]
   },
   {
+   "slug": "hg-1228-2001",
+   "path": "hg/2001/1228",
+   "short": "HG nr. 1228/2001",
+   "title": "Hotărârea Guvernului nr. 1228/2001 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului pe anul 2001, pentru continuarea lucrărilor de investiţii la o parte din imobilul Bloc F3, situat în municipiul Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32838",
+   "versions": [
+    {
+     "from": "2001-12-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32838",
+     "sha256": "36ae7692b98f9ceab0a2d7446f9b689c365e1b88eda6e82307a07b6542859526"
+    }
+   ]
+  },
+  {
    "slug": "hg-1228-2002",
    "path": "hg/2002/1228",
    "short": "HG nr. 1228/2002",
@@ -154087,6 +154177,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25466",
      "sha256": "7fc229ad3ce7ae0e0fa2cedb555bf0a0063fa4887d9e2a38e8a4b39904dd488a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1229-2001",
+   "path": "hg/2001/1229",
+   "short": "HG nr. 1229/2001",
+   "title": "Hotărârea Guvernului nr. 1229/2001 privind stabilirea Centrului-pilot de consultanţa şi informare a consumatorilor, pentru care se acordă sume de la bugetul de stat în anul 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32849",
+   "versions": [
+    {
+     "from": "2001-12-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32849",
+     "sha256": "a4916c4892d06d343507824b20cee1d7f46f6828f9119fe3ac8cd6a056e442d6"
     }
    ]
   },
@@ -154496,6 +154601,21 @@
    ]
   },
   {
+   "slug": "hg-1230-2001",
+   "path": "hg/2001/1230",
+   "short": "HG nr. 1230/2001",
+   "title": "Hotărârea Guvernului nr. 1230/2001 privind alocarea unor sume din Fondul de rezerva bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2001, pentru finanţarea cheltuielilor de personal la instituţiile de învăţământ preuniversitar de stat din judeţul Botoşani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32850",
+   "versions": [
+    {
+     "from": "2001-12-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32850",
+     "sha256": "dadfa940b553b2571a86ed10eeef19f7b563e21748c0b79fa4c8ba30b6a3a71b"
+    }
+   ]
+  },
+  {
    "slug": "hg-1230-2002",
    "path": "hg/2002/1230",
    "short": "HG nr. 1230/2002",
@@ -154648,6 +154768,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277149",
      "sha256": "c5ba0ceafe33ee98bb97023e819c73f6ec297007d6a9b16b0a9ea5a7a8c5deb0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1231-2001",
+   "path": "hg/2001/1231",
+   "short": "HG nr. 1231/2001",
+   "title": "Hotărârea Guvernului nr. 1231/2001 privind suplimentarea bugetului Ministerului Culturii şi Cultelor din Fondul de rezerva bugetară la dispoziţia Guvernului pentru continuarea construcţiei Bisericii Eroilor-Martiri din Decembrie 1989, cu hramul \"Naşterea Domnului\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32851",
+   "versions": [
+    {
+     "from": "2001-12-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32851",
+     "sha256": "0794dea815a564392d4f9dc755fb1607f0800a655950d48061c24859978283e7"
     }
    ]
   },
@@ -154817,6 +154952,21 @@
    ]
   },
   {
+   "slug": "hg-1232-2001",
+   "path": "hg/2001/1232",
+   "short": "HG nr. 1232/2001",
+   "title": "Hotărârea Guvernului nr. 1232/2001 privind numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32852",
+   "versions": [
+    {
+     "from": "2001-12-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32852",
+     "sha256": "aa77e0860cedb2da659355b190096f919e6822d81d16d5e8dba84c73abd3c064"
+    }
+   ]
+  },
+  {
    "slug": "hg-1232-2002",
    "path": "hg/2002/1232",
    "short": "HG nr. 1232/2002",
@@ -154963,6 +155113,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277288",
      "sha256": "538b5c09cd7c6d626b7c4c15b919580409c71e74d6d510bedc027e9cb5601454"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1233-2001",
+   "path": "hg/2001/1233",
+   "short": "HG nr. 1233/2001",
+   "title": "Hotărârea Guvernului nr. 1233/2001 privind trecerea unor imobile, proprietate publică a statului, de la Compania Naţională \"Apele Române\" - S.A. în administrarea Inspectoratului de Protecţie a Mediului al Judeţului Ilfov şi a Inspectoratului de Protecţie a Mediului al Municipiului Bucureşti, unităţi sub autoritatea, respectiv în subordinea Ministerului Apelor şi Protecţiei Mediului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32865",
+   "versions": [
+    {
+     "from": "2001-12-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32865",
+     "sha256": "df0b4d9049fd55d6068b89b60792686b568e309300b8f6940b7b20bbce0f4eeb"
     }
    ]
   },
@@ -155128,6 +155293,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277457",
      "sha256": "8dde8844a3a7263ccbaadc628ec8775d00bc1dde3eedec73d2e641c5b3a86bb2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1234-2001",
+   "path": "hg/2001/1234",
+   "short": "HG nr. 1234/2001",
+   "title": "Hotărârea Guvernului nr. 1234/2001 privind trecerea unor bunuri din administrarea Ministerului Lucrărilor Publice, Transporturilor şi Locuinţei în administrarea Regiei Autonome \"Administraţia Naţionala a Drumurilor din România\" şi apoi în administrarea Ministerului Finanţelor Publice - Direcţia Generală a Vămilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32866",
+   "versions": [
+    {
+     "from": "2001-12-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32866",
+     "sha256": "24c1714fd0bf9dea76327e4050934756bdc2157dbf42c79dc92ff38389f417cb"
     }
    ]
   },
@@ -591232,6 +591412,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/298157",
      "sha256": "27e5eb34ec74dd5eb77d78fa2895da4db426fc3148f00e28a25d8ec8b981cd07"
+    }
+   ]
+  },
+  {
+   "slug": "legea-740-2001",
+   "path": "lege/2001/740",
+   "short": "Legea nr. 740/2001",
+   "title": "Legea nr. 740/2001 pentru aprobarea Ordonanţei Guvernului nr. 3/2001 privind aprobarea şi implementarea Programului special de dezvoltare turistica a zonei Sighişoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32803",
+   "versions": [
+    {
+     "from": "2001-12-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32803",
+     "sha256": "dc5bf3583c815083c23e5e059731333848ded8bbc68cbe9b955942e3b28ca696"
     }
    ]
   },
