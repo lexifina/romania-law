@@ -1,6 +1,6 @@
 # Every act in this repository
 
-24911 acts, 38,545 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+24919 acts, 38,553 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6045,7 +6045,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (18875, of which 9600 amending acts)
+## Government decisions (HG) (18883, of which 9600 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6639,6 +6639,14 @@
 | Hotărârea Guvernului nr. 1449/2005 | [`hg/2005/1449/`](hg/2005/1449/) | in force | 7 | 2005-12-07 | 2012-12-11 |
 | Hotărârea Guvernului nr. 1469/2005 | [`hg/2005/1469/`](hg/2005/1469/) | in force | 1 | 2005-12-08 | 2005-12-08 |
 | Hotărârea Guvernului nr. 1481/2005 | [`hg/2005/1481/`](hg/2005/1481/) | in force | 2 | 2005-12-05 | 2008-01-11 |
+| Hotărârea Guvernului nr. 1489/2005 privind suplimentarea bugetului Ministerului Culturii şi Cultelor din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2005, pentru Patriarhia Bisericii Ortodoxe Române | [`hg/2005/1489/`](hg/2005/1489/) | in force | 1 | 2005-12-02 | 2005-12-02 |
+| Hotărârea Guvernului nr. 1490/2005 privind suplimentarea bugetului Ministerului Transporturilor, Construcţiilor şi Turismului din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005 | [`hg/2005/1490/`](hg/2005/1490/) | in force | 1 | 2005-12-02 | 2005-12-02 |
+| Hotărârea Guvernului nr. 1491/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Maramureş | [`hg/2005/1491/`](hg/2005/1491/) | in force | 1 | 2005-12-02 | 2005-12-02 |
+| Hotărârea Guvernului nr. 1492/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Iaşi | [`hg/2005/1492/`](hg/2005/1492/) | in force | 1 | 2005-12-02 | 2005-12-02 |
+| Hotărârea Guvernului nr. 1493/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Bihor | [`hg/2005/1493/`](hg/2005/1493/) | in force | 1 | 2005-12-02 | 2005-12-02 |
+| Hotărârea Guvernului nr. 1494/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Bihor | [`hg/2005/1494/`](hg/2005/1494/) | in force | 1 | 2005-12-02 | 2005-12-02 |
+| Hotărârea Guvernului nr. 1495/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Bihor | [`hg/2005/1495/`](hg/2005/1495/) | in force | 1 | 2005-12-02 | 2005-12-02 |
+| Hotărârea Guvernului nr. 1496/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Covasna | [`hg/2005/1496/`](hg/2005/1496/) | in force | 1 | 2005-12-02 | 2005-12-02 |
 | Hotărârea Guvernului nr. 1497/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Ilfov | [`hg/2005/1497/`](hg/2005/1497/) | in force | 1 | 2005-12-02 | 2005-12-02 |
 | Hotărârea Guvernului nr. 1498/2005 privind alocarea unei sumei din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Cluj | [`hg/2005/1498/`](hg/2005/1498/) | in force | 1 | 2005-12-02 | 2005-12-02 |
 | Hotărârea Guvernului nr. 1499/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Giurgiu | [`hg/2005/1499/`](hg/2005/1499/) | in force | 1 | 2005-12-02 | 2005-12-02 |
