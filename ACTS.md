@@ -1,6 +1,6 @@
 # Every act in this repository
 
-24874 acts, 38,508 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+24885 acts, 38,519 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6039,7 +6039,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (18844, of which 9596 amending acts)
+## Government decisions (HG) (18855, of which 9597 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6634,6 +6634,17 @@
 | Hotărârea Guvernului nr. 1469/2005 | [`hg/2005/1469/`](hg/2005/1469/) | in force | 1 | 2005-12-08 | 2005-12-08 |
 | Hotărârea Guvernului nr. 1481/2005 | [`hg/2005/1481/`](hg/2005/1481/) | in force | 2 | 2005-12-05 | 2008-01-11 |
 | Hotărârea Guvernului nr. 1514/2005 | [`hg/2005/1514/`](hg/2005/1514/) | in force | 1 | 2005-12-09 | 2005-12-09 |
+| Hotărârea Guvernului nr. 1524/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Iaşi | [`hg/2005/1524/`](hg/2005/1524/) | in force | 1 | 2005-12-09 | 2005-12-09 |
+| Hotărârea Guvernului nr. 1525/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Covasna | [`hg/2005/1525/`](hg/2005/1525/) | in force | 1 | 2005-12-09 | 2005-12-09 |
+| Hotărârea Guvernului nr. 1526/2005 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru înlăturarea efectelor calamităţilor naturale produse în judeţul Dâmboviţa | [`hg/2005/1526/`](hg/2005/1526/) | in force | 1 | 2005-12-09 | 2005-12-09 |
+| Hotărârea Guvernului nr. 1527/2005 privind suplimentarea bugetului Ministerului Apărării Naţionale pe anul 2005 din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat | [`hg/2005/1527/`](hg/2005/1527/) | in force | 1 | 2005-12-09 | 2005-12-09 |
+| Hotărârea Guvernului nr. 1528/2005 privind suplimentarea bugetului Ministerului Apărării Naţionale pe anul 2005 din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat, pentru Compania Română de Aviaţie "Romavia" - R.A | [`hg/2005/1528/`](hg/2005/1528/) | in force | 1 | 2005-12-13 | 2005-12-13 |
+| Hotărârea Guvernului nr. 1530/2005 privind acordarea unor ajutoare financiare | [`hg/2005/1530/`](hg/2005/1530/) | in force | 1 | 2005-12-13 | 2005-12-13 |
+| Hotărârea Guvernului nr. 1531/2005 pentru aprobarea Memorandumului de cooperare în domeniul petrolului şi gazelor naturale dintre Ministerul Economiei şi Comerţului din România şi Ministerul Petrolului şi Gazelor Naturale din India, semnat la Bucureşti la 4 iulie 2005 | [`hg/2005/1531/`](hg/2005/1531/) | amending act | 1 | 2005-12-14 | 2005-12-14 |
+| Hotărârea Guvernului nr. 1532/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Galaţi | [`hg/2005/1532/`](hg/2005/1532/) | in force | 1 | 2005-12-14 | 2005-12-14 |
+| Hotărârea Guvernului nr. 1533/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Galaţi | [`hg/2005/1533/`](hg/2005/1533/) | in force | 1 | 2005-12-13 | 2005-12-13 |
+| Hotărârea Guvernului nr. 1534/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Constanţa | [`hg/2005/1534/`](hg/2005/1534/) | in force | 1 | 2005-12-13 | 2005-12-13 |
+| Hotărârea Guvernului nr. 1535/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Constanţa | [`hg/2005/1535/`](hg/2005/1535/) | in force | 1 | 2005-12-14 | 2005-12-14 |
 | Hotărârea Guvernului nr. 1536/2005 privind acordarea unui ajutor umanitar de urgenţă pentru populaţia din judeţele Brăila şi Tulcea | [`hg/2005/1536/`](hg/2005/1536/) | in force | 1 | 2005-12-09 | 2005-12-09 |
 | Hotărârea Guvernului nr. 1537/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Satu Mare | [`hg/2005/1537/`](hg/2005/1537/) | in force | 1 | 2005-12-14 | 2005-12-14 |
 | Hotărârea Guvernului nr. 1538/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Harghita | [`hg/2005/1538/`](hg/2005/1538/) | in force | 1 | 2005-12-14 | 2005-12-14 |
