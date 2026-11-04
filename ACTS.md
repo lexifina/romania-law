@@ -1,6 +1,6 @@
 # Every act in this repository
 
-24727 acts, 38,361 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+24739 acts, 38,373 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6022,7 +6022,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (18714, of which 9576 amending acts)
+## Government decisions (HG) (18726, of which 9579 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6619,6 +6619,18 @@
 | Hotărârea Guvernului nr. 1514/2005 | [`hg/2005/1514/`](hg/2005/1514/) | in force | 1 | 2005-12-09 | 2005-12-09 |
 | Hotărârea Guvernului nr. 1579/2005 | [`hg/2005/1579/`](hg/2005/1579/) | in force | 1 | 2006-02-09 | 2006-02-09 |
 | Hotărârea Guvernului nr. 1581/2005 | [`hg/2005/1581/`](hg/2005/1581/) | in force | 1 | 2006-01-11 | 2006-01-11 |
+| Hotărârea Guvernului nr. 1692/2005 privind suplimentarea bugetului Ministerului Transporturilor, Construcţiilor şi Turismului din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005 | [`hg/2005/1692/`](hg/2005/1692/) | in force | 1 | 2005-12-22 | 2005-12-22 |
+| Hotărârea Guvernului nr. 1693/2005 pentru modificarea art. 1 alin. (1) din Hotărârea Guvernului nr. 1.648/2005 privind suplimentarea bugetului Ministerului Apărării Naţionale pe anul 2005 din Fondul de intervenţie bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005 | [`hg/2005/1693/`](hg/2005/1693/) | amending act | 1 | 2005-12-22 | 2005-12-22 |
+| Hotărârea Guvernului nr. 1694/2005 privind acoperirea din bugetul Ministerului Afacerilor Externe a cheltuielilor ocazionate de amplasarea unei plăci reprezentând România la Berlin, în cadrul proiectului "Drumul vizionarilor", dedicat Uniunii Europene | [`hg/2005/1694/`](hg/2005/1694/) | in force | 1 | 2005-12-22 | 2005-12-22 |
+| Hotărârea Guvernului nr. 1695/2005 privind aprobarea organizării şi finanţarea Proiectului "România în Advent 2005, România în aşteptare", pentru promovarea imaginii României în statele membre ale Uniunii Europene | [`hg/2005/1695/`](hg/2005/1695/) | amending act | 1 | 2005-12-22 | 2005-12-22 |
+| Hotărârea Guvernului nr. 1696/2005 privind suplimentarea bugetului Serviciului Român de Informaţii din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005 | [`hg/2005/1696/`](hg/2005/1696/) | in force | 1 | 2005-12-23 | 2005-12-23 |
+| Hotărârea Guvernului nr. 1697/2005 privind acordarea unor premii pentru obţinerea de către echipa naţională de handbal a României a locului II la Campionatul Mondial de Handbal Feminin, Rusia 2005 | [`hg/2005/1697/`](hg/2005/1697/) | in force | 1 | 2005-12-23 | 2005-12-23 |
+| Hotărârea Guvernului nr. 1700/2005 privind stabilirea cuantumului ajutorului pentru încălzirea locuinţei în cazul familiilor şi persoanelor singure cu venituri reduse, care utilizează pentru încălzirea locuinţei şi prepararea apei calde energie termică furnizată în sistem centralizat şi care au optat pentru modalitatea de facturare şi plată a energiei termice în sistem binom | [`hg/2005/1700/`](hg/2005/1700/) | in force | 1 | 2005-12-28 | 2005-12-28 |
+| Hotărârea Guvernului nr. 1701/2005 privind eliberarea domnului Petrache Marian, la cerere, din funcţia de prefect al judeţului Ilfov | [`hg/2005/1701/`](hg/2005/1701/) | in force | 1 | 2005-12-27 | 2005-12-27 |
+| Hotărârea Guvernului nr. 1702/2005 privind numirea domnului Jecu Nicolae în funcţia de prefect al judeţului Ilfov | [`hg/2005/1702/`](hg/2005/1702/) | in force | 1 | 2005-12-27 | 2005-12-27 |
+| Hotărârea Guvernului nr. 1703/2005 privind eliberarea domnului Popescu Jean, la cerere, din funcţia de prefect al judeţului Dâmboviţa | [`hg/2005/1703/`](hg/2005/1703/) | in force | 1 | 2005-12-27 | 2005-12-27 |
+| Hotărârea Guvernului nr. 1705/2005 privind transmiterea unui imobil, aflat în domeniul public al statului, din administrarea Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat" în administrarea Oficiului Naţional pentru Cultul Eroilor | [`hg/2005/1705/`](hg/2005/1705/) | in force | 1 | 2006-01-04 | 2006-01-04 |
+| Hotărârea Guvernului nr. 1707/2005 pentru modificarea Hotărârii Guvernului nr. 711/2001 privind înfiinţarea Centrului Naţional pentru Aşezări Umane (habitat) | [`hg/2005/1707/`](hg/2005/1707/) | amending act | 1 | 2006-01-09 | 2006-01-09 |
 | Hotărârea Guvernului nr. 1708/2005 pentru completarea art. 39 din Hotărârea Guvernului nr. 622/2004 privind stabilirea condiţiilor de introducere pe piaţă a produselor pentru construcţii | [`hg/2005/1708/`](hg/2005/1708/) | amending act | 1 | 2005-12-29 | 2005-12-29 |
 | Hotărârea Guvernului nr. 1709/2005 privind prorogarea termenului prevăzut la art. 3 din Hotărârea Guvernului nr. 2.190/2004 pentru aprobarea concesionării serviciilor de siguranţă legarea-dezlegarea navelor maritime şi remorcajul de manevră a navelor maritime în porturile Constanţa, Midia şi Mangalia | [`hg/2005/1709/`](hg/2005/1709/) | amending act | 1 | 2005-12-29 | 2005-12-29 |
 | Hotărârea Guvernului nr. 1710/2005 privind transmiterea unui imobil din proprietatea publică a statului şi din administrarea Ministerului Apărării Naţionale în proprietatea publică a judeţului Caraş-Severin şi în administrarea Consiliului Judeţean Caraş-Severin | [`hg/2005/1710/`](hg/2005/1710/) | in force | 1 | 2006-01-03 | 2006-01-03 |
