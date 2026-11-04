@@ -1,0 +1,95 @@
+# Ordinul nr. 1.323/2010 privind aprobarea ghidurilor de practică medicală pentru specialitatea urologie
+
+Ordin sanatate nr. 1323/2010 · 1 versions, from 2010-11-26 (latest in force: 2010-11-26) · <https://legislatie.just.ro/Public/DetaliiDocument/123955>
+
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: a part of it is published in a "bis" issue of the Monitorul Oficial or in facsimile, which the official text leaves out.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1 | [art-001.md](art-001.md) | 0 |  |
+| Art. 2 | [art-002.md](art-002.md) | 0 |  |
+| Art. 3 | [art-003.md](art-003.md) | 0 |  |
+| Art. 4 | [art-004.md](art-004.md) | 0 |  |
+| Art. 5 | [art-005.md](art-005.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 10 (what it is) | [anexa-10/README.md](anexa-10/README.md) | 0 |  |
+| Anexa nr. 10 | [anexa-10/text.md](anexa-10/text.md) | 0 |  |
+| Anexa nr. 11 (what it is) | [anexa-11/README.md](anexa-11/README.md) | 0 |  |
+| Anexa nr. 11 | [anexa-11/text.md](anexa-11/text.md) | 0 |  |
+| Anexa nr. 12 (what it is) | [anexa-12/README.md](anexa-12/README.md) | 0 |  |
+| Anexa nr. 12 | [anexa-12/text.md](anexa-12/text.md) | 0 |  |
+| Anexa nr. 13 (what it is) | [anexa-13/README.md](anexa-13/README.md) | 0 |  |
+| Anexa nr. 13 | [anexa-13/text.md](anexa-13/text.md) | 0 |  |
+| Anexa nr. 14 (what it is) | [anexa-14/README.md](anexa-14/README.md) | 0 |  |
+| Anexa nr. 14 | [anexa-14/text.md](anexa-14/text.md) | 0 |  |
+| Anexa nr. 15 (what it is) | [anexa-15/README.md](anexa-15/README.md) | 0 |  |
+| Anexa nr. 15 | [anexa-15/text.md](anexa-15/text.md) | 0 |  |
+| Anexa nr. 16 (what it is) | [anexa-16/README.md](anexa-16/README.md) | 0 |  |
+| Anexa nr. 16 | [anexa-16/text.md](anexa-16/text.md) | 0 |  |
+| Anexa nr. 17 (what it is) | [anexa-17/README.md](anexa-17/README.md) | 0 |  |
+| Anexa nr. 17 | [anexa-17/text.md](anexa-17/text.md) | 0 |  |
+| Anexa nr. 18 (what it is) | [anexa-18/README.md](anexa-18/README.md) | 0 |  |
+| Anexa nr. 18 | [anexa-18/text.md](anexa-18/text.md) | 0 |  |
+| Anexa nr. 19 (what it is) | [anexa-19/README.md](anexa-19/README.md) | 0 |  |
+| Anexa nr. 19 | [anexa-19/text.md](anexa-19/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 20 (what it is) | [anexa-20/README.md](anexa-20/README.md) | 0 |  |
+| Anexa nr. 20 | [anexa-20/text.md](anexa-20/text.md) | 0 |  |
+| Anexa nr. 21 (what it is) | [anexa-21/README.md](anexa-21/README.md) | 0 |  |
+| Anexa nr. 21 | [anexa-21/text.md](anexa-21/text.md) | 0 |  |
+| Anexa nr. 22 (what it is) | [anexa-22/README.md](anexa-22/README.md) | 0 |  |
+| Anexa nr. 22 | [anexa-22/text.md](anexa-22/text.md) | 0 |  |
+| Anexa nr. 23 (what it is) | [anexa-23/README.md](anexa-23/README.md) | 0 |  |
+| Anexa nr. 23 | [anexa-23/text.md](anexa-23/text.md) | 0 |  |
+| Anexa nr. 24 (what it is) | [anexa-24/README.md](anexa-24/README.md) | 0 |  |
+| Anexa nr. 24 | [anexa-24/text.md](anexa-24/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
+| Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
+| Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
+| Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
+| Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
+| Anexa nr. 6 (what it is) | [anexa-6/README.md](anexa-6/README.md) | 0 |  |
+| Anexa nr. 6 | [anexa-6/text.md](anexa-6/text.md) | 0 |  |
+| Anexa nr. 7 (what it is) | [anexa-7/README.md](anexa-7/README.md) | 0 |  |
+| Anexa nr. 7 | [anexa-7/text.md](anexa-7/text.md) | 0 |  |
+| Anexa nr. 8 (what it is) | [anexa-8/README.md](anexa-8/README.md) | 0 |  |
+| Anexa nr. 8 | [anexa-8/text.md](anexa-8/text.md) | 0 |  |
+| Anexa nr. 9 (what it is) | [anexa-9/README.md](anexa-9/README.md) | 0 |  |
+| Anexa nr. 9 | [anexa-9/text.md](anexa-9/text.md) | 0 |  |
+
+Act id: `ordin-sanatate-1323-2010` (tags `ordin-sanatate-1323-2010/<day>`; `python tools/on.py <day> ordin-sanatate-1323-2010`).
+
+## Decisions made by hand
+
+- Ordin sanatate nr. 1323/2010: added from the official web service of the Portalul legislativ (FreeWebService) as the order as published (document 123955, retrieved 2026-11-03). Whether later acts amended it has not yet been checked against the official full-text search; amendments, if any, are not applied here. It will be extended or relabelled when that check is done.
+- Ordin sanatate nr. 1323/2010: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
+- Ordin sanatate nr. 1323/2010: the first version is the order as published in Monitorul Oficial nr. 794 of 26 November 2010 (document 123955 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
+- Ordin sanatate nr. 1323/2010: the signatures and the place and date line after its last article are not article text.
+- Ordin sanatate nr. 1323/2010: Anexa nr. 1 (1 GHID MINIMAL INVESTIGAȚIONAL AL PACIENTULUI CHIRURGICAL UROLOGIC 1. Hemoleucogramă completă, hemoglobină, hematocrit 2. Numărătoare eritrocite, numărătoare leucocite, numărătoare trombocite, formula) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 123955 of the official web service.
+- Ordin sanatate nr. 1323/2010: Anexa nr. 2 (2 GHID DE DIAGNOSTIC, TRATAMENT ȘI URMĂRIRE ÎN TUBERCULOZA UROGENITALĂ Protocol de diagnostic obligatoriu: 1. Examen obiectiv + anamneză 2. Protocol minimal de investigații bioumorale al pacientului c) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 123955 of the official web service.
+- Ordin sanatate nr. 1323/2010: Anexa nr. 3 (3 GHID DE DIAGNOSTIC, TRATAMENT ȘI URMĂRIRE ÎN LITIAZA URINARĂ 1. Protocol de diagnostic: Obligatoriu: 1.1. Anamneză + examen clinic 1.2. Ecografia aparatului urinar 1.3. RRVS + urografie intravenoasă) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 123955 of the official web service.
+- Ordin sanatate nr. 1323/2010: Anexa nr. 4 (4 GHID DE DIAGNOSTIC ȘI TRATAMENT PENTRU INFECȚIILE URINARE Protocol de diagnostic obligatoriu: 1. Anamneză + examen clinic general 2. Protocol investigațional al pacientului chirurgical urologic 3. E) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 123955 of the official web service.
+- Ordin sanatate nr. 1323/2010: Anexa nr. 5 (5 GHID DE DIAGNOSTIC, TRATAMENT ȘI URMĂRIRE ÎN MALFORMAȚIILE APARATULUI UROGENITAL HIDRONEFROZA CONGENITALĂ Protocol de diagnostic obligatoriu: 1. Examen clinic + anamneză 2. Protocolul de investigați) is part of the order and is published in its folder, anexa-5/ (paragraphs), from document 123955 of the official web service.
+- Ordin sanatate nr. 1323/2010: Anexa nr. 6 (6 GHID DE DIAGNOSTIC, TRATAMENT ȘI URMĂRIRE ÎN TRAUMATISMELE UROGENITALE PROTOCOL DE DIAGNOSTIC, TRATAMENT ȘI URMĂRIRE ÎN TRAUMATISMELE RENALE Protocol de diagnostic obligatoriu: 1. Anamneză și examen) is part of the order and is published in its folder, anexa-6/ (paragraphs), from document 123955 of the official web service.
+- Ordin sanatate nr. 1323/2010: Anexa nr. 7 (7 GHID DE DIAGNOSTIC ȘI TRATAMENT PENTRU TUMORILE GLANDELOR SUPRARENALE Protocol de diagnostic obligatoriu: 1. Anamneză 2. Examen clinic + 3 determinări TA 3. Protocol de investigații bioumorale al pa) is part of the order and is published in its folder, anexa-7/ (paragraphs), from document 123955 of the official web service.
+- Ordin sanatate nr. 1323/2010: Anexa nr. 8 (8 GHID DE DIAGNOSTIC, TRATAMENT ȘI URMĂRIRE PENTRU TUMORILE RENALE PARENCHIMATOASE Protocol de diagnostic obligatoriu: 1. Anamneza + Examenul clinic urologic 2. Protocol investigational al pacientului) is part of the order and is published in its folder, anexa-8/ (paragraphs), from document 123955 of the official web service.
+- Ordin sanatate nr. 1323/2010: Anexa nr. 9 (9 GHID DE DIAGNOSTIC, TRATAMENT ȘI URMĂRIRE ÎN TUMORILE DE UROTELIU ÎNALT Protocol de diagnostic obligatoriu: 1. Examen clinic + anamneză 2. Protocol de investigații bioumorale al pacientului chirurgi) is part of the order and is published in its folder, anexa-9/ (paragraphs), from document 123955 of the official web service.
+- Ordin sanatate nr. 1323/2010: Anexa nr. 10 (10 GHID PENTRU TUMORILE VEZICALE NONMUSCULOINVAZIVE Protocol de diagnostic obligatoriu: 1. Anamneză + examen clinic 2. Protocol de investigații bioumorale al pacientului chirurgical urologic 3. Ecogra) is part of the order and is published in its folder, anexa-10/ (paragraphs), from document 123955 of the official web service.
+- Ordin sanatate nr. 1323/2010: Anexa nr. 11 (11 GHID DE DIAGNOSTIC, TRATAMENT ȘI URMĂRIRE ÎN TUMORILE VEZICALE UROTELIALE INFILTRATIVE Protocol de diagnostic obligatoriu: 1. Examen clinic general + local + anamneză 2. Protocol investigațional al) is part of the order and is published in its folder, anexa-11/ (paragraphs), from document 123955 of the official web service.
+- Ordin sanatate nr. 1323/2010: Anexa nr. 12 (12 GHID PENTRU TUMORILE URETRALE LA BĂRBAT Protocol de diagnostic obligatoriu: 1. Examen clinic + anamneză 2. Protocolul investigațional minimal al pacientului chirurgical urologic 3. RRVS + UIV 4. Ci) is part of the order and is published in its folder, anexa-12/ (paragraphs), from document 123955 of the official web service.
+- Ordin sanatate nr. 1323/2010: Anexa nr. 13 (13 GHID DE DIAGNOSTIC ȘI TRATAMENT ÎN ADENOMUL DE PROSTATĂ Protocol de diagnostic obligatoriu: 1. Examen clinic și anamneză 2. IPSS, QOL, VOIDING CHARTS - DIARIES 3. Protocolul minim investigațional a) is part of the order and is published in its folder, anexa-13/ (paragraphs), from document 123955 of the official web service.
+- Ordin sanatate nr. 1323/2010: Anexa nr. 14 (14 GHID DE DIAGNOSTIC, TRATAMENT ȘI URMĂRIRE ÎN CANCERUL DE PROSTATĂ Protocol de diagnostic obligatoriu: 1. Examen clinic local + general + anamneză 2. Tușeu rectal 3. Protocol investigațional al paci) is part of the order and is published in its folder, anexa-14/ (paragraphs), from document 123955 of the official web service.
+- Ordin sanatate nr. 1323/2010: Anexa nr. 15 (15 GHID DE DIAGNOSTIC, TRATAMENT ȘI URMĂRIRE PENTRU TUMORILE RETROPERITONEALE PRIMITIVE Protocol de diagnostic obligatoriu: 1. Anamneză + Examen clinic 2. Protocolul minim investigational al pacientul) is part of the order and is published in its folder, anexa-15/ (paragraphs), from document 123955 of the official web service.
+- Ordin sanatate nr. 1323/2010: Anexa nr. 16 (16 GHID DE DIAGNOSTIC ȘI TRATAMENT ÎN TUMORILE TESTICULARE Protocol de diagnostic: 1. Examenul clinic: anamneză + examen local (scrot) și general 2.Investigații bioumorale: - Protocol investigational) is part of the order and is published in its folder, anexa-16/ (paragraphs), from document 123955 of the official web service.
+- Ordin sanatate nr. 1323/2010: Anexa nr. 17 (17 GHID DE DIAGNOSTIC, TRATAMENT ȘI URMĂRIRE ÎN STRICTURILE URETRALE Protocol de diagnostic obligatoriu: 1. Examen clinic - anamneza; examen fizic local și general 2. Protocolul de investigații bioumo) is part of the order and is published in its folder, anexa-17/ (paragraphs), from document 123955 of the official web service.
+- Ordin sanatate nr. 1323/2010: Anexa nr. 18 (18 GHID DE DIAGNOSTIC, TRATAMENT ȘI URMĂRIRE ÎN TUMORILE PENIENE Protocol de diagnostic obligatoriu: 1. Examen clinic - anamneza; examen fizic local și general 2. Protocolul de investigații bioumorale) is part of the order and is published in its folder, anexa-18/ (paragraphs), from document 123955 of the official web service.
+- Ordin sanatate nr. 1323/2010: Anexa nr. 19 (19 GHID DE DIAGNOSTIC ȘI TRATAMENT PENTRU ÎNCURBAREA PENIANĂ (BOALA PEYRONIE ȘI ÎNCURBAREA PENIANĂ CONGENITALĂ) Protocol de diagnostic obligatoriu: 1. Examen clinic 2. Protocolul investigațional oblig) is part of the order and is published in its folder, anexa-19/ (paragraphs), from document 123955 of the official web service.
+- Ordin sanatate nr. 1323/2010: Anexa nr. 20 (20 GHID DE DIAGNOSTIC ȘI TRATAMENT PENTRU DISFUNCȚIA ERECTILĂ Protocol de diagnostic obligatoriu: 1. Examen clinic 2. Protocolul investigațional obligatoriu al bolnavului urologic 3. EKG 4. Rx pulmona) is part of the order and is published in its folder, anexa-20/ (paragraphs), from document 123955 of the official web service.
+- Ordin sanatate nr. 1323/2010: Anexa nr. 21 (21 GHID DE DIAGNOSTIC ȘI TRATAMENT PENTRU INFERTILITATEA MASCULINĂ Protocol de diagnostic obligatoriu: 1. Anamneză și examen clinic 2. Protocolul investigațional obligatoriu al bolnavului urologic 3.) is part of the order and is published in its folder, anexa-21/ (paragraphs), from document 123955 of the official web service.
+- Ordin sanatate nr. 1323/2010: Anexa nr. 22 (22 GHID DE DIAGNOSTIC ȘI TRATAMENT PENTRU VEZICA NEUROGENĂ Protocol de diagnostic obligatoriu: 1. Examen obiectiv + Anamneză - Calendar micțional - Chestionar al simptomelor (ICI-Q) și calității vieți) is part of the order and is published in its folder, anexa-22/ (paragraphs), from document 123955 of the official web service.
+- Ordin sanatate nr. 1323/2010: Anexa nr. 23 (23 GHID DE DIAGNOSTIC ȘI TRATAMENT PENTRU INCONTINENȚA URINARĂ DE EFORT Protocol de diagnostic obligatoriu: 1. Examen obiectiv + Anamneză - Calendar micțional - Chestionar al simptomelor (ICI-Q) - Det) is part of the order and is published in its folder, anexa-23/ (paragraphs), from document 123955 of the official web service.
+- Ordin sanatate nr. 1323/2010: Anexa nr. 24 (24 GHID DE DIAGNOSTIC ȘI TRATAMENT AL VARICOCELULUI Protocol de diagnostic obligatoriu: 1. Anamneză, examen clinic 2. Protocolul investigațional obligatoriu al bolnavului urologic 3. Spermogramă 4. FS) is part of the order and is published in its folder, anexa-24/ (paragraphs), from document 123955 of the official web service.
+- Ordin sanatate nr. 1323/2010: the publisher's note "*) Anexele nr. 1-24 se publică în Monitorul Oficial al României, Partea I, nr. 794 bis, care se poate achiziţiona de la Centrul pentru relaţii cu publicul al Regiei Autonome "Monitorul Oficial", Bucur" sends a part of it to a "bis" issue or a facsimile, which the official web service's text leaves out; that part is not included. It will be added when a source for it is found.
