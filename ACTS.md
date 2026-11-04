@@ -1,6 +1,6 @@
 # Every act in this repository
 
-24785 acts, 38,419 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+24807 acts, 38,441 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6031,7 +6031,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (18763, of which 9588 amending acts)
+## Government decisions (HG) (18785, of which 9589 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6628,6 +6628,28 @@
 | Hotărârea Guvernului nr. 1514/2005 | [`hg/2005/1514/`](hg/2005/1514/) | in force | 1 | 2005-12-09 | 2005-12-09 |
 | Hotărârea Guvernului nr. 1579/2005 | [`hg/2005/1579/`](hg/2005/1579/) | in force | 1 | 2006-02-09 | 2006-02-09 |
 | Hotărârea Guvernului nr. 1581/2005 | [`hg/2005/1581/`](hg/2005/1581/) | in force | 1 | 2006-01-11 | 2006-01-11 |
+| Hotărârea Guvernului nr. 1606/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Constanţa | [`hg/2005/1606/`](hg/2005/1606/) | in force | 1 | 2005-12-15 | 2005-12-15 |
+| Hotărârea Guvernului nr. 1607/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Cluj | [`hg/2005/1607/`](hg/2005/1607/) | in force | 1 | 2005-12-15 | 2005-12-15 |
+| Hotărârea Guvernului nr. 1608/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Cluj | [`hg/2005/1608/`](hg/2005/1608/) | in force | 1 | 2005-12-15 | 2005-12-15 |
+| Hotărârea Guvernului nr. 1609/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Dâmboviţa | [`hg/2005/1609/`](hg/2005/1609/) | in force | 1 | 2005-12-15 | 2005-12-15 |
+| Hotărârea Guvernului nr. 1610/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Dâmboviţa | [`hg/2005/1610/`](hg/2005/1610/) | in force | 1 | 2005-12-15 | 2005-12-15 |
+| Hotărârea Guvernului nr. 1611/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Dolj | [`hg/2005/1611/`](hg/2005/1611/) | in force | 1 | 2005-12-15 | 2005-12-15 |
+| Hotărârea Guvernului nr. 1612/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Giurgiu | [`hg/2005/1612/`](hg/2005/1612/) | in force | 1 | 2005-12-15 | 2005-12-15 |
+| Hotărârea Guvernului nr. 1613/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Hunedoara | [`hg/2005/1613/`](hg/2005/1613/) | in force | 1 | 2005-12-15 | 2005-12-15 |
+| Hotărârea Guvernului nr. 1614/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Hunedoara | [`hg/2005/1614/`](hg/2005/1614/) | in force | 1 | 2005-12-15 | 2005-12-15 |
+| Hotărârea Guvernului nr. 1615/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Hunedoara | [`hg/2005/1615/`](hg/2005/1615/) | in force | 1 | 2005-12-15 | 2005-12-15 |
+| Hotărârea Guvernului nr. 1616/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Hunedoara | [`hg/2005/1616/`](hg/2005/1616/) | in force | 1 | 2005-12-15 | 2005-12-15 |
+| Hotărârea Guvernului nr. 1617/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Hunedoara | [`hg/2005/1617/`](hg/2005/1617/) | in force | 1 | 2005-12-15 | 2005-12-15 |
+| Hotărârea Guvernului nr. 1618/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Ialomiţa | [`hg/2005/1618/`](hg/2005/1618/) | in force | 1 | 2005-12-15 | 2005-12-15 |
+| Hotărârea Guvernului nr. 1619/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Maramureş | [`hg/2005/1619/`](hg/2005/1619/) | in force | 1 | 2005-12-15 | 2005-12-15 |
+| Hotărârea Guvernului nr. 1621/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Mehedinţi | [`hg/2005/1621/`](hg/2005/1621/) | in force | 1 | 2005-12-15 | 2005-12-15 |
+| Hotărârea Guvernului nr. 1624/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Sălaj | [`hg/2005/1624/`](hg/2005/1624/) | in force | 1 | 2005-12-15 | 2005-12-15 |
+| Hotărârea Guvernului nr. 1625/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Suceava | [`hg/2005/1625/`](hg/2005/1625/) | in force | 1 | 2005-12-15 | 2005-12-15 |
+| Hotărârea Guvernului nr. 1626/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Timiş | [`hg/2005/1626/`](hg/2005/1626/) | in force | 1 | 2005-12-15 | 2005-12-15 |
+| Hotărârea Guvernului nr. 1628/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Vâlcea | [`hg/2005/1628/`](hg/2005/1628/) | in force | 1 | 2005-12-15 | 2005-12-15 |
+| Hotărârea Guvernului nr. 1629/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Vâlcea | [`hg/2005/1629/`](hg/2005/1629/) | in force | 1 | 2005-12-15 | 2005-12-15 |
+| Hotărârea Guvernului nr. 1631/2005 pentru aprobarea finanţării din Fondul pentru mediu şi din bugetul Ministerului Mediului şi Gospodăririi Apelor a lucrărilor de prevenire şi înlăturare a efectelor calamităţilor naturale produse de inundaţii în luna septembrie 2005, în zona localităţii Costineşti, judeţul Constanţa | [`hg/2005/1631/`](hg/2005/1631/) | amending act | 1 | 2005-12-15 | 2005-12-15 |
+| Hotărârea Guvernului nr. 1633/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Bihor | [`hg/2005/1633/`](hg/2005/1633/) | in force | 1 | 2005-12-19 | 2005-12-19 |
 | Hotărârea Guvernului nr. 1634/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Braşov | [`hg/2005/1634/`](hg/2005/1634/) | in force | 1 | 2005-12-19 | 2005-12-19 |
 | Hotărârea Guvernului nr. 1635/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Constanţa | [`hg/2005/1635/`](hg/2005/1635/) | in force | 1 | 2005-12-19 | 2005-12-19 |
 | Hotărârea Guvernului nr. 1636/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Constanţa | [`hg/2005/1636/`](hg/2005/1636/) | in force | 1 | 2005-12-19 | 2005-12-19 |
