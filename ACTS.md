@@ -1,6 +1,6 @@
 # Every act in this repository
 
-21181 acts, 34,814 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+21196 acts, 34,829 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -5622,7 +5622,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (15568, of which 7999 amending acts)
+## Government decisions (HG) (15583, of which 8011 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8827,7 +8827,22 @@
 | Hotărârea Guvernului nr. 654/2011 | [`hg/2011/654/`](hg/2011/654/) | in force | 1 | 2011-07-12 | 2011-07-12 |
 | Hotărârea Guvernului nr. 668/2011 | [`hg/2011/668/`](hg/2011/668/) | in force | 1 | 2011-07-11 | 2011-07-11 |
 | Hotărârea Guvernului nr. 681/2011 | [`hg/2011/681/`](hg/2011/681/) | in force | 1 | 2011-08-03 | 2011-08-03 |
+| Hotărârea Guvernului nr. 704/2011 pentru aprobarea plăţii contribuţiei voluntare, în lei, a României la Programul Naţiunilor Unite pentru Dezvoltare pe anul 2011 | [`hg/2011/704/`](hg/2011/704/) | amending act | 1 | 2011-07-15 | 2011-07-15 |
+| Hotărârea Guvernului nr. 705/2011 privind numirea unui consul general | [`hg/2011/705/`](hg/2011/705/) | in force | 1 | 2011-07-18 | 2011-07-18 |
+| Hotărârea Guvernului nr. 706/2011 privind aprobarea sumelor necesare Autorităţii Naţionale a Vămilor pentru contractarea şi implementarea proiectelor necontractate din fondurile Programului PHARE naţional 2005 şi 2006 | [`hg/2011/706/`](hg/2011/706/) | amending act | 1 | 2011-07-28 | 2011-07-28 |
+| Hotărârea Guvernului nr. 707/2011 pentru modificarea Hotărârii Guvernului nr. 534/2007 privind înfiinţarea, atribuţiile, competenţele şi modul de funcţionare ale Comitetului Interministerial de Finanţări, Garanţii şi Asigurări şi reglementarea operaţiunilor de finanţare, garantare şi asigurare efectuate de Banca de Export-Import a României EXIMBANK - S.A. în numele şi în contul statului | [`hg/2011/707/`](hg/2011/707/) | amending act | 1 | 2011-07-20 | 2011-07-20 |
+| Hotărârea Guvernului nr. 709/2011 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.184/2010 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării de utilitate publică "Varianta de ocolire a municipiului Caracal" | [`hg/2011/709/`](hg/2011/709/) | amending act | 1 | 2011-07-27 | 2011-07-27 |
+| Hotărârea Guvernului nr. 711/2011 pentru modificarea şi completarea unor anexe la Hotărârea Guvernului nr. 966/2002 privind atestarea domeniului public al judeţului Sălaj, precum şi al municipiului Zalău, oraşelor şi comunelor din judeţul Sălaj | [`hg/2011/711/`](hg/2011/711/) | amending act | 1 | 2011-07-27 | 2011-07-27 |
+| Hotărârea Guvernului nr. 712/2011 privind aprobarea stemelor comunelor Apold, Beica de Jos şi Nadeş, judeţul Mureş | [`hg/2011/712/`](hg/2011/712/) | amending act | 1 | 2011-07-27 | 2011-07-27 |
+| Hotărârea Guvernului nr. 713/2011 privind aprobarea stemei oraşului Căzăneşti, judeţul Ialomiţa | [`hg/2011/713/`](hg/2011/713/) | amending act | 1 | 2011-07-27 | 2011-07-27 |
+| Hotărârea Guvernului nr. 714/2011 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2011 al Societăţii Comerciale "Compania de Investiţii pentru Turism" - S.A., la care Ministerul Dezvoltării Regionale şi Turismului deţine acţiuni, în numele statului | [`hg/2011/714/`](hg/2011/714/) | amending act | 1 | 2011-07-20 | 2011-07-20 |
+| Hotărârea Guvernului nr. 715/2011 privind modificarea Hotărârii Guvernului nr. 1.229/2004 pentru aprobarea Normelor metodologice privind emiterea atestărilor şi avizelor prevăzute de Legea nr. 139/2000 privind activitatea de meteorologie, cu modificările şi completările ulterioare, precum şi modalităţile de încasare şi virare la bugetul de stat a taxelor percepute pentru eliberarea acestora | [`hg/2011/715/`](hg/2011/715/) | amending act | 1 | 2011-07-22 | 2011-07-22 |
+| Hotărârea Guvernului nr. 716/2011 pentru aprobarea scoaterii definitive din fondul forestier naţional, cu compensare, a terenului în suprafaţă de 6,1359 ha, proprietate publică a Municipiului Piatra-Neamţ, în vederea realizării obiectivului "Amenajare pârtie de schi începători masivul Cozla" | [`hg/2011/716/`](hg/2011/716/) | amending act | 1 | 2011-07-21 | 2011-07-21 |
+| Hotărârea Guvernului nr. 717/2011 privind transmiterea imobilului "Arenele Traian" din domeniul public al statului şi din administrarea Ministerului Educaţiei, Cercetării, Tineretului şi Sportului - Autoritatea Naţională pentru Sport şi Tineret - Direcţia Judeţeană pentru Sport şi Tineret Vâlcea în domeniul public al municipiului Râmnicu Vâlcea şi în administrarea Consiliului Local al Municipiului Râmnicu Vâlcea | [`hg/2011/717/`](hg/2011/717/) | in force | 1 | 2011-07-29 | 2011-07-29 |
 | Hotărârea Guvernului nr. 718/2011 | [`hg/2011/718/`](hg/2011/718/) | in force | 1 | 2011-08-04 | 2011-08-04 |
+| Hotărârea Guvernului nr. 719/2011 pentru modificarea şi completarea unor anexe la Hotărârea Guvernului nr. 1.359/2001 privind atestarea domeniului public al judeţului Prahova, precum şi al municipiilor, oraşelor şi comunelor din judeţul Prahova | [`hg/2011/719/`](hg/2011/719/) | amending act | 1 | 2011-08-05 | 2011-08-05 |
+| Hotărârea Guvernului nr. 720/2011 privind modificarea art. 3 din Hotărârea Guvernului nr. 832/2010 pentru aprobarea strategiei de vânzare a unor acţiuni emise de Societatea Comercială "OMV Petrom" - S.A. Bucureşti prin metode specifice pieţei de capital | [`hg/2011/720/`](hg/2011/720/) | amending act | 1 | 2011-07-19 | 2011-07-19 |
+| Hotărârea Guvernului nr. 721/2011 privind încetarea exercitării, cu caracter temporar, a funcţiei publice de prefect al judeţului Galaţi de către domnul Păun Ionuţ Cosmin | [`hg/2011/721/`](hg/2011/721/) | in force | 1 | 2011-07-21 | 2011-07-21 |
 | Hotărârea Guvernului nr. 722/2011 privind exercitarea, cu caracter temporar, în condiţiile legii, a funcţiei publice de prefect al judeţului Galaţi de către domnul Florea Paul | [`hg/2011/722/`](hg/2011/722/) | in force | 1 | 2011-07-21 | 2011-07-21 |
 | Hotărârea Guvernului nr. 723/2011 | [`hg/2011/723/`](hg/2011/723/) | in force | 1 | 2011-09-01 | 2011-09-01 |
 | Hotărârea Guvernului nr. 724/2011 privind suplimentarea bugetului Ministerului Sănătăţii din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2011 | [`hg/2011/724/`](hg/2011/724/) | in force | 1 | 2011-07-25 | 2011-07-25 |
