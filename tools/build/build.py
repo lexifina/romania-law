@@ -1042,6 +1042,20 @@ def docs_files(c: dict, folder: Path, raw: bytes, log: list[dict], tags: dict, d
         if rel.endswith('.md') and rel in files:
             files[rel] = public_readme(files[rel], keep)
     files['data/corpus.sha256'] = f'{hashlib.sha256(raw).hexdigest()}  corpus.json\n'
+    # Promulgation decrees (metadata only): the decree that promulgated each law on main, read from the official web
+    # service's records (promulgation.jsonl beside the corpus, one row per law). The decree texts are not published.
+    prom = folder / 'promulgation.jsonl'
+    if prom.exists():
+        on = {a['slug'] for a in c['acts']}
+        rows = [json.loads(x) for x in prom.read_text(encoding='utf-8').splitlines() if x.strip()]
+        rows = sorted((r for r in rows if r.get('law') in on), key=lambda r: r['law'])
+        out = io.StringIO()
+        wr = csv.writer(out, lineterminator='\n')
+        wr.writerow(['act', 'decree', 'decree_date', 'monitorul_oficial', 'mo_date', 'service_document'])
+        for r in rows:
+            wr.writerow([r['law'], f'Decretul nr. {r["decree_nr"]}/{r["decree_date"][:4]}', r['decree_date'],
+                         r.get('mo_nr') or '', r.get('mo_date') or '', r.get('decree_service_id') or ''])
+        files['data/promulgation.csv'] = out.getvalue()
     files.update(tables(c, log))
     files['REPRODUCE.md'] = reproduce(c, folder, raw, log, tags, docs_date)
     return files
