@@ -99146,6 +99146,201 @@
    ]
   },
   {
+   "slug": "decret-lege-105-1990",
+   "path": "decret-lege/1990/105",
+   "short": "Decretul-lege nr. 105/1990",
+   "title": "Decretul-lege nr. 105/1990 privind unele măsuri referitoare la alocaţia de stat pentru copii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14976",
+   "versions": [
+    {
+     "from": "1990-04-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14976",
+     "sha256": "9c0d729f5409996352163db1a14450dccf3eff46ba0ec528f024e3327b8c806e"
+    }
+   ]
+  },
+  {
+   "slug": "decret-lege-108-1990",
+   "path": "decret-lege/1990/108",
+   "short": "Decretul-lege nr. 108/1990",
+   "title": "Decretul-lege nr. 108/1990 privind acordarea burselor pentru elevii care urmează cursurile şcolilor militare ale Ministerului de Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14979",
+   "versions": [
+    {
+     "from": "1990-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14979",
+     "sha256": "c946721144acfac9bff5717c286e8ead076f84f5ac3b97c9453afada1727dde7"
+    }
+   ]
+  },
+  {
+   "slug": "decret-lege-110-1990",
+   "path": "decret-lege/1990/110",
+   "short": "Decretul-lege nr. 110/1990",
+   "title": "Decretul-lege nr. 110/1990 privind abrogarea şi modificarea unor prevederi din Legea nr. 57/1974",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14981",
+   "versions": [
+    {
+     "from": "1990-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14981",
+     "sha256": "1bee07b7e5207d9b8b6716b552c7e16fe5c5fd5a489aa530ac963c0190ee26cf"
+    }
+   ]
+  },
+  {
+   "slug": "decret-lege-117-1990",
+   "path": "decret-lege/1990/117",
+   "short": "Decretul-lege nr. 117/1990",
+   "title": "Decretul-lege nr. 117/1990 privind abrogarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/921",
+   "versions": [
+    {
+     "from": "1990-04-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/921",
+     "sha256": "e408fa6d233651acac4d43f9a8df7a276a36721799b0b2c3e549e0bd600dc82f"
+    }
+   ]
+  },
+  {
+   "slug": "decret-lege-120-1990",
+   "path": "decret-lege/1990/120",
+   "short": "Decretul-lege nr. 120/1990",
+   "title": "Decretul-lege nr. 120/1990 privind prelungirea termenului de depunere a candidaturilor pentru Adunarea Deputaţilor, Senat şi Preşedintele României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15010",
+   "versions": [
+    {
+     "from": "1990-04-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15010",
+     "sha256": "cecd148ea704d6d8223a5a35152ce247ed6024cc557dd758f420719c0be2ec02"
+    }
+   ]
+  },
+  {
+   "slug": "decret-lege-131-1990",
+   "path": "decret-lege/1990/131",
+   "short": "Decretul-lege nr. 131/1990",
+   "title": "Decretul-lege nr. 131/1990 privind abrogarea unor prevederi şi acte normative din domeniul transporturilor auto",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/940",
+   "versions": [
+    {
+     "from": "1990-04-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/940",
+     "sha256": "30facf26d5811625bc03196f7253aaa99339581ccb398cdbad759d5462b1eca9"
+    }
+   ]
+  },
+  {
+   "slug": "decret-lege-135-1990",
+   "path": "decret-lege/1990/135",
+   "short": "Decretul-lege nr. 135/1990",
+   "title": "Decretul-lege nr. 135/1990 privind statutul observatorilor străini pentru alegerile din 20 mai 1990",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/945",
+   "versions": [
+    {
+     "from": "1990-04-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/945",
+     "sha256": "3309cb3f05f4e9004cd2d785f9b70573f522da65b4ee20e4374ffee12e976134"
+    }
+   ]
+  },
+  {
+   "slug": "decret-lege-14-1990",
+   "path": "decret-lege/1990/14",
+   "short": "Decretul-lege nr. 14/1990",
+   "title": "Decretul-lege nr. 14/1990 privind abrogarea reglementărilor referitoare la repartizarea în producţie a absolvenţilor instituţiilor de învăţămînt superior, cursurile de zi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/754",
+   "versions": [
+    {
+     "from": "1990-01-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/754",
+     "sha256": "cea78a3855ed555c76ee8c7d8b3cb6c2113a2e521794828cfb87c5a4fdaac1f8"
+    }
+   ]
+  },
+  {
+   "slug": "decret-lege-141-1990",
+   "path": "decret-lege/1990/141",
+   "short": "Decretul-lege nr. 141/1990",
+   "title": "Decretul-lege nr. 141/1990 privind organizarea activităţii de informare şi documentare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/952",
+   "versions": [
+    {
+     "from": "1990-05-12",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/952",
+     "sha256": "5c7810df29f4e6be217753038faeab8eb26b53efc301a72884a0609e4aa8aef0"
+    }
+   ]
+  },
+  {
+   "slug": "decret-lege-143-1990",
+   "path": "decret-lege/1990/143",
+   "short": "Decretul-lege nr. 143/1990",
+   "title": "Decretul-lege nr. 143/1990 privind autorizarea funcţionării în condiţii de autonomie a Secţiei Naţionale Române a Uniunii Medicale Balcanice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/955",
+   "versions": [
+    {
+     "from": "1990-05-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/955",
+     "sha256": "bd870d271206750aeee938c982142711cfbe23d464d6d903d9e441e99a3e9ee7"
+    }
+   ]
+  },
+  {
+   "slug": "decret-lege-144-1990",
+   "path": "decret-lege/1990/144",
+   "short": "Decretul-lege nr. 144/1990",
+   "title": "Decretul-lege nr. 144/1990 privind prelungirea termenului de aplicare a Decretului-lege nr. 25/1990 cu privire la utilizarea şi salarizarea personalului în perioadele de întrerupere a activităţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/956",
+   "versions": [
+    {
+     "from": "1990-05-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/956",
+     "sha256": "478ecdb82f48e5b1c10225ca5d36c5154a6df8a33a1f7b5f97c4a1eb905fdb95"
+    }
+   ]
+  },
+  {
+   "slug": "decret-lege-22-1990",
+   "path": "decret-lege/1990/22",
+   "short": "Decretul-lege nr. 22/1990",
+   "title": "Decretul-lege nr. 22/1990 privind abrogarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/774",
+   "versions": [
+    {
+     "from": "1990-01-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/774",
+     "sha256": "7de8fc639acb054a6655d394556d3339070c2d562682bfd585b6e1057d6a8232"
+    }
+   ]
+  },
+  {
+   "slug": "decret-lege-27-1990",
+   "path": "decret-lege/1990/27",
+   "short": "Decretul-lege nr. 27/1990",
+   "title": "Decretul-lege nr. 27/1990 privind organizarea şi funcţionarea în condiţii de autonomie economică a organizaţiilor de scriitori, artişti plastici şi compozitori, creatori de film şi de teatru",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/788",
+   "versions": [
+    {
+     "from": "1990-01-15",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/788",
+     "sha256": "5e78c670bee01b9a119ce87709c58b353cb3425c8f9fb1af284174428d81acfd"
+    }
+   ]
+  },
+  {
    "slug": "decret-lege-31-1990",
    "path": "decret-lege/1990/31",
    "short": "Decretul-lege nr. 31/1990",
@@ -99157,6 +99352,156 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/799",
      "sha256": "da600475c15127ac28e040cb58c774e759c88ddc01309064add727aa61195d9f"
+    }
+   ]
+  },
+  {
+   "slug": "decret-lege-34-1990",
+   "path": "decret-lege/1990/34",
+   "short": "Decretul-lege nr. 34/1990",
+   "title": "Decretul-lege nr. 34/1990 pentru abrogarea unor acte normative în domeniul preţurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/806",
+   "versions": [
+    {
+     "from": "1990-01-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/806",
+     "sha256": "a6c1656bbdd59c92989007dd760bc04db7753566bf84d69e40ac15d309fd8f74"
+    }
+   ]
+  },
+  {
+   "slug": "decret-lege-38-1990",
+   "path": "decret-lege/1990/38",
+   "short": "Decretul-lege nr. 38/1990",
+   "title": "Decretul-lege nr. 38/1990 privind abrogarea Legii nr. 2/1989 referitoare la organizarea administrativă a teritoriului tarii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/814",
+   "versions": [
+    {
+     "from": "1990-01-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/814",
+     "sha256": "44f806d15e29e2f8926a06d81b1ad9ec3fd5fcf23e0b38902fe68f7ea47b30ff"
+    }
+   ]
+  },
+  {
+   "slug": "decret-lege-44-1990",
+   "path": "decret-lege/1990/44",
+   "short": "Decretul-lege nr. 44/1990",
+   "title": "Decretul-lege nr. 44/1990 privind stabilirea cursurilor în lei ale valutelor altor state",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/829",
+   "versions": [
+    {
+     "from": "1990-02-02",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/829",
+     "sha256": "5b85465f3c9c77b1b58966fa42290c3e7453be1cb4cb06f3fcc7543871ecfc4e"
+    }
+   ]
+  },
+  {
+   "slug": "decret-lege-47-1990",
+   "path": "decret-lege/1990/47",
+   "short": "Decretul-lege nr. 47/1990",
+   "title": "Decretul-lege nr. 47/1990 cu privire la abrogarea Legii nr. 1/1976 pentru adoptarea \"Programului naţional de perspectiva pentru amenajarea bazinelor hidrografice din Republica Socialistă România\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/832",
+   "versions": [
+    {
+     "from": "1990-02-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/832",
+     "sha256": "67566a58839eddffeeaf748db14f10adcec077f76774e89c13a5efc5de1540ed"
+    }
+   ]
+  },
+  {
+   "slug": "decret-lege-48-1990",
+   "path": "decret-lege/1990/48",
+   "short": "Decretul-lege nr. 48/1990",
+   "title": "Decretul-lege nr. 48/1990 privind abrogarea Legii nr. 2/1976 pentru adoptarea \"Programului naţional pentru conservarea şi dezvoltarea fondului forestier în perioada 1976-2010\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/833",
+   "versions": [
+    {
+     "from": "1990-02-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/833",
+     "sha256": "ce2cd8e8c4abaaf307a7e88735e052c5cc12b30915a0a415d2d13406327ae444"
+    }
+   ]
+  },
+  {
+   "slug": "decret-lege-52-1990",
+   "path": "decret-lege/1990/52",
+   "short": "Decretul-lege nr. 52/1990",
+   "title": "Decretul-lege nr. 52/1990 privind abrogarea Decretului nr. 11/1989",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/841",
+   "versions": [
+    {
+     "from": "1990-02-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/841",
+     "sha256": "af9b47d5703ea930e4af5e5eed0b843fd41bc38a2fcf3ecd6465ea84da9302f3"
+    }
+   ]
+  },
+  {
+   "slug": "decret-lege-63-1990",
+   "path": "decret-lege/1990/63",
+   "short": "Decretul-lege nr. 63/1990",
+   "title": "Decretul-lege nr. 63/1990 pentru abrogarea unor prevederi din Decretul nr. 233/1974 , astfel cum a fost modificat şi completat prin Decretul nr. 159/1984 , precum şi din anexa nr. 1 la Decretul nr. 146/1987",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/861",
+   "versions": [
+    {
+     "from": "1990-02-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/861",
+     "sha256": "e4c7db4e618dbf0873e187d231d421475f5f02ae764cd09c0fa2868d78e87c77"
+    }
+   ]
+  },
+  {
+   "slug": "decret-lege-82-1990",
+   "path": "decret-lege/1990/82",
+   "short": "Decretul-lege nr. 82/1990",
+   "title": "Decretul-lege nr. 82/1990 privind componenta Consiliului Provizoriu de Uniune Naţionala şi a biroului executiv al acestuia, precum şi comisiile de specialitate ale consiliului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14964",
+   "versions": [
+    {
+     "from": "1990-02-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14964",
+     "sha256": "ad6cb4a78bd5b860cf8e1bc689790aaf333fb9380fa36ef448a4482672e5fba6"
+    }
+   ]
+  },
+  {
+   "slug": "decret-lege-83-1990",
+   "path": "decret-lege/1990/83",
+   "short": "Decretul-lege nr. 83/1990",
+   "title": "Decretul-lege nr. 83/1990 privind modalităţile de restituire a părţilor sociale ale salariaţilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14965",
+   "versions": [
+    {
+     "from": "1990-02-17",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14965",
+     "sha256": "bd1f39917a2eaa1303d4461325f6829b8da736773300c219b12fbc8d1bfb83b3"
+    }
+   ]
+  },
+  {
+   "slug": "decret-lege-97-1990",
+   "path": "decret-lege/1990/97",
+   "short": "Decretul-lege nr. 97/1990",
+   "title": "Decretul-lege nr. 97/1990 cu privire la abrogarea unor prevederi legale referitoare la termenele de plată a salariilor personalului muncitor în unităţile de construcţii-montaj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14973",
+   "versions": [
+    {
+     "from": "1990-03-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14973",
+     "sha256": "961670728ee4daab3133d538ef1e843cb79145dc708d2ab2554f394b9e13a24f"
     }
    ]
   },
@@ -487007,6 +487352,171 @@
    ]
   },
   {
+   "slug": "hotarare-camera-16-2024",
+   "path": "hotarare-parlament/camera/2024/16",
+   "short": "Hotărârea Camerei Deputaților nr. 16/2024",
+   "title": "Hotărârea Camerei Deputaților nr. 16/2024 privind modificarea art. 84 alin. (2) din Regulamentul Camerei Deputaţilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279644",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279644",
+     "sha256": "6dad2f5561d78d776f5bc1ba6897368e0df24035021e43ac2a38ce11d593f3ae"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-camera-17-2024",
+   "path": "hotarare-parlament/camera/2024/17",
+   "short": "Hotărârea Camerei Deputaților nr. 17/2024",
+   "title": "Hotărârea Camerei Deputaților nr. 17/2024 privind modificarea art. 2 alin. (1) şi (2) şi art. 4 alin. (3) din Regulamentul Camerei Deputaţilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279776",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279776",
+     "sha256": "15e571c1eee861849daa4969958ad669546f978543b6ac42fe8565f8fbb9cbbd"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-camera-36-2024",
+   "path": "hotarare-parlament/camera/2024/36",
+   "short": "Hotărârea Camerei Deputaților nr. 36/2024",
+   "title": "Hotărârea Camerei Deputaților nr. 36/2024 privind modificarea Regulamentului Camerei Deputaţilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/283113",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283113",
+     "sha256": "c14023e220e2a29cf50c309f0dca37271e31060b1b1c1f2cabfb9c9ee1fa07ca"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-camera-72-2023",
+   "path": "hotarare-parlament/camera/2023/72",
+   "short": "Hotărârea Camerei Deputaților nr. 72/2023",
+   "title": "Hotărârea Camerei Deputaților nr. 72/2023 privind modificarea alin. (3) al art. 7 din Regulamentul Camerei Deputaţilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276554",
+   "versions": [
+    {
+     "from": "2023-11-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276554",
+     "sha256": "00d234c879f5da3a8a43ddc567550b5f406744bc2e11953f4170c23406e6fb17"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-camera-73-2021",
+   "path": "hotarare-parlament/camera/2021/73",
+   "short": "Hotărârea Camerei Deputaților nr. 73/2021",
+   "title": "Hotărârea Camerei Deputaților nr. 73/2021 privind modificarea alin. (3) al art. 199 din Regulamentul Camerei Deputaţilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247905",
+   "versions": [
+    {
+     "from": "2021-11-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247905",
+     "sha256": "c5932b216b6b3fea9a99f0e9f702c72272cb507b2903e6ec7c99894301cd3e1c"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-camera-74-2021",
+   "path": "hotarare-parlament/camera/2021/74",
+   "short": "Hotărârea Camerei Deputaților nr. 74/2021",
+   "title": "Hotărârea Camerei Deputaților nr. 74/2021 privind modificarea alin. (3) al art. 201 din Regulamentul Camerei Deputaţilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247906",
+   "versions": [
+    {
+     "from": "2021-11-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247906",
+     "sha256": "70faba1d04361ad787f1e7e7b9e7cd9fd9e6801794088dd4919edc8e70fd8163"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-camera-79-2021",
+   "path": "hotarare-parlament/camera/2021/79",
+   "short": "Hotărârea Camerei Deputaților nr. 79/2021",
+   "title": "Hotărârea Camerei Deputaților nr. 79/2021 privind modificarea şi completarea Regulamentului Camerei Deputaţilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248726",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248726",
+     "sha256": "c216e4f85b3a9e29d24ee21aecb062f4018a74e8f401f97d2d90df14a7a3d368"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-camera-83-2022",
+   "path": "hotarare-parlament/camera/2022/83",
+   "short": "Hotărârea Camerei Deputaților nr. 83/2022",
+   "title": "Hotărârea Camerei Deputaților nr. 83/2022 pentru modificarea Regulamentului Camerei Deputaţilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/262474",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262474",
+     "sha256": "5d0b7d85c141a90dfb3c3fdd1eee6af8fe24d9828463c2b65d02258eb61c9cc6"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-camera-84-2022",
+   "path": "hotarare-parlament/camera/2022/84",
+   "short": "Hotărârea Camerei Deputaților nr. 84/2022",
+   "title": "Hotărârea Camerei Deputaților nr. 84/2022 privind modificarea Regulamentului Camerei Deputaţilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/262475",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262475",
+     "sha256": "aca9e49c422c3832d589d249ecaca69f1155ab11290e5381ec8eced41fdf00f0"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-parlament-28-2023",
+   "path": "hotarare-parlament/parlament/2023/28",
+   "short": "Hotărârea Parlamentului nr. 28/2023",
+   "title": "Hotărârea Parlamentului nr. 28/2023 privind modificarea şi completarea Regulamentului activităţilor comune ale Camerei Deputaţilor şi Senatului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271716",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271716",
+     "sha256": "46e8834e1aa8006cec3e26e08f268a79039b482e96599373f3396b3dc713c9f0"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-senat-50-2022",
+   "path": "hotarare-parlament/senat/2022/50",
+   "short": "Hotărârea Senatului nr. 50/2022",
+   "title": "Hotărârea Senatului nr. 50/2022 pentru modificarea şi completarea Regulamentului Senatului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254643",
+   "versions": [
+    {
+     "from": "2022-05-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254643",
+     "sha256": "9860a6f3ce617c3bb306e32c9526ea519250652262d98fd10521270d1da7650a"
+    }
+   ]
+  },
+  {
    "slug": "legea-1-1993",
    "path": "lege/1993/1",
    "short": "Legea nr. 1/1993",
@@ -624307,6 +624817,27 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11025",
      "sha256": "26c2a95f06aeaed4dbbefd54e7902722c63670984b87a3387db000e802a41b85"
+    }
+   ]
+  },
+  {
+   "slug": "oug-17-1998",
+   "path": "oug/1998/17",
+   "short": "OUG nr. 17/1998",
+   "title": "Ordonanța de urgență a Guvernului nr. 17/1998 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 4/1996 privind acordarea licenţelor de instalare şi operare a reţelelor GSM şi stabilirea taxei de licenţă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214403",
+   "versions": [
+    {
+     "from": "1998-09-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15809",
+     "sha256": "0c05092750806411b3565b741bee3d07f172afa127f03440f3035a6f795e10b8"
+    },
+    {
+     "from": "1999-04-13",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/214403",
+     "sha256": "9819a97dc3bd613aa30b0e2d8d1617f89d16e9ed5518a9fdace305f97f8cbaa3"
     }
    ]
   },

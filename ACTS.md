@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38167 acts, 51,917 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38202 acts, 51,953 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -8006,7 +8006,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (2860, of which 657 amending acts)
+## Emergency ordinances (OUG) (2861, of which 658 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8057,6 +8057,7 @@
 | Ordonanța de urgență a Guvernului nr. 12/1998 | [`oug/1998/12/`](oug/1998/12/) | in force | 28 | 1998-07-08 | 2025-09-12 |
 | Ordonanța de urgență a Guvernului nr. 13/1998 | [`oug/1998/13/`](oug/1998/13/) | in force | 2 | 1998-07-08 | 2009-07-29 |
 | Ordonanța de urgență a Guvernului nr. 15/1998 pentru completarea Ordonanţei Guvernului nr. 11/1996 privind executarea creanţelor bugetare | [`oug/1998/15/`](oug/1998/15/) | amended, not consolidated | 1 | 1998-09-22 | 1998-09-22 |
+| Ordonanța de urgență a Guvernului nr. 17/1998 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 4/1996 privind acordarea licenţelor de instalare şi operare a reţelelor GSM şi stabilirea taxei de licenţă | [`oug/1998/17/`](oug/1998/17/) | amending act | 2 | 1998-09-22 | 1999-04-13 |
 | Ordonanța de urgență a Guvernului nr. 18/1998 cu privire la modificarea şi completarea unor reglementări referitoare la accize şi la taxa pe valoarea adăugată | [`oug/1998/18/`](oug/1998/18/) | amended, not consolidated | 1 | 1998-10-01 | 1998-10-01 |
 | Ordonanța de urgență a Guvernului nr. 20/1998 pentru modificarea Ordonanţei Guvernului nr. 50/1998 privind aprobarea primei de 200 lei/kg la cumpărarea graului din recolta anului 1998 pentru panificaţie, destinat consumului intern, societăţilor comerciale de morărit şi/sau de panificaţie | [`oug/1998/20/`](oug/1998/20/) | amended, not consolidated | 1 | 1998-09-29 | 1998-09-29 |
 | Ordonanța de urgență a Guvernului nr. 24/1998 | [`oug/1998/24/`](oug/1998/24/) | in force | 8 | 1998-10-02 | 2005-05-22 |
@@ -38175,13 +38176,52 @@
 | Hotărârea Guvernului nr. 950/2026 pentru modificarea şi completarea Hotărârii Guvernului nr. 751/2026 privind acordarea unui sprijin financiar de urgenţă în agricultură producătorilor agricoli din sectorul vegetal, pentru suprafeţele cultivate cu porumb şi/sau floarea-soarelui afectate de seceta pedologică manifestată în anul 2025 | [`hg/2026/950/`](hg/2026/950/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 | Hotărârea Guvernului nr. 951/2026 pentru completarea Hotărârii Guvernului nr. 1.074/2021 privind stabilirea sistemului de garanţie-returnare pentru ambalaje primare nereutilizabile | [`hg/2026/951/`](hg/2026/951/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Decree-laws (3)
+## Decree-laws (26, of which 10 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| Decretul-lege nr. 14/1990 privind abrogarea reglementărilor referitoare la repartizarea în producţie a absolvenţilor instituţiilor de învăţămînt superior, cursurile de zi | [`decret-lege/1990/14/`](decret-lege/1990/14/) | amending act | 1 | 1990-01-12 | 1990-01-12 |
+| Decretul-lege nr. 22/1990 privind abrogarea unor acte normative | [`decret-lege/1990/22/`](decret-lege/1990/22/) | amending act | 1 | 1990-01-13 | 1990-01-13 |
+| Decretul-lege nr. 27/1990 privind organizarea şi funcţionarea în condiţii de autonomie economică a organizaţiilor de scriitori, artişti plastici şi compozitori, creatori de film şi de teatru | [`decret-lege/1990/27/`](decret-lege/1990/27/) | in force | 1 | 1990-01-15 | 1990-01-15 |
 | Decretul-lege nr. 31/1990 | [`decret-lege/1990/31/`](decret-lege/1990/31/) | in force | 1 | 1990-01-19 | 1990-01-19 |
+| Decretul-lege nr. 34/1990 pentru abrogarea unor acte normative în domeniul preţurilor | [`decret-lege/1990/34/`](decret-lege/1990/34/) | amending act | 1 | 1990-01-20 | 1990-01-20 |
+| Decretul-lege nr. 38/1990 privind abrogarea Legii nr. 2/1989 referitoare la organizarea administrativă a teritoriului tarii | [`decret-lege/1990/38/`](decret-lege/1990/38/) | amending act | 1 | 1990-01-23 | 1990-01-23 |
+| Decretul-lege nr. 44/1990 privind stabilirea cursurilor în lei ale valutelor altor state | [`decret-lege/1990/44/`](decret-lege/1990/44/) | in force | 1 | 1990-02-02 | 1990-02-02 |
+| Decretul-lege nr. 47/1990 cu privire la abrogarea Legii nr. 1/1976 pentru adoptarea "Programului naţional de perspectiva pentru amenajarea bazinelor hidrografice din Republica Socialistă România" | [`decret-lege/1990/47/`](decret-lege/1990/47/) | in force | 1 | 1990-02-05 | 1990-02-05 |
+| Decretul-lege nr. 48/1990 privind abrogarea Legii nr. 2/1976 pentru adoptarea "Programului naţional pentru conservarea şi dezvoltarea fondului forestier în perioada 1976-2010" | [`decret-lege/1990/48/`](decret-lege/1990/48/) | amending act | 1 | 1990-02-05 | 1990-02-05 |
+| Decretul-lege nr. 52/1990 privind abrogarea Decretului nr. 11/1989 | [`decret-lege/1990/52/`](decret-lege/1990/52/) | amending act | 1 | 1990-02-06 | 1990-02-06 |
+| Decretul-lege nr. 63/1990 pentru abrogarea unor prevederi din Decretul nr. 233/1974 , astfel cum a fost modificat şi completat prin Decretul nr. 159/1984 , precum şi din anexa nr. 1 la Decretul nr. 146/1987 | [`decret-lege/1990/63/`](decret-lege/1990/63/) | amending act | 1 | 1990-02-09 | 1990-02-09 |
+| Decretul-lege nr. 82/1990 privind componenta Consiliului Provizoriu de Uniune Naţionala şi a biroului executiv al acestuia, precum şi comisiile de specialitate ale consiliului | [`decret-lege/1990/82/`](decret-lege/1990/82/) | in force | 1 | 1990-02-14 | 1990-02-14 |
+| Decretul-lege nr. 83/1990 privind modalităţile de restituire a părţilor sociale ale salariaţilor | [`decret-lege/1990/83/`](decret-lege/1990/83/) | in force | 1 | 1990-02-17 | 1990-02-17 |
+| Decretul-lege nr. 97/1990 cu privire la abrogarea unor prevederi legale referitoare la termenele de plată a salariilor personalului muncitor în unităţile de construcţii-montaj | [`decret-lege/1990/97/`](decret-lege/1990/97/) | in force | 1 | 1990-03-20 | 1990-03-20 |
 | Decretul-lege nr. 103/1990 privind unele măsuri referitoare la durata serviciului militar | [`decret-lege/1990/103/`](decret-lege/1990/103/) | in force | 1 | 1990-03-23 | 1990-03-23 |
+| Decretul-lege nr. 105/1990 privind unele măsuri referitoare la alocaţia de stat pentru copii | [`decret-lege/1990/105/`](decret-lege/1990/105/) | in force | 1 | 1990-04-01 | 1990-04-01 |
+| Decretul-lege nr. 108/1990 privind acordarea burselor pentru elevii care urmează cursurile şcolilor militare ale Ministerului de Interne | [`decret-lege/1990/108/`](decret-lege/1990/108/) | in force | 1 | 1990-04-01 | 1990-04-01 |
+| Decretul-lege nr. 110/1990 privind abrogarea şi modificarea unor prevederi din Legea nr. 57/1974 | [`decret-lege/1990/110/`](decret-lege/1990/110/) | amending act | 1 | 1990-04-01 | 1990-04-01 |
+| Decretul-lege nr. 117/1990 privind abrogarea unor acte normative | [`decret-lege/1990/117/`](decret-lege/1990/117/) | amending act | 1 | 1990-04-02 | 1990-04-02 |
 | Decretul-lege nr. 118/1990 | [`decret-lege/1990/118/`](decret-lege/1990/118/) | in force | 25 | 1990-04-09 | 2024-11-16 |
+| Decretul-lege nr. 120/1990 privind prelungirea termenului de depunere a candidaturilor pentru Adunarea Deputaţilor, Senat şi Preşedintele României | [`decret-lege/1990/120/`](decret-lege/1990/120/) | in force | 1 | 1990-04-17 | 1990-04-17 |
+| Decretul-lege nr. 131/1990 privind abrogarea unor prevederi şi acte normative din domeniul transporturilor auto | [`decret-lege/1990/131/`](decret-lege/1990/131/) | amending act | 1 | 1990-04-25 | 1990-04-25 |
+| Decretul-lege nr. 135/1990 privind statutul observatorilor străini pentru alegerile din 20 mai 1990 | [`decret-lege/1990/135/`](decret-lege/1990/135/) | in force | 1 | 1990-04-25 | 1990-04-25 |
+| Decretul-lege nr. 141/1990 privind organizarea activităţii de informare şi documentare | [`decret-lege/1990/141/`](decret-lege/1990/141/) | in force | 1 | 1990-05-12 | 1990-05-12 |
+| Decretul-lege nr. 143/1990 privind autorizarea funcţionării în condiţii de autonomie a Secţiei Naţionale Române a Uniunii Medicale Balcanice | [`decret-lege/1990/143/`](decret-lege/1990/143/) | in force | 1 | 1990-05-12 | 1990-05-12 |
+| Decretul-lege nr. 144/1990 privind prelungirea termenului de aplicare a Decretului-lege nr. 25/1990 cu privire la utilizarea şi salarizarea personalului în perioadele de întrerupere a activităţii | [`decret-lege/1990/144/`](decret-lege/1990/144/) | in force | 1 | 1990-05-12 | 1990-05-12 |
+
+## Parliament's decisions (Senate, Chamber of Deputies, joint sittings) (11, of which 11 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Hotărârea Camerei Deputaților nr. 73/2021 privind modificarea alin. (3) al art. 199 din Regulamentul Camerei Deputaţilor | [`hotarare-parlament/camera/2021/73/`](hotarare-parlament/camera/2021/73/) | amending act | 1 | 2021-11-04 | 2021-11-04 |
+| Hotărârea Camerei Deputaților nr. 74/2021 privind modificarea alin. (3) al art. 201 din Regulamentul Camerei Deputaţilor | [`hotarare-parlament/camera/2021/74/`](hotarare-parlament/camera/2021/74/) | amending act | 1 | 2021-11-04 | 2021-11-04 |
+| Hotărârea Camerei Deputaților nr. 79/2021 privind modificarea şi completarea Regulamentului Camerei Deputaţilor | [`hotarare-parlament/camera/2021/79/`](hotarare-parlament/camera/2021/79/) | amending act | 1 | 2021-11-25 | 2021-11-25 |
+| Hotărârea Senatului nr. 50/2022 pentru modificarea şi completarea Regulamentului Senatului | [`hotarare-parlament/senat/2022/50/`](hotarare-parlament/senat/2022/50/) | amending act | 1 | 2022-05-04 | 2022-05-04 |
+| Hotărârea Camerei Deputaților nr. 83/2022 pentru modificarea Regulamentului Camerei Deputaţilor | [`hotarare-parlament/camera/2022/83/`](hotarare-parlament/camera/2022/83/) | amending act | 1 | 2022-12-14 | 2022-12-14 |
+| Hotărârea Camerei Deputaților nr. 84/2022 privind modificarea Regulamentului Camerei Deputaţilor | [`hotarare-parlament/camera/2022/84/`](hotarare-parlament/camera/2022/84/) | amending act | 1 | 2022-12-14 | 2022-12-14 |
+| Hotărârea Parlamentului nr. 28/2023 privind modificarea şi completarea Regulamentului activităţilor comune ale Camerei Deputaţilor şi Senatului | [`hotarare-parlament/parlament/2023/28/`](hotarare-parlament/parlament/2023/28/) | amending act | 1 | 2023-06-28 | 2023-06-28 |
+| Hotărârea Camerei Deputaților nr. 72/2023 privind modificarea alin. (3) al art. 7 din Regulamentul Camerei Deputaţilor | [`hotarare-parlament/camera/2023/72/`](hotarare-parlament/camera/2023/72/) | amending act | 1 | 2023-11-23 | 2023-11-23 |
+| Hotărârea Camerei Deputaților nr. 16/2024 privind modificarea art. 84 alin. (2) din Regulamentul Camerei Deputaţilor | [`hotarare-parlament/camera/2024/16/`](hotarare-parlament/camera/2024/16/) | amending act | 1 | 2024-03-06 | 2024-03-06 |
+| Hotărârea Camerei Deputaților nr. 17/2024 privind modificarea art. 2 alin. (1) şi (2) şi art. 4 alin. (3) din Regulamentul Camerei Deputaţilor | [`hotarare-parlament/camera/2024/17/`](hotarare-parlament/camera/2024/17/) | amending act | 1 | 2024-03-11 | 2024-03-11 |
+| Hotărârea Camerei Deputaților nr. 36/2024 privind modificarea Regulamentului Camerei Deputaţilor | [`hotarare-parlament/camera/2024/36/`](hotarare-parlament/camera/2024/36/) | amending act | 1 | 2024-05-21 | 2024-05-21 |
 
 ## Historical codes (3)
 
