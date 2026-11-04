@@ -1,6 +1,6 @@
 # Every act in this repository
 
-43305 acts, 57,059 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); an order adds its issuer, `ordin/<issuer>/<year>/<number>[-<series>]/` (`ordin/justitie/2012/492-c/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+43315 acts, 57,069 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); an order adds its issuer, `ordin/<issuer>/<year>/<number>[-<series>]/` (`ordin/justitie/2012/492-c/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -12218,7 +12218,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26931, of which 12561 amending acts)
+## Government decisions (HG) (26941, of which 12564 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13223,7 +13223,17 @@
 | Hotărârea Guvernului nr. 169/2001 privind participarea Ministerului Turismului la manifestările expoziţionale internaţionale de turism în semestrul I al anului 2001 | [`hg/2001/169/`](hg/2001/169/) | amended, not consolidated | 1 | 2001-01-24 | 2001-01-24 |
 | Hotărârea Guvernului nr. 173/2001 privind reorganizarea Regiei Naţionale a Pădurilor | [`hg/2001/173/`](hg/2001/173/) | amended, not consolidated | 1 | 2001-01-29 | 2001-01-29 |
 | Hotărârea Guvernului nr. 189/2001 privind unele măsuri referitoare la efectuarea deplasărilor în străinătate, în interes de serviciu, de către demnitarii şi asimilaţii acestora din administraţia publică | [`hg/2001/189/`](hg/2001/189/) | amended, not consolidated | 1 | 2001-01-30 | 2001-01-30 |
+| Hotărârea Guvernului nr. 208/2001 privind aprobarea prelungirii aplicării unor programe de interes naţional în domeniul protecţiei drepturilor copilului aflat în dificultate | [`hg/2001/208/`](hg/2001/208/) | amending act | 1 | 2001-01-31 | 2001-01-31 |
+| Hotărârea Guvernului nr. 209/2001 privind acordarea unor ajutoare de urgenta | [`hg/2001/209/`](hg/2001/209/) | in force | 1 | 2001-01-31 | 2001-01-31 |
+| Hotărârea Guvernului nr. 211/2001 privind acordarea unor ajutoare de urgenta | [`hg/2001/211/`](hg/2001/211/) | in force | 1 | 2001-01-31 | 2001-01-31 |
+| Hotărârea Guvernului nr. 213/2001 privind stabilirea pentru anul 2001 a bazei materiale destinate activităţii de reprezentare şi protocol, aflată în domeniul public al statului şi în administrarea Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat", şi trecerea unor imobile din domeniul privat al statului în domeniul public al statului | [`hg/2001/213/`](hg/2001/213/) | in force | 1 | 2001-02-05 | 2001-02-05 |
 | Hotărârea Guvernului nr. 214/2001 privind transmiterea unor imobile, situate în municipiul Bucureşti, din administrarea Regiei Autonome "Locato" în administrarea Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat" | [`hg/2001/214/`](hg/2001/214/) | amended, not consolidated | 1 | 2001-02-05 | 2001-02-05 |
+| Hotărârea Guvernului nr. 218/2001 pentru autorizarea efectuării unei plăti cu titlu de despăgubiri de către Ministerul Finanţelor Publice | [`hg/2001/218/`](hg/2001/218/) | in force | 1 | 2001-02-08 | 2001-02-08 |
+| Hotărârea Guvernului nr. 219/2001 pentru aprobarea execuţiei unor pasarele pietonale şi amenajarea unor treceri pentru biciclişti şi persoane cu handicap locomotor pe drumul naţional DN 1, sectorul Bucureşti-Ploieşti | [`hg/2001/219/`](hg/2001/219/) | amending act | 1 | 2001-02-19 | 2001-02-19 |
+| Hotărârea Guvernului nr. 220/2001 privind acordarea unui ajutor umanitar Indiei | [`hg/2001/220/`](hg/2001/220/) | in force | 1 | 2001-02-05 | 2001-02-05 |
+| Hotărârea Guvernului nr. 221/2001 pentru aprobarea bugetelor de venituri şi cheltuieli pe anul 2000, rectificate, ale unor agenţi economici care funcţionează sub autoritatea Ministerului Lucrărilor Publice, Transporturilor şi Locuinţei | [`hg/2001/221/`](hg/2001/221/) | amending act | 1 | 2001-02-08 | 2001-02-08 |
+| Hotărârea Guvernului nr. 223/2001 pentru propunerea domnului Pap Geza în funcţia de Episcop al Eparhiei Reformate din Ardeal, în vederea recunoaşterii prin decret al Preşedintelui României | [`hg/2001/223/`](hg/2001/223/) | in force | 1 | 2001-02-13 | 2001-02-13 |
+| Hotărârea Guvernului nr. 224/2001 pentru stabilirea componentei comisiei de privatizare a Băncii Agricole - S.A | [`hg/2001/224/`](hg/2001/224/) | in force | 1 | 2001-02-12 | 2001-02-12 |
 | Hotărârea Guvernului nr. 225/2001 privind instituirea procedurilor speciale de supraveghere financiară a Societăţii Comerciale "Siderca" - S.A. Călăraşi, societate comercială cu capital majoritar de stat | [`hg/2001/225/`](hg/2001/225/) | in force | 1 | 2001-02-13 | 2001-02-13 |
 | Hotărârea Guvernului nr. 226/2001 privind numirea reprezentanţilor Guvernului în Consiliul Economic şi Social | [`hg/2001/226/`](hg/2001/226/) | amended, not consolidated | 1 | 2001-02-13 | 2001-02-13 |
 | Hotărârea Guvernului nr. 227/2001 privind numirea în funcţia de subprefect al judeţului Botoşani | [`hg/2001/227/`](hg/2001/227/) | in force | 1 | 2001-02-14 | 2001-02-14 |
