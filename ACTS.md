@@ -1,6 +1,6 @@
 # Every act in this repository
 
-27646 acts, 41,289 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+27656 acts, 41,299 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6402,7 +6402,7 @@
 | Ordonanța Guvernului nr. 3/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 70/2022 privind prevenirea, verificarea şi constatarea neregulilor/dublei finanţări, a neregulilor grave apărute în obţinerea şi utilizarea fondurilor externe nerambursabile/rambursabile alocate României prin Mecanismul de redresare şi rezilienţă şi/sau a fondurilor publice naţionale aferente acestora şi recuperarea creanţelor rezultate | [`og/2026/3/`](og/2026/3/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (21253, of which 10952 amending acts)
+## Government decisions (HG) (21263, of which 10957 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6852,7 +6852,17 @@
 | Hotărârea Guvernului nr. 1210/2004 | [`hg/2004/1210/`](hg/2004/1210/) | in force | 8 | 2004-08-09 | 2012-06-01 |
 | Hotărârea Guvernului nr. 1265/2004 | [`hg/2004/1265/`](hg/2004/1265/) | in force | 1 | 2004-08-25 | 2004-08-25 |
 | Hotărârea Guvernului nr. 1266/2004 | [`hg/2004/1266/`](hg/2004/1266/) | in force | 2 | 2004-08-25 | 2006-08-04 |
+| Hotărârea Guvernului nr. 1275/2004 privind suplimentarea bugetului Ministerului Culturii şi Cultelor pe anul 2004, din Fondul de rezervă bugetară la dispoziţia Guvernului, pentru Patriarhia Română - Parohia Ortodoxă Română din Roma, Italia | [`hg/2004/1275/`](hg/2004/1275/) | in force | 1 | 2004-08-23 | 2004-08-23 |
+| Hotărârea Guvernului nr. 1276/2004 privind recunoaşterea "Fundaţiei pentru sprijinul familiilor de vârstnici şi a vârstnicilor aflaţi în situaţie de risc social" ca fiind de utilitate publică | [`hg/2004/1276/`](hg/2004/1276/) | in force | 1 | 2004-08-23 | 2004-08-23 |
+| Hotărârea Guvernului nr. 1279/2004 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru judeţul Olt | [`hg/2004/1279/`](hg/2004/1279/) | in force | 1 | 2004-08-20 | 2004-08-20 |
+| Hotărârea Guvernului nr. 1280/2004 privind aprobarea Strategiei guvernamentale pentru susţinerea dezvoltării întreprinderilor mici şi mijlocii în perioada 2004-2008 | [`hg/2004/1280/`](hg/2004/1280/) | amending act | 1 | 2004-08-27 | 2004-08-27 |
+| Hotărârea Guvernului nr. 1283/2004 privind înfiinţarea Societăţii Comerciale "Electrificare C.F.R." - S.A. ca filială a Companiei Naţionale de Căi Ferate "C.F.R." - S.A | [`hg/2004/1283/`](hg/2004/1283/) | in force | 1 | 2004-08-26 | 2004-08-26 |
+| Hotărârea Guvernului nr. 1284/2004 privind transmiterea, fără plată, a unor bunuri mobile din domeniul privat al statului şi din administrarea Autorităţii pentru Valorificarea Activelor Statului în domeniul public al statului şi în administrarea Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat" | [`hg/2004/1284/`](hg/2004/1284/) | in force | 1 | 2004-08-25 | 2004-08-25 |
+| Hotărârea Guvernului nr. 1290/2004 pentru modificarea Hotărârii Guvernului nr. 725/2003 privind structura organizatorică şi efectivele Ministerului Administraţiei şi Internelor | [`hg/2004/1290/`](hg/2004/1290/) | amending act | 1 | 2004-08-25 | 2004-08-25 |
+| Hotărârea Guvernului nr. 1291/2004 privind aprobarea acordurilor de concesiune pentru dezvoltare-exploatare şi exploatare petrolieră în perimetrele DEE V - 5 Berteşti şi DEE V - 12 Filiu, încheiate între Agenţia Naţională pentru Resurse Minerale şi Societatea Comercială "Transion" - S.R.L | [`hg/2004/1291/`](hg/2004/1291/) | amending act | 1 | 2004-08-26 | 2004-08-26 |
+| Hotărârea Guvernului nr. 1292/2004 privind aprobarea Acordului de concesiune pentru explorare, dezvoltare şi exploatare petrolieră în perimetrul E V - 3 Banat Est, încheiat între Agenţia Naţională pentru Resurse Minerale şi Societatea Comercială "Amro Gold Oil" - S.R.L | [`hg/2004/1292/`](hg/2004/1292/) | amending act | 1 | 2004-08-26 | 2004-08-26 |
 | Hotărârea Guvernului nr. 1294/2004 | [`hg/2004/1294/`](hg/2004/1294/) | in force | 1 | 2004-08-27 | 2004-08-27 |
+| Hotărârea Guvernului nr. 1295/2004 privind aprobarea Planului naţional de acţiune pentru prevenirea şi combaterea traficului de copii | [`hg/2004/1295/`](hg/2004/1295/) | amending act | 1 | 2004-08-31 | 2004-08-31 |
 | Hotărârea Guvernului nr. 1297/2004 privind indexarea pensiilor din sistemul public de pensii şi a unor venituri ale populaţiei începând cu luna septembrie 2004 | [`hg/2004/1297/`](hg/2004/1297/) | in force | 1 | 2004-08-27 | 2004-08-27 |
 | Hotărârea Guvernului nr. 1298/2004 pentru modificarea anexei nr. 7 la Hotărârea Guvernului nr. 344/2004 privind stabilirea condiţiilor de introducere pe piaţă şi/sau de punere în funcţiune a dispozitivelor medicale implantabile active | [`hg/2004/1298/`](hg/2004/1298/) | amending act | 1 | 2004-08-27 | 2004-08-27 |
 | Hotărârea Guvernului nr. 1299/2004 privind înfiinţarea unui compartiment de specialitate pentru perfecţionarea personalului din horticultură în structura Agenţiei Naţionale de Consultanţă Agricolă, prin reorganizarea Centrului de Perfecţionare a Personalului din Horticultură Uzunu | [`hg/2004/1299/`](hg/2004/1299/) | in force | 1 | 2004-08-31 | 2004-08-31 |
