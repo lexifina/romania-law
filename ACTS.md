@@ -1,6 +1,6 @@
 # Every act in this repository
 
-26836 acts, 40,478 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+26837 acts, 40,479 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6168,7 +6168,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (20677, of which 10631 amending acts)
+## Government decisions (HG) (20678, of which 10631 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6655,6 +6655,7 @@
 | Hotărârea Guvernului nr. 1777/2004 | [`hg/2004/1777/`](hg/2004/1777/) | in force | 6 | 2004-12-08 | 2012-01-12 |
 | Hotărârea Guvernului nr. 1842/2004 | [`hg/2004/1842/`](hg/2004/1842/) | in force | 1 | 2004-11-19 | 2004-11-19 |
 | Hotărârea Guvernului nr. 1849/2004 | [`hg/2004/1849/`](hg/2004/1849/) | in force | 4 | 2004-11-16 | 2016-05-11 |
+| Hotărârea Guvernului nr. 1937/2004 privind trecerea unor bunuri din domeniul privat al statului şi din administrarea Ministerului Economiei şi Comerţului în domeniul public al municipiului Râmnicu Vâlcea şi în administrarea Consiliului Local al Municipiului Râmnicu Vâlcea, judeţul Vâlcea | [`hg/2004/1937/`](hg/2004/1937/) | in force | 1 | 2004-11-22 | 2004-11-22 |
 | Hotărârea Guvernului nr. 1938/2004 privind transmiterea unor sectoare de drum din proprietatea publică a judeţului Vrancea şi din administrarea Consiliului Judeţean Vrancea în proprietatea publică a statului şi în administrarea Ministerului Transporturilor, Construcţiilor şi Turismului, în vederea realizării activităţilor de interes naţional de către Compania Naţională de Autostrăzi şi Drumuri Naţionale din România - S.A | [`hg/2004/1938/`](hg/2004/1938/) | in force | 1 | 2004-11-22 | 2004-11-22 |
 | Hotărârea Guvernului nr. 1944/2004 pentru aprobarea Strategiei naţionale anticorupţie pe perioada 2005-2007 | [`hg/2004/1944/`](hg/2004/1944/) | amending act | 1 | 2004-12-15 | 2004-12-15 |
 | Hotărârea Guvernului nr. 1945/2004 privind completarea Listei societăţilor comerciale aflate în portofoliul Autorităţii pentru Valorificarea Activelor Statului, care beneficiază de prevederile art. 14 din Ordonanţa de urgenţă a Guvernului nr. 8/2003 privind stimularea procesului de restructurare, reorganizare şi privatizare a unor societăţi naţionale, companii naţionale şi societăţi comerciale cu capital majoritar de stat, prevăzută în anexa la Hotărârea Guvernului nr. 592/2004 | [`hg/2004/1945/`](hg/2004/1945/) | amending act | 1 | 2004-11-23 | 2004-11-23 |
