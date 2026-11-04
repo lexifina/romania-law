@@ -1,6 +1,6 @@
 # Every act in this repository
 
-27435 acts, 41,078 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+27441 acts, 41,084 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6392,7 +6392,7 @@
 | Ordonanța Guvernului nr. 3/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 70/2022 privind prevenirea, verificarea şi constatarea neregulilor/dublei finanţări, a neregulilor grave apărute în obţinerea şi utilizarea fondurilor externe nerambursabile/rambursabile alocate României prin Mecanismul de redresare şi rezilienţă şi/sau a fondurilor publice naţionale aferente acestora şi recuperarea creanţelor rezultate | [`og/2026/3/`](og/2026/3/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (21052, of which 10869 amending acts)
+## Government decisions (HG) (21058, of which 10871 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6866,7 +6866,13 @@
 | Hotărârea Guvernului nr. 1547/2004 | [`hg/2004/1547/`](hg/2004/1547/) | in force | 1 | 2004-10-12 | 2004-10-12 |
 | Hotărârea Guvernului nr. 1550/2004 | [`hg/2004/1550/`](hg/2004/1550/) | in force | 2 | 2004-10-01 | 2005-02-28 |
 | Hotărârea Guvernului nr. 1553/2004 | [`hg/2004/1553/`](hg/2004/1553/) | in force | 4 | 2007-01-01 | 2011-09-30 |
+| Hotărârea Guvernului nr. 1600/2004 privind suplimentarea bugetului Parchetului Naţional Anticorupţie pe anul 2004 din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2004 | [`hg/2004/1600/`](hg/2004/1600/) | in force | 1 | 2004-10-07 | 2004-10-07 |
+| Hotărârea Guvernului nr. 1601/2004 privind aprobarea finanţării vizitei în România a unor invitaţi străini cu ocazia comemorării, în plan naţional, a Zilei Holocaustului în România | [`hg/2004/1601/`](hg/2004/1601/) | amending act | 1 | 2004-10-08 | 2004-10-08 |
+| Hotărârea Guvernului nr. 1602/2004 privind aprobarea extinderii Sistemului informatic pentru şedinţele Guvernului | [`hg/2004/1602/`](hg/2004/1602/) | amending act | 1 | 2004-10-11 | 2004-10-11 |
 | Hotărârea Guvernului nr. 1603/2004 | [`hg/2004/1603/`](hg/2004/1603/) | in force | 2 | 2004-10-18 | 2005-05-03 |
+| Hotărârea Guvernului nr. 1604/2004 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru judeţul Maramureş | [`hg/2004/1604/`](hg/2004/1604/) | in force | 1 | 2004-10-11 | 2004-10-11 |
+| Hotărârea Guvernului nr. 1605/2004 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru judeţul Bacău | [`hg/2004/1605/`](hg/2004/1605/) | in force | 1 | 2004-10-11 | 2004-10-11 |
+| Hotărârea Guvernului nr. 1606/2004 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru judeţul Alba | [`hg/2004/1606/`](hg/2004/1606/) | in force | 1 | 2004-10-11 | 2004-10-11 |
 | Hotărârea Guvernului nr. 1607/2004 pentru înfiinţarea Centrului român de informare şi documentare în domeniul de activitate al Organizaţiei pentru Cooperare şi Dezvoltare Economică - OCDE şi a Punctului de informare şi documentare OCDE la Bucureşti | [`hg/2004/1607/`](hg/2004/1607/) | in force | 1 | 2004-10-12 | 2004-10-12 |
 | Hotărârea Guvernului nr. 1609/2004 pentru modificarea anexelor 1-3 la hotărârea Guvernului nr. 410/2002 privind structurile şi specializările universitare acreditate sau autorizate să funcţioneze provizoriu din instituţiile de învăţământ superior | [`hg/2004/1609/`](hg/2004/1609/) | amending act | 1 | 2004-10-18 | 2004-10-18 |
 | Hotărârea Guvernului nr. 1610/2004 privind stabilirea unor măsuri pentru organizarea şi desfăşurarea alegerilor pentru Camera Deputaţilor, Senat şi Preşedintele României în anul 2004 | [`hg/2004/1610/`](hg/2004/1610/) | in force | 1 | 2004-10-08 | 2004-10-08 |

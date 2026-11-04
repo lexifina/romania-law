@@ -183452,6 +183452,21 @@
    ]
   },
   {
+   "slug": "hg-1600-2004",
+   "path": "hg/2004/1600",
+   "short": "HG nr. 1600/2004",
+   "title": "Hotărârea Guvernului nr. 1600/2004 privind suplimentarea bugetului Parchetului Naţional Anticorupţie pe anul 2004 din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55672",
+   "versions": [
+    {
+     "from": "2004-10-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55672",
+     "sha256": "201944c08e167d23c4b8eb1fe359124763af6f341fad32cb1e09a9f30c98ac05"
+    }
+   ]
+  },
+  {
    "slug": "hg-1600-2005",
    "path": "hg/2005/1600",
    "short": "HG nr. 1600/2005",
@@ -183508,6 +183523,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292300",
      "sha256": "9dd1ce4590325fed5d515dcd8caf600ab33ac5da14682e99f966b8a1b613919a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1601-2004",
+   "path": "hg/2004/1601",
+   "short": "HG nr. 1601/2004",
+   "title": "Hotărârea Guvernului nr. 1601/2004 privind aprobarea finanţării vizitei în România a unor invitaţi străini cu ocazia comemorării, în plan naţional, a Zilei Holocaustului în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55706",
+   "versions": [
+    {
+     "from": "2004-10-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55706",
+     "sha256": "a00abc00e6431f105cef363686a7ad655a09c6d1d899ebeef807edad8c43e08a"
     }
    ]
   },
@@ -183583,6 +183613,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292301",
      "sha256": "d7d6fb90bd3f02a307dec5a0c1f1c0c5d06500be1fc429b47cc3404330902d66"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1602-2004",
+   "path": "hg/2004/1602",
+   "short": "HG nr. 1602/2004",
+   "title": "Hotărârea Guvernului nr. 1602/2004 privind aprobarea extinderii Sistemului informatic pentru şedinţele Guvernului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55746",
+   "versions": [
+    {
+     "from": "2004-10-11",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55746",
+     "sha256": "19d8c7d50627b1a731be05d3ab2b143d7633d45e46e7ceb1c7de96c72e553773"
     }
    ]
   },
@@ -183698,6 +183743,21 @@
    ]
   },
   {
+   "slug": "hg-1604-2004",
+   "path": "hg/2004/1604",
+   "short": "HG nr. 1604/2004",
+   "title": "Hotărârea Guvernului nr. 1604/2004 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru judeţul Maramureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55747",
+   "versions": [
+    {
+     "from": "2004-10-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55747",
+     "sha256": "b45c5f4e80a341bfefc5d6f87dccca4a5407cd09345d86a1895c8b72c176dc6c"
+    }
+   ]
+  },
+  {
    "slug": "hg-1604-2005",
    "path": "hg/2005/1604",
    "short": "HG nr. 1604/2005",
@@ -183773,6 +183833,21 @@
    ]
   },
   {
+   "slug": "hg-1605-2004",
+   "path": "hg/2004/1605",
+   "short": "HG nr. 1605/2004",
+   "title": "Hotărârea Guvernului nr. 1605/2004 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru judeţul Bacău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55748",
+   "versions": [
+    {
+     "from": "2004-10-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55748",
+     "sha256": "3771a689ab381709a383c5c7299f9478c34304591524b40d239d83acd06f5528"
+    }
+   ]
+  },
+  {
    "slug": "hg-1605-2005",
    "path": "hg/2005/1605",
    "short": "HG nr. 1605/2005",
@@ -183844,6 +183919,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292305",
      "sha256": "9d149f7af562f14116f46cbc94fb165a023470f4370c90ea3bbf0b7b422cf628"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1606-2004",
+   "path": "hg/2004/1606",
+   "short": "HG nr. 1606/2004",
+   "title": "Hotărârea Guvernului nr. 1606/2004 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru judeţul Alba",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55749",
+   "versions": [
+    {
+     "from": "2004-10-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55749",
+     "sha256": "dc94bf1eed5038ba27003519e9e741741063d611e65645d19492239879229db2"
     }
    ]
   },
