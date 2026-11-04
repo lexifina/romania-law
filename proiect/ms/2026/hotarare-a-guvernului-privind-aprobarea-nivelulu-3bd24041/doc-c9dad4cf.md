@@ -1,0 +1,33 @@
+HOTĂRÂRE
+
+privind aprobarea nivelului cotizațiilor și taxei pentru realizarea interconectării cu instituții similare
+internaționale în domeniul donatorilor voluntari de celule stem hematopoietice, precum și pentru
+acreditarea laboratoarelor de imunogenetică și histocompatibilitate, în anul 2025
+
+În temeiul art. 108 din Constituția României, republicată, și al art. 143 alin. (9) din Legea nr. 95/2006 privind
+reforma în domeniul sănătății, republicată, cu modificările și completările ulterioare,
+
+Guvernul României adoptă prezenta hotărâre.
+
+Art. 1 - Se aprobă nivelul cotizațiilor și taxei pentru realizarea interconectării cu instituții similare internaționale
+în domeniul donatorilor voluntari de celule stem hematopoietice, precum și pentru acreditarea laboratoarelor de
+imunogenetică și histocompatibilitate, aferente anului 2025, în cuantum de 15.687 euro.
+
+Art. 2 - (1) Cotizațiile și taxa pentru realizarea interconectării cu instituții similare internaționale sunt următoarele:
+
+a) cotizația de membru al Asociației Mondiale a Donatorilor de Măduvă, în sumă de 11.637 euro;
+
+b) taxa pentru acreditarea de către Federația Europeană de Imunogenetică a laboratoarelor de imunogenetică și
+histocompatibilitate, în sumă de 1.350 euro, care se plătește pentru fiecare dintre cele trei laboratoare acreditate;
+
+(2) Echivalentul în lei al cotizațiilor și taxei prevăzute la alin. (1) se calculează pe baza cursului de schimb leu/euro
+stabilit de Banca Națională a României la data efectuării plății.
+
+(3) Plata cotizațiilor și taxei prevăzute la alin. (1) pentru realizarea interconectării cu instituții similare
+internaționale în domeniul donatorilor voluntari de celule stem hematopoietice, precum și pentru acreditarea
+laboratoarelor de imunogenetică și histocompatibilitate, în valoare de 15.687 euro se suportă din bugetul aprobat
+Ministerului Sănătății pentru anul 2025 prin Registrul Național al Donatorilor Voluntari de Celule Stem
+Hematopoietice, unitate aflată în subordinea ministerului, finanțată integral de la bugetul de stat.
+
+PRIM-MINISTRU
+ILIE – GAVRIL BOLOJAN
