@@ -308309,6 +308309,21 @@
    ]
   },
   {
+   "slug": "hg-417-2001",
+   "path": "hg/2001/417",
+   "short": "HG nr. 417/2001",
+   "title": "Hotărârea Guvernului nr. 417/2001 privind acordarea unor ajutoare de urgenta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28161",
+   "versions": [
+    {
+     "from": "2001-04-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28161",
+     "sha256": "45e979ba48d7330b917d473caee3620a3fb99bd728ca51a68bab6af670b7b02c"
+    }
+   ]
+  },
+  {
    "slug": "hg-417-2002",
    "path": "hg/2002/417",
    "short": "HG nr. 417/2002",
@@ -308620,6 +308635,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296923",
      "sha256": "7a8251e072758275023433e4f8cd523b3c32837b629c15ee7cbc7d765e46f5e9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-418-2001",
+   "path": "hg/2001/418",
+   "short": "HG nr. 418/2001",
+   "title": "Hotărârea Guvernului nr. 418/2001 privind acordarea unor ajutoare de urgenta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28152",
+   "versions": [
+    {
+     "from": "2001-04-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28152",
+     "sha256": "c84e09b4ffd0ca80082e298956dc29c66e034c55fc309cc5e93741ae19100eb2"
     }
    ]
   },
@@ -311579,6 +311609,21 @@
    ]
   },
   {
+   "slug": "hg-428-2001",
+   "path": "hg/2001/428",
+   "short": "HG nr. 428/2001",
+   "title": "Hotărârea Guvernului nr. 428/2001 pentru modificarea Hotărârii Guvernului nr. 27/2001 privind reorganizarea şi funcţionarea aparatului de lucru al Guvernului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28219",
+   "versions": [
+    {
+     "from": "2001-05-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28219",
+     "sha256": "9582cac566d633964a946a3ddc4d0f48ea8130e371e9655aa76f9c3248c03695"
+    }
+   ]
+  },
+  {
    "slug": "hg-428-2002",
    "path": "hg/2002/428",
    "short": "HG nr. 428/2002",
@@ -311845,6 +311890,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/297085",
      "sha256": "0cfe1eee91b20dd3dabb2dccdb3624ceac1722cde5426d7b3d90872b8f6eda15"
+    }
+   ]
+  },
+  {
+   "slug": "hg-429-2001",
+   "path": "hg/2001/429",
+   "short": "HG nr. 429/2001",
+   "title": "Hotărârea Guvernului nr. 429/2001 pentru modificarea şi completarea Hotărârii Guvernului nr. 28/2001 privind organizarea şi funcţionarea Ministerului Culturii şi Cultelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28220",
+   "versions": [
+    {
+     "from": "2001-05-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28220",
+     "sha256": "084f8fdf6888b1591ce54bc10a9751e2c4096be4a8e1eefa89da09a3b7fc18f1"
     }
    ]
   },
@@ -312664,6 +312724,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311274",
      "sha256": "9adab7cdb6015dbe70c8df4ea4064530ae55e92811d52c8b495d81f428a92855"
+    }
+   ]
+  },
+  {
+   "slug": "hg-431-2001",
+   "path": "hg/2001/431",
+   "short": "HG nr. 431/2001",
+   "title": "Hotărârea Guvernului nr. 431/2001 pentru abrogarea Hotărârii Guvernului nr. 995/1999 privind aprobarea concesionarii activităţii de dezinfecţie a mijloacelor de transport rutiere, serviciu public de interes naţional, de la punctele de control pentru trecerea frontierei de stat şi darea în folosinţa gratuită agenţilor economici concesionari a unor terenuri, proprietate publică a statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28312",
+   "versions": [
+    {
+     "from": "2001-05-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28312",
+     "sha256": "074d919ecfac61084069317e9d3cc7922cc48e6fa073271c3cd6e6a69a32c6f9"
     }
    ]
   },
@@ -534352,6 +534427,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271989",
      "sha256": "633e6d6ec99885462be4206b4fce4546999de066715b1a059d2c177a901660e3"
+    }
+   ]
+  },
+  {
+   "slug": "legea-213-2001",
+   "path": "lege/2001/213",
+   "short": "Legea nr. 213/2001",
+   "title": "Legea nr. 213/2001 privind respingerea Ordonanţei Guvernului nr. 74/2000 pentru modificarea art. 9 din Legea nr. 118/1996 privind constituirea şi utilizarea Fondului special al drumurilor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28120",
+   "versions": [
+    {
+     "from": "2001-04-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28120",
+     "sha256": "d13dd95a7d2ce1ab09a886bd69b9c5251fd6efd13728a0c506a20836c4f8536e"
     }
    ]
   },

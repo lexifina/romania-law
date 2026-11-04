@@ -1,6 +1,6 @@
 # Every act in this repository
 
-39032 acts, 52,786 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+39038 acts, 52,792 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8267, of which 3078 amending acts)
+## Laws (legi) (8268, of which 3079 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -950,6 +950,7 @@
 | Legea nr. 209/2001 pentru aprobarea Ordonanței de urgenta a Guvernului nr. 79/2000 privind stingerea unei părți din datoria Companiei Naționale de Electricitate - S.A. către stat cu contravaloarea energiei electrice livrate în Republica Moldova | [`lege/2001/209/`](lege/2001/209/) | amending act | 1 | 2001-04-26 | 2001-04-26 |
 | Legea nr. 211/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 77/1999 privind unele măsuri pentru prevenirea incapacităţii de plată | [`lege/2001/211/`](lege/2001/211/) | amended, not consolidated | 1 | 2001-04-26 | 2001-04-26 |
 | Legea nr. 212/2001 pentru aprobarea Ordonanţei Guvernului nr. 47/1998 privind constituirea şi utilizarea Fondului special al aviaţiei civile | [`lege/2001/212/`](lege/2001/212/) | amended, not consolidated | 1 | 2001-04-26 | 2001-04-26 |
+| Legea nr. 213/2001 privind respingerea Ordonanţei Guvernului nr. 74/2000 pentru modificarea art. 9 din Legea nr. 118/1996 privind constituirea şi utilizarea Fondului special al drumurilor publice | [`lege/2001/213/`](lege/2001/213/) | amending act | 1 | 2001-04-26 | 2001-04-26 |
 | Legea nr. 214/2001 pentru aprobarea Ordonanţei Guvernului nr. 136/2000 privind măsurile de protecţie împotriva introducerii şi răspândirii organismelor de carantina dăunătoare plantelor sau produselor vegetale în România | [`lege/2001/214/`](lege/2001/214/) | amended, not consolidated | 1 | 2001-04-26 | 2001-04-26 |
 | Legea administrației publice locale nr. 215/2001 | [`lege/2001/215/`](lege/2001/215/) | in force | 40 | 2001-05-23 | 2019-07-20 |
 | Legea nr. 217/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 65/2000 privind exceptarea de la plata taxei vamale, a suprataxei şi a taxei pe valoarea adăugată pentru obiectivul de investiţii "Incinerator - sistem de ardere şi neutralizare a deşeurilor din municipiul Oradea" | [`lege/2001/217/`](lege/2001/217/) | amending act | 1 | 2001-05-04 | 2001-05-04 |
@@ -12181,7 +12182,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26817, of which 12512 amending acts)
+## Government decisions (HG) (26822, of which 12515 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13215,8 +13216,13 @@
 | Hotărârea Guvernului nr. 403/2001 | [`hg/2001/403/`](hg/2001/403/) | in force | 1 | 2001-04-25 | 2001-04-25 |
 | Hotărârea Guvernului nr. 404/2001 pentru desemnarea reprezentanţilor Guvernului în Consiliul Naţional pentru Dezvoltare Regionala | [`hg/2001/404/`](hg/2001/404/) | amended, not consolidated | 1 | 2001-04-26 | 2001-04-26 |
 | Hotărârea Guvernului nr. 410/2001 | [`hg/2001/410/`](hg/2001/410/) | in force | 1 | 2001-04-27 | 2001-04-27 |
+| Hotărârea Guvernului nr. 417/2001 privind acordarea unor ajutoare de urgenta | [`hg/2001/417/`](hg/2001/417/) | in force | 1 | 2001-04-27 | 2001-04-27 |
+| Hotărârea Guvernului nr. 418/2001 privind acordarea unor ajutoare de urgenta | [`hg/2001/418/`](hg/2001/418/) | in force | 1 | 2001-04-27 | 2001-04-27 |
 | Hotărârea Guvernului nr. 427/2001 pentru aprobarea Normelor metodologice privind condiţiile de încadrare, drepturile şi obligaţiile asistentului personal al persoanei cu handicap | [`hg/2001/427/`](hg/2001/427/) | amended, not consolidated | 1 | 2001-05-07 | 2001-05-07 |
+| Hotărârea Guvernului nr. 428/2001 pentru modificarea Hotărârii Guvernului nr. 27/2001 privind reorganizarea şi funcţionarea aparatului de lucru al Guvernului | [`hg/2001/428/`](hg/2001/428/) | amending act | 1 | 2001-05-03 | 2001-05-03 |
+| Hotărârea Guvernului nr. 429/2001 pentru modificarea şi completarea Hotărârii Guvernului nr. 28/2001 privind organizarea şi funcţionarea Ministerului Culturii şi Cultelor | [`hg/2001/429/`](hg/2001/429/) | amending act | 1 | 2001-05-03 | 2001-05-03 |
 | Hotărârea Guvernului nr. 430/2001 privind aprobarea Strategiei Guvernului României de îmbunătăţire a situaţiei romilor | [`hg/2001/430/`](hg/2001/430/) | amended, not consolidated | 1 | 2001-05-16 | 2001-05-16 |
+| Hotărârea Guvernului nr. 431/2001 pentru abrogarea Hotărârii Guvernului nr. 995/1999 privind aprobarea concesionarii activităţii de dezinfecţie a mijloacelor de transport rutiere, serviciu public de interes naţional, de la punctele de control pentru trecerea frontierei de stat şi darea în folosinţa gratuită agenţilor economici concesionari a unor terenuri, proprietate publică a statului | [`hg/2001/431/`](hg/2001/431/) | amending act | 1 | 2001-05-09 | 2001-05-09 |
 | Hotărârea Guvernului nr. 434/2001 pentru modificarea Hotărârii Guvernului nr. 415/2000 privind caracterizarea, clasificarea şi marcarea produselor din sticla cristal în vederea comercializării acestora | [`hg/2001/434/`](hg/2001/434/) | amending act | 1 | 2001-05-09 | 2001-05-09 |
 | Hotărârea Guvernului nr. 435/2001 privind garantarea de către Ministerul Finanţelor Publice a unui credit extern pentru Ministerul Justiţiei | [`hg/2001/435/`](hg/2001/435/) | in force | 1 | 2001-05-09 | 2001-05-09 |
 | Hotărârea Guvernului nr. 436/2001 pentru aprobarea Strategiei privind privatizarea societăţilor comerciale din turism | [`hg/2001/436/`](hg/2001/436/) | amended, not consolidated | 1 | 2001-05-09 | 2001-05-09 |
