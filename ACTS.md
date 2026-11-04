@@ -1,6 +1,6 @@
 # Every act in this repository
 
-26986 acts, 40,628 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+27010 acts, 40,652 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3869, of which 2270 amending acts)
+## Laws (legi) (3872, of which 2273 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -564,6 +564,9 @@
 | Legea nr. 393/2004 | [`lege/2004/393/`](lege/2004/393/) | repealed 2019-07-05 | 15 | 2004-12-06 | 2019-07-05 |
 | Legea nr. 403/2004 | [`lege/2004/403/`](lege/2004/403/) | in force | 1 | 2004-10-28 | 2004-10-28 |
 | Legea nr. 411/2004 | [`lege/2004/411/`](lege/2004/411/) | in force | 26 | 2006-07-01 | 2025-04-17 |
+| Legea nr. 414/2004 privind aprobarea Ordonanţei Guvernului nr. 61/2004 pentru modificarea alin. (1) al art. 1 din Ordonanţa Guvernului nr. 64/2001 privind repartizarea profitului la societăţile naţionale, companiile naţionale şi societăţile comerciale cu capital integral sau majoritar de stat, precum şi la regiile autonome | [`lege/2004/414/`](lege/2004/414/) | amending act | 1 | 2004-10-31 | 2004-10-31 |
+| Legea nr. 416/2004 privind aprobarea Ordonanţei Guvernului nr. 50/2004 pentru reglementarea unor măsuri cu privire la finalizarea privatizării unor societăţi comerciale aflate în dificultate | [`lege/2004/416/`](lege/2004/416/) | amending act | 1 | 2004-11-05 | 2004-11-05 |
+| Legea nr. 417/2004 pentru aprobarea contului general anual de execuţie a bugetului asigurărilor sociale de stat pe anul 2002, precum şi a contului anual de execuţie a bugetului asigurărilor pentru şomaj pe anul 2002 | [`lege/2004/417/`](lege/2004/417/) | amending act | 1 | 2004-10-29 | 2004-10-29 |
 | Legea nr. 418/2004 privind statutul profesional specific al medicului de medicina a muncii | [`lege/2004/418/`](lege/2004/418/) | in force | 2 | 2004-11-01 | 2007-03-24 |
 | Legea nr. 421/2004 pentru aprobarea Ordonanţei Guvernului nr. 65/2004 privind trecerea unui teren din domeniul public al statului şi din administrarea Regiei Naţionale a Pădurilor - Romsilva în domeniul privat al statului şi în administrarea Societăţii Naţionale de Gaze Naturale "Romgaz" - S.A. Mediaş | [`lege/2004/421/`](lege/2004/421/) | amending act | 1 | 2004-10-31 | 2004-10-31 |
 | Legea nr. 422/2004 privind completarea Legii nr. 526/2003 pentru aprobarea Programului naţional de dezvoltare a turismului montan "Superschi în Carpaţi" | [`lege/2004/422/`](lege/2004/422/) | amending act | 1 | 2004-10-31 | 2004-10-31 |
@@ -6202,7 +6205,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (20793, of which 10663 amending acts)
+## Government decisions (HG) (20814, of which 10669 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6682,8 +6685,29 @@
 | Hotărârea Guvernului nr. 1693/2004 | [`hg/2004/1693/`](hg/2004/1693/) | in force | 4 | 2004-10-21 | 2022-02-14 |
 | Hotărârea Guvernului nr. 1697/2004 | [`hg/2004/1697/`](hg/2004/1697/) | in force | 1 | 2004-10-28 | 2004-10-28 |
 | Hotărârea Guvernului nr. 1723/2004 | [`hg/2004/1723/`](hg/2004/1723/) | in force | 2 | 2004-11-02 | 2005-12-09 |
+| Hotărârea Guvernului nr. 1724/2004 privind transmiterea unui imobil din proprietatea publică a statului şi din administrarea Ministerului Apărării Naţionale în proprietatea publică a judeţului Vaslui şi în administrarea Consiliului Judeţean Vaslui | [`hg/2004/1724/`](hg/2004/1724/) | in force | 1 | 2004-10-28 | 2004-10-28 |
+| Hotărârea Guvernului nr. 1727/2004 privind suplimentarea bugetului Camerei Deputaţilor din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004 | [`hg/2004/1727/`](hg/2004/1727/) | in force | 1 | 2004-10-25 | 2004-10-25 |
+| Hotărârea Guvernului nr. 1730/2004 privind finanţarea din bugetul Ministerului Educaţiei şi Cercetării pe anul 2004 a lucrărilor de execuţie pentru unele obiective de investiţii, consolidări şi reabilitări de imobile din învăţământul preuniversitar şi universitar | [`hg/2004/1730/`](hg/2004/1730/) | in force | 1 | 2004-10-25 | 2004-10-25 |
+| Hotărârea Guvernului nr. 1732/2004 privind acordarea unui ajutor | [`hg/2004/1732/`](hg/2004/1732/) | in force | 1 | 2004-10-22 | 2004-10-22 |
 | Hotărârea Guvernului nr. 1733/2004 | [`hg/2004/1733/`](hg/2004/1733/) | in force | 1 | 2004-10-25 | 2004-10-25 |
+| Hotărârea Guvernului nr. 1734/2004 privind garantarea de către Ministerul Finanţelor Publice a unui împrumut extern în limita sumei de 22 milioane dolari S.U.A., contractat de Societatea Comercială "Electrocentrale Galaţi" - S.A. filială a Societăţii Comerciale de Producere a Energiei Electrice şi Termice "Termoelectrica" - S.A. Bucureşti, în vederea completării finanţării achiziţiilor de resurse energetice din ţară şi din import pentru iarna 2004-2005 - păcură şi gaze naturale | [`hg/2004/1734/`](hg/2004/1734/) | in force | 1 | 2004-10-25 | 2004-10-25 |
+| Hotărârea Guvernului nr. 1738/2004 pentru aprobarea amendamentului convenit prin schimb de scrisori semnate la Zagreb la 19 decembrie 2003 şi la Bucureşti la 22 ianuarie 2004 şi, respectiv, la Zagreb la 4 iunie 2004, între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, la Acordul de asistenţă financiară nerambursabilă dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, acţionând în calitate de agenţie de implementare a Fondului Global de Mediu, pentru finanţarea Proiectului de eficienţă energetică, semnat la Bucureşti la 18 octombrie 2002 | [`hg/2004/1738/`](hg/2004/1738/) | amending act | 1 | 2004-10-29 | 2004-10-29 |
+| Hotărârea Guvernului nr. 1739/2004 privind înfiinţarea, organizarea şi funcţionarea Comitetului interministerial ştiinţific consultativ pentru evaluarea toxicităţii şi ecotoxicităţii substanţelor chimice periculoase | [`hg/2004/1739/`](hg/2004/1739/) | in force | 1 | 2004-10-28 | 2004-10-28 |
+| Hotărârea Guvernului nr. 1740/2004 privind trecerea unor imobile din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al municipiului Hunedoara şi în administrarea Consiliului Local al Municipiului Hunedoara, judeţul Hunedoara | [`hg/2004/1740/`](hg/2004/1740/) | in force | 1 | 2004-11-04 | 2004-11-04 |
+| Hotărârea Guvernului nr. 1741/2004 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al oraşului Vânju Mare şi în administrarea Consiliului Local al Oraşului Vânju Mare, judeţul Mehedinţi | [`hg/2004/1741/`](hg/2004/1741/) | in force | 1 | 2004-10-28 | 2004-10-28 |
+| Hotărârea Guvernului nr. 1742/2004 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al comunei Bradu şi în administrarea Consiliului Local al Comunei Bradu, judeţul Argeş | [`hg/2004/1742/`](hg/2004/1742/) | in force | 1 | 2004-10-28 | 2004-10-28 |
+| Hotărârea Guvernului nr. 1743/2004 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al municipiului Roman şi în administrarea Consiliului Local al Municipiului Roman, judeţul Neamţ | [`hg/2004/1743/`](hg/2004/1743/) | in force | 1 | 2004-10-28 | 2004-10-28 |
+| Hotărârea Guvernului nr. 1744/2004 privind transmiterea unei părţi dintr-un imobil, proprietate publică a statului, din administrarea Ministerului Apărării Naţionale în administrarea Ministerului Administraţiei şi Internelor, pentru Inspectoratul General al Poliţiei de Frontieră | [`hg/2004/1744/`](hg/2004/1744/) | in force | 1 | 2004-10-28 | 2004-10-28 |
+| Hotărârea Guvernului nr. 1748/2004 privind transmiterea unor terenuri din fondul funciar agricol, în suprafaţă totală de 370,84 ha, din domeniul privat al statului şi din administrarea Agenţiei Domeniilor Statului în fondul forestier proprietate publică a statului şi în administrarea Regiei Naţionale a Pădurilor - Romsilva | [`hg/2004/1748/`](hg/2004/1748/) | in force | 1 | 2004-11-01 | 2004-11-01 |
+| Hotărârea Guvernului nr. 1752/2004 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată, situate pe amplasamentul lucrării "Variantă ocolitoare Adunaţii Copăceni şi reabilitare drum naţional DN 5 între km 19 + 160 - km 23 + 200 pe teritoriul localităţii Adunaţii Copăceni", judeţul Giurgiu, din cadrul obiectivului de investiţie "Variantă ocolitoare Adunaţii Copăceni DN 5" | [`hg/2004/1752/`](hg/2004/1752/) | in force | 1 | 2004-11-09 | 2004-11-09 |
+| Hotărârea Guvernului nr. 1753/2004 privind plata contribuţiei României la Programul "LIFE-Natura" al Comunităţii Europene pentru anii 2004-2006 | [`hg/2004/1753/`](hg/2004/1753/) | in force | 1 | 2004-11-04 | 2004-11-04 |
+| Hotărârea Guvernului nr. 1754/2004 pentru modificarea anexei nr. 1 la Hotărârea Guvernului nr. 837/1995 cu privire la criteriile de salarizare în valută şi celelalte drepturi în valută şi în lei ale personalului trimis în misiune permanentă în străinătate | [`hg/2004/1754/`](hg/2004/1754/) | amending act | 1 | 2004-11-01 | 2004-11-01 |
+| Hotărârea Guvernului nr. 1755/2004 pentru aprobarea încheierii contractului privind componenta variabilă a onorariului încheiat între Societatea Comercială de Distribuţie şi Furnizare a Energiei Electrice "Electrica" - S.A., Societatea Comercială Filiala de Distribuţie şi Furnizare a Energiei Electrice "Electrica Moldova"- S.A., Societatea Comercială Filiala de Distribuţie şi Furnizare a Energiei Electrice "Electrica Oltenia" - S.A. şi Banc of America Securities Limited din Marea Britanie în vederea privatizării Societăţii Comerciale Filiala de Distribuţie şi Furnizare a Energiei Electrice "Electrica Moldova" - S.A. şi a Societăţii Comerciale Filiala de Distribuţie şi Furnizare a Energiei Electrice "Electrica Oltenia" - S.A | [`hg/2004/1755/`](hg/2004/1755/) | amending act | 1 | 2004-11-01 | 2004-11-01 |
+| Hotărârea Guvernului nr. 1757/2004 privind aprobarea bugetelor de venituri şi cheltuieli pe anul 2004, actualizate, ale unor agenţi economici care funcţionează sub autoritatea Ministerului Transporturilor, Construcţiilor şi Turismului | [`hg/2004/1757/`](hg/2004/1757/) | amending act | 1 | 2004-10-28 | 2004-10-28 |
+| Hotărârea Guvernului nr. 1758/2004 privind aprobarea stemei comunei Sânzieni, judeţul Covasna | [`hg/2004/1758/`](hg/2004/1758/) | amending act | 1 | 2004-11-08 | 2004-11-08 |
+| Hotărârea Guvernului nr. 1759/2004 privind aprobarea stemelor unor comune din judeţul Caraş-Severin | [`hg/2004/1759/`](hg/2004/1759/) | amending act | 1 | 2004-11-08 | 2004-11-08 |
 | Hotărârea Guvernului nr. 1760/2004 | [`hg/2004/1760/`](hg/2004/1760/) | in force | 1 | 2004-11-25 | 2004-11-25 |
+| Hotărârea Guvernului nr. 1761/2004 privind suplimentarea bugetului Ministerului Justiţiei din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004 | [`hg/2004/1761/`](hg/2004/1761/) | in force | 1 | 2004-11-01 | 2004-11-01 |
 | Hotărârea Guvernului nr. 1765/2004 pentru modificarea anexei nr. 1 la Hotărârea Guvernului nr. 100/2004 privind organizarea şi funcţionarea Ministerului Afacerilor Externe | [`hg/2004/1765/`](hg/2004/1765/) | amending act | 1 | 2004-11-08 | 2004-11-08 |
 | Hotărârea Guvernului nr. 1766/2004 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 300/2004 privind autorizarea persoanelor fizice şi a asociaţiilor familiale care desfăşoară activităţi economice în mod independent | [`hg/2004/1766/`](hg/2004/1766/) | amending act | 1 | 2004-11-12 | 2004-11-12 |
 | Hotărârea Guvernului nr. 1767/2004 privind modul de organizare şi funcţionare a serviciilor publice comunitare regim permise de conducere şi înmatriculare a vehiculelor | [`hg/2004/1767/`](hg/2004/1767/) | in force | 2 | 2004-11-12 | 2011-06-30 |
