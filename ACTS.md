@@ -1,6 +1,6 @@
 # Every act in this repository
 
-24751 acts, 38,385 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+24768 acts, 38,402 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3713, of which 2161 amending acts)
+## Laws (legi) (3722, of which 2168 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -619,6 +619,15 @@
 | Legea nr. 344/2005 | [`lege/2005/344/`](lege/2005/344/) | in force | 2 | 2006-02-03 | 2023-11-11 |
 | Legea nr. 350/2005 | [`lege/2005/350/`](lege/2005/350/) | in force | 3 | 2006-01-13 | 2015-05-18 |
 | Legea nr. 372/2005 | [`lege/2005/372/`](lege/2005/372/) | in force | 14 | 2007-01-01 | 2024-07-25 |
+| Legea nr. 382/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 57/2005 pentru modificarea Ordonanţei Guvernului nr. 38/2003 privind salarizarea şi alte drepturi ale poliţiştilor | [`lege/2005/382/`](lege/2005/382/) | amending act | 1 | 2005-12-24 | 2005-12-24 |
+| Legea nr. 384/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 72/2005 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 64/1997 privind înfiinţarea Agenţiei Naţionale pentru Dezvoltarea şi Implementarea Programelor de Reconstrucţie a Zonelor Miniere | [`lege/2005/384/`](lege/2005/384/) | amending act | 1 | 2005-12-24 | 2005-12-24 |
+| Legea nr. 386/2005 pentru înfiinţarea comunei Estelnic prin reorganizarea comunei Poian, judeţul Covasna | [`lege/2005/386/`](lege/2005/386/) | in force | 1 | 2005-12-23 | 2005-12-23 |
+| Legea nr. 388/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 121/2005 pentru modificarea art. 6 alin. (4) din Ordonanţa Guvernului nr. 22/2005 privind reorganizarea activităţii de consultanţă agricolă | [`lege/2005/388/`](lege/2005/388/) | amending act | 1 | 2005-12-24 | 2005-12-24 |
+| Legea nr. 390/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 112/2005 pentru abrogarea unei poziţii din anexa la Ordonanţa de urgenţă a Guvernului nr. 36/2001 privind regimul preţurilor şi tarifelor reglementate, care se stabilesc cu avizul Oficiului Concurenţei | [`lege/2005/390/`](lege/2005/390/) | amending act | 1 | 2005-12-24 | 2005-12-24 |
+| Legea nr. 391/2005 pentru exceptarea de la plata taxei pentru ocuparea definitivă a unui teren din Fondul forestier naţional, din proprietatea comunei Gălăuţaş, judeţul Harghita | [`lege/2005/391/`](lege/2005/391/) | in force | 1 | 2005-12-26 | 2005-12-26 |
+| Legea nr. 392/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 81/2005 pentru modificarea alin. (2) al art. 7 din Ordonanţa Guvernului nr. 18/2002 privind funcţionarea Sistemului naţional unic pentru apeluri de urgenţă | [`lege/2005/392/`](lege/2005/392/) | amending act | 1 | 2005-12-23 | 2005-12-23 |
+| Legea nr. 393/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 94/2005 pentru modificarea şi completarea Ordonanţei Guvernului nr. 40/2000 privind acreditarea agenţiilor de credit în vederea administrării fondurilor pentru acordarea de microcredite | [`lege/2005/393/`](lege/2005/393/) | amending act | 1 | 2005-12-23 | 2005-12-23 |
+| Legea nr. 394/2005 privind aprobarea Ordonanţei Guvernului nr. 50/2005 pentru completarea anexei nr. 1 la Ordonanţa Guvernului nr. 41/1994 privind autorizarea plăţii cotizaţiilor la organizaţiile internaţionale interguvernamentale la care România este parte şi pentru aprobarea plăţii cotizaţiei anuale ce decurge din calitatea României de stat membru cu drepturi depline la Programul LEED al Organizaţiei pentru Cooperare şi Dezvoltare Economică (OCDE) | [`lege/2005/394/`](lege/2005/394/) | amending act | 1 | 2005-12-23 | 2005-12-23 |
 | Legea nr. 395/2005 | [`lege/2005/395/`](lege/2005/395/) | in force | 2 | 2005-12-23 | 2010-11-29 |
 | Legea nr. 397/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 141/2005 pentru ratificarea Protocolului adiţional la Scrisoarea de înţelegere privind controlul drogurilor şi aplicarea legii, semnată la Bucureşti la 3 iulie 2001, dintre Guvernul României şi Guvernul Statelor Unite ale Americii, semnat la Bucureşti la 26 septembrie 2005 | [`lege/2005/397/`](lege/2005/397/) | amending act | 1 | 2006-01-01 | 2006-01-01 |
 | Legea nr. 398/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 136/2005 pentru ratificarea Protocolului adiţional, semnat la Bucureşti la 13 septembrie 2005, la Convenţia dintre Ministerul Administraţiei şi Internelor din România şi Ministerul Afacerilor Externe din Republica Franceză privind condiţiile de funcţionare a cursului internaţional al Şcolii de Aplicaţie pentru Ofiţeri "Mihai Viteazul" a Jandarmeriei Române, semnată la Bucureşti la 11 iulie 2003, şi a Protocolului adiţional, semnat la Bucureşti la 13 septembrie 2005, la Convenţia de finanţare dintre Ministerul Administraţiei şi Internelor din România şi Ministerul Afacerilor Externe din Republica Franceză privind participarea părţii franceze la finanţarea întreţinerii stagiarilor de la cursul internaţional al Şcolii de Aplicaţie pentru Ofiţeri "Mihai Viteazul" a Jandarmeriei Române, semnată la Bucureşti la 11 iulie 2003 | [`lege/2005/398/`](lege/2005/398/) | amending act | 1 | 2006-01-08 | 2006-01-08 |
@@ -6022,7 +6031,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (18738, of which 9580 amending acts)
+## Government decisions (HG) (18746, of which 9584 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6619,6 +6628,14 @@
 | Hotărârea Guvernului nr. 1514/2005 | [`hg/2005/1514/`](hg/2005/1514/) | in force | 1 | 2005-12-09 | 2005-12-09 |
 | Hotărârea Guvernului nr. 1579/2005 | [`hg/2005/1579/`](hg/2005/1579/) | in force | 1 | 2006-02-09 | 2006-02-09 |
 | Hotărârea Guvernului nr. 1581/2005 | [`hg/2005/1581/`](hg/2005/1581/) | in force | 1 | 2006-01-11 | 2006-01-11 |
+| Hotărârea Guvernului nr. 1663/2005 pentru aprobarea Protocolului privind cooperarea dintre Ministerul Administraţiei şi Internelor din România şi Ministerul de Interne din Republica Ungară, semnat la Bucureşti la 20 octombrie 2005 | [`hg/2005/1663/`](hg/2005/1663/) | amending act | 1 | 2005-12-29 | 2005-12-29 |
+| Hotărârea Guvernului nr. 1664/2005 pentru modificarea şi completarea Hotărârii Guvernului nr. 65/2005 privind sprijinul direct al statului prin acordarea de subvenţii în anul 2005 producătorilor agricoli din sectorul vegetal, în scopul creşterii producţiei şi a indicilor de calitate a produselor agricole | [`hg/2005/1664/`](hg/2005/1664/) | amending act | 1 | 2005-12-29 | 2005-12-29 |
+| Hotărârea Guvernului nr. 1665/2005 pentru modificarea şi completarea Hotărârii Guvernului nr. 64/2005 privind sprijinul direct al statului prin acordarea de subvenţii, în anul 2005, producătorilor agricoli din sectorul animalier, pentru creşterea producţiei animaliere şi piscicole, precum şi a efectivelor de animale | [`hg/2005/1665/`](hg/2005/1665/) | amending act | 1 | 2005-12-29 | 2005-12-29 |
+| Hotărârea Guvernului nr. 1666/2005 privind corectarea nivelului ajutorului pentru încălzirea locuinţei cu gaze naturale | [`hg/2005/1666/`](hg/2005/1666/) | in force | 1 | 2005-12-29 | 2005-12-29 |
+| Hotărârea Guvernului nr. 1667/2005 privind aprobarea Proiectului de cooperare tehnică pentru Sistemul de Gestiune a Datoriei şi Analiză Financiară, încheiat între Ministerul Finanţelor Publice şi Banca Naţională a României, pe de o parte, şi Conferinţa Naţiunilor Unite pentru Comerţ şi Dezvoltare, pe de altă parte, semnat la Geneva la 12 iulie 2005 şi la Bucureşti la 29 iulie 2005, respectiv la 18 august 2005 | [`hg/2005/1667/`](hg/2005/1667/) | amending act | 1 | 2006-01-13 | 2006-01-13 |
+| Hotărârea Guvernului nr. 1668/2005 privind transmiterea unui imobil, proprietate publică a statului, din administrarea Ministerului Agriculturii, Pădurilor şi Dezvoltării Rurale - Direcţia pentru Agricultură şi Dezvoltare Rurală a Judeţului Maramureş şi Inspectoratul Teritorial pentru Calitatea Seminţelor şi a Materialului Săditor al Judeţului Satu Mare în administrarea Autorităţii Naţionale Sanitare Veterinare şi pentru Siguranţa Alimentelor - Direcţia Sanitară Veterinară şi pentru Siguranţa Alimentelor a Judeţului Maramureş | [`hg/2005/1668/`](hg/2005/1668/) | in force | 1 | 2006-01-04 | 2006-01-04 |
+| Hotărârea Guvernului nr. 1670/2005 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Argeş | [`hg/2005/1670/`](hg/2005/1670/) | in force | 1 | 2005-12-22 | 2005-12-22 |
+| Hotărârea Guvernului nr. 1672/2005 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Bihor | [`hg/2005/1672/`](hg/2005/1672/) | in force | 1 | 2005-12-22 | 2005-12-22 |
 | Hotărârea Guvernului nr. 1673/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Bistriţa-Năsăud | [`hg/2005/1673/`](hg/2005/1673/) | in force | 1 | 2005-12-22 | 2005-12-22 |
 | Hotărârea Guvernului nr. 1674/2005 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Cluj | [`hg/2005/1674/`](hg/2005/1674/) | in force | 1 | 2005-12-22 | 2005-12-22 |
 | Hotărârea Guvernului nr. 1675/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Cluj | [`hg/2005/1675/`](hg/2005/1675/) | in force | 1 | 2005-12-22 | 2005-12-22 |
