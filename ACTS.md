@@ -1,6 +1,6 @@
 # Every act in this repository
 
-20792 acts, 34,425 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+20815 acts, 34,448 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3284, of which 1812 amending acts)
+## Laws (legi) (3288, of which 1813 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1018,7 +1018,11 @@
 | Legea nr. 230/2011 | [`lege/2011/230/`](lege/2011/230/) | in force | 1 | 2011-12-11 | 2011-12-11 |
 | Legea nr. 247/2011 | [`lege/2011/247/`](lege/2011/247/) | in force | 1 | 2011-12-11 | 2011-12-11 |
 | Legea nr. 283/2011 privind aprobarea Ordonanței de urgență a Guvernului nr. 80/2010 pentru completarea art. 11 din Ordonanța de urgență a Guvernului nr. 37/2008 privind reglementarea unor măsuri financiare în domeniul bugetar | [`lege/2011/283/`](lege/2011/283/) | amending act | 2 | 2011-12-17 | 2012-01-18 |
+| Legea nr. 291/2011 pentru aprobarea plafoanelor unor indicatori specificaţi în cadrul fiscal-bugetar aplicabile până la 1 ianuarie 2014 | [`lege/2011/291/`](lege/2011/291/) | amending act | 1 | 2011-12-22 | 2011-12-22 |
 | Legea asistenței sociale nr. 292/2011 | [`lege/2011/292/`](lege/2011/292/) | in force | 10 | 2011-12-23 | 2025-12-31 |
+| Legea nr. 296/2011 pentru ratificarea Tratatului dintre România şi Regatul Norvegiei privind transferarea persoanelor condamnate, semnat la Oslo la 20 septembrie 2010 | [`lege/2011/296/`](lege/2011/296/) | in force | 1 | 2012-01-19 | 2012-01-19 |
+| Legea nr. 297/2011 pentru ratificarea Acordului privind spaţiul aerian comun dintre Uniunea Europeană şi statele membre ale acesteia, pe de o parte, şi Georgia, pe de altă parte, semnat la Bruxelles la 2 decembrie 2010 | [`lege/2011/297/`](lege/2011/297/) | in force | 1 | 2012-01-30 | 2012-01-30 |
+| Legea nr. 298/2011 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Socialiste Vietnam privind cooperarea în domeniul apărării, semnat la Hanoi la 13 aprilie 2011 | [`lege/2011/298/`](lege/2011/298/) | in force | 1 | 2012-01-13 | 2012-01-13 |
 | Legea nr. 9/2012 | [`lege/2012/9/`](lege/2012/9/) | repealed 2013-03-15 | 2 | 2012-01-13 | 2013-03-15 |
 | Legea nr. 30/2012 pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 1/2010 privind unele măsuri de reîncadrare în funcţii a unor categorii de personal din sectorul bugetar şi stabilirea salariilor acestora, precum şi alte măsuri în domeniul bugetar | [`lege/2012/30/`](lege/2012/30/) | amending act | 1 | 2012-03-23 | 2012-03-23 |
 | Legea nr. 33/2012 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 8/2011 pentru completarea art. 22^1 din Ordonanţa Guvernului nr. 43/1997 privind regimul drumurilor | [`lege/2012/33/`](lege/2012/33/) | amending act | 1 | 2012-03-24 | 2012-03-24 |
@@ -3322,7 +3326,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1700, of which 600 amending acts)
+## Emergency ordinances (OUG) (1701, of which 600 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3985,6 +3989,7 @@
 | Ordonanța de urgență a Guvernului nr. 107/2011 pentru modificarea Legii nr. 360/2002 privind Statutul polițistului | [`oug/2011/107/`](oug/2011/107/) | amending act | 2 | 2011-12-07 | 2012-07-05 |
 | Ordonanța de urgență a Guvernului nr. 109/2011 privind guvernanța corporativă a întreprinderilor publice | [`oug/2011/109/`](oug/2011/109/) | in force | 18 | 2011-12-14 | 2025-12-09 |
 | Ordonanța de urgență a Guvernului nr. 111/2011 privind comunicațiile electronice | [`oug/2011/111/`](oug/2011/111/) | in force | 21 | 2011-12-27 | 2024-12-31 |
+| Ordonanța de urgență a Guvernului nr. 112/2011 privind ratificarea Acordului de împrumut (Al treilea împrumut pentru politici de dezvoltare) dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Bucureşti la 20 decembrie 2011 | [`oug/2011/112/`](oug/2011/112/) | in force | 1 | 2011-12-21 | 2011-12-21 |
 | Ordonanța de urgență a Guvernului nr. 113/2011 | [`oug/2011/113/`](oug/2011/113/) | in force | 5 | 2012-01-01 | 2024-04-21 |
 | Ordonanța de urgență a Guvernului nr. 114/2011 | [`oug/2011/114/`](oug/2011/114/) | in force | 5 | 2012-10-01 | 2020-02-12 |
 | Ordonanța de urgență a Guvernului nr. 115/2011 | [`oug/2011/115/`](oug/2011/115/) | in force | 25 | 2011-12-28 | 2025-10-28 |
@@ -5559,7 +5564,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (15242, of which 7772 amending acts)
+## Government decisions (HG) (15260, of which 7780 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8795,7 +8800,25 @@
 | Hotărârea Guvernului nr. 1169/2011 | [`hg/2011/1169/`](hg/2011/1169/) | in force | 1 | 2011-12-12 | 2011-12-12 |
 | Hotărârea Guvernului nr. 1198/2011 | [`hg/2011/1198/`](hg/2011/1198/) | in force | 1 | 2011-12-13 | 2011-12-13 |
 | Hotărârea Guvernului nr. 1212/2011 | [`hg/2011/1212/`](hg/2011/1212/) | in force | 1 | 2011-12-28 | 2011-12-28 |
+| Hotărârea Guvernului nr. 1215/2011 privind repartizarea pe proiecte a sumelor defalcate din taxa pe valoarea adăugată pentru finanţarea Programului de dezvoltare a infrastructurii şi a unor baze sportive din spaţiul rural | [`hg/2011/1215/`](hg/2011/1215/) | in force | 1 | 2011-12-15 | 2011-12-15 |
+| Hotărârea Guvernului nr. 1216/2011 privind aplicarea mobilităţii pentru domnul Mircea Dragoş Valentin din funcţia publică de inspector guvernamental în funcţia publică de subprefect al judeţului Vrancea | [`hg/2011/1216/`](hg/2011/1216/) | in force | 1 | 2011-12-19 | 2011-12-19 |
+| Hotărârea Guvernului nr. 1217/2011 pentru aprobarea amendamentului convenit prin schimbul de scrisori semnate la Bucureşti la 9 septembrie 2011 şi la Paris la 15 septembrie 2011 între Guvernul României şi Banca de Dezvoltare a Consiliului Europei la Acordul-cadru de împrumut dintre România şi Banca de Dezvoltare a Consiliului Europei pentru finanţarea Proiectului privind dezvoltarea la nivel local de servicii comunitare de prevenire a separării copilului de familia sa, precum şi instruirea personalului aferent, semnat la Bucureşti la 29 ianuarie 2007 şi la Paris la 9 februarie 2007 | [`hg/2011/1217/`](hg/2011/1217/) | amending act | 1 | 2011-12-22 | 2011-12-22 |
+| Hotărârea Guvernului nr. 1222/2011 privind aprobarea Listei cuprinzând 40 de obiective de investiţii - platforme de depozitare şi gospodărire a gunoiului de grajd şi a deşeurilor menajere, precum şi a caracteristicilor principale şi a indicatorilor tehnico-economici aferenţi acestora | [`hg/2011/1222/`](hg/2011/1222/) | amending act | 1 | 2011-12-23 | 2011-12-23 |
+| Hotărârea Guvernului nr. 1224/2011 privind stabilirea pentru anul 2011 a cuantumului plăţilor naţionale directe complementare care se acordă în agricultură în sectorul vegetal | [`hg/2011/1224/`](hg/2011/1224/) | in force | 1 | 2011-12-20 | 2011-12-20 |
 | Hotărârea Guvernului nr. 1225/2011 | [`hg/2011/1225/`](hg/2011/1225/) | in force | 1 | 2011-12-27 | 2011-12-27 |
+| Hotărârea Guvernului nr. 1229/2011 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.115/2010 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării de utilitate publică "Varianta de ocolire a municipiului Iaşi - Etapa I - Varianta Sud" - Obiect 1. Varianta trafic greu, sector km 0+000 (DN 28) - km 13+905 (DJ 248) | [`hg/2011/1229/`](hg/2011/1229/) | amending act | 1 | 2011-12-23 | 2011-12-23 |
+| Hotărârea Guvernului nr. 1230/2011 pentru modificarea şi completarea Hotărârii Guvernului nr. 896/2011 privind aprobarea finanţării din bugetul Fondului pentru mediu a unor lucrări destinate prevenirii şi înlăturării efectelor produse de fenomene meteorologice periculoase la lucrările de gospodărire a apelor, aferente unor obiective din domeniul public al statului | [`hg/2011/1230/`](hg/2011/1230/) | amending act | 1 | 2011-12-22 | 2011-12-22 |
+| Hotărârea Guvernului nr. 1231/2011 pentru modificarea şi completarea Hotărârii Guvernului nr. 264/2003 privind stabilirea acţiunilor şi categoriilor de cheltuieli, criteriilor, procedurilor şi limitelor pentru efectuarea de plăţi în avans din fonduri publice | [`hg/2011/1231/`](hg/2011/1231/) | amending act | 1 | 2011-12-22 | 2011-12-22 |
+| Hotărârea Guvernului nr. 1234/2011 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică "Reabilitare DN 19 Oradea-Satu Mare km 5+853-km 135+600" | [`hg/2011/1234/`](hg/2011/1234/) | in force | 1 | 2011-12-23 | 2011-12-23 |
+| Hotărârea Guvernului nr. 1235/2011 privind desfiinţarea Spitalului de Ftiziologie Agigea şi reorganizarea Spitalului Clinic Judeţean de Urgenţă Constanţa | [`hg/2011/1235/`](hg/2011/1235/) | in force | 1 | 2011-12-21 | 2011-12-21 |
+| Hotărârea Guvernului nr. 1237/2011 pentru modificarea şi completarea anexelor nr. 1 şi 2 la Hotărârea Guvernului nr. 245/2011 privind aprobarea Programului Naţional Apicol pentru perioada 2011-2013, a normelor de aplicare, a cuprinsului Ghidului de bune practici pentru apicultură, precum şi a valorii sprijinului financiar | [`hg/2011/1237/`](hg/2011/1237/) | amending act | 1 | 2011-12-28 | 2011-12-28 |
+| Hotărârea Guvernului nr. 1238/2011 privind modificarea anexei nr. 11 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului şi transmiterea unui imobil din administrarea Ministerului Justiţiei în administrarea Consiliului Superior al Magistraturii, pentru Institutul Naţional al Magistraturii | [`hg/2011/1238/`](hg/2011/1238/) | amending act | 1 | 2011-12-28 | 2011-12-28 |
+| Hotărârea Guvernului nr. 1239/2011 privind transmiterea unui imobil aflat în domeniul public al statului din administrarea Ministerului Public - Parchetul de pe lângă Tribunalul Mureş în administrarea Ministerului Justiţiei - Curtea de Apel Târgu Mureş | [`hg/2011/1239/`](hg/2011/1239/) | in force | 1 | 2011-12-28 | 2011-12-28 |
+| Hotărârea Guvernului nr. 1240/2011 pentru delimitarea teritorială a Zonei Libere Sulina | [`hg/2011/1240/`](hg/2011/1240/) | in force | 1 | 2012-01-19 | 2012-01-19 |
+| Hotărârea Guvernului nr. 1242/2011 pentru modificarea Normelor metodologice de aplicare a prevederilor Legii securităţii şi sănătăţii în muncă nr. 319/2006 , aprobate prin Hotărârea Guvernului nr. 1.425/2006 | [`hg/2011/1242/`](hg/2011/1242/) | amending act | 1 | 2011-12-27 | 2011-12-27 |
+| Hotărârea Guvernului nr. 1243/2011 privind exercitarea, cu caracter temporar, în condiţiile legii, a funcţiei publice de subprefect al judeţului Buzău de către domnul Ungureanu Valeriu Alexandru | [`hg/2011/1243/`](hg/2011/1243/) | in force | 1 | 2011-12-22 | 2011-12-22 |
+| Hotărârea Guvernului nr. 1245/2011 privind suplimentarea bugetului Ministerului Mediului şi Pădurilor pe anul 2011 din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2011, pentru plata arieratelor | [`hg/2011/1245/`](hg/2011/1245/) | in force | 1 | 2011-12-21 | 2011-12-21 |
+| Hotărârea Guvernului nr. 1246/2011 privind suplimentarea bugetului Ministerului Transporturilor şi Infrastructurii pe anul 2011 din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2011, pentru plata arieratelor către furnizorii de energie electrică | [`hg/2011/1246/`](hg/2011/1246/) | in force | 1 | 2011-12-21 | 2011-12-21 |
 | Hotărârea Guvernului nr. 1248/2011 privind suplimentarea bugetului Ministerului Dezvoltării Regionale şi Turismului din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2011 | [`hg/2011/1248/`](hg/2011/1248/) | in force | 1 | 2011-12-21 | 2011-12-21 |
 | Hotărârea Guvernului nr. 1249/2011 privind suplimentarea bugetului Ministerului Comunicaţiilor şi Societăţii Informaţionale pe anul 2011 din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2011 | [`hg/2011/1249/`](hg/2011/1249/) | in force | 1 | 2011-12-21 | 2011-12-21 |
 | Hotărârea Guvernului nr. 1250/2011 privind suplimentarea bugetului Ministerului Educaţiei, Cercetării, Tineretului şi Sportului din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2011 | [`hg/2011/1250/`](hg/2011/1250/) | in force | 1 | 2011-12-21 | 2011-12-21 |
