@@ -1,6 +1,6 @@
 # Every act in this repository
 
-27506 acts, 41,149 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+27514 acts, 41,157 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6398,7 +6398,7 @@
 | Ordonanța Guvernului nr. 3/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 70/2022 privind prevenirea, verificarea şi constatarea neregulilor/dublei finanţări, a neregulilor grave apărute în obţinerea şi utilizarea fondurilor externe nerambursabile/rambursabile alocate României prin Mecanismul de redresare şi rezilienţă şi/sau a fondurilor publice naţionale aferente acestora şi recuperarea creanţelor rezultate | [`og/2026/3/`](og/2026/3/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (21117, of which 10891 amending acts)
+## Government decisions (HG) (21125, of which 10893 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6866,8 +6866,16 @@
 | Hotărârea Guvernului nr. 1490/2004 | [`hg/2004/1490/`](hg/2004/1490/) | in force | 2 | 2004-09-28 | 2009-12-16 |
 | Hotărârea Guvernului nr. 1491/2004 | [`hg/2004/1491/`](hg/2004/1491/) | in force | 2 | 2004-09-28 | 2016-08-26 |
 | Hotărârea Guvernului nr. 1492/2004 privind principiile de organizare, funcționarea și atribuțiile serviciilor de urgență profesioniste | [`hg/2004/1492/`](hg/2004/1492/) | in force | 4 | 2004-09-28 | 2024-08-22 |
+| Hotărârea Guvernului nr. 1500/2004 privind aprobarea efectuării unei plăţi din bugetul Ministerului Afacerilor Externe pentru o lucrare contractată în baza Programului naţional "Nicolae Titulescu" | [`hg/2004/1500/`](hg/2004/1500/) | amending act | 1 | 2004-09-21 | 2004-09-21 |
+| Hotărârea Guvernului nr. 1501/2004 privind plata contribuţiei financiare a României, aferentă participării în anul 2004 la Programul comunitar privind reţelele de telecomunicaţii transeuropene - eTEN | [`hg/2004/1501/`](hg/2004/1501/) | in force | 1 | 2004-09-21 | 2004-09-21 |
+| Hotărârea Guvernului nr. 1502/2004 privind suplimentarea bugetului Ministerului Agriculturii, Pădurilor şi Dezvoltării Rurale pe anul 2004 din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004 | [`hg/2004/1502/`](hg/2004/1502/) | in force | 1 | 2004-09-21 | 2004-09-21 |
+| Hotărârea Guvernului nr. 1504/2004 privind aprobarea Planului naţional de acţiune pentru prevenirea şi combaterea abuzului sexual asupra copilului şi a exploatării sexuale a copiilor în scopuri comerciale (2004-2007) | [`hg/2004/1504/`](hg/2004/1504/) | amending act | 1 | 2005-01-01 | 2005-01-01 |
 | Hotărârea Guvernului nr. 1505/2004 | [`hg/2004/1505/`](hg/2004/1505/) | in force | 1 | 2004-09-23 | 2004-09-23 |
 | Hotărârea Guvernului nr. 1506/2004 | [`hg/2004/1506/`](hg/2004/1506/) | in force | 1 | 2004-09-23 | 2004-09-23 |
+| Hotărârea Guvernului nr. 1507/2004 privind autorizarea Companiei Naţionale de Autostrăzi şi Drumuri Naţionale din România - S.A. de a contracta un credit furnizor în sumă de până la 30 milioane euro, în vederea asigurării resurselor financiare necesare contractului de lucrări pentru obiectivul "Fluidizare DN1 Aeroport Băneasa - pasaj Otopeni, km 7+535 - km 11+938" | [`hg/2004/1507/`](hg/2004/1507/) | in force | 1 | 2004-09-23 | 2004-09-23 |
+| Hotărârea Guvernului nr. 1508/2004 privind acordarea unui împrumut Companiei Naţionale de Autostrăzi şi Drumuri Naţionale din România - S.A. în vederea acoperirii deficitului pe anul 2003 | [`hg/2004/1508/`](hg/2004/1508/) | in force | 1 | 2004-09-22 | 2004-09-22 |
+| Hotărârea Guvernului nr. 1509/2004 privind suplimentarea bugetului Ministerului Transporturilor, Construcţiilor şi Turismului din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004 | [`hg/2004/1509/`](hg/2004/1509/) | in force | 1 | 2004-09-22 | 2004-09-22 |
+| Hotărârea Guvernului nr. 1510/2004 privind suplimentarea bugetului Ministerului Transporturilor, Construcţiilor şi Turismului din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004 | [`hg/2004/1510/`](hg/2004/1510/) | in force | 1 | 2004-09-22 | 2004-09-22 |
 | Hotărârea Guvernului nr. 1512/2004 privind suplimentarea bugetului Cancelariei Primului-Ministru din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004 | [`hg/2004/1512/`](hg/2004/1512/) | in force | 1 | 2004-09-24 | 2004-09-24 |
 | Hotărârea Guvernului nr. 1514/2004 pentru aprobarea Memorandumului de înţelegere referitor la cofinanţarea şi administrarea Programului "Activităţi de implementare şi monitorizare a strategiei pentru îmbunătăţirea situaţiei romilor - 2004" dintre Secretariatul General al Guvernului (S.G.G.) Departamentul pentru Relaţii Interetnice (D.R.I.) şi Programul Naţiunilor Unite pentru Dezvoltare (P.N.U.D.), semnat la Bucureşti la 2 septembrie 2004 | [`hg/2004/1514/`](hg/2004/1514/) | amending act | 1 | 2004-10-07 | 2004-10-07 |
 | Hotărârea Guvernului nr. 1516/2004 | [`hg/2004/1516/`](hg/2004/1516/) | in force | 1 | 2004-10-05 | 2004-10-05 |
