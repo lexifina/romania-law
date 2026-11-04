@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38244 acts, 51,995 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38252 acts, 52,003 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -11885,7 +11885,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26325, of which 12314 amending acts)
+## Government decisions (HG) (26333, of which 12317 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13033,6 +13033,14 @@
 | Hotărârea Guvernului nr. 1259/2001 | [`hg/2001/1259/`](hg/2001/1259/) | in force | 2 | 2001-12-28 | 2004-12-30 |
 | Hotărârea Guvernului nr. 1272/2001 pentru majorarea gradului de deschidere a pieţei energiei electrice | [`hg/2001/1272/`](hg/2001/1272/) | amended, not consolidated | 1 | 2001-12-21 | 2001-12-21 |
 | Hotărârea Guvernului nr. 1305/2001 privind exceptarea şi reducerea temporară de la plata taxelor vamale la unele produse din import | [`hg/2001/1305/`](hg/2001/1305/) | amended, not consolidated | 1 | 2002-01-04 | 2002-01-04 |
+| Hotărârea Guvernului nr. 1311/2001 privind transmiterea unui imobil, proprietate publică a statului, din administrarea Ministerului Apărării Naţionale în administrarea Ministerului de Interne | [`hg/2001/1311/`](hg/2001/1311/) | in force | 1 | 2002-01-10 | 2002-01-10 |
+| Hotărârea Guvernului nr. 1312/2001 privind transmiterea unui teren, proprietate publică a statului, din administrarea Ministerului Educaţiei şi Cercetării în administrarea Serviciului Român de Informaţii | [`hg/2001/1312/`](hg/2001/1312/) | in force | 1 | 2002-01-10 | 2002-01-10 |
+| Hotărârea Guvernului nr. 1313/2001 privind transmiterea unui imobil, proprietate publică a statului, din administrarea Direcţiei Fitosanitare a Judeţului Hunedoara în administrarea Direcţiei Generale pentru Agricultura şi Industrie Alimentara a Judeţului Hunedoara | [`hg/2001/1313/`](hg/2001/1313/) | in force | 1 | 2002-01-10 | 2002-01-10 |
+| Hotărârea Guvernului nr. 1314/2001 privind transmiterea unui imobil din proprietatea publică a statului şi din administrarea Ministerului Finanţelor Publice în proprietatea privată a statului şi în administrarea Ministerului Industriei şi Resurselor pentru Institutul de Proiectări pentru Industria Uşoară | [`hg/2001/1314/`](hg/2001/1314/) | in force | 1 | 2002-01-15 | 2002-01-15 |
+| Hotărârea Guvernului nr. 1315/2001 privind măsuri suplimentare de recorelare a pensiilor din sistemul public de pensii | [`hg/2001/1315/`](hg/2001/1315/) | in force | 1 | 2002-01-10 | 2002-01-10 |
+| Hotărârea Guvernului nr. 1316/2001 privind aprobarea cheltuielilor ocazionate de desfăşurarea primei etape a Programului EU - România | [`hg/2001/1316/`](hg/2001/1316/) | amending act | 1 | 2002-01-21 | 2002-01-21 |
+| Hotărârea Guvernului nr. 1321/2001 privind modificarea indicatorilor tehnico-economici ai obiectivelor de investiţii cuprinse în "Programul de dezvoltare a utilităţilor municipale din municipiul Bacău", judeţul Bacău, aprobat prin Hotărârea Guvernului nr. 1.159/1996 | [`hg/2001/1321/`](hg/2001/1321/) | amending act | 1 | 2002-01-15 | 2002-01-15 |
+| Hotărârea Guvernului nr. 1323/2001 privind aprobarea rectificării bugetului de venituri şi cheltuieli pe anul 2001 al Societăţii Naţionale de Radiocomunicaţii - S.A., care funcţionează sub autoritatea Ministerului Comunicaţiilor şi Tehnologiei Informaţiei | [`hg/2001/1323/`](hg/2001/1323/) | amending act | 1 | 2002-01-15 | 2002-01-15 |
 | Hotărârea Guvernului nr. 1324/2001 pentru modificarea Hotărârii Guvernului nr. 686/1997 privind autorizarea Regiei Autonome a Îmbunătăţirilor Funciare pentru achiziţionarea unor pachete agricole, a Comitetului Interministerial de Garanţii şi Credite de Comerţ Exterior pentru aprobarea garantării creditului extern şi a Ministerului Finanţelor de a garanta creditul în numele statului | [`hg/2001/1324/`](hg/2001/1324/) | amending act | 1 | 2002-01-17 | 2002-01-17 |
 | Hotărârea Guvernului nr. 1325/2001 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2001, rectificat, al Institutului Naţional de Cercetare-Dezvoltare în Turism (I.N.C.D.T.), aflat în coordonarea Ministerului Turismului | [`hg/2001/1325/`](hg/2001/1325/) | amending act | 1 | 2002-01-17 | 2002-01-17 |
 | Hotărârea Guvernului nr. 1329/2001 pentru aprobarea Strategiei pe termen mediu şi lung (2001-2005 şi 2005-2010) pentru fabricaţia de rulmenţi din România | [`hg/2001/1329/`](hg/2001/1329/) | amending act | 1 | 2002-01-18 | 2002-01-18 |
