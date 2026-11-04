@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38739 acts, 52,492 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38749 acts, 52,502 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -11072,7 +11072,7 @@
 | Ordonanța de urgență a Guvernului nr. 37/2026 pentru modificarea şi completarea Legii nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor şi protecţia persoanelor | [`oug/2026/37/`](oug/2026/37/) | amending act | 2 | 2026-05-06 | 2026-06-05 |
 | Ordonanța de urgență a Guvernului nr. 39/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 58/2023 privind unele măsuri pentru acordarea unei prime de carieră didactică pentru personalul didactic şi didactic auxiliar, precum şi unei prime de carieră profesională pentru personalul administrativ din învăţământul de stat, suportate din fonduri externe nerambursabile, precum şi pentru instituirea unor reglementări în vederea gestionării Programului Educaţie şi Ocupare 2021-2027 | [`oug/2026/39/`](oug/2026/39/) | amended, not consolidated | 1 | 2026-05-06 | 2026-05-06 |
 
-## Ordinances (OG) (985, of which 115 amending acts)
+## Ordinances (OG) (989, of which 116 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -11405,6 +11405,10 @@
 | Ordonanța Guvernului nr. 33/2001 | [`og/2001/33/`](og/2001/33/) | in force | 2 | 2001-08-23 | 2002-03-25 |
 | Ordonanța Guvernului nr. 34/2001 pentru modificarea şi completarea Legii nr. 146/1997 privind taxele judiciare de timbru | [`og/2001/34/`](og/2001/34/) | amended, not consolidated | 1 | 2001-08-28 | 2001-08-28 |
 | Ordonanța Guvernului nr. 39/2001 pentru aprobarea amendamentelor convenite prin schimb de scrisori între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare cu privire la Acordul de asistenţa financiară nerambursabilă dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare din fondurile Facilităţii globale de mediu (FGM) pentru finanţarea Proiectului "Managementul conservării biodiversităţii", în valoare de 5,5 milioane dolari S.U.A. echivalent, semnat la Washington la 17 iunie 1999, şi pentru modificarea Ordonanţei Guvernului nr. 47/1999 | [`og/2001/39/`](og/2001/39/) | amended, not consolidated | 1 | 2001-08-29 | 2001-08-29 |
+| Ordonanța Guvernului nr. 42/2001 privind aprobarea preluării de către Ministerul Lucrărilor Publice, Transporturilor şi Locuinţei a drepturilor şi obligaţiilor, inclusiv a obligaţiilor de plată a cotizaţiei anuale, ce decurg din calitatea României de membru al Organizaţiei interguvernamentale pentru transporturile internaţionale feroviare (OTIF), constituită în conformitate cu prevederile Convenţiei cu privire la transporturile internaţionale feroviare (COTIF) | [`og/2001/42/`](og/2001/42/) | amending act | 1 | 2001-08-29 | 2001-08-29 |
+| Ordonanța Guvernului nr. 44/2001 pentru ratificarea Memorandumului de finanţare PHARE dintre Guvernul României şi Comisia Europeană privind participarea României la programele comunitare "Leonardo da Vinci II", "Socrates II", "Youth for Europe" şi la Al cincilea program-cadru în domeniul cercetării şi dezvoltării tehnologice - RO0001, semnat la Bucureşti la 27 iulie 2000 | [`og/2001/44/`](og/2001/44/) | in force | 1 | 2001-08-31 | 2001-08-31 |
+| Ordonanța Guvernului nr. 46/2001 pentru ratificarea Memorandumului de finanţare PHARE dintre Guvernul României şi Comisia Europeană referitor la participarea României în anul 2001 la programele comunitare: "LIFE III", Al cincilea program-cadru în domeniul cercetării şi dezvoltării tehnologice, "Fiscalis", "Leonardo da Vinci II", "Socrates II", "Youth" şi "Cultura 2000" - RO001, semnat la Bucureşti la 21 decembrie 2000 | [`og/2001/46/`](og/2001/46/) | in force | 1 | 2001-08-31 | 2001-08-31 |
+| Ordonanța Guvernului nr. 47/2001 pentru ratificarea Memorandumului de finanţare PHARE dintre Guvernul României şi Comisia Europeană referitor la participarea României în anul 2000 la programele comunitare: "Întreprinderi mici şi mijlocii", "Egalitatea şanselor între femei şi bărbaţi", "SAVE II", "Prevenirea SIDA şi a altor câteva boli contagioase" - RO0009, semnat la Bucureşti la 29 decembrie 2000 | [`og/2001/47/`](og/2001/47/) | in force | 1 | 2001-09-01 | 2001-09-01 |
 | Ordonanța Guvernului nr. 49/2001 privind acceptarea unor amendamente la Convenţia internaţionala pentru securitatea containerelor, încheiată la Geneva la 2 decembrie 1972 | [`og/2001/49/`](og/2001/49/) | in force | 2 | 2001-08-31 | 2001-12-13 |
 | Ordonanța Guvernului nr. 50/2001 pentru ratificarea Memorandumului de înțelegere privind controlul statului portului în regiunea Marii Negre, semnat la Istanbul la 7 aprilie 2000 | [`og/2001/50/`](og/2001/50/) | in force | 1 | 2024-05-20 | 2024-05-20 |
 | Ordonanța Guvernului nr. 55/2001 privind scutirea de la plata taxelor vamale a unor importuri necesare Sucursalei "Romag-Prod" din cadrul Regiei Autonome pentru Activităţi Nucleare | [`og/2001/55/`](og/2001/55/) | in force | 1 | 2001-08-31 | 2001-08-31 |
@@ -12062,7 +12066,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26643, of which 12452 amending acts)
+## Government decisions (HG) (26649, of which 12453 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13151,6 +13155,12 @@
 | Hotărârea Guvernului nr. 766/2001 pentru aprobarea Normelor privind reglementarea unor probleme financiare în activitatea sportiva | [`hg/2001/766/`](hg/2001/766/) | amended, not consolidated | 1 | 2001-08-22 | 2001-08-22 |
 | Hotărârea Guvernului nr. 767/2001 | [`hg/2001/767/`](hg/2001/767/) | in force | 1 | 2001-09-02 | 2001-09-02 |
 | Hotărârea Guvernului nr. 776/2001 privind acordarea cetăţeniei române unor persoane | [`hg/2001/776/`](hg/2001/776/) | amended, not consolidated | 1 | 2001-08-27 | 2001-08-27 |
+| Hotărârea Guvernului nr. 778/2001 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului prevăzut în bugetul de stat pe anul 2001, pentru finalizarea obiectivului de investiţii "Alimentare cu apa a oraşului Breaza din sursa Paltinu" | [`hg/2001/778/`](hg/2001/778/) | in force | 1 | 2001-08-23 | 2001-08-23 |
+| Hotărârea Guvernului nr. 779/2001 privind alocarea unor sume din Fondul de rezerva bugetară la dispoziţia Guvernului pe anul 2001 | [`hg/2001/779/`](hg/2001/779/) | in force | 1 | 2001-08-23 | 2001-08-23 |
+| Hotărârea Guvernului nr. 780/2001 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului pe anul 2001 pentru organizarea şi desfăşurarea "Mitingului aerian internaţional român - RoIAS 2001" | [`hg/2001/780/`](hg/2001/780/) | in force | 1 | 2001-08-24 | 2001-08-24 |
+| Hotărârea Guvernului nr. 782/2001 pentru aprobarea Convenţiei dintre Guvernul României şi Guvernul Republicii Slovace privind cooperarea în domeniul medicinei veterinare, semnată la Bratislava la 6 iunie 2000 | [`hg/2001/782/`](hg/2001/782/) | amending act | 1 | 2001-08-27 | 2001-08-27 |
+| Hotărârea Guvernului nr. 784/2001 privind numirea Comisiei pentru efectuarea cercetării prealabile în vederea declarării utilităţii publice pentru lucrarea de interes naţional "Amenajarea hidroenergetica a râului Strei pe sectorul Subcetate - Şimeria" | [`hg/2001/784/`](hg/2001/784/) | in force | 1 | 2001-08-29 | 2001-08-29 |
+| Hotărârea Guvernului nr. 785/2001 privind trecerea unei suprafeţe de teren din domeniul privat al statului în domeniul public al statului şi transmiterea acesteia din administrarea Societăţii Naţionale "Aeroportul Internaţional Bucureşti Băneasa " - S.A. în administrarea Academiei Române de Aviaţie | [`hg/2001/785/`](hg/2001/785/) | in force | 1 | 2001-08-29 | 2001-08-29 |
 | Hotărârea Guvernului nr. 786/2001 pentru modificarea Hotărârii Guvernului nr. 687/2001 privind transmiterea unui imobil proprietate publică a statului din administrarea Ministerului Apărării Naţionale în administrarea Ministerului Sănătăţii şi Familiei | [`hg/2001/786/`](hg/2001/786/) | amending act | 1 | 2001-08-29 | 2001-08-29 |
 | Hotărârea Guvernului nr. 789/2001 privind transferul pachetelor de acţiuni deţinute de stat la unele societăţi comerciale din turism de la Ministerul Turismului la Autoritatea pentru Privatizare şi Administrarea Participaţiilor Statului | [`hg/2001/789/`](hg/2001/789/) | in force | 1 | 2001-08-28 | 2001-08-28 |
 | Hotărârea Guvernului nr. 793/2001 privind transmiterea unor imobile, proprietate publică a statului, din administrarea Ministerului Apărării Naţionale în administrarea Consiliului Local al Municipiului Alba Iulia | [`hg/2001/793/`](hg/2001/793/) | in force | 1 | 2001-08-29 | 2001-08-29 |
