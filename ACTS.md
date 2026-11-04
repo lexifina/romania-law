@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38447 acts, 52,200 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38448 acts, 52,201 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -8105,7 +8105,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (2868, of which 661 amending acts)
+## Emergency ordinances (OUG) (2869, of which 661 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8478,6 +8478,7 @@
 | Ordonanța de urgență a Guvernului nr. 143/2001 pentru aprobarea amendamentelor la Acordul-cadru de împrumut dintre România şi Fondul de Dezvoltare Socială al Consiliului Europei pentru sprijinirea regiunilor afectate de inundaţiile din ultima perioadă, semnat la Paris la 19 ianuarie 1999, convenite prin Scrisoarea Suplimentară între România, prin Ministerul Finanţelor Publice, şi Banca de Dezvoltare a Consiliului Europei, semnată la Paris la 19 iunie 2001 şi la Bucureşti la 23 iulie 2001, şi pentru modificarea Ordonanţei Guvernului nr. 28/1999 de ratificare a Acordului-cadru de împrumut dintre România şi Fondul de Dezvoltare Socială al Consiliului Europei pentru sprijinirea regiunilor afectate de inundaţiile din ultima perioadă, semnat la Paris la 19 ianuarie 1999 | [`oug/2001/143/`](oug/2001/143/) | amended, not consolidated | 1 | 2001-11-14 | 2001-11-14 |
 | Ordonanța de urgență a Guvernului nr. 144/2001 | [`oug/2001/144/`](oug/2001/144/) | in force | 7 | 2001-12-01 | 2006-04-14 |
 | Ordonanța de urgență a Guvernului nr. 146/2001 pentru completarea Ordonanţei Guvernului nr. 21/1992 privind protecţia consumatorilor | [`oug/2001/146/`](oug/2001/146/) | amended, not consolidated | 1 | 2001-11-29 | 2001-11-29 |
+| Ordonanța de urgență a Guvernului nr. 147/2001 pentru ratificarea Aranjamentului stand-by dintre România şi Fondul Monetar Internaţional şi a Memorandumului cu privire la politicile economice şi financiare ale Guvernului României în perioada 2001-2002, convenite prin schimb de scrisori între Bucureşti şi Washington, prin scrisoarea din 17 octombrie 2001 a Ministerului Finanţelor Publice şi Băncii Naţionale a României şi răspunsul din 31 octombrie 2001 al Fondului Monetar Internaţional | [`oug/2001/147/`](oug/2001/147/) | in force | 1 | 2001-11-23 | 2001-11-23 |
 | Ordonanța de urgență a Guvernului nr. 148/2001 pentru aprobarea scutirii de la plata taxei pe valoarea adăugată a unor importuri de bunuri şi a unor servicii contractate în anul 1999, destinate înzestrării Ministerului de Interne | [`oug/2001/148/`](oug/2001/148/) | amending act | 1 | 2001-11-21 | 2001-11-21 |
 | Ordonanța de urgență a Guvernului nr. 149/2001 | [`oug/2001/149/`](oug/2001/149/) | repealed 2011-12-11 | 3 | 2001-11-21 | 2011-12-11 |
 | Ordonanța de urgență a Guvernului nr. 150/2001 pentru aprobarea Amendamentului convenit prin scrisoarea semnată la 10 august 2001 la Luxemburg şi la 10 septembrie 2001 la Bucureşti şi modificarea Ordonanţei Guvernului nr. 97/2000 pentru ratificarea Contractului de finanţare dintre România şi Banca Europeană de Investiţii în vederea finanţării Proiectului de reconstrucţie pentru eliminarea efectelor inundaţiilor, semnat la Luxemburg la 4 august 2000 şi la Bucureşti la 9 august 2000 | [`oug/2001/150/`](oug/2001/150/) | amending act | 1 | 2001-12-12 | 2001-12-12 |
