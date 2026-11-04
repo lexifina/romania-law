@@ -442961,6 +442961,21 @@
    ]
   },
   {
+   "slug": "hg-847-2001",
+   "path": "hg/2001/847",
+   "short": "HG nr. 847/2001",
+   "title": "Hotărârea Guvernului nr. 847/2001 privind transmiterea unui imobil, proprietate publică a statului, din administrarea Băncii Naţionale a României în administrarea Ministerului Administraţiei Publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30478",
+   "versions": [
+    {
+     "from": "2001-09-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30478",
+     "sha256": "81fcfb082cf40317e79c86123b5ad78951647a17ddec5e7e6b7f67d85897e870"
+    }
+   ]
+  },
+  {
    "slug": "hg-847-2002",
    "path": "hg/2002/847",
    "short": "HG nr. 847/2002",
@@ -616480,6 +616495,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15434",
      "sha256": "b3b5d22ed491619069992fd0bfff46bdc40ab206e1e7efd1c35c7836c51a48c0"
+    }
+   ]
+  },
+  {
+   "slug": "og-55-2001",
+   "path": "og/2001/55",
+   "short": "OG nr. 55/2001",
+   "title": "Ordonanța Guvernului nr. 55/2001 privind scutirea de la plata taxelor vamale a unor importuri necesare Sucursalei \"Romag-Prod\" din cadrul Regiei Autonome pentru Activităţi Nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30387",
+   "versions": [
+    {
+     "from": "2001-08-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30387",
+     "sha256": "306569ee32515b0981af209dc6ffbd06503a0f8db86f74aea1463ce3e05b866f"
     }
    ]
   },
