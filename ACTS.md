@@ -1,6 +1,6 @@
 # Every act in this repository
 
-27533 acts, 41,176 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+27537 acts, 41,180 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6400,7 +6400,7 @@
 | Ordonanța Guvernului nr. 3/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 70/2022 privind prevenirea, verificarea şi constatarea neregulilor/dublei finanţări, a neregulilor grave apărute în obţinerea şi utilizarea fondurilor externe nerambursabile/rambursabile alocate României prin Mecanismul de redresare şi rezilienţă şi/sau a fondurilor publice naţionale aferente acestora şi recuperarea creanţelor rezultate | [`og/2026/3/`](og/2026/3/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (21142, of which 10901 amending acts)
+## Government decisions (HG) (21146, of which 10905 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6862,6 +6862,10 @@
 | Hotărârea Guvernului nr. 1440/2004 | [`hg/2004/1440/`](hg/2004/1440/) | in force | 2 | 2005-01-01 | 2006-01-19 |
 | Hotărârea Guvernului nr. 1441/2004 | [`hg/2004/1441/`](hg/2004/1441/) | in force | 2 | 2005-01-01 | 2016-08-12 |
 | Hotărârea Guvernului nr. 1443/2004 | [`hg/2004/1443/`](hg/2004/1443/) | in force | 1 | 2005-01-01 | 2005-01-01 |
+| Hotărârea Guvernului nr. 1463/2004 pentru aprobarea Regulamentului de organizare şi funcţionare a Institutului Naţional de Cercetare-Dezvoltare pentru Textile şi Pielărie - I.N.C.D.T.P. Bucureşti | [`hg/2004/1463/`](hg/2004/1463/) | amending act | 1 | 2004-10-22 | 2004-10-22 |
+| Hotărârea Guvernului nr. 1464/2004 pentru completarea Hotărârii Guvernului nr. 549/2004 privind înfiinţarea Societăţii Comerciale "Baza de Aprovizionare C.F.R." - S.A. ca filială a Companiei Naţionale de Căi Ferate "C.F.R." - S.A | [`hg/2004/1464/`](hg/2004/1464/) | amending act | 1 | 2004-09-16 | 2004-09-16 |
+| Hotărârea Guvernului nr. 1467/2004 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.022/2004 privind organizarea şi funcţionarea Agenţiei Române de Intervenţii şi Salvare Navală - ARISN | [`hg/2004/1467/`](hg/2004/1467/) | amending act | 1 | 2004-09-21 | 2004-09-21 |
+| Hotărârea Guvernului nr. 1469/2004 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii cuprins în programul ISPA "Reabilitarea staţiei de epurare, a reţelei de canalizare şi a sistemului de alimentare cu apă din municipiul Piteşti şi zonele arondate", judeţul Argeş | [`hg/2004/1469/`](hg/2004/1469/) | amending act | 1 | 2004-09-15 | 2004-09-15 |
 | Hotărârea Guvernului nr. 1470/2004 | [`hg/2004/1470/`](hg/2004/1470/) | in force | 2 | 2004-10-18 | 2007-04-24 |
 | Hotărârea Guvernului nr. 1471/2004 pentru modificarea art. 8 lit. a) din Hotărârea Guvernului nr. 281/1993 cu privire la salarizarea personalului din unităţile bugetare | [`hg/2004/1471/`](hg/2004/1471/) | amending act | 1 | 2004-09-17 | 2004-09-17 |
 | Hotărârea Guvernului nr. 1474/2004 pentru aprobarea Memorandumului de înţelegere dintre Ministerul Transporturilor, Construcţiilor şi Turismului - Autoritatea Naţională pentru Turism din România şi Administraţia Naţională a Turismului din Republica Populară Chineză privind programul de derulare pentru turismul organizat al cetăţenilor chinezi în România, semnat la Bucureşti la 13 iunie 2004 | [`hg/2004/1474/`](hg/2004/1474/) | amending act | 1 | 2004-09-20 | 2004-09-20 |

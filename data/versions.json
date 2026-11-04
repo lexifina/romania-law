@@ -170246,6 +170246,21 @@
    ]
   },
   {
+   "slug": "hg-1463-2004",
+   "path": "hg/2004/1463",
+   "short": "HG nr. 1463/2004",
+   "title": "Hotărârea Guvernului nr. 1463/2004 pentru aprobarea Regulamentului de organizare şi funcţionare a Institutului Naţional de Cercetare-Dezvoltare pentru Textile şi Pielărie - I.N.C.D.T.P. Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55329",
+   "versions": [
+    {
+     "from": "2004-10-22",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55329",
+     "sha256": "276a6eaa4e82414d6612d5aa0cfe3573a9f8fb32211b9bf5ba64bcbc3768597d"
+    }
+   ]
+  },
+  {
    "slug": "hg-1463-2006",
    "path": "hg/2006/1463",
    "short": "HG nr. 1463/2006",
@@ -170302,6 +170317,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262890",
      "sha256": "6911c58fe8a5cc4ebbcc4861fe5b4515ec0d789b430fee4f41c22b4c1fc2ef39"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1464-2004",
+   "path": "hg/2004/1464",
+   "short": "HG nr. 1464/2004",
+   "title": "Hotărârea Guvernului nr. 1464/2004 pentru completarea Hotărârii Guvernului nr. 549/2004 privind înfiinţarea Societăţii Comerciale \"Baza de Aprovizionare C.F.R.\" - S.A. ca filială a Companiei Naţionale de Căi Ferate \"C.F.R.\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55207",
+   "versions": [
+    {
+     "from": "2004-09-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55207",
+     "sha256": "52e8178202b42834730100df89a5b4e65797a61034a79374b8029b35bd356d38"
     }
    ]
   },
@@ -170561,6 +170591,21 @@
    ]
   },
   {
+   "slug": "hg-1467-2004",
+   "path": "hg/2004/1467",
+   "short": "HG nr. 1467/2004",
+   "title": "Hotărârea Guvernului nr. 1467/2004 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.022/2004 privind organizarea şi funcţionarea Agenţiei Române de Intervenţii şi Salvare Navală - ARISN",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55293",
+   "versions": [
+    {
+     "from": "2004-09-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55293",
+     "sha256": "cdc669abe25a1c570f41f7de5ab2b6a29abf8a1981ffe163b302d223eebe536d"
+    }
+   ]
+  },
+  {
    "slug": "hg-1467-2006",
    "path": "hg/2006/1467",
    "short": "HG nr. 1467/2006",
@@ -170713,6 +170758,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291346",
      "sha256": "d5f548b92732f162cf41333ccf95faf1d31638cb3b695f919a8d6658e4777f47"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1469-2004",
+   "path": "hg/2004/1469",
+   "short": "HG nr. 1469/2004",
+   "title": "Hotărârea Guvernului nr. 1469/2004 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii cuprins în programul ISPA \"Reabilitarea staţiei de epurare, a reţelei de canalizare şi a sistemului de alimentare cu apă din municipiul Piteşti şi zonele arondate\", judeţul Argeş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55170",
+   "versions": [
+    {
+     "from": "2004-09-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55170",
+     "sha256": "12bfe7eb8c321a334c210b548cf0dc205b46c0f063a72b3670cf2d7bda806f79"
     }
    ]
   },
