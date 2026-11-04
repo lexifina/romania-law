@@ -323033,6 +323033,21 @@
    ]
   },
   {
+   "slug": "hg-820-2006",
+   "path": "hg/2006/820",
+   "short": "HG nr. 820/2006",
+   "title": "Hotărârea Guvernului nr. 820/2006 privind acordarea unor ajutoare de urgenţă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73025",
+   "versions": [
+    {
+     "from": "2006-06-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73025",
+     "sha256": "ede6ea9c5e2c10dc03c877f87a68e974db0d87f4d3924291c40b36da23772fb8"
+    }
+   ]
+  },
+  {
    "slug": "hg-820-2011",
    "path": "hg/2011/820",
    "short": "HG nr. 820/2011",
@@ -323228,6 +323243,21 @@
    ]
   },
   {
+   "slug": "hg-821-2006",
+   "path": "hg/2006/821",
+   "short": "HG nr. 821/2006",
+   "title": "Hotărârea Guvernului nr. 821/2006 privind acordarea unui ajutor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73026",
+   "versions": [
+    {
+     "from": "2006-06-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73026",
+     "sha256": "9f1f8edf17092ab62a88d0b8c7a715b1874a23f4356615c57182ba6e69cf6d50"
+    }
+   ]
+  },
+  {
    "slug": "hg-821-2007",
    "path": "hg/2007/821",
    "short": "HG nr. 821/2007",
@@ -323419,6 +323449,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285464",
      "sha256": "809f450582f78c521f05d235b8bfd6164689592320516cade524688688dc8837"
+    }
+   ]
+  },
+  {
+   "slug": "hg-822-2006",
+   "path": "hg/2006/822",
+   "short": "HG nr. 822/2006",
+   "title": "Hotărârea Guvernului nr. 822/2006 privind acordarea unui ajutor umanitar de urgenţă pentru populaţia din judeţele Bistriţa-Năsăud, Dolj, Galaţi şi Maramureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73027",
+   "versions": [
+    {
+     "from": "2006-06-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73027",
+     "sha256": "91e950801b454ede4062f58ef05a449981ea09a51dabb8c9fad85b9d10423ef6"
     }
    ]
   },
@@ -323629,6 +323674,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302833",
      "sha256": "2fa73a59fa76230a502a2512a2c3f6b6e387f746d94d6b6c32fd2891fd0aff12"
+    }
+   ]
+  },
+  {
+   "slug": "hg-823-2006",
+   "path": "hg/2006/823",
+   "short": "HG nr. 823/2006",
+   "title": "Hotărârea Guvernului nr. 823/2006 privind acordarea unui ajutor umanitar de urgenţă pentru judeţele Buzău şi Dolj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73028",
+   "versions": [
+    {
+     "from": "2006-06-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73028",
+     "sha256": "3ba501f3ae7edb877c81b087797f21fffcc2a3b7da438acf8b33f332acd0f3fa"
     }
    ]
   },
@@ -324233,6 +324293,21 @@
    ]
   },
   {
+   "slug": "hg-826-2006",
+   "path": "hg/2006/826",
+   "short": "HG nr. 826/2006",
+   "title": "Hotărârea Guvernului nr. 826/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru asigurarea unor cheltuieli curente şi de capital ale autorităţilor administraţiei publice locale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73182",
+   "versions": [
+    {
+     "from": "2006-07-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73182",
+     "sha256": "b136b5a16c1eacfe3a503da86e1792e38c48252b5b8dc8791879c9ea8bf46498"
+    }
+   ]
+  },
+  {
    "slug": "hg-826-2008",
    "path": "hg/2008/826",
    "short": "HG nr. 826/2008",
@@ -324424,6 +324499,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302854",
      "sha256": "da9db3df669d307075a7ca4b2c129717a8374fedcadfccae5281c99b4b52fc14"
+    }
+   ]
+  },
+  {
+   "slug": "hg-827-2006",
+   "path": "hg/2006/827",
+   "short": "HG nr. 827/2006",
+   "title": "Hotărârea Guvernului nr. 827/2006 privind suplimentarea bugetului Ministerului Agriculturii, Pădurilor şi Dezvoltării Rurale din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru realizarea în regim de urgenţă a unor lucrări de înlăturare a efectelor inundaţiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73147",
+   "versions": [
+    {
+     "from": "2006-07-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73147",
+     "sha256": "94e10f52b7a26935d4b6283863821e2b1ff0124262d92e295536c3ea75e21b92"
     }
    ]
   },
@@ -324665,6 +324755,21 @@
    ]
   },
   {
+   "slug": "hg-828-2006",
+   "path": "hg/2006/828",
+   "short": "HG nr. 828/2006",
+   "title": "Hotărârea Guvernului nr. 828/2006 privind declararea stării de calamitate naturală în agricultură pentru culturile însămânţate în toamna anului 2005 şi în primăvara anului 2006, ca urmare a fenomenelor meteorologice din perioada aprilie-mai 2006, înregistrate în unele zone geografice, precum şi stabilirea nivelului maxim al sumei ce poate fi acordată ca despăgubire",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73082",
+   "versions": [
+    {
+     "from": "2006-06-30",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73082",
+     "sha256": "edf90952ed85da779c67158e294eaba2516cc4dc67d74cead23d089d9755e495"
+    }
+   ]
+  },
+  {
    "slug": "hg-828-2008",
    "path": "hg/2008/828",
    "short": "HG nr. 828/2008",
@@ -324796,6 +324901,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245213",
      "sha256": "5940cd41c836c673b5e61916acb2177ee85be7254002727c3f584d6b3ba62c96"
+    }
+   ]
+  },
+  {
+   "slug": "hg-829-2006",
+   "path": "hg/2006/829",
+   "short": "HG nr. 829/2006",
+   "title": "Hotărârea Guvernului nr. 829/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru judeţul Mureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73083",
+   "versions": [
+    {
+     "from": "2006-06-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73083",
+     "sha256": "ac405a5ba24808cb651bf7183adbbd41c5f8456c8bfd5cc923c3a90d6a0704d2"
     }
    ]
   },
@@ -325115,6 +325235,21 @@
    ]
   },
   {
+   "slug": "hg-830-2006",
+   "path": "hg/2006/830",
+   "short": "HG nr. 830/2006",
+   "title": "Hotărârea Guvernului nr. 830/2006 privind suplimentarea bugetelor unor ordonatori principali de credite din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru finanţarea achiziţiei unor bunuri, servicii şi active nefinanciare necesare îndeplinirii misiunilor specifice cu ocazia manifestărilor care se vor desfăşura în cadrul Anului Francofoniei în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73075",
+   "versions": [
+    {
+     "from": "2006-06-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73075",
+     "sha256": "ea1f39227988be01a41365507e272f6371dbae71b867f9343f4e6ce0cb1c8f55"
+    }
+   ]
+  },
+  {
    "slug": "hg-830-2010",
    "path": "hg/2010/830",
    "short": "HG nr. 830/2010",
@@ -325312,6 +325447,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/52623",
      "sha256": "56c47701197068a560cf1515a5ebaecf7f1c08a7e7ed5b4b3a77c670b251e2fb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-831-2006",
+   "path": "hg/2006/831",
+   "short": "HG nr. 831/2006",
+   "title": "Hotărârea Guvernului nr. 831/2006 privind transmiterea unui sector de drum aflat în domeniul public al statului din administrarea Ministerului Finanţelor Publice - Agenţia Naţională de Administrare Fiscală - Autoritatea Naţională a Vămilor în administrarea Ministerului Transporturilor, Construcţiilor şi Turismului, în vederea realizării activităţilor de interes naţional de către Compania Naţională de Autostrăzi şi Drumuri Naţionale din România - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73243",
+   "versions": [
+    {
+     "from": "2006-07-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73243",
+     "sha256": "da4c98c5fc81deeda4759a08a6f495058f2cea780badbbdb035890a942affe3c"
     }
    ]
   },
@@ -325703,6 +325853,21 @@
    ]
   },
   {
+   "slug": "hg-833-2006",
+   "path": "hg/2006/833",
+   "short": "HG nr. 833/2006",
+   "title": "Hotărârea Guvernului nr. 833/2006 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al comunei Mihai Eminescu, judeţul Botoşani, şi în administrarea Consiliului Local al Comunei Mihai Eminescu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73244",
+   "versions": [
+    {
+     "from": "2006-07-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73244",
+     "sha256": "2fb930b545a5db157223b925b715f414bf29a975210c0990ea4d0e4c54e1f01b"
+    }
+   ]
+  },
+  {
    "slug": "hg-833-2009",
    "path": "hg/2009/833",
    "short": "HG nr. 833/2009",
@@ -325879,6 +326044,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302855",
      "sha256": "60460bfc42099a982b5b1974dc70bb8ca1ca3286f55e54557b53febc5e41f4d0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-834-2006",
+   "path": "hg/2006/834",
+   "short": "HG nr. 834/2006",
+   "title": "Hotărârea Guvernului nr. 834/2006 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al oraşului Avrig şi în administrarea Consiliului Local al Oraşului Avrig, judeţul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73245",
+   "versions": [
+    {
+     "from": "2006-07-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73245",
+     "sha256": "9f49f54e9b545bf09c1981ce88135fbf3c83819f7664657cd049fb638ecb43c4"
     }
    ]
   },
@@ -326078,6 +326258,21 @@
    ]
   },
   {
+   "slug": "hg-835-2006",
+   "path": "hg/2006/835",
+   "short": "HG nr. 835/2006",
+   "title": "Hotărârea Guvernului nr. 835/2006 privind transmiterea unei părţi dintr-un imobil din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al judeţului Dâmboviţa şi în administrarea Consiliului Judeţean Dâmboviţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73207",
+   "versions": [
+    {
+     "from": "2006-07-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73207",
+     "sha256": "20f49a9507679a127def68d06b666c18d15e1d8e3a2a38c5d7dcd327a7f892c9"
+    }
+   ]
+  },
+  {
    "slug": "hg-835-2008",
    "path": "hg/2008/835",
    "short": "HG nr. 835/2008",
@@ -326269,6 +326464,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257012",
      "sha256": "9e2c02056b233fb63b6602026de06311d3fa23edca05bbc5b2a9c697ca3766d5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-836-2006",
+   "path": "hg/2006/836",
+   "short": "HG nr. 836/2006",
+   "title": "Hotărârea Guvernului nr. 836/2006 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al comunei Răchiţi, judeţul Botoşani, şi în administrarea Consiliului Local al Comunei Răchiţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73176",
+   "versions": [
+    {
+     "from": "2006-07-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73176",
+     "sha256": "00280a8f0fd6125382c4e7c8c30b798385eefc4e082e2d42c571e6d57857f8c8"
     }
    ]
   },
@@ -326485,6 +326695,21 @@
      "units": 2,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/217727",
      "sha256": "3ef7806728b0e07ea6619071d79b0952e09ce048f582680a3f5034a5f853c2c1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-837-2006",
+   "path": "hg/2006/837",
+   "short": "HG nr. 837/2006",
+   "title": "Hotărârea Guvernului nr. 837/2006 privind reclasificarea protezelor pentru articulaţiile de umăr, genunchi şi şold prevăzute de Hotărârea Guvernului nr. 911/2005 privind stabilirea condiţiilor de introducere pe piaţă şi de punere în funcţiune a dispozitivelor medicale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73282",
+   "versions": [
+    {
+     "from": "2007-09-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73282",
+     "sha256": "80c0b3d9ad09091bf25fd7dc920e8d8d7874a638097bb533380a4b619deed791"
     }
    ]
   },
@@ -327158,6 +327383,21 @@
    ]
   },
   {
+   "slug": "hg-840-2006",
+   "path": "hg/2006/840",
+   "short": "HG nr. 840/2006",
+   "title": "Hotărârea Guvernului nr. 840/2006 privind transmiterea unei părţi dintr-un imobil din domeniul public al statului şi din administrarea Instituţiei Prefectului Judeţului Sălaj în domeniul public al judeţului Sălaj şi în administrarea Consiliului Judeţean Sălaj, judeţul Sălaj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73180",
+   "versions": [
+    {
+     "from": "2006-07-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73180",
+     "sha256": "207cbc2d86c5baa6c2e969ba02076c986374f1d9f8f977f8f57c34fcd56b04ce"
+    }
+   ]
+  },
+  {
    "slug": "hg-840-2007",
    "path": "hg/2007/840",
    "short": "HG nr. 840/2007",
@@ -327379,6 +327619,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302963",
      "sha256": "6ac9cd06dcee8b05740ec8b41ed18ef3f10d3832d57181905e817b11425681cb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-841-2006",
+   "path": "hg/2006/841",
+   "short": "HG nr. 841/2006",
+   "title": "Hotărârea Guvernului nr. 841/2006 privind transmiterea unor drumuri forestiere situate în judeţul Dâmboviţa şi a terenurilor aferente acestora, din domeniul public al statului şi din administrarea Regiei Naţionale a Pădurilor - Romsilva în domeniul public al comunei Moroeni şi în administrarea Consiliului Local al Comunei Moroeni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73299",
+   "versions": [
+    {
+     "from": "2006-07-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73299",
+     "sha256": "76ac80136c5cd07c37199ae0b8b0df303167bcd0401f110ef1dd9fa697e71850"
     }
    ]
   },
@@ -327863,6 +328118,21 @@
    ]
   },
   {
+   "slug": "hg-843-2006",
+   "path": "hg/2006/843",
+   "short": "HG nr. 843/2006",
+   "title": "Hotărârea Guvernului nr. 843/2006 privind trecerea unor drumuri forestiere şi a terenurilor aferente acestora din domeniul public al statului şi din administrarea Regiei Naţionale a Pădurilor - Romsilva în domeniul public al unor unităţi administrativ-teritoriale din judeţul Covasna şi în administrarea consiliilor locale ale acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73280",
+   "versions": [
+    {
+     "from": "2006-07-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73280",
+     "sha256": "109e87711534ac9d7f21b1b476c80b4487b6736a58dc0507c8de84ddfbda571e"
+    }
+   ]
+  },
+  {
    "slug": "hg-843-2007",
    "path": "hg/2007/843",
    "short": "HG nr. 843/2007",
@@ -328043,6 +328313,21 @@
    ]
   },
   {
+   "slug": "hg-844-2006",
+   "path": "hg/2006/844",
+   "short": "HG nr. 844/2006",
+   "title": "Hotărârea Guvernului nr. 844/2006 privind transmiterea unor drumuri forestiere şi a terenurilor aferente acestora din domeniul public al statului şi din administrarea Regiei Naţionale a Pădurilor - Romsilva în domeniul public al comunei Remeţi şi în administrarea Consiliului Local al Comunei Remeţi, judeţul Maramureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73188",
+   "versions": [
+    {
+     "from": "2006-07-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73188",
+     "sha256": "72a7e5e9b5e5c3a51eeb75ae05011de090f2a52a66685127c1436e452a1987ee"
+    }
+   ]
+  },
+  {
    "slug": "hg-844-2007",
    "path": "hg/2007/844",
    "short": "HG nr. 844/2007",
@@ -328204,6 +328489,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285632",
      "sha256": "d77747a5d741b8ed6b45ee14d0cfcdd3f50e34fdd67a1a7b5e7084784a2ca6d0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-845-2006",
+   "path": "hg/2006/845",
+   "short": "HG nr. 845/2006",
+   "title": "Hotărârea Guvernului nr. 845/2006 privind trecerea unor construcţii aflate în administrarea Ministerului Administraţiei şi Internelor din domeniul public al statului în domeniul privat al acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73208",
+   "versions": [
+    {
+     "from": "2006-07-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73208",
+     "sha256": "054423ebf1447330cfe6f3c836b6c20d6f0cb1a5201b47a1bbc7a976d7f55d70"
     }
    ]
   },
@@ -328390,6 +328690,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303357",
      "sha256": "ff2b86cb6cd3de8f2d4cdcc03edc9bb61e868fa3db5362368f4cb3272d3dcb39"
+    }
+   ]
+  },
+  {
+   "slug": "hg-846-2006",
+   "path": "hg/2006/846",
+   "short": "HG nr. 846/2006",
+   "title": "Hotărârea Guvernului nr. 846/2006 privind trecerea unor construcţii aflate în administrarea Ministerului Administraţiei şi Internelor din domeniul public al statului în domeniul privat al acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73183",
+   "versions": [
+    {
+     "from": "2006-07-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73183",
+     "sha256": "b76ab0170e576b29c435ca5236439abf2e4ca300ac3822e3c322da80b6a81bd6"
     }
    ]
   },
@@ -328640,6 +328955,21 @@
    ]
   },
   {
+   "slug": "hg-847-2006",
+   "path": "hg/2006/847",
+   "short": "HG nr. 847/2006",
+   "title": "Hotărârea Guvernului nr. 847/2006 pentru abrogarea Hotărârii Guvernului nr. 1.080/1995 privind constituirea şi funcţionarea Comitetului interministerial pentru dezvoltarea relaţiilor economice româno-japoneze",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73189",
+   "versions": [
+    {
+     "from": "2006-07-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73189",
+     "sha256": "b69ca4fdb113909467475b799c05f6c56afa6d275657fda47cc0538dc0915876"
+    }
+   ]
+  },
+  {
    "slug": "hg-847-2007",
    "path": "hg/2007/847",
    "short": "HG nr. 847/2007",
@@ -328850,6 +329180,21 @@
    ]
   },
   {
+   "slug": "hg-848-2006",
+   "path": "hg/2006/848",
+   "short": "HG nr. 848/2006",
+   "title": "Hotărârea Guvernului nr. 848/2006 privind trecerea din domeniul public al statului în domeniul privat al statului a unor mijloace fixe concesionate Companiei Naţionale de Transport al Energiei Electrice \"Transelectrica\" - S.A., Sucursala de Transport Piteşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73151",
+   "versions": [
+    {
+     "from": "2006-07-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73151",
+     "sha256": "9a360abf219277aa9c5691b7e133b8877898be9ef45a3dfbada0cf725d37c122"
+    }
+   ]
+  },
+  {
    "slug": "hg-848-2007",
    "path": "hg/2007/848",
    "short": "HG nr. 848/2007",
@@ -329041,6 +329386,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303454",
      "sha256": "9ba35d376a02036d2a31096223810e5ff421ad3ac6fff625f1fd6c7b95414a5c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-849-2006",
+   "path": "hg/2006/849",
+   "short": "HG nr. 849/2006",
+   "title": "Hotărârea Guvernului nr. 849/2006 pentru modificarea Hotărârii Guvernului nr. 618/2005 privind constituirea Colegiului pentru Consultarea Asociaţiilor şi Fundaţiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73135",
+   "versions": [
+    {
+     "from": "2006-07-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73135",
+     "sha256": "22b8d0fc92a8ac6e64a8536718f84cabf4425a4951d9e643807c710b6c519a2a"
     }
    ]
   },
@@ -329668,6 +330028,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285638",
      "sha256": "2e844c47716122e286530b981038c57ebe3565074bb37ec21b8c0d8f0d77cfb2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-851-2006",
+   "path": "hg/2006/851",
+   "short": "HG nr. 851/2006",
+   "title": "Hotărârea Guvernului nr. 851/2006 privind modificarea Hotărârii Guvernului nr. 145/2006 pentru aprobarea modului de repartizare şi de utilizare a sumelor prevăzute la lit. c) şi d) din anexa nr. 3/13/07a la Legea bugetului de stat pe anul 2006 nr. 379/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73197",
+   "versions": [
+    {
+     "from": "2006-07-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73197",
+     "sha256": "b6065168a2e9b60ddb6aeef77cc87a89812fefe1c4da5fc29e163509de28365f"
     }
    ]
   },
@@ -330431,6 +330806,21 @@
    ]
   },
   {
+   "slug": "hg-854-2006",
+   "path": "hg/2006/854",
+   "short": "HG nr. 854/2006",
+   "title": "Hotărârea Guvernului nr. 854/2006 pentru completarea Hotărârii Guvernului nr. 281/1993 cu privire la salarizarea personalului din unităţile bugetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73190",
+   "versions": [
+    {
+     "from": "2006-07-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73190",
+     "sha256": "94ac476dfe6e1ee76bd650af3fc5b5c03c3e7ed7cd5994840f548946923b45ba"
+    }
+   ]
+  },
+  {
    "slug": "hg-854-2007",
    "path": "hg/2007/854",
    "short": "HG nr. 854/2007",
@@ -330697,6 +331087,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204906",
      "sha256": "f8fbec72f359bd277f051354524b0e6de1fec20dff0b394789c31685f332323e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-855-2006",
+   "path": "hg/2006/855",
+   "short": "HG nr. 855/2006",
+   "title": "Hotărârea Guvernului nr. 855/2006 pentru modificarea Hotărârii Guvernului nr. 577/2003 privind structura organizatorică şi atribuţiile Autorităţii pentru străini",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73194",
+   "versions": [
+    {
+     "from": "2006-07-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73194",
+     "sha256": "45f0af977747fc421ace4da4df973455df86da20965e62dc0f9f8b7591e8a599"
     }
    ]
   },
@@ -330992,6 +331397,21 @@
    ]
   },
   {
+   "slug": "hg-856-2006",
+   "path": "hg/2006/856",
+   "short": "HG nr. 856/2006",
+   "title": "Hotărârea Guvernului nr. 856/2006 privind suplimentarea bugetului Ministerului Administraţiei şi Internelor din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73136",
+   "versions": [
+    {
+     "from": "2006-07-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73136",
+     "sha256": "d8db920efc202529c2a63655c0b4b3df603af250a68f63f7c3976cb65a03216f"
+    }
+   ]
+  },
+  {
    "slug": "hg-856-2007",
    "path": "hg/2007/856",
    "short": "HG nr. 856/2007",
@@ -331217,6 +331637,21 @@
    ]
   },
   {
+   "slug": "hg-857-2006",
+   "path": "hg/2006/857",
+   "short": "HG nr. 857/2006",
+   "title": "Hotărârea Guvernului nr. 857/2006 privind unele măsuri pentru organizarea Zilei Justiţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73137",
+   "versions": [
+    {
+     "from": "2006-07-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73137",
+     "sha256": "9295dd75d25cc3b8847fa7211b5cf11fe3c0172cb5594d9b7f5757473022d1fd"
+    }
+   ]
+  },
+  {
    "slug": "hg-857-2008",
    "path": "hg/2008/857",
    "short": "HG nr. 857/2008",
@@ -331417,6 +331852,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303516",
      "sha256": "1a0f50fc955946795cd29685bbbfd3a940ee5e394747894739baaeaa3e0f57ef"
+    }
+   ]
+  },
+  {
+   "slug": "hg-858-2006",
+   "path": "hg/2006/858",
+   "short": "HG nr. 858/2006",
+   "title": "Hotărârea Guvernului nr. 858/2006 privind suplimentarea bugetului Ministerului Justiţiei din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73141",
+   "versions": [
+    {
+     "from": "2006-07-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73141",
+     "sha256": "2f0ee4c2eeafe3ca122576ed1529fcd394d91afca55aab8396206ddb28f6a0e7"
     }
    ]
   },
@@ -331948,6 +332398,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/64266",
      "sha256": "7174e8fc1a9c9050fb8d6736d5023c1c43bd2d77ccb0f7b9360f3285c8cd2a12"
+    }
+   ]
+  },
+  {
+   "slug": "hg-860-2006",
+   "path": "hg/2006/860",
+   "short": "HG nr. 860/2006",
+   "title": "Hotărârea Guvernului nr. 860/2006 pentru modificarea Hotărârii Guvernului nr. 103/2006 privind organizarea şi funcţionarea Biroului directorului executiv al Grupului la nivel înalt în domeniul protecţiei şi îngrijirii copilului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73191",
+   "versions": [
+    {
+     "from": "2006-07-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73191",
+     "sha256": "94569d3c29e13340c83c4a47fcbcc7c672e22566341fb36796ce7ed785e309d2"
     }
    ]
   },
@@ -332894,6 +333359,21 @@
    ]
   },
   {
+   "slug": "hg-864-2006",
+   "path": "hg/2006/864",
+   "short": "HG nr. 864/2006",
+   "title": "Hotărârea Guvernului nr. 864/2006 pentru aprobarea amendamentului convenit prin schimb de scrisori semnate la Bucureşti, la 20 februarie 2006, şi la Zagreb, la 15 martie 2006, între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare privind Proiectul cadastrului general şi publicităţii imobiliare, în sumă de 25,5 milioane dolari S.U.A., semnat la Washington la 23 ianuarie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73482",
+   "versions": [
+    {
+     "from": "2006-07-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73482",
+     "sha256": "44362cd6b8d7463139d40d091b3307d523c1c2de9cfec56d53c4e3b984936926"
+    }
+   ]
+  },
+  {
    "slug": "hg-864-2007",
    "path": "hg/2007/864",
    "short": "HG nr. 864/2007",
@@ -333301,6 +333781,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303531",
      "sha256": "e797ef692d6adb06b572eea5f4e2f997d23f5f1df8e5c9248e2c7ad00bb195c9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-866-2006",
+   "path": "hg/2006/866",
+   "short": "HG nr. 866/2006",
+   "title": "Hotărârea Guvernului nr. 866/2006 privind continuarea şi finalizarea lucrărilor la obiectivul de investiţii \"Amenajarea hidroenergetică Paşcani\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73417",
+   "versions": [
+    {
+     "from": "2006-07-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73417",
+     "sha256": "d7f0276c0ff4dfa08ec58bd4ce92e21944e4d08ea8873ca2e8a5d6ff8d2c2f13"
     }
    ]
   },
@@ -333752,6 +334247,21 @@
    ]
   },
   {
+   "slug": "hg-868-2006",
+   "path": "hg/2006/868",
+   "short": "HG nr. 868/2006",
+   "title": "Hotărârea Guvernului nr. 868/2006 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.362/2001 privind atestarea domeniului public al judeţului Vâlcea, precum şi al municipiilor, oraşelor şi comunelor din judeţul Vâlcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74142",
+   "versions": [
+    {
+     "from": "2006-08-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74142",
+     "sha256": "740273bbdbf19ba3053e6212ad3a722b47f75bcc5fda7ea73743d8913d0b9779"
+    }
+   ]
+  },
+  {
    "slug": "hg-868-2009",
    "path": "hg/2009/868",
    "short": "HG nr. 868/2009",
@@ -333913,6 +334423,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303714",
      "sha256": "b203a3ae0d684349a5526fde344353774ee380b5a4b8212a43f959cf45333cca"
+    }
+   ]
+  },
+  {
+   "slug": "hg-869-2006",
+   "path": "hg/2006/869",
+   "short": "HG nr. 869/2006",
+   "title": "Hotărârea Guvernului nr. 869/2006 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.362/2001 privind atestarea domeniului public al judeţului Vâlcea, precum şi al municipiilor, oraşelor şi comunelor din judeţul Vâlcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74155",
+   "versions": [
+    {
+     "from": "2006-08-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74155",
+     "sha256": "dab221a11ea5dc741d0129ce81f72a0d5f93c00d18bc8f397efcba4fdff40a81"
     }
    ]
   },
@@ -334748,6 +335273,21 @@
    ]
   },
   {
+   "slug": "hg-872-2006",
+   "path": "hg/2006/872",
+   "short": "HG nr. 872/2006",
+   "title": "Hotărârea Guvernului nr. 872/2006 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru înlăturarea unor efecte ale calamităţilor naturale produse în judeţele Bistriţa-Năsăud şi Suceava",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73262",
+   "versions": [
+    {
+     "from": "2006-07-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73262",
+     "sha256": "b470b9196d76dafb246110a5f1bfb66249411fe2cf50924b0e7bd2aa7386ce37"
+    }
+   ]
+  },
+  {
    "slug": "hg-872-2011",
    "path": "hg/2011/872",
    "short": "HG nr. 872/2011",
@@ -334924,6 +335464,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303671",
      "sha256": "04b01d0b2478222cada5a722d57c37302373e44df43c81ddc30872253512c689"
+    }
+   ]
+  },
+  {
+   "slug": "hg-873-2006",
+   "path": "hg/2006/873",
+   "short": "HG nr. 873/2006",
+   "title": "Hotărârea Guvernului nr. 873/2006 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru înlăturarea unor efecte ale calamităţilor naturale produse în judeţul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73263",
+   "versions": [
+    {
+     "from": "2006-07-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73263",
+     "sha256": "82b389fc5ce4744dd39f873f29afceaa559099374848597abd25cd7538335883"
     }
    ]
   },
@@ -336602,6 +337157,21 @@
    ]
   },
   {
+   "slug": "hg-880-2006",
+   "path": "hg/2006/880",
+   "short": "HG nr. 880/2006",
+   "title": "Hotărârea Guvernului nr. 880/2006 pentru completarea art. 1 din Hotărârea Guvernului nr. 640/2005 privind organizarea de către România a celei de-a XI-a Reuniuni la nivel de şefi de stat şi de guvern a Organizaţiei Internaţionale a Francofoniei, la Bucureşti, în perioada 25-29 septembrie 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73268",
+   "versions": [
+    {
+     "from": "2006-07-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73268",
+     "sha256": "eb46afd4d4e6348a13fbf7e73b886fc6c15d54bcc7c4b24ea15f0942c6695945"
+    }
+   ]
+  },
+  {
    "slug": "hg-880-2007",
    "path": "hg/2007/880",
    "short": "HG nr. 880/2007",
@@ -336778,6 +337348,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303633",
      "sha256": "98100ff8076b4a9d0173895506a159ecea2f7c8aeea1f04b6265d28a96220e6d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-881-2006",
+   "path": "hg/2006/881",
+   "short": "HG nr. 881/2006",
+   "title": "Hotărârea Guvernului nr. 881/2006 pentru numirea domnului Marius Bălu în funcţia publică de prefect al judeţului Mehedinţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73269",
+   "versions": [
+    {
+     "from": "2006-07-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73269",
+     "sha256": "3bdf311a502a14fdbd2b5ff75a3f489ba410018e26e554f3a95fb0ad5e5ce975"
     }
    ]
   },
@@ -337355,6 +337940,21 @@
    ]
   },
   {
+   "slug": "hg-884-2006",
+   "path": "hg/2006/884",
+   "short": "HG nr. 884/2006",
+   "title": "Hotărârea Guvernului nr. 884/2006 privind transmiterea unei suprafeţe de 22 ha teren agricol din domeniul public al statului şi din administrarea Institutului de Stat pentru Testarea şi Înregistrarea Soiurilor - Centrul pentru Testarea Soiurilor Huedin în domeniul privat al oraşului Huedin şi în administrarea Consiliului Local al Oraşului Huedin, judeţul Cluj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73419",
+   "versions": [
+    {
+     "from": "2006-07-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73419",
+     "sha256": "797b1dc327934f69a06b0f931aac5497e5dc92162b695a4e109ea29c8a34303e"
+    }
+   ]
+  },
+  {
    "slug": "hg-884-2008",
    "path": "hg/2008/884",
    "short": "HG nr. 884/2008",
@@ -337748,6 +338348,21 @@
    ]
   },
   {
+   "slug": "hg-886-2006",
+   "path": "hg/2006/886",
+   "short": "HG nr. 886/2006",
+   "title": "Hotărârea Guvernului nr. 886/2006 privind înscrierea în domeniul public al statului şi darea în administrarea Ministerului Agriculturii, Pădurilor şi Dezvoltării Rurale - Direcţia pentru Agricultură şi Dezvoltare Rurală Alba a unui imobil situat în municipiul Alba Iulia, judeţul Alba",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73424",
+   "versions": [
+    {
+     "from": "2006-07-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73424",
+     "sha256": "6d8c3e8152f864e676aabc7d725194fc01022b00bd29981e9012cd07d778c09c"
+    }
+   ]
+  },
+  {
    "slug": "hg-886-2007",
    "path": "hg/2007/886",
    "short": "HG nr. 886/2007",
@@ -338003,6 +338618,21 @@
    ]
   },
   {
+   "slug": "hg-887-2006",
+   "path": "hg/2006/887",
+   "short": "HG nr. 887/2006",
+   "title": "Hotărârea Guvernului nr. 887/2006 privind modificarea valorilor de inventar ale unor bunuri aparţinând domeniului public al statului, aflate în administrarea Ministerului Agriculturii, Pădurilor şi Dezvoltării Rurale Direcţia pentru Agricultură şi Dezvoltare Rurală Suceava",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73434",
+   "versions": [
+    {
+     "from": "2006-07-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73434",
+     "sha256": "9b5ac8fafefb94a8aa56e1c22e07d90cb0d339560847ca73aafc4df3892cb891"
+    }
+   ]
+  },
+  {
    "slug": "hg-887-2007",
    "path": "hg/2007/887",
    "short": "HG nr. 887/2007",
@@ -338230,6 +338860,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303634",
      "sha256": "1aa7af797bb54ae3b7a4ca38bc60228342f68325176b3be040e03c3cbe8d190c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-888-2006",
+   "path": "hg/2006/888",
+   "short": "HG nr. 888/2006",
+   "title": "Hotărârea Guvernului nr. 888/2006 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2006 al Companiei Naţionale \"Loteria Română\" - S.A., aflată sub autoritatea Ministerului Finanţelor Publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73556",
+   "versions": [
+    {
+     "from": "2006-07-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73556",
+     "sha256": "d786f20b5dd77fda0e75bec83f51d6511e0bde354b24f03e52ce1284f95e3769"
     }
    ]
   },
@@ -338810,6 +339455,21 @@
    ]
   },
   {
+   "slug": "hg-890-2006",
+   "path": "hg/2006/890",
+   "short": "HG nr. 890/2006",
+   "title": "Hotărârea Guvernului nr. 890/2006 pentru modificarea şi completarea Hotărârii Guvernului nr. 577/1997 privind pietruirea, reabilitarea şi/sau asfaltarea drumurilor de interes local clasate şi alimentarea cu apă a satelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73475",
+   "versions": [
+    {
+     "from": "2006-07-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73475",
+     "sha256": "4a7adcc7bc81f9070e2b074e2c411070e2696fae05de7c0ff30775585378e4d7"
+    }
+   ]
+  },
+  {
    "slug": "hg-890-2007",
    "path": "hg/2007/890",
    "short": "HG nr. 890/2007",
@@ -339020,6 +339680,21 @@
    ]
   },
   {
+   "slug": "hg-891-2006",
+   "path": "hg/2006/891",
+   "short": "HG nr. 891/2006",
+   "title": "Hotărârea Guvernului nr. 891/2006 pentru aprobarea Protocolului dintre Ministerul Administraţiei şi Internelor din România şi Ministerul Afacerilor Interne şi Serviciul Grăniceri din Republica Moldova, semnat la Bucureşti la 23 martie 2006, pentru aplicarea Acordului dintre Guvernul României şi Guvernul Republicii Moldova privind readmisia străinilor, semnat la Bucureşti la 27 iulie 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73564",
+   "versions": [
+    {
+     "from": "2006-07-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73564",
+     "sha256": "118eb303dd1703f99f93951c993f76b79676cfbf086c9c7bd9e1350177e46608"
+    }
+   ]
+  },
+  {
    "slug": "hg-891-2007",
    "path": "hg/2007/891",
    "short": "HG nr. 891/2007",
@@ -339196,6 +339871,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/286247",
      "sha256": "2f59812425240c7eed22a86a64f42329b5de82cbd153781bb78ca8c9d6e6a7e6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-892-2006",
+   "path": "hg/2006/892",
+   "short": "HG nr. 892/2006",
+   "title": "Hotărârea Guvernului nr. 892/2006 privind închiderea Punctului de control pentru trecerea frontierei Giurgiu (România) - Ruse (Bulgaria) Gara Fluvială km 492+500, pentru traficul internaţional de călători",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73531",
+   "versions": [
+    {
+     "from": "2006-07-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73531",
+     "sha256": "20c98e2403a7f4a611c16f5960408c5f2cd6a191fb008af77db3b9d8fcabadac"
     }
    ]
   },
@@ -339728,6 +340418,21 @@
    ]
   },
   {
+   "slug": "hg-894-2006",
+   "path": "hg/2006/894",
+   "short": "HG nr. 894/2006",
+   "title": "Hotărârea Guvernului nr. 894/2006 privind înfiinţarea Comisiei naţionale consultative pentru facilitarea comerţului internaţional - ROMPRO prin reorganizarea Comisiei naţionale consultative pentru facilitarea comerţului internaţional - ROMPRO",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73723",
+   "versions": [
+    {
+     "from": "2006-07-25",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73723",
+     "sha256": "56a4fbb46df76737124f80cfaa3a02cea9ad100c6d99738cb2d3b8ea05542186"
+    }
+   ]
+  },
+  {
    "slug": "hg-894-2008",
    "path": "hg/2008/894",
    "short": "HG nr. 894/2008",
@@ -340159,6 +340864,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/45688",
      "sha256": "99f4dfa1b0175a99ec7d07d3e012b41d56f3e89cff692bb76f084aee3c796d42"
+    }
+   ]
+  },
+  {
+   "slug": "hg-896-2006",
+   "path": "hg/2006/896",
+   "short": "HG nr. 896/2006",
+   "title": "Hotărârea Guvernului nr. 896/2006 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.358/2001 privind atestarea domeniului public al judeţului Teleorman, precum şi al municipiilor, oraşelor şi comunelor din judeţul Teleorman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74497",
+   "versions": [
+    {
+     "from": "2006-08-16",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74497",
+     "sha256": "21dd54ba7491a35fece307261df20898c08a4b89ba6bb4a5cda199e250dd0ebf"
     }
    ]
   },
@@ -340874,6 +341594,21 @@
    ]
   },
   {
+   "slug": "hg-899-2006",
+   "path": "hg/2006/899",
+   "short": "HG nr. 899/2006",
+   "title": "Hotărârea Guvernului nr. 899/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru asigurarea unor cheltuieli curente şi de capital ale autorităţilor administraţiei publice locale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73462",
+   "versions": [
+    {
+     "from": "2006-07-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73462",
+     "sha256": "3e3c8214a2808e656bdc05d81dc9947a2da28bee0b77a27e3ce4d306656eab4a"
+    }
+   ]
+  },
+  {
    "slug": "hg-899-2007",
    "path": "hg/2007/899",
    "short": "HG nr. 899/2007",
@@ -341513,6 +342248,21 @@
    ]
   },
   {
+   "slug": "hg-900-2006",
+   "path": "hg/2006/900",
+   "short": "HG nr. 900/2006",
+   "title": "Hotărârea Guvernului nr. 900/2006 privind acordarea unor ajutoare de urgenţă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73591",
+   "versions": [
+    {
+     "from": "2006-07-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73591",
+     "sha256": "5b337690a503e716a8ba3b8f6d1c07d524df4f29feb7917bf8dd083d135437f2"
+    }
+   ]
+  },
+  {
    "slug": "hg-900-2007",
    "path": "hg/2007/900",
    "short": "HG nr. 900/2007",
@@ -341939,6 +342689,21 @@
    ]
   },
   {
+   "slug": "hg-902-2006",
+   "path": "hg/2006/902",
+   "short": "HG nr. 902/2006",
+   "title": "Hotărârea Guvernului nr. 902/2006 pentru modificarea şi completarea Regulamentului privind procedurile, la nivelul Guvernului, pentru elaborarea, avizarea şi prezentarea proiectelor de acte normative spre adoptare, aprobat prin Hotărârea Guvernului nr. 50/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73476",
+   "versions": [
+    {
+     "from": "2006-07-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73476",
+     "sha256": "b971abf7530b8dceac8f30d65b4c6927758c0086d61b6bccfade8dc3cd8f58ad"
+    }
+   ]
+  },
+  {
    "slug": "hg-902-2007",
    "path": "hg/2007/902",
    "short": "HG nr. 902/2007",
@@ -342200,6 +342965,21 @@
    ]
   },
   {
+   "slug": "hg-903-2006",
+   "path": "hg/2006/903",
+   "short": "HG nr. 903/2006",
+   "title": "Hotărârea Guvernului nr. 903/2006 pentru abrogarea poziţiei nr. 26 din anexa nr. 1 la Hotărârea Guvernului nr. 1.347/2001 privind atestarea domeniului public al judeţului Bacău, precum şi al municipiilor, oraşelor şi comunelor din judeţul Bacău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73694",
+   "versions": [
+    {
+     "from": "2006-07-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73694",
+     "sha256": "1dc7190aafa971fc1d27d7cb44deea1ea6c51ccfbf4da2f76ccf854806aba06a"
+    }
+   ]
+  },
+  {
    "slug": "hg-903-2008",
    "path": "hg/2008/903",
    "short": "HG nr. 903/2008",
@@ -342406,6 +343186,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303737",
      "sha256": "fede1db757bad45c401ffd8fa7ce4a91441e81e55866f217147a438c3a94a167"
+    }
+   ]
+  },
+  {
+   "slug": "hg-904-2006",
+   "path": "hg/2006/904",
+   "short": "HG nr. 904/2006",
+   "title": "Hotărârea Guvernului nr. 904/2006 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Finanţelor Publice - Direcţia Generală a Finanţelor Publice Argeş în domeniul public al comunei Rucăr şi în administrarea Consiliului Local al Comunei Rucăr, judeţul Argeş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73659",
+   "versions": [
+    {
+     "from": "2006-07-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73659",
+     "sha256": "7db3a8646b12c70dbbfa5c988254e43ece3c54909c5cabdf4a6fcc0a3ce8bd5c"
     }
    ]
   },
@@ -342650,6 +343445,21 @@
    ]
   },
   {
+   "slug": "hg-905-2006",
+   "path": "hg/2006/905",
+   "short": "HG nr. 905/2006",
+   "title": "Hotărârea Guvernului nr. 905/2006 privind aprobarea plăţii contribuţiei financiare a României pentru participarea în anul 2006 la Programul comunitar FISCALIS 2003-2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73660",
+   "versions": [
+    {
+     "from": "2006-07-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73660",
+     "sha256": "7a959760fcaf69ed01afc02d3bc42d0fe67a5b96f255465dc3ad532b47f539d6"
+    }
+   ]
+  },
+  {
    "slug": "hg-905-2008",
    "path": "hg/2008/905",
    "short": "HG nr. 905/2008",
@@ -342847,6 +343657,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275149",
      "sha256": "3a3af37b74cdedada739521fff2efdd9d8a95881dfbde8f3cb2e3b5d29d32f47"
+    }
+   ]
+  },
+  {
+   "slug": "hg-906-2006",
+   "path": "hg/2006/906",
+   "short": "HG nr. 906/2006",
+   "title": "Hotărârea Guvernului nr. 906/2006 pentru redobândirea cetăţeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73553",
+   "versions": [
+    {
+     "from": "2006-07-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73553",
+     "sha256": "4df9facf53435aaf21807302869185107dbc4938f9f5b1098570dbbc24f67de3"
     }
    ]
   },
@@ -343073,6 +343898,21 @@
    ]
   },
   {
+   "slug": "hg-907-2006",
+   "path": "hg/2006/907",
+   "short": "HG nr. 907/2006",
+   "title": "Hotărârea Guvernului nr. 907/2006 privind transmiterea unor imobile din proprietatea publică a statului şi din administrarea Ministerului Agriculturii, Pădurilor şi Dezvoltării Rurale - Direcţia pentru Agricultură şi Dezvoltare Rurală a Judeţului Neamţ în proprietatea publică a municipiului Piatra-Neamţ şi în administrarea Consiliului Local al Municipiului Piatra-Neamţ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73697",
+   "versions": [
+    {
+     "from": "2006-07-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73697",
+     "sha256": "389f8709ea24a286da36ecf37c4dceacf4e6ae7bce453a3a79cbc198ed02b37a"
+    }
+   ]
+  },
+  {
    "slug": "hg-907-2007",
    "path": "hg/2007/907",
    "short": "HG nr. 907/2007",
@@ -343295,6 +344135,21 @@
    ]
   },
   {
+   "slug": "hg-908-2006",
+   "path": "hg/2006/908",
+   "short": "HG nr. 908/2006",
+   "title": "Hotărârea Guvernului nr. 908/2006 privind transmiterea unei părţi dintr-un imobil, proprietate publică a statului, din administrarea Ministerului Administraţiei şi Internelor - Agenţia Naţională de Cadastru şi Publicitate Imobiliară în administrarea Ministerului Agriculturii, Pădurilor şi Dezvoltării Rurale - Direcţia pentru Agricultură şi Dezvoltare Rurală a Judeţului Dâmboviţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73582",
+   "versions": [
+    {
+     "from": "2006-07-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73582",
+     "sha256": "d6a623650dff178bd3758a041fdee271369bc16306e04f2acc3b030c74e206e0"
+    }
+   ]
+  },
+  {
    "slug": "hg-908-2010",
    "path": "hg/2010/908",
    "short": "HG nr. 908/2010",
@@ -343426,6 +344281,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/13732",
      "sha256": "326a51eec90893654302374e6cecf43193191629eadbd9beb02d80f5489d4cfa"
+    }
+   ]
+  },
+  {
+   "slug": "hg-909-2006",
+   "path": "hg/2006/909",
+   "short": "HG nr. 909/2006",
+   "title": "Hotărârea Guvernului nr. 909/2006 privind transmiterea unui teren agricol, proprietate publică a statului, din administrarea Ministerului Agriculturii, Pădurilor şi Dezvoltării Rurale - Direcţia pentru Agricultură şi Dezvoltare Rurală Călăraşi - Unitatea pentru Ameliorare şi Reproducţie în Zootehnie Călăraşi în administrarea Agenţiei Domeniilor Statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73532",
+   "versions": [
+    {
+     "from": "2006-07-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73532",
+     "sha256": "2841c231ff53f9bb0ed4f6aed714347d63efd29451c0095ba908227fd52e08b2"
     }
    ]
   },
@@ -343940,6 +344810,21 @@
    ]
   },
   {
+   "slug": "hg-911-2006",
+   "path": "hg/2006/911",
+   "short": "HG nr. 911/2006",
+   "title": "Hotărârea Guvernului nr. 911/2006 privind transmiterea unor imobile din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al municipiului Deva şi în administrarea Consiliului Local al Municipiului Deva, judeţul Hunedoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73583",
+   "versions": [
+    {
+     "from": "2006-07-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73583",
+     "sha256": "9a49e90e5c62778b3923561e062b0b368e184806fe86dc2e4e61e03644fea7bb"
+    }
+   ]
+  },
+  {
    "slug": "hg-911-2008",
    "path": "hg/2008/911",
    "short": "HG nr. 911/2008",
@@ -344150,6 +345035,21 @@
    ]
   },
   {
+   "slug": "hg-912-2006",
+   "path": "hg/2006/912",
+   "short": "HG nr. 912/2006",
+   "title": "Hotărârea Guvernului nr. 912/2006 pentru includerea unui imobil aflat în administrarea Direcţiei Regionale de Statistică Dolj în inventarul bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73666",
+   "versions": [
+    {
+     "from": "2006-07-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73666",
+     "sha256": "ee25e89bf1ecbdec7f1b65fe3ecdde81bc79c6b20c9f21942c0893be5e8b07a6"
+    }
+   ]
+  },
+  {
    "slug": "hg-912-2012",
    "path": "hg/2012/912",
    "short": "HG nr. 912/2012",
@@ -344296,6 +345196,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303830",
      "sha256": "a87004149ae286850609c78324ae8481252b65f3840957157a1eb9c4d3d2fd67"
+    }
+   ]
+  },
+  {
+   "slug": "hg-913-2006",
+   "path": "hg/2006/913",
+   "short": "HG nr. 913/2006",
+   "title": "Hotărârea Guvernului nr. 913/2006 privind transmiterea unor terenuri degradate, trecute în condiţiile legii în domeniul public al statului, în administrarea Regiei Naţionale a Pădurilor - Romsilva",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73728",
+   "versions": [
+    {
+     "from": "2006-07-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73728",
+     "sha256": "470697fa982011aef9b931998799dc36d1179083560c44dff5cb93f1fa28b752"
     }
    ]
   },
@@ -344656,6 +345571,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/286494",
      "sha256": "04e7def2f9b487b02b877a181d497a4b684b17ffef275e349449f8a9d265b8e9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-915-2006",
+   "path": "hg/2006/915",
+   "short": "HG nr. 915/2006",
+   "title": "Hotărârea Guvernului nr. 915/2006 privind repartizarea pe unităţi administrativ-teritoriale a sumelor defalcate din taxa pe valoarea adăugată pentru retehnologizarea, modernizarea şi dezvoltarea sistemelor centralizate de producere şi distribuţie a energiei termice, precum şi pentru modificarea anexei la Hotărârea Guvernului nr. 433/2006 privind repartizarea pe unităţi administrativ-teritoriale a sumelor defalcate din taxa pe valoarea adăugată pentru retehnologizarea, modernizarea şi dezvoltarea sistemelor centralizate de producere şi distribuţie a energiei termice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73543",
+   "versions": [
+    {
+     "from": "2006-07-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73543",
+     "sha256": "920627426b55804d6afff1876a6ebe077360bcba5b2fe79be5b8ef811f9250de"
     }
    ]
   },
@@ -345065,6 +345995,21 @@
    ]
   },
   {
+   "slug": "hg-917-2006",
+   "path": "hg/2006/917",
+   "short": "HG nr. 917/2006",
+   "title": "Hotărârea Guvernului nr. 917/2006 privind aprobarea renunţării la cetăţenia română unor persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73662",
+   "versions": [
+    {
+     "from": "2006-07-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73662",
+     "sha256": "e881a2d49ff5c46769c7a04b80c20f704c143a557fd4444b7143768c881ae5bc"
+    }
+   ]
+  },
+  {
    "slug": "hg-917-2011",
    "path": "hg/2011/917",
    "short": "HG nr. 917/2011",
@@ -345271,6 +346216,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303887",
      "sha256": "b1f37d4b3812bc7eff98560bfd2bede8757edaa28016baf4b768fa6957c90b65"
+    }
+   ]
+  },
+  {
+   "slug": "hg-918-2006",
+   "path": "hg/2006/918",
+   "short": "HG nr. 918/2006",
+   "title": "Hotărârea Guvernului nr. 918/2006 pentru aprobarea Programului de stimulare a cercetării, dezvoltării şi inovării - IMPACT",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73648",
+   "versions": [
+    {
+     "from": "2006-07-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73648",
+     "sha256": "f31c63962f3123790879c41bcb3f8a7a96e24902cc00df2d6030de2035d60322"
     }
    ]
   },
@@ -345487,6 +346447,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303888",
      "sha256": "f2aaed163c248d8b10596f29f6122f8acc3fa4691c22a473c289cc0ac9e79367"
+    }
+   ]
+  },
+  {
+   "slug": "hg-919-2006",
+   "path": "hg/2006/919",
+   "short": "HG nr. 919/2006",
+   "title": "Hotărârea Guvernului nr. 919/2006 privind modificarea anexei nr. 30 la Hotărârea Guvernului nr. 2.060/2004 pentru aprobarea inventarelor bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73690",
+   "versions": [
+    {
+     "from": "2006-07-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73690",
+     "sha256": "9b218f7e51029d27fc854b1585647d72dbd10e4a379b23368f88024bb5140930"
     }
    ]
   },
@@ -345808,6 +346783,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295007",
      "sha256": "8cbe4ba28c268fadd30f0d0c4450d4cd3e86f82ece09de69ba44886f3337ac5a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-920-2006",
+   "path": "hg/2006/920",
+   "short": "HG nr. 920/2006",
+   "title": "Hotărârea Guvernului nr. 920/2006 privind suplimentarea bugetului Cancelariei Primului-Ministru din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru Agenţia Naţională pentru Sport",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73661",
+   "versions": [
+    {
+     "from": "2006-07-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73661",
+     "sha256": "15109ca8dc9d9a89f14a7c27397c1bd14f3c526a4cf6a5c1900a5b1f4c8b262c"
     }
    ]
   },
@@ -346217,6 +347207,21 @@
    ]
   },
   {
+   "slug": "hg-922-2006",
+   "path": "hg/2006/922",
+   "short": "HG nr. 922/2006",
+   "title": "Hotărârea Guvernului nr. 922/2006 pentru aprobarea Protocolului de colaborare în domeniul arhivistic între Arhivele Naţionale din cadrul Ministerului Administraţiei şi Internelor din România şi Direcţia Generală a Arhivelor de pe lângă Consiliul de Miniştri al Republicii Bulgaria, semnat la Bucureşti la 28 martie 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73711",
+   "versions": [
+    {
+     "from": "2006-07-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73711",
+     "sha256": "65e692c20724063c181b3f0d781937de4ce2627f53fdf12889e88eabee039b42"
+    }
+   ]
+  },
+  {
    "slug": "hg-922-2007",
    "path": "hg/2007/922",
    "short": "HG nr. 922/2007",
@@ -346429,6 +347434,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/286497",
      "sha256": "9d2e67c641d5c8471b830f322079cdbec578f1ead115fd61115d80424af34c7b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-923-2006",
+   "path": "hg/2006/923",
+   "short": "HG nr. 923/2006",
+   "title": "Hotărârea Guvernului nr. 923/2006 privind aprobarea bilanţului general al Trezoreriei Statului şi a contului de execuţie al bugetului Trezoreriei Statului pe anul 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73816",
+   "versions": [
+    {
+     "from": "2006-07-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73816",
+     "sha256": "5a7e409b86b5fd389ac046af149209e24d734bcfc6547dfbecc3e293baf8928b"
     }
    ]
   },
@@ -346669,6 +347689,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/64743",
      "sha256": "fb6c2ec858ecdeab5a6e67ad83a9d89951922d88331b984b72d096149bbf1447"
+    }
+   ]
+  },
+  {
+   "slug": "hg-924-2006",
+   "path": "hg/2006/924",
+   "short": "HG nr. 924/2006",
+   "title": "Hotărârea Guvernului nr. 924/2006 privind aprobarea Actului adiţional pe anul 2006 la Contractul de activitate a Companiei Naţionale de Cai Ferate \"C.F.R.\" - S.A. pentru perioada 2004-2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73944",
+   "versions": [
+    {
+     "from": "2006-07-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73944",
+     "sha256": "fac8259cca23ad2f0ee9ce44c15b5ef06cd7bff2c3ed6cc3b24d02d944f7d386"
     }
    ]
   },
@@ -347114,6 +348149,21 @@
    ]
   },
   {
+   "slug": "hg-926-2006",
+   "path": "hg/2006/926",
+   "short": "HG nr. 926/2006",
+   "title": "Hotărârea Guvernului nr. 926/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru judeţul Maramureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73713",
+   "versions": [
+    {
+     "from": "2006-07-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73713",
+     "sha256": "d57e41da1467db8ee65eab7394f81a71fa0611d62a2991bc172d2ef684e9799e"
+    }
+   ]
+  },
+  {
    "slug": "hg-926-2007",
    "path": "hg/2007/926",
    "short": "HG nr. 926/2007",
@@ -347392,6 +348442,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152175",
      "sha256": "c312845acef79fd927bc54d532c8750532e8a5a6b032752a0b5f3a5a956e61c7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-927-2006",
+   "path": "hg/2006/927",
+   "short": "HG nr. 927/2006",
+   "title": "Hotărârea Guvernului nr. 927/2006 pentru aprobarea contribuţiei financiare anuale a României, corespunzătoare anului 2006, la Programul comunitar de acţiune în domeniul sănătăţii publice (2003-2008)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73714",
+   "versions": [
+    {
+     "from": "2006-07-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73714",
+     "sha256": "1513aa7c6c2988cb91c671042c20f1b9bc3f0c8e29876d06036dce3f415572fe"
     }
    ]
   },
@@ -348254,6 +349319,21 @@
    ]
   },
   {
+   "slug": "hg-930-2006",
+   "path": "hg/2006/930",
+   "short": "HG nr. 930/2006",
+   "title": "Hotărârea Guvernului nr. 930/2006 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Administraţiei şi Internelor în domeniul privat al comunei Brâncoveneşti şi în administrarea Consiliului Local al Comunei Brâncoveneşti, judeţul Mureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73811",
+   "versions": [
+    {
+     "from": "2006-07-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73811",
+     "sha256": "d7c0a6712cab6b8c2f0369347e3020482c451221d07a8bcdbd585ce28f8e988f"
+    }
+   ]
+  },
+  {
    "slug": "hg-930-2007",
    "path": "hg/2007/930",
    "short": "HG nr. 930/2007",
@@ -348445,6 +349525,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304028",
      "sha256": "bbbdeb1f8ef58b4a2f992a22915ab5170d32da505aafeabda59b2e989a940524"
+    }
+   ]
+  },
+  {
+   "slug": "hg-931-2006",
+   "path": "hg/2006/931",
+   "short": "HG nr. 931/2006",
+   "title": "Hotărârea Guvernului nr. 931/2006 privind transmiterea unei părţi dintr-un imobil din domeniul public al statului şi din administrarea Ministerului Administraţiei şi Internelor în domeniul public al comunei Muşeniţa şi în administrarea Consiliului Local al Comunei Muşeniţa, judeţul Suceava",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73742",
+   "versions": [
+    {
+     "from": "2006-07-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73742",
+     "sha256": "fa63673ad8184e3dce569543d5cb385d3e8082a3a883b3d2eee91b18248403ca"
     }
    ]
   },
@@ -349211,6 +350306,21 @@
    ]
   },
   {
+   "slug": "hg-935-2006",
+   "path": "hg/2006/935",
+   "short": "HG nr. 935/2006",
+   "title": "Hotărârea Guvernului nr. 935/2006 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2006 al Societăţii Naţionale de Radiocomunicaţii - S.A. la care Ministerul Comunicaţiilor şi Tehnologiei Informaţiei îndeplineşte atribuţiile pe care statul român le are în calitate de acţionar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73848",
+   "versions": [
+    {
+     "from": "2006-07-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73848",
+     "sha256": "a76feaa70a99633ea2deb47e5b99ed941ecc43707221172424861e0df53b2ad9"
+    }
+   ]
+  },
+  {
    "slug": "hg-935-2007",
    "path": "hg/2007/935",
    "short": "HG nr. 935/2007",
@@ -349402,6 +350512,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303931",
      "sha256": "c092ce49ac7c188e40ba6306eeee317d8cd3dc217d9a8c13bcbfb53a56f32dc5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-936-2006",
+   "path": "hg/2006/936",
+   "short": "HG nr. 936/2006",
+   "title": "Hotărârea Guvernului nr. 936/2006 pentru completarea Hotărârii Guvernului nr. 794/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru judeţele Călăraşi, Dolj şi Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73832",
+   "versions": [
+    {
+     "from": "2006-07-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73832",
+     "sha256": "f128105666e34ebb0747b4b2c30407a61ff13eb9aec7e3f12db9db26dcbc1785"
     }
    ]
   },
@@ -349640,6 +350765,21 @@
    ]
   },
   {
+   "slug": "hg-937-2006",
+   "path": "hg/2006/937",
+   "short": "HG nr. 937/2006",
+   "title": "Hotărârea Guvernului nr. 937/2006 privind transmiterea din domeniul public al statului şi din administrarea Agenţiei Naţionale pentru Sport în domeniul public al comunei Voşlăbeni şi în administrarea Consiliului Local al Comunei Voşlăbeni, judeţul Harghita, a unui tronson de canalizare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73813",
+   "versions": [
+    {
+     "from": "2006-07-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73813",
+     "sha256": "7c9735441dfe5d33ccedcc5d0b1ee4d0fbc525657e132942f80c81abb5b283b6"
+    }
+   ]
+  },
+  {
    "slug": "hg-937-2008",
    "path": "hg/2008/937",
    "short": "HG nr. 937/2008",
@@ -349850,6 +350990,21 @@
    ]
   },
   {
+   "slug": "hg-938-2006",
+   "path": "hg/2006/938",
+   "short": "HG nr. 938/2006",
+   "title": "Hotărârea Guvernului nr. 938/2006 pentru modificarea art. 2 din Hotărârea Guvernului nr. 2.111/2004 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Extindere spaţii de învăţământ şi cercetare la &#171;Centrul de documentare, educaţie continuă şi transfer tehnologic din cadrul Universităţii Politehnica din Timişoara&#187;\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73809",
+   "versions": [
+    {
+     "from": "2006-07-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73809",
+     "sha256": "51fb3690053f74de883033d33742a6c147fecc2313001e5f9ea10f5a23010eff"
+    }
+   ]
+  },
+  {
    "slug": "hg-938-2009",
    "path": "hg/2009/938",
    "short": "HG nr. 938/2009",
@@ -350056,6 +351211,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275189",
      "sha256": "dab56b3ffa2071fb16899586559440fef5726775b4c992b2f1a9395a27745218"
+    }
+   ]
+  },
+  {
+   "slug": "hg-939-2006",
+   "path": "hg/2006/939",
+   "short": "HG nr. 939/2006",
+   "title": "Hotărârea Guvernului nr. 939/2006 privind aprobarea contribuţiei voluntare, pe anul 2006, pentru susţinerea activităţii Centrului Internaţional pentru Tranziţie Democratică din Budapesta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73857",
+   "versions": [
+    {
+     "from": "2006-07-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73857",
+     "sha256": "ba74eb8c908e4f4d75d63a5c058c6a6d849adfa9cc0d5b6b15d84061548f679e"
     }
    ]
   },
@@ -350756,6 +351926,21 @@
    ]
   },
   {
+   "slug": "hg-941-2006",
+   "path": "hg/2006/941",
+   "short": "HG nr. 941/2006",
+   "title": "Hotărârea Guvernului nr. 941/2006 pentru modificarea şi completarea Hotărârii Guvernului nr. 617/2006 privind constituirea Comisiei pentru elaborarea proiectului de lege privind salarizarea personalului contractual din sectorul bugetar, în funcţie de calitatea şi performanţa activităţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73859",
+   "versions": [
+    {
+     "from": "2006-07-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73859",
+     "sha256": "bca1775d35608f65c168b2bf42dce8b1acfb39a063e4cd6a67579adc40e33445"
+    }
+   ]
+  },
+  {
    "slug": "hg-941-2007",
    "path": "hg/2007/941",
    "short": "HG nr. 941/2007",
@@ -351334,6 +352519,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/286503",
      "sha256": "38c99ed103adfb1f7d1a020cdef4a0daf8bf6444b951a309cae032afb4590d2a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-944-2006",
+   "path": "hg/2006/944",
+   "short": "HG nr. 944/2006",
+   "title": "Hotărârea Guvernului nr. 944/2006 privind organizarea şi funcţionarea Institutului Naţional de Cercetare-Dezvoltare pentru Îmbunătăţiri Funciare - I.N.C.D.I.F. - \"ISPIF\" Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74298",
+   "versions": [
+    {
+     "from": "2006-08-15",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74298",
+     "sha256": "fba29f00aeed80b901bbbb094d130b87ac464424891f44c389b9494759c607f8"
     }
    ]
   },
@@ -351998,6 +353198,21 @@
    ]
   },
   {
+   "slug": "hg-947-2006",
+   "path": "hg/2006/947",
+   "short": "HG nr. 947/2006",
+   "title": "Hotărârea Guvernului nr. 947/2006 privind aprobarea contractului de consultanţă şi servicii financiare în vederea finalizării privatizării Societăţii Comerciale \"Romtelecom\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73972",
+   "versions": [
+    {
+     "from": "2006-08-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73972",
+     "sha256": "69d739892b9561c909e8c6e2fdb8fea029e739f6ac30ef1a7e090d24c71f11f5"
+    }
+   ]
+  },
+  {
    "slug": "hg-947-2007",
    "path": "hg/2007/947",
    "short": "HG nr. 947/2007",
@@ -352399,6 +353614,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304182",
      "sha256": "6e427d61d8a8b084dd6f64bce939df070c961f1d1c23c2f3bf4fc132dc8d49f0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-949-2006",
+   "path": "hg/2006/949",
+   "short": "HG nr. 949/2006",
+   "title": "Hotărârea Guvernului nr. 949/2006 privind transmiterea unor drumuri forestiere şi a terenurilor aferente acestora din domeniul public al statului şi din administrarea Regiei Naţionale a Pădurilor - Romsilva în domeniul public al unor comune din judeţul Suceava şi în administrarea consiliilor locale ale acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73910",
+   "versions": [
+    {
+     "from": "2006-07-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73910",
+     "sha256": "ce5e5ef193f5330dd2daeb02cd1e376aa2723976c48000f1d81b42cff5cad8d3"
     }
    ]
   },
@@ -352853,6 +354083,21 @@
    ]
   },
   {
+   "slug": "hg-950-2006",
+   "path": "hg/2006/950",
+   "short": "HG nr. 950/2006",
+   "title": "Hotărârea Guvernului nr. 950/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru judeţul Maramureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73866",
+   "versions": [
+    {
+     "from": "2006-07-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73866",
+     "sha256": "83ebbc28e629018f3c17587540d4b4484a4a9ab3db86fb33783926c032fbffac"
+    }
+   ]
+  },
+  {
    "slug": "hg-950-2008",
    "path": "hg/2008/950",
    "short": "HG nr. 950/2008",
@@ -353050,6 +354295,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315985",
      "sha256": "ab26ee435d1cedca44c8262a71014179bad3e56052b35ee116b71b95b63a474c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-951-2006",
+   "path": "hg/2006/951",
+   "short": "HG nr. 951/2006",
+   "title": "Hotărârea Guvernului nr. 951/2006 privind suplimentarea bugetului Ministerului Culturii şi Cultelor din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2006, pentru Parohia greco-catolică din comuna Mireşu Mare, judeţul Maramureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73867",
+   "versions": [
+    {
+     "from": "2006-07-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73867",
+     "sha256": "10804b7ce6488ed331df727ac17ea5a38bb9bb5b85eb1e204cb4bdf6e0a356f4"
     }
    ]
   },
@@ -353294,6 +354554,21 @@
    ]
   },
   {
+   "slug": "hg-952-2006",
+   "path": "hg/2006/952",
+   "short": "HG nr. 952/2006",
+   "title": "Hotărârea Guvernului nr. 952/2006 privind acordarea unui ajutor umanitar de urgenţă pentru populaţia din judeţele Alba, Bistriţa-Năsăud şi Suceava",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73891",
+   "versions": [
+    {
+     "from": "2006-07-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73891",
+     "sha256": "1fedeb8fdcfed3afc78fe5e335cef2e82da2a0ba6879bce35efad1799e5a862e"
+    }
+   ]
+  },
+  {
    "slug": "hg-952-2008",
    "path": "hg/2008/952",
    "short": "HG nr. 952/2008",
@@ -353440,6 +354715,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304188",
      "sha256": "7ba188956214bbc7dc86041e149c4f9fff50028ec9c5b4ad5fecbf11fbc00892"
+    }
+   ]
+  },
+  {
+   "slug": "hg-953-2006",
+   "path": "hg/2006/953",
+   "short": "HG nr. 953/2006",
+   "title": "Hotărârea Guvernului nr. 953/2006 pentru aprobarea unor măsuri speciale ca urmare a conflictului din Liban",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73892",
+   "versions": [
+    {
+     "from": "2006-07-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73892",
+     "sha256": "c5085290c05fb07fe3af0c33c34f8b3c55979c5c9b623f1e92ebc94995150c11"
     }
    ]
   },
@@ -353731,6 +355021,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62570",
      "sha256": "ef3af13ea74ce09518e0be49757d3039ae1fde90b15aed4aca614e0aa56e3b5f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-954-2006",
+   "path": "hg/2006/954",
+   "short": "HG nr. 954/2006",
+   "title": "Hotărârea Guvernului nr. 954/2006 privind aprobarea cheltuielilor ocazionate de organizarea la Bucureşti, în perioada 30 august - 1 septembrie 2006, a Reuniunii anuale a diplomaţiei române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73893",
+   "versions": [
+    {
+     "from": "2006-07-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73893",
+     "sha256": "442d35dcead7cc7c1106d378585e1357f06a10442da3455e814071d0474583ba"
     }
    ]
   },
@@ -354221,6 +355526,21 @@
    ]
   },
   {
+   "slug": "hg-956-2006",
+   "path": "hg/2006/956",
+   "short": "HG nr. 956/2006",
+   "title": "Hotărârea Guvernului nr. 956/2006 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru finanţarea lucrărilor de amenajare a albiei şi refacerea apărării de mal, aferente podului rutier pe drumul judeţean DJ 109 la km 46 + 623, pe Valea Almaşului, în comuna Hida, judeţul Sălaj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73841",
+   "versions": [
+    {
+     "from": "2006-07-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73841",
+     "sha256": "7b1964bc860c40fac1e6331028a1d5962e303da3261ef5538e2d10927b6c83a3"
+    }
+   ]
+  },
+  {
    "slug": "hg-956-2009",
    "path": "hg/2009/956",
    "short": "HG nr. 956/2009",
@@ -354578,6 +355898,21 @@
    ]
   },
   {
+   "slug": "hg-958-2006",
+   "path": "hg/2006/958",
+   "short": "HG nr. 958/2006",
+   "title": "Hotărârea Guvernului nr. 958/2006 privind redobândirea cetăţeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73879",
+   "versions": [
+    {
+     "from": "2006-07-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73879",
+     "sha256": "b528ab3f4d2782c72250aae435f34801dc17c987a006c2a6ebfac3b7e76d32a3"
+    }
+   ]
+  },
+  {
    "slug": "hg-958-2007",
    "path": "hg/2007/958",
    "short": "HG nr. 958/2007",
@@ -354754,6 +356089,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/286826",
      "sha256": "ebc4a5026fe6ab1816de512a68ce2ef3bb0d2f3638ee30e72401586daee59314"
+    }
+   ]
+  },
+  {
+   "slug": "hg-959-2006",
+   "path": "hg/2006/959",
+   "short": "HG nr. 959/2006",
+   "title": "Hotărârea Guvernului nr. 959/2006 pentru redobândirea cetăţeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73880",
+   "versions": [
+    {
+     "from": "2006-07-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73880",
+     "sha256": "f38409cf0401b1d67c912da01bbf88d2c0752a3d9f4c9d68ae10879f84642600"
     }
    ]
   },
@@ -355133,6 +356483,21 @@
    ]
   },
   {
+   "slug": "hg-960-2006",
+   "path": "hg/2006/960",
+   "short": "HG nr. 960/2006",
+   "title": "Hotărârea Guvernului nr. 960/2006 pentru stabilirea unor măsuri referitoare la obiectivul de investiţii \"Biblioteca Naţională\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73921",
+   "versions": [
+    {
+     "from": "2006-07-31",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73921",
+     "sha256": "2ae9bb0c76d1f6404acfcd6166586477c39e023873642f141605b5e1c8f1d1d4"
+    }
+   ]
+  },
+  {
    "slug": "hg-960-2009",
    "path": "hg/2009/960",
    "short": "HG nr. 960/2009",
@@ -355300,6 +356665,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275265",
      "sha256": "a93317e4eb0f31db25261e2e59479d9f885e66e8f6197b4e8fe26ed246f9352f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-961-2006",
+   "path": "hg/2006/961",
+   "short": "HG nr. 961/2006",
+   "title": "Hotărârea Guvernului nr. 961/2006 pentru modificarea anexei nr. 1 la Hotărârea Guvernului nr. 837/1995 cu privire la criteriile de salarizare în valută şi celelalte drepturi în valută şi în lei ale personalului trimis în misiune permanentă în străinătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73922",
+   "versions": [
+    {
+     "from": "2006-07-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73922",
+     "sha256": "5f6c768603cc1372def8b32c0772e9b903e4e82c2e0287adc349439a9ef1de68"
     }
    ]
   },
@@ -355495,6 +356875,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275312",
      "sha256": "7817a528fbb139745f45a3ed21a8e02b8124be3a58583d731487d10fd67d6df8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-962-2006",
+   "path": "hg/2006/962",
+   "short": "HG nr. 962/2006",
+   "title": "Hotărârea Guvernului nr. 962/2006 pentru completarea Hotărârii Guvernului nr. 908/2002 privind atestarea domeniului public al judeţului Vrancea, precum şi al municipiilor, oraşelor şi comunelor din judeţul Vrancea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73978",
+   "versions": [
+    {
+     "from": "2006-08-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73978",
+     "sha256": "861789426d8f18542495ab8e78bc923a201494a5453afb443eb89c1bd949f462"
     }
    ]
   },
@@ -356294,6 +357689,21 @@
    ]
   },
   {
+   "slug": "hg-966-2006",
+   "path": "hg/2006/966",
+   "short": "HG nr. 966/2006",
+   "title": "Hotărârea Guvernului nr. 966/2006 pentru modificarea şi completarea Hotărârii Guvernului nr. 966/2002 privind atestarea domeniului public al judeţului Sălaj, precum şi al municipiului Zalău, oraşelor şi comunelor din judeţul Sălaj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73967",
+   "versions": [
+    {
+     "from": "2006-08-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73967",
+     "sha256": "ea3cd09b16c50b329b4ce3f3b7a7c456bec0d994df533aa9a96ab5173b13bbbc"
+    }
+   ]
+  },
+  {
    "slug": "hg-966-2007",
    "path": "hg/2007/966",
    "short": "HG nr. 966/2007",
@@ -356966,6 +358376,21 @@
    ]
   },
   {
+   "slug": "hg-969-2006",
+   "path": "hg/2006/969",
+   "short": "HG nr. 969/2006",
+   "title": "Hotărârea Guvernului nr. 969/2006 privind trecerea din domeniul public al statului în domeniul privat al statului a unor mijloace fixe concesionate Companiei Naţionale de Transport al Energiei Electrice \"Transelectrica\" - S.A. - Sucursala de Transport Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74026",
+   "versions": [
+    {
+     "from": "2006-08-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74026",
+     "sha256": "e74a05b12d82bb10f9ea036aa0e04b1840b68f363d06f881953c4d567d88d373"
+    }
+   ]
+  },
+  {
    "slug": "hg-969-2008",
    "path": "hg/2008/969",
    "short": "HG nr. 969/2008",
@@ -357337,6 +358762,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279304",
      "sha256": "8c4aa51092f997f3691b188583e01d4bac1acb6ae994f550d52b36aa87d070f8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-970-2006",
+   "path": "hg/2006/970",
+   "short": "HG nr. 970/2006",
+   "title": "Hotărârea Guvernului nr. 970/2006 privind aprobarea Planului naţional de acţiune în domeniul ocupării PNAO - 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74388",
+   "versions": [
+    {
+     "from": "2006-08-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74388",
+     "sha256": "5f6c77934aaf72580ec99833dd0140a016312f7b704b52893e79b56e81dbca28"
     }
    ]
   },
@@ -358241,6 +359681,21 @@
    ]
   },
   {
+   "slug": "hg-974-2006",
+   "path": "hg/2006/974",
+   "short": "HG nr. 974/2006",
+   "title": "Hotărârea Guvernului nr. 974/2006 privind transmiterea unui teren, proprietate publică a statului, din administrarea Ministerului Sănătăţii Publice în administrarea Ministerului Muncii, Solidarităţii Sociale şi Familiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74083",
+   "versions": [
+    {
+     "from": "2006-08-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74083",
+     "sha256": "f95c9625720eff9e0b70c0cb0ccdfd3dcdfc3e3819f9957e45bc7a705edff925"
+    }
+   ]
+  },
+  {
    "slug": "hg-974-2008",
    "path": "hg/2008/974",
    "short": "HG nr. 974/2008",
@@ -358781,6 +360236,21 @@
    ]
   },
   {
+   "slug": "hg-977-2006",
+   "path": "hg/2006/977",
+   "short": "HG nr. 977/2006",
+   "title": "Hotărârea Guvernului nr. 977/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru judeţul Hunedoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74053",
+   "versions": [
+    {
+     "from": "2006-08-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74053",
+     "sha256": "89dce10236472862182c1a9c7d88443d84b03bf223ee2244ffbfdd20fb9e3294"
+    }
+   ]
+  },
+  {
    "slug": "hg-977-2007",
    "path": "hg/2007/977",
    "short": "HG nr. 977/2007",
@@ -359006,6 +360476,21 @@
    ]
   },
   {
+   "slug": "hg-978-2006",
+   "path": "hg/2006/978",
+   "short": "HG nr. 978/2006",
+   "title": "Hotărârea Guvernului nr. 978/2006 pentru modificarea art. 6 din Normele metodologice de aplicare a Legii nr. 248/2005 privind regimul liberei circulaţii a cetăţenilor români în străinătate, aprobate prin Hotărârea Guvernului nr. 94/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74054",
+   "versions": [
+    {
+     "from": "2006-08-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74054",
+     "sha256": "54c57541e9e5e12c72c70bc32d61d94219ce8a1599f6b1873b2b7d25f5d9effe"
+    }
+   ]
+  },
+  {
    "slug": "hg-978-2007",
    "path": "hg/2007/978",
    "short": "HG nr. 978/2007",
@@ -359212,6 +360697,21 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/24767",
      "sha256": "371bbc867323336a6aa23f81285010ca1bea5827a59677e96fe0567b4876819f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-979-2006",
+   "path": "hg/2006/979",
+   "short": "HG nr. 979/2006",
+   "title": "Hotărârea Guvernului nr. 979/2006 privind acordarea unui ajutor umanitar de urgenţă pentru populaţia din judeţul Călăraşi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74055",
+   "versions": [
+    {
+     "from": "2006-08-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74055",
+     "sha256": "784c38fd2bc390707a678e597117389d04a5ba085896f08d8d254306072dd1fd"
     }
    ]
   },
@@ -359711,6 +361211,21 @@
    ]
   },
   {
+   "slug": "hg-981-2006",
+   "path": "hg/2006/981",
+   "short": "HG nr. 981/2006",
+   "title": "Hotărârea Guvernului nr. 981/2006 pentru aprobarea plăţii contribuţiei financiare a României la programele comunitare \"Program comunitar referitor la strategia comunitară cadru privind egalitatea între femei şi bărbaţi\" (2001-2006) şi \"Măsuri comunitare de stimulare în domeniul ocupării forţei de muncă\" pentru anul 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74057",
+   "versions": [
+    {
+     "from": "2006-08-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74057",
+     "sha256": "ee74000927dc2cc97495c647425292c44eca3a7182c1b4b91be369e5243eca66"
+    }
+   ]
+  },
+  {
    "slug": "hg-981-2007",
    "path": "hg/2007/981",
    "short": "HG nr. 981/2007",
@@ -359887,6 +361402,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287380",
      "sha256": "0c1947acd3850efae21e3a73939873078d7049ad93e293d522d47f1a6e9b9ac4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-982-2006",
+   "path": "hg/2006/982",
+   "short": "HG nr. 982/2006",
+   "title": "Hotărârea Guvernului nr. 982/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru judeţul Suceava",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74058",
+   "versions": [
+    {
+     "from": "2006-08-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74058",
+     "sha256": "03663ea6e4070e2d22316f37925051c2d98e50b44b88fa0b65571cda9848e88d"
     }
    ]
   },
@@ -387995,6 +389525,21 @@
    ]
   },
   {
+   "slug": "legea-250-2006",
+   "path": "lege/2006/250",
+   "short": "Legea nr. 250/2006",
+   "title": "Legea nr. 250/2006 pentru modificarea Legii nr. 90/2001 privind organizarea şi funcţionarea Guvernului României şi a ministerelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72948",
+   "versions": [
+    {
+     "from": "2006-06-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72948",
+     "sha256": "e0d9fe97f8207d58d31cb007d088b20f92623115dd2e2ef680b9bfe383122f2a"
+    }
+   ]
+  },
+  {
    "slug": "legea-250-2007",
    "path": "lege/2007/250",
    "short": "Legea nr. 250/2007",
@@ -388363,6 +389908,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/44478",
      "sha256": "c3a63ed2f82a1f057e60a2e96688b36c428f95ef4e38895ce75ceae050862ae6"
+    }
+   ]
+  },
+  {
+   "slug": "legea-252-2006",
+   "path": "lege/2006/252",
+   "short": "Legea nr. 252/2006",
+   "title": "Legea nr. 252/2006 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 202/2005 pentru aprobarea strategiei de privatizare a Companiei Naţionale \"Loteria Română\" - S.A. şi a Companiei Naţionale \"Imprimeria Naţională\" - S.A., precum şi pentru modificarea actelor normative care reglementează regimul acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72913",
+   "versions": [
+    {
+     "from": "2006-06-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72913",
+     "sha256": "ca177683c45d916f77d4f2fa85b329acef4ba1fbe2dd643d5625903ec36cd60e"
     }
    ]
   },
@@ -389738,6 +391298,21 @@
    ]
   },
   {
+   "slug": "legea-261-2006",
+   "path": "lege/2006/261",
+   "short": "Legea nr. 261/2006",
+   "title": "Legea nr. 261/2006 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 26/2006 pentru completarea art. 16 din Legea nr. 137/2002 privind unele măsuri pentru accelerarea privatizării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73110",
+   "versions": [
+    {
+     "from": "2006-07-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73110",
+     "sha256": "3e12ca8e276b61a618e1d5269c94ae7f9930422b8d7e876d6fcfcca625c8ab92"
+    }
+   ]
+  },
+  {
    "slug": "legea-261-2018",
    "path": "lege/2018/261",
    "short": "Legea nr. 261/2018",
@@ -389824,6 +391399,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289779",
      "sha256": "e8de42695dad7a5794a7e441d4faf8e985843475f97b5ffc5050aba40f46806b"
+    }
+   ]
+  },
+  {
+   "slug": "legea-262-2006",
+   "path": "lege/2006/262",
+   "short": "Legea nr. 262/2006",
+   "title": "Legea nr. 262/2006 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 28/2006 privind accelerarea procedurilor de utilizare a creditelor externe de stat şi garantate de stat, precum şi a fondurilor structurale şi a finanţării naţionale aferente, pentru lucrările de infrastructură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73055",
+   "versions": [
+    {
+     "from": "2006-07-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73055",
+     "sha256": "40929c4936ec404d006c27f00d67f7a230062bb38d9b4762739554f51e6ef003"
     }
    ]
   },
@@ -390767,6 +392357,21 @@
    ]
   },
   {
+   "slug": "legea-270-2006",
+   "path": "lege/2006/270",
+   "short": "Legea nr. 270/2006",
+   "title": "Legea nr. 270/2006 pentru ratificarea Protocolului adiţional dintre Guvernul României şi Guvernul Republicii Indonezia, semnat la Bucureşti la 7 decembrie 2005, la Acordul dintre Guvernul României şi Guvernul Republicii Indonezia privind promovarea şi protejarea investiţiilor, semnat la Bucureşti la 26 iunie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73276",
+   "versions": [
+    {
+     "from": "2006-07-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73276",
+     "sha256": "c423bc44b8b086347de452033cafa4198084c5cb37582741f59a8a5e8224be37"
+    }
+   ]
+  },
+  {
    "slug": "legea-270-2009",
    "path": "lege/2009/270",
    "short": "Legea nr. 270/2009",
@@ -391000,6 +392605,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259747",
      "sha256": "1d0f9827ed79372106b063e72031218aebcedc3b5b94c15bfc3cb23ceaf6ef1e"
+    }
+   ]
+  },
+  {
+   "slug": "legea-272-2006",
+   "path": "lege/2006/272",
+   "short": "Legea nr. 272/2006",
+   "title": "Legea nr. 272/2006 pentru completarea art. 7 din Legea nr. 506/2004 privind prelucrarea datelor cu caracter personal şi protecţia vieţii private în sectorul comunicaţiilor electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73133",
+   "versions": [
+    {
+     "from": "2006-07-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73133",
+     "sha256": "76e0e5aea6ec25f0f632c411e04a721699dac59196a138400640ff5af57b7f55"
     }
    ]
   },
@@ -391535,6 +393155,21 @@
    ]
   },
   {
+   "slug": "legea-276-2006",
+   "path": "lege/2006/276",
+   "short": "Legea nr. 276/2006",
+   "title": "Legea nr. 276/2006 pentru modificarea art. 12 din Legea nr. 15/1990 privind reorganizarea unităţilor economice de stat ca regii autonome şi societăţi comerciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73227",
+   "versions": [
+    {
+     "from": "2006-07-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73227",
+     "sha256": "3cf2d0dbce3d9446cf2ebd2c8f1256887052c7d139eccb6567b9f8940f8b1045"
+    }
+   ]
+  },
+  {
    "slug": "legea-276-2008",
    "path": "lege/2008/276",
    "short": "Legea nr. 276/2008",
@@ -391621,6 +393256,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290431",
      "sha256": "366da7c2496f19586d90bb7c8c2f7a23035da08e6bc1f4567903dd1c0d112a06"
+    }
+   ]
+  },
+  {
+   "slug": "legea-277-2006",
+   "path": "lege/2006/277",
+   "short": "Legea nr. 277/2006",
+   "title": "Legea nr. 277/2006 privind aprobarea Ordonanţei Guvernului nr. 26/2006 pentru modificarea şi completarea Legii bibliotecilor nr. 334/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73320",
+   "versions": [
+    {
+     "from": "2006-07-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73320",
+     "sha256": "99081162a465f0643fe6f551e2369b2e1b613cbda56a6aaed17ad595ce6d5a1d"
     }
    ]
   },
@@ -392369,6 +394019,21 @@
    ]
   },
   {
+   "slug": "legea-282-2006",
+   "path": "lege/2006/282",
+   "short": "Legea nr. 282/2006",
+   "title": "Legea nr. 282/2006 pentru modificarea anexei nr. I la Ordonanţa de urgenţă a Guvernului nr. 115/2004 privind salarizarea şi alte drepturi ale personalului contractual din unităţile sanitare publice din sectorul sanitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73389",
+   "versions": [
+    {
+     "from": "2006-07-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73389",
+     "sha256": "a8380122d87c705b298e82c3f854eb52c1e26707b191489aaf7b07ac1037d1ff"
+    }
+   ]
+  },
+  {
    "slug": "legea-282-2007",
    "path": "lege/2007/282",
    "short": "Legea nr. 282/2007",
@@ -392495,6 +394160,21 @@
    ]
   },
   {
+   "slug": "legea-283-2006",
+   "path": "lege/2006/283",
+   "short": "Legea nr. 283/2006",
+   "title": "Legea nr. 283/2006 pentru ratificarea Acordului anual de finanţare 2005 dintre Guvernul României, în numele României, şi Comisia Comunităţilor Europene, în numele Comunităţii Europene, semnat la Bucureşti la 29 decembrie 2005 şi, respectiv, la Bruxelles la 3 ianuarie 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73384",
+   "versions": [
+    {
+     "from": "2006-07-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73384",
+     "sha256": "1a1538bde994caa01c4a635cacdaa677559c696fa3fddd1d705d20e7d550e81f"
+    }
+   ]
+  },
+  {
    "slug": "legea-283-2007",
    "path": "lege/2007/283",
    "short": "Legea nr. 283/2007",
@@ -392596,6 +394276,21 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/290923",
      "sha256": "fa8defcdb2353eb3146a2e0044157791ea2c9080c6487130fcb02f7209c275b6"
+    }
+   ]
+  },
+  {
+   "slug": "legea-284-2006",
+   "path": "lege/2006/284",
+   "short": "Legea nr. 284/2006",
+   "title": "Legea nr. 284/2006 pentru aderarea României la Convenţia privind limitarea răspunderii pentru creanţe maritime şi la Protocolul din 1996 pentru amendarea acesteia, adoptate în cadrul Organizaţiei Maritime Internaţionale la Londra la 19 noiembrie 1976, respectiv la 2 mai 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73699",
+   "versions": [
+    {
+     "from": "2006-07-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73699",
+     "sha256": "d552e49cbdaff0c411e4f930d5505d028e925db44c412b69fb43ff81f5972998"
     }
    ]
   },
@@ -392899,6 +394594,21 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53313",
      "sha256": "b66b9c2705a1ee951eafb206aaf37a4fd469d14c64b38ed0160bd740edf28ca7"
+    }
+   ]
+  },
+  {
+   "slug": "legea-287-2006",
+   "path": "lege/2006/287",
+   "short": "Legea nr. 287/2006",
+   "title": "Legea nr. 287/2006 pentru modificarea şi completarea Ordonanţei Guvernului nr. 51/1997 privind operaţiunile de leasing şi societăţile de leasing",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73413",
+   "versions": [
+    {
+     "from": "2006-08-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73413",
+     "sha256": "d8611726fb0d8500d3cb12960d37636f3be74a5be2f6d4cd6730a1f268b94910"
     }
    ]
   },
@@ -393649,6 +395359,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291461",
      "sha256": "2a93eb4004ed1f6b5925cc144b0847396fc3972f5ea4f1583120e4ea922c6159"
+    }
+   ]
+  },
+  {
+   "slug": "legea-293-2006",
+   "path": "lege/2006/293",
+   "short": "Legea nr. 293/2006",
+   "title": "Legea nr. 293/2006 pentru acceptarea amendamentului la Convenţia Espoo (Espoo, 25 februarie 1991), adoptat prin Decizia II/14 a celei de-a doua Reuniuni a părţilor, la Sofia la 27 februarie 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73795",
+   "versions": [
+    {
+     "from": "2006-07-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73795",
+     "sha256": "f175d8e1f8cc0e0226f7cc0e3a13abbe427905e5ab896f5104c851f164b73bf4"
     }
    ]
   },
@@ -394958,6 +396683,21 @@
    ]
   },
   {
+   "slug": "legea-304-2006",
+   "path": "lege/2006/304",
+   "short": "Legea nr. 304/2006",
+   "title": "Legea nr. 304/2006 pentru ratificarea amendamentelor convenite între România şi Banca de Dezvoltare a Consiliului Europei, prin schimbul de scrisori semnate la Bucureşti la 15 decembrie 2005 şi la Paris la 19 decembrie 2005, la Acordul-cadru de împrumut dintre România şi Banca de Dezvoltare a Consiliului Europei, semnat la Paris la 17 august 2001 şi la Bucureşti la 20 august 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73691",
+   "versions": [
+    {
+     "from": "2006-07-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73691",
+     "sha256": "c6c164b917fd95b9caf6af6fea4e689aac079aab05dda9d7068738c99bf8cefe"
+    }
+   ]
+  },
+  {
    "slug": "legea-304-2023",
    "path": "lege/2023/304",
    "short": "Legea nr. 304/2023",
@@ -394984,6 +396724,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292089",
      "sha256": "617cb1843d4eddc0f1af981b3e4319cb9ab319c866e76b5dfa76ef5981e82fb1"
+    }
+   ]
+  },
+  {
+   "slug": "legea-305-2006",
+   "path": "lege/2006/305",
+   "short": "Legea nr. 305/2006",
+   "title": "Legea nr. 305/2006 privind ratificarea Convenţiei europene pentru protecţia animalelor vertebrate utilizate în experimente şi alte scopuri ştiinţifice, adoptată la Strasbourg la 18 martie 1986, şi a Protocolului de amendare a Convenţiei europene pentru protecţia animalelor vertebrate utilizate în experimente şi alte scopuri ştiinţifice, adoptat la Strasbourg la 22 iunie 1998, semnate de România la 15 februarie 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74186",
+   "versions": [
+    {
+     "from": "2006-08-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74186",
+     "sha256": "28409829218aaeedcc110368e0470dfdfe10e286f131d2aeead5cc2049c8639e"
     }
    ]
   },
@@ -395306,6 +397061,21 @@
    ]
   },
   {
+   "slug": "legea-308-2006",
+   "path": "lege/2006/308",
+   "short": "Legea nr. 308/2006",
+   "title": "Legea nr. 308/2006 pentru completarea Legii nr. 351/2001 privind aprobarea Planului de amenajare a teritoriului naţional - Secţiunea a IV-a - Reţeaua de localităţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73727",
+   "versions": [
+    {
+     "from": "2006-07-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73727",
+     "sha256": "e2a818ee4fa757f4035bbfc635b4d8e7f20507c671c918bbc91b65dbc6d71354"
+    }
+   ]
+  },
+  {
    "slug": "legea-308-2018",
    "path": "lege/2018/308",
    "short": "Legea nr. 308/2018",
@@ -395347,6 +397117,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275988",
      "sha256": "fb65ae9b70ce3555a9f68197e7905ab904910f4aef51042fd74413c3be300c1c"
+    }
+   ]
+  },
+  {
+   "slug": "legea-309-2006",
+   "path": "lege/2006/309",
+   "short": "Legea nr. 309/2006",
+   "title": "Legea nr. 309/2006 pentru modificarea şi completarea Legii nr. 421/2002 privind regimul juridic al vehiculelor fără stăpân sau abandonate pe terenuri aparţinând domeniului public sau privat al statului ori al unităţilor administrativ-teritoriale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73732",
+   "versions": [
+    {
+     "from": "2006-07-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73732",
+     "sha256": "a5a51a0ac9953821b0a86ed849666c06370db1c0731c3a368f0a384733f9c427"
     }
    ]
   },
@@ -395576,6 +397361,21 @@
    ]
   },
   {
+   "slug": "legea-311-2006",
+   "path": "lege/2006/311",
+   "short": "Legea nr. 311/2006",
+   "title": "Legea nr. 311/2006 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 160/2005 pentru prorogarea termenului de intrare în vigoare a Legii nr. 327/2005 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 38/2005 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 150/2002 privind organizarea şi funcţionarea sistemului de asigurări sociale de sănătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73736",
+   "versions": [
+    {
+     "from": "2006-07-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73736",
+     "sha256": "f5c3ba26a4bc8cc877951f25b991b8e757d69b0dce125feb250385a858101521"
+    }
+   ]
+  },
+  {
    "slug": "legea-311-2013",
    "path": "lege/2013/311",
    "short": "Legea nr. 311/2013",
@@ -395617,6 +397417,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292231",
      "sha256": "a010dfbf810fad6216fdf8992866187b70a6e8b28f6b20e5dad70a837c5fde45"
+    }
+   ]
+  },
+  {
+   "slug": "legea-312-2006",
+   "path": "lege/2006/312",
+   "short": "Legea nr. 312/2006",
+   "title": "Legea nr. 312/2006 pentru aprobarea Ordonanţei Guvernului nr. 23/2006 privind creşterile salariale ce se vor acorda în anul 2006 personalului contractual din unităţile sanitare publice din sectorul sanitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73504",
+   "versions": [
+    {
+     "from": "2006-07-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73504",
+     "sha256": "4aea0f22b5e479412903e773174dcc75fe2cbea5c5b6d692a015d9704b8f9543"
     }
    ]
   },
@@ -395677,6 +397492,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276039",
      "sha256": "0bb1564666906e457b253f978ee4102ffe48a578c35885c0ff4d1071e9425f9a"
+    }
+   ]
+  },
+  {
+   "slug": "legea-313-2006",
+   "path": "lege/2006/313",
+   "short": "Legea nr. 313/2006",
+   "title": "Legea nr. 313/2006 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 206/2005 pentru modificarea şi completarea Legii spitalelor nr. 270/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73506",
+   "versions": [
+    {
+     "from": "2006-07-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73506",
+     "sha256": "15ab796113d11a2af6484d1b8db298465677078313df7c96b82736fd34f88729"
     }
    ]
   },
@@ -395758,6 +397588,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276041",
      "sha256": "c2e061619d1b8730845b20990f8bdd1d6e11a96f11b6c553455a051a72cd0696"
+    }
+   ]
+  },
+  {
+   "slug": "legea-314-2006",
+   "path": "lege/2006/314",
+   "short": "Legea nr. 314/2006",
+   "title": "Legea nr. 314/2006 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 21/2006 pentru modificarea Legii nr. 571/2003 privind Codul fiscal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73516",
+   "versions": [
+    {
+     "from": "2006-07-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73516",
+     "sha256": "86861b21103d17e10521cb6d35ef8b2b599aea2035ec9f9563a59ef630f42ff1"
     }
    ]
   },
@@ -395998,6 +397843,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276095",
      "sha256": "55323db3dc2e91e107ce291d4b7cdbeb32187003c0bf842d9b7cbd2256cfff22"
+    }
+   ]
+  },
+  {
+   "slug": "legea-317-2006",
+   "path": "lege/2006/317",
+   "short": "Legea nr. 317/2006",
+   "title": "Legea nr. 317/2006 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 33/2006 pentru modificarea şi completarea Legii nr. 571/2003 privind Codul fiscal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73568",
+   "versions": [
+    {
+     "from": "2006-07-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73568",
+     "sha256": "05092d7641d4ecef392417819aa544be26f54291e6c3b0a321780fbaea54f23e"
     }
    ]
   },
@@ -397289,6 +399149,21 @@
    ]
   },
   {
+   "slug": "legea-330-2006",
+   "path": "lege/2006/330",
+   "short": "Legea nr. 330/2006",
+   "title": "Legea nr. 330/2006 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 104/2002 privind regimul vamal al mărfurilor comercializate în regim duty-free",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73625",
+   "versions": [
+    {
+     "from": "2006-07-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73625",
+     "sha256": "0bf22d004ba943ddf99945e6185e125728c5e7bd721221e807c9bbb18286eca0"
+    }
+   ]
+  },
+  {
    "slug": "legea-330-2013",
    "path": "lege/2013/330",
    "short": "Legea nr. 330/2013",
@@ -397375,6 +399250,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292946",
      "sha256": "bd52a7d6dd905a8d758427e60e0b9d04adb6cb2ef329f1a445822b0f80f73679"
+    }
+   ]
+  },
+  {
+   "slug": "legea-331-2006",
+   "path": "lege/2006/331",
+   "short": "Legea nr. 331/2006",
+   "title": "Legea nr. 331/2006 pentru modificarea şi completarea Ordonanţei Guvernului nr. 66/2000 privind organizarea şi exercitarea profesiei de consilier în proprietate industrială",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73778",
+   "versions": [
+    {
+     "from": "2006-07-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73778",
+     "sha256": "4b830ac8725bf225de9fc5bbb8ad655f81924c64350139dcd2e79d3e302722f5"
     }
    ]
   },
@@ -397675,6 +399565,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/262282",
      "sha256": "927bb6e2ab0219b92af04a7c30fbc28ea5481d8ba16d8575636065d2ed2a8e1b"
+    }
+   ]
+  },
+  {
+   "slug": "legea-336-2006",
+   "path": "lege/2006/336",
+   "short": "Legea nr. 336/2006",
+   "title": "Legea nr. 336/2006 privind modificarea art. III din Ordonanţa de urgenţă a Guvernului nr. 29/2005 pentru modificarea Legii nr. 290/2002 privind organizarea şi funcţionarea unităţilor de cercetare-dezvoltare din domeniile agriculturii, silviculturii, industriei alimentare şi a Academiei de Ştiinţe Agricole şi Silvice \"Gheorghe Ionescu-Şişeşti\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73619",
+   "versions": [
+    {
+     "from": "2006-07-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73619",
+     "sha256": "9a15c0c770802e5cb350cae6e3126b326fe353768fc2890e66bb1511bebf768c"
     }
    ]
   },
@@ -398209,6 +400114,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209360",
      "sha256": "0e15fae67a985be5d448d29a79818b828046dc1802fdef83f236a9a9f67a097c"
+    }
+   ]
+  },
+  {
+   "slug": "legea-342-2006",
+   "path": "lege/2006/342",
+   "short": "Legea nr. 342/2006",
+   "title": "Legea nr. 342/2006 pentru completarea art. 29 din Legea nr. 1/2000 pentru reconstituirea dreptului de proprietate asupra terenurilor agricole şi celor forestiere, solicitate potrivit prevederilor Legii fondului funciar nr. 18/1991 şi ale Legii nr. 169/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73610",
+   "versions": [
+    {
+     "from": "2006-07-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73610",
+     "sha256": "30a91982ecd97b839f54ba77a427d949f9977737eb4e8d8e0054bdabfc18460a"
     }
    ]
   },
@@ -399286,6 +401206,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/276921",
      "sha256": "08ba7b54ac233daff0839b0193a435bbfb1ef760374ea15112ff5b158d2e9f8b"
+    }
+   ]
+  },
+  {
+   "slug": "legea-355-2006",
+   "path": "lege/2006/355",
+   "short": "Legea nr. 355/2006",
+   "title": "Legea nr. 355/2006 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 29/2006 pentru modificarea art. 1 din Ordonanţa de urgenţă a Guvernului nr. 144/2001 privind îndeplinirea de către cetăţenii români, la ieşirea din ţară, a condiţiilor de intrare în statele membre ale Uniunii Europene şi în alte state",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73756",
+   "versions": [
+    {
+     "from": "2006-07-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73756",
+     "sha256": "12f037602d117ef24a421e8b30eb2a9c6330a6341e78a07169af3d37e56e0707"
     }
    ]
   },
