@@ -1,6 +1,6 @@
 # Every act in this repository
 
-20750 acts, 34,383 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+20754 acts, 34,387 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -5559,7 +5559,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (15200, of which 7744 amending acts)
+## Government decisions (HG) (15204, of which 7747 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8800,6 +8800,10 @@
 | Hotărârea Guvernului nr. 1260/2011 | [`hg/2011/1260/`](hg/2011/1260/) | in force | 1 | 2011-12-29 | 2011-12-29 |
 | Hotărârea Guvernului nr. 1299/2011 | [`hg/2011/1299/`](hg/2011/1299/) | in force | 1 | 2012-01-16 | 2012-01-16 |
 | Hotărârea Guvernului nr. 1305/2011 | [`hg/2011/1305/`](hg/2011/1305/) | in force | 1 | 2012-01-16 | 2012-01-16 |
+| Hotărârea Guvernului nr. 28/2012 privind desfiinţarea unor unităţi sanitare publice cu paturi pentru care managementul asistenţei medicale a fost transferat către autorităţile administraţiei publice locale din judeţele Prahova şi Buzău | [`hg/2012/28/`](hg/2012/28/) | in force | 1 | 2012-01-24 | 2012-01-24 |
+| Hotărârea Guvernului nr. 30/2012 privind alocarea temporară a unor sume din vărsăminte din privatizare Ministerului Muncii, Familiei şi Protecţiei Sociale, conform prevederilor art. 25 alin. (2) din Legea bugetului de stat pe anul 2012 nr. 293/2011 , precum şi pentru aprobarea modului de gestionare a acestora | [`hg/2012/30/`](hg/2012/30/) | amending act | 1 | 2012-01-20 | 2012-01-20 |
+| Hotărârea Guvernului nr. 31/2012 pentru aprobarea modului de repartizare şi de utilizare a sumelor prevăzute la lit. a) şi b) din anexa nr. 3/13/02a la bugetul Secretariatului General al Guvernului, aprobat prin Legea bugetului de stat pe anul 2012 nr. 293/2011 | [`hg/2012/31/`](hg/2012/31/) | amending act | 1 | 2012-01-27 | 2012-01-27 |
+| Hotărârea Guvernului nr. 33/2012 pentru aprobarea Acordului dintre Guvernul României şi Guvernul Republicii Islamice Pakistan privind cooperarea economică, ştiinţifică şi tehnică, semnat la Islamabad la 12 septembrie 2011 | [`hg/2012/33/`](hg/2012/33/) | amending act | 1 | 2012-02-01 | 2012-02-01 |
 | Hotărârea Guvernului nr. 46/2012 | [`hg/2012/46/`](hg/2012/46/) | in force | 1 | 2012-02-06 | 2012-02-06 |
 | Hotărârea Guvernului nr. 47/2012 privind schimbarea titularului dreptului de administrare a unei părţi de imobil aflat în proprietatea publică a statului | [`hg/2012/47/`](hg/2012/47/) | in force | 1 | 2012-02-02 | 2012-02-02 |
 | Hotărârea Guvernului nr. 53/2012 | [`hg/2012/53/`](hg/2012/53/) | in force | 1 | 2012-02-01 | 2012-02-01 |
