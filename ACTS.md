@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38302 acts, 52,054 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38308 acts, 52,060 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -11897,7 +11897,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26371, of which 12335 amending acts)
+## Government decisions (HG) (26377, of which 12339 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13039,6 +13039,12 @@
 | Hotărârea Guvernului nr. 1217/2001 | [`hg/2001/1217/`](hg/2001/1217/) | in force | 1 | 2001-12-17 | 2001-12-17 |
 | Hotărârea Guvernului nr. 1219/2001 | [`hg/2001/1219/`](hg/2001/1219/) | in force | 1 | 2001-12-11 | 2001-12-11 |
 | Hotărârea Guvernului nr. 1222/2001 pentru aprobarea compensării timpului de muncă aferent zilelor de 24 şi 31 decembrie 2001, stabilite ca zile libere | [`hg/2001/1222/`](hg/2001/1222/) | amended, not consolidated | 1 | 2001-12-07 | 2001-12-07 |
+| Hotărârea Guvernului nr. 1235/2001 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului de Interne în domeniul public al municipiului Bârlad şi în administrarea Consiliului Local al Municipiului Bârlad | [`hg/2001/1235/`](hg/2001/1235/) | in force | 1 | 2001-12-17 | 2001-12-17 |
+| Hotărârea Guvernului nr. 1236/2001 pentru aprobarea amendamentului convenit prin schimb de scrisori la Washington la 12 iulie 2001 şi la Bucureşti la 3 august 2001 între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare pentru finanţarea Proiectului de reforma a învăţământului superior şi cercetării ştiinţifice universitare, în valoare de 50 milioane dolari S.U.A., semnat la Washington la 2 octombrie 1996 | [`hg/2001/1236/`](hg/2001/1236/) | amending act | 1 | 2001-12-17 | 2001-12-17 |
+| Hotărârea Guvernului nr. 1238/2001 pentru modificarea Hotărârii Guvernului nr. 1.069/2001 privind unele măsuri în vederea constituirii unui parc industrial prin divizarea Societăţii Comerciale "Electromecanica Ploieşti" - S.A. din cadrul Companiei Naţionale "Romarm" - S.A | [`hg/2001/1238/`](hg/2001/1238/) | amending act | 1 | 2001-12-17 | 2001-12-17 |
+| Hotărârea Guvernului nr. 1239/2001 privind declararea oraşului Hârşova, judeţul Constanţa, zona defavorizată | [`hg/2001/1239/`](hg/2001/1239/) | in force | 1 | 2001-12-19 | 2001-12-19 |
+| Hotărârea Guvernului nr. 1240/2001 privind aprobarea Programului UNCTAD/EMPRETEC - România pentru sprijinirea dezvoltării întreprinderilor mici şi mijlocii | [`hg/2001/1240/`](hg/2001/1240/) | amending act | 1 | 2001-12-19 | 2001-12-19 |
+| Hotărârea Guvernului nr. 1242/2001 privind aprobarea indicatorilor tehnico-economici ai obiectivelor de investiţii cuprinse în programul ISPA "Reabilitarea şi modernizarea sistemului de alimentare cu apa şi canalizare în zona Cluj", judeţul Cluj | [`hg/2001/1242/`](hg/2001/1242/) | amending act | 1 | 2001-12-17 | 2001-12-17 |
 | Hotărârea Guvernului nr. 1243/2001 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2001, pentru finanţarea comemorării a 12 ani de la Revoluţia Română din Decembrie 1989 | [`hg/2001/1243/`](hg/2001/1243/) | in force | 1 | 2001-12-17 | 2001-12-17 |
 | Hotărârea Guvernului nr. 1244/2001 pentru aprobarea Contractului-cadru privind condiţiile acordării asistenţei medicale în cadrul sistemului asigurărilor sociale de sănătate în asistenţa medicală primara | [`hg/2001/1244/`](hg/2001/1244/) | amended, not consolidated | 1 | 2002-01-01 | 2002-01-01 |
 | Hotărârea Guvernului nr. 1245/2001 pentru aprobarea Contractului-cadru privind condiţiile acordării asistenţei medicale în cadrul sistemului asigurărilor sociale de sănătate în asistenţa medicală ambulatorie de specialitate pentru specialităţile clinice, paraclinice şi stomatologice | [`hg/2001/1245/`](hg/2001/1245/) | amended, not consolidated | 1 | 2002-01-01 | 2002-01-01 |
