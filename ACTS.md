@@ -1,6 +1,6 @@
 # Every act in this repository
 
-26471 acts, 40,113 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+26510 acts, 40,152 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3848,7 +3848,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1748, of which 618 amending acts)
+## Emergency ordinances (OUG) (1749, of which 619 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4099,6 +4099,7 @@
 | Ordonanța de urgență a Guvernului nr. 124/2004 | [`oug/2004/124/`](oug/2004/124/) | in force | 2 | 2004-12-09 | 2005-04-14 |
 | Ordonanța de urgență a Guvernului nr. 137/2004 | [`oug/2004/137/`](oug/2004/137/) | in force | 2 | 2004-12-29 | 2005-03-24 |
 | Ordonanța de urgență a Guvernului nr. 141/2004 | [`oug/2004/141/`](oug/2004/141/) | in force | 2 | 2004-12-30 | 2005-03-06 |
+| Ordonanța de urgență a Guvernului nr. 142/2004 pentru suspendarea aplicării prevederilor Ordonanţei de urgenţă a Guvernului nr. 101/2004 privind preluarea de către Autoritatea pentru Valorificarea Activelor Statului a unor creanţe fiscale asupra societăţilor comerciale "RAFO" - S.A. Oneşti şi "CAROM" - S.A. Oneşti | [`oug/2004/142/`](oug/2004/142/) | amending act | 1 | 2004-12-30 | 2004-12-30 |
 | Ordonanța de urgență a Guvernului nr. 3/2005 | [`oug/2005/3/`](oug/2005/3/) | in force | 2 | 2005-02-04 | 2005-04-18 |
 | Ordonanța de urgență a Guvernului nr. 4/2005 | [`oug/2005/4/`](oug/2005/4/) | repealed 2011-01-01 | 6 | 2005-02-07 | 2011-01-01 |
 | Ordonanța de urgență a Guvernului nr. 15/2005 | [`oug/2005/15/`](oug/2005/15/) | in force | 2 | 2005-03-10 | 2005-05-21 |
@@ -6137,7 +6138,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (20343, of which 10488 amending acts)
+## Government decisions (HG) (20381, of which 10508 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6639,16 +6640,54 @@
 | Hotărârea Guvernului nr. 2293/2004 | [`hg/2004/2293/`](hg/2004/2293/) | in force | 2 | 2004-12-28 | 2016-10-20 |
 | Hotărârea Guvernului nr. 2294/2004 | [`hg/2004/2294/`](hg/2004/2294/) | in force | 1 | 2005-01-11 | 2005-01-11 |
 | Hotărârea Guvernului nr. 2333/2004 | [`hg/2004/2333/`](hg/2004/2333/) | in force | 1 | 2005-01-05 | 2005-01-05 |
+| Hotărârea Guvernului nr. 2394/2004 privind actualizarea alocaţiei sociale cuvenite adulţilor nevăzători cu handicap grav şi accentuat | [`hg/2004/2394/`](hg/2004/2394/) | in force | 1 | 2004-12-29 | 2004-12-29 |
+| Hotărârea Guvernului nr. 2395/2004 privind corectarea limitelor de venituri şi indexarea cuantumului alocaţiei familiale complementare şi a alocaţiei de susţinere pentru familia monoparentală | [`hg/2004/2395/`](hg/2004/2395/) | in force | 1 | 2004-12-29 | 2004-12-29 |
+| Hotărârea Guvernului nr. 2400/2004 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2005 al Autorităţii Naţionale de Reglementare în Domeniul Energiei | [`hg/2004/2400/`](hg/2004/2400/) | amending act | 1 | 2004-12-30 | 2004-12-30 |
+| Hotărârea Guvernului nr. 2401/2004 privind transmiterea cu titlu gratuit a unui bun mobil din patrimoniul Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat" în patrimoniul Secretariatului General al Camerei Deputaţilor | [`hg/2004/2401/`](hg/2004/2401/) | in force | 1 | 2004-12-29 | 2004-12-29 |
+| Hotărârea Guvernului nr. 2402/2004 pentru aprobarea Acordului dintre Guvernul României şi Guvernul Republicii Azerbaidjan privind colaborarea şi asistenţa reciprocă în domeniul vamal, semnat la Bucureşti la 11 octombrie 2004 | [`hg/2004/2402/`](hg/2004/2402/) | amending act | 1 | 2005-01-13 | 2005-01-13 |
 | Hotărârea Guvernului nr. 2403/2004 | [`hg/2004/2403/`](hg/2004/2403/) | in force | 1 | 2005-01-12 | 2005-01-12 |
+| Hotărârea Guvernului nr. 2405/2004 privind transmiterea unei suprafeţe de teren, proprietate publică a statului, din administrarea Ministerului Agriculturii, Pădurilor şi Dezvoltării Rurale - Institutul de Stat pentru Testarea şi Înregistrarea Soiurilor în administrarea Ministerului Educaţiei şi Cercetării Colegiul Naţional pentru Fete "Buna Vestire" Grădinari, judeţul Olt | [`hg/2004/2405/`](hg/2004/2405/) | in force | 1 | 2005-01-04 | 2005-01-04 |
 | Hotărârea Guvernului nr. 2406/2004 | [`hg/2004/2406/`](hg/2004/2406/) | in force | 6 | 2005-01-11 | 2010-10-09 |
+| Hotărârea Guvernului nr. 2407/2004 privind aprobarea constituirii Parcului industrial "Victoria" prin transferul unor elemente patrimoniale de la Societatea Comercială "Pirochim Victoria" - S.A. din cadrul Companiei Naţionale "Romarm" - S.A. la Consiliul Local al Oraşului Victoria | [`hg/2004/2407/`](hg/2004/2407/) | amending act | 1 | 2005-01-05 | 2005-01-05 |
 | Hotărârea Guvernului nr. 2408/2004 | [`hg/2004/2408/`](hg/2004/2408/) | in force | 4 | 2005-01-05 | 2013-02-01 |
+| Hotărârea Guvernului nr. 2409/2004 privind schimbarea titularului dreptului de proprietate şi administrare asupra unor imobile situate în municipiul Craiova, judeţul Dolj | [`hg/2004/2409/`](hg/2004/2409/) | in force | 1 | 2005-01-19 | 2005-01-19 |
+| Hotărârea Guvernului nr. 2410/2004 privind transmiterea unor imobile, aflate în proprietatea privată a statului, din administrarea Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat" în administrarea Ministerului Public - Parchetul de pe lângă Înalta Curte de Casaţie şi Justiţie | [`hg/2004/2410/`](hg/2004/2410/) | in force | 1 | 2005-01-05 | 2005-01-05 |
+| Hotărârea Guvernului nr. 2411/2004 pentru aprobarea Acordului de cooperare dintre Ministerul Justiţiei al României şi Ministerul Justiţiei al Republicii Azerbaidjan, semnat la Bucureşti la 11 octombrie 2004 | [`hg/2004/2411/`](hg/2004/2411/) | amending act | 1 | 2005-01-07 | 2005-01-07 |
 | Hotărârea Guvernului nr. 2412/2004 | [`hg/2004/2412/`](hg/2004/2412/) | in force | 1 | 2005-01-07 | 2005-01-07 |
+| Hotărârea Guvernului nr. 2413/2004 privind aprobarea unor licenţe de concesiune a activităţii miniere de exploatare, încheiate între Agenţia Naţională pentru Resurse Minerale şi Societatea Naţională a Cărbunelui - S.A. Ploieşti | [`hg/2004/2413/`](hg/2004/2413/) | amending act | 1 | 2005-01-03 | 2005-01-03 |
+| Hotărârea Guvernului nr. 2414/2004 privind aprobarea unei licenţe de concesiune a activităţii miniere de exploatare, încheiată între Agenţia Naţională pentru Resurse Minerale şi Societatea Comercială "FINCOM CONSTRUCT" - S.R.L | [`hg/2004/2414/`](hg/2004/2414/) | amending act | 1 | 2005-01-03 | 2005-01-03 |
 | Hotărârea Guvernului nr. 2415/2004 | [`hg/2004/2415/`](hg/2004/2415/) | in force | 1 | 2005-01-18 | 2005-01-18 |
+| Hotărârea Guvernului nr. 2416/2004 pentru aprobarea Protocolului privind cooperarea dintre Ministerul Justiţiei al României şi Ministerul Justiţiei al Republicii Populare Chineze, semnat la Beijing la 14 septembrie 2004 | [`hg/2004/2416/`](hg/2004/2416/) | amending act | 1 | 2005-01-06 | 2005-01-06 |
+| Hotărârea Guvernului nr. 2417/2004 pentru aprobarea Protocolului privind cooperarea dintre Ministerul Justiţiei al României şi Ministerul Justiţiei, Securităţii şi Drepturilor Omului al Republicii Argentina, semnat la Buenos Aires la 1 august 2003 | [`hg/2004/2417/`](hg/2004/2417/) | amending act | 1 | 2005-01-10 | 2005-01-10 |
 | Hotărârea Guvernului nr. 2419/2004 | [`hg/2004/2419/`](hg/2004/2419/) | in force | 1 | 2005-01-10 | 2005-01-10 |
+| Hotărârea Guvernului nr. 2420/2004 pentru aprobarea Protocolului de cooperare dintre Ministerul Muncii, Solidarităţii Sociale şi Familiei din România şi Ministerul Muncii şi Protecţiei Sociale a Populaţiei din Republica Azerbaidjan, semnat la Bucureşti la 11 octombrie 2004 | [`hg/2004/2420/`](hg/2004/2420/) | amending act | 1 | 2005-01-11 | 2005-01-11 |
 | Hotărârea Guvernului nr. 2421/2004 | [`hg/2004/2421/`](hg/2004/2421/) | in force | 1 | 2005-01-11 | 2005-01-11 |
+| Hotărârea Guvernului nr. 2422/2004 pentru aprobarea Memorandumului de înţelegere dintre Ministerul Mediului şi Gospodăririi Apelor din România şi Serviciul Naţional Meteorologic - Administraţia Naţională Oceanică şi Atmosferică a Statelor Unite ale Americii privind cooperarea tehnică în domeniile meteorologiei şi hidrologiei, semnat la Bucureşti la 21 septembrie 2004 | [`hg/2004/2422/`](hg/2004/2422/) | amending act | 1 | 2005-01-11 | 2005-01-11 |
 | Hotărârea Guvernului nr. 2423/2004 | [`hg/2004/2423/`](hg/2004/2423/) | in force | 1 | 2005-01-11 | 2005-01-11 |
+| Hotărârea Guvernului nr. 2424/2004 pentru trecerea din domeniul public al statului în domeniul privat al acestuia a locuinţelor de serviciu aflate în administrarea Serviciului de Protecţie şi Pază şi pentru aprobarea Normelor metodologice de aplicare de către Serviciul de Protecţie şi Pază a prevederilor Legii nr. 562/2004 privind autorizarea instituţiilor publice din sistemul de apărare, ordine publică şi securitate naţională de a vinde personalului propriu unele locuinţe de serviciu pe care acestea le au în administrare | [`hg/2004/2424/`](hg/2004/2424/) | amending act | 1 | 2005-01-13 | 2005-01-13 |
 | Hotărârea Guvernului nr. 2426/2004 | [`hg/2004/2426/`](hg/2004/2426/) | in force | 1 | 2005-01-11 | 2005-01-11 |
 | Hotărârea Guvernului nr. 2428/2004 | [`hg/2004/2428/`](hg/2004/2428/) | in force | 1 | 2005-01-11 | 2005-01-11 |
+| Hotărârea Guvernului nr. 2431/2004 privind transmiterea, cu titlu gratuit, a unor bunuri intrate în proprietatea privată a statului | [`hg/2004/2431/`](hg/2004/2431/) | in force | 1 | 2005-01-07 | 2005-01-07 |
+| Hotărârea Guvernului nr. 2433/2004 privind aprobarea renunţării la cetăţenia română unor persoane | [`hg/2004/2433/`](hg/2004/2433/) | amending act | 1 | 2005-01-14 | 2005-01-14 |
+| Hotărârea Guvernului nr. 2434/2004 privind eliberarea domnului Natea Ovidiu, la cerere, din funcţia de prefect al judeţului Mureş | [`hg/2004/2434/`](hg/2004/2434/) | in force | 1 | 2005-01-04 | 2005-01-04 |
+| Hotărârea Guvernului nr. 2435/2004 privind acordarea de către România a unui ajutor umanitar de urgenţă, cu titlu gratuit, pentru Sri Lanka | [`hg/2004/2435/`](hg/2004/2435/) | in force | 1 | 2004-12-29 | 2004-12-29 |
+| Hotărârea Guvernului nr. 2437/2004 privind recunoaşterea Fundaţiei "Democraţie prin Cultură" ca fiind de utilitate publică | [`hg/2004/2437/`](hg/2004/2437/) | in force | 1 | 2005-01-03 | 2005-01-03 |
+| Hotărârea Guvernului nr. 2438/2004 privind recunoaşterea Fundaţiei Culturale "Dana Ardelea" ca fiind de utilitate publică | [`hg/2004/2438/`](hg/2004/2438/) | in force | 1 | 2005-01-03 | 2005-01-03 |
+| Hotărârea Guvernului nr. 2439/2004 pentru completarea anexei nr. 4 la Hotărârea Guvernului nr. 930/2002 privind atestarea domeniului public al judeţului Ilfov, precum şi al oraşelor şi comunelor din judeţul Ilfov | [`hg/2004/2439/`](hg/2004/2439/) | amending act | 1 | 2005-01-04 | 2005-01-04 |
+| Hotărârea Guvernului nr. 2440/2004 pentru completarea anexei nr. 2 la Hotărârea Guvernului nr. 447/2002 privind atestarea bunurilor aparţinând domeniului public al judeţului Argeş, precum şi al municipiilor, oraşelor şi comunelor din judeţul Argeş | [`hg/2004/2440/`](hg/2004/2440/) | amending act | 1 | 2005-01-03 | 2005-01-03 |
+| Hotărârea Guvernului nr. 2441/2004 privind trecerea unor construcţii aflate în administrarea Ministerului Administraţiei şi Internelor din domeniul public al statului în domeniul privat al acestuia | [`hg/2004/2441/`](hg/2004/2441/) | in force | 1 | 2005-01-05 | 2005-01-05 |
+| Hotărârea Guvernului nr. 2442/2004 privind darea în administrarea Ministerului Administraţiei şi Internelor a unui imobil trecut în proprietatea publică a statului | [`hg/2004/2442/`](hg/2004/2442/) | in force | 1 | 2005-01-05 | 2005-01-05 |
+| Hotărârea Guvernului nr. 2444/2004 privind trecerea din domeniul public al statului şi din administrarea Ministerului Culturii şi Cultelor în domeniul public al oraşului Gura Humorului, judeţul Suceava, şi în administrarea Consiliului Local al Oraşului Gura Humorului a lucrării de artă monumentală "Simeon Cobilanschi" | [`hg/2004/2444/`](hg/2004/2444/) | in force | 1 | 2005-01-05 | 2005-01-05 |
+| Hotărârea Guvernului nr. 2445/2004 privind trecerea din domeniul public al statului în domeniul privat al statului a unor construcţii aflate în administrarea Ministerului Apărării Naţionale | [`hg/2004/2445/`](hg/2004/2445/) | in force | 1 | 2005-01-05 | 2005-01-05 |
+| Hotărârea Guvernului nr. 2447/2004 pentru aprobarea Acordului de colaborare în domeniul arhivistic dintre Arhivele Naţionale din România şi Direcţia Arhivelor Naţionale ale Republicii Azerbaidjan, semnat la Bucureşti la 11 octombrie 2004 | [`hg/2004/2447/`](hg/2004/2447/) | amending act | 1 | 2005-01-06 | 2005-01-06 |
+| Hotărârea Guvernului nr. 2452/2004 pentru completarea art. 6 alin. (1) din Hotărârea Guvernului nr. 518/1995 privind unele drepturi şi obligaţii ale personalului român trimis în străinătate pentru îndeplinirea unor misiuni cu caracter temporar | [`hg/2004/2452/`](hg/2004/2452/) | amending act | 1 | 2005-01-06 | 2005-01-06 |
+| Hotărârea Guvernului nr. 2453/2004 pentru modificarea anexei nr. 7 la Hotărârea Guvernului nr. 1.350/2001 privind atestarea domeniului public al judeţului Dâmboviţa, precum şi al municipiului Târgovişte, al oraşelor şi comunelor din judeţul Dâmboviţa | [`hg/2004/2453/`](hg/2004/2453/) | amending act | 1 | 2005-01-06 | 2005-01-06 |
+| Hotărârea Guvernului nr. 2455/2004 pentru stabilirea destinaţiei unor bunuri importate în scopul cercetării ştiinţifice în domeniul ingineriei seismice | [`hg/2004/2455/`](hg/2004/2455/) | in force | 1 | 2004-12-29 | 2004-12-29 |
+| Hotărârea Guvernului nr. 2456/2004 privind transmiterea, cu plată, a Depozitului de zgură şi cenuşă mal drept râul Trotuş, cu mijloacele fixe aferente, din patrimoniul Societăţii Comerciale de Producere a Energiei Electrice şi Termice "Termoelectrica" - S.A. Bucureşti în domeniul public al municipiului Oneşti şi în administrarea Consiliului Local al Municipiului Oneşti, judeţul Bacău | [`hg/2004/2456/`](hg/2004/2456/) | in force | 1 | 2004-12-30 | 2004-12-30 |
+| Hotărârea Guvernului nr. 2458/2004 privind transmiterea unui imobil, proprietate publică a statului, din administrarea Autorităţii Naţionale de Control - Autoritatea Naţională a Vămilor în administrarea Ministerului Administraţiei şi Internelor | [`hg/2004/2458/`](hg/2004/2458/) | in force | 1 | 2005-01-05 | 2005-01-05 |
+| Hotărârea Guvernului nr. 2459/2004 privind aprobarea unor licenţe de concesiune a activităţii miniere de exploatare, încheiate între Agenţia Naţională pentru Resurse Minerale şi Societatea Comercială "MARMOSIM" - S.A | [`hg/2004/2459/`](hg/2004/2459/) | amending act | 1 | 2005-01-04 | 2005-01-04 |
+| Hotărârea Guvernului nr. 2460/2004 privind aprobarea unei licenţe de concesiune a activităţii miniere de exploatare, încheiată între Agenţia Naţională pentru Resurse Minerale şi Societatea Comercială "ARCOM" - S.A | [`hg/2004/2460/`](hg/2004/2460/) | amending act | 1 | 2005-01-04 | 2005-01-04 |
+| Hotărârea Guvernului nr. 2461/2004 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2005 al Societăţii Naţionale de Radiocomunicaţii - S.A., la care Ministerul Comunicaţiilor şi Tehnologiei Informaţiei îndeplineşte atribuţiile pe care statul român le are în calitate de acţionar | [`hg/2004/2461/`](hg/2004/2461/) | amending act | 1 | 2005-01-05 | 2005-01-05 |
 | Hotărârea Guvernului nr. 19/2005 privind numirea domnului Giugea Nicolae în funcţia de prefect al judeţului Dolj | [`hg/2005/19/`](hg/2005/19/) | in force | 1 | 2005-01-07 | 2005-01-07 |
 | Hotărârea Guvernului nr. 25/2005 privind numirea domnului Cazacu Marinică în funcţia de prefect al judeţului Ialomiţa | [`hg/2005/25/`](hg/2005/25/) | in force | 1 | 2005-01-07 | 2005-01-07 |
 | Hotărârea Guvernului nr. 27/2005 privind numirea domnului Petrache Marian în funcţia de prefect al judeţului Ilfov | [`hg/2005/27/`](hg/2005/27/) | in force | 1 | 2005-01-07 | 2005-01-07 |
