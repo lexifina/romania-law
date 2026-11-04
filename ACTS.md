@@ -1,6 +1,6 @@
 # Every act in this repository
 
-25247 acts, 38,881 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+25260 acts, 38,894 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6085,7 +6085,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (19171, of which 9712 amending acts)
+## Government decisions (HG) (19184, of which 9717 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6664,7 +6664,20 @@
 | Hotărârea Guvernului nr. 984/2005 | [`hg/2005/984/`](hg/2005/984/) | in force | 6 | 2005-09-18 | 2019-07-28 |
 | Hotărârea Guvernului nr. 991/2005 pentru aprobarea Codului de etică și deontologie al polițistului | [`hg/2005/991/`](hg/2005/991/) | amending act | 1 | 2005-09-07 | 2005-09-07 |
 | Hotărârea Guvernului nr. 1020/2005 | [`hg/2005/1020/`](hg/2005/1020/) | in force | 3 | 2006-03-21 | 2010-06-16 |
+| Hotărârea Guvernului nr. 1039/2005 pentru modificarea Hotărârii Guvernului nr. 1.589/2002 privind aprobarea înfiinţării pe lângă Ministerul Educaţiei şi Cercetării şi unităţile din subordinea sa a unor activităţi finanţate integral din venituri proprii | [`hg/2005/1039/`](hg/2005/1039/) | amending act | 1 | 2005-09-14 | 2005-09-14 |
+| Hotărârea Guvernului nr. 1040/2005 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al municipiului Bacău, judeţul Bacău, şi în administrarea Consiliului Local al Municipiului Bacău | [`hg/2005/1040/`](hg/2005/1040/) | in force | 1 | 2005-09-15 | 2005-09-15 |
+| Hotărârea Guvernului nr. 1041/2005 privind schimbarea regimului juridic al unor imobile situate în judeţul Constanţa | [`hg/2005/1041/`](hg/2005/1041/) | in force | 1 | 2005-09-15 | 2005-09-15 |
+| Hotărârea Guvernului nr. 1043/2005 privind transmiterea unei părţi dintr-un imobil, proprietate publică a statului, din administrarea Ministerului Apărării Naţionale în administrarea Ministerului Culturii şi Cultelor, pentru Mănăstirea Sfintei Cruci Oradea | [`hg/2005/1043/`](hg/2005/1043/) | in force | 1 | 2005-09-19 | 2005-09-19 |
+| Hotărârea Guvernului nr. 1046/2005 privind trecerea unui imobil din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al comunei Vinţu de Jos, judeţul Alba, şi în administrarea Consiliului Local al Comunei Vinţu de Jos | [`hg/2005/1046/`](hg/2005/1046/) | in force | 1 | 2005-09-15 | 2005-09-15 |
+| Hotărârea Guvernului nr. 1047/2005 pentru modificarea şi completarea Hotărârii Guvernului nr. 687/2001 privind transmiterea unui imobil proprietate publică a statului din administrarea Ministerului Apărării Naţionale în administrarea şi în folosinţa Spitalului Universitar de Urgenţă Bucureşti | [`hg/2005/1047/`](hg/2005/1047/) | amending act | 1 | 2005-09-14 | 2005-09-14 |
+| Hotărârea Guvernului nr. 1048/2005 pentru desfiinţarea Centrului Regional de Inovare, Implementare şi Aplicare a Invenţiilor din Târgu Mureş | [`hg/2005/1048/`](hg/2005/1048/) | in force | 1 | 2005-09-14 | 2005-09-14 |
 | Hotărârea Guvernului nr. 1049/2005 | [`hg/2005/1049/`](hg/2005/1049/) | in force | 1 | 2005-09-14 | 2005-09-14 |
+| Hotărârea Guvernului nr. 1051/2005 privind schimbarea titularului dreptului de administrare a unui imobil | [`hg/2005/1051/`](hg/2005/1051/) | in force | 1 | 2005-09-19 | 2005-09-19 |
+| Hotărârea Guvernului nr. 1052/2005 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, pentru înlăturarea efectelor calamităţilor naturale produse de inundaţii în perioada iulie-august 2005 | [`hg/2005/1052/`](hg/2005/1052/) | in force | 1 | 2005-09-20 | 2005-09-20 |
+| Hotărârea Guvernului nr. 1053/2005 privind aprobarea renunţării la cetăţenia română unor persoane | [`hg/2005/1053/`](hg/2005/1053/) | amending act | 1 | 2005-09-19 | 2005-09-19 |
+| Hotărârea Guvernului nr. 1056/2005 pentru modificarea şi completarea Hotărârii Guvernului nr. 515/1998 privind înfiinţarea, organizarea şi funcţionarea Oficiului pentru Administrare şi Operare al Infrastructurii de Comunicaţii de Date "Roedunet" | [`hg/2005/1056/`](hg/2005/1056/) | amending act | 1 | 2005-09-21 | 2005-09-21 |
+| Hotărârea Guvernului nr. 1057/2005 privind aprobarea renunţării la cetăţenia română unor persoane | [`hg/2005/1057/`](hg/2005/1057/) | amending act | 1 | 2005-09-22 | 2005-09-22 |
+| Hotărârea Guvernului nr. 1061/2005 privind schimbarea temporară a regimului juridic al unui teren aparţinând domeniului public al statului, situat pe teritoriul administrativ al municipiului Calafat, judeţul Dolj, în vederea finanţării şi realizării unui obiectiv militar afectat de construcţia noului pod peste fluviul Dunărea, la Calafat - Vidin | [`hg/2005/1061/`](hg/2005/1061/) | in force | 1 | 2005-09-21 | 2005-09-21 |
 | Hotărârea Guvernului nr. 1062/2005 privind înfiinţarea Muzeului "Ion şi dr. Nicolai Kalinderu" | [`hg/2005/1062/`](hg/2005/1062/) | in force | 1 | 2005-09-26 | 2005-09-26 |
 | Hotărârea Guvernului nr. 1063/2005 | [`hg/2005/1063/`](hg/2005/1063/) | in force | 3 | 2005-10-10 | 2024-03-27 |
 | Hotărârea Guvernului nr. 1064/2005 | [`hg/2005/1064/`](hg/2005/1064/) | in force | 3 | 2005-10-12 | 2010-11-30 |
