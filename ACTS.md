@@ -1,6 +1,6 @@
 # Every act in this repository
 
-25039 acts, 38,673 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+25046 acts, 38,680 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6067,7 +6067,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (18981, of which 9635 amending acts)
+## Government decisions (HG) (18988, of which 9640 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6654,7 +6654,14 @@
 | Hotărârea Guvernului nr. 1222/2005 | [`hg/2005/1222/`](hg/2005/1222/) | in force | 1 | 2005-12-18 | 2005-12-18 |
 | Hotărârea Guvernului nr. 1229/2005 | [`hg/2005/1229/`](hg/2005/1229/) | in force | 1 | 2005-10-21 | 2005-10-21 |
 | Hotărârea Guvernului nr. 1258/2005 | [`hg/2005/1258/`](hg/2005/1258/) | in force | 3 | 2005-11-01 | 2010-06-16 |
+| Hotărârea Guvernului nr. 1313/2005 privind aprobarea Regulamentului pentru organizarea şi funcţionarea Consiliului de onoare al Ordinului Meritul pentru Învăţământ | [`hg/2005/1313/`](hg/2005/1313/) | amending act | 1 | 2005-11-09 | 2005-11-09 |
+| Hotărârea Guvernului nr. 1314/2005 privind modificarea alin. (1) al art. 1 din Hotărârea Guvernului nr. 2.028/2004 pentru autorizarea Cancelariei Primului-Ministru de a accepta o donaţie în favoarea statului român | [`hg/2005/1314/`](hg/2005/1314/) | amending act | 1 | 2005-11-08 | 2005-11-08 |
+| Hotărârea Guvernului nr. 1316/2005 privind transmiterea imobilului Sala Polivalentă din municipiul Reşiţa, judeţul Caraş-Severin, din domeniul public al statului şi din administrarea Agenţiei Naţionale pentru Sport, prin Clubul Sportiv Municipal Reşiţa, în domeniul public al judeţului Caraş-Severin şi în administrarea Consiliului Judeţean Caraş-Severin | [`hg/2005/1316/`](hg/2005/1316/) | in force | 1 | 2005-11-08 | 2005-11-08 |
 | Hotărârea Guvernului nr. 1317/2005 | [`hg/2005/1317/`](hg/2005/1317/) | in force | 1 | 2005-11-10 | 2005-11-10 |
+| Hotărârea Guvernului nr. 1321/2005 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii cuprins în Programul ISPA "Reabilitarea şi extinderea sistemelor de alimentare cu apă şi canalizare în municipiul Drobeta-Turnu Severin", judeţul Mehedinţi | [`hg/2005/1321/`](hg/2005/1321/) | amending act | 1 | 2005-11-15 | 2005-11-15 |
+| Hotărârea Guvernului nr. 1322/2005 privind autorizarea Ministerului Administraţiei şi Internelor de a achiziţiona mijloace de transport din categoria autoturismelor, autospeciale şi autoutilitare derivate din autoturisme, prin intermediul unei finanţări de tip leasing financiar | [`hg/2005/1322/`](hg/2005/1322/) | in force | 1 | 2005-11-11 | 2005-11-11 |
+| Hotărârea Guvernului nr. 1323/2005 pentru modificarea Hotărârii Guvernului nr. 539/2004 privind limitarea nivelului emisiilor de zgomot în mediu produs de echipamente destinate utilizării în exteriorul clădirilor | [`hg/2005/1323/`](hg/2005/1323/) | amending act | 1 | 2005-11-25 | 2005-11-25 |
+| Hotărârea Guvernului nr. 1324/2005 pentru aprobarea atestării localităţii Câmpulung Moldovenesc, judeţul Suceava, ca staţiune turistică de interes naţional | [`hg/2005/1324/`](hg/2005/1324/) | amending act | 1 | 2005-11-17 | 2005-11-17 |
 | Hotărârea Guvernului nr. 1325/2005 privind numirea Comisiei pentru efectuarea cercetării prealabile în vederea declarării utilităţii publice pentru lucrarea de interes naţional "Reabilitarea liniei de cale ferată Bucureşti Băneasa-Feteşti, componentă a Coridorului IV paneuropean, pentru circulaţia trenurilor cu viteza maximă de 160 km/h" | [`hg/2005/1325/`](hg/2005/1325/) | in force | 1 | 2005-11-17 | 2005-11-17 |
 | Hotărârea Guvernului nr. 1326/2005 | [`hg/2005/1326/`](hg/2005/1326/) | in force | 1 | 2005-11-17 | 2005-11-17 |
 | Hotărârea Guvernului nr. 1330/2005 privind modificarea bugetului de venituri şi cheltuieli pe anul 2005 al Companiei Naţionale "Loteria Română" - S.A., aflata sub autoritatea Ministerului Finanţelor Publice | [`hg/2005/1330/`](hg/2005/1330/) | amending act | 1 | 2005-11-22 | 2005-11-22 |
