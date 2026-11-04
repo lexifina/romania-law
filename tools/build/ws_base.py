@@ -25,7 +25,12 @@ LABEL_GAP = re.compile(r'(^|\s{3,}|\xa0\.\.\.\xa0\s*)(\(\d+(?:\^\d+)?\)|[a-z]\)|
 
 def tidy(line: str, norm=None, star_text: bool = False) -> str:
     # the service escapes markup characters ("&lt;&lt;Autoritatea ...&gt;&gt;"); «…» as parse.py reads "<<…>>"
-    line = html.unescape(line).replace('<<', '«').replace('>>', '»')
+    line = html.unescape(line)
+    # (2026-11-04, WB5) some texts are escaped twice ("&amp;lt;&amp;lt;Administrația ...&amp;gt;&amp;gt;", "A&amp;amp;S"):
+    # a markup entity left after one pass is undone once more
+    if re.search(r'&(?:lt|gt|amp|quot|apos|#\d{2,5});', line):
+        line = html.unescape(line)
+    line = line.replace('<<', '«').replace('>>', '»')
     # the publisher's footnote run into the text ("... la prezenta hotărâre. *) Anexele nr. 1-6 se publică în Monitorul
     # Oficial ... bis"): not text, as parse.py leaves "*) ..." notes out; then the marker itself ("nr. 1-6 *) la")
     # Lexifina ('ws_star_text', per act, off by default; HG nr. 542/2023): the act's "*) ..." text is kept as printed
