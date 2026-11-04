@@ -1,6 +1,6 @@
 # Every act in this repository
 
-27453 acts, 41,096 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+27461 acts, 41,104 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6392,7 +6392,7 @@
 | Ordonanța Guvernului nr. 3/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 70/2022 privind prevenirea, verificarea şi constatarea neregulilor/dublei finanţări, a neregulilor grave apărute în obţinerea şi utilizarea fondurilor externe nerambursabile/rambursabile alocate României prin Mecanismul de redresare şi rezilienţă şi/sau a fondurilor publice naţionale aferente acestora şi recuperarea creanţelor rezultate | [`og/2026/3/`](og/2026/3/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (21070, of which 10876 amending acts)
+## Government decisions (HG) (21078, of which 10879 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6866,6 +6866,14 @@
 | Hotărârea Guvernului nr. 1547/2004 | [`hg/2004/1547/`](hg/2004/1547/) | in force | 1 | 2004-10-12 | 2004-10-12 |
 | Hotărârea Guvernului nr. 1550/2004 | [`hg/2004/1550/`](hg/2004/1550/) | in force | 2 | 2004-10-01 | 2005-02-28 |
 | Hotărârea Guvernului nr. 1553/2004 | [`hg/2004/1553/`](hg/2004/1553/) | in force | 4 | 2007-01-01 | 2011-09-30 |
+| Hotărârea Guvernului nr. 1571/2004 privind suplimentarea bugetului Ministerului Justiţiei pe anul 2004 din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2004, pentru Direcţia Generală de Protecţie şi Anticorupţie | [`hg/2004/1571/`](hg/2004/1571/) | in force | 1 | 2004-10-04 | 2004-10-04 |
+| Hotărârea Guvernului nr. 1574/2004 privind constituirea, organizarea şi funcţionarea Grupului interministerial pentru cercetare-dezvoltare în domeniul securităţii | [`hg/2004/1574/`](hg/2004/1574/) | in force | 1 | 2004-10-05 | 2004-10-05 |
+| Hotărârea Guvernului nr. 1575/2004 privind acordarea cetăţeniei române unor persoane | [`hg/2004/1575/`](hg/2004/1575/) | in force | 1 | 2004-10-12 | 2004-10-12 |
+| Hotărârea Guvernului nr. 1576/2004 pentru modificarea Hotărârii Guvernului nr. 524/1998 privind înfiinţarea Societăţii Naţionale "Aeroportul Internaţional Bucureşti-Băneasa" - S.A | [`hg/2004/1576/`](hg/2004/1576/) | amending act | 1 | 2004-10-05 | 2004-10-05 |
+| Hotărârea Guvernului nr. 1578/2004 pentru modificarea şi completarea Hotărârii Guvernului nr. 661/2001 privind procedura de eliberare a certificatului de producător | [`hg/2004/1578/`](hg/2004/1578/) | amending act | 1 | 2004-10-04 | 2004-10-04 |
+| Hotărârea Guvernului nr. 1581/2004 pentru aprobarea Regulamentului de organizare şi funcţionare a Institutului Naţional de Cercetare-Dezvoltare pentru Fizica Laserilor, Plasmei şi Radiaţiei - INFLPR Bucureşti | [`hg/2004/1581/`](hg/2004/1581/) | amending act | 1 | 2004-11-20 | 2004-11-20 |
+| Hotărârea Guvernului nr. 1582/2004 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al municipiului Craiova şi în administrarea Consiliului Local al Municipiului Craiova, judeţul Dolj | [`hg/2004/1582/`](hg/2004/1582/) | in force | 1 | 2004-10-06 | 2004-10-06 |
+| Hotărârea Guvernului nr. 1583/2004 privind recunoaşterea Asociaţiei Române de Drept Umanitar ca fiind de utilitate publică | [`hg/2004/1583/`](hg/2004/1583/) | in force | 1 | 2004-10-06 | 2004-10-06 |
 | Hotărârea Guvernului nr. 1584/2004 privind recunoaşterea Fundaţiei Colegiului Naţional de Apărare ca fiind de utilitate publică | [`hg/2004/1584/`](hg/2004/1584/) | in force | 1 | 2004-10-06 | 2004-10-06 |
 | Hotărârea Guvernului nr. 1585/2004 privind transmiterea unui imobil din administrarea Ministerului Administraţiei şi Internelor în administrarea Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat", cu destinaţia de sediu pentru Oficiul Naţional pentru Cultul Eroilor | [`hg/2004/1585/`](hg/2004/1585/) | in force | 1 | 2004-10-06 | 2004-10-06 |
 | Hotărârea Guvernului nr. 1586/2004 privind trecerea unor imobile din domeniul privat al statului şi din administrarea Ministerului Apărării Naţionale în domeniul privat al comunei Pantelimon şi în administrarea Consiliului Local al Comunei Pantelimon, judeţul Ilfov | [`hg/2004/1586/`](hg/2004/1586/) | in force | 1 | 2004-10-06 | 2004-10-06 |
