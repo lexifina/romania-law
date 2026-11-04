@@ -1,6 +1,6 @@
 # Every act in this repository
 
-24366 acts, 38,000 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+24393 acts, 38,027 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3701, of which 2152 amending acts)
+## Laws (legi) (3702, of which 2152 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -636,6 +636,7 @@
 | Legea nr. 87/2006 | [`lege/2006/87/`](lege/2006/87/) | in force | 1 | 2006-04-16 | 2006-04-16 |
 | Legea nr. 95/2006 privind reforma în domeniul sănătății | [`lege/2006/95/`](lege/2006/95/) | in force | 201 | 2006-05-01 | 2026-02-02 |
 | Legea nr. 96/2006 privind Statutul deputaților și al senatorilor | [`lege/2006/96/`](lege/2006/96/) | in force | 24 | 2006-05-06 | 2025-07-27 |
+| Legea nr. 100/2006 privind efectuarea anchetei structurale în agricultură în anul 2006 | [`lege/2006/100/`](lege/2006/100/) | in force | 1 | 2006-05-05 | 2006-05-05 |
 | Legea nr. 101/2006 | [`lege/2006/101/`](lege/2006/101/) | in force | 12 | 2007-05-08 | 2023-11-27 |
 | Legea nr. 102/2006 | [`lege/2006/102/`](lege/2006/102/) | in force | 1 | 2006-10-01 | 2006-10-01 |
 | Legea nr. 105/2006 pentru aprobarea Ordonanței de urgență a Guvernului nr. 196/2005 privind Fondul pentru mediu | [`lege/2006/105/`](lege/2006/105/) | amending act | 1 | 2006-05-11 | 2006-05-11 |
@@ -6008,7 +6009,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (18367, of which 9418 amending acts)
+## Government decisions (HG) (18393, of which 9429 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6651,7 +6652,33 @@
 | Hotărârea Guvernului nr. 462/2006 | [`hg/2006/462/`](hg/2006/462/) | in force | 5 | 2006-05-03 | 2015-07-28 |
 | Hotărârea Guvernului nr. 483/2006 | [`hg/2006/483/`](hg/2006/483/) | in force | 1 | 2006-04-20 | 2006-04-20 |
 | Hotărârea Guvernului nr. 493/2006 | [`hg/2006/493/`](hg/2006/493/) | in force | 2 | 2006-09-01 | 2007-07-12 |
+| Hotărârea Guvernului nr. 496/2006 privind transmiterea unui imobil din domeniul public al statului şi din administrarea Ministerului Administraţiei şi Internelor în domeniul public al municipiului Galaţi şi în administrarea Consiliului Local al Municipiului Galaţi, judeţul Galaţi | [`hg/2006/496/`](hg/2006/496/) | in force | 1 | 2006-05-03 | 2006-05-03 |
+| Hotărârea Guvernului nr. 500/2006 privind acordarea unor ajutoare de urgenţă | [`hg/2006/500/`](hg/2006/500/) | in force | 1 | 2006-04-20 | 2006-04-20 |
+| Hotărârea Guvernului nr. 501/2006 privind acordarea unor ajutoare financiare | [`hg/2006/501/`](hg/2006/501/) | in force | 1 | 2006-04-20 | 2006-04-20 |
+| Hotărârea Guvernului nr. 512/2006 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.212/2005 privind unele măsuri necesare pentru desfăşurarea activităţii comisiilor pentru înalţii funcţionari publici şi pentru suplimentarea bugetului Ministerului Administraţiei şi Internelor, pentru Agenţia Naţională a Funcţionarilor Publici, din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006 | [`hg/2006/512/`](hg/2006/512/) | amending act | 1 | 2006-04-28 | 2006-04-28 |
+| Hotărârea Guvernului nr. 514/2006 privind unele măsuri financiare în favoarea Societăţii Naţionale "Nuclearelectrica" - S.A. pentru finalizarea lucrărilor de investiţii la Unitatea 2 CNE Cernavodă | [`hg/2006/514/`](hg/2006/514/) | in force | 1 | 2006-04-26 | 2006-04-26 |
+| Hotărârea Guvernului nr. 515/2006 pentru modificarea Hotărârii Guvernului nr. 172/2003 privind adaptări instituţionale în perspectiva aderării României la NATO, inclusiv organizarea şi funcţionarea reprezentării României la Cartierul general al NATO şi la Comandamentul Suprem al Forţelor Aliate din Europa - SHAPE | [`hg/2006/515/`](hg/2006/515/) | amending act | 1 | 2006-07-27 | 2006-07-27 |
+| Hotărârea Guvernului nr. 517/2006 privind trecerea din domeniul public al statului în domeniul privat al statului a unor mijloace fixe concesionate Companiei Naţionale de Transport al Energiei Electrice "Transelectrica" - S.A., Sucursala de Transport Bacău | [`hg/2006/517/`](hg/2006/517/) | in force | 1 | 2006-04-26 | 2006-04-26 |
+| Hotărârea Guvernului nr. 518/2006 pentru modificarea structurii sumelor alocate din credite externe în bugetul Ministerului Administraţiei şi Internelor pe anul 2006 | [`hg/2006/518/`](hg/2006/518/) | amending act | 1 | 2006-04-26 | 2006-04-26 |
+| Hotărârea Guvernului nr. 520/2006 privind transmiterea unui imobil, proprietate publică a statului, din administrarea Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat" în administrarea Administraţiei Naţionale a Penitenciarelor | [`hg/2006/520/`](hg/2006/520/) | in force | 1 | 2006-05-03 | 2006-05-03 |
+| Hotărârea Guvernului nr. 521/2006 privind transmiterea unui imobil, aflat în domeniul public al statului, din administrarea Ministerului Apărării Naţionale în administrarea Ministerului Justiţiei, pentru Administraţia Naţională a Penitenciarelor | [`hg/2006/521/`](hg/2006/521/) | in force | 1 | 2006-05-03 | 2006-05-03 |
 | Hotărârea Guvernului nr. 522/2006 | [`hg/2006/522/`](hg/2006/522/) | in force | 1 | 2006-04-28 | 2006-04-28 |
+| Hotărârea Guvernului nr. 524/2006 privind suplimentarea bugetului Cancelariei Primului-Ministru din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru Autoritatea Naţională pentru Tineret în scopul deblocării Programului comunitar "Youth" în România | [`hg/2006/524/`](hg/2006/524/) | in force | 1 | 2006-04-25 | 2006-04-25 |
+| Hotărârea Guvernului nr. 526/2006 privind echivalarea funcţiilor militare din Serviciul Român de Informaţii, Serviciul de Informaţii Externe, Serviciul de Telecomunicaţii Speciale şi Serviciul de Protecţie şi Pază cu funcţii civile | [`hg/2006/526/`](hg/2006/526/) | in force | 1 | 2006-05-03 | 2006-05-03 |
+| Hotărârea Guvernului nr. 527/2006 privind aprobarea contractului-cadru şi a onorariilor maximale acordate evaluatorilor autorizaţi, persoane fizice sau juridice, în vederea efectuării raportului de evaluare a imobilelor conform titlului VII "Regimul stabilirii şi plăţii despăgubirilor aferente imobilelor preluate în mod abuziv" din Legea nr. 247/2005 privind reforma în domeniile proprietăţii şi justiţiei, precum şi unele măsuri adiacente | [`hg/2006/527/`](hg/2006/527/) | amending act | 1 | 2006-05-05 | 2006-05-05 |
+| Hotărârea Guvernului nr. 528/2006 privind transmiterea unor imobile din domeniul public al statului şi din administrarea Agenţiei Naţionale pentru Sport în domeniul public al municipiului Zalău şi în administrarea Consiliului Local al Municipiului Zalău, judeţul Sălaj | [`hg/2006/528/`](hg/2006/528/) | in force | 1 | 2006-05-03 | 2006-05-03 |
+| Hotărârea Guvernului nr. 529/2006 privind aprobarea plăţii contribuţiei României la Fondul pentru Siguranţă Nucleară al Agenţiei Internaţionale pentru Energia Atomică (AIEA) - Viena | [`hg/2006/529/`](hg/2006/529/) | amending act | 1 | 2006-05-03 | 2006-05-03 |
+| Hotărârea Guvernului nr. 533/2006 pentru completarea art. 2 din Hotărârea Guvernului nr. 728/2005 privind unele măsuri pentru declanşarea procesului de privatizare a Companiei Naţionale "Poşta Română" - S.A | [`hg/2006/533/`](hg/2006/533/) | amending act | 1 | 2006-05-31 | 2006-05-31 |
+| Hotărârea Guvernului nr. 534/2006 pentru modificarea art. 2 din Hotărârea Guvernului nr. 727/2005 privind unele măsuri pentru finalizarea privatizării Societăţii Comerciale "Romtelecom" - S.A | [`hg/2006/534/`](hg/2006/534/) | amending act | 1 | 2006-05-31 | 2006-05-31 |
+| Hotărârea Guvernului nr. 535/2006 pentru completarea art. 2 din Hotărârea Guvernului nr. 774/2005 privind unele măsuri pentru declanşarea procesului de privatizare a Societăţii Naţionale de Radiocomunicaţii - S.A | [`hg/2006/535/`](hg/2006/535/) | amending act | 1 | 2006-05-31 | 2006-05-31 |
+| Hotărârea Guvernului nr. 538/2006 privind acordarea unor ajutoare de urgenţă | [`hg/2006/538/`](hg/2006/538/) | in force | 1 | 2006-04-27 | 2006-04-27 |
+| Hotărârea Guvernului nr. 541/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru judeţul Tulcea | [`hg/2006/541/`](hg/2006/541/) | in force | 1 | 2006-04-28 | 2006-04-28 |
+| Hotărârea Guvernului nr. 542/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru judeţul Tulcea | [`hg/2006/542/`](hg/2006/542/) | in force | 1 | 2006-04-28 | 2006-04-28 |
+| Hotărârea Guvernului nr. 544/2006 pentru aprobarea plăţii unui procent de 50% din contribuţia României pe anul 2006 la Agenţia Mondială Antidoping | [`hg/2006/544/`](hg/2006/544/) | amending act | 1 | 2006-04-28 | 2006-04-28 |
+| Hotărârea Guvernului nr. 545/2006 privind suplimentarea bugetului Ministerului Culturii şi Cultelor din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2006, în vederea organizării Conferinţei Internaţionale "Pogromul de la Iaşi din Iunie 1941" | [`hg/2006/545/`](hg/2006/545/) | in force | 1 | 2006-04-28 | 2006-04-28 |
+| Hotărârea Guvernului nr. 546/2006 privind înfiinţarea, organizarea şi funcţionarea Comitetului Consultativ pentru Promovarea Donării de Sânge | [`hg/2006/546/`](hg/2006/546/) | in force | 1 | 2006-05-05 | 2006-05-05 |
+| Hotărârea Guvernului nr. 547/2006 privind aprobarea plăţii contribuţiei anuale pentru participarea Agenţiei Naţionale Antidrog la Asociaţia Europeană a Bibliotecilor şi Serviciilor de Informare cu privire la Alcool şi Alte Droguri (ELISAD) | [`hg/2006/547/`](hg/2006/547/) | amending act | 1 | 2006-04-28 | 2006-04-28 |
+| Hotărârea Guvernului nr. 548/2006 privind aprobarea Planului de acţiune în anul 2006 pentru implementarea Strategiei naţionale privind migraţia | [`hg/2006/548/`](hg/2006/548/) | amending act | 1 | 2006-05-09 | 2006-05-09 |
 | Hotărârea Guvernului nr. 549/2006 privind aprobarea sumelor necesare pentru accelerarea lucrărilor de construcţie a Autostrăzii Bucureşti-Constanţa, Tronsonul 4 - Drajna-Feteşti şi Tronsonul 5 - Feteşti-Cernavodă | [`hg/2006/549/`](hg/2006/549/) | amending act | 1 | 2006-04-28 | 2006-04-28 |
 | Hotărârea Guvernului nr. 550/2006 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2006 al Companiei Naţionale "Imprimeria Naţională" - S.A., aflată sub autoritatea Ministerului Finanţelor Publice | [`hg/2006/550/`](hg/2006/550/) | amending act | 1 | 2006-05-05 | 2006-05-05 |
 | Hotărârea Guvernului nr. 551/2006 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2006 al Regiei Autonome "Monetăria Statului" | [`hg/2006/551/`](hg/2006/551/) | amending act | 1 | 2006-05-04 | 2006-05-04 |
