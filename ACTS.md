@@ -1,6 +1,6 @@
 # Every act in this repository
 
-24837 acts, 38,471 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+24846 acts, 38,480 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6039,7 +6039,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (18807, of which 9591 amending acts)
+## Government decisions (HG) (18816, of which 9595 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6634,6 +6634,15 @@
 | Hotărârea Guvernului nr. 1469/2005 | [`hg/2005/1469/`](hg/2005/1469/) | in force | 1 | 2005-12-08 | 2005-12-08 |
 | Hotărârea Guvernului nr. 1481/2005 | [`hg/2005/1481/`](hg/2005/1481/) | in force | 2 | 2005-12-05 | 2008-01-11 |
 | Hotărârea Guvernului nr. 1514/2005 | [`hg/2005/1514/`](hg/2005/1514/) | in force | 1 | 2005-12-09 | 2005-12-09 |
+| Hotărârea Guvernului nr. 1569/2005 privind trecerea din domeniul public al statului în domeniul privat al acestuia a unor construcţii aflate în administrarea Ministerului Apărării Naţionale | [`hg/2005/1569/`](hg/2005/1569/) | in force | 1 | 2005-12-14 | 2005-12-14 |
+| Hotărârea Guvernului nr. 1571/2005 privind aprobarea efectuării concedierilor colective, în temeiul prevederilor Ordonanţei de urgenţă a Guvernului nr. 8/2003 privind stimularea procesului de restructurare, reorganizare şi privatizare a unor societăţi naţionale, companii naţionale şi societăţi comerciale cu capital majoritar de stat, precum şi a societăţilor comerciale şi regiilor autonome subordonate autorităţilor administraţiei publice locale, de către Societatea Comercială "Drumuri şi Poduri Sălaj" - S.A | [`hg/2005/1571/`](hg/2005/1571/) | amending act | 1 | 2005-12-14 | 2005-12-14 |
+| Hotărârea Guvernului nr. 1572/2005 pentru aprobarea închirierii unei părţi dintr-un imobil aflat în domeniul public al statului | [`hg/2005/1572/`](hg/2005/1572/) | amending act | 1 | 2005-12-14 | 2005-12-14 |
+| Hotărârea Guvernului nr. 1573/2005 privind aprobarea indicatorilor tehnico-economici ai obiectivelor de investiţii cuprinse în Proiectul "Reabilitarea infrastructurii educaţionale din Bucureşti", etapa I | [`hg/2005/1573/`](hg/2005/1573/) | amending act | 1 | 2005-12-29 | 2005-12-29 |
+| Hotărârea Guvernului nr. 1574/2005 pentru aprobarea bugetului propriu de venituri şi cheltuieli al Ministerului Transporturilor, Construcţiilor şi Turismului privind activitatea de privatizare pe anul 2006 | [`hg/2005/1574/`](hg/2005/1574/) | amending act | 1 | 2005-12-21 | 2005-12-21 |
+| Hotărârea Guvernului nr. 1575/2005 privind stabilirea cuantumului contribuţiilor directe ale titularilor de autorizaţie nucleară pentru anul 2006 | [`hg/2005/1575/`](hg/2005/1575/) | in force | 1 | 2005-12-21 | 2005-12-21 |
+| Hotărârea Guvernului nr. 1576/2005 privind declararea utilităţii publice pentru lucrarea de interes naţional "LEA 400 kV Oradea-Bekescsaba. Montarea unei bobine de compensare 100 MV Ar în staţia 400 kV Oradea Sud. Echipamente de telecomunicaţii şi teletransmisii pentru LEA 400 kV Oradea-Bekescsaba" | [`hg/2005/1576/`](hg/2005/1576/) | in force | 1 | 2005-12-21 | 2005-12-21 |
+| Hotărârea Guvernului nr. 1577/2005 privind numirea Comisiei pentru efectuarea cercetării prealabile în vederea declarării utilităţii publice pentru lucrarea de interes naţional "Menţinerea şi dezvoltarea capacităţii de producţie în câmpul minier Tărâia-Cernişoara, etapa a II-a, cariera Panga", judeţul Vâlcea | [`hg/2005/1577/`](hg/2005/1577/) | in force | 1 | 2005-12-21 | 2005-12-21 |
+| Hotărârea Guvernului nr. 1578/2005 privind declararea utilităţii publice pentru lucrarea de interes naţional "Menţinerea şi dezvoltarea capacităţii de producţie în câmpul minier Amaradia-Tărâia, etapa a II-a, carierele Berbeşti şi Olteţ", judeţul Vâlcea | [`hg/2005/1578/`](hg/2005/1578/) | in force | 1 | 2005-12-21 | 2005-12-21 |
 | Hotărârea Guvernului nr. 1579/2005 | [`hg/2005/1579/`](hg/2005/1579/) | in force | 1 | 2006-02-09 | 2006-02-09 |
 | Hotărârea Guvernului nr. 1580/2005 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.415/2004 privind acordarea despăgubirilor pentru animalele tăiate, ucise sau altfel afectate, în vederea lichidării rapide a focarelor de boli transmisibile ale animalelor | [`hg/2005/1580/`](hg/2005/1580/) | amending act | 1 | 2005-12-28 | 2005-12-28 |
 | Hotărârea Guvernului nr. 1581/2005 | [`hg/2005/1581/`](hg/2005/1581/) | in force | 1 | 2006-01-11 | 2006-01-11 |
