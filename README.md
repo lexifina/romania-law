@@ -1,6 +1,8 @@
 # Romania: law history in git
 
-**What we did:** we rebuilt Romanian law from the official texts as a single git history. The Constitution, the codes and tens of thousands of laws, ordinances and Government decisions are here, with each article a file and each change a commit dated the day it took effect, credited to the act that made it. Rulings of the Constitutional Court and the High Court are linked to the articles they concern, and the European Court of Human Rights' judgments against Romania are included. **Why:** the official portal shows one version of an act at a time, so tracing how a provision changed, or what it said on a given date, means comparing versions by hand. Here it is one `git log` or `git blame`, and the whole history can be searched, compared and reused: the texts are official, and our work on them is in the public domain (CC0).
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Romania's national law, which global-law reads at `romania/national/acts/`.
+
+**What we did:** we rebuilt Romanian law from the official texts as a single git history. The Constitution, the codes and tens of thousands of laws, ordinances and Government decisions are here, each article a file and each change a commit dated the day it took effect, credited to the act that made it. Constitutional Court and High Court rulings are linked to the articles they concern, and the European Court of Human Rights' judgments against Romania are included. **Why:** the official portal shows one version of an act at a time, so tracing how a provision changed, or what it said on a given date, means comparing versions by hand. Here it is one `git log` or `git blame`, and the whole history can be searched, compared and reused: the texts are official, and our work on them is in the public domain (CC0).
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
@@ -11,17 +13,19 @@
 
 [![The Romania MCP answering questions with pin-point citations to this repository (video)](https://lexifina.com/watch/romania/romania-mcp-poster.png)](https://lexifina.com/watch/romania)
 
-The film above shows an AI assistant answering questions about Romanian law through the MCP, with each answer citing the exact article and version in this repository. [Watch it on lexifina.com](https://lexifina.com/watch/romania).
+An AI assistant answering questions about Romanian law through the MCP, each answer citing the exact article and version in this repository.
 
-`git blame` names the act behind every paragraph, `git log` lists every change to an article, and the tools give the text in force on any date. The texts are in Romanian, as published.
-
-It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `romania/national/acts/`.
+`git blame` names the act behind every paragraph, `git log` lists every change to an article, and the tools give the text in force on any date. The texts are in Romanian, as published. [AGENTS.md](AGENTS.md) explains the layout for programs and AI agents.
 
 ## Scope
 
-This repository holds Romania's **primary legislation**: the Constitution, the laws of Parliament (the codes among them), and the Government's emergency ordinances (OUG), ordinances (OG) and decisions (HG). The card above counts them against every such act we have found in the official service; that list is still growing, so the real total is higher.
+Here now:
+- **Primary legislation:** the Constitution, the codes (and the historical codes still applied), the laws of Parliament, and the Government's emergency ordinances (OUG), ordinances (OG) and decisions (HG), with their full histories; the decree-laws of 1989–1990.
+- **Parliament:** the first decisions of the Chamber of Deputies, the Senate and joint sittings.
+- **Case law:** Constitutional Court decisions, the High Court's binding decisions (RIL and HP) and the European Court of Human Rights' judgments against Romania, under `jurisprudenta/`.
+- **Data:** promulgation decrees, treaty–ratification links, rectifications, EU transposition, the Monitorul Oficial issue index and local tax decisions, under `data/`.
 
-The repository will grow well beyond that: case law, the orders and norms of ministries and authorities, local councils' decisions, treaties, EU links and legislative history. The next section lists every part planned, with its size and progress.
+Coming: ministries' and authorities' orders and norms, local councils' decisions, draft acts in consultation, electoral and oversight bodies' decisions, construction norms and more. The next section lists every part planned, with its size and progress.
 
 <!-- plan:start -->
 
@@ -29,13 +33,13 @@ The repository will grow well beyond that: case law, the orders and norms of min
 
 The aim is every source a Romanian lawyer or citizen needs. This table is the plan, bin by bin, with what is published so far; it is regenerated with each documentation commit, so the gap can be followed over time.
 
-**47.7%** of the plan is published, weighted by how binding each source is and how often it is used. **71.9%** counting sources already collected but not yet published. 1.1% of the weight is in bins that need the publisher's permission first. Updated 2026-11-04 23:01 UTC.
+**48.5%** of the plan is published, weighted by how binding each source is and how often it is used. **72.0%** counting sources already collected but not yet published. 1.1% of the weight is in bins that need the publisher's permission first. Updated 2026-11-04 23:06 UTC.
 
 | Bin | Will be in | Weight | Progress | How | Status |
 | --- | --- | ---: | --- | --- | --- |
 | **Primary legislation** | | | | | |
 | Constitution and codes | constitutie/1991/; the codes in lege/ and oug/ (Codul civil is lege/2009/287/) | 11.4% | 19 of 20 acts · 95.0% | built by hand with every version, checked against the text as published | collecting |
-| Laws, OUG, OG and HG (consolidated) | lege/, oug/, og/, hg/ | 24.6% | 38,323 of 55,923 acts · 72.2% | automatic: the official text as published plus every consolidated form | collecting |
+| Laws, OUG, OG and HG (consolidated) | lege/, oug/, og/, hg/ | 24.6% | 38,365 of 55,923 acts · 72.3% | automatic: the official text as published plus every consolidated form | collecting |
 | Amended, not consolidated | lege/, oug/, og/, hg/ with status "amended, not consolidated" | in the laws bin | 7,196 of 8,321 acts · 86.5% | the official text as published, labelled, with the amending acts named | collecting |
 | Third-party-only acts | lege/, oug/, og/, hg/ once found in the official service | 1.9% | 450 of 5,166 acts · 8.7% | searched for one by one in the official service; only its text is used | collecting |
 | **Case law** | | | | | |
@@ -63,16 +67,16 @@ The aim is every source a Romanian lawyer or citizen needs. This table is the pl
 | Court of Accounts | curtea-de-conturi/ | 0.3% | target unknown | official texts as published | collecting |
 | Ombudsman (Avocatul Poporului) | avocatul-poporului/ | 0.2% | 0 of 1,807 documents · 0.0% | the Ombudsman's own publications | collecting |
 | **EU and international** | | | | | |
-| Treaties | tratat/ (texts), linked from the ratifying acts | 2.0% | 0 of 2,648 treaty texts; 1,837 of 3,500 acts · 20.0% | official texts, linked from the ratifying acts | collecting |
+| Treaties | tratat/ (texts), linked from the ratifying acts | 2.0% | 0 of 2,648 treaty texts; 1,843 of 3,500 acts · 20.1% | official texts, linked from the ratifying acts | collecting |
 | EU transposition links | data/eu-transposition.csv | 2.8% | 6,938 of 5,834 notification records · 100.0% | EU notification records and the transposition clauses in the acts | done |
 | EU law in Romanian (links) | data/eu-links.csv (texts, if kept, in eu/) | 0.5% | 0 of 37,112 EU acts · 0.0% | links to the Romanian text on EUR-Lex | planned |
 | **Parliament and President** | | | | | |
-| Presidential decrees | promulgation data on each law; normative decrees in decret/ | 0.3% | 0 of 9,678 decrees · 0.0% | promulgation data on each law; normative decrees as acts | planned |
+| Presidential decrees | promulgation data on each law; normative decrees in decret/ | 0.3% | 7,425 of 9,678 decrees · 76.7% | promulgation data on each law; normative decrees as acts | collecting |
 | Parliament decisions | hotarare-parlament/ | 0.4% | 14 of 7,050 decisions · 0.2% | official texts as published | planned |
 | **Legislative history and publications** | | | | | |
-| Legislative history (amendment links, bills, Council opinions) | data/act-links.csv, data/bills.csv | 5.4% | 53,706 of 39,000 acts; 0 of 7,980 laws (+2 more) · 61.4% | the Chamber of Deputies' act sheets and bill files | collecting |
+| Legislative history (amendment links, bills, Council opinions) | data/act-links.csv, data/bills.csv | 5.4% | 53,706 of 39,037 acts; 0 of 7,994 laws (+2 more) · 72.3% | the Chamber of Deputies' act sheets and bill files | collecting |
 | Draft acts in public consultation | proiect/<initiator>/<year>/ | 0.9% | target unknown | official drafts and explanatory notes as published, each stage appended | collecting |
-| Monitorul Oficial parts | MO reference in each version; data/mo-links.csv | 1.2% | 39,000 of 39,000 acts · 38.5% | the Monitorul Oficial reference of every version | planned |
+| Monitorul Oficial parts | MO reference in each version; data/mo-links.csv | 1.2% | 39,037 of 39,037 acts · 38.5% | the Monitorul Oficial reference of every version | planned |
 | Collective labour agreements (MO Part V) | cct/ | 0.3% | 0 of 57 agreements · 0.0% | official texts as published | planned |
 | **Historical law** | | | | | |
 | Historical law | cod/ (old codes), decret-lege/, pre-1990 lege/ and decret/ | 2.4% | 9 of 10 codes and statutes; 26 of 200 decree-laws (+1 more) · 40.3% | built by hand from the official texts | collecting |

@@ -514874,6 +514874,21 @@
    ]
   },
   {
+   "slug": "legea-153-2001",
+   "path": "lege/2001/153",
+   "short": "Legea nr. 153/2001",
+   "title": "Legea nr. 153/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 239/2000 pentru aprobarea afilierii României la unele organizaţii sportive internaţionale şi a plăţii cotizaţiilor anuale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27852",
+   "versions": [
+    {
+     "from": "2001-04-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27852",
+     "sha256": "092329e6c61e19aff3665afab64d52af80ff79547a59be06d1c783b87d9e2fd8"
+    }
+   ]
+  },
+  {
    "slug": "legea-153-2002",
    "path": "lege/2002/153",
    "short": "Legea nr. 153/2002",
@@ -515813,6 +515828,21 @@
    ]
   },
   {
+   "slug": "legea-156-2001",
+   "path": "lege/2001/156",
+   "short": "Legea nr. 156/2001",
+   "title": "Legea nr. 156/2001 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 39/2000 pentru modificarea art. 12 din Ordonanţa de urgenţă a Guvernului nr. 32/1998 privind privatizarea societăţilor comerciale din turism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27858",
+   "versions": [
+    {
+     "from": "2001-04-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27858",
+     "sha256": "8aef05ceba140fcec632311ee7b640469527b4520489ce7ced058a0f1fc5f71a"
+    }
+   ]
+  },
+  {
    "slug": "legea-156-2002",
    "path": "lege/2002/156",
    "short": "Legea nr. 156/2002",
@@ -516151,6 +516181,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19584",
      "sha256": "aec005c48e298cb33d12f0b874ea0e2836da7be3be573405b0923610aeb04e4e"
+    }
+   ]
+  },
+  {
+   "slug": "legea-157-2001",
+   "path": "lege/2001/157",
+   "short": "Legea nr. 157/2001",
+   "title": "Legea nr. 157/2001 privind aprobarea Ordonanţei Guvernului nr. 20/1999 pentru completarea prevederilor alin. 1 al art. 3 din Ordonanţa Guvernului nr. 3/1992 privind taxa pe valoarea adăugată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27889",
+   "versions": [
+    {
+     "from": "2001-04-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27889",
+     "sha256": "89776d381fab6ca9c195f09961abe0d6ea9c8596fca69438c336dd45e46970eb"
     }
    ]
   },

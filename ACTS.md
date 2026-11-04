@@ -1,6 +1,6 @@
 # Every act in this repository
 
-39075 acts, 52,829 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+39078 acts, 52,832 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8282, of which 3092 amending acts)
+## Laws (legi) (8285, of which 3095 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -919,8 +919,11 @@
 | Legea nr. 144/2001 privind aprobarea Ordonanţei Guvernului nr. 96/2000 pentru ratificarea Memorandumului de finanţare PHARE dintre Guvernul României şi Comisia Europeană referitor la Facilitatea de pregătire a proiectelor PHARE 2000/2001-RO9915, semnat la Bucureşti la 30 decembrie 1999 | [`lege/2001/144/`](lege/2001/144/) | amended, not consolidated | 1 | 2001-04-04 | 2001-04-04 |
 | Legea nr. 146/2001 pentru ratificarea Acordului dintre Guvernul Român şi Guvernul Macedonean privind promovarea şi protejarea reciprocă a investiţiilor, semnat la Bucureşti la 12 iunie 2000 | [`lege/2001/146/`](lege/2001/146/) | amended, not consolidated | 1 | 2001-04-05 | 2001-04-05 |
 | Legea nr. 150/2001 | [`lege/2001/150/`](lege/2001/150/) | in force | 1 | 2001-04-10 | 2001-04-10 |
+| Legea nr. 153/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 239/2000 pentru aprobarea afilierii României la unele organizaţii sportive internaţionale şi a plăţii cotizaţiilor anuale | [`lege/2001/153/`](lege/2001/153/) | amending act | 1 | 2001-04-10 | 2001-04-10 |
 | Legea nr. 154/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 234/2000 pentru aprobarea prelungirii participării Guvernului României, pentru perioada 2001-2005, la Acordul dintre Comisia Economică pentru Europa a Naţiunilor Unite (C.E.E./O.N.U.) şi guvernele participante la proiectul "Calea Ferată Transeuropeana (TER) privind fondul de cooperare şi creditare", semnat la Geneva la 17 decembrie 1992 | [`lege/2001/154/`](lege/2001/154/) | amended, not consolidated | 1 | 2001-04-10 | 2001-04-10 |
 | Legea nr. 155/2001 pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 32/1998 privind privatizarea societăţilor comerciale din turism | [`lege/2001/155/`](lege/2001/155/) | amended, not consolidated | 1 | 2001-04-10 | 2001-04-10 |
+| Legea nr. 156/2001 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 39/2000 pentru modificarea art. 12 din Ordonanţa de urgenţă a Guvernului nr. 32/1998 privind privatizarea societăţilor comerciale din turism | [`lege/2001/156/`](lege/2001/156/) | amending act | 1 | 2001-04-10 | 2001-04-10 |
+| Legea nr. 157/2001 privind aprobarea Ordonanţei Guvernului nr. 20/1999 pentru completarea prevederilor alin. 1 al art. 3 din Ordonanţa Guvernului nr. 3/1992 privind taxa pe valoarea adăugată | [`lege/2001/157/`](lege/2001/157/) | amending act | 1 | 2001-04-11 | 2001-04-11 |
 | Legea nr. 162/2001 privind aprobarea Ordonanţei Guvernului nr. 117/2000 pentru ratificarea Memorandumului de finanţare dintre Guvernul României şi Comisia Europeană referitor la Facilitatea pentru infrastructuri de mari dimensiuni, partea a 5-a, semnat la Bucureşti la 30 decembrie 1999 | [`lege/2001/162/`](lege/2001/162/) | amended, not consolidated | 1 | 2001-04-11 | 2001-04-11 |
 | Legea nr. 163/2001 | [`lege/2001/163/`](lege/2001/163/) | in force | 1 | 2001-04-11 | 2001-04-11 |
 | Legea nr. 166/2001 privind aprobarea Ordonanţei de urgenta a Guvernului nr. 177/1999 pentru modificarea şi completarea Ordonanţei de urgenta a Guvernului nr. 142/1999 privind instituirea sistemului de plată pentru motorina, pe bază de bonuri valorice, în vederea înfiinţării culturilor de cereale păioase şi efectuării arăturilor din toamna anului 1999 | [`lege/2001/166/`](lege/2001/166/) | amended, not consolidated | 1 | 2001-04-11 | 2001-04-11 |
