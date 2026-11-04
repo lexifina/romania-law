@@ -1,0 +1,91 @@
+MINISTERUL SĂNĂTĂȚII
+DIRECȚIA FARMACEUTICĂ ȘI DISPOZITIVE MEDICALE
+Nr. ………………………
+
+         APROB,
+                                                                           MINISTRUL SĂNĂTĂȚII
+                                                                                    ALEXANDRU-FLORIN ROGOBETE
+
+REFERAT DE APROBARE
+
+       Potrivit art. 890 alin. (1) din Legea nr. 95/2006 privind reforma în domeniul sănătății,
+republicată, cu modificările și completările ulterioare, “Ministerul Sănătății stabilește, avizează și
+aprobă, prin ordin al ministrului sănătății, prețurile maximale ale medicamentelor de uz uman cu
+autorizație de punere pe piață în România, cu excepția medicamentelor a căror punere pe piață
+este autorizată de Agenția Europeană a Medicamentelor prin procedură centralizată și care sunt
+achiziționate prin procedură centralizată la nivelul Comisiei Europene, a medicamentelor care
+au drept formă farmaceutică "gaz medicinal" și a medicamentelor care se eliberează fără
+prescripție medicală (OTC) și nu se regăsesc în lista cuprinzând denumirile comune
+internaționale corespunzătoare medicamentelor de care beneficiază asigurații cu sau fără
+contribuție personală pe bază de prescripție medicală în sistemul de asigurări sociale de
+sănătate, precum și denumirile comune internaționale corespunzătoare medicamentelor care se
+acordă în cadrul programelor naționale de sănătate.”
+
+        În conformitate cu dispozițiile Ordinului ministrului sănătății nr. 368/2017 pentru
+aprobarea Normelor privind modul de calcul si procedura de aprobare a preturilor maximale ale
+medicamentelor de uz uman, prețurile maximale ale medicamentelor de uz uman, care pot fi
+utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor
+sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente
+aflați în relație contractuală cu Ministerul Sănătății, casele de asigurări de sănătate și/sau
+direcțiile de sănătate publică județene și a municipiului București sunt cuprinse în Catalogul
+național al prețurilor medicamentelor autorizate de punere pe piață în România (Canamed),
+aprobat prin ordin al ministrului sănătății.
+                    În data de 19 decembrie 2024 a fost publicat în Monitorul Oficial al României, Partea
+I nr. 1.284 și 1.284 bis, Ordinul ministrului sănătății nr. 5994/2024 pentru aprobarea prețurilor
+maximale
+ale
+medicamentelor
+de
+uz
+uman,
+valabile
+în
+România,
+care
+pot
+fi
+utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor
+sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente
+pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății,
+casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului
+
+București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe
+piață în România, a prețurilor de referință generice și a prețurilor de referință inovative.
+                    Potrivit prevederilor art. 21 alin. (1) din Ordinul Ministrului Sănătății nr. 368/2017:
+”Anual sau ori de câte ori este nevoie, în temeiul prezentelor norme, Canamedul este adus
+la zi prin includerea, modificarea sau excluderea prețurilor”.
+                    Ținând cont de cele de mai sus, proiectul de ordin prevede completarea Anexei nr.
+1 la Ordinul ministrului sănătății nr. 5994/2024, după cum urmează:
+1.  Având în vedere Notele de ministru înregistrate sub nr. AFR4328/26.08.2025,
+AFR4327/26.08.2025, AFR4326/26.08.2025 și nr. AFR4325/26.08.2025, anexa 1 se
+completează cu prețurile pentru 4 medicamente noi. Astfel, după poziția nr. 6590 se
+introduc 4 poziții noi, pozițiile nr. 6591-6594.
+                    Prețurile maximale cu amănuntul sunt aliniate la cota TVA de 11% aprobată prin
+Legea nr. 141/2025 privind unele măsuri fiscal-bugetare
+
+Proiectul de Ordin se publică pe pagina web a Ministerului Sănătății la rubrica Transparență
+decizională fără a respecta termenul prevăzut de lege, potrivit art. 7 alin. (13) din Legea 52/2003,
+privind transparența decizională în administrația publică, pentru a se putea asigura accesul
+nemijlocit al pacienților la medicamente. Precizăm faptul că medicamentele ce vor fi cuprinse în
+Anexă sunt autorizate pentru acoperirea de nevoi speciale și necesită includerea în CANAMED
+în regim de urgență.
+
+                   Pentru aceste considerente, a fost elaborat proiectul de Ordin privind
+completarea Anexei nr. 1 la Ordinul ministrului sănătății nr. 5994/2024 pentru aprobarea
+prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi
+utilizate/comercializate de către deținătorii de autorizație de punere pe piață a
+medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii
+medicale și medicamente pentru acele medicamente care fac obiectul unei relații
+contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de
+sănătate publică județene și a municipiului București, cuprinse în Catalogul național al
+prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de
+referință generice și a prețurilor de referință inovative, pe care – dacă sunteți de accord –
+vă rugăm să-l aprobați în vederea publicării în Monitorul Oficial al României Partea I.
+
+DIRECTOR
+MONICA NEGOVAN
+
+ȘEF SERVICIU PREȚURI ȘI POLITICA MEDICAMENTULUI
+BOGDAN PREDESCU
+
+   Întocmit, cons.Cristina Ioniță
