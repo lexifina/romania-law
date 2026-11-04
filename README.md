@@ -19,9 +19,9 @@ The aim: every source a Romanian lawyer or citizen needs, in one git history. La
 
 ### See it in use: the Romania MCP
 
-[![The Romania MCP answering questions with pin-point citations to this repository (video)](https://lexifina.com/watch/romania/romania-mcp-poster.png)](https://lexifina.com/watch/romania)
+https://github.com/user-attachments/assets/3f47ad88-f514-4765-97e3-ff67ed8f79b4
 
-An AI assistant answering questions about Romanian law through the MCP, each answer citing the exact article and version in this repository.
+An AI assistant answering a question about Romanian law through the MCP: the answer cites the exact article and version in this repository, with the official links.
 
 ## Layout
 

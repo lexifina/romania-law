@@ -1,6 +1,6 @@
 # Every act in this repository
 
-39117 acts, 52,871 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+39124 acts, 52,878 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -12213,7 +12213,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26870, of which 12536 amending acts)
+## Government decisions (HG) (26877, of which 12539 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13236,8 +13236,15 @@
 | Hotărârea Guvernului nr. 295/2001 privind aprobarea volumului maxim de masa lemnoasă care se va recolta în anul 2001 | [`hg/2001/295/`](hg/2001/295/) | amended, not consolidated | 1 | 2001-03-15 | 2001-03-15 |
 | Hotărârea Guvernului nr. 305/2001 | [`hg/2001/305/`](hg/2001/305/) | in force | 3 | 2001-04-20 | 2003-06-11 |
 | Hotărârea Guvernului nr. 322/2001 privind aprobarea categoriilor de cheltuieli şi a obiectivelor pentru înlăturarea efectelor calamităţilor naturale produse în perioada 1-7 martie 2001 în judeţul Suceava | [`hg/2001/322/`](hg/2001/322/) | amended, not consolidated | 1 | 2001-03-23 | 2001-03-23 |
+| Hotărârea Guvernului nr. 325/2001 privind prelungirea termenului de valabilitate a ofertei formulate de Autoritatea pentru Privatizare şi Administrarea Participaţiilor Statului pentru vânzarea acţiunilor deţinute la Societatea Comercială "Oltchim" - S.A. Ramnicu Valcea | [`hg/2001/325/`](hg/2001/325/) | in force | 1 | 2001-03-23 | 2001-03-23 |
 | Hotărârea Guvernului nr. 326/2001 pentru stabilirea componentei Comisiei de privatizare a Băncii Comerciale Române - S.A | [`hg/2001/326/`](hg/2001/326/) | amended, not consolidated | 1 | 2001-03-23 | 2001-03-23 |
+| Hotărârea Guvernului nr. 327/2001 pentru aprobarea cheltuielilor ocazionate de organizarea acţiunii "Al treilea seminar pregătitor pentru Forumul economic al O.S.C.E.", Bucureşti, 27-28 martie 2001 | [`hg/2001/327/`](hg/2001/327/) | amending act | 1 | 2001-03-26 | 2001-03-26 |
+| Hotărârea Guvernului nr. 330/2001 pentru revocarea şi numirea unor membri în Consiliul director al Fondului Român de Dezvoltare Socială | [`hg/2001/330/`](hg/2001/330/) | in force | 1 | 2001-03-28 | 2001-03-28 |
+| Hotărârea Guvernului nr. 331/2001 privind indexarea cuantumului alocaţiei de întreţinere pentru copiii încredinţaţi sau daţi în plasament | [`hg/2001/331/`](hg/2001/331/) | in force | 1 | 2001-03-28 | 2001-03-28 |
+| Hotărârea Guvernului nr. 334/2001 pentru aprobarea reprocesării unei cantităţi de uraniu în concentrat necorespunzător calitativ | [`hg/2001/334/`](hg/2001/334/) | amending act | 1 | 2001-03-29 | 2001-03-29 |
+| Hotărârea Guvernului nr. 335/2001 privind donarea de către statul român a unor bunuri filialei din Republica Moldova a Uniunii Veteranilor de Război şi a Urmaşilor Veteranilor, afiliată la Federaţia Europeană a Foştilor Combatanţi | [`hg/2001/335/`](hg/2001/335/) | in force | 1 | 2001-03-29 | 2001-03-29 |
 | Hotărârea Guvernului nr. 336/2001 pentru constituirea Comitetului Naţional de Coordonare a Proiectului de Dezvoltare Rurală | [`hg/2001/336/`](hg/2001/336/) | amended, not consolidated | 1 | 2001-03-29 | 2001-03-29 |
+| Hotărârea Guvernului nr. 337/2001 pentru aprobarea Acordului dintre Ministerul Afacerilor Externe al României şi Ministerul Afacerilor Externe al Federaţiei Ruse cu privire la colaborarea în domeniul arhivelor diplomatice, semnat la Moscova la 15 iunie 2000 | [`hg/2001/337/`](hg/2001/337/) | amending act | 1 | 2001-03-30 | 2001-03-30 |
 | Hotărârea Guvernului nr. 338/2001 pentru aprobarea taxei vamale aplicate în România la importul anumitor sortimente de vinuri şi băuturi alcoolice originare din Uniunea Europeană, în cadrul contingentelor tarifare pentru anul 2001 | [`hg/2001/338/`](hg/2001/338/) | amending act | 1 | 2001-03-29 | 2001-03-29 |
 | Hotărârea Guvernului nr. 339/2001 pentru constituirea, în cadrul Ministerului Integrării Europene, a Autorităţii de Management pentru Programul SAPARD | [`hg/2001/339/`](hg/2001/339/) | in force | 1 | 2001-03-30 | 2001-03-30 |
 | Hotărârea Guvernului nr. 341/2001 privind trecerea din domeniul public al statului şi din administrarea Ministerului Culturii şi Cultelor în domeniul public al municipiului Iaşi şi în administrarea Consiliului Local al Municipiului Iaşi, judeţul Iaşi, a lucrărilor de arta monumentala "Titu Maiorescu" şi "Grigore T. Popa" | [`hg/2001/341/`](hg/2001/341/) | in force | 1 | 2001-03-30 | 2001-03-30 |
