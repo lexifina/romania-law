@@ -116399,6 +116399,27 @@
    ]
   },
   {
+   "slug": "hg-1065-1990",
+   "path": "hg/1990/1065",
+   "short": "HG nr. 1065/1990",
+   "title": "Hotărârea Guvernului nr. 1065/1990 privind gratuităţile şi reducerile de tarife pentru călătoria cu mijloacele de transport feroviare şi auto acordate invalizilor şi veteranilor de război, pensionarilor invalizi ca urmare a participării la revoluţia din decembrie 1989, văduvelor de război şi văduvelor celor căzuţi în revoluţie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1255",
+   "versions": [
+    {
+     "from": "1990-10-16",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1255",
+     "sha256": "77973d4ece702aff0fa6191e8d68d00aa72be9fdb7490a5e3d0560972f097c3b"
+    },
+    {
+     "from": "1994-07-07",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/4137",
+     "sha256": "2cb13f69729844516062ca22fe1a9fd61a1384a45171bb2743b93d4504a5ef61"
+    }
+   ]
+  },
+  {
    "slug": "hg-1065-2000",
    "path": "hg/2000/1065",
    "short": "HG nr. 1065/2000",
@@ -165680,6 +165701,27 @@
    ]
   },
   {
+   "slug": "hg-129-1997",
+   "path": "hg/1997/129",
+   "short": "HG nr. 129/1997",
+   "title": "Hotărârea Guvernului nr. 129/1997 privind organizarea şi funcţionarea Ministerului Comunicaţiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11733",
+   "versions": [
+    {
+     "from": "1997-04-21",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11733",
+     "sha256": "8fec039001a1b6c9a8f50a4fa2d75a3e584bb0da4f5922a02b9d1dddd46592da"
+    },
+    {
+     "from": "1998-12-30",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/16545",
+     "sha256": "c650aed4bea6659e82ffecaf7d9f6f3bf20c2739c97e348ce93fb1cfc598c578"
+    }
+   ]
+  },
+  {
    "slug": "hg-129-2003",
    "path": "hg/2003/129",
    "short": "HG nr. 129/2003",
@@ -197111,6 +197153,27 @@
    ]
   },
   {
+   "slug": "hg-149-1996",
+   "path": "hg/1996/149",
+   "short": "HG nr. 149/1996",
+   "title": "Hotărârea Guvernului nr. 149/1996 privind funcţionarea comisionarilor în vama",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8739",
+   "versions": [
+    {
+     "from": "1996-04-10",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8739",
+     "sha256": "1c6f306f78eab22bed19ee43d31507a182c07c2cf8269fc9fb0915660c3c25db"
+    },
+    {
+     "from": "1997-10-09",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/13288",
+     "sha256": "b8b3390fe4b7c2a1561368de4969487c69ae1c1397a239c8b8a87ba8763a061d"
+    }
+   ]
+  },
+  {
    "slug": "hg-149-2003",
    "path": "hg/2003/149",
    "short": "HG nr. 149/2003",
@@ -198643,6 +198706,27 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278224",
      "sha256": "13f8c92d3513d6a0b372a9a8056b29513e1cfc873d535df09a0035256f5b1072"
+    }
+   ]
+  },
+  {
+   "slug": "hg-150-2006",
+   "path": "hg/2006/150",
+   "short": "HG nr. 150/2006",
+   "title": "Hotărârea Guvernului nr. 150/2006 pentru aprobarea Regulamentului de organizare şi funcţionare a Oficiului Naţional pentru Refugiaţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69034",
+   "versions": [
+    {
+     "from": "2006-02-16",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69034",
+     "sha256": "1ccd2add5f3fb0befc1a197e866fb16f74c6e8e2a27a8aadd02ad8c94c6fb0bb"
+    },
+    {
+     "from": "2007-06-26",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/179916",
+     "sha256": "98e3361ea24256bb1b36a1f429ba342aa2b45215dca84c7c22e7861ec444817f"
     }
    ]
   },
@@ -217913,6 +217997,27 @@
    ]
   },
   {
+   "slug": "hg-167-1992",
+   "path": "hg/1992/167",
+   "short": "HG nr. 167/1992",
+   "title": "Hotărârea Guvernului nr. 167/1992 privind constituirea şi funcţionarea Sistemului naţional de certificare a calităţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2482",
+   "versions": [
+    {
+     "from": "1992-04-21",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2482",
+     "sha256": "1295a7bf1ae7f97111bb5e164ef51d1bef8204cffec59977ae067a75515f189a"
+    },
+    {
+     "from": "1998-07-29",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/14165",
+     "sha256": "74dbd2ce69ba04d3535b9c58a9dde32417d6d390435881e682ac0ede31773444"
+    }
+   ]
+  },
+  {
    "slug": "hg-167-1994",
    "path": "hg/1994/167",
    "short": "HG nr. 167/1994",
@@ -225388,6 +225493,27 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176940",
      "sha256": "28b0959ec8dfa914b6fee06b62cc91a586a7a9114387f6b8d8563d396d7dab71"
+    }
+   ]
+  },
+  {
+   "slug": "hg-177-2019",
+   "path": "hg/2019/177",
+   "short": "HG nr. 177/2019",
+   "title": "Hotărârea Guvernului nr. 177/2019 privind aprobarea Studiului de fundamentare pentru autostrada Târgu Neamţ-Iaşi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212380",
+   "versions": [
+    {
+     "from": "2019-04-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212380",
+     "sha256": "c5a9909ddc17e04ce49bbe613062e2fd499385e71fcf4dbb54c28acd2341de23"
+    },
+    {
+     "from": "2020-02-07",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/222776",
+     "sha256": "ddfa0a42c4e607f70572c0686158f85591063902c586d946eecc4728a13f57bf"
     }
    ]
   },
@@ -237127,6 +237253,27 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57502",
      "sha256": "2788b85038217787795acdd010aebb0c3b4bf47dd643c56786e021460e4e6eef"
+    }
+   ]
+  },
+  {
+   "slug": "hg-201-1990",
+   "path": "hg/1990/201",
+   "short": "HG nr. 201/1990",
+   "title": "Hotărârea Guvernului nr. 201/1990 pentru aprobarea normelor de aplicare a Decretului-lege nr. 54/1990 privind organizarea şi desfăşurarea unor activităţi economice pe baza liberei iniţiative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/975",
+   "versions": [
+    {
+     "from": "1990-03-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/975",
+     "sha256": "ef2da6304a9a74a267b3b594f9236862c8f2fdf0451f52b7f0b37e761ca8776a"
+    },
+    {
+     "from": "2002-11-04",
+     "units": 0,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/47560",
+     "sha256": "ae8ac78a9e55110fe29b00407648056072d01d2e64d3795180b6981dc63bb30b"
     }
    ]
   },
@@ -268109,6 +268256,27 @@
    ]
   },
   {
+   "slug": "hg-293-1996",
+   "path": "hg/1996/293",
+   "short": "HG nr. 293/1996",
+   "title": "Hotărârea Guvernului nr. 293/1996 privind stabilirea preţurilor minime garantate de achiziţie şi a primelor ce se acorda de la bugetul de stat la porcine şi păsări vii livrate pentru industrializare şi la laptele de vacă şi de bivoliţă - materie prima -, precum şi de completare a Hotărârii Guvernului nr. 555/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9024",
+   "versions": [
+    {
+     "from": "1996-04-30",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9024",
+     "sha256": "484c45d448bf5fa4badcc68a736d71429f21555bc0d6908f0553d58f2e29861e"
+    },
+    {
+     "from": "1997-04-23",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/11749",
+     "sha256": "f282e90679c9f5a29cae2bac05ea4370ebe741432b045dd66b83809007e9fc26"
+    }
+   ]
+  },
+  {
    "slug": "hg-293-1997",
    "path": "hg/1997/293",
    "short": "HG nr. 293/1997",
@@ -270001,6 +270169,27 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310079",
      "sha256": "72fd0e5e27dc792b344166760a12884db5853d03ea0a1c5ff09de39fa747158c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-3-1997",
+   "path": "hg/1997/3",
+   "short": "HG nr. 3/1997",
+   "title": "Hotărârea Guvernului nr. 3/1997 privind unele măsuri de constituire a Fondului de pensii şi asigurări sociale ale agricultorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10792",
+   "versions": [
+    {
+     "from": "1997-01-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10792",
+     "sha256": "3d692b6ee30c9914487fdd463d2e5f35736ffd6aae510bcab358818ed026f77f"
+    },
+    {
+     "from": "2000-07-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/22425",
+     "sha256": "557be3d7ff185e94f5c9e4098346ad7990f7b28017597c9f23a6d013018a2594"
     }
    ]
   },
@@ -278726,6 +278915,27 @@
    ]
   },
   {
+   "slug": "hg-329-2010",
+   "path": "hg/2010/329",
+   "short": "HG nr. 329/2010",
+   "title": "Hotărârea Guvernului nr. 329/2010 privind unele măsuri de eficientizare a activităţilor în domeniul adopţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118356",
+   "versions": [
+    {
+     "from": "2010-04-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118356",
+     "sha256": "543620ca990e16f5ff3c053191f8f9fc0a57cd7dfd2cc399a37f8b1b22409c10"
+    },
+    {
+     "from": "2016-08-12",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244684",
+     "sha256": "a5e65b770d59627ddac015075bbe0922b9a10d0d51c32df9139e696aab66e91a"
+    }
+   ]
+  },
+  {
    "slug": "hg-329-2011",
    "path": "hg/2011/329",
    "short": "HG nr. 329/2011",
@@ -282998,6 +283208,27 @@
    ]
   },
   {
+   "slug": "hg-343-2007",
+   "path": "hg/2007/343",
+   "short": "HG nr. 343/2007",
+   "title": "Hotărârea Guvernului nr. 343/2007 privind modificarea şi completarea Hotărârii Guvernului nr. 1.886/2006 pentru stabilirea cuantumului chiriilor aferente imobilelor care fac obiectul prevederilor art. 16 alin. (2) din Legea nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945 - 22 decembrie 1989, ale art. 1 alin. (10) din Ordonanţa de urgenţă a Guvernului nr. 94/2000 privind retrocedarea unor bunuri imobile care au aparţinut cultelor religioase din România şi ale art. 1 alin. (5) din Ordonanţa de urgenţă a Guvernului nr. 83/1999 privind restituirea unor bunuri imobile care au aparţinut comunităţilor cetăţenilor aparţinând minorităţilor naţionale din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81303",
+   "versions": [
+    {
+     "from": "2007-04-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81303",
+     "sha256": "c733c5a56cf38f50508786900440e02d7a908e71da14c99f2ac0627e9bef0f82"
+    },
+    {
+     "from": "2015-04-05",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/166925",
+     "sha256": "3035e2833b55c5bf7017a794c0ff192b5fc50e520729e92d62a895b5b59058af"
+    }
+   ]
+  },
+  {
    "slug": "hg-343-2008",
    "path": "hg/2008/343",
    "short": "HG nr. 343/2008",
@@ -283084,6 +283315,27 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148925",
      "sha256": "8c1eddc1a666b39f69789d6c21a08dcefae9c8431d6f770ecfd7ec453ce4fc8c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-343-2014",
+   "path": "hg/2014/343",
+   "short": "HG nr. 343/2014",
+   "title": "Hotărârea Guvernului nr. 343/2014 privind aprobarea Programului de reabilitare a unor blocuri de locuinţe situate în localităţi din zone defavorizate, pentru anul 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157980",
+   "versions": [
+    {
+     "from": "2014-05-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157980",
+     "sha256": "e4a914a85a2f5f28a8c56c3be45bfc5f43b5de52531f03709e11eeb7801fafec"
+    },
+    {
+     "from": "2014-09-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198654",
+     "sha256": "5c93d42205b9a808cb190f165146325c788994f7d91e26992c305504b3d5ba92"
     }
    ]
   },
@@ -284459,6 +284711,27 @@
    ]
   },
   {
+   "slug": "hg-348-2005",
+   "path": "hg/2005/348",
+   "short": "HG nr. 348/2005",
+   "title": "Hotărârea Guvernului nr. 348/2005 privind organizarea şi funcţionarea Inspectoratului General pentru Comunicaţii şi Tehnologia Informaţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61281",
+   "versions": [
+    {
+     "from": "2005-05-03",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61281",
+     "sha256": "a2656d04ae8b26e92fcc10f43e8256ede7b79423034eb843ecec17c09a636295"
+    },
+    {
+     "from": "2007-05-25",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/82331",
+     "sha256": "8bdd8be21f7c590e9091cb1512dafdfd32266f46c1be4396d595f3dd2209ee13"
+    }
+   ]
+  },
+  {
    "slug": "hg-348-2006",
    "path": "hg/2006/348",
    "short": "HG nr. 348/2006",
@@ -285250,6 +285523,27 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127642",
      "sha256": "906401623ec9be1fa551a344daccad38139dd47e4b037b7dd10f33a9f7017323"
+    }
+   ]
+  },
+  {
+   "slug": "hg-350-2012",
+   "path": "hg/2012/350",
+   "short": "HG nr. 350/2012",
+   "title": "Hotărârea Guvernului nr. 350/2012 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 273/2004 privind regimul juridic al adopţiei şi a Regulamentului de organizare şi funcţionare a Consiliului de coordonare de pe lângă Oficiul Român pentru Adopţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137314",
+   "versions": [
+    {
+     "from": "2012-04-23",
+     "units": 124,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137314",
+     "sha256": "aa084e843a71e5b3dcacd557570274f7afd4ec57dd9ea20e389dcf86d2456fc0"
+    },
+    {
+     "from": "2016-08-12",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244684",
+     "sha256": "a5e65b770d59627ddac015075bbe0922b9a10d0d51c32df9139e696aab66e91a"
     }
    ]
   },
@@ -290353,6 +290647,27 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90933",
      "sha256": "90325684f5003d5d69e2897a8c1605158f872aec11de4d102151900804293fbd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-369-2009",
+   "path": "hg/2009/369",
+   "short": "HG nr. 369/2009",
+   "title": "Hotărârea Guvernului nr. 369/2009 privind constituirea şi funcţionarea comisiilor de dialog social la nivelul administraţiei publice centrale şi la nivel teritorial",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104448",
+   "versions": [
+    {
+     "from": "2009-04-07",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104448",
+     "sha256": "4b49748c5f17b4fe0230650b35d94dddebd4298bb15e8527b9b80c827b29c461"
+    },
+    {
+     "from": "2011-05-13",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220043",
+     "sha256": "85ea11d3d364198c3be10b6cf03fe86895270e46a6a4f5fe1277eb95cea696e0"
     }
    ]
   },
@@ -298025,6 +298340,27 @@
    ]
   },
   {
+   "slug": "hg-394-1995",
+   "path": "hg/1995/394",
+   "short": "HG nr. 394/1995",
+   "title": "Hotărârea Guvernului nr. 394/1995 privind obligaţiile ce revin agenţilor economici - persoane fizice sau juridice - în comercializarea produselor de folosinţa îndelungată, destinate consumatorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6881",
+   "versions": [
+    {
+     "from": "1995-06-19",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6881",
+     "sha256": "377543701cf01eff97a8cfaa6b4556f40f88a8434d07b94fa8bc75bcd7343115"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/47786",
+     "sha256": "26b201a7c2ac1ead267e7a7cbe6d859c9e652839de85857bca5f3de978a1ad21"
+    }
+   ]
+  },
+  {
    "slug": "hg-394-2002",
    "path": "hg/2002/394",
    "short": "HG nr. 394/2002",
@@ -303701,6 +304037,27 @@
    ]
   },
   {
+   "slug": "hg-413-2004",
+   "path": "hg/2004/413",
+   "short": "HG nr. 413/2004",
+   "title": "Hotărârea Guvernului nr. 413/2004 privind organizarea şi funcţionarea Autorităţii Naţionale pentru Turism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50773",
+   "versions": [
+    {
+     "from": "2004-03-29",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50773",
+     "sha256": "b93c72dfce01cb3ce66b16ad24703609abd4d1b60ecfccd188ab520a8437df12"
+    },
+    {
+     "from": "2007-05-02",
+     "units": 0,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocumentAfis/83779",
+     "sha256": "0d42a99df8b36406ff9c95b47c2800282ae8387be4f6cd631d10f1fca161efa0"
+    }
+   ]
+  },
+  {
    "slug": "hg-413-2005",
    "path": "hg/2005/413",
    "short": "HG nr. 413/2005",
@@ -303982,6 +304339,27 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61700",
      "sha256": "062b8b978a0386065619af5479239de1c186f157fdc9d43c19e582db6700bf74"
+    }
+   ]
+  },
+  {
+   "slug": "hg-414-2007",
+   "path": "hg/2007/414",
+   "short": "HG nr. 414/2007",
+   "title": "Hotărârea Guvernului nr. 414/2007 privind aprobarea Normelor metodologice pentru derularea Programului \"Bazine de înot\", realizat prin Compania Naţională de Investiţii \"C.N.I.\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82150",
+   "versions": [
+    {
+     "from": "2007-05-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82150",
+     "sha256": "5714b3220f87b4b41f0aef56e9e584a4b2dbbb7e025357abf25ef47fec704e36"
+    },
+    {
+     "from": "2014-09-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198654",
+     "sha256": "5c93d42205b9a808cb190f165146325c788994f7d91e26992c305504b3d5ba92"
     }
    ]
   },
@@ -312823,6 +313201,27 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35995",
      "sha256": "774d99c01673b6b47347658f68f52fd1d54c3162223635257952f2b62c04ea5f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-443-2003",
+   "path": "hg/2003/443",
+   "short": "HG nr. 443/2003",
+   "title": "Hotărârea Guvernului nr. 443/2003 privind promovarea producţiei de energie electrică din surse regenerabile de energie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43397",
+   "versions": [
+    {
+     "from": "2004-04-24",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43397",
+     "sha256": "013142cb663920bb8a774902eb027da867062e211162ccbdf1074e1c79498005"
+    },
+    {
+     "from": "2011-10-19",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139918",
+     "sha256": "11991d286becc4e74620771f2a2a7977a2757f21e9c80d8d2198b018c63d35e6"
     }
    ]
   },
@@ -325808,6 +326207,27 @@
    ]
   },
   {
+   "slug": "hg-484-2007",
+   "path": "hg/2007/484",
+   "short": "HG nr. 484/2007",
+   "title": "Hotărârea Guvernului nr. 484/2007 privind aprobarea Statutului Agenţiei Naţionale pentru Egalitatea de Şanse între Femei şi Bărbaţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82413",
+   "versions": [
+    {
+     "from": "2007-05-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82413",
+     "sha256": "335169176d1c3d449f7f23fc30d75ebef8d3601d08458b37c0a6b2c928eb9449"
+    },
+    {
+     "from": "2010-07-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/120008",
+     "sha256": "d40720a17c67c970485ffa9ec861f950c6eeccf3cd4a7379d004834d0411f129"
+    }
+   ]
+  },
+  {
    "slug": "hg-484-2008",
    "path": "hg/2008/484",
    "short": "HG nr. 484/2008",
@@ -327580,6 +328000,27 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33721",
      "sha256": "a86aa2406114491a036fc3fd50b8b6bbd7d5ad5e2b2d4c4d315ac006867586de"
+    }
+   ]
+  },
+  {
+   "slug": "hg-49-2003",
+   "path": "hg/2003/49",
+   "short": "HG nr. 49/2003",
+   "title": "Hotărârea Guvernului nr. 49/2003 pentru aprobarea Normelor metodologice privind stabilirea criteriilor de acordare a unor subvenţii asociaţiilor şi fundaţiilor rromâne cu personalitate juridică, precum şi altor organizaţii neguvernamentale fără scop lucrativ, care iniţiază şi organizează programe şi proiecte culturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41871",
+   "versions": [
+    {
+     "from": "2003-02-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41871",
+     "sha256": "5091f54b2c278a30bf03f79bf0663da651b07fb7f2d040e08c9768346cfac765"
+    },
+    {
+     "from": "2008-02-10",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202865",
+     "sha256": "05b913f0ef4429e1abe458c4685d50abf9686f8aa638a3ca7a52d92ed1a2ce84"
     }
    ]
   },
@@ -332681,6 +333122,27 @@
    ]
   },
   {
+   "slug": "hg-506-1994",
+   "path": "hg/1994/506",
+   "short": "HG nr. 506/1994",
+   "title": "Hotărârea Guvernului nr. 506/1994 pentru aprobarea Normelor privind metodologia de calcul şi formularistica corespunzătoare referitoare la aşezarea şi urmărirea impozitelor şi taxelor locale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5081",
+   "versions": [
+    {
+     "from": "1994-09-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5081",
+     "sha256": "ab72da5e595bdf5286b007724c5b63bb7709d9cd8013c00cd53a5d671bf0a1f3"
+    },
+    {
+     "from": "2002-02-02",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/33840",
+     "sha256": "768b94e78ff014a68fd8cae8d1af89d8da793775b815413465149584698216ca"
+    }
+   ]
+  },
+  {
    "slug": "hg-506-1996",
    "path": "hg/1996/506",
    "short": "HG nr. 506/1996",
@@ -332977,6 +333439,27 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283059",
      "sha256": "86abef6a52490b090be2f4ab720a01a63950f8410a461e1577d9b625b3867eaf"
+    }
+   ]
+  },
+  {
+   "slug": "hg-507-1994",
+   "path": "hg/1994/507",
+   "short": "HG nr. 507/1994",
+   "title": "Hotărârea Guvernului nr. 507/1994 pentru aprobarea Instrucţiunilor privind metodologia de calcul şi de regularizare a impozitului pe venitul agricol, formularistica referitoare la aşezarea şi urmărirea impozitului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5083",
+   "versions": [
+    {
+     "from": "1994-09-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5083",
+     "sha256": "44b56623e30d5248595cfe8e52fb8322e93890dcda1c8a219884ed480a8f09eb"
+    },
+    {
+     "from": "2002-02-02",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/33840",
+     "sha256": "768b94e78ff014a68fd8cae8d1af89d8da793775b815413465149584698216ca"
     }
    ]
   },
@@ -333724,6 +334207,27 @@
      "units": 81,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8286",
      "sha256": "c25710adb4fa27375e0ea968db6522309711bd3148e1292d6d240ed46ba3a0fb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-51-1998",
+   "path": "hg/1998/51",
+   "short": "HG nr. 51/1998",
+   "title": "Hotărârea Guvernului nr. 51/1998 privind organizarea şi funcţionarea Ministerului Privatizării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14209",
+   "versions": [
+    {
+     "from": "1998-02-05",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14209",
+     "sha256": "51e99fba4fc1284de8cc34256f1a907f7a2cb5e01c696a1210cba96af3071028"
+    },
+    {
+     "from": "1998-12-30",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/16545",
+     "sha256": "c650aed4bea6659e82ffecaf7d9f6f3bf20c2739c97e348ce93fb1cfc598c578"
     }
    ]
   },
@@ -340445,6 +340949,27 @@
    ]
   },
   {
+   "slug": "hg-530-2010",
+   "path": "hg/2010/530",
+   "short": "HG nr. 530/2010",
+   "title": "Hotărârea Guvernului nr. 530/2010 pentru aprobarea Programului \"Reabilitare şi modernizare - 10.000 km drumuri de interes judeţean şi drumuri de interes local\", implementat de către Ministerul Dezvoltării Regionale şi Turismului, în perioada 2010-2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119560",
+   "versions": [
+    {
+     "from": "2010-06-15",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119560",
+     "sha256": "e3eab68badf5d5cb656339f4d69e386a77ec0d577fde19e54511716be1025f6f"
+    },
+    {
+     "from": "2013-04-22",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214299",
+     "sha256": "be80255f93df406ba76768189121e1750ad2f0a35621d93e3b5535e25e4c1d20"
+    }
+   ]
+  },
+  {
    "slug": "hg-530-2013",
    "path": "hg/2013/530",
    "short": "HG nr. 530/2013",
@@ -340891,6 +341416,27 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9515",
      "sha256": "a88e067be9d6f6a092e574803be807721bdf0bb86f010b5f367a31f5c818d228"
+    }
+   ]
+  },
+  {
+   "slug": "hg-532-1999",
+   "path": "hg/1999/532",
+   "short": "HG nr. 532/1999",
+   "title": "Hotărârea Guvernului nr. 532/1999 pentru aprobarea Metodologiei de stabilire a nivelului contribuţiei de întreţinere în instituţiile de asistenţa socială, datorată de persoanele asistate sau de susţinătorii legali ai acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18691",
+   "versions": [
+    {
+     "from": "1999-07-08",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18691",
+     "sha256": "676a6fedb1caeb96c9c794e3e0e92dc356d1fc28975bfdd874483da41e1d6a39"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/174318",
+     "sha256": "f8e70ad54c2b4188b43d38af8ffdcbbfca95e453525d8d59e411e1097ff1f991"
     }
    ]
   },
@@ -355772,6 +356318,27 @@
    ]
   },
   {
+   "slug": "hg-58-1997",
+   "path": "hg/1997/58",
+   "short": "HG nr. 58/1997",
+   "title": "Hotărârea Guvernului nr. 58/1997 privind organizarea şi funcţionarea Ministerului Turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11367",
+   "versions": [
+    {
+     "from": "1997-03-14",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11367",
+     "sha256": "bb78c48e2e9c746cdd82f8dae414109a51bfc1216ea8d1a02b380bfe57410785"
+    },
+    {
+     "from": "1998-12-30",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/16545",
+     "sha256": "c650aed4bea6659e82ffecaf7d9f6f3bf20c2739c97e348ce93fb1cfc598c578"
+    }
+   ]
+  },
+  {
    "slug": "hg-58-2003",
    "path": "hg/2003/58",
    "short": "HG nr. 58/2003",
@@ -356059,6 +356626,27 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85916",
      "sha256": "379071a6d95b13342ae46c68fd19c3c91d3756a7479f630e0c02cfb7a127e3d8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-580-1994",
+   "path": "hg/1994/580",
+   "short": "HG nr. 580/1994",
+   "title": "Hotărârea Guvernului nr. 580/1994 privind vămuirea unor categorii de bunuri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5156",
+   "versions": [
+    {
+     "from": "1994-09-07",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5156",
+     "sha256": "5a57f8b1108af5189c67118a4b3bb1e8583f77f51cd6daed66075abdf1da73da"
+    },
+    {
+     "from": "1997-10-09",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/13288",
+     "sha256": "b8b3390fe4b7c2a1561368de4969487c69ae1c1397a239c8b8a87ba8763a061d"
     }
    ]
   },
@@ -357985,6 +358573,27 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44168",
      "sha256": "8f94f78c53cbf03fe9d08f39b0095e157b704f4207379454fd73ef397a4c6e80"
+    }
+   ]
+  },
+  {
+   "slug": "hg-586-2004",
+   "path": "hg/2004/586",
+   "short": "HG nr. 586/2004",
+   "title": "Hotărârea Guvernului nr. 586/2004 privind înfiinţarea şi organizarea Sistemului naţional de evaluare şi gestionare integrată a calităţii aerului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51572",
+   "versions": [
+    {
+     "from": "2004-05-03",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51572",
+     "sha256": "6220d1caff617d787d50b6c36ab3922b896a8fcd84aba6b4a7beb1333d19c0e6"
+    },
+    {
+     "from": "2011-07-28",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/183488",
+     "sha256": "7482e84312ee327079bfb65f9c2e2a05a454bc617d4ac6eff5da123316496ef5"
     }
    ]
   },
@@ -367685,6 +368294,27 @@
    ]
   },
   {
+   "slug": "hg-617-2001",
+   "path": "hg/2001/617",
+   "short": "HG nr. 617/2001",
+   "title": "Hotărârea Guvernului nr. 617/2001 privind Sistemul naţional unic pentru apeluri de urgenta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29504",
+   "versions": [
+    {
+     "from": "2001-07-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29504",
+     "sha256": "4e3bb6fa95fadc49973a8409a7eeb884dea677bf9f0e5459fb5d1f9f4a73482f"
+    },
+    {
+     "from": "2003-03-07",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/42197",
+     "sha256": "d4571c4fbb43923b26b5a3538e211dd384474475820e6af5cd2e41302b84199b"
+    }
+   ]
+  },
+  {
    "slug": "hg-617-2002",
    "path": "hg/2002/617",
    "short": "HG nr. 617/2002",
@@ -370732,6 +371362,27 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284001",
      "sha256": "3a9765b97a06063f4b91d58a2a65119aa947b8db2001d107cdb6cdea4be2f0bb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-627-2002",
+   "path": "hg/2002/627",
+   "short": "HG nr. 627/2002",
+   "title": "Hotărârea Guvernului nr. 627/2002 privind aprobarea numărului de autoturisme şi a consumului de carburanţi pentru activităţile specifice desfăşurate de Autoritatea pentru Valorificarea Activelor Bancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36950",
+   "versions": [
+    {
+     "from": "2002-06-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36950",
+     "sha256": "7e56cac08c999fb8e4e712362c798b36b083ebb1385ed979dba79f814b53f5a4"
+    },
+    {
+     "from": "2004-06-04",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267008",
+     "sha256": "85c13d228452765cddf014ad4be9ad68867570eed37f5c1ddd1e93237adce068"
     }
    ]
   },
@@ -375275,6 +375926,27 @@
    ]
   },
   {
+   "slug": "hg-641-2016",
+   "path": "hg/2016/641",
+   "short": "HG nr. 641/2016",
+   "title": "Hotărârea Guvernului nr. 641/2016 privind stabilirea măsurilor necesare pentru organizarea Sezonului cultural România - Franţa 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181622",
+   "versions": [
+    {
+     "from": "2016-09-09",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181622",
+     "sha256": "859d51456c8a3556fa753dd6c34f874210d9ecb3535488c9f2e69ae802090b72"
+    },
+    {
+     "from": "2018-03-19",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/240568",
+     "sha256": "254ba59927f01375ec15bd5b212cd648b281455269f52880036123fd0d396e67"
+    }
+   ]
+  },
+  {
    "slug": "hg-641-2018",
    "path": "hg/2018/641",
    "short": "HG nr. 641/2018",
@@ -375391,6 +376063,27 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313585",
      "sha256": "0394293767f22aa9621e09f6a90a09e34654a4f677122b4c288a81122f8fc700"
+    }
+   ]
+  },
+  {
+   "slug": "hg-642-1995",
+   "path": "hg/1995/642",
+   "short": "HG nr. 642/1995",
+   "title": "Hotărârea Guvernului nr. 642/1995 privind acordarea unei indemnizaţii lunare cadrelor didactice române care predau limba, literatura şi civilizaţia românească în străinătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7164",
+   "versions": [
+    {
+     "from": "1995-08-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7164",
+     "sha256": "ed6d170f3bee39e3137c1948f08543c4601e33026508fd7521eb64d64513f80f"
+    },
+    {
+     "from": "2008-03-17",
+     "units": 0,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocumentAfis/90385",
+     "sha256": "5091c7117d4cccf445dbcd0584779fa4d5854ab8560676359b802322a5afed22"
     }
    ]
   },
@@ -375652,6 +376345,27 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284057",
      "sha256": "a19801ebd44e76136342e25749d836ba88e9983f90fc283c6e86cb75cd002cea"
+    }
+   ]
+  },
+  {
+   "slug": "hg-643-1992",
+   "path": "hg/1992/643",
+   "short": "HG nr. 643/1992",
+   "title": "Hotărârea Guvernului nr. 643/1992 pentru aprobarea Regulamentului de organizare şi funcţionare a Fondului Proprietăţii de Stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2816",
+   "versions": [
+    {
+     "from": "1992-10-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2816",
+     "sha256": "8b18363f8245913b1a5c3803d7ab88cf3cea4bd829939fd3db1ad29286220b9b"
+    },
+    {
+     "from": "1998-02-12",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/14225",
+     "sha256": "f22ee69a6260baa16f4b5f8b50d022cc281ee705817b6127187f919e336c945a"
     }
    ]
   },
@@ -376507,6 +377221,27 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217816",
      "sha256": "0a26d42c6c8f35f5b04094c8584b947e576cd11433efa1b69a343896360fee02"
+    }
+   ]
+  },
+  {
+   "slug": "hg-645-2020",
+   "path": "hg/2020/645",
+   "short": "HG nr. 645/2020",
+   "title": "Hotărârea Guvernului nr. 645/2020 privind organizarea şi funcţionarea Institutului Naţional de Administraţie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229052",
+   "versions": [
+    {
+     "from": "2020-08-11",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229052",
+     "sha256": "57e74723dd8b0695b1c3e258465245fe63f10774bc56816d0b0db6719d5d56ed"
+    },
+    {
+     "from": "2024-06-21",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284204",
+     "sha256": "37e187255cc7a017d90caf59471842ffc045cdedaac264bdc1c5ea6eb08c9fc4"
     }
    ]
   },
@@ -377968,6 +378703,27 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307239",
      "sha256": "0d62b13008446eb62b829fe4414a22fc8306a31c14709ef6830503c37bf13809"
+    }
+   ]
+  },
+  {
+   "slug": "hg-650-1992",
+   "path": "hg/1992/650",
+   "short": "HG nr. 650/1992",
+   "title": "Hotărârea Guvernului nr. 650/1992 privind integrarea sistemului asigurărilor sociale şi pensiilor artiştilor plastici în sistemul asigurărilor sociale de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2818",
+   "versions": [
+    {
+     "from": "1992-11-11",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2818",
+     "sha256": "c0d07249d867571dd4f715125fee62d2c06cfeab84d61afd24b1e71aa5ca28ad"
+    },
+    {
+     "from": "1995-12-28",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/6353",
+     "sha256": "75a8acc891af9946fc78f3349558c5a27adf4334915e8640a9337fc1bcfbb5a0"
     }
    ]
   },
@@ -382664,6 +383420,27 @@
    ]
   },
   {
+   "slug": "hg-665-1995",
+   "path": "hg/1995/665",
+   "short": "HG nr. 665/1995",
+   "title": "Hotărârea Guvernului nr. 665/1995 privind înlocuirea, remedierea sau restituirea contravalorii produselor care prezintă deficiente de calitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7182",
+   "versions": [
+    {
+     "from": "1995-10-06",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7182",
+     "sha256": "6554dca1730a6bd55d29d19c4554e80084e1041141cfa73052ab255a0c711a32"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/47786",
+     "sha256": "26b201a7c2ac1ead267e7a7cbe6d859c9e652839de85857bca5f3de978a1ad21"
+    }
+   ]
+  },
+  {
    "slug": "hg-665-2003",
    "path": "hg/2003/665",
    "short": "HG nr. 665/2003",
@@ -383425,6 +384202,27 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182081",
      "sha256": "a43cc82786d8cd64bb9b0be746da5fe8093d8c0ecaf69784b604481de1e08eb1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-667-2018",
+   "path": "hg/2018/667",
+   "short": "HG nr. 667/2018",
+   "title": "Hotărârea Guvernului nr. 667/2018 privind aprobarea Studiului de fundamentare pentru autostrada Ploieşti-Braşov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204464",
+   "versions": [
+    {
+     "from": "2018-09-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204464",
+     "sha256": "6d19950c959a6d72847a586f9022ae2452eeb3d3612df112b98995959e4aa1de"
+    },
+    {
+     "from": "2020-02-07",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/222776",
+     "sha256": "ddfa0a42c4e607f70572c0686158f85591063902c586d946eecc4728a13f57bf"
     }
    ]
   },
@@ -385231,6 +386029,27 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255701",
      "sha256": "bbffba89f4f5323355969dd85978670f04b3cbdfb389b6ef8cb7f9a2006d4be4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-673-1991",
+   "path": "hg/1991/673",
+   "short": "HG nr. 673/1991",
+   "title": "Hotărârea Guvernului nr. 673/1991 privind tariful vamal de import al României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1960",
+   "versions": [
+    {
+     "from": "1991-11-02",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1960",
+     "sha256": "4a29a84f9500d8bae655345ca4e51495941e0c8aaf1b15fd24c7d562d4e01716"
+    },
+    {
+     "from": "1993-08-31",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/3096",
+     "sha256": "7765deb6b6da1d0b373a5994e4a7cc101ece6228f962b8df42a04a8f18cb2924"
     }
    ]
   },
@@ -389197,6 +390016,27 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301618",
      "sha256": "4c5bb2e5057e21f96e6ff18da04689ff28cb028dc233b7415ce6693d3eb60d43"
+    }
+   ]
+  },
+  {
+   "slug": "hg-686-1994",
+   "path": "hg/1994/686",
+   "short": "HG nr. 686/1994",
+   "title": "Hotărârea Guvernului nr. 686/1994 privind înfiinţarea Regiei Autonome a Îmbunătăţirilor Funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5256",
+   "versions": [
+    {
+     "from": "1994-10-26",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5256",
+     "sha256": "12e4c1dad9285d489ea06fffdcd0e0c895162af68a9389ff0a942cf2f77d8780"
+    },
+    {
+     "from": "2000-03-30",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/21694",
+     "sha256": "c081afa214bc290a32908b00ba7735188d9864d0a3ddd522fbdd95cdd590759b"
     }
    ]
   },
@@ -396509,6 +397349,27 @@
    ]
   },
   {
+   "slug": "hg-71-2007",
+   "path": "hg/2007/71",
+   "short": "HG nr. 71/2007",
+   "title": "Hotărârea Guvernului nr. 71/2007 pentru aprobarea Normelor de aplicare a prevederilor referitoare la atribuirea contractelor de concesiune de lucrări publice şi a contractelor de concesiune de servicii prevăzute în Ordonanţa de urgenţă a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziţie publică, a contractelor de concesiune de lucrări publice şi a contractelor de concesiune de servicii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79378",
+   "versions": [
+    {
+     "from": "2007-02-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79378",
+     "sha256": "7e9d8c9e1be1978bf8c0ca49497ab7d928542a2d6486b1bc3d8304aa3652c26a"
+    },
+    {
+     "from": "2016-05-26",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178689",
+     "sha256": "b062ad9c5944c4d6a54a22cf399d8be1d517f63d6127701bda36486c09ef8afe"
+    }
+   ]
+  },
+  {
    "slug": "hg-71-2008",
    "path": "hg/2008/71",
    "short": "HG nr. 71/2008",
@@ -397975,6 +398836,27 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160909",
      "sha256": "b64ffb7ccaf2ff256faf92ae0af16e3089de665730c79d0da3ca0e1614efb3a3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-714-2016",
+   "path": "hg/2016/714",
+   "short": "HG nr. 714/2016",
+   "title": "Hotărârea Guvernului nr. 714/2016 privind stabilirea măsurilor necesare pentru asigurarea participării României, ca ţară invitată de onoare, la Festivalul Internaţional de Artă EUROPALIA 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182228",
+   "versions": [
+    {
+     "from": "2016-10-04",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182228",
+     "sha256": "17f58dff1483d8d98b9e8a04f12cf1c64ac89b341bac7b6b3985df4f80e6d965"
+    },
+    {
+     "from": "2018-03-19",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/240568",
+     "sha256": "254ba59927f01375ec15bd5b212cd648b281455269f52880036123fd0d396e67"
     }
    ]
   },
@@ -399985,6 +400867,27 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301944",
      "sha256": "38881a9dbeda88b2a86dd53d1eacaf9fe8de841543ff3aaf3012dfac06989c9b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-721-1992",
+   "path": "hg/1992/721",
+   "short": "HG nr. 721/1992",
+   "title": "Hotărârea Guvernului nr. 721/1992 privind înfiinţarea Centrului Naţional de Formare, Consultanţa şi Management pentru Asigurarea Calităţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2850",
+   "versions": [
+    {
+     "from": "1992-11-23",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2850",
+     "sha256": "9d46ceaa45d410e5f6ecae628a02edbd449ca7924da2275ed23586d28f4eb715"
+    },
+    {
+     "from": "1998-07-29",
+     "units": 0,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/64002",
+     "sha256": "35db1761996ffd3ebcfc64b56aa2c77f87af0d837654a017936f4232f2a1df94"
     }
    ]
   },
@@ -402241,6 +403144,27 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301938",
      "sha256": "5edcf6181a6b7b4aeecbb685a54627083c0d8b78ce139c1f65d9390917e8b5af"
+    }
+   ]
+  },
+  {
+   "slug": "hg-729-1992",
+   "path": "hg/1992/729",
+   "short": "HG nr. 729/1992",
+   "title": "Hotărârea Guvernului nr. 729/1992 privind organizarea activităţii de întocmire şi eliberare a cărţii de alegător",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2855",
+   "versions": [
+    {
+     "from": "1992-12-14",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2855",
+     "sha256": "698ca7ac253d7c585a2cdedb57eddd54a09cc3bf4a8b832ef7610138170d3230"
+    },
+    {
+     "from": "2000-05-31",
+     "units": 0,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocumentAfis/22524",
+     "sha256": "0272ad7b66669fb8ce149a56062bf1594f185ad564ac740471d2e3a6ec4e1f35"
     }
    ]
   },
@@ -404662,6 +405586,27 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109070",
      "sha256": "5b20846971799db22b0b951e7789c8919ffceef477101c5c1680ac53b6b5c408"
+    }
+   ]
+  },
+  {
+   "slug": "hg-736-2010",
+   "path": "hg/2010/736",
+   "short": "HG nr. 736/2010",
+   "title": "Hotărârea Guvernului nr. 736/2010 pentru aprobarea Normelor de aplicare a Ordonanţei de urgenţă a Guvernului nr. 69/2010 privind reabilitarea termică a clădirilor de locuit cu finanţare prin credite bancare cu garanţie guvernamentală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121103",
+   "versions": [
+    {
+     "from": "2010-08-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121103",
+     "sha256": "4a6a2c6693520da033fb5e4a95a7b0aa14d054d5be0d11628b93d50765a0cb41"
+    },
+    {
+     "from": "2025-10-02",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302698",
+     "sha256": "41b7e1c8e866f0173b6e7783875b2dcb9b743c01bab0d8c81830aa5f85749d5d"
     }
    ]
   },
@@ -407351,6 +408296,27 @@
    ]
   },
   {
+   "slug": "hg-745-2003",
+   "path": "hg/2003/745",
+   "short": "HG nr. 745/2003",
+   "title": "Hotărârea Guvernului nr. 745/2003 privind organizarea şi funcţionarea Autorităţii Naţionale de Control",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44872",
+   "versions": [
+    {
+     "from": "2003-07-09",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44872",
+     "sha256": "c314176075dcb635289bf25d43b0e3a22cd60059ef4ce8e91c6e6979d4d7bec3"
+    },
+    {
+     "from": "2005-06-17",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97750",
+     "sha256": "cdcf19b869bd1eeb7645ea5cb451a32d3e362cc2b90d765fe4d9fa13a0523202"
+    }
+   ]
+  },
+  {
    "slug": "hg-745-2006",
    "path": "hg/2006/745",
    "short": "HG nr. 745/2006",
@@ -409172,6 +410138,27 @@
    ]
   },
   {
+   "slug": "hg-751-2004",
+   "path": "hg/2004/751",
+   "short": "HG nr. 751/2004",
+   "title": "Hotărârea Guvernului nr. 751/2004 privind criteriile şi procentele de majorare a pensiei de serviciu a membrilor personalului diplomatic şi consular pentru contribuţiile la pensia suplimentara achitate în valută",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52073",
+   "versions": [
+    {
+     "from": "2004-05-21",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52073",
+     "sha256": "dcef36abb6fe2178f20cea282126836607028f3ab24721d4f8ef7e3f96d5cdf7"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230221",
+     "sha256": "5bccf1f06f467fa21391c259381a6c8a817028b3706c2688ef3991a81842af1d"
+    }
+   ]
+  },
+  {
    "slug": "hg-751-2005",
    "path": "hg/2005/751",
    "short": "HG nr. 751/2005",
@@ -409768,6 +410755,27 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24124",
      "sha256": "fa4114d950fa37ebbdf0eeaa59df56d6ecce8ce5b227c26c62a9cd51eb146980"
+    }
+   ]
+  },
+  {
+   "slug": "hg-753-2003",
+   "path": "hg/2003/753",
+   "short": "HG nr. 753/2003",
+   "title": "Hotărârea Guvernului nr. 753/2003 privind organizarea şi funcţionarea Agenţiei Naţionale pentru Întreprinderi Mici şi Mijlocii şi Cooperaţie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44878",
+   "versions": [
+    {
+     "from": "2003-07-09",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44878",
+     "sha256": "205e399a8fb2c518bb7beb6da7e33a817cf932ac9d2fa6294e2c8696be87131e"
+    },
+    {
+     "from": "2007-05-02",
+     "units": 0,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocumentAfis/83779",
+     "sha256": "0d42a99df8b36406ff9c95b47c2800282ae8387be4f6cd631d10f1fca161efa0"
     }
    ]
   },
@@ -426197,6 +427205,27 @@
    ]
   },
   {
+   "slug": "hg-805-2019",
+   "path": "hg/2019/805",
+   "short": "HG nr. 805/2019",
+   "title": "Hotărârea Guvernului nr. 805/2019 privind aprobarea Studiului de fundamentare pentru construirea şi operarea unei bănci naţionale de sânge, plasmă umană şi celule stem",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219521",
+   "versions": [
+    {
+     "from": "2019-11-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219521",
+     "sha256": "d5daea390ea52ac3779ad7cca6037456ab98c4bb53c3cf235cc8cc3a49166d89"
+    },
+    {
+     "from": "2020-02-07",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/222776",
+     "sha256": "ddfa0a42c4e607f70572c0686158f85591063902c586d946eecc4728a13f57bf"
+    }
+   ]
+  },
+  {
    "slug": "hg-805-2020",
    "path": "hg/2020/805",
    "short": "HG nr. 805/2020",
@@ -430084,6 +431113,27 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37901",
      "sha256": "33efd0df06043efcc1809f2e0f26337c4f7ee91dfdc7e77145aee35aac675841"
+    }
+   ]
+  },
+  {
+   "slug": "hg-818-2003",
+   "path": "hg/2003/818",
+   "short": "HG nr. 818/2003",
+   "title": "Hotărârea Guvernului nr. 818/2003 privind aprobarea Normelor metodologice pentru derularea Programului \"Sali de sport\" prin Compania Naţională de Investiţii \"C.N.I.\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45216",
+   "versions": [
+    {
+     "from": "2003-07-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45216",
+     "sha256": "c346245dd2a0720445e38f3f3f778bde5e91df55fe5c9345f28fa98203faa213"
+    },
+    {
+     "from": "2014-09-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198654",
+     "sha256": "5c93d42205b9a808cb190f165146325c788994f7d91e26992c305504b3d5ba92"
     }
    ]
   },
@@ -437273,6 +438323,27 @@
    ]
   },
   {
+   "slug": "hg-842-2002",
+   "path": "hg/2002/842",
+   "short": "HG nr. 842/2002",
+   "title": "Hotărârea Guvernului nr. 842/2002 pentru aprobarea Normelor metodologice privind colectarea tarifului necesar finanţării funcţionarii Sistemului naţional unic pentru apeluri de urgenţă şi pentru recuperarea investiţiilor efectuate de către furnizorul de servicii pentru implementarea Sistemului naţional unic pentru apeluri de urgenta, precum şi pentru stabilirea tarifului care se colectează de către furnizorul de servicii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38090",
+   "versions": [
+    {
+     "from": "2002-08-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38090",
+     "sha256": "b62de3d2f0b2b3610ea96ee6cd2136bcf0bdcbae2d984f003db8a05132731ffe"
+    },
+    {
+     "from": "2003-03-07",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/42197",
+     "sha256": "d4571c4fbb43923b26b5a3538e211dd384474475820e6af5cd2e41302b84199b"
+    }
+   ]
+  },
+  {
    "slug": "hg-842-2003",
    "path": "hg/2003/842",
    "short": "HG nr. 842/2003",
@@ -439291,6 +440362,27 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303454",
      "sha256": "9ba35d376a02036d2a31096223810e5ff421ad3ac6fff625f1fd6c7b95414a5c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-849-2002",
+   "path": "hg/2002/849",
+   "short": "HG nr. 849/2002",
+   "title": "Hotărârea Guvernului nr. 849/2002 pentru aprobarea Regulamentului de organizare şi funcţionare a Inspecţiei Piscicole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38200",
+   "versions": [
+    {
+     "from": "2002-08-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38200",
+     "sha256": "b1cd4484bf10ef550f90c6607e80ddfea2615eb88e8d6a6dbee0dfe1d26aba93"
+    },
+    {
+     "from": "2005-09-09",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87576",
+     "sha256": "d389f3de354df4c695b478823f18613857a74dcaea689c8124949882beaa66eb"
     }
    ]
   },
@@ -442181,6 +443273,27 @@
    ]
   },
   {
+   "slug": "hg-857-2013",
+   "path": "hg/2013/857",
+   "short": "HG nr. 857/2013",
+   "title": "Hotărârea Guvernului nr. 857/2013 privind organizarea şi funcţionarea Institutului \"Eudoxiu Hurmuzachi\" pentru românii de pretutindeni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152527",
+   "versions": [
+    {
+     "from": "2013-11-13",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152527",
+     "sha256": "9a8572410340b5565916c88d700f7709851e0bb98f538306536211abba41f4c3"
+    },
+    {
+     "from": "2020-02-17",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244649",
+     "sha256": "449744a34e8c6859b2c17bfc9f3a33cc7f08c69e0f24d2bc6400ef4de231043d"
+    }
+   ]
+  },
+  {
    "slug": "hg-857-2014",
    "path": "hg/2014/857",
    "short": "HG nr. 857/2014",
@@ -442762,6 +443875,27 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/59196",
      "sha256": "2f508c5758c18c197dcc0d23b13ca508366ff0f6c522435beee039431741bc0e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-86-2006",
+   "path": "hg/2006/86",
+   "short": "HG nr. 86/2006",
+   "title": "Hotărârea Guvernului nr. 86/2006 privind stabilirea cerinţelor referitoare la etichetarea şi eficienţa energetică pentru introducerea pe piaţă a maşinilor de spălat vase de uz casnic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68840",
+   "versions": [
+    {
+     "from": "2006-03-12",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68840",
+     "sha256": "42b3bb7a3a33fa0b0340443ab312d2302667c67e41990ca346aae0b6e8211198"
+    },
+    {
+     "from": "2012-10-04",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141441",
+     "sha256": "3f9dd2c0a70c7aace69bfaf9012cf264813e9bb05dc8c1c084f5fbd19514855e"
     }
    ]
   },
@@ -461822,6 +462956,27 @@
    ]
   },
   {
+   "slug": "hg-920-2018",
+   "path": "hg/2018/920",
+   "short": "HG nr. 920/2018",
+   "title": "Hotărârea Guvernului nr. 920/2018 privind aprobarea studiului de fundamentare pentru Clinica Multifuncţională \"Dr. Calistrat Grozovici\" corp A şi corp B",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208006",
+   "versions": [
+    {
+     "from": "2018-11-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208006",
+     "sha256": "91d3eda1b0d792a1fb4515fe45b763a2f2056d2c0e75271278aa2d9a47b7a182"
+    },
+    {
+     "from": "2020-02-07",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/222776",
+     "sha256": "ddfa0a42c4e607f70572c0686158f85591063902c586d946eecc4728a13f57bf"
+    }
+   ]
+  },
+  {
    "slug": "hg-920-2019",
    "path": "hg/2019/920",
    "short": "HG nr. 920/2019",
@@ -462013,6 +463168,27 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122246",
      "sha256": "22c64542d99a488576d3af1115a1a1fb8ed831b4d782a3a8c88a6347c557e74c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-921-2011",
+   "path": "hg/2011/921",
+   "short": "HG nr. 921/2011",
+   "title": "Hotărârea Guvernului nr. 921/2011 pentru aprobarea Normelor de aplicare a Ordonanţei de urgenţă a Guvernului nr. 30/2006 privind funcţia de verificare a aspectelor procedurale aferente procesului de atribuire a contractelor de achiziţie publică, a contractelor de concesiune de lucrări publice şi a contractelor de concesiune de servicii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131660",
+   "versions": [
+    {
+     "from": "2011-09-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131660",
+     "sha256": "9ffd8d67b978a9c3fac4aab7fe6a1ed44229c4854e17da7952b5c0729d7b79a4"
+    },
+    {
+     "from": "2018-06-18",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/201548",
+     "sha256": "0cb20a4dfd3f75928cf34103cef5823b3f56a74e80623627037f60c5912baf14"
     }
    ]
   },
@@ -466841,6 +468017,27 @@
    ]
   },
   {
+   "slug": "hg-937-2010",
+   "path": "hg/2010/937",
+   "short": "HG nr. 937/2010",
+   "title": "Hotărârea Guvernului nr. 937/2010 privind clasificarea, ambalarea şi etichetarea la introducerea pe piaţă a preparatelor periculoase",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122732",
+   "versions": [
+    {
+     "from": "2010-10-24",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122732",
+     "sha256": "699488cfa5c5847176313d2f79b881c9627f59d797e32d8de7d4adf81b9f3596"
+    },
+    {
+     "from": "2016-08-03",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/180604",
+     "sha256": "2b1a81b12e34b79745ed815cd3a36d5541dcb13791d606fd3c41a167aa23082c"
+    }
+   ]
+  },
+  {
    "slug": "hg-937-2011",
    "path": "hg/2011/937",
    "short": "HG nr. 937/2011",
@@ -467317,6 +468514,27 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275189",
      "sha256": "dab56b3ffa2071fb16899586559440fef5726775b4c992b2f1a9395a27745218"
+    }
+   ]
+  },
+  {
+   "slug": "hg-939-1997",
+   "path": "hg/1997/939",
+   "short": "HG nr. 939/1997",
+   "title": "Hotărârea Guvernului nr. 939/1997 privind reorganizarea şi funcţionarea Secretariatului de Stat pentru Handicapaţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13768",
+   "versions": [
+    {
+     "from": "1998-01-09",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13768",
+     "sha256": "1eaaaac8fba429ab4dbae7bb47c67e9000b7e4323ec33dc87c1b4ebc969e4022"
+    },
+    {
+     "from": "2001-01-10",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/25963",
+     "sha256": "57c8474197c8551866d333420f6337544733cf78985acd7b5348044e6ba4f7dc"
     }
    ]
   },
@@ -487973,6 +489191,27 @@
    ]
   },
   {
+   "slug": "legea-105-1997",
+   "path": "lege/1997/105",
+   "short": "Legea nr. 105/1997",
+   "title": "Legea nr. 105/1997 pentru soluţionarea obiecţiunilor, contestaţiilor şi a plângerilor asupra sumelor constatate şi aplicate prin actele de control sau de impunere ale organelor Ministerului Finanţelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11634",
+   "versions": [
+    {
+     "from": "1997-06-30",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11634",
+     "sha256": "0e789ef1fa9d2376c037225a74c4b710883c57c2536c35c17e8f715849e11462"
+    },
+    {
+     "from": "2001-02-06",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/26527",
+     "sha256": "ceef8ea3fd74f0eebbf5c5d3e3599e53fd32e012c983898e5fbd3a67ea0cbb51"
+    }
+   ]
+  },
+  {
    "slug": "legea-105-1999",
    "path": "lege/1999/105",
    "short": "Legea nr. 105/1999",
@@ -493258,6 +494497,27 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147401",
      "sha256": "177bafea884529b78a46f37030cfd97e6f28787dc341feae7bb552f4ce1a8936"
+    }
+   ]
+  },
+  {
+   "slug": "legea-120-2014",
+   "path": "lege/2014/120",
+   "short": "Legea nr. 120/2014",
+   "title": "Legea nr. 120/2014 pentru scutirea de la plată a unor debite ale persoanelor provenite din sistemul de asigurări sociale al agricultorilor către bugetul de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160051",
+   "versions": [
+    {
+     "from": "2014-07-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160051",
+     "sha256": "0349551df73bbdd783dacf8a038f6302bbcd4c46bcaa0ee6debf7fc15959e9ca"
+    },
+    {
+     "from": "2014-10-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161545",
+     "sha256": "ebe6a3cae08d3eb9b30bd6e4ce472ce4dde97242bf71071c687bf1b3f4f10cb3"
     }
    ]
   },
@@ -502736,6 +503996,27 @@
    ]
   },
   {
+   "slug": "legea-146-2014",
+   "path": "lege/2014/146",
+   "short": "Legea nr. 146/2014",
+   "title": "Legea nr. 146/2014 privind autorizarea plăţii cotizaţiilor la Forumul Internaţional al Echipelor de Răspuns la Incidente de Securitate Cibernetică (Forum of Incident Response and Security Teams-FIRST) şi la Forumul TF/CSIRT Trusted Introducer (TI) din cadrul Asociaţiei Transeuropene a Reţelelor din Domeniul Cercetării şi al Educaţiei (Transeuropean Research and Education Network Association-TERENA) în scopul menţinerii participării Centrului Naţional de Răspuns la Incidente de Securitate Cibernetică CERT-RO la aceste două organisme neguvernamentale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162447",
+   "versions": [
+    {
+     "from": "2014-10-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162447",
+     "sha256": "b41a0e30ea3e03c92af3c0c0754bb9d2c3d58f15350177e4f35e7de9d22303a3"
+    },
+    {
+     "from": "2024-12-31",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293121",
+     "sha256": "9e01de7aedfc619ecb879cf430eb5293ee40ed5e5e323b2ce30f76c253f332d4"
+    }
+   ]
+  },
+  {
    "slug": "legea-146-2015",
    "path": "lege/2015/146",
    "short": "Legea nr. 146/2015",
@@ -502936,6 +504217,27 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11811",
      "sha256": "f4df0d8662c1a059a3841a47188e1ac8789bcfa598a4d152de6fd5434be21da5"
+    }
+   ]
+  },
+  {
+   "slug": "legea-147-1998",
+   "path": "lege/1998/147",
+   "short": "Legea nr. 147/1998",
+   "title": "Legea nr. 147/1998 privind impozitul pe spectacole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15162",
+   "versions": [
+    {
+     "from": "1998-10-12",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15162",
+     "sha256": "c07cd65ec486d5c5c7492d196772477ab342bc626a56c80bc0fed5fa150f0879"
+    },
+    {
+     "from": "2002-02-02",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/33840",
+     "sha256": "768b94e78ff014a68fd8cae8d1af89d8da793775b815413465149584698216ca"
     }
    ]
   },
@@ -521495,6 +522797,27 @@
    ]
   },
   {
+   "slug": "legea-202-2000",
+   "path": "lege/2000/202",
+   "short": "Legea nr. 202/2000",
+   "title": "Legea nr. 202/2000 privind unele măsuri pentru asigurarea respectării drepturilor de proprietate intelectuală în cadrul operaţiunilor de vămuire",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25084",
+   "versions": [
+    {
+     "from": "2000-12-21",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25084",
+     "sha256": "2b3ca779922fccb32db095894328ed635341f7408dfef187a9a79295a909424f"
+    },
+    {
+     "from": "2006-02-03",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/269120",
+     "sha256": "fffc4b4b7e28ae71d114b8c556995be1894523bf9de8d4f18d15fe7daffbbee5"
+    }
+   ]
+  },
+  {
    "slug": "legea-202-2003",
    "path": "lege/2003/202",
    "short": "Legea nr. 202/2003",
@@ -521722,6 +523045,27 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304893",
      "sha256": "dc16e92aa7641b85cc5f0068f8bff24374637b1040ff07bc59f82c25b9477f08"
+    }
+   ]
+  },
+  {
+   "slug": "legea-203-1999",
+   "path": "lege/1999/203",
+   "short": "Legea nr. 203/1999",
+   "title": "Legea nr. 203/1999 privind permisele de muncă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20415",
+   "versions": [
+    {
+     "from": "2000-02-28",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20415",
+     "sha256": "c7ec68a58800eeb024d42ef051f350106c3a119a107661cd08a324e7c1564482"
+    },
+    {
+     "from": "2007-06-26",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130492",
+     "sha256": "d03cc6bca78258c1728373275cd24d7dc82b7bcddb3a83c032ac5519e9fe81b5"
     }
    ]
   },
@@ -551090,6 +552434,27 @@
    ]
   },
   {
+   "slug": "legea-313-1879",
+   "path": "lege/1879/313",
+   "short": "Legea nr. 313/1879",
+   "title": "Legea nr. 313/1879 pentru anularea clauzei penale din oarecare contracte şi pentru adaosul unui aliniat la articolul 1089 din Codul civil",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34158",
+   "versions": [
+    {
+     "from": "1879-02-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34158",
+     "sha256": "2ecfd3daafb250b8fa6784530f4ff3259e11c830633c00656bec5821bc517eb3"
+    },
+    {
+     "from": "2011-06-13",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175631",
+     "sha256": "dc6c2bdb6fdd6af0b53eca61b128a7f324c7bf5575051fef8b694ff88fc7b1d8"
+    }
+   ]
+  },
+  {
    "slug": "legea-313-2002",
    "path": "lege/2002/313",
    "short": "Legea nr. 313/2002",
@@ -551482,6 +552847,27 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66226",
      "sha256": "fc5c982afc9c920dcc4980261055cdc6e39161f4261aa456ad1a704a52c86895"
+    }
+   ]
+  },
+  {
+   "slug": "legea-315-2006",
+   "path": "lege/2006/315",
+   "short": "Legea nr. 315/2006",
+   "title": "Legea nr. 315/2006 privind stimularea achiziţionării de cărţi sau de programe educaţionale pe suport electronic, necesare îmbunătăţirii calităţii activităţii didactice, în învăţământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73520",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73520",
+     "sha256": "133569601290f66aa03dc3ac1ebbaff03dde491a18b6bf429dec8e11933f607e"
+    },
+    {
+     "from": "2010-07-03",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177878",
+     "sha256": "5aa04a73c91aeb9ddec0027bfe8c0dfd483ce5ef8b7836287662777dd5421f2b"
     }
    ]
   },
@@ -551977,6 +553363,27 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276099",
      "sha256": "2fcc3ea86b1c6696e8be016eafcdd35f03cdb015e9a70ba53f3cbc12e6371a5d"
+    }
+   ]
+  },
+  {
+   "slug": "legea-319-1944",
+   "path": "lege/1944/319",
+   "short": "Legea nr. 319/1944",
+   "title": "Legea nr. 319/1944 pentru dreptul de moştenire al soţului supravieţuitor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32",
+   "versions": [
+    {
+     "from": "1944-06-10",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32",
+     "sha256": "0330a7174d33dba57efa9830d7164f9e45b2e57cdbeabbb0a9e90d46d0d272e5"
+    },
+    {
+     "from": "2011-06-13",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175631",
+     "sha256": "dc6c2bdb6fdd6af0b53eca61b128a7f324c7bf5575051fef8b694ff88fc7b1d8"
     }
    ]
   },
@@ -554183,6 +555590,27 @@
    ]
   },
   {
+   "slug": "legea-33-2006",
+   "path": "lege/2006/33",
+   "short": "Legea nr. 33/2006",
+   "title": "Legea nr. 33/2006 privind băncile de credit ipotecar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69494",
+   "versions": [
+    {
+     "from": "2006-04-02",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69494",
+     "sha256": "ada1c3bc3301bea933a7de6f235455e6a0e3ca6abd48fa125d48a7510f1263e4"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249522",
+     "sha256": "58738399fe6ebafbef1e7966fa3655b06b1f7ccd9b3a227da495450fee020af1"
+    }
+   ]
+  },
+  {
    "slug": "legea-33-2008",
    "path": "lege/2008/33",
    "short": "Legea nr. 33/2008",
@@ -555913,6 +557341,27 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2214",
      "sha256": "add89fb24db9eef64c61dbacf48c958f2cd9122fbba89a76cec9c7ea9050ae28"
+    }
+   ]
+  },
+  {
+   "slug": "legea-34-1994",
+   "path": "lege/1994/34",
+   "short": "Legea nr. 34/1994",
+   "title": "Legea nr. 34/1994 privind impozitul pe venitul agricol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4072",
+   "versions": [
+    {
+     "from": "1994-07-01",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4072",
+     "sha256": "0f39332de4e7f1dce70339323b0a7fb325c151094d0e5635a7a4aaa9d2381534"
+    },
+    {
+     "from": "2002-02-02",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/33840",
+     "sha256": "768b94e78ff014a68fd8cae8d1af89d8da793775b815413465149584698216ca"
     }
    ]
   },
@@ -562835,6 +564284,27 @@
    ]
   },
   {
+   "slug": "legea-381-2002",
+   "path": "lege/2002/381",
+   "short": "Legea nr. 381/2002",
+   "title": "Legea nr. 381/2002 privind acordarea despăgubirilor în caz de calamitaţi naturale în agricultura",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36811",
+   "versions": [
+    {
+     "from": "2002-08-23",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36811",
+     "sha256": "fc2ee3a8523624202a7046c8c3aef35267156f21641cf681561b5171e143d004"
+    },
+    {
+     "from": "2011-01-02",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/124856",
+     "sha256": "9b1f226fe824539f3fcd34b455e601c2e4fb3473a3759f924b85b3b9305784d4"
+    }
+   ]
+  },
+  {
    "slug": "legea-381-2004",
    "path": "lege/2004/381",
    "short": "Legea nr. 381/2004",
@@ -564578,6 +566048,27 @@
    ]
   },
   {
+   "slug": "legea-396-2006",
+   "path": "lege/2006/396",
+   "short": "Legea nr. 396/2006",
+   "title": "Legea nr. 396/2006 privind acordarea unui sprijin financiar la constituirea familiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76425",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76425",
+     "sha256": "eb45123a103c60e33755d25ef1b8e41fc011c6bba7b107b6e409f3ddfa45881b"
+    },
+    {
+     "from": "2010-07-03",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177878",
+     "sha256": "5aa04a73c91aeb9ddec0027bfe8c0dfd483ce5ef8b7836287662777dd5421f2b"
+    }
+   ]
+  },
+  {
    "slug": "legea-397-2002",
    "path": "lege/2002/397",
    "short": "Legea nr. 397/2002",
@@ -564859,6 +566350,27 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41273",
      "sha256": "5c292d1fb94870de957e8825be1b22b3370dff34ddea878ba2f44ff13ddad528"
+    }
+   ]
+  },
+  {
+   "slug": "legea-4-2006",
+   "path": "lege/2006/4",
+   "short": "Legea nr. 4/2006",
+   "title": "Legea nr. 4/2006 pentru modificarea denumirii şi clasificării mărfurilor din Tariful vamal de import al României şi a taxelor vamale aferente acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68026",
+   "versions": [
+    {
+     "from": "2006-01-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68026",
+     "sha256": "29a01b8bd61f3be0e08f1c35968d4f6c9cbd15ce83bc6a94fb69b4bcbb9693cf"
+    },
+    {
+     "from": "2007-07-27",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83781",
+     "sha256": "5ef7bc9f405288e8679e267e335c393c94c506d7fed253b51eee3a68a4a7d0eb"
     }
    ]
   },
@@ -571079,6 +572591,27 @@
    ]
   },
   {
+   "slug": "legea-47-2006",
+   "path": "lege/2006/47",
+   "short": "Legea nr. 47/2006",
+   "title": "Legea nr. 47/2006 privind sistemul naţional de asistenţă socială",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69884",
+   "versions": [
+    {
+     "from": "2006-03-19",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69884",
+     "sha256": "39ad74cc5cb16b7f66c1a44897d206ce8a85aac886a8b7bdc85e1986ad00486b"
+    },
+    {
+     "from": "2011-12-23",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/223966",
+     "sha256": "3574e710f2557e21b65d97f74ad9b6c2835e37d648bb97684d3cbe2d18c457e3"
+    }
+   ]
+  },
+  {
    "slug": "legea-47-2007",
    "path": "lege/2007/47",
    "short": "Legea nr. 47/2007",
@@ -573692,6 +575225,27 @@
    ]
   },
   {
+   "slug": "legea-50-1994",
+   "path": "lege/1994/50",
+   "short": "Legea nr. 50/1994",
+   "title": "Legea nr. 50/1994 privind unele măsuri de organizare a activităţii de îmbunătăţiri funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4169",
+   "versions": [
+    {
+     "from": "1994-07-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4169",
+     "sha256": "9de6713dfc057d4aa75d23f0b403e87fdba59c17a6c4834e1cf935d483ccccb0"
+    },
+    {
+     "from": "2000-03-30",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/21694",
+     "sha256": "c081afa214bc290a32908b00ba7735188d9864d0a3ddd522fbdd95cdd590759b"
+    }
+   ]
+  },
+  {
    "slug": "legea-50-1997",
    "path": "lege/1997/50",
    "short": "Legea nr. 50/1997",
@@ -574225,6 +575779,27 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78273",
      "sha256": "60b2eae88acd48ff14e1c4e32672bf79de7249e5b74d94ac5fd5d116fac63e56"
+    }
+   ]
+  },
+  {
+   "slug": "legea-509-2002",
+   "path": "lege/2002/509",
+   "short": "Legea nr. 509/2002",
+   "title": "Legea nr. 509/2002 privind agenţii comerciali permanenţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37851",
+   "versions": [
+    {
+     "from": "2002-10-05",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37851",
+     "sha256": "4f2150b7e2a015bcecf3a10070d8d1c666fd29255a619f17d559432f42cc6e13"
+    },
+    {
+     "from": "2011-06-13",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175631",
+     "sha256": "dc6c2bdb6fdd6af0b53eca61b128a7f324c7bf5575051fef8b694ff88fc7b1d8"
     }
    ]
   },
@@ -597923,6 +599498,27 @@
    ]
   },
   {
+   "slug": "og-11-1992",
+   "path": "og/1992/11",
+   "short": "OG nr. 11/1992",
+   "title": "Ordonanța Guvernului nr. 11/1992 privind modul de desfăşurare şi impozitare a activităţii de taximetrie auto",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2135",
+   "versions": [
+    {
+     "from": "1992-08-26",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2135",
+     "sha256": "628441fadb14f807b9961519f4ac444d62de5328f0ce22b7265fadb17c0600c5"
+    },
+    {
+     "from": "1998-01-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/11532",
+     "sha256": "e6243e32b5a24a0c95673bc41177d6453a8c2b9a2ff36a65192c1e27b19d0c62"
+    }
+   ]
+  },
+  {
    "slug": "og-11-1993",
    "path": "og/1993/11",
    "short": "OG nr. 11/1993",
@@ -598348,6 +599944,27 @@
      "units": 38,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15554",
      "sha256": "f348bb3016ee5522f662f7f09ae18e92eb6f2c2b85ab924c7714b20fc371b3b4"
+    }
+   ]
+  },
+  {
+   "slug": "og-116-1999",
+   "path": "og/1999/116",
+   "short": "OG nr. 116/1999",
+   "title": "Ordonanța Guvernului nr. 116/1999 pentru modificarea şi completarea Legii serviciilor poştale nr. 83/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19163",
+   "versions": [
+    {
+     "from": "1999-08-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19163",
+     "sha256": "84d2e9af045d2bcf8e12c994d0534cb29f6ba062484427f961492f9a6d813bcc"
+    },
+    {
+     "from": "2002-02-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/76861",
+     "sha256": "90d9868511dad6909e912bad4da45e45394a6d71d7083bdbc9aee658333235f2"
     }
    ]
   },
@@ -602387,6 +604004,27 @@
    ]
   },
   {
+   "slug": "og-25-2008",
+   "path": "og/2008/25",
+   "short": "OG nr. 25/2008",
+   "title": "Ordonanța Guvernului nr. 25/2008 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 196/2005 privind Fondul pentru mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96989",
+   "versions": [
+    {
+     "from": "2008-09-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96989",
+     "sha256": "410c68dc5e5ea26e775674ec3e205b76fa081f448c3710158dad67c1822c06b6"
+    },
+    {
+     "from": "2010-07-23",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/120762",
+     "sha256": "af8ae27e9a591713f5cfe83adebf7f8e6db9f601f071d371b3e4e0741fb49714"
+    }
+   ]
+  },
+  {
    "slug": "og-25-2009",
    "path": "og/2009/25",
    "short": "OG nr. 25/2009",
@@ -604865,6 +606503,27 @@
    ]
   },
   {
+   "slug": "og-37-1994",
+   "path": "og/1994/37",
+   "short": "OG nr. 37/1994",
+   "title": "Ordonanța Guvernului nr. 37/1994 privind unele măsuri în legătură cu eliberarea şi păstrarea paşapoartelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4097",
+   "versions": [
+    {
+     "from": "1994-08-30",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4097",
+     "sha256": "4560ac3f4e2d9efcc6547a5adcf1aaa9b50529f1a046dcd00ac17b9f641baa3f"
+    },
+    {
+     "from": "1997-09-29",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53514",
+     "sha256": "3bf53455da5502f5099624c471e581722d8bde4f9f43192676d6dce7eed137e0"
+    }
+   ]
+  },
+  {
    "slug": "og-37-1995",
    "path": "og/1995/37",
    "short": "OG nr. 37/1995",
@@ -605935,6 +607594,27 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287836",
      "sha256": "ea7bc353f1ee3e74ee0a26beaeb388239a12537d5704c5a203ed76fe1af57739"
+    }
+   ]
+  },
+  {
+   "slug": "og-44-1995",
+   "path": "og/1995/44",
+   "short": "OG nr. 44/1995",
+   "title": "Ordonanța Guvernului nr. 44/1995 privind îmbunătăţirea impunerii activităţilor producătoare de venit din exercitarea unei profesii libere şi din lucrări literare, de arta şi ştiinţifice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6002",
+   "versions": [
+    {
+     "from": "1996-01-01",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6002",
+     "sha256": "693183114c4893ad9e5c1e254badcc9d505d53afdd3012cb278f651d1819d3de"
+    },
+    {
+     "from": "1998-01-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/11532",
+     "sha256": "e6243e32b5a24a0c95673bc41177d6453a8c2b9a2ff36a65192c1e27b19d0c62"
     }
    ]
   },
@@ -607289,6 +608969,27 @@
    ]
   },
   {
+   "slug": "og-59-1997",
+   "path": "og/1997/59",
+   "short": "OG nr. 59/1997",
+   "title": "Ordonanța Guvernului nr. 59/1997 cu privire la finanţarea, în sistem descentralizat, în domeniul ştiinţei, tehnologiei şi inovării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11375",
+   "versions": [
+    {
+     "from": "1997-08-30",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11375",
+     "sha256": "f01a675159f0fb552ce58e325e56b177ce35b51a98f17e7d6c3e619a4308366c"
+    },
+    {
+     "from": "2002-08-30",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68370",
+     "sha256": "d25dbd21e7b4dda9bebe63854659e267e9b0e0a60e2758af41d5dfb576873ef1"
+    }
+   ]
+  },
+  {
    "slug": "og-59-1998",
    "path": "og/1998/59",
    "short": "OG nr. 59/1998",
@@ -607360,6 +609061,27 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3830",
      "sha256": "50b31d87eab637f2fad63de10b69f54073fdaa4a42f65def5aa47c5310267b27"
+    }
+   ]
+  },
+  {
+   "slug": "og-6-1998",
+   "path": "og/1998/6",
+   "short": "OG nr. 6/1998",
+   "title": "Ordonanța Guvernului nr. 6/1998 pentru modificarea şi completarea Legii nr. 32/1991 privind impozitul pe salarii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13984",
+   "versions": [
+    {
+     "from": "1998-01-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13984",
+     "sha256": "184e6e8d4075ac985d7c2b3f66414269189afcd8704304dff0cd7a039e1d88de"
+    },
+    {
+     "from": "2000-01-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/19109",
+     "sha256": "bc22773d068c6379dc7f4e27fc60668d537eaaaec66899a75dec1714cc9c540f"
     }
    ]
   },
@@ -607711,6 +609433,27 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4234",
      "sha256": "1e585ef427ee13b2bb8a3f366eea8d1868bb291ca7d06ddcbce8c9732f52133e"
+    }
+   ]
+  },
+  {
+   "slug": "og-62-1997",
+   "path": "og/1997/62",
+   "short": "OG nr. 62/1997",
+   "title": "Ordonanța Guvernului nr. 62/1997 pentru modificarea şi completarea Legii nr. 32/1991 privind impozitul pe salarii, republicată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11395",
+   "versions": [
+    {
+     "from": "1997-08-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11395",
+     "sha256": "836a693ad204fdc00b7ea2019df237e52c2fc3ee237b96adabb3b957bde36b01"
+    },
+    {
+     "from": "2000-01-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/19109",
+     "sha256": "bc22773d068c6379dc7f4e27fc60668d537eaaaec66899a75dec1714cc9c540f"
     }
    ]
   },
@@ -608849,6 +610592,27 @@
    ]
   },
   {
+   "slug": "og-79-1998",
+   "path": "og/1998/79",
+   "short": "OG nr. 79/1998",
+   "title": "Ordonanța Guvernului nr. 79/1998 privind organizarea şi funcţionarea Fondului Cultural Naţional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15563",
+   "versions": [
+    {
+     "from": "1998-08-27",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15563",
+     "sha256": "fd519b6d2540a395410c12c45ead55676482fdf7b9ae95155a4ebfe8b4e4eb02"
+    },
+    {
+     "from": "2005-01-31",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69409",
+     "sha256": "749ed8c10e8bae4378c27a7b468ba245b27c0d579bf701e9eb211442e87f23e3"
+    }
+   ]
+  },
+  {
    "slug": "og-79-2000",
    "path": "og/2000/79",
    "short": "OG nr. 79/2000",
@@ -608896,6 +610660,27 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/7829",
      "sha256": "eb114c6cc351d33a6118a264a815aec9c2b3cb925a89183bbd9a5ad5ba91b0ca"
+    }
+   ]
+  },
+  {
+   "slug": "og-8-1997",
+   "path": "og/1997/8",
+   "short": "OG nr. 8/1997",
+   "title": "Ordonanța Guvernului nr. 8/1997 privind stimularea cercetării-dezvoltării şi inovării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10893",
+   "versions": [
+    {
+     "from": "1997-01-31",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10893",
+     "sha256": "75354fb1e36820ee582a2acfe4670658ac99c7a0b17d30ab042ea2a3a0c13244"
+    },
+    {
+     "from": "2002-08-30",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68370",
+     "sha256": "d25dbd21e7b4dda9bebe63854659e267e9b0e0a60e2758af41d5dfb576873ef1"
     }
    ]
   },
@@ -623378,6 +625163,27 @@
    ]
   },
   {
+   "slug": "oug-176-2002",
+   "path": "oug/2002/176",
+   "short": "OUG nr. 176/2002",
+   "title": "Ordonanța de urgență a Guvernului nr. 176/2002 pentru stabilirea unor măsuri privind Strategia de dezvoltare socioeconomica a Bazinului carbonifer al Văii Jiului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40640",
+   "versions": [
+    {
+     "from": "2002-12-14",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40640",
+     "sha256": "5a758dbed9ef6853258e3fb4061d777838dea51dfb302e089c834aefaa3be3e5"
+    },
+    {
+     "from": "2004-05-31",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/52355",
+     "sha256": "00ecb201f34030ed51f9f237125ffd8678792d91f380a19813a68ff45dc5846b"
+    }
+   ]
+  },
+  {
    "slug": "oug-176-2020",
    "path": "oug/2020/176",
    "short": "OUG nr. 176/2020",
@@ -627125,6 +628931,27 @@
    ]
   },
   {
+   "slug": "oug-219-2008",
+   "path": "oug/2008/219",
+   "short": "OUG nr. 219/2008",
+   "title": "Ordonanța de urgență a Guvernului nr. 219/2008 privind prorogarea termenelor de aplicare a dispoziţiilor art. III din Ordonanţa de urgenţă a Guvernului nr. 135/2008 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 79/2008 privind măsuri economico-financiare la nivelul unor operatori economici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100525",
+   "versions": [
+    {
+     "from": "2008-12-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100525",
+     "sha256": "df89379564f871b4372bc0420694af09c56861d589956ff7da5bb1eee36eaad6"
+    },
+    {
+     "from": "2008-12-31",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/100877",
+     "sha256": "2311cb5ebe3dc5911eb9d4639a3cd1dced54591965926b1a93423386e172ef29"
+    }
+   ]
+  },
+  {
    "slug": "oug-219-2020",
    "path": "oug/2020/219",
    "short": "OUG nr. 219/2020",
@@ -628912,6 +630739,27 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25560",
      "sha256": "2a5dbc8b8fae6d7fe8c5c03c8e2829c8e7e2f4f182126ac841d5db37aaa50aa2"
+    }
+   ]
+  },
+  {
+   "slug": "oug-262-2000",
+   "path": "oug/2000/262",
+   "short": "OUG nr. 262/2000",
+   "title": "Ordonanța de urgență a Guvernului nr. 262/2000 privind procedurile de stabilire a nivelurilor maxime de reziduuri de pesticide în plante şi produse vegetale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25597",
+   "versions": [
+    {
+     "from": "2000-12-15",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25597",
+     "sha256": "7207806d6addc4ace1de71bc04ac9086ed6a9be4aea682a8ea74d7d7e4a7fcd9"
+    },
+    {
+     "from": "2010-07-02",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/120040",
+     "sha256": "de1f06332d1328a2befaa9d7bfa53c00ce79c999f6bfbafdb01661098bf270f1"
     }
    ]
   },
@@ -631537,6 +633385,27 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310253",
      "sha256": "f38895e1e02f39dd97aad298db2d46d23ca9cee8e7f6311b21b98a9247087351"
+    }
+   ]
+  },
+  {
+   "slug": "oug-35-1997",
+   "path": "oug/1997/35",
+   "short": "OUG nr. 35/1997",
+   "title": "Ordonanța de urgență a Guvernului nr. 35/1997 privind măsurile de stimulare a persoanelor fizice şi juridice pentru încadrarea în munca a absolvenţilor instituţiilor de învăţământ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11208",
+   "versions": [
+    {
+     "from": "1997-07-11",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11208",
+     "sha256": "6d2f442fe864eb2b68ec7e7cc7d55b1adc28fcb16e9423387f696695a81fc9f6"
+    },
+    {
+     "from": "2002-03-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185387",
+     "sha256": "ed855d779422f425320204892606733a3810f2f1324b617eb2ce8966439b55f2"
     }
    ]
   },
@@ -634807,6 +636676,27 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301660",
      "sha256": "d2162360d1e970bc4cb5dad76d683e8cd06b119989e0c68bf3b9cb34fdf64406"
+    }
+   ]
+  },
+  {
+   "slug": "oug-44-1997",
+   "path": "oug/1997/44",
+   "short": "OUG nr. 44/1997",
+   "title": "Ordonanța de urgență a Guvernului nr. 44/1997 privind suspendarea impozitului pe venitul agricol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11279",
+   "versions": [
+    {
+     "from": "1997-07-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11279",
+     "sha256": "b9087cc14ef261b6397011279119304efe663cdb225fc14060be988bf0252bd8"
+    },
+    {
+     "from": "2002-02-02",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/33840",
+     "sha256": "768b94e78ff014a68fd8cae8d1af89d8da793775b815413465149584698216ca"
     }
    ]
   },
@@ -640844,6 +642734,27 @@
    ]
   },
   {
+   "slug": "oug-63-1998",
+   "path": "oug/1998/63",
+   "short": "OUG nr. 63/1998",
+   "title": "Ordonanța de urgență a Guvernului nr. 63/1998 privind energia electrică şi termica",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16560",
+   "versions": [
+    {
+     "from": "1999-03-30",
+     "units": 84,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16560",
+     "sha256": "74b9af17808e4b9e06f155729a3869a0710f728b0b6dbcac7f505443321d0bfd"
+    },
+    {
+     "from": "2003-08-15",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/45021",
+     "sha256": "17b0912a3565a9a1078477b21998799be75c9ac8c76b498708c284b417c6ec10"
+    }
+   ]
+  },
+  {
    "slug": "oug-63-2000",
    "path": "oug/2000/63",
    "short": "OUG nr. 63/2000",
@@ -643036,6 +644947,27 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305057",
      "sha256": "5a618470ad92984727daee9c7294de326b7bccc10f61a0f177faca1b1930157d"
+    }
+   ]
+  },
+  {
+   "slug": "oug-7-1998",
+   "path": "oug/1998/7",
+   "short": "OUG nr. 7/1998",
+   "title": "Ordonanța de urgență a Guvernului nr. 7/1998 privind preţurile şi tarifele produselor şi serviciilor care se executa sau se prestează în ţara în cadrul activităţilor cu caracter de monopol natural, al celor supuse prin lege unui regim special sau al regiilor autonome, care se stabilesc cu avizul Oficiului Concurentei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13997",
+   "versions": [
+    {
+     "from": "1998-04-02",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13997",
+     "sha256": "13a080492174d0eb6e4caf8064c73996cee772b61d5241b2de972f309320f2ad"
+    },
+    {
+     "from": "2001-03-07",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188245",
+     "sha256": "33d0aa2685b4e04ff23db232b08101ba8a92806cd11985210831e2db24a17491"
     }
    ]
   },
@@ -651142,6 +653074,27 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23140",
      "sha256": "06269b4c7c2c37cc0b99eeea0fdaac9d09d43063f5635b1c4666a90b9c9d8aec"
+    }
+   ]
+  },
+  {
+   "slug": "oug-96-2001",
+   "path": "oug/2001/96",
+   "short": "OUG nr. 96/2001",
+   "title": "Ordonanța de urgență a Guvernului nr. 96/2001 privind controlul contribuţiilor de asigurări sociale şi soluţionarea contestaţiilor împotriva măsurilor dispuse prin actele de control întocmite de organele de control ale Casei Naţionale de Pensii şi Alte Drepturi de Asigurări Sociale şi ale caselor teritoriale de pensii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29295",
+   "versions": [
+    {
+     "from": "2001-06-29",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29295",
+     "sha256": "f3e6945f1d4ca8c32dae97ac1bdf9808b17a921cb1d3c84ab290d61cb6a84caf"
+    },
+    {
+     "from": "2004-01-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/44030",
+     "sha256": "9f8a704e48b23c7b981d053b91e60f8c5ee1b314bec20f09a078eb25c12385bc"
     }
    ]
   },

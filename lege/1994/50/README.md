@@ -1,0 +1,16 @@
+# Legea nr. 50/1994 privind unele măsuri de organizare a activităţii de îmbunătăţiri funciare
+
+Legea nr. 50/1994 · 2 versions, from 1994-07-14 (latest in force: 2000-03-30) · <https://legislatie.just.ro/Public/DetaliiDocument/4169>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+
+Act id: `legea-50-1994` (tags `legea-50-1994/<day>`; `python tools/on.py <day> legea-50-1994`).
+
+## Decisions made by hand
+
+- Legea nr. 50/1994: added from the official web service of the Portalul legislativ (FreeWebService): the act as published (document 4169, retrieved 2026-11-02).
+- Legea nr. 50/1994: added by Lexifina's automatic pass with the default rules, and no rule or ruling made for this act alone was applied. It was published only because every automatic check that applies to an act known from the official web service alone passed: two parses identical, issuer, number and in-force day confirmed by the service, and no act changing it found by the full-text search.
+- Legea nr. 50/1994: the first version is the law as published in Monitorul Oficial nr. 179 of 14 July 1994 (document 4169 of the official web service), dated 14 July 1994: it sets no day of its own, so in force on publication (Constituția of 1991, art. 78, which applied until 29 October 2003). No consolidated form of it exists, so the text as published is its only version; no page of the act is held.
+- Legea nr. 50/1994: repealed in full by OUG nr. 23/2000 after its newest form, read from the repealing act (- Legea nr. 50/1994 privind unele masuri de organizare a activitatii de imbunatatiri funciare, republicata in Monitorul ); the last version, of 30 March 2000, removes every article.
+- Legea nr. 50/1994: AMENDMENTS NOT APPLIED. This act was amended (by:  entru determinarea constitutionalitatii Legii pentru aprobarea Ordonantei Guvern;  4 de declarare a neconstitutionalitatii Legii pentru aprobarea Ordonantei Guvern;  n 29 decembrie 1995 privind promulgarea Legii pentru modificarea si completarea ; hg-668-2000 atarii si intretinerii lucrarilor de imbunatatiri funciare, potrivit art. 5 din ), but the Portalul legislativ publishes no consolidated text of it: its current text there is the act as published (checked against a copy of the portal's texts of 3 November 2026). This record therefore holds only the act as published, as the official web service returns it (FreeWebService, http://legislatie.just.ro/apiws/FreeWebService.svc), document 4169, retrieved 2026-11-02; read the amending acts for the text in force.
