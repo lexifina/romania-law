@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38931 acts, 52,684 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38935 acts, 52,688 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -12136,7 +12136,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26761, of which 12492 amending acts)
+## Government decisions (HG) (26765, of which 12495 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13183,6 +13183,10 @@
 | Hotărârea Guvernului nr. 511/2001 privind unele măsuri de organizare a activității de agrement în stațiunile turistice | [`hg/2001/511/`](hg/2001/511/) | in force | 2 | 2001-06-11 | 2003-04-23 |
 | Hotărârea Guvernului nr. 527/2001 privind stabilirea gradului minim de biodegradabilitate a agenţilor de suprafaţă conţinuţi în detergenţi, produse de întreţinere şi produse de curăţat | [`hg/2001/527/`](hg/2001/527/) | amended, not consolidated | 1 | 2001-12-14 | 2001-12-14 |
 | Hotărârea Guvernului nr. 530/2001 | [`hg/2001/530/`](hg/2001/530/) | in force | 3 | 2002-03-18 | 2009-04-11 |
+| Hotărârea Guvernului nr. 531/2001 privind acordarea unor ajutoare de urgenta | [`hg/2001/531/`](hg/2001/531/) | in force | 1 | 2001-06-13 | 2001-06-13 |
+| Hotărârea Guvernului nr. 532/2001 privind aprobarea strategiei de privatizare a Societăţii Comerciale "Şantierul Naval" - S.A. Constanţa, inclusă în proiectul componenta "Privatizarea a 50 de societăţi comerciale cu capital majoritar de stat, grupate în pachete", din cadrul PSAL (Programul pentru Ajustarea Sectorului Privat) | [`hg/2001/532/`](hg/2001/532/) | amending act | 1 | 2001-06-14 | 2001-06-14 |
+| Hotărârea Guvernului nr. 533/2001 privind aprobarea bilanţului general al trezoreriei statului şi a contului de execuţie a bugetului de venituri şi cheltuieli al trezoreriei statului pe anul 2000 | [`hg/2001/533/`](hg/2001/533/) | amending act | 1 | 2001-06-14 | 2001-06-14 |
+| Hotărârea Guvernului nr. 535/2001 pentru abrogarea Hotărârii Guvernului nr. 1.101/2000 privind aprobarea vânzării unui teren proprietate privată a statului, aflat în administrarea Ministerului Apărării Naţionale | [`hg/2001/535/`](hg/2001/535/) | amending act | 1 | 2001-06-13 | 2001-06-13 |
 | Hotărârea Guvernului nr. 536/2001 | [`hg/2001/536/`](hg/2001/536/) | in force | 1 | 2001-06-15 | 2001-06-15 |
 | Hotărârea Guvernului nr. 538/2001 privind aprobarea Normelor metodologice pentru finanţarea învăţământului preuniversitar de stat | [`hg/2001/538/`](hg/2001/538/) | amended, not consolidated | 1 | 2001-06-19 | 2001-06-19 |
 | Hotărârea Guvernului nr. 541/2001 privind trecerea unor imobile din/în proprietatea publică a statului în/din proprietatea privată a statului şi transmiterea lor din/în administrarea Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat" în/din administrarea Serviciului de Protecţie şi Paza | [`hg/2001/541/`](hg/2001/541/) | in force | 1 | 2001-06-15 | 2001-06-15 |

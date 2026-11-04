@@ -344300,6 +344300,21 @@
    ]
   },
   {
+   "slug": "hg-531-2001",
+   "path": "hg/2001/531",
+   "short": "HG nr. 531/2001",
+   "title": "Hotărârea Guvernului nr. 531/2001 privind acordarea unor ajutoare de urgenta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28983",
+   "versions": [
+    {
+     "from": "2001-06-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28983",
+     "sha256": "c08fa2b9a2982d385a7d423b3d563f4b3ac9345b0c241709dff1ab91e3fcdfc7"
+    }
+   ]
+  },
+  {
    "slug": "hg-531-2002",
    "path": "hg/2002/531",
    "short": "HG nr. 531/2002",
@@ -344591,6 +344606,21 @@
    ]
   },
   {
+   "slug": "hg-532-2001",
+   "path": "hg/2001/532",
+   "short": "HG nr. 532/2001",
+   "title": "Hotărârea Guvernului nr. 532/2001 privind aprobarea strategiei de privatizare a Societăţii Comerciale \"Şantierul Naval\" - S.A. Constanţa, inclusă în proiectul componenta \"Privatizarea a 50 de societăţi comerciale cu capital majoritar de stat, grupate în pachete\", din cadrul PSAL (Programul pentru Ajustarea Sectorului Privat)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29000",
+   "versions": [
+    {
+     "from": "2001-06-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29000",
+     "sha256": "2e8ade03278977d3460af8943cfc3929356a69f96a325a9cde6c0e6413ca9043"
+    }
+   ]
+  },
+  {
    "slug": "hg-532-2003",
    "path": "hg/2003/532",
    "short": "HG nr. 532/2003",
@@ -344857,6 +344887,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298547",
      "sha256": "5567c6a92b1ba1f2134b712f25ada2d1d40598868e00b1670f803fb9445140bc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-533-2001",
+   "path": "hg/2001/533",
+   "short": "HG nr. 533/2001",
+   "title": "Hotărârea Guvernului nr. 533/2001 privind aprobarea bilanţului general al trezoreriei statului şi a contului de execuţie a bugetului de venituri şi cheltuieli al trezoreriei statului pe anul 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29003",
+   "versions": [
+    {
+     "from": "2001-06-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29003",
+     "sha256": "be9988c6af1f2779db6da84d3d771bdfcaa0c34102265425ed04acfc59822e11"
     }
    ]
   },
@@ -345517,6 +345562,21 @@
      "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/18717",
      "sha256": "e060f83871159a9d56c890ae9af4fad53aacb6e7d0fb3bd2337e07340e198ee3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-535-2001",
+   "path": "hg/2001/535",
+   "short": "HG nr. 535/2001",
+   "title": "Hotărârea Guvernului nr. 535/2001 pentru abrogarea Hotărârii Guvernului nr. 1.101/2000 privind aprobarea vânzării unui teren proprietate privată a statului, aflat în administrarea Ministerului Apărării Naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28978",
+   "versions": [
+    {
+     "from": "2001-06-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28978",
+     "sha256": "96ac721e4b96c50922bbbfcd6ff3f56a7f3c842f2ef37b19b1e7b8194fcf8d91"
     }
    ]
   },
