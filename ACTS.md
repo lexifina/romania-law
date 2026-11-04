@@ -1,6 +1,6 @@
 # Every act in this repository
 
-26955 acts, 40,597 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+26977 acts, 40,619 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3856, of which 2262 amending acts)
+## Laws (legi) (3867, of which 2268 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -565,7 +565,17 @@
 | Legea nr. 403/2004 | [`lege/2004/403/`](lege/2004/403/) | in force | 1 | 2004-10-28 | 2004-10-28 |
 | Legea nr. 411/2004 | [`lege/2004/411/`](lege/2004/411/) | in force | 26 | 2006-07-01 | 2025-04-17 |
 | Legea nr. 418/2004 privind statutul profesional specific al medicului de medicina a muncii | [`lege/2004/418/`](lege/2004/418/) | in force | 2 | 2004-11-01 | 2007-03-24 |
+| Legea nr. 423/2004 privind aderarea României la Acordul dintre părţile la Tratatul Atlanticului de Nord pentru securitatea informaţiilor, adoptat la Bruxelles la 6 martie 1997 | [`lege/2004/423/`](lege/2004/423/) | in force | 1 | 2004-10-31 | 2004-10-31 |
+| Legea nr. 424/2004 privind ratificarea Acordului dintre Guvernul României şi Fondul Naţiunilor Unite pentru Populaţie pentru aplicarea mutatis mutandis a Acordului dintre Guvernul României şi Programul Naţiunilor Unite pentru Dezvoltare, semnat la Bucureşti la 23 ianuarie 1991, activităţilor şi personalului Fondului Naţiunilor Unite pentru Populaţie din România, convenit prin schimb de scrisori semnate la New York la 5 mai 2003 şi la Bucureşti la 13 noiembrie 2003 | [`lege/2004/424/`](lege/2004/424/) | in force | 1 | 2004-11-21 | 2004-11-21 |
 | Legea nr. 425/2004 | [`lege/2004/425/`](lege/2004/425/) | in force | 1 | 2004-10-31 | 2004-10-31 |
+| Legea nr. 426/2004 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 57/2004 pentru modificarea alin. (1) al art. 1 din Ordonanţa de urgenţă a Guvernului nr. 13/1997 privind transmiterea, cu titlu gratuit, a unui imobil în proprietatea Republicii Federale Germania | [`lege/2004/426/`](lege/2004/426/) | amending act | 1 | 2004-10-31 | 2004-10-31 |
+| Legea nr. 428/2004 privind respingerea Ordonanţei Guvernului nr. 53/2004 pentru prorogarea termenelor de intrare în vigoare a unor prevederi din Legea nr. 306/2004 privind exercitarea profesiei de medic, precum şi organizarea şi funcţionarea Colegiul Medicilor din România, din Legea nr. 307/2004 privind exercitarea profesiei de asistent medical şi a profesiei de moaşa, precum şi organizarea şi funcţionarea Ordinului Asistenţilor Medicali şi Moaşelor din România şi din Legea nr. 308/2004 privind exercitarea profesiei de medic dentist, precum şi înfiinţarea, organizarea şi funcţionarea Colegiului Medicilor Dentişti din România | [`lege/2004/428/`](lege/2004/428/) | amending act | 1 | 2004-11-01 | 2004-11-01 |
+| Legea nr. 429/2004 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Federal Austriac privind schimbul reciproc de date în domeniul controlului migraţiei şi în probleme de azil, semnat la Bucureşti la 24 iunie 2004 | [`lege/2004/429/`](lege/2004/429/) | in force | 1 | 2004-11-21 | 2004-11-21 |
+| Legea nr. 431/2004 pentru aprobarea Ordonanţei Guvernului nr. 56/2004 privind prorogarea termenului prevăzut la art. II din Ordonanţa de urgenţă a Guvernului nr. 78/2003 pentru modificarea şi completarea Legii nr. 290/2002 privind organizarea şi funcţionarea unităţilor de cercetare-dezvoltare din domeniile agriculturii, silviculturii, industriei alimentare şi a Academiei de Ştiinţe Agricole şi Silvice "Gheorghe Ionescu-Şişeşti" | [`lege/2004/431/`](lege/2004/431/) | amending act | 1 | 2004-10-31 | 2004-10-31 |
+| Legea nr. 433/2004 privind aprobarea Ordonanţei Guvernului nr. 71/2004 pentru modificarea şi completarea Ordonanţei Guvernului nr. 9/1992 privind organizarea statisticii oficiale | [`lege/2004/433/`](lege/2004/433/) | amending act | 1 | 2004-10-31 | 2004-10-31 |
+| Legea nr. 436/2004 privind rambursarea ratelor de capital pentru o cotă-parte din creditul acordat de Guvernul S.U.A. în baza Programului CCC - Legea publică nr. 480 din 1992 , precum şi achitarea dobânzii şi a altor costuri externe aferente acestei cote-părţi | [`lege/2004/436/`](lege/2004/436/) | in force | 1 | 2004-10-31 | 2004-10-31 |
+| Legea nr. 437/2004 privind aprobarea Ordonanţei Guvernului nr. 80/2004 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 8/2003 privind stimularea procesului de restructurare, reorganizare şi privatizare a unor societăţi naţionale, companii naţionale şi societăţi comerciale cu capital majoritar de stat, precum şi a societăţilor şi regiilor autonome subordonate autorităţilor administraţiei publice locale | [`lege/2004/437/`](lege/2004/437/) | amending act | 1 | 2004-10-31 | 2004-10-31 |
+| Legea nr. 439/2004 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 40/2004 privind unele măsuri pentru valorificarea unitară de către Autoritatea pentru Valorificarea Activelor Statului a unor creanţe bancare neperformante asupra Societăţii Comerciale "SIDERCA" - S.A. Călăraşi | [`lege/2004/439/`](lege/2004/439/) | amending act | 1 | 2004-11-05 | 2004-11-05 |
 | Legea nr. 443/2004 pentru modificarea şi completarea Legii nr. 58/1998 privind activitatea bancară | [`lege/2004/443/`](lege/2004/443/) | amending act | 1 | 2004-11-12 | 2004-11-12 |
 | Legea nr. 444/2004 pentru aprobarea Ordonanţei Guvernului nr. 92/2004 cu privire la rectificarea bugetului asigurărilor sociale de stat pe anul 2004 | [`lege/2004/444/`](lege/2004/444/) | amending act | 1 | 2004-11-12 | 2004-11-12 |
 | Legea nr. 446/2004 pentru ratificarea Acordului dintre Guvernul României şi Cabinetul de Miniştri al Ucrainei privind colaborarea în domeniul transportului feroviar, semnat la Kiev la 21 octombrie 2003 | [`lege/2004/446/`](lege/2004/446/) | in force | 1 | 2004-11-13 | 2004-11-13 |
@@ -602,6 +612,7 @@
 | Legea nr. 529/2004 pentru aprobarea Ordonanţei Guvernului nr. 89/2004 privind unele măsuri pentru constituirea şi utilizarea eficientă a veniturilor cu destinaţie specială în sectorul energetic | [`lege/2004/529/`](lege/2004/529/) | amending act | 1 | 2004-12-09 | 2004-12-09 |
 | Legea nr. 530/2004 pentru completarea art. 2 din Ordonanţa de urgenţă a Guvernului nr. 142/2000 privind înfiinţarea, organizarea şi funcţionarea Agenţiei SAPARD pentru implementarea tehnică şi financiară a Instrumentului special de preaderare pentru agricultură şi dezvoltare rurală | [`lege/2004/530/`](lege/2004/530/) | amending act | 1 | 2004-12-09 | 2004-12-09 |
 | Legea nr. 531/2004 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 76/2004 pentru ratificarea Protocolului adiţional la Scrisoarea de înţelegere privind controlul drogurilor şi aplicarea legii, semnată la Bucureşti la 3 iulie 2001 între Guvernul României şi Guvernul Statelor Unite ale Americii, semnat la Bucureşti la 17 septembrie 2004 | [`lege/2004/531/`](lege/2004/531/) | amending act | 1 | 2004-12-04 | 2004-12-04 |
+| Legea nr. 532/2004 pentru ratificarea Memorandumului de înţelegere dintre Guvernul României şi Guvernul Regatului Danemarcei privind cooperarea pentru implementarea Protocolului de la Kyoto la Convenţia-cadru a Naţiunilor Unite asupra schimbărilor climatice (UNFCCC), semnat la Copenhaga la 28 ianuarie 2003, şi a Acordului dintre Ministerul Apelor şi Protecţiei Mediului din România şi Ministerul Mediului din Regatul Danemarcei privind proiectul de tip implementare în comun "Rumeguş 2000", semnat la Bucureşti la 7 martie 2003 | [`lege/2004/532/`](lege/2004/532/) | in force | 1 | 2004-12-05 | 2004-12-05 |
 | Legea nr. 533/2004 pentru modificarea şi completarea Ordonanţei Guvernului nr. 51/1997 privind operaţiunile de leasing şi societăţile de leasing | [`lege/2004/533/`](lege/2004/533/) | amending act | 1 | 2004-12-04 | 2004-12-04 |
 | Legea nr. 535/2004 | [`lege/2004/535/`](lege/2004/535/) | in force | 7 | 2004-12-11 | 2025-11-28 |
 | Legea nr. 536/2004 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 62/2004 privind regimul de organizare şi funcţionare a parcurilor turistice | [`lege/2004/536/`](lege/2004/536/) | amending act | 1 | 2004-12-05 | 2004-12-05 |
@@ -3894,7 +3905,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1753, of which 620 amending acts)
+## Emergency ordinances (OUG) (1754, of which 620 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4139,6 +4150,7 @@
 | Ordonanța de urgență a Guvernului nr. 73/2004 | [`oug/2004/73/`](oug/2004/73/) | in force | 2 | 2004-10-07 | 2014-02-01 |
 | Ordonanța de urgență a Guvernului nr. 75/2004 | [`oug/2004/75/`](oug/2004/75/) | in force | 2 | 2004-10-12 | 2004-11-11 |
 | Ordonanța de urgență a Guvernului nr. 78/2004 | [`oug/2004/78/`](oug/2004/78/) | in force | 2 | 2004-10-21 | 2016-06-30 |
+| Ordonanța de urgență a Guvernului nr. 86/2004 privind unele măsuri financiare în domeniul sănătăţii | [`oug/2004/86/`](oug/2004/86/) | in force | 1 | 2004-11-02 | 2004-11-02 |
 | Ordonanța de urgență a Guvernului nr. 90/2004 privind unele măsuri pentru pregătirea, în vederea privatizării, unor societăţi comerciale producătoare de aparatură şi instrumente medicale | [`oug/2004/90/`](oug/2004/90/) | in force | 1 | 2004-11-11 | 2004-11-11 |
 | Ordonanța de urgență a Guvernului nr. 91/2004 pentru aprobarea unor măsuri financiare privind reglementarea unor obligaţii de plată ale societăţilor comerciale desprinse din Societatea Comercială de Producere a Energiei Electrice şi Termice "Termoelectrica" - S.A. în urma procesului de restructurare | [`oug/2004/91/`](oug/2004/91/) | amending act | 1 | 2004-11-16 | 2004-11-16 |
 | Ordonanța de urgență a Guvernului nr. 92/2004 | [`oug/2004/92/`](oug/2004/92/) | in force | 2 | 2004-11-23 | 2005-04-21 |
@@ -6188,7 +6200,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (20776, of which 10659 amending acts)
+## Government decisions (HG) (20786, of which 10659 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6673,6 +6685,16 @@
 | Hotărârea Guvernului nr. 1767/2004 privind modul de organizare şi funcţionare a serviciilor publice comunitare regim permise de conducere şi înmatriculare a vehiculelor | [`hg/2004/1767/`](hg/2004/1767/) | in force | 2 | 2004-11-12 | 2011-06-30 |
 | Hotărârea Guvernului nr. 1769/2004 | [`hg/2004/1769/`](hg/2004/1769/) | in force | 1 | 2004-11-08 | 2004-11-08 |
 | Hotărârea Guvernului nr. 1777/2004 | [`hg/2004/1777/`](hg/2004/1777/) | in force | 6 | 2004-12-08 | 2012-01-12 |
+| Hotărârea Guvernului nr. 1780/2004 privind suplimentarea bugetului Ministerului Culturii şi Cultelor pe anul 2004, din Fondul de rezervă bugetară la dispoziţia Guvernului, pentru Catedrala Ortodoxă Română "Sfânta Treime" din municipiul Baia Mare, judeţul Maramureş | [`hg/2004/1780/`](hg/2004/1780/) | in force | 1 | 2004-10-28 | 2004-10-28 |
+| Hotărârea Guvernului nr. 1781/2004 privind constatarea suspendării de drept din funcţie a unor prefecţi | [`hg/2004/1781/`](hg/2004/1781/) | in force | 1 | 2004-10-30 | 2004-10-30 |
+| Hotărârea Guvernului nr. 1782/2004 privind eliberarea domnului Băeşu George, la cerere, din funcţia de prefect al judeţului Vrancea | [`hg/2004/1782/`](hg/2004/1782/) | in force | 1 | 2004-10-30 | 2004-10-30 |
+| Hotărârea Guvernului nr. 1783/2004 privind eliberarea domnului Tămagă Constantin, la cerere, din funcţia de prefect al judeţului Argeş | [`hg/2004/1783/`](hg/2004/1783/) | in force | 1 | 2004-10-30 | 2004-10-30 |
+| Hotărârea Guvernului nr. 1784/2004 privind desemnarea unor prefecţi interimari | [`hg/2004/1784/`](hg/2004/1784/) | in force | 1 | 2004-10-30 | 2004-10-30 |
+| Hotărârea Guvernului nr. 1785/2004 privind numirea domnului Vrabie Cătălin în funcţia de prefect al judeţului Vrancea | [`hg/2004/1785/`](hg/2004/1785/) | in force | 1 | 2004-10-30 | 2004-10-30 |
+| Hotărârea Guvernului nr. 1786/2004 privind numirea domnului Teodorescu Cătălin Florin în funcţia de prefect al judeţul Argeş | [`hg/2004/1786/`](hg/2004/1786/) | in force | 1 | 2004-10-30 | 2004-10-30 |
+| Hotărârea Guvernului nr. 1788/2004 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2004, pentru judeţul Suceava | [`hg/2004/1788/`](hg/2004/1788/) | in force | 1 | 2004-10-29 | 2004-10-29 |
+| Hotărârea Guvernului nr. 1789/2004 privind acordarea unui ajutor | [`hg/2004/1789/`](hg/2004/1789/) | in force | 1 | 2004-10-29 | 2004-10-29 |
+| Hotărârea Guvernului nr. 1790/2004 privind stabilirea modelelor proceselor-verbale şi ale altor formulare necesare constatării rezultatelor pentru alegerea Camerei Deputaţilor, a Senatului şi a Preşedintelui României, din anul 2004 | [`hg/2004/1790/`](hg/2004/1790/) | in force | 1 | 2004-11-03 | 2004-11-03 |
 | Hotărârea Guvernului nr. 1791/2004 pentru modificarea anexei nr. 6 la Hotărârea Guvernului nr. 1.613/2004 privind modelul ştampilelor care vor fi folosite la Biroul Electoral Central, birourile electorale de circumscripţie şi oficiile electorale, modelul copiei de pe lista electorală permanentă, modelul listei electorale speciale, al listei susţinătorilor, precum şi modelul listei membrilor organizaţiei cetăţenilor aparţinând minorităţilor naţionale, care vor fi folosite pentru alegerea Camerei Deputaţilor, a Senatului şi a Preşedintelui României în anul 2004 | [`hg/2004/1791/`](hg/2004/1791/) | amending act | 1 | 2004-11-02 | 2004-11-02 |
 | Hotărârea Guvernului nr. 1792/2004 privind suplimentarea bugetului Ministerului Culturii şi Cultelor pe anul 2004 din Fondul de rezervă bugetară la dispoziţia Guvernului, pentru Mănăstirea "Acoperământul Maicii Domnului", comuna Adâncata, judeţul Suceava | [`hg/2004/1792/`](hg/2004/1792/) | in force | 1 | 2004-10-30 | 2004-10-30 |
 | Hotărârea Guvernului nr. 1793/2004 privind alocarea unor sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru finanţarea unor obiective de investiţii | [`hg/2004/1793/`](hg/2004/1793/) | in force | 1 | 2004-11-01 | 2004-11-01 |
