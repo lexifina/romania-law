@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38418 acts, 52,171 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38436 acts, 52,189 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8062, of which 2896 amending acts)
+## Laws (legi) (8067, of which 2901 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1087,8 +1087,13 @@
 | Legea nr. 621/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 75/2000 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 24/1998 privind regimul zonelor defavorizate, republicată | [`lege/2001/621/`](lege/2001/621/) | amended, not consolidated | 1 | 2001-11-19 | 2001-11-19 |
 | Legea nr. 623/2001 privind aprobarea Ordonanţei Guvernului nr. 17/2001 pentru ratificarea Memorandumului de finanţare convenit între Guvernul României şi Comisia Europeană privind asistenţa financiară nerambursabilă acordată prin Instrumentul pentru Politici Structurale de Preaderare pentru măsura "Reabilitarea şi extinderea reţelei de canalizare şi construirea unei staţii de epurare a apelor uzate în municipiul Brăila, România", semnat la Bruxelles la 15 februarie 2001 şi la Bucureşti la 1 iunie 2001 | [`lege/2001/623/`](lege/2001/623/) | amended, not consolidated | 1 | 2001-11-19 | 2001-11-19 |
 | Legea nr. 624/2001 pentru aprobarea Ordonanţei Guvernului nr. 45/2000 privind unele măsuri pentru combaterea producerii şi comercializării neautorizate a fonogramelor | [`lege/2001/624/`](lege/2001/624/) | amended, not consolidated | 1 | 2001-11-15 | 2001-11-15 |
+| Legea nr. 628/2001 privind aprobarea Ordonanţei Guvernului nr. 120/2000 pentru modificarea şi completarea Legii nr. 129/1998 privind înfiinţarea, organizarea şi funcţionarea Fondului Român de Dezvoltare Socială | [`lege/2001/628/`](lege/2001/628/) | amending act | 1 | 2001-11-13 | 2001-11-13 |
 | Legea nr. 629/2001 pentru aprobarea Ordonanţei Guvernului nr. 124/1998 privind organizarea şi funcţionarea cabinetelor medicale | [`lege/2001/629/`](lege/2001/629/) | amended, not consolidated | 1 | 2001-11-13 | 2001-11-13 |
+| Legea nr. 630/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 218/2000 pentru completarea pct. V al art. 17 din Legea nr. 40/1990 privind organizarea şi funcţionarea Ministerului de Interne | [`lege/2001/630/`](lege/2001/630/) | amending act | 1 | 2001-11-27 | 2001-11-27 |
 | Legea nr. 631/2001 pentru aprobarea Ordonanţei Guvernului nr. 107/1999 privind activitatea de comercializare a pachetelor de servicii turistice | [`lege/2001/631/`](lege/2001/631/) | amended, not consolidated | 1 | 2001-11-27 | 2001-11-27 |
+| Legea nr. 632/2001 pentru respingerea Ordonanţei Guvernului nr. 36/1999 privind sprijinul acordat de stat producătorilor agricoli pentru achiziţionarea, din producţia internă, de tractoare, combine, maşini şi utilaje agricole, instalaţii pentru irigat, animale de prasilă, precum şi pentru construirea şi amenajarea de spaţii pentru cazarea şi creşterea animalelor, sere, solarii, înfiinţări de plantaţii viticole nobile, pomicole, arbuşti fructiferi | [`lege/2001/632/`](lege/2001/632/) | amending act | 1 | 2001-11-23 | 2001-11-23 |
+| Legea nr. 633/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 73/2001 privind scutirea temporară de la plata taxelor vamale a unor bunuri provenite din import | [`lege/2001/633/`](lege/2001/633/) | amending act | 1 | 2001-11-23 | 2001-11-23 |
+| Legea nr. 634/2001 pentru aprobarea Ordonanţei Guvernului nr. 91/1998 privind acoperirea şi restituirea diferenţelor de curs valutar pentru sumele în valută depuse de cetăţenii români în contul Băncii Române de Comerţ Exterior - S.A., potrivit legislaţiei în vigoare, până la data de 31 decembrie 1989 | [`lege/2001/634/`](lege/2001/634/) | amending act | 1 | 2001-11-23 | 2001-11-23 |
 | Legea nr. 635/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 95/2001 privind constituirea şi utilizarea Fondului România | [`lege/2001/635/`](lege/2001/635/) | amended, not consolidated | 1 | 2001-11-23 | 2001-11-23 |
 | Legea nr. 636/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 103/2001 pentru completarea art. 1 din Ordonanţa de urgenţă a Guvernului nr. 73/2001 privind scutirea temporară de la plata taxelor vamale a unor bunuri provenite din import | [`lege/2001/636/`](lege/2001/636/) | amending act | 1 | 2001-11-29 | 2001-11-29 |
 | Legea nr. 637/2001 pentru ratificarea Protocolului dintre Guvernul României şi Guvernul Republicii Bulgaria privind rezolvarea definitivă a drepturilor financiare reciproce dintre România şi Republica Bulgaria, semnat la Bucureşti la 27 martie 2000 | [`lege/2001/637/`](lege/2001/637/) | in force | 1 | 2001-11-29 | 2001-11-29 |
@@ -8100,7 +8105,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (2866, of which 659 amending acts)
+## Emergency ordinances (OUG) (2867, of which 660 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8474,6 +8479,7 @@
 | Ordonanța de urgență a Guvernului nr. 144/2001 | [`oug/2001/144/`](oug/2001/144/) | in force | 7 | 2001-12-01 | 2006-04-14 |
 | Ordonanța de urgență a Guvernului nr. 146/2001 pentru completarea Ordonanţei Guvernului nr. 21/1992 privind protecţia consumatorilor | [`oug/2001/146/`](oug/2001/146/) | amended, not consolidated | 1 | 2001-11-29 | 2001-11-29 |
 | Ordonanța de urgență a Guvernului nr. 149/2001 | [`oug/2001/149/`](oug/2001/149/) | repealed 2011-12-11 | 3 | 2001-11-21 | 2011-12-11 |
+| Ordonanța de urgență a Guvernului nr. 150/2001 pentru aprobarea Amendamentului convenit prin scrisoarea semnată la 10 august 2001 la Luxemburg şi la 10 septembrie 2001 la Bucureşti şi modificarea Ordonanţei Guvernului nr. 97/2000 pentru ratificarea Contractului de finanţare dintre România şi Banca Europeană de Investiţii în vederea finanţării Proiectului de reconstrucţie pentru eliminarea efectelor inundaţiilor, semnat la Luxemburg la 4 august 2000 şi la Bucureşti la 9 august 2000 | [`oug/2001/150/`](oug/2001/150/) | amending act | 1 | 2001-12-12 | 2001-12-12 |
 | Ordonanța de urgență a Guvernului nr. 152/2001 privind unele măsuri pentru redresarea economico-financiară a Societăţii Comerciale de Producere a Energiei Electrice şi Termice "Termoelectrica" - S.A | [`oug/2001/152/`](oug/2001/152/) | amended, not consolidated | 1 | 2001-11-28 | 2001-11-28 |
 | Ordonanța de urgență a Guvernului nr. 154/2001 pentru modificarea şi completarea Legii nr. 1/1998 privind organizarea şi funcţionarea Serviciului de Informaţii Externe | [`oug/2001/154/`](oug/2001/154/) | amended, not consolidated | 1 | 2001-11-29 | 2001-11-29 |
 | Ordonanța de urgență a Guvernului nr. 155/2001 | [`oug/2001/155/`](oug/2001/155/) | in force | 7 | 2001-12-13 | 2023-12-11 |
@@ -11958,7 +11964,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26426, of which 12356 amending acts)
+## Government decisions (HG) (26438, of which 12362 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13085,8 +13091,20 @@
 | Hotărârea Guvernului nr. 1114/2001 | [`hg/2001/1114/`](hg/2001/1114/) | in force | 2 | 2001-11-19 | 2003-04-03 |
 | Hotărârea Guvernului nr. 1116/2001 privind aprobarea structurii, indicatorilor şi fondurilor aferente programelor care se experimentează şi se finanţează din bugetul Ministerului Dezvoltării şi Prognozei în anul 2001 | [`hg/2001/1116/`](hg/2001/1116/) | amended, not consolidated | 1 | 2001-11-29 | 2001-11-29 |
 | Hotărârea Guvernului nr. 1124/2001 privind normarea parcului auto şi a consumului de carburanţi pentru activităţi specifice desfăşurate în unele unităţi din subordinea Ministerului Sănătăţii şi Familiei | [`hg/2001/1124/`](hg/2001/1124/) | amended, not consolidated | 1 | 2001-11-22 | 2001-11-22 |
+| Hotărârea Guvernului nr. 1125/2001 pentru aprobarea plăţii sumelor datorate Comunităţii Europene | [`hg/2001/1125/`](hg/2001/1125/) | amending act | 1 | 2001-11-22 | 2001-11-22 |
+| Hotărârea Guvernului nr. 1126/2001 privind organizarea în România a celei de-a 4-a Reuniuni a Comitetului de Coordonare a procesului Reuniunilor Miniştrilor Apărării din Sud-Estul Europei (SEDM-CC) | [`hg/2001/1126/`](hg/2001/1126/) | in force | 1 | 2001-11-22 | 2001-11-22 |
+| Hotărârea Guvernului nr. 1127/2001 privind aprobarea cheltuielilor ocazionate de organizarea la Vatican, în luna decembrie 2001, a ceremoniei pentru oferirea de către România a Bradului monumental de Crăciun | [`hg/2001/1127/`](hg/2001/1127/) | amending act | 1 | 2001-11-21 | 2001-11-21 |
+| Hotărârea Guvernului nr. 1131/2001 pentru modificarea art. 13 alin. (1) din Normele metodologice de aplicare a prevederilor Ordonanţei de urgenţă a Guvernului nr. 30/2001 privind acordarea în anul 2001 a unui sprijin direct de un milion lei producătorilor agricoli pentru fiecare hectar de teren cultivat, cu finanţare de la bugetul de stat, aprobate prin Hotărârea Guvernului nr. 278/2001 | [`hg/2001/1131/`](hg/2001/1131/) | amending act | 1 | 2001-11-21 | 2001-11-21 |
+| Hotărârea Guvernului nr. 1132/2001 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului | [`hg/2001/1132/`](hg/2001/1132/) | in force | 1 | 2001-11-21 | 2001-11-21 |
 | Hotărârea Guvernului nr. 1133/2001 privind aprobarea Strategiei de privatizare a Societăţii Comerciale "Alro" - S.A. Slatina | [`hg/2001/1133/`](hg/2001/1133/) | amended, not consolidated | 1 | 2001-11-21 | 2001-11-21 |
+| Hotărârea Guvernului nr. 1135/2001 pentru modificarea anexelor nr. 1 şi 2 la Hotărârea Guvernului nr. 787/2001 privind aprobarea Programului de acţiuni şi lucrări finanţate din bugetul de stat, în domeniul aviaţiei civile, pentru anul 2001 | [`hg/2001/1135/`](hg/2001/1135/) | amending act | 1 | 2001-11-30 | 2001-11-30 |
 | Hotărârea Guvernului nr. 1136/2001 privind normarea parcului auto şi a consumului de carburanţi la Ministerul Afacerilor Externe | [`hg/2001/1136/`](hg/2001/1136/) | amended, not consolidated | 1 | 2001-11-28 | 2001-11-28 |
+| Hotărârea Guvernului nr. 1137/2001 pentru modificarea Hotărârii Guvernului nr. 1.278/1996 privind aprobarea propunerii de concesionare şi a caietului de sarcini pentru un teren situat în municipiul Bucureşti | [`hg/2001/1137/`](hg/2001/1137/) | amending act | 1 | 2001-12-04 | 2001-12-04 |
+| Hotărârea Guvernului nr. 1138/2001 pentru aprobarea Schemei de microcredite în vederea administrării sumelor alocate Ministerului Muncii şi Solidarităţii Sociale pentru acordarea de microcredite persoanelor fizice | [`hg/2001/1138/`](hg/2001/1138/) | amending act | 1 | 2001-12-07 | 2001-12-07 |
+| Hotărârea Guvernului nr. 1139/2001 privind acordarea unor ajutoare de urgenta | [`hg/2001/1139/`](hg/2001/1139/) | in force | 1 | 2001-11-26 | 2001-11-26 |
+| Hotărârea Guvernului nr. 1140/2001 privind acordarea unor ajutoare de urgenta | [`hg/2001/1140/`](hg/2001/1140/) | in force | 1 | 2001-11-26 | 2001-11-26 |
+| Hotărârea Guvernului nr. 1141/2001 privind acordarea unor ajutoare financiare | [`hg/2001/1141/`](hg/2001/1141/) | in force | 1 | 2001-11-26 | 2001-11-26 |
+| Hotărârea Guvernului nr. 1142/2001 privind acordarea unor înlesniri la plata creanţelor bugetare, administrate de Ministerul Finanţelor Publice, Ministerul Muncii şi Solidarităţii Sociale sau alte autorităţi ale administraţiei publice centrale şi locale, Societăţii Comerciale "Hidromecanica" - S.A. Braşov | [`hg/2001/1142/`](hg/2001/1142/) | in force | 1 | 2001-11-26 | 2001-11-26 |
 | Hotărârea Guvernului nr. 1143/2001 privind eliberarea domnului Rus Grigore din funcţia de prefect al judeţului Bistriţa-Năsăud | [`hg/2001/1143/`](hg/2001/1143/) | in force | 1 | 2001-11-22 | 2001-11-22 |
 | Hotărârea Guvernului nr. 1144/2001 privind transmiterea unui imobil proprietate publică a statului în administrarea Consiliului Local al Sectorului 3 al Municipiului Bucureşti | [`hg/2001/1144/`](hg/2001/1144/) | in force | 1 | 2001-12-04 | 2001-12-04 |
 | Hotărârea Guvernului nr. 1146/2001 privind acordarea unor ajutoare de urgenta | [`hg/2001/1146/`](hg/2001/1146/) | in force | 1 | 2001-12-04 | 2001-12-04 |
