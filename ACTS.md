@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38674 acts, 52,427 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38695 acts, 52,448 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8156, of which 2975 amending acts)
+## Laws (legi) (8157, of which 2976 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1044,6 +1044,7 @@
 | Legea nr. 464/2001 pentru modificarea şi completarea Legii nr. 126/1995 privind regimul materiilor explozive | [`lege/2001/464/`](lege/2001/464/) | amended, not consolidated | 1 | 2001-07-30 | 2001-07-30 |
 | Legea nr. 465/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 16/2001 privind gestionarea deşeurilor industriale reciclabile | [`lege/2001/465/`](lege/2001/465/) | amended, not consolidated | 1 | 2001-07-30 | 2001-07-30 |
 | Legea nr. 466/2001 | [`lege/2001/466/`](lege/2001/466/) | in force | 1 | 2001-07-31 | 2001-07-31 |
+| Legea nr. 469/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 109/2001 pentru prelungirea unor termene prevăzute de Legea nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945 - 22 decembrie 1989 | [`lege/2001/469/`](lege/2001/469/) | amending act | 1 | 2001-09-03 | 2001-09-03 |
 | Legea nr. 470/2001 pentru ratificarea Protocolului facultativ la Convenţia cu privire la drepturile copilului, referitor la vânzarea de copii, prostituţia copiilor şi pornografia infantila, semnat la New York la 6 septembrie 2000*) | [`lege/2001/470/`](lege/2001/470/) | in force | 1 | 2001-09-25 | 2001-09-25 |
 | Legea nr. 471/2001 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 122/2000 pentru modificarea şi completarea Ordonanţei Guvernului nr. 118/1999 privind achiziţiile publice | [`lege/2001/471/`](lege/2001/471/) | amending act | 1 | 2001-09-26 | 2001-09-26 |
 | Legea nr. 472/2001 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 48/2001 pentru suspendarea aplicării Ordonanţei Guvernului nr. 118/1999 privind achiziţiile publice | [`lege/2001/472/`](lege/2001/472/) | amending act | 1 | 2001-09-26 | 2001-09-26 |
@@ -8194,7 +8195,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (2871, of which 661 amending acts)
+## Emergency ordinances (OUG) (2872, of which 661 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8554,6 +8555,7 @@
 | Ordonanța de urgență a Guvernului nr. 111/2001 pentru ratificarea Acordului de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Bucureşti la 6 iulie 2001 | [`oug/2001/111/`](oug/2001/111/) | amended, not consolidated | 1 | 2001-08-28 | 2001-08-28 |
 | Ordonanța de urgență a Guvernului nr. 112/2001 | [`oug/2001/112/`](oug/2001/112/) | in force | 2 | 2001-09-03 | 2002-05-09 |
 | Ordonanța de urgență a Guvernului nr. 113/2001 pentru modificarea alin. 1 al art. 7 din Legea Curţii Supreme de Justiţie nr. 56/1993 | [`oug/2001/113/`](oug/2001/113/) | amended, not consolidated | 1 | 2001-09-07 | 2001-09-07 |
+| Ordonanța de urgență a Guvernului nr. 114/2001 pentru scutirea de la plata drepturilor de import şi a comisionului vamal a unor bunuri din import necesare în vederea modernizării Complexului Sportiv Dinamo Bucureşti | [`oug/2001/114/`](oug/2001/114/) | in force | 1 | 2001-09-14 | 2001-09-14 |
 | Ordonanța de urgență a Guvernului nr. 115/2001 privind reglementarea unor măsuri de asigurare a fondurilor necesare în vederea furnizarii energiei termice și a gazelor naturale pentru populație | [`oug/2001/115/`](oug/2001/115/) | in force | 6 | 2001-09-28 | 2003-12-18 |
 | Ordonanța de urgență a Guvernului nr. 117/2001 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2000 privind regimul produselor supuse accizelor şi instituirea unor măsuri pentru diminuarea fenomenelor de frauda şi evaziune fiscală în domeniul alcoolului şi al băuturilor alcoolice | [`oug/2001/117/`](oug/2001/117/) | amended, not consolidated | 1 | 2001-10-08 | 2001-10-08 |
 | Ordonanța de urgență a Guvernului nr. 118/2001 pentru modificarea art. 6 din Legea nr. 78/1995 privind protecţia personalului şi a patrimoniului din sectorul producţiei de apărare | [`oug/2001/118/`](oug/2001/118/) | amended, not consolidated | 1 | 2001-09-28 | 2001-09-28 |
@@ -11070,7 +11072,7 @@
 | Ordonanța de urgență a Guvernului nr. 37/2026 pentru modificarea şi completarea Legii nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor şi protecţia persoanelor | [`oug/2026/37/`](oug/2026/37/) | amending act | 2 | 2026-05-06 | 2026-06-05 |
 | Ordonanța de urgență a Guvernului nr. 39/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 58/2023 privind unele măsuri pentru acordarea unei prime de carieră didactică pentru personalul didactic şi didactic auxiliar, precum şi unei prime de carieră profesională pentru personalul administrativ din învăţământul de stat, suportate din fonduri externe nerambursabile, precum şi pentru instituirea unor reglementări în vederea gestionării Programului Educaţie şi Ocupare 2021-2027 | [`oug/2026/39/`](oug/2026/39/) | amended, not consolidated | 1 | 2026-05-06 | 2026-05-06 |
 
-## Ordinances (OG) (982, of which 115 amending acts)
+## Ordinances (OG) (984, of which 115 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -11411,12 +11413,14 @@
 | Ordonanța Guvernului nr. 63/2001 | [`og/2001/63/`](og/2001/63/) | in force | 13 | 2001-10-01 | 2021-07-23 |
 | Ordonanța Guvernului nr. 64/2001 | [`og/2001/64/`](og/2001/64/) | in force | 15 | 2001-09-01 | 2024-03-29 |
 | Ordonanța Guvernului nr. 65/2001 | [`og/2001/65/`](og/2001/65/) | in force | 4 | 2001-09-01 | 2006-12-07 |
+| Ordonanța Guvernului nr. 66/2001 pentru ratificarea amendamentelor convenite prin schimb de scrisori semnate la Bucureşti la 8 iunie 2001 şi la Washington la 19 iunie 2001 între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare la Acordul dintre Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, acţionând în numele Agenţiei de Implementare a Facilităţii Globale de Mediu, realizat prin Scrisoarea semnată la Washington la 9 februarie 2000 şi la Bucureşti la 23 februarie 2000 | [`og/2001/66/`](og/2001/66/) | in force | 1 | 2001-09-01 | 2001-09-01 |
 | Ordonanța Guvernului nr. 69/2001 privind ratificarea Protocolului din 3 iunie 1999 pentru modificarea Convenției privind transporturile internaționale feroviare (COTIF), semnată la Berna la 9 mai 1980 (Protocolul 1999), semnat la Vilnius la 3 iunie 1999 | [`og/2001/69/`](og/2001/69/) | amending act | 1 | 2001-09-01 | 2001-09-01 |
 | Ordonanța Guvernului nr. 72/2001 pentru modificarea şi completarea Ordonanţei Guvernului nr. 119/1999 privind auditul intern şi controlul financiar preventiv | [`og/2001/72/`](og/2001/72/) | amended, not consolidated | 1 | 2001-09-01 | 2001-09-01 |
 | Ordonanța Guvernului nr. 73/2001 pentru modificarea şi completarea Ordonanţei Guvernului nr. 26/1998 privind regimul de confecţionare a plăcilor cu numere de înmatriculare pentru vehicule rutiere | [`og/2001/73/`](og/2001/73/) | amended, not consolidated | 1 | 2001-09-01 | 2001-09-01 |
 | Ordonanța Guvernului nr. 74/2001 privind abilitarea Ministerului de Interne de a angaja şi presta servicii | [`og/2001/74/`](og/2001/74/) | amended, not consolidated | 1 | 2001-09-01 | 2001-09-01 |
 | Ordonanța Guvernului nr. 75/2001 | [`og/2001/75/`](og/2001/75/) | in force | 12 | 2002-01-01 | 2012-07-09 |
 | Ordonanța Guvernului nr. 76/2001 pentru modificarea şi completarea Ordonanţei Guvernului nr. 19/1994 privind stimularea investiţiilor pentru realizarea unor lucrări publice şi construcţii de locuinţe | [`og/2001/76/`](og/2001/76/) | amended, not consolidated | 1 | 2001-09-01 | 2001-09-01 |
+| Ordonanța Guvernului nr. 77/2001 privind reabilitarea şi revitalizarea Centrului istoric Bucureşti | [`og/2001/77/`](og/2001/77/) | in force | 1 | 2001-09-01 | 2001-09-01 |
 | Ordonanța Guvernului nr. 78/2001 pentru modificarea Legii nr. 199/2000 privind utilizarea eficientă a energiei | [`og/2001/78/`](og/2001/78/) | amending act | 2 | 2001-09-01 | 2002-03-21 |
 | Ordonanța Guvernului nr. 80/2001 | [`og/2001/80/`](og/2001/80/) | in force | 28 | 2001-09-01 | 2024-09-06 |
 | Ordonanța Guvernului nr. 82/2001 | [`og/2001/82/`](og/2001/82/) | in force | 8 | 2002-01-01 | 2024-06-29 |
@@ -12057,7 +12061,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26583, of which 12428 amending acts)
+## Government decisions (HG) (26600, of which 12436 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13147,8 +13151,25 @@
 | Hotărârea Guvernului nr. 767/2001 | [`hg/2001/767/`](hg/2001/767/) | in force | 1 | 2001-09-02 | 2001-09-02 |
 | Hotărârea Guvernului nr. 776/2001 privind acordarea cetăţeniei române unor persoane | [`hg/2001/776/`](hg/2001/776/) | amended, not consolidated | 1 | 2001-08-27 | 2001-08-27 |
 | Hotărârea Guvernului nr. 806/2001 privind aprobarea Normelor de cheltuieli pentru realizarea programelor Ministerului Tineretului şi Sportului în domeniul activităţii de tineret | [`hg/2001/806/`](hg/2001/806/) | amended, not consolidated | 1 | 2001-08-31 | 2001-08-31 |
+| Hotărârea Guvernului nr. 850/2001 pentru aprobarea Memorandumului de înţelegere privind cooperarea dintre Ministerul Muncii şi Solidarităţii Sociale din România şi Ministerul Afacerilor Sociale şi Ocupării din Olanda, semnat la Geneva la 13 iunie 2001 | [`hg/2001/850/`](hg/2001/850/) | amending act | 1 | 2001-09-07 | 2001-09-07 |
+| Hotărârea Guvernului nr. 851/2001 pentru aprobarea Acordului privind stabilirea unui comitet de coordonare în cadrul procesului reuniunilor miniştrilor apărării din Europa de Sud-Est, semnat la Salonic la 9 octombrie 2000 | [`hg/2001/851/`](hg/2001/851/) | amending act | 1 | 2001-09-07 | 2001-09-07 |
+| Hotărârea Guvernului nr. 852/2001 privind transmiterea fără plata a unui imobil, proprietate publică a statului, situat în comuna Mihai Bravu, judeţul Giurgiu, din administrarea Ministerului Apărării Naţionale în administrarea Ministerului Finanţelor Publice | [`hg/2001/852/`](hg/2001/852/) | in force | 1 | 2001-09-07 | 2001-09-07 |
+| Hotărârea Guvernului nr. 853/2001 pentru revocarea din funcţie a unui membru al Oficiului Naţional de Prevenire şi Combatere a Spălării Banilor | [`hg/2001/853/`](hg/2001/853/) | in force | 1 | 2001-09-05 | 2001-09-05 |
+| Hotărârea Guvernului nr. 855/2001 privind modificarea Hotărârii Guvernului nr. 525/1996 pentru aprobarea Regulamentului general de urbanism | [`hg/2001/855/`](hg/2001/855/) | amending act | 1 | 2001-09-14 | 2001-09-14 |
+| Hotărârea Guvernului nr. 856/2001 pentru aprobarea cheltuielilor ocazionate de organizarea la Bucureşti, în perioada 11-12 septembrie 2001, a Reuniunii subcomitetului CEFTA pentru comerţul cu produse agricole | [`hg/2001/856/`](hg/2001/856/) | amending act | 1 | 2001-09-07 | 2001-09-07 |
+| Hotărârea Guvernului nr. 857/2001 pentru aprobarea cheltuielilor ocazionate de organizarea la Bucureşti, în perioada 10-11 octombrie 2001, a Sesiunii anuale a Comitetului mixt al CEFTA | [`hg/2001/857/`](hg/2001/857/) | amending act | 1 | 2001-09-07 | 2001-09-07 |
+| Hotărârea Guvernului nr. 858/2001 privind acordarea unor înlesniri la plata unor obligaţii bugetare ale Societăţii Comerciale "CET Govora" - S.A | [`hg/2001/858/`](hg/2001/858/) | in force | 1 | 2001-09-14 | 2001-09-14 |
+| Hotărârea Guvernului nr. 859/2001 privind utilizarea Fondului Naţional pentru programul SAPARD şi constituirea Comitetului de Acreditare Naţionala SAPARD | [`hg/2001/859/`](hg/2001/859/) | in force | 1 | 2001-09-19 | 2001-09-19 |
+| Hotărârea Guvernului nr. 860/2001 privind trecerea unor terenuri în administrarea Direcţiei Silvice Sibiu, judeţul Sibiu | [`hg/2001/860/`](hg/2001/860/) | in force | 1 | 2001-09-12 | 2001-09-12 |
+| Hotărârea Guvernului nr. 861/2001 pentru completarea Hotărârii Guvernului nr. 538/2000 privind garantarea unor credite externe pentru Ministerul Transporturilor, necesare pentru dotarea unităţilor sanitare din reţeaua sanitară proprie, care asigura asistenţa medicală şi psihologică a personalului din siguranţa circulaţiei şi a navigaţiei, cu aparatura medicală de înalta performanta şi pentru implementarea programelor de dotare la nivelul unităţilor sanitare din reţeaua sanitară a acestui minister | [`hg/2001/861/`](hg/2001/861/) | amending act | 1 | 2001-09-12 | 2001-09-12 |
+| Hotărârea Guvernului nr. 862/2001 privind reorganizarea Consiliului Interministerial pentru Ştiinţa, Tehnologie şi Inovare | [`hg/2001/862/`](hg/2001/862/) | in force | 1 | 2001-09-12 | 2001-09-12 |
 | Hotărârea Guvernului nr. 863/2001 | [`hg/2001/863/`](hg/2001/863/) | in force | 2 | 2001-09-17 | 2002-11-01 |
+| Hotărârea Guvernului nr. 864/2001 privind înfiinţarea unor filiale ale Societăţii Naţionale de Transport Feroviar de Marfă "C.F.R. Marfă" - S.A | [`hg/2001/864/`](hg/2001/864/) | in force | 1 | 2001-09-17 | 2001-09-17 |
+| Hotărârea Guvernului nr. 865/2001 privind comasarea prin absorbţie a instituţiei publice "Revista Muzeelor" de către Centrul pentru Formare, Educaţie Permanenta şi Management în Domeniul Culturii din Bucureşti | [`hg/2001/865/`](hg/2001/865/) | in force | 1 | 2001-09-12 | 2001-09-12 |
+| Hotărârea Guvernului nr. 867/2001 pentru modificarea Hotărârii Guvernului nr. 801/2001 privind alocarea unor sume din Fondul de rezerva bugetară la dispoziţia Guvernului pe anul 2001 pentru finanţarea de lucrări la unele obiective din judeţul Cluj | [`hg/2001/867/`](hg/2001/867/) | amending act | 1 | 2001-09-07 | 2001-09-07 |
+| Hotărârea Guvernului nr. 868/2001 pentru modificarea Hotărârii Guvernului nr. 479/1999 privind unele măsuri aplicate la importul de porci vii, carne de porc, carne de pasare şi preparate din carne de porc şi de pasare | [`hg/2001/868/`](hg/2001/868/) | amending act | 1 | 2001-09-14 | 2001-09-14 |
 | Hotărârea Guvernului nr. 869/2001 | [`hg/2001/869/`](hg/2001/869/) | in force | 9 | 2001-09-17 | 2013-08-07 |
+| Hotărârea Guvernului nr. 870/2001 privind organizarea Comitetului Naţional Român F.A.O | [`hg/2001/870/`](hg/2001/870/) | in force | 1 | 2001-09-14 | 2001-09-14 |
 | Hotărârea Guvernului nr. 871/2001 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2001 al Companiei Naţionale a Imprimeriilor "Coresi" - S.A., aflată sub autoritatea Ministerului Culturii şi Cultelor | [`hg/2001/871/`](hg/2001/871/) | amending act | 1 | 2001-09-14 | 2001-09-14 |
 | Hotărârea Guvernului nr. 872/2001 pentru aprobarea bugetului propriu de venituri şi cheltuieli pe anul 2001 al Oficiului Participaţiilor Statului şi Privatizării în Industrie | [`hg/2001/872/`](hg/2001/872/) | amending act | 1 | 2001-09-14 | 2001-09-14 |
 | Hotărârea Guvernului nr. 874/2001 pentru aprobarea Acordului privind cooperarea ştiinţifică şi tehnologică dintre Guvernul României şi Guvernul Republicii Slovenia, semnat la Bled la 12 mai 2000 | [`hg/2001/874/`](hg/2001/874/) | amending act | 1 | 2001-09-17 | 2001-09-17 |
