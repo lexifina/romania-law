@@ -1,6 +1,6 @@
 # Every act in this repository
 
-20844 acts, 34,477 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+20850 acts, 34,483 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -5584,7 +5584,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (15269, of which 7788 amending acts)
+## Government decisions (HG) (15275, of which 7792 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8818,6 +8818,12 @@
 | Hotărârea Guvernului nr. 1135/2011 | [`hg/2011/1135/`](hg/2011/1135/) | in force | 2 | 2012-01-01 | 2012-08-13 |
 | Hotărârea Guvernului nr. 1154/2011 | [`hg/2011/1154/`](hg/2011/1154/) | in force | 1 | 2011-11-30 | 2011-11-30 |
 | Hotărârea Guvernului nr. 1169/2011 | [`hg/2011/1169/`](hg/2011/1169/) | in force | 1 | 2011-12-12 | 2011-12-12 |
+| Hotărârea Guvernului nr. 1185/2011 privind transmiterea cu plată a unor bunuri, investiţii nefinalizate, din patrimoniul Societăţii Comerciale "Metrom" - S.A. Braşov, filială a Companiei Naţionale "Romarm" - S.A., aflată sub autoritatea Ministerului Economiei, Comerţului şi Mediului de Afaceri, în domeniul public al statului şi în administrarea Ministerului Apărării Naţionale | [`hg/2011/1185/`](hg/2011/1185/) | in force | 1 | 2011-12-29 | 2011-12-29 |
+| Hotărârea Guvernului nr. 1186/2011 privind modificarea valorii de inventar a unor imobile aflate în domeniul public al statului şi în administrarea Ministerului Administraţiei şi Internelor | [`hg/2011/1186/`](hg/2011/1186/) | amending act | 1 | 2011-12-08 | 2011-12-08 |
+| Hotărârea Guvernului nr. 1189/2011 pentru modificarea unor anexe la Hotărârea Guvernului nr. 562/2002 privind atestarea domeniului public al judeţului Galaţi, precum şi al municipiilor, oraşelor şi comunelor din judeţul Galaţi | [`hg/2011/1189/`](hg/2011/1189/) | amending act | 1 | 2012-01-18 | 2012-01-18 |
+| Hotărârea Guvernului nr. 1191/2011 pentru modificarea şi completarea unor anexe la Hotărârea Guvernului nr. 1.362/2001 privind atestarea domeniului public al judeţului Vâlcea, precum şi al municipiilor, oraşelor şi comunelor din judeţul Vâlcea | [`hg/2011/1191/`](hg/2011/1191/) | amending act | 1 | 2011-12-20 | 2011-12-20 |
+| Hotărârea Guvernului nr. 1193/2011 privind revenirea la Ministerul Sănătăţii a managementului asistenţei medicale pentru unele unităţi sanitare din judeţul Vrancea, precum şi pentru modificarea şi completarea unor acte normative | [`hg/2011/1193/`](hg/2011/1193/) | amending act | 1 | 2011-12-13 | 2011-12-13 |
+| Hotărârea Guvernului nr. 1194/2011 privind transmiterea unui imobil, trecut în domeniul public al statului ca urmare a operaţiunilor de dare în plată, în domeniul public al oraşului Pucioasa, judeţul Dâmboviţa, şi în administrarea Consiliului Local al Oraşului Pucioasa | [`hg/2011/1194/`](hg/2011/1194/) | in force | 1 | 2011-12-08 | 2011-12-08 |
 | Hotărârea Guvernului nr. 1196/2011 pentru modificarea şi completarea Hotărârii Guvernului nr. 891/2009 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată rămase de expropriat, situate pe amplasamentul lucrării de utilitate publică "Varianta de ocolire Cluj Est" | [`hg/2011/1196/`](hg/2011/1196/) | amending act | 1 | 2011-12-09 | 2011-12-09 |
 | Hotărârea Guvernului nr. 1198/2011 | [`hg/2011/1198/`](hg/2011/1198/) | in force | 1 | 2011-12-13 | 2011-12-13 |
 | Hotărârea Guvernului nr. 1200/2011 pentru aprobarea cuantumului plăţii naţionale directe complementare în sectorul zootehnic, pentru specia bovine, în anul 2011 | [`hg/2011/1200/`](hg/2011/1200/) | amending act | 1 | 2011-12-07 | 2011-12-07 |
