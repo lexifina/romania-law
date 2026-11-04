@@ -1,6 +1,6 @@
 # Every act in this repository
 
-23660 acts, 37,293 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+23688 acts, 37,321 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3616, of which 2080 amending acts)
+## Laws (legi) (3620, of which 2084 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -684,7 +684,11 @@
 | Legea nr. 384/2006 | [`lege/2006/384/`](lege/2006/384/) | in force | 14 | 2006-12-23 | 2024-03-24 |
 | Legea nr. 389/2006 | [`lege/2006/389/`](lege/2006/389/) | in force | 1 | 2006-10-30 | 2006-10-30 |
 | Legea nr. 391/2006 | [`lege/2006/391/`](lege/2006/391/) | in force | 1 | 2006-11-05 | 2006-11-05 |
+| Legea nr. 392/2006 pentru abrogarea unor acte normative | [`lege/2006/392/`](lege/2006/392/) | amending act | 1 | 2006-11-05 | 2006-11-05 |
 | Legea nr. 393/2006 | [`lege/2006/393/`](lege/2006/393/) | in force | 3 | 2007-02-18 | 2014-03-11 |
+| Legea nr. 394/2006 pentru completarea art. 3 din Legea nr. 32/1994 privind sponsorizarea | [`lege/2006/394/`](lege/2006/394/) | amending act | 1 | 2006-11-05 | 2006-11-05 |
+| Legea nr. 395/2006 pentru modificarea art. 4 din Ordonanţa de urgenţă a Guvernului nr. 86/2002 privind înfiinţarea Ghişeului unic în punctele de trecere a frontierei de stat a României | [`lege/2006/395/`](lege/2006/395/) | amending act | 1 | 2006-11-05 | 2006-11-05 |
+| Legea nr. 398/2006 pentru modificarea şi completarea Legii nr. 206/2004 privind buna conduită în cercetarea ştiinţifică, dezvoltarea tehnologică şi inovare | [`lege/2006/398/`](lege/2006/398/) | amending act | 1 | 2006-11-05 | 2006-11-05 |
 | Legea nr. 402/2006 | [`lege/2006/402/`](lege/2006/402/) | in force | 2 | 2007-01-01 | 2014-04-23 |
 | Legea nr. 407/2006 | [`lege/2006/407/`](lege/2006/407/) | in force | 19 | 2006-12-22 | 2025-11-17 |
 | Legea nr. 408/2006 pentru ratificarea Convenţiei dintre România şi Spania în domeniul securităţii sociale, semnată la Madrid la 24 ianuarie 2006 | [`lege/2006/408/`](lege/2006/408/) | in force | 1 | 2006-11-27 | 2006-11-27 |
@@ -5921,7 +5925,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (17748, of which 9194 amending acts)
+## Government decisions (HG) (17772, of which 9205 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6617,7 +6621,31 @@
 | Hotărârea Guvernului nr. 1425/2006 | [`hg/2006/1425/`](hg/2006/1425/) | in force | 1 | 2006-10-30 | 2006-10-30 |
 | Hotărârea Guvernului nr. 1460/2006 privind înființarea unor stațiuni de cercetare-dezvoltare agricolă în domeniul culturii plantelor de camp prin reorganizarea unor stațiuni de cercetare și producție agricolă în domeniul culturii plantelor de camp | [`hg/2006/1460/`](hg/2006/1460/) | in force | 3 | 2006-11-10 | 2019-10-09 |
 | Hotărârea Guvernului nr. 1470/2006 privind redobândirea cetățeniei române de către unele persoane | [`hg/2006/1470/`](hg/2006/1470/) | in force | 1 | 2006-11-15 | 2006-11-15 |
+| Hotărârea Guvernului nr. 1487/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru judeţul Giurgiu | [`hg/2006/1487/`](hg/2006/1487/) | in force | 1 | 2006-10-30 | 2006-10-30 |
+| Hotărârea Guvernului nr. 1488/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru judeţul Olt | [`hg/2006/1488/`](hg/2006/1488/) | in force | 1 | 2006-10-30 | 2006-10-30 |
+| Hotărârea Guvernului nr. 1489/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru judeţul Suceava | [`hg/2006/1489/`](hg/2006/1489/) | in force | 1 | 2006-10-30 | 2006-10-30 |
+| Hotărârea Guvernului nr. 1490/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru judeţul Sălaj | [`hg/2006/1490/`](hg/2006/1490/) | in force | 1 | 2006-10-30 | 2006-10-30 |
+| Hotărârea Guvernului nr. 1494/2006 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru înlăturarea efectelor alunecărilor de teren produse în judeţul Hunedoara | [`hg/2006/1494/`](hg/2006/1494/) | in force | 1 | 2006-10-30 | 2006-10-30 |
+| Hotărârea Guvernului nr. 1495/2006 privind aprobarea organizării la Bucureşti, în perioada 13-15 noiembrie 2006, a Seminarului regional cu tema "Cooperarea internaţională în combaterea terorismului şi lupta împotriva criminalităţii transnaţionale organizate", precum şi a cheltuielilor aferente acestuia | [`hg/2006/1495/`](hg/2006/1495/) | amending act | 1 | 2006-11-02 | 2006-11-02 |
+| Hotărârea Guvernului nr. 1497/2006 privind finanţarea din bugetul Ministerului Afacerilor Externe a unor manifestări culturale şi de diplomaţie publică organizate la misiunile României în vederea sărbătoririi Zilei Naţionale | [`hg/2006/1497/`](hg/2006/1497/) | in force | 1 | 2006-10-30 | 2006-10-30 |
+| Hotărârea Guvernului nr. 1499/2006 pentru aprobarea atribuţiilor, componenţei şi Regulamentului de organizare şi funcţionare a Comisiei Interdepartamentale pentru Asistenţă Medicală Comunitară | [`hg/2006/1499/`](hg/2006/1499/) | amending act | 1 | 2006-12-09 | 2006-12-09 |
+| Hotărârea Guvernului nr. 1502/2006 pentru modificarea Hotărârii Guvernului nr. 541/2003 privind stabilirea unor măsuri pentru limitarea emisiilor în aer ale anumitor poluanţi proveniţi din instalaţii mari de ardere | [`hg/2006/1502/`](hg/2006/1502/) | amending act | 1 | 2006-11-06 | 2006-11-06 |
+| Hotărârea Guvernului nr. 1503/2006 privind darea în administrarea Ministerului Educaţiei şi Cercetării, pentru Inspectoratul Şcolar Judeţean Maramureş - Clubul Sportiv Şcolar nr. 2 Baia Mare, a unor imobile trecute în domeniul public al statului | [`hg/2006/1503/`](hg/2006/1503/) | in force | 1 | 2006-11-07 | 2006-11-07 |
+| Hotărârea Guvernului nr. 1506/2006 privind transmiterea drumului forestier "Românilor" şi a terenului aferent acestuia din domeniul public al statului şi din administrarea Regiei Naţionale a Pădurilor - Romsilva în domeniul public al municipiului Târgu Mureş şi în administrarea Consiliului Local al Municipiului Târgu Mureş, judeţul Mureş | [`hg/2006/1506/`](hg/2006/1506/) | in force | 1 | 2006-11-07 | 2006-11-07 |
+| Hotărârea Guvernului nr. 1507/2006 privind completarea anexei nr. 1 la Hotărârea Guvernului nr. 2.333/2004 pentru aplicarea de către Ministerul Administraţiei şi Internelor a prevederilor Legii nr. 562/2004 privind autorizarea instituţiilor publice din sistemul de apărare, ordine publică şi securitate naţională de a vinde personalului propriu unele locuinţe de serviciu pe care acestea le au în administrare | [`hg/2006/1507/`](hg/2006/1507/) | amending act | 1 | 2006-11-08 | 2006-11-08 |
+| Hotărârea Guvernului nr. 1508/2006 privind alocarea unor sume din Fondul de rezerva bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru unele judeţe | [`hg/2006/1508/`](hg/2006/1508/) | in force | 1 | 2006-10-31 | 2006-10-31 |
+| Hotărârea Guvernului nr. 1509/2006 privind organizarea expoziţiei comemorative itinerante "Printre rânduri" | [`hg/2006/1509/`](hg/2006/1509/) | in force | 1 | 2006-10-30 | 2006-10-30 |
+| Hotărârea Guvernului nr. 1512/2006 privind aprobarea participării României la reuniunea la nivel înalt a Organizaţiei Tratatului Atlanticului de Nord, care se va desfăşura la Riga, Letonia, în perioada 28-29 noiembrie 2006 | [`hg/2006/1512/`](hg/2006/1512/) | amending act | 1 | 2006-11-03 | 2006-11-03 |
+| Hotărârea Guvernului nr. 1515/2006 pentru modificarea Hotărârii Guvernului nr. 367/2002 privind aprobarea Statutului de organizare şi funcţionare a Administraţiei Rezervaţiei Biosferei "Delta Dunării" şi a componenţei nominale a Consiliului ştiinţific | [`hg/2006/1515/`](hg/2006/1515/) | amending act | 1 | 2006-11-07 | 2006-11-07 |
+| Hotărârea Guvernului nr. 1517/2006 privind transmiterea unui teren aparţinând domeniului public al statului din administrarea Ministerului Transporturilor, Construcţiilor şi Turismului şi concesiunea Companiei Naţionale "Administraţia Porturilor Dunării Fluviale" - S.A. Giurgiu în administrarea Regiei Autonome "Administraţia Fluvială a Dunării de Jos" - Galaţi | [`hg/2006/1517/`](hg/2006/1517/) | in force | 1 | 2006-11-10 | 2006-11-10 |
+| Hotărârea Guvernului nr. 1519/2006 privind aprobarea procesării unei cantităţi de uraniu în diuranat de sodiu, aflat în patrimoniul Companiei Naţionale a Uraniului - S.A., cu obţinerea de octoxid de uraniu | [`hg/2006/1519/`](hg/2006/1519/) | amending act | 1 | 2006-11-06 | 2006-11-06 |
+| Hotărârea Guvernului nr. 1520/2006 pentru aprobarea modului de repartizare şi de utilizare a sumei prevăzute în bugetul Secretariatului General al Guvernului pe anul 2006 la capitolul 67.01 "Cultură, recreere şi religie", titlul 59 "Alte cheltuieli", articolul 59.11 "Asociaţii şi fundaţii" | [`hg/2006/1520/`](hg/2006/1520/) | amending act | 1 | 2006-11-09 | 2006-11-09 |
 | Hotărârea Guvernului nr. 1522/2006 | [`hg/2006/1522/`](hg/2006/1522/) | in force | 7 | 2006-11-09 | 2017-10-16 |
+| Hotărârea Guvernului nr. 1523/2006 pentru aprobarea cuantumului taxelor pentru activitatea prestată de Comisia de acordare a scutirilor pentru uz terapeutic, Comisia de audiere a sportivilor şi a personalului asistent al sportivilor care au încălcat reglementările anti-doping şi Comisia de apel din cadrul Agenţiei Naţionale Anti-Doping | [`hg/2006/1523/`](hg/2006/1523/) | amending act | 1 | 2006-11-09 | 2006-11-09 |
+| Hotărârea Guvernului nr. 1524/2006 privind stabilirea datei alegerilor locale parţiale pentru alegerea primarilor în unele circumscripţii electorale | [`hg/2006/1524/`](hg/2006/1524/) | in force | 1 | 2006-11-02 | 2006-11-02 |
+| Hotărârea Guvernului nr. 1525/2006 privind suplimentarea bugetului Ministerului Agriculturii, Pădurilor şi Dezvoltării Rurale, din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006 | [`hg/2006/1525/`](hg/2006/1525/) | in force | 1 | 2006-11-02 | 2006-11-02 |
+| Hotărârea Guvernului nr. 1526/2006 pentru aprobarea Memorandumului de înţelegere dintre Ministerul Mediului şi Gospodăririi Apelor din România şi Ministerul Mediului şi Resurselor Naturale din Republica Kenya privind cooperarea în domeniul protecţiei mediului, semnat la Nairobi la 22 august 2006 | [`hg/2006/1526/`](hg/2006/1526/) | amending act | 1 | 2006-11-09 | 2006-11-09 |
+| Hotărârea Guvernului nr. 1527/2006 privind aprobarea renunţării la cetăţenia română unor persoane | [`hg/2006/1527/`](hg/2006/1527/) | amending act | 1 | 2006-11-07 | 2006-11-07 |
 | Hotărârea Guvernului nr. 1528/2006 privind redobândirea cetăţeniei române de către unele persoane | [`hg/2006/1528/`](hg/2006/1528/) | in force | 1 | 2006-11-07 | 2006-11-07 |
 | Hotărârea Guvernului nr. 1529/2006 pentru modificarea anexei nr. 1 la Hotărârea Guvernului nr. 230/2003 privind delimitarea rezervaţiilor biosferei, parcurilor naţionale şi parcurilor naturale şi constituirea administraţiilor acestora | [`hg/2006/1529/`](hg/2006/1529/) | amending act | 1 | 2006-11-15 | 2006-11-15 |
 | Hotărârea Guvernului nr. 1530/2006 privind completarea art. 94 din Contractul-cadru privind condiţiile acordării asistenţei medicale în cadrul sistemului de asigurări sociale de sănătate, aprobat prin Hotărârea Guvernului nr. 706/2006 | [`hg/2006/1530/`](hg/2006/1530/) | amending act | 1 | 2006-11-22 | 2006-11-22 |
