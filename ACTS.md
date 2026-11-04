@@ -1,6 +1,6 @@
 # Every act in this repository
 
-24673 acts, 38,307 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+24682 acts, 38,316 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6021,7 +6021,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (18661, of which 9570 amending acts)
+## Government decisions (HG) (18670, of which 9570 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6620,6 +6620,15 @@
 | Hotărârea Guvernului nr. 1581/2005 | [`hg/2005/1581/`](hg/2005/1581/) | in force | 1 | 2006-01-11 | 2006-01-11 |
 | Hotărârea Guvernului nr. 1724/2005 | [`hg/2005/1724/`](hg/2005/1724/) | in force | 3 | 2006-01-29 | 2007-05-04 |
 | Hotărârea Guvernului nr. 1768/2005 | [`hg/2005/1768/`](hg/2005/1768/) | in force | 4 | 2005-12-28 | 2009-11-27 |
+| Hotărârea Guvernului nr. 1772/2005 privind eliberarea domnului Soran Gavril, la cerere, din funcţia de prefect al judeţului Caraş-Severin | [`hg/2005/1772/`](hg/2005/1772/) | in force | 1 | 2005-12-29 | 2005-12-29 |
+| Hotărârea Guvernului nr. 1773/2005 privind numirea domnului Covaciu Cosmin Adrian în funcţia publică de prefect al judeţului Alba | [`hg/2005/1773/`](hg/2005/1773/) | in force | 1 | 2005-12-29 | 2005-12-29 |
+| Hotărârea Guvernului nr. 1774/2005 privind numirea domnului Stragea Cristian-Dimitrie în funcţia publică de prefect al judeţului Arad | [`hg/2005/1774/`](hg/2005/1774/) | in force | 1 | 2005-12-29 | 2005-12-29 |
+| Hotărârea Guvernului nr. 1776/2005 privind numirea domnului Berca Gabriel în funcţia publică de prefect al judeţului Bacău | [`hg/2005/1776/`](hg/2005/1776/) | in force | 1 | 2005-12-29 | 2005-12-29 |
+| Hotărârea Guvernului nr. 1777/2005 privind numirea domnului Bolojan Ilie Gavril în funcţia publică de prefect al judeţului Bihor | [`hg/2005/1777/`](hg/2005/1777/) | in force | 1 | 2005-12-29 | 2005-12-29 |
+| Hotărârea Guvernului nr. 1778/2005 privind numirea domnului Szilagyi Ioan în funcţia publică de prefect al judeţului Bistriţa-Năsăud | [`hg/2005/1778/`](hg/2005/1778/) | in force | 1 | 2005-12-29 | 2005-12-29 |
+| Hotărârea Guvernului nr. 1779/2005 privind numirea domnului Roman Cristian Constantin în funcţia publică de prefect al judeţului Botoşani | [`hg/2005/1779/`](hg/2005/1779/) | in force | 1 | 2005-12-29 | 2005-12-29 |
+| Hotărârea Guvernului nr. 1782/2005 privind numirea domnului Bîgiu Cristinel Marian în funcţia publică de prefect al judeţului Buzău | [`hg/2005/1782/`](hg/2005/1782/) | in force | 1 | 2005-12-29 | 2005-12-29 |
+| Hotărârea Guvernului nr. 1783/2005 privind numirea domnului Şerban Jenel în funcţia publică de prefect al judeţului Călăraşi | [`hg/2005/1783/`](hg/2005/1783/) | in force | 1 | 2005-12-29 | 2005-12-29 |
 | Hotărârea Guvernului nr. 1784/2005 privind numirea domnului Tişe Alin-Păunel în funcţia publică de prefect al judeţului Cluj | [`hg/2005/1784/`](hg/2005/1784/) | in force | 1 | 2005-12-29 | 2005-12-29 |
 | Hotărârea Guvernului nr. 1788/2005 privind numirea domnului Capră Mihai în funcţia publică de prefect al judeţului Galaţi | [`hg/2005/1788/`](hg/2005/1788/) | in force | 1 | 2005-12-29 | 2005-12-29 |
 | Hotărârea Guvernului nr. 1789/2005 privind numirea domnului Stănişteanu Sergiu Noruţ în funcţia publică de prefect al judeţului Giurgiu | [`hg/2005/1789/`](hg/2005/1789/) | in force | 1 | 2005-12-29 | 2005-12-29 |
