@@ -1,6 +1,6 @@
 # Every act in this repository
 
-24702 acts, 38,336 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+24715 acts, 38,349 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -3751,7 +3751,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1731, of which 610 amending acts)
+## Emergency ordinances (OUG) (1732, of which 611 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4053,6 +4053,7 @@
 | Ordonanța de urgență a Guvernului nr. 180/2005 | [`oug/2005/180/`](oug/2005/180/) | in force | 5 | 2005-12-22 | 2013-05-29 |
 | Ordonanța de urgență a Guvernului nr. 188/2005 | [`oug/2005/188/`](oug/2005/188/) | in force | 1 | 2005-12-29 | 2005-12-29 |
 | Ordonanța de urgență a Guvernului nr. 189/2005 | [`oug/2005/189/`](oug/2005/189/) | in force | 2 | 2005-12-28 | 2006-12-09 |
+| Ordonanța de urgență a Guvernului nr. 192/2005 pentru abrogarea Ordonanţei de urgenţă a Guvernului nr. 29/2000 privind sprijinul acordat producătorilor de lapte | [`oug/2005/192/`](oug/2005/192/) | amending act | 1 | 2005-12-28 | 2005-12-28 |
 | Ordonanța de urgență a Guvernului nr. 195/2005 privind protecția mediului | [`oug/2005/195/`](oug/2005/195/) | in force | 21 | 2006-01-29 | 2022-04-07 |
 | Ordonanța de urgență a Guvernului nr. 196/2005 | [`oug/2005/196/`](oug/2005/196/) | in force | 32 | 2005-12-30 | 2025-03-07 |
 | Ordonanța de urgență a Guvernului nr. 198/2005 | [`oug/2005/198/`](oug/2005/198/) | in force | 2 | 2005-12-30 | 2014-06-06 |
@@ -6021,7 +6022,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (18690, of which 9572 amending acts)
+## Government decisions (HG) (18702, of which 9573 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6618,7 +6619,19 @@
 | Hotărârea Guvernului nr. 1514/2005 | [`hg/2005/1514/`](hg/2005/1514/) | in force | 1 | 2005-12-09 | 2005-12-09 |
 | Hotărârea Guvernului nr. 1579/2005 | [`hg/2005/1579/`](hg/2005/1579/) | in force | 1 | 2006-02-09 | 2006-02-09 |
 | Hotărârea Guvernului nr. 1581/2005 | [`hg/2005/1581/`](hg/2005/1581/) | in force | 1 | 2006-01-11 | 2006-01-11 |
+| Hotărârea Guvernului nr. 1722/2005 privind transmiterea unei suprafeţe de teren, trecută în condiţiile legii din domeniul privat al municipiului Galaţi în domeniul public al statului, din administrarea Consiliului Local al Municipiului Galaţi în administrarea Ministerului Transporturilor, Construcţiilor şi Turismului, în vederea realizării activităţilor de interes naţional de către Compania Naţională de Autostrăzi şi Drumuri Naţionale din România - S.A | [`hg/2005/1722/`](hg/2005/1722/) | in force | 1 | 2006-01-05 | 2006-01-05 |
+| Hotărârea Guvernului nr. 1723/2005 privind modificarea art. 5 din Normele metodologice de aplicare a Legii nr. 83/1997 pentru privatizarea societăţilor comerciale bancare la care statul este acţionar, aprobate prin Hotărârea Guvernului nr. 458/1997 | [`hg/2005/1723/`](hg/2005/1723/) | amending act | 1 | 2005-12-29 | 2005-12-29 |
 | Hotărârea Guvernului nr. 1724/2005 | [`hg/2005/1724/`](hg/2005/1724/) | in force | 3 | 2006-01-29 | 2007-05-04 |
+| Hotărârea Guvernului nr. 1725/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Alba | [`hg/2005/1725/`](hg/2005/1725/) | in force | 1 | 2005-12-23 | 2005-12-23 |
+| Hotărârea Guvernului nr. 1726/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Bihor | [`hg/2005/1726/`](hg/2005/1726/) | in force | 1 | 2005-12-23 | 2005-12-23 |
+| Hotărârea Guvernului nr. 1727/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Braşov | [`hg/2005/1727/`](hg/2005/1727/) | in force | 1 | 2005-12-23 | 2005-12-23 |
+| Hotărârea Guvernului nr. 1728/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru municipiul Bucureşti | [`hg/2005/1728/`](hg/2005/1728/) | in force | 1 | 2005-12-23 | 2005-12-23 |
+| Hotărârea Guvernului nr. 1729/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Cluj | [`hg/2005/1729/`](hg/2005/1729/) | in force | 1 | 2005-12-23 | 2005-12-23 |
+| Hotărârea Guvernului nr. 1730/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Gorj | [`hg/2005/1730/`](hg/2005/1730/) | in force | 1 | 2005-12-23 | 2005-12-23 |
+| Hotărârea Guvernului nr. 1731/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Harghita | [`hg/2005/1731/`](hg/2005/1731/) | in force | 1 | 2005-12-23 | 2005-12-23 |
+| Hotărârea Guvernului nr. 1732/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Galaţi | [`hg/2005/1732/`](hg/2005/1732/) | in force | 1 | 2005-12-23 | 2005-12-23 |
+| Hotărârea Guvernului nr. 1733/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Iaşi | [`hg/2005/1733/`](hg/2005/1733/) | in force | 1 | 2005-12-23 | 2005-12-23 |
+| Hotărârea Guvernului nr. 1734/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Iaşi | [`hg/2005/1734/`](hg/2005/1734/) | in force | 1 | 2005-12-23 | 2005-12-23 |
 | Hotărârea Guvernului nr. 1735/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Iaşi | [`hg/2005/1735/`](hg/2005/1735/) | in force | 1 | 2005-12-23 | 2005-12-23 |
 | Hotărârea Guvernului nr. 1736/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Olt | [`hg/2005/1736/`](hg/2005/1736/) | in force | 1 | 2005-12-23 | 2005-12-23 |
 | Hotărârea Guvernului nr. 1742/2005 privind suplimentarea bugetului Ministerului Transporturilor, Construcţiilor şi Turismului din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005 | [`hg/2005/1742/`](hg/2005/1742/) | in force | 1 | 2005-12-23 | 2005-12-23 |
