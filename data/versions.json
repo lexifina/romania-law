@@ -107861,6 +107861,21 @@
    ]
   },
   {
+   "slug": "hg-1029-2001",
+   "path": "hg/2001/1029",
+   "short": "HG nr. 1029/2001",
+   "title": "Hotărârea Guvernului nr. 1029/2001 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2001 al Institutului Naţional de Cercetare-Dezvoltare în Domeniul Patologiei şi Ştiinţelor Biomedicale \"Victor Babeş\", aflat în coordonarea Ministerului Sănătăţii şi Familiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31451",
+   "versions": [
+    {
+     "from": "2001-10-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31451",
+     "sha256": "3b5f4810272f1b4113a7e8a061b223417931e1f55279ea5d520498c3c65cd8f8"
+    }
+   ]
+  },
+  {
    "slug": "hg-1029-2002",
    "path": "hg/2002/1029",
    "short": "HG nr. 1029/2002",
@@ -109108,6 +109123,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10100",
      "sha256": "eb2be1999c7886225e21588f1c2414e32b4c76b16978e42ae430ea25e0480e02"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1033-2001",
+   "path": "hg/2001/1033",
+   "short": "HG nr. 1033/2001",
+   "title": "Hotărârea Guvernului nr. 1033/2001 privind transmiterea unor imobile din domeniul privat al statului şi din administrarea Regiei Autonome \"Administraţia Patrimoniului Protocolului de Stat\" în patrimoniul Societăţii Comerciale \"Neptun-Olimp\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31515",
+   "versions": [
+    {
+     "from": "2001-10-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31515",
+     "sha256": "7db3c34088e59c3958dd148895f24d437ff6023ebe967fc6fcd57e985297d4a3"
     }
    ]
   },

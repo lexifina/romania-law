@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38525 acts, 52,278 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38527 acts, 52,280 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -12004,7 +12004,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26487, of which 12386 amending acts)
+## Government decisions (HG) (26489, of which 12387 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13108,7 +13108,9 @@
 | Hotărârea Guvernului nr. 962/2001 | [`hg/2001/962/`](hg/2001/962/) | in force | 3 | 2001-10-04 | 2014-04-08 |
 | Hotărârea Guvernului nr. 974/2001 | [`hg/2001/974/`](hg/2001/974/) | in force | 1 | 2001-10-18 | 2001-10-18 |
 | Hotărârea Guvernului nr. 1028/2001 privind modificarea art. 8 din Normele metodologice pentru aplicarea Ordonanţei de urgenţă a Guvernului nr. 24/1998 privind regimul zonelor defavorizate, republicată, cu modificările ulterioare, aprobate prin Hotărârea Guvernului nr. 728/2001 | [`hg/2001/1028/`](hg/2001/1028/) | amended, not consolidated | 1 | 2001-10-25 | 2001-10-25 |
+| Hotărârea Guvernului nr. 1029/2001 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2001 al Institutului Naţional de Cercetare-Dezvoltare în Domeniul Patologiei şi Ştiinţelor Biomedicale "Victor Babeş", aflat în coordonarea Ministerului Sănătăţii şi Familiei | [`hg/2001/1029/`](hg/2001/1029/) | amending act | 1 | 2001-10-25 | 2001-10-25 |
 | Hotărârea Guvernului nr. 1032/2001 privind stabilirea condiţiilor de introducere pe piaţa şi de funcţionare a aparatelor electrice şi electronice din punct de vedere al compatibilităţii electromagnetice | [`hg/2001/1032/`](hg/2001/1032/) | amended, not consolidated | 1 | 2002-01-01 | 2002-01-01 |
+| Hotărârea Guvernului nr. 1033/2001 privind transmiterea unor imobile din domeniul privat al statului şi din administrarea Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat" în patrimoniul Societăţii Comerciale "Neptun-Olimp" - S.A | [`hg/2001/1033/`](hg/2001/1033/) | in force | 1 | 2001-10-29 | 2001-10-29 |
 | Hotărârea Guvernului nr. 1035/2001 pentru aprobarea Protocolului de cooperare dintre ministrul de interne al României şi ministrul de interne al Regatului Belgiei, semnat la Bucureşti la 25 iunie 2001 | [`hg/2001/1035/`](hg/2001/1035/) | amending act | 1 | 2001-10-31 | 2001-10-31 |
 | Hotărârea Guvernului nr. 1036/2001 pentru aprobarea Protocolului de intenţii dintre Ministerul de Interne din România şi Agenţia Federala pentru Managementul Situaţiilor de Urgenta din Statele Unite ale Americii privind cooperarea în domeniul prevenirii şi intervenţiei în cazul situaţiilor de urgenta de origine naturala sau tehnologică, semnat la Bucureşti la 22 ianuarie 2001 | [`hg/2001/1036/`](hg/2001/1036/) | amending act | 1 | 2001-10-31 | 2001-10-31 |
 | Hotărârea Guvernului nr. 1038/2001 pentru modificarea anexei la Hotărârea Guvernului nr. 226/2001 privind numirea reprezentanţilor Guvernului în Consiliul Economic şi Social | [`hg/2001/1038/`](hg/2001/1038/) | amending act | 1 | 2001-10-29 | 2001-10-29 |
