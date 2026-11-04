@@ -206735,6 +206735,66 @@
    ]
   },
   {
+   "slug": "hg-2323-2004",
+   "path": "hg/2004/2323",
+   "short": "HG nr. 2323/2004",
+   "title": "Hotărârea Guvernului nr. 2323/2004 privind suplimentarea bugetului Serviciului Român de Informaţii din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57825",
+   "versions": [
+    {
+     "from": "2004-12-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57825",
+     "sha256": "03ced70eb0b9129e583f93a36f40324530cd58d35c8a0748e816c50961039916"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2324-2004",
+   "path": "hg/2004/2324",
+   "short": "HG nr. 2324/2004",
+   "title": "Hotărârea Guvernului nr. 2324/2004 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2005 al Comisiei Naţionale pentru Controlul Activităţilor Nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57826",
+   "versions": [
+    {
+     "from": "2004-12-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57826",
+     "sha256": "93a70378a94ce93f0fb1cacce9ed0d0ffe0725eaed9b83a3341c0b495325b64c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2325-2004",
+   "path": "hg/2004/2325",
+   "short": "HG nr. 2325/2004",
+   "title": "Hotărârea Guvernului nr. 2325/2004 pentru aprobarea plăţii de către Comisia Naţională pentru Controlul Activităţilor Nucleare a contribuţiei la fondul de cooperare tehnică al Agenţiei Internaţionale pentru Energia Atomică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57827",
+   "versions": [
+    {
+     "from": "2004-12-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57827",
+     "sha256": "9f983c9e5726b210b2cdeb702f4c5b52250cfb0d5b2b4b871a3d516dd276fa97"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2329-2004",
+   "path": "hg/2004/2329",
+   "short": "HG nr. 2329/2004",
+   "title": "Hotărârea Guvernului nr. 2329/2004 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru judeţul Harghita",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57851",
+   "versions": [
+    {
+     "from": "2004-12-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57851",
+     "sha256": "86d72366ad86d6f67e6ca24679466c0f4775da62c26ebe8b3ae108ffedc4cae8"
+    }
+   ]
+  },
+  {
    "slug": "hg-233-2006",
    "path": "hg/2006/233",
    "short": "HG nr. 233/2006",
@@ -206947,6 +207007,51 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/295408",
      "sha256": "040ffbf04a6be588cd99a0dafb2dbf608a622493b8024047f3228667c8ee77b6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2330-2004",
+   "path": "hg/2004/2330",
+   "short": "HG nr. 2330/2004",
+   "title": "Hotărârea Guvernului nr. 2330/2004 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru judeţul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57852",
+   "versions": [
+    {
+     "from": "2004-12-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57852",
+     "sha256": "efff900e4599baec92a63b4288a71d439c8bbd772eb8b915ba6d01fff2b790da"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2331-2004",
+   "path": "hg/2004/2331",
+   "short": "HG nr. 2331/2004",
+   "title": "Hotărârea Guvernului nr. 2331/2004 privind aprobarea încadrării în categoria funcţională a drumurilor comunale a unor drumuri situate în judeţul Mureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57954",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57954",
+     "sha256": "d0ad0af05707496e14fe0738f5b335cf7dbd19c691bc066a2995db6a69de79f0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2332-2004",
+   "path": "hg/2004/2332",
+   "short": "HG nr. 2332/2004",
+   "title": "Hotărârea Guvernului nr. 2332/2004 pentru suplimentarea bugetului Ministerului Economiei şi Comerţului din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57859",
+   "versions": [
+    {
+     "from": "2004-12-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57859",
+     "sha256": "7aff615d4875e549988204c5dac5fb5e1cc50776dea6ab9242dfdd4d7aa332ca"
     }
    ]
   },

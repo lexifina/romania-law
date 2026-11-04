@@ -1,6 +1,6 @@
 # Every act in this repository
 
-26560 acts, 40,202 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+26567 acts, 40,209 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6144,7 +6144,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (20425, of which 10529 amending acts)
+## Government decisions (HG) (20432, of which 10532 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6645,6 +6645,13 @@
 | Hotărârea Guvernului nr. 2280/2004 pentru modificarea și completarea Hotărârii Guvernului nr. 1.025/2003 privind metodologia și criteriile de încadrare a persoanelor în locuri de muncă în condiții speciale | [`hg/2004/2280/`](hg/2004/2280/) | amending act | 1 | 2004-12-24 | 2004-12-24 |
 | Hotărârea Guvernului nr. 2293/2004 | [`hg/2004/2293/`](hg/2004/2293/) | in force | 2 | 2004-12-28 | 2016-10-20 |
 | Hotărârea Guvernului nr. 2294/2004 | [`hg/2004/2294/`](hg/2004/2294/) | in force | 1 | 2005-01-11 | 2005-01-11 |
+| Hotărârea Guvernului nr. 2323/2004 privind suplimentarea bugetului Serviciului Român de Informaţii din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004 | [`hg/2004/2323/`](hg/2004/2323/) | in force | 1 | 2004-12-16 | 2004-12-16 |
+| Hotărârea Guvernului nr. 2324/2004 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2005 al Comisiei Naţionale pentru Controlul Activităţilor Nucleare | [`hg/2004/2324/`](hg/2004/2324/) | amending act | 1 | 2004-12-16 | 2004-12-16 |
+| Hotărârea Guvernului nr. 2325/2004 pentru aprobarea plăţii de către Comisia Naţională pentru Controlul Activităţilor Nucleare a contribuţiei la fondul de cooperare tehnică al Agenţiei Internaţionale pentru Energia Atomică | [`hg/2004/2325/`](hg/2004/2325/) | amending act | 1 | 2004-12-16 | 2004-12-16 |
+| Hotărârea Guvernului nr. 2329/2004 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru judeţul Harghita | [`hg/2004/2329/`](hg/2004/2329/) | in force | 1 | 2004-12-16 | 2004-12-16 |
+| Hotărârea Guvernului nr. 2330/2004 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru judeţul Ilfov | [`hg/2004/2330/`](hg/2004/2330/) | in force | 1 | 2004-12-16 | 2004-12-16 |
+| Hotărârea Guvernului nr. 2331/2004 privind aprobarea încadrării în categoria funcţională a drumurilor comunale a unor drumuri situate în judeţul Mureş | [`hg/2004/2331/`](hg/2004/2331/) | amending act | 1 | 2004-12-21 | 2004-12-21 |
+| Hotărârea Guvernului nr. 2332/2004 pentru suplimentarea bugetului Ministerului Economiei şi Comerţului din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004 | [`hg/2004/2332/`](hg/2004/2332/) | in force | 1 | 2004-12-17 | 2004-12-17 |
 | Hotărârea Guvernului nr. 2333/2004 | [`hg/2004/2333/`](hg/2004/2333/) | in force | 1 | 2005-01-05 | 2005-01-05 |
 | Hotărârea Guvernului nr. 2335/2004 pentru aprobarea Normelor metodologice privind vânzarea de către Serviciul de Informaţii Externe a locuinţelor de serviciu, proprietate privată a statului, pe care le are în administrare | [`hg/2004/2335/`](hg/2004/2335/) | amending act | 1 | 2004-12-23 | 2004-12-23 |
 | Hotărârea Guvernului nr. 2336/2004 pentru aplicarea de către Serviciul Român de Informaţii a prevederilor Legii nr. 562/2004 privind autorizarea instituţiilor publice din sistemul de apărare, ordine publică şi securitate naţională de a vinde personalului propriu unele locuinţe de serviciu pe care acestea le au în administrare | [`hg/2004/2336/`](hg/2004/2336/) | in force | 1 | 2005-01-03 | 2005-01-03 |
