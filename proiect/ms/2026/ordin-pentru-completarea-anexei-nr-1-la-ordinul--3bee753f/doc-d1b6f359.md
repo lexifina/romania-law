@@ -1,0 +1,44 @@
+MINISTERUL SĂNĂTĂȚII
+
+ORDIN
+
+pentru completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 477/2009 privind înființarea Registrului Național de Transplant, desemnarea persoanelor responsabile cu gestionarea datelor din Registrul Național de Transplant din cadrul unităților sanitare acreditate pentru efectuarea de transplant de organe, țesuturi și celule de origine umană în scop terapeutic și stabilirea datelor necesare înregistrării unei persoane pentru atribuirea codului unic de înregistrare la Agenția Națională de Transplant
+
+Văzând Referatul de aprobare nr. 				 al Direcției Generale Asistență Medicală din cadrul Ministerului Sănătății,
+
+având în vedere prevederile titlului VI - Efectuarea prelevării și transplantului de organe, țesuturi și celule de origine umană în scop terapeutic din Legea nr. 95/2006 privind reforma în domeniul sănătății, republicată, cu modificările și completările ulterioare,
+
+luând în considerare dispozițiile Ordonanței Guvernului nr. 79/2004 pentru înființarea Agenției Naționale de Transplant, aprobată cu modificări și completări prin Legea nr. 588/2004, cu modificările și completările ulterioare,
+
+   	în temeiul prevederilor art. 7 alin (4) din Hotărârea Guvernului nr. 144/2010 privind organizarea și funcționarea Ministerului Sănătății, cu modificările și completările ulterioare,
+
+ministrul sănătății emite următorul
+
+ORDIN
+
+Art. I – Anexa nr. 1 la Ordinul ministrului sănătății nr. 477/2009 privind înființarea Registrului Național de Transplant, desemnarea persoanelor responsabile cu gestionarea datelor din Registrul Național de Transplant din cadrul unităților sanitare acreditate pentru efectuarea de transplant de organe, țesuturi și celule de origine umană în scop terapeutic și stabilirea datelor necesare înregistrării unei persoane pentru atribuirea codului unic de înregistrare la Agenția Națională de Transplant, publicat în Monitorul Oficial al României, Partea I, nr. 322 din 14 mai 2009, cu modificările și completările ulterioare, după punctul 94 se introduce un nou punct, punctul 95, cu următorul cuprins:
+
+     ”95. Centru Medical Sanconfind S.R.L. – Câmpina
+    	  - dna Nicoleta Buzățoiu.”
+
+Art. II - Prezentul ordin se publică în Monitorul Oficial al României, Partea I.
+
+    MINISTRUL SĂNĂTĂȚII
+                                                           PROF. UNIV. DR. ALEXANDRU RAFILA
+
+Ordin pentru completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 477/2009 privind înființarea Registrului Național de Transplant, desemnarea persoanelor responsabile cu gestionarea datelor din Registrul Național de Transplant din cadrul unităților sanitare acreditate pentru efectuarea de transplant de organe, țesuturi și celule de origine umană în scop terapeutic și stabilirea datelor necesare înregistrării unei persoane pentru atribuirea codului unic de înregistrare la Agenția Națională de Transplant
+
+Persoana responsabilă de elaborarea proiectului: Mihaela Necula, Consilier superior, 021.3072.517, mihaela.necula@ms.ro
+
+STRUCTURA | DATA SOLICITĂRII AVIZULUI | DATA OBȚINERII AVIZULUI | SEMNĂTURA
+STRUCTURA INIȚIATOARE | STRUCTURA INIȚIATOARE | STRUCTURA INIȚIATOARE | STRUCTURA INIȚIATOARE
+Direcția generală  asistență medicală
+Director General Costin ILIUȚĂ |  |  |
+STRUCTURI AVIZATOARE | STRUCTURI AVIZATOARE | STRUCTURI AVIZATOARE | STRUCTURI AVIZATOARE
+Direcția generală juridică
+Director General Ionuț Sebastian IAVOR |  |  |
+Direcția generală juridică
+Serviciul avizare acte normative
+Șef serviciu Dana Constanța EFTIMIE |  |  |
+Secretar General Adjunct
+Dănuț Cristian POPA |  |  |
