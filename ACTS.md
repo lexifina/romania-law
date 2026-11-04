@@ -1,6 +1,6 @@
 # Every act in this repository
 
-36065 acts, 49,717 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+36078 acts, 49,730 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (7721, of which 2724 amending acts)
+## Laws (legi) (7730, of which 2732 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1233,23 +1233,32 @@
 | Legea nr. 324/2002 pentru aprobarea Ordonanţei Guvernului nr. 29/2002 privind instituirea unor măsuri pentru diminuarea datoriei publice | [`lege/2002/324/`](lege/2002/324/) | amended, not consolidated | 1 | 2002-06-10 | 2002-06-10 |
 | Legea nr. 325/2002 pentru aprobarea Ordonanţei Guvernului nr. 29/2000 privind reabilitarea termica a fondului construit existent şi stimularea economisirii energiei termice | [`lege/2002/325/`](lege/2002/325/) | amended, not consolidated | 1 | 2002-06-18 | 2002-06-18 |
 | Legea nr. 334/2002 | [`lege/2002/334/`](lege/2002/334/) | in force | 13 | 2002-06-18 | 2013-12-30 |
+| Legea nr. 337/2002 privind respingerea Ordonanţei Guvernului nr. 30/2002 pentru prorogarea termenului prevăzut la art. 3 alin. (2) lit. b) din Ordonanţa de urgenţă a Guvernului nr. 149/2001 privind instituirea Tarifului intern de călători în transportul feroviar | [`lege/2002/337/`](lege/2002/337/) | amending act | 1 | 2002-06-27 | 2002-06-27 |
 | Legea nr. 338/2002 | [`lege/2002/338/`](lege/2002/338/) | in force | 1 | 2002-06-25 | 2002-06-25 |
+| Legea nr. 339/2002 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 13/2002 pentru modificarea art. III din Ordonanţa de urgenţă a Guvernului nr. 163/2001 privind reglementarea unor măsuri financiare | [`lege/2002/339/`](lege/2002/339/) | amending act | 1 | 2002-06-14 | 2002-06-14 |
+| Legea nr. 340/2002 privind respingerea Ordonanţei Guvernului nr. 100/2000 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 152/1999 privind produsele medicamentoase de uz uman | [`lege/2002/340/`](lege/2002/340/) | amending act | 1 | 2002-06-17 | 2002-06-17 |
 | Legea nr. 341/2002 | [`lege/2002/341/`](lege/2002/341/) | in force | 1 | 2002-06-25 | 2002-06-25 |
 | Legea nr. 342/2002 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 187/2001 privind creşterile salariale ce se vor acorda în anul 2002 personalului din sectorul bugetar | [`lege/2002/342/`](lege/2002/342/) | amended, not consolidated | 1 | 2002-07-03 | 2002-07-03 |
 | Legea nr. 343/2002 pentru aprobarea Ordonanţei Guvernului nr. 109/2000 privind staţiunile balneare, climatice şi balneoclimatice şi asistenţa medicală balneară şi de recuperare | [`lege/2002/343/`](lege/2002/343/) | amended, not consolidated | 1 | 2002-06-18 | 2002-06-18 |
 | Legea nr. 344/2002 | [`lege/2002/344/`](lege/2002/344/) | in force | 1 | 2002-06-07 | 2002-06-07 |
 | Legea nr. 347/2002 privind aprobarea Ordonanţei de urgenta a Guvernului nr. 121/2001 pentru suspendarea temporară a tuturor procedurilor referitoare la adopţiile internaţionale | [`lege/2002/347/`](lege/2002/347/) | amended, not consolidated | 1 | 2002-06-18 | 2002-06-18 |
+| Legea nr. 348/2002 pentru respingerea Ordonanţei de urgenta a Guvernului nr. 161/2001 privind completarea Ordonanţei de urgenta a Guvernului nr. 121/2001 pentru suspendarea temporară a tuturor procedurilor referitoare la adopţiile internaţionale | [`lege/2002/348/`](lege/2002/348/) | amending act | 1 | 2002-06-13 | 2002-06-13 |
 | Legea nr. 349/2002 | [`lege/2002/349/`](lege/2002/349/) | in force | 13 | 2002-12-21 | 2024-11-11 |
+| Legea nr. 350/2002 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 14/2002 pentru ratificarea Memorandumului de înţelegere dintre Guvernul României şi Organizaţia Naţiunilor Unite privind contribuţia cu resurse la unitatea specială de poliţie a Naţiunilor Unite din Kosovo, semnat la New York la 11 februarie 2002 | [`lege/2002/350/`](lege/2002/350/) | amending act | 1 | 2002-06-18 | 2002-06-18 |
+| Legea nr. 351/2002 privind declararea oraşului Cugir Oraş-martir al Revoluţiei din decembrie 1989 | [`lege/2002/351/`](lege/2002/351/) | in force | 1 | 2002-06-18 | 2002-06-18 |
 | Legea nr. 352/2002 pentru modificarea Legii nr. 29/2000 privind sistemul naţional de decoraţii al României | [`lege/2002/352/`](lege/2002/352/) | amended, not consolidated | 1 | 2002-06-11 | 2002-06-11 |
 | Legea nr. 354/2002 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 10/2002 pentru modificarea Legii nr. 142/1999 privind sprijinul statului pentru salarizarea clerului | [`lege/2002/354/`](lege/2002/354/) | amended, not consolidated | 1 | 2002-06-18 | 2002-06-18 |
 | Legea nr. 356/2002 pentru aprobarea Ordonanţei Guvernului nr. 9/2000 privind nivelul dobânzii legale pentru obligaţii băneşti | [`lege/2002/356/`](lege/2002/356/) | amended, not consolidated | 1 | 2002-06-18 | 2002-06-18 |
 | Legea nr. 357/2002 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 137/2001 pentru modificarea şi completarea Legii bancare nr. 58/1998 | [`lege/2002/357/`](lege/2002/357/) | amended, not consolidated | 1 | 2002-06-25 | 2002-06-25 |
 | Legea nr. 358/2002 pentru modificarea şi completarea Legii Arhivelor Naţionale nr. 16/1996 | [`lege/2002/358/`](lege/2002/358/) | amended, not consolidated | 1 | 2002-07-03 | 2002-07-03 |
+| Legea nr. 359/2002 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 123/1999 privind unele măsuri de restructurare financiară a Băncii Române de Comerţ Exterior (Bancorex) - S.A | [`lege/2002/359/`](lege/2002/359/) | amending act | 1 | 2002-06-18 | 2002-06-18 |
 | Legea nr. 360/2002 | [`lege/2002/360/`](lege/2002/360/) | in force | 34 | 2002-08-23 | 2024-06-28 |
+| Legea nr. 361/2002 pentru respingerea Ordonanţei Guvernului nr. 23/1999 privind constituirea fondurilor de garantare | [`lege/2002/361/`](lege/2002/361/) | amending act | 1 | 2002-06-14 | 2002-06-14 |
 | Legea nr. 362/2002 pentru aprobarea Ordonanţei Guvernului nr. 83/2001 privind înfiinţarea, organizarea şi funcţionarea serviciilor publice comunitare pentru eliberarea şi evidenta paşapoartelor | [`lege/2002/362/`](lege/2002/362/) | amended, not consolidated | 1 | 2002-06-26 | 2002-06-26 |
 | Legea nr. 363/2002 | [`lege/2002/363/`](lege/2002/363/) | in force | 1 | 2002-06-26 | 2002-06-26 |
 | Legea nr. 364/2002 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 163/2001 privind reglementarea unor măsuri financiare | [`lege/2002/364/`](lege/2002/364/) | amended, not consolidated | 1 | 2002-06-14 | 2002-06-14 |
 | Legea nr. 365/2002 privind comerțul electronic | [`lege/2002/365/`](lege/2002/365/) | in force | 7 | 2002-07-05 | 2024-10-08 |
+| Legea nr. 366/2002 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 154/2001 pentru modificarea şi completarea Legii nr. 1/1998 privind organizarea şi funcţionarea Serviciului de Informaţii Externe | [`lege/2002/366/`](lege/2002/366/) | amending act | 1 | 2002-07-03 | 2002-07-03 |
 | Legea nr. 368/2002 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 41/2002 pentru ratificarea Memorandumului de înţelegere privind cooperarea sub auspiciile Protocolului de la Kyoto, articolul 6, prin proiecte cu aplicare comuna între România şi Olanda, semnat la Haga la 23 noiembrie 1999 | [`lege/2002/368/`](lege/2002/368/) | amending act | 1 | 2002-06-20 | 2002-06-20 |
 | Legea nr. 369/2002 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Confederaţiei Elveţiene, semnat la Bucureşti la 14 decembrie 2001, pentru modificarea Acordului dintre Guvernul României şi Guvernul Confederaţiei Elveţiene privind acordarea asistenţei financiare, semnat la Bucureşti la 26 noiembrie 1992 | [`lege/2002/369/`](lege/2002/369/) | amended, not consolidated | 1 | 2002-07-08 | 2002-07-08 |
 | Legea nr. 370/2002 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 76/2001 privind simplificarea unor formalităţi administrative pentru înregistrarea şi autorizarea funcţionării comercianţilor | [`lege/2002/370/`](lege/2002/370/) | amended, not consolidated | 1 | 2002-06-12 | 2002-06-12 |
@@ -11544,7 +11553,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (24530, of which 11951 amending acts)
+## Government decisions (HG) (24534, of which 11953 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -12314,7 +12323,11 @@
 | Hotărârea Guvernului nr. 537/2002 pentru modificarea şi completarea Hotărârii Guvernului nr. 22/2001 privind organizarea şi funcţionarea Ministerului Sănătăţii şi Familiei şi pentru înfiinţarea Centrului Naţional de Perfecţionare Postuniversitară a Medicilor, Farmaciştilor, Altui Personal cu Studii Superioare şi Asistenţilor Medicali | [`hg/2002/537/`](hg/2002/537/) | amended, not consolidated | 1 | 2002-06-06 | 2002-06-06 |
 | Hotărârea Guvernului nr. 554/2002 privind trecerea centralelor hidroelectrice din patrimoniul Societăţii Comerciale de Producere a Energiei Electrice şi Termice "Termoelectrica" - S.A., al Societăţii Comerciale de Distribuţie şi Furnizare a Energiei Electrice "Electrica" - S.A. şi al Societăţii Naţionale "Nuclearelectrica" - S.A. în patrimoniul Societăţii Comerciale de Producere a Energiei Electrice "Hidroelectrica" - S.A | [`hg/2002/554/`](hg/2002/554/) | amended, not consolidated | 1 | 2002-06-11 | 2002-06-11 |
 | Hotărârea Guvernului nr. 556/2002 pentru aprobarea mandatului privind realizarea strategiei de privatizare a unor societăţi comerciale aflate în portofoliul Ministerului Industriei şi Resurselor | [`hg/2002/556/`](hg/2002/556/) | amended, not consolidated | 1 | 2002-06-12 | 2002-06-12 |
+| Hotărârea Guvernului nr. 561/2002 privind premierea sportivului Leonard Doroftei pentru păstrarea titlului de campion mondial la box profesionist în versiunea WBA | [`hg/2002/561/`](hg/2002/561/) | in force | 1 | 2002-06-07 | 2002-06-07 |
+| Hotărârea Guvernului nr. 564/2002 pentru modificarea art. 1 din Hotărârea Guvernului nr. 754/2001 privind aprobarea garantării în proporţie de 100% a unor credite externe în valoare totală de maximum 50 milioane dolari S.U.A. în favoarea Societăţii Comerciale "Distrigaz Sud" - S.A. pentru plata achiziţiilor de gaze naturale necesare în vederea funcţionarii Sistemului naţional de gaze naturale, precum şi pentru garantarea acestor credite de Ministerul Finanţelor Publice | [`hg/2002/564/`](hg/2002/564/) | amending act | 1 | 2002-06-11 | 2002-06-11 |
 | Hotărârea Guvernului nr. 568/2002 | [`hg/2002/568/`](hg/2002/568/) | in force | 5 | 2002-06-12 | 2009-03-10 |
+| Hotărârea Guvernului nr. 570/2002 privind stabilirea tarifului de licenţiere a Regiei Autonome "Administraţia Română a Serviciilor de Trafic Aerian" - ROMATSA pentru anul 2002 | [`hg/2002/570/`](hg/2002/570/) | in force | 1 | 2002-06-12 | 2002-06-12 |
+| Hotărârea Guvernului nr. 571/2002 privind aprobarea strategiei de privatizare a Societăţii Comerciale "Tractorul UTB" - S.A. Braşov, inclusă în cadrul PSAL (Programul pentru Ajustarea Sectorului Privat) - componenta "Privatizarea a 5 mari societăţi comerciale prin intermediul băncilor de investiţii" | [`hg/2002/571/`](hg/2002/571/) | amending act | 1 | 2002-06-12 | 2002-06-12 |
 | Hotărârea Guvernului nr. 573/2002 pentru aprobarea procedurilor de autorizare a funcționării comercianților | [`hg/2002/573/`](hg/2002/573/) | amending act | 1 | 2002-06-14 | 2002-06-14 |
 | Hotărârea Guvernului nr. 577/2002 | [`hg/2002/577/`](hg/2002/577/) | in force | 1 | 2002-06-21 | 2002-06-21 |
 | Hotărârea Guvernului nr. 579/2002 pentru aprobarea Memorandumului de înţelegere dintre Ministerul Apărării Naţionale din România şi Ministerul Apărării din Finlanda privind cooperarea militară, semnat la Helsinki la 11 martie 2002 | [`hg/2002/579/`](hg/2002/579/) | amending act | 1 | 2002-07-03 | 2002-07-03 |

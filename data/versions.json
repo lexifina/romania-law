@@ -327278,6 +327278,21 @@
    ]
   },
   {
+   "slug": "hg-561-2002",
+   "path": "hg/2002/561",
+   "short": "HG nr. 561/2002",
+   "title": "Hotărârea Guvernului nr. 561/2002 privind premierea sportivului Leonard Doroftei pentru păstrarea titlului de campion mondial la box profesionist în versiunea WBA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36488",
+   "versions": [
+    {
+     "from": "2002-06-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36488",
+     "sha256": "1e396345992bedfbce795c59f6fcf30a1b295dcf18a9791e5b383deb8073a539"
+    }
+   ]
+  },
+  {
    "slug": "hg-561-2004",
    "path": "hg/2004/561",
    "short": "HG nr. 561/2004",
@@ -327994,6 +328009,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23195",
      "sha256": "7e9005e0e6926dfe7428b9b09dd4da7efa0c63cc10913e269981511986fe3555"
+    }
+   ]
+  },
+  {
+   "slug": "hg-564-2002",
+   "path": "hg/2002/564",
+   "short": "HG nr. 564/2002",
+   "title": "Hotărârea Guvernului nr. 564/2002 pentru modificarea art. 1 din Hotărârea Guvernului nr. 754/2001 privind aprobarea garantării în proporţie de 100% a unor credite externe în valoare totală de maximum 50 milioane dolari S.U.A. în favoarea Societăţii Comerciale \"Distrigaz Sud\" - S.A. pentru plata achiziţiilor de gaze naturale necesare în vederea funcţionarii Sistemului naţional de gaze naturale, precum şi pentru garantarea acestor credite de Ministerul Finanţelor Publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36571",
+   "versions": [
+    {
+     "from": "2002-06-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36571",
+     "sha256": "be3c4f995cd9b890b1d2c650614f4aab315ef38f3a0ada60af4831a01441354b"
     }
    ]
   },
@@ -329912,6 +329942,21 @@
    ]
   },
   {
+   "slug": "hg-570-2002",
+   "path": "hg/2002/570",
+   "short": "HG nr. 570/2002",
+   "title": "Hotărârea Guvernului nr. 570/2002 privind stabilirea tarifului de licenţiere a Regiei Autonome \"Administraţia Română a Serviciilor de Trafic Aerian\" - ROMATSA pentru anul 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36613",
+   "versions": [
+    {
+     "from": "2002-06-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36613",
+     "sha256": "4e7cd6438f655c4ef8c49512f0589210ba96ef233897b3d362c729ccfeed7579"
+    }
+   ]
+  },
+  {
    "slug": "hg-570-2003",
    "path": "hg/2003/570",
    "short": "HG nr. 570/2003",
@@ -330208,6 +330253,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93115",
      "sha256": "cbe1d5e3c702768721658062a3d7f63f9374d8440883d6028dcbf882b250d261"
+    }
+   ]
+  },
+  {
+   "slug": "hg-571-2002",
+   "path": "hg/2002/571",
+   "short": "HG nr. 571/2002",
+   "title": "Hotărârea Guvernului nr. 571/2002 privind aprobarea strategiei de privatizare a Societăţii Comerciale \"Tractorul UTB\" - S.A. Braşov, inclusă în cadrul PSAL (Programul pentru Ajustarea Sectorului Privat) - componenta \"Privatizarea a 5 mari societăţi comerciale prin intermediul băncilor de investiţii\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36614",
+   "versions": [
+    {
+     "from": "2002-06-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36614",
+     "sha256": "4345e6c37d836f57ff47e1b5b515fcd288a028c6fd2d81dda575659f21c5299e"
     }
    ]
   },
@@ -527885,6 +527945,21 @@
    ]
   },
   {
+   "slug": "legea-337-2002",
+   "path": "lege/2002/337",
+   "short": "Legea nr. 337/2002",
+   "title": "Legea nr. 337/2002 privind respingerea Ordonanţei Guvernului nr. 30/2002 pentru prorogarea termenului prevăzut la art. 3 alin. (2) lit. b) din Ordonanţa de urgenţă a Guvernului nr. 149/2001 privind instituirea Tarifului intern de călători în transportul feroviar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36892",
+   "versions": [
+    {
+     "from": "2002-06-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36892",
+     "sha256": "e95ac25ff08bd6e37a1fe3a566ea7e3496cc570ef58bd2af1d3431484b568d18"
+    }
+   ]
+  },
+  {
    "slug": "legea-337-2003",
    "path": "lege/2003/337",
    "short": "Legea nr. 337/2003",
@@ -528148,6 +528223,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262529",
      "sha256": "4fe54d257510b8dbdaf7d9d75fcf8bc72ec0086d79ca4bf049001dc589a650a3"
+    }
+   ]
+  },
+  {
+   "slug": "legea-339-2002",
+   "path": "lege/2002/339",
+   "short": "Legea nr. 339/2002",
+   "title": "Legea nr. 339/2002 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 13/2002 pentru modificarea art. III din Ordonanţa de urgenţă a Guvernului nr. 163/2001 privind reglementarea unor măsuri financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36651",
+   "versions": [
+    {
+     "from": "2002-06-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36651",
+     "sha256": "e53c74d8307f959e2b7a68b8c005088d788df9c5177c20a6cac22c1038bb3639"
     }
    ]
   },
@@ -528640,6 +528730,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296333",
      "sha256": "467508ec67b260e48d47cde315c9c8d1da62240693d8ea9a1805bf2e396d6a50"
+    }
+   ]
+  },
+  {
+   "slug": "legea-340-2002",
+   "path": "lege/2002/340",
+   "short": "Legea nr. 340/2002",
+   "title": "Legea nr. 340/2002 privind respingerea Ordonanţei Guvernului nr. 100/2000 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 152/1999 privind produsele medicamentoase de uz uman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36689",
+   "versions": [
+    {
+     "from": "2002-06-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36689",
+     "sha256": "3d9358f0f82a95eb0dd09853483e082223bdefd32cf3506be016786f9af6ade9"
     }
    ]
   },
@@ -529634,6 +529739,21 @@
    ]
   },
   {
+   "slug": "legea-348-2002",
+   "path": "lege/2002/348",
+   "short": "Legea nr. 348/2002",
+   "title": "Legea nr. 348/2002 pentru respingerea Ordonanţei de urgenta a Guvernului nr. 161/2001 privind completarea Ordonanţei de urgenta a Guvernului nr. 121/2001 pentru suspendarea temporară a tuturor procedurilor referitoare la adopţiile internaţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36626",
+   "versions": [
+    {
+     "from": "2002-06-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36626",
+     "sha256": "5e9d8bb42bc2d92e07d41fccd980539cf9b79da0113f57bb4801cdd401b1aae6"
+    }
+   ]
+  },
+  {
    "slug": "legea-348-2004",
    "path": "lege/2004/348",
    "short": "Legea nr. 348/2004",
@@ -530312,6 +530432,21 @@
    ]
   },
   {
+   "slug": "legea-350-2002",
+   "path": "lege/2002/350",
+   "short": "Legea nr. 350/2002",
+   "title": "Legea nr. 350/2002 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 14/2002 pentru ratificarea Memorandumului de înţelegere dintre Guvernul României şi Organizaţia Naţiunilor Unite privind contribuţia cu resurse la unitatea specială de poliţie a Naţiunilor Unite din Kosovo, semnat la New York la 11 februarie 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36714",
+   "versions": [
+    {
+     "from": "2002-06-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36714",
+     "sha256": "d0ffb219714d03bb21b1e808c650b3f18d27d7e2be2799a9938fd3f9cad6dd25"
+    }
+   ]
+  },
+  {
    "slug": "legea-350-2004",
    "path": "lege/2004/350",
    "short": "Legea nr. 350/2004",
@@ -530425,6 +530560,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/276862",
      "sha256": "855b2715f4b478d3f0c61d47baa9d433fd6374f303bf943fa994e582c359d471"
+    }
+   ]
+  },
+  {
+   "slug": "legea-351-2002",
+   "path": "lege/2002/351",
+   "short": "Legea nr. 351/2002",
+   "title": "Legea nr. 351/2002 privind declararea oraşului Cugir Oraş-martir al Revoluţiei din decembrie 1989",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36716",
+   "versions": [
+    {
+     "from": "2002-06-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36716",
+     "sha256": "3b7251153d3df854fb1debaa65523f6011f182b531d49482bbfdb983e5ca41fe"
     }
    ]
   },
@@ -531536,6 +531686,21 @@
    ]
   },
   {
+   "slug": "legea-359-2002",
+   "path": "lege/2002/359",
+   "short": "Legea nr. 359/2002",
+   "title": "Legea nr. 359/2002 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 123/1999 privind unele măsuri de restructurare financiară a Băncii Române de Comerţ Exterior (Bancorex) - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36704",
+   "versions": [
+    {
+     "from": "2002-06-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36704",
+     "sha256": "84cb0637bb7d3571a05694a0e47f5842af5042901ce21b2a30af76ca22efa89e"
+    }
+   ]
+  },
+  {
    "slug": "legea-359-2003",
    "path": "lege/2003/359",
    "short": "Legea nr. 359/2003",
@@ -532087,6 +532252,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29522",
      "sha256": "ba268f60e46bd0763f6a564d6d51c07d49609373d4fca025368766ea6b74ecee"
+    }
+   ]
+  },
+  {
+   "slug": "legea-361-2002",
+   "path": "lege/2002/361",
+   "short": "Legea nr. 361/2002",
+   "title": "Legea nr. 361/2002 pentru respingerea Ordonanţei Guvernului nr. 23/1999 privind constituirea fondurilor de garantare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36658",
+   "versions": [
+    {
+     "from": "2002-06-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36658",
+     "sha256": "0f769de5896156569fcce0a3429c8e73243540cf30ad20a58f4fecf1f01c5fce"
     }
    ]
   },
@@ -532660,6 +532840,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29542",
      "sha256": "855500438bbc4300bf1aa07d56b25391be9260bff43c27ed9596b8619dc8a6ad"
+    }
+   ]
+  },
+  {
+   "slug": "legea-366-2002",
+   "path": "lege/2002/366",
+   "short": "Legea nr. 366/2002",
+   "title": "Legea nr. 366/2002 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 154/2001 pentru modificarea şi completarea Legii nr. 1/1998 privind organizarea şi funcţionarea Serviciului de Informaţii Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37025",
+   "versions": [
+    {
+     "from": "2002-07-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37025",
+     "sha256": "612d2a9f82680d85a5c49cf68287acc3f423659f9f40728cdbca5605ecd8820a"
     }
    ]
   },
