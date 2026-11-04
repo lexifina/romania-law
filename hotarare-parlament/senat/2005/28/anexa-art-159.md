@@ -1,0 +1,2 @@
+# Anexa: Articolul 159
+În plenul Senatului nu pot fi formulate întrebări care privesc probleme de interes personal sau particular, întrebări care se referă la procese aflate pe rolul instanțelor judecătorești ori care pot afecta soluționarea unor cauze aflate în curs de judecată, care urmăresc în exclusivitate obținerea unei consultații juridice sau tehnice ori care privesc activitatea unor persoane care nu îndeplinesc funcții publice.

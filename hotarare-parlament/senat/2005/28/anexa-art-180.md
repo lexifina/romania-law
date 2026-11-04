@@ -1,0 +1,2 @@
+# Anexa: Articolul 180
+Locul vacant va fi ocupat de către supleantul imediat următor de pe lista partidului, formațiunii politice ori alianței acestora, dacă până la data validării mandatului partidul sau formațiunea politică pentru care a candidat confirmă în scris că aparține acesteia. Asupra legalității alegerii supleantului Comisia juridică, de numiri, disciplină, imunități și validări va prezenta Senatului un raport.

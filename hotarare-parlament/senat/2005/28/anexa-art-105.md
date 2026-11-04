@@ -1,0 +1,2 @@
+# Anexa: Articolul 105
+Dacă din dezbaterile desfășurate în condițiile art. 102 rezultă necesitatea reexaminării de către comisia sesizată în fond a unor texte, oricare senator poate propune, iar plenul decide, prin votul deschis al majorității senatorilor prezenți, suspendarea dezbaterilor și trimiterea spre reexaminare a textelor în discuție, comisia pronunțându-se de urgență, prin raport suplimentar.

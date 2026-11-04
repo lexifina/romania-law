@@ -1,0 +1,2 @@
+# Anexa: Articolul 49
+Componența membrilor birourilor comisiilor pe grupuri parlamentare se stabilește prin negocieri între reprezentanții acestora, astfel încât să se respecte configurația politică a Senatului rezultată din alegeri, precum și principiul consacrat de art. 16 alin. (3) teza a doua din Constituția României, republicată. Componența astfel stabilită se supune votului plenului Senatului.

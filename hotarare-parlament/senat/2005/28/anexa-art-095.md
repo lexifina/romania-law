@@ -1,0 +1,2 @@
+# Anexa: Articolul 95
+Proiectele de lege sau propunerile legislative, avizate potrivit art. 92 și 94, se supun dezbaterii Senatului în succesiunea prevăzută pe ordinea de zi aprobată de acesta. Înscrierea pe ordinea de zi a proiectelor de lege și a propunerilor legislative se face în cel mult 5 zile de la depunerea raportului comisiei permanente sesizate în fond, în cazul în care Senatul este prima Cameră sesizată, și în cel mult 10 zile, în celelalte situații prevăzute la art. 75 din Constituția României, republicată.
