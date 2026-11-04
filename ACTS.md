@@ -1,6 +1,6 @@
 # Every act in this repository
 
-24931 acts, 38,565 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+24938 acts, 38,572 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6052,7 +6052,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (18888, of which 9601 amending acts)
+## Government decisions (HG) (18895, of which 9603 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6644,7 +6644,14 @@
 | Hotărârea Guvernului nr. 1401/2005 pentru aprobarea Regulamentului de organizare și funcționare a Institutului Național de Cercetare-Dezvoltare pentru Tehnologii Izotopice și Moleculare - I.N.C.D.T.I.M. Cluj-Napoca | [`hg/2005/1401/`](hg/2005/1401/) | amending act | 1 | 2005-12-29 | 2005-12-29 |
 | Hotărârea Guvernului nr. 1436/2005 | [`hg/2005/1436/`](hg/2005/1436/) | in force | 1 | 2005-11-25 | 2005-11-25 |
 | Hotărârea Guvernului nr. 1449/2005 | [`hg/2005/1449/`](hg/2005/1449/) | in force | 7 | 2005-12-07 | 2012-12-11 |
+| Hotărârea Guvernului nr. 1464/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Harghita | [`hg/2005/1464/`](hg/2005/1464/) | in force | 1 | 2005-11-30 | 2005-11-30 |
+| Hotărârea Guvernului nr. 1465/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Argeş | [`hg/2005/1465/`](hg/2005/1465/) | in force | 1 | 2005-11-30 | 2005-11-30 |
 | Hotărârea Guvernului nr. 1469/2005 | [`hg/2005/1469/`](hg/2005/1469/) | in force | 1 | 2005-12-08 | 2005-12-08 |
+| Hotărârea Guvernului nr. 1475/2005 privind transmiterea unui imobil din domeniul privat al statului şi din administrarea Regiei Autonome de Transport Timişoara în domeniul public al municipiului Timişoara şi în administrarea Consiliului Local al Municipiului Timişoara, judeţul Timiş | [`hg/2005/1475/`](hg/2005/1475/) | in force | 1 | 2005-12-07 | 2005-12-07 |
+| Hotărârea Guvernului nr. 1476/2005 privind darea în folosinţă gratuită a unui spaţiu din imobilul, proprietate privată a statului, aflat în administrarea Regiei Autonome "Administraţia Patrimoniului Protocolului de Stat", Asociaţiei Române pentru Transparenţă | [`hg/2005/1476/`](hg/2005/1476/) | in force | 1 | 2005-12-06 | 2005-12-06 |
+| Hotărârea Guvernului nr. 1477/2005 pentru aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2005 al Administraţiei Naţionale a Îmbunătăţirilor Funciare, aflată sub autoritatea Ministerului Agriculturii, Pădurilor şi Dezvoltării Rurale | [`hg/2005/1477/`](hg/2005/1477/) | amending act | 1 | 2005-12-05 | 2005-12-05 |
+| Hotărârea Guvernului nr. 1479/2005 privind autorizarea Ministerului Mediului şi Gospodăririi Apelor de a atribui un contract de achiziţie publică, finanţat din împrumuturi de stat externe pentru realizarea Sistemului informaţional integrat de gospodărire a apelor - WATMAN - etapa întâi | [`hg/2005/1479/`](hg/2005/1479/) | in force | 1 | 2005-12-08 | 2005-12-08 |
+| Hotărârea Guvernului nr. 1480/2005 pentru aprobarea contribuţiei voluntare anuale a României la bugetul Programului Naţiunilor Unite pentru Mediu (UNEP) pe anii 2005, 2006 şi 2007 | [`hg/2005/1480/`](hg/2005/1480/) | amending act | 1 | 2005-12-14 | 2005-12-14 |
 | Hotărârea Guvernului nr. 1481/2005 | [`hg/2005/1481/`](hg/2005/1481/) | in force | 2 | 2005-12-05 | 2008-01-11 |
 | Hotărârea Guvernului nr. 1482/2005 privind transmiterea unor sectoare de drumuri naţionale din domeniul public al statului şi din administrarea Ministerului Transporturilor, Construcţiilor şi Turismului în domeniul public al municipiului Botoşani şi în administrarea Consiliului Local al Municipiului Botoşani, judeţul Botoşani | [`hg/2005/1482/`](hg/2005/1482/) | in force | 1 | 2005-12-20 | 2005-12-20 |
 | Hotărârea Guvernului nr. 1483/2005 pentru modificarea Hotărârii Guvernului nr. 326/2005 privind repartizarea pe unităţi administrativ-teritoriale a sumelor defalcate din taxa pe valoarea adăugată pentru retehnologizarea, modernizarea şi dezvoltarea sistemelor centralizate de producere şi distribuţie a energiei termice | [`hg/2005/1483/`](hg/2005/1483/) | amending act | 1 | 2005-12-14 | 2005-12-14 |
