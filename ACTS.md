@@ -1,6 +1,6 @@
 # Every act in this repository
 
-23442 acts, 37,075 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+23453 acts, 37,086 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3588, of which 2059 amending acts)
+## Laws (legi) (3589, of which 2060 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -695,6 +695,7 @@
 | Legea nr. 467/2006 | [`lege/2006/467/`](lege/2006/467/) | in force | 2 | 2007-01-01 | 2018-06-17 |
 | Legea nr. 474/2006 privind aprobarea Ordonanței de urgență a Guvernului nr. 39/2006 pentru modificarea și completarea Legii Arhivelor Naționale nr. 16/1996 | [`lege/2006/474/`](lege/2006/474/) | amending act | 1 | 2006-12-24 | 2006-12-24 |
 | Legea nr. 482/2006 | [`lege/2006/482/`](lege/2006/482/) | repealed 2010-07-03 | 3 | 2007-01-01 | 2010-07-03 |
+| Legea nr. 485/2006 privind modificarea alin. (3) al art. II din Ordonanţa Guvernului nr. 33/1996 pentru îmbunătăţirea regimului de impunere şi de utilizare a taxelor consulare încasate, în străinătate, de către reprezentanţele diplomatice ale României | [`lege/2006/485/`](lege/2006/485/) | amending act | 1 | 2006-12-30 | 2006-12-30 |
 | Legea nr. 489/2006 | [`lege/2006/489/`](lege/2006/489/) | in force | 5 | 2007-01-11 | 2014-05-26 |
 | Legea nr. 490/2006 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 68/2004 privind unele măsuri în domeniul învăţământului şi a Ordonanţei de urgenţă a Guvernului nr. 196/2002 privind creşterile salariale ce se vor acorda în anii 2003 şi 2004 personalului din învăţământ, salarizat potrivit Ordonanţei de urgenţă a Guvernului nr. 8/2000 pentru modificarea şi completarea Legii nr. 128/1997 privind Statutul personalului didactic, referitor la stabilirea salariului de bază al personalului din învăţământ, şi pentru abrogarea unor dispoziţii din Legea nr. 154/1998 privind sistemul de stabilire a salariilor de bază în sectorul bugetar şi a indemnizaţiilor pentru persoane care ocupă funcţii de demnitate publică | [`lege/2006/490/`](lege/2006/490/) | amending act | 1 | 2007-01-01 | 2007-01-01 |
 | Legea nr. 493/2006 privind aprobarea Ordonanţei Guvernului nr. 32/2006 pentru modificarea art. 4 din Legea nr. 597/2001 privind unele măsuri de protecţie şi autorizare a construcţiilor în zona de coastă a Mării Negre | [`lege/2006/493/`](lege/2006/493/) | amending act | 1 | 2007-01-08 | 2007-01-08 |
@@ -3626,7 +3627,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (1726, of which 606 amending acts)
+## Emergency ordinances (OUG) (1728, of which 608 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3967,6 +3968,7 @@
 | Ordonanța de urgență a Guvernului nr. 99/2006 privind instituțiile de credit și adecvarea capitalului | [`oug/2006/99/`](oug/2006/99/) | in force | 31 | 2007-01-01 | 2026-03-05 |
 | Ordonanța de urgență a Guvernului nr. 100/2006 privind transmiterea unor părți dintr-un imobil proprietate privată a statului din administrarea Societății Comerciale ”Compania Națională de Transporturi Aeriene Române - TAROM” - S.A. în administrarea Companiei Naționale de Investiții ”C.N.I.” - S.A. | [`oug/2006/100/`](oug/2006/100/) | in force | 2 | 2006-12-27 | 2007-05-13 |
 | Ordonanța de urgență a Guvernului nr. 111/2006 | [`oug/2006/111/`](oug/2006/111/) | in force | 2 | 2006-12-27 | 2007-10-12 |
+| Ordonanța de urgență a Guvernului nr. 112/2006 privind abrogarea Ordonanţei Guvernului nr. 6/1997 pentru aprobarea menţinerii valorii cotei de participare a României la capitalul Băncii Internaţionale pentru Reconstrucţie şi Dezvoltare, vărsată în monedă naţională şi existentă în contul Băncii Internaţionale pentru Reconstrucţie şi Dezvoltare la Banca Naţională a României la data de 30 iunie a fiecărui an precedent | [`oug/2006/112/`](oug/2006/112/) | amending act | 1 | 2006-12-27 | 2006-12-27 |
 | Ordonanța de urgență a Guvernului nr. 113/2006 privind înființarea Fondului național de dezvoltare | [`oug/2006/113/`](oug/2006/113/) | in force | 3 | 2006-12-27 | 2010-07-19 |
 | Ordonanța de urgență a Guvernului nr. 116/2006 | [`oug/2006/116/`](oug/2006/116/) | in force | 7 | 2007-02-01 | 2011-04-14 |
 | Ordonanța de urgență a Guvernului nr. 117/2006 | [`oug/2006/117/`](oug/2006/117/) | in force | 2 | 2007-01-01 | 2007-05-27 |
@@ -3979,6 +3981,7 @@
 | Ordonanța de urgență a Guvernului nr. 126/2006 | [`oug/2006/126/`](oug/2006/126/) | in force | 2 | 2006-12-28 | 2007-06-15 |
 | Ordonanța de urgență a Guvernului nr. 128/2006 | [`oug/2006/128/`](oug/2006/128/) | in force | 1 | 2006-12-28 | 2006-12-28 |
 | Ordonanța de urgență a Guvernului nr. 129/2006 | [`oug/2006/129/`](oug/2006/129/) | in force | 2 | 2007-01-01 | 2007-05-28 |
+| Ordonanța de urgență a Guvernului nr. 132/2006 pentru prorogarea şi modificarea unor termene prevăzute în Legea recunoştinţei faţă de eroii-martiri şi luptătorii care au contribuit la victoria Revoluţiei române din decembrie 1989 nr. 341/2004 | [`oug/2006/132/`](oug/2006/132/) | amending act | 1 | 2006-12-28 | 2006-12-28 |
 | Ordonanța de urgență a Guvernului nr. 133/2006 | [`oug/2006/133/`](oug/2006/133/) | repealed 2011-09-26 | 6 | 2006-12-28 | 2011-09-26 |
 | Ordonanța de urgență a Guvernului nr. 11/2007 | [`oug/2007/11/`](oug/2007/11/) | in force | 2 | 2007-03-05 | 2007-06-23 |
 | Ordonanța de urgență a Guvernului nr. 12/2007 | [`oug/2007/12/`](oug/2007/12/) | in force | 1 | 2007-03-02 | 2007-03-02 |
@@ -5890,7 +5893,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (17561, of which 9131 amending acts)
+## Government decisions (HG) (17569, of which 9132 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6596,6 +6599,14 @@
 | Hotărârea Guvernului nr. 1705/2006 | [`hg/2006/1705/`](hg/2006/1705/) | in force | 4 | 2006-12-21 | 2024-10-07 |
 | Hotărârea Guvernului nr. 1739/2006 | [`hg/2006/1739/`](hg/2006/1739/) | in force | 2 | 2006-12-13 | 2014-02-19 |
 | Hotărârea Guvernului nr. 1756/2006 | [`hg/2006/1756/`](hg/2006/1756/) | in force | 1 | 2007-01-22 | 2007-01-22 |
+| Hotărârea Guvernului nr. 1815/2006 privind transmiterea fără plată a unui imobil din domeniul public al statului şi din administrarea Serviciului Român de Informaţii în domeniul public al oraşului Pucioasa şi în administrarea Consiliului Local al Oraşului Pucioasa | [`hg/2006/1815/`](hg/2006/1815/) | in force | 1 | 2007-01-08 | 2007-01-08 |
+| Hotărârea Guvernului nr. 1817/2006 privind transmiterea unor imobile din domeniul public al statului şi din administrarea Agenţiei Naţionale pentru Sport - Direcţia pentru Sport a Judeţului Timiş în domeniul public al municipiului Timişoara şi în administrarea Consiliului Local al Municipiului Timişoara | [`hg/2006/1817/`](hg/2006/1817/) | in force | 1 | 2007-01-08 | 2007-01-08 |
+| Hotărârea Guvernului nr. 1822/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru asigurarea unor cheltuieli curente şi de capital ale autorităţilor administraţiei publice locale | [`hg/2006/1822/`](hg/2006/1822/) | in force | 1 | 2006-12-22 | 2006-12-22 |
+| Hotărârea Guvernului nr. 1824/2006 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru finanţarea unor cheltuieli curente pentru unele judeţe | [`hg/2006/1824/`](hg/2006/1824/) | in force | 1 | 2006-12-22 | 2006-12-22 |
+| Hotărârea Guvernului nr. 1826/2006 pentru aprobarea rectificării bugetului de venituri şi cheltuieli pe anul 2006 al Companiei Naţionale "Loteria Română" - S.A., aflată sub autoritatea Ministerului Finanţelor Publice | [`hg/2006/1826/`](hg/2006/1826/) | amending act | 1 | 2006-12-27 | 2006-12-27 |
+| Hotărârea Guvernului nr. 1827/2006 privind suplimentarea bugetului Ministerului Economiei şi Comerţului din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006 | [`hg/2006/1827/`](hg/2006/1827/) | in force | 1 | 2006-12-22 | 2006-12-22 |
+| Hotărârea Guvernului nr. 1829/2006 privind suplimentarea bugetului Ministerului Transporturilor, Construcţiilor şi Turismului din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006 | [`hg/2006/1829/`](hg/2006/1829/) | in force | 1 | 2006-12-22 | 2006-12-22 |
+| Hotărârea Guvernului nr. 1830/2006 privind reglementarea unor probleme financiare în activitatea sportivă | [`hg/2006/1830/`](hg/2006/1830/) | in force | 1 | 2006-12-22 | 2006-12-22 |
 | Hotărârea Guvernului nr. 1834/2006 pentru aprobarea plăţii din bugetul Ministerului Administraţiei şi Internelor a contravalorii cheltuielilor legate de participarea a 4 reprezentanţi ai Inspectoratului General al Poliţiei de Frontieră la Misiunea de asistenţă a Uniunii Europene la punctul de trecere a frontierei de la Rafah, dintre Fâşia Gaza şi Egipt | [`hg/2006/1834/`](hg/2006/1834/) | amending act | 1 | 2006-12-28 | 2006-12-28 |
 | Hotărârea Guvernului nr. 1836/2006 privind suplimentarea plafonului maxim în limita căruia Regia Autonomă pentru Activităţi Nucleare va face compensări în anul 2006 | [`hg/2006/1836/`](hg/2006/1836/) | in force | 1 | 2006-12-27 | 2006-12-27 |
 | Hotărârea Guvernului nr. 1837/2006 privind alocarea unei sume din Fondul de intervenţie la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru înlăturarea efectelor calamităţilor naturale produse în judeţele Ialomiţa şi Neamţ | [`hg/2006/1837/`](hg/2006/1837/) | in force | 1 | 2006-12-22 | 2006-12-22 |
