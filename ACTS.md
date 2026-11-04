@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38517 acts, 52,270 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38525 acts, 52,278 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -12004,7 +12004,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (26479, of which 12381 amending acts)
+## Government decisions (HG) (26487, of which 12386 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13109,6 +13109,14 @@
 | Hotărârea Guvernului nr. 974/2001 | [`hg/2001/974/`](hg/2001/974/) | in force | 1 | 2001-10-18 | 2001-10-18 |
 | Hotărârea Guvernului nr. 1028/2001 privind modificarea art. 8 din Normele metodologice pentru aplicarea Ordonanţei de urgenţă a Guvernului nr. 24/1998 privind regimul zonelor defavorizate, republicată, cu modificările ulterioare, aprobate prin Hotărârea Guvernului nr. 728/2001 | [`hg/2001/1028/`](hg/2001/1028/) | amended, not consolidated | 1 | 2001-10-25 | 2001-10-25 |
 | Hotărârea Guvernului nr. 1032/2001 privind stabilirea condiţiilor de introducere pe piaţa şi de funcţionare a aparatelor electrice şi electronice din punct de vedere al compatibilităţii electromagnetice | [`hg/2001/1032/`](hg/2001/1032/) | amended, not consolidated | 1 | 2002-01-01 | 2002-01-01 |
+| Hotărârea Guvernului nr. 1035/2001 pentru aprobarea Protocolului de cooperare dintre ministrul de interne al României şi ministrul de interne al Regatului Belgiei, semnat la Bucureşti la 25 iunie 2001 | [`hg/2001/1035/`](hg/2001/1035/) | amending act | 1 | 2001-10-31 | 2001-10-31 |
+| Hotărârea Guvernului nr. 1036/2001 pentru aprobarea Protocolului de intenţii dintre Ministerul de Interne din România şi Agenţia Federala pentru Managementul Situaţiilor de Urgenta din Statele Unite ale Americii privind cooperarea în domeniul prevenirii şi intervenţiei în cazul situaţiilor de urgenta de origine naturala sau tehnologică, semnat la Bucureşti la 22 ianuarie 2001 | [`hg/2001/1036/`](hg/2001/1036/) | amending act | 1 | 2001-10-31 | 2001-10-31 |
+| Hotărârea Guvernului nr. 1038/2001 pentru modificarea anexei la Hotărârea Guvernului nr. 226/2001 privind numirea reprezentanţilor Guvernului în Consiliul Economic şi Social | [`hg/2001/1038/`](hg/2001/1038/) | amending act | 1 | 2001-10-29 | 2001-10-29 |
+| Hotărârea Guvernului nr. 1039/2001 pentru abrogarea Hotărârii Guvernului nr. 212/1999 privind îndeplinirea de către România a obligaţiilor rezultând din paragraful 8 al Rezoluţiei nr. 1.160 (1998) a Consiliului de Securitate al O.N.U | [`hg/2001/1039/`](hg/2001/1039/) | amending act | 1 | 2001-10-29 | 2001-10-29 |
+| Hotărârea Guvernului nr. 1040/2001 privind stabilirea cuantumului alocaţiei de stat pentru copii | [`hg/2001/1040/`](hg/2001/1040/) | in force | 1 | 2001-10-29 | 2001-10-29 |
+| Hotărârea Guvernului nr. 1041/2001 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2001, pentru finanţarea cheltuielilor ocazionate de desfăşurarea Exerciţiului internaţional de urgenţă nucleara "AXIOPOLIS 2001" | [`hg/2001/1041/`](hg/2001/1041/) | in force | 1 | 2001-10-29 | 2001-10-29 |
+| Hotărârea Guvernului nr. 1042/2001 privind modificarea art. 10 din Hotărârea Guvernului nr. 561/2001 pentru aprobarea programelor de sănătate finanţate în anul 2001 din bugetul Ministerului Sănătăţii şi Familiei şi din bugetul Fondului de asigurări sociale de sănătate | [`hg/2001/1042/`](hg/2001/1042/) | amending act | 1 | 2001-10-29 | 2001-10-29 |
+| Hotărârea Guvernului nr. 1045/2001 privind recuperarea onorariilor de succes plătite consultanţilor de către Autoritatea pentru Privatizare şi Administrarea Participaţiilor Statului în cadrul Programului pentru Ajustarea Sectorului Privat (PSAL) | [`hg/2001/1045/`](hg/2001/1045/) | in force | 1 | 2001-10-29 | 2001-10-29 |
 | Hotărârea Guvernului nr. 1046/2001 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului pe anul 2001 pentru finanţarea continuării lucrărilor la "Biserica Sfântul Ştefan a Martirilor din Decembrie 1989" din Timişoara | [`hg/2001/1046/`](hg/2001/1046/) | in force | 1 | 2001-10-29 | 2001-10-29 |
 | Hotărârea Guvernului nr. 1047/2001 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2001, pentru finanţarea obiectivului de investiţii "Extindere centrala termica comuna Măgurele, judeţul Ilfov" | [`hg/2001/1047/`](hg/2001/1047/) | in force | 1 | 2001-10-29 | 2001-10-29 |
 | Hotărârea Guvernului nr. 1048/2001 pentru aprobarea programului "Constituirea Fondului naţional de garantare a creditelor pentru întreprinderile mici şi mijlocii" finanţat din bugetul Ministerului pentru Întreprinderile Mici şi Mijlocii şi Cooperaţie pe anul 2001 | [`hg/2001/1048/`](hg/2001/1048/) | amended, not consolidated | 1 | 2001-10-29 | 2001-10-29 |
