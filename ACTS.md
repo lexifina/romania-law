@@ -1,6 +1,6 @@
 # Every act in this repository
 
-24846 acts, 38,480 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+24864 acts, 38,498 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6039,7 +6039,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (18816, of which 9595 amending acts)
+## Government decisions (HG) (18834, of which 9596 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6634,6 +6634,24 @@
 | Hotărârea Guvernului nr. 1469/2005 | [`hg/2005/1469/`](hg/2005/1469/) | in force | 1 | 2005-12-08 | 2005-12-08 |
 | Hotărârea Guvernului nr. 1481/2005 | [`hg/2005/1481/`](hg/2005/1481/) | in force | 2 | 2005-12-05 | 2008-01-11 |
 | Hotărârea Guvernului nr. 1514/2005 | [`hg/2005/1514/`](hg/2005/1514/) | in force | 1 | 2005-12-09 | 2005-12-09 |
+| Hotărârea Guvernului nr. 1548/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Bihor | [`hg/2005/1548/`](hg/2005/1548/) | in force | 1 | 2005-12-12 | 2005-12-12 |
+| Hotărârea Guvernului nr. 1549/2005 privind suplimentarea bugetului Serviciului Român de Informaţii din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005 | [`hg/2005/1549/`](hg/2005/1549/) | in force | 1 | 2005-12-12 | 2005-12-12 |
+| Hotărârea Guvernului nr. 1550/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Braşov | [`hg/2005/1550/`](hg/2005/1550/) | in force | 1 | 2005-12-12 | 2005-12-12 |
+| Hotărârea Guvernului nr. 1551/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Maramureş | [`hg/2005/1551/`](hg/2005/1551/) | in force | 1 | 2005-12-12 | 2005-12-12 |
+| Hotărârea Guvernului nr. 1552/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Braşov | [`hg/2005/1552/`](hg/2005/1552/) | in force | 1 | 2005-12-12 | 2005-12-12 |
+| Hotărârea Guvernului nr. 1553/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Galaţi | [`hg/2005/1553/`](hg/2005/1553/) | in force | 1 | 2005-12-12 | 2005-12-12 |
+| Hotărârea Guvernului nr. 1554/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Bihor | [`hg/2005/1554/`](hg/2005/1554/) | in force | 1 | 2005-12-12 | 2005-12-12 |
+| Hotărârea Guvernului nr. 1555/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Cluj | [`hg/2005/1555/`](hg/2005/1555/) | in force | 1 | 2005-12-12 | 2005-12-12 |
+| Hotărârea Guvernului nr. 1556/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Maramureş | [`hg/2005/1556/`](hg/2005/1556/) | in force | 1 | 2005-12-12 | 2005-12-12 |
+| Hotărârea Guvernului nr. 1557/2005 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, pentru judeţul Galaţi | [`hg/2005/1557/`](hg/2005/1557/) | in force | 1 | 2005-12-12 | 2005-12-12 |
+| Hotărârea Guvernului nr. 1558/2005 privind suplimentarea bugetului Cancelariei Primului-Ministru pentru Autoritatea Naţională pentru Protecţia Consumatorilor, din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005 | [`hg/2005/1558/`](hg/2005/1558/) | in force | 1 | 2005-12-12 | 2005-12-12 |
+| Hotărârea Guvernului nr. 1559/2005 privind suplimentarea bugetului Secretariatului General al Guvernului din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005, în vederea reabilitării "Monumentului Eroilor" situat în Parcul Carol din municipiul Bucureşti | [`hg/2005/1559/`](hg/2005/1559/) | in force | 1 | 2005-12-12 | 2005-12-12 |
+| Hotărârea Guvernului nr. 1560/2005 privind suplimentarea bugetului Cancelariei Primului-Ministru din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2005 | [`hg/2005/1560/`](hg/2005/1560/) | in force | 1 | 2005-12-12 | 2005-12-12 |
+| Hotărârea Guvernului nr. 1563/2005 privind suplimentarea bugetului Ministerului Educaţiei şi Cercetării din Fondul de rezervă bugetară la dispoziţia Guvernului pe anul 2005 | [`hg/2005/1563/`](hg/2005/1563/) | in force | 1 | 2005-12-12 | 2005-12-12 |
+| Hotărârea Guvernului nr. 1565/2005 privind transmiterea, fără plată, a unui imobil, proprietate publică a statului, din administrarea Academiei Române în administrarea Ministerului Educaţiei şi Cercetării pentru Universitatea "Ştefan cel Mare" din Suceava | [`hg/2005/1565/`](hg/2005/1565/) | in force | 1 | 2005-12-14 | 2005-12-14 |
+| Hotărârea Guvernului nr. 1566/2005 pentru modificarea anexei nr. 1 la Hotărârea Guvernului nr. 584/2005 privind finanţarea unităţilor sanitare din sistemul de apărare, ordine publică, siguranţă naţională şi autoritate judecătorească | [`hg/2005/1566/`](hg/2005/1566/) | amending act | 1 | 2005-12-14 | 2005-12-14 |
+| Hotărârea Guvernului nr. 1567/2005 privind trecerea unui imobil din domeniul public al statului şi din administrarea Serviciului Român de Informaţii în domeniul privat al statului şi în administrarea Regiei Autonome "Rasirom" | [`hg/2005/1567/`](hg/2005/1567/) | in force | 1 | 2005-12-14 | 2005-12-14 |
+| Hotărârea Guvernului nr. 1568/2005 privind transmiterea unor terenuri din domeniul privat şi public al statului, în suprafaţă totală de 952,90 ha, şi din administrarea Agenţiei Domeniilor Statului în fondul forestier proprietate publică a statului şi în administrarea Regiei Naţionale a Pădurilor - Romsilva | [`hg/2005/1568/`](hg/2005/1568/) | in force | 1 | 2005-12-19 | 2005-12-19 |
 | Hotărârea Guvernului nr. 1569/2005 privind trecerea din domeniul public al statului în domeniul privat al acestuia a unor construcţii aflate în administrarea Ministerului Apărării Naţionale | [`hg/2005/1569/`](hg/2005/1569/) | in force | 1 | 2005-12-14 | 2005-12-14 |
 | Hotărârea Guvernului nr. 1571/2005 privind aprobarea efectuării concedierilor colective, în temeiul prevederilor Ordonanţei de urgenţă a Guvernului nr. 8/2003 privind stimularea procesului de restructurare, reorganizare şi privatizare a unor societăţi naţionale, companii naţionale şi societăţi comerciale cu capital majoritar de stat, precum şi a societăţilor comerciale şi regiilor autonome subordonate autorităţilor administraţiei publice locale, de către Societatea Comercială "Drumuri şi Poduri Sălaj" - S.A | [`hg/2005/1571/`](hg/2005/1571/) | amending act | 1 | 2005-12-14 | 2005-12-14 |
 | Hotărârea Guvernului nr. 1572/2005 pentru aprobarea închirierii unei părţi dintr-un imobil aflat în domeniul public al statului | [`hg/2005/1572/`](hg/2005/1572/) | amending act | 1 | 2005-12-14 | 2005-12-14 |
