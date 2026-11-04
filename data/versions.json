@@ -590801,6 +590801,21 @@
    ]
   },
   {
+   "slug": "legea-729-2001",
+   "path": "lege/2001/729",
+   "short": "Legea nr. 729/2001",
+   "title": "Legea nr. 729/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 120/1999 privind unele măsuri de restructurare financiară a Băncii Agricole - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32843",
+   "versions": [
+    {
+     "from": "2001-12-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32843",
+     "sha256": "f9bdc5243a90f72450513ad6f44cec03807cfcd0a4a35bab612543194d7d7340"
+    }
+   ]
+  },
+  {
    "slug": "legea-73-1996",
    "path": "lege/1996/73",
    "short": "Legea nr. 73/1996",
@@ -591101,6 +591116,21 @@
    ]
   },
   {
+   "slug": "legea-731-2001",
+   "path": "lege/2001/731",
+   "short": "Legea nr. 731/2001",
+   "title": "Legea nr. 731/2001 pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 65/1999 privind salarizarea personalului Agenţiei de Valorificare a Activelor Bancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32847",
+   "versions": [
+    {
+     "from": "2001-12-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32847",
+     "sha256": "a53f728051108bc427634c82f902c0ed78ab78eb66802fa82b2c6b1bb2859166"
+    }
+   ]
+  },
+  {
    "slug": "legea-732-2001",
    "path": "lege/2001/732",
    "short": "Legea nr. 732/2001",
@@ -591112,6 +591142,66 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32853",
      "sha256": "1f103a35b08da9b3dc7056cc5d6cc1bcd7001c2a913bbb5c4c1e37095dde7705"
+    }
+   ]
+  },
+  {
+   "slug": "legea-733-2001",
+   "path": "lege/2001/733",
+   "short": "Legea nr. 733/2001",
+   "title": "Legea nr. 733/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 283/2000 privind aprobarea majorării participării statului la capitalul social al Societăţii de Strategie pentru Piaţa de Gros - S.R.L. Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32855",
+   "versions": [
+    {
+     "from": "2001-12-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32855",
+     "sha256": "cb54c9f2e573afd1bf44aa17e70b9df4b7231b0b7db2e2bfefb0052801fcbece"
+    }
+   ]
+  },
+  {
+   "slug": "legea-735-2001",
+   "path": "lege/2001/735",
+   "short": "Legea nr. 735/2001",
+   "title": "Legea nr. 735/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 71/2001 privind modificarea anexei nr. 2 la Ordonanţa de urgenţă a Guvernului nr. 8/2000 pentru modificarea şi completarea Legii nr. 128/1997 privind Statutul personalului didactic, referitor la stabilirea salariului de baza al personalului din învăţământ, şi pentru abrogarea unor dispoziţii din Legea nr. 154/1998 privind sistemul de stabilire a salariilor de baza în sectorul bugetar şi a indemnizaţiilor pentru persoane care ocupa funcţii de demnitate publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32797",
+   "versions": [
+    {
+     "from": "2001-12-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32797",
+     "sha256": "b4fe49adf40fc0320e0c5c425e03ca19931b85ebcbbeccf8ffe9fd1a965c3d0e"
+    }
+   ]
+  },
+  {
+   "slug": "legea-736-2001",
+   "path": "lege/2001/736",
+   "short": "Legea nr. 736/2001",
+   "title": "Legea nr. 736/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 163/1999 privind unele măsuri pentru completarea şi modificarea cadrului juridic referitor la regimul de administrare, restructurarea financiară şi operaţională a Băncii Agricole - S.A. în vederea privatizării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32791",
+   "versions": [
+    {
+     "from": "2001-12-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32791",
+     "sha256": "5482f0e3dfb3fe1569016aacb45c877f3c01d9361f97c656cfaf3767ae17fe67"
+    }
+   ]
+  },
+  {
+   "slug": "legea-737-2001",
+   "path": "lege/2001/737",
+   "short": "Legea nr. 737/2001",
+   "title": "Legea nr. 737/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 86/2001 pentru modificarea art. 14 alin. (1) lit. e) din Ordonanţa Guvernului nr. 65/1997 privind regimul paşapoartelor în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32793",
+   "versions": [
+    {
+     "from": "2001-12-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32793",
+     "sha256": "1464b9f23161afa540935147260ef43a3caa958621763a9228e047da5d70e253"
     }
    ]
   },

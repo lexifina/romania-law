@@ -1,6 +1,6 @@
 # Every act in this repository
 
-38321 acts, 52,073 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+38327 acts, 52,079 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8003, of which 2848 amending acts)
+## Laws (legi) (8009, of which 2854 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1114,8 +1114,14 @@
 | Legea nr. 713/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 206/2000 pentru modificarea şi completarea Legii învăţământului nr. 84/1995 | [`lege/2001/713/`](lege/2001/713/) | amended, not consolidated | 1 | 2001-12-14 | 2001-12-14 |
 | Legea nr. 719/2001 pentru aprobarea Ordonanţei Guvernului nr. 138/2000 privind măsuri de susţinere a învăţământului privat | [`lege/2001/719/`](lege/2001/719/) | amended, not consolidated | 1 | 2001-12-13 | 2001-12-13 |
 | Legea nr. 720/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 163/2000 pentru diminuarea arieratelor la bugetul de stat | [`lege/2001/720/`](lege/2001/720/) | amended, not consolidated | 1 | 2001-12-13 | 2001-12-13 |
+| Legea nr. 729/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 120/1999 privind unele măsuri de restructurare financiară a Băncii Agricole - S.A | [`lege/2001/729/`](lege/2001/729/) | amending act | 1 | 2001-12-18 | 2001-12-18 |
 | Legea nr. 730/2001 privind aprobarea Ordonanţei Guvernului nr. 61/2000 pentru modificarea şi completarea Ordonanţei Guvernului nr. 39/1999 privind finalizarea procesului de restructurare a Băncii Române de Comerţ Exterior - Bancorex - S.A. şi fuziunea prin absorbire a acestei bănci cu Banca Comercială Română - S.A | [`lege/2001/730/`](lege/2001/730/) | amended, not consolidated | 1 | 2001-12-18 | 2001-12-18 |
+| Legea nr. 731/2001 pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 65/1999 privind salarizarea personalului Agenţiei de Valorificare a Activelor Bancare | [`lege/2001/731/`](lege/2001/731/) | amending act | 1 | 2001-12-18 | 2001-12-18 |
 | Legea nr. 732/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 100/2001 privind acumularea cantităţii de 3 milioane tone de cărbune energetic de către Administraţia Naţionala a Rezervelor de Stat în anul 2001 | [`lege/2001/732/`](lege/2001/732/) | amended, not consolidated | 1 | 2001-12-18 | 2001-12-18 |
+| Legea nr. 733/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 283/2000 privind aprobarea majorării participării statului la capitalul social al Societăţii de Strategie pentru Piaţa de Gros - S.R.L. Bucureşti | [`lege/2001/733/`](lege/2001/733/) | amending act | 1 | 2001-12-18 | 2001-12-18 |
+| Legea nr. 735/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 71/2001 privind modificarea anexei nr. 2 la Ordonanţa de urgenţă a Guvernului nr. 8/2000 pentru modificarea şi completarea Legii nr. 128/1997 privind Statutul personalului didactic, referitor la stabilirea salariului de baza al personalului din învăţământ, şi pentru abrogarea unor dispoziţii din Legea nr. 154/1998 privind sistemul de stabilire a salariilor de baza în sectorul bugetar şi a indemnizaţiilor pentru persoane care ocupa funcţii de demnitate publică | [`lege/2001/735/`](lege/2001/735/) | amending act | 1 | 2001-12-17 | 2001-12-17 |
+| Legea nr. 736/2001 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 163/1999 privind unele măsuri pentru completarea şi modificarea cadrului juridic referitor la regimul de administrare, restructurarea financiară şi operaţională a Băncii Agricole - S.A. în vederea privatizării | [`lege/2001/736/`](lege/2001/736/) | amending act | 1 | 2001-12-17 | 2001-12-17 |
+| Legea nr. 737/2001 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 86/2001 pentru modificarea art. 14 alin. (1) lit. e) din Ordonanţa Guvernului nr. 65/1997 privind regimul paşapoartelor în România | [`lege/2001/737/`](lege/2001/737/) | amending act | 1 | 2001-12-17 | 2001-12-17 |
 | Legea nr. 740/2001 pentru aprobarea Ordonanţei Guvernului nr. 3/2001 privind aprobarea şi implementarea Programului special de dezvoltare turistica a zonei Sighişoara | [`lege/2001/740/`](lege/2001/740/) | amending act | 1 | 2001-12-17 | 2001-12-17 |
 | Legea nr. 742/2001 privind aprobarea Ordonanţei Guvernului nr. 34/2001 pentru modificarea şi completarea Legii nr. 146/1997 privind taxele judiciare de timbru | [`lege/2001/742/`](lege/2001/742/) | amended, not consolidated | 1 | 2001-12-17 | 2001-12-17 |
 | Legea nr. 744/2001 | [`lege/2001/744/`](lege/2001/744/) | in force | 1 | 2001-12-11 | 2001-12-11 |
