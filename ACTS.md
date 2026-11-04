@@ -1,6 +1,6 @@
 # Every act in this repository
 
-27557 acts, 41,200 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+27573 acts, 41,216 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -6401,7 +6401,7 @@
 | Ordonanța Guvernului nr. 3/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 70/2022 privind prevenirea, verificarea şi constatarea neregulilor/dublei finanţări, a neregulilor grave apărute în obţinerea şi utilizarea fondurilor externe nerambursabile/rambursabile alocate României prin Mecanismul de redresare şi rezilienţă şi/sau a fondurilor publice naţionale aferente acestora şi recuperarea creanţelor rezultate | [`og/2026/3/`](og/2026/3/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (21165, of which 10915 amending acts)
+## Government decisions (HG) (21181, of which 10921 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6855,7 +6855,23 @@
 | Hotărârea Guvernului nr. 1301/2004 | [`hg/2004/1301/`](hg/2004/1301/) | in force | 1 | 2004-08-20 | 2004-08-20 |
 | Hotărârea Guvernului nr. 1309/2004 | [`hg/2004/1309/`](hg/2004/1309/) | in force | 2 | 2004-09-01 | 2006-02-02 |
 | Hotărârea Guvernului nr. 1375/2004 | [`hg/2004/1375/`](hg/2004/1375/) | in force | 1 | 2004-09-09 | 2004-09-09 |
+| Hotărârea Guvernului nr. 1396/2004 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru judeţul Iaşi | [`hg/2004/1396/`](hg/2004/1396/) | in force | 1 | 2004-09-08 | 2004-09-08 |
+| Hotărârea Guvernului nr. 1398/2004 privind trecerea unor terenuri din domeniul public al statului şi din administrarea Ministerului Administraţiei şi Internelor în domeniul public al judeţului Giurgiu şi în administrarea Consiliului Judeţean Giurgiu | [`hg/2004/1398/`](hg/2004/1398/) | in force | 1 | 2004-09-09 | 2004-09-09 |
+| Hotărârea Guvernului nr. 1399/2004 privind trecerea unor construcţii aflate în administrarea Ministerului Administraţiei şi Internelor din domeniul public al statului în domeniul privat al statului, în vederea scoaterii din funcţiune şi a demolării acestora | [`hg/2004/1399/`](hg/2004/1399/) | in force | 1 | 2004-09-09 | 2004-09-09 |
+| Hotărârea Guvernului nr. 1401/2004 privind trecerea unei părţi dintr-un imobil din domeniul public al statului şi din administrarea Ministerului Administraţiei şi Internelor în domeniul public al Judeţului Caraş-Severin şi în administrarea Consiliului Judeţean Caraş-Severin | [`hg/2004/1401/`](hg/2004/1401/) | in force | 1 | 2004-09-09 | 2004-09-09 |
+| Hotărârea Guvernului nr. 1402/2004 privind trecerea unui imobil din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al municipiului Bacău şi în administrarea Consiliului Local al Municipiului Bacău | [`hg/2004/1402/`](hg/2004/1402/) | in force | 1 | 2004-09-09 | 2004-09-09 |
+| Hotărârea Guvernului nr. 1403/2004 privind schimbarea titularului dreptului de administrare a unui imobil proprietate publică a statului | [`hg/2004/1403/`](hg/2004/1403/) | in force | 1 | 2004-09-09 | 2004-09-09 |
+| Hotărârea Guvernului nr. 1404/2004 privind trecerea unui imobil din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al comunei Cernica şi în administrarea Consiliului Local al Comunei Cernica, judeţul Ilfov | [`hg/2004/1404/`](hg/2004/1404/) | in force | 1 | 2004-09-09 | 2004-09-09 |
+| Hotărârea Guvernului nr. 1406/2004 privind transmiterea unei părţi dintr-un imobil, proprietate publică a statului, din administrarea Inspectoratului Teritorial pentru Calitatea Seminţelor şi a Materialului Săditor al Judeţului Argeş în administrarea Direcţiei pentru Agricultură şi Dezvoltare Rurală a Judeţului Vâlcea | [`hg/2004/1406/`](hg/2004/1406/) | in force | 1 | 2004-09-09 | 2004-09-09 |
 | Hotărârea Guvernului nr. 1407/2004 | [`hg/2004/1407/`](hg/2004/1407/) | in force | 2 | 2004-09-14 | 2007-08-29 |
+| Hotărârea Guvernului nr. 1408/2004 privind autorizarea Administraţiei Naţionale a Îmbunătăţirilor Funciare de a contracta un credit extern de la ABN AMRO BANK N.V. - Amsterdam, Olanda, în valoare de 50 milioane dolari S.U.A., în vederea asigurării resurselor financiare necesare lucrărilor de reabilitare a sistemului de irigaţii din judeţele Brăila, Constanţa, Giurgiu, Ialomiţa şi Mehedinţi | [`hg/2004/1408/`](hg/2004/1408/) | in force | 1 | 2004-09-08 | 2004-09-08 |
+| Hotărârea Guvernului nr. 1409/2004 privind aprobarea rectificării bugetului de venituri şi cheltuieli pe anul 2004 al Comisiei Naţionale pentru Controlul Activităţilor Nucleare | [`hg/2004/1409/`](hg/2004/1409/) | amending act | 1 | 2004-09-10 | 2004-09-10 |
+| Hotărârea Guvernului nr. 1410/2004 privind finanţarea proiectului "Amenajarea sectorului românesc al Cimitirului Eroilor Militari înhumaţi la Brno - Republica Cehă" | [`hg/2004/1410/`](hg/2004/1410/) | in force | 1 | 2004-09-09 | 2004-09-09 |
+| Hotărârea Guvernului nr. 1413/2004 privind aprobarea unei licenţe de concesiune a activităţii miniere de exploatare, încheiată între Agenţia Naţională pentru Resurse Minerale şi Societatea Comercială "GRANIT STAR" - S.A | [`hg/2004/1413/`](hg/2004/1413/) | amending act | 1 | 2004-09-09 | 2004-09-09 |
+| Hotărârea Guvernului nr. 1414/2004 privind aprobarea unei licenţe de concesiune a activităţii miniere de exploatare, încheiată între Agenţia Naţională pentru Resurse Minerale şi Direcţia Judeţeană a Drumurilor - R.A. Deva | [`hg/2004/1414/`](hg/2004/1414/) | amending act | 1 | 2004-09-09 | 2004-09-09 |
+| Hotărârea Guvernului nr. 1416/2004 privind aprobarea unei licenţe de concesiune a activităţii miniere de exploatare, încheiată între Agenţia Naţională pentru Resurse Minerale şi Societatea Comercială "Carpat Agregate" - S.A | [`hg/2004/1416/`](hg/2004/1416/) | amending act | 1 | 2004-09-13 | 2004-09-13 |
+| Hotărârea Guvernului nr. 1417/2004 privind aprobarea Acordului de concesiune pentru explorare, dezvoltare şi exploatare petrolieră în perimetrul E V-1 Moineşti, încheiat între Agenţia Naţională pentru Resurse Minerale şi Toreador Resources Corporation | [`hg/2004/1417/`](hg/2004/1417/) | amending act | 1 | 2004-09-13 | 2004-09-13 |
+| Hotărârea Guvernului nr. 1418/2004 privind aprobarea unei licenţe de concesiune a activităţii miniere de exploatare, încheiată între Agenţia Naţională pentru Resurse Minerale şi Societatea Comercială "VIRCONDIRO" - S.R.L | [`hg/2004/1418/`](hg/2004/1418/) | amending act | 1 | 2004-09-13 | 2004-09-13 |
 | Hotărârea Guvernului nr. 1424/2004 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru judeţul Arad | [`hg/2004/1424/`](hg/2004/1424/) | in force | 1 | 2004-09-10 | 2004-09-10 |
 | Hotărârea Guvernului nr. 1426/2004 pentru aprobarea Normelor metodologice privind constituirea şi utilizarea fondului de stimulente de către Autoritatea Naţională a Vămilor | [`hg/2004/1426/`](hg/2004/1426/) | amending act | 1 | 2004-09-14 | 2004-09-14 |
 | Hotărârea Guvernului nr. 1430/2004 pentru aprobarea Protocolului de cooperare în domeniul arhivistic dintre Arhivele Naţionale din România şi Direcţia Generală a Arhivelor din Republica Albania, semnat la Tirana la 3 decembrie 2003 | [`hg/2004/1430/`](hg/2004/1430/) | amending act | 1 | 2004-09-15 | 2004-09-15 |
