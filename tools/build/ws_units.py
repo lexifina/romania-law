@@ -19,6 +19,16 @@ def roman_value(r: str) -> int:
     v = [ROMAN[c] for c in r.upper()]
     return sum(-x if i + 1 < len(v) and x < v[i + 1] else x for i, x in enumerate(v))
 HEAD = re.compile(r'^\s*(Titlul|Capitolul|Sec[țţ]iunea|Cartea|Partea|Paragraful|Anexa|ANEXA|§)\b', re.I)
+# Inside an article, a line opening with "Anexa" is text when it says something ("Anexa la Legea nr. 2/1968 ... se
+# modifică după cum urmează"): only a line with no verb is the annex's own heading (2026-11-04: 1,032 never-changed acts
+# lost their article's body at such a line and failed ws_base_text_lost)
+# An "Anexa ..." line is the article's text only when it opens the article and says what is done to the annex (an
+# annex block printed after the last article keeps ending it, as the page prints it)
+ANNEX_TEXT = re.compile(r'^\s*anexa\b.*\b(?:se (?:modific|complet|abrog|[iî]nlocu|aprob)\w*|va avea|vor avea)\b', re.I)
+
+
+def heading(ln: str, first: bool = False) -> bool:
+    return bool(HEAD.match(ln)) and not (first and ANNEX_TEXT.match(ln))
 SUBHEAD = re.compile(r'^[a-z]\)\s+[A-ZĂÂÎȘȚ][^.;:]{0,70}$')  # a lettered sub-heading run onto the end of the article before
 TAIL = re.compile(r'^\s*(Aceast[ăa] lege a fost adoptat|PRIM-MINISTRU|PREȘEDINTELE|PRESEDINTELE|Contrasemneaz|NOT[ĂA]\b)', re.I)
 # The service prints a paragraph's run on one line, so the signature block often follows the last words of the last
@@ -120,8 +130,8 @@ def units_of(text: str, pad: int = 3) -> dict:
         body = ([pending] if pending else []) + ([rest] if rest else []) + lines[1:]
         pending = None
         out = []
-        for ln in body:
-            if TAIL.match(ln) or HEAD.match(ln):
+        for i, ln in enumerate(body):
+            if TAIL.match(ln) or heading(ln, first=not out):
                 break
             mid = TAIL_MID.search(ln)
             if mid:
