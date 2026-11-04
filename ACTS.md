@@ -1,6 +1,6 @@
 # Every act in this repository
 
-23517 acts, 37,150 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+23538 acts, 37,171 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (3597, of which 2067 amending acts)
+## Laws (legi) (3602, of which 2071 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -691,7 +691,12 @@
 | Legea nr. 422/2006 privind organizarea și funcționarea sistemului statistic de comerț internațional cu bunuri | [`lege/2006/422/`](lege/2006/422/) | in force | 2 | 2007-01-01 | 2022-02-03 |
 | Legea nr. 435/2006 | [`lege/2006/435/`](lege/2006/435/) | in force | 5 | 2006-12-10 | 2017-07-01 |
 | Legea nr. 441/2006 pentru modificarea și completarea Legii nr. 31/1990 privind societățile comerciale, republicată, și a Legii nr. 26/1990 privind registrul comerțului, republicată | [`lege/2006/441/`](lege/2006/441/) | amending act | 2 | 2006-12-01 | 2007-01-01 |
+| Legea nr. 444/2006 pentru aprobarea Ordonanţei Guvernului nr. 19/2006 privind creşterile salariale ce se vor acorda personalului militar şi funcţionarilor publici cu statut special din instituţiile publice de apărare naţională, ordine publică şi siguranţă naţională | [`lege/2006/444/`](lege/2006/444/) | amending act | 1 | 2006-12-10 | 2006-12-10 |
+| Legea nr. 447/2006 pentru aprobarea Ordonanţei Guvernului nr. 46/2006 cu privire la rectificarea bugetului de stat pe anul 2006 | [`lege/2006/447/`](lege/2006/447/) | amending act | 1 | 2006-12-08 | 2006-12-08 |
 | Legea nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap | [`lege/2006/448/`](lege/2006/448/) | in force | 57 | 2007-01-01 | 2025-03-30 |
+| Legea nr. 451/2006 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 41/2006 pentru modificarea Legii nr. 109/1997 privind organizarea şi funcţionarea Consiliului Economic şi Social | [`lege/2006/451/`](lege/2006/451/) | amending act | 1 | 2006-12-21 | 2006-12-21 |
+| Legea nr. 454/2006 pentru aprobarea Ordonanţei Guvernului nr. 21/2006 privind regimul concesionării monumentelor istorice | [`lege/2006/454/`](lege/2006/454/) | amending act | 1 | 2006-12-21 | 2006-12-21 |
+| Legea nr. 461/2006 pentru înfiinţarea comunei Livezile, judeţul Timiş, prin reorganizarea comunei Banloc | [`lege/2006/461/`](lege/2006/461/) | in force | 1 | 2006-12-16 | 2006-12-16 |
 | Legea nr. 463/2006 privind aprobarea Ordonanţei Guvernului nr. 49/2006 pentru modificarea şi completarea Legii nr. 203/1999 privind permisele de muncă | [`lege/2006/463/`](lege/2006/463/) | amending act | 1 | 2006-12-24 | 2006-12-24 |
 | Legea nr. 464/2006 privind aprobarea Ordonanţei Guvernului nr. 53/2006 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 200/2000 privind clasificarea, etichetarea şi ambalarea substanţelor şi preparatelor chimice periculoase | [`lege/2006/464/`](lege/2006/464/) | amending act | 1 | 2006-12-21 | 2006-12-21 |
 | Legea nr. 466/2006 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 57/2006 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 5/2003 privind acordarea de ajutoare pentru încălzirea locuinţei, precum şi a unor facilităţi populaţiei pentru plata energiei termice | [`lege/2006/466/`](lege/2006/466/) | amending act | 1 | 2006-12-24 | 2006-12-24 |
@@ -5902,7 +5907,7 @@
 | Ordonanța Guvernului nr. 2/2026 pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a altor acte normative din domeniul sănătăţii | [`og/2026/2/`](og/2026/2/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (17624, of which 9153 amending acts)
+## Government decisions (HG) (17640, of which 9158 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6605,7 +6610,23 @@
 | Hotărârea Guvernului nr. 1648/2006 | [`hg/2006/1648/`](hg/2006/1648/) | in force | 1 | 2006-12-04 | 2006-12-04 |
 | Hotărârea Guvernului nr. 1650/2006 | [`hg/2006/1650/`](hg/2006/1650/) | in force | 1 | 2007-01-01 | 2007-01-01 |
 | Hotărârea Guvernului nr. 1660/2006 | [`hg/2006/1660/`](hg/2006/1660/) | in force | 1 | 2006-12-07 | 2006-12-07 |
+| Hotărârea Guvernului nr. 1704/2006 privind declararea utilităţii publice pentru lucrarea de interes naţional "LEA 400 kV simplu circuit Arad-Nădab" | [`hg/2006/1704/`](hg/2006/1704/) | in force | 1 | 2006-12-13 | 2006-12-13 |
 | Hotărârea Guvernului nr. 1705/2006 | [`hg/2006/1705/`](hg/2006/1705/) | in force | 4 | 2006-12-21 | 2024-10-07 |
+| Hotărârea Guvernului nr. 1706/2006 pentru aprobarea Memorandumului de înţelegere în vederea cooperării bilaterale privind promovarea investiţiilor dintre Agenţia Română pentru Investiţii Străine şi Agenţia pentru Promovarea Investiţiilor din cadrul Ministerului Comerţului al Republicii Populare Chineze, semnat la Beijing la 28 martie 2006 | [`hg/2006/1706/`](hg/2006/1706/) | amending act | 1 | 2007-01-03 | 2007-01-03 |
+| Hotărârea Guvernului nr. 1707/2006 pentru modificarea şi completarea Normelor metodologice de aplicare a Legii recunoştinţei faţă de eroii-martiri şi luptătorii care au contribuit la victoria Revoluţiei române din decembrie 1989 nr. 341/2004, aprobate prin Hotărârea Guvernului nr. 1.412/2004 | [`hg/2006/1707/`](hg/2006/1707/) | amending act | 1 | 2007-01-05 | 2007-01-05 |
+| Hotărârea Guvernului nr. 1709/2006 privind suplimentarea bugetului Cancelariei Primului-Ministru din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru acoperirea cheltuielilor ocazionate de organizarea şi desfăşurarea în România, în perioada 18-19 decembrie 2006, a Summit-ului CEFTA | [`hg/2006/1709/`](hg/2006/1709/) | in force | 1 | 2006-12-07 | 2006-12-07 |
+| Hotărârea Guvernului nr. 1712/2006 privind acordarea unor ajutoare financiare | [`hg/2006/1712/`](hg/2006/1712/) | in force | 1 | 2006-12-11 | 2006-12-11 |
+| Hotărârea Guvernului nr. 1715/2006 pentru aprobarea efectuării concedierilor colective în baza prevederilor Ordonanţei de urgenţă a Guvernului nr. 8/2003 privind stimularea procesului de restructurare, reorganizare şi privatizare a unor societăţi naţionale, companii naţionale şi societăţi comerciale cu capital majoritar de stat, precum şi a societăţilor comerciale şi regiilor autonome subordonate autorităţilor administraţiei publice locale, de către Societatea Comercială "Apa Prod" - S.A. Deva, judeţul Hunedoara | [`hg/2006/1715/`](hg/2006/1715/) | amending act | 1 | 2006-12-11 | 2006-12-11 |
+| Hotărârea Guvernului nr. 1716/2006 privind organizarea în România a celei de-a V-a Conferinţe Clearing House pentru statele din sud-estul Europei | [`hg/2006/1716/`](hg/2006/1716/) | in force | 1 | 2006-12-14 | 2006-12-14 |
+| Hotărârea Guvernului nr. 1717/2006 privind suplimentarea bugetului Ministerului Culturii şi Cultelor pe anul 2006, din Fondul de rezervă bugetară la dispoziţia Guvernului, pentru finalizarea lucrărilor de construcţie la biserica din satul Guşiţei, comuna Dimitrie Cantemir, judeţul Vaslui | [`hg/2006/1717/`](hg/2006/1717/) | in force | 1 | 2006-12-11 | 2006-12-11 |
+| Hotărârea Guvernului nr. 1718/2006 privind suplimentarea bugetului Ministerului Finanţelor Publice pe anul 2006 din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006 | [`hg/2006/1718/`](hg/2006/1718/) | in force | 1 | 2006-12-11 | 2006-12-11 |
+| Hotărârea Guvernului nr. 1719/2006 privind suplimentarea bugetului Ministerului Finanţelor Publice pe anul 2006 din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006 | [`hg/2006/1719/`](hg/2006/1719/) | in force | 1 | 2006-12-11 | 2006-12-11 |
+| Hotărârea Guvernului nr. 1721/2006 privind numirea unui consul general | [`hg/2006/1721/`](hg/2006/1721/) | in force | 1 | 2006-12-11 | 2006-12-11 |
+| Hotărârea Guvernului nr. 1722/2006 privind transmiterea unui teren din domeniul public al statului şi din administrarea Ministerului Administraţiei şi Internelor în domeniul public al municipiului Botoşani şi în administrarea Consiliului Local al Municipiului Botoşani | [`hg/2006/1722/`](hg/2006/1722/) | in force | 1 | 2006-12-14 | 2006-12-14 |
+| Hotărârea Guvernului nr. 1723/2006 privind transmiterea unei suprafeţe de 25,04 ha teren agricol din domeniul public al statului şi din administrarea Institutului de Stat pentru Testarea şi Înregistrarea Soiurilor - Centrul pentru Testarea Soiurilor Dej în domeniul privat al comunei Mica şi în administrarea Consiliului Local al Comunei Mica, judeţul Cluj | [`hg/2006/1723/`](hg/2006/1723/) | in force | 1 | 2006-12-14 | 2006-12-14 |
+| Hotărârea Guvernului nr. 1724/2006 pentru aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 2006 al Companiei Naţionale "Poşta Română" - S.A., la care Ministerul Comunicaţiilor şi Tehnologiei Informaţiei îndeplineşte atribuţiile pe care statul român le are în calitate de acţionar | [`hg/2006/1724/`](hg/2006/1724/) | amending act | 1 | 2006-12-11 | 2006-12-11 |
+| Hotărârea Guvernului nr. 1726/2006 pentru modificarea anexelor nr. 8 şi 9 la Hotărârea Guvernului nr. 197/2006 privind aprobarea programelor de interes naţional în domeniul protecţiei drepturilor persoanelor cu handicap, precum şi în domeniul asistenţei sociale a persoanelor vârstnice, persoanelor fără adăpost şi persoanelor victime ale violenţei în familie şi a finanţării acestor programe | [`hg/2006/1726/`](hg/2006/1726/) | amending act | 1 | 2006-12-13 | 2006-12-13 |
+| Hotărârea Guvernului nr. 1727/2006 privind suplimentarea bugetului Ministerului Culturii şi Cultelor pe anul 2006, din Fondul de rezervă bugetară la dispoziţia Guvernului, pentru Parohia Ortodoxă Băile Govora din cadrul Episcopiei Râmnicului | [`hg/2006/1727/`](hg/2006/1727/) | in force | 1 | 2006-12-11 | 2006-12-11 |
 | Hotărârea Guvernului nr. 1730/2006 privind suplimentarea bugetului Ministerului Public din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006 | [`hg/2006/1730/`](hg/2006/1730/) | in force | 1 | 2006-12-11 | 2006-12-11 |
 | Hotărârea Guvernului nr. 1731/2006 pentru aprobarea tarifelor de autorizare şi acreditare pe programe de studiu ale instituţiilor de învăţământ superior şi de evaluare externă a calităţii educaţiei percepute de Agenţia Română de Asigurare a Calităţii în Învăţământul Superior | [`hg/2006/1731/`](hg/2006/1731/) | amending act | 1 | 2006-12-11 | 2006-12-11 |
 | Hotărârea Guvernului nr. 1732/2006 privind suplimentarea bugetului Cancelariei Primului-Ministru din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2006, pentru Agenţia Naţională pentru Sport | [`hg/2006/1732/`](hg/2006/1732/) | in force | 1 | 2006-12-11 | 2006-12-11 |
