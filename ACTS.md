@@ -1,6 +1,6 @@
 # Every act in this repository
 
-28474 acts, 42,117 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+28496 acts, 42,139 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (4132, of which 2509 amending acts)
+## Laws (legi) (4139, of which 2512 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -471,7 +471,14 @@
 | Legea nr. 517/2003 | [`lege/2003/517/`](lege/2003/517/) | in force | 1 | 2003-12-13 | 2003-12-13 |
 | Legea nr. 519/2003 | [`lege/2003/519/`](lege/2003/519/) | in force | 1 | 2003-12-07 | 2003-12-07 |
 | Legea nr. 526/2003 | [`lege/2003/526/`](lege/2003/526/) | in force | 7 | 2003-12-19 | 2022-07-29 |
+| Legea nr. 536/2003 privind aprobarea Ordonanţei Guvernului nr. 76/2003 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 36/2001 privind regimul preţurilor şi tarifelor reglementate, care se stabilesc cu avizul Oficiului Concurenţei | [`lege/2003/536/`](lege/2003/536/) | amending act | 1 | 2003-12-22 | 2003-12-22 |
+| Legea nr. 537/2003 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 53/2003 privind subvenţionarea dobânzilor aferente creditelor ipotecare acordate pentru construcţia de locuinţe prin intermediul Agenţiei Naţionale pentru Locuinţe | [`lege/2003/537/`](lege/2003/537/) | amending act | 1 | 2003-12-22 | 2003-12-22 |
+| Legea nr. 538/2003 pentru aprobarea Ordonanţei Guvernului nr. 55/2003 privind unele măsuri pentru derularea procesului de privatizare a Societăţii Naţionale a Petrolului "Petrom" - S.A. Bucureşti, precum şi pentru modificarea şi completarea cadrului legal în domeniul privatizării pentru societăţile comerciale aflate în portofoliul Ministerului Economiei şi Comerţului | [`lege/2003/538/`](lege/2003/538/) | amending act | 1 | 2003-12-22 | 2003-12-22 |
 | Legea nr. 544/2003 | [`lege/2003/544/`](lege/2003/544/) | in force | 1 | 2004-01-01 | 2004-01-01 |
+| Legea nr. 546/2003 pentru înfiinţarea comunei Ibăneşti prin reorganizarea comunei Alexandru Vlahuţă, judeţul Vaslui | [`lege/2003/546/`](lege/2003/546/) | in force | 1 | 2003-12-22 | 2003-12-22 |
+| Legea nr. 547/2003 pentru declararea ca municipiu a oraşului Lupeni, judeţul Hunedoara | [`lege/2003/547/`](lege/2003/547/) | in force | 1 | 2003-12-23 | 2003-12-23 |
+| Legea nr. 548/2003 pentru declararea ca municipiu a oraşului Vulcan, judeţul Hunedoara | [`lege/2003/548/`](lege/2003/548/) | in force | 1 | 2003-12-23 | 2003-12-23 |
+| Legea nr. 549/2003 pentru ratificarea Acordului de cooperare dintre România şi Centrul European pentru Prognoze Meteorologice pe Durată Medie, semnat la Bucureşti la 21 mai 2003, şi a Acordului dintre România şi Organizaţia Europeană pentru Exploatarea Sateliţilor Meteorologici (EUMETSAT) privind statutul de stat cooperant, semnat la Cheia la 17 iulie 2003 | [`lege/2003/549/`](lege/2003/549/) | in force | 1 | 2003-12-25 | 2003-12-25 |
 | Legea nr. 553/2003 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 23/2003 pentru modificarea şi completarea Legii nr. 19/2000 privind sistemul public de pensii şi alte drepturi de asigurări sociale şi pentru modificarea art. II şi III din Ordonanţa de urgenţă a Guvernului nr. 9/2003 | [`lege/2003/553/`](lege/2003/553/) | amending act | 1 | 2003-12-23 | 2003-12-23 |
 | Legea nr. 554/2003 | [`lege/2003/554/`](lege/2003/554/) | in force | 1 | 2003-12-23 | 2003-12-23 |
 | Legea nr. 561/2003 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 112/2003 pentru reglementarea unor măsuri financiare | [`lege/2003/561/`](lege/2003/561/) | amending act | 1 | 2003-12-23 | 2003-12-23 |
@@ -6502,7 +6509,7 @@
 | Ordonanța Guvernului nr. 3/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 70/2022 privind prevenirea, verificarea şi constatarea neregulilor/dublei finanţări, a neregulilor grave apărute în obţinerea şi utilizarea fondurilor externe nerambursabile/rambursabile alocate României prin Mecanismul de redresare şi rezilienţă şi/sau a fondurilor publice naţionale aferente acestora şi recuperarea creanţelor rezultate | [`og/2026/3/`](og/2026/3/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (21981, of which 11304 amending acts)
+## Government decisions (HG) (21996, of which 11315 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6892,7 +6899,22 @@
 | Hotărârea Guvernului nr. 1430/2003 | [`hg/2003/1430/`](hg/2003/1430/) | in force | 1 | 2003-12-18 | 2003-12-18 |
 | Hotărârea Guvernului nr. 1434/2003 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "CTE Deva - Reabilitare Grup nr. 1", judeţul Hunedoara | [`hg/2003/1434/`](hg/2003/1434/) | amending act | 2 | 2003-12-15 | 2008-11-28 |
 | Hotărârea Guvernului nr. 1459/2003 pentru aprobarea participării Ministerului Educaţiei, Cercetării şi Tineretului în calitate de membru la Fundaţia Europeană pentru Ştiinţă (ESF) şi a plăţii cotizaţiei anuale | [`hg/2003/1459/`](hg/2003/1459/) | amending act | 2 | 2003-12-16 | 2005-06-22 |
+| Hotărârea Guvernului nr. 1461/2003 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.041/2003 privind unele măsuri de reglementare a facilităţilor acordate pensionarilor din sectorul energiei electrice | [`hg/2003/1461/`](hg/2003/1461/) | amending act | 1 | 2003-12-17 | 2003-12-17 |
 | Hotărârea Guvernului nr. 1463/2003 | [`hg/2003/1463/`](hg/2003/1463/) | in force | 2 | 2003-12-17 | 2009-12-04 |
+| Hotărârea Guvernului nr. 1466/2003 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2004 al Autorităţii Naţionale de Reglementare în Comunicaţii | [`hg/2003/1466/`](hg/2003/1466/) | amending act | 1 | 2003-12-19 | 2003-12-19 |
+| Hotărârea Guvernului nr. 1467/2003 privind modul de reprocesare şi valorificare a uraniului din stocul de diuranat de amoniu din cadrul Companiei Naţionale a Uraniului - S.A | [`hg/2003/1467/`](hg/2003/1467/) | in force | 1 | 2003-12-18 | 2003-12-18 |
+| Hotărârea Guvernului nr. 1468/2003 pentru aprobarea amendamentului convenit prin schimbul de scrisori semnate la Bucureşti la 21 august 2003 şi la Zagreb la 3 septembrie 2003 între Guvernul României, reprezentat de Ministerul Finanţelor Publice, şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare la Acordul de asistenţă financiară nerambursabilă dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare din fondurile Facilităţii globale de mediu (FGM) pentru finanţarea Proiectului "Managementul conservării biodiversităţii", în valoare de 5,5 milioane dolari S.U.A. echivalent, semnat la Washington la 17 iunie 1999 | [`hg/2003/1468/`](hg/2003/1468/) | amending act | 1 | 2003-12-19 | 2003-12-19 |
+| Hotărârea Guvernului nr. 1469/2003 privind instituirea şi administrarea unui contingent tarifar la importul în România de zahăr alb originar din Uniunea Europeană | [`hg/2003/1469/`](hg/2003/1469/) | in force | 1 | 2003-12-19 | 2003-12-19 |
+| Hotărârea Guvernului nr. 1470/2003 privind aprobarea mandatului acordat Ministerului Finanţelor Publice pentru semnarea convenţiei de emisiune de obligaţiuni, prevăzută de Ordonanţa de urgenţă a Guvernului nr. 118/2003 privind măsuri pentru reglementarea unor obligaţii bugetare ale Societăţii Comerciale "Rompetrol Rafinare" - S.A. Constanţa | [`hg/2003/1470/`](hg/2003/1470/) | amending act | 1 | 2003-12-18 | 2003-12-18 |
+| Hotărârea Guvernului nr. 1472/2003 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.043/1999 privind aprobarea plăţii contribuţiei României la bugetul Programului-cadru V şi al Programului-cadru V Euratom, precum şi pentru aprobarea sprijinului financiar acordat participanţilor români | [`hg/2003/1472/`](hg/2003/1472/) | amending act | 1 | 2003-12-19 | 2003-12-19 |
+| Hotărârea Guvernului nr. 1475/2003 pentru modificarea anexelor nr. I (1-25) la Hotărârea Guvernului nr. 1.527/2002 privind aprobarea bugetelor de venituri şi cheltuieli pe anul 2003 pentru companiile, societăţile naţionale şi societăţile comerciale aflate sub autoritatea sau în coordonarea Ministerului Industriei şi Resurselor, precum şi a transferurilor pentru societăţile comerciale | [`hg/2003/1475/`](hg/2003/1475/) | amending act | 1 | 2003-12-20 | 2003-12-20 |
+| Hotărârea Guvernului nr. 1481/2003 pentru aprobarea plăţii contribuţiei voluntare, în lei, a României la Fondul Programului Special de Dezvoltare al Agenţiei Interguvernamentale a Francofoniei, pe anul 2003 | [`hg/2003/1481/`](hg/2003/1481/) | amending act | 1 | 2003-12-22 | 2003-12-22 |
+| Hotărârea Guvernului nr. 1482/2003 pentru aprobarea Amendamentului nr. 2, convenit prin schimb de scrisori semnate la Bucureşti la 28 iunie 2002, 29 august 2002, 30 septembrie 2002 şi 16 octombrie 2002 şi, respectiv, la Londra la 12 iulie 2002, 2 septembrie 2002, 17 octombrie 2002 şi 16 decembrie 2002 între Guvernul României şi Banca Europeană pentru Reconstrucţie şi Dezvoltare, la Acordul de împrumut (Proiectul privind restructurarea Administraţiei Naţionale a Drumurilor şi reabilitarea drumurilor) dintre România şi Banca Europeană pentru Reconstrucţie şi Dezvoltare, semnat la Bucureşti la 20 noiembrie 1996 | [`hg/2003/1482/`](hg/2003/1482/) | amending act | 1 | 2003-12-23 | 2003-12-23 |
+| Hotărârea Guvernului nr. 1483/2003 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii "Electrificarea liniei C.F. Doaga-Tecuci-Barboşi, inclusiv Dispecer pentru coordonarea activităţii de exploatare a Complexului Feroviar Galaţi" | [`hg/2003/1483/`](hg/2003/1483/) | amending act | 1 | 2003-12-23 | 2003-12-23 |
+| Hotărârea Guvernului nr. 1484/2003 privind trecerea unui imobil din proprietatea publică a statului şi din administrarea Centrului Naţional al Cinematografiei în proprietatea publică a judeţului Tulcea şi în administrarea Consiliului Judeţean Tulcea | [`hg/2003/1484/`](hg/2003/1484/) | in force | 1 | 2003-12-23 | 2003-12-23 |
+| Hotărârea Guvernului nr. 1487/2003 pentru aprobarea concesionării unor imobile proprietate publică a statului | [`hg/2003/1487/`](hg/2003/1487/) | amending act | 1 | 2003-12-23 | 2003-12-23 |
+| Hotărârea Guvernului nr. 1489/2003 privind actualizarea alocaţiei sociale cuvenite adulţilor nevăzători cu handicap grav şi accentuat, începând cu luna ianuarie 2004 | [`hg/2003/1489/`](hg/2003/1489/) | in force | 1 | 2003-12-20 | 2003-12-20 |
+| Hotărârea Guvernului nr. 1490/2003 pentru aprobarea Addendumului dintre Guvernul României şi Comunitatea Europeană, semnat la Bucureşti la 17 iulie 2003, la Memorandumul de înţelegere dintre Guvernul României şi Comisia Europeană privind înfiinţarea Fondului Naţional, semnat la Bruxelles la 20 octombrie 1998 | [`hg/2003/1490/`](hg/2003/1490/) | amending act | 1 | 2003-12-24 | 2003-12-24 |
 | Hotărârea Guvernului nr. 1491/2003 privind aprobarea plăţii contribuţiei financiare a României pentru participarea, în anul 2003, la programul comunitar Fiscalis 2003-2007 | [`hg/2003/1491/`](hg/2003/1491/) | amending act | 1 | 2003-12-20 | 2003-12-20 |
 | Hotărârea Guvernului nr. 1493/2003 privind diminuarea cheltuielilor şi deficitului bugetului de stat şi suplimentarea cheltuielilor şi deficitului bugetului Fondului naţional unic de asigurări sociale de sănătate pe anul 2003 pentru compensarea preţului medicamentelor acordate cu sau fără contribuţie personală | [`hg/2003/1493/`](hg/2003/1493/) | in force | 1 | 2003-12-20 | 2003-12-20 |
 | Hotărârea Guvernului nr. 1494/2003 privind diminuarea cheltuielilor şi deficitului bugetului de stat şi modificarea sumelor alocate din credite externe pe anul 2003 | [`hg/2003/1494/`](hg/2003/1494/) | in force | 1 | 2003-12-19 | 2003-12-19 |
