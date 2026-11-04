@@ -9246,6 +9246,9 @@ This file is written by the build on 2026-11-04, the day the source data was ret
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 216/2023 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 216/2024 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 216/2025 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 2165/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 2166/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 2168/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 217/2005 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 217/2007 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 217/2010 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
@@ -9260,6 +9263,12 @@ This file is written by the build on 2026-11-04, the day the source data was ret
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 217/2022 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 217/2024 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 217/2025 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 2170/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 2171/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 2172/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 2173/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 2177/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 2178/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | captures of legislatie.just.ro for the HG nr. 218/2002 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 218/2007 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | captures of legislatie.just.ro for the HG nr. 218/2009 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
@@ -9271,6 +9280,15 @@ This file is written by the build on 2026-11-04, the day the source data was ret
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 218/2022 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 218/2023 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 218/2025 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 2180/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 2181/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 2183/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 2184/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 2185/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 2186/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 2187/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 2188/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 2189/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 219/2006 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | captures of legislatie.just.ro for the HG nr. 219/2007 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 219/2008 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
@@ -9282,6 +9300,13 @@ This file is written by the build on 2026-11-04, the day the source data was ret
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 219/2017 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 219/2022 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | captures of legislatie.just.ro for the HG nr. 219/2024 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 2191/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 2192/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 2194/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 2196/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 2197/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 2198/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 2199/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | captures of legislatie.just.ro for the HG nr. 22/2010 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 22/2015 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | captures of legislatie.just.ro for the HG nr. 22/2017 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
@@ -9297,6 +9322,9 @@ This file is written by the build on 2026-11-04, the day the source data was ret
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 220/2020 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 220/2022 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 220/2023 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 2202/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 2206/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 2208/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 221/2006 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 221/2007 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 221/2012 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
@@ -9311,6 +9339,11 @@ This file is written by the build on 2026-11-04, the day the source data was ret
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 221/2023 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 221/2024 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 221/2025 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 2210/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 2211/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 2212/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 2216/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 2219/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | captures of legislatie.just.ro for the HG nr. 222/2003 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 222/2005 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 222/2006 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
@@ -9326,6 +9359,7 @@ This file is written by the build on 2026-11-04, the day the source data was ret
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 222/2024 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 222/2025 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 222/2026 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 2220/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 2221/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 2224/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the HG nr. 2225/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
@@ -24931,7 +24965,10 @@ This file is written by the build on 2026-11-04, the day the source data was ret
 | captures of legislatie.just.ro for the Legea nr. 550/2004 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 551/2004 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 554/2003 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the Legea nr. 555/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | captures of legislatie.just.ro for the Legea nr. 556/2004 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the Legea nr. 557/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the Legea nr. 559/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | captures of legislatie.just.ro for the Legea nr. 56/2001 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 56/2012 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the Legea nr. 56/2013 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
@@ -24942,6 +24979,8 @@ This file is written by the build on 2026-11-04, the day the source data was ret
 | captures of legislatie.just.ro for the Legea nr. 56/2023 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the Legea nr. 56/2024 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the Legea nr. 56/2026 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-03 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the Legea nr. 560/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
+| Portalul legislativ (legislatie.just.ro), Ministerul Justiției: official web service (FreeWebService), the Legea nr. 563/2004 as published | <http://legislatie.just.ro/apiws/FreeWebService.svc> | 2026-11-02 | Official texts are excluded from copyright protection (Legea nr. 8/1996, art. 9). |
 | captures of legislatie.just.ro for the Legea nr. 564/2001 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 567/2001 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
 | captures of legislatie.just.ro for the Legea nr. 57/2001 | <https://commoncrawl.org/> | 2026-11-02 | the captured pages are the publisher's (Portalul legislativ, Ministerul Justiției). |
@@ -26881,21 +26920,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 26590 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 40224 | |
+| 26629 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 40263 | |
 
-The build made 45113 commits:
+The build made 45152 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 26632 | first version of an act |
+| 26671 | first version of an act |
 | 13712 | one law on its in-force day |
 | 3678 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `viitor`: laws not yet in force on 2026-11-04.
 - 31 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 31242 laws in the record.
-- 71296 tags.
+- 31279 laws in the record.
+- 71372 tags.
 
 ## Dates
 
@@ -26907,7 +26946,7 @@ When a law gives no date of its own, the default rule applies: Constituția Rom�
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `900963a5236096931703fb1383b5d2f1eb2098a072637329a4f982114ffa2f20` (567045801 bytes).
+- Corpus: sha256 `a5d4fc82c6cbda28beb0c8e7ae436fe5dd3e5839a16e6a8f724df82562448bcd` (567348942 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `da0303658ee2fa22b73df19705ee88f05343581b`, `check.py` `d36188b60926167ff377bd58f0b03f30cc9a1a52`, `on.py` `55bf92027127e36254521d114abde53cfefbb67d`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
@@ -26919,7 +26958,7 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Every act's decisions made by hand (127846 in all) are listed in that act's own README.md, under "Decisions made by hand".
+- Every act's decisions made by hand (128023 in all) are listed in that act's own README.md, under "Decisions made by hand".
 
 ## What AI did and did not do
 
@@ -36009,6 +36048,9 @@ Model use at data-build time:
 - HG nr. 216/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 216/2024: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 216/2025: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 2165/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 2166/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 2168/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 217/2005: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 217/2007: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 217/2010: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -36023,6 +36065,12 @@ Model use at data-build time:
 - HG nr. 217/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 217/2024: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 217/2025: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 2170/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 2171/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 2172/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 2173/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 2177/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 2178/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 218/2002: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 218/2007: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 218/2009: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -36034,6 +36082,15 @@ Model use at data-build time:
 - HG nr. 218/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 218/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 218/2025: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 2180/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 2181/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 2183/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 2184/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 2185/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 2186/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 2187/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 2188/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 2189/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 219/2006: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 219/2007: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 219/2008: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -36045,6 +36102,13 @@ Model use at data-build time:
 - HG nr. 219/2017: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 219/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 219/2024: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 2191/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 2192/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 2194/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 2196/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 2197/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 2198/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 2199/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 22/2010: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 22/2015: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 22/2017: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -36060,6 +36124,9 @@ Model use at data-build time:
 - HG nr. 220/2020: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 220/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 220/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 2202/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 2206/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 2208/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 221/2006: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 221/2007: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 221/2012: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -36074,6 +36141,11 @@ Model use at data-build time:
 - HG nr. 221/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 221/2024: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 221/2025: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 2210/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 2211/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 2212/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 2216/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 2219/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 222/2003: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 222/2005: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 222/2006: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -36089,6 +36161,7 @@ Model use at data-build time:
 - HG nr. 222/2024: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 222/2025: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 222/2026: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 2220/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 2221/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 2224/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 2225/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -51606,7 +51679,10 @@ Model use at data-build time:
 - Legea nr. 550/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 551/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 554/2003: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- Legea nr. 555/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 556/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- Legea nr. 557/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- Legea nr. 559/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 56/2001: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 56/2012: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 56/2013: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -51617,6 +51693,8 @@ Model use at data-build time:
 - Legea nr. 56/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 56/2024: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 56/2026: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- Legea nr. 560/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- Legea nr. 563/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 564/2001: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 567/2001: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - Legea nr. 57/2001: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
