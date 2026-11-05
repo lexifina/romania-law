@@ -1,0 +1,651 @@
+{
+ "country": "RO",
+ "shard": "profesii/2019",
+ "acts": [
+  {
+   "slug": "profesii-inppa-hotarare-consiliu-2019-1",
+   "path": "profesii/inppa/hotarare-consiliu/2019/1",
+   "short": "INPPA hotarare-consiliu 1/2019",
+   "title": "Hotărârea nr. 1 din 17 mai 2019 a Consiliului de Conducere al INPPA privind începerea anului II de pregătire profesională iniţiala, 2019",
+   "url": "https://inppa.ro/hotararea-nr-1-din-17-mai-2019-a-consiliului-de-conducere-al-inppa-privind-inceperea-anului-ii-de-pregatire-profesionala-initiala-2019/",
+   "versions": [
+    {
+     "from": "2019-05-22",
+     "units": 1,
+     "source_url": "https://inppa.ro/hotararea-nr-1-din-17-mai-2019-a-consiliului-de-conducere-al-inppa-privind-inceperea-anului-ii-de-pregatire-profesionala-initiala-2019/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-inppa-hotarare-consiliu-2019-2",
+   "path": "profesii/inppa/hotarare-consiliu/2019/2",
+   "short": "INPPA hotarare-consiliu 2/2019",
+   "title": "Hotărârea nr. 2 din 17 mai 2019 a Consiliului de Conducere al INPPA privind Examenul de absolvire a cursurilor de pregătire profesională inițială organizate în anul 2019 în cadrul I.N.P.P.A. / Centrelor teritoriale ale I.N.P.P.A",
+   "url": "https://inppa.ro/hotararea-nr-2-din-17-mai-2019-a-consiliului-de-conducere-al-inppa-privind-examenul-de-absolvire-a-cursurilor-de-pregatire-profesionala-initiala-organizate-in-anul-2019-in-cadrul-i-n-p-p-a-centrel/",
+   "versions": [
+    {
+     "from": "2019-05-22",
+     "units": 1,
+     "source_url": "https://inppa.ro/hotararea-nr-2-din-17-mai-2019-a-consiliului-de-conducere-al-inppa-privind-examenul-de-absolvire-a-cursurilor-de-pregatire-profesionala-initiala-organizate-in-anul-2019-in-cadrul-i-n-p-p-a-centrel/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-inppa-hotarare-consiliu-2019-3",
+   "path": "profesii/inppa/hotarare-consiliu/2019/3",
+   "short": "INPPA hotarare-consiliu 3/2019",
+   "title": "Hotărârea nr. 3 din 17 mai 2019 a Consiliului de Conducere al INPPA privind adoptarea modelului caietului de lucrări profesionale pentru anul II de pregătire profesionala initiala",
+   "url": "https://inppa.ro/hotararea-nr-3-din-17-mai-2019-a-consiliului-de-conducere-al-inppa-privind-adoptarea-modelului-caietului-de-lucrari-profesionale-pentru-anul-ii-de-pregatire-profesionala-initiala/",
+   "versions": [
+    {
+     "from": "2019-05-22",
+     "units": 1,
+     "source_url": "https://inppa.ro/hotararea-nr-3-din-17-mai-2019-a-consiliului-de-conducere-al-inppa-privind-adoptarea-modelului-caietului-de-lucrari-profesionale-pentru-anul-ii-de-pregatire-profesionala-initiala/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-inppa-hotarare-consiliu-2019-4",
+   "path": "profesii/inppa/hotarare-consiliu/2019/4",
+   "short": "Hotărârea nr. 4 din 17 mai 2019 a Consiliului de Conducere al INPPA privind recunoasterea probelor orale - 2019",
+   "title": "Hotărârea nr. 4 din 17 mai 2019 a Consiliului de Conducere al INPPA privind recunoasterea probelor orale - 2019",
+   "url": "https://inppa.ro/hotararea-nr-4-din-17-mai-2019-a-consiliului-de-conducere-al-inppa-privind-recunoasterea-probelor-orale-2019/",
+   "versions": [
+    {
+     "from": "2019-05-22",
+     "units": 1,
+     "source_url": "https://inppa.ro/hotararea-nr-4-din-17-mai-2019-a-consiliului-de-conducere-al-inppa-privind-recunoasterea-probelor-orale-2019/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-inppa-hotarare-consiliu-2019-6",
+   "path": "profesii/inppa/hotarare-consiliu/2019/6",
+   "short": "INPPA hotarare-consiliu 6/2019",
+   "title": "Hotărârea nr. 6 din 11 octombrie 2019 privind Examenul de absolvire a cursurilor de pregătire profesională inițială organizate în anul 2019 în cadrul I.N.P.P.A. / Centrelor teritoriale ale I.N.P.P.A",
+   "url": "https://inppa.ro/hotararea-nr-6-din-11-octombrie-2019-privind-examenul-de-absolvire-a-cursurilor-de-pregatire-profesionala-initiala-organizate-in-anul-2019-in-cadrul-i-n-p-p-a-centrelor-teritoriale-ale-i-n-p-p-a/",
+   "versions": [
+    {
+     "from": "2019-10-11",
+     "units": 1,
+     "source_url": "https://inppa.ro/hotararea-nr-6-din-11-octombrie-2019-privind-examenul-de-absolvire-a-cursurilor-de-pregatire-profesionala-initiala-organizate-in-anul-2019-in-cadrul-i-n-p-p-a-centrelor-teritoriale-ale-i-n-p-p-a/",
+     "sha256": "25c85f5e684b257d32e6296ca256c124d2cf68547e9c7247b89d1db4b98f5999"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-inppa-hotarare-consiliu-2019-7",
+   "path": "profesii/inppa/hotarare-consiliu/2019/7",
+   "short": "INPPA hotarare-consiliu 7/2019",
+   "title": "Hotărârea nr. 7 din 13 octombrie 2019 a Consiliului I.N.P.P.A. de revocare a Hotărârii nr. 6 din 11 octombrie 2019 privind Examenul de absolvire a cursurilor de pregătire profesională inițială organizate în anul 2019 în cadrul I.N.P.P.A. / Centrelor teritoriale ale I.N.P.P.A",
+   "url": "https://inppa.ro/hotararea-nr-7-din-13-octombrie-2019-a-consiliului-i-n-p-p-a-de-revocare-a-hotararii-nr-6-din-11-octombrie-2019-privind-examenul-de-absolvire-a-cursurilor-de-pregatire-profesionala-initiala-organiz/",
+   "versions": [
+    {
+     "from": "2019-10-13",
+     "units": 1,
+     "source_url": "https://inppa.ro/hotararea-nr-7-din-13-octombrie-2019-a-consiliului-i-n-p-p-a-de-revocare-a-hotararii-nr-6-din-11-octombrie-2019-privind-examenul-de-absolvire-a-cursurilor-de-pregatire-profesionala-initiala-organiz/",
+     "sha256": "37bc92a596b569a315505251fed248f8477f449544373a02f33a0aaeb73a49b8"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-inppa-hotarare-consiliu-2019-8",
+   "path": "profesii/inppa/hotarare-consiliu/2019/8",
+   "short": "Hotărârea nr. 8 a Consiliului de Conducere al INPPA privind începerea anului I de pregătire profesională iniţială - 2019",
+   "title": "Hotărârea nr. 8 a Consiliului de Conducere al INPPA privind începerea anului I de pregătire profesională iniţială - 2019",
+   "url": "https://inppa.ro/hotararea-nr-8-a-consiliului-de-conducere-al-inppa-privind-inceperea-anului-i-de-pregatire-profesionala-initiala-2019/",
+   "versions": [
+    {
+     "from": "2019-01-23",
+     "units": 1,
+     "source_url": "https://inppa.ro/hotararea-nr-8-a-consiliului-de-conducere-al-inppa-privind-inceperea-anului-i-de-pregatire-profesionala-initiala-2019/",
+     "sha256": "1519f015d63c56f7c975cc1bd371028f20bf784b737a66d04e5adf02f99b6794"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-2019-432",
+   "path": "profesii/unbr/decizie/2019/432",
+   "short": "DECIZIA nr. 432/23.03.2019",
+   "title": "DECIZIA nr. 432/23.03.2019",
+   "url": "https://unbr.ro/decizia-nr-432-23-03-2019/",
+   "versions": [
+    {
+     "from": "2019-03-23",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-nr-432-23-03-2019/",
+     "sha256": "be496ff642fbc13eb9a9e4161c85c0de75b9c6cffd169b65a183a24722f42034"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-2019-459",
+   "path": "profesii/unbr/decizie/2019/459",
+   "short": "DECIZIA NR. 459/23.03.2019",
+   "title": "DECIZIA NR. 459/23.03.2019",
+   "url": "https://unbr.ro/decizia-nr-459-23-03-2019/",
+   "versions": [
+    {
+     "from": "2019-03-23",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-nr-459-23-03-2019/",
+     "sha256": "7d63abcfb8874859c93364425b93e8d9dd35bbb8f57d8a775cb62eb7bc1e4547"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2019-391",
+   "path": "profesii/unbr/decizie-cp/2019/391",
+   "short": "UNBR decizie-cp 391/2019",
+   "title": "Decizia nr. 391/1 februarie 2019 a Comisiei Permanente a Uniunii Naționale a Barourilor din România (U.N.B.R.), privind desfășurarea activității în Registrul National de Publicitate Mobiliară al operatorului U.N.B.R.-R.N.P.M. și agenților acestuia",
+   "url": "https://unbr.ro/publicam-decizia-nr-391-1-februarie-2019-a-comisiei-permanente-a-uniunii-nationale-a-barourilor-din-romania-u-n-b-r-privind-desfasurarea-activitatii-in-registrul-national-de-publicitate-mobiliara/",
+   "versions": [
+    {
+     "from": "2019-02-05",
+     "units": 1,
+     "source_url": "https://unbr.ro/publicam-decizia-nr-391-1-februarie-2019-a-comisiei-permanente-a-uniunii-nationale-a-barourilor-din-romania-u-n-b-r-privind-desfasurarea-activitatii-in-registrul-national-de-publicitate-mobiliara/",
+     "sha256": "1fa12dd17c91db8092dc31538c1bb9e5603f27534b73446e3c5283a050247933"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2019-392",
+   "path": "profesii/unbr/decizie-cp/2019/392",
+   "short": "UNBR decizie-cp 392/2019",
+   "title": "Decizia nr. 392 / 01 februarie 2019 a Comisiei Permanente a UNBR privind organizarea Examenului de verificare a cunoștințelor de drept românesc şi de limbă română pentru avocații străini - sesiunea 9 și 10 mai 2019",
+   "url": "https://unbr.ro/decizia-nr-392-01-februarie-2019-a-comisiei-permanente-a-unbr-privind-organizarea-examenului-de-verificare-a-cunostintelor-de-drept-romanesc-si-de-limba-romana-pentru-avocatii-straini-sesiunea-9/",
+   "versions": [
+    {
+     "from": "2019-03-06",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-nr-392-01-februarie-2019-a-comisiei-permanente-a-unbr-privind-organizarea-examenului-de-verificare-a-cunostintelor-de-drept-romanesc-si-de-limba-romana-pentru-avocatii-straini-sesiunea-9/",
+     "sha256": "3f45517969266fb4bcf65b91d8a5755dbf55fe1af376ba192d156eca11fcf044"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-cne-2019-4-2",
+   "path": "profesii/unbr/hotarare-cne/2019/4-2",
+   "short": "Hotărârea nr. 4/25.08.2019 a Comisiei naționale de examen - Examenul de primire în profesie - sesiunea august 2019",
+   "title": "Hotărârea nr. 4/25.08.2019 a Comisiei naționale de examen - Examenul de primire în profesie - sesiunea august 2019",
+   "url": "https://unbr.ro/hotararea-nr-4-25-08-2019-a-comisiei-nationale-de-examen-examenul-de-primire-in-profesie-sesiunea-august-2019/",
+   "versions": [
+    {
+     "from": "2019-08-25",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-nr-4-25-08-2019-a-comisiei-nationale-de-examen-examenul-de-primire-in-profesie-sesiunea-august-2019/",
+     "sha256": "b429b204b0d6549602abe0d1fe174df5408dff3c6f2f41b40b9dc9f434eaddb5"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-cne-2019-4",
+   "path": "profesii/unbr/hotarare-cne/2019/4",
+   "short": "Hotărârea nr. 4/28.02.2019 a Comisiei naționale de examen - Examenul de primire în profesie - sesiunea martie 2019",
+   "title": "Hotărârea nr. 4/28.02.2019 a Comisiei naționale de examen - Examenul de primire în profesie - sesiunea martie 2019",
+   "url": "https://unbr.ro/hotararea-nr-4-28-02-2019-a-comisiei-nationale-de-examen-examenul-de-primire-in-profesie-sesiunea-martie-2019/",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-nr-4-28-02-2019-a-comisiei-nationale-de-examen-examenul-de-primire-in-profesie-sesiunea-martie-2019/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-cne-2019-5",
+   "path": "profesii/unbr/hotarare-cne/2019/5",
+   "short": "Hotărârea nr. 5/27.08.2019 a Comisiei naționale de examen - Examenul de primire în profesie - sesiunea august 2019",
+   "title": "Hotărârea nr. 5/27.08.2019 a Comisiei naționale de examen - Examenul de primire în profesie - sesiunea august 2019",
+   "url": "https://unbr.ro/hotararea-nr-5-27-08-2019-a-comisiei-nationale-de-examen-examenul-de-primire-in-profesie-sesiunea-august-2019/",
+   "versions": [
+    {
+     "from": "2019-08-27",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-nr-5-27-08-2019-a-comisiei-nationale-de-examen-examenul-de-primire-in-profesie-sesiunea-august-2019/",
+     "sha256": "1a46316e5dbc241d9399af768979ac1f7de79f7793bc1b163dccdb1dc7b2419e"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-congres-2019-1",
+   "path": "profesii/unbr/hotarare-congres/2019/1",
+   "short": "Hotărârea Congresului avocaților nr. 1/2019",
+   "title": "Hotărârea Congresului avocaților nr. 1/2019",
+   "url": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-06-07-iunie-2019-si-consiliul-unbr-din-07-iunie-2019-privind-alegerea-organelor-profesiei/",
+   "versions": [
+    {
+     "from": "2019-06-11",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-06-07-iunie-2019-si-consiliul-unbr-din-07-iunie-2019-privind-alegerea-organelor-profesiei/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-congres-2019-10",
+   "path": "profesii/unbr/hotarare-congres/2019/10",
+   "short": "Hotărârea Congresului avocaților nr. 10/2019",
+   "title": "Hotărârea Congresului avocaților nr. 10/2019",
+   "url": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-06-07-iunie-2019-si-consiliul-unbr-din-07-iunie-2019-privind-alegerea-organelor-profesiei/",
+   "versions": [
+    {
+     "from": "2019-06-11",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-06-07-iunie-2019-si-consiliul-unbr-din-07-iunie-2019-privind-alegerea-organelor-profesiei/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-congres-2019-11",
+   "path": "profesii/unbr/hotarare-congres/2019/11",
+   "short": "Hotărârea Congresului avocaților nr. 11/2019",
+   "title": "Hotărârea Congresului avocaților nr. 11/2019",
+   "url": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-06-07-iunie-2019-si-consiliul-unbr-din-07-iunie-2019-privind-alegerea-organelor-profesiei/",
+   "versions": [
+    {
+     "from": "2019-06-11",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-06-07-iunie-2019-si-consiliul-unbr-din-07-iunie-2019-privind-alegerea-organelor-profesiei/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-congres-2019-12-2",
+   "path": "profesii/unbr/hotarare-congres/2019/12-2",
+   "short": "UNBR hotarare-congres 12/2019",
+   "title": "Hotărârea nr. 12 a Congresului avocaților 2019 privind execuția bugetară a Casei de Asigurări a Avocaților pe anul 2017 și 2018 și proiectul de buget al sistemului autonom de asigurări sociale și pensii pentru avocați pe anul 2019",
+   "url": "https://unbr.ro/hotararea-nr-12-a-congresului-avocatilor-2019-privind-executia-bugetara-a-casei-de-asigurari-a-avocatilor-pe-anul-2017-si-2018-si-proiectul-de-buget-al-sistemului-autonom-de-asigurari-sociale-si-pens/",
+   "versions": [
+    {
+     "from": "2019-10-08",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-nr-12-a-congresului-avocatilor-2019-privind-executia-bugetara-a-casei-de-asigurari-a-avocatilor-pe-anul-2017-si-2018-si-proiectul-de-buget-al-sistemului-autonom-de-asigurari-sociale-si-pens/",
+     "sha256": "c232613f44f9153c7d10b8fa29c2e8409b333a38ffe1ea8a7994cadb6ede50d1"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-congres-2019-12",
+   "path": "profesii/unbr/hotarare-congres/2019/12",
+   "short": "Hotărârea Congresului avocaților nr. 12/2019",
+   "title": "Hotărârea Congresului avocaților nr. 12/2019",
+   "url": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-06-07-iunie-2019-si-consiliul-unbr-din-07-iunie-2019-privind-alegerea-organelor-profesiei/",
+   "versions": [
+    {
+     "from": "2019-06-11",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-06-07-iunie-2019-si-consiliul-unbr-din-07-iunie-2019-privind-alegerea-organelor-profesiei/",
+     "sha256": "c232613f44f9153c7d10b8fa29c2e8409b333a38ffe1ea8a7994cadb6ede50d1"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-congres-2019-13",
+   "path": "profesii/unbr/hotarare-congres/2019/13",
+   "short": "Hotărârea Congresului avocaților nr. 13/2019",
+   "title": "Hotărârea Congresului avocaților nr. 13/2019",
+   "url": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-06-07-iunie-2019-si-consiliul-unbr-din-07-iunie-2019-privind-alegerea-organelor-profesiei/",
+   "versions": [
+    {
+     "from": "2019-06-11",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-06-07-iunie-2019-si-consiliul-unbr-din-07-iunie-2019-privind-alegerea-organelor-profesiei/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-congres-2019-14-2",
+   "path": "profesii/unbr/hotarare-congres/2019/14-2",
+   "short": "UNBR hotarare-congres 14/2019",
+   "title": "Hotărârea nr. 14 a Congresului avocaților 2019 privind mandatarea Consiliului Uniunii Naționale a Barourilor din România de a aproba proiectul de buget al U.N.B.R. pe anul 2020",
+   "url": "https://unbr.ro/hotararea-nr-14-a-congresului-avocatilor-2019-privind-mandatarea-consiliului-uniunii-nationale-a-barourilor-din-romania-de-a-aproba-proiectul-de-buget-al-u-n-b-r-pe-anul-2020/",
+   "versions": [
+    {
+     "from": "2019-10-08",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-nr-14-a-congresului-avocatilor-2019-privind-mandatarea-consiliului-uniunii-nationale-a-barourilor-din-romania-de-a-aproba-proiectul-de-buget-al-u-n-b-r-pe-anul-2020/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-congres-2019-14",
+   "path": "profesii/unbr/hotarare-congres/2019/14",
+   "short": "Hotărârea Congresului avocaților nr. 14/2019",
+   "title": "Hotărârea Congresului avocaților nr. 14/2019",
+   "url": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-06-07-iunie-2019-si-consiliul-unbr-din-07-iunie-2019-privind-alegerea-organelor-profesiei/",
+   "versions": [
+    {
+     "from": "2019-06-11",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-06-07-iunie-2019-si-consiliul-unbr-din-07-iunie-2019-privind-alegerea-organelor-profesiei/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-congres-2019-2",
+   "path": "profesii/unbr/hotarare-congres/2019/2",
+   "short": "Hotărârea Congresului avocaților nr. 2/2019",
+   "title": "Hotărârea Congresului avocaților nr. 2/2019",
+   "url": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-06-07-iunie-2019-si-consiliul-unbr-din-07-iunie-2019-privind-alegerea-organelor-profesiei/",
+   "versions": [
+    {
+     "from": "2019-06-11",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-06-07-iunie-2019-si-consiliul-unbr-din-07-iunie-2019-privind-alegerea-organelor-profesiei/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-congres-2019-3",
+   "path": "profesii/unbr/hotarare-congres/2019/3",
+   "short": "Hotărârea Congresului avocaților nr. 3/2019",
+   "title": "Hotărârea Congresului avocaților nr. 3/2019",
+   "url": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-06-07-iunie-2019-si-consiliul-unbr-din-07-iunie-2019-privind-alegerea-organelor-profesiei/",
+   "versions": [
+    {
+     "from": "2019-06-11",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-06-07-iunie-2019-si-consiliul-unbr-din-07-iunie-2019-privind-alegerea-organelor-profesiei/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-congres-2019-4",
+   "path": "profesii/unbr/hotarare-congres/2019/4",
+   "short": "Hotărârea Congresului avocaților nr. 4/2019",
+   "title": "Hotărârea Congresului avocaților nr. 4/2019",
+   "url": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-06-07-iunie-2019-si-consiliul-unbr-din-07-iunie-2019-privind-alegerea-organelor-profesiei/",
+   "versions": [
+    {
+     "from": "2019-06-11",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-06-07-iunie-2019-si-consiliul-unbr-din-07-iunie-2019-privind-alegerea-organelor-profesiei/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-congres-2019-5",
+   "path": "profesii/unbr/hotarare-congres/2019/5",
+   "short": "Hotărârea Congresului avocaților nr. 5/2019",
+   "title": "Hotărârea Congresului avocaților nr. 5/2019",
+   "url": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-06-07-iunie-2019-si-consiliul-unbr-din-07-iunie-2019-privind-alegerea-organelor-profesiei/",
+   "versions": [
+    {
+     "from": "2019-06-11",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-06-07-iunie-2019-si-consiliul-unbr-din-07-iunie-2019-privind-alegerea-organelor-profesiei/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-congres-2019-6",
+   "path": "profesii/unbr/hotarare-congres/2019/6",
+   "short": "Hotărârea Congresului avocaților nr. 6/2019",
+   "title": "Hotărârea Congresului avocaților nr. 6/2019",
+   "url": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-06-07-iunie-2019-si-consiliul-unbr-din-07-iunie-2019-privind-alegerea-organelor-profesiei/",
+   "versions": [
+    {
+     "from": "2019-06-11",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-06-07-iunie-2019-si-consiliul-unbr-din-07-iunie-2019-privind-alegerea-organelor-profesiei/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-congres-2019-7",
+   "path": "profesii/unbr/hotarare-congres/2019/7",
+   "short": "Hotărârea Congresului avocaților nr. 7/2019",
+   "title": "Hotărârea Congresului avocaților nr. 7/2019",
+   "url": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-06-07-iunie-2019-si-consiliul-unbr-din-07-iunie-2019-privind-alegerea-organelor-profesiei/",
+   "versions": [
+    {
+     "from": "2019-06-11",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-06-07-iunie-2019-si-consiliul-unbr-din-07-iunie-2019-privind-alegerea-organelor-profesiei/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-congres-2019-8",
+   "path": "profesii/unbr/hotarare-congres/2019/8",
+   "short": "Hotărârea Congresului avocaților nr. 8/2019",
+   "title": "Hotărârea Congresului avocaților nr. 8/2019",
+   "url": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-06-07-iunie-2019-si-consiliul-unbr-din-07-iunie-2019-privind-alegerea-organelor-profesiei/",
+   "versions": [
+    {
+     "from": "2019-06-11",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-06-07-iunie-2019-si-consiliul-unbr-din-07-iunie-2019-privind-alegerea-organelor-profesiei/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-congres-2019-9",
+   "path": "profesii/unbr/hotarare-congres/2019/9",
+   "short": "Hotărârea Congresului avocaților nr. 9/2019",
+   "title": "Hotărârea Congresului avocaților nr. 9/2019",
+   "url": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-06-07-iunie-2019-si-consiliul-unbr-din-07-iunie-2019-privind-alegerea-organelor-profesiei/",
+   "versions": [
+    {
+     "from": "2019-06-11",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-06-07-iunie-2019-si-consiliul-unbr-din-07-iunie-2019-privind-alegerea-organelor-profesiei/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2019-26",
+   "path": "profesii/unbr/hotarare-consiliu/2019/26",
+   "short": "UNBR hotarare-consiliu 26/2019",
+   "title": "Hotărârea nr. 26 / 04 octombrie 2019 a Consiliului UNBR privind stabilirea cuantumul restituirilor sumelor achitate cu titlu de taxă de examen, în vederea susținerii examenului de primire în profesia de avocat şi admitere în cadrul Institutului National pentru Pregătirea şi Perfecționarea Avocaților (în vederea dobândirii titlului profesional de avocat stagiar) şi de primire în profesia de avocat a persoanelor care au absolvit examenul de definitivat în alte profesii juridice, sesiunea august 2019",
+   "url": "https://unbr.ro/hotararea-nr-26-04-octombrie-2019-a-consiliului-unbr-privind-stabilirea-cuantumul-restituirilor-sumelor-achitate-cu-titlu-de-taxa-de-examen-in-vederea-sustinerii-examenului-de-primire-in-profesia/",
+   "versions": [
+    {
+     "from": "2019-10-23",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-nr-26-04-octombrie-2019-a-consiliului-unbr-privind-stabilirea-cuantumul-restituirilor-sumelor-achitate-cu-titlu-de-taxa-de-examen-in-vederea-sustinerii-examenului-de-primire-in-profesia/",
+     "sha256": "26196434c25db6e43484c2c5c3e1fd47529c81ff9355d3d32492defb9decdc5d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2019-31",
+   "path": "profesii/unbr/hotarare-consiliu/2019/31",
+   "short": "UNBR hotarare-consiliu 31/2019",
+   "title": "Hotărârea Consiliului UNBR nr. 31 din 09 noiembrie 2019 privind programul (calendarul) de activități al organelor colective de conducere a profesiei de avocat organizate la nivel național în anul 2020",
+   "url": "https://unbr.ro/publicam-hotararea-consiliului-unbr-nr-31-din-09-noiembrie-2019-privind-programul-de-activitati-al-organelor-colective-de-conducere-a-profesiei-de-avocat-organizate-la-nivel-national-in-anul-2020/",
+   "versions": [
+    {
+     "from": "2019-11-14",
+     "units": 1,
+     "source_url": "https://unbr.ro/publicam-hotararea-consiliului-unbr-nr-31-din-09-noiembrie-2019-privind-programul-de-activitati-al-organelor-colective-de-conducere-a-profesiei-de-avocat-organizate-la-nivel-national-in-anul-2020/",
+     "sha256": "2798aa856ac6053ba8e55197a0e80786516964d0e1d2a113f4df5ea333cafd1b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2019-37",
+   "path": "profesii/unbr/hotarare-consiliu/2019/37",
+   "short": "Hotărârea Consiliului UNBR nr. 37/2019",
+   "title": "Hotărârea Consiliului UNBR nr. 37/2019",
+   "url": "https://unbr.ro/publicam-hotararile-consiliului-unbr-nr-37-43-adoptate-in-sedinta-din-07-decembrie-2019-care-a-avut-loc-la-bucuresti/",
+   "versions": [
+    {
+     "from": "2019-12-11",
+     "units": 1,
+     "source_url": "https://unbr.ro/publicam-hotararile-consiliului-unbr-nr-37-43-adoptate-in-sedinta-din-07-decembrie-2019-care-a-avut-loc-la-bucuresti/",
+     "sha256": "69e66b30a280f61aecbe978f4ee391889e0ac107d2d349adb49ee16382128fbe"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2019-38",
+   "path": "profesii/unbr/hotarare-consiliu/2019/38",
+   "short": "Hotărârea Consiliului UNBR nr. 38/2019",
+   "title": "Hotărârea Consiliului UNBR nr. 38/2019",
+   "url": "https://unbr.ro/publicam-hotararile-consiliului-unbr-nr-37-43-adoptate-in-sedinta-din-07-decembrie-2019-care-a-avut-loc-la-bucuresti/",
+   "versions": [
+    {
+     "from": "2019-12-11",
+     "units": 1,
+     "source_url": "https://unbr.ro/publicam-hotararile-consiliului-unbr-nr-37-43-adoptate-in-sedinta-din-07-decembrie-2019-care-a-avut-loc-la-bucuresti/",
+     "sha256": "dc853d1bc9627017594cd13896034842750b7889ea25febb4c8a83b7acbbb8b4"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2019-39",
+   "path": "profesii/unbr/hotarare-consiliu/2019/39",
+   "short": "Hotărârea Consiliului UNBR nr. 39/2019",
+   "title": "Hotărârea Consiliului UNBR nr. 39/2019",
+   "url": "https://unbr.ro/publicam-hotararile-consiliului-unbr-nr-37-43-adoptate-in-sedinta-din-07-decembrie-2019-care-a-avut-loc-la-bucuresti/",
+   "versions": [
+    {
+     "from": "2019-12-11",
+     "units": 1,
+     "source_url": "https://unbr.ro/publicam-hotararile-consiliului-unbr-nr-37-43-adoptate-in-sedinta-din-07-decembrie-2019-care-a-avut-loc-la-bucuresti/",
+     "sha256": "cc0e4f07dd5d3f83dfa2aaa570da7b086efd0f3818e152dd1a4a29b733bb0e70"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2019-40",
+   "path": "profesii/unbr/hotarare-consiliu/2019/40",
+   "short": "Hotărârea Consiliului UNBR nr. 40/2019",
+   "title": "Hotărârea Consiliului UNBR nr. 40/2019",
+   "url": "https://unbr.ro/publicam-hotararile-consiliului-unbr-nr-37-43-adoptate-in-sedinta-din-07-decembrie-2019-care-a-avut-loc-la-bucuresti/",
+   "versions": [
+    {
+     "from": "2019-12-11",
+     "units": 1,
+     "source_url": "https://unbr.ro/publicam-hotararile-consiliului-unbr-nr-37-43-adoptate-in-sedinta-din-07-decembrie-2019-care-a-avut-loc-la-bucuresti/",
+     "sha256": "188356b05cdb945cc87413cb4960af622195d3768812fbf79c9940f3a61c6a7c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2019-43",
+   "path": "profesii/unbr/hotarare-consiliu/2019/43",
+   "short": "Hotărârea Consiliului UNBR nr. 43/2019",
+   "title": "Hotărârea Consiliului UNBR nr. 43/2019",
+   "url": "https://unbr.ro/publicam-hotararile-consiliului-unbr-nr-37-43-adoptate-in-sedinta-din-07-decembrie-2019-care-a-avut-loc-la-bucuresti/",
+   "versions": [
+    {
+     "from": "2019-12-11",
+     "units": 1,
+     "source_url": "https://unbr.ro/publicam-hotararile-consiliului-unbr-nr-37-43-adoptate-in-sedinta-din-07-decembrie-2019-care-a-avut-loc-la-bucuresti/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2019-431",
+   "path": "profesii/unbr/hotarare-consiliu/2019/431",
+   "short": "Hotărârea Consiliului UNBR nr. 431/2019 publicată în Monitorul Oficial, Partea I, nr. 281 din 12 aprilie 2016",
+   "title": "Hotărârea Consiliului UNBR nr. 431/2019 publicată în Monitorul Oficial, Partea I, nr. 281 din 12 aprilie 2016",
+   "url": "https://unbr.ro/dam-publicitatii-hotararea-consiliului-unbr-nr-431-2019-publicata-in-monitorul-oficial-partea-i-nr-281-din-12-aprilie-2016/",
+   "versions": [
+    {
+     "from": "2019-05-07",
+     "units": 1,
+     "source_url": "https://unbr.ro/dam-publicitatii-hotararea-consiliului-unbr-nr-431-2019-publicata-in-monitorul-oficial-partea-i-nr-281-din-12-aprilie-2016/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2019-462",
+   "path": "profesii/unbr/hotarare-consiliu/2019/462",
+   "short": "UNBR hotarare-consiliu 462/2019",
+   "title": "Hotărârea nr. 462/ 05.06.2019 a Consiliului UNBR pentru republicarea în formă consolidată a Regulamentului - cadru privind organizarea examenului de primire în profesia de avocat şi admitere în cadrul Institutului Naţional pentru Pregătirea şi Perfecţionarea Avocaţilor (în vederea dobândirii titlului profesional de avocat stagiar) şi de primire în profesia de avocat a persoanelor care au absolvit examenul de definitivat în alte profesii juridice",
+   "url": "https://unbr.ro/hotararea-nr-462-05-06-2019-a-consiliului-unbr-pentru-republicarea-in-forma-consolidata-a-regulamentului-cadru-privind-organizarea-examenului-de-primire-in-profesia-de-avocat-si-admitere-in-cadrul/",
+   "versions": [
+    {
+     "from": "2019-06-21",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-nr-462-05-06-2019-a-consiliului-unbr-pentru-republicarea-in-forma-consolidata-a-regulamentului-cadru-privind-organizarea-examenului-de-primire-in-profesia-de-avocat-si-admitere-in-cadrul/",
+     "sha256": "b85c94040bc8590acd5f80009a499f757cdd3fe7d2fa6c466d50cc85395295e7"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2019-463",
+   "path": "profesii/unbr/hotarare-consiliu/2019/463",
+   "short": "UNBR hotarare-consiliu 463/2019",
+   "title": "Hotărârea nr. 463/05.06.2019 a Consiliului UNBR privind organizarea examenului de primire în profesia de avocat - sesiunea august 2019, împreună cu tematica de examen",
+   "url": "https://unbr.ro/hotararea-nr-463-05-06-2019-a-consiliului-unbr-privind-organizarea-examenului-de-primire-in-profesia-de-avocat-sesiunea-august-2019/",
+   "versions": [
+    {
+     "from": "2019-06-21",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-nr-463-05-06-2019-a-consiliului-unbr-privind-organizarea-examenului-de-primire-in-profesia-de-avocat-sesiunea-august-2019/",
+     "sha256": "a40f6e602f04fca5d299bdd396505e6beeb21eb24427915d1bee853a05ee13d6"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2019-464",
+   "path": "profesii/unbr/hotarare-consiliu/2019/464",
+   "short": "UNBR hotarare-consiliu 464/2019",
+   "title": "Hotărârea nr. 464/05.06.2019 a Consiliului UNBR privind unele măsuri pentru repartizarea sumelor încasate cu titlu de „taxă de examen” la examenul de primire în profesia de avocat - sesiunea august 2019",
+   "url": "https://unbr.ro/hotararea-nr-464-05-06-2019-a-consiliului-unbr-privind-unele-masuri-pentru-repartizarea-sumelor-incasate-cu-titlu-de-taxa-de-examen-la-examenul-de-primire-in-profesia-de-avocat-se/",
+   "versions": [
+    {
+     "from": "2019-06-21",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-nr-464-05-06-2019-a-consiliului-unbr-privind-unele-masuri-pentru-repartizarea-sumelor-incasate-cu-titlu-de-taxa-de-examen-la-examenul-de-primire-in-profesia-de-avocat-se/",
+     "sha256": "19c230d2299f3fe067a0a8ce5008f0caed6bb9f4300466c0cc1617d51b695968"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2019-6",
+   "path": "profesii/unbr/hotarare-consiliu/2019/6",
+   "short": "UNBR hotarare-consiliu 6/2019",
+   "title": "Norma metodologică nr. 6 despre aplicarea corectă a prevederilor art. 12 alin. (2) din Protocolul nr. 37-AUT-14.02.2019 privind stabilirea onorariilor cuvenite avocaţilor pentru furnizarea serviciilor de asistenţă judiciară",
+   "url": "https://unbr.ro/publicam-norma-metodologica-nr-6-despre-aplicarea-corecta-a-prevederilor-art-12-alin-2-din-protocolul-nr-37-aut-14-02-2019-privind-stabilirea-onorariilor-cuvenite-avocatilor-pentru-furnizarea-se/",
+   "versions": [
+    {
+     "from": "2019-03-29",
+     "units": 1,
+     "source_url": "https://unbr.ro/publicam-norma-metodologica-nr-6-despre-aplicarea-corecta-a-prevederilor-art-12-alin-2-din-protocolul-nr-37-aut-14-02-2019-privind-stabilirea-onorariilor-cuvenite-avocatilor-pentru-furnizarea-se/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-protocol-2019-1402",
+   "path": "profesii/unbr/protocol/2019/1402",
+   "short": "UNBR protocol /2019",
+   "title": "Protocolul din 14.02.2019 privind stabilirea onorariilor cuvenite avocaților pentru furnizarea serviciilor de asistență judiciară în materie penală, pentru prestarea, în cadrul sistemului de ajutor public judiciar, a serviciilor de asistență judiciară și/sau reprezentare ori de asistență extrajudiciară, precum și pentru asigurarea serviciilor de asistență judiciară privind accesul internațional la justiție în materie civilă și cooperarea judiciară internațională în materie penală",
+   "url": "https://unbr.ro/protocol-14-02-2019-onorarii-avocati/",
+   "versions": [
+    {
+     "from": "2019-02-14",
+     "units": 1,
+     "source_url": "https://unbr.ro/protocol-14-02-2019-onorarii-avocati/",
+     "sha256": "9e7d13cb96eeb20c8b6fb92e4f168ff1593e6d573d27fe8e0b7dbf28f01e081a"
+    }
+   ]
+  }
+ ]
+}

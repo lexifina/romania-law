@@ -1,0 +1,110 @@
+{
+"country": "RO",
+"shard": "profesii/2007",
+"acts": [
+{
+"slug": "profesii-unbr-decizie-consiliu-2007-268",
+"path": "profesii/unbr/decizie-consiliu/2007/268",
+"kind": "profesii",
+"year": "2007",
+"number": "268",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIA NR. 268 a Consiliului Uniunii Naţionale a Barourilor din România din 22 septembrie 2007",
+"short": "DECIZIA NR. 268 a Consiliului Uniunii Naţionale a Barourilor din România din 22 septembrie 2007",
+"code": null,
+"status": "metadata only (text not held yet)",
+"versions": 1,
+"from": "2007-09-22",
+"latest": "2007-09-22",
+"portal": "https://unbr.ro/decizia-nr-268-a-consiliului-uniunii-nationale-a-barourilor-din-romania-din-22-septembrie-2007/",
+"flags": {
+"text_missing": true,
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-2007-1484",
+"path": "profesii/unbr/decizie/2007/1484",
+"kind": "profesii",
+"year": "2007",
+"number": "1484",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIA NR. 1484/27 octombrie 2007 prin care se aprobă modelul cererii de solicitare a accesului la profesia de avocat şi modelul AVIZULUI CONFORM pentru atestarea calificării de avocat pentru înscrierea în tabloul unui barou din România;",
+"short": "UNBR decizie 1484/2007",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2007-10-27",
+"latest": "2007-10-27",
+"portal": "https://unbr.ro/decizia-nr-148427-octombrie-2007-prin-care-se-aproba-modelul-cererii-de-solicitare-a-accesului-la-profesia-de-avocat-si-modelul-avizului-conform-pentru-atestarea-calificarii-de-avocat-pentru-inscrie/",
+"flags": {
+"annex_missing": true,
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2007-1488",
+"path": "profesii/unbr/decizie-cp/2007/1488",
+"kind": "profesii",
+"year": "2007",
+"number": "1488",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIA NR. 1488/27 octombrie 2007 privind coordonarea activităţilor de conducere executivă curentă realizate de Comisia Permanentă",
+"short": "UNBR decizie-cp 1488/2007",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2007-10-27",
+"latest": "2007-10-27",
+"portal": "https://unbr.ro/decizia-nr-148827-octombrie-2007-privind-coordonarea-activitatilor-de-conducere-executiva-curenta-realizate-de-comisia-permanenta/",
+"flags": {
+"text_missing": true,
+"text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2007-1489",
+"path": "profesii/unbr/decizie-cp/2007/1489",
+"kind": "profesii",
+"year": "2007",
+"number": "1489",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIA NR. 1489/27 octombrie 2007 prin care se aprobă principiile reorganizării examenului pentru dobândirea titlului profesional de avocat definitiv",
+"short": "UNBR decizie-cp 1489/2007",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2007-10-27",
+"latest": "2007-10-27",
+"portal": "https://unbr.ro/decizia-nr-148927-octombrie-2007-prin-care-se-aproba-principiile-reorganizarii-examenului-pentru-dobandirea-titlului-profesional-de-avocat-definitiv/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2007-1490",
+"path": "profesii/unbr/decizie-cp/2007/1490",
+"kind": "profesii",
+"year": "2007",
+"number": "1490",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIA NR. 1490 privind adoptarea Regulamentului - cadru cuprinzând măsurile ce se vor lua în vederea arhivării documentelor create sau deţinute de Uniunea Naţională a Barourilor din România, Barouri, Casa de Asigurări a Avocaţilor şi Institutul Naţional pentru Pregătirea şi Perfecţionarea Avocaţilor",
+"short": "UNBR decizie-cp 1490/2007",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2007-12-14",
+"latest": "2007-12-14",
+"portal": "https://unbr.ro/decizia-nr-1490-privind-adoptarea-regulamentului-cadru-cuprinzand-masurile-ce-se-vor-lua-in-vederea-arhivarii-documentelor-create-sau-detinute-de-uniunea-nationala-a-barourilor-din-romania/",
+"flags": {
+"amendments_checked": false
+}
+}
+]
+}

@@ -1,0 +1,48 @@
+{
+"country": "RO",
+"shard": "profesii/2005",
+"acts": [
+{
+"slug": "profesii-unbr-protocol-2005-p328",
+"path": "profesii/unbr/protocol/2005/p328",
+"kind": "profesii",
+"year": "2005",
+"number": "p328",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROTOCOLUL încheiat între Uniunea Naţionalã a Barourilor din România şi Oficiul Naţional de Prevenire şi Combatere a Spãlãrii Banilor cu privire la schimbul reciproc de date şi informaţii…",
+"short": "UNBR protocol /2005",
+"code": null,
+"status": "metadata only (text not held yet)",
+"versions": 1,
+"from": "2005-12-02",
+"latest": "2005-12-02",
+"portal": "https://unbr.ro/protocolul-incheiat-intre-uniunea-nationala-a-barourilor-din-romania-si-oficiul-national-de-prevenire-si-combatere-a-spalarii-banilor-cu-privire-la-schimbul-reciproc-de-date-si-informatii/",
+"flags": {
+"text_missing": true,
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2005-76",
+"path": "profesii/unbr/decizie-cp/2005/76",
+"kind": "profesii",
+"year": "2005",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia nr. 76/17 iunie 2005 a Consiliului U.N.B.R. privind limitele maxime ale taxelor prevăzute la art. 315 din Statut, ce pot fi încasate de consiliul baroului şi limitele maxime ale taxelor prevăzute la art. 316 din Statut, ce pot fi încasate de Comisia Permanentă a U.N.B.R",
+"short": "UNBR decizie-cp 76/2005",
+"code": null,
+"status": "metadata only (text not held yet)",
+"versions": 1,
+"from": "2005-06-09",
+"latest": "2005-06-09",
+"portal": "https://unbr.ro/decizia-nr-7617-iunie-2005-a-consiliului-u-n-b-r-privind-limitele-maxime-ale-taxelor-prevazute-la-art-315-din-statut-ce-pot-fi-incasate-de-consiliul-baroului-si-limitele-maxime-ale-taxelor-prevaz/",
+"flags": {
+"text_missing": true,
+"amendments_checked": false
+}
+}
+]
+}

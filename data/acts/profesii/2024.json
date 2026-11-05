@@ -1,0 +1,1036 @@
+{
+"country": "RO",
+"shard": "profesii/2024",
+"acts": [
+{
+"slug": "profesii-inppa-act-2024-p24997",
+"path": "profesii/inppa/act/2024/p24997",
+"kind": "profesii",
+"year": "2024",
+"number": "p24997",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia nr. din 37/06.09.2024 privind stabilirea intervalului și condițiilor de susținere a testării scrise prevăzute de art. 49 alin. (7) și (8) al Regulamentului de organizare și funcționare a I.N.P.P.A",
+"short": "INPPA act /2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-09-12",
+"latest": "2024-09-12",
+"portal": "https://inppa.ro/decizia-nr-din-37-06-09-2024-privind-stabilirea-intervalului-si-conditiilor-de-sustinere-a-testarii-scrise-prevazute-de-art-49-alin-7-si-8-al-regulamentului-de-organizare-si-functionare-a/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2024-97-2",
+"path": "profesii/unbr/decizie-cp/2024/97-2",
+"kind": "profesii",
+"year": "2024",
+"number": "97-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Comisiei Permanente a UNBR nr. 97/2024",
+"short": "Decizia Comisiei Permanente a UNBR nr. 97/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-06-11",
+"latest": "2024-06-11",
+"portal": "https://unbr.ro/raportul-consiliului-uniunii-nationale-a-barourilor-din-romania-impreuna-cu-anexele-la-congresul-avocatilor-2024-proiect/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-congres-2024-60-2",
+"path": "profesii/unbr/hotarare-congres/2024/60-2",
+"kind": "profesii",
+"year": "2024",
+"number": "60-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Congresului avocaților nr. 60/2024",
+"short": "Hotărârea Congresului avocaților nr. 60/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-13",
+"latest": "2024-05-13",
+"portal": "https://unbr.ro/anunt-privind-convocarea-congresului-avocatilor-2024-pentru-zilele-de-vineri-14-iunie-si-sambata-15-iunie-2024-cu-incepere-de-la-ora-09-00-la-hotel-caro-bd-barbu-vacarescu-nr-164-a-sector-2-co/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2024-75-2",
+"path": "profesii/unbr/hotarare-consiliu/2024/75-2",
+"kind": "profesii",
+"year": "2024",
+"number": "75-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 75/2024",
+"short": "Hotărârea Consiliului UNBR nr. 75/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-118-din-13-14-decembrie-2024-prin-care-se-ratifica-decizia-comisiei-permanente-nr-215-09-octombrie-2024-privind-validarea-rezultatelor-examenului-de-primire-in-profesia/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2024-76-2",
+"path": "profesii/unbr/hotarare-consiliu/2024/76-2",
+"kind": "profesii",
+"year": "2024",
+"number": "76-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 76/2024",
+"short": "Hotărârea Consiliului UNBR nr. 76/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-118-din-13-14-decembrie-2024-prin-care-se-ratifica-decizia-comisiei-permanente-nr-215-09-octombrie-2024-privind-validarea-rezultatelor-examenului-de-primire-in-profesia/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-inppa-decizie-director-2024-1",
+"path": "profesii/inppa/decizie-director/2024/1",
+"kind": "profesii",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Directorului I.N.P.P.A. nr. 1/17.01.2024 privind desfășurarea activităților de pregătire profesională inițială la anul I și II - ciclul 2024",
+"short": "INPPA decizie-director 1/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-01-18",
+"latest": "2024-01-18",
+"portal": "https://inppa.ro/decizia-directorului-i-n-p-p-a-nr-1-17-01-2024-privind-desfasurarea-activitatilor-de-pregatire-profesionala-initiala-la-anul-i-si-ii-ciclul-2024/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-congres-2024-1",
+"path": "profesii/unbr/hotarare-congres/2024/1",
+"kind": "profesii",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Congresului avocaților nr. 1/2024",
+"short": "Hotărârea Congresului avocaților nr. 1/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-06-20",
+"latest": "2024-06-20",
+"portal": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-din-14-15-iunie-2024/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-congres-2024-3",
+"path": "profesii/unbr/hotarare-congres/2024/3",
+"kind": "profesii",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Congresului avocaților nr. 3/2024",
+"short": "Hotărârea Congresului avocaților nr. 3/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-06-20",
+"latest": "2024-06-20",
+"portal": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-din-14-15-iunie-2024/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-congres-2024-4",
+"path": "profesii/unbr/hotarare-congres/2024/4",
+"kind": "profesii",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Congresului avocaților nr. 4/2024",
+"short": "Hotărârea Congresului avocaților nr. 4/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-06-20",
+"latest": "2024-06-20",
+"portal": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-din-14-15-iunie-2024/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-congres-2024-5",
+"path": "profesii/unbr/hotarare-congres/2024/5",
+"kind": "profesii",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Congresului avocaților nr. 5/2024",
+"short": "Hotărârea Congresului avocaților nr. 5/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-06-20",
+"latest": "2024-06-20",
+"portal": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-din-14-15-iunie-2024/",
+"flags": {
+"text_missing": true,
+"text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-congres-2024-7",
+"path": "profesii/unbr/hotarare-congres/2024/7",
+"kind": "profesii",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Congresului avocaților nr. 7/2024",
+"short": "Hotărârea Congresului avocaților nr. 7/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-06-20",
+"latest": "2024-06-20",
+"portal": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-din-14-15-iunie-2024/",
+"flags": {
+"text_missing": true,
+"text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-inppa-hotarare-consiliu-2024-28",
+"path": "profesii/inppa/hotarare-consiliu/2024/28",
+"kind": "profesii",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia nr. 28 din 28 mai 2024 privind cursanții care nu şi-au exprimat opțiunea pentru unul dintre pachetele de discipline opționale din anul II de formare inițială",
+"short": "INPPA hotarare-consiliu 28/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-05-29",
+"latest": "2024-05-29",
+"portal": "https://inppa.ro/decizia-nr-28-din-28-mai-2024-privind-cursantii-care-nu-si-au-exprimat-optiunea-pentru-unul-dintre-pachetele-de-discipline-optionale-din-anul-ii-de-formare-initiala/",
+"flags": {
+"text_missing": true,
+"text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-2024-45",
+"path": "profesii/unbr/decizie/2024/45",
+"kind": "profesii",
+"year": "2024",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia nr. 45 din 04.11.2024 privind organizarea și desfășurarea examenului de absolvire a I.N.P.P.A. - sesiunea 10 noiembrie 2024",
+"short": "UNBR decizie 45/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-11-04",
+"latest": "2024-11-04",
+"portal": "https://unbr.ro/decizia-nr-45-din-04-11-2024-privind-organizarea-si-desfasurarea-examenului-de-absolvire-a-i-n-p-p-a-sesiunea-10-noiembrie-2024/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2024-49",
+"path": "profesii/unbr/hotarare-consiliu/2024/49",
+"kind": "profesii",
+"year": "2024",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 49/2024",
+"short": "Hotărârea Consiliului UNBR nr. 49/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-06-11",
+"latest": "2024-06-11",
+"portal": "https://unbr.ro/raportul-consiliului-uniunii-nationale-a-barourilor-din-romania-impreuna-cu-anexele-la-congresul-avocatilor-2024-proiect/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-inppa-decizie-director-2024-52",
+"path": "profesii/inppa/decizie-director/2024/52",
+"kind": "profesii",
+"year": "2024",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Directorului INPPA nr. 52/17.12.2024 privind desfășurarea activităților de pregătire profesională inițială la anul I și II - ciclul 2025",
+"short": "INPPA decizie-director 52/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://inppa.ro/decizia-directorului-inppa-nr-52-17-12-2024-privind-desfasurarea-activitatilor-de-pregatire-profesionala-initiala-la-anul-i-si-ii-ciclul-2025/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-congres-2024-60",
+"path": "profesii/unbr/hotarare-congres/2024/60",
+"kind": "profesii",
+"year": "2024",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 60 din 29-30 martie 2024 privind măsuri organizatorice referitoare la Congresul avocaților 2024",
+"short": "UNBR hotarare-congres 60/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-04-18",
+"latest": "2024-04-18",
+"portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-60-din-29-30-martie-2024-privind-masuri-organizatorice-referitoare-la-congresul-avocatilor-2024/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-congres-2024-73",
+"path": "profesii/unbr/hotarare-congres/2024/73",
+"kind": "profesii",
+"year": "2024",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 73 din 13 iunie 2024 privind modificarea Statutului profesiei de avocat, validată de Congresul avocaților prin Hotărârea nr. 04/14-15 iunie 2024",
+"short": "UNBR hotarare-congres 73/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-07-01",
+"latest": "2024-07-01",
+"portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-73-din-13-iunie-2024-privind-modificarea-statutului-profesiei-de-avocat-validata-de-congresul-avocatilor-prin-hotararea-nr-04-14-15-iunie-2024/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2024-75",
+"path": "profesii/unbr/hotarare-consiliu/2024/75",
+"kind": "profesii",
+"year": "2024",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 75 din 13 iunie 2024 pentru modificarea REGULAMENTULUI - CADRU privind organizarea examenului de primire în profesia de avocat și admitere în cadrul Institutului Național pentru Pregătirea și Perfecționarea Avocaților - I.N.P.P.A. (în vederea dobândirii titlului profesional de avocat stagiar) și de primire în profesia de avocat a persoanelor care au absolvit examenul de definitivat în alte profesii juridice",
+"short": "UNBR hotarare-consiliu 75/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-06-18",
+"latest": "2024-06-18",
+"portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-75-din-13-iunie-2024-pentru-modificarea-regulamentului-cadru-privind-organizarea-examenului-de-primire-in-profesia-de-avocat-si-admitere-in-cadrul-institutului-nationa/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2024-76",
+"path": "profesii/unbr/hotarare-consiliu/2024/76",
+"kind": "profesii",
+"year": "2024",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 76 din 13 iunie 2024 privind organizarea examenului de primire în profesie, sesiunea septembrie 2024",
+"short": "UNBR hotarare-consiliu 76/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-06-18",
+"latest": "2024-06-18",
+"portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-76-din-13-iunie-2024-privind-organizarea-examenului-de-primire-in-profesie-sesiunea-septembrie-2024/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2024-78",
+"path": "profesii/unbr/decizie-cp/2024/78",
+"kind": "profesii",
+"year": "2024",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 78 din 13 iunie 2024 privind modificarea și completarea Hotărârii Consiliului UNBR nr. 264/16 iunie 2022 prin care se stabilesc limitele maxime ale taxelor prevăzute la art. 337 și 338 din Statutul profesiei de avocat",
+"short": "UNBR decizie-cp 78/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-07-01",
+"latest": "2024-07-01",
+"portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-78-din-13-iunie-2024-privind-modificarea-si-completarea-hotararii-consiliului-unbr-nr-264-16-iunie-2022-prin-care-se-stabilesc-limitele-maxime-ale-taxelor-prevazute-la/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2024-80",
+"path": "profesii/unbr/hotarare-consiliu/2024/80",
+"kind": "profesii",
+"year": "2024",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 80 din 13 iunie 2024 prin care se aprobă rapoartele de evaluare și testare pentru Platforma IFEP și recomandările propuse în cele 2 rapoarte",
+"short": "UNBR hotarare-consiliu 80/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-07-01",
+"latest": "2024-07-01",
+"portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-80-din-13-iunie-2024-prin-care-se-aproba-rapoartele-de-evaluare-si-testare-pentru-platforma-ifep-si-recomandarile-propuse-in-cele-2-rapoarte/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2024-88",
+"path": "profesii/unbr/decizie-cp/2024/88",
+"kind": "profesii",
+"year": "2024",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Comisiei Permanente a UNBR nr. 88 din 26 - 27 ianuarie 2024 privind organizarea examenului de primire în profesie - sesiunea aprilie 2024",
+"short": "UNBR decizie-cp 88/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-01-29",
+"latest": "2024-01-29",
+"portal": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-88-din-26-27-ianuarie-2024-privind-organizarea-examenului-de-primire-in-profesie-sesiunea-aprilie-2024/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2024-90",
+"path": "profesii/unbr/hotarare-consiliu/2024/90",
+"kind": "profesii",
+"year": "2024",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 90 din 30 august 2024 prin care se aprobă derularea în 2024 a Programului propriu de asistență și asigurări sociale a Filialei Brașov a CAA",
+"short": "UNBR hotarare-consiliu 90/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-09-17",
+"latest": "2024-09-17",
+"portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-90-din-30-august-2024-prin-care-se-aproba-derularea-in-2024-a-programului-propriu-de-asistenta-si-asigurari-sociale-a-filialei-brasov-a-caa/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2024-91",
+"path": "profesii/unbr/hotarare-consiliu/2024/91",
+"kind": "profesii",
+"year": "2024",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 91 din 30 august 2024 privind organizarea și promovarea, la nivel național, a evenimentelor dedicate Zilei Europene a Avocaților 2024",
+"short": "UNBR hotarare-consiliu 91/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-09-17",
+"latest": "2024-09-17",
+"portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-91-din-30-august-2024-privind-organizarea-si-promovarea-la-nivel-national-a-evenimentelor-dedicate-zilei-europene-a-avocatilor-2024/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2024-95",
+"path": "profesii/unbr/decizie-cp/2024/95",
+"kind": "profesii",
+"year": "2024",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Comisiei Permanente a UNBR nr. 95 din 26-27 ianuarie 2024 pentru modificarea Regulamentului privind emiterea, administrarea și utilizarea card-ului de identitate CCBE pentru legitimare de către avocații definitivi din România",
+"short": "UNBR decizie-cp 95/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-02-15",
+"latest": "2024-02-15",
+"portal": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-95-din-26-27-ianuarie-2024-pentru-modificarea-regulamentului-privind-emiterea-administrarea-si-utilizarea-card-ului-de-identitate-ccbe-pentru-legitimare-de-catr/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2024-95",
+"path": "profesii/unbr/hotarare-consiliu/2024/95",
+"kind": "profesii",
+"year": "2024",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Modificările statutare adoptate de Consiliul UNBR au fost publicate în Monitorul Oficial",
+"short": "Modificările statutare adoptate de Consiliul UNBR au fost publicate în Monitorul Oficial",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-09-16",
+"latest": "2024-09-16",
+"portal": "https://unbr.ro/modificarile-statutare-adoptate-de-consiliul-unbr-au-fost-publicate-in-monitorul-oficial/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2024-97",
+"path": "profesii/unbr/decizie-cp/2024/97",
+"kind": "profesii",
+"year": "2024",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Comisiei Permanente a UNBR nr. 97 din 26-27 ianuarie 2024 pentru modificarea și completarea Formularului-tip de cerere de ajutor din Fondul de Solidaritate a Avocaților cuprins în Anexa la Regulamentul de organizare și funcționare a Fondului de Solidaritate a Avocaților",
+"short": "UNBR decizie-cp 97/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-02-15",
+"latest": "2024-02-15",
+"portal": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-97-din-26-27-ianuarie-2024-pentru-modificarea-si-completarea-formularului-tip-de-cerere-de-ajutor-din-fondul-de-solidaritate-a-avocatilor-cuprins-in-anexa-la-reg/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2024-99",
+"path": "profesii/unbr/hotarare-consiliu/2024/99",
+"kind": "profesii",
+"year": "2024",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 99 din 30 august 2024 privind modificarea și completarea Statutului CAA, adoptat prin Hotărârea Consiliului U.N.B.R. nr. 139/27.07.2016, cu modificările şi completările ulterioare",
+"short": "UNBR hotarare-consiliu 99/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-09-12",
+"latest": "2024-09-12",
+"portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-99-din-30-august-2024-privind-modificarea-si-completarea-statutului-caa-adoptat-prin-hotararea-consiliului-u-n-b-r-nr-139-27-07-2016-cu-modificarile-si-completarile/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2024-100",
+"path": "profesii/unbr/hotarare-consiliu/2024/100",
+"kind": "profesii",
+"year": "2024",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 100 din 30 august 2024 privind completarea Statutului CAA, adoptat prin Hotărârea Consiliului U.N.B.R. nr. 139/27.07.2016, cu modificările şi completările ulterioare (investiții)",
+"short": "UNBR hotarare-consiliu 100/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-09-12",
+"latest": "2024-09-12",
+"portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-100-din-30-august-2024-privind-completarea-statutului-caa-adoptat-prin-hotararea-consiliului-u-n-b-r-nr-139-27-07-2016-cu-modificarile-si-completarile-ulterioare-in/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-mediere-hotarare-consiliu-2024-107",
+"path": "profesii/mediere/hotarare-consiliu/2024/107",
+"kind": "profesii",
+"year": "2024",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului de mediere nr. 107/26.10.2024 privind aprobarea noii Organigrame a Consiliului de mediere",
+"short": "Hotărârea Consiliului de mediere nr. 107/26.10.2024 privind aprobarea noii Organigrame a Consiliului de mediere",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-10-26",
+"latest": "2024-10-26",
+"portal": "https://www.consiliuldemediere.ro/informatii-publice",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2024-109",
+"path": "profesii/unbr/hotarare-consiliu/2024/109",
+"kind": "profesii",
+"year": "2024",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 109 din 13-14 decembrie 2024 privind amânarea intrării în vigoare a normelor sectoriale ale UNBR date în aplicarea Legii nr. 129/2019 pentru prevenirea și combaterea spălării banilor și finanțării terorismului, adoptate prin Hotărârea Consiliului UNBR nr. 98/30.08.2024",
+"short": "UNBR hotarare-consiliu 109/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-16",
+"latest": "2024-12-16",
+"portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-109-din-13-14-decembrie-2024-privind-amanarea-intrarii-in-vigoare-a-normelor-sectoriale-ale-unbr-date-in-aplicarea-legii-nr-129-2019-pentru-prevenirea-si-combaterea-spa/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2024-110",
+"path": "profesii/unbr/hotarare-consiliu/2024/110",
+"kind": "profesii",
+"year": "2024",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 110/2024",
+"short": "Hotărârea Consiliului UNBR nr. 110/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "https://unbr.ro/hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-13-14-decembrie-2024/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2024-111",
+"path": "profesii/unbr/hotarare-consiliu/2024/111",
+"kind": "profesii",
+"year": "2024",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 111/2024",
+"short": "Hotărârea Consiliului UNBR nr. 111/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "https://unbr.ro/hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-13-14-decembrie-2024/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2024-112",
+"path": "profesii/unbr/hotarare-consiliu/2024/112",
+"kind": "profesii",
+"year": "2024",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 112/2024",
+"short": "Hotărârea Consiliului UNBR nr. 112/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "https://unbr.ro/hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-13-14-decembrie-2024/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2024-113",
+"path": "profesii/unbr/hotarare-consiliu/2024/113",
+"kind": "profesii",
+"year": "2024",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 113/2024",
+"short": "Hotărârea Consiliului UNBR nr. 113/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "https://unbr.ro/hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-13-14-decembrie-2024/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2024-114",
+"path": "profesii/unbr/hotarare-consiliu/2024/114",
+"kind": "profesii",
+"year": "2024",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 114/2024",
+"short": "Hotărârea Consiliului UNBR nr. 114/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "https://unbr.ro/hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-13-14-decembrie-2024/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2024-115",
+"path": "profesii/unbr/hotarare-consiliu/2024/115",
+"kind": "profesii",
+"year": "2024",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 115/2024",
+"short": "Hotărârea Consiliului UNBR nr. 115/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "https://unbr.ro/hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-13-14-decembrie-2024/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2024-116",
+"path": "profesii/unbr/hotarare-consiliu/2024/116",
+"kind": "profesii",
+"year": "2024",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 116/2024",
+"short": "Hotărârea Consiliului UNBR nr. 116/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "https://unbr.ro/hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-13-14-decembrie-2024/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2024-117",
+"path": "profesii/unbr/hotarare-consiliu/2024/117",
+"kind": "profesii",
+"year": "2024",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 117 din 13-14 decembrie 2024 privind programul de activități al organelor colective de conducere a profesiei de avocat organizate la nivel național în anul 2025",
+"short": "UNBR hotarare-consiliu 117/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-16",
+"latest": "2024-12-16",
+"portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-117-din-13-14-decembrie-2024-privind-programul-de-activitati-al-organelor-colective-de-conducere-a-profesiei-de-avocat-organizate-la-nivel-national-in-anul-2025/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-consiliu-2024-125",
+"path": "profesii/unbr/decizie-consiliu/2024/125",
+"kind": "profesii",
+"year": "2024",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Consiliului UNBR nr. 125 din 13/14 decembrie 2024 (cu caracter interpretativ) despre interpretarea și aplicarea corectă a dispozițiilor art. 8.2 si 8.3 din Anexa XXXIV a Statutului profesiei de avocat, adoptat prin Hotărârea Consiliului U.N.B.R. nr. 64/03.12.2011, cu modificările şi completările ulterioare",
+"short": "UNBR decizie-consiliu 125/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2025-02-24",
+"latest": "2025-02-24",
+"portal": "https://unbr.ro/decizia-consiliului-unbr-nr-125-din-13-14-decembrie-2024-cu-caracter-interpretativ-despre-interpretarea-si-aplicarea-corecta-a-dispozitiilor-art-8-2-si-8-3-din-anexa-xxxiv-a-statutului-profesiei-d/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2024-201",
+"path": "profesii/unbr/decizie-cp/2024/201",
+"kind": "profesii",
+"year": "2024",
+"number": "201",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Comisiei Permanente a UNBR nr. 201 din 28 august 2024 privind Examenul de absolvire a cursurilor de pregătire profesională inițială organizate în anul 2024 în cadrul sistemului I.N.P.P.A",
+"short": "UNBR decizie-cp 201/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-201-din-28-august-2024-privind-examenul-de-absolvire-a-cursurilor-de-pregatire-profesionala-initiala-organizate-in-anul-2024-in-cadrul-sistemului-i-n-p-p-a/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2024-202",
+"path": "profesii/unbr/decizie-cp/2024/202",
+"kind": "profesii",
+"year": "2024",
+"number": "202",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Comisiei Permanente a UNBR nr. 202 din 28 august 2024 privind actualizarea arondării barourilor la structurile teritoriale ale Institutului Național pentru Pregătirea și Perfecționarea Avocaților",
+"short": "UNBR decizie-cp 202/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-09-05",
+"latest": "2024-09-05",
+"portal": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-202-din-28-august-2024-privind-actualizarea-arondarii-barourilor-la-structurile-teritoriale-ale-institutului-national-pentru-pregatirea-si-perfectionarea-avocati/",
+"flags": {
+"text_missing": true,
+"text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2024-203",
+"path": "profesii/unbr/decizie-cp/2024/203",
+"kind": "profesii",
+"year": "2024",
+"number": "203",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Comisiei Permanente a UNBR nr. 203 din 28 august 2024 privind extinderea corpului de formatori de formare inițială al structurilor teritoriale ale I.N.P.P.A",
+"short": "UNBR decizie-cp 203/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-09-01",
+"latest": "2024-09-01",
+"portal": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-203-din-28-august-2024-privind-extinderea-corpului-de-formatori-de-formare-initiala-al-structurilor-teritoriale-ale-i-n-p-p-a/",
+"flags": {
+"text_missing": true,
+"text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2024-214",
+"path": "profesii/unbr/decizie-cp/2024/214",
+"kind": "profesii",
+"year": "2024",
+"number": "214",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Comisiei Permanente a UNBR nr. 214 din 30 septembrie 2024 privind amânarea intrării în vigoare a normelor interne ale UNBR date în aplicarea Legii nr. 129/2019 pentru prevenirea și combaterea spălării banilor și finanțării terorismului, adoptate prin Hotărârea Consiliului UNBR nr. 98/30.08.2024, până la data de 10.10.2024",
+"short": "UNBR decizie-cp 214/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-10-01",
+"latest": "2024-10-01",
+"portal": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-214-din-30-septembrie-2024-privind-amanarea-intrarii-in-vigoare-a-normelor-interne-ale-unbr-date-in-aplicarea-legii-nr-129-2019-pentru-prevenirea-si-combaterea/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2024-217",
+"path": "profesii/unbr/decizie-cp/2024/217",
+"kind": "profesii",
+"year": "2024",
+"number": "217",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Comisiei Permanente a UNBR nr. 217 din 09 octombrie 2024 prin care se amână, până la 04.11.2024, intrarea în vigoare a normelor interne ale UNBR date în aplicarea Legii nr. 129/2019 pentru prevenirea și combaterea spălării banilor și finanțării terorismului, adoptate prin Hotărârea Consiliului UNBR nr. 98/30.08.2024",
+"short": "UNBR decizie-cp 217/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-10-10",
+"latest": "2024-10-10",
+"portal": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-217-din-09-octombrie-2024-prin-care-se-amana-pana-la-04-11-2024-intrarea-in-vigoare-a-normelor-interne-ale-unbr-date-in-aplicarea-legii-nr-129-2019-pentru-pre/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2024-218",
+"path": "profesii/unbr/decizie-cp/2024/218",
+"kind": "profesii",
+"year": "2024",
+"number": "218",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Comisiei Permanente a UNBR nr. 218 din 01-02 noiembrie 2024 prin care se amână, până la 16.12.2024, intrarea în vigoare a normelor interne ale UNBR date în aplicarea Legii nr. 129/2019 pentru prevenirea și combaterea spălării banilor și finanțării terorismului, adoptate prin Hotărârea Consiliului UNBR nr. 98/30.08.2024",
+"short": "UNBR decizie-cp 218/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-11-04",
+"latest": "2024-11-04",
+"portal": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-218-din-01-02-noiembrie-2024-prin-care-se-amana-pana-la-16-12-2024-intrarea-in-vigoare-a-normelor-interne-ale-unbr-date-in-aplicarea-legii-nr-129-2019-pentru/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2024-251",
+"path": "profesii/unbr/decizie-cp/2024/251",
+"kind": "profesii",
+"year": "2024",
+"number": "251",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Comisiei Permanente a UNBR nr. 251/12 decembrie 2024 privind actualizarea taxelor la Institutul Național pentru Pregătirea și Perfecționarea Avocaților (I.N.P.P.A.)",
+"short": "UNBR decizie-cp 251/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-251-12-decembrie-2024-privind-actualizarea-taxelor-la-institutul-national-pentru-pregatirea-si-perfectionarea-avocatilor-i-n-p-p-a/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2024-252",
+"path": "profesii/unbr/decizie-cp/2024/252",
+"kind": "profesii",
+"year": "2024",
+"number": "252",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Comisiei Permanente a UNBR nr. 252/12 decembrie 2024 privind începerea anului I de pregătire profesională inițială - ciclul 2025",
+"short": "UNBR decizie-cp 252/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-252-12-decembrie-2024-privind-inceperea-anului-i-de-pregatire-profesionala-initiala-ciclul-2025/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2024-253",
+"path": "profesii/unbr/decizie-cp/2024/253",
+"kind": "profesii",
+"year": "2024",
+"number": "253",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Comisiei Permanente a UNBR nr. 253/12 decembrie 2024 privind începerea anului II de pregătire profesională inițială - ciclul 2025",
+"short": "UNBR decizie-cp 253/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-253-12-decembrie-2024-privind-inceperea-anului-ii-de-pregatire-profesionala-initiala-ciclul-2025/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2024-254",
+"path": "profesii/unbr/decizie-cp/2024/254",
+"kind": "profesii",
+"year": "2024",
+"number": "254",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Comisiei Permanente a UNBR nr. 254/12 decembrie 2024 privind desfășurarea activității de pregătire profesională inițială în ciclul 2025",
+"short": "UNBR decizie-cp 254/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-254-12-decembrie-2024-privind-desfasurarea-activitatii-de-pregatire-profesionala-initiala-in-ciclul-2025/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2024-255",
+"path": "profesii/unbr/decizie-cp/2024/255",
+"kind": "profesii",
+"year": "2024",
+"number": "255",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Comisiei Permanente a UNBR nr. 255 din 31 decembrie 2024 prin care se amână, până la 20.01.2025, intrarea în vigoare a normelor interne ale UNBR date în aplicarea Legii nr. 129/2019 pentru prevenirea și combaterea spălării banilor și finanțării terorismului, adoptate prin Hotărârea Consiliului UNBR nr. 98/30.08.2024",
+"short": "UNBR decizie-cp 255/2024",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-31",
+"latest": "2024-12-31",
+"portal": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-255-din-31-decembrie-2024-prin-care-se-amana-pana-la-20-01-2025-intrarea-in-vigoare-a-normelor-interne-ale-unbr-date-in-aplicarea-legii-nr-129-2019-pentru-pre/",
+"flags": {
+"amendments_checked": false
+}
+}
+]
+}

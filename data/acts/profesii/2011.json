@@ -1,0 +1,153 @@
+{
+"country": "RO",
+"shard": "profesii/2011",
+"acts": [
+{
+"slug": "profesii-unbr-hotarare-consiliu-2011-4",
+"path": "profesii/unbr/hotarare-consiliu/2011/4",
+"kind": "profesii",
+"year": "2011",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului U.N.B.R. nr. 4 din 08 iulie 2011 ce conține completările aduse prin Hotărârea nr. 693 din 28 martie 2013 a Consiliului U.N.B.R. prin care a fost adoptat Regulamentului - cadru privind organizarea examenului de primire în profesia de avocat (forma actualizată)",
+"short": "UNBR hotarare-consiliu 4/2011",
+"code": null,
+"status": "metadata only (text not held yet)",
+"versions": 1,
+"from": "2011-07-01",
+"latest": "2011-07-01",
+"portal": "https://unbr.ro/forma-actualizata-a-hotararii-consiliului-u-n-b-r-nr-4-din-08-iulie-2011/",
+"flags": {
+"text_missing": true,
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2011-58",
+"path": "profesii/unbr/hotarare-consiliu/2011/58",
+"kind": "profesii",
+"year": "2011",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 58/2011 din 08 iulie 2011 a Consiliului U.N.B.R",
+"short": "Hotărârea nr. 58/2011 din 08 iulie 2011 a Consiliului U.N.B.R",
+"code": null,
+"status": "metadata only (text not held yet)",
+"versions": 1,
+"from": "2011-07-08",
+"latest": "2011-07-08",
+"portal": "https://unbr.ro/hotararea-nr-582011-din-08-iulie-2011-a-consiliului-u-n-b-r/",
+"flags": {
+"text_missing": true,
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2011-61",
+"path": "profesii/unbr/hotarare-consiliu/2011/61",
+"kind": "profesii",
+"year": "2011",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂREA Consiliului U.N.B.R. nr. 61 din 03 decembrie 2011",
+"short": "HOTĂRÂREA Consiliului U.N.B.R. nr. 61 din 03 decembrie 2011",
+"code": null,
+"status": "metadata only (text not held yet)",
+"versions": 1,
+"from": "2011-12-03",
+"latest": "2011-12-03",
+"portal": "https://unbr.ro/hotararea-consiliului-u-n-b-r-nr-61-din-03-decembrie-2011/",
+"flags": {
+"text_missing": true,
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-presedinte-2011-62",
+"path": "profesii/unbr/decizie-presedinte/2011/62",
+"kind": "profesii",
+"year": "2011",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Preşedintelui U.N.B.R. nr. 62 din 21 februarie 2011",
+"short": "Decizia Preşedintelui U.N.B.R. nr. 62 din 21 februarie 2011",
+"code": null,
+"status": "metadata only (text not held yet)",
+"versions": 1,
+"from": "2011-02-21",
+"latest": "2011-02-21",
+"portal": "https://unbr.ro/decizia-presedintelui-u-n-b-r-nr-62-din-21-februarie-2011/",
+"flags": {
+"text_missing": true,
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-consiliu-2011-69",
+"path": "profesii/unbr/decizie-consiliu/2011/69",
+"kind": "profesii",
+"year": "2011",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIA NR. 69/03.12.2011",
+"short": "DECIZIA NR. 69/03.12.2011",
+"code": null,
+"status": "metadata only (text not held yet)",
+"versions": 1,
+"from": "2011-12-03",
+"latest": "2011-12-03",
+"portal": "https://unbr.ro/decizia-nr-6903-12-2011/",
+"flags": {
+"text_missing": true,
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2011-216",
+"path": "profesii/unbr/hotarare-consiliu/2011/216",
+"kind": "profesii",
+"year": "2011",
+"number": "216",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 216 din 03 decembrie 2011 a Consiliului U.N.B.R",
+"short": "Hotărârea nr. 216 din 03 decembrie 2011 a Consiliului U.N.B.R",
+"code": null,
+"status": "metadata only (text not held yet)",
+"versions": 1,
+"from": "2011-12-05",
+"latest": "2011-12-05",
+"portal": "https://unbr.ro/%e2%97%8f-hotararea-nr-216-din-03-decembrie-2011-a-consiliului-u-n-b-r/",
+"flags": {
+"text_missing": true,
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2011-2011",
+"path": "profesii/unbr/hotarare-consiliu/2011/2011",
+"kind": "profesii",
+"year": "2011",
+"number": "2011",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 2011/2011",
+"short": "Hotărârea Consiliului UNBR nr. 2011/2011",
+"code": null,
+"status": "metadata only (text not held yet)",
+"versions": 1,
+"from": "2012-03-03",
+"latest": "2012-03-03",
+"portal": "https://unbr.ro/hotararea-nr-35703-03-2012/",
+"flags": {
+"text_missing": true,
+"amendments_checked": false
+}
+}
+]
+}

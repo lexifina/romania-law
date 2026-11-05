@@ -1,0 +1,584 @@
+{
+"country": "RO",
+"shard": "profesii/2026",
+"acts": [
+{
+"slug": "profesii-unbr-hotarare-consiliu-2026-323-2",
+"path": "profesii/unbr/hotarare-consiliu/2026/323-2",
+"kind": "profesii",
+"year": "2026",
+"number": "323-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 323/2026",
+"short": "Hotărârea Consiliului UNBR nr. 323/2026",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2026-07-20",
+"latest": "2026-07-20",
+"portal": "https://unbr.ro/anunt-uniunea-nationala-a-barourilor-din-romania-anunta-organizarea-examenului-de-primire-in-profesia-de-avocat-pentru-dobandirea-titlului-profesional-de-avocat-stagiar-si-de-primire-in-pr-14/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-congres-2026-1",
+"path": "profesii/unbr/hotarare-congres/2026/1",
+"kind": "profesii",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Congresului avocaților nr. 1/2026",
+"short": "Hotărârea Congresului avocaților nr. 1/2026",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2026-07-01",
+"latest": "2026-07-01",
+"portal": "https://unbr.ro/hotarari-rezolutii-si-motiuni-adoptate-de-congresul-avocatilor-din-19-20-iunie-2026/",
+"flags": {
+"text_missing": true,
+"text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-congres-2026-2",
+"path": "profesii/unbr/hotarare-congres/2026/2",
+"kind": "profesii",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Congresului avocaților nr. 2/2026",
+"short": "Hotărârea Congresului avocaților nr. 2/2026",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2026-07-01",
+"latest": "2026-07-01",
+"portal": "https://unbr.ro/hotarari-rezolutii-si-motiuni-adoptate-de-congresul-avocatilor-din-19-20-iunie-2026/",
+"flags": {
+"text_missing": true,
+"text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-congres-2026-3",
+"path": "profesii/unbr/hotarare-congres/2026/3",
+"kind": "profesii",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Congresului avocaților nr. 3/2026",
+"short": "Hotărârea Congresului avocaților nr. 3/2026",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2026-07-01",
+"latest": "2026-07-01",
+"portal": "https://unbr.ro/hotarari-rezolutii-si-motiuni-adoptate-de-congresul-avocatilor-din-19-20-iunie-2026/",
+"flags": {
+"text_missing": true,
+"text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-congres-2026-4",
+"path": "profesii/unbr/hotarare-congres/2026/4",
+"kind": "profesii",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Congresului avocaților nr. 4/2026",
+"short": "Hotărârea Congresului avocaților nr. 4/2026",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2026-07-01",
+"latest": "2026-07-01",
+"portal": "https://unbr.ro/hotarari-rezolutii-si-motiuni-adoptate-de-congresul-avocatilor-din-19-20-iunie-2026/",
+"flags": {
+"text_missing": true,
+"text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-congres-2026-5",
+"path": "profesii/unbr/hotarare-congres/2026/5",
+"kind": "profesii",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Congresului avocaților nr. 5/2026",
+"short": "Hotărârea Congresului avocaților nr. 5/2026",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2026-07-01",
+"latest": "2026-07-01",
+"portal": "https://unbr.ro/hotarari-rezolutii-si-motiuni-adoptate-de-congresul-avocatilor-din-19-20-iunie-2026/",
+"flags": {
+"text_missing": true,
+"text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-inppa-decizie-director-2026-25",
+"path": "profesii/inppa/decizie-director/2026/25",
+"kind": "profesii",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Directorului INPPA nr. 25 din 11 iunie 2026 prin care s-a hotărât ca toți cursanții care nu și-au exprimat opțiunea pentru unul dintre pachetele de discipline opționale din anul II de formare inițială, să fie înscriși la Pachetul A",
+"short": "INPPA decizie-director 25/2026",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2026-06-23",
+"latest": "2026-06-23",
+"portal": "https://inppa.ro/publicam-decizia-directorului-inppa-nr-25-din-11-iunie-2026-prin-care-s-a-hotarat-ca-toti-cursantii-care-nu-si-au-exprimat-optiunea-pentru-unul-dintre-pachetele-de-discipline-optionale-din-anul-ii-de/",
+"flags": {
+"text_missing": true,
+"text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-inppa-decizie-director-2026-35",
+"path": "profesii/inppa/decizie-director/2026/35",
+"kind": "profesii",
+"year": "2026",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Directorului INPPA nr. 35/22.09.2026 privind stabilirea intervalului și condițiilor de susținere a testării scrise prevăzute de Art. 49 alin. (7) și (8) al Regulamentului de organizare și funcționare a I.N.P.P.A",
+"short": "INPPA decizie-director 35/2026",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://inppa.ro/decizia-directorului-inppa-nr-35-22-09-2026-privind-stabilirea-intervalului-si-conditiilor-de-sustinere-a-testarii-scrise-prevazute-de-art-49-alin-7-si-8-al-regulamentului-de-organizare-si-func/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-congres-2026-289",
+"path": "profesii/unbr/hotarare-congres/2026/289",
+"kind": "profesii",
+"year": "2026",
+"number": "289",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Congresului avocaților nr. 289/2026",
+"short": "Hotărârea Congresului avocaților nr. 289/2026",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2026-05-18",
+"latest": "2026-05-18",
+"portal": "https://unbr.ro/raportul-consiliului-uniunii-nationale-a-barourilor-din-romania-impreuna-cu-anexele-la-congresul-avocatilor-2026/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2026-291",
+"path": "profesii/unbr/hotarare-consiliu/2026/291",
+"kind": "profesii",
+"year": "2026",
+"number": "291",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 291/2026",
+"short": "Hotărârea Consiliului UNBR nr. 291/2026",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2026-05-18",
+"latest": "2026-05-18",
+"portal": "https://unbr.ro/raportul-consiliului-uniunii-nationale-a-barourilor-din-romania-impreuna-cu-anexele-la-congresul-avocatilor-2026/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2026-294",
+"path": "profesii/unbr/hotarare-consiliu/2026/294",
+"kind": "profesii",
+"year": "2026",
+"number": "294",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 294 din 13-14 februarie 2026 privind prelungirea până la 4 mai 2026 a termenului pentru punerea în aplicare a Procedurii de control a organismului de autoreglementare UNBR în aplicarea Legii nr. 129/2019",
+"short": "UNBR hotarare-consiliu 294/2026",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2026-02-20",
+"latest": "2026-02-20",
+"portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-294-din-13-14-februarie-2026-privind-prelungirea-pana-la-4-mai-2026-a-termenului-pentru-punerea-in-aplicare-a-procedurii-de-control-a-organismului-de-autoreglementare-un/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2026-317",
+"path": "profesii/unbr/hotarare-consiliu/2026/317",
+"kind": "profesii",
+"year": "2026",
+"number": "317",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 317/2026",
+"short": "Hotărârea Consiliului UNBR nr. 317/2026",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2026-05-18",
+"latest": "2026-05-18",
+"portal": "https://unbr.ro/raportul-consiliului-uniunii-nationale-a-barourilor-din-romania-impreuna-cu-anexele-la-congresul-avocatilor-2026/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2026-323",
+"path": "profesii/unbr/hotarare-consiliu/2026/323",
+"kind": "profesii",
+"year": "2026",
+"number": "323",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 323 din 18 iunie 2026 privind organizarea examenului de primire în profesie - sesiunea septembrie 2026",
+"short": "UNBR hotarare-consiliu 323/2026",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2026-06-29",
+"latest": "2026-06-29",
+"portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-323-din-18-iunie-2026-privind-organizarea-examenului-de-primire-in-profesie-sesiunea-septembrie-2026/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2026-325",
+"path": "profesii/unbr/hotarare-consiliu/2026/325",
+"kind": "profesii",
+"year": "2026",
+"number": "325",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 325 din 18 iunie 2026 (cu caracter interpretativ) despre interpretarea și aplicarea corectă a dispozițiilor art. 40 alin. (1) din Statutului profesiei de avocat, adoptat prin Hotărârea Consiliului U.N.B.R. nr. 64/03.12.2011, cu modificările şi completările ulterioare",
+"short": "UNBR hotarare-consiliu 325/2026",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2026-07-13",
+"latest": "2026-07-13",
+"portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-325-din-18-iunie-2026-cu-caracter-interpretativ-despre-interpretarea-si-aplicarea-corecta-a-dispozitiilor-art-40-alin-1-din-statutului-profesiei-de-avocat-adoptat/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2026-331",
+"path": "profesii/unbr/decizie-cp/2026/331",
+"kind": "profesii",
+"year": "2026",
+"number": "331",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 331 din 18 iunie 2026 privind limitele maxime ale taxelor prevăzute la art. 337 din Statutul profesiei de avocat, ce pot fi încasate de consiliul baroului și ale taxelor prevăzute la art. 338 din Statutul profesiei de avocat, ce pot fi încasate de Comisia Permanentă a UNBR",
+"short": "UNBR decizie-cp 331/2026",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2026-07-07",
+"latest": "2026-07-07",
+"portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-331-din-18-iunie-2026-privind-limitele-maxime-ale-taxelor-prevazute-la-art-337-din-statutul-profesiei-de-avocat-ce-pot-fi-incasate-de-consiliul-baroului-si-ale-taxelor/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2026-336",
+"path": "profesii/unbr/hotarare-consiliu/2026/336",
+"kind": "profesii",
+"year": "2026",
+"number": "336",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 336 din 18 iunie 2026 prin care, începând cu data de 01 iunie 2026, onorariile prevăzute în „Ghidul orientativ al onorariilor minimale” se actualizează cu Indicele lunar al prețurilor de consum (IPC) aferent perioadei mai 2025 - mai 2026",
+"short": "UNBR hotarare-consiliu 336/2026",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2026-07-07",
+"latest": "2026-07-07",
+"portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-336-din-18-iunie-2026-prin-care-incepand-cu-data-de-01-iunie-2026-onorariile-prevazute-in-ghidul-orientativ-al-onorariilor-minimale-se-actualizeaza-c/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2026-337",
+"path": "profesii/unbr/hotarare-consiliu/2026/337",
+"kind": "profesii",
+"year": "2026",
+"number": "337",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 337 din 18 iunie 2026 privind modificarea și completarea Regulamentului de organizare și funcționare a activității de accesare și prelucrare a datelor din Registrul național de evidență a persoanelor al Direcției Generale pentru Evidența Persoanelor (D.G.E.P.)",
+"short": "UNBR hotarare-consiliu 337/2026",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2026-07-07",
+"latest": "2026-07-07",
+"portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-337-din-18-iunie-2026-privind-modificarea-si-completarea-regulamentului-de-organizare-si-functionare-a-activitatii-de-accesare-si-prelucrare-a-datelor-din-registrul-nati/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2026-343",
+"path": "profesii/unbr/hotarare-consiliu/2026/343",
+"kind": "profesii",
+"year": "2026",
+"number": "343",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 343 din 04/05 septembrie 2026 prin care se aprobă Procedura de control a organismului de autoreglementare UNBR în aplicarea Legii nr. 129/2019 pentru prevenirea și combaterea spălării banilor și finanțării terorismului, Regulamentul procedurilor de control și Instrucțiunile prevăzute în prezenta hotărâre, care intră în vigoare la data de 15 septembrie 2026",
+"short": "UNBR hotarare-consiliu 343/2026",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2026-09-14",
+"latest": "2026-09-14",
+"portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-343-din-04-05-septembrie-2026-prin-care-se-aproba-procedura-de-control-a-organismului-de-autoreglementare-unbr-in-aplicarea-legii-nr-129-2019-pentru-prevenirea-si-comba/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2026-443",
+"path": "profesii/unbr/decizie-cp/2026/443",
+"kind": "profesii",
+"year": "2026",
+"number": "443",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Comisiei Permanente a UNBR nr. 443 din 12 februarie 2026 privind organizarea examenului de verificare a cunoștințelor de drept românesc și de limbă română pentru avocații străini în vederea dobândirii dreptului de a acorda asistență juridică în drept românesc, sesiunea mai 2026",
+"short": "UNBR decizie-cp 443/2026",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2026-03-04",
+"latest": "2026-03-04",
+"portal": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-443-din-12-februarie-2026-privind-organizarea-examenului-de-verificare-a-cunostintelor-de-drept-romanesc-si-de-limba-romana-pentru-avocatii-straini-in-vederea-do/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-congres-2026-463",
+"path": "profesii/unbr/hotarare-congres/2026/463",
+"kind": "profesii",
+"year": "2026",
+"number": "463",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Congresului avocaților nr. 463/2026",
+"short": "Hotărârea Congresului avocaților nr. 463/2026",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2026-05-18",
+"latest": "2026-05-18",
+"portal": "https://unbr.ro/raportul-consiliului-uniunii-nationale-a-barourilor-din-romania-impreuna-cu-anexele-la-congresul-avocatilor-2026/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2026-465",
+"path": "profesii/unbr/decizie-cp/2026/465",
+"kind": "profesii",
+"year": "2026",
+"number": "465",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Comisiei Permanente a UNBR nr. 465/2026",
+"short": "Decizia Comisiei Permanente a UNBR nr. 465/2026",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2026-05-18",
+"latest": "2026-05-18",
+"portal": "https://unbr.ro/raportul-consiliului-uniunii-nationale-a-barourilor-din-romania-impreuna-cu-anexele-la-congresul-avocatilor-2026/",
+"flags": {
+"text_missing": true,
+"text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2026-472",
+"path": "profesii/unbr/decizie-cp/2026/472",
+"kind": "profesii",
+"year": "2026",
+"number": "472",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Comisiei Permanente a UNBR nr. 472/2026",
+"short": "Decizia Comisiei Permanente a UNBR nr. 472/2026",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2026-05-01",
+"latest": "2026-05-01",
+"portal": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-472-din-17-18-aprilie-2026-privind-modificarea-si-completarea-hotararii-consiliului-unbr-nr-180-21-22-martie-2025-reglementare-sectoriala-in-aplicarea-legii-nr/",
+"flags": {
+"text_missing": true,
+"text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2026-493",
+"path": "profesii/unbr/decizie-cp/2026/493",
+"kind": "profesii",
+"year": "2026",
+"number": "493",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Comisiei Permanente a UNBR nr. 493 din 30 aprilie 2026 prin care, se prelungește până la data de 01 iulie 2026 termenul stabilit prin Hotărârea Consiliului UNBR nr. 294/13-14 februarie 2026, pentru punerea în aplicare a Procedurii de control și Regulamentului Procedurii de control a organismului de autoreglementare UNBR în aplicarea Legii nr. 129/2019",
+"short": "UNBR decizie-cp 493/2026",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2026-05-01",
+"latest": "2026-05-01",
+"portal": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-493-din-30-aprilie-2026-prin-care-se-prelungeste-pana-la-data-de-01-iulie-2026-termenul-stabilit-prin-hotararea-consiliului-unbr-nr-294-13-14-februarie-2026-p/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2026-495",
+"path": "profesii/unbr/decizie-cp/2026/495",
+"kind": "profesii",
+"year": "2026",
+"number": "495",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Comisiei Permanente a UNBR nr. 495 din 22 mai 2026 privind organizarea examenului de verificare a cunoștințelor de drept românesc și de limbă română pentru avocații străini în vederea dobândirii dreptului de a acorda asistență juridică în drept romanesc, sesiunea septembrie 2026",
+"short": "UNBR decizie-cp 495/2026",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2026-06-08",
+"latest": "2026-06-08",
+"portal": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-495-din-22-mai-2026-privind-organizarea-examenului-de-verificare-a-cunostintelor-de-drept-romanesc-si-de-limba-romana-pentru-avocatii-straini-in-vederea-dobandir/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2026-516",
+"path": "profesii/unbr/decizie-cp/2026/516",
+"kind": "profesii",
+"year": "2026",
+"number": "516",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Comisiei Permanente a UNBR nr. 516 din 17 iunie 2026 privind extinderea corpului de formatori de formare inițială de la structurile teritoriale ale I.N.P.P.A",
+"short": "UNBR decizie-cp 516/2026",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2026-06-29",
+"latest": "2026-06-29",
+"portal": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-516-din-17-iunie-2026-privind-extinderea-corpului-de-formatori-de-formare-initiala-de-la-structurile-teritoriale-ale-i-n-p-p-a/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2026-534",
+"path": "profesii/unbr/decizie-cp/2026/534",
+"kind": "profesii",
+"year": "2026",
+"number": "534",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Comisie Permanente a UNBR nr. 534 din 30 iunie 2026 privind prelungirea până la 14 septembrie 2026 a termenului stabilit pentru punerea în aplicare a Procedurii de control a organismului de autoreglementare UNBR în aplicarea Legii nr. 129/2019 privind prevenirea și combaterea spălării banilor și finanțării terorismului",
+"short": "UNBR decizie-cp 534/2026",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2026-07-01",
+"latest": "2026-07-01",
+"portal": "https://unbr.ro/decizia-comisie-permanente-a-unbr-nr-534-din-30-iunie-2026-privind-prelungirea-pana-la-14-septembrie-2026-a-termenului-stabilit-pentru-punerea-in-aplicare-a-procedurii-de-control-a-organismului-de-au/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2026-537",
+"path": "profesii/unbr/decizie-cp/2026/537",
+"kind": "profesii",
+"year": "2026",
+"number": "537",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Comisiei Permanente a UNBR nr. 537 din 03 septembrie 2026 privind Examenul de absolvire a cursurilor de pregătire profesională inițială organizate în anul 2026 în cadrul sistemului I.N.P.P.A",
+"short": "UNBR decizie-cp 537/2026",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2026-09-11",
+"latest": "2026-09-11",
+"portal": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-537-din-03-septembrie-2026-privind-examenul-de-absolvire-a-cursurilor-de-pregatire-profesionala-initiala-organizate-in-anul-2026-in-cadrul-sistemului-i-n-p-p-a/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2026-660",
+"path": "profesii/unbr/decizie-cp/2026/660",
+"kind": "profesii",
+"year": "2026",
+"number": "660",
+"withdrawn_by": null,
+"reason": null,
+"title": "UNBR apără reputația profesională a avocatului Răzvan Viorescu, în urma unor atacuri publice repetate",
+"short": "UNBR apără reputația profesională a avocatului Răzvan Viorescu, în urma unor atacuri publice repetate",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2026-09-16",
+"latest": "2026-09-16",
+"portal": "https://unbr.ro/unbr-apara-reputatia-profesionala-a-avocatului-razvan-viorescu-in-urma-unor-atacuri-publice-repetate/",
+"flags": {
+"text_missing": true,
+"text_withheld": "personal_data",
+"amendments_checked": false
+}
+}
+]
+}

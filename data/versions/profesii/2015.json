@@ -1,0 +1,456 @@
+{
+ "country": "RO",
+ "shard": "profesii/2015",
+ "acts": [
+  {
+   "slug": "profesii-inppa-hotarare-consiliu-2015-63",
+   "path": "profesii/inppa/hotarare-consiliu/2015/63",
+   "short": "INPPA hotarare-consiliu 63/2015",
+   "title": "Hotărârea nr. 63 din 06 martie 2015 a Consiliului de Conducere al INPPA privind începerea anului II de pregătire profesională iniţială",
+   "url": "https://inppa.ro/hotararea-nr-63-din-06-martie-2015-a-consiliului-de-conducere-al-inppa-privind-inceperea-anului-ii-de-pregatire-profesionala-initiala/",
+   "versions": [
+    {
+     "from": "2015-03-10",
+     "units": 1,
+     "source_url": "https://inppa.ro/hotararea-nr-63-din-06-martie-2015-a-consiliului-de-conducere-al-inppa-privind-inceperea-anului-ii-de-pregatire-profesionala-initiala/",
+     "sha256": "23537b857b551c07a79a39135f2d9c0ea698621cf72394ce9d96e9afe5f77067"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-inppa-hotarare-consiliu-2015-64",
+   "path": "profesii/inppa/hotarare-consiliu/2015/64",
+   "short": "Hotărârea nr. 64 din 06 martie 2015 a Consiliului de Conducere al INPPA privind recunoaşterea probelor orale",
+   "title": "Hotărârea nr. 64 din 06 martie 2015 a Consiliului de Conducere al INPPA privind recunoaşterea probelor orale",
+   "url": "https://inppa.ro/hotararea-nr-64-din-06-martie-2015-a-consiliului-de-conducere-al-inppa-privind-recunoasterea-probelor-orale/",
+   "versions": [
+    {
+     "from": "2015-03-10",
+     "units": 1,
+     "source_url": "https://inppa.ro/hotararea-nr-64-din-06-martie-2015-a-consiliului-de-conducere-al-inppa-privind-recunoasterea-probelor-orale/",
+     "sha256": "9e1a2a679cd91725e992313834770f4da451d4be8ca2d85cfe426a4633656d7e"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-inppa-hotarare-consiliu-2015-65",
+   "path": "profesii/inppa/hotarare-consiliu/2015/65",
+   "short": "INPPA hotarare-consiliu 65/2015",
+   "title": "Hotărârea nr. 65 din 06 martie 2015 a Consiliului de Conducere al INPPA privind privind adoptarea modelului caietului de lucrări profesionale pentru anul II de pregătire iniţială",
+   "url": "https://inppa.ro/hotararea-nr-65-din-06-martie-2015-a-consiliului-de-conducere-al-inppa-privind-privind-adoptarea-modelului-caietului-de-lucrari-profesionale-pentru-anul-ii-de-pregatire-initiala/",
+   "versions": [
+    {
+     "from": "2015-03-10",
+     "units": 1,
+     "source_url": "https://inppa.ro/hotararea-nr-65-din-06-martie-2015-a-consiliului-de-conducere-al-inppa-privind-privind-adoptarea-modelului-caietului-de-lucrari-profesionale-pentru-anul-ii-de-pregatire-initiala/",
+     "sha256": "a5414c95d0993af76e183e2d34e36bb6f88921f202f91149e415b08c1efce428"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-inppa-hotarare-consiliu-2015-66",
+   "path": "profesii/inppa/hotarare-consiliu/2015/66",
+   "short": "INPPA hotarare-consiliu 66/2015",
+   "title": "Hotărârea nr. 66 din 06 martie 2015 a Consiliului de Conducere al INPPA privind începerea anului I de pregătire profesională iniţială",
+   "url": "https://inppa.ro/hotararea-nr-66-din-06-martie-2015-a-consiliului-de-conducere-al-inppa-privind-inceperea-anului-i-de-pregatire-profesionala-initiala/",
+   "versions": [
+    {
+     "from": "2015-04-28",
+     "units": 1,
+     "source_url": "https://inppa.ro/hotararea-nr-66-din-06-martie-2015-a-consiliului-de-conducere-al-inppa-privind-inceperea-anului-i-de-pregatire-profesionala-initiala/",
+     "sha256": "ed56a2373d2fbe22aff29db8d032ab8cc0f85ade796223b0a73d769828573799"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-2015-23",
+   "path": "profesii/unbr/decizie/2015/23",
+   "short": "DECIZIA NR. 23/05.09.2015",
+   "title": "DECIZIA NR. 23/05.09.2015",
+   "url": "https://unbr.ro/decizia-nr-23-05-09-2015/",
+   "versions": [
+    {
+     "from": "2015-09-05",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-nr-23-05-09-2015/",
+     "sha256": "2ace14832ba430a5630f53ba15e1937aab48a97ed553468315fafdf445f46c91"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2015-13",
+   "path": "profesii/unbr/decizie-cp/2015/13",
+   "short": "UNBR decizie-cp 13/2015",
+   "title": "Decizia nr. 13 din 03 iulie 2015 a Comisiei Permanente a U.N.B.R. prin care se rectifică Anexele nr. 1 şi 2 la REGULAMENTUL - CADRU privind organizarea examenului de primire în profesia de avocat",
+   "url": "https://unbr.ro/decizia-nr-13-din-03-iulie-2015-a-comisiei-permanente-a-u-n-b-r-prin-care-se-rectifica-anexele-nr-1-si-2-la-regulamentul-cadru-privind-organizarea-examenului-de-primire-in-profesia-de-avocat/",
+   "versions": [
+    {
+     "from": "2015-07-09",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-nr-13-din-03-iulie-2015-a-comisiei-permanente-a-u-n-b-r-prin-care-se-rectifica-anexele-nr-1-si-2-la-regulamentul-cadru-privind-organizarea-examenului-de-primire-in-profesia-de-avocat/",
+     "sha256": "965fdb53d09c3a4559fd39d1d14b4aeb16c72e5c6b938dc7f25b2b63948a30bd"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2015-17",
+   "path": "profesii/unbr/decizie-cp/2015/17",
+   "short": "UNBR decizie-cp 17/2015",
+   "title": "Decizia nr. 17/04.09.2015 a Comisiei Permanente a U.N.B.R. privind înscrierea la examenul de primire în profesie sesiunea septembrie 2015 a candidaților care au depus cereri de înscriere conform prevederilor Regulamentului - Cadru",
+   "url": "https://unbr.ro/decizia-nr-1704-09-2015-a-comisiei-permanente-a-u-n-b-r-privind-inscrierea-la-examenul-de-primire-in-profesie-sesiunea-septembrie-2015-a-candidatilor-care-au-depus-cereri-de-inscriere-conform-preve/",
+   "versions": [
+    {
+     "from": "2015-09-06",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-nr-1704-09-2015-a-comisiei-permanente-a-u-n-b-r-privind-inscrierea-la-examenul-de-primire-in-profesie-sesiunea-septembrie-2015-a-candidatilor-care-au-depus-cereri-de-inscriere-conform-preve/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2015-177",
+   "path": "profesii/unbr/decizie-cp/2015/177",
+   "short": "Decizia nr. 177/30.01.2015 a Comisiei Permanente a U.N.B.R",
+   "title": "Decizia nr. 177/30.01.2015 a Comisiei Permanente a U.N.B.R",
+   "url": "https://unbr.ro/%e2%97%8f-decizia-nr-8125-10-2013-a-comisiei-permanente-a-u-n-b-r/",
+   "versions": [
+    {
+     "from": "2013-10-25",
+     "units": 1,
+     "source_url": "https://unbr.ro/%e2%97%8f-decizia-nr-8125-10-2013-a-comisiei-permanente-a-u-n-b-r/",
+     "sha256": "cb88dd6a4bb4423579f0bfe20a3491140d613f03c828c4477b5fe6ece4296b60"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2015-2-2",
+   "path": "profesii/unbr/decizie-cp/2015/2-2",
+   "short": "Materiale ce vor fi supuse dezbaterii și aprobării Congresului avocaților 2016",
+   "title": "Materiale ce vor fi supuse dezbaterii și aprobării Congresului avocaților 2016",
+   "url": "https://unbr.ro/materiale-ce-vor-fi-supuse-dezbaterii-si-aprobarii-congresului-avocatilor-2016/",
+   "versions": [
+    {
+     "from": "2016-03-17",
+     "units": 1,
+     "source_url": "https://unbr.ro/materiale-ce-vor-fi-supuse-dezbaterii-si-aprobarii-congresului-avocatilor-2016/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2015-2",
+   "path": "profesii/unbr/decizie-cp/2015/2",
+   "short": "UNBR decizie-cp 2/2015",
+   "title": "Decizia nr. 02 din 03 iulie 2015 a Comisiei Permanente a U.N.B.R. privind coordonarea activitatilor de conducere executiva curenta realizate de Comisia Permanenta",
+   "url": "https://unbr.ro/decizia-nr-02-din-03-iulie-2015-a-comisiei-permanente-a-u-n-b-r-privind-coordonarea-activitatilor-de-conducere-executiva-curenta-realizate-de-comisia-permanenta/",
+   "versions": [
+    {
+     "from": "2015-07-09",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-nr-02-din-03-iulie-2015-a-comisiei-permanente-a-u-n-b-r-privind-coordonarea-activitatilor-de-conducere-executiva-curenta-realizate-de-comisia-permanenta/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-cne-2015-5",
+   "path": "profesii/unbr/hotarare-cne/2015/5",
+   "short": "UNBR hotarare-cne 5/2015",
+   "title": "Hotărârea nr. 5 Bis/13.09.2015 a Comisiei Naționale de Examen privind îndreptarea erorii materiale din Hotărârea nr. 05/10.09.2015",
+   "url": "https://unbr.ro/publicam-hotararea-nr-5-bis13-09-2015-a-comisiei-nationale-de-examen-privind-indreptarea-erorii-materiale-din-hotararea-nr-0510-09-2015/",
+   "versions": [
+    {
+     "from": "2015-09-13",
+     "units": 1,
+     "source_url": "https://unbr.ro/publicam-hotararea-nr-5-bis13-09-2015-a-comisiei-nationale-de-examen-privind-indreptarea-erorii-materiale-din-hotararea-nr-0510-09-2015/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-congres-2015-1",
+   "path": "profesii/unbr/hotarare-congres/2015/1",
+   "short": "Hotărârea Congresului avocaților nr. 1/2015",
+   "title": "Hotărârea Congresului avocaților nr. 1/2015",
+   "url": "https://unbr.ro/hotarari-si-rezolutii-adoptate-de-congresul-avocatilor-06-07-iunie-2015-bucuresti/",
+   "versions": [
+    {
+     "from": "2015-06-08",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-si-rezolutii-adoptate-de-congresul-avocatilor-06-07-iunie-2015-bucuresti/",
+     "sha256": "d64a8784304bd57e88c0caf681d7e0c860f3bb30e54327e483ce7c427fe0c255"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-congres-2015-10",
+   "path": "profesii/unbr/hotarare-congres/2015/10",
+   "short": "Hotărârea Congresului avocaților nr. 10/2015",
+   "title": "Hotărârea Congresului avocaților nr. 10/2015",
+   "url": "https://unbr.ro/hotarari-si-rezolutii-adoptate-de-congresul-avocatilor-06-07-iunie-2015-bucuresti/",
+   "versions": [
+    {
+     "from": "2015-06-08",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-si-rezolutii-adoptate-de-congresul-avocatilor-06-07-iunie-2015-bucuresti/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-congres-2015-11",
+   "path": "profesii/unbr/hotarare-congres/2015/11",
+   "short": "Hotărârea Congresului avocaților nr. 11/2015",
+   "title": "Hotărârea Congresului avocaților nr. 11/2015",
+   "url": "https://unbr.ro/hotarari-si-rezolutii-adoptate-de-congresul-avocatilor-06-07-iunie-2015-bucuresti/",
+   "versions": [
+    {
+     "from": "2015-06-08",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-si-rezolutii-adoptate-de-congresul-avocatilor-06-07-iunie-2015-bucuresti/",
+     "sha256": "9fb4711598c92d640dd96e81da77ee04dadf1119f02df973c1e3d7c299aee130"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-congres-2015-2",
+   "path": "profesii/unbr/hotarare-congres/2015/2",
+   "short": "Hotărârea Congresului avocaților nr. 2/2015",
+   "title": "Hotărârea Congresului avocaților nr. 2/2015",
+   "url": "https://unbr.ro/hotarari-si-rezolutii-adoptate-de-congresul-avocatilor-06-07-iunie-2015-bucuresti/",
+   "versions": [
+    {
+     "from": "2015-06-08",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-si-rezolutii-adoptate-de-congresul-avocatilor-06-07-iunie-2015-bucuresti/",
+     "sha256": "30ffb67eae6e51200d99bd9097b2d93df1a69ba51ed03a6d2fbc2aa5b789b6df"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-congres-2015-3",
+   "path": "profesii/unbr/hotarare-congres/2015/3",
+   "short": "Hotărârea Congresului avocaților nr. 3/2015",
+   "title": "Hotărârea Congresului avocaților nr. 3/2015",
+   "url": "https://unbr.ro/hotarari-si-rezolutii-adoptate-de-congresul-avocatilor-06-07-iunie-2015-bucuresti/",
+   "versions": [
+    {
+     "from": "2015-06-08",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-si-rezolutii-adoptate-de-congresul-avocatilor-06-07-iunie-2015-bucuresti/",
+     "sha256": "2e420df07b22e327d3007c616558f31dbfd82986f94085656123a0f9957cf4dc"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-congres-2015-30",
+   "path": "profesii/unbr/hotarare-congres/2015/30",
+   "short": "UNBR hotarare-congres 30/2015",
+   "title": "Hotărârea nr. 30 din 12 decembrie 2015 a Consiliului U.N.B.R. privind calendarul desfăşurării şedinţelor Comisiei Permanente a U.N.B.R. şi ale Consiliului U.N.B.R., Congresul avocaților (la București), data începerii examenului de primire în profesia de avocat şi data începerii examenului de absolvire a cursurilor INPPA, în anul 2016",
+   "url": "https://unbr.ro/hotararea-nr-30-din-12-decembrie-2015-a-consiliului-u-n-b-r-privind-calendarul-desfasurarii-sedintelor-comisiei-permanente-a-u-n-b-r-si-ale-consiliului-u-n-b-r-congresul-avocatilor-la-bucuresti/",
+   "versions": [
+    {
+     "from": "2015-12-29",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-nr-30-din-12-decembrie-2015-a-consiliului-u-n-b-r-privind-calendarul-desfasurarii-sedintelor-comisiei-permanente-a-u-n-b-r-si-ale-consiliului-u-n-b-r-congresul-avocatilor-la-bucuresti/",
+     "sha256": "4b8b50bfe17e79927462cee3859aeb6bc3dc0859357ee291ede7d352591b7d22"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-congres-2015-4",
+   "path": "profesii/unbr/hotarare-congres/2015/4",
+   "short": "Hotărârea Congresului avocaților nr. 4/2015",
+   "title": "Hotărârea Congresului avocaților nr. 4/2015",
+   "url": "https://unbr.ro/hotarari-si-rezolutii-adoptate-de-congresul-avocatilor-06-07-iunie-2015-bucuresti/",
+   "versions": [
+    {
+     "from": "2015-06-08",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-si-rezolutii-adoptate-de-congresul-avocatilor-06-07-iunie-2015-bucuresti/",
+     "sha256": "9e47727f7942f747c7e3ce665b7ee7a936d64e2ba71e9222c9b834c6bf769ecf"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-congres-2015-5",
+   "path": "profesii/unbr/hotarare-congres/2015/5",
+   "short": "Hotărârea Congresului avocaților nr. 5/2015",
+   "title": "Hotărârea Congresului avocaților nr. 5/2015",
+   "url": "https://unbr.ro/hotarari-si-rezolutii-adoptate-de-congresul-avocatilor-06-07-iunie-2015-bucuresti/",
+   "versions": [
+    {
+     "from": "2015-06-08",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-si-rezolutii-adoptate-de-congresul-avocatilor-06-07-iunie-2015-bucuresti/",
+     "sha256": "4c1c5de747b9a936d8fb9dd957af6b8769f6a840a016e6808ec7b80740b21df0"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-congres-2015-6",
+   "path": "profesii/unbr/hotarare-congres/2015/6",
+   "short": "Hotărârea Congresului avocaților nr. 6/2015",
+   "title": "Hotărârea Congresului avocaților nr. 6/2015",
+   "url": "https://unbr.ro/hotarari-si-rezolutii-adoptate-de-congresul-avocatilor-06-07-iunie-2015-bucuresti/",
+   "versions": [
+    {
+     "from": "2015-06-08",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-si-rezolutii-adoptate-de-congresul-avocatilor-06-07-iunie-2015-bucuresti/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-congres-2015-7",
+   "path": "profesii/unbr/hotarare-congres/2015/7",
+   "short": "Hotărârea Congresului avocaților nr. 7/2015",
+   "title": "Hotărârea Congresului avocaților nr. 7/2015",
+   "url": "https://unbr.ro/hotarari-si-rezolutii-adoptate-de-congresul-avocatilor-06-07-iunie-2015-bucuresti/",
+   "versions": [
+    {
+     "from": "2015-06-08",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-si-rezolutii-adoptate-de-congresul-avocatilor-06-07-iunie-2015-bucuresti/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-congres-2015-8",
+   "path": "profesii/unbr/hotarare-congres/2015/8",
+   "short": "Hotărârea Congresului avocaților nr. 8/2015",
+   "title": "Hotărârea Congresului avocaților nr. 8/2015",
+   "url": "https://unbr.ro/hotarari-si-rezolutii-adoptate-de-congresul-avocatilor-06-07-iunie-2015-bucuresti/",
+   "versions": [
+    {
+     "from": "2015-06-08",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-si-rezolutii-adoptate-de-congresul-avocatilor-06-07-iunie-2015-bucuresti/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-congres-2015-9",
+   "path": "profesii/unbr/hotarare-congres/2015/9",
+   "short": "Hotărârea Congresului avocaților nr. 9/2015",
+   "title": "Hotărârea Congresului avocaților nr. 9/2015",
+   "url": "https://unbr.ro/hotarari-si-rezolutii-adoptate-de-congresul-avocatilor-06-07-iunie-2015-bucuresti/",
+   "versions": [
+    {
+     "from": "2015-06-08",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-si-rezolutii-adoptate-de-congresul-avocatilor-06-07-iunie-2015-bucuresti/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2015-1069",
+   "path": "profesii/unbr/hotarare-consiliu/2015/1069",
+   "short": "UNBR hotarare-consiliu 1069/2015",
+   "title": "Hotărârea nr. 1069 din 7 martie 2015 a Consiliului U.N.B.R. privind modificarea şi completarea Statutului profesiei de avocat, adoptat prin Hotărârea Consiliului Uniunii Naţionale a Barourilor din România nr. 64/2011, cu modificările și completarile ulterioare",
+   "url": "https://unbr.ro/hotararea-nr-1069-din-7-martie-2015-a-consiliului-u-n-b-r-privind-modificarea-si-completarea-statutului-profesiei-de-avocat-adoptat-prin-hotararea-consiliului-uniunii-nationale-a-barourilor-din-rom/",
+   "versions": [
+    {
+     "from": "2015-03-12",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-nr-1069-din-7-martie-2015-a-consiliului-u-n-b-r-privind-modificarea-si-completarea-statutului-profesiei-de-avocat-adoptat-prin-hotararea-consiliului-uniunii-nationale-a-barourilor-din-rom/",
+     "sha256": "37e5286eed979db87bbf7612a830923696a9e6212cf7ec8b7aab48dd25534890"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2015-1115",
+   "path": "profesii/unbr/hotarare-consiliu/2015/1115",
+   "short": "Hotărârea Consiliului UNBR nr. 1115/2015",
+   "title": "Hotărârea Consiliului UNBR nr. 1115/2015",
+   "url": "https://unbr.ro/hotarari-ale-consiliului-unbr-adoptate-in-sedinta-din-05-iunie-2015-privind-organizarea-examenului-de-primire-in-profesie-sesiunea-septembrie-2015/",
+   "versions": [
+    {
+     "from": "2015-06-17",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-ale-consiliului-unbr-adoptate-in-sedinta-din-05-iunie-2015-privind-organizarea-examenului-de-primire-in-profesie-sesiunea-septembrie-2015/",
+     "sha256": "3e6d1d131882bd16846e3ba641a25ad08fb12f57986a990703f258ad82eb5312"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2015-1116",
+   "path": "profesii/unbr/hotarare-consiliu/2015/1116",
+   "short": "Hotărârea Consiliului UNBR nr. 1116/2015",
+   "title": "Hotărârea Consiliului UNBR nr. 1116/2015",
+   "url": "https://unbr.ro/hotarari-ale-consiliului-unbr-adoptate-in-sedinta-din-05-iunie-2015-privind-organizarea-examenului-de-primire-in-profesie-sesiunea-septembrie-2015/",
+   "versions": [
+    {
+     "from": "2015-06-17",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-ale-consiliului-unbr-adoptate-in-sedinta-din-05-iunie-2015-privind-organizarea-examenului-de-primire-in-profesie-sesiunea-septembrie-2015/",
+     "sha256": "2c8dae4cb336d3dea6b53625030ce4dc965a0cd5d7228722ecd088dd205e4b76"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2015-1117",
+   "path": "profesii/unbr/hotarare-consiliu/2015/1117",
+   "short": "Hotărârea Consiliului UNBR nr. 1117/2015",
+   "title": "Hotărârea Consiliului UNBR nr. 1117/2015",
+   "url": "https://unbr.ro/hotarari-ale-consiliului-unbr-adoptate-in-sedinta-din-05-iunie-2015-privind-organizarea-examenului-de-primire-in-profesie-sesiunea-septembrie-2015/",
+   "versions": [
+    {
+     "from": "2015-06-17",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-ale-consiliului-unbr-adoptate-in-sedinta-din-05-iunie-2015-privind-organizarea-examenului-de-primire-in-profesie-sesiunea-septembrie-2015/",
+     "sha256": "5523226c0c6447d47d76af76800054a373251b7185c06610c9e4f0292eab651f"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2015-25",
+   "path": "profesii/unbr/hotarare-consiliu/2015/25",
+   "short": "UNBR hotarare-consiliu 25/2015",
+   "title": "Hotărârea nr. 25 din 5 septembrie 2015 a Consiliului UNBR privind stabilirea cuantumul restituirilor sumelor achitate cu titlu de taxă de examen",
+   "url": "https://unbr.ro/hotararea-nr-25-din-5-septembrie-2015-a-consiliului-unbr-privind-stabilirea-cuantumul-restituirilor-sumelor-achitate-cu-titlu-de-taxa-de-examen/",
+   "versions": [
+    {
+     "from": "2015-09-29",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-nr-25-din-5-septembrie-2015-a-consiliului-unbr-privind-stabilirea-cuantumul-restituirilor-sumelor-achitate-cu-titlu-de-taxa-de-examen/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2015-37",
+   "path": "profesii/unbr/hotarare-consiliu/2015/37",
+   "short": "UNBR hotarare-consiliu 37/2015",
+   "title": "Hotărârea nr. 37 din 12 decembrie 2015 a Consiliului U.N.B.R. prin care se aprobă proiectul de Acord CCBE privind recunoașterea reciprocă a pregătirii profesionale continue",
+   "url": "https://unbr.ro/hotararea-nr-37-din-12-decembrie-2015-a-consiliului-u-n-b-r-prin-care-se-aproba-proiectul-de-acord-ccbe-privind-recunoasterea-reciproca-a-pregatirii-profesionale-continue/",
+   "versions": [
+    {
+     "from": "2015-12-24",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-nr-37-din-12-decembrie-2015-a-consiliului-u-n-b-r-prin-care-se-aproba-proiectul-de-acord-ccbe-privind-recunoasterea-reciproca-a-pregatirii-profesionale-continue/",
+     "sha256": "a487aa4b48d79f0503f233adcded9b58477350c174c243de2ed4f7223416596a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-protocol-2015-p4836",
+   "path": "profesii/unbr/protocol/2015/p4836",
+   "short": "UNBR protocol /2015",
+   "title": "PROTOCOLUL privind stabilirea onorariilor cuvenite avocaţilor pentru furnizarea serviciilor de asistenţă judiciară în materie penală, pentru prestarea, în cadrul sistemului de ajutor public judiciar, a serviciilor de asistenţă judiciară şi/sau reprezentare ori de asistenţă extrajudiciară, precum şi pentru asigurarea serviciilor de asistenţă judiciară privind accesul internaţional la justiţie în materie civilă şi cooperarea judiciară internaţională în materie penală",
+   "url": "https://unbr.ro/dam-publicitatii-protocolul-din-privind-stabilirea-onorariilor-cuvenite-avocatilor-pentru-furnizarea-serviciilor-de-asistenta-judiciara-in-materie-penala-pentru-prestarea-in-cadrul-sistemului-de-aju/",
+   "versions": [
+    {
+     "from": "2015-06-08",
+     "units": 1,
+     "source_url": "https://unbr.ro/dam-publicitatii-protocolul-din-privind-stabilirea-onorariilor-cuvenite-avocatilor-pentru-furnizarea-serviciilor-de-asistenta-judiciara-in-materie-penala-pentru-prestarea-in-cadrul-sistemului-de-aju/",
+     "sha256": "a75de7feaee5922e0d67654cc77c0bf37fd81a5671dcbd612ab98ff5159f2624"
+    }
+   ]
+  }
+ ]
+}

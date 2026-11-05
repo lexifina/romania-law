@@ -12723,4 +12723,5 @@
 | Technical rules for construction (normative tehnice) | 291 | [`data/acts/normativ-tehnic/`](data/acts/normativ-tehnic/) |
 | EU law in Romanian: regulations and directives in force (Official Journal text) | 990 | [`data/acts/ue/`](data/acts/ue/) |
 | Annexes published apart from their act (court circumscriptions, official forms) | 7 | [`data/acts/anexa/`](data/acts/anexa/) |
+| Legal professions' rules: statutes, codes of ethics, regulations and decisions of the professional bodies (UNBR, UNNPR, UNEJ, OCJR, UNPIR, Consiliul de Mediere, CSM, INM, CAFR) | 667 | [`data/acts/profesii/`](data/acts/profesii/) |
 | Local acts (decisions of local and county councils) | 40796 | [`data/acts/local/`](data/acts/local/) |

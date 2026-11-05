@@ -1,0 +1,885 @@
+{
+ "country": "RO",
+ "shard": "profesii/other",
+ "acts": [
+  {
+   "slug": "profesii-cafr-norme-spalarea-banilor",
+   "path": "profesii/cafr/norme-spalarea-banilor",
+   "short": "CAFR norme 123/2023",
+   "title": "Normele privind instituirea de către auditorii financiari și firmele de audit a măsurilor de prevenire și combatere a spălării banilor și a finanțării terorismului",
+   "url": "https://cafr.ro/",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://cafr.ro/",
+     "sha256": "70d2f42a24e3d9a7b56014397828b13e61cf592a97c20dfcc3365d05345a94ab"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-regulament-organizare-functionare",
+   "path": "profesii/cafr/regulament-organizare-functionare",
+   "short": "Regulamentul de organizare și funcționare a Camerei Auditorilor Financiari din România",
+   "title": "Regulamentul de organizare și funcționare a Camerei Auditorilor Financiari din România",
+   "url": "https://cafr.ro/legislatie/",
+   "versions": [
+    {
+     "from": "2018-05-23",
+     "units": 1,
+     "source_url": "https://cafr.ro/legislatie/",
+     "sha256": "6bda6345699d6d8f6d0a466330bed04d8311ad6d5a60e93cd46da91581fb6e9f"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-cod-deontologic",
+   "path": "profesii/csm/cod-deontologic",
+   "short": "Codul deontologic al judecătorilor și procurorilor",
+   "title": "Codul deontologic al judecătorilor și procurorilor",
+   "url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 1,
+     "source_url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-admitere-magistratura",
+   "path": "profesii/csm/regulament-admitere-magistratura",
+   "short": "Regulamentul privind concursul de admitere în magistratură",
+   "title": "Regulamentul privind concursul de admitere în magistratură",
+   "url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "units": 1,
+     "source_url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-alegere-membri",
+   "path": "profesii/csm/regulament-alegere-membri",
+   "short": "Regulamentul privind procedura alegerii membrilor Consiliului Superior al Magistraturii",
+   "title": "Regulamentul privind procedura alegerii membrilor Consiliului Superior al Magistraturii",
+   "url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+   "versions": [
+    {
+     "from": "2005-09-14",
+     "units": 1,
+     "source_url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-asistenti-judecator",
+   "path": "profesii/csm/regulament-asistenti-judecator",
+   "short": "Regulamentul privind recrutarea, formarea profesională și evaluarea asistenților judecătorului",
+   "title": "Regulamentul privind recrutarea, formarea profesională și evaluarea asistenților judecătorului",
+   "url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 1,
+     "source_url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-concedii",
+   "path": "profesii/csm/regulament-concedii",
+   "short": "Regulamentul privind concediile judecătorilor și procurorilor",
+   "title": "Regulamentul privind concediile judecătorilor și procurorilor",
+   "url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 1,
+     "source_url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-concurs-director-inspectie-judecatori",
+   "path": "profesii/csm/regulament-concurs-director-inspectie-judecatori",
+   "short": "CSM regulament 246/2024",
+   "title": "Regulamentul privind organizarea și desfășurarea concursului pentru numirea în funcția de director al Direcției de inspecție pentru judecători din cadrul Inspecției Judiciare",
+   "url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-concurs-director-inspectie-procurori",
+   "path": "profesii/csm/regulament-concurs-director-inspectie-procurori",
+   "short": "CSM regulament 80/2024",
+   "title": "Regulamentul privind organizarea și desfășurarea concursului pentru numirea în funcția de director al Direcției de inspecție pentru procurori din cadrul Inspecției Judiciare",
+   "url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-concurs-inspector-judecatori",
+   "path": "profesii/csm/regulament-concurs-inspector-judecatori",
+   "short": "CSM regulament 247/2024",
+   "title": "Regulamentul privind organizarea și desfășurarea concursului pentru numirea în funcția de inspector judiciar în cadrul Direcției de inspecție pentru judecători",
+   "url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-concurs-inspector-procurori",
+   "path": "profesii/csm/regulament-concurs-inspector-procurori",
+   "short": "CSM regulament 81/2024",
+   "title": "Regulamentul privind organizarea și desfășurarea concursului pentru numirea în funcția de inspector judiciar în cadrul Direcției de inspecție pentru procurori",
+   "url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-concurs-inspector-sef",
+   "path": "profesii/csm/regulament-concurs-inspector-sef",
+   "short": "CSM regulament 10/2024",
+   "title": "Regulamentul privind organizarea și desfășurarea concursului pentru numirea în funcțiile de inspector-șef și inspector-șef adjunct ai Inspecției Judiciare",
+   "url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+   "versions": [
+    {
+     "from": "2018-12-10",
+     "units": 1,
+     "source_url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-evaluare-judecatori",
+   "path": "profesii/csm/regulament-evaluare-judecatori",
+   "short": "Regulamentul privind evaluarea activității profesionale a judecătorilor",
+   "title": "Regulamentul privind evaluarea activității profesionale a judecătorilor",
+   "url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+   "versions": [
+    {
+     "from": "2007-11-29",
+     "units": 1,
+     "source_url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-evaluare-personal-asimilat",
+   "path": "profesii/csm/regulament-evaluare-personal-asimilat",
+   "short": "CSM regulament 862/2014",
+   "title": "Regulamentul privind evaluarea activității profesionale a personalului de specialitate juridică asimilat judecătorilor și procurorilor din cadrul Consiliului Superior al Magistraturii și al Institutului Național al Magistraturii",
+   "url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+   "versions": [
+    {
+     "from": "2014-07-17",
+     "units": 1,
+     "source_url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-evaluare-procurori",
+   "path": "profesii/csm/regulament-evaluare-procurori",
+   "short": "Regulamentul privind evaluarea activității profesionale a procurorilor",
+   "title": "Regulamentul privind evaluarea activității profesionale a procurorilor",
+   "url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-examen-capacitate-judecatori",
+   "path": "profesii/csm/regulament-examen-capacitate-judecatori",
+   "short": "Regulamentul privind examenul de capacitate al judecătorilor stagiari",
+   "title": "Regulamentul privind examenul de capacitate al judecătorilor stagiari",
+   "url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-examen-capacitate-procurori",
+   "path": "profesii/csm/regulament-examen-capacitate-procurori",
+   "short": "Regulamentul privind examenul de capacitate al procurorilor stagiari",
+   "title": "Regulamentul privind examenul de capacitate al procurorilor stagiari",
+   "url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-examen-capacitate",
+   "path": "profesii/csm/regulament-examen-capacitate",
+   "short": "Regulamentul privind examenul de capacitate al judecătorilor stagiari și al procurorilor stagiari",
+   "title": "Regulamentul privind examenul de capacitate al judecătorilor stagiari și al procurorilor stagiari",
+   "url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-formare-continua",
+   "path": "profesii/csm/regulament-formare-continua",
+   "short": "CSM regulament 322/2005",
+   "title": "Regulamentul privind modul de desfășurare a cursurilor de formare profesională continuă a judecătorilor și procurorilor și atestare a rezultatelor obținute",
+   "url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 1,
+     "source_url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-functii-conducere-judecatori",
+   "path": "profesii/csm/regulament-functii-conducere-judecatori",
+   "short": "Regulamentul privind numirea în funcții de conducere a judecătorilor și revocarea din aceste funcții",
+   "title": "Regulamentul privind numirea în funcții de conducere a judecătorilor și revocarea din aceste funcții",
+   "url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-functii-conducere-procurori",
+   "path": "profesii/csm/regulament-functii-conducere-procurori",
+   "short": "Regulamentul privind numirea în funcții de conducere a procurorilor și revocarea din aceste funcții",
+   "title": "Regulamentul privind numirea în funcții de conducere a procurorilor și revocarea din aceste funcții",
+   "url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 1,
+     "source_url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-judecator-supraveghere-privare-libertate",
+   "path": "profesii/csm/regulament-judecator-supraveghere-privare-libertate",
+   "short": "Regulamentul de organizare a activității judecătorului de supraveghere a privării de libertate",
+   "title": "Regulamentul de organizare a activității judecătorului de supraveghere a privării de libertate",
+   "url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+   "versions": [
+    {
+     "from": "2014-01-31",
+     "units": 1,
+     "source_url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-lucrari-inspectie",
+   "path": "profesii/csm/regulament-lucrari-inspectie",
+   "short": "Regulamentul privind normele pentru efectuarea lucrărilor de inspecție",
+   "title": "Regulamentul privind normele pentru efectuarea lucrărilor de inspecție",
+   "url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-magistrati-militari",
+   "path": "profesii/csm/regulament-magistrati-militari",
+   "short": "CSM regulament 176/2014",
+   "title": "Regulamentul comun privind numirea ca judecător sau procuror militar, transferul de la instanțele sau parchetele civile la instanțele ori parchetele militare, precum și acordarea gradelor militare și înaintarea în grad a judecătorilor și procurorilor militari",
+   "url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+   "versions": [
+    {
+     "from": "2014-05-22",
+     "units": 1,
+     "source_url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-numire-diicot",
+   "path": "profesii/csm/regulament-numire-diicot",
+   "short": "CSM regulament 843/2023",
+   "title": "Regulamentul privind numirea procurorilor în funcții de execuție la Direcția de Investigare a Infracțiunilor de Criminalitate Organizată și Terorism și revocarea din aceste funcții",
+   "url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-numire-dna",
+   "path": "profesii/csm/regulament-numire-dna",
+   "short": "CSM regulament 1107/2023",
+   "title": "Regulamentul privind numirea procurorilor în funcții de execuție la Direcția Națională Anticorupție și revocarea din aceste funcții",
+   "url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+   "versions": [
+    {
+     "from": "2023-09-04",
+     "units": 1,
+     "source_url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-ordine-interioara-diicot",
+   "path": "profesii/csm/regulament-ordine-interioara-diicot",
+   "short": "Regulamentul de ordine interioară al Direcției de Investigare a Infracțiunilor de Criminalitate Organizată și Terorism",
+   "title": "Regulamentul de ordine interioară al Direcției de Investigare a Infracțiunilor de Criminalitate Organizată și Terorism",
+   "url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+   "versions": [
+    {
+     "from": "2024-03-15",
+     "units": 1,
+     "source_url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-ordine-interioara-dna",
+   "path": "profesii/csm/regulament-ordine-interioara-dna",
+   "short": "Regulamentul de ordine interioară al Direcției Naționale Anticorupție",
+   "title": "Regulamentul de ordine interioară al Direcției Naționale Anticorupție",
+   "url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+   "versions": [
+    {
+     "from": "2023-10-05",
+     "units": 1,
+     "source_url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-ordine-interioara-instante",
+   "path": "profesii/csm/regulament-ordine-interioara-instante",
+   "short": "Regulamentul de ordine interioară al instanțelor judecătorești",
+   "title": "Regulamentul de ordine interioară al instanțelor judecătorești",
+   "url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+   "versions": [
+    {
+     "from": "2015-12-28",
+     "units": 1,
+     "source_url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-ordine-interioara-parchete",
+   "path": "profesii/csm/regulament-ordine-interioara-parchete",
+   "short": "Regulamentul de ordine interioară al parchetelor",
+   "title": "Regulamentul de ordine interioară al parchetelor",
+   "url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+   "versions": [
+    {
+     "from": "2019-12-13",
+     "units": 1,
+     "source_url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-organizare-functionare",
+   "path": "profesii/csm/regulament-organizare-functionare",
+   "short": "Regulamentul de organizare și funcționare a Consiliului Superior al Magistraturii",
+   "title": "Regulamentul de organizare și funcționare a Consiliului Superior al Magistraturii",
+   "url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-organizare-inspectia-judiciara",
+   "path": "profesii/csm/regulament-organizare-inspectia-judiciara",
+   "short": "Regulamentul de organizare și funcționare a Inspecției Judiciare",
+   "title": "Regulamentul de organizare și funcționare a Inspecției Judiciare",
+   "url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+   "versions": [
+    {
+     "from": "2023-08-29",
+     "units": 1,
+     "source_url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-promovare-iccj",
+   "path": "profesii/csm/regulament-promovare-iccj",
+   "short": "CSM regulament 1057/2023",
+   "title": "Regulamentul privind organizarea și desfășurarea concursului de promovare în funcția de judecător la Înalta Curte de Casație și Justiție",
+   "url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-promovare-judecatori",
+   "path": "profesii/csm/regulament-promovare-judecatori",
+   "short": "Regulamentul privind concursul de promovare a judecătorilor",
+   "title": "Regulamentul privind concursul de promovare a judecătorilor",
+   "url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+   "versions": [
+    {
+     "from": "2023-05-03",
+     "units": 1,
+     "source_url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-promovare-procurori",
+   "path": "profesii/csm/regulament-promovare-procurori",
+   "short": "Regulamentul privind concursul de promovare a procurorilor",
+   "title": "Regulamentul privind concursul de promovare a procurorilor",
+   "url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+   "versions": [
+    {
+     "from": "2019-08-01",
+     "units": 1,
+     "source_url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-inm-regulament-admitere",
+   "path": "profesii/inm/regulament-admitere",
+   "short": "Regulamentul privind admiterea la Institutul Național al Magistraturii",
+   "title": "Regulamentul privind admiterea la Institutul Național al Magistraturii",
+   "url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+   "versions": [
+    {
+     "from": "2019-06-06",
+     "units": 1,
+     "source_url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-inm-regulament-examen-absolvire",
+   "path": "profesii/inm/regulament-examen-absolvire",
+   "short": "Regulamentul privind examenul de absolvire a Institutului Național al Magistraturii",
+   "title": "Regulamentul privind examenul de absolvire a Institutului Național al Magistraturii",
+   "url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-inm-regulament-inm",
+   "path": "profesii/inm/regulament-inm",
+   "short": "Regulamentul Institutului Național al Magistraturii",
+   "title": "Regulamentul Institutului Național al Magistraturii",
+   "url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 1,
+     "source_url": "https://www.csm1909.ro/Pages/274/Legislaţie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-mediere-cod-deontologic",
+   "path": "profesii/mediere/cod-deontologic",
+   "short": "Codul de etică și deontologie profesională al mediatorilor autorizați",
+   "title": "Codul de etică și deontologie profesională al mediatorilor autorizați",
+   "url": "https://www.consiliuldemediere.ro/legislatie",
+   "versions": [
+    {
+     "from": "2011-07-29",
+     "units": 1,
+     "source_url": "https://www.consiliuldemediere.ro/legislatie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-mediere-regulament-organizare-functionare",
+   "path": "profesii/mediere/regulament-organizare-functionare",
+   "short": "Regulamentul de organizare și funcționare a Consiliului de mediere",
+   "title": "Regulamentul de organizare și funcționare a Consiliului de mediere",
+   "url": "https://www.consiliuldemediere.ro/legislatie",
+   "versions": [
+    {
+     "from": "2007-05-13",
+     "units": 1,
+     "source_url": "https://www.consiliuldemediere.ro/legislatie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-mediere-standard-formare",
+   "path": "profesii/mediere/standard-formare",
+   "short": "Standardul de formare a mediatorului",
+   "title": "Standardul de formare a mediatorului",
+   "url": "https://www.consiliuldemediere.ro/legislatie",
+   "versions": [
+    {
+     "from": "2007-09-07",
+     "units": 1,
+     "source_url": "https://www.consiliuldemediere.ro/legislatie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-mediere-statut",
+   "path": "profesii/mediere/statut",
+   "short": "Statutul profesiei de mediator",
+   "title": "Statutul profesiei de mediator",
+   "url": "https://www.consiliuldemediere.ro/legislatie",
+   "versions": [
+    {
+     "from": "2015-07-18",
+     "units": 1,
+     "source_url": "https://www.consiliuldemediere.ro/legislatie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ocjr-cod-deontologic",
+   "path": "profesii/ocjr/cod-deontologic",
+   "short": "Codul deontologic al consilierului juridic",
+   "title": "Codul deontologic al consilierului juridic",
+   "url": "https://www.ocjr.ro/cod-deontologic/",
+   "versions": [
+    {
+     "from": "2012-03-17",
+     "units": 1,
+     "source_url": "https://www.ocjr.ro/cod-deontologic/",
+     "sha256": "eb17dfa65b5f0760231abbb384ffa0b95446fe8597a0b86938f75f8ca54a425e"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ocjr-regulament-disciplina",
+   "path": "profesii/ocjr/regulament-disciplina",
+   "short": "Regulamentul de disciplină al Ordinului Consilierilor Juridici din România",
+   "title": "Regulamentul de disciplină al Ordinului Consilierilor Juridici din România",
+   "url": "https://www.ocjr.ro/regulament-de-disciplina/",
+   "versions": [
+    {
+     "from": "2012-03-17",
+     "units": 1,
+     "source_url": "https://www.ocjr.ro/regulament-de-disciplina/",
+     "sha256": "10bad2d524ea72b5e4a132a849c770960e298a4a4502d7f53efcc80beb31aff1"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ocjr-regulament-forme-exercitare",
+   "path": "profesii/ocjr/regulament-forme-exercitare",
+   "short": "Regulament privind formele de exercitare a profesiei de consilier juridic",
+   "title": "Regulament privind formele de exercitare a profesiei de consilier juridic",
+   "url": "https://www.ocjr.ro/regulament-privind-formele-de-exercitare-profesiei-de-consilier-juridic/",
+   "versions": [
+    {
+     "from": "2012-03-17",
+     "units": 1,
+     "source_url": "https://www.ocjr.ro/regulament-privind-formele-de-exercitare-profesiei-de-consilier-juridic/",
+     "sha256": "e2b70f45e601b5ba427dc623a9ca55d2bdace32094a1a869c694559097c76824"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ocjr-regulament-marca-colectiva",
+   "path": "profesii/ocjr/regulament-marca-colectiva",
+   "short": "Regulament de utilizare a mărcii colective",
+   "title": "Regulament de utilizare a mărcii colective",
+   "url": "https://www.ocjr.ro/regulament-de-utilizare-marcii-colective/",
+   "versions": [
+    {
+     "from": "2015-10-24",
+     "units": 1,
+     "source_url": "https://www.ocjr.ro/regulament-de-utilizare-marcii-colective/",
+     "sha256": "802b75be2064c357f01eff7f926a97b97de6deafc6b3934def9ae7a2bb7fba2f"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ocjr-regulament-primire-stagiu-definitivare",
+   "path": "profesii/ocjr/regulament-primire-stagiu-definitivare",
+   "short": "Regulament privind primirea, stagiul și definitivarea în profesia de consilier juridic",
+   "title": "Regulament privind primirea, stagiul și definitivarea în profesia de consilier juridic",
+   "url": "https://www.ocjr.ro/regulament-privind-primirea-stagiul-si-definitivarea-profesia-de-consilier-juridic/",
+   "versions": [
+    {
+     "from": "2012-03-17",
+     "units": 1,
+     "source_url": "https://www.ocjr.ro/regulament-privind-primirea-stagiul-si-definitivarea-profesia-de-consilier-juridic/",
+     "sha256": "7db359208416c30c5a7998a8d7c9af2f9d3d0dd641347e9e2163f0164aa0640b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ocjr-regulament-registre-activitate",
+   "path": "profesii/ocjr/regulament-registre-activitate",
+   "short": "Regulament privind registrele de activitate ale consilierilor juridici",
+   "title": "Regulament privind registrele de activitate ale consilierilor juridici",
+   "url": "https://www.ocjr.ro/regulament-privind-registrele-de-activitate-ale-consilierilor-juridici/",
+   "versions": [
+    {
+     "from": "2017-10-16",
+     "units": 1,
+     "source_url": "https://www.ocjr.ro/regulament-privind-registrele-de-activitate-ale-consilierilor-juridici/",
+     "sha256": "5113cfefd7d2d2fbfb8f290234e203fbb48c0d172e64ea8970fd6f9eaa0a971c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ocjr-statut-federatie",
+   "path": "profesii/ocjr/statut-federatie",
+   "short": "Statutul Federației „Ordinul Consilierilor Juridici din România”",
+   "title": "Statutul Federației „Ordinul Consilierilor Juridici din România”",
+   "url": "https://www.ocjr.ro/statutul-ocjr/",
+   "versions": [
+    {
+     "from": "2015-10-24",
+     "units": 1,
+     "source_url": "https://www.ocjr.ro/statutul-ocjr/",
+     "sha256": "e1eb684deb1cf6cf42161a766923bc0a15505c8d1c557c1e29a261632639363b"
+    },
+    {
+     "from": "2023-05-13",
+     "units": 1,
+     "source_url": "https://www.ocjr.ro/statutul-ocjr/",
+     "sha256": "d381e5fe74787083a4c5ba60a8ba8042bbb9e0adb0f96fa876fec3eaa6661364"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ocjr-statut",
+   "path": "profesii/ocjr/statut",
+   "short": "Statutul profesiei de consilier juridic",
+   "title": "Statutul profesiei de consilier juridic",
+   "url": "https://www.ocjr.ro/statutul-profesiei/",
+   "versions": [
+    {
+     "from": "2004-03-06",
+     "units": 1,
+     "source_url": "https://www.ocjr.ro/statutul-profesiei/",
+     "sha256": "e22ac9871c4b310ed8035edcb8fd9a2ace5c02298383a0aa1b3183d034252d2b"
+    },
+    {
+     "from": "2014-06-20",
+     "units": 1,
+     "source_url": "https://www.ocjr.ro/statutul-profesiei/",
+     "sha256": "aef479f51045cfcd607d1e54bc8ba3c9a0e8be7a46efa3edddd30a95587ec0c9"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-cod-deontologic",
+   "path": "profesii/unbr/cod-deontologic",
+   "short": "Codul deontologic al avocatului român",
+   "title": "Codul deontologic al avocatului român",
+   "url": "https://unbr.ro/publicam-hotararea-consiliului-unbr-nr-26817-iunie-2017-prin-care-se-aproba-codul-deontologic-al-avocatului-roman-prevazut-in-anexa/",
+   "versions": [
+    {
+     "from": "2017-06-17",
+     "units": 1,
+     "source_url": "https://unbr.ro/publicam-hotararea-consiliului-unbr-nr-26817-iunie-2017-prin-care-se-aproba-codul-deontologic-al-avocatului-roman-prevazut-in-anexa/",
+     "sha256": "052f0254af00e4369d41bbc7a63466300d18594a8d244a0f4531888e73b2da97"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-regulament-organizare-functionare",
+   "path": "profesii/unbr/regulament-organizare-functionare",
+   "short": "Regulamentul de organizare și funcționare a U.N.B.R. și de desfășurare a ședințelor Consiliului U.N.B.R.",
+   "title": "Regulamentul de organizare și funcționare a U.N.B.R. și de desfășurare a ședințelor Consiliului U.N.B.R.",
+   "url": "https://unbr.ro/legislatie/legislatie-romana/",
+   "versions": [
+    {
+     "from": "2007-10-27",
+     "units": 1,
+     "source_url": "https://unbr.ro/?p=371",
+     "sha256": "d888ea927e84c1dfa2167f286847fa0d8a0895b2915e48f6508418e051fbfa16"
+    },
+    {
+     "from": "2023-05-02",
+     "units": 1,
+     "source_url": "https://unbr.ro/legislatie/legislatie-romana/",
+     "sha256": "d3b07210d2c392dd09f9f339a42abbcd8650d1f8165635006f54acfafb03596c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-statut-2001",
+   "path": "profesii/unbr/statut-2001",
+   "short": "Statutul profesiei de avocat din 18 martie 2001 (republicat)",
+   "title": "Statutul profesiei de avocat din 18 martie 2001 (republicat)",
+   "url": "https://unbr.ro/?p=333",
+   "versions": [
+    {
+     "from": "2001-05-31",
+     "units": 1,
+     "source_url": "https://unbr.ro/?p=333",
+     "sha256": "efb70a049954bad4f513ab1f140cf504c88689c6c80a8442d539cd0702716f41"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-statut",
+   "path": "profesii/unbr/statut",
+   "short": "Statutul profesiei de avocat",
+   "title": "Statutul profesiei de avocat",
+   "url": "https://unbr.ro/statutul-profesiei-de-avocat-cu-modificari-si-completari-actualizat/",
+   "versions": [
+    {
+     "from": "2015-11-30",
+     "units": 1,
+     "source_url": "https://unbr.ro/?p=5592",
+     "sha256": "e6a7a8ec594b3cbc838b473a9ec3c77939c00af1d817ac228bf0c89deb747c9e"
+    },
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://unbr.ro/statutul-profesiei-de-avocat-cu-modificari-si-completari-actualizat/",
+     "sha256": "9dc0d7ae63beeff3c0e9e81cccbd2388af367dd72479f293f1ccf454a0c996f6"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unej-statut",
+   "path": "profesii/unej/statut",
+   "short": "Statutul Uniunii Naționale a Executorilor Judecătorești și al profesiei de executor judecătoresc",
+   "title": "Statutul Uniunii Naționale a Executorilor Judecătorești și al profesiei de executor judecătoresc",
+   "url": "https://www.executori.ro/legislatie/statut",
+   "versions": [
+    {
+     "from": "2013-06-25",
+     "units": 1,
+     "source_url": "https://www.executori.ro/legislatie/statut",
+     "sha256": "8b87511887f3d6f603acded93cee4b9a86fc3f38957599d919038a10cdb4f520"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unpir-cod-deontologic",
+   "path": "profesii/unpir/cod-deontologic",
+   "short": "Codul de etică profesională și disciplină al Uniunii Naționale a Practicienilor în Insolvență din România",
+   "title": "Codul de etică profesională și disciplină al Uniunii Naționale a Practicienilor în Insolvență din România",
+   "url": "https://www.unpir.ro/index.php/legislatie",
+   "versions": [
+    {
+     "from": "2007-09-29",
+     "units": 1,
+     "source_url": "https://www.unpir.ro/index.php/legislatie",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unpir-statut",
+   "path": "profesii/unpir/statut",
+   "short": "Statutul privind organizarea și exercitarea profesiei de practician în insolvență",
+   "title": "Statutul privind organizarea și exercitarea profesiei de practician în insolvență",
+   "url": "https://www.unpir.ro/index.php/legislatie",
+   "versions": [
+    {
+     "from": "2007-09-29",
+     "units": 1,
+     "source_url": "https://www.unpir.ro/index.php/legislatie",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

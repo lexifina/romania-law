@@ -1,0 +1,27 @@
+{
+"country": "RO",
+"shard": "profesii/2006",
+"acts": [
+{
+"slug": "profesii-unbr-decizie-consiliu-2006-116",
+"path": "profesii/unbr/decizie-consiliu/2006/116",
+"kind": "profesii",
+"year": "2006",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Consiliului Uniunii Naţionale a Barourilor din România nr. 116 din 03 februarie 2006 privind secretul profesional",
+"short": "UNBR decizie-consiliu 116/2006",
+"code": null,
+"status": "metadata only (text not held yet)",
+"versions": 1,
+"from": "2006-03-09",
+"latest": "2006-03-09",
+"portal": "https://unbr.ro/publicam-decizia-consiliului-uniunii-nationale-a-barourilor-din-romania-nr-116-din-03-februarie-2006-privind-secretul-profesional/",
+"flags": {
+"text_missing": true,
+"amendments_checked": false
+}
+}
+]
+}

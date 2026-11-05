@@ -1,0 +1,231 @@
+{
+ "country": "RO",
+ "shard": "profesii/2009",
+ "acts": [
+  {
+   "slug": "profesii-unbr-decizie-2009-522",
+   "path": "profesii/unbr/decizie/2009/522",
+   "short": "DECIZIA Nr. 522 / 01 iulie 2009",
+   "title": "DECIZIA Nr. 522 / 01 iulie 2009",
+   "url": "https://unbr.ro/decizia-nr-522-01-iulie-2009-2/",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-nr-522-01-iulie-2009-2/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-2009-523",
+   "path": "profesii/unbr/decizie/2009/523",
+   "short": "DECIZIA Nr. 523 / 01 iulie 2009",
+   "title": "DECIZIA Nr. 523 / 01 iulie 2009",
+   "url": "https://unbr.ro/decizia-nr-523-01-iulie-2009-2/",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-nr-523-01-iulie-2009-2/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-2009-713",
+   "path": "profesii/unbr/decizie/2009/713",
+   "short": "Decizia nr. 713/12.12.2009",
+   "title": "Decizia nr. 713/12.12.2009",
+   "url": "https://unbr.ro/decizia-nr-71312-12-2009/",
+   "versions": [
+    {
+     "from": "2009-12-12",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-nr-71312-12-2009/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-consiliu-2009-711",
+   "path": "profesii/unbr/decizie-consiliu/2009/711",
+   "short": "Decizia nr. 711/12.12.2009",
+   "title": "Decizia nr. 711/12.12.2009",
+   "url": "https://unbr.ro/decizia-nr-71112-12-2009/",
+   "versions": [
+    {
+     "from": "2009-12-12",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-nr-71112-12-2009/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2009-2009",
+   "path": "profesii/unbr/decizie-cp/2009/2009",
+   "short": "ANUNŢ - EXAMENUL PENTRU DOBÂNDIREA TITLULUI PROFESIONAL DE AVOCAT DEFINITIV",
+   "title": "ANUNŢ - EXAMENUL PENTRU DOBÂNDIREA TITLULUI PROFESIONAL DE AVOCAT DEFINITIV",
+   "url": "https://unbr.ro/anunt-examenul-pentru-dobandirea-titlului-profesional-de-avocat-definitiv/",
+   "versions": [
+    {
+     "from": "2010-02-21",
+     "units": 1,
+     "source_url": "https://unbr.ro/anunt-examenul-pentru-dobandirea-titlului-profesional-de-avocat-definitiv/",
+     "sha256": "8e19343ac566d2a3d8e2f1bac92c80cd9faae4bf4af42a13d78fb741a766f626"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2009-57",
+   "path": "profesii/unbr/decizie-cp/2009/57",
+   "short": "Decizia Comisiei Permanente nr. 57 din 10 aprilie 2009",
+   "title": "Decizia Comisiei Permanente nr. 57 din 10 aprilie 2009",
+   "url": "https://unbr.ro/decizia-comisiei-permanente-nr-57-din-10-aprilie-2009/",
+   "versions": [
+    {
+     "from": "2009-04-10",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-comisiei-permanente-nr-57-din-10-aprilie-2009/",
+     "sha256": "19bdcada7e5ea6654d01f7b79cc14721bc5d402b03a427aad7722d182eaaec9a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2009-87",
+   "path": "profesii/unbr/decizie-cp/2009/87",
+   "short": "Decizia nr. 87/28 august 2009 a Comisiei Permanente a U.N.B.R",
+   "title": "Decizia nr. 87/28 august 2009 a Comisiei Permanente a U.N.B.R",
+   "url": "https://unbr.ro/decizia-nr-8728-august-2009-a-comisiei-permanente-a-u-n-b-r/",
+   "versions": [
+    {
+     "from": "2009-08-28",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-nr-8728-august-2009-a-comisiei-permanente-a-u-n-b-r/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2009-98",
+   "path": "profesii/unbr/decizie-cp/2009/98",
+   "short": "Decizia nr. 98/28 august 2009 a Comisiei Permanente a U.N.B.R",
+   "title": "Decizia nr. 98/28 august 2009 a Comisiei Permanente a U.N.B.R",
+   "url": "https://unbr.ro/decizia-nr-9828-august-2009-a-comisiei-permanente-a-u-n-b-r/",
+   "versions": [
+    {
+     "from": "2009-08-28",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-nr-9828-august-2009-a-comisiei-permanente-a-u-n-b-r/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2009-99",
+   "path": "profesii/unbr/decizie-cp/2009/99",
+   "short": "Decizia nr. 99 din 21 octombrie 2009 a Comisiei Permanente a U.N.B.R",
+   "title": "Decizia nr. 99 din 21 octombrie 2009 a Comisiei Permanente a U.N.B.R",
+   "url": "https://unbr.ro/decizia-nr-99-din-21-octombrie-2009-a-comisiei-permanente-a-u-n-b-r/",
+   "versions": [
+    {
+     "from": "2009-10-21",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-nr-99-din-21-octombrie-2009-a-comisiei-permanente-a-u-n-b-r/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-presedinte-2009-32",
+   "path": "profesii/unbr/decizie-presedinte/2009/32",
+   "short": "Decizia nr. 32/13 iulie 2009 a Preşedintelui U.N.B.R. privind examenul pentru primirea în profesie",
+   "title": "Decizia nr. 32/13 iulie 2009 a Preşedintelui U.N.B.R. privind examenul pentru primirea în profesie",
+   "url": "https://unbr.ro/decizia-nr-3213-iulie-2009-a-presedintelui-u-n-b-r-privind-examenul-pentru-primirea-in-profesie/",
+   "versions": [
+    {
+     "from": "2009-07-13",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-nr-3213-iulie-2009-a-presedintelui-u-n-b-r-privind-examenul-pentru-primirea-in-profesie/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2009-521",
+   "path": "profesii/unbr/hotarare-consiliu/2009/521",
+   "short": "Hotărârea nr. 521/01 iulie 2009 a Consiliului U.N.B.R. privind examenul pentru primirea în profesie",
+   "title": "Hotărârea nr. 521/01 iulie 2009 a Consiliului U.N.B.R. privind examenul pentru primirea în profesie",
+   "url": "https://unbr.ro/hotararea-nr-52101-iulie-2009-a-consiliului-u-n-b-r-privind-examenul-pentru-primirea-in-profesie/",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-nr-52101-iulie-2009-a-consiliului-u-n-b-r-privind-examenul-pentru-primirea-in-profesie/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2009-614",
+   "path": "profesii/unbr/hotarare-consiliu/2009/614",
+   "short": "Hotărârea Consiliului U.N.B.R. nr. 614 din 10 octombrie 2009",
+   "title": "Hotărârea Consiliului U.N.B.R. nr. 614 din 10 octombrie 2009",
+   "url": "https://unbr.ro/hotararea-consiliului-u-n-b-r-nr-614-din-10-octombrie-2009/",
+   "versions": [
+    {
+     "from": "2009-10-10",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-consiliului-u-n-b-r-nr-614-din-10-octombrie-2009/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2009-620",
+   "path": "profesii/unbr/hotarare-consiliu/2009/620",
+   "short": "Hotãrîrea Consiliului U.N.B.R. nr. 620 din 10 octombrie 2009",
+   "title": "Hotãrîrea Consiliului U.N.B.R. nr. 620 din 10 octombrie 2009",
+   "url": "https://unbr.ro/hotarirea-consiliului-u-n-b-r-nr-620-din-10-octombrie-2009/",
+   "versions": [
+    {
+     "from": "2009-10-10",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarirea-consiliului-u-n-b-r-nr-620-din-10-octombrie-2009/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2009-715",
+   "path": "profesii/unbr/hotarare-consiliu/2009/715",
+   "short": "Hotărârea nr. 715 a Consiliului UNBR",
+   "title": "Hotărârea nr. 715 a Consiliului UNBR",
+   "url": "https://unbr.ro/hotararea-nr-715-a-consiliului-unbr/",
+   "versions": [
+    {
+     "from": "2009-12-12",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-nr-715-a-consiliului-unbr/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2009-716",
+   "path": "profesii/unbr/hotarare-consiliu/2009/716",
+   "short": "Hotărârea nr. 716 din 12 decembrie 2009 a Consiliului U.N.B.R",
+   "title": "Hotărârea nr. 716 din 12 decembrie 2009 a Consiliului U.N.B.R",
+   "url": "https://unbr.ro/hotararea-nr-716-din-12-decembrie-2009-a-consiliului-u-n-b-r/",
+   "versions": [
+    {
+     "from": "2009-12-12",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-nr-716-din-12-decembrie-2009-a-consiliului-u-n-b-r/",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

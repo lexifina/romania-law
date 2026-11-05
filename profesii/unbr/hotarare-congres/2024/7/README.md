@@ -1,0 +1,14 @@
+# Hotărârea Congresului avocaților nr. 7/2024
+
+Hotărârea Congresului avocaților nr. 7/2024 · 1 versions, from 2024-06-20 (latest in force: 2024-06-20) · <https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-din-14-15-iunie-2024/>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `profesii-unbr-hotarare-congres-2024-7` (tags `profesii-unbr-hotarare-congres-2024-7/<day>`; `python tools/on.py <day> profesii-unbr-hotarare-congres-2024-7`).
+
+## Decisions made by hand
+
+- Hotărârea Congresului avocaților nr. 7/2024: added by Lexifina's legal professions source lane from https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-din-14-15-iunie-2024/; 0 version(s) with text. Copyright: Legea nr. 8/1996, art. 9 lit. b: an act of an organ of the lawyers' profession (UNBR), adopted under Legea nr. 51/1995 (art. 63-66) and the Statute of the profession; an official text of an administrative nature, published by UNBR on unbr.ro.
+- Hotărârea Congresului avocaților nr. 7/2024: One of the acts published together on the post "HOTĂRÂRI și REZOLUȚII adoptate de Congresul Avocaţilor din 14-15 iunie 2024"; the title is the act's number only (its subject is in the text).

@@ -1,0 +1,936 @@
+{
+ "country": "RO",
+ "shard": "profesii/2025",
+ "acts": [
+  {
+   "slug": "profesii-inppa-act-2025-p26143",
+   "path": "profesii/inppa/act/2025/p26143",
+   "short": "INPPA act /2025",
+   "title": "Decizia nr. din 32/25.09.2025 privind stabilirea intervalului și condițiilor de susținere a testării scrise prevăzute de art. 49 alin. (7) și (8) al Regulamentului de organizare și funcționare a I.N.P.P.A",
+   "url": "https://inppa.ro/decizia-nr-din-32-25-09-2025-privind-stabilirea-intervalului-si-conditiilor-de-sustinere-a-testarii-scrise-prevazute-de-art-49-alin-7-si-8-al-regulamentului-de-organizare-si-functionare-a-i-n/",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://inppa.ro/decizia-nr-din-32-25-09-2025-privind-stabilirea-intervalului-si-conditiilor-de-sustinere-a-testarii-scrise-prevazute-de-art-49-alin-7-si-8-al-regulamentului-de-organizare-si-functionare-a-i-n/",
+     "sha256": "04474eefc26f480be915c9e20e278c148394da9227b993255a97097546d81906"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-inppa-decizie-director-2025-42",
+   "path": "profesii/inppa/decizie-director/2025/42",
+   "short": "INPPA decizie-director 42/2025",
+   "title": "Decizia Directorului INPPA nr. 42-29.12.2025 privind desfășurarea activităților de pregătire profesională inițială la anul I și II - ciclul 2026",
+   "url": "https://inppa.ro/decizia-directorului-inppa-nr-42-29-12-2025-privind-desfasurarea-activitatilor-de-pregatire-profesionala-initiala-la-anul-i-si-ii-ciclul-2026/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://inppa.ro/decizia-directorului-inppa-nr-42-29-12-2025-privind-desfasurarea-activitatilor-de-pregatire-profesionala-initiala-la-anul-i-si-ii-ciclul-2026/",
+     "sha256": "b66a442858726f917f32ad59a7c5fd911ebcba645fad9476c798f55a29cb64c0"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-inppa-hotarare-consiliu-2025-37",
+   "path": "profesii/inppa/hotarare-consiliu/2025/37",
+   "short": "INPPA hotarare-consiliu 37/2025",
+   "title": "Decizia nr. 37 din 03.11.2025 privind organizarea și desfășurarea examenului de absolvire a I.N.P.P.A. - sesiunea 9 noiembrie 2025",
+   "url": "https://inppa.ro/decizia-nr-37-din-03-11-2025-privind-organizarea-si-desfasurarea-examenului-de-absolvire-a-i-n-p-p-a-sesiunea-9-noiembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://inppa.ro/decizia-nr-37-din-03-11-2025-privind-organizarea-si-desfasurarea-examenului-de-absolvire-a-i-n-p-p-a-sesiunea-9-noiembrie-2025/",
+     "sha256": "b8e905dfcc1b71e67796ed5755deeda652671e7ef3b339a8a499b234e9e668a4"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-mediere-hotarare-consiliu-2025-11",
+   "path": "profesii/mediere/hotarare-consiliu/2025/11",
+   "short": "Hotărârea Consiliului de mediere nr. 11/10.01.2025 privind noua formă a Tabloului mediatorilor",
+   "title": "Hotărârea Consiliului de mediere nr. 11/10.01.2025 privind noua formă a Tabloului mediatorilor",
+   "url": "https://www.consiliuldemediere.ro/informatii-publice",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://www.consiliuldemediere.ro/informatii-publice",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-mediere-hotarare-consiliu-2025-20",
+   "path": "profesii/mediere/hotarare-consiliu/2025/20",
+   "short": "MEDIERE hotarare 20/2025",
+   "title": "Hotărârea Consiliului de mediere nr. 20/20.01.2025 privind taxa anuală profesională a mediatorilor autorizați, formatorilor, experților și examinatorilor",
+   "url": "https://www.consiliuldemediere.ro/informatii-publice",
+   "versions": [
+    {
+     "from": "2025-01-20",
+     "units": 1,
+     "source_url": "https://www.consiliuldemediere.ro/informatii-publice",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-2025-37",
+   "path": "profesii/unbr/decizie/2025/37",
+   "short": "UNBR decizie 37/2025",
+   "title": "Decizia nr. 37 din 03.11.2025 privind organizarea și desfășurarea examenului de absolvire a I.N.P.P.A. - sesiunea 9 noiembrie 2025",
+   "url": "https://unbr.ro/decizia-nr-37-din-03-11-2025-privind-organizarea-si-desfasurarea-examenului-de-absolvire-a-i-n-p-p-a-sesiunea-9-noiembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-nr-37-din-03-11-2025-privind-organizarea-si-desfasurarea-examenului-de-absolvire-a-i-n-p-p-a-sesiunea-9-noiembrie-2025/",
+     "sha256": "b8e905dfcc1b71e67796ed5755deeda652671e7ef3b339a8a499b234e9e668a4"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2025-179",
+   "path": "profesii/unbr/decizie-cp/2025/179",
+   "short": "UNBR decizie-cp 179/2025",
+   "title": "Hotărârea Consiliului UNBR nr. 179 din 21-22 martie 2025 pentru ratificarea Deciziei Comisiei Permanente nr. 257/23 ianuarie 2025 privind organizarea examenului de primire în profesie - sesiunea aprilie 2025",
+   "url": "https://unbr.ro/hotararea-consiliului-unbr-nr-179-din-21-22-martie-2025-pentru-ratificarea-deciziei-comisiei-permanente-nr-257-23-ianuarie-2025-privind-organizarea-examenului-de-primire-in-profesie-sesiunea-april/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-consiliului-unbr-nr-179-din-21-22-martie-2025-pentru-ratificarea-deciziei-comisiei-permanente-nr-257-23-ianuarie-2025-privind-organizarea-examenului-de-primire-in-profesie-sesiunea-april/",
+     "sha256": "501af71ba56191463d640425311e45a671b8647e58e4f6c9f5b4c788477647ef"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2025-210",
+   "path": "profesii/unbr/decizie-cp/2025/210",
+   "short": "UNBR decizie-cp 210/2025",
+   "title": "Hotărârea Consiliului UNBR nr. 210 din 12 iunie 2025 prin care se aprobă unele modificări/completări ale Procedurii de control a organismului de autoreglementare UNBR, aprobat prin Hotărârea Consiliului UNBR nr. 180-21/22 martie 2025 și a Proiectului Regulamentului procedurilor de control",
+   "url": "https://unbr.ro/hotararea-consiliului-unbr-nr-210-din-12-iunie-2025-prin-care-se-aproba-unele-modificari-completari-ale-procedurii-de-control-a-organismului-de-autoreglementare-unbr-aprobat-prin-hotararea-consiliul/",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-consiliului-unbr-nr-210-din-12-iunie-2025-prin-care-se-aproba-unele-modificari-completari-ale-procedurii-de-control-a-organismului-de-autoreglementare-unbr-aprobat-prin-hotararea-consiliul/",
+     "sha256": "2364f95fb704337eca23968dd6bfa55ae0e6d0d7b9c783081bd82d29671292c8"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2025-256",
+   "path": "profesii/unbr/decizie-cp/2025/256",
+   "short": "UNBR decizie-cp 256/2025",
+   "title": "Decizia Comisiei Permanente a UNBR nr. 256 din 16 ianuarie 2025 prin care se amână, până la 31.01.2025, intrarea în vigoare a normelor interne ale UNBR date în aplicarea Legii nr. 129/2019 pentru prevenirea și combaterea spălării banilor și finanțării terorismului, adoptate prin Hotărârea Consiliului UNBR nr. 98/30.08.2024",
+   "url": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-256-din-16-ianuarie-2025-prin-care-se-amana-pana-la-31-01-2025-intrarea-in-vigoare-a-normelor-interne-ale-unbr-date-in-aplicarea-legii-nr-129-2019-pentru-prev/",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-256-din-16-ianuarie-2025-prin-care-se-amana-pana-la-31-01-2025-intrarea-in-vigoare-a-normelor-interne-ale-unbr-date-in-aplicarea-legii-nr-129-2019-pentru-prev/",
+     "sha256": "f351c0b8900ad1310b111c6bfcf4dc2a20ca3714558f363a01d6757c5069474d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2025-257",
+   "path": "profesii/unbr/decizie-cp/2025/257",
+   "short": "UNBR decizie-cp 257/2025",
+   "title": "Decizia Comisiei Permanente a UNBR nr. 257 din 23 ianuarie 2025 privind organizarea examenului de primire în profesie - sesiunea aprilie 2025",
+   "url": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-257-din-23-ianuarie-2025-privind-organizarea-examenului-de-primire-in-profesie-sesiunea-aprilie-2025/",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-257-din-23-ianuarie-2025-privind-organizarea-examenului-de-primire-in-profesie-sesiunea-aprilie-2025/",
+     "sha256": "2f81869668f6ee5772ae7ac1b19ef59050f2809761f243d8c86e9b4814ab99fc"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2025-258",
+   "path": "profesii/unbr/decizie-cp/2025/258",
+   "short": "UNBR decizie-cp 258/2025",
+   "title": "Decizia Comisiei Permanente a UNBR nr. 258 din 23 ianuarie 2025 privind organizarea examenului de verificare a cunoștințelor de drept românesc și de limbă română pentru avocații străini în vederea dobândirii dreptului de a acorda asistență juridică în drept romanesc, sesiunea mai 2025",
+   "url": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-258-din-23-ianuarie-2025-privind-organizarea-examenului-de-verificare-a-cunostintelor-de-drept-romanesc-si-de-limba-romana-pentru-avocatii-straini-in-vederea-dob/",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-258-din-23-ianuarie-2025-privind-organizarea-examenului-de-verificare-a-cunostintelor-de-drept-romanesc-si-de-limba-romana-pentru-avocatii-straini-in-vederea-dob/",
+     "sha256": "be7b2ad1ed8b86b4aa965b028b341490b566e1e8df9c96db0857ce2ac65b4b78"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2025-259",
+   "path": "profesii/unbr/decizie-cp/2025/259",
+   "short": "UNBR decizie-cp 259/2025",
+   "title": "Decizia Comisiei Permanente a UNBR nr. 259 din 23 ianuarie 2025 privind modificarea numărului de ore alocate disciplinelor de drept european în planul de formare inițială al I.N.P.P.A",
+   "url": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-259-din-23-ianuarie-2025-privind-modificarea-numarului-de-ore-alocate-disciplinelor-de-drept-european-in-planul-de-formare-initiala-al-i-n-p-p-a/",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-259-din-23-ianuarie-2025-privind-modificarea-numarului-de-ore-alocate-disciplinelor-de-drept-european-in-planul-de-formare-initiala-al-i-n-p-p-a/",
+     "sha256": "8fc3d6c8ebdb9810367dc98c39e0f3049c7741221af0bc9d38e3edbfc56f618a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2025-260",
+   "path": "profesii/unbr/decizie-cp/2025/260",
+   "short": "UNBR decizie-cp 260/2025",
+   "title": "Decizia Comisiei Permanente a UNBR nr. 260 din 23 ianuarie 2025 prin care se aprobă normele interne ale UNBR prevăzute în anexele nr. 1 și 2 referitoare la Reglementarea sectorială (anexa 1) și Procedura de control a organismului de autoreglementare UNBR (anexa 2), în aplicarea Legii nr. 129/2019 și intră în vigoare la data de 03 martie 2025",
+   "url": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-260-din-23-ianuarie-2025-prin-care-se-aproba-normele-interne-ale-unbr-prevazute-in-anexele-nr-1-si-2-referitoare-la-reglementarea-sectoriala-anexa-1-si-proced/",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-260-din-23-ianuarie-2025-prin-care-se-aproba-normele-interne-ale-unbr-prevazute-in-anexele-nr-1-si-2-referitoare-la-reglementarea-sectoriala-anexa-1-si-proced/",
+     "sha256": "74490787ed51c01c71cc5426114893752f0ef1e9345b7d6a5af06cc3cf6e6813"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2025-261",
+   "path": "profesii/unbr/decizie-cp/2025/261",
+   "short": "UNBR decizie-cp 261/2025",
+   "title": "Decizia Comisiei Permanente a UNBR nr. 261 din 23 ianuarie 2025 prin care se aprobă Regulamentul de organizare și funcționare a Registrului avocaților care desfășoară activități fiduciare și a Registrului avocaților care desfășoară servicii de stabilire temporară a sediului pentru societăți",
+   "url": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-261-din-23-ianuarie-2025-prin-care-se-aproba-regulamentul-de-organizare-si-functionare-a-registrului-avocatilor-care-desfasoara-activitati-fiduciare-si-a-registr/",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-261-din-23-ianuarie-2025-prin-care-se-aproba-regulamentul-de-organizare-si-functionare-a-registrului-avocatilor-care-desfasoara-activitati-fiduciare-si-a-registr/",
+     "sha256": "ce62a9ce7976606e991e71d8f5144bfefebaa7f755d2eaff11189bd94f002289"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2025-262",
+   "path": "profesii/unbr/decizie-cp/2025/262",
+   "short": "UNBR decizie-cp 262/2025",
+   "title": "Decizia Comisiei Permanente a UNBR nr. 262 din 23 ianuarie 2025 pentru aprobarea modelului orientativ al formularisticii impuse de aplicarea Deciziei Comisiei Permanente nr. 260/23 ianuarie 2025 prin care s-au aprobat normele interne ale UNBR, date în aplicarea Legii nr. 129/2019 pentru prevenirea și combaterea spălării banilor și finanțării terorismului, prevăzute în anexele nr. 1-6",
+   "url": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-262-din-23-ianuarie-2025-pentru-aprobarea-modelului-orientativ-al-formularisticii-impuse-de-aplicarea-deciziei-comisiei-permanente-nr-260-23-ianuarie-2025-prin/",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-262-din-23-ianuarie-2025-pentru-aprobarea-modelului-orientativ-al-formularisticii-impuse-de-aplicarea-deciziei-comisiei-permanente-nr-260-23-ianuarie-2025-prin/",
+     "sha256": "0e81c76f36c78ff7cc8c0825f708f700d52b7c564886f3860a1db1cd29e25a90"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2025-264",
+   "path": "profesii/unbr/decizie-cp/2025/264",
+   "short": "UNBR decizie-cp 264/2025",
+   "title": "Hotărârea Consiliului UNBR nr. 264 din 12-13 decembrie 2025 prin care se ratifică Decizia CP nr. 386/01.11.2025, se aprobă Procedura de control a organismului de autoreglementare U.N.B.R. în aplicarea Legii nr. 129/2019 pentru prevenirea și combaterea spălării banilor și finanțării terorismului, cuprinsă în Anexa nr. 1 la hotărâre și Regulamentul Procedurii de control a organismului de autoreglementare U.N.B.R. în aplicarea Legii nr. 129/2019, astfel cum este cuprins în Anexa nr. 2 la hotărâre",
+   "url": "https://unbr.ro/hotararea-consiliului-unbr-nr-264-din-12-13-decembrie-2025-prin-care-se-ratifica-decizia-cp-nr-386-01-11-2025-se-aproba-procedura-de-control-a-organismului-de-autoreglementare-u-n-b-r-in-aplicarea/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-consiliului-unbr-nr-264-din-12-13-decembrie-2025-prin-care-se-ratifica-decizia-cp-nr-386-01-11-2025-se-aproba-procedura-de-control-a-organismului-de-autoreglementare-u-n-b-r-in-aplicarea/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2025-276",
+   "path": "profesii/unbr/decizie-cp/2025/276",
+   "short": "UNBR decizie-cp 276/2025",
+   "title": "Decizia Comisiei Permanente a UNBR nr. 276 din 07 februarie 2025 privind adoptarea Metodologiei de evaluare a activității directorilor centrelor teritoriale ale I.N.P.P.A., cuprinsă în Anexă",
+   "url": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-276-din-07-februarie-2025-privind-adoptarea-metodologiei-de-evaluare-a-activitatii-directorilor-centrelor-teritoriale-ale-i-n-p-p-a-cuprinsa-in-anexa/",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-276-din-07-februarie-2025-privind-adoptarea-metodologiei-de-evaluare-a-activitatii-directorilor-centrelor-teritoriale-ale-i-n-p-p-a-cuprinsa-in-anexa/",
+     "sha256": "b0a0c2c9757794b31484beffc340a196131d221719a15af3a68a054177c82ce0"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2025-277",
+   "path": "profesii/unbr/decizie-cp/2025/277",
+   "short": "UNBR decizie-cp 277/2025",
+   "title": "Decizia Comisiei Permanente a UNBR nr. 277 din 28 februarie 2025 prin care se amână, până la 24 martie 2025, intrarea în vigoare a Deciziilor Comisiei Permanente nr. 260/23 ianuarie 2025, 261/23 ianuarie 2025 și 262/23 ianuarie 2025",
+   "url": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-277-din-28-februarie-2025-prin-care-se-amana-pana-la-24-martie-2025-intrarea-in-vigoare-a-deciziilor-comisiei-permanente-nr-260-23-ianuarie-2025-261-23-ianua/",
+   "versions": [
+    {
+     "from": "2025-03-01",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-277-din-28-februarie-2025-prin-care-se-amana-pana-la-24-martie-2025-intrarea-in-vigoare-a-deciziilor-comisiei-permanente-nr-260-23-ianuarie-2025-261-23-ianua/",
+     "sha256": "2e7a272516e8b0a79c6911ab12afa3bf9715b45493170b3e42bc891bba9c4914"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2025-343",
+   "path": "profesii/unbr/decizie-cp/2025/343",
+   "short": "UNBR decizie-cp 343/2025",
+   "title": "Decizia Comisiei Permanente a UNBR nr. 343 din 11 iulie 2025 prin care, până la data de 15 septembrie 2025, se amână intrarea în vigoare a Procedurii de control a organismului de autoreglementare UNBR, aprobat prin Hotărârea Consiliului UNBR nr. 180-21/22 martie 2025 și a Regulamentului procedurilor de control",
+   "url": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-343-din-11-iulie-2025-prin-care-pana-la-data-de-15-septembrie-2025-se-amana-intrarea-in-vigoare-a-procedurii-de-control-a-organismului-de-autoreglementare-unbr/",
+   "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-343-din-11-iulie-2025-prin-care-pana-la-data-de-15-septembrie-2025-se-amana-intrarea-in-vigoare-a-procedurii-de-control-a-organismului-de-autoreglementare-unbr/",
+     "sha256": "a3b70e3e8a163e2a8800238578502ce3c30c0ccc294081c8123c82b1278035f8"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2025-348",
+   "path": "profesii/unbr/decizie-cp/2025/348",
+   "short": "UNBR decizie-cp 348/2025",
+   "title": "Decizia Comisiei Permanente a UNBR nr. 348 din 04 septembrie 2025 privind Examenul de absolvire a cursurilor de pregătire profesională inițială organizate în anul 2025 în cadrul sistemului I.N.P.P.A",
+   "url": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-348-din-04-septembrie-2025-privind-examenul-de-absolvire-a-cursurilor-de-pregatire-profesionala-initiala-organizate-in-anul-2025-in-cadrul-sistemului-i-n-p-p-a/",
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-348-din-04-septembrie-2025-privind-examenul-de-absolvire-a-cursurilor-de-pregatire-profesionala-initiala-organizate-in-anul-2025-in-cadrul-sistemului-i-n-p-p-a/",
+     "sha256": "9287913d5ae073ee8e451e97aea3c9e5dd691cfdf95a00b5326bff380a97c308"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2025-386",
+   "path": "profesii/unbr/decizie-cp/2025/386",
+   "short": "UNBR decizie-cp 386/2025",
+   "title": "Decizia Comisiei Permanente a UNBR nr. 386 din 01 noiembrie 2025 prin care, se prelungește până la data de 14 noiembrie 2025 termenul stabilit prin Hotărârea Consiliului UNBR nr. 236/05-06 septembrie 2025",
+   "url": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-386-din-01-noiembrie-2025-prin-care-se-prelungeste-pana-la-data-de-14-noiembrie-2025-termenul-stabilit-prin-hotararea-consiliului-unbr-nr-236-05-06-septembrie/",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-386-din-01-noiembrie-2025-prin-care-se-prelungeste-pana-la-data-de-14-noiembrie-2025-termenul-stabilit-prin-hotararea-consiliului-unbr-nr-236-05-06-septembrie/",
+     "sha256": "5ae9f770012f5dbc3c4cb88a09f8bec77c76a9b9652f0ca3e418ad687c8d6c9f"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2025-438",
+   "path": "profesii/unbr/decizie-cp/2025/438",
+   "short": "UNBR decizie-cp 438/2025",
+   "title": "Decizia Comisiei Permanente a UNBR nr. 438 din 29 decembrie 2025 privind începerea anului I de pregătire profesională inițială - ciclul 2026",
+   "url": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-438-din-29-decembrie-2025-privind-inceperea-anului-i-de-pregatire-profesionala-initiala-ciclul-2026/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-438-din-29-decembrie-2025-privind-inceperea-anului-i-de-pregatire-profesionala-initiala-ciclul-2026/",
+     "sha256": "cd332544774b7fa4e5cbaacd81c0d7ce98cdc74fdcccce3bedc91e01651ed642"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2025-439",
+   "path": "profesii/unbr/decizie-cp/2025/439",
+   "short": "UNBR decizie-cp 439/2025",
+   "title": "Decizia Comisiei Permanente a UNBR nr. 439 din 29 decembrie 2025 privind începerea anului II de pregătire profesională inițială - ciclul 2026",
+   "url": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-439-din-29-decembrie-2025-privind-inceperea-anului-ii-de-pregatire-profesionala-initiala-ciclul-2026/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-439-din-29-decembrie-2025-privind-inceperea-anului-ii-de-pregatire-profesionala-initiala-ciclul-2026/",
+     "sha256": "be29f799997ef743e10af43e99878fbd23a15d8cde31891e2aeb0a3e46bb1b67"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2025-440",
+   "path": "profesii/unbr/decizie-cp/2025/440",
+   "short": "UNBR decizie-cp 440/2025",
+   "title": "Decizia Comisiei Permanente a UNBR nr. 440 din 29 decembrie 2025 privind desfășurarea activității de pregătire profesională inițială în ciclul 2026",
+   "url": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-440-din-29-decembrie-2025-privind-desfasurarea-activitatii-de-pregatire-profesionala-initiala-in-ciclul-2026/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-440-din-29-decembrie-2025-privind-desfasurarea-activitatii-de-pregatire-profesionala-initiala-in-ciclul-2026/",
+     "sha256": "eac7b7476d2f8b3bf8ccc09ca70e72f8dce5164882d9ff116cf0c245fd779c30"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-congres-2025-1",
+   "path": "profesii/unbr/hotarare-congres/2025/1",
+   "short": "Hotărârea Congresului avocaților nr. 1/2025",
+   "title": "Hotărârea Congresului avocaților nr. 1/2025",
+   "url": "https://unbr.ro/hotarari-rezolutii-si-motiuni-adoptate-de-congresul-avocatilor-din-13-14-iunie-2025/",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-rezolutii-si-motiuni-adoptate-de-congresul-avocatilor-din-13-14-iunie-2025/",
+     "sha256": "26c21c9049b53267be8acd8cd250cd7791f5126bbd6e05b59586dea61885fc55"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-congres-2025-2",
+   "path": "profesii/unbr/hotarare-congres/2025/2",
+   "short": "Hotărârea Congresului avocaților nr. 2/2025",
+   "title": "Hotărârea Congresului avocaților nr. 2/2025",
+   "url": "https://unbr.ro/hotarari-rezolutii-si-motiuni-adoptate-de-congresul-avocatilor-din-13-14-iunie-2025/",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-rezolutii-si-motiuni-adoptate-de-congresul-avocatilor-din-13-14-iunie-2025/",
+     "sha256": "54192557a3fa7a1f4e6a66647bebe43294f5d5e65b0707ca59c6ac323cf91012"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-congres-2025-3",
+   "path": "profesii/unbr/hotarare-congres/2025/3",
+   "short": "Hotărârea Congresului avocaților nr. 3/2025",
+   "title": "Hotărârea Congresului avocaților nr. 3/2025",
+   "url": "https://unbr.ro/hotarari-rezolutii-si-motiuni-adoptate-de-congresul-avocatilor-din-13-14-iunie-2025/",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-rezolutii-si-motiuni-adoptate-de-congresul-avocatilor-din-13-14-iunie-2025/",
+     "sha256": "c0ed3fd3d215fe41ca4bf99924340b287970b73013ffa0a301770f4142387d4c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-congres-2025-4",
+   "path": "profesii/unbr/hotarare-congres/2025/4",
+   "short": "Hotărârea Congresului avocaților nr. 4/2025",
+   "title": "Hotărârea Congresului avocaților nr. 4/2025",
+   "url": "https://unbr.ro/hotarari-rezolutii-si-motiuni-adoptate-de-congresul-avocatilor-din-13-14-iunie-2025/",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-rezolutii-si-motiuni-adoptate-de-congresul-avocatilor-din-13-14-iunie-2025/",
+     "sha256": "9bc1f2f62ce61d509137ae7397fef7cbbca7cf965829a16f606b49b0dd9d7eb5"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-congres-2025-5",
+   "path": "profesii/unbr/hotarare-congres/2025/5",
+   "short": "Hotărârea Congresului avocaților nr. 5/2025",
+   "title": "Hotărârea Congresului avocaților nr. 5/2025",
+   "url": "https://unbr.ro/hotarari-rezolutii-si-motiuni-adoptate-de-congresul-avocatilor-din-13-14-iunie-2025/",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-rezolutii-si-motiuni-adoptate-de-congresul-avocatilor-din-13-14-iunie-2025/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2025-180-2",
+   "path": "profesii/unbr/hotarare-consiliu/2025/180-2",
+   "short": "Hotărârea Consiliului UNBR nr. 180/2025",
+   "title": "Hotărârea Consiliului UNBR nr. 180/2025",
+   "url": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-472-din-17-18-aprilie-2026-privind-modificarea-si-completarea-hotararii-consiliului-unbr-nr-180-21-22-martie-2025-reglementare-sectoriala-in-aplicarea-legii-nr/",
+   "versions": [
+    {
+     "from": "2026-05-01",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-472-din-17-18-aprilie-2026-privind-modificarea-si-completarea-hotararii-consiliului-unbr-nr-180-21-22-martie-2025-reglementare-sectoriala-in-aplicarea-legii-nr/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2025-180",
+   "path": "profesii/unbr/hotarare-consiliu/2025/180",
+   "short": "UNBR hotarare-consiliu 180/2025",
+   "title": "Hotărârea Consiliului UNBR nr. 180 din 21-22 martie 2025 privind intrarea în vigoare a normelor sectoriale ale UNBR date în aplicarea Legii nr. 129/2019 pentru prevenirea și combaterea spălării banilor și finanțării terorismului",
+   "url": "https://unbr.ro/hotararea-consiliului-unbr-nr-180-din-21-22-martie-2025-privind-intrarea-in-vigoare-a-normelor-sectoriale-ale-unbr-date-in-aplicarea-legii-nr-129-2019-pentru-prevenirea-si-combaterea-spalarii-banilo/",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-consiliului-unbr-nr-180-din-21-22-martie-2025-privind-intrarea-in-vigoare-a-normelor-sectoriale-ale-unbr-date-in-aplicarea-legii-nr-129-2019-pentru-prevenirea-si-combaterea-spalarii-banilo/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2025-182",
+   "path": "profesii/unbr/hotarare-consiliu/2025/182",
+   "short": "UNBR hotarare-consiliu 182/2025",
+   "title": "Hotărârea Consiliului UNBR nr. 182 din 21-22 martie 2025 prin care se adoptă PROCEDURA pentru barouri și pentru avocații înscriși în Registrul de asistență judiciară (RAJ), cuprinsă în anexă",
+   "url": "https://unbr.ro/hotararea-consiliului-unbr-nr-182-din-21-22-martie-2025-prin-care-se-adopta-procedura-pentru-barouri-si-pentru-avocatii-inscrisi-in-registrul-de-asistenta-judiciara-raj-cuprinsa-in-anexa/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-consiliului-unbr-nr-182-din-21-22-martie-2025-prin-care-se-adopta-procedura-pentru-barouri-si-pentru-avocatii-inscrisi-in-registrul-de-asistenta-judiciara-raj-cuprinsa-in-anexa/",
+     "sha256": "5f8436600431b7a7c93aa7c53af99911a21d5c0d47ca4328dfe8e9064a067d2b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2025-183",
+   "path": "profesii/unbr/hotarare-consiliu/2025/183",
+   "short": "UNBR hotarare-consiliu 183/2025",
+   "title": "Hotărârea Consiliului UNBR nr. 183 din 21-22 martie 2025 privind modificarea și completarea unor dispoziții din Statutul Casei de Asigurări a Avocaților și Regulamentului privind pensiile în sistemul CAA",
+   "url": "https://unbr.ro/hotararea-consiliului-unbr-nr-183-din-21-22-martie-2025-privind-modificarea-si-completarea-unor-dispozitii-din-statutul-casei-de-asigurari-a-avocatilor-si-regulamentului-privind-pensiile-in-sistemul/",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-consiliului-unbr-nr-183-din-21-22-martie-2025-privind-modificarea-si-completarea-unor-dispozitii-din-statutul-casei-de-asigurari-a-avocatilor-si-regulamentului-privind-pensiile-in-sistemul/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2025-184",
+   "path": "profesii/unbr/hotarare-consiliu/2025/184",
+   "short": "UNBR hotarare-consiliu 184/2025",
+   "title": "Hotărârea Consiliului UNBR nr. 184 din 21-22 martie 2025 privind completarea Regulamentului creanțelor contributive, adoptat prin Hotărârea Consiliului UNBR nr. 109/18.02.2017",
+   "url": "https://unbr.ro/hotararea-consiliului-unbr-nr-184-din-21-22-martie-2025-privind-completarea-regulamentului-creantelor-contributive-adoptat-prin-hotararea-consiliului-unbr-nr-109-18-02-2017/",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-consiliului-unbr-nr-184-din-21-22-martie-2025-privind-completarea-regulamentului-creantelor-contributive-adoptat-prin-hotararea-consiliului-unbr-nr-109-18-02-2017/",
+     "sha256": "4c0e798ed2c0b7a7f55693fd3a7ead40ce44f2866526fcb6135689eeb32860f7"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2025-207",
+   "path": "profesii/unbr/hotarare-consiliu/2025/207",
+   "short": "UNBR hotarare-consiliu 207/2025",
+   "title": "Hotărârea Consiliului UNBR nr. 207 din 12 iunie 2025 pentru modificarea Regulamentului - cadru privind organizarea examenului de primire în profesia de avocat",
+   "url": "https://unbr.ro/hotararea-consiliului-unbr-nr-207-din-12-iunie-2025-pentru-modificarea-regulamentului-cadru-privind-organizarea-examenului-de-primire-in-profesia-de-avocat/",
+   "versions": [
+    {
+     "from": "2025-06-19",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-consiliului-unbr-nr-207-din-12-iunie-2025-pentru-modificarea-regulamentului-cadru-privind-organizarea-examenului-de-primire-in-profesia-de-avocat/",
+     "sha256": "6bca44edb1ec0d0996eebdfb4b1e2f5b906293f4eac920455cc44d6e3cac9490"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2025-208",
+   "path": "profesii/unbr/hotarare-consiliu/2025/208",
+   "short": "UNBR hotarare-consiliu 208/2025",
+   "title": "Hotărârea Consiliului UNBR nr. 208 din 12 iunie 2025 privind organizarea examenului de primire în profesie - sesiunea septembrie 2025",
+   "url": "https://unbr.ro/hotararea-consiliului-unbr-nr-208-din-12-iunie-2025-privind-organizarea-examenului-de-primire-in-profesie-sesiunea-septembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-06-19",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-consiliului-unbr-nr-208-din-12-iunie-2025-privind-organizarea-examenului-de-primire-in-profesie-sesiunea-septembrie-2025/",
+     "sha256": "c687a312b5b884b0215fb3778ba3b9ff9198a2ed21d16fe90ea2ad2a658184ce"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2025-211",
+   "path": "profesii/unbr/hotarare-consiliu/2025/211",
+   "short": "UNBR hotarare-consiliu 211/2025",
+   "title": "Hotărârea Consiliului UNBR nr. 211 din 12 iunie 2025 prin care se aprobă extinderea funcționalității platformei UNBR de intermediere avocat client",
+   "url": "https://unbr.ro/hotararea-consiliului-unbr-nr-211-din-12-iunie-2025-prin-care-se-aproba-extinderea-functionalitatii-platformei-unbr-de-intermediere-avocat-client/",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-consiliului-unbr-nr-211-din-12-iunie-2025-prin-care-se-aproba-extinderea-functionalitatii-platformei-unbr-de-intermediere-avocat-client/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2025-212",
+   "path": "profesii/unbr/hotarare-consiliu/2025/212",
+   "short": "UNBR hotarare-consiliu 212/2025",
+   "title": "Hotărârea Consiliului UNBR nr. 212 din 12 iunie 2025 pentru completarea Hotărârii Consiliului UNBR nr. 05/01-02 septembrie 2023, cu modificările și completările ulterioare, privind Grupurile de lucru ale Consiliului UNBR",
+   "url": "https://unbr.ro/hotararea-consiliului-unbr-nr-212-din-12-iunie-2025-pentru-completarea-hotararii-consiliului-unbr-nr-05-01-02-septembrie-2023-cu-modificarile-si-completarile-ulterioare-privind-grupurile-de-lucru/",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-consiliului-unbr-nr-212-din-12-iunie-2025-pentru-completarea-hotararii-consiliului-unbr-nr-05-01-02-septembrie-2023-cu-modificarile-si-completarile-ulterioare-privind-grupurile-de-lucru/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2025-213",
+   "path": "profesii/unbr/hotarare-consiliu/2025/213",
+   "short": "UNBR hotarare-consiliu 213/2025",
+   "title": "Hotărârea Consiliului UNBR nr. 213 din 12 iunie 2025 prin care se aprobă derularea în anul 2025 a programului propriu de asistență și asigurări sociale al Filialei Brașov a CAA",
+   "url": "https://unbr.ro/hotararea-consiliului-unbr-nr-213-din-12-iunie-2025-prin-care-se-aproba-derularea-in-anul-2025-a-programului-propriu-de-asistenta-si-asigurari-sociale-al-filialei-brasov-a-caa/",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-consiliului-unbr-nr-213-din-12-iunie-2025-prin-care-se-aproba-derularea-in-anul-2025-a-programului-propriu-de-asistenta-si-asigurari-sociale-al-filialei-brasov-a-caa/",
+     "sha256": "c07416b8ac79a773ee0a51d449160c15c13a78da56c072ced0627c6086da5e89"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2025-214",
+   "path": "profesii/unbr/hotarare-consiliu/2025/214",
+   "short": "UNBR hotarare-consiliu 214/2025",
+   "title": "Hotărârea Consiliului UNBR nr. 214 din 12 iunie 2025 prin care se aprobă derularea în anul 2025 a programului propriu de asistență și asigurări sociale al Filialei Cluj a CAA",
+   "url": "https://unbr.ro/hotararea-consiliului-unbr-nr-214-din-12-iunie-2025-prin-care-se-aproba-derularea-in-anul-2025-a-programului-propriu-de-asistenta-si-asigurari-sociale-al-filialei-cluj-a-caa/",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-consiliului-unbr-nr-214-din-12-iunie-2025-prin-care-se-aproba-derularea-in-anul-2025-a-programului-propriu-de-asistenta-si-asigurari-sociale-al-filialei-cluj-a-caa/",
+     "sha256": "bf0e2f1adbae68a76a605932600514630cdfe5081a88cef92f20ed13985cb260"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2025-215",
+   "path": "profesii/unbr/hotarare-consiliu/2025/215",
+   "short": "UNBR hotarare-consiliu 215/2025",
+   "title": "Hotărârea Consiliului UNBR nr. 215 din 12 iunie 2025 prin care se aprobă derularea în anul 2025 a programului propriu de asistență și asigurări sociale al Filialei Constanța a CAA",
+   "url": "https://unbr.ro/hotararea-consiliului-unbr-nr-215-din-12-iunie-2025-prin-care-se-aproba-derularea-in-anul-2025-a-programului-propriu-de-asistenta-si-asigurari-sociale-al-filialei-constanta-a-caa/",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-consiliului-unbr-nr-215-din-12-iunie-2025-prin-care-se-aproba-derularea-in-anul-2025-a-programului-propriu-de-asistenta-si-asigurari-sociale-al-filialei-constanta-a-caa/",
+     "sha256": "d63f5e4967ce69b96ef6606e5d98e4d959980bdecba14b1e84141b5d0b50f655"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2025-216",
+   "path": "profesii/unbr/hotarare-consiliu/2025/216",
+   "short": "UNBR hotarare-consiliu 216/2025",
+   "title": "Hotărârea Consiliului UNBR nr. 216 din 12 iunie 2025 prin care se aprobă derularea în anul 2025 a programului propriu de asistență și asigurări sociale al Filialei Dolj a CAA",
+   "url": "https://unbr.ro/hotararea-consiliului-unbr-nr-216-din-12-iunie-2025-prin-care-se-aproba-derularea-in-anul-2025-a-programului-propriu-de-asistenta-si-asigurari-sociale-al-filialei-dolj-a-caa/",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-consiliului-unbr-nr-216-din-12-iunie-2025-prin-care-se-aproba-derularea-in-anul-2025-a-programului-propriu-de-asistenta-si-asigurari-sociale-al-filialei-dolj-a-caa/",
+     "sha256": "60b0c50c734c63a64e7193a8b3c0b33cbebb1b10cb23eb1a7734d80be71314c2"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2025-230",
+   "path": "profesii/unbr/hotarare-consiliu/2025/230",
+   "short": "UNBR hotarare-consiliu 230/2025",
+   "title": "Hotărârea Consiliului UNBR nr. 230 din 12 iunie 2025 prin care se actualizează onorariile prevăzute în „Ghidul orientativ al onorariilor minimale” cu Indicele lunar al prețurilor de consum (IPC) aferent perioadei mai 2023 - aprilie 2025",
+   "url": "https://unbr.ro/hotararea-consiliului-unbr-nr-230-din-12-iunie-2025-prin-care-se-actualizeaza-onorariile-prevazute-in-ghidul-orientativ-al-onorariilor-minimale-cu-indicele-lunar-al-preturilor-de-co/",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-consiliului-unbr-nr-230-din-12-iunie-2025-prin-care-se-actualizeaza-onorariile-prevazute-in-ghidul-orientativ-al-onorariilor-minimale-cu-indicele-lunar-al-preturilor-de-co/",
+     "sha256": "b1ce67bca8999b691ce3218b04730228b9e91e63b440a8063b64233f73f6c780"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2025-236",
+   "path": "profesii/unbr/hotarare-consiliu/2025/236",
+   "short": "UNBR hotarare-consiliu 236/2025",
+   "title": "Hotărârea Consiliului UNBR nr. 236 din 05/06 septembrie 2025 prin care, până la data de 01 ianuarie 2026, se amână intrarea în vigoare a Procedurii de control a organismului de autoreglementare UNBR, aprobat prin Hotărârea Consiliului UNBR nr. 180-21/22 martie 2025 și a Regulamentului procedurilor de control",
+   "url": "https://unbr.ro/hotararea-consiliului-unbr-nr-236-din-05-06-septembrie-2025-prin-care-pana-la-data-de-01-ianuarie-2026-se-amana-intrarea-in-vigoare-a-procedurii-de-control-a-organismului-de-autoreglementare-unbr/",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-consiliului-unbr-nr-236-din-05-06-septembrie-2025-prin-care-pana-la-data-de-01-ianuarie-2026-se-amana-intrarea-in-vigoare-a-procedurii-de-control-a-organismului-de-autoreglementare-unbr/",
+     "sha256": "562bd099866896d5a98fd2fee78b5ea9d04229e89a5aaf8b3d486b608c252232"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2025-237-2",
+   "path": "profesii/unbr/hotarare-consiliu/2025/237-2",
+   "short": "Hotărârea Consiliului UNBR nr. 237/2025",
+   "title": "Hotărârea Consiliului UNBR nr. 237/2025",
+   "url": "https://unbr.ro/raportul-consiliului-uniunii-nationale-a-barourilor-din-romania-impreuna-cu-anexele-la-congresul-avocatilor-2026/",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://unbr.ro/raportul-consiliului-uniunii-nationale-a-barourilor-din-romania-impreuna-cu-anexele-la-congresul-avocatilor-2026/",
+     "sha256": "d2c95fcac786d8ecbb618baa666083baabc3b5a6c560e3adeb78a92701091e15"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2025-237",
+   "path": "profesii/unbr/hotarare-consiliu/2025/237",
+   "short": "UNBR hotarare-consiliu 237/2025",
+   "title": "Hotărârea Consiliului UNBR nr. 237 din 06 septembrie 2025 privind modificarea și completarea Statutului C.A.A., adoptat prin Hotărârea Consiliului UNBR nr. 139/27.07.2016, cu modificările și completările ulterioare",
+   "url": "https://unbr.ro/hotararea-consiliului-unbr-nr-237-din-06-septembrie-2025-privind-modificarea-si-completarea-statutului-c-a-a-adoptat-prin-hotararea-consiliului-unbr-nr-139-27-07-2016-cu-modificarile-si-completar/",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-consiliului-unbr-nr-237-din-06-septembrie-2025-privind-modificarea-si-completarea-statutului-c-a-a-adoptat-prin-hotararea-consiliului-unbr-nr-139-27-07-2016-cu-modificarile-si-completar/",
+     "sha256": "a64a83a370371e09aa161446f1abef8e3b41b2b3f77099285e71384add534894"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2025-238",
+   "path": "profesii/unbr/hotarare-consiliu/2025/238",
+   "short": "Hotărârea Consiliului UNBR nr. 238/2025",
+   "title": "Hotărârea Consiliului UNBR nr. 238/2025",
+   "url": "https://unbr.ro/raportul-consiliului-uniunii-nationale-a-barourilor-din-romania-impreuna-cu-anexele-la-congresul-avocatilor-2026/",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://unbr.ro/raportul-consiliului-uniunii-nationale-a-barourilor-din-romania-impreuna-cu-anexele-la-congresul-avocatilor-2026/",
+     "sha256": "dfc13323c95febc1d9bd82c71be3cf1abd7a89d04dd7015e0fb6f25827bfdb79"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2025-254",
+   "path": "profesii/unbr/hotarare-consiliu/2025/254",
+   "short": "Hotărârea Consiliului UNBR nr. 254/2025",
+   "title": "Hotărârea Consiliului UNBR nr. 254/2025",
+   "url": "https://unbr.ro/hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-12-13-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-12-13-decembrie-2025/",
+     "sha256": "f1e3db521a271cb45bee627ce6a21c42ddc033713f714d633a0db28c4c6f9c38"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2025-255",
+   "path": "profesii/unbr/hotarare-consiliu/2025/255",
+   "short": "Hotărârea Consiliului UNBR nr. 255/2025",
+   "title": "Hotărârea Consiliului UNBR nr. 255/2025",
+   "url": "https://unbr.ro/hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-12-13-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-12-13-decembrie-2025/",
+     "sha256": "c8457420fa75f6d9e0e8cc65b74a709009f27826a3e0f43f51d9fcec5e16b249"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2025-256",
+   "path": "profesii/unbr/hotarare-consiliu/2025/256",
+   "short": "Hotărârea Consiliului UNBR nr. 256/2025",
+   "title": "Hotărârea Consiliului UNBR nr. 256/2025",
+   "url": "https://unbr.ro/hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-12-13-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-12-13-decembrie-2025/",
+     "sha256": "b62aa1cd303bca59888920e0c26894b39dfadd8b1276aacf2c4fa47b41336877"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2025-257",
+   "path": "profesii/unbr/hotarare-consiliu/2025/257",
+   "short": "Hotărârea Consiliului UNBR nr. 257/2025",
+   "title": "Hotărârea Consiliului UNBR nr. 257/2025",
+   "url": "https://unbr.ro/hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-12-13-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-12-13-decembrie-2025/",
+     "sha256": "a36dc2d2b529954cdda062ff778d47a0de2982c23f8ece484ee13c82651a8326"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2025-258",
+   "path": "profesii/unbr/hotarare-consiliu/2025/258",
+   "short": "Hotărârea Consiliului UNBR nr. 258/2025",
+   "title": "Hotărârea Consiliului UNBR nr. 258/2025",
+   "url": "https://unbr.ro/hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-12-13-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-12-13-decembrie-2025/",
+     "sha256": "9e65bad61ace8410cca91e97e2927d58e85351b6eb1fe9200711b448b029bc23"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2025-259",
+   "path": "profesii/unbr/hotarare-consiliu/2025/259",
+   "short": "Hotărârea Consiliului UNBR nr. 259/2025",
+   "title": "Hotărârea Consiliului UNBR nr. 259/2025",
+   "url": "https://unbr.ro/hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-12-13-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-12-13-decembrie-2025/",
+     "sha256": "6da47b8846e5ed3f9fc6c663acd248a00773f367d9a2fbbe5d35958be7c74517"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2025-260",
+   "path": "profesii/unbr/hotarare-consiliu/2025/260",
+   "short": "Hotărârea Consiliului UNBR nr. 260/2025",
+   "title": "Hotărârea Consiliului UNBR nr. 260/2025",
+   "url": "https://unbr.ro/hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-12-13-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-12-13-decembrie-2025/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2025-261",
+   "path": "profesii/unbr/hotarare-consiliu/2025/261",
+   "short": "Hotărârea Consiliului UNBR nr. 261/2025",
+   "title": "Hotărârea Consiliului UNBR nr. 261/2025",
+   "url": "https://unbr.ro/hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-12-13-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-12-13-decembrie-2025/",
+     "sha256": "d4d73ecf0a6f7779177ad416b9bbc8392389f106fad94bc02a393c38e2fe97c5"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2025-263",
+   "path": "profesii/unbr/hotarare-consiliu/2025/263",
+   "short": "Hotărârea Consiliului UNBR nr. 263/2025",
+   "title": "Hotărârea Consiliului UNBR nr. 263/2025",
+   "url": "https://unbr.ro/hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-12-13-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-12-13-decembrie-2025/",
+     "sha256": "4efc3b16b3685dec09adbc47134f9b5c5123d3e4bbd80a0163b22c7a841deb2e"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2025-264",
+   "path": "profesii/unbr/hotarare-consiliu/2025/264",
+   "short": "Hotărârea Consiliului UNBR nr. 264/2025",
+   "title": "Hotărârea Consiliului UNBR nr. 264/2025",
+   "url": "https://unbr.ro/hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-12-13-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-12-13-decembrie-2025/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2025-265",
+   "path": "profesii/unbr/hotarare-consiliu/2025/265",
+   "short": "Hotărârea Consiliului UNBR nr. 265/2025",
+   "title": "Hotărârea Consiliului UNBR nr. 265/2025",
+   "url": "https://unbr.ro/hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-12-13-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-12-13-decembrie-2025/",
+     "sha256": "e3db6b545a7f94e65efa789303e01cd006bcdccb7b93e9664e3d17b21cd6958b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2025-266",
+   "path": "profesii/unbr/hotarare-consiliu/2025/266",
+   "short": "Hotărârea Consiliului UNBR nr. 266/2025",
+   "title": "Hotărârea Consiliului UNBR nr. 266/2025",
+   "url": "https://unbr.ro/hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-12-13-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-12-13-decembrie-2025/",
+     "sha256": "d20a0ab4bd48e96ec21d905f56ce0e23631cb8511bf2e5a43aa89dd3d27afa89"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2025-267",
+   "path": "profesii/unbr/hotarare-consiliu/2025/267",
+   "short": "Hotărârea Consiliului UNBR nr. 267/2025",
+   "title": "Hotărârea Consiliului UNBR nr. 267/2025",
+   "url": "https://unbr.ro/hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-12-13-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-12-13-decembrie-2025/",
+     "sha256": "67ba6de78f3b01a02a389f6c7b318fd4f39336f3d31b6b5f1f50c6d8fdde7a65"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2025-287",
+   "path": "profesii/unbr/hotarare-consiliu/2025/287",
+   "short": "Hotărârea Consiliului UNBR nr. 287/2025",
+   "title": "Hotărârea Consiliului UNBR nr. 287/2025",
+   "url": "https://unbr.ro/hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-12-13-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-12-13-decembrie-2025/",
+     "sha256": "17043dd492f9e4de688c7adaef0749e32526ba70436f3d3e007f1c32899d012e"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-regulament-2025-p100738",
+   "path": "profesii/unbr/regulament/2025/p100738",
+   "short": "UNBR regulament /2025",
+   "title": "REGULAMENT - CADRU privind organizarea examenului de primire în profesia de avocat și admitere în cadrul Institutului Național pentru Pregătirea și Perfecționarea Avocaților - I.N.P.P.A. (în vederea dobândirii titlului profesional de avocat stagiar) și de primire în profesia de avocat a persoanelor care au absolvit examenul de definitivat în alte profesii juridice",
+   "url": "https://unbr.ro/regulament-cadru-privind-organizarea-examenului-de-primire-in-profesia-de-avocat-si-admitere-in-cadrul-institutului-national-pentru-pregatirea-si-perfectionarea-avocatilor-i-n-p-p-a-in-v/",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://unbr.ro/regulament-cadru-privind-organizarea-examenului-de-primire-in-profesia-de-avocat-si-admitere-in-cadrul-institutului-national-pentru-pregatirea-si-perfectionarea-avocatilor-i-n-p-p-a-in-v/",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

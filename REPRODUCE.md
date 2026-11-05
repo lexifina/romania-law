@@ -12825,21 +12825,21 @@ Every word of law in this repository comes from these sources and, for the acts 
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 118323 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) and the lists it links | 132081 | |
+| 118990 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) and the lists it links | 132752 | |
 
-The build made 138045 commits:
+The build made 138716 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 118398 | first version of an act |
+| 119065 | first version of an act |
 | 13809 | one law on its in-force day |
-| 3678 | changes no amendment note explains, credited to the publisher |
+| 3682 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `viitor`: laws not yet in force on 2026-11-05.
 - 47 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 120408 laws in the record.
-- 276748 tags.
+- 121075 laws in the record.
+- 278086 tags.
 
 ## Dates
 
@@ -12851,7 +12851,7 @@ When a law gives no date of its own, the default rule applies: Constituția Rom�
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `29e2ff0aa46220eb6746aaba491e75432c4d7e68df235741a7eecbad04f58692` (1612994524 bytes).
+- Corpus: sha256 `66424f763eb9a7c0cd0eca27bde2702b4e68bcf637aa14cc0062d7d26517d182` (1621771588 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `c69a2ae7eeab55fd42b52cd695f9866002721124`, `check.py` `34526b6ce31ecf076b78e7067a22aec49194ac74`, `on.py` `267f054872f375839ad33c914e6c0d5faf27656b`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
@@ -12863,7 +12863,7 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Every act's decisions made by hand (498496 in all) are listed in that act's own README.md, under "Decisions made by hand".
+- Every act's decisions made by hand (499419 in all) are listed in that act's own README.md, under "Decisions made by hand".
 
 ## What AI did and did not do
 
@@ -130214,6 +130214,673 @@ Model use at data-build time:
 - Normativ tehnic ST 049-2014: built by Lexifina's construction source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Normativ tehnic ST 050-06: built by Lexifina's construction source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Normativ tehnic ST 051-2013: built by Lexifina's construction source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- CAFR hotarare 3/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- CAFR norme 123/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de organizare și funcționare a Camerei Auditorilor Financiari din România: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Codul deontologic al judecătorilor și procurorilor: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul privind concursul de admitere în magistratură: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul privind procedura alegerii membrilor Consiliului Superior al Magistraturii: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul privind recrutarea, formarea profesională și evaluarea asistenților judecătorului: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul privind concediile judecătorilor și procurorilor: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- CSM regulament 246/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- CSM regulament 80/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- CSM regulament 247/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- CSM regulament 81/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- CSM regulament 10/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul privind evaluarea activității profesionale a judecătorilor: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- CSM regulament 862/2014: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul privind evaluarea activității profesionale a procurorilor: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul privind examenul de capacitate al judecătorilor stagiari: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul privind examenul de capacitate al procurorilor stagiari: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul privind examenul de capacitate al judecătorilor stagiari și al procurorilor stagiari: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- CSM regulament 322/2005: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul privind numirea în funcții de conducere a judecătorilor și revocarea din aceste funcții: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul privind numirea în funcții de conducere a procurorilor și revocarea din aceste funcții: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de organizare a activității judecătorului de supraveghere a privării de libertate: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul privind normele pentru efectuarea lucrărilor de inspecție: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- CSM regulament 176/2014: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- CSM regulament 843/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- CSM regulament 1107/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de ordine interioară al Direcției de Investigare a Infracțiunilor de Criminalitate Organizată și Terorism: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de ordine interioară al Direcției Naționale Anticorupție: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de ordine interioară al instanțelor judecătorești: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de ordine interioară al parchetelor: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de organizare și funcționare a Consiliului Superior al Magistraturii: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de organizare și funcționare a Inspecției Judiciare: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- CSM regulament 1057/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul privind concursul de promovare a judecătorilor: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul privind concursul de promovare a procurorilor: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul privind admiterea la Institutul Național al Magistraturii: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul privind examenul de absolvire a Institutului Național al Magistraturii: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul Institutului Național al Magistraturii: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului de Conducere al INPPA privind începerea anului I de pregătire profesională iniţială: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA act /2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA act /2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia nr. 17 din 11 aprilie 2020 a Directorului Institutului Naţional pentru Pregătirea şi Perfecţionarea Avocaţilor: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia nr. 18 din 14 aprilie 2020 a Directorului Institutului Naţional pentru Pregătirea şi Perfecţionarea Avocaţilor: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA decizie-director 48/2020: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA decizie-director 128/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA decizie-director 137/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA decizie-director 179/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA decizie-director 1/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA decizie-director 52/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA decizie-director 42/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA decizie-director 25/2026: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA decizie-director 35/2026: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 13/2012: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 392/2012: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 6/2012: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotararea nr. 8 privind adoptarea modelului caietului de lucrari profesionale pentru anul II de pregatire initiala: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotararea nr. 9 privind calendarul desfasurarii examenului de absolvire a INPPA, sesiunea noiembrie 2012: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotararea nr. 17 privind adoptarea modelului caietului de lucrari profesionale pentru anul II de pregatire initiala: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotararea nr. 21 privind aprobarea modelului de aviz conform pentru transferul dintr-un centru in altul: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 22/2013: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea nr. 30 privind Examenul de absolvire a cursurilor de pregătire profesională iniţială: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea nr. 40 din 20 februarie 2014 a Consiliului de Conducere al INPPA: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 52/2014: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 53/2014: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 55/2014: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea nr. 60 a Consiliului de Conducere al INPPA privind aprobarea profilului formatorului în cadrul I.N.P.P.A: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 60/2014: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 63/2015: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea nr. 64 din 06 martie 2015 a Consiliului de Conducere al INPPA privind recunoaşterea probelor orale: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 65/2015: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 66/2015: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 69/2016: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 70/2016: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 73/2016: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 74/2016: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 75/2016: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 1/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 2/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 3/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 4/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 5/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 2/2018: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 3/2018: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 4/2018: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 5/2018: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 1/2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 2/2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 3/2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea nr. 4 din 17 mai 2019 a Consiliului de Conducere al INPPA privind recunoasterea probelor orale - 2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 6/2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 7/2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea nr. 8 a Consiliului de Conducere al INPPA privind începerea anului I de pregătire profesională iniţială - 2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 1/2020: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 10/2020: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 13/2020: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 2/2020: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 41/2020: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 42/2020: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 8/2020: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 9/2020: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotararea nr. 01/05.01.2021 privind începerea anului II de pregatire profesionala initiala: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotararea nr. 02/05.01.2021 privind începerea anului I de pregatire profesionala initiala: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 4/2021: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 5/2021: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 6/2021: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 63/2021: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 7/2021: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 8/2021: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 9/2021: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului INPPA nr. 1/10.01.2022 privind începerea anului II de pregătire profesională iniţială: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului INPPA nr. 2/10.01.2022 privind începerea anului I de pregătire profesională iniţială: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 189/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 28/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- INPPA hotarare-consiliu 37/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Codul de etică și deontologie profesională al mediatorilor autorizați: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului de mediere nr. 107/26.10.2024 privind aprobarea noii Organigrame a Consiliului de mediere: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului de mediere nr. 11/10.01.2025 privind noua formă a Tabloului mediatorilor: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- MEDIERE hotarare 20/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de organizare și funcționare a Consiliului de mediere: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Standardul de formare a mediatorului: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Statutul profesiei de mediator: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Codul deontologic al consilierului juridic: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de disciplină al Ordinului Consilierilor Juridici din România: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulament privind formele de exercitare a profesiei de consilier juridic: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulament de utilizare a mărcii colective: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulament privind primirea, stagiul și definitivarea în profesia de consilier juridic: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulament privind registrele de activitate ale consilierilor juridici: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Statutul Federației „Ordinul Consilierilor Juridici din România”: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Statutul profesiei de consilier juridic: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Codul deontologic al avocatului român: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie 1484/2007: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- DECIZIA Nr. 522 / 01 iulie 2009: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- DECIZIA Nr. 523 / 01 iulie 2009: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia nr. 713/12.12.2009: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- DECIZIA NR. 557/15.12.2012: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- DECIZIA NR. 559/15.12.2012: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- DECIZIA NR. 745/29.06.2013: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- DECIZIA NR. 746/29.06.2013: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- DECIZIA NR. 747/29.06.2013: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- DECIZIA NR. 773/26.10.2013: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- DECIZIA NR. 23/05.09.2015: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- DECIZIA nr. 432/23.03.2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- DECIZIA NR. 459/23.03.2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- DECIZIA nr. 119/29-30.01.2021: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie 45/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie 37/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-consiliu 3564/1999: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-consiliu 116/2006: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- DECIZIA NR. 268 a Consiliului Uniunii Naţionale a Barourilor din România din 22 septembrie 2007: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia interpretativã nr. 320 din 8 martie 2008 a Consiliului U.N.B.R: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia nr. 711/12.12.2009: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- DECIZIA NR. 69/03.12.2011: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- DECIZIA NR. 385/03.03.2012: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- DECIZIA NR. 386/03.03.2012: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- DECIZIA NR. 1008/24.05.2014: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-consiliu 125/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 76/2005: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 1488/2007: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 1489/2007: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 1490/2007: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- ANUNŢ - EXAMENUL PENTRU DOBÂNDIREA TITLULUI PROFESIONAL DE AVOCAT DEFINITIV: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia Comisiei Permanente nr. 57 din 10 aprilie 2009: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia nr. 87/28 august 2009 a Comisiei Permanente a U.N.B.R: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia nr. 98/28 august 2009 a Comisiei Permanente a U.N.B.R: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia nr. 99 din 21 octombrie 2009 a Comisiei Permanente a U.N.B.R: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia nr. 110 din 22 ianuarie 2010 a Comisiei Permanente a U.N.B.R: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia nr. 112 a Comisiei Permanente a UNBR: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia nr. 113 din 22 ianuarie 2010 a Comisiei Permanente a U.N.B.R: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia nr. 114 din 22 ianuarie 2010 a Comisiei Permanente a U.N.B.R: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 45/2012: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia 45/14.12.2012 a Comisiei Permanente U.N.B.R: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia nr. 62 din 28 iunie 2013 a Comisiei Permanente a U.N.B.R: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia nr. 63 din 29 august 2013 a Comisiei Permanente a U.N.B.R: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia nr. 79/06.09.2013 a Comisiei Permanente a U.N.B.R: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia nr. 81/25.10.2013 a Comisiei Permanente a U.N.B.R: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia nr. 113/23.05.2014 a Comisiei Permanente a U.N.B.R: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 119/2014: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 128/2014: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 146/2014: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia nr. 96/31.01.2014 a Comisiei Permanente a U.N.B.R: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 13/2015: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 17/2015: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia nr. 177/30.01.2015 a Comisiei Permanente a U.N.B.R: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Materiale ce vor fi supuse dezbaterii și aprobării Congresului avocaților 2016: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 2/2015: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 140/2016: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 160/2016: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 212/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 248/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia Comisiei Permanente a UNBR nr. 250/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 275/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 288/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 286/2018: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 363/2018: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 367/2018: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 391/2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 392/2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 120/2020: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 135/2020: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 137/2020: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 181/2020: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 57/2020: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 58/2020: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 83/2020: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 194/2021: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 197/2021: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 265/2021: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 267/2021: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 240/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 264/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 307/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 309/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 329/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 330/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 344/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 384/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 386/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 404/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 453/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 454/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia Comisiei Permanente a UNBR nr. 22/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 3/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 32/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 37/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 38/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 39/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia Comisiei Permanente a UNBR nr. 4/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 40/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 41/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia Comisiei Permanente a UNBR nr. 42 din 20-21.10.2023 privind înființarea Centrului Teritorial INPPA Constanța: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 461/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 462/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 463/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 47/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 48/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 9/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 201/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 202/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 203/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 214/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 217/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 218/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 251/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 252/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 253/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 254/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 255/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 78/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 88/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 95/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia Comisiei Permanente a UNBR nr. 97/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 97/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 179/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 210/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 256/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 257/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 258/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 259/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 260/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 261/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 262/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 264/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 276/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 277/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 343/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 348/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 386/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 438/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 439/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 440/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 331/2026: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 443/2026: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia Comisiei Permanente a UNBR nr. 465/2026: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia Comisiei Permanente a UNBR nr. 472/2026: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 493/2026: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 495/2026: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 516/2026: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 534/2026: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR decizie-cp 537/2026: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR apără reputația profesională a avocatului Răzvan Viorescu, în urma unor atacuri publice repetate: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia nr. 32/13 iulie 2009 a Preşedintelui U.N.B.R. privind examenul pentru primirea în profesie: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia nr. 55 din 02 noiembrie 2010 a Preşedintelui UNBR: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia Preşedintelui U.N.B.R. nr. 62 din 21 februarie 2011: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea nr. 24/05.10.2013 a Comisiei Naţionale de Examen: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea nr. 4/12.09.2013 a Comisiei Naţionale de Examen: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea nr. 5/12.09.2013 a Comisiei Naţionale de Examen: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-cne 5/2015: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea nr. 4/25.08.2019 a Comisiei naționale de examen - Examenul de primire în profesie - sesiunea august 2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea nr. 4/28.02.2019 a Comisiei naționale de examen - Examenul de primire în profesie - sesiunea martie 2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea nr. 5/27.08.2019 a Comisiei naționale de examen - Examenul de primire în profesie - sesiunea august 2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-congres 1010/2014: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- HOTĂRÂRI şi REZOLUŢII adoptate de Congresul Avocaţilor, 28 - 29 martie 2014, Bucureşti: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 1/2015: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 10/2015: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 11/2015: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 2/2015: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 3/2015: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-congres 30/2015: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 4/2015: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 5/2015: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 6/2015: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 7/2015: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 8/2015: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 9/2015: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 1/2016: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 2/2016: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 3/2016: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 4/2016: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 5/2016: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-congres 60/2016: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-congres 8/2016: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 8/2016: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 1/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 2/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea nr. 213 din 18 februarie 2017 a Consiliului UNBR privind Comitetul de organizare a Congresului Avocaților 2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-congres 262/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-congres 299/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 3/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 4/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 5/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 8/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- HOTĂRÂREA NR. 09 privind propunerile formulate în cadrul Congresului avocaților 2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 9/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 1/2018: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 2/2018: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 3/2018: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-congres 324/2018: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-congres 398/2018: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 4/2018: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 6/2018: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 7/2018: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 1/2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 10/2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 11/2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-congres 12/2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 12/2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 13/2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-congres 14/2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 14/2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 2/2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 3/2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 4/2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 5/2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 6/2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 7/2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 8/2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 9/2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-congres 2/2020: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-congres 3/2020: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 75 din 17-18 iulie 2020 privind Congresul avocaților 2020: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-congres 98/2020: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-congres 144/2021: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-congres 2/2021: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-congres 3/2021: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 07/26 iunie 2021 privind participarea UNBR la proiectul „Cartierul pentru justiție”: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-congres 8/2021: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-congres 234/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 1/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 2/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 3/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 325/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 4/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 5/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 6/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 7/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 8/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 1/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 3/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 4/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 5/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 60/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-congres 60/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 7/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-congres 73/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 1/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 2/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 3/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 4/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 5/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 1/2026: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 2/2026: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 289/2026: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 3/2026: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 4/2026: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 463/2026: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Congresului avocaților nr. 5/2026: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- HOTĂRÂREA NR. 423 a Consiliului Uniunii Naţionale a Barourilor din România: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- HOTÃRÂRI ale Consiliului U.N.B.R. din 27 septembrie 2008: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea nr. 521/01 iulie 2009 a Consiliului U.N.B.R. privind examenul pentru primirea în profesie: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului U.N.B.R. nr. 614 din 10 octombrie 2009: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotãrîrea Consiliului U.N.B.R. nr. 620 din 10 octombrie 2009: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea nr. 715 a Consiliului UNBR: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea nr. 716 din 12 decembrie 2009 a Consiliului U.N.B.R: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotararea nr. 718 din 20 martie 2010 a Consiliului UNBR: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 725/2010: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- ANUNŢ: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 2011/2011: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea nr. 216 din 03 decembrie 2011 a Consiliului U.N.B.R: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 4/2011: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea nr. 58/2011 din 08 iulie 2011 a Consiliului U.N.B.R: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- HOTĂRÂREA Consiliului U.N.B.R. nr. 61 din 03 decembrie 2011: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul - cadru pentru organizarea serviciilor de asistenţã judiciarã: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 3/2012: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 303/2012: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- HOTĂRÂREA NR. 526 din 01 septembrie 2012 a Consiliului UNBR privind recunoaşterea orelor de pregătire profesională: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- HOTĂRÂREA NR. 527 din 01 septembrie 2012: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 648/2012: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea nr. 692 din 28 martie 2013 a Consiliului U.N.B.R: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 693/2013: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotãrîrea nr. 693 din 28 martie 2013 a Consiliului U.N.B.R: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotararea Consiliului UNBR nr. 713 din 29 iunie 2013: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotararea Consiliului Uniunii Nationale a Barourilor din Romania nr. 713 din 29 iunie 2013: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea nr. 852 din 14 decembrie 2013 a Consiliului U.N.B.R: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea nr. 857 din 14 decembrie 2013 a Consiliului U.N.B.R: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea nr. 884 din 14 decembrie 2013 a Consiliului U.N.B.R: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea nr. 885 din 14 decembrie 2013 a Consiliului U.N.B.R: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 1010/2014: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea nr. 1033 din 13 decembrie 2014 a Consiliului U.N.B.R: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 886/2014: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea nr. 961 din 27 martie 2014 a Consiliului U.N.B.R: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea nr. 962 din 24 mai 2014 a Consiliului U.N.B.R: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 965/2014: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 966/2014: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 1069/2015: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 1115/2015: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 1116/2015: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 1117/2015: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 25/2015: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 37/2015: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 1/2016: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 102/2016: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea nr. 139 din 27.07.2016 a Consiliului U.N.B.R. privind adoptarea Statutului Casei de Asigurări a Avocaților: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 152/2016: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 153/2016: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 174/2016: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 180/2016: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 2/2016: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 3/2016: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 4/2016: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 59/2016: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 76/2016: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 96/2016: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 96/2016: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 97/2016: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 97/2016: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 98/2016: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 98/2016: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 99/2016: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 99/2016: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 207/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 209/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 209/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 211/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 212/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 223/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 242/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 243/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 244/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 263/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 265/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 270/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 271/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 271/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 272/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 272/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 289/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 290 din 09 decembrie 2017 privind venitul de referință: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 291 din 09 decembrie 2017 privind valoarea punctului de pensie: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 292/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 293/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 294 din 09 decembrie 2017 privind privind cuantumul ajutorului de deces: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 295 din 09 decembrie 2017 privind cotele de contribuție la sistemul C.A.A: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 296/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 300/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 301/2017: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 222/2018: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 323/2018: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 325/2018: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 367/2018: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea nr. 368/22.06.2018 privind organizarea examenului de primire în profesie, sesiunea august 2018: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea nr. 369 /22.06.2018 privind taxele de examenului de primire în profesie, sesiunea august 2018: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 370/2018: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 400/2018: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 414/2018: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 5/2018: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 26/2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 31/2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 37/2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 38/2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 39/2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 40/2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 43/2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 431/2019 publicată în Monitorul Oficial, Partea I, nr. 281 din 12 aprilie 2016: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 462/2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 463/2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 464/2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 6/2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 59/2020: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 60/2020: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 67/2020: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 68/2020: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 69/2020: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 70/2020: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 71/2020: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 72/2020: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 73/2020: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 74/2020: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 76/2020: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 77/2020: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 8/2020: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 80/2020: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 82/2020: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 84/2020: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 85/2020: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 113/2021: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 114/2021: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 115/2021: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 116/2021: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 117/2021: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 118/2021: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 120/2021: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea nr. 148/14-15.05.2021 privind organizarea examenului de primire în profesie - sesiunea septembrie 2021: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea nr. 152/14-15.05.2021 privind apărarea profesiei: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea nr. 153/14-15.05.2021 privind indemnizația de sprijin a avocaților pentru perioada pandemiei: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 174/2021: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 191/2021: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 194/2021: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 206/2021: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 210/2021: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 222/2021: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 223/2021: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 224/2021: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 226/2021: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 227/2021: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 228/2021: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 229/2021: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 230/2021: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 230/2021: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 235/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 236/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 237/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 241/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 243/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 258/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 259/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 261/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 263/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 266/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 267/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 268/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 274/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 276 din 09-10 septembrie 2022 privind fondurile specializate ale CAA: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 277/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 281/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 281/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 297 din 9-10 decembrie 2022 privind venitul de referință: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 298 din 9 - 10 decembrie 2022 privind valoarea punctului de pensie: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 299/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 300 din 9-10 decembrie 2022 privind cuantumul ajutorului lunar pentru creșterea copilului: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 301 din 09-10 decembrie 2022 privind cuantumul ajutorului de deces: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 302/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 303/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 305/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 305/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 306/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 306/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 308/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 309/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 310/2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 14/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 15/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 17/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 19/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 20/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 23/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 24/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 25/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 26/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 27/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 28/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 29/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UPDATE: UNBR informează: A fost semnat noul Protocol tripartit privind onorariile avocațiale din oficiu: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 30/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 326/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 327/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 329/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 343/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 351/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 351/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 351/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea nr. 352/8 iunie 2023 privind organizarea examenului de primire în profesia de avocat, sesiunea septembrie 2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 353/2023: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 05 din 01-02 septembrie 2023 privind grupurile de lucru ale Consiliului UNBR: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 100/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 109/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 110/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 111/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 112/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 113/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 114/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 115/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 116/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 117/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 49/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 75/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 75/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 76/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 76/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 80/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 90/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 91/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Modificările statutare adoptate de Consiliul UNBR au fost publicate în Monitorul Oficial: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 99/2024: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 180/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 180/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 182/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 183/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 184/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 207/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 208/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 211/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 212/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 213/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 214/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 215/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 216/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 230/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 236/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 237/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 237/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 238/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 254/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 255/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 256/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 257/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 258/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 259/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 260/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 261/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 263/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 264/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 265/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 266/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 267/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 287/2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 291/2026: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 294/2026: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 317/2026: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Hotărârea Consiliului UNBR nr. 323/2026: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 323/2026: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 325/2026: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 336/2026: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 337/2026: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR hotarare-consiliu 343/2026: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR protocol /2005: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR protocol /2013: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR protocol /2015: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR protocol /2019: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Protocolul tripartit privind onorariile avocațiale din oficiu din 17 iunie 2022: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- UNBR regulament /2025: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de organizare și funcționare a U.N.B.R. și de desfășurare a ședințelor Consiliului U.N.B.R.: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Statutul profesiei de avocat din 18 martie 2001 (republicat): built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Statutul profesiei de avocat: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Statutul Uniunii Naționale a Executorilor Judecătorești și al profesiei de executor judecătoresc: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Codul de etică profesională și disciplină al Uniunii Naționale a Practicienilor în Insolvență din România: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Statutul privind organizarea și exercitarea profesiei de practician în insolvență: built by Lexifina's professions source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Directiva 85/1/CEE: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Directiva 94/1/CE: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Directiva 2005/1/CE: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.

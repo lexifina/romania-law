@@ -1,0 +1,68 @@
+{
+"country": "RO",
+"shard": "profesii/2008",
+"acts": [
+{
+"slug": "profesii-unbr-hotarare-consiliu-2008-9",
+"path": "profesii/unbr/hotarare-consiliu/2008/9",
+"kind": "profesii",
+"year": "2008",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTÃRÂRI ale Consiliului U.N.B.R. din 27 septembrie 2008",
+"short": "HOTÃRÂRI ale Consiliului U.N.B.R. din 27 septembrie 2008",
+"code": null,
+"status": "metadata only (text not held yet)",
+"versions": 1,
+"from": "2008-09-27",
+"latest": "2008-09-27",
+"portal": "https://unbr.ro/hotarari-ale-consiliului-u-n-b-r-din-27-septembrie-2008/",
+"flags": {
+"text_missing": true,
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-consiliu-2008-320",
+"path": "profesii/unbr/decizie-consiliu/2008/320",
+"kind": "profesii",
+"year": "2008",
+"number": "320",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia interpretativã nr. 320 din 8 martie 2008 a Consiliului U.N.B.R",
+"short": "Decizia interpretativã nr. 320 din 8 martie 2008 a Consiliului U.N.B.R",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2008-03-08",
+"latest": "2008-03-08",
+"portal": "https://unbr.ro/decizia-interpretativa-nr-320-din-8-martie-2008-a-consiliului-u-n-b-r/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2008-423",
+"path": "profesii/unbr/hotarare-consiliu/2008/423",
+"kind": "profesii",
+"year": "2008",
+"number": "423",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂREA NR. 423 a Consiliului Uniunii Naţionale a Barourilor din România",
+"short": "HOTĂRÂREA NR. 423 a Consiliului Uniunii Naţionale a Barourilor din România",
+"code": null,
+"status": "metadata only (text not held yet)",
+"versions": 1,
+"from": "2008-09-27",
+"latest": "2008-09-27",
+"portal": "https://unbr.ro/hotararea-nr-423-a-consiliului-uniunii-nationale-a-barourilor-din-romania/",
+"flags": {
+"text_missing": true,
+"amendments_checked": false
+}
+}
+]
+}

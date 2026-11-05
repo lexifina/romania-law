@@ -1,0 +1,962 @@
+{
+"country": "RO",
+"shard": "profesii/2017",
+"acts": [
+{
+"slug": "profesii-unbr-hotarare-congres-2017-9-2",
+"path": "profesii/unbr/hotarare-congres/2017/9-2",
+"kind": "profesii",
+"year": "2017",
+"number": "9-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂREA NR. 09 privind propunerile formulate în cadrul Congresului avocaților 2017",
+"short": "HOTĂRÂREA NR. 09 privind propunerile formulate în cadrul Congresului avocaților 2017",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2017-03-31",
+"latest": "2017-03-31",
+"portal": "https://unbr.ro/a-fost-publicata-hotararea-nr-09-privind-propunerile-formulate-in-cadrul-congresului-avocatilor-2017/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2017-209-2",
+"path": "profesii/unbr/hotarare-consiliu/2017/209-2",
+"kind": "profesii",
+"year": "2017",
+"number": "209-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 209/2017",
+"short": "Hotărârea Consiliului UNBR nr. 209/2017",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2017-03-28",
+"latest": "2017-03-28",
+"portal": "https://unbr.ro/dam-publicitatii-regulamentul-tematic-privind-organizarea-si-functionarea-comisiilor-de-cenzori-aflate-in-structura-c-a-a/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2017-271-2",
+"path": "profesii/unbr/hotarare-consiliu/2017/271-2",
+"kind": "profesii",
+"year": "2017",
+"number": "271-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 271/2017",
+"short": "Hotărârea Consiliului UNBR nr. 271/2017",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2018-02-27",
+"latest": "2018-02-27",
+"portal": "https://unbr.ro/publicam-hotararea-consiliului-unbr-nr-325-17-februarie-2018-privind-regulile-de-procedura-si-anexele-la-acestea-aferente-regulamentului-de-organizare-si-functionare-a-registrelor-nationale-ale-avoc/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2017-272-2",
+"path": "profesii/unbr/hotarare-consiliu/2017/272-2",
+"kind": "profesii",
+"year": "2017",
+"number": "272-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 272/2017",
+"short": "Hotărârea Consiliului UNBR nr. 272/2017",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2017-09-28",
+"latest": "2017-09-28",
+"portal": "https://unbr.ro/publicam-decizia-nr-250-din-28-septembrie-2017-prin-care-cu-unanimitate-de-voturi-comisia-permanenta-a-unbr-a-decis-amanarea-intrarii-in-vigoare-a-prevederilor-art-4-8-din-hotararea-consiliului/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-inppa-hotarare-consiliu-2017-1",
+"path": "profesii/inppa/hotarare-consiliu/2017/1",
+"kind": "profesii",
+"year": "2017",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 1 din 20 ianuarie 2017 a Consiliului de Conducere a INPPA privind privind începerea anului II de pregătire profesională iniţială",
+"short": "INPPA hotarare-consiliu 1/2017",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2017-02-06",
+"latest": "2017-02-06",
+"portal": "https://inppa.ro/hotararea-nr-1-din-20-ianuarie-2017-a-consiliului-de-conducere-a-inppa-privind-privind-inceperea-anului-ii-de-pregatire-profesionala-initiala/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-congres-2017-1",
+"path": "profesii/unbr/hotarare-congres/2017/1",
+"kind": "profesii",
+"year": "2017",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Congresului avocaților nr. 1/2017",
+"short": "Hotărârea Congresului avocaților nr. 1/2017",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2017-03-28",
+"latest": "2017-03-28",
+"portal": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-23-25-martie-2017-bucuresti/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-inppa-hotarare-consiliu-2017-2",
+"path": "profesii/inppa/hotarare-consiliu/2017/2",
+"kind": "profesii",
+"year": "2017",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 2 din 12 mai 2017 a Consiliului de Conducere al INPPA privind începerea anului I de pregătire profesională iniţială",
+"short": "INPPA hotarare-consiliu 2/2017",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2017-05-31",
+"latest": "2017-05-31",
+"portal": "https://inppa.ro/hotararea-nr-2-din-12-mai-2017-a-consiliului-de-conducere-al-inppa-privind-inceperea-anului-i-de-pregatire-profesionala-initiala/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-congres-2017-2",
+"path": "profesii/unbr/hotarare-congres/2017/2",
+"kind": "profesii",
+"year": "2017",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Congresului avocaților nr. 2/2017",
+"short": "Hotărârea Congresului avocaților nr. 2/2017",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2017-03-28",
+"latest": "2017-03-28",
+"portal": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-23-25-martie-2017-bucuresti/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-inppa-hotarare-consiliu-2017-3",
+"path": "profesii/inppa/hotarare-consiliu/2017/3",
+"kind": "profesii",
+"year": "2017",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 3 din 16 iunie 2017 a Consiliului de Conducere al INPPA privind adoptarea modelului caietului de lucrări profesionale pentru anul II de pregătire profesională inițială",
+"short": "INPPA hotarare-consiliu 3/2017",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2017-07-01",
+"latest": "2017-07-01",
+"portal": "https://inppa.ro/hotararea-nr-3-din-16-iunie-2017-a-consiliului-de-conducere-al-inppa-privind-adoptarea-modelului-caietului-de-lucrari-profesionale-pentru-anul-ii-de-pregatire-profesionala-initiala/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-congres-2017-3",
+"path": "profesii/unbr/hotarare-congres/2017/3",
+"kind": "profesii",
+"year": "2017",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Congresului avocaților nr. 3/2017",
+"short": "Hotărârea Congresului avocaților nr. 3/2017",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2017-03-28",
+"latest": "2017-03-28",
+"portal": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-23-25-martie-2017-bucuresti/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-inppa-hotarare-consiliu-2017-4",
+"path": "profesii/inppa/hotarare-consiliu/2017/4",
+"kind": "profesii",
+"year": "2017",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 4 din 16 iunie 2017 a Consiliului de Conducere al INPPA privind calificativele obținute de avocații stagiari care au susținut examen de absolvire în sesiuni anterioare de examen organizate de INPPA şi care au promovat exclusiv proba orală, ce urmează a fi avute în vedere în cadrul examenului de absolvire - Sesiunea 2017",
+"short": "INPPA hotarare-consiliu 4/2017",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2017-07-01",
+"latest": "2017-07-01",
+"portal": "https://inppa.ro/hotararea-nr-4-din-16-iunie-2017-a-consiliului-de-conducere-al-inppa-privind-calificativele-obtinute-de-avocatii-stagiari-care-au-sustinut-examen-de-absolvire-in-sesiuni-anterioare-de-examen-organiza/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-congres-2017-4",
+"path": "profesii/unbr/hotarare-congres/2017/4",
+"kind": "profesii",
+"year": "2017",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Congresului avocaților nr. 4/2017",
+"short": "Hotărârea Congresului avocaților nr. 4/2017",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2017-03-28",
+"latest": "2017-03-28",
+"portal": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-23-25-martie-2017-bucuresti/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-inppa-hotarare-consiliu-2017-5",
+"path": "profesii/inppa/hotarare-consiliu/2017/5",
+"kind": "profesii",
+"year": "2017",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 5 din 25 august 2017 a Consiliului de Conducere al INPPA privind Examenul de absolvire a cursurilor de pregătire profesională inițială organizate în anul 2017 în cadrul I.N.P.P.A. / Centrelor teritoriale ale I.N.P.P.A",
+"short": "INPPA hotarare-consiliu 5/2017",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2017-09-05",
+"latest": "2017-09-05",
+"portal": "https://inppa.ro/hotararea-nr-5-din-25-august-2017-a-consiliului-de-conducere-al-inppa-privind-examenul-de-absolvire-a-cursurilor-de-pregatire-profesionala-initiala-organizate-in-anul-2017-in-cadrul-i-n-p-p-a-cent/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-congres-2017-5",
+"path": "profesii/unbr/hotarare-congres/2017/5",
+"kind": "profesii",
+"year": "2017",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Congresului avocaților nr. 5/2017",
+"short": "Hotărârea Congresului avocaților nr. 5/2017",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2017-03-28",
+"latest": "2017-03-28",
+"portal": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-23-25-martie-2017-bucuresti/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-congres-2017-8",
+"path": "profesii/unbr/hotarare-congres/2017/8",
+"kind": "profesii",
+"year": "2017",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Congresului avocaților nr. 8/2017",
+"short": "Hotărârea Congresului avocaților nr. 8/2017",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2017-03-28",
+"latest": "2017-03-28",
+"portal": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-23-25-martie-2017-bucuresti/",
+"flags": {
+"text_missing": true,
+"text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-congres-2017-9",
+"path": "profesii/unbr/hotarare-congres/2017/9",
+"kind": "profesii",
+"year": "2017",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Congresului avocaților nr. 9/2017",
+"short": "Hotărârea Congresului avocaților nr. 9/2017",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2017-03-28",
+"latest": "2017-03-28",
+"portal": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-23-25-martie-2017-bucuresti/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2017-207",
+"path": "profesii/unbr/hotarare-consiliu/2017/207",
+"kind": "profesii",
+"year": "2017",
+"number": "207",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 207 din 18 februarie 2017 a Consiliului UNBR prin care se aprobă programul anual de investiții pentru anul 2017 propus de Consiliul de Administrație al CAA",
+"short": "UNBR hotarare-consiliu 207/2017",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2017-03-02",
+"latest": "2017-03-02",
+"portal": "https://unbr.ro/hotararea-nr-207-din-18-februarie-2017-a-consiliului-unbr-prin-care-se-aproba-programul-anual-de-investitii-pentru-anul-2017-propus-de-consiliul-de-administratie-al-caa/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2017-209",
+"path": "profesii/unbr/hotarare-consiliu/2017/209",
+"kind": "profesii",
+"year": "2017",
+"number": "209",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 209 din 18 februarie 2017 a Consiliului UNBR prin care, în completarea Statutului Casei de Asigurări a Avocaților, a fost adoptat Regulamentul de pensii, Regulamentul privind alte drepturi de asigurări sociale, Regulamentul creanțelor contributive și Regulamentul privind organizarea și funcționarea comisiilor de cenzori aflate în structura CAA",
+"short": "UNBR hotarare-consiliu 209/2017",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2017-02-16",
+"latest": "2017-02-16",
+"portal": "https://unbr.ro/hotararea-nr-209-din-18-februarie-2017-a-consiliului-unbr-prin-care-in-completarea-statutului-casei-de-asigurari-a-avocatilor-a-fost-adoptat-regulamentul-de-pensii-regulamentul-privind-alte-dreptu/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2017-211",
+"path": "profesii/unbr/hotarare-consiliu/2017/211",
+"kind": "profesii",
+"year": "2017",
+"number": "211",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 211 din 18 februarie 2017 a Consiliului UNBR prin care se înființează un grup de lucru având ca sarcină coordonarea acțiunilor UNBR ce vor fi organizate pentru celebrarea Centenarului Marii Uniri din 1918",
+"short": "UNBR hotarare-consiliu 211/2017",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2017-06-02",
+"latest": "2017-06-02",
+"portal": "https://unbr.ro/hotararea-nr-211-din-18-februarie-2017-a-consiliului-unbr-prin-care-se-infiinteaza-un-grup-de-lucru-avand-ca-sarcina-coordonarea-actiunilor-unbr-ce-vor-fi-organizate-pentru-celebrarea-centenarului-ma/",
+"flags": {
+"text_missing": true,
+"text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2017-212",
+"path": "profesii/unbr/decizie-cp/2017/212",
+"kind": "profesii",
+"year": "2017",
+"number": "212",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia nr. 212 din 30 martie 2017 a Comisiei Permanente a UNBR prin care se înființează Registrul electronic al actelor întocmite de avocați și Registrul electronic al evidenței patrimoniului de afectațiune al avocaților",
+"short": "UNBR decizie-cp 212/2017",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2017-03-30",
+"latest": "2017-03-30",
+"portal": "https://unbr.ro/se-da-publicitatii-decizia-nr-212-din-30-martie-2017-a-comisiei-permanente-a-unbr-prin-care-se-infiinteaza-registrul-electronic-al-actelor-intocmite-de-avocati-si-registrul-electronic-al-evidentei-pa/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2017-212",
+"path": "profesii/unbr/hotarare-consiliu/2017/212",
+"kind": "profesii",
+"year": "2017",
+"number": "212",
+"withdrawn_by": null,
+"reason": null,
+"title": "Memorandum privind recunoașterea reciprocă transfrontalieră a formării continue a avocaților, adoptat de Consiliul Barourilor Europene (CCBE) și intrat în vigoare la 23 februarie 2017",
+"short": "UNBR hotarare-consiliu 212/2017",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2017-03-06",
+"latest": "2017-03-06",
+"portal": "https://unbr.ro/memorandum-privind-recunoasterea-reciproca-transfrontaliera-a-formarii-continue-a-avocatilor-adoptat-de-consiliul-barourilor-europene-ccbe-si-intrat-in-vigoare-la-23-februarie-2017/",
+"flags": {
+"text_missing": true,
+"text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-congres-2017-213",
+"path": "profesii/unbr/hotarare-congres/2017/213",
+"kind": "profesii",
+"year": "2017",
+"number": "213",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 213 din 18 februarie 2017 a Consiliului UNBR privind Comitetul de organizare a Congresului Avocaților 2017",
+"short": "Hotărârea nr. 213 din 18 februarie 2017 a Consiliului UNBR privind Comitetul de organizare a Congresului Avocaților 2017",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2017-02-20",
+"latest": "2017-02-20",
+"portal": "https://unbr.ro/hotararea-nr-213-din-18-februarie-2017-a-consiliului-unbr-privind-comitetul-de-organizare-a-congresului-avocatilor-2017/",
+"flags": {
+"text_missing": true,
+"text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2017-223",
+"path": "profesii/unbr/hotarare-consiliu/2017/223",
+"kind": "profesii",
+"year": "2017",
+"number": "223",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 223/23 martie 2017 prin care se aprobă Regulamentul de organizare și funcționare a comisiilor de disciplină din cadrul UNBR, prevăzut în Anexă",
+"short": "UNBR hotarare-consiliu 223/2017",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2017-03-23",
+"latest": "2017-03-23",
+"portal": "https://unbr.ro/publicam-hotararea-consiliului-unbr-nr-223-23-martie-2017-prin-care-se-aproba-regulamentul-de-organizare-si-functionare-a-comisiilor-de-disciplina-din-cadrul-unbr-prevazut-in-anexa/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2017-242",
+"path": "profesii/unbr/hotarare-consiliu/2017/242",
+"kind": "profesii",
+"year": "2017",
+"number": "242",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 242 din 17 iunie 2017 a Consiliului UNBR pentru republicarea în formă consolidată a Regulamentului - cadru privind organizarea examenului de primire în profesia de avocat",
+"short": "UNBR hotarare-consiliu 242/2017",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2017-06-21",
+"latest": "2017-06-21",
+"portal": "https://unbr.ro/hotararea-nr-242-din-17-iunie-2017-a-consiliului-unbr-pentru-republicarea-in-forma-consolidata-a-regulamentului-cadru-privind-organizarea-examenului-de-primire-in-profesia-de-avocat/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2017-243",
+"path": "profesii/unbr/hotarare-consiliu/2017/243",
+"kind": "profesii",
+"year": "2017",
+"number": "243",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 243 din 17 iunie 2017 a Consiliului UNBR privind organizarea examenului de primire în profesie - sesiunea septembrie 2017 împreună cu Anexa cuprinzând tematica și bibliografia de examen",
+"short": "UNBR hotarare-consiliu 243/2017",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2017-06-21",
+"latest": "2017-06-21",
+"portal": "https://unbr.ro/hotararea-nr-243-din-17-iunie-2017-a-consiliului-unbr-privind-organizarea-examenului-de-primire-in-profesie-sesiunea-septembrie-2017-impreuna-cu-anexa-cuprinzand-tematica-si-bibliografia-de-examen/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2017-244",
+"path": "profesii/unbr/hotarare-consiliu/2017/244",
+"kind": "profesii",
+"year": "2017",
+"number": "244",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 244 din 17 iunie 2017 a Consiliului UNBR privind repartizarea taxelor încasate la examenul de primire în profesie - sesiunea septembrie 2017",
+"short": "UNBR hotarare-consiliu 244/2017",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2017-06-21",
+"latest": "2017-06-21",
+"portal": "https://unbr.ro/hotararea-nr-244-din-17-iunie-2017-a-consiliului-unbr-privind-repartizarea-taxelor-incasate-la-examenul-de-primire-in-profesie-sesiunea-septembrie-2017/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2017-248",
+"path": "profesii/unbr/decizie-cp/2017/248",
+"kind": "profesii",
+"year": "2017",
+"number": "248",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia nr. 248/25.08.2017 a Comisiei Permanente a UNBR cu privire la activitatea Grupului de lucru constituit de Consiliul UNBR pentru inițierea și coordonarea manifestărilor dedicate aniversarii Centenarului Marii Uniri (1918-2018)",
+"short": "UNBR decizie-cp 248/2017",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2017-09-01",
+"latest": "2017-09-01",
+"portal": "https://unbr.ro/publicam-decizia-nr-24825-08-2017-a-comisiei-permanente-a-unbr-cu-privire-la-activitatea-grupului-de-lucru-constituit-de-consiliul-unbr-pentru-initierea-si-coordonarea-manifestarilor-dedicate-aniver/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2017-250",
+"path": "profesii/unbr/decizie-cp/2017/250",
+"kind": "profesii",
+"year": "2017",
+"number": "250",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Comisiei Permanente a UNBR nr. 250/2017",
+"short": "Decizia Comisiei Permanente a UNBR nr. 250/2017",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2017-09-28",
+"latest": "2017-09-28",
+"portal": "https://unbr.ro/publicam-decizia-nr-250-din-28-septembrie-2017-prin-care-cu-unanimitate-de-voturi-comisia-permanenta-a-unbr-a-decis-amanarea-intrarii-in-vigoare-a-prevederilor-art-4-8-din-hotararea-consiliului/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-congres-2017-262",
+"path": "profesii/unbr/hotarare-congres/2017/262",
+"kind": "profesii",
+"year": "2017",
+"number": "262",
+"withdrawn_by": null,
+"reason": null,
+"title": "EXTRAS al Hotărârii Consiliului UNBR nr. 262 din 17 iunie 2017 - Anexa nr. II privind repartizarea atribuțiilor către vicepreședinții UNBR pentru aducerea la îndeplinire a hotărârilor și propunerilor formulate în cadrul Congresului avocaților 2017",
+"short": "UNBR hotarare-congres 262/2017",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2018-05-23",
+"latest": "2018-05-23",
+"portal": "https://unbr.ro/publicam-extras-al-hotararii-consiliului-unbr-nr-262-din-17-iunie-2017-anexa-nr-ii-privind-repartizarea-atributiilor-catre-vicepresedintii-unbr-pentru-aducerea-la-indeplinire-a-hotararilor-si-prop/",
+"flags": {
+"text_missing": true,
+"text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2017-263",
+"path": "profesii/unbr/hotarare-consiliu/2017/263",
+"kind": "profesii",
+"year": "2017",
+"number": "263",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 263/17 iunie 2017 prin care se aprobă Regulamentul privind organizarea și funcționarea comisiilor de cenzori din sistemul Uniunii Naționale a Barourilor din România, prevăzut în Anexa",
+"short": "UNBR hotarare-consiliu 263/2017",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2017-06-17",
+"latest": "2017-06-17",
+"portal": "https://unbr.ro/publicam-hotararea-consiliului-unbr-nr-263-17-iunie-2017-prin-care-se-aproba-regulamentul-privind-organizarea-si-functionarea-comisiilor-de-cenzori-din-sistemul-uniunii-nationale-a-barourilor-din-rom/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2017-265",
+"path": "profesii/unbr/hotarare-consiliu/2017/265",
+"kind": "profesii",
+"year": "2017",
+"number": "265",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 265 din 17 iunie 2017 a Consiliului UNBR privind modificarea și completarea Hotărârea Consiliului UNBR nr. 211/18.02.2017 privind celebrarea Centenarului Marii Uniri (1918-2018)",
+"short": "UNBR hotarare-consiliu 265/2017",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2017-06-19",
+"latest": "2017-06-19",
+"portal": "https://unbr.ro/hotararea-nr-265-din-17-iunie-2017-a-consiliului-unbr-privind-modificarea-si-completarea-hotararea-consiliului-unbr-nr-21118-02-2017-privind-celebrarea-centenarului-marii-uniri-1918-2018/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2017-270",
+"path": "profesii/unbr/hotarare-consiliu/2017/270",
+"kind": "profesii",
+"year": "2017",
+"number": "270",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 270/26.08.2017 a Consiliului UNBR privind organizarea examenului de primire în profesie, sesiunea septembrie 2017",
+"short": "UNBR hotarare-consiliu 270/2017",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2017-09-01",
+"latest": "2017-09-01",
+"portal": "https://unbr.ro/publicam-hotararea-nr-27026-08-2017-a-consiliului-unbr-privind-organizarea-examenului-de-primire-in-profesie-sesiunea-septembrie-2017/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2017-271",
+"path": "profesii/unbr/hotarare-consiliu/2017/271",
+"kind": "profesii",
+"year": "2017",
+"number": "271",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 271 din 26 august 2017 prin care se aprobă Registrele Naționale ale Avocaților Români, prevăzute în Anexa la hotărâre",
+"short": "UNBR hotarare-consiliu 271/2017",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2017-09-06",
+"latest": "2017-09-06",
+"portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-271-din-26-august-2017-prin-care-se-aproba-registrele-nationale-ale-avocatilor-romani-prevazute-in-anexa-la-hotarare/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2017-272",
+"path": "profesii/unbr/hotarare-consiliu/2017/272",
+"kind": "profesii",
+"year": "2017",
+"number": "272",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 272 din 26 august 2017 prin care se aprobă „Tabloul onorariilor minimale” prevăzut în Anexă, parte integrantă din Hotărâre",
+"short": "UNBR hotarare-consiliu 272/2017",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2017-08-31",
+"latest": "2017-08-31",
+"portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-272-din-26-august-2017-prin-care-se-aproba-tabloul-onorariilor-minimale-prevazut-in-anexa-parte-integranta-din-hotarare/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2017-275",
+"path": "profesii/unbr/decizie-cp/2017/275",
+"kind": "profesii",
+"year": "2017",
+"number": "275",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 275 din 17 iunie 2017 a Consiliului UNBR prin care se ratifică Decizia Comisiei Permanente nr. 248/25.08.2017 cu privire la activitatea Grupului de lucru constituit pentru manifestărilor dedicate aniversarii Centenarului Marii Uniri",
+"short": "UNBR decizie-cp 275/2017",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2017-08-28",
+"latest": "2017-08-28",
+"portal": "https://unbr.ro/hotararea-nr-275-din-17-iunie-2017-a-consiliului-unbr-prin-care-se-ratifica-decizia-comisiei-permanente-nr-24825-08-2017-cu-privire-la-activitatea-grupului-de-lucru-constituit-pentru-manifestarilor/",
+"flags": {
+"text_missing": true,
+"text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2017-288",
+"path": "profesii/unbr/decizie-cp/2017/288",
+"kind": "profesii",
+"year": "2017",
+"number": "288",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 288 din 09 decembrie 2017 prin care se ratifică Decizia Comisiei Permanente a UNBR nr. 250/28 septembrie 2017",
+"short": "UNBR decizie-cp 288/2017",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2017-12-11",
+"latest": "2017-12-11",
+"portal": "https://unbr.ro/publicam-hotararea-consiliului-unbr-nr-288-din-09-decembrie-2017-prin-care-se-ratifica-decizia-comisiei-permanente-a-unbr-nr-250-28-septembrie-2017/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2017-289",
+"path": "profesii/unbr/hotarare-consiliu/2017/289",
+"kind": "profesii",
+"year": "2017",
+"number": "289",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 289 din 09 decembrie 2017 prin care se abrogă și respectiv se revocă unele prevederi din Hotărârea Consiliului UNBR nr. 272/26.08.2017 și din Anexa acesteia",
+"short": "UNBR hotarare-consiliu 289/2017",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2017-12-11",
+"latest": "2017-12-11",
+"portal": "https://unbr.ro/publicam-hotararea-consiliului-unbr-nr-289-din-09-decembrie-2017-prin-care-se-abroga-si-respectiv-se-revoca-unele-prevederi-din-hotararea-consiliului-unbr-nr-272-26-08-2017-si-din-anexa-acesteia/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2017-290",
+"path": "profesii/unbr/hotarare-consiliu/2017/290",
+"kind": "profesii",
+"year": "2017",
+"number": "290",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 290 din 09 decembrie 2017 privind venitul de referință",
+"short": "Hotărârea Consiliului UNBR nr. 290 din 09 decembrie 2017 privind venitul de referință",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2017-12-11",
+"latest": "2017-12-11",
+"portal": "https://unbr.ro/publicam-hotararea-consiliului-unbr-nr-290-din-09-decembrie-2017-privind-venitul-de-referinta/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2017-291",
+"path": "profesii/unbr/hotarare-consiliu/2017/291",
+"kind": "profesii",
+"year": "2017",
+"number": "291",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 291 din 09 decembrie 2017 privind valoarea punctului de pensie",
+"short": "Hotărârea Consiliului UNBR nr. 291 din 09 decembrie 2017 privind valoarea punctului de pensie",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2017-12-11",
+"latest": "2017-12-11",
+"portal": "https://unbr.ro/publicam-hotararea-consiliului-unbr-nr-291-din-09-decembrie-2017-privind-valoarea-punctului-de-pensie/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2017-292",
+"path": "profesii/unbr/hotarare-consiliu/2017/292",
+"kind": "profesii",
+"year": "2017",
+"number": "292",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 292 din 09 decembrie 2017 privind privind cuantumul ajutorului lunar pentru creșterea copilului",
+"short": "UNBR hotarare-consiliu 292/2017",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2017-12-11",
+"latest": "2017-12-11",
+"portal": "https://unbr.ro/publicam-hotararea-consiliului-unbr-nr-292-din-09-decembrie-2017-privind-privind-cuantumul-ajutorului-lunar-pentru-cresterea-copilului/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2017-293",
+"path": "profesii/unbr/hotarare-consiliu/2017/293",
+"kind": "profesii",
+"year": "2017",
+"number": "293",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 293 din 09 decembrie 2017 privind cota de contribuție lunară a filialelor la cheltuielile necesare funcționării C.A.A",
+"short": "UNBR hotarare-consiliu 293/2017",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2017-12-11",
+"latest": "2017-12-11",
+"portal": "https://unbr.ro/publicam-hotararea-consiliului-unbr-nr-293-din-09-decembrie-2017-privind-cota-de-contributie-lunara-a-filialelor-la-cheltuielile-necesare-functionarii-c-a-a/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2017-294",
+"path": "profesii/unbr/hotarare-consiliu/2017/294",
+"kind": "profesii",
+"year": "2017",
+"number": "294",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 294 din 09 decembrie 2017 privind privind cuantumul ajutorului de deces",
+"short": "Hotărârea Consiliului UNBR nr. 294 din 09 decembrie 2017 privind privind cuantumul ajutorului de deces",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2017-12-11",
+"latest": "2017-12-11",
+"portal": "https://unbr.ro/publicam-hotararea-consiliului-unbr-nr-294-din-09-decembrie-2017-privind-privind-cuantumul-ajutorului-de-deces/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2017-295",
+"path": "profesii/unbr/hotarare-consiliu/2017/295",
+"kind": "profesii",
+"year": "2017",
+"number": "295",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 295 din 09 decembrie 2017 privind cotele de contribuție la sistemul C.A.A",
+"short": "Hotărârea Consiliului UNBR nr. 295 din 09 decembrie 2017 privind cotele de contribuție la sistemul C.A.A",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2017-12-11",
+"latest": "2017-12-11",
+"portal": "https://unbr.ro/publicam-hotararea-consiliului-unbr-nr-295-din-09-decembrie-2017-privind-cotele-de-contributie-la-sistemul-c-a-a/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2017-296",
+"path": "profesii/unbr/hotarare-consiliu/2017/296",
+"kind": "profesii",
+"year": "2017",
+"number": "296",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 296 din 09 decembrie 2017 privind programul de activități al organelor colective de conducere a profesiei de avocat organizate la nivel național în anul 2018",
+"short": "UNBR hotarare-consiliu 296/2017",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2017-12-11",
+"latest": "2017-12-11",
+"portal": "https://unbr.ro/publicam-hotararea-consiliului-unbr-nr-290-din-09-decembrie-2017-privind-programul-de-activitati-al-organelor-colective-de-conducere-a-profesiei-de-avocat-organizate-la-nivel-national-in-anul-2018/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-congres-2017-299",
+"path": "profesii/unbr/hotarare-congres/2017/299",
+"kind": "profesii",
+"year": "2017",
+"number": "299",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 299 din 09 decembrie 2017 prin care înființează un grup de lucru în cadrul UNBR, având ca sarcină pregătirea tematică a Congresului Avocaților 2018",
+"short": "UNBR hotarare-congres 299/2017",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2018-01-18",
+"latest": "2018-01-18",
+"portal": "https://unbr.ro/publicam-hotararea-consiliului-unbr-nr-299-din-09-decembrie-2017-prin-care-infiinteaza-un-grup-de-lucru-in-cadrul-unbr-avand-ca-sarcina-pregatirea-tematica-a-congresului-avocatilor-2018/",
+"flags": {
+"text_missing": true,
+"text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2017-300",
+"path": "profesii/unbr/hotarare-consiliu/2017/300",
+"kind": "profesii",
+"year": "2017",
+"number": "300",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 300 din 09 decembrie 2017 prin care se aprobă achiziția de către UNBR a unui număr de 1000 exemplare a lucrării „Contribuția avocaților la Marea Unire”",
+"short": "UNBR hotarare-consiliu 300/2017",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2017-12-18",
+"latest": "2017-12-18",
+"portal": "https://unbr.ro/publicam-hotararea-consiliului-unbr-nr-300-din-09-decembrie-2017-prin-care-se-aproba-achizitia-de-catre-unbr-a-unui-numar-de-1000-exemplare-a-lucrarii-contributia-avocatilor-la-marea-unire/",
+"flags": {
+"text_missing": true,
+"text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2017-301",
+"path": "profesii/unbr/hotarare-consiliu/2017/301",
+"kind": "profesii",
+"year": "2017",
+"number": "301",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 301 din 09 decembrie 2017 privind problematica incompatibilităților în sistemul organelor de conducere a profesiei de avocat și în cadrul instituțiilor care își desfășoară activitatea în cadrul U.N.B.R",
+"short": "UNBR hotarare-consiliu 301/2017",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2017-12-20",
+"latest": "2017-12-20",
+"portal": "https://unbr.ro/publicam-hotararea-consiliului-unbr-nr-301-din-09-decembrie-2017-privind-problematica-incompatibilitatilor-in-sistemul-organelor-de-conducere-a-profesiei-de-avocat-si-in-cadrul-institutiilor-care-isi/",
+"flags": {
+"amendments_checked": false
+}
+}
+]
+}

@@ -1,0 +1,453 @@
+{
+"country": "RO",
+"shard": "profesii/2014",
+"acts": [
+{
+"slug": "profesii-inppa-act-2014-p822",
+"path": "profesii/inppa/act/2014/p822",
+"kind": "profesii",
+"year": "2014",
+"number": "p822",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului de Conducere al INPPA privind începerea anului I de pregătire profesională iniţială",
+"short": "Hotărârea Consiliului de Conducere al INPPA privind începerea anului I de pregătire profesională iniţială",
+"code": null,
+"status": "metadata only (text not held yet)",
+"versions": 1,
+"from": "2014-05-24",
+"latest": "2014-05-24",
+"portal": "https://inppa.ro/%e2%80%a2-publicam-hotararea-consiliului-de-conducere-al-inppa-privind-inceperea-anului-i-de-pregatire-profesionala-initiala/",
+"flags": {
+"text_missing": true,
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-inppa-hotarare-consiliu-2014-60-2",
+"path": "profesii/inppa/hotarare-consiliu/2014/60-2",
+"kind": "profesii",
+"year": "2014",
+"number": "60-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 60 a Consiliului de Conducere al INPPA privind aprobarea profilului formatorului în cadrul I.N.P.P.A",
+"short": "Hotărârea nr. 60 a Consiliului de Conducere al INPPA privind aprobarea profilului formatorului în cadrul I.N.P.P.A",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2014-12-17",
+"latest": "2014-12-17",
+"portal": "https://inppa.ro/hotararea-nr-60-a-consiliului-de-conducere-al-inppa-privind-aprobarea-profilului-formatorului-in-cadrul-i-n-p-p-a/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-congres-2014-7",
+"path": "profesii/unbr/hotarare-congres/2014/7",
+"kind": "profesii",
+"year": "2014",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRI şi REZOLUŢII adoptate de Congresul Avocaţilor, 28 - 29 martie 2014, Bucureşti",
+"short": "HOTĂRÂRI şi REZOLUŢII adoptate de Congresul Avocaţilor, 28 - 29 martie 2014, Bucureşti",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2014-04-09",
+"latest": "2014-04-09",
+"portal": "https://unbr.ro/hotarari-si-rezolutii-adoptate-de-congresul-avocatilor-28-29-martie-2014-bucuresti/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-inppa-hotarare-consiliu-2014-40",
+"path": "profesii/inppa/hotarare-consiliu/2014/40",
+"kind": "profesii",
+"year": "2014",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 40 din 20 februarie 2014 a Consiliului de Conducere al INPPA",
+"short": "Hotărârea nr. 40 din 20 februarie 2014 a Consiliului de Conducere al INPPA",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2014-02-20",
+"latest": "2014-02-20",
+"portal": "https://inppa.ro/%e2%80%a2-hotararea-nr-40-din-20-februarie-2014-a-consiliului-de-conducere-al-inppa/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-inppa-hotarare-consiliu-2014-52",
+"path": "profesii/inppa/hotarare-consiliu/2014/52",
+"kind": "profesii",
+"year": "2014",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului de Conducere nr. 52 din 23 mai 2014, privind recunoasterea probelor orale in cadrul Examenului de absolvire a INPPA",
+"short": "INPPA hotarare-consiliu 52/2014",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2014-07-17",
+"latest": "2014-07-17",
+"portal": "https://inppa.ro/publicam-hotarea-consiliului-de-conducere-nr-52-din-23-mai-2014-privind-recunoasterea-probelor-orale-in-cadrul-examenului-de-absolvire-a-inppa/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-inppa-hotarare-consiliu-2014-53",
+"path": "profesii/inppa/hotarare-consiliu/2014/53",
+"kind": "profesii",
+"year": "2014",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotararea Consiliului de Conducere nr. 53 din 23 mai 2014, privind adoptarea modelului caietului de lucrari profesionale pentru anul II de pregatire profesionala initiala",
+"short": "INPPA hotarare-consiliu 53/2014",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2014-07-17",
+"latest": "2014-07-17",
+"portal": "https://inppa.ro/publicam-hotararea-consiliului-de-conducere-nr-53-din-23-mai-2014-privind-adoptarea-modelului-caietului-de-lucrari-profesionale-pentru-anul-ii-de-pregatire-profesionala-initiala/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-inppa-hotarare-consiliu-2014-55",
+"path": "profesii/inppa/hotarare-consiliu/2014/55",
+"kind": "profesii",
+"year": "2014",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotararea Consiliului de Conducere nr. 55 din 02 octombrie 2014, privind Examenul de absolvire pentru avocaţii stagiari aflaţi în anul II de pregătire profesională iniţială",
+"short": "INPPA hotarare-consiliu 55/2014",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2014-10-02",
+"latest": "2014-10-02",
+"portal": "https://inppa.ro/publicam-hotararea-consiliului-de-conducere-nr-55-din-02-octombrie-2014-privind-examenul-de-absolvire-pentru-avocatii-stagiari-aflati-in-anul-ii-de-pregatire-profesionala-initiala/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-inppa-hotarare-consiliu-2014-60",
+"path": "profesii/inppa/hotarare-consiliu/2014/60",
+"kind": "profesii",
+"year": "2014",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 60 din 12 decembrie 2014 a Consiliului de Conducere al INPPA privind aprobarea profilului formatorului în cadrul INPPA",
+"short": "INPPA hotarare-consiliu 60/2014",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2014-12-16",
+"latest": "2014-12-16",
+"portal": "https://inppa.ro/hotararea-nr-60-din-12-decembrie-2014-a-consiliului-de-conducere-al-inppa-privind-aprobarea-profilului-formatorului-in-cadrul-inppa/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2014-96",
+"path": "profesii/unbr/decizie-cp/2014/96",
+"kind": "profesii",
+"year": "2014",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia nr. 96/31.01.2014 a Comisiei Permanente a U.N.B.R",
+"short": "Decizia nr. 96/31.01.2014 a Comisiei Permanente a U.N.B.R",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2014-02-04",
+"latest": "2014-02-04",
+"portal": "https://unbr.ro/%e2%97%8f-decizia-nr-9631-01-2014-a-comisiei-permanente-a-u-n-b-r/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2014-113",
+"path": "profesii/unbr/decizie-cp/2014/113",
+"kind": "profesii",
+"year": "2014",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia nr. 113/23.05.2014 a Comisiei Permanente a U.N.B.R",
+"short": "Decizia nr. 113/23.05.2014 a Comisiei Permanente a U.N.B.R",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2014-06-02",
+"latest": "2014-06-02",
+"portal": "https://unbr.ro/decizia-nr-11323-05-2014-a-comisiei-permanente-a-u-n-b-r/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2014-119",
+"path": "profesii/unbr/decizie-cp/2014/119",
+"kind": "profesii",
+"year": "2014",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia nr. 119/23.05.2014 a Comisiei Permanente a U.N.B.R. privind organizarea Examenul de verificare a cunoştinţelor de drept românesc şi de limbă română pentru avocaţii străini care doresc să acorde consultanţă juridică în dreptul românesc",
+"short": "UNBR decizie-cp 119/2014",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2014-07-29",
+"latest": "2014-07-29",
+"portal": "https://unbr.ro/decizia-nr-11923-05-2014-a-comisiei-permanente-a-u-n-b-r/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2014-128",
+"path": "profesii/unbr/decizie-cp/2014/128",
+"kind": "profesii",
+"year": "2014",
+"number": "128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia nr. 128/08.07.2014 a Comisiei Permanente a U.N.B.R. prin care se aprobă Regulamentul examenului de primire în profesia de avocat, adaptat în conformitate cu prevederile Hotărârii nr. 962/24.05.2014 a Consiliului U.N.B.R",
+"short": "UNBR decizie-cp 128/2014",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2014-07-08",
+"latest": "2014-07-08",
+"portal": "https://unbr.ro/decizia-nr-12808-07-2014-a-comisiei-permanente-a-u-n-b-r-prin-care-se-aproba-regulamentul-examenului-de-primire-in-profesia-de-avocat-adaptat-in-conformitate-cu-prevederile-hotararii-nr-96224-05/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2014-146",
+"path": "profesii/unbr/decizie-cp/2014/146",
+"kind": "profesii",
+"year": "2014",
+"number": "146",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia nr. 146/05.09.2014 a Comisiei Permanente a U.N.B.R. privind înscrierea la examen a candidaţilor care au depus cereri de înscriere la examenul de primire în profesia de avocat, sesiunea septembrie 2014",
+"short": "UNBR decizie-cp 146/2014",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2014-09-09",
+"latest": "2014-09-09",
+"portal": "https://unbr.ro/decizia-nr-14604-05-2014-a-comisiei-permanente-a-u-n-b-r-privind-inscrierea-la-examen-a-candidatilor-care-au-depus-cereri-de-inscriere-la-examenul-de-primire-in-profesia-de-avocat-sesiunea-septemb/",
+"flags": {
+"text_missing": true,
+"text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2014-886",
+"path": "profesii/unbr/hotarare-consiliu/2014/886",
+"kind": "profesii",
+"year": "2014",
+"number": "886",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 886 din 27 martie 2014 a Consiliului U.N.B.R. prin care se aprobă Planul de învăţământ al Institutului Naţional pentru Pregătirea şi Perfecţionarea Avocaţilor",
+"short": "UNBR hotarare-consiliu 886/2014",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2014-03-31",
+"latest": "2014-03-31",
+"portal": "https://unbr.ro/%e2%97%8f-hotararea-nr-886-din-27-martie-2014-a-consiliului-u-n-b-r/",
+"flags": {
+"text_missing": true,
+"text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2014-961",
+"path": "profesii/unbr/hotarare-consiliu/2014/961",
+"kind": "profesii",
+"year": "2014",
+"number": "961",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 961 din 27 martie 2014 a Consiliului U.N.B.R",
+"short": "Hotărârea nr. 961 din 27 martie 2014 a Consiliului U.N.B.R",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2014-04-15",
+"latest": "2014-04-15",
+"portal": "https://unbr.ro/%e2%97%8f-hotararea-nr-961-din-27-martie-2014-a-consiliului-u-n-b-r/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2014-962",
+"path": "profesii/unbr/hotarare-consiliu/2014/962",
+"kind": "profesii",
+"year": "2014",
+"number": "962",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 962 din 24 mai 2014 a Consiliului U.N.B.R",
+"short": "Hotărârea nr. 962 din 24 mai 2014 a Consiliului U.N.B.R",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2014-06-03",
+"latest": "2014-06-03",
+"portal": "https://unbr.ro/%e2%97%8f-hotararea-nr-962-din-24-mai-2014-a-consiliului-u-n-b-r/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2014-965",
+"path": "profesii/unbr/hotarare-consiliu/2014/965",
+"kind": "profesii",
+"year": "2014",
+"number": "965",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 965 din 24 mai 2014 a Consiliului U.N.B.R. prin care se aprobă efectuarea unui audit la CAA şi la filialele acesteia, având ca obiectiv identificarea resurselor financiare reale de care dispune sistemul CAA printr-un management eficient, dinamica veniturilor şi evoluţia cheltuielilor sistemului CAA",
+"short": "UNBR hotarare-consiliu 965/2014",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2014-06-27",
+"latest": "2014-06-27",
+"portal": "https://unbr.ro/%e2%97%8f-hotararea-nr-965-din-24-mai-2014-a-consiliului-u-n-b-r-prin-care-se-aproba-efectuarea-unui-audit-la-caa-si-la-filialele-acesteia-avand-ca-obiectiv-identificarea-resurselor-financiare-real/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2014-966",
+"path": "profesii/unbr/hotarare-consiliu/2014/966",
+"kind": "profesii",
+"year": "2014",
+"number": "966",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 966 din 24 mai 2014 a Consiliului U.N.B.R. privind completarea Statutului profesiei de avocat, adoptat prin Hotărârea Consiliului Uniunii Naţionale a Barourilor din România nr. 64/2011",
+"short": "UNBR hotarare-consiliu 966/2014",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2014-06-27",
+"latest": "2014-06-27",
+"portal": "https://unbr.ro/%e2%97%8f-hotararea-nr-966-din-24-mai-2014-a-consiliului-u-n-b-r-privind-completarea-statutului-profesiei-de-avocat-adoptat-prin-hotararea-consiliului-uniunii-nationale-a-barourilor-din-romania-nr/",
+"flags": {
+"text_missing": true,
+"text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-consiliu-2014-1008",
+"path": "profesii/unbr/decizie-consiliu/2014/1008",
+"kind": "profesii",
+"year": "2014",
+"number": "1008",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIA NR. 1008/24.05.2014",
+"short": "DECIZIA NR. 1008/24.05.2014",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2014-05-24",
+"latest": "2014-05-24",
+"portal": "https://unbr.ro/decizia-nr-1008-24-05-2014/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-congres-2014-1010",
+"path": "profesii/unbr/hotarare-congres/2014/1010",
+"kind": "profesii",
+"year": "2014",
+"number": "1010",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 1010 din 24 mai 2014 a Consiliului U.N.B.R. prin care se aprobă modificarea şi completarea Hotărârii nr. 884/14 decembrie 2013 privind calendarul desfăşurării şedinţelor Comisiei Permanente a U.N.B.R. şi ale Consiliului U.N.B.R., Congresul avocaţilor 2014 (la Bucureşti), data începerii examenului de primire în profesia de avocat şi data începerii examenului de absolvire a cursurilor INPPA, în anul 2014",
+"short": "UNBR hotarare-congres 1010/2014",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2014-06-27",
+"latest": "2014-06-27",
+"portal": "https://unbr.ro/%e2%97%8f-hotararea-nr-1010-din-24-mai-2014-a-consiliului-u-n-b-r-prin-care-se-aproba-modificarea-si-completarea-hotararii-nr-88414-decembrie-2013-privind-calendarul-desfasurarii-sedintelor-comisi/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2014-1010",
+"path": "profesii/unbr/hotarare-consiliu/2014/1010",
+"kind": "profesii",
+"year": "2014",
+"number": "1010",
+"withdrawn_by": null,
+"reason": null,
+"title": "ANUNȚ - Uniunea Naţională a Barourilor din România anunţă organizarea examenului de primire în profesia de avocat (pentru dobândirea titlului profesional de avocat stagiar) şi de primire în profesia de avocat a persoanelor care au absolvit examenul de definitivat în alte profesii juridice, sesiunea septembrie 2014",
+"short": "UNBR hotarare-consiliu 1010/2014",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2014-07-11",
+"latest": "2014-07-11",
+"portal": "https://unbr.ro/anunt-uniunea-nationala-a-barourilor-din-romania-anunta-organizarea-examenului-de-primire-in-profesia-de-avocat-pentru-dobandirea-titlului-profesional-de-avocat-stagiar-si-de-primire-in-profesia-d/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2014-1033",
+"path": "profesii/unbr/hotarare-consiliu/2014/1033",
+"kind": "profesii",
+"year": "2014",
+"number": "1033",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 1033 din 13 decembrie 2014 a Consiliului U.N.B.R",
+"short": "Hotărârea nr. 1033 din 13 decembrie 2014 a Consiliului U.N.B.R",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2014-12-15",
+"latest": "2014-12-15",
+"portal": "https://unbr.ro/hotararea-nr-1033-din-13-decembrie-2014-a-consiliului-u-n-b-r/",
+"flags": {
+"amendments_checked": false
+}
+}
+]
+}

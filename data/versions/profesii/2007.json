@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "profesii/2007",
+ "acts": [
+  {
+   "slug": "profesii-unbr-decizie-2007-1484",
+   "path": "profesii/unbr/decizie/2007/1484",
+   "short": "UNBR decizie 1484/2007",
+   "title": "DECIZIA NR. 1484/27 octombrie 2007 prin care se aprobă modelul cererii de solicitare a accesului la profesia de avocat şi modelul AVIZULUI CONFORM pentru atestarea calificării de avocat pentru înscrierea în tabloul unui barou din România;",
+   "url": "https://unbr.ro/decizia-nr-148427-octombrie-2007-prin-care-se-aproba-modelul-cererii-de-solicitare-a-accesului-la-profesia-de-avocat-si-modelul-avizului-conform-pentru-atestarea-calificarii-de-avocat-pentru-inscrie/",
+   "versions": [
+    {
+     "from": "2007-10-27",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-nr-148427-octombrie-2007-prin-care-se-aproba-modelul-cererii-de-solicitare-a-accesului-la-profesia-de-avocat-si-modelul-avizului-conform-pentru-atestarea-calificarii-de-avocat-pentru-inscrie/",
+     "sha256": "6c185f5077a24bf96687eaa7be3141f6a7630dabbc97d3f1234d2f72a3d5eb33"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-consiliu-2007-268",
+   "path": "profesii/unbr/decizie-consiliu/2007/268",
+   "short": "DECIZIA NR. 268 a Consiliului Uniunii Naţionale a Barourilor din România din 22 septembrie 2007",
+   "title": "DECIZIA NR. 268 a Consiliului Uniunii Naţionale a Barourilor din România din 22 septembrie 2007",
+   "url": "https://unbr.ro/decizia-nr-268-a-consiliului-uniunii-nationale-a-barourilor-din-romania-din-22-septembrie-2007/",
+   "versions": [
+    {
+     "from": "2007-09-22",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-nr-268-a-consiliului-uniunii-nationale-a-barourilor-din-romania-din-22-septembrie-2007/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2007-1488",
+   "path": "profesii/unbr/decizie-cp/2007/1488",
+   "short": "UNBR decizie-cp 1488/2007",
+   "title": "DECIZIA NR. 1488/27 octombrie 2007 privind coordonarea activităţilor de conducere executivă curentă realizate de Comisia Permanentă",
+   "url": "https://unbr.ro/decizia-nr-148827-octombrie-2007-privind-coordonarea-activitatilor-de-conducere-executiva-curenta-realizate-de-comisia-permanenta/",
+   "versions": [
+    {
+     "from": "2007-10-27",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-nr-148827-octombrie-2007-privind-coordonarea-activitatilor-de-conducere-executiva-curenta-realizate-de-comisia-permanenta/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2007-1489",
+   "path": "profesii/unbr/decizie-cp/2007/1489",
+   "short": "UNBR decizie-cp 1489/2007",
+   "title": "DECIZIA NR. 1489/27 octombrie 2007 prin care se aprobă principiile reorganizării examenului pentru dobândirea titlului profesional de avocat definitiv",
+   "url": "https://unbr.ro/decizia-nr-148927-octombrie-2007-prin-care-se-aproba-principiile-reorganizarii-examenului-pentru-dobandirea-titlului-profesional-de-avocat-definitiv/",
+   "versions": [
+    {
+     "from": "2007-10-27",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-nr-148927-octombrie-2007-prin-care-se-aproba-principiile-reorganizarii-examenului-pentru-dobandirea-titlului-profesional-de-avocat-definitiv/",
+     "sha256": "5645aa231f96f1c8fd5e0ae65fed62254f5a93a89e8b8083bc0359ab8309ba5a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2007-1490",
+   "path": "profesii/unbr/decizie-cp/2007/1490",
+   "short": "UNBR decizie-cp 1490/2007",
+   "title": "DECIZIA NR. 1490 privind adoptarea Regulamentului - cadru cuprinzând măsurile ce se vor lua în vederea arhivării documentelor create sau deţinute de Uniunea Naţională a Barourilor din România, Barouri, Casa de Asigurări a Avocaţilor şi Institutul Naţional pentru Pregătirea şi Perfecţionarea Avocaţilor",
+   "url": "https://unbr.ro/decizia-nr-1490-privind-adoptarea-regulamentului-cadru-cuprinzand-masurile-ce-se-vor-lua-in-vederea-arhivarii-documentelor-create-sau-detinute-de-uniunea-nationala-a-barourilor-din-romania/",
+   "versions": [
+    {
+     "from": "2007-12-14",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-nr-1490-privind-adoptarea-regulamentului-cadru-cuprinzand-masurile-ce-se-vor-lua-in-vederea-arhivarii-documentelor-create-sau-detinute-de-uniunea-nationala-a-barourilor-din-romania/",
+     "sha256": "9c08d25ee14f014d46d0ddef16a296292ac3aa24626ff4d444d90b004eaa89a8"
+    }
+   ]
+  }
+ ]
+}

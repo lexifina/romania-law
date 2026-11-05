@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "profesii/2010",
+ "acts": [
+  {
+   "slug": "profesii-unbr-decizie-cp-2010-110",
+   "path": "profesii/unbr/decizie-cp/2010/110",
+   "short": "Decizia nr. 110 din 22 ianuarie 2010 a Comisiei Permanente a U.N.B.R",
+   "title": "Decizia nr. 110 din 22 ianuarie 2010 a Comisiei Permanente a U.N.B.R",
+   "url": "https://unbr.ro/decizia-nr-110-din-22-ianuarie-2010-a-comisiei-permanente-a-u-n-b-r/",
+   "versions": [
+    {
+     "from": "2010-01-22",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-nr-110-din-22-ianuarie-2010-a-comisiei-permanente-a-u-n-b-r/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2010-112",
+   "path": "profesii/unbr/decizie-cp/2010/112",
+   "short": "Decizia nr. 112 a Comisiei Permanente a UNBR",
+   "title": "Decizia nr. 112 a Comisiei Permanente a UNBR",
+   "url": "https://unbr.ro/decizia-nr-112-a-comisiei-permanente-a-unbr/",
+   "versions": [
+    {
+     "from": "2010-01-22",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-nr-112-a-comisiei-permanente-a-unbr/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2010-113",
+   "path": "profesii/unbr/decizie-cp/2010/113",
+   "short": "Decizia nr. 113 din 22 ianuarie 2010 a Comisiei Permanente a U.N.B.R",
+   "title": "Decizia nr. 113 din 22 ianuarie 2010 a Comisiei Permanente a U.N.B.R",
+   "url": "https://unbr.ro/decizia-nr-113-din-22-ianuarie-2010-a-comisiei-permanente-a-u-n-b-r/",
+   "versions": [
+    {
+     "from": "2010-01-22",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-nr-113-din-22-ianuarie-2010-a-comisiei-permanente-a-u-n-b-r/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2010-114",
+   "path": "profesii/unbr/decizie-cp/2010/114",
+   "short": "Decizia nr. 114 din 22 ianuarie 2010 a Comisiei Permanente a U.N.B.R",
+   "title": "Decizia nr. 114 din 22 ianuarie 2010 a Comisiei Permanente a U.N.B.R",
+   "url": "https://unbr.ro/decizia-nr-114-din-22-ianuarie-2010-a-comisiei-permanente-a-u-n-b-r/",
+   "versions": [
+    {
+     "from": "2010-01-22",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-nr-114-din-22-ianuarie-2010-a-comisiei-permanente-a-u-n-b-r/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-presedinte-2010-55",
+   "path": "profesii/unbr/decizie-presedinte/2010/55",
+   "short": "Decizia nr. 55 din 02 noiembrie 2010 a Preşedintelui UNBR",
+   "title": "Decizia nr. 55 din 02 noiembrie 2010 a Preşedintelui UNBR",
+   "url": "https://unbr.ro/decizia-nr-55-din-02-noiembrie-2010-a-presedintelui-unbr/",
+   "versions": [
+    {
+     "from": "2010-11-02",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-nr-55-din-02-noiembrie-2010-a-presedintelui-unbr/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2010-718",
+   "path": "profesii/unbr/hotarare-consiliu/2010/718",
+   "short": "Hotararea nr. 718 din 20 martie 2010 a Consiliului UNBR",
+   "title": "Hotararea nr. 718 din 20 martie 2010 a Consiliului UNBR",
+   "url": "https://unbr.ro/hotararea-nr-718-din-20-martie-2010-a-consiliului-unbr/",
+   "versions": [
+    {
+     "from": "2010-03-20",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-nr-718-din-20-martie-2010-a-consiliului-unbr/",
+     "sha256": "6736234365dd846389ef4316de6e89ff14cb56946f8fbee46d35e9dda52a089b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2010-725",
+   "path": "profesii/unbr/hotarare-consiliu/2010/725",
+   "short": "UNBR hotarare-consiliu 725/2010",
+   "title": "Hotărârea Consiliului UNBR nr. 725 din 20 martie 2010 privind stabilirea unei proceduri unice la nivel naţional pentru tipărirea, înserierea şi distribuirea imprimatelor tipizate",
+   "url": "https://unbr.ro/hotararea-consiliului-unbr-nr-725-din-20-martie-2010-privind-stabilirea-unei-proceduri-unice-la-nivel-national-pentru-tiparirea-inserierea-si-distribuirea-imprimatelor-tipizate/",
+   "versions": [
+    {
+     "from": "2010-03-22",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-consiliului-unbr-nr-725-din-20-martie-2010-privind-stabilirea-unei-proceduri-unice-la-nivel-national-pentru-tiparirea-inserierea-si-distribuirea-imprimatelor-tipizate/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2010-843",
+   "path": "profesii/unbr/hotarare-consiliu/2010/843",
+   "short": "ANUNŢ",
+   "title": "ANUNŢ",
+   "url": "https://unbr.ro/anunt/",
+   "versions": [
+    {
+     "from": "2010-09-11",
+     "units": 1,
+     "source_url": "https://unbr.ro/anunt/",
+     "sha256": "1f483dbe86fe9f1e3aeeb1a6ac39cf87958c58e7b652004d4c49c5bf23534459"
+    }
+   ]
+  }
+ ]
+}

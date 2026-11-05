@@ -1,0 +1,381 @@
+{
+ "country": "RO",
+ "shard": "profesii/2013",
+ "acts": [
+  {
+   "slug": "profesii-inppa-hotarare-consiliu-2013-17",
+   "path": "profesii/inppa/hotarare-consiliu/2013/17",
+   "short": "Hotararea nr. 17 privind adoptarea modelului caietului de lucrari profesionale pentru anul II de pregatire initiala",
+   "title": "Hotararea nr. 17 privind adoptarea modelului caietului de lucrari profesionale pentru anul II de pregatire initiala",
+   "url": "https://inppa.ro/hotararea-nr-17/",
+   "versions": [
+    {
+     "from": "2013-01-25",
+     "units": 1,
+     "source_url": "https://inppa.ro/hotararea-nr-17/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-inppa-hotarare-consiliu-2013-21",
+   "path": "profesii/inppa/hotarare-consiliu/2013/21",
+   "short": "Hotararea nr. 21 privind aprobarea modelului de aviz conform pentru transferul dintr-un centru in altul",
+   "title": "Hotararea nr. 21 privind aprobarea modelului de aviz conform pentru transferul dintr-un centru in altul",
+   "url": "https://inppa.ro/hotararea-nr-21/",
+   "versions": [
+    {
+     "from": "2013-01-25",
+     "units": 1,
+     "source_url": "https://inppa.ro/hotararea-nr-21/",
+     "sha256": "fd150defd43e7ce227b05e9eb9642e7f93e0e74a832c2b9b6837856313e9069a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-inppa-hotarare-consiliu-2013-22",
+   "path": "profesii/inppa/hotarare-consiliu/2013/22",
+   "short": "INPPA hotarare-consiliu 22/2013",
+   "title": "Hotararea nr. 22 privind calificativele obtinute de avocalii stagiari care au sustinut examen de absolvire in sesiuni anterioare de examen organizate de INPPA si care au promovat exclusiv proba orala",
+   "url": "https://inppa.ro/hotararea-nr-22/",
+   "versions": [
+    {
+     "from": "2013-01-25",
+     "units": 1,
+     "source_url": "https://inppa.ro/hotararea-nr-22/",
+     "sha256": "ec9461873d07bdd127c8d44d380192f83ccd7a4524922062bf7c07c293f09bd0"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-inppa-hotarare-consiliu-2013-30",
+   "path": "profesii/inppa/hotarare-consiliu/2013/30",
+   "short": "Hotărârea nr. 30 privind Examenul de absolvire a cursurilor de pregătire profesională iniţială",
+   "title": "Hotărârea nr. 30 privind Examenul de absolvire a cursurilor de pregătire profesională iniţială",
+   "url": "https://inppa.ro/hotararea-nr-30-privind-examenul-de-absolvire-a-cursurilor-de-pregatire-profesionala-initiala-2/",
+   "versions": [
+    {
+     "from": "2013-11-26",
+     "units": 1,
+     "source_url": "https://inppa.ro/hotararea-nr-30-privind-examenul-de-absolvire-a-cursurilor-de-pregatire-profesionala-initiala-2/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-2013-745",
+   "path": "profesii/unbr/decizie/2013/745",
+   "short": "DECIZIA NR. 745/29.06.2013",
+   "title": "DECIZIA NR. 745/29.06.2013",
+   "url": "https://unbr.ro/decizia-nr-74529-06-2013/",
+   "versions": [
+    {
+     "from": "2013-06-28",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-nr-74529-06-2013/",
+     "sha256": "607de1ed3fdf88785c8a91ec8f5531d90823dd87c2e727d87a4fcfc4659d92b2"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-2013-746",
+   "path": "profesii/unbr/decizie/2013/746",
+   "short": "DECIZIA NR. 746/29.06.2013",
+   "title": "DECIZIA NR. 746/29.06.2013",
+   "url": "https://unbr.ro/decizia-nr-74629-06-2013/",
+   "versions": [
+    {
+     "from": "2013-06-29",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-nr-74629-06-2013/",
+     "sha256": "f6095a551c81928e5a0c5316500741f4dff5da9e94e5a98c351c75c3b890ffc7"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-2013-747",
+   "path": "profesii/unbr/decizie/2013/747",
+   "short": "DECIZIA NR. 747/29.06.2013",
+   "title": "DECIZIA NR. 747/29.06.2013",
+   "url": "https://unbr.ro/decizia-nr-74729-06-2013/",
+   "versions": [
+    {
+     "from": "2013-06-29",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-nr-74729-06-2013/",
+     "sha256": "5985ee04256705966e6e141db68d0ba2858d056f9aaf135f66ef2c56d6ead6a6"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-2013-773",
+   "path": "profesii/unbr/decizie/2013/773",
+   "short": "DECIZIA NR. 773/26.10.2013",
+   "title": "DECIZIA NR. 773/26.10.2013",
+   "url": "https://unbr.ro/decizia-nr-77326-10-2013/",
+   "versions": [
+    {
+     "from": "2013-11-28",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-nr-77326-10-2013/",
+     "sha256": "f0f80aa5c586db473adb708e78867e230c86fa7caa6a39ff2234b6e147814a0e"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2013-62",
+   "path": "profesii/unbr/decizie-cp/2013/62",
+   "short": "Decizia nr. 62 din 28 iunie 2013 a Comisiei Permanente a U.N.B.R",
+   "title": "Decizia nr. 62 din 28 iunie 2013 a Comisiei Permanente a U.N.B.R",
+   "url": "https://unbr.ro/decizia-nr-62-din-28-iunie-2013-a-comisiei-permanente-a-u-n-b-r/",
+   "versions": [
+    {
+     "from": "2013-06-28",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-nr-62-din-28-iunie-2013-a-comisiei-permanente-a-u-n-b-r/",
+     "sha256": "dc948b3f53dbcc6eb598c9dec393bb557a13b14cb2047bdf5c97a33b9b528c11"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2013-63",
+   "path": "profesii/unbr/decizie-cp/2013/63",
+   "short": "Decizia nr. 63 din 29 august 2013 a Comisiei Permanente a U.N.B.R",
+   "title": "Decizia nr. 63 din 29 august 2013 a Comisiei Permanente a U.N.B.R",
+   "url": "https://unbr.ro/%e2%97%8f-decizia-nr-63-din-29-august-2013-a-comisiei-permanente-a-u-n-b-r/",
+   "versions": [
+    {
+     "from": "2013-09-03",
+     "units": 1,
+     "source_url": "https://unbr.ro/%e2%97%8f-decizia-nr-63-din-29-august-2013-a-comisiei-permanente-a-u-n-b-r/",
+     "sha256": "dc948b3f53dbcc6eb598c9dec393bb557a13b14cb2047bdf5c97a33b9b528c11"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2013-79",
+   "path": "profesii/unbr/decizie-cp/2013/79",
+   "short": "Decizia nr. 79/06.09.2013 a Comisiei Permanente a U.N.B.R",
+   "title": "Decizia nr. 79/06.09.2013 a Comisiei Permanente a U.N.B.R",
+   "url": "https://unbr.ro/decizia-nr-7906-09-2013-a-comisiei-permanente-a-u-n-b-r/",
+   "versions": [
+    {
+     "from": "2013-09-06",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-nr-7906-09-2013-a-comisiei-permanente-a-u-n-b-r/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2013-81",
+   "path": "profesii/unbr/decizie-cp/2013/81",
+   "short": "Decizia nr. 81/25.10.2013 a Comisiei Permanente a U.N.B.R",
+   "title": "Decizia nr. 81/25.10.2013 a Comisiei Permanente a U.N.B.R",
+   "url": "https://unbr.ro/%e2%97%8f-decizia-nr-8125-10-2013-a-comisiei-permanente-a-u-n-b-r-2/",
+   "versions": [
+    {
+     "from": "2013-10-25",
+     "units": 1,
+     "source_url": "https://unbr.ro/%e2%97%8f-decizia-nr-8125-10-2013-a-comisiei-permanente-a-u-n-b-r-2/",
+     "sha256": "b7e28aceb4ad812fb81ea6074da3d6fddec5334c26f904566967a5cd62880873"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-cne-2013-24",
+   "path": "profesii/unbr/hotarare-cne/2013/24",
+   "short": "Hotărârea nr. 24/05.10.2013 a Comisiei Naţionale de Examen",
+   "title": "Hotărârea nr. 24/05.10.2013 a Comisiei Naţionale de Examen",
+   "url": "https://unbr.ro/hotararea-nr-2405-10-2013-a-comisiei-nationale-de-examen/",
+   "versions": [
+    {
+     "from": "2013-10-23",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-nr-2405-10-2013-a-comisiei-nationale-de-examen/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-cne-2013-4",
+   "path": "profesii/unbr/hotarare-cne/2013/4",
+   "short": "Hotărârea nr. 4/12.09.2013 a Comisiei Naţionale de Examen",
+   "title": "Hotărârea nr. 4/12.09.2013 a Comisiei Naţionale de Examen",
+   "url": "https://unbr.ro/hotararea-nr-412-09-2013-a-comisiei-nationale-de-examen/",
+   "versions": [
+    {
+     "from": "2013-09-06",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-nr-412-09-2013-a-comisiei-nationale-de-examen/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-cne-2013-5",
+   "path": "profesii/unbr/hotarare-cne/2013/5",
+   "short": "Hotărârea nr. 5/12.09.2013 a Comisiei Naţionale de Examen",
+   "title": "Hotărârea nr. 5/12.09.2013 a Comisiei Naţionale de Examen",
+   "url": "https://unbr.ro/hotararea-nr-512-09-2013-a-comisiei-nationale-de-examen/",
+   "versions": [
+    {
+     "from": "2013-09-12",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-nr-512-09-2013-a-comisiei-nationale-de-examen/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2013-692",
+   "path": "profesii/unbr/hotarare-consiliu/2013/692",
+   "short": "Hotărârea nr. 692 din 28 martie 2013 a Consiliului U.N.B.R",
+   "title": "Hotărârea nr. 692 din 28 martie 2013 a Consiliului U.N.B.R",
+   "url": "https://unbr.ro/hotararea-nr-692-din-28-martie-2013-a-consiliului-unbr/",
+   "versions": [
+    {
+     "from": "2013-08-05",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-nr-692-din-28-martie-2013-a-consiliului-unbr/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2013-693-2",
+   "path": "profesii/unbr/hotarare-consiliu/2013/693-2",
+   "short": "UNBR hotarare-consiliu 693/2013",
+   "title": "Hotărârea nr. 693 din 28 martie 2013 a Consiliului U.N.B.R. pentru modificarea şi completarea Regulamentului - cadru privind organizarea examenului de primire în profesia de avocat şi admitere în cadrul Institutului Naţional pentru Pregătirea şi Perfecţionarea Avocaţilor - INPPA",
+   "url": "https://unbr.ro/hotararea-nr-693-din-28-martie-2013-a-consiliului-u-n-b-r/",
+   "versions": [
+    {
+     "from": "2013-08-05",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-nr-693-din-28-martie-2013-a-consiliului-u-n-b-r/",
+     "sha256": "877fcb957a874228203a5cf803e765df56d9e634fe187c8096d9972eed1e8f2c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2013-693",
+   "path": "profesii/unbr/hotarare-consiliu/2013/693",
+   "short": "Hotãrîrea nr. 693 din 28 martie 2013 a Consiliului U.N.B.R",
+   "title": "Hotãrîrea nr. 693 din 28 martie 2013 a Consiliului U.N.B.R",
+   "url": "https://unbr.ro/hotarirea-nr-693-din-28-martie-2013-a-consiliului-u-n-b-r/",
+   "versions": [
+    {
+     "from": "2013-05-28",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarirea-nr-693-din-28-martie-2013-a-consiliului-u-n-b-r/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2013-713-2",
+   "path": "profesii/unbr/hotarare-consiliu/2013/713-2",
+   "short": "Hotararea Consiliului UNBR nr. 713 din 29 iunie 2013",
+   "title": "Hotararea Consiliului UNBR nr. 713 din 29 iunie 2013",
+   "url": "https://unbr.ro/hotararea-consiliului-unbr-nr-713-din-29-iunie-2013/",
+   "versions": [
+    {
+     "from": "2013-06-29",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-consiliului-unbr-nr-713-din-29-iunie-2013/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2013-713",
+   "path": "profesii/unbr/hotarare-consiliu/2013/713",
+   "short": "Hotararea Consiliului Uniunii Nationale a Barourilor din Romania nr. 713 din 29 iunie 2013",
+   "title": "Hotararea Consiliului Uniunii Nationale a Barourilor din Romania nr. 713 din 29 iunie 2013",
+   "url": "https://unbr.ro/hotararea-consiliului-uniunii-nationale-a-barourilor-din-romania-nr-713-din-29-iunie-2013/",
+   "versions": [
+    {
+     "from": "2013-06-29",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-consiliului-uniunii-nationale-a-barourilor-din-romania-nr-713-din-29-iunie-2013/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2013-852",
+   "path": "profesii/unbr/hotarare-consiliu/2013/852",
+   "short": "Hotărârea nr. 852 din 14 decembrie 2013 a Consiliului U.N.B.R",
+   "title": "Hotărârea nr. 852 din 14 decembrie 2013 a Consiliului U.N.B.R",
+   "url": "https://unbr.ro/%e2%97%8f-hotararea-nr-852-din-14-decembrie-2013-a-consiliului-u-n-b-r/",
+   "versions": [
+    {
+     "from": "2013-12-20",
+     "units": 1,
+     "source_url": "https://unbr.ro/%e2%97%8f-hotararea-nr-852-din-14-decembrie-2013-a-consiliului-u-n-b-r/",
+     "sha256": "f0049c6211fabccde6dc651772a61a516811606b7b3e85faa0a816af9eba2aae"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2013-857",
+   "path": "profesii/unbr/hotarare-consiliu/2013/857",
+   "short": "Hotărârea nr. 857 din 14 decembrie 2013 a Consiliului U.N.B.R",
+   "title": "Hotărârea nr. 857 din 14 decembrie 2013 a Consiliului U.N.B.R",
+   "url": "https://unbr.ro/%e2%97%8f-hotararea-nr-857-din-14-decembrie-2013-a-consiliului-u-n-b-r/",
+   "versions": [
+    {
+     "from": "2013-12-18",
+     "units": 1,
+     "source_url": "https://unbr.ro/%e2%97%8f-hotararea-nr-857-din-14-decembrie-2013-a-consiliului-u-n-b-r/",
+     "sha256": "f149bd2fb331a07520cc6503731593bfbadacf69899bd3ff17d8e5eb6d37f4bb"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2013-884",
+   "path": "profesii/unbr/hotarare-consiliu/2013/884",
+   "short": "Hotărârea nr. 884 din 14 decembrie 2013 a Consiliului U.N.B.R",
+   "title": "Hotărârea nr. 884 din 14 decembrie 2013 a Consiliului U.N.B.R",
+   "url": "https://unbr.ro/%e2%97%8f-hotararea-nr-884-din-14-decembrie-2013-a-consiliului-u-n-b-r/",
+   "versions": [
+    {
+     "from": "2013-12-18",
+     "units": 1,
+     "source_url": "https://unbr.ro/%e2%97%8f-hotararea-nr-884-din-14-decembrie-2013-a-consiliului-u-n-b-r/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2013-885",
+   "path": "profesii/unbr/hotarare-consiliu/2013/885",
+   "short": "Hotărârea nr. 885 din 14 decembrie 2013 a Consiliului U.N.B.R",
+   "title": "Hotărârea nr. 885 din 14 decembrie 2013 a Consiliului U.N.B.R",
+   "url": "https://unbr.ro/%e2%97%8f-hotararea-nr-885-din-14-decembrie-2013-a-consiliului-u-n-b-r/",
+   "versions": [
+    {
+     "from": "2014-01-20",
+     "units": 1,
+     "source_url": "https://unbr.ro/%e2%97%8f-hotararea-nr-885-din-14-decembrie-2013-a-consiliului-u-n-b-r/",
+     "sha256": "5cb73dd0db8b9ea2294f91194305525c60d72f011bfe205832f0506747b902bb"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-protocol-2013-p316",
+   "path": "profesii/unbr/protocol/2013/p316",
+   "short": "UNBR protocol /2013",
+   "title": "Protocol privind stabilirea onorariilor avocaţilor pentru furnizarea serviciilor de asistenţă juridică în materie penală, pentru prestarea, în cadrul sistemului de ajutor public judiciar, a serviciilor de asistenţă juridică şi/sau reprezentare ori de asistenţă extrajudiciară, precum şi pentru asigurarea serviciilor de asistenţă juridică privind accesul internaţional la justiţie în materie civilă şi cooperarea judiciară internaţională în materie penală",
+   "url": "https://unbr.ro/protocol-privind-stabilirea-onorariilor-avocatilor-pentru-furnizarea-serviciilor-de-asistenta-juridica-in-materie-penala-pentru-prestarea-in-cadrul-sistemului-de-ajutor-public-judiciar-a-serviciilo/",
+   "versions": [
+    {
+     "from": "2013-08-20",
+     "units": 1,
+     "source_url": "https://unbr.ro/protocol-privind-stabilirea-onorariilor-avocatilor-pentru-furnizarea-serviciilor-de-asistenta-juridica-in-materie-penala-pentru-prestarea-in-cadrul-sistemului-de-ajutor-public-judiciar-a-serviciilo/",
+     "sha256": "20cbf83fe226e5ba64f3eb85bc3b6278841b5b8c29b4fdde0374cb555f10f600"
+    }
+   ]
+  }
+ ]
+}

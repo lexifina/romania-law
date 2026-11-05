@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "profesii/2008",
+ "acts": [
+  {
+   "slug": "profesii-unbr-decizie-consiliu-2008-320",
+   "path": "profesii/unbr/decizie-consiliu/2008/320",
+   "short": "Decizia interpretativã nr. 320 din 8 martie 2008 a Consiliului U.N.B.R",
+   "title": "Decizia interpretativã nr. 320 din 8 martie 2008 a Consiliului U.N.B.R",
+   "url": "https://unbr.ro/decizia-interpretativa-nr-320-din-8-martie-2008-a-consiliului-u-n-b-r/",
+   "versions": [
+    {
+     "from": "2008-03-08",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-interpretativa-nr-320-din-8-martie-2008-a-consiliului-u-n-b-r/",
+     "sha256": "6e091901fc1e1193ce5541b5b71e0042c6f5dc49c9cdcaeaa9da9924c308751a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2008-423",
+   "path": "profesii/unbr/hotarare-consiliu/2008/423",
+   "short": "HOTĂRÂREA NR. 423 a Consiliului Uniunii Naţionale a Barourilor din România",
+   "title": "HOTĂRÂREA NR. 423 a Consiliului Uniunii Naţionale a Barourilor din România",
+   "url": "https://unbr.ro/hotararea-nr-423-a-consiliului-uniunii-nationale-a-barourilor-din-romania/",
+   "versions": [
+    {
+     "from": "2008-09-27",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-nr-423-a-consiliului-uniunii-nationale-a-barourilor-din-romania/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2008-9",
+   "path": "profesii/unbr/hotarare-consiliu/2008/9",
+   "short": "HOTÃRÂRI ale Consiliului U.N.B.R. din 27 septembrie 2008",
+   "title": "HOTÃRÂRI ale Consiliului U.N.B.R. din 27 septembrie 2008",
+   "url": "https://unbr.ro/hotarari-ale-consiliului-u-n-b-r-din-27-septembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-09-27",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotarari-ale-consiliului-u-n-b-r-din-27-septembrie-2008/",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

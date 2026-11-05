@@ -1,0 +1,882 @@
+{
+"country": "RO",
+"shard": "profesii/2021",
+"acts": [
+{
+"slug": "profesii-unbr-hotarare-consiliu-2021-230-2",
+"path": "profesii/unbr/hotarare-consiliu/2021/230-2",
+"kind": "profesii",
+"year": "2021",
+"number": "230-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "ANUNȚ - Uniunea Națională a Barourilor din România anunță organizarea examenului de primire în profesia de avocat (pentru dobândirea titlului profesional de avocat stagiar) și de primire în profesia de avocat a persoanelor care au absolvit examenul de definitivat în alte profesii juridice, SESIUNEA APRILIE 2022",
+"short": "UNBR hotarare-consiliu 230/2021",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2022-02-03",
+"latest": "2022-02-03",
+"portal": "https://unbr.ro/anunt-uniunea-nationala-a-barourilor-din-romania-anunta-organizarea-examenului-de-primire-in-profesia-de-avocat-pentru-dobandirea-titlului-profesional-de-avocat-stagiar-si-de-primire-in-pr-6/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-inppa-hotarare-consiliu-2021-1",
+"path": "profesii/inppa/hotarare-consiliu/2021/1",
+"kind": "profesii",
+"year": "2021",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotararea nr. 01/05.01.2021 privind începerea anului II de pregatire profesionala initiala",
+"short": "Hotararea nr. 01/05.01.2021 privind începerea anului II de pregatire profesionala initiala",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2021-01-07",
+"latest": "2021-01-07",
+"portal": "https://inppa.ro/hotararea-nr-01-05-01-2021-privind-inceperea-anului-ii-de-pregatire-profesionala-initiala/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-inppa-hotarare-consiliu-2021-2",
+"path": "profesii/inppa/hotarare-consiliu/2021/2",
+"kind": "profesii",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotararea nr. 02/05.01.2021 privind începerea anului I de pregatire profesionala initiala",
+"short": "Hotararea nr. 02/05.01.2021 privind începerea anului I de pregatire profesionala initiala",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2021-01-07",
+"latest": "2021-01-07",
+"portal": "https://inppa.ro/hotararea-nr-02-05-01-2021-privind-inceperea-anului-i-de-pregatire-profesionala-initiala/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-congres-2021-2",
+"path": "profesii/unbr/hotarare-congres/2021/2",
+"kind": "profesii",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Congresului avocaților nr. 02/26 iunie 2021 privind aprobarea execuției bugetare a Uniunii Naționale a Barourilor din România (U.N.B.R.) pentru anul 2020 și a proiectului de buget al U.N.B.R. pentru anul 2021, precum și a mandatării Consiliului U.N.B.R. să aprobe proiectul de buget al U.N.B.R. pentru anul 2022",
+"short": "UNBR hotarare-congres 2/2021",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2021-07-02",
+"latest": "2021-07-02",
+"portal": "https://unbr.ro/hotararea-congresului-avocatilor-nr-02-26-iunie-2021-privind-aprobarea-executiei-bugetare-a-uniunii-nationale-a-barourilor-din-romania-u-n-b-r-pentru-anul-2020-si-a-proiectului-de-buget-al-u-n-b-r/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-congres-2021-3",
+"path": "profesii/unbr/hotarare-congres/2021/3",
+"kind": "profesii",
+"year": "2021",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Congresului avocaților nr. 03/26 iunie 2021 privind aprobarea execuției bugetare a Casei de Asigurări a Avocaților (C.A.A.) pentru anul 2020 și a proiectului de buget pentru anul 2021, precum și a mandatării Consiliului U.N.B.R. să aprobe proiectul de buget pentru anul 2022",
+"short": "UNBR hotarare-congres 3/2021",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2021-07-02",
+"latest": "2021-07-02",
+"portal": "https://unbr.ro/hotararea-congresului-avocatilor-nr-03-26-iunie-2021-privind-aprobarea-executiei-bugetare-a-casei-de-asigurari-a-avocatilor-c-a-a-pentru-anul-2020-si-a-proiectului-de-buget-pentru-anul-2021-precu/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-inppa-hotarare-consiliu-2021-4",
+"path": "profesii/inppa/hotarare-consiliu/2021/4",
+"kind": "profesii",
+"year": "2021",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului de Conducere nr. 4/23.06.2021 privind Examenul de absolvire a cursurilor de pregătire profesională iniţială organizate în anul 2021 în cadrul sistemului I.N.P.P.A",
+"short": "INPPA hotarare-consiliu 4/2021",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2021-07-15",
+"latest": "2021-07-15",
+"portal": "https://inppa.ro/hotararea-consiliului-de-conducere-nr-4-23-06-2021-privind-examenul-de-absolvire-a-cursurilor-de-pregatire-profesionala-initiala-organizate-in-anul-2021-in-cadrul-sistemului-i-n-p-p-a/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-inppa-hotarare-consiliu-2021-5",
+"path": "profesii/inppa/hotarare-consiliu/2021/5",
+"kind": "profesii",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului INPPA nr. 5/25-26.08.2021 privind completarea unor prevederi ale Regulamentului de organizare și funcționare a Institutului Național pentru Pregătirea și Perfecționarea Avocaților - I.N.P.P.A",
+"short": "INPPA hotarare-consiliu 5/2021",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2021-09-16",
+"latest": "2021-09-16",
+"portal": "https://inppa.ro/hotararea-consiliului-inppa-nr-5-25-26-08-2021-privind-completarea-unor-prevederi-ale-regulamentului-de-organizare-si-functionare-a-institutului-national-pentru-pregatirea-si-perfectionarea-avocatilo/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-inppa-hotarare-consiliu-2021-6",
+"path": "profesii/inppa/hotarare-consiliu/2021/6",
+"kind": "profesii",
+"year": "2021",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului INPPA nr. 6/25-26.08.2021 privind organizarea și desfășurarea testării prevăzute de art. 48 alin. (7) al Regulamentului de organizare și funcționare a I.N.P.P.A",
+"short": "INPPA hotarare-consiliu 6/2021",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2021-09-16",
+"latest": "2021-09-16",
+"portal": "https://inppa.ro/hotararea-consiliului-inppa-nr-6-25-26-08-2021-privind-organizarea-si-desfasurarea-testarii-prevazute-de-art-48-alin-7-al-regulamentului-de-organizare-si-functionare-a-i-n-p-p-a/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-inppa-hotarare-consiliu-2021-7",
+"path": "profesii/inppa/hotarare-consiliu/2021/7",
+"kind": "profesii",
+"year": "2021",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului INPPA nr. 7/25-26.08.2021 privind aprobarea planului de formare inițială al I.N.P.P.A. în ciclul de formare 2021/2022",
+"short": "INPPA hotarare-consiliu 7/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-09-16",
+"latest": "2021-09-16",
+"portal": "https://inppa.ro/hotararea-consiliului-inppa-nr-7-25-26-08-2021-privind-aprobarea-planului-de-formare-initiala-al-i-n-p-p-a-in-ciclul-de-formare-2021-2022/",
+"flags": {
+"text_missing": true,
+"text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-congres-2021-7",
+"path": "profesii/unbr/hotarare-congres/2021/7",
+"kind": "profesii",
+"year": "2021",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Congresului avocaților nr. 07/26 iunie 2021 privind participarea UNBR la proiectul „Cartierul pentru justiție”",
+"short": "Hotărârea Congresului avocaților nr. 07/26 iunie 2021 privind participarea UNBR la proiectul „Cartierul pentru justiție”",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2021-07-02",
+"latest": "2021-07-02",
+"portal": "https://unbr.ro/hotararea-congresului-avocatilor-nr-07-26-iunie-2021-privind-participarea-unbr-la-proiectul-cartierul-pentru-justitie/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-inppa-hotarare-consiliu-2021-8",
+"path": "profesii/inppa/hotarare-consiliu/2021/8",
+"kind": "profesii",
+"year": "2021",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului INPPA nr. 8/25-26.08.2021 privind extinderea corpului de formatori de formare inițială al I.N.P.P.A",
+"short": "INPPA hotarare-consiliu 8/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-09-16",
+"latest": "2021-09-16",
+"portal": "https://inppa.ro/hotararea-consiliului-inppa-nr-8-25-26-08-2021-privind-extinderea-corpului-de-formatori-de-formare-initiala-al-i-n-p-p-a/",
+"flags": {
+"text_missing": true,
+"text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-congres-2021-8",
+"path": "profesii/unbr/hotarare-congres/2021/8",
+"kind": "profesii",
+"year": "2021",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Congresului avocaților nr. 08/26 iunie 2021 privind propunerile făcute în cadrul dezbaterilor Congresului, precum și materialele scrise transmise Congresului de delegații care au propus adoptarea de hotărâri, rezoluții, apeluri privitoare la modificarea directă de către Congres a unor acte cu caracter infra-parlamentar care intră în competența acestuia, dar și cu privire la modificarea/completarea unor acte normative",
+"short": "UNBR hotarare-congres 8/2021",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2021-07-02",
+"latest": "2021-07-02",
+"portal": "https://unbr.ro/hotararea-congresului-avocatilor-nr-08-26-iunie-2021-privind-propunerile-facute-in-cadrul-dezbaterilor-congresului-precum-si-materialele-scrise-transmise-congresului-de-delegatii-care-au-propus-adop/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-inppa-hotarare-consiliu-2021-9",
+"path": "profesii/inppa/hotarare-consiliu/2021/9",
+"kind": "profesii",
+"year": "2021",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului INPPA nr. 9/10.09.2021 privind organizarea și desfășurarea testării scrise la disciplinele opționale pentru avocații stagiari care nu au promovat examenul de absolvire a I.N.P.P.A. în sesiuni anterioare și nu sunt cursanți ai anului II",
+"short": "INPPA hotarare-consiliu 9/2021",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2021-09-24",
+"latest": "2021-09-24",
+"portal": "https://inppa.ro/hotararea-consiliului-inppa-nr-9-10-09-2021-privind-organizarea-si-desfasurarea-testarii-scrise-la-disciplinele-optionale-pentru-avocatii-stagiari-care-nu-au-promovat-examenul-de-absolvire-a-i-n-p-p/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-inppa-hotarare-consiliu-2021-63",
+"path": "profesii/inppa/hotarare-consiliu/2021/63",
+"kind": "profesii",
+"year": "2021",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia nr. 63 din 16 februarie 2021 privind cursanții care nu şi-au exprimat opțiunea pentru unul dintre pachetele de discipline opționale din anul II de formare inițială",
+"short": "INPPA hotarare-consiliu 63/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-02-22",
+"latest": "2021-02-22",
+"portal": "https://inppa.ro/decizia-nr-63-din-16-februarie-2021-privind-cursantii-care-nu-si-au-exprimat-optiunea-pentru-unul-dintre-pachetele-de-discipline-optionale-din-anul-ii-de-formare-initiala/",
+"flags": {
+"text_missing": true,
+"text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2021-113",
+"path": "profesii/unbr/hotarare-consiliu/2021/113",
+"kind": "profesii",
+"year": "2021",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 113/2021",
+"short": "Hotărârea Consiliului UNBR nr. 113/2021",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2021-02-04",
+"latest": "2021-02-04",
+"portal": "https://unbr.ro/publicam-hotararile-privind-indicatorii-sistemul-caa-pe-anul-2021-adoptate-de-consiliului-uniunii-nationale-a-barourilor-din-romania-unbr-in-sedinta-din-29-30-01-2021/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2021-114",
+"path": "profesii/unbr/hotarare-consiliu/2021/114",
+"kind": "profesii",
+"year": "2021",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 114/2021",
+"short": "Hotărârea Consiliului UNBR nr. 114/2021",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2021-02-04",
+"latest": "2021-02-04",
+"portal": "https://unbr.ro/publicam-hotararile-privind-indicatorii-sistemul-caa-pe-anul-2021-adoptate-de-consiliului-uniunii-nationale-a-barourilor-din-romania-unbr-in-sedinta-din-29-30-01-2021/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2021-115",
+"path": "profesii/unbr/hotarare-consiliu/2021/115",
+"kind": "profesii",
+"year": "2021",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 115/2021",
+"short": "Hotărârea Consiliului UNBR nr. 115/2021",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2021-02-04",
+"latest": "2021-02-04",
+"portal": "https://unbr.ro/publicam-hotararile-privind-indicatorii-sistemul-caa-pe-anul-2021-adoptate-de-consiliului-uniunii-nationale-a-barourilor-din-romania-unbr-in-sedinta-din-29-30-01-2021/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2021-116",
+"path": "profesii/unbr/hotarare-consiliu/2021/116",
+"kind": "profesii",
+"year": "2021",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 116/2021",
+"short": "Hotărârea Consiliului UNBR nr. 116/2021",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2021-02-04",
+"latest": "2021-02-04",
+"portal": "https://unbr.ro/publicam-hotararile-privind-indicatorii-sistemul-caa-pe-anul-2021-adoptate-de-consiliului-uniunii-nationale-a-barourilor-din-romania-unbr-in-sedinta-din-29-30-01-2021/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2021-117",
+"path": "profesii/unbr/hotarare-consiliu/2021/117",
+"kind": "profesii",
+"year": "2021",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 117/2021",
+"short": "Hotărârea Consiliului UNBR nr. 117/2021",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2021-02-04",
+"latest": "2021-02-04",
+"portal": "https://unbr.ro/publicam-hotararile-privind-indicatorii-sistemul-caa-pe-anul-2021-adoptate-de-consiliului-uniunii-nationale-a-barourilor-din-romania-unbr-in-sedinta-din-29-30-01-2021/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2021-118",
+"path": "profesii/unbr/hotarare-consiliu/2021/118",
+"kind": "profesii",
+"year": "2021",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 118/2021",
+"short": "Hotărârea Consiliului UNBR nr. 118/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-02-04",
+"latest": "2021-02-04",
+"portal": "https://unbr.ro/publicam-hotararile-privind-indicatorii-sistemul-caa-pe-anul-2021-adoptate-de-consiliului-uniunii-nationale-a-barourilor-din-romania-unbr-in-sedinta-din-29-30-01-2021/",
+"flags": {
+"text_missing": true,
+"text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-2021-119",
+"path": "profesii/unbr/decizie/2021/119",
+"kind": "profesii",
+"year": "2021",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIA nr. 119/29-30.01.2021",
+"short": "DECIZIA nr. 119/29-30.01.2021",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2021-02-12",
+"latest": "2021-02-12",
+"portal": "https://unbr.ro/decizia-nr-119-29-30-01-2021/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2021-120",
+"path": "profesii/unbr/hotarare-consiliu/2021/120",
+"kind": "profesii",
+"year": "2021",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 120 din 29-30.01.2021 privind programul (calendarul) de activități al organelor colective de conducere a profesiei de avocat organizate la nivel național în anul 2021",
+"short": "UNBR hotarare-consiliu 120/2021",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2021-02-04",
+"latest": "2021-02-04",
+"portal": "https://unbr.ro/publicam-hotararea-consiliului-unbr-nr-120-din-29-30-01-2021-privind-programul-calendarul-de-activitati-al-organelor-colective-de-conducere-a-profesiei-de-avocat-organizate-la-nivel-national-in-anu/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-congres-2021-144",
+"path": "profesii/unbr/hotarare-congres/2021/144",
+"kind": "profesii",
+"year": "2021",
+"number": "144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 144 din 12 aprilie 2021 a Consiliului UNBR pentru modificarea Hotărârii Consiliului UNBR nr. 120/29-30 ianuarie 2021",
+"short": "UNBR hotarare-congres 144/2021",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2021-04-14",
+"latest": "2021-04-14",
+"portal": "https://unbr.ro/hotararea-nr-144-din-12-aprilie-2021-a-consiliului-unbr-pentru-modificarea-hotararii-consiliului-unbr-nr-120-29-30-ianuarie-2021/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2021-148",
+"path": "profesii/unbr/hotarare-consiliu/2021/148",
+"kind": "profesii",
+"year": "2021",
+"number": "148",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 148/14-15.05.2021 privind organizarea examenului de primire în profesie - sesiunea septembrie 2021",
+"short": "Hotărârea nr. 148/14-15.05.2021 privind organizarea examenului de primire în profesie - sesiunea septembrie 2021",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2021-05-15",
+"latest": "2021-05-15",
+"portal": "https://unbr.ro/hotararea-nr-148-14-15-05-2021-privind-organizarea-examenului-de-primire-in-profesie-sesiunea-septembrie-2021/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2021-152",
+"path": "profesii/unbr/hotarare-consiliu/2021/152",
+"kind": "profesii",
+"year": "2021",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 152/14-15.05.2021 privind apărarea profesiei",
+"short": "Hotărârea nr. 152/14-15.05.2021 privind apărarea profesiei",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-05-15",
+"latest": "2021-05-15",
+"portal": "https://unbr.ro/hotararea-nr-152-14-15-05-2021-privind-apararea-profesiei/",
+"flags": {
+"text_missing": true,
+"text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2021-153",
+"path": "profesii/unbr/hotarare-consiliu/2021/153",
+"kind": "profesii",
+"year": "2021",
+"number": "153",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 153/14-15.05.2021 privind indemnizația de sprijin a avocaților pentru perioada pandemiei",
+"short": "Hotărârea nr. 153/14-15.05.2021 privind indemnizația de sprijin a avocaților pentru perioada pandemiei",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2021-05-15",
+"latest": "2021-05-15",
+"portal": "https://unbr.ro/hotararea-nr-153-14-15-05-2021-privind-indemnizatia-de-sprijin-a-avocatilor-pentru-perioada-pandemiei/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2021-174",
+"path": "profesii/unbr/hotarare-consiliu/2021/174",
+"kind": "profesii",
+"year": "2021",
+"number": "174",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ghidul orientativ al onorariilor minimale a fost republicat. Hotărârea Consiliului UNBR nr. 174 din 24 iunie 2021 privind modificarea și completarea Hotărârii nr. 82/17-18 iulie 2020 în ce privește Anexa (republicată) referitoare la „Ghidul orientativ al onorariilor minimale”",
+"short": "UNBR hotarare-consiliu 174/2021",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2021-08-06",
+"latest": "2021-08-06",
+"portal": "https://unbr.ro/ghidul-orientativ-al-onorariilor-minimale-a-fost-republicat-hotararea-consiliului-unbr-nr-174-din-24-iunie-2021-privind-modificarea-si-completarea-hotararii-nr-82-17-18-iulie-2020-in-ce-priveste-an/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2021-191",
+"path": "profesii/unbr/hotarare-consiliu/2021/191",
+"kind": "profesii",
+"year": "2021",
+"number": "191",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 191 din 10-11 septembrie 2021 privind modificarea unor dispoziții ale Hotărârii nr. 120 din 29-30 ianuarie 2021 a Consiliului UNBR, precum și ale Hotărârii nr. 4/23.06.2021 a Consiliului de conducere al INPPA",
+"short": "UNBR hotarare-consiliu 191/2021",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2021-09-16",
+"latest": "2021-09-16",
+"portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-191-din-10-11-septembrie-2021-privind-modificarea-unor-dispozitii-ale-hotararii-nr-120-din-29-30-ianuarie-2021-a-consiliului-unbr-precum-si-ale-hotararii-nr-4-23-06-2/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2021-194",
+"path": "profesii/unbr/decizie-cp/2021/194",
+"kind": "profesii",
+"year": "2021",
+"number": "194",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIA NR. 194 din 28 ianuarie 2021 a Comisiei Permanente a UNBR privind Examenul de verificare a cunoștințelor de drept românesc şi de limbă română pentru avocații străini, înscriși în Tablourile speciale ale avocaților străini ale barourilor, în vederea dobândirii dreptului de a acorda asistență juridică în drept romanesc, sesiunea 06 - 07 mai 2021",
+"short": "UNBR decizie-cp 194/2021",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2021-02-12",
+"latest": "2021-02-12",
+"portal": "https://unbr.ro/decizia-nr-194-din-28-ianuarie-2021-a-comisiei-permanente-a-unbr-privind-examenul-de-verificare-a-cunostintelor-de-drept-romanesc-si-de-limba-romana-pentru-avocatii-straini-inscrisi-in-tablourile-sp/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2021-194",
+"path": "profesii/unbr/hotarare-consiliu/2021/194",
+"kind": "profesii",
+"year": "2021",
+"number": "194",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 194/2021",
+"short": "Hotărârea Consiliului UNBR nr. 194/2021",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-194-din-10-11-septembrie-2021-privind-cota-de-contributie-de-asigurari-sociale-asupra-indemnizatiei-primite-de-avocati-in-baza-o-u-g-nr-30-2020-din-perioada-starii-de/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2021-197",
+"path": "profesii/unbr/decizie-cp/2021/197",
+"kind": "profesii",
+"year": "2021",
+"number": "197",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 197 din 10-11 septembrie 2021 prin care se ratifică Decizia Comisiei Permanente nr. 265/09.09.2021 privind constituirea unei comisii de lucru speciale a Comisiei Permanente",
+"short": "UNBR decizie-cp 197/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-10-08",
+"latest": "2021-10-08",
+"portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-197-din-10-11-septembrie-2021-prin-care-se-ratifica-decizia-comisiei-permanente-nr-265-09-09-2021-privind-constituirea-unei-comisii-de-lucru-speciale-a-comisiei-permane/",
+"flags": {
+"text_missing": true,
+"text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2021-206",
+"path": "profesii/unbr/hotarare-consiliu/2021/206",
+"kind": "profesii",
+"year": "2021",
+"number": "206",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 206 din 10-11 decembrie 2021 privind programul de activități al organelor colective de conducere a profesiei de avocat organizate la nivel național în anul 2022",
+"short": "UNBR hotarare-consiliu 206/2021",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-16",
+"latest": "2021-12-16",
+"portal": "https://unbr.ro/hotararea-nr-206-din-10-11-decembrie-2021-privind-programul-de-activitati-al-organelor-colective-de-conducere-a-profesiei-de-avocat-organizate-la-nivel-national-in-anul-2022/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2021-210",
+"path": "profesii/unbr/hotarare-consiliu/2021/210",
+"kind": "profesii",
+"year": "2021",
+"number": "210",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 210 din 10-11 decembrie 2021 pentru modificarea Regulamentului - cadru privind organizarea examenului de primire în profesia de avocat",
+"short": "UNBR hotarare-consiliu 210/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-12-17",
+"latest": "2021-12-17",
+"portal": "https://unbr.ro/hotararea-nr-210-din-10-11-decembrie-2021-pentru-modificarea-regulamentului-cadru-privind-organizarea-examenului-de-primire-in-profesia-de-avocat/",
+"flags": {
+"text_missing": true,
+"text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2021-222",
+"path": "profesii/unbr/hotarare-consiliu/2021/222",
+"kind": "profesii",
+"year": "2021",
+"number": "222",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 222/2021",
+"short": "Hotărârea Consiliului UNBR nr. 222/2021",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-16",
+"latest": "2021-12-16",
+"portal": "https://unbr.ro/publicam-urmatoarele-hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-10-11-decembrie-2021-privind-sistemul-de-pensii-si-asigurari-sociale-al-avocatilor/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2021-223",
+"path": "profesii/unbr/hotarare-consiliu/2021/223",
+"kind": "profesii",
+"year": "2021",
+"number": "223",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 223/2021",
+"short": "Hotărârea Consiliului UNBR nr. 223/2021",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-16",
+"latest": "2021-12-16",
+"portal": "https://unbr.ro/publicam-urmatoarele-hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-10-11-decembrie-2021-privind-sistemul-de-pensii-si-asigurari-sociale-al-avocatilor/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2021-224",
+"path": "profesii/unbr/hotarare-consiliu/2021/224",
+"kind": "profesii",
+"year": "2021",
+"number": "224",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 224/2021",
+"short": "Hotărârea Consiliului UNBR nr. 224/2021",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-16",
+"latest": "2021-12-16",
+"portal": "https://unbr.ro/publicam-urmatoarele-hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-10-11-decembrie-2021-privind-sistemul-de-pensii-si-asigurari-sociale-al-avocatilor/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2021-226",
+"path": "profesii/unbr/hotarare-consiliu/2021/226",
+"kind": "profesii",
+"year": "2021",
+"number": "226",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 226/2021",
+"short": "Hotărârea Consiliului UNBR nr. 226/2021",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-16",
+"latest": "2021-12-16",
+"portal": "https://unbr.ro/publicam-urmatoarele-hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-10-11-decembrie-2021-privind-sistemul-de-pensii-si-asigurari-sociale-al-avocatilor/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2021-227",
+"path": "profesii/unbr/hotarare-consiliu/2021/227",
+"kind": "profesii",
+"year": "2021",
+"number": "227",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 227/2021",
+"short": "Hotărârea Consiliului UNBR nr. 227/2021",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-16",
+"latest": "2021-12-16",
+"portal": "https://unbr.ro/publicam-urmatoarele-hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-10-11-decembrie-2021-privind-sistemul-de-pensii-si-asigurari-sociale-al-avocatilor/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2021-228",
+"path": "profesii/unbr/hotarare-consiliu/2021/228",
+"kind": "profesii",
+"year": "2021",
+"number": "228",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 228/2021",
+"short": "Hotărârea Consiliului UNBR nr. 228/2021",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-16",
+"latest": "2021-12-16",
+"portal": "https://unbr.ro/publicam-urmatoarele-hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-10-11-decembrie-2021-privind-sistemul-de-pensii-si-asigurari-sociale-al-avocatilor/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2021-229",
+"path": "profesii/unbr/hotarare-consiliu/2021/229",
+"kind": "profesii",
+"year": "2021",
+"number": "229",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 229/2021",
+"short": "Hotărârea Consiliului UNBR nr. 229/2021",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-16",
+"latest": "2021-12-16",
+"portal": "https://unbr.ro/publicam-urmatoarele-hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-10-11-decembrie-2021-privind-sistemul-de-pensii-si-asigurari-sociale-al-avocatilor/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2021-230",
+"path": "profesii/unbr/hotarare-consiliu/2021/230",
+"kind": "profesii",
+"year": "2021",
+"number": "230",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 230 din 10-11 decembrie 2021 privind organizarea examenului de primire în profesie - sesiunea aprilie 2022",
+"short": "UNBR hotarare-consiliu 230/2021",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2022-01-12",
+"latest": "2022-01-12",
+"portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-230-din-10-11-decembrie-2021-privind-organizarea-examenului-de-primire-in-profesie-sesiunea-aprilie-2022/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2021-265",
+"path": "profesii/unbr/decizie-cp/2021/265",
+"kind": "profesii",
+"year": "2021",
+"number": "265",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Comisiei Permanente a UNBR nr. 265 din 09 septembrie 2021 prin care se se aprobă constituirea unei comisii de lucru speciale a Comisiei Permanente ce are ca obiectiv elaborarea unui set unitar de reguli/criterii pentru analizarea cererilor de finanțare înaintate către UNBR",
+"short": "UNBR decizie-cp 265/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-10-08",
+"latest": "2021-10-08",
+"portal": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-265-din-09-septembrie-2021-prin-care-se-se-aproba-constituirea-unei-comisii-de-lucru-speciale-a-comisiei-permanente-ce-are-ca-obiectiv-elaborarea-unui-set-unitar/",
+"flags": {
+"text_missing": true,
+"text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2021-267",
+"path": "profesii/unbr/decizie-cp/2021/267",
+"kind": "profesii",
+"year": "2021",
+"number": "267",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Comisiei Permanente a UNBR nr. 267 din 09 septembrie 2021 prin care se aprobă începerea procedurilor de reautorizare a Uniunii Naționale a Barourilor din România ca operator al Registrului Național de Publicitate Mobiliară",
+"short": "UNBR decizie-cp 267/2021",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2021-10-08",
+"latest": "2021-10-08",
+"portal": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-267-din-09-septembrie-2021-prin-care-se-aproba-inceperea-procedurilor-de-reautorizare-a-uniunii-nationale-a-barourilor-din-romania-ca-operator-al-registrului-nat/",
+"flags": {
+"amendments_checked": false
+}
+}
+]
+}

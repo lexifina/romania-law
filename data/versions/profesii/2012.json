@@ -1,0 +1,261 @@
+{
+ "country": "RO",
+ "shard": "profesii/2012",
+ "acts": [
+  {
+   "slug": "profesii-inppa-hotarare-consiliu-2012-13",
+   "path": "profesii/inppa/hotarare-consiliu/2012/13",
+   "short": "INPPA hotarare-consiliu 13/2012",
+   "title": "Hotararea nr. 13 privind Examenul de absolvire a cursurilor de pregatire profesionala initiala organizate in anul 2012 in cadrul INPPA / Centrele teritoriale ale INPPA",
+   "url": "https://inppa.ro/hotararea-nr-13/",
+   "versions": [
+    {
+     "from": "2012-08-31",
+     "units": 1,
+     "source_url": "https://inppa.ro/hotararea-nr-13/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-inppa-hotarare-consiliu-2012-392",
+   "path": "profesii/inppa/hotarare-consiliu/2012/392",
+   "short": "INPPA hotarare-consiliu 392/2012",
+   "title": "Hotararea Consiliului UNBR nr. 392 din 31 martie 2012, privind arondarea avocatilor stagiari in cadrul INPPA si a Centrelor Teritoriale ale INPPA",
+   "url": "https://inppa.ro/hotararea-consiliului-unbr-nr-392-din-31-martie-2012/",
+   "versions": [
+    {
+     "from": "2012-03-31",
+     "units": 1,
+     "source_url": "https://inppa.ro/hotararea-consiliului-unbr-nr-392-din-31-martie-2012/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-inppa-hotarare-consiliu-2012-6",
+   "path": "profesii/inppa/hotarare-consiliu/2012/6",
+   "short": "INPPA hotarare-consiliu 6/2012",
+   "title": "Hotararea nr. 6 a Consiliului de Conducere al INPPA privind interzicerea transferului avocaţilor stagiari între centrele teritoriale ale INPPA în preajma şi pentru susţinerea examenului de absolvire",
+   "url": "https://inppa.ro/hotararea-nr-6/",
+   "versions": [
+    {
+     "from": "2012-08-31",
+     "units": 1,
+     "source_url": "https://inppa.ro/hotararea-nr-6/",
+     "sha256": "dbfeff047007fddc6deaa3c5e41fb2a0c5f76fc71a7288948963650a33f2a1b2"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-inppa-hotarare-consiliu-2012-8",
+   "path": "profesii/inppa/hotarare-consiliu/2012/8",
+   "short": "Hotararea nr. 8 privind adoptarea modelului caietului de lucrari profesionale pentru anul II de pregatire initiala",
+   "title": "Hotararea nr. 8 privind adoptarea modelului caietului de lucrari profesionale pentru anul II de pregatire initiala",
+   "url": "https://inppa.ro/hotararea-nr-8/",
+   "versions": [
+    {
+     "from": "2012-08-31",
+     "units": 1,
+     "source_url": "https://inppa.ro/hotararea-nr-8/",
+     "sha256": "7c5d9d1513c42c182e637a47dc723f8960057d567226bbbacd84e0c0cb3668d9"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-inppa-hotarare-consiliu-2012-9",
+   "path": "profesii/inppa/hotarare-consiliu/2012/9",
+   "short": "Hotararea nr. 9 privind calendarul desfasurarii examenului de absolvire a INPPA, sesiunea noiembrie 2012",
+   "title": "Hotararea nr. 9 privind calendarul desfasurarii examenului de absolvire a INPPA, sesiunea noiembrie 2012",
+   "url": "https://inppa.ro/hotararea-nr-9/",
+   "versions": [
+    {
+     "from": "2012-08-31",
+     "units": 1,
+     "source_url": "https://inppa.ro/hotararea-nr-9/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-2012-557",
+   "path": "profesii/unbr/decizie/2012/557",
+   "short": "DECIZIA NR. 557/15.12.2012",
+   "title": "DECIZIA NR. 557/15.12.2012",
+   "url": "https://unbr.ro/decizia-nr-55715-12-2012/",
+   "versions": [
+    {
+     "from": "2012-12-15",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-nr-55715-12-2012/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-2012-559",
+   "path": "profesii/unbr/decizie/2012/559",
+   "short": "DECIZIA NR. 559/15.12.2012",
+   "title": "DECIZIA NR. 559/15.12.2012",
+   "url": "https://unbr.ro/decizia-nr-55915-12-2012/",
+   "versions": [
+    {
+     "from": "2012-12-15",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-nr-55915-12-2012/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-consiliu-2012-385",
+   "path": "profesii/unbr/decizie-consiliu/2012/385",
+   "short": "DECIZIA NR. 385/03.03.2012",
+   "title": "DECIZIA NR. 385/03.03.2012",
+   "url": "https://unbr.ro/decizia-nr-38503-03-2012/",
+   "versions": [
+    {
+     "from": "2012-03-03",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-nr-38503-03-2012/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-consiliu-2012-386",
+   "path": "profesii/unbr/decizie-consiliu/2012/386",
+   "short": "DECIZIA NR. 386/03.03.2012",
+   "title": "DECIZIA NR. 386/03.03.2012",
+   "url": "https://unbr.ro/decizia-nr-38603-03-2012/",
+   "versions": [
+    {
+     "from": "2012-03-03",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-nr-38603-03-2012/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2012-45-2",
+   "path": "profesii/unbr/decizie-cp/2012/45-2",
+   "short": "UNBR decizie-cp 45/2012",
+   "title": "Comisia Permanentă a Uniunii Naţionale a Barourilor din România a aprobat acordarea unor ajutoare din Fondul de Solidaritate al Avocaţilor",
+   "url": "https://unbr.ro/comisia-permanenta-uniunii-nationale-a-barourilor-din-romania-a-a-aprobat-acordarea-unor-ajutoare-din-fondul-de-solidaritate-al-avocatilor/",
+   "versions": [
+    {
+     "from": "2013-09-06",
+     "units": 1,
+     "source_url": "https://unbr.ro/comisia-permanenta-uniunii-nationale-a-barourilor-din-romania-a-a-aprobat-acordarea-unor-ajutoare-din-fondul-de-solidaritate-al-avocatilor/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-decizie-cp-2012-45",
+   "path": "profesii/unbr/decizie-cp/2012/45",
+   "short": "Decizia 45/14.12.2012 a Comisiei Permanente U.N.B.R",
+   "title": "Decizia 45/14.12.2012 a Comisiei Permanente U.N.B.R",
+   "url": "https://unbr.ro/decizia-nr-4514-12-2012-a-comisiei-permanente-a-u-n-b-r/",
+   "versions": [
+    {
+     "from": "2012-12-14",
+     "units": 1,
+     "source_url": "https://unbr.ro/decizia-nr-4514-12-2012-a-comisiei-permanente-a-u-n-b-r/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2012-18",
+   "path": "profesii/unbr/hotarare-consiliu/2012/18",
+   "short": "Regulamentul - cadru pentru organizarea serviciilor de asistenţã judiciarã",
+   "title": "Regulamentul - cadru pentru organizarea serviciilor de asistenţã judiciarã",
+   "url": "https://unbr.ro/regulamentului-cadru-pentru-organizarea-serviciilor-de-asistenta-judiciara/",
+   "versions": [
+    {
+     "from": "2013-07-23",
+     "units": 1,
+     "source_url": "https://unbr.ro/regulamentului-cadru-pentru-organizarea-serviciilor-de-asistenta-judiciara/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2012-3",
+   "path": "profesii/unbr/hotarare-consiliu/2012/3",
+   "short": "Hotărârea Consiliului UNBR nr. 3/2012",
+   "title": "Hotărârea Consiliului UNBR nr. 3/2012",
+   "url": "https://unbr.ro/hotararea-nr-35703-03-2012/",
+   "versions": [
+    {
+     "from": "2012-03-03",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-nr-35703-03-2012/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2012-303",
+   "path": "profesii/unbr/hotarare-consiliu/2012/303",
+   "short": "UNBR hotarare-consiliu 303/2012",
+   "title": "Hotărârea nr. 303/03 martie 2012 Consiliul Uniunii Naţionale a Barourilor din România prin care a fost aprobat Planul de învăţământ al Institutului Naţional pentru Pregătirea şi Perfecţionarea Avocaţilor - INPPA pentru anul 2012",
+   "url": "https://unbr.ro/hotararea-nr-30303-martie-2012-a-consiliul-uniunii-nationale-a-barourilor/",
+   "versions": [
+    {
+     "from": "2012-03-03",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-nr-30303-martie-2012-a-consiliul-uniunii-nationale-a-barourilor/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2012-526",
+   "path": "profesii/unbr/hotarare-consiliu/2012/526",
+   "short": "HOTĂRÂREA NR. 526 din 01 septembrie 2012 a Consiliului UNBR privind recunoaşterea orelor de pregătire profesională",
+   "title": "HOTĂRÂREA NR. 526 din 01 septembrie 2012 a Consiliului UNBR privind recunoaşterea orelor de pregătire profesională",
+   "url": "https://unbr.ro/hotararea-nr-526-din-01-septembrie-2012-a-consiliului-unbr/",
+   "versions": [
+    {
+     "from": "2011-09-01",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-nr-526-din-01-septembrie-2012-a-consiliului-unbr/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2012-527",
+   "path": "profesii/unbr/hotarare-consiliu/2012/527",
+   "short": "HOTĂRÂREA NR. 527 din 01 septembrie 2012",
+   "title": "HOTĂRÂREA NR. 527 din 01 septembrie 2012",
+   "url": "https://unbr.ro/hotararea-nr-527-din-01-septembrie-2012/",
+   "versions": [
+    {
+     "from": "2012-09-01",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-nr-527-din-01-septembrie-2012/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2012-648",
+   "path": "profesii/unbr/hotarare-consiliu/2012/648",
+   "short": "UNBR hotarare-consiliu 648/2012",
+   "title": "Hotărârea Consiliului U.N.B.R. nr. 648 din 15 decembrie 2012 privind calendarul activităților organelor profesiei pe anul 2013",
+   "url": "https://unbr.ro/hotararea-consiliului-u-n-b-r-nr-648-din-15-decembrie-2012/",
+   "versions": [
+    {
+     "from": "2012-12-08",
+     "units": 1,
+     "source_url": "https://unbr.ro/hotararea-consiliului-u-n-b-r-nr-648-din-15-decembrie-2012/",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

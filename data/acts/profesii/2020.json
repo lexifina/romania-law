@@ -1,0 +1,794 @@
+{
+"country": "RO",
+"shard": "profesii/2020",
+"acts": [
+{
+"slug": "profesii-inppa-hotarare-consiliu-2020-1",
+"path": "profesii/inppa/hotarare-consiliu/2020/1",
+"kind": "profesii",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 1 din 25 ianuarie 2020 a Consiliului de Conducere al INPPA referitoare la începerea la data 16 martie 2020 a activităţile tutoriale aferente anului I de pregătire profesională iniţială pentru avocații stagiari care au susținut examenul de admitere în profesie la data de 30 august 2019",
+"short": "INPPA hotarare-consiliu 1/2020",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2020-01-27",
+"latest": "2020-01-27",
+"portal": "https://inppa.ro/hotararea-nr-1-din-25-ianuarie-2020-a-consiliului-de-conducere-al-inppa-referitoare-la-inceperea-la-data-16-martie-2020-a-activitatile-tutoriale-aferente-anului-i-de-pregatire-profesionala-initiala-p/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-inppa-hotarare-consiliu-2020-2",
+"path": "profesii/inppa/hotarare-consiliu/2020/2",
+"kind": "profesii",
+"year": "2020",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 2 din 25 ianuarie 2020 a Consiliului de Conducere al INPPA referitoare la începerea la data 23 martie 2020 a activităţile tutoriale aferente anului II de pregătire profesională iniţială",
+"short": "INPPA hotarare-consiliu 2/2020",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2020-01-27",
+"latest": "2020-01-27",
+"portal": "https://inppa.ro/hotararea-nr-2-din-25-ianuarie-2020-a-consiliului-de-conducere-al-inppa-referitoare-la-inceperea-la-data-23-martie-2020-a-activitatile-tutoriale-aferente-anului-ii-de-pregatire-profesionala-initiala/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-congres-2020-2",
+"path": "profesii/unbr/hotarare-congres/2020/2",
+"kind": "profesii",
+"year": "2020",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Congresului avocaților nr. 02/2020 privind aprobarea execuției bugetare a U.N.B.R. pentru anul 2019 și a bugetului U.N.B.R. pentru anul 2020",
+"short": "UNBR hotarare-congres 2/2020",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-07",
+"latest": "2020-12-07",
+"portal": "https://unbr.ro/hotararea-congresului-avocatilor-nr-02-2020-privind-aprobarea-executiei-bugetare-a-u-n-b-r-pentru-anul-2019-si-a-bugetului-u-n-b-r-pentru-anul-2020/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-congres-2020-3",
+"path": "profesii/unbr/hotarare-congres/2020/3",
+"kind": "profesii",
+"year": "2020",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Congresului avocaților nr. 03/2020 privind aprobarea execuției bugetare a C.A.A. pentru anul 2019 și a proiectului de buget pentru anul 2020",
+"short": "UNBR hotarare-congres 3/2020",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-07",
+"latest": "2020-12-07",
+"portal": "https://unbr.ro/hotararea-congresului-avocatilor-nr-03-2020-privind-aprobarea-executiei-bugetare-a-c-a-a-pentru-anul-2019-si-a-proiectului-de-buget-pentru-anul-2020/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-inppa-hotarare-consiliu-2020-8",
+"path": "profesii/inppa/hotarare-consiliu/2020/8",
+"kind": "profesii",
+"year": "2020",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 8 din 28 martie 2020 a Consiliului de Conducere al INPPA privind începerea și desfășurarea activităților anului I și anului II de pregătire profesională iniţială",
+"short": "INPPA hotarare-consiliu 8/2020",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2020-03-29",
+"latest": "2020-03-29",
+"portal": "https://inppa.ro/hotararea-nr-8-din-28-martie-2020-a-consiliului-de-conducere-al-inppa-privind-inceperea-si-desfasurarea-activitatilor-anului-i-si-anului-ii-de-pregatire-profesionala-initiala/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2020-8",
+"path": "profesii/unbr/hotarare-consiliu/2020/8",
+"kind": "profesii",
+"year": "2020",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 8/16.09.2020 prin care se revine asupra posibilității, comunicate public, de primire în examen, într-o sală specială, a candidaților care prezintă risc epidemiologic, având în vedere Avizul scris eliberat de Ministerul Sănătății cu nr. NT3383 E/15.09.2020",
+"short": "UNBR hotarare-consiliu 8/2020",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2020-09-16",
+"latest": "2020-09-16",
+"portal": "https://unbr.ro/hotararea-nr-8-16-09-2020-prin-care-se-revine-asupra-posibilitatii-comunicate-public-de-primire-in-examen-intr-o-sala-speciala-a-candidatilor-care-prezinta-risc-epidemiologic-avand-in-vedere-avi/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-inppa-hotarare-consiliu-2020-9",
+"path": "profesii/inppa/hotarare-consiliu/2020/9",
+"kind": "profesii",
+"year": "2020",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului de Conducere nr. 9/18.07.2020 privind Examenul de absolvire a cursurilor de pregătire profesională iniţială organizate în anul 2020 în cadrul sistemului I.N.P.P.A",
+"short": "INPPA hotarare-consiliu 9/2020",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2020-07-21",
+"latest": "2020-07-21",
+"portal": "https://inppa.ro/hotararea-consiliului-de-conducere-nr-9-18-07-2020-privind-examenul-de-absolvire-a-cursurilor-de-pregatire-profesionala-initiala-organizate-in-anul-2020-in-cadrul-sistemului-i-n-p-p-a/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-inppa-hotarare-consiliu-2020-10",
+"path": "profesii/inppa/hotarare-consiliu/2020/10",
+"kind": "profesii",
+"year": "2020",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului de Conducere nr. 10/18.10.2020 privind avocații stagiari, cursanți ai I.N.P.P.A., care au încheiat cursurile anului II de pregătire profesională inițială la data de 15 septembrie 2020 și care nu au promovat toate disciplinele cuprinse în planul de formare",
+"short": "INPPA hotarare-consiliu 10/2020",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2020-10-18",
+"latest": "2020-10-18",
+"portal": "https://inppa.ro/hotararea-consiliului-de-conducere-nr-10-18-10-2020-privind-avocatii-stagiari-cursanti-ai-i-n-p-p-a-care-au-incheiat-cursurile-anului-ii-de-pregatire-profesionala-initiala-la-data-de-15-septembrie-20/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-inppa-hotarare-consiliu-2020-13",
+"path": "profesii/inppa/hotarare-consiliu/2020/13",
+"kind": "profesii",
+"year": "2020",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului de Conducere nr. 13/17.11.2020 privind Examenul de absolvire a I.N.P.P.A. - sesiunea noiembrie 2020",
+"short": "INPPA hotarare-consiliu 13/2020",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2020-11-18",
+"latest": "2020-11-18",
+"portal": "https://inppa.ro/hotararea-consiliului-de-conducere-nr-13-17-11-2020-privind-examenul-de-absolvire-a-i-n-p-p-a-sesiunea-noiembrie-2020/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-inppa-decizie-director-2020-17",
+"path": "profesii/inppa/decizie-director/2020/17",
+"kind": "profesii",
+"year": "2020",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia nr. 17 din 11 aprilie 2020 a Directorului Institutului Naţional pentru Pregătirea şi Perfecţionarea Avocaţilor",
+"short": "Decizia nr. 17 din 11 aprilie 2020 a Directorului Institutului Naţional pentru Pregătirea şi Perfecţionarea Avocaţilor",
+"code": null,
+"status": "metadata only (text not held yet)",
+"versions": 1,
+"from": "2020-04-12",
+"latest": "2020-04-12",
+"portal": "https://inppa.ro/decizia-nr-17-din-11-aprilie-2020-a-directorului-institutului-national-pentru-pregatirea-si-perfectionarea-avocatilor/",
+"flags": {
+"text_missing": true,
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-inppa-decizie-director-2020-18",
+"path": "profesii/inppa/decizie-director/2020/18",
+"kind": "profesii",
+"year": "2020",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia nr. 18 din 14 aprilie 2020 a Directorului Institutului Naţional pentru Pregătirea şi Perfecţionarea Avocaţilor",
+"short": "Decizia nr. 18 din 14 aprilie 2020 a Directorului Institutului Naţional pentru Pregătirea şi Perfecţionarea Avocaţilor",
+"code": null,
+"status": "metadata only (text not held yet)",
+"versions": 1,
+"from": "2020-04-14",
+"latest": "2020-04-14",
+"portal": "https://inppa.ro/decizia-nr-18-din-14-aprilie-2020-a-directorului-institutului-national-pentru-pregatirea-si-perfectionarea-avocatilor/",
+"flags": {
+"text_missing": true,
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-inppa-hotarare-consiliu-2020-41",
+"path": "profesii/inppa/hotarare-consiliu/2020/41",
+"kind": "profesii",
+"year": "2020",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia nr. 41 din 26.10.2020 privind organizarea și desfășurarea examenului de absolvire a I.N.P.P.A. - sesiunea 15 noiembrie 2020",
+"short": "INPPA hotarare-consiliu 41/2020",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2020-10-26",
+"latest": "2020-10-26",
+"portal": "https://inppa.ro/decizia-nr-41-din-26-10-2020-privind-organizarea-si-desfasurarea-examenului-de-absolvire-a-i-n-p-p-a-sesiunea-15-noiembrie-2020/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-inppa-hotarare-consiliu-2020-42",
+"path": "profesii/inppa/hotarare-consiliu/2020/42",
+"kind": "profesii",
+"year": "2020",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia nr. 42 din 27.10.2020 privind organizarea și desfășurarea examenului de absolvire a I.N.P.P.A. - sesiunea 15 noiembrie 2020",
+"short": "INPPA hotarare-consiliu 42/2020",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2020-10-27",
+"latest": "2020-10-27",
+"portal": "https://inppa.ro/decizia-nr-42-din-27-10-2020-privind-organizarea-si-desfasurarea-examenului-de-absolvire-a-i-n-p-p-a-sesiunea-15-noiembrie-2020/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-inppa-decizie-director-2020-48",
+"path": "profesii/inppa/decizie-director/2020/48",
+"kind": "profesii",
+"year": "2020",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia nr. 48 din 05.11.2020 privind procedura în cazul intervenirii unor situații care împiedică pe candidați să susțină examenul de absolvire a I.N.P.P.A",
+"short": "INPPA decizie-director 48/2020",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2020-11-05",
+"latest": "2020-11-05",
+"portal": "https://inppa.ro/decizia-nr-48-din-05-11-2020-privind-procedura-in-cazul-intervenirii-unor-situatii-care-impiedica-pe-candidati-sa-sustina-examenul-de-absolvire-a-i-n-p-p-a/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2020-57",
+"path": "profesii/unbr/decizie-cp/2020/57",
+"kind": "profesii",
+"year": "2020",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliul UNBR nr. 57/27.03.2020 privind Regulamentul de examen și organizarea examenului de primire în profesie, sesiunea septembrie 2020",
+"short": "UNBR decizie-cp 57/2020",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2020-03-30",
+"latest": "2020-03-30",
+"portal": "https://unbr.ro/hotararea-consiliul-unbr-nr-57-27-03-2020-privind-regulamentul-de-examen-si-organizarea-examenului-de-primire-in-profesie-sesiunea-septembrie-2020/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2020-58",
+"path": "profesii/unbr/decizie-cp/2020/58",
+"kind": "profesii",
+"year": "2020",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliul UNBR nr. 58/27.03.2020 privind unele măsuri pentru atenuarea situației economice a avocaților din România ca urmare a instituirii stării de urgență",
+"short": "UNBR decizie-cp 58/2020",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2020-03-30",
+"latest": "2020-03-30",
+"portal": "https://unbr.ro/hotararea-consiliul-unbr-nr-58-27-03-2020-privind-unele-masuri-pentru-atenuarea-situatiei-economice-a-avocatilor-din-romania-ca-urmare-a-instituirii-starii-de-urgenta/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2020-59",
+"path": "profesii/unbr/hotarare-consiliu/2020/59",
+"kind": "profesii",
+"year": "2020",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 59/2020",
+"short": "Hotărârea Consiliului UNBR nr. 59/2020",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-14",
+"latest": "2020-04-14",
+"portal": "https://unbr.ro/a-fost-publicat-un-pachet-de-hotarari-ale-consiliului-unbr-referitoare-la-aprobarea-indicatorilor-caa-si-la-programele-filialelor-caa-pentru-anul-2020/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2020-60",
+"path": "profesii/unbr/hotarare-consiliu/2020/60",
+"kind": "profesii",
+"year": "2020",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 60/2020",
+"short": "Hotărârea Consiliului UNBR nr. 60/2020",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-14",
+"latest": "2020-04-14",
+"portal": "https://unbr.ro/a-fost-publicat-un-pachet-de-hotarari-ale-consiliului-unbr-referitoare-la-aprobarea-indicatorilor-caa-si-la-programele-filialelor-caa-pentru-anul-2020/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2020-67",
+"path": "profesii/unbr/hotarare-consiliu/2020/67",
+"kind": "profesii",
+"year": "2020",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 67/2020",
+"short": "Hotărârea Consiliului UNBR nr. 67/2020",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-14",
+"latest": "2020-04-14",
+"portal": "https://unbr.ro/a-fost-publicat-un-pachet-de-hotarari-ale-consiliului-unbr-referitoare-la-aprobarea-indicatorilor-caa-si-la-programele-filialelor-caa-pentru-anul-2020/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2020-68",
+"path": "profesii/unbr/hotarare-consiliu/2020/68",
+"kind": "profesii",
+"year": "2020",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 68/2020",
+"short": "Hotărârea Consiliului UNBR nr. 68/2020",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-14",
+"latest": "2020-04-14",
+"portal": "https://unbr.ro/a-fost-publicat-un-pachet-de-hotarari-ale-consiliului-unbr-referitoare-la-aprobarea-indicatorilor-caa-si-la-programele-filialelor-caa-pentru-anul-2020/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2020-69",
+"path": "profesii/unbr/hotarare-consiliu/2020/69",
+"kind": "profesii",
+"year": "2020",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 69/2020",
+"short": "Hotărârea Consiliului UNBR nr. 69/2020",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-14",
+"latest": "2020-04-14",
+"portal": "https://unbr.ro/a-fost-publicat-un-pachet-de-hotarari-ale-consiliului-unbr-referitoare-la-aprobarea-indicatorilor-caa-si-la-programele-filialelor-caa-pentru-anul-2020/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2020-70",
+"path": "profesii/unbr/hotarare-consiliu/2020/70",
+"kind": "profesii",
+"year": "2020",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 70/2020",
+"short": "Hotărârea Consiliului UNBR nr. 70/2020",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-14",
+"latest": "2020-04-14",
+"portal": "https://unbr.ro/a-fost-publicat-un-pachet-de-hotarari-ale-consiliului-unbr-referitoare-la-aprobarea-indicatorilor-caa-si-la-programele-filialelor-caa-pentru-anul-2020/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2020-71",
+"path": "profesii/unbr/hotarare-consiliu/2020/71",
+"kind": "profesii",
+"year": "2020",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 71/2020",
+"short": "Hotărârea Consiliului UNBR nr. 71/2020",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-14",
+"latest": "2020-04-14",
+"portal": "https://unbr.ro/a-fost-publicat-un-pachet-de-hotarari-ale-consiliului-unbr-referitoare-la-aprobarea-indicatorilor-caa-si-la-programele-filialelor-caa-pentru-anul-2020/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2020-72",
+"path": "profesii/unbr/hotarare-consiliu/2020/72",
+"kind": "profesii",
+"year": "2020",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 72/2020",
+"short": "Hotărârea Consiliului UNBR nr. 72/2020",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-14",
+"latest": "2020-04-14",
+"portal": "https://unbr.ro/a-fost-publicat-un-pachet-de-hotarari-ale-consiliului-unbr-referitoare-la-aprobarea-indicatorilor-caa-si-la-programele-filialelor-caa-pentru-anul-2020/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2020-73",
+"path": "profesii/unbr/hotarare-consiliu/2020/73",
+"kind": "profesii",
+"year": "2020",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 73/2020",
+"short": "Hotărârea Consiliului UNBR nr. 73/2020",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-14",
+"latest": "2020-04-14",
+"portal": "https://unbr.ro/a-fost-publicat-un-pachet-de-hotarari-ale-consiliului-unbr-referitoare-la-aprobarea-indicatorilor-caa-si-la-programele-filialelor-caa-pentru-anul-2020/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2020-74",
+"path": "profesii/unbr/hotarare-consiliu/2020/74",
+"kind": "profesii",
+"year": "2020",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 74/2020",
+"short": "Hotărârea Consiliului UNBR nr. 74/2020",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-14",
+"latest": "2020-04-14",
+"portal": "https://unbr.ro/a-fost-publicat-un-pachet-de-hotarari-ale-consiliului-unbr-referitoare-la-aprobarea-indicatorilor-caa-si-la-programele-filialelor-caa-pentru-anul-2020/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-congres-2020-75",
+"path": "profesii/unbr/hotarare-congres/2020/75",
+"kind": "profesii",
+"year": "2020",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 75 din 17-18 iulie 2020 privind Congresul avocaților 2020",
+"short": "Hotărârea Consiliului UNBR nr. 75 din 17-18 iulie 2020 privind Congresul avocaților 2020",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2020-07-21",
+"latest": "2020-07-21",
+"portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-75-din-17-18-iulie-2020-privind-congresul-avocatilor-2020/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2020-76",
+"path": "profesii/unbr/hotarare-consiliu/2020/76",
+"kind": "profesii",
+"year": "2020",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 76 din 17-18 iulie 2020 privind modificarea unor măsuri dispuse anterior pentru atenuarea situației economice a avocaților din România ca urmare a instituirii stării de urgență",
+"short": "UNBR hotarare-consiliu 76/2020",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2020-07-21",
+"latest": "2020-07-21",
+"portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-76-din-17-18-iulie-2020-privind-modificarea-unor-masuri-dispuse-anterior-pentru-atenuarea-situatiei-economice-a-avocatilor-din-romania-ca-urmare-a-instituirii-starii-de/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2020-77",
+"path": "profesii/unbr/hotarare-consiliu/2020/77",
+"kind": "profesii",
+"year": "2020",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 77 din 17-18 iulie 2020 privind modificarea și completarea Regulamentului de lucru al comisiilor și grupurilor de lucru ale U.N.B.R., adoptat prin Hotărârea Consiliului U.N.B.R. 222/23 martie 2017",
+"short": "UNBR hotarare-consiliu 77/2020",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2020-07-28",
+"latest": "2020-07-28",
+"portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-77-din-17-18-iulie-2020-privind-modificarea-si-completarea-regulamentului-de-lucru-al-comisiilor-si-grupurilor-de-lucru-ale-u-n-b-r-adoptat-prin-hotararea-consiliului/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2020-80",
+"path": "profesii/unbr/hotarare-consiliu/2020/80",
+"kind": "profesii",
+"year": "2020",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 80 din 17-18 iulie 2020 privind adoptarea regulamentului examenului de absolvire a Institutului Naţional pentru Pregătirea şi Perfecţionarea Avocaţilor",
+"short": "UNBR hotarare-consiliu 80/2020",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2020-07-21",
+"latest": "2020-07-21",
+"portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-80-din-17-18-iulie-2020-privind-adoptarea-regulamentului-examenului-de-absolvire-a-institutului-national-pentru-pregatirea-si-perfectionarea-avocatilor/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2020-82",
+"path": "profesii/unbr/hotarare-consiliu/2020/82",
+"kind": "profesii",
+"year": "2020",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 82 din 17-18 iulie 2020 prin care se aprobă „Ghidul orientativ al onorariilor minimale” prevăzut în Anexă",
+"short": "UNBR hotarare-consiliu 82/2020",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2020-07-28",
+"latest": "2020-07-28",
+"portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-82-din-17-18-iulie-2020-prin-care-se-aproba-ghidul-orientativ-al-onorariilor-minimale-prevazut-in-anexa/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2020-83",
+"path": "profesii/unbr/decizie-cp/2020/83",
+"kind": "profesii",
+"year": "2020",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Comisiei Permanente nr. 83 din 14 februarie 2020 prin care se suspendă aplicarea art. 1 alin.(1),(3),(4) din Decizia nr. 62/28.06.2013 a Comisiei Permanente a U.N.B.R. precum și a Hotărârii nr. 70-AEG/16.06.2014 de punere în aplicare a art. 2 alin. (1) al Deciziei nr.62/28.06.2013",
+"short": "UNBR decizie-cp 83/2020",
+"code": null,
+"status": "metadata only (text not held yet)",
+"versions": 1,
+"from": "2020-03-30",
+"latest": "2020-03-30",
+"portal": "https://unbr.ro/decizia-comisiei-permanente-nr-83-din-14-februarie-2020-prin-care-se-suspenda-aplicarea-art-1-alin-134-din-decizia-nr-62-28-06-2013-a-comisiei-permanente-a-u-n-b-r-precum-si-a-hotararii-nr/",
+"flags": {
+"needs_ocr": true,
+"text_missing": true,
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2020-84",
+"path": "profesii/unbr/hotarare-consiliu/2020/84",
+"kind": "profesii",
+"year": "2020",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 84 din 17-18 iulie 2020 prin care se republică (în Anexă) Regulamentul de lucru al comisiilor și grupurilor de lucru ale U.N.B.R., adoptat prin Hotărârea Consiliului U.N.B.R. 222/23 martie 2017 (în continuare, Regulamentul), cu modificările și completările adoptate prin Hotărârea Consiliului U.N.B.R. nr. 77/2020",
+"short": "UNBR hotarare-consiliu 84/2020",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2020-07-28",
+"latest": "2020-07-28",
+"portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-84-din-17-18-iulie-2020-prin-care-se-republica-in-anexa-regulamentul-de-lucru-al-comisiilor-si-grupurilor-de-lucru-ale-u-n-b-r-adoptat-prin-hotararea-consiliului-u-n/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-consiliu-2020-85",
+"path": "profesii/unbr/hotarare-consiliu/2020/85",
+"kind": "profesii",
+"year": "2020",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 85 din 17-18 iulie 2020 prin care se aprobă înființarea unor Grupuri de lucru ale Consiliului UNBR",
+"short": "UNBR hotarare-consiliu 85/2020",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2020-07-28",
+"latest": "2020-07-28",
+"portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-85-din-17-18-iulie-2020-prin-care-se-aproba-infiintarea-unor-grupuri-de-lucru-ale-consiliului-unbr/",
+"flags": {
+"text_missing": true,
+"text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-congres-2020-98",
+"path": "profesii/unbr/hotarare-congres/2020/98",
+"kind": "profesii",
+"year": "2020",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului UNBR nr. 98/12 august 2020 privind amânarea desfășurării Congresului avocaților 2020, până la o dată ulterioară din acest an, ce va fi decisă de Consiliul UNBR",
+"short": "UNBR hotarare-congres 98/2020",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2020-08-17",
+"latest": "2020-08-17",
+"portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-98-12-august-2020-privind-amanarea-desfasurarii-congresului-avocatilor-2020-pana-la-o-data-ulterioara-din-acest-an-ce-va-fi-decisa-de-consiliul-unbr/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2020-120",
+"path": "profesii/unbr/decizie-cp/2020/120",
+"kind": "profesii",
+"year": "2020",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Comisiei Permanente nr. 120 din 28 martie 2020 prin care se republică Regulamentul de organizare și funcționare a I.N.P.P.A., cu completările aduse prin Decizia Comisiei Permanente nr. 89/19 martie 2020",
+"short": "UNBR decizie-cp 120/2020",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2020-03-28",
+"latest": "2020-03-28",
+"portal": "https://unbr.ro/decizia-comisiei-permanente-nr-120-din-28-martie-2020-prin-care-se-republica-regulamentul-de-organizare-si-functionare-a-i-n-p-p-a-cu-completarile-aduse-prin-decizia-comisiei-permanente-nr-89-19-m/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2020-135",
+"path": "profesii/unbr/decizie-cp/2020/135",
+"kind": "profesii",
+"year": "2020",
+"number": "135",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Comisiei Permanente nr. 135 din 12 iunie 2020 privind organizarea examenului de primire în profesia de avocat - sesiunea septembrie 2020",
+"short": "UNBR decizie-cp 135/2020",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2020-06-19",
+"latest": "2020-06-19",
+"portal": "https://unbr.ro/decizia-comisiei-permanente-nr-135-din-12-iunie-2020-privind-organizarea-examenului-de-primire-in-profesia-de-avocat-sesiunea-septembrie-2020/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2020-137",
+"path": "profesii/unbr/decizie-cp/2020/137",
+"kind": "profesii",
+"year": "2020",
+"number": "137",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 137/16.07.2020 a Comisiei Permanente a UNBR privind organizarea examenului pentru înscrierea pe lista administratorilor procedurii și lichidatorilor pentru procedura insolvenței persoanelor fizice - sesiunea octombrie 2020",
+"short": "UNBR decizie-cp 137/2020",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2020-07-21",
+"latest": "2020-07-21",
+"portal": "https://unbr.ro/hotararea-nr-137-16-07-2020-a-comisiei-permanente-a-unbr-privind-organizarea-examenului-pentru-inscrierea-pe-lista-administratorilor-procedurii-si-lichidatorilor-pentru-procedura-insolventei-persoane/",
+"flags": {
+"text_missing": true,
+"text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-decizie-cp-2020-181",
+"path": "profesii/unbr/decizie-cp/2020/181",
+"kind": "profesii",
+"year": "2020",
+"number": "181",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Comisiei Permanente a UNBR nr. 181 din 07 decembrie 2020 prin care termenul de depunere a avizelor menționate de prevederile art. 61 alin. (2) din Statutul profesiei de avocat se prelungește până la data de 31.03.2021",
+"short": "UNBR decizie-cp 181/2020",
+"code": null,
+"status": "as published by the body, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-11",
+"latest": "2020-12-11",
+"portal": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-181-din-07-decembrie-2020-prin-care-termenul-de-depunere-a-avizelor-mentionate-de-prevederile-art-61-alin-2-din-statutul-profesiei-de-avocat-se-prelungeste-p/",
+"flags": {
+"amendments_checked": false
+}
+}
+]
+}
