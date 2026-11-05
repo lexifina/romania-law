@@ -716,12 +716,12 @@
   {
    "shard": "hg/1996",
    "kind": "hg",
-   "count": 407,
+   "count": 442,
    "acts": "data/acts/hg/1996.json",
    "list": "data/acts/hg/1996.md",
    "versions": "data/versions/hg/1996.json",
    "laws": "data/laws/hg/1996.csv",
-   "laws_count": 407,
+   "laws_count": 442,
    "sources": "data/sources/hg/1996.csv"
   },
   {

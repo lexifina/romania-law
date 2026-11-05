@@ -12804,21 +12804,21 @@ Every word of law in this repository comes from these sources and, for the acts 
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 116959 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) and the lists it links | 130717 | |
+| 116994 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) and the lists it links | 130752 | |
 
-The build made 136681 commits:
+The build made 136716 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 117034 | first version of an act |
+| 117069 | first version of an act |
 | 13809 | one law on its in-force day |
 | 3678 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `viitor`: laws not yet in force on 2026-11-04.
 - 46 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 119044 laws in the record.
-- 273452 tags.
+- 119079 laws in the record.
+- 273522 tags.
 
 ## Dates
 
@@ -12830,7 +12830,7 @@ When a law gives no date of its own, the default rule applies: Constitu»õia Rom√
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `0747c4fb6135d8e9244cb71292412d27011c586f08f3978231d3c218e0b2319b` (1542952139 bytes).
+- Corpus: sha256 `99c3a970b1d49891ca3278c8f4930b9df97fbdd2e91428bff00e545db7225239` (1543128664 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `c69a2ae7eeab55fd42b52cd695f9866002721124`, `check.py` `34526b6ce31ecf076b78e7067a22aec49194ac74`, `on.py` `267f054872f375839ad33c914e6c0d5faf27656b`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
@@ -12842,7 +12842,7 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Every act's decisions made by hand (495013 in all) are listed in that act's own README.md, under "Decisions made by hand".
+- Every act's decisions made by hand (495161 in all) are listed in that act's own README.md, under "Decisions made by hand".
 
 ## What AI did and did not do
 
@@ -86752,6 +86752,7 @@ Model use at data-build time:
 - HG nr. 1043/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1043/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1043/2024: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1044/1996: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1044/1999: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1044/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1044/2002: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -86802,6 +86803,7 @@ Model use at data-build time:
 - HG nr. 1046/2021: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1046/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1046/2024: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1047/1996: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1047/1999: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1047/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1047/2001: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -86833,6 +86835,7 @@ Model use at data-build time:
 - HG nr. 1048/2021: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1048/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1048/2024: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1049/1996: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1049/1999: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1049/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1049/2001: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -86864,6 +86867,7 @@ Model use at data-build time:
 - HG nr. 105/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 105/2024: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 105/2025: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1050/1996: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1050/1999: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1050/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1050/2001: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -86894,6 +86898,7 @@ Model use at data-build time:
 - HG nr. 1051/2020: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1051/2021: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1051/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1052/1996: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1052/1999: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1052/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1052/2001: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -86909,6 +86914,7 @@ Model use at data-build time:
 - HG nr. 1052/2020: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1052/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1052/2025: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1053/1996: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1053/1999: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1053/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1053/2002: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -86924,6 +86930,7 @@ Model use at data-build time:
 - HG nr. 1053/2020: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1053/2021: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1054/1995: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1054/1996: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1054/2002: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1054/2003: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1054/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -86972,6 +86979,7 @@ Model use at data-build time:
 - HG nr. 1056/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1056/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1056/2024: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1057/1996: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1057/1999: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1057/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1057/2002: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -86988,6 +86996,7 @@ Model use at data-build time:
 - HG nr. 1057/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1057/2024: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1058/1995: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1058/1996: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1058/1999: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1058/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1058/2001: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -87038,6 +87047,7 @@ Model use at data-build time:
 - HG nr. 106/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 106/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 106/2025: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1060/1996: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1060/1999: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1060/2001: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1060/2003: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -87057,6 +87067,7 @@ Model use at data-build time:
 - HG nr. 1060/2025: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1061/1990: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1061/1995: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1061/1996: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1061/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1061/2001: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1061/2003: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -87074,6 +87085,7 @@ Model use at data-build time:
 - HG nr. 1061/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1061/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1061/2025: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1062/1996: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1062/1999: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1062/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1062/2001: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -87090,6 +87102,7 @@ Model use at data-build time:
 - HG nr. 1062/2021: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1062/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1062/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1063/1996: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1063/1999: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1063/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1063/2002: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -87109,6 +87122,7 @@ Model use at data-build time:
 - HG nr. 1063/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1063/2025: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1064/1995: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1064/1996: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1064/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1064/2002: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1064/2003: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -87125,6 +87139,7 @@ Model use at data-build time:
 - HG nr. 1064/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1064/2025: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1065/1990: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1065/1996: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1065/1999: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1065/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1065/2001: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -87238,6 +87253,7 @@ Model use at data-build time:
 - HG nr. 1070/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1070/2024: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1070/2025: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1071/1996: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1071/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1071/2001: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1071/2002: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -87251,6 +87267,7 @@ Model use at data-build time:
 - HG nr. 1071/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1071/2024: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1071/2025: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1072/1996: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1072/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1072/2002: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1072/2003: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -87264,6 +87281,7 @@ Model use at data-build time:
 - HG nr. 1072/2014: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1072/2021: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1072/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1073/1996: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1073/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1073/2001: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1073/2002: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -87293,6 +87311,7 @@ Model use at data-build time:
 - HG nr. 1074/2020: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1074/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1074/2024: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1075/1996: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1075/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1075/2001: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1075/2002: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -87311,6 +87330,7 @@ Model use at data-build time:
 - HG nr. 1075/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1075/2024: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1075/2025: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1076/1996: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1076/1999: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1076/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1076/2001: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -87327,6 +87347,7 @@ Model use at data-build time:
 - HG nr. 1076/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1076/2024: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1076/2025: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1077/1996: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1077/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1077/2002: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1077/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -87340,6 +87361,7 @@ Model use at data-build time:
 - HG nr. 1077/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1077/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1077/2025: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1078/1996: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1078/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1078/2001: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1078/2002: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -87356,6 +87378,7 @@ Model use at data-build time:
 - HG nr. 1078/2021: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1078/2025: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1079/1990: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1079/1996: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1079/2001: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1079/2002: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1079/2003: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -87391,6 +87414,7 @@ Model use at data-build time:
 - HG nr. 108/2024: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 108/2025: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 108/2026: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1080/1996: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1080/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1080/2001: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1080/2002: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -87407,6 +87431,7 @@ Model use at data-build time:
 - HG nr. 1080/2021: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1080/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1080/2024: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1081/1996: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1081/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1081/2001: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1081/2002: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -87424,6 +87449,7 @@ Model use at data-build time:
 - HG nr. 1081/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1081/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1081/2024: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1082/1996: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1082/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1082/2001: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1082/2002: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -87441,6 +87467,7 @@ Model use at data-build time:
 - HG nr. 1082/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1082/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1082/2024: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1083/1996: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1083/2002: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1083/2003: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1083/2005: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -87456,6 +87483,7 @@ Model use at data-build time:
 - HG nr. 1083/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1083/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1083/2024: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1084/1996: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1084/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1084/2001: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1084/2002: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -87471,6 +87499,7 @@ Model use at data-build time:
 - HG nr. 1084/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1084/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1085/1995: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1085/1996: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1085/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1085/2001: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1085/2002: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -87486,6 +87515,7 @@ Model use at data-build time:
 - HG nr. 1085/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1085/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1085/2024: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1086/1996: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1086/2001: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1086/2002: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1086/2003: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -87501,6 +87531,7 @@ Model use at data-build time:
 - HG nr. 1086/2020: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1086/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1086/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1087/1996: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1087/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1087/2001: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1087/2002: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -87516,6 +87547,7 @@ Model use at data-build time:
 - HG nr. 1087/2020: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1087/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1087/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1088/1996: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1088/2001: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1088/2003: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1088/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -87563,6 +87595,7 @@ Model use at data-build time:
 - HG nr. 109/2024: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 109/2025: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1090/1995: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1090/1996: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1090/2001: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1090/2002: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1090/2003: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -87579,6 +87612,7 @@ Model use at data-build time:
 - HG nr. 1090/2021: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1090/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1090/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1091/1996: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1091/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1091/2001: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1091/2002: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -87592,6 +87626,7 @@ Model use at data-build time:
 - HG nr. 1091/2014: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1091/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1091/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 1092/1996: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1092/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1092/2001: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1092/2002: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
