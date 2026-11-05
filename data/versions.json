@@ -1009535,6 +1009535,21 @@
    ]
   },
   {
+   "slug": "oug-107-2000",
+   "path": "oug/2000/107",
+   "short": "OUG nr. 107/2000",
+   "title": "Ordonanța de urgență a Guvernului nr. 107/2000 pentru aprobarea Acordului dintre Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, acţionând în numele Agenţiei de Implementare a Facilităţii Globale de Mediu, realizat prin Scrisoarea semnată la Washington la 9 februarie 2000 şi la Bucureşti la 23 februarie 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23258",
+   "versions": [
+    {
+     "from": "2000-07-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23258",
+     "sha256": "c1107bf5c9bd51aa46b1a5f54cf9f00cc4363c2acfa00a794c4358099a50f4ab"
+    }
+   ]
+  },
+  {
    "slug": "oug-107-2001",
    "path": "oug/2001/107",
    "short": "OUG nr. 107/2001",
@@ -1009720,6 +1009735,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18624",
      "sha256": "407e231d1a6cb105b5a1a6db321156870bcccf833f4bd5ee5dcadda2c050e233"
+    }
+   ]
+  },
+  {
+   "slug": "oug-108-2000",
+   "path": "oug/2000/108",
+   "short": "OUG nr. 108/2000",
+   "title": "Ordonanța de urgență a Guvernului nr. 108/2000 pentru ratificarea Scrisorii de înţelegere dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnată la 10 martie 2000, privind acordarea unui avans de 100.000 dolari S.U.A. din viitorul împrumut pentru finanţarea Proiectului \"Facilitarea comerţului şi transportului în Sud-Estul Europei\", în valoare de 17,1 milioane dolari S.U.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23225",
+   "versions": [
+    {
+     "from": "2000-07-10",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23225",
+     "sha256": "91c830a9d516ff288c17636a01e37d01c38f5320e973999af1491d94ed40e07e"
     }
    ]
   },

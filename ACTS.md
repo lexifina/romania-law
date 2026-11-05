@@ -1,6 +1,6 @@
 # Every act in this repository
 
-68293 acts, 82,051 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); an order adds its issuer, `ordin/<issuer>/<year>/<number>[-<series>]/` (`ordin/justitie/2012/492-c/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+68295 acts, 82,053 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); an order adds its issuer, `ordin/<issuer>/<year>/<number>[-<series>]/` (`ordin/justitie/2012/492-c/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -8354,7 +8354,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (2906, of which 668 amending acts)
+## Emergency ordinances (OUG) (2908, of which 669 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8565,6 +8565,8 @@
 | Ordonanța de urgență a Guvernului nr. 104/2000 privind reinstituirea Ordinului şi Medaliei Naţionale Pentru Merit | [`oug/2000/104/`](oug/2000/104/) | amended, not consolidated | 1 | 2000-07-10 | 2000-07-10 |
 | Ordonanța de urgență a Guvernului nr. 105/2000 privind reinstituirea Ordinului, Crucii și Medaliei Naționale Serviciul Credincios | [`oug/2000/105/`](oug/2000/105/) | in force | 1 | 2000-07-10 | 2000-07-10 |
 | Ordonanța de urgență a Guvernului nr. 106/2000 | [`oug/2000/106/`](oug/2000/106/) | in force | 1 | 2000-07-11 | 2000-07-11 |
+| Ordonanța de urgență a Guvernului nr. 107/2000 pentru aprobarea Acordului dintre Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, acţionând în numele Agenţiei de Implementare a Facilităţii Globale de Mediu, realizat prin Scrisoarea semnată la Washington la 9 februarie 2000 şi la Bucureşti la 23 februarie 2000 | [`oug/2000/107/`](oug/2000/107/) | amending act | 1 | 2000-07-10 | 2000-07-10 |
+| Ordonanța de urgență a Guvernului nr. 108/2000 pentru ratificarea Scrisorii de înţelegere dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnată la 10 martie 2000, privind acordarea unui avans de 100.000 dolari S.U.A. din viitorul împrumut pentru finanţarea Proiectului "Facilitarea comerţului şi transportului în Sud-Estul Europei", în valoare de 17,1 milioane dolari S.U.A | [`oug/2000/108/`](oug/2000/108/) | in force | 1 | 2000-07-10 | 2000-07-10 |
 | Ordonanța de urgență a Guvernului nr. 109/2000 pentru modificarea şi completarea Ordonanţei Guvernului nr. 56/2000 privind reglementarea depozitarii cerealelor şi seminţelor oleaginoase, regimul certificatelor de depozit pentru acestea, precum şi constituirea Fondului de garantare pentru certificatele de depozit | [`oug/2000/109/`](oug/2000/109/) | amended, not consolidated | 1 | 2000-07-05 | 2000-07-05 |
 | Ordonanța de urgență a Guvernului nr. 110/2000 privind scutirea de la plata taxei pe valoarea adăugată a importurilor de utilaje şi echipamente pentru realizarea proiectului "Instalaţia de anhidrida ftalica şi plastifianţi" la Societatea Comercială "OLTCHIM" - S.A. Ramnicu Valcea | [`oug/2000/110/`](oug/2000/110/) | in force | 1 | 2000-07-04 | 2000-07-04 |
 | Ordonanța de urgență a Guvernului nr. 111/2000 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 11/1999 privind acordarea de facilităţi fiscale agenţilor economici | [`oug/2000/111/`](oug/2000/111/) | amended, not consolidated | 1 | 2000-07-06 | 2000-07-06 |
