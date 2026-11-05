@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12566 acts, 24,081 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12582 acts, 24,097 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8440, of which 3196 amending acts)
+## Laws (legi) (8455, of which 3200 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -457,12 +457,27 @@
 | Legea nr. 149/1997 | [`lege/1997/149/`](lege/1997/149/) | in force | 1 | 1997-07-30 | 1997-07-30 |
 | Legea nr. 150/1997 | [`lege/1997/150/`](lege/1997/150/) | in force | 1 | 1997-07-29 | 1997-07-29 |
 | Legea nr. 151/1997 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 10/1997 cu privire la diminuarea blocajului financiar şi a pierderilor din economie | [`lege/1997/151/`](lege/1997/151/) | amended, not consolidated | 1 | 1997-07-28 | 1997-07-28 |
+| Legea nr. 155/1997 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 29/1997 privind autorizarea Băncii Naţionale a României pentru efectuarea unor operaţiuni pe piaţa monetara | [`lege/1997/155/`](lege/1997/155/) | amending act | 1 | 1997-10-09 | 1997-10-09 |
 | Legea nr. 157/1997 | [`lege/1997/157/`](lege/1997/157/) | in force | 1 | 1997-10-13 | 1997-10-13 |
 | Legea nr. 158/1997 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 44/1997 privind suspendarea impozitului pe venitul agricol | [`lege/1997/158/`](lege/1997/158/) | amended, not consolidated | 1 | 1997-10-24 | 1997-10-24 |
+| Legea nr. 159/1997 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 8/1997 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 6/1997 privind constituirea, la dispoziţia Ministerului Agriculturii şi Alimentaţiei, a fondului pentru finanţarea lucrărilor agricole | [`lege/1997/159/`](lege/1997/159/) | amending act | 1 | 1997-10-24 | 1997-10-24 |
+| Legea nr. 160/1997 privind declararea oraşului Calafat municipiu | [`lege/1997/160/`](lege/1997/160/) | in force | 1 | 1997-10-24 | 1997-10-24 |
 | Legea nr. 161/1997 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 33/1997 privind competenţa stabilirii de către autorităţile administraţiei publice locale a normativelor proprii pentru dotarea cu autoturisme şi a consumului lunar de carburanţi | [`lege/1997/161/`](lege/1997/161/) | amended, not consolidated | 1 | 1997-10-24 | 1997-10-24 |
 | Legea nr. 162/1997 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 35/1997 privind măsurile de stimulare a persoanelor fizice şi juridice pentru încadrarea în munca a absolvenţilor instituţiilor de învăţământ | [`lege/1997/162/`](lege/1997/162/) | amended, not consolidated | 1 | 1997-10-24 | 1997-10-24 |
+| Legea nr. 164/1997 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 20/1997 pentru modificarea şi completarea Legii nr. 118/1996 privind constituirea şi utilizarea Fondului special al drumurilor publice | [`lege/1997/164/`](lege/1997/164/) | amending act | 1 | 1997-10-24 | 1997-10-24 |
+| Legea nr. 165/1997 privind declararea oraşului Olteniţa municipiu | [`lege/1997/165/`](lege/1997/165/) | in force | 1 | 1997-10-24 | 1997-10-24 |
+| Legea nr. 166/1997 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Elene privind promovarea şi protejarea reciprocă a investiţiilor, semnat la Atena la 23 mai 1997 | [`lege/1997/166/`](lege/1997/166/) | in force | 1 | 1997-10-24 | 1997-10-24 |
+| Legea nr. 167/1997 pentru reorganizarea comunelor Băiţa de sub Codru şi Băseşti din judeţul Maramureş | [`lege/1997/167/`](lege/1997/167/) | in force | 1 | 1997-10-24 | 1997-10-24 |
+| Legea nr. 168/1997 privind modificarea unor dispoziţii ale Legii nr. 140/1996 pentru modificarea şi completarea Codului penal | [`lege/1997/168/`](lege/1997/168/) | amending act | 1 | 1997-10-24 | 1997-10-24 |
 | Legea nr. 169/1997 | [`lege/1997/169/`](lege/1997/169/) | in force | 2 | 1997-11-04 | 2005-07-25 |
+| Legea nr. 170/1997 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Federale Germania privind mormintele româneşti de război din Republica Federala Germania şi mormintele germane de război din România, semnat la Bonn la 25 iunie 1996 | [`lege/1997/170/`](lege/1997/170/) | in force | 1 | 1997-11-06 | 1997-11-06 |
 | Legea nr. 171/1997 | [`lege/1997/171/`](lege/1997/171/) | in force | 1 | 1997-11-24 | 1997-11-24 |
+| Legea nr. 172/1997 pentru ratificarea Memorandumului de înţelegere dintre Guvernul României şi Guvernul Regatului Unit al Marii Britanii şi Irlandei de Nord privind pregătirea Forţelor Armate Britanice în România, semnat la Bucureşti la 29 iulie 1996 | [`lege/1997/172/`](lege/1997/172/) | in force | 1 | 1997-11-07 | 1997-11-07 |
+| Legea nr. 173/1997 pentru ratificarea Acordului dintre România şi Republica Italiana privind readmisia persoanelor aflate în situaţie ilegala, semnat la Bucureşti la 4 martie 1997 | [`lege/1997/173/`](lege/1997/173/) | in force | 1 | 1997-11-07 | 1997-11-07 |
+| Legea nr. 174/1997 pentru ratificarea Convenţiei privind securitatea personalului Naţiunilor Unite şi a celui asociat, adoptată la New York la 9 decembrie 1994 | [`lege/1997/174/`](lege/1997/174/) | in force | 1 | 1997-11-07 | 1997-11-07 |
+| Legea nr. 175/1997 pentru ratificarea Memorandumului de înţelegere dintre Guvernul României şi Guvernul Republicii Elene privind cooperarea în domeniile armamentelor şi tehnologiei destinate apărării, semnat la Bucureşti la 27 martie 1997 | [`lege/1997/175/`](lege/1997/175/) | in force | 1 | 1997-11-13 | 1997-11-13 |
+| Legea nr. 176/1997 pentru aderarea României la Statutul Conferinţei Miniştrilor Educaţiei din statele care au în comun folosirea limbii franceze - CONFEMEN, adoptat prin Rezoluţia 94-46-01, Yaounde - iulie 1994 | [`lege/1997/176/`](lege/1997/176/) | in force | 1 | 1997-11-13 | 1997-11-13 |
+| Legea nr. 177/1997 pentru ratificarea Tratatului dintre România şi Republica Moldova privind asistenţa juridică în materie civilă şi penală, semnat la Chişinău la 6 iulie 1996 | [`lege/1997/177/`](lege/1997/177/) | in force | 1 | 1997-11-13 | 1997-11-13 |
 | Legea nr. 178/1997 | [`lege/1997/178/`](lege/1997/178/) | in force | 9 | 1997-11-10 | 2016-05-02 |
 | Legea nr. 182/1997 pentru ratificarea actelor adoptate de Congresul Uniunii Poştale Universale de la Seul (1994) | [`lege/1997/182/`](lege/1997/182/) | in force | 1 | 1997-11-26 | 1997-11-26 |
 | Legea nr. 183/1997 privind ratificarea Convenţiei europene pentru reprimarea infracţiunilor rutiere, adoptată la Strasbourg la 30 noiembrie 1964 | [`lege/1997/183/`](lege/1997/183/) | in force | 1 | 1997-11-18 | 1997-11-18 |
@@ -8478,7 +8493,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (2930, of which 676 amending acts)
+## Emergency ordinances (OUG) (2931, of which 676 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8511,6 +8526,7 @@
 | Ordonanța de urgență a Guvernului nr. 56/1997 pentru completarea art. 6 din Ordonanţa Guvernului nr. 3/1992 privind taxa pe valoarea adăugată | [`oug/1997/56/`](oug/1997/56/) | amended, not consolidated | 1 | 1997-09-29 | 1997-09-29 |
 | Ordonanța de urgență a Guvernului nr. 57/1997 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 6/1997 privind constituirea, la dispoziţia Ministerului Agriculturii şi Alimentaţiei, a fondului pentru finanţarea lucrărilor agricole, aprobată şi modificată prin Legea nr. 62/1997 | [`oug/1997/57/`](oug/1997/57/) | amended, not consolidated | 1 | 1997-09-29 | 1997-09-29 |
 | Ordonanța de urgență a Guvernului nr. 59/1997 privind destinaţia sumelor încasate de Fondul Proprietăţii de Stat în cadrul procesului de privatizare a societăţilor comerciale la care statul este acţionar | [`oug/1997/59/`](oug/1997/59/) | amended, not consolidated | 1 | 1997-10-06 | 1997-10-06 |
+| Ordonanța de urgență a Guvernului nr. 63/1997 privind unele măsuri de protecţie socială a personalului din sectorul producţiei de apărare | [`oug/1997/63/`](oug/1997/63/) | in force | 1 | 1997-10-21 | 1997-10-21 |
 | Ordonanța de urgență a Guvernului nr. 66/1997 privind scutirea de plată a impozitelor pe salarii şi/sau pe venituri realizate de consultanţi străini pentru activităţile desfăşurate în România în cadrul unor acorduri de împrumut | [`oug/1997/66/`](oug/1997/66/) | amended, not consolidated | 1 | 1997-10-29 | 1997-10-29 |
 | Ordonanța de urgență a Guvernului nr. 69/1997 privind acordarea unui ajutor pentru plata cheltuielilor suplimentare, determinate de creşterea consumului de energie termica în lunile sezonului rece şi de majorarea preţului acesteia, pentru unele categorii ale populaţiei, precum şi modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 3/1997 | [`oug/1997/69/`](oug/1997/69/) | amended, not consolidated | 1 | 1997-11-05 | 1997-11-05 |
 | Ordonanța de urgență a Guvernului nr. 70/1997 pentru ratificarea Acordului-cadru de împrumut dintre România şi Fondul de Dezvoltare Socială al Consiliului Europei, semnat la Paris la 1 octombrie 1997 | [`oug/1997/70/`](oug/1997/70/) | amended, not consolidated | 1 | 1997-11-12 | 1997-11-12 |
@@ -12632,7 +12648,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 29275 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 29301 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |

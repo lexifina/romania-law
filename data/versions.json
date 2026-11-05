@@ -102326,6 +102326,21 @@
    ]
   },
   {
+   "slug": "legea-155-1997",
+   "path": "lege/1997/155",
+   "short": "Legea nr. 155/1997",
+   "title": "Legea nr. 155/1997 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 29/1997 privind autorizarea Băncii Naţionale a României pentru efectuarea unor operaţiuni pe piaţa monetara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11849",
+   "versions": [
+    {
+     "from": "1997-10-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11849",
+     "sha256": "8857c852475c6f642452b4bd28da4619e881d6c2a17d512ce577bd9fc4caf20d"
+    }
+   ]
+  },
+  {
    "slug": "legea-155-1998",
    "path": "lege/1998/155",
    "short": "Legea nr. 155/1998",
@@ -103595,6 +103610,21 @@
    ]
   },
   {
+   "slug": "legea-159-1997",
+   "path": "lege/1997/159",
+   "short": "Legea nr. 159/1997",
+   "title": "Legea nr. 159/1997 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 8/1997 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 6/1997 privind constituirea, la dispoziţia Ministerului Agriculturii şi Alimentaţiei, a fondului pentru finanţarea lucrărilor agricole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11865",
+   "versions": [
+    {
+     "from": "1997-10-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11865",
+     "sha256": "f276410b039c1ffa3ab3e155d2e85d252cd1298afe8cb32e296724c0db7c3733"
+    }
+   ]
+  },
+  {
    "slug": "legea-159-1999",
    "path": "lege/1999/159",
    "short": "Legea nr. 159/1999",
@@ -104266,6 +104296,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306445",
      "sha256": "4b7e93aa5b323ce835452740b7384552616d455285794456d274292d94ce31dd"
+    }
+   ]
+  },
+  {
+   "slug": "legea-160-1997",
+   "path": "lege/1997/160",
+   "short": "Legea nr. 160/1997",
+   "title": "Legea nr. 160/1997 privind declararea oraşului Calafat municipiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11868",
+   "versions": [
+    {
+     "from": "1997-10-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11868",
+     "sha256": "2c5a9481e942c865a6371a621f0365c0853518bb0a9b385a593d32d065588649"
     }
    ]
   },
@@ -105500,6 +105545,21 @@
    ]
   },
   {
+   "slug": "legea-164-1997",
+   "path": "lege/1997/164",
+   "short": "Legea nr. 164/1997",
+   "title": "Legea nr. 164/1997 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 20/1997 pentru modificarea şi completarea Legii nr. 118/1996 privind constituirea şi utilizarea Fondului special al drumurilor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11886",
+   "versions": [
+    {
+     "from": "1997-10-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11886",
+     "sha256": "9c06e5a5950bd72da703894d6403e0c7773873e0dd325242e3d23c58cc4e4a38"
+    }
+   ]
+  },
+  {
    "slug": "legea-164-1999",
    "path": "lege/1999/164",
    "short": "Legea nr. 164/1999",
@@ -105793,6 +105853,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303649",
      "sha256": "6ee3cb164ace29d8e9c91aa427c57f426ee63262707041a513af88c5a703af06"
+    }
+   ]
+  },
+  {
+   "slug": "legea-165-1997",
+   "path": "lege/1997/165",
+   "short": "Legea nr. 165/1997",
+   "title": "Legea nr. 165/1997 privind declararea oraşului Olteniţa municipiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11890",
+   "versions": [
+    {
+     "from": "1997-10-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11890",
+     "sha256": "1d1f3b76e2f33638d5cd3479fb6e5789a1a1cfc7e826f533f6f9f8a4f4c2f965"
     }
    ]
   },
@@ -106108,6 +106183,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303651",
      "sha256": "2f1a9ab5c7cc11f807859db73f36d09a2e5919354019869717e90e84a38c23dd"
+    }
+   ]
+  },
+  {
+   "slug": "legea-166-1997",
+   "path": "lege/1997/166",
+   "short": "Legea nr. 166/1997",
+   "title": "Legea nr. 166/1997 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Elene privind promovarea şi protejarea reciprocă a investiţiilor, semnat la Atena la 23 mai 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11894",
+   "versions": [
+    {
+     "from": "1997-10-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11894",
+     "sha256": "e3f48165bd710b15dd53be4283aaf2b177baf0f402b97c6a90a7647fc13f4f2c"
     }
    ]
   },
@@ -106442,6 +106532,21 @@
    ]
   },
   {
+   "slug": "legea-167-1997",
+   "path": "lege/1997/167",
+   "short": "Legea nr. 167/1997",
+   "title": "Legea nr. 167/1997 pentru reorganizarea comunelor Băiţa de sub Codru şi Băseşti din judeţul Maramureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11898",
+   "versions": [
+    {
+     "from": "1997-10-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11898",
+     "sha256": "c989b500cda02b266fa5d242fbc3c8457f4f213b2f1ff62c468023f24a8eb6e2"
+    }
+   ]
+  },
+  {
    "slug": "legea-167-1999",
    "path": "lege/1999/167",
    "short": "Legea nr. 167/1999",
@@ -106699,6 +106804,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271061",
      "sha256": "1515f4c4c82505775af657ee4f1fa605ddeea77dc8a1c4f80f2ceba62439b0ec"
+    }
+   ]
+  },
+  {
+   "slug": "legea-168-1997",
+   "path": "lege/1997/168",
+   "short": "Legea nr. 168/1997",
+   "title": "Legea nr. 168/1997 privind modificarea unor dispoziţii ale Legii nr. 140/1996 pentru modificarea şi completarea Codului penal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11903",
+   "versions": [
+    {
+     "from": "1997-10-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11903",
+     "sha256": "8662ebae9819a6ae50d6042f79355a64a65c10f706bf2532a9698abfbc9ab37c"
     }
    ]
   },
@@ -107615,6 +107735,21 @@
    ]
   },
   {
+   "slug": "legea-170-1997",
+   "path": "lege/1997/170",
+   "short": "Legea nr. 170/1997",
+   "title": "Legea nr. 170/1997 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Federale Germania privind mormintele româneşti de război din Republica Federala Germania şi mormintele germane de război din România, semnat la Bonn la 25 iunie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11912",
+   "versions": [
+    {
+     "from": "1997-11-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11912",
+     "sha256": "b6fa83a541a350512382b467e460928440c28ea7aa4ace8e969b14a1c4bc754d"
+    }
+   ]
+  },
+  {
    "slug": "legea-170-1998",
    "path": "lege/1998/170",
    "short": "Legea nr. 170/1998",
@@ -108332,6 +108467,21 @@
    ]
   },
   {
+   "slug": "legea-172-1997",
+   "path": "lege/1997/172",
+   "short": "Legea nr. 172/1997",
+   "title": "Legea nr. 172/1997 pentru ratificarea Memorandumului de înţelegere dintre Guvernul României şi Guvernul Regatului Unit al Marii Britanii şi Irlandei de Nord privind pregătirea Forţelor Armate Britanice în România, semnat la Bucureşti la 29 iulie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11920",
+   "versions": [
+    {
+     "from": "1997-11-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11920",
+     "sha256": "08a47ecb1f85897acd034f4458a2cb820a8dcce995040512a7fd474f2b8caf7e"
+    }
+   ]
+  },
+  {
    "slug": "legea-172-1998",
    "path": "lege/1998/172",
    "short": "Legea nr. 172/1998",
@@ -108692,6 +108842,21 @@
    ]
   },
   {
+   "slug": "legea-173-1997",
+   "path": "lege/1997/173",
+   "short": "Legea nr. 173/1997",
+   "title": "Legea nr. 173/1997 pentru ratificarea Acordului dintre România şi Republica Italiana privind readmisia persoanelor aflate în situaţie ilegala, semnat la Bucureşti la 4 martie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11924",
+   "versions": [
+    {
+     "from": "1997-11-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11924",
+     "sha256": "5c62f60c83ed74478774c0fdcfb2ddd1498a498bb27b693d32d296ffddff8cdc"
+    }
+   ]
+  },
+  {
    "slug": "legea-173-1998",
    "path": "lege/1998/173",
    "short": "Legea nr. 173/1998",
@@ -108994,6 +109159,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313402",
      "sha256": "43b4aca8e1be0c61da46877a56b3a4be76ab8c53676176ea42324c24e20d2500"
+    }
+   ]
+  },
+  {
+   "slug": "legea-174-1997",
+   "path": "lege/1997/174",
+   "short": "Legea nr. 174/1997",
+   "title": "Legea nr. 174/1997 pentru ratificarea Convenţiei privind securitatea personalului Naţiunilor Unite şi a celui asociat, adoptată la New York la 9 decembrie 1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11928",
+   "versions": [
+    {
+     "from": "1997-11-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11928",
+     "sha256": "eeab37eb85b39d11d99e2dfb4bbd12ae2d415f4c36562df5dc9ec69626713e04"
     }
    ]
   },
@@ -109361,6 +109541,21 @@
    ]
   },
   {
+   "slug": "legea-175-1997",
+   "path": "lege/1997/175",
+   "short": "Legea nr. 175/1997",
+   "title": "Legea nr. 175/1997 pentru ratificarea Memorandumului de înţelegere dintre Guvernul României şi Guvernul Republicii Elene privind cooperarea în domeniile armamentelor şi tehnologiei destinate apărării, semnat la Bucureşti la 27 martie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11932",
+   "versions": [
+    {
+     "from": "1997-11-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11932",
+     "sha256": "46fc9aa3393d846eaf2cb1087c25c09a06e0acca9152966760424feb77025927"
+    }
+   ]
+  },
+  {
    "slug": "legea-175-1998",
    "path": "lege/1998/175",
    "short": "Legea nr. 175/1998",
@@ -109672,6 +109867,21 @@
      "units": 4,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/34518",
      "sha256": "fbea21e26349c05ff2e8b886d1b38178a0ef4b1a04e857d95a2d463de4d15985"
+    }
+   ]
+  },
+  {
+   "slug": "legea-176-1997",
+   "path": "lege/1997/176",
+   "short": "Legea nr. 176/1997",
+   "title": "Legea nr. 176/1997 pentru aderarea României la Statutul Conferinţei Miniştrilor Educaţiei din statele care au în comun folosirea limbii franceze - CONFEMEN, adoptat prin Rezoluţia 94-46-01, Yaounde - iulie 1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11936",
+   "versions": [
+    {
+     "from": "1997-11-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11936",
+     "sha256": "a074065d509705e4e260989b39fc07817aba57c5d888b1e3ea2149d5384c40f2"
     }
    ]
   },
@@ -110008,6 +110218,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303822",
      "sha256": "bb38c2f1bd79f20560da31c86b3b51fcace2fb547764654473b6582316507976"
+    }
+   ]
+  },
+  {
+   "slug": "legea-177-1997",
+   "path": "lege/1997/177",
+   "short": "Legea nr. 177/1997",
+   "title": "Legea nr. 177/1997 pentru ratificarea Tratatului dintre România şi Republica Moldova privind asistenţa juridică în materie civilă şi penală, semnat la Chişinău la 6 iulie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11940",
+   "versions": [
+    {
+     "from": "1997-11-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11940",
+     "sha256": "dda50d665a32a80219f1d06661ece7711a5000ee7fefc7029da7f944462e8fd0"
     }
    ]
   },
@@ -246238,6 +246463,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/284051",
      "sha256": "25576be44247be7d9d704986e8c4b9324693281d0e24dd51d2bd8397ec876d81"
+    }
+   ]
+  },
+  {
+   "slug": "oug-63-1997",
+   "path": "oug/1997/63",
+   "short": "OUG nr. 63/1997",
+   "title": "Ordonanța de urgență a Guvernului nr. 63/1997 privind unele măsuri de protecţie socială a personalului din sectorul producţiei de apărare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11404",
+   "versions": [
+    {
+     "from": "1997-10-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11404",
+     "sha256": "9d5d728ef36bf26403a3b759cf7d777e6f785da3cda55dd0d5f18656dc90c6c7"
     }
    ]
   },
