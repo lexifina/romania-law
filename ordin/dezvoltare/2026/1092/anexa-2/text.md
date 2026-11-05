@@ -1,0 +1,1573 @@
+# Anexa nr. 2
+Notă...
+1.
+SCOP ȘI DOMENIU DE APLICARE
+Prezenta reglementare tehnică "Instrucțiune tehnică de execuție pentru soluțiile de îmbunătățire a terenului de fundare" cuprinde aspecte de execuție ale soluțiilor de îmbunătățire a terenului de fundare al oricăror construcții și structurilor geotehnice.
+Pentru construcții și structuri specifice care urmează a fi fundate pe terenul îmbunătățit sau pentru anumite utilizări specifice ale lucrărilor din pământ se aplică prevederile reglementărilor tehnice în vigoare specifice acestora.
+Prezenta reglementare tehnică înlocuiește prevederile legate de execuție din următoarele reglementări tehnice: -
+Normativ privind îmbunătățirea terenurilor de fundare slabe prin procedee mecanice (caietele I....VI), indicativ C 29-1985, aprobat prin Decizia Institutului Central de Cercetare, Proiectare și Directivare în Construcții nr. 20/11.04.1985, publicat în Buletinul Construcțiilor nr. 8/1985;
+-
+Instrucțiuni tehnice pentru consolidarea pământurilor sensibile la umezire și a nisipurilor prin silicatizare și electrosilicatizare, indicativ C 168-1980, aprobat prin Decizia Institutului Central de Cercetare, Proiectare și Directivare în Construcții nr. 91/17.11.1980, publicat în Buletinul Construcțiilor nr. 12/1980;
+-
+Normativ privind executarea lucrărilor de terasamente pentru realizarea fundațiilor construcțiilor civile și industriale, indicativ C 169-1988, aprobat prin Decizia Institutului Central de Cercetare, Proiectare și Directivare în Construcții nr. 59/30.09.1988, publicat în Buletinul Construcțiilor nr. 5/1988;
+-
+Instrucțiuni tehnice pentru folosirea pământurilor stabilizate la lucrările de fundații, indicativ C 196-1986, aprobat prin Decizia Institutului Central de Cercetare, Proiectare și Directivare în Construcții nr. 30/03.10.1986, publicat în Buletinul Construcțiilor nr. 8/1986;
+-
+Instrucțiuni tehnice pentru proiectarea executarea, recepționarea lucrărilor de îmbunătățire a terenurilor slabe de fundare prin metoda îmbunătățirii cu materiale locale de aport pe cale dinamică, indicativ C 251-1994, aprobat prin Ordinul ministrului lucrărilor publice și amenajării teritoriului nr. 4/N/11.02.1994, publicat în Buletinul Construcțiilor nr. 7/1994;
+-
+Instrucțiuni tehnice departamentale pentru proiectarea și executarea fundațiilor pentru lucrările de drumuri din pământuri stabilizate cu ciment, indicativ CD 29-1979, aprobat prin Ordinul ministrului transporturilor, turismului și construcțiilor nr. 311/17.02.1979, publicat în Buletinul Construcțiilor nr. 11/1979;
+-
+Normativ privind îmbunătățirea terenurilor de fundare slabe, prin procedee mecanice și de compactare cu maiul foarte greu - caiet VIII, indicativ NE 008-1997, aprobat prin Ordinul ministrului lucrărilor publice și amenajării teritoriului nr. 60/N/03.11.1997, publicat în Buletinul Construcțiilor nr. 15/1998.
+2.
+TERMENI ȘI DEFINIȚII 2.1.
+Termeni generali Se aplică termenii generali legați de proiectarea structurală și geotehnică din standardul SR EN 1990:2023, precum și cei referitori la proiectarea geotehnică din standardele SR EN 1997-1:2024, SR EN 1997-2:2024, SR EN 1997-3:2025, și din reglementarea tehnică Normativ privind documentațiile geotehnice pentru construcții, indicativ NP 074-2022, aprobat prin Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 27/10.01.2023, publicat în Monitorul Oficial al României, Partea I, nr. 56 și 56 bis din 20 ianuarie 2023, denumit în continuare NP 074-2022.
+Mai jos sunt prezentați câțiva termeni specifici lucrărilor de îmbunătățire a terenului aplicabili acestei reglementări tehnice. (1) teren - pământuri, roci și umpluturi existente pe amplasament înainte de începerea lucrărilor de construcție;
+(2) îmbunătățirea terenului - modificarea terenului pentru a-i îmbunătăți performanțele față de stările limită ultime și/sau de serviciu;
+(3) îmbunătățire discretă - îmbunătățire a terenului care cuprinde incluziuni create în teren care au proprietăți diferite de cele ale terenului din jur;
+Notă: sursa standardul SR EN 1997-3:2025
+(4) îmbunătățire difuză - îmbunătățire a terenului în care zona de teren îmbunătățită poate fi modelată cu un singur set de parametri;
+Notă: sursa standardul SR EN 1997-3:2025
+(5)
+Model al Terenului - Modelul Terenului este o reprezentare a condițiilor topografice, geologice, tectonice, hidrogeologice și geotehnice relevante dintr-un amplasament dat, care se bazează pe rezultatele investigațiilor de teren și alte date relevante;
+Notă: sursa reglementarea tehnică NP 074-2022
+(6)
+Model Geotehnic de Proiectare - Modelul Geotehnic de Proiectare este o reprezentare a terenului din amplasament derivată din modelul terenului care este utilizată la etapa de proiectare geotehnică pentru verificarea stărilor limită și situațiilor de proiectare;
+Notă: sursa reglementarea tehnică NP 074-2022
+(7) zonă de influență - zonă în care lucrările de construcție sau structura geotehnică poate afecta negativ siguranța, starea de exploatare, robustețea, durabilitatea sau sustenabilitatea structurii geotehnice sau a altor structuri, utilitățile, terenul sau apa subterană;
+Notă: sursa standardul SR EN 1997-1:2024
+(8)
+Categorie Geotehnică - sistem de clasificare care combină incertitudinea și complexitatea terenului, inclusiv interacțiunea dintre apă subterană și/sau teren cu structura, cu consecințele cedării;
+Notă: sursa standardul SR EN 1997-1:2024
+(9) structură geotehnică - o structură care include pământul sau o parte structurală de construcție care se bazează pe rezistența pământului;
+(10) zonă îmbunătățită - volum de teren care a fost îmbunătățit și care are proprietăți modificate;
+Notă: sursa standardul SR EN 1997-3:2025
+(11) incluziune - element creat în teren, cu geometrie definită și cu proprietăți semnificativ diferite față de terenul din jur pentru a modifica distribuția încărcărilor, eforturilor și a curgerii apei subterane în terenul îmbunătățit;
+Notă: sursa standardul SR EN 1997-3:2025
+(12) incluziune rigidă - incluziune cu rigiditate și rezistență considerabil mai mare decât cea a terenului din jur;
+Notă: sursa standardul SR EN 1997-3:2025
+(13) specificație tehnică - document sau set de documente care cuprind prevederi scrise, piese desenate, descrieri ale lucrărilor proiectate, cerințe tehnice aferente execuției și materialelor utilizate, prevederi legate de controlul lucrărilor, toleranțe și alte date tehnice și cerințe necesare pentru execuția lucrărilor;
+Nota 1: adaptat după standardele SR EN 1997-1:2024 și SR EN 16907-1 Nota 2: mai poartă numele de caiet de sarcini
+(14) caracteristici - proprietăți ale materialelor care pot fi relevante pentru o anumită utilizare;
+(15) proprietăți - atribute fizice, mecanice și chimice ale unui material;
+(16) poligon experimental (de încercare) - un sector sau o zonă special amenajată din amplasament utilizată pentru a testa și a evalua comportamentul diferitelor tehnologii, materiale sau soluții de îmbunătățire;
+2.2.
+Termeni referitori la îmbunătățirea terenului de fundare prin compactare dinamică (17) compactare dinamică prin batere - compactare de adâncime a terenului obținută prin căderea unor maiuri grele sau prin aplicarea unor impulsuri, în mod repetat, pe teren, de regulă în puncte care formează o rețea, care generează unde de vibrații ce se propagă în teren;
+(18) compactare dinamică prin vibrare (vibro-compactare) - compactare de adâncime prin vibrare a terenului obținută prin crearea de vibrații prin introducerea în teren a unui vibrator sau a unui profil vibrant;
+Notă: Pentru compactarea dinamică prin vibrare se aplică termenii și definițiile din standardul SR EN 14731.
+2.3.
+Termeni referitori la îmbunătățirea terenului de fundare prin consolidare (19) consolidare - procesul de reducere a volumului porilor unui pământ sub acțiunea încărcărilor aplicate, concomitent cu expulzarea apei din pori (la pământurile saturate);
+(20) rambleu de preîncărcare - rambleu executat pe un teren ce urmează a fi îmbunătățit prin consolidare care aduce pe teren o sarcină mai mare decât sarcina finală ce va fi aplicată de structura permanentă ce va fi fundată;
+(21) drenuri verticale - structură de drenaj verticală creată în teren pentru a înlătura excesul de presiune a apei din pori, accelerând consolidarea terenurilor moi, saturate;
+Notă: Pentru îmbunătățirea terenului cu drenuri verticale se aplică termenii și definițiile din standardul SR EN 15237.
+2.4.
+Termeni referitori la îmbunătățirea terenului prin coloane (22) coloane din material granular realizate prin vibrare - metodă de îmbunătățire a terenului prin vibrare de adâncime în care un vibrator de adâncime este folosit pentru a forma coloane continue din material granular de aport (vibro-înlocuire) sau din materialul necoeziv din teren (vibro-compactare);
+Notă: Pentru compactarea dinamică prin vibrare se aplică termenii și definițiile din standardul SR EN 14731.
+(23) substituție dinamică - metodă de îmbunătățire a terenului prin utilizarea compactării dinamice pentru a introduce în teren materiale granulare pentru a forma coloane sau ploturi din material granular;
+(24) coloane în teacă de geotextil - coloane din material granular sau pământ la care materialul este introdus într-o teacă realizată din geotextil, introdusă în prealabil în teren cu ajutorul unui tubaj, pentru a controla dimensiunea și forma coloanei formate într-un teren foarte moale;
+2.5.
+Termeni referitori la îmbunătățirea terenului prin incluziuni rigide (25) platformă de transfer - strat compactat, de regulă din material granular, deseori armat, amplasat peste capetele incluziunilor rigide, sub fundație, pentru a distribui încărcările între incluziuni și terenul dintre acestea;
+2.6.
+Termeni referitori la îmbunătățirea terenului prin injecții (26) injectare a terenului de fundare - introducerea unor fluide în teren cu ajutorul presiunii, capabile să modifice proprietățile fizico-mecanice ale materialelor din care acesta este alcătuit
+Nota 1: Pentru îmbunătățirea terenurilor prin injecții se aplică termenii și definițiile din standardul SR EN 12715.
+Nota 2: Pentru îmbunătățirea pământurilor prin injecții cu presiune înaltă se aplică termenii și definițiile din standardul SR EN 12716.
+2.7.
+Termeni referitori la îmbunătățirea terenurilor prin malaxare de adâncime (27) îmbunătățire prin malaxare de adâncime - tehnică de îmbunătățire care presupune amestecarea mecanică a unui liant cu pământul, in-situ sau ex-situ pentru a crea un nou material cu proprietăți îmbunătățite;
+Notă: Pentru îmbunătățirea pământurilor prin malaxare în adâncime se aplică termenii și definițiile din standardul SR EN 14679:2005.
+2.8.
+Termeni referitori la lucrări din pământ
+Pentru lucrările din pământ se aplică termenii și definițiile din standardul SR EN 16907 (toate părțile). (28) lucrări din pământ - proces de inginerie civilă, care modifică geometria suprafeței terenului prin crearea unor structuri din pământ stabile și durabile;
+(29) structură din pământ - structură de inginerie civilă, realizată din pământuri, roci, subproduse sau materiale reciclate, rezultată din lucrări de lucrări din pământ (debleu, rambleu, umplutură);
+Notă: sursă standardul SR EN 16907-1
+(30) proiectarea lucrărilor din pământ - stabilirea procesului de construcție pentru realizarea unei anumite structuri din pământ;
+(31) stabilizarea pământului (stabilizare chimică) - operație care constă din obținerea unui amestec omogen de pământ cu liant (lianți) și, eventual, cu apă care, după compactare adecvată, modifică semnificativ (în general, pe termen mediu sau lung) caracteristicile pământului, astfel încât să îl facă stabil, în mod deosebit în raport cu acțiunea apei sau a înghețului
+3.
+REFERINȚE 3.1.
+Standarde române de referință
+Nr. crt
+Indicativ
+Titlu
+1.
+SR EN 1997-1:2024
+Eurocod 7: Proiectare geotehnică. Partea 1: Reguli generale
+2.
+SR EN 1997-1:2024/NA:2025
+Eurocod 7: Proiectare geotehnică. Partea 1: Reguli generale. Anexă Națională
+3.
+SR EN 1997-2:2024
+Eurocod 7: Proiectare geotehnică. Partea 2: Proprietăți ale terenului
+4.
+SR EN 1997- 2:2024/NA:2025
+Eurocod 7: Proiectare geotehnică. Partea 2: Proprietăți ale terenului. Anexa Națională
+5.
+SR EN 1997-3:2025
+Eurocod 7: Proiectare geotehnică. Partea 3: Structuri geotehnice
+6.
+SR EN 1990:2023
+Eurocod: Bazele proiectării structurale și geotehnice
+7.
+SR EN 1990:2023/NA:2025
+Eurocod: Bazele proiectării structurale și geotehnice. Anexa Națională
+8.
+SR EN 1992-1-1:2024
+Eurocod 2. Proiectarea structurilor din beton. Partea 1-1: Reguli generale și reguli pentru clădiri, poduri și structuri de inginerie civilă
+9.
+SR EN 1992-1-1:2024/NA:2025
+Eurocod 2. Proiectarea structurilor din beton. Partea 1-1: Reguli generale și reguli pentru clădiri, poduri și structuri de inginerie civilă. Anexa Națională
+10.
+SR EN 1993-1-1:2023
+Eurocod 3: Proiectarea structurilor din oțel. Partea 1-1: Reguli generale și reguli pentru clădiri
+11.
+SR EN 1993-1-1:2023/NA:2025
+Eurocod 3: Proiectarea structurilor din oțel. Partea 1-1: Reguli generale și reguli pentru clădiri. Anexa Națională
+12.
+SR EN 1995-1-1:2004
+Eurocod 5: Proiectarea structurilor de lemn. Partea 1-1: Generalități. Reguli comune și reguli pentru clădiri
+13.
+SR EN 1995-1-1:2004/NB:2008
+Eurocod 5: Proiectarea structurilor de lemn. Partea 1-1: Generalități. Reguli comune și reguli pentru clădiri. Anexă națională
+14.
+SR EN 16907-1
+Lucrări din pământ. Partea 1: Principii și reguli generale
+15.
+SR EN 16907-2
+Lucrări din pământ. Partea 2: Clasificarea materialelor
+16.
+SR EN 16907-3
+Lucrări din pământ. Partea 3: Proceduri de construcție
+17.
+SR EN 16907-4
+Lucrări din pământ. Partea 4: Tratarea pământurilor cu var și/sau lianți hidraulici
+18.
+SR EN 16907-5
+Lucrări din pământ. Partea 5: Controlul calității
+19.
+SR EN 16907-6
+Lucrări din pământ. Partea 6: Lucrări din pământ pentru recuperarea de terenuri din apă utilizând umpluturi din material dragat pus în operă prin hidromecanizare
+20.
+SR EN 16907-7
+Lucrări din pământ. Partea 7: Punerea în operă prin hidromecanizare a deșeurilor miniere
+21.
+SR EN ISO 14688-1
+Investigații și încercări geotehnice. Identificarea și clasificarea pământurilor. Partea 1: Identificare și descriere
+22.
+SR EN ISO 14688-2
+Investigații și încercări geotehnice. Identificarea și clasificarea pământurilor. Partea 2: Principii pentru o clasificare
+23.
+SR EN 15237
+Execuția lucrărilor geotehnice speciale. Drenaj vertical
+24.
+SR EN 13251
+Geotextile și produse înrudite. Caracteristici impuse pentru utilizarea în lucrări de terasamente, fundații și structuri de susținere
+25.
+SR EN 13252
+Geotextile și produse înrudite. Caracteristici impuse pentru utilizarea în sisteme de drenaj
+26.
+SR EN ISO 12958-1
+Geotextile și produse înrudite cu geotextilele. Determinarea capacității de curgere a apei în planul acestora. Partea 1: Încercare de identificare
+27.
+SR EN ISO 12958-2
+Geotextile și produse înrudite cu geotextilele. Determinarea capacității de curgere a apei în planul acestora. Partea 2: Încercare de performanță
+28.
+SR EN 14731
+Execuția lucrărilor geotehnice speciale. Îmbunătățirea pământurilor prin vibrare de adâncime
+29.
+SR EN 12715
+Execuția lucrărilor geotehnice speciale. Injectarea terenurilor
+30.
+SR EN 12716
+Execuția lucrărilor geotehnice speciale. Injectarea cu presiune înaltă a terenurilor (jet grouting)
+31.
+SR EN 14679
+Execuția lucrărilor geotehnice speciale. Stabilizarea în adâncime a pământurilor prin malaxare
+32.
+SR EN 197-1
+Ciment Partea 1: Compoziție, specificații și criterii de conformitate ale cimenturilor uzuale
+33.
+SR EN 197-2
+Ciment. Partea 2: Evaluarea și verificarea constanței performanței
+34.
+SR EN 459-1
+Var pentru construcții. Partea 1: Definiții, specificații și criterii de conformitate
+35.
+SR EN 459-2
+Var pentru construcții. Partea 2: Metode de încercare
+36.
+SR 2914:2024
+Lucrări de drumuri - Terasamente - Condiții tehnice de calitate
+37.
+SR EN ISO 17892-4
+Investigații și încercări geotehnice. Încercări de laborator pe pământuri. Partea 4: Determinarea distribuției granulometrice a particulelor
+38.
+SR EN ISO 17892-7
+Investigații și încercări geotehnice. Încercări de laborator pe pământuri. Partea 7: Încercare la compresiune monoaxială
+39.
+SR EN ISO 17892-10
+Investigații și încercări geotehnice. Încercări de laborator pe pământuri. Partea 10: Încercări de forfecare directă
+40.
+SR EN ISO 17892-12
+Investigații și încercări geotehnice. Încercări de laborator pe pământuri. Partea 12: Determinarea limitelor de lichiditate și plasticitate
+41.
+STAS 7107/1
+Teren de fundare. Determinarea materiilor organice
+42.
+STAS 10473/1
+Lucrări de drumuri. Straturi din agregate naturale sau pământuri stabilizate cu ciment. Condiții tehnice generale de calitate
+43.
+STAS 10473/2
+Lucrări de drumuri. Straturi rutiere din agregate naturale sau pământuri stabilizate cu lianți hidraulici sau puzzolanici. Metode de determinare și încercare
+44.
+STAS 1913/12
+Teren de fundare. Determinarea caracteristicilor fizice și mecanice ale pământurilor cu umflări și contracții mari
+45.
+STAS 1913/13
+Teren de fundare. Determinarea caracteristicilor de compactare. Încercarea Proctor
+46.
+STAS 1913/15
+Teren de fundare. Determinarea greutății volumice, pe teren
+47.
+SR EN 13286-2
+Amestecuri netratate și tratate cu lianți hidraulici. Partea 2: Metode de încercare pentru determinarea în laborator a masei volumice de referință și a conținutului de apă. Compactare Proctor
+48.
+SR EN 13286-46
+Amestecuri netratate și tratate cu lianți hidraulici. Partea 46: Metode de determinare a valorii parametrului de umiditate
+49.
+SR EN 13286-47
+Amestecuri legate și nelegate hidraulic - Partea 47: Metodă de încercare pentru determinarea indicelui californian de capacitate portantă (CBR), a indicelui de portanță imediată (IPI) și a umflării liniare
+50.
+SR EN 13242
+Agregate din materiale nelegate sau legate hidraulic pentru utilizare în inginerie civilă și în construcții de drumuri
+51.
+SR EN 933-1
+Încercări pentru determinarea caracteristicilor geometrice ale agregatelor. Partea 1: Determinarea granulozității. Analiza granulometrică prin cernere
+52.
+SR EN 933-3
+Încercări pentru determinarea caracteristicilor geometrice ale agregatelor. Partea 3: Determinarea formei granulelor. Coeficient de aplatizare
+53.
+SR EN 933-4
+Încercări pentru determinarea caracteristicilor geometrice ale agregatelor. Partea 4: Determinarea formei particulelor. Coeficient de formă
+54.
+SR EN 933-8
+Încercări pentru determinarea caracteristicilor geometrice ale agregatelor. Partea 8: Evaluarea părților fine. Determinarea echivalentului de nisip
+55.
+SR EN 1097-1
+Încercări pentru determinarea caracteristicilor mecanice și fizice ale agregatelor. Partea 1: Determinarea rezistenței la uzură (micro-Deval)
+56.
+SR EN 1097-2
+Încercări pentru determinarea caracteristicilor mecanice și fizice ale agregatelor. Partea 2: Metode pentru determinarea rezistenței la sfărâmare
+57.
+SR EN 1097-6
+Încercări pentru determinarea caracteristicilor mecanice și fizice ale agregatelor. Partea 6: Determinarea densității și a absorbției de apă a granulelor
+58.
+SR EN 1097-9
+Încercări pentru determinarea caracteristicilor mecanice și fizice ale agregatelor. Partea 9: Metodă pentru determinarea rezistenței la uzură prin abraziune provocată de pneuri cu crampoane. Încercarea scandinavă
+59.
+SR EN 1367-2
+Încercări pentru determinarea caracteristicilor termice și de alterabilitate ale agregatelor. Partea 2: Încercarea cu sulfat de magneziu
+60.
+SR EN 933-9
+Încercări pentru determinarea caracteristicilor geometrice ale agregatelor. Partea 9: Evaluarea părților fine. Încercare cu albastru de metilen
+61.
+SR EN 1744-1
+Încercări pentru determinarea proprietăților chimice ale agregatelor. Partea 1: Analiză chimică
+62.
+SR EN 1467
+Piatră naturală. Blocuri brute. Specificații
+63.
+SR EN 13373
+Metode de încercare a pietrei naturale. Determinarea caracteristicilor geometrice ale elementelor
+64.
+SR EN 12407
+Metode de încercare a pietrei naturale. Examinare petrografică
+65.
+SR EN 1936
+Metode de încercare a pietrei naturale. Determinarea densității reale și densității aparente și a porozității totale și deschise
+66.
+SR EN 12371
+Metode de încercare a pietrei naturale. Determinarea rezistenței la îngheț
+67.
+SR EN 1926
+Metode de încercare a pietrei naturale. Determinarea rezistenței la compresiune uniaxială
+68.
+SR EN 13383-1
+Agregate pentru anrocamente. Partea 1: Specificații
+69.
+SR EN 13383-2
+Anrocamente. Partea 2: Metode de încercare
+70.
+SR EN 13282-1
+Lianți hidraulici rutieri. Partea 1: Lianți hidraulici rutieri cu întărire rapidă. Compoziție, specificații și criterii de conformitate
+71.
+SR EN 13282-2
+Lianți hidraulici rutieri. Partea 2: Lianți hidraulici rutieri cu întărire normală. Compoziție, specificații și criterii de conformitate
+72.
+SR EN 15167-1
+Zgură granulată de furnal măcinată pentru utilizare în beton, mortar și pastă. Partea 1: Definiții, specificații și criterii de conformitate
+73.
+SR EN 14227-2
+Amestecuri tratate cu lianți hidraulici. Specificații. Partea 2: Amestecuri granulare tratate cu zgură
+74.
+STAS 1242/7
+Teren de fundare. Cercetarea geofizică a terenului prin metode seismice
+75.
+STAS 1242/8
+Teren de fundare. Principii de cercetare geofizică a terenului prin metode electrometrice în curent continuu
+76.
+STAS 1242/9
+Teren de fundare. Cercetarea geofizică a terenului prin metode radiometrice
+77.
+SR EN ISO 22476-2
+Investigații și încercări geotehnice. Încercări pe teren. Partea 2: Încercare de penetrare dinamică
+78.
+SR EN ISO 22476-12
+Investigații și încercări geotehnice. Încercări pe teren. Partea 12: Încercare mecanică de penetrare statică cu con (CPTM)
+79.
+STAS 8942/3
+Teren de fundare. Determinarea modului de deformație liniară prin încercări pe teren cu placa
+80.
+SR EN 1536
+Execuția lucrărilor geotehnice speciale. Piloți forați
+81.
+SR EN 12699
+Execuția lucrărilor geotehnice speciale. Piloți de îndesare
+82.
+SR EN 14199
+Execuția lucrărilor geotehnice speciale. Micropiloți
+84.
+SR CEN/TS 17006
+Terasamente - Control continuu al compactării (CCC)
+Notă: Se utilizează cele mai recente ediții ale standardelor române de referință, împreună cu anexele naționale (dacă este cazul), amendamentele și/sau eratele publicate de către organismul național de standardizare, cu excepția standardelor armonizate, la care se utilizează edițiile citate în lista cuprinzând indicativele de referință ale standardelor române care transpun standarde europene armonizate din domeniul produselor pentru construcții, aprobată prin ordin al ministrului ministerului de resort
+3.2.
+Reglementări tehnice de referință
+Nr. crt
+Reglementare tehnică
+1.
+Normativ privind documentațiile geotehnice pentru construcții, indicativ NP 074-2022, aprobat prin Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 27/10.01.2023, publicat în Monitorul Oficial al României, Partea I, nr. 56 și 56 bis din 20 ianuarie 2023, denumit în continuare NP 074-2022.
+2.
+Normativ privind determinarea valorilor caracteristice și de calcul ale parametrilor geotehnici, indicativ NP 122-2010, aprobat prin Ordinul ministrului dezvoltării regionale și turismului nr. 2690/29.12.2010, publicat în Monitorul Oficial al României, Partea I, nr. 158 bis din 04 martie 2011, denumit în continuare NP 122-2010
+3.
+Normativ privind proiectarea fundațiilor de suprafață, indicativ NP 112-2014, aprobat prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2352/24.11.2014, publicat în Monitorul Oficial al României, Partea I, nr. 935 bis din 22 decembrie 2014, denumit în continuare NP 112-2014
+4.
+Normativ privind proiectarea geotehnică a fundațiilor pe piloți, indicativ NP 123-2022, aprobat prin Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 2405/14.09.2022, publicat în Monitorul Oficial al României, Partea I, nr. 924 și 924 bis din 21 septembrie 2022, denumit în continuare NP 123-2022
+5.
+Normativ privind proiectarea geotehnică a lucrărilor de susținere, indicativ NP 124-2010, aprobat prin Ordinul ministrului dezvoltării regionale și turismului nr. 2689/29.12.2010, publicat în Monitorul Oficial al României, Partea I, nr. 158 bis din 04 martie 2011, denumit în continuare NP 124-2010
+6.
+Normativ privind fundarea construcțiilor pe pământuri sensibile la umezire, indicativ NP 125-2010, aprobat prin Ordinul ministrului dezvoltării regionale și turismului nr. 2688/29.12.2010, publicat în Monitorul Oficial al României, Partea I, nr. 158 bis din 04 martie 2011, denumit în continuare NP 125-2010
+7.
+Normativ privind fundarea construcțiilor pe pământuri cu umflări și contracții mari, indicativ NP 126-2010, aprobat prin Ordinul ministrului dezvoltării regionale și turismului nr. 115/31.05.2012, publicat în Monitorul Oficial al României, Partea I, nr. 397 bis din 13 iunie 2012, denumit în continuare NP 126-2010
+8.
+Ghid privind proiectarea geotehnică, indicativ GP 129-2014, Ordinul ministrului dezvoltării regionale și administrației publice nr. 2597/29.12.2014, publicat în Monitorul Oficial al României, Partea I, nr. 95 bis din 05 februarie 2015, denumit în continuare GP 129-2014
+9.
+Ghid privind proiectarea structurilor din pământ armat cu materiale geosintetice și metalice, indicativ GP 093-2006, aprobat prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1764/21.09.2006, publicat în Monitorul Oficial al României, Partea I, nr. 896 bis din 03 noiembrie 2006, denumit în continuare GP 093-2006
+10.
+Normativ privind urmărirea comportării în exploatare a construcțiilor, indicativ P 130-2025, aprobat prin Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 770/30.05.2025, publicat în Monitorul Oficial al României, Partea I, nr. 568 și 568 bis din 19 iunie 2025, denumit în continuare P 130-2025
+11.
+Instrucțiunile privind controlul calității terasamentelor, indicativ AND 530-2012, aprobat prin Decizia directorului general al Companiei Națională de Autostrăzi și Drumuri Naționale din România nr. 786/28.06.2012, publicată în Buletinul Tehnic Rutier nr. 6-7/2012, denumit în continuare AND 530-2012
+12.
+Normativ pentru verificarea calității și recepția lucrărilor de construcții și instalații aferente, indicativ C 56-1985, aprobat prin Decizia Institutului Central de Cercetare, Proiectare și Directivare în Construcții nr. 61/30.10.1985, publicat în Buletinul Construcțiilor nr. 1-2/1986, denumit în continuare C 56-1985
+Notă: Lista reglementărilor tehnice de referință dată în această reglementare tehnică se consultă împreună cu lista documentelor normative aflate în vigoare publicată de către autoritățile de reglementare de resort.
+4.
+IMPLEMENTAREA PROIECTELOR DE ÎMBUNĂTĂȚIRE A TERENULUI ÎN EXECUȚIE (1)
+În conformitate cu standardul SR EN 1997-1:2024 împreună cu Anexa sa Națională, pentru succesul unei lucrări este nevoie de a se asigura că prevederile proiectului tehnic au fost corect implementate în execuție prin măsuri de supervizare, inspecție, monitorizare și mentenanță care trebuie corelate cu categoria geotehnică a lucrării.
+(2)
+Pentru lucrările de îmbunătățire a terenului prevederile aplicabile în acest sens pentru proiectul tehnic sunt cele cuprinse în reglementarea tehnică Normativ de proiectare a soluțiilor de îmbunătățire a terenului de fundare și a lucrărilor din pământ, indicativ RTC 16-2026.
+(3)
+În cadrul supervizării execuției trebuie verificat că metodele de execuție și etapele de construcție utilizate sunt conforme cu specificația de execuție din proiectul tehnic, în conformitate cu planul de supervizare din proiectul tehnic.
+(4)
+În cadrul inspecției trebuie aplicate măsurile specifice în planul de inspecție din proiectul tehnic pentru a se verifica conformitatea cu ipotezele proiectului și cu specificația de execuție, respectiv conformitatea materialelor și produselor utilizate și conformitatea execuției, pe baza criteriilor de acceptare cuprinse în proiect și specificațiile tehnice de execuție.
+(5)
+Inspecția se poate realiza prin observații, măsurători sau încercări, după cum este precizat în planul de inspecție.
+(6)
+Dacă criteriile de acceptare sunt depășite în timpul execuției, proiectul și specificația de execuție trebuie revizuite și modificate (dacă este potrivit) sau trebuie luate măsuri de intervenție pentru a remedia situația,
+(7)
+Monitorizarea în timpul execuției este realizată în conformitate cu specificațiile din proiectul tehnic (sau cu proiectul specific de monitorizare) și are ca scop confirmarea validității proiectului și identificarea necesității unor măsuri de remediere, de revizie a proiectului sau de modificare a etapizării sau metodei de execuție.
+(8)
+Monitorizarea se poate realiza prin observații sau măsurători, după cum este precizat în proiectul de monitorizare.
+(9)
+În cazul aplicării metodei observaționale de proiectare, activitățile de monitorizare trebuie să vizeze valorile prag sau valorile limită definite în cadrul proiectului și adoptarea acelor variante ale proiectului care sunt adecvate rezultatelor monitorizării în timpul execuției.
+(10)
+Specific pentru implementarea în execuție a proiectelor de lucrări de îmbunătățire a terenului se aplică prevederile standardului SR EN 1997-3:2025 12.8 împreună cu Anexa sa Națională.
+(11)
+Execuția lucrărilor de îmbunătățire a terenului trebuie realizată în conformitate cu standardele corespunzătoare de execuție și cu prevederile prezentei reglementări tehnice, iar acolo unde acestea nu există, în conformitate cu specificațiile din proiect.
+(12)
+În cazul unor lucrări de îmbunătățire a terenului realizate în condiții care ar putea împiedica atingerea scopului acestora trebuie realizate încercări în cadrul inspecției pentru a se asigura că proprietățile specificate prin proiect pot fi atinse în urma îmbunătățirii. Aceste încercări trebuie realizate în conformitate cu standardele de execuție specifice, reglementările tehnice aplicabile sau specificațiile din proiect.
+(13)
+În cazul lucrărilor de îmbunătățire a terenului inspecția se bazează de regulă pe încercări, care pot fi realizate în laborator pe probe prelevate din terenul îmbunătățit, pe probe din materialele utilizate (pământ, lianți etc.) sau pot fi încercări pe teren.
+(14)
+Pentru încercările realizate pentru inspecția din timpul execuției lucrărilor de îmbunătățire a terenului se aplică prevederile standardului SR EN 1997-3:2025 12.9 împreună cu Anexa sa Națională.
+(15)
+Suplimentar față de (14) se aplică prevederile privind încercările specifice ce trebuie realizate pentru inspecție cuprinse în standardele relevante de execuție, precum și anumite prevederi din prezenta reglementare tehnică.
+(16)
+În cazul în care nu există standarde specifice de execuție sau nu există prevederi pentru o anumită metodă în acest document care să specifice încercările de realizat pentru inspecție, se aplică prevederile proiectului tehnic.
+5.
+EXECUȚIA SOLUȚIILOR DE ÎMBUNĂTĂȚIRE A TERENULUI DE FUNDARE 5.1.
+Compactare (1)
+În acest capitol sunt tratate metodele de îmbunătățire în adâncime a terenului de fundare existent în amplasament, prin compactare dinamică prin batere și vibrare. Tehnicile de îmbunătățire prin substituție sau înlocuire, care presupun adăugarea de pământ de aport pentru formarea unor coloane sau ploturi sunt tratate la 4.3.3. 5.1.1.
+Compactare dinamică prin batere A.
+Generalități (2)
+Principiu: Compactarea prin batere acționează prin transmiterea la suprafața terenului a unor impacturi de mare energie, care generează unde de vibrații ce se propagă în teren (Figura 1). În terenurile nesaturate undele de forfecare generate deplasează particulele de pământ și le rearanjează într-o structură mai îndesată. În terenurile saturate se produce o creștere rapidă a presiunii apei din pori, iar dacă terenul este drenant și nu foarte fin, aceasta se disipează rapid și urmează o rearanjare a particulelor într-o stare mai îndesată. Impactul este produs prin căderea unui mai metalic cu greutăți ce variază între 3 - 5 tone (maiuri grele) și 5 - 20 tone (maiuri super grele), de la înălțimi care variază de la câțiva metri (5 - 8 m) până la câțiva zeci de metri (25 - 40 m) (Figura 2), în puncte care sunt definite într-o rețea. Compactarea dinamică prin batere îmbunătățește întâi straturile de pământ din adâncime și apoi, progresiv, prin mai multe etape de batere, și pe cele superioare.
+Figura 1. Unde generate în teren de un impact (Briancon et al., 2018*1))
+*1) Briancon L., Liausu P., Plumelle C., Simon B. (2018) Ame1ioration et renforcement des sols, Groupe Moniteur (Editions du Moniteur), Antony. 2018.
+Figura 2. Principiul compactării dinamice (Briancon et al., 2018)
+În această categorie sunt incluse și metodele de compactare rapidă prin impuls, care constă în căderea unei mase de 7 - 12 tone de la înălțimi mici, de 1 - 2 m, cu o frecvență de cca. 1 lovitură/secundă (Figura 3). Aceste metode creează inițial un strat mai dens la suprafața terenului, și apoi acest "dop" pătrunde progresiv în teren la adâncimi mai mari.
+Figura 3. Schemă de principiu pentru compactarea dinamică rapidă prin impuls
+(3)
+Rezultate vizate: Compactarea dinamică prin batere are ca efect reducerea porozității terenului în scopul îmbunătățirii parametrilor mecanici și implicit al creșterii capacității portante a terenului de fundare, reducerea tasărilor și, dacă este cazul, reducerea riscului de lichefiere sau reducerea sensibilității la umezire.
+(4)
+Domeniu de aplicare: (i)
+Metoda de îmbunătățire prin compactare dinamică prin batere se aplică în general terenurilor naturale granulare afânate, cu conținut de particule fine mai mic de 20%, umpluturilor neomogene sau pământurilor sensibile la umezire, pentru structuri cu suprafață mare în plan - rambleuri, rezervoare, piste aeroportuare, structuri industriale, platforme portuare etc.
+(ii)
+Metoda de compactare rapidă prin impuls se aplică umpluturilor sau terenurilor naturale granulare afânate care trebuie îmbunătățite pe primii câțiva metri, inclusiv pentru reducerea riscului de lichefiere. Este aplicabilă și în unele zone urbane unde compactarea dinamică prin batere are limitări. De asemenea, poate fi aplicată și pentru reducerea sensibilității la umezire.
+(5)
+Limitări: (i)
+Pământurile care pot fi compactate cel mai eficient prin batere sunt cele granulare cu conținut de particule fine < 20%, pentru care energia de compactare rămâne în limite rezonabile.
+(ii)
+Dacă pământurile au conținut mai mare de 20% de particule fine eficiența scade, iar energia necesară pentru compactare crește. În diagrama din Figura 4 sunt indicate criterii pentru compactarea diverselor tipuri de pământuri.
+Figura 4. Criterii de eficiență a compactării dinamice pentru diferite tipuri de pământuri (Van Impe, 1995*2)
+*2) Van Impe, W.F., Mahdar, R.H. (1995) Deep dynamic densification of granular deposits. XIX Convegno Nazionale di geotechnica, Pavia. (iii)
+Adâncimea până la care compactarea dinamică prin batere are efect depinde de energia de compactare și poate varia de la 5 - 6 m (pentru o energie specifică de 200 t●m) până la 11 - 12 m (pentru o energie specifică de 600 t●m).
+(iv)
+Adâncimea până la care compactarea rapidă prin impuls are efect este mai redusă, de ordinul a 3 - 7 m.
+(v)
+Este necesară păstrarea unei distanțe tampon față de structurile vecine sensibile la vibrații, în general de cca. 20 - 30 m pentru compactarea dinamică prin batere și de cca. 8 - 10 m pentru compactarea rapidă prin impuls, dar distanța de siguranță este dependentă de energia de compactare (masa maiului și înălțimea de cădere) și de sensibilitatea construcției.
+(vi)
+Se vor avea în vedere reglementările tehnice în vigoare în ceea ce privește frecvența maximă admisă și vitezele de propagare a undelor maxime admise, precum și nivelul de zgomot.
+(vii)
+Orientativ se pot avea în vedere următoarele valori limită ale vitezei de deplasare a particulelor la nivelul fundației: - deteriorări structurale 40 mm/s;
+- deteriorări minore arhitecturale 15 mm/s;
+- disconfort al ocupanților clădirilor 2.5 mm/s;
+- monumente istorice și structuri foarte fragile 2 mm/s.
+B.
+Materiale utilizate (6)
+Având în vedere că în acest capitol sunt tratate metode fără substituție/înlocuire, craterele formate prin compactarea dinamică pot fi eventual umplute cu același material din terenul de fundare.
+C.
+Studii și încercări necesare pentru execuție (7)
+Execuția trebuie să fie precedată de un poligon experimental efectuat în amplasament sau în vecinătatea acestuia, folosind aceleași utilaje și aceeași tehnologie ca pentru execuția propriu-zisă.
+(8)
+Poligonul experimental se va efectua în baza unui proiect tehnic distinct sau pe baza unor prevederi din cadrul proiectului tehnic, care vor cuprinde: - obiectivele poligonului experimental;
+- dimensiunile în plan ale poligonului experimental;
+- rețeaua punctelor de compactare și etapele realizării compactării;
+- măsurătorile ce trebuie realizate pe perioada execuției poligonului experimental.
+(9)
+Pe perioada execuției poligonului experimental se vor măsura: - vibrațiile produse, măsurate la diferite distanțe, comparabile cu distanțele clădirilor și obiectivelor din vecinătatea amplasamentului;
+- tasarea obținută după fiecare etapă de compactare, eventual refularea terenului (Figura 5);
+- în cazul în care terenul este saturat și conține o proporție semnificativă de fracțiune fină este probabilă generarea de unui exces de presiune interstițială a căror disipare poate fi urmărită în cadrul poligonului experimental.
+Notă: într-un astfel de caz este recomandată instalarea în prealabil de drenuri verticale pentru disiparea mai rapidă a excesului de presiune interstițială.
+Figura 5. Determinarea tasării și, eventual, a refulării terenului pe poligonul experimental pentru compactarea dinamică prin batere (Briancon et al., 2018)
+(10)
+La finalul poligonului experimental se vor determina prin măsurători pe teren și încercări de laborator, următoarele: - adâncimea pe care se resimte efectul compactării și nivelul de îmbunătățire a terenului;
+- parametrii fizici și mecanici care au fost estimați în etapa de proiectare.
+(11)
+Pe baza rezultatelor poligonului experimental poate fi trasată curba de variație a volumului amprentei în funcție de numărul de lovituri, în scopul determinării numărului optim de lovituri (Figura 6).
+Figura 6. Determinarea numărului optim de lovituri în funcție de amprenta produsă prin compactare dinamică prin batere (Briancon et al., 2018)
+(12)
+Pentru verificarea mărimii amprentei se recomandă, în general, a se efectua câte 5-6 determinări pentru o suprafață de 100 mp de teren îmbunătățit.
+(13)
+Pentru determinarea tasărilor se efectuează măsurători de nivelment de precizie a zonei compactate, atât înainte cât și după efectuarea fiecărei faze (inclusiv ultima fază), în vederea determinării nivelului la care a coborât suprafața terenului sub efectul compactării.
+(14)
+Determinarea caracteristicilor geotehnice ale terenului de fundare compactat/îmbunătățit se face în general prin încercări pe teren, de regulă încercări cu placa, SPT, încercări de penetrare etc. Pentru pământurile coezive pot fi prelevate probe din terenul îmbunătățit pentru a fi încercate în laborator.
+D.
+Execuție (15)
+Înaintea execuției trebuie identificate toate rețelele și utilitățile subterane și supraterane, precum și construcțiile învecinate, care trebuie protejate. Se recomandă o rază de cel puțin 50m în jurul punctelor de îmbunătățire.
+(16)
+Pentru execuția lucrărilor de compactare dinamică prin batere este necesară amenajarea unei platforme de lucru adecvată care să permită asigurarea stabilității în timpul execuției și accesul echipamentelor, precum și distribuția eficientă a energiei de batere în teren.
+(17)
+În cazul în care în teren există o pânză de apă freatică, în general este recomandat ca nivelul superior al platformei de lucru să fie la cel puțin 1.5 m deasupra nivelului apei.
+(18)
+Trebuie respectate și cerințele proprii ale antreprenorului de specialitate în ceea ce privește platforma de lucru.
+(19)
+Utilajele care se pot folosi în cadrul acestei tehnologii de lucru ca și utilaj purtător al maiului greu pot fi: macarale pe șenile, dragline etc.
+(20)
+Utilajele purtătoare ale maiurilor grele trebuie să îndeplinească următoarele condiții: - să aibă o capacitate de ridicare de până la dublul masei maiului greu;
+- să asigure o înălțime de ridicare al maiului de minimum 4 m;
+- să permită ridicarea și căderea liberă a maiului printr-un sistem simplu și eficient de cuplare și decuplare;
+- sistemul de deplasare să fie pe șenile astfel încât să nu dezvolte presiuni pe teren mai mari de 70 kPa;
+- să aibă posibilitatea de rotire cu 360░ cât și de efectuare a operației de împănare pentru orice poziție a brațului față de axul longitudinal al utilajului.
+(21)
+Echipamentul de lucru este constituit dintr-un mai greu, conceput în funcție de tipul de teren de îmbunătățit respectiv al materialului de aport.
+(22)
+Maiurile se pot executa din beton armat turnat în cămășuială metalică de 10mm grosime și având la bază o placă din tablă groasă de 20...30 mm grosime. Pentru a aduce centrul de greutate cât mai jos la partea inferioară se introduc cupoane de oțel beton sau de șină de cale ferată. Un exemplu de mai greu este prezentat în Figura 7.
+Figura 7. Mai greu realizat din beton în cămășuială metalică
+(23)
+Compactarea dinamică prin batere se realizează în nodurile unei rețele stabilită prin proiectare și pe baza rezultatelor poligonului experimental.
+(24)
+În general, prima fază a îmbunătățirii este realizată cu o rețea cu ochiuri mai mari, cu o distanță între punctele de compactare de cca. 4 - 8 m și cu o energie maximă de compactare (pentru a compacta straturile din adâncime). Ulterior, pentru a compacta straturile mai de suprafață, se poate îndesi rețeaua prin intercalare (Figura 8 și Figura 9).
+Figura 8. Exemplu de îndesire a rețelei de puncte de compactare pe etape succesive
+Figura 9. Secvență decalată de compactare dinamică prin batere (Briancon et al., 2018)
+(25)
+După fiecare fază de compactare craterele formate trebuie umplute pentru a continua procedeul de îmbunătățire. Aceasta se poate realiza prin rambleiere cu același material local cu ajutorul utilajelor terasiere prin împingerea materialului în cratere, ceea ce va duce la coborârea nivelului general al platformei.
+Notă: craterele se pot umple și cu material de aport, granular de exemplu, prin substituție, procedeu care este tratat la 5.3.1.
+(26)
+Ultima fază se realizează cu energie scăzută, fără a forma cratere, dar lăsând amprente care se suprapun pentru a recompacta stratul de teren superior.
+(27)
+Dacă straturile superioare (ultimii câțiva zeci de centimetri) nu pot fi îmbunătățite prin compactare dinamică prin batere trebuie realizată o compactare de suprafață ulterioară cu cilindri compactori.
+(28)
+Pe parcursul execuției trebuie înregistrat numărul de lovituri din fiecare zonă care a fost îmbunătățită în același mod.
+E.
+Controlul calității lucrărilor executate (29)
+Controlul calității lucrărilor se face în timpul execuției, precum și la faza finală a execuției.
+(30)
+Controlul calității lucrărilor de compactare prin batere se face, de regulă, la un interval de timp după finalizarea lucrărilor, pentru a permite refacerea structurii terenului.
+(31)
+Verificările în timpul desfășurării tehnologiei de lucru constau în determinarea amprentei pentru un anumit stadiu de îmbunătățire și compararea cu amprenta admisibilă.
+(32)
+Parametrii de control ai execuției lucrărilor de îmbunătățire prin compactare dinamică prin batere sunt de regulă următorii: - energia de batere pentru fiecare impact;
+- controlul asupra răspunsului terenului - prin măsurători de tasare;
+- presiunea apei din pori - unde este relevant;
+- parametrii mecanici ai terenului îmbunătățit - încercări pe teren;
+- vibrații.
+(33)
+Controlul parametrilor mecanici ai terenului îmbunătățit se face, de regulă, prin aceleași metode ca la studiile preliminare de investigare a terenului, pentru a putea urmări evoluția acestora și gradul de îmbunătățire.
+(34)
+Determinarea caracteristicilor geotehnice ale terenului de fundare îmbunătățit se face, cel mai adesea, prin încercări pe teren (încercări cu placa, SPT, penetrare dinamică etc.).
+(35)
+În cazul pământurilor coezive se pot preleva probe din terenul îmbunătățit care să fie încercate în laborator pentru determinarea parametrilor de control stabiliți prin proiect.
+(36)
+Criteriile de acceptare sunt cele definite în proiectul tehnic și pot fi parametri ai terenului îmbunătățit sau o tasare specificată a structurii finale.
+(37)
+Trebuie avută în vedere și uniformitatea îmbunătățirii obținute a terenului.
+(38)
+Rezultatele încercărilor de control se consemnează în conformitate cu prevederile reglementărilor tehnice în vigoare aplicabile.
+F.
+Recepția lucrărilor (39)
+Recepția lucrărilor de îmbunătățire a terenurilor prin compactare dinamică prin batere se realizează în conformitate cu prevederile reglementărilor tehnice aplicabile în vigoare.
+5.1.2.
+Compactare dinamică prin vibrare A.
+Generalități (1)
+În acest capitol este tratată îmbunătățirea terenurilor granulare afânate prin vibro - compactare, fără adaos de material de aport.
+(2)
+Principiu: Compactarea de adâncime a unui teren necoeziv afânat poate fi realizată prin introducerea în teren a unui utilaj vibrator de adâncime (Figura 10) care imprimă o mișcare pulsatorie orizontală sau a unui profil vibrant (Figura 11) de care este atașat un utilaj vibrator care rămâne la suprafață și care oscilează de regulă pe verticală, determinând oscilații ale profilului (de regulă orizontale). Acest procedeu este denumit vibro-compactare sau vibro-flotație. Acest procedeu este similar cu cel care permite formarea de coloane de teren îmbunătățit prin adaos de material (descris la capitolul 4.3.3.), dar nu totdeauna se formează coloane în acest caz. Frecvențele de vibrație pot fi adaptate pentru a amplifica vibrațiile terenului, caz în care metoda este cunoscută sub numele de compactare prin rezonanță. În anumite cazuri eficacitatea tratamentului poate fi sporită prin utilizarea unui jet de apă la introducerea vibratorului în teren sau prin asocierea cu drenuri verticale. Punctele în care este introdus utilajul vibrator sunt de regulă amplasate în nodurile unui caroiaj. Etapele de execuție sunt prezentate în Figura 12: a) introducerea utilajului vibrator până la adâncimea stabilită sub acțiunea vibrațiilor și a jetului de apă; b) compactare prin ridicarea în pase succesive (0,5 - 1 m) a utilajului vibrator; c) nivelarea sau umplerea craterului cu același material din teren.
+Figura 10. Utilaj vibrator de adâncime (SR EN 14731)
+Figura 11. Exemplu de profil vibrant (SR EN 14731)
+Figura 12. Etapele de execuție ale îmbunătățirii terenului în loc prin vibro-compactare (Briancon et al., 2018)
+(3)
+Rezultate vizate: Compactarea dinamică prin vibrare fără adaos de material are ca efect reducerea porozității terenului în scopul îmbunătățirii parametrilor mecanici și implicit al creșterii capacității portante a terenului de fundare, reducerea tasărilor și creșterea rezistenței la forfecare și, dacă este cazul, reducerea riscului de lichefiere.
+(4)
+Domeniu de aplicare: îmbunătățirea terenurilor nisipoase curate, afânate, pe suprafețe mari, de regulă terenuri recuperate din mare prin umplere prin hidromecanizare, eventual aflate în zone seismice.
+(5)
+Limitări: (i)
+Principala limitare a metodei este conținutul de particule fine din terenul care trebuie îmbunătățit prin vibro-compactare, care trebuie să rămână sub 10 - 12% pentru ca metoda să fie eficientă (Figura 13).
+(ii)
+Conținutul de argilă (< 2μ) trebuie să fie sub 2%.
+(iii)
+De asemenea, terenurile granulare foarte grosiere pot împiedica pătrunderea utilajului vibrator sau a profilului vibrant.
+(iv)
+Prezența lentilelor prăfoase sau argiloase afectează negativ compactarea, iar influența acestora se poate simți pe adâncimi de 1 m deasupra și dedesubt.
+Figura 13. Domeniul granulometric pentru aplicarea vibro-compactării (Briancon et al., 2018)
+(v)
+Este necesară păstrarea unei distanțe tampon față de structurile vecine sensibile la vibrații. În general vibrațiile induse sunt mai mici decât la compactarea prin batere.
+(vi)
+Se vor avea în vedere reglementările tehnice în vigoare în ceea ce privește frecvența maximă admisă și vitezele de propagare a undelor maxime admise, precum și nivelul de zgomot.
+(vii)
+Orientativ se pot avea în vedere următoarele valori limită ale vitezei de deplasare a particulelor la nivelul fundației: - deteriorări structurale 40 mm/s;
+- deteriorări minore arhitecturale 15 mm/s;
+- disconfort al ocupanților clădirilor 2,5 mm/s;
+- monumente istorice și structuri foarte fragile 2 mm/s.
+B.
+Materiale utilizate (6)
+În acest paragraf sunt tratate metodele de îmbunătățire a terenului din loc prin vibro-compactare fără adaos de material, deci nu sunt necesare alte materiale în afara terenului de îmbunătățit. Craterele formate prin vibrare se pot umple cu același material local.
+C.
+Studii și încercări necesare pentru execuție (7)
+Execuția trebuie să fie precedată de un poligon experimental efectuat în amplasament sau în vecinătatea acestuia, folosind aceleași utilaje și aceeași tehnologie ca pentru execuția propriu-zisă.
+(8)
+Poligonul experimental se va efectua în baza unui proiect tehnic distinct sau pe baza unor instrucțiuni în cadrul proiectului tehnic, care vor cuprinde: - obiectivele poligonului experimental;
+- dimensiunile în plan ale poligonului experimental;
+- rețeaua punctelor de vibrare și etapele de realizare;
+- măsurători pe perioada execuției poligonului experimental.
+(9)
+Obiectivul poligonului experimental este, în principal, testarea mai multor rețele de puncte de îmbunătățire și a diferitelor criterii de compactare (energie și timp), pentru a alege combinația optimă dintre rețea, timp și energie de compactare care să ducă la îndeplinirea obiectivelor vibro-compactării.
+(10)
+Pe perioada execuției poligonului experimental se vor măsura: - vibrațiile produse, măsurate la diferite distanțe, comparabile cu distanțele clădirilor și obiectivelor din vecinătatea amplasamentului;
+- tasarea obținută după fiecare etapă de vibrare.
+(11)
+La finalul poligonului experimental se vor determina prin măsurători pe teren și încercări de laborator, următoarele: - adâncimea pe care se resimte efectul compactării și nivelul de îmbunătățire a terenului;
+- parametrii fizici și mecanici care au fost estimați în etapa de proiectare.
+(12)
+Determinarea caracteristicilor geotehnice ale terenului de fundare îmbunătățit pot fi determinate prin încercări de laborator pe probe netulburate prelevate din teren, dar, având în vedere natura terenurilor care fac obiectul acestei metode de îmbunătățire, metodele de investigare adaptate sunt cele pe teren, respectiv penetrare statică cu conul CPT sau cu măsurarea presiunii apei din pori CPTu și încercări de penetrare dinamică standard SPT. Se mai pot utiliza presiometrul Menard, penetrometre dinamice sau dilatometrul Marchetti.
+D.
+Execuție (13)
+Execuția lucrărilor de compactare prin vibrare se execută în conformitate cu prevederile standardului SR EN 14731:2006.
+(14)
+Înaintea începerii lucrărilor de compactare prin vibrare de adâncime trebuie identificate toate rețelele de utilități și servicii subterane și supraterane, precum și construcțiile care trebuie protejate și orice alte obstacole.
+(15)
+Se execută platformele de lucru în conformitate cu specificațiile din proiect și cu criteriile antreprenorului de specialitate.
+(16)
+Compactarea prin vibrare se execută prin introducerea echipamentului de vibro-compactare în punctele stabilite în nodurile unei rețele, până la adâncimea stabilită. Compactarea se realizează doar pe durata penetrării utilajului sau și în timpul extracției acestuia.
+(17)
+În general, timpul de compactare pentru un punct variază de la 5 min la 40 min, fiind mai mare dacă terenului prezintă particule fine.
+(18)
+Eficiența vibro-compactării poate fi crescută prin lucrul pe faze succesive, reducând progresiv distanța dintre punctele de îmbunătățire.
+(19)
+În general nu se aplică procedeul de execuție primar/secundar (revenire pentru îmbunătățire între două puncte primare) deoarece se poate obține refuz.
+E.
+Controlul calității lucrărilor executate (20)
+Controlul calității lucrărilor se face în timpul execuției, precum și la faza finală a execuției.
+(21)
+Controlul calității lucrărilor de compactare prin vibrare se face, de regulă, la un interval de timp după finalizarea lucrărilor, pentru a permite refacerea structurii terenului.
+(22)
+Controlul în timpul execuției se referă la: - urmărirea nivelurilor terenului înainte și după compactare, pentru determinarea tasării produse și comparare cu cea așteptată;
+- înregistrarea continuă a parametrilor de compactare: timp de compactare pentru fiecare punct, adâncimea vârfului utilajului vibrator, intensitatea vibrării;
+- măsurarea vibrațiilor produse în zona construcțiilor învecinate.
+(23)
+Pentru determinarea parametrilor de control ai terenului îmbunătățit se utilizează, de regulă aceleași metode ca și la etapa de investigare geotehnică, pentru a putea evalua evoluția acestora și gradul de îmbunătățire.
+(24)
+Având în vedere natura terenurilor care fac obiectul acestei metode de îmbunătățire, metodele de investigare adaptate sunt cele pe teren, respectiv penetrare statică cu conul CPT sau cu măsurarea presiunii apei din pori CPTu și încercări de penetrare dinamică standard SPT. Se mai pot utiliza presiometrul Menard, penetrometre dinamice sau dilatometrul Marchetti.
+(25)
+Criteriile de acceptare sunt cele definite în proiectul tehnic și pot fi parametri ai terenului îmbunătățit sau o tasare specificată a structurii finale.
+(26)
+Trebuie avută în vedere și uniformitatea îmbunătățirii obținute a terenului.
+(27)
+Rezultatele încercărilor de control se consemnează în conformitate cu prevederile reglementărilor tehnice în vigoare aplicabile.
+F.
+Recepția lucrărilor (28)
+Recepția lucrărilor de îmbunătățire a terenurilor prin compactare dinamică prin batere se realizează în conformitate cu prevederile reglementărilor tehnice aplicabile în vigoare.
+5.2.
+Consolidare 5.2.1.
+Preîncărcare A.
+Generalități (1)
+Principiu: metoda de preîncărcare vizează creșterea vitezei de consolidare a terenurilor fine saturate prin aplicarea unei suprasarcini și drenarea excesului de presiune a apei din pori provocat de aceasta prin instalarea unor sisteme de drenaj și de colectare a apei drenate. Preîncărcarea presupune aplicarea unei pre-încărcări temporare excedentare pe teren, înaintea amplasării structurii, pentru a consuma majoritatea sau chiar totalitatea tasărilor primare, dezvoltarea tasărilor de consolidare secundară și a grăbi procesul de consolidare (Figura 14). Astfel, capacitatea portantă a terenului crește, iar compresibilitatea terenului se reduce. De asemenea, după înlăturarea suprasarcinii excedentare se obține o supraconsolidare a terenului, iar tasarea reziduală din consolidare secundară este redusă. Preîncărcarea poate fi asociată cu sisteme de accelerare a consolidării precum: drenuri verticale, drenuri verticale și vacuum.
+Legendă: p_f - presiunea permanentă aplicată de lucrarea finală, S(p_f) - tasarea sub sarcina permanentă aplicată de lucrarea finală, p_s - suprasarcina suplimentară temporară aplicată, p_f + p_s - sarcina totală aplicată de rambleul de preîncărcare, S(p_f+p_s) - tasarea totală sub sarcina adusă de rambleul de preîncărcare
+Figura 14. Diagrama de încărcare - tasare a terenului în timpul și după preîncărcare (Smoltczyk, 2002*3))
+*3) Smoltczyk U. (2002) Geotechnical Engineering Handbook, Ernst & Sohn
+(2)
+Rezultate vizate: Prin preîncărcarea terenului de fundare, se grăbește ritmul de evacuare a apei din pori și implicit al consolidării pământului, ajungându-se la porozități mai mici într-un timp mai scurt decât fără preîncărcare, efectul fiind de reducere a tasărilor pe perioada exploatării, tasările absolute rămânând aceleași.
+(3)
+Domeniu de aplicare: Metoda de preîncărcare se aplică structurilor cu suprafață mare în plan, de regulă pentru rambleuri pentru drumuri, căi ferate sau piste aeroportuare, dar și pentru radiere, rezervoare sau structuri similare fundate pe terenuri fine, moi, saturate, normal consolidate sau cel mult foarte puțin supraconsolidate.
+(4)
+Metoda de preîncărcare poate avea următoarele variante: -
+Metoda de preîncărcare cu rambleu provizoriu din pământ (Figura 15), care este ulterior total sau parțial îndepărtat. Rambleul trebuie construit în etape, fiecare etapă de încărcare fiind menținută suficient timp înainte de aplicarea etapei următoare pentru a permite consolidarea terenului.
+-
+Metoda de preîncărcare cu rambleu provizoriu din pământ și rețea de drenuri verticale (Figura 15); înaintea executării rambleului de preîncărcare se execută o rețea de drenuri verticale pentru accelerarea consolidării, care sunt conectate la o saltea drenantă din material granular sau din materiale geosintetice amplasată sub rambleul de preîncărcare. Acestea sunt eficiente doar pentru accelerarea tasărilor din consolidare primară și creșterea rezistenței la forfecare nedrenată (coeziunii nedrenate). Această metodă nu are efect în ceea ce privește consolidarea secundară, dar scurtează considerabil timpul de consolidare primară. Metoda de preîncărcare poate fi asociată și cu drenarea prin electro-osmoză.
+Figura 15. Principiul metodei de preîncărcare: în stânga fără drenuri verticale, în dreapta cu drenuri verticale
+-
+Metoda de preîncărcare cu rambleu provizoriu din pământ și rețea de drenuri verticale cu vacuum (Figura 16), care constă în etanșarea stratului de drenaj și aplicarea unei sucțiuni pentru a grăbi drenajul excesului de presiune interstițială provocat de supraîncărcare.
+Figura 16. Principiul metodei de preîncărcare cu drenuri verticale și vacuum (Briancon et al., 2018)
+(5)
+Limitări: Metoda de preîncărcare prezintă următoarele limitări: - durata de preîncărcare este de regulă lungă, pentru a permite consolidarea terenului și necesită o execuție în etape care sunt urmate de o durată de menținere a încărcării care este cu atât mai lungă, cu cât terenul este mai slab și mai puțin permeabil și cu cât sarcina de preîncărcare este mai mare;
+- în cazul metodei cu vacuum, terenul nu trebuie să conțină straturi permeabile în interiorul stratului compresibil ce va fi îmbunătățit;
+- disponibilitatea materialelor necesare pentru construirea rambleului de preîncărcare;
+- cantități mari de material necesare pentru execuția rambleului de preîncărcărcare și compensarea tasărilor mari care vor surveni inclusiv în corpul rambleului;
+- necesitatea unui strat (saltele) drenant(e) din material drenant natural sau geosintetic;
+- complexitatea fenomenelor de consolidare primară și secundară (fluaj) duce la o incertitudine (10 - 20% în general) a tasărilor calculate și diferențe față de cele măsurate pe teren;
+- în cazul utilizării drenurilor verticale, adâncimea la care se poate face îmbunătățirea variază de obicei între 10 m și 25 m, dar unele echipamente de execuție permit atingerea unor adâncimi superioare, de peste 30 m;
+- în cazul utilizării drenurilor verticale se obțin scurtări ale duratei de consolidare, dar care nu depășesc 2 - 3 luni;
+- pentru utilizarea metodei cu drenuri verticale este necesară o platformă de lucru de calitate pentru a permite accesul echipamentelor și execuția drenurilor;
+- în cazul metodei cu vacuum, sucțiunea care poate fi aplicată este de ordinul a 70 - 80 kPa;
+- este necesară o supraveghere atentă a operațiunilor, monitorizare și, dacă este cazul, adaptarea proiectului și aplicarea unei metode de proiectare de tip metodă observațională.
+B.
+Materiale utilizate (6)
+Pentru rambleul de preîncărcare se pot utiliza diferite materiale disponibile în apropierea amplasamentului care respectă condițiile generale stabilite prin standardul SR EN 16907-1:2019, precum și condițiile de rezistență și stabilitate pentru structura provizorie rezultată.
+(7)
+Materialele utilizate pentru rambleul de preîncărcare trebuie identificate și clasificate conform standardelor și reglementărilor tehnice în vigoare pentru lucrări din pământ.
+(8)
+Caracterizarea geotehnică a materialelor utilizate pentru rambleul de preîncărcare trebuie realizată în conformitate cu reglementarea tehnică NP 074-2022, și standardele SR EN 16907-2, SR EN ISO 14688-1 și 2.
+(9)
+Caracteristicile geotehnice ce trebuie determinate pentru pământuri sau roci utilizate la execuția rambleului de preîncărcare sunt cele indicate în standardul SR EN 16907-2;
+(10)
+Stratul drenant trebuie executat din materiale granulare care îndeplinesc cerințele de filtrare și drenaj. Dacă stratul de drenaj este folosit și ca platformă de construcție materialul utilizat trebuie verificat să îndeplinească cerințele impuse de verificările la SLS și SLU.
+(11)
+Drenurile verticale pot fi drenuri din nisip sau drenuri fitil sau drenuri plate realizate din materiale geosintetice sau drenuri tubulare (compuse dintr-un tub de drenaj perforat și un filtru de geotextil), având caracteristicile în conformitate cu standardul SR EN 15237. A se vedea și 4.3.2.2.
+(12)
+În cazul utilizării metodei cu vacuum, impermeabilizarea stratului de drenaj se face de regulă cu geomembrane care trebuie să îndeplinească cerințele de grosime și rezistență la tracțiune prevăzute în proiect.
+C.
+Studii și încercări necesare pentru execuție (13)
+În cazul în care rambleul de preîncărcare este utilizat parțial ca structură permanentă, care va fi pusă în operă prin compactare, se vor respecta prevederile standardului SR EN 16907-3 în ceea ce privește organizarea poligoanelor experimentale pentru stabilirea parametrilor compactării.
+(14)
+Este necesară semnalarea oricăror condiții de teren diferite de cele din proiect.
+D.
+Execuție (15)
+Înaintea demarării lucrărilor de consolidare prin preîncărcare trebuie amenajată o platformă de lucru care trebuie concepută pentru a permite accesul și circulația utilajelor, să asigure stabilitatea în timpul lucrărilor, mai ales având în vedere faptul că terenul este unul foarte slab și compresibil și să asigure drenarea apei provenite din consolidare.
+(16)
+Pentru evitarea contaminării materialului granular, drenant din corpul platformei de lucru cu materialul fin, moale din teren este necesară prevederea unui material de separație, de regulă un geotextil.
+(17)
+Grosimea platformei de lucru trebuie să țină cont de capacitatea portantă oferită de terenul natural din amplasament și, de regulă, este cuprinsă între 0,50 -1,00 m.
+(18)
+Pentru creșterea capacității portante platforma de lucru poate fi armată.
+(19)
+În cazul platformelor de lucru de mari dimensiuni poate fi necesară creșterea capacității de drenare a apelor prin încorporarea unor drenuri orizontale.
+(20)
+Înainte de punerea în operă a rambleului de încărcare trebuie instalate aparatele de măsură prevăzute pentru monitorizare.
+(21)
+Execuția rambleului de preîncărcare se face în conformitate cu prevederile standardului SR EN 16907-3:2019.
+(22)
+De regulă, rambleul este alcătuit până la o anumită cotă dintr-o umplutură permanentă, care va deveni cota finală din proiect și dintr-o umplutură nepermanentă care va fi menținută pentru perioada de timp stabilită prin proiect, pentru accelerarea tasărilor.
+(23)
+Pe parcursul consolidării trebuie urmăriți parametrii prevăzuți prin proiect, respectiv tasări, deplasări orizontale, presiunea apei din pori și nivelul piezometric al apei subterane.
+(24)
+Măsurătorile de presiune a apei din pori trebuie să fie prelucrate sub forma parametrului B (B = Delta u / Delta σ_v, unde Delta u este variația presiunii apei din pori, iar Delta σ_v este variația efortului normal unitar vertical), iar dacă B devine > 1 acesta este un prag de alertă și trebuie luate măsuri corespunzătoare de drenare, de încetinire a ritmului de încărcare etc.
+(25)
+Interpretarea măsurătorilor din timpul execuției rambleului trebuie realizată în timp real.
+(26)
+Viteza de încărcare, respectiv de înălțare a rambleului trebuie adaptată tipului de teren (cu atât mai mică, cu cât permeabilitatea acestuia este mai mică).
+(27)
+Tasările măsurate în timpul preîncărcării și consolidării trebuie prelucrate sub forma curbei de tasare în funcție de timp, la intervale regulate.
+(28)
+Tasările se pot măsura cu mărci de tasare poziționate la baza rambleului și vizibile deasupra acestuia, înclinometre poziționate orizontal etc., dar nu pot fi înlocuite de măsurători la partea superioară a rambleului de preîncărcare pentru că acelea vor reprezenta tasările atât ale terenului de fundare, cât și ale rambleului.
+(29)
+Măsurătorile de tasare și mai ales evoluția acestor pot permite calibrarea modelului (modificarea parametrilor de compresibilitate și consolidare prin metoda observațională) și modificarea timpului de aplicare a sarcinii de preîncărcare.
+(30)
+Când rezultatele monitorizărilor arată că au fost atinse obiectivele stabilite, se poate trece la înlăturarea rambleului excedentar care a servit doar etapei de preîncărcare.
+E.
+Controlul calității lucrărilor executate (31)
+Calitatea umpluturii permanente din cadrul rambleului va fi verificată conform prevederilor SR EN 16907-5 care includ obligatoriu determinarea gradului de compactare.
+(32)
+Umplutura nepermanentă poate să fie așternută necompactat și nu sunt necesare verificări privind calitatea terasamentelor.
+F.
+Recepția lucrărilor (33)
+Verificarea finală și recepționarea lucrărilor de îmbunătățire a terenului prin preîncărcare se face în conformitate cu prevederile SR EN 16907-5 și cele ale reglementărilor tehnice în vigoare aplicabile.
+5.2.2.
+Drenuri verticale A.
+Generalități
+(1)
+Principiu: Pământurile fine, cu permeabilitate scăzută, în stare saturată au capacitate portantă scăzută și pentru creșterea acesteia au nevoie să se consolideze. În procesul de consolidare apa interstițială trebuie drenată, iar drenurile verticale permit crearea de căi preferențiale de drenaj către acestea. Drenurile verticale permit scăderea presiunii apei din porii pământurilor, astfel accelerând consolidarea masivelor de pământ fine saturate, coborând nivelul apei subterane, crescând eforturile efective din teren și atenuând efectele lichefierii. Drenurile verticale pot fi combinate cu alte metode de îmbunătățire, precum preîncărcarea (vezi 4.3.2.1), electro-osmoza, compactarea dinamică etc.
+(2)
+Rezultate vizate: Accelerarea ritmului de evacuare a apei din pori și implicit al consolidării pământului, ajungându-se la porozități mai mici într-un timp mai scurt decât fără drenuri verticale, efectul fiind de reducere a tasărilor pe perioada exploatării, tasările absolute rămânând aceleași.
+(3)
+Domeniu de aplicare: Drenurile verticale sunt utilizate pentru consolidarea terenurilor fine saturate sub construcții în general de suprafață mare (rambleuri rutiere sau feroviare, diguri, depozite industriale, radiere, construcții marine etc.), dar și pentru aplicații de mediu cum ar fi reabilitarea terenurilor contaminate. De asemenea, drenurile verticale pot fi instalate sub construcții fundate pe terenuri cu potențial de lichefiere pentru a drena rapid excesul de presiune interstițială produs de solicitarea seismică și a evita, astfel, lichefierea terenului de fundare.
+(4)
+Drenurile verticale pot fi realizate sub formă de drenuri de nisip (de obicei realizate în loc) sau de drenuri prefabricate, care constau de regulă dintr-un miez drenant și un filtru din geotextil sau un produs înrudit.
+(5)
+Drenurile prefabricate pot fi: - drenuri fitil (drenuri plate) - cu secțiune transversală rectangulară, compuse dintr-un miez central ce prezintă un sistem de canale care conduc lichidele și un filtru din geotextil;
+- drenuri tubulare - cuprind un miez inelar deschis, ondulat (tub drenant perforat) și un manșon filtrant.
+Principalele tipuri de drenuri verticale prefabricate sunt descrise în standardul SR EN 15237 Anexa A. (6)
+Drenurile din nisip au secțiuni transversale circulare, sunt realizate din material granular cu permeabilitate mare și sunt executate pe teren prin diverse metode (de îndesare sau de dislocuire). Drenurile de nisip pot fi realizate și în tub de geotextil care acționează atât ca separator, cât și ca filtru între materialul granular și terenul fin din jur pentru a împiedica colmatarea și/sau pentru a menține integritatea coloanei de material granular în terenurile foarte moi.
+(7)
+Drenurile verticale sunt în general conectate la partea superioară într-o saltea drenantă. Aceasta poate fi impermeabilizată și conectată la o pompă de vacuum pentru a aplica o sucțiune și a accelera procesul de drenare. O altă variantă este de a tăia drenurile fitil la baza unor tranșei cu adâncime de cca. 1m sub platforma de lucru, iar apoi fiecare rând de drenuri fitil sunt conectate la un dren tubular, el fiind conectat la o pompă de vacuum, astfel că nu mai este necesară etanșeizarea saltelei drenante. În schimb, pe primul metru nu există depresionare, iar depresionarea maximă este mai mică (cca. 50 kPa, în loc de 70 - 80 kPa).
+(8)
+Drenurile verticale pot fi asociate cu electro-osmoza, caz în care electrozii sunt montați, de exemplu, în benzile de drenaj prefabricate și conectați la o sursă de curent.
+(9)
+Limitări: Drenurile verticale sunt eficiente doar dacă presiunea de preconsolidare a terenului va fi depășită de eforturile induse prin preîncărcare sau prin lucrarea definitivă, deoarece instalarea drenurilor poate provoca o creștere a tasării. B.
+Materiale utilizate (10)
+Materialele geosintetice utilizate pentru drenurile verticale prefabricate trebuie să fie conforme cu prevederile din standardul SR EN 13252 și cu cele ale standardului SR EN 15237.
+(11)
+Drenurile verticale prefabricate trebuie să aibă o durabilitate suficientă în conformitate cu prevederile SR EN 13252 pentru o durată proiectată de serviciu de 5 ani. În cazul utilizării lor pentru lucrări definitive, cum ar fi drenarea excesului de presiunea a apei din pori pentru evitarea lichefierii durata proiectată de serviciu este mai mare, în conformitate cu specificațiile din proiect.
+(12)
+Materialul granular utilizat pentru drenurile de nisip trebuie să aibă o curbă granulometrică care să se încadreze între limitele prevăzute în standardul SR EN 15237 Anexa A și un coeficient de permeabilitate care să fie conform precizărilor din același standard Anexa B.
+C.
+Studii și încercări necesare pentru execuție (13)
+Înainte de execuție trebuie confirmate condițiile de teren din proiect și semnalate orice devieri de la ipotezele proiectului și specificațiile tehnice.
+(14)
+Materialele prevăzute pentru execuție trebuie testate pentru verificarea conformității cu specificațiile tehnice.
+D.
+Execuție (15)
+După execuția platformei de lucru și care are și rol de drenaj și înaintea execuției rambleului de încărcare (dacă este cazul) se execută drenurile verticale.
+(16)
+Execuția drenurilor verticale se face în conformitate cu prevederile standardului SR EN 15237.
+(17)
+Etapele execuției drenurilor verticale prefabricate sunt (Figura 17): (i) se execută stratul de nisip la partea superioară a amplasamentului ce acționează ca un strat de drenaj;
+(ii) se conectează drenul prefabricat la partea inferioară a mandrinei și se fixează cu ajutorul unei plăci de ancorare (Figura 17a);
+(iii) mandrina cu drenul prefabricat atașat se introduce în pământ prin metode statice sau prin vibrare până la adâncimea proiectată (Figura 17b);
+(iv) se retrage mandrina lăsând pe poziție drenul și placa de ancorare;
+(v) drenul este apoi tăiat, și se repetă procesul mutând utilajul pe următoarea poziție (Figura 17c).
+Figura 17. Etapele de execuție a drenurilor vertical prefabricate
+(18)
+Drenurile verticale din nisip constau în realizarea unor foraje verticale sub protecția unui tubaj ce străbate stratul de pământ moale până la stratul sub adiacent și apoi umplerea acestor foraje cu material granular. Pe măsură ce se introduce materialul granular tubulatura se retrage. Indiferent de procedeul de forare folosit la realizarea forajelor, gradul de deranjare al pământului din jur trebuie să fie cât mai mic posibil pentru a nu modifica caracteristicile de drenaj ale terenului din jur.
+(19)
+Parametrii de urmărit în timpul execuției sunt aceiași ca la 5.2.1.
+E.
+Controlul calității lucrărilor executate (20)
+Controlul calității lucrărilor de drenuri verticale se face în conformitate cu prevederile SR EN 15237.
+F.
+Recepția lucrărilor (21)
+Verificarea finală și recepționarea lucrărilor de îmbunătățire a terenului cu drenuri verticale se face în conformitate cu prevederile standardului SR EN 15237 și cele ale reglementărilor tehnice în vigoare aplicabile.
+5.3.
+Coloane 5.3.1.
+Coloane granulare executate prin vibrare sau substituție dinamică, coloane în geotextil A.
+Generalități (1)
+În acest capitol sunt tratate coloanele realizate din material granular prin procedee de vibro-înlocuire, vibro-compactare sau substituție dinamică.
+(2)
+Principii: (i)
+Vibro-compactarea reprezintă îmbunătățirea terenului existent necoeziv prin vibrare, în care obiectivul principal este de mărire a densității terenului în zona coloanelor care se formează astfel. Metoda constă în introducerea în teren a unui vibrator de adâncime care determină o rearanjare a particulelor din teren datorată eforturilor de forfecare generate și a unei lichefieri locale determinată de vibrațiile transmise terenului de către vibrator (Figura 18).
+Figura 18. Principiul de realizare al coloanelor vibro-compactate în terenuri necoezive
+(ii)
+Vibro-înlocuirea constă în executarea unor coloane prin aport de material care este vibrat. Aceasta implică introducerea în corpul coloanei a unor materiale de calitate superioară celor din teren (balast, nisip, piatră spartă sau alte materiale locale granulare), ceea ce conduce, pe lângă îndesarea terenului, la o ranforsare a acestuia. Coloanele realizate prin vibro - înlocuire pot fi realizate prin următoarele metode: - tehnologia pe cale uscată - alimentare de sus - coloane vibro-deplasate (Figura 19). Echipamentul este suspendat cu o macara cu senile și este coborât la nivelul terenului. Penetrarea în umpluturi și/sau în terenuri moi este obținută sub efectul combinat al greutății echipamentului, cel al vibrațiilor de frecvență înaltă și al aerului comprimat. După atingerea adâncimii dorite, echipamentul vibrator este menținut pentru puțin timp în pământ, apoi este retras. O cantitate mică de material granular este introdusă în gaura formată, după care echipamentul vibrator este din nou coborât pentru compactarea acestuia. Prin adaosuri succesive de cantități mici de material granular, compactat de fiecare dată sub energia dorită, se formează o coloană.
+Figura 19. Principiul coloanelor din material granular vibro-deplasate (tehnologie pe cale uscată - alimentare de sus), (Dhouib A., Blondeau F., 2005*4))
+*4) Dhouib A., Blondeau F. (2005) Colonnes ballastees, Presses de ENPC.
+- tehnologia pe cale umedă (Figura 20) - echipamentul vibrator este dotat cu un sistem de injectare de apă. Echipamentul vibrator este suspendat cu o macara, coborât la nivelul terenului și apoi sistemul de injectare al apei este deschis. Sub efectul greutății proprii și ajutat de jetul de apă și de vibrații, echipamentul intră rapid în terenurile moi. După realizarea unei găuri cu pereți stabili, materialul granular este introdus în porții mici printre vibrator și peretele găurii în scopul formării coloanei.
+Figura 20. Principiul coloanelor din material granular realizate prin vibro-înlocuire pe cale umedă (Dhouib A., Blondeau F., 2005)
+- tehnologia pe cale uscată - alimentare de jos (Figura 21). În această tehnologie echipamentul vibrator rămâne înfipt în teren în timpul realizării coloanei. Echipamentul este alcătuit dintr-un tub de alimentare cu debit mare racordat în permanență la mecanismul vibrator. Echipamentul este poziționat pe locul de tratare și umplut cu material granular, după care este introdus în pământ sub efectul combinat al greutății proprii, al vibrațiilor și, dacă este necesar, a unui jet de aer comprimat și al unei forțe descendente suplimentare. Coloana din material granular este apoi realizată și compactată prin ridicarea întâi a tubului, apoi prin reînfigerea acestuia în coloana constituită și repetarea operațiilor până la atingerea gradului de compactare dorit.
+Figura 21. Principiul coloanelor din material granular realizate prin vibro - înlocuire (tehnologie pe cale uscată - alimentare pe jos), (SR EN 14731)
+Pentru tehnologiile prin vibrare (vibro-înlocuire, vibro-compactare) se aplică prevederile standardului SR EN 14731.
+(iii)
+Substituția dinamică presupune utilizarea compactării dinamice pentru a introduce în teren materiale granulare pentru a forma ploturi din material granular. Poate fi o extindere a compactării dinamice care utilizează baterea cu maiuri grele, în care craterele formate prin batere (îndesare) sunt apoi umplute cu material granular pentru a forma o coloană (Figura 22) sau pot fi tehnologii specifice de creare a unor ploturi din materiale granulare în cavități preformate (fie prin îndesare, fie prin dislocuire) și umplere cu porții mici de material granular compactat dinamic cu vibrații de frecvență înaltă și amplitudine mică pentru a forma ploturi similare cu coloanele (Figura 23).
+Figura 22. Principiul de realizare a ploturilor din balast prin compactare dinamică (batere), (Briancon et al., 2018)
+Figura 23. Principiul coloanelor din ploturi de material granular compactate dinamic
+(iv)
+Atunci când coloanele din material granular sunt realizate în pământuri foarte moi, există posibilitatea ca acestea să nu aducă un aport semnificativ la capacitatea portantă a terenului din cauza slabei confinări a pământului pe direcție transversală, ceea ce conduce la supralărgire excesivă a coloanelor și a pătrunderii argilei moi în golurile materialului granular din coloană. Se utilizează o teacă dintr-un geotextil țesut cu rezistență mare la tracțiune. Materialul folosit pentru umplerea tecii de geotextil poate fi nisip sau balast. Teaca din material geosintetic controlează diametrul coloanei, previne pierderea de material, sporește rigiditatea generală a coloanelor și previne contaminarea cu pământ a coloanelor, păstrând astfel proprietățile de drenaj.
+Coloanele în teacă din geotextil pot fi instalate cu sau fără deplasare laterală a pământului moale (Figura 24 și Figura 25).
+Figura 24. Metoda de instalare a coloanelor în geotextil cu deplasarea terenului (Alexiew et al, 2005*5))
+*5) Alexiew, D., Brokemper, D. Lothspeich, S. (2005) Geotextile encased columns (GEC) load capacity, geotextile selection, and pre-design graphs. Proceedings of Geofrontiers, Austin.
+Figura 25. Metoda de instalare a coloanelor în geotextil cu dislocuirea terenului (Gniel și Bouazza, 2010*6))
+*6) Gniel J., Bouazza A. (2010) Construction of geogrid encased stone columns: A new proposal based on laboratory testing, Geotextiles and Geomembranes, Volume 28, Issue 1, February 2010, Pages 108-118.
+(v)
+În România se mai aplică și metoda de realizare a coloanelor de balast prin batere, care presupune formarea unui dop din beton la partea inferioară a coloanei și îndesarea acestuia în coloana metalică prin aplicarea de lovituri de berbec coloanei de la o înălțime de (1 ÷ 2) m. Introducerea coloanei în teren se realizează prin aplicarea de lovituri betonului din interiorul coloanei de la o înălțime de (7 ÷ 10) m. După ce se atinge cota din proiect, se scoate dopul din coloana metalică prin aplicarea de lovituri scurte introducând în coloana metalica o cantitate de balast ce se îndeasă prin batere cu berbecul, cu lovituri date de la înălțimea de (2 ÷ 3) m
+(3)
+Rezultate vizate: Tehnica îmbunătățirii terenurilor prin adoptarea de coloane din material granular s-a dovedit a fi aplicată cu succes în: (i) îmbunătățirea stabilității pantelor,
+(ii) creșterea capacității portante,
+(iii) reducerea tasărilor totale și diferențiale,
+(iv) reducerea potențialului de lichefiere al nisipurilor și
+(v) creșterea vitezei de consolidare a terenurilor.
+În Tabelul 1 se prezintă rezultatele așteptate în cazul folosirii tehnologiei de vibro-înlocuire cu materiale granulare pentru diferite tipuri de pământuri.
+Tabelul 1. Rezultate așteptate pentru tehnologia de vibro-înlocuire cu materiale granulare.
+Tipul de pământ
+Eficacitatea
+Densificare
+Armare
+Nisip
+Excelentă
+Foarte bună
+Nisipuri prăfoase
+Foarte bună
+Foarte bună
+Prafuri
+Bună
+Excelentă
+Argile
+Medie
+Excelentă
+Deșeuri rezultate în urma exploatării miniere
+Excelentă, în funcție de gradația deșeurilor
+Bună
+Umpluturi necontrolate
+Bună
+Bună
+Gunoi
+Nu este aplicabilă
+Nu este aplicabilă
+(4)
+Domeniu de aplicare: (i)
+Coloanele realizate prin vibro - compactare, vibro - înlocuire sau substituție dinamică se pot utiliza pentru o varietate de lucrări: drumuri, rambleuri, structuri de sprijin, depozite, silozuri, rezervoare, construcții civile și industriale, structuri off-shore, terenuri câștigate din mare etc.
+(ii)
+Coloanele realizate prin vibro - compactare se pot utiliza pentru terenuri granulare - nisipuri, pietrișuri cu conținut mic de particule fine (sub 10% fracțiune praf).
+(iii)
+Coloanele realizate prin vibro - înlocuire se utilizează pentru pământuri coezive ce prezintă o rezistență la forfecare în condiții nedrenate mai mare de 15 - 20 kPa. Tehnica nu este adecvată pentru turbe sau pământuri cu peste 5% materie organică și nici pentru umpluturi din deșeuri menajere. Pentru pământurile foarte moi poate fi necesară asocierea cu o măsură de preîncărcare sau consolidare.
+(iv)
+În Figura 26 sunt prezentate domeniile granulometrice pentru vibro - compactare și vibro-înlocuire.
+Figura 26. Domenii granulometrice pentru terenurile în care se pot aplica coloanele realizate prin vibro - compactare și vibro - înlocuire (Briancon et al., 2018)
+(v)
+Metoda de substituție dinamică cu ploturi din materiale granulare se poate utiliza în terenuri diverse, argile și prafuri de la moi la vârtoase, terenuri necoezive afânate sau mediu îndesate, deasupra sau sub nivelul apei subterane, depozite de deșeuri.
+(vi)
+Tehnologia coloanelor în geotextil este utilizată pentru terenuri foarte moi și terenuri cu conținut ridicat de materii organice cu o rezistență la forfecare în condiții nedrenate de 5 - 15 kPa, sau chiar mai mici de 5 kPa, inclusiv în turbe și mâluri. De regulă, această tehnică este utilizată pentru rambleuri fundate pe terenuri cu un modul edometric între 0,5 și 3,0 MPa și o grosime a stratului compresibil între 8 și 30 m. Înălțimea minimă recomandată a rambleului deasupra coloanelor în geotextil este de 1,5 m.
+(vii)
+Coloanele din material granular în geotextil sunt adecvate în cazul fundațiilor sensibile la împingerea laterală, cum ar fi piloții din vecinătatea rambleurilor înalte, haldele de depozitare sau alte încărcări din fundare directă. Ele pot fi, de asemenea, utilizate în zone seismice pentru menținerea integrității coloanelor granulare sub acțiunea seismică de forfecare. O altă aplicație a coloanelor din material granular în geotextil este pentru rambleurile feroviare existente modernizate pentru trenuri de mare viteză, deoarece îmbunătățesc stabilitatea lor dinamică.
+(5)
+Limitări: (i)
+În cazul coloanelor realizate prin vibro-înlocuire: - tehnologia pe cale uscată - alimentare de sus (coloane vibro-deplasate) este aplicabilă în pământuri granulare, deasupra pânzei freatice, pentru adâncimi curente maxime de 20 m;
+- tehnologia pe cale umedă este utilizată atunci când tehnica pe cale uscată nu poate fi adoptată datorită instabilității pereților găurii formate prin vibrare;
+- tehnologia pe cale uscată - alimentare de jos este aplicabilă în cazurile în care stabilitatea pereților găurii nu este asigurată și poate înlocui procedeul pe cale umedă în majoritatea situațiilor.
+(ii)
+Adâncimea tipică de execuție a coloanelor prin metoda de vibro-înlocuire este de 10-15 m.
+(iii)
+Coloanele realizate prin vibro-înlocuire pot reduce tasările construcțiilor de cca. 2 - 3 ori.
+(iv)
+Pentru coloanele de nisip, tehnologia a fost utilizată până la o adâncime de 70 m.
+(v)
+Adâncimea tipică a coloanelor în geotextil este de 5-10 m.
+(vi)
+Coloanele din materiale granulare (agregate) realizate prin substituție dinamică sunt utilizate în principal pentru a îmbunătăți terenurile până la o adâncime de 5 - 10 m, în funcție de tehnologia aplicată. Coloanele realizate prin compactare dinamică (batere) de la suprafață au adâncimi mai mici, de cca. 5 - 6 m maximum, în timp ce ploturile de agregate compactate, în funcție de tehnologie (de îndesare sau cu dislocuire) pot avea adâncimi de 5 - 25 m.
+(vii)
+Pentru coloanele realizate prin vibro-compactare terenurile care pot fi îmbunătățite prin această tehnică prezentate în Figura 26 pot fi sub-divizate în mai multe sub-domenii granulometrice (Figura 27):
+Figura 27. Sub-domenii granulometrice ale terenului pentru îmbunătățire prin metoda vibro-compactării (Bertago et al., 1996)
+În cazul terenurilor cu o granulometrie cuprinsă în zona A, metoda de vibro-compactare este adecvată, dar va fi dificilă introducerea vibratorului datorită diametrelor mari ale fracțiunii de pietriș și bolovăniș. Zona B, care cuprinde fracțiunea de nisip fin până la pietriș fin, este cea mai adecvată pentru vibro-compactare. Zona C cuprinde terenuri pentru care vibro-compactarea este fezabilă, dar necesită un timp mai îndelungat pentru îndesarea pământului din cauza coeziunii aparente pentru pământurile nesaturate sau a permeabilității relativ scăzute pentru pământul saturat. Zona D cuprinde terenuri pentru care vibro-compactarea nu este fezabilă.
+(viii)
+Prin realizarea de coloane din material granular, drenant, se pot pune în comunicare diferitele acvifere din teren, care, în anumite cazuri, poate duce la contaminarea acestora.
+B.
+Materiale utilizate (6)
+Pentru realizarea coloanelor realizate prin vibro-compactare, vibro-înlocuire sau prin substituție dinamică se pot utiliza: materialele necoezive din terenul de fundare (ținând cont de domeniul geotehnic de aplicare al fiecărei metode) sau materiale de aport granulare.
+(7)
+Pentru coloanele vibro-deplasate granulozitatea materialului granular utilizat este cuprinsă intre 40 mm și 75 mm.
+(8)
+Pentru coloanele realizate prin vibro-înlocuire pe cale umedă granulozitatea materialului granular utilizat este cuprinsă între 25 mm și 75 mm.
+(9)
+Pentru coloanele realizate prin compactare dinamică de la suprafață se pot utiliza materiale granulare, inclusiv grosiere, cu blocuri de până la 50 cm, dată fiind energia ridicată de compactare. Se poate utiliza și deșeu de carieră sau materiale din demolări.
+(10)
+Materialele granulare utilizate pentru corpul coloanelor trebuie să fie curat și inert din punct de vedere chimic, precum și să aibă o duritate suficientă pentru a rămâne stabil în timpul compactării.
+(11)
+Materialele granulare utilizate pentru corpul coloanelor trebuie să nu fie friabile. De regulă, degradarea sa la încercarea Los Angeles trebuie să fie sub 45% pierdere, iar diametrul granulelor să fie între 12 și 75 mm.
+(12)
+Geosinteticele utilizate în mod obișnuit pentru încapsularea coloanelor din material granular sunt geotextilele țesute cu rezistență mare la tracțiune uni-dimensională și tri-dimensională. Rezistența maximă la tracțiune este atinsă de obicei la deformații tridimensionale de aproximativ 5 - 10%, ceea ce implică valori de rezistență între 100 - 300 kN/m.
+C.
+Studii și încercări necesare în execuție (13)
+Înaintea execuției trebuie confirmate condițiile de teren asumate prin proiect, iar materialele prevăzute pentru execuție trebuie verificate pentru conformitate cu specificațiile tehnice.
+(14)
+În general este necesară execuția de poligoane experimentale pentru a stabili sau verifica procedura de execuție, distanța dintre coloane, vibrațiile, parametrii de îmbunătățire etc.
+D.
+Execuție (15)
+Pentru implementarea proiectului de îmbunătățire a terenului prin metoda coloanelor din material granular în faza de execuție, se impun o serie de măsuri de organizare, control și siguranță, printre care: (i)
+Planificarea și pregătirea terenului - Realizarea unui studiu detaliat al terenului și a unui proiect tehnic clar, adaptat condițiilor geotehnice și structurale. Curățarea și nivelarea amplasamentului, eliminarea obstacolelor și pregătirea suprafeței de lucru.
+(ii)
+Achiziția și verificarea materialelor - asigurarea unui stoc corespunzător de piatră și alte materiale necesare, de calitate certificată. Verificarea respectării specificațiilor tehnice și a standardelor de calitate.
+(iii)
+Organizarea șantierului și a echipamentelor - stabilirea unui plan de lucru detaliat, cu alocarea resurselor umane și a echipamentelor necesare (buldozere, excavatoare, utilaje pentru foraj). Implementarea măsurilor de siguranță pentru personal și pentru mediul înconjurător.
+(iv)
+Executarea efectivă a coloanelor din material granular
+(v)
+Controlul calității și monitorizare - inspecții periodice în timpul execuției pentru a verifica calitatea materialelor și a tehnicii de lucru.
+(vi)
+Documentare și rapoarte de progres - înregistrarea tuturor etapelor de execuție, a eventualelor abateri, și a măsurilor corective. Elaborarea rapoartelor tehnice și financiare pentru controlul proiectului.
+(vii)
+Respectarea normelor de protecție a mediului - asigurarea măsurilor de reducere a impactului asupra mediului înconjurător, gestionarea corectă a deșeurilor și a emisiilor.
+(viii)
+Implementarea cu succes a acestor măsuri contribuie la finalizarea proiectului în termenele stabilite, cu respectarea standardelor de calitate și siguranță.
+(16)
+Înainte de demararea execuției lucrărilor de îmbunătățire cu coloane trebuie identificate toate posibilele obstacole și rețele de utilități subterane sau supraterane care trebuie protejate.
+(17)
+Execuția lucrărilor de îmbunătățire prin coloane necesită execuția prealabilă a unei platforme de lucru dimensionată corespunzător pentru a asigura accesul utilajelor și stabilitatea în timpul execuției lucrărilor. Materialul din care se execută platforma de lucru trebuie să fie conform cu specificațiile tehnice, să fie adecvat pentru terenul din amplasament și să nu împiedice pătrunderea echipamentului.
+(18)
+Execuția coloanelor prin vibrare (vibro-înlocuire, vibro-compactare) se realizează în conformitate cu prevederile standardului SR EN 14731.
+(19)
+Metoda de execuție (a se vedea 5.3.1 (2) (i) și (ii)) este aleasă în funcție de caracteristicile amplasamentului din punct de vedere geotehnic și hidrogeologic.
+(20)
+Procedura de realizare a coloanelor prin vibro-compactare, respectiv de vibro-înlocuire sunt foarte asemănătoare. Ambele utilizează vibro-compactorul ca principal echipament, faza de penetrare fiind identică la cele două metode. Odată ce se atinge adâncimea necesară, gaura este "spălata", adică jeturile vibro-compactorului sunt complet deschise. Această "spălare puternică" formează un cilindru deschis în terenul coeziv.
+(21)
+Umplutura de pietriș folosită pentru formarea coloanelor din material granular trebuie să respecte specificațiile tehnice ale proiectului. Pe măsură ce materialul granular este pus în operă, utilajul vibrator compactează simultan materialul, dislocând materialul granular radial în terenul moale. Utilajul vibrator poate fi retras cu o viteză de 0,3 m/min.
+(22)
+Cantitatea de material granular consumată și puterea utilajului vibrator (măsurată prin amperaj) în timpul compactării sunt înregistrate pentru a evalua uniformitatea compactării și dimensiunea finală a coloanei de material granular.
+(23)
+După ce o coloană de material granular este finalizată, echipamentul este relocat, iar procesul se repetă în altă locație adiacentă. Spațierea punctelor trebuie să respecte dimensiunile rețelei proiectate.
+(24)
+Metodele de execuție pentru coloanele din material granular executate prin vibrare includ: a)
+Metoda pe cale umedă
+Tehnica de instalare a coloanelor din materiale granulare, numită vibro-înlocuire prin procedeul umed, utilizează un jet de apă la presiune ridicată pentru a realiza o gaură în amplasament și pentru a menține stabilitatea acesteia în terenurile coezive. Dacă se întâmpină dificultăți la penetrare, poate fi realizată și o pre-forare prin straturile dure.
+Modul de realizare al coloanelor din piatră este următorul: - se poziționează sonda în locația dorită, se pornește apa și electricitatea necesară funcționării electromotorului pentru generarea vibrațiilor.
+- introducerea sondei în teren până la adâncimea dorită cu o viteză de 0,3 - 0,5 m/min și monitorizarea variației curentului electric.
+- după atingerea cotei inferioare a coloanei se mai realizează încă o trecere în sus și jos cu sonda în gaura formata fără a o scoate complet pentru a curăța gaura;
+- un încărcător frontal plasează materialul granular în jurul sondei vibro-compactorului de la suprafața terenului, iar aceasta cade spre vârful sondei
+- vibratorul este ridicat în etape de 0,6 - 1,2 m, iar piatra cade prin spațiul creat de acesta până la vârf, umplând cavitatea formată pe măsură ce vibro-compactorul este ridicat.
+- apoi vibratorul penetrează din nou piatra căzută la vârful acestuia pentru a o densifica și a o împinge piatra radial în terenul înconjurător până când se atinge nivelul de amperaj prestabilit pentru fiecare etapă sau până se ajunge la nivelul superior al coloanei.
+Fazele de execuție pentru realizarea coloanelor din material granular vibrate folosind metoda umedă sunt prezentate în Figura 28.
+Figura 28. Fazele de execuție a coloanelor prin vibro-înlocuire prin metoda pe cale umedă
+b)
+Metoda pe cale uscată
+Vibratorul este introdus în teren fără a folosi jeturi de apă, utilizând oscilațiile acestuia, combinate cu greutatea sa proprie și eventual jeturi de aer. Modul de realizare al coloanelor de material granular prin vibro-înlocuire folosind metoda pe cale uscată cu alimentare pe la partea inferioară (Figura 29) este similară cu cea prezentată la metoda pe cale umedă cu alimentare superioară, cu câteva excepții legate de lipsa folosirii apei la introducerea sondei și a alimentării cu material granular pe la partea inferioară a sondei vibro-compactoare prin intermediul unui tub cu pâlnie. În unele cazuri, locațiile planificate pentru coloane sunt forate în prealabil pentru a facilita penetrarea vibratorului.
+Figura 29. Fazele de realizare a coloanelor din material granular folosind metoda pe cale uscată, cu alimentare la partea inferioară
+Metoda pe cale uscată poate fi utilizată și în varianta alimentării pe la partea superioară dacă în timpul penetrării gaura formată își poate păstra stabilitatea. Fazele de execuție pentru realizarea coloanelor din material granular vibrate folosind metoda pe cale uscată cu alimentare la partea superioară sunt prezentate în Figura 30.
+Figura 30. Fazele de realizare a coloanelor din material granular folosind metoda pe cale uscată, cu alimentare la partea superioară
+c)
+Etapele de execuție ale coloanelor din nisip compactat (Figura 31)
+Realizarea coloanelor din nisip necesită utilizarea unui tubaj din oțel (de obicei cu diametrul de 0,4 - 0,6 m), la partea superioară a acestuia fiind fixat un vibrator hidraulic sau electric de 4,5 - 6 tone. Tubajul trebuie să fie ușor mai lung decât adâncimea dorită a coloanei proiectate din nisipul și să aibă o bază care poate fi închisă în timpul penetrării, dar să poată fi deschisă în timpul umplerii cu materialul granular.
+Procedură tipică de instalare: - poziționarea tubajului pe amplasament conform planului de execuție;
+- introducerea tubulaturii până la adâncimea dorită. Pentru a minimiza timpul de construcție, tubajul de oțel este de obicei umplut cu nisip în timp ce este împins în teren, astfel încât extragerea tubajului să poată începe imediat ce se atinge adâncimea necesară.
+- după umplerea tubulaturii cu nisip, la partea de superioară a coloanei de nisip se aplică o presiune de aer. Această presiune aplicată la partea superioară împiedică pământul moale din teren să intre în tubaj și ajută la forțarea nisipului în afară în timpul retragerii.
+- realizarea coloanei din nisip printr-o mișcare alternativă a tubulaturii (de obicei, se ridică cu 1,8 - 3 m și apoi se vibrează înapoi în jos cu 1,0 - 2,0 m) până ajunge la nivelul superior al coloanei. În timpul acestui proces, se aplică o presiune de aer (de obicei, 250 - 500 kPa).
+Figura 31. Etapele realizării coloanelor din nisip
+(25)
+Execuția coloanelor din material granular realizate prin substituție dinamică a. ploturi din material granular compactate prin batere
+Acestea se formează prin umplerea craterelor formate prin compactare dinamică cu material granular (a se vedea 5.1.1 și Figura 23).
+b. coloane din agregate compactate prin batere (Figura 32) Procedura tipică de instalare este următoarea: - realizarea unei găuri până la adâncimea dorită. În cazul în care stabilitatea găurii nu este asigurată gaura poate fi tubată;
+- introducerea materialului granular în gaură pe la partea superioară cu ajutorul unui încărcător cu șenile, în straturi de maxim 30cm;
+- compactarea dinamică a materialului granular;
+- adăugarea de straturi succesive și compactarea până la atingerea cotei superioare a coloanei.
+Figura 32. Etape de execuție a coloanelor din ploturi de material granular compactate dinamic
+E.
+Controlul calității lucrărilor executate (26)
+Controlul calității lucrărilor executate se face în timpul execuției și la finalul acesteia, în conformitate cu prevederile standardelor aplicabile de execuție și cu prevederile proiectului.
+(27)
+În timpul execuției, parametrii importanți de monitorizat și înregistrat includ: - locația coloanei;
+- adâncimea coloanei;
+- energia consumată;
+- cantitatea de umplutură utilizată - monitorizarea consumului de material granular în funcție de adâncime, la fiecare max. 1,5 m pentru a determina profilul secțiunii transversale a coloanei în raport cu adâncimea. Nici o coloană nu trebuie să aibă un diametru mai mic de 90% din diametrul minim specificat în contract;
+- verticalitatea utilajului. Axul coloanelor nu trebuie să fie înclinat față de verticală cu mai mult de 5 cm pe o distanță de 300 cm.
+(28)
+Controlul după execuție se referă la: - controlul diametrului coloanei (prin dezgolirea unui număr de coloane realizate în afara amprentei stricte a construcției);
+- controlul continuității, fie cu ajutorul unui penetrometru static, fie prin înregistrările din timpul execuției coloanei;
+- controlul compactării materialului din coloană, cu ajutorul unui penetrometru static care trebuie să coboare cel puțin 1 m sub baza coloanei;
+- încărcare de probă a unei coloane, de regulă pentru verificarea tasării capului coloanei sub o sarcină egală cu 1,5 ori valoarea încărcării determinate în proiect pentru SLS.
+(29)
+Frecvența încercărilor de control trebuie să respecte prevederile proiectului tehnic și pe cele ale standardelor aplicabile pentru execuție.
+(30)
+Modul de verificare post-execuție a calității coloanelor din material granular depinde și de scopul pe care aceste coloane îl vor avea în lucrare și de tipul de teren întâlnit pe amplasament. Pentru stabilizarea pantelor, reducerea tasărilor, reducerea potențialului de lichefiere se utilizează încercări pe teren de tip SPT, CPT sau presiometru în puncte centrale între coloane. Rezistența la penetrare trebuie verificată față de valorile folosite pentru determinarea spațierii coloanelor.
+(31)
+Pentru verificarea calității lucrărilor executate se utilizează, în general, aceleași tipuri de încercări ca și la etapa de investigare a terenului, pentru a putea observa gradul de îmbunătățire
+E.
+Recepția lucrărilor (32)
+Recepția lucrărilor de îmbunătățire a terenului cu coloane din
+5.3.2.
+Coloane din pământ (loess) (1)
+În acest subcapitol sunt tratate coloanele din pământ, de regulă aplicate în cazul terenurilor sensibile la umezire (loess). A.
+Generalități (2)
+Principiu: Pentru îmbunătățirea terenurilor sensibile la umezire, în România se utilizează procedeul de realizare a coloanelor de pământ prin îndesare în adâncime ca urmare a căderii unui mai (de 1.5 - 1.6 t) având în capăt un dorn ce străpunge terenul și îl îndeasă lateral. Găurile astfel formate, care sunt stabile în loess uscat, sunt apoi umplute cu porții succesive de material de același tip care se compactează până la refuz.
+(3)
+Rezultate vizate: Reducerea porozității pentru eliminarea sensibilității la umezire.
+(4)
+Domeniu de aplicare: Coloanele din pământ se folosesc de obicei în cazul unor terenuri sensibile la umezire cu o grosime mai mare de 8 m, dar se pot folosi și pentru grosimi mai mici ale stratului dificil de fundare (minim 5 m) în cazul construcțiilor industriale fără sarcini dinamice importante, respectiv de minim 6 m în cazul construcțiilor civile cu regim de înălțime P+10E.
+(5)
+Limitări: (i)
+Nu se pot execută coloane de pământ sub nivelul hidrostatic și nici în terenuri a căror umiditate naturală depășește limita inferioară de plasticitate a pământului cu Delta w ≥ 5%.
+(ii)
+Diametrul uzual al maiului utilizat este de 0,35 m, dar diametrul final al coloanei depinde de îndesarea terenului.
+B.
+Materiale utilizate (6)
+Pentru realizarea coloanelor din pământ se utilizează doar materialul din loc, pământuri prăfoase cu umiditate < 5%.
+C.
+Studii și încercări necesare pentru execuție (7)
+De regulă pentru proiectele mari este necesară execuția unui poligon experimental pentru determinarea numărului optim de lovituri de aplicat. Pentru aceasta, se realizează o coloană pentru care, la compactarea fiecărei porții de pământ se aplică o serie de lovituri, măsurând de fiecare dată avansarea berbecului. Compactarea se efectuează până la atingerea refuzului. Acesta se consideră atins dacă la 3 lovituri succesive se obțin valori ale avansării berbecului care nu diferă cu mai mult de 1 cm. Numărul de lovituri (N) este cel mai mic număr la care s-a obținut această diferență. Determinarea se repetă pentru toate porțiile care se introduc în coloană, mai puțin cele de pe ultimii 2 metri de la suprafață.
+(8)
+Pentru verificarea compactării rezultate se efectuează penetrări statice sau dezveliri ale coloanelor rezultate (un sondaj pe întreaga adâncime compactată pentru 3 coloane) și prelevare de probe pentru a se efectua determinări de laborator.
+(9)
+Pe poligonul experimental se determină următorii parametri: - densitatea în stare uscată medie pentru fiecare metru de adâncime;
+- densitatea medie globală în stare uscată pentru zona îmbunătățită;
+- raportul dintre diametrul efectiv al coloanei și cel considerat la proiectare;
+- se trasează diagrama de variație a rezistenței la penetrare cu adâncimea pentru terenul neîmbunătățit și pentru cel îmbunătățit.
+D.
+Execuție (10)
+Înaintea demarării execuției trebuie identificate toate posibilele obstacole și pregătit terenul.
+(11)
+Pentru execuție se urmăresc următoarele etape: - fixarea berbecului pe locație;
+- executarea găurii care se face prin căderea berbecului ce străpunge terenul și îndeasă în lateral;
+- se aplică întâi 7 - 8 lovituri/min prin căderea berbecului de la înălțimi de cca. 1 m. Pe măsura avansării în adâncime înălțimea de cădere se poate mări. Loviturile rare se continuă până la o adâncime de 1 - 1,5 m.
+- se continuă baterea cu o frecvență de 55 lovituri/min.
+- execuția găurii se face fără adaos de apă. Dacă accidental umiditatea este mai mare decât limita de plasticitate se poate fie înlocui materialul umed cu loess uscat, fie se poate adăuga loess uscat, ciment sau var.
+- se execută corpul coloanei prin turnarea în gaură de porții de pământ și îndesarea lor prin aplicarea numărului prevăzut de lovituri;
+- pământul care se introduce în corpul coloanei poate proveni de la săpăturile de pe amplasament, din cariere sau din orice fel de debleu dacă are caracteristicile cerute;
+- pământul care formează corpul coloanei trebuie să aibă umiditatea optimă de compactare.
+E.
+Controlul calității lucrărilor executate (12)
+Controlul calității lucrărilor de îmbunătățire cu coloane de pământ se realizează pe parcursul execuției și la finalul acesteia.
+(13)
+Pe parcursul execuției trebuie verificat gradul de compactare atins, față de cel impus prin specificațiile tehnice.
+(14)
+Gradul de compactare poate fi verificat prin corelație cu rezultatele unor încercări pe teren (penetrare, de exemplu).
+F.
+Recepția lucrărilor (15)
+Recepția lucrărilor de îmbunătățire cu coloane de pământ se face în conformitate cu reglementările tehnice aplicabile în vigoare.
+5.4.
+Incluziuni rigide A.
+Generalități (1)
+Principiu: transferul parțial al încărcărilor de la terenul slab către terenul mai rezistent din adâncime prin intermediul unei rețele de incluziuni și a unei platforme granulare de transfer dispusă peste capetele incluziunilor, fără conectare la structură (Figura 33). În lipsa platformei de transfer o soluție de radier pe incluziuni rigide poate fi asimilată cu o fundație pe piloți (dacă încărcările sunt preluate exclusiv de piloți - incluziuni) sau cu o fundație mixtă (radier pilotat) dacă se ia în considerare și partea de încărcări preluate de terenul dintre incluziuni. Incluziunile pot avea capiteluri.
+Figura 33. Elementele componente ale unei fundații pe teren îmbunătățit prin incluziuni rigide (ASIRI, 2012*7))
+*7) Recommendations for the design, construction and control of rigid inclusion ground improvements (2012) ASIRI Național Project, Presse des Ponts.
+(2)
+Termenul incluziuni rigide este utilizat de regulă pentru a acoperi atât pe cele rigide, cât și pe cele semi-rigide.
+(3)
+Incluziunile rigide sunt constituite din elemente zvelte, de regulă cilindrice, verticale, continui, dispuse în nodurile unei rețele.
+(4)
+Conceptul de incluziune rigidă presupune că stabilitatea coloanei este asigurată fără confinarea asigurată de terenul din jur (spre deosebire, de exemplu de coloanele din material granular).
+(5)
+Platforma de transfer poate fi armată cu straturi de armături, de regulă din materiale geosintetice, dar pot fi utilizate și armături metalice, care au rolul de a: - asigura transmiterea eforturilor provenite din structură care sunt situate în afara conurilor de transmitere a încărcărilor către incluziuni, ceea ce are o influență asupra grosimii optime a platformei;
+- prelua eforturile laterale (de exemplu, în cazul rambleurilor fundate pe un sistem de incluziuni rigide, acestea sunt date de împingerea rambleului);
+- îmbunătăți transferul de încărcări către incluziuni.
+(6)
+În mod uzual, se acceptă că încărcările orizontale din partea suprastructurii sunt disipate în grosimea platformei de transfer, iar incluziunile preiau doar forțe verticale. Dacă platforma de transfer nu are grosimea sau caracteristicile necesare pentru a disipa aceste forțe orizontale (sau dacă aceasta lipsește), atunci incluziunile vor prelua și eforturi orizontale, nu doar verticale, și trebuie proiectate corespunzător. Într-o astfel de situație, ele capătă un comportament similar piloților și trebuie dimensionate conform normativelor aplicabile lucrărilor de piloți.
+(7)
+Incluziunile pot fi clasificate în incluziuni rigide sau semi-rigide în funcție de valoarea modulului lor de deformație sau de raportul dintre modulul de deformație al incluziunilor și cel al terenului: - incluziunile rigide au moduli de deformație E > 0.5...1.0x10^7 kPa, respectiv un raport E_incl/E_teren > 0.5... 1.0x10^3;
+- incluziunile semi-rigide au moduli de deformație E < 0.5...1.0x10^7 kPa, respectiv un raport E_incl/E_teren < 0.5... 1.0x10^3
+(8)
+Incluziunile pot fi obținute prin diferite tehnici, fie de dislocuire, fie de îndesare, ca de exemplu: - realizate pe loc prin vibrare sau batere;
+- prefabricate introduse prin batere sau vibrare;
+- coloane de pământ malaxat cu liant sau realizate prin injecție cu presiune înaltă.
+(9)
+În general pot fi utilizate toate tehnicile de execuție a piloților sau minipiloților,
+(10)
+Incluziunile pot fi realizate din beton (simplu sau armat), mortar, oțel, lemn etc.
+(11)
+Rezultate vizate: Creșterea caracteristicilor mecanice echivalente ale terenului de fundare, pentru reducerea tasării și creșterea capacității portante.
+(12)
+Domeniu de aplicare: Domeniile de aplicare ale soluțiilor de îmbunătățire a pământurilor prin execuția incluziunilor rigide sunt: - clădiri rezidențiale și comerciale;
+- clădiri industriale, depozite, centre logistice;
+- rezervoare de stocare fluide, precum și bazine și structuri ale stațiilor de epurare a apelor uzate;
+- rambleuri pentru infrastructuri rutiere și feroviare;
+- turbine eoliene, centrale solare, centrale nucleare;
+- alte clădiri sau structuri pentru care se urmăresc creșterea capacității portante a terenului de fundare și reducerea tasărilor fundațiilor și radierelor.
+(13)
+Alegerea unei soluții de îmbunătățire cu incluziuni rigide în locul unei alte soluții de îmbunătățire precum preîncărcare cu drenuri verticale, coloane de material granular, compactare dinamică prin batere sau vibrare se face pe baza condițiilor de teren, a structurii ce urmează a fi construită, tasării admisibile, timpului de execuție etc. (i)
+De exemplu, pământurile coezive nu pot fi îmbunătățite prin compactare dinamică prin batere sau vibrare, cele coezive foarte moi sau organice nu pot fi îmbunătățite prin tehnici de coloane necimentate,
+(ii)
+Adâncimea până la care se dezvoltă pământul ce trebuie îmbunătățit este de asemenea un criteriu important, tehnicile de execuție a incluziunilor rigide permițând atingerea unor adâncimi mai mari decât în alte cazuri.
+(14)
+Din punct de vedere al condițiilor de teren, domeniul de aplicare al tehnicii de îmbunătățire cu incluziuni rigide este cel al pământurilor naturale sau antropice coezive, moi și foarte moi, cu grosimi mari.
+(15)
+Limitări: (i) limitări care decurg din tehnologiile de execuție ale diferitelor tipuri de incluziuni;
+(ii) platforma de transfer necesită în general material granular de calitate;
+(iii) este necesară prevederea unei platforme de execuție care să asigure stabilitatea necesară pentru echipamentele de execuție;
+(iv) dimensionarea acestui sistem de fundare necesită cunoștințe avansate și o bună înțelegere a mecanismelor de funcționare a acestuia;
+(v) în situațiile în care incluziunile sunt supuse unor solicitări laterale semnificative sunt necesare incluziuni din beton armat (costuri sporite);
+(vi) în situațiile în care există un strat deformabil sub cota inferioară a incluziunilor această soluție nu este indicată din cauza tasărilor suplimentare ale acestei zone;
+(vii) soluția nu este potrivită pentru fundațiile izolate datorită spațiului limitat;
+(viii) prezența unor lentile de turbă poate pune în pericol integritatea incluziunilor realizate pe loc.
+B.
+Materiale utilizate (16)
+Materialele utilizate pentru incluziuni trebuie să respecte prevederile din reglementările tehnice aplicabile fiecăruia în parte, acolo unde acestea există (beton, oțel, lemn).
+(17)
+Pentru incluziunile realizate prin malaxare de adâncime se aplică prevederile acestui normativ capitolul 4.3.6.
+(18)
+Pentru incluziunile realizate prin injectare cu presiune înaltă se aplică prevederile acestui normativ capitolul 4.3.5.
+(19)
+În cazul incluziunilor realizate din beton acestea sunt de regulă din beton simplu, existând posibilitatea de a include o armătură pentru cazul necesității preluării de sarcini laterale.
+(20)
+Pentru platforma de transfer se utilizează de regulă material granular compactat pentru a obține o anumită valoare a modulului de deformație. Se poate utiliza și material mai fin stabilizat cu lianți hidraulici (var, var și ciment), caz în care trebuie evitate dozaje prea mari de ciment pentru a nu obține o platformă rigidă care ar și fisura.
+(21)
+Atunci când platforma de transfer este armată se pot utiliza armături geosintetice (geogrile sau geotextile țesute) sau metalice (grile sudate). Armăturile geosintetice trebuie să respecte prevederile standardului SR EN 13251.
+(22)
+Pentru platforma de execuție trebuie utilizate materiale care permit atingerea criteriilor de performanță stabilite fie de reglementări tehnice, fie prin procedurile proprii ale fiecărui antreprenor.
+C.
+Studii și încercări necesare pentru execuție (23)
+Înainte de demararea execuției trebuie confirmate condițiile geotehnice și hidrogeologice din amplasament, iar orice deviere trebuie imediat semnalată.
+(24)
+În funcție de tipul de incluziune pot fi necesare poligoane experimentale și încercări preliminare execuției pentru a confirma posibilitatea de execuție, a obținerii caracteristicilor specificate etc.
+D.
+Execuție (25)
+Înaintea demarării execuției este necesară identificarea tuturor obstacolelor potențiale subterane și supraterane, a construcțiilor învecinate ce trebuie protejate.
+(26)
+Platforma de lucru pentru utilaje se execută la cotele prevăzute în proiect având dimensiunile și structura în funcție de tipul și caracteristicile tehnice ale utilajelor folosite; aceasta trebuie să fie stabilă, orizontală și rezistentă, drenantă, liberă de orice sarcini, fără obstacole de forare subterane și aeriene.
+(27)
+Orizontalitatea platformei influențează nu numai stabilitatea utilajului folosit, dar mai ales calitatea lucrării, prin asigurarea verticalității incluziunii rigide.
+(28)
+Platforma de lucru poate fi integrată în platforma de transfer atunci când capetele incluziunile vor fi sparte la un nivel sub cel al platformei de lucru. În acest caz este necesară o recepție separată a platformei de lucru, care la momentul încorporării în platforma de transfer trebuie să nu fie poluată sau degradată.
+(29)
+Trebuie ținut cont de faptul că platforma de lucru poate fi deteriorată de operațiile care trebuie efectuate după execuția incluziunilor.
+(30)
+De asemenea, trebuie evitate: - circulația și compactarea direct peste capetele incluziunilor; se recomandă circulația pe un strat granular de minimum 25 cm grosime peste capetele incluziunilor; dacă capetele incluziunilor sunt la nivelul superior al platformei, circulația nu va fi permisă până la atingerea rezistenței necesare în corpul incluziunilor (de regulă minim 7 zile);
+Notă: Stratul de 25 cm grosime poate fi material de aport pus în operă peste capetele incluziunilor (dacă capetele acestora sunt la nivelul platformei de lucru) sau, dacă capetele incluziunilor sunt la cel puțin 25 cm sub nivelul platformei de lucru, este necesară doar o recompactare.
+- deteriorarea platformei după realizarea incluziunilor, astfel încât să rămână circulabilă;
+- pozării conductelor în dreptul incluziunilor rigide;
+- oricărei excavații sau debleu sub nivelul final al capetelor incluziunilor nearmate (ca de exemplu pentru realizarea în imediata vecinătate a unei alte excavații pentru altă construcție sau pentru pozarea unor rețele). Dacă nu pot fi complet evitate, se vor lua măsuri specifice pentru a păstra caracteristicile mecanice ale incluziunilor. Dacă excavația este realizată la perete vertical se vor lua măsuri corespunzătoare de sprijinire, iar dacă excavația este în taluz, acesta nu poate intersecta incluziunile.
+(31)
+Trasarea poziției centrului incluziunii rigide: se execută de către echipa topografică, în conformitate cu specificațiile proiectului;
+(32)
+Incluziunile rigide sau semi-rigide pot fi executate cu diferite tehnologii pentru care se aplică standardele de execuție adecvate în vigoare: (i)
+SR EN 1536+A1 - Execuția lucrărilor geotehnice speciale. Piloți forați
+(ii)
+SR EN 12699 - Execuția lucrărilor geotehnice speciale. Piloți de îndesare
+(iii)
+SR EN 14199 - Execuția lucrărilor geotehnice speciale. Micropiloți
+(iv)
+SR EN 14679 - Execuția lucrărilor geotehnice speciale. Stabilizarea în adâncime a pământurilor prin malaxare
+(v)
+SR EN 12716 - Execuția lucrărilor geotehnice speciale. Injectarea cu presiune înaltă a terenurilor (jet grouting)
+(33)
+Metodele de execuție ale incluziunilor rigide și semi-rigide pot fi grupate astfel: - incluziuni forate cu dislocuirea pământului: forate în uscat, forate cu tubaj sau sub protecție de noroi bentonitic, cu șnec continuu, micropiloți;
+- incluziuni forate cu îndesarea pământului: prin înșurubare;
+- incluziuni realizate pe loc prin vibrare sau batere, inclusiv coloane vibro-compactate din beton;
+- incluziuni prefabricate introduse prin batere sau vibrare, din beton sau metal;
+- incluziuni realizate prin amestecul pământului cu un liant (coloane de pământ malaxat sau injecții cu presiune înaltă).
+(34)
+Execuția incluziunilor se face în baza unui plan de execuție cu rețeaua de incluziuni, adâncimea lor, tipul lor (armate, nearmate etc.), platforma de transfer, nivelul capetelor incluziunilor etc.
+(35)
+În timpul execuției incluziunilor sau după aceasta se efectuează operațiunea de aducere la nivel a capetelor incluziunilor prin spargere, tăiere, oprirea turnării betonului sau prin excavare. De preferință, se aliniază capetele incluziunilor la nivelul platformei de lucru.
+(36)
+Nu este permisă aducerea la nivel a incluziunilor prin oprirea betonării sau excavare sub nivelul apei subterane.
+(37)
+Atunci când capetele incluziunilor trebuie aduse la un nivel mai jos decât platforma de lucru pentru a integra platforma de lucru în platforma de transfer nu este recomandabil ca diferența de nivel să fie mai mare de 30 cm (sub nivelul platformei de lucru) deoarece nu s-ar mai putea realiza o compactare eficientă a platformei de transfer deasupra acestui nivel.
+(38)
+Spargerea capetelor incluziunilor se face pe minimum 10 cm pentru a verifica și calitatea materialului din corpul incluziunii.
+(39)
+Toleranțele pentru aceste operațiuni trebuie definite în proiectul tehnic și trebuie respectate în timpul execuției.
+(40)
+În cazul utilizării de capiteluri diametrul lor este limitat în general la de 3 - 6 ori diametrul incluziunii.
+(41)
+Capitelurile sunt fie turnate pe loc, fie prefabricate, armate sau nu. Atunci când sunt turnate pe loc ele trebuie executate odată cu incluziunea.
+(42)
+Platforma de transfer poate fi executată după execuția incluziunilor (Figura 34) prin terasare până la nivelul capetelor incluziunilor, punere în operă și compactare a pernei, apoi realizarea fundației.
+Figura 34. Platformă de transfer executată după instalarea incluziunilor (ASIRI, 2012)
+(43)
+Atunci când este nevoie de a excava mai jos de nivelul capetelor incluziunilor (dacă, de exemplu, calitatea terenului nu e suficientă pentru a putea asigura o compactare bună a platformei de transfer), este necesară armarea incluziunilor pe zona superioară pe o înălțime de minimum 4 ori diametrul incluziunii sau a înălțimii de excavare (Figura 35).
+Figura 35. Armarea părții superioare a incluziunii când este necesară o terasare sub nivelul capetelor incluziunilor (ASIRI, 2012)
+(44)
+Este posibilă realizarea platformei de transfer și înainte de execuția incluziunilor prin realizarea excavației, execuția platformei de transfer, execuția incluziunilor și apoi execuția platformei de transfer deasupra capetelor incluziunilor (Figura 36).
+Figura 36. Execuția platformei de transfer înaintea incluziunilor (ASIRI, 2012)
+(45)
+Dacă platforma de transfer este armată pentru execuția pernei armate se va respecta planul de punere în operă din proiect care include poziția armăturilor, distanța dintre rândurile de armături, zona de suprapunere a armăturilor etc.
+(46)
+Punerea în operă a armăturilor se va face în conformitate cu prevederile standardului SR EN 14475.
+(47)
+Trebuie evitat contactul direct dintre armăturile geosintetice și capetele incluziunilor. Pentru a evita deteriorarea armăturii se poate utiliza un geosintetic de protecție sau un strat de câțiva centimetri de nisip.
+(48)
+Pentru a evita alunecarea/smulgerea armăturilor, acestea trebuie ancorate în zona perimetrală exterioară a incluziunilor (fie prin ancorare prin simplă acoperire cu pământ pe o anumită distanță, fie cu tranșee și materialul întors, fie doar cu materialul întors).
+E.
+Controlul calității lucrărilor executate (49)
+Controlul calității lucrărilor de îmbunătățire a terenului prin incluziuni rigide se realizează pe parcursul execuției și la finalizarea acesteia.
+(50)
+Pentru incluziunile în sine controlul calității lucrărilor executate se realizează în conformitate cu prevederile standardelor de execuție aplicabile în vigoare.
+(51)
+Pentru sistemul de îmbunătățire cu incluziuni rigide se prevăd în general încercări de control care constau în: - încărcări de probă statice pe incluziuni izolate, fie încărcate până la rupere, fie până la depășirea sarcinii proiectate cu măsurarea deformației;
+- încărcări de probă statice pe un grup de incluziuni;
+- verificarea integrității și continuității incluziunilor;
+- verificarea locațiilor incluziunilor;
+- verificarea platformei de transfer;
+- verificarea armăturilor din platforma de transfer.
+(52)
+Încărcările de probă realizate pe incluziuni încărcate până la rupere (i)
+Încărcările de probă realizate pe incluziuni încărcate până la rupere trebuie executate pe incluziuni executate în afara celor utilizate în lucrare și sunt realizate pentru a valida parametrii de dimensionare din proiect care se referă la capacitatea portantă ultimă și/sau pentru a optimiza proiectul în conformitate cu caracteristicile reale ale terenului din amplasament și/sau cu tehnica de execuție real aplicată.
+(ii)
+Numărul de încărcări de probă este stabilit prin proiect în funcție de specificul amplasamentului și al proiectului.
+Notă: În cazul încărcărilor de probă pe incluziuni izolate încărcate până la rupere nu există frecare negativă mobilizată, de aceea este necesară instrumentarea incluziunii testate și/sau realizarea de incluziuni de diferite lungimi pentru a putea determina curba de mobilizare a frecării.
+(53)
+Încărcările de probă pe incluziuni din lucrare (i)
+Încărcările de probă pe incluziuni din lucrare, încărcate până la o valoare de calcul a încărcării corespunzătoare la SLS sunt realizate pentru a determina tasarea și eventualul fluaj al incluziunii sub o încărcare reprezentativă pentru condițiile de serviciu (SLS).
+(ii)
+Încărcarea maximă de calcul este cea calculată la nivelul planului neutru al incluziunii.
+(iii)
+Dacă incluziunile servesc pentru reducerea tasării la SLS, încărcarea ce trebuie aplicată în încercare este cea maximă majorată cu frecarea negativă calculată.
+Notă: În cazul incluziunilor rigide care sunt decuplate de fundație, spre deosebire de piloți care sunt conectați la fundație, mobilizarea frecării negative la partea superioară a incluziunii face ca efortul maxim în incluziune să apară la nivelul planului neutral, nu la nivelul capului incluziunii așa cum se întâmplă la piloții care sunt conectați la fundație. Încărcările de probă realizate pentru controlul calității execuției trebuie să permită verificarea reacțiunii care se mobilizează prin combinarea frecării pozitive sub planul neutral și reacțiunea pe baza incluziunii, pentru a contracara frecarea negativă mobilizată deasupra planului neutral. Acest mod de comportare este dificil de surprins în încărcările de probă pe incluziuni izolate. Pentru a surmonta acest dezavantaj se aplică pe capul incluziunii o încărcare mai mare decât cea maximă prin adăugarea la aceasta din urmă a frecării negative (presupusă a fi egală cu frecarea pozitivă).
+(iv)
+Acest tip de încărcare de probă este obligatoriu și trebuie realizat pe un număr suficient și reprezentativ de incluziuni din lucrare.
+(54)
+Încărcări de probă statice pe un grup de incluziuni (i)
+Pentru a putea recrea condițiile de comportare reală a incluziunilor se realizează încărcări statice de probă pe grupuri de incluziuni.
+(ii)
+Astfel de încercări nu sunt obligatorii, dar sunt recomandate pentru lucrări complexe în condiții speciale de teren.
+(iii)
+În general grupul de incluziuni de testare trebuie să format din 9 sau 16 incluziuni pentru a putea obține în zona centrală a rețelei de incluziuni condiții apropiate de cele așteptate sub construcția reală.
+Figura 37. Moduri posibile de încărcare a incluziunilor izolate sau grupurilor de incluziuni (Briancon et al., 2018)
+(55)
+Verificarea integrității și continuității incluziunilor (i)
+Verificarea integrității și continuității incluziunilor executate este obligatorie, prin metode nedistructive sau distructive
+(ii)
+Verificarea vizează integritatea corpului incluziunii, precum și diametrul acesteia.
+(iii)
+Variația diametrului sau circumferinței trebuie luată în considerare dacă este de peste cca. 30%.
+(iv)
+Verificarea vizează și calitatea materialului incluziunii și se realizează în conformitate cu prevederile specifice ale reglementărilor tehnice și standardelor de execuție respective aplicabile.
+(56)
+Verificări ale locațiilor incluziunilor (i)
+În urma execuției incluziunilor se înregistrează poziția fiecăreia așa cum a fost executată, precum și devierile de la proiect.
+(ii)
+Dacă devierile de la proiect sunt majore trebuie verificată structura din punct de vedere al comportamentului.
+(57)
+Verificarea calității platformei de transfer (i)
+Se verifică grosimea totală a platformei de transfer, precum și grosimea acesteia deasupra capetelor incluziunilor.
+(ii)
+Frecvența măsurătorilor de verificare este cea definită în caietul de sarcini.
+(iii)
+În cazul incluziunilor realizate prin îndesare în pământuri argiloase saturate și cu distanțe mici între incluziuni se recomandă și verificarea ridicării eventuale a nivelului platformei de lucru.
+(iv)
+Controlul platformei de transfer (calitatea materialului utilizat și controlul compactării) se face pe baza prevederilor pentru lucrări din pământ cuprinse în standardul SR EN 16907-5:2019.
+(58)
+Verificarea armării platformei de transfer se realizează în conformitate cu prevederile standardului SR EN 14475.
+D.
+Recepția lucrărilor (59)
+Recepția lucrărilor de îmbunătățire cu coloane de pământ se face în conformitate cu reglementările tehnice aplicabile în vigoare.
+5.5.
+Injecții și injecții cu presiune înaltă (1)
+Prezentul subcapitol se aplică pentru injectarea terenurilor și injectarea cu presiune înaltă a terenurilor (jet-grouting) în conformitate cu prescripțiile standardului SR EN 12715 și, respectiv, a standardului SR EN 12716. A.
+Generalități (2)
+Principiu: (i)
+În domeniul construcțiilor injectarea terenului de fundare face referire la introducerea unor fluide în teren cu ajutorul presiunii, capabile să modifice proprietățile fizico-mecanice ale materialelor din care acesta este alcătuit.
+(ii)
+Injectarea se poate face: - fără deplasarea terenului (injecții de impregnare), care constă în umplerea golurilor dintre particulele de pământ sau discontinuităților existente cu un fluid, fără rearanjarea particulelor de pământ, cu sau fără presarea și îndesarea pământului din jur. Acestea pot fi: ● injecții de penetrare () injecții de îmbibare: are drept scop umplerea porilor existenți între granulele pământului (porozitate efectivă), fără a le deranja. Această metodă are drept scop reducerea permeabilității, creșterea densității și îmbunătățirea proprietăților mecanice. Metoda se execută de regulă la presiuni și debite reduse, controlate, pentru a evita deplasarea terenului; () injectarea fisurilor și injectarea de contact este utilizată cu scopul de a introduce fluidul de injectare în fisurile deschise sau fracturile existente în rocă, fără a crea fisuri noi sau a le deschide mai mult pe cele existente, cu rolul de a reduce permeabilitatea și/ sau a crește rezistența terenului; ● injecții de umplere: pentru a umple goluri mari existente în teren, având origine naturală sau antropică și presupune, de regulă, injectarea unor volume mari de material la presiuni scăzute sau chiar gravitațional. De multe ori această metodă de injectare este asociată cu o metodă de injectare sub-presiune pentru a umple golurile rămase necolmatate. În raport cu volumele mari de material injectat, de regulă, pentru acesta se alege o rețetă din care să rezulte proprietăți asemănătoare cu ale terenului adiacent.
+- cu deplasarea terenului, care presupune pătrunderea substanței injectate în fisuri formate datorate presiunii de injectare. Acestea pot fi: ● fracturare hidraulică (clacare): procedeul se utilizează de regulă pentru a stabiliza pământurile sau rocile, de a le etanșa sau pentru a consolida și ridica anumite structuri. Pentru a obține rezultate optime procedeul este aplicat în mai multe etape, la intervale diferite de timp. ● injectarea solidă: introducerea în teren a unui fluid relativ vâscos, pentru a provoca deplasarea și deformarea acestuia. Fluidul este împins prin presiune prin tuburile de injectare. Consistența fluidului este pregătită astfel încât fluidul rămâne ca o masă omogenă pentru ca nici penetrarea și nici fracturarea hidraulică să nu se producă asupra terenului. În cele mai multe cazuri, injectarea solidă este folosită pentru a compacta și densifica terenurile afânate, precum și pentru a ridica sau susține structuri care s-au tasat. ● injectarea de compensare este utilizată atunci când obiectivul injectării este de a compensa pierderile de volum ale terenului din cauza rezultatului unor lucrări inginerești (excavații adânci, tuneluri) sau consolidarea unui teren compresibil, astfel încât pierderea de volum să fie compensată sau redusă. Aceasta se execută în două etape, injectare inițială pentru pregătirea terenului (consolidare inițială) și o injectare secundară care generează deplasarea terenului. ● injectarea cu presiune înaltă a terenurilor (jet grouting) constă în a dezagrega un pământ sau o rocă friabilă prin intermediul unui jet de fluid și a le amesteca, sau a le înlocui parțial cu un agent de cimentare. Prin acest procedeu rezultă coloane (integrale sau parțiale), panouri, voaluri, radiere sau bolți din pământ - ciment. Tehnologia de injectare cu presiune înaltă a terenurilor se împarte în 3 metode, după cum urmează: () jet simplu în care dezagregarea și cimentarea pământului se realizează printr-un jet de înaltă presiune constituit dintr-un singur fluid, de regulă suspensie de ciment; () jet dublu în care dezagregarea și cimentarea pământului se realizează printr-un jet de înaltă presiune (constituit de regulă din suspensie de ciment), dublat (înconjurat la exterior) de un jet de aer; () jet triplu în care dezagregarea și pământului se realizează printr-un jet de apă de înaltă presiune, dublat de un jet de aer, iar cimentarea se face simultan printr-un jet separat constituit de regulă din suspensie de ciment;
+(3)
+Rezultate vizate: (i)
+Principalele obiective ale injectării fără deplasarea terenului sunt: - modificarea caracteristicilor hidraulice/hidrogeologice ale terenului;
+- modificarea proprietăților fizico-mecanice ale terenului;
+- umplerea cavităților naturale, a lucrărilor miniere, a golurilor adiacente structurilor;
+- inducerea deplasărilor pentru a compensa pierderile de teren sau pentru a stabiliza și ridica fundațiile, plăcile și pardoselile.
+(ii)
+Principalele obiective ale injectării cu presiune înaltă sunt: - execuția de fundații noi;
+- subzidirea fundațiilor existente;
+- execuția de ecrane cu permeabilitate redusă;
+- execuția structurilor de sprijin;
+- consolidarea unui masiv de pământ.
+(iii)
+Principalele obiective ale injecțiilor solide sunt: - creșterea gradului de îndesare;
+- îmbunătățirea caracteristicilor mecanice ale terenului prin compactare și ranforsare prin prezența unor elemente de tip incluziuni semi-rigide sau rigide (în funcție de caracteristicile mortarului utilizat) rezultate prin această tehnică;
+- crearea unor elemente de fundare în cazul subzidirilor.
+(iv)
+Principalele obiective ale injecțiilor de compensare sunt reducerea sau inversarea pierderii de volum datorată execuției unor lucrări precum excavații adânci sau tuneluri sau datorată consolidării terenurilor compresibile.
+(4)
+Domeniu de aplicare: Principalele domenii de aplicare sunt îmbunătățirea etanșeității și consolidarea terenurilor: - lucrări de impermeabilizare: voaluri de etanșare la baraje, radiere injectate, tuneluri;
+- lucrări de consolidare: pentru traversarea de zone cu terenuri dificile, reabilitarea zidăriilor, a fundațiilor și altor lucrări de construcție, subzidiri, ridicarea construcțiilor, îmbunătățirea capacității portante a terenurilor de fundare a fundațiilor de suprafață, tratamentul masivelor de teren deasupra bolților lucrărilor subterane, injecții în fața frontului în timpul execuției tunelurilor, reducerea potențialului de lichefiere etc.
+(5)
+Limitări: (i)
+Îmbunătățirea prin injecții este condiționată de dimensiunea porilor terenului și de sarcina geologică existentă.
+(ii)
+Fiecărei fracțiuni granulometrice îi corespunde unul sau mai multe materiale sau tehnici care sunt adaptate pentru injecție în condiții optime din punct de vedere tehnic și economic. Cu titlu informativ, în Figura 38 sunt prezentate variantele orientative de alegere a metodelor de injectare în funcție de granulozitatea și permeabilitatea pământurilor.
+Figura 38. Clasificarea generală a metodelor de injectare și aplicabilitatea lor în funcție de granulozitatea și permeabilitatea pământurilor (FHWA Geotechnical Engineering Circular (GEC) 013 Ground Modification Methods Reference Manual V. 1 and 2 (2017))
+(iii)
+Produsele chimice și organice au aplicabilitate mai redusă datorită restricțiilor de mediu.
+(iv)
+Pentru tehnologia de injectare cu presiune înaltă diametrul rezultat al coloanelor formate variază în funcție de tehnologia de execuție (jet simplu, dublu sau triplu) și de caracteristicile terenului.
+(v)
+Limitele tehnicii de injecție cu presiune înaltă sunt date de gestiunea detritusului rezultat, necesitatea de a avea spațiu pentru realizarea de tranșei sau rezervoare de recuperare și de preparare a fluidului de injecție, precum și de riscul de infiltrație în zonele vecine.
+(vi)
+Injecțiile solide se execută în terenuri granulare deasupra sau sub nivelul apei subterane, dar pot fi aplicate și pentru compactarea pământurilor colapsibile, precum loessul, în argile și prafuri moi nesaturate.
+(vii)
+Pentru a putea aplica injecțiile solide este necesar ca terenul să nu fie foarte compact (valori ale rezistenței pe con în încercarea CPT de maximum 8 MPa pentru un nisip și de maximum 2 MPa pentru un praf).
+(viii)
+În cazul injecțiilor solide, dacă presiunea de injecție este mare este necesară o coloană minimă de pământ deasupra zonei de injecție (de regulă 4 - 5 m) pentru a se opune presiunii de injecție. În cazul terenurilor foarte afânate poate fi necesară tratarea prealabilă a zonei de pământ de deasupra prin alte metode (de exemplu, prin compactare dinamică).
+B.
+Materiale utilizate (6)
+Tipul și compoziția fluidului de injectare trebuie să fie alese în funcție de stratificația terenului și de specificul lucrărilor.
+(7)
+Fluidele de injecție pot fi grupate în două categorii: - fluide de injecție pe bază de lianți hidraulici în suspensie și
+- fluide de injecție pe bază de substanțe chimice în soluție.
+(8)
+Pentru injecțiile solide de umplere a golurilor de mari dimensiuni pot fi utilizate și mortare de ciment.
+(9)
+Aplicabilitatea diferitelor materiale de injecție pentru diferite terenuri și tipuri de injecții este indicată în standardul SR EN 12715.
+(10)
+Parametrii caracteristici ai fiecărui tip de material sunt indicați în standardul SR EN 12715.
+(11)
+Fluidele de injecție pe bază de lianți hidraulici în suspensie: (i) conțin unul sau mai multe produse solide dispersate în apă (ciment, argile, aditivi etc.).
+(ii) se caracterizează prin raportul A/C (apă/ciment) sau prin raportul dintre masa uscată și masa apei.
+(iii) domeniul de aplicabilitate este ilustrat în Figura 39.
+Figura 39. Domeniul de injectabilitate al fluidelor pe bază de lianți hidraulici în suspensie (Briancon et al., 2018)
+(iv)
+Pot fi: - suspensii bentonită - ciment,
+- suspensii de ciment sau lianți hidraulici ultrafini și aditivi.
+(12)
+Fluidele de injecție pe bază de substanțe chimice în soluție pot fi: - geluri și suspensii de siliciu, care conțin reactivi pentru gelificare minerali sau organici. Pentru caracterizarea acestora se utilizează raportul dintre volumul de apă și cel de silicat și raportul dintre masa reactivului și volumul de silicat. Cele două rapoarte arată durabilitatea și rezistența;
+- fluide pe bază de rășini sau alte substanțe chimice: rășini fenolice, aminoplaste sau furanice sau rășini poliuretanice (geluri, spume, solide, sisteme reactive la apă sau sisteme bi-component).
+(13)
+Pentru injecția cu presiune înaltă de regulă se utilizează fluide (suspensii) de apă și ciment, cu raportul apă/ciment între 0,5 și 1,5. Se pot adaugă aditivi reducători de apă, stabilizatori, plastifianți, adaosuri de etanșeizare sau împotriva spălării. Alte materiale, precum bentonita, filerul, cenușa de termocentrală pot fi adăugate amestecului de injectare. Când în amestec se utilizează bentonită se recomandă ca suspensia de apă și bentonită să fie preparată înainte de a se adăuga cimentul.
+Valori tipice ale parametrilor de injecție sunt indicate în Tabelul 2.
+Tabelul 2. Valori tipice pentru parametrii de injecție (SR EN 12716) sistem
+Parametru simbol unitate jet simplu jet dublu jet triplu
+Treaptă de ridicare Δs mm 40-50 40-80 40-100
+Viteza medie de ridicare vr mm/s 4-10 1-8 0.5-5
+Viteză de rotație ω rpm 5-40 3-30 1-40 diametrul duzei d mm 2-8 2-8 2-8 numărul de duze
+M
+- 1-2 1-2 1-2
+Presiunea de injectie pg
+MPa 30-55 20-40 2-10
+Presiunea aerului pa
+MPa
+- 0.5-2 0.5-2
+Presiunea apei pw
+MPa
+-
+- 20-55 debitul de injectie
+Qg
+L/s 2-10 2-10 2-5 debitul de aer
+Qa
+L/s
+- 200-300 200-300 debitul de apa
+Qw
+L/s
+-
+- 0.5-2.5 raportul masic apaciment
+A/C
+- 0.6-1.25 0.6-1.25 0.4-1
+(14)
+În cazul injecțiilor solide se utilizează mortare a căror compoziție variază în funcție de scopul acestora, dar care trebuie să: - aibă o consistență solidă cu o lucrabilitate măsurată cu conul Abrams < 10;
+- să poată fi pompat;
+- să nu producă clacarea (fracturarea hidraulică) a terenului;
+- să nu blocheze prea devreme expansiunea coloanei formate;
+- să aibă o filtrare redusă.
+(15)
+Mortarele pentru injecții solide sunt constituite din nisip (0 - 2 mm sau 0 - 4 mm), de preferință rulat, la care se adaugă, după necesități, parte fină, ciment sau filere de calcar, cenuși zburătoare etc., posibil o doză redusă de bentonită (1 - 2 kg/mc de mortar) pentru a îmbunătăți capacitatea de a fi pompat și/sau alți aditivi (întârzietori de priză, plastifianți etc.).
+(16)
+Pentru toate materialele de injecție trebuie analizată durabilitatea lor în timp.
+C.
+Studii și încercări necesare pentru execuție (17)
+Pentru lucrările de îmbunătățire a terenului prin injecții sunt necesare poligoane experimentale care să permită testarea metodelor de execuție intenționate și verificarea obținerii parametrilor stabiliți prin proiect.
+D.
+Execuție (18)
+Execuția lucrărilor de injecții se face în conformitate cu prevederile standardului SR EN 12715 și a standardului SR EN 12716.
+E.
+Controlul calității execuției (19)
+Controlul calității execuției lucrărilor de injecții se realizează în timpul execuției și la finalizarea acesteia, în conformitate cu prevederile standardelor corespunzătoare de execuție SR EN 12715 și SR EN 12716.
+(20)
+Este necesară urmărirea continuă și automată a parametrilor de injecție în timpul execuției și interpretarea acestora în timp real pentru a identifica devierile sau anomaliile.
+F.
+Recepția lucrărilor (21)
+Recepția lucrărilor de îmbunătățire prin injecții se face în conformitate cu reglementările tehnice aplicabile în vigoare.
+5.6.
+Malaxare de adâncime (1)
+Acest paragraf tratează metodele de malaxare în adâncime, cele de suprafață fiind tratate în Partea a II-a a acestei reglementări tehnice. A.
+Generalități (2)
+Principiu: Malaxarea terenului din loc în adâncime (adâncime minimă 3 m) cu lianți hidraulici pentru a forma un nou material. Această tehnică permite realizarea de incluziuni semirigide, de ecrane cu permeabilitate redusă, de ziduri sau pereți de sprijin sau de coloane, precum și stabilizarea unei mase de pământ. (i)
+Încorporarea lianților se poate face pe cale uscată (lianți sub formă de pulbere) sau pe cale umedă (lianți sub formă de fluid).
+(ii)
+Malaxarea poate fi mecanică sau hidraulică sau mecanică și hidraulică.
+(iii)
+Injecția de liant se poate face la extremitatea utilajului de malaxare sau de-a lungul acestuia.
+(iv)
+Utilajul de malaxare poate avea pale rotative pe un singur ax vertical sau pe mai multe sau pe un ax orizontal, poate malaxa într-o tranșee sau poate utiliza cuțite rotative. Utilajele cu axe rotative verticale permit crearea de coloane de teren malaxat cu lianți. Utilajele care sunt asistate de un jet hidraulic permit mărirea diametrului coloanei rezultate. Utilajele cu ax orizontal permit realizarea de panouri. Pentru realizarea de zone lineare de îmbunătățire sunt aplicabile tehnologiile în tranșee. În Anexa A a standardului SR EN 14679 se poate consulta o clasificare generală a echipamentelor utilizate pentru malaxarea în adâncime.
+(v)
+Malaxarea pe cale uscată se realizează prin utilizarea unui echipament de malaxare atașat unei tije, care este introdus în teren pentru a forfeca pământul și a-l pregăti pentru malaxare. Când este atinsă adâncimea dorită, tija se retrage și, în același timp, liantul sub formă granulară sau pulverulentă este introdus pe cale pneumatică la baza utilajului de malaxare. Palele utilajului se rotesc în plan orizontal și amestecă liantul cu pământul (Figura 40).
+Figura 40. Etapele de execuție a coloanelor malaxate în adâncime pe cale uscată (Briancon et al., 2018)
+(vi)
+O variantă a malaxării pe cale uscată este stabilizarea în masă, care presupune malaxarea pământului din loc (argilă, turbă, mâl, sedimente dragate sau pământ contaminat) cu liant hidraulic în stare pulverulentă cu ajutorul unui echipament de malaxare atașat unui excavator (Figura 41). Se obține o masă de pământ malaxat pe o suprafață mare.
+Figura 41. Tehnica de stabilizare în masă pe cale uscată (Briancon et al., 2018)
+(vii)
+Malaxarea pe cale umedă se realizează urmând aceleași etape ca la (ii), dar după atingerea adâncimii dorite se introduce liantul sub formă de suspensie (Figura 42). Suspensia este preparată pe amplasament și este pompată până la utilajul de malaxare, care poate avea una sau mai multe duze de injecție. În funcție de tipul de pământ și de suspensia utilizată, se creează un amestec asemănător mortarului, care se întărește în timpul procesului de hidratare. În Europa, execuția coloanelor prin metoda umedă de malaxare în adâncime se realizează cu ajutorul burghiului/burghiurilor elicoidale (continue sau din secțiuni, simple sau multiple), sau cu ajutorul unor lame/cuțite.
+Figura 42. Etapele de execuție a coloanelor malaxate în adâncime pe cale umedă (Briancon et al., 2018)
+(viii)
+Există și alte tehnici care utilizează proceduri asemănătoare malaxării în adâncime. Aceste metode, denumite metode hibride, sunt într-o continuă dezvoltare pentru a aborda condiții geotehnice complexe. Ele combină malaxarea hidraulică cu jet și cea mecanică (a se vedea Anexa A a standardului SR EN 14679).
+(ix)
+În urma aplicării malaxării în adâncime rezultă geometrii variate: coloane dispuse tangent într-un șir, coloane dispuse în nodurile unei rețele triunghiulare sau pătrate, coloane secante care formează diferite forme geometrice, panouri, barete, rețele tridimensionale, forme inelare etc. (a se vedea Anexa A a standardului SR EN 14679).
+(3)
+Rezultate vizate: sporirea caracteristicilor mecanice și modificarea permeabilității terenului.
+(4)
+Domeniu de aplicare: (i)
+Îmbunătățirea prin malaxarea de adâncime poate fi utilizată pentru o varietate de aplicații: - fundații pentru rambleuri și diguri, clădiri, rezervoare, culei de pod etc.;
+- ziduri de sprijin;
+- ecrane de etanșare pentru baraje și diguri;
+- zonele de intrare și ieșire ale tunelurilor;
+- radiere injectate din coloane sau barete secante;
+- subzidiri;
+- susținerea excavațiilor;
+- stabilizarea pantelor;
+- reducerea potențialului de lichefiere;
+- tratarea in situ a terenurilor contaminate;
+- izolarea terenurilor contaminate;
+- tratarea deșeurilor;
+- îmbunătățirea terenurilor de fundare ale structurilor marine, off-shore.
+(ii)
+Structurile rezultate în urma aplicării malaxării în adâncime pot avea rol temporar sau permanent. În Figura 43 este prezentată o schemă a domeniilor de aplicare cu rol temporar sau permanent.
+Figura 43. Domenii de aplicare a tehnologiei de malaxare în adâncime (adaptare după SR EN 14679)
+(iii)
+Tehnica de malaxare în adâncime se aplică tuturor tipurilor de pământuri, granulare, coezive, organice, poluate.
+(iv)
+Tehnica de malaxare în adâncime nu produce detritus sau cantitățile produse pe cale umedă sunt relativ reduse (cresc cu impermeabilitatea terenului), de aceea poate fi adaptată acolo unde este necesară limitarea impactului asupra mediului.
+(v)
+Tehnica de malaxare în adâncime nu produce vibrații, de aceea este adaptată și mediului urban construit.
+(5)
+Limite: (i) pământul care urmează a fi îmbunătățit nu trebuie să fie foarte compact sau îndesat și nici să aibă elemente de dimensiunea blocurilor;
+(ii) tehnica este dificil de aplicat dacă stratul de pământ de îmbunătățit este afânat sau moale și este dispus între straturi bune care nu necesită îmbunătățire;
+(iii) pentru execuția acestui procedeu este necesară o platformă de lucru cu portanță suficientă pentru a suporta utilajele;
+(iv) pentru pământuri impermeabile tehnica malaxării pe cale umedă produce cantități mai importante de detritus, deși mai mici ca pentru alte tehnici de îmbunătățire;
+(v) procedeul nu permite execuția în contact cu o structură existentă;
+(vi) materialul rezultat după malaxare nu este foarte omogen, prezentând noduli de material nemalaxat, al căror procent depinde nu doar de tehnica de malaxare, ci și de tipul de pământ (procentul este mult mai mare în argile decât în prafuri sau nisipuri, pentru care acesta e cel mai scăzut);
+(vii) adâncimea maximă depinde mult de procedeu și de utilaj: - în cazul malaxării în masă adâncimea maximă este de cca. 8 m;
+- pentru coloanele malaxate în adâncime adâncimea maximă este de 40 m;
+- tehnicile de malaxare în tranșee pot ajunge la adâncimi maxime de 80 m.
+(viii)
+Limitele diferitelor tehnici, procedee și utilaje sunt prezentate în Anexa A a standardului SR EN 14679.
+B.
+Materiale utilizate (6)
+Malaxarea în adâncime presupune adăugarea mecanică a unui liant în teren și, în cazul în care este necesar, a unuia sau mai multora dintre următoarele componente: - aditivi - materiale care produc reacții chimice, precum: var, ciment, gips, cenușă de furnal etc.;
+- apă;
+- filer - care nu produc reacții chimice, precum: nisip, praf de calcar, etc.;
+- armătură structurală - se pot introduce bare de otel, carcase metalice sau profile metalice în coloanele sau elementele realizate proaspăt, pe loc, prin vibrare.
+(7)
+Lianții hidraulici utilizați sunt: var, ciment, zgură de furnal, cenuși zburătoare, lianți puzzolanici, gips etc.
+(8)
+Tipul de liant utilizat trebuie determinat în funcție de condițiile din amplasament, de tipul de teren, de aplicație.
+(9)
+Lianții utilizați trebuie să prezinte caracteristici suficiente de rezistență față de agresiunea chimică din zona de execuție.
+(10)
+Toate materialele utilizate pentru malaxarea în adâncime trebuie să respecte prevederile standardului SR EN 14679, ale standardelor de material corespunzătoare, precum și specificațiile din proiect. De asemenea, trebuie să respecte reglementările tehnice în materie de protecția mediului aplicabile.
+(11)
+Malaxarea pe cale umedă: (i) cele mai frecvente suspensii de lianți sunt amestecuri de ciment Portland și apă;
+(ii) bentonita poate fi utilizată în suspensii în cantități de sub 10% bentonită (din masa totală de liant adăugat) pentru obținerea unor suspensii stabile și reducerea permeabilității pământului îmbunătățit;
+(iii) raportul apă/lianți pentru suspensiile de ciment Portland variază între 0,5 și 2,5, cele mai frecvente rapoarte fiind între 0,8 și 1,8;
+(iv) suspensiile concentrate (raport apă/liant scăzut) sunt utilizate în terenuri argiloase cu consistență redusă (cu umiditate naturală ridicată);
+(v) suspensiile diluate (raport apă/liant mare) sunt utilizate în pământuri necoezive amplasate deasupra nivelului freatic și în pământuri argiloase tari;
+(vi) rezistențele pământurilor îmbunătățite sunt mai mari atunci când se utilizează suspensii cu raport apă/liant mai redus;
+(vii) alegerea amestecului trebuie să țină cont de tipul pământului și de umiditatea naturală din amplasament;
+(viii) cantitatea de apă și suspensie se stabilește astfel încât să fie asigurată condiția de hidratare a liantului, cât și necesarul de reducere/creștere a umidității terenului din amplasament;
+(ix)
+În Tabelul 3 sunt prezentați, cu caracter orientativ, lianții utilizați pentru malaxarea pe cale umedă:
+Tabelul 3. Lianți utilizați pentru metoda de malaxare pe cale umedă (Briancon et al., 2018)
+Tip de pământ
+Tip de liant
+Pietriș curat
+Ciment
+Ciment + zgură
+Pietriș cu praf sau argilă
+Ciment
+Ciment + zgură
+Nisip curat
+Ciment
+Ciment + zgură
+Nisip prăfos sau argilos
+Ciment
+Ciment + zgură
+Praf neorganic
+Ciment
+Ciment + zgură
+Ciment + cenușă
+Argilă neorganică
+Ciment
+Ciment + zgură
+Ciment + cenușă
+Pământ fin moderat organic
+Ciment + zgură
+Pământ foarte organic
+Ciment + zgură
+Turbă
+Ciment + zgură
+Cretă moale sau foarte alterată
+Ciment + zgură
+Ciment + cenușă
+(12)
+Malaxare pe cale uscată: (i) pentru malaxarea în uscat se folosește în general ciment și var, sau combinații ale acestora;
+(ii) adăugarea lianților în stare uscată (pulbere) creează amestecuri pământ-ciment cu un raport apă/ciment redus, asigurând astfel cea mai mare rezistență și cea mai redusă permeabilitate pentru amestecul rezultat.
+(iii)
+În Tabelul 4 sunt prezentați, cu caracter orientativ, lianții utilizați pentru malaxarea pe cale uscată:
+Tabelul 4. Lianți utilizați pentru metoda de malaxare pe cale uscată (Briancon et al., 2018)
+Tip de pământ
+Tip de liant
+Praf neorganic
+Var + ciment
+Ciment + zgură
+Argilă neorganică
+Var
+Var + ciment
+Ciment + zgură
+Pământ fin moderat organic
+Ciment + zgură
+Pământ foarte organic
+Ciment + zgură
+Turbă
+Ciment + zgură
+(13)
+Cimenturi: (i)
+Cimenturile utilizate trebuie să fie conforme cu prevederile standardului SR EN 197-1 și 2.
+(ii)
+Cimenturile utilizate în mod uzual sunt cimentul Portland tip I și II. Cimentul din zgură granulară de furnal poate înlocui o parte din cimentul Portland, fiind eficient atunci când metoda de îmbunătățire se utilizează în pământurile care conțin apă sărată sau atunci când pământul are conținut ridicat de materii organice.
+(iii)
+Cenușa puzzolanică este utilizată ocazional ca material suplimentar în amestecurile pe bază de ciment Portland, de obicei în procent de sub 25% din cantitatea totală de liant.
+(14)
+Var: (i)
+Varul utilizat trebuie să fie conform cu prevederile standardului SR EN 459-1 și 2,
+(ii)
+În contactul cu pământul umed varul nestins absoarbe umiditate și devine var stins.
+(15)
+Alți lianți: (i) zgură de furnal: se poate utiliza pentru a reduce reacția exotermă din timpul prizei și aduce mai puțină rezistență pe termen scurt față de clincher; când este utilizat singur necesită un activator de priză;
+(ii) cenușă zburătoare și puzzolanică.
+C.
+Studii și încercări necesare pentru execuție (16)
+Pentru lucrările de îmbunătățire a terenului cu prin malaxare în adâncime este, în general, necesară realizarea de poligoane experimentale pentru definirea sau verificarea parametrilor de execuție și a posibilității de atingere a obiectivelor stabilite prin proiect.
+(17)
+Parametrii de execuție urmăriți sunt: - viteza de penetrare și de ridicare a echipamentului de malaxare;
+- viteza de rotație a echipamentului de malaxare;
+- presiunea aerului, în cazul malaxării pe cale uscată;
+- viteza de alimentare cu liant în stare uscată sau fluid.
+(18)
+Pentru determinarea parametrilor materialului rezultat din malaxare pe poligonul experimental sunt realizate încercări pe probe prelevate din elementele rezultate și încercarea lor în laborator, atât în stare proaspătă (înainte de priză), cât și după întărire.
+D.
+Execuție (19)
+Execuția lucrărilor de îmbunătățire a terenului prin malaxare în adâncime se realizează în conformitate cu prevederile din standardul SR EN 14679.
+(20)
+Pentru execuția malaxării în adâncime este necesară identificarea tuturor posibilelor obstacole supraterane și subterane care ar putea împiedica execuția.
+(21)
+Înaintea demarării execuției malaxării în adâncime este necesară realizarea unei platforme de lucru care să asigure accesul utilajelor, să asigure o capacitate portantă suficientă pentru acestea și pentru stocarea materialelor necesare.
+(22)
+Lianții utilizați la lucrările de malaxare în adâncime trebuie protejați de umezire.
+(23)
+Execuția elementelor rezultate prin malaxare în adâncime (coloane, pereți etc.) trebuie executate în conformitate cu locațiile și elementele geometrice prevăzute în proiect și ținând cont de toleranțele prevăzute prin caietul de sarcini.
+E.
+Controlul calității lucrărilor executate (24)
+Controlul calității lucrărilor de malaxare în adâncime se realizează în timpul execuției și la finalizarea acesteia.
+(25)
+În timpul execuției trebuie controlați cel puțin următorii parametri: - cantitatea de liant încorporată (masă de liant în stare uscată pe metru liniar de coloană sau volum de fluid pe metru liniar, de exemplu);
+- indicele de malaxare care este afișat în funcție de adâncime și care depinde de parametrii de execuție.
+(26)
+Parametrii de execuție de controlat în timpul execuției sunt cei prevăzuți în standardul SR EN 14679 Tabelul 1.
+(27)
+Controlul calității lucrărilor executate la finalul execuției are ca scop verificarea geometriei și a caracteristicilor elementelor rezultate prin malaxare de adâncime.
+(28)
+Acolo unde este posibil se poate verifica vizual calitatea materialului rezultat din malaxare și continuitatea elementelor rezultate, prin dezveliri.
+(29)
+Pentru verificarea caracteristicilor materialului rezultat prin malaxare se pot utiliza încercări de laborator pe probe prelevate din materialul malaxat (în general, încercări de compresiune monoaxială) sau încercări pe teren, precum penetrometrul static sau dinamic.
+(30)
+Metodele de încercare trebuie adaptate scopului lucrărilor de îmbunătățire: (i) pentru reducerea tasărilor, interesul principal constând în determinarea modulul de deformație liniara al terenului îmbunătățit;
+(ii) pentru stabilitate și eliminarea riscului de cedare, interesul principal constă în determinarea rezistenței la forfecare a coloanelor;
+(iii) în cazurile de impermeabilizare sau stabilizare a pământurilor poluate, determinante sunt dispoziția în plan a coloanelor și permeabilitatea redusă.
+(31)
+Probele sunt prelevate din coloanele de îmbunătățire sau din masa de pământ îmbunătățită, cu ajutorul unui utilaj de foraj. Probele din teren pot fi folosite pentru a determina: granulozitatea (dacă este posibil), caracteristicile de deformabilitate, rezistența la compresiune și la forfecare și uniformitatea materialului.
+(32)
+Pentru prelevarea probelor din coloanele malaxate se recomandă forajul rotativ cu triplu carotier sau foraj cu preluare a carotei pe cablu (wire-line) cu diametru probei mai mare sau egal cu 48 mm. Pentru prelevare se recomandă minim 3 carotaje pentru o lucrare. Prelevarea probelor ar trebui să se facă pe toată lungimea îmbunătățită.
+(33)
+Pentru determinarea rezistenței materialului rezultat din malaxare se recomandă încercarea la diferite grade de maturizare: 7 zile, 14 zile, 21 zile și 28 de zile.
+(34)
+Pot fi utilizate suplimentar și metode geofizice pentru a caracteriza de o manieră globală proprietățile masivului de teren îmbunătățit: refracție seismică, MASW, metode electrice, alte metode seismice.
+(35)
+Dacă terenul îmbunătățit este utilizat pentru fundații pentru care este necesară determinarea capacității portante, este posibilă realizarea de încărcări de probă (similar cu piloții sau incluziunile rigide sau semi-rigide). Trebuie însă acordată atenție valorii capacității portante structurale a elementului în sine, care poate fi depășită în cursul încărcării de probă.
+F.
+Recepția lucrărilor (36)
+Recepția lucrărilor de îmbunătățire prin malaxare în adâncime se face în conformitate cu reglementările tehnice aplicabile în vigoare.
+----
