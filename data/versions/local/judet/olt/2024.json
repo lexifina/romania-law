@@ -3,6 +3,66 @@
  "shard": "local/judet/olt/2024",
  "acts": [
   {
+   "slug": "hcj-olt-100-2024",
+   "path": "local/judet/olt/2024/100",
+   "short": "HCJ Olt nr. 100/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 100/2024 pentru obiectivul de investiții „Instalații de detecție, semnalizare și avertizare pentru pavilioanele 2,3 și 5 în vederea obținerii autorizației ISU” pentru Spitalul de Psihiatrie Cronici Schitu Greci Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/19908.pdf",
+     "sha256": "e0f04dacd2307b5e5f288aceebf22eb09a97864f32f1b9f043cc899f72232d19"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-106-2024",
+   "path": "local/judet/olt/2024/106",
+   "short": "HCJ Olt nr. 106/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 106/2024 pentru modificarea articolului 23 din Regulamentul de organizare și funcționare a Comisiei pentru Protecția Copilului Olt aprobat prin Hotărârea Consiliului Județean Olt nr. 136 din 24.08.2017 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/19968.pdf",
+     "sha256": "03a8a3ad535ebb4a3d6988b82add68f672f7fbf1aa0046a16f4f104d63de2754"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-108-2024",
+   "path": "local/judet/olt/2024/108",
+   "short": "HCJ Olt nr. 108/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 108/2024 pentru Administrație Publică, Juridică, Apărarea Ordinii Publice, Respectarea Drepturilor Omului și Relații cu Cetățenii; - Avizul nr. 6485/29.05.2024 al Comisiei pentru Studii Economico – Sociale, Buget – Finanțe, Integrare Europeană, Administrarea Domeniului Public și Privat; - Avizul nr. 6420/28.05.2024 al Comisiei pentru Cultură, Învățământ, Activitate Științifică, Sănătate, Familie, Protecție",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/19970.pdf",
+     "sha256": "0fc1d82c8c7b223108cb47fc1cef5c4fe342ed88390459b3070ea07ba755ceeb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-109-2024",
+   "path": "local/judet/olt/2024/109",
+   "short": "HCJ Olt nr. 109/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 109/2024 cu privire la aprobarea menținerii Direcției Județene de Evidență a Persoanelor Olt ca instituție publică cu personalitate juridică, în subordinea Consiliului Județean Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/19971.pdf",
+     "sha256": "3d6b738d96ce084010a3bc5bbf4debd865ade3e586f9bb74a437597584935218"
+    }
+   ]
+  },
+  {
    "slug": "hcj-olt-11-2024",
    "path": "local/judet/olt/2024/11",
    "short": "HCJ Olt nr. 11/2024",
@@ -18,6 +78,66 @@
    ]
   },
   {
+   "slug": "hcj-olt-110-2024",
+   "path": "local/judet/olt/2024/110",
+   "short": "HCJ Olt nr. 110/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 110/2024 cu privire la transformarea unor posturi în statul de funcții al Spitalului Județean de Urgență Slatina Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/19972.pdf",
+     "sha256": "7bb792d9a5e37a7e70ed9ba640b362f96cf646ab585af1bc12e81b00e5af9df8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-114-2024",
+   "path": "local/judet/olt/2024/114",
+   "short": "HCJ Olt nr. 114/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 114/2024 cu privire la aprobarea participării Consiliului Județean Olt la Campania ”Ia atitudine! spune STOP violenței și consumului ilicit de droguri!”, precum și aprobarea în acest sens a încheierii unui Protocol de colaborare cu Inspectoratul de Poliție Județean Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/19976.pdf",
+     "sha256": "95d7c96953925d57778b25925dbdff7976a90691fcb09e8324174d80490abd62"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-116-2024",
+   "path": "local/judet/olt/2024/116",
+   "short": "HCJ Olt nr. 116/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 116/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/19978.pdf",
+     "sha256": "b623b7cb41b6a5aa2d6087c164910eaa6c8700889030748e543a119020463de4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-119-2024",
+   "path": "local/judet/olt/2024/119",
+   "short": "HCJ Olt nr. 119/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 119/2024 cu privire la aprobarea proiectului “Modernizare drum județean DJ 642, Stoenești (intersecție DN6) – Giuvărăști (limită județul Teleorman)” – etapa a II-a și a cheltuielilor legate de proiect Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/20426.pdf",
+     "sha256": "2175011f0b206a6a2319b74d3da7f6f663f2d1e40111017cddb3861f5bcefcf6"
+    }
+   ]
+  },
+  {
    "slug": "hcj-olt-12-2024",
    "path": "local/judet/olt/2024/12",
    "short": "HCJ Olt nr. 12/2024",
@@ -29,6 +149,111 @@
      "units": 1,
      "source_url": "https://cjolt.ro/storage/formidable/223/19078-1.pdf",
      "sha256": "572263fb0ba43d18f6914691c85ed0f21f0de76a25f72150bf2c696dd0fa3ced"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-125-2024",
+   "path": "local/judet/olt/2024/125",
+   "short": "HCJ Olt nr. 125/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 125/2024 cu privire la modificarea Statului de funcții și Regulamentului de organizare și funcționare ale serviciului social cu cazare: “Centrul de îngrijire şi asistenţă Băbiciu” din structura Direcției Generale de Asistență Socială și Protecția Copilului Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/20432.pdf",
+     "sha256": "17103047c43bc4f120b4cfd369a345cc7057b48144faae210d6a416b4966cc96"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-127-2024",
+   "path": "local/judet/olt/2024/127",
+   "short": "HCJ Olt nr. 127/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 127/2024 pentru modificarea, completarea și actualizarea componenței nominale a Colegiului Director al Direcției Generale de Asistență Socială și Protecția Copilului Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/20434.pdf",
+     "sha256": "5bc9be8f245f3a9d483d88758bd7028cee5b7a7129936361f9cfcc6275c650be"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-128-2024",
+   "path": "local/judet/olt/2024/128",
+   "short": "HCJ Olt nr. 128/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 128/2024 pentru modificarea structurii organizatorice a Spitalului Județean de Urgență Slatina, aprobate prin Hotărârea Consiliului Județean Olt nr. 227/15.12.2016 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/20435.pdf",
+     "sha256": "a5f51219e0d293705e69518bfecb1e91566d654469703e389a9ecc99697a5307"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-129-2024",
+   "path": "local/judet/olt/2024/129",
+   "short": "HCJ Olt nr. 129/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 129/2024 pentru modificarea structurii organizatorice a Spitalului de Psihiatrie Cronici Schitu Greci, aprobate prin Hotărârea Consiliului Județean Olt nr. 90/29.06.2017 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/20436.pdf",
+     "sha256": "60ce0252006e4f241fb532689d2bcd4a5c3f4d5daf0fd28364a0d35bf37663ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-13-2024",
+   "path": "local/judet/olt/2024/13",
+   "short": "HCJ Olt nr. 13/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 13/2024 cu privire la aprobarea bugetului Județului Olt pe anul 2024 si estimări pe anii 2025-2027 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/19079-1.pdf",
+     "sha256": "2d3b90765e5e0197d148b12208d3f6f3f7abf6e5ffdd1c225c06cd399d341828"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-130-2024",
+   "path": "local/judet/olt/2024/130",
+   "short": "HCJ Olt nr. 130/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 130/2024 cu privire la aprobarea Planului de selecție – componenta inițială pentru selecția a 5 membri în Consiliul de Administrație al S.C",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/20437.pdf",
+     "sha256": "07d1f3234f3dd53fbdec20c1be1c46382dd7664d07411a0c8cdb7ee6a5eca97f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-131-2024",
+   "path": "local/judet/olt/2024/131",
+   "short": "HCJ Olt nr. 131/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 131/2024 cu privire la aprobarea proiectului „Dotarea cu echipamente dedicate și digitalizarea Laboratorului de microbiologie de la Spitalul Județean de Urgență Slatina” și a cheltuielilor legate de proiect Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/20438.pdf",
+     "sha256": "ea44ea92a51c731f6000a68cbae9628867be66f0afedc35539ebc8e86b1b8c63"
     }
    ]
   },

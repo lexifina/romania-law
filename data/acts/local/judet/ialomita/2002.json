@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/ialomita/2002",
+"acts": [
+{
+"slug": "hcj-ialomita-1-2002",
+"path": "local/judet/ialomita/2002/1",
+"kind": "local",
+"year": "2002",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Ialomița nr. 1/2002 privind aprobarea realizării proiectului ”Creșterea transparenței, eticii și integrității în cadrul Consiliului Județean Ialomița și a instituțiilor subordonate prin implementarea măsurilor integrate de prevenire a corupției” în vederea obținerii finanțării prevăzute de Programul Operațional Capacitate Administrativă 2014-2020 și a cheltuielilor legate de proiect. PDF Anexe",
+"short": "HCJ Ialomița nr. 1/2002",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2002-01-12",
+"latest": "2002-01-12",
+"portal": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+"council": "judet/ialomita",
+"council_name": "Consiliul Județean Ialomița",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

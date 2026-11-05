@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcj-olt-11-2025",
+   "path": "local/judet/olt/2025/11",
+   "short": "HCJ Olt nr. 11/2025",
+   "title": "Hotărârea Consiliului Județean Olt nr. 11/2025 cu privire la transformarea unor posturi în statul de funcții al Spitalului Județean de Urgență Slatina, ca urmare a promovării precum și cu privire la aprobarea organigramei și a statului de funcții ale Spitalului Județean de Urgență Slatina Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2025/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/255/011-HCJ-nr.-011-30.01.2025.pdf",
+     "sha256": "2d0e94b6e366fcaa53e4a932c4237aab89f8f8c03a4a47b412773acce3627d32"
+    }
+   ]
+  },
+  {
    "slug": "hcj-olt-12-2025",
    "path": "local/judet/olt/2025/12",
    "short": "HCJ Olt nr. 12/2025",
@@ -119,6 +134,36 @@
      "units": 1,
      "source_url": "https://cjolt.ro/storage/formidable/255/005-HCJ-nr.-005-30.01.2025.pdf",
      "sha256": "9cd4c0cdf3dd17e5dceee59de607619d27078527405893f230818ca2b113615d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-82-2025",
+   "path": "local/judet/olt/2025/82",
+   "short": "HCJ Olt nr. 82/2025",
+   "title": "Hotărârea Consiliului Județean Olt nr. 82/2025",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2025/",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/255/021-HCJ-nr.-82-24.04.2025.pdf",
+     "sha256": "c469846ad3e031e83e57bcb7eb74d898daf410cc31c281664c05e163e71ad3d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-84-2025",
+   "path": "local/judet/olt/2025/84",
+   "short": "HCJ Olt nr. 84/2025",
+   "title": "Hotărârea Consiliului Județean Olt nr. 84/2025 cu privire la aprobarea participării Consiliului Județean Olt la Campania ”Ia atitudine! Spune STOP violenței și consumului ilicit de droguri!”, precum și aprobarea în acest sens a încheierii unui Protocol de colaborare cu Inspectoratul de Poliție Județean Olt",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2025/",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/255/023-HCJ-nr.-84-24.04.2025.pdf",
+     "sha256": "b1baa1c4edc0dc5bc810fdfdc63752eaed3c73cfdbe44b4059c6515c24ab671a"
     }
    ]
   }

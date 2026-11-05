@@ -3,6 +3,21 @@
  "shard": "local/judet/ilfov/2026",
  "acts": [
   {
+   "slug": "hcj-ilfov-124-2026",
+   "path": "local/judet/ilfov/2026/124",
+   "short": "HCJ Ilfov nr. 124/2026",
+   "title": "Hotărârea Consiliului Județean Ilfov nr. 124/2026",
+   "url": "https://cjilfov.ro/wp-content/uploads/Anunturi_Informare_Publica/10.08.2026-Finantari_nerambursabile/HCJ-124-sanatate-si-mediu-anonimizat.pdf",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://cjilfov.ro/wp-content/uploads/Anunturi_Informare_Publica/10.08.2026-Finantari_nerambursabile/HCJ-124-sanatate-si-mediu-anonimizat.pdf",
+     "sha256": "841e4e0c9a3d68bd4e92b6733ebbd4da3bb6eaf931c68c4ec69a6e8519e567c3"
+    }
+   ]
+  },
+  {
    "slug": "hcj-ilfov-144-2026",
    "path": "local/judet/ilfov/2026/144",
    "short": "HCJ Ilfov nr. 144/2026",
@@ -44,6 +59,36 @@
      "units": 1,
      "source_url": "https://cjilfov.ro/wp-content/uploads/Anunturi_Informare_Publica/15.10.2026-Finantari_nerambursabile/2.-HCJ110-metodologie.pdf",
      "sha256": "579d85f048cdd89f04f455f43b0f8c30139322533cb38b83d8ed67d4ea6fcfa8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ilfov-27-2026",
+   "path": "local/judet/ilfov/2026/27",
+   "short": "HCJ Ilfov nr. 27/2026",
+   "title": "Hotărârea Consiliului Județean Ilfov nr. 27/2026",
+   "url": "https://cjilfov.ro/wp-content/uploads/Anunturi_Informare_Publica/11.03.2026-Expropriere_Hot.27-2026/HCJILFOV-27-11.03.2026-decizia-de-expropriere-Stefanesti-Runcu.pdf",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://cjilfov.ro/wp-content/uploads/Anunturi_Informare_Publica/11.03.2026-Expropriere_Hot.27-2026/HCJILFOV-27-11.03.2026-decizia-de-expropriere-Stefanesti-Runcu.pdf",
+     "sha256": "02533dac84790770edaae07153a2946bf3c141372627a355b306f16579cff7f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ilfov-30-2026",
+   "path": "local/judet/ilfov/2026/30",
+   "short": "HCJ Ilfov nr. 30/2026",
+   "title": "Hotărârea Consiliului Județean Ilfov nr. 30/2026",
+   "url": "https://cjilfov.ro/wp-content/uploads/Anunturi_Informare_Publica/19.03.2026-Expropriere_Hot.30-2026/HCJILFOV-30-19.03.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 1,
+     "source_url": "https://cjilfov.ro/wp-content/uploads/Anunturi_Informare_Publica/19.03.2026-Expropriere_Hot.30-2026/HCJILFOV-30-19.03.2026.pdf",
+     "sha256": "bb2c2e06fbbcdeeabc020b56160084c27013272d555473b225585c86a0b8bb37"
     }
    ]
   }

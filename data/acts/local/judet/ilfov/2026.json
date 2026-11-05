@@ -25,6 +25,72 @@
 }
 },
 {
+"slug": "hcj-ilfov-27-2026",
+"path": "local/judet/ilfov/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Ilfov nr. 27/2026",
+"short": "HCJ Ilfov nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-11",
+"latest": "2026-03-11",
+"portal": "https://cjilfov.ro/wp-content/uploads/Anunturi_Informare_Publica/11.03.2026-Expropriere_Hot.27-2026/HCJILFOV-27-11.03.2026-decizia-de-expropriere-Stefanesti-Runcu.pdf",
+"council": "judet/ilfov",
+"council_name": "Consiliul Județean Ilfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-ilfov-30-2026",
+"path": "local/judet/ilfov/2026/30",
+"kind": "local",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Ilfov nr. 30/2026",
+"short": "HCJ Ilfov nr. 30/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-19",
+"latest": "2026-03-19",
+"portal": "https://cjilfov.ro/wp-content/uploads/Anunturi_Informare_Publica/19.03.2026-Expropriere_Hot.30-2026/HCJILFOV-30-19.03.2026.pdf",
+"council": "judet/ilfov",
+"council_name": "Consiliul Județean Ilfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-ilfov-124-2026",
+"path": "local/judet/ilfov/2026/124",
+"kind": "local",
+"year": "2026",
+"number": "124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Ilfov nr. 124/2026",
+"short": "HCJ Ilfov nr. 124/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-10",
+"latest": "2026-08-10",
+"portal": "https://cjilfov.ro/wp-content/uploads/Anunturi_Informare_Publica/10.08.2026-Finantari_nerambursabile/HCJ-124-sanatate-si-mediu-anonimizat.pdf",
+"council": "judet/ilfov",
+"council_name": "Consiliul Județean Ilfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-ilfov-144-2026",
 "path": "local/judet/ilfov/2026/144",
 "kind": "local",

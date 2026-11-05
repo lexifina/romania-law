@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/judet/ilfov/2025",
+ "acts": [
+  {
+   "slug": "hcj-ilfov-157-2025",
+   "path": "local/judet/ilfov/2025/157",
+   "short": "HCJ Ilfov nr. 157/2025",
+   "title": "Hotărârea Consiliului Județean Ilfov nr. 157/2025",
+   "url": "https://cjilfov.ro/wp-content/uploads/Anunturi_Informare_Publica/25.09.2025-Finantari_nerambursabile_sport/HCJ-157_30.06.3025_aprobare-Metodologie.pdf",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://cjilfov.ro/wp-content/uploads/Anunturi_Informare_Publica/25.09.2025-Finantari_nerambursabile_sport/HCJ-157_30.06.3025_aprobare-Metodologie.pdf",
+     "sha256": "e6bdb087a4ae5970bebfccc9e7a217aa8eb061c29d13fbe8ddce7ed541639be0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ilfov-158-2025",
+   "path": "local/judet/ilfov/2025/158",
+   "short": "HCJ Ilfov nr. 158/2025",
+   "title": "Hotărârea Consiliului Județean Ilfov nr. 158/2025",
+   "url": "https://cjilfov.ro/wp-content/uploads/Anunturi_Informare_Publica/25.09.2025-Finantari_nerambursabile_sport/HCJ-158_30.06.2025_aprobare-GS-sport.pdf",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://cjilfov.ro/wp-content/uploads/Anunturi_Informare_Publica/25.09.2025-Finantari_nerambursabile_sport/HCJ-158_30.06.2025_aprobare-GS-sport.pdf",
+     "sha256": "4455dcce497b666b40df9517855b4109806dc079b4e21393b7ca3d9c348c2f84"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ilfov-169-2025",
+   "path": "local/judet/ilfov/2025/169",
+   "short": "HCJ Ilfov nr. 169/2025",
+   "title": "Hotărârea Consiliului Județean Ilfov nr. 169/2025",
+   "url": "https://cjilfov.ro/wp-content/uploads/Anunturi_Informare_Publica/25.09.2025-Finantari_nerambursabile_sport/HCJ-nr.-169_30.07.2025_aprobare-ghiduri.pdf",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://cjilfov.ro/wp-content/uploads/Anunturi_Informare_Publica/25.09.2025-Finantari_nerambursabile_sport/HCJ-nr.-169_30.07.2025_aprobare-ghiduri.pdf",
+     "sha256": "5135a95e26dd7babdd78e4d42725a084cea6ecad5f9254ac23dbd343f5e474be"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ilfov-274-2025",
+   "path": "local/judet/ilfov/2025/274",
+   "short": "HCJ Ilfov nr. 274/2025",
+   "title": "Hotărârea Consiliului Județean Ilfov nr. 274/2025",
+   "url": "https://cjilfov.ro/wp-content/uploads/Anunturi_Informare_Publica/23.12.2025-Expropriere_Hot.274-2025/HCJILFOV-274-22.12.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://cjilfov.ro/wp-content/uploads/Anunturi_Informare_Publica/23.12.2025-Expropriere_Hot.274-2025/HCJILFOV-274-22.12.2025.pdf",
+     "sha256": "283df263ec6becf6859cb6525e1698c581c25cafc528b9b1795522b81ffde668"
+    }
+   ]
+  }
+ ]
+}

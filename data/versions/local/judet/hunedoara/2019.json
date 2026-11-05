@@ -33,6 +33,96 @@
    ]
   },
   {
+   "slug": "hcj-hunedoara-100-2019",
+   "path": "local/judet/hunedoara/2019/100",
+   "short": "HCJ Hunedoara nr. 100/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 100/2019 pentru obiectivul de investiții ”Reamenajare spațiu expozițional la Galeriile de Artă Forma Deva”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/08%20HOT%20SCAN%2019%20APRILIE%202019/HCJH%20100.pdf",
+     "sha256": "958c6665dbd6a0644d8ac641445d80b105c28a976fe1646d73646b513504a15e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-101-2019",
+   "path": "local/judet/hunedoara/2019/101",
+   "short": "HCJ Hunedoara nr. 101/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 101/2019 pentru proiectul „Modernizarea infrastructurii de apă și apă uzată în județul Hunedoara (Valea Jiului) – 2014 - 2020”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/08%20HOT%20SCAN%2019%20APRILIE%202019/HCJH%20101.pdf",
+     "sha256": "482b76a874075ccb7847a5fc6b7ecc8be9f2f44bca44bc913dd3ff1c25ca7e20"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-102-2019",
+   "path": "local/judet/hunedoara/2019/102",
+   "short": "HCJ Hunedoara nr. 102/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 102/2019 pentru obiectivul de investiții: ”Amenajare spații RMN – Spitalul Județean de Urgență Deva”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/08%20HOT%20SCAN%2019%20APRILIE%202019/HCJH%20102.pdf",
+     "sha256": "71572640fc5f94f99fe101f6a4b8c0d07f464cf1b70cd19fe471597a482bc92d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-103-2019",
+   "path": "local/judet/hunedoara/2019/103",
+   "short": "HCJ Hunedoara nr. 103/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 103/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/08%20HOT%20SCAN%2019%20APRILIE%202019/HCJH%20103.pdf",
+     "sha256": "e17ea41655187381e0d0aeb01b6e7d9a3ca94c2368e1bcf94339ce26f89762ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-106-2019",
+   "path": "local/judet/hunedoara/2019/106",
+   "short": "HCJ Hunedoara nr. 106/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 106/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/09%20HOT%20SCAN%2031%20MAI%202019/HCJH%20106.pdf",
+     "sha256": "b6225517f1217791e342b89dd4195512bc569de08ffbe9d6bf7bbdb0eba2e0f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-107-2019",
+   "path": "local/judet/hunedoara/2019/107",
+   "short": "HCJ Hunedoara nr. 107/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 107/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/09%20HOT%20SCAN%2031%20MAI%202019/HCJH%20107.pdf",
+     "sha256": "77dc4b86a280aed4b3dd5979ec2a9ba54128bf0592cbb89ee2c5413fb416e5dc"
+    }
+   ]
+  },
+  {
    "slug": "hcj-hunedoara-108-2019",
    "path": "local/judet/hunedoara/2019/108",
    "short": "HCJ Hunedoara nr. 108/2019",
@@ -44,6 +134,531 @@
      "units": 1,
      "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/09%20HOT%20SCAN%2031%20MAI%202019/HCJH%20108.pdf",
      "sha256": "8cefd96d6f700077c0ed6aed82c04dcd96aaaab9055dcc4cc344ca4dadb5cecc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-109-2019",
+   "path": "local/judet/hunedoara/2019/109",
+   "short": "HCJ Hunedoara nr. 109/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 109/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/09%20HOT%20SCAN%2031%20MAI%202019/HCJH%20109.pdf",
+     "sha256": "816cae793b169821b61e2e7c36cd72c2c13502306b734b856d0d5ae2c4ca7c2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-11-2019",
+   "path": "local/judet/hunedoara/2019/11",
+   "short": "HCJ Hunedoara nr. 11/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 11/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/02%20HOT%20SCAN%2031%20IAN%202019/HCJH%2011.pdf",
+     "sha256": "a442e62a402d4e9f10c6a6f142dedc986387d92d5050b75bc7efbe86c0b2d941"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-110-2019",
+   "path": "local/judet/hunedoara/2019/110",
+   "short": "HCJ Hunedoara nr. 110/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 110/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/09%20HOT%20SCAN%2031%20MAI%202019/HCJH%20110.pdf",
+     "sha256": "f26c2a92cc82799d040fcbd059feef0d58e262609a704f8fc68abb4f021c2e5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-111-2019",
+   "path": "local/judet/hunedoara/2019/111",
+   "short": "HCJ Hunedoara nr. 111/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 111/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/09%20HOT%20SCAN%2031%20MAI%202019/HCJH%20111.pdf",
+     "sha256": "748a0e63db81862b27f43ef7ea108fa86ac56ab95603e429716c675d07fc2eab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-112-2019",
+   "path": "local/judet/hunedoara/2019/112",
+   "short": "HCJ Hunedoara nr. 112/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 112/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/09%20HOT%20SCAN%2031%20MAI%202019/HCJH%20112.pdf",
+     "sha256": "c1da166cf11a064e62e5e25937f60499ea0f1813a1e989ecffc8e7556bf03407"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-113-2019",
+   "path": "local/judet/hunedoara/2019/113",
+   "short": "HCJ Hunedoara nr. 113/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 113/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/09%20HOT%20SCAN%2031%20MAI%202019/HCJH%20113.pdf",
+     "sha256": "02166ed5f8f8057eb7b06669541e3ffac40e043d0c6409e68567ff182e43be5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-114-2019",
+   "path": "local/judet/hunedoara/2019/114",
+   "short": "HCJ Hunedoara nr. 114/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 114/2019 pentru semestrul II al anului școlar 2018 – 2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/09%20HOT%20SCAN%2031%20MAI%202019/HCJH%20114.pdf",
+     "sha256": "30e2707f00d7c3c98a3cb378e66b4ef448f67b889f5d6e3802fec2bf6a4d79a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-115-2019",
+   "path": "local/judet/hunedoara/2019/115",
+   "short": "HCJ Hunedoara nr. 115/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 115/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/09%20HOT%20SCAN%2031%20MAI%202019/HCJH%20115.pdf",
+     "sha256": "5f0a9e23996c5cea4921c1c4c986729911568bcf566fff98f3ae962f2afa037c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-116-2019",
+   "path": "local/judet/hunedoara/2019/116",
+   "short": "HCJ Hunedoara nr. 116/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 116/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/09%20HOT%20SCAN%2031%20MAI%202019/HCJH%20116.pdf",
+     "sha256": "9688fa40a49e8ae3573f526210e1232fe1ced5c02ef70cc93e695568b8ec0a50"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-117-2019",
+   "path": "local/judet/hunedoara/2019/117",
+   "short": "HCJ Hunedoara nr. 117/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 117/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/09%20HOT%20SCAN%2031%20MAI%202019/HCJH%20117.pdf",
+     "sha256": "34e30ee19d4abc77a78b81ee77d673845c36fe897e777342a410e7b4aa03c8eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-118-2019",
+   "path": "local/judet/hunedoara/2019/118",
+   "short": "HCJ Hunedoara nr. 118/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 118/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/09%20HOT%20SCAN%2031%20MAI%202019/HCJH%20118.pdf",
+     "sha256": "8e2cfe31e846194c5b3d2fb7f3eb78f335bc47d0583626c18be8e05dfee07954"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-119-2019",
+   "path": "local/judet/hunedoara/2019/119",
+   "short": "HCJ Hunedoara nr. 119/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 119/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/09%20HOT%20SCAN%2031%20MAI%202019/HCJH%20119.pdf",
+     "sha256": "3dfec07ef25d47a396ed7f72c8e6a6027191989a19bd27022e6f54df4fd42b64"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-12-2019",
+   "path": "local/judet/hunedoara/2019/12",
+   "short": "HCJ Hunedoara nr. 12/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 12/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/02%20HOT%20SCAN%2031%20IAN%202019/HCJH%2012.pdf",
+     "sha256": "459f79eed722b6806523e6edbb1e98e30b9342481f41eef5df4eeb79cd4708cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-120-2019",
+   "path": "local/judet/hunedoara/2019/120",
+   "short": "HCJ Hunedoara nr. 120/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 120/2019 pentru ocrotirea animalelor fără stăpân”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/09%20HOT%20SCAN%2031%20MAI%202019/HCJH%20120.pdf",
+     "sha256": "2f9a37db785e0176a50c922147b4c55570d7d45965bfd24223cacca880e5026c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-121-2019",
+   "path": "local/judet/hunedoara/2019/121",
+   "short": "HCJ Hunedoara nr. 121/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 121/2019 privind stabilirea modului de administrare a imobilului fostă cazarmă militară dezafectată 5159 Pestișu Mare",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/09%20HOT%20SCAN%2031%20MAI%202019/HCJH%20121.pdf",
+     "sha256": "55434a7896963f5db7708b005d0853831dbdba79ce395aad60e8ea461e22f511"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-122-2019",
+   "path": "local/judet/hunedoara/2019/122",
+   "short": "HCJ Hunedoara nr. 122/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 122/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/09%20HOT%20SCAN%2031%20MAI%202019/HCJH%20122.pdf",
+     "sha256": "b4ee2003193c7a7a1730b19443e50813ac31cc32f8b9978efcf51f1048780779"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-123-2019",
+   "path": "local/judet/hunedoara/2019/123",
+   "short": "HCJ Hunedoara nr. 123/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 123/2019 pentru obiectivul de investiții: ”Amenajare magazie materiale sanitare la parter corp Completare secții spitalizare – Spitalul Județean de Urgență Deva”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/09%20HOT%20SCAN%2031%20MAI%202019/HCJH%20123.pdf",
+     "sha256": "5c5230e72006fdfb2fbbb0d41836ed2cc21644d7c5f6a0e8e66b8bf162b9bd87"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-124-2019",
+   "path": "local/judet/hunedoara/2019/124",
+   "short": "HCJ Hunedoara nr. 124/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 124/2019 pentru obiectivul de investiții: ”Amenajare spațiu USTACC și dotare cu sistem de monitorizare – Secția de cardiologie – Spitalul Județean de Urgență Deva”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/09%20HOT%20SCAN%2031%20MAI%202019/HCJH%20124.pdf",
+     "sha256": "0e8ad67376ca9586dbfa5de16b94c337279dc4b7d34cdaf418b1eb415097b90f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-127-2019",
+   "path": "local/judet/hunedoara/2019/127",
+   "short": "HCJ Hunedoara nr. 127/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 127/2019 pentru obiectivul de investiții:”Construcție nouă pe amplasamentul Pavilioanelor C, D și E în cadrul Centrului Militar Județean Hunedoara”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/09%20HOT%20SCAN%2031%20MAI%202019/HCJH%20127.pdf",
+     "sha256": "f334f653d9b49ce5e8360564b581ee47a968a547cd7a79aa85924f927a08d0e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-128-2019",
+   "path": "local/judet/hunedoara/2019/128",
+   "short": "HCJ Hunedoara nr. 128/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 128/2019 pentru obiectivul de investiții:”Reabilitare Casa de cultură, municipiul Hunedoara, județul Hunedoara”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/09%20HOT%20SCAN%2031%20MAI%202019/HCJH%20128.pdf",
+     "sha256": "c7beab4ef673f5b14daee7092b293939f819ef88f93f5a8ef640f814c4fa6e2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-129-2019",
+   "path": "local/judet/hunedoara/2019/129",
+   "short": "HCJ Hunedoara nr. 129/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 129/2019 pentru obiectivul de investiții:”Reparații exterioare teatru și execuția rampelor pentru persoane cu dizabilități la Teatrul Dramatic I.D.Sîrbu din municipiul Petroșani”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/09%20HOT%20SCAN%2031%20MAI%202019/HCJH%20129.pdf",
+     "sha256": "af40d92c37904ad7cd6e87c3624227f17c1f9038f8ab126ae0df0260ba98101f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-13-2019",
+   "path": "local/judet/hunedoara/2019/13",
+   "short": "HCJ Hunedoara nr. 13/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 13/2019 privind componentele litice",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/02%20HOT%20SCAN%2031%20IAN%202019/HCJH%2013.pdf",
+     "sha256": "f7fe7fc686ad465760fbcffa5446b5069410214228deaf9944948bbbe89cb742"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-130-2019",
+   "path": "local/judet/hunedoara/2019/130",
+   "short": "HCJ Hunedoara nr. 130/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 130/2019 pentru obiectivul de investiții ”Alimentare cu apă potabilă zona turistică Pasul Vîlcan” și aprobarea cofinanțării din bugetul propriu al județului Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/09%20HOT%20SCAN%2031%20MAI%202019/HCJH%20130.pdf",
+     "sha256": "96d47fc147e5c8a022c28494f50dce6fe79ef0ef14208f227ee3c26a95ba24a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-131-2019",
+   "path": "local/judet/hunedoara/2019/131",
+   "short": "HCJ Hunedoara nr. 131/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 131/2019 pentru obiectivul de investiții: ”Modernizare DJ 707G: DN 7 Gurasada – Dănulești, km.3+500 – km.14+000”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/09%20HOT%20SCAN%2031%20MAI%202019/HCJH%20131.pdf",
+     "sha256": "0b19e159833d87d46c90c658e83892e2ef30c6a142b330bcfd8c4c7299d73173"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-132-2019",
+   "path": "local/judet/hunedoara/2019/132",
+   "short": "HCJ Hunedoara nr. 132/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 132/2019 pentru obiectivul de investiții ”Modernizare DJ 706B: Luncoiu de Jos-Stejărel-Luncșoara-Dumești-Sârbi (DJ706), km. 2+800 – 3+800 și 7+150-19+450”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/09%20HOT%20SCAN%2031%20MAI%202019/HCJH%20132.pdf",
+     "sha256": "9a8ec0b14b977d4a7b61554062562686810dba86598e589eb99574c2ac2cc308"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-133-2019",
+   "path": "local/judet/hunedoara/2019/133",
+   "short": "HCJ Hunedoara nr. 133/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 133/2019 pentru obiectivul de investiții ”Modernizare DJ 705D: Bozeș-Băcâia-limită județ Alba, km.3+424 – km.7+700”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/09%20HOT%20SCAN%2031%20MAI%202019/HCJH%20133.pdf",
+     "sha256": "7aee972c089d5bcbacfbe54268bf29ca635dac1062c760428fada0bd4236f0f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-134-2019",
+   "path": "local/judet/hunedoara/2019/134",
+   "short": "HCJ Hunedoara nr. 134/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 134/2019 pentru realizarea lucrărilor la obiectivul de investiții ”Amenajare în sens giratoriu a intersecției DN 66 cu strada Dealului – Municipiul Petroșani”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/09%20HOT%20SCAN%2031%20MAI%202019/HCJH%20134.pdf",
+     "sha256": "6eb8081ecffe38599528b11823cbaf720130ffca38f9bd598a3b8ae7fb2a6caa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-135-2019",
+   "path": "local/judet/hunedoara/2019/135",
+   "short": "HCJ Hunedoara nr. 135/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 135/2019 pentru ocuparea funcției de director medical la Spitalul Județean de Urgență Deva",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/09%20HOT%20SCAN%2031%20MAI%202019/HCJH%20135.pdf",
+     "sha256": "b737fdf614b3333e1c0210608704a56bba1664f752c83503eeb6b2125867ce72"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-136-2019",
+   "path": "local/judet/hunedoara/2019/136",
+   "short": "HCJ Hunedoara nr. 136/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 136/2019 pentru obiectivul de investiții „Modernizare Centrul de Îngrijire și Asistență nr.1 Păclișa”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/09%20HOT%20SCAN%2031%20MAI%202019/HCJH%20136.pdf",
+     "sha256": "61f69a539094295509ddbe3244e1c54a6428031571a260754076c667c164013e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-137-2019",
+   "path": "local/judet/hunedoara/2019/137",
+   "short": "HCJ Hunedoara nr. 137/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 137/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/09%20HOT%20SCAN%2031%20MAI%202019/HCJH%20137.pdf",
+     "sha256": "876d7b556f872e386f1880f01f9910688ef0a8668e76add97c7eb9a06cd7ff6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-138-2019",
+   "path": "local/judet/hunedoara/2019/138",
+   "short": "HCJ Hunedoara nr. 138/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 138/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/09%20HOT%20SCAN%2031%20MAI%202019/HCJH%20138.pdf",
+     "sha256": "05f5fbf4b4b9e1af999dbef9a4ed5107a6307131c405705e703468f6c3ba95c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-139-2019",
+   "path": "local/judet/hunedoara/2019/139",
+   "short": "HCJ Hunedoara nr. 139/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 139/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/09%20HOT%20SCAN%2031%20MAI%202019/HCJH%20139.pdf",
+     "sha256": "3ab5cb869324263c6a4761db7b98da96cad2382c1cbbb6660755b22f6cdaba5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-14-2019",
+   "path": "local/judet/hunedoara/2019/14",
+   "short": "HCJ Hunedoara nr. 14/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 14/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/02%20HOT%20SCAN%2031%20IAN%202019/HCJH%2014.pdf",
+     "sha256": "71f65ef97918805902885256bd476284bb34dce8f5da6d87afc60e430b1281db"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-140-2019",
+   "path": "local/judet/hunedoara/2019/140",
+   "short": "HCJ Hunedoara nr. 140/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 140/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/09%20HOT%20SCAN%2031%20MAI%202019/HCJH%20140.pdf",
+     "sha256": "52e5c632b132e4d5eea7e3e07347b8ce0e8e449966eee4756c66c81c9266e161"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-141-2019",
+   "path": "local/judet/hunedoara/2019/141",
+   "short": "HCJ Hunedoara nr. 141/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 141/2019 pentru îndeplinirea obligațiilor de mediu referitoare la închiderea depozitului neconform de deșeuri menajere Uricani",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/09%20HOT%20SCAN%2031%20MAI%202019/HCJH%20141.pdf",
+     "sha256": "e83369fd50611e399e7fde0e136ae7d0cda7ac9cd00554d45c3b482892bae45e"
     }
    ]
   },
@@ -63,6 +678,681 @@
    ]
   },
   {
+   "slug": "hcj-hunedoara-145-2019",
+   "path": "local/judet/hunedoara/2019/145",
+   "short": "HCJ Hunedoara nr. 145/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 145/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-06-19",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/10%20HOT%20SCAN%2019%20IUNIE%202019/HCJH%20145.pdf",
+     "sha256": "9b74cc87d0bda38e9f43decab621d4c9286d77255c446bea92ecc0b989beaf07"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-146-2019",
+   "path": "local/judet/hunedoara/2019/146",
+   "short": "HCJ Hunedoara nr. 146/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 146/2019 pentru obiectivul de investitii ”Amenajare în sens giratoriu a intersecției DN 66 cu strada Dealului – Municipiul Petroșani”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-06-19",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/10%20HOT%20SCAN%2019%20IUNIE%202019/HCJH%20146.pdf",
+     "sha256": "86b99c1cbe26f670fa62a9efe85dd190ab8a820a3b4cb1d47d621fcc84980c54"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-147-2019",
+   "path": "local/judet/hunedoara/2019/147",
+   "short": "HCJ Hunedoara nr. 147/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 147/2019 pentru obiectivul de investiții ”Reabilitare Casa de cultură Municipiul Hunedoara”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-06-19",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/10%20HOT%20SCAN%2019%20IUNIE%202019/HCJH%20147.pdf",
+     "sha256": "e726688d210ef23dece08cf657c23865a2f0d45c1bce522e56121afcc1b3e529"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-148-2019",
+   "path": "local/judet/hunedoara/2019/148",
+   "short": "HCJ Hunedoara nr. 148/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 148/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-06-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/11%20HOT%20SCAN%2028%20IUNIE%202019/HCJH%20148.pdf",
+     "sha256": "2a3405c76215a69603330975c0ddf79ee02303c8e20fdd8e6d258e90a5b2918d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-149-2019",
+   "path": "local/judet/hunedoara/2019/149",
+   "short": "HCJ Hunedoara nr. 149/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 149/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-06-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/11%20HOT%20SCAN%2028%20IUNIE%202019/HCJH%20149.pdf",
+     "sha256": "545177ee20e8675afef27aa7ae36f1d17d68eebe741245d0193fb74508993c3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-15-2019",
+   "path": "local/judet/hunedoara/2019/15",
+   "short": "HCJ Hunedoara nr. 15/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 15/2019 privind stabilirea unor măsuri pentru funcţionarea Parcului de Afaceri Simeria, cu modificările și completările ulterioare",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/02%20HOT%20SCAN%2031%20IAN%202019/HCJH%2015.pdf",
+     "sha256": "89731834ea475e877c4a58c7053d3575018d17821cb2f8c3c535de3af7b7afd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-150-2019",
+   "path": "local/judet/hunedoara/2019/150",
+   "short": "HCJ Hunedoara nr. 150/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 150/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-06-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/11%20HOT%20SCAN%2028%20IUNIE%202019/HCJH%20150.pdf",
+     "sha256": "63212ece95b872aa2bd637738e5a9d43320518ad33e20dd1c468b4083b849915"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-151-2019",
+   "path": "local/judet/hunedoara/2019/151",
+   "short": "HCJ Hunedoara nr. 151/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 151/2019 pentru perioada 01.01.2014 – 30.06.2019 și a Contractelor de delegare a gestiunii serviciului de transport public județean de persoane prin curse regulate până la data de 02 decembrie 2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-06-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/11%20HOT%20SCAN%2028%20IUNIE%202019/HCJH%20151.pdf",
+     "sha256": "247e43dbc62b35923467fd3bcec69d73dc5a80a54fff5eafe38692beb3ab9676"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-152-2019",
+   "path": "local/judet/hunedoara/2019/152",
+   "short": "HCJ Hunedoara nr. 152/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 152/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-06-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/11%20HOT%20SCAN%2028%20IUNIE%202019/HCJH%20152.pdf",
+     "sha256": "3d119d28fe2955fe307e9114e8833366f288244073396da32faafd237b5139b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-153-2019",
+   "path": "local/judet/hunedoara/2019/153",
+   "short": "HCJ Hunedoara nr. 153/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 153/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-06-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/11%20HOT%20SCAN%2028%20IUNIE%202019/HCJH%20153.pdf",
+     "sha256": "0bf7b3bd2902236e8a150bdb4ecc61a4785174c8177f9c22c0a22a1646bc5731"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-154-2019",
+   "path": "local/judet/hunedoara/2019/154",
+   "short": "HCJ Hunedoara nr. 154/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 154/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-06-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/11%20HOT%20SCAN%2028%20IUNIE%202019/HCJH%20154.pdf",
+     "sha256": "fada10d9798f8bdc1864aa5835b197c2fb790eea08d88eb78baaf6a17da8f2f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-155-2019",
+   "path": "local/judet/hunedoara/2019/155",
+   "short": "HCJ Hunedoara nr. 155/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 155/2019 pentru Sport și Tineret Hunedoara în vederea finanțării și organizării în comun a programului de tabere ”ARC”, ediția 2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-06-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/11%20HOT%20SCAN%2028%20IUNIE%202019/HCJH%20155.pdf",
+     "sha256": "520ac1fdba448186ee86b5f419ed4eff968606301db54aaa624e761c1d52aede"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-156-2019",
+   "path": "local/judet/hunedoara/2019/156",
+   "short": "HCJ Hunedoara nr. 156/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 156/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-06-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/11%20HOT%20SCAN%2028%20IUNIE%202019/HCJH%20156.pdf",
+     "sha256": "bf105dff72dce932a703c0e2887d1ccbb58fe33c22ce96f7987b326f99046f3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-157-2019",
+   "path": "local/judet/hunedoara/2019/157",
+   "short": "HCJ Hunedoara nr. 157/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 157/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-06-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/11%20HOT%20SCAN%2028%20IUNIE%202019/HCJH%20157.pdf",
+     "sha256": "a8491860ef681ce25e82c905d7a79332e5c6cd0765acc7e09b9ea61d4862482d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-158-2019",
+   "path": "local/judet/hunedoara/2019/158",
+   "short": "HCJ Hunedoara nr. 158/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 158/2019 pentru completarea Hotărârii Consiliului Județean Hunedoara nr.158/2019 privind aprobarea dezmembrării unor imobile reprezentând tronsoane de drumuri județene ; Doc",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-06-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/11%20HOT%20SCAN%2028%20IUNIE%202019/HCJH%20158.pdf",
+     "sha256": "408a9c16b76a630f5482ca1c4132b93396c65a7f986dd9ca4a8f290e514f7ab2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-159-2019",
+   "path": "local/judet/hunedoara/2019/159",
+   "short": "HCJ Hunedoara nr. 159/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 159/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-06-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/11%20HOT%20SCAN%2028%20IUNIE%202019/HCJH%20159.pdf",
+     "sha256": "08cbb31bcecd5719ac950f0d338c9166090f15268fdb1fb289fb361d98f23fb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-16-2019",
+   "path": "local/judet/hunedoara/2019/16",
+   "short": "HCJ Hunedoara nr. 16/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 16/2019 pentru îmbunătățirea activității PARCULUI INDUSTRIAL CĂLAN",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/02%20HOT%20SCAN%2031%20IAN%202019/HCJH%2016.pdf",
+     "sha256": "277e36c06a79e5d559108c573415e4230a9c42691997af02ec5e225c137eac7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-160-2019",
+   "path": "local/judet/hunedoara/2019/160",
+   "short": "HCJ Hunedoara nr. 160/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 160/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-06-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/11%20HOT%20SCAN%2028%20IUNIE%202019/HCJH%20160.pdf",
+     "sha256": "46acd81e622651405606bb6c52bfb497913be04977ee39bde52f43567f645229"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-161-2019",
+   "path": "local/judet/hunedoara/2019/161",
+   "short": "HCJ Hunedoara nr. 161/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 161/2019 pentru obiectivul de investiții ”Amenajare spații RMN la Spitalul Județean de Urgență Deva”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-06-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/11%20HOT%20SCAN%2028%20IUNIE%202019/HCJH%20161.pdf",
+     "sha256": "a9c967aab4b4984270718a893cbcb8189f4750d494882632e938bea37390e17f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-162-2019",
+   "path": "local/judet/hunedoara/2019/162",
+   "short": "HCJ Hunedoara nr. 162/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 162/2019 pentru obiectivul de investiții ”Construire clădire pentru radioterapie”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-06-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/11%20HOT%20SCAN%2028%20IUNIE%202019/HCJH%20162.pdf",
+     "sha256": "45cd77121cf9cb2d9d88772a7a345808e2742f61ce21b0939bf513ebdc72a241"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-163-2019",
+   "path": "local/judet/hunedoara/2019/163",
+   "short": "HCJ Hunedoara nr. 163/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 163/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-07-03",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/12%20HOT%20SCAN%203%20IULIE%202019/HCJH%20163.pdf",
+     "sha256": "a22d91c4509d4cdbd4b11e94e47a00a6c68a74ec5f859c4494c4d88e9753c320"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-164-2019",
+   "path": "local/judet/hunedoara/2019/164",
+   "short": "HCJ Hunedoara nr. 164/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 164/2019 pentru realizarea Proiectului „Modernizare DJ 742A: Buceş-După Piatră-Tarniţa-limită de judeţ Alba, între km 0+000 - km 2+500”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-07-03",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/12%20HOT%20SCAN%203%20IULIE%202019/HCJH%20164.pdf",
+     "sha256": "c0b046fe9a44d8b16b6c2bff4f8d44f65bb1aa59c6f0413a2850fd7d924fb03c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-166-2019",
+   "path": "local/judet/hunedoara/2019/166",
+   "short": "HCJ Hunedoara nr. 166/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 166/2019 pentru obiectivul de investiții: ”Reabilitare drum comunal DC 11: Brad – Sanatoriul TBC Brad, km.0+000 – km.2+645”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-07-03",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/12%20HOT%20SCAN%203%20IULIE%202019/HCJH%20166.pdf",
+     "sha256": "64ad2e5248c81f8d2b4f072407cfcb5aef655d170bc12b0cd3e46e66f71be520"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-167-2019",
+   "path": "local/judet/hunedoara/2019/167",
+   "short": "HCJ Hunedoara nr. 167/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 167/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-07-16",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/13%20HOT%20SCAN%2016%20IULIE%202019/HCJH%20167.pdf",
+     "sha256": "b2b2bf5a192c0531592fec977b7c7229e72c5aed8d3ec1cf1d09eb69cec75404"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-168-2019",
+   "path": "local/judet/hunedoara/2019/168",
+   "short": "HCJ Hunedoara nr. 168/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 168/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-07-16",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/13%20HOT%20SCAN%2016%20IULIE%202019/HCJH%20168.pdf",
+     "sha256": "55b5e1a0f8a4bb71c2e02d03e1d599e5693a68a16de4653b71ab96b9d71f7945"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-169-2019",
+   "path": "local/judet/hunedoara/2019/169",
+   "short": "HCJ Hunedoara nr. 169/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 169/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-07-16",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/13%20HOT%20SCAN%2016%20IULIE%202019/HCJH%20169.pdf",
+     "sha256": "78d9afd21617966fb8b9c91f64b24faaae2606536b042726532da5ac3281d28a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-17-2019",
+   "path": "local/judet/hunedoara/2019/17",
+   "short": "HCJ Hunedoara nr. 17/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 17/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/02%20HOT%20SCAN%2031%20IAN%202019/HCJH%2017.pdf",
+     "sha256": "d79cfcbf3f4535be2471776913a048f08cb018673605d83d82f10011b454750d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-170-2019",
+   "path": "local/judet/hunedoara/2019/170",
+   "short": "HCJ Hunedoara nr. 170/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 170/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/14%20HOT%20SCAN%2026%20IULIE%202019/HCJH%20170.pdf",
+     "sha256": "7197d49c7c1bce772b8979729880ba48e7aec625d0a6f193ce53e31dc353d602"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-171-2019",
+   "path": "local/judet/hunedoara/2019/171",
+   "short": "HCJ Hunedoara nr. 171/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 171/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/14%20HOT%20SCAN%2026%20IULIE%202019/HCJH%20171.pdf",
+     "sha256": "63fbf10a40a62c5762c236284fa2e86c08cf3219f4ca165286d57a9ec7d855f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-172-2019",
+   "path": "local/judet/hunedoara/2019/172",
+   "short": "HCJ Hunedoara nr. 172/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 172/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/14%20HOT%20SCAN%2026%20IULIE%202019/HCJH%20172.pdf",
+     "sha256": "d4cc5155c51fda0cefe8c4cdb18c76565db36b8cf1a4403694a9f963dd54844e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-173-2019",
+   "path": "local/judet/hunedoara/2019/173",
+   "short": "HCJ Hunedoara nr. 173/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 173/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/14%20HOT%20SCAN%2026%20IULIE%202019/HCJH%20173.pdf",
+     "sha256": "21674c6b405b7da8f638e87ad048c1c3df5aa1a479e49215ded056fcb48f1735"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-174-2019",
+   "path": "local/judet/hunedoara/2019/174",
+   "short": "HCJ Hunedoara nr. 174/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 174/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/14%20HOT%20SCAN%2026%20IULIE%202019/HCJH%20174.pdf",
+     "sha256": "2b2e870ada13e2e8276fc39157caa9393fc411328df4c4501e3afe9ab50319b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-175-2019",
+   "path": "local/judet/hunedoara/2019/175",
+   "short": "HCJ Hunedoara nr. 175/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 175/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/14%20HOT%20SCAN%2026%20IULIE%202019/HCJH%20175.pdf",
+     "sha256": "a4d5029247cf1785ddea1e50c77568bdc9269ae9df054538bd206c5786fbabae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-176-2019",
+   "path": "local/judet/hunedoara/2019/176",
+   "short": "HCJ Hunedoara nr. 176/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 176/2019 pentru ocuparea funcției de director financiar-contabil la Spitalul Județean de Urgență Deva",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/14%20HOT%20SCAN%2026%20IULIE%202019/HCJH%20176.pdf",
+     "sha256": "f6b638c65ad9b9be09a4855c12b9add7b9749466aed83017105ddb35c25a8053"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-177-2019",
+   "path": "local/judet/hunedoara/2019/177",
+   "short": "HCJ Hunedoara nr. 177/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 177/2019 pentru ocuparea funcţiei de director medical la Sanatoriul de Pneumoftiziologie Brad",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/14%20HOT%20SCAN%2026%20IULIE%202019/HCJH%20177.pdf",
+     "sha256": "92c2824e2267cffd2ed6a2f6d3de78828b1345ebb5165a7041ad0c8aa9c6a2a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-178-2019",
+   "path": "local/judet/hunedoara/2019/178",
+   "short": "HCJ Hunedoara nr. 178/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 178/2019 pentru modificarea Hotărârii Consiliului Județean Hunedoara nr.178/2019 privind aprobarea transmiterii temporare către UAT Comuna Râu de Mori, prin Consiliul Local al Comunei Râu de Mori a dreptului de administrare asupra drumului județean DJ 686D - tronson km 1+055 (localitatea Brazi) - km2+200 (localitatea Râu de Mori) și asupra drumului județean DJ 686 - tronson km 8+700 (localitatea Unciuc)",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/14%20HOT%20SCAN%2026%20IULIE%202019/HCJH%20178.pdf",
+     "sha256": "34ab9f9d00479621e12390f7f3b6adc373a96e8ad1cdb7c936dc6ce680ab7114"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-179-2019",
+   "path": "local/judet/hunedoara/2019/179",
+   "short": "HCJ Hunedoara nr. 179/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 179/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/14%20HOT%20SCAN%2026%20IULIE%202019/HCJH%20179.pdf",
+     "sha256": "7cb3a17dfd0ee95b15beb22761534d9e4987f93f74008497132ad0df19d01cbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-18-2019",
+   "path": "local/judet/hunedoara/2019/18",
+   "short": "HCJ Hunedoara nr. 18/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 18/2019 pentru accesul în situl arheologic UNESCO Sarmizegetusa Regia-Grădiștea de Munte",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/02%20HOT%20SCAN%2031%20IAN%202019/HCJH%2018.pdf",
+     "sha256": "1ed9023595328b37d629cf52d593839adecae12781dce8af99b8dbaab5ba3928"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-180-2019",
+   "path": "local/judet/hunedoara/2019/180",
+   "short": "HCJ Hunedoara nr. 180/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 180/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/14%20HOT%20SCAN%2026%20IULIE%202019/HCJH%20180.pdf",
+     "sha256": "40908aca51b298116bf6ca5d4fe20973c1770d711d1b0576b8eaaa9aa7428148"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-181-2019",
+   "path": "local/judet/hunedoara/2019/181",
+   "short": "HCJ Hunedoara nr. 181/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 181/2019 pentru obiectivul de investiții: ”Desființare platforma de stocare temporară a deșeurilor din Municipiul Petroșani”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/14%20HOT%20SCAN%2026%20IULIE%202019/HCJH%20181.pdf",
+     "sha256": "59f7b82c3f51fdc3577f2b240b76777e2fe04914e7e8614fbd971754b4558039"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-182-2019",
+   "path": "local/judet/hunedoara/2019/182",
+   "short": "HCJ Hunedoara nr. 182/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 182/2019 pentru obiectivul de investiții:”Funcționarea Centrului de Îngrijire și Asistență Uricani”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/14%20HOT%20SCAN%2026%20IULIE%202019/HCJH%20182.pdf",
+     "sha256": "b921df7d2d8f76d263d61005565002e1e55acbf5b2aaf32efa9679fd91bdf604"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-183-2019",
+   "path": "local/judet/hunedoara/2019/183",
+   "short": "HCJ Hunedoara nr. 183/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 183/2019 pentru obiectivul de investiții: ”Demolare clădiri anexă în incinta Spitalului Județean de Urgență Deva”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/14%20HOT%20SCAN%2026%20IULIE%202019/HCJH%20183.pdf",
+     "sha256": "1ca2b18abbd7be925e1066591264cef31ab08f48ed08019c5158549abedb43f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-184-2019",
+   "path": "local/judet/hunedoara/2019/184",
+   "short": "HCJ Hunedoara nr. 184/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 184/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/14%20HOT%20SCAN%2026%20IULIE%202019/HCJH%20184.pdf",
+     "sha256": "bf077bfeda897bde1c3570248b6ca50e19123d72cbe335d509e87c274e23c117"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-185-2019",
+   "path": "local/judet/hunedoara/2019/185",
+   "short": "HCJ Hunedoara nr. 185/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 185/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-08-14",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/15%20HOT%20SCAN%2014%20AUGUST%202019/HCJH%20185.pdf",
+     "sha256": "ed59db67afd8b41496c051b060881776026292be3eace078781bdc7bfe69d971"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-186-2019",
+   "path": "local/judet/hunedoara/2019/186",
+   "short": "HCJ Hunedoara nr. 186/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 186/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-08-14",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/15%20HOT%20SCAN%2014%20AUGUST%202019/HCJH%20186.pdf",
+     "sha256": "5d3627251a4b4837ece8123621442c75dd703344281a08beae040180c9ffa8a0"
+    }
+   ]
+  },
+  {
    "slug": "hcj-hunedoara-187-2019",
    "path": "local/judet/hunedoara/2019/187",
    "short": "HCJ Hunedoara nr. 187/2019",
@@ -74,6 +1364,201 @@
      "units": 1,
      "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/15%20HOT%20SCAN%2014%20AUGUST%202019/HCJH%20187.pdf",
      "sha256": "093ea8e0e713afd51a2b553097f3793a8be21caddf55a0860eac96cf9c6fa6c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-188-2019",
+   "path": "local/judet/hunedoara/2019/188",
+   "short": "HCJ Hunedoara nr. 188/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 188/2019 pentru 12 obiective de investiții de modernizare a unor drumuri județene",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-08-14",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/15%20HOT%20SCAN%2014%20AUGUST%202019/HCJH%20188.pdf",
+     "sha256": "52a55e5fa92e6b9a21a25f1e781faffb8833ee8bf27c371e14b7a2070e3504ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-189-2019",
+   "path": "local/judet/hunedoara/2019/189",
+   "short": "HCJ Hunedoara nr. 189/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 189/2019 pentru obiectivul de investiții „Modernizare DJ 742A: Buceș - Dupăpiatră – Tarnița – limită județ Alba, km 0+000 (intersecție DN 74) – km 2+500 (intersecție DJ 705D)",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-08-14",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/15%20HOT%20SCAN%2014%20AUGUST%202019/HCJH%20189.pdf",
+     "sha256": "1f625db13434e02320d31edbb07fde2b311da1b35ef99607599bb8dabcad933a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-19-2019",
+   "path": "local/judet/hunedoara/2019/19",
+   "short": "HCJ Hunedoara nr. 19/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 19/2019 pentru funcțiile din familia ocupațională ”Administrație” din cadrul aparatului de specialitate al Consiliului Județean Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/02%20HOT%20SCAN%2031%20IAN%202019/HCJH%2019.pdf",
+     "sha256": "36a6a6bb5d1ecffee7de2555050c6df6e35e9454bc22be1c1ff787f5cca9d92f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-190-2019",
+   "path": "local/judet/hunedoara/2019/190",
+   "short": "HCJ Hunedoara nr. 190/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 190/2019 pentru obiectivul de investiții „Inchiderea depozitului neconform de deșeuri menajere Uricani din județul Hunedoara”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-08-14",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/15%20HOT%20SCAN%2014%20AUGUST%202019/HCJH%20190.pdf",
+     "sha256": "6b23afb78ed01502e58367bf24bc0d1ee4b018d173adc5c326b71774b2e24bce"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-191-2019",
+   "path": "local/judet/hunedoara/2019/191",
+   "short": "HCJ Hunedoara nr. 191/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 191/2019 pentru obiectivul de investiții „Modernizare DJ 687J: Hunedoara – Boș - Groș - Cerbăl – Socet – Feregi, tronson km 21+400 – km 24+900 și tronson km 25+600 – km 27+400”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-08-14",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/15%20HOT%20SCAN%2014%20AUGUST%202019/HCJH%20191.pdf",
+     "sha256": "9999f7eadc52a5057375ceca8c24af1f1c8d88254a2f872c414e5a04f8326885"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-192-2019",
+   "path": "local/judet/hunedoara/2019/192",
+   "short": "HCJ Hunedoara nr. 192/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 192/2019 pentru obiectivul de investiții ”Realizarea unor intervenții temporare (adăposturi provizorii, toalete ecologice, montarea a două panouri fotovoltaice, completarea cu pământ a suprafețelor erodate de ploi), montarea unor borne topografice și realizarea unui sondaj geotehnic” în situl arheologic de la Sarmizegetusa Regia",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-08-14",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/15%20HOT%20SCAN%2014%20AUGUST%202019/HCJH%20192.pdf",
+     "sha256": "b725d17e4d74b7276c358305640f7f5bba877c6faf06531ece7ce1042053dee0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-193-2019",
+   "path": "local/judet/hunedoara/2019/193",
+   "short": "HCJ Hunedoara nr. 193/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 193/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-08-14",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/15%20HOT%20SCAN%2014%20AUGUST%202019/HCJH%20193.pdf",
+     "sha256": "ed8ce77d08baaf248e469eaa6a4c724f02c8e4d296b17beaee8a8a6d3ee03953"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-194-2019",
+   "path": "local/judet/hunedoara/2019/194",
+   "short": "HCJ Hunedoara nr. 194/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 194/2019 privind aprobarea Planului de Analiză și Acoperire a Riscurilor al Județului Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SITE%2028%20AUGUST%202019/HCJ%20194.pdf",
+     "sha256": "e5600409d43c3fa8bf9f2e6a4f025f2649cec553821640011b6f8e6caad2fa2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-195-2019",
+   "path": "local/judet/hunedoara/2019/195",
+   "short": "HCJ Hunedoara nr. 195/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 195/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SITE%2028%20AUGUST%202019/HCJ%20195.pdf",
+     "sha256": "78a6d317c6c41ed439da1b7919f2a30fc27bee0faac7c6ad667da12ae29ca150"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-196-2019",
+   "path": "local/judet/hunedoara/2019/196",
+   "short": "HCJ Hunedoara nr. 196/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 196/2019 privind aprobarea statului de funcții și a Regulamentului de organizare și funcționare ale Unității de Asistență Medico-Socială Baia de Criș",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SITE%2028%20AUGUST%202019/HCJ%20196.pdf",
+     "sha256": "6809a4e0644b46cdf5fe95dff73dccfddd27ad6de0932e52fdda6b0b9adac89c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-197-2019",
+   "path": "local/judet/hunedoara/2019/197",
+   "short": "HCJ Hunedoara nr. 197/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 197/2019 privind aprobarea statului de funcții al Direcției Publice Comunitare de Evidență a Persoanelor Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SITE%2028%20AUGUST%202019/HCJ%20197.pdf",
+     "sha256": "5895da0262d92ae4ec18be1cc884949f4265e2ad148f7944ae1f2b58ef9ffd1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-198-2019",
+   "path": "local/judet/hunedoara/2019/198",
+   "short": "HCJ Hunedoara nr. 198/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 198/2019 privind desemnarea reprezentantului Consiliului Judeţean Hunedoara în Consiliul de administrație al Centrului de Pedagogie Curativă Simeria pentru anul şcolar 2019 - 2020",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SITE%2028%20AUGUST%202019/HCJ%20198.pdf",
+     "sha256": "763f42dc3f271a048ee3e5ad3135c769c2eb2cd4e20c2105fe29023084cc28d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-199-2019",
+   "path": "local/judet/hunedoara/2019/199",
+   "short": "HCJ Hunedoara nr. 199/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 199/2019 privind aprobarea preluării în patrimoniul Județului Hunedoara a unor echipamente achiziţionate de Asociaţia de Dezvoltare Intercomunitară pentru Managementul Situaţiilor de Urgenţă – ADIVEST în etapa I a proiectului regional comun ”Achiziționare echipamente specifice pentru îmbunătățirea capacității și calității sistemului de intervenție în situații de urgență și pentru acordarea asistenței medic",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SITE%2028%20AUGUST%202019/HCJ%20199.pdf",
+     "sha256": "9ae9f0a8b6f3085a7dc880f21de2ba06181a769a1acde78e8f83b505b8b5be62"
     }
    ]
   },
@@ -93,6 +1578,21 @@
    ]
   },
   {
+   "slug": "hcj-hunedoara-20-2019",
+   "path": "local/judet/hunedoara/2019/20",
+   "short": "HCJ Hunedoara nr. 20/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 20/2019 pentru funcțiile din familia ocupațională ”Administrație” din cadrul Direcției Generale de Asistență Socială și Protecția Copilului Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/02%20HOT%20SCAN%2031%20IAN%202019/HCJH%2020.pdf",
+     "sha256": "0e4340dd721dcf2530e7c4f53446cee3f477dec95ab9b2fa74025a1a8caa069b"
+    }
+   ]
+  },
+  {
    "slug": "hcj-hunedoara-200-2019",
    "path": "local/judet/hunedoara/2019/200",
    "short": "HCJ Hunedoara nr. 200/2019",
@@ -104,6 +1604,246 @@
      "units": 1,
      "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SITE%2028%20AUGUST%202019/HCJ%20200.pdf",
      "sha256": "14a97cfb6f51b2934e9ccfb7c69d1fc9ecccdc198f0db146c81f0d19a80acdfe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-201-2019",
+   "path": "local/judet/hunedoara/2019/201",
+   "short": "HCJ Hunedoara nr. 201/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 201/2019 privind aprobarea deplasării în Mongolia a unei delegații a Teatrului Dramatic ”I.D.Sîrbu” Petroșani",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SITE%2028%20AUGUST%202019/HCJ%20201.pdf",
+     "sha256": "5d7bd22025ce57bfa3e1ffb7239ce6822bed04998d4282e14be78ca6bcd64150"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-202-2019",
+   "path": "local/judet/hunedoara/2019/202",
+   "short": "HCJ Hunedoara nr. 202/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 202/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SITE%2028%20AUGUST%202019/HCJ%20202.pdf",
+     "sha256": "34cd7a1a4af7830e6cd43515ca9c79689b5be67e4c13196a4bf61b3fa2e9287c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-203-2019",
+   "path": "local/judet/hunedoara/2019/203",
+   "short": "HCJ Hunedoara nr. 203/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 203/2019 privind aprobarea notei conceptuale și a temei de proiectare pentru obiectivul de investiții: ”Intervenții în regim de urgență privind punerea în siguranță a obiectivelor – Carcer, Aeraria – aferente sitului arheologic Ulpia Traiana Sarmizegetusa”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SITE%2028%20AUGUST%202019/HCJ%20203.pdf",
+     "sha256": "6f05eaad9dc8954b9144daf85b6acf67fdcd7a957c569ce3402c439207b8defd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-204-2019",
+   "path": "local/judet/hunedoara/2019/204",
+   "short": "HCJ Hunedoara nr. 204/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 204/2019 privind aprobarea documentației tehnico-economice (faza DALI) și a indicatorilor tehnico-economici pentru obiectivul de investiții: ”Modernizare DJ 741: Crișcior – Bucureșci – Almașu Mic de Munte, km 12+450 – km 18+050”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SITE%2028%20AUGUST%202019/HCJ%20204.pdf",
+     "sha256": "0e6be2e0455ef7f1b5b517659b6223b0b5eb3992e86e7c267abb883e0df508f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-205-2019",
+   "path": "local/judet/hunedoara/2019/205",
+   "short": "HCJ Hunedoara nr. 205/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 205/2019 privind aprobarea documentației tehnico-economice (faza DALI) și a indicatorilor tehnico-economici pentru obiectivul de investiții: ”Modernizare DJ 672C: Limită Județul Gorj – Valea de Pești – DN 66 A, km 40+776 – 50+309”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SITE%2028%20AUGUST%202019/HCJ%20205.pdf",
+     "sha256": "8c7295f8eeb9fc5fd2314bcd6701c9cad7a53008078db6b80b71b8113a8fbe9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-206-2019",
+   "path": "local/judet/hunedoara/2019/206",
+   "short": "HCJ Hunedoara nr. 206/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 206/2019 privind aprobarea statului de funcții al Spitalului Județean de Urgență Deva",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SITE%2028%20AUGUST%202019/HCJ%20206.pdf",
+     "sha256": "59baf4fe2cacf337b2ae7c5510391b8e16d23afa784ad1929df95ac02e5717e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-207-2019",
+   "path": "local/judet/hunedoara/2019/207",
+   "short": "HCJ Hunedoara nr. 207/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 207/2019 privind modificarea Programului de lucrări de întreținere și reparații drumuri și poduri județene pe anul 2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SITE%2028%20AUGUST%202019/HCJ%20207.pdf",
+     "sha256": "4736f8a3542ec2be05494b219206f29620aeaa83705fa5928b3d76ff20ea6c6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-208-2019",
+   "path": "local/judet/hunedoara/2019/208",
+   "short": "HCJ Hunedoara nr. 208/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 208/2019 privind utilizarea excedentului anual al bugetului propriu al județului Hunedoara rezultat la închiderea exercițiului bugetar al anului 2018, ca sursă de finanțare a cheltuielilor secțiunii de dezvoltare și a unor cheltuieli din secțiunea de funcționare prevăzute în bugetul propriu al județului Hunedoara pe anul 2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SITE%2028%20AUGUST%202019/HCJ%20208.pdf",
+     "sha256": "197889fd61120f723d4edda8a0321865e65e1206898a83dc0b24acb6b47ddde7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-209-2019",
+   "path": "local/judet/hunedoara/2019/209",
+   "short": "HCJ Hunedoara nr. 209/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 209/2019 privind aprobarea rectificării bugetului propriu al Județului Hunedoara, virărilor de credite bugetare în cadrul bugetului propriu, precum și modificarea programului de investiții, anexă la buget, pe anul 2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SITE%2028%20AUGUST%202019/HCJ%20209.pdf",
+     "sha256": "0884336f5224f9b057606a9aa9b5358376be90691e13c3f79c4130d5b05a3461"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-21-2019",
+   "path": "local/judet/hunedoara/2019/21",
+   "short": "HCJ Hunedoara nr. 21/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 21/2019 pentru funcțiile din familia ocupațională ”Administrație” din cadrul Agenției de Dezvoltare Economico-Socială a Județului Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/02%20HOT%20SCAN%2031%20IAN%202019/HCJH%2021.pdf",
+     "sha256": "d9620eee41d9c1483788591134ce3b3d328d41123b23cafbfd73e9562794e714"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-210-2019",
+   "path": "local/judet/hunedoara/2019/210",
+   "short": "HCJ Hunedoara nr. 210/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 210/2019 privind aprobarea rectificării bugetelor de venituri și cheltuieli pe anul 2019, precum și modificarea programului de investiții, anexă la buget, ale unor instituții aflate în subordinea și finanțarea Consiliului Județean Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SITE%2028%20AUGUST%202019/HCJ%20210.pdf",
+     "sha256": "7a9c9acf799fb1be9ad35a2b5c23832759a1550de877d25eac62d61e4dcf3783"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-211-2019",
+   "path": "local/judet/hunedoara/2019/211",
+   "short": "HCJ Hunedoara nr. 211/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 211/2019 privind aprobarea rectificării bugetului de venituri și cheltuieli al Spitalului Județean de Urgență Deva, precum și modificarea programului de investiții anexă la buget, pe anul 2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SITE%2028%20AUGUST%202019/HCJ%20211.pdf",
+     "sha256": "513ff4f3d699fc1c54521813b0f780b9f7e9ee79021321d7cf69bc1f662e58e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-212-2019",
+   "path": "local/judet/hunedoara/2019/212",
+   "short": "HCJ Hunedoara nr. 212/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 212/2019 privind aprobarea organigramei, a statului de funcții și a Regulamentului de organizare și funcționare ale Direcției Generale de Asistență Socială și Protecția Copilului Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SITE%2028%20AUGUST%202019/HCJ%20212.pdf",
+     "sha256": "6aab3b03e5a24571c82ebaa9b0ef122253cc4c7e0e29bc5f45300b798f2d4665"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-213-2019",
+   "path": "local/judet/hunedoara/2019/213",
+   "short": "HCJ Hunedoara nr. 213/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 213/2019 privind aprobarea Acordului de colaborare și înfrățire între Județul Hunedoara din România și Raionul Strășeni din Republica Moldova",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SITE%2028%20AUGUST%202019/HCJ%20213.pdf",
+     "sha256": "a81b3f445c0bb0b871d95bba355010459038db37d7bbb9262c159a9df71feccd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-214-2019",
+   "path": "local/judet/hunedoara/2019/214",
+   "short": "HCJ Hunedoara nr. 214/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 214/2019 privind aprobarea notei conceptuale și a temei de proiectare pentru obiectivul de investiții: ”Reparații capitale la acoperișul Muzeului de Istorie Locală și Etnografie Brad”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SITE%2028%20AUGUST%202019/HCJ%20214.pdf",
+     "sha256": "e96824ce3063d6bdc83feb00792359db2d3a30251ac771f8778a36e02573e2a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-215-2019",
+   "path": "local/judet/hunedoara/2019/215",
+   "short": "HCJ Hunedoara nr. 215/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 215/2019 privind aprobarea documentației tehnico-economice (faza SF) și a indicatorilor tehnico-economici pentru obiectivul de investiții:„Realizarea unor intervenții temporare (adăposturi provizorii pentru oameni, toalete ecologice, montarea a două panouri fotovoltaice, completarea cu pământ a suprafețelor erodate de ploi), montarea unor borne topografice și realizarea unui sondaj geotehnic” în situl arhe",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SITE%2028%20AUGUST%202019/HCJ%20215.pdf",
+     "sha256": "3625f471068203b518aeb5a987c7897c1470cb28659b990725329f6bff0f1e89"
     }
    ]
   },
@@ -123,6 +1863,681 @@
    ]
   },
   {
+   "slug": "hcj-hunedoara-217-2019",
+   "path": "local/judet/hunedoara/2019/217",
+   "short": "HCJ Hunedoara nr. 217/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 217/2019 privind modificarea și completarea Hotărârii de consiliu județean nr.141/2019 privind adoptarea unor măsuri pentru îndeplinirea obligațiilor de mediu referitoare la închiderea depozitului neconform de deșeuri menajere Uricani",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SITE%2028%20AUGUST%202019/HCJ%20217.pdf",
+     "sha256": "eb083ce49cbf4474d8db8e0c71ee8bdbf3dfcc78016ddf1faeed479ee44fcc0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-218-2019",
+   "path": "local/judet/hunedoara/2019/218",
+   "short": "HCJ Hunedoara nr. 218/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 218/2019 privind aprobarea documentației tehnico-economice (faza SF) și a indicatorilor tehnico-economici pentru obiectivul de investiții: „Inchiderea depozitului neconform de deșeuri menajere Uricani”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SITE%2028%20AUGUST%202019/HCJ%20218.pdf",
+     "sha256": "b2fd153ffe798268a85d574599e73b0291e53c9fd5d562a9ce300a24978a1c27"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-219-2019",
+   "path": "local/judet/hunedoara/2019/219",
+   "short": "HCJ Hunedoara nr. 219/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 219/2019 privind aprobarea Proiectului „Inchiderea depozitului neconform de deșeuri menajere Uricani din județul Hunedoara” și aplicarea în cadrul Programului privind închiderea depozitului de deșeuri municipale neconforme",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SITE%2028%20AUGUST%202019/HCJ%20219.pdf",
+     "sha256": "6794f7a9ef1959b500dae69b8dbb478f063175047fcc643abc0d2b212470dfa2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-22-2019",
+   "path": "local/judet/hunedoara/2019/22",
+   "short": "HCJ Hunedoara nr. 22/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 22/2019 pentru funcțiile din familia ocupațională ”Administrație” din cadrul Serviciului Public Județean Salvamont",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/02%20HOT%20SCAN%2031%20IAN%202019/HCJH%2022.pdf",
+     "sha256": "6e4f5ec81e0d248e3842e4a3589c764e74018f4c8e430ddcf2e34d2a0cba9cd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-220-2019",
+   "path": "local/judet/hunedoara/2019/220",
+   "short": "HCJ Hunedoara nr. 220/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 220/2019 privind solicitarea de preluare în administrarea Consiliului Județean Hunedoara a unor drumuri aparținând proprietății publice a Comunei Sarmizegetusa, care asigură accesul rutier la situl arheologic „Ulpia Traiana Sarmizegetusa”, în vederea realizării unor lucrări de modernizare sau reabilitare",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SITE%2028%20AUGUST%202019/HCJ%20220.pdf",
+     "sha256": "decdee425339a51feb5c696c96a89843989bc1da8f2bd2042de8afb2895451a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-221-2019",
+   "path": "local/judet/hunedoara/2019/221",
+   "short": "HCJ Hunedoara nr. 221/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 221/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-09-11",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SCAN%2011%20SEPTEMBRIE%202019/HCJH%20221.pdf",
+     "sha256": "2ab956eddb14c77ee578f5c83b6c18ac58e137df32b8fc0c0e7b9e71969c4bad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-222-2019",
+   "path": "local/judet/hunedoara/2019/222",
+   "short": "HCJ Hunedoara nr. 222/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 222/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-09-11",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SCAN%2011%20SEPTEMBRIE%202019/HCJH%20222.pdf",
+     "sha256": "107a305f5dd999a67987f0c9d3b6f8206a6b3455ab6b7d7ff8808a535618e7c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-223-2019",
+   "path": "local/judet/hunedoara/2019/223",
+   "short": "HCJ Hunedoara nr. 223/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 223/2019 privind aprobarea documentației tehnico-economice (faza SF) și a indicatorilor tehnico-economici pentru obiectivul de investiții: ”Închiderea depozitului neconform de deșeuri menajere Uricani din Județul Hunedoara”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-09-19",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SCAN%2019%20SEPT%202019/HCJH%20223.pdf",
+     "sha256": "fa0179a2a3cbd6289bd37c080eb18ad8c43398f064f20a4f8efdc702ec84c181"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-224-2019",
+   "path": "local/judet/hunedoara/2019/224",
+   "short": "HCJ Hunedoara nr. 224/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 224/2019 privind aprobarea proiectului ”Închiderea depozitului neconform de deșeuri menajere Uricani din Județul Hunedoara” și aplicarea în cadrul Programului privind închiderea depozitelor de deșeuri municipale neconforme",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-09-19",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SCAN%2019%20SEPT%202019/HCJH%20224.pdf",
+     "sha256": "51bb1896979608786936fb13c4054da172824cc704d0978de7621dd714b1da79"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-225-2019",
+   "path": "local/judet/hunedoara/2019/225",
+   "short": "HCJ Hunedoara nr. 225/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 225/2019 pentru anul şcolar 2019 – 2020",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SCAN%2030%20SEPT%202019/HCJH%20225.pdf",
+     "sha256": "04d5c206e85c5684e420d33fa5db6276242b857d076c59041c1ae9c274be4d90"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-226-2019",
+   "path": "local/judet/hunedoara/2019/226",
+   "short": "HCJ Hunedoara nr. 226/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 226/2019 pentru Educație Incluzivă ”Rudolf Steiner” pentru anul şcolar 2019 – 2020",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SCAN%2030%20SEPT%202019/HCJH%20226.pdf",
+     "sha256": "5817bf35713108ed737ec723c1a39a6a774f1289e27d444b5c3bee79ba28dae2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-227-2019",
+   "path": "local/judet/hunedoara/2019/227",
+   "short": "HCJ Hunedoara nr. 227/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 227/2019 pentru anul şcolar 2019 – 2020",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SCAN%2030%20SEPT%202019/HCJH%20227.pdf",
+     "sha256": "b7ef94442cb8ce95b1a11196e78031148f2655f7f904baae784c7a50348b7ec4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-228-2019",
+   "path": "local/judet/hunedoara/2019/228",
+   "short": "HCJ Hunedoara nr. 228/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 228/2019 pentru anul şcolar 2019 – 2020",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SCAN%2030%20SEPT%202019/HCJH%20228.pdf",
+     "sha256": "5675e4aa44515d8f703db103d49236904ac1cb87c17d08a160e189fcec16937d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-229-2019",
+   "path": "local/judet/hunedoara/2019/229",
+   "short": "HCJ Hunedoara nr. 229/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 229/2019 privind stabilirea consumului lunar de combustibil pentru autoturismele și autospecialele din parcul auto al Consiliului Județean Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SCAN%2030%20SEPT%202019/HCJH%20229.pdf",
+     "sha256": "d4fd061a49cc2b30ed2366c3fb907418b0842101c11c1a5c27392d35b9cc945f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-23-2019",
+   "path": "local/judet/hunedoara/2019/23",
+   "short": "HCJ Hunedoara nr. 23/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 23/2019 pentru funcțiile din familia ocupațională ”Administrație” din cadrul Serviciului Public de Administrare a Monumentelor Istorice",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/02%20HOT%20SCAN%2031%20IAN%202019/HCJH%2023.pdf",
+     "sha256": "b1b233a9d09cbcb0333905bd6879399d6108d78186e2e76602b0652a3728b526"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-230-2019",
+   "path": "local/judet/hunedoara/2019/230",
+   "short": "HCJ Hunedoara nr. 230/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 230/2019 pentru proba scrisă, practică sau clinică pentru ocuparea postului vacant de șef secție I Pneumoftiziologie la Sanatoriul de Pneumoftiziologie Geoagiu",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SCAN%2030%20SEPT%202019/HCJH%20230.pdf",
+     "sha256": "aa713611363ff3629385b4f67b693993ae55dce45f188aad0f62af2ca711ae7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-231-2019",
+   "path": "local/judet/hunedoara/2019/231",
+   "short": "HCJ Hunedoara nr. 231/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 231/2019 pentru proba scrisă, practică sau clinică pentru ocuparea postului vacant de șef secție II Pneumoftiziologie la Sanatoriul de Pneumoftiziologie Brad",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SCAN%2030%20SEPT%202019/HCJH%20231.pdf",
+     "sha256": "0d674e08ef597c46508253689b243f8d963dfc52f62f425000e9e39f77b65fa1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-232-2019",
+   "path": "local/judet/hunedoara/2019/232",
+   "short": "HCJ Hunedoara nr. 232/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 232/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SCAN%2030%20SEPT%202019/HCJH%20232.pdf",
+     "sha256": "9c91090b7f66f99cd4ac45c1eee532e59a235af46e10711a4b74cc16ab76d28b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-233-2019",
+   "path": "local/judet/hunedoara/2019/233",
+   "short": "HCJ Hunedoara nr. 233/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 233/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SCAN%2030%20SEPT%202019/HCJH%20233.pdf",
+     "sha256": "9ed39db379601bbf79aa509697927c1a2244d14a6d0c2d03bf7dafd90034aaca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-234-2019",
+   "path": "local/judet/hunedoara/2019/234",
+   "short": "HCJ Hunedoara nr. 234/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 234/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SCAN%2030%20SEPT%202019/HCJH%20234.pdf",
+     "sha256": "a09bfa3eab680c4460df88cbc34a7a4a786c8fd5805ecda942eaf11a89ee8e20"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-235-2019",
+   "path": "local/judet/hunedoara/2019/235",
+   "short": "HCJ Hunedoara nr. 235/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 235/2019 pentru drumurile județene",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SCAN%2030%20SEPT%202019/HCJH%20235%20ANONIMIZAte%20NUME%20ADRESA.pdf",
+     "sha256": "556035bac91f608bb2ec9ed685f10ef48f79e9247091d35f9ffe23316ef5148e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-236-2019",
+   "path": "local/judet/hunedoara/2019/236",
+   "short": "HCJ Hunedoara nr. 236/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 236/2019 pentru proiectul ”Alimentare cu apă potabilă stațiunea turistică Straja Lupeni”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SCAN%2030%20SEPT%202019/HCJH%20236.pdf",
+     "sha256": "d4c170560d6d7780c0d03377e1e305bcfdad384fdcf2ae66fef8267f1a31219c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-237-2019",
+   "path": "local/judet/hunedoara/2019/237",
+   "short": "HCJ Hunedoara nr. 237/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 237/2019 pentru obiectivul de investiții: ”Conservare, restaurare și punere în valoare a Sitului arheologic Sarmizegetusa Regia Dealul Grădiștii” sat Grădiștea de Munte, comuna Orăștioara de Sus, județul Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SCAN%2030%20SEPT%202019/HCJH%20237.pdf",
+     "sha256": "62b4f9d8fdb90832718c395577be8a7b5d5e3db5fc1e405443a30a0d9a393864"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-238-2019",
+   "path": "local/judet/hunedoara/2019/238",
+   "short": "HCJ Hunedoara nr. 238/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 238/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SCAN%2030%20SEPT%202019/HCJH%20238.pdf",
+     "sha256": "eee5d9cbcf566d91d82d1a927d443eddc32f8980c16a7288497229a3762f01f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-239-2019",
+   "path": "local/judet/hunedoara/2019/239",
+   "short": "HCJ Hunedoara nr. 239/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 239/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SCAN%2030%20SEPT%202019/HCJH%20239.pdf",
+     "sha256": "7687433515b97fc1f920fc54ad8bafc5dd9efcfb097488c76834b88732c42ed2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-24-2019",
+   "path": "local/judet/hunedoara/2019/24",
+   "short": "HCJ Hunedoara nr. 24/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 24/2019 pentru funcțiile din familia ocupațională ”Administrație” din cadrul Direcției Publice Comunitare de Evidență a Persoanelor Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/02%20HOT%20SCAN%2031%20IAN%202019/HCJH%2024.pdf",
+     "sha256": "f5663f463c1ded00fe99e9f103ee4c0204fc8ac38f9c0e78b201efcdb4430701"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-240-2019",
+   "path": "local/judet/hunedoara/2019/240",
+   "short": "HCJ Hunedoara nr. 240/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 240/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SCAN%2030%20SEPT%202019/HCJH%20240.pdf",
+     "sha256": "8dca44b93ff4282be530afaab447ed7a1c359b5901c0315e6e01eecd7a872682"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-241-2019",
+   "path": "local/judet/hunedoara/2019/241",
+   "short": "HCJ Hunedoara nr. 241/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 241/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SCAN%2030%20SEPT%202019/HCJH%20241.pdf",
+     "sha256": "a89d6c4bdcb7cf35e30817304d5c2ddd11c7e5911bcd12f144b8ab2216d7df0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-242-2019",
+   "path": "local/judet/hunedoara/2019/242",
+   "short": "HCJ Hunedoara nr. 242/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 242/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SCAN%2030%20SEPT%202019/HCJH%20242.pdf",
+     "sha256": "27d7b867697515550b9847707fb7f2b06bc4138ddfa1e5297a70002636e2f0ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-243-2019",
+   "path": "local/judet/hunedoara/2019/243",
+   "short": "HCJ Hunedoara nr. 243/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 243/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SCAN%2030%20SEPT%202019/HCJH%20243.pdf",
+     "sha256": "3ab4854fc8508307c0046b9eceac385b9c62acd02823e34ba86e65b31ba0ee8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-244-2019",
+   "path": "local/judet/hunedoara/2019/244",
+   "short": "HCJ Hunedoara nr. 244/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 244/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SCAN%2030%20SEPT%202019/HCJH%20244.pdf",
+     "sha256": "1d1324e8b21b6d1cea5f771d36903ee6de9dfacaf68bc9119b4edf3c15d1e977"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-245-2019",
+   "path": "local/judet/hunedoara/2019/245",
+   "short": "HCJ Hunedoara nr. 245/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 245/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SCAN%2030%20SEPT%202019/HCJH%20245.pdf",
+     "sha256": "0368e607c7e14f76dd3c71f2bfc2be1c1590a9fed3e536dcf7068439e0c04502"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-246-2019",
+   "path": "local/judet/hunedoara/2019/246",
+   "short": "HCJ Hunedoara nr. 246/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 246/2019 pentru completarea anexei la Hotărârea Consiliului Județean Hunedoara nr.246/2019 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Județean Hunedoara; doc",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SCAN%2030%20SEPT%202019/HCJH%20246.pdf",
+     "sha256": "8c8f93c6b6342dace7bf21d6fed251e8b4eacc6daed41c724c98e25fd2407724"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-247-2019",
+   "path": "local/judet/hunedoara/2019/247",
+   "short": "HCJ Hunedoara nr. 247/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 247/2019 PENTRU PRIETENI – IN MEMORIAM TATIANA STEPA”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SCAN%2030%20SEPT%202019/HCJH%20247.pdf",
+     "sha256": "3b0285d66648c1a61f3ce6b29ea3ebf60dd2b99617f79b87f3dfa37e657da510"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-248-2019",
+   "path": "local/judet/hunedoara/2019/248",
+   "short": "HCJ Hunedoara nr. 248/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 248/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SCAN%2030%20SEPT%202019/HCJH%20248.pdf",
+     "sha256": "3f1245eaa9e6081d444c7659b4bcf470c5655af9f07fa8ab81cbc38abef6e112"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-249-2019",
+   "path": "local/judet/hunedoara/2019/249",
+   "short": "HCJ Hunedoara nr. 249/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 249/2019 pentru transportul rutier contra cost de persoane prin servicii regulate",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SCAN%2030%20SEPT%202019/HCJH%20249.pdf",
+     "sha256": "9b08793353fd5b3d2a0c0d8554610802dc6a00c5dbfcbf370ca314de391e4a09"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-25-2019",
+   "path": "local/judet/hunedoara/2019/25",
+   "short": "HCJ Hunedoara nr. 25/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 25/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/02%20HOT%20SCAN%2031%20IAN%202019/HCJH%2025.pdf",
+     "sha256": "884e78872c4b0fa48e549880ef15e463a76b5c78367e10fb110ae5aeea4b9304"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-250-2019",
+   "path": "local/judet/hunedoara/2019/250",
+   "short": "HCJ Hunedoara nr. 250/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 250/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-10-16",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/20%20HOT%20SCAN%2016%20OCT%202019/HCJH%20250.pdf",
+     "sha256": "6f02c2dde87e775e0a7503f516451a1a79834a2c406aa2fe3fc14ae2be0b046b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-251-2019",
+   "path": "local/judet/hunedoara/2019/251",
+   "short": "HCJ Hunedoara nr. 251/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 251/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-10-16",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/20%20HOT%20SCAN%2016%20OCT%202019/HCJH%20251.pdf",
+     "sha256": "0f1c92a46dd599a6c5809fb376311fa8f22a62340b4d8e7b8a5b0769f82a56e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-252-2019",
+   "path": "local/judet/hunedoara/2019/252",
+   "short": "HCJ Hunedoara nr. 252/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 252/2019 pentru obiectivul de investiții ”Reamenajare spațiu expozițional la Galeriile de Artă Forma Deva”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-10-16",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/20%20HOT%20SCAN%2016%20OCT%202019/HCJH%20252.pdf",
+     "sha256": "a5ae98a38770d5a70babecbc6a011503ae6638a7ac984b29a400ec850db706e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-253-2019",
+   "path": "local/judet/hunedoara/2019/253",
+   "short": "HCJ Hunedoara nr. 253/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 253/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-10-16",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/20%20HOT%20SCAN%2016%20OCT%202019/HCJH%20253.pdf",
+     "sha256": "a0ad3fc4abdedc728619aa45745a3aa94656044e95cb95dc6920347daf3095c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-254-2019",
+   "path": "local/judet/hunedoara/2019/254",
+   "short": "HCJ Hunedoara nr. 254/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 254/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/21%20HOT%20SCAN%2031%20OCT%202019/HCJH%20254.pdf",
+     "sha256": "d03b91771a112c4fc03ac4a04ca43e181b946cf6e0f46a741345dbbe22ddf253"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-255-2019",
+   "path": "local/judet/hunedoara/2019/255",
+   "short": "HCJ Hunedoara nr. 255/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 255/2019 pentru anul şcolar 2019 – 2020",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/21%20HOT%20SCAN%2031%20OCT%202019/HCJH%20255.pdf",
+     "sha256": "503a15a978dc4dcb169e2c87f7fb8ba043583d674ac079693b2111718460f08b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-256-2019",
+   "path": "local/judet/hunedoara/2019/256",
+   "short": "HCJ Hunedoara nr. 256/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 256/2019 pentru anul şcolar 2019 – 2020",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/21%20HOT%20SCAN%2031%20OCT%202019/HCJH%20256.pdf",
+     "sha256": "679ebab3a112eb1c0203c07c01e33d4adb71029ddfc39f3636af3695e8dac281"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-257-2019",
+   "path": "local/judet/hunedoara/2019/257",
+   "short": "HCJ Hunedoara nr. 257/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 257/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/21%20HOT%20SCAN%2031%20OCT%202019/HCJH%20257.pdf",
+     "sha256": "7e22070cc29fcd90de1de800f4d40d8afcdc58fae26dd7db9f8e8558c792f9f1"
+    }
+   ]
+  },
+  {
    "slug": "hcj-hunedoara-258-2019",
    "path": "local/judet/hunedoara/2019/258",
    "short": "HCJ Hunedoara nr. 258/2019",
@@ -134,6 +2549,351 @@
      "units": 1,
      "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/21%20HOT%20SCAN%2031%20OCT%202019/HCJH%20258.pdf",
      "sha256": "ae81945854b2dbefefc205571f9f9cfff9b82b86dddf4d432f53684b6860be9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-259-2019",
+   "path": "local/judet/hunedoara/2019/259",
+   "short": "HCJ Hunedoara nr. 259/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 259/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/21%20HOT%20SCAN%2031%20OCT%202019/HCJH%20259.pdf",
+     "sha256": "f952826ec6251e4bca7033a5212aaf3f39c52345f7e5f521190574ae8ea6b99e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-260-2019",
+   "path": "local/judet/hunedoara/2019/260",
+   "short": "HCJ Hunedoara nr. 260/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 260/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/21%20HOT%20SCAN%2031%20OCT%202019/HCJH%20260.pdf",
+     "sha256": "1ec5fed29444bfd8bbaf52ee1ca3cfa6df04c98af5becdd4d6fa567ca5eeb75a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-261-2019",
+   "path": "local/judet/hunedoara/2019/261",
+   "short": "HCJ Hunedoara nr. 261/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 261/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/21%20HOT%20SCAN%2031%20OCT%202019/HCJH%20261.pdf",
+     "sha256": "4fe17cb46989bfccbb4c74dd807485118e239c9b86ca7a00ce0ec9f2f9265f99"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-262-2019",
+   "path": "local/judet/hunedoara/2019/262",
+   "short": "HCJ Hunedoara nr. 262/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 262/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/21%20HOT%20SCAN%2031%20OCT%202019/HCJH%20262.pdf",
+     "sha256": "a4137831f77cad72ceadcd0bf7c0550f194fca60723886f737c294476521045e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-263-2019",
+   "path": "local/judet/hunedoara/2019/263",
+   "short": "HCJ Hunedoara nr. 263/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 263/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/21%20HOT%20SCAN%2031%20OCT%202019/HCJH%20263.pdf",
+     "sha256": "8b9b21e5c8e5fe6b91565cc80ad79257a2fa263881322546ba83ff388cad37ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-264-2019",
+   "path": "local/judet/hunedoara/2019/264",
+   "short": "HCJ Hunedoara nr. 264/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 264/2019 pentru ocuparea funcției de director medical la Sanatoriul de Pneumoftiziologie Brad",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/21%20HOT%20SCAN%2031%20OCT%202019/HCJH%20264.pdf",
+     "sha256": "8ee46a7a5870d9d1e79155ddf0a6569ddaee569a723ce159c9375df560e0b65a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-265-2019",
+   "path": "local/judet/hunedoara/2019/265",
+   "short": "HCJ Hunedoara nr. 265/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 265/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/21%20HOT%20SCAN%2031%20OCT%202019/HCJH%20265.pdf",
+     "sha256": "fea23873548bf118457affbfb673a382d6c6e35826150a8ae93e8fb757dc587c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-266-2019",
+   "path": "local/judet/hunedoara/2019/266",
+   "short": "HCJ Hunedoara nr. 266/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 266/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/21%20HOT%20SCAN%2031%20OCT%202019/HCJH%20266.pdf",
+     "sha256": "a9ab79e8ba7d6473ea6394789c0ce3a564aa13534fdd6db74e816e65c8ce75ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-267-2019",
+   "path": "local/judet/hunedoara/2019/267",
+   "short": "HCJ Hunedoara nr. 267/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 267/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/21%20HOT%20SCAN%2031%20OCT%202019/HCJH%20267.pdf",
+     "sha256": "275c739136363ea5de5bdcd1eba1fad60b4648bbdd61c64191bbaa92b7babe1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-268-2019",
+   "path": "local/judet/hunedoara/2019/268",
+   "short": "HCJ Hunedoara nr. 268/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 268/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/21%20HOT%20SCAN%2031%20OCT%202019/HCJH%20268.pdf",
+     "sha256": "f1224a95682920143f4752b6a44fe58e46dfdb3f496bdc3afec9f3927fba9afd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-269-2019",
+   "path": "local/judet/hunedoara/2019/269",
+   "short": "HCJ Hunedoara nr. 269/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 269/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/21%20HOT%20SCAN%2031%20OCT%202019/HCJH%20269.pdf",
+     "sha256": "841d49b11c42867b53348ea54308bb012a0375e89bbdee7bfa868b6628cc9833"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-27-2019",
+   "path": "local/judet/hunedoara/2019/27",
+   "short": "HCJ Hunedoara nr. 27/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 27/2019 pentru obiectivul de investiții ”Linie verde de autobuze electrice între Petrila-Petroșani-Aninoasa-Vulcan-Lupeni-Uricani Green Line Valea Jiului - componenta 1”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-02-15",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/03%20HOT%20SCAN%2015%20FEB%202019/HCJH%2027.pdf",
+     "sha256": "936016ae52398ab276ef3dddb58935ea56b79d55be48a33644e1548c585d1393"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-270-2019",
+   "path": "local/judet/hunedoara/2019/270",
+   "short": "HCJ Hunedoara nr. 270/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 270/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/21%20HOT%20SCAN%2031%20OCT%202019/HCJH%20270.pdf",
+     "sha256": "03905e43b63ed830fa63f53f47e5f31a74a24395544518895ee9582226fa1a96"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-271-2019",
+   "path": "local/judet/hunedoara/2019/271",
+   "short": "HCJ Hunedoara nr. 271/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 271/2019 privind aprobarea indicatorilor tehnico-economici și a documentației tehnico-economice pentru obiectivul de investiții „Conservare, restaurare la Amfiteatrul din cadrul sitului arheologic Ulpia Traiana Sarmizegetusa” din cadrul Programului Operaţional Regional 2014 - 2020, Axa prioritară 5 „Îmbunătăţirea mediului urban şi conservarea, protecţia şi valorificarea durabilă a patrimoniului cultural“",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/21%20HOT%20SCAN%2031%20OCT%202019/HCJH%20271.pdf",
+     "sha256": "b2f2943d8b3d38ba760ad9bcf9abf93bd8f6bfdf306f5643f7134fc46ea137e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-272-2019",
+   "path": "local/judet/hunedoara/2019/272",
+   "short": "HCJ Hunedoara nr. 272/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 272/2019 privind aprobarea devizului general revizuit pentru obiectivul de investiții: ”Modernizare Centrul de Îngrijire și Asistență nr.1 Păclișa”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/21%20HOT%20SCAN%2031%20OCT%202019/HCJH%20272.pdf",
+     "sha256": "205f212fd3af25d1372db12b484e7c037fae1778f1d04d3ae55c5f0af1fc4f2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-273-2019",
+   "path": "local/judet/hunedoara/2019/273",
+   "short": "HCJ Hunedoara nr. 273/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 273/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/21%20HOT%20SCAN%2031%20OCT%202019/HCJH%20273.pdf",
+     "sha256": "dfba3578deb468c8ee2198cdddd33b78f801c36a61ab13f9c269dd9bd9a398d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-274-2019",
+   "path": "local/judet/hunedoara/2019/274",
+   "short": "HCJ Hunedoara nr. 274/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 274/2019 pentru obiectivul de investiții ”Modernizare DJ 687, Sântuhalm – Hunedoara-Călan, km 13+050- km 22+791” din cadrul Programului Operaţional Regional 2014 – 2020, Axa prioritara 6 –„Îmbunătățirea infrastructurii rutiere de importanță regională”, Prioritatea de investiții 6.1 „Stimularea mobilitații regionale prin conectarea nodurilor secundare și terțiare la infrastructura TEN -T, inclusiv a noduril",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/21%20HOT%20SCAN%2031%20OCT%202019/HCJH%20274.pdf",
+     "sha256": "d9b1e5384ee015adae1267184dc8964f02cbe70ce944b20120a3a060e7a8d501"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-275-2019",
+   "path": "local/judet/hunedoara/2019/275",
+   "short": "HCJ Hunedoara nr. 275/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 275/2019 pentru obiectivul de investiții: ”Capitala Daciei – muzeu viu al patrimoniului cultural european”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/21%20HOT%20SCAN%2031%20OCT%202019/HCJH%20275.pdf",
+     "sha256": "e4ead46e12c4f002993b8fe7fb4dd3daaa4c8da6e4c0bcf15145c4c6e84972a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-276-2019",
+   "path": "local/judet/hunedoara/2019/276",
+   "short": "HCJ Hunedoara nr. 276/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 276/2019 pentru obiectivul de investiții: ”Modernizare DJ 709F: DN7A – Cabana Rusu – Masivul Parâng, km.6+600 – km.10+325”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/21%20HOT%20SCAN%2031%20OCT%202019/HCJH%20276.pdf",
+     "sha256": "9cc317d21fb730030a60f28d82c8fe06835db23675e33483216db9c482d916f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-28-2019",
+   "path": "local/judet/hunedoara/2019/28",
+   "short": "HCJ Hunedoara nr. 28/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 28/2019 pentru obiectivul de investiții ”Linie verde de autobuze electrice între Petrila-Petroșani-Aninoasa-Vulcan-Lupeni-Uricani Green Line Valea Jiului - componenta 2”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-02-15",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/03%20HOT%20SCAN%2015%20FEB%202019/HCJH%2028.pdf",
+     "sha256": "7efdf72095067a5dbb5e10d898a25c62bc725ea6fa2ea922035139939a1d1589"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-29-2019",
+   "path": "local/judet/hunedoara/2019/29",
+   "short": "HCJ Hunedoara nr. 29/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 29/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-02-15",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/03%20HOT%20SCAN%2015%20FEB%202019/HCJH%2029.pdf",
+     "sha256": "60ba771176978701d9b73813294921b915e5351fe8e6297326e6ea4f1be8113a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-298-2019",
+   "path": "local/judet/hunedoara/2019/298",
+   "short": "HCJ Hunedoara nr. 298/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 298/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-12-05",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/24%20HOT%20SCAN%205%20DEC%202019/HCJH%20298.pdf",
+     "sha256": "08aefc7dcc1935a189d01a2482debd55b532e213d8e4b1e2323d1eaabfd4dc9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-299-2019",
+   "path": "local/judet/hunedoara/2019/299",
+   "short": "HCJ Hunedoara nr. 299/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 299/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-12-05",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/24%20HOT%20SCAN%205%20DEC%202019/HCJH%20299.pdf",
+     "sha256": "03d4df1815284d22b6834d8af1f72cc7fb696120e365adcbdfc47990874852b0"
     }
    ]
   },
@@ -153,6 +2913,411 @@
    ]
   },
   {
+   "slug": "hcj-hunedoara-30-2019",
+   "path": "local/judet/hunedoara/2019/30",
+   "short": "HCJ Hunedoara nr. 30/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 30/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-02-15",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/03%20HOT%20SCAN%2015%20FEB%202019/HCJH%2030.pdf",
+     "sha256": "9249930782f0100f43363be23a5ef756a3a183afe7bee48db824bbd64a373a5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-300-2019",
+   "path": "local/judet/hunedoara/2019/300",
+   "short": "HCJ Hunedoara nr. 300/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 300/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-12-05",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/24%20HOT%20SCAN%205%20DEC%202019/HCJH%20300.pdf",
+     "sha256": "9217cc1bcdf8f3c614203395a470b925881c07ac654224fcd71559f9ca7a52e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-301-2019",
+   "path": "local/judet/hunedoara/2019/301",
+   "short": "HCJ Hunedoara nr. 301/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 301/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-12-20",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/25%20HOT%20SCAN%2020%20DEC%202019/HCJH%20301.pdf",
+     "sha256": "3838a7c611ce103056677b595bf3c84b55d1abfd8e3d08105ccc2e47547d588c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-302-2019",
+   "path": "local/judet/hunedoara/2019/302",
+   "short": "HCJ Hunedoara nr. 302/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 302/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-12-20",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/25%20HOT%20SCAN%2020%20DEC%202019/HCJH%20302.pdf",
+     "sha256": "aafe05e40d94ad2aadc506aaa63b8d35f31a9e9e6cfd6d92cb8202fefaaf39d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-303-2019",
+   "path": "local/judet/hunedoara/2019/303",
+   "short": "HCJ Hunedoara nr. 303/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 303/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-12-20",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/25%20HOT%20SCAN%2020%20DEC%202019/HCJH%20303.pdf",
+     "sha256": "cac789034716954b797a3db53f529f12ed289d085c93fc2c1f4a6e97fdebeaac"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-304-2019",
+   "path": "local/judet/hunedoara/2019/304",
+   "short": "HCJ Hunedoara nr. 304/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 304/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-12-20",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/25%20HOT%20SCAN%2020%20DEC%202019/HCJH%20304.pdf",
+     "sha256": "92490231a9753073bf69739b0dafe50321986c3e842c9032dd7e30bf22d1935d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-305-2019",
+   "path": "local/judet/hunedoara/2019/305",
+   "short": "HCJ Hunedoara nr. 305/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 305/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-12-20",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/25%20HOT%20SCAN%2020%20DEC%202019/HCJH%20305.pdf",
+     "sha256": "fbdbff10c784a11b8049bc0bf96a2d9ce7390cfde60cc69f7388cb16963b2dd9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-306-2019",
+   "path": "local/judet/hunedoara/2019/306",
+   "short": "HCJ Hunedoara nr. 306/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 306/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-12-20",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/25%20HOT%20SCAN%2020%20DEC%202019/HCJH%20306.pdf",
+     "sha256": "4b06a03e4383702e857ee0fc0795d0fa987439806b0afd5e9713ed91e8e2aed8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-307-2019",
+   "path": "local/judet/hunedoara/2019/307",
+   "short": "HCJ Hunedoara nr. 307/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 307/2019 pentru trimestrul IV 2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-12-20",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/25%20HOT%20SCAN%2020%20DEC%202019/HCJH%20307.pdf",
+     "sha256": "8ae77595d229590877eb180be4aa799bc9bd748016c2a86031b18f5bb784b1f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-308-2019",
+   "path": "local/judet/hunedoara/2019/308",
+   "short": "HCJ Hunedoara nr. 308/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 308/2019 pentru trimestrul IV 2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-12-20",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/25%20HOT%20SCAN%2020%20DEC%202019/HCJH%20308.pdf",
+     "sha256": "e35e73e6289338a92cb98f36468cb8245ab513fe94ad59f82f31f163088ff794"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-309-2019",
+   "path": "local/judet/hunedoara/2019/309",
+   "short": "HCJ Hunedoara nr. 309/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 309/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-12-20",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/25%20HOT%20SCAN%2020%20DEC%202019/HCJH%20309.pdf",
+     "sha256": "1ae097c62a13bdfa1bdaa21416118af6b3a5feb566d7dbf31b16e388386fd710"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-31-2019",
+   "path": "local/judet/hunedoara/2019/31",
+   "short": "HCJ Hunedoara nr. 31/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 31/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-02-15",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/03%20HOT%20SCAN%2015%20FEB%202019/HCJH%2031.pdf",
+     "sha256": "9dbbeaeb4418cfaec856f4b7d6b1c70cbfa19ac16f3b6aff63a4d1f26ad69ecc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-310-2019",
+   "path": "local/judet/hunedoara/2019/310",
+   "short": "HCJ Hunedoara nr. 310/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 310/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-12-20",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/25%20HOT%20SCAN%2020%20DEC%202019/HCJH%20310.pdf",
+     "sha256": "2d0319648d4db44d4b3e57a2f7f3a535e70e3d044251fd8cba8ce9bb9bf1577a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-311-2019",
+   "path": "local/judet/hunedoara/2019/311",
+   "short": "HCJ Hunedoara nr. 311/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 311/2019 pentru obiectivul de investiții ”Restaurare Castel Nopcsa, sat Săcel, comuna Sântămăria Orlea, județul Hunedoara”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-12-20",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/25%20HOT%20SCAN%2020%20DEC%202019/HCJH%20311.pdf",
+     "sha256": "2dc73b4b9a9733c1c07889cadff09a80000f6a31afbc4a1cf7d7c58c57dff901"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-312-2019",
+   "path": "local/judet/hunedoara/2019/312",
+   "short": "HCJ Hunedoara nr. 312/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 312/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-12-20",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/25%20HOT%20SCAN%2020%20DEC%202019/HCJH%20312.pdf",
+     "sha256": "49ff3e1180b52ff64e4a7f509d728c53cd7118a7c49e65b06469c9ea63d9f6f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-313-2019",
+   "path": "local/judet/hunedoara/2019/313",
+   "short": "HCJ Hunedoara nr. 313/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 313/2019 pentru modificarea art.2 al Hotărârii Consiliului Județean Hunedoara nr. 313/2019 privind aprobarea cuantumului contribuției lunare a beneficiarilor de servicii, acordate de Unitatea de Asistență Medico-Socială Baia de Criș, Județul Hunedoara; Doc",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-12-20",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/25%20HOT%20SCAN%2020%20DEC%202019/HCJH%20313.pdf",
+     "sha256": "870badc815c671fafffbf1ba19b6fc2c5ad9ed4921d8f165664fc89f83628c1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-314-2019",
+   "path": "local/judet/hunedoara/2019/314",
+   "short": "HCJ Hunedoara nr. 314/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 314/2019 pentru obiectivul de investiții: ”Reabilitare DJ 709F: DN7A-Cabana Rusu-Masivul Parâng, km.4+910 – km. 6+600”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-12-20",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/25%20HOT%20SCAN%2020%20DEC%202019/HCJH%20314.pdf",
+     "sha256": "44d9f087323bc5ef6ab265cc86104295175755a36695996ea54562fc5170bc32"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-315-2019",
+   "path": "local/judet/hunedoara/2019/315",
+   "short": "HCJ Hunedoara nr. 315/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 315/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-12-20",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/25%20HOT%20SCAN%2020%20DEC%202019/HCJH%20315.pdf",
+     "sha256": "6409d8c825bcf241e7321a4fc895e3f8cf265eced44b99b72e3741e80ef0fbef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-316-2019",
+   "path": "local/judet/hunedoara/2019/316",
+   "short": "HCJ Hunedoara nr. 316/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 316/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-12-20",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/25%20HOT%20SCAN%2020%20DEC%202019/HCJH%20316%20%20anonomizat.pdf",
+     "sha256": "fb54c79e4f5f3e93506644f9e36a200a1e8b60489c761e5e909cdf882878e119"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-32-2019",
+   "path": "local/judet/hunedoara/2019/32",
+   "short": "HCJ Hunedoara nr. 32/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 32/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-02-15",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/03%20HOT%20SCAN%2015%20FEB%202019/HCJH%2032.pdf",
+     "sha256": "2ec98e943e075986f78818b058de373439acf209f5fc6586a05bd7a929b8b5e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-33-2019",
+   "path": "local/judet/hunedoara/2019/33",
+   "short": "HCJ Hunedoara nr. 33/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 33/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/04%20HOT%20SCAN%2028%20FEB%202019/HCJH%2033.pdf",
+     "sha256": "fcaf4b2a096e4de007ea2efadb759c919c921adc3a2c39a718a2ec5b17122edd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-34-2019",
+   "path": "local/judet/hunedoara/2019/34",
+   "short": "HCJ Hunedoara nr. 34/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 34/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/04%20HOT%20SCAN%2028%20FEB%202019/HCJH%2034.pdf",
+     "sha256": "17b10a4279412932dc009d161c2dfa035a23317e9faf0bd329535a5a64fcdbab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-35-2019",
+   "path": "local/judet/hunedoara/2019/35",
+   "short": "HCJ Hunedoara nr. 35/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 35/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/04%20HOT%20SCAN%2028%20FEB%202019/HCJH%2035.pdf",
+     "sha256": "daf923c1dc62124410f60480090aff8977ed3c1283eff17c351c5abd763f8f51"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-36-2019",
+   "path": "local/judet/hunedoara/2019/36",
+   "short": "HCJ Hunedoara nr. 36/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 36/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/04%20HOT%20SCAN%2028%20FEB%202019/HCJH%2036.pdf",
+     "sha256": "a3a170ee944cbcff5e94fb544bce5f979f3d240b9ff3adb84ffc06d2424cb532"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-37-2019",
+   "path": "local/judet/hunedoara/2019/37",
+   "short": "HCJ Hunedoara nr. 37/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 37/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/04%20HOT%20SCAN%2028%20FEB%202019/HCJH%2037.pdf",
+     "sha256": "8570e0dc4318a31b8ec50cd896f5b2ede5504d5fab0e6b41d3c15cca3d91cf24"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-38-2019",
+   "path": "local/judet/hunedoara/2019/38",
+   "short": "HCJ Hunedoara nr. 38/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 38/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/04%20HOT%20SCAN%2028%20FEB%202019/HCJH%2038.pdf",
+     "sha256": "6fde243bcec1d753c71f77e225a4e7eb4d6925dd7c2868dddd2cd65faa874db9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-39-2019",
+   "path": "local/judet/hunedoara/2019/39",
+   "short": "HCJ Hunedoara nr. 39/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 39/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/04%20HOT%20SCAN%2028%20FEB%202019/HCJH%2039.pdf",
+     "sha256": "9915e03ab6f25862d3a3df1da53c6cb63b6a4484c4708d170e07abac0c21b597"
+    }
+   ]
+  },
+  {
    "slug": "hcj-hunedoara-4-2019",
    "path": "local/judet/hunedoara/2019/4",
    "short": "HCJ Hunedoara nr. 4/2019",
@@ -164,6 +3329,156 @@
      "units": 1,
      "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/01%20HOT%20SCAN%204%20IAN%202019/HCJH%204.pdf",
      "sha256": "785fd28935ba5d186b1e62e919b2c43071e0eb5a01ebb15ff3e0dec2866aaa45"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-40-2019",
+   "path": "local/judet/hunedoara/2019/40",
+   "short": "HCJ Hunedoara nr. 40/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 40/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/04%20HOT%20SCAN%2028%20FEB%202019/HCJH%2040.pdf",
+     "sha256": "16bb1596e3aca8a6cb8cc65f4bbcd592d51ee2158ab01ebbf00bbf1a3ff658f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-41-2019",
+   "path": "local/judet/hunedoara/2019/41",
+   "short": "HCJ Hunedoara nr. 41/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 41/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/04%20HOT%20SCAN%2028%20FEB%202019/HCJH%2041.pdf",
+     "sha256": "fc63dfa5169bbb62db3c02a41ef7511f7937ce26e1b542235580ff9bc42e9e8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-42-2019",
+   "path": "local/judet/hunedoara/2019/42",
+   "short": "HCJ Hunedoara nr. 42/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 42/2019 pentru proba scrisă, practică sau clinică pentru ocuparea postului vacant de șef secție II Pneumoftiziologie la Sanatoriul de Pneumoftiziologie Brad",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/04%20HOT%20SCAN%2028%20FEB%202019/HCJH%2042.pdf",
+     "sha256": "7406d530da8a5fbfa72a082f5fbcc2c28c999b8b125abeb46d21217339bbc23f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-43-2019",
+   "path": "local/judet/hunedoara/2019/43",
+   "short": "HCJ Hunedoara nr. 43/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 43/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/04%20HOT%20SCAN%2028%20FEB%202019/HCJH%2043.pdf",
+     "sha256": "5c832620a3f3fa9308aecc0aa7de94faea177a0ca38c7cf4908152f74ec61f33"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-44-2019",
+   "path": "local/judet/hunedoara/2019/44",
+   "short": "HCJ Hunedoara nr. 44/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 44/2019 pentru obiectivul de investiții „Modernizare și dotare laborator radiologie și imagistică medicală, laborator de medicină nucleară, extindere pentru cabinet pediatrie în cadrul ambulatoriului integrat al Spitalului Județean de Urgență Deva – județul Hunedoara”, Axa prioritară 8, Prioritatea de investiții 8.1, Obiectiv specific 8.1, Operațiunea A – Ambulatorii, Apel de proiecte POR/2017/8/8.1/8.1.A",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-03-07",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/05%20HOT%20SCAN%207%20MARTIE%202019/HCJH%2044.pdf",
+     "sha256": "48df51b568a420e2469ef9522a08dea60ab1f78e45661d31497a4bf767e49c0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-45-2019",
+   "path": "local/judet/hunedoara/2019/45",
+   "short": "HCJ Hunedoara nr. 45/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 45/2019 pentru cabinet pediatrie în cadrul ambulatoriului integrat al Spitalului Județean de Urgență Deva – județul Hunedoara”, Axa prioritară 8, Prioritatea de investiții 8.1, Obiectiv specific 8.1, Operațiunea A – Ambulatorii, Apel de proiecte POR/2017/8/ 8.1/8.1.A/1/7 regiuni, precum și a cheltuielilor legate de acest proiect",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-03-07",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/05%20HOT%20SCAN%207%20MARTIE%202019/HCJH%2045.pdf",
+     "sha256": "681d8e148dc9fb5f3c5420943a371fa058566ad411984388ceb0a656d0038c19"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-46-2019",
+   "path": "local/judet/hunedoara/2019/46",
+   "short": "HCJ Hunedoara nr. 46/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 46/2019 pentru ocuparea funcției de director medical la Sanatoriul de Pneumoftiziologie Geoagiu",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-03-07",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/05%20HOT%20SCAN%207%20MARTIE%202019/HCJH%2046.pdf",
+     "sha256": "8a6f4bac895c6eba709067058f3a7870e9962bce14de9945d182234fdcd10cc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-47-2019",
+   "path": "local/judet/hunedoara/2019/47",
+   "short": "HCJ Hunedoara nr. 47/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 47/2019 privind aprobarea documentației tehnice ”Studiu de Fezabilitate” şi a indicatorilor tehnico-economici pentru obiectivul de investiții ”Linie verde de autobuze electrice între Petrila-Petroșani-Aninoasa-Vulcan-Lupeni-Uricani Green Line Valea Jiului - componenta 1”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-03-21",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/06%20HOT%20SCAN%2021%20MARTIE%202019/HCJH%2047.pdf",
+     "sha256": "3c036927a4602d079eed8d674feb2712a07480a03979ead0fbf7b3b4d76204da"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-48-2019",
+   "path": "local/judet/hunedoara/2019/48",
+   "short": "HCJ Hunedoara nr. 48/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 48/2019 privind aprobarea documentației tehnice ”Studiu de Fezabilitate” şi a indicatorilor tehnico-economici pentru obiectivul de investiții ”Linie verde de autobuze electrice între Petrila-Petroșani-Aninoasa-Vulcan-Lupeni-Uricani Green Line Valea Jiului - componenta 2”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-03-21",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/06%20HOT%20SCAN%2021%20MARTIE%202019/HCJH%2048.pdf",
+     "sha256": "6de77ebc7e01722f9e7f2356a2b5973e48e1572bf02139c0e647772db8d9669e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-49-2019",
+   "path": "local/judet/hunedoara/2019/49",
+   "short": "HCJ Hunedoara nr. 49/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 49/2019 privind aprobarea proiectului ”Linie verde de autobuze electrice între Petrila-Petroșani-Aninoasa-Vulcan-Lupeni-Uricani Green Line Valea Jiului – componenta 1” și a cheltuielilor legate de proiect în cadrul Programului Operaţional Regional 2014 – 2020, Axa prioritară 3, Prioritatea de investiție 4e, Obiectiv specific 3.2 - Reducerea emisiilor de carbon în zonele urbane bazată pe planurile de mobil",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-03-21",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/06%20HOT%20SCAN%2021%20MARTIE%202019/HCJH%2049.pdf",
+     "sha256": "a6f66e070e33cf9a99f05531475895d4fbca44d2ff74d1c63c946a04876d8831"
     }
    ]
   },
@@ -183,6 +3498,156 @@
    ]
   },
   {
+   "slug": "hcj-hunedoara-50-2019",
+   "path": "local/judet/hunedoara/2019/50",
+   "short": "HCJ Hunedoara nr. 50/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 50/2019 privind aprobarea proiectului ”Linie verde de autobuze electrice între Petrila-Petroșani-Aninoasa-Vulcan-Lupeni-Uricani Green Line Valea Jiului – componenta 2” și a cheltuielilor legate de proiect în cadrul Programului Operaţional Regional 2014 – 2020, Axa prioritară 3, Prioritatea de investiție 4e, Obiectiv specific 3.2 - Reducerea emisiilor de carbon în zonele urbane bazată pe planurile de mobil",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-03-21",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/06%20HOT%20SCAN%2021%20MARTIE%202019/HCJH%2050.pdf",
+     "sha256": "c3b2893758baa3015f16f42303dfb632b29c3f67086132c754e9687f00fb2977"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-51-2019",
+   "path": "local/judet/hunedoara/2019/51",
+   "short": "HCJ Hunedoara nr. 51/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 51/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-03-21",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/06%20HOT%20SCAN%2021%20MARTIE%202019/HCJH%2051.pdf",
+     "sha256": "db49c003d9ba20a0da44484e135c4259ddda6f07e23feb1ea4a195bfcb4bcc63"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-52-2019",
+   "path": "local/judet/hunedoara/2019/52",
+   "short": "HCJ Hunedoara nr. 52/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 52/2019 pentru echilibrarea bugetelor locale pe anul 2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-03-21",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/06%20HOT%20SCAN%2021%20MARTIE%202019/HCJH%2052.pdf",
+     "sha256": "7515c0573b3b75369c18fc9a341788e8a9f268ac0c8fd019123cbd55c0721085"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-53-2019",
+   "path": "local/judet/hunedoara/2019/53",
+   "short": "HCJ Hunedoara nr. 53/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 53/2019 pentru obiectivul de investiții ”Modernizare DJ 687J: Hunedoara-Boș-Groș-Cerbăl-Socet-Feregi, tronson km.21+400 – km.24+900 și tronson km.25+600 – km.27+400”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-03-21",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/06%20HOT%20SCAN%2021%20MARTIE%202019/HCJH%2053.pdf",
+     "sha256": "b01cc136ba70670b685343f1ad529d95199fb63ea098bc6b6da2b1d71667549a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-54-2019",
+   "path": "local/judet/hunedoara/2019/54",
+   "short": "HCJ Hunedoara nr. 54/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 54/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-03-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/07%20HOT%20SCAN%2029%20MARTIE%202019/HCJH%2054.pdf",
+     "sha256": "4ead4f85515e5ea384c8ece24e0b7da83491d688f410015575cd7c4906acd1b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-55-2019",
+   "path": "local/judet/hunedoara/2019/55",
+   "short": "HCJ Hunedoara nr. 55/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 55/2019 pentru punerea în valoare a cetăților dacice din Munții Orăștiei – monumente înscrise în Lista patrimoniului mondial UNESCO",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-03-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/07%20HOT%20SCAN%2029%20MARTIE%202019/HCJH%2055.pdf",
+     "sha256": "4a7de17eef7969f826606e53b9847600f451c15323e8e7ebb01bb965063e6ab3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-56-2019",
+   "path": "local/judet/hunedoara/2019/56",
+   "short": "HCJ Hunedoara nr. 56/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 56/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-03-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/07%20HOT%20SCAN%2029%20MARTIE%202019/HCJH%2056.pdf",
+     "sha256": "096516959c61fc89ee07f3436f81ddf90e6121edb933e8527788d81bd0f50871"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-57-2019",
+   "path": "local/judet/hunedoara/2019/57",
+   "short": "HCJ Hunedoara nr. 57/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 57/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-03-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/07%20HOT%20SCAN%2029%20MARTIE%202019/HCJH%2057.pdf",
+     "sha256": "0fee6729f483204669982aaa792e34b3c99f03feae314a4e272a5037fe9ade6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-58-2019",
+   "path": "local/judet/hunedoara/2019/58",
+   "short": "HCJ Hunedoara nr. 58/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 58/2019 pentru ocuparea funcției de director medical la Sanatoriul de Pneumoftiziologie Brad",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-03-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/07%20HOT%20SCAN%2029%20MARTIE%202019/HCJH%2058.pdf",
+     "sha256": "806ca1a98d3f8088634586e2a2238be7769c0fcd6c78eda377bbcd728c02b901"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-59-2019",
+   "path": "local/judet/hunedoara/2019/59",
+   "short": "HCJ Hunedoara nr. 59/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 59/2019 pentru proba scrisă, practică sau clinică pentru ocuparea funcţiei de şef laborator la Laboratorul Analize Medicale din cadrul Spitalului Judeţean de Urgenţă Deva",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-03-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/07%20HOT%20SCAN%2029%20MARTIE%202019/HCJH%2059.pdf",
+     "sha256": "6e2926b7d6fdab1481e4b37234b851bb24c8ef9c5b5c5f038228b2d3c63571a0"
+    }
+   ]
+  },
+  {
    "slug": "hcj-hunedoara-6-2019",
    "path": "local/judet/hunedoara/2019/6",
    "short": "HCJ Hunedoara nr. 6/2019",
@@ -194,6 +3659,36 @@
      "units": 1,
      "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/02%20HOT%20SCAN%2031%20IAN%202019/HCJH%206.pdf",
      "sha256": "d286510ecaa747bf5239e7924d1e3dad5b2fdd341a32946c780f07ea7e19b321"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-60-2019",
+   "path": "local/judet/hunedoara/2019/60",
+   "short": "HCJ Hunedoara nr. 60/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 60/2019 pentru o viață în siguranță” – Cod proiect mysmis 128038 din cadrul Programului Operațional Capital Uman 2014-2020, AP 4/PI 9.ii/OS 4.4",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-03-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/07%20HOT%20SCAN%2029%20MARTIE%202019/HCJH%2060.pdf",
+     "sha256": "30edebb38a7d96e873d1c22de54a2e8e514fb8879b69fb73773911f77402959d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-61-2019",
+   "path": "local/judet/hunedoara/2019/61",
+   "short": "HCJ Hunedoara nr. 61/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 61/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-03-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/07%20HOT%20SCAN%2029%20MARTIE%202019/HCJH%2061.pdf",
+     "sha256": "9fda7187474db3deda1a142b6982b933a24d05604c60947f7ce56c0c9facb998"
     }
    ]
   },
@@ -213,6 +3708,111 @@
    ]
   },
   {
+   "slug": "hcj-hunedoara-63-2019",
+   "path": "local/judet/hunedoara/2019/63",
+   "short": "HCJ Hunedoara nr. 63/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 63/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-03-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/07%20HOT%20SCAN%2029%20MARTIE%202019/HCJH%2063.pdf",
+     "sha256": "0b4645cae790acb544967fdf821ae22406d76e16f298379de0d41839d01b5fe2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-64-2019",
+   "path": "local/judet/hunedoara/2019/64",
+   "short": "HCJ Hunedoara nr. 64/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 64/2019 privind abrogarea Hotărârii Consiliului Județean Hunedoara nr.64/2019 privind stabilirea modului de administrare a imobilului fostă cazarmă militară dezafectată 5159 Pestișu Mare; doc:",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-03-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/07%20HOT%20SCAN%2029%20MARTIE%202019/HCJH%2064.pdf",
+     "sha256": "32aafeb08570caff0931a4d716e57a21e8dc15b9dac45453ae16d41626161b9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-65-2019",
+   "path": "local/judet/hunedoara/2019/65",
+   "short": "HCJ Hunedoara nr. 65/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 65/2019 pentru obiectivul de investiții „Modernizare și dotare laborator radiologie și imagistică medicală, laborator de medicină nucleară, extindere pentru cabinet pediatrie în cadrul ambulatoriului integrat al Spitalului Județean de Urgență Deva – județul Hunedoara”, Axa prioritară 8, Prioritatea de investiții 8.1, Obiectiv specific 8.1, Operațiunea A – Ambulatorii, Apel de proiecte POR/2017/8/8.1/8.1.A",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-03-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/07%20HOT%20SCAN%2029%20MARTIE%202019/HCJH%2065.pdf",
+     "sha256": "d0ca806297ecc8f5f9b39b8c077d1907777df2218828b1016f34f7f0e2dbab47"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-66-2019",
+   "path": "local/judet/hunedoara/2019/66",
+   "short": "HCJ Hunedoara nr. 66/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 66/2019 pentru cabinet pediatrie în cadrul ambulatoriului integrat al Spitalului Județean de Urgență Deva – județul Hunedoara”, Axa prioritară 8, Prioritatea de investiții 8.1, Obiectiv specific 8.1, Operațiunea A – Ambulatorii, Apel de proiecte POR/2017/8/ 8.1/8.1.A/1/7 regiuni, precum și a cheltuielilor legate de acest proiect",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-03-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/07%20HOT%20SCAN%2029%20MARTIE%202019/HCJH%2066.pdf",
+     "sha256": "57b35241cfac7ea9d86df44b650201321e5033675463f3de38d4c71ecce2e930"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-67-2019",
+   "path": "local/judet/hunedoara/2019/67",
+   "short": "HCJ Hunedoara nr. 67/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 67/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-03-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/07%20HOT%20SCAN%2029%20MARTIE%202019/HCJH%2067.pdf",
+     "sha256": "e1bc8603f6f76d3dfaf6378dbfa40996aa8482c8f4cd56685ad129ef693911cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-68-2019",
+   "path": "local/judet/hunedoara/2019/68",
+   "short": "HCJ Hunedoara nr. 68/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 68/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-03-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/07%20HOT%20SCAN%2029%20MARTIE%202019/HCJH%2068.pdf",
+     "sha256": "1a5b882a02bd4b6b1add49f61892fe154521dd443f2620e2a4954b25c973deff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-69-2019",
+   "path": "local/judet/hunedoara/2019/69",
+   "short": "HCJ Hunedoara nr. 69/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 69/2019 pentru obiectivul de investiții: ”Modernizare DJ 709F DN7A Cabana Rusu – Masivul Parâng, km.6+600 – km. 10+325”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-03-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/07%20HOT%20SCAN%2029%20MARTIE%202019/HCJH%2069.pdf",
+     "sha256": "d279e292b224ff2814c796e12191e6681433f51dc82422519f55311d812a5d64"
+    }
+   ]
+  },
+  {
    "slug": "hcj-hunedoara-7-2019",
    "path": "local/judet/hunedoara/2019/7",
    "short": "HCJ Hunedoara nr. 7/2019",
@@ -224,6 +3824,156 @@
      "units": 1,
      "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/02%20HOT%20SCAN%2031%20IAN%202019/HCJH%207.pdf",
      "sha256": "3485bfc8fd4a3028515b2e7457849b1dbdb5d492c48576d35ca16c33bb1529d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-70-2019",
+   "path": "local/judet/hunedoara/2019/70",
+   "short": "HCJ Hunedoara nr. 70/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 70/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-03-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/07%20HOT%20SCAN%2029%20MARTIE%202019/HCJH%2070.pdf",
+     "sha256": "943b4b02482f9eb9bced82bea319e9cd0896d62e9421580e2d1a067b114e1559"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-71-2019",
+   "path": "local/judet/hunedoara/2019/71",
+   "short": "HCJ Hunedoara nr. 71/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 71/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-03-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/07%20HOT%20SCAN%2029%20MARTIE%202019/HCJH%2071.pdf",
+     "sha256": "e1b27650f7377b9b7da9e73d12507dfca8d23a74420b522644a6585c8ddd6669"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-72-2019",
+   "path": "local/judet/hunedoara/2019/72",
+   "short": "HCJ Hunedoara nr. 72/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 72/2019 pentru modificarea Hotărârii Consiliului Județean Hunedoara nr.27/2019 privind aprobarea documentației tehnice Studiu de Fezabilitate și a indicatorilor tehnico-economici pentru obiectivul de investiții „Linie verde de autobuze electrice între Petrila-Petroșani-Aninoasa-Vulcan-Lupeni-Uricani Green Line Valea Jiului – componenta 1”, modificată prin Hotărârea Consiliului Județean Hunedoara nr.47/201",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-04-04",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/078%20HOT%20SCAN%204%20APRILIE%202019/HCJ%20nr.72.pdf",
+     "sha256": "05466ad312a6835bcfc0f9104e79b968c112aee2e999d412f7fbd890f06bdcdd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-73-2019",
+   "path": "local/judet/hunedoara/2019/73",
+   "short": "HCJ Hunedoara nr. 73/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 73/2019 pentru modificarea Hotărârii Consiliului Județean Hunedoara nr.28/2019 privind aprobarea documentației tehnice Studiu de Fezabilitate și a indicatorilor tehnico-economici pentru investiția „Linie verde de autobuze electrice între Petrila-Petroșani-Aninoasa-Vulcan-Lupeni-Uricani Green Line Valea Jiului – componenta 2”, modificată prin Hotărârea Consiliului Județean Hunedoara nr.48/2019; Anexa 1 ; A",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-04-04",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/078%20HOT%20SCAN%204%20APRILIE%202019/HCJ%20nr.73.pdf",
+     "sha256": "ae23c184cbcf66cd9c581b7d2fc38599015ca207c9b6aabfe523a08c289a18b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-74-2019",
+   "path": "local/judet/hunedoara/2019/74",
+   "short": "HCJ Hunedoara nr. 74/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 74/2019 pentru modificarea art.1 al Hotărârii Consiliului Județean Hunedoara nr.29/2019 privind aprobarea proiectului „Linie verde de autobuze electrice între Petrila-Petroșani-Aninoasa-Vulcan-Lupeni-Uricani Green Line Valea Jiului – componenta 1” și a cheltuielilor legate de proiect în cadrul Programului Operațional Regional 2014-2020, Axa prioritară 3, Prioritatea de investiție 4e, Obiectiv specific 3.2",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-04-04",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/078%20HOT%20SCAN%204%20APRILIE%202019/HCJ%20nr.74.pdf",
+     "sha256": "f3824adc9a4f2687bf684feeddbf0d2f41e55af37aabbf082d90bfa67e25720b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-75-2019",
+   "path": "local/judet/hunedoara/2019/75",
+   "short": "HCJ Hunedoara nr. 75/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 75/2019 pentru modificarea hotărârii Consiliului Județean Hunedoara nr.30/2019 privind aprobarea proiectului „Linie verde de autobuze electrice între Petrila-Petroșani-Aninoasa-Vulcan-Lupeni-Uricani Green Line Valea Jiului – componenta 2” și a cheltuielilor legate de proiect în cadrul Programului Operațional Regional 2014-2010, Axa prioritară 3, Prioritatea de investiție 4e, Obiectiv specific 3.2 – Reduce",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-04-04",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/078%20HOT%20SCAN%204%20APRILIE%202019/HCJ%20nr.75.pdf",
+     "sha256": "c3faf539a4ceec128943b38b580dadbe7586dbbf817953ac0fe6ab1be1e081ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-76-2019",
+   "path": "local/judet/hunedoara/2019/76",
+   "short": "HCJ Hunedoara nr. 76/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 76/2019 privind aprobarea transmiterii către Consiliul Local al Comunei Cerbăl a dreptului de administrare asupra drumului județean DJ 708D pe sectorul: km 35+860 – km 37+660",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-04-04",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/078%20HOT%20SCAN%204%20APRILIE%202019/HCJ%20nr.76.pdf",
+     "sha256": "706bcbb05f9e70f3b48f138c95b7d7ac019427ef209a42171921d5ae6b5b3463"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-77-2019",
+   "path": "local/judet/hunedoara/2019/77",
+   "short": "HCJ Hunedoara nr. 77/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 77/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/08%20HOT%20SCAN%2019%20APRILIE%202019/HCJH%2077.pdf",
+     "sha256": "598ca1042eee836d4ebc491894cf68309f868d480519bf9812f61ed0601334b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-78-2019",
+   "path": "local/judet/hunedoara/2019/78",
+   "short": "HCJ Hunedoara nr. 78/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 78/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/08%20HOT%20SCAN%2019%20APRILIE%202019/HCJH%2078.pdf",
+     "sha256": "c1ab2366cb8dac9f6391d852ff4ab20351929af8506ba375dfafbead4bdd5536"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-79-2019",
+   "path": "local/judet/hunedoara/2019/79",
+   "short": "HCJ Hunedoara nr. 79/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 79/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/08%20HOT%20SCAN%2019%20APRILIE%202019/HCJH%2079.pdf",
+     "sha256": "12cfb8caf435a72ee350efc6a268b0cd49f9f471d6fe8a1e9e6b17eb8ee3e849"
     }
    ]
   },
@@ -243,6 +3993,156 @@
    ]
   },
   {
+   "slug": "hcj-hunedoara-80-2019",
+   "path": "local/judet/hunedoara/2019/80",
+   "short": "HCJ Hunedoara nr. 80/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 80/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/08%20HOT%20SCAN%2019%20APRILIE%202019/HCJH%2080.pdf",
+     "sha256": "b6ed6d4804355de17a0e33319774c53cbcda5e0c92163c28ac4db875ddc59616"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-81-2019",
+   "path": "local/judet/hunedoara/2019/81",
+   "short": "HCJ Hunedoara nr. 81/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 81/2019 pentru drumurile județene și comunale alocate județului Hunedoara pe anul 2019 și estimările pentru anii 2020 – 2022",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/08%20HOT%20SCAN%2019%20APRILIE%202019/HCJH%2081.pdf",
+     "sha256": "085de0436b6fda8a99a41377ed6d306fec14dee528dbc6b82e0126253f55279e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-82-2019",
+   "path": "local/judet/hunedoara/2019/82",
+   "short": "HCJ Hunedoara nr. 82/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 82/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/08%20HOT%20SCAN%2019%20APRILIE%202019/HCJH%2082.pdf",
+     "sha256": "2ec9353d61cd730b7d55779c694ac5538f019bea791b94738c4fb994d69613fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-83-2019",
+   "path": "local/judet/hunedoara/2019/83",
+   "short": "HCJ Hunedoara nr. 83/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 83/2019 pentru anii 2020-2022 ale instituţiilor publice din subordinea și/sau finanțarea Consiliului Judeţean Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/08%20HOT%20SCAN%2019%20APRILIE%202019/HCJH%2083.pdf",
+     "sha256": "4d48e8bf558864481ce4e67d50e105bc9c875a62a0e01631de86cf31f56dc07e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-84-2019",
+   "path": "local/judet/hunedoara/2019/84",
+   "short": "HCJ Hunedoara nr. 84/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 84/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/08%20HOT%20SCAN%2019%20APRILIE%202019/HCJH%2084.pdf",
+     "sha256": "71ae50444958144949c31ed83fa3afe0934fd48575a0f671a9f4be69669e50b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-85-2019",
+   "path": "local/judet/hunedoara/2019/85",
+   "short": "HCJ Hunedoara nr. 85/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 85/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/08%20HOT%20SCAN%2019%20APRILIE%202019/HCJH%2085.pdf",
+     "sha256": "6230615f443ea0d96940e7bc4061c4bf484aa2f3c36daf809d98bb813c368a78"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-86-2019",
+   "path": "local/judet/hunedoara/2019/86",
+   "short": "HCJ Hunedoara nr. 86/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 86/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/08%20HOT%20SCAN%2019%20APRILIE%202019/HCJH%2086.pdf",
+     "sha256": "6f58530ccbb9ae8f95b07f2682b87f93936aab4d94a2990d92ff8ebf4bb0d5f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-87-2019",
+   "path": "local/judet/hunedoara/2019/87",
+   "short": "HCJ Hunedoara nr. 87/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 87/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/08%20HOT%20SCAN%2019%20APRILIE%202019/HCJH%2087.pdf",
+     "sha256": "14dc5b590f5e0b17f75fb2c641d17bb6054dd8b67013d578d06b3d20c29a2d7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-88-2019",
+   "path": "local/judet/hunedoara/2019/88",
+   "short": "HCJ Hunedoara nr. 88/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 88/2019 pentru funcționarea Asociației de Dezvoltare Intercomunitară ”Serviciul județean pentru ocrotirea animalelor fără stăpân”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/08%20HOT%20SCAN%2019%20APRILIE%202019/HCJH%2088.pdf",
+     "sha256": "ef3076987cab8daa510648e4a08d49a7dfe2d6fd894bb978b44dfa64220778d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-89-2019",
+   "path": "local/judet/hunedoara/2019/89",
+   "short": "HCJ Hunedoara nr. 89/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 89/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/08%20HOT%20SCAN%2019%20APRILIE%202019/HCJH%2089.pdf",
+     "sha256": "59b5d752cebceae4771420a5c2548d76a9d4c7ba93115c755ec0f065a38556cd"
+    }
+   ]
+  },
+  {
    "slug": "hcj-hunedoara-9-2019",
    "path": "local/judet/hunedoara/2019/9",
    "short": "HCJ Hunedoara nr. 9/2019",
@@ -254,6 +4154,156 @@
      "units": 1,
      "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/02%20HOT%20SCAN%2031%20IAN%202019/HCJH%209.pdf",
      "sha256": "a25cf30fad283f912320fe3c4b8756eb65da895fad808312ef160db17a90b73c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-90-2019",
+   "path": "local/judet/hunedoara/2019/90",
+   "short": "HCJ Hunedoara nr. 90/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 90/2019 pentru anul bugetar 2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/08%20HOT%20SCAN%2019%20APRILIE%202019/HCJH%2090.pdf",
+     "sha256": "dc382f43ef31fb613d07f01fcacef0d1380586212298debb416404c33b48c523"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-91-2019",
+   "path": "local/judet/hunedoara/2019/91",
+   "short": "HCJ Hunedoara nr. 91/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 91/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/08%20HOT%20SCAN%2019%20APRILIE%202019/HCJH%2091.pdf",
+     "sha256": "e73bbce30bff5b77cacb4f4cfdfc5b9957a7754838770023bd9071de75bcb1ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-92-2019",
+   "path": "local/judet/hunedoara/2019/92",
+   "short": "HCJ Hunedoara nr. 92/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 92/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/08%20HOT%20SCAN%2019%20APRILIE%202019/HCJH%2092.pdf",
+     "sha256": "c955ce760491ba365baf0cc0050ff58cb8be13a0d28213a64d9a1b7a4f2f21ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-93-2019",
+   "path": "local/judet/hunedoara/2019/93",
+   "short": "HCJ Hunedoara nr. 93/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 93/2019 pentru care se pot acorda finanțări nerambursabile din fonduri publice, precum şi a comisiei de soluționare a contestațiilor și aprobarea Regulamentului de organizare şi funcţionare a acestora",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/08%20HOT%20SCAN%2019%20APRILIE%202019/HCJH%2093.pdf",
+     "sha256": "d14a1c26a2d42082abacaf4182cc1d540ef483053550d0ff71ee0283eec80147"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-94-2019",
+   "path": "local/judet/hunedoara/2019/94",
+   "short": "HCJ Hunedoara nr. 94/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 94/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/08%20HOT%20SCAN%2019%20APRILIE%202019/HCJH%2094.pdf",
+     "sha256": "48a4ee59394088454408878f50c6b49360d86473ac86763bf37ec5fbb27ff96e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-95-2019",
+   "path": "local/judet/hunedoara/2019/95",
+   "short": "HCJ Hunedoara nr. 95/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 95/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/08%20HOT%20SCAN%2019%20APRILIE%202019/HCJH%2095.pdf",
+     "sha256": "1e49d8a0a83299cf20d0a0eb41676f519f466d23ba6f4d7163cc4afcfac37448"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-96-2019",
+   "path": "local/judet/hunedoara/2019/96",
+   "short": "HCJ Hunedoara nr. 96/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 96/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/08%20HOT%20SCAN%2019%20APRILIE%202019/HCJH%2096.pdf",
+     "sha256": "018904a570581fca0ce768bdf0f2d79689a37c2c8dca899411d92aeadef53fa1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-97-2019",
+   "path": "local/judet/hunedoara/2019/97",
+   "short": "HCJ Hunedoara nr. 97/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 97/2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/08%20HOT%20SCAN%2019%20APRILIE%202019/HCJH%2097.pdf",
+     "sha256": "8277c42d2a68f7f434a507ea58ad2a3badf09786fb4a4f6301b2a12d2168048f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-98-2019",
+   "path": "local/judet/hunedoara/2019/98",
+   "short": "HCJ Hunedoara nr. 98/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 98/2019 privind serviciile sociale administrate și finanțate din bugetul Consiliului Județean Hunedoara pentru anul 2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/08%20HOT%20SCAN%2019%20APRILIE%202019/HCJH%2098.pdf",
+     "sha256": "3133af6c8049484001c8ac0fffd6da90f945fccfdb9e7fe97465b205e8895ff7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-99-2019",
+   "path": "local/judet/hunedoara/2019/99",
+   "short": "HCJ Hunedoara nr. 99/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 99/2019 privind protecția și promovarea drepturilor copilului și adultului în dificultate 2014 – 2020",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/08%20HOT%20SCAN%2019%20APRILIE%202019/HCJH%2099.pdf",
+     "sha256": "b8df324e9c52f5516c571f940c8fe2578e556dbd5c52df26373e35736eeb1fa1"
     }
    ]
   }

@@ -1,0 +1,139 @@
+{
+"country": "RO",
+"shard": "local/judet/ialomita/2020",
+"acts": [
+{
+"slug": "hcj-ialomita-37-2020",
+"path": "local/judet/ialomita/2020/37",
+"kind": "local",
+"year": "2020",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Ialomița nr. 37/2020 privind aprobarea rectificării bugetului general al județului Ialomița, pe anul 2020 PDF Anexa",
+"short": "HCJ Ialomița nr. 37/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+"council": "judet/ialomita",
+"council_name": "Consiliul Județean Ialomița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-ialomita-38-2020",
+"path": "local/judet/ialomita/2020/38",
+"kind": "local",
+"year": "2020",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Ialomița nr. 38/2020 privind Hotărâre privind aprobarea rectificării bugetului de venituri și cheltuieli al Spitalului Județean de Urgență Slobozia, pe anul 2020 PDF Anexă",
+"short": "HCJ Ialomița nr. 38/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+"council": "judet/ialomita",
+"council_name": "Consiliul Județean Ialomița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-ialomita-39-2020",
+"path": "local/judet/ialomita/2020/39",
+"kind": "local",
+"year": "2020",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Ialomița nr. 39/2020 privind modificarea anexei nr. 2 la Hotărârea Consiliului Judeţean Ialomiţa nr. 122 din 30.10.2019 privind aprobarea organigramei, statului de funcţii şi funcţiilor publice din cadrul aparatului de specialitate al Consiliului Judeţean Ialomiţa, cu modificările ulterioare PDF Anexă",
+"short": "HCJ Ialomița nr. 39/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+"council": "judet/ialomita",
+"council_name": "Consiliul Județean Ialomița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-ialomita-40-2020",
+"path": "local/judet/ialomita/2020/40",
+"kind": "local",
+"year": "2020",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Ialomița nr. 40/2020",
+"short": "HCJ Ialomița nr. 40/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": null,
+"council": "judet/ialomita",
+"council_name": "Consiliul Județean Ialomița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-ialomita-41-2020",
+"path": "local/judet/ialomita/2020/41",
+"kind": "local",
+"year": "2020",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Ialomița nr. 41/2020 privind aprobarea organigramei și statului de funcții ale Direcției Generale de Asistență Socială și Protecția Copilului Ialomița PDF Anexe",
+"short": "HCJ Ialomița nr. 41/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+"council": "judet/ialomita",
+"council_name": "Consiliul Județean Ialomița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-ialomita-47-2020",
+"path": "local/judet/ialomita/2020/47",
+"kind": "local",
+"year": "2020",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Ialomița nr. 47/2020 privind aprobarea rectificării bugetului general al județului Ialomița, pe anul 2020. PDF Anexă",
+"short": "HCJ Ialomița nr. 47/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-22",
+"latest": "2020-04-22",
+"portal": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+"council": "judet/ialomita",
+"council_name": "Consiliul Județean Ialomița",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

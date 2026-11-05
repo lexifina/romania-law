@@ -267,6 +267,28 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcj-olt-112-2026",
+"path": "local/judet/olt/2026/112",
+"kind": "local",
+"year": "2026",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Olt nr. 112/2026 cu privire la aprobarea rezultatului final obținut de managerul Muzeului Județean Olt în cadrul procedurii de analizare a noului proiect de management elaborat pentru Muzeul Județean Olt, aprobarea proiectului de management și a duratei pentru care se va încheia noul contract de management, precum și cu privire la numirea managerului Muzeului Județean Olt",
+"short": "HCJ Olt nr. 112/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-12",
+"latest": "2026-08-12",
+"portal": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2026/",
+"council": "judet/olt",
+"council_name": "Consiliul Județean Olt",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

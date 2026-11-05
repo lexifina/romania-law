@@ -3,6 +3,96 @@
  "shard": "local/judet/mures/2026",
  "acts": [
   {
+   "slug": "hcj-mures-100-2026",
+   "path": "local/judet/mures/2026/100",
+   "short": "HCJ Mureș nr. 100/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 100/2026 privind modificarea Hotărârii Consiliului Județean Mureș nr.193/21.11.2024 pentru aprobarea structurii organizatorice, organigramei și statului de funcții ale Spitalului Municipal „Dr",
+   "url": "https://ro.cjmures.ro/consiliul-judetean/hotarari/hotararea-nr-100-din-30-iulie-2026-privind-modificarea-hotararii-consiliului-judetean-mures-nr-193-21-11-2024-pentru-aprobarea-structurii-organizatorice-organigramei-si-statului-de-functii-ale-spita",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/07/hot-100.pdf",
+     "sha256": "9f6638f928e84a0610b9752a78623f9fce57d2b90334d1b8a983f8e46b2b37db"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-101-2026",
+   "path": "local/judet/mures/2026/101",
+   "short": "HCJ Mureș nr. 101/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 101/2026 privind aprobarea unor măsuri pentru realizarea obiectivului de investiții „Reabilitare energetică și lucrări conexe – extindere mansardă existentă, la Secția de Pneumologie, str",
+   "url": "https://ro.cjmures.ro/consiliul-judetean/hotarari/hotararea-nr-101-din-27-august-2026-privind-aprobarea-unor-masuri-pentru-realizarea-obiectivului-de-investitii-reabilitare-energetica-si-lucrari-conexe-extindere-mansarda-existenta",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/07/hot-101.pdf",
+     "sha256": "a2fccaa8a9406474e3227d533cad83e8a73c6b17a1da04ef0e48c45a812df4db"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-102-2026",
+   "path": "local/judet/mures/2026/102",
+   "short": "HCJ Mureș nr. 102/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 102/2026 privind înființarea/reorganizarea unor servicii sociale fără personalitate juridică din cadrul Direcției Generale de Asistență Socială și Protecția Copilului Mureș",
+   "url": "https://ro.cjmures.ro/consiliul-judetean/hotarari/hotararea-nr-102-din-27-august-2026-privind-infiintarea-reorganizarea-unor-servicii-sociale-fara-personalitate-juridica-din-cadrul-directiei-generale-de-asistenta-sociala-si-protectia-copilului-mures",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/08/hot-102.pdf",
+     "sha256": "7cb5cb625a35c5c303dd54ea582c2ca5ef8a29d9ed70d3fa2e9ad9d3bc1a5a82"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-103-2026",
+   "path": "local/judet/mures/2026/103",
+   "short": "HCJ Mureș nr. 103/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 103/2026 privind rectificarea bugetului general al Județului Mureș pentru anul 2026",
+   "url": "https://ro.cjmures.ro/consiliul-judetean/hotarari/hotararea-nr-103-din-27-august-2026-privind-rectificarea-bugetului-general-al-judetului-mures-pentru-anul-2026",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/08/hot-103.pdf",
+     "sha256": "e9e2450883d04717f3a281465240bc18426cf73dcc679240214abce53f29c647"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-104-2026",
+   "path": "local/judet/mures/2026/104",
+   "short": "HCJ Mureș nr. 104/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 104/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/08/hot-104.pdf",
+     "sha256": "cc64da762e3028976a51ae9d9dee1b8a89f557cffaf00149b3bbcc939fee5866"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-105-2026",
+   "path": "local/judet/mures/2026/105",
+   "short": "HCJ Mureș nr. 105/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 105/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/08/hot-105.pdf",
+     "sha256": "39b65430983108b0bab2a0132af3b22dda025356ee050d5ad67d4de12062ee29"
+    }
+   ]
+  },
+  {
    "slug": "hcj-mures-106-2026",
    "path": "local/judet/mures/2026/106",
    "short": "HCJ Mureș nr. 106/2026",
@@ -423,6 +513,96 @@
    ]
   },
   {
+   "slug": "hcj-mures-88-2026",
+   "path": "local/judet/mures/2026/88",
+   "short": "HCJ Mureș nr. 88/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 88/2026 pentru stabilirea unor măsuri în vederea realizării investiției Înființarea Centrului de sănătate mintală pentru prevenirea și tratarea adicțiilor în cadrul Spitalului Municipal „Dr",
+   "url": "https://ro.cjmures.ro/consiliul-judetean/hotarari/hotararea-nr-88-din-14-iulie-2026-pentru-stabilirea-unor-masuri-in-vederea-realizarii-investitiei-infiintarea-centrului-de-sanatate-mintala-pentru-prevenirea-si-tratarea-adictiilor-in-cadrul-spitalul",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/07/hot-88.pdf",
+     "sha256": "7564fdb53f53748b1b8a14c2c76dcac759f0ff950575555df6970ecb944b547a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-89-2026",
+   "path": "local/judet/mures/2026/89",
+   "short": "HCJ Mureș nr. 89/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 89/2026 privind aprobarea cererii pentru acordarea titlului de parc industrial, prin includerea în amplasament a terenurilor având CF 53181-Sânpaul, CF 53182-Sânpaul, CF 51357-Sânpaul, CF 51703-Sânpaul, CF 53519-Sânpaul, CF 53520-Sânpaul, CF 53521-Sânpaul și excluderea ter",
+   "url": "https://ro.cjmures.ro/consiliul-judetean/hotarari/hotararea-nr-89-din-21-iulie-2026-privind-aprobarea-cererii-pentru-acordarea-titlului-de-parc-industrial-prin-includerea-in-amplasament-a-terenurilor-avand-cf-53181-sanpaul-cf-53182-sanpaul-cf-513",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/07/hot-89.pdf",
+     "sha256": "e30404f3fdd3b3bb17a131bd4fb51c56f0d489aeba13a720311656969656e8e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-90-2026",
+   "path": "local/judet/mures/2026/90",
+   "short": "HCJ Mureș nr. 90/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 90/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/07/hot-90.pdf",
+     "sha256": "34d7829c9842f04eadc9cae749fe7f41aedcd4819751280e73dc132aeb4d84c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-91-2026",
+   "path": "local/judet/mures/2026/91",
+   "short": "HCJ Mureș nr. 91/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 91/2026 privind rectificarea bugetului general al Județului Mureș pentru anul 2026",
+   "url": "https://ro.cjmures.ro/consiliul-judetean/hotarari/hotararea-nr-91-din-30-iulie-2026-privind-rectificarea-bugetului-general-al-judetului-mures-pentru-anul-2026",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/07/hot-91.pdf",
+     "sha256": "2123fbbff150708affe11406fd84e7376c569c588843831bfddbd9ff4f62a787"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-92-2026",
+   "path": "local/judet/mures/2026/92",
+   "short": "HCJ Mureș nr. 92/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 92/2026 pentru aprobarea Raportului privind execuția bugetului general consolidat al Județului Mureș la 30 iunie 2026",
+   "url": "https://ro.cjmures.ro/consiliul-judetean/hotarari/hotararea-nr-92-din-30-iulie-2026-pentru-aprobarea-raportului-privind-executia-bugetului-general-consolidat-al-judetului-mures-la-30-iunie-2026",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/07/hot-92.pdf",
+     "sha256": "24aeb7aeaecee6f0cd6535c45bd0a0d3d8504bb0a6c2e294e671dee41a55aef1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-93-2026",
+   "path": "local/judet/mures/2026/93",
+   "short": "HCJ Mureș nr. 93/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 93/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/07/hot-93.pdf",
+     "sha256": "5bdb2acf7ee77553c3921d6b727802257835015188daa070567f440cf92ec970"
+    }
+   ]
+  },
+  {
    "slug": "hcj-mures-94-2026",
    "path": "local/judet/mures/2026/94",
    "short": "HCJ Mureș nr. 94/2026",
@@ -434,6 +614,66 @@
      "units": 1,
      "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/07/hot-94.pdf",
      "sha256": "ef6c46d773f1bf5b83183f9c9bc0287f8e251a47a13f3f230bfd0b63247d6389"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-96-2026",
+   "path": "local/judet/mures/2026/96",
+   "short": "HCJ Mureș nr. 96/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 96/2026 privind aprobarea redevenţei aferentă spaţiilor concesionate cabinetelor medicale individuale, din imobilele situate în municipiul Târgu Mureş, B-dul 1 Decembrie 1918, nr.24-28 şi strada Gheorghe Marinescu, nr.50",
+   "url": "https://ro.cjmures.ro/consiliul-judetean/hotarari/hotararea-nr-96-din-30-iulie-2026-privind-aprobarea-redeventei-aferenta-spatiilor-concesionate-cabinetelor-medicale-individuale-din-imobilele-situate-in-municipiul-targu-mures-b-dul-1-decembrie-191",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/07/hot-96.pdf",
+     "sha256": "14da4a616ccd56d44d1da005dedb39f012d69679151b4ea9733329fd1b15e31b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-97-2026",
+   "path": "local/judet/mures/2026/97",
+   "short": "HCJ Mureș nr. 97/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 97/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/07/hot-97.pdf",
+     "sha256": "1b629cf47422286f11641a27e7d073497e764f2af1e83da0ff6a995120d969bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-98-2026",
+   "path": "local/judet/mures/2026/98",
+   "short": "HCJ Mureș nr. 98/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 98/2026 privind achiziţionarea unor servicii juridice pentru reprezentarea Consiliului Județean Mureș și a Județului Mureș în faţa autorităților publice naționale și a instanțelor de judecată din Italia",
+   "url": "https://ro.cjmures.ro/consiliul-judetean/hotarari/hotararea-nr-98-din-30-iulie-2026-privind-achizitionarea-unor-servicii-juridice-pentru-reprezentarea-consiliului-judetean-mures-si-a-judetului-mures-in-fata-autoritatilor-publice-nationale-si-a-insta",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/07/hot-98.pdf",
+     "sha256": "b29ed3ddae2dfd64bdb21ee94ce90a6884b9afee1501c05a75834f0bb2444497"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-99-2026",
+   "path": "local/judet/mures/2026/99",
+   "short": "HCJ Mureș nr. 99/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 99/2026 privind reorganizarea Direcției Generale de Asistență Socială și Protecția Copilului Mureș",
+   "url": "https://ro.cjmures.ro/consiliul-judetean/hotarari/hotararea-nr-99-din-30-iulie-2026-privind-reorganizarea-directiei-generale-de-asistenta-sociala-si-protectia-copilului-mures",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/07/hot-99.pdf",
+     "sha256": "82a9330c78af3da1dbe337d9fbe5fa4dd6f758c663f3dfdc7540a84889a3a815"
     }
    ]
   }

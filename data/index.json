@@ -6414,45 +6414,45 @@
   {
    "shard": "local/judet/hunedoara/2017",
    "kind": "local",
-   "count": 2,
+   "count": 83,
    "acts": "data/acts/local/judet/hunedoara/2017.json",
    "list": "data/acts/local/judet/hunedoara/2017.md",
    "versions": "data/versions/local/judet/hunedoara/2017.json",
    "laws": "data/laws/local/judet/hunedoara/2017.csv",
-   "laws_count": 2,
+   "laws_count": 83,
    "sources": "data/sources/local/judet/hunedoara/2017.csv"
   },
   {
    "shard": "local/judet/hunedoara/2018",
    "kind": "local",
-   "count": 4,
+   "count": 262,
    "acts": "data/acts/local/judet/hunedoara/2018.json",
    "list": "data/acts/local/judet/hunedoara/2018.md",
    "versions": "data/versions/local/judet/hunedoara/2018.json",
    "laws": "data/laws/local/judet/hunedoara/2018.csv",
-   "laws_count": 4,
+   "laws_count": 262,
    "sources": "data/sources/local/judet/hunedoara/2018.csv"
   },
   {
    "shard": "local/judet/hunedoara/2019",
    "kind": "local",
-   "count": 17,
+   "count": 287,
    "acts": "data/acts/local/judet/hunedoara/2019.json",
    "list": "data/acts/local/judet/hunedoara/2019.md",
    "versions": "data/versions/local/judet/hunedoara/2019.json",
    "laws": "data/laws/local/judet/hunedoara/2019.csv",
-   "laws_count": 17,
+   "laws_count": 287,
    "sources": "data/sources/local/judet/hunedoara/2019.csv"
   },
   {
    "shard": "local/judet/hunedoara/2020",
    "kind": "local",
-   "count": 8,
+   "count": 163,
    "acts": "data/acts/local/judet/hunedoara/2020.json",
    "list": "data/acts/local/judet/hunedoara/2020.md",
    "versions": "data/versions/local/judet/hunedoara/2020.json",
    "laws": "data/laws/local/judet/hunedoara/2020.csv",
-   "laws_count": 8,
+   "laws_count": 163,
    "sources": "data/sources/local/judet/hunedoara/2020.csv"
   },
   {
@@ -6520,6 +6520,50 @@
    "laws": "data/laws/local/judet/hunedoara/2026.csv",
    "laws_count": 178,
    "sources": "data/sources/local/judet/hunedoara/2026.csv"
+  },
+  {
+   "shard": "local/judet/ialomita/2002",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/judet/ialomita/2002.json",
+   "list": "data/acts/local/judet/ialomita/2002.md",
+   "versions": "data/versions/local/judet/ialomita/2002.json",
+   "laws": "data/laws/local/judet/ialomita/2002.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/judet/ialomita/2002.csv"
+  },
+  {
+   "shard": "local/judet/ialomita/2020",
+   "kind": "local",
+   "count": 6,
+   "acts": "data/acts/local/judet/ialomita/2020.json",
+   "list": "data/acts/local/judet/ialomita/2020.md",
+   "versions": "data/versions/local/judet/ialomita/2020.json",
+   "laws": "data/laws/local/judet/ialomita/2020.csv",
+   "laws_count": 6,
+   "sources": "data/sources/local/judet/ialomita/2020.csv"
+  },
+  {
+   "shard": "local/judet/ialomita/2021",
+   "kind": "local",
+   "count": 21,
+   "acts": "data/acts/local/judet/ialomita/2021.json",
+   "list": "data/acts/local/judet/ialomita/2021.md",
+   "versions": "data/versions/local/judet/ialomita/2021.json",
+   "laws": "data/laws/local/judet/ialomita/2021.csv",
+   "laws_count": 21,
+   "sources": "data/sources/local/judet/ialomita/2021.csv"
+  },
+  {
+   "shard": "local/judet/ialomita/2022",
+   "kind": "local",
+   "count": 9,
+   "acts": "data/acts/local/judet/ialomita/2022.json",
+   "list": "data/acts/local/judet/ialomita/2022.md",
+   "versions": "data/versions/local/judet/ialomita/2022.json",
+   "laws": "data/laws/local/judet/ialomita/2022.csv",
+   "laws_count": 9,
+   "sources": "data/sources/local/judet/ialomita/2022.csv"
   },
   {
    "shard": "local/judet/ialomita/2025",
@@ -6786,14 +6830,25 @@
    "sources": "data/sources/local/judet/iasi/2022.csv"
   },
   {
+   "shard": "local/judet/ilfov/2025",
+   "kind": "local",
+   "count": 4,
+   "acts": "data/acts/local/judet/ilfov/2025.json",
+   "list": "data/acts/local/judet/ilfov/2025.md",
+   "versions": "data/versions/local/judet/ilfov/2025.json",
+   "laws": "data/laws/local/judet/ilfov/2025.csv",
+   "laws_count": 4,
+   "sources": "data/sources/local/judet/ilfov/2025.csv"
+  },
+  {
    "shard": "local/judet/ilfov/2026",
    "kind": "local",
-   "count": 3,
+   "count": 6,
    "acts": "data/acts/local/judet/ilfov/2026.json",
    "list": "data/acts/local/judet/ilfov/2026.md",
    "versions": "data/versions/local/judet/ilfov/2026.json",
    "laws": "data/laws/local/judet/ilfov/2026.csv",
-   "laws_count": 3,
+   "laws_count": 6,
    "sources": "data/sources/local/judet/ilfov/2026.csv"
   },
   {
@@ -6832,12 +6887,12 @@
   {
    "shard": "local/judet/mures/2026",
    "kind": "local",
-   "count": 29,
+   "count": 45,
    "acts": "data/acts/local/judet/mures/2026.json",
    "list": "data/acts/local/judet/mures/2026.md",
    "versions": "data/versions/local/judet/mures/2026.json",
    "laws": "data/laws/local/judet/mures/2026.csv",
-   "laws_count": 29,
+   "laws_count": 45,
    "sources": "data/sources/local/judet/mures/2026.csv"
   },
   {
@@ -6865,34 +6920,34 @@
   {
    "shard": "local/judet/neamt/2024",
    "kind": "local",
-   "count": 35,
+   "count": 271,
    "acts": "data/acts/local/judet/neamt/2024.json",
    "list": "data/acts/local/judet/neamt/2024.md",
    "versions": "data/versions/local/judet/neamt/2024.json",
    "laws": "data/laws/local/judet/neamt/2024.csv",
-   "laws_count": 35,
+   "laws_count": 271,
    "sources": "data/sources/local/judet/neamt/2024.csv"
   },
   {
    "shard": "local/judet/neamt/2025",
    "kind": "local",
-   "count": 4,
+   "count": 290,
    "acts": "data/acts/local/judet/neamt/2025.json",
    "list": "data/acts/local/judet/neamt/2025.md",
    "versions": "data/versions/local/judet/neamt/2025.json",
    "laws": "data/laws/local/judet/neamt/2025.csv",
-   "laws_count": 4,
+   "laws_count": 290,
    "sources": "data/sources/local/judet/neamt/2025.csv"
   },
   {
    "shard": "local/judet/neamt/2026",
    "kind": "local",
-   "count": 140,
+   "count": 275,
    "acts": "data/acts/local/judet/neamt/2026.json",
    "list": "data/acts/local/judet/neamt/2026.md",
    "versions": "data/versions/local/judet/neamt/2026.json",
    "laws": "data/laws/local/judet/neamt/2026.csv",
-   "laws_count": 140,
+   "laws_count": 275,
    "sources": "data/sources/local/judet/neamt/2026.csv"
   },
   {
@@ -6964,34 +7019,34 @@
   {
    "shard": "local/judet/olt/2024",
    "kind": "local",
-   "count": 8,
+   "count": 23,
    "acts": "data/acts/local/judet/olt/2024.json",
    "list": "data/acts/local/judet/olt/2024.md",
    "versions": "data/versions/local/judet/olt/2024.json",
    "laws": "data/laws/local/judet/olt/2024.csv",
-   "laws_count": 8,
+   "laws_count": 23,
    "sources": "data/sources/local/judet/olt/2024.csv"
   },
   {
    "shard": "local/judet/olt/2025",
    "kind": "local",
-   "count": 8,
+   "count": 11,
    "acts": "data/acts/local/judet/olt/2025.json",
    "list": "data/acts/local/judet/olt/2025.md",
    "versions": "data/versions/local/judet/olt/2025.json",
    "laws": "data/laws/local/judet/olt/2025.csv",
-   "laws_count": 8,
+   "laws_count": 11,
    "sources": "data/sources/local/judet/olt/2025.csv"
   },
   {
    "shard": "local/judet/olt/2026",
    "kind": "local",
-   "count": 12,
+   "count": 13,
    "acts": "data/acts/local/judet/olt/2026.json",
    "list": "data/acts/local/judet/olt/2026.md",
    "versions": "data/versions/local/judet/olt/2026.json",
    "laws": "data/laws/local/judet/olt/2026.csv",
-   "laws_count": 12,
+   "laws_count": 13,
    "sources": "data/sources/local/judet/olt/2026.csv"
   },
   {

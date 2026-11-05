@@ -3,6 +3,921 @@
  "shard": "local/judet/hunedoara/2017",
  "acts": [
   {
+   "slug": "hcj-hunedoara-100-2017",
+   "path": "local/judet/hunedoara/2017/100",
+   "short": "HCJ Hunedoara nr. 100/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 100/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2026%20MAI%202017/HCJH%20100.pdf",
+     "sha256": "230a0cd7e47bed8a16be0a1364ed32e889f265d2815c04ca547e7c404b69fbba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-101-2017",
+   "path": "local/judet/hunedoara/2017/101",
+   "short": "HCJ Hunedoara nr. 101/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 101/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2026%20MAI%202017/HCJH%20101.pdf",
+     "sha256": "a628ff193db2de7c656185177471036197f98d1d8f2e6fbb96020dfcd7af8756"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-102-2017",
+   "path": "local/judet/hunedoara/2017/102",
+   "short": "HCJ Hunedoara nr. 102/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 102/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2026%20MAI%202017/HCJH%20102.pdf",
+     "sha256": "126f75c70f8b518b06bf2ce1dd1f76713720d8f9f1db60c1576211248c6a7c4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-103-2017",
+   "path": "local/judet/hunedoara/2017/103",
+   "short": "HCJ Hunedoara nr. 103/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 103/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2026%20MAI%202017/HCJH%20103.pdf",
+     "sha256": "6d09f2bb222519ab542f30c4144429426b6b4a6af0a726e7953e0c25bd60c97a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-104-2017",
+   "path": "local/judet/hunedoara/2017/104",
+   "short": "HCJ Hunedoara nr. 104/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 104/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2026%20MAI%202017/HCJH%20104.pdf",
+     "sha256": "300c17b76679a56f415a19f4033a30b9515d701ec30e4253c060c08b0695b343"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-105-2017",
+   "path": "local/judet/hunedoara/2017/105",
+   "short": "HCJ Hunedoara nr. 105/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 105/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2026%20MAI%202017/HCJH%20105.pdf",
+     "sha256": "eb4062b7df4744aca767ec390295f8eb6c4bc55b726c9108ebbfcfe862473ff5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-106-2017",
+   "path": "local/judet/hunedoara/2017/106",
+   "short": "HCJ Hunedoara nr. 106/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 106/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2026%20MAI%202017/HCJH%20106.pdf",
+     "sha256": "cd364f6b59610abe6f4816a7fadd229185c0202ceed97090d1ff9607d00f0745"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-107-2017",
+   "path": "local/judet/hunedoara/2017/107",
+   "short": "HCJ Hunedoara nr. 107/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 107/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2026%20MAI%202017/HCJH%20107.pdf",
+     "sha256": "2c2de36bd3ec54c7c1f7f4bd8a5768d077ce46fdc24eb11683bc8b39aa775d36"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-108-2017",
+   "path": "local/judet/hunedoara/2017/108",
+   "short": "HCJ Hunedoara nr. 108/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 108/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2026%20MAI%202017/HCJH%20108.pdf",
+     "sha256": "edb4456f90cc60076581618050d61ce6038b2f2fa343bc8eebab86efce5194fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-109-2017",
+   "path": "local/judet/hunedoara/2017/109",
+   "short": "HCJ Hunedoara nr. 109/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 109/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2026%20MAI%202017/HCJH%20109.pdf",
+     "sha256": "12f202afdebe6f92a56583940886b67293553310ff9e0bd19f2e65cfb9dd3ab6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-110-2017",
+   "path": "local/judet/hunedoara/2017/110",
+   "short": "HCJ Hunedoara nr. 110/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 110/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2026%20MAI%202017/HCJH%20110.pdf",
+     "sha256": "020a6a1b1a936dcd635df57df417372019d5a271d66aa58567f3881b84f4caaf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-111-2017",
+   "path": "local/judet/hunedoara/2017/111",
+   "short": "HCJ Hunedoara nr. 111/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 111/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2026%20MAI%202017/HCJH%20111.pdf",
+     "sha256": "7010f9aa274dcd6c0bb71975576ea2c240925a70f68b919cead2dc549608c2d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-112-2017",
+   "path": "local/judet/hunedoara/2017/112",
+   "short": "HCJ Hunedoara nr. 112/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 112/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2026%20MAI%202017/HCJH%20112.pdf",
+     "sha256": "160406916298cda4e26bfcc7696d0ac782774b1e0a2093369cca7c104dddf4c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-113-2017",
+   "path": "local/judet/hunedoara/2017/113",
+   "short": "HCJ Hunedoara nr. 113/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 113/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2026%20MAI%202017/HCJH%20113.pdf",
+     "sha256": "3a80bc7837f8120af040ecc31a471fb2dddaf9faf65d82b617402d95650a060a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-114-2017",
+   "path": "local/judet/hunedoara/2017/114",
+   "short": "HCJ Hunedoara nr. 114/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 114/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2026%20MAI%202017/HCJH%20114.pdf",
+     "sha256": "d844b998b9820aecff84538c9514853300316f80af78f45c568352dc4935fb48"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-115-2017",
+   "path": "local/judet/hunedoara/2017/115",
+   "short": "HCJ Hunedoara nr. 115/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 115/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2026%20MAI%202017/HCJH%20115.pdf",
+     "sha256": "2940bd3c4f690170560ae87b559ffeec54cd2e1c368c6e6834a3b42af8635b1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-116-2017",
+   "path": "local/judet/hunedoara/2017/116",
+   "short": "HCJ Hunedoara nr. 116/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 116/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2026%20MAI%202017/HCJH%20116.pdf",
+     "sha256": "379f7d881cf0f3c384f8ad854a59711b4612a6584444cde74f35df7bf1e2cc8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-117-2017",
+   "path": "local/judet/hunedoara/2017/117",
+   "short": "HCJ Hunedoara nr. 117/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 117/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2026%20MAI%202017/HCJH%20117.pdf",
+     "sha256": "76469bdf6c40d565bc892dbeb9f9809d10a346549531ef78500729a13fc2b97f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-118-2017",
+   "path": "local/judet/hunedoara/2017/118",
+   "short": "HCJ Hunedoara nr. 118/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 118/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2026%20MAI%202017/HCJH%20118.pdf",
+     "sha256": "af922d6b5f6be91052a8736a565510f805277179546b8a2783f76a6d5fdc4a0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-119-2017",
+   "path": "local/judet/hunedoara/2017/119",
+   "short": "HCJ Hunedoara nr. 119/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 119/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2026%20MAI%202017/HCJH%20119.pdf",
+     "sha256": "7075f2bd0b6b0f6d62a5516f7311bdc670a3c9eaad0b94dd4ac994e26ade8eb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-120-2017",
+   "path": "local/judet/hunedoara/2017/120",
+   "short": "HCJ Hunedoara nr. 120/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 120/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2026%20MAI%202017/HCJH%20120.pdf",
+     "sha256": "1755567f313d086af9730952066798e2f09ed25b1fe89d8d01dfb9af2f3759b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-121-2017",
+   "path": "local/judet/hunedoara/2017/121",
+   "short": "HCJ Hunedoara nr. 121/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 121/2017 pentru unele obiective de investiţii ale Consiliului Judeţean Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2026%20MAI%202017/HCJH%20121.pdf",
+     "sha256": "71c196ba9d3911e098588ca9a4bde270f5f9a789ce7b9aa21fea30c55739517a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-122-2017",
+   "path": "local/judet/hunedoara/2017/122",
+   "short": "HCJ Hunedoara nr. 122/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 122/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2026%20MAI%202017/HCJH%20122.pdf",
+     "sha256": "890aa6aa77f085e20fb2c4c1e1428bf46a6c30f3a6963afd17acf2142efacb78"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-123-2017",
+   "path": "local/judet/hunedoara/2017/123",
+   "short": "HCJ Hunedoara nr. 123/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 123/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2026%20MAI%202017/HCJH%20123.pdf",
+     "sha256": "c661309671cf8fd04d6a2e35c47f1ee2c503ef8258c5add827ddde4a6f7bf497"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-124-2017",
+   "path": "local/judet/hunedoara/2017/124",
+   "short": "HCJ Hunedoara nr. 124/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 124/2017 pentru Managementul Situațiilor de Urgență – ADIVEST",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2026%20MAI%202017/HCJH%20124.pdf",
+     "sha256": "fa4a04cb33531a27703824c473d1b5119c35bfa0094bc6b18023cda2ae2c5819"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-125-2017",
+   "path": "local/judet/hunedoara/2017/125",
+   "short": "HCJ Hunedoara nr. 125/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 125/2017 privind definirea aglomerării Băița și Teliucu Inferior incluse în Anexa 7 din Master Planul pentru ”Extinderea și reabilitarea infrastructurii de apă și apă uzată în județul Hunedoara ” – programul PNDR 2014 – 2020",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2026%20MAI%202017/HCJH%20125.pdf",
+     "sha256": "084908318acdc1d2839b7fa6ad04795db618ff8a555e20a8a0d196932b9b16f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-126-2017",
+   "path": "local/judet/hunedoara/2017/126",
+   "short": "HCJ Hunedoara nr. 126/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 126/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2026%20MAI%202017/HCJH%20126.pdf",
+     "sha256": "c6a306aa0e5c2c60b48451ac4e3a9c7d03a824ea8ea5de296316f6bec1c4fec7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-127-2017",
+   "path": "local/judet/hunedoara/2017/127",
+   "short": "HCJ Hunedoara nr. 127/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 127/2017 pentru personalul neclerical angajat în unitățile de cult din județul Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2026%20MAI%202017/HCJH%20127.pdf",
+     "sha256": "d74d23ee4e187016fcf2c597a0704436146dbf3fa24a9d364cb4f20437defa88"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-128-2017",
+   "path": "local/judet/hunedoara/2017/128",
+   "short": "HCJ Hunedoara nr. 128/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 128/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2026%20MAI%202017/HCJH%20128.pdf",
+     "sha256": "1dc942b84f79c937a084aeb13e4b5a0b9896cc88904de260f8d25d80df13d2a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-132-2017",
+   "path": "local/judet/hunedoara/2017/132",
+   "short": "HCJ Hunedoara nr. 132/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 132/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-06-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2030%20IUNIE%202017/HCJH%20132.pdf",
+     "sha256": "fa255b655dc91e918c9977d972ca1c13bda0289faeba1c998629b670b368a52c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-133-2017",
+   "path": "local/judet/hunedoara/2017/133",
+   "short": "HCJ Hunedoara nr. 133/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 133/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-06-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2030%20IUNIE%202017/HCJH%20133.pdf",
+     "sha256": "15d4ce1526a1fe7ffaec95d9fd979543645f8a1aed955b36628e1a630ddf7a61"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-134-2017",
+   "path": "local/judet/hunedoara/2017/134",
+   "short": "HCJ Hunedoara nr. 134/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 134/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-06-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2030%20IUNIE%202017/HCJH%20134.pdf",
+     "sha256": "9c609c87a3af9060b7c6104c5d4a61f39294ff48a3bf07440215b882bff10512"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-135-2017",
+   "path": "local/judet/hunedoara/2017/135",
+   "short": "HCJ Hunedoara nr. 135/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 135/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-06-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2030%20IUNIE%202017/HCJH%20135.pdf",
+     "sha256": "c3713398ec342f9a0f5a585b6c40b5ec4fc9cc3496e511d1f7d245e7b6ab566f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-136-2017",
+   "path": "local/judet/hunedoara/2017/136",
+   "short": "HCJ Hunedoara nr. 136/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 136/2017 pentru efectuarea transportului public județean de persoane prin curse regulate speciale",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-06-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2030%20IUNIE%202017/HCJH%20136.pdf",
+     "sha256": "0df82e84125aaa8123201609e44f4c37d0b67b8162d0cb46729675f8e2e0744e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-137-2017",
+   "path": "local/judet/hunedoara/2017/137",
+   "short": "HCJ Hunedoara nr. 137/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 137/2017 pentru Valea Jiului",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-06-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2030%20IUNIE%202017/HCJH%20137.pdf",
+     "sha256": "7cb6eecb77a320385a26d90d1ca9ade36ae36918c2707b8411a9c532bff4ac9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-138-2017",
+   "path": "local/judet/hunedoara/2017/138",
+   "short": "HCJ Hunedoara nr. 138/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 138/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-06-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2030%20IUNIE%202017/HCJH%20138.pdf",
+     "sha256": "adbb547bb3282ff33aa1439cfda28ab04b4841e2363ebb931bd5798754684eb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-139-2017",
+   "path": "local/judet/hunedoara/2017/139",
+   "short": "HCJ Hunedoara nr. 139/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 139/2017 pentru alimentarea cu apă a localităților Hațeg, Călan, Simeria și Deva”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-06-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2030%20IUNIE%202017/HCJH%20139.pdf",
+     "sha256": "4a5d8345dfc82a57876b3f96bf81694d9e66f1c21b785037512ffbfe9c3fa92c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-140-2017",
+   "path": "local/judet/hunedoara/2017/140",
+   "short": "HCJ Hunedoara nr. 140/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 140/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-06-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2030%20IUNIE%202017/HCJH%20140.pdf",
+     "sha256": "d15faa06f1d31dd1568837406a3ee7c1940c6fcec7ac3e4f3ad2f95945830e17"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-141-2017",
+   "path": "local/judet/hunedoara/2017/141",
+   "short": "HCJ Hunedoara nr. 141/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 141/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-06-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2030%20IUNIE%202017/HCJH%20141.pdf",
+     "sha256": "7ca4d6d019f8e5bed559610409457f37ce603b46aaceaacdcf3cc993d86610d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-142-2017",
+   "path": "local/judet/hunedoara/2017/142",
+   "short": "HCJ Hunedoara nr. 142/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 142/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-06-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2030%20IUNIE%202017/HCJH%20142.pdf",
+     "sha256": "1067fc190af092ad17a435f84bb582e9acacfe2aec3cc8decb4176cae5ebd0d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-143-2017",
+   "path": "local/judet/hunedoara/2017/143",
+   "short": "HCJ Hunedoara nr. 143/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 143/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-06-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2030%20IUNIE%202017/HCJH%20143.pdf",
+     "sha256": "28612c5a0fadcd25bedf124fa759c155d1f88a94b38a01fba778928697fcb0f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-144-2017",
+   "path": "local/judet/hunedoara/2017/144",
+   "short": "HCJ Hunedoara nr. 144/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 144/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-06-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2030%20IUNIE%202017/HCJH%20144.pdf",
+     "sha256": "3c0ca1e54bbf25aa976452d56ec0d3ac71cccb42ff87032832729e53820160e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-145-2017",
+   "path": "local/judet/hunedoara/2017/145",
+   "short": "HCJ Hunedoara nr. 145/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 145/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-06-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2030%20IUNIE%202017/HCJH%20145.pdf",
+     "sha256": "138832c06f7bf86add2a1037150dc42cb4b165710bb4459487743f9132e6d7e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-146-2017",
+   "path": "local/judet/hunedoara/2017/146",
+   "short": "HCJ Hunedoara nr. 146/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 146/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-06-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2030%20IUNIE%202017/HCJH%20146.pdf",
+     "sha256": "a4527cab1ac409f422fb2b13d44ab918d8ad04632d76127b207b2fc16198ad06"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-147-2017",
+   "path": "local/judet/hunedoara/2017/147",
+   "short": "HCJ Hunedoara nr. 147/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 147/2017 pentru autovehiculele din categoria A și B",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-06-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2030%20IUNIE%202017/HCJH%20147.pdf",
+     "sha256": "89d948bf9bae8f5b51818229174a352e0bc6d51d05e311f2ca853840e7043037"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-148-2017",
+   "path": "local/judet/hunedoara/2017/148",
+   "short": "HCJ Hunedoara nr. 148/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 148/2017 pentru obiectivul de investiții: ”Modernizare DJ 687K: DN 66 (Bretea Strei) – Silvașu de Jos – Silvașu de Sus – Mănăstirea Prislop, km.5+100 – 12+275”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-06-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2030%20IUNIE%202017/HCJH%20148.pdf",
+     "sha256": "bf9c45768523ea7c26a23b29a7cb2343f6ac53746982293d6eb221bddaca2f61"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-149-2017",
+   "path": "local/judet/hunedoara/2017/149",
+   "short": "HCJ Hunedoara nr. 149/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 149/2017 privind prevenirea și intervenția în echipa multidisciplinară și în rețea în situațiile de violență asupra copilului și de violență în familie (EIL) aprobată prin Hotărârea nr.13/2014 a Consiliului Județean Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-06-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2030%20IUNIE%202017/HCJH%20149.pdf",
+     "sha256": "19907096e5fa0ffa643c0c1187233e81e3b29359c084440df01b937e15f505b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-150-2017",
+   "path": "local/judet/hunedoara/2017/150",
+   "short": "HCJ Hunedoara nr. 150/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 150/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-06-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2030%20IUNIE%202017/HCJH%20150.pdf",
+     "sha256": "96f009c4afbe73a903742e094ad4e922f467cb69945018e99495a3a31eba7254"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-151-2017",
+   "path": "local/judet/hunedoara/2017/151",
+   "short": "HCJ Hunedoara nr. 151/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 151/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-06-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2030%20IUNIE%202017/HCJH%20151.pdf",
+     "sha256": "bffe551238b124d1a5be2fb9e592a97875b8ba01df5b7a5f4296201ab7c0d9db"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-152-2017",
+   "path": "local/judet/hunedoara/2017/152",
+   "short": "HCJ Hunedoara nr. 152/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 152/2017 pentru obiectivul de investiție: ”Extindere rețele de apă/apă uzată Petrila – Petroșani”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-06-30",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2030%20IUNIE%202017/HCJH%20152.pdf",
+     "sha256": "5b765758ba7f54b501bdce2dade914c4da1376f50f2a16e0a92d5f55ff6f82cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-176-2017",
+   "path": "local/judet/hunedoara/2017/176",
+   "short": "HCJ Hunedoara nr. 176/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 176/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-08-04",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/13%20HOTARARI%204%20AUGUST%202017/HCJH%20176.pdf",
+     "sha256": "199bac34bf5e09f50b3754f730e453eb475c64e37ec4302f59888b5af44db38a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-177-2017",
+   "path": "local/judet/hunedoara/2017/177",
+   "short": "HCJ Hunedoara nr. 177/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 177/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-08-04",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/13%20HOTARARI%204%20AUGUST%202017/HCJH%20177.pdf",
+     "sha256": "094930c3457cd0b4e0e357e2875bc7c52701d958ae723fb9b4f7fc7e2dd9e6f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-178-2017",
+   "path": "local/judet/hunedoara/2017/178",
+   "short": "HCJ Hunedoara nr. 178/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 178/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-08-04",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/13%20HOTARARI%204%20AUGUST%202017/HCJH%20178.pdf",
+     "sha256": "a93bceb19fb8ab709b295badd820dee24f2b4b5088ab5b55f1f245a372027162"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-69-2017",
+   "path": "local/judet/hunedoara/2017/69",
+   "short": "HCJ Hunedoara nr. 69/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 69/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/HOTARARI%20SCANATE%2028%20APRILIE%202017/HCJH%2069.pdf",
+     "sha256": "f4db1d965fa3216225020d527d4e8ea03346a0aaf3337a34045a5e8238626fa4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-70-2017",
+   "path": "local/judet/hunedoara/2017/70",
+   "short": "HCJ Hunedoara nr. 70/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 70/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/HOTARARI%20SCANATE%2028%20APRILIE%202017/HCJH%2070.pdf",
+     "sha256": "8ae7c8692d718398b99ce31d06289ee808c3eba50070aa215e00d7fed9714dd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-71-2017",
+   "path": "local/judet/hunedoara/2017/71",
+   "short": "HCJ Hunedoara nr. 71/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 71/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/HOTARARI%20SCANATE%2028%20APRILIE%202017/HCJH%2071.pdf",
+     "sha256": "1bc3daeda40acaa021a43496b6089d99f6fcc302771d27b874883dcc81371b94"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-72-2017",
+   "path": "local/judet/hunedoara/2017/72",
+   "short": "HCJ Hunedoara nr. 72/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 72/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/HOTARARI%20SCANATE%2028%20APRILIE%202017/HCJH%2072.pdf",
+     "sha256": "1798713cbce29da6fc661761d7ebc0917709cfe842d35adbe3c505d7295bf047"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-73-2017",
+   "path": "local/judet/hunedoara/2017/73",
+   "short": "HCJ Hunedoara nr. 73/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 73/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/HOTARARI%20SCANATE%2028%20APRILIE%202017/HCJH%2073.pdf",
+     "sha256": "ad6de2d3cb5ddc47222596137ad921d68519c9678a290715ea1fba5fd4460eba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-74-2017",
+   "path": "local/judet/hunedoara/2017/74",
+   "short": "HCJ Hunedoara nr. 74/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 74/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/HOTARARI%20SCANATE%2028%20APRILIE%202017/HCJH%2074.pdf",
+     "sha256": "8aa91ec0d26cf84f701edd538682d185323ecc472805067dfe032fc0ea4a00b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-75-2017",
+   "path": "local/judet/hunedoara/2017/75",
+   "short": "HCJ Hunedoara nr. 75/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 75/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/HOTARARI%20SCANATE%2028%20APRILIE%202017/HCJH%2075.pdf",
+     "sha256": "a2dd1ef6fe32bb8c2dbd71622654f6bf72448fd4a249e7d7b21e5b2410052bc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-76-2017",
+   "path": "local/judet/hunedoara/2017/76",
+   "short": "HCJ Hunedoara nr. 76/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 76/2017 pentru efectuarea transportului public județean de persoane prin curse regulate speciale",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/HOTARARI%20SCANATE%2028%20APRILIE%202017/HCJH%2076%20.pdf",
+     "sha256": "9a68669be25a2880dfd3ec38e993a687a18d44e467e8c72744fcfdf0ca3ba708"
+    }
+   ]
+  },
+  {
    "slug": "hcj-hunedoara-77-2017",
    "path": "local/judet/hunedoara/2017/77",
    "short": "HCJ Hunedoara nr. 77/2017",
@@ -18,6 +933,246 @@
    ]
   },
   {
+   "slug": "hcj-hunedoara-78-2017",
+   "path": "local/judet/hunedoara/2017/78",
+   "short": "HCJ Hunedoara nr. 78/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 78/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/HOTARARI%20SCANATE%2028%20APRILIE%202017/HCJH%2078.pdf",
+     "sha256": "f9271aff556239da382231f42dc61957a05446e00b2793fea4f2588ea14365e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-79-2017",
+   "path": "local/judet/hunedoara/2017/79",
+   "short": "HCJ Hunedoara nr. 79/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 79/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/HOTARARI%20SCANATE%2028%20APRILIE%202017/HCJH%2079.pdf",
+     "sha256": "be9792d376c6550da96f55c4246ac7ad0e4b21e3dc8170298a554cb96257b930"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-80-2017",
+   "path": "local/judet/hunedoara/2017/80",
+   "short": "HCJ Hunedoara nr. 80/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 80/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/HOTARARI%20SCANATE%2028%20APRILIE%202017/HCJH%2080.pdf",
+     "sha256": "ede83abc249b94dd77583de4b053c23475e6ee32d79bccfb4683654e78fc05f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-81-2017",
+   "path": "local/judet/hunedoara/2017/81",
+   "short": "HCJ Hunedoara nr. 81/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 81/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/HOTARARI%20SCANATE%2028%20APRILIE%202017/HCJH%2081.pdf",
+     "sha256": "a077d6dd142ec41ed9149c1504791fa24663528bf82e4e28ac4ee2ce947c50c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-82-2017",
+   "path": "local/judet/hunedoara/2017/82",
+   "short": "HCJ Hunedoara nr. 82/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 82/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/HOTARARI%20SCANATE%2028%20APRILIE%202017/HCJH%2082.pdf",
+     "sha256": "b30dd669542e082f2cde08d7cd8631f0a51a1dd918f71575885a5d7ab50ba8f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-83-2017",
+   "path": "local/judet/hunedoara/2017/83",
+   "short": "HCJ Hunedoara nr. 83/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 83/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/HOTARARI%20SCANATE%2028%20APRILIE%202017/HCJH%2083.pdf",
+     "sha256": "a7ccfadfd2f99b86fbc5d257738b7eba77318b5ef6170d0d84d55e30248fc27e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-84-2017",
+   "path": "local/judet/hunedoara/2017/84",
+   "short": "HCJ Hunedoara nr. 84/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 84/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/HOTARARI%20SCANATE%2028%20APRILIE%202017/HCJH%2084.pdf",
+     "sha256": "28353671e2fdf033faac7c49cd20ef83182df57648bb293becbbf735506c88e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-85-2017",
+   "path": "local/judet/hunedoara/2017/85",
+   "short": "HCJ Hunedoara nr. 85/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 85/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/HOTARARI%20SCANATE%2028%20APRILIE%202017/HCJH%2085.pdf",
+     "sha256": "485d07ce6a0fcdf186f4285e20d800f8f44950a981ca59dfece2c992d1cf1aff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-86-2017",
+   "path": "local/judet/hunedoara/2017/86",
+   "short": "HCJ Hunedoara nr. 86/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 86/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/HOTARARI%20SCANATE%2028%20APRILIE%202017/HCJH%2086.pdf",
+     "sha256": "bc6f8d48ce90ba79494717e64590abd2749bbb15702b7627eb80a88fa50d42f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-87-2017",
+   "path": "local/judet/hunedoara/2017/87",
+   "short": "HCJ Hunedoara nr. 87/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 87/2017 pentru cauză de utilitate publică a imobilelor situate pe coridorul de expropriere al lucrării de utilitate publică de interes județean ”Reabilitare conductă de aducțiune apă tratată pentru alimentarea cu apă a localităților Hațeg, Călan, Simeria și Deva”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/HOTARARI%20SCANATE%2028%20APRILIE%202017/HCJH%2087.pdf",
+     "sha256": "359d02e0c34b6844ef41a47ca24ce0e6db71fbeb7b187a6b9d07f234bcaa45c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-88-2017",
+   "path": "local/judet/hunedoara/2017/88",
+   "short": "HCJ Hunedoara nr. 88/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 88/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/HOTARARI%20SCANATE%2028%20APRILIE%202017/HCJH%2088.pdf",
+     "sha256": "e6143a76e7dcdedd5bce707386707a6119172384bbbbb92cfd085d6383fc4d52"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-89-2017",
+   "path": "local/judet/hunedoara/2017/89",
+   "short": "HCJ Hunedoara nr. 89/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 89/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/HOTARARI%20SCANATE%2028%20APRILIE%202017/HCJH%2089.pdf",
+     "sha256": "2cb2e709f2e357cf8c5334b5cb66e579102c290a56c751235c382e700bf098da"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-90-2017",
+   "path": "local/judet/hunedoara/2017/90",
+   "short": "HCJ Hunedoara nr. 90/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 90/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/HOTARARI%20SCANATE%2028%20APRILIE%202017/HCJH%2090.pdf",
+     "sha256": "00dff4f437548cd745ee9bf652443e06f662e9bb66570f3e393c4d8e82fdedc8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-91-2017",
+   "path": "local/judet/hunedoara/2017/91",
+   "short": "HCJ Hunedoara nr. 91/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 91/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/HOTARARI%20SCANATE%2028%20APRILIE%202017/HCJH%2091.pdf",
+     "sha256": "d8fb2c2d7ccf927fd51baa45fad362c6abdbde86512bbc5cdbfcf865a2d83b79"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-92-2017",
+   "path": "local/judet/hunedoara/2017/92",
+   "short": "HCJ Hunedoara nr. 92/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 92/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/HOTARARI%20SCANATE%2028%20APRILIE%202017/HCJH%2092.pdf",
+     "sha256": "7ffacfbb5dc0e245e382587bf07ed45c2eea3c3e8bed872396b58c2504eb07ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-93-2017",
+   "path": "local/judet/hunedoara/2017/93",
+   "short": "HCJ Hunedoara nr. 93/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 93/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-05-15",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOT%20SCANATE%2015%20MAI%202017/HCJH%2093.pdf",
+     "sha256": "ab7ec6eb201e0f9909904606f098b4cb0f2c61e255a6310c9808ea2f50eedc3f"
+    }
+   ]
+  },
+  {
    "slug": "hcj-hunedoara-94-2017",
    "path": "local/judet/hunedoara/2017/94",
    "short": "HCJ Hunedoara nr. 94/2017",
@@ -29,6 +1184,66 @@
      "units": 1,
      "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOT%20SCANATE%2015%20MAI%202017/HCJH%2094.pdf",
      "sha256": "da5959094a3a5f7db8909f4fe7ea3686df1981db08a7088e0b3970dd4c0f6b72"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-95-2017",
+   "path": "local/judet/hunedoara/2017/95",
+   "short": "HCJ Hunedoara nr. 95/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 95/2017 privind aprobarea indicatorilor tehnico-economici ai proiectului „Modernizare DJ 687 Sântuhalm-Hunedoara-Călan (km13+050 – km22+791)” în cadrul Programului Operațional Regional 2014-2020, Axa prioritară 6 – „Imbunătățirea infrastructurii rutiere de importanță regională”, Prioritatea de investiții 6.1 „Stimularea mobilității regionale prin contectarea nodurilor secundare și terțiare la infrastructu",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-05-15",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOT%20SCANATE%2015%20MAI%202017/HCJH%2095.pdf",
+     "sha256": "eb0cf6c0f238f400785b488b270a9782fa86113754ca41bf36d4c8e68dc94ff8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-96-2017",
+   "path": "local/judet/hunedoara/2017/96",
+   "short": "HCJ Hunedoara nr. 96/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 96/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-05-15",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOT%20SCANATE%2015%20MAI%202017/HCJH%2096.pdf",
+     "sha256": "c05eda70407c64278f5cdf16c7a39c9cd03dc9d1f403376bb21642a8dc2db915"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-97-2017",
+   "path": "local/judet/hunedoara/2017/97",
+   "short": "HCJ Hunedoara nr. 97/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 97/2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2026%20MAI%202017/HCJH%2097.pdf",
+     "sha256": "ac87953146736f1a4cdee6ab76a107dce88445f81109f8a7e81fd192b0d5720b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-98-2017",
+   "path": "local/judet/hunedoara/2017/98",
+   "short": "HCJ Hunedoara nr. 98/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 98/2017 pentru efectuarea transportului public județean de persoane prin curse regulate speciale",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOTARARI%20SCANATE%2026%20MAI%202017/HCJH%2098.pdf",
+     "sha256": "2208dfaabb703cd04b80e9665a41fd615ee3aa50677c62903a871672544d6bd6"
     }
    ]
   }

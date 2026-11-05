@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcj-olt-11-2025",
+"path": "local/judet/olt/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Olt nr. 11/2025 cu privire la transformarea unor posturi în statul de funcții al Spitalului Județean de Urgență Slatina, ca urmare a promovării precum și cu privire la aprobarea organigramei și a statului de funcții ale Spitalului Județean de Urgență Slatina Vizualizare",
+"short": "HCJ Olt nr. 11/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-28",
+"latest": "2025-08-28",
+"portal": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2025/",
+"council": "judet/olt",
+"council_name": "Consiliul Județean Olt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-olt-12-2025",
 "path": "local/judet/olt/2025/12",
 "kind": "local",
@@ -171,6 +193,50 @@
 "versions": 1,
 "from": "2025-02-27",
 "latest": "2025-02-27",
+"portal": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2025/",
+"council": "judet/olt",
+"council_name": "Consiliul Județean Olt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-olt-82-2025",
+"path": "local/judet/olt/2025/82",
+"kind": "local",
+"year": "2025",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Olt nr. 82/2025",
+"short": "HCJ Olt nr. 82/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-24",
+"latest": "2025-04-24",
+"portal": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2025/",
+"council": "judet/olt",
+"council_name": "Consiliul Județean Olt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-olt-84-2025",
+"path": "local/judet/olt/2025/84",
+"kind": "local",
+"year": "2025",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Olt nr. 84/2025 cu privire la aprobarea participării Consiliului Județean Olt la Campania ”Ia atitudine! Spune STOP violenței și consumului ilicit de droguri!”, precum și aprobarea în acest sens a încheierii unui Protocol de colaborare cu Inspectoratul de Poliție Județean Olt",
+"short": "HCJ Olt nr. 84/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-24",
+"latest": "2025-04-24",
 "portal": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2025/",
 "council": "judet/olt",
 "council_name": "Consiliul Județean Olt",
