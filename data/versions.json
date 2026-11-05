@@ -212522,6 +212522,36 @@
    ]
   },
   {
+   "slug": "og-92-1999",
+   "path": "og/1999/92",
+   "short": "OG nr. 92/1999",
+   "title": "Ordonanța Guvernului nr. 92/1999 pentru ratificarea Protocolului adiţional la Convenţia europeană asupra transferării persoanelor condamnate, adoptat la Strasbourg la 18 decembrie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19131",
+   "versions": [
+    {
+     "from": "1999-08-31",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19131",
+     "sha256": "3ab9e2910fb913bf8dfeece6b1be2fd7358234ecdcc5260f2739ef129d920725"
+    }
+   ]
+  },
+  {
+   "slug": "og-93-1999",
+   "path": "og/1999/93",
+   "short": "OG nr. 93/1999",
+   "title": "Ordonanța Guvernului nr. 93/1999 pentru ratificarea Tratatului dintre România şi Statele Unite ale Americii privind asistenţa judiciară în materie penală, semnat la Washington la 26 mai 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19132",
+   "versions": [
+    {
+     "from": "1999-08-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19132",
+     "sha256": "b5bb48199443ddcc8aea41e129b1de2e11488141c4e57c7fa9505b3e8552dfbe"
+    }
+   ]
+  },
+  {
    "slug": "og-93-2004",
    "path": "og/2004/93",
    "short": "OG nr. 93/2004",

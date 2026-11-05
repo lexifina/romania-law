@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12429 acts, 23,943 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12431 acts, 23,945 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -11303,7 +11303,7 @@
 | Ordonanța de urgență a Guvernului nr. 37/2026 pentru modificarea şi completarea Legii nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor şi protecţia persoanelor | [`oug/2026/37/`](oug/2026/37/) | amending act | 2 | 2026-05-06 | 2026-06-05 |
 | Ordonanța de urgență a Guvernului nr. 39/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 58/2023 privind unele măsuri pentru acordarea unei prime de carieră didactică pentru personalul didactic şi didactic auxiliar, precum şi unei prime de carieră profesională pentru personalul administrativ din învăţământul de stat, suportate din fonduri externe nerambursabile, precum şi pentru instituirea unor reglementări în vederea gestionării Programului Educaţie şi Ocupare 2021-2027 | [`oug/2026/39/`](oug/2026/39/) | amended, not consolidated | 1 | 2026-05-06 | 2026-05-06 |
 
-## Ordinances (OG) (1001, of which 117 amending acts)
+## Ordinances (OG) (1003, of which 117 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -11524,6 +11524,8 @@
 | Ordonanța Guvernului nr. 81/1999 pentru aprobarea participării Ministerului Justiţiei ca membru permanent la Conferinţa Europeană Permanentă de Probaţiune | [`og/1999/81/`](og/1999/81/) | amended, not consolidated | 1 | 1999-08-31 | 1999-08-31 |
 | Ordonanța Guvernului nr. 82/1999 pentru modificarea şi completarea Decretului nr. 247/1977 cu privire la încadrarea cadrelor militare permanente în grupele I, II sau III de muncă | [`og/1999/82/`](og/1999/82/) | amended, not consolidated | 1 | 1999-08-31 | 1999-08-31 |
 | Ordonanța Guvernului nr. 87/1999 pentru modificarea anexei A "Descrierea tehnică" la Acordul de împrumut dintre România şi Banca Europeană de Investiţii, semnat la Luxemburg şi la Bruxelles la 10 mai 1993 | [`og/1999/87/`](og/1999/87/) | amended, not consolidated | 1 | 1999-08-31 | 1999-08-31 |
+| Ordonanța Guvernului nr. 92/1999 pentru ratificarea Protocolului adiţional la Convenţia europeană asupra transferării persoanelor condamnate, adoptat la Strasbourg la 18 decembrie 1997 | [`og/1999/92/`](og/1999/92/) | in force | 1 | 1999-08-31 | 1999-08-31 |
+| Ordonanța Guvernului nr. 93/1999 pentru ratificarea Tratatului dintre România şi Statele Unite ale Americii privind asistenţa judiciară în materie penală, semnat la Washington la 26 mai 1999 | [`og/1999/93/`](og/1999/93/) | in force | 1 | 1999-08-31 | 1999-08-31 |
 | Ordonanța Guvernului nr. 94/1999 privind participarea României la procedurile în fața Curții Europene a Drepturilor Omului și a Comitetului Ministrilor ale Consiliului Europei și regresul statului în urma hotărârilor și convențiilor de rezolvare pe cale amiabila | [`og/1999/94/`](og/1999/94/) | in force | 9 | 1999-08-31 | 2023-11-24 |
 | Ordonanța Guvernului nr. 95/1999 privind calitatea lucrărilor de montaj pentru utilaje, echipamente şi instalaţii tehnologice industriale | [`og/1999/95/`](og/1999/95/) | amended, not consolidated | 1 | 1999-08-31 | 1999-08-31 |
 | Ordonanța Guvernului nr. 97/1999 | [`og/1999/97/`](og/1999/97/) | in force | 2 | 1999-08-31 | 2002-10-07 |
@@ -12495,7 +12497,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 28153 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 28180 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |
