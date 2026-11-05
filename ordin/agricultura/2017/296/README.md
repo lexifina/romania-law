@@ -2,7 +2,7 @@
 
 Ordin agricultura nr. 296/2017 · 1 versions, from 2017-08-30 (latest in force: 2017-08-30) · <https://legislatie.just.ro/Public/DetaliiDocument/192754>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (la normele metodologice MINISTERUL AGRICULTURII ȘI DEZVOLTĂRII RURALE AGENȚIA DE PLĂȚI ȘI INTERVENȚIE PENTRU AGRICULTURĂ Operator de date cu caracter personal: ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -19,6 +19,8 @@ Ordin agricultura nr. 296/2017 · 1 versions, from 2017-08-30 (latest in force: 
 | Anexa nr. 1, Art. 8 | [anexa-1/art-008.md](anexa-1/art-008.md) | 0 |  |
 | Anexa nr. 1, Art. 9 | [anexa-1/art-009.md](anexa-1/art-009.md) | 0 |  |
 | Anexa nr. 1, Art. 10 | [anexa-1/art-010.md](anexa-1/art-010.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 
 Act id: `ordin-agricultura-296-2017` (tags `ordin-agricultura-296-2017/<day>`; `python tools/on.py <day> ordin-agricultura-296-2017`).
 
@@ -30,4 +32,4 @@ Act id: `ordin-agricultura-296-2017` (tags `ordin-agricultura-296-2017/<day>`; `
 - Ordin agricultura nr. 296/2017: the signatures and the place and date line after its last article are not article text.
 - Ordin agricultura nr. 296/2017: a joint order of Ministerul Agriculturii și Dezvoltării Rurale nr. 296 din 24 August 2017; Ministerul Finanțelor Publice nr. 2.327 din 30 August 2017. It is published once, here, under the issuer its EMITENT block lists first; `ordin-finante-2327-2017` name it too (data/paths.json aliases).
 - Ordin agricultura nr. 296/2017: Anexa nr. 1 ((Anexa la Ordinul nr. 1.272/26.503/2005)) is part of the order and is published in its folder, anexa-1/ (10 articles), from document 192754 of the official web service.
-- Ordin agricultura nr. 296/2017: Anexa nr. 2 (la normele metodologice MINISTERUL AGRICULTURII ȘI DEZVOLTĂRII RURALE AGENȚIA DE PLĂȚI ȘI INTERVENȚIE PENTRU AGRICULTURĂ Operator de date cu caracter personal: ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin agricultura nr. 296/2017: Anexa nr. 2 (la normele metodologice MINISTERUL AGRICULTURII ȘI DEZVOLTĂRII RURALE AGENȚIA DE PLĂȚI ȘI INTERVENȚIE PENTRU AGRICULTURĂ Operator de date cu caracter personal: 9596 Centrul Județean...................) is part of the order and is published in its folder, anexa-2/ (paragraphs and tables), from document 192754 of the official web service.

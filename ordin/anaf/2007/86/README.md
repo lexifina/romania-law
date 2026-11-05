@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 86/2007 · 1 versions, from 2007-02-06 (latest in force: 2007-02-06) · <https://legislatie.just.ro/Public/DetaliiDocument/79297>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 (SIGLA) Declarație informativa privind livrările de bunuri și prestările de servicii efectuate în anul 2006 392 ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -15,6 +15,8 @@ Ordin anaf nr. 86/2007 · 1 versions, from 2007-02-06 (latest in force: 2007-02-
 | Art. 7 | [art-007.md](art-007.md) | 0 |  |
 | Art. 8 | [art-008.md](art-008.md) | 0 |  |
 | Art. 9 | [art-009.md](art-009.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 | Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 | Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
@@ -30,7 +32,7 @@ Act id: `ordin-anaf-86-2007` (tags `ordin-anaf-86-2007/<day>`; `python tools/on.
 - Ordin anaf nr. 86/2007: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin anaf nr. 86/2007: the first version is the order as published in Monitorul Oficial nr. 93 of 6 February 2007 (document 79297 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin anaf nr. 86/2007: the signatures and the place and date line after its last article are not article text.
+- Ordin anaf nr. 86/2007: Anexa nr. 1 (1 (SIGLA) Declarație informativa privind livrările de bunuri și prestările de servicii efectuate în anul 2006 392) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 79297 of the official web service.
 - Ordin anaf nr. 86/2007: Anexa nr. 2 (2 (SIGLA) Declarație informativa privind veniturile obținute din vânzarea de bilete pentru transportul rutier internațional de persoane, cu locul de plecare din România în anul 2006 393 I. DATE DE IDE) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 79297 of the official web service.
 - Ordin anaf nr. 86/2007: Anexa nr. 3 (4 CARACTERISTICI DE TIPĂRIRE, modul de difuzare, utilizare și păstrare a formularelor 1. Denumire: (392) "Declarație informativa privind livrările de bunuri și prestările de servicii": 1.1. cod MFP: 1) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 79297 of the official web service.
 - Ordin anaf nr. 86/2007: Anexa nr. 4 (5 PROCEDURA de gestiune a formularelor (392) "Declarație informativa privind livrările de bunuri și prestările de servicii" și (393) "Declarație informativa privind veniturile obținute din vânzarea de) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 79297 of the official web service.
-- Ordin anaf nr. 86/2007: Anexa nr. 1 (1 (SIGLA) Declarație informativa privind livrările de bunuri și prestările de servicii efectuate în anul 2006 392 ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 560/2016 · 1 versions, from 2016-02-04 (latest in force: 2016-02-04) · <https://legislatie.just.ro/Public/DetaliiDocument/175565>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 MINISTERUL FINANȚELOR PUBLICE AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ Direcția generală de planificare, monitorizare și sinteză SITUAȚIA obligațiilor la ...): it is a table that the official text holds only flattened; Anexa nr. 3 (3 MINISTERUL FINANȚELOR PUBLICE AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ Direcția generală de planificare, monitorizare și sinteză SITUAȚIA obligațiilor la ...): it is a table that the official text holds only flattened; Anexa nr. 4 (4 MINISTERUL FINANȚELOR PUBLICE AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ Direcția generală de planificare, monitorizare și sinteză SITUAȚIA obligațiilor la ...): it is a table that the official text holds only flattened; Anexa nr. 5 (5 MINISTERUL FINANȚELOR PUBLICE AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ Direcția generală de planificare, monitorizare și sinteză SITUAȚIA obligațiilor la ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -13,6 +13,14 @@ Ordin anaf nr. 560/2016 · 1 versions, from 2016-02-04 (latest in force: 2016-02
 | Art. 5 | [art-005.md](art-005.md) | 0 |  |
 | Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
+| Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
+| Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
+| Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
+| Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
 
 Act id: `ordin-anaf-560-2016` (tags `ordin-anaf-560-2016/<day>`; `python tools/on.py <day> ordin-anaf-560-2016`).
 
@@ -23,8 +31,8 @@ Act id: `ordin-anaf-560-2016` (tags `ordin-anaf-560-2016/<day>`; `python tools/o
 - Ordin anaf nr. 560/2016: the first version is the order as published in Monitorul Oficial nr. 83 of 4 February 2016 (document 175565 of the official web service), in force on its day of publication, as it states.
 - Ordin anaf nr. 560/2016: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 560/2016: Anexa nr. 1 (1 PROCEDURA 29/01/2016) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 175565 of the official web service.
-- Ordin anaf nr. 560/2016: Anexa nr. 2 (2 MINISTERUL FINANȚELOR PUBLICE AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ Direcția generală de planificare, monitorizare și sinteză SITUAȚIA obligațiilor la ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anaf nr. 560/2016: Anexa nr. 3 (3 MINISTERUL FINANȚELOR PUBLICE AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ Direcția generală de planificare, monitorizare și sinteză SITUAȚIA obligațiilor la ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anaf nr. 560/2016: Anexa nr. 4 (4 MINISTERUL FINANȚELOR PUBLICE AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ Direcția generală de planificare, monitorizare și sinteză SITUAȚIA obligațiilor la ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anaf nr. 560/2016: Anexa nr. 5 (5 MINISTERUL FINANȚELOR PUBLICE AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ Direcția generală de planificare, monitorizare și sinteză SITUAȚIA obligațiilor la ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 560/2016: Anexa nr. 2 (2 MINISTERUL FINANȚELOR PUBLICE AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ Direcția generală de planificare, monitorizare și sinteză SITUAȚIA obligațiilor la bugetul de stat și a plăților efectuate în) is part of the order and is published in its folder, anexa-2/ (paragraphs and tables), from document 175565 of the official web service.
+- Ordin anaf nr. 560/2016: Anexa nr. 3 (3 MINISTERUL FINANȚELOR PUBLICE AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ Direcția generală de planificare, monitorizare și sinteză SITUAȚIA obligațiilor la bugetul asigurărilor sociale de stat și a p) is part of the order and is published in its folder, anexa-3/ (paragraphs and tables), from document 175565 of the official web service.
+- Ordin anaf nr. 560/2016: Anexa nr. 4 (4 MINISTERUL FINANȚELOR PUBLICE AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ Direcția generală de planificare, monitorizare și sinteză SITUAȚIA obligațiilor la bugetul asigurărilor sociale de sănătate și) is part of the order and is published in its folder, anexa-4/ (paragraphs and tables), from document 175565 of the official web service.
+- Ordin anaf nr. 560/2016: Anexa nr. 5 (5 MINISTERUL FINANȚELOR PUBLICE AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ Direcția generală de planificare, monitorizare și sinteză SITUAȚIA obligațiilor la bugetul asigurărilor pentru șomaj și a plăț) is part of the order and is published in its folder, anexa-5/ (paragraphs and tables), from document 175565 of the official web service.
 - Ordin anaf nr. 560/2016: the publisher's notes run into its text (*) Se va completa cu următoarele informaţii: insolvenţă, faliment, reorganizare, insolvabilitate fără bunuri urmăribile,) are not text.

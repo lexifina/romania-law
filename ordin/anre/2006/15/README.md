@@ -2,7 +2,7 @@
 
 Ordin anre nr. 15/2006 · 1 versions, from 2006-07-01 (latest in force: 2006-07-01) · <https://legislatie.just.ro/Public/DetaliiDocument/73041>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1): it is a table that the official text holds only flattened; Anexa nr. 2 (2): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -11,6 +11,8 @@ Ordin anre nr. 15/2006 · 1 versions, from 2006-07-01 (latest in force: 2006-07-
 | Art. III | [art-003.md](art-003.md) | 0 |  |
 | Art. IV | [art-004.md](art-004.md) | 0 |  |
 | Art. V | [art-005.md](art-005.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 | Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
 | Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 
@@ -22,6 +24,6 @@ Act id: `ordin-anre-15-2006` (tags `ordin-anre-15-2006/<day>`; `python tools/on.
 - Ordin anre nr. 15/2006: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin anre nr. 15/2006: the first version is the order as published in Monitorul Oficial nr. 565 of 29 June 2006 (document 73041 of the official web service), in force on 1 July 2006, the day it states for itself.
 - Ordin anre nr. 15/2006: the signatures and the place and date line after its last article are not article text.
+- Ordin anre nr. 15/2006: Anexa nr. 2 (2) is part of the order and is published in its folder, anexa-2/ (paragraphs and tables), from document 73041 of the official web service.
 - Ordin anre nr. 15/2006: Anexa nr. 3 (3) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 73041 of the official web service.
 - Ordin anre nr. 15/2006: Anexa nr. 1 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anre nr. 15/2006: Anexa nr. 2 (2) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

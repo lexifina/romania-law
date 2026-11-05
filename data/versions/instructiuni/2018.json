@@ -16,6 +16,21 @@
      "sha256": "8b8e5b372640799ef701e2c74e4a0d9725baed776778057e46287ca56ffecc38"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-educatie-1-2018",
+   "path": "instructiuni/educatie/2018/1",
+   "short": "Instrucțiuni educatie nr. 1/2018",
+   "title": "Instrucțiunile nr. 1/2018 privind aplicarea unitară la nivelul unităților de învățământ preuniversitar a Standardului 9 - Proceduri prevăzut în Codul controlului intern managerial al entităților publice, aprobat prin Ordinul secretarului general al Guvernului nr. 600/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201451",
+   "versions": [
+    {
+     "from": "2018-06-12",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201451",
+     "sha256": "d33f65a35b632eec4c8ce124ba98e7836efa745aafb551de15577dabdee0cf37"
+    }
+   ]
   }
  ]
 }

@@ -2,7 +2,7 @@
 
 Norma csspp nr. 3/2008 · 1 versions, from 2008-01-29 (latest in force: 2008-01-29) · <https://legislatie.just.ro/Public/DetaliiDocument/89132>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -25,6 +25,8 @@ Norma csspp nr. 3/2008 · 1 versions, from 2008-01-29 (latest in force: 2008-01-
 | Art. 17 | [art-017.md](art-017.md) | 0 |  |
 | Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 
 Act id: `norma-csspp-3-2008` (tags `norma-csspp-3-2008/<day>`; `python tools/on.py <day> norma-csspp-3-2008`).
 
@@ -35,4 +37,4 @@ Act id: `norma-csspp-3-2008` (tags `norma-csspp-3-2008/<day>`; `python tools/on.
 - Norma csspp nr. 3/2008: the first version is the norm as published in Monitorul Oficial nr. 66 of 29 January 2008 (document 89132 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Norma csspp nr. 3/2008: the signatures and the place and date line after its last article are not article text.
 - Norma csspp nr. 3/2008: Anexa nr. 1 (1) is part of the norm and is published in its folder, anexa-1/ (paragraphs), from document 89132 of the official web service.
-- Norma csspp nr. 3/2008: Anexa nr. 2 (2) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Norma csspp nr. 3/2008: Anexa nr. 2 (2) is part of the norm and is published in its folder, anexa-2/ (paragraphs and tables), from document 89132 of the official web service.

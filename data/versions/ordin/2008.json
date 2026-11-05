@@ -176,7 +176,7 @@
    "versions": [
     {
      "from": "2008-07-16",
-     "units": 8,
+     "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95692",
      "sha256": "ef6bee11754931aa6f9f44dd1a6daeec100d4dc889cd681ed771503f78ce8037"
     }
@@ -281,7 +281,7 @@
    "versions": [
     {
      "from": "2008-09-22",
-     "units": 7,
+     "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97521",
      "sha256": "6ebf7f5f48d1c4b7d66441ed9e39250401a0e36d9403afd943a89340c11812fe"
     }
@@ -611,7 +611,7 @@
    "versions": [
     {
      "from": "2008-01-18",
-     "units": 4,
+     "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88916",
      "sha256": "3fbfa012ca24cc4b1f4f200515a9154ea99c89917739d34c3556e5b0fdb29b60"
     }
@@ -1136,7 +1136,7 @@
    "versions": [
     {
      "from": "2008-03-31",
-     "units": 7,
+     "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90888",
      "sha256": "760c129686102f35f71d8a09872126ba5da59cd31e7665bd26e9f46de2c07763"
     }
@@ -1151,7 +1151,7 @@
    "versions": [
     {
      "from": "2008-03-31",
-     "units": 7,
+     "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90891",
      "sha256": "c48154776a3bc917f81edf357a4408ceb2ec95a74523b419e3c7469f0e781e11"
     }
@@ -1166,7 +1166,7 @@
    "versions": [
     {
      "from": "2008-01-23",
-     "units": 9,
+     "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88994",
      "sha256": "09a7f1044abb046893c9a90207ef835dc3a087ade89b737935ee9bfc84dac07c"
     }
@@ -1181,7 +1181,7 @@
    "versions": [
     {
      "from": "2008-07-31",
-     "units": 6,
+     "units": 20,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96176",
      "sha256": "3c19c2044061ae8fc4a7119d94d4221f354e027bea88905318a6f0354fa4e96a"
     }
@@ -1376,7 +1376,7 @@
    "versions": [
     {
      "from": "2009-01-01",
-     "units": 4,
+     "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100688",
      "sha256": "e19ef00cab43baed7227d67946a6ae5f270ec07facd071bf42b72f10f2937837"
     }
@@ -1766,7 +1766,7 @@
    "versions": [
     {
      "from": "2008-06-27",
-     "units": 5,
+     "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94892",
      "sha256": "c34fc66fb233303e72bc5555c7597ce2d19fefca4359c2bd673b58e9dd2180be"
     }
@@ -1811,7 +1811,7 @@
    "versions": [
     {
      "from": "2008-07-01",
-     "units": 17,
+     "units": 19,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94894",
      "sha256": "6a72bdf17620e005adb10e77e6e54f2a76b2f32d6bbae4582144f115a94780e4"
     }
@@ -1878,6 +1878,66 @@
    ]
   },
   {
+   "slug": "ordin-ansvsa-10-2008",
+   "path": "ordin/ansvsa/2008/10",
+   "short": "Ordin ansvsa nr. 10/2008",
+   "title": "Ordinul nr. 10/2008 privind aprobarea Normei sanitare veterinare care stabilește procedura pentru marcarea și certificarea sanitară veterinară a cărnii proaspete și marcarea produselor de origine animală destinate consumului uman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90580",
+   "versions": [
+    {
+     "from": "2008-04-20",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90580",
+     "sha256": "b21a3b078b17bb15dbcf3b355a397b4f1eb2c91ebd2d046840423f37e09de08e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-111-2008",
+   "path": "ordin/ansvsa/2008/111",
+   "short": "Ordin ansvsa nr. 111/2008",
+   "title": "Ordinul nr. 111/2008 privind aprobarea Normei sanitare veterinare și pentru siguranța alimentelor privind procedura de înregistrare sanitară veterinară și pentru siguranța alimentelor a activităților de obținere și de vânzare directă și/sau cu amănuntul a produselor alimentare de origine animală sau nonanimală, precum și a activităților de producție, procesare, depozitare, transport și comercializare a produselor alimentare de origine nonanimală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101005",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101005",
+     "sha256": "40ff2f66b644991e272256005b67ad3ff99ff7ab72f0f7f2d4e45498c48de5da"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-112-2008",
+   "path": "ordin/ansvsa/2008/112",
+   "short": "Ordin ansvsa nr. 112/2008",
+   "title": "Ordinul nr. 112/2008 privind modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 64/2007 pentru aprobarea Normei sanitare veterinare privind organizarea și desfășurarea activității de control oficial sanitar-veterinar efectuat de către personalul de specialitate în unitățile care produc alimente de origine animală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100737",
+   "versions": [
+    {
+     "from": "2008-12-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100737",
+     "sha256": "b6110d8c15adace051db560e0627e78ee3eecb008294d4b146f34c79c292daa7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-113-2008",
+   "path": "ordin/ansvsa/2008/113",
+   "short": "Ordin ansvsa nr. 113/2008",
+   "title": "Ordinul nr. 113/2008 privind aprobarea Instrucțiunilor pentru organizarea și desfășurarea activității de control oficial în unitățile de prelucrare, procesare, depozitare, transport, valorificare și comercializare a produselor și subproduselor alimentare de origine nonanimală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100914",
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100914",
+     "sha256": "5bc08cf6808d9243cc16a2556f030f71ea12a10e3b28b4f3d29f8993692fd920"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-12-2008",
    "path": "ordin/ansvsa/2008/12",
    "short": "Ordin ansvsa nr. 12/2008",
@@ -1886,9 +1946,129 @@
    "versions": [
     {
      "from": "2008-04-25",
-     "units": 3,
+     "units": 23,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91823",
      "sha256": "460daa32df82e6d407ff2e912497ab2eb1fa66f60076e8d044ca20542f425709"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-13-2008",
+   "path": "ordin/ansvsa/2008/13",
+   "short": "Ordin ansvsa nr. 13/2008",
+   "title": "Ordinul nr. 13/2008 pentru aprobarea Normei sanitare veterinare privind cerințele minime pentru înregistrarea de informații cu ocazia inspecțiilor în exploatațiile în care animalele sunt ținute pentru scopuri zootehnice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90527",
+   "versions": [
+    {
+     "from": "2008-03-21",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90527",
+     "sha256": "9c1d30d3476c7613a62132d4fb6683ed7d7ac0042acab335ddf4cc1f7286024a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-16-2008",
+   "path": "ordin/ansvsa/2008/16",
+   "short": "Ordin ansvsa nr. 16/2008",
+   "title": "Ordinul nr. 16/2008 pentru aprobarea Normei sanitare veterinare privind condițiile de organizare și funcționare a unităților farmaceutice veterinare și a unităților destinate comercializării animalelor de companie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90159",
+   "versions": [
+    {
+     "from": "2008-03-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90159",
+     "sha256": "95277e0c5dc2d1e215badf2f200f00b004420f6f1851c73b299255480f84b6e7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-17-2008",
+   "path": "ordin/ansvsa/2008/17",
+   "short": "Ordin ansvsa nr. 17/2008",
+   "title": "Ordinul nr. 17/2008 pentru aprobarea Normei sanitare veterinare privind procedura de înregistrare și controlul oficial al unităților în care se desfășoară activități de asistență medical-veterinară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90022",
+   "versions": [
+    {
+     "from": "2008-03-04",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90022",
+     "sha256": "b4d51b67c78ab3186544525692c34de5e8db8d558a122d6ed7deaa0eb07c99fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-20-2008",
+   "path": "ordin/ansvsa/2008/20",
+   "short": "Ordin ansvsa nr. 20/2008",
+   "title": "Ordinul nr. 20/2008 privind aprobarea Normei sanitare veterinare și pentru siguranța alimentelor ce reglementează condițiile generale și specifice pentru autorizarea laboratoarelor supuse controlului sanitar veterinar și pentru siguranța alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91705",
+   "versions": [
+    {
+     "from": "2008-04-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91705",
+     "sha256": "a1a795df9b329ef2e57aaba6388e32424c1f9a2617551e9c7e0d3d4added1d96"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-21-2008",
+   "path": "ordin/ansvsa/2008/21",
+   "short": "Ordin ansvsa nr. 21/2008",
+   "title": "Ordinul nr. 21/2008 privind modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 135/2006 pentru aprobarea Normei sanitare veterinare privind măsurile de control și combatere a pestei africane a calului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90880",
+   "versions": [
+    {
+     "from": "2008-03-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90880",
+     "sha256": "39ed292e120fe8478f085cc386564729dfde7be00d739a72c1fe50669974925b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-24-2008",
+   "path": "ordin/ansvsa/2008/24",
+   "short": "Ordin ansvsa nr. 24/2008",
+   "title": "Ordinul nr. 24/2008 pentru aprobarea Normei sanitare veterinare privind procedura de înregistrare și autorizare sanitară veterinară a unităților și activităților din domeniul farmaceutic veterinar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91783",
+   "versions": [
+    {
+     "from": "2008-04-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91783",
+     "sha256": "6b303b368efcc5c6ec657cbff956927d90d616b325b78d5a66a7d7722bcd5781"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-25-2008",
+   "path": "ordin/ansvsa/2008/25",
+   "short": "Ordin ansvsa nr. 25/2008",
+   "title": "Ordinul nr. 25/2008 pentru aprobarea Normei sanitare veterinare privind metodologia de prelevare, prelucrare primară, ambalare și transport al probelor destinate examenelor de laborator în domeniul sănătății animalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92059",
+   "versions": [
+    {
+     "from": "2008-05-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92059",
+     "sha256": "c1f7571ffe13cc8f6e55c3e533738981eb41953d09a5d16323294554a0b42b17"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-29-2008",
+   "path": "ordin/ansvsa/2008/29",
+   "short": "Ordin ansvsa nr. 29/2008",
+   "title": "Ordinul nr. 29/2008 pentru aprobarea Normei sanitare veterinare privind măsurile generale de prevenire și control al rabiei la animale domestice și sălbatice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91788",
+   "versions": [
+    {
+     "from": "2008-04-24",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91788",
+     "sha256": "a09c4ee956bcab112025470cb98839882495e001d516c04867287d7b5aa58ddd"
     }
    ]
   },
@@ -1908,6 +2088,276 @@
    ]
   },
   {
+   "slug": "ordin-ansvsa-34-2008",
+   "path": "ordin/ansvsa/2008/34",
+   "short": "Ordin ansvsa nr. 34/2008",
+   "title": "Ordinul nr. 34/2008 pentru aprobarea Normei sanitare veterinare și pentru siguranța alimentelor privind acordarea de derogări unităților care realizează produse alimentare ce prezintă caracteristici tradiționale de la cerințele menționate în Regulamentul Parlamentului European și al Consiliului nr. 852/2004/CE privind igiena produselor alimentare, precum și de stabilire a procedurii de acordare a derogărilor și de înregistrare sanitară veterinară și pentru siguranța alimentelor a unităților în care se realizează produse alimentare ce prezintă caracteristici tradiționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91647",
+   "versions": [
+    {
+     "from": "2008-04-22",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91647",
+     "sha256": "7de45a88a6997a212770b6779a976d8b4c8321b4dde4fbe1b59be735b72d55ac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-36-2008",
+   "path": "ordin/ansvsa/2008/36",
+   "short": "Ordin ansvsa nr. 36/2008",
+   "title": "Ordinul nr. 36/2008 privind aprobarea Listei standardelor române care adoptă standardele europene și internaționale din domeniul sanitar-veterinar și pentru siguranța alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92474",
+   "versions": [
+    {
+     "from": "2008-05-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92474",
+     "sha256": "24f1e98e02d0ed5369591c53be581e56871bb75f1f6396bbd89751b62dc04bd8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-4-2008",
+   "path": "ordin/ansvsa/2008/4",
+   "short": "Ordin ansvsa nr. 4/2008",
+   "title": "Ordinul nr. 4/2008 privind aprobarea Programului acțiunilor de supraveghere, prevenire și control al bolilor la animale, al celor transmisibile de la animale la om, protecția animalelor și protecția mediului pentru anul 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89254",
+   "versions": [
+    {
+     "from": "2008-02-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89254",
+     "sha256": "0e7b632a6fca9daa80d1ea3663f62aeeef2590ad6905a11c6d1123aa5e852719"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-45-2008",
+   "path": "ordin/ansvsa/2008/45",
+   "short": "Ordin ansvsa nr. 45/2008",
+   "title": "Ordinul nr. 45/2008 privind modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 205/2006 pentru aprobarea Normei sanitare veterinare care stabilește cerințele de sănătate a animalelor aplicabile comerțului intracomunitar și importului de material seminal provenit de la animale domestice din specia bovine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93843",
+   "versions": [
+    {
+     "from": "2008-06-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93843",
+     "sha256": "7205291ba9f942b6ad07e44e977ffb73176190b1da9f8a26069cd0ea6c5c9052"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-55-2008",
+   "path": "ordin/ansvsa/2008/55",
+   "short": "Ordin ansvsa nr. 55/2008",
+   "title": "Ordinul nr. 55/2008 privind aprobarea Normelor metodologice de aplicare a Programului acțiunilor de supraveghere, prevenire și control al bolilor la animale, al celor transmisibile de la animale la om, protecția animalelor și protecția mediului pentru anul 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94568",
+   "versions": [
+    {
+     "from": "2008-06-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94568",
+     "sha256": "167300218334e1a5f24cab9e24420a06b362123a1b8cbc66efb2e049d80b842a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-60-2008",
+   "path": "ordin/ansvsa/2008/60",
+   "short": "Ordin ansvsa nr. 60/2008",
+   "title": "Ordinul nr. 60/2008 privind modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 170/2007 pentru aprobarea Normei sanitare veterinare ce stabilește cerințele de sănătate animală pentru animalele de acvacultură și produsele acestora, precum și pentru prevenirea și controlul anumitor boli ale animalelor acvatice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96063",
+   "versions": [
+    {
+     "from": "2008-08-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96063",
+     "sha256": "3351a7a5112ad1f4618c76517e20e2f35c0fbe5e3bd9d65340cc778f0658f6d8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-61-2008",
+   "path": "ordin/ansvsa/2008/61",
+   "short": "Ordin ansvsa nr. 61/2008",
+   "title": "Ordinul nr. 61/2008 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 23/2007 pentru aprobarea Normei sanitare veterinare și pentru siguranța alimentelor privind stabilirea limitelor maxime de reziduuri de pesticide din conținutul sau de pe suprafața produselor alimentare de origine animală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95746",
+   "versions": [
+    {
+     "from": "2008-09-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95746",
+     "sha256": "bc8afc6c02eabe4fb65156efb59c231b19c6bb16e9f03f9e2d7fa1a83ce5040e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-63-2008",
+   "path": "ordin/ansvsa/2008/63",
+   "short": "Ordin ansvsa nr. 63/2008",
+   "title": "Ordinul nr. 63/2008 pentru aprobarea Normei sanitare veterinare privind regulile generale de biosecuritate în exploatațiile de porcine înregistrate/autorizate sanitar-veterinar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97249",
+   "versions": [
+    {
+     "from": "2008-09-10",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97249",
+     "sha256": "600a0c78c7718499f30ca57f6ea34f7ca185381e989459e18619b79dd7a90d3c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-70-2008",
+   "path": "ordin/ansvsa/2008/70",
+   "short": "Ordin ansvsa nr. 70/2008",
+   "title": "Ordinul nr. 70/2008 privind aprobarea Rețelei pentru monitorizarea Programului strategic privind monitorizarea, controlul și eradicarea pestei porcine clasice în România pentru anul 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97152",
+   "versions": [
+    {
+     "from": "2008-09-05",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97152",
+     "sha256": "6ad784a1cd830eb7fb4ee8b88439b6332c453293856be188056dda19cb3be5f7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-72-2008",
+   "path": "ordin/ansvsa/2008/72",
+   "short": "Ordin ansvsa nr. 72/2008",
+   "title": "Ordinul nr. 72/2008 privind abrogarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 207/2006 pentru aprobarea Normei sanitare veterinare referitoare la echipamentul electromedical utilizat în medicina veterinară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97149",
+   "versions": [
+    {
+     "from": "2008-12-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97149",
+     "sha256": "9d9dde070b9c056a7e096be37620312564c4eee71cb2f4ea3ff5d839dd040a25"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-78-2008",
+   "path": "ordin/ansvsa/2008/78",
+   "short": "Ordin ansvsa nr. 78/2008",
+   "title": "Ordinul nr. 78/2008 pentru aprobarea Ghidului privind cadrul legal care reglementează importurile paralele de produse medicinale veterinare pentru care s-a acordat deja o autorizație de comercializare și a Procedurii simplificate de obținere a autorizațiilor de comercializare pentru produse medicinale veterinare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98218",
+   "versions": [
+    {
+     "from": "2008-10-20",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98218",
+     "sha256": "335bd3c66534f1c949fe52aeff156a8cf339c3ea4dc0ecc60bc589d4c72a7b0b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-79-2008",
+   "path": "ordin/ansvsa/2008/79",
+   "short": "Ordin ansvsa nr. 79/2008",
+   "title": "Ordinul nr. 79/2008 pentru aprobarea Normei sanitare veterinare privind notificarea internă și declararea oficială a unor boli transmisibile ale animalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98039",
+   "versions": [
+    {
+     "from": "2008-10-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98039",
+     "sha256": "0c04850caf7d632ca17ac4a8ed17b372ed3a2528f49a04d5c3189ea609b35ec5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-80-2008",
+   "path": "ordin/ansvsa/2008/80",
+   "short": "Ordin ansvsa nr. 80/2008",
+   "title": "Ordinul nr. 80/2008 privind modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 145/2007 privind aprobarea Normei pentru siguranța alimentelor care stabilește condițiile în care se derulează operațiunile de import-export și comerț intracomunitar de produse alimentare de origine nonanimală supuse supravegherii și controlului pentru siguranța alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98046",
+   "versions": [
+    {
+     "from": "2008-11-13",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98046",
+     "sha256": "4b4f48ce990ed369737df00db43682f19c9c5b6c5ee14b2f48d886713de0737b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-82-2008",
+   "path": "ordin/ansvsa/2008/82",
+   "short": "Ordin ansvsa nr. 82/2008",
+   "title": "Ordinul nr. 82/2008 privind modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 206/2006 pentru aprobarea Normei sanitare veterinare care stabilește principiile ce reglementează organizarea controalelor veterinare privind produsele ce intră în Comunitatea Europeană din țări terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98414",
+   "versions": [
+    {
+     "from": "2008-10-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98414",
+     "sha256": "1d36c29c72e5e749aff8e1c4540569753eee0f757b3823001335142bbe152076"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-83-2008",
+   "path": "ordin/ansvsa/2008/83",
+   "short": "Ordin ansvsa nr. 83/2008",
+   "title": "Ordinul nr. 83/2008 pentru aprobarea Normelor metodologice de aplicare a Programului acțiunilor privind identificarea și înregistrarea porcinelor, ovinelor și caprinelor, precum și a Programului acțiunilor privind identificarea și înregistrarea bovinelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99118",
+   "versions": [
+    {
+     "from": "2008-11-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99118",
+     "sha256": "7f772c61a18a6928fbdc696971c834ee473038a227513e8320ef68567da43566"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-84-2008",
+   "path": "ordin/ansvsa/2008/84",
+   "short": "Ordin ansvsa nr. 84/2008",
+   "title": "Ordinul nr. 84/2008 privind modificarea anexei nr. 5 la Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 45/2005 privind aprobarea tarifelor pentru efectuarea analizelor și examenelor de laborator, precum și a unor activități sanitare veterinare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98566",
+   "versions": [
+    {
+     "from": "2008-10-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98566",
+     "sha256": "5af096b68e17b982b874a805cc0c1af95857adf1c6345cdd02e83af142324ad5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-85-2008",
+   "path": "ordin/ansvsa/2008/85",
+   "short": "Ordin ansvsa nr. 85/2008",
+   "title": "Ordinul nr. 85/2008 pentru aprobarea Normei sanitare veterinare privind sistemul de identificare și înregistrare a suinelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97923",
+   "versions": [
+    {
+     "from": "2008-10-09",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97923",
+     "sha256": "0fbb74e162449336f8667e68d2d37ef1455d2e5684c7494b7070c450125690a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-93-2008",
+   "path": "ordin/ansvsa/2008/93",
+   "short": "Ordin ansvsa nr. 93/2008",
+   "title": "Ordinul nr. 93/2008 pentru aprobarea Normei sanitare veterinare privind procedura de autorizare sanitară veterinară a unităților care produc, procesează, depozitează, transportă și/sau distribuie produse de origine animală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99198",
+   "versions": [
+    {
+     "from": "2008-11-24",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99198",
+     "sha256": "02105526d7de5c666df4acec7eb4ef394fe152ed9a4ed77577b932b8e7566b33"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-1-2008",
    "path": "ordin/bnr/2008/1",
    "short": "Ordin bnr nr. 1/2008",
@@ -1916,7 +2366,7 @@
    "versions": [
     {
      "from": "2008-01-23",
-     "units": 5,
+     "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89015",
      "sha256": "b91fa0beb4a8629362fc4028831332533aed92e457fdaa5ff85941dca870ee70"
     }
@@ -1931,7 +2381,7 @@
    "versions": [
     {
      "from": "2009-01-01",
-     "units": 11,
+     "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100751",
      "sha256": "df024e962e4183679369ae10a468d3c6a3085c263dd755dac9d156f85fc3bd43"
     }
@@ -1946,7 +2396,7 @@
    "versions": [
     {
      "from": "2009-01-08",
-     "units": 6,
+     "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101108",
      "sha256": "169df4a701ebd71f37295e3ea10d0a12b06dad43cbd128e5448163a95e599e94"
     }
@@ -2021,7 +2471,7 @@
    "versions": [
     {
      "from": "2008-08-25",
-     "units": 5,
+     "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96841",
      "sha256": "1e06910c7444e5ac8465c604711b6e0e36eb9a1f9a0ea937602db61498d6e710"
     }
@@ -7008,6 +7458,51 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1607-2008",
+   "path": "ordin/mediu/2008/1607",
+   "short": "Ordin mediu nr. 1607/2008",
+   "title": "Ordinul nr. 1.607/2008 privind modificarea și completarea Ordinului ministrului mediului și gospodăririi apelor nr. 578/2006 pentru aprobarea Metodologiei de calcul al contribuțiilor și taxelor datorate la Fondul pentru mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100678",
+   "versions": [
+    {
+     "from": "2008-12-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100678",
+     "sha256": "10dbe5bc998ca367c1b5efffe89fee3374e53c27a48767db5c71b388e84b4217"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1632-2008",
+   "path": "ordin/mediu/2008/1632",
+   "short": "Ordin mediu nr. 1632/2008",
+   "title": "Ordinul nr. 1.632/2008 pentru modificarea Ghidului de finanțare a Programului de înlocuire sau completare a sistemelor clasice de încălzire cu sisteme care utilizează energie solară, energie geotermală și energie eoliană ori alte sisteme care conduc la îmbunătățirea calității aerului, apei și solului, aprobat prin Ordinul ministrului mediului și dezvoltării durabile nr. 1.339/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100923",
+   "versions": [
+    {
+     "from": "2008-12-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100923",
+     "sha256": "ac4618534350b04c9938920f226cc07bfe092f83a84a673c5da99bf9dd58a35f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-296-2008",
+   "path": "ordin/mediu/2008/296",
+   "short": "Ordin mediu nr. 296/2008",
+   "title": "Ordinul nr. 296/2008 pentru modificarea și completarea Metodologiei privind elaborarea Planului național de alocare, aprobată prin Ordinul ministrului mediului și gospodăririi apelor nr. 85/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91044",
+   "versions": [
+    {
+     "from": "2008-04-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91044",
+     "sha256": "65a0ce59bcaa435955dd728fb83cb487248fe9d8c10db5a0344633b2ba9f30eb"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-297-2008",
    "path": "ordin/mediu/2008/297",
    "short": "Ordin mediu nr. 297/2008",
@@ -7068,6 +7563,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-636-2008",
+   "path": "ordin/mediu/2008/636",
+   "short": "Ordin mediu nr. 636/2008",
+   "title": "Ordinul nr. 636/2008 pentru completarea Ordinului ministrului mediului și gospodăririi apelor nr. 1.274/2005 privind emiterea avizului de mediu la încetarea activităților de eliminare a deșeurilor, respectiv depozitare și incinerare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93725",
+   "versions": [
+    {
+     "from": "2008-06-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93725",
+     "sha256": "47d377cbfbb75e1d096952fa9e69ddea82f7449abe3fec94a665416822a47d8f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-831-2008",
    "path": "ordin/mediu/2008/831",
    "short": "Ordin mediu nr. 831/2008",
@@ -7079,6 +7589,21 @@
      "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97008",
      "sha256": "6c98ce44490f583941f9b1a5a6ed44d99b487e8b2e1446b8c6e822dc7e826eb1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-864-2008",
+   "path": "ordin/mediu/2008/864",
+   "short": "Ordin mediu nr. 864/2008",
+   "title": "Ordinul nr. 864/2008 pentru modificarea Instrucțiunilor privind modalitățile de aplicare a Ordonanței de urgență a Guvernului nr. 55/2008 privind reluarea pentru anul 2008 a Programului de stimulare a înnoirii Parcului auto național, aprobate prin Ordinul ministrului mediului și dezvoltării durabile nr. 535/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96035",
+   "versions": [
+    {
+     "from": "2008-07-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96035",
+     "sha256": "b7537f4a2abcfff89aaf51078c9d1374b910cf833f5ed509f80f1cfea22a6978"
     }
    ]
   },
@@ -10709,6 +11234,96 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96441",
      "sha256": "a3baa264b94674c5855a289aa93e602308e096434c56e1aaf19da7357c90a61c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-349-2008",
+   "path": "ordin/vama/2008/349",
+   "short": "Ordin vama nr. 349/2008",
+   "title": "Ordinul nr. 349/2008 pentru modificarea și completarea Normelor de autorizare a regimurilor vamale economice, aprobate prin Ordinul vicepreședintelui Agenției Naționale de Administrare Fiscală nr. 7.789/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89624",
+   "versions": [
+    {
+     "from": "2008-02-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89624",
+     "sha256": "4aa415c98eecb26b82471b3be6a0f18b1d0980cb220c436d1ca35f819c31bf24"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-356-2008",
+   "path": "ordin/vama/2008/356",
+   "short": "Ordin vama nr. 356/2008",
+   "title": "Ordinul nr. 356/2008 privind modificarea Ordinului vicepreședintelui Agenției Naționale de Administrare Fiscală nr. 9.250/2006 pentru aprobarea Normelor privind funcționarea Laboratorului vamal central și modalitatea de efectuare a analizelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89718",
+   "versions": [
+    {
+     "from": "2008-02-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89718",
+     "sha256": "d0ee9db7d966eacd01e2dfe8be7fd67f83bb51526e3bea5e6dda1927f55bfb0e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-5121-2008",
+   "path": "ordin/vama/2008/5121",
+   "short": "Ordin vama nr. 5121/2008",
+   "title": "Ordinul nr. 5.121/2008 privind modificarea și completarea Ordinului vicepreședintelui Agenției Naționale de Administrare Fiscală nr. 6.632/2007 pentru aprobarea Normelor tehnice de utilizare a Sistemului de control al exportului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93817",
+   "versions": [
+    {
+     "from": "2008-06-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93817",
+     "sha256": "61837b4de757923a24dc562c5d0f1a452de514f3c08c7820aa6472887c2560c2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-5688-2008",
+   "path": "ordin/vama/2008/5688",
+   "short": "Ordin vama nr. 5688/2008",
+   "title": "Ordinul nr. 5.688/2008 pentru modificarea anexei la Ordinul vicepreședintelui Agenției Naționale de Administrare Fiscală nr. 9.710/2006 privind abilitarea unor birouri vamale de a efectua formalități vamale cu produse strategice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95832",
+   "versions": [
+    {
+     "from": "2008-07-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95832",
+     "sha256": "1825a655c746539c099b16a5608e413aeedbab6506d76e158c9a1b75b256b906"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-8061-2008",
+   "path": "ordin/vama/2008/8061",
+   "short": "Ordin vama nr. 8061/2008",
+   "title": "Ordinul nr. 8.061/2008 pentru modificarea și completarea Normelor privind procedurile simplificate de vămuire, aprobate prin Ordinul vicepreședintelui Agenției Naționale de Administrare Fiscală nr. 5.465/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100853",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100853",
+     "sha256": "27fe8c9a3052bf3222ade101b4666cc3551f18125c6f430abce10a8d5393e2d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-8270-2008",
+   "path": "ordin/vama/2008/8270",
+   "short": "Ordin vama nr. 8270/2008",
+   "title": "Ordinul nr. 8.270/2008 privind aprobarea Normelor tehnice pentru aplicarea regimului de tranzit sub acoperirea carnetelor TIR",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100987",
+   "versions": [
+    {
+     "from": "2009-01-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100987",
+     "sha256": "8aa5c5d47561740b440b8217b76e42fc432a0c962d8df9cc8319a0b4c0bb9345"
     }
    ]
   }

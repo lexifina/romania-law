@@ -311,7 +311,7 @@
    "versions": [
     {
      "from": "2007-07-20",
-     "units": 29,
+     "units": 31,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83743",
      "sha256": "3bc2790887c2b3fe86726c01a4dafaa7df6b5d82da303141cee8246faa29b440"
     }
@@ -356,7 +356,7 @@
    "versions": [
     {
      "from": "2008-06-13",
-     "units": 59,
+     "units": 61,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94022",
      "sha256": "05c3b7f76af3880fa537feb8be3e247ab7d3a60262e8da81f1c6c6f17bfd327f"
     }
@@ -386,7 +386,7 @@
    "versions": [
     {
      "from": "2007-03-22",
-     "units": 33,
+     "units": 45,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80491",
      "sha256": "ab96e936dbc54aa505b53dd1822b8dd96635c57edc970e9d58aa5cacccc3266b"
     }
@@ -611,7 +611,7 @@
    "versions": [
     {
      "from": "2007-03-26",
-     "units": 19,
+     "units": 21,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80521",
      "sha256": "3161a91d7c844416580e49e5007d5fb3c22f37ed4f6f21c79f223a0f2b9f59a2"
     }

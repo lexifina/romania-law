@@ -2,13 +2,15 @@
 
 Ordin anaf nr. 200/2014 · 1 versions, from 2014-03-01 (latest in force: 2014-03-01) · <https://legislatie.just.ro/Public/DetaliiDocument/155412>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 ([SIGLA ANAF] ANAF ┌────┬───────────────────────────────────┬───────────────────────────────────┐ │Nr. │Unitatea fiscală care funcționează │Unitatea ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. I | [art-001.md](art-001.md) | 0 |  |
 | Art. II | [art-002.md](art-002.md) | 0 |  |
 | Art. III | [art-003.md](art-003.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 
 Act id: `ordin-anaf-200-2014` (tags `ordin-anaf-200-2014/<day>`; `python tools/on.py <day> ordin-anaf-200-2014`).
 
@@ -18,4 +20,4 @@ Act id: `ordin-anaf-200-2014` (tags `ordin-anaf-200-2014/<day>`; `python tools/o
 - Ordin anaf nr. 200/2014: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin anaf nr. 200/2014: the first version is the order as published in Monitorul Oficial nr. 102 of 11 February 2014 (document 155412 of the official web service), in force on 1 March 2014, the day it states for itself.
 - Ordin anaf nr. 200/2014: the signatures and the place and date line after its last article are not article text.
-- Ordin anaf nr. 200/2014: Anexa nr. 1 ([SIGLA ANAF] ANAF ┌────┬───────────────────────────────────┬───────────────────────────────────┐ │Nr. │Unitatea fiscală care funcționează │Unitatea ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 200/2014: Anexa nr. 1 ([SIGLA ANAF] ANAF) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 155412 of the official web service.

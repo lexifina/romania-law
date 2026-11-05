@@ -2,7 +2,7 @@
 
 Ordin anre nr. 37/2003 · 1 versions, from 2004-01-01 (latest in force: 2004-01-01) · <https://legislatie.just.ro/Public/DetaliiDocument/48872>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1.1 TARIFUL BINOM DIFERENȚIAT PE ZONE ORARE ȘI DURATE DE UTILIZARE - A33 *Font 7* ...): it is a table that the official text holds only flattened; Anexa nr. 2 (1.2 TARIFELE A, B, C și D *Font 9* ┌─┬──────┬────────────────────────────────────────────────────────────────┬─────┐ │N│ │ PRETURI PENTRU ENERGIE ELECTRICA ...): it is a table that the official text holds only flattened; Anexa nr. 3 (1.3 TARIFELE ZI-NOAPTE E1 și E2 ┌─┬───────────────────┬─────────────────────────┬───────────────────────┐ │ │ │ E1 │ E2 │ │ │ │Tarif pentru consumul de │Tarif ...): it is a table that the official text holds only flattened; Anexa nr. 4 (1.4 TARIFELE PENTRU CONSUMATORII CASNICI CARE CUPRIND TAXA PE VALOAREA ADĂUGATĂ Pentru contoare cu plata post consum *Font 7* ...): it is a table that the official text holds only flattened; Anexa nr. 5 (1.5 TARIFUL DIFERENTIAT PE ZONE ORARE SI DURATE DE UTILIZARE - A33AP (NUMAI PENTRU AUTOPRODUCATORI CARE LIVREAZA ENERGIE ELECTRICA FILIALELOR DE DISTRIBUTIE SI ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 4 (1.4 TARIFELE PENTRU CONSUMATORII CASNICI CARE CUPRIND TAXA PE VALOAREA ADĂUGATĂ Pentru contoare cu plata post consum *Font 7*): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -26,6 +26,14 @@ Ordin anre nr. 37/2003 · 1 versions, from 2004-01-01 (latest in force: 2004-01-
 | Art. 18 | [art-018.md](art-018.md) | 0 |  |
 | Art. 19 | [art-019.md](art-019.md) | 0 |  |
 | Art. 20 | [art-020.md](art-020.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
+| Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
+| Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
 | Anexa nr. 6 (what it is) | [anexa-6/README.md](anexa-6/README.md) | 0 |  |
 | Anexa nr. 6 | [anexa-6/text.md](anexa-6/text.md) | 0 |  |
 | Anexa nr. 7 (what it is) | [anexa-7/README.md](anexa-7/README.md) | 0 |  |
@@ -41,12 +49,12 @@ Act id: `ordin-anre-37-2003` (tags `ordin-anre-37-2003/<day>`; `python tools/on.
 - Ordin anre nr. 37/2003: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin anre nr. 37/2003: the first version is the order as published in Monitorul Oficial nr. 934 of 24 December 2003 (document 48872 of the official web service), in force on 1 January 2004, the day it states for itself.
 - Ordin anre nr. 37/2003: the signatures and the place and date line after its last article are not article text.
+- Ordin anre nr. 37/2003: Anexa nr. 1 (1.1 TARIFUL BINOM DIFERENȚIAT PE ZONE ORARE ȘI DURATE DE UTILIZARE - A33 *Font 7*) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 48872 of the official web service.
+- Ordin anre nr. 37/2003: Anexa nr. 2 (1.2 TARIFELE A, B, C și D *Font 9*) is part of the order and is published in its folder, anexa-2/ (paragraphs and tables), from document 48872 of the official web service.
+- Ordin anre nr. 37/2003: Anexa nr. 3 (1.3 TARIFELE ZI-NOAPTE E1 și E2) is part of the order and is published in its folder, anexa-3/ (paragraphs and tables), from document 48872 of the official web service.
+- Ordin anre nr. 37/2003: Anexa nr. 5 (1.5 TARIFUL DIFERENTIAT PE ZONE ORARE SI DURATE DE UTILIZARE - A33AP (NUMAI PENTRU AUTOPRODUCATORI CARE LIVREAZA ENERGIE ELECTRICA FILIALELOR DE DISTRIBUTIE SI FURNIZARE)) is part of the order and is published in its folder, anexa-5/ (paragraphs and tables), from document 48872 of the official web service.
 - Ordin anre nr. 37/2003: Anexa nr. 6 (2.1 ZONELE ORARE UTILIZATE LA TARIFUL A33 Luna Zona vârf Zona de gol Zona normala Ianuarie zile lucratoare sambata, duminica 8 - 10 - 17 - 22 - 0 - 6 22 - 17 10 - 17, 22 - 0, 6 - 8 17 - 22 Februarie z) is part of the order and is published in its folder, anexa-6/ (paragraphs), from document 48872 of the official web service.
 - Ordin anre nr. 37/2003: Anexa nr. 7 (2.2 ZONELE ORARE UTILIZATE LA TARIFELE A și B Luna Zona vârf seara Zona rest ore Ianuarie 17-22 22-17 Februarie 17-22 22-17 Martie 17-22 22-17 Aprilie 20-22 22-20 Mai 20-22 22-20 Iunie - 0-24 Iulie -) is part of the order and is published in its folder, anexa-7/ (paragraphs), from document 48872 of the official web service.
 - Ordin anre nr. 37/2003: Anexa nr. 8 (2.3 ZONELE ORARE UTILIZATE PENTRU TARIFELE CA3 și CP3 SEZON Zona de vârf Zona de gol Zona normala VARA 08:00-9:00 00:00-08:00 21:00-00:00 vineri ora 21:00 până luni ora 08:00 09:00-21:00 IARNA 08:00-1) is part of the order and is published in its folder, anexa-8/ (paragraphs), from document 48872 of the official web service.
-- Ordin anre nr. 37/2003: Anexa nr. 1 (1.1 TARIFUL BINOM DIFERENȚIAT PE ZONE ORARE ȘI DURATE DE UTILIZARE - A33 *Font 7* ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anre nr. 37/2003: Anexa nr. 2 (1.2 TARIFELE A, B, C și D *Font 9* ┌─┬──────┬────────────────────────────────────────────────────────────────┬─────┐ │N│ │ PRETURI PENTRU ENERGIE ELECTRICA ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anre nr. 37/2003: Anexa nr. 3 (1.3 TARIFELE ZI-NOAPTE E1 și E2 ┌─┬───────────────────┬─────────────────────────┬───────────────────────┐ │ │ │ E1 │ E2 │ │ │ │Tarif pentru consumul de │Tarif ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anre nr. 37/2003: Anexa nr. 4 (1.4 TARIFELE PENTRU CONSUMATORII CASNICI CARE CUPRIND TAXA PE VALOAREA ADĂUGATĂ Pentru contoare cu plata post consum *Font 7* ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anre nr. 37/2003: Anexa nr. 5 (1.5 TARIFUL DIFERENTIAT PE ZONE ORARE SI DURATE DE UTILIZARE - A33AP (NUMAI PENTRU AUTOPRODUCATORI CARE LIVREAZA ENERGIE ELECTRICA FILIALELOR DE DISTRIBUTIE SI ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anre nr. 37/2003: Anexa nr. 4 (1.4 TARIFELE PENTRU CONSUMATORII CASNICI CARE CUPRIND TAXA PE VALOAREA ADĂUGATĂ Pentru contoare cu plata post consum *Font 7*) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin anre nr. 37/2003: the publisher's notes run into its text (*) Preturile pentru energia electrica reactiva se aplică consumatorilor agenţi economici cu factor de putere mediu lunar; *) Se aplica şi consumului "înregistrat în perioada vineri orele 22,00 până luni orele 6,00) are not text.

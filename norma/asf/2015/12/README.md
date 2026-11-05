@@ -2,7 +2,7 @@
 
 Norma asf nr. 12/2015 · 1 versions, from 2016-01-01 (latest in force: 2016-01-01) · <https://legislatie.just.ro/Public/DetaliiDocument/170739>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 la normă DECLARAȚIE privind proveniența capitalului social Această declarație va fi completată de către fiecare dintre fondatorii societății de pensii ...): it is a table that the official text holds only flattened; Anexa nr. 2 (2 la normă CHESTIONAR pentru participanții la capitalul social Acest chestionar va fi completat de către fiecare dintre fondatorii societății de pensii ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -32,6 +32,10 @@ Norma asf nr. 12/2015 · 1 versions, from 2016-01-01 (latest in force: 2016-01-0
 | Art. 24 | [art-024.md](art-024.md) | 0 |  |
 | Art. 25 | [art-025.md](art-025.md) | 0 |  |
 | Art. 26 | [art-026.md](art-026.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 
 Act id: `norma-asf-12-2015` (tags `norma-asf-12-2015/<day>`; `python tools/on.py <day> norma-asf-12-2015`).
 
@@ -41,5 +45,5 @@ Act id: `norma-asf-12-2015` (tags `norma-asf-12-2015/<day>`; `python tools/on.py
 - Norma asf nr. 12/2015: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Norma asf nr. 12/2015: the first version is the norm as published in Monitorul Oficial nr. 633 of 20 August 2015 (document 170739 of the official web service), in force on 1 January 2016, the day it states for itself.
 - Norma asf nr. 12/2015: the signatures and the place and date line after its last article are not article text.
-- Norma asf nr. 12/2015: Anexa nr. 1 (1 la normă DECLARAȚIE privind proveniența capitalului social Această declarație va fi completată de către fiecare dintre fondatorii societății de pensii ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma asf nr. 12/2015: Anexa nr. 2 (2 la normă CHESTIONAR pentru participanții la capitalul social Acest chestionar va fi completat de către fiecare dintre fondatorii societății de pensii ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Norma asf nr. 12/2015: Anexa nr. 1 (1 la normă DECLARAȚIE privind proveniența capitalului social Această declarație va fi completată de către fiecare dintre fondatorii societății de pensii (persoane fizice și persoane juridice)/acționar) is part of the norm and is published in its folder, anexa-1/ (paragraphs and tables), from document 170739 of the official web service.
+- Norma asf nr. 12/2015: Anexa nr. 2 (2 la normă CHESTIONAR pentru participanții la capitalul social Acest chestionar va fi completat de către fiecare dintre fondatorii societății de pensii (persoane fizice și persoane juridice)/acționari) is part of the norm and is published in its folder, anexa-2/ (paragraphs and tables), from document 170739 of the official web service.

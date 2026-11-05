@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 18/2015 · 1 versions, from 2015-01-15 (latest in force: 2015-01-15) · <https://legislatie.just.ro/Public/DetaliiDocument/164649>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 3 (3 DECIZIE privind înregistrarea în scopuri de taxă pe valoarea adăugată, potrivit prevederilor art. 153 alin. (9^1) din Legea nr. 571/2003 privind Codul ...): it is a table that the official text holds only flattened; Anexa nr. 4 (4 DECIZIE privind respingerea Cererii de înregistrare în scopuri de taxă pe valoarea adăugată, potrivit prevederilor art. 153 alin. (9^1) din Legea nr. ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -20,6 +20,10 @@ Ordin anaf nr. 18/2015 · 1 versions, from 2015-01-15 (latest in force: 2015-01-
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 | Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
+| Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
+| Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
 | Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
 | Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
 | Anexa nr. 6 (what it is) | [anexa-6/README.md](anexa-6/README.md) | 0 |  |
@@ -35,7 +39,7 @@ Act id: `ordin-anaf-18-2015` (tags `ordin-anaf-18-2015/<day>`; `python tools/on.
 - Ordin anaf nr. 18/2015: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 18/2015: Anexa nr. 1 (1 PROCEDURA 07/01/2015) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 164649 of the official web service.
 - Ordin anaf nr. 18/2015: Anexa nr. 2 (2) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 164649 of the official web service.
+- Ordin anaf nr. 18/2015: Anexa nr. 3 (3 DECIZIE privind înregistrarea în scopuri de taxă pe valoarea adăugată, potrivit prevederilor art. 153 alin. (9^1) din Legea nr. 571/2003 privind Codul fiscal, cu modificările și completările ulterio) is part of the order and is published in its folder, anexa-3/ (paragraphs and tables), from document 164649 of the official web service.
+- Ordin anaf nr. 18/2015: Anexa nr. 4 (4 DECIZIE privind respingerea Cererii de înregistrare în scopuri de taxă pe valoarea adăugată, potrivit prevederilor art. 153 alin. (9^1) din Legea nr. 571/2003 privind Codul fiscal, cu modificările ș) is part of the order and is published in its folder, anexa-4/ (paragraphs and tables), from document 164649 of the official web service.
 - Ordin anaf nr. 18/2015: Anexa nr. 5 (5 INSTRUCȚIUNI de completare a formularului "Cerere de înregistrare în scopuri de taxă pe valoarea adăugată, potrivit art. 153 alin. (9^1) din Legea nr. 571/2003 privind Codul fiscal, cu modificările) is part of the order and is published in its folder, anexa-5/ (paragraphs), from document 164649 of the official web service.
 - Ordin anaf nr. 18/2015: Anexa nr. 6 (6 Caracteristicile de tipărire, modul de difuzare, de utilizare și de arhivare a formularelor 1. Denumire: "Cerere de înregistrare în scopuri de taxă pe valoarea adăugată, potrivit art. 153 alin. (9^1) is part of the order and is published in its folder, anexa-6/ (paragraphs), from document 164649 of the official web service.
-- Ordin anaf nr. 18/2015: Anexa nr. 3 (3 DECIZIE privind înregistrarea în scopuri de taxă pe valoarea adăugată, potrivit prevederilor art. 153 alin. (9^1) din Legea nr. 571/2003 privind Codul ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anaf nr. 18/2015: Anexa nr. 4 (4 DECIZIE privind respingerea Cererii de înregistrare în scopuri de taxă pe valoarea adăugată, potrivit prevederilor art. 153 alin. (9^1) din Legea nr. ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

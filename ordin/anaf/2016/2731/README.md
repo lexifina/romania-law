@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 2731/2016 · 1 versions, from 2016-10-25 (latest in force: 2016-10-25) · <https://legislatie.just.ro/Public/DetaliiDocument/182934>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 [] Declarație rectificativă ┌──────────────────────────────────────────────────────────────────────────────┐ │I. DATE DE IDENTIFICARE A CONTRIBUABILULUI │ ...): it is a table that the official text holds only flattened; Anexa nr. 3 (3 ┌──────────────────────────────────────────────────────────────────────────────┐ │I. DATE DE IDENTIFICARE A CONTRIBUABILULUI │ ...): it is a table that the official text holds only flattened; Anexa nr. 4 (4 *Font 9* 606 Sigla DGRFP Ministerul Finanțelor Publice Agenția Națională de Administrare Fiscală Direcția generală regională a finanțelor publice........... ...): it is a table that the official text holds only flattened; Anexa nr. 5 (la Decizia de impunere privind contribuția de asigurări sociale de sănătate datorată de persoanele fizice potrivit art. 180 alin. (1) lit. a) din Codul fiscal ...): it is a table that the official text holds only flattened; Anexa nr. 6 (5 *Font 9* 607 Sigla DGRFP Ministerul Finanțelor Publice Agenția Națională de Administrare Fiscală Direcția generală regională a finanțelor publice........... ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 6 (5 *Font 9* 607 Sigla DGRFP Ministerul Finanțelor Publice Agenția Națională de Administrare Fiscală Direcția generală regională a finanțelor publice........... ...): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -15,6 +15,14 @@ Ordin anaf nr. 2731/2016 · 1 versions, from 2016-10-25 (latest in force: 2016-1
 | Art. 7 | [art-007.md](art-007.md) | 0 |  |
 | Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
+| Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
+| Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
+| Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
+| Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
 | Anexa nr. 7 (what it is) | [anexa-7/README.md](anexa-7/README.md) | 0 |  |
 | Anexa nr. 7 | [anexa-7/text.md](anexa-7/text.md) | 0 |  |
 | Anexa nr. 8 (what it is) | [anexa-8/README.md](anexa-8/README.md) | 0 |  |
@@ -29,10 +37,10 @@ Act id: `ordin-anaf-2731-2016` (tags `ordin-anaf-2731-2016/<day>`; `python tools
 - Ordin anaf nr. 2731/2016: the first version is the order as published in Monitorul Oficial nr. 845 of 25 October 2016 (document 182934 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin anaf nr. 2731/2016: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 2731/2016: Anexa nr. 1 (1 PROCEDURA 20/09/2016) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 182934 of the official web service.
+- Ordin anaf nr. 2731/2016: Anexa nr. 2 (2 [] Declarație rectificativă) is part of the order and is published in its folder, anexa-2/ (paragraphs and tables), from document 182934 of the official web service.
+- Ordin anaf nr. 2731/2016: Anexa nr. 3 (3) is part of the order and is published in its folder, anexa-3/ (paragraphs and tables), from document 182934 of the official web service.
+- Ordin anaf nr. 2731/2016: Anexa nr. 4 (4 *Font 9* 606 Sigla DGRFP Ministerul Finanțelor Publice Agenția Națională de Administrare Fiscală Direcția generală regională a finanțelor publice........... Unitatea fiscală.........................) is part of the order and is published in its folder, anexa-4/ (paragraphs and tables), from document 182934 of the official web service.
+- Ordin anaf nr. 2731/2016: Anexa nr. 5 (la Decizia de impunere privind contribuția de asigurări sociale de sănătate datorată de persoanele fizice potrivit art. 180 alin. (1) lit. a) din Codul fiscal) is part of the order and is published in its folder, anexa-5/ (paragraphs and tables), from document 182934 of the official web service.
 - Ordin anaf nr. 2731/2016: Anexa nr. 7 (6 CERERE privind desființarea Deciziei de impunere privind contribuția de asigurări sociale de sănătate datorată de persoanele fizice care nu realizează venituri Subsemnatul(a),.......................) is part of the order and is published in its folder, anexa-7/ (paragraphs), from document 182934 of the official web service.
 - Ordin anaf nr. 2731/2016: Anexa nr. 8 (7 Caracteristicile de tipărire, modul de difuzare, de utilizare și de păstrare a formularelor A. Denumire: "Declarație pentru stabilirea obligațiilor de plată cu titlu de contribuție de asigurări soci) is part of the order and is published in its folder, anexa-8/ (paragraphs), from document 182934 of the official web service.
-- Ordin anaf nr. 2731/2016: Anexa nr. 2 (2 [] Declarație rectificativă ┌──────────────────────────────────────────────────────────────────────────────┐ │I. DATE DE IDENTIFICARE A CONTRIBUABILULUI │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anaf nr. 2731/2016: Anexa nr. 3 (3 ┌──────────────────────────────────────────────────────────────────────────────┐ │I. DATE DE IDENTIFICARE A CONTRIBUABILULUI │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anaf nr. 2731/2016: Anexa nr. 4 (4 *Font 9* 606 Sigla DGRFP Ministerul Finanțelor Publice Agenția Națională de Administrare Fiscală Direcția generală regională a finanțelor publice........... ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anaf nr. 2731/2016: Anexa nr. 5 (la Decizia de impunere privind contribuția de asigurări sociale de sănătate datorată de persoanele fizice potrivit art. 180 alin. (1) lit. a) din Codul fiscal ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin anaf nr. 2731/2016: Anexa nr. 6 (5 *Font 9* 607 Sigla DGRFP Ministerul Finanțelor Publice Agenția Națională de Administrare Fiscală Direcția generală regională a finanțelor publice........... ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

@@ -266,7 +266,7 @@
    "versions": [
     {
      "from": "2015-01-15",
-     "units": 18,
+     "units": 22,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164649",
      "sha256": "1a9c43d8bb960ff54455e546e80d1b237007819c48a96b1eb4815d4c7e610717"
     }
@@ -326,7 +326,7 @@
    "versions": [
     {
      "from": "2015-08-03",
-     "units": 7,
+     "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170244",
      "sha256": "34943eba702880d6f9b385b56428cafcf8ee3db7da1b78ffa519c098551cd9cc"
     }
@@ -671,7 +671,7 @@
    "versions": [
     {
      "from": "2015-12-21",
-     "units": 8,
+     "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174119",
      "sha256": "0e2c4e6a2eaaa044dfd1e28d96a16133e3efc9738863ebba122ca62812bd7f86"
     }
@@ -701,7 +701,7 @@
    "versions": [
     {
      "from": "2015-12-18",
-     "units": 4,
+     "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174074",
      "sha256": "adc2851e9598a77564d644184c0fcf8ec34d0c2d3e12e08a3149d4d7b69ec40c"
     }
@@ -806,7 +806,7 @@
    "versions": [
     {
      "from": "2015-12-18",
-     "units": 15,
+     "units": 17,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174057",
      "sha256": "587517e9318dfbd9e2d1e7fd76342daa7b862e4dcb6a15e2552eac6049dc5f4d"
     }
@@ -866,7 +866,7 @@
    "versions": [
     {
      "from": "2015-12-28",
-     "units": 9,
+     "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174375",
      "sha256": "8856c06d6530330ad239243e47db42614f9e4a64fc125d9aa1587fed57734eaa"
     }
@@ -926,7 +926,7 @@
    "versions": [
     {
      "from": "2016-01-01",
-     "units": 10,
+     "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174348",
      "sha256": "b2dfe774b1a208f94f1aa05ee91e80a87af69025ae408232c8a821ece4e9cdb2"
     }
@@ -1136,7 +1136,7 @@
    "versions": [
     {
      "from": "2016-01-01",
-     "units": 14,
+     "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174480",
      "sha256": "4240634b690a3c8a12bb7cf10bff547deaa5ab0e57c22cc19ed011406a9b6e27"
     }
@@ -1151,7 +1151,7 @@
    "versions": [
     {
      "from": "2016-01-01",
-     "units": 6,
+     "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174388",
      "sha256": "09c7dbd46d30e06cba7c65f4141f1339dd403aec4e918e90e3f87fdc8a9eda9f"
     }
@@ -1286,7 +1286,7 @@
    "versions": [
     {
      "from": "2015-02-23",
-     "units": 7,
+     "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165906",
      "sha256": "829be34a093e9a866fb7a488180b2c8a382db20ba48a994b5216aa10b967065e"
     }
@@ -1376,7 +1376,7 @@
    "versions": [
     {
      "from": "2015-04-10",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167124",
      "sha256": "0d50c168eed618163bb013cb480a8d11cd84c7377600858b93dab2233394a2fa"
     }
@@ -1391,7 +1391,7 @@
    "versions": [
     {
      "from": "2015-06-19",
-     "units": 5,
+     "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168527",
      "sha256": "738bf81d6c6a9bbf1d238d8a451eea750b08b815012dec6347a65c574b85daaf"
     }
@@ -1421,7 +1421,7 @@
    "versions": [
     {
      "from": "2015-04-20",
-     "units": 4,
+     "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167252",
      "sha256": "3f4445963561df6281f4c2626b5ae42bc87f9b590b9454b2768e5f46437c5f5b"
     }
@@ -1721,7 +1721,7 @@
    "versions": [
     {
      "from": "2015-07-01",
-     "units": 37,
+     "units": 107,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169321",
      "sha256": "a7a7ccdd8202ba744148d0e9ad58e7f68e82bca4848b8e1ad06b83e451e722c6"
     }
@@ -1736,7 +1736,7 @@
    "versions": [
     {
      "from": "2015-05-03",
-     "units": 6,
+     "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166092",
      "sha256": "bd0f9d8d18747c336a0687000d552bde35f2fa58cfbe8cb4fa58b2b6a5e69c5a"
     }
@@ -1901,7 +1901,7 @@
    "versions": [
     {
      "from": "2015-10-01",
-     "units": 4,
+     "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170732",
      "sha256": "633f62f5a768780806fa17855ba8d0e871292e0771bbf6807e923c129f05f95f"
     }
@@ -2081,7 +2081,7 @@
    "versions": [
     {
      "from": "2016-01-01",
-     "units": 6,
+     "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172266",
      "sha256": "418c587ca33c414c4ad724222c6218d0d5bb9a6f88b6816618066a707b0c2a7b"
     }
@@ -2111,7 +2111,7 @@
    "versions": [
     {
      "from": "2016-01-01",
-     "units": 5,
+     "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172616",
      "sha256": "8d7595e748a5c5994dffffb7bd405b2929fd926af6a521aea867647680f35620"
     }
@@ -2291,7 +2291,7 @@
    "versions": [
     {
      "from": "2016-01-01",
-     "units": 13,
+     "units": 17,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174320",
      "sha256": "6c97e1b4d81e536036408e4f175337468d7376d5dbbdaac7d817043fe7e61a45"
     }
@@ -2321,7 +2321,7 @@
    "versions": [
     {
      "from": "2016-01-01",
-     "units": 7,
+     "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174491",
      "sha256": "3a9509a07b10f23c90dcdff7c74418d9e73d48253ff7b51edff2da24d3a178f8"
     }
@@ -2456,7 +2456,7 @@
    "versions": [
     {
      "from": "2015-04-01",
-     "units": 3,
+     "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166791",
      "sha256": "396a957e3ad00a0d6e40a1e66ebadef627b2a063368b467c01b77467f8fd929d"
     }
@@ -2546,7 +2546,7 @@
    "versions": [
     {
      "from": "2015-04-10",
-     "units": 4,
+     "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167071",
      "sha256": "1e298264468b2f5bf8ae2eed5d621207948510c969c037d23d3026080ac69521"
     }
@@ -2576,7 +2576,7 @@
    "versions": [
     {
      "from": "2015-05-04",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167670",
      "sha256": "532cde77c0906a4659de130a2ba6e1101bbcc4667bff10e8d71aef3f3056a21c"
     }
@@ -2741,7 +2741,7 @@
    "versions": [
     {
      "from": "2015-07-01",
-     "units": 13,
+     "units": 17,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169077",
      "sha256": "40b7b9a6485aaf3a213a9d1639a7437d6a1d8d8c277d41d483aeb6af32172085"
     }
@@ -2913,6 +2913,366 @@
    ]
   },
   {
+   "slug": "ordin-ansvsa-103-2015",
+   "path": "ordin/ansvsa/2015/103",
+   "short": "Ordin ansvsa nr. 103/2015",
+   "title": "Ordinul nr. 103/2015 privind modificarea anexei nr. 1 la Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 29/2014 pentru aprobarea Normelor metodologice de aplicare a Programului acțiunilor de supraveghere, prevenire, control și eradicare a bolilor la animale, a celor transmisibile de la animale la om, protecția animalelor și protecția mediului, de identificare și înregistrare a bovinelor, suinelor, ovinelor, caprinelor și ecvideelor, precum și a Normelor metodologice de aplicare a Programului de supraveghere și control în domeniul siguranței alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171582",
+   "versions": [
+    {
+     "from": "2015-09-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171582",
+     "sha256": "b8e95a6ef313deb13873b048022015369672c0256fb96851c3dc6edb83f7fc58"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-106-2015",
+   "path": "ordin/ansvsa/2015/106",
+   "short": "Ordin ansvsa nr. 106/2015",
+   "title": "Ordinul nr. 106/2015 pentru aprobarea Procedurii privind decontarea acțiunilor sanitar-veterinare cuprinse în Programul acțiunilor de supraveghere, prevenire și control al bolilor la animale, al celor transmisibile de la animale la om, protecția animalelor și protecția mediului, de identificare și înregistrare a bovinelor, suinelor, ovinelor, caprinelor și ecvideelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172059",
+   "versions": [
+    {
+     "from": "2015-10-15",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172059",
+     "sha256": "b9c1741f562ebcee17f1f3f70b121f2a4fef83e9d4018449307540ba22a1b933"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-113-2015",
+   "path": "ordin/ansvsa/2015/113",
+   "short": "Ordin ansvsa nr. 113/2015",
+   "title": "Ordinul nr. 113/2015 pentru modificarea și completarea Normei sanitare veterinare privind Codul produselor medicinale veterinare, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 187/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172063",
+   "versions": [
+    {
+     "from": "2015-10-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172063",
+     "sha256": "b72837789df6133df3ec91f03c11628b99343d04fbfda7e57c2bd05d56262e68"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-142-2015",
+   "path": "ordin/ansvsa/2015/142",
+   "short": "Ordin ansvsa nr. 142/2015",
+   "title": "Ordinul nr. 142/2015 pentru modificarea și completarea Normei sanitare veterinare și pentru siguranța alimentelor privind autorizarea laboratoarelor în care se desfășoară activități supuse supravegherii și controlului sanitar-veterinar și pentru siguranța alimentelor, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 114/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172705",
+   "versions": [
+    {
+     "from": "2015-11-06",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172705",
+     "sha256": "df58fbeb1160a02aea8936c58c05c0f15eb4ef247a936ca8fa286395a82a2991"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-147-2015",
+   "path": "ordin/ansvsa/2015/147",
+   "short": "Ordin ansvsa nr. 147/2015",
+   "title": "Ordinul nr. 147/2015 pentru modificarea Normei sanitare veterinare care stabilește lista utilizărilor prevăzute pentru furajele destinate unor scopuri nutriționale speciale, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 11/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173047",
+   "versions": [
+    {
+     "from": "2015-11-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173047",
+     "sha256": "16e456c0797bfe8aa88755c40b59908c81e5e456fe56ef12e867cdfdefabc853"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-148-2015",
+   "path": "ordin/ansvsa/2015/148",
+   "short": "Ordin ansvsa nr. 148/2015",
+   "title": "Ordinul nr. 148/2015 pentru modificarea și completarea Regulamentului privind eliberarea, pentru profesiile de asistent veterinar și tehnician veterinar reglementate în România, a adeverinței de conformitate a studiilor cu prevederile Directivei 2005/36/CE a Parlamentului European și a Consiliului din 7 septembrie 2005 privind recunoașterea calificărilor profesionale și/sau a adeverinței privind exercitarea efectivă și legală a profesiilor de asistent veterinar și tehnician veterinar reglementate în România, aprobat prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 175/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173440",
+   "versions": [
+    {
+     "from": "2015-11-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173440",
+     "sha256": "69b175b8fd33bddc15f497153f3b66e7605d14637a6f68ff825ec956cb4205d6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-168-2015",
+   "path": "ordin/ansvsa/2015/168",
+   "short": "Ordin ansvsa nr. 168/2015",
+   "title": "Ordinul nr. 168/2015 pentru aprobarea Normelor privind ocuparea prin concurs ori prin examen a unui post vacant sau temporar vacant corespunzător funcțiilor contractuale existente la nivelul Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor și al unităților din subordinea acesteia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173914",
+   "versions": [
+    {
+     "from": "2015-12-16",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173914",
+     "sha256": "bff5c20bab41cc818928ebe67ad257680af5cfbb6f5e5a27c37120aa40b22a22"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-17-2015",
+   "path": "ordin/ansvsa/2015/17",
+   "short": "Ordin ansvsa nr. 17/2015",
+   "title": "Ordinul nr. 17/2015 pentru modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 205/2007 privind aprobarea laboratoarelor naționale de referință și a atribuțiilor acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166063",
+   "versions": [
+    {
+     "from": "2015-03-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166063",
+     "sha256": "e8fd9d43fbeb953c3ddac7631491bebd0d29fae312487a5470c9363f87634f68"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-184-2015",
+   "path": "ordin/ansvsa/2015/184",
+   "short": "Ordin ansvsa nr. 184/2015",
+   "title": "Ordinul nr. 184/2015 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 61/2006 pentru aprobarea Normei sanitare veterinare privind problemele de sănătate a animalelor ce afectează comerțul intracomunitar cu animale din speciile bovine și suine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174235",
+   "versions": [
+    {
+     "from": "2019-07-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174235",
+     "sha256": "5d27516fd25f9c08b7f70a418094b9ba28e6ed2ac8d9a8bb164e1e5d1172420a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-186-2015",
+   "path": "ordin/ansvsa/2015/186",
+   "short": "Ordin ansvsa nr. 186/2015",
+   "title": "Ordinul nr. 186/2015 privind modificarea art. 6 din Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 64/2007 pentru aprobarea Normei sanitare veterinare privind organizarea și desfășurarea activității de control oficial sanitar-veterinar efectuat de către personalul de specialitate în unitățile care produc alimente de origine animală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174236",
+   "versions": [
+    {
+     "from": "2015-12-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174236",
+     "sha256": "766eb5ce9095ea531871bfaa3aa62f450aae231bcff1ead09fe71227e8698112"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-187-2015",
+   "path": "ordin/ansvsa/2015/187",
+   "short": "Ordin ansvsa nr. 187/2015",
+   "title": "Ordinul nr. 187/2015 privind abrogarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 161/2006 pentru aprobarea Normei sanitare veterinare și pentru siguranța alimentelor privind asistența și cooperarea acordate Comisiei Europene pentru cercetarea științifică a problemelor referitoare la alimente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174237",
+   "versions": [
+    {
+     "from": "2015-12-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174237",
+     "sha256": "191012caa99d0ac47207eb1c470e2f19461adf94dde41641d7c7f9e78e3de5bc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-188-2015",
+   "path": "ordin/ansvsa/2015/188",
+   "short": "Ordin ansvsa nr. 188/2015",
+   "title": "Ordinul nr. 188/2015 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 113/2008 privind aprobarea Instrucțiunilor pentru organizarea și desfășurarea activității de control oficial în unitățile de prelucrare, procesare, depozitare, transport, valorificare și comercializare a produselor și subproduselor alimentare de origine nonanimală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174238",
+   "versions": [
+    {
+     "from": "2015-12-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174238",
+     "sha256": "df20ec94dd1cd40262c6629ffc071dfedb35161ed9e3b3014b1793fb5e3f137f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-193-2015",
+   "path": "ordin/ansvsa/2015/193",
+   "short": "Ordin ansvsa nr. 193/2015",
+   "title": "Ordinul nr. 193/2015 privind completarea anexei nr. 1 la Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 96/2014 privind aprobarea tarifelor aplicabile în domeniul sanitar-veterinar și pentru siguranța alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174802",
+   "versions": [
+    {
+     "from": "2016-01-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174802",
+     "sha256": "e2fd5f167488e9f3a65aa5d5029c3653213385a75eb7e19123e687204ff3f990"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-23-2015",
+   "path": "ordin/ansvsa/2015/23",
+   "short": "Ordin ansvsa nr. 23/2015",
+   "title": "Ordinul nr. 23/2015 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 170/2007 pentru aprobarea Normei sanitare veterinare ce stabilește cerințele de sănătate animală pentru animalele de acvacultură și produsele acestora, precum și pentru prevenirea și controlul anumitor boli ale animalelor acvatice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166580",
+   "versions": [
+    {
+     "from": "2015-03-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166580",
+     "sha256": "069ea36c73ce783c30880bcf528ebe6a82980f1b1e642c2985ff5492cd9a1667"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-25-2015",
+   "path": "ordin/ansvsa/2015/25",
+   "short": "Ordin ansvsa nr. 25/2015",
+   "title": "Ordinul nr. 25/2015 privind modificarea Normei sanitare veterinare pentru implementarea procesului de identificare și înregistrare a suinelor, ovinelor, caprinelor și bovinelor, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 40/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166576",
+   "versions": [
+    {
+     "from": "2015-03-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166576",
+     "sha256": "d665a3d54dfc8725a1cf26f6710a67518966540807c43c8d4e0985a93fddbc5d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-30-2015",
+   "path": "ordin/ansvsa/2015/30",
+   "short": "Ordin ansvsa nr. 30/2015",
+   "title": "Ordinul nr. 30/2015 pentru modificarea și completarea Normei sanitare veterinare privind Codul produselor medicinale veterinare, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 187/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166957",
+   "versions": [
+    {
+     "from": "2015-04-03",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166957",
+     "sha256": "295ecd5070e6e23cb01c75cc636f46fb1d531c225f001637ac865d9069cf1005"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-31-2015",
+   "path": "ordin/ansvsa/2015/31",
+   "short": "Ordin ansvsa nr. 31/2015",
+   "title": "Ordinul nr. 31/2015 pentru modificarea și completarea Normei sanitare veterinare privind condițiile de organizare și funcționare a unităților farmaceutice veterinare, precum și procedura de înregistrare sanitară veterinară/autorizare sanitară veterinară a unităților și activităților din domeniul farmaceutic veterinar, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 83/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167018",
+   "versions": [
+    {
+     "from": "2015-04-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167018",
+     "sha256": "f0fcbc79701f68fc3de73a8b468702daaa34bc9852aa039cccce9541ac4d941c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-32-2015",
+   "path": "ordin/ansvsa/2015/32",
+   "short": "Ordin ansvsa nr. 32/2015",
+   "title": "Ordinul nr. 32/2015 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 96/2014 privind aprobarea tarifelor aplicabile în domeniul sanitar-veterinar și pentru siguranța alimentelor, ca urmare a actualizării tarifelor în funcție de rata inflației din anul 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167700",
+   "versions": [
+    {
+     "from": "2015-05-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167700",
+     "sha256": "5be49d76cd965060f33e82020712cd5e7c55d98fa1d4d494fb6bc4e818728436"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-36-2015",
+   "path": "ordin/ansvsa/2015/36",
+   "short": "Ordin ansvsa nr. 36/2015",
+   "title": "Ordinul nr. 36/2015 pentru modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 128/2005 pentru aprobarea Normei sanitare veterinare ce stabilește condițiile de sănătate a animalelor care reglementează comerțul și importul de animale, material seminal, ovule și embrioni care nu se supun cerințelor de sănătate a animalelor stabilite de legislația în domeniu, la care se referă anexa nr. 1 la Norma sanitară veterinară referitoare la controalele veterinare și zootehnice aplicabile comerțului României cu statele membre cu unele animale vii și produse de origine animală, aprobată prin Ordinul ministrului agriculturii, alimentației și pădurilor nr. 580/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167210",
+   "versions": [
+    {
+     "from": "2015-04-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167210",
+     "sha256": "a8c1886d1929892f5d874bb9c4bca41d000e091bb4bd5b71abdcfad99f13fe5d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-77-2015",
+   "path": "ordin/ansvsa/2015/77",
+   "short": "Ordin ansvsa nr. 77/2015",
+   "title": "Ordinul nr. 77/2015 pentru modificarea și completarea Normei sanitar-veterinare privind condițiile sanitar-veterinare de funcționare a târgurilor de animale vii, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 45/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170120",
+   "versions": [
+    {
+     "from": "2015-07-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170120",
+     "sha256": "a035d3e91c1cb14cc677457deb538f1139d4ad127c7b3f03ba5c65b2e7b98b39"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-84-2015",
+   "path": "ordin/ansvsa/2015/84",
+   "short": "Ordin ansvsa nr. 84/2015",
+   "title": "Ordinul nr. 84/2015 pentru modificarea Normei sanitare veterinare privind procedura de introducere pe piață și de utilizare a reagenților și a seturilor de diagnostic de uz veterinar, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 81/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170609",
+   "versions": [
+    {
+     "from": "2015-08-14",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170609",
+     "sha256": "6b040d64cb8b77b3b4bf177ae8d522fe39ecf1ede586d3f21cf81ca7bd40c189"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-88-2015",
+   "path": "ordin/ansvsa/2015/88",
+   "short": "Ordin ansvsa nr. 88/2015",
+   "title": "Ordinul nr. 88/2015 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 96/2014 privind aprobarea tarifelor aplicabile în domeniul sanitar-veterinar și pentru siguranța alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170750",
+   "versions": [
+    {
+     "from": "2015-08-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170750",
+     "sha256": "50bb65677df263e0f1118758a6a11c1cabd17862ed19b8f0b41b96eb5d3d3c6e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-97-2015",
+   "path": "ordin/ansvsa/2015/97",
+   "short": "Ordin ansvsa nr. 97/2015",
+   "title": "Ordinul nr. 97/2015 pentru aprobarea Normei sanitare veterinare privind procedura de autorizare sanitară veterinară a unităților utilizatoare, crescătoare și furnizoare de animale utilizate în scopuri științifice, pentru aprobarea Normei sanitare veterinare privind procedura de autorizare sanitară veterinară a proiectelor care implică utilizarea animalelor în proceduri, precum și pentru modificarea Normei sanitare veterinare privind procedura de înregistrare/autorizare sanitar-veterinară a unităților/centrelor de colectare/exploatațiilor de origine și a mijloacelor de transport din domeniul sănătății și al bunăstării animalelor, a unităților implicate în depozitarea și neutralizarea subproduselor de origine animală care nu sunt destinate consumului uman și a produselor procesate, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 16/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171573",
+   "versions": [
+    {
+     "from": "2015-09-25",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171573",
+     "sha256": "74080c5476dcc1719902d6b5da968d2cd500d84c918755f89d9fd5ef925f62cf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-98-2015",
+   "path": "ordin/ansvsa/2015/98",
+   "short": "Ordin ansvsa nr. 98/2015",
+   "title": "Ordinul nr. 98/2015 pentru aprobarea Normei sanitare veterinare privind condițiile sanitar-veterinare pentru introducerea pe teritoriul României a animalelor de companie provenite din țări terțe în scopul circulației necomerciale și procedura de control sanitar-veterinar al acestor animale la punctele de intrare a călătorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171980",
+   "versions": [
+    {
+     "from": "2015-10-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171980",
+     "sha256": "59e345bdf6f7aa143c0554fe465056ee9f4b9e5eee7795551f29a64ccbf5c222"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-1-2015",
    "path": "ordin/bnr/2015/1",
    "short": "Ordin bnr nr. 1/2015",
@@ -3011,7 +3371,7 @@
    "versions": [
     {
      "from": "2015-06-30",
-     "units": 5,
+     "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169237",
      "sha256": "665639f4a0cc5568af51030b14306814fe33fcfbf0d2b11258a93071e5413870"
     }
@@ -3078,6 +3438,21 @@
    ]
   },
   {
+   "slug": "ordin-cafr-24-2015",
+   "path": "ordin/cafr/2015/24",
+   "short": "Ordin cafr nr. 24/2015",
+   "title": "Ordinul nr. 24/2015 pentru modificarea și completarea anexei la Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 8/2015 privind aprobarea Registrului public al auditorilor financiari din România, la 31 decembrie 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167870",
+   "versions": [
+    {
+     "from": "2015-05-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167870",
+     "sha256": "9afd5083e00efa557aa30eebc0d459983223e2fac8bbb04007f0067cfa336fc9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cnas-1024-2015",
    "path": "ordin/cnas/2015/1024",
    "short": "Ordin cnas nr. 1024/2015",
@@ -3101,7 +3476,7 @@
    "versions": [
     {
      "from": "2015-11-25",
-     "units": 4,
+     "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173369",
      "sha256": "d2262db3d4273aaf4355c1da6e3f8c04e189ff61afb1a985ac0c3bf0e8031325"
     }
@@ -3296,7 +3671,7 @@
    "versions": [
     {
      "from": "2015-04-28",
-     "units": 6,
+     "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167527",
      "sha256": "d9be478ad621ed16d0733657b0537da23484ec44bd57e3c701171ba5b35eaaf4"
     }
@@ -3326,7 +3701,7 @@
    "versions": [
     {
      "from": "2015-05-29",
-     "units": 9,
+     "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168399",
      "sha256": "33f9f8d44dbdce22230a8e70f809759029bac72a8e18764894b5fe3d1415cf12"
     }
@@ -3461,7 +3836,7 @@
    "versions": [
     {
      "from": "2015-08-31",
-     "units": 5,
+     "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171008",
      "sha256": "5bc76f81aafdc94f8603bc15c9e1f4235c62a0bc2f4b7c1c6c004489812a8dad"
     }
@@ -3521,7 +3896,7 @@
    "versions": [
     {
      "from": "2015-10-01",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171691",
      "sha256": "3d86266c5461e53ab91e5007ee4e322759632e61127781025c9144f40821f60a"
     }
@@ -3551,7 +3926,7 @@
    "versions": [
     {
      "from": "2015-10-16",
-     "units": 4,
+     "units": 32,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172120",
      "sha256": "1c8c4793ed8644a84501d5f92b4f7955eb6e103cd7b7653ca5b73129f2027426"
     }
@@ -3596,7 +3971,7 @@
    "versions": [
     {
      "from": "2015-07-30",
-     "units": 8,
+     "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170176",
      "sha256": "c0090bf0c72f06ed9a913c8e737f87762e55b6c388b6e5abf990519087e2c494"
     }
@@ -4604,6 +4979,141 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165670",
      "sha256": "5b77cae20285c9302e945027c4def29bd945ed7014c9f5ec3a5420f0a543289f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5557-2015",
+   "path": "ordin/educatie/2015/5557",
+   "short": "Ordin educatie nr. 5557/2015",
+   "title": "Ordinul nr. 5.557/2015 pentru aprobarea Metodologiei și a criteriilor privind acordarea gradației de merit personalului didactic din învățământul preuniversitar de stat, sesiunea 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173518",
+   "versions": [
+    {
+     "from": "2015-12-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173518",
+     "sha256": "7eb024a656208bdacabbd2c68bf7c7483306d7e7e4f93048fb8676ffa39fe6b5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5629-2015",
+   "path": "ordin/educatie/2015/5629",
+   "short": "Ordin educatie nr. 5629/2015",
+   "title": "Ordinul nr. 5.629/2015 privind transferul de locuri între cicluri de studii universitare și numărul de locuri - granturi de studii (anul I) finanțate de la bugetul de stat din instituțiile de învățământ superior de stat, pentru anul universitar 2015-2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173228",
+   "versions": [
+    {
+     "from": "2015-11-23",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173228",
+     "sha256": "b2f41a0e4ee04e0e20d28a96e25f4dc49edeae9e6f7de36b85d482dc02906ea3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5651-2015",
+   "path": "ordin/educatie/2015/5651",
+   "short": "Ordin educatie nr. 5651/2015",
+   "title": "Ordinul nr. 5.651/2015 privind aprobarea Metodologiei de alocare și utilizare a fondului pentru dezvoltarea instituțională a instituțiilor de învățământ superior de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173390",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173390",
+     "sha256": "78e397903cfadc43e279b17cdffe3f72c9846c14bdd8119fd12969f7e45b003b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5684-2015",
+   "path": "ordin/educatie/2015/5684",
+   "short": "Ordin educatie nr. 5684/2015",
+   "title": "Ordinul nr. 5.684/2015 privind aprobarea domeniului de doctorat \"Muzică\" în cadrul școlii doctorale organizate în Universitatea de Vest din Timișoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173089",
+   "versions": [
+    {
+     "from": "2015-11-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173089",
+     "sha256": "1f8df2ff3dbcf785f67b37a7084e87350f7e921f04c9a5e124f9b62d8248f70e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5685-2015",
+   "path": "ordin/educatie/2015/5685",
+   "short": "Ordin educatie nr. 5685/2015",
+   "title": "Ordinul nr. 5.685/2015 privind aprobarea domeniului de doctorat \"Arhitectură\" în cadrul școlii doctorale organizate în Universitatea \"Politehnica\" din Timișoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173066",
+   "versions": [
+    {
+     "from": "2015-11-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173066",
+     "sha256": "e966b60fe8194ce097739036f56f985d5704d451c8c004ff2e670109bd4861b6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5751-2015",
+   "path": "ordin/educatie/2015/5751",
+   "short": "Ordin educatie nr. 5751/2015",
+   "title": "Ordinul nr. 5.751/2015 privind publicarea Procedurii de selectare, prin concurs, a membrilor Consiliului Agenției Române de Asigurare a Calității în Învățământul Superior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173000",
+   "versions": [
+    {
+     "from": "2015-11-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173000",
+     "sha256": "d4cf9030d92a087040a6136f92a3e7998d84027bd7ef7fbd337bc581f6ee2ddc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5792-2015",
+   "path": "ordin/educatie/2015/5792",
+   "short": "Ordin educatie nr. 5792/2015",
+   "title": "Ordinul nr. 5.792/2015 pentru aprobarea Centralizatorului privind disciplinele de învățământ, domeniile și specializările, probele de concurs valabile pentru încadrarea personalului didactic din învățământul preuniversitar, precum și disciplinele pentru examenul național de definitivare în învățământ 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173360",
+   "versions": [
+    {
+     "from": "2015-11-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173360",
+     "sha256": "a8148b6c91f5123f9afec13f6a6b9291bb301d29e7f79ffc2ac25fde3fa4177c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5800-2015",
+   "path": "ordin/educatie/2015/5800",
+   "short": "Ordin educatie nr. 5800/2015",
+   "title": "Ordinul nr. 5.800/2015 privind înregistrarea instituțiilor de învățământ superior acreditate din România în Sistemul de informare al pieței interne - IMI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173349",
+   "versions": [
+    {
+     "from": "2015-11-25",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173349",
+     "sha256": "92381bca147101cfd247f0dd7308c17255436e923bc889c742eeea49a00671e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5992-2015",
+   "path": "ordin/educatie/2015/5992",
+   "short": "Ordin educatie nr. 5992/2015",
+   "title": "Ordinul nr. 5.992/2015 privind aprobarea Calendarului de administrare a evaluărilor naționale la finalul claselor a II-a, a IV-a și a VI-a în anul școlar 2015-2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174259",
+   "versions": [
+    {
+     "from": "2015-12-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174259",
+     "sha256": "05390356f9ce0e6a0172dfead9c2dac54b2b4007ed4233f0534fc99795503988"
     }
    ]
   },
@@ -6228,6 +6738,36 @@
    ]
   },
   {
+   "slug": "ordin-guvern-107-2015",
+   "path": "ordin/guvern/2015/107",
+   "short": "Ordin guvern nr. 107/2015",
+   "title": "Ordinul nr. 107/2015 privind stabilirea procedurii de efectuare a plății titlurilor executorii având ca obiect acordarea de drepturi salariale personalului din cadrul Secretariatului General al Guvernului și al structurilor, organelor de specialitate ale administrației publice centrale și instituțiilor publice finanțate prin bugetul Secretariatului General al Guvernului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166227",
+   "versions": [
+    {
+     "from": "2015-03-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166227",
+     "sha256": "0a7a62cb42e9355c6403c58855c79eb43381c4ab0dd1d45381228aa71df34fc2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-guvern-400-2015",
+   "path": "ordin/guvern/2015/400",
+   "short": "Ordin guvern nr. 400/2015",
+   "title": "Ordinul nr. 400/2015 pentru aprobarea Codului controlului intern/managerial al entităților publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169030",
+   "versions": [
+    {
+     "from": "2015-06-22",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169030",
+     "sha256": "1343453630dfe5e2bb53205941657f04ee7f83ee3c6a22dfacfb68afab6faa73"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-100-2015",
    "path": "ordin/interne/2015/100",
    "short": "Ordin interne nr. 100/2015",
@@ -7623,6 +8163,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1419-2015",
+   "path": "ordin/mediu/2015/1419",
+   "short": "Ordin mediu nr. 1419/2015",
+   "title": "Ordinul nr. 1.419/2015 privind abrogarea Ordinului ministrului mediului și schimbărilor climatice nr. 141/2014 pentru aprobarea Ghidului de finanțare a Programului vizând educația și conștientizarea publicului privind protecția mediului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171924",
+   "versions": [
+    {
+     "from": "2015-10-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171924",
+     "sha256": "4f4aa227a126154c6d0ccb13edba492b708f2520de96192ddc80723bac9c40cb"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1439-2015",
    "path": "ordin/mediu/2015/1439",
    "short": "Ordin mediu nr. 1439/2015",
@@ -7634,6 +8189,21 @@
      "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171603",
      "sha256": "ac22c4ed76d97c1f848b92cf27d268e453cfc4ebb40914914ed01ea7f994518b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1551-2015",
+   "path": "ordin/mediu/2015/1551",
+   "short": "Ordin mediu nr. 1551/2015",
+   "title": "Ordinul nr. 1.551/2015 privind modificarea Ghidului de finanțare a Programului de stimulare a înnoirii Parcului auto național, aprobat prin Ordinul ministrului mediului, apelor și pădurilor nr. 609/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171967",
+   "versions": [
+    {
+     "from": "2015-10-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171967",
+     "sha256": "9cd084083a5ddb4860377c9e7c1b00cd16d97d322fde1fedbb599fd8525982a7"
     }
    ]
   },
@@ -7698,6 +8268,36 @@
    ]
   },
   {
+   "slug": "ordin-mediu-172-2015",
+   "path": "ordin/mediu/2015/172",
+   "short": "Ordin mediu nr. 172/2015",
+   "title": "Ordinul nr. 172/2015 privind modificarea Ordinului ministrului mediului și pădurilor nr. 367/2010 pentru aprobarea valorii concesiunii, a modului de calcul și a modului de plată a redevenței obținute din concesionarea terenurilor forestiere proprietate publică a statului, aferente activelor vândute de Regia Națională a Pădurilor - Romsilva, precum și a modelului de contract de concesiune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166109",
+   "versions": [
+    {
+     "from": "2015-03-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166109",
+     "sha256": "be2f4de1479adf615a687b848e90a4ca755439f399e397d1d42a2bb8e3856e8e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1733-2015",
+   "path": "ordin/mediu/2015/1733",
+   "short": "Ordin mediu nr. 1733/2015",
+   "title": "Ordinul nr. 1.733/2015 privind modificarea și completarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale nr. 576/2009 pentru aprobarea Metodologiei, criteriilor de atestare și a Comisiei de atestare a persoanelor fizice și juridice care realizează proiectarea de drumuri forestiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173280",
+   "versions": [
+    {
+     "from": "2015-11-24",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173280",
+     "sha256": "be3f501778696503b11623f75408520b7c0893832b890a65c38ccdb44140463b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1763-2015",
    "path": "ordin/mediu/2015/1763",
    "short": "Ordin mediu nr. 1763/2015",
@@ -7709,6 +8309,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173426",
      "sha256": "fb16964c4b1af83a41d2a14108d642fa83d2c5db622f202aa78859f79e9c0508"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1889-2015",
+   "path": "ordin/mediu/2015/1889",
+   "short": "Ordin mediu nr. 1889/2015",
+   "title": "Ordinul nr. 1.889/2015 pentru modificarea și completarea Normelor privind accesul la resursele acvatice vii din domeniul public al statului în vederea practicării pescuitului comercial în habitatele piscicole naturale din ariile naturale protejate, aprobate prin Ordinul ministrului agriculturii și dezvoltării rurale și al ministrului mediului și pădurilor nr. 44/1.195/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173970",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173970",
+     "sha256": "0bcbdd393eee197b399646b49ce6dd184cb66b8a106dd7dc9591e34ba153710a"
     }
    ]
   },
@@ -7829,6 +8444,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176120",
      "sha256": "da3cb22c195ddc987dd80fa9232d3e69b74468616243763ce2ee8945024d2575"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1999-2015",
+   "path": "ordin/mediu/2015/1999",
+   "short": "Ordin mediu nr. 1999/2015",
+   "title": "Ordinul nr. 1.999/2015 pentru modificarea Ordinului ministrului mediului nr. 610/2009 privind aprobarea tarifelor pentru lucrările și serviciile prestate de către Administrația Rezervației Biosferei \"Delta Dunării\" la solicitarea persoanelor fizice și juridice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174398",
+   "versions": [
+    {
+     "from": "2015-12-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174398",
+     "sha256": "a08d530798c6176bfb2d92c5122c9dfee93ecc782176311a8b28ef4c0ae23286"
     }
    ]
   },
@@ -8069,6 +8699,51 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168405",
      "sha256": "ff9c5b4f44d1b3b101e83018b8602b46f8c2492450609661c67cf3521dda4311"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-916-2015",
+   "path": "ordin/mediu/2015/916",
+   "short": "Ordin mediu nr. 916/2015",
+   "title": "Ordinul nr. 916/2015 pentru modificarea și completarea Metodologiei privind organizarea și funcționarea SUMAL, obligațiile utilizatorilor SUMAL, precum și structura și modalitatea de transmitere a informațiilor standardizate, aprobată prin Ordinul ministrului delegat pentru ape, păduri și piscicultură nr. 837/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169189",
+   "versions": [
+    {
+     "from": "2015-06-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169189",
+     "sha256": "9b7e802fcf978f1e4f8efb1417eb8aa5d2c44ac77a5aa5cadc7535ef14581090"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-966-2015",
+   "path": "ordin/mediu/2015/966",
+   "short": "Ordin mediu nr. 966/2015",
+   "title": "Ordinul nr. 966/2015 privind modificarea și completarea Ordinului ministrului delegat pentru ape, păduri și piscicultură nr. 836/2014 pentru aprobarea condițiilor și a procedurii de emitere, suspendare sau retragere a acordului de distribuire și utilizare a formularelor documentelor cu regim special",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169084",
+   "versions": [
+    {
+     "from": "2015-06-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169084",
+     "sha256": "30bf9edf92bde07937d1cd9e4ee6191019e5ce9df0dcc20392e91843bfa24889"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-990-2015",
+   "path": "ordin/mediu/2015/990",
+   "short": "Ordin mediu nr. 990/2015",
+   "title": "Ordinul nr. 990/2015 pentru modificarea și completarea Ordinului ministrului mediului și gospodăririi apelor și al ministrului agriculturii, pădurilor și dezvoltării rurale nr. 1.182/1.270/2005 privind aprobarea Codului de bune practici agricole pentru protecția apelor împotriva poluării cu nitrați din surse agricole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170906",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170906",
+     "sha256": "bb3728546a3290ea783a5c4e979a5176862880e4a40ad02418b884dc4966c455"
     }
    ]
   },

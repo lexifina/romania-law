@@ -2,7 +2,7 @@
 
 Ordin cnas nr. 545/2011 · 1 versions, from 2011-06-01 (latest in force: 2011-06-01) · <https://legislatie.just.ro/Public/DetaliiDocument/129011>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (LISTA prețurilor de referință și a sumelor de închiriere corespunzătoare categoriilor și tipurilor de dispozitive medicale destinate recuperării unor ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -14,6 +14,8 @@ Ordin cnas nr. 545/2011 · 1 versions, from 2011-06-01 (latest in force: 2011-06
 | Art. 6 | [art-006.md](art-006.md) | 0 |  |
 | Art. 7 | [art-007.md](art-007.md) | 0 |  |
 | Art. 8 | [art-008.md](art-008.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 
 Act id: `ordin-cnas-545-2011` (tags `ordin-cnas-545-2011/<day>`; `python tools/on.py <day> ordin-cnas-545-2011`).
 
@@ -23,4 +25,4 @@ Act id: `ordin-cnas-545-2011` (tags `ordin-cnas-545-2011/<day>`; `python tools/o
 - Ordin cnas nr. 545/2011: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin cnas nr. 545/2011: the first version is the order as published in Monitorul Oficial nr. 385 of 1 June 2011 (document 129011 of the official web service), in force on its day of publication, as it states.
 - Ordin cnas nr. 545/2011: the signatures and the place and date line after its last article are not article text.
-- Ordin cnas nr. 545/2011: Anexa nr. 1 (LISTA prețurilor de referință și a sumelor de închiriere corespunzătoare categoriilor și tipurilor de dispozitive medicale destinate recuperării unor ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin cnas nr. 545/2011: Anexa nr. 1 (LISTA prețurilor de referință și a sumelor de închiriere corespunzătoare categoriilor și tipurilor de dispozitive medicale destinate recuperării unor deficiențe organice sau funcționale în ambulatoriu) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 129011 of the official web service.

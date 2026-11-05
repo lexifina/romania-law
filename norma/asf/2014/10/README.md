@@ -2,7 +2,7 @@
 
 Norma asf nr. 10/2014 · 1 versions, from 2014-08-11 (latest in force: 2014-08-11) · <https://legislatie.just.ro/Public/DetaliiDocument/158143>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 Pagina 1/3 DATE DE IDENTIFICARE ALE SOLICITANTULUI CERERE PENTRU AVIZAREA CA DEPOZITAR PENTRU FONDURI DE PENSII FACULTATIVE ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -58,6 +58,8 @@ Norma asf nr. 10/2014 · 1 versions, from 2014-08-11 (latest in force: 2014-08-1
 | Art. 50 | [art-050.md](art-050.md) | 0 |  |
 | Art. 51 | [art-051.md](art-051.md) | 0 |  |
 | Art. 52 | [art-052.md](art-052.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 | Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 | Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
@@ -82,6 +84,6 @@ Act id: `norma-asf-10-2014` (tags `norma-asf-10-2014/<day>`; `python tools/on.py
 - Norma asf nr. 10/2014: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Norma asf nr. 10/2014: the first version is the norm as published in Monitorul Oficial nr. 352 of 13 May 2014 (document 158143 of the official web service), in force on 11 August 2014, the day it states for itself.
 - Norma asf nr. 10/2014: the signatures and the place and date line after its last article are not article text.
+- Norma asf nr. 10/2014: Anexa nr. 1 (1 Pagina 1/3 DATE DE IDENTIFICARE ALE SOLICITANTULUI CERERE PENTRU AVIZAREA CA DEPOZITAR PENTRU FONDURI DE PENSII FACULTATIVE Subsemnatul/Subsemnata,.................................................,) is part of the norm and is published in its folder, anexa-1/ (paragraphs and tables), from document 158143 of the official web service.
 - Norma asf nr. 10/2014: Anexa nr. 2 (2 SPECIMENE DE SEMNĂTURĂ*1)........................................................................, (denumirea instituției de credit care solicită aviz pentru depozitarea activelor financiare ale fon) is part of the norm and is published in its folder, anexa-2/ (paragraphs), from document 158143 of the official web service.
 - Norma asf nr. 10/2014: Anexa nr. 3 (3 MODEL-CADRU AL CONTRACTULUI DE DEPOZITARE) is part of the norm and is published in its folder, anexa-3/ (12 articles), from document 158143 of the official web service.
-- Norma asf nr. 10/2014: Anexa nr. 1 (1 Pagina 1/3 DATE DE IDENTIFICARE ALE SOLICITANTULUI CERERE PENTRU AVIZAREA CA DEPOZITAR PENTRU FONDURI DE PENSII FACULTATIVE ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

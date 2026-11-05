@@ -12584,21 +12584,21 @@ Every word of law in this repository comes from these sources and, for the acts 
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 78997 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) and the lists it links | 92748 | |
+| 82506 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) and the lists it links | 96257 | |
 
-The build made 98077 commits:
+The build made 101886 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 79072 | first version of an act |
+| 82581 | first version of an act |
 | 13802 | one law on its in-force day |
 | 3678 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `viitor`: laws not yet in force on 2026-11-04.
 - 46 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 81101 laws in the record.
-- 197541 tags.
+- 84610 laws in the record.
+- 204559 tags.
 
 ## Dates
 
@@ -12610,7 +12610,7 @@ When a law gives no date of its own, the default rule applies: Constituția Rom�
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `aede820702100c5a8371609a42a4267560eb67e411dcf96411cbd85454936382` (1214281558 bytes).
+- Corpus: sha256 `26fcdbc4754a5e31bc4f5ff6c9a9cc64efa523091301dbd02f12e2fd46f04fec` (1276559434 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `c69a2ae7eeab55fd42b52cd695f9866002721124`, `check.py` `6eab8854af875dda405b5b3f33f934f5809306d8`, `on.py` `267f054872f375839ad33c914e6c0d5faf27656b`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
@@ -12622,7 +12622,7 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Every act's decisions made by hand (354812 in all) are listed in that act's own README.md, under "Decisions made by hand".
+- Every act's decisions made by hand (369935 in all) are listed in that act's own README.md, under "Decisions made by hand".
 
 ## What AI did and did not do
 
@@ -25204,136 +25204,159 @@ Model use at data-build time:
 - HCGMB nr. 99/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCGMB nr. 99/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCGMB nr. 99/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 1/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 1/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 1/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 1/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 1/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 1/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 10/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 10/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 10/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 10/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 10/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 10/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 10/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 100/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 100/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 100/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 100/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 100/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 100/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 100/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 101/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 101/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 101/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 101/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 101/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 101/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 101/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 102/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 102/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 102/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 102/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 102/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 102/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 103/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 103/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 103/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 103/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 103/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 103/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 103/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 104/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 104/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 104/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 104/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 104/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 104/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 104/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 105/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 105/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 105/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 105/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 105/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 105/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 105/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 106/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 106/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 106/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 106/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 106/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 106/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 106/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 107/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 107/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 107/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 107/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 107/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 107/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 107/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 108/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 108/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 108/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 108/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 108/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 108/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 108/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 109/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 109/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 109/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 109/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 109/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 109/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 109/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 11/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 11/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 11/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 11/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 11/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 11/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 11/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 110/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 110/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 110/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 110/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 110/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 110/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 110/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 111/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 111/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 111/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 111/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 111/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 111/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 111/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 112/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 112/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 112/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 112/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 112/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 112/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 112/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 113/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 113/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 113/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 113/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 113/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 113/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 113/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 114/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 114/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 114/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 114/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 114/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 114/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 114/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 115/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 115/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 115/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 115/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 115/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 115/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 115/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 116/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 116/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 116/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 116/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 116/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 116/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 116/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 117/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 117/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 117/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 117/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 117/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 117/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 117/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 118/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 118/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 118/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 118/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 118/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 118/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 118/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 119/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 119/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 119/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 119/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -25347,149 +25370,174 @@ Model use at data-build time:
 - HCLS1 nr. 12/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 12/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 12/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 120/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 120/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 120/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 120/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 120/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 120/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 120/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 121/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 121/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 121/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 121/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 121/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 121/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 121/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 122/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 122/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 122/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 122/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 122/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 122/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 122/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 123/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 123/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 123/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 123/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 123/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 123/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 123/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 124/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 124/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 124/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 124/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 124/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 124/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 124/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 125/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 125/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 125/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 125/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 125/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 125/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 126/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 126/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 126/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 126/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 126/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 126/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 126/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 127/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 127/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 127/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 127/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 127/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 127/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 127/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 128/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 128/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 128/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 128/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 128/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 128/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 128/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 129/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 129/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 129/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 129/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 129/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 129/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 129/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 13/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 13/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 13/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 13/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 13/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 13/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 13/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 130/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 130/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 130/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 130/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 130/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 130/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 130/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 131/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 131/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 131/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 131/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 131/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 131/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 131/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 132/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 132/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 132/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 132/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 132/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 132/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 132/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 133/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 133/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 133/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 133/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 133/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 133/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 133/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 134/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 134/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 134/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 134/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 134/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 134/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 134/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 135/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 135/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 135/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 135/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 135/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 135/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 135/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 136/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 136/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 136/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 136/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 136/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 136/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 136/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 137/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 137/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 137/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 137/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 137/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 137/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 137/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 138/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 138/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 138/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 138/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 138/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 138/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 138/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 139/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 139/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 139/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 139/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 139/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 139/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 139/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 14/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 14/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 14/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 14/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 14/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 14/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 14/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 140/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 140/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 140/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 140/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 140/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 140/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 140/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 141/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 141/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 141/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 141/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 141/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 141/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 141/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 142/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 142/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 142/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 142/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -25503,24 +25551,28 @@ Model use at data-build time:
 - HCLS1 nr. 143/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 143/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 143/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 144/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 144/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 144/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 144/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 144/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 144/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 144/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 145/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 145/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 145/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 145/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 145/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 145/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 145/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 146/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 146/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 146/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 146/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 146/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 146/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 146/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 147/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 147/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 147/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 147/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -25541,336 +25593,392 @@ Model use at data-build time:
 - HCLS1 nr. 149/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 149/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 149/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 15/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 15/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 15/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 15/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 15/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 15/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 15/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 150/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 150/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 150/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 150/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 150/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 150/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 150/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 151/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 151/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 151/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 151/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 151/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 151/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 151/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 152/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 152/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 152/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 152/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 152/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 152/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 152/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 153/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 153/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 153/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 153/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 153/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 153/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 153/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 154/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 154/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 154/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 154/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 154/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 154/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 154/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 155/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 155/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 155/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 155/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 155/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 155/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 155/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 156/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 156/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 156/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 156/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 156/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 156/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 156/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 157/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 157/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 157/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 157/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 157/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 157/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 157/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 158/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 158/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 158/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 158/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 158/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 158/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 158/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 159/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 159/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 159/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 159/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 159/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 159/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 159/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 16/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 16/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 16/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 16/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 16/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 16/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 16/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 160/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 160/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 160/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 160/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 160/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 160/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 160/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 161/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 161/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 161/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 161/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 161/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 161/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 161/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 162/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 162/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 162/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 162/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 162/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 162/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 162/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 163/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 163/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 163/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 163/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 163/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 163/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 163/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 164/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 164/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 164/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 164/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 164/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 164/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 164/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 165/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 165/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 165/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 165/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 165/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 165/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 165/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 166/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 166/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 166/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 166/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 166/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 166/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 166/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 167/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 167/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 167/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 167/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 167/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 167/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 167/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 168/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 168/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 168/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 168/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 168/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 168/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 168/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 169/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 169/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 169/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 169/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 169/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 169/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 169/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 17/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 17/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 17/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 17/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 17/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 17/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 17/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 170/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 170/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 170/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 170/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 170/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 170/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 170/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 171/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 171/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 171/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 171/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 171/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 171/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 171/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 172/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 172/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 172/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 172/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 172/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 172/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 172/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 173/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 173/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 173/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 173/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 173/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 173/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 173/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 174/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 174/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 174/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 174/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 174/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 174/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 174/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 175/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 175/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 175/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 175/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 175/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 175/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 175/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 176/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 176/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 176/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 176/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 176/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 176/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 176/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 177/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 177/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 177/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 177/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 177/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 177/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 177/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 178/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 178/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 178/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 178/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 178/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 178/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 178/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 179/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 179/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 179/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 179/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 179/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 179/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 179/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 18/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 18/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 18/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 18/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 18/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 18/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 18/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 180/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 180/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 180/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 180/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 180/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 180/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 180/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 181/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 181/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 181/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 181/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 181/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 181/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 181/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 182/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 182/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 182/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 182/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 182/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 182/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 182/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 183/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 183/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 183/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 183/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 183/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 183/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 183/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 184/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 184/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 184/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 184/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 184/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 184/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 184/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 185/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 185/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 185/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 185/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 185/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 185/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 185/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 186/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 186/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 186/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 186/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 186/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 186/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 186/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 187/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 187/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 187/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 187/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 187/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 187/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 187/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 188/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 188/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 188/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 188/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 188/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 188/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 188/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 189/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 189/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 189/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 189/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 189/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 189/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 189/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 19/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 19/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 19/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 19/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 19/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 19/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 19/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 190/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 190/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 190/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 190/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 190/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 190/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 190/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 191/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 191/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 191/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 191/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 191/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 191/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 191/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 192/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 192/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 192/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 192/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 192/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 192/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 192/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 193/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 193/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 193/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 193/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 193/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 193/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 193/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 194/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 194/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 194/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 194/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 194/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 194/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 194/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 195/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 195/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 195/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 195/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 195/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 195/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 195/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 196/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 196/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 196/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 196/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 196/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 196/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 196/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 197/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 197/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 197/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 197/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 197/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 197/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 197/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 198/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 198/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 198/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 198/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 198/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 198/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 198/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 199/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 199/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 199/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 199/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 199/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 199/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 199/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 2/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 2/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 2/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 2/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -25883,53 +25991,63 @@ Model use at data-build time:
 - HCLS1 nr. 20/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 20/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 20/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 200/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 200/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 200/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 200/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 200/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 200/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 200/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 201/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 201/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 201/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 201/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 201/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 201/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 201/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 202/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 202/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 202/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 202/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 202/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 202/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 203/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 203/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 203/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 203/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 203/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 203/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 204/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 204/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 204/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 204/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 204/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 204/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 205/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 205/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 205/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 205/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 205/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 205/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 206/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 206/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 206/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 206/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 206/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 206/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 207/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 207/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 207/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 207/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 207/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 207/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 208/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 208/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 208/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 208/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 208/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 208/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 209/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 209/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 209/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 209/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -25941,31 +26059,37 @@ Model use at data-build time:
 - HCLS1 nr. 21/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 21/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 21/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 210/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 210/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 210/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 210/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 210/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 210/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 211/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 211/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 211/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 211/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 211/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 211/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 212/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 212/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 212/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 212/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 212/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 212/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 213/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 213/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 213/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 213/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 213/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 213/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 214/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 214/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 214/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 214/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 214/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 214/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 215/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 215/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 215/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 215/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -25983,42 +26107,51 @@ Model use at data-build time:
 - HCLS1 nr. 217/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 217/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 217/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 218/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 218/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 218/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 218/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 218/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 218/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 219/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 219/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 219/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 219/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 219/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 219/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 22/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 22/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 22/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 22/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 22/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 22/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 22/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 220/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 220/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 220/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 220/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 220/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 221/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 221/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 221/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 221/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 221/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 222/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 222/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 222/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 222/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 222/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 223/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 223/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 223/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 223/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 223/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 224/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 224/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 224/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 224/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 224/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 225/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 225/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 225/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 225/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -26028,146 +26161,185 @@ Model use at data-build time:
 - HCLS1 nr. 226/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 226/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 226/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 227/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 227/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 227/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 227/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 227/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 228/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 228/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 228/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 228/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 228/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 229/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 229/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 229/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 229/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 229/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 23/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 23/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 23/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 23/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 23/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 23/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 23/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 230/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 230/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 230/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 230/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 230/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 231/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 231/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 231/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 231/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 231/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 232/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 232/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 232/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 232/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 232/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 233/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 233/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 233/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 233/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 233/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 234/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 234/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 234/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 234/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 234/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 235/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 235/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 235/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 235/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 235/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 236/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 236/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 236/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 236/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 236/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 237/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 237/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 237/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 237/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 237/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 238/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 238/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 238/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 238/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 238/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 239/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 239/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 239/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 239/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 239/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 24/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 24/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 24/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 24/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 24/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 24/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 24/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 240/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 240/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 240/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 240/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 240/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 241/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 241/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 241/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 241/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 242/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 242/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 242/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 242/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 243/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 243/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 243/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 243/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 244/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 244/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 244/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 244/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 245/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 245/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 245/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 245/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 246/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 246/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 246/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 246/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 247/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 247/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 247/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 247/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 248/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 248/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 248/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 248/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 249/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 249/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 249/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 249/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 25/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 25/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 25/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 25/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 25/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 25/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 25/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 250/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 250/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 250/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 250/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 251/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 251/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 251/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 251/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 252/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 252/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 252/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 252/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 253/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 253/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 253/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 253/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 254/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 254/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 254/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 254/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 255/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 255/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 255/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 255/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 256/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 256/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 256/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 256/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 257/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 257/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 257/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 257/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 258/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 258/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 258/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 258/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 259/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 259/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 259/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 259/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 26/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 26/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 26/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 26/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 26/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 26/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 26/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 260/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 260/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 260/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 260/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 261/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 261/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 261/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 261/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -26175,123 +26347,171 @@ Model use at data-build time:
 - HCLS1 nr. 262/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 262/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 262/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 263/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 263/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 263/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 263/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 264/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 264/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 264/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 264/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 265/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 265/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 265/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 265/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 266/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 266/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 266/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 267/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 267/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 267/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 268/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 268/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 268/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 269/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 269/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 269/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 27/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 27/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 27/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 27/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 27/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 27/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 27/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 270/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 270/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 270/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 271/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 271/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 271/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 272/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 272/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 272/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 273/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 273/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 273/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 274/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 274/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 274/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 275/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 275/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 275/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 276/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 276/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 276/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 277/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 277/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 277/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 278/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 278/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 278/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 279/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 279/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 279/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 28/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 28/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 28/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 28/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 28/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 28/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 28/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 280/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 280/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 280/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 281/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 281/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 281/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 282/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 282/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 282/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 283/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 283/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 283/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 284/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 284/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 284/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 285/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 285/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 285/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 286/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 286/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 286/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 287/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 287/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 287/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 288/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 288/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 288/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 289/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 289/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 289/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 29/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 29/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 29/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 29/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 29/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 29/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 29/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 290/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 290/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 290/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 291/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 291/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 291/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 292/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 292/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 292/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 293/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 293/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 293/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 294/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 294/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 294/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 295/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 295/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 295/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 296/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 296/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 296/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 297/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 297/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 297/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 298/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 298/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 298/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 299/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 299/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 299/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 3/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 3/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 3/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 3/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 3/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 3/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 3/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 30/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 30/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 30/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 30/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 30/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 30/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 30/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 300/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 300/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 300/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 301/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 301/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 301/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 302/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 302/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 302/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 303/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 303/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 303/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 304/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 304/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 304/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 305/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 305/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 305/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 306/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -26302,6 +26522,7 @@ Model use at data-build time:
 - HCLS1 nr. 308/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 309/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 309/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 31/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 31/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 31/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 31/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -26328,6 +26549,7 @@ Model use at data-build time:
 - HCLS1 nr. 318/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 319/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 319/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 32/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 32/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 32/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 32/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -26354,6 +26576,7 @@ Model use at data-build time:
 - HCLS1 nr. 328/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 329/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 329/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 33/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 33/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 33/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 33/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -26380,6 +26603,7 @@ Model use at data-build time:
 - HCLS1 nr. 338/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 339/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 339/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 34/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 34/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 34/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 34/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -26406,6 +26630,7 @@ Model use at data-build time:
 - HCLS1 nr. 348/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 349/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 349/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 35/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 35/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 35/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 35/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -26423,6 +26648,7 @@ Model use at data-build time:
 - HCLS1 nr. 357/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 358/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 359/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 36/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 36/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 36/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 36/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -26439,6 +26665,7 @@ Model use at data-build time:
 - HCLS1 nr. 367/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 368/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 369/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 37/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 37/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 37/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 37/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -26472,6 +26699,7 @@ Model use at data-build time:
 - HCLS1 nr. 387/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 388/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 389/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 39/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 39/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 39/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 39/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -26488,12 +26716,14 @@ Model use at data-build time:
 - HCLS1 nr. 397/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 398/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 399/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 4/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 4/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 4/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 4/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 4/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 4/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 4/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 40/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 40/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 40/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 40/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -26510,6 +26740,7 @@ Model use at data-build time:
 - HCLS1 nr. 407/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 408/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 409/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 41/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 41/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 41/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 41/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -26526,6 +26757,7 @@ Model use at data-build time:
 - HCLS1 nr. 417/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 418/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 419/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 42/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 42/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 42/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 42/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -26542,6 +26774,7 @@ Model use at data-build time:
 - HCLS1 nr. 427/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 428/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 429/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 43/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 43/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 43/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 43/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -26558,6 +26791,7 @@ Model use at data-build time:
 - HCLS1 nr. 437/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 438/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 439/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 44/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 44/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 44/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 44/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -26574,6 +26808,7 @@ Model use at data-build time:
 - HCLS1 nr. 447/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 448/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 449/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 45/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 45/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 45/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 45/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -26590,6 +26825,7 @@ Model use at data-build time:
 - HCLS1 nr. 457/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 458/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 459/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 46/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 46/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 46/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 46/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -26606,6 +26842,7 @@ Model use at data-build time:
 - HCLS1 nr. 467/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 468/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 469/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 47/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 47/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 47/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 47/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -26622,6 +26859,7 @@ Model use at data-build time:
 - HCLS1 nr. 477/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 478/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 479/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 48/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 48/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 48/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 48/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -26638,6 +26876,7 @@ Model use at data-build time:
 - HCLS1 nr. 487/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 488/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 489/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 49/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 49/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 49/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 49/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -26660,6 +26899,7 @@ Model use at data-build time:
 - HCLS1 nr. 5/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 5/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 5/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 50/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 50/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 50/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 50/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -26676,6 +26916,7 @@ Model use at data-build time:
 - HCLS1 nr. 507/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 508/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 509/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 51/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 51/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 51/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 51/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -26692,6 +26933,7 @@ Model use at data-build time:
 - HCLS1 nr. 517/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 518/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 519/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 52/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 52/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 52/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 52/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -26708,6 +26950,7 @@ Model use at data-build time:
 - HCLS1 nr. 527/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 528/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 529/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 53/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 53/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 53/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 53/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -26724,6 +26967,7 @@ Model use at data-build time:
 - HCLS1 nr. 537/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 538/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 539/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 54/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 54/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 54/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 54/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -26740,6 +26984,7 @@ Model use at data-build time:
 - HCLS1 nr. 547/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 548/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 549/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 55/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 55/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 55/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 55/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -26756,6 +27001,7 @@ Model use at data-build time:
 - HCLS1 nr. 557/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 558/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 559/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 56/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 56/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 56/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 56/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -26767,421 +27013,1675 @@ Model use at data-build time:
 - HCLS1 nr. 562/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 563/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 564/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 57/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 57/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 57/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 57/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 57/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 57/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 57/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 58/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 58/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 58/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 58/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 58/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 58/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 58/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 59/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 59/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 59/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 59/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 59/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 59/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 59/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 6/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 6/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 6/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 6/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 6/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 6/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 6/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 60/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 60/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 60/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 60/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 60/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 60/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 60/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 61/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 61/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 61/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 61/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 61/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 61/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 61/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 62/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 62/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 62/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 62/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 62/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 62/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 62/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 63/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 63/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 63/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 63/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 63/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 63/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 63/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 64/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 64/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 64/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 64/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 64/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 64/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 64/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 65/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 65/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 65/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 65/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 65/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 65/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 65/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 66/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 66/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 66/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 66/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 66/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 66/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 66/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 67/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 67/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 67/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 67/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 67/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 67/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 67/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 68/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 68/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 68/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 68/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 68/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 68/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 68/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 69/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 69/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 69/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 69/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 69/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 69/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 69/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 7/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 7/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 7/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 7/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 7/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 7/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 7/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 70/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 70/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 70/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 70/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 70/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 70/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 70/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 71/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 71/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 71/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 71/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 71/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 71/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 71/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 72/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 72/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 72/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 72/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 72/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 72/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 72/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 73/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 73/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 73/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 73/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 73/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 73/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 73/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 74/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 74/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 74/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 74/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 74/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 74/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 74/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 75/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 75/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 75/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 75/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 75/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 75/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 75/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 76/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 76/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 76/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 76/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 76/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 76/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 76/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 77/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 77/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 77/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 77/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 77/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 77/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 77/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 78/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 78/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 78/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 78/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 78/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 78/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 78/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 79/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 79/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 79/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 79/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 79/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 79/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 79/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 8/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 8/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 8/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 8/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 8/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 8/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 8/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 80/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 80/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 80/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 80/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 80/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 80/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 80/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 81/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 81/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 81/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 81/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 81/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 81/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 81/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 82/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 82/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 82/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 82/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 82/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 82/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 82/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 83/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 83/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 83/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 83/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 83/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 83/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 83/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 84/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 84/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 84/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 84/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 84/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 84/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 84/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 85/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 85/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 85/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 85/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 85/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 85/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 85/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 86/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 86/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 86/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 86/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 86/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 86/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 86/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 87/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 87/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 87/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 87/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 87/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 87/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 87/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 88/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 88/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 88/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 88/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 88/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 88/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 88/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 89/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 89/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 89/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 89/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 89/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 89/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 89/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 9/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 9/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 9/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 9/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 9/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 9/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 9/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 90/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 90/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 90/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 90/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 90/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 90/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 90/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 91/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 91/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 91/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 91/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 91/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 91/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 91/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 92/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 92/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 92/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 92/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 92/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 92/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 92/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 93/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 93/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 93/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 93/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 93/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 93/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 93/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 94/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 94/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 94/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 94/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 94/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 94/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 94/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 95/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 95/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 95/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 95/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 95/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 95/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 95/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 96/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 96/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 96/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 96/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 96/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 96/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 96/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 97/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 97/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 97/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 97/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 97/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 97/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 97/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 98/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 98/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 98/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 98/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 98/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 98/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 98/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 99/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS1 nr. 99/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 99/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 99/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 99/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 99/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS1 nr. 99/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 1/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 1/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 1/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 1/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 10/2019: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 10/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 10/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 10/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 10/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 100/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 100/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 100/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 100/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 101/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 101/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 101/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 101/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 102/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 102/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 102/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 102/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 103/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 103/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 103/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 103/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 104/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 104/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 104/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 104/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 105/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 105/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 105/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 105/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 106/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 106/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 106/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 106/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 106/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 107/2019: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 107/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 107/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 107/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 107/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 108/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 108/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 108/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 108/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 109/2017: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 109/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 109/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 109/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 109/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 11/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 11/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 11/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 11/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 110/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 110/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 110/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 110/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 111/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 111/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 111/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 111/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 112/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 112/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 112/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 112/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 113/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 113/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 113/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 113/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 114/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 114/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 114/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 114/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 114/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 115/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 115/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 115/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 115/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 115/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 116/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 116/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 116/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 116/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 117/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 117/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 117/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 117/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 118/2017: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 118/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 118/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 118/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 118/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 119/2017: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 119/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 119/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 119/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 119/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 12/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 12/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 12/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 12/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 12/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 120/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 120/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 120/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 120/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 121/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 121/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 121/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 121/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 122/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 122/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 122/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 122/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 123/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 123/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 123/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 123/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 124/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 124/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 124/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 124/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 124/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 125/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 125/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 125/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 125/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 126/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 126/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 126/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 126/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 126/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 127/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 127/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 127/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 127/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 128/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 128/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 128/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 128/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 129/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 129/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 129/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 129/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 13/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 13/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 13/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 13/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 130/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 130/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 130/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 130/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 131/2017: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 131/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 131/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 131/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 131/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 132/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 132/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 132/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 132/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 133/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 133/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 133/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 133/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 134/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 134/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 134/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 134/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 134/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 135/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 135/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 135/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 135/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 136/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 136/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 136/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 136/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 137/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 137/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 137/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 137/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 138/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 138/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 138/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 138/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 139/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 139/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 139/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 139/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 139/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 14/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 14/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 14/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 14/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 140/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 140/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 140/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 140/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 141/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 141/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 141/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 141/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 142/2017: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 142/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 142/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 142/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 142/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 143/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 143/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 143/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 143/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 144/2019: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 144/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 144/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 144/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 144/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 144/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 145/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 145/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 145/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 145/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 146/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 146/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 146/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 146/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 147/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 147/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 147/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 147/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 148/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 148/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 148/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 148/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 149/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 149/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 149/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 149/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 15/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 15/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 15/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 15/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 15/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 150/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 150/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 150/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 150/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 151/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 151/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 151/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 151/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 152/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 152/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 152/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 152/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 152/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 153/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 153/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 153/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 153/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 154/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 154/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 154/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 154/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 155/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 155/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 155/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 155/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 156/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 156/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 156/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 156/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 157/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 157/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 157/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 157/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 158/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 158/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 158/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 158/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 159/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 159/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 159/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 159/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 16/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 16/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 16/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 16/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 160/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 160/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 160/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 160/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 161/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 161/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 161/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 161/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 162/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 162/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 162/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 163/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 163/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 163/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 164/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 164/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 164/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 165/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 165/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 165/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 166/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 166/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 166/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 166/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 167/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 167/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 167/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 168/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 168/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 168/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 169/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 169/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 169/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 169/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 17/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 17/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 17/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 17/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 170/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 170/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 170/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 171/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 171/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 171/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 172/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 172/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 172/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 172/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 173/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 173/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 173/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 174/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 174/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 174/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 174/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 175/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 175/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 175/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 176/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 176/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 176/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 177/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 177/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 177/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 178/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 178/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 178/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 179/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 179/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 179/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 179/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 18/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 18/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 18/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 18/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 180/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 180/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 180/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 180/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 181/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 181/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 181/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 181/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 182/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 182/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 182/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 182/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 183/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 183/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 183/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 184/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 184/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 184/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 185/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 185/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 185/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 185/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 186/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 186/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 186/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 187/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 187/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 187/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 187/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 188/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 188/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 188/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 189/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 189/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 189/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 19/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 19/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 19/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 19/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 190/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 190/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 190/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 191/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 191/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 191/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 192/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 192/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 192/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 193/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 193/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 193/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 194/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 194/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 194/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 195/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 195/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 195/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 196/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 196/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 196/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 197/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 197/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 197/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 198/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 198/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 198/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 198/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 199/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 199/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 199/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 2/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 2/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 2/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 20/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 20/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 20/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 200/2019: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 200/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 200/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 200/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 201/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 201/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 201/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 202/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 202/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 202/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 203/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 203/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 203/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 203/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 204/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 204/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 204/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 205/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 205/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 205/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 206/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 206/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 206/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 207/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 207/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 207/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 208/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 208/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 208/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 209/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 209/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 209/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 21/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 21/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 21/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 210/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 210/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 210/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 211/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 211/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 211/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 212/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 212/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 212/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 213/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 213/2019: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 213/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 213/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 213/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 214/2019: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 214/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 214/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 214/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 214/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 215/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 215/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 215/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 215/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 216/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 216/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 216/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 217/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 217/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 217/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 217/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 217/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 218/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 218/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 218/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 219/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 219/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 219/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 219/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 22/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 22/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 22/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 220/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 220/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 220/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 220/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 221/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 221/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 221/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 222/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 222/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 222/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 223/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 223/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 223/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 224/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 224/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 224/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 225/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 225/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 225/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 225/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 226/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 226/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 226/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 227/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 227/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 227/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 228/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 228/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 228/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 229/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 229/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 229/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 23/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 23/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 23/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 230/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 230/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 230/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 231/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 231/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 231/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 232/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 232/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 232/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 233/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 233/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 233/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 234/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 234/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 234/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 235/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 235/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 235/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 236/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 236/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 236/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 237/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 237/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 237/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 238/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 238/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 238/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 239/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 239/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 239/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 24/2019: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 24/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 24/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 24/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 240/2017: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 240/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 240/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 240/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 241/2017: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 241/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 241/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 241/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 242/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 242/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 242/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 243/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 243/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 243/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 244/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 244/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 244/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 245/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 245/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 245/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 246/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 246/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 246/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 247/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 247/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 247/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 248/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 248/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 248/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 249/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 249/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 249/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 25/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 25/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 25/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 250/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 250/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 250/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 251/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 251/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 251/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 251/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 252/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 252/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 252/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 253/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 253/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 253/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 254/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 254/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 254/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 254/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 254/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 255/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 255/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 255/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 256/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 256/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 256/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 257/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 257/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 257/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 257/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 257/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 258/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 258/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 258/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 258/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 259/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 259/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 259/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 26/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 26/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 26/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 260/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 260/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 260/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 260/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 261/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 261/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 261/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 262/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 262/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 262/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 263/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 263/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 263/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 264/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 264/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 264/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 264/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 265/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 265/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 265/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 266/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 266/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 266/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 267/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 267/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 267/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 268/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 268/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 268/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 269/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 269/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 269/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 27/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 27/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 27/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 270/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 270/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 270/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 271/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 271/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 271/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 272/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 272/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 272/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 273/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 273/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 273/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 274/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 274/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 274/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 275/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 275/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 275/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 276/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 276/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 276/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 276/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 277/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 277/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 277/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 278/2019: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 278/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 278/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 278/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 279/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 279/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 279/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 28/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 28/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 28/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 280/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 280/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 280/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 281/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 281/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 281/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 281/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 282/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 282/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 282/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 283/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 283/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 283/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 284/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 284/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 284/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 285/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 285/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 285/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 286/2019: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 286/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 286/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 286/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 287/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 287/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 287/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 288/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 288/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 288/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 289/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 289/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 289/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 29/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 29/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 29/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 290/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 290/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 290/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 291/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 291/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 291/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 292/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 292/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 292/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 293/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 293/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 293/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 294/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 294/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 294/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 295/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 295/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 295/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 296/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 296/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 296/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 296/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 297/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 297/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 297/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 298/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 298/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 298/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 299/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 299/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 299/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 3/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 3/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 3/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 30/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 30/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 30/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 300/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 300/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 300/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 301/2019: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 301/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 301/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 301/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 302/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 302/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 302/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 303/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 303/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 303/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 304/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 304/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 304/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 305/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 305/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 305/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 306/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 306/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 306/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 307/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 307/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 307/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 308/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 308/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 308/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 308/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 309/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 309/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 309/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 31/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 31/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 31/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 310/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 310/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 310/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 311/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 311/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 311/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 311/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 312/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 312/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 312/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 313/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 313/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 313/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 314/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 314/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 314/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 315/2019: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 315/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 315/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 315/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 316/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 316/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 316/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 317/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 317/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 317/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 317/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 318/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 318/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 318/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 319/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 319/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 319/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 32/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 32/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 32/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 320/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 320/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 320/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 321/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 321/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 321/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 322/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 322/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 322/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 322/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 323/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 323/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 323/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 324/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 324/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 324/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 325/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 325/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 325/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 325/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 326/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 326/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 326/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 327/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 327/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 327/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 328/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 328/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 328/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 329/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 329/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 329/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 33/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 33/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 33/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 33/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 330/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 330/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 330/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 331/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 331/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 331/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 331/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 332/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 332/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 332/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 332/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 333/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 333/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 333/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 334/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 334/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 334/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 335/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 335/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 336/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 336/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 337/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 337/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 337/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 338/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 338/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 339/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 339/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 34/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 34/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 34/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 340/2019: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 340/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 340/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 341/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 341/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 342/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 342/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 343/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 343/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 344/2019: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 344/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 344/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 345/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 345/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 346/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 346/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 347/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 347/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 347/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 348/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 348/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 349/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 349/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 35/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 35/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 35/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 350/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 350/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 351/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 351/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 352/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 352/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 352/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 353/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 353/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 354/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 354/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 355/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 355/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 356/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 356/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 357/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 357/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 358/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 358/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 359/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 359/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 36/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 36/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 36/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 360/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 360/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 361/2019: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 361/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 361/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 361/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 362/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 362/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 363/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 363/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 363/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 364/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 364/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 365/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 365/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 366/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 366/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 367/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 367/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 368/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 368/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 369/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 369/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 37/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 37/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 37/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 37/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 370/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 370/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 371/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 371/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 372/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 372/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 373/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 373/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 373/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 374/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 374/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 375/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 375/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 376/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 376/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 377/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 378/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 379/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 38/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 38/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 38/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 38/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 380/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 381/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 381/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 382/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 382/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 383/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 384/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 385/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 385/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 386/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 386/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 387/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 388/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 389/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 389/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 39/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 39/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 39/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 390/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 390/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 391/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 392/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 392/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 393/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 394/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 395/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 395/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 396/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 396/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 397/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 398/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 399/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 399/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 4/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 4/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 4/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 4/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 4/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 40/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 40/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 40/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 400/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 401/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 402/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 403/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 404/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 405/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 405/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 406/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 407/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 407/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 408/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 408/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 409/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 41/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 41/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 41/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 410/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 411/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 412/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 413/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 414/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 415/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 416/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 417/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 418/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 419/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 42/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 42/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 42/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 420/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 421/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 422/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 423/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 424/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 425/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 426/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 427/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 428/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 429/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 43/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 43/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 43/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 43/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 430/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 430/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 431/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 432/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 433/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 434/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 435/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 435/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 436/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 437/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 44/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 44/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 44/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 45/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 45/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 45/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 457/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 46/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 46/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 46/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 46/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 47/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 47/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 47/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 48/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 48/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 48/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 49/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 49/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 49/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 5/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 5/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 5/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 50/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 50/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 50/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 51/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 51/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 51/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 52/2017: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 52/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 52/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 52/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 526/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 53/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 53/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 53/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 54/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 54/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 54/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 55/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 55/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 55/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 56/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 56/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 56/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 57/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 57/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 57/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 58/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 58/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 58/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 59/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 59/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 59/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 59/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 6/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 6/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 6/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 60/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 60/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 60/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 61/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 61/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 61/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 62/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 62/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 62/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 63/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 63/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 63/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 64/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 64/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 64/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 65/2019: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 65/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 65/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 65/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 66/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 66/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 66/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 67/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 67/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 67/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 67/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 68/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 68/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 68/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 69/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 69/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 69/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 7/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 7/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 7/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 7/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 70/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 70/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 70/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 71/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 71/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 71/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 72/2017: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 72/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 72/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 72/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 72/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 73/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 73/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 73/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 74/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 74/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 74/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 74/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 75/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 75/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 75/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 76/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 76/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 76/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 77/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 77/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 77/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 78/2017: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 78/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 78/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 78/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 79/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 79/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 79/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 8/2019: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 8/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 8/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 8/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 8/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 80/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 80/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 80/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 80/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 81/2017: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 81/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 81/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 81/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 82/2017: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 82/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 82/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 82/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 82/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 83/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 83/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 83/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 83/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 84/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 84/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 84/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 84/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 85/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 85/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 85/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 86/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 86/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 86/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 86/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 87/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 87/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 87/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 87/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS2 nr. 88/2017: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 88/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 88/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 88/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 89/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 89/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 89/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 9/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 9/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 9/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 90/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 90/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 90/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 91/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 91/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 91/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 92/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 92/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 92/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 93/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 93/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 93/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 94/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 94/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 94/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 95/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 95/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 95/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 96/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 96/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 96/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 97/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 97/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 97/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 98/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 98/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 98/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 99/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 99/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCLS2 nr. 99/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS3 nr. 136/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS3 nr. 172/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCLS3 nr. 628/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -27829,6 +29329,9 @@ Model use at data-build time:
 - Instrucțiuni dezvoltare nr. 905/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Instrucțiuni economie nr. 191239/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Instrucțiuni economie nr. 255479/1999: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Instrucțiuni educatie nr. 1/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Instrucțiuni educatie nr. 1/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Instrucțiuni educatie nr. 8/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Instrucțiuni finante nr. 1/1994: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Instrucțiuni finante nr. 1409/1992: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Instrucțiuni finante nr. 1719/1994: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -28638,6 +30141,7 @@ Model use at data-build time:
 - Ordin agricultura nr. 116/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 1162/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 119066/2001: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin agricultura nr. 1196/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 12/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 120/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 120/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -28656,6 +30160,7 @@ Model use at data-build time:
 - Ordin agricultura nr. 127/2001: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 1272/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 128/2001: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin agricultura nr. 1281/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 13/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 13/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 131/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -28688,12 +30193,14 @@ Model use at data-build time:
 - Ordin agricultura nr. 16/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 1692/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 17/2000: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin agricultura nr. 170/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 1713/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 173/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 173/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 174/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 177/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 178/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin agricultura nr. 18/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 180/2001: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 180/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 1846/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -28705,6 +30212,7 @@ Model use at data-build time:
 - Ordin agricultura nr. 191/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 192/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 1922/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin agricultura nr. 195/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 197/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 2/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 20/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -28717,6 +30225,7 @@ Model use at data-build time:
 - Ordin agricultura nr. 206/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 212/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 212/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin agricultura nr. 212/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 213/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 216/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 218/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -28732,12 +30241,15 @@ Model use at data-build time:
 - Ordin agricultura nr. 23/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 230/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 232/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin agricultura nr. 234/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 237/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 240/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 243/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 243/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 244/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin agricultura nr. 244/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 246/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin agricultura nr. 248/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 25/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 250/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 251/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -28753,11 +30265,13 @@ Model use at data-build time:
 - Ordin agricultura nr. 269/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 271/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 274/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin agricultura nr. 274/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 275/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 278/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 278/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 284/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 29/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin agricultura nr. 29/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 291/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 292/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 293/2001: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -28768,11 +30282,14 @@ Model use at data-build time:
 - Ordin agricultura nr. 30/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 307/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 309/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin agricultura nr. 309/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 31/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 311/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin agricultura nr. 313/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 317/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 319/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 32/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin agricultura nr. 324/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 327/2000: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 33/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 33/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -28810,6 +30327,7 @@ Model use at data-build time:
 - Ordin agricultura nr. 358/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 358/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 359/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin agricultura nr. 36/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 367/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 368/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 377/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -28847,6 +30365,8 @@ Model use at data-build time:
 - Ordin agricultura nr. 461/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 461/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 462/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin agricultura nr. 464/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin agricultura nr. 467/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 470/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 474/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 474/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -28854,10 +30374,13 @@ Model use at data-build time:
 - Ordin agricultura nr. 481/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 494/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 495/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin agricultura nr. 496/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 498/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 499/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 501/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin agricultura nr. 502/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 505/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin agricultura nr. 51/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 51/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 510/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 510/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -28877,6 +30400,7 @@ Model use at data-build time:
 - Ordin agricultura nr. 545/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 545/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 545/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin agricultura nr. 546/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 546/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 549/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 549/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -28909,6 +30433,7 @@ Model use at data-build time:
 - Ordin agricultura nr. 642/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 644/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 65/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin agricultura nr. 651/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 66/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 678/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 679/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -28949,6 +30474,7 @@ Model use at data-build time:
 - Ordin agricultura nr. 80/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 804/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 810/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin agricultura nr. 824/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 83/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 832/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 835/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -28974,10 +30500,12 @@ Model use at data-build time:
 - Ordin agricultura nr. 897/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 90/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 903/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin agricultura nr. 915/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 94/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 946/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 95/2001: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 95/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin agricultura nr. 95/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 95136/2001: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 969/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin agricultura nr. 97/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -30269,6 +31797,7 @@ Model use at data-build time:
 - Ordin ancpi nr. 984/2000: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ancpi nr. 99/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ancpi nr. 99/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin anofm nr. 341/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anpc nr. 1/2000: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anpc nr. 1/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anpc nr. 10/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -32135,50 +33664,883 @@ Model use at data-build time:
 - Ordin anrm nr. 194/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anrm nr. 20/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anrm nr. 202/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin anrm nr. 27/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin anrm nr. 58/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 1/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 1/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 1/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 1/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 1/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 10/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 10/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 10/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 10/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 10/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 10/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 100/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 100/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 100/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 100/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 101/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 101/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 10167/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 102/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 102/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 102/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 103/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 103/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 103/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 104/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 104/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 104/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 1040/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 105/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 106/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 106/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 106/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 106/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 107/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 107/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 108/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 108/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 109/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 109/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 109/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 109/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 109/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 11/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 11/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 11/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 110/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 110/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 110/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 110/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 111/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 111/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 111/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 111/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 111/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 112/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 112/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 112/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 112/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 112/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 112/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 112/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 112/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 113/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 113/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 113/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 113/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 1131/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 114/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 114/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 114/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 115/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 115/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 115/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 115/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 116/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 116/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 117/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 117/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 117/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 117/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 118/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 118/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 118/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 119/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 119/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 119/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 119/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 12/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 12/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 12/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 12/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 12/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 12/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 12/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 12/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 120/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 121/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 121/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 121/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 1213/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 122/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 122/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 123/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 123/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 123/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 124/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 124/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 124/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 124/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 124/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 125/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 125/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 125/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 125/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 1258/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 126/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 126/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 126/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 126/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 127/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 127/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 128/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 128/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 128/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 129/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 129/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 13/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 13/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 13/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 13/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 13/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 13/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 13/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 130/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 130/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 130/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 130/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 130/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 131/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 131/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 132/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 132/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 132/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 133/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 133/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 133/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 134/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 134/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 134/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 134/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 134/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 134/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 135/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 135/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 135/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 135/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 135/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 135/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 136/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 136/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 136/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 136/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 136/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 138/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 138/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 138/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 139/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 139/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 139/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 14/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 14/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 14/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 14/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 14/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 140/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 140/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 140/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 140/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 141/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 141/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 142/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 142/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 142/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 142/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 143/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 143/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 143/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 143/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 143/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 144/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 144/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 144/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 144/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 144/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 145/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 145/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 145/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 145/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 145/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 145/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 146/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 146/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 146/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 147/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 147/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 147/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 147/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 147/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 148/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 148/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 148/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 149/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 149/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 149/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 15/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 15/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 15/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 151/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 151/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 152/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 152/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 153/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 153/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 154/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 155/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 155/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 155/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 155/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 156/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 156/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 156/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 157/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 157/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 157/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 157/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 158/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 159/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 159/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 16/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 16/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 16/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 16/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 16/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 16/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 160/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 160/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 161/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 161/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 162/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 162/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 163/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 163/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 163/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 165/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 165/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 165/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 165/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 166/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 166/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 166/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 167/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 167/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 167/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 168/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 168/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 168/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 168/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 169/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 17/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 17/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 17/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 17/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 17/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 17/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 17/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 170/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 170/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 171/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 174/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 174/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 175/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 178/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 178/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 178/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 1790/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 18/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 18/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 18/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 180/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 181/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 183/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 184/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 184/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 185/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 185/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 185/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 186/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 186/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 187/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 187/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 187/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 187/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 187/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 188/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 188/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 188/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 19/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 19/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 19/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 19/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 190/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 191/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 192/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 192/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 193/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 194/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 195/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 196/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 196/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 196/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 197/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 197/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 198/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 198/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 199/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 2/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 2/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 20/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 20/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 20/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 20/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 20/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 20/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 200/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 201/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 202/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 203/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 203/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 203/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 204/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 205/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 205/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 206/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 206/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 207/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 207/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 208/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 208/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 209/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 209/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 21/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 21/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 21/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 21/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 21/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 21/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 21/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 210/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 211/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 212/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 213/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 214/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 214/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 215/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 215/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 217/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 22/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 22/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 22/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 22/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 22/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 220/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 221/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 2263/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 2283/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 23/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 23/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 23/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 23/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 23/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 23/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 23/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 231/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 233/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 2362/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 2363/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 2366/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 2367/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 238/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 239/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 24/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 24/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 24/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 24/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 24/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 24/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 24/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 24/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 240/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 2400/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 241/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 243/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 245/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 25/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 25/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 25/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 25/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 25/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 250/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 252/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 253/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 256/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 259/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 26/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 26/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 26/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 26/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 268/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 27/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 27/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 27/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 273/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 276/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 277/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 28/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 28/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 28/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 28/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 28/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 282/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 283/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 288/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 29/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 29/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 29/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 29/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 29/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 29/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 29/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 292/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 295/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 299/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 3/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 3/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 3/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 3/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 3/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 30/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 30/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 30/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 30/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 30/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 300/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 301/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 31/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 31/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 31/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 31/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 31/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 31/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 31/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 31/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 32/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 32/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 32/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 32/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 32/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 32/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 32/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 324/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 33/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 33/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 33/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 34/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 34/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 34/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 34/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 34/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 345/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 35/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 35/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 35/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 35/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 35/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 35/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 358/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 36/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 36/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 36/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 36/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 36/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 37/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 37/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 37/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 37/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 37/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 37/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 37/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 38/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 38/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 38/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 38/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 38/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 38/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 38/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 39/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 39/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 39/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 39/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 39/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 39/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 4/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 4/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 4/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 4/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 4/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 40/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 40/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 40/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 40/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 40/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 407/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 408/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 41/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 41/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 41/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 41/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 41/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 411/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 42/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 42/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 42/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 42/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 42/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 42/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 429/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 43/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 43/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 43/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 43/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 43/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 43/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 430/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 44/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 44/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 45/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 45/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 45/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 45/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 45/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 45/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 46/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 46/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 46/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 46/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 46/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 46/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 47/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 47/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 471/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 472/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 48/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 48/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 48/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 48/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 48/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 48/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 48/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 48/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 482/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 49/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 49/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 49/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 49/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 49/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 5/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 5/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 5/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 5/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 50/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 50/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 50/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 504/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 51/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 51/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 51/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 51/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 51/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 52/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 528/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 53/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 53/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 533/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 54/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 54/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 54/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 54/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 55/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 55/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 55/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 55/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 555/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 56/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 56/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 56/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 561/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 562/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 57/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 57/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 57/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 58/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 58/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 59/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 59/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 59/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 6/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 6/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 6/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 60/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 60/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 60/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 60/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 61/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 61/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 61/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 62/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 62/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 62/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 62/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 625/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 63/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 63/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 63/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 63/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 64/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 64/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 64/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 64/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 65/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 65/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 65/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 652/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 66/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 66/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 66/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 66/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 663/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 67/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 67/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 67/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 67/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 68/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 69/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 69/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 69/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 69/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 69/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 7/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 7/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 7/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 7/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 70/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 70/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 70/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 70/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 71/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 72/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 72/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 72/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 72/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 73/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 73/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 73/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 73/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 73/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 74/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 74/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 74/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 74/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 74/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 74/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 742/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 745/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 75/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 75/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 75/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 755/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 756/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 76/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 76/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 76/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 76/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 76/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 77/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 77/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 77/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 77/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 770/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 78/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 78/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 781/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 788/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 79/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 79/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 79/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 79/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 8/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 8/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 8/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 8/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 8/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 80/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 80/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 80/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 82/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 82/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 82/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 82/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 82/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 83/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 83/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 83/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 83/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 83/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 83/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 835/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 84/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 84/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 84/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 85/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 85/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 85/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 85/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 86/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 86/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 86/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 86/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 86/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 86/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 86/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 86/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 87/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 87/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 87/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 87/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 87/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 88/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 88/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 88/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 89/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 89/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 9/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 9/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 9/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 90/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 90/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 91/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 91/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 91/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 91/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 92/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 920/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 924/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 93/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 93/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 94/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 94/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 94/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin ansvsa nr. 94/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 95/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 95/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 95/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 95/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 95/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 953/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 96/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 96/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 96/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 96/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 961/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 968/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 97/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 97/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 97/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 98/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 98/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 98/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 98/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 984/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 99/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 99/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 99/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 99/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin ansvsa nr. 992/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin aparare nr. 10216/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin asf nr. 1/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin asf nr. 1/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin asf nr. 2/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin asf nr. 3/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 105/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 105/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 124/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 135/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 137/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 150/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 166/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 184/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 201/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 224/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 25/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 260/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 266/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 270/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 272/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 273/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 287/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 287/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 290/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 300/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 315/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 324/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 329/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 339/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 340/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 356/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 381/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 383/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 390/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 391/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 392/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 392/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 393/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 400/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 405/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 406/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 406/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 422/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 423/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 424/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 425/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 426/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 448/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 457/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 46/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 474/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 475/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 480/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 481/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 482/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 494/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 53/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 54/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 561/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 573/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 60/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 60/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 610/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 623/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 650/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 662/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 663/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 673/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 674/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 69/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 70/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 709/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 722/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 755/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 76/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 87/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 88/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 89/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 90/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 93/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin aspaas nr. 94/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin bnr nr. 1/1999: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin bnr nr. 1/2000: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin bnr nr. 1/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -32450,6 +34812,7 @@ Model use at data-build time:
 - Ordin bnr nr. 9/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin bnr nr. 9/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin bnr nr. 9/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin cafr nr. 24/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin cnas nr. 1/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin cnas nr. 1000/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin cnas nr. 1005/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -35656,63 +38019,807 @@ Model use at data-build time:
 - Ordin economie nr. 998/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin economie nr. 999/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3001/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3002/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3003/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3008/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3016/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3018/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3019/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3020/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3023/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3030/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3036/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3040/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3047/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3048/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3048/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3049/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3051/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3058/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3062/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3066/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3067/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3069/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3076/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3092/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3094/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3098/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3102/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3103/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3106/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3107/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3109/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3115/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3126/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3126/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3128/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3129/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3130/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3131/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3131/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3132/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3139/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3141/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3148/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3158/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3168/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3176/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3177/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3177/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3184/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3184/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3185/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3185/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3194/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3200/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3200/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3201/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3206/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3207/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3215/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3220/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3225/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3226/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3228/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3229/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3230/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3235/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3235/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3236/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3237/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3238/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3243/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3244/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3247/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3249/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3262/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3277/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3279/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3300/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3307/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3310/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3320/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3322/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3327/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3328/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3329/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3329/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3333/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3334/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3343/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3344/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3352/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3353/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3360/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3362/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3363/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3366/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3371/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3384/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3392/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3393/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3411/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3412/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3443/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3446/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3449/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3454/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3459/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3461/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3462/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3463/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3463/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3466/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3472/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3473/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3475/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3475/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3482/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3485/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3497/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3498/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3498/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3500/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3501/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3502/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3503/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3505/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3508/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3509/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3511/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3514/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3515/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3530/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3533/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3534/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3549/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3551/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3554/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3556/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3560/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3577/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3590/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3602/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3610/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3611/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3618/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3619/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3619/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3622/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3623/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3629/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3629/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3630/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3630/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3632/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3633/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3635/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3647/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3651/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3654/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3657/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3665/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3667/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3668/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3689/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3690/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3694/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3696/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3696/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3702/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3704/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3707/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3712/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3716/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3717/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3721/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3722/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3723/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3725/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3739/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3741/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3745/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3747/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3749/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3750/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3750/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3750/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3752/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3755/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3756/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3759/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3764/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3767/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3770/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3771/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3773/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3775/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3779/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3779/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3780/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3801/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3833/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3835/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3838/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3840/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3840/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3841/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3841/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3842/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3844/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3850/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3851/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3855/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3857/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3858/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3860/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3861/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3864/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3876/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3889/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3891/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3894/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3896/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3899/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3900/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 3900/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3904/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3905/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3908/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3910/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3913/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3915/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3921/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3933/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3934/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3934/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3938/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3939/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3941/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3945/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3952/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3956/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3958/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3961/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3965/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3966/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3969/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3972/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3975/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3976/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3986/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3992/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3993/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 3993/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4002/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4012/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4019/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4020/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 4024/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4034/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4038/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4042/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4043/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4046/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4049/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4050/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4067/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4072/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4096/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4096/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4104/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4106/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4111/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4112/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4121/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4126/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4135/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4138/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4139/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4139/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4142/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4143/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4144/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4144/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4147/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4148/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4150/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4150/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4154/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4155/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4156/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4165/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4165/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4172/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4196/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4206/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4209/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4210/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4215/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4217/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 4220/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4223/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4224/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4241/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 4259/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4262/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4265/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4265/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 4266/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 4267/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 4271/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4275/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4283/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4298/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4299/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4305/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4316/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 4317/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4319/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4325/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 4330/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4330/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4338/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4341/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4341/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4342/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4343/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4353/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4365/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4370/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4373/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 4382/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4394/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4403/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4408/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4421/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4422/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4426/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4438/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4441/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4444/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4448/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4457/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4461/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4461/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4469/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4476/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4477/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 4478/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4481/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4482/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4488/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4494/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4500/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4507/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4523/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4524/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 4543/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4575/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 4576/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4583/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4615/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4616/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4617/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4620/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4622/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4634/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4637/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4638/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4639/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4649/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4650/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4655/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4658/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4662/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4665/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4679/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4688/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4690/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4693/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4694/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4694/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4696/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4703/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4724/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4730/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4738/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4738/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4739/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4742/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4749/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4750/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4759/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4772/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4783/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4787/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4792/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4794/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4795/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4798/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4800/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4812/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4813/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4813/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4814/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4815/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4824/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4827/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4831/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4837/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 4840/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 4844/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4867/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 4869/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4871/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4872/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4873/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4874/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4875/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4876/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4909/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4916/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4916/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4938/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4939/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4940/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4941/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4946/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 4947/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4950/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4975/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4979/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 4983/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5010/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5014/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5031/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5033/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5034/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 5039/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5061/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5063/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5068/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5069/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5070/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5071/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5074/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5077/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5077/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5078/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5079/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5080/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5087/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5090/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5091/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5096/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5101/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5108/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5110/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5115/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5140/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5142/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5146/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5150/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5151/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5154/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5158/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5167/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5171/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5172/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5191/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 5196/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5196/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5198/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5199/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5200/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5205/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5211/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5211/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5214/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5223/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5225/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5229/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5235/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5239/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5241/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5243/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 5253/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5255/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5259/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5291/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 5298/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5301/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5302/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5315/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5323/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 5338/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5344/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 5349/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5360/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5365/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5369/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5376/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5382/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5386/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5387/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5403/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 5407/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5414/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5414/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5419/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5420/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5428/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5429/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5430/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5434/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5446/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5449/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5453/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5454/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5455/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5457/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5458/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5459/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5459/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5460/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5472/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5472/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5473/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 5487/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5490/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5492/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5493/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5496/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5508/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5511/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5513/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5516/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5519/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5545/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5545/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5546/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5549/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5552/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5553/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5554/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5555/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5555/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5556/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5557/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5558/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 5558/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5562/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5564/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5566/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5574/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5578/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5578/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5581/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5582/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5583/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5599/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5601/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5606/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 5608/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5611/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5614/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5620/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5629/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5633/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5633/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5638/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5638/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5645/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 5650/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5651/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5651/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5655/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5655/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5658/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5660/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5671/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5676/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5677/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5679/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5684/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5685/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5692/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5701/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5702/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5707/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5712/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5723/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5726/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5730/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5732/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5732/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5733/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5734/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5735/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5737/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5739/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5751/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5757/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5758/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5760/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5773/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5777/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5792/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5795/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5800/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5804/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5807/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5808/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5812/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5814/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5815/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 5817/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5823/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5824/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5825/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5825/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5831/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5856/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5863/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5864/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5867/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5916/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5920/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5921/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5923/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5929/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5947/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5956/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5956/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5967/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5976/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5991/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 5992/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6000/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6045/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6049/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6051/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6051/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6056/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6058/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6060/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6062/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 6065/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6070/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6072/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6085/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6101/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6102/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6106/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6109/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6121/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6125/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6127/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6129/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6134/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6145/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6151/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6153/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6154/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6154/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6155/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6156/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6158/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6173/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6174/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6177/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6177/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6188/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6189/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6190/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6192/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6193/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6194/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6194/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6195/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6196/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6197/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6198/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6199/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6200/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6201/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6201/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6202/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6203/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6204/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6205/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6217/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6218/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6223/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6224/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6227/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6234/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6234/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6235/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 6250/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6265/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6270/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6322/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6330/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6376/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6376/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6391/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6391/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6394/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6405/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6422/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6423/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6434/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6443/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6450/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6451/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6451/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6452/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6453/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6457/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6463/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6466/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6469/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6479/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6479/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6481/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6535/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6547/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6548/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6569/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6570/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6572/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6583/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6613/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6614/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6638/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6651/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6663/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6666/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6689/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6692/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6695/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6696/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6697/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6700/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6727/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6731/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6753/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6756/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6760/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6800/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6801/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6832/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6853/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6854/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6869/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6873/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6876/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6886/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6902/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6909/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6930/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6932/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 6982/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7047/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7049/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7233/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7234/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7235/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7237/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7296/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7303/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7310/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7338/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7372/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7386/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7404/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7432/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7436/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7442/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7479/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7482/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7495/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7701/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin educatie nr. 7712/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7732/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7734/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7822/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7823/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7839/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7841/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7842/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7846/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7868/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7871/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7872/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7874/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7877/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7884/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7887/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7891/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 7930/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin educatie nr. 962/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin europene nr. 120/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin europene nr. 183/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin externe nr. 1410/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -38159,6 +41266,7 @@ Model use at data-build time:
 - Ordin fonduri nr. 1266/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin fonduri nr. 1268/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin fonduri nr. 1299/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin fonduri nr. 1315/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin fonduri nr. 1586/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin fonduri nr. 165/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin fonduri nr. 1745/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -38172,6 +41280,7 @@ Model use at data-build time:
 - Ordin fonduri nr. 285/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin fonduri nr. 297/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin fonduri nr. 3144/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin fonduri nr. 3718/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin fonduri nr. 374/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin fonduri nr. 3875/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin fonduri nr. 4013/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -38180,6 +41289,8 @@ Model use at data-build time:
 - Ordin fonduri nr. 542/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin fonduri nr. 543/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin fonduri nr. 558/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin fonduri nr. 56/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin fonduri nr. 565/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin fonduri nr. 586/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin fonduri nr. 592/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin fonduri nr. 6311/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -38189,12 +41300,60 @@ Model use at data-build time:
 - Ordin fonduri nr. 901/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin functiepublica nr. 1/VR/2000: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin functiepublica nr. 6104/2001: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 100/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 1054/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 1056/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 107/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 1120/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 1128/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 1142/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 1174/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 1198/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 1296/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 1323/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 1431/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 144/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 147/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin guvern nr. 159/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 171/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 186/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 188/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 200/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 201/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 205/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 218/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 218/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin guvern nr. 221/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 233/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 25/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 264/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin guvern nr. 290/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 3/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 317/2001: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 331/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 372/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin guvern nr. 378/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 388/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 400/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin guvern nr. 459/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 472/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 474/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 491/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 491/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 507/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 509/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 530/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 563/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 593/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 600/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 680/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 694/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 7/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 709/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 733/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin guvern nr. 894/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 953/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin guvern nr. 981/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin imm nr. 1134/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin imm nr. 114/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin imm nr. 259/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40011,12 +43170,16 @@ Model use at data-build time:
 - Ordin mediu nr. 1025/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1026/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1026/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1027/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1028/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1028/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1028/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1029/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1029/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 103/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1031/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1032/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1037/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 104/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1040/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1041/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40045,6 +43208,7 @@ Model use at data-build time:
 - Ordin mediu nr. 1066/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1068/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1069/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 107/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1070/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1071/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1072/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40055,6 +43219,7 @@ Model use at data-build time:
 - Ordin mediu nr. 1076/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1077/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1078/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1078/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1079/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 108/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1080/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40069,6 +43234,7 @@ Model use at data-build time:
 - Ordin mediu nr. 1092/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1093/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1093/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1094/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1095/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1095/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1096/1999: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40082,15 +43248,22 @@ Model use at data-build time:
 - Ordin mediu nr. 11/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 11/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 110/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1100/2001: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1100/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1103/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1103/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1104/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1107/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1108/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1108/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1109/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 111/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1112/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1112/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1114/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1115/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1116/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1117/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1118/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1118/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1119/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40135,7 +43308,9 @@ Model use at data-build time:
 - Ordin mediu nr. 1151/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1152/1999: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1155/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1157/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1157/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1158/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1158/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1159/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1159/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40153,6 +43328,7 @@ Model use at data-build time:
 - Ordin mediu nr. 1169/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1169/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 117/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 117/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 117/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1170/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1170/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40166,6 +43342,7 @@ Model use at data-build time:
 - Ordin mediu nr. 1179/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1179/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 118/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 118/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 118/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1180/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1181/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40228,6 +43405,8 @@ Model use at data-build time:
 - Ordin mediu nr. 1222/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1223/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1223/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1223/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1224/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1224/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1225/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1225/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40236,6 +43415,7 @@ Model use at data-build time:
 - Ordin mediu nr. 1227/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1228/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1229/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1230/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1230/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1231/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1231/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40261,6 +43441,7 @@ Model use at data-build time:
 - Ordin mediu nr. 1251/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1252/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1254/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1255/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1256/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1258/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1263/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40287,6 +43468,7 @@ Model use at data-build time:
 - Ordin mediu nr. 1287/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1287/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1288/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1291/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1291/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1293/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1294/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40299,6 +43481,7 @@ Model use at data-build time:
 - Ordin mediu nr. 1305/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1308/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1311/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1313/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1313/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1318/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1323/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40313,6 +43496,7 @@ Model use at data-build time:
 - Ordin mediu nr. 1332/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1337/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1338/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1338/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1339/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1341/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1342/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40321,6 +43505,7 @@ Model use at data-build time:
 - Ordin mediu nr. 1345/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1346/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1347/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1349/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 135/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1351/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1354/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40329,11 +43514,13 @@ Model use at data-build time:
 - Ordin mediu nr. 1359/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1362/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1363/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1365/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1365/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1368/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1369/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 137/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1371/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1372/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1376/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1376/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1377/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40347,8 +43534,10 @@ Model use at data-build time:
 - Ordin mediu nr. 1387/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1387/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1388/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1391/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1393/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1396/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1397/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 140/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 140/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1400/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40356,28 +43545,41 @@ Model use at data-build time:
 - Ordin mediu nr. 1406/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 141/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 141/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1410/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1415/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1415/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1419/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1421/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1422/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1423/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1423/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1430/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1431/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1432/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1433/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1433/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1433/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1436/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1438/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1439/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 144/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1440/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1441/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1442/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1444/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1444/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1447/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1448/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 145/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1450/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1453/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 146/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1460/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1460/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1461/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1461/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1464/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1467/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1467/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 147/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1470/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40388,17 +43590,24 @@ Model use at data-build time:
 - Ordin mediu nr. 1473/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1474/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1474/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1477/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1477/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1480/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1481/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1483/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1487/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1488/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 149/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1491/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1492/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1494/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 15/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 15/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 15/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1503/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1507/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1509/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 151/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1515/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1518/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1518/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40409,11 +43618,14 @@ Model use at data-build time:
 - Ordin mediu nr. 1525/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1526/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1529/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 153/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1530/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1531/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1532/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1533/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1533/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1534/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1538/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1540/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1540/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1541/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40421,8 +43633,11 @@ Model use at data-build time:
 - Ordin mediu nr. 1547/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1547/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1548/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1550/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1551/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1552/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1553/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1554/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1554/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1555/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1556/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40434,24 +43649,30 @@ Model use at data-build time:
 - Ordin mediu nr. 1568/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1570/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1570/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1571/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1571/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1572/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1575/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 158/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1598/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1601/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1602/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1607/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1608/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1609/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 161/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 161/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 161/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1612/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1613/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1618/2000: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 162/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1620/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1624/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1624/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1628/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 163/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1632/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1635/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1639/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1640/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40465,9 +43686,11 @@ Model use at data-build time:
 - Ordin mediu nr. 1645/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1646/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1647/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1648/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1649/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 165/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1651/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1656/2000: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1656/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1662/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 167/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40482,25 +43705,33 @@ Model use at data-build time:
 - Ordin mediu nr. 1682/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1682/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1683/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1688/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 169/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1696/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1699/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1704/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1708/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 171/1995: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 171/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1710/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1711/2000: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1712/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1715/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1718/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1719/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 172/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1721/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1724/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1725/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1726/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1730/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1730/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1732/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1733/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1736/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1741/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1743/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1751/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1757/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1758/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1758/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40513,9 +43744,12 @@ Model use at data-build time:
 - Ordin mediu nr. 1768/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 177/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1770/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1770/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1773/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1775/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1775/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1776/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1778/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1786/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 179/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1790/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40523,6 +43757,7 @@ Model use at data-build time:
 - Ordin mediu nr. 1798/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 180/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1804/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1808/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1811/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1812/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1813/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40530,14 +43765,17 @@ Model use at data-build time:
 - Ordin mediu nr. 1819/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1825/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1829/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1836/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1837/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1844/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 185/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1850/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1850/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1851/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1851/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1852/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1865/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1866/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1866/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1869/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1871/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40546,6 +43784,7 @@ Model use at data-build time:
 - Ordin mediu nr. 1883/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1887/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1888/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1889/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1896/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1898/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 19/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40557,10 +43796,14 @@ Model use at data-build time:
 - Ordin mediu nr. 1907/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1907/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1908/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1912/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1914/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 192/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1920/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1923/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1924/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1925/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1927/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1929/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1930/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1934/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40578,6 +43821,7 @@ Model use at data-build time:
 - Ordin mediu nr. 1947/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1948/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1948/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 195/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1951/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1951/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1952/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40603,6 +43847,8 @@ Model use at data-build time:
 - Ordin mediu nr. 1994/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1995/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 1995/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1997/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 1999/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2001/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40627,14 +43873,18 @@ Model use at data-build time:
 - Ordin mediu nr. 2047/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2047/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2048/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 2051/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2053/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2057/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2065/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 2069/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 207/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2072/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 2073/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2073/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2078/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 208/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 208/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 208/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2082/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2082/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40650,12 +43900,14 @@ Model use at data-build time:
 - Ordin mediu nr. 2095/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2095/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 21/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 2104/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2109/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 211/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2112/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2115/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2118/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 212/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 2121/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2121/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2122/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2137/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40670,12 +43922,14 @@ Model use at data-build time:
 - Ordin mediu nr. 217/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2171/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2175/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 2181/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2183/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2183/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2184/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2187/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2190/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2192/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 2195/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2195/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2200/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2202/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40683,12 +43937,17 @@ Model use at data-build time:
 - Ordin mediu nr. 2204/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2208/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2210/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 2213/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 2219/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 222/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 222/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2222/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2224/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2227/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2228/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 223/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 223/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 2230/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2238/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 224/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2241/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40697,7 +43956,9 @@ Model use at data-build time:
 - Ordin mediu nr. 226/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2261/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2264/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 2265/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2265/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 2266/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2266/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2268/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2269/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40707,17 +43968,22 @@ Model use at data-build time:
 - Ordin mediu nr. 228/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 229/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2291/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 2298/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 230/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 230/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2303/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 2315/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 232/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2326/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2327/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2328/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 2336/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 2337/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2339/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2340/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2346/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2346/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 2353/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2353/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2353/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2358/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40726,23 +43992,29 @@ Model use at data-build time:
 - Ordin mediu nr. 2366/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2366/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2367/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 2378/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 238/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2381/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2383/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2384/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2385/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 2387/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2390/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2390/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2391/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2408/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 241/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 241/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 2413/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2416/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 242/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 242/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2421/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2421/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2424/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2426/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2437/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 2438/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 244/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2443/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2446/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40751,6 +44023,7 @@ Model use at data-build time:
 - Ordin mediu nr. 2451/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2455/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2479/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 2480/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2480/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2481/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2482/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40760,8 +44033,10 @@ Model use at data-build time:
 - Ordin mediu nr. 2490/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2506/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 251/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 2513/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2523/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2525/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 2526/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2532/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2533/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2533/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40772,7 +44047,9 @@ Model use at data-build time:
 - Ordin mediu nr. 255/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2555/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2559/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 256/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 256/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 257/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2576/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2595/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2606/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40781,6 +44058,8 @@ Model use at data-build time:
 - Ordin mediu nr. 262/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2627/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2628/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 2631/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 2633/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 264/1999: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2641/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2650/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40789,10 +44068,13 @@ Model use at data-build time:
 - Ordin mediu nr. 2673/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2681/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2682/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 2689/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 269/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 269/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 269/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 2691/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2692/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 27/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2715/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 272/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2725/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40801,17 +44083,29 @@ Model use at data-build time:
 - Ordin mediu nr. 2743/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2755/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2761/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 2772/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 278/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 2787/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2792/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2806/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 284/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2847/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 286/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 288/1999: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 2890/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 293/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 293/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 294/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 294/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 2947/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 295/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 296/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 296/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 297/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 2970/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 3008/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 301/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 302/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 302/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 3027/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 3039/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40829,7 +44123,9 @@ Model use at data-build time:
 - Ordin mediu nr. 3172/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 3173/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 318/1997: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 318/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 318/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 319/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 3199/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 32/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 320/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40843,6 +44139,8 @@ Model use at data-build time:
 - Ordin mediu nr. 323/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 324/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 324/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 3240/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 325/2001: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 3255/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 3255/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 3256/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40896,23 +44194,28 @@ Model use at data-build time:
 - Ordin mediu nr. 349/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 35/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 35/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 35/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 350/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 351/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 352/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 353/2001: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 353/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 355/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 359/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 359/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 36/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 36/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 360/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 364/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 365/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 366/2001: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 367/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 367/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 368/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 369/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 37/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 370/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 3701/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 371/2000: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 373/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 374/2001: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40920,8 +44223,12 @@ Model use at data-build time:
 - Ordin mediu nr. 377/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 377/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 379/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 379/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 38/SMI/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 3814/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 3821/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 3838/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 3839/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 384/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 386/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 386/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40934,7 +44241,9 @@ Model use at data-build time:
 - Ordin mediu nr. 395/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 396/1997: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 396/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 3968/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 397/1996: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 3970/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 399/1997: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 3993/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 400/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40949,30 +44258,40 @@ Model use at data-build time:
 - Ordin mediu nr. 4062/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 410/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 412/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 415/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 417/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 418/1997: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 419/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 421/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 422/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 424/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 425/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 428/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 428/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 43/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 430/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 434/1995: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 439/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 439/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 44/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 44/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 440/1999: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 442/2000: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 443/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 444/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 444/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 447/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 448/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 448/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 449/1998: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 45/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 45/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 452/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 454/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 456/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 456/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 457/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 459/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 459/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 459/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 46/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -40991,6 +44310,7 @@ Model use at data-build time:
 - Ordin mediu nr. 486/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 487/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 487/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 488/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 488/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 49/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 490/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -41016,6 +44336,7 @@ Model use at data-build time:
 - Ordin mediu nr. 534/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 539/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 540/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 544/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 549/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 55/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 552/2000: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -41031,11 +44352,13 @@ Model use at data-build time:
 - Ordin mediu nr. 572/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 572/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 573/2000: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 578/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 578/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 579/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 579/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 581/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 582/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 584/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 584/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 586/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 586/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -41060,8 +44383,12 @@ Model use at data-build time:
 - Ordin mediu nr. 606/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 606/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 609/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 610/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 610/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 614/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 614/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 614/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 617/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 620/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 620/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 621/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -41071,8 +44398,11 @@ Model use at data-build time:
 - Ordin mediu nr. 626/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 627/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 627/PL/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 629/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 631/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 632/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 635/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 636/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 637/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 638/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 64/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -41081,12 +44411,14 @@ Model use at data-build time:
 - Ordin mediu nr. 647/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 65/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 652/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 654/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 654/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 656/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 657/1998: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 657/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 657/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 658/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 659/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 659/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 66/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 660/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -41099,7 +44431,9 @@ Model use at data-build time:
 - Ordin mediu nr. 666/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 668/2000: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 668/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 669/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 67/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 670/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 673/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 676/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 676/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -41119,6 +44453,7 @@ Model use at data-build time:
 - Ordin mediu nr. 699/1999: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 70/1999: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 70/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 70/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 702/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 704/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 705/1998: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -41138,17 +44473,21 @@ Model use at data-build time:
 - Ordin mediu nr. 718/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 718/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 719/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 719/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 719/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 72/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 722/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 724/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 725/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 728/1998: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 728/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 729/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 73/2003: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 738/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 739/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 741/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 742/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 742/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 745/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 745/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 747/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -41161,17 +44500,21 @@ Model use at data-build time:
 - Ordin mediu nr. 756/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 757/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 757/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 758/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 76/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 76/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 760/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 761/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 762/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 763/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 765/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 766/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 766/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 767/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 768/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 768/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 775/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 777/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 783/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 784/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 784/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -41190,6 +44533,7 @@ Model use at data-build time:
 - Ordin mediu nr. 794/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 795/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 795/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 797/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 797/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 797/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 798/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -41197,16 +44541,20 @@ Model use at data-build time:
 - Ordin mediu nr. 80/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 800/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 801/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 81/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 813/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 814/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 815/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 817/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 818/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 819/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 820/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 821/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 822/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 823/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 824/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 824/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 825/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 827/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 828/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 83/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -41229,13 +44577,17 @@ Model use at data-build time:
 - Ordin mediu nr. 843/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 844/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 846/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 847/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 847/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 85/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 85/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 85/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 851/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 852/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 855/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 856/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 856/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 857/2017: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 859/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 859/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 86/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -41245,14 +44597,17 @@ Model use at data-build time:
 - Ordin mediu nr. 863/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 863/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 864/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 864/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 864/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 864/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 865/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 867/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 867/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 868/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 869/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 869/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 87/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 87/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 871/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 871/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 872/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -41267,13 +44622,16 @@ Model use at data-build time:
 - Ordin mediu nr. 879/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 879/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 88/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 88/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 880/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 880/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 883/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 886/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 887/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 89/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 89/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 89/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 890/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 890/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 891/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 891/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -41281,6 +44639,8 @@ Model use at data-build time:
 - Ordin mediu nr. 898/2019: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 9/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 9/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 90/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 90/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 900/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 901/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 901/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -41300,6 +44660,7 @@ Model use at data-build time:
 - Ordin mediu nr. 912/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 914/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 915/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 916/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 917/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 919/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 923/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -41308,18 +44669,26 @@ Model use at data-build time:
 - Ordin mediu nr. 924/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 924/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 927/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 927/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 928/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 930/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 931/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 932/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 934/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 938/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 940/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 942/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 942/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 944/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 944/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 945/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 946/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 947/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 947/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 948/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 948/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 948/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 949/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 949/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 95/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 95/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -41327,17 +44696,22 @@ Model use at data-build time:
 - Ordin mediu nr. 950/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 951/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 951/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 954/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 956/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 956/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 958/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 958/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 961/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 962/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 962/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 963/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 963/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 963/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 964/2018: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 965/1998: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 965/1999: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 966/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 97/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 973/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 974/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 975/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -41347,13 +44721,16 @@ Model use at data-build time:
 - Ordin mediu nr. 98/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 98/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 980/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 980/2016: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 981/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 981/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 982/2014: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 985/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 986/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 987/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 988/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 989/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin mediu nr. 990/2015: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 990/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 992/2020: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin mediu nr. 992/2021: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -47133,8 +50510,131 @@ Model use at data-build time:
 - Ordin turism nr. 330/2002: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin turism nr. 511/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin turism nr. 55/1997: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 1140/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 1183/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 1184/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 1208/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 1279/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 1393/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 1418/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 1420/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 1534/2013: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 1554/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 1555/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin vama nr. 1613/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 1622/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 1626/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 1627/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 1652/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 1785/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 1815/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 1832/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 1834/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 195/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 2028/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 2204/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 23/1996: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 2423/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 247/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 2477/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 2478/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 2495/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 2578/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 2618/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 2619/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 2754/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 2800/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 29/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 2913/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 3000/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 3001/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 3002/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 3003/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 3004/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 3400/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 3409/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 349/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 3502/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 3505/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 356/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 3660/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 3701/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 3767/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 379/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 380/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 3861/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 3877/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 4160/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 431/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 4312/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 4595/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 461/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 4634/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 4663/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 470/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 475/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 476/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 480/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 4822/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 4875/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Ordin vama nr. 5/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 51/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 5121/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 516/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 5465/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 553/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 5688/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 5697/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 5720/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 5964/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 6021/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 6123/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 6280/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 6312/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 6357/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 637/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 6415/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 648/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 649/2012: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 6602/2022: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 6632/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 6640/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 6665/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 679/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 7057/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 718/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 724/2023: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 729/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 7377/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 7394/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 7412/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 746/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 747/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 7521/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 7541/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 7615/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 7628/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 7630/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 7631/2005: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 7788/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 7789/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 7869/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 8061/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 8061/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 8065/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 826/2004: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 8270/2008: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 847/2009: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 883/2026: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 8831/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 90/2011: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 9599/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 9600/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 9647/2007: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 975/2025: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 976/2024: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 9880/2010: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
+- Ordin vama nr. 9988/2006: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Precizări bnr nr. 3/1997: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Precizări bnr nr. 5/1996: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
 - Precizări bnr nr. 7028/1996: split by Lexifina's order builder, written with Claude Code (claude-opus-5-5); no model output is used as legal text; 0 model calls.
@@ -51926,6 +55426,7 @@ Model use at data-build time:
 - HG nr. 1109/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1109/2024: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 111/1993: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 111/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 111/2002: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 111/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 111/2005: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -52630,6 +56131,7 @@ Model use at data-build time:
 - HG nr. 1149/2021: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1149/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1149/2024: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 115/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 115/2003: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 115/2005: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 115/2006: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -52800,6 +56302,7 @@ Model use at data-build time:
 - HG nr. 1159/2021: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1159/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 116/1992: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 116/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 116/2002: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 116/2003: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 116/2008: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -52961,6 +56464,7 @@ Model use at data-build time:
 - HG nr. 1169/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1169/2024: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 117/1997: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 117/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 117/2001: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 117/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 117/2005: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -53121,6 +56625,7 @@ Model use at data-build time:
 - HG nr. 1179/2024: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 118/1992: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 118/1998: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 118/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 118/2001: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 118/2003: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 118/2005: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -53276,6 +56781,7 @@ Model use at data-build time:
 - HG nr. 1189/2024: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 119/1993: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 119/1995: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 119/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 119/2002: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 119/2007: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 119/2008: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -53432,6 +56938,7 @@ Model use at data-build time:
 - HG nr. 12/2025: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 120/1992: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 120/1999: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 120/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 120/2001: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 120/2003: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 120/2004: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -55515,6 +59022,7 @@ Model use at data-build time:
 - HG nr. 1349/2010: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 1349/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 135/1997: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 135/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 135/2001: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 135/2002: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 135/2003: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
@@ -56062,6 +59570,7 @@ Model use at data-build time:
 - HG nr. 14/2022: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 14/2023: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 140/1991: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
+- HG nr. 140/2000: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 140/2002: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 140/2003: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.
 - HG nr. 140/2005: parsed by Lexifina's code, which Claude Code with Claude Opus 5.5 (claude-opus-5-5) extended for Phase 2; no model output is used as legal text; 0 model calls in Lexifina's code.

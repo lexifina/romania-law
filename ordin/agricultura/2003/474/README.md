@@ -2,7 +2,7 @@
 
 Ordin agricultura nr. 474/2003 · 1 versions, from 2003-09-26 (latest in force: 2003-09-26) · <https://legislatie.just.ro/Public/DetaliiDocument/45850>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 privind plantele și produsele vegetale pentru care sunt stabilite niveluri maxime de reziduuri de pesticide A. Fructe, legume și alte produse vegetale ...): it is a table that the official text holds only flattened; Anexa nr. 2 (2 privind nivelurile maxime de reziduuri de pesticide în plante și produse vegetale A. Fructe, legume și alte produse vegetale *Font 6* ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 privind nivelurile maxime de reziduuri de pesticide în plante și produse vegetale A. Fructe, legume și alte produse vegetale *Font 6*): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -12,6 +12,8 @@ Ordin agricultura nr. 474/2003 · 1 versions, from 2003-09-26 (latest in force: 
 | Art. 4 | [art-004.md](art-004.md) | 0 |  |
 | Art. 5 | [art-005.md](art-005.md) | 0 |  |
 | Art. 6 | [art-006.md](art-006.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 
 Act id: `ordin-agricultura-474-2003` (tags `ordin-agricultura-474-2003/<day>`; `python tools/on.py <day> ordin-agricultura-474-2003`).
 
@@ -22,5 +24,5 @@ Act id: `ordin-agricultura-474-2003` (tags `ordin-agricultura-474-2003/<day>`; `
 - Ordin agricultura nr. 474/2003: the first version is the order as published in Monitorul Oficial nr. 608 of 27 August 2003 (document 45850 of the official web service), in force on 26 September 2003, the day it states for itself.
 - Ordin agricultura nr. 474/2003: the signatures and the place and date line after its last article are not article text.
 - Ordin agricultura nr. 474/2003: a joint order of Ministerul Agriculturii, Pădurilor, Apelor și Mediului nr. 474 din 21 July 2003; Ministerul Sănătății nr. 738 din 6 August 2003. It is published once, here, under the issuer its EMITENT block lists first; `ordin-sanatate-738-2003` name it too (data/paths.json aliases).
-- Ordin agricultura nr. 474/2003: Anexa nr. 1 (1 privind plantele și produsele vegetale pentru care sunt stabilite niveluri maxime de reziduuri de pesticide A. Fructe, legume și alte produse vegetale ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin agricultura nr. 474/2003: Anexa nr. 2 (2 privind nivelurile maxime de reziduuri de pesticide în plante și produse vegetale A. Fructe, legume și alte produse vegetale *Font 6* ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin agricultura nr. 474/2003: Anexa nr. 1 (1 privind plantele și produsele vegetale pentru care sunt stabilite niveluri maxime de reziduuri de pesticide A. Fructe, legume și alte produse vegetale) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 45850 of the official web service.
+- Ordin agricultura nr. 474/2003: Anexa nr. 2 (2 privind nivelurile maxime de reziduuri de pesticide în plante și produse vegetale A. Fructe, legume și alte produse vegetale *Font 6*) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

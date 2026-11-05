@@ -2,7 +2,7 @@
 
 Instrucțiuni cnvm nr. 7/2007 · 1 versions, from 2008-01-15 (latest in force: 2008-01-15) · <https://legislatie.just.ro/Public/DetaliiDocument/88711>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 4 (4): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -22,6 +22,8 @@ Instrucțiuni cnvm nr. 7/2007 · 1 versions, from 2008-01-15 (latest in force: 2
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 | Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
 | Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
+| Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
+| Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
 
 Act id: `instructiuni-cnvm-7-2007` (tags `instructiuni-cnvm-7-2007/<day>`; `python tools/on.py <day> instructiuni-cnvm-7-2007`).
 
@@ -34,5 +36,5 @@ Act id: `instructiuni-cnvm-7-2007` (tags `instructiuni-cnvm-7-2007/<day>`; `pyth
 - Instrucțiuni cnvm nr. 7/2007: Anexa nr. 1 (1) is part of the instructions and is published in its folder, anexa-1/ (paragraphs), from document 88711 of the official web service.
 - Instrucțiuni cnvm nr. 7/2007: Anexa nr. 2 (2) is part of the instructions and is published in its folder, anexa-2/ (paragraphs), from document 88711 of the official web service.
 - Instrucțiuni cnvm nr. 7/2007: Anexa nr. 3 (3) is part of the instructions and is published in its folder, anexa-3/ (paragraphs), from document 88711 of the official web service.
-- Instrucțiuni cnvm nr. 7/2007: Anexa nr. 4 (4) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Instrucțiuni cnvm nr. 7/2007: Anexa nr. 4 (4) is part of the instructions and is published in its folder, anexa-4/ (paragraphs and tables), from document 88711 of the official web service.
 - Instrucțiuni cnvm nr. 7/2007: the publisher's notes run into its text (*) În cazul investiţiilor de portofoliu emise de rezidenţi, clasa CAEN se referă la sectorul emitentului, iar în cazul e) are not text.

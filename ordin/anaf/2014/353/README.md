@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 353/2014 · 1 versions, from 2014-03-11 (latest in force: 2014-03-11) · <https://legislatie.just.ro/Public/DetaliiDocument/156237>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 3 (3 (Anexa nr. 4 la Ordinul nr. 1.156/2009) I. Modelul și conținutul situației nominale *Font 9* AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ Organul ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -14,6 +14,8 @@ Ordin anaf nr. 353/2014 · 1 versions, from 2014-03-11 (latest in force: 2014-03
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 | Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 
 Act id: `ordin-anaf-353-2014` (tags `ordin-anaf-353-2014/<day>`; `python tools/on.py <day> ordin-anaf-353-2014`).
 
@@ -25,4 +27,4 @@ Act id: `ordin-anaf-353-2014` (tags `ordin-anaf-353-2014/<day>`; `python tools/o
 - Ordin anaf nr. 353/2014: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 353/2014: Anexa nr. 1 (1 (Anexa nr. 2 la Ordinul nr. 1.156/2009) Descrierea legitimației de inspecție fiscală 1. Descrierea legitimației: a) dimensiuni: 105 mm/74 mm;... b) carton: grosime - 3 mm;... c) culori:... - "Față") is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 156237 of the official web service.
 - Ordin anaf nr. 353/2014: Anexa nr. 2 (2 (Anexa nr. 3 la Ordinul nr. 1.156/2009) REPARTIZAREA plajei de numere pentru legitimațiile de inspecție fiscală Nr. crt. Denumire organ fiscal Plaja de început Plaja de sfârșit 1. A.N.A.F. - D.G.A.M) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 156237 of the official web service.
-- Ordin anaf nr. 353/2014: Anexa nr. 3 (3 (Anexa nr. 4 la Ordinul nr. 1.156/2009) I. Modelul și conținutul situației nominale *Font 9* AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ Organul ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 353/2014: Anexa nr. 3 (3 (Anexa nr. 4 la Ordinul nr. 1.156/2009) I. Modelul și conținutul situației nominale *Font 9* AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ Organul fiscal*1)...................... Nr..... zz.ll.aa Situaț) is part of the order and is published in its folder, anexa-3/ (paragraphs and tables), from document 156237 of the official web service.

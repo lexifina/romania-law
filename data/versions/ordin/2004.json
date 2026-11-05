@@ -168,6 +168,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-467-2004",
+   "path": "ordin/agricultura/2004/467",
+   "short": "Ordin agricultura nr. 467/2004",
+   "title": "Ordinul nr. 467/2004 pentru modificarea Ordinului ministrului agriculturii, pădurilor, apelor și mediului nr. 207/2004 privind prohibiția pescuitului în anul 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53647",
+   "versions": [
+    {
+     "from": "2004-07-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53647",
+     "sha256": "db2936a4decb6033c6ac40b9860b6277381f9fcf72978a8166b7ef8459d47860"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-530-2004",
    "path": "ordin/agricultura/2004/530",
    "short": "Ordin agricultura nr. 530/2004",
@@ -1451,7 +1466,7 @@
    "versions": [
     {
      "from": "2005-01-01",
-     "units": 4,
+     "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58087",
      "sha256": "d18aae5fade1a2a5bc7ffaa6c1cc7b22e81f9a13607c80c4ff507f0aab1d5bbe"
     }
@@ -1466,7 +1481,7 @@
    "versions": [
     {
      "from": "2005-01-01",
-     "units": 26,
+     "units": 34,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58134",
      "sha256": "4cd5fd1d44e34240649533c2b4b826cc6d473ac38358faa8ffdf0e313a841acb"
     }
@@ -1803,6 +1818,621 @@
    ]
   },
   {
+   "slug": "ordin-ansvsa-1-2004",
+   "path": "ordin/ansvsa/2004/1",
+   "short": "Ordin ansvsa nr. 1/2004",
+   "title": "Ordinul nr. 1/2004 pentru aprobarea Normei veterinare privind implementarea inspecțiilor la fata locului ce trebuie efectuate în legătură cu importul de animale din speciile bovine și suine și de carne proaspată provenita de la acestea, originare din tari terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51989",
+   "versions": [
+    {
+     "from": "2004-06-03",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51989",
+     "sha256": "b87b96d356a5d8bea705d498c22b975f4f1448ba1ec2a376a054143648aa4a59"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-100-2004",
+   "path": "ordin/ansvsa/2004/100",
+   "short": "Ordin ansvsa nr. 100/2004",
+   "title": "Ordinul nr. 100/2004 pentru aprobarea Normei sanitare veterinare care stabilește condițiile suplimentare privind controlul sanitar veterinar al produselor din pescuit, crustaceelor, moluștelor, gasteropodelor și batracienilor, destinate comercializării directe către consumatorul final sau procesării în alimente pentru consum uman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58890",
+   "versions": [
+    {
+     "from": "2005-01-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58890",
+     "sha256": "d9b193df2a7842f7d3cc656c8a03508633ce6a163d0562ee7e886cb4c5e13a29"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-10167-2004",
+   "path": "ordin/ansvsa/2004/10167",
+   "short": "Ordin ansvsa nr. 10167/2004",
+   "title": "Ordinul nr. 10.167/2004 privind legislația sanitar-veterinara în vigoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56135",
+   "versions": [
+    {
+     "from": "2004-10-27",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56135",
+     "sha256": "224f27fe358f251a95e9ca52e4b56df0e7b603dba7b75a2e48de43c3b91503b5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-104-2004",
+   "path": "ordin/ansvsa/2004/104",
+   "short": "Ordin ansvsa nr. 104/2004",
+   "title": "Ordinul nr. 104/2004 pentru aprobarea Normei sanitare veterinare privind procedurile de efectuare a exportului de ecvine în statele membre ale Uniunii Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59539",
+   "versions": [
+    {
+     "from": "2005-02-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59539",
+     "sha256": "15b7b7aca3c79e8c3bbe35381072f637189e65c2246805414a9835f1a1ed2563"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-109-2004",
+   "path": "ordin/ansvsa/2004/109",
+   "short": "Ordin ansvsa nr. 109/2004",
+   "title": "Ordinul nr. 109/2004 privind aprobarea Normei sanitare veterinare și pentru siguranța alimentelor ce stabilește cerințe pentru determinarea nivelurilor de dioxină și a compușilor policlordifenili (PCB) asemănători dioxinei din furaje",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59292",
+   "versions": [
+    {
+     "from": "2005-02-20",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59292",
+     "sha256": "3b9fd750b3a5e6064fc452d7f5283c48305301e173e0db3f497af6e4ed9d43b7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-110-2004",
+   "path": "ordin/ansvsa/2004/110",
+   "short": "Ordin ansvsa nr. 110/2004",
+   "title": "Ordinul nr. 110/2004 privind aprobarea Normei sanitare veterinare și pentru siguranța alimentelor ce stabilește condiții de sănătate publică, de sănătate animala și certificarea veterinara pentru activități de import în România din tari terțe de carne de ratite de crescătorie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59293",
+   "versions": [
+    {
+     "from": "2005-03-02",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59293",
+     "sha256": "e561eb65290ec950d7912612330d58a9a8955d76b76babe24d94a65d30d0cd50"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-111-2004",
+   "path": "ordin/ansvsa/2004/111",
+   "short": "Ordin ansvsa nr. 111/2004",
+   "title": "Ordinul nr. 111/2004 privind aprobarea Normei sanitare veterinare ce stabilește un model de certificat de sănătate pentru mișcări în scopuri necomerciale din țări terțe, inclusiv din România, în statele membre ale Uniunii Europene, de câini, pisici și dihori domestici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58943",
+   "versions": [
+    {
+     "from": "2005-02-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58943",
+     "sha256": "4ee46e2216d875241b6ff427b3fafdd90a4811dbc190f9fd7d2e5c6f88b90efd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-112-2004",
+   "path": "ordin/ansvsa/2004/112",
+   "short": "Ordin ansvsa nr. 112/2004",
+   "title": "Ordinul nr. 112/2004 privind aprobarea Normei sanitare veterinare și pentru siguranța alimentelor ce stabilește condiții speciale de import în România de moluște bivalve, echinoderme, tunicate și gasteropode marine ce provin din Thailanda",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59294",
+   "versions": [
+    {
+     "from": "2005-03-02",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59294",
+     "sha256": "df39e8e0ac90ff161afb2b1bfd35d6ca0241d08351c675fc8b087e1de37a5d75"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-113-2004",
+   "path": "ordin/ansvsa/2004/113",
+   "short": "Ordin ansvsa nr. 113/2004",
+   "title": "Ordinul nr. 113/2004 privind aprobarea Normei sanitare veterinare și pentru siguranța alimentelor ce stabilește liste ale țărilor terțe din care România autorizează activități de import al unor produse destinate pentru consum uman, ce sunt supuse Normei sanitare veterinare ce stabilește condițiile de sănătate a animalelor și de sănătate publică ce reglementează comerțul statelor membre ale Uniunii Europene cu România și importul în România de produse ce nu sunt supuse cerințelor și regulilor specifice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59295",
+   "versions": [
+    {
+     "from": "2005-02-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59295",
+     "sha256": "8f84492933873ca72f180081cd540087a7576526a6d026cd73f5a625092cb93d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-114-2004",
+   "path": "ordin/ansvsa/2004/114",
+   "short": "Ordin ansvsa nr. 114/2004",
+   "title": "Ordinul nr. 114/2004 pentru aprobarea Normei sanitare veterinare ce autorizează anumite tratamente pentru a inhiba dezvoltarea de microorganisme patogene în moluște bivalve vii și gasteropode marine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57806",
+   "versions": [
+    {
+     "from": "2004-12-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57806",
+     "sha256": "54b8a9bcc6d88833a74d6927606b0ae53a56a7c7e4d91a5969320ceaffb2b3ee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-115-2004",
+   "path": "ordin/ansvsa/2004/115",
+   "short": "Ordin ansvsa nr. 115/2004",
+   "title": "Ordinul nr. 115/2004 privind aprobarea Normei sanitare veterinare și pentru siguranța alimentelor care stabilește condiții de sănătate a animalelor și de certificare veterinara pentru importul de oua libere de agenți patogeni specifici din tari terțe și prin care se aproba o lista de tari terțe din care România autorizează activități de import de astfel de oua",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59467",
+   "versions": [
+    {
+     "from": "2005-03-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59467",
+     "sha256": "3328c6520e81183d83578f441a7ad87f00dc91b5987c3d8840f0d2e8eec4dfb7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-116-2004",
+   "path": "ordin/ansvsa/2004/116",
+   "short": "Ordin ansvsa nr. 116/2004",
+   "title": "Ordinul nr. 116/2004 privind aprobarea Normei sanitare veterinare și pentru siguranța alimentelor care stabilește condiții speciale ce reglementează activități de import în România de produse de pescuit și acvacultura originare din Noua Zeelanda",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59468",
+   "versions": [
+    {
+     "from": "2005-03-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59468",
+     "sha256": "8439276dcb0acfe76518877f42c8081b37d3057ad59405aa7990fab710519cbb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-117-2004",
+   "path": "ordin/ansvsa/2004/117",
+   "short": "Ordin ansvsa nr. 117/2004",
+   "title": "Ordinul nr. 117/2004 privind aprobarea Normei sanitare veterinare și pentru siguranța alimentelor care stabilește condițiile de sănătate și certificatul de sănătate publică pentru importul din tari terțe în România de produse obținute din carne de pasare, carne de vânat de crescătorie, carne de vânat sălbatic și carne de iepure",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59469",
+   "versions": [
+    {
+     "from": "2005-04-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59469",
+     "sha256": "358f78afaf37d82016dfd4a0d39bf331a61874fc0071cf2f2c89d8ca78b37c32"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-118-2004",
+   "path": "ordin/ansvsa/2004/118",
+   "short": "Ordin ansvsa nr. 118/2004",
+   "title": "Ordinul nr. 118/2004 privind aprobarea Normei sanitare veterinare și pentru siguranța alimentelor care stabilește condiții specifice pentru importul în România de moluște bivalve, echinoderme, tunicate și gasteropode marine, procesate și congelate, din Peru",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59472",
+   "versions": [
+    {
+     "from": "2005-03-11",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59472",
+     "sha256": "87f410bdc2a748f1cd65509ba0c38cf746ef01688ebf8a0c13c3723d5273bb76"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-12-2004",
+   "path": "ordin/ansvsa/2004/12",
+   "short": "Ordin ansvsa nr. 12/2004",
+   "title": "Ordinul nr. 12/2004 privind modificarea Ordinului ministrului agriculturii, alimentației și pădurilor nr. 389/2002 pentru aprobarea Normei sanitare veterinare privind condițiile de sănătate pentru producerea și comercializarea laptelui crud, a laptelui tratat termic și a produselor pe bază de lapte, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52550",
+   "versions": [
+    {
+     "from": "2004-06-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52550",
+     "sha256": "053b9daebd229a11f420d664729f7e161eccdc6b09824dea3387b92aa0d7f9a6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-125-2004",
+   "path": "ordin/ansvsa/2004/125",
+   "short": "Ordin ansvsa nr. 125/2004",
+   "title": "Ordinul nr. 125/2004 privind aprobarea Normei sanitare veterinare și pentru siguranța alimentelor privind importul în România de animale vii, carne proaspăta și produse din carne de la acestea, provenite din Republica Federala Iugoslavia și Groenlanda",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59470",
+   "versions": [
+    {
+     "from": "2005-03-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59470",
+     "sha256": "8c4cc89a72443033a05ecaf3f822ff9eef2601ce0b05ad03188492b96769b1d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-126-2004",
+   "path": "ordin/ansvsa/2004/126",
+   "short": "Ordin ansvsa nr. 126/2004",
+   "title": "Ordinul nr. 126/2004 privind aprobarea Normei sanitare veterinare și pentru siguranța alimentelor privind utilizarea în România a metodelor comunitare de prelevare de probe și de analiza pentru monitorizarea alimentelor destinate consumului uman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59471",
+   "versions": [
+    {
+     "from": "2005-03-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59471",
+     "sha256": "85d23490091f41739895ef5e9a7817fca8ece054209fe5867412a95b1d5cfe55"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-127-2004",
+   "path": "ordin/ansvsa/2004/127",
+   "short": "Ordin ansvsa nr. 127/2004",
+   "title": "Ordinul nr. 127/2004 pentru aprobarea Normei sanitare veterinare referitoare la cerințele de sănătate și calitate pentru materialul seminal congelat de bovine ce poate fi comercializat în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58909",
+   "versions": [
+    {
+     "from": "2005-02-12",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58909",
+     "sha256": "eaed22535c9337c061a0beb2cb2653980980ab690de0816924f286cac1771d3d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-130-2004",
+   "path": "ordin/ansvsa/2004/130",
+   "short": "Ordin ansvsa nr. 130/2004",
+   "title": "Ordinul nr. 130/2004 pentru aprobarea Normei sanitare veterinare care stabilește măsuri cu privire la activități de import de produse de origine animala destinate consumului personal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59540",
+   "versions": [
+    {
+     "from": "2005-05-01",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59540",
+     "sha256": "5bba791c6698d0645b7862b1da5a7d6488da24ee252fd57e49561e18274554ad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-134-2004",
+   "path": "ordin/ansvsa/2004/134",
+   "short": "Ordin ansvsa nr. 134/2004",
+   "title": "Ordinul nr. 134/2004 pentru aprobarea Normei sanitare veterinare și pentru siguranța alimentelor referitoare la importul de carne proaspătă în România din întreprinderi autorizate pentru export din Republica Federală Iugoslavia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58892",
+   "versions": [
+    {
+     "from": "2005-02-12",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58892",
+     "sha256": "e7a63c75dae998c489d0d05ba8ea52ea069e7a4c5aac98916f4bb5d85a631efd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-135-2004",
+   "path": "ordin/ansvsa/2004/135",
+   "short": "Ordin ansvsa nr. 135/2004",
+   "title": "Ordinul nr. 135/2004 privind aprobarea Metodologiei pentru aplicarea prevederilor alin. (2) al art. 4 din Instrucțiunile pentru organizarea și desfășurarea activității personalului sanitar veterinar de stat în unitățile de tăiere a animalelor, de colectare, prelucrare, procesare, depozitare, transport și valorificare a produselor și subproduselor de origine animală, aprobate prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 90/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58020",
+   "versions": [
+    {
+     "from": "2004-12-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58020",
+     "sha256": "5ae11622c0dba48fddfa953c711e91b188bcc9be80a9590cb73ee6fff68b2822"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-136-2004",
+   "path": "ordin/ansvsa/2004/136",
+   "short": "Ordin ansvsa nr. 136/2004",
+   "title": "Ordinul nr. 136/2004 pentru aprobarea Normei sanitare veterinare și pentru siguranța alimentelor referitoare la importul de carne proaspătă în România din fosta Republică Iugoslavă a Macedoniei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58911",
+   "versions": [
+    {
+     "from": "2005-02-12",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58911",
+     "sha256": "89c669eb6158a222c8a8b2b5ccd592a50aca125d08a930f6b970f9c12f299eda"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-138-2004",
+   "path": "ordin/ansvsa/2004/138",
+   "short": "Ordin ansvsa nr. 138/2004",
+   "title": "Ordinul nr. 138/2004 privind aprobarea Normei sanitare veterinare și pentru siguranța alimentelor referitoare la importul de carne proaspătă în România din întreprinderi autorizate pentru activități de export din Insulele Falkland",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58418",
+   "versions": [
+    {
+     "from": "2005-01-21",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58418",
+     "sha256": "dba8935e182d930dd80a0e72cd4194c0bc0a732644460b7821b51c3fb568b95c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-139-2004",
+   "path": "ordin/ansvsa/2004/139",
+   "short": "Ordin ansvsa nr. 139/2004",
+   "title": "Ordinul nr. 139/2004 privind aprobarea Normei sanitare veterinare și pentru siguranța alimentelor privind procedura de aprobare sanitară veterinara și pentru siguranța alimentelor a activităților desfășurate de persoanele juridice definite conform art. 2 din Legea nr. 359/2004, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58970",
+   "versions": [
+    {
+     "from": "2005-02-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58970",
+     "sha256": "184df372aa244ea1d71d9ea7320cb0623d29b4475dcd3ed74983640ef03d7389"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-14-2004",
+   "path": "ordin/ansvsa/2004/14",
+   "short": "Ordin ansvsa nr. 14/2004",
+   "title": "Ordinul nr. 14/2004 pentru aprobarea Normei veterinare privind metode naționale de analiză pentru controlul oficial al furajelor cu referire la conținutul în aflatoxină",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56384",
+   "versions": [
+    {
+     "from": "2004-11-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56384",
+     "sha256": "8c8e343f5c9046674e2430ef0eb75fcbb02ccb35146db6a6b37d93568dd5febc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-140-2004",
+   "path": "ordin/ansvsa/2004/140",
+   "short": "Ordin ansvsa nr. 140/2004",
+   "title": "Ordinul nr. 140/2004 privind aprobarea tarifelor de plată pentru manopera acțiunilor sanitare veterinare publice de interes național efectuate de medicii veterinari de libera practica în baza contractului de concesionare, pentru anul 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58971",
+   "versions": [
+    {
+     "from": "2005-02-02",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58971",
+     "sha256": "05a33f68bb1190e22deb3e8c784a9c6481a54a7c77e4c779190a5b8786f895d1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-141-2004",
+   "path": "ordin/ansvsa/2004/141",
+   "short": "Ordin ansvsa nr. 141/2004",
+   "title": "Ordinul nr. 141/2004 privind aprobarea Normei sanitare veterinare și pentru siguranța alimentelor privind anumiți contaminanți din alimentele de origine animala și nonanimală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58972",
+   "versions": [
+    {
+     "from": "2005-05-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58972",
+     "sha256": "199cde59fa075e05d1e2d4eae2ca8c09c6017a7972d72799c62308fa16f4f7ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-145-2004",
+   "path": "ordin/ansvsa/2004/145",
+   "short": "Ordin ansvsa nr. 145/2004",
+   "title": "Ordinul nr. 145/2004 pentru aprobarea Listei standardelor române ce adoptă standardele europene armonizate referitoare la anumite produse alimentare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58535",
+   "versions": [
+    {
+     "from": "2005-01-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58535",
+     "sha256": "a66eab3b7d0c5d263f9eec92c30e4969a1d5147dbe5327c9fe29f2444e57b1ea"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-147-2004",
+   "path": "ordin/ansvsa/2004/147",
+   "short": "Ordin ansvsa nr. 147/2004",
+   "title": "Ordinul nr. 147/2004 pentru aprobarea normelor sanitare veterinare și pentru siguranța alimentelor privind reziduurile de pesticide din produsele de origine animala și nonanimală și reziduurile de medicamente de uz veterinar în produsele de origine animala",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59321",
+   "versions": [
+    {
+     "from": "2005-02-17",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59321",
+     "sha256": "26f380e778850e83717c0374e3d5fa55a079510159fbb17cc3fbdea18983b3a0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-148-2004",
+   "path": "ordin/ansvsa/2004/148",
+   "short": "Ordin ansvsa nr. 148/2004",
+   "title": "Ordinul nr. 148/2004 pentru aprobarea Programului de supraveghere și control în domeniul siguranței alimentelor pentru anul 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59015",
+   "versions": [
+    {
+     "from": "2005-02-03",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59015",
+     "sha256": "08263251822e080da9d40530f37893d11a8cef844b5ad161a471c885486341b5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-149-2004",
+   "path": "ordin/ansvsa/2004/149",
+   "short": "Ordin ansvsa nr. 149/2004",
+   "title": "Ordinul nr. 149/2004 pentru aprobarea Programului acțiunilor de supraveghere, prevenire și control al bolilor la animale, al celor transmisibile de la animale la om, protecția animalelor și protecția mediului, pentru anul 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59124",
+   "versions": [
+    {
+     "from": "2005-02-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59124",
+     "sha256": "f0890d41798d9049da34f0b20e1f8f37c3f8c585cd22bf491202c4a29268d943"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-15-2004",
+   "path": "ordin/ansvsa/2004/15",
+   "short": "Ordin ansvsa nr. 15/2004",
+   "title": "Ordinul nr. 15/2004 pentru aprobarea Normei veterinare ce stabilește metode de analiza pentru controlul oficial al furajelor privind umiditatea, bazele azotate volatile, fosforul total și uleiurile și grăsimile brute",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56385",
+   "versions": [
+    {
+     "from": "2004-11-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56385",
+     "sha256": "8fb719127c5a5a3b308c5943f016254b31fa68da7a5ece0a4aeeafb97fda1bce"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-16-2004",
+   "path": "ordin/ansvsa/2004/16",
+   "short": "Ordin ansvsa nr. 16/2004",
+   "title": "Ordinul nr. 16/2004 pentru aprobarea Normei veterinare ce stabilește metode naționale de analiză pentru controlul oficial al furajelor cu referire la conținutul în zinc-bacitracină, flavofosfolipol, fier, cupru, mangan și zinc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56386",
+   "versions": [
+    {
+     "from": "2004-11-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56386",
+     "sha256": "ad36517f2abb9167085ea1d9048434037bdb17b3fc671ea201ce923289ed9de1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-17-2004",
+   "path": "ordin/ansvsa/2004/17",
+   "short": "Ordin ansvsa nr. 17/2004",
+   "title": "Ordinul nr. 17/2004 pentru aprobarea Normei veterinare ce stabilește metoda de calcul pentru valoarea energetica a furajelor combinate pentru păsări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56387",
+   "versions": [
+    {
+     "from": "2004-11-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56387",
+     "sha256": "2f920a51befd9b1791f1e60f638f35df709ce14cf0dab13f278f20be49ed6579"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-18-2004",
+   "path": "ordin/ansvsa/2004/18",
+   "short": "Ordin ansvsa nr. 18/2004",
+   "title": "Ordinul nr. 18/2004 pentru aprobarea Normei veterinare ce stabilește metode de analiză pentru controlul oficial al furajelor cu privire la conținutul în acid cianhidric, calciu, carbonați, cenușă brută, cenușă brută insolubilă în acid clorhidric, clor din cloruri, ulei de muștar, lactoză, potasiu, sodiu, zahăr, uree și estimarea activității ureazice a produselor derivate din soia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56388",
+   "versions": [
+    {
+     "from": "2004-11-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56388",
+     "sha256": "43103503492a5d58a514209a78d822b40327567ee6114a14c2a401000f80d3b4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-19-2004",
+   "path": "ordin/ansvsa/2004/19",
+   "short": "Ordin ansvsa nr. 19/2004",
+   "title": "Ordinul nr. 19/2004 pentru aprobarea Normei veterinare ce stabilește metode naționale de analiza pentru controlul oficial al furajelor cu referire la conținutul în avoparcina și monenzin de sodiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56390",
+   "versions": [
+    {
+     "from": "2004-11-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56390",
+     "sha256": "c7c4d13903e25dd9714452bfce7c5af8f6eeb8e75fe9a7836f40309786aafedc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-20-2004",
+   "path": "ordin/ansvsa/2004/20",
+   "short": "Ordin ansvsa nr. 20/2004",
+   "title": "Ordinul nr. 20/2004 pentru aprobarea Normei veterinare ce stabilește metode naționale de analiza pentru determinarea aminoacizilor, uleiurilor și grăsimilor brute și a olaquindoxului din furaje",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56391",
+   "versions": [
+    {
+     "from": "2004-11-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56391",
+     "sha256": "e6a97da6d1ef519f2fa67de201e8788a8e9f01a356a6156f1ee7056e9ab1756d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-23-2004",
+   "path": "ordin/ansvsa/2004/23",
+   "short": "Ordin ansvsa nr. 23/2004",
+   "title": "Ordinul nr. 23/2004 pentru aprobarea Normei veterinare ce stabilește metode naționale de analiză pentru controlul oficial al furajelor în scopul identificării conținutului în robenidină (E 750) și metil benzoat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56394",
+   "versions": [
+    {
+     "from": "2004-11-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56394",
+     "sha256": "cdbcbfb9edd30c271c685ed33972adc4c31b99324c5df22a3158dd6ed46f367d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-24-2004",
+   "path": "ordin/ansvsa/2004/24",
+   "short": "Ordin ansvsa nr. 24/2004",
+   "title": "Ordinul nr. 24/2004 pentru aprobarea Normei veterinare ce stabilește o metoda naționala de analiza pentru determinarea lasalocidului de sodiu din furaje",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56395",
+   "versions": [
+    {
+     "from": "2004-11-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56395",
+     "sha256": "6e39e3e1e556ff6e4c8fb2b2bc42712eab8327cde25c6ffbc6ca3fb2356b47e9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-25-2004",
+   "path": "ordin/ansvsa/2004/25",
+   "short": "Ordin ansvsa nr. 25/2004",
+   "title": "Ordinul nr. 25/2004 pentru aprobarea Normei veterinare ce stabilește metode naționale de analiză pentru determinarea produselor amprolium, diclazuril și carbadox din furaje",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56396",
+   "versions": [
+    {
+     "from": "2004-11-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56396",
+     "sha256": "51c229863e075f50340ce5eb32f4a4d27db17e5d60e8009d4590c89159795b46"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-26-2004",
+   "path": "ordin/ansvsa/2004/26",
+   "short": "Ordin ansvsa nr. 26/2004",
+   "title": "Ordinul nr. 26/2004 pentru aprobarea Normei veterinare privind metodele de analiza pentru controlul oficial al furajelor cu referire la determinarea umidității, a grăsimilor și uleiurilor vegetale, a magneziului și conținutului în fibre",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56397",
+   "versions": [
+    {
+     "from": "2004-11-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56397",
+     "sha256": "e604cc160c1837b0394f1be7067a14e71d97b773dc57a1b5630936380c835f3f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-30-2004",
    "path": "ordin/ansvsa/2004/30",
    "short": "Ordin ansvsa nr. 30/2004",
@@ -1829,6 +2459,171 @@
      "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55281",
      "sha256": "cbc603cbebdaa923a61989e668acf4be746bdb14409b471dffcb9ec9a3093cae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-4-2004",
+   "path": "ordin/ansvsa/2004/4",
+   "short": "Ordin ansvsa nr. 4/2004",
+   "title": "Ordinul nr. 4/2004 pentru aprobarea Normei veterinare privind producerea, prelucrarea, depozitarea, transportul, comercializarea și utilizarea produselor medicinale veterinare și a altor produse de uz veterinar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52088",
+   "versions": [
+    {
+     "from": "2004-05-21",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52088",
+     "sha256": "0167b9381a8f0e02fa2d15b6f0a24485e5be471a351c080593b8428387531ede"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-60-2004",
+   "path": "ordin/ansvsa/2004/60",
+   "short": "Ordin ansvsa nr. 60/2004",
+   "title": "Ordinul nr. 60/2004 pentru aprobarea Normei sanitare veterinare cu privire la sănătatea animalelor și condițiile de certificare pentru activități de import în România de albine și bondari (Apis mellifera și Bombus spp.) din anumite țări terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56223",
+   "versions": [
+    {
+     "from": "2004-11-11",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56223",
+     "sha256": "14a9b157a3f81814865e170afc441d69c42873b6f402531a4f91643d60b76ba0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-69-2004",
+   "path": "ordin/ansvsa/2004/69",
+   "short": "Ordin ansvsa nr. 69/2004",
+   "title": "Ordinul nr. 69/2004 privind modificarea Ordinului ministrului agriculturii, alimentației și pădurilor nr. 144/2002 pentru aprobarea Normei sanitare veterinare privind stabilirea regulilor de prevenire, control și eradicare a unor encefalopatii spongiforme transmisibile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54721",
+   "versions": [
+    {
+     "from": "2004-08-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54721",
+     "sha256": "d2f5af0c8de3d6f985f3ad227128d3f96acef4e074e1fece4b3eb242cb61ee95"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-70-2004",
+   "path": "ordin/ansvsa/2004/70",
+   "short": "Ordin ansvsa nr. 70/2004",
+   "title": "Ordinul nr. 70/2004 pentru aprobarea Normei sanitare veterinare privind autorizarea unor metode alternative ce trebuie folosite pentru testarea microbiologică a cărnii destinate Finlandei și Suediei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56166",
+   "versions": [
+    {
+     "from": "2004-11-11",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56166",
+     "sha256": "38bed229426a7b8f78e4b04b1e09b8246745770e5bf3f13ea385751c0cddb137"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-74-2004",
+   "path": "ordin/ansvsa/2004/74",
+   "short": "Ordin ansvsa nr. 74/2004",
+   "title": "Ordinul nr. 74/2004 privind aprobarea formularului Procesului-verbal de constatare și sancționare a contravențiilor la programul de gestionare a câinilor fără stăpân",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55354",
+   "versions": [
+    {
+     "from": "2004-09-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55354",
+     "sha256": "802343a4d7bce043d5c4b8bb210ab61072d3c564defb3d49892e077baccd7400"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-75-2004",
+   "path": "ordin/ansvsa/2004/75",
+   "short": "Ordin ansvsa nr. 75/2004",
+   "title": "Ordinul nr. 75/2004 privind caracterul voluntar al standardelor incluse în normele sanitare veterinare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55064",
+   "versions": [
+    {
+     "from": "2004-09-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55064",
+     "sha256": "08a3f57d6bf9e30859c59beacb29b00d31af64c3f6bf4b4b7d6542bcd24e2a96"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-76-2004",
+   "path": "ordin/ansvsa/2004/76",
+   "short": "Ordin ansvsa nr. 76/2004",
+   "title": "Ordinul nr. 76/2004 privind modificarea Ordinului ministrului agriculturii, pădurilor, apelor și mediului nr. 547/2003 pentru aprobarea Normei sanitare veterinare care stabilește specificațiile tehnice pentru mărcile de identificare și dispozitivele de citire în vederea identificării cabalinelor pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54894",
+   "versions": [
+    {
+     "from": "2004-09-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54894",
+     "sha256": "2e91c643a81faa5cc504db3d135a1bfbaa72cc6aee8f2c25ab0c89ce7ee7aa93"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-8-2004",
+   "path": "ordin/ansvsa/2004/8",
+   "short": "Ordin ansvsa nr. 8/2004",
+   "title": "Ordinul nr. 8/2004 privind aprobarea Ghidului oficial de control pentru nutriție animală și a Planului operațional de urgență în domeniul nutriției animale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54554",
+   "versions": [
+    {
+     "from": "2004-08-19",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54554",
+     "sha256": "46f7b732b87b01e243433174c96ded3311e8d80f42be7063584a27174c2a4c3e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-82-2004",
+   "path": "ordin/ansvsa/2004/82",
+   "short": "Ordin ansvsa nr. 82/2004",
+   "title": "Ordinul nr. 82/2004 pentru modificarea și completarea Ordinului președintelui Agenției Veterinare și pentru Siguranța Alimentelor nr. 4/2004 pentru aprobarea Normei veterinare privind producerea, prelucrarea, depozitarea, transportul, comercializarea și utilizarea produselor medicinale veterinare și a altor produse de uz veterinar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55813",
+   "versions": [
+    {
+     "from": "2004-10-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55813",
+     "sha256": "4cdd1bdf32a20f416da5070a944ac3c5edb7142cbdfbaa30d7216c00b6ac0929"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-83-2004",
+   "path": "ordin/ansvsa/2004/83",
+   "short": "Ordin ansvsa nr. 83/2004",
+   "title": "Ordinul nr. 83/2004 pentru aprobarea Normei sanitare veterinare privind marcarea și certificarea produselor de origine animală destinate consumului uman, cu excepția cărnii proaspete",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55756",
+   "versions": [
+    {
+     "from": "2005-01-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55756",
+     "sha256": "4a242bcf26147ab542cdfe22c95a8dd496836e4d8acc47451547eef3dccd0b5d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-85-2004",
+   "path": "ordin/ansvsa/2004/85",
+   "short": "Ordin ansvsa nr. 85/2004",
+   "title": "Ordinul nr. 85/2004 pentru aprobarea Normei sanitare veterinare cu privire la cerințele de sănătate a animalelor, aplicabile mișcării de animale de companie în scopuri necomerciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58989",
+   "versions": [
+    {
+     "from": "2005-02-03",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58989",
+     "sha256": "39be3cfb9240c26298ccade426d84a5cae87c8b616ba4dcd0acb558131625ff1"
     }
    ]
   },
@@ -1874,6 +2669,51 @@
      "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57629",
      "sha256": "42e90c3c29844ba8de88134524224d9434ba509b5ff6f8c89054bb9e3d7a834a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-94-2004",
+   "path": "ordin/ansvsa/2004/94",
+   "short": "Ordin ansvsa nr. 94/2004",
+   "title": "Ordinul nr. 94/2004 privind aprobarea tarifelor pentru efectuarea analizelor și examenelor de laborator, precum și a unor activități sanitare veterinare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58291",
+   "versions": [
+    {
+     "from": "2005-01-07",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58291",
+     "sha256": "08b35a7eb1850e839332b2ade86c1317c22bfb79f7dd70861256dac1e5c4a049"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-98-2004",
+   "path": "ordin/ansvsa/2004/98",
+   "short": "Ordin ansvsa nr. 98/2004",
+   "title": "Ordinul nr. 98/2004 privind actualizarea listei bolilor transmisibile pentru care se acordă despăgubiri, prevăzute în anexa nr. 1 la Hotărârea Guvernului nr. 1.415/2004 privind acordarea despăgubirilor pentru animalele tăiate, ucise sau altfel afectate, în vederea lichidării rapide a focarelor de boli transmisibile ale animalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56713",
+   "versions": [
+    {
+     "from": "2004-11-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56713",
+     "sha256": "4b78fe6e59b771ad46a80faf7cc0ff4872e660c48ccd7906e262d85cad1df657"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-99-2004",
+   "path": "ordin/ansvsa/2004/99",
+   "short": "Ordin ansvsa nr. 99/2004",
+   "title": "Ordinul nr. 99/2004 pentru aprobarea Normei sanitare veterinare privind condițiile suplimentare pentru transportul, depozitarea, comercializarea și controlul sanitar veterinar al laptelui și produselor lactate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58859",
+   "versions": [
+    {
+     "from": "2005-01-26",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58859",
+     "sha256": "4f258817533b92e0b278ca2edca1fb9f3a3076961dba92c6065fb6f1f336a1aa"
     }
    ]
   },
@@ -6858,6 +7698,81 @@
    ]
   },
   {
+   "slug": "ordin-guvern-144-2004",
+   "path": "ordin/guvern/2004/144",
+   "short": "Ordin guvern nr. 144/2004",
+   "title": "Ordinul nr. 144/2004 privind aprobarea Normelor de securitate radiologică - Sisteme de măsurare cu surse de radiații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52693",
+   "versions": [
+    {
+     "from": "2004-06-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52693",
+     "sha256": "7a1557c6eca2a48bf3177697ea9fe48587fff1c574d4ebb81759173628dded42"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-guvern-171-2004",
+   "path": "ordin/guvern/2004/171",
+   "short": "Ordin guvern nr. 171/2004",
+   "title": "Ordinul nr. 171/2004 pentru aprobarea Normelor de securitate radiologică - Proceduri de autorizare a activităților de minerit și preparare a minereurilor de uraniu și toriu, de prelucrare a materiilor prime nucleare și de producere a combustibilului nuclear",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52662",
+   "versions": [
+    {
+     "from": "2004-06-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52662",
+     "sha256": "fb8eba6ffeae7ffe2d48b99c459586314199e8cf413f9ddee0ab0cf384e86cf9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-guvern-188-2004",
+   "path": "ordin/guvern/2004/188",
+   "short": "Ordin guvern nr. 188/2004",
+   "title": "Ordinul nr. 188/2004 pentru stabilirea condițiilor de valabilitate a certificatelor de securitate eliberate în temeiul Hotărârii Guvernului nr. 353/2002 până la data intrării în vigoare a Hotărârii Guvernului nr. 590/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51936",
+   "versions": [
+    {
+     "from": "2004-05-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51936",
+     "sha256": "e401ef2c76ea4e1d7052c2197aa5f2c24ea7aede1567e712dcaedb53484744d3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-guvern-3-2004",
+   "path": "ordin/guvern/2004/3",
+   "short": "Ordin guvern nr. 3/2004",
+   "title": "Ordinul nr. 3/2004 privind condițiile de ieșire din România a animalelor destinate participării la competiții sportive și expoziții internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51977",
+   "versions": [
+    {
+     "from": "2004-05-19",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51977",
+     "sha256": "736353905734653be5ea2b5bf0c009bdae54893cfc3ec6d63de3047a3f16c4ff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-guvern-7-2004",
+   "path": "ordin/guvern/2004/7",
+   "short": "Ordin guvern nr. 7/2004",
+   "title": "Ordinul nr. 7/2004 privind procedura de eliberare a avizului pentru constituirea și înscrierea asociațiilor și fundațiilor ale căror activități intră în sfera de competența a Agenției Veterinare și pentru Siguranța Alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52041",
+   "versions": [
+    {
+     "from": "2004-05-20",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52041",
+     "sha256": "6666a73c5f841fd749ab7512b3a29a64336fd9988bc308d0706de5c851bbe1bf"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-103-2004",
    "path": "ordin/interne/2004/103",
    "short": "Ordin interne nr. 103/2004",
@@ -7458,6 +8373,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-367-2004",
+   "path": "ordin/mediu/2004/367",
+   "short": "Ordin mediu nr. 367/2004",
+   "title": "Ordinul nr. 367/2004 pentru modificarea anexei la Ordinul ministrului mediului și gospodăririi apelor nr. 117/2004 privind aprobarea Normelor metodologice de aplicare a Hotărârii Guvernului nr. 166/2004 pentru aprobarea proiectului \"Dezvoltarea sistemului de colectare a deșeurilor de ambalaje PET postconsum în vederea reciclării\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54962",
+   "versions": [
+    {
+     "from": "2004-09-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54962",
+     "sha256": "bd930c103c58feff79e4ef23f326eb7e6f7602287e3c5eb2913fef53156f7204"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-374-2004",
    "path": "ordin/mediu/2004/374",
    "short": "Ordin mediu nr. 374/2004",
@@ -7514,6 +8444,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56302",
      "sha256": "c73e0f267e074011796a75231419fa6d4a12ff54306642abfed55741c5761cdb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-614-2004",
+   "path": "ordin/mediu/2004/614",
+   "short": "Ordin mediu nr. 614/2004",
+   "title": "Ordinul nr. 614/2004 privind modificarea anexelor nr. 2 și 4 la Normele metodologice de aplicare a Hotărârii Guvernului nr. 166/2004 pentru aprobarea proiectului \"Dezvoltarea sistemului de colectare a deșeurilor de ambalaje PET postconsum în vederea reciclării\", aprobate prin Ordinul ministrului mediului și gospodăririi apelor nr. 117/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58848",
+   "versions": [
+    {
+     "from": "2005-01-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58848",
+     "sha256": "b69c5d765cc9b37e1dfc589785a3f447962268f20c8e9a818f2f68840dce837c"
     }
    ]
   },
@@ -7619,6 +8564,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58629",
      "sha256": "1a4b01f431894316b5c8630cb167159c81030d7690a0bd7dd6fdb5766d3fec65"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-97-2004",
+   "path": "ordin/mediu/2004/97",
+   "short": "Ordin mediu nr. 97/2004",
+   "title": "Ordinul nr. 97/2004 pentru modificarea și completarea Ordinului ministrului agriculturii, pădurilor, apelor și mediului nr. 978/2003 privind Regulamentul de atestare a persoanelor fizice și juridice care elaborează studii de evaluare a impactului asupra mediului și bilanțuri de mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52484",
+   "versions": [
+    {
+     "from": "2004-06-04",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52484",
+     "sha256": "983a35c9fe39445d1f68a2f5cbd6c077eaefa0019e3be26d0c68ac1f29bc8b89"
     }
    ]
   },
@@ -11414,6 +12374,81 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52960",
      "sha256": "1b9ff0cd5ec924086fe55b1e63cd6eb661cff02d50be47021ea5e60868047246"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-1555-2004",
+   "path": "ordin/vama/2004/1555",
+   "short": "Ordin vama nr. 1555/2004",
+   "title": "Ordinul nr. 1.555/2004 pentru implementarea amendamentelor nr. 23 și 24 la Convenția vamală relativă la transportul internațional al mărfurilor sub acoperirea carnetelor T.I.R. (Convenția T.I.R.), întocmită la Geneva la 14 noiembrie 1975, la care România a aderat prin Decretul nr. 420/1979",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58266",
+   "versions": [
+    {
+     "from": "2004-12-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58266",
+     "sha256": "48c792ff5f18d72b5f16cbc75384775048d50ba5893700994e7a054055d72385"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-379-2004",
+   "path": "ordin/vama/2004/379",
+   "short": "Ordin vama nr. 379/2004",
+   "title": "Ordinul nr. 379/2004 pentru aplicarea reglementărilor adoptate de Comisia Comunităților Europene privind clasificarea unor anumite mărfuri în Nomenclatura combinată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52643",
+   "versions": [
+    {
+     "from": "2004-06-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52643",
+     "sha256": "92589ecf5f28e14f34346c021d179953e62376a90ec45ac617beb53f8d5df072"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-380-2004",
+   "path": "ordin/vama/2004/380",
+   "short": "Ordin vama nr. 380/2004",
+   "title": "Ordinul nr. 380/2004 privind modificarea Deciziei directorului general al Direcției Generale a Vămilor nr. 283/2003 pentru aplicarea reglementărilor adoptate de Comisia Comunităților Europene privind clasificarea unor anumite mărfuri în Nomenclatura combinată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52428",
+   "versions": [
+    {
+     "from": "2004-06-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52428",
+     "sha256": "570af7c19fcc83bf9b942e7bb7c9d0096a7363e6ba222a42fb9235ce37c4670a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-470-2004",
+   "path": "ordin/vama/2004/470",
+   "short": "Ordin vama nr. 470/2004",
+   "title": "Ordinul nr. 470/2004 pentru aprobarea modelului formularului \"Proces-verbal de constatare și sancționare a contravențiilor\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52710",
+   "versions": [
+    {
+     "from": "2004-06-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52710",
+     "sha256": "589b56c4188e3e6d796ec045c39c0ac482d3b14c098e3982d4b943879406ff00"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-826-2004",
+   "path": "ordin/vama/2004/826",
+   "short": "Ordin vama nr. 826/2004",
+   "title": "Ordinul nr. 826/2004 privind vămuirea unor categorii de mărfuri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53869",
+   "versions": [
+    {
+     "from": "2004-07-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53869",
+     "sha256": "15f2f25a9bccd2a1a4b9cd7bf2cb6ffd1483206f3e67e231d405e2abf088449d"
     }
    ]
   }

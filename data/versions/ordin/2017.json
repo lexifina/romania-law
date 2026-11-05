@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-248-2017",
+   "path": "ordin/agricultura/2017/248",
+   "short": "Ordin agricultura nr. 248/2017",
+   "title": "Ordinul nr. 248/2017 pentru implementarea procesului de identificare și înregistrare a ecvideelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192124",
+   "versions": [
+    {
+     "from": "2017-08-14",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192124",
+     "sha256": "4f2c00f3d9c5f0dabc8f4288c670b481effd377ffcc097ea9de04604c7d33da8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-274-2017",
    "path": "ordin/agricultura/2017/274",
    "short": "Ordin agricultura nr. 274/2017",
@@ -86,7 +101,7 @@
    "versions": [
     {
      "from": "2017-08-30",
-     "units": 13,
+     "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192754",
      "sha256": "f8f940af38678a85f55e7a7819cd9135f68396eb58f9f86b874dcbcf65843d64"
     }
@@ -123,6 +138,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-324-2017",
+   "path": "ordin/agricultura/2017/324",
+   "short": "Ordin agricultura nr. 324/2017",
+   "title": "Ordinul nr. 324/2017 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale și al ministrului mediului nr. 13/142/2017 privind aprobarea măsurilor de reglementare a efortului de pescuit și cotele de pescuit alocate pentru anul 2017, pe specii și zone",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194646",
+   "versions": [
+    {
+     "from": "2017-11-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194646",
+     "sha256": "67b3f351a5790b5a037a3bc53570c50c3eaacf1acc03728cef36fe7f46bf59d5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-377-2017",
    "path": "ordin/agricultura/2017/377",
    "short": "Ordin agricultura nr. 377/2017",
@@ -138,6 +168,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-95-2017",
+   "path": "ordin/agricultura/2017/95",
+   "short": "Ordin agricultura nr. 95/2017",
+   "title": "Ordinul nr. 95/2017 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale și al viceprim-ministrului, ministrul mediului, nr. 12/144/2017 privind stabilirea perioadelor și zonelor de prohibiție a pescuitului, precum și a zonelor de protecție a resurselor acvatice vii în anul 2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188387",
+   "versions": [
+    {
+     "from": "2017-04-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188387",
+     "sha256": "da4825ea6fb6ba8d8e2256f889af712c7f0b966eae495627475feb5e5c5e68cf"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anaf-1006-2017",
    "path": "ordin/anaf/2017/1006",
    "short": "Ordin anaf nr. 1006/2017",
@@ -146,7 +191,7 @@
    "versions": [
     {
      "from": "2017-05-11",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188596",
      "sha256": "ba351b11dfed8c9239ba013a631e6c2ac533863c30bdfccbe98a53b74f871efe"
     }
@@ -161,7 +206,7 @@
    "versions": [
     {
      "from": "2017-04-20",
-     "units": 7,
+     "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188448",
      "sha256": "a365bf484f9c0d9e302d4a852ae99f55bfe929326c407107a6d8d530bab3d46f"
     }
@@ -176,7 +221,7 @@
    "versions": [
     {
      "from": "2017-05-04",
-     "units": 4,
+     "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189012",
      "sha256": "59ef9d83ea209793fd95e6948bcdebadf61ef53c9fc66647a767194c0c354374"
     }
@@ -191,7 +236,7 @@
    "versions": [
     {
      "from": "2017-01-27",
-     "units": 16,
+     "units": 20,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186076",
      "sha256": "0bf4815fe3157d609ddb1003507b3d6bf5662fbaad6033fd6cdc83538a90c82c"
     }
@@ -221,7 +266,7 @@
    "versions": [
     {
      "from": "2017-05-10",
-     "units": 4,
+     "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189155",
      "sha256": "06d98e9d4c7823d4ff579d7a12369b0e8e837911d1acabdb96067f78326e8042"
     }
@@ -236,7 +281,7 @@
    "versions": [
     {
      "from": "2017-05-10",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189156",
      "sha256": "d6b1f8a1f941d5566a283723a6eea04fa28e3a5ee771fa015da7933069f0e687"
     }
@@ -281,7 +326,7 @@
    "versions": [
     {
      "from": "2017-06-23",
-     "units": 4,
+     "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190336",
      "sha256": "dffc4c21f5116b8c6a1b08c0e7381dd6e94f687cf99cf8b5de5bf10532321f8c"
     }
@@ -371,7 +416,7 @@
    "versions": [
     {
      "from": "2017-09-18",
-     "units": 5,
+     "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193254",
      "sha256": "bedd6df0107500fd320d4f18b450c2e472f5a58be0017ad7637529ab28cc1a0b"
     }
@@ -386,7 +431,7 @@
    "versions": [
     {
      "from": "2017-08-22",
-     "units": 19,
+     "units": 23,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192488",
      "sha256": "125f72c91cf7cff2993b7e7349c2627acade192f6cd6c5aa72fe8b2c42afa370"
     }
@@ -491,7 +536,7 @@
    "versions": [
     {
      "from": "2017-10-03",
-     "units": 20,
+     "units": 22,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193668",
      "sha256": "5d2f8aea968737e9c68d7e079f475f3af34e0e7a7b445a4225951526fbc0feb1"
     }
@@ -851,7 +896,7 @@
    "versions": [
     {
      "from": "2017-02-09",
-     "units": 4,
+     "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186451",
      "sha256": "148abaa0b2a077d63fedf79ea7e5de08e8a518a4ea00a41bc0b89da75a19fa9d"
     }
@@ -1121,7 +1166,7 @@
    "versions": [
     {
      "from": "2017-08-18",
-     "units": 11,
+     "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192451",
      "sha256": "8939803691715b1bf53e48f135dd249130016f7533f19e646b8d4e33c9b8d67a"
     }
@@ -1211,7 +1256,7 @@
    "versions": [
     {
      "from": "2017-01-27",
-     "units": 5,
+     "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186062",
      "sha256": "4fcdbb44ac6ce342dd26b5520f8c04205b5f097c999013e2e27bf5e58094ac19"
     }
@@ -1286,7 +1331,7 @@
    "versions": [
     {
      "from": "2017-04-05",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187977",
      "sha256": "e6e4e77baf3c1260efb06501746e0e4cc4f6e8ecc20ca5c11c758c311fd45720"
     }
@@ -1331,7 +1376,7 @@
    "versions": [
     {
      "from": "2017-05-29",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189588",
      "sha256": "353250aff366fbf0d92ed033b0bc739e4e2197c7a7cdf860de44b214c5647d3b"
     }
@@ -1391,7 +1436,7 @@
    "versions": [
     {
      "from": "2017-02-02",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186375",
      "sha256": "a8bcf08caf273c950f7daee7c3e6d69ef66a5cc67a27d0dda605993cf8cf6545"
     }
@@ -1526,7 +1571,7 @@
    "versions": [
     {
      "from": "2017-10-09",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193817",
      "sha256": "078b866f752b712f7e4adce854f78b61f31b495f702987d68c7ff6a592f7a22a"
     }
@@ -1556,7 +1601,7 @@
    "versions": [
     {
      "from": "2017-01-06",
-     "units": 5,
+     "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185528",
      "sha256": "c5c8758457718e43cfe4153820014fe504aa3e5e142fcd9fbff7ce8fb4b3f00b"
     }
@@ -1931,7 +1976,7 @@
    "versions": [
     {
      "from": "2017-04-01",
-     "units": 38,
+     "units": 110,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187853",
      "sha256": "922dad98ddabf741bd166fbc3da7168191978d459186c3af4a510416e6c1ca18"
     }
@@ -2081,7 +2126,7 @@
    "versions": [
     {
      "from": "2017-05-23",
-     "units": 4,
+     "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189472",
      "sha256": "bb744065df118f4db501e7a21cd60f7365958c78b10e3051f56cb280992dd6e3"
     }
@@ -2186,7 +2231,7 @@
    "versions": [
     {
      "from": "2017-07-01",
-     "units": 4,
+     "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190256",
      "sha256": "1d8cf8b525fefe32902a81e7e77f636a1f7d3d77805ddb60ba45b7b097c79142"
     }
@@ -2276,7 +2321,7 @@
    "versions": [
     {
      "from": "2017-07-07",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190922",
      "sha256": "de406e04cce4845babe65107b80ca984851fd04b574a9564b6f69faff15e7b5a"
     }
@@ -2306,7 +2351,7 @@
    "versions": [
     {
      "from": "2017-07-01",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190360",
      "sha256": "53ad5a22721af03ee1208d6df0fb27f433223945187a8ae5f3e27d34a5db56cd"
     }
@@ -2411,7 +2456,7 @@
    "versions": [
     {
      "from": "2017-09-01",
-     "units": 4,
+     "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191753",
      "sha256": "2a4c1ddfe85156c76684b2b7927a954b30fd74befd679103d10701f96c530b3f"
     }
@@ -2486,7 +2531,7 @@
    "versions": [
     {
      "from": "2017-10-01",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192093",
      "sha256": "a47671be394a68beebe7349f2afa8d5218f530eb0550c9279959e624e6e3ede4"
     }
@@ -2501,7 +2546,7 @@
    "versions": [
     {
      "from": "2017-10-01",
-     "units": 5,
+     "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192094",
      "sha256": "f0970e2de80ded7bf73830ad15f5f7df0b4ca76e471f174c7f01deb84a5b0ac6"
     }
@@ -2576,7 +2621,7 @@
    "versions": [
     {
      "from": "2017-08-23",
-     "units": 7,
+     "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192500",
      "sha256": "71f4d7cd3897a3095a9a76ad27ec8d2f89cc21b6b57ad87bcc48cfd7a45b7b67"
     }
@@ -2621,7 +2666,7 @@
    "versions": [
     {
      "from": "2017-09-06",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192881",
      "sha256": "bd0802539b594003c9b9fd30628402aadaa355808db2eda8738d2428cd2e97cd"
     }
@@ -2819,6 +2864,186 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194424",
      "sha256": "db8de48c9bf97a7d2e32e654c53c25780fe2ffe47d22e1a1447bddcf5d3d65a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-112-2017",
+   "path": "ordin/ansvsa/2017/112",
+   "short": "Ordin ansvsa nr. 112/2017",
+   "title": "Ordinul nr. 112/2017 pentru modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 35/2016 privind aprobarea Normelor metodologice de aplicare a Programului acțiunilor de supraveghere, prevenire, control și eradicare a bolilor la animale, a celor transmisibile de la animale la om, protecția animalelor și protecția mediului, de identificare și înregistrare a bovinelor, suinelor, ovinelor, caprinelor și ecvideelor, precum și a Normelor metodologice de aplicare a Programului de supraveghere și control în domeniul siguranței alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194787",
+   "versions": [
+    {
+     "from": "2017-11-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194787",
+     "sha256": "7fafa60c82a03d47194c596bcea8447ee51dc9d0ddb046c445745c7a6624ac37"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-126-2017",
+   "path": "ordin/ansvsa/2017/126",
+   "short": "Ordin ansvsa nr. 126/2017",
+   "title": "Ordinul nr. 126/2017 privind modificarea și completarea anexei nr. 1 la Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 44/2017 pentru aprobarea Normei sanitare veterinare privind procedura de autorizare/înregistrare sanitar-veterinară a unităților ce desfășoară activități în domeniul hranei pentru animale și a mijloacelor de transport al hranei pentru animale și pentru modificarea anexei nr. 6 la Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 96/2014 privind aprobarea tarifelor aplicabile în domeniul sanitar-veterinar și pentru siguranța alimentelor, precum și pentru modificarea literei B din anexa nr. 6 la Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 96/2014 privind aprobarea tarifelor aplicabile în domeniul sanitar-veterinar și pentru siguranța alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195633",
+   "versions": [
+    {
+     "from": "2017-12-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195633",
+     "sha256": "36d93c5783f5903cb99328624d4be9256612cbeb6c44ff7734273176bbbf137b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-129-2017",
+   "path": "ordin/ansvsa/2017/129",
+   "short": "Ordin ansvsa nr. 129/2017",
+   "title": "Ordinul nr. 129/2017 pentru aprobarea Normelor metodologice de monitorizare a standardelor de microclimat, în vederea asigurării statusului minim de bunăstare a porcinelor din exploatațiile comerciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195721",
+   "versions": [
+    {
+     "from": "2017-12-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195721",
+     "sha256": "6c951fe82a1bb1a1581e500cf0b42876dfa8f957d1e90e3cfaf5e0b7db92e234"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-134-2017",
+   "path": "ordin/ansvsa/2017/134",
+   "short": "Ordin ansvsa nr. 134/2017",
+   "title": "Ordinul nr. 134/2017 pentru modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 113/2008 privind aprobarea Instrucțiunilor pentru organizarea și desfășurarea activității de control oficial în unitățile de prelucrare, procesare, depozitare, transport, valorificare și comercializare a produselor și subproduselor alimentare de origine nonanimală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196030",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196030",
+     "sha256": "163ec9db5ae9a60a502fd8ee8e3076c30829f048422736d9da47ec5e3b458a85"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-135-2017",
+   "path": "ordin/ansvsa/2017/135",
+   "short": "Ordin ansvsa nr. 135/2017",
+   "title": "Ordinul nr. 135/2017 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 64/2007 pentru aprobarea Normei sanitare veterinare privind organizarea și desfășurarea activității de control oficial sanitar-veterinar efectuat de către personalul de specialitate în unitățile care produc alimente de origine animală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196031",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196031",
+     "sha256": "1f1f6e6057476f9ad2e7e82277b6f9ecdfca70aaa80c6824b7f761c9666b8588"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-24-2017",
+   "path": "ordin/ansvsa/2017/24",
+   "short": "Ordin ansvsa nr. 24/2017",
+   "title": "Ordinul nr. 24/2017 privind aprobarea Normei pentru siguranța alimentelor cu privire la procedura de autorizare pentru siguranța alimentelor a unităților producătoare de semințe germinate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187619",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187619",
+     "sha256": "c7bd273f8a1a1076805439b39ac0f2170e04e8d0ee5d2efaec0ab0b653c34c99"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-25-2017",
+   "path": "ordin/ansvsa/2017/25",
+   "short": "Ordin ansvsa nr. 25/2017",
+   "title": "Ordinul nr. 25/2017 pentru modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 96/2014 privind aprobarea tarifelor aplicabile în domeniul sanitar-veterinar și pentru siguranța alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187649",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187649",
+     "sha256": "1e50f80673eebc5b2b51f6e43d51e6f34c5c3d9ddb95e8fa768f2e295723ad2d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-29-2017",
+   "path": "ordin/ansvsa/2017/29",
+   "short": "Ordin ansvsa nr. 29/2017",
+   "title": "Ordinul nr. 29/2017 pentru modificarea anexei nr. 1 la Hotărârea Guvernului nr. 1.214/2009 privind metodologia pentru stabilirea și plata despăgubirilor ce se cuvin proprietarilor de animale tăiate, ucise sau altfel afectate în vederea lichidării rapide a focarelor de boli transmisibile ale animalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187792",
+   "versions": [
+    {
+     "from": "2017-03-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187792",
+     "sha256": "6fc119c6417a4398ffbfe0f55ee64c01794431553e9343eadecc73e91915a191"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-44-2017",
+   "path": "ordin/ansvsa/2017/44",
+   "short": "Ordin ansvsa nr. 44/2017",
+   "title": "Ordinul nr. 44/2017 pentru aprobarea Normei sanitare veterinare privind procedura de autorizare/înregistrare sanitar-veterinară a unităților ce desfășoară activități în domeniul hranei pentru animale și a mijloacelor de transport al hranei pentru animale și pentru modificarea anexei nr. 6 la Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 96/2014 privind aprobarea tarifelor aplicabile în domeniul sanitar-veterinar și pentru siguranța alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189177",
+   "versions": [
+    {
+     "from": "2017-05-11",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189177",
+     "sha256": "45b53230bb0168c93a4494808abfb497f6ea66fd49befdb70e321b1000209c5f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-70-2017",
+   "path": "ordin/ansvsa/2017/70",
+   "short": "Ordin ansvsa nr. 70/2017",
+   "title": "Ordinul nr. 70/2017 pentru modificarea și completarea Normei sanitare veterinare privind măsurile generale de prevenire și control al rabiei la animale domestice și sălbatice, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 29/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190319",
+   "versions": [
+    {
+     "from": "2017-06-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190319",
+     "sha256": "79d0ad72021a6c56addb86afea2294447d1b1f048f237d3c8ad74ebd50081a76"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-77-2017",
+   "path": "ordin/ansvsa/2017/77",
+   "short": "Ordin ansvsa nr. 77/2017",
+   "title": "Ordinul nr. 77/2017 pentru modificarea anexei nr. 1 la Hotărârea Guvernului nr. 1.214/2009 privind metodologia pentru stabilirea și plata despăgubirilor ce se cuvin proprietarilor de animale tăiate, ucise sau altfel afectate în vederea lichidării rapide a focarelor de boli transmisibile ale animalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191504",
+   "versions": [
+    {
+     "from": "2017-07-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191504",
+     "sha256": "0f5748c2d645ddeaf5de4d73bcda6b2fcad54f1aa44b8491eafa9fd5484f3a19"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-90-2017",
+   "path": "ordin/ansvsa/2017/90",
+   "short": "Ordin ansvsa nr. 90/2017",
+   "title": "Ordinul nr. 90/2017 privind completarea anexei nr. 1 la Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 96/2014 privind aprobarea tarifelor aplicabile în domeniul sanitar-veterinar și pentru siguranța alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192407",
+   "versions": [
+    {
+     "from": "2017-08-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192407",
+     "sha256": "2484c309aef02feff0ed87276f26a9380fe72a7a227f3e85f81378cdeca19cb1"
     }
    ]
   },
@@ -3086,7 +3311,7 @@
    "versions": [
     {
      "from": "2017-02-28",
-     "units": 14,
+     "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186953",
      "sha256": "08dc6986a1a3dca36fb25255de998da5ff6f266572fe454bcaf7eb4330f0db23"
     }
@@ -4593,6 +4818,696 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3236-2017",
+   "path": "ordin/educatie/2017/3236",
+   "short": "Ordin educatie nr. 3236/2017",
+   "title": "Ordinul nr. 3.236/2017 privind aprobarea Metodologiei de primire la studii și școlarizare a cetățenilor străini pe locuri fără plata taxelor de școlarizare și cu bursă și pe locuri fără plata taxelor de școlarizare, dar fără bursă, în instituțiile de învățământ superior de stat acreditate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186950",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186950",
+     "sha256": "8c82b8ddedb3a58294e0544968fab604cd2a553e3b1a2266cd874e3ed0aee049"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3247-2017",
+   "path": "ordin/educatie/2017/3247",
+   "short": "Ordin educatie nr. 3247/2017",
+   "title": "Ordinul nr. 3.247/2017 privind aprobarea Calendarului și a Metodologiei de înscriere a copiilor în învățământul primar pentru anul școlar 2017-2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186814",
+   "versions": [
+    {
+     "from": "2017-02-21",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186814",
+     "sha256": "8f3507c0f9c8cf983946c2a0d69867740da17d80f85ad2ef3c0f27648847e5d5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3262-2017",
+   "path": "ordin/educatie/2017/3262",
+   "short": "Ordin educatie nr. 3262/2017",
+   "title": "Ordinul nr. 3.262/2017 privind organizarea și funcționarea de societăți antreprenoriale studențești în sistemul de învățământ superior din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186852",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186852",
+     "sha256": "25bac513f68bda7cdd7a766a12662fe608456d57b7d108fc28cf90a70c009299"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3279-2017",
+   "path": "ordin/educatie/2017/3279",
+   "short": "Ordin educatie nr. 3279/2017",
+   "title": "Ordinul nr. 3.279/2017 privind aprobarea Metodologiei de alocare a fondurilor bugetare pentru finanțarea de bază și finanțarea suplimentară a instituțiilor de învățământ superior de stat din România, pentru anul 2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186921",
+   "versions": [
+    {
+     "from": "2017-02-27",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186921",
+     "sha256": "70a69f2fa8f0b018477cf20f90d47841e7b436acdfc2f0c1f0832f162a7528d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3362-2017",
+   "path": "ordin/educatie/2017/3362",
+   "short": "Ordin educatie nr. 3362/2017",
+   "title": "Ordinul nr. 3.362/2017 privind aprobarea Metodologiei de monitorizare specială a Universității \"Tibiscus\" din Timișoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187111",
+   "versions": [
+    {
+     "from": "2017-03-08",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187111",
+     "sha256": "7462bc6f49a1a2eecc9685a69083bc9b5a12c896bf96f2b93c396888440ec763"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3366-2017",
+   "path": "ordin/educatie/2017/3366",
+   "short": "Ordin educatie nr. 3366/2017",
+   "title": "Ordinul nr. 3.366/2017 privind aprobarea calendarului sesiunii speciale de bacalaureat 2017 pentru absolvenții de liceu participanți la loturile naționale lărgite ce se pregătesc pentru competițiile internaționale, precum și pentru absolvenții de liceu care susțin examenul de admitere în universitățile din străinătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187041",
+   "versions": [
+    {
+     "from": "2017-03-03",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187041",
+     "sha256": "027797e6186ab33adf02e2468a13b99854b8af6339d8a51899be36ef48442d63"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3384-2017",
+   "path": "ordin/educatie/2017/3384",
+   "short": "Ordin educatie nr. 3384/2017",
+   "title": "Ordinul nr. 3.384/2017 pentru aprobarea anexelor nr. 1-21 la Centralizatorul privind disciplinele de învățământ, domeniile și specializările, probele de concurs valabile pentru încadrarea personalului didactic din învățământul preuniversitar, precum și disciplinele pentru examenul național de definitivare în învățământ 2017, aprobat prin Ordinul ministrului educației naționale nr. 3.086/2017, cuprinzând disciplinele/modulele corespunzătoare profilului posturilor/catedrelor din aria curriculară tehnologii - discipline tehnologice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187684",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187684",
+     "sha256": "a9a0e010f51327316a889ad5f619a47dd830dec767411f440f50a00c9dd213fa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3392-2017",
+   "path": "ordin/educatie/2017/3392",
+   "short": "Ordin educatie nr. 3392/2017",
+   "title": "Ordinul nr. 3.392/2017 privind stabilirea Criteriilor generale de acordare a burselor și a altor forme de sprijin material pentru studenții și cursanții din învățământul superior de stat, învățământ cu frecvență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186993",
+   "versions": [
+    {
+     "from": "2017-03-02",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186993",
+     "sha256": "69f686eb8c4e8914c4475b5d9c1d7e1f7237c5ca919c9f0a4aac04e8e0a79725"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3393-2017",
+   "path": "ordin/educatie/2017/3393",
+   "short": "Ordin educatie nr. 3393/2017",
+   "title": "Ordinul nr. 3.393/2017 privind aprobarea programelor școlare pentru învățământul gimnazial",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187067",
+   "versions": [
+    {
+     "from": "2017-03-07",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187067",
+     "sha256": "2850cb2dc97d363712070cab964d75f3a4173feb06dbf4e93259a16b4b1ecc90"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3411-2017",
+   "path": "ordin/educatie/2017/3411",
+   "short": "Ordin educatie nr. 3411/2017",
+   "title": "Ordinul nr. 3.411/2017 privind elaborarea manualelor școlare pentru clasa a V-a în anul școlar 2017-2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187116",
+   "versions": [
+    {
+     "from": "2017-03-08",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187116",
+     "sha256": "f64279e19ddc575c95a45ef8d7e9176418dcc70866f9c72ea6a6c668b6dc3bd6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3443-2017",
+   "path": "ordin/educatie/2017/3443",
+   "short": "Ordin educatie nr. 3443/2017",
+   "title": "Ordinul nr. 3.443/2017 privind organizarea sesiunii speciale de evaluare națională - 2017, pentru elevii din clasa a VIII-a participanți la loturile naționale lărgite ce se pregătesc pentru olimpiadele și concursurile internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187598",
+   "versions": [
+    {
+     "from": "2017-03-20",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187598",
+     "sha256": "f64416e3719b8becf080b6be4d34d90f62bb27e016126819710b244b68fb015d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3473-2017",
+   "path": "ordin/educatie/2017/3473",
+   "short": "Ordin educatie nr. 3473/2017",
+   "title": "Ordinul nr. 3.473/2017 privind aprobarea Metodologiei de primire la studii și școlarizare a cetățenilor străini începând cu anul școlar/universitar 2017-2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187981",
+   "versions": [
+    {
+     "from": "2017-04-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187981",
+     "sha256": "e095c5582a6bc7d7dac0654fa942e6716adbd8384a2e23cbb56a7cf82bb29a29"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3475-2017",
+   "path": "ordin/educatie/2017/3475",
+   "short": "Ordin educatie nr. 3475/2017",
+   "title": "Ordinul nr. 3.475/2017 pentru aprobarea Metodologiei de înscriere și înregistrare a calificărilor din învățământul superior în Registrul Național al Calificărilor din Învățământul Superior (RNCIS)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187712",
+   "versions": [
+    {
+     "from": "2017-03-24",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187712",
+     "sha256": "88f94fef2b272dafe4cf47c27f6b1e252fdc6c649ffc2d776bab9045887c1d07"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3554-2017",
+   "path": "ordin/educatie/2017/3554",
+   "short": "Ordin educatie nr. 3554/2017",
+   "title": "Ordinul nr. 3.554/2017 privind aprobarea Metodologiei de organizare și funcționare a învățământului dual",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187979",
+   "versions": [
+    {
+     "from": "2017-04-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187979",
+     "sha256": "df4fcf0b75e422cab1a4b490b3e8e66648567c4fe7f9efd4634cf4640b95b0a1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3556-2017",
+   "path": "ordin/educatie/2017/3556",
+   "short": "Ordin educatie nr. 3556/2017",
+   "title": "Ordinul nr. 3.556/2017 privind aprobarea Metodologiei-cadru de organizare și desfășurare a admiterii în învățământul dual pentru calificări profesionale de nivel 3, conform Cadrului național al calificărilor și a Calendarului admiterii în învățământul profesional dual de stat pentru calificări profesionale de nivel 3, conform Cadrului național al calificărilor, pentru anul școlar 2017-2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187943",
+   "versions": [
+    {
+     "from": "2017-04-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187943",
+     "sha256": "f7fcd999faab3341d71d6f245605744fee667d7eb9d5c994dab797e234715b82"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3623-2017",
+   "path": "ordin/educatie/2017/3623",
+   "short": "Ordin educatie nr. 3623/2017",
+   "title": "Ordinul nr. 3.623/2017 pentru aprobarea Metodologiei privind evaluarea anuală a activității manageriale desfășurate de directorii și directorii adjuncți din unitățile de învățământ preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189028",
+   "versions": [
+    {
+     "from": "2017-05-05",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189028",
+     "sha256": "d60b7e873d8b5b5761d9d2710d2404bfcaf9a0e8278f1721f7daa1aaab0b7d92"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3630-2017",
+   "path": "ordin/educatie/2017/3630",
+   "short": "Ordin educatie nr. 3630/2017",
+   "title": "Ordinul nr. 3.630/2017 privind constituirea și utilizarea fondului pentru finanțarea situațiilor speciale care nu pot fi integrate în formula de finanțare a instituțiilor de învățământ superior de stat, pentru anul 2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188463",
+   "versions": [
+    {
+     "from": "2017-04-20",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188463",
+     "sha256": "3be6101a5b482c08105847d22f9f22bbd2a4324339b4ca47495e179afaa56a60"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3780-2017",
+   "path": "ordin/educatie/2017/3780",
+   "short": "Ordin educatie nr. 3780/2017",
+   "title": "Ordinul nr. 3.780/2017 privind aprobarea Calendarului etapelor și acțiunilor pentru stabilirea cifrei de școlarizare pentru învățământul dual din cifra de școlarizare aprobată pentru anul școlar 2017-2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188584",
+   "versions": [
+    {
+     "from": "2017-04-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188584",
+     "sha256": "ab46598f5d3a537a1b77085042372fa40c64cdde19317d29dc120c49bf661b3c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3850-2017",
+   "path": "ordin/educatie/2017/3850",
+   "short": "Ordin educatie nr. 3850/2017",
+   "title": "Ordinul nr. 3.850/2017 pentru aprobarea Metodologiei-cadru de organizare a programelor de formare psihopedagogică în cadrul instituțiilor de învățământ superior acreditate în vederea certificării competențelor pentru profesia didactică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189278",
+   "versions": [
+    {
+     "from": "2017-05-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189278",
+     "sha256": "4d03bdd0e3acdacbde305a7b9456a49610a9a6fb7149f4f03717d3f51651a980"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3900-2017",
+   "path": "ordin/educatie/2017/3900",
+   "short": "Ordin educatie nr. 3900/2017",
+   "title": "Ordinul nr. 3.900/2017 privind aprobarea Metodologiei de școlarizare a românilor de pretutindeni în învățământul preuniversitar de stat din România, pe locuri de studii fără plata taxelor de școlarizare, dar cu bursă, respectiv fără plata taxelor de școlarizare, dar fără bursă începând cu anul școlar 2017-2018 și a Metodologiei de școlarizare a românilor de pretutindeni în învățământul superior de stat din România, pe locuri de studii fără plata taxelor de școlarizare, dar cu bursă, respectiv fără plata taxelor de școlarizare, dar fără bursă începând cu anul universitar 2017-2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191961",
+   "versions": [
+    {
+     "from": "2017-08-02",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191961",
+     "sha256": "7afdaf6fb65a97b96ab8cf7c1917fedfbcce83b80d69d1ba144108b5f82805e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3904-2017",
+   "path": "ordin/educatie/2017/3904",
+   "short": "Ordin educatie nr. 3904/2017",
+   "title": "Ordinul nr. 3.904/2017 privind aprobarea Metodologiei de monitorizare specială a Universității „Constantin Brâncuși” din Târgu Jiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189604",
+   "versions": [
+    {
+     "from": "2017-05-30",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189604",
+     "sha256": "b39a47676df3881766c676f6e594b1f783512eb135f5f2248ca3579b5ca7161a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3915-2017",
+   "path": "ordin/educatie/2017/3915",
+   "short": "Ordin educatie nr. 3915/2017",
+   "title": "Ordinul nr. 3.915/2017 privind aprobarea planurilor de învățământ și a programelor școlare pentru cultura de specialitate și pregătirea practică săptămânală din aria curriculară Tehnologii, precum și pentru pregătirea practică comasată/stagiile de pregătire practică - curriculum în dezvoltare locală - CDL, pentru clasele a X-a, învățământ liceal filiera tehnologică și învățământ profesional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191507",
+   "versions": [
+    {
+     "from": "2017-07-21",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191507",
+     "sha256": "e0cd14774eec6e143c49f44655a4fbcdd6d4237ffc9524c8736ae19a467d92a7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3933-2017",
+   "path": "ordin/educatie/2017/3933",
+   "short": "Ordin educatie nr. 3933/2017",
+   "title": "Ordinul nr. 3.933/2017 privind aprobarea termenelor de plată și a modalităților de raportare a cuantumului de 5% din încasările în valută provenite din taxele achitate de studenții și cursanții străini instituțiilor de învățământ superior de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189589",
+   "versions": [
+    {
+     "from": "2017-05-29",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189589",
+     "sha256": "f00e2e5e77c40a8bcd3a4deef69ef41630656c4df3bc3a2b5b22eed583705c1b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3969-2017",
+   "path": "ordin/educatie/2017/3969",
+   "short": "Ordin educatie nr. 3969/2017",
+   "title": "Ordinul nr. 3.969/2017 pentru aprobarea Metodologiei privind organizarea și desfășurarea concursului pentru ocuparea funcțiilor de director și director adjunct din unitățile de învățământ preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190005",
+   "versions": [
+    {
+     "from": "2017-06-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190005",
+     "sha256": "3b75e4cbd68d164920da8f729b02f0f5f870c5644468b6f7063608383253be09"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4330-2017",
+   "path": "ordin/educatie/2017/4330",
+   "short": "Ordin educatie nr. 4330/2017",
+   "title": "Ordinul nr. 4.330/2017 privind aprobarea Calendarului desfășurării concursului de selecție a cadrelor didactice pentru constituirea corpului național de experți în management educațional, seria a 12-a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190824",
+   "versions": [
+    {
+     "from": "2017-07-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190824",
+     "sha256": "90420a3eb43c16ffd0ccb30589389622de237bbcbdddcdb4e28e364e54de6c33"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4772-2017",
+   "path": "ordin/educatie/2017/4772",
+   "short": "Ordin educatie nr. 4772/2017",
+   "title": "Ordinul nr. 4.772/2017 privind aprobarea modelului \"Fișei competențelor și a disciplinelor/temelor\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193181",
+   "versions": [
+    {
+     "from": "2017-09-13",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193181",
+     "sha256": "3275dffe8dc0b2083367ee57b67eac97791b3791befc5b0265d3b53742a1e2d1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4783-2017",
+   "path": "ordin/educatie/2017/4783",
+   "short": "Ordin educatie nr. 4783/2017",
+   "title": "Ordinul nr. 4.783/2017 privind aprobarea Regulamentului de organizare și funcționare a Consiliului de etică și management universitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193265",
+   "versions": [
+    {
+     "from": "2017-09-19",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193265",
+     "sha256": "2855443a23b491e946eb90aa0da30e37868e2731023aa5e6e7ac9cd25e33816f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4787-2017",
+   "path": "ordin/educatie/2017/4787",
+   "short": "Ordin educatie nr. 4787/2017",
+   "title": "Ordinul nr. 4.787/2017 privind aprobarea Calendarului de administrare a evaluărilor naționale la finalul claselor a II-a, a IV-a și a VI-a în anul școlar 2017-2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193390",
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193390",
+     "sha256": "97ff7bd46e25965032dc6a5383ebfb698036487a6b5dcebd432e9164a36b2247"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4792-2017",
+   "path": "ordin/educatie/2017/4792",
+   "short": "Ordin educatie nr. 4792/2017",
+   "title": "Ordinul nr. 4.792/2017 privind organizarea și desfășurarea examenului de bacalaureat național - 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193206",
+   "versions": [
+    {
+     "from": "2017-09-14",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193206",
+     "sha256": "bc0a716640e247b45ca12e38ee6ccbc0dcc54b78ab9a19883b773fbbc19f847d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4794-2017",
+   "path": "ordin/educatie/2017/4794",
+   "short": "Ordin educatie nr. 4794/2017",
+   "title": "Ordinul nr. 4.794/2017 privind organizarea și desfășurarea admiterii în învățământul liceal de stat pentru anul școlar 2018-2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193197",
+   "versions": [
+    {
+     "from": "2017-09-14",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193197",
+     "sha256": "678e29622d61a0b42947e7c3b0b673b1bfcc20f25770a3aacb2176069c253ad5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4795-2017",
+   "path": "ordin/educatie/2017/4795",
+   "short": "Ordin educatie nr. 4795/2017",
+   "title": "Ordinul nr. 4.795/2017 privind organizarea, desfășurarea și calendarul admiterii în învățământul profesional de stat și în învățământul dual pentru anul școlar 2018-2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193214",
+   "versions": [
+    {
+     "from": "2017-09-15",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193214",
+     "sha256": "c3def52c25c39e915c8605805983d733e9ba843b5d621fe769b9eb2af784f926"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4798-2017",
+   "path": "ordin/educatie/2017/4798",
+   "short": "Ordin educatie nr. 4798/2017",
+   "title": "Ordinul nr. 4.798/2017 privind aprobarea Contractului de pregătire practică a elevilor din învățământul dual",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193801",
+   "versions": [
+    {
+     "from": "2017-10-06",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193801",
+     "sha256": "3840c6aac97d1b69e0737ba95154da905d997fcdea1e2834fdc9d910c550fcdc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4814-2017",
+   "path": "ordin/educatie/2017/4814",
+   "short": "Ordin educatie nr. 4814/2017",
+   "title": "Ordinul nr. 4.814/2017 privind aprobarea Metodologiei-cadru de organizare și desfășurare a examenului național de definitivare în învățământ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193216",
+   "versions": [
+    {
+     "from": "2017-09-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193216",
+     "sha256": "ed23b7b4103839bf7036bdc0385fa154a64e6154f308ceae54b3976af81e252f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4815-2017",
+   "path": "ordin/educatie/2017/4815",
+   "short": "Ordin educatie nr. 4815/2017",
+   "title": "Ordinul nr. 4.815/2017 privind aprobarea Calendarului de organizare și desfășurare a examenului național de definitivare în învățământ în anul școlar 2017-2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193274",
+   "versions": [
+    {
+     "from": "2017-09-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193274",
+     "sha256": "77ece65ac0e3a44e353faf9af3037b4971472cf80c503acb9b0d977c356c78ee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5061-2017",
+   "path": "ordin/educatie/2017/5061",
+   "short": "Ordin educatie nr. 5061/2017",
+   "title": "Ordinul nr. 5.061/2017 pentru aprobarea Metodologiei-cadru privind asigurarea omologării mijloacelor de învățământ în vederea utilizării lor în învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193652",
+   "versions": [
+    {
+     "from": "2017-09-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193652",
+     "sha256": "200c7c32acc97f433e5c28ef17d60a089642761b943353b35438a18f4a62a695"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5063-2017",
+   "path": "ordin/educatie/2017/5063",
+   "short": "Ordin educatie nr. 5063/2017",
+   "title": "Ordinul nr. 5.063/2017 de stabilire a tarifelor percepute de Centrul Național de Evaluare și Examinare pentru activități derulate în vederea aprobării auxiliarelor didactice utilizate în învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193732",
+   "versions": [
+    {
+     "from": "2017-10-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193732",
+     "sha256": "66dc3f3ca01d30f62961cb4477fb770177c01223b63da8834e8589a1b4f815df"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5376-2017",
+   "path": "ordin/educatie/2017/5376",
+   "short": "Ordin educatie nr. 5376/2017",
+   "title": "Ordinul nr. 5.376/2017 privind aprobarea domeniilor și specializărilor/programelor de studii universitare corelate cu sectoarele economice cu potențial de creștere în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194263",
+   "versions": [
+    {
+     "from": "2017-10-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194263",
+     "sha256": "7cabbe3333758812d365d0dd7cea1b119adc6eb8a072f03ab9c6daf411f1a491"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5472-2017",
+   "path": "ordin/educatie/2017/5472",
+   "short": "Ordin educatie nr. 5472/2017",
+   "title": "Ordinul nr. 5.472/2017 pentru aprobarea Metodologiei privind fundamentarea cifrei de școlarizare pentru învățământul preuniversitar de stat, evidența efectivelor de preșcolari și elevi școlarizați în unitățile de învățământ particular, precum și emiterea avizului conform în vederea organizării rețelei unităților de învățământ preuniversitar pentru anul școlar 2018-2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194915",
+   "versions": [
+    {
+     "from": "2017-11-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194915",
+     "sha256": "5893539b5e95b3a404c470ced52b6e927f6e470e0f5431a3b37acd89a5a4898f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5473-2017",
+   "path": "ordin/educatie/2017/5473",
+   "short": "Ordin educatie nr. 5473/2017",
+   "title": "Ordinul nr. 5.473/2017 pentru aprobarea Metodologiei privind evaluarea anuală a activității cluburilor sportive universitare și a fluxurilor aferente procesului de alocare a subvențiilor de la bugetul de stat pentru cluburile sportive studențești din subordinea Ministerului Educației Naționale și din subordinea instituțiilor de învățământ superior de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195603",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195603",
+     "sha256": "7b3a839bc2ac21dc821ff3eaa5aab1b57fb3458b9308672c52bb8825159ca6c1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5638-2017",
+   "path": "ordin/educatie/2017/5638",
+   "short": "Ordin educatie nr. 5638/2017",
+   "title": "Ordinul nr. 5.638/2017 privind aprobarea programei școlare a disciplinei opționale pentru învățământul liceal \"Adolescență și autocunoaștere - clasele IX-XII\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196410",
+   "versions": [
+    {
+     "from": "2018-01-08",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196410",
+     "sha256": "428ab5f5ad04db85eeb17f64a491b725fefc754143efc30cafba3f0d63e23e19"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5645-2017",
+   "path": "ordin/educatie/2017/5645",
+   "short": "Ordin educatie nr. 5645/2017",
+   "title": "Ordinul nr. 5.645/2017 privind aprobarea Metodologiei de evaluare a calității proiectelor de manuale școlare pentru învățământul preuniversitar pentru anul școlar 2018-2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196389",
+   "versions": [
+    {
+     "from": "2018-01-05",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196389",
+     "sha256": "6a266c8409ff2f19f6c9fa204f1a616c6133a65a404f29119926ec644386bb03"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5671-2017",
+   "path": "ordin/educatie/2017/5671",
+   "short": "Ordin educatie nr. 5671/2017",
+   "title": "Ordinul nr. 5.671/2017 privind nominalizarea Autorității Naționale pentru Calificări în calitatea de Centru Național Europass în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197206",
+   "versions": [
+    {
+     "from": "2018-01-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197206",
+     "sha256": "f8db2086fca7cd6b2e32684db6822c9b31d7d2b3030c8fcc635465e918ffffed"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5676-2017",
+   "path": "ordin/educatie/2017/5676",
+   "short": "Ordin educatie nr. 5676/2017",
+   "title": "Ordinul nr. 5.676/2017 privind aprobarea unor programe școlare pentru învățământul primar și pentru învățământul gimnazial",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196807",
+   "versions": [
+    {
+     "from": "2018-01-18",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196807",
+     "sha256": "0374a7d706f1503a9a85a8960c40237807a840977a0905f8657f17d5aec57436"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5677-2017",
+   "path": "ordin/educatie/2017/5677",
+   "short": "Ordin educatie nr. 5677/2017",
+   "title": "Ordinul nr. 5.677/2017 privind aprobarea unor programe școlare pentru învățământul liceal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198059",
+   "versions": [
+    {
+     "from": "2018-02-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198059",
+     "sha256": "25a413d631fbcb4d852cf8f0e7821e1e6d9e1214a47df93119209a917364e0b5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5863-2017",
+   "path": "ordin/educatie/2017/5863",
+   "short": "Ordin educatie nr. 5863/2017",
+   "title": "Ordinul nr. 5.863/2017 privind aprobarea programelor școlare pentru disciplina opțională \"Pregătiți pentru viață. Educație pentru viață și comunitate\", clasa pregătitoare - clasa a IV-a și clasele a V-a - a VIII-a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196752",
+   "versions": [
+    {
+     "from": "2018-01-17",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196752",
+     "sha256": "4fcf18f45c0486d978f04d43ca982b4fbd27429458ceebe28ea2a655f9b86d93"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5864-2017",
+   "path": "ordin/educatie/2017/5864",
+   "short": "Ordin educatie nr. 5864/2017",
+   "title": "Ordinul nr. 5.864/2017 privind aprobarea programelor școlare pentru disciplina opțională \"Mai întâi caracterul\" din învățământul primar și gimnazial",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197160",
+   "versions": [
+    {
+     "from": "2018-01-26",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197160",
+     "sha256": "d7de0362757aefc0922b4cc747e474d716e1e9a43611ec9baa5b8f881f8dbaac"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1-2017",
    "path": "ordin/finante/2017/1",
    "short": "Ordin finante nr. 1/2017",
@@ -5594,6 +6509,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191237",
      "sha256": "81cfd5ca93e22443aa28cb0a26950f2918d5fbbe7582b9f268c0f260f9e0dab6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-guvern-1431-2017",
+   "path": "ordin/guvern/2017/1431",
+   "short": "Ordin guvern nr. 1431/2017",
+   "title": "Ordinul nr. 1.431/2017 privind stabilirea procedurii de efectuare a plății sumelor prevăzute prin hotărâri judecătorești, având ca obiect acordarea unor drepturi de natură salarială stabilite în favoarea personalului din cadrul Secretariatului General al Guvernului și al structurilor, organelor de specialitate ale administrației publice centrale și instituțiilor publice finanțate prin bugetul Secretariatului General al Guvernului, devenite executorii în perioada 1 ianuarie-31 decembrie 2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195127",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195127",
+     "sha256": "e1092ef59b4b4dce5f6a6283bc464a59ab2252c8c29f2f16188bc0f472790f0b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-guvern-563-2017",
+   "path": "ordin/guvern/2017/563",
+   "short": "Ordin guvern nr. 563/2017",
+   "title": "Ordinul nr. 563/2017 privind procedura de selecție a imobilului necesar pregătirii și participării României la procesul demarat în vederea relocării unor instituții/agenții ale Uniunii Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190054",
+   "versions": [
+    {
+     "from": "2017-06-12",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190054",
+     "sha256": "a091eff928b7e2d44e5d8d546cc9d3da99df29a0c6fa1403f8e896f328e9e351"
     }
    ]
   },
@@ -6813,6 +7758,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1078-2017",
+   "path": "ordin/mediu/2017/1078",
+   "short": "Ordin mediu nr. 1078/2017",
+   "title": "Ordinul nr. 1.078/2017 privind modificarea Procedurii de emitere a autorizației de mediu, aprobată prin Ordinul ministrului mediului și dezvoltării durabile nr. 1.798/2007, precum și pentru completarea Metodologiei de atribuire în administrare și custodie a ariilor naturale protejate, aprobată prin Ordinul ministrului mediului și schimbărilor climatice nr. 1.052/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191992",
+   "versions": [
+    {
+     "from": "2017-08-02",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191992",
+     "sha256": "8a0d4f0ad066f69f60c3e54f241aaeb851b427120862313fece9623fa66afad3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1093-2017",
    "path": "ordin/mediu/2017/1093",
    "short": "Ordin mediu nr. 1093/2017",
@@ -6824,6 +7784,66 @@
      "units": 26,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194677",
      "sha256": "a99e821bdfb28369b991697c40085b774d185d05d4efec28cc9ca31b1cadbaba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1094-2017",
+   "path": "ordin/mediu/2017/1094",
+   "short": "Ordin mediu nr. 1094/2017",
+   "title": "Ordinul nr. 1.094/2017 pentru modificarea Metodologiei de aprobare a depășirii posibilității anuale cu volumul masei lemnoase din arborete afectate de factori biotici și/sau abiotici, aprobată prin Ordinul ministrului mediului, apelor și pădurilor nr. 884/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192475",
+   "versions": [
+    {
+     "from": "2017-08-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192475",
+     "sha256": "61911f7b0351e3516c8b8eb137758e0d0e9327f63e49ad1116018e4aed8b8dea"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1114-2017",
+   "path": "ordin/mediu/2017/1114",
+   "short": "Ordin mediu nr. 1114/2017",
+   "title": "Ordinul nr. 1.114/2017 pentru modificarea și completarea Metodologiei de aprobare a depășirii posibilității anuale cu volumul masei lemnoase din arborete afectate de factori biotici și/sau abiotici, aprobată prin Ordinul ministrului mediului, apelor și pădurilor nr. 884/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192582",
+   "versions": [
+    {
+     "from": "2017-08-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192582",
+     "sha256": "bfa07f7f4612c99884e95abb3d6039d2cdf914a42869b64cee0d8a3b89326e7f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1116-2017",
+   "path": "ordin/mediu/2017/1116",
+   "short": "Ordin mediu nr. 1116/2017",
+   "title": "Ordinul nr. 1.116/2017 pentru modificarea și completarea Ghidului de finanțare a Programului privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante și eficiente din punct de vedere energetic, 2017-2019, aprobat prin Ordinul viceprim-ministrului, ministrul mediului, nr. 660/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192338",
+   "versions": [
+    {
+     "from": "2017-08-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192338",
+     "sha256": "61b252eb57a9e6bd7c9dfd786cdc827971d25e3254d82e07fc40c1e6f5f91bfb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1117-2017",
+   "path": "ordin/mediu/2017/1117",
+   "short": "Ordin mediu nr. 1117/2017",
+   "title": "Ordinul nr. 1.117/2017 pentru modificarea și completarea Ghidului de finanțare a Programului de stimulare a înnoirii Parcului auto național 2017-2019, aprobat prin Ordinul viceprim-ministrului, ministrul mediului, nr. 661/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192339",
+   "versions": [
+    {
+     "from": "2017-08-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192339",
+     "sha256": "5f7d53b34a16f99488e73d028d5bc07d5a8ca17c52f609993f39e7d5a495745f"
     }
    ]
   },
@@ -6963,6 +7983,51 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1372-2017",
+   "path": "ordin/mediu/2017/1372",
+   "short": "Ordin mediu nr. 1372/2017",
+   "title": "Ordinul nr. 1.372/2017 privind prorogarea termenului prevăzut la art. II din Ordinul ministrului mediului, apelor și pădurilor nr. 2.526/2016 pentru completarea Metodologiei privind organizarea și funcționarea SUMAL, obligațiile utilizatorilor SUMAL, precum și structura și modalitatea de transmitere a informațiilor standardizate, aprobate prin Ordinul ministrului delegat pentru ape, păduri și piscicultură nr. 837/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194126",
+   "versions": [
+    {
+     "from": "2017-10-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194126",
+     "sha256": "5ec125e8f3fcb27a0ef20509d729e927bd515769ab4a150dc17d77d05a05d7ac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1391-2017",
+   "path": "ordin/mediu/2017/1391",
+   "short": "Ordin mediu nr. 1391/2017",
+   "title": "Ordinul nr. 1.391/2017 pentru modificarea și completarea Regulamentului privind atribuirea în gestiune a faunei cinegetice, aprobat prin Ordinul ministrului mediului, apelor și pădurilor nr. 2.020/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194559",
+   "versions": [
+    {
+     "from": "2017-11-07",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194559",
+     "sha256": "4f995ef7cac461ec5fcabf87c30c194c2a8401abafd5e755c746a87f1b3539fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1397-2017",
+   "path": "ordin/mediu/2017/1397",
+   "short": "Ordin mediu nr. 1397/2017",
+   "title": "Ordinul nr. 1.397/2017 pentru modificarea anexelor nr. 1-5 la Ordinul ministrului agriculturii, alimentației și pădurilor nr. 193/2002 privind reactualizarea delimitării fondului cinegetic al României în fonduri de vânătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194550",
+   "versions": [
+    {
+     "from": "2017-11-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194550",
+     "sha256": "8b038c959da693c1950da04e9fa64fddf0f0339454282ceb7658efc963470be6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1430-2017",
    "path": "ordin/mediu/2017/1430",
    "short": "Ordin mediu nr. 1430/2017",
@@ -6974,6 +8039,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197603",
      "sha256": "22bad08b7e5055535864ed62ffe7b61a5cb601ffb25c778f457e12212d54720d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1433-2017",
+   "path": "ordin/mediu/2017/1433",
+   "short": "Ordin mediu nr. 1433/2017",
+   "title": "Ordinul nr. 1.433/2017 privind modificarea și completarea Metodologiei de avizare a tarifelor instituite de către administratorii/custozii ariilor naturale protejate pentru vizitarea ariilor naturale protejate, pentru analizarea documentațiilor și eliberarea de avize conform legii, pentru fotografiatul și filmatul în scop comercial, aprobată prin Ordinul ministrului mediului și pădurilor nr. 3.836/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195645",
+   "versions": [
+    {
+     "from": "2017-12-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195645",
+     "sha256": "b5069390b5602d02ddc90023e2317c4ece43d0f9ccd6fa9c2a008f2e05360bc1"
     }
    ]
   },
@@ -7008,6 +8088,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1503-2017",
+   "path": "ordin/mediu/2017/1503",
+   "short": "Ordin mediu nr. 1503/2017",
+   "title": "Ordinul nr. 1.503/2017 privind modificarea și completarea Ordinului ministrului mediului și gospodăririi apelor nr. 578/2006 pentru aprobarea Metodologiei de calcul al contribuțiilor și taxelor datorate la Fondul pentru mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196227",
+   "versions": [
+    {
+     "from": "2017-12-28",
+     "units": 111,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196227",
+     "sha256": "4b0406a13c0ec6fda17138b9a1c1d03e99c689d5f2e8221a96a6b4a4984c94ac"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1529-2017",
    "path": "ordin/mediu/2017/1529",
    "short": "Ordin mediu nr. 1529/2017",
@@ -7019,6 +8114,51 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196337",
      "sha256": "c099522fb28192c6fab7590509d307c092ce4e65364dd8c57758cc5e3955ef3c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1598-2017",
+   "path": "ordin/mediu/2017/1598",
+   "short": "Ordin mediu nr. 1598/2017",
+   "title": "Ordinul nr. 1.598/2017 privind modificarea pct. 9 din anexa nr. 6 la Regulamentul privind atestarea persoanelor juridice care realizează lucrări de regenerare și întreținere a semințișurilor și plantațiilor, lucrări de îngrijire a arboretelor, precum și atestarea persoanelor fizice și juridice care efectuează proiectarea și/sau execută lucrări de îmbunătățiri funciare în domeniul silvic, aprobat prin Ordinul ministrului mediului, apelor și pădurilor nr. 1.763/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196429",
+   "versions": [
+    {
+     "from": "2018-01-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196429",
+     "sha256": "9a9e1e64fa0f8bd37fef236205945195fb8a17f3d552a1f2919bda95356e8599"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1620-2017",
+   "path": "ordin/mediu/2017/1620",
+   "short": "Ordin mediu nr. 1620/2017",
+   "title": "Ordinul nr. 1.620/2017 privind modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 219/2008 pentru aprobarea modelului-cadru al contractului de gestionare a faunei cinegetice de pe suprafața fondurilor de vânătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197488",
+   "versions": [
+    {
+     "from": "2018-02-05",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197488",
+     "sha256": "c6bb8a2426e48d161be8a5374f941fa0118827fcceb659bb6c4332ac62bac74e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-208-2017",
+   "path": "ordin/mediu/2017/208",
+   "short": "Ordin mediu nr. 208/2017",
+   "title": "Ordinul nr. 208/2017 pentru completarea art. 5 din Instrucțiunile privind termenele, modalitățile și perioadele de colectare, scoatere și transport al materialului lemnos, aprobate prin Ordinul ministrului mediului și pădurilor nr. 1.540/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187912",
+   "versions": [
+    {
+     "from": "2017-04-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187912",
+     "sha256": "69fcc0505540ffecb897ed4886480b09adebb523c5c36753307eed9d049a72cb"
     }
    ]
   },
@@ -7038,6 +8178,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-318-2017",
+   "path": "ordin/mediu/2017/318",
+   "short": "Ordin mediu nr. 318/2017",
+   "title": "Ordinul nr. 318/2017 privind prorogarea termenului prevăzut la art. II din Ordinul ministrului mediului, apelor și pădurilor nr. 2.526/2016 pentru completarea Metodologiei privind organizarea și funcționarea SUMAL, obligațiile utilizatorilor SUMAL, precum și structura și modalitatea de transmitere a informațiilor standardizate, aprobată prin Ordinul ministrului delegat pentru ape, păduri și piscicultură nr. 837/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188461",
+   "versions": [
+    {
+     "from": "2017-04-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188461",
+     "sha256": "ab01be22b0171d838674f192123a89afebb4b349bdd7085b7bfefc037e9a7a71"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-428-2017",
    "path": "ordin/mediu/2017/428",
    "short": "Ordin mediu nr. 428/2017",
@@ -7049,6 +8204,21 @@
      "units": 18,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189316",
      "sha256": "94b07f6e18252732a2c4d9760b63a74fa4c53a79aebcd2f5fb7c50268f44692c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-459-2017",
+   "path": "ordin/mediu/2017/459",
+   "short": "Ordin mediu nr. 459/2017",
+   "title": "Ordinul nr. 459/2017 privind modificarea și completarea anexei nr. 2 la Ordinul ministrului mediului și schimbărilor climatice nr. 1.601/2013 pentru aprobarea listei cu aplicații care beneficiază de derogare de la restricția prevăzută la art. 4 alin. (1) din Hotărârea Guvernului nr. 322/2013 privind restricțiile de utilizare a anumitor substanțe periculoase în echipamentele electrice și electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187657",
+   "versions": [
+    {
+     "from": "2017-03-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187657",
+     "sha256": "0b78a56225717aab8b34fc3d67cb3b2dc7845a899ceb8c7298882cbe2abb22da"
     }
    ]
   },
@@ -7203,6 +8373,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-758-2017",
+   "path": "ordin/mediu/2017/758",
+   "short": "Ordin mediu nr. 758/2017",
+   "title": "Ordinul nr. 758/2017 privind modificarea Ordinului ministrului mediului și pădurilor nr. 1.004/2011 pentru aprobarea modelului și conținutului formularului „Decizie de impunere privind aplicarea penalității prevăzute în cazul nerestituirii certificatelor de emisii de gaze cu efect de seră”",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189417",
+   "versions": [
+    {
+     "from": "2017-05-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189417",
+     "sha256": "045e5c7866c01e97b33892ee04fd30b9288baf2e5549d40a5dd99d0da4cda391"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-838-2017",
    "path": "ordin/mediu/2017/838",
    "short": "Ordin mediu nr. 838/2017",
@@ -7229,6 +8414,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190316",
      "sha256": "dfd10dcfa7dba3d2ae43c251c6c092aef856dbc5cc67485dea725b9670e2e61e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-857-2017",
+   "path": "ordin/mediu/2017/857",
+   "short": "Ordin mediu nr. 857/2017",
+   "title": "Ordinul nr. 857/2017 pentru modificarea și completarea Ghidului de finanțare a Programului privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea infrastructurii pentru vehiculele de transport rutier nepoluant din punct de vedere energetic: stații de reîncărcare pentru vehicule electrice și electrice hibrid plug-in, aprobat prin Ordinul ministrului mediului, apelor și pădurilor nr. 1.559/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190323",
+   "versions": [
+    {
+     "from": "2017-06-22",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190323",
+     "sha256": "3b7bff2ef2e77f8a49ccdbeec3031072b3762d71dece95bf5048e020c883321f"
     }
    ]
   },

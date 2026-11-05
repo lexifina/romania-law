@@ -2,7 +2,7 @@
 
 Instrucțiuni finante nr. 20240/2002 · 1 versions, from 2002-07-30 (latest in force: 2002-07-30) · <https://legislatie.just.ro/Public/DetaliiDocument/37715>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 abonamentului pentru beneficiarii Legii nr. 44/1994): it is an image, and the official text holds no text for it; Anexa nr. 2 (2 Emitent............... MODELUL tabelului nominal pentru eliberarea abonamentelor pentru beneficiarii Legii nr. 44/1994 cu valabilitate.......... ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 abonamentului pentru beneficiarii Legii nr. 44/1994): it is an image, and the official text holds no text for it.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -18,6 +18,8 @@ Instrucțiuni finante nr. 20240/2002 · 1 versions, from 2002-07-30 (latest in f
 | Art. 10 | [art-010.md](art-010.md) | 0 |  |
 | Art. 11 | [art-011.md](art-011.md) | 0 |  |
 | Art. 12 | [art-012.md](art-012.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 | Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
 | Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 | Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
@@ -31,7 +33,7 @@ Act id: `instructiuni-finante-20240-2002` (tags `instructiuni-finante-20240-2002
 - Instrucțiuni finante nr. 20240/2002: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Instrucțiuni finante nr. 20240/2002: the first version is the instructions as published in Monitorul Oficial nr. 560 of 30 July 2002 (document 37715 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Instrucțiuni finante nr. 20240/2002: the signatures and the place and date line after its last article are not article text.
+- Instrucțiuni finante nr. 20240/2002: Anexa nr. 2 (2 Emitent............... MODELUL tabelului nominal pentru eliberarea abonamentelor pentru beneficiarii Legii nr. 44/1994 cu valabilitate..........) is part of the instructions and is published in its folder, anexa-2/ (paragraphs and tables), from document 37715 of the official web service.
 - Instrucțiuni finante nr. 20240/2002: Anexa nr. 3 (3 M.L.P.T.L S.C. - METROREX - S.A. MODELUL situației centralizatoare cuprinzând numărul de călători transportați, beneficiari ai Legii nr. 44/1994 în luna......... Nr. crt. Stația Numărul de călători) is part of the instructions and is published in its folder, anexa-3/ (paragraphs), from document 37715 of the official web service.
 - Instrucțiuni finante nr. 20240/2002: Anexa nr. 4 (4 M.L.P.T.L S.C. - METROREX - S.A. MODELUL formularului centralizator de decont cuprinzând beneficiarii Legii nr. 44/1994 în luna........... Nr. crt. Numărul total de călători transportați Valoarea un) is part of the instructions and is published in its folder, anexa-4/ (paragraphs), from document 37715 of the official web service.
 - Instrucțiuni finante nr. 20240/2002: Anexa nr. 1 (1 abonamentului pentru beneficiarii Legii nr. 44/1994) is not included yet: it is an image, and the official text holds no text for it. It will be added when it can be published in full.
-- Instrucțiuni finante nr. 20240/2002: Anexa nr. 2 (2 Emitent............... MODELUL tabelului nominal pentru eliberarea abonamentelor pentru beneficiarii Legii nr. 44/1994 cu valabilitate.......... ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

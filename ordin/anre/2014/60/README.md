@@ -2,7 +2,7 @@
 
 Ordin anre nr. 60/2014 · 1 versions, from 2014-07-28 (latest in force: 2014-07-28) · <https://legislatie.just.ro/Public/DetaliiDocument/160189>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 Tariful perceput operatorilor economici care desfășoară activități în sectorul energiei electrice, termice și al gazelor naturale pentru acordarea de ...): it is a table that the official text holds only flattened; Anexa nr. 2 (2 Tariful perceput pentru emiterea de atestate și autorizații operatorilor economici care proiectează, execută, verifică și exploatează instalații electrice și ...): it is a table that the official text holds only flattened; Anexa nr. 3 (3 Tariful perceput pentru autorizarea persoanelor fizice care desfășoară activități în sectorul energiei electrice, termice și gazelor naturale 1. Tariful ...): it is a table that the official text holds only flattened; Anexa nr. 4 (4 TARIFUL ȘI CONTRIBUȚIA BĂNEASCĂ percepute anual de Autoritatea Națională de Reglementare în Domeniul Energiei de la operatori economici ce desfășoară ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 Tariful perceput operatorilor economici care desfășoară activități în sectorul energiei electrice, termice și al gazelor naturale pentru acordarea de ...): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -14,6 +14,12 @@ Ordin anre nr. 60/2014 · 1 versions, from 2014-07-28 (latest in force: 2014-07-
 | Art. 6 | [art-006.md](art-006.md) | 0 |  |
 | Art. 7 | [art-007.md](art-007.md) | 0 |  |
 | Art. 8 | [art-008.md](art-008.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
+| Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
+| Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
 
 Act id: `ordin-anre-60-2014` (tags `ordin-anre-60-2014/<day>`; `python tools/on.py <day> ordin-anre-60-2014`).
 
@@ -23,8 +29,8 @@ Act id: `ordin-anre-60-2014` (tags `ordin-anre-60-2014/<day>`; `python tools/on.
 - Ordin anre nr. 60/2014: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin anre nr. 60/2014: the first version is the order as published in Monitorul Oficial nr. 554 of 28 July 2014 (document 160189 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin anre nr. 60/2014: the signatures and the place and date line after its last article are not article text.
+- Ordin anre nr. 60/2014: Anexa nr. 2 (2 Tariful perceput pentru emiterea de atestate și autorizații operatorilor economici care proiectează, execută, verifică și exploatează instalații electrice și de gaze naturale 1. Tariful pentru emite) is part of the order and is published in its folder, anexa-2/ (paragraphs and tables), from document 160189 of the official web service.
+- Ordin anre nr. 60/2014: Anexa nr. 3 (3 Tariful perceput pentru autorizarea persoanelor fizice care desfășoară activități în sectorul energiei electrice, termice și gazelor naturale 1. Tariful pentru autorizarea electricienilor care proie) is part of the order and is published in its folder, anexa-3/ (paragraphs and tables), from document 160189 of the official web service.
+- Ordin anre nr. 60/2014: Anexa nr. 4 (4 TARIFUL ȘI CONTRIBUȚIA BĂNEASCĂ percepute anual de Autoritatea Națională de Reglementare în Domeniul Energiei de la operatori economici ce desfășoară activități în sectorul energiei electrice, termi) is part of the order and is published in its folder, anexa-4/ (paragraphs and tables), from document 160189 of the official web service.
 - Ordin anre nr. 60/2014: Anexa nr. 1 (1 Tariful perceput operatorilor economici care desfășoară activități în sectorul energiei electrice, termice și al gazelor naturale pentru acordarea de ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anre nr. 60/2014: Anexa nr. 2 (2 Tariful perceput pentru emiterea de atestate și autorizații operatorilor economici care proiectează, execută, verifică și exploatează instalații electrice și ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anre nr. 60/2014: Anexa nr. 3 (3 Tariful perceput pentru autorizarea persoanelor fizice care desfășoară activități în sectorul energiei electrice, termice și gazelor naturale 1. Tariful ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anre nr. 60/2014: Anexa nr. 4 (4 TARIFUL ȘI CONTRIBUȚIA BĂNEASCĂ percepute anual de Autoritatea Națională de Reglementare în Domeniul Energiei de la operatori economici ce desfășoară ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin anre nr. 60/2014: the publisher's notes run into its text (*) "Pe" reprezintă puterea electrică instalată a capacităţilor de producere a energiei electrice.; *) Tariful de analiză:; **) "P" reprezintă puterea electrică aprobată pentru utilizatorii reţelelor electrice deţinute de prestatorul serviciulu; ***) Tariful de analiză:) are not text.

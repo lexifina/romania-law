@@ -191,7 +191,7 @@
    "versions": [
     {
      "from": "2003-08-07",
-     "units": 1,
+     "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45499",
      "sha256": "11001c3d5b42e645c44939c5b63f25e84dbd1fb05979ed61ff7a81eab0ce9e50"
     }
@@ -236,7 +236,7 @@
    "versions": [
     {
      "from": "2003-06-25",
-     "units": 58,
+     "units": 66,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44631",
      "sha256": "edeef2e870ce707e7710f5332d47273743e1bd9fcfd11ccb997c16bc26e3c375"
     }

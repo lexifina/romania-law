@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 2310/2007 · 1 versions, from 2007-12-13 (latest in force: 2007-12-13) · <https://legislatie.just.ro/Public/DetaliiDocument/87856>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌───────────────────┬─────────────────────────────────────────────┬───────────┐ │ Agenția Națională │ DECLARATIE DE INREGISTRARE A CONTRACTELOR │ │ │ de ...): it is a table that the official text holds only flattened; Anexa nr. 2 (2 REGISTRU al contractelor încheiate cu persoane juridice străine sau persoane fizice nerezidente ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -16,6 +16,8 @@ Ordin anaf nr. 2310/2007 · 1 versions, from 2007-12-13 (latest in force: 2007-1
 | Art. 8 | [art-008.md](art-008.md) | 0 |  |
 | Art. 9 | [art-009.md](art-009.md) | 0 |  |
 | Art. 10 | [art-010.md](art-010.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 
 Act id: `ordin-anaf-2310-2007` (tags `ordin-anaf-2310-2007/<day>`; `python tools/on.py <day> ordin-anaf-2310-2007`).
 
@@ -25,5 +27,5 @@ Act id: `ordin-anaf-2310-2007` (tags `ordin-anaf-2310-2007/<day>`; `python tools
 - Ordin anaf nr. 2310/2007: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin anaf nr. 2310/2007: the first version is the order as published in Monitorul Oficial nr. 858 of 13 December 2007 (document 87856 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin anaf nr. 2310/2007: the signatures and the place and date line after its last article are not article text.
-- Ordin anaf nr. 2310/2007: Anexa nr. 1 (1 ┌───────────────────┬─────────────────────────────────────────────┬───────────┐ │ Agenția Națională │ DECLARATIE DE INREGISTRARE A CONTRACTELOR │ │ │ de ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anaf nr. 2310/2007: Anexa nr. 2 (2 REGISTRU al contractelor încheiate cu persoane juridice străine sau persoane fizice nerezidente ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 2310/2007: Anexa nr. 2 (2 REGISTRU al contractelor încheiate cu persoane juridice străine sau persoane fizice nerezidente) is part of the order and is published in its folder, anexa-2/ (paragraphs and tables), from document 87856 of the official web service.
+- Ordin anaf nr. 2310/2007: Anexa nr. 1 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

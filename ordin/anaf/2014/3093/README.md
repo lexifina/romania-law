@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 3093/2014 · 1 versions, from 2014-10-21 (latest in force: 2014-10-21) · <https://legislatie.just.ro/Public/DetaliiDocument/162295>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 3 (3 CERERE de eliberare a adeverinței care atestă modul de îndeplinire a obligației de plată reprezentând contribuția de asigurări sociale de stat ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -14,6 +14,8 @@ Ordin anaf nr. 3093/2014 · 1 versions, from 2014-10-21 (latest in force: 2014-1
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 | Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 
 Act id: `ordin-anaf-3093-2014` (tags `ordin-anaf-3093-2014/<day>`; `python tools/on.py <day> ordin-anaf-3093-2014`).
 
@@ -25,4 +27,4 @@ Act id: `ordin-anaf-3093-2014` (tags `ordin-anaf-3093-2014/<day>`; `python tools
 - Ordin anaf nr. 3093/2014: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 3093/2014: Anexa nr. 1 (1 Procedura privind certificarea modului de îndeplinire de către contribuabili, persoane fizice, obligate să se asigure în sistemul public de pensii, potrivit prevederilor cap. II din titlul IX^2 al L) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 162295 of the official web service.
 - Ordin anaf nr. 3093/2014: Anexa nr. 2 (2 MINISTERUL FINANȚELOR PUBLICE Nr. de înregistrare..... AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ Data emiterii........... Direcția Generală Regională a Finanțelor Publice.......... Administrația Jud) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 162295 of the official web service.
-- Ordin anaf nr. 3093/2014: Anexa nr. 3 (3 CERERE de eliberare a adeverinței care atestă modul de îndeplinire a obligației de plată reprezentând contribuția de asigurări sociale de stat ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 3093/2014: Anexa nr. 3 (3 CERERE de eliberare a adeverinței care atestă modul de îndeplinire a obligației de plată reprezentând contribuția de asigurări sociale de stat) is part of the order and is published in its folder, anexa-3/ (paragraphs and tables), from document 162295 of the official web service.

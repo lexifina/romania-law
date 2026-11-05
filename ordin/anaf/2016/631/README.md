@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 631/2016 · 1 versions, from 2016-02-19 (latest in force: 2016-02-19) · <https://legislatie.just.ro/Public/DetaliiDocument/175976>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 *Font 9* ┌───┬──────────────────────────────────────────────────────────────────────────────────────┐ │ A │ FELUL DECLARAȚIEI │ ...): it is a table that the official text holds only flattened; Anexa nr. 2 (2 *Font 9* ┌───┬──────────────────────────────────────────────────────────────────────────────────────┐ │I.A│ DATE DE IDENTIFICARE A PERSOANEI IMPOZABILE │ ...): it is a table that the official text holds only flattened; Anexa nr. 3 (3 ┌──────────────────────────────────────────────────────────────────────────────┐ │I. DATE DE IDENTIFICARE A PERSOANEI IMPOZABILE │ ...): it is a table that the official text holds only flattened; Anexa nr. 4 (4 ├────────────┴───────────────────────────────────────────┴────────────────────┤ │A. DATE DE IDENTIFICARE A PERSOANEI IMPOZABILE │ ...): it is a table that the official text holds only flattened; Anexa nr. 5 (5 DECIZIE privind anularea înregistrării în scopuri de TVA, în vederea aplicării regimului de scutire prevăzut la art. 310 din Codul fiscal Către: ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 *Font 9*): it is a table that the official text holds only flattened; Anexa nr. 5 (5 DECIZIE privind anularea înregistrării în scopuri de TVA, în vederea aplicării regimului de scutire prevăzut la art. 310 din Codul fiscal Către: ...): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -14,6 +14,12 @@ Ordin anaf nr. 631/2016 · 1 versions, from 2016-02-19 (latest in force: 2016-02
 | Art. 6 | [art-006.md](art-006.md) | 0 |  |
 | Art. 7 | [art-007.md](art-007.md) | 0 |  |
 | Art. 8 | [art-008.md](art-008.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
+| Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
+| Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
 | Anexa nr. 6 (what it is) | [anexa-6/README.md](anexa-6/README.md) | 0 |  |
 | Anexa nr. 6 | [anexa-6/text.md](anexa-6/text.md) | 0 |  |
 
@@ -25,9 +31,9 @@ Act id: `ordin-anaf-631-2016` (tags `ordin-anaf-631-2016/<day>`; `python tools/o
 - Ordin anaf nr. 631/2016: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin anaf nr. 631/2016: the first version is the order as published in Monitorul Oficial nr. 131 of 19 February 2016 (document 175976 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin anaf nr. 631/2016: the signatures and the place and date line after its last article are not article text.
+- Ordin anaf nr. 631/2016: Anexa nr. 1 (1 *Font 9*) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 175976 of the official web service.
+- Ordin anaf nr. 631/2016: Anexa nr. 3 (3) is part of the order and is published in its folder, anexa-3/ (paragraphs and tables), from document 175976 of the official web service.
+- Ordin anaf nr. 631/2016: Anexa nr. 4 (4) is part of the order and is published in its folder, anexa-4/ (paragraphs and tables), from document 175976 of the official web service.
 - Ordin anaf nr. 631/2016: Anexa nr. 6 (6 Caracteristicile de tipărire, modul de difuzare, de utilizare și de păstrare a formularelor I. Declarație de înregistrare în scopuri de TVA/Declarație de mențiuni a altor persoane care efectuează ac) is part of the order and is published in its folder, anexa-6/ (paragraphs), from document 175976 of the official web service.
-- Ordin anaf nr. 631/2016: Anexa nr. 1 (1 *Font 9* ┌───┬──────────────────────────────────────────────────────────────────────────────────────┐ │ A │ FELUL DECLARAȚIEI │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anaf nr. 631/2016: Anexa nr. 2 (2 *Font 9* ┌───┬──────────────────────────────────────────────────────────────────────────────────────┐ │I.A│ DATE DE IDENTIFICARE A PERSOANEI IMPOZABILE │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anaf nr. 631/2016: Anexa nr. 3 (3 ┌──────────────────────────────────────────────────────────────────────────────┐ │I. DATE DE IDENTIFICARE A PERSOANEI IMPOZABILE │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anaf nr. 631/2016: Anexa nr. 4 (4 ├────────────┴───────────────────────────────────────────┴────────────────────┤ │A. DATE DE IDENTIFICARE A PERSOANEI IMPOZABILE │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 631/2016: Anexa nr. 2 (2 *Font 9*) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin anaf nr. 631/2016: Anexa nr. 5 (5 DECIZIE privind anularea înregistrării în scopuri de TVA, în vederea aplicării regimului de scutire prevăzut la art. 310 din Codul fiscal Către: ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

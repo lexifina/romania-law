@@ -2,7 +2,7 @@
 
 Ordin anpc nr. 448/2009 · 1 versions, from 2009-07-14 (latest in force: 2009-07-14) · <https://legislatie.just.ro/Public/DetaliiDocument/109315>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (PANOU EXTERIOR - model - ┌────────────────────────────────────────────────────────────────────────────┐ │ │ │ S.C.................... │ │ │ │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -13,6 +13,8 @@ Ordin anpc nr. 448/2009 · 1 versions, from 2009-07-14 (latest in force: 2009-07
 | Art. 5 | [art-005.md](art-005.md) | 0 |  |
 | Art. 6 | [art-006.md](art-006.md) | 0 |  |
 | Art. 7 | [art-007.md](art-007.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 
 Act id: `ordin-anpc-448-2009` (tags `ordin-anpc-448-2009/<day>`; `python tools/on.py <day> ordin-anpc-448-2009`).
 
@@ -22,4 +24,4 @@ Act id: `ordin-anpc-448-2009` (tags `ordin-anpc-448-2009/<day>`; `python tools/o
 - Ordin anpc nr. 448/2009: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin anpc nr. 448/2009: the first version is the order as published in Monitorul Oficial nr. 467 of 7 July 2009 (document 109315 of the official web service), in force on 14 July 2009, the day it states for itself.
 - Ordin anpc nr. 448/2009: the signatures and the place and date line after its last article are not article text.
-- Ordin anpc nr. 448/2009: Anexa nr. 1 (PANOU EXTERIOR - model - ┌────────────────────────────────────────────────────────────────────────────┐ │ │ │ S.C.................... │ │ │ │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anpc nr. 448/2009: Anexa nr. 1 (PANOU EXTERIOR - model -) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 109315 of the official web service.

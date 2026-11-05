@@ -2,7 +2,7 @@
 
 Ordin cnas nr. 559/2006 · 1 versions, from 2006-12-12 (latest in force: 2006-12-12) · <https://legislatie.just.ro/Public/DetaliiDocument/77656>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 3 (2 MODELUL certificatului provizoriu de înlocuire a cardului european de asigurări sociale de sănătate, precum și instrucțiunile de completare și modalitățile ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -14,6 +14,8 @@ Ordin cnas nr. 559/2006 · 1 versions, from 2006-12-12 (latest in force: 2006-12
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 | Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 
 Act id: `ordin-cnas-559-2006` (tags `ordin-cnas-559-2006/<day>`; `python tools/on.py <day> ordin-cnas-559-2006`).
 
@@ -25,4 +27,4 @@ Act id: `ordin-cnas-559-2006` (tags `ordin-cnas-559-2006/<day>`; `python tools/o
 - Ordin cnas nr. 559/2006: the signatures and the place and date line after its last article are not article text.
 - Ordin cnas nr. 559/2006: Anexa nr. 1 (1 CARACTERISTICILE TEHNICE și modalitățile de eliberare și utilizare ale cardului european de asigurări sociale de sănătate) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 77656 of the official web service.
 - Ordin cnas nr. 559/2006: Anexa nr. 2 (la caracteristicile tehnice CERERE TIP pentru eliberarea cardului european de asigurări sociale de sănătate Către Casa de Asigurări de Sănătate.............. Adresa....................................) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 77656 of the official web service.
-- Ordin cnas nr. 559/2006: Anexa nr. 3 (2 MODELUL certificatului provizoriu de înlocuire a cardului european de asigurări sociale de sănătate, precum și instrucțiunile de completare și modalitățile ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin cnas nr. 559/2006: Anexa nr. 3 (2 MODELUL certificatului provizoriu de înlocuire a cardului european de asigurări sociale de sănătate, precum și instrucțiunile de completare și modalitățile de eliberare și utilizare ale acestuia) is part of the order and is published in its folder, anexa-3/ (paragraphs and tables), from document 77656 of the official web service.

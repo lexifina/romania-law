@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 3454/2016 · 1 versions, from 2016-11-29 (latest in force: 2016-11-29) · <https://legislatie.just.ro/Public/DetaliiDocument/184199>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 6 (6 ANTET*1) Dosar de executare nr............. Nr............. din.............. Către..........................*2) ADRESĂ de înființare a popririi asupra ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -19,6 +19,8 @@ Ordin anaf nr. 3454/2016 · 1 versions, from 2016-11-29 (latest in force: 2016-1
 | Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
 | Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
 | Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
+| Anexa nr. 6 (what it is) | [anexa-6/README.md](anexa-6/README.md) | 0 |  |
+| Anexa nr. 6 | [anexa-6/text.md](anexa-6/text.md) | 0 |  |
 | Anexa nr. 7 (what it is) | [anexa-7/README.md](anexa-7/README.md) | 0 |  |
 | Anexa nr. 7 | [anexa-7/text.md](anexa-7/text.md) | 0 |  |
 
@@ -35,6 +37,6 @@ Act id: `ordin-anaf-3454-2016` (tags `ordin-anaf-3454-2016/<day>`; `python tools
 - Ordin anaf nr. 3454/2016: Anexa nr. 3 (3 Denumirea autorității sau instituției publice............. Adresa.................................................... Codul de identificare fiscală............................. Nr.............. din) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 184199 of the official web service.
 - Ordin anaf nr. 3454/2016: Anexa nr. 4 (4 ANTET*1) Dosar de executare nr........... Nr............. din............ Către*2)........................ ÎNȘTIINȚARE privind aplicarea prevederilor art. 230 din Legea nr. 207/2015 privind Codul de) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 184199 of the official web service.
 - Ordin anaf nr. 3454/2016: Anexa nr. 5 (5 ANTET*1) Dosar de executare nr................. Nr............. din.................. Către*2)............................... cod de identificare fiscală............ str................ nr...., bl..) is part of the order and is published in its folder, anexa-5/ (paragraphs), from document 184199 of the official web service.
+- Ordin anaf nr. 3454/2016: Anexa nr. 6 (6 ANTET*1) Dosar de executare nr............. Nr............. din.............. Către..........................*2) ADRESĂ de înființare a popririi asupra sumelor pe care debitorul le are de încasat de) is part of the order and is published in its folder, anexa-6/ (paragraphs and tables), from document 184199 of the official web service.
 - Ordin anaf nr. 3454/2016: Anexa nr. 7 (7 ANTET*1) Dosar de executare nr................. Nr............ din................... Către...............................*2) DECIZIE DE RIDICARE a măsurilor de executare silită a sumelor pe care de) is part of the order and is published in its folder, anexa-7/ (paragraphs), from document 184199 of the official web service.
-- Ordin anaf nr. 3454/2016: Anexa nr. 6 (6 ANTET*1) Dosar de executare nr............. Nr............. din.............. Către..........................*2) ADRESĂ de înființare a popririi asupra ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin anaf nr. 3454/2016: the publisher's notes run into its text (*1) Se va menţiona denumirea autorităţii sau instituţiei publice care a eliberat atestatul.; *1) Se vor trece sigla conform Ordinului preşedintelui Agenţiei Naţionale de Administrare Fiscală nr. 3.504/2013 privind; *1) Se vor trece sigla conform Ordinului preşedintelui Agenţiei Naţionale de Administrare Fiscală nr. 3.504/2013 privind; *1) Se vor trece sigla conform Ordinului preşedintelui Agenţiei Naţionale de Administrare Fiscală nr. 3.504/2013 privind; *1) Se vor trece sigla conform Ordinului preşedintelui Agenţiei Naţionale de Administrare Fiscală nr. 3.504/2013 privind) are not text.

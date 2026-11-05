@@ -2025,6 +2025,25 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/9157",
 "issuer": "transporturi",
 "joint": []
+},
+{
+"slug": "ordin-vama-23-1996",
+"path": "ordin/vama/1996/23",
+"kind": "ordin",
+"year": "1996",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 23/1996 pentru aprobarea Normelor tehnice privind autorizarea și funcționarea comisionarilor în vamă",
+"short": "Ordin vama nr. 23/1996",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1996-05-15",
+"latest": "1996-05-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/8037",
+"issuer": "vama",
+"joint": []
 }
 ]
 }

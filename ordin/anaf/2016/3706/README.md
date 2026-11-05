@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 3706/2016 · 1 versions, from 2017-01-09 (latest in force: 2017-01-09) · <https://legislatie.just.ro/Public/DetaliiDocument/185541>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 3 (3 Registru privind organizarea evidenței acordurilor încheiate de persoanele fizice rezidente sau nerezidente cu angajatorii străini *Font 8* ...): it is a table that the official text holds only flattened; Anexa nr. 4 (4 Registru privind organizarea evidenței angajaților misiunilor diplomatice, posturilor consulare și reprezentanțelor ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 3 (3 Registru privind organizarea evidenței acordurilor încheiate de persoanele fizice rezidente sau nerezidente cu angajatorii străini *Font 8*): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -18,6 +18,8 @@ Ordin anaf nr. 3706/2016 · 1 versions, from 2017-01-09 (latest in force: 2017-0
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 | Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
+| Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
 
 Act id: `ordin-anaf-3706-2016` (tags `ordin-anaf-3706-2016/<day>`; `python tools/on.py <day> ordin-anaf-3706-2016`).
 
@@ -29,6 +31,6 @@ Act id: `ordin-anaf-3706-2016` (tags `ordin-anaf-3706-2016/<day>`; `python tools
 - Ordin anaf nr. 3706/2016: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 3706/2016: Anexa nr. 1 (1 PROCEDURA de înregistrare a acordurilor încheiate de angajatori nerezidenți care nu au sediu social, sediu permanent sau reprezentanță în România și care datorează contribuțiile sociale obligatorii) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 185541 of the official web service.
 - Ordin anaf nr. 3706/2016: Anexa nr. 2 (2 Aspecte procedurale privind aplicarea prevederilor art. 147 alin. (15), art. 169 alin. (4), art. 191 alin. (3), art. 200 alin. (3), art. 208 alin. (3) și art. 220 alin. (1) din Codul fiscal 1. Angaj) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 185541 of the official web service.
-- Ordin anaf nr. 3706/2016: Anexa nr. 3 (3 Registru privind organizarea evidenței acordurilor încheiate de persoanele fizice rezidente sau nerezidente cu angajatorii străini *Font 8* ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anaf nr. 3706/2016: Anexa nr. 4 (4 Registru privind organizarea evidenței angajaților misiunilor diplomatice, posturilor consulare și reprezentanțelor ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 3706/2016: Anexa nr. 4 (4 Registru privind organizarea evidenței angajaților misiunilor diplomatice, posturilor consulare și reprezentanțelor) is part of the order and is published in its folder, anexa-4/ (paragraphs and tables), from document 185541 of the official web service.
+- Ordin anaf nr. 3706/2016: Anexa nr. 3 (3 Registru privind organizarea evidenței acordurilor încheiate de persoanele fizice rezidente sau nerezidente cu angajatorii străini *Font 8*) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin anaf nr. 3706/2016: the publisher's notes run into its text (*) Se modifică de către organul fiscal competent în situaţia în care în datele prevăzute în acordul iniţial intervin mod) are not text.

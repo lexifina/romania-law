@@ -2,7 +2,7 @@
 
 Ordin anre nr. 39/2004 · 1 versions, from 2005-01-01 (latest in force: 2005-01-01) · <https://legislatie.just.ro/Public/DetaliiDocument/58134>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1.1 TARIFUL BINOM DIFERENȚIAT PE ZONE ORARE ȘI DURATE DE UTILIZARE - A33 Valabile de la 1 ianuarie 2005 *Font 7* ...): it is a table that the official text holds only flattened; Anexa nr. 3 (1.3 TARIFELE ZI-NOAPTE E1 și E2 Valabile de la 1 ianuarie 2005 ┌─────────────────────────┬─────────────────────────┬────────────────────────┐ │ │ E 1 │ E 2 │ │ ...): it is a table that the official text holds only flattened; Anexa nr. 4 (1.4 TARIFELE PENTRU CONSUMATORII CASNICI CARE CUPRIND TAXA PE VALOAREA ADĂUGATĂ Valabile de la 01 ianuarie 2005 *Font 7* Pentru contoare cu plata post consum ...): it is a table that the official text holds only flattened; Anexa nr. 6 (2.1 ZONELE ORARE UTILIZATE LA TARIFUL A33 ┌─────────────────┬─────────────────────────┬──────────────┬──────────────────┐ │ Luna │ Zona vârf │ Zona de gol │ ...): it is a table that the official text holds only flattened; Anexa nr. 7 (2.2 ZONELE ORARE UTILIZATE LA TARIFELE A și B ┌──────────────────┬──────────────────────────┬──────────────────────────┐ │ Luna │ Zona vârf seară │ Zona rest ...): it is a table that the official text holds only flattened; Anexa nr. 8 (2.3 ZONELE ORARE UTILIZATE PENTRU TARIFELE CR3 și CP3 ┌──────────┬──────────────────┬────────────────────┬──────────────────┐ │ SEZON │ Zona de vârf │ Zona de ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 3 (1.3 TARIFELE ZI-NOAPTE E1 și E2 Valabile de la 1 ianuarie 2005): it is a table that the official text holds only flattened; Anexa nr. 8 (2.3 ZONELE ORARE UTILIZATE PENTRU TARIFELE CR3 și CP3): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -28,10 +28,18 @@ Ordin anre nr. 39/2004 · 1 versions, from 2005-01-01 (latest in force: 2005-01-
 | Art. 20 | [art-020.md](art-020.md) | 0 |  |
 | Art. 21 | [art-021.md](art-021.md) | 0 |  |
 | Art. 22 | [art-022.md](art-022.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 | Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
+| Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
 | Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
 | Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
+| Anexa nr. 6 (what it is) | [anexa-6/README.md](anexa-6/README.md) | 0 |  |
+| Anexa nr. 6 | [anexa-6/text.md](anexa-6/text.md) | 0 |  |
+| Anexa nr. 7 (what it is) | [anexa-7/README.md](anexa-7/README.md) | 0 |  |
+| Anexa nr. 7 | [anexa-7/text.md](anexa-7/text.md) | 0 |  |
 
 Act id: `ordin-anre-39-2004` (tags `ordin-anre-39-2004/<day>`; `python tools/on.py <day> ordin-anre-39-2004`).
 
@@ -41,11 +49,11 @@ Act id: `ordin-anre-39-2004` (tags `ordin-anre-39-2004/<day>`; `python tools/on.
 - Ordin anre nr. 39/2004: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin anre nr. 39/2004: the first version is the order as published in Monitorul Oficial nr. 1.247 of 23 December 2004 (document 58134 of the official web service), in force on 1 January 2005, the day it states for itself.
 - Ordin anre nr. 39/2004: the signatures and the place and date line after its last article are not article text.
+- Ordin anre nr. 39/2004: Anexa nr. 1 (1.1 TARIFUL BINOM DIFERENȚIAT PE ZONE ORARE ȘI DURATE DE UTILIZARE - A33 Valabile de la 1 ianuarie 2005 *Font 7*) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 58134 of the official web service.
 - Ordin anre nr. 39/2004: Anexa nr. 2 (1.2 TARIFELE A, B, C și D Valabile de la 1 ianuarie 2005 TARIFELE A, B, C și D Valabile de la 1 ianuarie 2005 Nr. crt. Niveluri de tensiune egale cu cele din punctele de delimitare A instalațiilor PRE) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 58134 of the official web service.
+- Ordin anre nr. 39/2004: Anexa nr. 4 (1.4 TARIFELE PENTRU CONSUMATORII CASNICI CARE CUPRIND TAXA PE VALOAREA ADĂUGATĂ Valabile de la 01 ianuarie 2005 *Font 7* Pentru contoare cu plata post consum) is part of the order and is published in its folder, anexa-4/ (paragraphs and tables), from document 58134 of the official web service.
 - Ordin anre nr. 39/2004: Anexa nr. 5 (1.5 TARIFUL DIFERENTIAT PE ZONE ORARE SI DURATE DE UTILIZARE - A33AP (NUMAI PENTRU AUTOPRODUCATORI CARE LIVREAZA ENERGIE ELECTRICA FILIALELOR DE DISTRIBUTIE SI FURNIZARE) Valabile de la 1 ianuarie 200) is part of the order and is published in its folder, anexa-5/ (paragraphs), from document 58134 of the official web service.
-- Ordin anre nr. 39/2004: Anexa nr. 1 (1.1 TARIFUL BINOM DIFERENȚIAT PE ZONE ORARE ȘI DURATE DE UTILIZARE - A33 Valabile de la 1 ianuarie 2005 *Font 7* ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anre nr. 39/2004: Anexa nr. 3 (1.3 TARIFELE ZI-NOAPTE E1 și E2 Valabile de la 1 ianuarie 2005 ┌─────────────────────────┬─────────────────────────┬────────────────────────┐ │ │ E 1 │ E 2 │ │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anre nr. 39/2004: Anexa nr. 4 (1.4 TARIFELE PENTRU CONSUMATORII CASNICI CARE CUPRIND TAXA PE VALOAREA ADĂUGATĂ Valabile de la 01 ianuarie 2005 *Font 7* Pentru contoare cu plata post consum ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anre nr. 39/2004: Anexa nr. 6 (2.1 ZONELE ORARE UTILIZATE LA TARIFUL A33 ┌─────────────────┬─────────────────────────┬──────────────┬──────────────────┐ │ Luna │ Zona vârf │ Zona de gol │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anre nr. 39/2004: Anexa nr. 7 (2.2 ZONELE ORARE UTILIZATE LA TARIFELE A și B ┌──────────────────┬──────────────────────────┬──────────────────────────┐ │ Luna │ Zona vârf seară │ Zona rest ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anre nr. 39/2004: Anexa nr. 8 (2.3 ZONELE ORARE UTILIZATE PENTRU TARIFELE CR3 și CP3 ┌──────────┬──────────────────┬────────────────────┬──────────────────┐ │ SEZON │ Zona de vârf │ Zona de ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anre nr. 39/2004: Anexa nr. 6 (2.1 ZONELE ORARE UTILIZATE LA TARIFUL A33) is part of the order and is published in its folder, anexa-6/ (paragraphs and tables), from document 58134 of the official web service.
+- Ordin anre nr. 39/2004: Anexa nr. 7 (2.2 ZONELE ORARE UTILIZATE LA TARIFELE A și B) is part of the order and is published in its folder, anexa-7/ (paragraphs and tables), from document 58134 of the official web service.
+- Ordin anre nr. 39/2004: Anexa nr. 3 (1.3 TARIFELE ZI-NOAPTE E1 și E2 Valabile de la 1 ianuarie 2005) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anre nr. 39/2004: Anexa nr. 8 (2.3 ZONELE ORARE UTILIZATE PENTRU TARIFELE CR3 și CP3) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

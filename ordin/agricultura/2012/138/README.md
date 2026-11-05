@@ -2,12 +2,14 @@
 
 Ordin agricultura nr. 138/2012 · 1 versions, from 2012-10-13 (latest in force: 2012-10-13) · <https://legislatie.just.ro/Public/DetaliiDocument/141251>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 (Anexa nr. 4 la regulament) - Model - MINISTERUL AGRICULTURII ȘI DEZVOLTĂRII RURALE COMISIA NAȚIONALĂ DE OMOLOGARE A PRODUSELOR DE PROTECȚIE A PLANTELOR Bd. ...): it is a table that the official text holds only flattened; Anexa nr. 2 (2 (Anexa nr. 5 la regulament) - Model - MINISTERUL AGRICULTURII ȘI DEZVOLTĂRII RURALE COMISIA NAȚIONALĂ DE OMOLOGARE A PRODUSELOR DE PROTECȚIE A PLANTELOR Bd. ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 (Anexa nr. 5 la regulament) - Model - MINISTERUL AGRICULTURII ȘI DEZVOLTĂRII RURALE COMISIA NAȚIONALĂ DE OMOLOGARE A PRODUSELOR DE PROTECȚIE A PLANTELOR Bd. ...): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. I | [art-001.md](art-001.md) | 0 |  |
 | Art. II | [art-002.md](art-002.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 
 Act id: `ordin-agricultura-138-2012` (tags `ordin-agricultura-138-2012/<day>`; `python tools/on.py <day> ordin-agricultura-138-2012`).
 
@@ -18,5 +20,5 @@ Act id: `ordin-agricultura-138-2012` (tags `ordin-agricultura-138-2012/<day>`; `
 - Ordin agricultura nr. 138/2012: the first version is the order as published in Monitorul Oficial nr. 651 of 13 September 2012 (document 141251 of the official web service), in force on 13 October 2012, the day it states for itself.
 - Ordin agricultura nr. 138/2012: the signatures and the place and date line after its last article are not article text.
 - Ordin agricultura nr. 138/2012: a joint order of Ministerul Agriculturii și Dezvoltării Rurale nr. 138 din 2 July 2012; Ministerul Sănătății nr. 748 din 25 July 2012; Ministerul Mediului și Pădurilor nr. 3.370 din 5 September 2012. It is published once, here, under the issuer its EMITENT block lists first; `ordin-sanatate-748-2012`, `ordin-mediu-3370-2012` name it too (data/paths.json aliases).
-- Ordin agricultura nr. 138/2012: Anexa nr. 1 (1 (Anexa nr. 4 la regulament) - Model - MINISTERUL AGRICULTURII ȘI DEZVOLTĂRII RURALE COMISIA NAȚIONALĂ DE OMOLOGARE A PRODUSELOR DE PROTECȚIE A PLANTELOR Bd. ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin agricultura nr. 138/2012: Anexa nr. 1 (1 (Anexa nr. 4 la regulament) - Model - MINISTERUL AGRICULTURII ȘI DEZVOLTĂRII RURALE COMISIA NAȚIONALĂ DE OMOLOGARE A PRODUSELOR DE PROTECȚIE A PLANTELOR Bd. Carol I nr. 2-4, sectorul 3, București Te) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 141251 of the official web service.
 - Ordin agricultura nr. 138/2012: Anexa nr. 2 (2 (Anexa nr. 5 la regulament) - Model - MINISTERUL AGRICULTURII ȘI DEZVOLTĂRII RURALE COMISIA NAȚIONALĂ DE OMOLOGARE A PRODUSELOR DE PROTECȚIE A PLANTELOR Bd. ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

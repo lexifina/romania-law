@@ -2,7 +2,7 @@
 
 Ordin anre nr. 77/2009 · 1 versions, from 2009-10-01 (latest in force: 2009-10-01) · <https://legislatie.just.ro/Public/DetaliiDocument/111390>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1A CONTRACT-CADRU pentru furnizarea reglementată a gazelor naturale la consumatorii casnici nr....... din anul....., luna...., ziua...... I. Părțile ...): its text could not yet be split into provisions without losing or adding words; Anexa nr. 2 (------ la Contractul-cadru pentru furnizarea reglementată a gazelor naturale): it is a table that the official text holds only flattened; Anexa nr. 3 (2A): its text could not yet be split into provisions without losing or adding words; Anexa nr. 6 (1B CONTRACT-CADRU pentru furnizarea reglementată a gazelor naturale la consumatorii noncasnici nr....... din anul....., luna......, ziua....... I. Părțile ...): its text could not yet be split into provisions without losing or adding words; Anexa nr. 7 (1 la Contractul-cadru): it is a table that the official text holds only flattened; Anexa nr. 8 (2 la Contractul-cadru): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1A CONTRACT-CADRU pentru furnizarea reglementată a gazelor naturale la consumatorii casnici nr....... din anul....., luna...., ziua...... I. Părțile ...): its text could not yet be split into provisions without losing or adding words; Anexa nr. 3 (2A): its text could not yet be split into provisions without losing or adding words; Anexa nr. 6 (1B CONTRACT-CADRU pentru furnizarea reglementată a gazelor naturale la consumatorii noncasnici nr....... din anul....., luna......, ziua....... I. Părțile ...): its text could not yet be split into provisions without losing or adding words; Anexa nr. 8 (2 la Contractul-cadru): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -26,6 +26,8 @@ Ordin anre nr. 77/2009 · 1 versions, from 2009-10-01 (latest in force: 2009-10-
 | Anexa nr. 11 (what it is) | [anexa-11/README.md](anexa-11/README.md) | 0 |  |
 | Anexa nr. 11, Art. 1 | [anexa-11/art-001.md](anexa-11/art-001.md) | 0 |  |
 | Anexa nr. 11, Art. 2 | [anexa-11/art-002.md](anexa-11/art-002.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 | Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
 | Anexa nr. 4, Art. 1 | [anexa-4/art-001.md](anexa-4/art-001.md) | 0 |  |
 | Anexa nr. 4, Art. 2 | [anexa-4/art-002.md](anexa-4/art-002.md) | 0 |  |
@@ -37,6 +39,8 @@ Ordin anre nr. 77/2009 · 1 versions, from 2009-10-01 (latest in force: 2009-10-
 | Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
 | Anexa nr. 5, Art. 1 | [anexa-5/art-001.md](anexa-5/art-001.md) | 0 |  |
 | Anexa nr. 5, Art. 2 | [anexa-5/art-002.md](anexa-5/art-002.md) | 0 |  |
+| Anexa nr. 7 (what it is) | [anexa-7/README.md](anexa-7/README.md) | 0 |  |
+| Anexa nr. 7 | [anexa-7/text.md](anexa-7/text.md) | 0 |  |
 | Anexa nr. 9 (what it is) | [anexa-9/README.md](anexa-9/README.md) | 0 |  |
 | Anexa nr. 9, Art. 1 | [anexa-9/art-001.md](anexa-9/art-001.md) | 0 |  |
 | Anexa nr. 9, Art. 2 | [anexa-9/art-002.md](anexa-9/art-002.md) | 0 |  |
@@ -72,14 +76,14 @@ Act id: `ordin-anre-77-2009` (tags `ordin-anre-77-2009/<day>`; `python tools/on.
 - Ordin anre nr. 77/2009: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin anre nr. 77/2009: the first version is the order as published in Monitorul Oficial nr. 632 of 24 September 2009 (document 111390 of the official web service), in force on 1 October 2009, the day it states for itself.
 - Ordin anre nr. 77/2009: the signatures and the place and date line after its last article are not article text.
+- Ordin anre nr. 77/2009: Anexa nr. 2 (------ la Contractul-cadru pentru furnizarea reglementată a gazelor naturale) is part of the order and is published in its folder, anexa-2/ (paragraphs and tables), from document 111390 of the official web service.
 - Ordin anre nr. 77/2009: Anexa nr. 4 (1) is part of the order and is published in its folder, anexa-4/ (7 articles), from document 111390 of the official web service.
 - Ordin anre nr. 77/2009: Anexa nr. 5 (2) is part of the order and is published in its folder, anexa-5/ (2 articles), from document 111390 of the official web service.
+- Ordin anre nr. 77/2009: Anexa nr. 7 (1 la Contractul-cadru) is part of the order and is published in its folder, anexa-7/ (paragraphs and tables), from document 111390 of the official web service.
 - Ordin anre nr. 77/2009: Anexa nr. 9 (2B CONDIȚII-STANDARD pentru furnizarea reglementată a gazelor naturale la consumatorii noncasnici I. Durata contractului) is part of the order and is published in its folder, anexa-9/ (25 articles), from document 111390 of the official web service.
 - Ordin anre nr. 77/2009: Anexa nr. 10 (1) is part of the order and is published in its folder, anexa-10/ (7 articles), from document 111390 of the official web service.
 - Ordin anre nr. 77/2009: Anexa nr. 11 (2) is part of the order and is published in its folder, anexa-11/ (2 articles), from document 111390 of the official web service.
 - Ordin anre nr. 77/2009: Anexa nr. 1 (1A CONTRACT-CADRU pentru furnizarea reglementată a gazelor naturale la consumatorii casnici nr....... din anul....., luna...., ziua...... I. Părțile ...) is not included yet: its text could not yet be split into provisions without losing or adding words. It will be added when it can be published in full.
-- Ordin anre nr. 77/2009: Anexa nr. 2 (------ la Contractul-cadru pentru furnizarea reglementată a gazelor naturale) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin anre nr. 77/2009: Anexa nr. 3 (2A) is not included yet: its text could not yet be split into provisions without losing or adding words. It will be added when it can be published in full.
 - Ordin anre nr. 77/2009: Anexa nr. 6 (1B CONTRACT-CADRU pentru furnizarea reglementată a gazelor naturale la consumatorii noncasnici nr....... din anul....., luna......, ziua....... I. Părțile ...) is not included yet: its text could not yet be split into provisions without losing or adding words. It will be added when it can be published in full.
-- Ordin anre nr. 77/2009: Anexa nr. 7 (1 la Contractul-cadru) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin anre nr. 77/2009: Anexa nr. 8 (2 la Contractul-cadru) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

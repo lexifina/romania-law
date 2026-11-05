@@ -2,7 +2,7 @@
 
 Ordin cnas nr. 236/2006 · 1 versions, from 2006-06-28 (latest in force: 2006-06-28) · <https://legislatie.just.ro/Public/DetaliiDocument/72991>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 3 (B1 FURNIZOR CASA DE ASIGURARI DE SĂNĂTATE CENTRUL-PILOT Raportare pentru LUNA Tabel 1 HEMODIALIZA *Font 7* ...): it is a table that the official text holds only flattened; Anexa nr. 4 (B2 DECLARATIE DE SERVICII LUNARA Desfasurator privind evidenta după CNP a bolnavilor cu IRC beneficiari de hemodializa și dializa peritoneala și a sumelor de ...): it is a table that the official text holds only flattened; Anexa nr. 5 (C Luna/anul....... Județul......... CENTRUL-PILOT.......... DOCUMENT INSOTITOR PRIVIND ACTIVITATEA DE TRANSPORT Nr.... ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -13,6 +13,12 @@ Ordin cnas nr. 236/2006 · 1 versions, from 2006-06-28 (latest in force: 2006-06
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 | Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
+| Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
+| Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
+| Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
+| Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
 
 Act id: `ordin-cnas-236-2006` (tags `ordin-cnas-236-2006/<day>`; `python tools/on.py <day> ordin-cnas-236-2006`).
 
@@ -24,6 +30,6 @@ Act id: `ordin-cnas-236-2006` (tags `ordin-cnas-236-2006/<day>`; `python tools/o
 - Ordin cnas nr. 236/2006: the signatures and the place and date line after its last article are not article text.
 - Ordin cnas nr. 236/2006: Anexa nr. 1 (NORME privind condițiile și modalitatea de decontare a serviciilor de hemodializă și dializă peritoneală în sistem ambulatoriu, contractate de Casa Națională de Asigurări de Sănătate cu furnizorii din) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 72991 of the official web service.
 - Ordin cnas nr. 236/2006: Anexa nr. 2 (A Luna/anul..... Județul....... CENTRUL-PILOT................. SOLICITARE TRANSPORT Nr.......... Nr. crt. Ziua Tura/ Ora CNP bolnav Localitate de domiciliu adresa Nr.km domiciliu centrul-pilot și retu) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 72991 of the official web service.
-- Ordin cnas nr. 236/2006: Anexa nr. 3 (B1 FURNIZOR CASA DE ASIGURARI DE SĂNĂTATE CENTRUL-PILOT Raportare pentru LUNA Tabel 1 HEMODIALIZA *Font 7* ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin cnas nr. 236/2006: Anexa nr. 4 (B2 DECLARATIE DE SERVICII LUNARA Desfasurator privind evidenta după CNP a bolnavilor cu IRC beneficiari de hemodializa și dializa peritoneala și a sumelor de ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin cnas nr. 236/2006: Anexa nr. 5 (C Luna/anul....... Județul......... CENTRUL-PILOT.......... DOCUMENT INSOTITOR PRIVIND ACTIVITATEA DE TRANSPORT Nr.... ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin cnas nr. 236/2006: Anexa nr. 3 (B1 FURNIZOR CASA DE ASIGURARI DE SĂNĂTATE CENTRUL-PILOT Raportare pentru LUNA Tabel 1 HEMODIALIZA *Font 7*) is part of the order and is published in its folder, anexa-3/ (paragraphs and tables), from document 72991 of the official web service.
+- Ordin cnas nr. 236/2006: Anexa nr. 4 (B2 DECLARATIE DE SERVICII LUNARA Desfasurator privind evidenta după CNP a bolnavilor cu IRC beneficiari de hemodializa și dializa peritoneala și a sumelor de decontat FURNIZOR................... CASA) is part of the order and is published in its folder, anexa-4/ (paragraphs and tables), from document 72991 of the official web service.
+- Ordin cnas nr. 236/2006: Anexa nr. 5 (C Luna/anul....... Județul......... CENTRUL-PILOT.......... DOCUMENT INSOTITOR PRIVIND ACTIVITATEA DE TRANSPORT Nr....) is part of the order and is published in its folder, anexa-5/ (paragraphs and tables), from document 72991 of the official web service.

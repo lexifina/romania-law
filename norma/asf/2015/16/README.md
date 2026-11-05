@@ -2,7 +2,7 @@
 
 Norma asf nr. 16/2015 · 1 versions, from 2015-09-02 (latest in force: 2015-09-02) · <https://legislatie.just.ro/Public/DetaliiDocument/171083>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 RAPORTARE privind contribuția datorată și virată la Fondul de garantare a asiguraților pentru luna.......... *Font 7* Denumirea ...): it is a table that the official text holds only flattened; Anexa nr. 2 (2 SITUAȚIA RECTIFICATIVĂ privind contribuția datorată și virată la Fondul de garantare a asiguraților pentru luna.......... *Font 7* Denumirea ...): it is a table that the official text holds only flattened; Anexa nr. 4 (4 Avarii existente............ Data și ora prezentării............................. Data.......... ora..................................... Obținerea din ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 RAPORTARE privind contribuția datorată și virată la Fondul de garantare a asiguraților pentru luna.......... *Font 7* Denumirea ...): it is a table that the official text holds only flattened; Anexa nr. 2 (2 SITUAȚIA RECTIFICATIVĂ privind contribuția datorată și virată la Fondul de garantare a asiguraților pentru luna.......... *Font 7* Denumirea ...): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -42,6 +42,8 @@ Norma asf nr. 16/2015 · 1 versions, from 2015-09-02 (latest in force: 2015-09-0
 | Art. 34 | [art-034.md](art-034.md) | 0 |  |
 | Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
 | Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
+| Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
+| Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
 | Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
 | Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
 | Anexa nr. 6 (what it is) | [anexa-6/README.md](anexa-6/README.md) | 0 |  |
@@ -58,10 +60,10 @@ Act id: `norma-asf-16-2015` (tags `norma-asf-16-2015/<day>`; `python tools/on.py
 - Norma asf nr. 16/2015: the first version is the norm as published in Monitorul Oficial nr. 667 of 2 September 2015 (document 171083 of the official web service), in force on its day of publication, as it states.
 - Norma asf nr. 16/2015: the signatures and the place and date line after its last article are not article text.
 - Norma asf nr. 16/2015: Anexa nr. 3 (3 CERERE DESCHIDERE DOSAR DAUNĂ Subsemnatul(a),......................, domiciliat(ă) în....................., str............ nr......., bl........., sc........, et........, ap.........., județul/sect) is part of the norm and is published in its folder, anexa-3/ (paragraphs), from document 171083 of the official web service.
+- Norma asf nr. 16/2015: Anexa nr. 4 (4 Avarii existente............ Data și ora prezentării............................. Data.......... ora..................................... Obținerea din asigurare de foloase materiale necuvenite se p) is part of the norm and is published in its folder, anexa-4/ (paragraphs and tables), from document 171083 of the official web service.
 - Norma asf nr. 16/2015: Anexa nr. 5 (5 FONDUL DE GARANTARE A ASIGURAȚILOR Nr........... DOCUMENT de introducere în reparație a vehiculului Se eliberează prezentul document pentru vehiculul marca................, culoarea................) is part of the norm and is published in its folder, anexa-5/ (paragraphs), from document 171083 of the official web service.
 - Norma asf nr. 16/2015: Anexa nr. 6 (6 CERERE DE PLATĂ Subsemnatul(a),......., domiciliat(ă) în........., str....... nr......, bl......, sc......, et......, ap......., județul/sectorul........., legitimat(ă) cu.. seria.. nr..., eliberat() is part of the norm and is published in its folder, anexa-6/ (paragraphs), from document 171083 of the official web service.
 - Norma asf nr. 16/2015: Anexa nr. 7 (7 DECLARAȚIE PE PROPRIA RĂSPUNDERE în susținerea documentelor justificative Subsemnatul(a),......, domiciliat(ă) în........., str............. nr......., bl..., sc.., et.., ap...., județul/sectorul...) is part of the norm and is published in its folder, anexa-7/ (paragraphs), from document 171083 of the official web service.
 - Norma asf nr. 16/2015: Anexa nr. 1 (1 RAPORTARE privind contribuția datorată și virată la Fondul de garantare a asiguraților pentru luna.......... *Font 7* Denumirea ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Norma asf nr. 16/2015: Anexa nr. 2 (2 SITUAȚIA RECTIFICATIVĂ privind contribuția datorată și virată la Fondul de garantare a asiguraților pentru luna.......... *Font 7* Denumirea ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma asf nr. 16/2015: Anexa nr. 4 (4 Avarii existente............ Data și ora prezentării............................. Data.......... ora..................................... Obținerea din ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Norma asf nr. 16/2015: the publisher's notes run into its text (*) În coloana 2 se înscrie valoarea iniţială declarată a primei brute încasate, aferentă lunii pentru care se face recti; *) În coloana 2 se înscriu primele brute încasate, cumulate de la începutul anului, inclusiv cele aferente lunii pentru ) are not text.

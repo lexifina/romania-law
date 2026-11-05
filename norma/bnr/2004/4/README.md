@@ -2,7 +2,7 @@
 
 Norma bnr nr. 4/2004 · 1 versions, from 2005-01-01 (latest in force: 2005-01-01) · <https://legislatie.just.ro/Public/DetaliiDocument/53453>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 3 (3 ┌────────────────────────────────────────────────────────────────────────────┐ │Lista C1 Indicatori transmiși de CNVM │ ...): it is a table that the official text holds only flattened; Anexa nr. 4 (4 ┌────────────────────────────────────────────────────────────────────────────┐ │Lista MFP2 │ │ Lista creanțelor guvernamentale externe din credite pe termen ...): it is a table that the official text holds only flattened; Anexa nr. 5 (5 NEMO _____________________ OPERAȚIUNI NEMONETARE │ Referință:....... │ │(Atribuită de B.N.R.)│ Un exemplar va fi transmis la Banca Națională a României- ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -18,6 +18,12 @@ Norma bnr nr. 4/2004 · 1 versions, from 2005-01-01 (latest in force: 2005-01-01
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 | Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
+| Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
+| Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
+| Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
+| Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
 
 Act id: `norma-bnr-4-2004` (tags `norma-bnr-4-2004/<day>`; `python tools/on.py <day> norma-bnr-4-2004`).
 
@@ -29,6 +35,6 @@ Act id: `norma-bnr-4-2004` (tags `norma-bnr-4-2004/<day>`; `python tools/on.py <
 - Norma bnr nr. 4/2004: the signatures and the place and date line after its last article are not article text.
 - Norma bnr nr. 4/2004: Anexa nr. 1 (1) is part of the norm and is published in its folder, anexa-1/ (paragraphs), from document 53453 of the official web service.
 - Norma bnr nr. 4/2004: Anexa nr. 2 (2) is part of the norm and is published in its folder, anexa-2/ (paragraphs), from document 53453 of the official web service.
-- Norma bnr nr. 4/2004: Anexa nr. 3 (3 ┌────────────────────────────────────────────────────────────────────────────┐ │Lista C1 Indicatori transmiși de CNVM │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma bnr nr. 4/2004: Anexa nr. 4 (4 ┌────────────────────────────────────────────────────────────────────────────┐ │Lista MFP2 │ │ Lista creanțelor guvernamentale externe din credite pe termen ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma bnr nr. 4/2004: Anexa nr. 5 (5 NEMO _____________________ OPERAȚIUNI NEMONETARE │ Referință:....... │ │(Atribuită de B.N.R.)│ Un exemplar va fi transmis la Banca Națională a României- ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Norma bnr nr. 4/2004: Anexa nr. 3 (3) is part of the norm and is published in its folder, anexa-3/ (paragraphs and tables), from document 53453 of the official web service.
+- Norma bnr nr. 4/2004: Anexa nr. 4 (4) is part of the norm and is published in its folder, anexa-4/ (paragraphs and tables), from document 53453 of the official web service.
+- Norma bnr nr. 4/2004: Anexa nr. 5 (5 NEMO _____________________ OPERAȚIUNI NEMONETARE) is part of the norm and is published in its folder, anexa-5/ (paragraphs and tables), from document 53453 of the official web service.

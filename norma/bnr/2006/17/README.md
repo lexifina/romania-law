@@ -2,7 +2,7 @@
 
 Norma bnr nr. 17/2006 · 1 versions, from 2006-09-11 (latest in force: 2006-09-11) · <https://legislatie.just.ro/Public/DetaliiDocument/75005>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 3 (2 TRANSFORMAREA în echivalent credit a elementelor din afara bilanțului - lei - ...): it is a table that the official text holds only flattened; Anexa nr. 5 (4 Raportarea expunerilor mari și a expunerii agregate Ron Fonduri proprii 10% din fondurile proprii 25% din fondurile proprii 600% din fondurile proprii ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -21,8 +21,12 @@ Norma bnr nr. 17/2006 · 1 versions, from 2006-09-11 (latest in force: 2006-09-1
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 | Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 | Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
 | Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
+| Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
+| Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
 | Anexa nr. 6 (what it is) | [anexa-6/README.md](anexa-6/README.md) | 0 |  |
 | Anexa nr. 6 | [anexa-6/text.md](anexa-6/text.md) | 0 |  |
 
@@ -36,7 +40,7 @@ Act id: `norma-bnr-17-2006` (tags `norma-bnr-17-2006/<day>`; `python tools/on.py
 - Norma bnr nr. 17/2006: the signatures and the place and date line after its last article are not article text.
 - Norma bnr nr. 17/2006: Anexa nr. 1 (1a CRITERII DE ÎNCADRARE a elementelor de activ în categorii de risc de credit a) Pondere 0%:... - elemente de activ constituind creanțe și elemente din afara bilanțului, reprezentând expuneri înregis) is part of the norm and is published in its folder, anexa-1/ (paragraphs), from document 75005 of the official web service.
 - Norma bnr nr. 17/2006: Anexa nr. 2 (1b CRITERII DE ÎNCADRARE a elementelor din afara bilanțului în categorii de risc de transformare în credit Grad de risc de transformare în echivalent credit Elemente din afara bilanțului Coeficient de) is part of the norm and is published in its folder, anexa-2/ (paragraphs), from document 75005 of the official web service.
+- Norma bnr nr. 17/2006: Anexa nr. 3 (2 TRANSFORMAREA în echivalent credit a elementelor din afara bilanțului - lei -) is part of the norm and is published in its folder, anexa-3/ (paragraphs and tables), from document 75005 of the official web service.
 - Norma bnr nr. 17/2006: Anexa nr. 4 (3 FORMULAR DE CALCUL al expunerilor nete înregistrate de instituțiile financiare nebancare - lei - Expunere din Expunere din elemente Nr. Debitor elemente de activ în afara bilanțului Expu- crt. puner) is part of the norm and is published in its folder, anexa-4/ (paragraphs), from document 75005 of the official web service.
+- Norma bnr nr. 17/2006: Anexa nr. 5 (4 Raportarea expunerilor mari și a expunerii agregate Ron Fonduri proprii 10% din fondurile proprii 25% din fondurile proprii 600% din fondurile proprii) is part of the norm and is published in its folder, anexa-5/ (paragraphs and tables), from document 75005 of the official web service.
 - Norma bnr nr. 17/2006: Anexa nr. 6 (5 STRUCTURA grupurilor reprezentând "un singur debitor" și/sau "persoane aflate în relații speciale" față de care instituția financiară nebancară înregistrează expuneri mari "Un singur debitor" și/sau) is part of the norm and is published in its folder, anexa-6/ (paragraphs), from document 75005 of the official web service.
-- Norma bnr nr. 17/2006: Anexa nr. 3 (2 TRANSFORMAREA în echivalent credit a elementelor din afara bilanțului - lei - ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma bnr nr. 17/2006: Anexa nr. 5 (4 Raportarea expunerilor mari și a expunerii agregate Ron Fonduri proprii 10% din fondurile proprii 25% din fondurile proprii 600% din fondurile proprii ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

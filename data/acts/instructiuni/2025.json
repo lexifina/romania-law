@@ -3,6 +3,25 @@
 "shard": "instructiuni/2025",
 "acts": [
 {
+"slug": "instructiuni-educatie-8-2025",
+"path": "instructiuni/educatie/2025/8",
+"kind": "instructiuni",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 8/2025 privind aplicarea unitară a prevederilor referitoare la utilizarea timpului alocat disciplinei/domeniului de studiu, aflat la dispoziția cadrului didactic, în învățământul preuniversitar gimnazial și liceal",
+"short": "Instrucțiuni educatie nr. 8/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-09-17",
+"latest": "2025-09-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/302327",
+"issuer": "educatie",
+"joint": []
+},
+{
 "slug": "instructiuni-interne-112-2025",
 "path": "instructiuni/interne/2025/112",
 "kind": "instructiuni",

@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-464-2019",
+   "path": "ordin/agricultura/2019/464",
+   "short": "Ordin agricultura nr. 464/2019",
+   "title": "Ordinul nr. 464/2019 pentru aprobarea regulilor naționale privind importul de produse ecologice din țări terțe pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219084",
+   "versions": [
+    {
+     "from": "2019-10-24",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219084",
+     "sha256": "ca84e93860b5484bea63a5253985e0afbc0cd50bd1a48e11cd2a7aadf96a29bd"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-54-2019",
    "path": "ordin/agricultura/2019/54",
    "short": "Ordin agricultura nr. 54/2019",
@@ -839,6 +854,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211647",
      "sha256": "d5084d8486d28c330f7327a401e0f8b3354cdc5ba790464e605e5837a14a3db7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anofm-341-2019",
+   "path": "ordin/anofm/2019/341",
+   "short": "Ordin anofm nr. 341/2019",
+   "title": "Ordinul nr. 341/2019 pentru aprobarea Procedurii privind confirmarea existenței situației de boală la societățile din sectorul crescătorilor de suine a căror activitate a fost afectată de virusul pestei porcine africane, în vederea acordării compensației prevăzute la art. 2 alin. (1) din Ordonanța de urgență a Guvernului nr. 83/2018 privind acordarea unei măsuri de protecție socială persoanelor concediate din cadrul societăților din sectorul crescătorilor de suine a căror activitate a fost afectată de virusul pestei porcine africane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211935",
+   "versions": [
+    {
+     "from": "2019-03-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211935",
+     "sha256": "d53a54e77008a7eb58046502dce63615a5631253781b03826e1be3014cdec55a"
     }
    ]
   },
@@ -2688,6 +2718,336 @@
    ]
   },
   {
+   "slug": "ordin-ansvsa-102-2019",
+   "path": "ordin/ansvsa/2019/102",
+   "short": "Ordin ansvsa nr. 102/2019",
+   "title": "Ordinul nr. 102/2019 privind abrogarea Ordinului ministrului agriculturii, alimentației și pădurilor nr. 487/2001 pentru aprobarea Normei sanitare veterinare privind acțiunile sanitare veterinare obligatorii în domeniul expertizei produselor de origine animală și de supraveghere a unităților, ale căror cheltuieli se suportă de către agenții economici, persoane fizice și juridice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217854",
+   "versions": [
+    {
+     "from": "2019-09-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217854",
+     "sha256": "6c7b473696bebb84c17ee24838bea1efa9be664b193e05083ddfcd39504f2da4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-106-2019",
+   "path": "ordin/ansvsa/2019/106",
+   "short": "Ordin ansvsa nr. 106/2019",
+   "title": "Ordinul nr. 106/2019 pentru modificarea și completarea Normei sanitare veterinare și pentru siguranța alimentelor privind procedura de înregistrare sanitară veterinară și pentru siguranța alimentelor a activităților de obținere și de vânzare directă și/sau cu amănuntul a produselor alimentare de origine animală sau nonanimală, precum și a activităților de producție, procesare, depozitare, transport și comercializare a produselor alimentare de origine nonanimală, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 111/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218317",
+   "versions": [
+    {
+     "from": "2019-09-19",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218317",
+     "sha256": "20a64e298a4d83311ada4f67f453d2a2e5d50e4fd494310f8bc4b2d1fbf571f4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-107-2019",
+   "path": "ordin/ansvsa/2019/107",
+   "short": "Ordin ansvsa nr. 107/2019",
+   "title": "Ordinul nr. 107/2019 pentru modificarea și completarea Normei sanitare veterinare privind procedura de autorizare sanitară veterinară a unităților care produc, procesează, depozitează, transportă și/sau distribuie produse de origine animală, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 57/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218318",
+   "versions": [
+    {
+     "from": "2019-09-19",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218318",
+     "sha256": "91eb77db8aac38467fd86f459ede6ca229c781788dcd862ce3d03ed8c05f4c2f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-114-2019",
+   "path": "ordin/ansvsa/2019/114",
+   "short": "Ordin ansvsa nr. 114/2019",
+   "title": "Ordinul nr. 114/2019 pentru modificarea și completarea Normei sanitare veterinare privind organizarea și desfășurarea activității de control oficial sanitar-veterinar efectuat de către personalul de specialitate în unitățile care produc alimente de origine animală, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 64/2007, și privind modificarea și completarea anexei nr. 3 la Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 96/2014 pentru aprobarea tarifelor aplicabile în domeniul sanitar-veterinar și pentru siguranța alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218684",
+   "versions": [
+    {
+     "from": "2019-11-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218684",
+     "sha256": "5bd3cbf08cf4fcfeb1de4b163804e335bacc2e2c1fa5ea4912da94a1ce766270"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-117-2019",
+   "path": "ordin/ansvsa/2019/117",
+   "short": "Ordin ansvsa nr. 117/2019",
+   "title": "Ordinul nr. 117/2019 pentru stabilirea criteriilor sectoriale și a pragurilor critice aferente sectorului ICN - infrastructură critică națională - \"Alimentație și agricultură\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219600",
+   "versions": [
+    {
+     "from": "2019-11-08",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219600",
+     "sha256": "7fdd0c9b4f9ab7fc23121e6083bc9ca890dc518e0e9ae243555b1204cf82fae3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-118-2019",
+   "path": "ordin/ansvsa/2019/118",
+   "short": "Ordin ansvsa nr. 118/2019",
+   "title": "Ordinul nr. 118/2019 privind abrogarea Ordinului ministrului agriculturii, alimentației și pădurilor nr. 333/2002 pentru aprobarea Normei sanitare veterinare privind producerea, comercializarea și utilizarea cărnii separate mecanic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219061",
+   "versions": [
+    {
+     "from": "2019-10-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219061",
+     "sha256": "37c616967efdf43dbb4bb7776eca71d716c46b13a372cb53512ee534f0e9e2f5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-119-2019",
+   "path": "ordin/ansvsa/2019/119",
+   "short": "Ordin ansvsa nr. 119/2019",
+   "title": "Ordinul nr. 119/2019 pentru modificarea anexei la Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 109/2005 privind stabilirea formularului-tip al Procesului-verbal de constatare și sancționare a contravențiilor la normele sanitare veterinare și pentru siguranța alimentelor și a persoanelor împuternicite de Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor să folosească modelul de proces-verbal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219062",
+   "versions": [
+    {
+     "from": "2019-10-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219062",
+     "sha256": "86b54f6978be26f77238d1e904fd7f1a360d07de776cfc8b89f0ffcb9a62cf8f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-122-2019",
+   "path": "ordin/ansvsa/2019/122",
+   "short": "Ordin ansvsa nr. 122/2019",
+   "title": "Ordinul nr. 122/2019 privind modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 97/2015 pentru aprobarea Normei sanitare veterinare privind procedura de autorizare sanitară veterinară a unităților utilizatoare, crescătoare și furnizoare de animale utilizate în scopuri științifice, pentru aprobarea Normei sanitare veterinare privind procedura de autorizare sanitară veterinară a proiectelor care implică utilizarea animalelor în proceduri, precum și pentru modificarea Normei sanitare veterinare privind procedura de înregistrare/autorizare sanitar-veterinară a unităților/centrelor de colectare/exploatațiilor de origine și a mijloacelor de transport din domeniul sănătății și al bunăstării animalelor, a unităților implicate în depozitarea și neutralizarea subproduselor de origine animală care nu sunt destinate consumului uman și a produselor procesate, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 16/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219559",
+   "versions": [
+    {
+     "from": "2019-11-07",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219559",
+     "sha256": "cf7bc4a6d172794a095c1db4f0b175f6af1699916c0fd50b58f8dac0218a66ba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-124-2019",
+   "path": "ordin/ansvsa/2019/124",
+   "short": "Ordin ansvsa nr. 124/2019",
+   "title": "Ordinul nr. 124/2019 pentru modificarea anexei nr. 2 la Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 96/2014 privind aprobarea tarifelor aplicabile în domeniul sanitar-veterinar și pentru siguranța alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219436",
+   "versions": [
+    {
+     "from": "2019-12-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219436",
+     "sha256": "6ea25d2202621bf46f57bcd376cebeb5afe2840b64c38266aa981b5db66db05a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-13-2019",
+   "path": "ordin/ansvsa/2019/13",
+   "short": "Ordin ansvsa nr. 13/2019",
+   "title": "Ordinul nr. 13/2019 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 39/2010 pentru aprobarea cerințelor tehnice care trebuie îndeplinite de mijloacele oficiale de identificare a bovinelor, suinelor, ovinelor și caprinelor, precum și pentru stabilirea condițiilor de aprobare a acestora pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210952",
+   "versions": [
+    {
+     "from": "2019-02-13",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210952",
+     "sha256": "cdb9433708730299d88c687775d378311a9a0292de0acd1cd1de4f546bc55465"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-132-2019",
+   "path": "ordin/ansvsa/2019/132",
+   "short": "Ordin ansvsa nr. 132/2019",
+   "title": "Ordinul nr. 132/2019 pentru modificarea Normei sanitare veterinare privind condițiile sanitar-veterinare pentru introducerea pe teritoriul României a animalelor de companie provenite din țări terțe în scopul circulației necomerciale și procedura de control sanitar-veterinar al acestor animale la punctele de intrare a călătorilor, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 98/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/221795",
+   "versions": [
+    {
+     "from": "2019-12-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221795",
+     "sha256": "2451951112614ce9245560e3d6fbacfafa315a13c296ef3b7bba2da0a3fc75f8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-134-2019",
+   "path": "ordin/ansvsa/2019/134",
+   "short": "Ordin ansvsa nr. 134/2019",
+   "title": "Ordinul nr. 134/2019 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 64/2007 pentru aprobarea Normei sanitare veterinare privind organizarea și desfășurarea activității de control oficial sanitar-veterinar efectuat de către personalul de specialitate în unitățile care produc alimente de origine animală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220571",
+   "versions": [
+    {
+     "from": "2019-12-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220571",
+     "sha256": "33731d8e576f79ef1dfe70025ba241ca00e2406ecf2985cc22e243fa2e26cf72"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-143-2019",
+   "path": "ordin/ansvsa/2019/143",
+   "short": "Ordin ansvsa nr. 143/2019",
+   "title": "Ordinul nr. 143/2019 pentru modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 113/2008 privind aprobarea Instrucțiunilor pentru organizarea și desfășurarea activității de control oficial în unitățile de prelucrare, procesare, depozitare, transport, valorificare și comercializare a produselor și subproduselor alimentare de origine nonanimală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220996",
+   "versions": [
+    {
+     "from": "2019-12-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220996",
+     "sha256": "cfc620ac5c01dc9e8cd4eaaad00f26cda58b9afa1286a56a29f1dd734b969f96"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-157-2019",
+   "path": "ordin/ansvsa/2019/157",
+   "short": "Ordin ansvsa nr. 157/2019",
+   "title": "Ordinul nr. 157/2019 pentru completarea anexei nr. 2 la Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 96/2014 privind aprobarea tarifelor aplicabile în domeniul sanitar-veterinar și pentru siguranța alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/221975",
+   "versions": [
+    {
+     "from": "2020-01-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221975",
+     "sha256": "f44599f3cf7655c21f418960768e8171639b3ac00495198ce5b3fed7ddca85a2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-19-2019",
+   "path": "ordin/ansvsa/2019/19",
+   "short": "Ordin ansvsa nr. 19/2019",
+   "title": "Ordinul nr. 19/2019 pentru modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 96/2014 privind aprobarea tarifelor aplicabile în domeniul sanitar-veterinar și pentru siguranța alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211143",
+   "versions": [
+    {
+     "from": "2019-02-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211143",
+     "sha256": "b222707f28411088b22a6b6afe669d93b75bc27303e3ebaf90d07b6f181c0617"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-3-2019",
+   "path": "ordin/ansvsa/2019/3",
+   "short": "Ordin ansvsa nr. 3/2019",
+   "title": "Ordinul nr. 3/2019 pentru modificarea anexei nr. 1 la Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 35/2016 privind aprobarea Normelor metodologice de aplicare a Programului acțiunilor de supraveghere, prevenire, control și eradicare a bolilor la animale, a celor transmisibile de la animale la om, protecția animalelor și protecția mediului, de identificare și înregistrare a bovinelor, suinelor, ovinelor, caprinelor și ecvideelor, precum și a Normelor metodologice de aplicare a Programului de supraveghere și control în domeniul siguranței alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210053",
+   "versions": [
+    {
+     "from": "2019-01-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210053",
+     "sha256": "ad655d5f3df706e70da08d5d039989138ea245f7e180cdf8ee4899eb9e1ecdf5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-34-2019",
+   "path": "ordin/ansvsa/2019/34",
+   "short": "Ordin ansvsa nr. 34/2019",
+   "title": "Ordinul nr. 34/2019 pentru modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 96/2014 privind aprobarea tarifelor aplicabile în domeniul sanitar-veterinar și pentru siguranța alimentelor, ca urmare a actualizării tarifelor în funcție de rata inflației din anul 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211998",
+   "versions": [
+    {
+     "from": "2019-03-25",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211998",
+     "sha256": "46de6ca4b5658a5d8e78c63d9db4f2bd6255dcfc6ebfdcd08caebd4aa6f09603"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-38-2019",
+   "path": "ordin/ansvsa/2019/38",
+   "short": "Ordin ansvsa nr. 38/2019",
+   "title": "Ordinul nr. 38/2019 pentru modificarea și completarea Normelor privind identificarea și înregistrarea câinilor cu stăpân, aprobate prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 1/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212039",
+   "versions": [
+    {
+     "from": "2019-03-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212039",
+     "sha256": "b52d5e5cf09ecfea13cc577467c4ec2cb00902c70339a0060fef7c89a69254af"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-50-2019",
+   "path": "ordin/ansvsa/2019/50",
+   "short": "Ordin ansvsa nr. 50/2019",
+   "title": "Ordinul nr. 50/2019 privind stabilirea formularului-tip al Procesului-verbal de constatare și sancționare a contravențiilor referitoare la responsabilitățile proprietarilor/operatorilor/administratorilor de infrastructuri critice naționale/infrastructuri critice europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212627",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212627",
+     "sha256": "18155b68f3ea1025877991d5c0457df4a12bc8d0e6a39b8a6cfb0b72f5084e95"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-54-2019",
+   "path": "ordin/ansvsa/2019/54",
+   "short": "Ordin ansvsa nr. 54/2019",
+   "title": "Ordinul nr. 54/2019 pentru modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 37/2010 privind circulația ecvinelor pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213407",
+   "versions": [
+    {
+     "from": "2019-05-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213407",
+     "sha256": "6c64b03d40240c1bb7d18471f01df54a60c55085ba30fc71377b26e3aebe980e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-67-2019",
+   "path": "ordin/ansvsa/2019/67",
+   "short": "Ordin ansvsa nr. 67/2019",
+   "title": "Ordinul nr. 67/2019 privind abrogarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 100/2004 pentru aprobarea Normei sanitare veterinare care stabilește condițiile suplimentare privind controlul sanitar veterinar al produselor din pescuit, crustaceelor, moluștelor, gasteropodelor și batracienilor, destinate comercializării directe către consumatorul final sau procesării în alimente pentru consum uman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214862",
+   "versions": [
+    {
+     "from": "2019-06-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214862",
+     "sha256": "29b0c1e70c2269b6013373baeb7d6ba0dcadb45021752a2067ba6d553be43560"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-79-2019",
+   "path": "ordin/ansvsa/2019/79",
+   "short": "Ordin ansvsa nr. 79/2019",
+   "title": "Ordinul nr. 79/2019 pentru aprobarea Normei sanitar-veterinare privind procedura de înregistrare/autorizare sanitar-veterinară a unităților din domeniul subproduselor de origine animală și produselor derivate care nu sunt destinate consumului uman și pentru modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 96/2014 privind aprobarea tarifelor aplicabile în domeniul sanitar-veterinar și pentru siguranța alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217252",
+   "versions": [
+    {
+     "from": "2019-08-31",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217252",
+     "sha256": "ad76727adcf37e45e3584434145174c3a0a9a9fec59fa125b523980835cd4d64"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-94-2019",
    "path": "ordin/ansvsa/2019/94",
    "short": "Ordin ansvsa nr. 94/2019",
@@ -2699,6 +3059,141 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216818",
      "sha256": "43ebe58274e8a6a1250b657f6af1fc533359ff9f9fac3ff5db13de3cdc1f86d6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aspaas-201-2019",
+   "path": "ordin/aspaas/2019/201",
+   "short": "Ordin aspaas nr. 201/2019",
+   "title": "Ordinul nr. 201/2019 pentru aprobarea Normelor privind organizarea și desfășurarea testului de verificare a cunoștințelor pentru accesul la stagiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212707",
+   "versions": [
+    {
+     "from": "2019-04-12",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212707",
+     "sha256": "5065b297aa53d2921365b06023c37b93a716929af4aae53bdfe36e0074e233e7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aspaas-383-2019",
+   "path": "ordin/aspaas/2019/383",
+   "short": "Ordin aspaas nr. 383/2019",
+   "title": "Ordinul nr. 383/2019 pentru aprobarea Normelor privind acordarea vizei anuale pentru exercitarea activității de audit financiar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/215459",
+   "versions": [
+    {
+     "from": "2019-06-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215459",
+     "sha256": "02f9a5ea5f15536aa1957dd5751f4142f2445e18ee4e30ec218eb6964dc8e34b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aspaas-406-2019",
+   "path": "ordin/aspaas/2019/406",
+   "short": "Ordin aspaas nr. 406/2019",
+   "title": "Ordinul nr. 406/2019 pentru modificarea și completarea Normelor privind instruirea teoretică și stagiul de pregătire practică în activitatea de audit financiar, aprobate prin Ordinul președintelui Autorității pentru Supravegherea Publică a Activității de Audit Statutar nr. 150/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/215531",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215531",
+     "sha256": "3ed33d0c9b8b8801a54f82dfb5a86e3c61ef2e3450bcd2c0a44dfe6c098b93bd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aspaas-494-2019",
+   "path": "ordin/aspaas/2019/494",
+   "short": "Ordin aspaas nr. 494/2019",
+   "title": "Ordinul nr. 494/2019 pentru modificarea și completarea Normelor privind autorizarea auditorilor financiari și a firmelor de audit în România, recunoașterea firmelor de audit din alte state membre, retragerea și redobândirea autorizării, aprobate prin Ordinul președintelui Autorității pentru Supravegherea Publică a Activității de Audit Statutar nr. 87/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217278",
+   "versions": [
+    {
+     "from": "2019-08-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217278",
+     "sha256": "ba52e8d001236ac00801fa62c95ee5654b1b9b7b67d4e521aa7cb5f3f0d8e497"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aspaas-561-2019",
+   "path": "ordin/aspaas/2019/561",
+   "short": "Ordin aspaas nr. 561/2019",
+   "title": "Ordinul nr. 561/2019 pentru modificarea Normelor privind acordarea vizei anuale pentru exercitarea activității de audit financiar, aprobate prin Ordinul președintelui Autorității pentru Supravegherea Publică a Activității de Audit Statutar nr. 383/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218474",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218474",
+     "sha256": "ad7c28604c7206c7bd3e08dbd561b4b4b099e5ee43133313c885fb0a0f8538e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aspaas-573-2019",
+   "path": "ordin/aspaas/2019/573",
+   "short": "Ordin aspaas nr. 573/2019",
+   "title": "Ordinul nr. 573/2019 pentru modificarea și completarea Normelor privind organizarea și desfășurarea examenului de competență profesională, aprobate prin Ordinul președintelui Autorității pentru Supravegherea Publică a Activității de Audit Statutar nr. 135/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218819",
+   "versions": [
+    {
+     "from": "2019-10-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218819",
+     "sha256": "5d19c0aaaaad231d1515c698e09d1d826df9b049c733c393078e6e183616611a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aspaas-623-2019",
+   "path": "ordin/aspaas/2019/623",
+   "short": "Ordin aspaas nr. 623/2019",
+   "title": "Ordinul nr. 623/2019 pentru modificarea Normelor privind acordarea vizei anuale pentru exercitarea activității de audit financiar, aprobate prin Ordinul președintelui Autorității pentru Supravegherea Publică a Activității de Audit Statutar nr. 383/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220036",
+   "versions": [
+    {
+     "from": "2019-11-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220036",
+     "sha256": "4092f79b4d4860557808629ee7d6633b87c9db407a71772ad7740f6835dbd61b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aspaas-662-2019",
+   "path": "ordin/aspaas/2019/662",
+   "short": "Ordin aspaas nr. 662/2019",
+   "title": "Ordinul nr. 662/2019 privind adoptarea Codului etic al profesioniștilor contabili, ediția 2018, elaborat de Consiliul pentru Standarde Internaționale de Etică pentru Contabili (IESBA) al Federației Internaționale a Contabililor (IFAC)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/221843",
+   "versions": [
+    {
+     "from": "2020-01-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221843",
+     "sha256": "4edfe085a5024c40fcafc89b133153b9c74d2152835955fc609db9ed11d5918a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aspaas-663-2019",
+   "path": "ordin/aspaas/2019/663",
+   "short": "Ordin aspaas nr. 663/2019",
+   "title": "Ordinul nr. 663/2019 pentru modificarea Normelor privind instruirea teoretică și stagiul de pregătire practică în activitatea de audit financiar, aprobate prin Ordinul președintelui Autorității pentru Supravegherea Publică a Activității de Audit Statutar nr. 150/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/221204",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221204",
+     "sha256": "01d8181915836d27431ca1b8e9d0048c9cd9a7e07130162a964d9bb2f35188fd"
     }
    ]
   },
@@ -3963,6 +4458,96 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3103-2019",
+   "path": "ordin/educatie/2019/3103",
+   "short": "Ordin educatie nr. 3103/2019",
+   "title": "Ordinul nr. 3.103/2019 privind regimul manualelor școlare în învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210546",
+   "versions": [
+    {
+     "from": "2019-02-05",
+     "units": 54,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210546",
+     "sha256": "611f1e0c3de6b0ddde351b4e4277410594e338e2b8cd9db59fb77c6b4b9feb13"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3128-2019",
+   "path": "ordin/educatie/2019/3128",
+   "short": "Ordin educatie nr. 3128/2019",
+   "title": "Ordinul nr. 3.128/2019 privind aprobarea Metodologiei de alocare a fondurilor bugetare pentru finanțarea de bază și finanțarea suplimentară a instituțiilor de învățământ superior de stat din România, pentru anul 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211222",
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211222",
+     "sha256": "7240472e99c049e1c47358c19c863088054594cd5400cb49500e94a7dbdcab33"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3129-2019",
+   "path": "ordin/educatie/2019/3129",
+   "short": "Ordin educatie nr. 3129/2019",
+   "title": "Ordinul nr. 3.129/2019 privind aprobarea Metodologiei de alocare și utilizare a fondului pentru dezvoltarea instituțională a instituțiilor de învățământ superior de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211033",
+   "versions": [
+    {
+     "from": "2019-02-15",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211033",
+     "sha256": "f07532decf9193067586cdc1dd13db2a57e8750253e47664876ecb1b16d3ea6f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3130-2019",
+   "path": "ordin/educatie/2019/3130",
+   "short": "Ordin educatie nr. 3130/2019",
+   "title": "Ordinul nr. 3.130/2019 pentru aprobarea Metodologiei de alocare a fondurilor bugetare destinate subvențiilor cămine-cantine pentru instituțiile de învățământ superior de stat din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211062",
+   "versions": [
+    {
+     "from": "2019-02-19",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211062",
+     "sha256": "d92a089f306d23dfb00aa7a7cdcf0141018aa1759e22272596dbd1eccae60a28"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3131-2019",
+   "path": "ordin/educatie/2019/3131",
+   "short": "Ordin educatie nr. 3131/2019",
+   "title": "Ordinul nr. 3.131/2019 pentru aprobarea Metodologiei de alocare a fondurilor bugetare destinate subvenției pentru transportul public local de suprafață al studenților, repartizate instituțiilor de învățământ superior de stat din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211063",
+   "versions": [
+    {
+     "from": "2019-02-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211063",
+     "sha256": "6c9ddb4da72e1bc389fd93edf96fbe9b9c57725de44c3f33afc2c8a1dedb9961"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3141-2019",
+   "path": "ordin/educatie/2019/3141",
+   "short": "Ordin educatie nr. 3141/2019",
+   "title": "Ordinul nr. 3.141/2019 privind înființarea, organizarea și funcționarea Comisiei Naționale pentru Desegregare și Incluziune Educațională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211207",
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211207",
+     "sha256": "8cff92ac4f938ba75aecfb610ad8a910e5d7fc7f2a7b7a4b0e25997b135f50e1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3177-2019",
    "path": "ordin/educatie/2019/3177",
    "short": "Ordin educatie nr. 3177/2019",
@@ -3974,6 +4559,201 @@
      "units": 18,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212230",
      "sha256": "f3f78093b7a747a2ed930a4f9b0a29e5acfb654e23e54b87989aefcbbef08b67"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3184-2019",
+   "path": "ordin/educatie/2019/3184",
+   "short": "Ordin educatie nr. 3184/2019",
+   "title": "Ordinul nr. 3.184/2019 privind aprobarea calendarului sesiunii speciale de bacalaureat 2019 pentru absolvenții de liceu participanți la loturile olimpice și la competițiile sportive și artistice internaționale care se desfășoară în perioada sesiunii normale de bacalaureat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211160",
+   "versions": [
+    {
+     "from": "2019-02-25",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211160",
+     "sha256": "13e73ea2ded1571b1b4f18d0ef37090aa1fd1bed4842c2a864c5ff8daea9a5b7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3185-2019",
+   "path": "ordin/educatie/2019/3185",
+   "short": "Ordin educatie nr. 3185/2019",
+   "title": "Ordinul nr. 3.185/2019 privind aprobarea organizării simulării evaluării naționale pentru elevii clasei a VIII-a și a simulării probelor scrise ale examenului de bacalaureat național în anul școlar 2018-2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211234",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211234",
+     "sha256": "96355a2975aa34d977267ba5db8879e7ce4b4ec0c235a5252ab6a62911f11d38"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3200-2019",
+   "path": "ordin/educatie/2019/3200",
+   "short": "Ordin educatie nr. 3200/2019",
+   "title": "Ordinul nr. 3.200/2019 privind Metodologia de evaluare a studiilor universitare de doctorat și a sistemelor de criterii, standarde și indicatori de performanță",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211669",
+   "versions": [
+    {
+     "from": "2019-03-05",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211669",
+     "sha256": "1ffdbfc8ea85a777cea073b560fbf01d7225925c0b629ef6343f4dd893caef75"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3207-2019",
+   "path": "ordin/educatie/2019/3207",
+   "short": "Ordin educatie nr. 3207/2019",
+   "title": "Ordinul nr. 3.207/2019 privind măsuri de aplicare și corelare a planurilor de învățământ pentru învățământul profesional, liceal - filiera tehnologică și postliceal cu structura anului școlar 2019-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211648",
+   "versions": [
+    {
+     "from": "2019-03-05",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211648",
+     "sha256": "a87ad03a92428fb0aedb62352c10a4a9bc4b508c39ce976c78b12528c5e847b2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3635-2019",
+   "path": "ordin/educatie/2019/3635",
+   "short": "Ordin educatie nr. 3635/2019",
+   "title": "Ordinul nr. 3.635/2019 pentru aprobarea Centralizatorului privind disciplinele din învățământul preuniversitar, domeniile și specializările absolvenților învățământului liceal pedagogic, postliceal și superior, probele de concurs pentru încadrarea personalului didactic din învățământul preuniversitar, precum și disciplinele pentru examenul național de definitivare în învățământ 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211845",
+   "versions": [
+    {
+     "from": "2019-03-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211845",
+     "sha256": "d4d4df744191bf5615b720958b917b4cef0c47a78bc18497cb6f08b8b7bb4c37"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3665-2019",
+   "path": "ordin/educatie/2019/3665",
+   "short": "Ordin educatie nr. 3665/2019",
+   "title": "Ordinul nr. 3.665/2019 pentru aprobarea Regulamentului privind regimul actelor de studii eliberate cadrelor didactice de către inspectoratele școlare și centrele de perfecționare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212044",
+   "versions": [
+    {
+     "from": "2019-03-27",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212044",
+     "sha256": "e22c7fda2c0f8007476e2aa6b3920f3b3e33726887ec8fe382492cc647e02264"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3667-2019",
+   "path": "ordin/educatie/2019/3667",
+   "short": "Ordin educatie nr. 3667/2019",
+   "title": "Ordinul nr. 3.667/2019 pentru aprobarea Procedurii privind acordul Agenției Române de Asigurare a Calității în Învățământul Preuniversitar de înființare, în cadrul palatelor, cluburilor copiilor, cluburilor sportive școlare, de noi cercuri/discipline sportive, după caz, fără parcurgerea procedurii de evaluare externă în vederea obținerii autorizației de funcționare provizorie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212404",
+   "versions": [
+    {
+     "from": "2019-04-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212404",
+     "sha256": "85de3366bc73bf3ce483fd35cde3ae70e19cca5ee4b5e0806658078634cb7ee1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3668-2019",
+   "path": "ordin/educatie/2019/3668",
+   "short": "Ordin educatie nr. 3668/2019",
+   "title": "Ordinul nr. 3.668/2019 pentru aprobarea Procedurii privind acordul Agenției Române de Asigurare a Calității în Învățământul Preuniversitar de înființare, în cadrul unităților de învățământ preuniversitar de stat și particulare de nivel liceal acreditate, de noi specializări în cadrul profilurilor deja autorizate să funcționeze provizoriu/acreditate din cadrul filierei teoretice și/sau vocaționale, fără parcurgerea procedurii de evaluare externă în vederea obținerii autorizației de funcționare provizorie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212406",
+   "versions": [
+    {
+     "from": "2019-04-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212406",
+     "sha256": "ef693dfa820d21d092dd7fe6766873b99c848a7fe5c779cb118478698e44a3e6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3694-2019",
+   "path": "ordin/educatie/2019/3694",
+   "short": "Ordin educatie nr. 3694/2019",
+   "title": "Ordinul nr. 3.694/2019 privind constituirea și utilizarea fondului pentru finanțarea situațiilor speciale care nu pot fi integrate în formula de finanțare a instituțiilor de învățământ superior de stat, pentru anul 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211997",
+   "versions": [
+    {
+     "from": "2019-03-25",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211997",
+     "sha256": "2e960c7d70762eccc619ad8641f8db336a32e506ecd4262dfabe2132c8d33a1c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3739-2019",
+   "path": "ordin/educatie/2019/3739",
+   "short": "Ordin educatie nr. 3739/2019",
+   "title": "Ordinul nr. 3.739/2019 privind aprobarea programei școlare pentru disciplina opțională Utilizarea tehnologiilor de modelare și imprimare 3D, liceu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213982",
+   "versions": [
+    {
+     "from": "2019-05-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213982",
+     "sha256": "9c12182ce0e59a99d54ff42b2159d4269a6d56da6c8ca9de0f0f911023c2bb23"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3750-2019",
+   "path": "ordin/educatie/2019/3750",
+   "short": "Ordin educatie nr. 3750/2019",
+   "title": "Ordinul nr. 3.750/2019 privind aprobarea Regulamentului de organizare și funcționare a colegiilor și liceelor pedagogice din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212632",
+   "versions": [
+    {
+     "from": "2019-04-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212632",
+     "sha256": "15651dce3557f1e6a682e623dd8e78aa924d927f40bbeb42bb910bebd0d53e8e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3770-2019",
+   "path": "ordin/educatie/2019/3770",
+   "short": "Ordin educatie nr. 3770/2019",
+   "title": "Ordinul nr. 3.770/2019 privind aprobarea Listei cuprinzând categoriile de informații secrete de serviciu, elaborate și deținute de Ministerul Educației Naționale, în domeniul său de activitate, precum și de către instituțiile publice și unitățile aflate în subordinea sau în coordonarea acestuia și termenele de clasificare aferente acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213524",
+   "versions": [
+    {
+     "from": "2019-05-07",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213524",
+     "sha256": "7c2630ad6ad785fde8e4196ad5ab407b022f7a4c0a4ec0edb2e48ffa57717010"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3889-2019",
+   "path": "ordin/educatie/2019/3889",
+   "short": "Ordin educatie nr. 3889/2019",
+   "title": "Ordinul nr. 3.889/2019 pentru aprobarea Normelor privind protecția informațiilor clasificate secret de stat și secret de serviciu în cadrul Ministerului Educației Naționale, în domeniul său de activitate, precum și de către instituțiile publice și unitățile aflate în subordinea sau în coordonarea acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213622",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213622",
+     "sha256": "0e14b7e98ddc26e06e4e222ce990b899d1a56ffe9a1be0e42ceea755037169ad"
     }
    ]
   },
@@ -3993,6 +4773,36 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3952-2019",
+   "path": "ordin/educatie/2019/3952",
+   "short": "Ordin educatie nr. 3952/2019",
+   "title": "Ordinul nr. 3.952/2019 pentru aprobarea Metodologiei și criteriilor privind acordarea gradației de merit personalului didactic din învățământul preuniversitar de stat în sesiunea 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213420",
+   "versions": [
+    {
+     "from": "2019-05-06",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213420",
+     "sha256": "75ecb0ea5d5e6e941e1dc831a939b0942757ee4a1ea5ea14efd5ec47b1f0eae8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3956-2019",
+   "path": "ordin/educatie/2019/3956",
+   "short": "Ordin educatie nr. 3956/2019",
+   "title": "Ordinul nr. 3.956/2019 privind stabilirea modalității de acordare a voucherelor de vacanță pentru unitățile/instituțiile de învățământ de stat, Ministerul Educației Naționale și alte unități/instituții din subordinea/coordonarea acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214029",
+   "versions": [
+    {
+     "from": "2019-05-16",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214029",
+     "sha256": "a1c1849f235165d4270eb4e5a6158419e9a1fa053827b3362a00ba165f32ddaf"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4024-2019",
    "path": "ordin/educatie/2019/4024",
    "short": "Ordin educatie nr. 4024/2019",
@@ -4004,6 +4814,321 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214963",
      "sha256": "e54fb0d4e3b69521236634801902b9e495f86b8bf7f2c8275f1593b9d57c09de"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4215-2019",
+   "path": "ordin/educatie/2019/4215",
+   "short": "Ordin educatie nr. 4215/2019",
+   "title": "Ordinul nr. 4.215/2019 pentru aprobarea listei liceelor tehnologice cu profil preponderent agricol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214943",
+   "versions": [
+    {
+     "from": "2019-06-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214943",
+     "sha256": "31f2657ae7d15ea6f095c780ac50923386860c683ba0c780a3f4ff8fe8de0d94"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4338-2019",
+   "path": "ordin/educatie/2019/4338",
+   "short": "Ordin educatie nr. 4338/2019",
+   "title": "Ordinul nr. 4.338/2019 privind aprobarea Metodologiei de monitorizare specială a Universității \"Tibiscus\" din Timișoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/215619",
+   "versions": [
+    {
+     "from": "2019-07-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215619",
+     "sha256": "e22d53249a5634971a520844e6c4bf09820d2e5fb25964cadfecae5e00785d1d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4365-2019",
+   "path": "ordin/educatie/2019/4365",
+   "short": "Ordin educatie nr. 4365/2019",
+   "title": "Ordinul nr. 4.365/2019 privind aprobarea programei școlare pentru disciplina opțională Abilități pentru adolescență, clasele a VI-a, a VII-a și a VIII-a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/216741",
+   "versions": [
+    {
+     "from": "2019-08-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216741",
+     "sha256": "9e5ae5b3e04ed17a2059200cae35ff6ccdfe3ddb4331037aab991f8f61fab227"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4694-2019",
+   "path": "ordin/educatie/2019/4694",
+   "short": "Ordin educatie nr. 4694/2019",
+   "title": "Ordinul nr. 4.694/2019 privind aprobarea Curriculumului pentru educația timpurie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217237",
+   "versions": [
+    {
+     "from": "2019-08-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217237",
+     "sha256": "8d9fd0bdbd0aef72d2e945dc109464e208b322020c95e81ffa7fb9b22c01d1f8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4750-2019",
+   "path": "ordin/educatie/2019/4750",
+   "short": "Ordin educatie nr. 4750/2019",
+   "title": "Ordinul nr. 4.750/2019 privind aprobarea Metodologiei-cadru de organizare și înregistrare a programelor postuniversitare de către instituțiile de învățământ superior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217268",
+   "versions": [
+    {
+     "from": "2019-08-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217268",
+     "sha256": "f8c90b36dd58643f682f91b2a9520bcaf5deadbca205944fff26d1b9d311d058"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4867-2019",
+   "path": "ordin/educatie/2019/4867",
+   "short": "Ordin educatie nr. 4867/2019",
+   "title": "Ordinul nr. 4.867/2019 privind aprobarea Metodologiei de monitorizare specială a Universității \"Eftimie Murgu\" din Reșița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217821",
+   "versions": [
+    {
+     "from": "2019-09-06",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217821",
+     "sha256": "d70eda21fcee281d880a6c8c4a38528e67f078f3d920327d8da4385b00d5a043"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4909-2019",
+   "path": "ordin/educatie/2019/4909",
+   "short": "Ordin educatie nr. 4909/2019",
+   "title": "Ordinul nr. 4.909/2019 privind aprobarea graficului de desfășurare a examenelor de certificare a calificării profesionale a absolvenților din învățământul profesional și tehnic preuniversitar în anul școlar 2019-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217937",
+   "versions": [
+    {
+     "from": "2019-09-13",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217937",
+     "sha256": "1ab18fb9e7773f36b0c96f51d835206af6603735bfc597323b2f761e7909efb9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4916-2019",
+   "path": "ordin/educatie/2019/4916",
+   "short": "Ordin educatie nr. 4916/2019",
+   "title": "Ordinul nr. 4.916/2019 privind organizarea și desfășurarea evaluării naționale pentru absolvenții clasei a VIII-a în anul școlar 2019-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217546",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217546",
+     "sha256": "d10ef66e920874f1f2cd022216dbf384a867289c62cc72b129366763fb1fb12b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4946-2019",
+   "path": "ordin/educatie/2019/4946",
+   "short": "Ordin educatie nr. 4946/2019",
+   "title": "Ordinul nr. 4.946/2019 privind aprobarea Calendarului de administrare a evaluărilor naționale la finalul claselor a II-a, a IV-a și a VI-a în anul școlar 2019-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217624",
+   "versions": [
+    {
+     "from": "2019-09-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217624",
+     "sha256": "3b37e2d782ccbbb23bb6eaabf591eb3aa4f2f38288dcff99eeaa780aee294c22"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4950-2019",
+   "path": "ordin/educatie/2019/4950",
+   "short": "Ordin educatie nr. 4950/2019",
+   "title": "Ordinul nr. 4.950/2019 privind organizarea și desfășurarea examenului de bacalaureat național - 2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217833",
+   "versions": [
+    {
+     "from": "2019-09-06",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217833",
+     "sha256": "cfffde81d380e1ec907243f30c90049959cff96bd8a750b4448037c7160c661a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5087-2019",
+   "path": "ordin/educatie/2019/5087",
+   "short": "Ordin educatie nr. 5087/2019",
+   "title": "Ordinul nr. 5.087/2019 privind organizarea, desfășurarea și calendarul admiterii în învățământul profesional de stat și în învățământul dual pentru anul școlar 2020-2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218009",
+   "versions": [
+    {
+     "from": "2019-09-18",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218009",
+     "sha256": "389fddd6a454c90f86e1ca158c0fca1119e4896d7b47e1ccbaa7f31facc0ee03"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5090-2019",
+   "path": "ordin/educatie/2019/5090",
+   "short": "Ordin educatie nr. 5090/2019",
+   "title": "Ordinul nr. 5.090/2019 pentru aprobarea Metodologiei privind fundamentarea cifrei de școlarizare pentru învățământul preuniversitar de stat, evidența efectivelor de preșcolari și elevi școlarizați în unitățile de învățământ particular, precum și emiterea avizului conform în vederea organizării rețelei unităților de învățământ preuniversitar pentru anul școlar 2020-2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217842",
+   "versions": [
+    {
+     "from": "2019-09-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217842",
+     "sha256": "0dd151e3a0cec549883c4abc7b4d33321690b1a0ef23ca0cf3bb02dc63058341"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5108-2019",
+   "path": "ordin/educatie/2019/5108",
+   "short": "Ordin educatie nr. 5108/2019",
+   "title": "Ordinul nr. 5.108/2019 privind aprobarea Calendarului etapelor și acțiunilor pentru stabilirea cifrei de școlarizare în învățământul dual și în învățământul profesional pentru anul școlar 2020-2021, precum și a modelelor pentru avizarea de către comitetul local de dezvoltare a parteneriatului social, Centrul Național de Dezvoltare a Învățământului Profesional și Tehnic și unitatea administrativ-teritorială a proiectului cifrei de școlarizare în învățământul dual și în învățământul profesional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217964",
+   "versions": [
+    {
+     "from": "2019-09-16",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217964",
+     "sha256": "5e547346844f28dd3e6988a5c042bd367d12a8f99100b2ea256bfc4155c3d0af"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5115-2019",
+   "path": "ordin/educatie/2019/5115",
+   "short": "Ordin educatie nr. 5115/2019",
+   "title": "Ordinul nr. 5.115/2019 privind aprobarea Procedurii pentru reglementarea modului de avizare a închirierii bunurilor imobile, temporar disponibile, aflate în proprietatea publică a statului și administrarea Ministerului Educației Naționale, în vederea aprobării închirierii acestor bunuri prin hotărâre a Guvernului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218437",
+   "versions": [
+    {
+     "from": "2019-09-25",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218437",
+     "sha256": "599e486721c7f556d8c74df75048badb49dfa63dba11ddd066ca75ed3aae70ca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5140-2019",
+   "path": "ordin/educatie/2019/5140",
+   "short": "Ordin educatie nr. 5140/2019",
+   "title": "Ordinul nr. 5.140/2019 pentru aprobarea Metodologiei privind mobilitatea academică a studenților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217903",
+   "versions": [
+    {
+     "from": "2019-09-12",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217903",
+     "sha256": "f8c3c7f79d7cc709ce87422ff31f5a256bcb76c45ccdb5c5afe2c29d85760634"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5146-2019",
+   "path": "ordin/educatie/2019/5146",
+   "short": "Ordin educatie nr. 5146/2019",
+   "title": "Ordinul nr. 5.146/2019 privind aprobarea aplicării generalizate a Sistemului european de credite transferabile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218617",
+   "versions": [
+    {
+     "from": "2019-10-02",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218617",
+     "sha256": "9906203cfbe1222f3f4b52b744b35e6b248fb5c3f3b4d68159e3ca052ae90217"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5191-2019",
+   "path": "ordin/educatie/2019/5191",
+   "short": "Ordin educatie nr. 5191/2019",
+   "title": "Ordinul nr. 5.191/2019 privind aprobarea listei instituțiilor de învățământ superior acreditate care pot organiza Programul de formare psihopedagogică în vederea certificării competențelor pentru profesia didactică, în anul universitar 2019-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218480",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218480",
+     "sha256": "af142072a4e67a6ca420864ec594329804cbb206c3c94b759eaa79126ac91b0c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5259-2019",
+   "path": "ordin/educatie/2019/5259",
+   "short": "Ordin educatie nr. 5259/2019",
+   "title": "Ordinul nr. 5.259/2019 pentru aprobarea Metodologiei-cadru privind mobilitatea personalului didactic de predare din învățământul preuniversitar în anul școlar 2020-2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220031",
+   "versions": [
+    {
+     "from": "2019-11-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220031",
+     "sha256": "e2b1b14bd224aaa102e8980f74e1efef59d039b2a8f58083ad3be8430b963011"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5554-2019",
+   "path": "ordin/educatie/2019/5554",
+   "short": "Ordin educatie nr. 5554/2019",
+   "title": "Ordinul nr. 5.554/2019 privind corelarea prin transfer a numărului de locuri între cicluri de studii universitare și numărul de locuri - granturi de studii (anul I) finanțate de la bugetul de stat din instituțiile de învățământ superior de stat, pentru anul universitar 2019-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/221201",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221201",
+     "sha256": "8dd3d1fbb3fb69854b7a366318fb78547e1617e68a887a8c9c6bf00ad3f1ba3d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5611-2019",
+   "path": "ordin/educatie/2019/5611",
+   "short": "Ordin educatie nr. 5611/2019",
+   "title": "Ordinul nr. 5.611/2019 pentru aprobarea Metodologiei privind eliberarea adeverinței de conformitate a studiilor cu prevederile Directivei 2005/36/CE privind recunoașterea calificărilor profesionale și a adeverinței privind certificarea competențelor pentru profesia de cadru didactic în învățământul preuniversitar, pentru cetățenii care au studiat în România, în vederea desfășurării activității didactice la nivel preuniversitar în străinătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/221906",
+   "versions": [
+    {
+     "from": "2020-01-08",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221906",
+     "sha256": "e644a987ba3d5a32802655f96f008b1e6cea81e2863e37ced915d8fe910d1547"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5633-2019",
+   "path": "ordin/educatie/2019/5633",
+   "short": "Ordin educatie nr. 5633/2019",
+   "title": "Ordinul nr. 5.633/2019 pentru aprobarea Metodologiei de monitorizare a segregării școlare în învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/221797",
+   "versions": [
+    {
+     "from": "2019-12-31",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221797",
+     "sha256": "bc0e2bdebe42f2845441607601f3adcc0f5ef0d292de69fc7640c184dc3b1013"
     }
    ]
   },
@@ -4859,6 +5984,66 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217556",
      "sha256": "c22d14e5bed966c4ebc72deb32754e8ce25b0005d4c8edaeae83677784fd2af4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-guvern-1054-2019",
+   "path": "ordin/guvern/2019/1054",
+   "short": "Ordin guvern nr. 1054/2019",
+   "title": "Ordinul nr. 1.054/2019 pentru aprobarea Normelor metodologice privind coordonarea și supravegherea prin misiuni de îndrumare metodologică a stadiului implementării și dezvoltării sistemului de control intern managerial la entitățile publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218976",
+   "versions": [
+    {
+     "from": "2019-10-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218976",
+     "sha256": "90f40c6c3b7a3f87bb2a2accb7b54f224cc26c2f275e87ff69c4400cb4cc26d2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-guvern-1142-2019",
+   "path": "ordin/guvern/2019/1142",
+   "short": "Ordin guvern nr. 1142/2019",
+   "title": "Ordinul nr. 1.142/2019 pentru aprobarea Procedurii de anulare a obligațiilor de plată accesorii potrivit art. 33 din Ordonanța Guvernului nr. 6/2019 privind instituirea unor facilități fiscale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219734",
+   "versions": [
+    {
+     "from": "2019-11-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219734",
+     "sha256": "91dd535c69eb9b0c663a881343d1a7b39c3b958462a6fd710ad1b3278300d812"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-guvern-733-2019",
+   "path": "ordin/guvern/2019/733",
+   "short": "Ordin guvern nr. 733/2019",
+   "title": "Ordinul nr. 733/2019 privind aprobarea listei tarifelor pentru analizele probelor de control doping, suplimentelor alimentare și pentru serviciile oferite de Laboratorul de control doping",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/216798",
+   "versions": [
+    {
+     "from": "2019-08-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216798",
+     "sha256": "93ba71317d01fe04b2c97013070701e23048ae997bc8d29db061b0a6674442a4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-guvern-981-2019",
+   "path": "ordin/guvern/2019/981",
+   "short": "Ordin guvern nr. 981/2019",
+   "title": "Ordinul nr. 981/2019 privind stabilirea procedurii de efectuare a plății sumelor prevăzute prin hotărâri judecătorești, având ca obiect acordarea unor drepturi de natură salarială stabilite în favoarea personalului din cadrul Secretariatului General al Guvernului și al structurilor, organelor de specialitate ale administrației publice centrale și instituțiilor publice finanțate prin bugetul Secretariatului General al Guvernului, devenite executorii în perioada 1 ianuarie 2019-31 decembrie 2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218614",
+   "versions": [
+    {
+     "from": "2019-10-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218614",
+     "sha256": "1c0ed0397faae9052f4e7bd694ca5c2f11c75e62d9c0f68afaa67e477199657a"
     }
    ]
   },

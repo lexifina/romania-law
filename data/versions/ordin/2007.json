@@ -221,7 +221,7 @@
    "versions": [
     {
      "from": "2007-08-29",
-     "units": 10,
+     "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84851",
      "sha256": "af4bfa7390d45448dbe068192a36bb66206da4b4f062b6757d7cca5829f293a1"
     }
@@ -311,7 +311,7 @@
    "versions": [
     {
      "from": "2007-10-17",
-     "units": 6,
+     "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86177",
      "sha256": "80ce5c2941541dd50d33e20f3fe903a9b52a408639be050e03e20a6416da6146"
     }
@@ -416,7 +416,7 @@
    "versions": [
     {
      "from": "2007-12-13",
-     "units": 10,
+     "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87856",
      "sha256": "3f55be916d7aa2232a535b3b707af722ff02b2dc8f3008f8354ac98e4112410f"
     }
@@ -611,7 +611,7 @@
    "versions": [
     {
      "from": "2007-06-04",
-     "units": 13,
+     "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82534",
      "sha256": "c6eb283de16c9a6d47bb3965f44a3c246aeee79fb4dcdc6073cd5b9fd66c7eb8"
     }
@@ -686,7 +686,7 @@
    "versions": [
     {
      "from": "2007-02-06",
-     "units": 15,
+     "units": 17,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79297",
      "sha256": "a1b4e62c2edd7fe33ba5267fc840d8bd93a4c7a26c47f5ff3d541e083c2d8bad"
     }
@@ -1556,7 +1556,7 @@
    "versions": [
     {
      "from": "2008-01-01",
-     "units": 5,
+     "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88080",
      "sha256": "2618a495fde6c9b128b60831b0b87aae427043d2f4fee10f3a3810a6212dddc3"
     }
@@ -1571,7 +1571,7 @@
    "versions": [
     {
      "from": "2007-04-01",
-     "units": 3,
+     "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80817",
      "sha256": "69df2a1b00329084b798bf85959256e38f01fe638f8979891fe3c9396184f0a0"
     }
@@ -1586,7 +1586,7 @@
    "versions": [
     {
      "from": "2008-01-01",
-     "units": 11,
+     "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88333",
      "sha256": "52926d35bbaf76360c006bca5c5cb97df4ca340fe048f4cdc10494747370ac94"
     }
@@ -1601,7 +1601,7 @@
    "versions": [
     {
      "from": "2008-01-01",
-     "units": 4,
+     "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88140",
      "sha256": "53a84ac8028033353c72dc2e808167383728b663e2a8a3fad17d6ef744e297d1"
     }
@@ -1676,7 +1676,7 @@
    "versions": [
     {
      "from": "2008-01-01",
-     "units": 21,
+     "units": 23,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88361",
      "sha256": "a89bae68d0ef6373dff90524c8de2a8cee434ed68b81e92525b487d949bd994f"
     }
@@ -1728,6 +1728,36 @@
    ]
   },
   {
+   "slug": "ordin-ansvsa-11-2007",
+   "path": "ordin/ansvsa/2007/11",
+   "short": "Ordin ansvsa nr. 11/2007",
+   "title": "Ordinul nr. 11/2007 pentru aprobarea Normei sanitare veterinare privind organizarea și desfășurarea activității de control oficial sanitar-veterinar efectuat de către personalul sanitar-veterinar în unitățile care produc alimente de origine animală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79339",
+   "versions": [
+    {
+     "from": "2007-02-07",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79339",
+     "sha256": "acd67a3a058e763b9e713e8c5982c6543d8e6a72f48da31615ee3d334a243cd7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-113-2007",
+   "path": "ordin/ansvsa/2007/113",
+   "short": "Ordin ansvsa nr. 113/2007",
+   "title": "Ordinul nr. 113/2007 pentru aprobarea Normei sanitare veterinare privind măsurile pentru combaterea febrei aftoase",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82817",
+   "versions": [
+    {
+     "from": "2007-06-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82817",
+     "sha256": "817d3b9407352be11894f4ead6e9312ae2a8eb45a7bee3cea46051eee832594e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-118-2007",
    "path": "ordin/ansvsa/2007/118",
    "short": "Ordin ansvsa nr. 118/2007",
@@ -1739,6 +1769,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83200",
      "sha256": "f1d035cf7a221d38c078c69a954f006ee08a35e17a1dfd158e1aed28dd63feb8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-12-2007",
+   "path": "ordin/ansvsa/2007/12",
+   "short": "Ordin ansvsa nr. 12/2007",
+   "title": "Ordinul nr. 12/2007 privind aprobarea tarifelor pentru manopera acțiunilor de supraveghere, prevenire și control al bolilor la animale, al celor transmisibile de la animale la om, protecția animalelor și protecția mediului, pentru anul 2007, efectuate de către medicii veterinari de liberă practică împuterniciți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79031",
+   "versions": [
+    {
+     "from": "2007-01-30",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79031",
+     "sha256": "9ceda0e277320d33a2a63afd18e02bdfae8f5b5d20a97135bf3dde601f1da8a0"
     }
    ]
   },
@@ -1758,6 +1803,171 @@
    ]
   },
   {
+   "slug": "ordin-ansvsa-129-2007",
+   "path": "ordin/ansvsa/2007/129",
+   "short": "Ordin ansvsa nr. 129/2007",
+   "title": "Ordinul nr. 129/2007 pentru aprobarea Normei privind controalele veterinare și zootehnice aplicabile comerțului intracomunitar cu anumite animale vii și produse de origine animală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84240",
+   "versions": [
+    {
+     "from": "2007-08-08",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84240",
+     "sha256": "6406ff32c226789aa7d761ad2cb99cb48b78e9c343b72fb87b1ab2fc5c49495f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-13-2007",
+   "path": "ordin/ansvsa/2007/13",
+   "short": "Ordin ansvsa nr. 13/2007",
+   "title": "Ordinul nr. 13/2007 pentru aprobarea Normei sanitare veterinare privind unele măsuri de protecție în legătură cu gripa aviara în unele tari terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79066",
+   "versions": [
+    {
+     "from": "2007-01-31",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79066",
+     "sha256": "c0220865ee6e66e64cddbbc97a4213c248ec237fe44e84664e187737af6208c6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-143-2007",
+   "path": "ordin/ansvsa/2007/143",
+   "short": "Ordin ansvsa nr. 143/2007",
+   "title": "Ordinul nr. 143/2007 privind aprobarea Studiului preliminar referitor la determinarea prevalenței germenilor din genul Salmonella la porcinele pentru îngrășare tăiate în abatoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83757",
+   "versions": [
+    {
+     "from": "2007-07-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83757",
+     "sha256": "ec8f49379c0de8300b14e77ba820811974658869bc7573acb2f2598ec0e35baa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-144-2007",
+   "path": "ordin/ansvsa/2007/144",
+   "short": "Ordin ansvsa nr. 144/2007",
+   "title": "Ordinul nr. 144/2007 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 301/2006 privind aprobarea Normei sanitare veterinare și pentru siguranța alimentelor privind procedurile de înregistrare a activităților de vânzare directă de produse primare, a activităților de vânzare cu amănuntul și a activităților de fabricare a alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83449",
+   "versions": [
+    {
+     "from": "2007-07-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83449",
+     "sha256": "6cd0627695d76a1d2c394febaa37380f8281e302902c1583f5187cc867894e0f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-145-2007",
+   "path": "ordin/ansvsa/2007/145",
+   "short": "Ordin ansvsa nr. 145/2007",
+   "title": "Ordinul nr. 145/2007 privind aprobarea Normei pentru siguranța alimentelor care stabilește condițiile în care se derulează operațiunile de import-export și comerț intracomunitar de produse alimentare de origine nonanimală supuse supravegherii și controlului pentru siguranța alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83280",
+   "versions": [
+    {
+     "from": "2007-07-01",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83280",
+     "sha256": "408f067dd0cda935b7d4bea5fbe0ef79792a6df8b369318cbbe38ade8ff88878"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-15-2007",
+   "path": "ordin/ansvsa/2007/15",
+   "short": "Ordin ansvsa nr. 15/2007",
+   "title": "Ordinul nr. 15/2007 pentru aprobarea Normei sanitare veterinare privind circulația furajelor combinate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79357",
+   "versions": [
+    {
+     "from": "2007-02-08",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79357",
+     "sha256": "450f48c19826da6a61ff9021cd8b654014660bffd9bc711f2a3436ca2fa282ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-153-2007",
+   "path": "ordin/ansvsa/2007/153",
+   "short": "Ordin ansvsa nr. 153/2007",
+   "title": "Ordinul nr. 153/2007 privind modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 34/2006 pentru aprobarea Normei sanitare veterinare referitoare la monitorizarea zoonozelor și agenților zoonotici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84416",
+   "versions": [
+    {
+     "from": "2007-08-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84416",
+     "sha256": "b579d689a4dbeb020caf3c4dd9e0a456bbcbbb7996cf5785218d41646bae8e6a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-154-2007",
+   "path": "ordin/ansvsa/2007/154",
+   "short": "Ordin ansvsa nr. 154/2007",
+   "title": "Ordinul nr. 154/2007 pentru aprobarea Normei sanitare veterinare privind strategia de supraveghere a bolii limbii albastre",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84711",
+   "versions": [
+    {
+     "from": "2007-08-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84711",
+     "sha256": "d207e6ae58e23e681c690979be69792109bff00671431628ce54dcfaa95a0557"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-155-2007",
+   "path": "ordin/ansvsa/2007/155",
+   "short": "Ordin ansvsa nr. 155/2007",
+   "title": "Ordinul nr. 155/2007 privind abrogarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 122/2005 pentru aprobarea Normei sanitare veterinare care stabilește lista produselor ce trebuie să fie examinate la posturile de inspecție de frontieră în baza Directivei Consiliului 97/78/EC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84631",
+   "versions": [
+    {
+     "from": "2007-08-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84631",
+     "sha256": "22fc684854e079e33fd53f0a0d0253cac6cc685cc6ef285c44e8e97f6e5848ef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-159-2007",
+   "path": "ordin/ansvsa/2007/159",
+   "short": "Ordin ansvsa nr. 159/2007",
+   "title": "Ordinul nr. 159/2007 privind aprobarea Procedurii în vederea aplicării derogărilor temporare de la dispozițiile Deciziei Comisiei 2006/802/CE pentru mișcarea porcinelor pentru tăiere provenite din exploatațiile nonprofesionale din România și utilizarea ulterioară a cărnii acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84595",
+   "versions": [
+    {
+     "from": "2007-08-20",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84595",
+     "sha256": "a462d8510ced08b9730ecdc166eb09b03d22908765a953ea7e05404ef4520361"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-16-2007",
+   "path": "ordin/ansvsa/2007/16",
+   "short": "Ordin ansvsa nr. 16/2007",
+   "title": "Ordinul nr. 16/2007 pentru aprobarea Normei sanitare veterinare referitoare la tarifele sanitare veterinare privind finanțarea inspecțiilor și controalelor veterinare la frontieră, pentru controlul produselor de origine animală și al animalelor vii, introduse din țări terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79289",
+   "versions": [
+    {
+     "from": "2007-02-06",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79289",
+     "sha256": "ef44cd711a4124c44dce7dd11cdcddbb263ed5b078b239378923b9ad0340ed35"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-160-2007",
    "path": "ordin/ansvsa/2007/160",
    "short": "Ordin ansvsa nr. 160/2007",
@@ -1769,6 +1979,381 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86276",
      "sha256": "190690d627db75efa27bbecf1a4791140581fa88e86a824b397ea4c9612e11d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-161-2007",
+   "path": "ordin/ansvsa/2007/161",
+   "short": "Ordin ansvsa nr. 161/2007",
+   "title": "Ordinul nr. 161/2007 privind modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 23/2007 privind aprobarea Normei sanitare veterinare și pentru siguranța alimentelor privind stabilirea limitelor maxime de reziduuri de pesticide din conținutul sau de pe suprafața produselor alimentare de origine animală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84728",
+   "versions": [
+    {
+     "from": "2007-08-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84728",
+     "sha256": "f8ef3110d717024e0060b130496a21f4b0ad6a0036b83fe8da2fdbe5a715529f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-165-2007",
+   "path": "ordin/ansvsa/2007/165",
+   "short": "Ordin ansvsa nr. 165/2007",
+   "title": "Ordinul nr. 165/2007 privind modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 300/2006 pentru aprobarea Programului acțiunilor de supraveghere, prevenire și control al bolilor la animale, al celor transmisibile de la animale la om, protecția animalelor și protecția mediului pentru anul 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84821",
+   "versions": [
+    {
+     "from": "2007-08-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84821",
+     "sha256": "ef95d63e87326d94a6abee592dace358693d8cc2bcaf1881237137d3c6c1e9da"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-166-2007",
+   "path": "ordin/ansvsa/2007/166",
+   "short": "Ordin ansvsa nr. 166/2007",
+   "title": "Ordinul nr. 166/2007 pentru aprobarea Normei sanitare veterinare care stabilește măsuri tranzitorii privind aplicarea sistemului de identificare și înregistrare a animalelor din speciile ovine și caprine stabilit de Regulamentul Consiliului (CE) nr. 21/2004 care stabilește un sistem de identificare și de înregistrare a animalelor din speciile ovine și caprine și de modificare a Regulamentului (CE) nr. 1.782/2003 și a directivelor 92/102/CEE și 64/432/CEE",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84793",
+   "versions": [
+    {
+     "from": "2007-08-27",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84793",
+     "sha256": "9c5b1c45f6765cfdcad6777ad08401ff28611bbe7b7aed9a67e1777bac945573"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-17-2007",
+   "path": "ordin/ansvsa/2007/17",
+   "short": "Ordin ansvsa nr. 17/2007",
+   "title": "Ordinul nr. 17/2007 pentru aprobarea Instrucțiunilor privind măsurile de combatere a anumitor boli ale animalelor de acvacultură pentru implementarea Normei sanitare veterinare privind condițiile de sănătate a animalelor care reglementează punerea pe piață a animalelor și a produselor de acvacultură, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 82/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79598",
+   "versions": [
+    {
+     "from": "2007-02-16",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79598",
+     "sha256": "675efba39b52f22807fd801c2c9f1b6ec1351ef1be2ef675e4401f2b677ff1c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-170-2007",
+   "path": "ordin/ansvsa/2007/170",
+   "short": "Ordin ansvsa nr. 170/2007",
+   "title": "Ordinul nr. 170/2007 pentru aprobarea Normei sanitare veterinare ce stabilește cerințele de sănătate animală pentru animalele de acvacultură și produsele acestora, precum și pentru prevenirea și controlul anumitor boli ale animalelor acvatice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85920",
+   "versions": [
+    {
+     "from": "2008-08-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85920",
+     "sha256": "83722411896d99524518ad0c22b2206ae8e0a1e52114a4ab4a8c44a7afd9431f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-174-2007",
+   "path": "ordin/ansvsa/2007/174",
+   "short": "Ordin ansvsa nr. 174/2007",
+   "title": "Ordinul nr. 174/2007 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 45/2005 privind aprobarea tarifelor pentru efectuarea analizelor și examenelor de laborator, precum și a unor activități sanitare veterinare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86034",
+   "versions": [
+    {
+     "from": "2007-10-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86034",
+     "sha256": "7f7450ce2fe522948dca590d6ecafea195ca6e2490e1636802767bb167d490c5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-18-2007",
+   "path": "ordin/ansvsa/2007/18",
+   "short": "Ordin ansvsa nr. 18/2007",
+   "title": "Ordinul nr. 18/2007 pentru aprobarea Normei sanitare veterinare și pentru siguranța alimentelor privind substanțele nedorite din hrana pentru animale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79734",
+   "versions": [
+    {
+     "from": "2007-03-24",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79734",
+     "sha256": "0dddaf782c19b2c0f79e53dad585bdcde52ff05617df4eba661c9f176a7ca028"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-183-2007",
+   "path": "ordin/ansvsa/2007/183",
+   "short": "Ordin ansvsa nr. 183/2007",
+   "title": "Ordinul nr. 183/2007 privind abrogarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 138/2005 pentru aprobarea Normei sanitare veterinare care stabilește regulile privind importul, exportul și tranzitul produselor de origine animală cuprinse în anexa la Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 122/2005 pentru aprobarea Normei sanitare veterinare care stabilește lista produselor ce trebuie să fie examinate la posturile de inspecție la frontieră în baza Directivei Consiliului 97/78/CE, precum și animalelor vii, produselor medicinale de uz veterinar și furajelor cuprinse în anexele la Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 123/2005 pentru aprobarea listelor care cuprind animalele vii, produsele medicinale de uz veterinar și furajele supuse controlului sanitar-veterinar la posturile de inspecție la frontieră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86574",
+   "versions": [
+    {
+     "from": "2007-11-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86574",
+     "sha256": "fe61761892eed108fb2a41454ceee6ff688434d8ee28f185537b31cbe6c010db"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-187-2007",
+   "path": "ordin/ansvsa/2007/187",
+   "short": "Ordin ansvsa nr. 187/2007",
+   "title": "Ordinul nr. 187/2007 pentru aprobarea Normei sanitare veterinare privind Codul produselor medicinale veterinare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87275",
+   "versions": [
+    {
+     "from": "2007-11-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87275",
+     "sha256": "3d1075c74ed8c8f408c0fc099d91d24d0a7f0e9df2a2b6f644c5c8625cf44bc7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-188-2007",
+   "path": "ordin/ansvsa/2007/188",
+   "short": "Ordin ansvsa nr. 188/2007",
+   "title": "Ordinul nr. 188/2007 pentru aprobarea Normei sanitare veterinare referitoare la unele măsuri de protecție privind influența aviară produsă de subtipul H5N1 înalt patogen la păsările crescute în scop comercial",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86966",
+   "versions": [
+    {
+     "from": "2007-11-15",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86966",
+     "sha256": "a700ba543a232f89566cb0edb6feea374d590862bfd042378748108656ee1a10"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-19-2007",
+   "path": "ordin/ansvsa/2007/19",
+   "short": "Ordin ansvsa nr. 19/2007",
+   "title": "Ordinul nr. 19/2007 pentru aprobarea Normei sanitare veterinare privind cerințele pentru aprobarea posturilor de inspecție la frontieră responsabile pentru controalele sanitare veterinare ale produselor introduse în Comunitatea Europeană, provenind din țări terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79704",
+   "versions": [
+    {
+     "from": "2007-02-22",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79704",
+     "sha256": "a665b7370527c3d28c8c4a7bdb9ea210d6012ddbebaf9d2a63ffd5cdba891107"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-197-2007",
+   "path": "ordin/ansvsa/2007/197",
+   "short": "Ordin ansvsa nr. 197/2007",
+   "title": "Ordinul nr. 197/2007 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 15/2007 pentru aprobarea Normei sanitare veterinare privind circulația furajelor combinate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88138",
+   "versions": [
+    {
+     "from": "2007-12-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88138",
+     "sha256": "98341dd77a07c036caf51d9643809c812d7027c6e1a1275b82f3ad7b2c7e5934"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-20-2007",
+   "path": "ordin/ansvsa/2007/20",
+   "short": "Ordin ansvsa nr. 20/2007",
+   "title": "Ordinul nr. 20/2007 privind aprobarea Normei sanitare veterinare ce stabilește metode comunitare de analiză pentru determinarea vitaminei A, a vitaminei E și a triptofanului din furaje",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79883",
+   "versions": [
+    {
+     "from": "2007-03-10",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79883",
+     "sha256": "31eddab31cec09ac287d0fd53a043c5c9e5d368c70f5ca7b696aee2be0c0eacc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-201-2007",
+   "path": "ordin/ansvsa/2007/201",
+   "short": "Ordin ansvsa nr. 201/2007",
+   "title": "Ordinul nr. 201/2007 privind Procedura de eliberare a Certificatului de competență profesională pentru conducătorii și însoțitorii de pe vehiculele rutiere care transportă animale vii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88136",
+   "versions": [
+    {
+     "from": "2007-12-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88136",
+     "sha256": "4d8a91ac93d49388ca8e352120434ae048abe82c91803d0b66bf194343b7afe2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-202-2007",
+   "path": "ordin/ansvsa/2007/202",
+   "short": "Ordin ansvsa nr. 202/2007",
+   "title": "Ordinul nr. 202/2007 pentru modificarea Normei sanitare veterinare privind anumite măsuri de protecție referitoare la influența aviară cu subtipul H5N1, tipul înalt patogen, la păsările sălbatice din Comunitatea Europeană, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 37/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89041",
+   "versions": [
+    {
+     "from": "2008-01-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89041",
+     "sha256": "e051dfa63c6641b3b4012bc6f56abe38c681909e962d7627166ede889abbc361"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-203-2007",
+   "path": "ordin/ansvsa/2007/203",
+   "short": "Ordin ansvsa nr. 203/2007",
+   "title": "Ordinul nr. 203/2007 privind aprobarea Instrucțiunilor pentru organizarea și desfășurarea activității de control oficial în unitățile de prelucrare, procesare, depozitare, transport, valorificare și comercializare a produselor și subproduselor alimentare de origine nonanimală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88285",
+   "versions": [
+    {
+     "from": "2007-12-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88285",
+     "sha256": "70fae1d957560ba231d2177b083af307d6c5930fa4a17c5a0efd7c32f2840fac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-204-2007",
+   "path": "ordin/ansvsa/2007/204",
+   "short": "Ordin ansvsa nr. 204/2007",
+   "title": "Ordinul nr. 204/2007 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 64/2007 pentru aprobarea Normei sanitare veterinare privind organizarea și desfășurarea activității de control oficial sanitar-veterinar efectuat de către personalul de specialitate în unitățile care produc alimente de origine animală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88231",
+   "versions": [
+    {
+     "from": "2007-12-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88231",
+     "sha256": "c08b0c30103abe07a2024ccd0a46c3e001aabba016def72a6c363b09f78d6bec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-205-2007",
+   "path": "ordin/ansvsa/2007/205",
+   "short": "Ordin ansvsa nr. 205/2007",
+   "title": "Ordinul nr. 205/2007 privind aprobarea laboratoarelor naționale de referință și a atribuțiilor acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88513",
+   "versions": [
+    {
+     "from": "2008-01-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88513",
+     "sha256": "94ad8423f2bfbfa0d48f4a82729b68f69a889f32057b7ad15e2ce8f028f60350"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-207-2007",
+   "path": "ordin/ansvsa/2007/207",
+   "short": "Ordin ansvsa nr. 207/2007",
+   "title": "Ordinul nr. 207/2007 pentru modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 23/2007 privind aprobarea Normei sanitare veterinare și pentru siguranța alimentelor privind stabilirea limitelor maxime de reziduuri de pesticide din conținutul sau de pe suprafața produselor alimentare de origine animală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88311",
+   "versions": [
+    {
+     "from": "2008-01-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88311",
+     "sha256": "23553e5731b6c4350b07aed1c429519c58d4fa01328d2f797c078e7f2092834c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-209-2007",
+   "path": "ordin/ansvsa/2007/209",
+   "short": "Ordin ansvsa nr. 209/2007",
+   "title": "Ordinul nr. 209/2007 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 301/2006 privind aprobarea Normei sanitare veterinare și pentru siguranța alimentelor privind procedurile de înregistrare a activităților de vânzare directă de produse primare, a activităților de vânzare cu amănuntul și a activităților de fabricăre a alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88266",
+   "versions": [
+    {
+     "from": "2007-12-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88266",
+     "sha256": "218cb3eb46be6d33ccd620bccc55b4c5e4639115e0c5aa2bb3e6f825b0349026"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-21-2007",
+   "path": "ordin/ansvsa/2007/21",
+   "short": "Ordin ansvsa nr. 21/2007",
+   "title": "Ordinul nr. 21/2007 privind completarea unor ordine ce reglementează domeniul sanitar veterinar și pentru siguranța alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79692",
+   "versions": [
+    {
+     "from": "2007-02-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79692",
+     "sha256": "a6e6ec605d794700e90500c841fa9f109bf1108b0696c87bfc3c581895d29400"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-210-2007",
+   "path": "ordin/ansvsa/2007/210",
+   "short": "Ordin ansvsa nr. 210/2007",
+   "title": "Ordinul nr. 210/2007 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 144/2006 pentru aprobarea Normei sanitare veterinare privind condițiile de sănătate a animalelor, care reglementează comerțul intracomunitar și importul din țări terțe de păsări și ouă de incubație",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88468",
+   "versions": [
+    {
+     "from": "2008-01-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88468",
+     "sha256": "c7a74642d7abcf596d3d63a1228eadcdd628e5d3340ce1cd578e7bc667448289"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-211-2007",
+   "path": "ordin/ansvsa/2007/211",
+   "short": "Ordin ansvsa nr. 211/2007",
+   "title": "Ordinul nr. 211/2007 privind prorogarea termenului prevăzut în Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 299/2006 pentru aprobarea Programului de supraveghere și control în domeniul siguranței alimentelor pentru anul 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88294",
+   "versions": [
+    {
+     "from": "2007-12-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88294",
+     "sha256": "72b8351f2c8d6cc8452bf580628d113a82bb3b20b2b79b95d300319b9d6a7230"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-212-2007",
+   "path": "ordin/ansvsa/2007/212",
+   "short": "Ordin ansvsa nr. 212/2007",
+   "title": "Ordinul nr. 212/2007 pentru prorogarea termenului prevăzut în Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 300/2006 privind aprobarea Programului acțiunilor de supraveghere, prevenire și control al bolilor la animale, al celor transmisibile de la animale la om, protecția animalelor și protecția mediului pentru anul 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88295",
+   "versions": [
+    {
+     "from": "2007-12-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88295",
+     "sha256": "32ee975b76c89e7ed75c198a441368c7272ad3e210139e3e4b7ad143208f3f60"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-213-2007",
+   "path": "ordin/ansvsa/2007/213",
+   "short": "Ordin ansvsa nr. 213/2007",
+   "title": "Ordinul nr. 213/2007 privind aprobarea Programului de supraveghere și control în domeniul siguranței alimentelor pentru anul 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88956",
+   "versions": [
+    {
+     "from": "2008-01-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88956",
+     "sha256": "d331b32ea3cf28ea8f985aebe85833f80d3bc525a5d22f1be278173b58c466db"
     }
    ]
   },
@@ -1788,6 +2373,81 @@
    ]
   },
   {
+   "slug": "ordin-ansvsa-22-2007",
+   "path": "ordin/ansvsa/2007/22",
+   "short": "Ordin ansvsa nr. 22/2007",
+   "title": "Ordinul nr. 22/2007 privind aprobarea Normei sanitare veterinare ce stabilește metode de analiză pentru controlul oficial al furajelor privind nivelurile amidonului, proteinei brute, proteinei brute care poate fi dizolvată de pepsină și acid clorhidric, gosipolului liber și total și cu referire la activitatea pepsinei, precum și determinarea nivelurilor de tilozină și virginiamicină din furaje",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79840",
+   "versions": [
+    {
+     "from": "2007-02-27",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79840",
+     "sha256": "1a543777d7790bb639f965f987301a3d9c50e989fcacfcceccb09e38aa7951fb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-23-2007",
+   "path": "ordin/ansvsa/2007/23",
+   "short": "Ordin ansvsa nr. 23/2007",
+   "title": "Ordinul nr. 23/2007 privind aprobarea Normei sanitare veterinare și pentru siguranța alimentelor privind stabilirea limitelor maxime de reziduuri de pesticide din conținutul sau de pe suprafața produselor alimentare de origine animală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79817",
+   "versions": [
+    {
+     "from": "2007-02-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79817",
+     "sha256": "73b5910f3762ad3590b086b0dbcc3a56b52a00c73e91bd011d627fdb63b9fcfb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-24-2007",
+   "path": "ordin/ansvsa/2007/24",
+   "short": "Ordin ansvsa nr. 24/2007",
+   "title": "Ordinul nr. 24/2007 privind aprobarea Normei sanitare veterinare ce stabilește metode de analiză pentru determinarea produselor amprolium, diclazuril și carbadox din furaje",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79812",
+   "versions": [
+    {
+     "from": "2007-02-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79812",
+     "sha256": "fa0434ed5e79d9ffdd52c2e9faf8e8812ec330f80a47ae4b08e219db9c61339a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-26-2007",
+   "path": "ordin/ansvsa/2007/26",
+   "short": "Ordin ansvsa nr. 26/2007",
+   "title": "Ordinul nr. 26/2007 privind aprobarea Normei sanitare veterinare ce stabilește metode de prelevare de probe pentru controlul oficial al furajelor cu privire la determinarea constituenților, aditivilor, substanțelor și produselor nedorite, cu excepția reziduurilor de pesticide și microorganisme",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79693",
+   "versions": [
+    {
+     "from": "2007-02-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79693",
+     "sha256": "21a844fc6a2bf643458fcbe05179b0c5697ece50f9ec735e77ccb16ca702168a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-28-2007",
+   "path": "ordin/ansvsa/2007/28",
+   "short": "Ordin ansvsa nr. 28/2007",
+   "title": "Ordinul nr. 28/2007 pentru aprobarea Normei sanitare veterinare care stabilește măsurile de biosecuritate pentru a reduce riscul transmiterii influenței aviare înalt patogene provocate de virusul A al influenței aviare subtipul H5N1 de la păsările vii care trăiesc în sălbăticie la păsările domestice și alte păsări captive și care prevede un sistem de detectare rapidă în zonele expuse unui risc deosebit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79706",
+   "versions": [
+    {
+     "from": "2007-03-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79706",
+     "sha256": "45dfb307390731aba27167ecaf6ea564afb0a280ea6fb414f6d3e3df8d0a9a1c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-288-2007",
    "path": "ordin/ansvsa/2007/288",
    "short": "Ordin ansvsa nr. 288/2007",
@@ -1803,6 +2463,201 @@
    ]
   },
   {
+   "slug": "ordin-ansvsa-29-2007",
+   "path": "ordin/ansvsa/2007/29",
+   "short": "Ordin ansvsa nr. 29/2007",
+   "title": "Ordinul nr. 29/2007 pentru aprobarea Normei sanitare veterinare privind furajele destinate unor scopuri nutriționale speciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79708",
+   "versions": [
+    {
+     "from": "2007-02-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79708",
+     "sha256": "f37d71789f301c23e9bf58c14c1d634aa0ba936d964699cd63885f5dc85f729e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-3-2007",
+   "path": "ordin/ansvsa/2007/3",
+   "short": "Ordin ansvsa nr. 3/2007",
+   "title": "Ordinul nr. 3/2007 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 276/2006 pentru aprobarea Normei sanitare veterinare privind procedura de autorizare sanitara veterinara a unităților care produc alimente de origine animala",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78633",
+   "versions": [
+    {
+     "from": "2007-01-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78633",
+     "sha256": "093ab95874bfe6f9d82e5bc564ab8db2b5451c9258ab935154ac2aceb39bcd02"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-37-2007",
+   "path": "ordin/ansvsa/2007/37",
+   "short": "Ordin ansvsa nr. 37/2007",
+   "title": "Ordinul nr. 37/2007 pentru aprobarea Normei sanitare veterinare privind anumite măsuri de protecție referitoare la influența aviară cu subtipul H5N1, tipul înalt patogen, la păsările sălbatice din Comunitatea Europeană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80191",
+   "versions": [
+    {
+     "from": "2007-03-13",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80191",
+     "sha256": "ed95ae97e169a6f269b838d023f75f6c7fd09f82a60445c71dce54ba48895c4d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-38-2007",
+   "path": "ordin/ansvsa/2007/38",
+   "short": "Ordin ansvsa nr. 38/2007",
+   "title": "Ordinul nr. 38/2007 privind aprobarea Normei sanitare veterinare pentru stabilirea cerințelor privind sănătatea animalelor și certificarea veterinară pentru importul în Comunitatea Europeană al embrionilor de bovine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80006",
+   "versions": [
+    {
+     "from": "2007-03-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80006",
+     "sha256": "f782c74f28badc6216204a6716de91dce8bc836b889a2caf167f96ca6ec73964"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-39-2007",
+   "path": "ordin/ansvsa/2007/39",
+   "short": "Ordin ansvsa nr. 39/2007",
+   "title": "Ordinul nr. 39/2007 privind aprobarea Normei sanitare veterinare ce stabilește metode de analiză pentru controlul oficial al furajelor privind umiditatea, bazele azotate volatile, fosforul total, uleiurile și grăsimile brute",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80121",
+   "versions": [
+    {
+     "from": "2007-03-07",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80121",
+     "sha256": "44cf53a6a662a3c7a88c33889b6b096bb85cf1b73d67dd8a1b948b3762c50c3e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-40-2007",
+   "path": "ordin/ansvsa/2007/40",
+   "short": "Ordin ansvsa nr. 40/2007",
+   "title": "Ordinul nr. 40/2007 privind aprobarea Normei sanitare veterinare ce stabilește metode pentru controlul oficial al furajelor cu privire la conținutul de acid cianhidric, calciu, carbonați, cenușă brută, cenușă insolubilă în HCL, clor din cloruri, lactoză, potasiu, sodiu, zaharuri și uree și estimarea activității ureazice a produselor derivate din soia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80084",
+   "versions": [
+    {
+     "from": "2007-03-08",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80084",
+     "sha256": "d0825c53ffdd91f6f255d047187c5d32e90a2254f1d5f0b6e9ff1c81e70042cf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-41-2007",
+   "path": "ordin/ansvsa/2007/41",
+   "short": "Ordin ansvsa nr. 41/2007",
+   "title": "Ordinul nr. 41/2007 privind modificarea și completarea Normei sanitare veterinare privind condițiile de sănătate a animalelor, care reglementează punerea pe piață a animalelor și a produselor de acvacultură, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 82/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80000",
+   "versions": [
+    {
+     "from": "2007-03-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80000",
+     "sha256": "32813907b3e81ac28476c21718a4e1561a9233b12704ba8a8b2cf3c845dcce99"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-43-2007",
+   "path": "ordin/ansvsa/2007/43",
+   "short": "Ordin ansvsa nr. 43/2007",
+   "title": "Ordinul nr. 43/2007 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 30/2006 pentru aprobarea Normei sanitare veterinare privind condițiile de sănătate a animalelor ce guvernează mișcarea ecvideelor și importul lor din țări terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80003",
+   "versions": [
+    {
+     "from": "2007-03-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80003",
+     "sha256": "570248a60c67293c165e8f79929082a2bba56add89cb42bbf008ca0642914b30"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-44-2007",
+   "path": "ordin/ansvsa/2007/44",
+   "short": "Ordin ansvsa nr. 44/2007",
+   "title": "Ordinul nr. 44/2007 privind abrogarea unor acte normative în scopul aplicării directe a unor regulamente comunitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81022",
+   "versions": [
+    {
+     "from": "2007-04-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81022",
+     "sha256": "485d7c978f3369be1af1dd61aac30e64b0b50850f970a7bbc9978f0d1addfe20"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-46-2007",
+   "path": "ordin/ansvsa/2007/46",
+   "short": "Ordin ansvsa nr. 46/2007",
+   "title": "Ordinul nr. 46/2007 privind aprobarea Normei sanitare veterinare care stabilește metode de analiză pentru controlul oficial al furajelor cu privire la conținutul de aflatoxină B(1)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80979",
+   "versions": [
+    {
+     "from": "2007-04-05",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80979",
+     "sha256": "89477ba0e7518e2c0f1a21b38766cd4e423aff7c14b109de7b5a26cd3ec4c0a8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-48-2007",
+   "path": "ordin/ansvsa/2007/48",
+   "short": "Ordin ansvsa nr. 48/2007",
+   "title": "Ordinul nr. 48/2007 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 160/2006 pentru aprobarea Normei sanitare veterinare referitoare la laboratoare comunitare de referință pentru epidemiologia zoonozelor și pentru Salmonella și laboratorul național de referință pentru Salmonella",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80078",
+   "versions": [
+    {
+     "from": "2007-03-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80078",
+     "sha256": "19284af0993868bedc7cb4dc19d251bc86d4b78a52611349979234fccf2f05c3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-49-2007",
+   "path": "ordin/ansvsa/2007/49",
+   "short": "Ordin ansvsa nr. 49/2007",
+   "title": "Ordinul nr. 49/2007 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 292/2006 pentru aprobarea Normelor metodologice privind implementarea Hotărârii Guvernului nr. 1.700/2006 pentru aprobarea Programului strategic privind monitorizarea, controlul și eradicarea pestei porcine clasice în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80481",
+   "versions": [
+    {
+     "from": "2007-04-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80481",
+     "sha256": "14051e6a099bbdf3bb1cc44531f6c8372f29da631fa686e3b0789c737b94d6e1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-54-2007",
+   "path": "ordin/ansvsa/2007/54",
+   "short": "Ordin ansvsa nr. 54/2007",
+   "title": "Ordinul nr. 54/2007 pentru aprobarea Normei sanitare veterinare privind măsurile de control pentru gripa aviară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80416",
+   "versions": [
+    {
+     "from": "2007-03-20",
+     "units": 81,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80416",
+     "sha256": "00e458e5649dd0b149dc3f31048a9f9b2d08c9c7c6c15f76d5b801d27ece5c3c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-6-2007",
    "path": "ordin/ansvsa/2007/6",
    "short": "Ordin ansvsa nr. 6/2007",
@@ -1814,6 +2669,201 @@
      "units": 17,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83955",
      "sha256": "43b0f2d5a11cf6a8d2672141d86f7e6705b03e61801cf2b1bcdb0edba8673466"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-62-2007",
+   "path": "ordin/ansvsa/2007/62",
+   "short": "Ordin ansvsa nr. 62/2007",
+   "title": "Ordinul nr. 62/2007 pentru aprobarea Normei sanitare veterinare privind procedura de înregistrare și autorizare sanitar-veterinară a unităților și a mijloacelor de transport din domeniul sănătății și al bunăstării animalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80492",
+   "versions": [
+    {
+     "from": "2007-03-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80492",
+     "sha256": "99a5ea148f286f8f5cb3db6a1c7d59cb7b3b4043c0f81a59a41614ac5757f305"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-63-2007",
+   "path": "ordin/ansvsa/2007/63",
+   "short": "Ordin ansvsa nr. 63/2007",
+   "title": "Ordinul nr. 63/2007 privind aprobarea Normei sanitare care stabilește reguli de sănătate animală ce reglementează producția, prelucrarea, distribuția și introducerea produselor de origine animală destinate pentru consum uman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80940",
+   "versions": [
+    {
+     "from": "2007-04-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80940",
+     "sha256": "2e1a8177dde09f3cd50c467895ff1c8c087cb769f7ffc413c0404b437246c878"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-64-2007",
+   "path": "ordin/ansvsa/2007/64",
+   "short": "Ordin ansvsa nr. 64/2007",
+   "title": "Ordinul nr. 64/2007 pentru aprobarea Normei sanitare veterinare privind organizarea și desfășurarea activității de control oficial sanitar-veterinar efectuat de către personalul de specialitate în unitățile care produc alimente de origine animală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80523",
+   "versions": [
+    {
+     "from": "2007-03-26",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80523",
+     "sha256": "50890d704e3f81d7d6d88c7c6640a7029383efaab4c3d6fb423dff505785498d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-68-2007",
+   "path": "ordin/ansvsa/2007/68",
+   "short": "Ordin ansvsa nr. 68/2007",
+   "title": "Ordinul nr. 68/2007 privind modificarea și completarea Ordinului președintelui Agenției Veterinare și pentru Siguranța Alimentelor nr. 26/2004 pentru aprobarea Normei veterinare privind metodele de analiză pentru controlul oficial al furajelor cu referire la determinarea umidității, a grăsimilor și uleiurilor vegetale, a magneziului și conținutului în fibre",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80583",
+   "versions": [
+    {
+     "from": "2007-03-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80583",
+     "sha256": "606a4d1bce6c984709ce6b0c9bb598c39026152c35039c24462bfdb7ca7e11a0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-69-2007",
+   "path": "ordin/ansvsa/2007/69",
+   "short": "Ordin ansvsa nr. 69/2007",
+   "title": "Ordinul nr. 69/2007 privind modificarea Ordinului președintelui Agenției Veterinare și pentru Siguranța Alimentelor nr. 16/2004 pentru aprobarea Normei veterinare ce stabilește metode naționale de analiză pentru controlul oficial al furajelor cu referire la conținutul în zinc-bacitracină, flavofosfolipol, fier, cupru, mangan și zinc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80843",
+   "versions": [
+    {
+     "from": "2007-04-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80843",
+     "sha256": "07bc68ae3ac7eaf9b7179f08ea1e8698e4fa7dc1d56d9fc1b8e043b293624e56"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-7-2007",
+   "path": "ordin/ansvsa/2007/7",
+   "short": "Ordin ansvsa nr. 7/2007",
+   "title": "Ordinul nr. 7/2007 privind modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 301/2006 privind aprobarea Normei sanitare veterinare și pentru siguranța alimentelor privind procedurile de înregistrare a activităților de vânzare directa de produse primare, a activităților de vânzare cu amănuntul și a activităților de fabricare a alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78666",
+   "versions": [
+    {
+     "from": "2007-01-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78666",
+     "sha256": "f0a0e44d98da7d0e21a8eb16ab54ec4b265a06b5c50f6a19ee98bdd4cf9bb819"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-8-2007",
+   "path": "ordin/ansvsa/2007/8",
+   "short": "Ordin ansvsa nr. 8/2007",
+   "title": "Ordinul nr. 8/2007 privind aprobarea Normei sanitare veterinare care stabilește modelul de pașaport pentru mișcarea intracomunitară a animalelor de companie: câini, pisici și dihori domestici, precum și procedurile cu privire la tipărirea, completarea și legalizarea acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79410",
+   "versions": [
+    {
+     "from": "2007-02-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79410",
+     "sha256": "8ed4eaaf1f5d0d45792d0b801cc5ade4fa867ce6d515588dda3b07f8fda39feb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-85-2007",
+   "path": "ordin/ansvsa/2007/85",
+   "short": "Ordin ansvsa nr. 85/2007",
+   "title": "Ordinul nr. 85/2007 privind aprobarea Instrucțiunilor pentru organizarea și desfășurarea activității de control oficial în unitățile de prelucrare, procesare, depozitare, transport, valorificare și comercializare a produselor și subproduselor de origine nonanimală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81005",
+   "versions": [
+    {
+     "from": "2007-04-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81005",
+     "sha256": "8f0603d9764cd60872d18abd7b0f8777e1376e3d797a2ad1b4b5a4da709b33a2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-86-2007",
+   "path": "ordin/ansvsa/2007/86",
+   "short": "Ordin ansvsa nr. 86/2007",
+   "title": "Ordinul nr. 86/2007 privind abrogarea unor ordine ce reglementează domeniul sanitar-veterinar și al siguranței alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81082",
+   "versions": [
+    {
+     "from": "2007-04-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81082",
+     "sha256": "cd86044bd1a49a0b3473afae8afac40deba2f178fc3edfe8ab1fb43a1857779e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-93-2007",
+   "path": "ordin/ansvsa/2007/93",
+   "short": "Ordin ansvsa nr. 93/2007",
+   "title": "Ordinul nr. 93/2007 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 45/2005 privind aprobarea tarifelor pentru efectuarea analizelor și examenelor de laborator, precum și a unor activități sanitare veterinare, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80917",
+   "versions": [
+    {
+     "from": "2007-04-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80917",
+     "sha256": "0a4623d282a9b1e3096bbf19f0a53e50617d584751a4ee8b1723188852614d3f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-94-2007",
+   "path": "ordin/ansvsa/2007/94",
+   "short": "Ordin ansvsa nr. 94/2007",
+   "title": "Ordinul nr. 94/2007 privind aprobarea Normei sanitare veterinare și pentru siguranța alimentelor referitoare la unele măsuri de protecție cu privire la produsele de origine animală importate din China",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81165",
+   "versions": [
+    {
+     "from": "2007-04-16",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81165",
+     "sha256": "2d662c11b05d516a747006545a768acd8117056d89fd960872b88cd873217b1c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-95-2007",
+   "path": "ordin/ansvsa/2007/95",
+   "short": "Ordin ansvsa nr. 95/2007",
+   "title": "Ordinul nr. 95/2007 privind aprobarea Normei sanitare veterinare și pentru siguranța alimentelor privind măsurile de supraveghere și control al unor substanțe și al reziduurilor acestora la animalele vii și la produsele de origine animală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81373",
+   "versions": [
+    {
+     "from": "2007-04-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81373",
+     "sha256": "1cb9831c8ef24e154cf116c200802615b506a6b46e280aefd433c076ed519908"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-99-2007",
+   "path": "ordin/ansvsa/2007/99",
+   "short": "Ordin ansvsa nr. 99/2007",
+   "title": "Ordinul nr. 99/2007 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 99/2006 pentru aprobarea Normei sanitare veterinare privind controlul pestei porcine africane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81176",
+   "versions": [
+    {
+     "from": "2007-04-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81176",
+     "sha256": "fa6102e97095ca245c5a6c5a4bb27eca99523cfcb98f97ea3a7d617279573bdc"
     }
    ]
   },
@@ -1841,7 +2891,7 @@
    "versions": [
     {
      "from": "2008-01-01",
-     "units": 16,
+     "units": 18,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86198",
      "sha256": "bacbe1e87ef8b073823f46e63d16159a2a2d1bd17fbf4c58d38194013cc6416e"
     }
@@ -1991,7 +3041,7 @@
    "versions": [
     {
      "from": "2007-06-08",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82701",
      "sha256": "29e96601ddf33316e5815cb83e24a25684f9300f1d11705c3fb5b8ef1524f19a"
     }
@@ -6078,6 +7128,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1100-2007",
+   "path": "ordin/mediu/2007/1100",
+   "short": "Ordin mediu nr. 1100/2007",
+   "title": "Ordinul nr. 1.100/2007 privind modificarea și completarea Regulamentului de organizare și funcționare al Comisiei pentru acreditarea persoanelor fizice și juridice ca verificatori de mediu, aprobat prin Ordinul ministrului mediului și gospodăririi apelor nr. 1.201/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84538",
+   "versions": [
+    {
+     "from": "2007-08-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84538",
+     "sha256": "38493f0872f4de5d5f67ff15c640a72d98e5cabf6377c7b617f539c753710f55"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1108-2007",
    "path": "ordin/mediu/2007/1108",
    "short": "Ordin mediu nr. 1108/2007",
@@ -6089,6 +7154,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85343",
      "sha256": "e345d6d4a5b39b3a15a3c4ef421e414205491d0f707d7486edd1b480167a2f26"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1109-2007",
+   "path": "ordin/mediu/2007/1109",
+   "short": "Ordin mediu nr. 1109/2007",
+   "title": "Ordinul nr. 1.109/2007 pentru abrogarea Ordinului ministrului apelor și protecției mediului nr. 370/2003 privind activitățile și sistemul de autorizare a laboratoarelor de mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84054",
+   "versions": [
+    {
+     "from": "2007-08-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84054",
+     "sha256": "661f83fb1fc00815afff7908c627a030ddf3f3f3cb20af19b03ce49899aaf78d"
     }
    ]
   },
@@ -6198,6 +7278,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1349-2007",
+   "path": "ordin/mediu/2007/1349",
+   "short": "Ordin mediu nr. 1349/2007",
+   "title": "Ordinul nr. 1.349/2007 privind abrogarea art. 2^1-2^3 din Regulamentul de organizare și funcționare a Secretariatului pentru compuși desemnați, aprobat prin Ordinul ministrului mediului și gospodăririi apelor nr. 1.018/2005 privind înființarea în cadrul Direcției deșeuri și substanțe chimice periculoase a Secretariatului pentru compuși desemnați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85326",
+   "versions": [
+    {
+     "from": "2007-09-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85326",
+     "sha256": "aaaffadd4fb5d86b81af0847f47aa244ab0fa61b3a7e9eeeb6c14b28923348bc"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1369-2007",
    "path": "ordin/mediu/2007/1369",
    "short": "Ordin mediu nr. 1369/2007",
@@ -6254,6 +7349,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85918",
      "sha256": "e701482229581efda72e373b5f57a0deb079f6957b7280cd19271c6723edf31f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-15-2007",
+   "path": "ordin/mediu/2007/15",
+   "short": "Ordin mediu nr. 15/2007",
+   "title": "Ordinul nr. 15/2007 privind modificarea și completarea Ordinului ministrului mediului și gospodăririi apelor nr. 658/2006 pentru aprobarea modelelor formularelor utilizate în domeniul colectării creanțelor la Fondul pentru mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78650",
+   "versions": [
+    {
+     "from": "2007-01-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78650",
+     "sha256": "018a9d5eb904f7804e37cd640ea99c926d97648dcb38ff9972fc479583cf2891"
     }
    ]
   },
@@ -6333,6 +7443,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1912-2007",
+   "path": "ordin/mediu/2007/1912",
+   "short": "Ordin mediu nr. 1912/2007",
+   "title": "Ordinul nr. 1.912/2007 pentru modificarea Ghidului de finanțare a Programului național de îmbunătățire a calității mediului prin realizarea de spații verzi în localități, aprobat prin Ordinul ministrului mediului și dezvoltării durabile nr. 1.166/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87587",
+   "versions": [
+    {
+     "from": "2007-12-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87587",
+     "sha256": "96b6d6a35a607f410afdbcb1bca31d8b55a0688a0c4330887c9be269ab69a5e1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1937-2007",
    "path": "ordin/mediu/2007/1937",
    "short": "Ordin mediu nr. 1937/2007",
@@ -6389,6 +7514,21 @@
      "units": 44,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80930",
      "sha256": "a61845a236069357edb4a3cb81dd683ee105885423a092807293ccbb35481e7c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-27-2007",
+   "path": "ordin/mediu/2007/27",
+   "short": "Ordin mediu nr. 27/2007",
+   "title": "Ordinul nr. 27/2007 pentru modificarea și completarea unor ordine care transpun acquis-ul comunitar de mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80446",
+   "versions": [
+    {
+     "from": "2007-03-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80446",
+     "sha256": "1619c4016801efd87e38a8b6cd91051854d99d31a4ff3e9520727f26a781038c"
     }
    ]
   },
@@ -6524,6 +7664,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81867",
      "sha256": "b161e06187648a26906506d4618ed470f5001ef6cb4ed26c544a734a54162671"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-36-2007",
+   "path": "ordin/mediu/2007/36",
+   "short": "Ordin mediu nr. 36/2007",
+   "title": "Ordinul nr. 36/2007 privind modificarea și completarea Ordinului ministrului mediului și gospodăririi apelor nr. 222/2006 pentru aprobarea Instrucțiunilor privind organizarea și desfășurarea licitației publice pentru atribuirea contractelor de închiriere, a Contractului-cadru de închiriere a plajei Mării Negre și a Listei sectoarelor de plajă propuse spre închiriere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78752",
+   "versions": [
+    {
+     "from": "2007-01-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78752",
+     "sha256": "38602deb82358ad9374c0404104acfcf166ae51cfff02d939583bc2580274f7d"
     }
    ]
   },
@@ -10169,6 +11324,246 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86344",
      "sha256": "93e3b34196c61d53e8e75c2a7901c9ce1b62c90237043eb6b996e2ca9321cd80"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-431-2007",
+   "path": "ordin/vama/2007/431",
+   "short": "Ordin vama nr. 431/2007",
+   "title": "Ordinul nr. 431/2007 privind aprobarea Normelor tehnice pentru aplicarea regimului de tranzit sub acoperirea carnetelor TIR",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79450",
+   "versions": [
+    {
+     "from": "2007-02-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79450",
+     "sha256": "a7a66fdaaa60559294f535436283c6c8535d9f6c74e6dad7c2e6982bd45eca78"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-4822-2007",
+   "path": "ordin/vama/2007/4822",
+   "short": "Ordin vama nr. 4822/2007",
+   "title": "Ordinul nr. 4.822/2007 privind aprobarea Normelor metodologice de autorizare a exportatorilor în vederea emiterii în procedură simplificată a dovezilor de origine preferențială în cadrul acordurilor ce reglementează comerțul preferențial dintre Comunitate și țările partenere și a certificatelor A.TR. care atestă statutul de marfă în liberă circulație în cadrul Uniunii vamale UE-Turcia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81511",
+   "versions": [
+    {
+     "from": "2007-04-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81511",
+     "sha256": "56d5197abadac5b8c5bbeea94c818631420ec3a9436f2006f2d3a016456387a6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-5465-2007",
+   "path": "ordin/vama/2007/5465",
+   "short": "Ordin vama nr. 5465/2007",
+   "title": "Ordinul nr. 5.465/2007 pentru aprobarea Normelor privind procedurile simplificate de vămuire",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82563",
+   "versions": [
+    {
+     "from": "2007-06-04",
+     "units": 129,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82563",
+     "sha256": "5bc41371785d845b26c8628228ff47f7938db36d7c0d011e8bb44d742b754bae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-637-2007",
+   "path": "ordin/vama/2007/637",
+   "short": "Ordin vama nr. 637/2007",
+   "title": "Ordinul nr. 637/2007 pentru abrogarea unor decizii și ordine din domeniul vamal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79633",
+   "versions": [
+    {
+     "from": "2007-02-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79633",
+     "sha256": "efdd6be751bffb2374cfa01b3f3dc3bfdb8558005293c87555ac3bd31db7a75e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-6415-2007",
+   "path": "ordin/vama/2007/6415",
+   "short": "Ordin vama nr. 6415/2007",
+   "title": "Ordinul nr. 6.415/2007 privind aprobarea utilizării și completării unor modele de formulare în cazul exportului de mărfuri care intră sub incidența măsurilor de Politică Agricolă Comună și a produselor Non-Anexa I",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83148",
+   "versions": [
+    {
+     "from": "2007-06-25",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83148",
+     "sha256": "6c4d03b526823d3831b053250c8b14e41adfa1d06b3d9faed4b5a60fb14023fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-6632-2007",
+   "path": "ordin/vama/2007/6632",
+   "short": "Ordin vama nr. 6632/2007",
+   "title": "Ordinul nr. 6.632/2007 pentru aprobarea Normelor tehnice de utilizare a Sistemului de control al exportului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83283",
+   "versions": [
+    {
+     "from": "2007-07-02",
+     "units": 67,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83283",
+     "sha256": "42a52f898e85e7f8019b78f0aec61f499ceb5519ee897db7e6e7c1733c8b5695"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-6665-2007",
+   "path": "ordin/vama/2007/6665",
+   "short": "Ordin vama nr. 6665/2007",
+   "title": "Ordinul nr. 6.665/2007 pentru modificarea Ordinului nr. 9.207/2006 privind formalitățile vamale care se efectuează pentru mărfurile transportate pe fluviul Dunărea între porturi din România și Republica Bulgaria",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83562",
+   "versions": [
+    {
+     "from": "2007-07-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83562",
+     "sha256": "1e17179ad3f42f2ad8a90e40c5cd2381c206921c12b42266bcc93be1f6ccf8d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-7377-2007",
+   "path": "ordin/vama/2007/7377",
+   "short": "Ordin vama nr. 7377/2007",
+   "title": "Ordinul nr. 7.377/2007 pentru instituirea unor măsuri speciale privind importul produselor energetice de tipul benzinelor și motorinelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84084",
+   "versions": [
+    {
+     "from": "2007-08-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84084",
+     "sha256": "d9e628485d50524322f1263e4ffdbeee9a6972763125bc83183b42b083526873"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-7394-2007",
+   "path": "ordin/vama/2007/7394",
+   "short": "Ordin vama nr. 7394/2007",
+   "title": "Ordinul nr. 7.394/2007 pentru aprobarea Normelor tehnice privind aplicarea uniformă a reglementărilor vamale în zonele libere și antrepozitele libere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84218",
+   "versions": [
+    {
+     "from": "2007-08-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84218",
+     "sha256": "8b5f3ae774c021219f672fc377b9ca24cd4d977ddc9905e1934e92b6f532ef98"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-7412-2007",
+   "path": "ordin/vama/2007/7412",
+   "short": "Ordin vama nr. 7412/2007",
+   "title": "Ordinul nr. 7.412/2007 pentru modificarea Instrucțiunilor de completare a casetelor 2, 8, 14 și 54 ale documentului administrativ unic în situații particulare ce decurg din tipul reprezentării, aprobate prin Ordinul vicepreședintelui Agenției Naționale de Administrare Fiscală nr. 4.999/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83958",
+   "versions": [
+    {
+     "from": "2007-07-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83958",
+     "sha256": "f69a1f6b18d66d9108bfe24b71bad97b2fabe5d83596ccceef00db989f2ed681"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-7541-2007",
+   "path": "ordin/vama/2007/7541",
+   "short": "Ordin vama nr. 7541/2007",
+   "title": "Ordinul nr. 7.541/2007 privind stabilirea formularului utilizat pentru declararea numerarului la frontieră și a instrucțiunilor de completare și utilizare a acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84359",
+   "versions": [
+    {
+     "from": "2007-08-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84359",
+     "sha256": "3787411f3189122a834b0d04415007f4326b71f5a27a08282004d313cb19dd9b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-7788-2007",
+   "path": "ordin/vama/2007/7788",
+   "short": "Ordin vama nr. 7788/2007",
+   "title": "Ordinul nr. 7.788/2007 pentru aprobarea Normelor privind transferul de mărfuri sub acoperirea unui regim economic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85223",
+   "versions": [
+    {
+     "from": "2007-09-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85223",
+     "sha256": "dcb861ca2d9b5bd69f79d78feadd791e9e415abd424d0c181c66623b15c0a85c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-7789-2007",
+   "path": "ordin/vama/2007/7789",
+   "short": "Ordin vama nr. 7789/2007",
+   "title": "Ordinul nr. 7.789/2007 pentru aprobarea Normelor de autorizare a regimurilor vamale economice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85236",
+   "versions": [
+    {
+     "from": "2007-09-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85236",
+     "sha256": "b52274b0790ffb9c93623cf1e1b890683f81ae8b65e448d81e387a9ce34174b6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-7869-2007",
+   "path": "ordin/vama/2007/7869",
+   "short": "Ordin vama nr. 7869/2007",
+   "title": "Ordinul nr. 7.869/2007 pentru modificarea Normelor tehnice privind procedura simplificată de îndeplinire a formalităților vamale prevăzute pentru punerea în liberă circulație și exportul de presă, tipărituri, energie electrică și mărfuri transportate prin conducte, aprobate prin Ordinul vicepreședintelui Agenției Naționale de Administrare Fiscală nr. 6.341/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85329",
+   "versions": [
+    {
+     "from": "2007-09-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85329",
+     "sha256": "455905a83642c4f32676ad35644081b0e873f8c8bda59352278576aacda2a8a2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-8831-2007",
+   "path": "ordin/vama/2007/8831",
+   "short": "Ordin vama nr. 8831/2007",
+   "title": "Ordinul nr. 8.831/2007 pentru aprobarea Metodologiei de decontare a plății datoriei vamale și a altor taxe și impozite prin mijloace informatice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86172",
+   "versions": [
+    {
+     "from": "2007-10-17",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86172",
+     "sha256": "268f33fe1c61503b43babd3d5c03618e2e72491ff155aa9669ab6f1f22c7cb67"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-9647-2007",
+   "path": "ordin/vama/2007/9647",
+   "short": "Ordin vama nr. 9647/2007",
+   "title": "Ordinul nr. 9.647/2007 pentru aprobarea Normelor tehnice privind acordarea statutului de operator economic autorizat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88086",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88086",
+     "sha256": "2061e6cafe80258711c6731a30d4235093e034c80186547285e1cae9d21ad391"
     }
    ]
   }

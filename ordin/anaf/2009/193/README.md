@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 193/2009 · 1 versions, from 2009-02-24 (latest in force: 2009-02-24) · <https://legislatie.just.ro/Public/DetaliiDocument/102638>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 Ministerul Finanțelor Publice Agenția Națională de Administrare Fiscală Nr. de înregistrare....... Direcția Generală a Finanțelor Publice a ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -14,6 +14,8 @@ Ordin anaf nr. 193/2009 · 1 versions, from 2009-02-24 (latest in force: 2009-02
 | Art. 6 | [art-006.md](art-006.md) | 0 |  |
 | Art. 7 | [art-007.md](art-007.md) | 0 |  |
 | Art. 8 | [art-008.md](art-008.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 | Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 | Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
@@ -27,7 +29,7 @@ Act id: `ordin-anaf-193-2009` (tags `ordin-anaf-193-2009/<day>`; `python tools/o
 - Ordin anaf nr. 193/2009: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin anaf nr. 193/2009: the first version is the order as published in Monitorul Oficial nr. 109 of 24 February 2009 (document 102638 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin anaf nr. 193/2009: the signatures and the place and date line after its last article are not article text.
+- Ordin anaf nr. 193/2009: Anexa nr. 1 (1 Ministerul Finanțelor Publice Agenția Națională de Administrare Fiscală Nr. de înregistrare....... Direcția Generală a Finanțelor Publice a Județului................. Data emiterii.../.../..... Admi) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 102638 of the official web service.
 - Ordin anaf nr. 193/2009: Anexa nr. 2 (2 Procedura de completare a formularului "Adeverință de venit", cod 14.13.21.13 1. Formularul "Adeverință de venit" reprezintă documentul prin care se atestă faptul că o persoană fizică figurează în e) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 102638 of the official web service.
 - Ordin anaf nr. 193/2009: Anexa nr. 3 (3 Caracteristicile de tipărire, modul de difuzare, de utilizare și de păstrare a formularelor a) Adeverință de venit... 1. Denumirea: Adeverință de venit 2. Codul: 14.13.21.13 3. Formatul: A4/t1 4. Ca) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 102638 of the official web service.
-- Ordin anaf nr. 193/2009: Anexa nr. 1 (1 Ministerul Finanțelor Publice Agenția Națională de Administrare Fiscală Nr. de înregistrare....... Direcția Generală a Finanțelor Publice a ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin anaf nr. 193/2009: the publisher's notes run into its text (*) În cazul adeverinţelor solicitate în conformitate cu prevederile art. 6 alin. (5) lit. b) din Normele metodologice de) are not text.

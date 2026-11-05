@@ -2,12 +2,14 @@
 
 Ordin ansvsa nr. 4/2010 · 1 versions, from 2010-02-10 (latest in force: 2010-02-10) · <https://legislatie.just.ro/Public/DetaliiDocument/115990>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (LISTA posturilor de inspecție la frontieră în care sunt organizate controale sanitare veterinare și pentru siguranța alimentelor și programul de lucru al ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. I | [art-001.md](art-001.md) | 0 |  |
 | Art. II | [art-002.md](art-002.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 
 Act id: `ordin-ansvsa-4-2010` (tags `ordin-ansvsa-4-2010/<day>`; `python tools/on.py <day> ordin-ansvsa-4-2010`).
 
@@ -18,4 +20,4 @@ Act id: `ordin-ansvsa-4-2010` (tags `ordin-ansvsa-4-2010/<day>`; `python tools/o
 - Ordin ansvsa nr. 4/2010: the first version is the order as published in Monitorul Oficial nr. 93 of 10 February 2010 (document 115990 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin ansvsa nr. 4/2010: the signatures and the place and date line after its last article are not article text.
 - Ordin ansvsa nr. 4/2010: a joint order of Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor nr. 4 din 2 February 2010; Ministerul Administrației și Internelor nr. 29 din 4 February 2010; Agenția Națională de Administrare Fiscală - Autoritatea Națională a Vămilor nr. 7.403 din 4 February 2010; Ministerul Agriculturii și Dezvoltării Rurale nr. 32 din 9 February 2010; Ministerul Mediului și Pădurilor nr. 130 din 10 February 2010; Ministerul Transporturilor și Infrastructurii nr. 91 din 8 February 2010. It is published once, here, under the issuer its EMITENT block lists first; `ordin-interne-29-2010`, `ordin-anaf-7403-2010`, `ordin-agricultura-32-2010`, `ordin-mediu-130-2010`, `ordin-transporturi-91-2010` name it too (data/paths.json aliases).
-- Ordin ansvsa nr. 4/2010: Anexa nr. 1 (LISTA posturilor de inspecție la frontieră în care sunt organizate controale sanitare veterinare și pentru siguranța alimentelor și programul de lucru al ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin ansvsa nr. 4/2010: Anexa nr. 1 (LISTA posturilor de inspecție la frontieră în care sunt organizate controale sanitare veterinare și pentru siguranța alimentelor și programul de lucru al acestora *Font 8*) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 115990 of the official web service.

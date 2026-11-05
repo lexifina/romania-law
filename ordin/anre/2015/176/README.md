@@ -2,7 +2,7 @@
 
 Ordin anre nr. 176/2015 · 1 versions, from 2016-01-01 (latest in force: 2016-01-01) · <https://legislatie.just.ro/Public/DetaliiDocument/174320>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 Tarife reglementate de energie electrică aplicate de furnizorii de ultimă instanță clienților casnici - Valabile de la 1 ianuarie 2016 - 1. Tarife pentru ...): it is a table that the official text holds only flattened; Anexa nr. 2 (2 Zonele orare specifice tarifelor reglementate de energie electrică 1. Zone orare pentru tarifele CR3 și CP3 ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -19,6 +19,10 @@ Ordin anre nr. 176/2015 · 1 versions, from 2016-01-01 (latest in force: 2016-01
 | Art. 11 | [art-011.md](art-011.md) | 0 |  |
 | Art. 12 | [art-012.md](art-012.md) | 0 |  |
 | Art. 13 | [art-013.md](art-013.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 
 Act id: `ordin-anre-176-2015` (tags `ordin-anre-176-2015/<day>`; `python tools/on.py <day> ordin-anre-176-2015`).
 
@@ -28,6 +32,6 @@ Act id: `ordin-anre-176-2015` (tags `ordin-anre-176-2015/<day>`; `python tools/o
 - Ordin anre nr. 176/2015: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin anre nr. 176/2015: the first version is the order as published in Monitorul Oficial nr. 959 of 24 December 2015 (document 174320 of the official web service), in force on 1 January 2016, the day it states for itself.
 - Ordin anre nr. 176/2015: the signatures and the place and date line after its last article are not article text.
-- Ordin anre nr. 176/2015: Anexa nr. 1 (1 Tarife reglementate de energie electrică aplicate de furnizorii de ultimă instanță clienților casnici - Valabile de la 1 ianuarie 2016 - 1. Tarife pentru ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anre nr. 176/2015: Anexa nr. 2 (2 Zonele orare specifice tarifelor reglementate de energie electrică 1. Zone orare pentru tarifele CR3 și CP3 ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anre nr. 176/2015: Anexa nr. 1 (1 Tarife reglementate de energie electrică aplicate de furnizorii de ultimă instanță clienților casnici - Valabile de la 1 ianuarie 2016 - 1. Tarife pentru contoare cu plata post consum *Font 7*) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 174320 of the official web service.
+- Ordin anre nr. 176/2015: Anexa nr. 2 (2 Zonele orare specifice tarifelor reglementate de energie electrică 1. Zone orare pentru tarifele CR3 și CP3) is part of the order and is published in its folder, anexa-2/ (paragraphs and tables), from document 174320 of the official web service.
 - Ordin anre nr. 176/2015: the publisher's notes run into its text (*1) Preţul se aplică şi pentru perioada de vineri de la ora 22,00 până luni la ora 7,00. *2) Pentru tariful cu putere ma) are not text.

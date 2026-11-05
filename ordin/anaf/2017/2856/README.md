@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 2856/2017 · 1 versions, from 2017-10-03 (latest in force: 2017-10-03) · <https://legislatie.just.ro/Public/DetaliiDocument/193668>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. It states that it applies from 1 October 2017, before its publication; dated here by its publication in the Monitorul Oficial. Not included yet: Anexa nr. 5 (Criterii pentru evaluarea riscului fiscal în cazul persoanelor impozabile care solicită înregistrarea în scopuri de TVA potrivit art. 316 alin. (1) lit. a) și ...): it is a table that the official text holds only flattened; Anexa nr. 6 (Criteriile pentru evaluarea riscului fiscal în cazul anulării înregistrării în scopuri de TVA potrivit art. 316 alin. (11) lit. h) din Legea nr. 227/2015 ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. It states that it applies from 1 October 2017, before its publication; dated here by its publication in the Monitorul Oficial. Not included yet: Anexa nr. 5 (Criterii pentru evaluarea riscului fiscal în cazul persoanelor impozabile care solicită înregistrarea în scopuri de TVA potrivit art. 316 alin. (1) lit. a) și ...): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -26,6 +26,8 @@ Ordin anaf nr. 2856/2017 · 1 versions, from 2017-10-03 (latest in force: 2017-1
 | Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 | Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
 | Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
+| Anexa nr. 6 (what it is) | [anexa-6/README.md](anexa-6/README.md) | 0 |  |
+| Anexa nr. 6 | [anexa-6/text.md](anexa-6/text.md) | 0 |  |
 
 Act id: `ordin-anaf-2856-2017` (tags `ordin-anaf-2856-2017/<day>`; `python tools/on.py <day> ordin-anaf-2856-2017`).
 
@@ -39,5 +41,5 @@ Act id: `ordin-anaf-2856-2017` (tags `ordin-anaf-2856-2017/<day>`; `python tools
 - Ordin anaf nr. 2856/2017: Anexa nr. 2 (Procedura privind evaluarea riscului fiscal pentru persoanele impozabile care solicită înregistrarea în scopuri de taxă pe valoarea adăugată potrivit art. 316 alin. (1) lit. a) și c) și alin. (12) lit) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 193668 of the official web service.
 - Ordin anaf nr. 2856/2017: Anexa nr. 3 (Procedura de înregistrare, la cerere, în scopuri de taxă pe valoarea adăugată potrivit art. 316 alin. (12) lit. e) din Legea nr. 227/2015 privind Codul fiscal 1. Persoanele impozabile, societăți cu se) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 193668 of the official web service.
 - Ordin anaf nr. 2856/2017: Anexa nr. 4 (Procedura de anulare, din oficiu, a înregistrării în scopuri de taxă pe valoarea adăugată a persoanelor impozabile care prezintă risc fiscal ridicat potrivit art. 316 alin. (11) lit. h) din Legea nr.) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 193668 of the official web service.
+- Ordin anaf nr. 2856/2017: Anexa nr. 6 (Criteriile pentru evaluarea riscului fiscal în cazul anulării înregistrării în scopuri de TVA potrivit art. 316 alin. (11) lit. h) din Legea nr. 227/2015 privind Codul fiscal, precum și pentru evaluar) is part of the order and is published in its folder, anexa-6/ (paragraphs and tables), from document 193668 of the official web service.
 - Ordin anaf nr. 2856/2017: Anexa nr. 5 (Criterii pentru evaluarea riscului fiscal în cazul persoanelor impozabile care solicită înregistrarea în scopuri de TVA potrivit art. 316 alin. (1) lit. a) și ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anaf nr. 2856/2017: Anexa nr. 6 (Criteriile pentru evaluarea riscului fiscal în cazul anulării înregistrării în scopuri de TVA potrivit art. 316 alin. (11) lit. h) din Legea nr. 227/2015 ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

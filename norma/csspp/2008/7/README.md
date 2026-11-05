@@ -2,7 +2,7 @@
 
 Norma csspp nr. 7/2008 · 1 versions, from 2008-04-07 (latest in force: 2008-04-07) · <https://legislatie.just.ro/Public/DetaliiDocument/91076>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (───── la normă): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -20,6 +20,8 @@ Norma csspp nr. 7/2008 · 1 versions, from 2008-04-07 (latest in force: 2008-04-
 | Art. 12 | [art-012.md](art-012.md) | 0 |  |
 | Art. 13 | [art-013.md](art-013.md) | 0 |  |
 | Art. 14 | [art-014.md](art-014.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 
 Act id: `norma-csspp-7-2008` (tags `norma-csspp-7-2008/<day>`; `python tools/on.py <day> norma-csspp-7-2008`).
 
@@ -29,4 +31,4 @@ Act id: `norma-csspp-7-2008` (tags `norma-csspp-7-2008/<day>`; `python tools/on.
 - Norma csspp nr. 7/2008: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Norma csspp nr. 7/2008: the first version is the norm as published in Monitorul Oficial nr. 272 of 7 April 2008 (document 91076 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Norma csspp nr. 7/2008: the signatures and the place and date line after its last article are not article text.
-- Norma csspp nr. 7/2008: Anexa nr. 1 (───── la normă) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Norma csspp nr. 7/2008: Anexa nr. 1 (───── la normă) is part of the norm and is published in its folder, anexa-1/ (paragraphs and tables), from document 91076 of the official web service.

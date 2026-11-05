@@ -3,6 +3,21 @@
  "shard": "ordin/2014",
  "acts": [
   {
+   "slug": "ordin-agricultura-1281-2014",
+   "path": "ordin/agricultura/2014/1281",
+   "short": "Ordin agricultura nr. 1281/2014",
+   "title": "Ordinul nr. 1.281/2014 pentru modificarea SMR4 - Protecția apelor împotriva poluării cu nitrați proveniți din surse agricole din anexa la Ordinul ministrului agriculturii și dezvoltării rurale, al ministrului mediului și pădurilor și al președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 187/2.155/42/2011 pentru aprobarea cerințelor legale în materie de gestionare (SMR) privind mediul, sănătatea publică, sănătatea animalelor și sănătatea plantelor în cadrul schemelor și măsurilor de sprijin pentru agricultori în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161034",
+   "versions": [
+    {
+     "from": "2014-09-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161034",
+     "sha256": "46d0ea3dc20e57135c2f3ac821c7bfd4d7bd9314d8923600cab8cc48046d82ff"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-1356-2014",
    "path": "ordin/agricultura/2014/1356",
    "short": "Ordin agricultura nr. 1356/2014",
@@ -78,6 +93,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-212-2014",
+   "path": "ordin/agricultura/2014/212",
+   "short": "Ordin agricultura nr. 212/2014",
+   "title": "Ordinul nr. 212/2014 privind modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale și al ministrului mediului și pădurilor nr. 30/147/2010 pentru aprobarea bunelor condiții agricole și de mediu în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156682",
+   "versions": [
+    {
+     "from": "2014-03-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156682",
+     "sha256": "6ca3322dddc4e543a1430e238485423d76d04eba836295bf816d1dabe311d0cd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-234-2014",
+   "path": "ordin/agricultura/2014/234",
+   "short": "Ordin agricultura nr. 234/2014",
+   "title": "Ordinul nr. 234/2014 privind modificarea și completarea Ordinului ministrului agriculturii și dezvoltării rurale, al ministrului mediului și pădurilor și al președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 187/2.155/42/2011 pentru aprobarea cerințelor legale în materie de gestionare (SMR) privind mediul și identificarea și înregistrarea animalelor în cadrul schemelor și măsurilor de sprijin pentru agricultori în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157502",
+   "versions": [
+    {
+     "from": "2014-04-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157502",
+     "sha256": "1cdf670081aaf5badd836cf88a2e3ab6a782bed88ad60dd9be349d6de409eec8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-309-2014",
    "path": "ordin/agricultura/2014/309",
    "short": "Ordin agricultura nr. 309/2014",
@@ -131,7 +176,7 @@
    "versions": [
     {
      "from": "2014-09-04",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161070",
      "sha256": "290e9610836ac2d61ba3bafeb5dcac5b204e5c638370a78aa84d456ff628b81e"
     }
@@ -251,7 +296,7 @@
    "versions": [
     {
      "from": "2014-06-03",
-     "units": 15,
+     "units": 21,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158745",
      "sha256": "fcbc68cbdba6f86ad8d6169fd9939fa2167f15af23d84caadb8e39558dd36856"
     }
@@ -341,7 +386,7 @@
    "versions": [
     {
      "from": "2014-07-01",
-     "units": 3,
+     "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159481",
      "sha256": "d84b4a6cd23985fb2bdb283ad7ea4718213041c58186928ba3c5c69539cf9218"
     }
@@ -386,7 +431,7 @@
    "versions": [
     {
      "from": "2014-03-01",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155412",
      "sha256": "6e9b08ca5b83980ab912572928bac9e5a6c1b14a361453c543d20194ec0ca9d5"
     }
@@ -506,7 +551,7 @@
    "versions": [
     {
      "from": "2014-08-21",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160772",
      "sha256": "780978c996bba338c133a3f51dd8aa37510adc7746f76bc6ba8d197ae5a0b360"
     }
@@ -521,7 +566,7 @@
    "versions": [
     {
      "from": "2014-08-21",
-     "units": 8,
+     "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160773",
      "sha256": "9e4acd3203afbcf25ac67e93f35b9fec7b3cca4e7e65c62a06feb8a474524012"
     }
@@ -641,7 +686,7 @@
    "versions": [
     {
      "from": "2014-10-21",
-     "units": 8,
+     "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162295",
      "sha256": "c2065d8e1c0bad8d3e8889904ef3134b646b08a4ab3929c00e25a5167588979b"
     }
@@ -671,7 +716,7 @@
    "versions": [
     {
      "from": "2014-03-01",
-     "units": 4,
+     "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155910",
      "sha256": "09140d99650ed42548bf9ddfa127f533d2c8fde98b33c69d941db2dc1e25147b"
     }
@@ -686,7 +731,7 @@
    "versions": [
     {
      "from": "2014-03-11",
-     "units": 8,
+     "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156237",
      "sha256": "dab3e63807414c135b3932350775c1b752fbd2ce9283b16b24a24e759d74ae8f"
     }
@@ -881,7 +926,7 @@
    "versions": [
     {
      "from": "2014-01-28",
-     "units": 4,
+     "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154854",
      "sha256": "e34270e145022078b474318ec873712da9326a33d7df8378a93b6e82af9a956d"
     }
@@ -896,7 +941,7 @@
    "versions": [
     {
      "from": "2014-04-25",
-     "units": 4,
+     "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157713",
      "sha256": "3bbca293e663be9cb959c5445f479425e47edcbb70508338a024fff887dfceda"
     }
@@ -956,7 +1001,7 @@
    "versions": [
     {
      "from": "2014-09-29",
-     "units": 2,
+     "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161659",
      "sha256": "325b872eaee27bb0c3af2ea39c439e8e0d329bb2cb44b498806f049a37f6d39e"
     }
@@ -1151,7 +1196,7 @@
    "versions": [
     {
      "from": "2014-08-10",
-     "units": 8,
+     "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160330",
      "sha256": "7d096be6f394250b66c13a98886ee986f0d9221b4a7f38729743d7fc0242d744"
     }
@@ -1346,7 +1391,7 @@
    "versions": [
     {
      "from": "2015-01-01",
-     "units": 6,
+     "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162721",
      "sha256": "cb00476786e77ca2b33d8ba9b70c490d132c08d9971fe7aac00ced704110782a"
     }
@@ -1511,7 +1556,7 @@
    "versions": [
     {
      "from": "2014-12-01",
-     "units": 20,
+     "units": 56,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163305",
      "sha256": "50f2bed765a5ce838aa3204080aa1c19f92838c2a7cb36c5ae5a2f3615e67dc9"
     }
@@ -1631,7 +1676,7 @@
    "versions": [
     {
      "from": "2014-12-19",
-     "units": 16,
+     "units": 18,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164044",
      "sha256": "d7e49cd2966fd9e9ad42a4b6aab473fe70629b07b8aebc0045263bb1801b778c"
     }
@@ -1661,7 +1706,7 @@
    "versions": [
     {
      "from": "2015-01-01",
-     "units": 7,
+     "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164046",
      "sha256": "2bc9e1752f8851a049b4dccf4b7d6546c77c85b3669751617d56ce241a86bcd9"
     }
@@ -1691,7 +1736,7 @@
    "versions": [
     {
      "from": "2015-01-01",
-     "units": 15,
+     "units": 19,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164002",
      "sha256": "e68e92fc3e17bf4bbb56023615704bd282372e4d3fb68994137881f6203021b7"
     }
@@ -1706,7 +1751,7 @@
    "versions": [
     {
      "from": "2015-01-01",
-     "units": 5,
+     "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164087",
      "sha256": "348953e462c2dc2bda0a21d9bdf81f9b1356718616194a989c9ad9b1365bd154"
     }
@@ -2171,7 +2216,7 @@
    "versions": [
     {
      "from": "2014-07-01",
-     "units": 16,
+     "units": 20,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159473",
      "sha256": "2a08b607e7a59c0814c80e4e4189a9fe136bd6bda34df675cd1b567e642fbfd0"
     }
@@ -2231,7 +2276,7 @@
    "versions": [
     {
      "from": "2014-07-28",
-     "units": 8,
+     "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160189",
      "sha256": "517bd316433d1148513ff6640ca6d1242bff39706a9bc6b70c288ea0340e0f98"
     }
@@ -2396,7 +2441,7 @@
    "versions": [
     {
      "from": "2014-08-01",
-     "units": 4,
+     "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160187",
      "sha256": "a56a43cdf4e33b617d9b33dd57bdcceadad4617e11605a47ae6441b19daf7b23"
     }
@@ -2516,7 +2561,7 @@
    "versions": [
     {
      "from": "2014-08-18",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160702",
      "sha256": "9b57b6ed6ea865721d466d0473fb56aecc084ba3a0ca7da8fbaf9bcb6453714f"
     }
@@ -2666,7 +2711,7 @@
    "versions": [
     {
      "from": "2014-10-01",
-     "units": 38,
+     "units": 110,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161741",
      "sha256": "f3026a6268c4652865fd26b23123273c00530289ac8f7481e299402760b70f29"
     }
@@ -2681,9 +2726,354 @@
    "versions": [
     {
      "from": "2014-10-03",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161822",
      "sha256": "bdc75cdf166fd6d9ef456fd678113d08ff8679e3bec5f55135f5846a37cb8192"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-1-2014",
+   "path": "ordin/ansvsa/2014/1",
+   "short": "Ordin ansvsa nr. 1/2014",
+   "title": "Ordinul nr. 1/2014 pentru aprobarea Normelor privind identificarea și înregistrarea câinilor cu stăpân",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154515",
+   "versions": [
+    {
+     "from": "2014-01-15",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154515",
+     "sha256": "84cb264e5b4b64c1168bbc0559abfd1bc5625d9dbe67568314966f0489135a2a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-14-2014",
+   "path": "ordin/ansvsa/2014/14",
+   "short": "Ordin ansvsa nr. 14/2014",
+   "title": "Ordinul nr. 14/2014 privind condițiile sanitar-veterinare care trebuie respectate la comercializarea păsărilor domestice pe teritoriul României din exploatațiile înregistrate/autorizate sanitar-veterinar către exploatațiile nonprofesionale și pentru completarea anexelor nr. 1 și 2 la Norma sanitară veterinară privind procedura de înregistrare/autorizare sanitar-veterinară a unităților/centrelor de colectare/exploatațiilor de origine și a mijloacelor de transport din domeniul sănătății și al bunăstării animalelor, a unităților implicate în depozitarea și neutralizarea subproduselor de origine animală care nu sunt destinate consumului uman și a produselor procesate, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 16/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155274",
+   "versions": [
+    {
+     "from": "2014-02-09",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155274",
+     "sha256": "137490bbe83d886e50b909b05d212064755d1821c314afc5ff6fcb4d44ea78a7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-141-2014",
+   "path": "ordin/ansvsa/2014/141",
+   "short": "Ordin ansvsa nr. 141/2014",
+   "title": "Ordinul nr. 141/2014 pentru modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 54/2010 privind organizarea, funcționarea și atribuțiile Comitetului pentru produse medicinale veterinare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160603",
+   "versions": [
+    {
+     "from": "2014-08-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160603",
+     "sha256": "bc89427e3f600b9eac047a1a2b339b85600efc7423ce9e4efc7480d7802abcc2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-144-2014",
+   "path": "ordin/ansvsa/2014/144",
+   "short": "Ordin ansvsa nr. 144/2014",
+   "title": "Ordinul nr. 144/2014 privind modificarea anexei nr. 1 la Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 24/2010 privind aprobarea listelor cuprinzând informațiile secrete de serviciu și informațiile de interes public",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160594",
+   "versions": [
+    {
+     "from": "2014-08-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160594",
+     "sha256": "17bfbc980cecab2648db63bc590d6ddd2a280f619277ae5610b37bd8628035ce"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-149-2014",
+   "path": "ordin/ansvsa/2014/149",
+   "short": "Ordin ansvsa nr. 149/2014",
+   "title": "Ordinul nr. 149/2014 privind procedura de înființare a circumscripțiilor sanitar-veterinare de asistență în scopul efectuării activităților sanitar-veterinare publice de interes național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161132",
+   "versions": [
+    {
+     "from": "2014-09-08",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161132",
+     "sha256": "5804dda15509cb2b78cac824d8ff0cb7168df67c4c3a611c9e2b4258d1d2c8b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-166-2014",
+   "path": "ordin/ansvsa/2014/166",
+   "short": "Ordin ansvsa nr. 166/2014",
+   "title": "Ordinul nr. 166/2014 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 206/2006 pentru aprobarea Normei sanitare veterinare care stabilește principiile ce reglementează organizarea controalelor veterinare privind produsele ce intră în Comunitatea Europeană din țări terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162309",
+   "versions": [
+    {
+     "from": "2014-10-21",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162309",
+     "sha256": "5a233252df47417fb333d09461df48cb23cf17d9567fde276105b2b6d71d9f8d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-168-2014",
+   "path": "ordin/ansvsa/2014/168",
+   "short": "Ordin ansvsa nr. 168/2014",
+   "title": "Ordinul nr. 168/2014 privind aprobarea Normei sanitare veterinare și pentru siguranța alimentelor privind condițiile sanitar-veterinare și pentru siguranța alimentelor în care poate fi efectuată procesarea laptelui crud care nu îndeplinește criteriile referitoare la numărul total de germeni prevăzute în secțiunea IX din anexa III la Regulamentul (CE) nr. 853/2004 al Parlamentului European și al Consiliului din 29 aprilie 2004 de stabilire a unor norme specifice de igienă care se aplică alimentelor de origine animală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162643",
+   "versions": [
+    {
+     "from": "2014-11-03",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162643",
+     "sha256": "bd199fae3104ac4262dbf59a2ffee428db5c3a5f26697898c1c122089d609c0d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-175-2014",
+   "path": "ordin/ansvsa/2014/175",
+   "short": "Ordin ansvsa nr. 175/2014",
+   "title": "Ordinul nr. 175/2014 pentru aprobarea Regulamentului privind eliberarea, pentru profesiile de asistent veterinar și tehnician veterinar reglementate în România, a adeverinței de conformitate a studiilor cu prevederile Directivei 2005/36/CE a Parlamentului European și a Consiliului din 7 septembrie 2005 privind recunoașterea calificărilor profesionale și/sau a adeverinței privind exercitarea efectivă și legală a profesiilor de asistent veterinar și tehnician veterinar reglementate în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162843",
+   "versions": [
+    {
+     "from": "2014-11-10",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162843",
+     "sha256": "ff61b14273fdf2022bf2d9413f1cfc4a6f7a4b3d96c9f2d08b41fb0128f55fd6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-178-2014",
+   "path": "ordin/ansvsa/2014/178",
+   "short": "Ordin ansvsa nr. 178/2014",
+   "title": "Ordinul nr. 178/2014 privind modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 77/2005 pentru aprobarea Normei sanitare veterinare privind notificarea bolilor animalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163260",
+   "versions": [
+    {
+     "from": "2014-11-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163260",
+     "sha256": "6805da5e1430c2199a2f5f02f504ea7b94d2fd256ec5907d4c5b20ade3289e4a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-191-2014",
+   "path": "ordin/ansvsa/2014/191",
+   "short": "Ordin ansvsa nr. 191/2014",
+   "title": "Ordinul nr. 191/2014 privind modificarea și completarea Normei sanitare veterinare care stabilește procedura pentru marcarea și certificarea sanitară veterinară a cărnii proaspete și marcarea produselor de origine animală destinate consumului uman, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 10/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163918",
+   "versions": [
+    {
+     "from": "2015-01-16",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163918",
+     "sha256": "cdc7a5b534adda80b48e7df4beaf82178cbc59c98d60907fd286b82a6c995fdb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-192-2014",
+   "path": "ordin/ansvsa/2014/192",
+   "short": "Ordin ansvsa nr. 192/2014",
+   "title": "Ordinul nr. 192/2014 privind modificarea anexei nr. 3 la Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 96/2014 privind aprobarea tarifelor aplicabile în domeniul sanitar-veterinar și pentru siguranța alimentelor, ca urmare a actualizării tarifului în funcție de rata inflației din anul 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163833",
+   "versions": [
+    {
+     "from": "2014-12-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163833",
+     "sha256": "dd098e5da2a8c606b7e9e8bb1747bedd7d5f03e255775fb5691865b62d444a64"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-194-2014",
+   "path": "ordin/ansvsa/2014/194",
+   "short": "Ordin ansvsa nr. 194/2014",
+   "title": "Ordinul nr. 194/2014 privind modificarea art. 6 din Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 64/2007 pentru aprobarea Normei sanitare veterinare privind organizarea și desfășurarea activității de control oficial sanitar-veterinar efectuat de către personalul de specialitate în unitățile care produc alimente de origine animală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163949",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163949",
+     "sha256": "8afae0f49292eef6b132b44a94e62a36fdec337d3e73be343c61b61cfbbb41a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-196-2014",
+   "path": "ordin/ansvsa/2014/196",
+   "short": "Ordin ansvsa nr. 196/2014",
+   "title": "Ordinul nr. 196/2014 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 113/2008 privind aprobarea Instrucțiunilor pentru organizarea și desfășurarea activității de control oficial în unitățile de prelucrare, procesare, depozitare, transport, valorificare și comercializare a produselor și subproduselor alimentare de origine nonanimală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163950",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163950",
+     "sha256": "18e45216bc3a14c4e9bb0507def08096fa55a8ae0e60d7551b176ba15f28b24e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-22-2014",
+   "path": "ordin/ansvsa/2014/22",
+   "short": "Ordin ansvsa nr. 22/2014",
+   "title": "Ordinul nr. 22/2014 privind modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 39/2010 pentru aprobarea cerințelor tehnice care trebuie îndeplinite de mijloacele oficiale de identificare a bovinelor, suinelor, ovinelor și caprinelor, precum și pentru stabilirea condițiilor de aprobare a acestora pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155627",
+   "versions": [
+    {
+     "from": "2014-02-20",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155627",
+     "sha256": "6092fd4ea54d2aacd9843ec17eec6868f1bb0b053521874dd915070801a790bf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-29-2014",
+   "path": "ordin/ansvsa/2014/29",
+   "short": "Ordin ansvsa nr. 29/2014",
+   "title": "Ordinul nr. 29/2014 pentru aprobarea Normelor metodologice de aplicare a Programului acțiunilor de supraveghere, prevenire, control și eradicare a bolilor la animale, a celor transmisibile de la animale la om, protecția animalelor și protecția mediului, de identificare și înregistrare a bovinelor, suinelor, ovinelor, caprinelor și ecvideelor, precum și a Normelor metodologice de aplicare a Programului de supraveghere și control în domeniul siguranței alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155900",
+   "versions": [
+    {
+     "from": "2014-02-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155900",
+     "sha256": "b7190c40902fdc9f5b16eb0b647a98ed7ffa27205816a645673a3a53d6d6fb3b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-31-2014",
+   "path": "ordin/ansvsa/2014/31",
+   "short": "Ordin ansvsa nr. 31/2014",
+   "title": "Ordinul nr. 31/2014 pentru modificarea Procedurii privind decontarea acțiunilor sanitar-veterinare cuprinse în Programul acțiunilor de supraveghere, prevenire și control al bolilor la animale, al celor transmisibile de la animale la om, protecția animalelor și protecția mediului, de identificare și înregistrare a bovinelor, suinelor, ovinelor, caprinelor și ecvideelor, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 5/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156167",
+   "versions": [
+    {
+     "from": "2014-03-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156167",
+     "sha256": "e94b6186a7aad2ce19cc85223e10135ccd64818c919657540f684efe93b58157"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-36-2014",
+   "path": "ordin/ansvsa/2014/36",
+   "short": "Ordin ansvsa nr. 36/2014",
+   "title": "Ordinul nr. 36/2014 pentru modificarea art. 13 din Procedura de eliberare a Certificatului de competență profesională pentru conducătorii și însoțitorii de pe vehiculele rutiere care transportă animale vii, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 201/2007, ca urmare a actualizării taxei în funcție de rata inflației din anul 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156801",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156801",
+     "sha256": "e7bd12a6b83cb3f4ddff1e0635e4b59b36fa0f26f1724385fd0931422a56c9f0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-37-2014",
+   "path": "ordin/ansvsa/2014/37",
+   "short": "Ordin ansvsa nr. 37/2014",
+   "title": "Ordinul nr. 37/2014 pentru modificarea anexei nr. 2 la Norma sanitară veterinară privind procedura de autorizare/înregistrare sanitară veterinară a unităților ce desfășoară activități în domeniul hranei pentru animale de fermă și a mijloacelor de transport al hranei pentru animale de fermă, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 109/2010, ca urmare a actualizării tarifelor în funcție de rata inflației din anul 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156803",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156803",
+     "sha256": "5da533c0e7d042b6a61436d6257568f65f6f8defdb571deb19a5fd11e7f99da4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-38-2014",
+   "path": "ordin/ansvsa/2014/38",
+   "short": "Ordin ansvsa nr. 38/2014",
+   "title": "Ordinul nr. 38/2014 pentru modificarea anexei nr. 8 la Norma sanitară veterinară privind procedura de autorizare sanitară veterinară a unităților care produc, procesează, depozitează, transportă și/sau distribuie produse de origine animală, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 57/2010, ca urmare a actualizării tarifelor în funcție de rata inflației din anul 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156805",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156805",
+     "sha256": "4a269089df0914c6816a42b55b48d4f9adf39e7b768d68d0fcd61dfd62c29540"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-39-2014",
+   "path": "ordin/ansvsa/2014/39",
+   "short": "Ordin ansvsa nr. 39/2014",
+   "title": "Ordinul nr. 39/2014 pentru modificarea anexei nr. 27 la Norma sanitară veterinară privind procedura de înregistrare/autorizare sanitar-veterinară a unităților/centrelor de colectare/exploatațiilor de origine și a mijloacelor de transport din domeniul sănătății și al bunăstării animalelor, a unităților implicate în depozitarea și neutralizarea subproduselor de origine animală care nu sunt destinate consumului uman și a produselor procesate, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 16/2010, ca urmare a actualizării tarifelor în funcție de rata inflației din anul 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156802",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156802",
+     "sha256": "e8fb73a4b11a78900068cba0a1e5291ed2c56137bd107e36ffcc4b0e22d80f39"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-40-2014",
+   "path": "ordin/ansvsa/2014/40",
+   "short": "Ordin ansvsa nr. 40/2014",
+   "title": "Ordinul nr. 40/2014 pentru modificarea anexei nr. 4 la Norma sanitară veterinară și pentru siguranța alimentelor privind procedura de înregistrare sanitară veterinară și pentru siguranța alimentelor a activităților de obținere și de vânzare directă și/sau cu amănuntul a produselor alimentare de origine animală sau nonanimală, precum și a activităților de producție, procesare, depozitare, transport și comercializare a produselor alimentare de origine nonanimală, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 111/2008, ca urmare a actualizării tarifelor în funcție de rata inflației din anul 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156804",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156804",
+     "sha256": "2daba4da288d7a7ab384a499e58a9c29a69448bd044d6c7a540f1f3dfcee3ed2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-41-2014",
+   "path": "ordin/ansvsa/2014/41",
+   "short": "Ordin ansvsa nr. 41/2014",
+   "title": "Ordinul nr. 41/2014 pentru modificarea anexelor nr. 7, 8 și 10 la Norma sanitară veterinară privind procedura de introducere pe piață și de utilizare a reagenților și a seturilor de diagnostic de uz veterinar, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 81/2008, ca urmare a actualizării tarifelor în funcție de rata inflației din anul 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156806",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156806",
+     "sha256": "fd06439d42213b32d42aa9b5b2e2ac538e166fc1bd60c6dc82d8be9dccca9ccd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-42-2014",
+   "path": "ordin/ansvsa/2014/42",
+   "short": "Ordin ansvsa nr. 42/2014",
+   "title": "Ordinul nr. 42/2014 pentru modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 45/2005 privind aprobarea tarifelor pentru efectuarea analizelor și examenelor de laborator, precum și a unor activități sanitare veterinare, ca urmare a actualizării tarifelor în funcție de rata inflației din anul 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157606",
+   "versions": [
+    {
+     "from": "2014-04-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157606",
+     "sha256": "de1ae1aa8015102255ab52540bd80ab40cf3d7309aece4dc4c64250d9f1730e4"
     }
    ]
   },
@@ -2699,6 +3089,96 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162596",
      "sha256": "457168659a6451addd82086f6408fe3688b984a3756d64a5803a3e211605b5d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-46-2014",
+   "path": "ordin/ansvsa/2014/46",
+   "short": "Ordin ansvsa nr. 46/2014",
+   "title": "Ordinul nr. 46/2014 privind aprobarea Planului pentru eradicarea anemiei infecțioase ecvine pe teritoriul României și a normelor de implementare a prevederilor Deciziei Comisiei 2010/346/UE din 18 iunie 2010 referitoare la măsurile de protecție cu privire la anemia infecțioasă ecvină în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157602",
+   "versions": [
+    {
+     "from": "2014-04-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157602",
+     "sha256": "98def3f82b56feaf0fc08c06781918c20457ca573e8991dc4ccc315f1b11ec73"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-5-2014",
+   "path": "ordin/ansvsa/2014/5",
+   "short": "Ordin ansvsa nr. 5/2014",
+   "title": "Ordinul nr. 5/2014 pentru aprobarea Procedurii privind decontarea acțiunilor sanitar-veterinare cuprinse în Programul acțiunilor de supraveghere, prevenire și control al bolilor la animale, al celor transmisibile de la animale la om, protecția animalelor și protecția mediului, de identificare și înregistrare a bovinelor, suinelor, ovinelor, caprinelor și ecvideelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155244",
+   "versions": [
+    {
+     "from": "2014-02-05",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155244",
+     "sha256": "495889ec6d41c5789ff1c36e0efb470d578803510bac9455d1dd9477820aeb2a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-64-2014",
+   "path": "ordin/ansvsa/2014/64",
+   "short": "Ordin ansvsa nr. 64/2014",
+   "title": "Ordinul nr. 64/2014 privind modificarea anexei nr. 1 la Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 29/2014 pentru aprobarea Normelor metodologice de aplicare a Programului acțiunilor de supraveghere, prevenire, control și eradicare a bolilor la animale, a celor transmisibile de la animale la om, protecția animalelor și protecția mediului, de identificare și înregistrare a bovinelor, suinelor, ovinelor, caprinelor și ecvideelor și a Normelor metodologice de aplicare a Programului de supraveghere și control în domeniul siguranței alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157886",
+   "versions": [
+    {
+     "from": "2014-05-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157886",
+     "sha256": "3e37599f4b5ca51cb678835c4d82931a3417b7c480b7a3a6890060b7aa74bcf8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-69-2014",
+   "path": "ordin/ansvsa/2014/69",
+   "short": "Ordin ansvsa nr. 69/2014",
+   "title": "Ordinul nr. 69/2014 privind modificarea anexei la Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 109/2005 privind stabilirea formularului-tip al Procesului-verbal de constatare și sancționare a contravențiilor la normele sanitare veterinare și pentru siguranța alimentelor și a persoanelor împuternicite de Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor să folosească modelul de proces-verbal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158482",
+   "versions": [
+    {
+     "from": "2014-05-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158482",
+     "sha256": "9faeac8327edb84eaa74005af12b1723c71b0fea74d2a0f0927ebc53e429a11f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-83-2014",
+   "path": "ordin/ansvsa/2014/83",
+   "short": "Ordin ansvsa nr. 83/2014",
+   "title": "Ordinul nr. 83/2014 pentru aprobarea Normei sanitare veterinare privind condițiile de organizare și funcționare a unităților farmaceutice veterinare, precum și procedura de înregistrare sanitară veterinară/autorizare sanitară veterinară a unităților și activităților din domeniul farmaceutic veterinar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160058",
+   "versions": [
+    {
+     "from": "2014-08-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160058",
+     "sha256": "10331e700cb915738a6c651d1eec0822a14237fffadf2047a2c874fe0571a6c2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-96-2014",
+   "path": "ordin/ansvsa/2014/96",
+   "short": "Ordin ansvsa nr. 96/2014",
+   "title": "Ordinul nr. 96/2014 privind aprobarea tarifelor aplicabile în domeniul sanitar-veterinar și pentru siguranța alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160703",
+   "versions": [
+    {
+     "from": "2014-08-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160703",
+     "sha256": "600b1b8f35b4e94b7170d97fa9b2eb6ec527c86f0631931808a741388aea7222"
     }
    ]
   },
@@ -2786,7 +3266,7 @@
    "versions": [
     {
      "from": "2014-11-12",
-     "units": 10,
+     "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162933",
      "sha256": "8a591528472ec6d6717e546e3a12edce82502ecdb4a365e7ec6cc077a03f8493"
     }
@@ -2801,7 +3281,7 @@
    "versions": [
     {
      "from": "2014-11-13",
-     "units": 9,
+     "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162950",
      "sha256": "13ead034f1d215a074a4d414e4c140490db12c81e3800f97c3d9daa69c6fcdcb"
     }
@@ -2831,7 +3311,7 @@
    "versions": [
     {
      "from": "2014-04-01",
-     "units": 4,
+     "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156960",
      "sha256": "c95cd40d59eeabdb4efa53b24a932d13eb18ada9f715dec7905ec2c61267dcb6"
     }
@@ -3011,7 +3491,7 @@
    "versions": [
     {
      "from": "2014-07-01",
-     "units": 5,
+     "units": 23,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159486",
      "sha256": "63e451a184037dd706db3a2ffe188613c93e9a884992980f0e7aaffd499148c3"
     }
@@ -3161,7 +3641,7 @@
    "versions": [
     {
      "from": "2014-12-29",
-     "units": 4,
+     "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164273",
      "sha256": "90f51bac5d467ffb553a58e2cb8d8206034e4ce0c5c6a77abdf3b6cbd1134673"
     }
@@ -5268,6 +5748,21 @@
    ]
   },
   {
+   "slug": "ordin-guvern-709-2014",
+   "path": "ordin/guvern/2014/709",
+   "short": "Ordin guvern nr. 709/2014",
+   "title": "Ordinul nr. 709/2014 privind stabilirea procedurii de efectuare a plății titlurilor executorii având ca obiect acordarea de drepturi salariale personalului din cadrul Secretariatului General al Guvernului și al structurilor, organelor de specialitate ale administrației publice centrale și instituțiilor publice finanțate prin bugetul Secretariatului General al Guvernului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163011",
+   "versions": [
+    {
+     "from": "2014-11-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163011",
+     "sha256": "d98330c3b3e1b7b6be9f93ad98923723c0465d87dd924a24f3829caf67f24869"
+    }
+   ]
+  },
+  {
    "slug": "ordin-infrastructura-430-2014",
    "path": "ordin/infrastructura/2014/430",
    "short": "Ordin infrastructura nr. 430/2014",
@@ -6918,6 +7413,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-118-2014",
+   "path": "ordin/mediu/2014/118",
+   "short": "Ordin mediu nr. 118/2014",
+   "title": "Ordinul nr. 118/2014 privind abrogarea Ordinului ministrului delegat pentru ape, păduri și piscicultură nr. 76/2014 pentru aprobarea prețului mediu al unui metru cub de masă lemnoasă pe picior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155984",
+   "versions": [
+    {
+     "from": "2014-03-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155984",
+     "sha256": "85719be5d493e0480b9d010b4394f5c2b946a1c9d51c84af8acaab6b5f750af2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-13-2014",
    "path": "ordin/mediu/2014/13",
    "short": "Ordin mediu nr. 13/2014",
@@ -6978,6 +7488,36 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1410-2014",
+   "path": "ordin/mediu/2014/1410",
+   "short": "Ordin mediu nr. 1410/2014",
+   "title": "Ordinul nr. 1.410/2014 privind modificarea și completarea Ghidului de finanțare a Programului de stimulare a înnoirii Parcului auto național, aprobat prin Ordinul ministrului mediului și schimbărilor climatice nr. 364/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160674",
+   "versions": [
+    {
+     "from": "2014-08-14",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160674",
+     "sha256": "3e67d910a4c4256fd182c2c3c0013ba2261321b1e8c70e6cdbf07ab251982e77"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1436-2014",
+   "path": "ordin/mediu/2014/1436",
+   "short": "Ordin mediu nr. 1436/2014",
+   "title": "Ordinul nr. 1.436/2014 pentru completarea anexei la Normele de aplicare a Ordonanței Guvernului nr. 15/2013 privind reglementarea unor măsuri fiscal-bugetare pentru suportarea de la bugetul de stat a sumelor aferente corecțiilor financiare aplicate pentru abaterile de la conformitatea cu legislația din domeniul achizițiilor publice pentru Programul operațional sectorial Mediu 2007-2013, aprobate prin Ordinul ministrului mediului și schimbărilor climatice nr. 2.112/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160818",
+   "versions": [
+    {
+     "from": "2014-08-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160818",
+     "sha256": "379486a5af5b9505613a94faf00c1dd81e1e8d58b4d5d9308653a0d4a23f405f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1442-2014",
    "path": "ordin/mediu/2014/1442",
    "short": "Ordin mediu nr. 1442/2014",
@@ -6993,6 +7533,36 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1444-2014",
+   "path": "ordin/mediu/2014/1444",
+   "short": "Ordin mediu nr. 1444/2014",
+   "title": "Ordinul nr. 1.444/2014 pentru modificarea Ordinului ministrului mediului și pădurilor nr. 2.851/2011 privind aprobarea alocării certificatelor de emisii de gaze cu efect de seră cu titlu gratuit pentru activitățile de aviație, pentru anul 2012 și perioada 2013-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160919",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160919",
+     "sha256": "9a7f89b5df2835135d79e81c507cc81a46ea9e1fb305ba600c70379c897a89b1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1467-2014",
+   "path": "ordin/mediu/2014/1467",
+   "short": "Ordin mediu nr. 1467/2014",
+   "title": "Ordinul nr. 1.467/2014 privind modificarea anexelor nr. 1 și 2 la Ordinul ministrului mediului și schimbărilor climatice nr. 1.601/2013 pentru aprobarea listei cu aplicații care beneficiază de derogare de la restricția prevăzută la art. 4 alin. (1) din Hotărârea Guvernului nr. 322/2013 privind restricțiile de utilizare a anumitor substanțe periculoase în echipamentele electrice și electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161363",
+   "versions": [
+    {
+     "from": "2014-09-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161363",
+     "sha256": "b0789d968fead1576be4f2d2b9be8044aae97a4ec215d8eb84047f119285d88e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1547-2014",
    "path": "ordin/mediu/2014/1547",
    "short": "Ordin mediu nr. 1547/2014",
@@ -7004,6 +7574,36 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161406",
      "sha256": "40a87b2a2958514548e7107228a793c893adc6d375567a0f9ac0e57240eca85b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1550-2014",
+   "path": "ordin/mediu/2014/1550",
+   "short": "Ordin mediu nr. 1550/2014",
+   "title": "Ordinul nr. 1.550/2014 privind modificarea Ghidului de finanțare a Programului de stimulare a înnoirii Parcului auto național, aprobat prin Ordinul ministrului mediului și schimbărilor climatice nr. 364/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161280",
+   "versions": [
+    {
+     "from": "2014-09-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161280",
+     "sha256": "ccbf8077f74f48d1c918cd26c746fb697bbbeac1975b721fa0db4eb53b345cae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1571-2014",
+   "path": "ordin/mediu/2014/1571",
+   "short": "Ordin mediu nr. 1571/2014",
+   "title": "Ordinul nr. 1.571/2014 privind abrogarea art. 35 alin. (6) din Metodologia de atribuire în administrare și custodie a ariilor naturale protejate, aprobată prin Ordinul ministrului mediului și schimbărilor climatice nr. 1.052/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161521",
+   "versions": [
+    {
+     "from": "2014-09-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161521",
+     "sha256": "227050a854c93b6760d72152c83dc1b4188c3cf82d5ccb2a5e386c51d0f519f4"
     }
    ]
   },
@@ -7083,6 +7683,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1866-2014",
+   "path": "ordin/mediu/2014/1866",
+   "short": "Ordin mediu nr. 1866/2014",
+   "title": "Ordinul nr. 1.866/2014 privind modificarea art. 15 alin. (2) din Ghidul de finanțare a Programului de stimulare a înnoirii Parcului auto național, aprobat prin Ordinul ministrului mediului și schimbărilor climatice nr. 364/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162471",
+   "versions": [
+    {
+     "from": "2014-10-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162471",
+     "sha256": "30657d53729984fab9c149df5ce8b0f44284fc0aae0a89684010111dadc4de4e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-19-2014",
    "path": "ordin/mediu/2014/19",
    "short": "Ordin mediu nr. 19/2014",
@@ -7094,6 +7709,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155606",
      "sha256": "c4f646a2b8db4a2ece567127b01b5537fd5e1bc061ae85c3663adad33e2048ac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-192-2014",
+   "path": "ordin/mediu/2014/192",
+   "short": "Ordin mediu nr. 192/2014",
+   "title": "Ordinul nr. 192/2014 privind modificarea Ordinului ministrului mediului și gospodăririi apelor nr. 578/2006 pentru aprobarea Metodologiei de calcul al contribuțiilor și taxelor datorate la Fondul pentru mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155664",
+   "versions": [
+    {
+     "from": "2014-02-21",
+     "units": 78,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155664",
+     "sha256": "04ad3216a16c5a912b4304fad7ec969688d01100efc7de1e9e2ad2fb1b23c523"
     }
    ]
   },
@@ -7113,6 +7743,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-2051-2014",
+   "path": "ordin/mediu/2014/2051",
+   "short": "Ordin mediu nr. 2051/2014",
+   "title": "Ordinul nr. 2.051/2014 privind modificarea art. 13 alin. (5) din Ghidul de finanțare a Programului vizând protecția resurselor de apă, sisteme integrate de alimentare cu apă, stații de tratare, canalizare și stații de epurare, aprobat prin Ordinul ministrului mediului și pădurilor nr. 1.450/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163281",
+   "versions": [
+    {
+     "from": "2014-11-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163281",
+     "sha256": "a6e392bb5da394c42b7d06ca2f23549ee4ef562ca8277ebe809f74d78d5447a4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-2095-2014",
    "path": "ordin/mediu/2014/2095",
    "short": "Ordin mediu nr. 2095/2014",
@@ -7128,6 +7773,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-256-2014",
+   "path": "ordin/mediu/2014/256",
+   "short": "Ordin mediu nr. 256/2014",
+   "title": "Ordinul nr. 256/2014 privind modificarea anexei la Ordinul ministrului mediului nr. 464/2009 pentru aprobarea Normelor tehnice privind organizarea și desfășurarea activităților de control și inspecție în domeniul protecției mediului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156510",
+   "versions": [
+    {
+     "from": "2014-03-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156510",
+     "sha256": "8d8e322e5dac7b746669b0f7d736c5879613877346dc5b86ec9043568045f4cc"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-284-2014",
    "path": "ordin/mediu/2014/284",
    "short": "Ordin mediu nr. 284/2014",
@@ -7139,6 +7799,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157116",
      "sha256": "6e64d70f681f3ed40c97b881601a7421c1905ecae26fdcf64122735fe1da2122"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-286-2014",
+   "path": "ordin/mediu/2014/286",
+   "short": "Ordin mediu nr. 286/2014",
+   "title": "Ordinul nr. 286/2014 pentru completarea Regulamentului privind atribuirea dreptului de gestionare a faunei cinegetice, aprobat prin Ordinul ministrului mediului și pădurilor nr. 1.221/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157558",
+   "versions": [
+    {
+     "from": "2014-04-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157558",
+     "sha256": "e6126ae9deb0cdaf1452d7e05196b314363941321cadbf5b04a6aeace7ce007b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-293-2014",
+   "path": "ordin/mediu/2014/293",
+   "short": "Ordin mediu nr. 293/2014",
+   "title": "Ordinul nr. 293/2014 pentru completarea Ordinului ministrului delegat pentru ape, păduri și piscicultură nr. 83/2014 privind stabilirea perioadelor și zonelor de prohibiție a pescuitului, precum și a zonelor de protecție a resurselor acvatice vii în anul 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157074",
+   "versions": [
+    {
+     "from": "2014-04-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157074",
+     "sha256": "bf481114e92465c008a0d9b0404074353a22cef3a011868c89b54babf16c3674"
     }
    ]
   },
@@ -7169,6 +7859,36 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157254",
      "sha256": "4303568177575c264f5dda6de3e5834eb30c7e58bd6680d834de947e1776ef78"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-302-2014",
+   "path": "ordin/mediu/2014/302",
+   "short": "Ordin mediu nr. 302/2014",
+   "title": "Ordinul nr. 302/2014 privind modificarea și completarea anexei nr. I la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 539/2009 pentru aprobarea regimului permiselor de vânătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157627",
+   "versions": [
+    {
+     "from": "2014-04-24",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157627",
+     "sha256": "a68f6c73e6b18ffce21eb6f80ba2ad64af315bb5004c25339f4092573961ce5d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-35-2014",
+   "path": "ordin/mediu/2014/35",
+   "short": "Ordin mediu nr. 35/2014",
+   "title": "Ordinul nr. 35/2014 privind modificarea Ordinului ministrului mediului și gospodăririi apelor nr. 549/2006 pentru aprobarea modelului și conținutului formularului \"Declarație privind obligațiile la Fondul pentru mediu\" și a instrucțiunilor de completare și depunere a acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155337",
+   "versions": [
+    {
+     "from": "2014-02-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155337",
+     "sha256": "964d18c5942cea9b6ff9b4e1b6db083eda207dca38a866931dcc97a1c4b880fd"
     }
    ]
   },
@@ -7233,6 +7953,51 @@
    ]
   },
   {
+   "slug": "ordin-mediu-43-2014",
+   "path": "ordin/mediu/2014/43",
+   "short": "Ordin mediu nr. 43/2014",
+   "title": "Ordinul nr. 43/2014 pentru modificarea și completarea Normelor privind accesul la resursele acvatice vii din domeniul public al statului în vederea practicării pescuitului comercial în habitatele piscicole naturale, cu excepția ariilor naturale protejate, aprobate prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 128/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155628",
+   "versions": [
+    {
+     "from": "2014-02-20",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155628",
+     "sha256": "cfec70b8ed53362e6e5bd1c9c7ee8a7e56ea15c0adff3c8048fb2bf471f8381b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-447-2014",
+   "path": "ordin/mediu/2014/447",
+   "short": "Ordin mediu nr. 447/2014",
+   "title": "Ordinul nr. 447/2014 privind modificarea și completarea Ghidului de finanțare a Programului de stimulare a înnoirii Parcului auto național, aprobat prin Ordinul ministrului mediului și schimbărilor climatice nr. 364/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157163",
+   "versions": [
+    {
+     "from": "2014-04-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157163",
+     "sha256": "3180e3bddf81bafc883ab8e8d93fb6fca102e952976b24fccfe0118ef5865684"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-45-2014",
+   "path": "ordin/mediu/2014/45",
+   "short": "Ordin mediu nr. 45/2014",
+   "title": "Ordinul nr. 45/2014 pentru modificarea Ordinului ministrului mediului și gospodăririi apelor nr. 658/2006 pentru aprobarea modelelor formularelor utilizate în domeniul colectării creanțelor la Fondul pentru mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154966",
+   "versions": [
+    {
+     "from": "2014-01-31",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154966",
+     "sha256": "3e4769d691cb791f3a5e90135e2600b6c5071984c19ec61628d4e9ecc1ed13fb"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-514-2014",
    "path": "ordin/mediu/2014/514",
    "short": "Ordin mediu nr. 514/2014",
@@ -7293,6 +8058,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-635-2014",
+   "path": "ordin/mediu/2014/635",
+   "short": "Ordin mediu nr. 635/2014",
+   "title": "Ordinul nr. 635/2014 pentru modificarea anexei nr. 6 la Regulamentul privind atribuirea dreptului de gestionare a faunei cinegetice, aprobat prin Ordinul ministrului mediului și pădurilor nr. 1.221/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160008",
+   "versions": [
+    {
+     "from": "2014-07-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160008",
+     "sha256": "2b4a3a60bf0abfc0dc33181cffadefa56546e22c7923bbcd14b54d462793e0e0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-656-2014",
    "path": "ordin/mediu/2014/656",
    "short": "Ordin mediu nr. 656/2014",
@@ -7304,6 +8084,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159043",
      "sha256": "9cd7f7e59516b3e4af9a6338e9f452eccb8f4693def630045210d1d65680d7bb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-669-2014",
+   "path": "ordin/mediu/2014/669",
+   "short": "Ordin mediu nr. 669/2014",
+   "title": "Ordinul nr. 669/2014 pentru modificarea și completarea Regulamentului privind forma și modul de utilizare a dispozitivelor speciale de marcat, precum și modul de marcare a arborilor sau a unor loturi de arbori, aprobat prin Ordinul ministrului mediului și pădurilor nr. 1.346/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160786",
+   "versions": [
+    {
+     "from": "2014-10-20",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160786",
+     "sha256": "a6d50800ccd5721e3c42c38ae5567a713dbdadf5222674aa357cf3f00e1733d1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-670-2014",
+   "path": "ordin/mediu/2014/670",
+   "short": "Ordin mediu nr. 670/2014",
+   "title": "Ordinul nr. 670/2014 pentru modificarea și completarea Normelor tehnice privind modificarea prevederilor amenajamentelor silvice și schimbarea categoriei de folosință a terenurilor din fondul forestier, aprobate prin Ordinul ministrului mediului și pădurilor nr 3.814/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160745",
+   "versions": [
+    {
+     "from": "2014-08-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160745",
+     "sha256": "27cd53ca4ab8ba98e942ea708f67d54e209f60185cbd1b4a47fc5e73dd5d1949"
     }
    ]
   },
@@ -7338,6 +8148,51 @@
    ]
   },
   {
+   "slug": "ordin-mediu-719-2014",
+   "path": "ordin/mediu/2014/719",
+   "short": "Ordin mediu nr. 719/2014",
+   "title": "Ordinul nr. 719/2014 pentru modificarea și completarea Ordinului ministrului mediului și pădurilor nr. 405/2010 privind constituirea și funcționarea Comisiei de analiză tehnică la nivel central",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158160",
+   "versions": [
+    {
+     "from": "2014-05-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158160",
+     "sha256": "33225d455e4aa4f58ddcb1e362dc208c09362065015618f67cd48d65b4ee65d0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-728-2014",
+   "path": "ordin/mediu/2014/728",
+   "short": "Ordin mediu nr. 728/2014",
+   "title": "Ordinul nr. 728/2014 pentru modificarea și completarea Metodologiei de testare a implementării Sistemului informațional integrat de urmărire a materialelor lemnoase, aprobată prin Ordinul ministrului delegat pentru ape, păduri și piscicultură nr. 596/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161222",
+   "versions": [
+    {
+     "from": "2014-09-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161222",
+     "sha256": "dde8103bf336aaf256a6572cdd8cd18cea5088f7efc2a9275f92494cb6e424db"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-738-2014",
+   "path": "ordin/mediu/2014/738",
+   "short": "Ordin mediu nr. 738/2014",
+   "title": "Ordinul nr. 738/2014 pentru modificarea pct. 2 din anexa la Ordinul ministrului mediului și pădurilor nr. 4.048/2012 privind desemnarea centrelor de instruire și evaluare a personalului care desfășoară activitățile prevăzute de art. 2 alin. (1) din Regulamentul (CE) nr. 303/2008 al Comisiei din 2 aprilie 2008 de stabilire, în conformitate cu Regulamentul (CE) nr. 842/2006 al Parlamentului European și al Consiliului, a cerințelor minime și a condițiilor de recunoaștere reciprocă în vederea certificării societăților comerciale și a personalului în ceea ce privește echipamentele staționare de refrigerare, de climatizare și pentru pompe de căldură care conțin anumite gaze fluorurate cu efect de seră și a personalului care desfășoară activitatea prevăzută de art. 1 din Regulamentul (CE) nr. 307/2008 al Comisiei din 2 aprilie 2008 de stabilire, în conformitate cu Regulamentul (CE) nr. 842/2006 al Parlamentului European și al Consiliului, a cerințelor minime pentru programele de formare și a condițiilor pentru recunoașterea reciprocă a certificatelor de formare pentru personal, în ceea ce privește sistemele de climatizare ale unor autovehicule care conțin anumite gaze fluorurate cu efect de seră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158440",
+   "versions": [
+    {
+     "from": "2014-05-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158440",
+     "sha256": "b438c38baa4397ceb34028d1ab0762268bcc3623b81ebf0d70af1584eccf3ee8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-76-2014",
    "path": "ordin/mediu/2014/76",
    "short": "Ordin mediu nr. 76/2014",
@@ -7349,6 +8204,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155563",
      "sha256": "043d1176a3bd697920f408dccbafbf47b838d20e3eec543cb750826920271931"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-760-2014",
+   "path": "ordin/mediu/2014/760",
+   "short": "Ordin mediu nr. 760/2014",
+   "title": "Ordinul nr. 760/2014 privind modificarea Ordinului ministrului delegat pentru ape, păduri și piscicultură nr. 514/2014 pentru aprobarea Metodologiei privind organizarea activității de urmărire a comportării construcțiilor hidrotehnice - NTLH-041",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161383",
+   "versions": [
+    {
+     "from": "2014-09-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161383",
+     "sha256": "c15a4f1a87cd07e0ba8809528b026ed976a2fa2a923404f7a72da5d4cc27a495"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-797-2014",
+   "path": "ordin/mediu/2014/797",
+   "short": "Ordin mediu nr. 797/2014",
+   "title": "Ordinul nr. 797/2014 privind modificarea și completarea Metodologiei de atribuire a administrării și a custodiei ariilor naturale protejate, aprobată prin Ordinul ministrului mediului și schimbărilor climatice nr. 1.470/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158425",
+   "versions": [
+    {
+     "from": "2014-05-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158425",
+     "sha256": "532c17a6c1458e1e51a5adb68778fd58737158aba637b564f0161693233a580f"
     }
    ]
   },
@@ -7368,6 +8253,36 @@
    ]
   },
   {
+   "slug": "ordin-mediu-81-2014",
+   "path": "ordin/mediu/2014/81",
+   "short": "Ordin mediu nr. 81/2014",
+   "title": "Ordinul nr. 81/2014 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 772/2007 privind criteriile de recunoaștere a organizațiilor de producători din sectorul pescuitului și acvaculturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155615",
+   "versions": [
+    {
+     "from": "2014-02-19",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155615",
+     "sha256": "563427590de10cb57c8e8c9d9bc87df72c38b42337083f7e28a87f25635bd17f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-815-2014",
+   "path": "ordin/mediu/2014/815",
+   "short": "Ordin mediu nr. 815/2014",
+   "title": "Ordinul nr. 815/2014 pentru modificarea și completarea Instrucțiunilor privind termenele, modalitățile și perioadele de colectare, scoatere și transport al materialului lemnos, aprobate prin Ordinul ministrului mediului și pădurilor nr. 1.540/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162022",
+   "versions": [
+    {
+     "from": "2014-10-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162022",
+     "sha256": "d6e39bae9dfa75aa0c4f5980a7f9bba8d8bbd9fa6064864f4c203954b6af0492"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-824-2014",
    "path": "ordin/mediu/2014/824",
    "short": "Ordin mediu nr. 824/2014",
@@ -7379,6 +8294,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159236",
      "sha256": "3be2b2b6793ecba9d9dad60ee9e5b4d20587b97803c23e6b478d5ef5db9cbfd6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-825-2014",
+   "path": "ordin/mediu/2014/825",
+   "short": "Ordin mediu nr. 825/2014",
+   "title": "Ordinul nr. 825/2014 pentru modificarea unor acte normative în domeniul gestionării deșeurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158988",
+   "versions": [
+    {
+     "from": "2014-06-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158988",
+     "sha256": "a252bc0e5b7681370663ee113674f9ee930eb7226abc444302a065b37ad640ee"
     }
    ]
   },
@@ -7458,6 +8388,36 @@
    ]
   },
   {
+   "slug": "ordin-mediu-865-2014",
+   "path": "ordin/mediu/2014/865",
+   "short": "Ordin mediu nr. 865/2014",
+   "title": "Ordinul nr. 865/2014 privind modificarea unor acte normative care stabilesc taxe și tarife în domeniul protecției mediului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159041",
+   "versions": [
+    {
+     "from": "2014-06-17",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159041",
+     "sha256": "5b6f5435cf0888a8ad31e1128944c495ac24df4e277042b9082195446b0f8873"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-87-2014",
+   "path": "ordin/mediu/2014/87",
+   "short": "Ordin mediu nr. 87/2014",
+   "title": "Ordinul nr. 87/2014 pentru modificarea anexei nr. 2 la Ordinul ministrului mediului și schimbărilor climatice nr. 1.225/2013 privind aprobarea cotelor de recoltă pentru speciile de faună de interes cinegetic, la care vânarea este permisă, pentru sezonul de vânătoare 15 mai 2013-14 mai 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155824",
+   "versions": [
+    {
+     "from": "2014-02-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155824",
+     "sha256": "11caa6e8686d58ba3ab99e4a1770ed8d57ac629fa9dd7172361e135b33d43931"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-872-2014",
    "path": "ordin/mediu/2014/872",
    "short": "Ordin mediu nr. 872/2014",
@@ -7518,6 +8478,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-927-2014",
+   "path": "ordin/mediu/2014/927",
+   "short": "Ordin mediu nr. 927/2014",
+   "title": "Ordinul nr. 927/2014 pentru completarea Metodologiei privind organizarea și funcționarea SUMAL, obligațiile utilizatorilor SUMAL, precum și structura și modalitatea de transmitere a informațiilor standardizate, aprobată prin Ordinul ministrului delegat pentru ape, păduri și piscicultură nr. 837/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162952",
+   "versions": [
+    {
+     "from": "2014-11-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162952",
+     "sha256": "9257fb4959173ec8f282d9ac55199718ef7fbb7649a2fc2870bfc48ea82848cc"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-930-2014",
    "path": "ordin/mediu/2014/930",
    "short": "Ordin mediu nr. 930/2014",
@@ -7533,6 +8508,81 @@
    ]
   },
   {
+   "slug": "ordin-mediu-931-2014",
+   "path": "ordin/mediu/2014/931",
+   "short": "Ordin mediu nr. 931/2014",
+   "title": "Ordinul nr. 931/2014 privind modificarea și completarea anexei nr. 2 la Ordinul ministrului mediului și schimbărilor climatice nr. 1.645/2013 pentru aprobarea Catalogului național al materialelor de bază și a modelului filei Catalogului național al materialelor de bază",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163299",
+   "versions": [
+    {
+     "from": "2014-11-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163299",
+     "sha256": "fa8e6d72109c2de9c3d58531ececf12bb1359a550d58167eba198d7285703a1b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-938-2014",
+   "path": "ordin/mediu/2014/938",
+   "short": "Ordin mediu nr. 938/2014",
+   "title": "Ordinul nr. 938/2014 privind modificarea pct. 2 al secțiunii 1 din Nomenclatorul lucrărilor și serviciilor care se prestează de către autoritățile publice pentru protecția mediului în regim de tarifare și cuantumul tarifelor aferente acestora, aprobat prin Ordinul ministrului mediului și dezvoltării durabile nr. 1.108/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159142",
+   "versions": [
+    {
+     "from": "2014-06-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159142",
+     "sha256": "c203959457fbc29077f116feb5f3dc7c9d34145040de3c39654159ea53222456"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-947-2014",
+   "path": "ordin/mediu/2014/947",
+   "short": "Ordin mediu nr. 947/2014",
+   "title": "Ordinul nr. 947/2014 pentru modificarea și completarea Ghidului de finanțare a Programului vizând educația și conștientizarea publicului privind protecția mediului, aprobat prin Ordinul ministrului mediului și schimbărilor climatice nr. 141/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159395",
+   "versions": [
+    {
+     "from": "2014-06-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159395",
+     "sha256": "77082f8b58e2bd102450b0f3d5646d81461afd6fddc6dc609dfc8bc9ded3296b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-948-2014",
+   "path": "ordin/mediu/2014/948",
+   "short": "Ordin mediu nr. 948/2014",
+   "title": "Ordinul nr. 948/2014 privind modificarea și completarea Ghidului de finanțare a Programului privind instalarea sistemelor de încălzire care utilizează energie regenerabilă, inclusiv înlocuirea sau completarea sistemelor clasice de încălzire, aprobat prin Ordinul ministrului mediului și pădurilor nr. 1.274/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159262",
+   "versions": [
+    {
+     "from": "2014-06-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159262",
+     "sha256": "4b90c2474ef9db67c775d86f8548a64efc11e52215389f21008d9757e4c53f23"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-949-2014",
+   "path": "ordin/mediu/2014/949",
+   "short": "Ordin mediu nr. 949/2014",
+   "title": "Ordinul nr. 949/2014 privind modificarea Ghidului de finanțare a Programului de stimulare a înnoirii Parcului auto național, aprobat prin Ordinul ministrului mediului și schimbărilor climatice nr. 364/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159263",
+   "versions": [
+    {
+     "from": "2014-06-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159263",
+     "sha256": "aedca83318838ea0fa6470075c64244506d0e99499eaa4e12ad94b37f840e726"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-956-2014",
    "path": "ordin/mediu/2014/956",
    "short": "Ordin mediu nr. 956/2014",
@@ -7544,6 +8594,21 @@
      "units": 18,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163517",
      "sha256": "7a8b000ccd70d6455e191316d5999912bd62f72be74309f1e4f8e97a3725dcaa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-982-2014",
+   "path": "ordin/mediu/2014/982",
+   "short": "Ordin mediu nr. 982/2014",
+   "title": "Ordinul nr. 982/2014 pentru modificarea anexei nr. 7 la Regulamentul privind atribuirea dreptului de gestionare a faunei cinegetice, aprobat prin Ordinul ministrului mediului și pădurilor nr. 1.221/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163951",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163951",
+     "sha256": "849db427f6c21e505929787f9b6aa7b83419edecea1e7d47c218dda8c556c3a8"
     }
    ]
   },

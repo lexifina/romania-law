@@ -2,7 +2,7 @@
 
 Ordin cnas nr. 212/2015 · 1 versions, from 2015-05-29 (latest in force: 2015-05-29) · <https://legislatie.just.ro/Public/DetaliiDocument/168399>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 Lista actualizată a medicamentelor pentru care se datorează contribuție trimestrială, aferentă trimestrului.... anul.... *Font 7* ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -15,6 +15,8 @@ Ordin cnas nr. 212/2015 · 1 versions, from 2015-05-29 (latest in force: 2015-05
 | Art. 7 | [art-007.md](art-007.md) | 0 |  |
 | Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 
 Act id: `ordin-cnas-212-2015` (tags `ordin-cnas-212-2015/<day>`; `python tools/on.py <day> ordin-cnas-212-2015`).
 
@@ -25,4 +27,4 @@ Act id: `ordin-cnas-212-2015` (tags `ordin-cnas-212-2015/<day>`; `python tools/o
 - Ordin cnas nr. 212/2015: the first version is the order as published in Monitorul Oficial nr. 377 of 29 May 2015 (document 168399 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin cnas nr. 212/2015: the signatures and the place and date line after its last article are not article text.
 - Ordin cnas nr. 212/2015: Anexa nr. 1 (1 METODOLOGIE 10/04/2015) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 168399 of the official web service.
-- Ordin cnas nr. 212/2015: Anexa nr. 2 (2 Lista actualizată a medicamentelor pentru care se datorează contribuție trimestrială, aferentă trimestrului.... anul.... *Font 7* ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin cnas nr. 212/2015: Anexa nr. 2 (2 Lista actualizată a medicamentelor pentru care se datorează contribuție trimestrială, aferentă trimestrului.... anul.... *Font 7*) is part of the order and is published in its folder, anexa-2/ (paragraphs and tables), from document 168399 of the official web service.

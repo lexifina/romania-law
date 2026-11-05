@@ -2,7 +2,7 @@
 
 Norma csspp nr. 15/2007 · 1 versions, from 2007-07-20 (latest in force: 2007-07-20) · <https://legislatie.just.ro/Public/DetaliiDocument/83743>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2): it is a table that the official text holds only flattened; Anexa nr. 4 (4): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -31,6 +31,8 @@ Norma csspp nr. 15/2007 · 1 versions, from 2007-07-20 (latest in force: 2007-07
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 | Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
 | Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
+| Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
+| Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
 | Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
 | Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
 | Anexa nr. 6 (what it is) | [anexa-6/README.md](anexa-6/README.md) | 0 |  |
@@ -46,8 +48,8 @@ Act id: `norma-csspp-15-2007` (tags `norma-csspp-15-2007/<day>`; `python tools/o
 - Norma csspp nr. 15/2007: the signatures and the place and date line after its last article are not article text.
 - Norma csspp nr. 15/2007: Anexa nr. 1 (1) is part of the norm and is published in its folder, anexa-1/ (paragraphs), from document 83743 of the official web service.
 - Norma csspp nr. 15/2007: Anexa nr. 3 (3) is part of the norm and is published in its folder, anexa-3/ (paragraphs), from document 83743 of the official web service.
+- Norma csspp nr. 15/2007: Anexa nr. 4 (4) is part of the norm and is published in its folder, anexa-4/ (paragraphs and tables), from document 83743 of the official web service.
 - Norma csspp nr. 15/2007: Anexa nr. 5 (5) is part of the norm and is published in its folder, anexa-5/ (paragraphs), from document 83743 of the official web service.
 - Norma csspp nr. 15/2007: Anexa nr. 6 (6) is part of the norm and is published in its folder, anexa-6/ (paragraphs), from document 83743 of the official web service.
 - Norma csspp nr. 15/2007: Anexa nr. 2 (2) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma csspp nr. 15/2007: Anexa nr. 4 (4) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Norma csspp nr. 15/2007: the publisher's notes run into its text (*) CSSPP=Comisia de Supraveghere a Sistemului de Pensii Private; *) Valorile se calculează în fiecare zi lucrătoare, folosindu-se informaţiile disponibile la ora 18,00 din ziua lucrătoa; **) OPCVM=organisme de plasament colectiv în valori mobiliare; ***) AOPC= alte organisme de plasament colectiv) are not text.

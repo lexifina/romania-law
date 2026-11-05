@@ -2,7 +2,7 @@
 
 Norma asf nr. 23/2015 · 1 versions, from 2015-12-31 (latest in force: 2015-12-31) · <https://legislatie.just.ro/Public/DetaliiDocument/174549>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (CERERE pentru autorizarea fondului de pensii facultative ┌───────────────────────────────────────────────────────────────────────────┐ │1. Denumirea ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -42,6 +42,8 @@ Norma asf nr. 23/2015 · 1 versions, from 2015-12-31 (latest in force: 2015-12-3
 | Art. 34 | [art-034.md](art-034.md) | 0 |  |
 | Art. 35 | [art-035.md](art-035.md) | 0 |  |
 | Art. 36 | [art-036.md](art-036.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 
 Act id: `norma-asf-23-2015` (tags `norma-asf-23-2015/<day>`; `python tools/on.py <day> norma-asf-23-2015`).
 
@@ -51,4 +53,4 @@ Act id: `norma-asf-23-2015` (tags `norma-asf-23-2015/<day>`; `python tools/on.py
 - Norma asf nr. 23/2015: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Norma asf nr. 23/2015: the first version is the norm as published in Monitorul Oficial nr. 986 of 31 December 2015 (document 174549 of the official web service), in force on its day of publication, as it states.
 - Norma asf nr. 23/2015: the signatures and the place and date line after its last article are not article text.
-- Norma asf nr. 23/2015: Anexa nr. 1 (CERERE pentru autorizarea fondului de pensii facultative ┌───────────────────────────────────────────────────────────────────────────┐ │1. Denumirea ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Norma asf nr. 23/2015: Anexa nr. 1 (CERERE pentru autorizarea fondului de pensii facultative) is part of the norm and is published in its folder, anexa-1/ (paragraphs and tables), from document 174549 of the official web service.

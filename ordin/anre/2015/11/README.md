@@ -2,7 +2,7 @@
 
 Ordin anre nr. 11/2015 · 1 versions, from 2015-05-03 (latest in force: 2015-05-03) · <https://legislatie.just.ro/Public/DetaliiDocument/166092>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (la contract DEFINIȚII ┌──────────────────────┬──────────────────────────────────────────────────────┐ │Compensație (bănească)│Suma de bani pe care utilizatorul ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -12,6 +12,8 @@ Ordin anre nr. 11/2015 · 1 versions, from 2015-05-03 (latest in force: 2015-05-
 | Art. 4 | [art-004.md](art-004.md) | 0 |  |
 | Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 
 Act id: `ordin-anre-11-2015` (tags `ordin-anre-11-2015/<day>`; `python tools/on.py <day> ordin-anre-11-2015`).
 
@@ -22,5 +24,5 @@ Act id: `ordin-anre-11-2015` (tags `ordin-anre-11-2015/<day>`; `python tools/on.
 - Ordin anre nr. 11/2015: the first version is the order as published in Monitorul Oficial nr. 153 of 3 March 2015 (document 166092 of the official web service), in force on 3 May 2015, the day it states for itself.
 - Ordin anre nr. 11/2015: the signatures and the place and date line after its last article are not article text.
 - Ordin anre nr. 11/2015: Anexa nr. 1 (CONTRACTUL-CADRU de racordare la rețelele electrice de interes public pentru loc de consum/loc de producere/loc de consum și de producere CONTRACT DE RACORDARE nr...... încheiat astăzi....... (data se) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 166092 of the official web service.
-- Ordin anre nr. 11/2015: Anexa nr. 2 (la contract DEFINIȚII ┌──────────────────────┬──────────────────────────────────────────────────────┐ │Compensație (bănească)│Suma de bani pe care utilizatorul ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anre nr. 11/2015: Anexa nr. 2 (la contract DEFINIȚII) is part of the order and is published in its folder, anexa-2/ (paragraphs and tables), from document 166092 of the official web service.
 - Ordin anre nr. 11/2015: the publisher's notes run into its text (* În contractul de racordare încheiat între operatorul de reţea şi utilizator se preiau din contractul-cadru numai clauz; *) Notele oferă indicaţii referitoare la aplicarea unor clauze din contract, în scopul includerii în contractul de racor) are not text.

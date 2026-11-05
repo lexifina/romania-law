@@ -2,7 +2,7 @@
 
 Ordin anre nr. 157/2014 · 1 versions, from 2015-01-01 (latest in force: 2015-01-01) · <https://legislatie.just.ro/Public/DetaliiDocument/164002>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 TARIFE REGLEMENTATE DE ENERGIE ELECTRICĂ aplicate de furnizorii de ultimă instanță clienților casnici care nu și-au exercitat dreptul de eligibilitate - ...): it is a table that the official text holds only flattened; Anexa nr. 2 (2 ZONELE ORARE UTILIZATE LA TARIFARE 1. Zone orare pentru tarifele CR3 și CP3 ┌──────────────┬────────────────┬────────────────────────────┬───────────────┐ │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -21,6 +21,10 @@ Ordin anre nr. 157/2014 · 1 versions, from 2015-01-01 (latest in force: 2015-01
 | Art. 13 | [art-013.md](art-013.md) | 0 |  |
 | Art. 14 | [art-014.md](art-014.md) | 0 |  |
 | Art. 15 | [art-015.md](art-015.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 
 Act id: `ordin-anre-157-2014` (tags `ordin-anre-157-2014/<day>`; `python tools/on.py <day> ordin-anre-157-2014`).
 
@@ -30,6 +34,6 @@ Act id: `ordin-anre-157-2014` (tags `ordin-anre-157-2014/<day>`; `python tools/o
 - Ordin anre nr. 157/2014: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin anre nr. 157/2014: the first version is the order as published in Monitorul Oficial nr. 927 of 19 December 2014 (document 164002 of the official web service), in force on 1 January 2015, the day it states for itself.
 - Ordin anre nr. 157/2014: the signatures and the place and date line after its last article are not article text.
-- Ordin anre nr. 157/2014: Anexa nr. 1 (1 TARIFE REGLEMENTATE DE ENERGIE ELECTRICĂ aplicate de furnizorii de ultimă instanță clienților casnici care nu și-au exercitat dreptul de eligibilitate - ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anre nr. 157/2014: Anexa nr. 2 (2 ZONELE ORARE UTILIZATE LA TARIFARE 1. Zone orare pentru tarifele CR3 și CP3 ┌──────────────┬────────────────┬────────────────────────────┬───────────────┐ │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anre nr. 157/2014: Anexa nr. 1 (1 TARIFE REGLEMENTATE DE ENERGIE ELECTRICĂ aplicate de furnizorii de ultimă instanță clienților casnici care nu și-au exercitat dreptul de eligibilitate - Valabile de la 1 ianuarie 2015 - 1. Tarife pe) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 164002 of the official web service.
+- Ordin anre nr. 157/2014: Anexa nr. 2 (2 ZONELE ORARE UTILIZATE LA TARIFARE 1. Zone orare pentru tarifele CR3 și CP3) is part of the order and is published in its folder, anexa-2/ (paragraphs and tables), from document 164002 of the official web service.
 - Ordin anre nr. 157/2014: the publisher's notes run into its text (*1) Preţul se aplică şi pentru perioada de vineri de la ora 22,00 până luni la ora 07,00.; *2) Pentru tariful cu putere maximă contractată peste 6 kW nu sunt necesare echipamente suplimentare.) are not text.

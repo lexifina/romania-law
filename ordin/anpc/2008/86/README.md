@@ -2,7 +2,7 @@
 
 Ordin anpc nr. 86/2008 · 1 versions, from 2008-03-31 (latest in force: 2008-03-31) · <https://legislatie.just.ro/Public/DetaliiDocument/90888>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 TARIFE pentru operațiunile de analiză și marcare a obiectelor și bijuteriilor din metale prețioase și pentru alte activități conexe ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -11,6 +11,8 @@ Ordin anpc nr. 86/2008 · 1 versions, from 2008-03-31 (latest in force: 2008-03-
 | Art. 3 | [art-003.md](art-003.md) | 0 |  |
 | Art. 4 | [art-004.md](art-004.md) | 0 |  |
 | Art. 5 | [art-005.md](art-005.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 | Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 
@@ -22,5 +24,5 @@ Act id: `ordin-anpc-86-2008` (tags `ordin-anpc-86-2008/<day>`; `python tools/on.
 - Ordin anpc nr. 86/2008: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin anpc nr. 86/2008: the first version is the order as published in Monitorul Oficial nr. 250 of 31 March 2008 (document 90888 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin anpc nr. 86/2008: the signatures and the place and date line after its last article are not article text.
+- Ordin anpc nr. 86/2008: Anexa nr. 1 (1 TARIFE pentru operațiunile de analiză și marcare a obiectelor și bijuteriilor din metale prețioase și pentru alte activități conexe) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 90888 of the official web service.
 - Ordin anpc nr. 86/2008: Anexa nr. 2 (2 Nr. crt. Valoare factură (lei) Reducere acordată (%/factură) 1 5.000-10.000 5% 2 10.000-20.000 10% 3 20.000-30.000 15% 4 30.000-40.000 20 % 5 peste 40.000 25% NOTĂ: Subdiviziunile leului de până la) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 90888 of the official web service.
-- Ordin anpc nr. 86/2008: Anexa nr. 1 (1 TARIFE pentru operațiunile de analiză și marcare a obiectelor și bijuteriilor din metale prețioase și pentru alte activități conexe ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

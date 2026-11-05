@@ -12468,11 +12468,11 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 27900 | [`data/acts/hg/`](data/acts/hg/) |
-| Ministerial and authority orders (ordine) | 18510 | [`data/acts/ordin/`](data/acts/ordin/) |
+| Government decisions (HG) | 27909 | [`data/acts/hg/`](data/acts/hg/) |
+| Ministerial and authority orders (ordine) | 20507 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 724 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 554 | [`data/acts/regulament/`](data/acts/regulament/) |
-| Instructions (instrucțiuni) | 173 | [`data/acts/instructiuni/`](data/acts/instructiuni/) |
+| Instructions (instrucțiuni) | 176 | [`data/acts/instructiuni/`](data/acts/instructiuni/) |
 | Clarifications (precizări) | 32 | [`data/acts/precizari/`](data/acts/precizari/) |
 | Methodologies (metodologii) | 1 | [`data/acts/metodologie/`](data/acts/metodologie/) |
 | Criteria (criterii) | 2 | [`data/acts/criterii/`](data/acts/criterii/) |
@@ -12484,4 +12484,4 @@
 | Anti-discrimination council decisions (CNCD) | 2315 | [`data/acts/cncd/`](data/acts/cncd/) |
 | Data protection authority decisions and sanction notices (ANSPDCP) | 375 | [`data/acts/anspdcp/`](data/acts/anspdcp/) |
 | Technical rules for construction (normative tehnice) | 291 | [`data/acts/normativ-tehnic/`](data/acts/normativ-tehnic/) |
-| Local acts (decisions of local and county councils) | 15053 | [`data/acts/local/`](data/acts/local/) |
+| Local acts (decisions of local and county councils) | 16553 | [`data/acts/local/`](data/acts/local/) |

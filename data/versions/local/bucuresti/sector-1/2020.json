@@ -3,6 +3,351 @@
  "shard": "local/bucuresti/sector-1/2020",
  "acts": [
   {
+   "slug": "hcls1-1-2020",
+   "path": "local/bucuresti/sector-1/2020/1",
+   "short": "HCLS1 nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 1/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7398/hcl%201%20din%2028.01.2020.pdf",
+     "sha256": "5cf5b878b9a81f55e3cc9528d04168182077b592049355167e934a0df3936a9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-10-2020",
+   "path": "local/bucuresti/sector-1/2020/10",
+   "short": "HCLS1 nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 10/2020 privind modificarea Hcl sector 1 nr. 216/09.07.2019 pentru aprobarea protocolului privind parteneriatul între patriarhia română, arhiepiscopia bucureștilor și consiliul local al sectorului 1, prin sectorul 1 al municipiului București, în vederea finanțării de către sectorul 1 al municipiului București a unor cheltuieli de investiții și realizări în parteneriat a unor acțiuni, lucrări, servicii/proiecte și activități în interes public",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7429/hcl%2010%20din%2028.01.2020.pdf",
+     "sha256": "967ab9cfc8eb0eaf3012134b1de7019197e191e7f68cc7f80d602edcb8efbb03"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-100-2020",
+   "path": "local/bucuresti/sector-1/2020/100",
+   "short": "HCLS1 nr. 100/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 100/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7600/100.2020_Anonimizat.pdf",
+     "sha256": "93c440fcb914fd21aee42fe5c5d9d7400a0377a7a58027ef575b24a883467c5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-101-2020",
+   "path": "local/bucuresti/sector-1/2020/101",
+   "short": "HCLS1 nr. 101/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 101/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7601/101.2020_Anonimizat.pdf",
+     "sha256": "ac2a86b5d1e3ce1b7f8fccdba6f20a7be140faf0a40c8ad50b4823d506f3d9e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-102-2020",
+   "path": "local/bucuresti/sector-1/2020/102",
+   "short": "HCLS1 nr. 102/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 102/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7604/102.2020_Anonimizat.pdf",
+     "sha256": "fa769e068f83b1a68057f41295f2505a916dd8b60c449d9267edea0478d5632c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-103-2020",
+   "path": "local/bucuresti/sector-1/2020/103",
+   "short": "HCLS1 nr. 103/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 103/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7605/103.2020_Anonimizat.pdf",
+     "sha256": "aa072e6106f072c2880fb7cab65c2e93512ade01d4893e7f44e1fecad0f63068"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-104-2020",
+   "path": "local/bucuresti/sector-1/2020/104",
+   "short": "HCLS1 nr. 104/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 104/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7606/104.2020_Anonimizat.pdf",
+     "sha256": "f1e6c8f478bc9e58e6f382038f2841081b177940b52adf3ef538473e358af936"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-105-2020",
+   "path": "local/bucuresti/sector-1/2020/105",
+   "short": "HCLS1 nr. 105/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 105/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7607/105.2020_Anonimizat.pdf",
+     "sha256": "ffb8c84a1cc6143dde06926b59771217707eaf6da35664640382a428156e1f61"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-106-2020",
+   "path": "local/bucuresti/sector-1/2020/106",
+   "short": "HCLS1 nr. 106/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 106/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7608/106.2020_Anonimizat.pdf",
+     "sha256": "027bc2a2a81f588aa0baa10e0f1c3df8d85de9a5199868797168fd7ad9472397"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-107-2020",
+   "path": "local/bucuresti/sector-1/2020/107",
+   "short": "HCLS1 nr. 107/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 107/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7612/107.2020_Anonimizat.pdf",
+     "sha256": "412d5a70534d7f9b94b9a7eaa1d47b6e3e423a4b39f95d3204ee9e15ff036d49"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-108-2020",
+   "path": "local/bucuresti/sector-1/2020/108",
+   "short": "HCLS1 nr. 108/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 108/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7613/108.2020_Anonimizat.pdf",
+     "sha256": "50736e44a9b90fec612b9c660935847244319362d2a6611da707c9b2d98042a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-109-2020",
+   "path": "local/bucuresti/sector-1/2020/109",
+   "short": "HCLS1 nr. 109/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 109/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7611/109.2020_Anonimizat.pdf",
+     "sha256": "6500636923f103f6fb08115cbe861cc3b0f5b74543815634c9b6f680fcd53fe7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-11-2020",
+   "path": "local/bucuresti/sector-1/2020/11",
+   "short": "HCLS1 nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 11/2020 privind aprobarea regulamentelor de organizare și funcționare a serviciilor sociale cu și fără cazare din structura organizatorică a Direcției generale de asistență socială și protecția copilului Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7432/hcl%2011%20din%2028.01.2020.pdf",
+     "sha256": "91f4c4ec3d418e8d7d6bdad483c9b9570e55c61945d144389b7865a323a0b9fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-110-2020",
+   "path": "local/bucuresti/sector-1/2020/110",
+   "short": "HCLS1 nr. 110/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 110/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7620/110.2020_Anonimizat.pdf",
+     "sha256": "85ad83f34910d3dae84dac9e594592b83b9142a4dacf2612796a328cf9179eeb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-111-2020",
+   "path": "local/bucuresti/sector-1/2020/111",
+   "short": "HCLS1 nr. 111/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 111/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7621/111.2020_Anonimizat.pdf",
+     "sha256": "6f1f13eed6ed60821ed02fb1827c583ace7d537e17b47140ac21551d32c0c7ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-112-2020",
+   "path": "local/bucuresti/sector-1/2020/112",
+   "short": "HCLS1 nr. 112/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 112/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7622/112.2020_Anonimizat.pdf",
+     "sha256": "64c2d0088fee1880d8d22aed9332b4c328a7be55fd8acb37f1fdc0e72172f36b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-113-2020",
+   "path": "local/bucuresti/sector-1/2020/113",
+   "short": "HCLS1 nr. 113/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 113/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7623/113.2020_Anonimizat.pdf",
+     "sha256": "6dc1838c81ae68d3b6c43723855a27601f052141ba2de30ceae3894b5dcdcc73"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-114-2020",
+   "path": "local/bucuresti/sector-1/2020/114",
+   "short": "HCLS1 nr. 114/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 114/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7624/114.2020_Anonimizat.pdf",
+     "sha256": "1141d0c444d69c83a630514800c2affa59b087e9978e1e17ded6644e1bebcf81"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-115-2020",
+   "path": "local/bucuresti/sector-1/2020/115",
+   "short": "HCLS1 nr. 115/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 115/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7626/115.2020_Anonimizat.pdf",
+     "sha256": "aa179d334e1dea718f472907cd83a7173a993692bd14ee277fa1158997b3c841"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-116-2020",
+   "path": "local/bucuresti/sector-1/2020/116",
+   "short": "HCLS1 nr. 116/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 116/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7636/116.2020_Anonimizat.pdf",
+     "sha256": "10b944be0d7fea28d48806ff391b1b4dd582f833e173f2275b13842dab2a7cce"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-117-2020",
+   "path": "local/bucuresti/sector-1/2020/117",
+   "short": "HCLS1 nr. 117/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 117/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7637/117.2020_Anonimizat.pdf",
+     "sha256": "ebb8bf7991a94a63f13df8dc65be9fa5b58ca45f2b7a539b84fcb2ee98d2d626"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-118-2020",
+   "path": "local/bucuresti/sector-1/2020/118",
+   "short": "HCLS1 nr. 118/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 118/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7638/118.2020_Anonimizat.pdf",
+     "sha256": "122eb67e04d22e41f805cff2eee84d20465fc6d1954e87cb38583237efac9fe8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-119-2020",
+   "path": "local/bucuresti/sector-1/2020/119",
+   "short": "HCLS1 nr. 119/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 119/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7639/119.2020_Anonimizat.pdf",
+     "sha256": "b08d42c94031490a3354f533ac6c42557da8ff58e8c8324cf7b4fd597323d649"
+    }
+   ]
+  },
+  {
    "slug": "hcls1-12-2020",
    "path": "local/bucuresti/sector-1/2020/12",
    "short": "HCLS1 nr. 12/2020",
@@ -18,6 +363,381 @@
    ]
   },
   {
+   "slug": "hcls1-120-2020",
+   "path": "local/bucuresti/sector-1/2020/120",
+   "short": "HCLS1 nr. 120/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 120/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7648/120.2020_Anonimizat.pdf",
+     "sha256": "f15d3929bb94c3593b000da59abce4b83e5031d7f7c3932d93dbb9aa0091d365"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-121-2020",
+   "path": "local/bucuresti/sector-1/2020/121",
+   "short": "HCLS1 nr. 121/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 121/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7615/121.2020_Anonimizat.pdf",
+     "sha256": "0755758f225694a232eeb60c1f9ea007209f4acd7610d13e004c950bf9f894b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-122-2020",
+   "path": "local/bucuresti/sector-1/2020/122",
+   "short": "HCLS1 nr. 122/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 122/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7635/122.2020_Anonimizat.pdf",
+     "sha256": "9d7577827110c876dfb3d9730f4be2d8521482ea4c1f49ba3acb8f5177c4dcbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-123-2020",
+   "path": "local/bucuresti/sector-1/2020/123",
+   "short": "HCLS1 nr. 123/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 123/2020 privind aprobarea rectificării bugetului general centralizat al subdiviziunii administrativ-teritoriale Sector 1 al Municipiului București pe anul 2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7715/123.2020_Anonimizat.pdf",
+     "sha256": "e396558f8b73641607b19417fcfa633a0ca6512b2c2010c7dbedd60bd6d9fff1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-124-2020",
+   "path": "local/bucuresti/sector-1/2020/124",
+   "short": "HCLS1 nr. 124/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 124/2020 privind finanțării proiectului de investiții - Linie fabricație cozonaci și patiserie la Nazarcea Grup",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7703/124.2020_Anonimizat.pdf",
+     "sha256": "1e28058419f781655395caa7b1bbeddd3d10bde1eac46182c24c2ab090f184fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-125-2020",
+   "path": "local/bucuresti/sector-1/2020/125",
+   "short": "HCLS1 nr. 125/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 125/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7684/125.2020_Anonimizat.pdf",
+     "sha256": "30033befef219a595596cd2c32e847598011664de69014037601548ff3cdfef1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-126-2020",
+   "path": "local/bucuresti/sector-1/2020/126",
+   "short": "HCLS1 nr. 126/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 126/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7665/126.2020_Anonimizat.pdf",
+     "sha256": "7fae1fffefdf1db76eb6e218534189ba92fa5d6958098a2d3b66d89b15f7c906"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-127-2020",
+   "path": "local/bucuresti/sector-1/2020/127",
+   "short": "HCLS1 nr. 127/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 127/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7666/127.2020_Anonimizat.pdf",
+     "sha256": "d2078aabacffda4c638434efbf88dc5e227532af25f186ae990e33a10636f860"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-128-2020",
+   "path": "local/bucuresti/sector-1/2020/128",
+   "short": "HCLS1 nr. 128/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 128/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7706/128.2020_Anonimizat.pdf",
+     "sha256": "e84af73dc95069171f9ef9b06bf9109ddb43dae92d48b7d31674094dbc94641b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-129-2020",
+   "path": "local/bucuresti/sector-1/2020/129",
+   "short": "HCLS1 nr. 129/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 129/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7720/129.2020_Anonimizat.pdf",
+     "sha256": "d8150f0d7bdbb03151c945a633b458a05096d5efda7554cba4c8d91141e2f64a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-13-2020",
+   "path": "local/bucuresti/sector-1/2020/13",
+   "short": "HCLS1 nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 13/2020 privind aprobarea componenței nominale a comisiei de evaluare a persoanelor adulte cu handicap Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7439/hcl%2013%20din%2028.01.2020.pdf",
+     "sha256": "d50fcfbd223d891d87f58c986392f4c1463027a54fac19e035f28b7c57287477"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-130-2020",
+   "path": "local/bucuresti/sector-1/2020/130",
+   "short": "HCLS1 nr. 130/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 130/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7667/130.2020_Anonimizat.pdf",
+     "sha256": "3d593ec753960e33dcbbf6a0e9db77e648a13c3380f4d591e475558e031f86e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-131-2020",
+   "path": "local/bucuresti/sector-1/2020/131",
+   "short": "HCLS1 nr. 131/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 131/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7668/131.2020_Anonimizat.pdf",
+     "sha256": "6143c5c6352a5574cc6c68be91920afe4fbb89bd94f56230e7c81d68927893a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-132-2020",
+   "path": "local/bucuresti/sector-1/2020/132",
+   "short": "HCLS1 nr. 132/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 132/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7669/132.2020_Anonimizat.pdf",
+     "sha256": "3e298236a93e323899b0aaf50c7f02fec239368c5f2ca1ae4f0c93edc0fa08a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-133-2020",
+   "path": "local/bucuresti/sector-1/2020/133",
+   "short": "HCLS1 nr. 133/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 133/2020 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici ai investiției „Lucrări de reabilitare şi modernizare construcție existentă la Grădinița Nr.42 , Strada Gala Galaction, Nr. 1, Sector 1, București”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7670/133.2020_Anonimizat.pdf",
+     "sha256": "ff7b088d035fac589ffada05000653d236bbe4051e8fc1e949dbfb0d20533bfe"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-134-2020",
+   "path": "local/bucuresti/sector-1/2020/134",
+   "short": "HCLS1 nr. 134/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 134/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7671/134.2020_Anonimizat.pdf",
+     "sha256": "43a472ecdc99a596df6136679d8a73b9d546203913b0378ad2d1e4f52eece3f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-135-2020",
+   "path": "local/bucuresti/sector-1/2020/135",
+   "short": "HCLS1 nr. 135/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 135/2020 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici ai investiției „Lucrări de reabilitare, modernizare construcție existentă la GRĂDINIȚA Nr. 50”, situată pe Strada Nicolae Iorga, Nr. 5, Sector 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7672/135.2020_Anonimizat.pdf",
+     "sha256": "06a6d24e91de774a25a11c4b97808ed6b94134ceea800d376d0e11569528f56b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-136-2020",
+   "path": "local/bucuresti/sector-1/2020/136",
+   "short": "HCLS1 nr. 136/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 136/2020 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici ai investiției „Lucrări de reabilitare și modernizare construcție existentă şi extindere construire corp nou la GRĂDINIȚA Nr. 251 situată pe Strada Venezuela, Nr. 11, Sector 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7673/136.2020_Anonimizat.pdf",
+     "sha256": "8b092a239b2e4ec0610331e9011b8c934994b1256939136aafe18f8f24a99d2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-137-2020",
+   "path": "local/bucuresti/sector-1/2020/137",
+   "short": "HCLS1 nr. 137/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 137/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7674/137.2020_Anonimizat.pdf",
+     "sha256": "f280dfbab9e8c35c832d33a568a35a4449a32c34e0ff6bcec1fb214ae8d39de5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-138-2020",
+   "path": "local/bucuresti/sector-1/2020/138",
+   "short": "HCLS1 nr. 138/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 138/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7675/138.2020_Anonimizat.pdf",
+     "sha256": "f0bf5af7ac83959dce1bb54b49cfd8efbbdb8abe9566520fc3ddb83bd41a2d6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-139-2020",
+   "path": "local/bucuresti/sector-1/2020/139",
+   "short": "HCLS1 nr. 139/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 139/2020 privind aprobarea documentației tehnico-economice și a reactualizării indicatoriilor tehnico-economici ai investiției „Lucrări de reabilitare şi modernizare construcție existentă la Liceul de Arte Plastice N.Tonitza pentru corpul A”, B-dul Iancu de Hunedoara, nr.25-27, Sector 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7676/139.2020_Anonimizat.pdf",
+     "sha256": "6497d8f08cbcba699cd707a978e7d39a5e6332332a00c8983134c9b2e0aceb7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-14-2020",
+   "path": "local/bucuresti/sector-1/2020/14",
+   "short": "HCLS1 nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 14/2020 privind aprobarea rectificării Hcl Sector 1 nr. 358/28.11.2019 privind aprobarea organigramei, statului de funcții și regulamentului de organizare și funcționare al Direcției generale de asistență socială și protecție copilului Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7443/hcl%2014%20din%2028.01.2020.pdf",
+     "sha256": "bb26efecb427efba1b4e192ee622c9167c5355796385078035b1a0f3ec6a051d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-140-2020",
+   "path": "local/bucuresti/sector-1/2020/140",
+   "short": "HCLS1 nr. 140/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 140/2020 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici ai investiției „Lucrări de reabilitare și modernizare construcție existentă, corp unitate de învățâmânt și cămin la COLEGIUL TEHNOLOGIC VIACESLAV HARNAJ” , Bulevardul Ficusului, Nr. 20 - 26, Sector 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7680/140.2020_Anonimizat.pdf",
+     "sha256": "f39ea1bbe3eb90ebb7c12d54ba3e0dcc53d49e9bf354226978883468f1938696"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-141-2020",
+   "path": "local/bucuresti/sector-1/2020/141",
+   "short": "HCLS1 nr. 141/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 141/2020 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici ai investiției „Lucrări de reabilitare și modernizare construcție existentă la COLEGIUL TEHNIC MECANIC GRIVIȚA situat pe Calea Griviței, Nr. 363, Sector 1, Municipiul București”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7681/141.2020_Anonimizat.pdf",
+     "sha256": "513a50b97646cc2b1e13061c3249ca3eb7d1b358d58e60994391dafa40b276c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-142-2020",
+   "path": "local/bucuresti/sector-1/2020/142",
+   "short": "HCLS1 nr. 142/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 142/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7682/142.2020_Anonimizat.pdf",
+     "sha256": "170258c2af03b1d328e7f07f32a893063baa22075d45bbaec4fdd094534a0608"
+    }
+   ]
+  },
+  {
    "slug": "hcls1-143-2020",
    "path": "local/bucuresti/sector-1/2020/143",
    "short": "HCLS1 nr. 143/2020",
@@ -29,6 +749,66 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7686/143.2020_Anonimizat.pdf",
      "sha256": "974388145a4f9066efb6f665c3302c1624b02d235a443fea6a6a727f6eb0b3a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-144-2020",
+   "path": "local/bucuresti/sector-1/2020/144",
+   "short": "HCLS1 nr. 144/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 144/2020 privind modificarea și completarea Hotărârii Consiliului Local al Sectorului 1 nr. 65/28.02.2019 privind acordarea unui ajutor de urgență pentru plata chiriei, ca măsură de prevenire și combatere a marginalizării sociale, persoanelor/familiilor care figurează pe listele de priorități aprobate anual prin hotărâri ale Consiliului Local al Sectorului 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7688/144.2020_Anonimizat.pdf",
+     "sha256": "41d501a75435e4242096d17905ee2770bcd9f39f68d3093fa23a449b48e5f9f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-145-2020",
+   "path": "local/bucuresti/sector-1/2020/145",
+   "short": "HCLS1 nr. 145/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 145/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7692/145.2020_Anonimizat.pdf",
+     "sha256": "50dbdc627465f5482ec6a9c4972e77b34445aa2d7e2d4392fe83f890128e4626"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-146-2020",
+   "path": "local/bucuresti/sector-1/2020/146",
+   "short": "HCLS1 nr. 146/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 146/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7693/146.2020_Anonimizat.pdf",
+     "sha256": "021029356fe6d0c49652f65478a1a1f150c9aad8674fcaee59eb86401889152a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-147-2020",
+   "path": "local/bucuresti/sector-1/2020/147",
+   "short": "HCLS1 nr. 147/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 147/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7694/147.2020_Anonimizat.pdf",
+     "sha256": "bd060ad558e6d4a30d15e70c0d6fc7b70babd90f6b74ff78315c8b84a9ed44fe"
     }
    ]
   },
@@ -63,6 +843,1086 @@
    ]
   },
   {
+   "slug": "hcls1-15-2020",
+   "path": "local/bucuresti/sector-1/2020/15",
+   "short": "HCLS1 nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 15/2020 privind aprobarea modificării anexei nr. 2 la HCL Sector 1 nr. 358/28.11.2019 privind aprobarea organigramei, statului de funcții și regulamentului de organizare și funcționare al Direcției generale de asistență socială și protecție copilului Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7447/hcl%2015.pdf",
+     "sha256": "d877c45702d6c2ffbbfa08c717f3e940f2672b3b80769397a7dd32b0910f11fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-150-2020",
+   "path": "local/bucuresti/sector-1/2020/150",
+   "short": "HCLS1 nr. 150/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 150/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7699/150.2020_Anonimizat.pdf",
+     "sha256": "0ece5c853f8a9a77973cf0795af2c2775ded3d50f96350455d4d97e6653c6e9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-151-2020",
+   "path": "local/bucuresti/sector-1/2020/151",
+   "short": "HCLS1 nr. 151/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 151/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7701/151.2020_Anonimizat.pdf",
+     "sha256": "c64ca02ec5ed09efe262d97152741de6bbc1596d91a11489cb34fe631262ff91"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-152-2020",
+   "path": "local/bucuresti/sector-1/2020/152",
+   "short": "HCLS1 nr. 152/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 152/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7609/152.2020_Anonimizat.pdf",
+     "sha256": "4acfb99e61e125260ce4667c6a303dec1c9e356605c06b39294c99678bf4780b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-153-2020",
+   "path": "local/bucuresti/sector-1/2020/153",
+   "short": "HCLS1 nr. 153/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 153/2020 privind aprobarea documentațiilor tehnico-economice și a indicatorilor tehnico-economici ai obiectivului de investiții - lucrări de intervenții pentru aducerea la stare de funcționare a toaletei publice Doina 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7657/153.2020_Anonimizat.pdf",
+     "sha256": "6b7b6c27144715ed26ae4a6ab9d366616bb259c256e4097d636bc649370af592"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-154-2020",
+   "path": "local/bucuresti/sector-1/2020/154",
+   "short": "HCLS1 nr. 154/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 154/2020 privind aprobarea documentațiilor tehnico-economice și a indicatorilor tehnico-economici ai obiectivului de investiții - lucrări de intervenții pentru aducerea la stare de funcționare a toaletei publice Doina 2",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7658/154.2020_Anonimizat.pdf",
+     "sha256": "a2bf1a3f73b504640ec358e571acf333801d00bf57b8d0c04c1b8f20b20e5158"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-155-2020",
+   "path": "local/bucuresti/sector-1/2020/155",
+   "short": "HCLS1 nr. 155/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 155/2020 privind aprobarea documentațiilor tehnico-economice și a indicatorilor tehnico-economici ai obiectivului de investiții - lucrări de intervenții pentru aducerea la stare de funcționare a toaletei publice Herăstrău (național)",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7659/155.2020_Anonimizat.pdf",
+     "sha256": "0a1260e11080d83bf53b39679a63db75e005ffe3d15530f4b50f73391b4ce064"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-156-2020",
+   "path": "local/bucuresti/sector-1/2020/156",
+   "short": "HCLS1 nr. 156/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 156/2020 privind aprobarea documentațiilor tehnico-economice și a indicatorilor tehnico-economici ai obiectivului de investiții - lucrări de intervenții pentru aducerea la stare de funcționare a toaletei publice Th. Aman",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7660/156.2020_Anonimizat.pdf",
+     "sha256": "01f7305f7d0d4118ca06de8bb146a969c90a0915875327686653554f4e1193c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-157-2020",
+   "path": "local/bucuresti/sector-1/2020/157",
+   "short": "HCLS1 nr. 157/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 157/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7707/157.2020_Anonimizat.pdf",
+     "sha256": "a2bdbc54c0a16842c3f928cc5f0663432b02b01be21b17db189f56f3040fea81"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-158-2020",
+   "path": "local/bucuresti/sector-1/2020/158",
+   "short": "HCLS1 nr. 158/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 158/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7714/158.2020_Anonimizat.pdf",
+     "sha256": "be5c817e2d934ac00fb4488a2e2465c11e82fbf82fc6838d9ef6862ebde7a845"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-159-2020",
+   "path": "local/bucuresti/sector-1/2020/159",
+   "short": "HCLS1 nr. 159/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 159/2020 privind aprobarea Statului de funcții al aparatului de specialitate al Primarului sectorului 1 al municipiului București și al instituției subordonate Consiliului Local Sector 1 - Direcția Publică de Evidență a Persoanelor și Stare Civilă",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7717/159.2020_Anonimizat.pdf",
+     "sha256": "5aa2ed769f28ffabb04a8105b6b981a9066425c85f5935c7dc0265f99ea101e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-16-2020",
+   "path": "local/bucuresti/sector-1/2020/16",
+   "short": "HCLS1 nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 16/2020 privind aprobarea planului urbanistic de detaliu (PUD) str. Macului, nr. 50, Sector 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7448/hcl%2016.pdf",
+     "sha256": "e6293e37fdf2c1c6ea39c6bba9c7439e27624c4122ede357d644b6610e38196b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-160-2020",
+   "path": "local/bucuresti/sector-1/2020/160",
+   "short": "HCLS1 nr. 160/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 160/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10458/160.2020_Anonimizat.pdf",
+     "sha256": "339307a6e3eb57e423604e40430c236f59504e5c8a3f2723c960e4db15a0d702"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-161-2020",
+   "path": "local/bucuresti/sector-1/2020/161",
+   "short": "HCLS1 nr. 161/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 161/2020 privind modificarea Hotărârii Consiliului Local nr. 257/28.08.2017 privind înfiinţarea, organizarea şi funcţionarea Centrului Cultural al Sectorului 1 al Municipiului Bucureşti",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7718/161.2020_Anonimizat.pdf",
+     "sha256": "25abcbd8dbef02e4379ee755eff3c406f0b034139704ac6fef364aae8863c9b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-162-2020",
+   "path": "local/bucuresti/sector-1/2020/162",
+   "short": "HCLS1 nr. 162/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 162/2020 pentru punerea în aplicare a Hotărârii Consiliului General al Municipiului București nr.101/23.03.2020 privind delegarea către Consiliile locale ale Sectoarelor 1-6 ale Municipiului București a încheierii contractelor de depozitare a deșeurilor reziduale rezultate în urma procesului de sortare și tratare a acestora colectate de pe raza municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7722/162.2020_Anonimizat.pdf",
+     "sha256": "df67465690ea3c8dabeb4d487109d443684dd39090bf092494b69e083f86005c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-163-2020",
+   "path": "local/bucuresti/sector-1/2020/163",
+   "short": "HCLS1 nr. 163/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 163/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7723/163.2020_Anonimizat.pdf",
+     "sha256": "c348e4b6a479018ef21672d13df7c639f414b495a28d6a526558eca521f01a84"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-164-2020",
+   "path": "local/bucuresti/sector-1/2020/164",
+   "short": "HCLS1 nr. 164/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 164/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7725/164.2020_Anonimizat.pdf",
+     "sha256": "2a394799a5033e64d1d6111e63d83f9bbddee714566ab8bae4cf0f9b40625be4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-165-2020",
+   "path": "local/bucuresti/sector-1/2020/165",
+   "short": "HCLS1 nr. 165/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 165/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7726/165.2020_Anonimizat.pdf",
+     "sha256": "8ab79afc0b53a85ac7632c34d6097610309b63e9dada48304e27d02a476f01d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-166-2020",
+   "path": "local/bucuresti/sector-1/2020/166",
+   "short": "HCLS1 nr. 166/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 166/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7727/166.2020_Anonimizat.pdf",
+     "sha256": "3b61973cf4fdb915fed210ab22a10b7fefdc11b9654402838084767ef5a3e98a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-167-2020",
+   "path": "local/bucuresti/sector-1/2020/167",
+   "short": "HCLS1 nr. 167/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 167/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7734/167.2020_Anonimizat.pdf",
+     "sha256": "8d9c70b3b484d505b392dc7d1b6582342076a83d0464d6f7aa76421b48a9616a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-168-2020",
+   "path": "local/bucuresti/sector-1/2020/168",
+   "short": "HCLS1 nr. 168/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 168/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7733/168.2020_Anonimizat.pdf",
+     "sha256": "f4d0b8559ee3ebbf07e99b5c8d6d4a9c3b7fe677ac6253f1576b4af37044af75"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-169-2020",
+   "path": "local/bucuresti/sector-1/2020/169",
+   "short": "HCLS1 nr. 169/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 169/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7750/169.2020_Anonimizat.pdf",
+     "sha256": "88d85eb8263a0e3d665fc97d90eb2461552d6dd1594e1a167527f5f8fe16ad3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-17-2020",
+   "path": "local/bucuresti/sector-1/2020/17",
+   "short": "HCLS1 nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 17/2020 privind aprobarea planului urbanistic de detaliu (PUD) str. Aiud, nr. 24, Sector 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7449/hcl%2017.pdf",
+     "sha256": "66cc68496b5bf03c0d3562ea12200b55e646ec5c8118e5de347e71cbdb56a0ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-170-2020",
+   "path": "local/bucuresti/sector-1/2020/170",
+   "short": "HCLS1 nr. 170/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 170/2020 prin care se solicită Consiliului General al Municipiului București împuternicirea expresă privind înființarea polului de competitivitate în domeniul transformării digitale cu denumirea ”ASOCIAȚIA PENTRU TRANSFORMARE DIGITALĂ”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7709/170.2020%20_Anonimizat.pdf",
+     "sha256": "1107b1b59934d1fbac32bad8218b967b9bd20d6ae75bef7a306946961c116a89"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-171-2020",
+   "path": "local/bucuresti/sector-1/2020/171",
+   "short": "HCLS1 nr. 171/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 171/2020 prin care se solicită Consiliului General al Municipiului București împuternicirea expresă privind înființarea unei societăți comerciale pe acțiuni având ca scop principal prestarea de servicii în domeniul tehnologia informației și a comunicațiilor",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7710/171.2020%20_Anonimizat.pdf",
+     "sha256": "450ab8e7ea530367d95768d2234572d20ae0a335acf16d19149cc0e111cb4848"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-172-2020",
+   "path": "local/bucuresti/sector-1/2020/172",
+   "short": "HCLS1 nr. 172/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 172/2020 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici ai obiectivului de investiții „lucrări de intervenții pentru aducerea la stare de funcționare a Pasajului Englez”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7721/172.2020%20_Anonimizat.pdf",
+     "sha256": "0e40c66a98dbfd5d1a8757ed4134c41228f8fd24ccdf74960513b8754aa2d54e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-173-2020",
+   "path": "local/bucuresti/sector-1/2020/173",
+   "short": "HCLS1 nr. 173/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 173/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7719/173.2020%20_Anonimizat.pdf",
+     "sha256": "2a5e7ef0788658f323d2b7a101de1bd75b79a07140727cb441610203126a6832"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-174-2020",
+   "path": "local/bucuresti/sector-1/2020/174",
+   "short": "HCLS1 nr. 174/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 174/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7739/174.2020%20_Anonimizat.pdf",
+     "sha256": "e3f1a73615b9a75a3e262334df8725a3a79bfd325e2738aaf390c833fa23d919"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-175-2020",
+   "path": "local/bucuresti/sector-1/2020/175",
+   "short": "HCLS1 nr. 175/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 175/2020 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici ai investiției ,,Lucrări de reabilitare și modernizare construcţie existentă la GRĂDINIȚA Nr. 122” din Strada Băneasa , nr. 12, Sectorul 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7740/175.2020%20_Anonimizat.pdf",
+     "sha256": "371908fa6cdfe53b3842da7e1d2ed2c5b086c6cdd57edef1b731482f5fd070cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-176-2020",
+   "path": "local/bucuresti/sector-1/2020/176",
+   "short": "HCLS1 nr. 176/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 176/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7741/176.2020%20_Anonimizat.pdf",
+     "sha256": "1bbdf8fcbc9343c71a008d3deed5c1b1255e144aee38c85e84a4033a33633fa4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-177-2020",
+   "path": "local/bucuresti/sector-1/2020/177",
+   "short": "HCLS1 nr. 177/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 177/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7742/177.2020%20_Anonimizat.pdf",
+     "sha256": "48fa95c5a6ecf53b86bd51712ffbee35d7959bfc8026431160be623635c3c261"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-178-2020",
+   "path": "local/bucuresti/sector-1/2020/178",
+   "short": "HCLS1 nr. 178/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 178/2020 privind aprobarea documentației tehnico-ecomomice și a indicatorilor tehnico-economici ai investiției ,, Lucrări de reabilitare, modernizare construcţie existentă și construire corp nou la Școala Gimnazială Herăstrău”, din Strada Borșa, Nr. 27, Sectorul 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7743/178.2020%20_Anonimizat.pdf",
+     "sha256": "66721f2496c27d26c9844499c0b8b5f27cb736c819e821e0d167911987432fd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-179-2020",
+   "path": "local/bucuresti/sector-1/2020/179",
+   "short": "HCLS1 nr. 179/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 179/2020 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici ai investiției ,,Lucrări de reabilitare şi modernizare construcţie existentă la Şcoala Gimnazială pentru Surzi Nr. 1” din Strada Neatârnării, Nr.3, Sector 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7744/179.2020%20_Anonimizat.pdf",
+     "sha256": "13554fec06bf0813627eef26f6027e44cfb4b0b745c8ecba88f9093547d6dfff"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-18-2020",
+   "path": "local/bucuresti/sector-1/2020/18",
+   "short": "HCLS1 nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 18/2020 privind aprobarea planului urbanistic de detaliu (PUD) str. Cetatea Neamțului, nr. 2, Sector 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7450/hcl%2018.pdf",
+     "sha256": "ac3b1f269e44e2d0dd055bbebb8dbb19853fe87fdcc5ce49d48a196ead40e4ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-180-2020",
+   "path": "local/bucuresti/sector-1/2020/180",
+   "short": "HCLS1 nr. 180/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 180/2020 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici ai investiției ,,Lucrări de reabilitare şi modernizare construcţie existentă şi extindere prin construire corp nou la obiectivul : COLEGIUL TEORETIC BILINGV MIGUEL DE CERVANTES” din Strada Calea Plevnei, Nr. 38-40, Sector 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7745/180.2020%20_Anonimizat.pdf",
+     "sha256": "4a6c8b7c74e6044e32d94912a410ff4f9ce7134c18849db1b5dd81f140e52128"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-181-2020",
+   "path": "local/bucuresti/sector-1/2020/181",
+   "short": "HCLS1 nr. 181/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 181/2020 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici ai investiției ,,Lucrări de reabilitare și modernizare construcţie existentă la Colegiul Național Sfântul Sava” din Strada G-ral Berthelot, Nr. 23, Sector 1, Bucureşti",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7746/181.2020%20_Anonimizat.pdf",
+     "sha256": "3421afab25f3385056655b6e2ad1d35b73776222fae160c9896fb9cfb85ba227"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-182-2020",
+   "path": "local/bucuresti/sector-1/2020/182",
+   "short": "HCLS1 nr. 182/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 182/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7747/182.2020%20_Anonimizat.pdf",
+     "sha256": "9b9510d976c075decf1e35cec59fb73b47b2fa0af4e7129ab5005570c61e0cd1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-183-2020",
+   "path": "local/bucuresti/sector-1/2020/183",
+   "short": "HCLS1 nr. 183/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 183/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7748/183.2020%20_Anonimizat.pdf",
+     "sha256": "b13f3d72ad03d07c5c598c1ff2ac1d4f7c02ba45873a6a816578f4ce48834ce1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-184-2020",
+   "path": "local/bucuresti/sector-1/2020/184",
+   "short": "HCLS1 nr. 184/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 184/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7749/184.2020%20_Anonimizat.pdf",
+     "sha256": "0e51ac59b014befdafd95e2fa5813cf0ae88f5724e46cd4f70752ab9714eaf4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-185-2020",
+   "path": "local/bucuresti/sector-1/2020/185",
+   "short": "HCLS1 nr. 185/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 185/2020 privind prin care se solicită Consiliului General al Municipiului Bucureşti împuternicirea expresă în vederea cooperării între Consiliul Local al Sectorului 1 al Municipiului București prin Sectorul 1 al Municipiului București și Biserica Adventistă de Ziua a Șaptea în scopul finanțării unor cheltuieli de investiții și realizării în parteneriat a unor acțiuni, lucrări, servicii sau proiecte și activități de interes public",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7751/185.2020%20_Anonimizat.pdf",
+     "sha256": "7885917fc79d6f152fae62c8e04bcaf00096998dbd005ac25ddab7165b1314d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-186-2020",
+   "path": "local/bucuresti/sector-1/2020/186",
+   "short": "HCLS1 nr. 186/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 186/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7752/186.2020%20_Anonimizat.pdf",
+     "sha256": "c1a9bb33d075ac5a6efce0497f8a2f7d384d1b8aebc59eef06a792040d121810"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-187-2020",
+   "path": "local/bucuresti/sector-1/2020/187",
+   "short": "HCLS1 nr. 187/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 187/2020 privind încetarea efectelor Hotărârii Consiliului Local al Sectorului 1 nr.87/28.05.2020 pentru modificarea Hotărârii Consiliului Local nr. 187/09.07.2019 privind îndreptarea erorii materiale prin diminuarea numărului de acțiuni deținute de Consiliul Local Sector1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10377/187.2020%20_Anonimizat.pdf",
+     "sha256": "7c16bcfdd1560fad4dd81e79c22110659cc5e9da39bec7d9109b37e078d2da3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-188-2020",
+   "path": "local/bucuresti/sector-1/2020/188",
+   "short": "HCLS1 nr. 188/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 188/2020 privind aprobarea rectificării bugetului general centralizat al subdiviziunii administrativ-teritoriale Sector 1 al Municipiului București pe anul 2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10383/188.2020_Anonimizat.pdf",
+     "sha256": "56083f9e3fda94308783c54a25b1c098d16c1fb431cdc47d306c6be2ef416d76"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-189-2020",
+   "path": "local/bucuresti/sector-1/2020/189",
+   "short": "HCLS1 nr. 189/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 189/2020 privind aprobarea implementării Proiectului educațional și social „Grădiniţa de Vacanță - Pachet de servicii educaționale și sociale pentru preșcolari în perioada iulie –august 2020”, în cadrul unui număr de șapte unităţi de învăţământ preşcolar de pe raza sectorului 1 al Municipiului Bucureşti",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10378/189.2020_Anonimizat.pdf",
+     "sha256": "7b10608b9716dac0084ce971ba0d6a7fcec18192c1383b9457828ab1dbf44513"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-19-2020",
+   "path": "local/bucuresti/sector-1/2020/19",
+   "short": "HCLS1 nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 19/2020 privind aprobarea planului urbanistic de detaliu (PUD) str. Dragoslavele, nr. 1, Sector 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7451/hcl%2019%20din%2028.01.2020.pdf",
+     "sha256": "152290babf3a9b5d97b47e4b00b59b9b480a97455772a8267fb26e87769d0b6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-190-2020",
+   "path": "local/bucuresti/sector-1/2020/190",
+   "short": "HCLS1 nr. 190/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 190/2020 privind modificarea Anexei 1 la Hotărârea Consiliului Local nr. 365/05.12.2018 având ca obiect aprobarea indicatorilor tehnico-economici pentru subprogramul de investiţii “ Modernizarea parcului de ascensoare din blocurile reabilitate termic ca măsură de îmbunătăţire a eficenţei energetice în Sectorul 1 al Municipiului Bucureşti“",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10382/190.2020%20_Anonimizat.pdf",
+     "sha256": "95925044c2e1f59bed8f1be4dd6f107e9daae1ba6d3f2c656f5a2417f432331c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-191-2020",
+   "path": "local/bucuresti/sector-1/2020/191",
+   "short": "HCLS1 nr. 191/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 191/2020 privind îndreptarea erorii materiale din cuprinsul Anexei nr. 1 la Hotărârea Consiliului Local nr. 202/09.07.2019 privind aprobarea Statului de funcții al Administrației Piețelor Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7598/191.2020%20_Anonimizat.pdf",
+     "sha256": "e0eab74a55b8ef1d842537d2d335f1981c074c5bc98f705db6fd37d101f2fa23"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-192-2020",
+   "path": "local/bucuresti/sector-1/2020/192",
+   "short": "HCLS1 nr. 192/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 192/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10381/192.2020_Anonimizat.pdf",
+     "sha256": "927a3348901036f8d9aae7c90f7d638be7e67a17c9a5f9f76b675b3614c749e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-193-2020",
+   "path": "local/bucuresti/sector-1/2020/193",
+   "short": "HCLS1 nr. 193/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 193/2020 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici ai investiției ”Realizare construcție modulara” la Școala Gimnazială ”Herăstrău”,str. Borșa, nr. 27, Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10399/193.2020_Anonimizat.pdf",
+     "sha256": "3af5d974db5bdf4dc199bd718639ac72a207c0cdcf8eb5fe64b7100e29dcedbe"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-194-2020",
+   "path": "local/bucuresti/sector-1/2020/194",
+   "short": "HCLS1 nr. 194/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 194/2020 privind aprobarea înființării, organizării și funcționării unei instituții publice de interes local în domeniul învățământului, cu personalitate juridică, în subordinea consiliului local al Sectorului 1, pe modelul centrelor de excelență, care își va desfășura activitatea în strânsă colaborare cu inspectoratul școlar al municipiului București, denumită centrul educațional Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7411/194.2020_Anonimizat.pdf",
+     "sha256": "49ed21957bdb5d167420da71f1d4d9e67a8e6d65656b2d1767ab7ad0f31a0f2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-195-2020",
+   "path": "local/bucuresti/sector-1/2020/195",
+   "short": "HCLS1 nr. 195/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 195/2020 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici ai investiției ,, Lucrări de reabilitare, modernizare construcţie existentă şi construire corp nou, care va conține sală de sport şi săli de clasă la Liceul Teoretic Nicolae Iorga”, Bulevardul Ion Mihalache, Nr. 126, Sector 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10401/195.2020_Anonimizat.pdf",
+     "sha256": "0085d869ba238c9e922b72c49936f62594768c84dd1933333a809c26b3d9a407"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-196-2020",
+   "path": "local/bucuresti/sector-1/2020/196",
+   "short": "HCLS1 nr. 196/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 196/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10398/196.2020_Anonimizat.pdf",
+     "sha256": "3a74d497552abaf8ad744de2b5c415daefee201b77006412aee46f5601987bec"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-197-2020",
+   "path": "local/bucuresti/sector-1/2020/197",
+   "short": "HCLS1 nr. 197/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 197/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10393/197.2020_Anonimizat.pdf",
+     "sha256": "7b7986f8e726742ea80d70af705fe1f352cf1874b0292de3adcd53e088971124"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-198-2020",
+   "path": "local/bucuresti/sector-1/2020/198",
+   "short": "HCLS1 nr. 198/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 198/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10405/198.2020_Anonimizat.pdf",
+     "sha256": "faf5375227a1dcb4a8b1148dc1a9811a2910d2dc402b2308b506b791c8748bcb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-199-2020",
+   "path": "local/bucuresti/sector-1/2020/199",
+   "short": "HCLS1 nr. 199/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 199/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10389/199.2020_Anonimizat.pdf",
+     "sha256": "85019a6b0f60947608b56fe216f65956442cfacc28a0632ad32d4e9603ab8d24"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-2-2020",
+   "path": "local/bucuresti/sector-1/2020/2",
+   "short": "HCLS1 nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 2/2020 privind pentru modificarea anexei nr. 1 la Hcl sector 1 nr. 89/29.06.2016 privind stabilirea domeniilor de activitate și componența comisiilor de specialitate ale consiliului local al sectorului 1, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7400/hcl%202%20din%2028.01.2020.pdf",
+     "sha256": "2f675c1237f43e006c7df3a8af1eceee3a9b55d80114605bff92604d56c23621"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-200-2020",
+   "path": "local/bucuresti/sector-1/2020/200",
+   "short": "HCLS1 nr. 200/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 200/2020 privind desemnarea reprezentantului Consiliului Local al Sectorului 1 în Consiliul de administrație și în Comisia de evaluare și asigurare a calității la Liceul teoretic „SFINȚII TREI IERARHI”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10465/200.2020_Anonimizat.pdf",
+     "sha256": "a7a9057445eb3d64c435aee4fe4df791cf8345ac9746714230fde5b9f536d630"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-201-2020",
+   "path": "local/bucuresti/sector-1/2020/201",
+   "short": "HCLS1 nr. 201/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 201/2020 privind încetarea efectelor juridice ale Hotărârii Consiliului Local al Sectorului 1 nr. 51/27.02.2018 privind demararea procedurilor de închiriere de pe piața liberă a unui imobil ce va avea ca destinație sediul proiectului de interes public ”Excellence 1 – incubatorul de afaceri al Sectorului 1”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10406/201.2020_Anonimizat.pdf",
+     "sha256": "14f21bec5d82f246834a7a552486be64d7f2227333fc041159fcc644c7f04b26"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-202-2020",
+   "path": "local/bucuresti/sector-1/2020/202",
+   "short": "HCLS1 nr. 202/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 202/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10386/202.2020_Anonimizat.pdf",
+     "sha256": "ce33f98e7d1be3bf4b57e9cc2c64427828409df6a1bcb850c3d521143c90ef10"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-203-2020",
+   "path": "local/bucuresti/sector-1/2020/203",
+   "short": "HCLS1 nr. 203/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 203/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10387/203.2020_Anonimizat.pdf",
+     "sha256": "5fb1f62d0d77e4197730ab0dbad7fd4b3638fcb09262fb27acda1fbe4f441b40"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-204-2020",
+   "path": "local/bucuresti/sector-1/2020/204",
+   "short": "HCLS1 nr. 204/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 204/2020 privind aprobarea rectificării bugetului general centralizat al subdiviziunii administrativ-teritoriale Sectorul 1 al Municipiului Bucuresti pe anul 2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10408/204.2020_Anonimizat.pdf",
+     "sha256": "86a65433618edda0861fdeb584b1bd3f0f606a4fca47b031cc8945dbc2a6b2bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-205-2020",
+   "path": "local/bucuresti/sector-1/2020/205",
+   "short": "HCLS1 nr. 205/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 205/2020 privind aprobarea completării Anexei nr. 1- Regulamentul de Organizare și Funcţionare al Poliției Locale Sector 1, aprobată prin Hotărârea Consiliului Local Sector 1 nr. 79/08.04.2020, cu modificările și completările ulterioare și modificarea și completarea Statului de funcții al Poliției Locale Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10392/205.2020_Anonimizat.pdf",
+     "sha256": "043317982bcaae216399a1633f03bd226662bf1c45ac798071d351663b91206c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-206-2020",
+   "path": "local/bucuresti/sector-1/2020/206",
+   "short": "HCLS1 nr. 206/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 206/2020 privind modificarea Anexei nr. 2 a Hotărârii Consiliului Local al Sectorului 1 nr. 6/28.01.2020 pentru aprobarea reţelei şcolare de stat şi particulare pe raza sectorului 1 al municipiului Bucureşti pentru anul 2020-2021",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10436/206.2020_Anonimizat.pdf",
+     "sha256": "cfd43a6d47ea672a78b04436954078b84e50f137290b8e7e63891f52a9694b78"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-207-2020",
+   "path": "local/bucuresti/sector-1/2020/207",
+   "short": "HCLS1 nr. 207/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 207/2020 privind completarea Anexei nr. 3 a Hotărârii Consiliului Local al Sectorului 1 nr. 257/2017 privind înființarea, organizarea și funcționarea Centrului Cultural al Sectorului 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10394/207.2020_Anonimizat.pdf",
+     "sha256": "8c9ed8e8f0856499700c32222d7ae0dd618d8e924a2055329eb892d7e47902a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-208-2020",
+   "path": "local/bucuresti/sector-1/2020/208",
+   "short": "HCLS1 nr. 208/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 208/2020 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici ai investiției Proiectare și execuție Spital de urgență categoria IA ”Sfântul Vasile cel Mare”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10435/208.2020_Anonimizat.pdf",
+     "sha256": "5f2d0b1eff82ea04b7efa147c4bd1f41e655e6e7cef5e74434b416468399042d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-209-2020",
+   "path": "local/bucuresti/sector-1/2020/209",
+   "short": "HCLS1 nr. 209/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 209/2020 privind aprobarea execuției bugetului general centralizat al subdiviziunii administrativ-teritoriale sector 1, la data de 30 iunie 2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10440/209.2020_Anonimizat.pdf",
+     "sha256": "81706162fe25a489ffb5cd105e8180fe0fc664198e04b9d05691e72fa6d7bd09"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-210-2020",
+   "path": "local/bucuresti/sector-1/2020/210",
+   "short": "HCLS1 nr. 210/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 210/2020 privind aprobarea rectificarii bugetului general centralizat al subdiviziunii administrativ-teritoriale Sectorul 1 al Municipiului Bucuresti pe anul 2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10455/210.2020_Anonimizat.pdf",
+     "sha256": "969e1ab92f4b24cc38d6cbd2f51540d698a94fb6c863774c91529e32503a4804"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-211-2020",
+   "path": "local/bucuresti/sector-1/2020/211",
+   "short": "HCLS1 nr. 211/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 211/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10451/211.2020_Anonimizat.pdf",
+     "sha256": "eadf55b419864c3f24da2d8aa12fcd045dd152425a304ab05e386fa7bb9d21f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-212-2020",
+   "path": "local/bucuresti/sector-1/2020/212",
+   "short": "HCLS1 nr. 212/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 212/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10448/212.2020_Anonimizat.pdf",
+     "sha256": "8550ece9fa00fdc04ccdf88f5d793155ef73e51d120007b8089e4f8b166f2411"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-213-2020",
+   "path": "local/bucuresti/sector-1/2020/213",
+   "short": "HCLS1 nr. 213/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 213/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10450/213.2020_Anonimizat.pdf",
+     "sha256": "882c273173999c58f474ad8659f4d93b35a035bd35f5dee957dbd646f4331137"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-214-2020",
+   "path": "local/bucuresti/sector-1/2020/214",
+   "short": "HCLS1 nr. 214/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 214/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10442/214.2020_Anonimizat.pdf",
+     "sha256": "07034abefd53c0c570ee6dc0b27a0617a5129658c514332eebe5c66067cf4d5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-215-2020",
+   "path": "local/bucuresti/sector-1/2020/215",
+   "short": "HCLS1 nr. 215/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 215/2020 privind aprobarea Organigramei, Statului de funcţii și Regulamentului de Organizare și Funcționare ale Administraţiei Pieţelor Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10441/215.2020_Anonimizat.pdf",
+     "sha256": "bfe812d3d33bddaff37284dcd702a1d776376904976a596df51fbca19e5d74c4"
+    }
+   ]
+  },
+  {
    "slug": "hcls1-216-2020",
    "path": "local/bucuresti/sector-1/2020/216",
    "short": "HCLS1 nr. 216/2020",
@@ -93,6 +1953,141 @@
    ]
   },
   {
+   "slug": "hcls1-218-2020",
+   "path": "local/bucuresti/sector-1/2020/218",
+   "short": "HCLS1 nr. 218/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 218/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11487/218.2020.pdf",
+     "sha256": "bb214187444cd5a59b0f95601c45482a9cb902006baba02d3bd778b962a39090"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-219-2020",
+   "path": "local/bucuresti/sector-1/2020/219",
+   "short": "HCLS1 nr. 219/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 219/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11497/219.2020.pdf",
+     "sha256": "478612d475efd4183b104438a162d5ef5220faba781d2a4226094e6047499be5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-22-2020",
+   "path": "local/bucuresti/sector-1/2020/22",
+   "short": "HCLS1 nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 22/2020 privind aprobarea planului urbanistic de detaliu (PUD) str. Carol Knappe, nr. 86, sector 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7455/hcl%2022%20din%2028.01.2020.pdf",
+     "sha256": "b8c50f93219c0fb7170465cac65da994b305e7baca282d602032cfeb432f6d73"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-220-2020",
+   "path": "local/bucuresti/sector-1/2020/220",
+   "short": "HCLS1 nr. 220/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 220/2020 privind aprobarea implementării Proiectului \"EDUCAȚIE ȘI PERFORMANȚĂ\" în cadrul Liceului Teoretic Jean Monnet în anul școlar 2020-2021",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11489/HCL%20220.pdf",
+     "sha256": "8c3886bc8c568675811617e30488e2fe07ce384dfdb42a1ccfdedfdb82ebec42"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-221-2020",
+   "path": "local/bucuresti/sector-1/2020/221",
+   "short": "HCLS1 nr. 221/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 221/2020 privind aprobarea implementării Proiectului \"PREGĂTEȘTE-TE ASTĂZI PENTRU A FI PRIMUL MÂINE\" în cadrul Liceului Teoretic ”Constantin Brâncoveanu” în anul școlar 2020-2021",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11490/HCL%20221.pdf",
+     "sha256": "497cb1730069d16414d07564720aa00cb5d9d7b9f91fef5c53d4ecff740c8ed8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-222-2020",
+   "path": "local/bucuresti/sector-1/2020/222",
+   "short": "HCLS1 nr. 222/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 222/2020 privind aprobarea implementării Programului „Masă caldă gratuită” pentru elevii din cadrul unității de învățământ preuniversitar de stat Colegiul Tehnic de Aeronautică ”Henri Coandă” în anul școlar 2020-2021",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11491/HCL%20222.pdf",
+     "sha256": "c1d0f8239472af71faf5efe78b63d1b546c0d799067ba37b6928182c1d98ee6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-223-2020",
+   "path": "local/bucuresti/sector-1/2020/223",
+   "short": "HCLS1 nr. 223/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 223/2020 privind probarea implementării programului „Masă caldă la semiinternat” la nivelul Școlii Gimnaziale ”Pia Brătianu” în ceea ce privește elevii de ciclu primar înscriși la semiinternat în anul școlar 2020-2021",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11492/HCL%20223.pdf",
+     "sha256": "e586cd85c539f3dc8f086a9df100bcd4f9ed6d25315638df9974fef6bb28df8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-224-2020",
+   "path": "local/bucuresti/sector-1/2020/224",
+   "short": "HCLS1 nr. 224/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 224/2020 privind aprobarea implementării Programului „Masă caldă gratuită” pentru elevii din cadrul unității de învățământ preuniversitar de stat Colegiul Tehnic ”Dinicu Golescu” în anul școlar 2020-2021",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11494/HCL%20224.pdf",
+     "sha256": "e0c24251c91ab72ae5fd6fbc117c4af71d2b056904d003220c203f8a4961d375"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-225-2020",
+   "path": "local/bucuresti/sector-1/2020/225",
+   "short": "HCLS1 nr. 225/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 225/2020 privind aprobarea implementării Programului „Masă caldă gratuită” pentru elevii din cadrul unității de învățământ preuniversitar de stat Colegiul Tehnologic ”Viaceslav Harnaj” în anul școlar 2020-2021",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11495/HCL%20225.pdf",
+     "sha256": "07bd0b070c71f2874f87e3dbbed3c69e05f86d8940e51fc552d4386435aafd80"
+    }
+   ]
+  },
+  {
    "slug": "hcls1-226-2020",
    "path": "local/bucuresti/sector-1/2020/226",
    "short": "HCLS1 nr. 226/2020",
@@ -104,6 +2099,591 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7716/HCL%20226.pdf",
      "sha256": "5028d172ae60381c288c8441156dd1161598e1e45711c88aab52843f0e12b363"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-227-2020",
+   "path": "local/bucuresti/sector-1/2020/227",
+   "short": "HCLS1 nr. 227/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 227/2020 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici ai investiției ,, Lucrări de reabilitare, modernizare construcţie existentă și construire corp nou la GRĂDINIȚA Nr. 47”, Strada Mitropolit Varlaam, Nr. 140, Sector 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10402/HCL%20227.pdf",
+     "sha256": "6fe1cdbf1f6f597f733932d2b2fa594ed2e1dc95141bc9835e8ec33d2f30583a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-228-2020",
+   "path": "local/bucuresti/sector-1/2020/228",
+   "short": "HCLS1 nr. 228/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 228/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10409/HCL%20228.pdf",
+     "sha256": "6789b7dc68840bcc98fff5d64e57e26091799a7fb8232fc403c1af227765c68a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-229-2020",
+   "path": "local/bucuresti/sector-1/2020/229",
+   "short": "HCLS1 nr. 229/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 229/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10410/HCL%20229.pdf",
+     "sha256": "668af71adbf293afff588328addcc58e9f1c66f84342f8ce95898a48fcbf00ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-23-2020",
+   "path": "local/bucuresti/sector-1/2020/23",
+   "short": "HCLS1 nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 23/2020 privind aprobarea planului urbanistic de detaliu (PUD) str. Telescopului, nr. 21A, Sector 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7468/hcl%2023%20din%2028.01.2020.pdf",
+     "sha256": "40532151635f8c1d587d110cb012c26641d770810ace1069f144ae3b2c3fef8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-230-2020",
+   "path": "local/bucuresti/sector-1/2020/230",
+   "short": "HCLS1 nr. 230/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 230/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10411/HCL230.pdf",
+     "sha256": "d01c640feb403b6aaf62749229d047b611224881ae1dff0cc53fcfda67337b44"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-231-2020",
+   "path": "local/bucuresti/sector-1/2020/231",
+   "short": "HCLS1 nr. 231/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 231/2020 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici ai investiției ,,Realizare branșament instalație gaze naturale pentru construcția modulară - ȘCOALA GIMNAZIALĂ nr. 179”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11501/HCL%20232.pdf",
+     "sha256": "c0f75aa5f0c1536b8e51f1ce6ba4cc58c25b4fa9b103d043b86283be17df20ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-232-2020",
+   "path": "local/bucuresti/sector-1/2020/232",
+   "short": "HCLS1 nr. 232/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 232/2020 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico - economici ai investiției ,, Realizare branşament instalaţie apă/canalizare pentru construcția modulară - ȘCOALA GIMNAZIALĂ nr. 179”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11503/HCL%20233.pdf",
+     "sha256": "dec4ab23fa80310ddee5baa38bfd4b7434778de7d64cf1564ff1bb1ea928e550"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-233-2020",
+   "path": "local/bucuresti/sector-1/2020/233",
+   "short": "HCLS1 nr. 233/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 233/2020 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici ai investiției ,, Realizare branșament instalație electrică pentru construcția modulară - ȘCOALA GIMNAZIALĂ nr. 179”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11500/HCL%20231.pdf",
+     "sha256": "1e11da2032ac0d8a0aa4413b65e670647e498ea4fc60e69f27b03b537147da4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-234-2020",
+   "path": "local/bucuresti/sector-1/2020/234",
+   "short": "HCLS1 nr. 234/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 234/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10438/HCL%20234.pdf",
+     "sha256": "c42243b4e074ae8bb11bf2da5b0af63d11ebb8486f8a6ffb9b5068fa38e2ac5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-235-2020",
+   "path": "local/bucuresti/sector-1/2020/235",
+   "short": "HCLS1 nr. 235/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 235/2020 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici ai obiectivului de investiții „parcaj subteran pe Str. Ștefan Burileanu din Sector 1, București”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10444/HCL%20235.pdf",
+     "sha256": "5b48b7e6253aec995370fcdf2088341c9abd789c7ea8c9e697829518b6b84fd9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-236-2020",
+   "path": "local/bucuresti/sector-1/2020/236",
+   "short": "HCLS1 nr. 236/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 236/2020 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici ai obiectivului de investiții „parcaj suprateran pe Str. Băiculești 5-7 din Sector 1, București”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10445/HCL%20236.pdf",
+     "sha256": "e4518893501695e943e9d04d6fe5c847336b89a11a5ef602eff21977a22d7b14"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-237-2020",
+   "path": "local/bucuresti/sector-1/2020/237",
+   "short": "HCLS1 nr. 237/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 237/2020 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici ai obiectivului de investiții „parcaj suprateran pe Str. Băneasa 1-3 din Sector 1, București”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10447/HCL%20237.pdf",
+     "sha256": "363222e10c18828e1629c85773846fd72f4d8c9e4b6003c364fa99a6d9a20274"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-238-2020",
+   "path": "local/bucuresti/sector-1/2020/238",
+   "short": "HCLS1 nr. 238/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 238/2020 privind modificarea Anexei nr.2 a Hotărârii Consiliului Local al Sectorului 1 nr. 37/04.02.2019, privind aprobarea Organigramei, a Statului de Funcții și a Regulamentului de Organizare și Funcționare al Administrației Domeniului Public Sector 1, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11498/HCL%20238.pdf",
+     "sha256": "80efbb983d8b1cbe97515456e57dd13d2789ee525580072d206de9440265cf66"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-239-2020",
+   "path": "local/bucuresti/sector-1/2020/239",
+   "short": "HCLS1 nr. 239/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 239/2020 privind modificarea și completarea Anexei nr. 1 a Hotărârii Consiliului Local al Sectorului 1 nr. 6/28.01.2020 pentru aprobarea reţelei şcolare de stat şi particulare pe raza sectorului 1 al municipiului Bucureşti pentru anul 2020-2021",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11499/HCL%20239.pdf",
+     "sha256": "0d199093f889de8fa8d855e98504b21cecfc0ddbfebf05cacbb79ff6582dafe5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-24-2020",
+   "path": "local/bucuresti/sector-1/2020/24",
+   "short": "HCLS1 nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 24/2020 privind aprobarea planului urbanistic de detaliu (PUD) Drumul Marin Drăcea, nr. 9A, Sector 1, bucurești",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7474/hcl%2024%20din%2028.01.2020.pdf",
+     "sha256": "75f9a764ac24c50f5337a6633c74b8cd5a4fcf1845cd0d217811e5c3ea90aab2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-240-2020",
+   "path": "local/bucuresti/sector-1/2020/240",
+   "short": "HCLS1 nr. 240/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 240/2020 privind aprobarea reorganizării unor servicii sociale, Organigrama, Statul de funcții și Regulamentul de organizare și funcționare ale Direcției Generale de Asistență Socială și Protecția Copilului Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11505/HCL%20240.pdf",
+     "sha256": "74a3839827d53bd7950bf6475665812530f74b06488f83dd2f02b73514ab62ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-241-2020",
+   "path": "local/bucuresti/sector-1/2020/241",
+   "short": "HCLS1 nr. 241/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 241/2020 privind desemnarea de către Consiliul Local al Sectorului 1 a membrilor comisiei pentru evaluarea performanțelor profesionale individuale ale Secretarului General al Sectorului 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10457/241.2020.pdf",
+     "sha256": "8fb2fff7b09ad3da60b1fcbaf1b53146a64297fbdc53cf072d4e23ad112a35ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-242-2020",
+   "path": "local/bucuresti/sector-1/2020/242",
+   "short": "HCLS1 nr. 242/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 242/2020 privind desemnarea reprezentantului Consiliului Local al Sectorului 1 în Consiliul de Administrație al Grădiniței și Școlii Primare ”Montessori School Orizonturi Libere”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11506/242.2020.pdf",
+     "sha256": "bb6b9103ab7a7f9b215e03fcc58f1de9304e7ed9a884f9b0174bbaf6ce623565"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-243-2020",
+   "path": "local/bucuresti/sector-1/2020/243",
+   "short": "HCLS1 nr. 243/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 243/2020 privind desemnarea reprezentantului Consiliului Local al Sectorului 1 în Consiliul de administrație la Grădinița Montessori Kids at work",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10400/243.2020.pdf",
+     "sha256": "52de9bc9e435fc0b3e7d378ceae11fdbf73420ddebaf6d5ae105f4d291184dbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-244-2020",
+   "path": "local/bucuresti/sector-1/2020/244",
+   "short": "HCLS1 nr. 244/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 244/2020 privind aprobarea rectificării bugetului general centralizat al subdiviziunii administrativ-teritoriale Sector 1 al Municipiului București pe anul 2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11529/244.2020.pdf",
+     "sha256": "28406646b398ede326aec29f378d306e2bab3c5582c79a08d4cdd20ebc4a94ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-245-2020",
+   "path": "local/bucuresti/sector-1/2020/245",
+   "short": "HCLS1 nr. 245/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 245/2020 privind achiziționarea unui lot de vaccin antigripal pentru sezonul 2020/2021 și achiziționarea de teste rapide pentru identificarea antigen Covid-19, în vederea extinderii testării populației de la nivelul comunității Sector 1, de către Complexul Multifuncțional Caraiman",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11525/245.2020.pdf",
+     "sha256": "9d1fa5cc542f5db504db80e1a8a80b39d121bf248b2453c7bfcc2d582c3001b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-246-2020",
+   "path": "local/bucuresti/sector-1/2020/246",
+   "short": "HCLS1 nr. 246/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 246/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7732/HCL%20246.pdf",
+     "sha256": "e4d9e9617dae9c4551df35250607941ed4935a6ad5a15516de8cf3b717bebf35"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-247-2020",
+   "path": "local/bucuresti/sector-1/2020/247",
+   "short": "HCLS1 nr. 247/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 247/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10415/HCL%20247.pdf",
+     "sha256": "0f8fbcc5db2706b1aaad5f7a824545ed195e6badfa9dec41fd52545986e7b552"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-248-2020",
+   "path": "local/bucuresti/sector-1/2020/248",
+   "short": "HCLS1 nr. 248/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 248/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10416/HCL%20248.pdf",
+     "sha256": "a5aa053f84a222073bbabdb5a332bf1fcbb66127e1182e65e3d44d8faa3ce845"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-249-2020",
+   "path": "local/bucuresti/sector-1/2020/249",
+   "short": "HCLS1 nr. 249/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 249/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11513/HCL%20249.pdf",
+     "sha256": "1679268f87acafcfaaeb446345f1eb534dbe1e143a38d25951707c2b3be6b9f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-25-2020",
+   "path": "local/bucuresti/sector-1/2020/25",
+   "short": "HCLS1 nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 25/2020 privind aprobarea planului urbanistic de detaliu (PUD) str. Mârșa, nr. 16, Sector 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7476/hcl%2025%20din%2028.01.2020.pdf",
+     "sha256": "1dff6fff5fd16f15b880aabbaa7f0950be39558db1d8847a4794fb715eb6cb67"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-250-2020",
+   "path": "local/bucuresti/sector-1/2020/250",
+   "short": "HCLS1 nr. 250/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 250/2020 privind aprobarea Planului Urbanistic de Detaliu (PUD) B-dul Bucureștii Noi, nr.189A, sector 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-251-2020",
+   "path": "local/bucuresti/sector-1/2020/251",
+   "short": "HCLS1 nr. 251/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 251/2020 privind modificarea Hotărârii nr.358/2019 a Consiliului Local Sector 1 privind aprobarea Organigramei, Statului de Funcții și a Regulamentului de Organizare și Funcționare a Direcției Generale de Asistență Socială și Protecția Copilului Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11517/HCL%20251.pdf",
+     "sha256": "dac034caeb483bb0c00c93668bdf49566be3811921b936cf2a0e865c8fae93ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-252-2020",
+   "path": "local/bucuresti/sector-1/2020/252",
+   "short": "HCLS1 nr. 252/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 252/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11508/HCL%20252.pdf",
+     "sha256": "a2b686ada1edd66eb36ff8829a94d8654e8e0c64148708a5c977acb33b66db47"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-253-2020",
+   "path": "local/bucuresti/sector-1/2020/253",
+   "short": "HCLS1 nr. 253/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 253/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11509/HCL%20253.pdf",
+     "sha256": "c5214fb5dbce7ddd60991228aff69de0eb920fbec69a9d34c473ae493fcc366f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-254-2020",
+   "path": "local/bucuresti/sector-1/2020/254",
+   "short": "HCLS1 nr. 254/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 254/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11510/HCL%20254.pdf",
+     "sha256": "c021fac0f8f744a8203af32b2bb39c7dc59f0da5145defc6da2bada3f27a8af2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-255-2020",
+   "path": "local/bucuresti/sector-1/2020/255",
+   "short": "HCLS1 nr. 255/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 255/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11511/HCL%20255.pdf",
+     "sha256": "2f075194b157194466a8d5cf752880e04a4681fc2204fa5cc3f290969224db2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-256-2020",
+   "path": "local/bucuresti/sector-1/2020/256",
+   "short": "HCLS1 nr. 256/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 256/2020 privind aprobarea documentației tehnico- economice și a indicatorilor tehnico-economici ai obiectivului de investiții “Modernizare sistem rutier pe strada Bujorului”, Sector 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11512/HCL%20256.pdf",
+     "sha256": "247db6621892868c3ceb5f05b39882e6fc906a8594df50e393d5eff15baad15b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-257-2020",
+   "path": "local/bucuresti/sector-1/2020/257",
+   "short": "HCLS1 nr. 257/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 257/2020 privind aprobarea programului pilot privind atribuirea locurilor de parcare pe străzile cu sens unic de pe raza administrativ-teritorială a Sectorului 1 , în zona Bucureștii Noi-Chitila",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11516/257.2020.pdf",
+     "sha256": "2542f76d3269c0c0724cd29c745e2b683109bd2ba34b7c7e45aa52cb07590984"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-258-2020",
+   "path": "local/bucuresti/sector-1/2020/258",
+   "short": "HCLS1 nr. 258/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 258/2020 privind aprobarea redistribuirii stocurilor de produse lactate înregistrate ca urmare a suspendării cursurilor în unitățile de învățământ preuniversitar de pe raza Sectorului 1, conform dispozițiilor Ordonanței de urgență nr. 121/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11507/HCL%20258.pdf",
+     "sha256": "ac17eb7b45ea55d2025a1e54fb3617337c852bb034567675c1310b614f9b72d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-259-2020",
+   "path": "local/bucuresti/sector-1/2020/259",
+   "short": "HCLS1 nr. 259/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 259/2020 privind aprobarea achiziționării dși distribuirii de bunuri și materiale de protecție în vederea prevenirii și răspândirii virusului SARS-CoV-2 către locuitorii Sectorului 1, elevilor, cadrelor didactice și personalului auxiliar și nedidactic din învățământul preuniversitar de stat din Sectorul 1, precum și a unităților sanitare publice aflate în administrarea Consiliului Local Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11520/259.2020.pdf",
+     "sha256": "9407963722bf1d20e03d1312ad726f02f0bcf5c3e8b8f1a84223e27ac8a78921"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-26-2020",
+   "path": "local/bucuresti/sector-1/2020/26",
+   "short": "HCLS1 nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 26/2020 privind aprobarea planului urbanistic de detaliu (PUD) Bulevardul Bucureștii Noi, nr. 225B, Sector 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7479/hcl%2026.pdf",
+     "sha256": "c4a1e15d5d2195ade5dba03aa54d779ca946e9da696eacaa4af1bccb78637184"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-260-2020",
+   "path": "local/bucuresti/sector-1/2020/260",
+   "short": "HCLS1 nr. 260/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 260/2020 privind alegerea președintelui de ședința",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12454/260.2020%20ANONIMIZAT.pdf",
+     "sha256": "c5041dc048b6fe053dae20955f3f0f73aa32586c6c53ae0f304c56212a72a3cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-261-2020",
+   "path": "local/bucuresti/sector-1/2020/261",
+   "short": "HCLS1 nr. 261/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 261/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+     "sha256": "c7173061881a7a1e624e92bc5306e7f51ac68d98cbc76db745c809e646a28ca7"
     }
    ]
   },
@@ -123,6 +2703,831 @@
    ]
   },
   {
+   "slug": "hcls1-263-2020",
+   "path": "local/bucuresti/sector-1/2020/263",
+   "short": "HCLS1 nr. 263/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 263/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-264-2020",
+   "path": "local/bucuresti/sector-1/2020/264",
+   "short": "HCLS1 nr. 264/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 264/2020 privind aprobarea premierii elevilor unităților de învățământ preuniversitar de stat aflate pe raza administrativ - teritorială a Sectorului 1 al Municipiului Bucureşti, care au obținut media 10 la Examenul Național de Bacalaureat, respectiv la examenul de Evaluare Națională, sesiunea iunie-iulie 2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11948/264.2020%20ANONIMIZATE.pdf",
+     "sha256": "e4e6b98e3419e77ef9111e6cf4bd144f67a166511496218055702b55ab1ca35e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-265-2020",
+   "path": "local/bucuresti/sector-1/2020/265",
+   "short": "HCLS1 nr. 265/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 265/2020 privind pentru modificarea Hotărârii Consiliului Local al sectorului 1 nr. 262/07.08.2018 privind aprobarea implementării Programului \"EDUCAȚIE PENTRU VIAȚĂ\" pentru elevii din învățământul preuniversitar de stat din Sectorul 1, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11952/265.2020%20ANONIMIZAT.pdf",
+     "sha256": "98dfd05e3b4ae48f321a7fd324db283414c914c1dc8dc4155abb72df7e6b20d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-266-2020",
+   "path": "local/bucuresti/sector-1/2020/266",
+   "short": "HCLS1 nr. 266/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 266/2020 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici aferenți obiectivului de investiții \" Linie fabricație cozonaci și patiserie la Nazarcea Grup\"",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11951/266.2020%20ANONIMIZAT.pdf",
+     "sha256": "47d1f287afeba7cce63e66b3578843ea63fc5a832035326fd34dcd2b9358cdff"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-267-2020",
+   "path": "local/bucuresti/sector-1/2020/267",
+   "short": "HCLS1 nr. 267/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 267/2020 privind modificarea indicatorilor tehnico-economici pentru 32 de obiective de investiții referitoare la reabilitarea termică a blocurilor de locuințe, Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11950/267.2020%20ANONIMIZAT.pdf",
+     "sha256": "e194295d23f1548b5e068bf45e93d9e9ebf595c08095c82c715aacd86b2b8100"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-268-2020",
+   "path": "local/bucuresti/sector-1/2020/268",
+   "short": "HCLS1 nr. 268/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 268/2020 privind probarea contractării unei/unor finanțări rambursări rambursări rambursări interne în valoarea de până la 200.000.000 lei, în vederea finanțării obiectivelor de investiții publice de interes local",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11955/268.2020%20ANONIMIZAT.pdf",
+     "sha256": "38fcfec7810089bd1c005c4d3b867bf91cc03399fee03f620c6c6532f9030684"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-269-2020",
+   "path": "local/bucuresti/sector-1/2020/269",
+   "short": "HCLS1 nr. 269/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 269/2020 privind aprobarea transmiterii fără plată a unor autovehicule din patrimoniul Poliției Locale a Sectorului 1 în patrimoniul Complexului Multifuncțional Caraiman și în patrimoniul comunei Balotești, județul Ilfov",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11496/269.2020%20ANONIMIZAT.pdf",
+     "sha256": "6eb58f7c67e1a58b81f77ec45b53d0be6853278a6e1f43c26479d1987258c839"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-27-2020",
+   "path": "local/bucuresti/sector-1/2020/27",
+   "short": "HCLS1 nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 27/2020 privind aprobarea planului urbanistic de detaliu (PUD) Șoseaua Chitilei, nr. 23, Sector 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7480/hcl%2027%20din%2028.01.2020.pdf",
+     "sha256": "a2f29fb211775bde60b6d0f3829fa4d6308f255f05dcf00920aba51b678f5a5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-270-2020",
+   "path": "local/bucuresti/sector-1/2020/270",
+   "short": "HCLS1 nr. 270/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 270/2020 privind revocarea Hotărârii Consiliului Local al Sectorului 1 nr.251/27.08.2020 privind modificarea Hotărârii nr. 358/2019 a Consiliului Local Sectorul 1 privind aprobarea Organigramei, Statului de funcții și a Regulamentului de Organizare și funcționare ale Direcției Generale de Asitență Socială și Protecția Copilului Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12464/270.2020%20ANONIMIZAT.pdf",
+     "sha256": "b5719d4c32552e505df4f35104ec868048a79e4fafe5069be158056ab9b5a5ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-271-2020",
+   "path": "local/bucuresti/sector-1/2020/271",
+   "short": "HCLS1 nr. 271/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 271/2020 privind aprobarea rectificării bugetului general centralizat al subdiviziunii administrativ-teritoriale Sector 1 al Municipiului București pe anul 2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12496/271.2020%2BANEXA1%20ANONIMIZAT.pdf",
+     "sha256": "404bfcbc4f36c50bcefe5ff43c874eb87e6104c01b7542e75654be52da615ceb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-272-2020",
+   "path": "local/bucuresti/sector-1/2020/272",
+   "short": "HCLS1 nr. 272/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 272/2020 privind aprobarea implementării Proiectului educațional ”Grădiniță pentru toți” la nivelul tuturor unităților de învățământ de stat cu nivel preșcolar de pe raza Sectorului 1 al Municipiului București, în anul școlar 2020-2021",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12479/272.2020%20ANONIMIZAT.pdf",
+     "sha256": "3f72c2002ceb9299f5191ab1ab92928bd0cc0b0e00a7223c957da481ec614a76"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-273-2020",
+   "path": "local/bucuresti/sector-1/2020/273",
+   "short": "HCLS1 nr. 273/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 273/2020 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici ai investiției “Construire sală sport și spațiu administrativ la ȘCOALA GIMNAZIALĂ nr. 183”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11521/273.2020%20ANONIMIZAT.pdf",
+     "sha256": "c5017b1294b75c362b5ae58f6ff163736523d4942e29ced13b861ccf5438df97"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-274-2020",
+   "path": "local/bucuresti/sector-1/2020/274",
+   "short": "HCLS1 nr. 274/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 274/2020 privind aprobarea închirierii prin licitație publică a spațiilor comerciale situate în piețele administrate de către Administrația Piețelor Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12474/274.2020%20ANONIMIZAT.pdf",
+     "sha256": "545253130e3afeac088d2597663fb8a74c0bced8a641dbeca8d30bd383d1938e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-275-2020",
+   "path": "local/bucuresti/sector-1/2020/275",
+   "short": "HCLS1 nr. 275/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 275/2020 privind aprobarea programului de deszăpezire pentru sezonul rece, respectiv iarna 2020-2021",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12462/275.2020%2BANEXA1%20ANONIMIZAT.pdf",
+     "sha256": "b374736a8cc3aabf92fa53e2b363b0e7de6ba0281c2730768991cdce1bfe3d1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-276-2020",
+   "path": "local/bucuresti/sector-1/2020/276",
+   "short": "HCLS1 nr. 276/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 276/2020 privind aprobarea materialelor degivrante (fondanți chimici) pentru prevenirea depunerii zăpezii, împotriva înghețului și pentru combaterea formării poleiului pe raza administrativă a Sectorului 1 al Municipiului București în iarna 2020-2021",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12463/276.2020%20ANONIMIZAT.pdf",
+     "sha256": "0106263ab225a8831cb3ac65d08cf959d9e43f8caef59670452b5f5c5ebb35ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-277-2020",
+   "path": "local/bucuresti/sector-1/2020/277",
+   "short": "HCLS1 nr. 277/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 277/2020 privind aprobarea modificării și completării Statului de funcții al Direcției de Utilități Publice, Salubrizare și Protecția Mediului Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12460/277.2020%20ANONIMIZAT.pdf",
+     "sha256": "de964e69667665373013b83bd5d64c5a14c0666a1a285495d377c43d88947ee2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-278-2020",
+   "path": "local/bucuresti/sector-1/2020/278",
+   "short": "HCLS1 nr. 278/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 278/2020 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/15488/278.2020%20ANONIMIZAT.pdf",
+     "sha256": "9f03451ecf78dbe400782944639d1eed5bfce6545e43b55120522d8e39cad4bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-279-2020",
+   "path": "local/bucuresti/sector-1/2020/279",
+   "short": "HCLS1 nr. 279/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 279/2020 privind alegerea Comisiei de validare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/15491/279.2020%20ANONIMIZAT.pdf",
+     "sha256": "4f91d9b6891ff59585f3dd4ec265dacc186f7ba25831c052b37770f17248b088"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-28-2020",
+   "path": "local/bucuresti/sector-1/2020/28",
+   "short": "HCLS1 nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 28/2020 privind aprobarea planului urbanistic de detaliu (PUD) Intrarea Epocii, nr. 22, Sector 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7482/hcl%2028%20din%2028.01.2020.pdf",
+     "sha256": "238c1b6c6fac6e3c4dbd6ee1b32c9be13aed509e659653dcd5a4cd0262cc35a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-280-2020",
+   "path": "local/bucuresti/sector-1/2020/280",
+   "short": "HCLS1 nr. 280/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 280/2020 privind stabilirea domeniilor de activitate şi componenţa Comisiilor de specialitate ale Consiliului Local al Sectorului 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/15509/280.2020%20ANONIMIZAT%20%281%29.pdf",
+     "sha256": "312986b15211bb7d6068de2bcd137e0dcea904a3fa9d3e11c8687f1b267be033"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-281-2020",
+   "path": "local/bucuresti/sector-1/2020/281",
+   "short": "HCLS1 nr. 281/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 281/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+     "sha256": "64ae89c9cbae3fa0192ff5b736bba7ac4e40cedd833531feb4eb1684238884a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-282-2020",
+   "path": "local/bucuresti/sector-1/2020/282",
+   "short": "HCLS1 nr. 282/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 282/2020 privind solicitarea către Consiliul General al Municipiului București de a aproba transmiterea din administrarea Administrației Străzilor în administrarea Consiliului Local al Sectorului 1 a străzilor Gârlei și Madrigalului aflate în proprietatea publica a Municipiului București în vederea întreținerii/reabilitării și modernizării",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/15510/282.2020_Anonim.pdf",
+     "sha256": "98506fa07a583b68dd394a701748a3960f014b1a7d04c2d9fb02a358fceb712b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-283-2020",
+   "path": "local/bucuresti/sector-1/2020/283",
+   "short": "HCLS1 nr. 283/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 283/2020 privind aprobarea componenței și a Regulamentului de Organizare și Funcţionare ale Comisiei Locale de Ordine Publică Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/15514/283.2020_Anonim.pdf",
+     "sha256": "59f042972ba53bcdea543854aaf3f15232f6a69daa1aba525ee5663a6e11ff88"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-284-2020",
+   "path": "local/bucuresti/sector-1/2020/284",
+   "short": "HCLS1 nr. 284/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 284/2020 pentru încetarea efectelor juridice ale Hotărârii Consiliului Local al Sectorului 1 nr. 136/2017 privind menţinerea calităţii de membru al Asociaţiei „Agenţia pentru Eficienţă Energetică şi Protecţia Mediului” şi desemnarea reprezentantului Consiliului Local în Adunarea Generală a Membrilor Asociaţiei",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/15516/284.2020_Anonim.pdf",
+     "sha256": "48603e9f9907127b8199c0860d39b108357995215f3abd9675581428e8b4d97f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-285-2020",
+   "path": "local/bucuresti/sector-1/2020/285",
+   "short": "HCLS1 nr. 285/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 285/2020 privind încetarea aplicabilității Hotărârii Consiliului Local Sector 1 nr.128/04.05.2018 privind achiziționarea de servicii juridice externe de către Poliția Locală",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/15517/285.2020_Anonim.pdf",
+     "sha256": "a6dfde596f33bb50ca01dafc88257b73e2c194ba992a0da5941c086f5742f837"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-286-2020",
+   "path": "local/bucuresti/sector-1/2020/286",
+   "short": "HCLS1 nr. 286/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 286/2020 pentru abrogarea HCL 18/2018 privind numirea și eliberarea din funcție a administratorului public de către Primarul sectorului 1 pe baza unor criterii, proceduri și atribuții specifice aprobate de CLS1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/15518/286%20.2020%20anonimizata%20.pdf",
+     "sha256": "b2226c90ee045ecea999928f8a96ba4a33ef47654b0991f5fba6adda543c47cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-287-2020",
+   "path": "local/bucuresti/sector-1/2020/287",
+   "short": "HCLS1 nr. 287/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 287/2020 pentru revocarea Hotărârii Consiliului Local al Sectorului 1 nr. 194/16.07.2020 privind înființarea, organizarea și funcționarea unei instituții publice de interes local, în domeniul învățământului, cu personalitate juridică, în subordinea Consiliului Local al Sectorului 1, pe modelul centrelor de excelență, care își va desfășura activitatea în strânsă colaborare cu Inspectoratul Școlar al Municipiului București, denumită Centrul Educațional Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/15520/287.2020_Anonim.pdf",
+     "sha256": "9f1f92debb8039d9c58b47bc4cbfc507c1469ff25b76312c6da2e5c64f29f6a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-288-2020",
+   "path": "local/bucuresti/sector-1/2020/288",
+   "short": "HCLS1 nr. 288/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 288/2020 privind desemnarea reprezentanților Consiliului Local al Sectorului 1 în Comisia pentru vânzarea spațiilor comerciale, proprietate privată a statului sau de prestări servicii Sector 1, constituită conform Legii nr.550/2002",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/15522/288.2020_Anonim.pdf",
+     "sha256": "d2b4940022e6d8428ebb9de3552fe92b73a2bb81e5de31454404da876606d7e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-289-2020",
+   "path": "local/bucuresti/sector-1/2020/289",
+   "short": "HCLS1 nr. 289/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 289/2020 pentru numirea reprezentanților Consiliului Local al Sectorului 1 în Consiliile de Administrație și în Comisiile pentru evaluarea și asigurarea calității în instituțiile de învățământ preuniversitar de stat și particulare din Sectorul 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-29-2020",
+   "path": "local/bucuresti/sector-1/2020/29",
+   "short": "HCLS1 nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 29/2020 privind aprobarea planului urbanistic de detaliu (PUD) str. Zăgazului, nr. 1A, Sector 1, București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7485/hcl%2029%20din%2028.01.2020.pdf",
+     "sha256": "e41b41c718751d1b5b03d1a6484f0f158b58d4cfc5bdb79ce6ffd1b9f12f87ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-290-2020",
+   "path": "local/bucuresti/sector-1/2020/290",
+   "short": "HCLS1 nr. 290/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 290/2020 privind abrogarea Hotărârii Consiliului Local Sector 1 nr. 120/28.04.2017 privind achiziționarea de servicii juridice externe de către Poliția Locală Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/15524/290.2020_Anonim.pdf",
+     "sha256": "c6c3eb1bf19db66fbaf5947266275d175f09429c30b60b82abef8417a543f843"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-291-2020",
+   "path": "local/bucuresti/sector-1/2020/291",
+   "short": "HCLS1 nr. 291/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 291/2020 privind aprobarea organigramei, statului de funcții, numărului de personal și regulamentului de organizare și funcționare ale aparatului de specialitate al Primarului sectorului 1 al municipiului Bucureşti şi ale instituției subordonate Consiliului Local Sector 1 - Direcţia Publică de Evidenţă a Persoanelor şi Stare Civilă Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/15526/291%20.2020%20anonimizata%20.pdf",
+     "sha256": "601e55bb9a65b95cb34e0efc2f8806e691b47ac2b43693edb48af70eee43e146"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-292-2020",
+   "path": "local/bucuresti/sector-1/2020/292",
+   "short": "HCLS1 nr. 292/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 292/2020 privind modificarea și completarea Hotărârii Consiliului Local Sector 1 nr. 433 din 19.12.2018 privind desemnarea Poliției Locale Sector 1 în calitate de organizație gazdă pentru organizarea și desfășurarea unor activități de voluntariat și aprobarea Regulamentului de organizare şi funcţionare a acestei activităţi",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/15527/292.2020_Anonim.pdf",
+     "sha256": "69ad6a4338cee196ee2af5d8db3baad9bf880321db7667471253cc9b9c708c1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-293-2020",
+   "path": "local/bucuresti/sector-1/2020/293",
+   "short": "HCLS1 nr. 293/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 293/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/16564/293.2020%20Anonim.pdf",
+     "sha256": "b4141c383a9903babec0655e62bc3fee8b241e74ffc41c32d5e22a9488f141bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-294-2020",
+   "path": "local/bucuresti/sector-1/2020/294",
+   "short": "HCLS1 nr. 294/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 294/2020 pentru modificarea și completarea Hotărârii Consiliului Local nr.293/12.10.2018 privind aprobarea înființării societății pe acțiuni Compania de Investiții și Dezvoltare în Sănătate și Domenii de Interes Public-Privat Sector 1 S.A",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/16562/294.2020%20%20Nota%20Rectificare%20Anonim.pdf",
+     "sha256": "44e9e8ea7c6339caa49c104e89c98311caa9861ea422d84951390286741290c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-295-2020",
+   "path": "local/bucuresti/sector-1/2020/295",
+   "short": "HCLS1 nr. 295/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 295/2020 privind achiziția de servicii juridice de consultanță, de asistență și/sau de reprezentare în litigiile rezultate din derularea raporturilor contractuale cu Compania Romprest Service S.A",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-296-2020",
+   "path": "local/bucuresti/sector-1/2020/296",
+   "short": "HCLS1 nr. 296/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 296/2020 privind aprobarea execuției bugetului general centralizat al subdiviziunii administrativ-teritoriale sector 1, la data de 30 septembrie 2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-297-2020",
+   "path": "local/bucuresti/sector-1/2020/297",
+   "short": "HCLS1 nr. 297/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 297/2020 privind aprobarea execuției bugetului general centralizat al subdiviziunii administrativ-teritoriale sector 1, la data de 30 noiembrie 2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-298-2020",
+   "path": "local/bucuresti/sector-1/2020/298",
+   "short": "HCLS1 nr. 298/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 298/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-299-2020",
+   "path": "local/bucuresti/sector-1/2020/299",
+   "short": "HCLS1 nr. 299/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 299/2020 privind aprobarea cheltuielilor și depunerii, în vederea finanțării Proiectului ,,Îmbunătățirea infrastructurii TIC în învățământul preuniversitar din Sectorul 1 al Municipiului București’",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-3-2020",
+   "path": "local/bucuresti/sector-1/2020/3",
+   "short": "HCLS1 nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 3/2020 privind aprobarea organigramei și statului de funcții ale aparatului de specialitate al primarului sectorului 1 al municipiului bucurești și ale instituției subordonate consiliului local sector 1 - direcția publică de evidență a persoanelor și stare civilă sector 1, percum și modificarea și completarea anexei 3 - regulamentul de organizare și funcționare al aparatului de specialitate al primarului sectorului 1 al municipiului bucurești, aprobată prin hcl nr. 186/09.04.2019, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7402/Hcl%203.pdf",
+     "sha256": "95bc4c31817fbbef9da8cb786384a7defaa5c31302d7e9b8d1d043b17703330c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-30-2020",
+   "path": "local/bucuresti/sector-1/2020/30",
+   "short": "HCLS1 nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 30/2020 privind aprobarea înființării asociației pentru dezvoltare durabilă „Ion Ionescu de la Brad” Sector 1 București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7487/hcl%2030.pdf",
+     "sha256": "b16947d101b961b65f14702fb8f39515df3ba2508701f42614a0688889ece501"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-300-2020",
+   "path": "local/bucuresti/sector-1/2020/300",
+   "short": "HCLS1 nr. 300/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 300/2020 privind completarea Anexei nr. 2 a Hotărârii Consiliului Local al Sectorului 1 nr. 6/28.01.2020 pentru aprobarea reţelei şcolare de stat şi particulare pe raza sectorului 1 al municipiului Bucureşti pentru anul 2020-2021",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-301-2020",
+   "path": "local/bucuresti/sector-1/2020/301",
+   "short": "HCLS1 nr. 301/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 301/2020 privind completarea Anexei nr. 2 a Hotărârii Consiliului Local al Sectorului 1 nr. 6/28.01.2020 pentru aprobarea reţelei şcolare de stat şi particulare pe raza sectorului 1 al municipiului Bucureşti pentru anul 2020-2021",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-302-2020",
+   "path": "local/bucuresti/sector-1/2020/302",
+   "short": "HCLS1 nr. 302/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 302/2020 Proiect de hotărâre privind alegerea viceprimarilor Sectorului 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-303-2020",
+   "path": "local/bucuresti/sector-1/2020/303",
+   "short": "HCLS1 nr. 303/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 303/2020 prin care se constată încetarea de drept a mandatului de consilier local și vacantarea locului de consilier local",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/17639/303_2020%20Anonim.pdf",
+     "sha256": "e2a14722a215529d9f3451951526f15ac61c51597cba83881f2919c992bdec62"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-304-2020",
+   "path": "local/bucuresti/sector-1/2020/304",
+   "short": "HCLS1 nr. 304/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 304/2020 privind aprobarea rectificării bugetului general centralizat al subdiviziunii administrativ-teritoriale Sector 1 al Municipiului București pe anul 2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/17642/305_2020%20Anonim.pdf",
+     "sha256": "27a9bbb8b1d3158c4854bdd4573d01530acd087274b6f6f1127fde9d5a031767"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-305-2020",
+   "path": "local/bucuresti/sector-1/2020/305",
+   "short": "HCLS1 nr. 305/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 305/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/17641/304_2020%20Anonim.pdf",
+     "sha256": "69fb42d914e05ab7201b152021b2a438ab873f1ba9ffb6259e07c34535d50ba8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-31-2020",
+   "path": "local/bucuresti/sector-1/2020/31",
+   "short": "HCLS1 nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 31/2020 privind aprobarea depunerii, în vederea finanțării, a Proiectului ,,Instrumente digitale pentru reducerea birocrației în cadrul serviciilor de asistență socială la nivelul Sectorului 1 al Municipiului București’’",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7516/hcl%2031%20din%2028.01.2020.pdf",
+     "sha256": "8956fd147a175a592fac2ed2cd7a2a0915752309173d667c5c8592c41ca848a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-32-2020",
+   "path": "local/bucuresti/sector-1/2020/32",
+   "short": "HCLS1 nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 32/2020 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7488/32.2020.pdf",
+     "sha256": "f9a70f18700627e9bc33575b2e14df88cf4fb4c93d0749768a73bebf575ad228"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-33-2020",
+   "path": "local/bucuresti/sector-1/2020/33",
+   "short": "HCLS1 nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 33/2020 privind aprobarea bugetului general centralizat al subdiviziunii administrativ-teritoriale Sectorul 1 al Municipiului București pe anul 2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7549/33.2020.pdf",
+     "sha256": "b979796cd70cc9e002273043dc5f259321534cc4bd942b656dbe6a367c261705"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-34-2020",
+   "path": "local/bucuresti/sector-1/2020/34",
+   "short": "HCLS1 nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 34/2020 privind aprobarea bugetului de venituri și cheltuieli pe anul 2020 al SC CET GRIVIȚA SRL",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7527/hcl%2034.pdf",
+     "sha256": "49239e1ed7c768c8845579955ada3468e1ab11369431bfd5acd80a3a0d141db1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-35-2020",
+   "path": "local/bucuresti/sector-1/2020/35",
+   "short": "HCLS1 nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 35/2020 privind menținerea, începând cu data de 1 martie 2020, a salariilor de bază ale personalului contractual și funcționarilor publici din cadrul familiei ocupaţionale \"Administraţie\" din aparatul de specialitate al Primarului Sectorului 1 și din instituția subordonată Consiliului Local Sector 1- Direcția Publică de Evidență a Persoanelor și Stare Civilă Sector 1, la nivelul aferent stabilit prin Hotărârea Consiliului Local Sector 1 nr. 121/22.04.2019 privind stabilirea, începând cu data de 1 aprilie 2019, a salariilor de bază ale personalului contractual și funcționarilor publici din cadrul familiei ocupaţionale \"Administraţie\" din aparatul de specialitate al Primarului Sectorului 1 și din instituția subordonată Consiliului Local Sector 1- Direcția Publică de Evidență a Persoanelor și Stare Civilă Sector 1, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7574/35.2020%20Anonimizata.pdf",
+     "sha256": "d2784a6c2ee26792e50fa1b1f57b32595c5659219a4e56b4292d1602f88fb6e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-36-2020",
+   "path": "local/bucuresti/sector-1/2020/36",
+   "short": "HCLS1 nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 36/2020 privind modificarea Anexei nr.2 a Hotărârii Consiliului Local al Sectorului 1 nr.37/04.02.2019, privind aprobarea Organigramei, a Statului de Funcții și a Regulamentului de Organizare și Funcționare ale Administrației Domeniului Public Sector 1, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7553/hcl%2036.pdf",
+     "sha256": "d70b15c44a0ae55af118103be44f1a52c959cfebd7322b7a58766147e92dc5c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-37-2020",
+   "path": "local/bucuresti/sector-1/2020/37",
+   "short": "HCLS1 nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 37/2020 privind aprobarea Organigramei și a Statului de funcții al Direcției Generale de Impozite și Taxe Locale a Sectorului 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7410/hcl%2037.pdf",
+     "sha256": "891d121ce6cb39cb9cfdd6354ec8d1952fa7cf9ee19a807c802d2cbb35fe8eae"
+    }
+   ]
+  },
+  {
    "slug": "hcls1-38-2020",
    "path": "local/bucuresti/sector-1/2020/38",
    "short": "HCLS1 nr. 38/2020",
@@ -134,6 +3539,996 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7514/38.2020%20Anonimizata.pdf",
      "sha256": "999668dd56adf4e65e938dd611263af7889e872297fcb47dd276491e1af44265"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-39-2020",
+   "path": "local/bucuresti/sector-1/2020/39",
+   "short": "HCLS1 nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 39/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7536/39.2020%20Anonimizata.pdf",
+     "sha256": "d0e7fa85d1aa1b2b1103e4a0d0a22dff00f0d5664df9eb74b9eac770a22b65b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-4-2020",
+   "path": "local/bucuresti/sector-1/2020/4",
+   "short": "HCLS1 nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 4/2020 privind aprobarea statului de funcții al direcției de utilități publice, salubrizare și protecția mediului Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7403/hcl%204.pdf",
+     "sha256": "e25aefd4baccc305ef386971591d304a6bd0a104cb4dc14e966b79879b9f9d9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-40-2020",
+   "path": "local/bucuresti/sector-1/2020/40",
+   "short": "HCLS1 nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 40/2020 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici ai obiectivului de investiții \"Modernizare Sistem de Iluminat Parc Jersey City",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7543/40.2020%20Anonimizata.pdf",
+     "sha256": "47d6759c0fcc92015c4ded4b459b5290f57dbba20e992620da20894525925082"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-41-2020",
+   "path": "local/bucuresti/sector-1/2020/41",
+   "short": "HCLS1 nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 41/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7550/hcl%2041.pdf",
+     "sha256": "c2e85e8425652e5be64356aa4a8ebedf6f0d4d37e99254d1cce1eabc903791f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-42-2020",
+   "path": "local/bucuresti/sector-1/2020/42",
+   "short": "HCLS1 nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 42/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7587/hcl%2042.pdf",
+     "sha256": "9d3e84c9282464f13d3b9888ceb8e593f0ac2e8734b09dad8fb7656ac8140e1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-43-2020",
+   "path": "local/bucuresti/sector-1/2020/43",
+   "short": "HCLS1 nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 43/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7588/hcl%2043.pdf",
+     "sha256": "b3fa7c2e8fbc823cf0b8476a72db5393674fc652749377cc268bd490477f94c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-44-2020",
+   "path": "local/bucuresti/sector-1/2020/44",
+   "short": "HCLS1 nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 44/2020 privind modificarea Hotărârii Consiliului Local nr. 293/12.10.2018 privind aprobarea înființării societății pe acțiuni Compania de Investiții și Dezvoltare în Sănătate și Domenii de Interes Public-Privat Sector 1 S.A",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7589/44.2020%20Anonimizata.pdf",
+     "sha256": "596e72f328cb8a42e6d5961313d9dd6083d81074caa32483bca337f5f8ed94b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-45-2020",
+   "path": "local/bucuresti/sector-1/2020/45",
+   "short": "HCLS1 nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 45/2020 privind aprobarea ”Planului de acțiuni și lucrări de interes local” pentru anul 2020, ce vor fi executate de către beneficiarii de ajutor social, conform Legii nr.416/2001, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7560/45.2020%20Anonimizata.pdf",
+     "sha256": "39e23e38618242fe62ac324e79d3ebb7f0baec96dcd11a5c14147c4d1d76bfdb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-46-2020",
+   "path": "local/bucuresti/sector-1/2020/46",
+   "short": "HCLS1 nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 46/2020 privind aprobarea desfășurării acțiunii educative ”Prietenul meu de altă etnie”, cu ocazia zilei internaționale a romilor",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7561/46.2020%20Anonimizata.pdf",
+     "sha256": "d7066672f1ba9aae7a404e1ab68d2f25c6c36ee32a4d049685d0c3f9c2fefc6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-47-2020",
+   "path": "local/bucuresti/sector-1/2020/47",
+   "short": "HCLS1 nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 47/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7562/47.2020%20Anonimizata.pdf",
+     "sha256": "a087eab1adaba2d9b27b5f047aa73af02798874c0a83c95b154e4a23eb86728e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-48-2020",
+   "path": "local/bucuresti/sector-1/2020/48",
+   "short": "HCLS1 nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 48/2020 privind modificarea Anexei nr. 1 a Hotărârii Consiliului Local al Sectorului 1 nr. 100/28.07.2016 privind numirea reprezentanţilor Consiliului Local al Sectorului 1 în Consiliile de Administraţie şi în Comisiile pentru evaluarea şi asigurarea calităţii instituţiilor de învăţământ preuniversitar de stat din Sectorul 1, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7512/48.2020%20Anonimizata.pdf",
+     "sha256": "fe83cbc6706a44542757584c0c50ff77bac0a8c526d6394ba04eced752929608"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-49-2020",
+   "path": "local/bucuresti/sector-1/2020/49",
+   "short": "HCLS1 nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 49/2020 privind modificarea Anexei nr. 1 a Hotărârii Consiliului Local al Sectorului 1 nr.89/29.06.2016 privind stabilirea domeniilor de activitate şi componenţa Comisiilor de specialitate ale Consiliului Local al Sectorului 1, cu modificările şi completările ulterioare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7563/49.2020%20Anonimizata.pdf",
+     "sha256": "78b49c31d7dacc7a707cb32e144683a354f9ef9cd80841a5ac8758c5c66bc4cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-50-2020",
+   "path": "local/bucuresti/sector-1/2020/50",
+   "short": "HCLS1 nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 50/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7554/50.2020%20Anonimizata.pdf",
+     "sha256": "dd2793cea25ba1c3f998e469c2d2d83b0ef5c87fb8fc5e7f18f2809aef2d420b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-51-2020",
+   "path": "local/bucuresti/sector-1/2020/51",
+   "short": "HCLS1 nr. 51/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 51/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7555/51.2020%20Anonimizata.pdf",
+     "sha256": "af9067ae6573fd21d12cfd86939f95c01c4b33f1b1a61b3568dd154ec22d7e15"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-52-2020",
+   "path": "local/bucuresti/sector-1/2020/52",
+   "short": "HCLS1 nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 52/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7556/52.2020%20Anonimizata.pdf",
+     "sha256": "6e5ee132d994e294adfce4b3bcb6629c59d4c14f7a42e1a4bc4714f64cc09f2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-53-2020",
+   "path": "local/bucuresti/sector-1/2020/53",
+   "short": "HCLS1 nr. 53/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 53/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7557/53.2020%20Anonimizata.pdf",
+     "sha256": "b974bedbdb4ce89297ef514af83004045d71da9a9da86f3e821dc9dc36f61938"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-54-2020",
+   "path": "local/bucuresti/sector-1/2020/54",
+   "short": "HCLS1 nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 54/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7517/54.2020%20Anonimizata.pdf",
+     "sha256": "98b09d7c9add3b86a0ffe29cb12b13a6964151576c1ede7bdcbe0d875bc81d47"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-55-2020",
+   "path": "local/bucuresti/sector-1/2020/55",
+   "short": "HCLS1 nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 55/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7519/55.2020%20Anonimizata.pdf",
+     "sha256": "f8b2c86b8cef54cba34504ee173befaa1c4734392dade21a793751dcd84ceb97"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-56-2020",
+   "path": "local/bucuresti/sector-1/2020/56",
+   "short": "HCLS1 nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 56/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7522/56.2020%20Anonimizata%20PLAN%20A2.pdf",
+     "sha256": "99d4905edc03b25a8ae23d6eb25bdedd858b33edd8a77d8fef09ac30f5965b83"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-57-2020",
+   "path": "local/bucuresti/sector-1/2020/57",
+   "short": "HCLS1 nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 57/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7526/57.2020%20Anonimizata.pdf",
+     "sha256": "c4e1aa3acafd68b13261001fb4a53e55f2a1c4f3ca58410f51858587c39c5695"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-58-2020",
+   "path": "local/bucuresti/sector-1/2020/58",
+   "short": "HCLS1 nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 58/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7567/58.2020%20Anonimizata%20PLAN%20A2.pdf",
+     "sha256": "aa06b04622302cad5b614cf1776998ecca07c8cdc93f1847b73a9e89a78de5ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-59-2020",
+   "path": "local/bucuresti/sector-1/2020/59",
+   "short": "HCLS1 nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 59/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7568/59.2020%20Anonimizata.pdf",
+     "sha256": "c5e452a761b10534d373d84397705bee90e8d1f6ca9d3406f219637afcdfa42b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-6-2020",
+   "path": "local/bucuresti/sector-1/2020/6",
+   "short": "HCLS1 nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 6/2020 privind aprobarea reţelei şcolare de stat şi particulare pe raza sectorului 1 al municipiului Bucureşti pentru anul 2020-2021",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7507/hcl%206.pdf",
+     "sha256": "86aac7222f9812bbc23b63cc7fdb070034808172ae2d162db297788fe2c007e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-60-2020",
+   "path": "local/bucuresti/sector-1/2020/60",
+   "short": "HCLS1 nr. 60/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 60/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7570/60.2020%20Anonimizata.pdf",
+     "sha256": "66e70484c75b85e1ca004e76c0258432dd2701dfea37ca3ae79f5750b5dd872f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-61-2020",
+   "path": "local/bucuresti/sector-1/2020/61",
+   "short": "HCLS1 nr. 61/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 61/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7571/61.2020%20Anonimizata.pdf",
+     "sha256": "8b667e07d84aaeabac871a854ac9d75dd977c44a3940e2bd53ee39c44a6b81d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-62-2020",
+   "path": "local/bucuresti/sector-1/2020/62",
+   "short": "HCLS1 nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 62/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7572/62.2020%20Anonimizata.pdf",
+     "sha256": "9de62e433e1d70d7583c5094c263e86687b9df351322b52350f942c687a07bd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-63-2020",
+   "path": "local/bucuresti/sector-1/2020/63",
+   "short": "HCLS1 nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 63/2020 privind aprobarea Statului de funcții al aparatului de specialitate al Primarului sectorului 1 al municipiului Bucureşti şi al instituţiei subordonate Consiliului Local Sector 1 - Direcţia Publică de Evidenţă a Persoanelor şi Stare Civilă Sector 1 precum și aprobarea modificării Anexei nr. 3 - Regulamentul de organizare şi funcţionare al aparatului de specialitate al Primarului Sectorului 1 al Municipiului Bucureşti, aprobată prin Hotărârea Consiliului Local al Sectorului 1 nr. 186/09.07.2019, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7575/63.2020%20Anonimizata.pdf",
+     "sha256": "1ec730e0a319c8ee1c2d29115070685e205d48e460677d98ac6a93a6f889cc55"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-64-2020",
+   "path": "local/bucuresti/sector-1/2020/64",
+   "short": "HCLS1 nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 64/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7576/65.2020%20Anonimizata.pdf",
+     "sha256": "e584b37bd34c3f6bdfa860ff76afa2c4032e64eaa7cea49360dce894f7e983de"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-65-2020",
+   "path": "local/bucuresti/sector-1/2020/65",
+   "short": "HCLS1 nr. 65/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 65/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7577/65.2020%20Anonimizata.pdf",
+     "sha256": "ad23ee302bf87ed516b42bc4516ebd4eb9105f025e891ad25d5ba1a778843a04"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-66-2020",
+   "path": "local/bucuresti/sector-1/2020/66",
+   "short": "HCLS1 nr. 66/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 66/2020 privind modificarea Anexei nr. 1 a Hotărârii Consiliului Local al Sectorului 1 nr. 127/04.05.2018 privind aprobarea listei serviciilor medicale gratuite oferite pentru comunitatea Sectorului 1 Bucuresti de către Complexul Multifuncţional Caraiman",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7578/hcl%2066.pdf",
+     "sha256": "46c1ee9358ec076f5cd514f9bb56eee04f9c8f6d089dba86e84f78083813d46c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-67-2020",
+   "path": "local/bucuresti/sector-1/2020/67",
+   "short": "HCLS1 nr. 67/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 67/2020 privind modificarea și completarea Hotărârii Consiliului Local al Sectorului 1 nr.329/31.10.2017",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7579/67.2020%20Anonimizata.pdf",
+     "sha256": "9b85b166c0051d65a6365df6fe8599128df49b271b315950cdfd785a90f0ba1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-68-2020",
+   "path": "local/bucuresti/sector-1/2020/68",
+   "short": "HCLS1 nr. 68/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 68/2020 privind aprobarea strategiei structurale integrate de asistență socială și asistență medicală comunitară - Direcția generală de sistență socială și protecția copilului sector 1 și Complexul Multifuncțional Caraiman 2019-2027",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7494/68.2020%20Anonimizata.pdf",
+     "sha256": "9e2a809712e5aabf5d7e845485dfd1688249d989759de426232672a2bb61057d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-69-2020",
+   "path": "local/bucuresti/sector-1/2020/69",
+   "short": "HCLS1 nr. 69/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 69/2020 privind modificarea HCL a Sectorului 1 nr. 292/23.09.2019 privind solicitarea acordului consiliului general al municipiului București pentru împuternicirea consiliului local sector 1 în vederea achiziționării pentru și în numele municipiului bucurești a terenului situat în București, str. Aviator Popișteanu, nr. 1A, sector 1 și transmiterea acestuia în administrarea consiliului local Sector 1 prin administrația domeniului public Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7421/69.2020%20Anonimizata.pdf",
+     "sha256": "4ab233d5b8e4f0f6ae90772c884daa123a4418cca165f11f8935d191323d41ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-7-2020",
+   "path": "local/bucuresti/sector-1/2020/7",
+   "short": "HCLS1 nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 7/2020 privind aprobarea statului de funcții al poliției locale Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7414/hcl%207.pdf",
+     "sha256": "80f1ba9f129887f9b8c492592f9a1eedcb619cad74849478c45946c77165c172"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-70-2020",
+   "path": "local/bucuresti/sector-1/2020/70",
+   "short": "HCLS1 nr. 70/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 70/2020 privind solicitarea acordului consiliului general al municipiului bucurești pentru împuternicirea consiliului local sector 1 în vederea achiziționării pentru și în numele municipiului bucurești a terenului situat în bucurești, str. băiculești, nr. 5, sector 1 și transmiterea acestuia în administrarea consiliului local sector 1 prin administrația domeniului public sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7418/70.2020%20Anonimizata.pdf",
+     "sha256": "96b4eed313b9a5acbbfb7f8fd66fc8e677fd8c96a348f87329de259e9df76d5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-71-2020",
+   "path": "local/bucuresti/sector-1/2020/71",
+   "short": "HCLS1 nr. 71/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 71/2020 privind aprobarea modificării regulamentului de organizare și funcționare al Direcției de utilități publice, salubritate și protecția mediului Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7491/71.2020%20Anonimizata.pdf",
+     "sha256": "800c097367877c1594561cb1392a0bb514bc61281c932a06511f23bdc14266a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-72-2020",
+   "path": "local/bucuresti/sector-1/2020/72",
+   "short": "HCLS1 nr. 72/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 72/2020 privind acordarea unui sprijin financiar Patriarhiei Române în valoare de 10.000.000 lei pentru finanțarea unor lucrări la Catedrala Mântuirii Neamului (Catedrala Națională)",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7506/72.2020%20Anonimizata.pdf",
+     "sha256": "ea1534163acd17417d727c3ebb8d5efcb4dbebe747e717136524c1dd842bea4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-73-2020",
+   "path": "local/bucuresti/sector-1/2020/73",
+   "short": "HCLS1 nr. 73/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 73/2020 privind aprobarea închirierii prin licitație publică a spațiilor comerciale situate în piețele administrate de către Administrația Piețelor Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7593/73.2020%20Anonimizata.pdf",
+     "sha256": "cd42d513f6ed2443e21f5533c3a3c1545f9fa8b6801ac8241080cb6015c95724"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-74-2020",
+   "path": "local/bucuresti/sector-1/2020/74",
+   "short": "HCLS1 nr. 74/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 74/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7594/74.2020%20Anonimizata.pdf",
+     "sha256": "e1216be4ec648a3ab6c17fff4934902af69e27e03a0948fd24c13dd6c62c3a13"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-75-2020",
+   "path": "local/bucuresti/sector-1/2020/75",
+   "short": "HCLS1 nr. 75/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 75/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7595/75.2020%20Anonimizata.pdf",
+     "sha256": "416ff1de66218cb9cc1ca23a7298fd3c074ca8c1fde22a74926802d7edce32ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-76-2020",
+   "path": "local/bucuresti/sector-1/2020/76",
+   "short": "HCLS1 nr. 76/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 76/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7597/76.2020%20Anonimizata.pdf",
+     "sha256": "386237fa904ac6a8ca4956ce207c62cfd735a41ee6c57a4354d5616c81762f74"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-77-2020",
+   "path": "local/bucuresti/sector-1/2020/77",
+   "short": "HCLS1 nr. 77/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 77/2020 privind aprobarea rectificarii bugetului general centralizat al subdiviziunii administrativ-teritoriale Sectorul 1 al Municipiului Bucuresti pe anul 2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7616/HCL.%2077_2020.pdf",
+     "sha256": "9ff74336fd05225ed2e9562e642c926f1203692e2358043a71863601afe14929"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-78-2020",
+   "path": "local/bucuresti/sector-1/2020/78",
+   "short": "HCLS1 nr. 78/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 78/2020 privind aprobarea Regulamentului de organizare și funcționare și stabilirea procedurii de desfășurare a ședințelor Consiliului Local al Sectorului 1 al Municipiului București în situații excepționale constatate de autoritățile abilitate",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7629/hcl%2078.pdf",
+     "sha256": "32ccc9bc8f3c8422cf03abecbd3ade1de3e3d8fc8c6bb27d9cdfa6b21fed467f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-79-2020",
+   "path": "local/bucuresti/sector-1/2020/79",
+   "short": "HCLS1 nr. 79/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 79/2020 privind aprobarea Regulamentului de Organizare și Funcționare al Poliției Locale Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7630/hcl%2079.pdf",
+     "sha256": "47c3dc2f3b92ad4feb50ffdebb1c713a06eee23db2c0d7652f160b61b41279e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-8-2020",
+   "path": "local/bucuresti/sector-1/2020/8",
+   "short": "HCLS1 nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 8/2020 privind modificarea anexei nr. 2 la Hcl nr. 37/04.02.2019, privind aprobarea organigramei, a statului de funcții și a regulamentului de organizare și funcționare al administrației domeniului public Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7416/hcl%208.pdf",
+     "sha256": "8381614395ad36feff497c47468812af68c2ccf22af68b46e5b3dd3e1719f056"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-80-2020",
+   "path": "local/bucuresti/sector-1/2020/80",
+   "short": "HCLS1 nr. 80/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 80/2020 privind aprobarea rectificării bugetului general centralizat al subdiviziunii administrativ-teritoriale Sector 1 al Municipiului București pe anul 2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7641/HCL_80_08.04.2020.pdf",
+     "sha256": "9dd18f8844cb1976b633445297c9fe7544248395fabda35e8e6c641865c81ebc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-81-2020",
+   "path": "local/bucuresti/sector-1/2020/81",
+   "short": "HCLS1 nr. 81/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 81/2020 privind aprobarea numărului și cuantumului burselor de merit, burselor de performanță, burselor de studiu și burselor de ajutor social pentru elevii de la cursurile cu frecvență din învățământul preuniversitar de stat Sector 1 pentru semestrul al II-lea al anului școlar 2019 -2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7633/hcl%2081.pdf",
+     "sha256": "50e9568192aad3ce444ec6219018b19d1a4b099842fd437f264e10e6a71aaf5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-82-2020",
+   "path": "local/bucuresti/sector-1/2020/82",
+   "short": "HCLS1 nr. 82/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 82/2020 privind aprobarea modificării Anexei nr.3 la Hotărârea Consiliului Local al Sectorului 1 nr. 358/28.11.2019 privind aprobarea Organigramei, Statului de funcții și Regulamentului de organizare și funcționare ale Direcției Generale de Asistență Socială și Protecția Copilului Sector 1, cu modificările ulterioare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7634/HCL_82_08.04.2020.pdf",
+     "sha256": "74697cf2ba61679473b19bea5c39abee30c3eb1a96691d5df41503b7c6442921"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-83-2020",
+   "path": "local/bucuresti/sector-1/2020/83",
+   "short": "HCLS1 nr. 83/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 83/2020 privind modificarea și completarea Hotărârii Consiliului Local al Sectorului 1 nr. 217/11.12.2014 privind aprobarea convenției de garantare a unui împrumut garantat de către Sectorul 1 al Municipiului București pentru Administrația Piețelor Sector 1, precum și pentru constituirea fondului de risc aferent acestui împrumut",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7643/HCL_83_08.04.2020.pdf",
+     "sha256": "a00ceec532a8bfb8dbf9845c716fe86e0b2632abc9c658e79feb9ad09b115ddd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-84-2020",
+   "path": "local/bucuresti/sector-1/2020/84",
+   "short": "HCLS1 nr. 84/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 84/2020 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7685/84.2020_Anonimizat.pdf",
+     "sha256": "f608aeb55b0efca993f877de79c0c4165363334b888431cf9910d6efb306abbc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-85-2020",
+   "path": "local/bucuresti/sector-1/2020/85",
+   "short": "HCLS1 nr. 85/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 85/2020 privind aprobarea Conturilor de execuţie pe surse de finanţare, Situaţiile financiare, inclusiv anexele la acestea, la data de 31 decembrie 2019",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7631/85.2020_Anonimizat.pdf",
+     "sha256": "a8da1ccd1d89073f41209be72041b7a7fe8ffdc6659ab609fe22498a9d905587"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-86-2020",
+   "path": "local/bucuresti/sector-1/2020/86",
+   "short": "HCLS1 nr. 86/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 86/2020 privind aprobarea execuției bugetului general centralizat al subdiviziunii administrativ-teritoriale sector 1, la data de 31 martie 2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7649/86.2020_Anonimizat.pdf",
+     "sha256": "58fe8cce801fe96ca8bfca3e4f336c7f7a911f761e8c279656b6b566c9f682ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-87-2020",
+   "path": "local/bucuresti/sector-1/2020/87",
+   "short": "HCLS1 nr. 87/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 87/2020 privind proiectul de hotărâre privind modificarea Hotărârii Consiliului Local nr. 187/09.07.2019 privind aprobarea indreptarii erorii materiale prin diminuarea numarului de actiuni detinute de Consiliul Local al Sectorului 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7591/87.2020_Anonimizat.pdf",
+     "sha256": "ecb1df1a6f4de6b5562a435c4dc17cd63a89cf0642b1e2ebb79b81226b89ecb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-88-2020",
+   "path": "local/bucuresti/sector-1/2020/88",
+   "short": "HCLS1 nr. 88/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 88/2020 privind aprobarea necesității modificării actului constitutiv prin extinderea obiectului de activitate al Companiei de Investiții și Dezvoltare în Sănătate și Domenii de Interes Public-Privat Sector 1 SA, conform Legii nr. 31/1991, legea societăților comerciale, modificată și completată prin introducerea a unor coduri CAEN 4646; 4690; 4618; 4676",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7690/88.2020_Anonimizat.pdf",
+     "sha256": "15c60e6f4a12f394c4859de20478161a971bed475681bdfe68f44ca43f2fc7d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-89-2020",
+   "path": "local/bucuresti/sector-1/2020/89",
+   "short": "HCLS1 nr. 89/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 89/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7664/89.2020_Anonimizat.pdf",
+     "sha256": "de281828358181946d0c5ca995c477eb971b40fa0367872040b411dbe3abe80e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-9-2020",
+   "path": "local/bucuresti/sector-1/2020/9",
+   "short": "HCLS1 nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 9/2020 privind instituirea premiilor de excelență, a premiilor pentru concursurile de creație și a premiilor pentru rezultate deosebite acordate de centrul cultural al Sectorului 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7428/hcl%209%20din%2028.01.2020.pdf",
+     "sha256": "97f723ba6e2b95174fbf684249363e2a1b71241f0022d970ab03ebaa56758d8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-90-2020",
+   "path": "local/bucuresti/sector-1/2020/90",
+   "short": "HCLS1 nr. 90/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 90/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7618/90.2020_Anonimizat.pdf",
+     "sha256": "3c31fb13651ee2459915b1d40181e6817898aa9df0c2e671415cae55396707ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-91-2020",
+   "path": "local/bucuresti/sector-1/2020/91",
+   "short": "HCLS1 nr. 91/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 91/2020 privind aprobarea Regulamentului privind stabilirea conditiilor de majorare a impozitului pe clădirile şi terenurile neîngrijite situate pe teritoriul administrativ al Sectorului 1 al Municipiului Bucureşti",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7515/92.2020_Anonimizat.pdf",
+     "sha256": "d5bd73522df5a474f71848bda50a28bed59bf320ebd7b7b59cf4def3568e4ce2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-92-2020",
+   "path": "local/bucuresti/sector-1/2020/92",
+   "short": "HCLS1 nr. 92/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 92/2020 privind aprobarea interzicerii expunerii spre vânzare a vehiculelor, înmatriculate sau neînmatriculate, de către persoanele fizice/juridice, în scopul desfăşurării unor fapte de comerţ pe domeniul public/privat al Municipiului București, aflat în administrarea Sectorului 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7535/92.2020_Anonimizat.pdf",
+     "sha256": "d5bd73522df5a474f71848bda50a28bed59bf320ebd7b7b59cf4def3568e4ce2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-93-2020",
+   "path": "local/bucuresti/sector-1/2020/93",
+   "short": "HCLS1 nr. 93/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 93/2020 privind modificarea și completarea Statului de funcții al Poliției Locale Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7644/93.2020_Anonimizat.pdf",
+     "sha256": "9b8a22585c334d08656cd46feba64c07cd9aae5bb5278c4b5e0961b18def1b9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-94-2020",
+   "path": "local/bucuresti/sector-1/2020/94",
+   "short": "HCLS1 nr. 94/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 94/2020 privind aprobarea încheierii Actului adițional nr. 1 la Protocolul de cooperare nr. 70660/23.12.2019 privind continuarea cooperării cu Fundația Viață și Lumină în vederea derulării proiectului „Centrul de Plasament Viață și Lumină”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7651/94.2020_Anonimizat.pdf",
+     "sha256": "d9e4470f61079c0a57efd54f80fb26e791632383519763781966e2e147058c8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-95-2020",
+   "path": "local/bucuresti/sector-1/2020/95",
+   "short": "HCLS1 nr. 95/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 95/2020 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici ai obiectivului de investiții \"Construirea unui centru de transplant multi-organ în cadrul spitalului clinic Sfânta Maria, prin construirea unui corp nou de clădire”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7652/95.2020_Anonimizat.pdf",
+     "sha256": "fc9b2128c7410ffd8fa7dc57b9ba810cc77060dff5bde85bb8d34b8ef83fdd1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-96-2020",
+   "path": "local/bucuresti/sector-1/2020/96",
+   "short": "HCLS1 nr. 96/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 96/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7661/96.2020_Anonimizat.pdf",
+     "sha256": "cbba9defdfabb65cbf97a7ae1fb5b773e6372bf892480381057205e7c301eb3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-97-2020",
+   "path": "local/bucuresti/sector-1/2020/97",
+   "short": "HCLS1 nr. 97/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 97/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7662/97.2020_Anonimizat.pdf",
+     "sha256": "3216e012ebfd5e20e08de4ccb315803f18a62edba7ef1156a11bf43c14f6885a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-98-2020",
+   "path": "local/bucuresti/sector-1/2020/98",
+   "short": "HCLS1 nr. 98/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 98/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7525/98.2020_Anonimizat.pdf",
+     "sha256": "f3eb49e067ef988150746018e6090938fc65cca9272f2155b469edbeaa06d12a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-99-2020",
+   "path": "local/bucuresti/sector-1/2020/99",
+   "short": "HCLS1 nr. 99/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 99/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7599/99.2020_Anonimizat.pdf",
+     "sha256": "43ab04001745657dc173a2509399901c9ceed98320d13131439468e04a0cb8b5"
     }
    ]
   }

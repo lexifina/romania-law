@@ -2,7 +2,7 @@
 
 Ordin anre nr. 114/2008 · 1 versions, from 2008-07-31 (latest in force: 2008-07-31) · <https://legislatie.just.ro/Public/DetaliiDocument/96176>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 (Anexa nr. 1a la metodologie) Denumire titular licență............. Nr. licență................. RAPORT privind achizițiile de gaze naturale ...): it is a table that the official text holds only flattened; Anexa nr. 2 (2 (Anexa nr. 1b la metodologie) RAPORT privind vânzările de gaze naturale către consumatorii finali luna............ ...): it is a table that the official text holds only flattened; Anexa nr. 4 (4 (Anexa nr. 1d la metodologie) CONSUM PROPRIU ȘI STOCURI luna........... ┌──────────────────────────────────────────────────────────┬───────────┬───────┐ │ │ ...): it is a table that the official text holds only flattened; Anexa nr. 5 (5 (Anexa nr. 1e la metodologie) ÎNMAGAZINARE luna........... ...): it is a table that the official text holds only flattened; Anexa nr. 6 (6 (Anexa nr. 2 la metodologie) Denumire titular licență..................... Nr. licență.............. RAPORT privind serviciile de transport prestate în ...): it is a table that the official text holds only flattened; Anexa nr. 7 (7 (Anexa nr. 3 la metodologie) Denumire titular licență........ Nr. licență............... RAPORT privind serviciile de tranzit prestate în luna............... ...): it is a table that the official text holds only flattened; Anexa nr. 8 (8 (Anexa nr. 4 la metodologie) Denumire titular licență............. Nr. licență................ RAPORT privind serviciile de înmagazinare prestate în ...): it is a table that the official text holds only flattened; Anexa nr. 9 (9 (Anexa nr. 5 la metodologie) Denumire titular licență................. Nr. licență................... RAPORT privind serviciile de distribuție prestate în ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 5 (5 (Anexa nr. 1e la metodologie) ÎNMAGAZINARE luna...........): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -10,8 +10,22 @@ Ordin anre nr. 114/2008 · 1 versions, from 2008-07-31 (latest in force: 2008-07
 | Art. II | [art-002.md](art-002.md) | 0 |  |
 | Art. III | [art-003.md](art-003.md) | 0 |  |
 | Art. IV | [art-004.md](art-004.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 | Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
 | Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
+| Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
+| Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
+| Anexa nr. 6 (what it is) | [anexa-6/README.md](anexa-6/README.md) | 0 |  |
+| Anexa nr. 6 | [anexa-6/text.md](anexa-6/text.md) | 0 |  |
+| Anexa nr. 7 (what it is) | [anexa-7/README.md](anexa-7/README.md) | 0 |  |
+| Anexa nr. 7 | [anexa-7/text.md](anexa-7/text.md) | 0 |  |
+| Anexa nr. 8 (what it is) | [anexa-8/README.md](anexa-8/README.md) | 0 |  |
+| Anexa nr. 8 | [anexa-8/text.md](anexa-8/text.md) | 0 |  |
+| Anexa nr. 9 (what it is) | [anexa-9/README.md](anexa-9/README.md) | 0 |  |
+| Anexa nr. 9 | [anexa-9/text.md](anexa-9/text.md) | 0 |  |
 
 Act id: `ordin-anre-114-2008` (tags `ordin-anre-114-2008/<day>`; `python tools/on.py <day> ordin-anre-114-2008`).
 
@@ -21,12 +35,12 @@ Act id: `ordin-anre-114-2008` (tags `ordin-anre-114-2008/<day>`; `python tools/o
 - Ordin anre nr. 114/2008: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin anre nr. 114/2008: the first version is the order as published in Monitorul Oficial nr. 578 of 31 July 2008 (document 96176 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin anre nr. 114/2008: the signatures and the place and date line after its last article are not article text.
+- Ordin anre nr. 114/2008: Anexa nr. 1 (1 (Anexa nr. 1a la metodologie) Denumire titular licență............. Nr. licență................. RAPORT privind achizițiile de gaze naturale luna.............) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 96176 of the official web service.
+- Ordin anre nr. 114/2008: Anexa nr. 2 (2 (Anexa nr. 1b la metodologie) RAPORT privind vânzările de gaze naturale către consumatorii finali luna............) is part of the order and is published in its folder, anexa-2/ (paragraphs and tables), from document 96176 of the official web service.
 - Ordin anre nr. 114/2008: Anexa nr. 3 (3 (Anexa nr. 1c la metodologie)) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 96176 of the official web service.
-- Ordin anre nr. 114/2008: Anexa nr. 1 (1 (Anexa nr. 1a la metodologie) Denumire titular licență............. Nr. licență................. RAPORT privind achizițiile de gaze naturale ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anre nr. 114/2008: Anexa nr. 2 (2 (Anexa nr. 1b la metodologie) RAPORT privind vânzările de gaze naturale către consumatorii finali luna............ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anre nr. 114/2008: Anexa nr. 4 (4 (Anexa nr. 1d la metodologie) CONSUM PROPRIU ȘI STOCURI luna........... ┌──────────────────────────────────────────────────────────┬───────────┬───────┐ │ │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anre nr. 114/2008: Anexa nr. 5 (5 (Anexa nr. 1e la metodologie) ÎNMAGAZINARE luna........... ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anre nr. 114/2008: Anexa nr. 6 (6 (Anexa nr. 2 la metodologie) Denumire titular licență..................... Nr. licență.............. RAPORT privind serviciile de transport prestate în ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anre nr. 114/2008: Anexa nr. 7 (7 (Anexa nr. 3 la metodologie) Denumire titular licență........ Nr. licență............... RAPORT privind serviciile de tranzit prestate în luna............... ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anre nr. 114/2008: Anexa nr. 8 (8 (Anexa nr. 4 la metodologie) Denumire titular licență............. Nr. licență................ RAPORT privind serviciile de înmagazinare prestate în ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anre nr. 114/2008: Anexa nr. 9 (9 (Anexa nr. 5 la metodologie) Denumire titular licență................. Nr. licență................... RAPORT privind serviciile de distribuție prestate în ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anre nr. 114/2008: Anexa nr. 4 (4 (Anexa nr. 1d la metodologie) CONSUM PROPRIU ȘI STOCURI luna...........) is part of the order and is published in its folder, anexa-4/ (paragraphs and tables), from document 96176 of the official web service.
+- Ordin anre nr. 114/2008: Anexa nr. 6 (6 (Anexa nr. 2 la metodologie) Denumire titular licență..................... Nr. licență.............. RAPORT privind serviciile de transport prestate în luna..................) is part of the order and is published in its folder, anexa-6/ (paragraphs and tables), from document 96176 of the official web service.
+- Ordin anre nr. 114/2008: Anexa nr. 7 (7 (Anexa nr. 3 la metodologie) Denumire titular licență........ Nr. licență............... RAPORT privind serviciile de tranzit prestate în luna...............) is part of the order and is published in its folder, anexa-7/ (paragraphs and tables), from document 96176 of the official web service.
+- Ordin anre nr. 114/2008: Anexa nr. 8 (8 (Anexa nr. 4 la metodologie) Denumire titular licență............. Nr. licență................ RAPORT privind serviciile de înmagazinare prestate în luna...................) is part of the order and is published in its folder, anexa-8/ (paragraphs and tables), from document 96176 of the official web service.
+- Ordin anre nr. 114/2008: Anexa nr. 9 (9 (Anexa nr. 5 la metodologie) Denumire titular licență................. Nr. licență................... RAPORT privind serviciile de distribuție prestate în luna.................... *Font 9*) is part of the order and is published in its folder, anexa-9/ (paragraphs and tables), from document 96176 of the official web service.
+- Ordin anre nr. 114/2008: Anexa nr. 5 (5 (Anexa nr. 1e la metodologie) ÎNMAGAZINARE luna...........) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 615/2012 · 1 versions, from 2012-04-04 (latest in force: 2012-04-04) · <https://legislatie.just.ro/Public/DetaliiDocument/136842>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 5 (4 la norme Biroul vamal............ LISTA DE EXPEDIȚIE A PROBELOR Nr....... data........ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -43,6 +43,8 @@ Ordin anaf nr. 615/2012 · 1 versions, from 2012-04-04 (latest in force: 2012-04
 | Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 | Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
 | Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
+| Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
+| Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
 | Anexa nr. 6 (what it is) | [anexa-6/README.md](anexa-6/README.md) | 0 |  |
 | Anexa nr. 6 | [anexa-6/text.md](anexa-6/text.md) | 0 |  |
 
@@ -58,6 +60,6 @@ Act id: `ordin-anaf-615-2012` (tags `ordin-anaf-615-2012/<day>`; `python tools/o
 - Ordin anaf nr. 615/2012: Anexa nr. 2 (1 la norme ETICHETE PENTRU PROBELE PRELEVATE Biroul vamal/instituția: Cod birou vamal: Numărul cererii de analiză: Numărul sigiliului vamal: Declarant: Document administrativ: Denumirea comercială a m) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 136842 of the official web service.
 - Ordin anaf nr. 615/2012: Anexa nr. 3 (2 la norme PROCES-VERBAL DE PRELEVARE Nr......../.......... Încheiat astăzi,......., la........, dată la care s-a procedat la prelevarea a 3 probe reprezentative în greutate netă totală de/volum net t) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 136842 of the official web service.
 - Ordin anaf nr. 615/2012: Anexa nr. 4 (3 la norme CERERE DE ANALIZĂ Nr.*1) pag. 1/2 I. Informații referitoare la biroul vamal: DRAOV*2) DJAOV/Birou vamal*2): Adresa: Persoană de contact: Cod birou: Telefon: Fax: E-mail: II. Informații refe) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 136842 of the official web service.
+- Ordin anaf nr. 615/2012: Anexa nr. 5 (4 la norme Biroul vamal............ LISTA DE EXPEDIȚIE A PROBELOR Nr....... data........) is part of the order and is published in its folder, anexa-5/ (paragraphs and tables), from document 136842 of the official web service.
 - Ordin anaf nr. 615/2012: Anexa nr. 6 (5 la norme AUTORITATEA NAȚIONALĂ A VĂMILOR DIRECȚIA DE AUTORIZĂRI ȘI TARIF VAMAL Laboratorul vamal central București, Str. Vulturilor nr. 2, sectorul 3 CERTIFICAT DE ANALIZĂ Nr. data: Exemplarul 1 și) is part of the order and is published in its folder, anexa-6/ (paragraphs), from document 136842 of the official web service.
-- Ordin anaf nr. 615/2012: Anexa nr. 5 (4 la norme Biroul vamal............ LISTA DE EXPEDIȚIE A PROBELOR Nr....... data........ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin anaf nr. 615/2012: the publisher's notes run into its text (*) Se completează în situaţiile în care prelevarea se face sub supraveghere vamală de către o altă persoană desemnată de) are not text.

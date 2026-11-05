@@ -2,7 +2,7 @@
 
 Ordin agricultura nr. 112/2005 · 1 versions, from 2005-03-27 (latest in force: 2005-03-27) · <https://legislatie.just.ro/Public/DetaliiDocument/59514>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (METODE COMUNITARE ȘI METODE STANDARD DE REFERINȚĂ pentru analiza băuturilor spirtoase ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -12,6 +12,8 @@ Ordin agricultura nr. 112/2005 · 1 versions, from 2005-03-27 (latest in force: 
 | Art. 4 | [art-004.md](art-004.md) | 0 |  |
 | Art. 5 | [art-005.md](art-005.md) | 0 |  |
 | Art. 6 | [art-006.md](art-006.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 
 Act id: `ordin-agricultura-112-2005` (tags `ordin-agricultura-112-2005/<day>`; `python tools/on.py <day> ordin-agricultura-112-2005`).
 
@@ -22,4 +24,4 @@ Act id: `ordin-agricultura-112-2005` (tags `ordin-agricultura-112-2005/<day>`; `
 - Ordin agricultura nr. 112/2005: the first version is the order as published in Monitorul Oficial nr. 167 of 25 February 2005 (document 59514 of the official web service), in force on 27 March 2005, the day it states for itself.
 - Ordin agricultura nr. 112/2005: the signatures and the place and date line after its last article are not article text.
 - Ordin agricultura nr. 112/2005: a joint order of Ministerul Agriculturii, Pădurilor și Dezvoltării Rurale nr. 112 din 14 February 2005; Ministerul Sănătății nr. 120 din 21 February 2005. It is published once, here, under the issuer its EMITENT block lists first; `ordin-sanatate-120-2005` name it too (data/paths.json aliases).
-- Ordin agricultura nr. 112/2005: Anexa nr. 1 (METODE COMUNITARE ȘI METODE STANDARD DE REFERINȚĂ pentru analiza băuturilor spirtoase ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin agricultura nr. 112/2005: Anexa nr. 1 (METODE COMUNITARE ȘI METODE STANDARD DE REFERINȚĂ pentru analiza băuturilor spirtoase) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 59514 of the official web service.

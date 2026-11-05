@@ -26,7 +26,7 @@
    "versions": [
     {
      "from": "2013-01-01",
-     "units": 38,
+     "units": 60,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143004",
      "sha256": "b1f6496951cef7766a92d74c91f0aa8ff0f1957b243c9c97351a1819b40fdd1c"
     }
@@ -101,7 +101,7 @@
    "versions": [
     {
      "from": "2013-01-01",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141400",
      "sha256": "0c9bdecb5a633c9345ee149ecca84d572ca858dd0f874d1f8b6557e08cbdc66c"
     }

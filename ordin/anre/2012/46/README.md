@@ -2,7 +2,7 @@
 
 Ordin anre nr. 46/2012 · 1 versions, from 2013-01-01 (latest in force: 2013-01-01) · <https://legislatie.just.ro/Public/DetaliiDocument/144167>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 4 (4 TARIFELE percepute de la operatori economici având activități în sectorul gazelor naturale 1. Tarifele percepute pentru acordarea autorizațiilor *Font 9* ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -19,6 +19,8 @@ Ordin anre nr. 46/2012 · 1 versions, from 2013-01-01 (latest in force: 2013-01-
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 | Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
 | Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
+| Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
+| Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
 | Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
 | Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
 
@@ -33,6 +35,6 @@ Act id: `ordin-anre-46-2012` (tags `ordin-anre-46-2012/<day>`; `python tools/on.
 - Ordin anre nr. 46/2012: Anexa nr. 1 (1 TARIFELE percepute de la operatori economici având activități în sectorul energiei electrice 1. Tarifele percepute pentru acordarea/modificarea autorizațiilor de înființare și a licențelor pentru ac) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 144167 of the official web service.
 - Ordin anre nr. 46/2012: Anexa nr. 2 (2 TARIFELE percepute pentru autorizarea auditorilor energetici, atestarea managerilor energetici, activități de evaluare și avizare de documente tehnico-economice 1. Tarife pentru autorizarea persoane) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 144167 of the official web service.
 - Ordin anre nr. 46/2012: Anexa nr. 3 (3 CONTRIBUȚII BĂNEȘTI percepute anual de Autoritatea Națională de Reglementare în Domeniul Energiei de la operatori economici având activități în sectorul energiei electrice 1. Titularii licențelor ac) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 144167 of the official web service.
+- Ordin anre nr. 46/2012: Anexa nr. 4 (4 TARIFELE percepute de la operatori economici având activități în sectorul gazelor naturale 1. Tarifele percepute pentru acordarea autorizațiilor *Font 9*) is part of the order and is published in its folder, anexa-4/ (paragraphs and tables), from document 144167 of the official web service.
 - Ordin anre nr. 46/2012: Anexa nr. 5 (5 TARIFELE ȘI CONTRIBUȚIILE percepute pentru desfășurarea activităților din domeniul gazelor naturale pe bază de licență Nr. crt. Activitatea Criteriul de fundamentare U.M. Tariful (lei/U.M.) 1. Furni) is part of the order and is published in its folder, anexa-5/ (paragraphs), from document 144167 of the official web service.
-- Ordin anre nr. 46/2012: Anexa nr. 4 (4 TARIFELE percepute de la operatori economici având activități în sectorul gazelor naturale 1. Tarifele percepute pentru acordarea autorizațiilor *Font 9* ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin anre nr. 46/2012: the publisher's notes run into its text (*) Valoarea tarifului de acordare a unei autorizaţii de înfiinţare sau licenţe este precizată în coloana 4 a tabelului n; **) Tariful este exprimat în lei pe grup dispecerizabil de producere a energiei electrice.) are not text.

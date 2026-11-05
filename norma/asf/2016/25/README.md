@@ -2,7 +2,7 @@
 
 Norma asf nr. 25/2016 · 1 versions, from 2016-05-20 (latest in force: 2016-05-20) · <https://legislatie.just.ro/Public/DetaliiDocument/178602>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 la normă EXTRAS DE CONT (confirmarea soldurilor aferente terților) *Font 8* ...): it is a table that the official text holds only flattened; Anexa nr. 2 (2 la normă LISTA DE INVENTARIERE *Font 7* ...): it is a table that the official text holds only flattened; Anexa nr. 3 (3 la normă REGISTRUL-INVENTAR la data de........... ┌────────┬─────────────┬─────────┬───────────┬────────────────────────────┐ │Nr. ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -52,6 +52,12 @@ Norma asf nr. 25/2016 · 1 versions, from 2016-05-20 (latest in force: 2016-05-2
 | Art. 44 | [art-044.md](art-044.md) | 0 |  |
 | Art. 45 | [art-045.md](art-045.md) | 0 |  |
 | Art. 46 | [art-046.md](art-046.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 
 Act id: `norma-asf-25-2016` (tags `norma-asf-25-2016/<day>`; `python tools/on.py <day> norma-asf-25-2016`).
 
@@ -61,6 +67,6 @@ Act id: `norma-asf-25-2016` (tags `norma-asf-25-2016/<day>`; `python tools/on.py
 - Norma asf nr. 25/2016: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Norma asf nr. 25/2016: the first version is the norm as published in Monitorul Oficial nr. 385 of 20 May 2016 (document 178602 of the official web service), in force on its day of publication, as it states.
 - Norma asf nr. 25/2016: the signatures and the place and date line after its last article are not article text.
-- Norma asf nr. 25/2016: Anexa nr. 1 (1 la normă EXTRAS DE CONT (confirmarea soldurilor aferente terților) *Font 8* ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma asf nr. 25/2016: Anexa nr. 2 (2 la normă LISTA DE INVENTARIERE *Font 7* ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma asf nr. 25/2016: Anexa nr. 3 (3 la normă REGISTRUL-INVENTAR la data de........... ┌────────┬─────────────┬─────────┬───────────┬────────────────────────────┐ │Nr. ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Norma asf nr. 25/2016: Anexa nr. 1 (1 la normă EXTRAS DE CONT (confirmarea soldurilor aferente terților) *Font 8*) is part of the norm and is published in its folder, anexa-1/ (paragraphs and tables), from document 178602 of the official web service.
+- Norma asf nr. 25/2016: Anexa nr. 2 (2 la normă LISTA DE INVENTARIERE *Font 7*) is part of the norm and is published in its folder, anexa-2/ (paragraphs and tables), from document 178602 of the official web service.
+- Norma asf nr. 25/2016: Anexa nr. 3 (3 la normă REGISTRUL-INVENTAR la data de...........) is part of the norm and is published in its folder, anexa-3/ (paragraphs and tables), from document 178602 of the official web service.

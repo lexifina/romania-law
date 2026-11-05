@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 3596/2011 · 1 versions, from 2012-02-01 (latest in force: 2012-02-01) · <https://legislatie.just.ro/Public/DetaliiDocument/134108>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌───────────────────────┬───────────────────────────────────────┬─────────────┐ │ Agenția │ DECLARAȚIE INFORMATIVĂ │ │ │ SIGLA Națională de │ PRIVIND ...): it is a table that the official text holds only flattened; Anexa nr. 2 (3 CONDIȚIILE ce trebuie respectate de către fișierul XML pentru depunerea electronică a formularului (394) "Declarație informativă privind livrările, ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (3 CONDIȚIILE ce trebuie respectate de către fișierul XML pentru depunerea electronică a formularului (394) "Declarație informativă privind livrările, ...): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -19,6 +19,8 @@ Ordin anaf nr. 3596/2011 · 1 versions, from 2012-02-01 (latest in force: 2012-0
 | Art. 11 | [art-011.md](art-011.md) | 0 |  |
 | Art. 12 | [art-012.md](art-012.md) | 0 |  |
 | Art. 13 | [art-013.md](art-013.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 | Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
 | Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 | Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
@@ -32,7 +34,7 @@ Act id: `ordin-anaf-3596-2011` (tags `ordin-anaf-3596-2011/<day>`; `python tools
 - Ordin anaf nr. 3596/2011: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin anaf nr. 3596/2011: the first version is the order as published in Monitorul Oficial nr. 927 of 28 December 2011 (document 134108 of the official web service), in force on 1 February 2012, the day it states for itself.
 - Ordin anaf nr. 3596/2011: the signatures and the place and date line after its last article are not article text.
+- Ordin anaf nr. 3596/2011: Anexa nr. 1 (1) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 134108 of the official web service.
 - Ordin anaf nr. 3596/2011: Anexa nr. 3 (4 PROCEDURA de gestiune a formularului (394) "Declarație informativă privind livrările/prestările și achizițiile efectuate pe teritoriul național", cod MFP 14.13.01.02/f 1. Declarația se depune până î) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 134108 of the official web service.
 - Ordin anaf nr. 3596/2011: Anexa nr. 4 (5 CARACTERISTICI de tipărire, modul de difuzare, de utilizare și păstrare ale formularului Denumirea formularului: "Declarație informativă privind livrările/prestările și achizițiile efectuate pe teri) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 134108 of the official web service.
-- Ordin anaf nr. 3596/2011: Anexa nr. 1 (1 ┌───────────────────────┬───────────────────────────────────────┬─────────────┐ │ Agenția │ DECLARAȚIE INFORMATIVĂ │ │ │ SIGLA Națională de │ PRIVIND ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin anaf nr. 3596/2011: Anexa nr. 2 (3 CONDIȚIILE ce trebuie respectate de către fișierul XML pentru depunerea electronică a formularului (394) "Declarație informativă privind livrările, ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

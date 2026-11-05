@@ -2,13 +2,15 @@
 
 Instrucțiuni finante nr. 175805/1994 · 1 versions, from 1994-10-10 (latest in force: 1994-10-10) · <https://legislatie.just.ro/Public/DetaliiDocument/5600>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. No in-force day is stated; dated by its publication in the Monitorul Oficial. Not included yet: Anexa nr. 2 (2 MINISTERUL INDUSTRIILOR CONT DE EXECUȚIE a Fondului special pentru dezvoltarea sistemului energetic la data de........ - mii lei - ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. No in-force day is stated; dated by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Text | [text.md](text.md) | 0 |  |
 | Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 
 Act id: `instructiuni-finante-175805-1994` (tags `instructiuni-finante-175805-1994/<day>`; `python tools/on.py <day> instructiuni-finante-175805-1994`).
 
@@ -19,4 +21,4 @@ Act id: `instructiuni-finante-175805-1994` (tags `instructiuni-finante-175805-19
 - Instrucțiuni finante nr. 175805/1994: the first version is the instructions as published in Monitorul Oficial nr. 287 of 10 October 1994 (document 5600 of the official web service), in force on its day of publication: no in-force day is stated, so it is dated by its publication in the Monitorul Oficial.
 - Instrucțiuni finante nr. 175805/1994: the signatures and the place and date line after its last article are not article text.
 - Instrucțiuni finante nr. 175805/1994: Anexa nr. 1 (1 MINISTERUL INDUSTRIILOR Regia Autonomă de Electricitate "Renel" NOTĂ DE FUNDAMENTARE privind sumele necesare de alocat pentru investiții din Fondul special pentru dezvoltarea sistemului energetic pe) is part of the instructions and is published in its folder, anexa-1/ (paragraphs), from document 5600 of the official web service.
-- Instrucțiuni finante nr. 175805/1994: Anexa nr. 2 (2 MINISTERUL INDUSTRIILOR CONT DE EXECUȚIE a Fondului special pentru dezvoltarea sistemului energetic la data de........ - mii lei - ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Instrucțiuni finante nr. 175805/1994: Anexa nr. 2 (2 MINISTERUL INDUSTRIILOR CONT DE EXECUȚIE a Fondului special pentru dezvoltarea sistemului energetic la data de........ - mii lei -) is part of the instructions and is published in its folder, anexa-2/ (paragraphs and tables), from document 5600 of the official web service.

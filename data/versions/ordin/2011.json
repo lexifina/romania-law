@@ -281,7 +281,7 @@
    "versions": [
     {
      "from": "2011-06-15",
-     "units": 10,
+     "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129336",
      "sha256": "1910e26db87ea38a6ec8af17e936bcda7c82b86a695b2710b08cdc9eafb87aa4"
     }
@@ -491,7 +491,7 @@
    "versions": [
     {
      "from": "2011-09-23",
-     "units": 10,
+     "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131669",
      "sha256": "a1cd399cc85cfc2520fc9f55fa17cda67a24b96c561fc9672cf1a7846824b694"
     }
@@ -566,7 +566,7 @@
    "versions": [
     {
      "from": "2011-10-14",
-     "units": 10,
+     "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132191",
      "sha256": "0ab8cff8640ab8c9cc9a9e20f607ed7967535e70cdce8cf83c42022def00f0d3"
     }
@@ -626,7 +626,7 @@
    "versions": [
     {
      "from": "2011-11-18",
-     "units": 10,
+     "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133009",
      "sha256": "b43dc6f17bb1386d7011ada214cd82d187b6521244e44c3e2d73c4fb65051ba5"
     }
@@ -656,7 +656,7 @@
    "versions": [
     {
      "from": "2012-02-01",
-     "units": 17,
+     "units": 19,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134108",
      "sha256": "d4a4f5d09067e85798feb91821a676aa6a962a2e382d6a319fa053224374a6dc"
     }
@@ -1713,6 +1713,396 @@
    ]
   },
   {
+   "slug": "ordin-ansvsa-110-2011",
+   "path": "ordin/ansvsa/2011/110",
+   "short": "Ordin ansvsa nr. 110/2011",
+   "title": "Ordinul nr. 110/2011 privind modificarea anexei la Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 92/2006 privind aprobarea Tarifelor de plată pentru acțiunile de prelevare de probe efectuate în vederea controlului oficial al alimentelor de origine nonanimală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133907",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133907",
+     "sha256": "897e6f1edb94af4df7773d282d33daae18beb72392d7e16a03dd208b5322fc35"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-112-2011",
+   "path": "ordin/ansvsa/2011/112",
+   "short": "Ordin ansvsa nr. 112/2011",
+   "title": "Ordinul nr. 112/2011 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 64/2007 pentru aprobarea Normei sanitare veterinare privind organizarea și desfășurarea activității de control oficial sanitar-veterinar efectuat de către personalul de specialitate în unitățile care produc alimente de origine animală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133908",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133908",
+     "sha256": "07ccb9b25687aefbd9a1343592611cdb9a60a00bfbb3a718e23be526e436a46b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-119-2011",
+   "path": "ordin/ansvsa/2011/119",
+   "short": "Ordin ansvsa nr. 119/2011",
+   "title": "Ordinul nr. 119/2011 pentru abrogarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 145/2005 privind aprobarea constituirii Unității veterinare operaționale Task Force pentru controlul și combaterea bolilor animale, precum și a Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 146/2005 privind aprobarea constituirii Centrului Național de Combatere a Bolilor și a centrelor locale de combatere a bolilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134180",
+   "versions": [
+    {
+     "from": "2011-12-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134180",
+     "sha256": "b0ba5d4313ca8cf8172ce84a87579c0c8b09f49f5a4449169f41460ca10df0bc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-12-2011",
+   "path": "ordin/ansvsa/2011/12",
+   "short": "Ordin ansvsa nr. 12/2011",
+   "title": "Ordinul nr. 12/2011 pentru modificarea art. 10 din Norma sanitară veterinară și pentru siguranța alimentelor privind stabilirea documentelor și evidențelor veterinare necesare în cadrul activității de neutralizare a deșeurilor de origine animală, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 80/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126897",
+   "versions": [
+    {
+     "from": "2011-03-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126897",
+     "sha256": "1f87f07a9648b631c3691312cb16a1226aaa3e929f6ff422f4ccf730cbf0702a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-14-2011",
+   "path": "ordin/ansvsa/2011/14",
+   "short": "Ordin ansvsa nr. 14/2011",
+   "title": "Ordinul nr. 14/2011 privind modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 39/2010 pentru aprobarea cerințelor tehnice care trebuie îndeplinite de mijloacele oficiale de identificare a bovinelor, suinelor, ovinelor și caprinelor, precum și pentru stabilirea condițiilor de aprobare a acestora pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127187",
+   "versions": [
+    {
+     "from": "2011-03-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127187",
+     "sha256": "82d3ac16c88fb7682cc4de9d3ff06ef040d00f2d43802b49850ed1bbf0c0d8f2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-17-2011",
+   "path": "ordin/ansvsa/2011/17",
+   "short": "Ordin ansvsa nr. 17/2011",
+   "title": "Ordinul nr. 17/2011 pentru aprobarea Normelor metodologice de aplicare a Programului acțiunilor de supraveghere, prevenire, control și eradicare a bolilor la animale, a celor transmisibile de la animale la om, protecția animalelor și protecția mediului, de identificare și înregistrare a bovinelor, suinelor, ovinelor și caprinelor pentru anul 2011, precum și a Normelor metodologice de aplicare a Programului de supraveghere și control în domeniul siguranței alimentelor pentru anul 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127488",
+   "versions": [
+    {
+     "from": "2011-04-06",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127488",
+     "sha256": "030f9f1ec53101456e1c46ac55c153f596c5658b9860a8048dd74579f32f03e6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-22-2011",
+   "path": "ordin/ansvsa/2011/22",
+   "short": "Ordin ansvsa nr. 22/2011",
+   "title": "Ordinul nr. 22/2011 pentru modificarea și completarea Normei sanitare veterinare privind Codul produselor medicinale veterinare, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 187/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128034",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128034",
+     "sha256": "0d38b4614307ec2de369fca904b22588f50d9021ff6c89ba2f94891918d80e94"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-26-2011",
+   "path": "ordin/ansvsa/2011/26",
+   "short": "Ordin ansvsa nr. 26/2011",
+   "title": "Ordinul nr. 26/2011 pentru modificarea și completarea Normelor metodologice de aplicare a Programului acțiunilor de supraveghere, prevenire, control și eradicare a bolilor la animale, a celor transmisibile de la animale la om, protecția animalelor și protecția mediului, de identificare și înregistrare a bovinelor, suinelor, ovinelor și caprinelor pentru anul 2011, aprobate prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 17/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129588",
+   "versions": [
+    {
+     "from": "2011-06-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129588",
+     "sha256": "850b637d4ebf97261361e4b91d047e6287ededd5f175887485e462ee1380c763"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-27-2011",
+   "path": "ordin/ansvsa/2011/27",
+   "short": "Ordin ansvsa nr. 27/2011",
+   "title": "Ordinul nr. 27/2011 privind aprobarea criteriilor microbiologice și de igienă care se aplică produselor alimentare, altele decât cele menționate în Regulamentul (CE) nr. 2.073/2005 al Comisiei din 15 noiembrie 2005 privind criteriile microbiologice pentru produsele alimentare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129504",
+   "versions": [
+    {
+     "from": "2011-07-02",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129504",
+     "sha256": "009ed26a9f8a330cfb40cdf53b62c0341e88f4e31c93a19d5d6b29cb317a42e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-28-2011",
+   "path": "ordin/ansvsa/2011/28",
+   "short": "Ordin ansvsa nr. 28/2011",
+   "title": "Ordinul nr. 28/2011 privind modificarea și completarea Normei sanitare veterinare pentru implementarea procesului de identificare și înregistrare a suinelor, ovinelor, caprinelor și bovinelor, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 40/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129856",
+   "versions": [
+    {
+     "from": "2011-07-06",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129856",
+     "sha256": "e2c2275e5be482ba9f5e74ead5e1cc7d26079a8d2998d3bab8d30d7c53a40e68"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-29-2011",
+   "path": "ordin/ansvsa/2011/29",
+   "short": "Ordin ansvsa nr. 29/2011",
+   "title": "Ordinul nr. 29/2011 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 39/2010 pentru aprobarea cerințelor tehnice care trebuie îndeplinite de mijloacele oficiale de identificare a bovinelor, suinelor, ovinelor și caprinelor, precum și pentru stabilirea condițiilor de aprobare a acestora pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129757",
+   "versions": [
+    {
+     "from": "2011-07-04",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129757",
+     "sha256": "c15537e8994594b485617a12b48b5f124e93d8b43640192e9aa51b54a9fd6db3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-31-2011",
+   "path": "ordin/ansvsa/2011/31",
+   "short": "Ordin ansvsa nr. 31/2011",
+   "title": "Ordinul nr. 31/2011 privind modificarea și completarea anexei nr. 1 la Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 17/2011 pentru aprobarea Normelor metodologice de aplicare a Programului acțiunilor de supraveghere, prevenire, control și eradicare a bolilor la animale, a celor transmisibile de la animale la om, protecția animalelor și protecția mediului, de identificare și înregistrare a bovinelor, suinelor, ovinelor și caprinelor pentru anul 2011, precum și a Normelor metodologice de aplicare a Programului de supraveghere și control în domeniul siguranței alimentelor pentru anul 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130066",
+   "versions": [
+    {
+     "from": "2011-07-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130066",
+     "sha256": "c2b4b6341382c5801aa2e6d36e72c20cec831c66449b35445bf540e7b745ea5d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-32-2011",
+   "path": "ordin/ansvsa/2011/32",
+   "short": "Ordin ansvsa nr. 32/2011",
+   "title": "Ordinul nr. 32/2011 pentru modificarea anexei nr. 27 la Norma sanitară veterinară privind procedura de înregistrare/autorizare sanitar-veterinară a unităților/centrelor de colectare/exploatațiilor de origine și a mijloacelor de transport din domeniul sănătății și al bunăstării animalelor, a unităților implicate în depozitarea și neutralizarea subproduselor de origine animală care nu sunt destinate consumului uman și a produselor procesate, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 16/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130924",
+   "versions": [
+    {
+     "from": "2011-08-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130924",
+     "sha256": "7e713e531df5b3bcc5a77e9f2493f8232aff2a235c42788b8af2620c1f04d1b8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-33-2011",
+   "path": "ordin/ansvsa/2011/33",
+   "short": "Ordin ansvsa nr. 33/2011",
+   "title": "Ordinul nr. 33/2011 pentru modificarea anexei nr. 8 la Norma sanitară veterinară privind procedura de autorizare sanitară veterinară a unităților care produc, procesează, depozitează, transportă și/sau distribuie produse de origine animală, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 57/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131371",
+   "versions": [
+    {
+     "from": "2011-09-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131371",
+     "sha256": "6ce0ea36bdb7b0d83a69beeb1fa707a5f76fa85ef579a9959454c937fede7330"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-35-2011",
+   "path": "ordin/ansvsa/2011/35",
+   "short": "Ordin ansvsa nr. 35/2011",
+   "title": "Ordinul nr. 35/2011 privind aprobarea Condițiilor minime de funcționare a abatoarelor de capacitate mică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130865",
+   "versions": [
+    {
+     "from": "2011-08-18",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130865",
+     "sha256": "f5ca82690fddd0c4f8bb1382d1609e23a0114d449a38c7988c187f1f06e34a68"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-4-2011",
+   "path": "ordin/ansvsa/2011/4",
+   "short": "Ordin ansvsa nr. 4/2011",
+   "title": "Ordinul nr. 4/2011 privind modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 39/2010 pentru aprobarea cerințelor tehnice care trebuie îndeplinite de mijloacele oficiale de identificare a bovinelor, suinelor, ovinelor și caprinelor, precum și pentru stabilirea condițiilor de aprobare a acestora pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126221",
+   "versions": [
+    {
+     "from": "2011-02-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126221",
+     "sha256": "9f0a347ea8b590f0016f8ee151e4f0c2d15bd0bc57f08f704205b9b361015bb0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-45-2011",
+   "path": "ordin/ansvsa/2011/45",
+   "short": "Ordin ansvsa nr. 45/2011",
+   "title": "Ordinul nr. 45/2011 privind modificarea și completarea anexei la Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 201/2007 privind Procedura de eliberare a Certificatului de competență profesională pentru conducătorii și însoțitorii de pe vehiculele rutiere care transportă animale vii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132107",
+   "versions": [
+    {
+     "from": "2011-10-12",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132107",
+     "sha256": "0377ebff54d84769f0514abaa4f6387509f24d7301319907f1c624290b41f80a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-48-2011",
+   "path": "ordin/ansvsa/2011/48",
+   "short": "Ordin ansvsa nr. 48/2011",
+   "title": "Ordinul nr. 48/2011 privind modificarea și completarea anexei nr. 1 la Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 17/2011 pentru aprobarea Normelor metodologice de aplicare a Programului acțiunilor de supraveghere, prevenire, control și eradicare a bolilor la animale, a celor transmisibile de la animale la om, protecția animalelor și protecția mediului, de identificare și înregistrare a bovinelor, suinelor, ovinelor și caprinelor pentru anul 2011, precum și a Normelor metodologice de aplicare a Programului de supraveghere și control în domeniul siguranței alimentelor pentru anul 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132126",
+   "versions": [
+    {
+     "from": "2011-10-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132126",
+     "sha256": "725c12338f8312c7fb2587dca21412a2b7e585b9ace872be06a7ad5f27f66123"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-49-2011",
+   "path": "ordin/ansvsa/2011/49",
+   "short": "Ordin ansvsa nr. 49/2011",
+   "title": "Ordinul nr. 49/2011 pentru aprobarea Normei sanitare veterinare privind condițiile sanitar-veterinare pentru introducerea pe teritoriul României a animalelor de companie provenite din țări terțe în scopul circulației necomerciale și procedura de control sanitar-veterinar al acestor animale la punctele de intrare a călătorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132173",
+   "versions": [
+    {
+     "from": "2011-10-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132173",
+     "sha256": "325f26cc9f71d6c78cd41abe3ad2fa3ddb6b40e95b2dc54e94d9f3f5be1494ac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-74-2011",
+   "path": "ordin/ansvsa/2011/74",
+   "short": "Ordin ansvsa nr. 74/2011",
+   "title": "Ordinul nr. 74/2011 pentru aprobarea Normei sanitare veterinare privind substanțele nedorite din produsele pentru furaje",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133608",
+   "versions": [
+    {
+     "from": "2011-12-12",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133608",
+     "sha256": "7a175cc6f78683b2d3fe61c747fddae27e4588fde6b0e817c2e5bc4807860c87"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-76-2011",
+   "path": "ordin/ansvsa/2011/76",
+   "short": "Ordin ansvsa nr. 76/2011",
+   "title": "Ordinul nr. 76/2011 privind abrogarea unor acte normative din domeniul sanitar-veterinar și pentru siguranța alimentelor referitoare la materiile prime furajere, furajele combinate, furajele destinate unor scopuri nutriționale speciale și produsele utilizate pentru nutriția animalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132646",
+   "versions": [
+    {
+     "from": "2011-11-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132646",
+     "sha256": "4cde4956b5008b0da84ee420674ab62f0b013b87561c8595a1b443d86cfe0213"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-77-2011",
+   "path": "ordin/ansvsa/2011/77",
+   "short": "Ordin ansvsa nr. 77/2011",
+   "title": "Ordinul nr. 77/2011 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 24/2010 privind aprobarea listelor cuprinzând informațiile secrete de serviciu și informațiile de interes public",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132677",
+   "versions": [
+    {
+     "from": "2011-11-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132677",
+     "sha256": "302b295c7e2d26300c48df73cc8e2d1b8a6530e5afa501c926dbe4e7ef04fda2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-87-2011",
+   "path": "ordin/ansvsa/2011/87",
+   "short": "Ordin ansvsa nr. 87/2011",
+   "title": "Ordinul nr. 87/2011 privind modificarea anexei nr. 4 la Norma sanitară veterinară și pentru siguranța alimentelor privind procedura de înregistrare sanitară veterinară și pentru siguranța alimentelor a activităților de obținere și de vânzare directă și/sau cu amănuntul a produselor alimentare de origine animală sau nonanimală, precum și a activităților de producție, procesare, depozitare, transport și comercializare a produselor alimentare de origine nonanimală, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 111/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133094",
+   "versions": [
+    {
+     "from": "2011-11-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133094",
+     "sha256": "19f0e22f65541af72fc64c48a26eb6e65bf1bcd7102135a98222a61fab7ebd95"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-89-2011",
+   "path": "ordin/ansvsa/2011/89",
+   "short": "Ordin ansvsa nr. 89/2011",
+   "title": "Ordinul nr. 89/2011 pentru modificarea anexei nr. 2 la Norma sanitară veterinară privind procedura de autorizare/înregistrare sanitară veterinară a unităților ce desfășoară activități în domeniul hranei pentru animale de fermă și a mijloacelor de transport al hranei pentru animale de fermă, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 109/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133109",
+   "versions": [
+    {
+     "from": "2011-11-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133109",
+     "sha256": "4f2cef27c44eb186f52dcd16c49077bef3d46f367fc888aabbe161a176090c88"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-90-2011",
+   "path": "ordin/ansvsa/2011/90",
+   "short": "Ordin ansvsa nr. 90/2011",
+   "title": "Ordinul nr. 90/2011 pentru modificarea anexelor nr. 7, 8 și 10 la Norma sanitară veterinară privind procedura de introducere pe piață și de utilizare a reagenților și a seturilor de diagnostic de uz veterinar, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 81/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133108",
+   "versions": [
+    {
+     "from": "2011-11-22",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133108",
+     "sha256": "4425d3ba83b56948fb44f7c24a3d0699f836f3a60882a8642d3372a9eb67a643"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-91-2011",
+   "path": "ordin/ansvsa/2011/91",
+   "short": "Ordin ansvsa nr. 91/2011",
+   "title": "Ordinul nr. 91/2011 privind modificarea anexei nr. 2 la Norma sanitară veterinară și pentru siguranța alimentelor privind autorizarea laboratoarelor supuse controlului sanitar-veterinar și pentru siguranța alimentelor, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 48/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133089",
+   "versions": [
+    {
+     "from": "2011-11-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133089",
+     "sha256": "2afaf1ec970dd30f9bc2dc3317a258c70b7d74f0b708aaca01a6f81049da1ea1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aparare-10216-2011",
    "path": "ordin/aparare/2011/10216",
    "short": "Ordin aparare nr. 10216/2011",
@@ -1931,7 +2321,7 @@
    "versions": [
     {
      "from": "2012-01-01",
-     "units": 9,
+     "units": 21,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133068",
      "sha256": "e8787a2e30adbfaadf7da2d313f21eab20f50a685086a64119bc9a7eab664fee"
     }
@@ -2036,7 +2426,7 @@
    "versions": [
     {
      "from": "2011-06-15",
-     "units": 4,
+     "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129314",
      "sha256": "e2e1e99b45f3ff3ebde8fa5ffae17deda35a2e317ad270cd001f891629a1fe9a"
     }
@@ -2246,7 +2636,7 @@
    "versions": [
     {
      "from": "2011-06-01",
-     "units": 8,
+     "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129011",
      "sha256": "6bda5fdc65d99f037310b56874eb7c074ccaf98b283e6489d5f442cda6302d71"
     }
@@ -2261,7 +2651,7 @@
    "versions": [
     {
      "from": "2011-06-30",
-     "units": 51,
+     "units": 57,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129706",
      "sha256": "fc472d605aba95915197bcd6cb2ce69dabae1fbaefbe781d27009c22462b81a4"
     }
@@ -4773,6 +5163,21 @@
    ]
   },
   {
+   "slug": "ordin-guvern-218-2011",
+   "path": "ordin/guvern/2011/218",
+   "short": "Ordin guvern nr. 218/2011",
+   "title": "Ordinul nr. 218/2011 privind aprobarea Criteriilor de evaluare a performanțelor profesionale individuale pentru personalul contractual din cadrul Secretariatului General al Guvernului și al structurilor fără personalitate juridică din cadrul aparatului de lucru al Guvernului care se finanțează prin bugetul Secretariatului General al Guvernului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128914",
+   "versions": [
+    {
+     "from": "2011-05-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128914",
+     "sha256": "73ba226db74f8eead67ce29483ed6b42fb78071a47d4a3f7cb20d0536f8ddcf7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-10-2011",
    "path": "ordin/interne/2011/10",
    "short": "Ordin interne nr. 10/2011",
@@ -6423,6 +6828,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1032-2011",
+   "path": "ordin/mediu/2011/1032",
+   "short": "Ordin mediu nr. 1032/2011",
+   "title": "Ordinul nr. 1.032/2011 privind modificarea Ordinului ministrului mediului și gospodăririi apelor nr. 578/2006 pentru aprobarea Metodologiei de calcul al contribuțiilor și taxelor datorate la Fondul pentru mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126977",
+   "versions": [
+    {
+     "from": "2011-03-22",
+     "units": 73,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126977",
+     "sha256": "b569f1380753a1e7fae1306f93ffd0e3fcf1fcc1f504a64b3d423b95427ddc61"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1073-2011",
    "path": "ordin/mediu/2011/1073",
    "short": "Ordin mediu nr. 1073/2011",
@@ -6543,6 +6963,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1431-2011",
+   "path": "ordin/mediu/2011/1431",
+   "short": "Ordin mediu nr. 1431/2011",
+   "title": "Ordinul nr. 1.431/2011 privind modificarea și completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 219/2008 pentru aprobarea modelului-cadru al contractului de gestionare a faunei cinegetice de pe suprafața fondurilor de vânătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128786",
+   "versions": [
+    {
+     "from": "2011-05-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128786",
+     "sha256": "36a9d480dd8e9d899c9ea99b52c1060bc51cfb73eeb80c552fd950a40366669f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1441-2011",
    "path": "ordin/mediu/2011/1441",
    "short": "Ordin mediu nr. 1441/2011",
@@ -6554,6 +6989,36 @@
      "units": 19,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128952",
      "sha256": "cf68f8740331f5a43fdddd202964f33ce848cad7d28fab0f10bfd2c2d35aa17a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1460-2011",
+   "path": "ordin/mediu/2011/1460",
+   "short": "Ordin mediu nr. 1460/2011",
+   "title": "Ordinul nr. 1.460/2011 privind modificarea și completarea Regulamentului de vânzare a masei lemnoase care se recoltează anual din fondul forestier proprietate publică a statului administrat de Regia Națională a Pădurilor - Romsilva, aprobat prin Ordinul ministrului mediului și pădurilor nr. 1.898/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128904",
+   "versions": [
+    {
+     "from": "2011-05-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128904",
+     "sha256": "5732f62a488698350375460139a7e7d7cade6179326da062a96884d21f152ff0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1461-2011",
+   "path": "ordin/mediu/2011/1461",
+   "short": "Ordin mediu nr. 1461/2011",
+   "title": "Ordinul nr. 1.461/2011 pentru completarea art. 1 din Normele metodologice referitoare la criteriile și modalitățile practice de aplicare a prevederilor Legii nr. 192/2010 privind trecerea unor drumuri forestiere din domeniul public al statului și din administrarea Regiei Naționale a Pădurilor - Romsilva în domeniul public al unor unități administrativ-teritoriale și în administrarea consiliilor locale ale acestora, aprobate prin Ordinul ministrului mediului și pădurilor nr. 1.770/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129086",
+   "versions": [
+    {
+     "from": "2011-06-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129086",
+     "sha256": "69658eba18e6fb085b6843806fe5840429a3876ee541a6d03e158fedf46186c5"
     }
    ]
   },
@@ -6584,6 +7049,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129556",
      "sha256": "a79d808afc18e316ae52c044551437c1e5f78fb9d1e63a8f692207ef56f1fc0c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1538-2011",
+   "path": "ordin/mediu/2011/1538",
+   "short": "Ordin mediu nr. 1538/2011",
+   "title": "Ordinul nr. 1.538/2011 pentru modificarea Ghidului de finanțare a Programului de îmbunătățire a calității mediului prin împădurirea terenurilor agricole degradate, aprobat prin Ordinul ministrului mediului și pădurilor nr. 989/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129469",
+   "versions": [
+    {
+     "from": "2011-06-21",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129469",
+     "sha256": "2956a1804ba5ace94d128ca91dcde288e34a70253da74ec86a07f676221b8ac7"
     }
    ]
   },
@@ -6644,6 +7124,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129673",
      "sha256": "511e4651925cfba2eb2af04bc7285b4afb3733f37368f0ff4498058eafda3c72"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1836-2011",
+   "path": "ordin/mediu/2011/1836",
+   "short": "Ordin mediu nr. 1836/2011",
+   "title": "Ordinul nr. 1.836/2011 privind completarea art. 26 din Ghidul de finanțare a Programului de realizare a pistelor pentru bicicliști, aprobat prin Ordinul ministrului mediului și pădurilor nr. 1.730/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129872",
+   "versions": [
+    {
+     "from": "2011-07-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129872",
+     "sha256": "f6c783df7dda8d753fed7edb4342b1f2f7edd51c7a0ccacd0d5ae8ea12382d9f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1851-2011",
+   "path": "ordin/mediu/2011/1851",
+   "short": "Ordin mediu nr. 1851/2011",
+   "title": "Ordinul nr. 1.851/2011 pentru modificarea și completarea Regulamentului privind forma și modul de utilizare a dispozitivelor speciale de marcat, precum și modul de marcare a arborilor sau a unor loturi de arbori, aprobat prin Ordinul ministrului mediului și pădurilor nr. 1.346/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130115",
+   "versions": [
+    {
+     "from": "2011-07-15",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130115",
+     "sha256": "041c5dc458a21ea6fe43af0217b41a14fc60856dab178a3fc30508b92204b532"
     }
    ]
   },
@@ -6723,6 +7233,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-2073-2011",
+   "path": "ordin/mediu/2011/2073",
+   "short": "Ordin mediu nr. 2073/2011",
+   "title": "Ordinul nr. 2.073/2011 pentru modificarea și completarea Ghidului de finanțare a Programului de stimulare a înnoirii Parcului auto național, aprobat prin Ordinul ministrului mediului și pădurilor nr. 772/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131122",
+   "versions": [
+    {
+     "from": "2011-08-30",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131122",
+     "sha256": "091a673fd0aa8f822d3074b3112f0e5584285f88be7806c78da228cba12b7161"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-2086-2011",
    "path": "ordin/mediu/2011/2086",
    "short": "Ordin mediu nr. 2086/2011",
@@ -6749,6 +7274,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125524",
      "sha256": "da98560135a8918dc449a2ab24bc6af1af725a4c74bce3fa8a8420501f9d9df0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2104-2011",
+   "path": "ordin/mediu/2011/2104",
+   "short": "Ordin mediu nr. 2104/2011",
+   "title": "Ordinul nr. 2.104/2011 pentru modificarea și completarea Ordinului ministrului mediului și pădurilor nr. 405/2010 privind constituirea și funcționarea Comisiei de analiză tehnică la nivel central",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131082",
+   "versions": [
+    {
+     "from": "2011-08-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131082",
+     "sha256": "3f8bd54e90a8723160807dfcd20b8f86eefeb84126815b83fcbd5a8a4f8f2ebe"
     }
    ]
   },
@@ -6783,6 +7323,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-2266-2011",
+   "path": "ordin/mediu/2011/2266",
+   "short": "Ordin mediu nr. 2266/2011",
+   "title": "Ordinul nr. 2.266/2011 pentru modificarea anexelor nr. 1, 3 și 4 la Ordinul ministrului mediului și pădurilor nr. 1.384/2011 privind aprobarea cotelor de recoltă pentru speciile de faună de interes cinegetic, la care vânarea este permisă, pentru sezonul de vânătoare 15 mai 2011-14 mai 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131978",
+   "versions": [
+    {
+     "from": "2011-10-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131978",
+     "sha256": "5732a7a9367bc51b6400615af19a30c3fcd4d54004092f20f5d7a7da7129175d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-2278-2011",
    "path": "ordin/mediu/2011/2278",
    "short": "Ordin mediu nr. 2278/2011",
@@ -6813,6 +7368,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-2387-2011",
+   "path": "ordin/mediu/2011/2387",
+   "short": "Ordin mediu nr. 2387/2011",
+   "title": "Ordinul nr. 2.387/2011 pentru modificarea Ordinului ministrului mediului și dezvoltării durabile nr. 1.964/2007 privind instituirea regimului de arie naturală protejată a siturilor de importanță comunitară, ca parte integrantă a rețelei ecologice europene Natura 2000 în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133254",
+   "versions": [
+    {
+     "from": "2011-11-29",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133254",
+     "sha256": "0177e8d36fef3a92851912080701763c8abd50b0d8c1a4f7f0f468adb3ce0fdc"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-2682-2011",
    "path": "ordin/mediu/2011/2682",
    "short": "Ordin mediu nr. 2682/2011",
@@ -6824,6 +7394,21 @@
      "units": 20,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133191",
      "sha256": "0ea3b2195399d40e952fae676a33e6ce356380a24f21a4ac055a35cf6a088e19"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2689-2011",
+   "path": "ordin/mediu/2011/2689",
+   "short": "Ordin mediu nr. 2689/2011",
+   "title": "Ordinul nr. 2.689/2011 pentru modificarea și completarea Ghidului de finanțare a Programului vizând protecția resurselor de apă, sisteme integrate de alimentare cu apă, stații de tratare, canalizare și stații de epurare, aprobat prin Ordinul ministrului mediului și pădurilor nr. 1.450/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133145",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133145",
+     "sha256": "ef60ffb816ac4aa4f11e19542f45f19d5ebe41dfd14d3147cc12d323108ee104"
     }
    ]
   },
@@ -6888,6 +7473,51 @@
    ]
   },
   {
+   "slug": "ordin-mediu-2772-2011",
+   "path": "ordin/mediu/2011/2772",
+   "short": "Ordin mediu nr. 2772/2011",
+   "title": "Ordinul nr. 2.772/2011 pentru modificarea pozițiilor nr. 1757, 1763, 1772 și \"TOTAL ȚARĂ\" din anexa nr. 2 la Ordinul ministrului mediului și pădurilor nr. 1.384/2011 privind aprobarea cotelor de recoltă pentru speciile de faună de interes cinegetic, la care vânarea este permisă, pentru sezonul de vânătoare 15 mai 2011-14 mai 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133386",
+   "versions": [
+    {
+     "from": "2011-12-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133386",
+     "sha256": "89bc7ac4ddeee9de0196bf752d00ee8cc5947f28c9c8587c16d14dd000e201e8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2787-2011",
+   "path": "ordin/mediu/2011/2787",
+   "short": "Ordin mediu nr. 2787/2011",
+   "title": "Ordinul nr. 2.787/2011 pentru modificarea anexelor nr. 1-5 la Ordinul ministrului agriculturii, alimentației și pădurilor nr. 193/2002 privind reactualizarea delimitării fondului cinegetic al României în fonduri de vânătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133387",
+   "versions": [
+    {
+     "from": "2011-12-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133387",
+     "sha256": "d72794dcf0b3bbe8cba9e63d916917fad5f6d5befd1bcfd57674ca28e1bf57a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2890-2011",
+   "path": "ordin/mediu/2011/2890",
+   "short": "Ordin mediu nr. 2890/2011",
+   "title": "Ordinul nr. 2.890/2011 pentru modificarea pozițiilor nr. 734, 742, 1131, 1132, 1141, 1455, 1465, 2061, 2093, 2095, 2115 și \"Total țară\" din anexa nr. 2 la Ordinul ministrului mediului și pădurilor nr. 1.384/2011 privind aprobarea cotelor de recoltă pentru speciile de faună de interes cinegetic, la care vânarea este permisă, pentru sezonul de vânătoare 15 mai 2011-14 mai 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134093",
+   "versions": [
+    {
+     "from": "2011-12-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134093",
+     "sha256": "641a4704716cc2389845c74eb597f6978e88e29900b36d58ff098a6528a332d3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-756-2011",
    "path": "ordin/mediu/2011/756",
    "short": "Ordin mediu nr. 756/2011",
@@ -6918,6 +7548,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-88-2011",
+   "path": "ordin/mediu/2011/88",
+   "short": "Ordin mediu nr. 88/2011",
+   "title": "Ordinul nr. 88/2011 privind modificarea și completarea Ordinului ministrului mediului și gospodăririi apelor nr. 658/2006 pentru aprobarea modelelor formularelor utilizate în domeniul colectării creanțelor la Fondul pentru mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125604",
+   "versions": [
+    {
+     "from": "2011-01-26",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125604",
+     "sha256": "0cd4e4dbc08db94caaf8450992ed8918c9aad64373ba7b32d78d7337931d8135"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-883-2011",
    "path": "ordin/mediu/2011/883",
    "short": "Ordin mediu nr. 883/2011",
@@ -6929,6 +7574,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126418",
      "sha256": "f3eebb40552f5aeee028825109c1acb9547c8bf8aef0478e2190d75f4bed1fcc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-89-2011",
+   "path": "ordin/mediu/2011/89",
+   "short": "Ordin mediu nr. 89/2011",
+   "title": "Ordinul nr. 89/2011 pentru modificarea art. 14 alin. (5) din Regulamentul de vânzare a masei lemnoase care se recoltează anual din fondul forestier proprietate publică a statului administrat de Regia Națională a Pădurilor - Romsilva, aprobat prin Ordinul ministrului mediului și pădurilor nr. 1.898/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125489",
+   "versions": [
+    {
+     "from": "2011-01-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125489",
+     "sha256": "ddf3710e7da28a59748add16ea5b566d64f9b358df0a00030b1c982c5f58b276"
     }
    ]
   },
@@ -10424,6 +11084,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134102",
      "sha256": "a3439958131b97da8879fcf27cf2c611c6f630aa5a4a331ed15c7bd580ba9471"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-90-2011",
+   "path": "ordin/vama/2011/90",
+   "short": "Ordin vama nr. 90/2011",
+   "title": "Ordinul nr. 90/2011 pentru aprobarea Instrucțiunilor privind accesul operatorilor economici la aplicația EMCS-RO STOCURI pentru depunerea online a declarațiilor privind situația achizițiilor și livrărilor de produse accizabile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125710",
+   "versions": [
+    {
+     "from": "2011-01-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125710",
+     "sha256": "c559dcd713b3d4dce7bbb6c7f80025fd17eb0557abcec2a693c3330bfc146e40"
     }
    ]
   }

@@ -2,7 +2,7 @@
 
 Ordin anre nr. 130/2008 · 1 versions, from 2009-01-01 (latest in force: 2009-01-01) · <https://legislatie.just.ro/Public/DetaliiDocument/100688>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (TARIFE SPECIFICE pentru serviciul de distribuție a energiei electrice Tarifele nu conțin taxa pe valoarea adăugată. Tabelul nr. 1 Operator principal de ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -10,6 +10,8 @@ Ordin anre nr. 130/2008 · 1 versions, from 2009-01-01 (latest in force: 2009-01
 | Art. 2 | [art-002.md](art-002.md) | 0 |  |
 | Art. 3 | [art-003.md](art-003.md) | 0 |  |
 | Art. 4 | [art-004.md](art-004.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 
 Act id: `ordin-anre-130-2008` (tags `ordin-anre-130-2008/<day>`; `python tools/on.py <day> ordin-anre-130-2008`).
 
@@ -19,4 +21,4 @@ Act id: `ordin-anre-130-2008` (tags `ordin-anre-130-2008/<day>`; `python tools/o
 - Ordin anre nr. 130/2008: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin anre nr. 130/2008: the first version is the order as published in Monitorul Oficial nr. 864 of 22 December 2008 (document 100688 of the official web service), in force on 1 January 2009, the day it states for itself.
 - Ordin anre nr. 130/2008: the signatures and the place and date line after its last article are not article text.
-- Ordin anre nr. 130/2008: Anexa nr. 1 (TARIFE SPECIFICE pentru serviciul de distribuție a energiei electrice Tarifele nu conțin taxa pe valoarea adăugată. Tabelul nr. 1 Operator principal de ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anre nr. 130/2008: Anexa nr. 1 (TARIFE SPECIFICE pentru serviciul de distribuție a energiei electrice Tarifele nu conțin taxa pe valoarea adăugată. Tabelul nr. 1 Operator principal de distribuție Nivel de tensiune Tarif specific (le) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 100688 of the official web service.

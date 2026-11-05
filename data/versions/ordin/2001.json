@@ -521,7 +521,7 @@
    "versions": [
     {
      "from": "2001-10-08",
-     "units": 5,
+     "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31074",
      "sha256": "33738161bf5133cf24f8e66a982af9eb7088e4e7db851215a0a74f884225854d"
     }
@@ -4053,6 +4053,21 @@
    ]
   },
   {
+   "slug": "ordin-guvern-317-2001",
+   "path": "ordin/guvern/2001/317",
+   "short": "Ordin guvern nr. 317/2001",
+   "title": "Ordinul nr. 317/2001 pentru aprobarea Normelor metodologice privind modul de gestionare a sumelor constituite din cota de 1% plătită de contribuabili potrivit prevederilor art. 2 alin. (1) lit. a) din Ordonanța de urgență a Guvernului nr. 95/2001 privind constituirea și utilizarea Fondului România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30271",
+   "versions": [
+    {
+     "from": "2001-08-27",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30271",
+     "sha256": "09e7dd4c24a408a196cca59f44132475def2adaf2bcd51b7c48fd27e3ec76dc9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ins-1453-2001",
    "path": "ordin/ins/2001/1453",
    "short": "Ordin ins nr. 1453/2001",
@@ -4338,6 +4353,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1100-2001",
+   "path": "ordin/mediu/2001/1100",
+   "short": "Ordin mediu nr. 1100/2001",
+   "title": "Ordinul nr. 1.100/2001 privind modificarea și completarea Ordinului ministrului apelor și protecției mediului nr. 706/2001 pentru aprobarea Regulamentului privind organizarea activității de certificare a unităților specializate în elaborarea de studii, proiecte, în execuție, consultanța în domeniul gospodăririi apelor și documentații tehnice pentru obținerea avizelor și a autorizațiilor de gospodărire a apelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33797",
+   "versions": [
+    {
+     "from": "2002-01-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33797",
+     "sha256": "f7663b9885771ee044c87829e40a2583edd4114af21eb5c78942710c60ed4cf1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-115-2001",
    "path": "ordin/mediu/2001/115",
    "short": "Ordin mediu nr. 115/2001",
@@ -4349,6 +4379,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26745",
      "sha256": "f2f1d59f8e93c78b525bd2f39859b15ac67bf6f649c744f5753b9d6e56ea98f6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-325-2001",
+   "path": "ordin/mediu/2001/325",
+   "short": "Ordin mediu nr. 325/2001",
+   "title": "Ordinul nr. 325/2001 privind aprobarea Instrucțiunilor tehnice pentru aplicarea prevederilor Hotărârii Guvernului nr. 472/2000 privind unele măsuri de protecție a calității resurselor de apa - NTPA 012 și pentru modificarea Ordinului ministrului mediului nr. 242/1990",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27544",
+   "versions": [
+    {
+     "from": "2001-03-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27544",
+     "sha256": "4f533695d2d97c562556b2fa243792ae60243e79c707e9756fe1931656e4d9eb"
     }
    ]
   },

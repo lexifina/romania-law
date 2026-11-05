@@ -2,7 +2,7 @@
 
 Norma asf nr. 20/2017 · 1 versions, from 2017-08-01 (latest in force: 2017-08-01) · <https://legislatie.just.ro/Public/DetaliiDocument/191950>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (PRIME DE ASIGURARE RCA ┌────┬─────────────────────────────────────────────┬──────────────────────────────────────┐ │Nr. │ │ Trimestrul de raportare..... │ ...): it is a table that the official text holds only flattened; Anexa nr. 2 (DESPĂGUBIRI RCA a) Despăgubiri pentru accidente produse în România: ...): it is a table that the official text holds only flattened; Anexa nr. 3 (Cheltuieli pentru asigurarea RCA, altele decât cu despăgubirile - lei - ┌────┬───────────────────────────────────────────────────────────────┬────────┐ │ Nr.│ ...): it is a table that the official text holds only flattened; Anexa nr. 4 (Despăgubiri pentru vătămări corporale și deces a) Despăgubiri pentru vătămări corporale și deces pentru accidente produse în România ...): it is a table that the official text holds only flattened; Anexa nr. 5 (Tabel cu coeficienții aferenți claselor de bonus-malus ┌─────────────────┬───────────────────────────────────────────────┐ │Clasa bonus-malus│Coeficient ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -54,8 +54,18 @@ Norma asf nr. 20/2017 · 1 versions, from 2017-08-01 (latest in force: 2017-08-0
 | Art. 46 | [art-046.md](art-046.md) | 0 |  |
 | Art. 47 | [art-047.md](art-047.md) | 0 |  |
 | Art. 48 | [art-048.md](art-048.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 | Anexa nr. 10 (what it is) | [anexa-10/README.md](anexa-10/README.md) | 0 |  |
 | Anexa nr. 10 | [anexa-10/text.md](anexa-10/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
+| Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
+| Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
+| Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
+| Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
 | Anexa nr. 6 (what it is) | [anexa-6/README.md](anexa-6/README.md) | 0 |  |
 | Anexa nr. 6 | [anexa-6/text.md](anexa-6/text.md) | 0 |  |
 | Anexa nr. 7 (what it is) | [anexa-7/README.md](anexa-7/README.md) | 0 |  |
@@ -73,13 +83,13 @@ Act id: `norma-asf-20-2017` (tags `norma-asf-20-2017/<day>`; `python tools/on.py
 - Norma asf nr. 20/2017: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Norma asf nr. 20/2017: the first version is the norm as published in Monitorul Oficial nr. 624 of 1 August 2017 (document 191950 of the official web service), in force on its day of publication, as it states.
 - Norma asf nr. 20/2017: the signatures and the place and date line after its last article are not article text.
+- Norma asf nr. 20/2017: Anexa nr. 1 (PRIME DE ASIGURARE RCA) is part of the norm and is published in its folder, anexa-1/ (paragraphs and tables), from document 191950 of the official web service.
+- Norma asf nr. 20/2017: Anexa nr. 2 (DESPĂGUBIRI RCA a) Despăgubiri pentru accidente produse în România:) is part of the norm and is published in its folder, anexa-2/ (paragraphs and tables), from document 191950 of the official web service.
+- Norma asf nr. 20/2017: Anexa nr. 3 (Cheltuieli pentru asigurarea RCA, altele decât cu despăgubirile - lei -) is part of the norm and is published in its folder, anexa-3/ (paragraphs and tables), from document 191950 of the official web service.
+- Norma asf nr. 20/2017: Anexa nr. 4 (Despăgubiri pentru vătămări corporale și deces a) Despăgubiri pentru vătămări corporale și deces pentru accidente produse în România) is part of the norm and is published in its folder, anexa-4/ (paragraphs and tables), from document 191950 of the official web service.
+- Norma asf nr. 20/2017: Anexa nr. 5 (Tabel cu coeficienții aferenți claselor de bonus-malus) is part of the norm and is published in its folder, anexa-5/ (paragraphs and tables), from document 191950 of the official web service.
 - Norma asf nr. 20/2017: Anexa nr. 6 (Anexa nr. 6) is part of the norm and is published in its folder, anexa-6/ (paragraphs), from document 191950 of the official web service.
 - Norma asf nr. 20/2017: Anexa nr. 7 (Anexa nr. 7) is part of the norm and is published in its folder, anexa-7/ (paragraphs), from document 191950 of the official web service.
 - Norma asf nr. 20/2017: Anexa nr. 8 (Anexa nr. 8) is part of the norm and is published in its folder, anexa-8/ (paragraphs), from document 191950 of the official web service.
 - Norma asf nr. 20/2017: Anexa nr. 9 (Condiții de avizare și înscriere în lista actuarilor avizați de către A.S.F. a) actuarul este membru al Asociației Române de Actuariat (ARA);... b) actuarul are experiență profesională de cel puțin 5) is part of the norm and is published in its folder, anexa-9/ (paragraphs), from document 191950 of the official web service.
 - Norma asf nr. 20/2017: Anexa nr. 10 (-----) is part of the norm and is published in its folder, anexa-10/ (paragraphs), from document 191950 of the official web service.
-- Norma asf nr. 20/2017: Anexa nr. 1 (PRIME DE ASIGURARE RCA ┌────┬─────────────────────────────────────────────┬──────────────────────────────────────┐ │Nr. │ │ Trimestrul de raportare..... │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma asf nr. 20/2017: Anexa nr. 2 (DESPĂGUBIRI RCA a) Despăgubiri pentru accidente produse în România: ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma asf nr. 20/2017: Anexa nr. 3 (Cheltuieli pentru asigurarea RCA, altele decât cu despăgubirile - lei - ┌────┬───────────────────────────────────────────────────────────────┬────────┐ │ Nr.│ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma asf nr. 20/2017: Anexa nr. 4 (Despăgubiri pentru vătămări corporale și deces a) Despăgubiri pentru vătămări corporale și deces pentru accidente produse în România ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma asf nr. 20/2017: Anexa nr. 5 (Tabel cu coeficienții aferenți claselor de bonus-malus ┌─────────────────┬───────────────────────────────────────────────┐ │Clasa bonus-malus│Coeficient ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

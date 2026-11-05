@@ -341,7 +341,7 @@
    "versions": [
     {
      "from": "2009-08-26",
-     "units": 31,
+     "units": 37,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110839",
      "sha256": "e252631ec1285dd588de42166c3e2d02f8b5eb7f5f4fcdbb11c197a2a1ab5cf8"
     }
@@ -506,7 +506,7 @@
    "versions": [
     {
      "from": "2009-02-24",
-     "units": 12,
+     "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102638",
      "sha256": "65a454c298829fd70eef4deb2c8831d144c55e24d4cb7291d54e99cc0850601d"
     }
@@ -716,7 +716,7 @@
    "versions": [
     {
      "from": "2009-05-06",
-     "units": 7,
+     "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105427",
      "sha256": "8913ab727c6800fe69a7003baaf6123b2d95237830750b2fd98b1006ddfeb77e"
     }
@@ -821,7 +821,7 @@
    "versions": [
     {
      "from": "2009-07-14",
-     "units": 7,
+     "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109315",
      "sha256": "886024572a19746b2dbcd53bb5b334ce1407e5c7ec70f40d1f386fb0cd0ddd33"
     }
@@ -941,7 +941,7 @@
    "versions": [
     {
      "from": "2010-01-01",
-     "units": 17,
+     "units": 19,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114956",
      "sha256": "fb2a7a2e6a858c5d6c17edd182bef06f0890a07ff3859d23d11a41734743337f"
     }
@@ -1256,7 +1256,7 @@
    "versions": [
     {
      "from": "2009-10-01",
-     "units": 57,
+     "units": 61,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111390",
      "sha256": "2a1d96d3d12227615ca50a47e2dbf6b4c0cc9e2f196859c93641539f70323411"
     }
@@ -1443,6 +1443,21 @@
    ]
   },
   {
+   "slug": "ordin-ansvsa-1-2009",
+   "path": "ordin/ansvsa/2009/1",
+   "short": "Ordin ansvsa nr. 1/2009",
+   "title": "Ordinul nr. 1/2009 pentru modificarea anexelor nr. 1 și 2 la Norma sanitară veterinară privind notificarea bolilor animalelor, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 77/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101917",
+   "versions": [
+    {
+     "from": "2009-01-30",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101917",
+     "sha256": "babffe4727b4723136080587290142703541e27ddb91c6032d9ce19f12dcbd0e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-12-2009",
    "path": "ordin/ansvsa/2009/12",
    "short": "Ordin ansvsa nr. 12/2009",
@@ -1454,6 +1469,201 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104088",
      "sha256": "d49fac7f4b9ee4469c02c1d826c0209c11717308e2ae8e2a2012a5a19e236e83"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-13-2009",
+   "path": "ordin/ansvsa/2009/13",
+   "short": "Ordin ansvsa nr. 13/2009",
+   "title": "Ordinul nr. 13/2009 pentru modificarea și completarea Normei sanitare veterinare și pentru siguranța alimentelor privind procedura de înregistrare sanitară veterinară și pentru siguranța alimentelor a activităților de obținere și de vânzare directă și/sau cu amănuntul a produselor alimentare de origine animală sau nonanimală, precum și a activităților de producție, procesare, depozitare, transport și comercializare a produselor alimentare de origine nonanimală, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 111/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103674",
+   "versions": [
+    {
+     "from": "2009-03-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103674",
+     "sha256": "29ff6e29a05b096e5df2e5d8cff32a9f1fc43ce3dfe7fe557c783ad206b3ef86"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-34-2009",
+   "path": "ordin/ansvsa/2009/34",
+   "short": "Ordin ansvsa nr. 34/2009",
+   "title": "Ordinul nr. 34/2009 pentru aprobarea Normei sanitare veterinare privind regulile generale de biosecuritate în exploatațiile de creștere a bovinelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/107209",
+   "versions": [
+    {
+     "from": "2009-06-19",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/107209",
+     "sha256": "9dc3d01030505832ce2b6509018c13275b4b16bc9dbd43e0fc5cf1641e1d209b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-35-2009",
+   "path": "ordin/ansvsa/2009/35",
+   "short": "Ordin ansvsa nr. 35/2009",
+   "title": "Ordinul nr. 35/2009 privind modificarea și completarea unor acte normative care stabilesc tarife în domeniul sanitar-veterinar și pentru siguranța alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/107214",
+   "versions": [
+    {
+     "from": "2009-06-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/107214",
+     "sha256": "462ee1ca8ba7d8027ca12886d134e493d1a95ff4b9d29e281a7631cc47b1b937"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-5-2009",
+   "path": "ordin/ansvsa/2009/5",
+   "short": "Ordin ansvsa nr. 5/2009",
+   "title": "Ordinul nr. 5/2009 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 80/2005 pentru aprobarea Normei sanitare veterinare și pentru siguranța alimentelor privind stabilirea documentelor și evidențelor veterinare necesare în cadrul activității de neutralizare a deșeurilor de origine animală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102141",
+   "versions": [
+    {
+     "from": "2009-02-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102141",
+     "sha256": "f95e060482736c95f5ba74bd541d07a6249e3d3eaca66f218dda95d88ef72ad0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-56-2009",
+   "path": "ordin/ansvsa/2009/56",
+   "short": "Ordin ansvsa nr. 56/2009",
+   "title": "Ordinul nr. 56/2009 privind completarea Normei sanitare veterinare și pentru siguranța alimentelor privind procedura de înregistrare sanitară veterinară și pentru siguranța alimentelor a activităților de obținere și de vânzare directă și/sau cu amănuntul a produselor alimentare de origine animală sau nonanimală, precum și a activităților de producție, procesare, depozitare, transport și comercializare a produselor alimentare de origine nonanimală, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 111/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111059",
+   "versions": [
+    {
+     "from": "2009-09-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111059",
+     "sha256": "01ee487eb2df098f8e321695fe8f5754426494f8e8204f2de7cd743e03f6de51"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-58-2009",
+   "path": "ordin/ansvsa/2009/58",
+   "short": "Ordin ansvsa nr. 58/2009",
+   "title": "Ordinul nr. 58/2009 privind modificarea anexei la Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 109/2005 privind stabilirea formularului-tip al Procesului-verbal de constatare și sancționare a contravențiilor la normele sanitare veterinare și pentru siguranța alimentelor și a persoanelor împuternicite de Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor să folosească modelul de proces-verbal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111155",
+   "versions": [
+    {
+     "from": "2009-09-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111155",
+     "sha256": "cb9de0b8c0c2f8b1dc631f45b853db79cabfc30b1ac806d7ffbab656ce73d2bb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-59-2009",
+   "path": "ordin/ansvsa/2009/59",
+   "short": "Ordin ansvsa nr. 59/2009",
+   "title": "Ordinul nr. 59/2009 pentru modificarea anexei nr. 9 la Norma sanitară veterinară privind procedura de autorizare sanitară veterinară a unităților care produc, procesează, depozitează, transportă și/sau distribuie produse de origine animală, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 93/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111285",
+   "versions": [
+    {
+     "from": "2009-09-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111285",
+     "sha256": "a42397f87c0ece88647c81c7920b778e4ece476904fee471d874ea9eb479e1a0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-67-2009",
+   "path": "ordin/ansvsa/2009/67",
+   "short": "Ordin ansvsa nr. 67/2009",
+   "title": "Ordinul nr. 67/2009 privind aprobarea Planului de măsuri pentru îmbunătățirea calității laptelui crud de vacă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113838",
+   "versions": [
+    {
+     "from": "2009-11-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113838",
+     "sha256": "851e558a8c90520d8fe02b2cfeb5e5f7c22a9209046fe96175232a11fae1f7cf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-72-2009",
+   "path": "ordin/ansvsa/2009/72",
+   "short": "Ordin ansvsa nr. 72/2009",
+   "title": "Ordinul nr. 72/2009 privind modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 113/2008 privind aprobarea Instrucțiunilor pentru organizarea și desfășurarea activității de control oficial în unitățile de prelucrare, procesare, depozitare, transport, valorificare și comercializare a produselor și subproduselor alimentare de origine nonanimală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114999",
+   "versions": [
+    {
+     "from": "2009-12-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114999",
+     "sha256": "65d21db54bde67ca1523135250de251f743346246e8b3b4094403db577a2b849"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-73-2009",
+   "path": "ordin/ansvsa/2009/73",
+   "short": "Ordin ansvsa nr. 73/2009",
+   "title": "Ordinul nr. 73/2009 privind modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 64/2007 pentru aprobarea Normei sanitare veterinare privind organizarea și desfășurarea activității de control oficial sanitar-veterinar efectuat de către personalul de specialitate în unitățile care produc alimente de origine animală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115003",
+   "versions": [
+    {
+     "from": "2009-12-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115003",
+     "sha256": "2d17aec310edeba3daf57b631cdb2116a5a487f684587c3e8250a0c0741a11f2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-74-2009",
+   "path": "ordin/ansvsa/2009/74",
+   "short": "Ordin ansvsa nr. 74/2009",
+   "title": "Ordinul nr. 74/2009 privind asigurarea condițiilor tehnice pentru aplicarea Normei sanitare veterinare privind protecția animalelor în timpul sacrificării și uciderii, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 180/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117008",
+   "versions": [
+    {
+     "from": "2010-03-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117008",
+     "sha256": "c5a7cd069d3513c5130a27fe02558b53a72a0682ac0e818e47f61d51d294d857"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-8-2009",
+   "path": "ordin/ansvsa/2009/8",
+   "short": "Ordin ansvsa nr. 8/2009",
+   "title": "Ordinul nr. 8/2009 privind modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 199/2006 pentru aprobarea Normei sanitare veterinare privind interzicerea utilizării în creșterea animalelor de fermă a unor substanțe cu acțiune hormonală sau tireostatică și a celor betaagoniste",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102428",
+   "versions": [
+    {
+     "from": "2009-02-17",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102428",
+     "sha256": "172b8e30eae8ae3250a5bdcd69194c8d3226707b045ee5e2c79331ba8b8a6ca3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-9-2009",
+   "path": "ordin/ansvsa/2009/9",
+   "short": "Ordin ansvsa nr. 9/2009",
+   "title": "Ordinul nr. 9/2009 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 48/2006 privind aprobarea Normei sanitare veterinare care stabilește o listă de utilizări ale hranei pentru animale, destinată unor scopuri nutriționale speciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102836",
+   "versions": [
+    {
+     "from": "2009-02-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102836",
+     "sha256": "d9128769d69c7f88a42af4538589ea08e888fef2a9a29d2c05a1b0b442aff4e7"
     }
    ]
   },
@@ -5913,6 +6123,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1028-2009",
+   "path": "ordin/mediu/2009/1028",
+   "short": "Ordin mediu nr. 1028/2009",
+   "title": "Ordinul nr. 1.028/2009 pentru modificarea și completarea anexelor nr. 1-5 la abonamentul-cadru de utilizare/exploatare, aprobat prin Ordinul ministrului mediului și gospodăririi apelor nr. 798/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110643",
+   "versions": [
+    {
+     "from": "2009-08-19",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110643",
+     "sha256": "7f8e1e1bacc9af46ced576f25a6196b00d90ab603594363bb26a81d3b880d8a8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1090-2009",
    "path": "ordin/mediu/2009/1090",
    "short": "Ordin mediu nr. 1090/2009",
@@ -6018,6 +6243,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1338-2009",
+   "path": "ordin/mediu/2009/1338",
+   "short": "Ordin mediu nr. 1338/2009",
+   "title": "Ordinul nr. 1.338/2009 pentru modificarea și completarea Ghidului de finanțare a Programului de înlocuire sau de completare a sistemelor clasice de încălzire cu sisteme care utilizează energie solară, energie geotermală și energie eoliană ori alte sisteme care conduc la îmbunătățirea calității aerului, apei și solului, aprobat prin Ordinul ministrului mediului nr. 565/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112592",
+   "versions": [
+    {
+     "from": "2009-10-23",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112592",
+     "sha256": "c7053bdca661cea93d6afeb9732e9551043587e492c55be418b4b5ab0c320587"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1342-2009",
    "path": "ordin/mediu/2009/1342",
    "short": "Ordin mediu nr. 1342/2009",
@@ -6063,6 +6303,36 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1487-2009",
+   "path": "ordin/mediu/2009/1487",
+   "short": "Ordin mediu nr. 1487/2009",
+   "title": "Ordinul nr. 1.487/2009 pentru modificarea și completarea anexelor nr. 1-3 la Ordinul ministrului mediului și dezvoltării durabile nr. 1.222/2008 privind aprobarea Instrucțiunilor pentru organizarea și desfășurarea licitațiilor publice pentru atribuirea contractelor de închiriere a unor bunuri imobile, proprietate publică a statului, aflate în administrarea Administrației Naționale \"Apele Române\", a Contractului-cadru de închiriere a bunurilor imobile aflate în proprietatea publică a statului și în administrarea Administrației Naționale \"Apele Române\", precum și a Listei cuprinzând bunurile imobile propuse spre închiriere și durata închirierii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113541",
+   "versions": [
+    {
+     "from": "2009-11-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113541",
+     "sha256": "065aae3d5a0810eb4bc1963c6182fd73ebd060477faef4e10c251e57f4a7ff37"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1648-2009",
+   "path": "ordin/mediu/2009/1648",
+   "short": "Ordin mediu nr. 1648/2009",
+   "title": "Ordinul nr. 1.648/2009 pentru modificarea și completarea Metodologiei de calcul al contribuțiilor și taxelor datorate la Fondul pentru mediu, aprobată prin Ordinul ministrului mediului și gospodăririi apelor nr. 578/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114204",
+   "versions": [
+    {
+     "from": "2009-12-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114204",
+     "sha256": "247619baaf9d3770cab5da5f608494f52603a436b761ae4d5db740ae2959f7b9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1683-2009",
    "path": "ordin/mediu/2009/1683",
    "short": "Ordin mediu nr. 1683/2009",
@@ -6089,6 +6359,21 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114770",
      "sha256": "0299911489fa2a5974f4d7d181ed6c4b8dc9890f3434d427e2d110c712885546"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1775-2009",
+   "path": "ordin/mediu/2009/1775",
+   "short": "Ordin mediu nr. 1775/2009",
+   "title": "Ordinul nr. 1.775/2009 pentru modificarea Ordinului ministrului mediului nr. 610/2009 privind aprobarea tarifelor pentru lucrările și serviciile prestate de către Administrația Rezervației Biosferei \"Delta Dunării\" la solicitarea persoanelor fizice și juridice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115009",
+   "versions": [
+    {
+     "from": "2009-12-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115009",
+     "sha256": "0459505b2e1a236e4f1d7a088c94b3950e4a0b2f020644d1205093c69ea7a174"
     }
    ]
   },
@@ -6138,6 +6423,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-355-2009",
+   "path": "ordin/mediu/2009/355",
+   "short": "Ordin mediu nr. 355/2009",
+   "title": "Ordinul nr. 355/2009 pentru modificarea Ordinului ministrului agriculturii, pădurilor, apelor și mediului nr. 50/2004 privind stabilirea unor măsuri pentru aplicarea prevederilor Regulamentului (CE) nr. 761/2001 care permite participarea voluntară a organizațiilor la schema comunitară de eco-management și audit (EMAS)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104929",
+   "versions": [
+    {
+     "from": "2009-04-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104929",
+     "sha256": "cac4217ddf5dd00d0d40e1e1898e12ef9b63183f5315733b19c27ff0c2443145"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-369-2009",
    "path": "ordin/mediu/2009/369",
    "short": "Ordin mediu nr. 369/2009",
@@ -6183,6 +6483,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-488-2009",
+   "path": "ordin/mediu/2009/488",
+   "short": "Ordin mediu nr. 488/2009",
+   "title": "Ordinul nr. 488/2009 privind modificarea art. 9 din anexa la Ordinul ministrului mediului nr. 89/2009 pentru aprobarea Instrucțiunilor privind modalitățile de aplicare a Ordonanței de urgență a Guvernului nr. 217/2008 privind reluarea pentru anul 2009 a Programului de stimulare a înnoirii Parcului auto național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105279",
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105279",
+     "sha256": "fcfa0555a68e63d713df1715294b9c851fe8deba24eb5c5a405175f0152e81c6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-565-2009",
    "path": "ordin/mediu/2009/565",
    "short": "Ordin mediu nr. 565/2009",
@@ -6213,6 +6528,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-847-2009",
+   "path": "ordin/mediu/2009/847",
+   "short": "Ordin mediu nr. 847/2009",
+   "title": "Ordinul nr. 847/2009 pentru modificarea și completarea Ordinului ministrului apelor și protecției mediului nr. 105/2003 privind aprobarea Instrucțiunilor de organizare și funcționare a comisiilor de avizare a documentațiilor de evaluare a stării de siguranță în exploatare a barajelor - NTLH - 040 și aprobarea componențelor nominale ale comisiei centrale și comisiilor teritoriale de avizare, precum și pentru stabilirea unor tarife de avizare a documentațiilor de evaluare a stării de siguranță în exploatare a barajelor încadrate în categoriile de importanță A și B, de emitere a actelor de reglementare privind siguranța barajelor, precum și a indemnizațiilor de ședință",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109537",
+   "versions": [
+    {
+     "from": "2009-07-14",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109537",
+     "sha256": "65aaecee1ba6ab63de51b1ea18c833985e5364df6668085769d2a065a9093346"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-89-2009",
    "path": "ordin/mediu/2009/89",
    "short": "Ordin mediu nr. 89/2009",
@@ -6224,6 +6554,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102387",
      "sha256": "ee96aadded14a56b54f7bf145908507424a6903b81839911bb93c15508d0230b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-890-2009",
+   "path": "ordin/mediu/2009/890",
+   "short": "Ordin mediu nr. 890/2009",
+   "title": "Ordinul nr. 890/2009 pentru modificarea unor acte normative care instituie tarife în domeniul protecției mediului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109801",
+   "versions": [
+    {
+     "from": "2009-07-22",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109801",
+     "sha256": "f0d7b73832f8680ee07a9b86a40a2beb2d2ed7dc07049ea98678a1b1babf7e0d"
     }
    ]
   },
@@ -6243,6 +6588,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-90-2009",
+   "path": "ordin/mediu/2009/90",
+   "short": "Ordin mediu nr. 90/2009",
+   "title": "Ordinul nr. 90/2009 privind abrogarea Ordinului ministrului mediului și dezvoltării durabile nr. 1.339/2008 pentru aprobarea Ghidului de finanțare a Programului de înlocuire sau completare a sistemelor clasice de încălzire cu sisteme care utilizează energie solară, energie geotermală și energie eoliană ori alte sisteme care conduc la îmbunătățirea calității aerului, apei și solului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102357",
+   "versions": [
+    {
+     "from": "2009-02-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102357",
+     "sha256": "87e8864d6ac0071989f47d578e54a2c1bfa342d7652b26abfdfa5e09596e7c01"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-91-2009",
    "path": "ordin/mediu/2009/91",
    "short": "Ordin mediu nr. 91/2009",
@@ -6254,6 +6614,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102358",
      "sha256": "f047655fee7edac49d6f7ac6a7f3cb97b433bcf2e085a5ab63e38347c03e9ec5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-948-2009",
+   "path": "ordin/mediu/2009/948",
+   "short": "Ordin mediu nr. 948/2009",
+   "title": "Ordinul nr. 948/2009 pentru modificarea Instrucțiunilor privind modalitățile de aplicare a Ordonanței de urgență a Guvernului nr. 217/2008 privind reluarea pentru anul 2009 a Programului de stimulare a înnoirii Parcului auto național, aprobate prin Ordinul ministrului mediului nr. 89/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109507",
+   "versions": [
+    {
+     "from": "2009-07-13",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109507",
+     "sha256": "8cf39e6993d9a62a3c6a76effb072e1ab81903ba7df1d21fa517e04a5fc4df19"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-954-2009",
+   "path": "ordin/mediu/2009/954",
+   "short": "Ordin mediu nr. 954/2009",
+   "title": "Ordinul nr. 954/2009 pentru modificarea și completarea Ordinului ministrului mediului nr. 610/2009 privind aprobarea tarifelor pentru lucrările și serviciile prestate de către Administrația Rezervației Biosferei \"Delta Dunării\" la solicitarea persoanelor fizice și juridice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109531",
+   "versions": [
+    {
+     "from": "2009-07-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109531",
+     "sha256": "b1cffc81ace3c831de0351f6d150596ca4a9872b2e52174ec37bfedb8d66bd9e"
     }
    ]
   },
@@ -8594,6 +8984,216 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106714",
      "sha256": "3877838f261c89cc026f60ac29f93d42fca8ffda4a84dc76c369633f79b75db3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-1554-2009",
+   "path": "ordin/vama/2009/1554",
+   "short": "Ordin vama nr. 1554/2009",
+   "title": "Ordinul nr. 1.554/2009 pentru aprobarea Normelor tehnice privind înregistrarea în scopuri vamale a operatorilor economici și a altor persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/108062",
+   "versions": [
+    {
+     "from": "2009-06-24",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/108062",
+     "sha256": "cbb6d6f135cba10ec6dc40f3131740d7152024b429d6dd0408bf51e6ce487427"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-1626-2009",
+   "path": "ordin/vama/2009/1626",
+   "short": "Ordin vama nr. 1626/2009",
+   "title": "Ordinul nr. 1.626/2009 pentru aprobarea Normelor tehnice de utilizare a Sistemului de control al exportului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109014",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "units": 92,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109014",
+     "sha256": "8caa23eb58a99099d3fd7ae00a0db3ef55f25b8297d08f5dd12af6d1bb5b18a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-1627-2009",
+   "path": "ordin/vama/2009/1627",
+   "short": "Ordin vama nr. 1627/2009",
+   "title": "Ordinul nr. 1.627/2009 pentru aprobarea Normelor privind accesul operatorilor economici la Sistemul de control al exportului (ECS)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109388",
+   "versions": [
+    {
+     "from": "2009-07-08",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109388",
+     "sha256": "072d0918ef9aefafa8ab901059b7d706dcd68ffedbe4b3b20a1e5459ec5e251f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-1785-2009",
+   "path": "ordin/vama/2009/1785",
+   "short": "Ordin vama nr. 1785/2009",
+   "title": "Ordinul nr. 1.785/2009 pentru aprobarea Normelor metodologice privind procesarea declarațiilor vamale întocmite prin procedee informatice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109135",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109135",
+     "sha256": "ac3f74ffdbaab5952682efd00996fa423fc8e3eb0e3077176e24cc63549d797f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-2477-2009",
+   "path": "ordin/vama/2009/2477",
+   "short": "Ordin vama nr. 2477/2009",
+   "title": "Ordinul nr. 2.477/2009 pentru aprobarea Normelor tehnice de utilizare a Sistemului de control al importului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111507",
+   "versions": [
+    {
+     "from": "2009-10-01",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111507",
+     "sha256": "3d5da98fcd239c0c46511aa0446eb720cd601e374ffc7464f8061fa1d16f779c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-2578-2009",
+   "path": "ordin/vama/2009/2578",
+   "short": "Ordin vama nr. 2578/2009",
+   "title": "Ordinul nr. 2.578/2009 pentru aprobarea Normelor privind accesul operatorilor economici la aplicația națională ICS-RO pentru Sistemul de control al importului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111932",
+   "versions": [
+    {
+     "from": "2009-10-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111932",
+     "sha256": "878c7fbf5dc698373ef852ee35e970f0e1b297f13d7c75f9e18ebf38733f5cd6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-2754-2009",
+   "path": "ordin/vama/2009/2754",
+   "short": "Ordin vama nr. 2754/2009",
+   "title": "Ordinul nr. 2.754/2009 pentru implementarea Amendamentului nr. 28 la Convenția vamală relativă la transportul internațional al mărfurilor sub acoperirea carnetelor TIR (Convenția TIR), întocmită la Geneva la 14 noiembrie 1975",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113289",
+   "versions": [
+    {
+     "from": "2009-11-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113289",
+     "sha256": "307d4defb132c106c3e61ff62a1a46dadc70dced653bcfb646c5823df2cd2fd4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-2800-2009",
+   "path": "ordin/vama/2009/2800",
+   "short": "Ordin vama nr. 2800/2009",
+   "title": "Ordinul nr. 2.800/2009 pentru modificarea Normelor de autorizare a regimurilor vamale economice, aprobate prin Ordinul vicepreședintelui Agenției Naționale de Administrare Fiscală nr. 7.789/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113422",
+   "versions": [
+    {
+     "from": "2009-11-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113422",
+     "sha256": "70119516614da34ffcf3e7be962661e591bc39af83e265d9d553b060276fb35b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-3000-2009",
+   "path": "ordin/vama/2009/3000",
+   "short": "Ordin vama nr. 3000/2009",
+   "title": "Ordinul nr. 3.000/2009 privind aprobarea Normelor tehnice pentru aplicarea regimului de tranzit comunitar/comun",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114739",
+   "versions": [
+    {
+     "from": "2009-12-21",
+     "units": 196,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114739",
+     "sha256": "27aefc91d8b41be3c14aa4b909e26d00765398ab70a53dbc6dec38d2920f951c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-3001-2009",
+   "path": "ordin/vama/2009/3001",
+   "short": "Ordin vama nr. 3001/2009",
+   "title": "Ordinul nr. 3.001/2009 pentru aprobarea Normelor tehnice privind autorizarea emiterii de titluri de garanție izolată, utilizării garanției globale și a dispensei de garanție în cadrul regimului de tranzit comunitar/comun",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114728",
+   "versions": [
+    {
+     "from": "2009-12-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114728",
+     "sha256": "13a9dc4259ad2cb7b0fbf4381289d7aa66afb59cbb85d6c78f92f694f0a47c57"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-3002-2009",
+   "path": "ordin/vama/2009/3002",
+   "short": "Ordin vama nr. 3002/2009",
+   "title": "Ordinul nr. 3.002/2009 pentru aprobarea Normelor tehnice privind acordarea statutului de expeditor și/sau destinatar agreat în cadrul regimului de tranzit comunitar/comun",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114726",
+   "versions": [
+    {
+     "from": "2009-12-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114726",
+     "sha256": "e2598e355c0dbfe816200c7970430d81d66db2c349daa5baceb6307135f6fb3d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-3003-2009",
+   "path": "ordin/vama/2009/3003",
+   "short": "Ordin vama nr. 3003/2009",
+   "title": "Ordinul nr. 3.003/2009 pentru aprobarea Normelor tehnice privind autorizarea utilizării de proceduri simplificate în cadrul regimului de tranzit comunitar/comun",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114723",
+   "versions": [
+    {
+     "from": "2009-12-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114723",
+     "sha256": "9544cb1c92f55c0186b96bda208df4d85b780fa2b90408c8edb1c9e3be1b566d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-3004-2009",
+   "path": "ordin/vama/2009/3004",
+   "short": "Ordin vama nr. 3004/2009",
+   "title": "Ordinul nr. 3.004/2009 pentru aprobarea Normelor tehnice privind autorizarea utilizării sigiliilor cu un model special în cadrul regimului de tranzit comunitar/comun",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114732",
+   "versions": [
+    {
+     "from": "2009-12-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114732",
+     "sha256": "3007a06b91e5fe4157379d783110545b571ae871d57d8280bf1587cef7746f68"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-847-2009",
+   "path": "ordin/vama/2009/847",
+   "short": "Ordin vama nr. 847/2009",
+   "title": "Ordinul nr. 847/2009 pentru modificarea Normelor privind procedurile simplificate de vămuire, aprobate prin Ordinul vicepreședintelui Agenției Naționale de Administrare Fiscală nr. 5.465/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103739",
+   "versions": [
+    {
+     "from": "2009-03-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103739",
+     "sha256": "8f9c61f49bb4f9c845c4e5cd044bd744cec3d05a617b192a8944c35cf6bbaaa7"
     }
    ]
   }

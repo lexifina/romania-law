@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-170-2002",
+   "path": "ordin/agricultura/2002/170",
+   "short": "Ordin agricultura nr. 170/2002",
+   "title": "Ordinul nr. 170/2002 pentru modificarea Ordinului ministrului agriculturii, alimentației și pădurilor și al ministrului apelor și protecției mediului nr. 140/247/2002 privind prohibiția pescuitului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36059",
+   "versions": [
+    {
+     "from": "2002-05-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36059",
+     "sha256": "d010a5b52611422bc222f1d3e17ab0669e5652fda65ed8dce008084f1ecce6b3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-185-2002",
    "path": "ordin/agricultura/2002/185",
    "short": "Ordin agricultura nr. 185/2002",
@@ -761,7 +776,7 @@
    "versions": [
     {
      "from": "2002-03-27",
-     "units": 6,
+     "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34747",
      "sha256": "845f4457df4f33b5b449c4d02e74c21b36a4f9c5371e245f53fb1bbe1cf0faa1"
     }
@@ -4379,6 +4394,51 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37957",
      "sha256": "de21ba4380eae8a597491db7bb6b8f0f61a676b458887cc547c4e9910354c699"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-guvern-186-2002",
+   "path": "ordin/guvern/2002/186",
+   "short": "Ordin guvern nr. 186/2002",
+   "title": "Ordinul nr. 186/2002 pentru aprobarea Metodologiei de finanțare și selectare a proiectelor din cadrul programelor de interes național în domeniul protecției copilului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36087",
+   "versions": [
+    {
+     "from": "2002-05-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36087",
+     "sha256": "dc50ba5b434a813796be09c3cb4d1c39cd7846f35b4455b29a515a4411b0c59b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-guvern-218-2002",
+   "path": "ordin/guvern/2002/218",
+   "short": "Ordin guvern nr. 218/2002",
+   "title": "Ordinul nr. 218/2002 pentru modificarea și completarea Metodologiei de finanțare și selectare a proiectelor din cadrul programelor de interes național în domeniul protecției copilului, prevăzută în anexa la Ordinul ministrului pentru coordonarea Secretariatului General al Guvernului nr. 186/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36918",
+   "versions": [
+    {
+     "from": "2002-06-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36918",
+     "sha256": "815c8fea4da3ddc31dba91411adf68b4037eda0b275596388442a33c80ab46fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-guvern-472-2002",
+   "path": "ordin/guvern/2002/472",
+   "short": "Ordin guvern nr. 472/2002",
+   "title": "Ordinul nr. 472/2002 pentru modificarea art. 12 alin. (1) din Metodologia de finanțare și selectare a proiectelor din cadrul programelor de interes național în domeniul protecției copilului, aprobată prin Ordinul ministrului pentru coordonarea Secretariatului General al Guvernului nr. 186/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38976",
+   "versions": [
+    {
+     "from": "2002-10-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38976",
+     "sha256": "f8dc88c4e802ecdfef26f19f92f294d7386c2317eeb064e73f250ce9efb29dd9"
     }
    ]
   },

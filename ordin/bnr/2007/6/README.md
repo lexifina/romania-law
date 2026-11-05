@@ -2,13 +2,15 @@
 
 Ordin bnr nr. 6/2007 · 1 versions, from 2007-06-08 (latest in force: 2007-06-08) · <https://legislatie.just.ro/Public/DetaliiDocument/82701>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (MODELELE situațiilor financiare consolidate conforme cu Standardele Internaționale de Raportare Financiară, solicitate instituțiilor de credit în scopuri de ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. In force in stages: dated by its earliest day, 8 June 2007; later days are not yet shown as versions: "Referințele sunt utilizate și pentru a furniza definițiile anumitor indicatori, precum și pentru a oferi îndrumări privind regulile de recunoaștere, derecunoaștere și evaluare a datelor solicitate. (3) În cazul situațiilor financiare consolidate FINREP întocmite pentru data de 31 decembrie 2006, ref" (1 January 2007, before its publication).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1 | [art-001.md](art-001.md) | 0 |  |
 | Art. 2 | [art-002.md](art-002.md) | 0 |  |
 | Art. 3 | [art-003.md](art-003.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 
 Act id: `ordin-bnr-6-2007` (tags `ordin-bnr-6-2007/<day>`; `python tools/on.py <day> ordin-bnr-6-2007`).
 
@@ -18,4 +20,4 @@ Act id: `ordin-bnr-6-2007` (tags `ordin-bnr-6-2007/<day>`; `python tools/on.py <
 - Ordin bnr nr. 6/2007: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin bnr nr. 6/2007: the first version is the order as published in Monitorul Oficial nr. 389 of 8 June 2007 (document 82701 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin bnr nr. 6/2007: the signatures and the place and date line after its last article are not article text.
-- Ordin bnr nr. 6/2007: Anexa nr. 1 (MODELELE situațiilor financiare consolidate conforme cu Standardele Internaționale de Raportare Financiară, solicitate instituțiilor de credit în scopuri de ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin bnr nr. 6/2007: Anexa nr. 1 (MODELELE situațiilor financiare consolidate conforme cu Standardele Internaționale de Raportare Financiară, solicitate instituțiilor de credit în scopuri de supraveghere prudențială (situații financia) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 82701 of the official web service.

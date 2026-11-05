@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 3/2010 · 1 versions, from 2010-01-15 (latest in force: 2010-01-15) · <https://legislatie.just.ro/Public/DetaliiDocument/115345>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 *Font 8* ┌───────────┬─────────────────────────────────────────────────────────────────┬─────────────────────────┐ │ │ Cerere de rambursare a taxei pe ...): it is a table that the official text holds only flattened; Anexa nr. 3 (3 *Font 8* ┌─────────┬───────────────────────────────────────────────────────────────────┬─────────────────────────┐ │ │ Declarație de ajustare a pro-ratei, ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 *Font 8*): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -17,6 +17,8 @@ Ordin anaf nr. 3/2010 · 1 versions, from 2010-01-15 (latest in force: 2010-01-1
 | Art. 9 | [art-009.md](art-009.md) | 0 |  |
 | Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 | Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
 | Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
 | Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
@@ -31,7 +33,7 @@ Act id: `ordin-anaf-3-2010` (tags `ordin-anaf-3-2010/<day>`; `python tools/on.py
 - Ordin anaf nr. 3/2010: the first version is the order as published in Monitorul Oficial nr. 32 of 15 January 2010 (document 115345 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin anaf nr. 3/2010: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 3/2010: Anexa nr. 1 (1 PROCEDURA de primire a cererilor de rambursare a TVA achitate de către persoanele impozabile stabilite în România pentru importuri și achiziții de bunuri/servicii efectuate în alt stat membru al Uni) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 115345 of the official web service; the service's copy of it as a document of its own (115346) reads the same words.
+- Ordin anaf nr. 3/2010: Anexa nr. 3 (3 *Font 8*) is part of the order and is published in its folder, anexa-3/ (paragraphs and tables), from document 115345 of the official web service.
 - Ordin anaf nr. 3/2010: Anexa nr. 4 (4 INSTRUCȚIUNI pentru completarea formularului "(318) Cerere de rambursare a taxei pe valoarea adăugată pentru persoanele impozabile stabilite în România, depusă potrivit art. 147^2 alin. (2) din Codu) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 115345 of the official web service.
 - Ordin anaf nr. 3/2010: Anexa nr. 5 (5 Caracteristici de tipărire, modul de difuzare, utilizare și păstrare a formularelor I. Formularul "(318) Cerere de rambursare a taxei pe valoarea adăugată pentru persoanele impozabile stabilite în R) is part of the order and is published in its folder, anexa-5/ (paragraphs), from document 115345 of the official web service.
-- Ordin anaf nr. 3/2010: Anexa nr. 2 (2 *Font 8* ┌───────────┬─────────────────────────────────────────────────────────────────┬─────────────────────────┐ │ │ Cerere de rambursare a taxei pe ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anaf nr. 3/2010: Anexa nr. 3 (3 *Font 8* ┌─────────┬───────────────────────────────────────────────────────────────────┬─────────────────────────┐ │ │ Declarație de ajustare a pro-ratei, ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 3/2010: Anexa nr. 2 (2 *Font 8*) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

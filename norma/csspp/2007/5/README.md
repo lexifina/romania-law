@@ -2,7 +2,7 @@
 
 Norma csspp nr. 5/2007 · 1 versions, from 2007-03-26 (latest in force: 2007-03-26) · <https://legislatie.just.ro/Public/DetaliiDocument/80521>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (----- la normă): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -25,6 +25,8 @@ Norma csspp nr. 5/2007 · 1 versions, from 2007-03-26 (latest in force: 2007-03-
 | Art. 17 | [art-017.md](art-017.md) | 0 |  |
 | Art. 18 | [art-018.md](art-018.md) | 0 |  |
 | Art. 19 | [art-019.md](art-019.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 
 Act id: `norma-csspp-5-2007` (tags `norma-csspp-5-2007/<day>`; `python tools/on.py <day> norma-csspp-5-2007`).
 
@@ -34,4 +36,4 @@ Act id: `norma-csspp-5-2007` (tags `norma-csspp-5-2007/<day>`; `python tools/on.
 - Norma csspp nr. 5/2007: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Norma csspp nr. 5/2007: the first version is the norm as published in Monitorul Oficial nr. 202 of 26 March 2007 (document 80521 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Norma csspp nr. 5/2007: the signatures and the place and date line after its last article are not article text.
-- Norma csspp nr. 5/2007: Anexa nr. 1 (----- la normă) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Norma csspp nr. 5/2007: Anexa nr. 1 (----- la normă) is part of the norm and is published in its folder, anexa-1/ (paragraphs and tables), from document 80521 of the official web service.

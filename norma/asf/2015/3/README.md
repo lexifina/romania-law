@@ -2,7 +2,7 @@
 
 Norma asf nr. 3/2015 · 1 versions, from 2015-02-10 (latest in force: 2015-02-10) · <https://legislatie.just.ro/Public/DetaliiDocument/165584>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 Situația privind resursele financiare ale Fondului de garantare la data de..../..../.... *Font 8* ...): it is a table that the official text holds only flattened; Anexa nr. 2 (2 Situația activelor și obligațiilor la data de...../...../..... *Font 7* ...): it is a table that the official text holds only flattened; Anexa nr. 3 (3 Situația sumelor utilizate pentru acoperirea plății compensației către participanți și beneficiari ...): it is a table that the official text holds only flattened; Anexa nr. 4 (4 Situația detaliată a investițiilor pentru activitatea de garantare a drepturilor din sistemul de pensii private la data de...../...../.......... ...): it is a table that the official text holds only flattened; Anexa nr. 5 (5 Balanța de verificare analitică la data de...../...../.......... *Font 8* ...): it is a table that the official text holds only flattened; Anexa nr. 6 (6 Planul de audit intern anual ┌─────┬────────┬──────────────┬───────────┬─────────┬─────────────┬────────────┐ │ Nr. │ Tema │Activitatea de│Obiectivele│ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -25,6 +25,18 @@ Norma asf nr. 3/2015 · 1 versions, from 2015-02-10 (latest in force: 2015-02-10
 | Art. 17 | [art-017.md](art-017.md) | 0 |  |
 | Art. 18 | [art-018.md](art-018.md) | 0 |  |
 | Art. 19 | [art-019.md](art-019.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
+| Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
+| Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
+| Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
+| Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
+| Anexa nr. 6 (what it is) | [anexa-6/README.md](anexa-6/README.md) | 0 |  |
+| Anexa nr. 6 | [anexa-6/text.md](anexa-6/text.md) | 0 |  |
 | Anexa nr. 7 (what it is) | [anexa-7/README.md](anexa-7/README.md) | 0 |  |
 | Anexa nr. 7 | [anexa-7/text.md](anexa-7/text.md) | 0 |  |
 | Anexa nr. 8 (what it is) | [anexa-8/README.md](anexa-8/README.md) | 0 |  |
@@ -40,12 +52,12 @@ Act id: `norma-asf-3-2015` (tags `norma-asf-3-2015/<day>`; `python tools/on.py <
 - Norma asf nr. 3/2015: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Norma asf nr. 3/2015: the first version is the norm as published in Monitorul Oficial nr. 106 of 10 February 2015 (document 165584 of the official web service), in force on its day of publication, as it states.
 - Norma asf nr. 3/2015: the signatures and the place and date line after its last article are not article text.
+- Norma asf nr. 3/2015: Anexa nr. 1 (1 Situația privind resursele financiare ale Fondului de garantare la data de..../..../.... *Font 8*) is part of the norm and is published in its folder, anexa-1/ (paragraphs and tables), from document 165584 of the official web service.
+- Norma asf nr. 3/2015: Anexa nr. 2 (2 Situația activelor și obligațiilor la data de...../...../..... *Font 7*) is part of the norm and is published in its folder, anexa-2/ (paragraphs and tables), from document 165584 of the official web service.
+- Norma asf nr. 3/2015: Anexa nr. 3 (3 Situația sumelor utilizate pentru acoperirea plății compensației către participanți și beneficiari) is part of the norm and is published in its folder, anexa-3/ (paragraphs and tables), from document 165584 of the official web service.
+- Norma asf nr. 3/2015: Anexa nr. 4 (4 Situația detaliată a investițiilor pentru activitatea de garantare a drepturilor din sistemul de pensii private la data de...../...../..........) is part of the norm and is published in its folder, anexa-4/ (paragraphs and tables), from document 165584 of the official web service.
+- Norma asf nr. 3/2015: Anexa nr. 5 (5 Balanța de verificare analitică la data de...../...../.......... *Font 8*) is part of the norm and is published in its folder, anexa-5/ (paragraphs and tables), from document 165584 of the official web service.
+- Norma asf nr. 3/2015: Anexa nr. 6 (6 Planul de audit intern anual) is part of the norm and is published in its folder, anexa-6/ (paragraphs and tables), from document 165584 of the official web service.
 - Norma asf nr. 3/2015: Anexa nr. 7 (7 Raportul de audit intern pentru anul.... I. Prezentarea entității II. Aspecte introductive (echipa de auditare, perioada auditată, scopul misiunii de auditare, tehnici de audit intern utilizate, doc) is part of the norm and is published in its folder, anexa-7/ (paragraphs), from document 165584 of the official web service.
 - Norma asf nr. 3/2015: Anexa nr. 8 (8 Raportul actuarial anual Certificat actuarial, care va cuprinde: a) opinia actuarului cu privire la adecvarea valorii calculate a contribuției anuale;... b) opinia actuarului cu privire la respectar) is part of the norm and is published in its folder, anexa-8/ (paragraphs), from document 165584 of the official web service.
 - Norma asf nr. 3/2015: Anexa nr. 9 (9 Raportul de control intern pentru anul.... I. Prezentarea Fondului de garantare II. Activitatea de control intern: a) constituirea, evidența și utilizarea resurselor pentru plata compensației către) is part of the norm and is published in its folder, anexa-9/ (paragraphs), from document 165584 of the official web service.
-- Norma asf nr. 3/2015: Anexa nr. 1 (1 Situația privind resursele financiare ale Fondului de garantare la data de..../..../.... *Font 8* ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma asf nr. 3/2015: Anexa nr. 2 (2 Situația activelor și obligațiilor la data de...../...../..... *Font 7* ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma asf nr. 3/2015: Anexa nr. 3 (3 Situația sumelor utilizate pentru acoperirea plății compensației către participanți și beneficiari ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma asf nr. 3/2015: Anexa nr. 4 (4 Situația detaliată a investițiilor pentru activitatea de garantare a drepturilor din sistemul de pensii private la data de...../...../.......... ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma asf nr. 3/2015: Anexa nr. 5 (5 Balanța de verificare analitică la data de...../...../.......... *Font 8* ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma asf nr. 3/2015: Anexa nr. 6 (6 Planul de audit intern anual ┌─────┬────────┬──────────────┬───────────┬─────────┬─────────────┬────────────┐ │ Nr. │ Tema │Activitatea de│Obiectivele│ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

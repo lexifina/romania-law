@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 1850/2016 · 1 versions, from 2016-06-24 (latest in force: 2016-06-24) · <https://legislatie.just.ro/Public/DetaliiDocument/179447>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 CERERE de înregistrare și atestare a activității de distribuție și comercializare angro de băuturi alcoolice și/sau tutun prelucrat A. Datele de identificare ...): it is a table that the official text holds only flattened; Anexa nr. 3 (3 MINISTERUL FINANȚELOR PUBLICE AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ DIRECȚIA GENERALĂ A VĂMILOR/DIRECȚIA GENERALĂ REGIONALĂ A FINANȚELOR PUBLICE - ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -16,6 +16,10 @@ Ordin anaf nr. 1850/2016 · 1 versions, from 2016-06-24 (latest in force: 2016-0
 | Art. 8 | [art-008.md](art-008.md) | 0 |  |
 | Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 
 Act id: `ordin-anaf-1850-2016` (tags `ordin-anaf-1850-2016/<day>`; `python tools/on.py <day> ordin-anaf-1850-2016`).
 
@@ -26,6 +30,6 @@ Act id: `ordin-anaf-1850-2016` (tags `ordin-anaf-1850-2016/<day>`; `python tools
 - Ordin anaf nr. 1850/2016: the first version is the order as published in Monitorul Oficial nr. 471 of 24 June 2016 (document 179447 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin anaf nr. 1850/2016: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 1850/2016: Anexa nr. 1 (1 PROCEDURA 17/06/2016) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 179447 of the official web service.
-- Ordin anaf nr. 1850/2016: Anexa nr. 2 (2 CERERE de înregistrare și atestare a activității de distribuție și comercializare angro de băuturi alcoolice și/sau tutun prelucrat A. Datele de identificare ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anaf nr. 1850/2016: Anexa nr. 3 (3 MINISTERUL FINANȚELOR PUBLICE AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ DIRECȚIA GENERALĂ A VĂMILOR/DIRECȚIA GENERALĂ REGIONALĂ A FINANȚELOR PUBLICE - ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 1850/2016: Anexa nr. 2 (2 CERERE de înregistrare și atestare a activității de distribuție și comercializare angro de băuturi alcoolice și/sau tutun prelucrat A. Datele de identificare a beneficiarului *Font 9*) is part of the order and is published in its folder, anexa-2/ (paragraphs and tables), from document 179447 of the official web service.
+- Ordin anaf nr. 1850/2016: Anexa nr. 3 (3 MINISTERUL FINANȚELOR PUBLICE AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ DIRECȚIA GENERALĂ A VĂMILOR/DIRECȚIA GENERALĂ REGIONALĂ A FINANȚELOR PUBLICE - DIRECȚIA REGIONALĂ VAMALĂ Serviciul autorizări/) is part of the order and is published in its folder, anexa-3/ (paragraphs and tables), from document 179447 of the official web service.
 - Ordin anaf nr. 1850/2016: the publisher's notes run into its text (*) Produsele se vor detalia astfel: - pentru băuturi alcoolice: bere, vinuri, băuturi fermentate, altele decât bere şi v) are not text.

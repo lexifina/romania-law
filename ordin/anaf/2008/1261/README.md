@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 1261/2008 · 1 versions, from 2008-09-22 (latest in force: 2008-09-22) · <https://legislatie.just.ro/Public/DetaliiDocument/97521>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (----- la Decizia nr.....): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -11,6 +11,8 @@ Ordin anaf nr. 1261/2008 · 1 versions, from 2008-09-22 (latest in force: 2008-0
 | Art. III | [art-003.md](art-003.md) | 0 |  |
 | Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 | Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
 | Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 
@@ -23,5 +25,5 @@ Act id: `ordin-anaf-1261-2008` (tags `ordin-anaf-1261-2008/<day>`; `python tools
 - Ordin anaf nr. 1261/2008: the first version is the order as published in Monitorul Oficial nr. 661 of 22 September 2008 (document 97521 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin anaf nr. 1261/2008: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 1261/2008: Anexa nr. 1 (1) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 97521 of the official web service.
+- Ordin anaf nr. 1261/2008: Anexa nr. 2 (----- la Decizia nr.....) is part of the order and is published in its folder, anexa-2/ (paragraphs and tables), from document 97521 of the official web service.
 - Ordin anaf nr. 1261/2008: Anexa nr. 3 (2) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 97521 of the official web service.
-- Ordin anaf nr. 1261/2008: Anexa nr. 2 (----- la Decizia nr.....) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

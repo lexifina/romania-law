@@ -2,7 +2,7 @@
 
 Norma asf nr. 23/2016 · 1 versions, from 2016-04-28 (latest in force: 2016-04-28) · <https://legislatie.just.ro/Public/DetaliiDocument/177964>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (*Font 8* ┌───────────────────────┬──────────────────────────────────────────────────────────────────────────┐ │ DATE DE IDENTIFICARE │ CERERE PENTRU ...): it is a table that the official text holds only flattened; Anexa nr. 2 (*Font 9* ┌─────────────────────────────────────────────────────────────────────────────────────────┐ │ DATE DESPRE FONDATORII/ACȚIONARII SOCIETĂȚII DE PENSII/ ...): it is a table that the official text holds only flattened; Anexa nr. 3 (SPECIMENE DE SEMNĂTURĂ pentru membrii structurii de conducere și pentru persoanele care dețin funcții cheie ...): it is a table that the official text holds only flattened; Anexa nr. 4 (DECLARAȚIE Nr. 1 pe propria răspundere privind relațiile de afiliere Declarația se întocmește potrivit acestui model. Nu sunt acceptate declarațiile semnate ...): it is a table that the official text holds only flattened; Anexa nr. 5 (DECLARAȚIE Nr. 2 pe propria răspundere privind deținerile reprezentând cel puțin 5% din capitalul social sau din drepturile de vot ale unei societăți ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 4 (DECLARAȚIE Nr. 1 pe propria răspundere privind relațiile de afiliere Declarația se întocmește potrivit acestui model. Nu sunt acceptate declarațiile semnate ...): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -57,6 +57,14 @@ Norma asf nr. 23/2016 · 1 versions, from 2016-04-28 (latest in force: 2016-04-2
 | Art. 49 | [art-049.md](art-049.md) | 0 |  |
 | Art. 50 | [art-050.md](art-050.md) | 0 |  |
 | Art. 51 | [art-051.md](art-051.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
+| Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
+| Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
 
 Act id: `norma-asf-23-2016` (tags `norma-asf-23-2016/<day>`; `python tools/on.py <day> norma-asf-23-2016`).
 
@@ -66,9 +74,9 @@ Act id: `norma-asf-23-2016` (tags `norma-asf-23-2016/<day>`; `python tools/on.py
 - Norma asf nr. 23/2016: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Norma asf nr. 23/2016: the first version is the norm as published in Monitorul Oficial nr. 327 of 28 April 2016 (document 177964 of the official web service), in force on its day of publication, as it states.
 - Norma asf nr. 23/2016: the signatures and the place and date line after its last article are not article text.
-- Norma asf nr. 23/2016: Anexa nr. 1 (*Font 8* ┌───────────────────────┬──────────────────────────────────────────────────────────────────────────┐ │ DATE DE IDENTIFICARE │ CERERE PENTRU ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma asf nr. 23/2016: Anexa nr. 2 (*Font 9* ┌─────────────────────────────────────────────────────────────────────────────────────────┐ │ DATE DESPRE FONDATORII/ACȚIONARII SOCIETĂȚII DE PENSII/ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma asf nr. 23/2016: Anexa nr. 3 (SPECIMENE DE SEMNĂTURĂ pentru membrii structurii de conducere și pentru persoanele care dețin funcții cheie ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Norma asf nr. 23/2016: Anexa nr. 1 (*Font 8*) is part of the norm and is published in its folder, anexa-1/ (paragraphs and tables), from document 177964 of the official web service.
+- Norma asf nr. 23/2016: Anexa nr. 2 (*Font 9*) is part of the norm and is published in its folder, anexa-2/ (paragraphs and tables), from document 177964 of the official web service.
+- Norma asf nr. 23/2016: Anexa nr. 3 (SPECIMENE DE SEMNĂTURĂ pentru membrii structurii de conducere și pentru persoanele care dețin funcții cheie autorizate*1)...................................................................... (denumir) is part of the norm and is published in its folder, anexa-3/ (paragraphs and tables), from document 177964 of the official web service.
+- Norma asf nr. 23/2016: Anexa nr. 5 (DECLARAȚIE Nr. 2 pe propria răspundere privind deținerile reprezentând cel puțin 5% din capitalul social sau din drepturile de vot ale unei societăți Declarația se întocmește potrivit acestui model. N) is part of the norm and is published in its folder, anexa-5/ (paragraphs and tables), from document 177964 of the official web service.
 - Norma asf nr. 23/2016: Anexa nr. 4 (DECLARAȚIE Nr. 1 pe propria răspundere privind relațiile de afiliere Declarația se întocmește potrivit acestui model. Nu sunt acceptate declarațiile semnate ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma asf nr. 23/2016: Anexa nr. 5 (DECLARAȚIE Nr. 2 pe propria răspundere privind deținerile reprezentând cel puțin 5% din capitalul social sau din drepturile de vot ale unei societăți ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Norma asf nr. 23/2016: the publisher's notes run into its text (*1) Pentru persoanele fizice străine se vor completa seria și numărul pașaportului. *2) Se vor înscrie numai fondatorii/; *1) Prezentul formular se va completa în fața reprezentantului Autorității de Supraveghere Financiară. Dacă unul dintre ; *1) Se completează numai în cazul persoanelor fizice. *2) Se completează BI pentru buletin de identitate sau CI pentru c; *1) Se completează numai în cazul persoanelor fizice. *2) Se completează BI pentru buletin de identitate sau CI pentru c) are not text.

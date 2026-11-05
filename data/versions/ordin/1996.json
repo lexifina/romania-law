@@ -1576,6 +1576,21 @@
      "sha256": "907b9e5ae531e69f93eecc19ed97ed65e16ad09ede4d7a97352b95a83ea4b2a2"
     }
    ]
+  },
+  {
+   "slug": "ordin-vama-23-1996",
+   "path": "ordin/vama/1996/23",
+   "short": "Ordin vama nr. 23/1996",
+   "title": "Ordinul nr. 23/1996 pentru aprobarea Normelor tehnice privind autorizarea și funcționarea comisionarilor în vamă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8037",
+   "versions": [
+    {
+     "from": "1996-05-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8037",
+     "sha256": "48be644e8b3d40c3aeee4159b8d5b030444421fa33953fe742a8e7b594fe9cfe"
+    }
+   ]
   }
  ]
 }

@@ -2,7 +2,7 @@
 
 Norma asf nr. 1/2015 · 1 versions, from 2015-04-01 (latest in force: 2015-04-01) · <https://legislatie.just.ro/Public/DetaliiDocument/164647>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (ACT-CADRU INDIVIDUAL DE ADERARE Seria....... nr....... Numărul deciziei de autorizare ca administrator......................... Numărul deciziei de autorizare ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -54,6 +54,8 @@ Norma asf nr. 1/2015 · 1 versions, from 2015-04-01 (latest in force: 2015-04-01
 | Art. 46 | [art-046.md](art-046.md) | 0 |  |
 | Art. 47 | [art-047.md](art-047.md) | 0 |  |
 | Art. 48 | [art-048.md](art-048.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 
 Act id: `norma-asf-1-2015` (tags `norma-asf-1-2015/<day>`; `python tools/on.py <day> norma-asf-1-2015`).
 
@@ -63,5 +65,5 @@ Act id: `norma-asf-1-2015` (tags `norma-asf-1-2015/<day>`; `python tools/on.py <
 - Norma asf nr. 1/2015: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Norma asf nr. 1/2015: the first version is the norm as published in Monitorul Oficial nr. 31 of 14 January 2015 (document 164647 of the official web service), in force on 1 April 2015, the day it states for itself.
 - Norma asf nr. 1/2015: the signatures and the place and date line after its last article are not article text.
-- Norma asf nr. 1/2015: Anexa nr. 1 (ACT-CADRU INDIVIDUAL DE ADERARE Seria....... nr....... Numărul deciziei de autorizare ca administrator......................... Numărul deciziei de autorizare ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Norma asf nr. 1/2015: Anexa nr. 1 (ACT-CADRU INDIVIDUAL DE ADERARE Seria....... nr....... Numărul deciziei de autorizare ca administrator......................... Numărul deciziei de autorizare a prospectului schemei de pensii private.) is part of the norm and is published in its folder, anexa-1/ (paragraphs and tables), from document 164647 of the official web service.
 - Norma asf nr. 1/2015: the publisher's notes run into its text (*) În cazul în care participantul este înregistrat în Registrul asiguraţilor la mai multe case de pensii, acesta are obl) are not text.

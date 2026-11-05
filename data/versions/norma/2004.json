@@ -71,7 +71,7 @@
    "versions": [
     {
      "from": "2004-12-30",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58142",
      "sha256": "88abadcd8e430d62162a4b3dbecb47d27fbcadc6645351b076d0a3050a739847"
     }
@@ -116,7 +116,7 @@
    "versions": [
     {
      "from": "2004-04-12",
-     "units": 9,
+     "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49731",
      "sha256": "98bbe7ca45f5997a79a9b1939b27661b0c81b3994e80f9f224964a322a5ab4d3"
     }
@@ -146,7 +146,7 @@
    "versions": [
     {
      "from": "2005-01-01",
-     "units": 12,
+     "units": 18,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53453",
      "sha256": "79d4da5717aca99d413cd22481c56edb3db99834c05f25222f8d18fc6d6cc59f"
     }

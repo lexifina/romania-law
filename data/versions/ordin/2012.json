@@ -26,7 +26,7 @@
    "versions": [
     {
      "from": "2012-10-13",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141251",
      "sha256": "2123d79ba5184352a0d9dd7a5e7008a06884eecb34a105f328aed6ef4530eb01"
     }
@@ -59,6 +59,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135939",
      "sha256": "b4cd0c37dce4d48bd1b1630ca0af425b077735f23b867fd4ed7412d9f5aa05a4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-36-2012",
+   "path": "ordin/agricultura/2012/36",
+   "short": "Ordin agricultura nr. 36/2012",
+   "title": "Ordinul nr. 36/2012 privind modificarea și completarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale și al ministrului mediului și pădurilor nr. 30/147/2010 pentru aprobarea bunelor condiții agricole și de mediu în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135698",
+   "versions": [
+    {
+     "from": "2012-02-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135698",
+     "sha256": "2d9826334dd50339668ba440a9357287359fa3aada73430905fc7b05909893a2"
     }
    ]
   },
@@ -296,7 +311,7 @@
    "versions": [
     {
      "from": "2012-02-29",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135789",
      "sha256": "d78d2b84a63614f50df04ef7fcf0a20f4498011b8f2354a05bc1f8e5867c87a4"
     }
@@ -551,7 +566,7 @@
    "versions": [
     {
      "from": "2012-03-27",
-     "units": 11,
+     "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136577",
      "sha256": "107352c1c385cc00c8c66ddffa4b9431f21aa9434eb7f80fe89d710308291e67"
     }
@@ -611,7 +626,7 @@
    "versions": [
     {
      "from": "2012-04-04",
-     "units": 39,
+     "units": 41,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136842",
      "sha256": "2f3a2cf34dc176d6d40aae761d4d76368a2c5c3a3fb601cc8cf6897f1cd5590b"
     }
@@ -1031,7 +1046,7 @@
    "versions": [
     {
      "from": "2012-05-17",
-     "units": 13,
+     "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138058",
      "sha256": "e2b43d242f680bfd9f820d5415b269c897a97e6a2c4d1876997a68e4d47a19bf"
     }
@@ -1106,7 +1121,7 @@
    "versions": [
     {
      "from": "2012-07-01",
-     "units": 6,
+     "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139174",
      "sha256": "333a71afae771c8a49308c2f2dd7d6148715337c65ce343fbecbfed27e61d01c"
     }
@@ -1421,7 +1436,7 @@
    "versions": [
     {
      "from": "2013-01-01",
-     "units": 15,
+     "units": 17,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144167",
      "sha256": "01646c9c6f5294b609b5b50ae8ad7ebd01d7d7ffb8415cd20344bfd744af33c2"
     }
@@ -1481,7 +1496,7 @@
    "versions": [
     {
      "from": "2013-01-01",
-     "units": 20,
+     "units": 22,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144171",
      "sha256": "70a67297ebf605152ed96cf05633fd4939d860e0b8b11874068c92f932f72686"
     }
@@ -1496,7 +1511,7 @@
    "versions": [
     {
      "from": "2013-01-01",
-     "units": 20,
+     "units": 22,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144170",
      "sha256": "b8bd1a063d41cabdaff0ba5162be5e17440641fa4cc6069e8013227765de156c"
     }
@@ -1563,6 +1578,261 @@
    ]
   },
   {
+   "slug": "ordin-ansvsa-20-2012",
+   "path": "ordin/ansvsa/2012/20",
+   "short": "Ordin ansvsa nr. 20/2012",
+   "title": "Ordinul nr. 20/2012 pentru aprobarea Normelor metodologice de monitorizare a standardelor de microclimat, precum și a necesarului de apă și de hrană, în vederea asigurării statusului minim de bunăstare a porcinelor din exploatațiile comerciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137159",
+   "versions": [
+    {
+     "from": "2012-04-17",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137159",
+     "sha256": "24e4b619311600bf5a4d28245acc4aea525fc87a7dd8b95e57cf1597f5b926b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-21-2012",
+   "path": "ordin/ansvsa/2012/21",
+   "short": "Ordin ansvsa nr. 21/2012",
+   "title": "Ordinul nr. 21/2012 privind modificarea anexei nr. 3 la Norma sanitară veterinară care stabilește modelul de pașaport pentru mișcarea intracomunitară a animalelor de companie: câini, pisici și dihori domestici, precum și procedurile cu privire la tipărirea, completarea și legalizarea acestuia, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 8/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136605",
+   "versions": [
+    {
+     "from": "2012-03-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136605",
+     "sha256": "35187284684e5567c7bb0fc2103105c96893dc52c6c04b101b920d4a50ee4f77"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-23-2012",
+   "path": "ordin/ansvsa/2012/23",
+   "short": "Ordin ansvsa nr. 23/2012",
+   "title": "Ordinul nr. 23/2012 pentru modificarea și completarea Normei sanitare veterinare privind implementarea de către autoritățile sanitare veterinare de la posturile de inspecție la frontieră a măsurilor ce trebuie aplicate în cazul activităților de import și tranzit de mărfuri supuse controlului sanitar-veterinar, găsite necorespunzătoare, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 35/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136526",
+   "versions": [
+    {
+     "from": "2012-03-26",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136526",
+     "sha256": "e79f87504e0d54fc15be4ec78135797edc9ea7b6c4239d052a24b2fb91fb7c09"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-32-2012",
+   "path": "ordin/ansvsa/2012/32",
+   "short": "Ordin ansvsa nr. 32/2012",
+   "title": "Ordinul nr. 32/2012 pentru modificarea anexei nr. 8 la Norma sanitară veterinară privind procedura de autorizare sanitară veterinară a unităților care produc, procesează, depozitează, transportă și/sau distribuie produse de origine animală, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 57/2010, ca urmare a actualizării tarifelor în funcție de rata inflației din anul 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137506",
+   "versions": [
+    {
+     "from": "2012-05-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137506",
+     "sha256": "ed56e6f977b1eb79605e78ad90267c71685ef603d44a3891b78850068f787789"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-33-2012",
+   "path": "ordin/ansvsa/2012/33",
+   "short": "Ordin ansvsa nr. 33/2012",
+   "title": "Ordinul nr. 33/2012 pentru modificarea anexei nr. 2 la Norma sanitară veterinară și pentru siguranța alimentelor privind autorizarea laboratoarelor supuse controlului sanitar-veterinar și pentru siguranța alimentelor, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 48/2010, ca urmare a actualizării tarifelor în funcție de rata inflației din anul 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137512",
+   "versions": [
+    {
+     "from": "2012-05-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137512",
+     "sha256": "916ffc05e4e735bd2fbdeedda35ecbbbecbc9aa5abeddd24873042005bd16107"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-34-2012",
+   "path": "ordin/ansvsa/2012/34",
+   "short": "Ordin ansvsa nr. 34/2012",
+   "title": "Ordinul nr. 34/2012 pentru modificarea anexei nr. 4 la Norma sanitară veterinară și pentru siguranța alimentelor privind procedura de înregistrare sanitară veterinară și pentru siguranța alimentelor a activităților de obținere și de vânzare directă și/sau cu amănuntul a produselor alimentare de origine animală sau nonanimală, precum și a activităților de producție, procesare, depozitare, transport și comercializare a produselor alimentare de origine nonanimală, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 111/2008, ca urmare a actualizării tarifelor în funcție de rata inflației din anul 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137513",
+   "versions": [
+    {
+     "from": "2012-05-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137513",
+     "sha256": "e1398084928b021643734e1d4faf526678859fe8c8e54b38c751b483e2ddbee3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-35-2012",
+   "path": "ordin/ansvsa/2012/35",
+   "short": "Ordin ansvsa nr. 35/2012",
+   "title": "Ordinul nr. 35/2012 pentru modificarea anexelor nr. 7, 8 și 10 la Norma sanitară veterinară privind procedura de introducere pe piață și de utilizare a reagenților și a seturilor de diagnostic de uz veterinar, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 81/2008, ca urmare a actualizării tarifelor în funcție de rata inflației din anul 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137532",
+   "versions": [
+    {
+     "from": "2012-05-03",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137532",
+     "sha256": "499bc8941fe71fbe8273031e62580dd00d9ec235191246a3751f4c61da0c5068"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-36-2012",
+   "path": "ordin/ansvsa/2012/36",
+   "short": "Ordin ansvsa nr. 36/2012",
+   "title": "Ordinul nr. 36/2012 pentru modificarea anexei nr. 27 la Norma sanitară veterinară privind procedura de înregistrare/autorizare sanitar-veterinară a unităților/centrelor de colectare/exploatațiilor de origine și a mijloacelor de transport din domeniul sănătății și al bunăstării animalelor, a unităților implicate în depozitarea și neutralizarea subproduselor de origine animală care nu sunt destinate consumului uman și a produselor procesate, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 16/2010, ca urmare a actualizării tarifelor în funcție de rata inflației din anul 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137537",
+   "versions": [
+    {
+     "from": "2012-05-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137537",
+     "sha256": "efec206f29d07f4a003fdb675652f41713059096acf2efe2d83ae09eb1103271"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-37-2012",
+   "path": "ordin/ansvsa/2012/37",
+   "short": "Ordin ansvsa nr. 37/2012",
+   "title": "Ordinul nr. 37/2012 pentru modificarea anexei nr. 2 la Norma sanitară veterinară privind procedura de autorizare/înregistrare sanitară veterinară a unităților ce desfășoară activități în domeniul hranei pentru animale de fermă și a mijloacelor de transport al hranei pentru animale de fermă, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 109/2010, ca urmare a actualizării tarifelor în funcție de rata inflației din anul 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137541",
+   "versions": [
+    {
+     "from": "2012-05-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137541",
+     "sha256": "af126d8e697a848e14a54ef2e4bce0281c30678064d9b54f76d1d222e96c6074"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-38-2012",
+   "path": "ordin/ansvsa/2012/38",
+   "short": "Ordin ansvsa nr. 38/2012",
+   "title": "Ordinul nr. 38/2012 pentru modificarea anexei nr. 9 la Norma sanitară veterinară privind procedura de înregistrare și autorizare sanitară veterinară a unităților și activităților din domeniul farmaceutic veterinar, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 24/2008, ca urmare a actualizării tarifelor în funcție de rata inflației din anul 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137570",
+   "versions": [
+    {
+     "from": "2012-05-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137570",
+     "sha256": "89da21dd4a6155b286353099f54dfcfc7c83a31758699e403eeb3ff69b066722"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-4-2012",
+   "path": "ordin/ansvsa/2012/4",
+   "short": "Ordin ansvsa nr. 4/2012",
+   "title": "Ordinul nr. 4/2012 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 45/2005 privind aprobarea tarifelor pentru efectuarea analizelor și examenelor de laborator, precum și a unor activități sanitare veterinare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134913",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134913",
+     "sha256": "4788d9a4bbd7976dcd8ac74079b295a62ea52dc001ed5f400e84c081f1b732d5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-43-2012",
+   "path": "ordin/ansvsa/2012/43",
+   "short": "Ordin ansvsa nr. 43/2012",
+   "title": "Ordinul nr. 43/2012 pentru aprobarea Normelor metodologice de aplicare a Programului acțiunilor de supraveghere, prevenire, control și eradicare a bolilor la animale, a celor transmisibile de la animale la om, protecția animalelor și protecția mediului, de identificare și înregistrare a bovinelor, suinelor, ovinelor și caprinelor pentru anul 2012, precum și a Normelor metodologice de aplicare a Programului de supraveghere și control în domeniul siguranței alimentelor pentru anul 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137950",
+   "versions": [
+    {
+     "from": "2012-05-14",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137950",
+     "sha256": "173db2e8efb8d36dae3c28291a22af09b9327812427c3fce4cc7f72765aafe48"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-45-2012",
+   "path": "ordin/ansvsa/2012/45",
+   "short": "Ordin ansvsa nr. 45/2012",
+   "title": "Ordinul nr. 45/2012 pentru modificarea anexei nr. 1 la Hotărârea Guvernului nr. 1.214/2009 privind metodologia pentru stabilirea și plata despăgubirilor ce se cuvin proprietarilor de animale tăiate, ucise sau altfel afectate în vederea lichidării rapide a focarelor de boli transmisibile ale animalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139811",
+   "versions": [
+    {
+     "from": "2012-07-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139811",
+     "sha256": "575b92e97abe985be96f46613d54154de8f9ec526ba821fa989857d8e86ee27e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-46-2012",
+   "path": "ordin/ansvsa/2012/46",
+   "short": "Ordin ansvsa nr. 46/2012",
+   "title": "Ordinul nr. 46/2012 pentru modificarea și completarea Normei sanitare veterinare privind sistemul de identificare și înregistrare a suinelor, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 85/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139555",
+   "versions": [
+    {
+     "from": "2012-07-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139555",
+     "sha256": "7649f51ef35aab27679b37cbb8a686300d4aeefd8dc91cd57f934afba110f2e9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-48-2012",
+   "path": "ordin/ansvsa/2012/48",
+   "short": "Ordin ansvsa nr. 48/2012",
+   "title": "Ordinul nr. 48/2012 privind completarea Normei sanitare veterinare pentru implementarea procesului de identificare și înregistrare a suinelor, ovinelor, caprinelor și bovinelor, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 40/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140044",
+   "versions": [
+    {
+     "from": "2012-07-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140044",
+     "sha256": "684eff998f461a86123e4edded6d79b65167af4fcce739d13e17478e5bce1ec7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-51-2012",
+   "path": "ordin/ansvsa/2012/51",
+   "short": "Ordin ansvsa nr. 51/2012",
+   "title": "Ordinul nr. 51/2012 pentru modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 32/2006 privind aprobarea Normei sanitare veterinare care stabilește prevederi specifice pentru controlul și eradicarea bolii limbii albastre",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140464",
+   "versions": [
+    {
+     "from": "2012-08-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140464",
+     "sha256": "2651fb42ca0f8d3307b33e8a7f889dca8b880c443e5918b519144b71c2266c89"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-57-2012",
+   "path": "ordin/ansvsa/2012/57",
+   "short": "Ordin ansvsa nr. 57/2012",
+   "title": "Ordinul nr. 57/2012 privind modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 202/2006 pentru aprobarea Normei sanitare veterinare care stabilește standarde minime pentru protecția porcinelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141354",
+   "versions": [
+    {
+     "from": "2012-09-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141354",
+     "sha256": "774faa80e20bfb420c7f8247d60eb4eb3428197cabe604116a15be76626e2ecc"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-60-2012",
    "path": "ordin/ansvsa/2012/60",
    "short": "Ordin ansvsa nr. 60/2012",
@@ -1574,6 +1844,156 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141158",
      "sha256": "d1241afea71e7a38830f884d082553c919b6df61ae18d609bf1ca2ff6fbac72a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-62-2012",
+   "path": "ordin/ansvsa/2012/62",
+   "short": "Ordin ansvsa nr. 62/2012",
+   "title": "Ordinul nr. 62/2012 pentru modificarea și completarea Normei sanitare veterinare privind Codul produselor medicinale veterinare, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 187/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141968",
+   "versions": [
+    {
+     "from": "2012-10-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141968",
+     "sha256": "f2443ef55f68ec1fb47e3807214b015c49be44ea1629d31f50996d95a39de308"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-63-2012",
+   "path": "ordin/ansvsa/2012/63",
+   "short": "Ordin ansvsa nr. 63/2012",
+   "title": "Ordinul nr. 63/2012 pentru aprobarea Normei sanitare veterinare care stabilește standardele minime privind protecția păsărilor în fermă și în timpul transportului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141990",
+   "versions": [
+    {
+     "from": "2012-10-15",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141990",
+     "sha256": "73db34d5cad25ab92df884640b83401d64460accb3bce24fbeaff33d3815206f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-64-2012",
+   "path": "ordin/ansvsa/2012/64",
+   "short": "Ordin ansvsa nr. 64/2012",
+   "title": "Ordinul nr. 64/2012 pentru aprobarea Normei sanitare veterinare privind formularele de prescripție medicală cu regim special și a normelor metodologice referitoare la utilizarea acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142549",
+   "versions": [
+    {
+     "from": "2012-11-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142549",
+     "sha256": "9392026c0d420bcd8c06b5fd2ae91373fb508ce5cf6e853655dcc8a17467ca8d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-66-2012",
+   "path": "ordin/ansvsa/2012/66",
+   "short": "Ordin ansvsa nr. 66/2012",
+   "title": "Ordinul nr. 66/2012 pentru aprobarea Ghidului privind cadrul legal care reglementează importul paralel de produse medicinale veterinare pentru care s-a acordat deja o autorizație de comercializare și a Procedurii simplificate de obținere a autorizației de import paralel pentru produse medicinale veterinare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142573",
+   "versions": [
+    {
+     "from": "2012-11-06",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142573",
+     "sha256": "bcce168932091e3d4084148d623f0d1e4ecbd1755fa0a04cd97d68a0143cbeb6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-67-2012",
+   "path": "ordin/ansvsa/2012/67",
+   "short": "Ordin ansvsa nr. 67/2012",
+   "title": "Ordinul nr. 67/2012 privind condițiile sanitar-veterinare care trebuie respectate la mișcarea suinelor vii pe teritoriul României și pentru modificarea unor norme sanitare veterinare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142896",
+   "versions": [
+    {
+     "from": "2012-11-16",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142896",
+     "sha256": "026fa2bf699865305a51350f2ad3269081dd67322e1e79472c39d60092806bb5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-83-2012",
+   "path": "ordin/ansvsa/2012/83",
+   "short": "Ordin ansvsa nr. 83/2012",
+   "title": "Ordinul nr. 83/2012 pentru modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 45/2005 privind aprobarea tarifelor pentru efectuarea analizelor și examenelor de laborator, precum și a unor activități sanitare veterinare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143413",
+   "versions": [
+    {
+     "from": "2012-12-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143413",
+     "sha256": "8183b8e8686d35db2f5dbac24bfcccc1067b97081c13fe4a95c2d5b2e801e16c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-87-2012",
+   "path": "ordin/ansvsa/2012/87",
+   "short": "Ordin ansvsa nr. 87/2012",
+   "title": "Ordinul nr. 87/2012 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 170/2007 pentru aprobarea Normei sanitare veterinare ce stabilește cerințele de sănătate animală pentru animalele de acvacultură și produsele acestora, precum și pentru prevenirea și controlul anumitor boli ale animalelor acvatice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143453",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143453",
+     "sha256": "f15d0cfb5db59fdcb506223fae01a37e49185a456031b828dbf37c719099682d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-94-2012",
+   "path": "ordin/ansvsa/2012/94",
+   "short": "Ordin ansvsa nr. 94/2012",
+   "title": "Ordinul nr. 94/2012 pentru modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 113/2008 privind aprobarea Instrucțiunilor pentru organizarea și desfășurarea activității de control oficial în unitățile de prelucrare, procesare, depozitare, transport, valorificare și comercializare a produselor și subproduselor alimentare de origine nonanimală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143996",
+   "versions": [
+    {
+     "from": "2012-12-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143996",
+     "sha256": "741b31a2c065c40e241e0bc86b5c8450f1377174d056c2b005b774ece1c6187e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-98-2012",
+   "path": "ordin/ansvsa/2012/98",
+   "short": "Ordin ansvsa nr. 98/2012",
+   "title": "Ordinul nr. 98/2012 privind modificarea art. 6 din Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 64/2007 pentru aprobarea Normei sanitare veterinare privind organizarea și desfășurarea activității de control oficial sanitar-veterinar efectuat de către personalul de specialitate în unitățile care produc alimente de origine animală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143995",
+   "versions": [
+    {
+     "from": "2012-12-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143995",
+     "sha256": "297c865c667193fc8e816e9d789ac0ff4451e9cd7af5c0d68c5e1ad67f8d13ce"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-99-2012",
+   "path": "ordin/ansvsa/2012/99",
+   "short": "Ordin ansvsa nr. 99/2012",
+   "title": "Ordinul nr. 99/2012 pentru modificarea anexei la Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 92/2006 privind aprobarea Tarifelor de plată pentru acțiunile de prelevare de probe efectuate în vederea controlului oficial al alimentelor de origine nonanimală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143999",
+   "versions": [
+    {
+     "from": "2012-12-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143999",
+     "sha256": "ba6d3f5b0d5d3b49de8e3c37bf5e4befc909f4e811e9591e37ee592fe9cf98df"
     }
    ]
   },
@@ -1706,7 +2126,7 @@
    "versions": [
     {
      "from": "2012-02-23",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134753",
      "sha256": "7ad179f75bfe900228bebbb09c75aebf0dcbb9b4a85ccc793366e7fcb2617e56"
     }
@@ -1736,7 +2156,7 @@
    "versions": [
     {
      "from": "2012-03-20",
-     "units": 8,
+     "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136315",
      "sha256": "94440bd00e66f4865a8645fedaba2e1685e7c5b71041ade06d4034155236844c"
     }
@@ -5568,6 +5988,66 @@
    ]
   },
   {
+   "slug": "ordin-mediu-107-2012",
+   "path": "ordin/mediu/2012/107",
+   "short": "Ordin mediu nr. 107/2012",
+   "title": "Ordinul nr. 107/2012 privind modificarea anexei la Ordinul ministrului mediului și gospodăririi apelor nr. 665/2006 pentru aprobarea Regulamentului privind organizarea și funcționarea Comisiei de atestare în domeniul meteorologiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136262",
+   "versions": [
+    {
+     "from": "2012-03-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136262",
+     "sha256": "d6170ee4a5aee7d7a13913bcc7f69573d12faae1435ffde2deacb7d1290bd1aa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1108-2012",
+   "path": "ordin/mediu/2012/1108",
+   "short": "Ordin mediu nr. 1108/2012",
+   "title": "Ordinul nr. 1.108/2012 privind modificarea lit. c) a art. 3 din Metodologia de acordare a compensației pentru pierderea de venit corespunzătoare suprafețelor efectiv ocupate cu perdele forestiere de protecție înființate pe terenurile agricole, aprobată prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 649/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136703",
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136703",
+     "sha256": "18b4fa40f53b6d328fc9d89525f6311696c1b2098a236e86b10bfa46a743ee68"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1255-2012",
+   "path": "ordin/mediu/2012/1255",
+   "short": "Ordin mediu nr. 1255/2012",
+   "title": "Ordinul nr. 1.255/2012 pentru modificarea anexelor nr. 2-5 la Ordinul ministrului agriculturii, alimentației și pădurilor nr. 193/2002 privind reactualizarea delimitării fondului cinegetic al României în fonduri de vânătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138580",
+   "versions": [
+    {
+     "from": "2012-06-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138580",
+     "sha256": "303a33ce409e5f63058efce49c7d89c2affac9da229b0998e6a5e7d0b5bd0765"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1291-2012",
+   "path": "ordin/mediu/2012/1291",
+   "short": "Ordin mediu nr. 1291/2012",
+   "title": "Ordinul nr. 1.291/2012 pentru modificarea anexei nr. 6 la Ordinul ministrului mediului și pădurilor nr. 1.384/2011 privind aprobarea cotelor de recoltă pentru speciile de faună de interes cinegetic, la care vânarea este permisă, pentru sezonul de vânătoare 15 mai 2011 - 14 mai 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138220",
+   "versions": [
+    {
+     "from": "2012-05-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138220",
+     "sha256": "c368b800437e17a5bed27967191d3f9928799f9d4dc08bd511115d2010ba78ec"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1328-2012",
    "path": "ordin/mediu/2012/1328",
    "short": "Ordin mediu nr. 1328/2012",
@@ -5718,6 +6198,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-2691-2012",
+   "path": "ordin/mediu/2012/2691",
+   "short": "Ordin mediu nr. 2691/2012",
+   "title": "Ordinul nr. 2.691/2012 pentru modificarea Ghidului de finanțare a Programului de stimulare a înnoirii Parcului auto național, aprobat prin Ordinul ministrului mediului și pădurilor nr. 981/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140749",
+   "versions": [
+    {
+     "from": "2012-08-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140749",
+     "sha256": "9b1c6b5eff1150f7407a795382e32e037b629a6aa30d390dbd2fa2fe1d2cd9ab"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-3202-2012",
    "path": "ordin/mediu/2012/3202",
    "short": "Ordin mediu nr. 3202/2012",
@@ -5729,6 +6224,21 @@
      "units": 40,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142023",
      "sha256": "0ea49e1f7d4b2d5e1b9b286cc206d2cf6ba7ffe265da2a785b1e319f6d959bc3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3240-2012",
+   "path": "ordin/mediu/2012/3240",
+   "short": "Ordin mediu nr. 3240/2012",
+   "title": "Ordinul nr. 3.240/2012 pentru completarea Ordinului ministrului mediului și pădurilor și al președintelui Autorității Naționale pentru Reglementarea și Monitorizarea Achizițiilor Publice nr. 2.266/335/2012 privind aprobarea modelelor de documentații standardizate aferente procedurilor de atribuire a contractelor de achiziție de lucrări publice pentru proiectele de \"proiectare și execuție de stație de tratare a apei/stație de epurare de ape reziduale\", \"execuție de rețele de canalizare și rețele de alimentare cu apă\", \"proiectare și execuție de stație de sortare, compostare și tratare mecano-biologică a deșeurilor\", \"execuție de depozit conform de deșeuri\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140803",
+   "versions": [
+    {
+     "from": "2012-08-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140803",
+     "sha256": "42088b8afb556ad6d08c765783b243c4d7d3ce16e5bac202de45cc834417272d"
     }
    ]
   },
@@ -5853,6 +6363,36 @@
    ]
   },
   {
+   "slug": "ordin-mediu-3701-2012",
+   "path": "ordin/mediu/2012/3701",
+   "short": "Ordin mediu nr. 3701/2012",
+   "title": "Ordinul nr. 3.701/2012 pentru modificarea Ghidului de finanțare a Programului vizând protecția resurselor de apă, sisteme integrate de alimentare cu apă, stații de tratare, canalizare și stații de epurare, aprobat prin Ordinul ministrului mediului și pădurilor nr. 1.450/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142736",
+   "versions": [
+    {
+     "from": "2012-11-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142736",
+     "sha256": "f3440b1d598b552662543743dd0e378847b31ac4b9a66376ab546e773bf0c439"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3814-2012",
+   "path": "ordin/mediu/2012/3814",
+   "short": "Ordin mediu nr. 3814/2012",
+   "title": "Ordinul nr. 3.814/2012 pentru aprobarea Normelor tehnice privind modificarea prevederilor amenajamentelor silvice și schimbarea categoriei de folosință a terenurilor din fondul forestier",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143090",
+   "versions": [
+    {
+     "from": "2012-11-23",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143090",
+     "sha256": "63bb55dfbb1d7b740ceba3814da2e6ab591fa0cd2846c6b2ade58f6a75f7fcf2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-3821-2012",
    "path": "ordin/mediu/2012/3821",
    "short": "Ordin mediu nr. 3821/2012",
@@ -5868,6 +6408,36 @@
    ]
   },
   {
+   "slug": "ordin-mediu-3838-2012",
+   "path": "ordin/mediu/2012/3838",
+   "short": "Ordin mediu nr. 3838/2012",
+   "title": "Ordinul nr. 3.838/2012 pentru modificarea Ordinului ministrului mediului și gospodăririi apelor nr. 95/2005 privind stabilirea criteriilor de acceptare și procedurilor preliminare de acceptare a deșeurilor la depozitare și lista națională de deșeuri acceptate în fiecare clasă de depozit de deșeuri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143142",
+   "versions": [
+    {
+     "from": "2012-11-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143142",
+     "sha256": "0558f7da8b1465ba41d518b007178cb4c7907089f57827b1b52fcc9364a8d3cb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3839-2012",
+   "path": "ordin/mediu/2012/3839",
+   "short": "Ordin mediu nr. 3839/2012",
+   "title": "Ordinul nr. 3.839/2012 pentru modificarea și completarea Procedurii de emitere a autorizației de mediu, aprobată prin Ordinul ministrului mediului și dezvoltării durabile nr. 1.798/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143149",
+   "versions": [
+    {
+     "from": "2012-11-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143149",
+     "sha256": "150b69005a22887ef05aae24c610fcbe2a6a86f81ba7d1339da4aef63f545a98"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-3883-2012",
    "path": "ordin/mediu/2012/3883",
    "short": "Ordin mediu nr. 3883/2012",
@@ -5879,6 +6449,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144429",
      "sha256": "41d40d20232afaf2d9f1777c14e509e168dce4345b75951a0fdefb82b3f848e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3968-2012",
+   "path": "ordin/mediu/2012/3968",
+   "short": "Ordin mediu nr. 3968/2012",
+   "title": "Ordinul nr. 3.968/2012 privind modificarea anexelor nr. 1 și 2 la Ordinul ministrului mediului și gospodăririi apelor nr. 251/2005 pentru organizarea și funcționarea secretariatelor de risc privind controlul activităților care prezintă pericole de accidente majore în care sunt implicate substanțe periculoase",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143517",
+   "versions": [
+    {
+     "from": "2012-12-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143517",
+     "sha256": "58496258fdecb36b933a970991ef591d3a3f316163d3eab7139ba335025a8985"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3970-2012",
+   "path": "ordin/mediu/2012/3970",
+   "short": "Ordin mediu nr. 3970/2012",
+   "title": "Ordinul nr. 3.970/2012 pentru modificarea și completarea Procedurii de emitere a autorizației integrate de mediu, aprobată prin Ordinul ministrului agriculturii, pădurilor, apelor și mediului nr. 818/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143916",
+   "versions": [
+    {
+     "from": "2012-12-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143916",
+     "sha256": "c57b38e83027353407a8ef05749274f0621cc764785347751667e76b3a56225e"
     }
    ]
   },
@@ -6018,6 +6618,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-821-2012",
+   "path": "ordin/mediu/2012/821",
+   "short": "Ordin mediu nr. 821/2012",
+   "title": "Ordinul nr. 821/2012 pentru modificarea anexelor nr. 2, 3 și 6 la Ordinul ministrului mediului și pădurilor nr. 1.384/2011 privind aprobarea cotelor de recoltă pentru speciile de faună de interes cinegetic, la care vânarea este permisă, pentru sezonul de vânătoare 15 mai 2011-14 mai 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135517",
+   "versions": [
+    {
+     "from": "2012-02-20",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135517",
+     "sha256": "cfe0963b6d1195c55db45069bcfa2b8d5cbc82b2ff5071fbc96c4e9d0851121b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-85-2012",
    "path": "ordin/mediu/2012/85",
    "short": "Ordin mediu nr. 85/2012",
@@ -6044,6 +6659,21 @@
      "units": 40,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137490",
      "sha256": "707c2f1fbd575ada5971922e297430ba4be93597dbcfcc1a6d7cfb1e093d6dac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-90-2012",
+   "path": "ordin/mediu/2012/90",
+   "short": "Ordin mediu nr. 90/2012",
+   "title": "Ordinul nr. 90/2012 pentru modificarea anexelor nr. 2 și 6 la Ordinul ministrului mediului și pădurilor nr. 1.384/2011 privind aprobarea cotelor de recoltă pentru speciile de faună de interes cinegetic, la care vânarea este permisă, pentru sezonul de vânătoare 15 mai 2011 - 14 mai 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134772",
+   "versions": [
+    {
+     "from": "2012-01-25",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134772",
+     "sha256": "33f7102cbda6ac7cc9e1b25c6751eb48410b789618f6c7bdb9cad60685a9db27"
     }
    ]
   },
@@ -8879,6 +9509,66 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135472",
      "sha256": "3baa81a2801fba0f275b80b89d48c38f1760f443f2906dced8fee5b671b9901f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-1834-2012",
+   "path": "ordin/vama/2012/1834",
+   "short": "Ordin vama nr. 1834/2012",
+   "title": "Ordinul nr. 1.834/2012 pentru aprobarea Instrucțiunilor privind accesul operatorilor economici la aplicația EMCS-RO STOCURI pentru depunerea online a declarațiilor privind situația achizițiilor și livrărilor de produse accizabile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140639",
+   "versions": [
+    {
+     "from": "2012-08-20",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140639",
+     "sha256": "78a7d72e72a533ac803e6539b9ccd5224220c70d65168552e148cfc5e04f1a1f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-2028-2012",
+   "path": "ordin/vama/2012/2028",
+   "short": "Ordin vama nr. 2028/2012",
+   "title": "Ordinul nr. 2.028/2012 pentru stabilirea formularului unic al Uniunii Europene utilizat la declararea numerarului la frontiera comunitară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141805",
+   "versions": [
+    {
+     "from": "2012-10-12",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141805",
+     "sha256": "c109d6aa76b58f3a3434f5cdc1ff379a7c0c359ab4fedb4ee5703052446e7f60"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-2423-2012",
+   "path": "ordin/vama/2012/2423",
+   "short": "Ordin vama nr. 2423/2012",
+   "title": "Ordinul nr. 2.423/2012 privind modificarea și completarea anexelor nr. 2 și 3 la Ordinul vicepreședintelui Agenției Naționale de Administrare Fiscală nr. 9.988/2006 pentru aprobarea normelor tehnice de completare, utilizare și tipărire a declarației sumare și a documentului administrativ unic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143205",
+   "versions": [
+    {
+     "from": "2012-11-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143205",
+     "sha256": "d38f5492d06e38ea0fc000402ef121eafc4e0619d86b2ca8ebcd845ca9657f37"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-649-2012",
+   "path": "ordin/vama/2012/649",
+   "short": "Ordin vama nr. 649/2012",
+   "title": "Ordinul nr. 649/2012 privind modificarea anexei nr. 3 la Ordinul vicepreședintelui Agenției Naționale de Administrare Fiscală nr. 9.988/2006 pentru aprobarea normelor tehnice de completare, utilizare și tipărire a declarației sumare și a documentului administrativ unic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136874",
+   "versions": [
+    {
+     "from": "2012-04-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136874",
+     "sha256": "5e1c4e5c2e8eff277a128616e73933ca8175f809a27197f5f2a83d5ac9db50a3"
     }
    ]
   }

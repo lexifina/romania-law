@@ -2,7 +2,7 @@
 
 Ordin anre nr. 145/2014 · 1 versions, from 2014-12-19 (latest in force: 2014-12-19) · <https://legislatie.just.ro/Public/DetaliiDocument/164044>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 Funcționalități ale sistemelor de măsurare inteligentă (SMI) a energiei electrice *Font 7* ...): it is a table that the official text holds only flattened; Anexa nr. 3 (4 Date generale ale planului de implementare a sistemelor de măsurare inteligentă (SMI) a energiei electrice *Font 7* ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 Funcționalități ale sistemelor de măsurare inteligentă (SMI) a energiei electrice *Font 7*): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -22,6 +22,8 @@ Ordin anre nr. 145/2014 · 1 versions, from 2014-12-19 (latest in force: 2014-12
 | Art. 14 | [art-014.md](art-014.md) | 0 |  |
 | Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 
 Act id: `ordin-anre-145-2014` (tags `ordin-anre-145-2014/<day>`; `python tools/on.py <day> ordin-anre-145-2014`).
 
@@ -32,6 +34,6 @@ Act id: `ordin-anre-145-2014` (tags `ordin-anre-145-2014/<day>`; `python tools/o
 - Ordin anre nr. 145/2014: the first version is the order as published in Monitorul Oficial nr. 931 of 19 December 2014 (document 164044 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin anre nr. 145/2014: the signatures and the place and date line after its last article are not article text.
 - Ordin anre nr. 145/2014: Anexa nr. 2 (3 Criteriile pentru avizarea proiectelor-pilot privind implementarea sistemelor de măsurare inteligentă a energiei electrice Comisia pentru gestionarea implementării proiectelor-pilot pentru sistemele) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 164044 of the official web service.
-- Ordin anre nr. 145/2014: Anexa nr. 1 (1 Funcționalități ale sistemelor de măsurare inteligentă (SMI) a energiei electrice *Font 7* ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anre nr. 145/2014: Anexa nr. 3 (4 Date generale ale planului de implementare a sistemelor de măsurare inteligentă (SMI) a energiei electrice *Font 7* ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anre nr. 145/2014: Anexa nr. 3 (4 Date generale ale planului de implementare a sistemelor de măsurare inteligentă (SMI) a energiei electrice *Font 7*) is part of the order and is published in its folder, anexa-3/ (paragraphs and tables), from document 164044 of the official web service.
+- Ordin anre nr. 145/2014: Anexa nr. 1 (1 Funcționalități ale sistemelor de măsurare inteligentă (SMI) a energiei electrice *Font 7*) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin anre nr. 145/2014: the publisher's notes run into its text (*) Datele solicitate se vor completa pentru fiecare proiect-pilot propus pentru a fi realizat în anul 2015/realizat în a) are not text.

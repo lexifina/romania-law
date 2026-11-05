@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 3697/2016 · 1 versions, from 2017-01-26 (latest in force: 2017-01-26) · <https://legislatie.just.ro/Public/DetaliiDocument/186025>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 DECLARAȚIE PE PROPRIA RĂSPUNDERE pentru exceptarea de la plata contribuției de asigurări sociale de sănătate ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -16,6 +16,8 @@ Ordin anaf nr. 3697/2016 · 1 versions, from 2017-01-26 (latest in force: 2017-0
 | Art. 8 | [art-008.md](art-008.md) | 0 |  |
 | Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 | Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
 | Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 | Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
@@ -31,6 +33,6 @@ Act id: `ordin-anaf-3697-2016` (tags `ordin-anaf-3697-2016/<day>`; `python tools
 - Ordin anaf nr. 3697/2016: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 3697/2016: a joint order of Agenția Națională de Administrare Fiscală nr. 3.697 din 27 December 2016; Casa Națională de Asigurări de Sănătate nr. 727 din 8 September 2016. It is published once, here, under the issuer its EMITENT block lists first; `ordin-cnas-727-2016` name it too (data/paths.json aliases).
 - Ordin anaf nr. 3697/2016: Anexa nr. 1 (1 PROCEDURA 08/09/2016) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 186025 of the official web service.
+- Ordin anaf nr. 3697/2016: Anexa nr. 2 (2 DECLARAȚIE PE PROPRIA RĂSPUNDERE pentru exceptarea de la plata contribuției de asigurări sociale de sănătate) is part of the order and is published in its folder, anexa-2/ (paragraphs and tables), from document 186025 of the official web service.
 - Ordin anaf nr. 3697/2016: Anexa nr. 3 (3 Instrucțiuni de completare a formularului 603 "Declarație pe propria răspundere pentru exceptarea de la plata contribuției de asigurări sociale de sănătate" 1. Depunerea declarației Declarația se de) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 186025 of the official web service.
 - Ordin anaf nr. 3697/2016: Anexa nr. 4 (4 Caracteristicile de tipărire, modul de difuzare, de utilizare și de păstrare a formularului Denumire: "Declarație pe propria răspundere pentru exceptarea de la plata contribuției de asigurări social) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 186025 of the official web service.
-- Ordin anaf nr. 3697/2016: Anexa nr. 2 (2 DECLARAȚIE PE PROPRIA RĂSPUNDERE pentru exceptarea de la plata contribuției de asigurări sociale de sănătate ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

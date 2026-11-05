@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-313-2006",
+   "path": "ordin/agricultura/2006/313",
+   "short": "Ordin agricultura nr. 313/2006",
+   "title": "Ordinul nr. 313/2006 pentru completarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale și al ministrului mediului și gospodăririi apelor nr. 191/326/2006 privind prohibiția pescuitului în anul 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71765",
+   "versions": [
+    {
+     "from": "2006-05-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71765",
+     "sha256": "2c51f93e677865a0f29091ac1a77b2a64356873a7c640bb8b69e330271a96cff"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-317-2006",
    "path": "ordin/agricultura/2006/317",
    "short": "Ordin agricultura nr. 317/2006",
@@ -389,6 +404,21 @@
      "units": 25,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74221",
      "sha256": "98e0bbe9590f789e4608b5d066e4b7b1d7c397dc1133bfca90da55e959ba0854"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-502-2006",
+   "path": "ordin/agricultura/2006/502",
+   "short": "Ordin agricultura nr. 502/2006",
+   "title": "Ordinul nr. 502/2006 privind aprobarea Procedurii și modului de identificare și înregistrare a ecvideelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74232",
+   "versions": [
+    {
+     "from": "2006-08-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74232",
+     "sha256": "a19307f2f1564dd72f1c824c0ef6b42955921783cb9e7d85a5d5c3d4f41d5702"
     }
    ]
   },
@@ -1106,7 +1136,7 @@
    "versions": [
     {
      "from": "2006-07-01",
-     "units": 7,
+     "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73041",
      "sha256": "2194119e6970fd77f132385b8ae9a0df46c084fc6cfff5099781a20711f80b44"
     }
@@ -1301,7 +1331,7 @@
    "versions": [
     {
      "from": "2006-12-01",
-     "units": 4,
+     "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77091",
      "sha256": "8960bac549e0be9bbc3f28bc6598b3ef329b3a59fc90acdc70197ffb144f56d8"
     }
@@ -1316,7 +1346,7 @@
    "versions": [
     {
      "from": "2006-12-01",
-     "units": 3,
+     "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77095",
      "sha256": "1bbec96ded8b8112bf486be477004bdea7571af412cb9a4cbfb28cc0ec5b637a"
     }
@@ -1421,7 +1451,7 @@
    "versions": [
     {
      "from": "2007-01-01",
-     "units": 5,
+     "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78081",
      "sha256": "9bc6e1caec4196da176483041ffbbb95f2c9706db1faedda2bd0a7b2a60c4176"
     }
@@ -1466,7 +1496,7 @@
    "versions": [
     {
      "from": "2007-01-01",
-     "units": 5,
+     "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78282",
      "sha256": "ab56f7efa1726f76398ead1afd24e2e2fe10c8fdb4913e4cf7333901982e86fa"
     }
@@ -1571,7 +1601,7 @@
    "versions": [
     {
      "from": "2006-11-11",
-     "units": 10,
+     "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76266",
      "sha256": "10cae7f7930fa0179478e7f74059f9728a3aff6079aa4ef70dba10bc420cf442"
     }
@@ -1616,7 +1646,7 @@
    "versions": [
     {
      "from": "2006-04-01",
-     "units": 5,
+     "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69932",
      "sha256": "fcd847e412b86ef6711bc887f59f37d34525e76fd710fa63c85fa8159bdc9777"
     }
@@ -1661,9 +1691,69 @@
    "versions": [
     {
      "from": "2006-07-18",
-     "units": 10,
+     "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73210",
      "sha256": "d9387450f08a165a7c7e4b9bf30214c1050f51f15933fc0618711ee2111e7cf3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-1-2006",
+   "path": "ordin/ansvsa/2006/1",
+   "short": "Ordin ansvsa nr. 1/2006",
+   "title": "Ordinul nr. 1/2006 pentru aprobarea tarifelor sanitare veterinare privind finanțarea inspecțiilor și controalelor veterinare la frontieră, pentru controlul furajelor de origine vegetală destinate animalelor, produselor medicinale de uz veterinar și produselor de origine nonanimală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67768",
+   "versions": [
+    {
+     "from": "2006-01-10",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67768",
+     "sha256": "e2f4a778c28c157597c2ecbb7a32525a7a237eb1f74d20404b749c9085b0bc24"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-10-2006",
+   "path": "ordin/ansvsa/2006/10",
+   "short": "Ordin ansvsa nr. 10/2006",
+   "title": "Ordinul nr. 10/2006 privind aprobarea Normei sanitare veterinare care stabilește modelul de certificat pentru comerțul intracomunitar cu material seminal, ovule și embrioni de la speciile ovine și caprine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68856",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68856",
+     "sha256": "a25a25474882f3f176b2857460d4779b08152091810f2b30783000d74b05bb84"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-100-2006",
+   "path": "ordin/ansvsa/2006/100",
+   "short": "Ordin ansvsa nr. 100/2006",
+   "title": "Ordinul nr. 100/2006 privind aprobarea Instrucțiunilor pentru organizarea și desfășurarea activității personalului de specialitate, angajat al direcției sanitar-veterinare și pentru siguranța alimentelor județene, respectiv a municipiului București, în unitățile de prelucrare, procesare, depozitare, transport și valorificare a produselor și subproduselor de origine nonanimală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71258",
+   "versions": [
+    {
+     "from": "2006-08-03",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71258",
+     "sha256": "b0455ab1776a3bea4f858bb74d8d0b80a4053c96f9ef85eeeade70d54fcca36e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-117-2006",
+   "path": "ordin/ansvsa/2006/117",
+   "short": "Ordin ansvsa nr. 117/2006",
+   "title": "Ordinul nr. 117/2006 privind modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 87/2006 pentru aprobarea Normei sanitare veterinare privind diagnosticul, profilaxia, supravegherea și combaterea influenței aviare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72114",
+   "versions": [
+    {
+     "from": "2006-05-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72114",
+     "sha256": "72b8f652f28726c305442918f3de1bd60f821a297d3ce13e28c2299e67945f9c"
     }
    ]
   },
@@ -1683,6 +1773,411 @@
    ]
   },
   {
+   "slug": "ordin-ansvsa-123-2006",
+   "path": "ordin/ansvsa/2006/123",
+   "short": "Ordin ansvsa nr. 123/2006",
+   "title": "Ordinul nr. 123/2006 pentru modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 37/2005 privind informațiile de interes public și secretele de serviciu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72343",
+   "versions": [
+    {
+     "from": "2006-06-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72343",
+     "sha256": "808e6c716e3aa0efdb524e9a74020927459be6b6812047532b370c1c0bdfca21"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-124-2006",
+   "path": "ordin/ansvsa/2006/124",
+   "short": "Ordin ansvsa nr. 124/2006",
+   "title": "Ordinul nr. 124/2006 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 95/2006 pentru aprobarea Normei sanitare veterinare privind condițiile de sănătate a animalelor și modelele de certificate veterinare pentru importul de carne proaspătă de pasăre din țări terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72301",
+   "versions": [
+    {
+     "from": "2006-06-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72301",
+     "sha256": "702abe7a4bf2333db5501c8044700699044d81fdd28bfda65d7a383e7cdd3058"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-125-2006",
+   "path": "ordin/ansvsa/2006/125",
+   "short": "Ordin ansvsa nr. 125/2006",
+   "title": "Ordinul nr. 125/2006 pentru aprobarea Normei sanitare veterinare privind certificarea animalelor și a produselor de origine animală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72627",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72627",
+     "sha256": "e411b98db5ed5098d92043d045e8b59e55d03c804fe2070de2666b523d5706b5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-126-2006",
+   "path": "ordin/ansvsa/2006/126",
+   "short": "Ordin ansvsa nr. 126/2006",
+   "title": "Ordinul nr. 126/2006 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 95/2006 pentru aprobarea Normei sanitare veterinare privind condițiile de sănătate a animalelor și modelele de certificate veterinare pentru importul de carne proaspătă de pasăre din țări terțe, astfel cum a fost modificat prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 124/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72413",
+   "versions": [
+    {
+     "from": "2006-06-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72413",
+     "sha256": "6a19b296c1019118b1e2cc7f63f5a9ebea30ea3b101310445c2c4951c596c480"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-13-2006",
+   "path": "ordin/ansvsa/2006/13",
+   "short": "Ordin ansvsa nr. 13/2006",
+   "title": "Ordinul nr. 13/2006 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 138/2005 pentru aprobarea Normei sanitare veterinare care stabilește regulile privind importul, exportul și tranzitul produselor de origine animală cuprinse în anexa la Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 122/2005 pentru aprobarea Normei sanitare veterinare care stabilește lista produselor ce trebuie să fie examinate la posturile de inspecție la frontieră în baza Directivei Consiliului 97/78/EC, precum și animalelor vii, produselor medicinale de uz veterinar și furajelor cuprinse în anexele la Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 123/2005 pentru aprobarea listelor care cuprind animalele vii, produsele medicinale de uz veterinar și furajele supuse controlului sanitar-veterinar la posturile de inspecție la frontieră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68722",
+   "versions": [
+    {
+     "from": "2006-02-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68722",
+     "sha256": "79bd9efb730522f06b8cefe1a6653be2548c491b6050f78966d5a65267cbe8fb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-133-2006",
+   "path": "ordin/ansvsa/2006/133",
+   "short": "Ordin ansvsa nr. 133/2006",
+   "title": "Ordinul nr. 133/2006 pentru aprobarea Normei sanitare veterinare care introduce măsuri generale pentru controlul unor boli ale animalelor și măsuri specifice referitoare la boala veziculoasa a porcului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73522",
+   "versions": [
+    {
+     "from": "2006-07-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73522",
+     "sha256": "fec426feae8eb8d5ff2887824fd63aaa1f919b7395870641ac06325dcbb90ae8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-134-2006",
+   "path": "ordin/ansvsa/2006/134",
+   "short": "Ordin ansvsa nr. 134/2006",
+   "title": "Ordinul nr. 134/2006 pentru aprobarea Normei sanitare veterinare privind condițiile de sănătate a animalelor, care reglementează comerțul intracomunitar și importul din tari terțe de embrioni proveniți de la animale domestice din specia bovine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73524",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73524",
+     "sha256": "311efe3491638611ae0a74d6e44a66786f79850ccba30a1c0d2ba92a81d34c9d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-135-2006",
+   "path": "ordin/ansvsa/2006/135",
+   "short": "Ordin ansvsa nr. 135/2006",
+   "title": "Ordinul nr. 135/2006 pentru aprobarea Normei sanitare veterinare privind măsurile de control și combatere a pestei africane a calului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73525",
+   "versions": [
+    {
+     "from": "2006-08-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73525",
+     "sha256": "dce605ff44e75349237d4e97d9d66afd3bd37b03ca8ccd0e5bca36728e39e065"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-136-2006",
+   "path": "ordin/ansvsa/2006/136",
+   "short": "Ordin ansvsa nr. 136/2006",
+   "title": "Ordinul nr. 136/2006 pentru aprobarea Normei sanitare veterinare privind standardele minime pentru protecția găinilor ouătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73526",
+   "versions": [
+    {
+     "from": "2006-08-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73526",
+     "sha256": "877f628a0794ff2037fcc3a3caa1e604d435432ff4eb093e11ceff41bff564ad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-14-2006",
+   "path": "ordin/ansvsa/2006/14",
+   "short": "Ordin ansvsa nr. 14/2006",
+   "title": "Ordinul nr. 14/2006 privind modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 82/2005 pentru aprobarea Normei sanitare veterinare privind măsurile de supraveghere și control al unor substanțe și al reziduurilor acestora la animalele vii și la produsele lor, precum și al reziduurilor de medicamente de uz veterinar în produsele de origine animală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69029",
+   "versions": [
+    {
+     "from": "2006-02-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69029",
+     "sha256": "834536722f9b9142f75d624c33da9204929c82d066f2054a5bdea2bf2bb1847e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-140-2006",
+   "path": "ordin/ansvsa/2006/140",
+   "short": "Ordin ansvsa nr. 140/2006",
+   "title": "Ordinul nr. 140/2006 pentru aprobarea Normei sanitare veterinare privind măsurile de control pentru gripa aviara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73770",
+   "versions": [
+    {
+     "from": "2006-08-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73770",
+     "sha256": "60799951f3783f243366d393005ec0e7d2d02e965a35e7b4535af7bea51dc953"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-142-2006",
+   "path": "ordin/ansvsa/2006/142",
+   "short": "Ordin ansvsa nr. 142/2006",
+   "title": "Ordinul nr. 142/2006 pentru aprobarea Normei sanitare veterinare privind obiectivul Comunității Europene de reducere a prevalenței anumitor serotipuri de Salmonella la efectivele reproducătoare din specia Gallus gallus",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73201",
+   "versions": [
+    {
+     "from": "2006-07-15",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73201",
+     "sha256": "a6eb3410341e99fcb9c82998b07e1a601adeead0d5c1ec73be150d649e217ab2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-143-2006",
+   "path": "ordin/ansvsa/2006/143",
+   "short": "Ordin ansvsa nr. 143/2006",
+   "title": "Ordinul nr. 143/2006 pentru aprobarea Normei sanitare veterinare privind anumite produse utilizate în nutriția animalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73679",
+   "versions": [
+    {
+     "from": "2006-08-20",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73679",
+     "sha256": "8e07c1b46776e89adc36995ff578d66ce6c689049a85c5bbea75550d3bcf0f6c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-144-2006",
+   "path": "ordin/ansvsa/2006/144",
+   "short": "Ordin ansvsa nr. 144/2006",
+   "title": "Ordinul nr. 144/2006 pentru aprobarea Normei sanitare veterinare privind condițiile de sănătate a animalelor, care reglementează comerțul intracomunitar și importul din tari terțe de păsări și oua de incubație",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73771",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73771",
+     "sha256": "1329276645a8f5a3f4fdaa9f6cef9695eb2146185e62c324b058e3ce853128a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-146-2006",
+   "path": "ordin/ansvsa/2006/146",
+   "short": "Ordin ansvsa nr. 146/2006",
+   "title": "Ordinul nr. 146/2006 pentru modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 148/2005 privind aprobarea Programului acțiunilor de supraveghere, prevenire și control al bolilor la animale, al celor transmisibile de la animale la om, protecția animalelor și protecția mediului pentru anul 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73546",
+   "versions": [
+    {
+     "from": "2006-07-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73546",
+     "sha256": "cd5d4ff366f589124076bf5e2db353f40f58a0e29a06229b3e30ce0686b032ba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-147-2006",
+   "path": "ordin/ansvsa/2006/147",
+   "short": "Ordin ansvsa nr. 147/2006",
+   "title": "Ordinul nr. 147/2006 pentru aprobarea Normei sanitare veterinare privind condițiile de biosecuritate în exploatațiile avicole comerciale, precum și a Procedurii privind mișcarea păsărilor vii, a produselor, subproduselor și a gunoiului de la păsări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72958",
+   "versions": [
+    {
+     "from": "2006-06-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72958",
+     "sha256": "6b41896ed0e13ed864a12977a66e41ee464a73353e12c54efd213a1ed4ec3421"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-15-2006",
+   "path": "ordin/ansvsa/2006/15",
+   "short": "Ordin ansvsa nr. 15/2006",
+   "title": "Ordinul nr. 15/2006 pentru modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 45/2005 privind aprobarea tarifelor pentru efectuarea analizelor și examenelor de laborator, precum și a unor activități sanitare veterinare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68719",
+   "versions": [
+    {
+     "from": "2006-03-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68719",
+     "sha256": "5be21d4a3d51c91f91d8db7d4628260c8771b338f528218a035cdd5e5adabcb9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-152-2006",
+   "path": "ordin/ansvsa/2006/152",
+   "short": "Ordin ansvsa nr. 152/2006",
+   "title": "Ordinul nr. 152/2006 privind modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 53/2005 pentru aprobarea Normei sanitare veterinare privind lista cuprinzând țările terțe sau părți ale țărilor terțe și condițiile de certificare veterinară, sănătate animală și publică pentru importul în Comunitatea Europeană al anumitor animale vii și al cărnii proaspete provenite de la acestea și preluarea acestor liste și condiții pentru importul în România, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72890",
+   "versions": [
+    {
+     "from": "2006-06-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72890",
+     "sha256": "9e1abc873b6d0fd069daf8c921353dce9b35052e11130869f3dadc367dbd7300"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-153-2006",
+   "path": "ordin/ansvsa/2006/153",
+   "short": "Ordin ansvsa nr. 153/2006",
+   "title": "Ordinul nr. 153/2006 pentru aprobarea Normei sanitare veterinare privind controlul bolii de Newcastle (pseudopesta aviară)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73598",
+   "versions": [
+    {
+     "from": "2006-07-29",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73598",
+     "sha256": "12221003d9b67be1f4d436a133e3f474ffb0cab77b42077b5759be1afab8c8ba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-156-2006",
+   "path": "ordin/ansvsa/2006/156",
+   "short": "Ordin ansvsa nr. 156/2006",
+   "title": "Ordinul nr. 156/2006 privind modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 95/2006 pentru aprobarea Normei sanitare veterinare privind condițiile de sănătate a animalelor și modelele de certificate veterinare pentru importul de carne proaspătă de pasăre din țări terțe, cu modificările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73614",
+   "versions": [
+    {
+     "from": "2006-07-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73614",
+     "sha256": "b55caab3a705e8c964034dcff081e8acd0f5b793b864466609cb6fa1e6c0350e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-157-2006",
+   "path": "ordin/ansvsa/2006/157",
+   "short": "Ordin ansvsa nr. 157/2006",
+   "title": "Ordinul nr. 157/2006 privind aprobarea Regulamentului de organizare și funcționare a Comitetului interministerial pentru supravegherea și controlul oficial al alimentelor și hranei pentru animale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73284",
+   "versions": [
+    {
+     "from": "2006-07-07",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73284",
+     "sha256": "b70b99e9da0104eeea1de35f2d1b8e1e48b9127f2e3124a3284d22771ce42c0f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-159-2006",
+   "path": "ordin/ansvsa/2006/159",
+   "short": "Ordin ansvsa nr. 159/2006",
+   "title": "Ordinul nr. 159/2006 privind aprobarea Normei pentru siguranța alimentelor care stabilește procedurile la importul și exportul de produse alimentare de origine nonanimală supuse supravegherii și controlului pentru siguranța alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74369",
+   "versions": [
+    {
+     "from": "2006-10-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74369",
+     "sha256": "f376a224fc9e231f590c4278fe849d52e6d2c0a3c073cea722590e87f4a60e2e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-160-2006",
+   "path": "ordin/ansvsa/2006/160",
+   "short": "Ordin ansvsa nr. 160/2006",
+   "title": "Ordinul nr. 160/2006 pentru aprobarea Normei sanitare veterinare referitoare la laboratoare comunitare de referință pentru epidemiologia zoonozelor și pentru Salmonella și laboratorul național de referință pentru Salmonella",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73513",
+   "versions": [
+    {
+     "from": "2006-07-27",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73513",
+     "sha256": "7c79245e75ca956f2b5f7f9446e8ad84040b6b5a53750c1358e913afd7b1edcb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-162-2006",
+   "path": "ordin/ansvsa/2006/162",
+   "short": "Ordin ansvsa nr. 162/2006",
+   "title": "Ordinul nr. 162/2006 pentru modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 37/2005 privind informațiile de interes public și secretele de serviciu, cu modificările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73515",
+   "versions": [
+    {
+     "from": "2006-07-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73515",
+     "sha256": "785e67a8270cde59a0f272ff0bbe4fde751df8f68b3805e77a4dd3d824e62e2b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-163-2006",
+   "path": "ordin/ansvsa/2006/163",
+   "short": "Ordin ansvsa nr. 163/2006",
+   "title": "Ordinul nr. 163/2006 pentru aprobarea Normei privind prevenirea și reducerea contaminării cu patulină în sucul de mere și în sucul de mere folosit ca ingredient pentru alte băuturi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73852",
+   "versions": [
+    {
+     "from": "2006-09-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73852",
+     "sha256": "eb623f307d59690159b5409a6192049bb5d2b55dbf80cab3208aec6cc8217b86"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-169-2006",
+   "path": "ordin/ansvsa/2006/169",
+   "short": "Ordin ansvsa nr. 169/2006",
+   "title": "Ordinul nr. 169/2006 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 84/2006 privind aprobarea Tarifelor de plată pentru manopera acțiunilor de supraveghere, prevenire și control al bolilor la animale, al celor transmisibile de la animale la om, protecția animalelor și protecția mediului, pentru anul 2006, efectuate de medicii veterinari de liberă practică împuterniciți în baza contractului de concesionare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73916",
+   "versions": [
+    {
+     "from": "2006-07-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73916",
+     "sha256": "e9599a3a3427a6610529444e617b9fdfdeb50eaf3e6e1fb07c0f6ccbbb25c6b3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-170-2006",
+   "path": "ordin/ansvsa/2006/170",
+   "short": "Ordin ansvsa nr. 170/2006",
+   "title": "Ordinul nr. 170/2006 privind completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 139/2004 pentru aprobarea Normei sanitare veterinare și pentru siguranța alimentelor privind procedura de aprobare sanitară veterinară și pentru siguranța alimentelor a activităților desfășurate de persoanele juridice definite conform art. 2 din Legea nr. 359/2004, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73917",
+   "versions": [
+    {
+     "from": "2006-07-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73917",
+     "sha256": "8a94c7558c66d2fcb04ef7dae3d65df467534861146b653b44750867150239a1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-178-2006",
    "path": "ordin/ansvsa/2006/178",
    "short": "Ordin ansvsa nr. 178/2006",
@@ -1694,6 +2189,816 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76487",
      "sha256": "916b428fccb60128764484e3328ffa7068b3b56c392f3589bd14eb346cb5142b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-180-2006",
+   "path": "ordin/ansvsa/2006/180",
+   "short": "Ordin ansvsa nr. 180/2006",
+   "title": "Ordinul nr. 180/2006 pentru aprobarea Normei sanitare veterinare privind protecția animalelor în timpul sacrificării și uciderii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74515",
+   "versions": [
+    {
+     "from": "2006-09-22",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74515",
+     "sha256": "1ddc5b0fc0a510178d87e4e92ea2a5a6abac9c74021d1dafa55b4e89718dcd20"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-181-2006",
+   "path": "ordin/ansvsa/2006/181",
+   "short": "Ordin ansvsa nr. 181/2006",
+   "title": "Ordinul nr. 181/2006 privind aprobarea Normei sanitare veterinare ce stabilește planurile pentru prelevarea probelor și metodele de diagnostic pentru detectarea și confirmarea prezenței bonamiozei (Bonamia ostreae) și marteiliozei (Marteilia refringens) la moluște",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74344",
+   "versions": [
+    {
+     "from": "2006-08-17",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74344",
+     "sha256": "00c019ff501554aa74a00582f139d94d349e341ef7d6f140e6900865e0bbf77e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-184-2006",
+   "path": "ordin/ansvsa/2006/184",
+   "short": "Ordin ansvsa nr. 184/2006",
+   "title": "Ordinul nr. 184/2006 pentru aprobarea Normei sanitare veterinare privind formularele de prescripție medicală cu regim special și cu timbru sec pentru eliberarea produselor medicinale veterinare și a normelor metodologice referitoare la utilizarea acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74511",
+   "versions": [
+    {
+     "from": "2006-08-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74511",
+     "sha256": "277e0534bc504522a82e74d2f551b32c262d264b6b2ab7eb1019db364e514775"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-185-2006",
+   "path": "ordin/ansvsa/2006/185",
+   "short": "Ordin ansvsa nr. 185/2006",
+   "title": "Ordinul nr. 185/2006 pentru aprobarea Normei sanitare veterinare privind condițiile de organizare și funcționare a unităților farmaceutice veterinare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74461",
+   "versions": [
+    {
+     "from": "2006-08-21",
+     "units": 48,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74461",
+     "sha256": "c55f30e347abe428f77e11f8f96c00093d4f581abcabc9ad96a3bd389fd6de5a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-196-2006",
+   "path": "ordin/ansvsa/2006/196",
+   "short": "Ordin ansvsa nr. 196/2006",
+   "title": "Ordinul nr. 196/2006 privind aprobarea Normei sanitare veterinare și pentru siguranța alimentelor de implementare a reglementarilor pentru aditivii utilizați în nutriția animalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74715",
+   "versions": [
+    {
+     "from": "2006-08-30",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74715",
+     "sha256": "a922632715eb4c413b6f7fcd31f791743345bd54631793da3c022131895c9aa8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-197-2006",
+   "path": "ordin/ansvsa/2006/197",
+   "short": "Ordin ansvsa nr. 197/2006",
+   "title": "Ordinul nr. 197/2006 pentru aprobarea Normei sanitare veterinare ce stabilește condițiile care reglementează prepararea, punerea pe piață și utilizarea furajelor medicamentate în Comunitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74690",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74690",
+     "sha256": "f20bc63ce0238a3ad8cc1043e833eac554b4d23bc3307b7315bfccc6abec05e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-198-2006",
+   "path": "ordin/ansvsa/2006/198",
+   "short": "Ordin ansvsa nr. 198/2006",
+   "title": "Ordinul nr. 198/2006 privind aprobarea Normei sanitare veterinare ce stabilește cerințele pentru determinarea în furaje a nivelurilor de dioxina și a compușilor policlordifenili (PCBs) asemănători dioxinei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74753",
+   "versions": [
+    {
+     "from": "2006-08-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74753",
+     "sha256": "647124d36245058608c6d7b4738f705a44ef0753039f8ff63f1c14800994e03e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-199-2006",
+   "path": "ordin/ansvsa/2006/199",
+   "short": "Ordin ansvsa nr. 199/2006",
+   "title": "Ordinul nr. 199/2006 pentru aprobarea Normei sanitare veterinare privind interzicerea utilizării în creșterea animalelor de ferma a unor substanțe cu acțiune hormonala sau tireostatică și a celor betaagoniste",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74777",
+   "versions": [
+    {
+     "from": "2006-10-01",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74777",
+     "sha256": "5916d7e2265726c563f7eea8b66f4a47b7604b70142813090651edfd86a59afc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-200-2006",
+   "path": "ordin/ansvsa/2006/200",
+   "short": "Ordin ansvsa nr. 200/2006",
+   "title": "Ordinul nr. 200/2006 pentru aprobarea Normei sanitare veterinare privind masurile de protecție referitoare la exportul de ecvidee în statele membre ale Uniunii Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74728",
+   "versions": [
+    {
+     "from": "2006-08-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74728",
+     "sha256": "d9cfba7b1fedce7a21634a0fb0581e4b780859660180dbea0c0b156b40858fdf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-203-2006",
+   "path": "ordin/ansvsa/2006/203",
+   "short": "Ordin ansvsa nr. 203/2006",
+   "title": "Ordinul nr. 203/2006 privind aprobarea Normei sanitare veterinare ce stabilește condiții speciale pentru punerea pe piață a speciilor de animale de acvacultură și a produselor acestora considerate ca nefiind sensibile la anumite boli",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74947",
+   "versions": [
+    {
+     "from": "2006-09-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74947",
+     "sha256": "91372943e1fa89ef82a8e10eae795ccf2a10d42405de4ff92ff148f5571db1f4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-205-2006",
+   "path": "ordin/ansvsa/2006/205",
+   "short": "Ordin ansvsa nr. 205/2006",
+   "title": "Ordinul nr. 205/2006 pentru aprobarea Normei sanitare veterinare care stabilește cerințele de sănătate a animalelor aplicabile comerțului intracomunitar și importului de material seminal provenit de la animale domestice din specia bovine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74831",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74831",
+     "sha256": "649a27056e2bac9cc553a978f350bc8d92601a439e7f5e95a90e16358f58cd87"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-206-2006",
+   "path": "ordin/ansvsa/2006/206",
+   "short": "Ordin ansvsa nr. 206/2006",
+   "title": "Ordinul nr. 206/2006 pentru aprobarea Normei sanitare veterinare care stabilește principiile ce reglementează organizarea controalelor veterinare privind produsele ce intră în Comunitatea Europeană din țări terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74800",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74800",
+     "sha256": "b4f942f4deee48fcf4686ac82dd9b1b2d2139c5dea90f2583d94493c6fc332a8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-207-2006",
+   "path": "ordin/ansvsa/2006/207",
+   "short": "Ordin ansvsa nr. 207/2006",
+   "title": "Ordinul nr. 207/2006 pentru aprobarea Normei sanitare veterinare referitoare la echipamentul electromedical utilizat în medicina veterinară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74848",
+   "versions": [
+    {
+     "from": "2006-10-05",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74848",
+     "sha256": "d318496205ec54b7d3a545dff7ebb1e431025c945fd3247440f769dd0dae1116"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-21-2006",
+   "path": "ordin/ansvsa/2006/21",
+   "short": "Ordin ansvsa nr. 21/2006",
+   "title": "Ordinul nr. 21/2006 pentru aprobarea Normei sanitare veterinare privind lista laboratoarelor autorizate pentru controlul eficienței vaccinării antirabice la unele carnivore domestice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68888",
+   "versions": [
+    {
+     "from": "2006-02-13",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68888",
+     "sha256": "5e70568d7eadf7a56ae4962ab187e50a114195482ea8c0f90dea687ad101e942"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-214-2006",
+   "path": "ordin/ansvsa/2006/214",
+   "short": "Ordin ansvsa nr. 214/2006",
+   "title": "Ordinul nr. 214/2006 privind modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 84/2006 privind aprobarea Tarifelor de plată pentru manopera acțiunilor de supraveghere, prevenire și control al bolilor la animale, al celor transmisibile de la animale la om, protecția animalelor și protecția mediului, pentru anul 2006, efectuate de medicii veterinari de liberă practică împuterniciți în baza contractului de concesionare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74988",
+   "versions": [
+    {
+     "from": "2006-09-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74988",
+     "sha256": "fd2ab19ad9307f20d7d859cf7972d7ae9c6b48c5955e348259f74db1e7d5b616"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-217-2006",
+   "path": "ordin/ansvsa/2006/217",
+   "short": "Ordin ansvsa nr. 217/2006",
+   "title": "Ordinul nr. 217/2006 pentru aprobarea Normei sanitare veterinare care stabilește cerințele de sănătate a animalelor, aplicabile comerțului intracomunitar și importului de material seminal provenit de la animale domestice din specia porcine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76157",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76157",
+     "sha256": "017b3c1400a9e2fa85b272021d958e85aaf5a1c9719a7a5073a7f2a6a230b238"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-22-2006",
+   "path": "ordin/ansvsa/2006/22",
+   "short": "Ordin ansvsa nr. 22/2006",
+   "title": "Ordinul nr. 22/2006 pentru aprobarea Normei sanitare veterinare ce stabilește prevederi specifice pentru controlul pestei porcine africane și modifica Norma sanitară veterinara privind măsurile generale pentru controlul unor boli ale animalelor și măsurile specifice referitoare la boala veziculoasa a porcului, aprobată prin Ordinul ministrului agriculturii, alimentației și pădurilor nr. 188/2002, în ceea ce privește pesta porcină africană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69444",
+   "versions": [
+    {
+     "from": "2006-03-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69444",
+     "sha256": "777cc42a77b196bc49ff985d177827a0614724f8c5620f67952534e5d6322664"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-220-2006",
+   "path": "ordin/ansvsa/2006/220",
+   "short": "Ordin ansvsa nr. 220/2006",
+   "title": "Ordinul nr. 220/2006 privind aprobarea Normei sanitare veterinare și pentru siguranța alimentelor care stabilește regulile detaliate de aplicare a Normei sanitare veterinare și pentru siguranța alimentelor de implementare a reglementărilor pentru aditivii utilizați în nutriția animalelor, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 196/2006, cu privire la funcțiile și atribuțiile laboratorului național de referință privind cererile de autorizare a aditivilor pentru furaje",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75264",
+   "versions": [
+    {
+     "from": "2006-09-20",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75264",
+     "sha256": "0be622bbc7c8cf76ab2817b85295000f95b8bd31d0eb3a7e9cf59d0ee1f8211a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-221-2006",
+   "path": "ordin/ansvsa/2006/221",
+   "short": "Ordin ansvsa nr. 221/2006",
+   "title": "Ordinul nr. 221/2006 privind aprobarea Normei sanitare veterinare și pentru siguranța alimentelor de stabilire și implementare a cerințelor privind igiena hranei pentru animale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75296",
+   "versions": [
+    {
+     "from": "2006-09-21",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75296",
+     "sha256": "08998f17455c4af2d9bfbce957aae2e43305aa3ff30296c07e90226d4eef932a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-23-2006",
+   "path": "ordin/ansvsa/2006/23",
+   "short": "Ordin ansvsa nr. 23/2006",
+   "title": "Ordinul nr. 23/2006 pentru aprobarea Normei sanitare veterinare referitoare la controlul privind Salmonella și alți agenți zoonotici specificați ce se transmit prin alimente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69481",
+   "versions": [
+    {
+     "from": "2006-03-17",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69481",
+     "sha256": "39c62c0c84a1d5ee024f96074a7c10f353c736de49779306b328f1e908b06ead"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-231-2006",
+   "path": "ordin/ansvsa/2006/231",
+   "short": "Ordin ansvsa nr. 231/2006",
+   "title": "Ordinul nr. 231/2006 privind aprobarea Normei sanitare veterinare care stabilește reguli de sănătate animală pentru importul în și tranzitul prin Comunitatea Europeană al unor ungulate vii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76396",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76396",
+     "sha256": "f177df14806a05b23f4bdcbb0dfc55bbdf7c3ee64cf81c60252605dce9b6b80c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-233-2006",
+   "path": "ordin/ansvsa/2006/233",
+   "short": "Ordin ansvsa nr. 233/2006",
+   "title": "Ordinul nr. 233/2006 pentru aprobarea Normei sanitare veterinare care stabilește cerințe de sănătate animală și de certificare veterinară pentru import de intestine de animale din țări terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76232",
+   "versions": [
+    {
+     "from": "2006-11-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76232",
+     "sha256": "cda09ce7943874c9d80fdff05edcb662c8e6a4b1a834433ec2ab76fc76a2c693"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-238-2006",
+   "path": "ordin/ansvsa/2006/238",
+   "short": "Ordin ansvsa nr. 238/2006",
+   "title": "Ordinul nr. 238/2006 pentru aprobarea Normei sanitare veterinare privind identificarea și înregistrarea suinelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76259",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76259",
+     "sha256": "130c06139c04a43823bcbbe6f14ce6ce4eff3757404fa199b015706fd995e133"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-239-2006",
+   "path": "ordin/ansvsa/2006/239",
+   "short": "Ordin ansvsa nr. 239/2006",
+   "title": "Ordinul nr. 239/2006 pentru aprobarea Normei sanitare veterinare și pentru siguranța alimentelor ce stabilește metode comunitare de prelevare de probe pentru analiza chimică, în scopul monitorizării produselor din lapte conservat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76159",
+   "versions": [
+    {
+     "from": "2006-12-23",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76159",
+     "sha256": "dcdf6276c01dc3d562c31c0f71237dc8436f167037934d5a5d19cf20bef92d15"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-24-2006",
+   "path": "ordin/ansvsa/2006/24",
+   "short": "Ordin ansvsa nr. 24/2006",
+   "title": "Ordinul nr. 24/2006 privind aprobarea Normei sanitare veterinare ce stabilește reguli detaliate pentru înregistrarea exploatațiilor într-o bază de date pentru animale din specia porcine, conform Directivei Consiliului Europei 64/432/CEE",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68786",
+   "versions": [
+    {
+     "from": "2006-02-24",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68786",
+     "sha256": "0530795e29a0965387249586776cfc9332180f2972163d6091f955443e73da05"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-240-2006",
+   "path": "ordin/ansvsa/2006/240",
+   "short": "Ordin ansvsa nr. 240/2006",
+   "title": "Ordinul nr. 240/2006 pentru abrogarea anumitor ordine privind igiena alimentelor și condițiile de sănătate pentru producerea și punerea pe piață a anumitor produse de origine animală destinate consumului uman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76013",
+   "versions": [
+    {
+     "from": "2006-10-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76013",
+     "sha256": "0d6aea57d6b4f034b647c4625004e8006f76974c9df938e1564e1b6173483b2d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-241-2006",
+   "path": "ordin/ansvsa/2006/241",
+   "short": "Ordin ansvsa nr. 241/2006",
+   "title": "Ordinul nr. 241/2006 pentru aprobarea Normei sanitare veterinare care stabilește reguli specifice privind controalele oficiale pentru Trichinella în carne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76455",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76455",
+     "sha256": "48ce0732af8eae42da926ce8eff8450bb207ebae9848468aa3125e41d08d4e58"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-243-2006",
+   "path": "ordin/ansvsa/2006/243",
+   "short": "Ordin ansvsa nr. 243/2006",
+   "title": "Ordinul nr. 243/2006 pentru aprobarea Normei sanitare veterinare privind stabilirea principiilor care reglementează organizarea controalelor veterinare pentru animalele care intră în Comunitatea Europeană din țări terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76510",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76510",
+     "sha256": "eb19bd05e688555450c745ddc4ebb74cede20ec47eed0876a3d20a608ff6cee5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-245-2006",
+   "path": "ordin/ansvsa/2006/245",
+   "short": "Ordin ansvsa nr. 245/2006",
+   "title": "Ordinul nr. 245/2006 privind aprobarea Normei sanitare veterinare și pentru siguranța alimentelor care stabilește cerințele de sănătate a animalelor și de sănătate publică care reglementează comerțul și importul în Comunitatea Europeană de produse care nu sunt supuse cerințelor stabilite de regulile comunitare specifice la care se referă cap. I din anexa nr. 1 la Norma sanitară veterinară privind controalele veterinare pentru comerțul dintre România și statele membre ale Uniunii Europene cu produse animaliere și de origine animală, aprobată prin Ordinul ministrului agriculturii, alimentației și pădurilor nr. 21/2003, iar în ceea ce privește agenții patogeni, Norma sanitară veterinară privind controalele veterinare și zootehnice aplicabile comerțului României cu statele membre ale Uniunii Europene cu unele animale vii și produse de origine animală, aprobată prin Ordinul ministrului agriculturii, alimentației și pădurilor nr. 580/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76784",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76784",
+     "sha256": "3849be974c9f80b5e243e4878df10e041abe5f6e15e8d9cede5ea39f9634a00c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-250-2006",
+   "path": "ordin/ansvsa/2006/250",
+   "short": "Ordin ansvsa nr. 250/2006",
+   "title": "Ordinul nr. 250/2006 pentru modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 159/2006 privind aprobarea Normei pentru siguranța alimentelor care stabilește procedurile la importul și exportul de produse alimentare de origine nonanimală supuse supravegherii și controlului pentru siguranța alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76165",
+   "versions": [
+    {
+     "from": "2006-10-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76165",
+     "sha256": "f5158622414f2240ebb2959435ac04720acf0c0d48a90d4ac932a3f58f99ed8e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-252-2006",
+   "path": "ordin/ansvsa/2006/252",
+   "short": "Ordin ansvsa nr. 252/2006",
+   "title": "Ordinul nr. 252/2006 pentru aprobarea Normei sanitare veterinare care stabilește reguli detaliate în ceea ce privește tranzitul pe teritoriul Comunității Europene, numai pe cale rutieră, dintr-o țară terță într-o altă țară terță, al produselor de origine animală, pentru aplicarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 206/2006 pentru aprobarea Normei sanitare veterinare care stabilește principiile ce reglementează organizarea controalelor veterinare privind produsele ce intră în Comunitatea Europeană din țări terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76853",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76853",
+     "sha256": "0485f91fae745b9398b17940be364c79f4a594f99c25cd179ab8d63056301d21"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-253-2006",
+   "path": "ordin/ansvsa/2006/253",
+   "short": "Ordin ansvsa nr. 253/2006",
+   "title": "Ordinul nr. 253/2006 privind modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 61/2006 pentru aprobarea Normei sanitare veterinare privind problemele de sănătate a animalelor ce afectează comerțul intracomunitar cu animale din speciile bovine și suine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76855",
+   "versions": [
+    {
+     "from": "2006-11-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76855",
+     "sha256": "0237911af9c6843cb94c233c57b726bda21c22e94ebcd30f34f7e6395b23443b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-256-2006",
+   "path": "ordin/ansvsa/2006/256",
+   "short": "Ordin ansvsa nr. 256/2006",
+   "title": "Ordinul nr. 256/2006 pentru aprobarea Normei sanitare veterinare privind controalele veterinare aplicabile comerțului intracomunitar cu produse de origine animală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76857",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76857",
+     "sha256": "311cae12f5350af51e9ce30dcdca8e15b51953dcc8eedecae4a31f522abdf7c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-259-2006",
+   "path": "ordin/ansvsa/2006/259",
+   "short": "Ordin ansvsa nr. 259/2006",
+   "title": "Ordinul nr. 259/2006 pentru modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 139/2004 privind aprobarea Normei sanitare veterinare și pentru siguranța alimentelor privind procedura de aprobare sanitară veterinară și pentru siguranța alimentelor a activităților desfășurate de persoanele juridice definite conform art. 2 din Legea nr. 359/2004, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76342",
+   "versions": [
+    {
+     "from": "2006-10-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76342",
+     "sha256": "9dce5ac13621dff1b979345cf7628b00b4b6ce00b80c9bcd356ed15a845e7364"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-268-2006",
+   "path": "ordin/ansvsa/2006/268",
+   "short": "Ordin ansvsa nr. 268/2006",
+   "title": "Ordinul nr. 268/2006 privind modificarea Normei sanitare veterinare și pentru siguranța alimentelor ce stabilește regulile pentru prelevare de probe de produse de origine animală pentru examenul de laborator, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 13/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76981",
+   "versions": [
+    {
+     "from": "2006-11-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76981",
+     "sha256": "af89b5bddb1f6e28879ea1b1de5bb10dd00ced2d14aa4513e5100b3e0954fecb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-273-2006",
+   "path": "ordin/ansvsa/2006/273",
+   "short": "Ordin ansvsa nr. 273/2006",
+   "title": "Ordinul nr. 273/2006 privind modificarea și completarea Normei sanitare veterinare și pentru siguranța alimentelor privind stabilirea documentelor și evidențelor veterinare necesare în cadrul activității de neutralizare a deșeurilor de origine animală, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 80/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77865",
+   "versions": [
+    {
+     "from": "2006-12-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77865",
+     "sha256": "d613159ef792241c2014bcba5f0a28268207b13759c11f9a4fa0aabbfb4f8f86"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-276-2006",
+   "path": "ordin/ansvsa/2006/276",
+   "short": "Ordin ansvsa nr. 276/2006",
+   "title": "Ordinul nr. 276/2006 pentru aprobarea Normei sanitare veterinare privind procedura de autorizare sanitară veterinară a unităților care produc alimente de origine animală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77848",
+   "versions": [
+    {
+     "from": "2006-12-29",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77848",
+     "sha256": "dc511c2088166f8a451785501ada8516699846e698a79aa05058848a1a1f0133"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-277-2006",
+   "path": "ordin/ansvsa/2006/277",
+   "short": "Ordin ansvsa nr. 277/2006",
+   "title": "Ordinul nr. 277/2006 pentru aprobarea Normei sanitare veterinare privind condițiile de autorizare a cantaxantinei în hrana pentru animale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77818",
+   "versions": [
+    {
+     "from": "2006-12-14",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77818",
+     "sha256": "0d08053f6d5cca71029265809fa66f931fdb02666d17fd26b777ef111dcf89e1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-282-2006",
+   "path": "ordin/ansvsa/2006/282",
+   "short": "Ordin ansvsa nr. 282/2006",
+   "title": "Ordinul nr. 282/2006 privind modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 84/2006 privind aprobarea Tarifelor de plată pentru manopera acțiunilor de supraveghere, prevenire și control al bolilor la animale, al celor transmisibile de la animale la om, protecția animalelor și protecția mediului, pentru anul 2006, efectuate de medicii veterinari de liberă practică împuterniciți în baza contractului de concesionare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77440",
+   "versions": [
+    {
+     "from": "2006-12-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77440",
+     "sha256": "e219dabe739a2cb176af3a8b99f7aa0eab077f243e3b5ac98f334ade2b374888"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-283-2006",
+   "path": "ordin/ansvsa/2006/283",
+   "short": "Ordin ansvsa nr. 283/2006",
+   "title": "Ordinul nr. 283/2006 pentru modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 159/2006 privind aprobarea Normei pentru siguranța alimentelor care stabilește procedurile la importul și exportul de produse alimentare de origine nonanimală supuse supravegherii și controlului pentru siguranța alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77809",
+   "versions": [
+    {
+     "from": "2006-12-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77809",
+     "sha256": "d090d9c5ac96a5ff05eacfbb7fbf5960077cef79c8b08caa9aab25afeb897ee1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-292-2006",
+   "path": "ordin/ansvsa/2006/292",
+   "short": "Ordin ansvsa nr. 292/2006",
+   "title": "Ordinul nr. 292/2006 pentru aprobarea Normelor metodologice privind implementarea Hotărârii Guvernului nr. 1.700/2006 pentru aprobarea Programului strategic privind monitorizarea, controlul și eradicarea pestei porcine clasice în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78383",
+   "versions": [
+    {
+     "from": "2006-12-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78383",
+     "sha256": "d7e5c87a298e87192abca34bd3e3edad144d343aca784f929b55a0f02ef1a3fd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-295-2006",
+   "path": "ordin/ansvsa/2006/295",
+   "short": "Ordin ansvsa nr. 295/2006",
+   "title": "Ordinul nr. 295/2006 pentru modificarea anexei la Norma sanitară veterinară care stabilește lista produselor ce trebuie să fie examinate la posturile de inspecție de frontieră în baza Directivei Consiliului 97/78/CE, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 122/2005, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78556",
+   "versions": [
+    {
+     "from": "2007-01-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78556",
+     "sha256": "01ff99369353dfd4530333c8d40712f598881cc654ddd5b5b17b2b0aa50ebae7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-299-2006",
+   "path": "ordin/ansvsa/2006/299",
+   "short": "Ordin ansvsa nr. 299/2006",
+   "title": "Ordinul nr. 299/2006 pentru aprobarea Programului de supraveghere și control în domeniul siguranței alimentelor pentru anul 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78543",
+   "versions": [
+    {
+     "from": "2007-01-11",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78543",
+     "sha256": "972ced734c19537a9db3e23b320445fe1f1f05a7c5d6ccf0489e94e3ee02e4cd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-300-2006",
+   "path": "ordin/ansvsa/2006/300",
+   "short": "Ordin ansvsa nr. 300/2006",
+   "title": "Ordinul nr. 300/2006 privind aprobarea Programului acțiunilor de supraveghere, prevenire și control al bolilor la animale, al celor transmisibile de la animale la om, protecția animalelor și protecția mediului pentru anul 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79038",
+   "versions": [
+    {
+     "from": "2007-01-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79038",
+     "sha256": "92916b04c20154935384b203dd1afe7d77c5b3b43c7301f0a4ee075d0a98ac98"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-301-2006",
+   "path": "ordin/ansvsa/2006/301",
+   "short": "Ordin ansvsa nr. 301/2006",
+   "title": "Ordinul nr. 301/2006 privind aprobarea Normei sanitare veterinare și pentru siguranța alimentelor privind procedurile de înregistrare a activităților de vânzare directă de produse primare, a activităților de vânzare cu amănuntul și a activităților de fabricăre a alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78379",
+   "versions": [
+    {
+     "from": "2007-01-18",
+     "units": 49,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78379",
+     "sha256": "0a7f70f18c6fa3ce35286e14bd043d6993183e873db64f75f80fe44949a17209"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-31-2006",
+   "path": "ordin/ansvsa/2006/31",
+   "short": "Ordin ansvsa nr. 31/2006",
+   "title": "Ordinul nr. 31/2006 pentru aprobarea Normei sanitare veterinare care stabilește lista țărilor terțe ce îndeplinesc condițiile echivalente pentru producerea și comercializarea moluștelor bivalve, echinodermelor, tunicatelor și gasteropodelor marine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69478",
+   "versions": [
+    {
+     "from": "2006-03-02",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69478",
+     "sha256": "fc231a3cf4fddd84554a37734e07ce603421ae4e9e164c4e64bdc6ac441d97b6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-32-2006",
+   "path": "ordin/ansvsa/2006/32",
+   "short": "Ordin ansvsa nr. 32/2006",
+   "title": "Ordinul nr. 32/2006 privind aprobarea Normei sanitare veterinare care stabilește prevederi specifice pentru controlul și eradicarea bolii limbii albastre",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69577",
+   "versions": [
+    {
+     "from": "2006-03-07",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69577",
+     "sha256": "abf07e6f49c99b5a8bec721fc4418de9dec3b5848ecb68a7f75cfa5394c32f52"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-34-2006",
+   "path": "ordin/ansvsa/2006/34",
+   "short": "Ordin ansvsa nr. 34/2006",
+   "title": "Ordinul nr. 34/2006 pentru aprobarea Normei sanitare veterinare referitoare la monitorizarea zoonozelor și agenților zoonotici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69465",
+   "versions": [
+    {
+     "from": "2006-03-22",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69465",
+     "sha256": "1b2c31e6e542cda9a008347dd9ea03dc0ae6758a97793f10f11733f946f91059"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-35-2006",
+   "path": "ordin/ansvsa/2006/35",
+   "short": "Ordin ansvsa nr. 35/2006",
+   "title": "Ordinul nr. 35/2006 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 1/2006 pentru aprobarea tarifelor sanitare veterinare privind finanțarea inspecțiilor și controalelor veterinare la frontieră, pentru controlul furajelor de origine vegetală destinate animalelor, produselor medicinale de uz veterinar și produselor de origine nonanimală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69490",
+   "versions": [
+    {
+     "from": "2006-03-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69490",
+     "sha256": "3efd0deaacc9f4b059bcc3da2068b432717c5d2127d4d4c74efa8bdd59bad8d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-37-2006",
+   "path": "ordin/ansvsa/2006/37",
+   "short": "Ordin ansvsa nr. 37/2006",
+   "title": "Ordinul nr. 37/2006 pentru aprobarea Normei sanitare veterinare ce stabilește metode comunitare de analiza pentru controlul oficial al furajelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70037",
+   "versions": [
+    {
+     "from": "2006-03-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70037",
+     "sha256": "7b144234490db8d989b868c00c29ec6dc9399d10f42f414d5b65479a20fa7c4c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-38-2006",
+   "path": "ordin/ansvsa/2006/38",
+   "short": "Ordin ansvsa nr. 38/2006",
+   "title": "Ordinul nr. 38/2006 privind aprobarea Normei pentru siguranța alimentelor care stabilește procedurile la importul și exportul de produse alimentare de origine nonanimală supuse supravegherii și controlului pentru siguranța alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69550",
+   "versions": [
+    {
+     "from": "2006-03-06",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69550",
+     "sha256": "17f2ea49d5584b2589386c2fcf9d2b9b9a9a4248c2291696481c262480132ab4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-39-2006",
+   "path": "ordin/ansvsa/2006/39",
+   "short": "Ordin ansvsa nr. 39/2006",
+   "title": "Ordinul nr. 39/2006 pentru aprobarea Normei sanitare veterinare ce stabilește reguli de sănătate animală care reglementează producția, procesarea, distribuția și introducerea produselor de origine animală destinate pentru consum uman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69753",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69753",
+     "sha256": "ecaae7bacc80c1ce888d034ef5a474174ae9cec740966e9914c729af19fa133b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-41-2006",
+   "path": "ordin/ansvsa/2006/41",
+   "short": "Ordin ansvsa nr. 41/2006",
+   "title": "Ordinul nr. 41/2006 pentru aprobarea Normei sanitare veterinare privind asistența mutuală între autoritățile administrative ale statelor membre ale Uniunii Europene și cooperarea acestora cu Comisia Europeană în scopul asigurării aplicării corecte a legislației din domeniile veterinar și zootehnic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69492",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69492",
+     "sha256": "ad7dc8f94e237c14407aeead6a5318b1a0b473748c8dd87d8856eeda5145740e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-43-2006",
+   "path": "ordin/ansvsa/2006/43",
+   "short": "Ordin ansvsa nr. 43/2006",
+   "title": "Ordinul nr. 43/2006 pentru aprobarea Normei sanitare veterinare privind măsurile pentru controlul febrei aftoase",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69654",
+   "versions": [
+    {
+     "from": "2006-04-08",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69654",
+     "sha256": "a7c221aa8ffba65a5fd9b869292785c9f42f450753098fc44fd30a036a4cbc3c"
     }
    ]
   },
@@ -1724,6 +3029,201 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71722",
      "sha256": "5a02be19b634ebbbcac06a6a16d0046668e5c199306fe5390ee9d7d9480d084b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-47-2006",
+   "path": "ordin/ansvsa/2006/47",
+   "short": "Ordin ansvsa nr. 47/2006",
+   "title": "Ordinul nr. 47/2006 privind regimul de identificare a suinelor în vederea acordării subvențiilor, în conformitate cu Hotărârea Guvernului nr. 1.853/2005 privind sprijinul direct al statului prin acordarea de subvenții, în anul 2006, producătorilor agricoli din sectorul animalier și din sectorul piscicol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69544",
+   "versions": [
+    {
+     "from": "2006-03-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69544",
+     "sha256": "944bda33b6fbc01a56a3fb887dd74ab6bd6210d0a248c077f94a54db93f2328d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-61-2006",
+   "path": "ordin/ansvsa/2006/61",
+   "short": "Ordin ansvsa nr. 61/2006",
+   "title": "Ordinul nr. 61/2006 pentru aprobarea Normei sanitare veterinare privind problemele de sănătate a animalelor ce afectează comerțul intracomunitar cu animale din speciile bovine și suine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70314",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70314",
+     "sha256": "ead7b2f68289be52fd1055eee49b63ba525497e239a04f89bc32a139b5d93f22"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-65-2006",
+   "path": "ordin/ansvsa/2006/65",
+   "short": "Ordin ansvsa nr. 65/2006",
+   "title": "Ordinul nr. 65/2006 pentru modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 47/2006 privind regimul de identificare a suinelor în vederea acordării subvențiilor, în conformitate cu Hotărârea Guvernului nr. 1.853/2005 privind sprijinul direct al statului prin acordarea de subvenții, în anul 2006, producătorilor agricoli din sectorul animalier și din sectorul piscicol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70038",
+   "versions": [
+    {
+     "from": "2006-03-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70038",
+     "sha256": "83780f0264067ccaa2ea72bd0cbbea7a4892e77392c62dfff81788f2c24c5a1a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-7-2006",
+   "path": "ordin/ansvsa/2006/7",
+   "short": "Ordin ansvsa nr. 7/2006",
+   "title": "Ordinul nr. 7/2006 pentru aprobarea Normei sanitare veterinare privind autorizarea unui sistem special de identificare pentru animalele din specia bovine ținute pentru scopuri culturale și istorice în spații aprobate, așa cum este prevăzut de Norma sanitară veterinară privind sistemul de identificare și înregistrare a bovinelor, corelat cu etichetarea cărnii de bovine și a produselor din carne de bovine, aprobată prin Ordinul ministrului agriculturii, alimentației și pădurilor nr. 345/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68784",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68784",
+     "sha256": "02b13dd4a7e469fc5452e390291a23795ccfac08ca17cf3743ebe4f837bb39a0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-75-2006",
+   "path": "ordin/ansvsa/2006/75",
+   "short": "Ordin ansvsa nr. 75/2006",
+   "title": "Ordinul nr. 75/2006 privind aprobarea Normei sanitare veterinare ce stabilește criterii pentru zonare și supraveghere oficială ca urmare a suspiciunii sau confirmării anemiei infecțioase a somonului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70692",
+   "versions": [
+    {
+     "from": "2006-04-26",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70692",
+     "sha256": "68d2d08b9ffae72d75efc28235087ff294ec08f81bc3fb193f8bfd9c5e71204f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-76-2006",
+   "path": "ordin/ansvsa/2006/76",
+   "short": "Ordin ansvsa nr. 76/2006",
+   "title": "Ordinul nr. 76/2006 privind aprobarea Normei sanitare veterinare care stabilește un model de certificat de sănătate pentru import în Comunitate în vederea comerțului cu câini, pisici și dihori domestici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70346",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70346",
+     "sha256": "38a6a053e6df4c71344d0a39f7825f8e26e6e666280138226a8698c699918b5b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-8-2006",
+   "path": "ordin/ansvsa/2006/8",
+   "short": "Ordin ansvsa nr. 8/2006",
+   "title": "Ordinul nr. 8/2006 pentru aprobarea Normei sanitare veterinare privind condițiile de sănătate a animalelor, ce reglementează comerțul intracomunitar cu ovine și caprine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69443",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69443",
+     "sha256": "2b4e44794e51833a6c8b9afdee3561c07e823b4b10f2c9e17a69bec08bf25017"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-82-2006",
+   "path": "ordin/ansvsa/2006/82",
+   "short": "Ordin ansvsa nr. 82/2006",
+   "title": "Ordinul nr. 82/2006 pentru aprobarea Normei sanitare veterinare privind condițiile de sănătate a animalelor, care reglementează punerea pe piață a animalelor și a produselor de acvacultură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71482",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71482",
+     "sha256": "1814f5e2657368f9b44253a7aae6eaf9df6a2e5db290c91ed7f1aa4fc2ffbe75"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-87-2006",
+   "path": "ordin/ansvsa/2006/87",
+   "short": "Ordin ansvsa nr. 87/2006",
+   "title": "Ordinul nr. 87/2006 pentru aprobarea Normei sanitare veterinare privind diagnosticul, profilaxia, supravegherea și combaterea influenței aviare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71215",
+   "versions": [
+    {
+     "from": "2006-05-03",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71215",
+     "sha256": "4e60a6fb5e3bf1fa43bba7fa3a9f20b305ed6ac27d70de93e73873392aff0bc5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-95-2006",
+   "path": "ordin/ansvsa/2006/95",
+   "short": "Ordin ansvsa nr. 95/2006",
+   "title": "Ordinul nr. 95/2006 pentru aprobarea Normei sanitare veterinare privind condițiile de sănătate a animalelor și modelele de certificate veterinare pentru importul de carne proaspătă de pasăre din țări terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71370",
+   "versions": [
+    {
+     "from": "2006-08-03",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71370",
+     "sha256": "0898dc12d98531c9b8f401f19964505e8e67d4a1e71679c38a88a37b0de5bab8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-96-2006",
+   "path": "ordin/ansvsa/2006/96",
+   "short": "Ordin ansvsa nr. 96/2006",
+   "title": "Ordinul nr. 96/2006 privind aprobarea Normei sanitare veterinare care stabilește un model de pașaport pentru mișcarea intracomunitară de câini, pisici și dihori",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72241",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72241",
+     "sha256": "e8bddd5efe5eaaf4f0ad86eba4018082bff76002ddab64150c8c0ff05a6dd971"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-97-2006",
+   "path": "ordin/ansvsa/2006/97",
+   "short": "Ordin ansvsa nr. 97/2006",
+   "title": "Ordinul nr. 97/2006 privind aprobarea Normei sanitare veterinare care stabilește lista țărilor terțe din care România autorizează importuri de carne de iepure, carne de vânat sălbatic și de crescătorie și condițiile de sănătate a animalelor și de sănătate publică și de certificare veterinara pentru astfel de importuri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71686",
+   "versions": [
+    {
+     "from": "2006-08-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71686",
+     "sha256": "51e8524cd72d4ed66246d617528ae7ecf945c580ff3652c25d7855f1b646fe35"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-99-2006",
+   "path": "ordin/ansvsa/2006/99",
+   "short": "Ordin ansvsa nr. 99/2006",
+   "title": "Ordinul nr. 99/2006 pentru aprobarea Normei sanitare veterinare privind controlul pestei porcine africane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71745",
+   "versions": [
+    {
+     "from": "2006-05-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71745",
+     "sha256": "48fa1b1a93dc5d63c8715057bd6a91b915efca36282c81992aa6494ac92b83fb"
     }
    ]
   },
@@ -2051,7 +3551,7 @@
    "versions": [
     {
      "from": "2006-10-23",
-     "units": 43,
+     "units": 45,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76169",
      "sha256": "0da154a91e828682ead1ac4b3ba2db377ece99986474566aab36ed6cafd847a2"
     }
@@ -2066,7 +3566,7 @@
    "versions": [
     {
      "from": "2006-10-20",
-     "units": 67,
+     "units": 69,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76069",
      "sha256": "8005334037acf0a5d87e3dad1cf8703a579e4d1cf0117e2687c64d3d905072ff"
     }
@@ -2141,7 +3641,7 @@
    "versions": [
     {
      "from": "2006-06-28",
-     "units": 7,
+     "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72991",
      "sha256": "994b4369f927197aaf0a4d2f06a55700877aebd26d8dde97df817a926cf75ffe"
     }
@@ -2171,7 +3671,7 @@
    "versions": [
     {
      "from": "2006-08-17",
-     "units": 24,
+     "units": 36,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74463",
      "sha256": "37c6aa23e2d03d90ee4b01dee270af741c651a600157cf1b7d6553c32efc7886"
     }
@@ -2276,7 +3776,7 @@
    "versions": [
     {
      "from": "2006-12-12",
-     "units": 8,
+     "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77656",
      "sha256": "c4c27afa157e8cca050d75901aacef91b25f5e61f3c9923ae785d85a238d1345"
     }
@@ -5418,6 +6918,21 @@
    ]
   },
   {
+   "slug": "ordin-guvern-388-2006",
+   "path": "ordin/guvern/2006/388",
+   "short": "Ordin guvern nr. 388/2006",
+   "title": "Ordinul nr. 388/2006 privind aprobarea Planului de acțiune pentru implementarea Strategiei pentru îmbunătățirea sistemului de elaborare, coordonare și planificare a politicilor publice la nivelul administrației publice centrale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74029",
+   "versions": [
+    {
+     "from": "2006-08-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74029",
+     "sha256": "d0093a1caa565d2b380a804e1bbaf561ec000ff75df716058c1fd6812f94fb2a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-1134-2006",
    "path": "ordin/interne/2006/1134",
    "short": "Ordin interne nr. 1134/2006",
@@ -6453,6 +7968,36 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1313-2006",
+   "path": "ordin/mediu/2006/1313",
+   "short": "Ordin mediu nr. 1313/2006",
+   "title": "Ordinul nr. 1.313/2006 pentru modificarea și completarea Ordinului ministrului agriculturii, pădurilor, apelor și mediului nr. 50/2004 privind Stabilirea procedurii de organizare și coordonare a schemelor de management de mediu și audit (EMAS) în vederea participării voluntare a organizațiilor la aceste scheme, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77872",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77872",
+     "sha256": "29e2c5e92d0c050212a6d1b5b304bb13d4d8138c4bdefd90107cd79d0ebd8e5f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1365-2006",
+   "path": "ordin/mediu/2006/1365",
+   "short": "Ordin mediu nr. 1365/2006",
+   "title": "Ordinul nr. 1.365/2006 privind modificarea și completarea Ordinului ministrului mediului și gospodăririi apelor nr. 657/2006 pentru aprobarea modelelor și conținutului formularelor utilizate în activitatea de inspecție fiscala",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78652",
+   "versions": [
+    {
+     "from": "2007-01-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78652",
+     "sha256": "011bec4b33418e95273e879e0f6cdb322d08ad9df919b15d28ade93722590d21"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1371-2006",
    "path": "ordin/mediu/2006/1371",
    "short": "Ordin mediu nr. 1371/2006",
@@ -6588,6 +8133,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-257-2006",
+   "path": "ordin/mediu/2006/257",
+   "short": "Ordin mediu nr. 257/2006",
+   "title": "Ordinul nr. 257/2006 pentru modificarea și completarea anexei la Ordinul ministrului mediului și gospodăririi apelor nr. 1.018/2005 privind înființarea în cadrul Direcției deșeuri și substanțe chimice periculoase a Secretariatului pentru compuși desemnați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69979",
+   "versions": [
+    {
+     "from": "2006-03-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69979",
+     "sha256": "1a3aa36b226860115e2e1266a2d465928e40dd811770ceaf8b4c6cf0cf92c248"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-31-2006",
    "path": "ordin/mediu/2006/31",
    "short": "Ordin mediu nr. 31/2006",
@@ -6599,6 +8159,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69823",
      "sha256": "4a7d31b31eebc8cef2aaa2e63e1a85e0776cf21f25957f8d2ab9f98d73ec1fcc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-444-2006",
+   "path": "ordin/mediu/2006/444",
+   "short": "Ordin mediu nr. 444/2006",
+   "title": "Ordinul nr. 444/2006 pentru modificarea și completarea Ordinului ministrului agriculturii, pădurilor, apelor și mediului nr. 50/2004 privind stabilirea Procedurii de organizare și coordonare a schemelor de management de mediu și audit (EMAS) în vederea participării voluntare a organizațiilor la aceste scheme",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71766",
+   "versions": [
+    {
+     "from": "2006-05-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71766",
+     "sha256": "3bd4cba70c8141d293a77c69e88e072f5db9ceddd31ea9d575261cc05df7213b"
     }
    ]
   },
@@ -6843,6 +8418,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-742-2006",
+   "path": "ordin/mediu/2006/742",
+   "short": "Ordin mediu nr. 742/2006",
+   "title": "Ordinul nr. 742/2006 pentru modificarea anexei nr. 1 la Hotărârea Guvernului nr. 697/2004 privind aprobarea Procedurii de consimțământ prealabil în cunoștință de cauză pentru controlul importului și exportului anumitor substanțe și preparate chimice periculoase - procedura PIC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74226",
+   "versions": [
+    {
+     "from": "2006-08-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74226",
+     "sha256": "bc394cbdf41367741e39f75ed44b733dd01b1c3677c8aeef717a02e85a8455a0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-76-2006",
    "path": "ordin/mediu/2006/76",
    "short": "Ordin mediu nr. 76/2006",
@@ -6929,6 +8519,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70793",
      "sha256": "9b19db76e9947505dd065556caeb66f04f6ebda1f2eba830d9a4217cca8406cf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-963-2006",
+   "path": "ordin/mediu/2006/963",
+   "short": "Ordin mediu nr. 963/2006",
+   "title": "Ordinul nr. 963/2006 privind modificarea și completarea Ordinului ministrului apelor și protecției mediului nr. 439/2002 pentru aprobarea organizării acțiunii de voluntariat în domeniul protecției mediului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75577",
+   "versions": [
+    {
+     "from": "2006-10-03",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75577",
+     "sha256": "4c113ecee98801e0f0bbfaa40de7b56ea8fd157ec1018fb34622ceca22d3aaae"
     }
    ]
   },
@@ -11654,6 +13259,201 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72645",
      "sha256": "b4c177d1bf75e7206e451e36be06bd0905fb75a547f4cb83ed15650ed3e3175b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-4312-2006",
+   "path": "ordin/vama/2006/4312",
+   "short": "Ordin vama nr. 4312/2006",
+   "title": "Ordinul nr. 4.312/2006 privind aprobarea Normelor tehnice pentru aplicarea Convenției privind regimul de tranzit comun, adoptată la Interlaken la 20 mai 1987",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69574",
+   "versions": [
+    {
+     "from": "2006-03-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69574",
+     "sha256": "d494457df323dad0318b17e9ce66699d175108edacaa4101e21f9c2571664b9a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-4595-2006",
+   "path": "ordin/vama/2006/4595",
+   "short": "Ordin vama nr. 4595/2006",
+   "title": "Ordinul nr. 4.595/2006 pentru modificarea și completarea Ordinului nr. 4.312/2006 privind aprobarea Normelor tehnice pentru aplicarea Convenției privind regimul de tranzit comun, adoptată la Interlaken la 20 mai 1987",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70418",
+   "versions": [
+    {
+     "from": "2006-04-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70418",
+     "sha256": "b7639058e9e144dfaf9813875da9639245e7d78864c79969f8aa3b71e3daa16a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-5720-2006",
+   "path": "ordin/vama/2006/5720",
+   "short": "Ordin vama nr. 5720/2006",
+   "title": "Ordinul nr. 5.720/2006 pentru abrogarea Deciziei directorului general al Direcției Generale a Vămilor nr. 368/1998 privind evaluarea suporturilor informatice pentru echipamentele de tratare a datelor, conținând date sau instrucțiuni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70989",
+   "versions": [
+    {
+     "from": "2006-04-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70989",
+     "sha256": "b60a6cded9417a7dce3fd35f287b3e404a0078ca5f1d45b84d241cbb0ef84f35"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-6123-2006",
+   "path": "ordin/vama/2006/6123",
+   "short": "Ordin vama nr. 6123/2006",
+   "title": "Ordinul nr. 6.123/2006 privind completarea Listei birourilor vamale abilitate să efectueze operațiuni de vămuire a produselor strategice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71763",
+   "versions": [
+    {
+     "from": "2006-05-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71763",
+     "sha256": "d996ffb3222fa7332b21a313d6865cebed014530e3c14c58f7d0a547c6490dda"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-6312-2006",
+   "path": "ordin/vama/2006/6312",
+   "short": "Ordin vama nr. 6312/2006",
+   "title": "Ordinul nr. 6.312/2006 pentru aprobarea Normelor tehnice de completare, utilizare și tipărire a declarației sumare, declarației vamale în detaliu și exemplarelor de control T5R",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72791",
+   "versions": [
+    {
+     "from": "2006-06-18",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72791",
+     "sha256": "a8995bee7110c454869414e98e48f46ff1a2fc96f8b387b12618397459f12c92"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-6357-2006",
+   "path": "ordin/vama/2006/6357",
+   "short": "Ordin vama nr. 6357/2006",
+   "title": "Ordinul nr. 6.357/2006 privind aprobarea Normelor tehnice de aplicare a regimului vamal de tranzit pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72927",
+   "versions": [
+    {
+     "from": "2006-06-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72927",
+     "sha256": "0f62112e9d4e220b8a8dcec875d245fa41e4ac34fdcf56a22fd76503fcb128f6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-7057-2006",
+   "path": "ordin/vama/2006/7057",
+   "short": "Ordin vama nr. 7057/2006",
+   "title": "Ordinul nr. 7.057/2006 pentru aprobarea modificării temporare a anexei nr. 1 la Decizia directorului general al Autorității Naționale a Vămilor nr. 217/2004 pentru instituirea unor măsuri speciale privind importul uleiurilor minerale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73258",
+   "versions": [
+    {
+     "from": "2006-07-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73258",
+     "sha256": "c2af92facef67aab8d71da3139be16978612a60ec786dbcc8f7840dfe7fc8ea7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-7521-2006",
+   "path": "ordin/vama/2006/7521",
+   "short": "Ordin vama nr. 7521/2006",
+   "title": "Ordinul nr. 7.521/2006 pentru aprobarea Normelor metodologice privind realizarea supravegherii și controlului vamal ulterior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73760",
+   "versions": [
+    {
+     "from": "2006-07-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73760",
+     "sha256": "616cd1cf1f14ae687f756cc0f897dd606f92d983694284d9844ffb001f77ad72"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-7615-2006",
+   "path": "ordin/vama/2006/7615",
+   "short": "Ordin vama nr. 7615/2006",
+   "title": "Ordinul nr. 7.615/2006 pentru implementarea Amendamentului nr. 26 la Convenția vamală relativă la transportul internațional al mărfurilor sub acoperirea carnetelor TIR (Convenția TIR), întocmită la Geneva la 14 noiembrie 1975",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73589",
+   "versions": [
+    {
+     "from": "2006-07-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73589",
+     "sha256": "e8323663b7e6da9a8cfec8baca2df5ab3500743fd639783a459d3ccaee235009"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-7628-2006",
+   "path": "ordin/vama/2006/7628",
+   "short": "Ordin vama nr. 7628/2006",
+   "title": "Ordinul nr. 7.628/2006 pentru aprobarea Normelor tehnice privind procedura de vămuire a trimiterilor transportate prin serviciile de curierat rapid",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73703",
+   "versions": [
+    {
+     "from": "2006-07-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73703",
+     "sha256": "c473e8a601a389f757523a9fa45b5433be1dfc3311e5c090cc915ab688aa0e83"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-8061-2006",
+   "path": "ordin/vama/2006/8061",
+   "short": "Ordin vama nr. 8061/2006",
+   "title": "Ordinul nr. 8.061/2006 pentru aplicarea reglementărilor adoptate de Comisia Comunităților Europene privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74743",
+   "versions": [
+    {
+     "from": "2006-08-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74743",
+     "sha256": "b0ccd338c97313a9d1e9eb842fd7ef33f4464cb26706db521f108258d64c7e00"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-8065-2006",
+   "path": "ordin/vama/2006/8065",
+   "short": "Ordin vama nr. 8065/2006",
+   "title": "Ordinul nr. 8.065/2006 privind Notele explicative la Nomenclatura combinată a mărfurilor, adoptate de Comisia Comunităților Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75345",
+   "versions": [
+    {
+     "from": "2006-09-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75345",
+     "sha256": "24712594000ea73c4c4b86bc729ae9d6d98bcd1af66ddcec9f1fc7e3d6c51bb6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-9988-2006",
+   "path": "ordin/vama/2006/9988",
+   "short": "Ordin vama nr. 9988/2006",
+   "title": "Ordinul nr. 9.988/2006 pentru aprobarea normelor tehnice de completare, utilizare și tipărire a declarației sumare și a documentului administrativ unic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78490",
+   "versions": [
+    {
+     "from": "2007-01-05",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78490",
+     "sha256": "598ecf7698fbf9882b6b4d3c23f04d639e2953c58be1f3be14fba1a029c9a6cf"
     }
    ]
   }

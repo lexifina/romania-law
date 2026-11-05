@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-244-2010",
+   "path": "ordin/agricultura/2010/244",
+   "short": "Ordin agricultura nr. 244/2010",
+   "title": "Ordinul nr. 244/2010 pentru modificarea și completarea Normelor de aplicare a Ordonanței Guvernului nr. 37/2005 privind recunoașterea și funcționarea grupurilor și organizațiilor de producători, pentru comercializarea produselor agricole și silvice, aprobată cu modificări și completări prin Legea nr. 338/2005, aprobate prin Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 171/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124645",
+   "versions": [
+    {
+     "from": "2010-12-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124645",
+     "sha256": "da01bd954b89a8ecd5c234d70af85a5b14aa71cdea4c7854e252e620d3abf633"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-256-2010",
    "path": "ordin/agricultura/2010/256",
    "short": "Ordin agricultura nr. 256/2010",
@@ -134,6 +149,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116229",
      "sha256": "73dbad79ef1ea00cb860b744b47fe3887e06583cf2b4607d5b43e284458bd47c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-51-2010",
+   "path": "ordin/agricultura/2010/51",
+   "short": "Ordin agricultura nr. 51/2010",
+   "title": "Ordinul nr. 51/2010 pentru aprobarea regulilor naționale privind autorizarea importurilor de produse agroalimentare ecologice din țări terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119983",
+   "versions": [
+    {
+     "from": "2010-06-30",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119983",
+     "sha256": "4f935856333be4aa0b0383a9356f1be676ed43bf99be82aa6a1251382c5e497b"
     }
    ]
   },
@@ -626,7 +656,7 @@
    "versions": [
     {
      "from": "2010-11-03",
-     "units": 9,
+     "units": 25,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123256",
      "sha256": "62af6efe7ee08d572de838381fb69d41cd88d7c5c1d8134a6fb46e2bd87f65fe"
     }
@@ -686,7 +716,7 @@
    "versions": [
     {
      "from": "2010-01-15",
-     "units": 15,
+     "units": 17,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115345",
      "sha256": "bc156f5c4295809648e81239b38cf4f397cd6d13d752a00cd5c96cc11def77b6"
     }
@@ -1406,7 +1436,7 @@
    "versions": [
     {
      "from": "2010-12-10",
-     "units": 5,
+     "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124231",
      "sha256": "82c44c38cbf5f28b538a555b55c95bebe7f75c5068028ff1689d480168745cdf"
     }
@@ -1496,7 +1526,7 @@
    "versions": [
     {
      "from": "2011-01-01",
-     "units": 7,
+     "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124944",
      "sha256": "dc3ace4b8663d78d9791342dff68a0a539dd56d9afbb8dafecc8e8aab1da1d06"
     }
@@ -1593,6 +1623,441 @@
    ]
   },
   {
+   "slug": "ordin-ansvsa-101-2010",
+   "path": "ordin/ansvsa/2010/101",
+   "short": "Ordin ansvsa nr. 101/2010",
+   "title": "Ordinul nr. 101/2010 privind abrogarea unor acte normative din domeniul sanitar-veterinar și pentru siguranța alimentelor referitoare la metodele de prelevare și analiză pentru controlul oficial al furajelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121183",
+   "versions": [
+    {
+     "from": "2010-08-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121183",
+     "sha256": "be3473c213ac2543a9b580b15353846b0533a60490db4080ebd1d9452baa50e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-103-2010",
+   "path": "ordin/ansvsa/2010/103",
+   "short": "Ordin ansvsa nr. 103/2010",
+   "title": "Ordinul nr. 103/2010 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 37/2010 privind circulația ecvinelor pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121344",
+   "versions": [
+    {
+     "from": "2010-08-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121344",
+     "sha256": "960237f01ea16ce1da061043fc3c1fb5236621de66f554a27b08048b3a03fe4e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-109-2010",
+   "path": "ordin/ansvsa/2010/109",
+   "short": "Ordin ansvsa nr. 109/2010",
+   "title": "Ordinul nr. 109/2010 pentru aprobarea Normei sanitare veterinare privind procedura de autorizare/înregistrare sanitară veterinară a unităților ce desfășoară activități în domeniul hranei pentru animale de fermă și a mijloacelor de transport al hranei pentru animale de fermă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122225",
+   "versions": [
+    {
+     "from": "2010-09-16",
+     "units": 54,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122225",
+     "sha256": "d5ee74d3930229f88a1205310b0ceed554a289b4bd99cef9bc5acfc04231cec1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-110-2010",
+   "path": "ordin/ansvsa/2010/110",
+   "short": "Ordin ansvsa nr. 110/2010",
+   "title": "Ordinul nr. 110/2010 privind aprobarea modelului de legitimații de serviciu pentru personalul din cadrul aparatului propriu și al unităților subordonate ale Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122167",
+   "versions": [
+    {
+     "from": "2010-09-14",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122167",
+     "sha256": "5bc8ac5608da10b121729e4f0de3df02873bb46e7e3c5bd9f014ee8720e4a9f8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-112-2010",
+   "path": "ordin/ansvsa/2010/112",
+   "short": "Ordin ansvsa nr. 112/2010",
+   "title": "Ordinul nr. 112/2010 privind modificarea și completarea Normei sanitare veterinare privind procedura de înregistrare/autorizare sanitar-veterinară a unităților/centrelor de colectare/exploatațiilor de origine și a mijloacelor de transport din domeniul sănătății și al bunăstării animalelor, a unităților implicate în depozitarea și neutralizarea subproduselor de origine animală care nu sunt destinate consumului uman și a produselor procesate, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 16/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122507",
+   "versions": [
+    {
+     "from": "2010-10-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122507",
+     "sha256": "76fe32e4103cc4d79f3454e0bf9e5779986061181ee8ed313b1efcd88c66a8ce"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-12-2010",
+   "path": "ordin/ansvsa/2010/12",
+   "short": "Ordin ansvsa nr. 12/2010",
+   "title": "Ordinul nr. 12/2010 pentru modificarea și completarea Normei sanitare veterinare privind procedura de înregistrare și controlul oficial al unităților în care se desfășoară activități de asistență medical-veterinară, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 17/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117432",
+   "versions": [
+    {
+     "from": "2010-03-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117432",
+     "sha256": "800e3ea7ee90473c362686d59cc1cc3cbd786c68218e0dcb1e8a96db4464e058"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-121-2010",
+   "path": "ordin/ansvsa/2010/121",
+   "short": "Ordin ansvsa nr. 121/2010",
+   "title": "Ordinul nr. 121/2010 pentru modificarea anexelor nr. 7, 8 și 10 la Norma sanitară veterinară privind procedura de introducere pe piață și de utilizare a reagenților și a seturilor de diagnostic de uz veterinar, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 81/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123014",
+   "versions": [
+    {
+     "from": "2010-10-26",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123014",
+     "sha256": "fc94e39f47c03c0c2ef3fb4477cdcb1732880c32524cd178b32473499de74438"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-122-2010",
+   "path": "ordin/ansvsa/2010/122",
+   "short": "Ordin ansvsa nr. 122/2010",
+   "title": "Ordinul nr. 122/2010 pentru modificarea anexei nr. 4 la Norma sanitară veterinară și pentru siguranța alimentelor privind procedura de înregistrare sanitară veterinară și pentru siguranța alimentelor a activităților de obținere și de vânzare directă și/sau cu amănuntul a produselor alimentare de origine animală sau nonanimală, precum și a activităților de producție, procesare, depozitare, transport și comercializare a produselor alimentare de origine nonanimală, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 111/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123016",
+   "versions": [
+    {
+     "from": "2010-10-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123016",
+     "sha256": "2e5e04256f2b6e65e43e2e800e356c1313c1344157b3629c4038e74fddc8033a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-123-2010",
+   "path": "ordin/ansvsa/2010/123",
+   "short": "Ordin ansvsa nr. 123/2010",
+   "title": "Ordinul nr. 123/2010 pentru modificarea anexei nr. 9 la Norma sanitară veterinară privind procedura de înregistrare și autorizare sanitară veterinară a unităților și activităților din domeniul farmaceutic veterinar, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 24/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123017",
+   "versions": [
+    {
+     "from": "2010-10-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123017",
+     "sha256": "efb80633fe7e310de898ddbc546960a5aad6e35378b95efc840968d73d2e1801"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-124-2010",
+   "path": "ordin/ansvsa/2010/124",
+   "short": "Ordin ansvsa nr. 124/2010",
+   "title": "Ordinul nr. 124/2010 pentru modificarea anexei nr. 2 la Norma sanitară veterinară și pentru siguranța alimentelor privind autorizarea laboratoarelor supuse controlului sanitar-veterinar și pentru siguranța alimentelor, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 48/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123015",
+   "versions": [
+    {
+     "from": "2010-10-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123015",
+     "sha256": "983bf3197b79cfeee943d5c21e7dac5ce1b3486d9c16e3c2d1b2224b599f6e53"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-125-2010",
+   "path": "ordin/ansvsa/2010/125",
+   "short": "Ordin ansvsa nr. 125/2010",
+   "title": "Ordinul nr. 125/2010 privind modificarea și completarea Normei pentru siguranța alimentelor care stabilește condițiile în care se derulează operațiunile de import-export, tranzit și comerț intracomunitar de produse alimentare de origine nonanimală supuse supravegherii și controlului pentru siguranța alimentelor, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 145/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122912",
+   "versions": [
+    {
+     "from": "2010-10-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122912",
+     "sha256": "acbc89041bbca97e737449b6156137eb972cefe1261ce7214842d65ee0e48d3f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-130-2010",
+   "path": "ordin/ansvsa/2010/130",
+   "short": "Ordin ansvsa nr. 130/2010",
+   "title": "Ordinul nr. 130/2010 privind condițiile pentru declararea exploatațiilor de ovine și caprine oficial libere de scrapie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123690",
+   "versions": [
+    {
+     "from": "2010-11-17",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123690",
+     "sha256": "6b1b3141b81b291c3ba7680271b3bf776f38c784bf2057364303ecc0feedaa1d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-134-2010",
+   "path": "ordin/ansvsa/2010/134",
+   "short": "Ordin ansvsa nr. 134/2010",
+   "title": "Ordinul nr. 134/2010 pentru aprobarea Normelor privind fabricarea, transportul, depozitarea, comercializarea și controlul oficial al temperaturii alimentelor congelate rapid, destinate consumului uman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124097",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124097",
+     "sha256": "5861012ada09411cfadc3c3529e191d7311cbe7f4c5c04f1fad044e57955d973"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-135-2010",
+   "path": "ordin/ansvsa/2010/135",
+   "short": "Ordin ansvsa nr. 135/2010",
+   "title": "Ordinul nr. 135/2010 privind monitorizarea sistemelor de creștere a găinilor ouătoare pentru producția de ouă de consum, în conformitate cu legislația europeană specifică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124096",
+   "versions": [
+    {
+     "from": "2010-12-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124096",
+     "sha256": "fa33057f9df0a6a4f1175ba9c85a655d6a373be824887b49ef584b454fb04331"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-136-2010",
+   "path": "ordin/ansvsa/2010/136",
+   "short": "Ordin ansvsa nr. 136/2010",
+   "title": "Ordinul nr. 136/2010 privind mișcarea suinelor vii pe teritoriul României și pentru modificarea și completarea unor norme sanitare veterinare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124116",
+   "versions": [
+    {
+     "from": "2010-12-02",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124116",
+     "sha256": "3cd58d01c7295bf734a5719bd5f5d2c1e91271d51707fc917a0f9d6a0da7e047"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-138-2010",
+   "path": "ordin/ansvsa/2010/138",
+   "short": "Ordin ansvsa nr. 138/2010",
+   "title": "Ordinul nr. 138/2010 pentru modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 64/2007 pentru aprobarea Normei sanitare veterinare privind organizarea și desfășurarea activității de control oficial sanitar-veterinar efectuat de către personalul de specialitate în unitățile care produc alimente de origine animală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124591",
+   "versions": [
+    {
+     "from": "2010-12-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124591",
+     "sha256": "ba121ed5fd5db37e85627c91169ecbf4d6168b7f8439a2abf00e13867f4e0859"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-139-2010",
+   "path": "ordin/ansvsa/2010/139",
+   "short": "Ordin ansvsa nr. 139/2010",
+   "title": "Ordinul nr. 139/2010 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 113/2008 privind aprobarea Instrucțiunilor pentru organizarea și desfășurarea activității de control oficial în unitățile de prelucrare, procesare, depozitare, transport, valorificare și comercializare a produselor și subproduselor alimentare de origine nonanimală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124604",
+   "versions": [
+    {
+     "from": "2010-12-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124604",
+     "sha256": "439dc704ddc1749fecb9a88535760d4a7d2a43c3a3551d8cef3ee6bd5bc376e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-144-2010",
+   "path": "ordin/ansvsa/2010/144",
+   "short": "Ordin ansvsa nr. 144/2010",
+   "title": "Ordinul nr. 144/2010 pentru modificarea anexei la Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 92/2006 privind aprobarea Tarifelor de plată pentru acțiunile de prelevare de probe efectuate în vederea controlului oficial al alimentelor de origine nonanimală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124900",
+   "versions": [
+    {
+     "from": "2010-12-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124900",
+     "sha256": "559498ff367b1b06776ec08ab8cf1ac7ae6bd0e7c00408cd45279bd8d7f6fe8e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-145-2010",
+   "path": "ordin/ansvsa/2010/145",
+   "short": "Ordin ansvsa nr. 145/2010",
+   "title": "Ordinul nr. 145/2010 privind modificarea anexelor nr. 1-5 la Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 45/2005 privind aprobarea tarifelor pentru efectuarea analizelor și examenelor de laborator, precum și a unor activități sanitare veterinare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124978",
+   "versions": [
+    {
+     "from": "2011-01-03",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124978",
+     "sha256": "e215db664df9d00a9682f4205c8994dd38902941b349a2e3289dd9a1a5dedfc0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-16-2010",
+   "path": "ordin/ansvsa/2010/16",
+   "short": "Ordin ansvsa nr. 16/2010",
+   "title": "Ordinul nr. 16/2010 pentru aprobarea Normei sanitare veterinare privind procedura de înregistrare/autorizare sanitar-veterinară a unităților/centrelor de colectare/exploatațiilor de origine și a mijloacelor de transport din domeniul sănătății și al bunăstării animalelor, a unităților implicate în depozitarea și neutralizarea subproduselor de origine animală care nu sunt destinate consumului uman și a produselor procesate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117435",
+   "versions": [
+    {
+     "from": "2010-03-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117435",
+     "sha256": "c834170ce5159d4b074993f1bc78a6bb14c3a104ee2483b36fe3e802c7f2f34c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-21-2010",
+   "path": "ordin/ansvsa/2010/21",
+   "short": "Ordin ansvsa nr. 21/2010",
+   "title": "Ordinul nr. 21/2010 privind modificarea și completarea Normei sanitare veterinare și pentru siguranța alimentelor privind procedura de înregistrare sanitară veterinară și pentru siguranța alimentelor a activităților de obținere și de vânzare directă și/sau cu amănuntul a produselor alimentare de origine animală sau nonanimală, precum și a activităților de producție, procesare, depozitare, transport și comercializare a produselor alimentare de origine nonanimală, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 111/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117436",
+   "versions": [
+    {
+     "from": "2010-03-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117436",
+     "sha256": "53e7593c338f74892b6a48ba82f21d3e0eac6fa65afc02eb2dd39ed4fd596c4f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-22-2010",
+   "path": "ordin/ansvsa/2010/22",
+   "short": "Ordin ansvsa nr. 22/2010",
+   "title": "Ordinul nr. 22/2010 pentru modificarea Normei sanitare veterinare privind condițiile de organizare și funcționare a unităților farmaceutice veterinare și a unităților destinate comercializării animalelor de companie, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 16/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117440",
+   "versions": [
+    {
+     "from": "2010-03-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117440",
+     "sha256": "6baab271f1c9300ed529066ce4845074675fa3c66f7de2d0e778e0c022163c1c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-23-2010",
+   "path": "ordin/ansvsa/2010/23",
+   "short": "Ordin ansvsa nr. 23/2010",
+   "title": "Ordinul nr. 23/2010 pentru modificarea și completarea Normei sanitare veterinare privind procedura de înregistrare și autorizare sanitară veterinară a unităților și activităților din domeniul farmaceutic veterinar, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 24/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117465",
+   "versions": [
+    {
+     "from": "2010-03-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117465",
+     "sha256": "8e91f04f3fedd6c0aa309142fd2947254b7f468839dca035a83a7dec98da4933"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-24-2010",
+   "path": "ordin/ansvsa/2010/24",
+   "short": "Ordin ansvsa nr. 24/2010",
+   "title": "Ordinul nr. 24/2010 privind aprobarea listelor cuprinzând informațiile secrete de serviciu și informațiile de interes public",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117598",
+   "versions": [
+    {
+     "from": "2010-04-02",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117598",
+     "sha256": "2c9cc782f2ce431a686acacc690fc10b0c2ae9bf8a9a608b0f9b3c18f8b8f3fd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-3-2010",
+   "path": "ordin/ansvsa/2010/3",
+   "short": "Ordin ansvsa nr. 3/2010",
+   "title": "Ordinul nr. 3/2010 privind modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 2/2010 pentru aprobarea Normelor metodologice de aplicare a Programului acțiunilor de supraveghere, prevenire și control al bolilor la animale, al celor transmisibile de la animale la om, protecția animalelor și protecția mediului pentru anul 2010 și a Programului de supraveghere și control în domeniul siguranței alimentelor pentru anul 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115728",
+   "versions": [
+    {
+     "from": "2010-01-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115728",
+     "sha256": "dba50b9bd074be6ba8b29102ac0d6b76619d6e536a886a153acf93ae16410494"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-30-2010",
+   "path": "ordin/ansvsa/2010/30",
+   "short": "Ordin ansvsa nr. 30/2010",
+   "title": "Ordinul nr. 30/2010 pentru aprobarea Normei sanitare veterinare privind stabilirea normelor minime de protecție a puilor destinați producției de carne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117600",
+   "versions": [
+    {
+     "from": "2010-06-30",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117600",
+     "sha256": "2ed527c42e6d3bfc866c70741d6ef89a5308fc44f547cae2d6a921643cdd0e01"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-37-2010",
+   "path": "ordin/ansvsa/2010/37",
+   "short": "Ordin ansvsa nr. 37/2010",
+   "title": "Ordinul nr. 37/2010 privind circulația ecvinelor pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117780",
+   "versions": [
+    {
+     "from": "2010-04-09",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117780",
+     "sha256": "572bbe6abbb018ed3e89fa4659722595016ddf1deb4e3ed8c2a9fdc58d648574"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-38-2010",
+   "path": "ordin/ansvsa/2010/38",
+   "short": "Ordin ansvsa nr. 38/2010",
+   "title": "Ordinul nr. 38/2010 privind modificarea anexei nr. 1 la Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 2/2010 pentru aprobarea Normelor metodologice de aplicare a Programului acțiunilor de supraveghere, prevenire și control al bolilor la animale, al celor transmisibile de la animale la om, protecția animalelor și protecția mediului pentru anul 2010 și a Programului de supraveghere și control în domeniul siguranței alimentelor pentru anul 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117781",
+   "versions": [
+    {
+     "from": "2010-04-09",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117781",
+     "sha256": "313760a7702177c6a02cbe5513053a8f9779534e36eafd152875e0474e46517d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-39-2010",
+   "path": "ordin/ansvsa/2010/39",
+   "short": "Ordin ansvsa nr. 39/2010",
+   "title": "Ordinul nr. 39/2010 pentru aprobarea cerințelor tehnice care trebuie îndeplinite de mijloacele oficiale de identificare a bovinelor, suinelor, ovinelor și caprinelor, precum și pentru stabilirea condițiilor de aprobare a acestora pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118369",
+   "versions": [
+    {
+     "from": "2010-04-30",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118369",
+     "sha256": "ace8977fa4cf4735a2a050e517633b9d83d3e4bb272767e450167994e8b54916"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-4-2010",
    "path": "ordin/ansvsa/2010/4",
    "short": "Ordin ansvsa nr. 4/2010",
@@ -1601,9 +2066,294 @@
    "versions": [
     {
      "from": "2010-02-10",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115990",
      "sha256": "94a085761e3cc89db10833a213454d334a5703cf98b173068d2815575d4c1ef7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-40-2010",
+   "path": "ordin/ansvsa/2010/40",
+   "short": "Ordin ansvsa nr. 40/2010",
+   "title": "Ordinul nr. 40/2010 privind aprobarea Normei sanitare veterinare pentru implementarea procesului de identificare și înregistrare a suinelor, ovinelor, caprinelor și bovinelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118343",
+   "versions": [
+    {
+     "from": "2010-04-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118343",
+     "sha256": "d25e2400e5b1964d4163d3b07a0958629c90882ad47a0c688aa222ee91159020"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-41-2010",
+   "path": "ordin/ansvsa/2010/41",
+   "short": "Ordin ansvsa nr. 41/2010",
+   "title": "Ordinul nr. 41/2010 privind calificarea exploatațiilor de bovine în raport cu bruceloza bovină",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118562",
+   "versions": [
+    {
+     "from": "2010-05-10",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118562",
+     "sha256": "dc638f0925cb630b9d0a83309e78047c8d0ee8938ee25a3919cfec2ad03565db"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-42-2010",
+   "path": "ordin/ansvsa/2010/42",
+   "short": "Ordin ansvsa nr. 42/2010",
+   "title": "Ordinul nr. 42/2010 pentru modificarea Normei sanitare veterinare privind standardele minime pentru protecția găinilor ouătoare, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 136/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118853",
+   "versions": [
+    {
+     "from": "2010-05-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118853",
+     "sha256": "cbb8ace8a1ac0c93ffb9541a1e44d018ffbe810492dd1ef9bfe037d6402a0bd7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-45-2010",
+   "path": "ordin/ansvsa/2010/45",
+   "short": "Ordin ansvsa nr. 45/2010",
+   "title": "Ordinul nr. 45/2010 pentru aprobarea Normei sanitar-veterinare privind condițiile sanitar-veterinare de funcționare a târgurilor de animale vii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118854",
+   "versions": [
+    {
+     "from": "2010-05-19",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118854",
+     "sha256": "18843a150b107dccfd547aa75f1afc2f3628bfaade461380ea8d721270bc62b2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-46-2010",
+   "path": "ordin/ansvsa/2010/46",
+   "short": "Ordin ansvsa nr. 46/2010",
+   "title": "Ordinul nr. 46/2010 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 5/2010 privind informarea consumatorilor în legătură cu produsele și serviciile supuse controlului sanitar-veterinar și pentru siguranța alimentelor care sunt puse la dispoziția acestora de către persoanele fizice și juridice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118860",
+   "versions": [
+    {
+     "from": "2010-05-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118860",
+     "sha256": "233949694fe3e4e023ccf48d3d12ea0509be073fe4a823a335b4b7fd7a86247f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-47-2010",
+   "path": "ordin/ansvsa/2010/47",
+   "short": "Ordin ansvsa nr. 47/2010",
+   "title": "Ordinul nr. 47/2010 pentru aprobarea Normei sanitare veterinare privind modul de soluționare a cererilor pentru transferul autorizațiilor de comercializare în România a produselor medicinale veterinare autorizate prin procedură națională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118992",
+   "versions": [
+    {
+     "from": "2010-05-25",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118992",
+     "sha256": "18e93c90eb9fbe1c88a51d4faea6df63343d096abc75f9ca692e40826575236f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-48-2010",
+   "path": "ordin/ansvsa/2010/48",
+   "short": "Ordin ansvsa nr. 48/2010",
+   "title": "Ordinul nr. 48/2010 pentru aprobarea Normei sanitare veterinare și pentru siguranța alimentelor privind autorizarea laboratoarelor supuse controlului sanitar-veterinar și pentru siguranța alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119098",
+   "versions": [
+    {
+     "from": "2010-05-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119098",
+     "sha256": "c2127e3cf9f6352a499f4bfad9ed79e2044150660e06d20ee11b0896b70d99a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-49-2010",
+   "path": "ordin/ansvsa/2010/49",
+   "short": "Ordin ansvsa nr. 49/2010",
+   "title": "Ordinul nr. 49/2010 privind calificarea exploatațiilor de bovine în raport cu tuberculoza bovină și leucoza enzootică bovină",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119217",
+   "versions": [
+    {
+     "from": "2010-06-03",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119217",
+     "sha256": "124bce233ab247f8fa64d34ee4a9b913775ed48e4895f47b356d4618be51eb14"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-5-2010",
+   "path": "ordin/ansvsa/2010/5",
+   "short": "Ordin ansvsa nr. 5/2010",
+   "title": "Ordinul nr. 5/2010 privind informarea consumatorilor în legătură cu produsele și serviciile supuse controlului sanitar-veterinar și pentru siguranța alimentelor care sunt puse la dispoziția acestora de către persoanele fizice și juridice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115917",
+   "versions": [
+    {
+     "from": "2010-03-11",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115917",
+     "sha256": "9e221286d2e083aba15ed0de4cbb13d9b6aee47edf9d5fb48b00379521646744"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-50-2010",
+   "path": "ordin/ansvsa/2010/50",
+   "short": "Ordin ansvsa nr. 50/2010",
+   "title": "Ordinul nr. 50/2010 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 18/2007 pentru aprobarea Normei sanitare veterinare și pentru siguranța alimentelor privind substanțele nedorite din hrana pentru animale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119554",
+   "versions": [
+    {
+     "from": "2010-06-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119554",
+     "sha256": "f8ea2970e2730d86476ffa055e212efc9aa71c3f2abe38a542430d8d4d714c01"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-51-2010",
+   "path": "ordin/ansvsa/2010/51",
+   "short": "Ordin ansvsa nr. 51/2010",
+   "title": "Ordinul nr. 51/2010 privind modificarea Normelor metodologice de aplicare a Programului acțiunilor de supraveghere, prevenire și control al bolilor la animale, al celor transmisibile de la animale la om, protecția animalelor și protecția mediului pentru anul 2010, aprobate prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 2/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119516",
+   "versions": [
+    {
+     "from": "2010-06-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119516",
+     "sha256": "51fe66cc434ce9d26355c54bc0b701a6da727097e5d098e9d74611dc1fcfc5c1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-52-2010",
+   "path": "ordin/ansvsa/2010/52",
+   "short": "Ordin ansvsa nr. 52/2010",
+   "title": "Ordinul nr. 52/2010 privind aprobarea Planului pentru eradicarea anemiei infecțioase ecvine pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119596",
+   "versions": [
+    {
+     "from": "2010-06-16",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119596",
+     "sha256": "9ed2f175508f558c32d988c10e4e8c940531e63d575adf338f4022aee68eddd2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-54-2010",
+   "path": "ordin/ansvsa/2010/54",
+   "short": "Ordin ansvsa nr. 54/2010",
+   "title": "Ordinul nr. 54/2010 privind organizarea, funcționarea și atribuțiile Comitetului pentru produse medicinale veterinare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119659",
+   "versions": [
+    {
+     "from": "2010-06-18",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119659",
+     "sha256": "dc40d1bef2a07097da041d838c441dd26f27655358b493410c5dcccd28de3920"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-55-2010",
+   "path": "ordin/ansvsa/2010/55",
+   "short": "Ordin ansvsa nr. 55/2010",
+   "title": "Ordinul nr. 55/2010 pentru aprobarea Normei sanitare veterinare și pentru siguranța alimentelor privind condițiile sanitar-veterinare în care se poate efectua vânzarea directă a laptelui crud prin intermediul automatelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119660",
+   "versions": [
+    {
+     "from": "2010-06-18",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119660",
+     "sha256": "711f0490d31b1687a20cb1d56c2fe4ad10858d5d1f81fda1fe42f2a01cfb70be"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-57-2010",
+   "path": "ordin/ansvsa/2010/57",
+   "short": "Ordin ansvsa nr. 57/2010",
+   "title": "Ordinul nr. 57/2010 pentru aprobarea Normei sanitare veterinare privind procedura de autorizare sanitară veterinară a unităților care produc, procesează, depozitează, transportă și/sau distribuie produse de origine animală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120277",
+   "versions": [
+    {
+     "from": "2010-07-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120277",
+     "sha256": "97432deb19eacf42c45268906f28b682d868ddd83dc93437587c5809da3fb9c8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-58-2010",
+   "path": "ordin/ansvsa/2010/58",
+   "short": "Ordin ansvsa nr. 58/2010",
+   "title": "Ordinul nr. 58/2010 pentru modificarea Normei sanitare veterinare privind formularele de prescripție medicală cu regim special și cu timbru sec pentru eliberarea produselor medicinale veterinare și a normelor metodologice referitoare la utilizarea acestora, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 184/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120413",
+   "versions": [
+    {
+     "from": "2010-07-09",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120413",
+     "sha256": "39b73567b7422cc105549a9dcdf5c8cf3531ff34e66c348eda72cf9ce96f5122"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-6-2010",
+   "path": "ordin/ansvsa/2010/6",
+   "short": "Ordin ansvsa nr. 6/2010",
+   "title": "Ordinul nr. 6/2010 pentru aprobarea cadrului general privind stingerea focarelor de boli la animale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116189",
+   "versions": [
+    {
+     "from": "2010-02-12",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116189",
+     "sha256": "99c8b0c574c91a942a90f2e057c3dc7ea9cabe3daf9f659d07a1e09e23c8208d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-7-2010",
+   "path": "ordin/ansvsa/2010/7",
+   "short": "Ordin ansvsa nr. 7/2010",
+   "title": "Ordinul nr. 7/2010 pentru modificarea și completarea unor ordine ce reglementează domeniul sanitar-veterinar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116426",
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116426",
+     "sha256": "498ce79852392a6be894900df69d0bb22867f62e6fc8c8e3104a7cfab73e9fb3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-8-2010",
+   "path": "ordin/ansvsa/2010/8",
+   "short": "Ordin ansvsa nr. 8/2010",
+   "title": "Ordinul nr. 8/2010 pentru modificarea Normei sanitare veterinare privind organizarea și desfășurarea activității de control oficial sanitar-veterinar efectuat de către personalul de specialitate în unitățile care produc alimente de origine animală, aprobată prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 64/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116378",
+   "versions": [
+    {
+     "from": "2010-02-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116378",
+     "sha256": "a729d044a7e9c54d3962a21b047afab59137de4f2c48118cbf14b61a5927b292"
     }
    ]
   },
@@ -6303,6 +7053,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1157-2010",
+   "path": "ordin/mediu/2010/1157",
+   "short": "Ordin mediu nr. 1157/2010",
+   "title": "Ordinul nr. 1.157/2010 pentru modificarea și completarea Ghidului de finanțare a Programului de stimulare a înnoirii Parcului național de tractoare și mașini agricole autopropulsate, aprobat prin Ordinul ministrului mediului și pădurilor nr. 2/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121420",
+   "versions": [
+    {
+     "from": "2010-08-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121420",
+     "sha256": "d10817fff11cf12e75e51d55ea1834ca2a821ed1cb848c9bbc732a2bd742ff0e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1160-2010",
    "path": "ordin/mediu/2010/1160",
    "short": "Ordin mediu nr. 1160/2010",
@@ -6374,6 +7139,36 @@
      "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121852",
      "sha256": "2a59145296c9dd27cb53acfd2120de0d07f0efe4624d74ab56e5b1e2ee3501b5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1223-2010",
+   "path": "ordin/mediu/2010/1223",
+   "short": "Ordin mediu nr. 1223/2010",
+   "title": "Ordinul nr. 1.223/2010 pentru modificarea Ghidului de finanțare a Programului privind instalarea sistemelor de încălzire care utilizează energie regenerabilă, inclusiv înlocuirea sau completarea sistemelor clasice de încălzire, aprobat prin Ordinul ministrului mediului și pădurilor nr. 950/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121750",
+   "versions": [
+    {
+     "from": "2010-08-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121750",
+     "sha256": "ae241212ce1a7825674ec8ad2cb4828376a910766d8c55c6dedf49416c6682a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1224-2010",
+   "path": "ordin/mediu/2010/1224",
+   "short": "Ordin mediu nr. 1224/2010",
+   "title": "Ordinul nr. 1.224/2010 privind modificarea și completarea Ordinului ministrului mediului și dezvoltării durabile nr. 297/2008 pentru aprobarea Procedurii naționale privind utilizarea mecanismului \"Implementare în comun (JI)\" pe baza Modului I, în conformitate cu prevederile art. 6 din Protocolul de la Kyoto",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121751",
+   "versions": [
+    {
+     "from": "2010-08-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121751",
+     "sha256": "1b17e162b7b0a35d70ab712580b09758e4648b8d074fff3eaeaa4998ee701db5"
     }
    ]
   },
@@ -6453,6 +7248,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1433-2010",
+   "path": "ordin/mediu/2010/1433",
+   "short": "Ordin mediu nr. 1433/2010",
+   "title": "Ordinul nr. 1.433/2010 pentru modificarea Procedurii privind constituirea și autorizarea ocoalelor silvice și atribuțiile acestora, modelul documentelor de constituire, organizare și funcționare, precum și conținutul Registrului național al administratorilor de păduri și al ocoalelor silvice, aprobată prin Ordinul ministrului mediului și pădurilor nr. 904/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122248",
+   "versions": [
+    {
+     "from": "2010-09-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122248",
+     "sha256": "1a6799015e51d9f80735a519a77502bf81fd6a005601a7b164310b927fde7142"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1450-2010",
    "path": "ordin/mediu/2010/1450",
    "short": "Ordin mediu nr. 1450/2010",
@@ -6464,6 +7274,96 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122515",
      "sha256": "4c7728158e906d93b5bd523b2569a6cfa19c20c558e24cdf3af348c2a617f10e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1477-2010",
+   "path": "ordin/mediu/2010/1477",
+   "short": "Ordin mediu nr. 1477/2010",
+   "title": "Ordinul nr. 1.477/2010 privind modificarea și completarea Ordinului ministrului mediului și gospodăririi apelor nr. 549/2006 pentru aprobarea modelului și conținutului formularului \"Declarație privind obligațiile la Fondul pentru mediu\" și a instrucțiunilor de completare și depunere a acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122313",
+   "versions": [
+    {
+     "from": "2010-09-21",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122313",
+     "sha256": "b02b6070fb7f012903f7e82a53d122f5f131c0654659a8a9a11c8247b8e253c6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1491-2010",
+   "path": "ordin/mediu/2010/1491",
+   "short": "Ordin mediu nr. 1491/2010",
+   "title": "Ordinul nr. 1.491/2010 privind modificarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122715",
+   "versions": [
+    {
+     "from": "2010-10-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122715",
+     "sha256": "7ba88375b28d84a4bcd28f9ab0fe7ff04721a2736c902a4c49f43083a5041ce7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1492-2010",
+   "path": "ordin/mediu/2010/1492",
+   "short": "Ordin mediu nr. 1492/2010",
+   "title": "Ordinul nr. 1.492/2010 privind modificarea Ordinului ministrului apelor și protecției mediului și al ministrului agriculturii, alimentației și pădurilor nr. 452/105.951/2001 pentru aprobarea Regulamentului de organizare și funcționare a Comisiei și a Grupului de sprijin pentru aplicarea Planului de acțiune pentru protecția apelor împotriva poluării cu nitrați proveniți din surse agricole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122534",
+   "versions": [
+    {
+     "from": "2010-10-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122534",
+     "sha256": "b1329853269da4fdf245fbb0d2d1bb09227bd48e79fc51c56c2f7e0134885619"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1533-2010",
+   "path": "ordin/mediu/2010/1533",
+   "short": "Ordin mediu nr. 1533/2010",
+   "title": "Ordinul nr. 1.533/2010 pentru suspendarea aplicabilității prevederilor art. 15-20 din Procedura privind constituirea și autorizarea ocoalelor silvice și atribuțiile acestora, modelul documentelor de constituire, organizare și funcționare, precum și conținutul Registrului național al administratorilor de păduri și al ocoalelor silvice, aprobată prin Ordinul ministrului mediului și pădurilor nr. 904/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122640",
+   "versions": [
+    {
+     "from": "2010-10-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122640",
+     "sha256": "a697087c09f962f45bb5cd993afea6dafc6373275f893172a1176a57802113a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1688-2010",
+   "path": "ordin/mediu/2010/1688",
+   "short": "Ordin mediu nr. 1688/2010",
+   "title": "Ordinul nr. 1.688/2010 pentru modificarea pozițiilor nr. 118, 192 și \"Total țară\" din anexa nr. 1 la Ordinul ministrului mediului și pădurilor nr. 713/2010 privind aprobarea cotelor de recoltă pentru speciile de faună de interes cinegetic, la care vânarea este permisă, pentru sezonul de vânătoare 15 mai 2010-14 mai 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122871",
+   "versions": [
+    {
+     "from": "2010-10-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122871",
+     "sha256": "eb8eba18cf53cf840549b7a318ba9347dfc0dfde5d05087f81229298a74c2351"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1725-2010",
+   "path": "ordin/mediu/2010/1725",
+   "short": "Ordin mediu nr. 1725/2010",
+   "title": "Ordinul nr. 1.725/2010 pentru modificarea și completarea anexelor nr. 1-5 la abonamentul-cadru de utilizare/exploatare, aprobat prin Ordinul ministrului mediului și gospodăririi apelor nr. 798/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123633",
+   "versions": [
+    {
+     "from": "2010-11-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123633",
+     "sha256": "e31a736f98271b338358c14b918298e789e787c597d881082e75cf27e168be9d"
     }
    ]
   },
@@ -6524,6 +7424,21 @@
      "units": 46,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124105",
      "sha256": "2798e15f0996e24e5cd1b0e5e259263cf148af66a03a852b78bbf502d06e61af"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1920-2010",
+   "path": "ordin/mediu/2010/1920",
+   "short": "Ordin mediu nr. 1920/2010",
+   "title": "Ordinul nr. 1.920/2010 pentru abrogarea prevederilor art. 15-20 din Procedura privind constituirea și autorizarea ocoalelor silvice și atribuțiile acestora, modelul documentelor de constituire, organizare și funcționare, precum și conținutul Registrului național al administratorilor de păduri și al ocoalelor silvice, aprobată prin Ordinul ministrului mediului și pădurilor nr. 904/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124639",
+   "versions": [
+    {
+     "from": "2010-12-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124639",
+     "sha256": "1c32dcb8617189170960e8f2eaf978b723e298346f88413f7b16b329f4315438"
     }
    ]
   },
@@ -6618,6 +7533,96 @@
    ]
   },
   {
+   "slug": "ordin-mediu-2069-2010",
+   "path": "ordin/mediu/2010/2069",
+   "short": "Ordin mediu nr. 2069/2010",
+   "title": "Ordinul nr. 2.069/2010 pentru modificarea și completarea anexei la Ordinul ministrului mediului și dezvoltării durabile nr. 1.897/2007 pentru aprobarea procedurii de emitere a autorizației privind emisiile de gaze cu efect de seră pentru perioada 2008-2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124904",
+   "versions": [
+    {
+     "from": "2010-12-28",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124904",
+     "sha256": "bde8283c88be937e0399f327d39c42dc0a354eb56f839fd7d593043e9a2e21a8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2195-2010",
+   "path": "ordin/mediu/2010/2195",
+   "short": "Ordin mediu nr. 2195/2010",
+   "title": "Ordinul nr. 2.195/2010 pentru modificarea pozițiilor nr. 1589, 1590 și \"TOTAL ȚARĂ\" din anexa nr. 2 la Ordinul ministrului mediului și pădurilor nr. 713/2010 privind aprobarea cotelor de recoltă pentru speciile de faună de interes cinegetic, la care vânarea este permisă, pentru sezonul de vânătoare 15 mai 2010-14 mai 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124489",
+   "versions": [
+    {
+     "from": "2010-12-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124489",
+     "sha256": "a30532684c9fdd4adc1d26a2031386637d74c72751439abb8885a6829bbb6b63"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2213-2010",
+   "path": "ordin/mediu/2010/2213",
+   "short": "Ordin mediu nr. 2213/2010",
+   "title": "Ordinul nr. 2.213/2010 pentru modificarea anexelor nr. 1-5 la Ordinul ministrului agriculturii, alimentației și pădurilor nr. 193/2002 privind reactualizarea delimitării fondului cinegetic al României în fonduri de vânătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124542",
+   "versions": [
+    {
+     "from": "2010-12-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124542",
+     "sha256": "41e5ee1c426aa77931bebbd7a074feb4415e23a6189ba7bed045e75f6d9ccf23"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2219-2010",
+   "path": "ordin/mediu/2010/2219",
+   "short": "Ordin mediu nr. 2219/2010",
+   "title": "Ordinul nr. 2.219/2010 pentru modificarea Ordinului ministrului apelor și protecției mediului nr. 105/2003 privind aprobarea Instrucțiunilor de organizare și funcționare a comisiilor de avizare a documentațiilor de evaluare a stării de siguranță în exploatare a barajelor - NTLH - 040 și aprobarea componențelor nominale ale comisiei centrale și comisiilor teritoriale de avizare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124990",
+   "versions": [
+    {
+     "from": "2011-01-04",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124990",
+     "sha256": "93ec625a9edfe1258b8e54f4a66ba18121ea3fc043e48825ad00e18147a5afe5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2265-2010",
+   "path": "ordin/mediu/2010/2265",
+   "short": "Ordin mediu nr. 2265/2010",
+   "title": "Ordinul nr. 2.265/2010 pentru modificarea și completarea Regulamentului privind atribuirea dreptului de gestionare a faunei cinegetice, aprobat prin Ordinul ministrului mediului și pădurilor nr. 1.221/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124603",
+   "versions": [
+    {
+     "from": "2010-12-21",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124603",
+     "sha256": "20fbb2a72b29f4c02ed7152e4c5b5d668d47e252f9b6e695d55a8aa3ec5ec2a0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-2353-2010",
+   "path": "ordin/mediu/2010/2353",
+   "short": "Ordin mediu nr. 2353/2010",
+   "title": "Ordinul nr. 2.353/2010 pentru modificarea Ordinului ministrului apelor, pădurilor și protecției mediului nr. 275/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125364",
+   "versions": [
+    {
+     "from": "2011-01-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125364",
+     "sha256": "1cf9d3f1089018e58fdb56a98f16e7c02cba5c994744f917d227760807053c53"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-2358-2010",
    "path": "ordin/mediu/2010/2358",
    "short": "Ordin mediu nr. 2358/2010",
@@ -6629,6 +7634,66 @@
      "units": 26,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125146",
      "sha256": "cb34223d32b61af9531d69b8badc9b3703685f77aa525454e9243fcce78f1899"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-242-2010",
+   "path": "ordin/mediu/2010/242",
+   "short": "Ordin mediu nr. 242/2010",
+   "title": "Ordinul nr. 242/2010 pentru modificarea Ordinului ministrului mediului și dezvoltării durabile nr. 1.216/2008 privind aprobarea Normativului tehnic pentru evaluarea stării de siguranță în exploatare a echipamentelor hidroelectromecanice ale evacuatorilor de ape mari ai barajelor - NTLH-050",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117011",
+   "versions": [
+    {
+     "from": "2010-03-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117011",
+     "sha256": "93aac1b655982e7e515e34e6bd553bd9ab31215470c3a34ad5195c673c019e28"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-293-2010",
+   "path": "ordin/mediu/2010/293",
+   "short": "Ordin mediu nr. 293/2010",
+   "title": "Ordinul nr. 293/2010 pentru modificarea Ordinului ministrului agriculturii, pădurilor, apelor și mediului nr. 50/2004 privind stabilirea unor măsuri pentru aplicarea prevederilor Regulamentului (CE) nr. 761/2001 care permite participarea voluntară a organizațiilor la schema comunitară de eco-management și audit (EMAS)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117135",
+   "versions": [
+    {
+     "from": "2010-03-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117135",
+     "sha256": "5c571a08da27662904f4df804f566ffed6b181c8df76e34402927711ddfb8710"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-294-2010",
+   "path": "ordin/mediu/2010/294",
+   "short": "Ordin mediu nr. 294/2010",
+   "title": "Ordinul nr. 294/2010 pentru modificarea anexei nr. 3 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 216/2008 privind aprobarea Criteriilor de acordare a licenței pentru gestionarii fondurilor cinegetice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117040",
+   "versions": [
+    {
+     "from": "2010-03-15",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117040",
+     "sha256": "d4705cb102767e8859468120f268ff4dae7968f05450b42cd3d8abe387ce338d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-295-2010",
+   "path": "ordin/mediu/2010/295",
+   "short": "Ordin mediu nr. 295/2010",
+   "title": "Ordinul nr. 295/2010 privind modificarea anexelor nr. 1 și 2 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 762/2008 pentru aprobarea modelului autorizației de înființare și funcționare a crescătoriilor de vânat și a complexurilor de vânătoare și al documentelor legale de proveniență a exemplarelor de vânat care intră și ies în/din crescătoriile de vânat și complexurile de vânătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117012",
+   "versions": [
+    {
+     "from": "2010-03-12",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117012",
+     "sha256": "d5b61b6ec596ec9c562b306dcffcef56b6a32212d3ae158c56ca6cfc27919a58"
     }
    ]
   },
@@ -6678,6 +7743,51 @@
    ]
   },
   {
+   "slug": "ordin-mediu-419-2010",
+   "path": "ordin/mediu/2010/419",
+   "short": "Ordin mediu nr. 419/2010",
+   "title": "Ordinul nr. 419/2010 pentru modificarea și completarea Ghidului de finanțare a Programului de stimulare a înnoirii Parcului național de tractoare și mașini agricole autopropulsate, aprobat prin Ordinul ministrului mediului și pădurilor nr. 2/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118112",
+   "versions": [
+    {
+     "from": "2010-04-21",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118112",
+     "sha256": "b0b7d1bf20de93a3ed74a6aa773260e5c2d4d6d0104ecc71e4a68407411a925d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-44-2010",
+   "path": "ordin/mediu/2010/44",
+   "short": "Ordin mediu nr. 44/2010",
+   "title": "Ordinul nr. 44/2010 pentru modificarea și completarea Ghidului de finanțare a Programului de stimulare a înnoirii Parcului auto național, aprobat prin Ordinul ministrului mediului, interimar, nr. 1.683/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115762",
+   "versions": [
+    {
+     "from": "2010-02-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115762",
+     "sha256": "79a4478f6b70fda3aae23260ea5efdf4eee40d67e08aa2973ec14347359e8b0f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-457-2010",
+   "path": "ordin/mediu/2010/457",
+   "short": "Ordin mediu nr. 457/2010",
+   "title": "Ordinul nr. 457/2010 pentru modificarea și completarea Ghidului de finanțare a Programului de stimulare a înnoirii Parcului auto național, aprobat prin Ordinul ministrului mediului, interimar, nr. 1.683/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117944",
+   "versions": [
+    {
+     "from": "2010-04-15",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117944",
+     "sha256": "e91e2a7f3815e91a07cbea3ea9cacc0064ebb54aaa7459824654d264e53bd5dd"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-460-2010",
    "path": "ordin/mediu/2010/460",
    "short": "Ordin mediu nr. 460/2010",
@@ -6693,6 +7803,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-544-2010",
+   "path": "ordin/mediu/2010/544",
+   "short": "Ordin mediu nr. 544/2010",
+   "title": "Ordinul nr. 544/2010 pentru modificarea art. II din Ordinul ministrului mediului și pădurilor nr. 294/2010 pentru modificarea anexei nr. 3 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 216/2008 privind aprobarea Criteriilor de acordare a licenței pentru gestionarii fondurilor cinegetice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118157",
+   "versions": [
+    {
+     "from": "2010-04-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118157",
+     "sha256": "73f62f5d5c4b641ef2faf12453548036ddfa0ce2f89d406d7e90c13e819dc27e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-566-2010",
    "path": "ordin/mediu/2010/566",
    "short": "Ordin mediu nr. 566/2010",
@@ -6704,6 +7829,21 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117982",
      "sha256": "6c108fd0bba825170160fbb3f5a0da1e5a0c0d4139ffa60f69e0439bd0e3054a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-629-2010",
+   "path": "ordin/mediu/2010/629",
+   "short": "Ordin mediu nr. 629/2010",
+   "title": "Ordinul nr. 629/2010 privind modificarea și completarea Regulamentului de organizare și funcționare al Comisiei pentru acreditarea persoanelor fizice și juridice ca verificatori de mediu, aprobat prin Ordinul ministrului mediului și gospodăririi apelor nr. 1.201/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118414",
+   "versions": [
+    {
+     "from": "2010-05-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118414",
+     "sha256": "745176154f03fb5176afab3bfe6175b10b891d1e07b7a170ef21f9622165e0aa"
     }
    ]
   },
@@ -10259,6 +11399,96 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124668",
      "sha256": "e19cce145d0ea702f7cbe3dae92a85d6418f0547557dbe001425595af61d6d03"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-4634-2010",
+   "path": "ordin/vama/2010/4634",
+   "short": "Ordin vama nr. 4634/2010",
+   "title": "Ordinul nr. 4.634/2010 privind modificarea anexei nr. 3 la Ordinul vicepreședintelui Agenției Naționale de Administrare Fiscală nr. 9.988/2006 pentru aprobarea normelor tehnice de completare, utilizare și tipărire a declarației sumare și a documentului administrativ unic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117294",
+   "versions": [
+    {
+     "from": "2010-03-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117294",
+     "sha256": "745375907a2d3fd0cf4c61e1ad983997973867e4ef2780cf10a748507ac04c61"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-4663-2010",
+   "path": "ordin/vama/2010/4663",
+   "short": "Ordin vama nr. 4663/2010",
+   "title": "Ordinul nr. 4.663/2010 pentru modificarea Normelor tehnice de utilizare a Sistemului de control al exportului, aprobate prin Ordinul vicepreședintelui Agenției Naționale de Administrare Fiscală nr. 1.626/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117209",
+   "versions": [
+    {
+     "from": "2010-03-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117209",
+     "sha256": "e8f5520c59f50bbaa4a252e2df203b15687e4c1d3758d20365650f910f65056e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-7630-2010",
+   "path": "ordin/vama/2010/7630",
+   "short": "Ordin vama nr. 7630/2010",
+   "title": "Ordinul nr. 7.630/2010 pentru aprobarea Instrucțiunilor privind accesul operatorilor economici la aplicația EMCS-RO de control al mișcărilor cu produse accizabile în regim suspensiv de accize",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124114",
+   "versions": [
+    {
+     "from": "2010-12-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124114",
+     "sha256": "5ef5e28bcb6aa5d162943b6c341857826559e201d642639c8d4514acfd16b846"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-9599-2010",
+   "path": "ordin/vama/2010/9599",
+   "short": "Ordin vama nr. 9599/2010",
+   "title": "Ordinul nr. 9.599/2010 de modificare și completare a Normelor tehnice de utilizare a Sistemului de control al importului, aprobate prin Ordinul vicepreședintelui Agenției Naționale de Administrare Fiscală nr. 2.477/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124936",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124936",
+     "sha256": "39e012673907497a7937a618f8478e72e158ea915014e1f5ea4d9a127a27e2f4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-9600-2010",
+   "path": "ordin/vama/2010/9600",
+   "short": "Ordin vama nr. 9600/2010",
+   "title": "Ordinul nr. 9.600/2010 de modificare și completare a Normelor tehnice de utilizare a Sistemului de control al exportului, aprobate prin Ordinul vicepreședintelui Agenției Naționale de Administrare Fiscală nr. 1.626/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124937",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124937",
+     "sha256": "bbcd8e5045ca6ec46294337cf3adee64d59ee0e3675ceeddaa088928ba179735"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-9880-2010",
+   "path": "ordin/vama/2010/9880",
+   "short": "Ordin vama nr. 9880/2010",
+   "title": "Ordinul nr. 9.880/2010 pentru modificarea și completarea Normelor privind procedurile simplificate de vămuire, aprobate prin Ordinul vicepreședintelui Agenției Naționale de Administrare Fiscală nr. 5.465/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125351",
+   "versions": [
+    {
+     "from": "2011-03-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125351",
+     "sha256": "0088430eadc4f9172c5c5d3087dd4a96d0ead20002fb2a40fcd40f67016fca08"
     }
    ]
   }

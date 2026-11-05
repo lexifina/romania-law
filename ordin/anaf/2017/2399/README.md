@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 2399/2017 · 1 versions, from 2017-08-22 (latest in force: 2017-08-22) · <https://legislatie.just.ro/Public/DetaliiDocument/192488>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 5 (ANTET^1) Notă... ^1) Se vor trece sigla conform Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 3.504/2013 privind aprobarea modelului ...): it is a table that the official text holds only flattened; Anexa nr. 7 (ANTET^1) Notă... ^1) Se vor trece sigla conform Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 3.504/2013 privind aprobarea modelului ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -21,8 +21,12 @@ Ordin anaf nr. 2399/2017 · 1 versions, from 2017-08-22 (latest in force: 2017-0
 | Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 | Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
 | Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
+| Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
+| Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
 | Anexa nr. 6 (what it is) | [anexa-6/README.md](anexa-6/README.md) | 0 |  |
 | Anexa nr. 6 | [anexa-6/text.md](anexa-6/text.md) | 0 |  |
+| Anexa nr. 7 (what it is) | [anexa-7/README.md](anexa-7/README.md) | 0 |  |
+| Anexa nr. 7 | [anexa-7/text.md](anexa-7/text.md) | 0 |  |
 | Anexa nr. 8 (what it is) | [anexa-8/README.md](anexa-8/README.md) | 0 |  |
 | Anexa nr. 8 | [anexa-8/text.md](anexa-8/text.md) | 0 |  |
 
@@ -38,8 +42,8 @@ Act id: `ordin-anaf-2399-2017` (tags `ordin-anaf-2399-2017/<day>`; `python tools
 - Ordin anaf nr. 2399/2017: Anexa nr. 2 (PROCEDURĂ din 10 august 2017 de anulare și restituire, la cererea persoanei fizice, a impozitului pe venitul din transferul dreptului de proprietate imobiliară din patrimoniul personal și accesoriilor) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 192488 of the official web service.
 - Ordin anaf nr. 2399/2017: Anexa nr. 3 (Nr. și data înregistrării................../......................... CERERE privind aplicarea dispozițiilor art. 111 alin. (2) lit. e) din Legea nr. 227/2015, în cazul în care darea în plată a bunuri) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 192488 of the official web service.
 - Ordin anaf nr. 2399/2017: Anexa nr. 4 (CERERE privind aplicarea dispozițiilor art. III alin. (1) din Ordonanța de urgență a Guvernului nr. 32/2016 nr............./....... Subsemnatul(a),.....................................................) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 192488 of the official web service.
+- Ordin anaf nr. 2399/2017: Anexa nr. 5 (ANTET^1) Notă... ^1) Se vor trece sigla conform Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 3.504/2013 privind aprobarea modelului și caracteristicilor siglelor utilizate la) is part of the order and is published in its folder, anexa-5/ (paragraphs and tables), from document 192488 of the official web service.
 - Ordin anaf nr. 2399/2017: Anexa nr. 6 (CERERE privind aplicarea dispozițiilor art. III alin. (4) din Ordonanța de urgență a Guvernului nr. 32/2016 nr............./....... Subsemnatul(a),.....................................................) is part of the order and is published in its folder, anexa-6/ (paragraphs), from document 192488 of the official web service.
+- Ordin anaf nr. 2399/2017: Anexa nr. 7 (ANTET^1) Notă... ^1) Se vor trece sigla conform Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 3.504/2013 privind aprobarea modelului și caracteristicilor siglelor utilizate la) is part of the order and is published in its folder, anexa-7/ (paragraphs and tables), from document 192488 of the official web service.
 - Ordin anaf nr. 2399/2017: Anexa nr. 8 (Caracteristicile de tipărire, modul de difuzare, de utilizare și de păstrare a formularelor a) Denumire: „Cerere privind aplicarea dispozițiilor art. 111 alin. (2) lit. e) din Legea nr. 227/2015, în c) is part of the order and is published in its folder, anexa-8/ (paragraphs), from document 192488 of the official web service.
-- Ordin anaf nr. 2399/2017: Anexa nr. 5 (ANTET^1) Notă... ^1) Se vor trece sigla conform Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 3.504/2013 privind aprobarea modelului ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anaf nr. 2399/2017: Anexa nr. 7 (ANTET^1) Notă... ^1) Se vor trece sigla conform Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 3.504/2013 privind aprobarea modelului ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin anaf nr. 2399/2017: the publisher's notes run into its text (*) Se completează și se depune la organul fiscal central competent de către fiecare persoană fizică care solicită aplica; **) Se înscrie calitatea persoanei fizice, după caz: debitor, codebitor, coplătitor, garant personal sau ipotecar al deb) are not text.

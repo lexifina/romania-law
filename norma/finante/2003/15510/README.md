@@ -2,7 +2,7 @@
 
 Norma finante nr. 15510/2003 · 1 versions, from 2003-06-25 (latest in force: 2003-06-25) · <https://legislatie.just.ro/Public/DetaliiDocument/44631>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. It states that it applies from 1 January 2003, before its publication; dated here by its publication in the Monitorul Oficial. Not included yet: Anexa nr. 4 (4a)): it is a table that the official text holds only flattened; Anexa nr. 6 (4c)): it is a table that the official text holds only flattened; Anexa nr. 10 (5a)): it is a table that the official text holds only flattened; Anexa nr. 19 (7c)): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. It states that it applies from 1 January 2003, before its publication; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -32,6 +32,8 @@ Norma finante nr. 15510/2003 · 1 versions, from 2003-06-25 (latest in force: 20
 | Art. 24 | [art-024.md](art-024.md) | 0 |  |
 | Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 10 (what it is) | [anexa-10/README.md](anexa-10/README.md) | 0 |  |
+| Anexa nr. 10 | [anexa-10/text.md](anexa-10/text.md) | 0 |  |
 | Anexa nr. 11 (what it is) | [anexa-11/README.md](anexa-11/README.md) | 0 |  |
 | Anexa nr. 11 | [anexa-11/text.md](anexa-11/text.md) | 0 |  |
 | Anexa nr. 12 (what it is) | [anexa-12/README.md](anexa-12/README.md) | 0 |  |
@@ -48,6 +50,8 @@ Norma finante nr. 15510/2003 · 1 versions, from 2003-06-25 (latest in force: 20
 | Anexa nr. 17 | [anexa-17/text.md](anexa-17/text.md) | 0 |  |
 | Anexa nr. 18 (what it is) | [anexa-18/README.md](anexa-18/README.md) | 0 |  |
 | Anexa nr. 18 | [anexa-18/text.md](anexa-18/text.md) | 0 |  |
+| Anexa nr. 19 (what it is) | [anexa-19/README.md](anexa-19/README.md) | 0 |  |
+| Anexa nr. 19 | [anexa-19/text.md](anexa-19/text.md) | 0 |  |
 | Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 | Anexa nr. 20 (what it is) | [anexa-20/README.md](anexa-20/README.md) | 0 |  |
@@ -56,8 +60,12 @@ Norma finante nr. 15510/2003 · 1 versions, from 2003-06-25 (latest in force: 20
 | Anexa nr. 21 | [anexa-21/text.md](anexa-21/text.md) | 0 |  |
 | Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
 | Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
+| Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
+| Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
 | Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
 | Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
+| Anexa nr. 6 (what it is) | [anexa-6/README.md](anexa-6/README.md) | 0 |  |
+| Anexa nr. 6 | [anexa-6/text.md](anexa-6/text.md) | 0 |  |
 | Anexa nr. 7 (what it is) | [anexa-7/README.md](anexa-7/README.md) | 0 |  |
 | Anexa nr. 7 | [anexa-7/text.md](anexa-7/text.md) | 0 |  |
 | Anexa nr. 8 (what it is) | [anexa-8/README.md](anexa-8/README.md) | 0 |  |
@@ -76,10 +84,13 @@ Act id: `norma-finante-15510-2003` (tags `norma-finante-15510-2003/<day>`; `pyth
 - Norma finante nr. 15510/2003: Anexa nr. 1 (1) is part of the norm and is published in its folder, anexa-1/ (paragraphs), from document 44631 of the official web service.
 - Norma finante nr. 15510/2003: Anexa nr. 2 (2) is part of the norm and is published in its folder, anexa-2/ (paragraphs), from document 44631 of the official web service.
 - Norma finante nr. 15510/2003: Anexa nr. 3 (3) is part of the norm and is published in its folder, anexa-3/ (paragraphs), from document 44631 of the official web service.
+- Norma finante nr. 15510/2003: Anexa nr. 4 (4a)) is part of the norm and is published in its folder, anexa-4/ (paragraphs and tables), from document 44631 of the official web service.
 - Norma finante nr. 15510/2003: Anexa nr. 5 (4b)) is part of the norm and is published in its folder, anexa-5/ (paragraphs), from document 44631 of the official web service.
+- Norma finante nr. 15510/2003: Anexa nr. 6 (4c)) is part of the norm and is published in its folder, anexa-6/ (paragraphs and tables), from document 44631 of the official web service.
 - Norma finante nr. 15510/2003: Anexa nr. 7 (4d)) is part of the norm and is published in its folder, anexa-7/ (paragraphs), from document 44631 of the official web service.
 - Norma finante nr. 15510/2003: Anexa nr. 8 (4e)) is part of the norm and is published in its folder, anexa-8/ (paragraphs), from document 44631 of the official web service.
 - Norma finante nr. 15510/2003: Anexa nr. 9 (4f)) is part of the norm and is published in its folder, anexa-9/ (paragraphs), from document 44631 of the official web service.
+- Norma finante nr. 15510/2003: Anexa nr. 10 (5a)) is part of the norm and is published in its folder, anexa-10/ (paragraphs and tables), from document 44631 of the official web service.
 - Norma finante nr. 15510/2003: Anexa nr. 11 (5b)) is part of the norm and is published in its folder, anexa-11/ (paragraphs), from document 44631 of the official web service.
 - Norma finante nr. 15510/2003: Anexa nr. 12 (6a)) is part of the norm and is published in its folder, anexa-12/ (paragraphs), from document 44631 of the official web service.
 - Norma finante nr. 15510/2003: Anexa nr. 13 (6b)) is part of the norm and is published in its folder, anexa-13/ (paragraphs), from document 44631 of the official web service.
@@ -88,10 +99,7 @@ Act id: `norma-finante-15510-2003` (tags `norma-finante-15510-2003/<day>`; `pyth
 - Norma finante nr. 15510/2003: Anexa nr. 16 (7) is part of the norm and is published in its folder, anexa-16/ (paragraphs), from document 44631 of the official web service.
 - Norma finante nr. 15510/2003: Anexa nr. 17 (7a)) is part of the norm and is published in its folder, anexa-17/ (paragraphs), from document 44631 of the official web service.
 - Norma finante nr. 15510/2003: Anexa nr. 18 (7b)) is part of the norm and is published in its folder, anexa-18/ (paragraphs), from document 44631 of the official web service.
+- Norma finante nr. 15510/2003: Anexa nr. 19 (7c)) is part of the norm and is published in its folder, anexa-19/ (paragraphs and tables), from document 44631 of the official web service.
 - Norma finante nr. 15510/2003: Anexa nr. 20 (8a)) is part of the norm and is published in its folder, anexa-20/ (paragraphs), from document 44631 of the official web service.
 - Norma finante nr. 15510/2003: Anexa nr. 21 (8b)) is part of the norm and is published in its folder, anexa-21/ (paragraphs), from document 44631 of the official web service.
-- Norma finante nr. 15510/2003: Anexa nr. 4 (4a)) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma finante nr. 15510/2003: Anexa nr. 6 (4c)) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma finante nr. 15510/2003: Anexa nr. 10 (5a)) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma finante nr. 15510/2003: Anexa nr. 19 (7c)) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Norma finante nr. 15510/2003: the publisher's notes run into its text (*) Numele şi prenumele pentru persoane fizice sau denumirea pentru persoane juridice.; *) Viza va fi data de direcţia de specialitate din cadrul Ministerului Apărării Naţionale, care coordonează activitatea ; **) Se taie ce nu este valabil.; ***) După caz) are not text.

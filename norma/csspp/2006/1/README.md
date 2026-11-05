@@ -2,7 +2,7 @@
 
 Norma csspp nr. 1/2006 · 1 versions, from 2006-09-08 (latest in force: 2006-09-08) · <https://legislatie.just.ro/Public/DetaliiDocument/74933>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1): it is a table that the official text holds only flattened; Anexa nr. 2 (2): it is a table that the official text holds only flattened; Anexa nr. 3 (3): it is a table that the official text holds only flattened; Anexa nr. 4 (4): it is a table that the official text holds only flattened; Anexa nr. 5 (5): it is a table that the official text holds only flattened; Anexa nr. 6 (6): it is a table that the official text holds only flattened; Anexa nr. 7 (7): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 5 (5): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -34,6 +34,18 @@ Norma csspp nr. 1/2006 · 1 versions, from 2006-09-08 (latest in force: 2006-09-
 | Art. 26 | [art-026.md](art-026.md) | 0 |  |
 | Art. 27 | [art-027.md](art-027.md) | 0 |  |
 | Art. 28 | [art-028.md](art-028.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
+| Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
+| Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
+| Anexa nr. 6 (what it is) | [anexa-6/README.md](anexa-6/README.md) | 0 |  |
+| Anexa nr. 6 | [anexa-6/text.md](anexa-6/text.md) | 0 |  |
+| Anexa nr. 7 (what it is) | [anexa-7/README.md](anexa-7/README.md) | 0 |  |
+| Anexa nr. 7 | [anexa-7/text.md](anexa-7/text.md) | 0 |  |
 
 Act id: `norma-csspp-1-2006` (tags `norma-csspp-1-2006/<day>`; `python tools/on.py <day> norma-csspp-1-2006`).
 
@@ -43,10 +55,10 @@ Act id: `norma-csspp-1-2006` (tags `norma-csspp-1-2006/<day>`; `python tools/on.
 - Norma csspp nr. 1/2006: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Norma csspp nr. 1/2006: the first version is the norm as published in Monitorul Oficial nr. 766 of 8 September 2006 (document 74933 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Norma csspp nr. 1/2006: the signatures and the place and date line after its last article are not article text.
-- Norma csspp nr. 1/2006: Anexa nr. 1 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma csspp nr. 1/2006: Anexa nr. 2 (2) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma csspp nr. 1/2006: Anexa nr. 3 (3) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma csspp nr. 1/2006: Anexa nr. 4 (4) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Norma csspp nr. 1/2006: Anexa nr. 1 (1) is part of the norm and is published in its folder, anexa-1/ (paragraphs and tables), from document 74933 of the official web service.
+- Norma csspp nr. 1/2006: Anexa nr. 2 (2) is part of the norm and is published in its folder, anexa-2/ (paragraphs and tables), from document 74933 of the official web service.
+- Norma csspp nr. 1/2006: Anexa nr. 3 (3) is part of the norm and is published in its folder, anexa-3/ (paragraphs and tables), from document 74933 of the official web service.
+- Norma csspp nr. 1/2006: Anexa nr. 4 (4) is part of the norm and is published in its folder, anexa-4/ (paragraphs and tables), from document 74933 of the official web service.
+- Norma csspp nr. 1/2006: Anexa nr. 6 (6) is part of the norm and is published in its folder, anexa-6/ (paragraphs and tables), from document 74933 of the official web service.
+- Norma csspp nr. 1/2006: Anexa nr. 7 (7) is part of the norm and is published in its folder, anexa-7/ (paragraphs and tables), from document 74933 of the official web service.
 - Norma csspp nr. 1/2006: Anexa nr. 5 (5) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma csspp nr. 1/2006: Anexa nr. 6 (6) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma csspp nr. 1/2006: Anexa nr. 7 (7) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

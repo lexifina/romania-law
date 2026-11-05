@@ -2,7 +2,7 @@
 
 Norma asf nr. 6/2015 · 1 versions, from 2015-04-03 (latest in force: 2015-04-03) · <https://legislatie.just.ro/Public/DetaliiDocument/166956>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 Activități desfășurate de către entități Entitățile vor desfășura activitățile precizate în tabelul de mai jos, conform categoriilor de risc corespunzătoare. ...): it is a table that the official text holds only flattened; Anexa nr. 3 (3 Indicatori de raportare electronică anuală Pentru raportarea indicatorilor din tabelul de mai jos, entitățile vor raporta: a) conform prevederilor art. 14 ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -27,6 +27,10 @@ Norma asf nr. 6/2015 · 1 versions, from 2015-04-03 (latest in force: 2015-04-03
 | Art. 19 | [art-019.md](art-019.md) | 0 |  |
 | Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 
 Act id: `norma-asf-6-2015` (tags `norma-asf-6-2015/<day>`; `python tools/on.py <day> norma-asf-6-2015`).
 
@@ -37,6 +41,6 @@ Act id: `norma-asf-6-2015` (tags `norma-asf-6-2015/<day>`; `python tools/on.py <
 - Norma asf nr. 6/2015: the first version is the norm as published in Monitorul Oficial nr. 227 of 3 April 2015 (document 166956 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Norma asf nr. 6/2015: the signatures and the place and date line after its last article are not article text.
 - Norma asf nr. 6/2015: Anexa nr. 1 (1 DEFINIȚII ȘI ABREVIERI 1. acord de furnizare a serviciului la parametrii agreați (SLA) - un acord între un furnizor de servicii IT și un client, care descrie unul sau mai multe servicii IT, document) is part of the norm and is published in its folder, anexa-1/ (paragraphs), from document 166956 of the official web service.
-- Norma asf nr. 6/2015: Anexa nr. 2 (2 Activități desfășurate de către entități Entitățile vor desfășura activitățile precizate în tabelul de mai jos, conform categoriilor de risc corespunzătoare. ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma asf nr. 6/2015: Anexa nr. 3 (3 Indicatori de raportare electronică anuală Pentru raportarea indicatorilor din tabelul de mai jos, entitățile vor raporta: a) conform prevederilor art. 14 ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Norma asf nr. 6/2015: Anexa nr. 2 (2 Activități desfășurate de către entități Entitățile vor desfășura activitățile precizate în tabelul de mai jos, conform categoriilor de risc corespunzătoare. Activități obligatorii ale entităților,) is part of the norm and is published in its folder, anexa-2/ (paragraphs and tables), from document 166956 of the official web service.
+- Norma asf nr. 6/2015: Anexa nr. 3 (3 Indicatori de raportare electronică anuală Pentru raportarea indicatorilor din tabelul de mai jos, entitățile vor raporta: a) conform prevederilor art. 14 alin. (4) din Norma Autorității de Supraveg) is part of the norm and is published in its folder, anexa-3/ (paragraphs and tables), from document 166956 of the official web service.
 - Norma asf nr. 6/2015: the publisher's note "*1) Dispunerea de măsuri a Comisiei Naţionale a Valorilor Mobiliare nr. 19/2010 nu a fost publicată în Monitorul Oficial al României, Partea I." is not text; the annexes it names are not published in Monitorul Oficial and are not part of this record.

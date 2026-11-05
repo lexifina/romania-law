@@ -2,7 +2,7 @@
 
 Ordin bnr nr. 7/2006 · 1 versions, from 2006-10-23 (latest in force: 2006-10-23) · <https://legislatie.just.ro/Public/DetaliiDocument/76169>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ANTET PARTICIPANT ELIGIBIL (CONTRAPARTIDA ELIGIBILA) Nr........ Data......... OFERTA DE PARTICIPARE LA LICITATIA DIN DATA DE...... PENTRU CUMPARARE DE ...): it is a table that the official text holds only flattened; Anexa nr. 2 (2 RAPORT DE TRANZACTIONARE ┌──┬─────────────────┬───────────────┬─────────────────────────────────────────┐ │NR│ Denumire │ Format │ Descriere │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ANTET PARTICIPANT ELIGIBIL (CONTRAPARTIDA ELIGIBILA) Nr........ Data......... OFERTA DE PARTICIPARE LA LICITATIA DIN DATA DE...... PENTRU CUMPARARE DE ...): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -49,6 +49,8 @@ Ordin bnr nr. 7/2006 · 1 versions, from 2006-10-23 (latest in force: 2006-10-23
 | Art. 41 | [art-041.md](art-041.md) | 0 |  |
 | Art. 42 | [art-042.md](art-042.md) | 0 |  |
 | Art. 43 | [art-043.md](art-043.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 
 Act id: `ordin-bnr-7-2006` (tags `ordin-bnr-7-2006/<day>`; `python tools/on.py <day> ordin-bnr-7-2006`).
 
@@ -58,5 +60,5 @@ Act id: `ordin-bnr-7-2006` (tags `ordin-bnr-7-2006/<day>`; `python tools/on.py <
 - Ordin bnr nr. 7/2006: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin bnr nr. 7/2006: the first version is the order as published in Monitorul Oficial nr. 861 of 20 October 2006 (document 76169 of the official web service), in force on 23 October 2006, the day it states for itself.
 - Ordin bnr nr. 7/2006: the signatures and the place and date line after its last article are not article text.
+- Ordin bnr nr. 7/2006: Anexa nr. 2 (2 RAPORT DE TRANZACTIONARE) is part of the order and is published in its folder, anexa-2/ (paragraphs and tables), from document 76169 of the official web service.
 - Ordin bnr nr. 7/2006: Anexa nr. 1 (1 ANTET PARTICIPANT ELIGIBIL (CONTRAPARTIDA ELIGIBILA) Nr........ Data......... OFERTA DE PARTICIPARE LA LICITATIA DIN DATA DE...... PENTRU CUMPARARE DE ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin bnr nr. 7/2006: Anexa nr. 2 (2 RAPORT DE TRANZACTIONARE ┌──┬─────────────────┬───────────────┬─────────────────────────────────────────┐ │NR│ Denumire │ Format │ Descriere │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

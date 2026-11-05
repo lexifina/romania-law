@@ -2,7 +2,7 @@
 
 Norma asf nr. 18/2017 · 1 versions, from 2017-08-01 (latest in force: 2017-08-01) · <https://legislatie.just.ro/Public/DetaliiDocument/191207>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (SOCIETĂȚI/BROKERI Registru unic de petiții ┌────────┬────────┬──────────┬─────────┬─────────┬───────┬────────┬─────────────────────────┬──────────┐ │Numărul │ ...): it is a table that the official text holds only flattened; Anexa nr. 2 (SOCIETĂȚI Societatea................................ Situația petițiilor în trimestrul...... anul....... ...): it is a table that the official text holds only flattened; Anexa nr. 3 (SOCIETĂȚI/BROKERI Societatea................................ Informații privind principalele probleme identificate în activitatea de soluționare și gestionare ...): it is a table that the official text holds only flattened; Anexa nr. 4 (SOCIETĂȚI Societatea................................ Numărul de daune avizate pentru activitatea de asigurări de viață în trimestrul............... ...): it is a table that the official text holds only flattened; Anexa nr. 5 (BROKERI Societatea............ SITUAȚIA PETIȚIILOR în semestrul...... anul....... ...): it is a table that the official text holds only flattened; Anexa nr. 6 (SOCIETĂȚI Petiții ┌─────────────────────────────────────┬─────────┬────────────┬────────────────────────────┐ │ │ Anul │Perioada de │ Ultimele 3 luni ale │ │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -16,6 +16,18 @@ Norma asf nr. 18/2017 · 1 versions, from 2017-08-01 (latest in force: 2017-08-0
 | Art. 8 | [art-008.md](art-008.md) | 0 |  |
 | Art. 9 | [art-009.md](art-009.md) | 0 |  |
 | Art. 10 | [art-010.md](art-010.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
+| Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
+| Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
+| Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
+| Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
+| Anexa nr. 6 (what it is) | [anexa-6/README.md](anexa-6/README.md) | 0 |  |
+| Anexa nr. 6 | [anexa-6/text.md](anexa-6/text.md) | 0 |  |
 
 Act id: `norma-asf-18-2017` (tags `norma-asf-18-2017/<day>`; `python tools/on.py <day> norma-asf-18-2017`).
 
@@ -25,9 +37,9 @@ Act id: `norma-asf-18-2017` (tags `norma-asf-18-2017/<day>`; `python tools/on.py
 - Norma asf nr. 18/2017: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Norma asf nr. 18/2017: the first version is the norm as published in Monitorul Oficial nr. 555 of 13 July 2017 (document 191207 of the official web service), in force on 1 August 2017, the day it states for itself.
 - Norma asf nr. 18/2017: the signatures and the place and date line after its last article are not article text.
-- Norma asf nr. 18/2017: Anexa nr. 1 (SOCIETĂȚI/BROKERI Registru unic de petiții ┌────────┬────────┬──────────┬─────────┬─────────┬───────┬────────┬─────────────────────────┬──────────┐ │Numărul │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma asf nr. 18/2017: Anexa nr. 2 (SOCIETĂȚI Societatea................................ Situația petițiilor în trimestrul...... anul....... ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma asf nr. 18/2017: Anexa nr. 3 (SOCIETĂȚI/BROKERI Societatea................................ Informații privind principalele probleme identificate în activitatea de soluționare și gestionare ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma asf nr. 18/2017: Anexa nr. 4 (SOCIETĂȚI Societatea................................ Numărul de daune avizate pentru activitatea de asigurări de viață în trimestrul............... ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma asf nr. 18/2017: Anexa nr. 5 (BROKERI Societatea............ SITUAȚIA PETIȚIILOR în semestrul...... anul....... ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma asf nr. 18/2017: Anexa nr. 6 (SOCIETĂȚI Petiții ┌─────────────────────────────────────┬─────────┬────────────┬────────────────────────────┐ │ │ Anul │Perioada de │ Ultimele 3 luni ale │ │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Norma asf nr. 18/2017: Anexa nr. 1 (SOCIETĂȚI/BROKERI Registru unic de petiții) is part of the norm and is published in its folder, anexa-1/ (paragraphs and tables), from document 191207 of the official web service.
+- Norma asf nr. 18/2017: Anexa nr. 2 (SOCIETĂȚI Societatea................................ Situația petițiilor în trimestrul...... anul.......) is part of the norm and is published in its folder, anexa-2/ (paragraphs and tables), from document 191207 of the official web service.
+- Norma asf nr. 18/2017: Anexa nr. 3 (SOCIETĂȚI/BROKERI Societatea................................ Informații privind principalele probleme identificate în activitatea de soluționare și gestionare a petițiilor în.............. anul.......) is part of the norm and is published in its folder, anexa-3/ (paragraphs and tables), from document 191207 of the official web service.
+- Norma asf nr. 18/2017: Anexa nr. 4 (SOCIETĂȚI Societatea................................ Numărul de daune avizate pentru activitatea de asigurări de viață în trimestrul............... anul..................) is part of the norm and is published in its folder, anexa-4/ (paragraphs and tables), from document 191207 of the official web service.
+- Norma asf nr. 18/2017: Anexa nr. 5 (BROKERI Societatea............ SITUAȚIA PETIȚIILOR în semestrul...... anul.......) is part of the norm and is published in its folder, anexa-5/ (paragraphs and tables), from document 191207 of the official web service.
+- Norma asf nr. 18/2017: Anexa nr. 6 (SOCIETĂȚI Petiții) is part of the norm and is published in its folder, anexa-6/ (paragraphs and tables), from document 191207 of the official web service.

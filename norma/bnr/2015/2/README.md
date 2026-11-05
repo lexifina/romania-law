@@ -2,7 +2,7 @@
 
 Norma bnr nr. 2/2015 · 1 versions, from 2015-05-04 (latest in force: 2015-05-04) · <https://legislatie.just.ro/Public/DetaliiDocument/167406>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 CONTRACT DE PARTICIPARE la Sistemul de transmitere electronică a documentației aferente operațiunilor de piață monetară și facilităților permanente În baza ...): its text could not yet be split into provisions without losing or adding words; Anexa nr. 2 (2a Cerere de creare cont utilizator pentru aplicația "Transfer mesaje XML" în vederea procesării automate a operațiunilor de piață monetară și a facilităților ...): it is a table that the official text holds only flattened; Anexa nr. 3 (2b Cerere de modificare cont utilizator pentru aplicația "Transfer mesaje XML" în vederea procesării automate a operațiunilor de piață monetară și a ...): it is a table that the official text holds only flattened; Anexa nr. 4 (2c Cerere de închidere cont utilizator pentru aplicația "Transfer mesaje XML" în vederea procesării automate a operațiunilor de piață monetară și a ...): it is a table that the official text holds only flattened; Anexa nr. 5 (3 ┌────────────────────────────────────────────────────────────────────────────┐ │Antet oficial │ │Nr. de înregistrare/Data │ │ │ │Către Banca Națională a ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 CONTRACT DE PARTICIPARE la Sistemul de transmitere electronică a documentației aferente operațiunilor de piață monetară și facilităților permanente În baza ...): its text could not yet be split into provisions without losing or adding words.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -20,6 +20,14 @@ Norma bnr nr. 2/2015 · 1 versions, from 2015-05-04 (latest in force: 2015-05-04
 | Art. 12 | [art-012.md](art-012.md) | 0 |  |
 | Art. 13 | [art-013.md](art-013.md) | 0 |  |
 | Art. 14 | [art-014.md](art-014.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
+| Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
+| Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
+| Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
+| Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
 
 Act id: `norma-bnr-2-2015` (tags `norma-bnr-2-2015/<day>`; `python tools/on.py <day> norma-bnr-2-2015`).
 
@@ -29,9 +37,9 @@ Act id: `norma-bnr-2-2015` (tags `norma-bnr-2-2015/<day>`; `python tools/on.py <
 - Norma bnr nr. 2/2015: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Norma bnr nr. 2/2015: the first version is the norm as published in Monitorul Oficial nr. 277 of 24 April 2015 (document 167406 of the official web service), in force on 4 May 2015, the day it states for itself.
 - Norma bnr nr. 2/2015: the signatures and the place and date line after its last article are not article text.
+- Norma bnr nr. 2/2015: Anexa nr. 2 (2a Cerere de creare cont utilizator pentru aplicația "Transfer mesaje XML" în vederea procesării automate a operațiunilor de piață monetară și a facilităților permanente acordate de către BNR - OPMA) is part of the norm and is published in its folder, anexa-2/ (paragraphs and tables), from document 167406 of the official web service.
+- Norma bnr nr. 2/2015: Anexa nr. 3 (2b Cerere de modificare cont utilizator pentru aplicația "Transfer mesaje XML" în vederea procesării automate a operațiunilor de piață monetară și a facilităților permanente acordate de către BNR - OP) is part of the norm and is published in its folder, anexa-3/ (paragraphs and tables), from document 167406 of the official web service.
+- Norma bnr nr. 2/2015: Anexa nr. 4 (2c Cerere de închidere cont utilizator pentru aplicația "Transfer mesaje XML" în vederea procesării automate a operațiunilor de piață monetară și a facilităților permanente acordate de către BNR - OPM) is part of the norm and is published in its folder, anexa-4/ (paragraphs and tables), from document 167406 of the official web service.
+- Norma bnr nr. 2/2015: Anexa nr. 5 (3) is part of the norm and is published in its folder, anexa-5/ (paragraphs and tables), from document 167406 of the official web service.
 - Norma bnr nr. 2/2015: Anexa nr. 1 (1 CONTRACT DE PARTICIPARE la Sistemul de transmitere electronică a documentației aferente operațiunilor de piață monetară și facilităților permanente În baza ...) is not included yet: its text could not yet be split into provisions without losing or adding words. It will be added when it can be published in full.
-- Norma bnr nr. 2/2015: Anexa nr. 2 (2a Cerere de creare cont utilizator pentru aplicația "Transfer mesaje XML" în vederea procesării automate a operațiunilor de piață monetară și a facilităților ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma bnr nr. 2/2015: Anexa nr. 3 (2b Cerere de modificare cont utilizator pentru aplicația "Transfer mesaje XML" în vederea procesării automate a operațiunilor de piață monetară și a ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma bnr nr. 2/2015: Anexa nr. 4 (2c Cerere de închidere cont utilizator pentru aplicația "Transfer mesaje XML" în vederea procesării automate a operațiunilor de piață monetară și a ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma bnr nr. 2/2015: Anexa nr. 5 (3 ┌────────────────────────────────────────────────────────────────────────────┐ │Antet oficial │ │Nr. de înregistrare/Data │ │ │ │Către Banca Națională a ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Norma bnr nr. 2/2015: the publisher's notes run into its text (*1) CTC i.e. primele trei cifre ale contului curent al participantului eligibil. *2) E-mail de serviciu; nu se acceptă a; *1) CTC i.e. primele trei cifre ale contului curent al participantului eligibil. *2) Se va bifa căsuţa corespunzătoare, ) are not text.

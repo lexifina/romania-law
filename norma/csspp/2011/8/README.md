@@ -2,7 +2,7 @@
 
 Norma csspp nr. 8/2011 · 1 versions, from 2011-11-10 (latest in force: 2011-11-10) · <https://legislatie.just.ro/Public/DetaliiDocument/130695>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 5 (5): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -71,6 +71,8 @@ Norma csspp nr. 8/2011 · 1 versions, from 2011-11-10 (latest in force: 2011-11-
 | Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 | Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
 | Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
+| Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
+| Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
 | Anexa nr. 6 (what it is) | [anexa-6/README.md](anexa-6/README.md) | 0 |  |
 | Anexa nr. 6 | [anexa-6/text.md](anexa-6/text.md) | 0 |  |
 
@@ -86,5 +88,5 @@ Act id: `norma-csspp-8-2011` (tags `norma-csspp-8-2011/<day>`; `python tools/on.
 - Norma csspp nr. 8/2011: Anexa nr. 2 (2) is part of the norm and is published in its folder, anexa-2/ (paragraphs), from document 130695 of the official web service.
 - Norma csspp nr. 8/2011: Anexa nr. 3 (3) is part of the norm and is published in its folder, anexa-3/ (paragraphs), from document 130695 of the official web service.
 - Norma csspp nr. 8/2011: Anexa nr. 4 (4) is part of the norm and is published in its folder, anexa-4/ (paragraphs), from document 130695 of the official web service.
+- Norma csspp nr. 8/2011: Anexa nr. 5 (5) is part of the norm and is published in its folder, anexa-5/ (paragraphs and tables), from document 130695 of the official web service.
 - Norma csspp nr. 8/2011: Anexa nr. 6 (6) is part of the norm and is published in its folder, anexa-6/ (paragraphs), from document 130695 of the official web service.
-- Norma csspp nr. 8/2011: Anexa nr. 5 (5) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

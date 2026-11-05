@@ -2,7 +2,7 @@
 
 Norma bnr nr. 13/2005 · 1 versions, from 2006-01-12 (latest in force: 2006-01-12) · <https://legislatie.just.ro/Public/DetaliiDocument/67863>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 3 (3 Instituție Adresa Cont evidență titluri de stat Telefon Fax Către BANCA NAȚIONALA A ROMÂNIEI Data....... OFERTĂ DE CUMPĂRARE PRIN SUBSCRIPȚIE PUBLICĂ A. ...): it is a table that the official text holds only flattened; Anexa nr. 4 (4 Instituție Adresa Cont evidență titluri de stat Telefon Fax Către BANCA NAȚIONALA A ROMÂNIEI Data....... OFERTĂ DE CUMPĂRARE PRIN SUBSCRIPȚIE PUBLICĂ A. ...): it is a table that the official text holds only flattened; Anexa nr. 5 (5 Instituție Adresa Cont evidență titluri de stat Telefon Fax Către BANCA NAȚIONALA A ROMÂNIEI Data....... OFERTĂ DE CUMPĂRARE LA LICITATIE - OFERTA ...): it is a table that the official text holds only flattened; Anexa nr. 6 (6 Instituție Adresa Cont evidență titluri de stat Telefon Fax Către BANCA NAȚIONALA A ROMÂNIEI Data....... OFERTĂ DE CUMPĂRARE LA LICITATIE - OFERTA ...): it is a table that the official text holds only flattened; Anexa nr. 7 (7 Instituție Adresa Cont evidență titluri de stat Telefon Fax Către BANCA NAȚIONALA A ROMÂNIEI Data....... OFERTĂ DE CUMPĂRARE LA LICITATIE - OFERTA ...): it is a table that the official text holds only flattened; Anexa nr. 8 (8 ANTET oficial............ (denumirea dealerului primar) Nr. înregistrare/Data Către BANCA NAȚIONALA A ROMÂNIEI Situația deschiderilor de conturi de evidenta ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 8 (8 ANTET oficial............ (denumirea dealerului primar) Nr. înregistrare/Data Către BANCA NAȚIONALA A ROMÂNIEI Situația deschiderilor de conturi de evidenta ...): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -31,6 +31,16 @@ Norma bnr nr. 13/2005 · 1 versions, from 2006-01-12 (latest in force: 2006-01-1
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 | Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
+| Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
+| Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
+| Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
+| Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
+| Anexa nr. 6 (what it is) | [anexa-6/README.md](anexa-6/README.md) | 0 |  |
+| Anexa nr. 6 | [anexa-6/text.md](anexa-6/text.md) | 0 |  |
+| Anexa nr. 7 (what it is) | [anexa-7/README.md](anexa-7/README.md) | 0 |  |
+| Anexa nr. 7 | [anexa-7/text.md](anexa-7/text.md) | 0 |  |
 
 Act id: `norma-bnr-13-2005` (tags `norma-bnr-13-2005/<day>`; `python tools/on.py <day> norma-bnr-13-2005`).
 
@@ -42,9 +52,9 @@ Act id: `norma-bnr-13-2005` (tags `norma-bnr-13-2005/<day>`; `python tools/on.py
 - Norma bnr nr. 13/2005: the signatures and the place and date line after its last article are not article text.
 - Norma bnr nr. 13/2005: Anexa nr. 1 (1 ANTET oficial Nr. înregistrare/Data Către BANCA NAȚIONALĂ A ROMÂNIEI Domnului(nei)....... Director Direcția Operațiuni de Piață CERERE PENTRU DOBÂNDIREA CALITĂȚII DE DEALER PRIMAR............(denumi) is part of the norm and is published in its folder, anexa-1/ (paragraphs), from document 67863 of the official web service.
 - Norma bnr nr. 13/2005: Anexa nr. 2 (2 ANTET oficial Nr. înregistrare/Data Către BANCA NAȚIONALĂ A ROMÂNIEI Domnului(nei)....... Director Direcția Operațiuni de Piață LISTA CU SPECIMENELE DE SEMNĂTURI ale persoanelor desemnate să angajez) is part of the norm and is published in its folder, anexa-2/ (paragraphs), from document 67863 of the official web service.
-- Norma bnr nr. 13/2005: Anexa nr. 3 (3 Instituție Adresa Cont evidență titluri de stat Telefon Fax Către BANCA NAȚIONALA A ROMÂNIEI Data....... OFERTĂ DE CUMPĂRARE PRIN SUBSCRIPȚIE PUBLICĂ A. ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma bnr nr. 13/2005: Anexa nr. 4 (4 Instituție Adresa Cont evidență titluri de stat Telefon Fax Către BANCA NAȚIONALA A ROMÂNIEI Data....... OFERTĂ DE CUMPĂRARE PRIN SUBSCRIPȚIE PUBLICĂ A. ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma bnr nr. 13/2005: Anexa nr. 5 (5 Instituție Adresa Cont evidență titluri de stat Telefon Fax Către BANCA NAȚIONALA A ROMÂNIEI Data....... OFERTĂ DE CUMPĂRARE LA LICITATIE - OFERTA ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma bnr nr. 13/2005: Anexa nr. 6 (6 Instituție Adresa Cont evidență titluri de stat Telefon Fax Către BANCA NAȚIONALA A ROMÂNIEI Data....... OFERTĂ DE CUMPĂRARE LA LICITATIE - OFERTA ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma bnr nr. 13/2005: Anexa nr. 7 (7 Instituție Adresa Cont evidență titluri de stat Telefon Fax Către BANCA NAȚIONALA A ROMÂNIEI Data....... OFERTĂ DE CUMPĂRARE LA LICITATIE - OFERTA ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Norma bnr nr. 13/2005: Anexa nr. 3 (3 Instituție Adresa Cont evidență titluri de stat Telefon Fax Către BANCA NAȚIONALA A ROMÂNIEI Data....... OFERTĂ DE CUMPĂRARE PRIN SUBSCRIPȚIE PUBLICĂ A. Elementele emisiunii:) is part of the norm and is published in its folder, anexa-3/ (paragraphs and tables), from document 67863 of the official web service.
+- Norma bnr nr. 13/2005: Anexa nr. 4 (4 Instituție Adresa Cont evidență titluri de stat Telefon Fax Către BANCA NAȚIONALA A ROMÂNIEI Data....... OFERTĂ DE CUMPĂRARE PRIN SUBSCRIPȚIE PUBLICĂ A. Elementele emisiunii:) is part of the norm and is published in its folder, anexa-4/ (paragraphs and tables), from document 67863 of the official web service.
+- Norma bnr nr. 13/2005: Anexa nr. 5 (5 Instituție Adresa Cont evidență titluri de stat Telefon Fax Către BANCA NAȚIONALA A ROMÂNIEI Data....... OFERTĂ DE CUMPĂRARE LA LICITATIE - OFERTA NECOMPETITIVA - A. Elementele emisiunii:) is part of the norm and is published in its folder, anexa-5/ (paragraphs and tables), from document 67863 of the official web service.
+- Norma bnr nr. 13/2005: Anexa nr. 6 (6 Instituție Adresa Cont evidență titluri de stat Telefon Fax Către BANCA NAȚIONALA A ROMÂNIEI Data....... OFERTĂ DE CUMPĂRARE LA LICITATIE - OFERTA COMPETITIVA - A. Elementele emisiunii:) is part of the norm and is published in its folder, anexa-6/ (paragraphs and tables), from document 67863 of the official web service.
+- Norma bnr nr. 13/2005: Anexa nr. 7 (7 Instituție Adresa Cont evidență titluri de stat Telefon Fax Către BANCA NAȚIONALA A ROMÂNIEI Data....... OFERTĂ DE CUMPĂRARE LA LICITATIE - OFERTA COMPETITIVA - A. Elementele emisiunii:) is part of the norm and is published in its folder, anexa-7/ (paragraphs and tables), from document 67863 of the official web service.
 - Norma bnr nr. 13/2005: Anexa nr. 8 (8 ANTET oficial............ (denumirea dealerului primar) Nr. înregistrare/Data Către BANCA NAȚIONALA A ROMÂNIEI Situația deschiderilor de conturi de evidenta ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

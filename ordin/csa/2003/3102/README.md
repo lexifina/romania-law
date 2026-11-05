@@ -2,7 +2,7 @@
 
 Ordin csa nr. 3102/2003 · 1 versions, from 2003-03-12 (latest in force: 2003-03-12) · <https://legislatie.just.ro/Public/DetaliiDocument/42297>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 5 (8 SITUAȚIA activelor lichide reprezentate de titluri de stat, depozite bancare, în lei și valuta, disponibilitățile în conturi curente și în casierie, în lei ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -16,6 +16,8 @@ Ordin csa nr. 3102/2003 · 1 versions, from 2003-03-12 (latest in force: 2003-03
 | Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 | Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
 | Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
+| Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
+| Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
 | Anexa nr. 6 (what it is) | [anexa-6/README.md](anexa-6/README.md) | 0 |  |
 | Anexa nr. 6 | [anexa-6/text.md](anexa-6/text.md) | 0 |  |
 
@@ -31,5 +33,5 @@ Act id: `ordin-csa-3102-2003` (tags `ordin-csa-3102-2003/<day>`; `python tools/o
 - Ordin csa nr. 3102/2003: Anexa nr. 2 (5 INFORMAȚII PRIVIND ANGAJAȚII - mii lei - Cu carte de muncă pe perioada Total determinata nedeterminată Colaboratori Nr. de angajați Fond de salarii - total Salariu maxim x x Salariu mediu x x Alte d) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 42297 of the official web service.
 - Ordin csa nr. 3102/2003: Anexa nr. 3 (6 RAPORTARE privind virarea contribuției la Fondul de protejare a asiguraților - lei - Luna Totalul volumului de prime brute încasate din activitatea de asigurare directa și coasigurare, conform balan) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 42297 of the official web service.
 - Ordin csa nr. 3102/2003: Anexa nr. 4 (7 RAPORTARE privind virarea taxei de funcționare - lei - Luna Totalul volumului de prime brute de asigurare/comisioane, aferente tipului de activitate pentru care a fost autorizata, la care se aplică) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 42297 of the official web service.
+- Ordin csa nr. 3102/2003: Anexa nr. 5 (8 SITUAȚIA activelor lichide reprezentate de titluri de stat, depozite bancare, în lei și valuta, disponibilitățile în conturi curente și în casierie, în lei și valuta, a obligațiilor certe pe termen) is part of the order and is published in its folder, anexa-5/ (paragraphs and tables), from document 42297 of the official web service.
 - Ordin csa nr. 3102/2003: Anexa nr. 6 (12 SOCIETATEA.......................... RAPORTARE privind acoperirea riscurilor de catastrofa trimestrul......... - Numărul de contracte nou-încheiate în trimestrul de raportare, pe clase de asigurări) is part of the order and is published in its folder, anexa-6/ (paragraphs), from document 42297 of the official web service.
-- Ordin csa nr. 3102/2003: Anexa nr. 5 (8 SITUAȚIA activelor lichide reprezentate de titluri de stat, depozite bancare, în lei și valuta, disponibilitățile în conturi curente și în casierie, în lei ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

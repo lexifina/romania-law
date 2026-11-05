@@ -11,7 +11,7 @@
    "versions": [
     {
      "from": "2015-04-01",
-     "units": 48,
+     "units": 50,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164647",
      "sha256": "f9d1f2c1e573bf38d013bf757f6116d4511e5b65c158c08568ced04a40c45f1c"
     }
@@ -56,7 +56,7 @@
    "versions": [
     {
      "from": "2016-01-01",
-     "units": 26,
+     "units": 30,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170739",
      "sha256": "a952e4fe90e7ff1abceb0748b2d12df68b55ee1ea1865640eea4cb95e853ce5b"
     }
@@ -116,7 +116,7 @@
    "versions": [
     {
      "from": "2015-09-02",
-     "units": 42,
+     "units": 44,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171083",
      "sha256": "7226d4de1072e142686053fa84599f4817b68a78583b3abbf4e0432d9d7f3984"
     }
@@ -221,7 +221,7 @@
    "versions": [
     {
      "from": "2016-01-07",
-     "units": 34,
+     "units": 36,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174694",
      "sha256": "f9c1683ce641db01719845a6118e18e43617494a19d18e59296e2c2e039a8dcc"
     }
@@ -236,7 +236,7 @@
    "versions": [
     {
      "from": "2015-12-31",
-     "units": 36,
+     "units": 38,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174549",
      "sha256": "9887c5752dfff7211fa4b81396682bd02adfff00b99ed93823d9815c8d24082f"
     }
@@ -341,7 +341,7 @@
    "versions": [
     {
      "from": "2015-02-10",
-     "units": 25,
+     "units": 37,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165584",
      "sha256": "dc4dfc41a893a754900407f892289e6836e4e09c41ee9aebd8ee98de616591a1"
     }
@@ -566,7 +566,7 @@
    "versions": [
     {
      "from": "2015-04-03",
-     "units": 21,
+     "units": 25,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166956",
      "sha256": "ce13629b604b125233bed8fc0a72aecad1220c2eed2203e7ac11e782c007fceb"
     }
@@ -641,7 +641,7 @@
    "versions": [
     {
      "from": "2015-05-04",
-     "units": 14,
+     "units": 22,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167406",
      "sha256": "10c41b5b842c313e82a4e430679c5e43524d4fe5eae32472ceaaa3563707c523"
     }

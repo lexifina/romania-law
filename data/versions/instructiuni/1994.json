@@ -56,7 +56,7 @@
    "versions": [
     {
      "from": "1994-10-10",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5600",
      "sha256": "53953cbdd438ee1a43a5ded42c19dd27411e6a0beb4606092d53a5d472c3cb3f"
     }
@@ -101,7 +101,7 @@
    "versions": [
     {
      "from": "1994-10-10",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5599",
      "sha256": "927a12c23082527fb3a34fd88fe195377f9418bfe6c1754b9c675c799565d5df"
     }

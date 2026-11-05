@@ -2,7 +2,7 @@
 
 Norma finante nr. 21137/2001 · 1 versions, from 2001-09-19 (latest in force: 2001-09-19) · <https://legislatie.just.ro/Public/DetaliiDocument/30765>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 16 (11a) DIRECȚIA REGIONALA DE DRUMURI ȘI PODURI........................ Consiliul județean............................................. Consiliul ...): it is a table that the official text holds only flattened; Anexa nr. 18 (12a) ADMINISTRAȚIA NAȚIONALA A DRUMURILOR DIN ROMÂNIA Nr............/data........................... Aprobat): it is a table that the official text holds only flattened; Anexa nr. 20 (12c) ADMINISTRAȚIA NAȚIONALA A DRUMURILOR DIN ROMÂNIA Nr....................../data................. Aprobat): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -53,12 +53,18 @@ Norma finante nr. 21137/2001 · 1 versions, from 2001-09-19 (latest in force: 20
 | Anexa nr. 14 | [anexa-14/text.md](anexa-14/text.md) | 0 |  |
 | Anexa nr. 15 (what it is) | [anexa-15/README.md](anexa-15/README.md) | 0 |  |
 | Anexa nr. 15 | [anexa-15/text.md](anexa-15/text.md) | 0 |  |
+| Anexa nr. 16 (what it is) | [anexa-16/README.md](anexa-16/README.md) | 0 |  |
+| Anexa nr. 16 | [anexa-16/text.md](anexa-16/text.md) | 0 |  |
 | Anexa nr. 17 (what it is) | [anexa-17/README.md](anexa-17/README.md) | 0 |  |
 | Anexa nr. 17 | [anexa-17/text.md](anexa-17/text.md) | 0 |  |
+| Anexa nr. 18 (what it is) | [anexa-18/README.md](anexa-18/README.md) | 0 |  |
+| Anexa nr. 18 | [anexa-18/text.md](anexa-18/text.md) | 0 |  |
 | Anexa nr. 19 (what it is) | [anexa-19/README.md](anexa-19/README.md) | 0 |  |
 | Anexa nr. 19 | [anexa-19/text.md](anexa-19/text.md) | 0 |  |
 | Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 20 (what it is) | [anexa-20/README.md](anexa-20/README.md) | 0 |  |
+| Anexa nr. 20 | [anexa-20/text.md](anexa-20/text.md) | 0 |  |
 | Anexa nr. 21 (what it is) | [anexa-21/README.md](anexa-21/README.md) | 0 |  |
 | Anexa nr. 21 | [anexa-21/text.md](anexa-21/text.md) | 0 |  |
 | Anexa nr. 22 (what it is) | [anexa-22/README.md](anexa-22/README.md) | 0 |  |
@@ -101,11 +107,11 @@ Act id: `norma-finante-21137-2001` (tags `norma-finante-21137-2001/<day>`; `pyth
 - Norma finante nr. 21137/2001: Anexa nr. 13 (10b) Solicitant......../(numele, pentru persoane fizice, sau denumirea, pentru persoane juridice)...... Nr. și data de înregistrare............................................ SITUAȚIA privind sumele) is part of the norm and is published in its folder, anexa-13/ (paragraphs), from document 30765 of the official web service.
 - Norma finante nr. 21137/2001: Anexa nr. 14 (10c) Solicitant......../(numele, pentru persoane fizice, sau denumirea, pentru persoane juridice)......... Nr. și data de înregistrare........................................... SITUAȚIA privind sumel) is part of the norm and is published in its folder, anexa-14/ (paragraphs), from document 30765 of the official web service.
 - Norma finante nr. 21137/2001: Anexa nr. 15 (10d) Solicitant........../(numele, pentru persoane fizice, sau denumirea, pentru persoane juridice)........... Nr. și data de înregistrare............................................ SITUAȚIA privind) is part of the norm and is published in its folder, anexa-15/ (paragraphs), from document 30765 of the official web service.
+- Norma finante nr. 21137/2001: Anexa nr. 16 (11a) DIRECȚIA REGIONALA DE DRUMURI ȘI PODURI........................ Consiliul județean............................................. Consiliul local................................................ Nr.) is part of the norm and is published in its folder, anexa-16/ (paragraphs and tables), from document 30765 of the official web service.
 - Norma finante nr. 21137/2001: Anexa nr. 17 (11b) DIRECȚIA REGIONALA DE DRUMURI ȘI PODURI...................... Consiliul județean........................................... Consiliul local.............................................. Nr.......) is part of the norm and is published in its folder, anexa-17/ (paragraphs), from document 30765 of the official web service.
+- Norma finante nr. 21137/2001: Anexa nr. 18 (12a) ADMINISTRAȚIA NAȚIONALA A DRUMURILOR DIN ROMÂNIA Nr............/data........................... Aprobat) is part of the norm and is published in its folder, anexa-18/ (paragraphs and tables), from document 30765 of the official web service.
 - Norma finante nr. 21137/2001: Anexa nr. 19 (12b) ADMINISTRAȚIA NAȚIONALA A DRUMURILOR DIN ROMÂNIA Nr.............../data........................ Aprobat) is part of the norm and is published in its folder, anexa-19/ (paragraphs), from document 30765 of the official web service.
+- Norma finante nr. 21137/2001: Anexa nr. 20 (12c) ADMINISTRAȚIA NAȚIONALA A DRUMURILOR DIN ROMÂNIA Nr....................../data................. Aprobat) is part of the norm and is published in its folder, anexa-20/ (paragraphs and tables), from document 30765 of the official web service.
 - Norma finante nr. 21137/2001: Anexa nr. 21 (13a) DIRECȚIA REGIONALA DE DRUMURI ȘI PODURI................... Consiliul județean........................................ Consiliul local........................................... Nr............../d) is part of the norm and is published in its folder, anexa-21/ (paragraphs), from document 30765 of the official web service.
 - Norma finante nr. 21137/2001: Anexa nr. 22 (13b) ADMINISTRAȚIA NAȚIONALA A DRUMURILOR DIN ROMÂNIA Nr................../data..................... Aprobat) is part of the norm and is published in its folder, anexa-22/ (paragraphs), from document 30765 of the official web service.
-- Norma finante nr. 21137/2001: Anexa nr. 16 (11a) DIRECȚIA REGIONALA DE DRUMURI ȘI PODURI........................ Consiliul județean............................................. Consiliul ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma finante nr. 21137/2001: Anexa nr. 18 (12a) ADMINISTRAȚIA NAȚIONALA A DRUMURILOR DIN ROMÂNIA Nr............/data........................... Aprobat) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma finante nr. 21137/2001: Anexa nr. 20 (12c) ADMINISTRAȚIA NAȚIONALA A DRUMURILOR DIN ROMÂNIA Nr....................../data................. Aprobat) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Norma finante nr. 21137/2001: the publisher's notes run into its text (*) Inclusiv diferenţa rămasă neacoperita de la bugetul de stat pentru contribuţia părţii române la lucrările realizate d; *) Inclusiv încasările din restantele din anii precedenti care în execuţie se vor evidenţia distinct.; *) Numele şi prenumele (pentru persoane fizice) sau denumirea (pentru persoane juridice).; *) Se taie ceea ce nu este valabil.; *) Viza va fi data de direcţia de specialitate din cadrul Ministerului Apărării Naţionale, care coordonează activitatea ; **) Inclusiv diferenţa rămasă neacoperita de la bugetul de stat pentru contribuţia părţii române la lucrările realizate ; **) Se taie ce nu este valabil.; **) Semnatura reprezentantului legal al unităţii achizitoare va fi însoţită de ştampila unităţii.; ***) Se completează, după caz:) are not text.

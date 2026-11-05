@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 2225/2016 · 1 versions, from 2016-08-25 (latest in force: 2016-08-25) · <https://legislatie.just.ro/Public/DetaliiDocument/180440>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 REPARTIZAREA plajei de numere pentru legitimațiile de verificare fiscală ┌───────────────────────────┬────────────────┬──────────────────┐ │ Unitatea │Plaja ...): it is a table that the official text holds only flattened; Anexa nr. 3 (3 Evidența nominală a legitimațiilor de verificare fiscală I. Modelul și conținutul situației nominale AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ Direcția ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -17,6 +17,10 @@ Ordin anaf nr. 2225/2016 · 1 versions, from 2016-08-25 (latest in force: 2016-0
 | Art. 9 | [art-009.md](art-009.md) | 0 |  |
 | Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 
 Act id: `ordin-anaf-2225-2016` (tags `ordin-anaf-2225-2016/<day>`; `python tools/on.py <day> ordin-anaf-2225-2016`).
 
@@ -27,6 +31,6 @@ Act id: `ordin-anaf-2225-2016` (tags `ordin-anaf-2225-2016/<day>`; `python tools
 - Ordin anaf nr. 2225/2016: the first version is the order as published in Monitorul Oficial nr. 564 of 26 July 2016 (document 180440 of the official web service), in force on 25 August 2016, the day it states for itself.
 - Ordin anaf nr. 2225/2016: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 2225/2016: Anexa nr. 1 (1 Figura nr. 1 Legitimație Descrierea legitimației de verificare fiscală 1. Descrierea legitimației: a) dimensiuni: 90 mm/70 mm;... b) carton grosime 1 mm;... c) culori: roșu, galben, albastru sidefat) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 180440 of the official web service.
-- Ordin anaf nr. 2225/2016: Anexa nr. 2 (2 REPARTIZAREA plajei de numere pentru legitimațiile de verificare fiscală ┌───────────────────────────┬────────────────┬──────────────────┐ │ Unitatea │Plaja ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin anaf nr. 2225/2016: Anexa nr. 3 (3 Evidența nominală a legitimațiilor de verificare fiscală I. Modelul și conținutul situației nominale AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ Direcția ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anaf nr. 2225/2016: Anexa nr. 2 (2 REPARTIZAREA plajei de numere pentru legitimațiile de verificare fiscală) is part of the order and is published in its folder, anexa-2/ (paragraphs and tables), from document 180440 of the official web service.
+- Ordin anaf nr. 2225/2016: Anexa nr. 3 (3 Evidența nominală a legitimațiilor de verificare fiscală I. Modelul și conținutul situației nominale AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ Direcția generală control venituri persoane fizice Nr..) is part of the order and is published in its folder, anexa-3/ (paragraphs and tables), from document 180440 of the official web service.
 - Ordin anaf nr. 2225/2016: the publisher's notes run into its text (*1) Se completează, în ordinea emiterii, numărul din plaja de numere acordate, conform anexei nr. 2 la ordin.) are not text.

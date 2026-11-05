@@ -2,7 +2,7 @@
 
 Norma asf nr. 24/2014 · 1 versions, from 2015-01-01 (latest in force: 2015-01-01) · <https://legislatie.just.ro/Public/DetaliiDocument/162923>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ASIGURĂTORI/REASIGURĂTORI SITUAȚIA PETIȚIILOR în trimestrul....../....... *Font 7* ...): it is a table that the official text holds only flattened; Anexa nr. 2 (2 ASIGURĂTORI/BROKERI DE ASIGURĂRI Informații privind principalele probleme identificate în activitatea de soluționare și gestionare a petițiilor în ...): it is a table that the official text holds only flattened; Anexa nr. 3 (3 BROKERI DE ASIGURĂRI SITUAȚIA PETIȚIILOR în trimestrul....../....... *Font 7* ...): it is a table that the official text holds only flattened; Anexa nr. 4 (4 *Font 8* ┌─────────────────────────────────────┬─────────┬────────────┬──────────────────────────────────────────┐ │ │ Anul │Perioada de │Ultimele 3 luni ale ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ASIGURĂTORI/REASIGURĂTORI SITUAȚIA PETIȚIILOR în trimestrul....../....... *Font 7*): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -21,6 +21,12 @@ Norma asf nr. 24/2014 · 1 versions, from 2015-01-01 (latest in force: 2015-01-0
 | Art. 13 | [art-013.md](art-013.md) | 0 |  |
 | Art. 14 | [art-014.md](art-014.md) | 0 |  |
 | Art. 15 | [art-015.md](art-015.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
+| Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
+| Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
 
 Act id: `norma-asf-24-2014` (tags `norma-asf-24-2014/<day>`; `python tools/on.py <day> norma-asf-24-2014`).
 
@@ -30,8 +36,8 @@ Act id: `norma-asf-24-2014` (tags `norma-asf-24-2014/<day>`; `python tools/on.py
 - Norma asf nr. 24/2014: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Norma asf nr. 24/2014: the first version is the norm as published in Monitorul Oficial nr. 824 of 12 November 2014 (document 162923 of the official web service), in force on 1 January 2015, the day it states for itself.
 - Norma asf nr. 24/2014: the signatures and the place and date line after its last article are not article text.
-- Norma asf nr. 24/2014: Anexa nr. 1 (1 ASIGURĂTORI/REASIGURĂTORI SITUAȚIA PETIȚIILOR în trimestrul....../....... *Font 7* ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma asf nr. 24/2014: Anexa nr. 2 (2 ASIGURĂTORI/BROKERI DE ASIGURĂRI Informații privind principalele probleme identificate în activitatea de soluționare și gestionare a petițiilor în ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma asf nr. 24/2014: Anexa nr. 3 (3 BROKERI DE ASIGURĂRI SITUAȚIA PETIȚIILOR în trimestrul....../....... *Font 7* ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma asf nr. 24/2014: Anexa nr. 4 (4 *Font 8* ┌─────────────────────────────────────┬─────────┬────────────┬──────────────────────────────────────────┐ │ │ Anul │Perioada de │Ultimele 3 luni ale ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Norma asf nr. 24/2014: Anexa nr. 2 (2 ASIGURĂTORI/BROKERI DE ASIGURĂRI Informații privind principalele probleme identificate în activitatea de soluționare și gestionare a petițiilor în trimestrul..../............ 1 Care sunt principalel) is part of the norm and is published in its folder, anexa-2/ (paragraphs and tables), from document 162923 of the official web service.
+- Norma asf nr. 24/2014: Anexa nr. 3 (3 BROKERI DE ASIGURĂRI SITUAȚIA PETIȚIILOR în trimestrul....../....... *Font 7*) is part of the norm and is published in its folder, anexa-3/ (paragraphs and tables), from document 162923 of the official web service.
+- Norma asf nr. 24/2014: Anexa nr. 4 (4 *Font 8*) is part of the norm and is published in its folder, anexa-4/ (paragraphs and tables), from document 162923 of the official web service.
+- Norma asf nr. 24/2014: Anexa nr. 1 (1 ASIGURĂTORI/REASIGURĂTORI SITUAȚIA PETIȚIILOR în trimestrul....../....... *Font 7*) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Norma asf nr. 24/2014: the publisher's notes run into its text ((*) Se completează numai pentru petiţiile care vizează dosare de daună RCA = clasa de asigurări generale X - "Asigurări ; *) Vor fi avute în vedere problemele constatate ca fiind recurente sau sistemice, precum şi măsurile întreprinse pentru ; *1) Se va menţiona provenienţa petiţiei: direct din partea petentului, prin Autoritatea de Supraveghere Financiară sau p) are not text.

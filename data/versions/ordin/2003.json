@@ -236,7 +236,7 @@
    "versions": [
     {
      "from": "2003-09-26",
-     "units": 6,
+     "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45850",
      "sha256": "bf8c4700b8161881d96517f57d28608faa7f0cf1921770138e157fda15f40360"
     }
@@ -671,7 +671,7 @@
    "versions": [
     {
      "from": "2003-09-01",
-     "units": 26,
+     "units": 32,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45797",
      "sha256": "6a2ba693ec23f3b1c9ba497007c29a42825cb5457e6d736b8f59c4075c534283"
     }
@@ -821,7 +821,7 @@
    "versions": [
     {
      "from": "2004-01-01",
-     "units": 26,
+     "units": 34,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48872",
      "sha256": "2066e6ef17434b2b6645b4b1902f5b0e79ebb1b326c468c3d6b3c3251f0f2f2a"
     }
@@ -1331,7 +1331,7 @@
    "versions": [
     {
      "from": "2003-03-12",
-     "units": 12,
+     "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42297",
      "sha256": "f17c5240b9bbf12fb4e86b270bced201ce758fc703628e706c90d072de2997af"
     }
@@ -1361,7 +1361,7 @@
    "versions": [
     {
      "from": "2003-04-02",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42760",
      "sha256": "50d9ab6c2f9e7291cf2cef8eed675bb066dcfe7234b0e8d27bf05befef9a968e"
     }
@@ -1406,7 +1406,7 @@
    "versions": [
     {
      "from": "2003-06-18",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44547",
      "sha256": "fc542b7a8a913819056688ec33b92b0ec099fa101dc6c58a545871138028ef2b"
     }
@@ -5628,6 +5628,21 @@
    ]
   },
   {
+   "slug": "ordin-guvern-491-2003",
+   "path": "ordin/guvern/2003/491",
+   "short": "Ordin guvern nr. 491/2003",
+   "title": "Ordinul nr. 491/2003 pentru aprobarea Normelor metodologice privind protecția informațiilor clasificate în cadrul activităților contractuale NATO",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48386",
+   "versions": [
+    {
+     "from": "2003-12-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48386",
+     "sha256": "bbae085bd9eb708548eb95bbfe72e319c411fb5d5986bc6d63ab6dad848aa339"
+    }
+   ]
+  },
+  {
    "slug": "ordin-imm-259-2003",
    "path": "ordin/imm/2003/259",
    "short": "Ordin imm nr. 259/2003",
@@ -5793,6 +5808,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-117-2003",
+   "path": "ordin/mediu/2003/117",
+   "short": "Ordin mediu nr. 117/2003",
+   "title": "Ordinul nr. 117/2003 pentru modificarea anexei nr. 12 la Procedura de autorizare a activităților de recoltare, capturare și/sau de achiziție și comercializare pe piața internă sau la export a plantelor și animalelor din flora și fauna sălbatică, precum și a importului acestora, aprobată prin Ordinul ministrului apelor și protecției mediului nr. 647/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43673",
+   "versions": [
+    {
+     "from": "2003-05-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43673",
+     "sha256": "74ceb774dec30014808863f1168ce0acf8b619986baf57aa1a0396828b5a7b35"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1215-2003",
    "path": "ordin/mediu/2003/1215",
    "short": "Ordin mediu nr. 1215/2003",
@@ -5849,6 +5879,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42437",
      "sha256": "946a4d8b33eb1b0b68bfaca7d8c22993d4a2109e810ee8a51a3516482305b2b2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1444-2003",
+   "path": "ordin/mediu/2003/1444",
+   "short": "Ordin mediu nr. 1444/2003",
+   "title": "Ordinul nr. 1.444/2003 pentru modificarea secțiunii a III-a din anexa nr. 1 la Ordinul ministrului apelor, pădurilor și protecției mediului nr. 340/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42619",
+   "versions": [
+    {
+     "from": "2003-03-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42619",
+     "sha256": "4d60acb5cf5b6cb05c7cfd4580f87b5e4edfec0f99afac21af6bd8f0180f7f4c"
     }
    ]
   },

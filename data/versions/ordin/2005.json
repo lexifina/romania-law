@@ -71,7 +71,7 @@
    "versions": [
     {
      "from": "2005-03-27",
-     "units": 6,
+     "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59514",
      "sha256": "7e77c00cc90e61279b1f8d644e70dbc9c9cc4197825ef1576eb18f083a2bae53"
     }
@@ -89,6 +89,21 @@
      "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61901",
      "sha256": "afd2c918d8f5b662c3d4305b16721e4f04d467e3b132f18f295e61c346f79e88"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1196-2005",
+   "path": "ordin/agricultura/2005/1196",
+   "short": "Ordin agricultura nr. 1196/2005",
+   "title": "Ordinul nr. 1.196/2005 pentru revocarea Ordinului ministrului agriculturii, pădurilor și dezvoltării rurale și al ministrului mediului și gospodăririi apelor nr. 1.063/1.004/S.B./2005 privind interzicerea pescuitului recreativ-sportiv",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65937",
+   "versions": [
+    {
+     "from": "2005-11-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65937",
+     "sha256": "3c9a5796b73785c83d24fda7a2aefff1b95d4e1d4a6b298e0664ac8ad8a7f03e"
     }
    ]
   },
@@ -461,7 +476,7 @@
    "versions": [
     {
      "from": "2005-10-06",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65525",
      "sha256": "12a846c06e29398aa8dcecae7dc8ac50520a0a4d57df49fc6d12127ecbe2d3f3"
     }
@@ -956,7 +971,7 @@
    "versions": [
     {
      "from": "2005-07-01",
-     "units": 6,
+     "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62643",
      "sha256": "ad383fbefb59f96ed4e0119dbb4ea6f1115c8b81b463137d23eeb228d9810e1f"
     }
@@ -1016,7 +1031,7 @@
    "versions": [
     {
      "from": "2005-07-11",
-     "units": 4,
+     "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63040",
      "sha256": "441efb7f2e4e38d0b94cd0c01a50993bdbe30e1d297cb8d7a3050e5345d6965b"
     }
@@ -1451,7 +1466,7 @@
    "versions": [
     {
      "from": "2006-01-01",
-     "units": 7,
+     "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66994",
      "sha256": "94ce48836a868b0432a37c23411712541277406dc1f6531bdac2a66ffd32b521"
     }
@@ -1496,7 +1511,7 @@
    "versions": [
     {
      "from": "2005-04-01",
-     "units": 5,
+     "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60063",
      "sha256": "b9d8e8dede3376519ce8270fbcacb0b0492f768d6c4f97b3960a07ba710c5408"
     }
@@ -1541,7 +1556,7 @@
    "versions": [
     {
      "from": "2005-06-01",
-     "units": 6,
+     "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61688",
      "sha256": "8b41a0bd221e4a6824b951928b360c8c26da8a971e7b3a72e3dfd5540936b7fe"
     }
@@ -1668,6 +1683,516 @@
    ]
   },
   {
+   "slug": "ordin-anrm-27-2005",
+   "path": "ordin/anrm/2005/27",
+   "short": "Ordin anrm nr. 27/2005",
+   "title": "Ordinul nr. 27/2005 pentru modificarea Instrucțiunilor tehnice privind aplicarea și urmărirea măsurilor stabilite în programul de conformare, planul de refacere a mediului și proiectul tehnic, precum și reglementarea modului de operare cu garanția financiară pentru refacerea mediului afectat de activitățile miniere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61212",
+   "versions": [
+    {
+     "from": "2005-04-27",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61212",
+     "sha256": "de8f54eb7eee36a3b7f161066cc1b0ac6f2442451ff85490c3c7a8d4f7278530"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-1-2005",
+   "path": "ordin/ansvsa/2005/1",
+   "short": "Ordin ansvsa nr. 1/2005",
+   "title": "Ordinul nr. 1/2005 privind aprobarea Regulamentului de organizare și funcționare a Comitetului pentru Produse Medicinale Veterinare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58958",
+   "versions": [
+    {
+     "from": "2005-02-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58958",
+     "sha256": "8a3dfe798d6363f45649a50af383774dc938e644b93060f0f3deae7fc46367bf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-10-2005",
+   "path": "ordin/ansvsa/2005/10",
+   "short": "Ordin ansvsa nr. 10/2005",
+   "title": "Ordinul nr. 10/2005 pentru aprobarea Normei sanitare veterinare referitoare la importul de carne proaspătă în România din întreprinderi autorizate pentru export din Namibia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59349",
+   "versions": [
+    {
+     "from": "2005-02-23",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59349",
+     "sha256": "b5e1ff70a6cc2b0cf61bafd5ffab6d2ee64beb0527b759749fc729e3718e193c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-100-2005",
+   "path": "ordin/ansvsa/2005/100",
+   "short": "Ordin ansvsa nr. 100/2005",
+   "title": "Ordinul nr. 100/2005 pentru aprobarea Metodologiei de tipărire, emitere și gestionare a certificatelor de sănătate pentru exportul de animale vii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66792",
+   "versions": [
+    {
+     "from": "2005-12-13",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66792",
+     "sha256": "14ba1f9a00ab56db5a601043b720a29b04f7f302923ce6b00f692061ce4964f3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-103-2005",
+   "path": "ordin/ansvsa/2005/103",
+   "short": "Ordin ansvsa nr. 103/2005",
+   "title": "Ordinul nr. 103/2005 privind aprobarea Normei sanitare veterinare ce stabilește măsuri pentru comerțul României cu Republica Cehă, Estonia, Cipru, Letonia, Lituania, Ungaria, Malta, Polonia, Slovenia și Slovacia cu material seminal, ovule și embrioni din speciile bovine, porcine, ovine și caprine obținute în aceste țări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65571",
+   "versions": [
+    {
+     "from": "2005-11-01",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65571",
+     "sha256": "2f6eec417bc1f356f3ac297b3b1db6830f20002883f6bfbfada34d0c9ba3c3cf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-104-2005",
+   "path": "ordin/ansvsa/2005/104",
+   "short": "Ordin ansvsa nr. 104/2005",
+   "title": "Ordinul nr. 104/2005 pentru aprobarea Normei sanitare veterinare privind criteriile pentru planuri naționale de eradicare accelerată a brucelozei, tuberculozei și leucozei enzootice bovine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35112",
+   "versions": [
+    {
+     "from": "2005-11-30",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35112",
+     "sha256": "824a9d595f0b65283f4610d2b7e990cf3fb2c004e9d9a7cee5a3f6aa90b6210a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-105-2005",
+   "path": "ordin/ansvsa/2005/105",
+   "short": "Ordin ansvsa nr. 105/2005",
+   "title": "Ordinul nr. 105/2005 privind aprobarea Normei sanitare veterinare care introduce măsuri naționale pentru eradicarea brucelozei, tuberculozei și leucozei bovine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35115",
+   "versions": [
+    {
+     "from": "2005-11-30",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35115",
+     "sha256": "52c3171274ed7985dbefb2fb60f8b24109512c3977a6d37eaa8d4f464840c8f5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-106-2005",
+   "path": "ordin/ansvsa/2005/106",
+   "short": "Ordin ansvsa nr. 106/2005",
+   "title": "Ordinul nr. 106/2005 privind înființarea și funcționarea Unității epidemiologice centrale în cadrul Institutului de Diagnostic și Sănătate Animală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65594",
+   "versions": [
+    {
+     "from": "2005-11-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65594",
+     "sha256": "541bedcc11d42276b9d9844843d2b4eedee1e575107249a5dbfdf4f5fa5f72a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-107-2005",
+   "path": "ordin/ansvsa/2005/107",
+   "short": "Ordin ansvsa nr. 107/2005",
+   "title": "Ordinul nr. 107/2005 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 77/2005 pentru aprobarea Normei sanitare veterinare privind notificarea bolilor animalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35117",
+   "versions": [
+    {
+     "from": "2005-10-31",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35117",
+     "sha256": "5bfb140972f8d63f701d713edbaa62e2699db2889ac2ea59a8ab307acab713c4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-109-2005",
+   "path": "ordin/ansvsa/2005/109",
+   "short": "Ordin ansvsa nr. 109/2005",
+   "title": "Ordinul nr. 109/2005 privind stabilirea formularului-tip al Procesului-verbal de constatare și sancționare a contravențiilor la normele sanitare veterinare și pentru siguranța alimentelor și a persoanelor împuternicite de Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor să folosească modelul de proces-verbal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65701",
+   "versions": [
+    {
+     "from": "2005-11-08",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65701",
+     "sha256": "3cf83780a7913faba55f455b4ae5a73e907d6c5b714b0d57e524dfd5f6630000"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-11-2005",
+   "path": "ordin/ansvsa/2005/11",
+   "short": "Ordin ansvsa nr. 11/2005",
+   "title": "Ordinul nr. 11/2005 pentru aprobarea Normei sanitare veterinare referitoare la importul de carne proaspătă în România din întreprinderi autorizate pentru export din Republica Africa de Sud",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59429",
+   "versions": [
+    {
+     "from": "2005-03-10",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59429",
+     "sha256": "f5deef353d4939d39bcea8604004b915b37c2926dbbafbec4e25e3413d8b4313"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-115-2005",
+   "path": "ordin/ansvsa/2005/115",
+   "short": "Ordin ansvsa nr. 115/2005",
+   "title": "Ordinul nr. 115/2005 privind aprobarea Normei sanitare veterinare ce stabilește reguli detaliate pentru aplicarea Normei sanitare veterinare privind sistemul de identificare și înregistrare a bovinelor corelat cu etichetarea cărnii de bovine și a produselor din carne de bovine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66141",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66141",
+     "sha256": "0bccb6410e6dd5cb097f84da2da2a29f78613ec77a101c15ab43715539126b66"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-116-2005",
+   "path": "ordin/ansvsa/2005/116",
+   "short": "Ordin ansvsa nr. 116/2005",
+   "title": "Ordinul nr. 116/2005 privind aprobarea Normei sanitare veterinare ce stabilește cerințele de sănătate publică pentru carnea proaspată și carnea proaspată de pasare importata din tarile terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66100",
+   "versions": [
+    {
+     "from": "2005-12-23",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66100",
+     "sha256": "7d556e96a0c80343069d688ff84278b8e26755b1e2d196afa41037287724a7c9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-117-2005",
+   "path": "ordin/ansvsa/2005/117",
+   "short": "Ordin ansvsa nr. 117/2005",
+   "title": "Ordinul nr. 117/2005 privind aprobarea Normei sanitare veterinare ce stabilește măsuri minime naționale pentru controlul unor boli care afectează moluștele bivalve",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66070",
+   "versions": [
+    {
+     "from": "2005-12-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66070",
+     "sha256": "6be46677b46b7ed0cbc04b9e61a3c8b07a3fbf8a938c5e23f2cd32013a247163"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-119-2005",
+   "path": "ordin/ansvsa/2005/119",
+   "short": "Ordin ansvsa nr. 119/2005",
+   "title": "Ordinul nr. 119/2005 pentru aprobarea Normei sanitare veterinare privind protecția animalelor în timpul transportului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66311",
+   "versions": [
+    {
+     "from": "2005-11-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66311",
+     "sha256": "237509afb02fe61c3bc8384cf5f67b501bed3e32eea3e9eccca6280969d4da4a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-120-2005",
+   "path": "ordin/ansvsa/2005/120",
+   "short": "Ordin ansvsa nr. 120/2005",
+   "title": "Ordinul nr. 120/2005 privind aprobarea Normei sanitare veterinare și pentru siguranța alimentelor privind substanțele nedorite din hrana pentru animale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66167",
+   "versions": [
+    {
+     "from": "2005-12-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66167",
+     "sha256": "07d3004a18260f9ce8870fa2c227442febfa7a387d6aa5b39a9b2165333a2fb3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-121-2005",
+   "path": "ordin/ansvsa/2005/121",
+   "short": "Ordin ansvsa nr. 121/2005",
+   "title": "Ordinul nr. 121/2005 privind aprobarea Normei sanitare veterinare care stabilește condițiile de sănătate a animalelor și cerințele de certificare pentru import de peste viu, icre și lapți ai acestuia destinați pentru creștere și peste viu de acvacultura și produsele acestuia destinate pentru consum uman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66245",
+   "versions": [
+    {
+     "from": "2005-12-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66245",
+     "sha256": "13a92a0758a4365f6d23c358ff6313ddfc6ecb179cc7eb4a6314e657c5d996e0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-123-2005",
+   "path": "ordin/ansvsa/2005/123",
+   "short": "Ordin ansvsa nr. 123/2005",
+   "title": "Ordinul nr. 123/2005 pentru aprobarea listelor care cuprind animalele vii, produsele medicinale de uz veterinar și furajele supuse controlului sanitar-veterinar la posturile de inspecție la frontieră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66379",
+   "versions": [
+    {
+     "from": "2005-12-05",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66379",
+     "sha256": "9a3bae825370ef34941bc9e26ef2d6aff5a16c225da2232134c6fa72b13838af"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-127-2005",
+   "path": "ordin/ansvsa/2005/127",
+   "short": "Ordin ansvsa nr. 127/2005",
+   "title": "Ordinul nr. 127/2005 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 149/2004 pentru aprobarea Programului acțiunilor de supraveghere, prevenire și control al bolilor la animale, al celor transmisibile de la animale la om, protecția animalelor și protecția mediului, pentru anul 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66350",
+   "versions": [
+    {
+     "from": "2005-11-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66350",
+     "sha256": "043de2c569f05861936692a3b2b8168b782c73af3635d6e1f499e2b16e64a84a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-128-2005",
+   "path": "ordin/ansvsa/2005/128",
+   "short": "Ordin ansvsa nr. 128/2005",
+   "title": "Ordinul nr. 128/2005 pentru aprobarea Normei sanitare veterinare ce stabilește condițiile de sănătate a animalelor care reglementează comerțul și importul de animale, material seminal, ovule și embrioni care nu se supun cerințelor de sănătate a animalelor stabilite de legislația în domeniu, la care se referă anexa nr. 1 la Norma sanitară veterinara referitoare la controalele veterinare și zootehnice aplicabile comerțului României cu statele membre cu unele animale vii și produse de origine animala, aprobată prin Ordinul ministrului agriculturii, alimentației și pădurilor nr. 580/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66498",
+   "versions": [
+    {
+     "from": "2005-12-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66498",
+     "sha256": "e09f848759cb118e85c8487136207d1dd429d0e388b6e210c723e25283a23d69"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-13-2005",
+   "path": "ordin/ansvsa/2005/13",
+   "short": "Ordin ansvsa nr. 13/2005",
+   "title": "Ordinul nr. 13/2005 privind aprobarea Normei sanitare veterinare și pentru siguranța alimentelor ce stabilește regulile pentru prelevare de probe de produse de origine animala pentru examenul de laborator",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60097",
+   "versions": [
+    {
+     "from": "2005-03-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60097",
+     "sha256": "e21e875daeccb053b3e758b5c63b9744912476b27d1925cf3d4b2982116a7fd4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-130-2005",
+   "path": "ordin/ansvsa/2005/130",
+   "short": "Ordin ansvsa nr. 130/2005",
+   "title": "Ordinul nr. 130/2005 pentru abrogarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 116/2005 privind aprobarea Normei sanitare veterinare ce stabilește cerințele de sănătate publică pentru carnea proaspătă și carnea proaspătă de pasăre importată din țările terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66768",
+   "versions": [
+    {
+     "from": "2005-12-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66768",
+     "sha256": "b158ea3cbaa73eefb2bf090e10919e18577ac5d1e2bc486bba15654dd1e4a1b5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-133-2005",
+   "path": "ordin/ansvsa/2005/133",
+   "short": "Ordin ansvsa nr. 133/2005",
+   "title": "Ordinul nr. 133/2005 privind aprobarea Normei sanitare veterinare care stabilește cerințele minime pentru studiul genotipurilor de proteine prionice la rasele de ovine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67110",
+   "versions": [
+    {
+     "from": "2006-01-20",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67110",
+     "sha256": "276256c821ffee2388b8716067c8417eca4cdf6f9454a5c33dc0d79e03647a5d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-134-2005",
+   "path": "ordin/ansvsa/2005/134",
+   "short": "Ordin ansvsa nr. 134/2005",
+   "title": "Ordinul nr. 134/2005 pentru modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 139/2004 privind aprobarea Normei sanitare veterinare și pentru siguranța alimentelor privind procedura de aprobare sanitară veterinară și pentru siguranța alimentelor a activităților desfășurate de persoanele juridice definite conform art. 2 din Legea nr. 359/2004, cu modificările și completările ulterioare, astfel cum a fost modificat și completat prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 78/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67094",
+   "versions": [
+    {
+     "from": "2005-12-20",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67094",
+     "sha256": "7bb7296495274c1ae0ce276a4b83d2fc2f2b8200370983832b78b606b7c90b8d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-136-2005",
+   "path": "ordin/ansvsa/2005/136",
+   "short": "Ordin ansvsa nr. 136/2005",
+   "title": "Ordinul nr. 136/2005 privind modificarea și completarea Ordinului nr. 53/2005 pentru aprobarea Normei sanitare veterinare privind lista cuprinzând țările terțe sau părți ale țărilor terțe și condițiile de certificare veterinară, sănătate animală și publică pentru importul în Comunitatea Europeană al anumitor animale vii și al cărnii proaspete provenite de la acestea și preluarea acestor liste și condiții pentru importul în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67176",
+   "versions": [
+    {
+     "from": "2005-12-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67176",
+     "sha256": "b8e05d547bb194a4bb0f11eb41d318471480c152f68614716fec30065fba46ac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-138-2005",
+   "path": "ordin/ansvsa/2005/138",
+   "short": "Ordin ansvsa nr. 138/2005",
+   "title": "Ordinul nr. 138/2005 pentru aprobarea Normei sanitare veterinare care stabilește regulile privind importul, exportul și tranzitul produselor de origine animală cuprinse în anexa la Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 122/2005 pentru aprobarea Normei sanitare veterinare care stabilește lista produselor ce trebuie să fie examinate la posturile de inspecție la frontieră în baza Directivei Consiliului 97/78/EC, precum și animalelor vii, produselor medicinale de uz veterinar și furajelor cuprinse în anexele la Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 123/2005 pentru aprobarea listelor care cuprind animalele vii, produsele medicinale de uz veterinar și furajele supuse controlului sanitar-veterinar la posturile de inspecție la frontieră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67550",
+   "versions": [
+    {
+     "from": "2006-02-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67550",
+     "sha256": "a0b976b4555451e9a271a0bf0702254a238aadb70fc0bc220a80474c1aa545aa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-14-2005",
+   "path": "ordin/ansvsa/2005/14",
+   "short": "Ordin ansvsa nr. 14/2005",
+   "title": "Ordinul nr. 14/2005 pentru aprobarea Normei sanitare veterinare referitoare la recunoașterea oficială a laboratoarelor autorizate să verifice eficiența vaccinării împotriva rabiei la unele carnivore domestice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59285",
+   "versions": [
+    {
+     "from": "2005-02-24",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59285",
+     "sha256": "b3cebfada66b885b654706d4f5fe82be8306b8c7a6c4cd49eb4e8fef83fb688c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-142-2005",
+   "path": "ordin/ansvsa/2005/142",
+   "short": "Ordin ansvsa nr. 142/2005",
+   "title": "Ordinul nr. 142/2005 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 122/2005 pentru aprobarea Normei sanitare veterinare care stabilește lista produselor ce trebuie să fie examinate la posturile de inspecție de frontieră în baza Directivei Consiliului 97/78/EC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67228",
+   "versions": [
+    {
+     "from": "2005-12-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67228",
+     "sha256": "361c8d42dbacd6fff1b48cfead4e902d48a29e883f86b3737efcf6ef3e16e26b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-145-2005",
+   "path": "ordin/ansvsa/2005/145",
+   "short": "Ordin ansvsa nr. 145/2005",
+   "title": "Ordinul nr. 145/2005 privind aprobarea constituirii Unității veterinare operaționale Task Force pentru controlul și combaterea bolilor animale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67867",
+   "versions": [
+    {
+     "from": "2006-01-13",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67867",
+     "sha256": "0931ad6cc372f4d8427f86fcad6a89c7d9ebf16a064a9fa4c42ce3519ef76594"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-146-2005",
+   "path": "ordin/ansvsa/2005/146",
+   "short": "Ordin ansvsa nr. 146/2005",
+   "title": "Ordinul nr. 146/2005 privind aprobarea constituirii Centrului Național de Combatere a Bolilor și a centrelor locale de combatere a bolilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67962",
+   "versions": [
+    {
+     "from": "2006-01-18",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67962",
+     "sha256": "e26056f646bc4b0026399dbdfe68d902847cebff469d5eccea7c66203e9f8e74"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-147-2005",
+   "path": "ordin/ansvsa/2005/147",
+   "short": "Ordin ansvsa nr. 147/2005",
+   "title": "Ordinul nr. 147/2005 privind aprobarea Programului de supraveghere și control în domeniul siguranței alimentelor pentru anul 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67730",
+   "versions": [
+    {
+     "from": "2006-01-06",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67730",
+     "sha256": "eb7de944a1c4de0aba13326daa8c0325aa8852a58c1508044b4594a9d72ea6f7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-148-2005",
+   "path": "ordin/ansvsa/2005/148",
+   "short": "Ordin ansvsa nr. 148/2005",
+   "title": "Ordinul nr. 148/2005 privind aprobarea Programului acțiunilor de supraveghere, prevenire și control al bolilor la animale, al celor transmisibile de la animale la om, protecția animalelor și protecția mediului pentru anul 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67459",
+   "versions": [
+    {
+     "from": "2005-12-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67459",
+     "sha256": "8f63d3524a6467b3a19fc37c9d17fb2487bcae05278ff28a2aa1f0ac62f2eb07"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-149-2005",
+   "path": "ordin/ansvsa/2005/149",
+   "short": "Ordin ansvsa nr. 149/2005",
+   "title": "Ordinul nr. 149/2005 pentru aprobarea Listei standardelor române care adoptă standardele europene armonizate cu privire la anumite produse alimentare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67750",
+   "versions": [
+    {
+     "from": "2006-01-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67750",
+     "sha256": "0517bdc24c78148c41108a393a8eab1bf10fd4bb0c642c6a066f2dfca98018c3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-151-2005",
+   "path": "ordin/ansvsa/2005/151",
+   "short": "Ordin ansvsa nr. 151/2005",
+   "title": "Ordinul nr. 151/2005 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 128/2004 pentru aprobarea Normei sanitare veterinare și pentru siguranța alimentelor privind cerințele și procedura de efectuare a importului, exportului și tranzitului de animale vii, produse și subproduse de origine animală și nonanimală, hrană pentru animale, precum și alte materii și materiale ce sunt supuse supravegherii și controlului sanitar-veterinar și pentru siguranța alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58551",
+   "versions": [
+    {
+     "from": "2005-01-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58551",
+     "sha256": "761c8511d70a4191fa379acbbe3dadf5078c6ddc0b5b52b2b39397f2ebe24a92"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-1790-2005",
    "path": "ordin/ansvsa/2005/1790",
    "short": "Ordin ansvsa nr. 1790/2005",
@@ -1679,6 +2204,276 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68696",
      "sha256": "762fdc2e4f0c7270b01545e41d1284d488b4054f43b89ca17a7d1ebfd51f7f24"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-18-2005",
+   "path": "ordin/ansvsa/2005/18",
+   "short": "Ordin ansvsa nr. 18/2005",
+   "title": "Ordinul nr. 18/2005 privind aprobarea Normei sanitare veterinare și pentru siguranța alimentelor privind măsurile naționale referitoare la punerea pe piață a produselor medicinale de înaltă tehnologie, în special cele derivate din biotehnologie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59197",
+   "versions": [
+    {
+     "from": "2005-02-11",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59197",
+     "sha256": "ed5c45cf40fb09301dcaf494268b58c0f5bccbdbf058b633a8667aa8289862a2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-19-2005",
+   "path": "ordin/ansvsa/2005/19",
+   "short": "Ordin ansvsa nr. 19/2005",
+   "title": "Ordinul nr. 19/2005 privind aprobarea Normei sanitare veterinare ce stabilește suportul logistic pentru sistemul computerizat veterinar Traces",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59208",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59208",
+     "sha256": "6f0288f21eb116d9582e75806389a93fab495fb2065f34937b6eb9d0bda10da8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-2-2005",
+   "path": "ordin/ansvsa/2005/2",
+   "short": "Ordin ansvsa nr. 2/2005",
+   "title": "Ordinul nr. 2/2005 pentru aprobarea Normei sanitare veterinare și pentru siguranța alimentelor privind stabilirea criteriilor uniforme pentru acordarea de derogări unor unități care fabrică produse pe bază de lapte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58913",
+   "versions": [
+    {
+     "from": "2005-01-28",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58913",
+     "sha256": "5781ba72fb86ed8b470fb5f1e22f359badcdaccf1ee106cc991e573c6a908917"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-20-2005",
+   "path": "ordin/ansvsa/2005/20",
+   "short": "Ordin ansvsa nr. 20/2005",
+   "title": "Ordinul nr. 20/2005 pentru aprobarea Normei sanitare veterinare referitoare la dezvoltarea unui sistem veterinar computerizat integrat, denumit Traces",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59279",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59279",
+     "sha256": "8833cee2637456a0576e77c11820e3fc12333080f81d1d36606ac03d7a4235e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-21-2005",
+   "path": "ordin/ansvsa/2005/21",
+   "short": "Ordin ansvsa nr. 21/2005",
+   "title": "Ordinul nr. 21/2005 privind aprobarea Normei sanitare veterinare și pentru siguranța alimentelor ce stabilește proceduri pentru efectuarea controalelor sanitare veterinare la posturile de inspecție și controale veterinare de frontieră ale României, pentru produse importate din tari terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60098",
+   "versions": [
+    {
+     "from": "2005-05-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60098",
+     "sha256": "42c9a29bd7c778d518f8521bc9c858f94e90958a469e9f8fafe46b7f608d9c38"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-24-2005",
+   "path": "ordin/ansvsa/2005/24",
+   "short": "Ordin ansvsa nr. 24/2005",
+   "title": "Ordinul nr. 24/2005 pentru aprobarea Normei sanitare veterinare ce menționează unitățile din rețeaua computerizată ANIMO din Comunitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60099",
+   "versions": [
+    {
+     "from": "2005-03-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60099",
+     "sha256": "ff19640b6d4a87231e58768b28201d32da96a6292b1b9c2a622493eb90a39510"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-25-2005",
+   "path": "ordin/ansvsa/2005/25",
+   "short": "Ordin ansvsa nr. 25/2005",
+   "title": "Ordinul nr. 25/2005 pentru aprobarea Normei sanitare veterinare ce introduce un document privind declararea și controalele veterinare efectuate asupra animalelor vii provenind din tari terțe și care intra pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60100",
+   "versions": [
+    {
+     "from": "2005-05-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60100",
+     "sha256": "09723d2b54540630b4e02e00ce078a8863776d6971f042d799c5da8fef1ff9e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-26-2005",
+   "path": "ordin/ansvsa/2005/26",
+   "short": "Ordin ansvsa nr. 26/2005",
+   "title": "Ordinul nr. 26/2005 pentru aprobarea Normei sanitare veterinare privind măsurile generale pentru prevenirea și combaterea bolilor infectocontagioase și parazitare la animale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60101",
+   "versions": [
+    {
+     "from": "2005-03-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60101",
+     "sha256": "81157097836d46285391e683518dd178dbc188181f50cfea7f020237309738fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-28-2005",
+   "path": "ordin/ansvsa/2005/28",
+   "short": "Ordin ansvsa nr. 28/2005",
+   "title": "Ordinul nr. 28/2005 pentru aprobarea Normei sanitare veterinare care stabilește condiții speciale ce reglementează activitățile de import în România de produse din pește originare din Republica Turcia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59290",
+   "versions": [
+    {
+     "from": "2005-03-02",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59290",
+     "sha256": "1bc03adaa28b1b29afffb08cb6dad14654399b01c48544d383462b3628b08828"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-29-2005",
+   "path": "ordin/ansvsa/2005/29",
+   "short": "Ordin ansvsa nr. 29/2005",
+   "title": "Ordinul nr. 29/2005 privind aprobarea Normei sanitare veterinare ce stabilește unele măsuri pentru implementarea Normei sanitare veterinare care stabilește condițiile și modalitățile pentru aprobarea și înregistrarea unor întreprinderi și intermediari ce operează în sectorul nutriției animalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59223",
+   "versions": [
+    {
+     "from": "2005-03-16",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59223",
+     "sha256": "ccfe8f3a5af3ec77d377ec2b09512da49526c3f6cbc2c3853c19816ced86dbee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-3-2005",
+   "path": "ordin/ansvsa/2005/3",
+   "short": "Ordin ansvsa nr. 3/2005",
+   "title": "Ordinul nr. 3/2005 pentru modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 83/2004 pentru aprobarea Normei sanitare veterinare privind marcarea și certificarea produselor de origine animală destinate consumului uman, cu excepția cărnii proaspete",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58723",
+   "versions": [
+    {
+     "from": "2005-01-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58723",
+     "sha256": "28f2e825e6c50507cf391e34a4d4fde665c16c426183b7dcc3f4ceb6fcc25597"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-30-2005",
+   "path": "ordin/ansvsa/2005/30",
+   "short": "Ordin ansvsa nr. 30/2005",
+   "title": "Ordinul nr. 30/2005 privind aprobarea Normei sanitare veterinare referitoare la măsuri care îmbunătățesc condițiile generale pentru producerea și comercializarea produselor de apicultură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59199",
+   "versions": [
+    {
+     "from": "2005-02-26",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59199",
+     "sha256": "15da47c62a9657574cf4190e134d2e17b66f85e7771b5aafca7ef8afb1c00886"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-31-2005",
+   "path": "ordin/ansvsa/2005/31",
+   "short": "Ordin ansvsa nr. 31/2005",
+   "title": "Ordinul nr. 31/2005 pentru aprobarea Normei sanitare veterinare referitoare la lista unităților din Republica Macedonia autorizate pentru import de carne proaspătă în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59283",
+   "versions": [
+    {
+     "from": "2005-03-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59283",
+     "sha256": "7141d86614dfdd1076663a0d2e814f3d8c6a6af436fe2d9b3e8ae8839bb9592c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-33-2005",
+   "path": "ordin/ansvsa/2005/33",
+   "short": "Ordin ansvsa nr. 33/2005",
+   "title": "Ordinul nr. 33/2005 privind aprobarea Normei sanitare veterinare care stabilește criterii pentru informațiile ce trebuie furnizate în conformitate cu Norma sanitară veterinară privind problemele de sănătate a animalelor, ce afectează comerțul statelor membre ale Uniunii Europene cu România cu animale din speciile bovine și porcine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59465",
+   "versions": [
+    {
+     "from": "2005-02-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59465",
+     "sha256": "e34aefca4bb31ae2f1c3065e1a2c3c119ae338219cd992a3ba49e71ab22488f6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-35-2005",
+   "path": "ordin/ansvsa/2005/35",
+   "short": "Ordin ansvsa nr. 35/2005",
+   "title": "Ordinul nr. 35/2005 pentru aprobarea Normei sanitare veterinare privind implementarea de către autoritățile sanitare veterinare de la posturile de inspecție la frontieră a măsurilor ce trebuie aplicate în cazul activităților de import și tranzit de mărfuri supuse controlului sanitar-veterinar, găsite necorespunzătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59572",
+   "versions": [
+    {
+     "from": "2005-03-01",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59572",
+     "sha256": "3a16d7d06a280b7604a235d619c1db50cd0b833bd94c0ee2e72e173adcdab5e9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-37-2005",
+   "path": "ordin/ansvsa/2005/37",
+   "short": "Ordin ansvsa nr. 37/2005",
+   "title": "Ordinul nr. 37/2005 privind informațiile de interes public și secretele de serviciu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59675",
+   "versions": [
+    {
+     "from": "2005-03-07",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59675",
+     "sha256": "6e0f761ef529123f2a958adc88b518100e108b1dc67ee0d30ce7e7affa2765a1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-38-2005",
+   "path": "ordin/ansvsa/2005/38",
+   "short": "Ordin ansvsa nr. 38/2005",
+   "title": "Ordinul nr. 38/2005 privind modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 83/2004 pentru aprobarea Normei sanitare veterinare privind marcarea și certificarea produselor de origine animală destinate consumului uman, cu excepția cărnii proaspete, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61184",
+   "versions": [
+    {
+     "from": "2005-04-26",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61184",
+     "sha256": "3cc4c3673a95f1970bf6f4dd5d1342a1831f9bd1f37d3e92d69bfa0490d0361a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-40-2005",
+   "path": "ordin/ansvsa/2005/40",
+   "short": "Ordin ansvsa nr. 40/2005",
+   "title": "Ordinul nr. 40/2005 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 141/2004 pentru aprobarea Normei sanitare veterinare și pentru siguranța alimentelor privind anumiți contaminanți din alimentele de origine animală și nonanimală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60476",
+   "versions": [
+    {
+     "from": "2005-04-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60476",
+     "sha256": "a0c555f24795353dfe2f032b496225c88cc0930cc1ac676aad49dcb7b7d5f4ea"
     }
    ]
   },
@@ -1698,6 +2493,516 @@
    ]
   },
   {
+   "slug": "ordin-ansvsa-42-2005",
+   "path": "ordin/ansvsa/2005/42",
+   "short": "Ordin ansvsa nr. 42/2005",
+   "title": "Ordinul nr. 42/2005 privind măsurile pentru implementarea interdicției totale de administrare a proteinelor animale procesate în hrana animalelor de fermă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60773",
+   "versions": [
+    {
+     "from": "2005-04-13",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60773",
+     "sha256": "7eb74503904926b4954caf1a6868857dd9e33c5c5779e51797ce995925aed777"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-45-2005",
+   "path": "ordin/ansvsa/2005/45",
+   "short": "Ordin ansvsa nr. 45/2005",
+   "title": "Ordinul nr. 45/2005 privind aprobarea tarifelor pentru efectuarea analizelor și examenelor de laborator, precum și a unor activități sanitare veterinare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61097",
+   "versions": [
+    {
+     "from": "2005-04-25",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61097",
+     "sha256": "85910733028e751fb62b07fe9d4855937809164c9836f023f87bcbf4d5c73291"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-46-2005",
+   "path": "ordin/ansvsa/2005/46",
+   "short": "Ordin ansvsa nr. 46/2005",
+   "title": "Ordinul nr. 46/2005 pentru aprobarea Normei sanitare veterinare care stabilește regulile privind importul, exportul și tranzitul de animale vii și produse cuprinse în anexa la Ordinul ministrului agriculturii, alimentației și pădurilor nr. 285/2001, cu completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61968",
+   "versions": [
+    {
+     "from": "2005-06-02",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61968",
+     "sha256": "2d93c3d0f2e744cfe3caa26200869fb761627280be3bc310ed3e6c5fb8fd4a2b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-48-2005",
+   "path": "ordin/ansvsa/2005/48",
+   "short": "Ordin ansvsa nr. 48/2005",
+   "title": "Ordinul nr. 48/2005 privind modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 147/2004 pentru aprobarea normelor sanitare veterinare și pentru siguranța alimentelor privind reziduurile de pesticide din produsele de origine animală și nonanimală și reziduurile de medicamente de uz veterinar în produsele de origine animală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61382",
+   "versions": [
+    {
+     "from": "2005-05-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61382",
+     "sha256": "52b089e58a8e4bf3d4b6d304303c4ccb0dd1efb62df16e239a4c531f2e12ab5b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-49-2005",
+   "path": "ordin/ansvsa/2005/49",
+   "short": "Ordin ansvsa nr. 49/2005",
+   "title": "Ordinul nr. 49/2005 privind modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 100/2004 pentru aprobarea Normei sanitare veterinare care stabilește condițiile suplimentare privind controlul sanitar veterinar al produselor din pescuit, crustaceelor, moluștelor, gasteropodelor și batracienilor, destinate comercializării directe către consumatorul final sau procesării în alimente pentru consum uman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61407",
+   "versions": [
+    {
+     "from": "2005-05-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61407",
+     "sha256": "fe148f9d36bc51ecf7a6dc4bb8b736bf50cfc0fcde212cb653640ed0161d6f72"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-5-2005",
+   "path": "ordin/ansvsa/2005/5",
+   "short": "Ordin ansvsa nr. 5/2005",
+   "title": "Ordinul nr. 5/2005 privind aprobarea Regulamentului pentru identificarea și înregistrarea animalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60190",
+   "versions": [
+    {
+     "from": "2005-03-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60190",
+     "sha256": "4d6f2a2852bf8837792e51756d0c0ff5a86d6bdec76716790799c927a2a1eac5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-50-2005",
+   "path": "ordin/ansvsa/2005/50",
+   "short": "Ordin ansvsa nr. 50/2005",
+   "title": "Ordinul nr. 50/2005 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 149/2004 pentru aprobarea Programului acțiunilor de supraveghere, prevenire și control al bolilor la animale, al celor transmisibile de la animale la om, protecția animalelor și protecția mediului, pentru anul 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61285",
+   "versions": [
+    {
+     "from": "2005-05-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61285",
+     "sha256": "c8cb1a68de9030f497979a98d3c45d16fd3d59e6fc5ca2f1d2e12e96dea910d4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-51-2005",
+   "path": "ordin/ansvsa/2005/51",
+   "short": "Ordin ansvsa nr. 51/2005",
+   "title": "Ordinul nr. 51/2005 pentru aprobarea Normei sanitare veterinare de implementare a măsurilor de supraveghere și control al unor substanțe și al reziduurilor acestora la animalele vii și la produsele lor privind performanța metodelor analitice și interpretarea rezultatelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64022",
+   "versions": [
+    {
+     "from": "2005-08-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64022",
+     "sha256": "d3c943a46a00afaea64202fd69a6614a90fb42913a2a0cf99ae382c7863c8955"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-53-2005",
+   "path": "ordin/ansvsa/2005/53",
+   "short": "Ordin ansvsa nr. 53/2005",
+   "title": "Ordinul nr. 53/2005 pentru aprobarea Normei sanitare veterinare privind lista cuprinzând țările terțe sau părți ale țărilor terțe și condițiile de certificare veterinara, sănătate animala și publică pentru importul în Comunitatea Europeană al anumitor animale vii și al cărnii proaspete provenite de la acestea și preluarea acestor liste și condiții pentru importul în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65124",
+   "versions": [
+    {
+     "from": "2005-09-20",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65124",
+     "sha256": "92856620b1b9fea4f1eabee98b0125657070bed955069c3c4959bb1926f834c7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-54-2005",
+   "path": "ordin/ansvsa/2005/54",
+   "short": "Ordin ansvsa nr. 54/2005",
+   "title": "Ordinul nr. 54/2005 pentru aprobarea Normei sanitare veterinare și pentru siguranța alimentelor ce stabilește standarde armonizate privind testarea pentru anumite reziduuri în produse de origine animală importate din țări terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62289",
+   "versions": [
+    {
+     "from": "2005-06-28",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62289",
+     "sha256": "4236533b538cbefafd142a27cd980c47d5771486619fe29ef01b08859bdb29cc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-55-2005",
+   "path": "ordin/ansvsa/2005/55",
+   "short": "Ordin ansvsa nr. 55/2005",
+   "title": "Ordinul nr. 55/2005 privind aprobarea Normei pentru siguranța alimentelor care stabilește procedurile la importul și exportul de produse de origine nonanimală supuse supravegherii și controlului pentru siguranța alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62525",
+   "versions": [
+    {
+     "from": "2005-07-02",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62525",
+     "sha256": "e90781513deccb0b43c9a89125e4d477556a366cc46628a21e777d3f060d2c34"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-56-2005",
+   "path": "ordin/ansvsa/2005/56",
+   "short": "Ordin ansvsa nr. 56/2005",
+   "title": "Ordinul nr. 56/2005 pentru modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 140/2004 privind aprobarea tarifelor de plată pentru manopera acțiunilor sanitare veterinare publice de interes național efectuate de medicii veterinari de liberă practică în baza contractului de concesionare, pentru anul 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62514",
+   "versions": [
+    {
+     "from": "2005-07-07",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62514",
+     "sha256": "c3c4b1d509f24e5cc1b90e84f191f46b813089324be74cc3e307382d25b58b0d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-59-2005",
+   "path": "ordin/ansvsa/2005/59",
+   "short": "Ordin ansvsa nr. 59/2005",
+   "title": "Ordinul nr. 59/2005 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 56/2005 pentru modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 140/2004 privind aprobarea tarifelor de plată pentru manopera acțiunilor sanitare veterinare publice de interes național efectuate de medicii veterinari de liberă practică în baza contractului de concesionare, pentru anul 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62833",
+   "versions": [
+    {
+     "from": "2005-07-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62833",
+     "sha256": "f003a74cba38084908723c34599a958dfa5403c1308e1e71edbce65f1679e486"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-62-2005",
+   "path": "ordin/ansvsa/2005/62",
+   "short": "Ordin ansvsa nr. 62/2005",
+   "title": "Ordinul nr. 62/2005 pentru aprobarea Normei sanitare veterinare privind acțiunile sanitare veterinare de supraveghere și imunoprofilactice obligatorii ale căror costuri sunt suportate de către proprietarii animalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64009",
+   "versions": [
+    {
+     "from": "2005-08-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64009",
+     "sha256": "ced7f02e7e44288220710192899a65a1bc88773ea55740214a4209fb637f368e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-64-2005",
+   "path": "ordin/ansvsa/2005/64",
+   "short": "Ordin ansvsa nr. 64/2005",
+   "title": "Ordinul nr. 64/2005 pentru aprobarea Normei sanitare veterinare ce stabilește garanții adiționale privind Salmonella pentru transportul găinilor ouătoare către Republica Finlanda și Regatul Suediei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64011",
+   "versions": [
+    {
+     "from": "2005-08-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64011",
+     "sha256": "939e2ae27320d1e1a9e0f7f94728547c515f813ecb7d0510aae9e77ac11b7990"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-65-2005",
+   "path": "ordin/ansvsa/2005/65",
+   "short": "Ordin ansvsa nr. 65/2005",
+   "title": "Ordinul nr. 65/2005 privind aprobarea Normei sanitare veterinare ce stabilește garanții adiționale în ceea ce privește Salmonella, pentru transportul de păsări de reproducție și pui de o zi către Republica Finlanda și Regatul Suediei în scopul introducerii în efective de păsări de reproducție sau în efective de păsări pentru producție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63992",
+   "versions": [
+    {
+     "from": "2005-08-23",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63992",
+     "sha256": "8548e1bb23474373b92df4797db62fa53cb61821dd7c5ec3ee0e47c5eadba552"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-66-2005",
+   "path": "ordin/ansvsa/2005/66",
+   "short": "Ordin ansvsa nr. 66/2005",
+   "title": "Ordinul nr. 66/2005 privind aprobarea Normei sanitare veterinare care aprobă un manual de diagnostic stabilind proceduri de diagnostic, metode de prelevare a probelor și criterii pentru evaluarea testelor de laborator pentru confirmarea pestei porcine clasice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63919",
+   "versions": [
+    {
+     "from": "2005-08-15",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63919",
+     "sha256": "39552a205f02b70a9885b03d5429529eafcab6adc0e309a83df4c7f3322d2855"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-67-2005",
+   "path": "ordin/ansvsa/2005/67",
+   "short": "Ordin ansvsa nr. 67/2005",
+   "title": "Ordinul nr. 67/2005 pentru aprobarea Normei sanitare veterinare cu privire la măsurile pentru controlul pestei porcine clasice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63920",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63920",
+     "sha256": "0709bea52159f448d9945c11b67a23ffa356c06a6d4fa0c76f43dacff7557495"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-69-2005",
+   "path": "ordin/ansvsa/2005/69",
+   "short": "Ordin ansvsa nr. 69/2005",
+   "title": "Ordinul nr. 69/2005 pentru aprobarea Normei sanitare veterinare privind Codul produselor medicinale veterinare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65185",
+   "versions": [
+    {
+     "from": "2005-10-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65185",
+     "sha256": "425570cfed177896e6dfa176ed51d0258869843570aa2e3f2259493f07a54b1f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-7-2005",
+   "path": "ordin/ansvsa/2005/7",
+   "short": "Ordin ansvsa nr. 7/2005",
+   "title": "Ordinul nr. 7/2005 pentru aprobarea Normei sanitare veterinare care introduce sistemul computerizat veterinar integrat Traces și modifică Norma sanitară veterinară care stabilește forma de cooperare între centrul Animo gazdă și România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59386",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59386",
+     "sha256": "5d621724bd7e3216d2986a9b4a7afce2449eb820a8cf732db7fe831d5c8ce979"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-70-2005",
+   "path": "ordin/ansvsa/2005/70",
+   "short": "Ordin ansvsa nr. 70/2005",
+   "title": "Ordinul nr. 70/2005 pentru aprobarea Normei sanitare veterinare privind cerințe minime pentru inspecția exploatațiilor în care animalele sunt ținute pentru scopuri de fermă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64299",
+   "versions": [
+    {
+     "from": "2005-08-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64299",
+     "sha256": "211beb10365cadc505810c991c25a67f1cda4e895e5ab70646ee4004df532908"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-71-2005",
+   "path": "ordin/ansvsa/2005/71",
+   "short": "Ordin ansvsa nr. 71/2005",
+   "title": "Ordinul nr. 71/2005 pentru aprobarea Normei sanitare veterinare privind criteriile pentru punctele de oprire și care modifică planul de rută la care se referă anexa la Directiva 91/628/CEE",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64669",
+   "versions": [
+    {
+     "from": "2005-08-31",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64669",
+     "sha256": "6fb75c52872844d81688214b4467d2db2c0a98d1933845077db7dd2b9a0c4ac0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-73-2005",
+   "path": "ordin/ansvsa/2005/73",
+   "short": "Ordin ansvsa nr. 73/2005",
+   "title": "Ordinul nr. 73/2005 pentru aprobarea Normei sanitare veterinare privind înregistrarea exploatațiilor care dețin găini ouătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64379",
+   "versions": [
+    {
+     "from": "2005-09-06",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64379",
+     "sha256": "310610c4cd899b62b6c2d3bf3513ebbd49772e18f1c81b070a0006ff4b923fea"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-74-2005",
+   "path": "ordin/ansvsa/2005/74",
+   "short": "Ordin ansvsa nr. 74/2005",
+   "title": "Ordinul nr. 74/2005 pentru aprobarea Normei sanitare veterinare privind tranzitul cu animale vii din specia bovine prin Regatul Unit al Marii Britanii și Irlandei de Nord",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64484",
+   "versions": [
+    {
+     "from": "2005-09-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64484",
+     "sha256": "d9e9de6454929e31ff0ef3ff1896075583f86f2824263ecd925e23389d674318"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-75-2005",
+   "path": "ordin/ansvsa/2005/75",
+   "short": "Ordin ansvsa nr. 75/2005",
+   "title": "Ordinul nr. 75/2005 pentru aprobarea Normei sanitare veterinare privind protecția animalelor de fermă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64482",
+   "versions": [
+    {
+     "from": "2005-08-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64482",
+     "sha256": "938cccf75f57520d8754b6f28bbb8109a974f245ed43e15f11324e61d01da738"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-76-2005",
+   "path": "ordin/ansvsa/2005/76",
+   "short": "Ordin ansvsa nr. 76/2005",
+   "title": "Ordinul nr. 76/2005 privind aprobarea Normei sanitare veterinare care stabilește standarde minime pentru protecția porcinelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64655",
+   "versions": [
+    {
+     "from": "2006-02-28",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64655",
+     "sha256": "e97af70f1245e4afe3e4c263f2d86dd5f59b20e7c5e522c79547157b863c8067"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-78-2005",
+   "path": "ordin/ansvsa/2005/78",
+   "short": "Ordin ansvsa nr. 78/2005",
+   "title": "Ordinul nr. 78/2005 pentru modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 139/2004 privind aprobarea Normei sanitare veterinare și pentru siguranța alimentelor privind procedura de aprobare sanitară veterinară și pentru siguranța alimentelor a activităților desfășurate de persoanele juridice definite conform art. 2 din Legea nr. 359/2004, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64535",
+   "versions": [
+    {
+     "from": "2005-08-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64535",
+     "sha256": "2c2390ece55be686888ae47ff6d53349b8b764d16bff9146ed07d39879ec4da5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-79-2005",
+   "path": "ordin/ansvsa/2005/79",
+   "short": "Ordin ansvsa nr. 79/2005",
+   "title": "Ordinul nr. 79/2005 pentru aprobarea Normei metodologice de implementare a Normei sanitare veterinare privind stabilirea condițiilor de sănătate a animalelor, ce reglementează comerțul României cu statele membre ale Uniunii Europene și importul din țările terțe de animale, material seminal, ovule și embrioni de la specii ce nu sunt prevăzute de legislația specifică (normă Balai pentru animale), privind condițiile în care se poate realiza importul de pisici, câini și dihori domestici pentru organizații, instituții sau centre autorizate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64926",
+   "versions": [
+    {
+     "from": "2005-09-27",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64926",
+     "sha256": "a1e8085408f1166af19307bde0ee6184e7a22f5dad8f2324529787a54678afe9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-80-2005",
+   "path": "ordin/ansvsa/2005/80",
+   "short": "Ordin ansvsa nr. 80/2005",
+   "title": "Ordinul nr. 80/2005 pentru aprobarea Normei sanitare veterinare și pentru siguranța alimentelor privind stabilirea documentelor și evidentelor veterinare necesare în cadrul activității de neutralizare a deșeurilor de origine animala",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64888",
+   "versions": [
+    {
+     "from": "2005-09-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64888",
+     "sha256": "8ff9454e246042c32e6b0e244c8d9ec0725a26466b7ffc40e3dd47108a88012a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-82-2005",
+   "path": "ordin/ansvsa/2005/82",
+   "short": "Ordin ansvsa nr. 82/2005",
+   "title": "Ordinul nr. 82/2005 pentru aprobarea Normei sanitare veterinare privind măsurile de supraveghere și control al unor substanțe și al reziduurilor acestora la animalele vii și la produsele lor, precum și al reziduurilor de medicamente de uz veterinar în produsele de origine animală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64957",
+   "versions": [
+    {
+     "from": "2005-09-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64957",
+     "sha256": "11e12606dbad82ea63ad59d6eb5573ea464ca6f43a827feaba2945fbc377b27b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-83-2005",
+   "path": "ordin/ansvsa/2005/83",
+   "short": "Ordin ansvsa nr. 83/2005",
+   "title": "Ordinul nr. 83/2005 pentru aprobarea Normei sanitare veterinare privind garanții suplimentare în legătură cu boala Aujeszky în comerțul intracomunitar cu porci și criteriile de furnizare a informațiilor despre această boală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64890",
+   "versions": [
+    {
+     "from": "2005-10-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64890",
+     "sha256": "c284fccf3e8efe0ffd8a4e29778adc2e81df3c62e70f10e7f3921a74d8169e86"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-85-2005",
+   "path": "ordin/ansvsa/2005/85",
+   "short": "Ordin ansvsa nr. 85/2005",
+   "title": "Ordinul nr. 85/2005 pentru aprobarea Normei sanitare veterinare privind interzicerea utilizării în creșterea animalelor de fermă a unor substanțe cu acțiune hormonală sau tireostatică și a celor betaagoniste",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65122",
+   "versions": [
+    {
+     "from": "2005-09-20",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65122",
+     "sha256": "41ec6442f61d0d887bbac5a3af2b39f495ac2bcbb16e268ebfac6e7f53288cc1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-86-2005",
+   "path": "ordin/ansvsa/2005/86",
+   "short": "Ordin ansvsa nr. 86/2005",
+   "title": "Ordinul nr. 86/2005 pentru aprobarea Normei sanitare veterinare privind computerizarea procedurilor de import veterinare (proiectul Shift)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64967",
+   "versions": [
+    {
+     "from": "2006-10-01",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64967",
+     "sha256": "16244c3039d929aafcb36116d9d3b6ab22030794fa5ce4ddfb36cfc47541a27a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-87-2005",
+   "path": "ordin/ansvsa/2005/87",
+   "short": "Ordin ansvsa nr. 87/2005",
+   "title": "Ordinul nr. 87/2005 privind modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 5/2005 privind aprobarea Regulamentului pentru identificarea și înregistrarea animalelor, astfel cum a fost modificat prin Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 60/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65126",
+   "versions": [
+    {
+     "from": "2005-09-30",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65126",
+     "sha256": "d443793b1ab336457b75ab7486be6b1c65a794a4f9b43b226ec778fea641104b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-88-2005",
    "path": "ordin/ansvsa/2005/88",
    "short": "Ordin ansvsa nr. 88/2005",
@@ -1709,6 +3014,66 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65345",
      "sha256": "0647d69cf4a0762d585c37a0a19b835176b19513193e36f975fb032a3fb92680"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-91-2005",
+   "path": "ordin/ansvsa/2005/91",
+   "short": "Ordin ansvsa nr. 91/2005",
+   "title": "Ordinul nr. 91/2005 pentru aprobarea Normei sanitare veterinare ce stabilește regulile aplicabile controalelor regulate asupra stării generale de igienă, efectuate de operatori în unități, în conformitate cu Norma sanitară veterinară privind condițiile de sănătate pentru producerea și comercializarea cărnii proaspete, aprobată prin Ordinul ministrului agriculturii, alimentației și pădurilor nr. 401/2002, și cu Norma sanitară veterinară privind problemele de sănătate care reglementează producerea și comerțul cu carne proaspătă de pasăre, aprobată prin Ordinul ministrului agriculturii, alimentației și pădurilor nr. 402/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65195",
+   "versions": [
+    {
+     "from": "2005-10-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65195",
+     "sha256": "75040a12bd1b66c806758c6ec20a5f92fb50cf2472f6954f04114e5575d26897"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-92-2005",
+   "path": "ordin/ansvsa/2005/92",
+   "short": "Ordin ansvsa nr. 92/2005",
+   "title": "Ordinul nr. 92/2005 privind aprobarea Normei sanitare veterinare ce stabilește lista țărilor terțe din care se autorizează importul de produse din pescuit pentru consumul uman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65331",
+   "versions": [
+    {
+     "from": "2006-01-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65331",
+     "sha256": "1218835a54caa059173159146a10b6a14a34190103e1f5ec8712a0e155ea692e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-95-2005",
+   "path": "ordin/ansvsa/2005/95",
+   "short": "Ordin ansvsa nr. 95/2005",
+   "title": "Ordinul nr. 95/2005 pentru aprobarea Normei sanitare veterinare privind baza de date ce cuprinde cerințele comunitare de import prevăzute de proiectul Shift",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65428",
+   "versions": [
+    {
+     "from": "2006-10-01",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65428",
+     "sha256": "3a7310599ad833c85095bdd3236ca726b6446f6e8f0035174191e7bbdb49ef7b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-98-2005",
+   "path": "ordin/ansvsa/2005/98",
+   "short": "Ordin ansvsa nr. 98/2005",
+   "title": "Ordinul nr. 98/2005 privind aprobarea Planului de contingenta (de necesitate) al României pentru influența aviara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35077",
+   "versions": [
+    {
+     "from": "2005-10-28",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35077",
+     "sha256": "d6f74ca98d60c24d8f11f69cc851c8840978820d7d9d0eb699246c4ec2bb18a9"
     }
    ]
   },
@@ -1826,7 +3191,7 @@
    "versions": [
     {
      "from": "2005-11-22",
-     "units": 8,
+     "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66092",
      "sha256": "46d0511cfb9a8803d5df42a8045eb8040c92d438f10ecbb43c15c75eb9830ceb"
     }
@@ -1841,7 +3206,7 @@
    "versions": [
     {
      "from": "2005-12-23",
-     "units": 10,
+     "units": 26,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67214",
      "sha256": "a32478e2b92c909494e2803e86b7a032cd0a6cf1947aafd5d4914a23400f40e5"
     }
@@ -2201,7 +3566,7 @@
    "versions": [
     {
      "from": "2005-12-06",
-     "units": 211,
+     "units": 255,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66502",
      "sha256": "6548b883b6930577ebbda232c270eabe8bd9a5f229310c95c2653cdd99477ae5"
     }
@@ -2921,7 +4286,7 @@
    "versions": [
     {
      "from": "2005-12-20",
-     "units": 11,
+     "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67106",
      "sha256": "4d461c047fa031cb47b551e0e80708103a7c671d0ef81381618afd2547d9c45b"
     }
@@ -5493,6 +6858,21 @@
    ]
   },
   {
+   "slug": "ordin-guvern-491-2005",
+   "path": "ordin/guvern/2005/491",
+   "short": "Ordin guvern nr. 491/2005",
+   "title": "Ordinul nr. 491/2005 pentru aprobarea Cerințelor minime pentru protecția informațiilor UE clasificate care fac obiectul activităților contractuale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67773",
+   "versions": [
+    {
+     "from": "2006-01-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67773",
+     "sha256": "31d03f6d5e3cf6f578f67a8e258f7bd5681a76082d7b448e451365eaf0294698"
+    }
+   ]
+  },
+  {
    "slug": "ordin-guvern-894-2005",
    "path": "ordin/guvern/2005/894",
    "short": "Ordin guvern nr. 894/2005",
@@ -6228,6 +7608,36 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1027-2005",
+   "path": "ordin/mediu/2005/1027",
+   "short": "Ordin mediu nr. 1027/2005",
+   "title": "Ordinul nr. 1.027/2005 privind modificarea și completarea Normelor metodologice de aplicare a Hotărârii Guvernului nr. 166/2004 pentru aprobarea proiectului \"Dezvoltarea sistemului de colectare a deșeurilor de ambalaje PET postconsum în vederea reciclării\", aprobate prin Ordinul ministrului mediului și gospodăririi apelor nr. 117/2004, republicat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65678",
+   "versions": [
+    {
+     "from": "2005-11-04",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65678",
+     "sha256": "d8892988acc9e7ca84fa78db57a453267162d941ca3b152235760737869ae8db"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1037-2005",
+   "path": "ordin/mediu/2005/1037",
+   "short": "Ordin mediu nr. 1037/2005",
+   "title": "Ordinul nr. 1.037/2005 privind modificarea Ordinului ministrului apelor și protecției mediului nr. 860/2002 pentru aprobarea Procedurii de evaluare a impactului asupra mediului și de emitere a acordului de mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65686",
+   "versions": [
+    {
+     "from": "2005-11-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65686",
+     "sha256": "f63f579ca26df6e11688e2619622ef5ad72d0aa8cebc3a22ed1bc9fa247719a9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-108-2005",
    "path": "ordin/mediu/2005/108",
    "short": "Ordin mediu nr. 108/2005",
@@ -6254,6 +7664,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66032",
      "sha256": "c03c30af2abb4f6089af91e28c027f06235520220284197dc5f9850cec84fe6b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1158-2005",
+   "path": "ordin/mediu/2005/1158",
+   "short": "Ordin mediu nr. 1158/2005",
+   "title": "Ordinul nr. 1.158/2005 pentru modificarea și completarea anexei la Ordinul ministrului agriculturii, pădurilor, apelor și mediului nr. 818/2003 pentru aprobarea Procedurii de emitere a autorizației integrate de mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66683",
+   "versions": [
+    {
+     "from": "2005-12-05",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66683",
+     "sha256": "d63faca6e86289c29bdc3a3ed59fbea11ca7fdbe5f0d35d3a5843aec92edff82"
     }
    ]
   },
@@ -6314,6 +7739,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67828",
      "sha256": "54b8e51e1e1b4fff00f42fa3ab67ad01458366d908d66ea9d46710000bc8f88d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1230-2005",
+   "path": "ordin/mediu/2005/1230",
+   "short": "Ordin mediu nr. 1230/2005",
+   "title": "Ordinul nr. 1.230/2005 privind modificarea anexei la Ordinul ministrului mediului și gospodăririi apelor nr. 757/2004 pentru aprobarea Normativului tehnic privind depozitarea deșeurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66527",
+   "versions": [
+    {
+     "from": "2005-12-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66527",
+     "sha256": "39989a53c3b4b39d66e9fc6e28ef203415bfee19294922cbf061db73c3bd1c19"
     }
    ]
   },
@@ -6573,6 +8013,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-584-2005",
+   "path": "ordin/mediu/2005/584",
+   "short": "Ordin mediu nr. 584/2005",
+   "title": "Ordinul nr. 584/2005 privind modificarea și completarea secțiunii a III-a din anexa nr. 1 la Ordinul ministrului apelor, pădurilor și protecției mediului nr. 340/2000 pentru aprobarea Nomenclatorului de lucrări și servicii care se prestează de către autoritățile pentru protecția mediului în regim de tarifare și cuantumul tarifelor aferente, cu modificările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63883",
+   "versions": [
+    {
+     "from": "2005-08-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63883",
+     "sha256": "9ac3c5bc3e0643da414ad0e1e9b1366602bff2aae4137421a816f67cdbdd5bb4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-589-2005",
    "path": "ordin/mediu/2005/589",
    "short": "Ordin mediu nr. 589/2005",
@@ -6614,6 +8069,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63943",
      "sha256": "42a3c2eaaeb3be171ca0522bb0aa91bfd32e5f2dbf5b796c22a67c95a8dcb395"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-610-2005",
+   "path": "ordin/mediu/2005/610",
+   "short": "Ordin mediu nr. 610/2005",
+   "title": "Ordinul nr. 610/2005 pentru modificarea și completarea anexei nr. 1 la Hotărârea Guvernului nr. 697/2004 privind aprobarea Procedurii de consimțământ prealabil în cunoștință de cauză pentru controlul importului și exportului anumitor substanțe și preparate chimice periculoase - procedura PIC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64015",
+   "versions": [
+    {
+     "from": "2005-08-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64015",
+     "sha256": "b14dfba3c95cc49a898b198b547f75954851c4cce8a10ac45b335537a4593f35"
     }
    ]
   },
@@ -10154,6 +11624,81 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62765",
      "sha256": "a0957ec00b5b398c9671e12faa41196f05de56b5f02502b8cedc3e9e56431084"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-51-2005",
+   "path": "ordin/vama/2005/51",
+   "short": "Ordin vama nr. 51/2005",
+   "title": "Ordinul nr. 51/2005 pentru completarea anexei la Decizia directorului general al Autorității Naționale a Vămilor nr. 173/2004 privind abilitarea unor birouri vamale de a efectua operațiuni de vămuire cu produse strategice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59016",
+   "versions": [
+    {
+     "from": "2005-02-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59016",
+     "sha256": "97a9244a9f30a78f7ac1214edb07e914609155c617910279e300b014d0501e35"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-553-2005",
+   "path": "ordin/vama/2005/553",
+   "short": "Ordin vama nr. 553/2005",
+   "title": "Ordinul nr. 553/2005 privind aprobarea Normelor unitare de structură pentru înființarea și funcționarea punctelor vamale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60740",
+   "versions": [
+    {
+     "from": "2005-04-13",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60740",
+     "sha256": "ce47c0ed66cf2373c13cdf72aa26096c2515cc0b8282d14d13ccd47e13b2c9a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-6280-2005",
+   "path": "ordin/vama/2005/6280",
+   "short": "Ordin vama nr. 6280/2005",
+   "title": "Ordinul nr. 6.280/2005 pentru aplicarea reglementărilor adoptate de Comisia Comunităților Europene privind clasificarea unor anumite mărfuri în Nomenclatura combinată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64416",
+   "versions": [
+    {
+     "from": "2005-08-22",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64416",
+     "sha256": "ffd3f8c9fd8aa3b7f65293a39bf4a97d02715a2eaa3d8420071a5abf9bc7ad20"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-6640-2005",
+   "path": "ordin/vama/2005/6640",
+   "short": "Ordin vama nr. 6640/2005",
+   "title": "Ordinul nr. 6.640/2005 pentru modificarea și completarea Normelor metodologice privind aplicarea sistemului de tranzit comun pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64804",
+   "versions": [
+    {
+     "from": "2005-09-07",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64804",
+     "sha256": "1fb245f984251538bc680648e577d6218e61d17bb74986469bfb6769fe47ef7e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-7631-2005",
+   "path": "ordin/vama/2005/7631",
+   "short": "Ordin vama nr. 7631/2005",
+   "title": "Ordinul nr. 7.631/2005 privind actualizarea Culegerii de avize de clasificare emise de Comitetul Sistemului armonizat din cadrul Organizației Mondiale a Vămilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66296",
+   "versions": [
+    {
+     "from": "2005-11-29",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66296",
+     "sha256": "577f8e9c239e2af2ce5227528de6ab8c7ea9fe2e068db6f55ae8dad83d7fd897"
     }
    ]
   }

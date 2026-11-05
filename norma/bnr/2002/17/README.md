@@ -2,7 +2,7 @@
 
 Norma bnr nr. 17/2002 · 1 versions, from 2002-10-25 (latest in force: 2002-10-25) · <https://legislatie.just.ro/Public/DetaliiDocument/38571>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (2 Formular F2 Scadentarul tragerilor, al rambursarilor de capital și al plăților de dobânda și comisioane ...): it is a table that the official text holds only flattened; Anexa nr. 2 (3 ┌──────────────────────────────────────────────────────────────────────────────┐ │ │ │ Formularul F3 │ │ │ │ Raportarea statistica privind operațiunile │ │ ...): it is a table that the official text holds only flattened; Anexa nr. 3 (4 Instituția de credit prin care se derulează operațiunea....................................................... SITUAȚIA debitorilor persoane juridice și ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (2 Formular F2 Scadentarul tragerilor, al rambursarilor de capital și al plăților de dobânda și comisioane): it is a table that the official text holds only flattened; text printed after its signature (1065 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -12,6 +12,10 @@ Norma bnr nr. 17/2002 · 1 versions, from 2002-10-25 (latest in force: 2002-10-2
 | Art. 4 | [art-004.md](art-004.md) | 0 |  |
 | Art. 5 | [art-005.md](art-005.md) | 0 |  |
 | Art. 6 | [art-006.md](art-006.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 
 Act id: `norma-bnr-17-2002` (tags `norma-bnr-17-2002/<day>`; `python tools/on.py <day> norma-bnr-17-2002`).
 
@@ -21,7 +25,8 @@ Act id: `norma-bnr-17-2002` (tags `norma-bnr-17-2002/<day>`; `python tools/on.py
 - Norma bnr nr. 17/2002: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Norma bnr nr. 17/2002: the first version is the norm as published in Monitorul Oficial nr. 700 of 25 September 2002 (document 38571 of the official web service), in force on 25 October 2002, the day it states for itself.
 - Norma bnr nr. 17/2002: the signatures and the place and date line after its last article are not article text.
-- Norma bnr nr. 17/2002: Anexa nr. 1 (2 Formular F2 Scadentarul tragerilor, al rambursarilor de capital și al plăților de dobânda și comisioane ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma bnr nr. 17/2002: Anexa nr. 2 (3 ┌──────────────────────────────────────────────────────────────────────────────┐ │ │ │ Formularul F3 │ │ │ │ Raportarea statistica privind operațiunile │ │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma bnr nr. 17/2002: Anexa nr. 3 (4 Instituția de credit prin care se derulează operațiunea....................................................... SITUAȚIA debitorilor persoane juridice și ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Norma bnr nr. 17/2002: Anexa nr. 2 (3) is part of the norm and is published in its folder, anexa-2/ (paragraphs and tables), from document 38571 of the official web service.
+- Norma bnr nr. 17/2002: Anexa nr. 3 (4 Instituția de credit prin care se derulează operațiunea....................................................... SITUAȚIA debitorilor persoane juridice și fizice rezidente fără număr RDPE) is part of the norm and is published in its folder, anexa-3/ (paragraphs and tables), from document 38571 of the official web service.
+- Norma bnr nr. 17/2002: Anexa nr. 1 (2 Formular F2 Scadentarul tragerilor, al rambursarilor de capital și al plăților de dobânda și comisioane) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Norma bnr nr. 17/2002: the official text prints 1065 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.
 - Norma bnr nr. 17/2002: the publisher's notes run into its text (*) În cazul notificării unui contract nou se atribuie şi se completează de către Banca Naţionala a României; în celelalt) are not text.

@@ -2,7 +2,7 @@
 
 Norma asf nr. 23/2014 · 1 versions, from 2015-01-01 (latest in force: 2015-01-01) · <https://legislatie.just.ro/Public/DetaliiDocument/162929>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 Antet Asigurător PRIME DE ASIGURARE RCA ┌────┬─────────────────────────────────────────────┬───────────────────────────┐ │Nr. │ │Trimestrul de raportare... │ ...): it is a table that the official text holds only flattened; Anexa nr. 2 (2 Antet Asigurător DESPĂGUBIRI - RCA ┌────┬───────────────────────────────────┬──────────────────┬──────────────────┐ │Nr. │ │ Persoane │ Persoane │ │crt.│ ...): it is a table that the official text holds only flattened; Anexa nr. 3 (3 Antet asigurător ALTE CHELTUIELI pentru asigurarea RCA - lei - ┌────┬─────────────────────────────────────────────────────────┬───────────────┐ │Nr. │ │ │ ...): it is a table that the official text holds only flattened; Anexa nr. 4 (4 Despăgubiri pentru vătămări corporale și deces a) Despăgubiri pentru vătămări corporale și deces pentru accidente produse în România:... ...): it is a table that the official text holds only flattened; Anexa nr. 5 (5 1. Tabel cu coeficienții aferenți claselor de bonus-malus ┌────────────────────────────────────┬───────────────────────────────────┐ │ Clasa bonus-malus │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -81,6 +81,16 @@ Norma asf nr. 23/2014 · 1 versions, from 2015-01-01 (latest in force: 2015-01-0
 | Art. 73 | [art-073.md](art-073.md) | 0 |  |
 | Art. 74 | [art-074.md](art-074.md) | 0 |  |
 | Art. 75 | [art-075.md](art-075.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
+| Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
+| Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
+| Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
+| Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
 | Anexa nr. 6 (what it is) | [anexa-6/README.md](anexa-6/README.md) | 0 |  |
 | Anexa nr. 6 | [anexa-6/text.md](anexa-6/text.md) | 0 |  |
 
@@ -92,10 +102,10 @@ Act id: `norma-asf-23-2014` (tags `norma-asf-23-2014/<day>`; `python tools/on.py
 - Norma asf nr. 23/2014: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Norma asf nr. 23/2014: the first version is the norm as published in Monitorul Oficial nr. 826 of 12 November 2014 (document 162929 of the official web service), in force on 1 January 2015, the day it states for itself.
 - Norma asf nr. 23/2014: the signatures and the place and date line after its last article are not article text.
+- Norma asf nr. 23/2014: Anexa nr. 1 (1 Antet Asigurător PRIME DE ASIGURARE RCA) is part of the norm and is published in its folder, anexa-1/ (paragraphs and tables), from document 162929 of the official web service.
+- Norma asf nr. 23/2014: Anexa nr. 2 (2 Antet Asigurător DESPĂGUBIRI - RCA) is part of the norm and is published in its folder, anexa-2/ (paragraphs and tables), from document 162929 of the official web service.
+- Norma asf nr. 23/2014: Anexa nr. 3 (3 Antet asigurător ALTE CHELTUIELI pentru asigurarea RCA - lei -) is part of the norm and is published in its folder, anexa-3/ (paragraphs and tables), from document 162929 of the official web service.
+- Norma asf nr. 23/2014: Anexa nr. 4 (4 Despăgubiri pentru vătămări corporale și deces a) Despăgubiri pentru vătămări corporale și deces pentru accidente produse în România:...) is part of the norm and is published in its folder, anexa-4/ (paragraphs and tables), from document 162929 of the official web service.
+- Norma asf nr. 23/2014: Anexa nr. 5 (5 1. Tabel cu coeficienții aferenți claselor de bonus-malus) is part of the norm and is published in its folder, anexa-5/ (paragraphs and tables), from document 162929 of the official web service.
 - Norma asf nr. 23/2014: Anexa nr. 6 (6) is part of the norm and is published in its folder, anexa-6/ (paragraphs), from document 162929 of the official web service.
-- Norma asf nr. 23/2014: Anexa nr. 1 (1 Antet Asigurător PRIME DE ASIGURARE RCA ┌────┬─────────────────────────────────────────────┬───────────────────────────┐ │Nr. │ │Trimestrul de raportare... │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma asf nr. 23/2014: Anexa nr. 2 (2 Antet Asigurător DESPĂGUBIRI - RCA ┌────┬───────────────────────────────────┬──────────────────┬──────────────────┐ │Nr. │ │ Persoane │ Persoane │ │crt.│ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma asf nr. 23/2014: Anexa nr. 3 (3 Antet asigurător ALTE CHELTUIELI pentru asigurarea RCA - lei - ┌────┬─────────────────────────────────────────────────────────┬───────────────┐ │Nr. │ │ │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma asf nr. 23/2014: Anexa nr. 4 (4 Despăgubiri pentru vătămări corporale și deces a) Despăgubiri pentru vătămări corporale și deces pentru accidente produse în România:... ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Norma asf nr. 23/2014: Anexa nr. 5 (5 1. Tabel cu coeficienții aferenți claselor de bonus-malus ┌────────────────────────────────────┬───────────────────────────────────┐ │ Clasa bonus-malus │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Norma asf nr. 23/2014: the publisher's notes run into its text (*1) Rândul "Număr de contracte în vigoare" - se completează cu informaţii privind numărul de poliţe încheiate atât în ti; *1) Rândul "Număr de dosare avizate" - se completează cu informaţii privind numărul de dosare de daună avizate în perioa) are not text.
