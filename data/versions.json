@@ -220637,6 +220637,21 @@
    ]
   },
   {
+   "slug": "oug-134-1999",
+   "path": "oug/1999/134",
+   "short": "OUG nr. 134/1999",
+   "title": "Ordonanța de urgență a Guvernului nr. 134/1999 privind unele măsuri referitoare la salarizarea magistraţilor şi a celorlalte categorii de personal din organele autorităţii judecătoreşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19277",
+   "versions": [
+    {
+     "from": "1999-09-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19277",
+     "sha256": "ef782028304159dabbe0e70823af35abbb68c1a38db18491a1d02ef7e09d779f"
+    }
+   ]
+  },
+  {
    "slug": "oug-134-2000",
    "path": "oug/2000/134",
    "short": "OUG nr. 134/2000",
@@ -222268,6 +222283,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/public/DetaliiDocument/292291",
      "sha256": "f5e1946d5722ea09c3b7f1981c63825a2668f466e82899b09c2048a3cfb3d7cb"
+    }
+   ]
+  },
+  {
+   "slug": "oug-145-1999",
+   "path": "oug/1999/145",
+   "short": "OUG nr. 145/1999",
+   "title": "Ordonanța de urgență a Guvernului nr. 145/1999 privind unele măsuri de protecţie socială a personalului din sectorul producţiei de apărare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19427",
+   "versions": [
+    {
+     "from": "1999-10-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19427",
+     "sha256": "0b84c37bdec19fb7562865b1fcad48ce44f378f1ea1da5dcc7f52533cd0b92df"
     }
    ]
   },

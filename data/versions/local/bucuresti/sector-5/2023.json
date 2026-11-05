@@ -3,6 +3,141 @@
  "shard": "local/bucuresti/sector-5/2023",
  "acts": [
   {
+   "slug": "hcls5-1-2023",
+   "path": "local/bucuresti/sector-5/2023/1",
+   "short": "HCLS5 nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 1/2023 privind utilizarea excedentului bugetar aferent anului 2022 pentru finanțarea cheltuielilor secțiunii de dezvoltare a Sectorului 5 al Municipiului București",
+   "url": "https://sector5.ro/hotararea-nr-01-26-01-2023-privind-utilizarea-excedentului-bugetar-aferent-anului-2022-pentru-finantarea-cheltuielilor-sectiunii-de-dezvoltare-a-sectorului-5-al-municipiului-bucuresti/",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-01-26.01.2023.pdf",
+     "sha256": "ed3eb3dc7c4b382b89ba32192304554995b77328f5333732b25ca94e60ad7aa6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-10-2023",
+   "path": "local/bucuresti/sector-5/2023/10",
+   "short": "HCLS5 nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 10/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-10-26.01.2023.pdf",
+     "sha256": "0dbfaf67bf8cef17120a42f33b6cf0a61f2839525759152c67942275cb3af981"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-100-2023",
+   "path": "local/bucuresti/sector-5/2023/100",
+   "short": "HCLS5 nr. 100/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 100/2023 privind participarea Sectorului 5 al Municipiului București în Programul privind casarea autovehiculelor uzate, derulat prin Administrația Fondului pentru Mediu",
+   "url": "https://sector5.ro/hotararea-nr-100-20-04-2023-privind-participarea-sectorului-5-al-municipiului-bucuresti-in-programul-privind-casarea-autovehiculelor-uzate-derulat-prin-administratia-fondului-pentru-mediu/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-100-20.04.2023.pdf",
+     "sha256": "ee223977b7b3fc9036026d3d94ded126e81b01f4e44b956491526d1f7ea726f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-101-2023",
+   "path": "local/bucuresti/sector-5/2023/101",
+   "short": "HCLS5 nr. 101/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 101/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-101-20.04.2023.pdf",
+     "sha256": "ec930481882c1fba9b3318876b91dcc94f05a4d1513c725bd99b6a5fefa93b74"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-102-2023",
+   "path": "local/bucuresti/sector-5/2023/102",
+   "short": "HCLS5 nr. 102/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 102/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-102-20.04.2023.pdf",
+     "sha256": "6d1ea0bf174005a0771c002b59339b0eed46b608a542b26411a4f5de766537cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-103-2023",
+   "path": "local/bucuresti/sector-5/2023/103",
+   "short": "HCLS5 nr. 103/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 103/2023 privind organizarea Festivalului-concurs „Plaiuri românești – 2023” – activitatea principală a proiectului educațional regional „Meșteșuguri românești”",
+   "url": "https://sector5.ro/hotararea-nr-103-20-04-2023-privind-organizarea-festivalului-concurs-plaiuri-romanesti-2023-activitatea-principala/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-103-20.04.2023.pdf",
+     "sha256": "fd2195d7a4b19505bba4c901739bd86f1502addeefd471cc06d772d71f445507"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-104-2023",
+   "path": "local/bucuresti/sector-5/2023/104",
+   "short": "HCLS5 nr. 104/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 104/2023 privind organizarea Festivalului-concurs „Bucurie în pași de dans”– activitatea principală a proiectului educațional „Pe ritmuri de dans”",
+   "url": "https://sector5.ro/hotararea-nr-104-20-04-2023-privind-organizarea-festivalului-concurs-bucurie-in-pasi-de-dans-activitatea-principala-a/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-104-20.04.2023.pdf",
+     "sha256": "fe9e8a3a739811f3f097173dc5fc74edbe75c2754f1d120a79592f8b430630cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-105-2023",
+   "path": "local/bucuresti/sector-5/2023/105",
+   "short": "HCLS5 nr. 105/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 105/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-105-20.04.2023.pdf",
+     "sha256": "8c170f9411be1c341059180f4cf75370905be0c038b5c827b3bcaef4162d81df"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-106-2023",
+   "path": "local/bucuresti/sector-5/2023/106",
+   "short": "HCLS5 nr. 106/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 106/2023 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Consiliului Local Sector 5, aferent anului 2023",
+   "url": "https://sector5.ro/hotararea-nr-106-20-04-2023-privind-aprobarea-planului-anual-de-actiune-privind-serviciile-sociale-administrate-si-finantate-din-bugetul-consiliului-local-sector-5-aferent-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-106-20.04.2023.pdf",
+     "sha256": "2337d7ab2db374a318b6b0ef6a9390ad345152d79122cf58c3c6bd6df58ea3eb"
+    }
+   ]
+  },
+  {
    "slug": "hcls5-107-2023",
    "path": "local/bucuresti/sector-5/2023/107",
    "short": "HCLS5 nr. 107/2023",
@@ -14,6 +149,51 @@
      "units": 1,
      "source_url": "https://sector5.ro/media/2023/08/HCL-107-20.04.2023.pdf",
      "sha256": "0b5c7e7fc47409cb4a7b714ed7cb3fe0dc1c23684236cb4b5c8daf5c06e37beb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-108-2023",
+   "path": "local/bucuresti/sector-5/2023/108",
+   "short": "HCLS5 nr. 108/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 108/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-108-20.04.2023.pdf",
+     "sha256": "a8c875010c02e07df69daf9331078e16bc89c1a663bb55651b9bf2d65c0ae189"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-109-2023",
+   "path": "local/bucuresti/sector-5/2023/109",
+   "short": "HCLS5 nr. 109/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 109/2023 privind ratificarea Contractului de dare în plată încheiat în data de 23.12.2022 între Sectorul 5 al Municipiului București și SC AMENAJARE EDILITARĂ S5 S.R.L",
+   "url": "https://sector5.ro/hotararea-nr-109-20-04-2023-privind-ratificarea-contractului-de-dare-in-plata-incheiat-in-data-de-23-12-2022-intre-sectorul-5-al-municipiului-bucuresti-si-sc-amenajare-edilitara-s5-s-r-l/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-109-20.04.2023.pdf",
+     "sha256": "bf1a4366693e948212b659240823c72c4b79f0e53813058274b6a6f521f723ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-11-2023",
+   "path": "local/bucuresti/sector-5/2023/11",
+   "short": "HCLS5 nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 11/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-11-26.01.2023.pdf",
+     "sha256": "98b2409f6c71608f8c2af7b0b5bd996b75d6ef85d5752123dab3cb89b92d325c"
     }
    ]
   },
@@ -48,6 +228,66 @@
    ]
   },
   {
+   "slug": "hcls5-112-2023",
+   "path": "local/bucuresti/sector-5/2023/112",
+   "short": "HCLS5 nr. 112/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 112/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-112.pdf",
+     "sha256": "bb6f24b78b80a4a47288978789a3a25aa9419364580f17ae0ec5cabe84c7f65d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-113-2023",
+   "path": "local/bucuresti/sector-5/2023/113",
+   "short": "HCLS5 nr. 113/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 113/2023 privind împuternicirea Direcției Generale de Poliție Locală pentru efectuarea operațiunilor de ridicare, transport si depozitare, cu titlu gratuit, a autovehiculelor care împiedică activitatea societăților specializate aflate în subordinea Consiliului Local Sector 5 sau instituțiilor/companiilor abilitate să execute intervenții la rețelele de utilitate publică, pe raza administrativă a Sectorului 5",
+   "url": "https://sector5.ro/hotararea-nr-113-08-05-2023-privind-imputernicirea-directiei-generale-de-politie-locala-pentru-efectuarea-operatiunilor-de-ridicare-transport-si-depozitare-cu-titlu-g/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-113.pdf",
+     "sha256": "22daaf49f68cfc5dc9b60fca4719abaa4319f5f31044f46cf2258e056026ea48"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-114-2023",
+   "path": "local/bucuresti/sector-5/2023/114",
+   "short": "HCLS5 nr. 114/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 114/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-114.pdf",
+     "sha256": "efb70d41999f649c76ef92b2a8bd7ae7e738500af42d6faa712fe6b5118d385a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-115-2023",
+   "path": "local/bucuresti/sector-5/2023/115",
+   "short": "HCLS5 nr. 115/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 115/2023 pentru modificarea Hotărârii Consiliului Local al Sectorului 5 al Municipiului București Nr. 214/11.11.2022 privind aprobarea depunerii proiectului ”Mobilitate verde în Sectorul 5 al Municipiului Bucuresti – puncte de încărcare vehicule electrice”, în cadrul apelului de proiecte reglementat prin Ordinul nr. 2.595 din 03 octombrie 2022 pentru aprobarea Ghidului de finanţare a Programului privind dezvoltarea infrastructurii de reîncărcare pentru vehicule electrice şi/sau hibrid plug-in în localităţi, prin instalarea de staţii de reîncărcare cu putere normală prin Administrația Fondului pentru Mediu",
+   "url": "https://sector5.ro/hotararea-nr-115-08-05-2023-pentru-modificarea-hotararii-consiliului-local-al-sectorului-5-al-municipiului-bucuresti-nr-214-11-11-2022-privind-aprobarea-depunerii-proiectului-mobilitate-ver/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-115.pdf",
+     "sha256": "635eecebf5f775b78442809bdf86a22d0f0498c732b87b6c533f307e2d6c4936"
+    }
+   ]
+  },
+  {
    "slug": "hcls5-116-2023",
    "path": "local/bucuresti/sector-5/2023/116",
    "short": "HCLS5 nr. 116/2023",
@@ -59,6 +299,366 @@
      "units": 1,
      "source_url": "https://sector5.ro/media/2023/08/HCL-116-16.05.2023.pdf",
      "sha256": "858e89432bc458054c097a88c0e0ea916e39abeac828e7fc6e85b5ed5b239089"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-117-2023",
+   "path": "local/bucuresti/sector-5/2023/117",
+   "short": "HCLS5 nr. 117/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 117/2023 privind organizarea crossului ”Kids Race – 5 Run 2023” în data de 27 mai 2023",
+   "url": "https://sector5.ro/hotararea-nr-117-16-05-2023-privind-organizarea-crossului-kids-race-5-run-2023-in-data/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-117-16.05.2023.pdf",
+     "sha256": "0e117d77429f2f7a3b609d99698f324c73119f87f9de759c8b4009d260a3b1ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-118-2023",
+   "path": "local/bucuresti/sector-5/2023/118",
+   "short": "HCLS5 nr. 118/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 118/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-118-31.05.2023.pdf",
+     "sha256": "12c07c7a417c8bad6a7056778f8e6b3b42d566bb17cdead1a74228e13b0d7a11"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-119-2023",
+   "path": "local/bucuresti/sector-5/2023/119",
+   "short": "HCLS5 nr. 119/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 119/2023 privind actualizarea Planului de Ordine și Siguranță Publică al Sectorului 5 al Municipiului București pentru anul 2023",
+   "url": "https://sector5.ro/hotararea-nr-119-31-05-2023privind-actualizarea-planului-de-ordine-si-siguranta-publica-al-sectorului-5-al-municipiului-bucuresti-pentru-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-119-31.05.2023.pdf",
+     "sha256": "56f90008c1d7b86087c9c124e8d18cfe3061df2aafef222b88e9cb63480c05dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-12-2023",
+   "path": "local/bucuresti/sector-5/2023/12",
+   "short": "HCLS5 nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 12/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-12-26.01.2023.pdf",
+     "sha256": "4f8379172462f00c073b3656cc7e29a1f6801804b16bbebb301f7dfef59d2554"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-120-2023",
+   "path": "local/bucuresti/sector-5/2023/120",
+   "short": "HCLS5 nr. 120/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 120/2023 privind aprobarea derulării și finanțării, din bugetul local al Sectorului 5, a proiectului Grădinița de vacanță în Sectorul 5, în perioada iulie – august 2023",
+   "url": "https://sector5.ro/hotararea-nr-120-31-05-2023-privind-aprobarea-derularii-si-finantarii-din-bugetul-local-al-sectorului-5-a-proiectului-gradinita-de-vacan/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-120-31.05.2023.pdf",
+     "sha256": "1c5f36d6ec8d62b3b548060ad23410ec7c0486cfad3486f199032db12223d2e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-121-2023",
+   "path": "local/bucuresti/sector-5/2023/121",
+   "short": "HCLS5 nr. 121/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 121/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-121-31.05.2023.pdf",
+     "sha256": "1c7420cb6e9c52255c1fea6cd2a0588361399de52485e12453fdf54543c74854"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-122-2023",
+   "path": "local/bucuresti/sector-5/2023/122",
+   "short": "HCLS5 nr. 122/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 122/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-122-31.05.2023.pdf",
+     "sha256": "4d6c0bf320675d5b7af83f4dc4985b206799a0ef8e68bb0067eaec2c97b3fb86"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-123-2023",
+   "path": "local/bucuresti/sector-5/2023/123",
+   "short": "HCLS5 nr. 123/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 123/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-123-31.05.2023.pdf",
+     "sha256": "e034ba6ca45558e321d8e78a8198283f5b76d3d2f93ea518e4c1e90f0a48325d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-124-2023",
+   "path": "local/bucuresti/sector-5/2023/124",
+   "short": "HCLS5 nr. 124/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 124/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-124-31.05.2023.pdf",
+     "sha256": "1f68c03da9d89bf81bfdab347095a7242f16cdb30c80135a7f8bc0297da15b22"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-125-2023",
+   "path": "local/bucuresti/sector-5/2023/125",
+   "short": "HCLS5 nr. 125/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 125/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-125-31.05.2023.pdf",
+     "sha256": "d1dbd4ee7061e15ca04af9d3bc9605db6a1f587909aa6311968625ee52301552"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-126-2023",
+   "path": "local/bucuresti/sector-5/2023/126",
+   "short": "HCLS5 nr. 126/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 126/2023 privind aprobarea indicatorilor tehnico-economici, în vederea realizării obiectivului de investiții “Lucrări de reabilitare și restaurare propuse pentru Colegiul Național Gheorghe Lazăr”",
+   "url": "https://sector5.ro/hotararea-nr-126-31-05-2023privind-aprobarea-indicatorilor-tehnico-economici-in-vederea-realizarii-obiectivului-de-investitii-lucrari-de-reabilitare-si-restaurare-propuse-pentru-colegiul-na/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-126-31.05.2023.pdf",
+     "sha256": "e6c8d4e9d44a2244dcac156af5f2434dee3b7a8c1f20b320a4f01c11039b91a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-127-2023",
+   "path": "local/bucuresti/sector-5/2023/127",
+   "short": "HCLS5 nr. 127/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 127/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-127-31.05.2023.pdf",
+     "sha256": "2f87eb025433932cff88dd3b234c15ca8e8ace8efc08e7a8eddd678007ffce1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-128-2023",
+   "path": "local/bucuresti/sector-5/2023/128",
+   "short": "HCLS5 nr. 128/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 128/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-128-31.05.2023.pdf",
+     "sha256": "a13a9c67cda15f0c3811781e93de340b5d9be397b98a448dca35dd2c4778629a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-129-2023",
+   "path": "local/bucuresti/sector-5/2023/129",
+   "short": "HCLS5 nr. 129/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 129/2023 privind rectificarea bugetului de venituri și cheltuieli pe anul 2023 al Sectorului 5 al Municipiului București aprobat prin H.C.L nr. 02 / 26.01.2023 cu modificările și completările ulterioare",
+   "url": "https://sector5.ro/hotararea-nr-129-31-05-2023-privind-rectificarea-bugetului-de-venituri-si-cheltuieli-pe-anul-2023-al-sectorului-5-al-municipiului-bucuresti-aprobat-prin-h-c-l-nr-02-26-01-2023-cu-modificaril/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-129-31.05.2023.pdf",
+     "sha256": "20860fd9c91bee77d713971977e5c4b7f7e57246e24884371a3a8b273c71260e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-13-2023",
+   "path": "local/bucuresti/sector-5/2023/13",
+   "short": "HCLS5 nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 13/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-13-26.01.2023.pdf",
+     "sha256": "3a30407dcf5048bd9179b86f346716e3cde42a485a98be5df2107ef7c1a8f57f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-130-2023",
+   "path": "local/bucuresti/sector-5/2023/130",
+   "short": "HCLS5 nr. 130/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 130/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-130-31.05.2023.pdf",
+     "sha256": "b46370a466dab7b3d65f70a20adea7795108ad5abbee24d2756bff889c09d0fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-131-2023",
+   "path": "local/bucuresti/sector-5/2023/131",
+   "short": "HCLS5 nr. 131/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 131/2023 privind aprobarea componenței Comisiei de Evaluare a Persoanelor Adulte cu Handicap Sector 5",
+   "url": "https://sector5.ro/hotararea-nr-131-31-05-2023-privind-aprobarea-componentei-comisiei-de-evaluare-a-persoanelor-adulte-cu-handicap-sector-5/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-131-31.05.2023.pdf",
+     "sha256": "5716cea87a62fff4059c4a3ed76123e12c9f9c5050b7e68a5328c53a547cefb1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-132-2023",
+   "path": "local/bucuresti/sector-5/2023/132",
+   "short": "HCLS5 nr. 132/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 132/2023 privind organizarea „Festivalului costumului tradițional românesc: simt și mă îmbrac românește!”, ediția a VII-a, cu tema „Românii – un neam al comuniunii în credință”",
+   "url": "https://sector5.ro/hotararea-nr-132-31-05-2023privind-organizarea-festivalului-costumului-traditional-romanesc-simt-si-ma-imbrac-romaneste-editia-a-vii-a-cu-tema-romanii-un-neam/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-132-31.05.2023.pdf",
+     "sha256": "0e31d2b038580c99a80f5777e0c5de8262ff4c3363a8d4311ce95b9cc2c012bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-133-2023",
+   "path": "local/bucuresti/sector-5/2023/133",
+   "short": "HCLS5 nr. 133/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 133/2023 privind solicitarea acordului Consiliului General al Municipiului București pentru împuternicirea expresă a Consiliului Local al Sectorului 5 de a hotărî cu privire la asocierea dintre Sectorul 5 al Municipiului București cu Asociația Clubul Sportiv Dance Prestige și cu Federația Română de Dans Sportiv, în vederea realizării programului educațional și sportiv „Zâmbetul copilăriei”, în unitățile de învățământ preuniversitar de stat din sectorul 5",
+   "url": "https://sector5.ro/hotararea-nr-133-31-05-2023privind-solicitarea-acordului-consiliului-general-al-municipiului-bucuresti-pentru-imputernicirea-expresa-a-consiliului-local-al-sectorului-5-de-a-hotari-cu-pri/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-133-31.05.2023.pdf",
+     "sha256": "91f35ce33ba6718badc440d304b5fefb6cc34f02f565300a235144dfc5492ba7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-134-2023",
+   "path": "local/bucuresti/sector-5/2023/134",
+   "short": "HCLS5 nr. 134/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 134/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-134-31.05.2023.pdf",
+     "sha256": "4c7f40c41a38c773efb24b2654ef637a8f6b9a93af1c6be70e1a77160227125a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-135-2023",
+   "path": "local/bucuresti/sector-5/2023/135",
+   "short": "HCLS5 nr. 135/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 135/2023 pentru modificarea Hotărârii Consiliului Local al Sectorului 5 al Municipiului București Nr.100/20.04.2023 privind participarea Sectorului 5 al Municipiului București în Programul privind casarea autovehiculelor uzate, derulat prin Administrația Fondului pentru Mediu",
+   "url": "https://sector5.ro/hotararea-nr-135-31-05-2023pentru-modificarea-hotararii-consiliului-local-al-sectorului-5-al-municipiului-bucuresti-nr-100-20-04-2023-privind-participarea-sectorului-5-al-municipiului-bucuresti-in-pr/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-135-31.05.2023.pdf",
+     "sha256": "fc81e163e151059dfe923009c39496d827dbfd84ef8eed7e640e4cf98fb8fafd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-136-2023",
+   "path": "local/bucuresti/sector-5/2023/136",
+   "short": "HCLS5 nr. 136/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 136/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-136-31.05.2023.pdf",
+     "sha256": "a8af24f3ad97a7fd67830d50cebd6854acc58c9457513063ac9f6901a4bf40d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-137-2023",
+   "path": "local/bucuresti/sector-5/2023/137",
+   "short": "HCLS5 nr. 137/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 137/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-137-31.05.2023.pdf",
+     "sha256": "109c3621b96ca388192e8de592675fe9f17ba41ce480cc60331da69447a50593"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-138-2023",
+   "path": "local/bucuresti/sector-5/2023/138",
+   "short": "HCLS5 nr. 138/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 138/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-138-31.05.2023.pdf",
+     "sha256": "1b0e8e5e4cc3ab8a19c4bdbcb3af913f2b9561efbedf3d8cd0f650db43bffb3c"
     }
    ]
   },
@@ -78,6 +678,21 @@
    ]
   },
   {
+   "slug": "hcls5-14-2023",
+   "path": "local/bucuresti/sector-5/2023/14",
+   "short": "HCLS5 nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 14/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-14-26.01.2023.pdf",
+     "sha256": "cf63704deeec48f6140a9aac3896951dae51a8bf62f2939ac34a768d7c24b010"
+    }
+   ]
+  },
+  {
    "slug": "hcls5-140-2023",
    "path": "local/bucuresti/sector-5/2023/140",
    "short": "HCLS5 nr. 140/2023",
@@ -89,6 +704,66 @@
      "units": 1,
      "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-140-31.05.2023.pdf",
      "sha256": "eaad73128b1fcad8706f20786781ea5c68b62403993c7475e2495c07621ce754"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-141-2023",
+   "path": "local/bucuresti/sector-5/2023/141",
+   "short": "HCLS5 nr. 141/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 141/2023 pentru modificarea și completarea Hotărârii Consiliului Local nr. 225/28.12.2022 privind înființarea Administrației Dezvoltare Urbană Sector 5, cu modificările și completările ulterioare",
+   "url": "https://sector5.ro/hotararea-nr-141-31-05-2023pentru-modificarea-si-completarea-hotararii-consiliului-local-nr-225-28-12-2022-privind-infiintarea-administratiei-dezvoltare-urbana-sector-5-cu-modificarile-si-completar/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-141-31.05.2023.pdf",
+     "sha256": "047a53660f89507f8db4f02d99860578ab14e42f717223596d0b75f0227a6c1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-142-2023",
+   "path": "local/bucuresti/sector-5/2023/142",
+   "short": "HCLS5 nr. 142/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 142/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-142-31.05.2023.pdf",
+     "sha256": "0fd76667611d3b1ea30dd1d16e15e8e105e9e3471811c2beff078df1b61a623d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-143-2023",
+   "path": "local/bucuresti/sector-5/2023/143",
+   "short": "HCLS5 nr. 143/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 143/2023 privind aprobarea Organigramei, Statului de Funcții, Regulamentului de Organizare și Funcționare și a Grilei de salarizare ale Administrației Piețelor Sector 5",
+   "url": "https://sector5.ro/hotararea-nr-143-31-05-2023-privind-aprobarea-organigramei-statului-de-functii-regulamentului-de-organizare-si-functionare-si-a-grilei-de-salarizare-ale-administratiei-pietelor-sector-5/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-143-31.05.2023.pdf",
+     "sha256": "868c630f1c2d0c6c82838785fff3a9e4a238835c9f226108af284015eda07ad8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-144-2023",
+   "path": "local/bucuresti/sector-5/2023/144",
+   "short": "HCLS5 nr. 144/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 144/2023 pentru completarea Anexei 3.1, Anexei 3.2 și Anexei 5 la Hotărârea Consiliului Local al Sectorului 5 nr. 217/17.12.2020 privind delegarea gestiunii serviciului de amenajare și întreținere a spațiilor verzi și a locurilor de joacă pentru copii aferente unităților de învățământ administrate de către Consiliul Local al Sectorului 5, cu modificările și completările ulterioare",
+   "url": "https://sector5.ro/hotararea-nr-144-31-05-2023-pentru-completarea-anexei-3-1-anexei-3-2-si-anexei-5-la-hotararea-consiliului-local-al-sectorului-5-nr-217-17-12-2020-privind-delegarea-gestiunii-serviciului-de-amenajar/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-144-31.05.2023.pdf",
+     "sha256": "3d894b028394b1106c082e42ae398fad7f75ba990bf3b80c92ad151b94ee8440"
     }
    ]
   },
@@ -123,6 +798,411 @@
    ]
   },
   {
+   "slug": "hcls5-147-2023",
+   "path": "local/bucuresti/sector-5/2023/147",
+   "short": "HCLS5 nr. 147/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 147/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-147-31.05.2023.pdf",
+     "sha256": "3e81c28cb6b4dbe4f865197066a95d6c65f78255c2eb9b20c453adfbfb04f9a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-148-2023",
+   "path": "local/bucuresti/sector-5/2023/148",
+   "short": "HCLS5 nr. 148/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 148/2023 privind aprobarea derulării și finanțării, din bugetul local al Sectorului 5, a proiectului Școala de vară în Sectorul 5, în perioada iulie – august 2023",
+   "url": "https://sector5.ro/hotararea-nr-148-31-05-2023-privind-aprobarea-derularii-si-finantarii-din-bugetul-local-al-sectorului-5-a-proiectului-scoala-de-vara-in-sectorul-5-in-perioada-iulie-august-2023/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-148-31.05.2023.pdf",
+     "sha256": "2210b6bacc44618fa12e6e9d1dc4be0d2e6519eb712ba20f15bf407134bf83e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-149-2023",
+   "path": "local/bucuresti/sector-5/2023/149",
+   "short": "HCLS5 nr. 149/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 149/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-149-31.05.2023.pdf",
+     "sha256": "ed4dc58dbdca627a69ea968c7644069718c4010bcf0015b0eff944c689e384fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-15-2023",
+   "path": "local/bucuresti/sector-5/2023/15",
+   "short": "HCLS5 nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 15/2023 privind aprobarea Ghidului de Reabilitare Urbană vol. 1 şi vol. 2 elaborat de Banca Mondială prin intermediul Acordului de prestări servicii de consultanţă nr.27293/20.03.2018 privind Programul de Dezvoltare Urbană a Sectorului 5",
+   "url": "https://sector5.ro/hotararea-nr-15-26-01-2023-privind-aprobarea-ghidului-de-reabilitare-urbana-vol-1-si-vol-2-elaborat-de-banca-mondiala-prin-intermediul-acordului-de-prestari-servicii-de-consultanta-nr-27293-20-03-2/",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-15-26.01.2023.pdf",
+     "sha256": "e9e5560cccee12d07228228e4c0d836bde040b65b2260ad7d524dcd14037a77f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-150-2023",
+   "path": "local/bucuresti/sector-5/2023/150",
+   "short": "HCLS5 nr. 150/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 150/2023 pentru modificarea Hotărârii Consiliului Local al Sectorului 5 al Municipiului București nr. 215/29.11.2022 privind aprobarea depunerii proiectului și a Studiului de fezabilitate, indicatorilor tehnico-economici rezultați din Studiul de fezabilitate, a unor obligații și a cheltuielilor aferente proiectului ”Dezvoltarea infrastructurii de colectare pentru asigurarea unui management integrat al deșeurilor în sectorul 5”, cu modificările și completările ulterioare",
+   "url": "https://sector5.ro/hotararea-nr-150-31-05-2023pentru-modificarea-hotararii-consiliului-local-al-sectorului-5-al-municipiului-bucuresti-nr-215-29-11-2022-privind-aprobarea-depunerii-proiectului-si-a-studiului-de-fezabi/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-150-31.05.2023.pdf",
+     "sha256": "aed72bd7945ff12981281e280a4ca4da9817789730f522951218fe2a1056f463"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-151-2023",
+   "path": "local/bucuresti/sector-5/2023/151",
+   "short": "HCLS5 nr. 151/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 151/2023 privind solicitarea acordării împuternicirii Consiliului Local Sector 5 de către Consiliului General al Municipiului București, în vederea încheierii unui Acord de Cooperare între Sectorul 5 al Municipiului București, România și Satul Caracui, Raionul Hîncești, Republica Moldova",
+   "url": "https://sector5.ro/hotararea-nr-151-31-05-2023-privind-solicitarea-acordarii-imputernicirii-consiliului-local-sector-5-de-catre-consiliului-general-al-municipiului-bucuresti-in-vederea-incheierii-unui-acord-de-coopera/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-151-31.05.2023.pdf",
+     "sha256": "1b964948e42e3cbe79419da3ed6d3bd65661d1e658917f7d23f45864a1f0dfef"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-152-2023",
+   "path": "local/bucuresti/sector-5/2023/152",
+   "short": "HCLS5 nr. 152/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 152/2023 privind solicitarea acordării împuternicirii Consiliului Local Sector 5 de către Consiliului General al Municipiului București, în vederea încheierii unui Acord de Cooperare între Sectorul 5 al Municipiului București , România și Comuna Lipoveni, Raionul Cimișlia, Republica Moldova",
+   "url": "https://sector5.ro/hotararea-nr-152-31-05-2023-privind-solicitarea-acordarii-imputernicirii-consiliului-local-sector-5-de-catre-consiliului-general-al-municipiului-bucuresti-in-vederea-incheierii-unui-acord-de-coopera/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-152-31.05.2023.pdf",
+     "sha256": "e23fb642db4a46110a20c23a5527df13807975e04b9b51477d7fee67c76144d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-153-2023",
+   "path": "local/bucuresti/sector-5/2023/153",
+   "short": "HCLS5 nr. 153/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 153/2023 privind solicitarea acordării împuternicirii Consiliului Local Sector 5 de către Consiliului General al Municipiului București, în vederea încheierii unui Acord de Cooperare între Sectorul 5 al Municipiului București , România și Satul Haragîș, Raionul Cantemir, Republica Moldova",
+   "url": "https://sector5.ro/hotararea-nr-153-31-05-2023-privind-solicitarea-acordarii-imputernicirii-consiliului-local-sector-5-de-catre-consiliului-general-al-municipiului-bucuresti-in-vederea-incheierii-unui-acord-de-coopera/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-153-31.05.2023.pdf",
+     "sha256": "efeeded081cb835127d2fd1a32e5300d4c8c6d80b0d1972428308ba8517177b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-154-2023",
+   "path": "local/bucuresti/sector-5/2023/154",
+   "short": "HCLS5 nr. 154/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 154/2023 privind solicitarea acordării împuternicirii Consiliului Local Sector 5 de către Consiliului General al Municipiului București, în vederea încheierii unui Acord de Cooperare între Sectorul 5 al Municipiului București , România și Comuna Gălești, Raionul Strășeni, Republica Moldova",
+   "url": "https://sector5.ro/hotararea-nr-154-31-05-2023-privind-solicitarea-acordarii-imputernicirii-consiliului-local-sector-5-de-catre-consiliului-general-al-municipiului-bucuresti-in-vederea-incheierii-unui-acord-de-coopera/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-154-31.05.2023.pdf",
+     "sha256": "58a3ef04fb344039bdae84612b7c26b46ff47f9fa4cdc2dc1b1b89df92b4e179"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-155-2023",
+   "path": "local/bucuresti/sector-5/2023/155",
+   "short": "HCLS5 nr. 155/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 155/2023 Privind solicitarea acordării împuternicirii Consiliului Local Sector 5 de către Consiliului General al Municipiului București, în vederea încheierii unui Acord de Cooperare între Sectorul 5 al Municipiului București , România și Satul Săiți, Raionul Căușeni, Republica Moldova",
+   "url": "https://sector5.ro/hotararea-nr-155-31-05-2023-privind-solicitarea-acordarii-imputernicirii-consiliului-local-sector-5-de-catre-consiliului-general-al-municipiului-bucuresti-in-vederea-incheierii-unui-acord-de-coopera/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-155-31.05.2023.pdf",
+     "sha256": "24067df9a7c67c487825305c66874b3b40f74129c0cf78962fb711a469f5fdb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-156-2023",
+   "path": "local/bucuresti/sector-5/2023/156",
+   "short": "HCLS5 nr. 156/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 156/2023 Privind solicitarea acordării împuternicirii Consiliului Local Sector 5 de către Consiliului General al Municipiului București, în vederea încheierii unui Acord de Cooperare între Sectorul 5 al Municipiului București , România și Comuna Măcărești, Raionul Unghieni,Republica Moldova",
+   "url": "https://sector5.ro/hotararea-nr-156-31-05-2023-privind-solicitarea-acordarii-imputernicirii-consiliului-local-sector-5-de-catre-consiliului-general-al-municipiului-bucuresti-in-vederea-incheierii-unui-acord-de-coopera/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-156-31.05.2023.pdf",
+     "sha256": "b2f5312d6acb1bcda24a007f108b16c70bb95def4c5eb34fac8b65dcc6f00c01"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-157-2023",
+   "path": "local/bucuresti/sector-5/2023/157",
+   "short": "HCLS5 nr. 157/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 157/2023 privind aprobarea Planului de Reorganizare a activității societății ECONOMAT SECTOR 5 SRL",
+   "url": "https://sector5.ro/hotararea-nr-157-29-06-2023-privind-aprobarea-planului-de-reorganizare-a-activitatii-societatii-economat-sector-5-srl/",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/06/HCL-S5-nr.-157-29.06.2023.pdf",
+     "sha256": "4242ff1df8e8cb79873fb6e23f6be1f2ee03c059e9e5a941fd03c56d2728de97"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-158-2023",
+   "path": "local/bucuresti/sector-5/2023/158",
+   "short": "HCLS5 nr. 158/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 158/2023 pentru modificarea Hotărârii Consiliului Local al Sectorului 5 nr. 120/31.05.2023, privind aprobarea derulării și finanțării, din bugetul local al Sectorului 5, a proiectului Grădinița de vacanță în Sectorul 5, în perioada iulie – august 2023",
+   "url": "https://sector5.ro/hotararea-nr-158-29-06-2023-pentru-modificarea-hotararii-consiliului-local-al-sectorului-5-nr-120-31-05-2023-privind-aprobarea-derularii-si-finantarii-din-bugetul-local-al-sectorului-5-a-pro/",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/06/HCL-S5-nr.-158-29.06.2023.pdf",
+     "sha256": "084f024f1ea5364514fc3f4c60f5a1a7610dc07fde8e183c154cd48830a71939"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-159-2023",
+   "path": "local/bucuresti/sector-5/2023/159",
+   "short": "HCLS5 nr. 159/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 159/2023 pentru modificarea HotărâriiConsiliului Local al Sectorului 5 al Municipiului București nr.215/29.11.2022 privind aprobarea depunerii proiectului și a Studiuluide fezabilitate, indicatorilor tehnico-economici rezultați dinStudiul de fezabilitate, a unor obligații și a cheltuieliloraferente proiectului”Dezvoltarea infrastructurii de colectare pentruasigurarea unui management integrat al deșeurilor în sectorul 5”,cu modificările și completările ulterioare",
+   "url": "https://sector5.ro/hotararea-nr-159-24-07-2023-pentru-modificarea-hotarariiconsiliului-local-al-sectorului-5-al-municipiului-bucuresti-nr-215-29-11-2022-privind-aprobarea-depunerii-proiectului-si-a-studiuluide-fezabili/",
+   "versions": [
+    {
+     "from": "2023-07-24",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/07/HCL-S5-nr.-159-24.07.2023-1.pdf",
+     "sha256": "3dec28890e3178e43e4e266735b04240f3c2d535ad0bc8626232e38790ca3cb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-16-2023",
+   "path": "local/bucuresti/sector-5/2023/16",
+   "short": "HCLS5 nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 16/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-16-26.01.2023.pdf",
+     "sha256": "8f9da0926726b034716edec68c6a52f475d4710ed9c21cc57f36d8fdc1f2a657"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-160-2023",
+   "path": "local/bucuresti/sector-5/2023/160",
+   "short": "HCLS5 nr. 160/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 160/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-07-24",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/07/HCL-S5-nr.-160-24.07.2023-1.pdf",
+     "sha256": "91014024d744bd2e7f21ba62e1745dcbf9b81ccd63501e1060b1eff071a8d202"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-161-2023",
+   "path": "local/bucuresti/sector-5/2023/161",
+   "short": "HCLS5 nr. 161/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 161/2023 privind modificarea Hotărârii Consiliului Local nr. 225/28.12.2022 privind înființarea Administrației Dezvoltare Urbană Sector 5, cu modificările și completările ulterioare",
+   "url": "https://sector5.ro/hotararea-nr-161-31-07-2023-privind-modificarea-hotararii-consiliului-local-nr-225-28-12-2022-privind-infiintarea-administratiei-dezvoltare-urbana-sector-5-cu-modificarile-si-completarile-ulterioar/",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-161-31.07.2023.pdf",
+     "sha256": "9c248adf8ecc3e9e1320462ee6f34f5b50835ff288b3d7d124938df7006b1e1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-162-2023",
+   "path": "local/bucuresti/sector-5/2023/162",
+   "short": "HCLS5 nr. 162/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 162/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-162-31.07.2023.pdf",
+     "sha256": "2c887b5b46cc0a7d02e15eeae46a09c6bd8fb3ea889e4419cceddc607689177e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-163-2023",
+   "path": "local/bucuresti/sector-5/2023/163",
+   "short": "HCLS5 nr. 163/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 163/2023 privind aprobarea Planului de asigurare cu resurse umane, materiale și financiare necesare gestionării situațiilor de urgență pentru anul 2023",
+   "url": "https://sector5.ro/hotararea-nr-163-31-07-2023-privind-aprobarea-planului-de-asigurare-cu-resurse-umane-materiale-si-financiare-necesare-gestionarii-situatiilor-de-urgenta-pentru-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-163-31.07.2023.pdf",
+     "sha256": "80c6fef25759c19904c106bb0385d32b72483ed40fdb25f20b5b7ea50610e14a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-164-2023",
+   "path": "local/bucuresti/sector-5/2023/164",
+   "short": "HCLS5 nr. 164/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 164/2023 privind aprobarea derulării și finanțării, din bugetul local al Sectorului 5, a proiectului Elevi și profesori de 10 în Sectorul 5, ediția 2023",
+   "url": "https://sector5.ro/hotararea-nr-164-31-07-2023-privind-aprobarea-derularii-si-finantarii-din-bugetul-local-al-sectorului-5-a-proiectului-elevi-si-profesori-de-10-in-sectorul-5-editia-2023/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-164-31.07.2023.pdf",
+     "sha256": "c558fbbc5e686a7f8e8371e02bd85b8ecb21e77393f846a723441482bf4274d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-165-2023",
+   "path": "local/bucuresti/sector-5/2023/165",
+   "short": "HCLS5 nr. 165/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 165/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-165-31.07.2023.pdf",
+     "sha256": "7105b1c4c9bdeb8bce7107a4c3ee5d90a19f4060adc19d1b00f09b817adb0d76"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-166-2023",
+   "path": "local/bucuresti/sector-5/2023/166",
+   "short": "HCLS5 nr. 166/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 166/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-167-2023",
+   "path": "local/bucuresti/sector-5/2023/167",
+   "short": "HCLS5 nr. 167/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 167/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-167-31.07.2023.pdf",
+     "sha256": "c97b5a9fc3c698c403958b1a0cdf4027eca88dbf30470550a46de185c817caaf"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-168-2023",
+   "path": "local/bucuresti/sector-5/2023/168",
+   "short": "HCLS5 nr. 168/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 168/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-168-31.07.2023.pdf",
+     "sha256": "ec9d54352d5a19424b5223b248aa744912f89651641afa7732ec55340a5b34b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-169-2023",
+   "path": "local/bucuresti/sector-5/2023/169",
+   "short": "HCLS5 nr. 169/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 169/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-169-31.07.2023.pdf",
+     "sha256": "88eb06f53e33277952a63f502aea6cf08b035a7ac7d4cebf989be405ae1ec9d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-17-2023",
+   "path": "local/bucuresti/sector-5/2023/17",
+   "short": "HCLS5 nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 17/2023 privind modificarea Hotărârii Consiliului Local Sector 5 nr. 89 din 07.05.2020 privind aprobarea contractării de către Sectorul 5 al Municipiului București a unei finanțări rambursabile interne în valoare de până la 41 milioane lei pentru asigurarea fondurilor necesare reabilitării termice a 31 imobile situate în Sectorul 5, cu modificările și completările ulterioare",
+   "url": "https://sector5.ro/hotararea-nr-17-26-01-2023-privind-modificarea-hotararii-consiliului-local-sector-5-nr-89-din-07-05-2020-privind-aprobarea-contractarii-de-catre-sectorul-5-al-municipiului-bucuresti-a-unei-finantari/",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-17-26.01.2023.pdf",
+     "sha256": "e62d47a56ef494fd2586f8eab164368834ae83b9ac895ceda12dfd879888b769"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-170-2023",
+   "path": "local/bucuresti/sector-5/2023/170",
+   "short": "HCLS5 nr. 170/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 170/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-170-31.07.2023.pdf",
+     "sha256": "b3555d85df4b02410e5482967c9245cf72c8b2aaa161a44a0672c781317980d2"
+    }
+   ]
+  },
+  {
    "slug": "hcls5-171-2023",
    "path": "local/bucuresti/sector-5/2023/171",
    "short": "HCLS5 nr. 171/2023",
@@ -138,6 +1218,156 @@
    ]
   },
   {
+   "slug": "hcls5-172-2023",
+   "path": "local/bucuresti/sector-5/2023/172",
+   "short": "HCLS5 nr. 172/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 172/2023 privind aprobarea, implementarea și sustenabilitatea proiectului ”Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe din Sectorul 5 al Municipiului București” în vederea finanțării acestuia prin Programului Național de Redresare și Reziliență (PNRR)",
+   "url": "https://sector5.ro/hotararea-nr-172-31-07-2023-privind-aprobarea-implementarea-si-sustenabilitatea-proiectului-dotarea-cu-mobilier-materiale-didactice-si-echipamente-digitale-a-unitatilor-de-invatamant/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-172-31.07.2023.pdf",
+     "sha256": "15ad299a7f27acf7cfd1ed32831b9b299be304ca0f62cfd26de17eb140fc2d48"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-173-2023",
+   "path": "local/bucuresti/sector-5/2023/173",
+   "short": "HCLS5 nr. 173/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 173/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/09/HCL-173-31.08.2023.pdf",
+     "sha256": "fed988094479134fdfd4d2f062aa10f6a20662ea82fd59f598551c1071cfef53"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-174-2023",
+   "path": "local/bucuresti/sector-5/2023/174",
+   "short": "HCLS5 nr. 174/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 174/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/09/HCL-174-31.08.2023.pdf",
+     "sha256": "68a29b8d09984b0e30f44a30c36e823945ec5725ba413e5c3da132da77b3b049"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-175-2023",
+   "path": "local/bucuresti/sector-5/2023/175",
+   "short": "HCLS5 nr. 175/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 175/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/09/HCL-175-31.08.2023.pdf",
+     "sha256": "ee82d19924031bf5a84571e93ed029b49ee1761a280211a43ee54ca12d659e47"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-176-2023",
+   "path": "local/bucuresti/sector-5/2023/176",
+   "short": "HCLS5 nr. 176/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 176/2023 privind aprobarea contractării unei/unor finanțări rambursabile interne în valoare de până la 50.000.000 lei",
+   "url": "https://sector5.ro/hotararea-nr-176-31-08-2023-privind-aprobarea-contractarii-unei-unor-finantari-rambursabile-interne-in-valoare-de-pana-la-50-000-000-lei/",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/09/HCL-176-31.08.2023.pdf",
+     "sha256": "52baeefac2ac43f8afc6088746368c9e0ce23247a4db6b01f60c5cbb6e1b970a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-177-2023",
+   "path": "local/bucuresti/sector-5/2023/177",
+   "short": "HCLS5 nr. 177/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 177/2023 pentru modificarea Hotărârii Consiliului Local Sector 5 nr. 89/07.05.2020 privind aprobarea contractării de către Sectorul 5 al Municipiului București a unei finanțări rambursabile interne în valoare de până la 41 milioane lei pentru asigurarea fondurilor necesare reabilitării termice a 31 imobile situate în Sectorul 5, cu modificările și completările ulterioare",
+   "url": "https://sector5.ro/hotararea-nr-177-31-08-2023-pentru-modificarea-hotararii-consiliului-local-sector-5-nr-89-07-05-2020-privind-aprobarea-contractarii-de-catre-sectorul-5-al-municipiului-bucuresti-a-unei-finantari-ram/",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/09/HCL-177-31.08.2023.pdf",
+     "sha256": "bfa384fd07707bcc38a889656c39e484032e8b293b22f0dc03c47f260edef3ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-178-2023",
+   "path": "local/bucuresti/sector-5/2023/178",
+   "short": "HCLS5 nr. 178/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 178/2023 privind aprobarea, implementarea și sustenabilitatea proiectului CONSOLIDARE, REABILITARE, MODERNIZARE ŞI DOTARE CINEMA „CORSO” în vederea finanțării acestuia prin Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+   "url": "https://sector5.ro/hotararea-nr-178-31-08-2023-privind-aprobarea-implementarea-si-sustenabilitatea-proiectului-consolidare-reabilitare-modernizare-si-dotare-cinema-corso-in-vederea-finantarii-acest/",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/09/HCL-178-31.08.2023.pdf",
+     "sha256": "577ce3c605dcd4b9262299971a6ff70c5c28bfff0548ce4f8de625f2828a9960"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-179-2023",
+   "path": "local/bucuresti/sector-5/2023/179",
+   "short": "HCLS5 nr. 179/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 179/2023 privind aprobarea, implementarea și sustenabilitatea proiectului “Lucrări de reabilitare, eficientizare energetică şi modernizare construcţie existentă Şcoala Gimnazială Nr. 127, Strada Munţii Carpaţi, Nr. 68, Sector 5, Bucureşti – CORP A” în vederea finanțării acestuia prin Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+   "url": "https://sector5.ro/hotararea-nr-179-31-08-2023-privind-aprobarea-implementarea-si-sustenabilitatea-proiectului-lucrari-de-reabilitare-eficientizare-energetica-si-modernizare-constructie-existenta-scoala-gimn/",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/09/HCL-179-31.08.2023.pdf",
+     "sha256": "471fa79a1ffa22092d7772891a5c7e6dff840bcfad234fe1b53bac79485f6b10"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-18-2023",
+   "path": "local/bucuresti/sector-5/2023/18",
+   "short": "HCLS5 nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 18/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-18-26.01.2023.pdf",
+     "sha256": "6ba13b6fe6bdb18af667b257899b2ac569968cd49289024072d720a92d53f72a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-182-2023",
+   "path": "local/bucuresti/sector-5/2023/182",
+   "short": "HCLS5 nr. 182/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 182/2023 pentru modificarea Hotărârii Consiliului Local Sector 5 nr. 217/29.11.2022 privind aprobarea contractării unei/unor finanțări rambursabile interne în valoare de până la 100.000.000 lei, în vederea realizării investițiilor publice de interes local",
+   "url": "https://sector5.ro/hotararea-nr-182-31-08-2023-pentru-modificarea-hotararii-consiliului-local-sector-5-nr-217-29-11-2022-privind-aprobarea-contractarii-unei-unor-finantari-rambursabile-interne-in-valoare-de-pana-la-10/",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/09/HCL-182-31.08.2023.pdf",
+     "sha256": "9355b3164ec4c5ca969d1c23b293b499e1ed202a4e92ba5c9a21308b4b9e54c9"
+    }
+   ]
+  },
+  {
    "slug": "hcls5-183-2023",
    "path": "local/bucuresti/sector-5/2023/183",
    "short": "HCLS5 nr. 183/2023",
@@ -149,6 +1379,51 @@
      "units": 1,
      "source_url": "https://sector5.ro/media/2023/09/HCL-183-31.08.2023.pdf",
      "sha256": "809ec33053fe11f211fa9856df5791e7c69d0ff4953181c678b9cd0c9df00ae7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-184-2023",
+   "path": "local/bucuresti/sector-5/2023/184",
+   "short": "HCLS5 nr. 184/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 184/2023 pentru modificarea și completarea Hotărârii Consiliului Local al Sector 5 nr. 217/17.12.2020 privind delegarea gestiunii serviciilor publice de amenajare și întreținere a spațiilor verzi și a locurilor de joacă pentru copii aferente unităților de învățământ administrate de către Consiliul Local al Sectorului 5, cu completările ulterioare",
+   "url": "https://sector5.ro/hotararea-nr-184-31-08-2023-pentru-modificarea-si-completarea-hotararii-consiliului-local-al-sector-5-nr-217-17-12-2020-privind-delegarea-gestiunii-serviciilor-publice-de-amenajare-si-intretinere-a/",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/09/HCL-184-31.08.2023-1.pdf",
+     "sha256": "cf89336af96067c1bc1b24781ad6a086553e58787c5b2bd2c19b14d8f88e45fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-185-2023",
+   "path": "local/bucuresti/sector-5/2023/185",
+   "short": "HCLS5 nr. 185/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 185/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/09/HCL-185-31.08.2023.pdf",
+     "sha256": "37a0600de1c894dc5640681c93a116fd0323d3d5d638ba3fc172dccc2d269f6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-186-2023",
+   "path": "local/bucuresti/sector-5/2023/186",
+   "short": "HCLS5 nr. 186/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 186/2023 privind aprobarea încheierii unei convenții de colaborare între Direcția Generală de Asistență Socială și Protecția Copilului Sector 5 și Școala Gimnazială Nr.127 în scopul funcționării Centrului de Zi ,,Sfânta Ana”",
+   "url": "https://sector5.ro/hotararea-nr-186-31-08-2023-privind-aprobarea-incheierii-unei-conventii-de-colaborare-intre-directia-generala-de-asistenta-sociala-si-protectia-copilului-sector-5-si-scoala-gimnaziala-nr-127-in/",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/09/HCL-186-31.08.2023.pdf",
+     "sha256": "024e448ffdb61bf968d5f3595ec4baa9e1f114119b65ae67ad367b4f878f27eb"
     }
    ]
   },
@@ -183,6 +1458,741 @@
    ]
   },
   {
+   "slug": "hcls5-19-2023",
+   "path": "local/bucuresti/sector-5/2023/19",
+   "short": "HCLS5 nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 19/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-19-26.01.2023.pdf",
+     "sha256": "e20f53f07b858d1247d49dcbd8c5c6bb7d77f156cfda6f68f883584ed7c2d8e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-190-2023",
+   "path": "local/bucuresti/sector-5/2023/190",
+   "short": "HCLS5 nr. 190/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 190/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/09/HCL-190-31.08.2023.pdf",
+     "sha256": "79d4484ddf1c8948c3867815ab8f45fbe88445ecedd3e5b42ae68150371d1bd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-191-2023",
+   "path": "local/bucuresti/sector-5/2023/191",
+   "short": "HCLS5 nr. 191/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 191/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/09/HCL-191-31.08.2023.pdf",
+     "sha256": "f7f1e3c7cef0042ec17f8723861fa85f5e2e7ef171f1460aea704fa7b30c14df"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-192-2023",
+   "path": "local/bucuresti/sector-5/2023/192",
+   "short": "HCLS5 nr. 192/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 192/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/09/HCL-192-31.08.2023.pdf",
+     "sha256": "2ad6fcd5dc5404e2df348ac6c2ddfc5d144301caac171b1e3ea0c3035476596e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-193-2023",
+   "path": "local/bucuresti/sector-5/2023/193",
+   "short": "HCLS5 nr. 193/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 193/2023 privind implementarea și finanțarea proiectului Academia copiilor, în perioada 01 octombrie 2023 – 30 septembrie 2024",
+   "url": "https://sector5.ro/hotararea-nr-193-31-08-2023-privind-implementarea-si-finantarea-proiectului-academia-copiilor-in-perioada-01-octombrie-2023-30-septembrie-2024/",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/09/HCL-193-31.08.2023.pdf",
+     "sha256": "44dbf37fbbdaa338ed7d9137ad05206cc8dfedb2902c5c6ca2ce00cfb7ad1b89"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-2-2023",
+   "path": "local/bucuresti/sector-5/2023/2",
+   "short": "HCLS5 nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 2/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 al Sectorului 5 al Municipiului București",
+   "url": "https://sector5.ro/hotararea-nr-02-26-01-2023-privind-aprobarea-bugetului-de-venituri-si-cheltuieli-pe-anul-2023-al-sectorului-5-al-municipiului-bucuresti/",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-02-26.01.2023.pdf",
+     "sha256": "8550cddd16b855004bac291dc3ca38a36da73b9da9daa9db0b56a3f7c9afbd37"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-20-2023",
+   "path": "local/bucuresti/sector-5/2023/20",
+   "short": "HCLS5 nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 20/2023 privind aprobarea proiectului “Reabilitare și consolidare Gradinița nr. 269, str. Constantin Miculescu, nr. 12, Sector 5, București”",
+   "url": "https://sector5.ro/hotararea-nr-20-26-01-2023-privind-aprobarea-proiectului-reabilitare-si-consolidare-gradinita-nr-269-str-constantin-miculescu-nr-12-sector-5-bucuresti/",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-20-26.01.2023.pdf",
+     "sha256": "9bb62d43d27be20ab88e6936c3c99178f6c7c5fc8d68d041dcc773491be25f59"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-202-2023",
+   "path": "local/bucuresti/sector-5/2023/202",
+   "short": "HCLS5 nr. 202/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 202/2023 privind aprobarea raportului final al comisiei de negociere a chiriei și taxei de administrare, în vederea achiziției de servicii de închiriere și administrare, pe o perioadă de 5 ani, a contractului de închiriere și a contractului de administrare/mentenanță, pentru spațiul situate în strada Fabrica de Chibrituri, nr. 9-11, Sector 5, București, cu suprafață utilă de 9.927,15 mp",
+   "url": "https://sector5.ro/hcl-nr-201-18-09-2023/",
+   "versions": [
+    {
+     "from": "2023-09-18",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/09/HCL-nr.201-18.09.2023.pdf",
+     "sha256": "86ee0872591a746731cae355b6711afe7c27c1d861d9f4b525e95fe9435e7636"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-203-2023",
+   "path": "local/bucuresti/sector-5/2023/203",
+   "short": "HCLS5 nr. 203/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 203/2023 privind aprobarea Studiului de fezabilitate, a indicatorilor tehnico-economici, a unor obligații și a cheltuielilor aferente proiectului “Dezvoltarea mobilității nemotorizate prin investiții în infrastructura pentru bicicliști în Sectorul 5 al Municipiului București”",
+   "url": "https://sector5.ro/hotararea-nr-203-26-09-2023-privind-aprobarea-studiului-de-fezabilitate-a-indicatorilor-tehnico-economici-a-unor-obligatii-si-a-cheltuielilor-aferente-proiectului-dezvoltarea-mobilitatii-nemotori/",
+   "versions": [
+    {
+     "from": "2023-09-26",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/09/HCL-nr.-203-din-26.09.2023.pdf",
+     "sha256": "eda884a2085f40f080a1e6a8e2a0143d560d89ad8e694ce9098aaf6ac572bdf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-204-2023",
+   "path": "local/bucuresti/sector-5/2023/204",
+   "short": "HCLS5 nr. 204/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 204/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/10/HCL-204-28.09.2023.pdf",
+     "sha256": "429bacb4d9ec33785bd7ec3570a97b8b985a5fcba300d5b3ec52d7adf3b3c802"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-205-2023",
+   "path": "local/bucuresti/sector-5/2023/205",
+   "short": "HCLS5 nr. 205/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 205/2023 privind numirea consilierilor locali din cadrul Consiliului Local al Sectorului 5 în calitate de membri în consiliile de administrație ale unităților de învățământ preuniversitar de stat și particular din Sectorul 5, în anul școlar 2023-2024",
+   "url": "https://sector5.ro/hotararea-nr-205-28-09-2023-privind-numirea-consilierilor-locali-din-cadrul-consiliului-local-al-sectorului-5-in-calitate-de-membri-in-consiliile-de-administratie-ale-unitatilor-de-invatamant-preuniv/",
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/10/HCL-205-28.09.2023.pdf",
+     "sha256": "31c050323b17f83cd37e2f9cab97855288ea689d9b8d4f24c37659acb551fb83"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-206-2023",
+   "path": "local/bucuresti/sector-5/2023/206",
+   "short": "HCLS5 nr. 206/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 206/2023 privind numirea consilierilor locali din cadrul Consiliului Local al Sectorului 5 în calitate de membri în comisiile pentru evaluarea şi asigurarea calităţii educaţiei din unităţile de învăţământ preuniversitar de stat și particular din sectorul 5, în anul şcolar 2023-2024",
+   "url": "https://sector5.ro/hotararea-nr-206-28-09-2023-privind-numirea-consilierilor-locali-din-cadrul-consiliului-local-al-sectorului-5-in-calitate-de-membri-in-comisiile-pentru-evaluarea-si-asigurarea-calitatii-educatiei-din/",
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/10/HCL-206-28.09.2023.pdf",
+     "sha256": "c4279e870f54ca1f11dfb5115a8064a40e1e9e13252f68638eac2c78001adea9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-207-2023",
+   "path": "local/bucuresti/sector-5/2023/207",
+   "short": "HCLS5 nr. 207/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 207/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/10/HCL-207-28.09.2023.pdf",
+     "sha256": "7848e227ad47bfde475264518119766a1519dba6115aea970ef322659b6be871"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-208-2023",
+   "path": "local/bucuresti/sector-5/2023/208",
+   "short": "HCLS5 nr. 208/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 208/2023 pentru modificarea și completarea Hotărârii Consiliului Local Sector 5 nr. 34/26.02.2021 privind închirierea prin licitație publică a construcțiilor provizorii (chioșcuri) raportate la amplasamentul stabilit destinate comercializării presă, carte și flori pe raza Sectorului 5 al Municipiului București, cu modificările și completările ulterioare",
+   "url": "https://sector5.ro/hotararea-nr-208-28-09-2023-pentru-modificarea-si-completarea-hotararii-consiliului-local-sector-5-nr-34-26-02-2021-privind-inchirierea-prin-licitatie-publica-a-constructiilor-provizorii-chioscuri/",
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/10/HCL-208-28.09.2023.pdf",
+     "sha256": "956ea979295562421af6d2bd60b3a2c50eb8f9222500883f372278963ea954fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-209-2023",
+   "path": "local/bucuresti/sector-5/2023/209",
+   "short": "HCLS5 nr. 209/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 209/2023 privind aprobarea Planului de analiză și acoperire a riscurilor la nivelul Sectorului 5 al Municipiului București pentru anul 2023",
+   "url": "https://sector5.ro/hotararea-nr-209-28-09-2023-privind-aprobarea-planului-de-analiza-si-acoperire-a-riscurilor-la-nivelul-sectorului-5-al-municipiului-bucuresti-pentru-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/10/HCL-209-28.09.2023.pdf",
+     "sha256": "f4d775cfb5e73ed320fd7bbb4807bd12b85118d9ba7b5e5fd4e11703751448a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-21-2023",
+   "path": "local/bucuresti/sector-5/2023/21",
+   "short": "HCLS5 nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 21/2023 privind aprobarea proiectului “Reabilitare si consolidare Gradinita nr. 54, Calea Ferentari, nr. 96, Sector 5, București”",
+   "url": "https://sector5.ro/hotararea-nr-21-26-01-2023-privind-aprobarea-proiectului-reabilitare-si-consolidare-gradinita-nr-54-calea-ferentari-nr-96-sector-5-bucuresti/",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-21-26.01.2023.pdf",
+     "sha256": "c0ff93354de47d9404d539da34e167514806fe0ef73d324cdde134119f0b9634"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-210-2023",
+   "path": "local/bucuresti/sector-5/2023/210",
+   "short": "HCLS5 nr. 210/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 210/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/10/HCL-210-28.09.2023.pdf",
+     "sha256": "43604ec1ae766c9d585db7ddbff9e0538509968da9b2162e4bd007c3e17e3e42"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-211-2023",
+   "path": "local/bucuresti/sector-5/2023/211",
+   "short": "HCLS5 nr. 211/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 211/2023",
+   "url": "https://sector5.ro/hotararea-nr-211-28-09-2023-pentru-modificarea-h-c-l-sector-5-nr-210-11-11-2022-privind-reorganizarea-d-g-a-s-p-c-sector-5-cu-modificarile-si-completarile-ulterioare/",
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/10/HCL-211-28.09.2023.pdf",
+     "sha256": "96c182be39155161c4b9f837f497f4c8ec4f496da96a921e8916141d1ebb812b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-212-2023",
+   "path": "local/bucuresti/sector-5/2023/212",
+   "short": "HCLS5 nr. 212/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 212/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/10/HCL-212-28.09.2023.pdf",
+     "sha256": "1623de512cbc1e42ba1d8fcc9ef0f2db2c0afccc445cb5b156fd25d1a5f26103"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-213-2023",
+   "path": "local/bucuresti/sector-5/2023/213",
+   "short": "HCLS5 nr. 213/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 213/2023 pentru modificarea Hotărârii Consiliului Local Sector 5 nr.162/30.09.2021, privind desemnarea membrilor “Comisiei de Analiză a Cererilor și de Repartizare a Locuințelor”",
+   "url": "https://sector5.ro/hotararea-nr-213-28-09-2023-pentru-modificarea-hotararii-consiliului-local-sector-5-nr-162-30-09-2021-privind-desemnarea-membrilor-comisiei-de-analiza-a-cererilor-si-de-repartizare-a-locuintelor/",
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/10/HCL-213-28.09.2023.pdf",
+     "sha256": "75908337bdd3eb2ec8ea637046c7ae62f65fae6f9698a0fb586cb0132fb5ff51"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-214-2023",
+   "path": "local/bucuresti/sector-5/2023/214",
+   "short": "HCLS5 nr. 214/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 214/2023 privind încheierea unor Acte Adiționale la Contractele de asociere în participațiune încheiate de Administrația Piețelor Sector 5 și Economat Sector 5 SRL pentru Complexul Agroalimentar Piața George Coșbuc, Complexul Agroalimentar Piața 13 Septembrie și Piața Rahova",
+   "url": "https://sector5.ro/hotararea-nr-214-28-09-2023-privind-incheierea-unor-acte-aditionale-la-contractele-de-asociere-in-participatiune-incheiate-de-administratia-pietelor-sector-5-si-economat-sector-5-srl-pentru/",
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/10/HCL-214-28.09.2023.pdf",
+     "sha256": "9b6877df2f2f9a1e250dba3d85ff5127899f56cdbac7203af1edb176079b11bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-215-2023",
+   "path": "local/bucuresti/sector-5/2023/215",
+   "short": "HCLS5 nr. 215/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 215/2023 privind aprobarea derulării și finanțării, din bugetul local al Sectorului 5, a programului Școală după școală, în unitățile de învățământ preuniversitar de stat de nivel primar și secundar inferior (gimnazial) din Sectorul 5, în anul școlar 2023 – 2024",
+   "url": "https://sector5.ro/hotararea-nr-215-28-09-2023-privind-aprobarea-derularii-si-finantarii-din-bugetul-local-al-sectorului-5-a-programului-scoala-dupa-scoala-in-unitatile-de-invatamant-preuniversitar-de-stat-de-nivel/",
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/10/HCL-215-28.09.2023.pdf",
+     "sha256": "fddddeccb5ed6ede2ff4179c4ded19b34a9feb6ace6a9991af9cfe658b2b9489"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-216-2023",
+   "path": "local/bucuresti/sector-5/2023/216",
+   "short": "HCLS5 nr. 216/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 216/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/10/HCL-216-25.10.2023.pdf",
+     "sha256": "dbeca4d0496c38d3497dda3ee9e96abe3dcd7d7ee4879207b4438af65c040fd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-217-2023",
+   "path": "local/bucuresti/sector-5/2023/217",
+   "short": "HCLS5 nr. 217/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 217/2023 privind aprobarea Studiului de fezabilitate, a indicatorilor tehnico-economici, a unor obligații și a cheltuielilor aferente proiectului ”Mobilitate verde în Sectorul 5 al Municipiului Bucuresti – puncte de încărcare vehicule electrice”, depus prin Administrația Fondului pentru Mediu",
+   "url": "https://sector5.ro/hotararea-nr-217-25-10-2023-privind-aprobarea-studiului-de-fezabilitate-a-indicatorilor-tehnico-economici-a-unor-obligatii-si-a-cheltuielilor-aferente-proiectului-mobilitate-verde-in-secto/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/10/HCL-217-25.10.2023.pdf",
+     "sha256": "a71760f66eac662159a54fa1f51e016cf67aa21307011cfbb3abeaa09df68b05"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-218-2023",
+   "path": "local/bucuresti/sector-5/2023/218",
+   "short": "HCLS5 nr. 218/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 218/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/10/HCL-218-25.10.2023.pdf",
+     "sha256": "1affa35f91926e9087f93f4dd9cd49ba27e3be779cbc2a42f9675cb2c0534463"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-219-2023",
+   "path": "local/bucuresti/sector-5/2023/219",
+   "short": "HCLS5 nr. 219/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 219/2023 pentru modificarea Hotărârii Consiliului Local Sector 5 nr. 225/28.12.2022, privind înființarea Administrației Dezvoltare Urbană Sector 5, cu modificările și completările ulterioare",
+   "url": "https://sector5.ro/hotararea-nr-219-25-10-2023pentru-modificarea-hotararii-consiliului-local-sector-5-nr-225-28-12-2022-privind-infiintarea-administratiei-dezvoltare-urbana-sector-5-cu-modificarile-si-completarile-u/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/10/HCL-219-25.10.2023.pdf",
+     "sha256": "a48a9d6466d961c012aee49721afdb1538c75fedb73f75e51a6850481a69e283"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-22-2023",
+   "path": "local/bucuresti/sector-5/2023/22",
+   "short": "HCLS5 nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 22/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-22-26.01.2023.pdf",
+     "sha256": "caf2d28b42c0d0dd79dec017f95b8998fb4d6e99e86f2928ab8ac2fc39a8be90"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-220-2023",
+   "path": "local/bucuresti/sector-5/2023/220",
+   "short": "HCLS5 nr. 220/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 220/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/10/HCL-220-25.10.2023.pdf",
+     "sha256": "e1c708c292a48a77976b1aa857e1af2b4ac3bb1cbbc0a147733956c3a45de884"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-221-2023",
+   "path": "local/bucuresti/sector-5/2023/221",
+   "short": "HCLS5 nr. 221/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 221/2023 privind aprobarea Studiului de fezabilitate, a indicatorilor tehnico-economici, a unor obligații și a cheltuielilor aferente proiectului ”Locuințe nZeb pentru tineri în Sectorul 5 al Municipiului București”",
+   "url": "https://sector5.ro/hotararea-nr-221-25-10-2023privind-aprobarea-studiului-de-fezabilitate-a-indicatorilor-tehnico-economici-a-unor-obligatii-si-a-cheltuielilor-aferente-proiectului-locuinte-nzeb-pentru-tiner/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/10/HCL-221-25.10.2023.pdf",
+     "sha256": "1f1edf58ed800579a3bb5122122bbc4416f9befbdad30f351534bb61b5053187"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-222-2023",
+   "path": "local/bucuresti/sector-5/2023/222",
+   "short": "HCLS5 nr. 222/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 222/2023 privind aprobarea Strategiei de Dezvoltare Locală a Sectorului 5 al Municipiului București",
+   "url": "https://sector5.ro/hotararea-nr-222-25-10-2023-privind-aprobarea-strategiei-de-dezvoltare-locala-a-sectorului-5-al-municipiului-bucuresti/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/10/HCL-222-25.10.2023.pdf",
+     "sha256": "6196b58041715be04784b2dc10d2dc87281780747868b45de36383cba6da5d9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-223-2023",
+   "path": "local/bucuresti/sector-5/2023/223",
+   "short": "HCLS5 nr. 223/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 223/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/10/HCL-223-25.10.2023-1.pdf",
+     "sha256": "8b6f0de34527067d3fe2eb8859f14744c04762985f86471bdb47c6e66f02b27b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-224-2023",
+   "path": "local/bucuresti/sector-5/2023/224",
+   "short": "HCLS5 nr. 224/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 224/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/10/HCL-224-25.10.2023.pdf",
+     "sha256": "69c30d898cc1d00d8aca039c664cb32ec7792ecfa8787383dd6242a19d773c57"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-225-2023",
+   "path": "local/bucuresti/sector-5/2023/225",
+   "short": "HCLS5 nr. 225/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 225/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/10/HCL-225-25.10.2023.pdf",
+     "sha256": "3785bb23768abf83564316538fde42abc787fee705f7d96a70d1a47c2fc82227"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-226-2023",
+   "path": "local/bucuresti/sector-5/2023/226",
+   "short": "HCLS5 nr. 226/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 226/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/10/HCL-226-25.10.2023.pdf",
+     "sha256": "11deb69f4556e17ba29b7986eb0e497eb6560137f85e09c0bd104037bccd7e72"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-227-2023",
+   "path": "local/bucuresti/sector-5/2023/227",
+   "short": "HCLS5 nr. 227/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 227/2023 pentru modificarea Hotărârii Consiliului Local Sector 5 nr. 217/29.11.2022 privind aprobarea contractării unei/unor finanțări rambursabile interne în valoare de până la 100.000.000 lei, în vederea realizării investițiilor publice de interes local, cu modificările și completările ulterioare",
+   "url": "https://sector5.ro/hotararea-nr-227-17-11-2023-pentru-modificarea-hotararii-consiliului-local-sector-5-nr-217-29-11-2022-privind-aprobarea-contractarii-unei-unor-finantari-rambursabile-interne-in-valoare-de-pana/",
+   "versions": [
+    {
+     "from": "2023-11-17",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/11/HCL-227-17.11.2023.pdf",
+     "sha256": "f9ea1935ac5fcd4cad145ebdbd6304a53970bdf4b43d38be01957fe7fb699483"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-23-2023",
+   "path": "local/bucuresti/sector-5/2023/23",
+   "short": "HCLS5 nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 23/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-23-26.01.2023.pdf",
+     "sha256": "2050b39241a23b7249e31294924453907870cff4c464ead3146a7dfd697c4bae"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-237-2023",
+   "path": "local/bucuresti/sector-5/2023/237",
+   "short": "HCLS5 nr. 237/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 237/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/12/HCL-237-05.12.2023.pdf",
+     "sha256": "ddb1d53cdb51c3f5a90594904eaaeac754802730bb518e0585d669dfa24769b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-238-2023",
+   "path": "local/bucuresti/sector-5/2023/238",
+   "short": "HCLS5 nr. 238/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 238/2023 pentru modificarea și completarea Hotărârii Consiliului Local Sector 5 nr. 124/31.05.2023 privind aprobarea indicatorilor tehnico-economici, în urma Documentației de Avizare a Lucrărilor de Intervenție privind ”Reabilitare și modernizare Școala Gimnazială Petrache Poenaru, Strada Bacău, Nr. 1, Sector 5, București”",
+   "url": "https://sector5.ro/hotarare-consiliu-local-nr-238-05-12-2023/",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/12/HCL-238-05.12.2023.pdf",
+     "sha256": "6b1ed185bf2ccc351c03b2f55610ad60d408d5d5bfa20200bc3f3d0eccf011dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-239-2023",
+   "path": "local/bucuresti/sector-5/2023/239",
+   "short": "HCLS5 nr. 239/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 239/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/12/HCL-239-05.12.2023.pdf",
+     "sha256": "65284c0332574b72f1250b729619ae76deedbb8cac335078a1e9d280fc4a7e56"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-24-2023",
+   "path": "local/bucuresti/sector-5/2023/24",
+   "short": "HCLS5 nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 24/2023 privind aprobarea proiectului “Reabilitare și consolidare Grădinița nr. 244, Str. Humulești, nr. 31, Sector 5, București”",
+   "url": "https://sector5.ro/hotararea-nr-24-26-01-2023-privind-aprobarea-proiectului-reabilitare-si-consolidare-gradinita-nr-244-str-humulesti-nr-31-sector-5-bucuresti/",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-24-26.01.2023.pdf",
+     "sha256": "c409ace6a652bf12a7d035ab31b88b861e9e2d085cadfa1ccab1f5cc1b5f99c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-240-2023",
+   "path": "local/bucuresti/sector-5/2023/240",
+   "short": "HCLS5 nr. 240/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 240/2023 privind reorganizarea și aprobarea Organigramei, a Statului de funcții, a Regulamentului de Organizare și Funcționare și a grilei privind salariile de bază ale aparatului de specialitate al Primarului Sectorului 5",
+   "url": "https://sector5.ro/hotararea-nr-240-21-12-2023-privind-reorganizarea-si-aprobarea-organigramei-a-statului-de-functii-a-regulamentului-de-organizare-si-functionare-si-a-grilei-privind-salariile-de-baza-ale-apara/",
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/12/HCL-240-din-21.12.2023.pdf",
+     "sha256": "98de76f6f31a33b6a1ad46bac6177f57dc099d9aadcaefa673772dc06f8fd7e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-241-2023",
+   "path": "local/bucuresti/sector-5/2023/241",
+   "short": "HCLS5 nr. 241/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 241/2023 privind reorganizarea Direcției Generale de Asistență Socială și Protecția Copilului Sector 5",
+   "url": "https://sector5.ro/hotararea-nr-241-21-12-2023-privind-reorganizarea-directiei-generale-de-asistenta-sociala-si-protectia-copilului-sector-5/",
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/12/HCL-241-din-21.12.2023.pdf",
+     "sha256": "425670d259382ae58c6d233565acf270ec2e709e4d13f212d67efa461f073dff"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-242-2023",
+   "path": "local/bucuresti/sector-5/2023/242",
+   "short": "HCLS5 nr. 242/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 242/2023 pentru modificarea Hotărârii Consiliului Local Sector 5 nr. 205/11.11.2022 privind reorganizarea Complexului Multifuncțional ”Sf. Andrei”, cu modificările și completările ulterioare",
+   "url": "https://sector5.ro/hotararea-nr-242-21-12-2023-pentru-modificarea-hotararii-consiliului-local-sector-5-nr-205-11-11-2022-privind-reorganizarea-complexului-multifunctional-sf-andrei-cu-modificarile/",
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/12/HCL-242-din-21.12.2023.pdf",
+     "sha256": "79e64aa2cde1001ee0912532fdf45a1114a07f4fec7eaf4ce8b413044b6d8c0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-243-2023",
+   "path": "local/bucuresti/sector-5/2023/243",
+   "short": "HCLS5 nr. 243/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 243/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/12/HCL-243-din-21.12.2023.pdf",
+     "sha256": "d47ed1e9afd7ff3fc6110a0fa1ba34d8e5778cad846c200951b7c4b2eaec2ca4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-244-2023",
+   "path": "local/bucuresti/sector-5/2023/244",
+   "short": "HCLS5 nr. 244/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 244/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/12/HCL-244-din-21.12.2023.pdf",
+     "sha256": "bbfd3729c806ef4bcf17d7504b4590f025abc2d75d7bb4938cfb22fbabe2719a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-245-2023",
+   "path": "local/bucuresti/sector-5/2023/245",
+   "short": "HCLS5 nr. 245/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 245/2023 privind aprobarea Strategiei SMART CITY a Sectorului 5 al Municipiului București pentru perioada 2023 – 2030 realizată în cadrul proiectului ”Solu­ții digitale pentru Sectorul 5 al Municipiului București”, cod SMIS 155759",
+   "url": "https://sector5.ro/hotararea-nr-245-21-12-2023-privind-aprobarea-strategiei-smart-city-a-sectorului-5-al-municipiului-bucuresti-pentru-perioada-2023-2030-realizata-in-cadrul-proiectului/",
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/12/HCL-245-din-21.12.2023.pdf",
+     "sha256": "c414429a321c1cab7df102a31ff31d045db44d055d281523289f1be5b3d5b1ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-246-2023",
+   "path": "local/bucuresti/sector-5/2023/246",
+   "short": "HCLS5 nr. 246/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 246/2023 pentru modificarea Hotărârii Consiliului Local Sector 5 nr. 221/25.10.2023 privind aprobarea Studiului de fezabilitate, a indicatorilor tehnico-economici, a unor obligații și a cheltuielilor aferente proiectului ”Locuințe nZeb pentru tineri în Sectorul 5, al Municipiului București”",
+   "url": "https://sector5.ro/hotararea-nr-246-21-12-2023-pentru-modificarea-hotararii-consiliului-local-sector-5-nr-221-25-10-2023-privind-aprobarea-studiului-de-fezabilitate-a-indicatorilor-tehnico-economici-a-unor-obl/",
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/12/HCL-246-din-21.12.2023.pdf",
+     "sha256": "64a9851e120be2d2c6c10307958de899876a79875ea5aad8554afe03940117c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-247-2023",
+   "path": "local/bucuresti/sector-5/2023/247",
+   "short": "HCLS5 nr. 247/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 247/2023 pentru modificarea Hotărârii Consiliului Local al Sectorului 5 nr. 215/28.09.2023 privind aprobarea derulării și finanțării, din bugetul local al Sectorului 5, a programului Școală după școală, în unitățile de învățământ preuniversitar de stat de nivel primar și secundar inferior (gimnazial) din Sectorul 5, în anul școlar 2023 – 2024",
+   "url": "https://sector5.ro/hotararea-nr-247-21-12-2023-pentru-modificarea-hotararii-consiliului-local-al-sectorului-5-nr-215-28-09-2023-privind-aprobarea-derularii-si-finantarii-din-bugetul-local-al-sectoru/",
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/12/HCL-247-din-21.12.2023.pdf",
+     "sha256": "dee82c62f38853c6429b16c2bbcf7f4f3b99095dc6cdd21cff93e60b974e3f92"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-248-2023",
+   "path": "local/bucuresti/sector-5/2023/248",
+   "short": "HCLS5 nr. 248/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 248/2023 privind aprobarea indicatorilor tehnico-economici pentru reamenajare parcuri / locuri de joacă aflate pe raza administrativ teritorială a Sectorului 5",
+   "url": "https://sector5.ro/hotararea-nr-248-21-12-2023-privind-aprobarea-indicatorilor-tehnico-economici-pentru-reamenajare-parcuri-locuri-de-joaca-aflate-pe-raza-administrativ-teritoriala-a-sectorului-5/",
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/12/HCL-248-din-21.12.2023.pdf",
+     "sha256": "b945578ed411628f5ab3c55b9b99c5cd9645d190a92f5207b2d70a0032dec809"
+    }
+   ]
+  },
+  {
    "slug": "hcls5-249-2023",
    "path": "local/bucuresti/sector-5/2023/249",
    "short": "HCLS5 nr. 249/2023",
@@ -198,6 +2208,21 @@
    ]
   },
   {
+   "slug": "hcls5-25-2023",
+   "path": "local/bucuresti/sector-5/2023/25",
+   "short": "HCLS5 nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 25/2023 privind modificarea și completarea anexei la Hotărârea Consiliului Local Sector 5 nr. 64/10.04.2018 cu modificările și completările ulterioare, în vederea realizării obiectivelor de investitii ,,Reabilitare și consolidare Grădinița nr. 244, Str. Humulești, nr. 31, Sector 5, București”, ,,Reabilitare și consolidare Grădinița nr. 269, Str. Constantin Miculescu, nr. 12, Sector 5, București” și ,,Reabilitare și consolidare Grădinița nr. 54, Calea Ferentari, nr. 96, Sector 5, București”",
+   "url": "https://sector5.ro/hotararea-nr-25-26-01-2023-privind-modificarea-si-completarea-anexei-la-hotararea-consiliului-local-sector-5-nr-64-10-04-2018-cu-modificarile-si-completarile-ulterioare-in-vederea-realizarii-obiect/",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-25-26.01.2023.pdf",
+     "sha256": "64a57123e6216dc2d583ea3b4af04328f4611bdc9ee9910ca4c28d78f501f924"
+    }
+   ]
+  },
+  {
    "slug": "hcls5-250-2023",
    "path": "local/bucuresti/sector-5/2023/250",
    "short": "HCLS5 nr. 250/2023",
@@ -209,6 +2234,21 @@
      "units": 1,
      "source_url": "https://sector5.ro/media/2023/12/HCL-250-din-21.12.2023.pdf",
      "sha256": "302eca10984aea99b9dacfd056820443a69b19371acc81c185072c79fc6d067d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-251-2023",
+   "path": "local/bucuresti/sector-5/2023/251",
+   "short": "HCLS5 nr. 251/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 251/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/12/HCL-251-din-21.12.2023.pdf",
+     "sha256": "5da8eeeed7172ff451f857cce31a02008b85f580613f607d655a2e64a80ebc8e"
     }
    ]
   },
@@ -243,6 +2283,621 @@
    ]
   },
   {
+   "slug": "hcls5-254-2023",
+   "path": "local/bucuresti/sector-5/2023/254",
+   "short": "HCLS5 nr. 254/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 254/2023 privind aprobarea Planului de acțiuni/lucrări de interes local pentru anul 2024 al Direcției Generale de Asistență Socială și Protecția Copilului Sector 5",
+   "url": "https://sector5.ro/hotararea-nr-254-21-12-2023-privind-aprobarea-planului-de-actiuni-lucrari-de-interes-local-pentru-anul-2024-al-directiei-generale-de-asistenta-sociala-si-protectia-copilului-sector-5/",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/12/HCL-254-din-21.12.2023.pdf",
+     "sha256": "46e526e5f567b122a413d4f9d74d3c10a80398dd2084cc60c60284388b31d331"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-255-2023",
+   "path": "local/bucuresti/sector-5/2023/255",
+   "short": "HCLS5 nr. 255/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 255/2023 privind aprobarea Programului de acțiune comunitară la nivelul Sectorului 5, aferent anului 2024",
+   "url": "https://sector5.ro/hotararea-nr-255-21-12-2023-privind-aprobarea-programului-de-actiune-comunitara-la-nivelul-sectorului-5-aferent-anului-2024/",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/12/HCL-255-din-21.12.2023.pdf",
+     "sha256": "7c4f9b2ddbdf6a58e277cb547be7cc6e62c1b2d15c7fe7e6e4807ba175f30b8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-256-2023",
+   "path": "local/bucuresti/sector-5/2023/256",
+   "short": "HCLS5 nr. 256/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 256/2023 privind aprobarea Listei cu situații deosebite pentru care se pot acorda beneficii sociale de la bugetul local al Sectorului 5, cu titlul de ajutor de urgență",
+   "url": "https://sector5.ro/hotararea-nr-256-21-12-2023-privind-aprobarea-listei-cu-situatii-deosebite-pentru-care-se-pot-acorda-beneficii-sociale-de-la-bugetul-local-al-sectorului-5-cu-titlul-de-ajutor-de-urgenta/",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/12/HCL-256-din-21.12.2023.pdf",
+     "sha256": "6dc80e44fef2b42362d1112fd562701c74c5c05d9860dd389134f2f4cab1eaec"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-257-2023",
+   "path": "local/bucuresti/sector-5/2023/257",
+   "short": "HCLS5 nr. 257/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 257/2023 privind aprobarea Regulamentului de Organizare și Funcționare al serviciului social Compartimentul pentru Sprijinirea VictimelorInfracțiunilor",
+   "url": "https://sector5.ro/hotararea-nr-257-21-12-2023-privind-aprobarea-regulamentului-de-organizare-si-functionare-al-serviciului-social-compartimentul-pentru-sprijinirea-victimelorinfractiunilor/",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/12/HCL-257-din-21.12.2023.pdf",
+     "sha256": "68e216892aee1d97b3be80cbc7e4ad2d5cd2b89bc8d9b7a79b2e4d2c1cf0987d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-258-2023",
+   "path": "local/bucuresti/sector-5/2023/258",
+   "short": "HCLS5 nr. 258/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 258/2023 privind aprobarea Regulamentului de Organizare și Funcționare al serviciului social Compartimentul Îngrijiri la Domiciliu -Unitatea de Îngrijiri la Domiciliu Persoane Vârstnice",
+   "url": "https://sector5.ro/hotararea-nr-258-21-12-2023-privind-aprobarea-regulamentului-de-organizare-si-functionare-al-serviciului-social-compartimentul-ingrijiri-la-domiciliu-unitatea-de-ingrijiri-la-domiciliu-persoane-vars/",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/12/HCL-258-din-21.12.2023.pdf",
+     "sha256": "ed83fc5920b3a292acf9bf5faa014c4bce0a364493f45617ad00fd17bece0c4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-259-2023",
+   "path": "local/bucuresti/sector-5/2023/259",
+   "short": "HCLS5 nr. 259/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 259/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/12/HCL-259-din-21.12.2023.pdf",
+     "sha256": "7e90bfbd34c7eedffc25fe73eeeebb02fd082ceb0fc7d1d03089b81f55ce1eed"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-26-2023",
+   "path": "local/bucuresti/sector-5/2023/26",
+   "short": "HCLS5 nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 26/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-26-26.01.2023.pdf",
+     "sha256": "ac0a25e6ee6bb2d65d9252e16f08b4cbcec7323b4fa414beecccb0f78bbdaca8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-260-2023",
+   "path": "local/bucuresti/sector-5/2023/260",
+   "short": "HCLS5 nr. 260/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 260/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/12/HCL-260-din-21.12.2023.pdf",
+     "sha256": "75e3119829ded3bb1c8d6e54b807e45d5fb5b7606346fda0f9e57c6687e76849"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-261-2023",
+   "path": "local/bucuresti/sector-5/2023/261",
+   "short": "HCLS5 nr. 261/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 261/2023 privind acordarea sprijinului financiar pentru unități de cult din Sectorul 5 (PAROHIA VOVIDENIA), în anul 2023",
+   "url": "https://sector5.ro/hotararea-nr-261-21-12-2023-privind-acordarea-sprijinului-financiar-pentru-unitati-de-cult-din-sectorul-5-parohia-vovidenia-in-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/12/HCL-261-din-21.12.2023.pdf",
+     "sha256": "f5ec66d2439b4d77210ec9d502b8fd7aa2986d5e7afb9af7f242d66d627bc1b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-262-2023",
+   "path": "local/bucuresti/sector-5/2023/262",
+   "short": "HCLS5 nr. 262/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 262/2023 privind acordarea sprijinului financiar pentru unități de cult din Sectorul 5 (PAROHIA TUTUROR SFINȚILOR ROMÂNI), în anul 2023",
+   "url": "https://sector5.ro/hotararea-nr-262-21-12-2023-privind-acordarea-sprijinului-financiar-pentru-unitati-de-cult-din-sectorul-5-parohia-tuturor-sfintilor-romani-in-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/12/HCL-262-din-21.12.2023.pdf",
+     "sha256": "32d65508f836ff845368007f4b3db97313015aa07ae147a629d0b45370b56b2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-263-2023",
+   "path": "local/bucuresti/sector-5/2023/263",
+   "short": "HCLS5 nr. 263/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 263/2023 privind acordarea sprijinului financiar pentru unități de cult din Sectorul 5 (PAROHIA ACOPERĂMÂNTUL MAICII DOMNULUI – FERENTARI), în anul 2023",
+   "url": "https://sector5.ro/hotararea-nr-263-21-12-2023-privind-acordarea-sprijinului-financiar-pentru-unitati-de-cult-din-sectorul-5-parohia-acoperamantul-maicii-domnului-ferentari-in-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/12/HCL-263-din-21.12.2023.pdf",
+     "sha256": "6a4f8c89a62cd5fab3fe9f4adb9dc650fea0ac40da00a750198e161b43447bd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-264-2023",
+   "path": "local/bucuresti/sector-5/2023/264",
+   "short": "HCLS5 nr. 264/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 264/2023 privind acordarea sprijinului financiar pentru unități de cult din Sectorul 5 (PARACLISUL ADORMIREA MAICII DOMNULUI – Spitalul Universitar de Urgență București), în anul 2023",
+   "url": "https://sector5.ro/hotararea-nr-264-21-12-2023-privind-acordarea-sprijinului-financiar-pentru-unitati-de-cult-din-sectorul-5-paraclisul-adormirea-maicii-domnului-spitalul-universitar-de-urgenta-bucuresti-i/",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/12/HCL-264-din-21.12.2023.pdf",
+     "sha256": "92304e3fae7b60a087fef31ad5b09d407cf340ed14989b2428a576684107a272"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-265-2023",
+   "path": "local/bucuresti/sector-5/2023/265",
+   "short": "HCLS5 nr. 265/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 265/2023 privind reorganizarea și aprobarea Organigramei, a Statului de funcții și a Regulamentului de Organizare și Funcționare ale Direcției de Impozite și Taxe Locale a Sectorului 5, instituție publică aflată în subordinea Consiliului Local al Sectorului 5",
+   "url": "https://sector5.ro/hotararea-nr-265-21-12-2023-privind-reorganizarea-si-aprobarea-organigramei-a-statului-de-functii-si-a-regulamentului-de-organizare-si-functionare-ale-directiei-de-impozite-si-taxe-locale-a-sectorul/",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/12/HCL-265-din-21.12.2023-1.pdf",
+     "sha256": "1a0a9e1b67229662f8392583cf7e2425c78b317678dec8ddbaddd5ed9d11738a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-266-2023",
+   "path": "local/bucuresti/sector-5/2023/266",
+   "short": "HCLS5 nr. 266/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 266/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/12/HCL-266-din-21.12.2023.pdf",
+     "sha256": "8865973d298f35f690a00a894ad12297a165e4dfb6108af2eb5d215c83e47bc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-267-2023",
+   "path": "local/bucuresti/sector-5/2023/267",
+   "short": "HCLS5 nr. 267/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 267/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/12/HCL-267-din-21.12.2023.pdf",
+     "sha256": "1815926909d24e519eae7671c3bf5982377911a137f5cbbf7bfe1d917299ac71"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-268-2023",
+   "path": "local/bucuresti/sector-5/2023/268",
+   "short": "HCLS5 nr. 268/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 268/2023 privind aprobarea Metodologiei de lucru în vederea acordării beneficiilor sociale cu titlul de ajutor de urgență din bugetul local al Sectorului 5",
+   "url": "https://sector5.ro/hotararea-nr-268-21-12-2023-privind-aprobarea-metodologiei-de-lucru-in-vederea-acordarii-beneficiilor-sociale-cu-titlul-de-ajutor-de-urgenta-din-bugetul-lo/",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/12/HCL-268-din-21.12.2023.pdf",
+     "sha256": "73c17804bddbdbfb9f048d637ed06e933e9d2b5ecc6e7ecfe7cd40e92c4ab246"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-269-2023",
+   "path": "local/bucuresti/sector-5/2023/269",
+   "short": "HCLS5 nr. 269/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 269/2023 privind aprobarea Metodologiei de lucru în vederea acordării beneficiilor sociale cu titlul de ajutor de urgență pentru plata chiriei din bugetul local al Sectorului 5",
+   "url": "https://sector5.ro/hotararea-nr-269-21-12-2023-privind-aprobarea-metodologiei-de-lucru-in-vederea-acordarii-beneficiilor-sociale-cu-titlul-de-ajutor-de-urgenta-pentru-plata-chiriei-din-bugetul-local-al-sectorului-5/",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/12/HCL-269-din-21.12.2023.pdf",
+     "sha256": "ee03673eff688b06ddc58502c29279dfe437eb1684a87d2022ea65fae62d5d76"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-27-2023",
+   "path": "local/bucuresti/sector-5/2023/27",
+   "short": "HCLS5 nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 27/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-27-26.01.2023.pdf",
+     "sha256": "a9cf187040a5994cf2a78907344d178135d488910a2126198d81368890b64aed"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-270-2023",
+   "path": "local/bucuresti/sector-5/2023/270",
+   "short": "HCLS5 nr. 270/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 270/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/12/HCL-270-din-21.12.2023.pdf",
+     "sha256": "61ec7ff861b77c21ecb461e6e79cc3dbc40b86e9b01cb2a62642678757e3d1cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-271-2023",
+   "path": "local/bucuresti/sector-5/2023/271",
+   "short": "HCLS5 nr. 271/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 271/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/12/HCL-271-din-21.12.2023.pdf",
+     "sha256": "0217dace8e9439a348d54cb228d6d5fe42a44d31543fbf036af165b3bee1e654"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-272-2023",
+   "path": "local/bucuresti/sector-5/2023/272",
+   "short": "HCLS5 nr. 272/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 272/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/12/HCL-272-27.12.2023.pdf",
+     "sha256": "be1b625d9bef660a786387aa3e538996f27e19169e0b6aa4bef3d68e9f7b1f8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-29-2023",
+   "path": "local/bucuresti/sector-5/2023/29",
+   "short": "HCLS5 nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 29/2023 privind aprobarea Calendarului de proiecte al Complexului Multifuncțional „Sf. Andrei“ pentru anul 2023",
+   "url": "https://sector5.ro/hotararea-nr-29-26-01-2023-privind-aprobarea-calendarului-de-proiecte-al-complexului-multifunctional-sf-andrei-pentru-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-29-26.01.2023.pdf",
+     "sha256": "ec8fa511917327d9e4f8aac190633febb32fd20cdcbb0d8500d5ccea2d3f5c82"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-3-2023",
+   "path": "local/bucuresti/sector-5/2023/3",
+   "short": "HCLS5 nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 3/2023 privind aprobarea reţelei şcolare a unităţilor de învăţământ preuniversitar de stat şi particulare cu personalitate juridică din sectorul 5 al Municipiului Bucureşti, pentru anul şcolar 2023-2024",
+   "url": "https://sector5.ro/hotararea-nr-03-26-01-2023privind-aprobarea-retelei-scolare-a-unitatilor-de-invatamant-preuniversitar-de-stat-si-particulare-cu-personalitate-juridica-din-sectorul-5-al-municipiului-bucuresti-pentru/",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-03-26.01.2023.pdf",
+     "sha256": "b3fdf35fc7348e5544e06af21099902f28803efd332c302ee36c0743d6cc99a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-30-2023",
+   "path": "local/bucuresti/sector-5/2023/30",
+   "short": "HCLS5 nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 30/2023 pentru modificarea și completarea Hotărârii 168/06.10.2022, privind solicitarea acordului Consiliului General al Municipiului București pentru împuternicirea expresă a Consiliului Local al Sectorului 5 de a hotărî cu privire la asocierea dintre Sectorul 5 al Municipiului București cu Municipiul Bucureşti, Sectorul 1 al Municipiului Bucureşti, Sectorul 2 al Municipiului Bucureşti, Sectorul 3 al Municipiului Bucureşti, Sectorul 4 al Municipiului Bucureşti şi Sectorul 6 al Municipiului Bucureşti pentru realizarea proiectului „Sistem ITS integrat Smart&Green Mobility pentru regiunea București-Ilfov – Informarea călătorilor în stațiile de transport public”, prin intermediul Planului Naţional de Redresare şi Rezilienţă, Componenta C10 – Fondul local, Axa I.1.2",
+   "url": "https://sector5.ro/hotararea-nr-30-26-01-2023-pentru-modificarea-si-completarea-hotararii-168-06-10-2022-privind-solicitarea-acordului-consiliului-general-al-municipiului-bucuresti-pentru-imputernicirea-expresa-a-cons/",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-30-26.01.2023.pdf",
+     "sha256": "77e5fc2025e74b0f56410962b314e6bbd2a1c35231051a7327ceb4b447498bb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-31-2023",
+   "path": "local/bucuresti/sector-5/2023/31",
+   "short": "HCLS5 nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 31/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-31-07.02.2023.pdf",
+     "sha256": "6adb8c4d3a6a268da228bd1b7bce2da193a03d8bd45937c86ba447636a058aba"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-32-2023",
+   "path": "local/bucuresti/sector-5/2023/32",
+   "short": "HCLS5 nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 32/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-32-07.02.2023.pdf",
+     "sha256": "886931b3397ee5ec6c1c1f9b4bed4329b901e78e9d737c1486181f47d673a0d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-33-2023",
+   "path": "local/bucuresti/sector-5/2023/33",
+   "short": "HCLS5 nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 33/2023 pentru modificarea și completarea Hotărârii Consiliului Local al Sectorului 5 nr. 99/04.08.2022, cu modificările ulterioare, privind aprobarea derulării și finanțării, din bugetul local al Sectorului 5, a programului Școală după școală, în unitățile de învățământ preuniversitar de stat de nivel primar și secundar inferior din Sectorul 5, în anul școlar 2022 – 2023",
+   "url": "https://sector5.ro/hotararea-nr-33-07-02-2023-pentru-modificarea-si-completarea-hotararii-consiliului-local-al-sectorului-5-nr-99-04-08-2022-cu-modificarile-ulterioare-privind-aprobarea-derularii-si-finantarii-din/",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-33-07.02.2023.pdf",
+     "sha256": "729bafed9a64b64d965d0db7efbf28c2a5d3fa0b3937b9d7d6d01f4b58ce3162"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-34-2023",
+   "path": "local/bucuresti/sector-5/2023/34",
+   "short": "HCLS5 nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 34/2023 privind aprobarea tipului de suport alimentar acordat elevilor Şcolii Gimnaziale Petrache Poenaru, în cadrul Programului-pilot de acordare a unui suport alimentar pentru preșcolarii și elevii din 450 de unități de învățământ preuniversitar de stat, precum și a valorii zilnice a acestuia",
+   "url": "https://sector5.ro/hotararea-nr-34-07-02-2023-privind-aprobarea-tipului-de-suport-alimentar-acordat-elevilor-scolii-gimnaziale-petrache-poenaru-in-cadrul-programului-pilot-de-acordare-a-unui-suport-alimentar-pentru-pr/",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-34-07.02.2023.pdf",
+     "sha256": "084d24dc82aed3699a5bacbd84d8785ebbf962655fcb2aaec3db4e59af57c99e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-35-2023",
+   "path": "local/bucuresti/sector-5/2023/35",
+   "short": "HCLS5 nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 35/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-35-28.02.2023.pdf",
+     "sha256": "3cfcb0fd450677ba41ca1c8d11f8db13cb09ffdd28e62e99c635e65b848d0314"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-36-2023",
+   "path": "local/bucuresti/sector-5/2023/36",
+   "short": "HCLS5 nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 36/2023 pentru solicitarea Consiliului General al Municipiului București de emitere a unei hoărâri privind solicitarea către Guvernul României pentru transmiterea unei cote părți a imobilului situat în Șoseaua Viilor, nr. 38, sector 5, înscris în cartea funciară sub numărul 235061 din domeniul public al statului și administrarea Ministerului Educației și Cercetării, în domeniul public al Municipiului București și administrarea Sectorului 5",
+   "url": "https://sector5.ro/hotararea-nr-36-28-02-2023-pentru-solicitarea-consiliului-general-al-municipiului-bucuresti-de-emitere-a-unei-hoarari-privind-solicitarea-catre-guvernul-romaniei-pentru-transmiterea-unei-cote-p/",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-36-28.02.2023.pdf",
+     "sha256": "ee2c1d857d4a6a5d114b414d5d9d062a4cd1df2cd45c53ca3459e87c8fae0b99"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-37-2023",
+   "path": "local/bucuresti/sector-5/2023/37",
+   "short": "HCLS5 nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 37/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-37-28.02.2023.pdf",
+     "sha256": "5d1b27359a5f104076d10cd0880c197d6d62a0d6676573152a7cea4f5727b572"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-38-2023",
+   "path": "local/bucuresti/sector-5/2023/38",
+   "short": "HCLS5 nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 38/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-38-23.02.2023.pdf",
+     "sha256": "ebe1470c6203eb58f7404494988af3fd8804391ef6d7b26288418270f0b3fddd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-39-2023",
+   "path": "local/bucuresti/sector-5/2023/39",
+   "short": "HCLS5 nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 39/2023 privind aprobarea bugetului de venituri și cheltuieli pentru anul financiar 2023 al Societății Amenajare Edilitară Sector 5 S.R.L, Societății Salubrizare Sector 5 S.A, Societății Infrastructură S5 S.A și al S.C Economat Sector 5 S.R.L",
+   "url": "https://sector5.ro/hotararea-nr-39-28-02-2023-privind-aprobarea-bugetului-de-venituri-si-cheltuieli-pentru-anul-financiar-2023-al-societatii-amenajare-edilitara-sector-5-s-r-l-societatii-salubrizare-sector-5-s-a-soci/",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-39-28.02.2023.pdf",
+     "sha256": "e6478168d29a3929c4c246a367ec4eed754d6b92f44edfd5781e50f10638e443"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-4-2023",
+   "path": "local/bucuresti/sector-5/2023/4",
+   "short": "HCLS5 nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 4/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-04-26.01.2023.pdf",
+     "sha256": "6f3f657ddcd09f8c5c9f802dfb5cfd4e4864bb3d78987eea8f5e103c383e0536"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-40-2023",
+   "path": "local/bucuresti/sector-5/2023/40",
+   "short": "HCLS5 nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 40/2023 privind rectificarea bugetului de venituri și cheltuieli pe anul 2023 al Sectorului 5 al Municipiului București aprobat prin H.C.L nr. 02/26.01.2023",
+   "url": "https://sector5.ro/hotararea-nr-40-28-02-2023-privind-rectificarea-bugetului-de-venituri-si-cheltuieli-pe-anul-2023-al-sectorului-5-al-municipiului-bucuresti-aprobat-prin-h-c-l-nr-02-26-01-2023/",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-40-28.02.2023.pdf",
+     "sha256": "031858c64e5dfca839f56d11bce0d3ac02030fc9e2201a8763cb76086b950bdc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-41-2023",
+   "path": "local/bucuresti/sector-5/2023/41",
+   "short": "HCLS5 nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 41/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-41-28.02.2023.pdf",
+     "sha256": "34af934719a02034a712ca0753c257b56e4f8ec44dfd693d6c0890314edb1119"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-42-2023",
+   "path": "local/bucuresti/sector-5/2023/42",
+   "short": "HCLS5 nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 42/2023 privind aprobarea contractării unei/unor finanțări rambursabile externe în valoare de până la 53.000.000 Euro",
+   "url": "https://sector5.ro/hotararea-nr-42-28-02-2023-privind-aprobarea-contractarii-unei-unor-finantari-rambursabile-externe-in-valoare-de-pana-la-53-000-000-euro/",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-42-28.02.2023.pdf",
+     "sha256": "ffdc888be6b7921227321c5ee18d5ae73afe605555554e38d235795b5aec43a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-43-2023",
+   "path": "local/bucuresti/sector-5/2023/43",
+   "short": "HCLS5 nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 43/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-43-28.02.2023.pdf",
+     "sha256": "08bc75b69f8c7c29953b3163a8c097540de51fac65778851023c990924dfd1e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-44-2023",
+   "path": "local/bucuresti/sector-5/2023/44",
+   "short": "HCLS5 nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 44/2023 pentru abrogarea Hotărârii Consiliului Local al Sectorului 5 nr. 78/27.06.2022 privind aprobarea încheierii unui Protocol de colaborare între Sectorul 5 al Municipiului București, Grădinița Nr. 34 și Școala Gimnazială Nr. 2, în scopul realizării proiectului #Fapte: Înființare grupe de antepreșcolari la Grădinița Nr. 54, Grădinița Nr. 34 și Grădinița Nr. 245",
+   "url": "https://sector5.ro/hotararea-nr-44-28-02-2023-pentru-abrogarea-hotararii-consiliului-local-al-sectorului-5-nr-78-27-06-2022-privind-aprobarea-incheierii-unui-protocol-de-colaborare-intre-sectorul-5-al-municipiului-buc/",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-44-28.02.2023.pdf",
+     "sha256": "38fa5ff20c89fa4a23a5e4b3456bc1b25bdec3c4b8b7046be4e1ce53f5ee73f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-45-2023",
+   "path": "local/bucuresti/sector-5/2023/45",
+   "short": "HCLS5 nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 45/2023 privind solicitarea Consiliului General al Municipiului București pentru împuternicirea expresă a Consiliului Local al Sectorului 5 să hotărască cu privire la asocierea Sectorului 5 al Municipiului București cu Ministerul Apărării Naționale- UM.02545 în vederea finanțării și realizării în comun a lucrărilor de interes public local pentru modernizarea, amenajarea, regenerarea urbană și întreținerea terenului cu nr cadastral 234263 porțiunea cuprinsă între punctele topo 10x23x33x23, de pe raza administrativ-teritorială a Sectorului 5 al Municipiului București",
+   "url": "https://sector5.ro/hotararea-nr-45-28-02-2023-privind-solicitarea-consiliului-general-al-municipiului-bucuresti-pentru-imputernicirea-expresa-a-consiliului-local-al-sectorului-5-sa-hotarasca-cu-privire-la-asocierea-sec/",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-45-28.02.2023.pdf",
+     "sha256": "710fe546f04e95918e01fb1d98cf16c48a72d2f2b5f53c56b93a101ee7283bc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-46-2023",
+   "path": "local/bucuresti/sector-5/2023/46",
+   "short": "HCLS5 nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 46/2023 privind actualizarea indicatorilor tehnico-economici la faza de proiect tehnic și detalii de execuție, aprobați prin Hotărârea Consiliului Local Sector 5 nr. 68/27.06.2022 cu modificările ulterioare, în vederea creșterii performanței energetice pentru 24 blocuri de locuințe de pe raza Sectorului 5 al Municipiului București",
+   "url": "https://sector5.ro/hotararea-nr-46-28-02-2023-privind-actualizarea-indicatorilor-tehnico-economici-la-faza-de-proiect-tehnic-si-detalii-de-executie-aprobati-prin-hotararea-consiliului-local-sector-5-nr-68-27-06-2022/",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-46-28.02.2023.pdf",
+     "sha256": "337571d47ee5d1229da97fed1f79b400dba542787cc625e8449597df5f36a20a"
+    }
+   ]
+  },
+  {
    "slug": "hcls5-47-2023",
    "path": "local/bucuresti/sector-5/2023/47",
    "short": "HCLS5 nr. 47/2023",
@@ -254,6 +2909,36 @@
      "units": 1,
      "source_url": "https://sector5.ro/media/2023/08/HCL-47-28.02.2023.pdf",
      "sha256": "cbfd37e9fccd05c04f639f42455248266baa956e3f95bc05fd967e7c5607d9a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-48-2023",
+   "path": "local/bucuresti/sector-5/2023/48",
+   "short": "HCLS5 nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 48/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-48-28.02.2023.pdf",
+     "sha256": "35c260422cbc0de2aef807eebc15bdead8b3101c73c84642f19307fc9b9fdac0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-49-2023",
+   "path": "local/bucuresti/sector-5/2023/49",
+   "short": "HCLS5 nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 49/2023 privind aprobarea Regulamentului Comisei de Analiză a Cererilor și de Repartizare a Locuințelor constituită la nivelul Sectorului 5 prin H.C.L.S.5 nr.162/30.09.2021 pentru închirierea și administrarea locuințelor sociale sau a locuințelor din fondul locativ de stat, a extinderilor si repartizarea garajelor",
+   "url": "https://sector5.ro/hotararea-nr-49-28-02-2023-privind-aprobarea-regulamentului-comisei-de-analiza-a-cererilor-si-de-repartizare-a-locuintelor-constituita-la-nivelul-sectorului-5-prin-h-c-l-s-5-nr-162-30-09-2021-pentru/",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-49-28.02.2023.pdf",
+     "sha256": "729206419952ac513572d9c1d3a7571990506658054080b63b394eb8f2febd68"
     }
    ]
   },
@@ -288,6 +2973,141 @@
    ]
   },
   {
+   "slug": "hcls5-51-2023",
+   "path": "local/bucuresti/sector-5/2023/51",
+   "short": "HCLS5 nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 51/2023 privind aprobarea indicatorilor tehnico-economici în vederea realizării obiectivul de investiții „Corp nou clădire destinată programului Școală după școală în cadrul Școlii Gimnaziale nr. 2, Sector 5, București”",
+   "url": "https://sector5.ro/hotararea-nr-51-28-02-2023-privind-aprobarea-indicatorilor-tehnico-economici-in-vederea-realizarii-obiectivul-de-investitii-corp-nou-cladire-destinata-programului-scoala-dupa-scoala-in-cadru/",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-51-28.02.2023-.pdf",
+     "sha256": "d37989b8e6d0fd77893a616f46c670a8f099112699074a7369d73af73bea8e90"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-52-2023",
+   "path": "local/bucuresti/sector-5/2023/52",
+   "short": "HCLS5 nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 52/2023 privind aprobarea indicatorilor tehnico-economici în vederea obțineri autorizației de securitate la incendiu pentru 8 unități de învățământ preuniversitar de stat din Sectorul 5",
+   "url": "https://sector5.ro/hotararea-nr-52-28-02-2023-privind-aprobarea-indicatorilor-tehnico-economici-in-vederea-obtineri-autorizatiei-de-securitate-la-incendiu-pentru-8-unitati-de-invatamant-preuniversitar-de-stat-din-secto/",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-52-28.02.2023.pdf",
+     "sha256": "6bdd16962f33c438938badaa1bd794392f40e08fa0752885854d3cc122fb9e13"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-53-2023",
+   "path": "local/bucuresti/sector-5/2023/53",
+   "short": "HCLS5 nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 53/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-53-28.02.2023.pdf",
+     "sha256": "d2a2c98e8535fbafde4ce4f208c97c4086925a4afb8e036c0332a1d4ae510c9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-54-2023",
+   "path": "local/bucuresti/sector-5/2023/54",
+   "short": "HCLS5 nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 54/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-54-28.02.2023.pdf",
+     "sha256": "0af8d8175e20c666185ac0a3f18f0d4a42a66c80fae47adc13e78a03ff5dc39d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-55-2023",
+   "path": "local/bucuresti/sector-5/2023/55",
+   "short": "HCLS5 nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 55/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-55-28.02.2023.pdf",
+     "sha256": "6114ff2b46ec6fa431c67fa0dc842f15dea2b64c691b96e6088032a177d0f705"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-56-2023",
+   "path": "local/bucuresti/sector-5/2023/56",
+   "short": "HCLS5 nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 56/2023 privind aprobarea proiectelor ”ZIUA VETERANILOR DE RĂZBOI” și ”ZIUA EROILOR”",
+   "url": "https://sector5.ro/hotararea-nr-56-28-02-2023-privind-aprobarea-proiectelor-ziua-veteranilor-de-razboi-si-ziua-eroilor/",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-56-28.02.2023.pdf",
+     "sha256": "e5d798f9faf2c6f18a8eed7048d8ec6752b61feed8c7864c0db6d21c3ceca49d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-57-2023",
+   "path": "local/bucuresti/sector-5/2023/57",
+   "short": "HCLS5 nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 57/2023 privind aprobarea proiectului „Sectorul 5 Verde”",
+   "url": "https://sector5.ro/hotararea-nr-57-28-02-2023-privind-aprobarea-proiectului-sectorul-5-verde/",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-57-28.02.2023.pdf",
+     "sha256": "bf1f47869741c7fdda6e06b7600930b3e9d02d9138f929b89ef7679d7b885246"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-58-2023",
+   "path": "local/bucuresti/sector-5/2023/58",
+   "short": "HCLS5 nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 58/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-58-28.02.2023.pdf",
+     "sha256": "b8bee5fe1f89d0b1a6c07712d61bc769c629d397fee5693f9c4786c518ed593e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-59-2023",
+   "path": "local/bucuresti/sector-5/2023/59",
+   "short": "HCLS5 nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 59/2023 pentru modificarea art. 1 al Hotărârii Consiliului Local Sector 5 nr. 132/26.08.2022 privind acordarea sprijinului financiar pentru unități de cult din Sectorul 5 (Mănăstirea Antim – Paraclisul Sfinții Haralambie, Athanasie, Clement și Visarion), în anul 2022",
+   "url": "https://sector5.ro/hotararea-nr-59-28-02-2023-pentru-modificarea-art-1-al-hotararii-consiliului-local-sector-5-nr-132-26-08-2022-privind-acordarea-sprijinului-financiar-pentru-unitati-de-cult-din-sectorul-5-ma/",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-59-28.02.2023.pdf",
+     "sha256": "5d94b3654854ba0420931c09774c90abf822bb05242b159de36425520963b633"
+    }
+   ]
+  },
+  {
    "slug": "hcls5-6-2023",
    "path": "local/bucuresti/sector-5/2023/6",
    "short": "HCLS5 nr. 6/2023",
@@ -299,6 +3119,651 @@
      "units": 1,
      "source_url": "https://sector5.ro/media/2023/08/HCL-06-26.01.2023.pdf",
      "sha256": "3e99066a723ee5bfee5b04be71247907e45e15b6c0e987eff74e2ac7a3eaf622"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-60-2023",
+   "path": "local/bucuresti/sector-5/2023/60",
+   "short": "HCLS5 nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 60/2023 pentru modificarea art. 1 al Hotărârii Consiliului Local Sector 5 nr. 134/26.08.2022 privind acordarea sprijinului financiar pentru unități de cult din Sectorul 5 (CATEDRALA MÂNTUIRII NEAMULUI), în anul 2022",
+   "url": "https://sector5.ro/hotararea-nr-60-28-02-2023-pentru-modificarea-art-1-al-hotararii-consiliului-local-sector-5-nr-134-26-08-2022-privind-acordarea-sprijinului-financiar-pentru-unitati-de-cult-din-sectorul-5-catedral/",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-60-28.02.2023.pdf",
+     "sha256": "41c0e9da666a5d4c257a8e159b86c7b573182a4be2fda1ed5555181011ee5c25"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-61-2023",
+   "path": "local/bucuresti/sector-5/2023/61",
+   "short": "HCLS5 nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 61/2023 pentru modificarea art. 1 al Hotărârii Consiliului Local Sector 5 nr. 135/26.08.2022 privind acordarea sprijinului financiar pentru unități de cult din Sectorul 5 (Parohia Sfântul Ilie – Gorgani), în anul 2022",
+   "url": "https://sector5.ro/hotararea-nr-61-28-02-2023-pentru-modificarea-art-1-al-hotararii-consiliului-local-sector-5-nr-135-26-08-2022-privind-acordarea-sprijinului-financiar-pentru-unitati-de-cult-din-sectorul-5-parohia/",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-61-28.02.2023.pdf",
+     "sha256": "8319b72da7a6543cebb400cca8b6bae560f5b9ff518b354c94c53007d570e989"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-62-2023",
+   "path": "local/bucuresti/sector-5/2023/62",
+   "short": "HCLS5 nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 62/2023 pentru modificarea art. 1 al Hotărârii Consiliului Local Sector 5 nr. 136/26.08.2022 privind acordarea sprijinului financiar Parohiei Sfântul Elefterie – Vechi, Str. Sf. Elefterie, nr. 15B, Sector 5, București, în anul 2022",
+   "url": "https://sector5.ro/hotararea-nr-62-28-02-2023-pentru-modificarea-art-1-al-hotararii-consiliului-local-sector-5-nr-136-26-08-2022-privind-acordarea-sprijinului-financiar-parohiei-sfantul-elefterie-vechi-str/",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-62-28.02.2023.pdf",
+     "sha256": "320df54b1b07f42501cf72a0fcf22c660e259e1cef74f43dd069930563518306"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-63-2023",
+   "path": "local/bucuresti/sector-5/2023/63",
+   "short": "HCLS5 nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 63/2023 pentru modificarea art. 1 al Hotărârii Consiliului Local Sector 5 nr. 137/26.08.2022 privind acordarea sprijinului financiar Bisericii Adventiste de Ziua a Șaptea- Biserica Bellu în anul 2022",
+   "url": "https://sector5.ro/hotararea-nr-63-28-02-2023-pentru-modificarea-art-1-al-hotararii-consiliului-local-sector-5-nr-137-26-08-2022-privind-acordarea-sprijinului-financiar-bisericii-adventiste-de-ziua-a-saptea-biserica/",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-63-28.02.2023.pdf",
+     "sha256": "29d1fb5391205ddae2a9ae507aaa140ba84f36a32310544badfd691bc3907cc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-64-2023",
+   "path": "local/bucuresti/sector-5/2023/64",
+   "short": "HCLS5 nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 64/2023 pentru modificarea art. 1 al Hotărârii Consiliului Local Sector 5 nr. 138/26.08.2022 privind acordarea sprijinului financiar pentru unități de cult din Sectorul 5 (Parohia Bariera Rahova), în anul 2022",
+   "url": "https://sector5.ro/hotararea-nr-64-28-02-2023-pentru-modificarea-art-1-al-hotararii-consiliului-local-sector-5-nr-138-26-08-2022-privind-acordarea-sprijinului-financiar-pentru-unitati-de-cult-din-sectorul-5-parohia/",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-64-28.02.2023.pdf",
+     "sha256": "70e23c702db000d14a7a70f07d432b19fd934097e3f2bd00ab84629d6ff0cb08"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-65-2023",
+   "path": "local/bucuresti/sector-5/2023/65",
+   "short": "HCLS5 nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 65/2023 pentru modificarea Anexei (schiță amplasament) la Hotărârea Consiliului Local Sector 5 nr.211/11.11.2022 privind aprobarea transmiterii în comodat a spațiilor din B-dul George Coșbuc nr.36-38 deținute de către ECONOMAT SECTOR 5 SRL către Direcția de Evidență a Persoanelor și Complexul Multifuncțional ”Sf. Andrei”",
+   "url": "https://sector5.ro/hotararea-nr-65-28-02-2023-pentru-modificarea-anexei-schita-amplasament-la-hotararea-consiliului-local-sector-5-nr-211-11-11-2022-privind-aprobarea-transmiterii-in-comodat-a-spati/",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-65-28.02.2023.pdf",
+     "sha256": "6aa041b22168eb7946deacc89ff85bc922014c3f26c798bd552d8433d642cac9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-66-2023",
+   "path": "local/bucuresti/sector-5/2023/66",
+   "short": "HCLS5 nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 66/2023 pentru modificarea Hotărârii Consiliului Local Sector 5 nr.205/11.11.2022 privind modificarea Organigramei, a Statului de funcții și a Regulamentului de Organizare și Funcționare al Complexului Multifuncțional ”Sf. Andrei”, cu modificările și completările ulterioare",
+   "url": "https://sector5.ro/hotararea-nr-66-28-02-2023-pentru-modificarea-hotararii-consiliului-local-sector-5-nr-205-11-11-2022-privind-modificarea-organigramei-a-statului-de-functii-si-a-regulamentului-de-organizare-si/",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-66-28.02.2023.pdf",
+     "sha256": "697e9b1f246fbaacec7bd380012fbe3ac47dbce4a00a3e2ab9cf25b08d1a0d3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-67-2023",
+   "path": "local/bucuresti/sector-5/2023/67",
+   "short": "HCLS5 nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 67/2023 privind participarea Sectorului 5 al Municipiului București în cadrul Programului privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante și eficiente din punct de vedere energetic 2020—2024 derulat prin Administrația Fondului pentru Mediu",
+   "url": "https://sector5.ro/hotararea-nr-67-30-03-2023-privind-participarea-sectorului-5-al-municipiului-bucuresti-in-cadrul-programului-privind-reducerea-emisiilor-de-gaze-cu-efect-de-sera-in-transporturi-prin-promovare/",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-67-30.03.2023.pdf",
+     "sha256": "5ffe3be8caabf585192f6a6793976eb65a179f2a2037855fe05e590a63e49ae2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-68-2023",
+   "path": "local/bucuresti/sector-5/2023/68",
+   "short": "HCLS5 nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 68/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-69-30.03.2023.pdf",
+     "sha256": "0ca3932d2a503b32ef117d1970eff3585524a0ac25cddf9b7612a84410e1b175"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-69-2023",
+   "path": "local/bucuresti/sector-5/2023/69",
+   "short": "HCLS5 nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 69/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-69-30.03.2023.pdf",
+     "sha256": "0ca3932d2a503b32ef117d1970eff3585524a0ac25cddf9b7612a84410e1b175"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-7-2023",
+   "path": "local/bucuresti/sector-5/2023/7",
+   "short": "HCLS5 nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 7/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-07-26.01.2023.pdf",
+     "sha256": "6190aa895596deac5fc1dcc998a69e5803a2d8d33e0c979a4a3fa23d41a8f86f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-70-2023",
+   "path": "local/bucuresti/sector-5/2023/70",
+   "short": "HCLS5 nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 70/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-70-30.03.2023.pdf",
+     "sha256": "9737cc7aa1d22a9b025795c64a58861b9e4166f2dcbd223535e61b66211ed1bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-71-2023",
+   "path": "local/bucuresti/sector-5/2023/71",
+   "short": "HCLS5 nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 71/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-71-30.03.2023.pdf",
+     "sha256": "cb105654065e5338797b97e322338298f62b990a6e4fa8892439a7465207b8b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-72-2023",
+   "path": "local/bucuresti/sector-5/2023/72",
+   "short": "HCLS5 nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 72/2023 privind solicitarea acordului Consiliului General al Municipiului București pentru împuternicirea Consiliului Local al Sectorului 5 de a hotărî cu privire la asocierea Sectorului 5 al Municipiului București cu Administrația Spitalelor și Serviciilor Medicale București pentru Spitalul Clinic Prof. Dr. Theodor Burghele, în vederea finanțării și realizării de investiții cu scopul dezvoltării infrastructurii sanitare din Sectorul 5",
+   "url": "https://sector5.ro/hotararea-nr-72-30-03-2023-privind-solicitarea-acordului-consiliului-general-al-municipiului-bucuresti-pentru-imputernicirea-consiliului-local-al-sectorului-5-de-a-hotari-cu-privire-la-asocierea-sect/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-72-30.03.2023.pdf",
+     "sha256": "eb22e325b7817597048990e24abcd31390e3051c3db2de00722137c5995a2788"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-73-2023",
+   "path": "local/bucuresti/sector-5/2023/73",
+   "short": "HCLS5 nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 73/2023 privind actualizarea indicatorilor tehnico-economici la faza de proiect tehnic și detalii de execuție, aprobați prin Hotărărea Consiliului Local Sector 5 nr. 68/27.06.2022 cu modificările ulterioare, în vederea creșterii performanței energetice pentru 17 blocuri de locuințe de pe raza Sectorului 5 al Municipiului București",
+   "url": "https://sector5.ro/hotararea-nr-73-30-03-2023-privind-actualizarea-indicatorilor-tehnico-economici-la-faza-de-proiect-tehnic-si-detalii-de-executie-aprobati-prin-hotararea-consiliului-local-sector-5-nr-68-27-06-2022/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-73-30.03.2023.pdf",
+     "sha256": "3d375638a0503a6c2e74b20eb173d8c6a0046d5d2811fadeda5face9c6a14bb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-74-2023",
+   "path": "local/bucuresti/sector-5/2023/74",
+   "short": "HCLS5 nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 74/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-74-30.03.2023.pdf",
+     "sha256": "29877c3a0eb4803c756ab9620f14bcfdb940c015b954f563c0342ed28197ba77"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-75-2023",
+   "path": "local/bucuresti/sector-5/2023/75",
+   "short": "HCLS5 nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 75/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-75-30.03.2023.pdf",
+     "sha256": "3e90dc102b79d4e2a41054357ab266765d3670d14da4d9078fc65f3900e25eb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-76-2023",
+   "path": "local/bucuresti/sector-5/2023/76",
+   "short": "HCLS5 nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 76/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-76-30.03.2023.pdf",
+     "sha256": "a9db9e8fb28ca87bc1ca40f28005e47370dbcff69e5bafbaaaaa2e2ceb5b1ed7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-77-2023",
+   "path": "local/bucuresti/sector-5/2023/77",
+   "short": "HCLS5 nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 77/2023 privind solicitarea acordului Consiliului General al Municipiului București pentru împuternicirea expresă a Consiliului Local al Sectorului 5 de a hotărî cu privire la asocierea dintre Sectorul 5 al Municipiului București cu Asociația Novapolis – Centrul de Analize și Inițiative pentru Dezvoltare și cu Federația Română de Kempo pentru realizarea programului educațional și sportiv „AS PENTRU VIAȚĂ! ACTIVI PRIN EDUCAȚIE ȘI SPORT”, în unitățile de învățământ preuniversitar de stat din sectorul 5",
+   "url": "https://sector5.ro/hotararea-nr-77-30-03-2023privind-solicitarea-acordului-consiliului-general-al-municipiului-bucuresti-pentru-imputernicirea-expresa-a-consiliului-local-al-sectorului-5-de-a-hotari-cu-privire-la-asoci/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-77-30.03.2023.pdf",
+     "sha256": "5cf42efc2144f29cc820dca6e4c1fc692e5794c13c2be30f9ee4307ab5012e2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-78-2023",
+   "path": "local/bucuresti/sector-5/2023/78",
+   "short": "HCLS5 nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 78/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-78-30.03.2023.pdf",
+     "sha256": "9a02faafef26a0959d95f68d63186d477824c86bfa94d7c3e2a6a14a9001e726"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-79-2023",
+   "path": "local/bucuresti/sector-5/2023/79",
+   "short": "HCLS5 nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 79/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-79-30.03.2023.pdf",
+     "sha256": "74ec0dffb6f3251b9a46d729e566e45ecdf9283042c7535437413e773c1ddd71"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-8-2023",
+   "path": "local/bucuresti/sector-5/2023/8",
+   "short": "HCLS5 nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 8/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-80-2023",
+   "path": "local/bucuresti/sector-5/2023/80",
+   "short": "HCLS5 nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 80/2023 pentru modificarea capitolului V, art. 75",
+   "url": "https://sector5.ro/hotararea-nr-80-30-03-2023-pentru-modificarea-capitolului-v-art-75/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-80-30.03.2023.pdf",
+     "sha256": "46bfb619a479eb00baf3dcf4946535a6f861f90f1b17c48bbfd1f63e7a27846e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-81-2023",
+   "path": "local/bucuresti/sector-5/2023/81",
+   "short": "HCLS5 nr. 81/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 81/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-81-30.03.2023.pdf",
+     "sha256": "d4cdfc8fa77c53689d86947fb999d880f0007d7930626f5e644a579f2b5ca824"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-82-2023",
+   "path": "local/bucuresti/sector-5/2023/82",
+   "short": "HCLS5 nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 82/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-82-30.03.2023.pdf",
+     "sha256": "a8564748fdcb21a563cf20df277cf82f0c7cacb69521372c6b3991b23b7b8f6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-83-2023",
+   "path": "local/bucuresti/sector-5/2023/83",
+   "short": "HCLS5 nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 83/2023 privind aprobarea proiectului ”SĂRBĂTOAREA ETNIEI ROMILOR DIN ROMÂNIA”",
+   "url": "https://sector5.ro/hotararea-nr-83-30-03-2023privind-aprobarea-proiectului-sarbatoarea-etniei-romilor-din-romania/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-83-30.03.2023.pdf",
+     "sha256": "01160d289f6122e946094997f37846bd4e9e5d5eb71b0b64a9dff002b47b3f77"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-84-2023",
+   "path": "local/bucuresti/sector-5/2023/84",
+   "short": "HCLS5 nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 84/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-84.pdf",
+     "sha256": "faaf82694a7153315d7a454a1b7a7f0ab2d08c7190694e592c625bba599af236"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-85-2023",
+   "path": "local/bucuresti/sector-5/2023/85",
+   "short": "HCLS5 nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 85/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-85.pdf",
+     "sha256": "40e31afb81e72ab9b1a234e43e7732e7942d224aff57428b69b6879f079f256e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-86-2023",
+   "path": "local/bucuresti/sector-5/2023/86",
+   "short": "HCLS5 nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 86/2023 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții: Amenajare, reabilitare și modernizare spațiul public cuprins în perimetrul Str. Dumbrava Nouă – Str. Făt Frumos – Str. Cobadin – Str. Ileana Cosânzeana",
+   "url": "https://sector5.ro/hotararea-nr-86-30-03-2023-privind-aprobarea-indicatorilor-tehnico-economici-pentru-obiectivul-de-investitii-amenajare-reabilitare-si-modernizare-spatiul-public-cuprins-in-perimetrul-str-dumbrava/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-86.pdf",
+     "sha256": "27362802a0144211ac3de8d63ab66887ea0c75625accf2e5ce94cc789af43704"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-87-2023",
+   "path": "local/bucuresti/sector-5/2023/87",
+   "short": "HCLS5 nr. 87/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 87/2023 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții: Amenajare, reabilitare și modernizare spațiul public cuprins în perimetrul Str. Bârcă – Str. Modoran Ene – Str. Buzoieni",
+   "url": "https://sector5.ro/hotararea-nr-87-30-03-2023privind-aprobarea-indicatorilor-tehnico-economici-pentru-obiectivul-de-investitii-amenajare-reabilitare-si-modernizare-spatiul-public-cuprins-in-perimetrul-str-barca/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-87.pdf",
+     "sha256": "95d94df7bc2c82f893fa43fc7eb759f1408cc908c8f8b710ce7bacf26c3be788"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-88-2023",
+   "path": "local/bucuresti/sector-5/2023/88",
+   "short": "HCLS5 nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 88/2023 pentru modificarea anexei 2 și anexei 3 a Hotărârii Consiliului Local Sector 5 nr.139/08.07.2019, privind închirierea spațiilor comerciale administrate de către Administrația Piețelor Sector 5, cu modificările ulterioare",
+   "url": "https://sector5.ro/hotararea-nr-88-30-03-2023-pentru-modificarea-anexei-2-si-anexei-3-a-hotararii-consiliului-local-sector-5-nr-139-08-07-2019-privind-inchirierea-spatiilor-comerciale-administrate-de-catre-administrat/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-88.pdf",
+     "sha256": "a1a216d0b5cde4f532f0a254d923a7981538d40584309c64036cbd2b77d6533c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-89-2023",
+   "path": "local/bucuresti/sector-5/2023/89",
+   "short": "HCLS5 nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 89/2023 pentru modificarea anexei 4 a Hotărârii Consiliului Local sector 5 nr. 93/30.09.2016, privind reorganizarea Administrației Piețelor Sector 5, cu modificările ulterioare",
+   "url": "https://sector5.ro/hotararea-nr-89-30-03-2023-pentru-modificarea-anexei-4-a-hotararii-consiliului-local-sector-5-nr-93-30-09-2016-privind-reorganizarea-administratiei-pietelor-sector-5-cu-modificarile-ulterioa/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-89.pdf",
+     "sha256": "14494cc55064f6f78fd59831f4f8b39cc20747284a91c2267c877321ff3400a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-9-2023",
+   "path": "local/bucuresti/sector-5/2023/9",
+   "short": "HCLS5 nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 9/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-08-26.01.2023.pdf",
+     "sha256": "3e8e593ff355c63d9147da7901d93e88fd2643a329844217b0b8f310774abb3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-90-2023",
+   "path": "local/bucuresti/sector-5/2023/90",
+   "short": "HCLS5 nr. 90/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 90/2023 privind modificarea și completarea Anexei la Hotărârea Consiliului Local Sector 5 nr. 213/11.11.2022 privind implementarea și finanțarea Proiectului „Șanse egale–acces la educație”",
+   "url": "https://sector5.ro/hotararea-nr-90-30-03-2023-privind-modificarea-si-completarea-anexei-la-hotararea-consiliului-local-sector-5-nr-213-11-11-2022-privind-implementarea-si-finantarea-proiectului-sa/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-90.pdf",
+     "sha256": "80d856eda13e5a6a413ab55089004ea17f5f701e94f2095044ad8c81825ca5ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-91-2023",
+   "path": "local/bucuresti/sector-5/2023/91",
+   "short": "HCLS5 nr. 91/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 91/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-91.pdf",
+     "sha256": "edc1f53ce4579aa8ac99395832f65dd5ef9f58219130c8712510f49a97ba178a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-92-2023",
+   "path": "local/bucuresti/sector-5/2023/92",
+   "short": "HCLS5 nr. 92/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 92/2023 privind modificarea și completarea Hotărârii Consiliului Local nr. 225/28.12.2022 privind înființarea Administrației Dezvoltare Urbană Sector 5, cu completările ulterioare",
+   "url": "https://sector5.ro/hotararea-nr-92-30-03-2023privind-modificarea-si-completarea-hotararii-consiliului-local-nr-225-28-12-2022-privind-infiintarea-administratiei-dezvoltare-urbana-sector-5-cu-completarile-ulterioare/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-92.pdf",
+     "sha256": "b54a40099993654ed735d1f646453edc1d68978c25553085a06c46dde9b36903"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-93-2023",
+   "path": "local/bucuresti/sector-5/2023/93",
+   "short": "HCLS5 nr. 93/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 93/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-93.pdf",
+     "sha256": "78fc0d9a5e5cb1957bce8685339271c49a9ffad6ea75e8531e3a1c697c3b3006"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-94-2023",
+   "path": "local/bucuresti/sector-5/2023/94",
+   "short": "HCLS5 nr. 94/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 94/2023 privind aprobarea proiectului ”ÎNVIEREA DOMNULUI",
+   "url": "https://sector5.ro/hotararea-nr-94-30-03-2023-privind-aprobarea-proiectului-invierea-domnului/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-94.pdf",
+     "sha256": "96440c8c3b97c0e8c117d5ee6f910be71256cf5df13b91302534d99321344594"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-95-2023",
+   "path": "local/bucuresti/sector-5/2023/95",
+   "short": "HCLS5 nr. 95/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 95/2023 privind aprobarea proiectului „Gala Premiilor GOPO-Ediția 17„",
+   "url": "https://sector5.ro/hotararea-nr-95-30-03-2023-privind-aprobarea-proiectului-gala-premiilor-gopo-editia-17/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-95.pdf",
+     "sha256": "5ac84e95bbdbf0e850ef4a52af80ea40c668625b4c7d0ecdc171d901f5ebf22c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-96-2023",
+   "path": "local/bucuresti/sector-5/2023/96",
+   "short": "HCLS5 nr. 96/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 96/2023 privind schimbarea formei juridice a societății AMENAJARE EDILITARĂ S5 SA în societate cu răspundere limitată, respectiv: societatea AMENAJARE EDILITARĂ S5 SRL, având ca asociat unic SECTORUL 5 AL MUNICIPIULUI BUCUREȘTI PRIN CONSILIUL LOCAL AL SECTORULUI 5 BUCUREȘTI",
+   "url": "https://sector5.ro/hotararea-nr-96-30-03-2023-privind-schimbarea-formei-juridice-a-societatii-amenajare-edilitara-s5-sa-in-societate-cu-raspundere-limitata-respectiv-societatea-amenajare-edilitara-s5-srl-avand-ca-as/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-96.pdf",
+     "sha256": "0ea59f44dddf56909cfc58c15c10af68b5f35270829bfa8c4e3df0c1bea4819e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-97-2023",
+   "path": "local/bucuresti/sector-5/2023/97",
+   "short": "HCLS5 nr. 97/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 97/2023 pentru modificarea Hotărârii Consiliului Local al Sectorului 5 al Municipiului București nr. 215/29.11.2022 privind aprobarea depunerii proiectului și a Studiului de fezabilitate, a indicatorilor tehnico-economici rezultați din Studiul de fezabilitate, a unor obligații și a cheltuielilor aferente proiectului”Dezvoltarea infrastructurii de colectare pentru asigurarea unui management integrat al deșeurilor în sectorul 5”",
+   "url": "https://sector5.ro/hotararea-nr-97-07-04-2023-pentru-modificarea-hotararii-consiliului-local-al-sectorului-5-al-municipiului-bucuresti-nr-215-29-11-2022-privind-aprobarea-depunerii-proiectului-si-a-studiului-de-fezabi/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-nr.-97-07.04.2023.pdf",
+     "sha256": "eb424a7595c7edb568f2c95a56ca389e3a3cc59fb673db7eadbcad4216557f79"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-98-2023",
+   "path": "local/bucuresti/sector-5/2023/98",
+   "short": "HCLS5 nr. 98/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 98/2023 privind aprobarea contului anual de execuție al bugetului Sectorului 5 pe anul 2022",
+   "url": "https://sector5.ro/hotararea-nr-98-20-04-2023privind-aprobarea-contului-anual-de-executie-al-bugetului-sectorului-5-pe-anul-2022/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-98-20.04.2023.pdf",
+     "sha256": "a215ad20904c1a15bec6a55b9cd6e7773867a5c800b73e353282d1da9bc2ee03"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-99-2023",
+   "path": "local/bucuresti/sector-5/2023/99",
+   "short": "HCLS5 nr. 99/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 99/2023 privind rectificarea bugetului de venituri și cheltuieli pe anul 2023 al Sectorului 5 al Municipiului București aprobat prin H.C.L nr. 02 / 26.01.2023 cu modificările și completările ulterioare",
+   "url": "https://sector5.ro/hotararea-nr-99-20-04-2023privind-rectificarea-bugetului-de-venituri-si-cheltuieli-pe-anul-2023-al-sectorului-5-al-municipiului-bucuresti-aprobat-prin-h-c-l-nr-02-26-01-2023-cu-modific/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-99-20.04.2023.pdf",
+     "sha256": "db2fcf9c840d47f8e767bc65b47222182298ec34f9b4529087843d1bf274630d"
     }
    ]
   }

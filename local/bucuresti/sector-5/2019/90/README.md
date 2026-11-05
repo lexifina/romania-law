@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Sectorului 5 nr. 90/2019 privind organizarea proiectului ”Meșteșuguri românești, de către Grădinița nr. 72, Sector 5, București
+
+HCLS5 nr. 90/2019 · 1 versions, from 2019-05-14 (latest in force: 2019-05-14) · <https://sector5.ro/hotararea-nr-90-14-05-2019-privind-organizarea-proiectului-mestesuguri-romanesti-de-catre-gradinita-nr-72-sector-5-bucuresti/>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcls5-90-2019` (tags `hcls5-90-2019/<day>`; `python tools/on.py <day> hcls5-90-2019`).
+
+## Decisions made by hand
+
+- HCLS5 nr. 90/2019: listed from Consiliul Local al Sectorului 5 (sector5.ro); an individual decision: metadata only.
+- HCLS5 nr. 90/2019: dated from 14 May 2019, the day it was adopted and published.
+- HCLS5 nr. 90/2019: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

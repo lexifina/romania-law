@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12427 acts, 23,941 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12429 acts, 23,943 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -8378,7 +8378,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (2918, of which 671 amending acts)
+## Emergency ordinances (OUG) (2920, of which 671 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8496,11 +8496,13 @@
 | Ordonanța de urgență a Guvernului nr. 131/1999 pentru modificarea Legii nr. 165/1998 privind constituirea la dispoziţia Ministerului Agriculturii şi Alimentaţiei a fondului pentru finanţarea cheltuielilor aferente lucrărilor agricole din sectorul vegetal şi a celor pentru creşterea animalelor, în perioada 1998-2000 | [`oug/1999/131/`](oug/1999/131/) | amended, not consolidated | 1 | 1999-09-20 | 1999-09-20 |
 | Ordonanța de urgență a Guvernului nr. 132/1999 pentru modificarea şi completarea Ordonanţei Guvernului nr. 36/1999 privind sprijinul acordat de stat producătorilor agricoli pentru achiziţionarea de tractoare, combine, maşini şi utilaje agricole, precum şi de instalaţii pentru irigat din producţia internă | [`oug/1999/132/`](oug/1999/132/) | amended, not consolidated | 1 | 1999-09-20 | 1999-09-20 |
 | Ordonanța de urgență a Guvernului nr. 133/1999 | [`oug/1999/133/`](oug/1999/133/) | in force | 2 | 1999-09-20 | 2001-07-25 |
+| Ordonanța de urgență a Guvernului nr. 134/1999 privind unele măsuri referitoare la salarizarea magistraţilor şi a celorlalte categorii de personal din organele autorităţii judecătoreşti | [`oug/1999/134/`](oug/1999/134/) | in force | 1 | 1999-09-20 | 1999-09-20 |
 | Ordonanța de urgență a Guvernului nr. 136/1999 pentru modificarea şi completarea Legii nr. 130/1999 privind unele măsuri de protecţie a persoanelor încadrate în munca | [`oug/1999/136/`](oug/1999/136/) | amended, not consolidated | 1 | 1999-09-23 | 1999-09-23 |
 | Ordonanța de urgență a Guvernului nr. 137/1999 privind modificarea și completarea Legii nr. 108/1999 pentru înființarea și organizarea Inspecției Muncii | [`oug/1999/137/`](oug/1999/137/) | amending act | 2 | 1999-09-23 | 2001-06-28 |
 | Ordonanța de urgență a Guvernului nr. 138/1999 privind finanţarea unităţilor de învăţământ preuniversitar de stat | [`oug/1999/138/`](oug/1999/138/) | amended, not consolidated | 1 | 1999-09-27 | 1999-09-27 |
 | Ordonanța de urgență a Guvernului nr. 142/1999 privind instituirea sistemului de plată pentru motorina, pe bază de bonuri valorice, în vederea înfiinţării culturilor de cereale păioase şi efectuării arăturilor din toamna anului 1999 | [`oug/1999/142/`](oug/1999/142/) | amended, not consolidated | 1 | 1999-10-05 | 1999-10-05 |
 | Ordonanța de urgență a Guvernului nr. 144/1999 pentru aprobarea continuării şi finanţării activităţilor de cercetare-dezvoltare, aplicaţii şi inginerie tehnologică aferente suportului tehnic naţional pentru domeniul de energetica nucleara din cadrul Regiei Autonome pentru Activităţi Nucleare, precum şi pentru aprobarea finanţării activităţilor specifice cooperării internaţionale în domeniul de energetica nucleara | [`oug/1999/144/`](oug/1999/144/) | amended, not consolidated | 1 | 1999-10-05 | 1999-10-05 |
+| Ordonanța de urgență a Guvernului nr. 145/1999 privind unele măsuri de protecţie socială a personalului din sectorul producţiei de apărare | [`oug/1999/145/`](oug/1999/145/) | in force | 1 | 1999-10-05 | 1999-10-05 |
 | Ordonanța de urgență a Guvernului nr. 148/1999 | [`oug/1999/148/`](oug/1999/148/) | repealed 2005-07-21 | 3 | 1999-10-13 | 2005-07-21 |
 | Ordonanța de urgență a Guvernului nr. 151/1999 privind stingerea unor obligaţii bugetare | [`oug/1999/151/`](oug/1999/151/) | amended, not consolidated | 1 | 1999-10-18 | 1999-10-18 |
 | Ordonanța de urgență a Guvernului nr. 153/1999 privind autorizarea Ministerului Finanţelor de a garanta un împrumut extern în valoare de 50 milioane mărci germane pentru Banca de Export-Import a României (EXIMBANK) - S.A., acordat de către Kreditanstalt fur Wiederaufbau pentru realizarea programului de dezvoltare a întreprinderilor mici şi mijlocii cu capital majoritar românesc | [`oug/1999/153/`](oug/1999/153/) | in force | 1 | 1999-10-21 | 1999-10-21 |
@@ -12493,7 +12495,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 28104 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 28153 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |
@@ -12509,4 +12511,4 @@
 | Anti-discrimination council decisions (CNCD) | 2315 | [`data/acts/cncd/`](data/acts/cncd/) |
 | Data protection authority decisions and sanction notices (ANSPDCP) | 375 | [`data/acts/anspdcp/`](data/acts/anspdcp/) |
 | Technical rules for construction (normative tehnice) | 291 | [`data/acts/normativ-tehnic/`](data/acts/normativ-tehnic/) |
-| Local acts (decisions of local and county councils) | 25553 | [`data/acts/local/`](data/acts/local/) |
+| Local acts (decisions of local and county councils) | 27053 | [`data/acts/local/`](data/acts/local/) |
