@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12618 acts, 24,133 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12621 acts, 24,136 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8488, of which 3213 amending acts)
+## Laws (legi) (8491, of which 3214 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -378,9 +378,12 @@
 | Legea nr. 129/1996 privind transportul pe căile ferate române | [`lege/1996/129/`](lege/1996/129/) | amended, not consolidated | 1 | 1996-11-29 | 1996-11-29 |
 | Legea nr. 130/1996 | [`lege/1996/130/`](lege/1996/130/) | repealed 2011-05-13 | 4 | 1998-05-19 | 2011-05-13 |
 | Legea nr. 131/1996 pentru aprobarea Ordonanţei Guvernului nr. 15/1996 privind întărirea disciplinei financiar-valutare | [`lege/1996/131/`](lege/1996/131/) | amended, not consolidated | 1 | 1996-10-28 | 1996-10-28 |
+| Legea nr. 134/1996 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 10/1996 privind unele măsuri pentru desfăşurarea alegerilor parlamentare şi prezidenţiale din luna noiembrie 1996 | [`lege/1996/134/`](lege/1996/134/) | amending act | 1 | 1996-10-28 | 1996-10-28 |
 | Legea nr. 135/1996 privind autorizarea Băncii Naţionale a României de a acorda credite pentru acoperirea cererilor populaţiei de retragere a depozitelor bancare constituite la societăţile bancare "Dacia Felix" - S.A. şi "Credit Bank" - S.A | [`lege/1996/135/`](lege/1996/135/) | amended, not consolidated | 1 | 1996-10-28 | 1996-10-28 |
 | Legea nr. 136/1996 pentru aprobarea Ordonanţei Guvernului nr. 30/1995 privind regimul de concesionare a construirii şi exploatării unor tronsoane de cai de comunicaţie terestre - autostrăzi şi cai ferate | [`lege/1996/136/`](lege/1996/136/) | amended, not consolidated | 1 | 1996-10-31 | 1996-10-31 |
 | Legea nr. 137/1996 pentru aprobarea Ordonanţei Guvernului nr. 33/1995 privind măsuri pentru colectarea, reciclarea şi reintroducerea în circuitul productiv a deşeurilor refolosibile de orice fel | [`lege/1996/137/`](lege/1996/137/) | amended, not consolidated | 1 | 1996-10-28 | 1996-10-28 |
+| Legea nr. 138/1996 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Croaţia în domeniul transportului rutier internaţional, semnat la Bucureşti la 16 februarie 1994 | [`lege/1996/138/`](lege/1996/138/) | in force | 1 | 1996-11-05 | 1996-11-05 |
+| Legea nr. 139/1996 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Slovenia în domeniul transportului rutier internaţional, semnat la Sissi (Creta) la 15 martie 1994 | [`lege/1996/139/`](lege/1996/139/) | in force | 1 | 1996-11-05 | 1996-11-05 |
 | Legea nr. 140/1996 pentru modificarea și completarea Codului penal | [`lege/1996/140/`](lege/1996/140/) | amending act | 1 | 1996-11-14 | 1996-11-14 |
 | Legea nr. 141/1996 pentru modificarea şi completarea Codului de procedura penală | [`lege/1996/141/`](lege/1996/141/) | amended, not consolidated | 1 | 1996-11-14 | 1996-11-14 |
 | Legea nr. 7/1997 pentru aprobarea Ordonanţei Guvernului nr. 19/1996 privind asigurarea rambursării împrumutului de stat şi a dobânzilor aferente, destinat continuării participării României la construirea Combinatului minier de îmbogăţire a minereurilor acide cu conţinut de fier de la Krivoi-Rog - Ucraina | [`lege/1997/7/`](lege/1997/7/) | amending act | 1 | 1997-02-05 | 1997-02-05 |
@@ -12684,7 +12687,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 30009 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 30032 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |

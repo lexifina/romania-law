@@ -94829,6 +94829,21 @@
    ]
   },
   {
+   "slug": "legea-134-1996",
+   "path": "lege/1996/134",
+   "short": "Legea nr. 134/1996",
+   "title": "Legea nr. 134/1996 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 10/1996 privind unele măsuri pentru desfăşurarea alegerilor parlamentare şi prezidenţiale din luna noiembrie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8682",
+   "versions": [
+    {
+     "from": "1996-10-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8682",
+     "sha256": "39a998be28fea55dfa19c45dce55d9907e71881f4ec980e66515bbfa106a5edf"
+    }
+   ]
+  },
+  {
    "slug": "legea-134-1997",
    "path": "lege/1997/134",
    "short": "Legea nr. 134/1997",
@@ -96197,6 +96212,21 @@
    ]
   },
   {
+   "slug": "legea-138-1996",
+   "path": "lege/1996/138",
+   "short": "Legea nr. 138/1996",
+   "title": "Legea nr. 138/1996 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Croaţia în domeniul transportului rutier internaţional, semnat la Bucureşti la 16 februarie 1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8701",
+   "versions": [
+    {
+     "from": "1996-11-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8701",
+     "sha256": "16a37467f309f98995efe3b063726b0fb1c15a12b54a66c88832a7dafebc82c9"
+    }
+   ]
+  },
+  {
    "slug": "legea-138-1997",
    "path": "lege/1997/138",
    "short": "Legea nr. 138/1997",
@@ -96622,6 +96652,21 @@
      "units": 67,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22756",
      "sha256": "67fbc9d427de190f8e2b9bcf827302e5d3e04e9a4db7b73e08e4ef827ba7efa5"
+    }
+   ]
+  },
+  {
+   "slug": "legea-139-1996",
+   "path": "lege/1996/139",
+   "short": "Legea nr. 139/1996",
+   "title": "Legea nr. 139/1996 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Slovenia în domeniul transportului rutier internaţional, semnat la Sissi (Creta) la 15 martie 1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8705",
+   "versions": [
+    {
+     "from": "1996-11-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8705",
+     "sha256": "0c6463dda9d6448e1a580e948cad28918375e8714a2a0324ad2bd4cd4892be37"
     }
    ]
   },
