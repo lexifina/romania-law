@@ -1848,6 +1848,21 @@
    ]
   },
   {
+   "slug": "hcj-buzau-279-2022",
+   "path": "local/judet/buzau/2022/279",
+   "short": "HCJ Buzău nr. 279/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 279/2022 pentru aprobarea rectificării a XI-a a bugetului propriu al județului Buzău pe anul 2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/12/Hotararea-nr.279-din-2022.pdf",
+     "sha256": "145d17dbed8d8bf07e049d4a3377b711c0f90da3637ee10580c414f206b7f5ac"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-280-2022",
    "path": "local/judet/buzau/2022/280",
    "short": "HCJ Buzău nr. 280/2022",

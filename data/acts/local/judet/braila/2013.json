@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/braila/2013",
+"acts": [
+{
+"slug": "hcj-braila-30-2013",
+"path": "local/judet/braila/2013/30",
+"kind": "local",
+"year": "2013",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brăila nr. 30/2013",
+"short": "HCJ Brăila nr. 30/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-04-16",
+"latest": "2013-04-16",
+"portal": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/OUG-nr-3016042013-prelungire-valabilitate-licente-de-traseu-si-programe-de-transport-public-judetean-00002556?OpenDocument",
+"council": "judet/braila",
+"council_name": "Consiliul Județean Brăila",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

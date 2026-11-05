@@ -438,6 +438,21 @@
    ]
   },
   {
+   "slug": "hcj-buzau-131-2025",
+   "path": "local/judet/buzau/2025/131",
+   "short": "HCJ Buzău nr. 131/2025",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 131/2025 pentru stabilirea unui mandat special reprezentantului Județului Buzău în Adunarea Generală a Acționarilor la Societatea „Compania de Apă” SA Buzău pentru ședințele ordinară, respectiv extraordinară din data de 30.05.2025",
+   "url": "https://cjbuzau.ro/hotarari-cj-2025/",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2025/06/Hotararea-nr.131-din-2025.pdf",
+     "sha256": "de2f415bcaab0c5e989a5e3b69f8b0dfc17537e6e17567d9071a8dfa4b193096"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-132-2025",
    "path": "local/judet/buzau/2025/132",
    "short": "HCJ Buzău nr. 132/2025",

@@ -3,6 +3,531 @@
  "shard": "local/judet/braila/2019",
  "acts": [
   {
+   "slug": "hcj-braila-123-2019",
+   "path": "local/judet/braila/2019/123",
+   "short": "HCJ Brăila nr. 123/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 123/2019 privind : desemnarea unui consilier judetean ca membru al Autoritatii Teritoriale de Ordine Publica Braila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/FCB6D5F2CDB620C2C22584F50029DE47/$FILE/HOT%20123%20din%2023.07.2019.pdf",
+     "sha256": "370befd99cd5dea3c373c21c5d503eb1476f8dea535de3c8ba5d662dad6d5e9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-124-2019",
+   "path": "local/judet/braila/2019/124",
+   "short": "HCJ Brăila nr. 124/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 124/2019 privind desemnarea unui reprezentant al Consiliului Judetean Braila in Consiliul de Administratie al Casei de Asigurari de Sanatate a Judetului Braila; Vazand avizul Comisiei pentru administratie publica locala, juridica, relatii publice si relatii internationale si Comisiei pentru sanatate si protectie sociala; Potrivit dispozitiilor art.297 din Legea nr.95/2006 privind reforma in domeniul sanata",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/D8146EE3F6CFF08EC22584F5002A016A/$FILE/HOT%20124%20din%2023.07.2019.pdf",
+     "sha256": "1241f2cd3a33e2f82910989e8bad4bc7f9a5a2ae135a2f0168e0d534fb5c39bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-125-2019",
+   "path": "local/judet/braila/2019/125",
+   "short": "HCJ Brăila nr. 125/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 125/2019 privind : modificarea Hotararii Consiliului Judetean Braila nr. 173/2016 privind validarea componentei nominale a Autoritatii Teritoriale de Ordine Publica Braila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/91270986B90051D2C22584F5002A1B2A/$FILE/HOT%20125%20din%2023.07.2019.pdf",
+     "sha256": "f70d379dbdfc72359c131cd79f67f007011dead09945c3bfab2bd7d713d25c63"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-127-2019",
+   "path": "local/judet/braila/2019/127",
+   "short": "HCJ Brăila nr. 127/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 127/2019 pentru administratie publica locala, juridica, relatii publice si relatii internationale si Comisiei pentru activitati stiintifice, invatamant, cultura, culte, tineret si activitati sportive; Urmare adresei Federatiei Romane de Karate Traditional nr. 46/a/03.07.2019, inregistrata la",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/865703869F9582A8C22584F5002D446B/$FILE/HOT%20127%20din%2023.07.2019.pdf",
+     "sha256": "f07f900f18e552659c5818913d107b8807078cd3e262436c03f10d49b5b3e1ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-128-2019",
+   "path": "local/judet/braila/2019/128",
+   "short": "HCJ Brăila nr. 128/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 128/2019 pentru administratie publica, juridica, relatii publice si relatii internationale, Comisiei de buget-finante, administrarea domeniului public si privat al judetului si Comisiei pentru activitati stiintifice, invatamant, cultura, culte, tineret si activitati sportive; Tinand cont de adresa Asociatiei Club Sportiv “Sport Plus” Braila nr. 3/18.06.2019, inregistrata la",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/8BF7B7D918CD1EDBC22584F5002E00B4/$FILE/HOT%20128%20din%2023.07.2019.pdf",
+     "sha256": "7ec5057dbf7bea1d2e87cb124270fd2fc5814b5793fab327415fdc891c74224a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-129-2019",
+   "path": "local/judet/braila/2019/129",
+   "short": "HCJ Brăila nr. 129/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 129/2019 pentru obiectivul de investitii ,, Reabilitare si modernizare Statie de 0.4 kv – post transformare pentru alimentarea cu energie electrica a tuturor consumatorilor existenti, a investitiilor viitoare si in curs de realizare ” - Spitalul Judetean de Urgenta Braila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/E59EFF0B1BA40E80C22584F5002FBE26/$FILE/HOT%20129%20din%2023.07.2019.pdf",
+     "sha256": "e01cddee84698568b0feb9a7463566ed39029184a61b3527307496cc828e3c3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-130-2019",
+   "path": "local/judet/braila/2019/130",
+   "short": "HCJ Brăila nr. 130/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 130/2019 pentru asocierea Judetului Brăila, prin",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/F7C07125CF2C54C3C22584F50031580A/$FILE/HOT%20130%20din%2023.07.2019.pdf",
+     "sha256": "07081bf27e5cf006b61a5c9fecca2fe3079e8df7cdc65b8d4fc5ebd2e34bcf44"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-131-2019",
+   "path": "local/judet/braila/2019/131",
+   "short": "HCJ Brăila nr. 131/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 131/2019 privind stabilirea unor normative de cheltuieli pentru consumul lunar de carburanti al aparatului propriu si al institutiilor si serviciilor publice subordonate",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/BD5AD4C1C04BB0C8C22584F50031CB0F/$FILE/HOT%20131%20din%2023.07.2019.pdf",
+     "sha256": "5c60836c47a3d291f7126d37491f347a7131417fcd75b372c4db9d9973bef61d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-132-2019",
+   "path": "local/judet/braila/2019/132",
+   "short": "HCJ Brăila nr. 132/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 132/2019 pentru cofinantarea si realizarea obiectivului de investitii “EFICIENTIZAREA SI MODERNIZAREA SISTEMULUI DE ILUMINAT STRADAL IN COMUNA VADENI, JUDETUL BRAILA”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/9AD72B1688088239C22584F500329B63/$FILE/HOT%20132%20din%2023.07.2019.pdf",
+     "sha256": "1c5f0afe0cf73ef3322eaba168bc2321dc6fbd11b52536db0b585a1f6c23e5b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-133-2019",
+   "path": "local/judet/braila/2019/133",
+   "short": "HCJ Brăila nr. 133/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 133/2019 cu privire la aprobarea rectificarii bugetului propriu al judetului Braila pe anul 2019; - Propunerile institutiilor publice de sub autoritatea Consiliului Judetean Braila privind rectificarea bugetului pe anul 2019 si ale directiilor de specialitate si serviciilor din cadrul aparatului propriu al Consiliului Judetean Braila; - Avizul Comisiei buget – finante, administrarea domeniului public si pr",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/EC1CA7BEC3302A7FC22584F500333043/$FILE/HOT%20133%20din%2023.07.2019.pdf",
+     "sha256": "c404e9772fd6f8e29fa6fe002950a901c0744f9e8eeb13fb5e52e8ecda19188d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-134-2019",
+   "path": "local/judet/braila/2019/134",
+   "short": "HCJ Brăila nr. 134/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 134/2019 pentru cofinantarea si realizarea obiectivului de investitii “Asfaltare Drum Comunal 35 Berlesti-Limita hotar U.A.T",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/48F1BA9945384495C22584F500334490/$FILE/HOT%20134%20din%2023.07.2019.pdf",
+     "sha256": "609008a596f3726335f275394ebf005d6de2b19b4ec2b02c3ebdebc1bc32eeef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-135-2019",
+   "path": "local/judet/braila/2019/135",
+   "short": "HCJ Brăila nr. 135/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 135/2019 pentru cofinantarea si realizarea obiectivului de investitii “CONSTRUIRE PIATA AGROALIMENTARA”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/45C65D53887737BDC22584F700297DC5/$FILE/HOT%20135%20din%2023.07.2019.pdf",
+     "sha256": "e7493432e576b9dba5b0d13d4c3a80172b5b0623b4bbc8e5b9634d16db145e4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-136-2019",
+   "path": "local/judet/braila/2019/136",
+   "short": "HCJ Brăila nr. 136/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 136/2019 pentru cofinantarea si realizarea obiectivului de investitii “Modernizarea strazii Rm",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/C3BE3D441D5FB277C22584F7002B73E5/$FILE/HOT%20136%20din%2023.07.2019.pdf",
+     "sha256": "0d4136bc2bac543961ff602faf720a0df266cd259fe56d2c21b4d3e20a46a391"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-137-2019",
+   "path": "local/judet/braila/2019/137",
+   "short": "HCJ Brăila nr. 137/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 137/2019 pentru cofinantarea si realizarea obiectivului de investitii “Modernizarea aleilor pietonale pe str. Rm. Sarat, limite str",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/090F9C758E5B93EEC22584F7002BE427/$FILE/HOT%20137%20din%2023.07.2019.pdf",
+     "sha256": "04c2241e677f05ff4ae99c94a1020b01d6cd502ef06bf9dcc20ccc1b7e772e97"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-138-2019",
+   "path": "local/judet/braila/2019/138",
+   "short": "HCJ Brăila nr. 138/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 138/2019 pentru cofinantarea si realizarea obiectivului de investitii “Amenajare trotuare noi, podete si santuri betonate pe str. 1 Decembrie, Comuna Galbenu, Judetul Braila“",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/2667ED15B4F35406C22584F7002D42B2/$FILE/HOT%20138%20din%2023.07.2019.pdf",
+     "sha256": "d55c36d60cc4b9657753890c5ce30634427535b5decda4608dc63ccc4288f89b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-139-2019",
+   "path": "local/judet/braila/2019/139",
+   "short": "HCJ Brăila nr. 139/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 139/2019 pentru cofinantarea si realizarea obiectivului de investitii “Sistem de Supraveghere Video pentru localitatea Satuc, comuna Galbenu, judetul Braila“",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/9618A3EA77E7B1CEC22584F7002DE1EF/$FILE/HOT%20139%20din%2023.07.2019.pdf",
+     "sha256": "f68c34203e715edafef14f56396b4776f20430f3f40634be93285a4747f3767e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-140-2019",
+   "path": "local/judet/braila/2019/140",
+   "short": "HCJ Brăila nr. 140/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 140/2019 pentru cofinantarea si realizarea obiectivului de investitii “Reabilitare DC 2 km. 0+000 - km. 1+500, comuna Romanu, judetul Braila”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/A4C38CA24FB67CCBC22584F7002E5EB9/$FILE/HOT%20140%20din%2023.07.2019.pdf",
+     "sha256": "e6f0a0204e92e92a220d75b1fc92e8095883b4c117256769969b08124a1bd5c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-141-2019",
+   "path": "local/judet/braila/2019/141",
+   "short": "HCJ Brăila nr. 141/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 141/2019 pentru cofinantarea si realizarea obiectivului de investitii “Construire sala de festivitati si imprejmuire, sat Muchea, comuna Silistea”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/7E907CA83118FD2CC22584F7002EA42A/$FILE/HOT%20141%20din%2023.07.2019.pdf",
+     "sha256": "55f2d4879d29d790641f498c196445be38f7c1f4add958c2d49398dd329d3c3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-142-2019",
+   "path": "local/judet/braila/2019/142",
+   "short": "HCJ Brăila nr. 142/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 142/2019 pentru cofinantarea si realizarea obiectivului de investitii “Infiintare spatiu de joaca copii in satul Surdila Gaiseanca, comuna Surdila Gaiseanca, jud. Braila”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/ADF0D732CE0E387DC22584F7002F2D31/$FILE/HOT%20142%20din%2023.07.2019.pdf",
+     "sha256": "cdfffbbd4c72d1af0f46cadd4d9e66514288767f904aedf3214af3c7b9f9de83"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-143-2019",
+   "path": "local/judet/braila/2019/143",
+   "short": "HCJ Brăila nr. 143/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 143/2019 pentru cofinantarea si realizarea obiectivului de investitii “Reabilitare Corp C1 COMUNA MIRCEA- VODA, JUDETUL BRAILA”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/DABE52FCDEC1EAB0C22584F7002F6D0D/$FILE/HOT%20143%20din%2023.07.2019.pdf",
+     "sha256": "68ba93899ed3a7f644d48fa68481a69cc81aaf9638869aee2a8240aa33f61ca6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-144-2019",
+   "path": "local/judet/braila/2019/144",
+   "short": "HCJ Brăila nr. 144/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 144/2019 pentru cofinantarea si realizarea obiectivului de investitii “REABILITARE PARTIALA STRADA CRINULUI SI LILIACULUI, COMUNA UNIREA, JUDETUL BRAILA”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/F949EB1B21D01844C22584F7002FC007/$FILE/HOT%20144%20din%2023.07.2019.pdf",
+     "sha256": "7fde1f85938687111e44538a64384067e79e61889689f4ba98467e41db9d3b53"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-145-2019",
+   "path": "local/judet/braila/2019/145",
+   "short": "HCJ Brăila nr. 145/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 145/2019 privind aprobarea „Programului pentru finanțarea nerambursabilă a activităților nonprofit de interes județean pentru anul 2019”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-01",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/D0420823C2F6D5C4C22584F7003294DC/$FILE/HOT%20145%20din%2001.08.2019.pdf",
+     "sha256": "873cfed9e30fd81242c2a3d0d46765cf0925851a99a554f04d72e8dc4781a529"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-146-2019",
+   "path": "local/judet/braila/2019/146",
+   "short": "HCJ Brăila nr. 146/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 146/2019 pentru cofinantarea si realizarea obiectivului de investitii “LUCRARI DE INTRETINERE STRAZI COMUNALE: SAT LACU SARAT, COM. CHISCANI, JUDETUL BRAILA”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-01",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/FF348DD941A9B6C5C22584F70033ACF3/$FILE/HOT%20146%20din%2001.08.2019.pdf",
+     "sha256": "c3071ac43966fa45b9715c2f9403146e27599a415a37c5a25e1ecd72da34d70b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-147-2019",
+   "path": "local/judet/braila/2019/147",
+   "short": "HCJ Brăila nr. 147/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 147/2019 pentru cofinantarea si realizarea obiectivului de investitii “Asfaltare drum comunal DC 60 km 0+000 - km 5+100, comuna Marasu, judetul Braila”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-01",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/42A391D09F9D6D41C22584F70033FD30/$FILE/HOT%20147%20din%2001.08.2019.pdf",
+     "sha256": "dc3419496a77e8a40072074e14f6998fb71ca7e196a9acc802046b3f86a0e6e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-148-2019",
+   "path": "local/judet/braila/2019/148",
+   "short": "HCJ Brăila nr. 148/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 148/2019 pentru cofinantarea si realizarea obiectivului de investitii “Amenajare trotuar pietonal comuna Cazasu, judetul Braila”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-01",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/F3348D30D29E11AEC22584F700347851/$FILE/HOT%20148%20din%2001.08.2019.pdf",
+     "sha256": "96839d43982d5c32398975004c7d93b020e74305e9fa3851acb752a3725556c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-149-2019",
+   "path": "local/judet/braila/2019/149",
+   "short": "HCJ Brăila nr. 149/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 149/2019 pentru cofinantarea si realizarea obiectivului de investitii “Sistematizare centru civic in sat Gulianca, lungime 1,1 km, jud. Braila”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-01",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/65AAE1E6B4AFECFFC22584F70034E1CE/$FILE/HOT%20149%20din%2001.08.2019.pdf",
+     "sha256": "1cbc5b4a6a4e6b782e040d8d1ee53a8f81ec65815dfc08aba0512eb9833476b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-150-2019",
+   "path": "local/judet/braila/2019/150",
+   "short": "HCJ Brăila nr. 150/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 150/2019 pentru cofinantarea si realizarea obiectivului de investitii “Imbunatatirea conditiilor de trafic prin pietruire in satul Zavoaia, comuna Zavoaia, judetul Braila”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-01",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/1987143DB25B94DDC22584F700353BD4/$FILE/HOT%20150%20din%2001.08.2019.pdf",
+     "sha256": "04210576339b36eb183838c83fc2c912155a178a253be7c44f77396101330c19"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-151-2019",
+   "path": "local/judet/braila/2019/151",
+   "short": "HCJ Brăila nr. 151/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 151/2019 pentru cofinantarea si realizarea obiectivului de investitii “Reabilitare si modernizare Camin Cultural, sat Lanurile, Judetul Braila”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-01",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/6F82C965088B1B03C22584F70035A51C/$FILE/HOT%20151%20din%2001.08.2019.pdf",
+     "sha256": "e6992405c64a6da2e35ada5ed73885fc1662b87267fbfd3d964e078f166a8eb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-152-2019",
+   "path": "local/judet/braila/2019/152",
+   "short": "HCJ Brăila nr. 152/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 152/2019 privind : modificarea Hotararii Consiliului Judetean Braila nr. 173/2016 privind validarea componentei nominale a Autoritatii Teritoriale de Ordine Publica Braila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/C481023F7923A558C22584F70036300B/$FILE/HOT%20152%20din%2030.08.2019.pdf",
+     "sha256": "211ea148d6b5841bba0324f7f4ef675735035d7fd56031a83d5594aa1c2fe4e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-153-2019",
+   "path": "local/judet/braila/2019/153",
+   "short": "HCJ Brăila nr. 153/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 153/2019 privind aprobarea organigramei si a statului de functii ale aparatului de specialitate al Consiliului Judetean Braila ; Vazand avizul Comisiei pentru administratie publica locala, juridica, relatii publice, integrare si relatii internationale ; Pe baza prevederilor art.518 alin.1 si alin.2, ale art.610 alin. 1 si art.611 alin.1 din O.U.G nr.57/2019 privind Codul Administrativ; In temeiul prevederi",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/045D538114B9C0F5C22584F70036BE41/$FILE/HOT%20153%20din%2030.08.2019.pdf",
+     "sha256": "5a734e26f7406427dcf01698adae6c97be8273946582b929c420a9dea1cc13de"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-155-2019",
+   "path": "local/judet/braila/2019/155",
+   "short": "HCJ Brăila nr. 155/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 155/2019 pentru administratie publica locala, juridica, relatii publice si relatii internationale; In temeiul prevederilor art. 173 alin. 1 lit. c, art.182 alin. 1 si art. 196 alin 1 lit. a din Ordonanta de Urgenta nr.57/2019, privind Codul administrativ; H O T A R A S T E: Art.1. - Se aproba modificarea datelor de identificare ale imobilelor situate in Braila, str",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/8EF1460523DFFBE8C22584F800274C81/$FILE/HOT%20155%20din%2030.08.2019.pdf",
+     "sha256": "273da99567821e81451d21cf7dd50b0e8cca7703a021adfcc6b588c98b267f80"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-156-2019",
+   "path": "local/judet/braila/2019/156",
+   "short": "HCJ Brăila nr. 156/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 156/2019 pentru inchirierea spatiilor din imobilele apartinand domeniului public al Judetului Braila, situate in Braila, str",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/9095700B3CA6C02BC22584F800299FA2/$FILE/HOT%20156%20din%2030.08.2019.pdf",
+     "sha256": "38cc8af500dd82b7f06f1b4d4f322dcae2e677fa39ba7ea416cfe90107cb8325"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-157-2019",
+   "path": "local/judet/braila/2019/157",
+   "short": "HCJ Brăila nr. 157/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 157/2019 pentru administratie publica locala, juridica, relatii publice si relatii internationale; In conformitate cu prevederile art.173 alin.1 lit.(c), alin.4 lit.(a) si art.297 alin.1 lit.(a) din Ordonanta de Urgenta nr.57/2019, privind Codul administrativ; In temeiul prevederilor art.173 alin.1 lit.(c), art.182 alin.1 coroborat cu art. 139 si art.196 alin.1 lit.(a) din Ordonanta de Urgenta nr.57/2019",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/A48778990C162D07C22584F8002AD11D/$FILE/HOT%20157%20din%2030.08.2019.pdf",
+     "sha256": "01c121150a57e984014d8e42da18e9c2962c7f24275cfd6001dda36777cebe14"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-158-2019",
+   "path": "local/judet/braila/2019/158",
+   "short": "HCJ Brăila nr. 158/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 158/2019",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/C9421EA752BE6BB9C22584F8002B88ED/$FILE/HOT%20158%20din%2030.08.2019.pdf",
+     "sha256": "adb836c22acb8be03815c293002e31b29f6d5e400963b35c689a7accf8867597"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-159-2019",
+   "path": "local/judet/braila/2019/159",
+   "short": "HCJ Brăila nr. 159/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 159/2019",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/FA258501B403EDD8C22584F8002C1C2D/$FILE/HOT%20159%20din%2030.08.2019.pdf",
+     "sha256": "6d95922958436a07c8d421290eb522c38f7da4bd0d6f411eaeaeefb41b73860f"
+    }
+   ]
+  },
+  {
    "slug": "hcj-braila-160-2019",
    "path": "local/judet/braila/2019/160",
    "short": "HCJ Brăila nr. 160/2019",
@@ -18,6 +543,231 @@
    ]
   },
   {
+   "slug": "hcj-braila-161-2019",
+   "path": "local/judet/braila/2019/161",
+   "short": "HCJ Brăila nr. 161/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 161/2019 pentru obiectivul de investitie: “ Reabilitare Compartiment Sterilizare din cadrul Spitalului Judetean de Urgenta Braila ”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/354C61D177E22997C22584F8002DC2EB/$FILE/HOT%20161%20din%2030.08.2019.pdf",
+     "sha256": "27cd1dfb737f1caf0681f6ed865ea16ae6f1afcd347fd0998580cd4afd3d3b92"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-162-2019",
+   "path": "local/judet/braila/2019/162",
+   "short": "HCJ Brăila nr. 162/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 162/2019 pentru tineri specialisti din domeniul sanatatii, a Listei de prioritati in solutionarea cererilor de locuinte construite de Agentia Nationala pentru Locuinte, a Listei de Repartitie, precum si a Listei Solicitantilor care nu au acces la locuinta",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/EED0AAC1AAF8577CC22584F8002E1DE0/$FILE/HOT%20162%20din%2030.08.2019.pdf",
+     "sha256": "f151f645fc8a2c2ab13a45473df70dc5e0583e29c76fcd35f0cbca0d4cabddd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-163-2019",
+   "path": "local/judet/braila/2019/163",
+   "short": "HCJ Brăila nr. 163/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 163/2019 pentru administratie publica, juridica, relatii publice si relatii internationale, Comisiei de buget-finante, administrarea domeniului public si privat al judetului si Comisiei pentru activitati stiintifice, invatamant, cultura, culte, tineret si activitati sportive; Tinand cont de adresa Asociatiei Club Sportiv “Dacia Unirea” Braila nr. 435/23.07.2019, inregistrata la",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/93EB099135D99A06C22584F8002E76AB/$FILE/HOT%20163%20din%2030.08.2019.pdf",
+     "sha256": "da9bac67488b6ef2e9d77bdb21869fd510b559c0149ff900269f482e86374956"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-164-2019",
+   "path": "local/judet/braila/2019/164",
+   "short": "HCJ Brăila nr. 164/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 164/2019 pentru administratie publica, juridica, relatii publice si relatii internationale, Comisiei de buget-finante, administrarea domeniului public si privat al judetului si Comisiei pentru activitati stiintifice, invatamant, cultura, culte, tineret si activitati sportive; Tinand cont de adresa Asociatiei Club Sportiv “Cuza Pirates” Braila nr. 155/23.07.2019, inregistrata la",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/F73D195DDA21901BC22584F8002F172B/$FILE/HOT%20164%20din%2030.08.2019.pdf",
+     "sha256": "c8d7ab81b04a378c647ac4c61a664c1d503afcd6b79d763ddbc77a8b3365d494"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-165-2019",
+   "path": "local/judet/braila/2019/165",
+   "short": "HCJ Brăila nr. 165/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 165/2019 pentru administratie publica, juridica, relatii publice si relatii internationale, Comisiei de buget-finante, administrarea domeniului public si privat al judetului si Comisiei pentru activitati stiintifice, invatamant, cultura, culte, tineret si activitati sportive; Tinand cont de adresa Clubului Sportiv “Viitorul Ianca” nr. 211/24.07.2019, inregistrata la",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/F2F3B29BB678C055C22584F8002F434C/$FILE/HOT%20165%20din%2030.08.2019.pdf",
+     "sha256": "dd1f28068ca131ff030377fb60a2d8a8cf6b392f80e715e8ba455d925e3e425d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-166-2019",
+   "path": "local/judet/braila/2019/166",
+   "short": "HCJ Brăila nr. 166/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 166/2019 pentru administratie publica, juridica, relatii publice si relatii internationale, Comisiei de buget-finante, administrarea domeniului public si privat al judetului si Comisiei pentru activitati stiintifice, invatamant, cultura, culte, tineret si activitati sportive; Tinand cont de adresa Clubului Sportiv Vispo Braila nr. 7/22.07.2019, inregistrata la",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/9649D06A1935819EC22584F8002F5D13/$FILE/HOT%20166%20din%2030.08.2019.pdf",
+     "sha256": "90893689d82b8aaeea3cac711dbbea145b8b61de6583e9907fa9d792c41afd89"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-167-2019",
+   "path": "local/judet/braila/2019/167",
+   "short": "HCJ Brăila nr. 167/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 167/2019 pentru administratie publica, juridica, relatii publice si relatii internationale, Comisiei de buget-finante, administrarea domeniului public si privat al judetului si Comisiei pentru activitati stiintifice, invatamant, cultura, culte, tineret si activitati sportive; Tinand cont de adresa Asociatiei Sportive Club Sportiv “Alexandru 2012” Braila nr. 36/19.07.2019, inregistrata la",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/16EFFEDF587116BDC22584F800303368/$FILE/HOT%20167%20din%2030.08.2019.pdf",
+     "sha256": "ab73d1aa8ee7332c3f2e186c08c24d570783ea2819b16bb4668ffdde1886d246"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-168-2019",
+   "path": "local/judet/braila/2019/168",
+   "short": "HCJ Brăila nr. 168/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 168/2019 pentru rezultatele obtinute in sezonul sportiv 2019 in campionatele nationale” al Asociatiei Club Sportiv “Hobby Auto-Sport” Braila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/A133B492D7ABBBD8C22584F8003073C1/$FILE/HOT%20168%20din%2030.08.2019.pdf",
+     "sha256": "8ce8dffda0822b17b7b94af6b611815d1c0eda887a7df2e7460a165c3015bbb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-169-2019",
+   "path": "local/judet/braila/2019/169",
+   "short": "HCJ Brăila nr. 169/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 169/2019 cu privire la aprobarea contului de executie al bugetului local al judetului Braila si al institutiilor publice si activitatilor finantate integral sau partial din venituri proprii la trimiestrul II 2019; - Avizull Comisiei buget – finante, administrarea domeniului public si privat al judetului; - Prevederile Legii bugetului de stat nr. 50/2019; - Prevederile Legii finantelor publice locale nr.273",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/EEFC7762E0CB5C10C22584F8003099FE/$FILE/HOT%20169%20din%2030.08.2019.pdf",
+     "sha256": "600c22cea437dc053c3afec8330b2d9f5cb3f3e62a0d028119780280fca5eab9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-170-2019",
+   "path": "local/judet/braila/2019/170",
+   "short": "HCJ Brăila nr. 170/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 170/2019",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/E34278BEE6D9DFB4C22584F80030B72B/$FILE/HOT%20170%20din%2030.08.2019.pdf",
+     "sha256": "0ef5a8cae27d95ccea2b8c726165407651bd68caab1412af9b2d7ee8d6b41b46"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-171-2019",
+   "path": "local/judet/braila/2019/171",
+   "short": "HCJ Brăila nr. 171/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 171/2019 pentru cofinantarea si realizarea obiectivului de investitii “PROIECT SISTEM TEHNIC DE SECURITATE”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/993F1A469B9F2940C22584F80030FA09/$FILE/HOT%20171%20din%2030.08.2019.pdf",
+     "sha256": "8eb661159cdcae613e72619cae7f51c6d0741f3e96cc4ca2130d95a231186cb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-172-2019",
+   "path": "local/judet/braila/2019/172",
+   "short": "HCJ Brăila nr. 172/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 172/2019 pentru cofinantarea si realizarea obiectivului de investitii “LUCRARI DE REPARATII GENERALE SI RENOVARI – CAMIN CULTURAL CORBENI, COMUNA RACOVITA, JUDETUL BRAILA”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/F01F50A4602FF216C22584F80031B1D4/$FILE/HOT%20172%20din%2030.08.2019.pdf",
+     "sha256": "7f4fafe331bd18e48aace5a7d340e223fd9c98b21651c7d75cd83019bf7e31b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-173-2019",
+   "path": "local/judet/braila/2019/173",
+   "short": "HCJ Brăila nr. 173/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 173/2019 pentru cofinantarea si realizarea obiectivului de investitii “Extindere sala polivalenta si amenajare teren, comuna Gemenele, judetul Braila”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/E4183D595CD92EB9C22584F80031C2F9/$FILE/HOT%20173%20din%2030.08.2019.pdf",
+     "sha256": "26c5037c58aa0010815c7fd4854ba5f88c0e542e5137ad8954a47e43e427fd68"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-174-2019",
+   "path": "local/judet/braila/2019/174",
+   "short": "HCJ Brăila nr. 174/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 174/2019 pentru cofinantarea si realizarea obiectivului de investitii “Modernizare drum comunal DC15, intre sat Polizesti si limita UAT Bertestii de Jos, judetul Braila”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/24A70746B8960DC5C22584F80031CFB1/$FILE/HOT%20174%20din%2030.08.2019.pdf",
+     "sha256": "531214ddd352e2d3e408e832e7f47159c9b90ffab10704b8328ceeeb778a6878"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-175-2019",
+   "path": "local/judet/braila/2019/175",
+   "short": "HCJ Brăila nr. 175/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 175/2019 pentru cofinantarea si realizarea obiectivului de investitii “AMENAJARE INTERIOARA SI EXTERIOARA CAMIN CULTURAL SI CLADIRE MULTIFUNCTIONALA, SAT MARALOIU, COMUNA GRADISTEA, JUDETUL BRAILA”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/174708503DFF9BA4C22584F80031D9E4/$FILE/HOT%20175%20din%2030.08.2019.pdf",
+     "sha256": "d8d8405311b93b6c6b1d7b7549b0d8114902435bd757da85656a5dc077fdae3e"
+    }
+   ]
+  },
+  {
    "slug": "hcj-braila-176-2019",
    "path": "local/judet/braila/2019/176",
    "short": "HCJ Brăila nr. 176/2019",
@@ -29,6 +779,231 @@
      "units": 1,
      "source_url": "https://cjbraila.ro/dm/portal.nsf/847402712131E8BEC22584F80031ED3D/$FILE/HOT%20176%20din%2030.08.2019.pdf",
      "sha256": "567ea78ec91eeb3fbb793ccd9c59fa2d0599a935ad2e16a605bc62c198a35ce4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-177-2019",
+   "path": "local/judet/braila/2019/177",
+   "short": "HCJ Brăila nr. 177/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 177/2019 privind aprobarea organigramei si a statului de functii ale Spitalului Judetean de Urgenta Braila, precum si adresa nr.33885/14.08.2019 a Spitalului Judetean de Urgenta Braila ; Pe baza avizului Comisiei pentru sanatate si protectie sociala si al Comisiei pentru administratie publica locala, juridica, relatii publice, integrare si relatii internationale; Vazand Hotararea Consiliului de Administrat",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/43F4955C3A058CEBC22584F80031FA78/$FILE/HOT%20177%20din%2030.08.2019.pdf",
+     "sha256": "7d62f9af9b1cc11a34f9e8399a2a6ff31cab4f76c4b7deaf8bbfe383a8a54d2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-178-2019",
+   "path": "local/judet/braila/2019/178",
+   "short": "HCJ Brăila nr. 178/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 178/2019 pentru coordonarea implementarii masurilor necesare pentru imbunatatirea conditiilor de viata a locuitorilor din asezarile informale din cadrul Consiliului Judetean Braila si a Regulamentului de organizare si functionare a Comisiei",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/EA5248061CAEB14FC22584F800320803/$FILE/HOT%20178%20din%2030.08.2019.pdf",
+     "sha256": "f2a0f9491e0054b5b5bd5da75f743892ad8a3c7675010954a5438137e2e0ba1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-179-2019",
+   "path": "local/judet/braila/2019/179",
+   "short": "HCJ Brăila nr. 179/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 179/2019 cu privire la aprobarea rectificarii bugetului propriu de venituri si cheltuieli al judetului Braila pe anul 2019 si estimarile pe anii 2020-2022 si a Programului de investitii publice pe anul 2019; - Propunerile institutiilor publice de sub autoritatea Consiliului Judetean Braila privind rectificarea bugetului pe anul 2019 si ale directiilor de specialitate si serviciilor din cadrul aparatului pr",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/F0242EC13AD84A82C22584F800321A0D/$FILE/HOT%20179%20din%2030.08.2019.pdf",
+     "sha256": "a55c7d4d35460060e4ece2a062d86ac3a3378b70e763932c2670b2b4e6d63dc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-180-2019",
+   "path": "local/judet/braila/2019/180",
+   "short": "HCJ Brăila nr. 180/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 180/2019 pentru cofinantarea si realizarea obiectivului de investitii “Reabilitare Gard Cimitir din localitatea Liscoteanca, comuna Bordei Verde, judetul Braila”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/D6453FC4957F2035C22584F8003223DB/$FILE/HOT%20180%20din%2030.08.2019.pdf",
+     "sha256": "3b18cddf3d6d5a7fbc2418fc47f1bce4777bf621ede489319d25348df355a4c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-181-2019",
+   "path": "local/judet/braila/2019/181",
+   "short": "HCJ Brăila nr. 181/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 181/2019 pentru cofinantarea si realizarea obiectivului de investitii “Dotare cu Sisteme de Siguranta si Securitate – Scoala Gimnaziala Bordei Verde”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/120CE8C7DD20FCD9C22584F80032DFB8/$FILE/HOT%20181%20din%2030.08.2019.pdf",
+     "sha256": "aa300d68f8ac93de4e746ace8dbef366d987dd3b0b626df185c5cde6271abea0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-182-2019",
+   "path": "local/judet/braila/2019/182",
+   "short": "HCJ Brăila nr. 182/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 182/2019 pentru cofinantarea si realizarea obiectivului de investitii “Modernizare trotuare si parcari in comuna Tudor Vladimirescu, judetul Braila”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/5DDEE54A9D9C76B2C22584F80032EBBD/$FILE/HOT%20182%20din%2030.08.2019.pdf",
+     "sha256": "5eba236e06bd6e6424be5a25ba6006a47af78e429daf110117e51a3574ae8b09"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-183-2019",
+   "path": "local/judet/braila/2019/183",
+   "short": "HCJ Brăila nr. 183/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 183/2019 pentru cofinantarea si realizarea obiectivului de investitii “Modernizare iluminat public, comuna Surdila Gaiseanca, judetul Braila”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/ADD3633394164C7BC22584F80032F6F9/$FILE/HOT%20183%20din%2030.08.2019.pdf",
+     "sha256": "38885bf71fc6658c00e13941efea3c308d843f4caad4a526b98e312f52d9ae0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-184-2019",
+   "path": "local/judet/braila/2019/184",
+   "short": "HCJ Brăila nr. 184/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 184/2019 pentru cofinantarea si realizarea obiectivului de investitii “Reabilitare Scoala, schimbare de destinatie din sala de clasa in grupuri sanitare”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/F6B5C64D4CB3727FC22584F8003306FF/$FILE/HOT%20184%20din%2030.08.2019.pdf",
+     "sha256": "17cab82dc7e96998d248bfa253d73de9818a9a5ee16bebd2f32524b69805083b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-185-2019",
+   "path": "local/judet/braila/2019/185",
+   "short": "HCJ Brăila nr. 185/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 185/2019 pentru cofinantarea si realizarea obiectivului de investitii “MODERNIZARE RETEA PIETONALA ZONA CIVICA ORAS FAUREI – ETAPA A 2 A”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/46A2AEA489FEAAFEC22584F80033819E/$FILE/HOT%20185%20din%2030.08.2019.pdf",
+     "sha256": "bd80b666a4a339acd99cd11d9e1ed5699e0d644e95bbe69341cbf62ed38903cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-186-2019",
+   "path": "local/judet/braila/2019/186",
+   "short": "HCJ Brăila nr. 186/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 186/2019 pentru cofinantarea si realizarea obiectivului de investitii “SISTEMATIZARE VERTICALA INCINTE PIATA AGROALIMENTARA, BLOCURI DE LOCUINTE SI PARCARI, ETAPA I, ORAS FAUREI, JUDETUL BRAILA”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/0545F9CBA627DB92C22584F800338CBD/$FILE/HOT%20186%20din%2030.08.2019.pdf",
+     "sha256": "a52706fa33a78fb5ec538be582cc9b7dc8cb56a8a5b9ad12b9772617b26e7e78"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-187-2019",
+   "path": "local/judet/braila/2019/187",
+   "short": "HCJ Brăila nr. 187/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 187/2019",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-09-12",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/5589BCBF5C3F5BCEC22584F8004860CB/$FILE/HOT%20187%20din%2012.09.2019.pdf",
+     "sha256": "8460402d239cfe9f51e54acf5562522ee6e523cc494687dc13394900c4aa3eb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-188-2019",
+   "path": "local/judet/braila/2019/188",
+   "short": "HCJ Brăila nr. 188/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 188/2019 pentru cofinantarea si realizarea obiectivului de investitii “AMENAJARE ACCES SI IMPREJMUIRE CLADIRE MULTIFUNCTIONALA”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-09-12",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/B2E55C050A868A30C22584F8004D75E6/$FILE/HOT%20188%20din%2012.09.2019.pdf",
+     "sha256": "08636534e7094a830a9fe9d5876ba2e63270e49667008f02c148a8a2998893ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-189-2019",
+   "path": "local/judet/braila/2019/189",
+   "short": "HCJ Brăila nr. 189/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 189/2019 pentru cofinantarea si realizarea obiectivului de investitii “Construire vestiar si imprejmuire teren fotbal”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-09-12",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/0E89C352DF375675C22584F8004D893B/$FILE/HOT%20189%20din%20%2012.09.2019.pdf",
+     "sha256": "0b79d933fbac73a6a08398a89bec6c2b2e0f551e7693b0fe892019a4d2a68d55"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-190-2019",
+   "path": "local/judet/braila/2019/190",
+   "short": "HCJ Brăila nr. 190/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 190/2019 pentru cofinantarea si realizarea obiectivului de investitii “Imprejmuire cimitir sat Tataru”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-09-12",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/C7E26610CF6EDC57C22584F8004D9B33/$FILE/HOT%20190%20din%20%2012.09.2019.pdf",
+     "sha256": "41cfe14f1876f09ec0b20b94acc7095d23fd5ea949bc79539bc3f5e05d5d2489"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-191-2019",
+   "path": "local/judet/braila/2019/191",
+   "short": "HCJ Brăila nr. 191/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 191/2019 pentru cofinantarea si realizarea obiectivului de investitii “Executie lucrari de inlocuire tavan Scoala Gimnaziala Gropeni, judetul Braila, in vederea obtinerii avizului ISU”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-09-12",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/F3948DE5BEF4FBDBC22584F8004DD313/$FILE/HOT%20191%20din%20%2012.09.2019.pdf",
+     "sha256": "bae8c0407dc43efddcb25385e80c1e3b9535ae637af14c0ea1c90a7168ba10e9"
     }
    ]
   }

@@ -5422,25 +5422,47 @@
    "sources": "data/sources/local/judet/botosani/2026.csv"
   },
   {
+   "shard": "local/judet/braila/2013",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/judet/braila/2013.json",
+   "list": "data/acts/local/judet/braila/2013.md",
+   "versions": "data/versions/local/judet/braila/2013.json",
+   "laws": "data/laws/local/judet/braila/2013.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/judet/braila/2013.csv"
+  },
+  {
+   "shard": "local/judet/braila/2017",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/judet/braila/2017.json",
+   "list": "data/acts/local/judet/braila/2017.md",
+   "versions": "data/versions/local/judet/braila/2017.json",
+   "laws": "data/laws/local/judet/braila/2017.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/judet/braila/2017.csv"
+  },
+  {
    "shard": "local/judet/braila/2019",
    "kind": "local",
-   "count": 2,
+   "count": 67,
    "acts": "data/acts/local/judet/braila/2019.json",
    "list": "data/acts/local/judet/braila/2019.md",
    "versions": "data/versions/local/judet/braila/2019.json",
    "laws": "data/laws/local/judet/braila/2019.csv",
-   "laws_count": 2,
+   "laws_count": 67,
    "sources": "data/sources/local/judet/braila/2019.csv"
   },
   {
    "shard": "local/judet/braila/2020",
    "kind": "local",
-   "count": 246,
+   "count": 337,
    "acts": "data/acts/local/judet/braila/2020.json",
    "list": "data/acts/local/judet/braila/2020.md",
    "versions": "data/versions/local/judet/braila/2020.json",
    "laws": "data/laws/local/judet/braila/2020.csv",
-   "laws_count": 246,
+   "laws_count": 337,
    "sources": "data/sources/local/judet/braila/2020.csv"
   },
   {
@@ -5545,45 +5567,45 @@
   {
    "shard": "local/judet/buzau/2022",
    "kind": "local",
-   "count": 152,
+   "count": 153,
    "acts": "data/acts/local/judet/buzau/2022.json",
    "list": "data/acts/local/judet/buzau/2022.md",
    "versions": "data/versions/local/judet/buzau/2022.json",
    "laws": "data/laws/local/judet/buzau/2022.csv",
-   "laws_count": 152,
+   "laws_count": 153,
    "sources": "data/sources/local/judet/buzau/2022.csv"
   },
   {
    "shard": "local/judet/buzau/2023",
    "kind": "local",
-   "count": 253,
+   "count": 254,
    "acts": "data/acts/local/judet/buzau/2023.json",
    "list": "data/acts/local/judet/buzau/2023.md",
    "versions": "data/versions/local/judet/buzau/2023.json",
    "laws": "data/laws/local/judet/buzau/2023.csv",
-   "laws_count": 253,
+   "laws_count": 254,
    "sources": "data/sources/local/judet/buzau/2023.csv"
   },
   {
    "shard": "local/judet/buzau/2024",
    "kind": "local",
-   "count": 245,
+   "count": 247,
    "acts": "data/acts/local/judet/buzau/2024.json",
    "list": "data/acts/local/judet/buzau/2024.md",
    "versions": "data/versions/local/judet/buzau/2024.json",
    "laws": "data/laws/local/judet/buzau/2024.csv",
-   "laws_count": 245,
+   "laws_count": 247,
    "sources": "data/sources/local/judet/buzau/2024.csv"
   },
   {
    "shard": "local/judet/buzau/2025",
    "kind": "local",
-   "count": 216,
+   "count": 217,
    "acts": "data/acts/local/judet/buzau/2025.json",
    "list": "data/acts/local/judet/buzau/2025.md",
    "versions": "data/versions/local/judet/buzau/2025.json",
    "laws": "data/laws/local/judet/buzau/2025.csv",
-   "laws_count": 216,
+   "laws_count": 217,
    "sources": "data/sources/local/judet/buzau/2025.csv"
   },
   {
@@ -5596,6 +5618,94 @@
    "laws": "data/laws/local/judet/buzau/2026.csv",
    "laws_count": 236,
    "sources": "data/sources/local/judet/buzau/2026.csv"
+  },
+  {
+   "shard": "local/judet/calarasi/2015",
+   "kind": "local",
+   "count": 4,
+   "acts": "data/acts/local/judet/calarasi/2015.json",
+   "list": "data/acts/local/judet/calarasi/2015.md",
+   "versions": "data/versions/local/judet/calarasi/2015.json",
+   "laws": "data/laws/local/judet/calarasi/2015.csv",
+   "laws_count": 4,
+   "sources": "data/sources/local/judet/calarasi/2015.csv"
+  },
+  {
+   "shard": "local/judet/calarasi/2016",
+   "kind": "local",
+   "count": 5,
+   "acts": "data/acts/local/judet/calarasi/2016.json",
+   "list": "data/acts/local/judet/calarasi/2016.md",
+   "versions": "data/versions/local/judet/calarasi/2016.json",
+   "laws": "data/laws/local/judet/calarasi/2016.csv",
+   "laws_count": 5,
+   "sources": "data/sources/local/judet/calarasi/2016.csv"
+  },
+  {
+   "shard": "local/judet/calarasi/2017",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/judet/calarasi/2017.json",
+   "list": "data/acts/local/judet/calarasi/2017.md",
+   "versions": "data/versions/local/judet/calarasi/2017.json",
+   "laws": "data/laws/local/judet/calarasi/2017.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/judet/calarasi/2017.csv"
+  },
+  {
+   "shard": "local/judet/calarasi/2018",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/judet/calarasi/2018.json",
+   "list": "data/acts/local/judet/calarasi/2018.md",
+   "versions": "data/versions/local/judet/calarasi/2018.json",
+   "laws": "data/laws/local/judet/calarasi/2018.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/judet/calarasi/2018.csv"
+  },
+  {
+   "shard": "local/judet/calarasi/2019",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/judet/calarasi/2019.json",
+   "list": "data/acts/local/judet/calarasi/2019.md",
+   "versions": "data/versions/local/judet/calarasi/2019.json",
+   "laws": "data/laws/local/judet/calarasi/2019.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/judet/calarasi/2019.csv"
+  },
+  {
+   "shard": "local/judet/calarasi/2020",
+   "kind": "local",
+   "count": 10,
+   "acts": "data/acts/local/judet/calarasi/2020.json",
+   "list": "data/acts/local/judet/calarasi/2020.md",
+   "versions": "data/versions/local/judet/calarasi/2020.json",
+   "laws": "data/laws/local/judet/calarasi/2020.csv",
+   "laws_count": 10,
+   "sources": "data/sources/local/judet/calarasi/2020.csv"
+  },
+  {
+   "shard": "local/judet/calarasi/2021",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/judet/calarasi/2021.json",
+   "list": "data/acts/local/judet/calarasi/2021.md",
+   "versions": "data/versions/local/judet/calarasi/2021.json",
+   "laws": "data/laws/local/judet/calarasi/2021.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/judet/calarasi/2021.csv"
+  },
+  {
+   "shard": "local/judet/calarasi/2024",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/judet/calarasi/2024.json",
+   "list": "data/acts/local/judet/calarasi/2024.md",
+   "versions": "data/versions/local/judet/calarasi/2024.json",
+   "laws": "data/laws/local/judet/calarasi/2024.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/judet/calarasi/2024.csv"
   },
   {
    "shard": "local/judet/caras-severin/2024",

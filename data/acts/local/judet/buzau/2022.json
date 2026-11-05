@@ -2724,6 +2724,28 @@
 }
 },
 {
+"slug": "hcj-buzau-279-2022",
+"path": "local/judet/buzau/2022/279",
+"kind": "local",
+"year": "2022",
+"number": "279",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Buzău nr. 279/2022 pentru aprobarea rectificării a XI-a a bugetului propriu al județului Buzău pe anul 2022",
+"short": "HCJ Buzău nr. 279/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-15",
+"latest": "2022-12-15",
+"portal": "http://cjbuzau.ro/hotarari-cj-2022/",
+"council": "judet/buzau",
+"council_name": "Consiliul Județean Buzău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-buzau-280-2022",
 "path": "local/judet/buzau/2022/280",
 "kind": "local",

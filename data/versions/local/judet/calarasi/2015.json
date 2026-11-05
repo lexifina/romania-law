@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/judet/calarasi/2015",
+ "acts": [
+  {
+   "slug": "hcj-calarasi-116-2015",
+   "path": "local/judet/calarasi/2015/116",
+   "short": "HCJ Călărași nr. 116/2015",
+   "title": "Hotărârea Consiliului Județean Călărași nr. 116/2015 pentru perioada 01.01.2014 – 30.06.2019 conform rezultatului atribuirii electronice din data de 20.08.2015 Nr",
+   "url": "https://www.calarasi.ro/hotararile-deliberative/",
+   "versions": [
+    {
+     "from": "2015-08-31",
+     "units": 1,
+     "source_url": "https://www.calarasi.ro/wp-content/uploads/2024/04/HOTARAREA-116-7.pdf",
+     "sha256": "e0f14e4b8a437807da3ab25eb23c569351c34113c61e36a698f1894a4cca7b9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-calarasi-124-2015",
+   "path": "local/judet/calarasi/2015/124",
+   "short": "HCJ Călărași nr. 124/2015",
+   "title": "Hotărârea Consiliului Județean Călărași nr. 124/2015 privind aprobarea Planului pentru asigurarea resurselor umane, materiale și financiare necesare gestionării situațiilor de urgență pentru anul 2015 Consiliul județean Călărași, întrunit în ședința ordinară din 31.08.2015, Având în vedere: - raportul Direcției Dezvoltare Regională și Relații Externe, înregistrat sub nr. 11774 din 19.08.2015; - raportul Comisiei pentru Studii, Prognoze Economico-Soc",
+   "url": "https://www.calarasi.ro/hotararile-deliberative/",
+   "versions": [
+    {
+     "from": "2015-08-31",
+     "units": 1,
+     "source_url": "https://www.calarasi.ro/wp-content/uploads/2024/04/HOTARAREA-124-7.pdf",
+     "sha256": "b42e7ba40c333666dd9870d3622fe596b44463d9137a2d68e27cea7653101c7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-calarasi-17-2015",
+   "path": "local/judet/calarasi/2015/17",
+   "short": "HCJ Călărași nr. 17/2015",
+   "title": "Hotărârea Consiliului Județean Călărași nr. 17/2015 privind aprobarea unui ajutor din fondul de rezerva bugetara prevazut in bugetul propriu al judetului Calarasi, pe anul 2015",
+   "url": "https://www.calarasi.ro/hotararile-deliberative/",
+   "versions": [
+    {
+     "from": "2015-02-19",
+     "units": 1,
+     "source_url": "https://www.calarasi.ro/wp-content/uploads/2024/05/HOTARAREA-17.pdf",
+     "sha256": "313bedfb02bba762dd32f5f258c77088deea3a47366532640fd4f5b2e8274c1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-calarasi-170-2015",
+   "path": "local/judet/calarasi/2015/170",
+   "short": "HCJ Călărași nr. 170/2015",
+   "title": "Hotărârea Consiliului Județean Călărași nr. 170/2015 pentru completarea Regulamentului de Organizare și Funcționare al Spitalului de Psihiatrie Săpunari",
+   "url": "https://www.calarasi.ro/hotararile-deliberative/",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://www.calarasi.ro/wp-content/uploads/2024/04/HOTARAREA-170-7.pdf",
+     "sha256": "50621458528a9b215026a5be4032d19a2e5f0a2b7bdd56e70149ef4768b1b22d"
+    }
+   ]
+  }
+ ]
+}

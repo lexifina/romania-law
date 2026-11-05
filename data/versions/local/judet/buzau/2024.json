@@ -1548,6 +1548,21 @@
    ]
   },
   {
+   "slug": "hcj-buzau-213-2024",
+   "path": "local/judet/buzau/2024/213",
+   "short": "HCJ Buzău nr. 213/2024",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 213/2024 privind aprobarea utilizării în anul 2024 a excedentului anual al bugetului propriu al județului Buzău rezultat la încheierea exerciţiului bugetar la 31 decembrie 2023 – formă actualizată 5",
+   "url": "https://cjbuzau.ro/hotarari-cj-2024/",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2024/09/Hotararea-nr.213-din-2024.pdf",
+     "sha256": "fcc9ebbb0b4f4e9ccf1c8c350bb6522818d5871f8d6802c4d52ce179b861aeab"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-214-2024",
    "path": "local/judet/buzau/2024/214",
    "short": "HCJ Buzău nr. 214/2024",
@@ -1844,6 +1859,21 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2024/10/Hotararea-nr.233-din-2024.pdf",
      "sha256": "f0106a18573f8cb7e4aa12a0d7b054b0ca7d2ef4059ade9634d6d1fc8679d116"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-235-2024",
+   "path": "local/judet/buzau/2024/235",
+   "short": "HCJ Buzău nr. 235/2024",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 235/2024 pentru rectificarea a II-a a bugetului de venituri și cheltuieli pe anul 2024 al Centrului Județean de Resurse și Asistență Educațională Buzău",
+   "url": "https://cjbuzau.ro/hotarari-cj-2024/",
+   "versions": [
+    {
+     "from": "2024-10-17",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2024/10/Hotararea-nr.235-din-2024.pdf",
+     "sha256": "d898f79dc233d38651ddc4c00287ef1fed980099ede77c41f9b1061ffbdeecd2"
     }
    ]
   },

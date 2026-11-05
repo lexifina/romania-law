@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/judet/calarasi/2018",
+ "acts": [
+  {
+   "slug": "hcj-calarasi-120-2018",
+   "path": "local/judet/calarasi/2018/120",
+   "short": "HCJ Călărași nr. 120/2018",
+   "title": "Hotărârea Consiliului Județean Călărași nr. 120/2018 privind aprobarea Planului pentru asigurarea resurselor umane, materiale și financiare necesare gestionării situațiilor de urgență pentru anul 2018 și a Planului de analiză și acoperire a riscurilor identificate la nivelul județului Călărași Consiliul județean Călărași, întrunit în ședința ordinară din 28.06.2018, Având în vedere: - raportul Direcției Juridice și Administrație Publică, înregistrat",
+   "url": "https://www.calarasi.ro/hotararile-deliberative/",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://www.calarasi.ro/wp-content/uploads/2024/04/HOTARAREA-120-4.pdf",
+     "sha256": "e500cbf6069a6e72b9dcd1ca2186c4250f18d8edc55547a96d3212b455b3beef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-calarasi-68-2018",
+   "path": "local/judet/calarasi/2018/68",
+   "short": "HCJ Călărași nr. 68/2018",
+   "title": "Hotărârea Consiliului Județean Călărași nr. 68/2018 privind modificarea i completarea Organigramei, a Statului de func ii și a Regulamentului de Organizare și Func ionare ale aparatului de specialitate al Consiliului Jude ean C l rași",
+   "url": "https://www.calarasi.ro/hotararile-deliberative/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.calarasi.ro/wp-content/uploads/2024/04/HOTARAREA-68-4.pdf",
+     "sha256": "78a0fc8ec3cacc0d268338a23e10c05d74c757228d6bbe1ab2af4ecbde9df499"
+    }
+   ]
+  }
+ ]
+}

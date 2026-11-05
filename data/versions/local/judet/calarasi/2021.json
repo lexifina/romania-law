@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/calarasi/2021",
+ "acts": [
+  {
+   "slug": "hcj-calarasi-138-2021",
+   "path": "local/judet/calarasi/2021/138",
+   "short": "HCJ Călărași nr. 138/2021",
+   "title": "Hotărârea Consiliului Județean Călărași nr. 138/2021 privind modificarea și completarea Organigramei, Statului de funcții și Regulamentului de Organizare și Funcționare ale Direcției Generale de Asistență Socială și Protecția Copilului Călărași",
+   "url": "https://www.calarasi.ro/hotararile-deliberative/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://www.calarasi.ro/wp-content/uploads/2024/04/HOTARAREA-195.pdf",
+     "sha256": "641f58d83471a502f40af07fd308e46653c7f53f185fd11570ce61c4c5c3eab3"
+    }
+   ]
+  }
+ ]
+}

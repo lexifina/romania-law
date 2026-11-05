@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/calarasi/2019",
+"acts": [
+{
+"slug": "hcj-calarasi-137-2019",
+"path": "local/judet/calarasi/2019/137",
+"kind": "local",
+"year": "2019",
+"number": "137",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Călărași nr. 137/2019 privind aprobarea Organigramei, Statului de funcții și Regulamentului de organizare și funcționare ale Direcției Generale de Asistență Socială și Protecția Copilului Călărași",
+"short": "HCJ Călărași nr. 137/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-07-30",
+"latest": "2019-07-30",
+"portal": "https://www.calarasi.ro/hotararile-deliberative/",
+"council": "judet/calarasi",
+"council_name": "Consiliul Județean Călărași",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

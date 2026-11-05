@@ -1,0 +1,226 @@
+{
+"country": "RO",
+"shard": "local/judet/calarasi/2020",
+"acts": [
+{
+"slug": "hcj-calarasi-122-2020",
+"path": "local/judet/calarasi/2020/122",
+"kind": "local",
+"year": "2020",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Călărași nr. 122/2020 privind alegerea Președintelui Consiliului Județean Călărași",
+"short": "HCJ Călărași nr. 122/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-30",
+"latest": "2020-09-30",
+"portal": "https://www.calarasi.ro/hotararile-deliberative/",
+"council": "judet/calarasi",
+"council_name": "Consiliul Județean Călărași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-calarasi-156-2020",
+"path": "local/judet/calarasi/2020/156",
+"kind": "local",
+"year": "2020",
+"number": "156",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Călărași nr. 156/2020 privind aprobarea propunerilor Normelor de venit pentru anul 2021, in vederea impunerii veniturilor din activitati independente, realizate in mod individual si/sau intr-o forma de asociere, inclusiv din activitati independente, altele decat venituri din profesii liberale si din drepturi de proprietate intelectuala",
+"short": "HCJ Călărași nr. 156/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-21",
+"latest": "2020-12-21",
+"portal": "https://www.calarasi.ro/hotararile-deliberative/",
+"council": "judet/calarasi",
+"council_name": "Consiliul Județean Călărași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-calarasi-158-2020",
+"path": "local/judet/calarasi/2020/158",
+"kind": "local",
+"year": "2020",
+"number": "158",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Călărași nr. 158/2020 privind stabilirea prețurilor medii ale produselor agricole, în vederea calculării veniturilor anuale brute provenite din cedarea folosinței bunurilor prin închiriere, concesiune sau arendare, pentru anul 2021",
+"short": "HCJ Călărași nr. 158/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-21",
+"latest": "2020-12-21",
+"portal": "https://www.calarasi.ro/hotararile-deliberative/",
+"council": "judet/calarasi",
+"council_name": "Consiliul Județean Călărași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-calarasi-162-2020",
+"path": "local/judet/calarasi/2020/162",
+"kind": "local",
+"year": "2020",
+"number": "162",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Călărași nr. 162/2020 privind aprobarea actualizării indicatorilor tehnici ai obiectivului de investiții „Creșterea eficientei energetice la corpurile A, B, C și D la Spitalul Județean de Urgență Dr",
+"short": "HCJ Călărași nr. 162/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-21",
+"latest": "2020-12-21",
+"portal": "https://www.calarasi.ro/hotararile-deliberative/",
+"council": "judet/calarasi",
+"council_name": "Consiliul Județean Călărași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-calarasi-165-2020",
+"path": "local/judet/calarasi/2020/165",
+"kind": "local",
+"year": "2020",
+"number": "165",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Călărași nr. 165/2020 privind desființarea Complexului de Servicii Comunitare Oltenița și înființarea Centrului de Abilitare și Reabilitare pentru persoane adulte cu dizabilități Oltenița, precum și aprobarea Regulamentului de Organizare și Funcționare al acestuia",
+"short": "HCJ Călărași nr. 165/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-21",
+"latest": "2020-12-21",
+"portal": "https://www.calarasi.ro/hotararile-deliberative/",
+"council": "judet/calarasi",
+"council_name": "Consiliul Județean Călărași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-calarasi-166-2020",
+"path": "local/judet/calarasi/2020/166",
+"kind": "local",
+"year": "2020",
+"number": "166",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Călărași nr. 166/2020 privind reorganizarea Centrului Maternal Călărași prin înființarea unui punct de lucru și aprobarea Regulamentului de organizare și funcționare al acestuia",
+"short": "HCJ Călărași nr. 166/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-21",
+"latest": "2020-12-21",
+"portal": "https://www.calarasi.ro/hotararile-deliberative/",
+"council": "judet/calarasi",
+"council_name": "Consiliul Județean Călărași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-calarasi-167-2020",
+"path": "local/judet/calarasi/2020/167",
+"kind": "local",
+"year": "2020",
+"number": "167",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Călărași nr. 167/2020 privind aprobarea Organigramei, a Statului de funcții și a Regulamentului de Organizare și Funcționare ale Direcției Generale de Asistență Socială și Protecția Copilului Călărași",
+"short": "HCJ Călărași nr. 167/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-21",
+"latest": "2020-12-21",
+"portal": "https://www.calarasi.ro/hotararile-deliberative/",
+"council": "judet/calarasi",
+"council_name": "Consiliul Județean Călărași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-calarasi-168-2020",
+"path": "local/judet/calarasi/2020/168",
+"kind": "local",
+"year": "2020",
+"number": "168",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Călărași nr. 168/2020 privind aprobarea asocierii dintre",
+"short": "HCJ Călărași nr. 168/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-21",
+"latest": "2020-12-21",
+"portal": "https://www.calarasi.ro/hotararile-deliberative/",
+"council": "judet/calarasi",
+"council_name": "Consiliul Județean Călărași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-calarasi-172-2020",
+"path": "local/judet/calarasi/2020/172",
+"kind": "local",
+"year": "2020",
+"number": "172",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Călărași nr. 172/2020 privind desemnarea reprezentantului Consiliului Județean Călărași în Comisia de Orientare Școlară și Profesională Călărași",
+"short": "HCJ Călărași nr. 172/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-21",
+"latest": "2020-12-21",
+"portal": "https://www.calarasi.ro/hotararile-deliberative/",
+"council": "judet/calarasi",
+"council_name": "Consiliul Județean Călărași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-calarasi-173-2020",
+"path": "local/judet/calarasi/2020/173",
+"kind": "local",
+"year": "2020",
+"number": "173",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Călărași nr. 173/2020 privind desemnarea reprezentantului Consiliului Județean Călărași în Consiliul de administrație al Școlii Gimnaziale Speciale nr. 1 Călărași pentru anul școlar 2020-2021",
+"short": "HCJ Călărași nr. 173/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-21",
+"latest": "2020-12-21",
+"portal": "https://www.calarasi.ro/hotararile-deliberative/",
+"council": "judet/calarasi",
+"council_name": "Consiliul Județean Călărași",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/braila/2017",
+ "acts": [
+  {
+   "slug": "hcj-braila-5-2017",
+   "path": "local/judet/braila/2017/5",
+   "short": "HCJ Brăila nr. 5/2017",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 5/2017",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/Propunere-comisie-paritara-nr-5-din-09102017-00011F6E?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-10-09",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/4207DAE5CC1CFC93C22581B40049E4B1/$FILE/Propunere%20comisie%20paritara%20nr.%205%20din%2009.10.2017.pdf",
+     "sha256": "7495c8d9b11e7c6a15ebb7b15b10d6938c4f01909e8a0be91398150c2a4d5368"
+    }
+   ]
+  }
+ ]
+}

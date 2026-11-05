@@ -1,0 +1,51 @@
+{
+"country": "RO",
+"shard": "local/judet/calarasi/2017",
+"acts": [
+{
+"slug": "hcj-calarasi-41-2017",
+"path": "local/judet/calarasi/2017/41",
+"kind": "local",
+"year": "2017",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Călărași nr. 41/2017",
+"short": "HCJ Călărași nr. 41/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-03-03",
+"latest": "2017-03-03",
+"portal": "https://www.calarasi.ro/hotararile-deliberative/",
+"council": "judet/calarasi",
+"council_name": "Consiliul Județean Călărași",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-calarasi-46-2017",
+"path": "local/judet/calarasi/2017/46",
+"kind": "local",
+"year": "2017",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Călărași nr. 46/2017 privind aprobarea documentației tehnico-economice și a devizului general al obiectivului de investiție: „Reabilitarea drumului județean DJ 403 între DN 31 (Mânăstirea) – Luica – DN 4 (Șoldanu) – Radovanu (DJ 411), km 0+000 – km 34+800”, Faza - Documentație de Avizare a Lucrărilor de Intervenție”, precum și a cofinanțării acestuia în vederea promovării prin Programul Național de Dezvoltare Locală C",
+"short": "HCJ Călărași nr. 46/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-03-16",
+"latest": "2017-03-16",
+"portal": "https://www.calarasi.ro/hotararile-deliberative/",
+"council": "judet/calarasi",
+"council_name": "Consiliul Județean Călărași",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}
