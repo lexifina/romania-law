@@ -1,0 +1,15 @@
+# Anexa nr. 1
+Anexa 1 (Anexa nr. 4 la regulament) - Model - MINISTERUL AGRICULTURII ȘI DEZVOLTĂRII RURALE COMISIA NAȚIONALĂ DE OMOLOGARE A PRODUSELOR DE PROTECȚIE A PLANTELOR Bd. Carol I nr. 2-4, sectorul 3, București Tel.: 021.30.72.386; fax: 021.30.72.485 E-mail: fitosanitar@madr.ro Website: www.madr.ro PERMIS DE COMERȚ PARALEL Nr......../................ Având în vedere cererea pentru obținerea permisului de comerț paralel pentru produsul de protecție a plantelor depusă de............................, înregistrată cu nr......... din.................., însoțită de documentele prevăzute la art. 14 din Regulamentul de organizare și funcționare a Comisiei Naționale de Omologare a Produselor de Protecție a Plantelor, aprobat prin Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale, al ministrului sănătății și al ministrului mediului și gospodăririi apelor nr. 116 / 153 / 358/2005, cu modificările și completările ulterioare, Comisia Națională de Omologare a Produselor de Protecție a Plantelor, în ședința din data de.............., a aprobat comerțul paralel pentru produsul de protecție a plantelor descris mai jos, pentru utilizarea în agricultură și silvicultură: 1. Denumirea comercială:........................................ 2. Producător:.................................................. 3. Substanță activă/Substanțe active:........................... 3.a. Denumirea comună:.......................................... 3.b. Conținut:.................................................. 4. Clasificare:................................................. 5. Etichetare:.................................................. 6. Cantitatea/Capacitatea de ambalare:.......................... 7. Domeniu de utilizare:........................................
+```
+┌─────────────────────────┬─────────────────────────┬────────────────────────┐
+│        Cultura          │   Organismul dăunător   │   Doza de utilizare    │
+│                         │                         │    (l/ha sau kg/ha)    │
+├─────────────────────────┼─────────────────────────┼────────────────────────┤
+│                         │                         │                        │
+├─────────────────────────┼─────────────────────────┼────────────────────────┤
+│                         │                         │                        │
+├─────────────────────────┼─────────────────────────┼────────────────────────┤
+│                         │                         │                        │
+└─────────────────────────┴─────────────────────────┴────────────────────────┘
+```
+Conform documentelor depuse, produsul................................ (denumirea comercială) din.................... (statul membru de origine), omologat cu nr....... din............., produs de către......................... (denumirea producătorului), este identic cu produsul..................... (denumirea produsului de referință), având Certificatul de omologare nr......... din................... Prezentul permis de comerț paralel este valabil până la data de..................... Președinte,...................... Eliberat la București:.................. În data de:................
