@@ -1,0 +1,2591 @@
+# Anexa nr. 1
+Normativ privind proiectarea, execuția și exploatarea instalațiilor sanitare aferente clădirilor
+Indicativ I 9-2022 octombrie 2022
+OBIECT, DOMENIU DE APLICARE
+GENERALITĂȚI 1.1.
+Prevederile din prezentul normativ au ca obiect proiectarea, executarea și exploatarea: - instalațiilor sanitare din clădiri civile (de locuit, social-culturale, comerț, administrative, laboratoare, clădiri similare din industrie - grupuri sanitare etc.) și din clădiri industriale (de producție și/sau depozitare) - la care se folosește apa potabilă.
+- instalațiilor de alimentare cu apă în sisteme de utilizare apă nepotabilă;
+- rețelelor exterioare de alimentare cu apă, cuprinse între branșamentele instalațiilor interioare de alimentare cu apă și stațiile de ridicare a presiunii din clădiri/ansamblurile de clădiri și incintele acestora, chiar dacă acestea sunt în proprietatea mai multor persoane fizice sau juridice;
+- rețelelor exterioare de canalizare din ansamblurile de clădiri, cuprinse între racordurile instalațiilor interioare de canalizare și colectoarele principale de canalizare ale localităților sau stațiile de epurare a apelor uzate ale ansamblurilor de clădiri și incintele acestora.
+Prevederile prezentului normativ se aplică și pentru: - sisteme și rețelele exterioare de apă și canalizare aferente unei incinte, unei proprietăți private sau unei instituții publice pe care se află mai multe imobile, indiferent de destinație, despărțite de zone verzi și alei interioare private;
+- sisteme și rețelele exterioare de apă și canalizare aferente unei platforme industriale sau comerciale, în care drumurile de acces și spațiile verzi sunt proprietate privată, chiar dacă aceasta este administrată de mai multe persoane juridice;
+- orice alte sisteme de alimentare cu apă și canalizare din incinte private.
+1.2.
+Proiectarea și executarea instalațiilor de apă pentru stingerea incendiilor, în cazul în care sunt comune cu instalațiile interioare de alimentare cu apă, la obiectivele indicate la pct. 1.1, se realizează în conformitate cu normativul privind securitatea la incendiu a construcțiilor, Partea a II-a - Instalații de stingere, indicativ P 118/2-2013, aprobat prin Ordinul ministrului dezvoltării regionale și administrației publice nr. 2463/08.08.2013, modificat prin Ordinul ministrului dezvoltării regionale și administrației publice nr. 6026/25.10.2018, prezentul normativ sau potrivit altor reglementări specifice.
+1.3.
+Nu fac obiectul prezentului normativ: - proiectarea și executarea surselor de apă cu excepția surselor locale;
+- stații de tratare a apei;
+- sistemele de alimentare cu apă și canalizare ale localităților;
+- stații de epurare a apelor uzate;
+- instalații de apă și canalizare cu caracter tehnologic din industrie, sere, construcții agrozootehnice etc.;
+- instalații pentru stingerea incendiilor, distincte de alte instalații interioare de alimentare cu apă în clădiri care se realizează în conformitate cu normativul P118/2 și normativele conexe; echiparea și dotarea tehnică a clădirilor cu instalații de stingere a incendiilor se face potrivit reglementării tehnice privind securitatea la incendiu a construcțiilor și altor reglementări tehnice specifice.
+- prepararea apei calde de consum cu surse alternative de energie: solară, geotermală, eoliană etc.
+1.4.
+Prevederile normativului se aplică atât la obiectivele noi, cât și la reabilitarea sau la modernizarea instalațiilor existente indiferent de forma de proprietate. Pentru instalațiile existente, se va analiza situația creată de diferențele de norme, actuale și cele care au stat la baza realizării instalației existente, și se va alege soluția optimă din punct de vedere tehnico - economic.
+Pentru construcțiile provizorii, normativul are caracter de recomandare.
+1.5.
+În conținutul normativului se găsesc și prevederi care nu se referă strict la instalațiile sanitare din clădiri și de alimentare cu apă și canalizare din ansambluri de clădiri cum sunt cele privind elementele constructive ale clădirilor, intercondiționări cu alte categorii de instalații etc.
+Respectivele prevederi fac trimiteri la alte prescripții tehnice; ele nu se substituie acestora și nu au prioritate față de acestea.
+Prevederile menționate sunt incluse în fiecare capitol, în corelare cu problemele de instalații sanitare din clădiri și de alimentare cu apă și canalizare din ansambluri de clădiri, specifice capitolului respectiv. Aceste prevederi se adresează celorlalți specialiști cu care colaborează specialiștii din domeniul instalațiilor sanitare din clădiri și de alimentare cu apă și canalizare din ansambluri de clădiri.
+2.
+CONDIȚII GENERALE DE PROIECTARE, EXECUTARE ȘI EXPLOATARE 2.1.
+Proiectarea, executarea și exploatarea instalațiilor sanitare din clădiri și de alimentare cu apă și canalizare din incinte, cuprinse în obiectul acestui normativ se face cu scopul ca acestea să corespundă calitativ cel puțin nivelurilor minime de performanță, referitoare la cerințele esențiale definite de Legea nr. 10/1995 privind calitatea în construcții, republicată, cu modificările și completările ulterioare și Legea nr. 372/2005 privind performanța energetică a clădirilor, republicată.
+Nivelurile minime de performanță ale instalațiilor, cu privire la respectarea cerințelor esențiale sunt prevederile din prezentul normativ și reglementările tehnice specifice în vigoare, cu caracter obligatoriu; fac excepție acele prevederi în care este inclusă explicit expresia "se recomandă", dar care au prioritate în adoptarea unei soluții.
+2.2.
+La proiectarea, executarea și exploatarea instalațiilor sanitare trebuie îndeplinite condițiile de calitate și de performanță, referitoare la următoarele cerințe esențiale: ● Rezistență mecanică și stabilitate; ● Securitate la incendiu; ● Igienă, sănătate și mediu înconjurător; ● Siguranță și accesibilitate în exploatare; ● Protecție împotriva zgomotului; ● Economie de energie și izolare termică; ● Utilizare sustenabilă a resurselor naturale.
+2.3.
+Alegerea soluțiilor se face după criterii tehnice și economice, ținând seama de necesitățile specifice și de posibilitățile de realizare.
+În analizele privind economicitatea unei soluții, inclusiv oportunitatea unei modernizări sau transformări, se iau în considerare toate aspectele legate de costul investiției și al exploatării.
+2.4.
+Proiectarea lucrărilor de instalații sanitare din clădiri și de alimentare cu apă și canalizare din incintele aferente (cuprinse în obiectul normativului) se realizează în conformitate cu prevederile legale în vigoare referitoare la modalitatea de întocmire a documentațiilor, precum și de conținutul acestora, pe faze de proiectare. Proiectul se elaborează de către proiectanți de specialitate, conform prevederilor legale în vigoare la data elaborării proiectului.
+2.5.
+Proiectul se verifică, în condițiile legii, de către verificatori de proiecte atestați, iar referatul de verificare al proiectului face parte integrantă din proiect.
+3.
+UNITĂȚI DE MĂSURĂ
+Se utilizează unitățile din Sistemul Internațional.
+Pentru calcule sunt recomandate următoarele unități de măsură: ● Debite masice: kg/s; ● Debite volumice: mc/s, l/s, mc/h ● Masa: kg; ● Masa specifică (densitate): kg/mc; ● Accelerații: m/sp; ● Accelerația gravitațională: g (9,81 m/sp) ● Presiunea: Pa, bar; ● Înălțimea de presiune: m col H2O; ● Sarcina hidrodinamică: m col H2O; ● Pierderea de sarcină: m col H2O; ● Putere: W; ● Energie: J, kWh; ● Viteza: m/s
+4.
+DOCUMENTE DE REFERINȚĂ 4.1.
+Pentru reglementările tehnice, standardele de referință, legile și actele normative, se vor lua în considerare edițiile în vigoare, inclusiv modificările și completările ulterioare.
+4.2.
+Lista reglementărilor tehnice de referință dată în această reglementare tehnică se consultă împreună cu lista documentelor normative aflate în vigoare publicată către autoritățile de reglementare de resort.
+4.3.
+REGLEMENTĂRI TEHNICE: ● Normativul de siguranță la foc a construcțiilor, indicativ P118-1999, aprobat prin Ordinul ministrului lucrărilor publice și amenajării teritoriului nr. 27/N/07.04.1999, denumit în continuare în prezentul document normativ P118; ● Normativul privind securitatea la incendiu a construcțiilor, Partea a II-a - Instalații de Stingere, indicativ P 118/2-2013, aprobat prin Ordinul ministrului dezvoltării regionale și administrației publice nr. 2463/08.08.2013, modificat prin Ordinul ministrului dezvoltării regionale și administrației publice nr. 6026/25.10.2018, denumit în continuare în prezentul document normativ P118/2; ● Normativul privind securitatea la incendiu a construcțiilor, Partea a III-a - Instalații de detectare, semnalizare, avertizare, indicativ P118/3-2015, aprobat prin Ordinul ministrului dezvoltării regionale și administrației publice nr. 364/09.03.2015 și modificat prin Ordinul ministrului dezvoltării regionale și administrației publice nr. 6025/25.10.2018, denumit în continuare în prezentul document normativ P118/3; ● Normativ pentru proiectarea, execuția și exploatarea instalațiilor electrice aferente clădirilor, indicativ I7-2011, aprobat prin Ordinul ministrului dezvoltării regionale și turismului nr. 2741/01.10.2011, denumit în continuare în prezentul document normativ I7; ● Normativ privind proiectarea, execuția și exploatarea sistemelor de alimentare cu apă și canalizare a localităților, indicativ NP 133-2013, aprobat prin Ordinul ministrului dezvoltării regionale și administrației publice nr. 2901/04.09.2013, denumit în continuare în prezentul document normativ NP 133; ● Normativ privind fundarea construcțiilor pe pământuri sensibile la umezire, Indicativ NP 125-2010, aprobat prin Ordinul ministrului dezvoltării regionale și turismului nr. 2.688/29.12.2012, denumit în continuare în prezentul document normativ NP 125. ● Normativ privind stabilirea limitelor de încărcare cu poluanți a apelor uzate industriale și orășenești la evacuarea în receptorii naturali, indicativ NTPA - 001- 2002, aprobat prin Hotărârea Guvernului nr. 188/28.02.2002, cu modificările și completările ulterioare, denumit în continuare în prezentul document normativ NTPA-001; ● Normativ privind stabilirea limitelor de încărcare cu poluanți a apelor uzate industriale și orășenești la evacuarea în rețelele de canalizare ale orașelor, indicativ NTPA-002-2002, aprobat prin Hotărârea Guvernului nr. 188/28.02.2002, cu modificările și completările ulterioare, denumit în continuare în prezentul document normativ NTPA-002; ● Hotărârea Guvernului nr. 100/2002 pentru aprobarea Normelor de calitate pe care trebuie să le îndeplinească apele de suprafață utilizate pentru potabilizare și a Normativului privind metodele de măsurare și frecvență de prelevare și analiză a probelor din apele de suprafață destinate producerii de apă potabilă, cu modificările și completările ulterioare, denumite în continuare în acest document norme NTPA 013; ● Metodologie de calcul al performanței energetice a clădirilor. Partea I - Anvelopa clădirii, indicativ Mc 001/1-2006, aprobată prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 157/01.02.2007, cu modificările și completările ulterioare, denumit în continuare în prezentul document metodologie de calcul Mc 0012006. ● Metodologie de calcul al performanței energetice a clădirilor. Partea a II-a - Performanța energetică a instalațiilor din clădiri, indicativ Mc 001/2-2006, aprobată prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 157/01.02.2007, cu modificările și completările ulterioare. ● Metodologie de calcul al performanței energetice a clădirilor. Partea a III-a - Auditul și certificatul de performanță al clădirii, indicativ Mc 001/3-2006, aprobată prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 157/01.02.2007, cu modificările și completările ulterioare. ● Metodologie de calcul al performanței energetice a clădirilor. Partea a IV-a - Breviar de calcul al performanței energetice a clădirilor și apartamentelor, indicativ Mc 001/4-2009, aprobată prin Ordinul ministrului dezvoltării regionale și locuinței nr. 1071/16.12.2009. ● Metodologie de calcul al performanței energetice a clădirilor. Partea a V-a - Model certificat de performanță energetică al apartamentului, indicativ Mc 001/5-2009, aprobată prin Ordinul ministrului dezvoltării regionale și locuinței nr. 1071/16.12.2009. ● Metodologie de calcul al performanței energetice a clădirilor. Partea a VI-a - Parametrii climatici necesari determinării performanței energetice a clădirilor noi și existente, dimensionării instalațiilor de climatizare a clădirilor și dimensionării higrotermice a elementelor de anvelopă ale clădirilor, indicativ Mc 001/6-2013, aprobată prin Ordinul ministrului dezvoltării regionale și administrației publice nr. 2210/26.06.2013.
+4.4.
+STANDARDE ROMÂNE DE REFERINȚĂ:
+Se utilizează cele mai recente ediții ale standardelor române de referință, împreună cu anexele naționale (dacă este cazul), amendamentele și eratele publicate de către organismul național de standardizare. ● STAS 1478 - Instalații sanitare. Alimentarea cu apă la construcții civile și industriale. Prescripții fundamentale de proiectare. ● STAS 3051 Sisteme de canalizare. Canale ale rețelelor exterioare de canalizare. Prescripții fundamentale de proiectare. ● STAS 1795 - Instalații sanitare. Canalizare interioară. Prescripții fundamentale de proiectare. ● STAS 1504 Instalații sanitare. Distanțe de amplasare ale obiectelor sanitare, armăturilor și accesoriilor lor. ● STAS 9470 - Hidrotehnică. Ploi maxime. Intensități, durate, frecvențe. ● SR 1343-1 - Alimentări cu apă. Determinarea cantităților de apă potabilă pentru localități urbane și rurale. ● SR 4163 - Partea 1 - 3 - Alimentări cu apă. Rețele de distribuție. ● SR 8591, Rețele edilitare subterane. Condiții de amplasare ● SR EN 805 - Alimentări cu apă - Condiții pentru sistemele și componentele exterioare clădirilor. ● SR EN 806 - Partea 1 - 5 - Specificații tehnice referitoare la instalații de distribuție a apei destinată consumului uman în interiorul clădirilor. ● SR EN 1717:2004 - Protecția împotriva poluării apei potabile în instalațiile de apă și cerințe generale pentru dispozitivele de prevenire a poluării prin reflux. ● SR EN 476 - Cerințe generale pentru componentele utilizate în racorduri și colectoare. ● SR EN 752 - Rețele de canalizare în exteriorul clădirilor. ● SR 1846 - Partea 1 - 2 - Canalizări exterioare. Prescripții de proiectare. ● SR EN 16932-1; Rețele de drenaj și de canalizare în exteriorul clădirilor. Sisteme de pompare. Partea 1: Cerințe generale ● SR EN 16932-2; Rețele de drenaj și de canalizare în exteriorul clădirilor. Sisteme de pompare. Partea 2: Sisteme sub presiune. ● SR EN 16932-3; Rețele de drenaj și de canalizare în exteriorul clădirilor. Sisteme de pompare. Partea 3: Sisteme sub vid. ● SR EN 1610 - Execuția și încercarea racordurilor și rețelelor de canalizare. ● SR EN 12050 - Partea 1 - 4 Stații de pompare a apelor uzate amplasate în clădiri și în exterior ● SR EN 12056 Partea 1 - 5. Rețele de evacuare gravitațională din interiorul clădirilor. ● SR EN 13564 1-3, Clapete împotriva refulării pentru clădiri. ● SR EN 16933-1-2; Sisteme de evacuare și canalizare în exteriorul clădirilor ● SR EN 858-1-2; Separatoare de lichide ușoare (de exemplu hidrocarburi). ● SR EN 12380, Supape de echilibrare a presiunii pentru sisteme interioare de canalizare. Cerințe, metode de încercare și evaluarea conformității. ● SR EN 14366 - Măsurarea în laborator a zgomotului emis de instalațiile de evacuare a apelor uzate. ● SR EN 12828 - Sisteme de încălzire a clădirilor. Proiectarea sistemelor de încălzire cu apă caldă; ● SR EN 12566 Părțile 1, 3, 4, 6 și 7 Stații mici de epurare a apelor uzate pentru până la 50 PT. ● SR EN 858 Părțile 1,2 - Separatoare de lichide ușoare (de exemplu hidrocarburi).
+4.5.
+LEGI ȘI ALTE ACTE NORMATIVE ● Legea nr. 10/1995 privind calitatea în construcții, republicată, cu modificările și completările ulterioare. ● Legea nr. 372/2005 privind performanța energetică a clădirilor, republicată. ● Legea nr. 458/2002 privind calitatea apei potabile, republicată, cu modificările și completările ulterioare. ● Legea apelor nr. 107/1996, cu modificările și completările ulterioare. ● Hotărârea Guvernului nr. 930/2005 pentru aprobarea Normelor speciale privind caracterul și mărimea zonelor de protecție sanitară și hidrogeologică. ● Hotărârea Guvernului nr. 714 din 26 mai 2022 privind aprobarea Criteriilor pentru autorizarea, construcția, înscrierea/înregistrarea, controlul, exploatarea și întreținerea sistemelor individuale adecvate de colectare și epurare a apelor uzate. ● Ordinul ministrului sănătății nr. 10/2010 privind aprobarea procedurii de avizare a produselor biocide care sunt plasate pe piață pe teritoriul României. ● Legea nr. 301/2015 privind stabilirea cerințelor de protecție a sănătății populației în ceea ce privește substanțele radioactive din apa potabilă. ● Ordinul ministrului sănătății nr. 119/2014 pentru aprobarea Normelor de igienă și sănătate publică privind mediul de viață al populației. ● Ordinul ministrului sănătății nr. 275/2012 privind aprobarea Procedurii de reglementare sanitară pentru punerea pe piață a produselor, materialelor, substanțelor chimice/amestecurilor și echipamentelor utilizate în contact cu apa potabilă, cu modificările și completările ulterioare ● Ordinul ministrului sănătății nr. 914/2006 pentru aprobarea normelor privind condițiile pe care trebuie să le îndeplinească un spital în vederea obținerii autorizației sanitare de funcționare, cu modificările și completările ulterioare. ● Directiva 2014/32/EU a Parlamentului European și a Consiliului din 26 februarie 2014 privind armonizarea legislației statelor membre referitoare la punerea la dispoziție pe piață a mijloacelor de măsurare (reformată)
+Aplicarea normativului se realizează prin utilizarea documentelor tehnice și legislative (standarde, normative și legi) cu edițiile în vigoare, cu toate completările legislative la zi.
+5.
+GRADUL DE ECHIPARE AL CLĂDIRILOR 5.1.
+Echiparea și dotarea cu instalații sanitare a clădirilor, precum și alimentarea cu apă și canalizare din ansambluri de clădiri, se realizează în funcție de destinația și caracteristicile acestora sau a spațiilor ce urmează a fi dotate, de caracteristicile rețelelor exterioare de apă și canalizare, de nivelul de confort la care trebuie să răspundă clădirile respective, precum și de cerințele investitorilor.
+5.2.
+Pentru clădirile de locuit se recomandă dotarea minimă cu următoarele obiecte și accesoriile respective, după caz: a) pentru camere de baie: - căzi de baie, cu baterie pentru cadă;
+- lavoar, cu baterie pentru lavoar;
+- vas de closet cu rezervor montat pe vas, la semiînălțime sau la înălțime;
+- racordurile necesare pentru apă caldă, rece și canalizare în scopul racordării obiectelor sanitare precum și a mașinii de spălat rufe;
+- sifon de pardoseală.
+b) pentru grupul sanitar suplimentar: - lavoar, cu baterie pentru lavoar;
+- vas de closet cu rezervor montat pe vas, la semiînălțime sau la înălțime;
+- cadă de duș, cu baterie pentru duș (opțional);
+- racordurile necesare pentru apă rece, caldă și canalizare, în cazul în care nu s-au prevăzut în camera de baie;
+- sifon de pardoseală.
+c) pentru bucătării: - spălător cu sau fără platformă, cu baterie;
+- racordurile necesare pentru apă rece, caldă și canalizare pentru racordarea obiectelor sanitare și a mașinii de spălat vase;
+d) pentru părțile comune: - chiuvetă, cu baterie sau cu un robinet dublu serviciu (apă rece) sau cu două robinete dublu serviciu (un robinet pentru apă rece și un robinet pentru apă caldă), sau armătură similară;
+- racordurile necesare pentru apă rece, caldă și canalizare.
+Obiectele pentru părțile comune sunt amplasate, de regulă, câte una la 3-4 nivele, lângă casa scării, în spațiile care adăpostesc gurile pentru evacuarea deșeurilor menajere sau în alte spații disponibile, ferite de îngheț.
+5.3.
+Pentru dotarea minimă cu obiecte sanitare și accesorii a clădirilor se recomandă consultarea STAS 1478 "Instalații sanitare. Alimentarea cu apă la construcții civile și industriale. Prescripții fundamentale de proiectare", precum și prevederile reglementărilor tehnice în vigoare în care se precizează dotările necesare pentru diferite categorii de clădiri și încăperi și solicitările beneficiarului. În grupurile sanitare publice, se indică ori de câte ori este posibil, utilizarea de obiecte sanitare care să permită menținerea igienei (vase de closet suspendate, lavoare suspendate, montarea de armături și robinete cu temporizare sau cu senzor de prezență etc.). Prevederea anterioară este obligatorie pentru grupuri sanitare publice. De asemenea, se vor respecta și condițiile de dotare ale clădirilor cu obiecte sanitare pentru persoane cu dizabilități fizice.
+5.4.
+Pentru evacuarea apelor de pe pardoseală se prevăd, după caz, sifoane de evacuare în: - camere de baie (din clădiri de locuințe și alte categorii de clădiri cu camere de baie);
+- camere de dușuri;
+- încăperi pentru pisoare;
+- încăperi în care se montează fântâni de băut apă;
+- în dreptul punctelor de scurgere în încăperi prevăzute cu mașini de spălat rufe, cazane de fiert rufe, marmite etc.;
+- încăperi în care există posibilitatea spălării sau stropirii pardoselii (spălătorii de rufe, de vase, veselă, legume etc.);
+- la magazine cu profil alimentar, având suprafața în care se desfășoară operațiuni de vânzare de peste 100 mp (pește, carne, legume, fructe, lactate etc.);
+- la spălătoriile și camerele interioare de gunoi ale clădirilor de locuit;
+- în exteriorul camerelor frigorifice, în apropierea ușii;
+- în grupurile sanitare de folosință comună.
+- în zone cu destinație parcare, pentru preluarea apelor accidentale;
+- în zone industriale în care există necesitatea preluării apelor accidentale;
+- sifoanele de pardoseală pot fi înlocuite cu rigole, cu excepția zonelor în care se desfășoară activități cu profil alimentar;
+- pentru hoteluri (sau spații similare), amplasarea sifoanelor în grupurile sanitare din zonele de cazare este o recomandare și nu o obligație, fiind decizia investitorului, considerându-se și o serie de condiții suplimentare legate de categoria hotelului.
+La curțile de lumină cu suprafața sub 8 mp, se prevede un receptor cu un sifon de linie, pe legătura la canalizare din subsolul clădirii.
+Sifoanele de pardoseală sau rigolele se montează în puncte sau linii de cotă minimă, după caz. Poziția acestora pe planuri se realizează în funcție de modul în care este amenajat spațiul. Se vor asigura pante ale suprafețelor de pe care se realizează colectarea către pozițiile de amplasare a sifoanelor/rigolelor; aceste pante vor fi asigurate de documentațiile specifice definirii pardoselilor, elaborate de către inginerii constructori/arhitecți.
+5.5.
+Pentru menținerea gărzii hidraulice la sifoanele de pardoseală, acestea se racordează la conducta de scurgere a unui obiect sanitar cu utilizare frecventă. În zonele în care acest lucru nu este posibil, sau în cazul în care există montat un sistem de încălzire prin pardoseală, ori în cazul în care există întreruperi mari de activitate în clădire, se pot monta sifoane de pardoseală cu obturatoare de miros.
+5.6.
+Pentru colectarea apelor de pe pardoseală se prevăd recipienți la: - centrale termice și puncte termice;
+- stații de pompare;
+- subsoluri tehnice, pentru evacuarea apelor provenite din neetanșeitățile instalațiilor;
+- curți de lumină cu suprafața mai mare de 8 mp, precum și în cazul în care apa de evacuat conține suspensii solide care pot înfunda sifoanele de pardoseală.
+6.
+INSTALAȚII DE ALIMENTARE CU APĂ RECE
+PREVEDERI GENERALE 6.1.
+Pentru alimentarea cu apă de consum se folosesc numai surse a căror apă îndeplinește condițiile de potabilitate a apei, conform Legii nr. 458/2002, republicată, cu modificările și completările ulterioare. De asemenea se va ține cont de Legea nr. 107/1996, cu modificările ulterioare și Normele de calitate NTPA-013 pe care trebuie să le îndeplinească apele de suprafață utilizate pentru potabilizare.
+6.2.
+Apa nepotabilă se poate folosi, cu acordul organelor sanitare de specialitate, pentru: - stingerea incendiilor;
+- stropitul spațiilor verzi;
+- spălarea pardoselilor, vehiculelor, diluarea apelor reziduale;
+- closete și pisoare la clădirile civile și anexele clădirilor de producție etc.
+Pentru aceste cazuri se prevăd indicatoare de avertizare că apa este nepotabilă.
+6.3.
+Orice legătură a rețelelor de apă potabilă cu rețelele de apă nepotabilă este strict interzisă.
+6.4.
+La stabilirea soluției privind instalațiile de alimentare cu apă se ține seama, în principal, de următoarele: - destinația și caracteristicile clădirii: de locuit, administrativă, social-culturală etc.;
+- caracteristicile proceselor tehnologice (amplasarea utilajelor, punctelor obligatorii de alimentare cu apă etc.);
+- condițiile de igienă, confort, cerințe de estetică etc.;
+- caracteristicile terenului de fundare a construcției;
+- clasa de importanță a construcției din punct de vedere seismic, conform reglementărilor tehnice în vigoare privind proiectarea seismică a clădirilor;
+- caracteristicele funcționale ale rețelei exterioare de alimentare cu apă în punctul de racord al instalației interioare sau la sursele proprii de alimentare cu apă și anume: debitul, presiunea de serviciu (sarcina hidrodinamică disponibilă), regimul de furnizare a apei (continuu sau intermitent) și calitatea apei.
+REȚELE EXTERIOARE DE ALIMENTARE CU APĂ RECE 6.5.
+Rețelele exterioare de alimentare cu apă potabilă, din ansamblurile de clădiri și incinte se realizează, de regulă, inelare. În cazul rețelelor inelare, acestea pot avea ramuri de maximum 500 m pentru alimentarea cu apă a clădirilor indicate mai înainte cu excepția celor vitale sau de importanță deosebită; se recomandă și prevederile normativului NP133, seria de standarde SR 4163 și SR EN 805; pentru rețele inelare, se sectorizează rețeaua.
+6.6.
+Rețelele de apă pentru consum menajer și industrial pot fi comune cu cele pentru incendiu doar în situațiile prevăzute în normativul P118/2.
+6.7.
+În cazul unor construcții civile sau de producție învecinate (sau alăturate, alipite) pentru fiecare dintre ele se prevăd și se execută instalații interioare separate de alimentare cu apă.
+6.8.
+Rețelele exterioare de distribuție a apei reci din ansamblurile de clădiri sau clădiri industriale cu o singură zonă de presiune se pot racorda: - direct la conductele de distribuție ale rețelei de alimentare cu apă a localității atunci când înălțimea de presiune disponibilă furnizată este în permanență mai mare sau egală decât sarcina hidrodinamică necesară instalației;
+- indirect, la conductele de distribuție ale rețelei de alimentare cu apă a localității, prin intermediul unor instalații de ridicare a presiunii apei atunci când înălțimea de presiune disponibilă furnizată este în permanență sau pe durata unor perioade limitate de timp mai mică decât sarcina hidrodinamică necesară instalației.
+6.9.
+Funcție de presiunea disponibilă în rețeaua de alimentare cu apă și de presiunea necesară, la punctele de consum se prevăd regulatoare de presiune, pe racordul la clădire, pe racordul la apartament, pe racordurile la armăturile obiectelor sanitare de la fiecare apartament al clădirii, după caz.
+6.10.
+Zonarea presiunii pe verticală se face în funcție de înălțimea clădirilor, respectând condiția presiunii maxime de 6 bar pentru fiecare zonă de presiune.
+Se recomandă ca valoarea presiunii de utilizare să rămână sub 4 bar la nivelul bateriilor și robinetelor de consum, prin montarea de reductoare de presiune la nivelurile inferioare unde exista posibilitatea depășirii acestei valori.
+6.11.
+În cazul a două zone de presiune, prima zonă, cu presiune mai mică, se alimentează cu apă până la înălțimea determinată de presiunea rețelei din care se alimentează. A doua zonă, cu presiune mai mare, asigură alimentarea cu apă a celorlalte niveluri superioare, până la limita de 6 bar, cu condiția ca rețelele de distribuție și armăturile de la partea inferioară a zonei a doua de presiune să fie dimensionate corespunzător presiunii respective.
+BRANȘAMENTE 6.12.
+Fiecare clădire sau grup de clădiri dintr-o incintă este alimentat cu apă, de regulă, printr-un singur branșament.
+Alimentarea cu apă printr-un singur branșament se aplică și în cazul în care rețeaua localității este ramificată și există o singură conductă de alimentare cu apă a consumatorului.
+6.13.
+În cazul în care rețeaua localității este inelară sau alcătuită din minimum două rețele distincte, se prevăd două sau mai multe branșamente pentru rețelele de consum menajer sau pentru cele comune (menajer și incendiu) în următoarele situații: - când nu se poate realiza debitul necesar printr-un singur branșament;
+- în cazul clădirilor înalte și foarte înalte;
+- la clădiri cu risc foarte mare și mare de incendiu, stabilite de investitori;
+- la clădiri cu volumul mai mare de 5000 mc, destinate copiilor cu vârstă preșcolară, instituții medicale, aziluri pentru bătrâni sau infirmi, muzee, expoziții, biblioteci sau arhive, magazine și depozite anexe;
+- cinematografe, cluburi și case de cultură (fără scenă amenajată), săli de concerte și de întruniri, de gimnastică și de sport, cu capacitate de 600 de locuri sau mai mult;
+- teatre, cluburi și case de cultură cu scenă amenajată.
+6.14.
+În cazul prevederii mai multor branșamente se aplică următoarele măsuri: - pe fiecare branșament se montează armături de închidere și ventile de reținere (clapete de sens), astfel încât să poată fi scoase separat din funcțiune în caz de avarii și să împiedice circulația apei în sens invers, prin contorul de apă;
+- branșamentele se prevăd pe ramuri diferite ale rețelei de alimentare cu apă a localității;
+- în cazul rețelelor inelare de alimentare cu apă a localității, între două branșamente se prevede o armătură de închidere, pentru acționare în caz de avarie.
+6.15.
+Alimentarea printr-un branșament de la rețeaua exterioară și prin al doilea branșament de la o sursă proprie se realizează în cazul în care rețeaua exterioară nu asigură continuitatea debitului și presiunii sau atunci când este această prevedere este prevăzută în caietul de sarcini. În acest caz se realizează un montaj astfel încât cele două conducte să nu comunice.
+Pentru folosirea sursei proprii trebuie să se obțină avizul din partea autorităților responsabile.
+6.16.
+Se recomandă ca branșamentul să fie perpendicular pe conducta de la care se alimentează.
+6.17.
+Căminele de branșament se amplasează, de regulă, în incinta consumatorului, la limita ei. Se admite amplasarea căminului pe trotuar, ținând seama de existența altor instalații subterane, cu aprobare din partea autorităților.
+6.18.
+Pe branșamentele cu lungimi mai mari de 15 m, care sunt amplasate sub zone carosabile, precum și în cazul montării contoarelor în căminele de branșament din incintă sau din interiorul clădirilor, se prevede un robinet de închidere în imediata apropiere a punctului de racord la rețeaua exterioară, într-un cămin, cu posibilitatea acționării robinetului de închidere, din afara căminului.
+CONTORIZAREA CONSUMULUI DE APĂ 6.19.
+Întreaga cantitate de apă preluată din rețeaua exterioară se contorizează în vederea stabilirii cantităților de apă consumată.
+Montarea contoarelor se face conform indicațiilor din documentația tehnică a producătorului.
+6.20.
+Pentru alegerea aparatelor de măsură se va ține cont de prevederile Directivei 2014/32/EU (Measuring Instruments MI-001), De asemenea se va ține cont de Ordinul nr. 275/2012, cu modificările și completările ulterioare. De asemenea, debitele considerate la alegerea contorului se vor nota cu litera Q, se păstrează notațiile din directiva enunțată mai sus.
+6.21.
+La alegerea contorului se va ține cont de următoarele debite: ● Debit minim Q1, exprimat în mc/h, reprezintă cel mai mic debit pe care contorul îl poate măsura cu o precizie de +/- 5%. ● Debit tranzitoriu Q2, exprimat în mc/h, reprezintă debitul pentru care precizia contorului crește de la +/-5 % la +/-2%. Conform Directivei 2014/32/EU (MI- 001) Q2= 1,6 x Q1. ● Debitul nominal Q3 este definit ca fiind egal cu 80% din debitul maxim (Q4). Q3 corespunde valorii debitului de calcul Vc, stabilit în funcție de destinația clădirii utilizând relațiile de calcul din capitolul 11. ● Debitul maxim Q4 este cel mai mare debit pe care contorul îl poate măsura pentru perioade scurte de timp, fără a se deteriora și fără a depăși eroarea de măsură maximă admisă.
+Contorul trebuie ales astfel încât debitul măsurat să nu depășească Q4 și, de asemenea, nu ar trebui să fie sub Q1. Între debitele prezentate există următoarele relații.
+Q2 / Q1 = 1,6
+Q4 / Q3 = 1,25
+Pierderea de sarcină la nivelul contorului nu va depăși valoarea 6 m col H2O atunci când acesta funcționează în intervalul de debite cuprins între Q1 și Q3.
+Raportul dintre Q3 și Q1 se notează cu R și exprimă intervalului de debite pe care contorul de apă este capabil să îl furnizeze; cu cât numărul este mai mare cu atât este mai mare intervalul de lucru al contorului.
+6.22.
+Contorizarea consumului de apă rece se poate face astfel: - la clădiri individuale, printr-un contor;
+- la clădiri cu mai mulți beneficiari, contorizarea se face cu un contor general pe clădire și cu contoare individuale pentru fiecare consumator;
+6.23.
+Contorizarea consumului de apă caldă de consum se face astfel: - la clădiri individuale, prin contorul de apă rece;
+- la clădiri racordate la o centrală termică, respectiv la un punct termic, cu preparare centralizată a apei calde, contorizarea consumului de apă caldă se face, cu un contor de căldură pe racordul de intrare în distribuitorul de apă caldă, respectiv cu contor de apă caldă pe fiecare ramură la ieșirea din distribuitor, pe fiecare clădire și/sau pentru fiecare consumator.
+6.24.
+Contoarele generale de apă se pot amplasa: - în căminul de branșament;
+- în încăperea stației de pompare;
+- în centrale termice sau puncte termice;
+- în subsolul construcțiilor sau în spații tehnice comune amplasate la parter, cu condiția asigurării unui acces permanent și ușor pentru citirea și întreținerea contoarelor;
+6.25.
+Contoarele individuale de apă se pot amplasa ținându-se seama de următoarele prescripții: ● în cazul clădirilor de locuințe colective noi, la care coloanele de alimentare cu apă sunt amplasate în spații comune și distribuția conductelor de apă în apartament este orizontală, se recomandă montarea contoarelor în spații tehnice comune în afara apartamentelor clădirii; ● în cazul clădirilor de locuințe colective la coloanele nu sunt amplasate în spații comune și la care distribuția conductelor de apă în apartament nu este orizontală, se admite montarea contoarelor în apartamente; se recomandă montarea contoarelor cu citire de la distanță, care să permită citirea fără accesul în apartament. ● pentru alte tipuri de clădiri, se urmărește montarea contoarelor în spațiile comune în vederea contorizării individuale a fiecărui beneficiar sau a fiecărui spațiu de închiriat. În cazul în care acest lucru nu este posibil, se admite montarea contoarelor în interiorul spațiilor deservite; se recomandă montarea contoarelor cu citire de la distanță.
+REZERVOARE
+Elemente generale 6.26.
+Rezervoarele de apă sunt folosite în instalațiile sanitare pentru înmagazinarea anumitor cantități de apă, (potabilă, brută, apă de incendiu).
+6.27.
+În funcție de rolul asigurat în instalațiile sanitare rezervoarele se clasifică în rezervoare tampon, rezervoare de acumulare și rezervoare de incendiu. ● Rezervoarele tampon au rolul de a asigura funcționarea corectă a pompelor din punct de vedere al aspirației apei; ● Rezervoarele de acumulare au rolul de a înmagazina un volum de apă cu scopul de a crește siguranța în exploatare, a satisface în mod corect nevoile utilizatorilor și de a asigura volumele de compensare; ● Rezervoarele de incendiu au rolul de asigura rezerva de apă necesară stingerii incendiului cu apă.
+6.28.
+În funcție de regimul de presiune al apei în rezervor acestea se clasifică în rezervoare cu nivel liber și rezervoare sub presiune: ● În rezervoarele cu nivel liber, apa se găsește la presiune atmosferică (de exemplu, rezervoare tampon deschise, rezervoare de acumulare deschise etc; în acest context noțiunea "deschis" se referă la nivelul de presiune atmosferică); ● În rezervoarele sub presiune, apa se găsește la un nivel de presiune superior presiunii atmosferice (rezervor tampon închis, recipient de hidrofor; în acest context noțiunea "închis" se referă la un nivel de presiune superior celui de presiune atmosferică).
+Rezervoare cu nivel liber - prescripții de proiectare 6.29.
+Rezervoarele de incendiu care asigură exclusiv rezerva de apă de incendiu se proiectează și se execută în conformitate cu normativul P118/2; prezentul normativ face referire doar la rezervoarele de incendiu care înmagazinează rezervă de apă de incendiu în comun cu rezerve de apă destinate altor folosințe; în acest caz, aceste rezervoare se supun atât cerințelor normativului P118/2 cât și cerințelor prezentei norme.
+6.30.
+Rezervoarele de acumulare pot deservi un singur tip de consum sau pot fi comune pentru consum de tip menajer, consum de tip industrial sau incendiu în condițiile respectării cerințelor normativului P118/2.
+6.31.
+În cazul rezervoarelor de acumulare a apei pentru consum menajer și pentru incendiu sau pentru consum menajer, industrial și pentru incendiu, se prevăd măsuri pentru asigurarea rezervei intangibile pentru incendiu respectându-se normativul P118/2; în acest sens se pot utiliza sisteme automate pentru controlul nivelului apei sau instalații hidraulice adecvate (liră de control).
+6.32.
+În scopul supravegherii permanente a alimentării normale cu apă a rezervoarelor, se prevăd instalații automate pentru semnalizarea optică și acustică a nivelelor din rezervor astfel încât, la scăderea nivelelor semnalizate, să fie aplicate măsurile de exploatare în regim de avarii, stabilite prin instrucțiunile de exploatare, care pot fi: înlăturarea avariilor în timp util, restrângerea unor consumuri, întărirea regimului de supraveghere etc. Semnalizarea se face în cazul în care există personal permanent de supraveghere; în cazul rezervoarelor de acumulare comune - consum menajer sau industrial plus incendiu, se au în vedere și prevederile normativului P118/2.
+6.33.
+Rezervoarele de acumulare și rezervoarele tampon cu nivel liber se prevăd cu elemente de siguranță, conductă de preaplin, conductă de golire racordată la o instalație de canalizare ape uzate, conductă ventilare.
+6.34.
+Nivelul maxim al apei în rezervoarele de acumulare sau în rezervoarele tampon cu nivel liber se limitează, fie cu ajutorul robinetelor cu plutitor, fie cu ajutorul unor electrovane comandate de un sistem de traductori de nivel amplasat în rezervor; atunci când se folosesc robinete cu plutitor se recomandă utilizarea a minim două armături pentru fiecare rezervor; de asemenea, pentru alimentarea cu apă a rezervorului, se recomandă montarea unui robinet cu plutitor însoțit de o electrovană.
+6.35.
+Spațiul de montaj al robinetelor cu plutitor nu trebuie să afecteze volumul util al rezervorului tampon deschis.
+6.36.
+Amplasarea rezervoarelor se face ținând seama de înscrierea corespunzătoare a acestora în schema tehnologică de alimentare cu apă, precum și de condițiile de fundare și stabilitate generală și locală a terenului; la alegerea amplasamentului se evită, pe cât posibil, terenurile cu apă freatică, terenurile sensibile la umezire, tasabile sau cu capacitate portantă redusă și versanții cu pantă abruptă. Se evită amplasarea rezervoarelor pe versanții instabili sau care își pot pierde stabilitatea datorită lucrărilor de executare a rezervoarelor.
+6.37.
+Amplasarea rezervoarelor de acumulare se poate face în interiorul sau în exteriorul clădirilor respectându-se următoarele recomandări: ● În exteriorul clădirilor rezervoarele pot fi îngropate, semiîngropate sau supraterane; în cazul rezervoarelor exterioare (îngropate și semiîngropate) de apă potabilă se asigură în jurul lor o zonă de protecție sanitară cu regim sever, ale căror limite se stabilesc în conformitate cu prevederile legale în vigoare privind protecția sanitară a surselor, construcțiilor și instalațiilor cu apă; ● În interiorul clădirii, într-o încăpere adecvată, destinată echipamentului de înmagazinare și pompare a apei; dacă se amplasează rezervorul de apă în subsol se recomandă ca atât golirea cât și preaplinul acestuia să se realizeze astfel încât să se evite pătrunderea în încăpere a apelor provenite prin refularea canalizării exterioare, prin utilizarea unui sistem de evacuare cu recipient de pardoseală și pompe ape uzate (convențional curate) - a se vedea prevederile specifice, prezentate în actualul normativ.
+6.38.
+Amplasarea rezervoarelor tampon cu nivel liber se face cât mai aproape de pompe pentru ca lungimea conductei de aspirație să fie cât mai mică.
+6.39.
+La amplasarea rezervoarelor cu nivel liber se iau măsuri pentru respectarea condițiilor igienico sanitare în vederea evitării contaminării apei potabile: ● Rezervoarele nu se amplasează sub rețele/conducte care transportă apă nepotabilă; ● Rezervoarele se prevăd cu capac (etanșe).
+6.40.
+Rezervoarele tampon și rezervoarele de acumulare cu nivel liber se prevăd cu capac de vizitare; în cazul în care acestea se găsesc la interior se prevede un spațiu de acces între rezervor și plafonul încăperii cu înălțime recomandată de minim 50 cm.
+Rezervoare subpresiune - prescripții de proiectare 6.41.
+Rezervoarele subpresiune pot fi rezervoare cu pernă de aer, rezervoare cu pernă de azot sau rezervoare cu membrană elastică; se recomandă utilizarea pentru investiții noi a rezervoarelor cu membrană elastică însă în exploatarea instalațiilor vechi pot fi încă întâlnite rezervoare cu pernă de aer sau cu pernă de azot.
+6.42.
+Rezervoarele subpresiune pot fi utilizate ca: ● rezervoare tampon pe conductele de aspirație ale pompelor (se utilizează și denumirea rezervor tampon închis). Se recomandă utilizarea acestora în acest fel deoarece se utilizează cota piezometrică disponibilă în conducta de branșament; ● recipiente de hidrofor amplasate pe refularea pompelor cu rol în controlul numărului de porniri - opriri ale pompei/pompelor; ● recipiente subpresiune amplasate pe refularea grupurilor de pompare cu rol în automatizarea funcționării acestuia.
+Instalații de ridicare a presiunii apei reci - prescripții de proiectare 6.43.
+Instalațiile de ridicare a presiunii apei reci se prevăd atunci când cota piezometrică a apei din rețeaua exterioară, în punctul de racord al instalației interioare, este temporar sau permanent insuficientă pentru funcționarea normală a tuturor punctelor de consum.
+6.44.
+Instalațiile de ridicare a presiunii apei sunt formate din următoarele echipamente: rezervoare de acumulare sau rezervoare tampon (cu nivel liber sau subpresiune) sau rezervoare de înălțime, grupuri de pompare, pompe și dispozitive de automatizare a funcționării pompelor, distribuitoare/colectoare precum și armături de închidere sau reglaj, de măsură sau de siguranță.
+6.45.
+Alegerea soluției pentru stația de pompare depinde de natura, mărimea și variația consumului de apă din instalațiile interioare, precum și de înălțimea necesară de pompare.
+6.46.
+La proiectarea stațiilor de pompare a apei, alegerea soluției se face în funcție de regimul maxim admis de presiune, de numărul și felul consumatorilor, regimul de înălțime al clădirilor etc.
+6.47.
+Stațiile de pompare pot deservi unul sau mai mulți consumatori.
+6.48.
+În cazul ansamblurilor de clădiri cu mai multe zone de presiune, se prevăd una sau mai multe stații de ridicare a presiunii cu rețelele respective, pe baza unei analize tehnico economice. Se prevăd dispozitive de reducere a presiunii pentru ramurile pe care se depășește presiunea de 6 bar (60 m col H2O în termeni de înălțime de presiune).
+6.49.
+În cazul în care se prevede utilizarea mai multor zone de presiune se recomandă adoptarea uneia din schemele de principiu prezentate în ANEXA 3.
+6.50.
+Se recomandă amplasarea instalației de ridicare a presiunii în centrul de greutate al consumului. În cazul amplasării instalației de ridicare a presiunii în subsolul clădirilor de locuit, nu se va amplasa sub camerele de locuit.
+6.51.
+Alegerea pompelor și a schemei de automatizare se face pe baza unei analize tehnico- economice, urmărindu-se realizarea unor costuri minime de energie la pomparea apei.
+6.52.
+În scopul asigurării alimentării nivelelor inferioare ale construcțiilor direct din rețeaua exterioară, pe durata scoaterii din funcțiune a stației, se prevede o conductă de ocolire a rezervorului, a pompelor și a recipientelor hidropneumatice denumită conductă de ocolire sau conductă de by-pass.
+6.53.
+Pentru alimentarea clădirilor cu apă se folosesc pompe centrifuge.
+6.54.
+Pentru alimentarea cu apă a clădirilor se recomandă folosirea grupurilor de pompare cu pompe cuplate în paralel sau a pompelor cu turație variabilă și a dispozitivelor pentru automatizarea pornirii și opririi pompelor, în funcție de variația consumului de apă.
+6.55.
+Pompele cu turație fixă se recomandă acolo unde consumul de apă este constant.
+6.56.
+Grupurile de pompare se prevăd, de regulă, cu o pompă de rezervă egală cu cea mai mare pompă din grup.
+6.57.
+Pentru consumatorii vitali, la care întreruperea alimentării cu apă poate duce la explozii, distrugeri, avarii grave sau pierderi de vieți omenești, numărul pompelor de rezervă se stabilește pe baza unei analize tehnico-economice.
+6.58.
+Pentru consumatorii individuali, cu un debit de calcul sub 1 l/s, se poate folosi o instalație de pompare formată din electropompă, recipient hidropneumatic și instalația de automatizare.
+6.59.
+Pornirea, oprirea și variația turației pompelor se face automat în funcție de parametrii de funcționare ai instalației, presiuni și debite. Modul de realizare depinde de tipul și originea grupului de pompare (pompelor) utilizate.
+7.
+INSTALAȚII ȘI ECHIPAMENTE PENTRU PREPARAREA APEI CALDE DE CONSUM
+INSTALAȚII ȘI ECHIPAMENTE LOCALE PENTRU PREPARAREA APEI CALDE DE CONSUM 7.1.
+Instalațiile locale pentru prepararea apei calde de consum se recomandă, de regulă, la clădirile care nu dispun de instalații proprii de încălzire centrală, în cazul în care nu sunt condiții de racordare la rețelele exterioare de apă caldă sau când regimul de furnizare al apei calde nu satisface cerințele beneficiarilor (funcționare intermitentă, temperatură insuficientă).
+Se pot prevedea instalații locale de preparare a apei calde și în cazurile în care clădirea este prevăzută cu încălzire centrală, dacă prepararea locală este mai economică în special în perioada caldă a anului.
+7.2.
+Tipul de instalație locală de preparare a apei calde ce se adoptă depinde de sursa de energie disponibilă (electrică, gaze naturale sau lichefiate, combustibili solizi etc.). Se recomandă folosirea aparatelor prevăzute cu instalații automate de ardere cu termoregulator.
+7.3.
+Aparatele de preparare locală a apei calde pot fi cu acumulare sau fără acumulare. Folosirea aparatelor fără acumulare se recomandă în cazul în care este necesar să se prepare instantaneu apă caldă și, totodată, se dispune de energia electrică sau de gazele combustibile necesare.
+7.4.
+În cazul folosirii energiei electrice, se dă prioritate sistemelor cu acumulare, care să poată utiliza energia electrică în perioadele cu tarif de energie electrică redus.
+INSTALAȚII ȘI ECHIPAMENTE PENTRU PREPARAREA CENTRALIZATĂ A APEI CALDE DE CONSUM 7.5.
+La adoptarea sistemului de instalație centrală pentru prepararea apei calde de consum se va ține seama de: - necesarul specific de apă caldă de consum, numărul de consumatori și durata efectivă a perioadei de consum;
+- natura, regimul de furnizare și parametrii agentului termic primar;
+- tipurile aparatelor folosite pentru prepararea apei calde de consum, care pot fi: cu acumulare (boilere orizontale sau verticale) sau fără acumulare (aparate în contracurent);
+- prevederile specifice din reglementările tehnice pentru proiectarea și executarea instalațiilor de încălzire centrală.
+7.6.
+Prepararea apei calde de consum în centrale și puncte termice se poate realiza cu boilere (soluție recomandată la instalațiile cu capacitate mică de producere apă caldă aproximativ sub 0,5 - 1 mc/h debit maxim orar), cu aparate în contracurent sau cu aparate în contracurent și acumulatoare de apă caldă.
+7.7.
+La schema de preparare a apei calde cu boilere se ține seama de următoarele: - în cazul boilerelor, racordarea conductei de alimentare cu apă rece se face la partea inferioară a boilerului, opusă ieșirii agentului termic, iar cea a apei calde de consum la partea superioară a boilerului, lângă intrarea agentului termic;
+- armătura de siguranță (ventil de siguranță, vas de expansiune etc.) se montează pe conducta de alimentare cu apă rece.
+7.8.
+Prepararea apei calde de consum cu aparate în contracurent se recomandă: - în cazul în care consumul maxim orar de apă caldă este mai mare de 0,5 - 1 mc/h;
+- pentru schemele de racordare la sisteme centralizate de alimentare cu căldură.
+7.9.
+Prepararea apei calde cu aparate în contracurent se poate realiza după diferite scheme de racordare și anume: - în paralel cu schimbătoarele de căldură pentru încălzire;
+- în serie - paralel cu schimbătoarele de căldură pentru încălzire;
+- în serie cu schimbătoarele de căldură pentru încălzire și cu injecție din primar.
+Se recomandă utilizarea schemei de preparare a apei calde de consum în serie cu schimbătoarele de căldură pentru încălzire și cu injecție din primar și utilizarea schimbătoarelor de căldură cu plăci.
+7.10.
+La prepararea apei calde de consum cu aparate în contracurent și rezervoare de acumulare (fără serpentine de încălzire) se recomandă luarea următoarelor măsuri: - legarea aparatului în contracurent cu rezervorul de acumulare se face numai în paralel, cu montarea unei pompe de circulație între acumulator și aparatul în contracurent; pompa se montează pe conducta care face legătura între partea inferioară a rezervorului și racordul la schimbătorul de căldură corespunzător ieșirii agentului termic din schimbător;
+- rezervorul de acumulare se montează numai în poziție verticală, fiind prevăzut cu vane pentru izolarea lui.
+7.11.
+În cazul preparării apei calde de consum cu aparate în contracurent (fără acumulator de apă caldă), când rețeaua de alimentare cu apă nu asigură presiunea necesară instalației de apă caldă, se admite intercalarea pe circuitul apei calde a unei pompe de ridicare a presiunii (pentru acoperirea pierderilor de sarcină în aparatele în contracurent).
+7.12.
+Racordarea conductei de recirculare la aparatele de preparare a apei calde se face pe legătura de apă rece, după ventilul de reținere. Pe conducta de recirculare se montează un ventil de reținere.
+Racordarea conductei de recirculare la aparatele de preparare a apei calde cuplate cu rezervoare de acumulare fără serpentină se face pe legătura de apă rece, între legătura de alimentare cu apă a rezervorului de acumulare și pompa de circulație aferentă ansamblului schimbător - rezervor de acumulare, pe care se montează o pompă de recirculare a apei calde de consum.
+Se admite racordarea conductei de recirculare direct în rezervorul de acumulare, folosind racordul dedicat.
+7.13.
+Dotarea cu instalații sanitare a centralelor și punctelor termice se face în conformitate cu prevederile reglementărilor tehnice pentru proiectarea, executarea și exploatarea instalațiilor de încălzire centrală.
+7.14.
+Pentru ansamblurile de clădiri de locuit cu prepararea centrală a apei calde de consum, instalațiile de preparare a apei calde din centralele termice sau punctele termice trebuie prevăzute cu posibilitatea opririi alimentării cu apă caldă de consum pe timpul incendiului.
+REȚELE EXTERIOARE PENTRU DISTRIBUȚIA ȘI RECIRCULAREA APEI CALDE DE CONSUM 7.15.
+Rețelele exterioare de distribuție a apei calde de consum fac legătura între instalația de preparare a apei calde din punctele termice sau centralele termice și instalațiile interioare de alimentare cu apă caldă și se realizează, de regulă, ramificat.
+7.16.
+Conductele de recirculare a apei calde de consum se prevăd la clădiri social culturale cu specific deosebit, cum sunt: construcții pentru sănătate (spitale, policlinici, sanatorii etc.), creșe, grădinițe, hoteluri etc., precum și la clădirile de locuit.
+Conductele de recirculare a apei calde se recomandă să se prevadă până la consumatorul situat cel mai sus și mai depărtat.
+7.17.
+În cazul în care conducta de recirculare se montează până la baza clădirii, aceasta se realizează astfel încât racordarea să se facă înaintea contorului montat pe conducta de alimentare cu apă caldă a clădirii.
+În cazul în care rețeaua de recirculare se montează în interiorul clădirii după contorul de apă caldă, se poate prevede un contor și pe conducta de recirculare, pentru a se putea reduce consumul de apă caldă cu cantitatea de apă recirculată.
+7.18.
+În cazul clădirilor cu centrală termică proprie se prevăd conducte de recirculare până la apometrul aferent unității de locuit/apartament.
+7.19.
+În funcție de zonele de presiune se prevăd conducte de recirculare distincte.
+7.20.
+Recircularea apei în sistemul de conducte de apă caldă de consum se activează prin pompe separate pentru fiecare zonă de presiune în parte.
+7.21.
+Pompele de ridicare a presiunii în rețeaua de apă caldă de consum, ca și pompele de recirculare se amplasează în spațiile prevăzute pentru prepararea apei calde de consum.
+8.
+REȚELE INTERIOARE DE ALIMENTARE CU APĂ RECE ȘI APĂ CALDĂ DE CONSUM 8.1.
+Rețelele de distribuție interioară se pot realiza în sistem inelar, ramificat sau mixt. Alegerea sistemului se face pe baza criteriilor economice și de funcționalitate.
+8.2.
+Schema de distribuție inferioară se aplică pentru toate clădirile prevăzute cu subsoluri sau pentru clădirile la care se pot prevedea canale de circulație vizitabile (de exemplu, clădiri de producție).
+8.3.
+Schema de distribuție superioară se aplică, în general, în cazul clădirilor de producție, halelor de depozitare, centrelor comerciale și al altor clădiri la care schema de distribuție inferioară nu este indicată tehnic sau economic.
+8.4.
+Pentru o zonă de presiune, conductele de distribuție se montează în subsol. Distribuția superioară se admite numai în cazul în care conductele pot fi montate în spații de circulație sau încăperi de folosință comună (spălătorii, uscătorii, boxe etc.), cu asigurarea evacuării apei provenite din eventualele defecțiuni.
+8.5.
+Pentru clădirile cu două zone de presiune, se admite proiectarea unui nivel tehnic amplasat la ultimul nivel sau la un nivel intermediar, atunci când soluția rezultă convenabilă din punct de vedere funcțional sau economic.
+8.6.
+Se recomandă amplasarea coloanelor de alimentare cu apă în clădiri în spații comune pentru a favoriza alimentarea cu apă a unităților locative sau a spațiilor cu diverse destinații printr-o singură conductă de apă prevăzută cu contor amplasat în spațiu comun.
+8.7.
+Alimentarea cu apă a hidranților de incendiu interiori, în construcțiile prevăzute cu instalații de apă potabilă sau industrială, se realizează conform normativului P118/2.
+8.8.
+În cazul rețelelor comune pentru incendiu și consum menajer se asigură circulația apei în coloanele hidranților prin legarea capetelor coloanelor la obiecte sanitare cu folosință permanentă (pisoare, rezervoare WC).
+8.9.
+În rețelele instalațiilor interioare de apă comune pentru incendiu și consum menajer se folosesc numai țevi din oțel zincat (sau conducte din materiale acceptate de normativul P118/2, care pot transporta apa potabilă). În cazul în care se folosesc rețele separate, se adoptă următoarele: ● pentru instalațiile de stingere a incendiilor se adoptă doar conducte metalice (sau alte tipuri de conducte, acceptate de normativul P118/2); ● pentru instalațiile de alimentare cu apă pentru consum menajer se adoptă conducte agrementate în acest sens; când se adoptă rețele din mase plastice, rețelele pentru incendiu și pentru consum menajer se separă în exteriorul clădirilor, în căminul de ramificație, iar pe conductele din mase plastice se prevăd organe de închidere. Rețelele exterioare comune pentru incendii și consum menajer, amplasate îngropat, pot fi realizate din mase plastice.
+8.10.
+Rețelele interioare de apă caldă de consum și de recirculare se amplasează, de regulă, pe trasee comune cu cele de apă rece și se pot executa din conducte din materiale avizate sanitar, aceste conducte fiind testate și agrementate pentru vehicularea apei la temperatura de 60 °C.
+8.11.
+Diferența de înălțime de presiune dintre apa rece și caldă, la nivelul aceluiași obiect sanitar, nu trebuie să fie mai mare de 0,3 m col H2O.
+8.12.
+Pe traseele de recirculare a apei calde de consum se iau măsuri de echilibrare hidraulică ale acestora; pompele de recirculare a apei calde de consum vor avea o funcționare determinată de prezența unor termostate amplasate pe traseul de alimentare cu apa caldă, recomandabil în zona de amplasare a celor mai îndepărtate puncte de consum; este permisă utilizarea armăturilor termostatice de recirculare.
+9.
+INSTALAȚII DE ALIMENTARE CU APĂ ÎN ZONE FĂRĂ REȚELE HIDROEDILITARE 9.1.
+În cazul în care nu există posibilitatea alimentării cu apă de la o rețea publică, alimentarea cu apă se face de la sursă proprie (care poate servi una sau mai multe clădiri) care trebuie să îndeplinească condițiile de potabilitate. Numărul de persoane deservite de o astfel de sursă depinde de situația locală (tipul sursei, caracteristicile acesteia etc.). Pentru dimensionarea acestor obiecte (de exemplu sursa de apa, stația de tratare), amplasate în incintă, se recomandă utilizarea normativului NP 133. De asemenea, se fac următoarele recomandări, în articolele cuprinse în acest capitol.
+9.2.
+Se recomandă folosirea apei subterane și anume cea obținută prin: - puțuri săpate;
+- puțuri forate;
+- captări de izvoare.
+9.3.
+Înainte de executarea lucrărilor de captare se fac analizele necesare în vederea utilizării sursei de alimentare cu apă.
+În cazul în care apa este potabilă și nu există pericol de poluare, se recomandă folosirea cu precădere a surselor subterane de mică adâncime (8 până la 20 m adâncime) pentru clădiri individuale; în acest caz se recomandă dezinfecția apei.
+9.4.
+Apele de izvoare sunt alese numai dacă se constată, în urma unor observații mai îndelungate, că au debit suficient și își păstrează calitățile, mai ales după perioadele secetoase sau ploioase.
+9.5.
+La forarea puțurilor, locul de execuție se stabilește astfel ca acesta să fie: - cât mai aproape de consumatori;
+- cât mai departe de locurile în care apa ar putea fi infectată, atât prin infiltrații de suprafață, cât și prin circulația apei subterane;
+- amplasat pe un loc mai ridicat pentru a se evita colectarea în jurul puțului, a apelor de ploaie sau rezultate din topirea zăpezii;
+- amplasat pe un teren pe care nu au fost mai înainte grajduri, haznale, depozite de gunoaie etc.
+Pentru execuția forajului se va obține acordul de la organele competente.
+9.6.
+Distanța minimă de la sursele de captare de apă subterană la sursa posibilă de contaminare este: - 50 m, când sursa de contaminare se află în amonte de captare;
+- 20 m, când sursa de contaminare se află în aval.
+- se vor aplica zonele de protecție sanitară stabilite conform legislației de profil, Hotărârea Guvernului nr. 930/2005 sau similar.
+9.7.
+Captarea prin puțuri săpate se folosește când stratul de apă potabilă se află la adâncimi relativ mici, dar nu mai mici de 6 m.
+9.8.
+Pomparea apei din puțurile săpate se poate face cu pompe centrifuge cu ax orizontal, în cazul în care este asigurată înălțimea minimă de aspirație, iar diametrul puțului permite montarea pompei.
+9.9.
+Pomparea apei din puțurile forate se face cu pompe submersibile în special în cazul adâncimii mari a pânzei de apă.
+9.10.
+Transportul apelor de la izvoarele de coastă la consumator se face: - prin cădere liberă, în cazul în care diferența de nivel dintre izvor și consumator asigură presiunea necesară;
+- prin pompare, când diferența de nivel este insuficientă.
+9.11.
+Transportul apei de la izvoarele ascendente la consumator se face în limita presiunii disponibile sau prin pompare.
+10.
+ARMĂTURI ȘI APARATE PENTRU INSTALAȚII, DISPOZITIVE PENTRU PRELUAREA DILATĂRII
+ARMĂTURI DE ÎNCHIDERE, REGLAJ, SIGURANȚĂ ȘI GOLIRE 10.1.
+În instalațiile de alimentare cu apă din interiorul clădirilor, armăturile de închidere se prevăd: - pe conductele de alimentare cu apă rece și caldă, la intrarea în clădiri;
+- la baza coloanelor, în apropierea conductelor de distribuție ale clădirii;
+- pe derivațiile care alimentează unul sau mai mulți consumatori, în funcție de specificul clădirii;
+- pe racordurile armăturilor de la obiectele sanitare.
+10.2.
+În centralele și punctele termice, armăturile de închidere se prevăd: - pe conductele de alimentare cu apă rece, la intrarea în clădire sau într-un cămin exterior;
+- pe racordurile schimbătoarelor de căldură, pe conductele de apă rece și apă caldă de consum;
+- între schimbătoarele de căldură, pentru scoaterea din funcțiune a unuia dintre ele;
+- pe conductele de plecare și sosire ale distribuitoarelor și colectoarelor;
+- pe conductele de aspirație și refulare ale pompelor;
+- pe conductele de ocolire;
+- pe racordul de umplere a instalației de încălzire centrală.
+10.3.
+În stațiile de ridicare a presiunii, armăturile de închidere se montează: - pe conductele de alimentare cu apă rece la intrarea în clădire;
+- pe conductele de alimentare cu apă a rezervoarelor tampon sau de acumulare;
+- pe conductele de aspirație și refulare a pompelor;
+- pe racordurile recipientelor sub presiune (alimentarea cu apă și aer comprimat, golire);
+- pe racordurile distribuitoarelor;
+- pe conducta de golire.
+10.4.
+Armăturile de reținere (clapete de sens) se prevăd în următoarele cazuri: - pe conductele de alimentare cu apă rece a echipamentelor de preparare a apei calde de consum;
+- pe fiecare branșament, după contorul general;
+- pe conductele de ocolire;
+- pe conductele de alimentare cu aer comprimat a recipientelor hidropneumatice;
+- pe conductele de refulare ale pompelor, între pompe și armătura de închidere;
+- pe conductele de umplere a instalațiilor de încălzire centrală.
+10.5.
+Armăturile de siguranță se montează la recipientele sub presiune (recipiente hidropnematice, boilere, aparate în contracurent etc.), pe conductele de refulare ale pompelor, distribuitoare etc. Pentru echipamentele de preparare a apei calde de consum, se prevăd și dispozitive de siguranță (vase de expansiune) pentru preluarea dilatațiilor apei în sistem.
+Între armăturile sau dispozitivele de siguranță aferente echipamentelor de preparare apă caldă de consum (de exemplu, vase de expansiune) și recipientele protejate nu se prevăd robinete/vane de închidere. Se admit doar robinete de închidere și golire speciale, agrementate în acest scop.
+10.6.
+Armăturile de închidere se prevăd cu dispozitive de reglaj pe racordurile de alimentare cu apă rece și caldă care servesc obiecte ce necesită presiuni inferioare față de cele disponibile.
+10.7.
+Armăturile de închidere ale instalațiilor interioare se prevăd cu armături sau dispozitive de golire, în cazurile în care golirea porțiunile de instalații respective nu poate fi făcută prin armăturile de serviciu.
+10.8.
+Pe rețelele exterioare de alimentare cu apă rece, armăturile de închidere se prevăd: - în cămine de racord prevăzute cu contoare;
+- pe ramificațiile rețelelor exterioare.
+10.9.
+Pe rețelele exterioare de apă rece și caldă, armăturile de închidere sunt prevăzute pentru secționarea rețelelor și a derivațiilor.
+La amplasarea lor se ține seama de condițiile de alimentare în caz de avarii a consumatorilor ce nu admit întreruperi în alimentare, inclusiv de prevederile normativului P118/2.
+10.10.
+Este indicată includerea de măsuri care să realizeze protecția împotriva poluării apei potabile în instalațiile de apă, inclusiv măsuri împotriva stagnării apei și efectelor acesteia.
+10.11.
+Este indicată respectarea cerințelor generale pentru dispozitivele de prevenire a poluării prin reflux; aceste măsuri sunt conform SR EN 1717 și SR EN 806-5.
+APARATE DE MĂSURĂ ȘI CONTROL 10.12.
+Se prevăd termometre indicatoare: - la fiecare aparat de preparare centrală a apei calde de consum;
+- pe acumulatoarele de apă caldă de consum;
+- pe distribuitoarele de apă caldă;
+- pe conducta de alimentare cu apă rece a schimbătoarelor de căldură.
+- pe racordurile de apă caldă de la fiecare clădire/bloc de locuințe sau scară de bloc, înaintea contoarelor; în caz de risc de lovire sau de demontare neautorizată, se prevăd racorduri pentru montarea termometrelor indicatoare.
+10.13.
+Indicatoarele de nivel cu tub de sticlă se prevăd obligatoriu la recipientele hidropneumatice, cu excepția celor cu membrană.
+10.14.
+Se prevăd manometre indicatoare: - pe racordurile de refulare ale pompelor și compresoarelor;
+- pe recipientele hidropneumatice;
+- înainte și după filtrele și separatoarele de impurități.
+10.15.
+Se prevede câte un racord cu robinet și mufă pentru montări de manometre: - pe distribuitoare;
+- pe racordurile aparatelor în contracurent la conductele de apă rece și caldă de consum.
+Se prevede câte un racord cu robinet și mufă și în puncte ale instalației unde este necesară verificarea temporară a presiunii.
+10.16.
+Stațiile de ridicare a presiunii, precum și instalațiile de preparare a apei calde din centralele și punctele termice care alimentează cu apă clădiri sau ansambluri de clădiri se prevăd cu instalații de automatizare.
+DISPOZITIVE PENTRU PRELUAREA DILATĂRILOR ȘI EFORTURILOR ÎN CONDUCTE 10.17.
+Se utilizează prescripțile cuprinse în SR EN 806-4, atât pentru dispozitivele de preluare ale dilatărilor termice, cât și pentru suporții ficși corespunzători, stabilite în funcție de tipul de material adoptat. În continuare se prezintă câteva reguli, detaliate pentru conducte din oțel. Pentru restul materialelor, se adoptă SR EN 806-4.
+Conducte din oțel 10.18.
+Dilatările conductelor de apă caldă de consum sunt preluate pe cât posibil natural, prin schimbări de direcție ale traseului.
+10.19.
+Pe traseele drepte de conducte se prevăd compensatoare din țevi curbate în formă de U, compensatoare axiale sau reticulare, în funcție de caracteristicile geometrice ale rețelei, parametrii de regim ai apei și de condițiile de amplasare ale conductelor în pământ sau canale.
+10.20.
+Calculul compensatoarelor de dilatare U și al conductelor autocompensatoare se face în conformitate cu prevederile SR EN 806-4.
+10.21.
+Pe coloanele instalațiilor de alimentare cu apă se prevăd compensatoare tip U. Înălțimea maximă a coloanelor din oțel pe care nu este necesar să se monteze compensatoarele de dilatare este indicată în Tabelul 10.1.
+Tabelul 10.1 - Înălțimea maximă a coloanelor din oțel pe care nu se montează compensatoare de dilatare
+Temperatura maximă a apei calde [°C]
+Înălțimea maximă a coloanei [m] 40 40 60 35
+10.22.
+Pentru conductele de oțel îngropate în pământ cu variații de temperatură ale apei transportate până la 25 °C nu sunt necesare compensatoare de dilatare.
+10.23.
+Compensatoarele de tip U se amplasează în axul câmpului (tronsonului de rețea) compensat. Când nu este posibil, se admite amplasarea dezaxată, însă numai în treimea mijlocie a câmpului. Compensatoarele axiale se amplasează în vecinătatea suporturilor fixe, de preferință de o parte și de alta a acestora. Indiferent de tipul folosit, compensatoarele se amplasează astfel încât să permită vizitarea lor.
+10.24.
+Compensatoarele în formă de U ale conductelor de distribuție, se prevăd cu dispozitive de evacuare a aerului pe porțiunea orizontală a acestora, dacă acesta se găsește deasupra conductei de distribuție, respectiv cu robinet de golire, dacă acesta se găsește dedesubtul conductei de distribuție.
+10.25.
+Preluarea eforturilor transmise de conductele de apă caldă se face prin suporți ficși, rigidizați de elementele de construcție adiacente.
+10.26.
+În cazul montării conductelor de apă caldă împreună cu conductele instalației de încălzire, se utilizează același tip de suporți.
+10.27.
+Amplasarea suporților ficși se face ținând seama de prevederile din Tabelul 10.2 - și cu recomandarea ca aceștia să fie plasați lângă ramificații și în vecinătatea armăturilor de separare sau închidere.
+Tabelul 10.2 - Distanțele între suporții ficși, în funcție de diametrul conductei și de temperatura apei calde
+Diametrul nominal al conductei [mm]
+Distanța dintre suporții ficși [m] la o temperatură a fluidului de: 40 °C 60 °C 40 100 90 50 115 100 65 125 110 80 135 120 100 150 130 150 170 150
+Diametrul nominal al conductei [mm]
+Distanța între suporții ficși [m] la o temperatură a fluidului de: 10.28.
+Pentru susținerea conductelor se prevăd suporți mobili glisanți, rulanți sau suspendați, conformați antiseismic. Distanțele de montaj sunt indicate în Tabelul 10.3 -.
+Tabelul 10.3 - Distanțele recomandate între suporturile mobile ale conductelor de apă în funcție de diametrul conductelor și de existența izolației termice
+Diametrul interior al conductelor [mm] sau nominal [inch]
+Distanțele recomandate între suporturile mobile [m]
+Conducte neizolate
+Conducte izolate cu grosimea izolației de maximum 40 mm 3/8 - 1/2 3,3 2,0 3/4 - 1 4,2 3,0 11/4 - 1 5,1 4,0 40 - 57,5 5,7 4,6 64 - 70 6,1 5,1 76 - 82 6,7 5,7 88 - 95 7,0 6,0 100 - 25 7,5 6,5 131 - 150 8,0 9,5
+Conducte din mase plastice 10.29.
+Pentru conductele din mase plastice prevederea, modul de amplasare și de dimensionare a compensatoarelor și suporților se face conform prevederilor reglementării tehnice privind proiectarea, executarea și exploatarea instalațiilor sanitare și a sistemelor de alimentare cu apă și canalizare, utilizând conducte din mase plastice și a recomandărilor producătorilor. Se utilizează prescripțiile cuprinse în SR EN 806-4.
+11.
+DIMENSIONAREA INSTALAȚIILOR DE ALIMENTARE CU APĂ
+DEBITUL DE CALCUL PENTRU CONDUCTE DE DISTRIBUȚIE A APEI RECI ȘI CALDE 11.1.
+Se diferențiază mai multe metode de determinare a debitelor de calcul pentru conductele de distribuție a apei reci și calde de consum, după cum urmează: ● Pentru clădirile de locuit, debitul de calcul pentru conductele de distribuție a apei reci și calde de consum se determină prin aplicarea metodelor A și B, descrise în continuare. Metoda presupune utilizarea unităților de consum denumite U_i și a debitelor specifice armăturilor, V_s, stabilite pentru armături (baterii și robinete), cu valori prezentate în ANEXA 2.1A. ● Pentru celelalte tipuri de clădiri, debitul de calcul pentru conductele de distribuție a apei reci și calde de consum se determină prin aplicarea metodei C. Metoda presupune utilizarea echivalenților de debit denumiți E și a debitelor specifice armăturilor, V_s cu valori prezentate în ANEXA 2.1B. ● Debitul de calcul pentru conducte de distribuție a apei pentru scopuri tehnologice se determină cu metoda D. ● Pentru rețele exterioare amplasate în incintă, se utilizează metoda E.
+11.2.
+În vederea realizării calculelor de dimensionare, se utilizează datele din ANEXA 2.1 după cum urmează: pentru clădiri de locuit, se utilizează unități de consum U_i și debitele V_s, minime necesare asigurate de armătura i (baterie sau robinet); pentru celelalte tipuri de clădiri se utilizează fie debitele, minime necesare asigurate de armătură, fie suma echivalenților de debit E determinat cu echivalentul de debit e1 (definit pentru baterii pentru apă rece și caldă) și echivalentul de debit, e_2 (definit pentru robinete pentru apă rece); în ANEXA 1.3 sunt indicate diametre interioare pentru o serie de materiale recomandate.
+11.3.
+Calculul demarează în sens invers curgerii, de la obiectele sanitare amplasate la capetele instalației către sursa de presiune.
+Pentru determinarea directă a diametrelor în clădiri de locuit (pentru zonele în care U<15), se determină suma unităților de consum pentru fiecare tronson în parte, corespunzător armăturilor alimentate cu apă, respectiv:
+U = ΣU_i (11.1A)
+Pentru zonele în care U≥15, în clădiri de locuit, se aplică metoda B.
+Valorile unităților de consum U_i (prezentate în ANEXA 2.1A) nu sunt întotdeauna corelate cu valorile debitelor armăturilor (baterii sau robinete) prezente în fișele tehnice aferente; valorile unităților de consum prezente în tabel sunt cele care se utilizează în calcul, pentru determinarea directă a diametrelor (metodă aplicată pentru zona în care U<15).
+Pentru celelalte tipuri de clădiri, în funcție de numărul și tipul obiectelor sanitare alimentate cu apă, se determină pentru fiecare tronson în parte suma echivalenților de debit,
+E = E1 + E2 (11.1B)
+E - suma echivalenților de debit a punctelor de consum alimentate de conducta respectivă, baterii și robinete;
+Pentru tronsoanele de alimentare cu apă caldă de consum,
+E = E1 (11.1C)
+În care:
+E1 - suma echivalenților de debit a bateriilor pentru apă rece și caldă de consum;
+E1 = Σe1 (11.2) e1 echivalent de debit al unei armături de alimentare cu apă
+E2- suma echivalenților de debit a robinetelor de apă rece;
+E2 = Σe2 (11.3) e2 echivalent de debit al unui robinet de alimentare cu apă.
+Valorile echivalenților de debit din ANEXA 2.1B sunt corelate cu valorile debitelor armăturilor (bateriilor sau robinetelor), obținute prin raportul între debitul armăturii, în l/s și debitul considerat etalon, egal cu 0,2 l/s; valorile echivalenților de debit prezente în tabelul din ANEXA 2.1B sunt cele care se utilizează în calcul.
+DEBITUL DE CALCUL V_c PENTRU CONDUCTELE DE DISTRIBUȚIE A APEI PENTRU CLĂDIRILE DE LOCUIT (METODELE A ȘI B) 11.4.
+Dimensionarea conductelor de distribuție în clădirile de locuit (apartamente, clădiri unifamiliale, înșiruite sau similar) se realizează prin utilizarea mai multor metode de calcul, funcție de zona de consum, după cum urmează: ● Metoda A - pentru zona de distribuție cuprinsă în interiorul apartamentului/a clădirii de locuit și pentru tronsoanele cu U<15; această metodă permite determinarea directă a diametrelor minime ale conductelor, fără determinarea debitelor; pentru evaluarea debitelor de calcul se va aplica metoda B.1. ● Metoda B - se utilizează pentru determinarea debitelor de calcul utilizate în dimensionare; pentru zona de distribuție cuprinsă în interiorul apartamentelor/a clădirii de locuit și pentru tronsoanele cu U<15, se aplică metoda B.1; pentru zona cuprinsă în afara apartamentelor/a clădirii de locuit și în zonele comune cu cu U≥15 se utilizează metoda B.2.
+METODA A - Dimensionarea directă a conductelor de distribuție în clădiri de locuit, U<15 11.5.
+Metoda A Se aplică pentru conductele de distribuție cuprinse în zona unității de locuință (apartament, clădire unifamilială sau similar), pentru care U<15; U = suma unităților de consum pentru obiectele sanitare din unitatea de locuit, alimentate de tronsonul de calcul.
+Diametrul minim interior al conductelor de distribuție din unitatea de locuit (apartament, clădire unifamilială sau similar) se stabilește cu relația de calcul (11.4) sau utilizând graficul din Figura 11.1:
+D_min = -0.035 x U^2 + 1.4 x U + 10.9 [mm] (11.4)
+Figura 11.1- metoda de determinare directă a diametrului minim al conductelor amplasate în interiorul clădirilor de locuit, pentru U<15.
+METODA B - Debitul de calcul pentru dimensionarea conductelor de distribuție în clădiri de locuit. 11.6.
+Metoda B se aplică pentru determinarea debitului de calcul utilizat în dimensionarea conductelor de distribuție de apă amplasate în clădiri de locuit; valorile pentru determinarea lui U și V_s,i se consideră din ANEXA 2.1A.
+Se diferențiază următoarele metode: ● Pentru zona de distribuție cuprinsă în interiorul apartamentelor/clădirilor de locuit și pentru tronsoanele cu U<15, se aplică metoda B.1; ● Pentru zona cuprinsă în afara apartamentelor/a clădirii de locuit respectiv în zonele comune, și pentru tronsoanele cu U≥15 se utilizează metoda B.2.
+Sunt necesare următoarele etape premergătoare:
+Etapa 1:
+Se determină suma debitelor specifice ale tuturor armăturilor alimentate de către fiecare tronson în parte;
+V_s,tot = Σn_i x V_s,i [l/s] (11.5) în care: ● n_i este numărul armăturilor de același tip, i, care asigură alimentarea cu apă; ● V_s,i - debitul specific de apă al unei armături de tip i [l/s], se consideră valorile din Anexa 2.1A; ● V_s,tot - debitul specific total de apă pentru un tronson, [l/s]; ● Pentru conductele de distribuție de apă rece, se determină suma debitelor specifice pentru robinetele și bateriile alimentate cu apă; se obține V_s,tot,AR ● Pentru conductele de distribuție de apă caldă, se determină suma debitelor specifice pentru bateriile alimentate cu apă V_s,tot,AC
+Etapa 2:
+Se determină valoarea coeficientului de simultaneitate pentru fiecare tronson în parte, în funcție de numărul N al obiectelor sanitare alimentate de acesta: ● Coeficient de simultaneitate pentru tronsoanele de apă rece: ● Coeficient de simultaneitate pentru tronsoanele de apă caldă:
+Etapa 3:
+În această etapă, se determină debitul de calcul, aplicând următoarele metode de calcul:
+Metoda B.1, pentru U<15:
+Se determină debitele de calcul pentru fiecare tronson din distribuțiile de apă rece și caldă de consum, cu respectarea următoarelor condiții: ● Pentru tronsoanele care alimentează cu apă un singur obiect sanitar, debitul de calcul al tronsonului este egal cu debitul armăturii (bateriei sau robinetului respectiv), în l/s; diametrul minim adoptat pentru acest tronson nu poate fi mai mic decât diametrul din ANEXA 2.1A, corespunzător armăturii respective. ● Pentru tronsoanele care alimentează mai mult de un obiect sanitar, se aplică relațiile de calcul următoare:
+V_c,AR = V_s,tot,AR x f_AR + 0.03 [l/s] (11.8)
+V_c,AC = V_s,tot,AC x f_AC + 0.03 [l/s] (11.9)
+Pentru zona în care U<15, diametrul interior ales al tronsonului trebuie să respecte condiția D ≥ D_min, în care Dmin este determinat cu metoda A. Pentru alegerea diametrului conductei, se recomandă ANEXA 1.3.
+Metoda B.2, pentru U≥15:
+Se aplică următoarele relații de calcul:
+V_c,AR = V_s,tot,AR x f_AR [l/s] (11.10)
+V_c,AC = V_s,tot,AC x f_AC [l/s] (11.11)
+11.7.
+Debitele specifice de apă V_s, unitățile de consum U_i și presiunea de utilizare P_u ale armăturilor obiectelor sanitare sunt date în ANEXA 2.1A. Valorile presiunii de utilizare din ANEXA 2.1, au caracter de recomandare și nu se impun față de valorile date în documentațiile tehnice ale producătorilor.
+11.8.
+Necesarul specific total de apă V_s,zi, și necesarul specific de apă caldă V_s,zi,ac pentru clădirile de locuit sunt date în ANEXA 1.1. Aceste valori pot fi utilizate în determinarea volumelor rezervoarelor de apă, conform metodelor de calcul incluse în acest normativ, în SR 1343 sau în normativul NP 133.
+DEBITUL DE CALCUL PENTRU DIMENSIONAREA CONDUCTELOR DE DISTRIBUȚIE A APEI ÎN CLĂDIRILE ADMINISTRATIVE, SOCIAL- CULTURALE ȘI GRUPURILE SANITARE DE LA VESTIARELE ATELIERELOR ȘI UNITĂȚILOR DE PRODUCȚIE - METODA C 11.9.
+Metoda C de calcul se referă la modalitatea de determinare a debitelor de calcul pentru clădiri administrative, social-culturale și grupurile sanitare de la vestiarele atelierelor și unităților de producție, în funcție de suma debitelor specifice armăturilor sau suma echivalenților de debit.
+11.10.
+Debitele specifice de apă V_s;, echivalenții de debit e și presiunea de utilizare P_u ale armăturilor obiectelor sanitare sunt date în ANEXA 2.1B. Valorile presiunii de utilizare din ANEXA 2.1B, au caracter de recomandare și nu se impun față de valorile date în documentațiile tehnice ale producătorilor. Presiunile nominale de utilizare pot fi modificate în funcție de caracteristicile armăturilor cu recomandarea asigurării debitelor specifice prevăzute în ANEXA 2.1B.
+Tabelul 11.1 Debitele de calcul Vc pentru conductele de distribuție a apei reci și calde de consum pentru diferite tipuri de clădiri (cu excepția clădirilor de locuit)
+Nr. crt.
+Destinația clădirilor
+Relațiile de calcul ale debitelor
+Domeniul de aplicare cu V_s,tot cu E cu V_s,tot cu E
+1.
+Cămine pentru copii, creșe.
+V_c = 0,45(V_s,tot)^1/2
+V_c = 0,20 E^1/2
+V_s,tot ≥ 0,20
+E ≥ 1,0
+2.
+Teatre, cluburi, cinematografe, gări, policlinici.
+V_c = 0,49(V_s,tot)^1/2
+V_c = 0,22 E^1/2
+V_s,tot ≥ 0,24
+E ≥ 1,2
+3.
+Birouri, magazine, grupuri sanitare de pe lângă hale și ateliere, hoteluri cu camere de baie aferente camerelor de cazare.
+V_c = 0,54(V_s,tot)^1/2
+V_c = 0,24 E^1/2
+V_s,tot ≥ 0,28
+E ≥ 1,4
+4.
+Instituții de învățământ
+V_c = 0,60(V_s,tot)^1/2
+V_c = 0,27 E^1/2
+V_s,tot ≥ 0,36
+E ≥ 1,8
+5.
+Spitale, sanatorii, cantine, restaurante, bufete.
+V_c = 0,67(V_s,tot)^1/2
+V_c = 0,30 E^1/2
+V_s,tot ≥ 0,44
+E ≥ 2,2
+6.
+Hoteluri cu grupuri sanitare comune.
+V_c = 0,85(V_s,tot)^1/2
+V_c = 0,38 E^1/2
+V_s,tot ≥ 0,72
+E ≥ 3,6
+7.
+Cămine de studenți, internate, băi publice, grupuri sanitare pentru sportivi, artiști, personal de serviciu, stadioane.
+V_c = 1,0(V_s,tot)^1/2
+V_c = 0,45 E^1/2
+V_s,tot ≥ 1,00
+E ≥ 5,0
+8.
+Grupuri sanitare la vestiarele atelierelor și unităților de producție
+V_c = 2,0(V_s,tot)^1/2
+V_c = 0,90 E^1/2
+V_s,tot ≥ 4,00
+E ≥ 20
+11.11.
+Pentru toate categoriile de clădiri indicate în tabelul 11.1, pentru valori ale debitelor specifice de apă ale armăturilor - V_s,tot și echivalenților de debit - E mai mici decât cele indicate la domeniul de aplicare a relației de calcul, se aplică relația generală:
+V_c = V_s,tot = Σn_i x V_s,i sau V_c = 0,2 x E [l/s] (11.12)
+11.12.
+Debitele de calcul pentru conductele de legătură dintre coloane și armăturile punctelor de consum, din clădirile menționate în tabelul 11.1. se calculează cu relațiile prezente în tabel.
+11.1.
+Valorile pentru necesarul specific total de apă rece V_s,zi și necesarul specific de apă caldă V_s,zi,ac pentru clădirile administrative, social-culturale și grupurile sanitare de la vestiarele atelierelor și unităților de producție sunt date în ANEXA 1.2.
+DEBITUL DE CALCUL PENTRU CONDUCTE DE DISTRIBUȚIE A APEI PENTRU SCOPURI TEHNOLOGICE - METODA D 11.2.
+Debitul de calcul pentru conductele de distribuție a apei în scopuri tehnologice, q_c, se calculează cu relația:
+V_c = V_s,tot = ΣK x n_i x V_su,i [l/s] (11.13) în care: ● K - coeficient de simultaneitate care se stabilește în funcție de procesul tehnologic; ● n_i - numărul punctelor de consum (utilajului) de tip i; ● V_su,i - debitul specific al utilajului de tip i [l/s].
+DEBITUL DE CALCUL PENTRU DIMENSIONAREA REȚELELOR EXTERIOARE DE DISTRIBUȚIE A APEI ÎN INCINTA AFERENTĂ CLĂDIRILOR - METODA E 11.3.
+Dimensionarea rețelelor exterioare de alimentare cu apă se realizează pentru debitul de calcul, indicat în acest normativ în secțiunile anterioare aplicând metodele B, C sau D, sau cu necesarul maxim orar, oricare din aceste valori este mai mare. Necesarul maxim orar se stabilește conform prezentului normativ și SR 1343-1, utilizând necesarul specific de apă de consum (din ANEXELE 1.1 și 1.2), numărul de consumatori, coeficientul de variație zilnică kzi (din SR 1343-1) și coeficientul de variație orară ko (pentru o zonă de presiune dezvoltată într-o clădire, se consideră ko = 3-5; pentru clădiri de locuit se consideră valoarea 5, pentru clădiri cu program de desfășurare a activității sub 12 ore, se consideră valoarea 3).
+DEBITUL DE CALCUL PENTRU CONDUCTE DE DISTRIBUȚIE A APEI PENTRU STINGEREA INCENDIILOR 11.4.
+Debitul de calcul al conductelor care alimentează cu apă doar instalații de stingere a incendiilor se stabilește conform normativului P118/2; debitul de calcul al conductelor care alimentează cu apă instalații de stingere a incendiilor și instalații pentru consum menajer sau de producție, se stabilește potrivit normativului P118/2, STAS 1478-90 și actualului normativ.
+La debitul de calcul al conductelor care alimentează cu apă instalațiile de stingere a incendiilor cu hidranți interiori și exteriori precum și instalațiile pentru consum menajer sau tehnologic, nu se consideră în calcul: - pentru rețelele interioare de distribuție, 85% din debitul de apă necesar dușurilor sau băilor și debitul de apă pentru spălarea utilajului tehnologic și pardoselilor;
+- pentru rețelele exterioare de distribuție, debitul de apă necesar pentru stropit străzi și spații verzi.
+DEBITUL DE CALCUL PENTRU INSTALAȚIILE DE PREPARARE A APEI CALDE 11.5.
+Debitul de calcul pentru instalațiile de preparare a apei calde pentru consum menajer, în cazul preparării apei calde cu schimbătoare de căldură fără acumulare, este egal cu debitul de calcul al conductelor de apă caldă.
+11.6.
+Debitul de calcul pentru instalațiile de preparare apă caldă pentru consum menajer, în cazul preparării cu schimbătoare de căldură cu acumulare sau cu boilere cu acumulare, este egal cu debitul maxim orar al instalației de apă caldă.
+În cazul preparării apei calde în schimbătoare de căldură cu acumulare, capacitatea de acumulare se stabilește în funcție de variația consumului de apă caldă și a diferenței de temperatură dintre temperatura maximă admisă pentru apa caldă de consum (60 °C) și temperatura minimă admisă pentru utilizarea apei calde (42 °C).
+11.7.
+Pentru băile publice și spălătoriile de rufe se consideră un consum constant de apă caldă în timpul funcționării, considerând un coeficient de simultaneitate 1 al obiectelor sanitare și al utilajelor implicate.
+11.8.
+Pentru calculul consumului de apă caldă la vestiarele complexelor sportive, atelierelor, clădirilor industriale, cantinelor, restaurantelor, bufetelor etc., se ține seama că durata maximă de utilizare a dușurilor și lavoarelor este de 45 min pe schimb.
+11.9.
+Pentru calculul consumului de apă caldă la cluburi, case de cultură, teatre, se ține seamă că durata maximă de utilizare a dușurilor este de 30 min la sfârșitul fiecărei repetiții sau spectacol.
+11.10.
+La căminele de cazare comună pe șantiere, durata de utilizare a dușurilor este de 2...3 h.
+DEBITUL DE CALCUL PENTRU CONDUCTELE DE RECIRCULARE A APEI CALDE
+Dimensionarea zonei în configurație inelară, compusă din distribuție și recircularea apei calde de consum
+Introducere 11.11.
+Este necesară prevederea unui sistem de recirculare a apei calde de consum în cazurile în care lungimea traseului conductelor pentru alimentarea cu apă caldă, cuprinsă între echipamentul de preparare apă caldă de consum și cel mai îndepărtat consumator de apă caldă consum, depășește 30 m sau pentru clădirile cu instalații interioare de apă caldă dezvoltate pe mai mult de 4 niveluri în total (subterane și supraterane).
+11.12.
+Sistemul de recirculare al apei calde de consum menține temperatura apei calde în conductele de distribuție; prin urmare, reduce risipa de apă potabilă și consumul de energie. O rețea de alimentare cu apă caldă de consum compusă din distribuție și recirculare a apei calde de consum, corect dimensionată, ajută de asemenea la reducerea riscului de proliferare a bacteriilor, precum legionella, în rețeaua de distribuție a apei calde de consum. Se va adopta o temperatură de 55-60 °C pentru apa din conductele de distribuție, iar pentru recirculare, temperatura apei calde nu trebuie să scadă cu mai mult de 5-7 °C față de valoarea temperaturii pe distribuție. Debitul apei calde de consum, vehiculat prin conductele de recirculare, se determină din condiția de limitare a temperaturii minime în acest traseu, format din distribuție și recirculare la valorile enunțate. Debitul la nivelul pompei de recirculare va rezulta astfel în funcție de pierderea termică totală, pe ansamblul sistemului.
+Apa caldă constituie un factor de risc de arsuri grave. La 60 °C este suficientă o secundă de expunere pentru a provoca arsuri de gradul 2. În grupurile sanitare se limitează temperatura apei calde la 50 °C. Dacă este necesar se vor prevedea dispozitive de limitare a temperaturii cât mai aproape posibil de punctele de consum. La nivelul bucătăriilor temperatura maximă acceptată poate fi 60 °C.
+11.13.
+Lungimea racordurilor/conductelor de legatură către consumatori, pornind de la sistemul format din distribuție însoțită de recirculare, nu va depăși 8 m (se numește racord conducta care alimentează un singur obiect sanitar sau un grup sanitar final, a se vedea Figura 11.1).
+11.14.
+Pentru prepararea individuală a apei calde, dacă rețeaua de distribuție este scurtă astfel încât să nu fie obligatorie prevederea recirculării apei calde, se mențin criteriile de temperatură maximă a apei calde la punctele de consum.
+11.15.
+Nu este indicată prevederea recirculării pentru conductele de racord ale unui singur punct de consum sau pentru un număr mic de consumatori de apă caldă.
+11.16.
+Obligatoriu, conductele de distribuție a apei calde precum și cele pentru recirculare se izolează termic, conform cerințelor acestui capitol.
+Figura 11.1 Preparare centralizată a apei calde, lungimea maximă a racordurilor/conductelor de legatură este de 8m, în situația în care s-a prevăzut recirculare.
+Figura 11.2 Preparare individuală a apei calde, fără recirculare, temperatura maximă la punctele de utilizare
+Figura 11.3. Preparare individuală a apei calde, cu recirculare (traseul de distribuție este mai lung de 30 m), temperatura apei calde se va menține la minim 50 °C.
+Etapele calculului de dimensionare 11.17.
+Dimensionarea rețelei de recirculare se realizează după etapa de dimensionare a traseelor de distribuție a apei calde de consum.
+11.18.
+Se stabilește grosimea izolației termice în funcție de diametrul conductei, conform articolelor 11.20, 11.21, 11.22, 11.23.
+11.19.
+Se calculează pierderile termice pentru fiecare tronson al rețelei de distribuție, utilizând relația (11.14). La această etapă sunt cunoscute: diametrele și lungimile conductelor pe traseul distribuției apei calde către consumatori, grosimea și tipul izolației, temperatura fluidului și temperatura mediului ambiant.
+Ulterior se calculează suma pierderilor termice pe tronsoane sau pierderea termică totală, utilizând relația (11.15): ● Q reprezintă suma pierderilor termice pe tronsoane [W] ● Psi transmitanță termică liniară pentru o conductă izolată [W/mK], ● L este lungimea traseului pentru care se face calculul [m], ● θ_ac,distr. este temperatura apei calde pe distribuție [°C], ● θ_aer,amb. este temperatura mediului ambiant [°C].
+În ANEXA 4 sunt centralizate, tabelar, pierderile termice pentru tronsoanele traseului inelar prezentat în Figura 11.4.
+11.20.
+Transmitanța termică liniară pentru o conductă izolată se determină cu relația (11.16) sau cu relațiile notate (11.17) acestea din urmă fiind o variantă simplificată scrisă în funcție de diametrul exterior al conductei. ● Lambda_conductă este conductivitatea termică la nivelul materialului conductei [W/mK] ● Lambda_izolație este conductivitatea termică la nivelul materialului izolant [W/mK] ● d_e, d_i reprezintă diametrul exterior/interior al conductei [m] ● d_e,izolație, d_i,izolație reprezintă diametrul exterior/interior măsurat la nivelul izolației [m] ● h_e reprezintă coeficientul de transfer termic superficial datorită convecției aerului și radiației suprafeței [W/mpK], în mod standard se ia în calcul 10 [W/mpK].
+11.21.
+Se recomandă o grosime de minim 25 mm a izolației pentru conductele al căror diametru este până la Dn 2" inclusiv și respectiv 38 mm pentru conductele al căror diametru este mai mare sau egal cu Dn 2 1/2". Această grosime recomandată a izolației este corelată cu o conductivitate termică a materialului izolant între 0,031 și 0,036 W/(m.°K).
+11.22.
+Calitatea materialului izolant este exprimată în funcție de clasa în care este încadrat materialul respectiv. Clasele sunt descrise în standardul SR EN 12828, ultima clasă fiind cea mai performantă. Este precizată grosimea minimă a izolației (în mm) în funcție de conductivitatea termică a materialului izolator și de diametrul exterior al conductei izolate. Pentru distribuția apei calde se va alege minim clasa 1 a materialului izolant.
+11.23.
+Țevile din material plastic nu fac excepție de la prevederea izolației care este esențială pentru a reduce pierderile de căldură. Conductivitatea termică a țevilor din plastic nu este suficient de scăzută iar grosimea materialului nu este suficient de mare pentru a oferi rezistența termică echivalentă unui material izolator de 25 - 38 mm grosime.
+11.24.
+Pentru exemplificare se va urmări calculul prezentat în ANEXA 4 privind dimensionarea recirculării din Figura 11.4.
+Figura 11.4. Traseu inelar, prezentat de principiu, format din distribuție apă caldă și recirculare apă caldă
+11.25.
+Presupunem că temperatura apei la ieșirea din echipamentul de preparare al apei calde este menținută la 60 °C. Impunem ca temperatura în sistem să nu scadă sub o anumită valoare (de exemplu 55 °C). Astfel că se poate calcula debitul de apă recirculată care corespunde pierderilor termice totale, utilizând relația (13).
+V_recirculare = Q/4180 x delta θ [l/s] (11.8)
+Delta θ este diferența de temperatură între punctul de preparare al apei calde și limita inferioară, minimă acceptată, pentru apa caldă în interiorul sistemului, [K],
+V_recirculare este debitul de apă caldă recirculat prin intermediul pompei [l/s].
+Q este pierderea termică totală calculată cu relația (11.15), în [W].
+11.26.
+Atunci când rețeaua este formată din mai multe bucle paralele este necesar ca debitul calculat mai sus să fie corect repartizat pe ramuri, acest lucru necesitând utilizarea sistemelor de echilibrare. Deoarece, odată cu adoptarea unor temperaturi mai ridicate în interiorul sistemului (pentru a ține sub control pericolul microbiologic) crește riscul de apariție a depunerilor de calcar, se va ține cont ca nici un element de reglare să nu aibă o deschidere mai mică de 1 mm.
+11.27.
+În final, această distribuție a debitului se realizează în timpul echilibrării rețelei, folosind instrumente de măsură. Metoda de calcul face însă posibilă estimarea procentului din debitul total care trebuie distribuit în fiecare ramură.
+11.28.
+Ecuația (11.18) poate fi rescrisă pentru evaluarea debitului necesar în fiecare ramură a rețelei de recirculare. Trebuie făcut un calcul suplimentar pentru a determina temperatura în fiecare nod al rețelei.
+11.29.
+Prin modificarea ecuației (11.18), este posibil să se calculeze temperatura la ieșirea dintr-o secțiune a conductei, atunci când debitul de apă recirculată, pierderile de căldură și temperatura la intrarea apei în tronson sunt cunoscute.
+Figura 11.5 Schemă de calcul pentru evaluarea temperaturii apei calde, se aplică din nod în nod (nodurile sunt notate cu A, B... în Figura 11.4). θ_ac,ieșire tronson = θ_ac,intrare tronson - Q_tronson/4180 x V_recirculare (11.19)
+11.30.
+Stabilirea diametrelor pe traseul de recirculare a apei calde către punctul de preparare: Se consideră diametrul pe recirculare, pe fiecare inel, minim Dn 1/2" sau echivalent. Calculele de dimensionare a recirculării apei calde sunt realizate considerând că nu există consum.
+11.31.
+La dimensionare se va ține cont de vitezele următoare: ● Viteza apei în conducta de recirculare se calculează pornind de la debitul pe fiecare buclă și ipoteza pentru diametrul minim. ● Dacă viteza obținută pe conducta de recirculare este cuprinsă în intervalul de valori 0,2 și 1 m/s, se validează soluția. ● Dacă viteza obținută este mai mare de 1 m/s, se va relua calculul pentru un diametru mai mare decât cel propus în ipoteza inițială.
+11.32.
+Dacă din calcul rezultă un diametru pe recirculare mai mare decât diametrul pe traseul de distribuție, se va revizui proiectarea traseului de recirculare urmărind ca diametrul pe conductele de recirculare să nu depășească diametrele corespunzătoare pe traseele de distribuție apă caldă.
+12.
+DIMENSIONAREA ELEMENTELOR DE INSTALAȚII
+DIMENSIONAREA CONDUCTELOR ȘI STABILIREA SARCINII HIDRODINAMICE NECESARE INSTALAȚIEI 12.1.
+Consumatorul cel mai dezavantajat din punct de vedere hidraulic al instalației este consumatorul pentru care sarcina hidrodinamică necesară are valoare maximă.
+12.2.
+Sarcina hidrodinamică necesară instalației se determină utilizând legea energiilor pentru sisteme de conducte lungi cu pierderi locale de sarcină. Se utilizează relația de mai jos cu semnificația corespunzătoare a parametrilor:
+H_nec = p1/(rho)g = (z2- z1) + p2/(rho)g + h_r1-2 (12.1) ● H_nec - sarcina hidrodinamică necesară [mcol H2O] ● p1 - presiune necesară în punctul de legătură [bar]; ● p2 - presiune de utilizare [bar]; ● z1 - cotă geodezică în punctul de racord [m]; ● Z2 - cotă geodezică la consumator [m]; ● rho - densitatea apei [kg/mc]; ● g - accelerația gravitațională [m/sp]; ● h_ri-2 - pierdere de sarcină între secțiunea de legătură și secțiunea de la consumator [mcol H2O]; ● p1/(rho)g = H_nec - înălțimea de presiune necesară în punctul de legătură [mcol H2O]; ● p2/(rho)g - înălțimea de presiune de utilizare [mcol H2O]; ● z2 - z1 = H_g - înălțimea geodezică [m]
+12.3.
+Traseul principal reprezintă traseul dintre consumatorul cel mai dezavantajat din punct de vedere hidraulic și nodul în care se calculează sarcina hidrodinamică necesară.
+12.4.
+Diametrele tronsoanelor traseului principal se determină utilizând legea de continuitate pentru curentul unidimensional de fluid incompresibil (apă) în care se introduc valorile vitezelor economice recomandate în tabelul 12.1 iar Vc reprezintă debitul de calcul pe tronsonul respectiv:
+D =√4V_c/v(pi) (12.2)
+12.5.
+Diametrele tronsoanelor traseelor secundare se dimensionează la presiunea disponibilă în nodurile de racord la traseul principal fără a se depăși vitezele maxime admisibile
+12.6.
+Vitezele maxime admise, în rețelele de alimentare cu apă, sunt: ● pentru spitale și săli de spectacole: 1,5 [m/s]; ● pentru clădiri de locuit și social-culturale: 2,0 [m/s]; ● pentru hidranții de incendiu: 3,0 [m/s]; ● pentru clădiri de producție, instalații de apă tehnologice și instalații de apă potabilă în industrii: 3,0 [m/s].
+12.7.
+Vitezele recomandate pentru dimensionarea conductelor de alimentare cu apă rece sau caldă pentru consum menajer, în funcție de diametrele nominale ale conductelor sunt redate în Tabelul 12.1.
+Tabelul 12.1 Vitezele recomandate pentru dimensionarea conductelor de alimentare cu apă rece sau caldă pentru consum menajer în funcție de diametrul conductei
+Diametrul nominal al conductei [mm]
+Viteze recomandate pentru dimensionarea conductelor, [m/s] 10 0,10......0,75 15 0,45......0,80 20 0,55......0,90 25 0,60......1,00 32 0,60......1,10 40 0,60......1,20 50 0,70......1,20 63 0,80......1,30 80 0,85......1,40 100 0,90......1,40 125 0,95......1,45 150 1,00......1,50 200 250 300 1,00......1,60
+12.8.
+Pierderea totală de sarcină pe traseul principal se calculează prin însumarea pierderilor distribuite (liniare) respectiv locale de sarcină pe tronsoanele traseului principal.
+12.9.
+Pierderea totală de sarcină pe traseele secundare se calculează prin însumarea pierderilor distribuite (liniare) respectiv locale de sarcină pe tronsoanele acestora.
+12.10.
+Pierderile distribuite (liniare) de sarcină se determină cu formula de mai jos cu semnificația termenilor: h_d = i x l = ((lambda)/D)(v^2/2g)l - [mcol H2O] (12.3) ● i - pantă hidraulică/pierdere liniară unitară de sarcină [mcol H2O/m]; ● l - lungime tronson de calcul [m]; ● lambda - coeficientul lui Darcy.
+12.11.
+Pierderile locale de sarcină se determină utilizând formula de mai jos și semnificația termenilor:
+DIMENSIONAREA POMPELOR
+Pompe pentru apă rece sau caldă de consum menajer 12.12.
+Debitul pompei V_p reprezintă cantitatea de apă vehiculată de pompă în unitatea de timp. Este un debit volumic și se raportează întotdeauna la secțiunea de refulare. Se măsoară în [mc/h] sau în funcție de domeniu în [mc/s], [l/min], [l/s] etc.
+12.13.
+Debitul pompei trebuie să fie mai mare sau cel puțin egal cu debitul de calcul al instalației.
+12.14.
+Înălțimea de pompare reprezintă energia cedată de pompă curentului de lichid (apă). Se definește ca fiind diferența dintre energia specifică a curentului de lichid în secțiunea de refulare și energia specifică a curentului de lichid în secțiunea de aspirație. Dimensional înălțimea de pompare se măsoară în [mcol H2O].
+12.15.
+Înălțimea de pompare necesară Hp pentru apă rece sau caldă de consum se determină cu relația Hp≥Hnec
+12.16.
+Grupurile de pompare sau pompele pentru apă rece și caldă de consum se aleg în așa fel încât punctul de funcționare aflat la intersecția dintre caracteristica constructivă a pompei și curba instalației să corespundă valorilor de debit respectiv înălțime de pompare determinate conform paragrafelor precedente.
+12.17.
+Grupurile de pompare sau pompele se aleg în așa fel încât punctul de funcționare să se găsească în zona de randament maxim al pompelor.
+Pompe pentru apă în scopuri tehnologice. 12.18.
+Debitul pompei trebuie să fie cel puțin egal cu debitul de calcul al conductei principale de distribuție.
+Pompe pentru instalații comune 12.19.
+Pentru pompe care alimentează mai multe categorii de consumatori care funcționează simultan, debitul de calcul rezultă prin însumarea debitelor acelor categorii de consumatori.
+Pompe de recirculare 12.20.
+Debitul pompei de recirculare este egal cu debitul de calcul al conductei de recirculare.
+12.21.
+Pompele de recirculare trebuie să asigure presiunea necesară pentru învingerea pierderilor de sarcină pe conductele de distribuție și pe conductele de recirculare (la trecerea debitului de recirculare).
+Dimensionarea rezervoarelor 12.22.
+Dimensionarea volumului util de apă precum și a volumului total pentru rezervoarele de acumulare se face în conformitate cu normativul NP 133 și cu normativul P118/2.
+12.23.
+În cazul clădirilor pentru care sunt elaborate normative de proiectare specifice (ex: clădiri spitalicești sau de sănătate, incinte industriale, clădiri de învățământ etc.) se respectă cu prioritate acestea pentru stabilirea rezervelor necesare de apă.
+12.24.
+În anumite cazuri se pot întocmi teme de proiectare pentru asigurarea unor volume de apă în rezervoarele de acumulare destinate asigurării sau protecției unor consumatori importanți atâta vreme cât aceste volume nu sunt inferioare celor prevăzute în normativul NP133 sau în normativul P118/2. Se recomandă un timp maxim de stagnare al apei în rezervoare de maxim 36 - 48 h pentru evitarea alterării calității apei.
+12.25.
+Dimensionarea volumului util al rezervoarelor tampon cu nivel liber în cazul utilizării pompelor sau grupurilor de pompare cu turație fixă se face cu formula:
+V_uRT = (1800/n)V_p [mc] (12.5) unde n reprezintă numărul de porniri/oră ale pompelor; V_p reprezintă debitul de pompare considerat egal cu debitul de calcul al instalației mc/s.
+12.26.
+Dimensionarea volumului util al rezervoarelor tampon cu nivel liber în cazul utilizării pompelor sau grupurilor de pompare cu turație variabilă se face cu formula:
+V_uRT = 30V_p [mc] (12.6) unde Vp reprezintă debitul de pompare considerat egal cu debitul de calcul al instalației [mc/s].
+12.27.
+Dimensionarea volumului total pentru pentru rezervoarele tampon cu nivel liber se face cu formula:
+V_totRT = 1 + V_uRT [mc] (12.7)
+Volumul total pentru pentru rezervoarele tampon cu nivel liber nu poate depăși necesarul mediu zilnic aferent consumatorilor (de exemplu, rezervoare pentru clădiri unifamiliale, cu număr mic de consumatori).
+12.28.
+Dimensionarea volumului total al rezervoarelor tampon subpresiune cu membrană în cazul utilizării pompelor sau grupurilor de pompare cu turație fixă sau variabilă se face utilizând relațiile: ● Dacă V_p < 7 mc/h atunci V_tot RT > 0,3 mc; ● Dacă 7 mc/h < V_p < 15 mc/h atunci V_tot RT > 0,5 mc; ● Dacă V_p > 15 mc/h atunci V_tot RT > 0,75 mc;
+12.29.
+Dimensionarea volumului total pentru rezervoarele tampon subpresiune cu pernă de aer sau de azot se face cu formula:
+V_tot RT = 10V_pt(H_a max/H_a min) + A_r (v_a√LA/gAr + c) [mc] (12.8)
+În care: ● V_p - debitul pompei în [mc/s]; în cazul grupurilor de pompare cu mai multe pompe active se consideră debitul celei mai mari pompe din grup; ● t - timpul de intrare în regim a pompei (t = 2 - 3 [s]); ● H_a max - înălțimea de presiune maximă în conducta de aspirație [m col H2O]; ● H_a min - înălțimea de presiune minimă în conducta de aspirație [m col H2O]; ● Ar - aria secțiunii rezervorului [mp]; ● Va - viteza apei în conducta de aspirație, [m/s]; ● L - lungimea conductei de aspirație [m]; ● A - secțiunea transversală a conductei de aspirație [mp]; ● g - accelerația gravitațională [m/sp]; ● c - înălțimea minimă a racordului de aspirație, măsurată de la fundul rezervorului [m].
+12.30.
+Dimensionarea volumului total al recipientului de hidrofor cu pernă de aer sau de azot în cazul utilizării pompelor sau grupurilor de pompare cu turație fixă se calculează cu formula: în care: ● V_p - debitul pompei în [mC/h]; în cazul grupurilor de pompare cu mai multe pompe active se consideră debitul celei mai mari pompe din grup ● n - numărul de porniri/oră ale pompei, stabilit de către proiectant în corelație cu caracteristicile tehnice ale pompei alese; ● Hp (pp)- înălțimea de presiune (presiunea) în recipientul de hidrofor în momentul pornirii pompei în [m col H2O] ([bar]) cel puțin egală cu sarcina hidrodinamică necesară a instalației deservite; Hp = max (Hnec ar, Hnec ac); ● Ho (po)- înălțimea de presiune (presiunea) în recipientul de hidrofor în momentul opririi pompei în [m col H2O] ([bar]). Ho (po) se alege cu 10...15 [m col H2O] (1 - 1,5 [bar]) mai mare decât Hp (pp). ● Hi (pi)- înălțimea de presiune (presiunea) inițială în recipientul de hidrofor în [m col H2O] ([bar]). Ho (po) se alege cu 2... 3 [m col H2O] (0,2 - 0,3 [bar]) mai mică decât Hp (pp).
+Presiunile po pp respectiv pi sunt date în scară manometrică.
+12.31.
+Dimensionarea volumului total al recipientului de hidrofor cu membrană în cazul utilizării pompelor sau grupurilor de pompare cu turație fixă se calculează cu formula: în care: ● Vp - debitul pompei în [mc/h]; în cazul grupurilor de pompare cu mai multe pompe active se consideră debitul celei mai mari pompe din grup; ● n - numărul de porniri/oră ale pompei, stabilit de către proiectant în corelație cu caracteristicile tehnice ale pompei alese; ● Hp (pp)- înălțimea de presiune (presiunea) în recipientul de hidrofor în momentul pornirii pompei în [m col H2O] ([bar]) cel puțin egală cu sarcina hidrodinamică necesară a instalației deservite; Hp = max (Hnec ar, Hnec ac); ● Ho (po)- înălțimea de presiune (presiunea) în recipientul de hidrofor în momentul opririi pompei în [m col H2O] ([bar]). Ho (po) se alege cu 10...15 [m col H2O] (1 - 1,5 [bar]) mai mare decât Hp (pp).
+Presiunile po respectiv pp sunt date în scară manometrică.
+12.32.
+În cazul utilizării pompelor sau grupurilor de pompare cu turație variabilă utilizarea recipientelor de hidrofor cu membrană pe conducta de refulare a pompelor nu este obligatorie ci se recomandă în funcție de specificațiile producătorului de pompe/grupuri de pompare. În cazul în care se utilizează recipiente subpresiune cu membrană volumul lor se stabilește în conformitate cu specificațiile tehnice ale producătorului sau se calculează cu formula: în care: ● Vp - debitul pompei în [mc/h]; în cazul grupurilor de pompare cu mai multe pompe active se consideră debitul celei mai mari pompe din grup; ● n - numărul de porniri/oră ale pompei, stabilit de către proiectant în corelație cu caracteristicile tehnice ale pompei alese; ● delta H (delta p)- variația înălțimea de pompare (variația presiunii în [mH2O] ([bar]) la care funcționează pompele ca să asigure sarcina hidrodinamică necesară a instalației deservite; Hp = max (Hnec ar, Hnec ac); se poate considera delta H= 1 - 6 [m col H2O] (delta p = 0,1- 0,6 [bar]) în funcție de grupul de pompare ales. ● Ho (po)- înălțimea de presiune (presiunea) în recipientul de hidrofor în momentul opririi pompei în m[H2O] ([bar]). Ho (po) se alege cu 10...15 [m col H2O] (1 - 1,5 [bar]) mai mare decât Hp (pp).
+13.
+INSTALAȚII DE CANALIZARE
+REȚELE INTERIOARE ȘI EXTERIOARE DE CANALIZARE ÎN INCINTE- PREVEDERI GENERALE 13.1.
+Calitatea apelor uzate ce urmează să fie evacuate din clădiri în incinte precum și din incinte în rețelele de canalizare publice exterioare trebuie să respecte prevederile reglementării tehnice privind condițiile de evacuare a apelor uzate în rețelele de canalizare ale localităților și/sau direct în stațiile de epurare.
+13.2.
+În interiorul clădirilor, instalația de canalizare se proiectează cu rețele separate, în funcție de natura apelor colectate, și anume: - ape uzate;
+- ape meteorice;
+- ape condens; pentru acest tip de ape, se recomandă fie adoptarea de rețea separată de canalizare, fie racordarea canalizării condensului la sifonul cu gardă hidraulică a unui obiect sanitar frecvent utilizat; nu se racordează canalizarea condensului direct în canalizarea menajeră; nu se racordează canalizarea condensului în canalizarea meteorică.
+- ape care conțin substanțe agresive (acizi, baze etc.);
+- ape uzate provenite de la bucătăriile unităților de alimentație, garaje etc.;
+- ape contaminate provenite de la spitale de boli contagioase, laboratoare de analize medicale, laboratoare cu substanțe radioactive;
+- ape ce conțin substanțe combustibile.
+Pentru condensul provenit de la centralele termice cu funcționare în condensație, evacuarea se realizează către canalizarea menajeră, în zone în care materialul conductelor de canalizare permite evacuarea unor ape cu pH ≤ 6,5. Se recomandă utilizarea unui sistem de neutralizare a acestuia.
+13.3.
+Evacuarea apelor uzate din interiorul clădirilor în rețelele exterioare de canalizare se realizează numai după preepurarea lor, când este cazul, prin neutralizare, dezinfecție, separarea grăsimilor sau a nisipurilor etc. Se recomandă utilizarea unor echipamente de preepurare cu amplasare în exteriorul clădirilor, astfel încât să se realizeze ușor mentenanța acestora.
+13.4.
+Apele uzate provenite de la unități medicale, precum și de la alte instituții, care prin specificul lor contaminează apele uzate cu agenți patogeni, se evacuează la canalizarea exterioară cu luarea măsurilor de dezinfecție impuse prin avizele organelor sanitare de specialitate, normativele de specialitate și legislația de profil, (Ordinul ministrului sănătății nr. 914/2006, cu modificările și completările ulterioare).
+13.5.
+Din cauza faptului că rețelele de canalizare exterioară în sistem unitar pot intra sub presiune pe durata ploilor cu intensitate mare, legarea la canalizarea interioară a obiectelor sanitare, precum și a altor puncte de consum, situate în clădire sau incintă sub nivelul străzii, se face printr-o rețea de canalizare separată, luându-se pentru această rețea, măsuri de înlăturare a pericolului de refulare, precum: - racordarea indirectă, prin intermediul unei stații de pompare pentru ape uzate, utilizând scheme adoptate în standardele SR EN 12056 și SR EN 752 (cu montarea buclei antirefulare);
+- prevederea de armături contra refulării cu închidere etanșă; armăturile contra refulării se prevăd numai în cazul clădirilor în care se asigură personal de exploatare; prevederea de clapete împotriva refulării, pentru clădiri, se realizează doar cu produse fabricate în conformitate cu standardul SR EN 13564-1; suplimentar, pentru a asigura garda hidraulică necesară canalizării, se poate monta un sifon de linie; clapetele împotriva refulării se pot utiliza când presiunea apei refulate nu are valori ridicate; se atrage atenția că utilizarea clapetelor contra refulării nu reprezintă o metodă certă de evitare a refulării apei în cazul suprapresiunilor, de preferat fiind sistemul pompat, însoțit de bucla antirefulare prevăzută pe traseul de pompare a apei în exteriorul clădirii.
+13.6.
+Instalația interioară de canalizare se leagă la rețeaua exterioară, prin intermediul unui cămin de vizitare sau de inspecție.
+În terenurile normale, căminele de vizitare sau de inspecție se amplasează față de clădire, la o distanță minimă de 1,5 m și la o distanță maximă de 10 m.
+13.7.
+În terenurile sensibile la umezire precum și în cele cu umflări și contracții mari, căminele de vizitare se amplasează ținând seama de prevederile reglementării tehnice pentru proiectarea și executarea construcțiilor fundate pe terenuri sensibile la umezire (NP125) sau NP126.
+13.8.
+Sistemul de canalizare exterioară, din cadrul ansamblurilor de clădiri (în incinte), poate fi unitar sau separativ și se stabilește, de regulă, corespunzător sistemului de canalizare publică.
+13.9.
+În incinte, traseele colectoarelor se coordonează cu restul conductelor, amplasându-se la distanțe cerute de normele în vigoare SR 8591 față de clădiri (noi și existente), și față de alte rețele/conducte.
+13.10.
+Căminele de vizitare sau de inspecție, pe rețeaua exterioară de canalizare, se prevăd potrivit NP133, SR EN 752, SR EN 476, STAS 3051, SR EN 16933-1. Căminele de canalizare în aliniament, în incinte, se prevăd la maxim 50 m distanță între ele. Căminele de vizitare sau de inspecție trebuie să fie conform SR EN 476. Căminele de inspecție amplasate în incinte se montează cu alternanță, intre cămine de vizitare. Numărul maxim al căminelor de inspecție intre două cămine de vizitare este de 2. Pentru incintele ansamblurilor de clădiri de locuit, diametrul minim al căminelor de inspecție trebuie să fie de minim 600 mm.
+13.11.
+Legarea conductelor de canalizare în căminele adânci, în care se realizează o diferență de nivel mai mare de 150 cm între cota de intrare a conductelor și radier, se face astfel încât să fie evitată degradarea radierului și, în același timp, să nu fie stânjenit accesul personalului de exploatare în cămin (cămine de rupere de pantă).
+RACORDUL DE CANALIZARE LA REȚEAUA PUBLICĂ DE CANALIZARE EXTERIOARĂ 13.12.
+Legarea instalației de canalizare interioare sau a rețelei exterioare de canalizare dintr- o incintă la rețeaua de canalizare exterioară a localității se recomandă să se facă printr-un singur racord în cazul rețelelor în sistem unitar și cu două racorduri pentru cele în sistem separativ.
+13.13.
+Căminul de racord se amplasează la limita de proprietate, în conformitate cu NP 133.
+În cazuri excepționale, se admite amplasarea căminului de racord pe trotuar, ținând seama de existența altor instalații subterane.
+INSTALAȚII INTERIOARE DE CANALIZARE MENAJERA ȘI METEORICĂ 13.14.
+În interiorul clădirilor, instalația interioară de evacuare a apelor meteorice este complet separată de cea menajeră. Pentru meteoric se poate utiliza și termenul de pluvial. Termenul de evacuare este similar cu termenul de canalizare.
+Colectoare orizontale 13.15.
+La alegerea traseului colectoarelor orizontale, se au în vedere următoarele: - în clădirile cu subsol, în care traseele sunt accesibile, se reduce la minimum numărul de ieșiri ale conductelor de canalizare din clădiri;
+- se reduce la minimum numărul schimbărilor de direcție;
+- racordările legăturilor coloanelor la colectoare se face cu un unghi de max. 45°.
+13.16.
+La clădirile fără subsol amplasate în terenuri normale se admite montarea îngropată în pământ sub pardoseală a conductelor de canalizare aferente clădirii respective, dar cu adoptarea unor trasee cât mai scurte, fără schimbări de direcție, cu posibilități de intervenție pentru desfundare conform distanțelor prevăzute în Tabelul 13.1. Dacă sunt necesare schimbări de direcție, se prevăd cămine uscate și piese de curățire.
+13.17.
+Clădirile nu pot fi traversate sau subtraversate de colectoare de canalizare amplasate sub clădire, în pământ sau în subsol, care evacuează apă de la clădiri alăturate.
+13.18.
+Nu se admite montarea colectoarelor de canalizare în pardoseală, sub utilaje.
+13.19.
+Pentru canalizarea menajeră, pentru colectoare se adoptă schimbări de direcție cu unghiuri până la 45° (schimbarea direcției la 90° se realizează prin două schimbări succesive la 45°). Pentru ape convențional curate, schimbările de direcție se pot face cu unghiuri până la 90°.
+Nu se utilizează ramificații duble pe orizontală.
+13.20.
+Se prevăd tuburi (piese, dispozitive) de curățire la schimbări de direcție, la punctele de ramificație greu accesibile pentru curățire din alte locuri, precum și pe trasee rectilinii lungi, la distanțele indicate în Tabelul 13.1.
+Tabelul 13.1 - Distanțele maxime de montare a dispozitivelor de curățire, pieselor de curățire, la conducte orizontale de canalizare a apelor uzate menajere, industriale și meteorice
+Diametrul conductei [mm]
+Distanța dintre piese [m] la ape industriale convențional curate și meteorice la ape uzate menajere la ape impurificate și cu suspensii mari și grele 50- 70 10 5 4 100 15 8 6 125 - 200 15 14 12
+13.21.
+La ieșirea în exterior a conductelor de canalizare din clădiri se asigură adâncimea minimă de protecție contra înghețului, măsurată la nivelul finit (după amenajare) al terenului până la generatoarea superioară a conductelor. Dacă pozarea în aceste condiții nu este posibilă se iau măsuri contra înghețului.
+Coloanele de scurgere ale apelor menajere 13.22.
+Stabilirea numărului de coloane și a poziției acestora se face în funcție de sistemul constructiv adoptat, urmărindu-se ca legăturile obiectelor servite să fie cât mai scurte. Se utilizează soluțiile de configurare ale instalației de canalizare din SR EN 12056 (variante, în funcție de caz, conform schemelor prezentate în ANEXA 5.9).
+13.23.
+În cazul coloanelor având înălțimea peste 28 m, se prevăd devieri ale coloanelor (deplasarea axului); devierile se realizează la intervale de maximum 8 niveluri una de alta, prin utilizarea curbelor de etaj sau a coturilor de 45° și mai mici. În acest caz se montează suplimentar piese de curățire înainte și după deviere.
+13.24.
+Pe coloanele de scurgere cu legături de la obiectele sanitare se prevăd tuburi (piese) de curățire la baza coloanei, deasupra ultimei ramificații și la fiecare 2 nivele. Înălțimea de montaj a piesei de curățire este de 0,4 - 0,8 m față de pardoseală. Pentru clădirile de locuit, în apartamente se montează piese de curățire pe coloane la fiecare nivel, pentru care se trebuie să se asigure acces pentru intervenție (de exemplu, gură de vizitare montată în ghenă, în dreptul piesei de curățire).
+În subsol, montarea pieselor de curățire se face în spațiile comune și în spațiile aparținând beneficiarilor pe care îi servesc.
+13.25.
+În blocurile de locuințe sau clădiri de locuit (locuințe), clădirile aparthotel, cămine pentru elevi sau studenți, creșe, cămine pentru persoane în vârstă se prevăd coloane de canalizare separate pentru bucătării și pentru grupurile sanitare; nu se admite racordarea la aceeași coloană de canalizare a obiectelor sanitare din grupurile sanitare și a celor din bucătării.
+De asemenea, în blocurile de locuințe sau în clădirile aparthotel nu se cuplează la aceeași coloană de canalizare grupuri sanitare din apartamente învecinate, aflate pe același nivel.
+Accesul la aceste coloane trebuie asigurat din apartamentul în care este amplasată coloana care deservește obiectele sanitare din apartamentul respectiv.
+Coloanele de scurgere de la bucătării în blocurile de locuințe, sau în clădirile de locuit (locuințe), clădirile aparthotel, cămine pentru elevi sau studenți, cămine pentru persoane în vârstă au diametrul minim de 70 mm, în cazul clădirilor cu mai puțin de 3 niveluri dotate cu spălătoare și minimum 100 mm la clădiri cu mai mult de 3 niveluri.
+Conducte de ventilare pentru canalizare menajeră 13.26.
+Ventilarea primară (directă) se prevede prin prelungirea peste nivelul terasei sau acoperișului a tuturor coloanelor de scurgere. Se admite și termenul de ventilație primară, directă. Orice grup sanitar trebuie să aibe prevăzută ventilarea canalizării.
+13.27.
+Ventilarea secundară (indirectă) se prevede în mod obligatoriu pentru conductele orizontale, în conformitate cu SR EN 12056-2, sistem II împreună cu respectarea condițiilor din Tabelul 14.5.
+Se admite și termenul de ventilație secundară, indirectă.
+13.28.
+Ventilarea secundară (indirectă) se prevede cu următoarele variante: - cu coloană de ventilare separată până deasupra terasei sau acoperișului;
+- prin racordarea la o altă coloană de ventilare vecină;
+- prin racordarea la o coloană de scurgere prelungită cu ventilare primară (directă).
+13.29.
+Racordarea ventilațiilor secundare la coloanele de scurgere se face sub un unghi ascuțit cu vârful în sensul scurgerii pentru a împiedica scurgerea prin coloana de ventilație.
+13.30.
+Ventilarea auxiliară suplimentară se prevede conform SR EN 12056, la clădirile la care coloanele de scurgere depășesc 28 m înălțime și la clădirile la care se dorește o creștere a capacității de evacuare a coloanelor de canalizare menajeră. Se admit și sisteme de ventilare a coloanei de canalizare menajeră prin utilizarea pieselor de intersecție cu aerare, conform ANEXEI 5.9. Adoptarea în proiect a pieselor de intersecție cu aerare se face în conformitate cu indicațiile producătorului, existând limite de aplicare.
+Ventilarea auxiliară dublează coloana de scurgere pe toată înălțimea sa și se leagă la aceasta la minim fiecare 3 niveluri.
+13.31.
+Toate coloanele de ventilare, de orice fel, se prelungesc deasupra terasei sau acoperișului cu minim 0,50 m cu conducte din fontă de scurgere (sau soluție similară agrementată) și cu căciuli de ventilare.
+13.32.
+Conductele de ventilare care ies deasupra teraselor în vecinătatea ferestrelor sau a altor deschideri legate de încăperi cu utilizare curentă se prelungesc deasupra acestor deschideri conform valorilor din Tabelul 13.2 -.
+Tabelul 13.2 - Distanțele pe orizontală a coloanelor față de deschideri și înălțimea minimă a gurii de aerisire deasupra deschiderilor
+Distanța orizontală a coloanei față de deschidere [m]
+Înălțimea minimă a gurii de aerisire deasupra deschiderii [m] până la 1 1,50 de la 1- 2 1,30 2- 3 1,00 3- 4 0,70 peste 4 0,50
+13.33.
+Este admisă legarea mai multor coloane de ventilare primară într-una singură, dar nu mai mult de 3 coloane în total, conform SR EN 12056-2.
+Aeratoare cu membrană pentru canalizare menajeră 13.34.
+Aeratoarele cu membrană reprezintă o alternativă de ventilare a coloanelor de canalizare menajeră, doar în cazurile bine justificate tehnic, în care nu poate fi realizată o prelungire a coloanei de canalizare deasupra terasei/acoperișului sau este nevoie de limitarea numărului de străpungeri prin anvelopa clădirii iar în instalația interioară de canalizare există coloane ventilate primar. Se menționează ca adoptarea soluției cu ventilare primară este prioritară. De asemenea, traseul ventilat cu ajutorul aeratoarelor este limitat pentru colectoare/coloane prevăzute cu maxim 9 obiecte (obiecte sanitare, mașini spălat, sifoane pardoseală). Peste această limită, este necesară prevederea ventilării primare/secundare. În plus, aeratoarele cu membrană se montează în spații ventilate/aerisite și cu acces facil în vederea inspectării și mentenanței; nu se admite montarea lor în spații ascunse de tip ghenă instalații, în spațiul format de plăci din rigips sau orice spațiu ascuns similar, neaerisit.
+Coloane pentru evacuarea apelor meteorice 13.35.
+La clădirile cu terasă se recomandă ca evacuarea apelor meteorice să se facă prin conducte interioare. Evacuarea apelor de pe terase aflate la cote diferite se face prin coloane independente (întrucât aceste coloane pot intra în regim de funcționare sub presiune).
+13.36.
+Pentru balcoane amplasate de la niveluri diferite, în principiu pe aceeași verticală, pot fi utilizate coloane de canalizare meteorică comune, cu prevederea de piese de curățire la fiecare nivel pentru blocuri de locuințe, pentru clădiri de sănătate, pentru clădiri de importanță A și B (după fiecare racord sau intersecție) și din 2 în 2 niveluri la celelalte tipuri de clădiri.
+13.37.
+Nu se admite montarea coloanelor de canalizare meteorică/menajeră în spații în care nu se poate realiza exploatarea ulterioară (de exemplu, montare în termosistem, într-o fațadă ventilată etc). Același lucru este valabil și pentru conductele sub presiune (apă, canalizare etc).
+13.38.
+De asemenea, pentru o terasă se montează minim 2 receptoare de terasă, din motive de siguranță și continuitate în exploatare (nu se aplică balcoanelor).
+13.39.
+Apa evacuată prin burlanele exterioare se poate scurge liber la rigolă sau la o rețea de canalizare.
+Burlanele racordate la canalizare se continuă la bază, pe o înălțime de 0,90 m față de trotuar, cu tuburi rezistente la șocuri mecanice, pe care se prevede o piesă de curățire.
+13.40.
+Colectarea apelor meteorice de pe terase necirculabile se face prin receptoare fără gardă hidraulică.
+13.41.
+În cazul teraselor circulabile și a curților interioare legate la canalizarea exterioară în sistem unitar, este obligatorie montarea fie a unor sifoane de linie (generale), de preferință în subsol, fie prevederea unor cămine exterioare cu racordul sifonat.
+13.42.
+Evacuarea apelor meteorice din curțile interioare se face la canalizarea exterioară prin rețea separată de rețeaua de canalizare a apelor uzate menajere.
+13.43.
+În cazul în care condensul care se formează pe suprafața coloanelor de canalizare meteorică poate provoca probleme, afectări ale plafoanelor, conductele montate în interiorul clădirilor se vor izola termic.
+13.44.
+Pe toate coloanele de scurgere a apelor meteorice, având înălțimea până la 28 m, se prevăd piese de curățire cel puțin la primul și la ultimul nivel.
+13.45.
+La coloanele mai înalte de 28 m se prevăd devieri ale coloanelor la intervale de 8 niveluri, prin utilizarea curbelor de etaj sau a coturilor de 450 și mai mici.
+13.46.
+În condițiile în care există risc de îngheț, iar gheața poate bloca evacuările și poate provoca inundații în interiorul clădirilor, trebuie luată în considerare montarea de cabluri încălzitoare pe receptoare, jgheaburi și conductele amplasate în zonele în care există acest risc. Izolarea termică a acestor conducte nu este suficientă ca măsură împotriva înghețului.
+13.47.
+Atunci când se schimbă funcțiunea unei clădiri, sistemul de evacuare a apelor meteorice trebuie reevaluat relativ la noile condiții de compartimentare a clădirii. De asemenea, se reevaluează frecvența ploii de calcul.
+13.48.
+Se va evita trecerea coloanelor de canalizare prin camere de locuit, încăperi cu finisaje deosebite, spații de depozitare produse alimentare sau farmaceutice, spații în care prezența apei constituie pericol de explozie sau pericol de incendiu, prin golul ascensorului, prin postul de transformare etc. A se vedea prevederile normativelor I7 și P118/3, alte normative și standarde specifice.
+13.49.
+Pentru rețele interioare de evacuare a apelor meteorice, la stabilirea debitului de calcul se aleg intensitatea ploii de calcul și durata ploii de calcul, conform STAS 1795. Frecvența ploii de calcul se determină conform Tabel 14.2. În plus, dacă clădirile au categorie de importanță A sau B, frecvența ploii de calcul este 1/5, indiferent de amplasare în mediu rural sau urban.
+13.50.
+Sistemele de drenaj pentru grădinile situate pe acoperiș trebuie să permită inspecția și să încorporeze mijloace de împiedicare a intrării solului în sistemul de evacuare.
+Evacuarea apelor meteorice de pe acoperișuri plate 13.51.
+Apele meteorice de pe acoperișurile plate pot fi colectate și evacuate prin receptoare de terasă sau rigole. Standard de referință pentru sifoanele de terasă este STAS 1795. Se pot adopta valori ale debitelor maxime ce pot fi evacuate de sifoane (receptoare) de terasă/rigole conform fișelor tehnice ale producătorilor.
+13.52.
+Alegerea și amplasarea sifoanelor și rigolelor se va corela cu partea de rezistență și arhitectură a construcției și cu configurația învelitorii; sifoanele și rigolele se amplasează în puncte de cotă minimă (pentru sifoane) sau linii de cotă minimă (rigole), după caz.
+13.53.
+Coloanele de scurgere preiau apele meteorice de la receptoarele de terasă. Debitul maxim suportat de coloana de scurgere trebuie să fie cel puțin egal cu debitul ce poate fi evacuat de receptorul de terasă în condițiile de montaj specifice proiectului. Debitele maxime ce pot fi evacuate prin coloane sunt precizate în STAS 1795.
+13.54.
+Conductele interioare pentru canalizarea meteorică (coloane, colectoare și sisteme de îmbinare ale tronsoanelor) trebuie să fie capabile să reziste la presiunea dată de înălțimea coloanei de apă; în consecință, se prevăd conducte care pot evacua apa sub presiune, considerându-se intrarea sub presiune pe toată înălțimea coloanelor, și pe traseul colectoarelor (a conductelor orizontale). Pentru conductele din mase plastice utilizate în canalizare se prevăd piese de curățire și piese de dilatare (precum și alte accesorii) conform normativului de specialitate a produsului și fișelor tehnice aferente materialului.
+13.55.
+Colectoarele interioare pentru canalizarea apelor meteorice pot ajunge la un grad de umplere maxim acceptat de 100%. Adâncimea stratului de apă ce se poate acumula pe terasă la ploi torențiale nu va depăși valorile luate în calcul în proiectul de structură, coroborat și cu STAS 1795.
+13.56.
+Viteza minimă a apei meteorice în colectorul de canalizare pluvială este 0,7 m/s iar viteza maximă se alege în funcție de materialul din care sunt realizate conductele. Pentru conducte din plastic viteza maximă acceptată este 4 m/s cu excepția cazului în care fișa tehnică a produsului precizează alte valori.
+Evacuarea apei meteorice de pe acoperișuri tip șarpantă 13.57.
+Colectarea și evacuarea apelor meteorice de pe acoperișurile tip șarpantă se face în general cu jgheaburi și burlane.
+13.58.
+Pentru calcule de dimensionare aferente jgheaburilor se recomandă utilizarea standardului SR EN 12056 - 3.
+Utilizarea apelor meteorice 13.59.
+Dacă apa meteorică este acumulată în vederea utilizării ei în irigarea/stropirea spațiilor verzi, calitatea ei trebuie să corespundă cerințelor normativului NTPA 001.
+13.60.
+Apele meteorice pot fi utilizate pentru spălarea vaselor de closet și pisoarelor, spălarea locurilor de parcare.
+13.61.
+Pentru spitale este interzisă reutilizarea apei de ploaie, nu se stochează apă de ploaie nici pentru irigații, nici pentru a o reutiliza la nivelul unor obiecte sanitare și nici pentru circuite de răcire ale echipamentelor.
+Colectare/evacuare depresionară a apelor meteorice 13.62.
+Sistemul de colectare/evacuare depresionară se poate adopta ori de câte ori se îndeplinesc condițiile pentru inițierea curgerii depresionare (înălțimea motoare este diferența de cotă dintre secțiunea de intrare în receptor și colectorul orizontal, care este mai mare decât valoarea impusă de către producător).
+Efectul de sifon trebuie să înceapă suficient de repede pentru a preveni depășirea înălțimii stratului de apă considerată în calcul pentru proiectarea acoperișului.
+13.63.
+Calculul rețelei de canalizare meteorică în sistem depresionar se realizează cu programe specializate.
+Condiții de amplasare a obiectelor sanitare 13.64.
+Pentru distanțele minime de amplasare ale obiectelor sanitare față de elementele de construcție sau față de alte obiecte sanitare precum și cotele de montaj ale obiectelor sanitare se poate utiliza STAS 1504. Pentru grupurile sanitare aferente persoanelor cu dizabilități, se adoptă reglementările specifice.
+13.65.
+Pentru clădirile multietajate, este importantă asigurarea suprapunerii pe verticală atât a grupurilor sanitare, cât și a obiectelor sanitare situate în afara grupurilor sanitare.
+13.66.
+La proiectarea grupurilor sanitare se urmărește aplicarea unor soluții care să favorizeze modularea instalațiilor.
+13.67.
+Grupurile sanitare echipate cu dușuri și lavoare din cămine, internate, cazărmi, vestiare etc., se recomandă să se amplaseze spre mijlocul încăperii, neadosate la pereții încăperii.
+13.68.
+Amplasarea obiectelor sanitare și a utilajelor se face astfel încât să se realizeze trasee ale conductelor de legătură cât mai scurte și, pe cât posibil, evitarea intersectării conductelor.
+13.69.
+Se asigură o gardă hidraulică pentru toate obiectele sanitare racordate la canalizare. Garda hidraulică asigurată pentru obiectele sanitare trebuie să aibe o înălțime a stratului de apă de minim de 50 mm.
+13.70.
+Obiectele sanitare montate suprateran se racordează, de regulă, la canalizarea exterioară prin intermediul unui sistem gravitațional. Pentru obiectele sanitare montate sub nivelul terenului se recomandă instalarea unui sistem care să nu permită refularea apei de canalizare din exterior către interior, respectiv un sistem care funcționează prin pompare.
+Stații de pompare ape uzate situate în interiorul clădirilor 13.71.
+Stațiile de pompare ape uzate se utilizează atunci când: ● evacuarea apelor uzate de la obiectele sanitare nu poate fi realizată gravitațional, acestea fiind amplasate sub nivelul terenului, iar canalizarea exterioară este în sistem unitar. ● evacuarea apelor uzate de la obiectele sanitare nu poate fi realizată gravitațional, acestea fiind amplasate sub nivelul colectorului de canalizare menajeră exterioară, în sistem divizor.
+În aceste cazuri, pomparea apei uzate se realizează în rețeaua exterioară, prin intermediul unui cămin de vizitare. Nu se recomandă refularea în colectoarele interioare.
+Dacă nu se poate evita refularea traseului pompat într-un colector de canalizare menajer, gravitațional, din considerente tehnice, este necesar ca acel colector să fie dimensionat la un debit care să conțină și debitul pompat, și să se respecte în aceste condiții gradul de umplere maxim admis corespunzător.
+Trebuie luate măsuri împotriva refulării inverse a apei, protecția împotriva refulării poate fi realizată printr-o buclă contra refulării, aceasta fiind considerată cea mai eficientă metodă (se va standardul SR EN 12056-4). Bucla antirefulare va depăși cu 30...50 cm cota străzii sub care se găsește punctul de racord la colectorul stradal.
+Pot fi folosite stații de pompare și pentru situațiile în care obiectele sanitare (sau zonele de prelevare ape evacuate, de exemplu echipamente răcire) sunt amplasate la distanță față de o coloană sau colector de canalizare existent, și se adoptă o evacuare pompată a apelor uzate/convențional curate (de exemplu, condens).
+13.72.
+Pentru rețelele interioare de canalizare care deservesc obiecte sanitare amplasate în subsol, sub nivelul colectorului stradal, care deversează în rețele unitare exterioare nu se admite racordarea directă cu clapetă de sens. Pentru celelalte situații se vor respecta prevederile din standardul SR EN 12056-4.
+Nu se realizează alte racorduri suplimentare pe conducta de evacuare prin pompare. Ori de câte ori este posibil, se va urmări ca stațiile de pompare ape uzate să se amplaseze în afara clădirilor.
+13.73.
+Pentru stațiile de pompare ape uzate a căror funcționare nu poate fi întreruptă, acestea se prevăd cu pompă activă și pompă de rezervă.
+13.74.
+Recipientul în care sunt colectate apele uzate cu materii fecaloide trebuie să fie etanș, prevăzut cu racorduri de conectare a obiectelor sanitare, și cu o conductă de ventilare a recipientului de acumulare a apei uzate. Pentru ventilarea recipientului se pot adopta următoarele soluții: ● Conductă de ventilare primară individuală, care ajunge deasupra nivelului acoperișului; ● Se poate adopta, pentru recipient, o conductă de ventilare secundară conectată la o altă conductă de ventilare primară; ● Pentru ape uzate provenite din spitale, se admite doar ventilarea primară a stațiilor de pompare ape uzate.
+13.75.
+Nu se montează conducte de ventilare pe conducta de refulare a stației de pompare.
+13.76.
+Aeratoarele cu membrană nu sunt acceptate pe conducta de ventilare a recipientului stației de pompare ape uzate menajere, este necesară prevederea unei conducte de ventilare în conexiune liberă cu atmosfera.
+13.77.
+În cazul în care stația de pompare ape uzate se amplasează în exteriorul clădirii se vor respecta condițiile de amplasare din standardul SR EN 752 și normativul NP133.
+13.78.
+Încăperea în care se montează stația de pompare ape uzate trebuie să fie încălzită și ventilată corespunzător.
+13.79.
+Dimensionarea stațiilor de pompare ape uzate se va face conform standardelor SR EN 12056 și SR 1846. Viteza minimă de pompare trebuie să fie 0,7 m/s.
+13.80.
+Conducta de pompare ape uzate trebuie să reziste la 1,5 ori presiunea maximă de operare a stației de pompare. Presiunea maximă de operare trebuie să fie stabilită prin proiect.
+13.81.
+Pe conducta de refulare, se montează o clapetă de reținere, cât mai aproape de pompă.
+13.82.
+Dacă se colectează într-un rezervor comun ape meteorice și ape uzate menajere, care deversează ulterior într-un colector unitar, rezervorul se va împărți în 2 compartimente distincte (meteoric respectiv menajer), prevăzute cu pompe diferite și conducte de pompare diferite.
+INSTALAȚII DE CANALIZARE LA CLĂDIRI AMPLASATE ÎN ZONE FĂRĂ REȚELE PUBLICE DE CANALIZARE 13.83.
+În cazul clădirilor amplasate în zone fără rețele exterioare de canalizare, evacuarea apelor uzate provenite de la instalațiile sanitare se face la o instalație exterioară, proiectată pentru tratarea și evacuare apelor uzate menajere.
+13.84.
+La proiectarea instalației exterioare pentru evacuarea și tratarea apelor uzate se ține seama de situația locală (relief, existența culturilor agricole, numărul de persoane servite etc.), de considerente economice (utilizarea apei uzate, transportul depunerilor etc.), de posibilitățile de exploatare, de avizele legale acordate de organele în drept, de distanțele minime obligatorii față de sursele de alimentare cu apă etc.
+13.85.
+Pentru clădirile sau grupurile de clădiri cu un număr de până la 50 de persoane, se recomandă următoarele scheme pentru evacuarea apelor uzate menajere: - evacuarea apelor uzate într-un rezervor etanș, vidanjabil, cu goliri periodice;
+- evacuarea printr-o ministație de epurare, cămin de distribuție, drenuri (de suprafață sau de adâncime); cu respectarea normativului NTPA 001 și avizul instituțiilor corespunzătoare.
+- se va respecta Hotărârea Guvernului nr. 714/2022 privind aprobarea Criteriilor pentru autorizarea, construcția, înscrierea/înregistrarea, controlul, exploatarea și întreținerea sistemelor individuale adecvate de colectare și epurare a apelor uzate.
+13.86.
+În cazul localităților care nu au rețele exterioare de canalizare, evacuarea apelor meteorice se face, de regulă, la teren. În aceste localități, clădirile pot fi prevăzute cu instalații de canalizare a apelor meteorice, dacă există posibilitatea evacuării acestora într-un emisar, depresiune, zonă drenare etc. și dacă, pentru aceasta, s-au obținut aprobările legale. În exteriorul clădirilor, rețelele de canalizare exterioare pot fi în sistem unitar, divizor sau mixt. Se admite evacuarea printr-o rețea exterioară de canalizare comună a apelor meteorice și menajere în cazul instalării unor sisteme locale de epurare și evacuare a apelor uzate, și anume, în cazul evacuării apei uzate epurate conform legislației într-un emisar, depresiune etc. În acest caz, racordarea rețelei de canalizare a apelor meteorice la rețeaua de canalizare menajeră se face numai în avalul instalațiilor și echipamentelor de epurare a apelor uzate. Este necesară și epurarea prealabilă a apelor meteorice (de exemplu, trecerea prin separatoare de hidrocaburi cu o eficiență în conformitate cu nivelele indicate în normativul NTPA 001) înainte de deversarea în mediul natural.
+14.
+DIMENSIONAREA INSTALAȚIILOR DE CANALIZARE 14.1.
+Diametrul nominal Dn al conductelor din instalațiile interioare de canalizare nu poate fi micșorat pe direcția de curgere (este monoton crescător pe direcția de evacuare). Diametrele menționate în acest capitol sunt cele din standardul SR EN 12056-2 (ANEXA 5.1), în care sunt indicate diametrele nominale și diametrele interioare minime d_i,min. Se respectă întotdeauna condiția de diametru minim prevăzut, obținut în urma dimensionării.
+14.2.
+De multe ori, ventilarea rețelelor exterioare de canalizare se poate realiza prin instalațiile interioare de canalizare, de aceea este obligatorie prevederea de sisteme de ventilare ale canalizării cu capete de coloane deschise în atmosferă. Utilizarea clapetelor de ventilare (a aeratoarelor cu membrană) este limitată, conform condițiilor expuse în capitolul 13.
+14.3.
+Atunci când se prevăd clapete de ventilație (aeratoare cu membrană), acestea trebuie să fie conform standardului SR EN 12380 și se calculează pentru conducte de legătură și coloane de canalizare. Calculul lor este detaliat în continuare, prevăzut și în standardul SR EN 120562.
+DEBITE DE CALCUL PENTRU CANALIZAREA APELOR UZATE MENAJERE, INSTALAȚII INTERIOARE 14.4.
+Debitul total de calcul utilizat pentru dimensionarea instalațiilor interioare de canalizare are formula:
+V_tot = V_c,ww + V_cont + V_p [l/s] (14.1)
+În care: ● V_tot = debitul total [l/s] ● V_c,ww = debitul de apă uzată [l/s] ● V_cont = debitul continuu de apă uzată (provenind de la obiecte cu funcționare continuă) [l/s] ● V_p = debitul pompat de apă uzată [l/s].
+Pentru determinarea debitului V_c,ww se utilizează standardul SR EN 12056-2, cu considerarea sistemului II pentru conducte de legătură, pentru coloane și colectoare.
+Debite specifice pentru ape uzate menajere 14.5.
+Debitele specifice de scurgere pentru ape uzate menajere de la diferite obiecte sanitare sau puncte de consum V_s, diametrele nominale ale conductelor de legătură D_n și pantele de montaj sunt date în tabelele cuprinse în ANEXA 5.1, corespunzătoare cu cele din standardul SR EN 12056-2, sistem II.
+Debitul de calcul pentru ape uzate menajere, instalații interioare 14.6.
+Debitul de calcul Vc ww pentru conductele de canalizare a apelor uzate menajere care asigură evacuarea la mai mult de un obiect sanitar sau punct de consum, se calculează cu relația generală:
+V_c,ww = k x √V_cs [l/s] (14.2) în care: ● V_cs este debitul de calcul pentru apa de scurgere în rețeaua de canalizare, corespunzător valorii sumei debitelor specifice ale obiectelor sanitare sau ale punctelor de consum a apei, V_s [l/s], conform datelor din ANEXA 5.1;
+V_cs = Σn_i x V_s,i [l/s] (14.3)
+Iar k este factorul de simultaneitate, din tabelul următor:
+Tabel 14.1 - valori pentru k, factorul de simultaneitate
+Nr. crt.
+Destinația clădirii factorul de simultaneitate k
+1.
+Clădiri de locuit; pensiuni; clădiri pentru birouri 0,5
+2.
+Cămine pentru copii, creșe 1
+3.
+Teatre; cinematografe; cluburi; gări; policlinici 1
+4.
+Școli, instituții de învățământ 0,7
+5.
+Spitale, sanatorii, cantine, restaurante, bufete 0,7
+6.
+Hoteluri cu grupuri sanitare în camere 0,7
+7.
+Hoteluri cu grupuri sanitare comune 1
+8.
+Cămine, băi publice, grupuri sanitare pentru sportivi, artiști, personal de serviciu, stadioane și cazărmi; grupuri sanitare publice în spații comerciale; grupuri sanitare cu utilizare frecventă 1
+9.
+Grupuri sanitare la vestiarele unităților de producție, ateliere 1,1
+Pentru dimensionarea conductelor de legătură, a coloanelor și colectoarelor se utilizează standardul SR EN 12056-2, sistem II (grad de umplere maxim 70%).
+Debitul de calcul pentru conductele de legătură nu poate fi mai mic decât cel mai mare debit specific evacuat de obiectele sanitare racordate la acea conductă de legătură.
+Debitele de calcul pentru clădirile de producție, ateliere 14.7.
+Debite de calcul pentru conductele de canalizare a apei uzate industriale, V_c,ww, se calculează cu relația:
+V_c,ww = Σf x n_i x V_s,i [l/s] (14.4) în care: ● f este coeficient de simultaneitate în funcționarea utilajelor de același tip, stabilit în funcție de procesul tehnologic; ● V_s,i - debitul specific de scurgere al unui utilaj, [l/s]; ● n_i - numărul de utilaje de același tip, i.
+DEBITE DE CALCUL PENTRU CONDUCTELE DE CANALIZARE ALE APEI METEORICE, INSTALAȚII INTERIOARE
+Debitul de calcul al apelor meteorice din instalații interioare 14.8.
+Debitul de calcul al apei meteorice din instalațiile interioare de canalizare este reprezentat de debitul de apă colectat de pe suprafețele acoperișurilor, teraselor, pereților, curților de lumini și curților engleze.
+14.9.
+Debitul de calcul al apei meteorice din instalații interioare, V_ci, se calculează cu relația:
+V_ci = 0.0001 ● i ● ΣΦ ● S_c [l/s] (14.5) în care: ● i - intensitatea ploii de calcul [l/s.ha]; ● Φ - coeficientul de scurgere a apei meteorice de pe suprafața respectivă; ● S_c - suprafața de calcul [mp], corespunzătoare coeficientului de scurgere Φ;
+14.10.
+Pentru determinarea intensității ploii de calcul, în funcție de frecvența normată a ploii și durata ei, se utilizează standardul STAS 1795, iar pentru frecvența normată a ploii de calcul se consideră standardul SR EN 752, respectiv Tabel 14.2.
+Tabel 14.2 - valori pentru frecvența normată a ploii, f (preluat și adaptat, din standardul SR EN 752)
+Amplasament
+Frecvența prevăzută pentru ploi (1 până la „n” ani)- nota *
+Probabilitatea de depășire, pe durata fiecărui an
+Zone rurale 1/1 100%
+Zone rezidențiale limitrofe zonelor urbane; 1/2 50%
+Zone urbane: • zone rezidențiale; • zone comerciale; • zone administrative, clădiri medicale (spitale etc.); • zone industriale; • alte tipuri de clădiri, amplasate în zone urbane. 1/5 20%
+Zone metrou/pasaje subterane 1/10 10%
+Nota* - Pentru această frecvență, nu trebuie să se producă punerea sub presiune a rețelei
+Pentru clădiri cu categorie de importanță A și B, se utilizează valoarea f = 1/5, indiferent de amplasament, rural sau urban.
+14.11.
+Durata ploii de calcul, t_c, se stabilește prin apreciere și se verifică prin calcul după alegerea diametrelor conductelor, cu relația: t_c = t_cs + L/v [min] (14.6) în care: ● t_c - timpul de colectare superficială a apei meteorice de pe suprafața receptoare și timpul de scurgere prin coloanele instalației interioare de canalizare meteorică, [min]; uneori, tc se notează și cu t (de exemplu, în STAS 1795, dar nu își modifică semnificația). ● L - distanța cea mai mare pe care o parcurge apa de ploaie în conductele orizontale de canalizare până la secțiunea de control, [m]; ● v - viteza de curgere a apei în conductele orizontale de canalizare, corespunzătoare debitului maxim la scurgere cu nivel liber, [m/min].
+14.12.
+Se consideră t_cs = 2 min.
+14.13.
+Viteza de curgere a apei se ia aproximativ 60....120 m/min, în funcție de materialul conductei.
+14.14.
+Coeficientul de scurgere al apei meteorice, 0, în funcție de felul învelitorii are valorile prevăzute în Tabelul 14.3.
+Tabel 14.3 Coeficientul de scurgere al apei meteorice 0 în funcție de felul învelitorii
+Felul învelitorii Ф
+Învelitori metalice, de ardezie și de sticlă 0.95
+Învelitori din țiglă 0,90
+Terase necirculabile 0,85...0,90
+Terase necirculabile cu strat de pietriș mărgăritar 0,70...0,80
+14.15.
+Suprafața de calcul, S_c se consideră proiecția pe orizontală a suprafeței receptoare, S.
+În cazul suprafețelor plane receptoare, pentru suprafețele înclinate fața de orizontală cu un unghi mai mic sau egal cu 60°.
+S_c = S ● cos α (14.7) iar pentru suprafețele înclinate fața de orizontală cu un unghi mai mare de 60°.
+S_c = b ● S (14.8) în care: ● α - unghiul diedru făcut pe suprafața receptoare cu planul orizonal; ● b - coeficientul de corecție are valorile conform datelor din Tabelul 14.4.
+Tabel 14.4 Datele de calcul pentru coeficientul b în funcție de unghiul diedru α α b 60°...70° 0,4 70°...80° 0,3 80°...90° 0,3
+DIMENSIONAREA INSTALAȚIILOR INTERIOARE DE CANALIZARE MENAJERĂ
+Dimensionarea conductelor de legătură de la obiectele sanitare 14.16.
+Debitul de calcul pentru conductele de legătură este V_max = V_tot; de cele mai multe ori, V_tot = V_c,ww atunci când se dimensionează o instalație de canalizare menajeră. Dacă este racordat un singur obiect sanitar, atunci debitul de calcul al conductei de legătură este cel aferent obiectului respectiv.
+14.17.
+Pentru diametrele, pantele normale și minime de montaj ale conductelor de legătură de la obiectele sanitare la coloanele de scurgere se utilizează standardul SR EN 12056, sistem II (cu grad de umplere maxim admis 0,70). Diametrul minim al conductei de legătură nu poate fi mai mic decât diametrul obiectelor sanitare racordate la aceasta.
+14.18.
+Dimensionarea conductelor de legătură se realizează diferit, dacă conductele de legătură sunt neventilate sau sunt prevăzute cu conducte de ventilare secundară.
+Conductele de legătură se prevăd: ● fără ventilare (neventilate); ● cu ventilare secundară; ● cu aeratoare cu membrană (clapetă de ventilație), conform standardului SR EN 12056-2 ca alternativă pentru ventilarea secundară, cu respectarea condițiilor prevăzute în capitolul 13.
+Alegerea diametrului conductelor de legătură neventilate, de la obiectele sanitare 14.19.
+Dimensiunile și condițiile privind utilizarea conductelor de legătură neventilate sunt date în tabelele din ANEXA 5.2, precum și în standardele SR EN 12056-2 și STAS 1795. Se adoptă sistem II (grad de umplere maxim admis 70% pentru conducte de legătură).
+Pentru conductele de legătură neventilate, se respectă condițiile geometrice limitative, conform Tabelului 14.5.
+Tabel 14.5 - Limitări geometrice pentru conducte de legătură neventilate, sistem II (preluat din standardul SR 12056-2 și adaptat)
+Caracteristici
+Limitări
+Lungimea conductei de legătură, cuprinsă între sifonul cu gardă hidraulică și racordul la coloană
+L ≤ 10 m
+Diferența de înălțime H între sifon și conducta de legătură, conform figurii 14.1
+H ≤ 6 m pentru 70 ≤ Dn < 100 mm
+H ≤ 3m pentru Dn ≤ 70 mm
+Panta minimă de montare - conform ANEXA 5.1
+Număr maxim de coturi (respectiv schimbări de direcție la 90°, cu excepția sifonului) 1
+Număr de obiecte sanitare conectate la conducta de legătură neventilată
+Max 3, cu excepția WC (vaselor de closet)
+Număr de obiecte sanitare conectate la conducta de legătură neventilată
+Max 2, pentru WC (vaselor de closet).
+Figura 14.1 - conductă de legătură neventilată 1- conductă de legătură de la sifonul cu gardă hidraulică până la primul cot; H - înălțimea pe care coboară conducta de legătură; 2- coloana de canalizare; 3- conductă de legătură; L- lungimea totală a conductei de legătură, porțiunea verticală și orizontală.
+Diametrele nominale ale conductelor de legătură fără ventilare precum și debitele maxime evacuate de acestea sunt prezentate în ANEXA 5.2.
+În cazurile în care conducta de legătură depășește lungimea de 10 m sau se depășește numărul maxim de obiecte sanitare racordate la aceasta precizate în Tabel 14.5, se adoptă varianta de conducte de legătură ventilate.
+Alegerea diametrului conductelor de legătură ventilate, de la obiectele sanitare 14.20.
+Dimensiunile și condițiile privind utilizarea conductelor de legătură ventilate sunt adoptate din standardul SR EN 12056-2 sistem II, completat de norme naționale STAS 1795. Tabelul coroborat este prezentat în continuare (Tabelul 14.6).
+Figura 14.2 - conductă de legătură ventilată 1- conductă de legătură de la sifonul cu gardă hidraulică până la primul cot; H- înălțimea pe care coboară conducta de legătură; 2- coloana de canalizare; 3- conducta de legătură; L- lungimea totală a conductei de legătură, porțiunea verticală și orizontală; conducta de ventilare naturală secundară sau legătura la un aerator cu membrană (clapetă de ventilație).
+Diametrele nominale ale conductelor de legătură ventilate, debitele maxime evacuate de acestea precum și diametrele corespunzătoare ale conductelor aferente de ventilare secundară sunt prezentate în ANEXA 5.3.
+Pentru conductele de legătură ventilate cu ventilare secundară, sunt precizate condiții geometrice limitative, după cum urmează în Tabelul 14.6. Conducta de ventilare secundară se racordează la conducta de ventilare primară sau se prelungește deasupra terasei/acoperișului.
+Atunci când conducta de ventilare secundară reunește mai multe conducte de ventilare similare, diametrul acesteia se determină prin calculul global al debitului de apă uzată evacuat prin conductele pentru care se realizează ventilarea Vmax (de exemplu, pentru conducta de ventilare secundară care reunește conductele de ventilare ale unor grupuri sanitare publice, pentru care se prevăd conducte de ventilare secundară la fiecare nivel). Ulterior, în funcție de valoarea obținută pentru Vmax, se realizează alegerea diametrului conductei de ventilare, utilizând standardul SR EN 12056-2 și ANEXA 5.3.
+Tabel 14.6 - Limitări geometrice pentru conducte de legătură ventilate (cu ventilare secundară, sistem II, conform standardelor SR EN 12056-2 și STAS 1795)
+Caracteristici
+Limitări
+Lungimea conductei de legătură, cuprinsă între sifonul cu gardă hidraulică și coloană fără limită
+Înălțimea H între sifon și conducta de legătură
+H ≤ 3 m
+Panta minimă de montare - conform ANEXA 5.1
+Număr maxim de coturi (respectiv schimbări de direcție la 90°) fără limită
+Număr minim de obiecte sanitare conectate la conducta de legătură ventilată
+Min 4, cu excepția WC (vaselor de closet)
+Număr de obiecte sanitare conectate la conducta de legătură ventilată
+Min 3, pentru WC (vaselor de closet).
+Aeratorul cu membrană pentru conducte de legătură ventilate (cu ventilare secundară) 14.21.
+La capătul conductei de ventilare secundară poate fi montat un aerator cu membrană, în cazul în care nu poate fi asigurată legătura cu atmosfera a acestei conducte. Aeratorul cu membrană pentru ventilarea conductelor de legătură trebuie să corespundă standardului SR EN 12380, și se aleg conform SR EN 12056-2, pentru sistemul II; se respectă limitările indicate pentru acest tip de echipament, expuse în capitolul 13.
+În cazul sistemelor II definite de standardul SR EN 12056-2, debitul de aer pentru aeratoarele cu membrană montate pe conductele de legătură este:
+V_a = 2 x V_tot, [l/s] (14.9) în care:
+V_a - este debitul minim de aer printr-o conductă de ventilare sau printr-un aerator cu membrană (echivalent ca denumire cu clapetă de ventilare), măsurat la o diferență de 250 Pa, în [l/s]; cu Va se poate alege aeratorul cu membrană; valoarea V_a este indicată în fișa tehnică a acestuia.
+V_tot - debitul total de calcul pentru conductă; în mod obișnuit, V_tot = V_c,ww determinat la baza coloanei.
+Dimensionarea coloanelor de canalizare menajeră 14.22.
+Diametrele coloanelor se determină din condiții constructive și hidraulice.
+14.23.
+Condiția constructivă permite alegerea preliminară a diametrului coloanei care trebuie să fie cel puțin egal cu cel mai mare dintre diametrele conductelor de legătură la obiectele sanitare, puncte de consum sau grupuri de obiecte sanitare.
+14.24.
+Condiția hidraulică este ca debitul de calcul al coloanei să fie mai mic, cel mult egal cu debitul maxim (capacitatea maximă de evacuare a coloanei) pentru sistemul II, indicat în ANEXELE 5.4 (fără ventilare auxiliară) și 5.5 (cu ventilare auxiliară), în funcție de sistemul de ventilare adoptat pentru coloane. Dacă această condiție nu este îndeplinită, diametrul preliminar al coloanei se alege mai mare astfel încât condiția hidraulică să fie îndeplinită.
+14.25.
+Coloanele de canalizare menajeră se prevăd cu: ● conducte de ventilare naturală primară; ● conducte de ventilare naturală primară și racorduri de la ventilarea secundară; ● conducte de ventilare naturală primară, și cu racorduri de la ventilarea secundară și/sau cea auxiliară; ● pot fi utilizate aeratoare cu membrană (clapetă de ventilație), conform SR EN 12056-2 ca alternativă sau în completarea ventilării naturale a coloanei, cu limitările indicate în capitolul 13.
+Ventilarea primară se obține prin prelungirea coloanei de canalizare peste nivelul terasei, cu capăt de coloană liber în atmosferă.
+Ventilarea secundară se obține prin prelungirea conductelor de canalizare de legătură, având capăt liber.
+Ventilarea auxiliară se obține prin dublarea coloanei de canalizare principală cu o coloană secundară cu rol în ventilare, în configurațiile prevăzute de standardul SR EN 12056, din anexa ANEXA 5.9. Ventilarea auxiliară se racordează la coloana principală de canalizare.
+Pentru instalațiile interioare de canalizare menajeră, se vor respecta configurațiile prevăzute de SR EN 12056 și ANEXA 5.9.
+Dimensionarea coloanelor de canalizare menajera, cu ventilare primară 14.26.
+Diametrul coloanelor de canalizare menajeră prevăzute cu ventilare naturală primară se dimensionează utilizând tabelul din ANEXA 5.4. Atunci când conducta de ventilare primară reunește mai multe conducte de ventilare similare (dar nu mai mult de 3 conducte de ventilare primară), diametrul acesteia se determină prin calculul global al debitului de apă uzată evacuat prin conductele pentru care se realizează ventilarea comună, V_max. Ulterior, în funcție de valoarea obținută pentru V_max, se realizează alegerea diametrului conductei de ventilare primară comune, utilizând SR EN 12056-2 și ANEXA 5.4.
+Dimensionarea coloanelor de canalizare menajeră cu ventilare primară, însoțite și de conducte de ventilare auxiliară, în paralel cu coloana de canalizare 14.27.
+Diametrul coloanelor de canalizare menajeră prevăzute cu ventilare auxiliară se dimensionează considerând valorile din ANEXA 5.5.
+Pentru coloanele la care sunt racordate vase de closet Dn 90 mm (suspendate) sau Dn 100 mm, diametrul minim al coloanei este Dn 100 mm.
+14.28.
+În cazul coloanelor de canalizare menajeră cu lungimi mari (peste 28 m) prevăzute cu ventilare auxiliară sau cu număr mare de schimbări de direcție, se dimensionează considerând valori mărite pentru ventilarea auxiliară, prezentate în ANEXA 5.6. Pentru coloane cu înălțimi peste 28 m, ventilarea auxiliară este obligatorie.
+Aeratorul cu membrană pentru coloanele de canalizare menajeră 14.29.
+La capătul coloanei de canalizare principală poate fi montat un aerator cu membrană, în cazul în care nu poate fi asigurată legătura cu atmosfera a acestei conducte. Aeratorul cu membrană pentru ventilarea coloanelor de canalizare menajeră trebuie să corespundă standardului SR EN 12380, și se dimensionează cu debitul de aer necesar pentru alegerea aeratoarelor cu membrană, V_a ≥ 8 x V_tot, [l/s]; introducerea aeratoarelor va respecta limitările indicate în secțiunea anterioară, în capitolul 13.
+Dimensionarea colectoarelor orizontale de canalizare a apelor uzate 14.30.
+Pentru determinarea diametrului și pantei colectoarelor orizontale, pot fi adoptate două metode: ● Metoda de calcul conform standardului STAS 1795; ● Metoda de calcul conform standardului SR EN 12056-2, sistem II.
+Metoda de calcul conform standardului STAS 1795 14.31.
+Într-o primă fază, se determină debitul de calcul pentru ape uzate menajere V_tot (de regulă, egal cu V_c,ww) în funcție de tronsoanele racordate la acesta (respectiv în funcție de numărul și tipul obiectelor sanitare racordate la acesta), utilizând formulele de calcul corespunzătoare instalației (14.1-14.4). Ulterior, se aplică metodologia expusă în STAS 1795, după cum urmează în articolele următoare.
+14.32.
+Diametrele conductelor orizontale (colectoare) de canalizare a apelor uzate se dimensionează din condițiile constructive și hidraulice prevăzute în STAS 1795.
+14.33.
+Condițiile constructive permit alegerea preliminară a diametrelor conductelor colectoare și anume, aceste diametre trebuie să fie cel puțin egale cu cel mai mare dintre diametrele conductelor de legătură de la obiectele sanitare la și respectiv, cu diametrul coloanei racordate la conducta orizontală de canalizare care se dimensionează.
+14.34.
+Condiția hidraulică constă în verificarea vitezei reale, v_r, [m/s], de curgere a apei cu nivel liber prin conducta orizontală de diametru ales, care trebuie să fie mai mare sau cel puțin egală cu viteza minimă, v_min, de autocurățire a conductei și mai mică sau cel mult egală cu viteza maximă admisă, v_max: v_min ≤ v_r ≤ v_max (14.10)
+14.35.
+Viteza minimă admisă a apei (vmin, viteza minimă de autocurățire) în conducte orizontale de canalizare este de 0,7 m/s pentru conducte închise și 0,5 m/s pentru canale deschise și rigole.
+14.36.
+Viteza maximă admisă a apei în conducte orizontale de canalizare v_max este de 4 m/s pentru conducte metalice, din PVC sau plastic similar, ceramice și din beton armat, și de 3 m/s pentru conducte din beton simplu. Viteza maximă poate să varieze în funcție de natura materialului conductei.
+14.37.
+Calculul hidraulic de verificare al vitezei reale, v_r, se efectuează cunoscând debitul de calcul, V_tot (V_c,ww), gradul de umplere, u, și panta de montaj, i, a conductei.
+Gradul de umplere, u, este raportul dintre înălțimea nivelului apei din conductă și diametrul interior al conductei.
+Gradul de umplere maxim admis, în funcție de diametrul conductei orizontale de canalizare și de natura apei uzate, este indicat în Tabelul 14.7.
+Tabel 14.7 Gradul de umplere maxim admis în funcție de diametrul conductei de canalizare și de natura apei uzate
+Natura apei uzate
+Diametrul nominal al conductei, Dn [mm] ≤ 100 125 150- 300 ˃ 300
+Apă uzată menajeră și industrială, cu suspensii mai mari de 5 mm (sisteme care trebuie să rămână în sistem gravitațional) 0,70 0,70 0,70 0,70
+Apă meteorică și apă uzată industrială convențional curată (sisteme care intră, ocazional, în funcționare sub presiune) 1,00 1,00 1,00 1,00
+Apă uzată industrială, cu suspensii mai mici de 5 mm (sisteme care trebuie să rămână în sistem gravitațional) 0,70 0,70 0,80 0,80
+14.38.
+La conductele care transportă apă meteorică se adoptă scurgerea sub presiune (curgerea poate intra în regim de curgere sub presiune) iar la conductele de apă industrială convențional curată se admite scurgerea sub presiune numai când această soluție nu conduce la pericolul de refulare al apei în anumite puncte de scurgere. În cazul în care sunt necesare săpături adânci pentru pozarea conductelor de canalizare meteorică, pentru evitarea lor se admite curgerea sub presiune. Se recomandă și considerarea aplicării sistemelor de canalizare vacuumatică.
+14.39.
+Pantele de montaj, i, ale conductelor sunt necesare pentru asigurarea regimului de curgere cu nivel liber. Pentru realizarea vitezelor minime de autocurățire este necesară montarea conductelor de canalizare cu o pantă minimă, iar din motive de siguranță în funcționare, se recomandă prevederea, ori de câte ori este posibil, a unor pante mai mari decât pantele minime, numite pante normale, la care se realizează viteze de curgere mai mari decât vitezele minime de autocurățire și mai mici decât vitezele maxime admise.
+14.40.
+Pantele normale și minime de montaj pentru colectoare amplasate în clădiri, în funcție de natura apei și diametrul conductei, sunt indicate în Tabel 14.8. Pentru condens, se alege pentru colectoare o pantă minimă de 0,5% (i = 0,005).
+Tabel 14.8 Pantele normale și minime ale conductelor colectoare de canalizare amplasate în clădiri în funcție de diametrul conductei și de natura apei uzate
+Dn [mm]
+Apa uzată menajeră
+Apa uzată industrială
+Apa meteorică
+Cu suspensii peste 5 [mm]
+Cu suspensii până la 5 [mm]
+Convențional curată (cu excepția condensului) pante pante pante pante pante normale minime normale minime normale minime normale minime normale minime 32 0,0350 0,0250
+-
+-
+-
+- 0,0250
+-
+- 40 0,0350 0,0250
+-
+-
+-
+- 0,0250
+-
+- 50 0,0350 0,0250 0,0600 0,0500 0,035 0,0300 0,0250 0,0200 0,0250 0,0200 70 0,0250 0,0150 0,0500 0,0400 0,025 0,0200 0,0200 0,0150 0,0250 0,0200 100 0,0200 0,0150 0,0400 0,0300 0,015 0,0120 0,0100 0,0080 0,0200 0,0150 125 0,0150 0,0100 0,0300 0,0200 0,0120 0,0100 0,0080 0,0060 0,0100 0,0080 150 0,0100 0,0080 0,0200 0,0150 0,0080 0,0070 0,0060 0,0055 0,0070 0,0060 200 0,0080 0,0070 0,0100 0,0080 0,0070 0,0060 0,0055 0,0050 0,0060 0,0050 250 0,0070 0,0065 0,0090 0,0070 0,0065 0,0055 0,0050 0,0045 0,0055 0,0045
+14.41.
+Debitele de curgere la secțiune plină prin conductele colectoare de canalizare, depind de diametrul conductei, panta conductei și de materialul din care sunt realizate conductele. Se utilizează valorile debitelor și vitezelor la secțiune plină calculate conform standardului SR EN 12056 (ANEXA 5.7, respectiv formula Colebrook White, cu considerarea unei rugozități de 1 mm) sau se pot utiliza valorile furnizate de furnizorul conductelor de canalizare. Se menționează că tabelul cu valori pentru debite și viteze la secțiune plină prezent în standardul STAS 1795 sunt determinate cu o valoare de 0,07 mm pentru rugozitate, utilizând fomula lui Gorbaciev, rugozitate considerată insuficientă de către SR EN 12056, pentru calculul canalizării menajere. Cu toate acestea, pot fi utilizate valorile pentru debitele și vitezele la secțiune plină din standardul STAS 1795, pentru analiza clădirilor existente, la care intervenția asupra colectoarelor este locală. Pentru investițiile noi, se utilizează standardul SR EN 12056, sistem II și rugozitate 1 mm.
+14.42.
+Pentru diferite grade de umplere, debitul de curgere al apei prin conducte V_tot, față de debitul apei la secțiune plină V_sp se determină în funcție de valoarea x dată de relația: x = V_tot/V_sp.
+14.43.
+Pentru diferite grade de umplere, viteza medie de curgere a apei prin conducte v_r, față de viteza apei la secțiune plină v_sp, se determină în funcție de valoarea z dată de relația: z = v_r/v_sp.
+14.44.
+Se determină valorile x și z în funcție de gradul de umplere al conductelor colectoare de canalizare din ANEXA 5.8.
+Metoda de calcul conform standardului SR EN 12056-2, sistem II 14.45.
+Într-o primă fază, se determină debitul de calcul pentru ape uzate menajere, pentru colectorul studiat V_tot (de regulă, egal cu V_c,ww) în funcție de tronsoanele racordate la acesta (se aplică formulele 14.1 - 14.4, după caz).
+14.46.
+Diametrele conductelor orizontale (colectoare) de canalizare ale apelor uzate se dimensionează din condiții constructive și hidraulice.
+14.47.
+Condițiile constructive permit alegerea preliminară a diametrelor conductelor colectoare și anume: aceste diametre trebuie să fie cel puțin egale cu cel mai mare dintre diametrele conductelor de legătură de la obiectele sanitare sau cu diametrul coloanei racordate la conducta orizontală de canalizare care se dimensionează.
+14.48.
+Se alege o pantă de montare pentru colector, în intervalul de valori cuprinse între pantele normale și minime de montaj, în funcție de natura apei și diametrul conductei, indicate în Tabel 14.8. Panta trebuie să nu coboare sub valoarea minimă astfel indicată.
+14.49.
+Condiția hidraulică constă în compararea debitului obținut prin calcul, cu valorile prezentate în tabelul B2 din SR EN 12056-2 respectiv Tabelul A.5.7.2 din ANEXA 5.7, pentru grad de umplere maxim admis 0,70 (sistemul II). Ulterior, se aplică metodologia expusă în standardul SR EN 12056-2, sistem II, după cum urmează în articolele următoare.
+14.50.
+Urmează etapa de verificare a vitezei reale, v_r [m/s], de curgere a apei cu nivel liber prin conducta orizontală de diametru ales, care trebuie să fie mai mare sau cel puțin egală cu viteza minimă, v_min, de autocurățire a conductei și mai mică sau cel mult egală cu viteza maximă admisă, v_max, respectiv v_min ≤ v_r ≤ v_max.
+Conductele de ventilare ale rețelei de canalizare 14.51.
+Coloana de ventilare principală trebuie să aibă diametrul egal cu al coloanei, conform SR EN 12056-2. Pot fi reunite maxim 3 coloane de ventilare principală (ANEXA 5.4); în cazul în care se reunesc coloane de ventilare primară, diametrul coloanei de ventilare primară trebuie apreciat prin calcul, prin evaluarea debitului de ape uzate evacuat de coloanele de canalizare reunite (2 sau 3), și utilizarea din nou a tabelului din ANEXA 5.4, în vederea alegerii diametrului coloanei de ventilare reunite.
+14.52.
+Diametrul conductei de ventilare secundară a conductelor orizontale de scurgere se determină conform SR EN 12056-2, sistem II (pentru conducte de legătura - ANEXA 5.3).
+14.53.
+Coloana auxiliară de ventilare trebuie să aibă diametrul determinat conform SR EN 12056-2, sistem II (conform ANEXA 5.5).
+14.54.
+Pentru asigurarea ventilării, se pot utiliza piese speciale de conexiune cu ventilare inclusă (piese de ramificații de ventilație); aceste piese pot fi utilizate în mod special pentru clădirile înalte, foarte înalte, cu mai mult de 20 niveluri. Pot fi utilizate și pentru clădiri cu regim de înălțime mai mic.
+Dimensionarea stațiilor de pompare ape uzate în interiorul clădirilor 14.55.
+Stațiile de pompare ape uzate se dimensionează conform SR EN 12056-4, determinând volumul util al recipientului aferent pompelor, calculul hidraulic al conductelor, parametrii de calcul necesari alegerii pompelor. Se recomandă, ori de câte ori este posibil, amplasarea stațiilor de pompare ape uzate în afara clădirilor, în vederea asigurării unei mentenanțe mai facile.
+DIMENSIONAREA CONDUCTELOR DE CANALIZARE ALE APELOR METEORICE ÎN INSTALAȚII INTERIOARE
+Dimensionarea coloanelor de canalizare ale apei meteorice 14.56.
+Diametrul coloanei de canalizare a apei meteorice, la care se racordează un singur receptor, se alege în funcție de înălțimea coloanei, astfel încât debitul de calcul, V_c să nu depășească debitul maxim din Tabel 14.9 -.
+Tabel 14.9 - Debitul maxim de curgere prin coloane V_c, la racordarea unui singur receptor, în funcție de înălțimea și de diametrul coloanei
+Înălțimea coloanei, H, [m]
+Diametrul nominal, Dn [mm]
+Exemple de calcul: 50 75 100 125 150 200
+Vc [l/s]
+Pentru Vc = 7 l/s, H = 3 m, rezultă Dn = 100 mm. 1 2,0 3,8 7,1 11,2 16,8 33,0 3 2,5 4,7 8,4 13,0 19,2 40,9
+Pentru Vc = 7 l/s, H = 16 m, rezultă Dn = 75 mm 6 3,0 5,6 9,7 15,1 22,5 46,2 12 3,9 6,8 11,5 17,5 26,7 54,2 16 4,3 7,5 12,3 18,9 28,4 58,2 24 5,0 8,5 14,0 21,8 32,0 64,3 45 5,8 9,6 15,5 23,8 35,3 38,8
+14.57.
+Debitul coloanei de canalizare care colectează ape meteorice de la două sau mai multe receptoare, racordate la o conductă orizontală montată la partea superioară a construcției, se determină în funcție de înălțimea coloanei și de lungimea conductei orizontale, astfel încât debitul de calcul V_c să nu depășească debitul maxim din Tabelul 14.10.
+Tabelul 14.10 - Debitul maxim de curgere prin coloane V_c, la racordarea a două sau mai multor receptoare, în funcție de lungimea conductei orizontale, de diametrul coloanei și pentru înălțimea coloanei de: 6, 12 și 24 m
+Diametrul nominal, Dn [mm] 50 75 100 125 150 200
+Lungimea conductei orizontale [m]
+Înălțimea coloanei H = 6 m
+Vc 6 4,0 7,2 12,0 17,0 25,5 52,0 12 4,4 7,8 12,5 18,0 27,0 54,5 18 4,7 8,4 13,0 19,0 28,0 57,0 30 5,3 9,6 14,5 21,5 31,0 62,0
+Lungimea conductei orizontale [m]
+Înălțimea coloanei H = 12 m
+Vc 6 5,0 7,5 14,5 22,0 32,0 64,0 12 5,5 8,0 15,0 23,5 33,5 67,0 18 6,0 9,0 16,0 24,5 35,0 70,0 30 7,0 10,0 18,0 27,0 37,0 76,0
+Lungimea conductei orizontale [m]
+Înălțimea coloanei H = 24 m
+Vc 6 5,8 9,5 15,5 25,0 36,0 79,0 12 6,3 10,3 17,3 27,0 40,0 82,0 18 6,8 11,5 18,5 29,0 42,5 86,0 30 7,8 12,0 20,5 32,0 47,0 95,0
+14.58.
+Pentru valori ale înălțimilor coloanelor sau ale lungimilor conductelor orizontale montate la partea superioară a clădirilor, la care se racordează receptoare de ape meteorice, altele decât cele din Tabel 14.9 - și Tabelul 14.10, debitele maxime se stabilesc prin interpolare.
+14.59.
+Diametrele tronsoanelor succesive care alcătuiesc conducta orizontală la partea superioară a construcției, pentru racordarea receptoarelor de ape meteorice la coloane, se determină în funcție de înălțimea coloanei și de lungimea conductei orizontale măsurate de la cel mai depărtat receptor fața de coloană până la tronsonul de conductă care se dimensionează, astfel încât debitul de calcul V_c pe tronsonul respectiv să nu depășească debitul maxim din Tabelul 14.10.
+14.60.
+Diametrul coloanei se ia cel puțin egal cu diametrul cel mai mare al conductei orizontale montată la partea superioară a clădirii, la care sunt racordate receptoarele de ape meteorice.
+14.61.
+Coloanele care se racordează la colectoare orizontale trebuie să aibă diametrul minim de 100 mm, debitul de calcul fiind apropiat de debitul maxim din tabelele 14.9 și 14.10.
+Dimensionarea conductelor orizontale (colectoare) de ape meteorice 14.62.
+Conductele orizontale colectoare de ape meteorice, montate la partea inferioară, la care sunt racordate coloanele de canalizare, se dimensionează după aceeași metodologie și cu aceleași relații generale de calcul ca și conductele orizontale colectoare de ape uzate menajere, cu precizarea că se consideră valorile pantelor normale și minime de montaj din ANEXA 5.7 și se poate admite gradul de umplere de maxim u = 1,00.
+DIMENSIONAREA REȚELELOR EXTERIOARE DE CANALIZARE ÎN INCINTE
+Condiții de calcul pentru sisteme de preluare ale apei meteorice în incinte 14.63.
+În incintă, apele meteorice pot fi preluate de guri de scurgere, de rigole sau similar. Amplasarea rigolelor se realizează la minim 0,5 m de clădire, conform standardului SR EN 752. Alegerea acestor echipamente se realizează în funcție de debitele pe care le pot prelua acestea, conform fișelor tehnice corespunzătoare acestora; pentru determinarea debitelor colectate de pe suprafețele exterioare ale incintei se utilizează SR 1846-2.
+Condiții de calcul pentru colectoare 14.64.
+Pentru dimensionarea rețelelor exterioare de canalizare menajeră, se determină debitul de calcul ca fiind valoarea maximă între valoarea debitului stabilit cu actualul normativ (conform SR EN 12056, sistem II) și valoarea volumului maxim orar de apă uzată (calculat cu un coeficient de variație orară egal cu valori cuprinse în intervalul 3-5, conform SR EN 805; pentru clădiri de locuit se consideră valoarea 5, pentru clădiri cu program de desfășurare a activității sub 12 ore, se consideră valoarea 3).
+14.65.
+Pentru rețelele exterioare de canalizare meteorică, se stabilește debitul de calcul conform SR 1846-2, considerând frecvența ploii de calcul din Tabelul 14.2 (preluat din SR EN 752).
+14.66.
+Pentru rețele de canalizare în sistem unitar, debitul de calcul se realizează prin însumarea debitelor deversate.
+14.67.
+Dimensionarea colectoarelor de canalizare exterioară se realizează conform normativului NP 133, capitolul 3.4.3, utilizând conducte circulare. Prin excepție de la normativul NP133, condițiile care trebuie îndeplinite de colectoarele de canalizare de incintă diferite față de cele din normativul NP 133 sunt prezentate în continuare.
+Panta longitudinală a colectorului ● panta minimă constructivă nu poate fi mai mică decât valoarea 1/(Dn/2,5), conform SR EN 16933-2, pentru tronsoane care evacuează debite reduse; pentru debite mai mari, se acceptă panta minim 1/Dn; (de exemplu, pentru debite mici și diametrul Dn 160 mm, panta recomandată este 1/(Dn/2,5), respectiv 1/(160/2,5) = 0,015) ● panta minimă se adoptă astfel încât să se asigure viteza minimă de autocurățire; ● de exemplu, pentru diametru Dn 250 mm, panta minimă de montare a colectorului este 1/Dn = 1/250 = 0,004. ● panta maximă care realizează viteza maximă admisă a apei în colector se va stabili pentru fiecare diametru Dn în parte și tip de material.
+Gradul de umplere maxim admisibil.
+Pentru rețele exterioare de canalizare, gradul de umplere maxim admisibil se consideră conform capitolului 14, Tabel 14.7.
+Diametrul minim 14.68.
+Diametrul minim al rețelelor exterioare de canalizare în incintă este: ● Pentru clădiri de locuit, canalizare menajeră, minim Dn (De) 160 mm, pentru incinte în care se regăsesc maxim 2 corpuri de clădire P sau P+1; ● Pentru restul tipurilor de clădiri, canalizare menajeră, minim Dn 200 mm; ● Pentru canalizare pluvială, diametrul minim este Dn 250 mm; ● Valorile minime pentru diametru se adoptă în cazul în care, din calcul, rezultă diametre mai mici decât valorile menționate în acest articol; diametrul colectoarelor se verifică obligatoriu prin calcul, cu verificarea condițiilor hidraulice aferente colectoarelor.
+14.69.
+Pentru rețelele exterioare de canalizare în sistem unitar, se face verificarea pantei minime și a vitezei minime de autocurățire în cazul evacuării prin rețele a apei uzate, în lipsa apelor meteorice.
+14.70.
+Diametrul colectorului din rețele exterioare în sistem unitar se va alege la debitul maxim de calcul, determinat prin suma debitelor apelor uzate evacuate, inclusiv pentru cele provenite din ape meteorice.
+Debite și viteze la secțiune plină 14.71.
+Stabilirea debitelor și vitezelor la secțiune plină precum și a coeficienților u (grad de umplere), x și z se poate realiza cu diagrame de calcul, selectate corespunzător în raport cu materialul (rugozitatea relativă) și forma circulară a secțiunii de curgere. Pot fi utilizate valorile din ANEXA 5.7.
+Condiții de calcul pentru stații de pompare ape uzate și ape meteorice 14.72.
+Pentru stații de pompare ape uzate menajere amplasate în exteriorul clădirii, se utilizează SR EN 16932 și NP 133. Numărul de porniri-opriri pentru pompele de ape uzate se consideră în intervalul 12-20 porniri/h.
+14.73.
+Pentru stații de pompare ape meteorice amplasate în exteriorul clădirii, se utilizează un debit stabilit în funcție de condițiile de golire ale bazinului, adaptate zonei de amplasare a bazinului, în conformitate și cu avizele locale obținute. Se utilizează standardul SR EN 16932 și normativul NP 133.
+14.74.
+Nu se admite realizarea de bazine de retenție comune, ape uzate menajere și cele meteorice.
+Condiții de calcul pentru rezervoare etanșe vidanjabile, pentru incinte 14.75.
+Pentru bazine de retenție vidanjabile, pentru apa uzată menajeră, se calculează volumul util în funcție de debitul mediu zilnic de apă uzată și un număr recomandat de 15-30 zile de retenție, considerate între două operații de vidanjare. Se respectă de asemenea seria de standarde SR EN 12566-1:2016 și SR EN 12566-4:2016/SR EN 12566-3:2016, SR EN 12566-6:2016 și SR EN 12566-7:2016. Bazinele vidanjabile etanșe sau sistemele de epurare a apelor uzate vor putea fi instalate doar cu respectarea indicațiilor tehnice de montare și utilizare stabilite de producătorul/furnizorul instalației.
+Condiții de calcul pentru bazine de retenție ape meteorice, pentru incinte 14.76.
+Pentru bazine de retenție amplasate în zone urbane cu canalizare publică, în vederea preluării valorilor maxime de apă meteorică cumulată, se utilizează metoda din SR 1846-2, anexa B, respectiv B.1.1 (bazin de retenție pentru ape poluate).
+14.77.
+Pentru bazine de retenție amplasate în zone urbane sau în zone fără canalizare publică, pentru evitarea punerii sub presiune a rețelei de canalizare, pentru evitarea inundării străzilor sau pentru controlul debitului evacuat în mediul receptor, se utilizează metoda din SR 18462, anexa B, respectiv B.1.4, prin aplicarea formulelor B.3, B.4 și B.5. Pentru calculul bazinelor de retenție, valoarea pentru Qmax (debitul maxim al ploii de calcul) se determină considerând coeficientul de reducere al ploii m = 1; pentru tp se consideră o valoare în intervalul (2 x tc) ÷ (4 x tc), unde tc este durata ploii de calcul, determinată conform SR 1846-2; pentru raportul adimensional dintre durata ramurii descendente și durata ramurii ascendente a hidrografului debitului în secțiunea de calcul, se adoptă valoarea α = 2,5 - 4,5; pentru durata totală a hidrografului de debit, Tt, în minute, se recomandă o valoare peste 60 min.
+De asemenea, qmax utilizat în SR 1846-2 este debitul pompat din rezervor pe durata acumulării apei în bazin, pe durata precipitațiilor; valoarea qmax, respectiv valoarea debitului maxim admis a fi descărcat pe durata ploii în rețeaua de canalizare din aval sau emisar sau canale irigații (sau similar) este stabilită prin avizul/acordul prealabil emis de operatorul sistemului de canalizare sau instituțiile abilitate; în lipsa unor valori certe indicate prin acord, se va considera în calcul că pomparea se realizează după terminarea ploii, așadar se consideră qmax = 0 [l/s].
+14.78.
+Valoarea minimă a volumului bazinului de retenție nu poate fi mai mică decât valoarea determinată cu relația
+V_BRmin = 1.25 x (Q24 - qmax)x 24 h în care ● Q24, în l/s, reprezintă debitul de ape meteorice, care se determină în funcție de i24; se utilizează metodologia din SR 1846-2, în care se consideră m = 1. ● i24 reprezintă intensitatea ploii de calcul, considerată pentru o durată a ploii de calcul, tc, egală cu 24 ore, respectiv 1440 min (conform SR 1846-2) și frecvența ploii de calcul asociată clădirii și incintei; valoarea intensității ploii de calcul este preluată din STAS 9470, corespunzător zonei pluviometrice aferentă locației investiției. ● Coeficientul 1,25 corectează valorile intensității ploii de calcul preluate din STAS 9470 (ediția 1973); în cazul refacerii acestui standard, se va renunța la acest coeficient de corecție, adoptându-se valoarea 1. ● qmax este descris mai sus.
+14.79.
+În documentațiile tehnice elaborate, se va adopta formula de calcul potrivită, conform situației incintei/clădirii respective, aplicând metodele descrise anterior. Ulterior, se va verifica condiția respectării valorii minime de la art 14.78.
+14.80.
+Pot fi utilizate și soluții de bazine de retenție cu infiltrare, dacă natura solului și nivelul apelor freatice permit acest lucru. De asemenea, sunt necesare avizele instituțiilor abilitate. Distanța minimă de amplasare față de clădiri (noi sau existente - de exemplu cele din incintele vecine) se stabilește în funcție de natura solului, măsurată între fundația clădirii și latura rezervorului, și nu poate fi mai mică decât următoarea valoare: maximum între 10 m și o distanță egală cu produsul 1,5 x înălțimea fundației clădirii.
+14.81.
+Întotdeauna, apa evacuată în mediul receptor trebuie să respecte condițiile legislației de profil, respectiv normativul NTPA 001.
+Condiții de calcul pentru separatoare de hidrocarburi ape meteorice 14.82.
+Pentru separatoare de hidrocarburi cu deversare în canalizarea publică, apele epurate trebuie să corespundă normativului NTPA 002; pentru alegere se utilizează standardul SR EN 858-2.
+14.83.
+Pentru separatoare de hidrocarburi cu deversare în mediul natural, apele epurate trebuie să corespundă normativului NTPA 001; pentru alegere se utilizează SR EN 858-2.
+14.84.
+Când există un sistem de preluare al apelor meteorice într-o incintă, se definește un sistem cu componente care asigură preluarea apei de pe toată suprafața incintei, elementele componente fiind dimensionate în consecință; apele meteorice din incintă nu pot fi dirijate, din pantele de pe platformă, către suprafețele învecinate care nu fac parte din incinta.
+Condiții de calcul pentru stații de epurare montate în incintă 14.85.
+Se vor utiliza standardul SR 1846-1 și normativul NP 133.
+15.
+CONDIȚII DE AMPLASARE ȘI MONTARE A INSTALAȚIILOR
+REȚELE DE DISTRIBUȚIE ALE APEI ȘI DE CANALIZARE ÎN INCINTE
+Prevederi generale 15.1.
+Amplasarea rețelelor exterioare de apă și de canalizare se face, în limita posibilităților, în afara zonei carosabile, de preferință în spațiile verzi, pentru a putea fi supuse cât mai puțin sarcinilor provenite din circulația vehiculelor și pentru a facilita accesul pentru intervenții.
+15.2.
+Pozarea conductelor în galerii subterane se face pe baza unor justificări tehnico- economice și în cazul unor situații dificile (subtraversări de drumuri, căi ferate, ape subterane etc.).
+15.3.
+Se montează, acolo unde este posibil, conductele de apă caldă și de recirculare comune cu cele de încălzire centrală, iar conductele de apă rece în exteriorul canalelor, alături de acestea, direct în pământ.
+15.4.
+Se recomandă montarea conductelor preizolate de apă caldă direct în pământ, în acest caz este indicat ca rețeaua de apă caldă să fie dotată cu un sistem de sesizare ale eventualelor defecțiuni.
+15.5.
+La înlocuirea conductelor de apă caldă montate în canale de protecție se pot utiliza conducte preizolate.
+Configurația și traseele rețelelor 15.6.
+Traseele rețelelor se aleg astfel încât să respecte cât mai mult posibil, următoarele condiții: ● să treacă cât mai aproape de consumatori, pe partea cu cele mai multe puncte de consum; ● să rezulte un număr cât mai redus de intersecții cu drumuri, căi ferate, canale etc.
+15.7.
+La stabilirea traseelor se ține seama de rețelele existente și de cele prevăzute a se realiza în perspectivă.
+15.8.
+Intersecțiile rețelelor cu artere de circulație, căi ferate, canale etc. sunt, de regulă, perpendiculare.
+Soluțiile tehnice privind intersecțiile de căi ferate cu rețele de alimentare cu apă și de canalizare, se stabilesc ținând seama de reglementările specifice cu privire la subtraversări de căi ferate și drumuri, cu conducte.
+15.9.
+Pe porțiunile paralele cu căile ferate, rețelele se prevăd în afara zonei de protecție a acestora.
+15.10.
+La stabilirea traseelor rețelelor de apă potabilă se iau măsuri de evitare a contaminării apei de către orice sursă de poluare.
+Distanțe, adâncimi și înălțimi de montare 15.11.
+La amplasarea în plan și pe verticală a conductelor exterioare de apă și de canalizare se respectă distanțele prescrise față de alte clădiri, noi sau existente, conducte subterane sau cabluri electrice și subterane, potrivit legislației specifice (normativ NP 133 și SR 8591). Același lucru este valabil și pentru amplasarea construcțiilor subterane, respectiv cămine, bazine, rezervoare sau similar, cu rol în alimentarea cu apă sau canalizare, respectându-se prevederile actualului normativ NP 133 și SR 8591.
+Montarea conductelor în pământ 15.12.
+În toate terenurile, cu excepția celor stâncoase, sensibile la umezire sau de umplutură, conductele montate direct în pământ se pozează direct pe fundul nivelat și compact al tranșei, fără fundație artificială. În terenurile stâncoase conductele se montează în tranșee pe un pat de nisip.
+15.13.
+Pentru rețelele de conducte care se amplasează în terenuri sensibile la umezire se iau măsurile corespunzătoare amplasării conductelor în aceste terenuri.
+15.14.
+În cazul amplasării în terenuri instabile sau agresive se iau măsuri speciale de protecție (izolații, consolidări etc.).
+15.15.
+Montarea conductelor de apă direct în pământ se face sub limita de îngheț, măsurată de la generatoarea superioară a conductei până la suprafața terenului amenajat. Dacă pozarea în aceste condiții nu este posibilă, se iau măsuri speciale pentru evitarea pericolului de îngheț.
+Montarea conductelor în canale subterane 15.16.
+Pentru montarea conductelor de apă și de canalizare în canale de protecție se folosesc, de regulă, canale de tip vizitabile, prevăzute cu cămine de control cu bașe pentru colectarea apei provenită de la conducte defecte, prin infiltrații sau neetanșeități.
+15.17.
+Căminele se amplasează la 50 m distanță între ele, la schimbări de direcție și în punctele de ramificații.
+15.18.
+Este admisă prevederea de canale circulabile sau semicirculabile, în care se includ și alte rețele, când aceasta se impune ca urmare a lipsei de spațiu sau când montarea în canal comun a mai multor rețele este mai avantajoasă din punct de vedere economic, decât montarea separată, cu condiția respectării prevederilor din normativele de specialitate, specifice rețelelor montate în canal comun. Amplasarea rețelelor de apă pentru incendii în canale tehnice se face cu respectarea condițiilor din P118/2.
+15.19.
+Se evită montarea conductelor de alimentare cu apă rece în canalele în care se montează și conducte de apă caldă. Când traseele conductelor de apă rece și caldă sunt comune și se impune montarea conductelor de apă rece în canale, se adoptă, fie soluția de separare a canalului termic în două compartimente, fie prevederea termoizolării, la conductele de apă rece.
+15.20.
+În canalele necirculabile ale rețelelor de apă și canalizare este permis a se poza conducte ce transportă fluide neutre și necombustibile (de exemplu rețele termice etc.).
+15.21.
+Se evită traversarea canalelor cu conducte de gaze naturale, combustibili lichizi, canalizare sau cabluri electrice. În cazuri obligate, se iau măsuri de protecție corespunzătoare (tuburi de protecție, izolări etc.), în condițiile prescrise în normativele de specialitate în vigoare.
+15.22.
+La stabilirea dimensiunilor canalelor necirculabile se respectă următoarele distanțe minime: ● între suprafața interioară a peretelui canalului și generatoarea laterală a termoizolației finite a conductei celei mai apropiate: 80 mm; ● între termoizolațiile finite a două conducte apropiate: 100 mm; ● între fața interioară a planșeului (plăcii de acoperire) și generatoarea superioară a termiozolației finite a conductei, în punctul cel mai de sus al acesteia: 50 mm; ● între radierul canalului și generatoarea inferioară a termoizolației finite a conductei, în punctul cel mai de jos al acesteia: 100 mm.
+15.23.
+Spațiile de circulație din canalele circulabile și semicirculabile au dimensiunile minime conform cu indicațiile din Tabelul 15.1.
+Tabelul 15.1
+Dimensiunile minime ale spațiului de circulație în canale
+Tipul de canal
+Dimensiunile minime [mm] orizontal vertical
+Canale circulabile 600 1800
+Canale semicirculabile 600 1400- 1600
+15.24.
+Stabilirea dimensiunilor transversale ale canalelor circulabile sau semicirculabile se face corespunzător utilizării acestora.
+15.25.
+Adâncimea minimă de la suprafața solului sau a suprastructurii drumului până la partea superioară a elementelor de acoperire a canalelor pentru pozarea conductelor este: ● 80 cm în zona carosabilă; ● 60 cm în alei pietonale, cu condiția luării măsurilor pentru evitarea înghețului.
+Pentru spațiile verzi, adâncimea se stabilește în funcție de modul de amenajare, întreținere și, eventual, circulația unor utilaje și de evitare a înghețului.
+CONDIȚII DE MONTARE
+Condiții de montare specifice rețelelor exterioare de apă rece și a accesoriilor lor 15.26.
+Conductele de apă rece se montează, de regulă, în exteriorul clădirilor, în pământ.
+15.27.
+Vanele de ramificații și sectorizare cu diametrul de 200 mm și mai mare se montează obligatoriu în cămine vizitabile.
+15.28.
+Pentru vanele prevăzute a fi montate direct în pământ se prevăd tije de manevră protejate în țeava de ghidare și cutii cu capac. În acest caz se utilizează numai vane din fontă cu mufe.
+15.29.
+Poziția vanelor se marchează prin indicatoare vizibile.
+15.30.
+În cazul hidranților exteriori fără golire automată se asigură posibilități de închidere și golire a acestora după utilizare. Armăturile de închidere și golire se amplasează în subsolurile blocurilor sau, atunci când este posibil, în cămine.
+15.31.
+Fântânile cu jet pentru băut apă se prevăd cu dispozitive de închidere și golire de apă a racordurilor respective în anotimpul friguros. Se asigură evacuarea apei de la fântâni prin intermediul unui cămin cu sifon sau gură de scurgere stradală.
+Condiții de montare specifice rețelelor exterioare de apă caldă de consum 15.32.
+Montarea conductelor de distribuție ale apei calde de consum se poate face: - în canale de protecție împreună cu conductele instalației de încălzire, însă cu termoizolație separată;
+- direct în pământ, când sunt preizolate termic și protejate cu o manta de protecție din material plastic.
+15.33.
+Conductele de recirculare ale apei calde de consum au trasee comune cu cele de distribuție ale apei calde.
+15.34.
+Pentru rețelele de apă caldă de consum montate în canale de protecție se folosesc, de regulă, canale tip vizitabil.
+INSTALAȚII INTERIOARE DE APĂ ȘI CANALIZARE
+Alcătuire și amplasare 15.35.
+Traseele instalațiilor interioare de apă și de canalizare se aleg astfel încât să se asigure lungimi minime de conducte, posibilități de autocompensare a dilatărilor. Se coordonează realizarea tuturor instalațiilor din subsolurile clădirilor, astfel încât să se asigure accesul nestingherit al personalului de întreținere și exploatare în caz de avarii și demontarea ușoară în vederea reparațiilor.
+Traseele conductelor și legăturile la echipamente (schimbătoare de căldură, pompe, recipiente etc.) se aleg astfel încât să nu împiedice demontarea armăturilor și aparatelor.
+În cazul utilizării aeratoarelor cu membrană pentru ventilarea canalizării, aeratoarele nu se montează în spații ascunse, ci în spații cu aport de aer și care să permită, obligatoriu, și exploatarea acestor echipamente/accesorii.
+15.36.
+La alegerea traseelor se evită trecerea prin: - încăperi cu medii agresive;
+- magazine, depozite de mărfuri, depozite de produse alimentare sau obiecte de valoare, degradabile etc.;
+- încăperi care, datorită conductelor, își diminuează valoarea funcțională (încăperi scunde, cămări);
+- încăperi cu substanțe care, în contact cu apa, pot produce incendii sau explozii.
+În cazul în care trecerea prin aceste încăperi nu poate fi evitată, se iau măsuri corespunzătoare (canale, tuburi de protecție, izolări, tăvi colectoare etc.).
+15.37.
+La amplasarea coloanelor se ține seama de următoarele recomandări: - se urmărește gruparea coloanelor de alimentare cu apă împreună cu cele de canalizare;
+- stabilirea numărului de coloane și poziția acestora se face astfel încât legăturile la obiectele sanitare să fie cât mai scurte;
+- poziția unghiurilor de racordare ale conductelor de canalizare să nu favorizeze înfundarea rețelei;
+- se dă prioritate amplasării coloanelor de canalizare întrucât legăturile dintre obiectele sanitare și coloane se realizează cu piese de dimensiuni mari, limitate ca tipuri constructive;
+- soluția aleasă nu trebuie să dăuneze aspectului încăperii; coloanele montate aparent sunt amplasate, de regulă, în colțurile încăperilor;
+- coloanele care, în mod accidental pot fi expuse lovirilor, se protejează cu măști.
+15.38.
+Se evită montarea instalațiilor în spații a căror temperatură scade sub 0 °C. Dacă evitarea nu este posibilă, se iau măsuri pentru evitarea înghețului, prin izolare termică împreună cu prevederea de cabluri electrice încălzitoare, în mod special pentru traseele/zonele în care prezența gheții poate afecta funcționarea continuă a instalațiilor (respectiv pentru receptoare de terasă, rigole amplasate pe terasă, coloane de canalizare amplasate în exteriorul clădirilor, porțiunile din traseele de alimentare cu apă amplasate în spații deschise etc.).
+15.39.
+Se evită retragerile de coloane de apă și canalizare la plafoanele încăperilor cu funcțiuni de vânzare în unități comerciale, depozite de alimente, birouri etc, prin amplasarea coloanelor pe lângă pereții sau stâlpii încăperilor.
+15.40.
+Se interzice trecerea conductelor prin camere frigorifice, casa liftului, coșuri și canale de fum, haznale, spații neaccesibile, coșuri de ventilare, deasupra tablourilor electrice. În cazul amplasării conductelor de apă deasupra planșeului încăperii transformatoarelor, se iau măsuri speciale de evacuare a apelor în caz de avarie.
+15.41.
+Panta minimă a conductelor de alimentare cu apă este de 1 la mie, în vederea asigurării golirii acestora. La conductele cu diametrul mai mare de 2", se admite montajul orizontal.
+15.42.
+Pe traseele comune, conductele instalațiilor se montează în plase orizontale - la pozarea pe tavan - sau verticale - la pozarea pe pereți, astfel încât să poată folosi suporturi (reazeme) comune.
+15.43.
+În cazul grupării conductelor în plase pe mai multe rânduri, se lasă spațiu suficient între rândurile de conducte, precum și între conducte și elementele de construcție pentru plecările derivațiilor, manevrarea robinetelor, precum și pentru întreținere, revizii, reparații etc.
+15.44.
+Distanța minimă între conducte paralele neizolate sau între acestea și suprafețele finite ale elementelor de construcții adiacente este de minimum 10 cm. Pentru conductele izolate termic, distanța între fețele exterioare ale izolației sau între acestea și suprafața finită a elementelor de construcții vecine este de minimum 10 cm.
+15.45.
+Distanța între flanșele armăturilor a două conducte apropiate este de cel puțin 5 cm. Armăturile se montează decalat, astfel încât distanța între flanșele armăturii și conducta apropiată sau izolația acesteia să nu fie mai mică de 5 cm.
+15.46.
+De regulă, conductele de apă se montează în același plan orizontal sau deasupra celor de canalizare.
+15.47.
+Conductele de apă rece se montează, de regulă, sub conductele de apă caldă, cu excepția conductelor de mase plastice.
+15.48.
+Poziția conductelor de apă sau canalizare față de conductele altor instalații, precum și distanțele minime față de acestea, se verifică conform cu prescripțiile în vigoare, în principal, pentru: - instalațiile electrice,
+- instalațiile de gaze.
+15.49.
+În sistemele de alimentare cu apă cu distribuție inferioară, conductele de distribuție orizontale din clădiri se amplasează în subsolul general, dacă există, sau în subsol tehnic. Pentru conductele de distribuție ale clădirilor fără subsol se prevăd canale circulabile pe întregul traseu al conductelor.
+15.50.
+În interiorul clădirilor nu se admite montarea direct în pământ, sub clădire, a conductelor de apă sub presiune. În cazul clădirilor industriale, conductele se montează în canale vizitabile. Nu se admite montarea conductelor sub presiune sub fundațiile clădirilor.
+15.51.
+În situațiile clădirilor fără subsol, pentru racordarea instalațiilor de canalizare interioare la rețelele exterioare se adoptă soluția cu montarea colectoarelor de canalizare sub clădiri cu trasee cât mai scurte (cu lungimi sub 6 m, montarea realizându-se din tronsoane cu evitarea îmbinărilor); dacă lungimile colectoarelor astfel amplasate depășesc lungimea de 6 m, este necesară introducerea de intersecții vizitabile cu piese de curățire, iar diametrul colectoarelor astfel montate se alege cu 2 trepte mai mare, panta rezultând din calculul hidraulic.
+15.52.
+La trecerea prin pereți și planșee, conductele și coloanele de apă, se montează în tuburi de protecție (manșoane). În cazul conductelor de alimentare cu apă, canalizare sau ventilare a canalizării, atunci când acestea străpung anvelopa clădirii sau un perete/planșeu care delimitează spațiu încălzit/climatizat de spațiu/neîncălzit/neclimatizat, se vor prevedea măsuri de asigurare a etanșeității la aer a acestora care să corespundă cerințelor clădirilor cu consum redus de energie (nZEB).
+Partea superioară a manșoanelor de protecție din încăperile dotate cu instalații sanitare (băi, bucătării, spălătorii), depășește nivelul pardoselii finite cu 2 - 3 cm.
+15.53.
+Se evită trecerea conductelor prin rosturile de tasare-dilatare ale construcțiilor separate prin pereți.
+În cazurile când aceasta nu se poate evita, se admite trecerea conductelor numai în subsoluri, luându-se măsuri pentru împiedicarea distrugerii conductelor ca urmare a tasărilor diferite ale construcțiilor, prevăzându-se goluri care sunt mai mari decât diametrul exterior al conductelor cu 10 - 15 cm, conductele montându-se la partea inferioară a acestora.
+15.54.
+La trecerea conductelor prin subsoluri având adăposturi de apărare civilă se respectă prevederile normelor tehnice privind proiectare și executarea adăposturilor de apărare civilă în cadrul clădirilor noi.
+15.55.
+La trecerea conductelor prin elemente de construcție rezistente la foc (pereți și planșee) se respectă prevederile reglementărilor tehnice specifice (normativ P118).
+15.56.
+La clădirile înalte și foarte înalte, precum și la clădirile cu săli aglomerate, trecerile conductelor prin elementele de construcție se execută având în vedere și prevederile din reglementările tehnice specifice ale acestora.
+15.57.
+În cazul construcțiilor amplasate în terenuri sensibile la umezire, amplasarea conductelor de apă și de canalizare se face conform reglementării tehnice pentru proiectarea și executarea construcțiilor fundate pe pământuri sensibile la umezire.
+15.58.
+Pentru cazul construcțiilor amplasate în diferite zone seismice se au în vedere și prevederile reglementărilor tehnice în vigoare privind proiectarea seismică a clădirilor.
+15.59.
+În porțiunile în care conductele traversează elemente de construcție nu se admit îmbinări ale acestora. De asemenea, nu se admite montarea în șapă a îmbinărilor conductelor sub presiune. Se vor alege trasee alternative prin șlițuri realizate prin pereți (nestructurali) sau trasee placate pe pereți structurali (sau similar, având ca efect montare neaparentă). Pentru porțiunile de trasee care trebuie amplasate în șapă se utilizează tronsoane de conductă fără îmbinări (de exemplu, conducte colac, amplasate în tuburi de protecție conform instrucțiunilor fișelor tehnice ale producătorului, care să permită mișcarea liberă a conductelor datorită dilatării și să asigure protecția mecanică a conductelor).
+15.60.
+La clădirile de locuit, în camerele de baie și bucătării, coloanele de alimentare cu apă și canalizare se maschează cu elemente de acoperire estetice, ușor demontabile pentru a se asigura condiții de igienă, precum și pentru efectuarea de revizii și reparații. Coloanele de alimentare cu apă și canalizare menajeră se montează fie în spații comune cu acces direct, fie în interiorul apartamentului deservit, cu posibilitatea de intervenție, întreținere din apartamentul respectiv. Coloanele de canalizare meteorică se corelează cu poziția receptoarelor de terasă, și se montează doar spații în care pot fi întreținute (de exemplu se asigură acces la piesele de curățire) și pot fi înlocuite, în caz de nevoie.
+15.61.
+Pentru legăturile ce urmează a rămâne aparente, se are în vedere aspectul estetic, precum și protecția față de loviri accidentale.
+Amplasarea și montarea armăturilor 15.62.
+Conductele instalațiilor interioare de apă se montează asigurându-se golirea printr-un număr minim de dispozitive și armături.
+15.63.
+Conductele de alimentare și legăturile la armăturile de serviciu ale obiectelor sanitare se prevăd cu robinete de închidere și reglaj, eventual cu dispozitiv de reglaj.
+La clădirile civile și industriale se admit robinete cu închidere și reglaj comune pentru câte un grup de obiecte sanitare.
+La fiecare coloană de apă rece și caldă se prevăd robinete de închidere și golire la baza coloanelor.
+15.64.
+Montarea armăturilor pe conductele de apă din PVC, polietilenă și polipropilenă, precum și amplasarea lor se face conform reglementărilor specifice.
+15.65.
+Poziționarea armăturilor se face în locuri accesibile astfel încât să permită manevrarea și demontarea, în vederea întreținerii și reparațiilor în condiții normale.
+15.66.
+Armăturile grele montate pe conducte se prevăd cu suporți pentru a evita încărcarea suplimentară a conductelor.
+COMPONENȚA REȚELELOR DE CANALIZARE EXTERIOARĂ 15.67.
+Rețeaua exterioară de canalizare poate să colecteze, într-o incintă, ape uzate menajere, meteorice, industriale etc.
+Apele preluate în rețeaua de canalizare de incintă pot proveni de la: ● Instalațiile interioare ale clădirilor de locuit, locuințe individuale sau înșiruite; ● Instalațiile interioare ale clădirilor cu destinație publică (școli, unități de activitate publică, complexe sportive etc.); ● Apa uzată menajeră provenită de la grupurile sanitare ale unităților industriale; ● Apa uzată menajeră sau industrială colectată direct sau provenind de la stații de pre-epurare atunci când condițiile de calitate sunt diferite de cele ale apei admise în rețeaua publică (de exemplu, spitale, clădiri de sănătate, clinici, unități industriale etc.); ● Apa din precipitații, introdusă în canalizare prin gurile de scurgere, rigole (apa din ploi, apa din topirea zăpezii, gheții); ● Apa subterană infiltrată prin defecțiunile colectoarelor sau construcțiilor anexe; ● Lista nu este limitativă.
+15.68.
+Rețeaua exterioară de canalizare în incintă poate să conțină următoarele elemente componente: -
+Colectoarele care asigură transportul apei colectate;
+-
+Construcțiile accesorii care asigură buna funcționare a rețelei, după cum urmează: ● racorduri de la instalațiile interioare de canalizare către rețeaua exterioară de incintă; ● cămine de canalizare, care pot fi cămine de intersecție, de schimbare a direcției, de rupere de pantă, de aliniament (căminele se amplasează la 50 m distanță între ele, la schimbări de direcție și în punctele de ramificații), de prelevare de probe pentru controlul calității apei etc.; ● sisteme de preluare ape meteorice de pe platforma incintei, respectiv guri de scurgere, rigole etc.; ● separatoare montate în vederea respectării normativului NTPA 002 (separatoare de grăsimi, de hidrocarburi, nisip, nămol etc.) pentru deversare în rețele exterioare de canalizare; ● separatoare montate în vederea respectării normativului NTPA 001 (separatoare de grăsimi, de hidrocarburi, nisip, nămol etc.) pentru deversare în mediul natural, conform condițiilor specifice; ● stații exterioare de pompare ape uzate, ape meteorice; ● cămin racord către canalizarea orășenească; ● bazine de retenție ape meteorice; ● bazine de retenție cu sisteme de infiltrare în sol, dacă condițiile solului și nivelul stratului freatic o permit, împreună cu acordul instituțiilor de control abilitate; ● bazine de retenție ale apelor industriale periculoase provenite din stingerea incendiilor cu regim special, care se gestionează conform indicațiilor inginerilor tehnologi; ● rezervoare etanș vidanjabile pentru ape menajere; ● stații de epurare locale, dacă există posibilitatea deversării apei epurate conform normativului NTPA 001 într-un mediu natural și pentru care este necesară monitorizarea funcționării corecte a acesteia; se va obține avizul instituțiilor de control abilitate, respectând legislația curentă.
+15.69.
+În principiu, rețelele exterioare de canalizare în incinte pot fi adoptate în sistem unitar, separativ sau mixt, conform SR 1846-1 și SR 1846-2, SR EN 752, NP133. Sistemul se adoptă în funcție de natura apelor uzate și de condițiile de deversare a acestor ape din incintă, cu respectarea legislației de profil.
+15.70.
+Apele deversate din instalațiile interioare pot necesita pre-epurare înainte de deversarea în rețeaua exterioară de incintă, prin introducerea de separatoare de grăsimi (de exemplu, pentru clădiri în care se desfășoară activități/servicii în industria alimentară, cafenele, restaurante, fast-food etc.), hidrocarburi, nisip, nămol, dezinfecție, sisteme de pre- epurare adecvate etc, în vederea respectării NTPA 002.
+15.71.
+Apele meteorice colectate în incinta exterioară sau preluate din zone de parcare exterioară vor fi dirijate către separatoare de hidrocarburi înainte de deversarea în rețeaua publică a localității sau în bazinele de retenție. Bazinele de retenție ale apelor meteorice trebuie golite în timpul cel mai scurt (sau cel menționat prin avize, dacă este specificat), având în vedere că trebuie să asigure volumul necesar pentru colectarea apei meteorice provenită din următoarea ploaie.
+15.72.
+Rezervoarele, bazinele, stațiile de pompare trebuie prevăzute cu sisteme de ventilare naturală și cu trepte de acces și accesorii pentru exploatare, întreținere.
+16.
+IZOLAREA TERMICA A CONDUCTELOR ȘI ECHIPAMENTELOR, PROTECȚIA ACESTORA ÎMPOTRIVA COROZIUNII, ASIGURAREA ETANȘEITĂȚII LA AER A ANVELOPEI CLĂDIRII
+Izolarea termică a conductelor 16.1.
+Izolațiile termice se aplică pe conducte, compensatoare, distribuitoare, colectoare, rezervoare de apă, recipiente hidropneumatice, boilere și aparate în contra curent, în scopul reducerii pierderilor de căldură, sau pentru a se evita producerea condensului pe suprafețele reci ale acestora.
+16.2.
+La proiectarea și executarea izolațiilor termice se respectă prevederile din actele normative și/sau detaliile de specialitate.
+16.3.
+La izolarea termică a elementelor instalațiilor nu este permisă folosirea de materiale degradabile sau a celor care, datorită încălzirii, se înmoaie, își diminuează capacitatea de izolare termică sau degajă gaze, noxe etc., în condițiile normale de exploatare.
+16.4.
+Conductele de apă se izolează astfel: - conductele montate sub tencuială, cu conducte preizolate;
+- conductele montate aparent, cu vată minerală, vată de sticlă sau spumă de poliuretan, etc, protejate la exterior sau conducte preizolate.
+16.5.
+Conductele mascate se izolează fără protecție specială în exterior, iar cele preizolate cu protecție la exterior.
+Termoizolația conductelor montate în subsoluri tehnice și canale subterane se prevede cu înveliș protector, în cazul folosirii conductelor preizolate.
+Termoizolația conductelor montate aparent în alte niveluri ale clădiri, inclusiv subsoluri folosite, se prevede cu înveliș protector și finisaj, stabilit în concordanță cu rolul funcțional al nivelului respectiv.
+16.6.
+Izolația conductelor montate în exterior - pe suporți, stâlpi sau pe fața exterioară a pereților clădirilor - se prevede cu înveliș de protecție contra intemperiilor.
+16.7.
+Izolația armăturilor, compensatoarelor cu presetupă și a îmbinărilor cu flanșe se realizează de tip izolație demontabilă.
+16.8.
+Conductele de distribuție a apei calde de consum montate direct în pământ se pot executa cu conducte preizolate, protejate la exterior cu manta din material plastic și prevăzute cu fir însoțitor pentru semnalarea eventualelor defecțiuni. În același mod se izolează și accesoriile (coturi, curbe, vane etc.).
+16.9.
+În documentațiile tehnice elaborate în cursul proiectării se va menționa obligativitatea asigurării etanșeității golurilor rezultate din străpungerile anvelopei de către instalațiile sanitare.
+PROTECȚIA ÎMPOTRIVA COROZIUNII EXTERIOARE A CONDUCTELOR 16.10.
+Izolațiile contra coroziunii se folosesc pentru conducte și alte piese metalice îngropate în sol sau montate în medii agresive.
+16.11.
+La montarea fără canal a rețelelor se are în vedere agresivitatea solului și a apelor freatice, precum și curenții de dispersie și se prevede, dacă este necesar, protecția catodică a conductelor împotriva coroziunii.
+Stabilirea protecției catodice, proiectarea și executarea acestei protecții se face potrivit indicațiilor din reglementarea tehnică privind protecția contra coroziunii a construcțiilor metalice îngropate.
+16.12.
+Vopsirea conductelor și a izolațiilor se face în culori corespunzătoare fluidului transportat.
+Asigurarea etanșeității anvelopei și reducerea punților termice 16.13.
+Trecerile conductelor de alimentare cu apă, canalizare sau ventilare a canalizării prin elementele de construcție care delimitează spațiile încălzite/climatizate de cele neîncălzite/neclimatizate se vor face asigurându-se etanșeitatea la aer a străpungerilor respective în concordanță cu cerințele clădirilor cu consum redus de energie (nZEB) precum și hidroizolarea acolo unde este cazul; Se vor prevedea măsuri pentru reducerea efectelor punților termice care pot apărea în cazul acestor străpungeri.
+16.14.
+Modul de realizare al acestor treceri și asigurarea etanșeității la aer, a hidroizolației precum și modul în care este redus efectul de punte termică se va detalia în proiect în colaborare cu proiectanții celorlalte specialități implicate cum ar fi arhitectura sau după caz structura; realizarea acestor detalii de execuție cad în sarcina mai multor specialități implicate în proiect care trebuie să colaboreze pentru asigurarea calității proiectului în conformitate cu normele în vigoare.
+17.
+AMENAJĂRI CONSTRUCTIVE PENTRU INSTALAȚII
+SUBSOLURI TEHNICE ȘI CANALE 17.1.
+Pentru montarea și întreținerea instalațiilor în clădirile care nu necesită subsol cu funcțiuni bine precizate, se pot utiliza subsoluri tehnice, vizitabile, având înălțimea liberă minimă de 1,80 m; subsolurile tehnice se prevăd cu goluri pentru introducerea țevilor și tuburilor necesare pentru eventualele reparații sau înlocuirii de conducte, precum și cu canale de ventilare.
+Canalele de ventilare sunt duse peste acoperișul clădirii (distanță recomandată de 50 cm peste nivelul acoperișului), iar subsolurile tehnice se pot prevedea cu instalații de iluminat.
+17.2.
+În cazul subsolurilor sau a subsolurilor tehnice, pardoseala se execută cu pante și rigole spre punctele de colectare a scurgerilor accidentale de apă.
+17.3.
+Accesul la subsolurile tehnice, destinate instalațiilor, este asigurat prin scări și uși normale, cu gabarit corespunzător necesităților de control și întreținere a instalațiilor.
+17.4.
+Canalele circulabile se prevăd cu trape de acces de dimensiuni corespunzătoare, restul amenajărilor constructive fiind cele menționate la subsolurile tehnice.
+17.5.
+Canalele pentru conducte se prevăd cu posibilități de evacuare a apei rezultate la golirea sau aerisirea conductelor. În acest scop, canalele se execută cu pantă longitudinală de maximum 1 la mie, iar suporții sau postamentele conductelor se prevăd cu orificii la partea inferioară pentru a permite scurgerea apei.
+17.6.
+Evacuarea apelor de scurgere se face din punctele cele mai joase ale canalelor prin cuve de colectare. Evacuarea se face, prin pompe fixe sau mobile, la rețeaua de canalizare.
+17.7.
+În zone cu nivel ridicat al pânzei de ape freatice se iau măsuri contra infiltrațiilor în canale (hidroizolații, drenuri etc.).
+17.8.
+Pentru întreținerea și manevrarea diferitelor armături ale conductelor montate în canale necirculabile se amenajează cămine de vizitare cu guri și scări de acces. Dimensiunile gurilor de acces se stabilesc în raport cu mărimea armăturilor, dar nu mai mici decât 80 cm diametru.
+17.9.
+Racordarea canalelor exterioare la subsolurile tehnice se realizează astfel încât să permită preluarea tasării diferite a clădirilor față de canale, fără a periclita buna funcționare a instalațiilor.
+17.10.
+În cazul terenurilor sensibile la umezire: distanța de amplasare și condițiile de montaj ale rețelelor de alimentare cu apă și canalizare, precum și racordarea la rețelele și canalele exterioare, trebuie să respecte prevederile reglementărilor tehnice specifice.
+STAȚII DE RIDICARE A PRESIUNII 17.11.
+Înălțimea încăperilor și golurilor de acces se dimensionează astfel încât să permită atât introducerea și montarea agregatelor, cât și demontarea lor pentru reparații sau înlocuire.
+17.12.
+La stațiile supraterane sau semiîngropate se prevăd, pentru aerisire, ferestre cu ochiuri mobile, ușor accesibile pentru manevrare.
+17.13.
+Se asigură buna ventilare a încăperilor destinate spațiilor tehnice și, în mod special, a celor subterane.
+17.14.
+În cazul în care temperatura din interiorul stațiilor de ridicare a presiunii poate fi negativă se asigură încălzirea de gardă.
+17.15.
+În cazul cuplării stațiilor de ridicare a presiunii cu centralele termice, stațiile de ridicare a presiunii se amplasează într-o încăpere separată de centrala termică, fiind prevăzută ușa de acces între ele; se respectă legislația tehnică în vigoare (normativ I13, normativ P118/2 etc.).
+18.
+PROTECȚIA ÎMPOTRIVA ZGOMOTULUI 18.1.
+La stabilirea soluțiilor instalațiilor hidromecanice se ține seama de prevederile reglementărilor referitoare la proiectarea și execuția privind protecția fonică a clădirilor.
+18.2.
+Se urmărește izolarea față de spațiile unde se cere o limitare a nivelului de zgomot a acelor elemente de instalații care în exploatare sunt surse de zgomot.
+18.3.
+În construcțiile în care se impun condiții severe de silențiozitate (studiouri de radio- televiziune, săli de concerte, hoteluri cu grad ridicat de confort, sanatorii etc.) se iau măsuri pentru izolarea fonică a conductelor și/sau utilizarea conductelor cu calități fonoabsorbante certificate conform SR EN 14366.
+Încăperile în care aceste măsuri sunt necesare se stabilesc prin proiect.
+18.4.
+De asemenea, în clădirile de locuit, în cazul în care nu se poate evita montarea conductelor de alimentare cu apă și canalizare pe pereții dinspre camera de zi, se iau măsuri pentru izolarea fonică a conductelor și/sau utilizarea conductelor cu calități fonoabsorbante certificate conform SR EN 14366, armăturilor și a obiectelor sanitare.
+Nu se admite montarea conductelor de alimentare cu apă și canalizare pe pereții spre dormitoare, atât pentru apartamentul în discuție, cât și pentru cele învecinate.
+18.5.
+Stațiile de ridicare a presiunii care servesc ansambluri de blocuri se recomandă să fie amplasate în construcții independente.
+Construcția stației este amplasată față de alte construcții de locuințe și social-culturale la distanța impusă de reducerea nivelului de zgomot la valoarea admisă. Când acest lucru nu este posibil, se iau măsuri corespunzătoare de izolare la zgomot.
+18.6.
+În cazul amplasării stațiilor de ridicare a presiunii în clădiri, se interzice montarea echipamentului alături, sub sau deasupra încăperilor de dormit, de odihnă sau a celor în care se desfășoară activități pe care zgomotul pompelor sau compresoarelor le poate perturba.
+În toate cazurile se iau măsuri de alegere a unor pompe silențioase, de reducere a nivelului de zgomot la valoarea admisă și luarea măsurilor de evitare a transmiterii zgomotului în restul clădirii.
+18.7.
+Agregatele se amplasează pe fundații proprii, fără legături cu pardoseala sau alte elemente de construcții.
+Postamentele se prevăd cu izolații pentru a împiedica transmiterea vibrațiilor către elementele de construcții.
+Spațiile între fundațiile clădirii și fundațiile electropompelor sunt de minimum 25 cm. Se pot prevedea postamente comune pentru două agregate.
+Se recomandă intercalarea de racorduri elastice între electropompe și conducte.
+În toate cazurile, la montarea pompelor se au în vedere și indicațiile de montaj ale cărții tehnice a pompelor.
+18.8.
+La stațiile de ridicare a presiunii la care se prevăd măsuri pentru reducerea zgomotului se evită legăturile rigide la trecerea conductelor prin elemente de construcții. La dimensionarea instalațiilor se aplică viteza recomandată conform Tabel 12.1, în funcție de diametrele conductelor respective.
+19.
+ECHIPAMENTE DE INSTALAȚII
+PREVEDERI GENERALE 19.1.
+Pentru ca instalațiile sanitare din clădiri și instalațiile de alimentare cu apă și canalizare din ansambluri de clădiri să corespundă în exploatare cerințelor de calitate, funcționalitate și fiabilitate, echipamentele utilizate la realizarea instalațiilor (aparate, armături, țevi etc.) trebuie să îndeplinească anumite condiții de care este necesar să se țină seama la proiectarea și executarea lucrărilor.
+19.2.
+Echipamentele utilizate trebuie să îndeplinească toate caracteristicile (dimensiuni, condiții de funcționalitate etc.) prevăzute în proiect.
+19.3.
+Pentru utilizarea produselor, procedeelor și echipamentelor în construcții, se va respecta legislația specifică aplicabilă, în vigoare, domeniului produse pentru construcții.
+19.4.
+Montarea echipamentelor se face ținând seamă de prevederile din documentația tehnică a echipamentului respectiv și de precizările din legislația specifică aplicabilă, în vigoare, domeniului produse pentru construcții.
+CONDUCTE 19.5.
+Se recomandă utilizarea în instalațiile interioare a următoarelor țevi și tuburi (lista nu este limitativă): - pentru conducte de apă rece: țevi din oțel zincat și țevi din mase plastice;
+- pentru conducte de apă caldă: țevi din oțel zincat, țevi din mase plastice rezistente la temperatură;
+- pentru conducte de canalizare: țevi din PVC; țevi din polipropilenă (PP); fontă; PEHD.
+- pentru racordarea obiectelor sanitare la instalația de apă rece și caldă: tuburi flexibile din metal sau mase plastice;
+- pentru racordarea obiectelor sanitare la instalația de canalizare: tuburi din metal și țevi din mase plastice;
+- pentru racordarea pompelor la instalații: tuburi flexibile din metal sau mase plastice, tuburi din cauciuc etc.
+Utilizarea țevilor și tuburilor în instalațiile de alimentare cu apă rece, caldă și de canalizare se face cu respectarea indicațiilor furnizorului, iar pentru apa potabilă și cu acordul specific pentru transportul apei potabile.
+19.6.
+La rețelele exterioare de apă și de canalizare din ansamblurile clădirilor de locuit, a clădirilor civile și industriale se recomandă folosirea, cu prioritate, a următoarelor țevi și tuburi: - pentru conducte de apă rece: țevi din mase plastice, țevi din oțel, protejate în interior contra coroziunii (prin zincare sau prin alt procedeu), tuburi din beton precomprimat;
+- pentru conducte de apă caldă: țevi din oțel protejate la interior contra coroziunii (prin zincare sau alt procedeu) și țevi din mase plastice rezistente la temperatura apei calde;
+- pentru conducte de canalizare a apelor uzate menajere și a apelor meteorice: tuburi din beton simplu, din beton armat, și tuburi din mase plastice, materiale plastice armate cu fibră de sticlă etc., rezistente la fluidele care sunt transportate.
+ARMĂTURI DE ÎNCHIDERE 19.7.
+Pentru instalațiile funcționând cu presiuni până la 6 bar se recomandă utilizarea robinetelor de trecere cu ventil și mufe, cu sau fără descărcare, pentru diametrele 3/8"...2", respectiv a robinetelor cu sertar și mufe cu filet, pentru diametre mai mari, precum și a robinetelor cu ventil sferic (bilă).
+19.8.
+Se recomandă utilizarea armăturilor cu flanșe atunci când acestea sunt legate funcțional de echipamente care, periodic, necesită demontări (pompe, rezervoare ș.a.).
+19.9.
+Pentru instalațiile care funcționează la presiuni mai mari de 6 bar, se utilizează armături de tip special pentru presiunile nominale respective.
+20.
+EXECUTAREA LUCRĂRILOR DE INSTALAȚII
+PREVEDERI GENERALE 20.1.
+Pentru conductele instalațiilor sanitare, pot fi utilizate materiale care respectă standardele europene sau care au agremente tehnice, și cu respectarea legislației curente; se vor respecta prescripțiile de execuție indicate de standardele europene specifice și/sau producător (agrementate) împreună cu legislația curentă. Executarea instalațiilor sanitare se face coordonat cu celelalte instalații. Această coordonare se urmărește pe întreg parcursul execuției, începând de la trasare.
+20.2.
+La traversarea planșeelor sau a pereților din beton armat se folosesc golurile prevăzute în proiect sau piesele de trecere montate special.
+VERIFICAREA MATERIALELOR 20.3.
+La executarea lucrărilor se utilizează numai echipamente care corespund tehnic și calitativ prevederilor proiectului.
+DEPOZITARE ȘI MANIPULARE 20.4.
+Păstrarea echipamentelor de instalații sanitare se face potrivit specificațiilor, în condiții care să asigure buna lor conservare.
+20.5.
+Manipularea materialelor se face cu respectarea normelor privind securitatea muncii și evitarea deteriorării acestora.
+TEHNOLOGII DE ÎMBINARE, ETANȘARE ȘI FASONARE A ȚEVILOR DIN OȚEL 20.6.
+Îmbinarea țevilor din oțel zincat se face prin fitinguri zincate sau prin flanșe cu filet. Îmbinarea prin sudură se admite, în general, la instalații sanitare pentru confecții metalice, precum: distribuitoare, rezervoare etc. care, după execuție, se izolează anticorosiv.
+20.7.
+Garniturile îmbinărilor cu flanșe nu trebuie să obtureze secțiunea de trecere a țevii, iar marginea garniturii nu trebuie să ajungă până la șuruburile flanșei.
+20.8.
+Pentru realizarea îmbinărilor prin flanșe la conducte de apă rece și caldă din oțel zincat se pot utiliza flanșe plate cu filet. În cazurile în care sunt necesare intervenții frecvente în timpul exploatării, se pot folosi îmbinări demontabile care sunt admise numai în locuri accesibile, vizitabile.
+MONTAREA CONDUCTELOR
+Conducte de apă rece și caldă 20.9.
+Conductele se montează după ce, în prealabil, s-a făcut trasarea lor.
+La trasare se respectă pantele prevăzute în proiect, astfel încât să fie asigurată, după caz, aerisirea și golirea completă a conductelor.
+20.10.
+Țevile sudate longitudinal se montează astfel încât sudura să fie vizibilă pe toată lungimea ei.
+20.11.
+Coloanele din oțel zincat se fixează pe elementele de construcție prin brățări montate, de regulă, câte una pe etaj, însă nu la mai mult de 3,50 m distanță una de alta. Coloanele din mase plastice se fixează de elementele de construcții potrivit reglementărilor specifice de utilizare.
+Conducte din gresie ceramică pentru canalizare 20.12.
+La executarea rețelelor din gresie ceramică (bazalt artificial) se folosesc tuburi și piese de legătură cu mufă sau cu flanșe.
+20.13.
+La montajul îngropat în pământ, tuburile se așează pe un pat de nisip.
+20.14.
+Tuburile din gresie ceramică se îmbină prin mufe, etanșarea asigurându-se cu materiale de etanșare corespunzătoare, similar ca la tuburile din fontă.
+Conducte din gresie ceramică antiacidă 20.15.
+La executarea rețelelor din gresie ceramică antiacidă se folosesc tuburi și piese de legătură cu mufă sau cu flanșe.
+20.16.
+Îmbinarea, etanșarea și fixarea tuburilor cu mufe se face utilizându-se chituri antiacide corespunzătoare.
+20.17.
+Îmbinarea și etanșarea tuburilor cu flanșe se face cu ajutorul inelelor și garniturilor speciale.
+20.18.
+Montarea și fixarea tuburilor din gresie ceramică antiacidă se face la fel ca la tuburile din ceramică.
+Conducte de apă și de canalizare din mase plastice 20.19.
+Îmbinarea și montarea conductelor de alimentare cu apă și de canalizare din mase plastice se face conform reglementărilor tehnice specifice, standardele europene specifice și/sau producător (agrementate).
+Executarea izolațiilor 20.20.
+Lucrările de izolare ale conductelor se încep numai dacă, în prealabil, s-au efectuat probele de presiune.
+20.21.
+Izolațiile termice ale conductelor și aparatelor se aplică numai după curățirea și protejarea anticorosivă a suprafețelor.
+20.22.
+Izolațiile termice aplicate pe conducte se întrerup în dreptul organelor de închidere și de manevră, a elementelor de susținere și la îmbinările cu flanșe, precum și la manșoanele de trecere prin elemente de construcție.
+Montarea obiectelor sanitare și a accesoriilor 20.23.
+Fixarea obiectelor sanitare pe elemente de construcții se poate face fie direct, prin șuruburi, fie indirect, prin intermediul consolelor sau a altor dispozitive de susținere.
+20.24.
+Pentru obiectele sanitare montate grupat - lavoare, spălătoare etc. - se pot utiliza stative metalice.
+20.25.
+Armăturile de perete ale obiectelor sanitare se aplică la fața finită a peretelui.
+20.26.
+În scopul evitării deteriorării obiectelor sanitare, pe timpul executării lucrărilor de finisaj la construcție, acestea se protejează obligatoriu până la terminarea lucrărilor respective.
+Montarea armăturilor de închidere, siguranță și control 20.27.
+Toate armăturile se montează în poziția închis.
+20.28.
+Supapele de siguranță cu pârghie și contra - greutate se montează astfel încât tija să fie verticală.
+Săpături, umpluturi, lucrări auxiliare 20.29.
+Lucrările de săpătură și umplutură se execută conform prescripțiilor în vigoare privind securitatea muncii.
+20.30.
+Determinarea lățimii șanțurilor se stabilește în funcție de diametrul exterior al conductei conform SR EN 1610.
+20.31.
+Pe măsura adâncirii săpăturii, se iau măsuri de sprijinire corespunzătoare a pereților. Concomitent, se iau și alte măsuri de tehnica securității muncii, indicate pentru lucrări de acest fel.
+20.32.
+În cazul în care natura terenului nu asigură stabilitatea în timp a rețelelor (terenuri de umplutură, mlăștinoase etc.) se iau măsuri de specifice (batere, radiere de beton, grinzi, piloni etc).
+20.33.
+În cazul în care, pe fundul șanțului, există bolovani, stânci, fundații vechi etc., care pot produce deteriorarea conductelor, se crează un "pat protector" de nisip sau pământ mărunt, pe care se amplasează conducta.
+20.34.
+Umplutura de pământ peste conducte se execută numai după efectuarea probelor la aceste instalații.
+20.35.
+La săpăturile care traversează căi de circulație se iau măsuri pentru evitarea tasării suprastructurii.
+Verificarea calității execuției lucrărilor 20.36.
+Verificarea calității execuției lucrărilor de instalații sanitare se face în conformitate cu prevederile legale în vigoare la data realizării acestora urmărindu-se și aspectele legate de asigurarea etanșeității la aer a clădirii și a hidroizolației referitoare la străpungerile cauzate de către conductele instalațiilor sanitare.
+21.
+PROBE, REGLAREA INSTALAȚIILOR PROBELE INSTALAȚIILOR
+Conducte de apă rece și caldă de consum în instalațiile interioare 21.1.
+Conductele de apă rece și caldă de consum sunt supuse la următoarele probe: - proba de etanșeitate la presiune la rece;
+- proba de etanșeitate și rezistență la cald a conductelor de apă caldă și a celor de circulație;
+- proba de funcționare la apă rece și caldă.
+21.2.
+Proba de etanșeitate la presiune la rece, ca și proba de etanșeitate și rezistență la cald se efectuează înainte de montarea aparatelor și armăturilor de serviciu la obiectele sanitare și celelalte puncte de consum, extremitățile conductelor fiind obturate cu flanșe oarbe sau dopuri.
+21.3.
+Presiunea de încercare la etanșeitate și rezistență la cald la conductele de apă rece și caldă este egală cu 1,5 x presiunea de regim, indicată în proiect pentru instalația respectivă de alimentare cu apă, dar nu mai mică de 6 bar. Conductele se vor menține sub presiune timpul necesar verificării tuturor traseelor și îmbinărilor, dar nu mai puțin de 20 de minute. într-un interval de 20 minute nu se admite scăderea presiunii. Presiunea în conducte se va realiza cu o pompă de încercări hidraulice și se va citi pe un manometru montat pe pompă, care se va amplasa în punctul cel mai de jos al conductelor.
+21.4.
+Proba de funcționare la apă rece și caldă se efectuează după montarea armăturilor la obiectele sanitare și la celelalte puncte de consum și cu conductele sub presiunea hidraulică de regim. Se va verifica, prin deschiderea succesivă a armăturilor de alimentare, dacă apa ajunge, la presiunea de utilizare, la fiecare punct de consum în parte. Verificarea se va face prin deschiderea numărului de robinete de consum corespunzător simultaneității și debitului de calcul. Pentru verificarea funcționării conductelor de recirculare, se va măsura temperatura apei în conducta de apă caldă, la ieșirea din aparatul de preparare, și din conducta de recirculare, înainte de racordarea la aparat. Proba de funcționare la apă rece este de minim 6 ore.
+21.5.
+Proba de funcționare și rezistență la conductele de apă caldă, inclusiv la cele de recirculare, se face prin punerea în funcțiune a instalației de apă caldă la presiunea de regim stabilită prin proiect și la o temperatură de 55-60 °C. Presiunea și temperatura de regim se vor păstra în instalație timpul necesar verificării etanșeității îmbinărilor și a tuturor punctelor de susținere și fixare a conductelor supuse dilatărilor, dar nu mai puțin de 6 ore. După răcirea completă se va repeta încercarea de etanșeitate la presiune la rece.
+21.6.
+Proba de funcționare se efectuează având echipamentele în funcțiune, conform prevederilor din proiect (stații de ridicare a presiunii, aparate de preparare a apei calde, pompe etc.).
+Conducte de canalizare în instalațiile interioare, colectoare cu curgere gravitațională 21.7.
+Conductele interioare de canalizare se supun la următoarele probe: ● proba de etanșeitate; ● proba de funcționare.
+21.8.
+Proba de etanșeitate se efectuează prin verificarea etanșeității pe traseul conductelor de canalizare și la punctele de îmbinare.
+21.9.
+Proba de etanșeitate la canalizare se face prin umplerea cu apă a conductelor astfel: ● conducte de canalizare a apelor meteorice pe toată înălțimea clădirii; durata de verificare a etanșeității este de minim 24 ore; ● conducte de canalizare ale apelor menajere, până la nivelul de refulare prin sifoanele de pardoseală sau prin obiectele sanitare; durata de verificare a etanșeității este, de regulă, de minim 24 ore.
+21.10.
+Proba de funcționare se face prin alimentarea cu apă a obiectelor sanitare și a punctelor de scurgere la un debit normal de funcționare și prin verificarea condițiilor de scurgere.
+21.11.
+La efectuarea probelor de funcționare se verifică pantele conductelor, starea pieselor de susținere și de fixare, existența pieselor de curățire, conform precizărilor din proiect.
+Conducte de canalizare în instalațiile interioare, conducte sub presiune 21.12.
+Conductele interioare de evacuare ale apelor uzate sau meteorice sub presiune trebuie să reziste la 1,5 x presiunea de regim. Presiunea de regim trebuie să fie specificată în proiect. Conductele se vor menține sub presiune timpul necesar verificării tuturor traseelor și îmbinărilor, dar nu mai puțin de 20 de minute. Într-un interval de 20 de minute nu se admite scăderea presiunii. Pentru instalațiile meteorice vacuumatice, se aplică și testele specifice recomandate de furnizorul sistemului.
+Probe ale rețelelor exterioare de alimentare cu apă rece și caldă de consum 21.13.
+Probele de presiune pentru rețelele exterioare sunt similare celor din instalațiile interioare; trebuie realizate înainte de acoperirea cu pământ a acestora. Conductele se vor menține sub presiune timpul necesar verificării tuturor traseelor și îmbinărilor, dar nu mai puțin de 20 de minute. Într-un interval de 20 de minute nu se admite scăderea presiunii.
+Probe ale rețelelor exterioare de canalizare, de tip gravitațional 21.14.
+Se prevăd probe de etanșeitate conform normativului NP133 și standardul SR EN 1610, atât pentru colectoare cât și pentru cămine.
+Proba se face numai cu apă.
+În cadrul probei de etanșeitate se asigură următoarele: ● Colectoare - se instalează capace pe capătul conductelor, la intrarea în căminele de capăt ale colectorului, cu balon; ● Se asigura o presiune de verificare, de maxim 5 m col H(2)O și minim 1 m H(2)O, măsurată de la generatoarea superioară a conductei, prin umplerea tronsonului sau a construcției verificate, până la nivelul terenului aferent punctului de control având cota minimă pe tronsonul testat; ● După umplerea conductelor și/sau a căminului și după atingerea presiunii de verificare necesare, poate fi necesar un timp de pregătire care în general este de o oră; ● Durata de verificare este, de regulă, de 30 minute; ● La finalul probei, obturatoarele pneumatice se depresurizează și se observă condițiile de curgere până la scurgerea completă a apei utilizate pentru proba.
+Restul de operații sunt indicate în normativul NP133.
+Pentru verificarea corectitudinii montării rețelelor exterioare de canalizare se aplică STAS 3051 - 91.
+Probe ale rețelelor exterioare de canalizare, trasee sub presiune ● Se prevăd probe de presiune și etanșeitate pentru conducte și armături. ● Se prevăd probe de funcționare pentru pompe. ● Se aplică prevederile din normativul NP133 și standardul SR EN 12050-1/2015.
+Reglarea hidraulică a instalațiilor
+Reglarea instalațiilor de alimentare cu apă (rece și caldă) și de recirculare a apei calde 21.15.
+Pentru asigurarea regimului de funcționare, reducerea pierderilor de apă și a zgomotului, este necesară reglarea instalației, astfel încât presiunea disponibilă la toate punctele de consum să fie cât mai aproape de valoarea presiunii minime de utilizare.
+Reglarea hidraulică a instalației de alimentare cu apă rece și caldă, distribuție și recirculare 21.16.
+În cazul în care presiunea în instalație este sub 6 bar, dar se constată existența unui excedent de presiune în instalație la intrarea în clădire, se pot utiliza robinete/dispozitive de reducere a presiunii și reglare hidraulică, asigurându-se presiunea de utilizare la obiectele sanitare cele mai defavorizate.
+21.17.
+Pentru reducerea presiunii la valorile presiunii de utilizare în toate punctele de consum, se vor folosi robinetele de închidere de pe coloane, niveluri și, în final, cele de reglaj de la obiectele sanitare. Se pot utiliza robinete/dispozitive de reducere a presiunii și reglare hidraulică, în mod special pentru traseele de recirculare a apei calde de consum.
+21.18.
+Pentru fiecare baterie de amestec se va verifica presiunea disponibilă, astfel încât presiunea disponibilă a apei reci și a apei calde să fie, pe cât posibil, egală.
+21.19.
+În cazul asigurării presiunii cu ajutorul stațiilor de hidrofor, se va verifica, în momentul pornirii pompelor, în condițiile unui consum maxim, disponibilul de presiune la obiectele plasate cel mai defavorabil.
+Dacă în acest caz există, la aceste puncte de consum, o presiune disponibilă mai mare decât presiunea de utilizare, se va regla presostatul pentru o presiune de pornire mai mică, reducându-se corespunzător și presiunea de oprire.
+Pentru celelalte puncte de consum reglajul se va face cu ajutorul robinetelor de închidere de pe coloane, niveluri și cele de reglaj de la obiectele sanitare.
+21.20.
+Se recomandă montarea robinetelor de închidere și reglaj la toate obiectele sanitare, la care nu au fost montate inițial.
+Pentru a evita dereglarea instalației, urmare a unor intervenții necesare, se recomandă ca, pe lângă armăturile de închidere să se prevadă - cu ocazia reparațiilor capitale - și o armătură pentru reglarea presiunii, astfel încât, în cazul unor intervenții, să se acționeze numai armătura de închidere, cea de reglaj rămânând în poziția în care a fost reglată.
+Reglarea hidraulică a instalației de recirculare a apei calde.
+21.21.
+Reglajul hidraulic al rețelei de recirculare a apei de consum se va face după reglarea rețelei de distribuție a apei calde, folosind armăturile de pe conductele de recirculare, împreună cu robinete/dispozitive de reglare (echilibrare) hidraulic.
+21.22.
+La instalațiile prevăzute cu conductă de recirculare numai pe orizontală și numai pentru conducta principală de distribuție a apei calde - fără ramificații - nu este necesar un reglaj hidraulic.
+21.23.
+La instalațiile prevăzute cu conductă de recirculare și pe ramificații (până la baza coloanelor sau până la cel mai de sus obiect sanitar) reglajul hidraulic este necesar pentru a asigura recircularea apei calde prin toate conductele și, deci, ridicarea gradului de confort și reducerea pierderilor de apă și energie. Reglajul se va face cu ajutorul robinetului de trecere montat pe conducta de recirculare care, dacă se încălzește, rezultă că pe conducta respectivă de recirculare circulă apa caldă.
+Reglajul instalației poate fi considerat satisfăcător dacă la toate robinetele se constată aproximativ aceeași temperatură.
+Reglajul instalației de recirculare începe cu ultima coloană a instalației (situația cea mai dezavantajoasă), la care robinetul de închidere, de pe conducta de recirculare, se va lăsa complet deschis și continuă spre sursa de producere. Reglajul se face în perioada de consum nul, cu instalația de preparare a apei calde în funcțiune. Armăturile utilizate pentru echilibrare nu vor avea deschideri mai mici de 1 mm pentru a diminua riscul de colmatare pentru aceste elemente. Pot fi utilizare robinete sau dispozitive de reglare hidraulică specifice.
+22.
+RECEPȚIA INSTALAȚIILOR 22.1.
+Recepția se efectuează atât la lucrări noi cât și la intervențiile în timp asupra instalațiilor existente (modernizări, extinderi, reparații capitale) și se realizează, potrivit legislației aplicabile, în două etape: ● recepția la terminarea lucrărilor ● recepția finală, la expirarea perioadei de garanție.
+23.
+EXPLOATAREA INSTALAȚIILOR 23.1.
+La exploatarea instalațiilor de alimentare cu apă rece și caldă de la rețeaua stradală și la evacuarea apelor uzate la rețeaua de canalizare se urmărește, în principal: ● debitul de apă furnizat; ● regimul de presiune și temperatură apei calde livrate; ● modul de furnizare al apei și condițiile de consum; ● modul de contorizare al apei; ● condiții de evacuarea ale apelor uzate; ● asigurarea regimului de funcționare al instalațiilor etc.
+23.2.
+Delimitarea dintre instalațiile interioare de alimentare cu apă și canalizare și rețelele stradale de alimentare cu apă și canalizare se face în căminul de racord sau la vanele de sectorizare generală.
+23.3.
+Măsurarea apei consumate se face cu aparate de măsură, montate în puncte de delimitare a instalațiilor.
+Asigurarea regimului de funcționare al instalațiilor 23.4.
+Exploatarea instalațiilor de sanitare trebuie să asigure menținerea funcționării normale a instalațiilor și încadrarea acestora în parametrii de performanță proiectați.
+CONTROLUL, VERIFICAREA ȘI REVIZIA INSTALAȚIILOR SANITARE
+Controlul, verificarea și revizia instalațiilor interioare de alimentare cu apă rece și apă caldă 23.5.
+Controlul și verificarea instalațiilor interioare de alimentare cu apă rece și apă caldă se face cu scopul de a asigura: ● regimul de debit și presiune; ● etanșeitatea instalației; ● temperatura apei calde.
+23.6.
+Menținerea regimului de temperatură a apei calde asigură: ● condițiile prescrise de funcționare la punctele de consum a apei calde; ● eliminarea pericolului de opărire, la depășirea temperaturii de 60 °C a apei calde; ● eliminarea pericolului de îmbolnăvire cu legionella.
+23.7.
+Pentru evitarea pericolului de îmbolnăvire cu legionella, în fiecare lună, în instalația de alimentare cu apă caldă se asigură menținerea unei temperaturi de 60 °C, în întreaga instalație, timp de 24 de ore. O atenție deosebită se acordă rezervoarelor de acumulare a apei calde sau în ramurile instalației cu circulație redusă, în care se controlează ca temperatura apei calde să atingă temperatura de 60 °C timp de 24 de ore; pot fi utilizate și alte metode cu efect similar indicate în legislația tehnică de profil.
+Controlul, verificarea și revizia instalațiilor interioare de alimentare cu apă rece și apă caldă 23.8.
+Revizia instalațiilor interioare de alimentare cu apă rece și apă caldă se face periodic, de regulă o dată pe an, și constă, în principal, în: - revizia etanșeității instalației (conducte, îmbinări, armături de închidere și de serviciu);
+- revizia gradului de corodare sau depunere prin demontarea unor armături de pe traseu și controlarea capetelor conductelor;
+- revizia modului de fixare al suporților conductelor și armăturilor și al gradului de uzură al garniturilor aferente;
+- revizia manșoanelor de trecere prin pereți și planșee și a izolației dintre manșon și conductă. Golurile din pereți și planșee cu rol de protecție la foc, vor fi etanșate obligatoriu cu materiale rezistente la foc;
+- revizia modului de funcționare al armăturilor de închidere (ușurință în manevrare, gradul de închidere și deschidere, starea garniturilor); în cazul blocării sau reducerii secțiunii de trecere din cauza depunerilor, armăturile se demontează și se curăța, iar pentru etanșare se folosesc garnituri noi;
+- revizia etanșeității robinetelor de reținere, verificarea reductoarelor de presiune prin demontarea și verificarea pieselor componente și, la nevoie, înlocuirea celor defecte;
+- revizia reglajului instalației.
+23.9.
+După fiecare revizie sau după fiecare intervenție la care s-au folosit robinetele de închidere pentru reglajul hidraulic al instalației, se va efectua reglarea din nou a instalației.
+Controlul, verificarea și revizia rețelelor exterioare de alimentare cu apă rece 23.10.
+Controlul și verificarea rețelelor exterioare montate în sol se face prin parcurgerea traseului și observarea: ● stării umpluturilor pe traseu; ● stării umpluturilor în jurul căminelor; ● băltirii sau depozitării de materiale pe traseul rețelei sau pe cămine; ● stării căminelor, starea generală a construcției căminului, starea capacului, a treptelor de acces și a vanelor, precum și existența apei în cămin.
+Controlul, verificarea și revizia rețelelor exterioare de alimentare cu apă caldă de consum 23.11.
+Controlul și verificarea rețelelor exterioare de alimentare cu apă caldă de consum se face, de regulă, odată cu controlul și verificarea rețelelor termice.
+Controlul periodic constă în verificarea stării fizice a elementelor componente ale rețelei (conducte, armături, termoizolații, suporți, sisteme de măsură etc.).
+Pentru porțiunile de rețea, separată de cea termică, se verifică în plus canalul termic și căminele de vizitare, după caz.
+23.12.
+Verificarea constă în controlul coroziunii exterioare a conductelor, armăturilor, suporturilor și a celorlalte elemente metalice, controlul stării termoizolației și a proiecției acestora.
+23.13.
+Revizia conductelor se face prin căminul de vizitare - o dată pe an - și prin deschiderea canalelor nevizitabile - o dată la 2 ani.
+Revizia conductelor montate aerian se face o dată pe an.
+23.14.
+Controlul coroziunii exterioare, datorate curenților telurici, se face prin măsurători electrice la intervale de minimum 3 ani.
+Curățirea, spălarea și dezinfectarea rețelei de apă rece și caldă 23.15.
+Pentru menținerea calității apei la parametrii normali și pentru eliminarea depunerilor din conducte, care reduc secțiunea utilă a acestora, este necesar ca, periodic, rețelele să fie curățate, spălate și dezinfectate.
+23.16.
+Curățirea, spălarea și dezinfectarea rețelei se efectuează la intervale de 3 - 5 ani sau atunci când se constată alterarea calității apei sau când s-au produs depuneri în conducte, și întotdeauna după efectuarea unor lucrări de reparații sau extinderi. Procedura de dezinfectare a conductelor de alimentare cu apă este cea prevăzută în normativul NP133-1 pentru rețele exterioare de distribuție a apei, aplicată instalațiilor interioare.
+Controlul, verificarea și revizia termoizolației 23.17.
+Verificarea termoizolației constă în controlul vizual al protecției termoizolației, a stării materialelor de protecție a termoizolației și a inelelor distanțiere.
+23.18.
+Revizia termoizolației se face la următoarele intervale: ● o dată pe an la rețele supraterane sau montate în canale termice vizitabile; ● o dată la 2 ani la rețele montate în canale nevizitabile, prin deschiderea acestora.
+Controlul, verificarea și revizia canalelor termice și a căminelor de vizitare 23.19.
+Controlul și verificarea canalelor termice și a căminelor de vizitare constă în analiza stării acestora, verificarea prezenței apei provenită din infiltrații sau defecțiuni la conducte și evacuarea acesteia.
+23.20.
+Revizia canalelor termice se face de două ori pe un an (de regulă înaintea perioadei de îngheț și după perioada de îngheț).
+Controlul, verificarea și revizia instalațiilor de preparare a apei calde de consum 23.21.
+Controlul și verificarea instalațiilor de preparare a apei calde de consum constă în: ● controlul și verificarea conductelor și a accesoriilor acestora; ● controlul aparatelor de preparat apă caldă și al accesoriilor; ● controlul și verificarea pompelor de recirculare a apei calde; ● controlul și verificarea sursei de energie termică.
+23.22.
+Controlul și verificarea aparatelor de preparat apă caldă constă în: - asigurarea funcționării aparatelor de preparat apă caldă;
+- etanșeitatea îmbinărilor;
+- funcționarea aparatelor de măsură;
+- funcționarea dispozitivelor de siguranță.
+- verificarea modului de funcționare a aparaturii de reglaj a debitului agentului termic;
+- verificarea termoizolației.
+23.23.
+Revizia instalației de preparare a apei calde se face anual și constă în: - revizia conductelor de alimentare cu apă rece, de distribuție a apei calde și de recirculare, precum și a accesoriilor acestora;
+- revizia aparatelor de preparat apă caldă (starea generală, etanșeitatea îmbinărilor, starea termoizolației, starea suporților, mod de funcționare etc.);
+- revizia gradului de corodare al suprafețelor de schimb de căldură și al mantalei schimbătorului de căldură prin demontarea aparatului.
+23.24.
+Revizia aparatelor de preparat local apă caldă se face conform indicațiilor din cartea tehnică a aparatului.
+Controlul, verificarea și revizia stației de pompare și de hidrofor 23.25.
+Controlul și verificarea stației de pompare constă în verificarea: - etanșeității conductelor, armăturilor și echipamentelor;
+- starea armăturilor de siguranță, a elementelor în mișcare (motoare, pompe, compresoare), protecția contra electrocutării, nivelul gazelor emanate în stațiile de pompare a apelor uzate etc.;
+- modul de fixare pe postament;
+- nivelul de zgomot produs de pompe;
+- indicațiile aparatelor de măsură;
+- urmărirea indicațiile aparatelor de control: manometre, ampermetre etc.;
+- starea izolației termice a conductelor și echipamentelor;
+- funcționare a instalațiilor de iluminat, forță și automatizare.
+23.26.
+La recipientele de hidrofor se verifică dacă conținutul de aer se menține în limitele normale, și dacă presiunea de pornire și oprire a pompelor este cea indicată în proiect. - starea stratului interior de protecție (dacă este necesar, recipientul se va grundui);
+- etanșeitatea îmbinărilor și calitatea garniturilor.
+Recipientele de hidrofor se curăță de depuneri și se spală.
+23.27.
+La rezervorul tampon și la cel de înălțime se verifică: - starea stratului de protecție interior și exterior;
+- gradul de corodare;
+- starea izolației termice;
+- calitatea îmbinărilor;
+- modul de funcționare a robinetelor de alimentare cu apă;
+- starea flotoarelor și modul în care sunt reglate;
+- starea sorbului în general și a elementelor componente;
+- starea preaplinului, inclusiv existența gărzii hidraulice (dacă este cazul);
+- etanșeitatea la trecerea conductelor prin pereții rezervorului;
+- modul de fixare pe postament.
+23.28.
+La armăturile de închidere se verifică: - modul de închidere și deschidere a robinetelor (ușurință de manevrare, gradul de închidere și deschidere etc.);
+- etanșeitatea robinetelor.
+23.29.
+La ventilele de siguranță se verifică: - funcționarea la presiunea de evacuare precum și capacitatea de acționare;
+- acționarea dispozitivul de aerisire al robinetului de siguranță;
+- etanșeitatea îmbinărilor.
+23.30.
+La aparatele de măsură și control se efectuează verificarea funcționării și eventual, reetalonarea sau după caz - înlocuirea acestora.
+23.31.
+La conducte și izolații se verifică: - starea generală a conductelor și izolației;
+- etanșeitatea îmbinărilor (la filet, garnituri) și pe traseul conductelor;
+- modul de fixare al conductelor și al suporților acestora;
+- calitatea manșoanelor de protecție, a soluției de etanșare la aer și a izolației la trecerea conductelor prin pereți și planșee, în mod special la trecerea prin anvelopa clădirii.
+23.32.
+Revizia stației de pompare se face anual, urmărind asigurarea funcționării în bune condiții a elementelor componente.
+Controlul, verificarea și revizia instalațiilor interioare și exterioare de canalizare 23.33.
+Controlul și verificarea instalațiilor interioare de canalizare constă în: - depistarea unor anomalii în funcționarea rețelei de canalizare (refulări periodice, reducerea debitului evacuat, emanații de mirosuri provenite din rețeaua de canalizare etc.);
+- urmărirea gradului de etanșeitate al instalației și depistarea eventualelor pete de umezeală pe pereți, planșee, conducte, tasarea pardoselii etc.;
+- integritatea izolației fonice specifice la prinderi, la traversarea pereților și planșeelor;
+- integritatea dispozitivelor de susținere a conductelor;
+- controlul subsolurilor și canalelor tehnice în vederea depistării eventualelor scurgeri și/sau infiltrații;
+- controlul depunerilor de frunze, gunoaie, zăpadă etc. pe receptorii de terasă sau pe capacele gurilor de scurgere a apelor meteorice;
+- existența căciulilor de protecție la coloanele de ventilare.
+23.34.
+Controlul și verificarea rețelelor exterioare de canalizare constau într-un control de suprafață (control exterior) și un control de adâncime (control interior).
+23.35.
+Controlul exterior se face lunar și constă în parcurgerea la suprafață a traseelor canalelor.
+23.36.
+Controlul interior al canalelor se face o dată pe an, urmărindu-se, în principal: - dacă pereții și treptele căminelor au suferit degradări;
+- dacă pereții tuburilor au suferit fisuri, deformații, eroziuni și orice alte degradări, care favorizează uzura anormală a rețelei;
+- dacă scurgerea prin canale și prin rigolele căminelor se face normal și nu se produc depuneri.
+23.37.
+Revizia instalației de canalizare se face anual și se referă la calitatea apelor uzate și la funcționarea în ansamblu.
+Curățirea și spălarea instalației interioare de canalizare 23.38.
+Pentru a evita formarea de depozite întărite în instalația interioară de canalizare se recomandă să se efectueze periodic curățirea și spălarea rețelei.
+23.39.
+Curățirea și spălarea instalațiilor interioare de ape uzate se face anual sau de câte ori se impune.
+23.40.
+Spălarea și curățirea instalației se începe din amonte de la obiectele sanitare.
+23.41.
+Rețeaua de canalizare a apelor meteorice se recomandă să fie revizuită și curățată anual, precum și după furtuni violente.
+Curățirea și spălarea rețelelor exterioare de canalizare 23.42.
+În cazul rețelelor exterioare de canalizare la care nu se asigură viteza de autocurățire și au loc depuneri, este necesară curățirea și spălarea rețelei.
+23.43.
+Spălarea rețelei exterioare de canalizare are drept scop prevenirea înfundării canalelor prin depuneri care se întăresc.
+Spălarea se face cu apă curată sau uzată colectată în căminele de spălare.
+23.44.
+Curățirea canalelor nevizitabile se face prin mijloace mecanice sau prin spălare.
+Se recomandă curățirea cel puțin o dată pe an.
+23.45.
+Gurile de scurgere se curăță cel puțin de patru ori pe an.
+23.46.
+Curățirea canalelor se va face din amonte spre aval.
+Apărare împotriva incendiilor pe durata exploatării instalațiilor sanitare 23.47.
+Respectarea reglementărilor de apărare împotriva incendiilor precum și echiparea și dotarea cu mijloace și echipamente de apărare împotriva incendiilor la construcții este obligatorie pe întreaga durată de exploatare a instalațiilor sanitare aferente construcțiilor.
+23.48.
+Pe durata reviziilor, reparațiilor, înlocuirilor și dezafectărilor instalațiilor se vor respecta măsurile specifice de apărare împotriva incendiilor.
+REPARAȚIA INSTALAȚIILOR SANITARE
+Reparația instalațiilor sanitare sunt de trei feluri: ● reparații curente; ● reparații accidentale; ● reparații capitale.
+Reparațiile curente 23.49.
+Reparațiile curente se fac pentru remedierea defecțiunilor constatate cu ocazia verificărilor și reviziilor și au drept scop menținerea siguranței în funcționare a instalațiilor, ca de exemplu: - înlocuirea garniturilor sau a presetupelor armăturilor obiectelor sanitare defecte pentru eliminarea pierderilor de apă;
+- înlocuirea armăturilor obiectelor sanitare defecte de tip cu ventil cu garnitură cu armături cu plăcuțe ceramice rezistente la uzură;
+- înlocuirea robinetelor cu flotor defecte de la rezervoarele de closet sau pisoare;
+- schimbarea rezervoarelor de closet sau de pisoare de înălțime, cu rezervoare de mică sau joasă înălțime pentru ușurința de control și remediere a robinetelor cu flotor;
+- înlocuirea obiectelor sanitare defecte cu obiecte sanitare cu forme și dimensiuni care conduc la consum redus de apă;
+- înlocuirea garniturilor defecte de la vane și robinete de închidere și separare;
+- refacerea izolației deteriorate.
+23.50.
+Reparațiile curente la rețelele exterioare de alimentare cu apă rece și apă caldă sunt, de exemplu: - refacerea termoizolației conductelor de apă caldă defecte din canalele exterioare de protecție;
+- reparații la defecțiunile rețelei exterioare de alimentare cu apă rece și apă caldă;
+- refaceri ale canalelor exterioare de protecție pentru conductele de apă caldă;
+23.51.
+Reparațiile curente la stațiile de pompare și de hidrofor sunt, de exemplu: - schimbarea garniturilor de etanșare defecte de la armături;
+- înlocuirea flotoarelor defecte;
+- înlocuirea aparatelor de măsură defecte;
+- schimbarea cuplungurilor defecte de la pompe;
+- refacerea izolației defecte de la conducte;
+- fixarea pompelor pe postament.
+23.52.
+Reparațiile curente la instalații de canalizare sunt, de exemplu: - înlocuirea capacelor uzate și defecte la căminele de vizitare;
+- înlocuirea grătarelor uzate și defecte la gurile de scurgere;
+- fixarea treptelor dislocate și înlocuirea celor uzate la căminele de vizitare;
+- repararea rețelei defecte (tuburi, îmbinări, rigole);
+- repararea zidăriilor, tencuielilor și a altor elemente de construcție care compun canalele și lucrările accesorii acestora;
+- repararea pavajelor deteriorate de exfiltrații anormale și/sau de defecțiuni ale canalizării.
+Reparațiile accidentale 23.53.
+Reparațiile accidentale sunt reparațiile care trebuie efectuate îndată ce a apărut o defecțiune care periclitează siguranța în funcționare a instalației.
+23.54.
+La instalațiile de pompare comune pentru consum menajer și incendiu sau la cele independente de incendiu se vor respecta prevederile din instrucțiunile de funcționare și verificare periodică ale instalațiilor prevăzute pentru stingerea incendiilor, care trebuiesc să cuprindă modul de utilizare și întreținere a instalațiilor în situație normală și în caz de incendiu.
+Reparații capitale 23.55.
+Reparațiile capitale constau în înlocuirea parțială sau totală a unor părți din instalațiile sanitare.
+23.56.
+Reparațiile capitale sunt planificate și țin seama de durata de folosință a elementelor instalației și de rezultatele verificărilor anterioare.
+23.57.
+Reparațiile capitale se fac cu scopul restabilirii complete a capacității de lucru a instalațiilor sanitare în vederea realizării caracteristicilor tehnice inițiale.
+24.
+SCOATEREA ȘI REPUNEREA ÎN FUNCȚIUNE A INSTALAȚIILOR DE ALIMENTARE CU APĂ 24.1.
+Instalațiile de alimentare cu apă, care, după recepție, nu sunt puse în funcțiune până la patru săptămâni sau care sunt în conservare, se închid și se golesc complet prin obiectele sanitare și robinetele de golire. Dacă recepția se face în sezonul rece, iar instalația de încălzire nu funcționează în perioada respectivă, instalațiile de alimentare cu apă se golesc imediat după recepție indiferent de mărimea perioadei de întrerupere.
+24.2.
+Instalațiile aferente clădirilor cu program sezonier se verifică, făcându-se remedierile și reparațiile necesare după care se închid și se golesc, în vederea conservării.
+24.3.
+În clădirile de locuințe unifamiliale, în cazul unei absențe mai mari de trei zile, se recomandă să se închidă robinetul de alimentare după echipamentul de măsurare și să se golească instalația. În cazul clădirilor cu mai multe apartamente și cu încălzire proprie pe apartament se recomandă să se închidă coloanele, respectiv ramificațiile care asigură alimentarea cu apă a apartamentelor neutilizate și să se golească instalația.
+24.4.
+Înainte de închiderea instalației de alimentare cu apă de la robinetul general, de după echipamentul de măsurare sau cel de pe coloană sau ramificații, se controlează dacă robinetele și bateriile de la punctele de consum sunt închise.
+24.5.
+Nu se recomandă menținerea sub presiune și fără supraveghere a instalațiilor de alimentare cu apă nefolosită pe o perioadă mai lungă de timp deoarece se poate ajunge la agravarea unor defecțiuni, având drept urmare degradarea și/sau inundarea clădirii, precum și deprecierea calității apei prin stagnare.
+REPUNEREA ÎN FUNCȚIUNE A INSTALAȚIILOR DE ALIMENTARE CU APĂ (RECE SAU CALDĂ) 24.6.
+La repunerea în funcțiune a instalațiilor de alimentare cu apă se urmărește: - eliminarea aerului din instalație;
+- spălarea instalației; o viteză de minim 1 m/s va trebui asigurată pe fiecare dintre tronsoanele vizate;
+- verificarea și remedierea eventualelor defecțiuni;
+- reglarea instalației;
+- se aplică o procedură de dezinfecție; este obligatorie spălarea instalației înaintea dezinfecției. Alegerea substanțelor dezinfectate se face în funcție de problemele observate.
+24.7.
+Repunerea în funcțiune se face respectând următoarele operații: - deschiderea parțială a armăturii folosite pentru închiderea instalației și deschiderea progresivă a robinetului, respectiv bateriei aflate în poziția cea mai depărtată și la cea mai mare înălțime, pentru eliminarea aerului, și evitarea loviturilor de berbec.
+Operația se repetă pentru toate coloanele și ramificațiile.
+- deschiderea completă, după eliminarea aerului, a armăturilor de închidere și umplerea instalației cu apă, închiderea armăturii făcându-se odată cu apariția apei;
+- spălarea instalației după umplere se face lăsând să curgă sub formă de jet, câteva minute, pe fiecare robinet în parte. în acest timp, se recomandă ca celelalte robinete (baterii) să fie închise;
+- verificarea instalației, care se face cu instalația sub presiune și cu toate robinetele și bateriile închise.
+Verificarea constă în controlul vizual al etanșeității armăturilor, îmbinărilor și conductelor și a stării generale a instalației.
+24.8.
+La instalațiile dotate cu stații de pompare, înainte de pornirea pompelor se verifică dacă acestea sunt în stare de funcționare.
+24.9.
+Dacă instalația este prevăzută cu recipienți de hidrofor, înainte de punerea în funcțiune, se reface perna de aer prin punerea în funcțiune a compresorului, care trebuie să funcționeze până când manometrul indică o presiune egală cu valoarea presiunii inițiale, de lucru.
+24.10.
+După verificarea instalației și remedierea eventualelor defecțiuni, se reglează instalația.
+25.
+PROTECȚIA, SIGURANȚA ȘI IGIENA MUNCII 25.1.
+Pe toată durata de exploatare a instalațiilor sanitare (inclusiv revizii, reparații, înlocuiri, dezinfectări) se respectă cerințele referitoare la protecția, securitatea și igiena muncii.
+25.2.
+Verificările, probele și încercările echipamentelor componente ale instalațiilor sanitare se efectuează respectându-se instrucțiunile specifice de protecție a muncii în vigoare pentru fiecare categorie de echipamente.
+25.3.
+Zonele periculoase sau cele cu instalații în probe se îngrădesc și se avertizează, interzicându-se accesul persoanelor neautorizate.
+25.4.
+Instrucțiunile de protecție, siguranță și igiena muncii pentru exploatarea rețelelor exterioare de canalizare și a construcțiilor aferente (cămine, hasnale, separatoare de grăsimi și nămol etc.), cuprind și indicații privind: - măsuri de igienă personală a celor care lucrează la exploatare pentru evitarea pericolului de îmbolnăvire sau contaminare a persoanelor cu care vin în contact;
+- măsuri de curățire și, după caz, de dezinfecție a echipamentului de protecție și interdicția utilizării acestuia în afara serviciului;
+- măsuri de protecție în timpul lucrului.
+25.5.
+Înainte de intrarea în căminul de vizitare se face aerisirea acestuia, după caz - timp de 1/2 - 3 ore.
+În cazul intrării în cămine, a curățirii hasnalelor și separatoarelor de grăsimi și nămol, în vederea executării unor reparații, se folosește masca de gaze, iar lucrătorul este supravegheat de alți doi oameni care, la nevoie, să-l poată trage în exterior cu ajutorul unor frânghii.
+25.6.
+Măsurile de protecția muncii menționate la articolele anterioare, nu sunt limitative și se completează cu măsurile de protecție a muncii specificate cuprinse în instrucțiunile de exploatare ale instalațiilor respective, care se afișează la locul de muncă.
+26.
+INDICAȚII FINALE 26.1.
+Exploatarea în bune condițiuni a instalațiilor sanitare se face printr- o activitate permanentă și competentă. Rezultatele controalelor, verificărilor și reviziilor instalației se consemnează într-un registru anume întocmit, după modelul din ANEXA 6.
+26.2.
+Evidența lucrărilor de reparații curente se ține într-un registru special, întocmit după modelul din ANEXA 7.
+26.3.
+Lucrările de reparații capitale, modernizări, extinderi, modificări etc. se fac și se recepționează conform legii.
+26.4.
+La toate instalațiile sanitare se recomandă ținerea evidenței consumului de apă astfel: - la instalațiile mari, la care exploatarea instalațiilor sanitare se face de către un personal permanent - pe două sau trei schimburi - evidența consumului se face într-un registru de evidență, întocmit conform ANEXEI 8;
+- la instalațiile mici, cu consum redus de apă și un personal de exploatare cu activitate zilnică într-un singur schimb sau numai de câteva ore, se ține numai evidența consumului zilnic de apă.
+26.5.
+În cazul schimbării - temporar sau definitiv - a personalului de exploatare sau în cazul unor intervenții speciale, se întocmește un proces verbal de predare-primire, după modelul celui din ANEXA 9.
+26.6.
+Lucrările de întreținere și reparații în care se utilizează foc deschis, se execută numai pe baza permisului de lucru cu foc deschis, emis conform normelor generale de apărare împotriva incendiilor.
+26.7.
+În ANEXA 10 este prezentat modelul de Proces Verbal pentru lucrări ascunse.
+26.8.
+Modelul de Proces Verbal la încheierea fazei determinante este prezentat în ANEXA 11.
+26.9.
+Toate documentele menționate mai sus constituie anexe la cartea tehnică a construcției.
+ANEXE la Normativul privind proiectarea, execuția și exploatarea instalațiilor sanitare aferente clădirilor
+Anexa nr. 1
+Anexa nr. 1.1
+Necesarul specific de apă, V(s,zi) și necesarul specific de apă caldă V(s,zi,ac) pentru clădirile de locuit în funcție de modul de preparare a apei calde de consum, de gradul de dotare cu obiecte sanitare și a contorizării consumului de apă. În lipsa unei teme de proiectare se recomandă să se considere un număr de 2,7 persoane/apartament.
+Felul preparării apei calde și dotarea cu obiecte sanitare
+Necesar specific de apă V(s,zi) [l/zi.pers]
+Necesarul specific total de apă rece V(s,zi) pentru cazul:
+Din care necesarul specific de apă caldă de 60 ºC, V(s,zi,ac) pentru cazul: 1 2 3 1 2 3
+a) prepararea centrală a apei calde:
+- apartamente cu closet, lavoar, cadă de baie și spălător 280 210 140 110 90 45- 60
+- apartamente cu closet, lavoar, cadă de duș și spălător 210 140 120 90 70 40- 55
+b) prepararea locală a apei calde cu încălzitoare instantenee cu gaze sau energie electrică:
+- apartamente cu closet, lavoar, cadă de baie sau duș și spălător 140 120 100 70 60 45
+c) preparare locală a apei calde cu cazane cu acumulare funcționând cu lemne, cărbuni, combustibil lichid sau gaze
+- apartamente cu closet, lavoar, cadă de baie sau duș și spălător 120 100 80 60 50 40
+Notă: cazul 1 - fără contorizare și cu armături vechi cazul 2 - cu contorizare și cu armătări vechi cazul 3 - cu contorizare și cu armături eficiente
+Anexa nr. 1.2
+Necesarul specific de apă, V(s,zi) și necesarul specific de apă caldă V(s,zi,ac) pentru clădiri (cu excepția clădiri de locuit)
+Nr. crt.
+Destinația clădirii
+Necesar total specific de apă, V(s,zi) [l/unitate consum,zi], [l/unitate,zi]
+Necesarul total apă rece V(s,zi) la 10ºC
+Din care necesarul specific de apă caldă de 60ºC, V(s,zi,ac)
+1.
+Birouri (pentru un funcționar pe schimb) 20 5
+2.
+Cluburi, case de cultură și teatre
+- actori (pentru o persoană pe zi) 35 15
+- spectatori, vizitatori (pentru 1 mp, suprafață utilă) 0,15 0,03
+3.
+Grupuri sanitare in spații comerciale, centre comerciale, magazine (pentru 1 mp, suprafață utilă) 0,15 0,03
+Grup sanitar pentru public, cu utilizare frecventă (pentru aprox. 150 consumatori/zi) 1500 l/grup sanitar
+4.
+Cantine, restaurante, bufete:
+- Catering, 2 mese pe zi 55 21
+- Catering, 2 mese pe zi (autoservire, tip bufet). 20 8
+- Catering, 1 masă pe zi. 30 10
+- Catering, 1 masă pe zi (autoservire, tip bufet) 10 4
+- Cantine și restaurante (pentru o persoană, o masă la prânz pe zi) 25 10
+- Cantine și restaurante (pentru o persoană, trei mese pe zi) 75 30
+5.
+Clădiri pentru cazare elevi, studenți, persoane în vârstă (pentru un ocupant pe zi)
+- cu obiecte sanitare în grupuri sanitare comune 75 30
+- cu lavoare în camere 100 40
+- cu grupuri sanitare pentru fiecare cameră 130 50 cu nivel de dotare superior (cu sauna, jacuzzi etc.) 200 80
+6.
+Clădiri pentru copii (creșe, grădinițe):
+- creșe, grădinițe cu program redus 20 8
+- creșe, grădinițe cu program prelungit - fără cazare 25 10
+- creșe, grădinițe - cu cazare 100 40
+7.
+Hoteluri și pensiuni (pentru un loc cazare):
+- Hostel pentru studenți (clădire turism cazare pentru tineri, cu buget restrâns) 100 40
+- Hotel, 1-stea, fără spălătorie 140 56
+- Hotel, 1-stea, cu spălătorie 175 70
+- Hotel, 2-stele, fără spălătorie 190 76
+- Hotel, 2-stele, cu spălătorie 225 90
+- Hotel, 3-stele, fără spălătorie 243 97
+- Hotel, 3-stele, cu spălătorie 277 111
+- Hotel, 4-stele, fără spălătorie 295 118
+- Hotel, 4-stele, cu spălătorie 330 132
+8.
+- Dispensare, policlinici (pentru un bolnav, pe zi);
+- Se utilizează valorile din normele specifice 15 3
+9.
+Clădire sănătate (pentru un pacient, pentru o zi):
+- Clădire sănătate, tratament ambulatoriu (fără cazare) 25 10
+- Clădire sănătate, tratament cu cazare, fără spălătorie 140 56
+- Clădire sănătate, tratament cu cazare, cu spălătorie 220 88
+- Spital - Se utilizează valorile din normele specifice
+10.
+Sanatorii, centre recuperare (pentru un pacient pe zi):
+- cu căzi de baie și dușuri în grupuri sanitare 280 115
+- cu căzi de baie pentru fiecare cameră, pentru bolnavi 412 165
+- cu căzi de baie pentru fiecare cameră, pentru tratamente balneologice 560 225
+11.
+- Școli (pentru un elev pe program) fără dușuri sau băi 20 5
+12.
+Clădire de sport pentru elevi:
+- fără dușuri în grupurile sanitare, pentru un utilizator 20 5
+- cu dușuri în grupurile sanitare, pentru un duș instalat 50 20
+13.
+Grupuri sanitare pentru terenuri de sport, stadioane (pentru o manifestare sportivă):
+- pentru spectatori (pentru 1 mp, suprafață utilă) 0,07 0,03
+- pentru un sportiv 50 20
+14.
+Clădiri pentru transport: gări, aeroporturi (pentru 1 mp, suprafață utilă) 0,07 0,03
+15.
+Spălătorii (pentru un kilogram de rufe uscate)
+- cu spălare semimecanizată 50 25
+- cu spălare mecanizată 55 30
+16.
+Clădiri industriale (pentru un muncitor pe schimb, pentru consum menajer personal, igienă) cu procese tehnologice din grupa:
+I 50 20
+II 60 25
+III a) 60 25
+b) 75 30
+IV 75 30
+V 85 40
+VI a) 60 25
+b) 75 30
+Notă - grupele tehnologice sunt definite conform STAS 1478-90, tabel 2
+OBSERVAȚII: a)
+Durata maximă de utilizare a dușurilor și lavoarelor în vestiarele clădirilor industriale este de 45 min. pentru fiecare schimb.
+b)
+Datele din tabelul 4 se iau în considerare la calculul necesarului de energie termică pentru prepararea apei calde de consum și la stabilirea capacității rezervorului de acumulare (pentru apă rece și apă caldă de consum).
+c)
+Necesarurile specifice de apă din tabel pot fi reduse dacă se prevăd armături performante și/sau măsuri de reducere a pierderilor și a risipei de apă.
+d)
+Necesarurile specifice de apă din tabel pot fi mărite în cazul în care nu se prevede sistemul de recirculare a apei calde de consum, aplicând coeficienți de penalizare, conform metodologiei de calcul Mc 001.
+Anexa nr. 1.3
+Diametre interioare, în mm, utilizate pentru dimensionarea instalațiilor interioare de alimentare cu apă rece și caldă de consum (extras din SR EN 806-2). Grosimea peretelui conductei depinde de presiunea nominală a conductei. Diametrele oferite în tabel corespund presiunii nominale de 6 bar (conducte Pn6).
+Diametre
+Diametre interioare, valori de calcul [mm]
+Material 1/2” 3/4” 1” 1 1/4” 1 1/2” 2” 2 1/2”
+Oțel galvanizat
+Dn [mm] 15 20 25 32 40 50 65
+Di [mm] 16 21.6 27,2 35,9 41,8 53 68,8
+Cupru
+De x s [mm] 12 x 1,0 15 x 1,0 18 x 1,0 22 x 1,0 28 x 1,5 35 x 1,5 42 x 1,5 54 x 2 76,1 x 2
+Di [mm] 10 13 16 20 25 32 39 50 72,1
+Oțel inoxidabil
+De x s [mm] 15 x 1,0 18 x 1,0 22 x 1,0 28 x 1,2 35 x 1,5 42 x 1,5 54 x 1,5 76,1 x 2
+Di [mm] 13,0 16,0 19,6 25,6 32 39 51 72,1
+PEX
+De x s [mm] 12 x 1,7 16 x 2,2 20 x 2,8 25 x 3,5 32 x 4,4 40 x 5,5 50 x 6,9 63 x 8,6
+Di [mm] 8,4 11,6 14,4 18,0 23,2 29 36,2 45,6
+PB
+De x s [mm] 12 x 1,3 16 x 1,5 20 x 1,9 25 x 2,3 32 x 3 40 x 3,7 50 x 4,6 63 x 5,8
+Di [mm] 9,4 13,0 16,2 20,4 26 32,6 40,8 51,4
+PP
+De x s [mm] 16 x 2,7 20 x 3,4 25 x 4,2 32 x 5,4 40 x 6,7 50 x 8,4 63 x 10,5 75 x 12,5
+Di [mm] 10,6 13,2 16,6 21,2 26,6 33,2 42 50
+PVC-C
+De x s [mm] 16 x 2,0 20 x 2,3 25 x 2,8 32 x 3,6 40 x 4,5 50 x 5,6 63 x 6,9
+Di [mm] 12,0 15,4 19,4 24,8 31 38,8 49,2
+PEX/AL/ PE-HD resp. PE- MD/AL/ PE-HD
+De x s [mm] 16 x 2,25/16 x 2,0 18 x 2 20 x 2,5 26 x 3 32 x 3 40 x 3,5 50 x 4 63 x 4,5
+Di [mm] 11,5/12,0 14 15 20 26 33 42 54
+Di - diametru interior, Dex - diametru exterior; s - grosimea peretelui conductei; Di = De - 2 x s; valorile sunt date în mm.
+Pentru materiale nemenționate în tabel, se vor considera diametrele cu cele mai apropiate valori cu cele din tabel.
+Alegerea diametrului conductei se realizează prin respectarea condiției de diametru minim, respectiv diametrul interior al conductei alese trebuie să fie mai mare decât valoarea diametrului obținută prin metoda indicată.
+Grosimea peretelui conductei se modifică în funcție de material și presiunea nominală a conductei.
+Anexa nr. 2
+Anexa nr. 2.1A
+Debitele specifice de apă V(s), unități de consum U(i), diametrul minim interior al conductei de alimentare cu apă rece sau caldă și presiunea de utilizare pentru diferite armături în scopuri menajere și igienice, definite pentru clădiri de locuit, utilizate în calculul de dimensionare
+Obiect sanitar montat în apartament/clădire de locuit
+V(s), debit minim necesar asigurat de armătura sau robinet
+Unitate de consum, U(i) pentru o armătură
+Diametrul minim interior al conductei de alimentare cu apă rece sau caldă, pentru armătura respectivă [l/s] [-] [mm]
+BATERII pentru:
+Lavoar montat în grup sanitar echipat cu lavoar si vas closet (grup sanitar secundar) 0,10 1 10
+Lavoar montat în grup sanitar echipat cu minim lavoar, vas closet, cadă baie sau cadă duș. 0,15 1,5 10
+Bideu 0,10 1 10
+Duș 0,20 2 12
+Spălător, baterie 1/2” 0,20 2 12
+Spălător, baterie 3/4” 0,33 3 13
+Cada baie, cu capacitate < 150 l 0,25 3 13
+Cadă baie, cu capacitate > 150 l 0,33 4 13
+Cabină duș cu panel multijet
+Conform fișei tehnice, a producătorului 4
+Conform fișei tehnice, a producătorului
+Alte echipamente
+Conform fișei tehnice, a producătorului
+ROBINETE pentru
+Vas closet cu rezervor de spălare 0,12 1 10
+Vas closet cu robinet (spălare sub presiune) 1,5 15
+Minim diametrul robinetului
+Mașină spălat vase, robinet 0,20 2 12
+Mașină spălat rufe, robinet 0,20 2 12
+Robinet dublu serviciu, 1/2" 0,25 3
+Minim diametrul robinetului
+Robinet dublu serviciu, 3/4" 0,42 4
+Minim diametrul robinetului
+Nota 1 - Presiunea minimă de utilizare se consideră în intervalul de 1-1,5 bar, atunci când valoarea nu este specificată în fișa tehnică a armăturii. Pentru vasul closet sub presiune sau pentru cabina duș cu panel, se recomandă o presiune de utilizare de 2,5 bar. Pentru toate armăturile, se recomandă utilizarea presiunilor de utilizare din fișele tehnice aferente.
+Nota 2 - Pentru toate armăturile, se recomandă utilizarea presiunilor de utilizare din fișele tehnice aferente.
+Anexa nr. 2.1B
+Debitele specifice de apă V(s), echivalenții de debit, diametrul minim interior al conductei de alimentare cu apă rece sau caldă și presiunea de utilizare pentru diferite armături în scopuri menajere și igienice, montate în clădiri (cu exceptia clădirilor de locuit), utilizate în calculul de dimensionare
+Obiect sanitar
+V(s), debit minim necesar asigurat de armătura sau robinet
+Echivalent de debit, e(1) (definit pentru baterii pentru apă rece și caldă)
+Echivalent de debit, e(2) (definit pentru robinete pentru apă rece)
+Diametrul minim interior al conductei de alimentare cu apă rece sau caldă [l/s] [-] [-] [mm]
+BATERII pentru:
+Lavoar montat în grupuri sanitare pentru spații comune 0,10 0,5 10
+Lavoar montat în grupuri sanitare echipate cu cada baie sau dus 0,15 0,75 10
+Bideu 0,10 0,50 10
+Duș 0,20 1 12
+Spălător, baterie 1/2” 0,20 1 12
+Spălător, baterie 3/4” 0,33 1,65 13
+Cada baie, cu capacitate < 150 l 0,25 1,25 13
+Cadă baie, cu capacitate > 150 l 0,33 1,65 13
+Cabină duș cu panel multijet
+Conform fișei tehnice, a producătorului
+Alte echipamente
+Conform fișei tehnice, a producătorului
+ROBINETE pentru
+Vas closet cu rezervor de spălare 0,12 0,6 10
+Vas closet cu robinet (spălare sub presiune) 1,5 7,5
+Minim diametrul robinetului
+Pisoar cu robinet individual 0,15 0,75 10
+Pisoar cu spălare prin acțiune vacuumatică 0,50 2,50
+Minim diametrul robinetului
+Mașină spălat vase, robinet 0,2 1 12
+Mașină spălat rufe, robinet 0,2 1 12
+Robinet dublu serviciu, 1/2" 0,25 1,25
+Minim diametrul robinetului
+Robinet dublu serviciu, 3/4" 0,42 2,1
+Minim diametrul robinetului
+Chiuvetă 0,2 1 12
+Alte echipamente
+Conform fișei tehnice, a producătorului
+Nota 1 - Presiunea minimă de utilizare se consideră în intervalul de 1-1,5 bar, atunci când valoarea nu este specificată în fișa tehnică a armăturii. Pentru vasul closet sub presiune sau pentru cabina duș cu panel, se recomandă o presiune de utilizare de 2,5 bar Pentru toate armăturile, se recomandă utilizarea presiunilor de utilizare din fișele tehnice aferente.
+Nota 2 - Debitele armăturilor prezente în tabel sunt debite de calcul, și reprezintă valori minime de calcul.
+Nota 3 - Echivalentul de debit pentru o armătură este raportul dintre debitul specific al armăturii și un debit standard (etalon) cu valoarea de 0,20 l/s
+Nota 4 - pentru armăturile nemenționate în tabelul de mai sus, se pot considera valorile de debit și presiune preluate din fișele tehnice ale armăturii respective.
+Anexa nr. 3
+STAȚII DE POMPARE
+Soluție cu 1 pompă/grup de pompare
+Soluție cu 2 pompe/2 grupuri de pompare
+Anexa nr. 4
+Apa caldă de consum, recircularea apei calde de consum
+În această anexă este prezentat un exemplu de dimensionare al traseului conductei de recirculare a apei calde de consum pentru schema de distribuție prezentată în Figura A.4.1. Rețeaua de conducte fiind realizată din oțel zincat sunt prezentate diametrele nominale ale conductelor și, ulterior, diametre exterioare ce intervin în calculul transmitanței termice liniare (a se vedea relațiile 11.17). Schema de calcul este prezentată de principiu în Figura A.4.2.
+Figura A.4.1. Rețea interioară de distribuție a apei calde, diametre nominale pentru conducte de oțel și lungimi caracteristice.
+Figura A4.2. Schema de calcul, prezentată de principiu, pentru dimensionarea conductei de recirculare.
+În tabelul A4.1 sunt centralizate datele de intrare (diametrele tronsoanelor, lungimile tronsoanelor și transmitanța termică liniară a conductei izolate). Transmitanța este calculată pe coloana 5. Se poate utiliza fie relația (11.16) fie relațiile simplificate, a se vedea (11.17) în funcție de clasa de izolație aleasă. în tabelul A.4.1 s-a utilizat relația simplificată pentru izolație de clasa 1.
+În tabelul A4.1 sunt calculate pierderile termice pentru toate tronsoanele aferente schemei de principiu din Figura A.4.2 și pierderea termică totală. Pentru a completa coloana 6 s-a considerat o diferență de temperatură între apa caldă și mediul înconjurător de 39 °C. Pentru a calcula pierderea termică pe toată lungimea tronsonului (coloana 7) se înmulțește lungimea tronsonului cu pierderea termică specifică, calculată anterior pe coloana 6.
+Tabelul A4.1 Centralizare pierderi termice pe tronsoane și respectiv pierderea termică totală
+Tronson
+Diametru nominal [”]
+Diametru exterior [mm]
+Lungime tronson [m]
+Transmitanță termică liniară a conductei izolate [W/mK]
+Pierderea termică specifică pe 1 m de conductă Q [W/m]
+Pierdere termică pe toată lungimea tronsonului Q [W] 1 2 3 4 5 6 7
+A-B 2 61 3 0,42 16,4 49,3
+B-1 3/4 27 3 0,31 12,1 36,2 1 34 6 0,33 13,0 77,7 11/2 49 6 0,38 14,9 89,3
+B-C 2 61 12 0,42 16,4 197,2
+C-2 3/4 27 3 0,31 12,1 36,2 1 34 6 0,33 13,0 77,7 11/2 49 6 0,38 14,9 89,3
+C-D 2 61 12 0,42 16,4 197,2
+D-3 3/4 27 3 0,31 12,1 36,2 1 34 6 0,33 13,0 77,7 11/2 49 6 0,38 14,9 89,3
+D-4 3/4 27 3 0,31 12,1 36,2 1 34 6 0,33 13,0 77,7 11/2 49 20 0,38 14,9 297,7 4-3 3/4 27 10 0,31 12,1 120,5 3-2 3/4 27 10 0,31 12,1 120,5 2-1 3/4 27 10 0,31 12,1 120,5 1-A 3/4 27 30 0,31 12,1 361,6
+Pierderi termice totale [W] 2188
+Odată calculate pierderile termice totale, se poate trece la pasul următor. Presupunem că temperatura apei la ieșirea din echipamentul de preparare este menținută constantă la 60 °C. Se impune ca temperatura apei calde de consum în sistem să nu scadă, de exemplu, sub 55 °C. Astfel că se poate calcula debitul de apă caldă recirculată, V(recirculare), care corespunde pierderilor termice totale. Acesta va fi și debitul luat în recirculare calcul la nivelul pompei de circulație.
+V_recirculare = Q/(4180 x Delta θ) = 2188/[4180 (60 - 55)] = 0,10 [l/s] A.4.1
+Se rescrie relația A.4.1 astfel încât, știind că pierderea termică pe tronsonul A-B este de 49,3 W se poate calcula temperatura în B utilizând relația A.4.2. Se obține temperatura în punctul B 59,88 °C. Similar se poate calcula temperatura în punctul 1 deoarece se cunosc temperatura finală în punctul A și pierderea de căldură pe ramura între 1 și A. Astfel aflăm diferența de temperatură între B și 1 și implicit putem afla debitul de apă recirculată corespunzător ramurii B-1. θ (ac., ieșire tronson) = θ (ac., intrare tronson) = Q (tronson)/4180 x V (recirculare) A.4.2
+Diametrele conductelor pe traseul de recirculare se aleg ținând cont de viteza maximă admisă, a se vedea paragraful 11.43.
+Odată ce diametre au fost stabilite se poate trece la calculul pierderilor de sarcină pentru alegerea pompei de circulație. Se ia în calcul traseul cel mai dezavantajat, în general traseul cel mai lung. În Figura A.4.3 este hașurat cel mai lung traseu pentru exemplul de față. Se estimează că pierderile de sarcină pe tronsoanele A-B, B-C, C-D și D-4 sunt neglijabile deoarece conducta de distribuție a apei calde a fost dimensionată pentru debite sensibil mai mari decât debitul pentru recirculare.
+Pompa de circulație va trebui să asigure debitul minim calculat cu relația A.4.1. și suma pierderilor de sarcină de pe tronsoanele 4-3, 3-2, 2-1 și 1-A.
+Figura A.4.3. Cel mai lung traseu pentru calculul pierderilor de sarcină la nivelul pompei de circulație.
+Anexa nr. 5
+Canalizare
+Anexa nr. 5.1
+Tabel A5.1.1 Debitele specifice de curgere pentru ape uzate menajere de la diferite obiecte sanitare sau puncte de consum Vs, diametrele și pantele de montare ale conductelor de legătură de la obiectele sanitare la coloane (STAS 1795 și SR EN 12056-2) considerate pentru sistem II
+Nr. crt.
+Denumirea obiectelor sanitare
+Debitul specific de curgere V(s) [l/s] En 12056 Sistem II
+Diametrul minim nominal al conductei de legătură D(n) [mm]
+Panta de montare a conductei de legătură normală minimă 1
+Chiuvetă 0,5 40 0,035 0,025 2
+Lavoar 0,3 30 0,035 0,025 3
+Pisoar cu rezervor 0,5 40 0,035 0,025 4
+Pisoar cu robinet spălare fără rezervor 0,3 30 0,025 0,020 5
+Bideu 0,3 30 0,035 0,025 6
+Baie pentru picioare 0,5 40 0,035 0,025 7
+Albie de rufe 0,6 50 0,035 0,025 8
+Closet:
+Cu rezervor cu capacitate 4 l
+Cu rezervor cu capacitate 6 l
+Cu rezervor cu capacitate 7.5 l
+Cu rezervor cu capacitate 9 l 1,8 1,8 1,8 2 100 100 100 100 0,020 0,015 9
+Cadă de baie 0,6 50 0,035 0,025 10
+Cadă de baie pentru copii 0,3 40 0,035 0,025 11
+Spălător vase 0,6 50 0,035 0,025 12
+Sifon de pardoseală Dn50
+Sifon de pardoseală Dn70
+Sifon de pardoseală Dn100 0,9 0,9 1,2 50 70 100 0,035 0,035 0,035 0,025 0,025 0,025 13
+Mașină de spălat rufe max. 6 kg 0,6 40 0,035 0,025 14
+Mașină de spălat rufe max. 12 kg 1,2 60 0,035 0,025 15
+Mașină de spălat vase 0,6 50 0,035 0,025 16
+Duș cu cadă și dop de scurgere 0,5 40 0,035 0,025 17
+Duș fără dop de scurgere 0,4 40 0,035 0,025
+Valorile debitelor de curgere sunt stabilite doar în scopul realizării calculului și nu sunt preluate din fișele tehnice ale obiectelor sanitare în discuție.
+Tabel A5.1.2 - diametre tipice utilizate în canalizare, spre informare (diametre conform EN1519, PEHD)
+Diametru nominal Dn
+Diametru exterior De
+S, grosime perete
+Di, diametru interior (Di = De-2xS)
+Diametrul minim interior, conform SR EN 12056-2 [mm] [mm] [mm] [mm] [mm] 30 32 3 26 26 40 40 3 34 34 50 50 3 44 44 56 56 3 50 49 60 63 3 57 56 70 75 3 69 68 80 75 90 90 3,5 83 79 100 110 4,2 101,6 96 125 125 4,8 115,4 113 150 160 6,2 147,6 146 200 200 7,7 184,6 184 225 207 250 250 7,7 234,6 230 300 315 9,7 295,6 290 300 315 12,1 290,8 290
+Tabel A5.1.3 - diametre tipice utilizate în canalizare, spre informare (diametre conform EN 1451, PP)
+Diametru nominal Dn
+Diametru exterior De
+S, grosime perete
+Di, diametru interior (Di = De- 2xS)
+Diametrul minim interior, conform SR EN 12056-2 [mm] [mm] [mm] [mm] [mm] 30 32 1,8 28,4 26 40 40 1,8 36,4 34 50 50 1,8 46,4 44 70 75 2,6 69,8 68 90 90 3,1 83,8 79 100 110 3,4 103,2 96 125 125 3,9 117,2 113 150 160 4,9 150,2 146 200 200 6,2 187,6 184 250 250 7,7 234,6 230
+Tabel A5.1.4 - diametre nominale Dn și diametrele minime interioare, Di, conform SR EN12056-2
+Diametru nominal Dn
+Diametrul minim interior, stabilit în SR EN 12056-2 [mm] [mm] 30 26 40 34 50 44 56 49 60 56 70 68 80 75 90 79 100 96 125 113 150 146 200 184 225 207 250 230 300 290
+Anexa nr. 5.2
+Debite maxime corespunzătoare conductelor de legătură, în sistem II, neventilate (fără ventilare secundară), conform SR EN 12056-2 și STAS 1795.
+Obiect sanitar tipic, ca exemplu
+Diametrul conductei de legătură, Dn [mm], fără ventilare
+Debit maxim evacuat V(max) [l/s]
+Lavoar, bideu, pisoar fără rezervor 30 0,40 40 0,50
+Duș, cadă baie, spălător; mașină spălat vase, mașină spălat rufe (capacitatea max. 6 kg) 50 1,00
+Mașină spălat rufe (capacitatea max. 12 kg) 60 1,50 70 2,00
+Vas closet cu rezervor până la 7,5 l, suspendat; 90 (max. 1 WC) 2,25
+Vas closet montat pe pardoseală, cu rezervor până la 9 l 100 2,50
+Nota - pentru obiecte sanitare, diametrul conductei de legătură nu poate fi mai mic decât diametrul de racord al obiectului sanitar în instalația de canalizare; se consideră debitul maxim corespunzător diametrului ales pentru conducta de legătură.
+Anexa nr. 5.3
+Valori debite maxime corespunzătoare conductelor de legătură, în sistem II, ventilate (cu ventilare secundară) și obiecte sanitare tipice acolo unde este cazul, conform SR EN 12056-2 și STAS 1795.
+Obiect sanitar tipic, ca exemplu
+Debit maxim evacuat V(max), [l/s] -
+Diametrul conductelor de legătură (racord)
+Diametrul corespunzător al conductelor de ventilare, sistem II
+Dn [mm]
+Dn [mm]
+Lavoar, bideu, pisoar fără rezervor 0,60 30 30
+Lavoar, bideu, pisoar fără rezervor/mai multe obiecte sanitare 0,75 40 30
+Duș, cadă de baie, spălător, mașină spălat vase, mașină spălat rufe 1,50 50 30
+- 2,25 60 30
+- 3,00 70 40
+WC suspendat (maxim 2 vase closet) cu racord 90 mm 3,40 90 60
+WC cu racord 100 mm 3,75 100 60
+Nota - pentru obiecte sanitare, diametrul conductei de legătură nu poate fi mai mic decât diametrul de racord al obiectului sanitar în instalația de canalizare; se consideră debitul maxim corespunzător diametrului ales pentru conducta de legătură care este prevăzută cu ventilare secundară.
+Anexa nr. 5.4
+Debite maxime corespunzătoare coloanelor de canalizare menajeră, cu ventilare primară și diametrele corespunzătoare pentru coloana de ventilare primară exprimate în funcție de diametrul coloanei de canalizare menajeră.
+Diametrul coloanei de canalizare menajeră, Dn [mm]
+Diametrul conductei de ventilare primară corespunzătoare, Dn [mm]
+Valoarea maximă a debitului evacual prin coloana de canalizare menajeră V(max,) [l/s]
+Pentru conducte de legătură racordate în unghi aproape 90 º
+Pentru conducte de legătură racordate în unghi oblic, 45º 60 60 0,5 0,7 70 70 1,5 2,0 80 80 2,0 2,6 90 90 2,7 3,5 100 100 4,0 5,2 125 125 5,8 7,6 150 150 9,5 12,4 200 200 16,0 21,0
+Figura A5.4.1- variante de scheme canalizare, cu coloane de ventilare principală, naturală sau cu clapetă de ventilație (aerator cu membrană) 1 - cadă baie; 2 - lavoar; 3 - vas closet; 4 - sifon pardoseală (racordat la un lavoar sau cu obturator de miros); 5 - clapetă ventilație (aerator cu membrană); 6 - coloană de canalizare; 7 - conductă de legătură; 8 - colector canalizare; 9 - conductă de ventilare naturală primară
+Anexa nr. 5.5
+Debite maxime corespunzătoare coloanelor de canalizare menajeră, cu ventilare primară și diametrele corespunzătoare pentru coloana de ventilare primară, însoțite de ventilare auxiliară, exprimate în funcție de diametrul coloanei de canalizare menajeră
+Diametrul coloanei de canalizare menajeră, și diametrul ventilării primare Dn [mm]
+Diametrul conductei de ventilare auxiliară corespunzătoare, Dn [mm]
+Valoarea maximă a debitului evacual prin coloana de canalizare menajeră V(max) [l/s]
+Pentru conducte de legătură racordate în unghi aproape 90°
+Pentru conducte de legătură racordate în unghi oblic, 45° 60 50 0,7 0,9 70 50 2,0 2,6 80 50 2,6 3,4 90 50 3,5 4,6 100 50 5,6 7,3 125 70 7,6 10 150 80 12,4 18,3 200 100 21,0 27,3
+Figura A5.5.1- variante de scheme de canalizare, cu coloane de ventilare principală, naturală însoțite de ventilare secundară sau auxiliară; alternativ, pot fi folosite aeratoare cu membrană sau clapete de ventilație 1 - cadă baie; 2 - lavoar; 3 - vas closet; 4 - sifon pardoseală (racordat la un lavoar sau cu obturator de miros); 5 - clapetă ventilație (aerator cu membrană); 6 coloană de canalizare; 7 - conductă de legătură; 8 - colector canalizare; 9 - conductă de ventilare naturală primară; 10 - conductă de ventilare auxiliară pentru coloană; 11 conductă de ventilare secundară pentru conductele de legătură.
+Anexa nr. 5.6
+Diametrele coloanelor de canalizare menajeră cu ventilare primară și diametrele corespunzătoare pentru coloana de ventilare primară, însoțite de ventilare auxiliară cu lungimi mari și număr mare de schimbări direcție
+Diametrul coloanei de canalizare menajeră, și diametrul ventilării primare Dn [mm]
+Diametrul conductei de ventilare secundară sau auxiliară corespunzătoare, Dn [mm] 60 50 70 56 80 60 90 60 100 70 125 80 150 100 200 150
+Anexa nr. 5.7
+Debite și viteze la secțiune plină, pentru conducte circulare orizontale (colectoare), cu rugozitatea 1 mm, determinate cu formula Colebrook White:
+În care g - accelerația gravitațională;
+Di - diametrul interior al conductei [m] i - panta de montare a conductei [m/m] k - rugozitatea absolută a conductei; SR EN 12056 indică o valoare k = 1 mm (respectiv 0,001 m, care reflectă influența depunerilor pe pereții interiori ai conductei) visc - vâscozitatea cinematica a apei, determinată pentru o temperatură medie de 15°C; se poate considera valoarea 1,31 x 10^-6 mp/s
+Tabel A5.7.1 Debite și viteze la secțiune plină, pentru conducte circulare orizontale (colectoare), cu rugozitatea 1 mm, determinate cu formula Colebrook White
+DN 32 [mm]
+DN 40 [mm]
+DN 50 [mm]
+DN 75 [mm]
+Panta, i v(sp)
+V(sp) v(sp)
+V(sp) v(sp)
+V(sp) v(sp)
+V(sp) [m/m] [m/s] [l/s] [m/s] [l/s] [m/s] [l/s] [m/s] [l/s] 0,004 0,19 0,14 0,23 0,26 0,27 0,49 0,36 1,47 0,005 0,21 0,15 0,25 0,29 0,30 0,55 0,40 1,65 0,006 0,24 0,17 0,28 0,32 0,33 0,60 0,44 1,81 0,007 0,26 0,18 0,30 0,35 0,36 0,65 0,48 1,96 0,008 0,27 0,20 0,32 0,37 0,38 0,70 0,51 2,10 0,009 0,29 0,21 0,34 0,39 0,41 0,74 0,54 2,22 0,010 0,31 0,22 0,36 0,42 0,43 0,78 0,57 2,35 0,011 0,32 0,23 0,38 0,44 0,45 0,82 0,60 2,46 0,012 0,34 0,24 0,40 0,46 0,47 0,86 0,63 2,57 0,015 0,38 0,27 0,45 0,51 0,53 0,96 0,70 2,88 0,020 0,44 0,31 0,52 0,59 0,61 1,11 0,81 3,33 0,025 0,49 0,35 0,58 0,66 0,68 1,25 0,91 3,73 0,030 0,54 0,39 0,64 0,73 0,75 1,37 0,99 4,09 0,035 0,58 0,42 0,69 0,79 0,81 1,48 1,07 4,42 0,040 0,62 0,45 0,74 0,84 0,87 1,58 1,15 4,73 0,045 0,66 0,47 0,78 0,90 0,92 1,68 1,22 5,02 0,050 0,70 0,50 0,82 0,94 0,97 1,77 1,29 5,29 0,055 0,73 0,52 0,86 0,99 1,02 1,86 1,35 5,55 0,060 0,76 0,55 0,90 1,04 1,06 1,94 1,41 5,80 0,065 0,80 0,57 0,94 1,08 1,11 2,02 1,47 6,04 0,070 0,83 0,59 0,98 1,12 1,15 2,10 1,52 6,27 0,075 0,85 0,61 1,01 1,16 1,19 2,17 1,58 6,49 0,080 0,88 0,63 1,04 1,20 1,23 2,24 1,63 6,70 0,085 0,91 0,65 1,08 1,23 1,27 2,31 1,68 6,91 0,090 0,94 0,67 1,11 1,27 1,31 2,38 1,73 7,11 0,095 0,96 0,69 1,14 1,31 1,34 2,45 1,78 7,31 0,100 0,99 0,71 1,17 1,34 1,38 2,51 1,82 7,50
+DN 90 [mm]
+DN 110 [mm]
+DN 125 [mm]
+DN 160 [mm]
+Panta, i v(sp)
+V(sp) v(sp)
+V(sp) v(sp)
+V(sp) v(sp)
+V(sp) [m/m] [m/s] [l/s] [m/s] [l/s] [m/s] [l/s] [m/s] [l/s] 0,004 0,41 2,41 0,47 4,16 0,51 5,86 0,60 11,34 0,005 0,45 2,70 0,52 4,66 0,57 6,56 0,67 12,70 0,006 0,50 2,96 0,57 5,11 0,62 7,19 0,74 13,92 0,007 0,54 3,20 0,62 5,53 0,68 7,78 0,80 15,05 0,008 0,58 3,42 0,66 5,92 0,72 8,32 0,85 16,10 0,009 0,61 3,63 0,70 6,28 0,77 8,83 0,90 17,09 0,010 0,65 3,83 0,74 6,62 0,81 9,31 0,95 18,02 0,011 0,68 4,02 0,78 6,95 0,85 9,77 1,00 18,91 0,012 0,71 4,20 0,81 7,26 0,89 10,21 1,05 19,76 0,015 0,79 4,70 0,91 8,13 0,99 11,43 1,17 22,11 0,020 0,92 5,44 1,05 9,40 1,15 13,22 1,35 25,56 0,025 1,03 6,09 1,18 10,52 1,28 14,79 1,51 28,59 0,030 1,13 6,68 1,29 11,53 1,41 16,21 1,66 31,34 0,035 1,22 7,21 1,40 12,46 1,52 17,52 1,79 33,86 0,040 1,30 7,72 1,49 13,33 1,63 18,73 1,92 36,21 0,045 1,38 8,19 1,58 14,14 1,73 19,87 2,03 38,42 0,050 1,46 8,63 1,67 14,91 1,82 20,96 2,14 40,51 0,055 1,53 9,06 1,75 15,64 1,91 21,98 2,25 42,49 0,060 1,60 9,46 1,83 16,34 1,99 22,97 2,35 44,39 0,065 1,66 9,85 1,91 17,01 2,08 23,91 2,45 46,21 0,070 1,72 10,22 1,98 17,66 2,15 24,81 2,54 47,96 0,075 1,78 10,59 2,05 18,28 2,23 25,69 2,63 49,65 0,080 1,84 10,93 2,12 18,88 2,30 26,53 2,71 51,28 0,085 1,90 11,27 2,18 19,46 2,37 27,35 2,80 52,87 0,090 1,96 11,60 2,24 20,03 2,44 28,15 2,88 54,41 0,095 2,01 11,92 2,31 20,58 2,51 28,92 2,96 55,90 0,100 2,06 12,23 2,37 21,12 2,58 29,68 3,04 57,36
+DN 200 [mm]
+DN 250 [mm]
+DN 300 [mm]
+Panta, i v(sp)
+V(sp) v(sp)
+V(sp) v(sp)
+V(sp) [m/m] [m/s] [l/s] [m/s] [l/s] [m/s] [l/s] 0,004 0,70 20,52 0,81 37,15 0,92 62,60 0,005 0,78 22,97 0,90 41,58 1,03 70,06 0,006 0,85 25,19 0,99 45,59 1,12 76,80 0,007 0,92 27,23 1,07 49,27 1,21 83,00 0,008 0,99 29,13 1,14 52,70 1,30 88,78 0,009 1,05 30,91 1,21 55,93 1,38 94,20 0,010 1,11 32,60 1,28 58,97 1,45 99,33 0,011 1,16 34,20 1,34 61,87 1,52 104,21 0,012 1,21 35,73 1,40 64,64 1,59 108,87 0,015 1,36 39,98 1,57 72,32 1,78 121,79 0,020 1,57 46,21 1,81 83,57 2,06 140,72 0,025 1,75 51,69 2,03 93,48 2,30 157,41 0,030 1,92 56,65 2,22 102,45 2,52 172,49 0,035 2,08 61,21 2,40 110,69 2,73 186,36 0,040 2,22 65,46 2,57 118,36 2,92 199,27 0,045 2,35 69,44 2,72 125,56 3,09 211,40 0,050 2,48 73,22 2,87 132,38 3,26 222,87 0,055 2,60 76,80 3,01 138,86 3,42 233,77 0,060 2,72 80,23 3,15 145,05 3,57 244,20 0,065 2,83 83,52 3,27 150,99 3,72 254,19 0,070 2,94 86,68 3,40 156,71 3,86 263,81 0,075 3,04 89,73 3,52 162,22 4,00 273,09 0,080 3,14 92,68 3,63 167,56 4,13 282,07 0,085 3,24 95,54 3,75 172,73 4,25 290,77 0,090 3,33 98,32 3,85 177,75 4,38 299,22 0,095 3,42 101,02 3,96 182,63 4,50 307,43 0,100 3,51 103,65 4,06 187,39 4,62 315,44
+Pentru diferite tipuri de conducte, se utilizează în calcul diametrele interioare ale conductelor respective, și se determină debitele și vitezele la secțiune plină, utilizând formula de mai sus.
+Pentru canalizarea pluvială, calculele pot considera o rugozitate a materialului recomandată de producător (de exemplu, k = 0,07 mm, pentru conducte din material plastic).
+Tabel A5.7.2 Debite și viteze la grad de umplere 0,70, în funcție de diametrul conductei (valori preluate din SR EN 12056-2); în SR EN 12056-2, panta este exprimată în cm/m; panta (m/m) = panta (cm/m) x 0,01
+Panta
+DN100
+DN125
+DN150
+DN200 i
+V(max) v
+V(max) v
+V(max) v
+V(max) v cm/m l/s m/s l/s m/s l/s m/s l/s m/s 0,50 2,9 0,5 4,8 0,6 9,0 0,7 16,7 0,8 1,00 4,2 0,8 6,8 0,9 12,8 1,0 23,7 1,2 1,50 5,1 1,0 8,3 1,1 15,7 1,3 29,1 1,5 2,00 5,9 1,1 9,6 1,2 18,2 1,5 33,6 1,7 2,50 6,7 1,2 10,8 1,4 20,3 1,6 37,6 1,9 3,00 7,3 1,3 11,8 1,5 22,3 1,8 41,2 2,1 3,50 7,9 1,5 12,8 1,6 24,1 1,9 44,5 2,2 4,00 8,4 1,6 13,7 1,8 25,8 2,1 47,6 2,4 4,50 8,9 1,7 14,5 1,9 27,3 2,2 50,5 2,5 5,00 9,4 1,7 15,3 2,0 28,8 2,3 53,3 2,7
+Panta
+DN225
+DN250
+DN300 i
+V(max) v
+V(max) v
+V(max) v cm/m l/s m/s l/s m/s l/s m/s 0,50 26,5 0,9 31,6 1,0 56,8 1,1 1,00 37,6 1,3 44,9 1,4 80,6 1,6 1,50 46,2 1,6 55,0 1,7 98,8 2,0 2,00 53,3 1,9 63,6 2,0 114,4 2,3 2,50 59,7 2,1 71,1 2,2 127,7 2,6 3,00 65,4 2,3 77,9 2,4 140,0 2,8 3,50 70,6 2,5 84,2 2,6 151,2 3,0 4,00 75,5 2,7 90,0 2,8 161,7 3,2 4,50 80,1 2,8 95,5 3,0 171,5 3,4 5,00 84,5 3,0 100,7 3,1 180,8 3,6
+Anexa nr. 5.8
+Valori pentru u (grad de umplere), z [v(r)/v(sp)] și x [V(tot)/V(sp)] corespunzătoare diferitelor valori pentru unghiul la centru. unghi la centru alfa alfa
+A
+R u=h/d z=v(r)/v(sp)
+X=V(tot)/V(sp) [grade] [radiani] [mp] [m] [-] [-] [-] 5 0,08727 0,00001 0,00032 0,00048 0,03562 0,00000 10 0,17453 0,00011 0,00127 0,00190 0,07120 0,00001 15 0,26180 0,00037 0,00285 0,00428 0,10670 0,00005 20 0,34907 0,00088 0,00505 0,00760 0,14207 0,00016 25 0,43633 0,00171 0,00786 0,01185 0,17729 0,00039 30 0,52360 0,00295 0,01127 0,01704 0,21230 0,00080 35 0,61087 0,00466 0,01526 0,0231 0,2471 0,0015 40 0,69813 0,00692 0,01982 0,0302 0,2816 0,0025 45 0,78540 0,00979 0,02492 0,0381 0,3157 0,0039 50 0,87266 0,01333 0,03054 0,0468 0,3495 0,0059 55 0,95993 0,01760 0,03666 0,0565 0,3830 0,0086 60 1,04720 0,02265 0,04325 0,0670 0,4159 0,0120 65 1,13446 0,02852 0,05028 0,0783 0,4485 0,0163 70 1,22173 0,03525 0,05771 0,0904 0,4805 0,0216 75 1,30900 0,04288 0,06552 0,1033 0,5119 0,0280 80 1,39626 0,05143 0,07367 0,1170 0,5428 0,0355 85 1,48353 0,06092 0,08212 0,1314 0,5731 0,0445 90 1,57080 0,07135 0,09085 0,1464 0,6028 0,0548 95 1,65806 0,08273 0,09980 0,1622 0,6318 0,0666 100 1,74533 0,09507 0,10894 0,1786 0,6601 0,0799 105 1,83260 0,10833 0,11823 0,1956 0,6877 0,0949 110 1,91986 0,12252 0,12764 0,2132 0,7145 0,1115 115 2,00713 0,13760 0,13711 0,2314 0,7406 0,1298 120 2,09440 0,15355 0,14663 0,2500 0,7658 0,1497 125 2,18166 0,17031 0,15613 0,2691 0,7903 0,1714 130 2,26893 0,18786 0,16559 0,2887 0,8139 0,1947 135 2,35619 0,20614 0,17497 0,3087 0,8366 0,2196 140 2,44346 0,22508 0,18423 0,3290 0,8584 0,2460 145 2,53073 0,24464 0,19334 0,3496 0,8794 0,2739 150 2,61799 0,26475 0,20225 0,3706 0,8995 0,3032 155 2,70526 0,28533 0,21094 0,3918 0,9186 0,3337 160 2,79253 0,30631 0,21938 0,4132 0,9368 0,3653 165 2,87979 0,32762 0,22753 0,4347 0,9540 0,3980 170 2,96706 0,34918 0,23537 0,4564 0,9703 0,4314 175 3,05433 0,37090 0,24287 0,4782 0,9856 0,4655 180 3,14159 0,39270 0,25000 0,5000 1,0000 0,5000 185 3,22886 0,41450 0,25675 0,5218 1,0134 0,5348 190 3,31613 0,43622 0,26309 0,5436 1,0258 0,5698 195 3,40339 0,45778 0,26901 0,5653 1,0373 0,6046 200 3,49066 0,47908 0,27450 0,5868 1,0478 0,6392 205 3,57792 0,50007 0,27953 0,6082 1,0574 0,6733 210 3,66519 0,52065 0,28410 0,6294 1,0660 0,7067 215 3,75246 0,54075 0,28821 0,6504 1,0737 0,7393 220 3,83972 0,56031 0,29185 0,6710 1,0805 0,7708 225 3,92699 0,57926 0,29502 0,6913 1,0863 0,8012 230 4,01426 0,59754 0,29771 0,7113 1,0913 0,8302 235 4,10152 0,61508 0,29993 0,7309 1,0953 0,8578 240 4,18879 0,63185 0,30169 0,7500 1,0985 0,8838 245 4,27606 0,64780 0,30299 0,7686 1,1009 0,9080 250 4,36332 0,66288 0,30384 0,7868 1,1024 0,9305 255 4,45059 0,67706 0,30426 0,8044 1,1032 0,9510 260 4,53786 0,69033 0,30426 0,8214 1,1032 0,9697 265 4,62512 0,70266 0,30385 0,8378 1,1024 0,9863 270 4,71239 0,71405 0,30305 0,8536 1,1010 1,0010 275 4,79966 0,72448 0,30189 0,8686 1,0989 1,0137 280 4,88692 0,73397 0,30038 0,8830 1,0961 1,0244 285 4,97419 0,74251 0,29855 0,8967 1,0928 1,0331 290 5,06145 0,75014 0,29641 0,9096 1,0889 1,0400 295 5,14872 0,75688 0,29401 0,9217 1,0844 1,0451 300 5,23599 0,76275 0,29135 0,9330 1,0795 1,0484 305 5,32325 0,76780 0,28847 0,9435 1,0742 1,0501 310 5,41052 0,77207 0,28540 0,9532 1,0684 1,0503 315 5,49779 0,77561 0,28215 0,9619 1,0624 1,0491 320 5,58505 0,77848 0,27877 0,9698 1,0560 1,0467 325 5,67232 0,78074 0,27528 0,9769 1,0493 1,0431 330 5,75959 0,78245 0,27170 0,9830 1,0425 1,0386 335 5,84685 0,78368 0,26807 0,9881 1,0355 1,0333 340 5,93412 0,78452 0,26441 0,9924 1,0284 1,0273 345 6,02139 0,78503 0,26075 0,9957 1,0213 1,0208 350 6,10865 0,78529 0,25711 0,9981 1,0141 1,0140 355 6,19592 0,78538 0,25352 0,9995 1,0070 1,0070 360 6,28319 0,78540 0,25000 1,0000 1,0000 1,0000
+Figura A5.8.1 - diagrama cercului, nomograma pentru determinarea gradului de umplere și a vitezei reale de curgere a apei, pentru canalizare, în colectoare cu secțiune circulară
+Anexa nr. 5.9
+Scheme instalații de canalizare menajeră interioară
+Sunt prezentate scheme de ventilare primară, secundară, auxiliară.
+A.
+Instalații interioare de canalizare cu ventilare primară A.1.
+Ventilare primară pentru instalații interioare de canalizare menajeră, în clădiri cu maxim 2 niveluri (respectiv h < 4 m)
+Figura A5.9.1-instalații interioare de canalizare, pentru clădiri cu 2 niveluri, respectiv lungimea de racordare a conductelor de legătură de max 4 m. În acest caz, conductele de legătură pot fi racordate direct la coloana principală de canalizare, în situațiile în care colectorul general este amplasat fie imediat sub nivelul obiectelor sanitare, fie la o distanță (pe verticală) de un nivel.
+Pentru clădiri care au sub 2 niveluri inclusiv, și pentru care înălțimea între cel mai înalt și cel mai de jos punct de racord la coloană, a conductelor de legătură, nu depășește 4 m (ca în Figura A5.9.1), obiectele sanitare pot fi montate direct la coloană, indiferent de poziția colectorului amplasat fie la plafonul subsolului (a), fie la nivelul pardoselii subsolului (b).
+A.2.
+Ventilare primară pentru instalații de canalizare în clădiri cu maxim 3 niveluri
+Figura A5.9.2 - Exemplu de ventilare principală, cu aerator cu membrană, pentru o clădire cu maxim 3 niveluri, dotată cu obiecte sanitare; obiectele sanitare de la parter sunt racordate la coloana de canalizare. Aeratorul poate fi montat pentru coloane la care nu sunt racordate mai mult de 9 obiecte sanitare.
+A.3.
+Ventilare primară, cu colector de ventilare primară
+Figura A5.9.3 - Exemplu de racordare al conductelor de ventilare naturală primară la partea superioară.
+Pentru dimensionarea colectorului de ventilare primară se determină mai întâi debitul evacuat V(max) pentru toate coloanele ventilate primar, unificate; ulterior, se face alegerea diametrului colectorului comun pentru conductele de ventilare primară, care nu poate reuni mai mult de 3 coloane de ventilare primară.
+A.4.
+Ventilare primară pentru instalații de canalizare în clădiri cu 3-5 niveluri (pentru care h ≤ 12m)
+Figura A5.9.4 - Soluții de racordare ale obiectelor sanitare la parter, pentru o clădire cu 3-5 niveluri (respectiv pentru care h≤12 m).
+Pentru clădiri cu 3-5 niveluri, cu o coloană de canalizare pentru care înălțimea zonei de racordare a obiectelor sanitare este mai mică de 12 m (măsurată între cel mai de jos și cel mai înalt punct de racord al conductelor de legătură la coloană), se diferențiază următoarele soluții: ● Dacă amplasarea colectorului de canalizare menajeră se realizează la nivelul plafonului subsolului, obiectele sanitare de la parter se racordează direct în colectorul de canalizare, la o distanță de minim 1 m față de cotul de racordare a coloanei la colector, ca în figura A5.9.4 (a); ● Dacă amplasarea colectorului se realizează la nivelul pardoselii subsolului, obiectele sanitare de la parter se racordează direct la coloana de canalizare, ca în figura A5.9.4 (b); ● Se apreciază că în situația de înfundare a coloanei de canalizare în zona cotului, înălțimea stratului de apa uzată în coloana de canalizare va avea înălțimea de 3 m (înălțimea aproximativă a unui nivel).
+A.5.
+Ventilare primară pentru instalații de canalizare în clădiri cu peste 5 niveluri (h > 12m)
+Figura A5.9.5 (a) și (b) - Soluții de racordare ale obiectelor sanitare la parter, pentru clădiri cu peste 5 niveluri, respectiv pentru care h>12 m.
+Pentru clădiri cu peste 5 niveluri pentru care înălțimea coloanei de canalizare este peste 12 m (măsurată între cel mai înalt și cel mai de jos punct de racord al conductelor de legătură la coloană), se diferențiază următoarele soluții: ● Dacă amplasarea colectorului se realizează la nivelul plafonului subsolului, obiectele sanitare de la parter și etaj 1 (primele 2 niveluri inferioare) se racordează obligatoriu la o coloană de canalizare suplimentară, conectată la coloana de canalizare principală, prin intermediul unei bucle de ventilare (ventilație) care se dezvoltă pe înălțimea a două niveluri, iar pe orizontală, racordarea se realizează la peste 2 m față de cotul de racordare al coloanei la colector, ca în figura A5.9.5 (a); ● Dacă amplasarea colectorului se realizează la nivelul pardoselii subsolului, obiectele sanitare de la parter se racordează la o coloană de canalizare suplimentară, conectată la coloana de canalizare principală, prin intermediul unei bucle de ventilare (ventilație) care se dezvoltă pe înălțimea a două niveluri, iar pe orizontală, racordarea se realizează la peste 2 m față de cotul de racordare al coloanei la colector, ca în figura A5.9.5 (b); ● Se apreciază că în situația de înfundare a coloanei de canalizare în zona cotului, înălțimea stratului de apă uzată în coloana de canalizare poate atinge înălțimea de 3 m (înălțimea aproximativă a unui nivel).
+B.
+Instalații interioare de canalizare cu ventilare primară, secundară și auxiliară B1.
+Instalații interioare de canalizare cu ventilare primară, secundară și auxiliară, pentru clădiri cu trei niveluri
+Figura A5.9.6 - Exemple de ventilare primară, secundară și auxiliară, aplicate unei instalații de canalizare pentru o clădire cu maxim 3 niveluri; dotarea cu ventilare secundară și auxiliară se realizează în condițiile descrise în capitolul 13.
+B2.
+Instalații interioare de canalizare cu ventilare primară, secundară și auxiliară, pentru clădiri cu trei niveluri - ventilarea secundară este racordată la conducta de ventilare primară
+Figura A5.9.7 - Exemple de ventilare primară, secundară și auxiliară, aplicate unei instalații de canalizare pentru o clădire cu maxim 3 niveluri; dotarea cu ventilare secundară și auxiliară se realizează în condițiile descrise în capitolul 13.
+Caracteristicile sistemelor de ventilare auxiliară sunt următoarele: ● Nu sunt la fel de economice ca cele de ventilare primară; ● Se pot aplica în cazul clădirilor care au mai mult de 2 niveluri; ● Introducerea canalizării auxiliare mărește capacitatea de transport a coloanei de canalizare principală cu 30-40%.
+B3.
+Soluții de ventilare primară și auxiliară pentru instalații de canalizare în clădiri cu 3-5 niveluri (pentru care h ≤ 12m)
+Figura A5.9.8- Exemple de ventilare primară și auxiliară, aplicate unei instalații de canalizare, pentru o clădire cu 3-5 niveluri, pentru care înălțimea coloanei de canalizare între racorduri este de maxim 12 m; dotarea cu ventilare secundară se realizează în condițiile descrise în capitolul 13.
+Obiectele sanitare montate la parter se montează după caz: ● Dacă în partea inferioară a clădirii, colectorul este montat la plafonul subsolului, obiectele sanitare se montează obligatoriu direct în colector, la o distanță de minim 1m față de cotul de conectare al coloanei la colector, conform figurii A5.9.8 (a); ● Dacă în partea inferioară a clădirii, colectorul este montat la pardoseala subsolului, obiectele sanitare se montează în coloană, conform figurii A5.9.8 (b) ● Se apreciază că în situația de înfundare a coloanei de canalizare în zona cotului, înălțimea stratului de apă uzată în coloana de canalizare va avea înălțimea unui nivel (se aproximează că înălțimea unui nivel este de 3 m). ● Conducta de ventilare auxiliară se racordează la părțile inferioară și exterioară ale coloanei, fără racorduri intermediare.
+B4.
+Soluții de ventilare primară și auxiliară pentru instalații de canalizare în clădiri cu peste 5 niveluri (pentru care h > 12m)
+Pentru clădirile cu mai mult de 5 niveluri, conducta de ventilare auxiliară se conectează, de regulă, la fiecare nivel; se admite racordarea conductelor de ventilare auxiliară la maxim fiecare 3 niveluri.
+Figura A 5.9.9 (a), (b) - Variante suplimentare de ventilare auxiliară, pentru clădiri cu mai mult de 5 niveluri, sau h>12 m. Dotarea cu ventilare auxiliară se realizează în condițiile descrise în capitolele 13 și 14. Conducta de ventilare auxiliară se leagă la coloana de canalizare, de regulă, la fiecare nivel.
+Pentru clădiri cu mai mult de 5 niveluri sau cu o coloană de canalizare cu o lungime a zonei de racordare a obiectelor sanitare mai mare de 12 m, se diferențiază următoarele soluții: ● Dacă amplasarea colectorului se realizează la nivelul plafonului subsolului, obiectele sanitare de la parter și etajul 1 (primele 2 niveluri) se racordează obligatoriu la o coloană de canalizare suplimentară, conectată la coloana de canalizare principală, prin intermediul unei bucle de ventilare (ventilație) care se dezvoltă pe înălțimea a două niveluri, iar pe orizontală, racordarea se realizează la mai mult de 2 m față de cotul de racordare al coloanei la colector, ca în figura A5.9.9 (a); ● Dacă amplasarea colectorului se realizează la nivelul pardoselii subsolului, obiectele sanitare de la parter se racordează la o coloană de canalizare suplimentară, conectată la coloana de canalizare principală, prin intermediul unei bucle de ventilare (ventilație) care se dezvoltă pe înălțimea a două niveluri, iar pe orizontală, racordarea se realizează la mai mult de 2 m față de cotul de racordare al coloanei la colector, ca în figura A5.9.9 (b); ● Se apreciază că în situația de înfundare a coloanei de canalizare în zona cotului, înălțimea stratului de apă uzată în coloana de canalizare poate atinge înălțimea a 2 niveluri. ● Conducta de ventilare auxiliară se leagă la coloana de canalizare la fiecare nivel, recomandabil. ● Coloana de canalizare suplimentară pentru primele 2 niveluri (parter, etaj 1) se dimensionează în funcție de obiectele sanitare preluate, iar prelungirea acesteia reprezintă o conductă de ventilare primară a acesteia. ● Coloana de ventilare auxiliară se dezvoltă pe întreaga înălțime a coloanei de canalizare, iar pentru calcul, se consideră obiectele sanitare pe toate înălțimea coloanei de canalizare ventilate (adică 6 niveluri, vezi exemplu din figură); diametrul acesteia se determină cu ajutorul tabelului din ANEXA 5.5.
+B5.
+Soluții de ventilare primară și secundară pentru instalații de canalizare în clădiri cu 3-5 niveluri (pentru care h <12m)
+Figura A5.9.10 - Exemple de ventilare primară și secundară, aplicate unei instalații de canalizare, pentru o clădire cu 3-5 niveluri sau cu înălțimea coloanei de canalizare între racorduri de maxim 12 m; dotarea cu ventilare secundară se realizează în condițiile descrise în capitolul 13.
+Obiectele sanitare montate la parter se montează după caz: ● Dacă în partea inferioară a clădirii, colectorul este montat la plafonul subsolului, obiectele sanitare se montează direct în colector, la o distanță de minim 1 m față de cotul de conectare al coloanei la colector, conform figurii A5.9.10 (a); ● Dacă în partea inferioară a clădirii, colectorul este montat la pardoseala subsolului, obiectele sanitare se montează în coloană, conform figurii A5.9.10 (b) ● Se apreciază că în situația de înfundare a coloanei de canalizare în zona cotului, înălțimea stratului de apa uzată în coloana de canalizare va avea înălțimea unui nivel (aprox. 3 m).
+B6.
+Soluții de ventilare primară și secundară pentru instalații de canalizare în clădiri cu peste 5 niveluri (pentru care h >12m)
+Figura A 5.9.11 (a), (b) - Variante suplimentare de ventilare secundară, pentru clădiri cu peste 5 niveluri, pentru care h>12 m. Dotarea cu ventilare secundară se realizează în condițiile descrise în capitolul 13.
+Pentru clădiri cu peste 5 niveluri sau cele pentru care coloana de canalizare cu lungime a zonei de racordare a obiectelor sanitare depășește 12 m, se diferențiază următoarele soluții: ● Dacă amplasarea colectorului se realizează la nivelul plafonului subsolului, obiectele sanitare de la parter și etajul 1 (primele 2 niveluri) se racordează obligatoriu la o coloană de canalizare suplimentară, conectată la coloana de canalizare principală, prin intermediul unei bucle de ventilare (ventilație) care se dezvoltă pe înalțimea a două niveluri, iar pe orizontală, racordarea se realizează la mai mult de 2 m față de cotul de racordare al coloanei la colector, ca în figura A5.9.11 (a); ● Dacă amplasarea colectorului se realizează la nivelul pardoselii subsolului, obiectele sanitare de la parter se racordează la o coloană de canalizare suplimentară, conectată la coloana de canalizare principală, prin intermediul unei bucle de ventilare (ventilație) care se dezvoltă pe înălțimea a două niveluri, iar pe orizontală, racordarea se realizează la mai mult de 2 m față de cotul de racordare al coloanei la colector, ca în figura A5.9.11 (b); ● Se apreciază că în situația de înfundare a coloanei de canalizare în zona cotului, înălțimea stratului de apă uzată în coloana de canalizare poate atinge înălțimea a 2 niveluri. ● Se prevede conducta de ventilare secundară, cu racord la o coloană de ventilare comună; ventilarea secundară este prevăzută în condițiile capitolului 13.
+B7.
+Soluții de ventilare primară și secundară pentru instalații de canalizare în clădiri la care lungimea conductelor de racord depășește 10 m
+Figura A5.9.12 - Exemple de ventilare primară și secundară, aplicate unei instalații de canalizare, cu conducte de legatură cu lungimi peste 10 m, pentru care se adoptă ventilare secundară; pentru conducte de legătură cu lungimi peste 10 m, se recomandă introducerea unei conducte de ventilare secundară intermediară pe traseul conductelor de legătură.
+B8.
+Soluții de ventilare primară și auxiliară pentru instalații de canalizare în clădiri cu peste 10 niveluri
+Figura A5.9.13- Exemple de ventilare primară și auxiliară, aplicate unei instalații de canalizare, pentru o clădire cu peste 10 niveluri; dotarea cu ventilare auxiliară se realizează în condițiile descrise în capitolul 13.
+Coloanele de canalizare în clădiri cu peste 10 niveluri necesită o împărțire pe verticală. ● Dacă amplasarea colectorului se realizează la nivelul plafonului subsolului, obiectele sanitare de la parter, etaj 1 și etaj 2 (primele 3 niveluri) se racordează obligatoriu la o coloană de canalizare principală suplimentară, conectată la coloana de canalizare principală, prin intermediul unei bucle de ventilare (ventilație) care se dezvoltă pe înălțimea a trei niveluri deasupra cotului, iar pe orizontală, racordarea se realizează la mai mult de 3 m față de cotul de racordare al coloanei la colector, ca în figura A5.9.13 (a); ● Dacă amplasarea colectorului se realizează la nivelul pardoselii subsolului, obiectele sanitare de la parter și etaj 1 (primele 2 niveluri) se racordează la o coloană de canalizare suplimentară, conectată la coloana de canalizare principală, prin intermediul unei bucle de ventilare (ventilație) care se dezvoltă pe înălțimea a trei niveluri deasupra cotului, iar pe orizontală, racordarea se realizează la mai mult de 3 m față de cotul de racordare al coloanei la colector, ca în figura A5.9.13 (b); ● Se apreciază că în situația de înfundare a coloanei de canalizare în zona cotului, înălțimea stratului de apă uzată în coloana de canalizare poate atinge înălțimea a 3 niveluri. ● Coloana de canalizare pentru primele niveluri se dimensionează în funcție de obiectele sanitare preluate, iar prelungirea acesteia reprezintă o conductă de ventilare primară a acesteia. ● Coloana de ventilare auxiliară se dezvoltă pe întreaga înălțime a coloanei de canalizare, iar pentru calcul, se consideră obiectele sanitare pe toate înălțimea coloanei de canalizare ventilate (adică 10 niveluri); diametrul acesteia se determină cu ajutorul tabelului din ANEXA 5.5. ● Conducta de ventilare auxiliară se leagă la coloana de canalizare la minim fiecare 3 niveluri.
+B9.
+Soluții de ventilare primară și auxiliară pentru instalații de canalizare în clădiri cu peste 14 niveluri
+Figura A 5.9.14- Exemple de ventilare primară și auxiliară, aplicate unei instalații de canalizare, pentru o clădire cu peste 14 niveluri; dotarea cu ventilare auxiliară se realizează în condițiile descrise în capitolul 13.
+Coloanele de canalizare în clădiri cu peste 14 niveluri necesită o împărțire pe verticală. ● Dacă amplasarea colectorului se realizează la nivelul plafonului subsolului, obiectele sanitare de la parter, etaj 1, etaj 2 și etaj 3 (primele 4 niveluri) se racordează obligatoriu la o coloană de canalizare principală suplimentară, conectată la coloana de canalizare principală, prin intermediul unei bucle de ventilare (ventilație) care se dezvoltă pe înălțimea a 4 niveluri deasupra cotului, iar pe orizontală, racordarea se realizează la mai mult de 2-3 m față de cotul de racordare al coloanei la colector, ca în figura A5.9.14 (a); ● Dacă amplasarea colectorului se realizează la nivelul pardoselii subsolului, obiectele sanitare de la primele 3 niveluri (parter, etaj 1 și etaj 2) se racordează la o coloană de canalizare suplimentară, conectată la coloana de canalizare principală, prin intermediul unei bucle de ventilare (ventilație) care se dezvoltă pe înălțimea a 4 niveluri deasupra cotului, iar pe orizontală, racordarea se realizează la mai mult de 2-3 m față de cotul de racordare al coloanei la colector, ca în figura A5.9.14 (b); ● Se apreciază că în situația de înfundare a coloanei de canalizare în zona cotului, înălțimea stratului de apă uzată în coloana de canalizare poate atinge înălțimea a 4 niveluri. ● Coloana de canalizare pentru primele 4 niveluri inferioare se dimensionează în funcție de obiectele sanitare preluate, iar prelungirea acesteia reprezintă o conductă de ventilare primară a acesteia. ● Coloana de ventilare auxiliară se dezvoltă pe întreaga înălțime a coloanei de canalizare, iar pentru calcul, se consideră obiectele sanitare pe toate înălțimea coloanei de canalizare ventilate (adică 14 niveluri, pentru exemplul din figură); diametrul acesteia se determină cu ajutorul tabelului din ANEXA 5.5. ● Conducta de ventilare auxiliară se leagă la coloana de canalizare la minim fiecare 3 niveluri.
+B10.
+Soluții de ventilare primară și auxiliară pentru instalații de canalizare în clădiri cu peste 20 niveluri
+Figura A 5.9.15- Exemple de ventilare primară și auxiliară, aplicate unei instalații de canalizare, pentru o clădire cu peste 20 niveluri; dotarea cu ventilare auxiliară se realizează în condițiile descrise în capitolul 13.
+Coloanele de canalizare în clădiri cu peste 20 niveluri necesită o împărțire pe verticală. ● Dacă amplasarea colectorului se realizează la nivelul plafonului subsolului, obiectele sanitare de la primele 2 niveluri se racordează obligatoriu la o coloană de canalizare principală suplimentară, conectată la coloana de canalizare principală, prin intermediul unei bucle de ventilare (ventilație) care se dezvoltă pe înalțimea a 2 niveluri deasupra cotului, iar pe orizontală, racordarea se realizează la mai mult de 4 m față de cotul de racordare al coloanei la colector, ca în figura A5.9.15 (a); ● Dacă amplasarea colectorului se realizează la nivelul plafonului subsolului, obiectele sanitare de la nivelurile următoare, cuprinse între nivelurile 2-6 se racordează obligatoriu la o a doua coloană de canalizare principală suplimentară, conectată la coloana de canalizare principală, prin intermediul unei bucle de ventilare (ventilație) care se dezvoltă pe înalțimea a 6 niveluri deasupra cotului, iar pe orizontală, racordarea se realizează la mai mult de 2-3 m față de cotul de racordare al coloanei la colector, ca în figura A5.9.15 (a); ● Dacă amplasarea colectorului se realizează la nivelul pardoselii subsolului, obiectele sanitare de la primele 5 niveluri se racordează la o coloană de canalizare suplimentară, conectată la coloana de canalizare principală, prin intermediul unei bucle de ventilare (ventilație) care se dezvoltă pe înălțimea a 6 niveluri deasupra cotului, iar pe orizontală, racordarea se realizează la mai mult de 2-3 m față de cotul de racordare al coloanei la colector, ca în figura A5.9.15 (b); ● Se apreciază că în situația de înfundare a coloanei de canalizare în zona cotului, înălțimea stratului de apă uzată în coloana de canalizare poate atinge înălțimea a 6 niveluri. ● Coloanele de canalizare montate suplimentar pentru primele 6 niveluri inferioare se dimensionează în funcție de obiectele sanitare preluate, iar prelungirea acesteia reprezintă o conductă de ventilare primară a acesteia. ● Coloana de ventilare auxiliară se dezvoltă pe întreaga înălțime a coloanei de canalizare, iar pentru calcul, se consideră obiectele sanitare pe toate înălțimea coloanei de canalizare ventilate (adică 20 niveluri, pentru exemplul din figură); diametrul acesteia se determină cu ajutorul tabelului din ANEXA 5.5. ● Conducta de ventilare auxiliară se leagă la coloana de canalizare la minim fiecare 3 niveluri.
+C.
+Soluții de ventilare primară pentru instalații de canalizare în clădiri, utilizând ramificații de ventilație (piese de conexiune cu ventilare inclusă, care realizează aerare locală)
+Figura A 5.9.16- Exemple de utilizare a pieselor de intersecție cu aerare; aceste piese pot înlocui conductele de ventilare auxiliară; pentru racordarea obiectelor sanitare de la nivelurile inferioare ale clădirii la coloanele de canalizare, configurațiile amintite în ANEXA 5.9 se mențin. Utilizarea acestor piese trebuie realizată cu suportul furnizorului.
+Anexa nr. 6
+MODEL PENTRU REGISTRU DE EVIDENȚĂ AL ACTIVITĂȚILOR
+DE CONTROL, VERIFICARE ȘI REVIZIE A INSTALAȚIILOR SANITARE
+Data de identificare a obiectivului:
+Denumirea obiectivului..........................................
+Strada,.......................... nr....
+Definirea instalației controlate, verificate, revizuite..........................
+Cine a efectuat controlul, verificarea, revizia:
+Numele și prenumele..........................,
+Funcția..........................,
+Legitimat cu..........................,
+Denumirea instituției de care aparține..........................
+Controlul, verificarea, revizia efectuată în baza..........................,
+3.
+Perioada de efectuare a controlului (reviziei);
+4.
+Constatări și propuneri de măsuri pentru remedierea defecțiunilor constatate:
+5.
+Executarea și perioada de execuție propusă:
+6.
+Observații:
+Semnătura celor care au efectuat controlul:
+Semnătura reprezentantului obiectivului:
+Numele și prenumele...................................,
+Numele și prenumele...................................,
+Funcția..........................,
+Funcția..........................,
+Data..................
+Anexa nr. 7
+MODEL PENTRU REGISTRU DE EVIDENȚĂ AL LUCRĂRILOR DE REPARAȚII
+Data de identificare a obiectivului:
+Denumirea obiectivului..........................
+Strada.......................... nr....
+Definirea instalației la care s-a efectuat reparație.....................................,
+Data
+Cine completează datele
+Executant
+Perioada de execuție
+Data
+2.
+Descrierea lucrărilor de reparații executate:
+3.
+Cine a verificat lucrările executate:
+Data....................... numele și semnătura.......................
+4.
+Cine a luat în primire lucrările executate:
+Data....................... numele și semnătura.......................
+5.
+Observații:
+Textul, numele și semnătura........................................................................
+Anexa nr. 8
+MODEL PENTRU REGISTRU DE EVIDENȚĂ ZILNICĂ
+AL PARAMETRILOR INSTALAȚIILOR SANITARE
+Data de identificare a obiectivului:
+Denumirea obiectivului..........................
+Strada.......................... nr....
+Definirea instalației la care se fac înregistrările...........................,
+Data înregistrării
+Cine completează tabelul
+Apă rece
+Apă caldă de consum
+Consum mc/zi
+Consum max., l/h
+Consum mc/zi
+Consum max., l/h
+Temp. med., °C x x x x x
+Observații: x
+Observații: x
+Notă: La "Observații" se vor menționa eventualele anomalii constatate și cauzele care le-au determinat, precum și măsurile propuse pentru remediere, De asemenea, se va menționa ora la care a avut loc consumul maxim,
+Numele și prenumele persoanei care a efectuat înregistrările...........................
+Semnătura.....................
+Anexa nr. 9
+MODEL PRIVIND PROCESUL-VERBAL DE PREDARE ȘI PRIMIRE ÎN EXPLOATARE
+AL UNOR INSTALAȚII DE ALIMENTARE CU APĂ ȘI DE CANALIZARE
+1.
+Adresa clădirii:
+2.
+Reprezentantul unității de exploatare sau de execuție (intervenție) care face predarea instalației:
+3.
+Reprezentantul unității (eventual proprietarul sau beneficiarul) care ia în primire instalația:
+4.
+Principalele caracteristici ale clădirii:
+5.
+Principalele caracteristici ale instalației:
+6.
+Au fost predate și luate în primire următoarele părți și elemente componente principale:
+Nr.
+Părți și elemente componente
+Observații
+A. Instalația de alimentare cu apă
+B. Instalația de canalizare
+7.
+Observații suplimentare
+8.
+Cu ocazia predării și primirii în exploatare a instalației, s-au predat următoarele documentații și acte justificative:
+Localitatea:
+Data:
+Reprezentantul unității care predă lucrarea,
+Reprezentantul unității care primește lucrarea
+Numele și prenumele:
+Numele și prenumele
+Semnătura..........................,
+Semnătura..........................,
+Data:................
+Anexa nr. 10
+PROCES VERBAL DE LUCRĂRI ASCUNSE
+Încheiat astăzi, ziua...... luna................. anul........
+Subsemnații:
+Șef de lot Numele și prenumele.............................,
+Instalator autorizat............................ autorizație nr......................
+Sudor autorizat............................ autorizație nr...................... la montarea conductei de alimentare cu apă caldă de la: Obiectivul....................... din localitatea................str..................... nr....
+Prin prezentul proces verbal, precizăm următoarele: - conducta de alimentare cu apă caldă, are diametrul............... și lungimea.....m
+- țeava utilizată la executarea conductei de alimentare cu apă este din oțel galvanizat/PP și are certificatul de calitate nr...... anul..... și certificatul de conformitate nr...... anul.....
+- toate sudurile au fost executate folosind materiale standardizate;
+- țeava a fost izolată conform detaliilor de execuție și la montaj a fost așezată pe pământ mărunțit,
+- calitatea izolației a fost verificată înainte de umplerea șanțului cu pământ, încadrându-se în calitate............... (Buletin de verificare nr...../.......);
+- conducta a fost așezată pe fundul șanțului, pe un strat de nisip cu grosimea de 9 - 15 cm, adâncimea de pozare fiind.... m;
+- țeava, armăturile și curbele utilizate, sunt confecționate din materialele indicate în normativului I 9, în vigoare;
+- primul strat de umplutură deasupra conductei a fost din pământ mărunțit, fără corpuri tari (resturi de beton, cărămizi, deșeuri metalice, sticloase etc,);
+- umplerea șanțului este făcută cu nisip și pământ mărunțit, conform prevederilor detaliilor de execuție,
+Șef de lot Numele și prenumele.........................,
+Semnătura........................,
+Instalator autorizat...................... autorizație nr................
+Semnătura....................
+Sudor autorizat...................... autorizație nr................
+Semnătura....................
+Notă: Sudorii PE și OL sunt autorizați de organisme abilitat, conform reglementărilor în vigoare,
+Data.................
+Anexa nr. 11
+PROCES VERBAL LA ÎNCHEIEREA FAZEI DETERMINANTE
+Încheiat astăzi, ziua.... luna................ anul.....
+Subsemnații:
+Șef de lot Numele și prenumele.........................,
+Instalator autorizat...................... autorizație nr................ la efectuarea probei de eficacitate a instalației de alimentare cu apă rece și apă caldă de la: Obiectivul..................... din localitatea................. str................. nr....
+Prin prezentul proces verbal, precizăm următoarele:
+Proba de funcționare a instalației de apă rece și caldă s-a efectuat la obiectivul menționat care cuprinde: număr de lavoare..., număr de spălătoare..., număr de băi..., număr de rezervoare de closet...
+S-au montat armăturile și robinetele de închidere la toate obiectele sanitare și conductele sunt sub presiunea hidraulică de regim,
+S-a procedat la deschiderea a...% din armăturile de alimentare cu apă rece, conform prevederilor proiectului și s-a verificat dacă asigură debitul de curgere,
+S-a asigurat debitul de curgere la...% din armături,
+S-a procedat la deschiderea a...% din armăturile de alimentare cu apă rece, conform prevederilor proiectului și s-a verificat dacă asigură debitul de curgere,
+S-a asigurat debitul de curgere la....% din armături,
+În concluzie s-a constatat că instalația asigură condițiile funcționale,
+În caz că instalația nu asigură condițiile funcționale se verifică cauzele,
+Presiunea necorespunzătoare, debitul pe racordul de apă este mai mic decât debitul de calcul,
+După înlăturarea deficiențelor se repetă încercările,
+Șef de lot Numele și prenumele....................................
+Semnătura................,
+Instalator autorizat...................... autorizație nr................
+Semnătura................,
+Data..................
+-----
