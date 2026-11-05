@@ -186,6 +186,66 @@
    ]
   },
   {
+   "slug": "hg-100-1997",
+   "path": "hg/1997/100",
+   "short": "HG nr. 100/1997",
+   "title": "Hotărârea Guvernului nr. 100/1997 privind exceptarea temporară de taxe vamale la importul unor produse agricole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11611",
+   "versions": [
+    {
+     "from": "1997-04-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11611",
+     "sha256": "f7fa37d8b8d0185e3de194661ae896922577ce5887d6c7b5edeb24f8307ca4d0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-103-1997",
+   "path": "hg/1997/103",
+   "short": "HG nr. 103/1997",
+   "title": "Hotărârea Guvernului nr. 103/1997 privind acordarea unor ajutoare umanitare populaţiei din judeţul Teleorman afectate de inundaţiile din luna aprilie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11626",
+   "versions": [
+    {
+     "from": "1997-04-09",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11626",
+     "sha256": "852a9430a535bcbf020a42e1b61e38b9743b90739916111bead9d7ea27104d4e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-104-1997",
+   "path": "hg/1997/104",
+   "short": "HG nr. 104/1997",
+   "title": "Hotărârea Guvernului nr. 104/1997 privind unele măsuri pentru reflectarea în contabilitate a unor operaţiuni financiar-contabile din activitatea agenţilor economici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11631",
+   "versions": [
+    {
+     "from": "1997-04-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11631",
+     "sha256": "f8e82d866a03129f3654da8831da3eba47663d5e0b83147f9b72c9cca257b3bf"
+    }
+   ]
+  },
+  {
+   "slug": "hg-106-1997",
+   "path": "hg/1997/106",
+   "short": "HG nr. 106/1997",
+   "title": "Hotărârea Guvernului nr. 106/1997 privind alocarea unor sume din bugetul de stat pe anul 1997 Ministerului Apelor, Pădurilor şi Protecţiei Mediului pentru înlăturarea efectelor calamităţilor naturale produse în judeţul Teleorman în perioada 29 martie - 6 aprilie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11639",
+   "versions": [
+    {
+     "from": "1997-05-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11639",
+     "sha256": "0c724eb6fb2f19af9c7fe4101ba427308a2127655f8e294c2acc1aed675d5bf2"
+    }
+   ]
+  },
+  {
    "slug": "hg-11-1997",
    "path": "hg/1997/11",
    "short": "HG nr. 11/1997",
@@ -201,6 +261,51 @@
    ]
   },
   {
+   "slug": "hg-114-1997",
+   "path": "hg/1997/114",
+   "short": "HG nr. 114/1997",
+   "title": "Hotărârea Guvernului nr. 114/1997 pentru modificarea Hotărârii Guvernului nr. 531/1995 privind transmiterea unor imobile, situate în municipiul Bucureşti, în administrarea Ministerului de Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11671",
+   "versions": [
+    {
+     "from": "1997-04-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11671",
+     "sha256": "81f879d16c7728a7cd832a78699b718a886cec063677b47a3c0126f8a0e9c44a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-115-1997",
+   "path": "hg/1997/115",
+   "short": "HG nr. 115/1997",
+   "title": "Hotărârea Guvernului nr. 115/1997 privind transmiterea unui teren proprietate publică a judeţului Tulcea în proprietatea publică a statului şi în administrarea Serviciului Român de Informaţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11675",
+   "versions": [
+    {
+     "from": "1997-04-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11675",
+     "sha256": "99c0552ef98a28b0ed9438d161fa55c1ea090e72f7cf51d92f62aa0691994cd3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-116-1997",
+   "path": "hg/1997/116",
+   "short": "HG nr. 116/1997",
+   "title": "Hotărârea Guvernului nr. 116/1997 privind susţinerea, în anul 1997, a unor cheltuieli necesare pregătirii Festivalului Internaţional \"George Enescu\", ediţia a XIV-a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11679",
+   "versions": [
+    {
+     "from": "1997-04-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11679",
+     "sha256": "631ee1a983672c19eb8031ea7a0a22eb514a16116820e28bf082097629a076ca"
+    }
+   ]
+  },
+  {
    "slug": "hg-117-1997",
    "path": "hg/1997/117",
    "short": "HG nr. 117/1997",
@@ -212,6 +317,141 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11683",
      "sha256": "b405e44c7f00e23dbc34e30d87765e9f22375b4ca72d4fefef0541dcfd4d5721"
+    }
+   ]
+  },
+  {
+   "slug": "hg-119-1997",
+   "path": "hg/1997/119",
+   "short": "HG nr. 119/1997",
+   "title": "Hotărârea Guvernului nr. 119/1997 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiţii \"Modernizare drum judeţean DJ 503, Giurgiu-Balanu-Ghizdaru, km 1 + 200 - 11 + 200, judeţul Giurgiu\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11692",
+   "versions": [
+    {
+     "from": "1997-04-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11692",
+     "sha256": "6b1c3e44d6fd8e615b0f3007cfb178cb048f3fad9e6e98c505eb36c9bd8c8a94"
+    }
+   ]
+  },
+  {
+   "slug": "hg-120-1997",
+   "path": "hg/1997/120",
+   "short": "HG nr. 120/1997",
+   "title": "Hotărârea Guvernului nr. 120/1997 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Modernizare drum judeţean DJ 505, Izvoarele-Valea Bujorului, km 38 + 000 - 43 + 900, judeţul Giurgiu\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11697",
+   "versions": [
+    {
+     "from": "1997-04-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11697",
+     "sha256": "b901d11b2e1bb91bb82411bec1d214f7e7b084d3acfd569f837f1ea686aaae98"
+    }
+   ]
+  },
+  {
+   "slug": "hg-121-1997",
+   "path": "hg/1997/121",
+   "short": "HG nr. 121/1997",
+   "title": "Hotărârea Guvernului nr. 121/1997 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Modernizare drum judeţean DJ 504, Giurgiu-Vieru, km 1 + 200 - 13 + 200, judeţul Giurgiu\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11701",
+   "versions": [
+    {
+     "from": "1997-04-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11701",
+     "sha256": "87b299d739a62e49b46b1cd8d9a5a6d62f5349bcec72723e932733e046c3d9e3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-122-1997",
+   "path": "hg/1997/122",
+   "short": "HG nr. 122/1997",
+   "title": "Hotărârea Guvernului nr. 122/1997 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Modernizare drum comunal DC 130, Grădinari-Tintava, km 0 + 000 - 2 + 400, judeţul Giurgiu\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11705",
+   "versions": [
+    {
+     "from": "1997-04-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11705",
+     "sha256": "55eeaec55b26e3a82074c3dea61e11e4af2922eed57fba5dafee26af5c09cd23"
+    }
+   ]
+  },
+  {
+   "slug": "hg-123-1997",
+   "path": "hg/1997/123",
+   "short": "HG nr. 123/1997",
+   "title": "Hotărârea Guvernului nr. 123/1997 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Alimentare cu apa şi canalizare menajera a comunei Barcani, judeţul Covasna\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11709",
+   "versions": [
+    {
+     "from": "1997-04-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11709",
+     "sha256": "305e3129b286672fe582bd1402c4b5288d8c2719313168f941e24339556ffdd8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-124-1997",
+   "path": "hg/1997/124",
+   "short": "HG nr. 124/1997",
+   "title": "Hotărârea Guvernului nr. 124/1997 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Locuinţe zona Podul Gruii în municipiul Drobeta-Turnu Severin, judeţul Mehedinţi\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11713",
+   "versions": [
+    {
+     "from": "1997-04-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11713",
+     "sha256": "45455d2b5198fd1125d2dec10212aec54b0cb857a436851bfdbe57a6c50bbba6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-125-1997",
+   "path": "hg/1997/125",
+   "short": "HG nr. 125/1997",
+   "title": "Hotărârea Guvernului nr. 125/1997 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Alimentare cu apa a comunei Vîlcelele, judeţul Buzău\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11717",
+   "versions": [
+    {
+     "from": "1997-04-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11717",
+     "sha256": "9405e5265c59367df164af29c2b4d5a944eab8bee5639393b7345f9cc4465c2e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-126-1997",
+   "path": "hg/1997/126",
+   "short": "HG nr. 126/1997",
+   "title": "Hotărârea Guvernului nr. 126/1997 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Alimentarea cu apa a comunelor Gurghiu şi Solovăstru, judeţul Mureş\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11721",
+   "versions": [
+    {
+     "from": "1997-04-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11721",
+     "sha256": "189f001a04ca8ad9914dc1a4452df4487d4ce51db4031032b1a88c67be1019a5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-127-1997",
+   "path": "hg/1997/127",
+   "short": "HG nr. 127/1997",
+   "title": "Hotărârea Guvernului nr. 127/1997 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Alimentarea cu apa a comunei Vînători, judeţul Neamţ\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11725",
+   "versions": [
+    {
+     "from": "1997-04-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11725",
+     "sha256": "22f24a6abafc60ef0979c0a7e5073a4b26732f9acd1b0e3b1d4157536dced940"
     }
    ]
   },
@@ -252,6 +492,21 @@
    ]
   },
   {
+   "slug": "hg-133-1997",
+   "path": "hg/1997/133",
+   "short": "HG nr. 133/1997",
+   "title": "Hotărârea Guvernului nr. 133/1997 pentru abrogarea unor hotărâri ale Guvernului, prin care s-au stabilit preţuri minime garantate de achiziţie şi primele ce se acordă producătorilor agricoli de la bugetul de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11749",
+   "versions": [
+    {
+     "from": "1997-04-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11749",
+     "sha256": "4dc1539915708d6fef97d9cbafa3f63db4c034fd185a7625166888f3c94e2830"
+    }
+   ]
+  },
+  {
    "slug": "hg-135-1997",
    "path": "hg/1997/135",
    "short": "HG nr. 135/1997",
@@ -267,6 +522,261 @@
    ]
   },
   {
+   "slug": "hg-136-1997",
+   "path": "hg/1997/136",
+   "short": "HG nr. 136/1997",
+   "title": "Hotărârea Guvernului nr. 136/1997 privind transmiterea unui imobil, situat în municipiul Bucureşti, în administrarea Ministerului Finanţelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11763",
+   "versions": [
+    {
+     "from": "1997-04-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11763",
+     "sha256": "eee47c2f0ef9225c30afb92bd62ba9ab676340d2149c0cf29edabec11b446fd9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-137-1997",
+   "path": "hg/1997/137",
+   "short": "HG nr. 137/1997",
+   "title": "Hotărârea Guvernului nr. 137/1997 privind transmiterea unui imobil proprietate publică a statului, situat în judeţul Timiş, în administrarea Ministerului de Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11768",
+   "versions": [
+    {
+     "from": "1997-04-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11768",
+     "sha256": "9fdfb4b1470b1cc627131f0f1a3d0256bd7e50b2de3350841c6fd01114286ded"
+    }
+   ]
+  },
+  {
+   "slug": "hg-139-1997",
+   "path": "hg/1997/139",
+   "short": "HG nr. 139/1997",
+   "title": "Hotărârea Guvernului nr. 139/1997 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Modernizări centrale termice şi reţele termice în municipiul Dorohoi, judeţul Botoşani\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11776",
+   "versions": [
+    {
+     "from": "1997-04-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11776",
+     "sha256": "c360c4d822de006bbe0cc22027d66e83b6285beb1b30b9344c8089b43f02523e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-140-1997",
+   "path": "hg/1997/140",
+   "short": "HG nr. 140/1997",
+   "title": "Hotărârea Guvernului nr. 140/1997 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Înfiinţare distribuţie gaze naturale în comuna Lereşti, judeţul Argeş\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11781",
+   "versions": [
+    {
+     "from": "1997-04-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11781",
+     "sha256": "c05f52cdf5fe43a22624025bf935101ff31a634da153050b3ae6360617394a88"
+    }
+   ]
+  },
+  {
+   "slug": "hg-143-1997",
+   "path": "hg/1997/143",
+   "short": "HG nr. 143/1997",
+   "title": "Hotărârea Guvernului nr. 143/1997 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Alimentare cu apa a comunei Ghergheasa, judeţul Buzău\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11794",
+   "versions": [
+    {
+     "from": "1997-04-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11794",
+     "sha256": "c8f7e1f0b52b648d39af1ec99a3a85afb0ee7cea88ba99b1c140143ed77d0fd6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-147-1997",
+   "path": "hg/1997/147",
+   "short": "HG nr. 147/1997",
+   "title": "Hotărârea Guvernului nr. 147/1997 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Construcţii de locuinţe Calea Craiovei zona sens giratoriu în municipiul Drobeta-Turnu Severin, judeţul Mehedinţi\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11812",
+   "versions": [
+    {
+     "from": "1997-04-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11812",
+     "sha256": "c75fad94fcb003f3d8b41ba3bb97d374d6581c6a4477f3a03468ffeb99e68292"
+    }
+   ]
+  },
+  {
+   "slug": "hg-148-1997",
+   "path": "hg/1997/148",
+   "short": "HG nr. 148/1997",
+   "title": "Hotărârea Guvernului nr. 148/1997 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Înfiinţare distribuţie gaze naturale în comuna Băiculeşti, judeţul Argeş\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11818",
+   "versions": [
+    {
+     "from": "1997-04-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11818",
+     "sha256": "82770322346d8846aea7e14c87d777a8582da2c6383bfdd94b76323cedbf900e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-149-1997",
+   "path": "hg/1997/149",
+   "short": "HG nr. 149/1997",
+   "title": "Hotărârea Guvernului nr. 149/1997 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Bloc de locuinţe de serviciu în municipiul Braşov, judeţul Braşov\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11823",
+   "versions": [
+    {
+     "from": "1997-04-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11823",
+     "sha256": "1840b66a73adc17169c9fb4f270dcdb7f24cecf40bc89ab1a3d3f29bd059fe41"
+    }
+   ]
+  },
+  {
+   "slug": "hg-152-1997",
+   "path": "hg/1997/152",
+   "short": "HG nr. 152/1997",
+   "title": "Hotărârea Guvernului nr. 152/1997 pentru modificarea anexei la Hotărârea Guvernului nr. 349/1993 privind înfiinţarea Secretariatului Tripartit pentru Dialog Social",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11835",
+   "versions": [
+    {
+     "from": "1997-05-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11835",
+     "sha256": "3594fe4c1e1cbbe84b1182170ab6c87c3368e9a1e41a6fbf35885ec9214ddb40"
+    }
+   ]
+  },
+  {
+   "slug": "hg-155-1997",
+   "path": "hg/1997/155",
+   "short": "HG nr. 155/1997",
+   "title": "Hotărârea Guvernului nr. 155/1997 privind efectuarea şi reflectarea în contabilitate a operaţiunilor în valută",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11850",
+   "versions": [
+    {
+     "from": "1997-04-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11850",
+     "sha256": "a9cec8bb1d9dc860731227a553342c754e532fb8cc7ec4ff697f86a451eb1dbb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-156-1997",
+   "path": "hg/1997/156",
+   "short": "HG nr. 156/1997",
+   "title": "Hotărârea Guvernului nr. 156/1997 privind acordarea unui ajutor umanitar Republicii Albania",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11854",
+   "versions": [
+    {
+     "from": "1997-05-07",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11854",
+     "sha256": "13a307f2e3288e82ca709f039fe17126d8c18ba3122129e961b6ea52108b9a36"
+    }
+   ]
+  },
+  {
+   "slug": "hg-160-1997",
+   "path": "hg/1997/160",
+   "short": "HG nr. 160/1997",
+   "title": "Hotărârea Guvernului nr. 160/1997 privind aprobarea renunţării la cetăţenia română",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11869",
+   "versions": [
+    {
+     "from": "1997-05-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11869",
+     "sha256": "56bf1424bc0ef3709c244b79d20490d7fa59a6bf7c25f5898eb2932456eea8b4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-163-1997",
+   "path": "hg/1997/163",
+   "short": "HG nr. 163/1997",
+   "title": "Hotărârea Guvernului nr. 163/1997 pentru modificarea şi completarea Regulamentului privind organizarea licitaţiilor pentru achiziţiile publice de bunuri şi de servicii, aprobat prin Hotărârea Guvernului nr. 63/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11883",
+   "versions": [
+    {
+     "from": "1997-05-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11883",
+     "sha256": "77f6c8b5bd025c72789291cf15a6d13b38cd53655b5547303532c024362e4fb7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-164-1997",
+   "path": "hg/1997/164",
+   "short": "HG nr. 164/1997",
+   "title": "Hotărârea Guvernului nr. 164/1997 pentru stimularea participării României la Programul european de cercetare-dezvoltare şi inovare EUREKA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11887",
+   "versions": [
+    {
+     "from": "1997-05-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11887",
+     "sha256": "6ed9d8b892487471f630d4c3cbd6d22f6fd137feeae02b5c0f77456468318d44"
+    }
+   ]
+  },
+  {
+   "slug": "hg-165-1997",
+   "path": "hg/1997/165",
+   "short": "HG nr. 165/1997",
+   "title": "Hotărârea Guvernului nr. 165/1997 pentru modificarea şi completarea Hotărârii Guvernului nr. 591/1993 privind măsurile pentru aplicarea dispoziţiilor Legii nr. 61/1993 referitoare la gestionarea fondurilor, stabilirea şi plata alocaţiei de stat pentru copii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11891",
+   "versions": [
+    {
+     "from": "1997-06-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11891",
+     "sha256": "08fd6fd08bb789ac6c9e94070638a52cce09cf15295cb62cb73bbbe00e868a65"
+    }
+   ]
+  },
+  {
+   "slug": "hg-166-1997",
+   "path": "hg/1997/166",
+   "short": "HG nr. 166/1997",
+   "title": "Hotărârea Guvernului nr. 166/1997 privind modificarea şi completarea Regulamentului pentru aplicarea Decretului nr. 328/1966 privind circulaţia pe drumurile publice şi pentru stabilirea şi sancţionarea contravenţiilor în acest sector",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11895",
+   "versions": [
+    {
+     "from": "1997-05-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11895",
+     "sha256": "47baecf94d7f8f90568e2d637ee31c13d096733b589aa5e35121a2fc5c8c0f14"
+    }
+   ]
+  },
+  {
+   "slug": "hg-167-1997",
+   "path": "hg/1997/167",
+   "short": "HG nr. 167/1997",
+   "title": "Hotărârea Guvernului nr. 167/1997 privind constituirea Comisiei Centrale Tripartite Guvern - Sindicate - Patronate din ramura Mine-Geologie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11899",
+   "versions": [
+    {
+     "from": "1997-05-07",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11899",
+     "sha256": "fa5d01dd09a80baa1f0b6c8412d5e3fe4fe8bc68a8288e497633a6028a85cb52"
+    }
+   ]
+  },
+  {
    "slug": "hg-17-1997",
    "path": "hg/1997/17",
    "short": "HG nr. 17/1997",
@@ -278,6 +788,111 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11017",
      "sha256": "ca57913b7dc4f4905d5ccee65d3123904d6c5430bcfb4a6dc411213e73f7a375"
+    }
+   ]
+  },
+  {
+   "slug": "hg-170-1997",
+   "path": "hg/1997/170",
+   "short": "HG nr. 170/1997",
+   "title": "Hotărârea Guvernului nr. 170/1997 privind modificarea anexei la Hotărârea Guvernului nr. 626/1995 pentru aprobarea listei societăţilor comerciale care se privatizează potrivit Legii nr. 55/1995 pentru accelerarea procesului de privatizare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11913",
+   "versions": [
+    {
+     "from": "1997-05-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11913",
+     "sha256": "360ae0e25bab58db667745e3d8c1f6f01c3e9eddffa6803854dc7bcb1df37a75"
+    }
+   ]
+  },
+  {
+   "slug": "hg-173-1997",
+   "path": "hg/1997/173",
+   "short": "HG nr. 173/1997",
+   "title": "Hotărârea Guvernului nr. 173/1997 privind transferul unor mijloace fixe în administrarea autorităţilor care desfăşoară activităţi, potrivit legii, în Punctul de control pentru trecerea frontierei Calafat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11925",
+   "versions": [
+    {
+     "from": "1997-05-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11925",
+     "sha256": "7916670a4328420019a5c98cd71ab788ae749abd829637465a5750bede58a57d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-174-1997",
+   "path": "hg/1997/174",
+   "short": "HG nr. 174/1997",
+   "title": "Hotărârea Guvernului nr. 174/1997 pentru modificarea şi completarea anexei la Hotărârea Guvernului nr. 1.048/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11929",
+   "versions": [
+    {
+     "from": "1997-05-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11929",
+     "sha256": "d7bf9e811c2e3f185f0173822967005c7f629c86f317ba6292bf68291b718934"
+    }
+   ]
+  },
+  {
+   "slug": "hg-175-1997",
+   "path": "hg/1997/175",
+   "short": "HG nr. 175/1997",
+   "title": "Hotărârea Guvernului nr. 175/1997 privind înfiinţarea Societăţii Comerciale \"Editura Ceres\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11933",
+   "versions": [
+    {
+     "from": "1997-05-08",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11933",
+     "sha256": "ab89c602e3bcf9c6df3f6716f664de632224578a0b881d0e677e385f91911b33"
+    }
+   ]
+  },
+  {
+   "slug": "hg-176-1997",
+   "path": "hg/1997/176",
+   "short": "HG nr. 176/1997",
+   "title": "Hotărârea Guvernului nr. 176/1997 privind înfiinţarea Societăţii Comerciale \"Editura Kriterion\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11937",
+   "versions": [
+    {
+     "from": "1997-05-09",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11937",
+     "sha256": "b50f16dbacf255dbca0d97d19a33af01bc4fba90473901d47e57f2cb19e6f173"
+    }
+   ]
+  },
+  {
+   "slug": "hg-179-1997",
+   "path": "hg/1997/179",
+   "short": "HG nr. 179/1997",
+   "title": "Hotărârea Guvernului nr. 179/1997 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Reabilitare alimentare cu apă Feldioara-Crizbav, judeţul Braşov\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11949",
+   "versions": [
+    {
+     "from": "1997-05-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11949",
+     "sha256": "dc02760e4f1916b788bcca344f66c784befb28418a8538f66a0b88a647024e22"
+    }
+   ]
+  },
+  {
+   "slug": "hg-181-1997",
+   "path": "hg/1997/181",
+   "short": "HG nr. 181/1997",
+   "title": "Hotărârea Guvernului nr. 181/1997 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Înfiinţare distribuţie gaze naturale în comuna Titeşti, judeţul Argeş\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11957",
+   "versions": [
+    {
+     "from": "1997-05-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11957",
+     "sha256": "3f0a5dca32153bc8fa446d307037764890c4281846bd26fdce1a160d8470b8bf"
     }
    ]
   },
@@ -8499,6 +9114,21 @@
    ]
   },
   {
+   "slug": "hg-91-1997",
+   "path": "hg/1997/91",
+   "short": "HG nr. 91/1997",
+   "title": "Hotărârea Guvernului nr. 91/1997 privind unele măsuri pentru vânzarea unor efective de animale din societăţile comerciale de creştere a porcinelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11565",
+   "versions": [
+    {
+     "from": "1997-04-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11565",
+     "sha256": "8c792755cdb64973a6c61477bc4bafde847a9af74e700811ab84dbaf79c2ab65"
+    }
+   ]
+  },
+  {
    "slug": "hg-910-1997",
    "path": "hg/1997/910",
    "short": "HG nr. 910/1997",
@@ -8769,6 +9399,21 @@
    ]
   },
   {
+   "slug": "hg-93-1997",
+   "path": "hg/1997/93",
+   "short": "HG nr. 93/1997",
+   "title": "Hotărârea Guvernului nr. 93/1997 pentru modificarea şi completarea Hotărârii Guvernului nr. 545/1996 privind asigurarea şi creditarea stocurilor de păcura şi combustibil lichid uşor pentru populaţie în iarna 1996-1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11576",
+   "versions": [
+    {
+     "from": "1997-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11576",
+     "sha256": "0bea944f5815e2071c6926a5c8bda959bb6c6914d704860962e1f2a4a860a67f"
+    }
+   ]
+  },
+  {
    "slug": "hg-930-1997",
    "path": "hg/1997/930",
    "short": "HG nr. 930/1997",
@@ -8910,6 +9555,21 @@
    ]
   },
   {
+   "slug": "hg-94-1997",
+   "path": "hg/1997/94",
+   "short": "HG nr. 94/1997",
+   "title": "Hotărârea Guvernului nr. 94/1997 privind înfiinţarea Societăţii Comerciale \"Editura Albatros\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11582",
+   "versions": [
+    {
+     "from": "1997-04-08",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11582",
+     "sha256": "2627d8de50731bfa86b976a8778d3ed6ba9aee8e81f2e7989e5499765634c9d4"
+    }
+   ]
+  },
+  {
    "slug": "hg-941-1997",
    "path": "hg/1997/941",
    "short": "HG nr. 941/1997",
@@ -8970,6 +9630,21 @@
    ]
   },
   {
+   "slug": "hg-95-1997",
+   "path": "hg/1997/95",
+   "short": "HG nr. 95/1997",
+   "title": "Hotărârea Guvernului nr. 95/1997 pentru modificarea articolului 5 alineatul 2 din Hotărârea Guvernului nr. 834/1991 privind stabilirea şi evaluarea unor terenuri deţinute de societăţile comerciale cu capital de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11588",
+   "versions": [
+    {
+     "from": "1997-04-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11588",
+     "sha256": "febcbf9207f399c41ec97544b8c31208e767d17bb9d623a48fe1c9d199316af5"
+    }
+   ]
+  },
+  {
    "slug": "hg-950-1997",
    "path": "hg/1997/950",
    "short": "HG nr. 950/1997",
@@ -8981,6 +9656,66 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13780",
      "sha256": "0023a2da7ec6eabb4d028b5c07b5a0a0c2f63892b64bdab1091d894189de2e10"
+    }
+   ]
+  },
+  {
+   "slug": "hg-96-1997",
+   "path": "hg/1997/96",
+   "short": "HG nr. 96/1997",
+   "title": "Hotărârea Guvernului nr. 96/1997 privind aprobarea renunţării la cetăţenia română de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11592",
+   "versions": [
+    {
+     "from": "1997-04-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11592",
+     "sha256": "3dca1b0ce3098128931c817893abe69d266cf19761f6b935fa24f3badd69e043"
+    }
+   ]
+  },
+  {
+   "slug": "hg-97-1997",
+   "path": "hg/1997/97",
+   "short": "HG nr. 97/1997",
+   "title": "Hotărârea Guvernului nr. 97/1997 privind stabilirea datei pentru alegerea Consiliului local în Circumscripţia electorală Sărmăşag, judeţul Sălaj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11598",
+   "versions": [
+    {
+     "from": "1997-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11598",
+     "sha256": "86885df299984ccaf19ae8510950751314c95950844ae597f744dd6311ddb1c5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-98-1997",
+   "path": "hg/1997/98",
+   "short": "HG nr. 98/1997",
+   "title": "Hotărârea Guvernului nr. 98/1997 privind stabilirea modelului listelor electorale, al stampilelor şi al buletinelor de vot pentru alegerile parţiale ale consiliilor locale şi judeţene din perioada 1997-2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11602",
+   "versions": [
+    {
+     "from": "1997-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11602",
+     "sha256": "2758d0bb40b4eb9b337488461a0bdb836c5fbf5506e550db0f330d20c092c53c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-99-1997",
+   "path": "hg/1997/99",
+   "short": "HG nr. 99/1997",
+   "title": "Hotărârea Guvernului nr. 99/1997 privind aprobarea unui contingent la export pentru şrot de floarea-soarelui din recolta anului 1996 în perioada cuprinsă între data publicării în Monitorul Oficial al României a prezentei hotărâri şi 31 august 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11606",
+   "versions": [
+    {
+     "from": "1997-04-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11606",
+     "sha256": "6d1d821b9b4d1091205f16f2b12cb63455c6e7bdbdced5ceae210b2589f39c55"
     }
    ]
   }
