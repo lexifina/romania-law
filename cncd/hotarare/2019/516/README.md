@@ -1,0 +1,15 @@
+# Hotărârea CNCD nr. 516/2019: Barem impus la proba eliminatorie, care a diminuat șansele candidaților - femei la concursul pentru ocuparea unor funcții de ofițeri și subofițeri specialiști
+
+Hotărârea CNCD nr. 516/2019 · 1 versions, from 2019-09-05 (latest in force: 2019-09-05) · <https://www.cncd.ro/hotarari/hotarare-516-19/>
+
+**Status:** Published as CNCD published it on its website (www.cncd.ro); later changes, such as a court annulling it, are not yet recorded.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Text | [text.md](text.md) | 0 |  |
+
+Act id: `cncd-hotarare-2019-516` (tags `cncd-hotarare-2019-516/<day>`; `python tools/on.py <day> cncd-hotarare-2019-516`).
+
+## Decisions made by hand
+
+- Hotărârea CNCD nr. 516/2019: added by Lexifina's cncd source lane from the decision as CNCD publishes it (https://www.cncd.ro/hotarari/hotarare-516-19/). Published as CNCD published it on its website (www.cncd.ro); later changes, such as a court annulling it, are not yet recorded.

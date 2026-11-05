@@ -1,0 +1,15 @@
+# Hotărârea CNCD nr. 441/2018: metode discriminatorii de calcul a stagiilor de cotizare pentru indemnizația de șomaj
+
+Hotărârea CNCD nr. 441/2018 · 1 versions, from 2018-11-19 (latest in force: 2018-11-19) · <https://www.cncd.ro/hotarari/hotarare-441-18-dosar-589-2018_a_i_necompetenta/>
+
+**Status:** Published as CNCD published it on its website (www.cncd.ro); later changes, such as a court annulling it, are not yet recorded.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Text | [text.md](text.md) | 0 |  |
+
+Act id: `cncd-hotarare-2018-441` (tags `cncd-hotarare-2018-441/<day>`; `python tools/on.py <day> cncd-hotarare-2018-441`).
+
+## Decisions made by hand
+
+- Hotărârea CNCD nr. 441/2018: added by Lexifina's cncd source lane from the decision as CNCD publishes it (https://www.cncd.ro/hotarari/hotarare-441-18-dosar-589-2018_a_i_necompetenta/). Published as CNCD published it on its website (www.cncd.ro); later changes, such as a court annulling it, are not yet recorded.

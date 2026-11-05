@@ -1,0 +1,15 @@
+# Hotărârea CNCD nr. 503/2019: refuzul acreditării unui ziarist sportiv pe motiv că a pus întrebări incomode la sfârșitul ultimului meci din campionatul 2017-2018
+
+Hotărârea CNCD nr. 503/2019 · 1 versions, from 2019-08-21 (latest in force: 2019-08-21) · <https://www.cncd.ro/hotarari/hotarare-503-19/>
+
+**Status:** Published as CNCD published it on its website (www.cncd.ro); later changes, such as a court annulling it, are not yet recorded.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Text | [text.md](text.md) | 0 |  |
+
+Act id: `cncd-hotarare-2019-503` (tags `cncd-hotarare-2019-503/<day>`; `python tools/on.py <day> cncd-hotarare-2019-503`).
+
+## Decisions made by hand
+
+- Hotărârea CNCD nr. 503/2019: added by Lexifina's cncd source lane from the decision as CNCD publishes it (https://www.cncd.ro/hotarari/hotarare-503-19/). Published as CNCD published it on its website (www.cncd.ro); later changes, such as a court annulling it, are not yet recorded.
