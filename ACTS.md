@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12540 acts, 24,055 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12542 acts, 24,057 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8417, of which 3178 amending acts)
+## Laws (legi) (8419, of which 3179 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -515,6 +515,8 @@
 | Legea nr. 65/1998 pentru modificarea şi completarea Legii arendării nr. 16/1994 | [`lege/1998/65/`](lege/1998/65/) | amended, not consolidated | 1 | 1998-03-26 | 1998-03-26 |
 | Legea nr. 68/1998 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 68/1997 pentru aplicarea unor articole din Legea învăţământului nr. 84/1995 începând cu anul şcolar 1998/1999 | [`lege/1998/68/`](lege/1998/68/) | amended, not consolidated | 1 | 1998-04-07 | 1998-04-07 |
 | Legea nr. 72/1998 privind aprobarea Ordonanţei Guvernului nr. 67/1997 pentru modificarea şi completarea Ordonanţei Guvernului nr. 20/1994 privind punerea în siguranţa a fondului construit existent | [`lege/1998/72/`](lege/1998/72/) | amended, not consolidated | 1 | 1998-04-08 | 1998-04-08 |
+| Legea nr. 75/1998 privind aprobarea Ordonanţei Guvernului nr. 62/1997 pentru modificarea şi completarea Legii nr. 32/1991 privind impozitul pe salarii, republicată | [`lege/1998/75/`](lege/1998/75/) | amending act | 1 | 1998-04-09 | 1998-04-09 |
+| Legea nr. 76/1998 pentru aderarea României la Convenţia internaţionala pentru protecţia artiştilor interpreţi sau executanţi, a producătorilor de fonograme şi a organismelor de radiodifuziune, încheiată la Roma la 26 octombrie 1961 | [`lege/1998/76/`](lege/1998/76/) | in force | 1 | 1998-04-14 | 1998-04-14 |
 | Legea nr. 78/1998 pentru aderarea României la Convenţia pentru protejarea producătorilor de fonograme împotriva reproducerii neautorizate a fonogramelor lor, adoptată la Geneva la 29 octombrie 1971 | [`lege/1998/78/`](lege/1998/78/) | amended, not consolidated | 1 | 1998-04-17 | 1998-04-17 |
 | Legea nr. 79/1998 pentru aprobarea Ordonanţei Guvernului nr. 52/1997 privind regimul juridic al francizei | [`lege/1998/79/`](lege/1998/79/) | amending act | 1 | 1998-04-13 | 1998-04-13 |
 | Legea nr. 80/1998 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 73/1997 privind asigurarea şi creditarea stocurilor de aprovizionare pentru perioada de toamna-iarna, destinate localităţilor izolate din Delta Dunării | [`lege/1998/80/`](lege/1998/80/) | amended, not consolidated | 1 | 1998-04-15 | 1998-04-15 |
@@ -12606,7 +12608,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 29021 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 29032 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |

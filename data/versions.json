@@ -190661,6 +190661,21 @@
    ]
   },
   {
+   "slug": "legea-75-1998",
+   "path": "lege/1998/75",
+   "short": "Legea nr. 75/1998",
+   "title": "Legea nr. 75/1998 privind aprobarea Ordonanţei Guvernului nr. 62/1997 pentru modificarea şi completarea Legii nr. 32/1991 privind impozitul pe salarii, republicată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14289",
+   "versions": [
+    {
+     "from": "1998-04-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14289",
+     "sha256": "4af2b6875c8fd3ad75def01bcf02c7a9048676dc3feb3544da78062eff29e96c"
+    }
+   ]
+  },
+  {
    "slug": "legea-75-1999",
    "path": "lege/1999/75",
    "short": "Legea nr. 75/1999",
@@ -191083,6 +191098,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6133",
      "sha256": "d6f6b199b676639b766dabd194b8d4f7ff28c02a6c1a482bec4ef0cececef514"
+    }
+   ]
+  },
+  {
+   "slug": "legea-76-1998",
+   "path": "lege/1998/76",
+   "short": "Legea nr. 76/1998",
+   "title": "Legea nr. 76/1998 pentru aderarea României la Convenţia internaţionala pentru protecţia artiştilor interpreţi sau executanţi, a producătorilor de fonograme şi a organismelor de radiodifuziune, încheiată la Roma la 26 octombrie 1961",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14292",
+   "versions": [
+    {
+     "from": "1998-04-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14292",
+     "sha256": "d901d2a5ff21db174977b21f56e18befc9e0a37bbb5e82760fca8ed750ac2c13"
     }
    ]
   },
