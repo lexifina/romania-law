@@ -180257,6 +180257,21 @@
    ]
   },
   {
+   "slug": "legea-59-1999",
+   "path": "lege/1999/59",
+   "short": "Legea nr. 59/1999",
+   "title": "Legea nr. 59/1999 privind ratificarea Acordului dintre Guvernul României şi Guvernul Statului Israel pentru promovarea şi protejarea reciprocă a investiţiilor, semnat la Ierusalim la 3 august 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17990",
+   "versions": [
+    {
+     "from": "1999-04-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17990",
+     "sha256": "fdacc120bd6314fad9be5933676b51bad39462c648f2544183e2a0202602a6f8"
+    }
+   ]
+  },
+  {
    "slug": "legea-59-2001",
    "path": "lege/2001/59",
    "short": "Legea nr. 59/2001",
@@ -238760,6 +238775,21 @@
    ]
   },
   {
+   "slug": "oug-45-1999",
+   "path": "oug/1999/45",
+   "short": "OUG nr. 45/1999",
+   "title": "Ordonanța de urgență a Guvernului nr. 45/1999 pentru aprobarea scutirii de la plata taxei pe valoarea adăugată a unor produse şi echipamente importate pentru înzestrarea Serviciului de Informaţii Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17697",
+   "versions": [
+    {
+     "from": "1999-04-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17697",
+     "sha256": "46ec97471d79fe8a69221e9ada8f03980b8eb938441a3098a0dff6f509940190"
+    }
+   ]
+  },
+  {
    "slug": "oug-45-2002",
    "path": "oug/2002/45",
    "short": "OUG nr. 45/2002",
@@ -238975,6 +239005,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270769",
      "sha256": "e0e2f4a0294feb1431c3c58e9b704294b13a73a3eb31d94c9eb38e01679427cf"
+    }
+   ]
+  },
+  {
+   "slug": "oug-46-1999",
+   "path": "oug/1999/46",
+   "short": "OUG nr. 46/1999",
+   "title": "Ordonanța de urgență a Guvernului nr. 46/1999 pentru aprobarea scutirii de la plata taxei pe valoarea adăugată a unor produse şi echipamente importate pentru înzestrarea Ministerului Apărării Naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17698",
+   "versions": [
+    {
+     "from": "1999-04-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17698",
+     "sha256": "30df736979782cae0bf669ad7285a17f9da9d9ae013b3d27767695043eac74b9"
     }
    ]
   },

@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12452 acts, 23,967 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12455 acts, 23,970 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8347, of which 3136 amending acts)
+## Laws (legi) (8348, of which 3136 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -625,6 +625,7 @@
 | Legea nr. 49/1999 | [`lege/1999/49/`](lege/1999/49/) | in force | 7 | 1999-04-01 | 2024-01-01 |
 | Legea nr. 52/1999 privind aprobarea Ordonanţei Guvernului nr. 46/1998 pentru stabilirea unor măsuri în vederea îndeplinirii obligaţiilor asumate de România prin aderarea la Convenţia internaţionala EUROCONTROL privind cooperarea pentru securitatea navigaţiei aeriene şi la Acordul multilateral privind tarifele de ruta aeriană | [`lege/1999/52/`](lege/1999/52/) | amended, not consolidated | 1 | 1999-04-13 | 1999-04-13 |
 | Legea nr. 54/1999 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 19/1998 privind rectificarea bugetului asigurărilor sociale de stat pe anul 1998 | [`lege/1999/54/`](lege/1999/54/) | amended, not consolidated | 1 | 1999-04-20 | 1999-04-20 |
+| Legea nr. 59/1999 privind ratificarea Acordului dintre Guvernul României şi Guvernul Statului Israel pentru promovarea şi protejarea reciprocă a investiţiilor, semnat la Ierusalim la 3 august 1998 | [`lege/1999/59/`](lege/1999/59/) | in force | 1 | 1999-04-28 | 1999-04-28 |
 | Legea nr. 64/1999 pentru aprobarea Ordonanţei Guvernului nr. 70/1997 privind controlul fiscal | [`lege/1999/64/`](lege/1999/64/) | amended, not consolidated | 1 | 1999-04-21 | 1999-04-21 |
 | Legea nr. 69/1999 pentru aprobarea Ordonanţei Guvernului nr. 28/1999 de ratificare a Acordului-cadru de împrumut dintre România şi Fondul de Dezvoltare Socială al Consiliului Europei pentru sprijinirea regiunilor afectate de inundaţiile din ultima perioadă, semnat la Paris la 19 ianuarie 1999 | [`lege/1999/69/`](lege/1999/69/) | amending act | 1 | 1999-05-05 | 1999-05-05 |
 | Legea nr. 72/1999 privind reînfiinţarea comunelor Costineşti şi Horia din judeţul Constanţa | [`lege/1999/72/`](lege/1999/72/) | amended, not consolidated | 1 | 1999-05-05 | 1999-05-05 |
@@ -8385,7 +8386,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (2923, of which 673 amending acts)
+## Emergency ordinances (OUG) (2925, of which 675 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8472,6 +8473,8 @@
 | Ordonanța de urgență a Guvernului nr. 40/1999 privind protecția chiriașilor și stabilirea chiriei pentru spațiile cu destinația de locuințe | [`oug/1999/40/`](oug/1999/40/) | in force | 7 | 1999-04-08 | 2011-10-01 |
 | Ordonanța de urgență a Guvernului nr. 42/1999 pentru completarea Legii sanitare veterinare nr. 60/1974 | [`oug/1999/42/`](oug/1999/42/) | amended, not consolidated | 1 | 1999-04-13 | 1999-04-13 |
 | Ordonanța de urgență a Guvernului nr. 44/1999 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 67/1998 privind restructurarea financiară a Băncii Române de Comerț Exterior - BANCOREX - S.A., în vederea privatizării | [`oug/1999/44/`](oug/1999/44/) | amending act | 2 | 1999-04-09 | 2001-12-13 |
+| Ordonanța de urgență a Guvernului nr. 45/1999 pentru aprobarea scutirii de la plata taxei pe valoarea adăugată a unor produse şi echipamente importate pentru înzestrarea Serviciului de Informaţii Externe | [`oug/1999/45/`](oug/1999/45/) | amending act | 1 | 1999-04-14 | 1999-04-14 |
+| Ordonanța de urgență a Guvernului nr. 46/1999 pentru aprobarea scutirii de la plata taxei pe valoarea adăugată a unor produse şi echipamente importate pentru înzestrarea Ministerului Apărării Naţionale | [`oug/1999/46/`](oug/1999/46/) | amending act | 1 | 1999-04-14 | 1999-04-14 |
 | Ordonanța de urgență a Guvernului nr. 47/1999 pentru completarea art. 4 din Ordonanţa Guvernului nr. 70/1994 privind impozitul pe profit | [`oug/1999/47/`](oug/1999/47/) | amended, not consolidated | 1 | 1999-04-20 | 1999-04-20 |
 | Ordonanța de urgență a Guvernului nr. 48/1999 pentru modificarea şi completarea Legii audiovizualului nr. 48/1992 | [`oug/1999/48/`](oug/1999/48/) | amended, not consolidated | 1 | 1999-04-23 | 1999-04-23 |
 | Ordonanța de urgență a Guvernului nr. 52/1999 privind asigurarea unui cadru unitar pentru managementul proiectelor finanțate prin împrumuturi externe contractate sau garantate de stat, rambursabile sau nerambursabile, inclusiv privind plata specialiștilor români care își desfășoară activitatea în cadrul unităților de management de proiect | [`oug/1999/52/`](oug/1999/52/) | in force | 5 | 1999-04-29 | 2021-08-13 |
@@ -12518,7 +12521,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 28413 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 28435 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |
