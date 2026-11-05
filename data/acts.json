@@ -144485,6 +144485,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/22524"
 },
 {
+"slug": "oug-65-2000",
+"path": "oug/2000/65",
+"kind": "oug",
+"year": "2000",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 65/2000 privind exceptarea de la plata taxei vamale, a suprataxei şi a taxei pe valoarea adăugată pentru obiectivul de investiţii \"Incinerator - sistem de ardere şi neutralizare a deşeurilor din municipiul Oradea\"",
+"short": "OUG nr. 65/2000",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2000-06-06",
+"latest": "2000-06-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/22607"
+},
+{
 "slug": "oug-66-2000",
 "path": "oug/2000/66",
 "kind": "oug",

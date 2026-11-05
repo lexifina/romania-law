@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12393 acts, 23,907 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12394 acts, 23,908 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -8357,7 +8357,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (2909, of which 669 amending acts)
+## Emergency ordinances (OUG) (2910, of which 669 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8540,6 +8540,7 @@
 | Ordonanța de urgență a Guvernului nr. 60/2000 pentru modificarea alin. 2 al art. 74 din Legea nr. 80/1995 privind statutul cadrelor militare | [`oug/2000/60/`](oug/2000/60/) | amended, not consolidated | 1 | 2000-05-31 | 2000-05-31 |
 | Ordonanța de urgență a Guvernului nr. 62/2000 privind ratificarea Memorandumului de finanţare dintre Guvernul României şi Comisia Europeană referitor la Programul RO 9904 pentru restructurarea întreprinderilor şi reconversie profesională (RICOP), semnat la Bucureşti la 30 decembrie 1999 | [`oug/2000/62/`](oug/2000/62/) | amended, not consolidated | 1 | 2000-06-05 | 2000-06-05 |
 | Ordonanța de urgență a Guvernului nr. 63/2000 privind modificarea şi completarea Legii nr. 68/1992 pentru alegerea Camerei Deputaţilor şi a Senatului, modificarea Legii nr. 69/1992 pentru alegerea Preşedintelui României şi modificarea şi completarea Legii nr. 70/1991 privind alegerile locale | [`oug/2000/63/`](oug/2000/63/) | amended, not consolidated | 1 | 2000-05-31 | 2000-05-31 |
+| Ordonanța de urgență a Guvernului nr. 65/2000 privind exceptarea de la plata taxei vamale, a suprataxei şi a taxei pe valoarea adăugată pentru obiectivul de investiţii "Incinerator - sistem de ardere şi neutralizare a deşeurilor din municipiul Oradea" | [`oug/2000/65/`](oug/2000/65/) | in force | 1 | 2000-06-06 | 2000-06-06 |
 | Ordonanța de urgență a Guvernului nr. 66/2000 pentru modificarea şi completarea Legii nr. 142/1999 privind sprijinul statului pentru salarizarea clerului | [`oug/2000/66/`](oug/2000/66/) | amended, not consolidated | 1 | 2000-06-06 | 2000-06-06 |
 | Ordonanța de urgență a Guvernului nr. 69/2000 privind modificarea şi completarea Legii fondului cinegetic şi a protecţiei vânatului nr. 103/1996 | [`oug/2000/69/`](oug/2000/69/) | amended, not consolidated | 1 | 2000-06-14 | 2000-06-14 |
 | Ordonanța de urgență a Guvernului nr. 72/2000 pentru modificarea art. 2 lit. a) din Ordonanţa de urgenţă a Guvernului nr. 170/1999 privind acordarea, în mod gratuit, a asistenţei medicale, medicamentelor şi protezelor pentru unele categorii de persoane prevăzute în legi speciale | [`oug/2000/72/`](oug/2000/72/) | amended, not consolidated | 1 | 2000-06-13 | 2000-06-13 |
@@ -12459,7 +12460,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 27690 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 27713 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 12574 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 710 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 550 | [`data/acts/regulament/`](data/acts/regulament/) |
