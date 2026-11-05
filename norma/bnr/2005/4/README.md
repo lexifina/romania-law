@@ -2,7 +2,7 @@
 
 Norma bnr nr. 4/2005 · 1 versions, from 2005-04-08 (latest in force: 2005-04-08) · <https://legislatie.just.ro/Public/DetaliiDocument/60600>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -55,3 +55,4 @@ Act id: `norma-bnr-4-2005` (tags `norma-bnr-4-2005/<day>`; `python tools/on.py <
 - Norma bnr nr. 4/2005: Anexa nr. 1 (1 la normă LISTA documentelor necesare obținerii autorizației Băncii Naționale a României D1 - certificatul constatator/extrasul din registrul societăților, emis de oficiul registrului comerțului cu c) is part of the norm and is published in its folder, anexa-1/ (paragraphs), from document 60600 of the official web service.
 - Norma bnr nr. 4/2005: Anexa nr. 2 (2 la normă Denumirea entității....................... Adresa.................................... DECLARAȚIE În vederea desfășurării operațiunilor de schimb valutar cu numerar și substitute de numerar) is part of the norm and is published in its folder, anexa-2/ (paragraphs), from document 60600 of the official web service.
 - Norma bnr nr. 4/2005: the publisher's notes run into its text (*) Se va completa numai de către entităţile prevăzute la art. 1 lit. b) din Norma Băncii Naţionale a României nr. 4/2005) are not text.
+- Norma bnr nr. 4/2005: its in-force clause could not be read automatically, so this record dates it from its publication (8 April 2005); the date will be checked by hand.

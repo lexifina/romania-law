@@ -2,7 +2,7 @@
 
 Ordin finante nr. 897/2007 · 1 versions, from 2007-08-15 (latest in force: 2007-08-15) · <https://legislatie.just.ro/Public/DetaliiDocument/84487>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -23,3 +23,4 @@ Act id: `ordin-finante-897-2007` (tags `ordin-finante-897-2007/<day>`; `python t
 - Ordin finante nr. 897/2007: a joint order of Ministerul Economiei și Finanțelor nr. 897 din 9 August 2007; Banca Națională a României nr. 14 din 9 August 2007. It is published once, here, under the issuer its EMITENT block lists first; `ordin-bnr-14-2007` name it too (data/paths.json aliases).
 - Ordin finante nr. 897/2007: Anexa nr. 1 (SISTEMUL de raportare contabilă semestrială a instituțiilor de credit I. În cuprinsul Sistemului de raportare contabilă semestrială a instituțiilor de credit termenul "bilanț" se va înlocui cu sintagm) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 84487 of the official web service.
 - Ordin finante nr. 897/2007: the publisher's notes run into its text (*) Se completează doar de către instituțiile de credit.; **) Pentru statutul de "persoane juridice afiliate" se vor avea în vedere prevederile art.7 pct.21 din Legea nr. 571/200; ***) Cheltuielile de inovare se determină potrivit Regulamentului Comisiei nr. 1450/2004, publicat în Jurnalul Oficial a) are not text.
+- Ordin finante nr. 897/2007: its in-force clause could not be read automatically, so this record dates it from its publication (15 August 2007); the date will be checked by hand.

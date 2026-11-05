@@ -2,7 +2,7 @@
 
 Ordin bnr nr. 3/2018 · 1 versions, from 2018-05-11 (latest in force: 2018-05-11) · <https://legislatie.just.ro/Public/DetaliiDocument/200617>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -18,3 +18,4 @@ Act id: `ordin-bnr-3-2018` (tags `ordin-bnr-3-2018/<day>`; `python tools/on.py <
 - Ordin bnr nr. 3/2018: the first version is the order as published in Monitorul Oficial nr. 406 of 11 May 2018 (document 200617 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin bnr nr. 3/2018: the signatures and the place and date line after its last article are not article text.
 - Ordin bnr nr. 3/2018: the publisher's notes run into its text (**) Se va completa cu cheltuielile efectuate pentru activitatea de cercetare-dezvoltare, respectiv cercetarea fundamenta; ***) Se va completa cu cheltuielile efectuate pentru activitatea de inovare conform Regulamentului de punere în aplicare; ****) Se raportează doar de către instituțiile de credit cu capital de stat, care sunt organizate și funcționează în baz) are not text.
+- Ordin bnr nr. 3/2018: its in-force clause could not be read automatically, so this record dates it from its publication (11 May 2018); the date will be checked by hand.

@@ -2,7 +2,7 @@
 
 Ordin anre nr. 58/2015 · 1 versions, from 2015-03-30 (latest in force: 2015-03-30) · <https://legislatie.just.ro/Public/DetaliiDocument/166793>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 STRUCTURA tarifului reglementat pentru prestarea serviciului de înmagazinare subterană a gazelor naturale, pentru ciclul complet, injecție-extracție, de ...): it is a table that the official text holds only flattened; Anexa nr. 2 (2 Venitul total și venitul reglementat total aferente celui de-al patrulea an, aprilie 2015-martie 2016, al perioadei a treia de reglementare ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 STRUCTURA tarifului reglementat pentru prestarea serviciului de înmagazinare subterană a gazelor naturale, pentru ciclul complet, injecție-extracție, de ...): it is a table that the official text holds only flattened; Anexa nr. 2 (2 Venitul total și venitul reglementat total aferente celui de-al patrulea an, aprilie 2015-martie 2016, al perioadei a treia de reglementare ...): it is a table that the official text holds only flattened. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -21,3 +21,4 @@ Act id: `ordin-anre-58-2015` (tags `ordin-anre-58-2015/<day>`; `python tools/on.
 - Ordin anre nr. 58/2015: the signatures and the place and date line after its last article are not article text.
 - Ordin anre nr. 58/2015: Anexa nr. 1 (1 STRUCTURA tarifului reglementat pentru prestarea serviciului de înmagazinare subterană a gazelor naturale, pentru ciclul complet, injecție-extracție, de ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin anre nr. 58/2015: Anexa nr. 2 (2 Venitul total și venitul reglementat total aferente celui de-al patrulea an, aprilie 2015-martie 2016, al perioadei a treia de reglementare ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anre nr. 58/2015: its in-force clause could not be read automatically, so this record dates it from its publication (30 March 2015); the date will be checked by hand.

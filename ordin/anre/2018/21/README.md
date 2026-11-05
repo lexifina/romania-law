@@ -2,7 +2,7 @@
 
 Ordin anre nr. 21/2018 · 1 versions, from 2018-02-05 (latest in force: 2018-02-05) · <https://legislatie.just.ro/Public/DetaliiDocument/197489>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -28,3 +28,4 @@ Act id: `ordin-anre-21-2018` (tags `ordin-anre-21-2018/<day>`; `python tools/on.
 - Ordin anre nr. 21/2018: Anexa nr. 1 ((Anexa nr. 1 la regulament) CERERE de racordare la sistemul de transport gaze naturale Către.................................................. SECȚIUNEA 1. Datele de identificare ale solicitantului 1.) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 197489 of the official web service.
 - Ordin anre nr. 21/2018: Anexa nr. 2 ((Anexa nr. 2 la regulament) AVIZ TEHNIC DE RACORDARE la sistemul de transport al gazelor naturale nr..... din..... 1. Ca urmare a Cererii de racordare nr....... din data de.........................,..) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 197489 of the official web service.
 - Ordin anre nr. 21/2018: Anexa nr. 3 ((Anexa nr. 3 la regulament) REFUZ DE RACORDARE la sistemul de transport al gazelor naturale nr........... din............... 1. Ca urmare a Cererii de racordare nr......... din........................) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 197489 of the official web service.
+- Ordin anre nr. 21/2018: its in-force clause could not be read automatically, so this record dates it from its publication (5 February 2018); the date will be checked by hand.

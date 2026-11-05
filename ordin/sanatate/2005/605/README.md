@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 605/2005 · 1 versions, from 2005-06-06 (latest in force: 2005-06-06) · <https://legislatie.just.ro/Public/DetaliiDocument/62207>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -21,3 +21,4 @@ Act id: `ordin-sanatate-605-2005` (tags `ordin-sanatate-605-2005/<day>`; `python
 - Ordin sanatate nr. 605/2005: the first version is the order as published in Monitorul Oficial nr. 477 of 6 June 2005 (document 62207 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin sanatate nr. 605/2005: the signatures and the place and date line after its last article are not article text.
 - Ordin sanatate nr. 605/2005: Anexa nr. 1 (LISTA medicamentelor pentru care nu se stabilește preț de referință și prețul de decontare al acestora DCI Forma farmaceutică Doză/ concentrație Preț de decontare/unitate terapeutică Preț de decontare) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 62207 of the official web service.
+- Ordin sanatate nr. 605/2005: its in-force clause could not be read automatically, so this record dates it from its publication (6 June 2005); the date will be checked by hand.

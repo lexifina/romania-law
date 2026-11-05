@@ -2,7 +2,7 @@
 
 Norma finante nr. 15510/2003 · 1 versions, from 2003-06-25 (latest in force: 2003-06-25) · <https://legislatie.just.ro/Public/DetaliiDocument/44631>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 4 (4a)): it is a table that the official text holds only flattened; Anexa nr. 6 (4c)): it is a table that the official text holds only flattened; Anexa nr. 10 (5a)): it is a table that the official text holds only flattened; Anexa nr. 19 (7c)): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. It states that it applies from 1 January 2003, before its publication; dated here by its publication in the Monitorul Oficial. Not included yet: Anexa nr. 4 (4a)): it is a table that the official text holds only flattened; Anexa nr. 6 (4c)): it is a table that the official text holds only flattened; Anexa nr. 10 (5a)): it is a table that the official text holds only flattened; Anexa nr. 19 (7c)): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -71,7 +71,7 @@ Act id: `norma-finante-15510-2003` (tags `norma-finante-15510-2003/<day>`; `pyth
 
 - Norma finante nr. 15510/2003: added from the official web service of the Portalul legislativ (FreeWebService) as the norm as published (document 44631, retrieved 2026-11-04). Whether later acts amended it has not yet been checked against the official full-text search; amendments, if any, are not applied here. It will be extended or relabelled when that check is done.
 - Norma finante nr. 15510/2003: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
-- Norma finante nr. 15510/2003: the first version is the norm as published in Monitorul Oficial nr. 450 of 25 June 2003 (document 44631 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
+- Norma finante nr. 15510/2003: the first version is the norm as published in Monitorul Oficial nr. 450 of 25 June 2003 (document 44631 of the official web service), in force on its day of publication: it states that it applies from 1 January 2003, before its publication, and is dated here by its publication in the Monitorul Oficial.
 - Norma finante nr. 15510/2003: the signatures and the place and date line after its last article are not article text.
 - Norma finante nr. 15510/2003: Anexa nr. 1 (1) is part of the norm and is published in its folder, anexa-1/ (paragraphs), from document 44631 of the official web service.
 - Norma finante nr. 15510/2003: Anexa nr. 2 (2) is part of the norm and is published in its folder, anexa-2/ (paragraphs), from document 44631 of the official web service.

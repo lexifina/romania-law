@@ -2,7 +2,7 @@
 
 Ordin csa nr. 3116/2005 · 1 versions, from 2005-07-15 (latest in force: 2005-07-15) · <https://legislatie.just.ro/Public/DetaliiDocument/63262>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (NORME privind aplicarea legii în domeniul asigurărilor obligatorii de răspundere civilă pentru pagube produse prin accidente de autovehicule și autorizarea ...): its text could not yet be split into provisions without losing or adding words.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (NORME privind aplicarea legii în domeniul asigurărilor obligatorii de răspundere civilă pentru pagube produse prin accidente de autovehicule și autorizarea ...): its text could not yet be split into provisions without losing or adding words. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -47,3 +47,4 @@ Act id: `ordin-csa-3116-2005` (tags `ordin-csa-3116-2005/<day>`; `python tools/o
 - Ordin csa nr. 3116/2005: Anexa nr. 9 (7) is part of the order and is published in its folder, anexa-9/ (paragraphs), from document 63262 of the official web service.
 - Ordin csa nr. 3116/2005: Anexa nr. 1 (NORME privind aplicarea legii în domeniul asigurărilor obligatorii de răspundere civilă pentru pagube produse prin accidente de autovehicule și autorizarea ...) is not included yet: its text could not yet be split into provisions without losing or adding words. It will be added when it can be published in full.
 - Ordin csa nr. 3116/2005: the publisher's notes run into its text (*) Corecţia se va face prin adunare, dacă parcursul real este mai mare de 10.000 km/an, ori prin scădere, dacă parcursul) are not text.
+- Ordin csa nr. 3116/2005: its in-force clause could not be read automatically, so this record dates it from its publication (15 July 2005); the date will be checked by hand.

@@ -2,7 +2,7 @@
 
 Ordin finante nr. 1842/2003 · 1 versions, from 2004-01-09 (latest in force: 2004-01-09) · <https://legislatie.just.ro/Public/DetaliiDocument/48980>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌────────────┐ │ ROMÂNIA │ DECLARATIE │ ┌───┐ │ privind contribuțiile sociale │ │MFP│ │ │ └───┘ │ │ MINISTERUL │ │ FINANTELOR │ │ PUBLICE │ └────────────┘ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. It states that it applies from 1 January 2004, before its publication; dated here by its publication in the Monitorul Oficial. Not included yet: Anexa nr. 1 (1 ┌────────────┐ │ ROMÂNIA │ DECLARATIE │ ┌───┐ │ privind contribuțiile sociale │ │MFP│ │ │ └───┘ │ │ MINISTERUL │ │ FINANTELOR │ │ PUBLICE │ └────────────┘ ...): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -25,7 +25,7 @@ Act id: `ordin-finante-1842-2003` (tags `ordin-finante-1842-2003/<day>`; `python
 
 - Ordin finante nr. 1842/2003: added from the official web service of the Portalul legislativ (FreeWebService) as the order as published (document 48980, retrieved 2026-11-02). Whether later acts amended it has not yet been checked against the official full-text search; amendments, if any, are not applied here. It will be extended or relabelled when that check is done.
 - Ordin finante nr. 1842/2003: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
-- Ordin finante nr. 1842/2003: the first version is the order as published in Monitorul Oficial nr. 18 of 9 January 2004 (document 48980 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
+- Ordin finante nr. 1842/2003: the first version is the order as published in Monitorul Oficial nr. 18 of 9 January 2004 (document 48980 of the official web service), in force on its day of publication: it states that it applies from 1 January 2004, before its publication, and is dated here by its publication in the Monitorul Oficial.
 - Ordin finante nr. 1842/2003: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 1842/2003: Anexa nr. 2 (3 NOMENCLATORUL OBLIGAȚIILOR BUGETARE Nr. crt. Denumire obligație bugetară Temei legal 1. Contribuția individuală de asigurări sociale reținută de la asigurați Legea nr. 19/2000 privind sistemul publi) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 48980 of the official web service.
 - Ordin finante nr. 1842/2003: Anexa nr. 3 (4 CARACTERISTICI de tipărire, modul de difuzare, utilizare și păstrare a formularului Denumire: Declarație privind contribuțiile sociale Cod: 14.13.01.01/c Format: A4/t1 U/M: seturi Caracteristici de) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 48980 of the official web service.

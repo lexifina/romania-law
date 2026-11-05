@@ -2,7 +2,7 @@
 
 Ordin bnr nr. 16/2009 · 1 versions, from 2009-12-29 (latest in force: 2009-12-29) · <https://legislatie.just.ro/Public/DetaliiDocument/114964>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. In force in stages: dated by its earliest day, 29 December 2009; later days are not yet shown as versions: "Prevederile prezentului ordin sunt aplicabile începând cu situațiile financiare aferente exercițiului financiar al anului 2009, cu excepția prevederilor pct. 4 din anexă, care intră în vigoare începând cu data de 1 ianuarie 2010." (1 January 2010).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

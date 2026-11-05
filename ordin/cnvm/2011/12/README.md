@@ -2,7 +2,7 @@
 
 Ordin cnvm nr. 12/2011 · 1 versions, from 2011-03-03 (latest in force: 2011-03-03) · <https://legislatie.just.ro/Public/DetaliiDocument/126520>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (REGULAMENT 3 03/02/2011): the official text prints its heading only, and its text is not in the records held.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (REGULAMENT 3 03/02/2011): the official text prints its heading only, and its text is not in the records held. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -20,3 +20,4 @@ Act id: `ordin-cnvm-12-2011` (tags `ordin-cnvm-12-2011/<day>`; `python tools/on.
 - Ordin cnvm nr. 12/2011: the first version is the order as published in Monitorul Oficial nr. 156 of 3 March 2011 (document 126520 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin cnvm nr. 12/2011: the signatures and the place and date line after its last article are not article text.
 - Ordin cnvm nr. 12/2011: Anexa nr. 1 (REGULAMENT 3 03/02/2011) is not included yet: the official text prints its heading only, and its text is not in the records held. It will be added when it can be published in full.
+- Ordin cnvm nr. 12/2011: its in-force clause could not be read automatically, so this record dates it from its publication (3 March 2011); the date will be checked by hand.

@@ -2,7 +2,7 @@
 
 Ordin finante nr. 2011/2013 · 1 versions, from 2013-12-16 (latest in force: 2013-12-16) · <https://legislatie.just.ro/Public/DetaliiDocument/153631>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (┌───────────────────────────────────────┬────────┬─────────────────────────────┐ │CERERE PENTRU DESCHIDEREA DE CREDITE │Suma(lei│M.F.P.Direcția │ │ BUGETARE │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (┌───────────────────────────────────────┬────────┬─────────────────────────────┐ │CERERE PENTRU DESCHIDEREA DE CREDITE │Suma(lei│M.F.P.Direcția │ │ BUGETARE │ ...): it is a table that the official text holds only flattened. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -20,3 +20,4 @@ Act id: `ordin-finante-2011-2013` (tags `ordin-finante-2011-2013/<day>`; `python
 - Ordin finante nr. 2011/2013: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 2011/2013: Anexa nr. 1 (┌───────────────────────────────────────┬────────┬─────────────────────────────┐ │CERERE PENTRU DESCHIDEREA DE CREDITE │Suma(lei│M.F.P.Direcția │ │ BUGETARE │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin finante nr. 2011/2013: the publisher's notes run into its text (*) Se completează "SF" sau "SD" pentru instituţiile publice ale administraţiei publice locale.; **) Se completează pentru MFP - Acţiuni generale.; ***) Se completează de ordonatorul de credite ierarhic superior al instituţiilor publice care au obligaţia deschiderii d; ****) Se completează de unităţile teritoriale ale Trezoreriei Statului pentru cererile pentru deschiderea de credite bug) are not text.
+- Ordin finante nr. 2011/2013: its in-force clause could not be read automatically, so this record dates it from its publication (16 December 2013); the date will be checked by hand.

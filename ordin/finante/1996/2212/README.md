@@ -2,7 +2,7 @@
 
 Ordin finante nr. 2212/1996 · 1 versions, from 1996-11-25 (latest in force: 1996-11-25) · <https://legislatie.just.ro/Public/DetaliiDocument/10679>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. No in-force day is stated; dated by its publication in the Monitorul Oficial.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -22,7 +22,7 @@ Act id: `ordin-finante-2212-1996` (tags `ordin-finante-2212-1996/<day>`; `python
 
 - Ordin finante nr. 2212/1996: added from the official web service of the Portalul legislativ (FreeWebService) as the order as published (document 10679, retrieved 2026-11-02). Whether later acts amended it has not yet been checked against the official full-text search; amendments, if any, are not applied here. It will be extended or relabelled when that check is done.
 - Ordin finante nr. 2212/1996: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
-- Ordin finante nr. 2212/1996: the first version is the order as published in Monitorul Oficial nr. 304 of 25 November 1996 (document 10679 of the official web service), in force on its day of publication: no in-force day is stated, so it is dated by its publication in the Monitorul Oficial.
+- Ordin finante nr. 2212/1996: the first version is the order as published in Monitorul Oficial nr. 304 of 25 November 1996 (document 10679 of the official web service), in force on its day of publication, as it states.
 - Ordin finante nr. 2212/1996: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 2212/1996: Anexa nr. 1 (1 NORME METODOLOGICE privind modificarea și completarea Ordinului ministrului de stat, ministrul finanțelor, nr. 1.369/1996 pentru aprobarea Normelor metodologice privind acordarea de către stat de ga) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 10679 of the official web service.
 - Ordin finante nr. 2212/1996: Anexa nr. 2 (2 STRUCTURA pe servicii functionale a direcției generale a controlului financiar de stat și a direcțiilor controlului financiar de stat din județe și din municipiul București I. Direcția generală a co) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 10679 of the official web service.

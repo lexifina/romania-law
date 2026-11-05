@@ -2,7 +2,7 @@
 
 Ordin bnr nr. 5/2014 · 1 versions, from 2014-09-23 (latest in force: 2014-09-23) · <https://legislatie.just.ro/Public/DetaliiDocument/161496>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (NORMA 17/09/2014): its text is a document of its own that could not be matched to one record held; an annex it points to is not in the records held (Norma of 2014-09-17); a part of it is published in a "bis" issue of the Monitorul Oficial or in facsimile, which the official text leaves out.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (NORMA 17/09/2014): its text is a document of its own that could not be matched to one record held; an annex it points to is not in the records held (Norma of 2014-09-17); a part of it is published in a "bis" issue of the Monitorul Oficial or in facsimile, which the official text leaves out. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -22,3 +22,4 @@ Act id: `ordin-bnr-5-2014` (tags `ordin-bnr-5-2014/<day>`; `python tools/on.py <
 - Ordin bnr nr. 5/2014: Anexa nr. 1 (NORMA 17/09/2014) is not included yet: its text is a document of its own that could not be matched to one record held. It will be added when it can be published in full.
 - Ordin bnr nr. 5/2014: an annex it points to (Norma of 2014-09-17) is not in the records held, so it is not included. It will be added when a source for it is found.
 - Ordin bnr nr. 5/2014: the publisher's note "*) Anexa se publică în Monitorul Oficial al României, Partea I, nr. 693 bis, care se poate achiziţiona de la Centrul pentru relaţii cu publicul al Regiei Autonome "Monitorul Oficial", Bucureşti, şos. " sends a part of it to a "bis" issue or a facsimile, which the official web service's text leaves out; that part is not included. It will be added when a source for it is found.
+- Ordin bnr nr. 5/2014: its in-force clause could not be read automatically, so this record dates it from its publication (23 September 2014); the date will be checked by hand.

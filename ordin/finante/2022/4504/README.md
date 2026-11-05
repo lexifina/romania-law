@@ -2,7 +2,7 @@
 
 Ordin finante nr. 4504/2022 · 1 versions, from 2022-12-29 (latest in force: 2022-12-29) · <https://legislatie.just.ro/Public/DetaliiDocument/263272>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -19,3 +19,4 @@ Act id: `ordin-finante-4504-2022` (tags `ordin-finante-4504-2022/<day>`; `python
 - Ordin finante nr. 4504/2022: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin finante nr. 4504/2022: the first version is the order as published in Monitorul Oficial nr. 1267 of 29 December 2022 (document 263272 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin finante nr. 4504/2022: the signatures and the place and date line after its last article are not article text.
+- Ordin finante nr. 4504/2022: its in-force clause could not be read automatically, so this record dates it from its publication (29 December 2022); the date will be checked by hand.

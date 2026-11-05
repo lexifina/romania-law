@@ -2,7 +2,7 @@
 
 Regulament bnr nr. 4/1994 · 1 versions, from 1994-03-22 (latest in force: 1994-03-22) · <https://legislatie.just.ro/Public/DetaliiDocument/3810>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. No in-force day is stated; dated by its publication in the Monitorul Oficial.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. It states that it applies from 15 March 1994, before its publication; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -32,6 +32,6 @@ Act id: `regulament-bnr-4-1994` (tags `regulament-bnr-4-1994/<day>`; `python too
 
 - Regulament bnr nr. 4/1994: added from the official web service of the Portalul legislativ (FreeWebService) as the regulation as published (document 3810, retrieved 2026-11-02). Whether later acts amended it has not yet been checked against the official full-text search; amendments, if any, are not applied here. It will be extended or relabelled when that check is done.
 - Regulament bnr nr. 4/1994: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
-- Regulament bnr nr. 4/1994: the first version is the regulation as published in Monitorul Oficial nr. 72 of 22 March 1994 (document 3810 of the official web service), in force on its day of publication: no in-force day is stated, so it is dated by its publication in the Monitorul Oficial.
+- Regulament bnr nr. 4/1994: the first version is the regulation as published in Monitorul Oficial nr. 72 of 22 March 1994 (document 3810 of the official web service), in force on its day of publication: it states that it applies from 15 March 1994, before its publication, and is dated here by its publication in the Monitorul Oficial.
 - Regulament bnr nr. 4/1994: the signatures and the place and date line after its last article are not article text.
 - Regulament bnr nr. 4/1994: the publisher's note "*) Anexa se comunică unităţilor interesate." is not text; the annexes it names are not published in Monitorul Oficial and are not part of this record.

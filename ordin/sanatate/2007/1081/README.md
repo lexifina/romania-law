@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 1081/2007 · 1 versions, from 2007-09-03 (latest in force: 2007-09-03) · <https://legislatie.just.ro/Public/DetaliiDocument/85034>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -21,3 +21,4 @@ Act id: `ordin-sanatate-1081-2007` (tags `ordin-sanatate-1081-2007/<day>`; `pyth
 - Ordin sanatate nr. 1081/2007: the signatures and the place and date line after its last article are not article text.
 - Ordin sanatate nr. 1081/2007: a joint order of Ministerul Sănătății Publice nr. 1.081 din 20 June 2007; Casa Națională de Asigurări de Sănătate nr. 639 din 22 August 2007. It is published once, here, under the issuer its EMITENT block lists first; `ordin-cnas-639-2007` name it too (data/paths.json aliases).
 - Ordin sanatate nr. 1081/2007: Anexa nr. 1 (LISTA unităților sanitare cu paturi pe județe LISTA UNITĂȚILOR SANITARE CU PATURI DIN REȚEAUA MINISTERULUI SĂNĂTĂȚII PUBLICE UNITBZ DENUMIREA SPITALULUI JUDEȚUL 001011 Spitalul Județean de Urgență Alb) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 85034 of the official web service.
+- Ordin sanatate nr. 1081/2007: its in-force clause could not be read automatically, so this record dates it from its publication (3 September 2007); the date will be checked by hand.

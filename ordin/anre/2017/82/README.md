@@ -2,7 +2,7 @@
 
 Ordin anre nr. 82/2017 · 1 versions, from 2017-09-14 (latest in force: 2017-09-14) · <https://legislatie.just.ro/Public/DetaliiDocument/193184>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -69,3 +69,4 @@ Act id: `ordin-anre-82-2017` (tags `ordin-anre-82-2017/<day>`; `python tools/on.
 - Ordin anre nr. 82/2017: the first version is the order as published in Monitorul Oficial nr. 739 of 14 September 2017 (document 193184 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin anre nr. 82/2017: the signatures and the place and date line after its last article are not article text.
 - Ordin anre nr. 82/2017: Anexa nr. 1 (REGULAMENT din 6 septembrie 2017 privind racordarea la sistemele de transport al gazelor naturale) is part of the order and is published in its folder, anexa-1/ (47 articles), from document 193185 of the official web service.
+- Ordin anre nr. 82/2017: its in-force clause could not be read automatically, so this record dates it from its publication (14 September 2017); the date will be checked by hand.

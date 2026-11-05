@@ -2,7 +2,7 @@
 
 Ordin anpc nr. 8/2014 · 1 versions, from 2014-01-14 (latest in force: 2014-01-14) · <https://legislatie.just.ro/Public/DetaliiDocument/154499>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -20,3 +20,4 @@ Act id: `ordin-anpc-8-2014` (tags `ordin-anpc-8-2014/<day>`; `python tools/on.py
 - Ordin anpc nr. 8/2014: the first version is the order as published in Monitorul Oficial nr. 28 of 14 January 2014 (document 154499 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin anpc nr. 8/2014: the signatures and the place and date line after its last article are not article text.
 - Ordin anpc nr. 8/2014: Anexa nr. 1 ((Anexa la Ordinul nr. 392/2013) Scăderi ale cantității nete pentru pâine datorate pierderii de umiditate pe durata de valabilitate Nr. crt. 1. 2. 3. 4. 5. Cantitatea netă a pâinii (g) 300 400 500-1.00) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 154499 of the official web service.
+- Ordin anpc nr. 8/2014: its in-force clause could not be read automatically, so this record dates it from its publication (14 January 2014); the date will be checked by hand.

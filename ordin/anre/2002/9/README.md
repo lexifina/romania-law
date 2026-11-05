@@ -2,7 +2,7 @@
 
 Ordin anre nr. 9/2002 · 1 versions, from 2002-04-05 (latest in force: 2002-04-05) · <https://legislatie.just.ro/Public/DetaliiDocument/34888>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -24,3 +24,4 @@ Act id: `ordin-anre-9-2002` (tags `ordin-anre-9-2002/<day>`; `python tools/on.py
 - Ordin anre nr. 9/2002: the signatures and the place and date line after its last article are not article text.
 - Ordin anre nr. 9/2002: Anexa nr. 1 (1 TARIFE medii anuale de achiziție a energiei electrice de la producători și tariful pentru activitatea de administrare a pieței angro Valabile după 5 zile de la data publicării Activitatea Agentul ec) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 34888 of the official web service.
 - Ordin anre nr. 9/2002: the publisher's notes run into its text (*) Tariful se aplică la Societatea Comercială "Termoelectrica" - S.A., inclusiv la centralele externalizate conform hotă) are not text.
+- Ordin anre nr. 9/2002: its in-force clause could not be read automatically, so this record dates it from its publication (5 April 2002); the date will be checked by hand.

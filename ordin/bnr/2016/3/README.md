@@ -2,7 +2,7 @@
 
 Ordin bnr nr. 3/2016 · 1 versions, from 2016-05-19 (latest in force: 2016-05-19) · <https://legislatie.just.ro/Public/DetaliiDocument/178580>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (Modificări și completări ale Normelor metodologice privind întocmirea raportării contabile anuale pentru necesități de informații ale Ministerului Finanțelor ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (Modificări și completări ale Normelor metodologice privind întocmirea raportării contabile anuale pentru necesități de informații ale Ministerului Finanțelor ...): it is a table that the official text holds only flattened. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -19,3 +19,4 @@ Act id: `ordin-bnr-3-2016` (tags `ordin-bnr-3-2016/<day>`; `python tools/on.py <
 - Ordin bnr nr. 3/2016: the signatures and the place and date line after its last article are not article text.
 - Ordin bnr nr. 3/2016: Anexa nr. 1 (Modificări și completări ale Normelor metodologice privind întocmirea raportării contabile anuale pentru necesități de informații ale Ministerului Finanțelor ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin bnr nr. 3/2016: the publisher's notes run into its text (*) Pentru statutul de «persoane juridice asociate» se vor avea în vedere prevederile art. 124^20 lit. b) din Legea nr. 5) are not text.
+- Ordin bnr nr. 3/2016: its in-force clause could not be read automatically, so this record dates it from its publication (19 May 2016); the date will be checked by hand.

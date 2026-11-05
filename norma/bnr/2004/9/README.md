@@ -2,7 +2,7 @@
 
 Norma bnr nr. 9/2004 · 1 versions, from 2004-08-26 (latest in force: 2004-08-26) · <https://legislatie.just.ro/Public/DetaliiDocument/54781>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. In force in stages: dated by its earliest day, 26 August 2004; later days are not yet shown as versions: "Articolul 20 Intrare în vigoare Prezentele norme intră în vigoare la data de 1 octombrie 2004, cu excepția dispozițiilor referitoare la supravegherea solvabilității și expunerilor mari pe baza consolidata, care se vor aplica începând cu 1 ianuarie 2005." (1 October 2004). Not included yet: Anexa nr. 2 (2 [Anexa nr. V a) la Normele nr. 12/2003)] SITUAȚIA privind expunerile mari Cod raportare: [ ] Data raportarii: [ / / ] Denumirea instituției de credit ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 [Anexa nr. V a) la Normele nr. 12/2003)] SITUAȚIA privind expunerile mari Cod raportare: [ ] Data raportarii: [ / / ] Denumirea instituției de credit ...): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

@@ -2,7 +2,7 @@
 
 Regulament bnr nr. 1/2004 · 1 versions, from 2004-02-10 (latest in force: 2004-02-10) · <https://legislatie.just.ro/Public/DetaliiDocument/49664>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 10 April 2004; this record still dates it from 10 February 2004, as first published here, and the date will be corrected.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -56,7 +56,7 @@ Act id: `regulament-bnr-1-2004` (tags `regulament-bnr-1-2004/<day>`; `python too
 
 - Regulament bnr nr. 1/2004: added from the official web service of the Portalul legislativ (FreeWebService) as the regulation as published (document 49664, retrieved 2026-11-02). Whether later acts amended it has not yet been checked against the official full-text search; amendments, if any, are not applied here. It will be extended or relabelled when that check is done.
 - Regulament bnr nr. 1/2004: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
-- Regulament bnr nr. 1/2004: the first version is the regulation as published in Monitorul Oficial nr. 117 of 10 February 2004 (document 49664 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
+- Regulament bnr nr. 1/2004: the first version is the regulation as published in Monitorul Oficial nr. 117 of 10 February 2004 (document 49664 of the official web service), in force on 10 April 2004, the day it states for itself.
 - Regulament bnr nr. 1/2004: the signatures and the place and date line after its last article are not article text.
 - Regulament bnr nr. 1/2004: Anexa nr. 1 (1 INSTRUCTIUNI 30/01/2004) is part of the regulation and is published in its folder, anexa-1/ (paragraphs), from document 49664 of the official web service.
 - Regulament bnr nr. 1/2004: Anexa nr. 2 (2 INSTRUCTIUNI 30/01/2004) is part of the regulation and is published in its folder, anexa-2/ (paragraphs), from document 49664 of the official web service.
@@ -65,3 +65,4 @@ Act id: `regulament-bnr-1-2004` (tags `regulament-bnr-1-2004/<day>`; `python too
 - Regulament bnr nr. 1/2004: Anexa nr. 5 (5 INSTRUCTIUNI 30/01/2004) is part of the regulation and is published in its folder, anexa-5/ (paragraphs), from document 49664 of the official web service.
 - Regulament bnr nr. 1/2004: Anexa nr. 6 (6 INSTRUCTIUNI 30/01/2004) is part of the regulation and is published in its folder, anexa-6/ (paragraphs), from document 49664 of the official web service.
 - Regulament bnr nr. 1/2004: the publisher's notes run into its text (*) Achiziţionarea de către rezidenţi de instrumente financiare sau unităţi ale organismelor de plasament colectiv române; *) Prin zone asimilate zonelor libere se înţelege zonele din aeroporturi şi punctele de trecere a frontierei de stat, pe) are not text.
+- Regulament bnr nr. 1/2004: first published here dated 10 February 2004; its in-force clause states 10 April 2004. The record keeps the first date until it is corrected by hand.

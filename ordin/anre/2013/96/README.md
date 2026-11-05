@@ -2,7 +2,7 @@
 
 Ordin anre nr. 96/2013 · 1 versions, from 2013-12-23 (latest in force: 2013-12-23) · <https://legislatie.just.ro/Public/DetaliiDocument/154067>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 Tabelul 1 - Tariful mediu pentru serviciul de transport și tariful pentru serviciul de sistem ...): it is a table that the official text holds only flattened; Anexa nr. 2 (2 Prețurile pentru energia electrică reactivă ┌────────────────────────────┬──────────┬────────────────────────────────┐ │Zone de extragere a energiei│ Cod ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 Tabelul 1 - Tariful mediu pentru serviciul de transport și tariful pentru serviciul de sistem ...): it is a table that the official text holds only flattened; Anexa nr. 2 (2 Prețurile pentru energia electrică reactivă ┌────────────────────────────┬──────────┬────────────────────────────────┐ │Zone de extragere a energiei│ Cod ...): it is a table that the official text holds only flattened. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -23,3 +23,4 @@ Act id: `ordin-anre-96-2013` (tags `ordin-anre-96-2013/<day>`; `python tools/on.
 - Ordin anre nr. 96/2013: Anexa nr. 1 (1 Tabelul 1 - Tariful mediu pentru serviciul de transport și tariful pentru serviciul de sistem ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin anre nr. 96/2013: Anexa nr. 2 (2 Prețurile pentru energia electrică reactivă ┌────────────────────────────┬──────────┬────────────────────────────────┐ │Zone de extragere a energiei│ Cod ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin anre nr. 96/2013: the publisher's notes run into its text (*) Nodurile din reţeaua electrică de distribuţie exploatată de Operatorul de distribuţie incluse în fiecare zonă de extr; *) Nodurile din reţeaua electrică de distribuţie exploatată de Operatorul de distribuţie incluse în fiecare zonă de intr; *) Preţurile pentru energia electrică reactivă sunt valabile cu respectarea prevederilor din reglementările specifice.) are not text.
+- Ordin anre nr. 96/2013: its in-force clause could not be read automatically, so this record dates it from its publication (23 December 2013); the date will be checked by hand.

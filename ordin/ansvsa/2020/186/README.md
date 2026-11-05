@@ -2,7 +2,7 @@
 
 Ordin ansvsa nr. 186/2020 · 1 versions, from 2020-11-12 (latest in force: 2020-11-12) · <https://legislatie.just.ro/Public/DetaliiDocument/233013>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. In force in stages: dated by its earliest day, 12 November 2020; later days are not yet shown as versions: "Articolul 5 va avea următorul cuprins: Articolul 5 Prezentul ordin se publică în Monitorul Oficial al României, Partea I, și intră în vigoare în 120 de zile de la data publicării. 2." (12 March 2021).
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

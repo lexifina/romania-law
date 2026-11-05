@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 3708/2015 · 1 versions, from 2015-12-28 (latest in force: 2015-12-28) · <https://legislatie.just.ro/Public/DetaliiDocument/174347>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌────────────────────────────┬─────────────────────────┬───────────────────────┐ │SIGLA D.G.R.F.P./D.G.A.M.C. │Direcția................│Nr. ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌────────────────────────────┬─────────────────────────┬───────────────────────┐ │SIGLA D.G.R.F.P./D.G.A.M.C. │Direcția................│Nr. ...): it is a table that the official text holds only flattened. Its in-force clause states 1 January 2016; this record still dates it from 28 December 2015, as first published here, and the date will be corrected.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -25,9 +25,10 @@ Act id: `ordin-anaf-3708-2015` (tags `ordin-anaf-3708-2015/<day>`; `python tools
 
 - Ordin anaf nr. 3708/2015: added from the official web service of the Portalul legislativ (FreeWebService) as the order as published (document 174347, retrieved 2026-11-03). Whether later acts amended it has not yet been checked against the official full-text search; amendments, if any, are not applied here. It will be extended or relabelled when that check is done.
 - Ordin anaf nr. 3708/2015: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
-- Ordin anaf nr. 3708/2015: the first version is the order as published in Monitorul Oficial nr. 968 of 28 December 2015 (document 174347 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
+- Ordin anaf nr. 3708/2015: the first version is the order as published in Monitorul Oficial nr. 968 of 28 December 2015 (document 174347 of the official web service), in force on 1 January 2016, the day it states for itself.
 - Ordin anaf nr. 3708/2015: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 3708/2015: Anexa nr. 2 (2 INSTRUCȚIUNI DE EMITERE ȘI COMPLETARE a formularului "Decizie de impunere provizorie privind obligațiile fiscale principale" Decizia de impunere provizorie privind obligațiile fiscale principale rep) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 174347 of the official web service.
 - Ordin anaf nr. 3708/2015: Anexa nr. 3 (3 Caracteristicile de tipărire, modul de difuzare, utilizare și păstrare ale formularului "Decizia de impunere provizorie privind obligațiile fiscale principale" 1. Denumire: "Decizia de impunere prov) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 174347 of the official web service.
 - Ordin anaf nr. 3708/2015: Anexa nr. 1 (1 ┌────────────────────────────┬─────────────────────────┬───────────────────────┐ │SIGLA D.G.R.F.P./D.G.A.M.C. │Direcția................│Nr. ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin anaf nr. 3708/2015: the publisher's notes run into its text (*) Ştampila se va aplica numai pentru coloana "aprobat".) are not text.
+- Ordin anaf nr. 3708/2015: first published here dated 28 December 2015; its in-force clause states 1 January 2016. The record keeps the first date until it is corrected by hand.

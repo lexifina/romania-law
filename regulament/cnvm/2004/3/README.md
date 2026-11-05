@@ -2,7 +2,7 @@
 
 Regulament cnvm nr. 3/2004 · 1 versions, from 2004-04-22 (latest in force: 2004-04-22) · <https://legislatie.just.ro/Public/DetaliiDocument/51350>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -28,3 +28,4 @@ Act id: `regulament-cnvm-3-2004` (tags `regulament-cnvm-3-2004/<day>`; `python t
 - Regulament cnvm nr. 3/2004: the first version is the regulation as published in Monitorul Oficial nr. 352 of 22 April 2004 (document 51350 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Regulament cnvm nr. 3/2004: the signatures and the place and date line after its last article are not article text.
 - Regulament cnvm nr. 3/2004: Anexa nr. 1 (la regulament MODEL privind modalitatea de alegere a consiliului de administrație prin metoda votului cumulativ 1. O societatea comercială are un capital social subscris și vărsat de 1.000 u.m divizat) is part of the regulation and is published in its folder, anexa-1/ (paragraphs), from document 51350 of the official web service.
+- Regulament cnvm nr. 3/2004: its in-force clause could not be read automatically, so this record dates it from its publication (22 April 2004); the date will be checked by hand.

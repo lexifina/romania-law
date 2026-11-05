@@ -2,7 +2,7 @@
 
 Norma asf nr. 15/2026 · 1 versions, from 2026-07-27 (latest in force: 2026-07-27) · <https://legislatie.just.ro/Public/DetaliiDocument/312791>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -45,3 +45,4 @@ Act id: `norma-asf-15-2026` (tags `norma-asf-15-2026/<day>`; `python tools/on.py
 - Norma asf nr. 15/2026: the signatures and the place and date line after its last article are not article text.
 - Norma asf nr. 15/2026: Anexa nr. 1 (CHESTIONAR pentru participanții la capitalul social Acest chestionar va fi completat de către fiecare dintre fondatorii societății de plată a pensiilor private (persoane fizice și persoane juridice)/a) is part of the norm and is published in its folder, anexa-1/ (paragraphs), from document 312791 of the official web service.
 - Norma asf nr. 15/2026: Anexa nr. 2 (DECLARAȚIE privind proveniența capitalului social Această declarație va fi completată de către fiecare dintre fondatorii societății de plată a pensiilor private (persoane fizice și persoane juridice)/) is part of the norm and is published in its folder, anexa-2/ (paragraphs), from document 312791 of the official web service.
+- Norma asf nr. 15/2026: its in-force clause could not be read automatically, so this record dates it from its publication (27 July 2026); the date will be checked by hand.

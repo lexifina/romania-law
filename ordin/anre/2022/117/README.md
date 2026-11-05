@@ -2,7 +2,7 @@
 
 Ordin anre nr. 117/2022 · 1 versions, from 2022-09-23 (latest in force: 2022-09-23) · <https://legislatie.just.ro/Public/DetaliiDocument/259563>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. In force in stages: dated by its earliest day, 1 October 2022; later days are not yet shown as versions: "Prezentul ordin se publică în Monitorul Oficial al României, Partea I, și intră în vigoare la data de 1 octombrie 2022, cu excepția art. 2 care intră în vigoare la data publicării.". Its in-force clause states 1 October 2022; this record still dates it from 23 September 2022, as first published here, and the date will be corrected.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -32,6 +32,7 @@ Act id: `ordin-anre-117-2022` (tags `ordin-anre-117-2022/<day>`; `python tools/o
 
 - Ordin anre nr. 117/2022: added from the official web service of the Portalul legislativ (FreeWebService) as the order as published (document 259563, retrieved 2026-11-03). Whether later acts amended it has not yet been checked against the official full-text search; amendments, if any, are not applied here. It will be extended or relabelled when that check is done.
 - Ordin anre nr. 117/2022: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
-- Ordin anre nr. 117/2022: the first version is the order as published in Monitorul Oficial nr. 933 of 23 September 2022 (document 259563 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
+- Ordin anre nr. 117/2022: the first version is the order as published in Monitorul Oficial nr. 933 of 23 September 2022 (document 259563 of the official web service), in force on 1 October 2022, the day it states for itself.
 - Ordin anre nr. 117/2022: the signatures and the place and date line after its last article are not article text.
 - Ordin anre nr. 117/2022: Anexa nr. 1 (REGULAMENT din 21 septembrie 2022 de organizare și funcționare a pieței contractelor la termen de energie electrică, organizată de Societatea Bursa Română de Mărfuri - S.A.) is part of the order and is published in its folder, anexa-1/ (12 articles), from document 259564 of the official web service.
+- Ordin anre nr. 117/2022: first published here dated 23 September 2022; its in-force clause states 1 October 2022. The record keeps the first date until it is corrected by hand.

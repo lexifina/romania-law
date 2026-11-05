@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 1308/2006 · 1 versions, from 2006-11-22 (latest in force: 2006-11-22) · <https://legislatie.just.ro/Public/DetaliiDocument/77052>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. In force in stages: dated by its earliest day, 22 November 2006; later days are not yet shown as versions: "După articolul 8 se introduce un nou articol, articolul 8^1, cu următorul cuprins: "Art. 8^1. - Prevederile prezentului ordin intră în vigoare începând cu data de 1 noiembrie 2006."" (1 November 2006, before its publication).
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

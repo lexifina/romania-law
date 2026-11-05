@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 1798/2007 · 1 versions, from 2007-10-24 (latest in force: 2007-10-24) · <https://legislatie.just.ro/Public/DetaliiDocument/86341>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. In force in stages: dated by its earliest day, 24 October 2007; later days are not yet shown as versions: "Articolul 6 se modifică și va avea următorul cuprins: "Art. 6. - Prevederile prezentului ordin intră în vigoare începând cu data de 1 noiembrie 2007."" (1 November 2007).
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

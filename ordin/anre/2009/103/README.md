@@ -2,7 +2,7 @@
 
 Ordin anre nr. 103/2009 · 1 versions, from 2009-12-30 (latest in force: 2009-12-30) · <https://legislatie.just.ro/Public/DetaliiDocument/115002>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. In force in stages: dated by its earliest day, 1 January 2010; later days are not yet shown as versions: "Prezentul ordin se publică în Monitorul Oficial al României, Partea I, și intră în vigoare la data de 1 ianuarie 2010, cu excepția art. 9 care intră în vigoare la data de 1 februarie 2010.". Its in-force clause states 1 January 2010; this record still dates it from 30 December 2009, as first published here, and the date will be corrected.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -52,7 +52,7 @@ Act id: `ordin-anre-103-2009` (tags `ordin-anre-103-2009/<day>`; `python tools/o
 
 - Ordin anre nr. 103/2009: added from the official web service of the Portalul legislativ (FreeWebService) as the order as published (document 115002, retrieved 2026-11-03). Whether later acts amended it has not yet been checked against the official full-text search; amendments, if any, are not applied here. It will be extended or relabelled when that check is done.
 - Ordin anre nr. 103/2009: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
-- Ordin anre nr. 103/2009: the first version is the order as published in Monitorul Oficial nr. 924 of 30 December 2009 (document 115002 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
+- Ordin anre nr. 103/2009: the first version is the order as published in Monitorul Oficial nr. 924 of 30 December 2009 (document 115002 of the official web service), in force on 1 January 2010, the day it states for itself.
 - Ordin anre nr. 103/2009: the signatures and the place and date line after its last article are not article text.
 - Ordin anre nr. 103/2009: Anexa nr. 1 (1) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 115002 of the official web service.
 - Ordin anre nr. 103/2009: Anexa nr. 2 (2) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 115002 of the official web service.
@@ -66,3 +66,4 @@ Act id: `ordin-anre-103-2009` (tags `ordin-anre-103-2009/<day>`; `python tools/o
 - Ordin anre nr. 103/2009: Anexa nr. 10 (10) is part of the order and is published in its folder, anexa-10/ (paragraphs), from document 115002 of the official web service.
 - Ordin anre nr. 103/2009: Anexa nr. 11 (11) is part of the order and is published in its folder, anexa-11/ (paragraphs), from document 115002 of the official web service.
 - Ordin anre nr. 103/2009: the publisher's notes run into its text (*) Nu includ acciza şi taxa pe valoarea adăugată.; *) Nu includ taxa pe valoarea adăugată.; *) Nu include acciza şi taxa pe valoarea adăugată.; **) Preţurile pentru energia electrică reactivă sunt valabile inclusiv pentru consumatorii care şi-au exercitat dreptul ; **) Se aplică şi consumului înregistrat în perioada de vineri de la ora 22,00 până luni la ora 7,00.) are not text.
+- Ordin anre nr. 103/2009: first published here dated 30 December 2009; its in-force clause states 1 January 2010. The record keeps the first date until it is corrected by hand.

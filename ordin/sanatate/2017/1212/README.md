@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 1212/2017 · 1 versions, from 2017-10-24 (latest in force: 2017-10-24) · <https://legislatie.just.ro/Public/DetaliiDocument/194215>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. In force in stages: dated by its earliest day, 24 October 2017; later days are not yet shown as versions: "Prevederile prezentului contract intră în vigoare la data de ......... . și sunt valabile până la împlinirea termenului de 12 luni calculat începând cu luna în care s-a eliberat prima prescripție medicală cu medicamentul care face obiectul prezentului contract.".
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -19,5 +19,5 @@ Act id: `ordin-sanatate-1212-2017` (tags `ordin-sanatate-1212-2017/<day>`; `pyth
 - Ordin sanatate nr. 1212/2017: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin sanatate nr. 1212/2017: the first version is the order as published in Monitorul Oficial nr. 841 of 24 October 2017 (document 194215 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin sanatate nr. 1212/2017: the signatures and the place and date line after its last article are not article text.
-- Ordin sanatate nr. 1212/2017: a joint order of Ministerul Sănătății nr. 1.212 din 17 October 2017; Casa Națională de Asigurări de Sănătate nr. 979 din 9 October 2017. It is published once, here, under the issuer its EMITENT block lists first; `ordin-cnas-979-2017` name it too (data/paths.json aliases).
 - Ordin sanatate nr. 1212/2017: the publisher's notes run into its text (*); *) Se aplică pentru situația în care medicamentul este deja inclus în Listă.) are not text.
+- Ordin sanatate nr. 1212/2017: a joint order of Ministerul Sănătății nr. 1.212 din 17 October 2017; Casa Națională de Asigurări de Sănătate nr. 979 din 9 October 2017. It is published once, here, under the issuer its EMITENT block lists first; `ordin-cnas-979-2017` name it too (data/paths.json aliases).

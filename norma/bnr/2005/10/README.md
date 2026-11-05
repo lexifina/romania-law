@@ -2,7 +2,7 @@
 
 Norma bnr nr. 10/2005 · 1 versions, from 2005-07-29 (latest in force: 2005-07-29) · <https://legislatie.just.ro/Public/DetaliiDocument/63700>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 28 August 2005; this record still dates it from 29 July 2005, as first published here, and the date will be corrected.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -33,5 +33,6 @@ Act id: `norma-bnr-10-2005` (tags `norma-bnr-10-2005/<day>`; `python tools/on.py
 
 - Norma bnr nr. 10/2005: added from the official web service of the Portalul legislativ (FreeWebService) as the norm as published (document 63700, retrieved 2026-11-02). Whether later acts amended it has not yet been checked against the official full-text search; amendments, if any, are not applied here. It will be extended or relabelled when that check is done.
 - Norma bnr nr. 10/2005: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
-- Norma bnr nr. 10/2005: the first version is the norm as published in Monitorul Oficial nr. 683 of 29 July 2005 (document 63700 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
+- Norma bnr nr. 10/2005: the first version is the norm as published in Monitorul Oficial nr. 683 of 29 July 2005 (document 63700 of the official web service), in force on 28 August 2005, the day it states for itself.
 - Norma bnr nr. 10/2005: the signatures and the place and date line after its last article are not article text.
+- Norma bnr nr. 10/2005: first published here dated 29 July 2005; its in-force clause states 28 August 2005. The record keeps the first date until it is corrected by hand.

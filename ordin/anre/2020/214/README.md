@@ -2,7 +2,7 @@
 
 Ordin anre nr. 214/2020 · 1 versions, from 2020-12-11 (latest in force: 2020-12-11) · <https://legislatie.just.ro/Public/DetaliiDocument/235037>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -28,3 +28,4 @@ Act id: `ordin-anre-214-2020` (tags `ordin-anre-214-2020/<day>`; `python tools/o
 - Ordin anre nr. 214/2020: the signatures and the place and date line after its last article are not article text.
 - Ordin anre nr. 214/2020: Anexa nr. 1 (Tariful mediu pentru serviciul de transport și componentele tarifului de transport de introducere a energiei electrice în rețea (T_G) și de extragere a energiei electrice din rețea (T_L) Operatorul ec) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 235037 of the official web service.
 - Ordin anre nr. 214/2020: Anexa nr. 2 (Tariful pentru serviciul de sistem Operatorul economic Tariful (lei/MWh) Compania Națională de Transport al Energiei Electrice „Transelectrica” - S.A. Tariful pentru serviciul de sistem 11,96 NOTĂ: Ta) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 235037 of the official web service.
+- Ordin anre nr. 214/2020: its in-force clause could not be read automatically, so this record dates it from its publication (11 December 2020); the date will be checked by hand.

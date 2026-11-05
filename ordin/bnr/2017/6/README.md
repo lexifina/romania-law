@@ -2,7 +2,7 @@
 
 Ordin bnr nr. 6/2017 · 1 versions, from 2017-05-29 (latest in force: 2017-05-29) · <https://legislatie.just.ro/Public/DetaliiDocument/189578>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -18,3 +18,4 @@ Act id: `ordin-bnr-6-2017` (tags `ordin-bnr-6-2017/<day>`; `python tools/on.py <
 - Ordin bnr nr. 6/2017: the first version is the order as published in Monitorul Oficial nr. 401 of 29 May 2017 (document 189578 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin bnr nr. 6/2017: the signatures and the place and date line after its last article are not article text.
 - Ordin bnr nr. 6/2017: the publisher's notes run into its text (*) Pentru statutul de «persoane juridice asociate» se vor avea în vedere prevederile art. 258 lit. b) din Legea nr. 227/; ***) Se va completa cu cheltuielile efectuate pentru activitatea de cercetare-dezvoltare, respectiv cercetarea fundament; ****) Se va completa cu cheltuielile efectuate pentru activitatea de inovare conform Regulamentului de punere în aplicar) are not text.
+- Ordin bnr nr. 6/2017: its in-force clause could not be read automatically, so this record dates it from its publication (29 May 2017); the date will be checked by hand.

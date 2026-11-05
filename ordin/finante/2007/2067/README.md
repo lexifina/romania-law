@@ -2,7 +2,7 @@
 
 Ordin finante nr. 2067/2007 · 1 versions, from 2007-11-28 (latest in force: 2007-11-28) · <https://legislatie.just.ro/Public/DetaliiDocument/87380>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (NORMA 16/11/2007): its text is a document of its own that could not be matched to one record held; an annex it points to is not in the records held (Norma of 2007-11-16).
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (NORMA 16/11/2007): its text is a document of its own that could not be matched to one record held; an annex it points to is not in the records held (Norma of 2007-11-16). Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -22,3 +22,4 @@ Act id: `ordin-finante-2067-2007` (tags `ordin-finante-2067-2007/<day>`; `python
 - Ordin finante nr. 2067/2007: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 2067/2007: Anexa nr. 1 (NORMA 16/11/2007) is not included yet: its text is a document of its own that could not be matched to one record held. It will be added when it can be published in full.
 - Ordin finante nr. 2067/2007: an annex it points to (Norma of 2007-11-16) is not in the records held, so it is not included. It will be added when a source for it is found.
+- Ordin finante nr. 2067/2007: its in-force clause could not be read automatically, so this record dates it from its publication (28 November 2007); the date will be checked by hand.

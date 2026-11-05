@@ -2,7 +2,7 @@
 
 Ordin anre nr. 93/2018 · 1 versions, from 2018-06-18 (latest in force: 2018-06-18) · <https://legislatie.just.ro/Public/DetaliiDocument/201535>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. In force in stages: dated by its earliest day, 1 September 2018; later days are not yet shown as versions: "Prezentul ordin se publică în Monitorul Oficial al României, Partea I, și intră în vigoare la data de 1 septembrie 2018, cu excepția art. 13 din anexă care intră în vigoare la data publicării.". Its in-force clause states 1 September 2018; this record still dates it from 18 June 2018, as first published here, and the date will be corrected.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -32,6 +32,7 @@ Act id: `ordin-anre-93-2018` (tags `ordin-anre-93-2018/<day>`; `python tools/on.
 
 - Ordin anre nr. 93/2018: added from the official web service of the Portalul legislativ (FreeWebService) as the order as published (document 201535, retrieved 2026-11-03). Whether later acts amended it has not yet been checked against the official full-text search; amendments, if any, are not applied here. It will be extended or relabelled when that check is done.
 - Ordin anre nr. 93/2018: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
-- Ordin anre nr. 93/2018: the first version is the order as published in Monitorul Oficial nr. 498 of 18 June 2018 (document 201535 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
+- Ordin anre nr. 93/2018: the first version is the order as published in Monitorul Oficial nr. 498 of 18 June 2018 (document 201535 of the official web service), in force on 1 September 2018, the day it states for itself.
 - Ordin anre nr. 93/2018: the signatures and the place and date line after its last article are not article text.
 - Ordin anre nr. 93/2018: Anexa nr. 1 (REGULI COMERCIALE din 16 mai 2018 privind colectarea, agregarea și transmiterea valorilor măsurate de energie electrică) is part of the order and is published in its folder, anexa-1/ (13 articles), from document 201536 of the official web service.
+- Ordin anre nr. 93/2018: first published here dated 18 June 2018; its in-force clause states 1 September 2018. The record keeps the first date until it is corrected by hand.

@@ -2,7 +2,7 @@
 
 Ordin educatie nr. 6250/2022 · 1 versions, from 2022-12-16 (latest in force: 2022-12-16) · <https://legislatie.just.ro/Public/DetaliiDocument/262809>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -44,3 +44,4 @@ Act id: `ordin-educatie-6250-2022` (tags `ordin-educatie-6250-2022/<day>`; `pyth
 - Ordin educatie nr. 6250/2022: Anexa nr. 2 (STRUCTURA standardului ocupațional) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 262809 of the official web service.
 - Ordin educatie nr. 6250/2022: Anexa nr. 3 (la standardul ocupațional PLAN DE PREGĂTIRE Nr. crt. Competența dobândită Disciplină/Modul Nr. ore teorie Nr. ore practică Nr. credite asociate 1 2........ Total nr. ore Total nr. credite) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 262809 of the official web service.
 - Ordin educatie nr. 6250/2022: Anexa nr. 4 (la standardul ocupațional PROGRAMA DE PREGĂTIRE TEORETICĂ ȘI PRACTICĂ Nr. crt. Disciplină/Modul Conținut tematic Metode/Forme de desfășurare Mijloace de instruire, materiale de învățare Criterii de ev) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 262809 of the official web service.
+- Ordin educatie nr. 6250/2022: its in-force clause could not be read automatically, so this record dates it from its publication (16 December 2022); the date will be checked by hand.

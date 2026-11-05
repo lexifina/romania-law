@@ -2,7 +2,7 @@
 
 Ordin csa nr. 113117/2006 · 1 versions, from 2006-07-03 (latest in force: 2006-07-03) · <https://legislatie.just.ro/Public/DetaliiDocument/73108>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -72,3 +72,4 @@ Act id: `ordin-csa-113117-2006` (tags `ordin-csa-113117-2006/<day>`; `python too
 - Ordin csa nr. 113117/2006: the first version is the order as published in Monitorul Oficial nr. 572 of 3 July 2006 (document 73108 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin csa nr. 113117/2006: the signatures and the place and date line after its last article are not article text.
 - Ordin csa nr. 113117/2006: Anexa nr. 1 (NORME privind principiile de organizare ale unui sistem de control intern și management al riscului la asigurători) is part of the order and is published in its folder, anexa-1/ (53 articles), from document 73108 of the official web service.
+- Ordin csa nr. 113117/2006: its in-force clause could not be read automatically, so this record dates it from its publication (3 July 2006); the date will be checked by hand.

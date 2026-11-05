@@ -2,7 +2,7 @@
 
 Ordin bnr nr. 14/2011 · 1 versions, from 2011-10-31 (latest in force: 2011-10-31) · <https://legislatie.just.ro/Public/DetaliiDocument/132550>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (SITUAȚIA (1) clasificării expunerilor din credite/plasamente, precum și a ajustărilor de valoare aferente acestora la data de [.../.../...] Denumirea ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (SITUAȚIA (1) clasificării expunerilor din credite/plasamente, precum și a ajustărilor de valoare aferente acestora la data de [.../.../...] Denumirea ...): it is a table that the official text holds only flattened. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -29,3 +29,4 @@ Act id: `ordin-bnr-14-2011` (tags `ordin-bnr-14-2011/<day>`; `python tools/on.py
 - Ordin bnr nr. 14/2011: the publisher's note "*) Categoria 1: expuneri reprezentând credite/plasamente clasificate în categoria "pierdere", în cazul cărora serviciul datoriei este de cel mult 90 de zile şi în cazul cărora nu au fost iniţiate proc" is not text; the annexes it names are not published in Monitorul Oficial and are not part of this record.
 - Ordin bnr nr. 14/2011: the publisher's note "**) Categoria 2: expuneri reprezentând credite/plasamente clasificate în categoria "pierdere", în cazul cărora serviciul datoriei este mai mare de 90 de zile şi/sau în cazul cărora au fost iniţiate pr" is not text; the annexes it names are not published in Monitorul Oficial and are not part of this record.
 - Ordin bnr nr. 14/2011: the publisher's notes run into its text (***) Persoană autorizată - persoană abilitată să angajeze răspunderea juridică a instituţiei sau o altă persoană împuter) are not text.
+- Ordin bnr nr. 14/2011: its in-force clause could not be read automatically, so this record dates it from its publication (31 October 2011); the date will be checked by hand.

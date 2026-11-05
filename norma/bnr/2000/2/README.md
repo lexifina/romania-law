@@ -2,7 +2,7 @@
 
 Norma bnr nr. 2/2000 · 1 versions, from 2000-07-07 (latest in force: 2000-07-07) · <https://legislatie.just.ro/Public/DetaliiDocument/23204>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. No in-force day is stated; dated by its publication in the Monitorul Oficial.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. No in-force day is stated; dated by its publication in the Monitorul Oficial. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -37,3 +37,4 @@ Act id: `norma-bnr-2-2000` (tags `norma-bnr-2-2000/<day>`; `python tools/on.py <
 - Norma bnr nr. 2/2000: Anexa nr. 2 (2 SITUAȚIA clasificarii creditelor, precum și a necesarului de provizioane specifice de risc de credit la data de [/....../] Denumirea băncii..................... - mii lei - Nr. crt. Categoria de cla) is part of the norm and is published in its folder, anexa-2/ (paragraphs), from document 23204 of the official web service.
 - Norma bnr nr. 2/2000: Anexa nr. 3 (3 SITUAȚIA clasificarii plasamentelor, precum și a necesarului de provizioane specifice de risc de credit la data de [/......./] Denumirea băncii:.................. - mii lei - Nr. crt. Categoria de c) is part of the norm and is published in its folder, anexa-3/ (paragraphs), from document 23204 of the official web service.
 - Norma bnr nr. 2/2000: the publisher's notes run into its text (*) A se vedea explicatia de la asterixul din pag. 6.; *) Va fi luat în considerare împreună cu numerotarea şi indica o relaţie între elemente informationale numerotate astfel; *) codul entitatii de risc potenţiale [prin intermediul acestuia se regăsesc caracteristicile prevăzute la pct. 1*) prim; *) codul entitatii de risc potenţiale [prin intermediul acestuia se regăsesc caracteristicile prevăzute la pct. 1*) prim; *) moneda de exprimare [în funcţie de aceasta se determina caracteristicile prevăzute la pct. 1.6 şi la lit. c) pct. 1.4; *) În vederea optimizarii metodologiei se va realiza direct încadrarea globală a tuturor extraselor selectate, fără a se) are not text.
+- Norma bnr nr. 2/2000: its in-force clause could not be read automatically, so this record dates it from its publication (7 July 2000); the date will be checked by hand.

@@ -2,7 +2,7 @@
 
 Ordin finante nr. 257/2004 · 1 versions, from 2004-02-12 (latest in force: 2004-02-12) · <https://legislatie.just.ro/Public/DetaliiDocument/49725>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌────────────┐ │ ROMÂNIA │ │ ┌─────┐ │ │ │ MFP │ │ 301 DECONT │ └─────┘ │ special de taxa pe valoarea adăugată │ MINISTERUL │ pentru luna.... anul.... │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌────────────┐ │ ROMÂNIA │ │ ┌─────┐ │ │ │ MFP │ │ 301 DECONT │ └─────┘ │ special de taxa pe valoarea adăugată │ MINISTERUL │ pentru luna.... anul.... │ ...): it is a table that the official text holds only flattened. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -28,3 +28,4 @@ Act id: `ordin-finante-257-2004` (tags `ordin-finante-257-2004/<day>`; `python t
 - Ordin finante nr. 257/2004: Anexa nr. 2 (2 INSTRUCȚIUNI de completare a formularului "Decontul special de taxă pe valoarea adăugată" Cod 14.13.01.02/s I. Persoanele neînregistrate ca plătitori de taxă pe valoarea adăugată, care sunt benefici) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 49725 of the official web service.
 - Ordin finante nr. 257/2004: Anexa nr. 3 (3 CARACTERISTICILE de tipărire, modul de difuzare, de utilizare și păstrare a formularului "Decontul special de taxă pe valoarea adăugată" Denumirea formularului: Decont special de taxă pe valoarea ad) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 49725 of the official web service.
 - Ordin finante nr. 257/2004: Anexa nr. 1 (1 ┌────────────┐ │ ROMÂNIA │ │ ┌─────┐ │ │ │ MFP │ │ 301 DECONT │ └─────┘ │ special de taxa pe valoarea adăugată │ MINISTERUL │ pentru luna.... anul.... │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 257/2004: its in-force clause could not be read automatically, so this record dates it from its publication (12 February 2004); the date will be checked by hand.

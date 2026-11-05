@@ -2,7 +2,7 @@
 
 Regulament asf nr. 3/2013 · 1 versions, from 2013-08-30 (latest in force: 2013-08-30) · <https://legislatie.just.ro/Public/DetaliiDocument/151107>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -82,3 +82,4 @@ Act id: `regulament-asf-3-2013` (tags `regulament-asf-3-2013/<day>`; `python too
 - Regulament asf nr. 3/2013: the signatures and the place and date line after its last article are not article text.
 - Regulament asf nr. 3/2013: Anexa nr. 1 (1) is part of the regulation and is published in its folder, anexa-1/ (paragraphs), from document 151107 of the official web service.
 - Regulament asf nr. 3/2013: Anexa nr. 2 (2) is part of the regulation and is published in its folder, anexa-2/ (paragraphs), from document 151107 of the official web service.
+- Regulament asf nr. 3/2013: its in-force clause could not be read automatically, so this record dates it from its publication (30 August 2013); the date will be checked by hand.

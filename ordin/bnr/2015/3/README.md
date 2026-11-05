@@ -2,7 +2,7 @@
 
 Ordin bnr nr. 3/2015 · 1 versions, from 2015-05-28 (latest in force: 2015-05-28) · <https://legislatie.just.ro/Public/DetaliiDocument/168368>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -21,3 +21,4 @@ Act id: `ordin-bnr-3-2015` (tags `ordin-bnr-3-2015/<day>`; `python tools/on.py <
 - Ordin bnr nr. 3/2015: the signatures and the place and date line after its last article are not article text.
 - Ordin bnr nr. 3/2015: Anexa nr. 1 (Modificări și completări ale Normelor metodologice privind întocmirea raportării contabile anuale pentru necesități de informații ale Ministerului Finanțelor Publice, aplicabile instituțiilor de credi) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 168368 of the official web service.
 - Ordin bnr nr. 3/2015: the publisher's notes run into its text (*) Pentru statutul de «persoane juridice asociate» se vor avea în vedere prevederile art. 124^20 lit. b) din Legea nr. 5) are not text.
+- Ordin bnr nr. 3/2015: its in-force clause could not be read automatically, so this record dates it from its publication (28 May 2015); the date will be checked by hand.

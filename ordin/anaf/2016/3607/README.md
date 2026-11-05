@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 3607/2016 · 1 versions, from 2016-12-20 (latest in force: 2016-12-20) · <https://legislatie.just.ro/Public/DetaliiDocument/184874>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -26,3 +26,4 @@ Act id: `ordin-anaf-3607-2016` (tags `ordin-anaf-3607-2016/<day>`; `python tools
 - Ordin anaf nr. 3607/2016: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 3607/2016: Anexa nr. 1 (INSTRUCȚIUNI de completare a numărului de evidență a plății 1. Numărul de evidență a plății are 23 de caractere numerice, cu următoarea structură: - cod document fiscal 2 caractere; - cod obligație bu) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 184874 of the official web service.
 - Ordin anaf nr. 3607/2016: Anexa nr. 2 (A la instrucțiuni Exemple de completare 1. Numărul de evidență a plății în cazul unei obligații fiscale stabilite suplimentar prin decizie de impunere privind obligațiile fiscale suplimentare de plată) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 184874 of the official web service.
+- Ordin anaf nr. 3607/2016: its in-force clause could not be read automatically, so this record dates it from its publication (20 December 2016); the date will be checked by hand.

@@ -2,7 +2,7 @@
 
 Ordin finante nr. 1141/2005 · 1 versions, from 2005-08-24 (latest in force: 2005-08-24) · <https://legislatie.just.ro/Public/DetaliiDocument/64447>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (MODIFICĂRI ȘI COMPLETĂRI privind Sistemul de raportare contabilă semestrială a instituțiilor de credit 1. În cuprinsul Sistemului de raportare contabilă ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (MODIFICĂRI ȘI COMPLETĂRI privind Sistemul de raportare contabilă semestrială a instituțiilor de credit 1. În cuprinsul Sistemului de raportare contabilă ...): it is a table that the official text holds only flattened. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -19,3 +19,4 @@ Act id: `ordin-finante-1141-2005` (tags `ordin-finante-1141-2005/<day>`; `python
 - Ordin finante nr. 1141/2005: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 1141/2005: a joint order of Ministerul Finanțelor Publice nr. 1.141 din 10 August 2005; Banca Națională a României nr. 4 din 9 August 2005. It is published once, here, under the issuer its EMITENT block lists first; `ordin-bnr-4-2005` name it too (data/paths.json aliases).
 - Ordin finante nr. 1141/2005: Anexa nr. 1 (MODIFICĂRI ȘI COMPLETĂRI privind Sistemul de raportare contabilă semestrială a instituțiilor de credit 1. În cuprinsul Sistemului de raportare contabilă ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 1141/2005: its in-force clause could not be read automatically, so this record dates it from its publication (24 August 2005); the date will be checked by hand.

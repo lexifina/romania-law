@@ -2,7 +2,7 @@
 
 Ordin anre nr. 20/2018 · 1 versions, from 2018-02-01 (latest in force: 2018-02-01) · <https://legislatie.just.ro/Public/DetaliiDocument/197273>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -22,3 +22,4 @@ Act id: `ordin-anre-20-2018` (tags `ordin-anre-20-2018/<day>`; `python tools/on.
 - Ordin anre nr. 20/2018: the first version is the order as published in Monitorul Oficial nr. 98 of 1 February 2018 (document 197273 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin anre nr. 20/2018: the signatures and the place and date line after its last article are not article text.
 - Ordin anre nr. 20/2018: Anexa nr. 1 ((Anexa nr. 2 la regulament) AVIZ TEHNIC de racordare la conducta de alimentare din amonte nr............ din........................ 1. Ca urmare a cererii de racordare nr................ din.........) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 197273 of the official web service.
+- Ordin anre nr. 20/2018: its in-force clause could not be read automatically, so this record dates it from its publication (1 February 2018); the date will be checked by hand.

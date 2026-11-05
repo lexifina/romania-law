@@ -2,7 +2,7 @@
 
 Ordin anre nr. 4/2017 · 1 versions, from 2017-02-03 (latest in force: 2017-02-03) · <https://legislatie.just.ro/Public/DetaliiDocument/186382>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (METODOLOGIE 18/01/2017): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. In force in stages: dated by its earliest day, 1 April 2017; later days are not yet shown as versions: "Prezentul ordin se publică în Monitorul Oficial al României, Partea I, și intră în vigoare începând cu data de 1 aprilie 2017, cu excepția prevederilor art. 2, care intră în vigoare la data publicării.". Not included yet: Anexa nr. 1 (METODOLOGIE 18/01/2017): it is a table that the official text holds only flattened. Its in-force clause states 1 April 2017; this record still dates it from 3 February 2017, as first published here, and the date will be corrected.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -18,6 +18,7 @@ Act id: `ordin-anre-4-2017` (tags `ordin-anre-4-2017/<day>`; `python tools/on.py
 
 - Ordin anre nr. 4/2017: added from the official web service of the Portalul legislativ (FreeWebService) as the order as published (document 186382, retrieved 2026-11-03). Whether later acts amended it has not yet been checked against the official full-text search; amendments, if any, are not applied here. It will be extended or relabelled when that check is done.
 - Ordin anre nr. 4/2017: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
-- Ordin anre nr. 4/2017: the first version is the order as published in Monitorul Oficial nr. 98 of 3 February 2017 (document 186382 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
+- Ordin anre nr. 4/2017: the first version is the order as published in Monitorul Oficial nr. 98 of 3 February 2017 (document 186382 of the official web service), in force on 1 April 2017, the day it states for itself.
 - Ordin anre nr. 4/2017: the signatures and the place and date line after its last article are not article text.
 - Ordin anre nr. 4/2017: Anexa nr. 1 (METODOLOGIE 18/01/2017) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin anre nr. 4/2017: first published here dated 3 February 2017; its in-force clause states 1 April 2017. The record keeps the first date until it is corrected by hand.

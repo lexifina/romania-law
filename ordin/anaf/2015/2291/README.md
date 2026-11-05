@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 2291/2015 · 1 versions, from 2015-09-28 (latest in force: 2015-09-28) · <https://legislatie.just.ro/Public/DetaliiDocument/171608>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -40,3 +40,4 @@ Act id: `ordin-anaf-2291-2015` (tags `ordin-anaf-2291-2015/<day>`; `python tools
 - Ordin anaf nr. 2291/2015: the first version is the order as published in Monitorul Oficial nr. 725 of 28 September 2015 (document 171608 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin anaf nr. 2291/2015: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 2291/2015: Anexa nr. 1 (NORME TEHNICE din 4 septembrie 2015 privind administrarea contingentelor tarifare în România) is part of the order and is published in its folder, anexa-1/ (19 articles), from document 171609 of the official web service.
+- Ordin anaf nr. 2291/2015: its in-force clause could not be read automatically, so this record dates it from its publication (28 September 2015); the date will be checked by hand.

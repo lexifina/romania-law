@@ -2,7 +2,7 @@
 
 Ordin finante nr. 3097/2017 · 1 versions, from 2017-12-06 (latest in force: 2017-12-06) · <https://legislatie.just.ro/Public/DetaliiDocument/195462>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause states 1 January 2018; this record still dates it from 6 December 2017, as first published here, and the date will be corrected.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -38,8 +38,9 @@ Act id: `ordin-finante-3097-2017` (tags `ordin-finante-3097-2017/<day>`; `python
 
 - Ordin finante nr. 3097/2017: added from the official web service of the Portalul legislativ (FreeWebService) as the order as published (document 195462, retrieved 2026-11-03). Whether later acts amended it has not yet been checked against the official full-text search; amendments, if any, are not applied here. It will be extended or relabelled when that check is done.
 - Ordin finante nr. 3097/2017: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
-- Ordin finante nr. 3097/2017: the first version is the order as published in Monitorul Oficial nr. 963 of 6 December 2017 (document 195462 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
+- Ordin finante nr. 3097/2017: the first version is the order as published in Monitorul Oficial nr. 963 of 6 December 2017 (document 195462 of the official web service), in force on 1 January 2018, the day it states for itself.
 - Ordin finante nr. 3097/2017: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 3097/2017: Anexa nr. 1 (PROCEDURĂ ȘI CRITERII din 23 noiembrie 2017 de evaluare anuală a modului de utilizare a plafoanelor de garantare de către finanțatorii participanți în cadrul programului "Prima casă") is part of the order and is published in its folder, anexa-1/ (13 articles), from document 195463 of the official web service.
 - Ordin finante nr. 3097/2017: Anexa nr. 2 (Denumire finanțator: SITUAȚIA finanțărilor acordate în cadrul Programului „Prima casă” și a finanțărilor destinate achiziționării de locuințe de către persoane fizice, negarantate de către stat, în an) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 195462 of the official web service.
 - Ordin finante nr. 3097/2017: Anexa nr. 3 (Către: (denumire finanțator) În atenția: Doamnei/Domnului......... Ref. la: Comunicare privind rezultatele evaluării, punctajul obținut în urma evaluării și procentul de ajustare a plafonului de garan) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 195462 of the official web service.
+- Ordin finante nr. 3097/2017: first published here dated 6 December 2017; its in-force clause states 1 January 2018. The record keeps the first date until it is corrected by hand.

@@ -2,7 +2,7 @@
 
 Ordin munca nr. 162/2010 · 1 versions, from 2010-03-30 (latest in force: 2010-03-30) · <https://legislatie.just.ro/Public/DetaliiDocument/117542>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. In force in stages: dated by its earliest day, 30 March 2010; later days are not yet shown as versions: "Articolul 2 - Durata contractului (1) Prezentul contract de finanțare intră în vigoare la data semnării de către reprezentantul legal al AMPOSDRU, după ce contractul a fost semnat, în prealabil, de către reprezentantul legal al Beneficiarului. (2) Data de începere a implementării Proiectului va fi p".
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

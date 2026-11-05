@@ -2,7 +2,7 @@
 
 Ordin anre nr. 182/2020 · 1 versions, from 2020-10-30 (latest in force: 2020-10-30) · <https://legislatie.just.ro/Public/DetaliiDocument/231973>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (REGULAMENT pentru autorizarea persoanelor fizice care desfășoară activități în sectorul gazelor naturale): its text could not yet be split into provisions without losing or adding words.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (REGULAMENT pentru autorizarea persoanelor fizice care desfășoară activități în sectorul gazelor naturale): its text could not yet be split into provisions without losing or adding words. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -21,3 +21,4 @@ Act id: `ordin-anre-182-2020` (tags `ordin-anre-182-2020/<day>`; `python tools/o
 - Ordin anre nr. 182/2020: the first version is the order as published in Monitorul Oficial nr. 1012 of 30 October 2020 (document 231973 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin anre nr. 182/2020: the signatures and the place and date line after its last article are not article text.
 - Ordin anre nr. 182/2020: Anexa nr. 1 (REGULAMENT pentru autorizarea persoanelor fizice care desfășoară activități în sectorul gazelor naturale) is not included yet: its text could not yet be split into provisions without losing or adding words. It will be added when it can be published in full.
+- Ordin anre nr. 182/2020: its in-force clause could not be read automatically, so this record dates it from its publication (30 October 2020); the date will be checked by hand.

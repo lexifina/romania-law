@@ -2,7 +2,7 @@
 
 Norma bnr nr. 10/2002 · 1 versions, from 2002-08-16 (latest in force: 2002-08-16) · <https://legislatie.just.ro/Public/DetaliiDocument/38039>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -34,3 +34,4 @@ Act id: `norma-bnr-10-2002` (tags `norma-bnr-10-2002/<day>`; `python tools/on.py
 - Norma bnr nr. 10/2002: the first version is the norm as published in Monitorul Oficial nr. 610 of 16 August 2002 (document 38039 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Norma bnr nr. 10/2002: the signatures and the place and date line after its last article are not article text.
 - Norma bnr nr. 10/2002: Anexa nr. 1 (1 TARI CU PIEȚE ORGANIZATE LICHIDE O piața organizată este lichidă dacă respectiva piața își are reședința în una dintre următoarele tarii membre OCDE: 1. Australia 2. Austria 3. Belgia 4. Canada 5. C) is part of the norm and is published in its folder, anexa-1/ (paragraphs), from document 38039 of the official web service.
+- Norma bnr nr. 10/2002: its in-force clause could not be read automatically, so this record dates it from its publication (16 August 2002); the date will be checked by hand.

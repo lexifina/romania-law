@@ -2,7 +2,7 @@
 
 Ordin justitie nr. 1786/C/2011 · 1 versions, from 2011-09-19 (latest in force: 2011-09-19) · <https://legislatie.just.ro/Public/DetaliiDocument/131533>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -31,3 +31,4 @@ Act id: `ordin-justitie-1786-c-2011` (tags `ordin-justitie-1786-c-2011/<day>`; `
 - Ordin justitie nr. 1786/C/2011: the first version is the order as published in Monitorul Oficial nr. 666 of 19 September 2011 (document 131533 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin justitie nr. 1786/C/2011: the signatures and the place and date line after its last article are not article text.
 - Ordin justitie nr. 1786/C/2011: Anexa nr. 1 (NORME METODOLOGICE privind organizarea și funcționarea Registrului național notarial al regimurilor matrimoniale și procedura de înscriere și consultare a acestuia) is part of the order and is published in its folder, anexa-1/ (12 articles), from document 131533 of the official web service; the service's copy of it as a document of its own (131534) reads the same words.
+- Ordin justitie nr. 1786/C/2011: its in-force clause could not be read automatically, so this record dates it from its publication (19 September 2011); the date will be checked by hand.

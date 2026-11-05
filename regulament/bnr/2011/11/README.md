@@ -2,7 +2,7 @@
 
 Regulament bnr nr. 11/2011 · 1 versions, from 2011-09-27 (latest in force: 2011-09-27) · <https://legislatie.just.ro/Public/DetaliiDocument/131751>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 3 (3 Tabelul nr. 1.A - Criterii de încadrare pe categorii de clasificare pentru expunerile din credite, înregistrate de împrumutători față de debitorii din afara ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 3 (3 Tabelul nr. 1.A - Criterii de încadrare pe categorii de clasificare pentru expunerile din credite, înregistrate de împrumutători față de debitorii din afara ...): it is a table that the official text holds only flattened. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -50,3 +50,4 @@ Act id: `regulament-bnr-11-2011` (tags `regulament-bnr-11-2011/<day>`; `python t
 - Regulament bnr nr. 11/2011: Anexa nr. 1 (1) is part of the regulation and is published in its folder, anexa-1/ (paragraphs), from document 131751 of the official web service.
 - Regulament bnr nr. 11/2011: Anexa nr. 2 (2 Nr. crt. Tipul de garanție Coeficientul maxim pentru deducere din expunerea împrumută- torului față de debitor 1. Garanții directe, exprese, irevocabile și necondiționate ale administrației centrale) is part of the regulation and is published in its folder, anexa-2/ (paragraphs), from document 131751 of the official web service.
 - Regulament bnr nr. 11/2011: Anexa nr. 3 (3 Tabelul nr. 1.A - Criterii de încadrare pe categorii de clasificare pentru expunerile din credite, înregistrate de împrumutători față de debitorii din afara ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Regulament bnr nr. 11/2011: its in-force clause could not be read automatically, so this record dates it from its publication (27 September 2011); the date will be checked by hand.

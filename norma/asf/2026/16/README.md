@@ -2,7 +2,7 @@
 
 Norma asf nr. 16/2026 · 1 versions, from 2026-08-27 (latest in force: 2026-08-27) · <https://legislatie.just.ro/Public/DetaliiDocument/313801>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -78,3 +78,4 @@ Act id: `norma-asf-16-2026` (tags `norma-asf-16-2026/<day>`; `python tools/on.py
 - Norma asf nr. 16/2026: Anexa nr. 3 (SPECIMENE DE SEMNĂTURĂ pentru membrii structurii de conducere și pentru persoanele care dețin funcții-cheie autorizate*1)......(denumirea societății care solicită autorizare de constituire ca societat) is part of the norm and is published in its folder, anexa-3/ (paragraphs), from document 313801 of the official web service.
 - Norma asf nr. 16/2026: Anexa nr. 4 (DECLARAȚIE Nr. 1 pe propria răspundere privind relațiile de afiliere Declarația se întocmește potrivit acestui model. Nu sunt acceptate declarațiile semnate prin împuterniciți. Subsemnatul*1),........) is part of the norm and is published in its folder, anexa-4/ (paragraphs), from document 313801 of the official web service.
 - Norma asf nr. 16/2026: Anexa nr. 5 (DECLARAȚIE Nr. 2 pe propria răspundere privind deținerile reprezentând cel puțin 5% din capitalul social sau din drepturile de vot ale unei societăți Declarația se întocmește potrivit acestui model. N) is part of the norm and is published in its folder, anexa-5/ (paragraphs), from document 313801 of the official web service.
+- Norma asf nr. 16/2026: its in-force clause could not be read automatically, so this record dates it from its publication (27 August 2026); the date will be checked by hand.

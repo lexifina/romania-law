@@ -2,7 +2,7 @@
 
 Ordin justitie nr. 1226/C/2009 · 1 versions, from 2009-06-01 (latest in force: 2009-06-01) · <https://legislatie.just.ro/Public/DetaliiDocument/106462>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. In force in stages: dated by its earliest day, 1 June 2009; later days are not yet shown as versions: "(1) Prezentul regulament se publică în Monitorul Oficial al României, Partea I. (2) Dispozițiile privind Biroul de informații clasificate intră în vigoare în termen de 90 de zile de la publicarea prezentului regulament ___________" (30 August 2009).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

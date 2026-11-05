@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 1090/2022 · 1 versions, from 2022-06-16 (latest in force: 2022-06-16) · <https://legislatie.just.ro/Public/DetaliiDocument/256457>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -63,3 +63,4 @@ Act id: `ordin-anaf-1090-2022` (tags `ordin-anaf-1090-2022/<day>`; `python tools
 - Ordin anaf nr. 1090/2022: the first version is the order as published in Monitorul Oficial nr. 585 of 16 June 2022 (document 256457 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin anaf nr. 1090/2022: the signatures and the place and date line after its last article are not article text.
 - Ordin anaf nr. 1090/2022: Anexa nr. 1 (PROCEDURĂ din 9 iunie 2022 de comunicare prin mijloace electronice de transmitere la distanță între organul fiscal central și persoanele fizice, persoanele juridice și alte entități fără ...) is part of the order and is published in its folder, anexa-1/ (34 articles), from document 256458 of the official web service.
+- Ordin anaf nr. 1090/2022: its in-force clause could not be read automatically, so this record dates it from its publication (16 June 2022); the date will be checked by hand.

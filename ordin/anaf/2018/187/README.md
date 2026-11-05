@@ -2,7 +2,7 @@
 
 Ordin anaf nr. 187/2018 · 1 versions, from 2018-01-26 (latest in force: 2018-01-26) · <https://legislatie.just.ro/Public/DetaliiDocument/197174>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (PROCEDURA de restituire a sumelor reprezentând taxe sau alte venituri ale bugetului de stat, plătite în plus sau necuvenit și pentru care nu există obligația ...): the official text prints its heading only, and its text is not in the records held.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (PROCEDURA de restituire a sumelor reprezentând taxe sau alte venituri ale bugetului de stat, plătite în plus sau necuvenit și pentru care nu există obligația ...): the official text prints its heading only, and its text is not in the records held. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -32,3 +32,4 @@ Act id: `ordin-anaf-187-2018` (tags `ordin-anaf-187-2018/<day>`; `python tools/o
 - Ordin anaf nr. 187/2018: Anexa nr. 4 (ANTET^1) Nr........./data......... Către^2)...................... cod de identificare fiscală................ str............ nr...., bloc..., sc...., et...., ap...., sector...., localitatea..........) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 197174 of the official web service.
 - Ordin anaf nr. 187/2018: Anexa nr. 1 (PROCEDURA de restituire a sumelor reprezentând taxe sau alte venituri ale bugetului de stat, plătite în plus sau necuvenit și pentru care nu există obligația ...) is not included yet: the official text prints its heading only, and its text is not in the records held. It will be added when it can be published in full.
 - Ordin anaf nr. 187/2018: the publisher's notes run into its text (*) Se înscrie denumirea autorității/instituției publice care certifică dreptul de creanță al solicitantului.) are not text.
+- Ordin anaf nr. 187/2018: its in-force clause could not be read automatically, so this record dates it from its publication (26 January 2018); the date will be checked by hand.

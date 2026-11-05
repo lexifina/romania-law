@@ -2,7 +2,7 @@
 
 Ordin bnr nr. 9/2017 · 1 versions, from 2017-11-15 (latest in force: 2017-11-15) · <https://legislatie.just.ro/Public/DetaliiDocument/194682>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Its in-force clause could not be read automatically; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -23,3 +23,4 @@ Act id: `ordin-bnr-9-2017` (tags `ordin-bnr-9-2017/<day>`; `python tools/on.py <
 - Ordin bnr nr. 9/2017: the signatures and the place and date line after its last article are not article text.
 - Ordin bnr nr. 9/2017: Anexa nr. 1 (NORME METODOLOGICE din 1 noiembrie 2017 privind întocmirea situațiilor financiare FINREP la nivel individual, conforme cu Standardele internaționale de raportare financiară, aplicabile instituțiilor ...) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 211071 of the official web service.
 - Ordin bnr nr. 9/2017: the publisher's note "*) Anexa se publică în Monitorul Oficial al României, Partea I, nr. 896 bis, care se poate achiziționa de la Centrul pentru relații cu publicul al Regiei Autonome „Monitorul Oficialˮ, București, șos. " says a part of it is published in a "bis" issue of the Monitorul Oficial; the official web service holds that issue's text as a document of its own, published here as Anexa nr. 1. The note itself is not text.
+- Ordin bnr nr. 9/2017: its in-force clause could not be read automatically, so this record dates it from its publication (15 November 2017); the date will be checked by hand.

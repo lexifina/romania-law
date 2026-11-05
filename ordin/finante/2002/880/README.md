@@ -2,7 +2,7 @@
 
 Ordin finante nr. 880/2002 · 1 versions, from 2002-08-12 (latest in force: 2002-08-12) · <https://legislatie.just.ro/Public/DetaliiDocument/37944>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. In force in stages: dated by its earliest day, 12 August 2002; later days are not yet shown as versions: "(1) Prevederile Codului privind conduita etica a auditorului intern intră în vigoare la 30 de zile de la data publicării lui în Monitorul Oficial al României, Partea I. (2) În termen de 10 zile de la data publicării în Monitorul Oficial al României, Partea I, Codul privind conduita etica a auditorul" (11 September 2002).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
