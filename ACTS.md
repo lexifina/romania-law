@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12400 acts, 23,914 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12401 acts, 23,915 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8324, of which 3122 amending acts)
+## Laws (legi) (8325, of which 3123 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -743,6 +743,7 @@
 | Legea nr. 48/2000 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 180/1999 pentru modificarea Legii bugetului de stat pe anul 1999 nr. 36/1999 | [`lege/2000/48/`](lege/2000/48/) | amended, not consolidated | 1 | 2000-04-18 | 2000-04-18 |
 | Legea nr. 51/2000 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 200/1999 privind rectificarea bugetului asigurărilor sociale de stat pe anul 1999 | [`lege/2000/51/`](lege/2000/51/) | amended, not consolidated | 1 | 2000-04-18 | 2000-04-18 |
 | Legea nr. 52/2000 privind aprobarea Ordonanţei Guvernului nr. 66/1999 pentru aderarea României la Convenţia cu privire la suprimarea cerinţei supralegalizării actelor oficiale străine, adoptată la Haga la 5 octombrie 1961 | [`lege/2000/52/`](lege/2000/52/) | amended, not consolidated | 1 | 2000-04-20 | 2000-04-20 |
+| Legea nr. 54/2000 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 153/1999 privind autorizarea Ministerului Finanţelor de a garanta un împrumut extern în valoare de 50 milioane mărci germane pentru Banca de Export-Import a României (EXIMBANK) - S.A., acordat de către Kreditanstalt fur Wiederaufbau pentru realizarea programului de dezvoltare a întreprinderilor mici şi mijlocii cu capital majoritar românesc | [`lege/2000/54/`](lege/2000/54/) | amending act | 1 | 2000-04-21 | 2000-04-21 |
 | Legea nr. 55/2000 privind aprobarea Ordonanţei Guvernului nr. 72/1999 pentru ratificarea Acordului-cadru de împrumut dintre România şi Fondul de Dezvoltare Socială al Consiliului Europei, semnat la Paris la 29 iulie 1999 | [`lege/2000/55/`](lege/2000/55/) | amended, not consolidated | 1 | 2000-04-21 | 2000-04-21 |
 | Legea nr. 56/2000 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 156/1999 pentru ratificarea Addendumului la Memorandumul de finanţare RO 9803.02 "Sprijin pentru reforma din domeniul protecţiei copilului", semnat la Bucureşti la 15 iulie 1999 între Guvernul României şi Comisia Europeană | [`lege/2000/56/`](lege/2000/56/) | amended, not consolidated | 1 | 2000-04-21 | 2000-04-21 |
 | Legea nr. 58/2000 pentru modificarea art. 1 din Legea nr. 199/1998 privind dreptul absolvenţilor învăţământului particular liceal, profesional şi postliceal de a susţine examenul de finalizare a studiilor la unităţi similare din învăţământul de stat | [`lege/2000/58/`](lege/2000/58/) | amended, not consolidated | 1 | 2000-04-26 | 2000-04-26 |
@@ -12466,7 +12467,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 27790 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 27806 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 14525 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 719 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 551 | [`data/acts/regulament/`](data/acts/regulament/) |
