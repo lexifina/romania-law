@@ -1,0 +1,17 @@
+# Hotărârea Consiliului General al Municipiului București nr. 269/2009 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL B-DUL POLIGRAFIEI NR. 49-51, SECTOR 1
+
+HCGMB nr. 269/2009 · 1 versions, from 2009-07-15 (latest in force: 2009-07-15) · <https://acteinterne.pmb.ro/legis/acteinterne/acte_int/25856>
+
+**Status:** Text not yet included: its text is a scan that has not been read by OCR yet. It will be added when it is. The document is at the council's record.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcgmb-269-2009` (tags `hcgmb-269-2009/<day>`; `python tools/on.py <day> hcgmb-269-2009`).
+
+## Decisions made by hand
+
+- HCGMB nr. 269/2009: listed from Primăria Municipiului București, Acte interne (acteinterne.pmb.ro); metadata only for now: its text is a scan that has not been read by OCR yet.
+- HCGMB nr. 269/2009: dated from 15 July 2009, the day it was adopted and published.
+- HCGMB nr. 269/2009: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

@@ -1,0 +1,25 @@
+# Regulamentul nr. 4/2015 pentru modificarea Regulamentului Băncii Naționale a României nr. 2/2012 privind organizarea și funcționarea la Banca Națională a României a Centralei Riscului de Credit
+
+Regulament bnr nr. 4/2015 · 1 versions, from 2015-05-01 (latest in force: 2015-05-01) · <https://legislatie.just.ro/Public/DetaliiDocument/167399>
+
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌────┐ │ F1 │ └────┘ FIȘA DE ACREDITARE la Centrala Riscului de Credit a persoanelor autorizate să transmită și să recepționeze informații de risc de credit ...): it is a table that the official text holds only flattened; Anexa nr. 2 (2 *Font 8* ┌──────┐ │ F2 A │ └──────┘ Nr....... Data........... FORMULAR de raportare a debitorilor pentru luna........ anul......... Persoană ...): it is a table that the official text holds only flattened; Anexa nr. 3 (3 *Font 7* Nr......... Data........ ┌────┐ │F3 A│ └────┘ FORMULAR de raportare a riscurilor individuale pentru luna.......... anul......... Persoană ...): it is a table that the official text holds only flattened; Anexa nr. 4 (4 ┌────┐ │F4 A│ Nr...... Data....... └────┘ SITUAȚIA riscului global privind persoanele recenzate pentru luna..... anul...... Către Persoana ...): it is a table that the official text holds only flattened; Anexa nr. 5 (5 ┌──────┐ │ F4 B │ └──────┘ Nr........ Data........... [Siglă BNR] SITUAȚIA CREDITELOR RESTANTE Către Persoana ...): it is a table that the official text holds only flattened.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. I | [art-001.md](art-001.md) | 0 |  |
+| Art. II | [art-002.md](art-002.md) | 0 |  |
+
+Act id: `regulament-bnr-4-2015` (tags `regulament-bnr-4-2015/<day>`; `python tools/on.py <day> regulament-bnr-4-2015`).
+
+## Decisions made by hand
+
+- Regulament bnr nr. 4/2015: added from the official web service of the Portalul legislativ (FreeWebService) as the regulation as published (document 167399, retrieved 2026-11-03). Whether later acts amended it has not yet been checked against the official full-text search; amendments, if any, are not applied here. It will be extended or relabelled when that check is done.
+- Regulament bnr nr. 4/2015: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
+- Regulament bnr nr. 4/2015: the first version is the regulation as published in Monitorul Oficial nr. 275 of 23 April 2015 (document 167399 of the official web service), in force on 1 May 2015, the day it states for itself.
+- Regulament bnr nr. 4/2015: the signatures and the place and date line after its last article are not article text.
+- Regulament bnr nr. 4/2015: Anexa nr. 1 (1 ┌────┐ │ F1 │ └────┘ FIȘA DE ACREDITARE la Centrala Riscului de Credit a persoanelor autorizate să transmită și să recepționeze informații de risc de credit ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Regulament bnr nr. 4/2015: Anexa nr. 2 (2 *Font 8* ┌──────┐ │ F2 A │ └──────┘ Nr....... Data........... FORMULAR de raportare a debitorilor pentru luna........ anul......... Persoană ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Regulament bnr nr. 4/2015: Anexa nr. 3 (3 *Font 7* Nr......... Data........ ┌────┐ │F3 A│ └────┘ FORMULAR de raportare a riscurilor individuale pentru luna.......... anul......... Persoană ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Regulament bnr nr. 4/2015: Anexa nr. 4 (4 ┌────┐ │F4 A│ Nr...... Data....... └────┘ SITUAȚIA riscului global privind persoanele recenzate pentru luna..... anul...... Către Persoana ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Regulament bnr nr. 4/2015: Anexa nr. 5 (5 ┌──────┐ │ F4 B │ └──────┘ Nr........ Data........... [Siglă BNR] SITUAȚIA CREDITELOR RESTANTE Către Persoana ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Regulament bnr nr. 4/2015: the publisher's notes run into its text (*) Se completează cu informaţia aferentă, după caz.; *) Se completează cu informaţia aferentă, după caz. Precizări se regăsesc în documentaţia aplicaţiei informatice a Centr; *) Se transmite cu scrisoare oficială direcţiei din cadrul Băncii Naţionale a României care coordonează activitatea Cent; *) Sucursalele din România ale instituţiilor de credit din alte state membre pot opta pentru raportarea acestei informaţ; **) Conţine informaţiile obţinute din schimbul transfrontalier, în conformitate cu prevederile "Memorandumului de înţele) are not text.

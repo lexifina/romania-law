@@ -1,0 +1,22 @@
+# Ordinul nr. 7/2011 privind modificarea și completarea Ordinului Băncii Naționale a României nr. 8/2008 pentru aprobarea Sistemului de raportare contabilă semestrială a instituțiilor de credit, instituțiilor financiare nebancare și a Fondului de garantare a depozitelor în sistemul bancar
+
+Ordin bnr nr. 7/2011 · 1 versions, from 2011-08-18 (latest in force: 2011-08-18) · <https://legislatie.just.ro/Public/DetaliiDocument/130872>
+
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. I | [art-001.md](art-001.md) | 0 |  |
+| Art. II | [art-002.md](art-002.md) | 0 |  |
+| Art. III | [art-003.md](art-003.md) | 0 |  |
+| Art. IV | [art-004.md](art-004.md) | 0 |  |
+
+Act id: `ordin-bnr-7-2011` (tags `ordin-bnr-7-2011/<day>`; `python tools/on.py <day> ordin-bnr-7-2011`).
+
+## Decisions made by hand
+
+- Ordin bnr nr. 7/2011: added from the official web service of the Portalul legislativ (FreeWebService) as the order as published (document 130872, retrieved 2026-11-03). Whether later acts amended it has not yet been checked against the official full-text search; amendments, if any, are not applied here. It will be extended or relabelled when that check is done.
+- Ordin bnr nr. 7/2011: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
+- Ordin bnr nr. 7/2011: the first version is the order as published in Monitorul Oficial nr. 585 of 18 August 2011 (document 130872 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
+- Ordin bnr nr. 7/2011: the signatures and the place and date line after its last article are not article text.
+- Ordin bnr nr. 7/2011: the publisher's notes run into its text (*) Se completează doar de către instituţiile de credit.; **) Pentru statutul de «persoane juridice afiliate» se vor avea în vedere prevederile art. 7 pct. 21 din Legea nr. 571/2; ***) Cheltuielile de inovare se determină potrivit Regulamentului (CE) nr. 1.450/2004 al Comisiei din 13 august 2004 de ; ****) Se va completa cu cheltuielile efectuate pentru activitatea de cercetare-dezvoltare, respectiv cercetarea fundamen) are not text.

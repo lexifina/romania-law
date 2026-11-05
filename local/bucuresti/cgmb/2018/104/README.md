@@ -1,0 +1,17 @@
+# Hotărârea Consiliului General al Municipiului București nr. 104/2018 PRIVIND APROBABAREA STUDIULUI DE OPORTUNITATE PRIVIND MODALITATEA DE DELEGARE A SERVICIULUI PUBLIC DE CONSTRUIRE, MODERNIZARE, REPARARE SI INTRETINERE A RETELEI STRADALE, LUCRARILOR DE ARTA AFLATE IN PATRIMONIUL PUBLIC SI PRIVAT AL MUNICIPIULUI BUCURESTI SI A CAIETULUI DE SARCINI AL SERVICIULUI PUBLIC DE ADMINISTRARE A DOMENIULUI PUBLIC SI PRIVAT PRIVIND ACTIVITATILE DE CONSTRUIRE, MODERNIZARE, REPARARE SI INTRETINERE A RETELEI STRADALE, LUCRARILOR DE ARTA DIN MUNICIPIUL BUCURESTI, INCLUSIV ECHIPAREA TRAMEI STRADALE CU ELEMENTE DE MOBILIER URBAN
+
+HCGMB nr. 104/2018 · 1 versions, from 2018-02-22 (latest in force: 2018-02-22) · <https://acteinterne.pmb.ro/legis/acteinterne/acte_int/37623>
+
+**Status:** Text not yet included: its text is a scan that has not been read by OCR yet. It will be added when it is. The document is at the council's record.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcgmb-104-2018` (tags `hcgmb-104-2018/<day>`; `python tools/on.py <day> hcgmb-104-2018`).
+
+## Decisions made by hand
+
+- HCGMB nr. 104/2018: listed from Primăria Municipiului București, Acte interne (acteinterne.pmb.ro); metadata only for now: its text is a scan that has not been read by OCR yet.
+- HCGMB nr. 104/2018: dated from 22 February 2018, the day it was adopted and published.
+- HCGMB nr. 104/2018: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.
