@@ -59,6 +59,22 @@ KIND_NAMES = {**{k: v for k, v in KIND_NAMES.items() if k not in ('cod', 'alte')
 LANE_ROOTS = tuple(LANE_KINDS)
 LANE_FOLDER = re.compile(r'^(?:' + '|'.join(map(re.escape, LANE_ROOTS)) + r')(?:/[a-z0-9][a-z0-9-]*){1,4}$')
 LANE_SLUG = re.compile(r'^(' + '|'.join(map(re.escape, LANE_ROOTS)) + r')-([a-z0-9][a-z0-9-]*)$')
+# Local acts (approved 2026-11-04): a council numbers its decisions per year, so the council is the folder path:
+# local/bucuresti/cgmb/<year>/<n>, local/bucuresti/sector-<k>/<year>/<n>, local/judet/<county>/<year>/<n>,
+# local/<county>/<locality>/<year>/<n>; ids hcgmb-<n>-<year>, hcls<k>-<n>-<year>, hcj-<county>-<n>-<year>,
+# hcl-<county>--<locality>-<n>-<year> (county and locality slugs may hold hyphens, so "--" parts them).
+KIND_NAMES = {**{k: v for k, v in KIND_NAMES.items() if k not in ('cod', 'alte')},
+              'local': 'Local acts (decisions of local and county councils)',
+              'cod': KIND_NAMES['cod'], 'alte': KIND_NAMES['alte']}
+LOCAL_SLUGS = [
+    (re.compile(r'^hcgmb-(\d+)-(\d{4})(?:-\d+)?$'), lambda m: f'local/bucuresti/cgmb/{m.group(2)}/{int(m.group(1))}'),
+    (re.compile(r'^hcls([1-6])-(\d+)-(\d{4})(?:-\d+)?$'),
+     lambda m: f'local/bucuresti/sector-{m.group(1)}/{m.group(3)}/{int(m.group(2))}'),
+    (re.compile(r'^hcj-([a-z]+(?:-[a-z]+)*)-(\d+)-(\d{4})(?:-\d+)?$'),
+     lambda m: f'local/judet/{m.group(1)}/{m.group(3)}/{int(m.group(2))}'),
+    (re.compile(r'^hcl-([a-z]+(?:-[a-z]+)*)--([a-z0-9]+(?:-[a-z0-9]+)*)-(\d+)-(\d{4})(?:-\d+)?$'),
+     lambda m: f'local/{m.group(1)}/{m.group(2)}/{m.group(4)}/{int(m.group(3))}'),
+]
 KIND_ORDER = list(KIND_NAMES)
 ORDER_SLUG_RE = re.compile(r'^(' + '|'.join(ORDER_KINDS) + r')-([a-z]+)-(\d+)(?:-([a-z]+))?-(\d{4})(?:-\d+)?$')
 # An optional "-2", "-3" ... marks a second act under the same number after an earlier id was withdrawn (ids are never
@@ -92,6 +108,10 @@ def act_path(slug: str, title: str = '') -> str:
     m = ORDER_SLUG_RE.match(slug)
     if m:  # ordin-justitie-492-c-2012 -> ordin/justitie/2012/492-c
         return f'{m.group(1)}/{m.group(2)}/{m.group(5)}/{int(m.group(3))}' + (f'-{m.group(4)}' if m.group(4) else '')
+    for rx, path in LOCAL_SLUGS:  # hcgmb-67-2004 -> local/bucuresti/cgmb/2004/67 (before the title rules: a local
+        m = rx.match(slug)        # decision's title often names a law)
+        if m:
+            return path(m)
     for rx, kind in TITLE_RE:
         t = rx.search(title or '')
         if t:
@@ -121,6 +141,8 @@ def parts_of(path: str) -> tuple[str, str, str]:
         return bits[0], bits[3], bits[4]
     if bits[0] in ORDER_KINDS and len(bits) == 4:  # ordin/<issuer>/<year>/<number>[-<series>]
         return bits[0], bits[2], bits[3]
+    if bits[0] == 'local' and len(bits) >= 5:  # local/<council ...>/<year>/<number>
+        return bits[0], bits[-2], bits[-1]
     return bits[0], (bits[1] if len(bits) > 1 else ''), (bits[2] if len(bits) > 2 else '')
 
 
@@ -272,6 +294,12 @@ ISSUER_NAMES: dict[str, str] = {
     'vama': 'Autoritatea Vamală Română / Autoritatea Națională a Vămilor',
 }
 
+def council_of(path: str) -> str:
+    """The council of a local act's folder (local/bucuresti/cgmb/2004/67 -> bucuresti/cgmb); '' for every other act."""
+    bits = (path or '').split('/')
+    return '/'.join(bits[1:-2]) if bits[0] == 'local' and len(bits) >= 5 else ''
+
+
 def issuer_of(path: str) -> str:
     """The issuer level of an order's folder (ordin/justitie/2012/492-c -> justitie); '' for every other act."""
     bits = (path or '').split('/')
@@ -318,7 +346,8 @@ def status(a: dict) -> str:
         return 'amended, not consolidated'
     if a.get('amendments_checked') is False:  # published as it appeared; whether it was amended is not checked yet
         return 'as published, amendments not yet checked'
-    if a.get('record_status') and lane_folder(a):  # a source-lane act states its own (metadata only, text withheld ...)
+    if a.get('record_status') and (lane_folder(a) or council_of(a.get('path') or '')):
+        # a source-lane or local act states its own (metadata only, text withheld, text pending OCR ...)
         return a['record_status']
     if AMENDING.search(a.get('title', '')):
         return 'amending act'
@@ -351,7 +380,10 @@ def acts_rows(c: dict) -> list[dict]:
                      # orders: the issuer level, and a joint order's co-issuers with the id each one's number gives it
                      **({'issuer': issuer_of(p), 'joint': a.get('joint') or []} if issuer_of(p) else {}),
                      # a source-lane act's machine flags (text_withheld: personal_data, text_missing, annex_missing ...)
-                     **({'flags': a['lane_flags']} if a.get('lane_flags') and lane_folder(a) else {})})
+                     **({'flags': a['lane_flags']} if a.get('lane_flags') and lane_folder(a) else {}),
+                     # local acts: the council's folder and name, and the act's machine flags (text_pending: ocr ...)
+                     **({'council': council_of(p), 'council_name': a.get('council_name') or '',
+                         **({'flags': a['lane_flags']} if a.get('lane_flags') else {})} if council_of(p) else {})})
     return sort_rows(rows)
 
 
@@ -366,6 +398,8 @@ def sort_rows(rows: list[dict]) -> list[dict]:
     order = {k: i for i, k in enumerate(KIND_ORDER)}
 
     def key(r):
+        if r.get('council'):
+            return (order.get(r['kind'], 99), r['council'], r['year'], _num(r['number']), r['number'])
         if r.get('issuer'):
             return (order.get(r['kind'], 99), r['issuer'], r['year'], _num(r['number']), r['number'])
         return (order.get(r['kind'], 99), '', r['year'], int(r['number']) if r['number'].isdigit() else 0, '')
@@ -379,9 +413,11 @@ def acts_json(c: dict) -> str:
 
 def paths_json(c: dict, since: str) -> str:
     orders = any(issuer_of(a.get('path') or '') for a in c['acts'])
+    local = any(council_of(a.get('path') or '') for a in c['acts'] if not a.get('_withdrawn'))
     al = aliases_of(c)
     return json.dumps({'layout': '<kind>/<year>/<number>' + ('; orders: <kind>/<issuer>/<year>/<number>[-<series>]'
-                                                             if orders else ''), 'since': since,
+                                                             if orders else '') +
+                       ('; local acts: local/<council>/<year>/<number>' if local else ''), 'since': since,
                        'note': 'Act folders before the layout move were named by slug; tools/on.py reads both.' + (
                            ' A joint order lives once, under its first issuer; `aliases` maps the id each co-issuer\'s '
                            'number gives it to that folder.' if al else ''),
@@ -435,6 +471,9 @@ def acts_md(c: dict) -> str:
         if kind in ORDER_KINDS:
             out += order_sections(group, esc)
             continue
+        if kind == 'local':
+            out += local_sections(group, esc)
+            continue
         out += ['| Act | Folder | Status | Versions | From | Latest |', '| --- | --- | --- | ---: | --- | --- |']
         for r in group:
             out.append(f'| {esc(r["title"])} | [`{r["path"]}/`]({r["path"]}/) | {r["status"]} | {r["versions"]} | '
@@ -477,6 +516,24 @@ def order_sections(group: list[dict], esc) -> list[str]:
             elif r.get('joint'):
                 title += ' (joint with ' + ', '.join(f'`{x["issuer"]}`' for x in r['joint'] if x.get('issuer')) + ')'
             out.append(f'| {title} | [`{r["path"]}/`]({r["path"]}/) | {r["status"]} | {r["versions"]} | '
+                       f'{r["from"]} | {r["latest"]} |')
+        out.append('')
+    return out
+
+
+def local_sections(group: list[dict], esc) -> list[str]:
+    """One section per council (its folder and name), its decisions by year and number."""
+    by: dict[str, list] = {}
+    for r in group:
+        by.setdefault(r.get('council', ''), []).append(r)
+    out = []
+    for c in sorted(by):
+        items = by[c]
+        name = next((r.get('council_name') for r in items if r.get('council_name')), '')
+        out += [f'### `local/{c}/`' + (f': {esc(name)}' if name else '') + f' ({len(items)})', '',
+                '| Act | Folder | Status | Versions | From | Latest |', '| --- | --- | --- | ---: | --- | --- |']
+        for r in items:
+            out.append(f'| {esc(r["title"])} | [`{r["path"]}/`]({r["path"]}/) | {r["status"]} | {r["versions"]} | '
                        f'{r["from"]} | {r["latest"]} |')
         out.append('')
     return out
