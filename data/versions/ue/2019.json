@@ -1743,6 +1743,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-2-2019",
+   "path": "ue/regulament/2019/2",
+   "short": "Regulamentul (UE) 2019/2",
+   "title": "Regulamentul (UE) 2019/2 al Parlamentului European și al Consiliului din 11 decembrie 2018 de modificare a Regulamentului (CE) nr. 1008/2008 privind normele comune pentru operarea serviciilor aeriene în Comunitate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0002",
+   "versions": [
+    {
+     "from": "2019-02-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8b9adcd3-17cc-11e9-8d04-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "0fd3a98afc12f0c44dd7315cd0ed2c3a50187afa93795c42016c74968ed1d527"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2019-2019",
    "path": "ue/regulament/2019/2019",
    "short": "Regulamentul (UE) 2019/2019",
@@ -2373,6 +2388,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-440-2019",
+   "path": "ue/regulament/2019/440",
+   "short": "Regulamentul (UE) 2019/440",
+   "title": "Regulamentul (UE) 2019/440 al Consiliului din 29 noiembrie 2018 privind alocarea posibilităților de pescuit în temeiul Acordului de parteneriat în domeniul pescuitului sustenabil dintre Uniunea Europeană și Regatul Maroc și al protocolului său de punere în aplicare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0440",
+   "versions": [
+    {
+     "from": "2019-03-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ff4798eb-4ae1-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "e9f3ae331fbb32467666d973e1f52ea82c7ae3814a6fafdf6f9d729998ad1bc3"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-452-2019",
    "path": "ue/regulament/2019/452",
    "short": "Regulamentul (UE) 2019/452",
@@ -2744,6 +2774,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/ab87d44e-5cf1-11e9-9c52-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "b00aa578a307621c8abc889366bf084fbc80b9bea3d2e7ebeb6ed88b7ef4ecf3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-6-2019",
+   "path": "ue/regulament/2019/6",
+   "short": "Regulamentul (UE) 2019/6",
+   "title": "Regulamentul (UE) 2019/6 al Parlamentului European și al Consiliului din 11 decembrie 2018 privind produsele medicinale veterinare și de abrogare a Directivei 2001/82/CE (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0006",
+   "versions": [
+    {
+     "from": "2019-01-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/aefe9285-120b-11e9-81b4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "26ddaf0eef9fa1eff38b4077a460e99511ac36d2145af4b1c614612064444a8a"
     }
    ]
   },

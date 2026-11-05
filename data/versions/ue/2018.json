@@ -393,6 +393,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-1049-2018",
+   "path": "ue/regulament/2018/1049",
+   "short": "Regulamentul (UE) 2018/1049",
+   "title": "Regulamentul (UE) 2018/1049 al Comisiei din 25 iulie 2018 de modificare a anexei I la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1049",
+   "versions": [
+    {
+     "from": "2018-07-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/87288941-9064-11e8-8bc1-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "9c5d26b6ed8608b89e036686e93ad0f82cf7e22567483d345cc0888cabcb3209"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1065-2018",
+   "path": "ue/regulament/2018/1065",
+   "short": "Regulamentul (UE) 2018/1065",
+   "title": "Regulamentul (UE) 2018/1065 al Comisiei din 27 iulie 2018 de modificare a Regulamentului (UE) nr. 1178/2011 în ceea ce privește validarea automată a licențelor de echipaj de zbor eliberate în Uniune și pregătirea pentru decolare și aterizare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1065",
+   "versions": [
+    {
+     "from": "2018-08-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9880312c-93bd-11e8-8bc1-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "b38e106f057b0693aee8fe6467504bff46bc72a9abc78c620495eed0475abf68"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1070-2018",
    "path": "ue/regulament/2018/1070",
    "short": "Regulamentul (UE) 2018/1070",
@@ -404,6 +434,51 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/0efdecfc-948a-11e8-8bc1-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "6ce1993e327728b87d6d10f510c215c7ed9c94c9f0bedaaa9747f2656fdbbcec"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1091-2018",
+   "path": "ue/regulament/2018/1091",
+   "short": "Regulamentul (UE) 2018/1091",
+   "title": "Regulamentul (UE) 2018/1091 al Parlamentului European și al Consiliului din 18 iulie 2018 privind statisticile integrate referitoare la ferme și de abrogare a Regulamentelor (CE) nr. 1166/2008 și (UE) nr. 1337/2011 (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1091",
+   "versions": [
+    {
+     "from": "2018-08-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b401f250-99ca-11e8-a408-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "d8c55e89a2306ad0a390469531f175b5da004262c89bd19d656389a4e3624a07"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1095-2018",
+   "path": "ue/regulament/2018/1095",
+   "short": "Regulamentul (UE) 2018/1095",
+   "title": "Regulamentul (UE) 2018/1095 al Consiliului din 26 iulie 2018 privind repartizarea posibilităților de pescuit în temeiul Protocolului privind punerea în aplicare a Acordului de parteneriat în domeniul pescuitului dintre Uniunea Europeană și Republica Côte d'Ivoire (2018-2024)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1095",
+   "versions": [
+    {
+     "from": "2018-08-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ea16c9bd-96e1-11e8-8bc1-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "2266dd5be936108ab557a6dc53ff0404eded0578500ca493e6fb6646656cd98a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1116-2018",
+   "path": "ue/regulament/2018/1116",
+   "short": "Regulamentul (UE) 2018/1116",
+   "title": "Regulamentul (UE) 2018/1116 al Consiliului din 10 august 2018 de modificare a Regulamentului (UE) 2015/735 privind măsuri restrictive având în vedere situația din Sudanul de Sud",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1116",
+   "versions": [
+    {
+     "from": "2018-08-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6c88678a-9ec3-11e8-a408-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "c38b07259bd6205b65868921401406f6b9ef2d2c3214ba9dbc72ceecd018fece"
     }
    ]
   },
@@ -438,6 +513,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-1142-2018",
+   "path": "ue/regulament/2018/1142",
+   "short": "Regulamentul (UE) 2018/1142",
+   "title": "Regulamentul (UE) 2018/1142 al Comisiei din 14 august 2018 de modificare a Regulamentului (UE) nr. 1321/2014 în ceea ce privește introducerea anumitor categorii de licențe de întreținere a aeronavelor, modificarea procedurii de acceptare a componentelor de la furnizori externi și modificarea privilegiilor organizațiilor de pregătire în domeniul întreținerii (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1142",
+   "versions": [
+    {
+     "from": "2018-09-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2623cfc6-a11b-11e8-99ee-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "6933b9f4401b0fd1958b4e153e301035fdb78bca63741144dece68ce33f2543a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-120-2018",
+   "path": "ue/regulament/2018/120",
+   "short": "Regulamentul (UE) 2018/120",
+   "title": "Regulamentul (UE) 2018/120 al Consiliului din 23 ianuarie 2018 de stabilire, pentru anul 2018, a posibilităților de pescuit pentru anumite stocuri de pește și grupuri de stocuri de pește, aplicabile în apele Uniunii și, pentru navele de pescuit ale Uniunii, în anumite ape din afara acesteia, și de modificare a Regulamentului (UE) 2017/127",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0120",
+   "versions": [
+    {
+     "from": "2018-02-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e50d45fd-0651-11e8-b8f5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "33894c09ac33e787a8e2d9a402ea6d80e21ec5bc0adf3d4c948a14233f6ce47f"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1240-2018",
    "path": "ue/regulament/2018/1240",
    "short": "Regulamentul (UE) 2018/1240",
@@ -453,6 +558,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-1241-2018",
+   "path": "ue/regulament/2018/1241",
+   "short": "Regulamentul (UE) 2018/1241",
+   "title": "Regulamentul (UE) 2018/1241 al Parlamentului European și al Consiliului din 12 septembrie 2018 de modificare a Regulamentului (UE) 2016/794 în scopul instituirii Sistemului european de informații și de autorizare privind călătoriile (ETIAS)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1241",
+   "versions": [
+    {
+     "from": "2018-10-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/55a7d897-c704-11e8-9424-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "64c64d13365b5351a37e6e7873455265539dc73cc67cd0bfdf3e94bbee547013"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1259-2018",
+   "path": "ue/regulament/2018/1259",
+   "short": "Regulamentul (UE) 2018/1259",
+   "title": "Regulamentul (UE) 2018/1259 al Comisiei din 20 septembrie 2018 de modificare a Regulamentului (UE) nr. 873/2012 de stabilire a măsurilor tranzitorii privind lista Uniunii de arome și materii prime, prevăzută în anexa I la Regulamentul (CE) nr. 1334/2008 al Parlamentului European și al Consiliului, în ceea ce privește prelungirea perioadei de tranziție prevăzute la articolul 4 în cazul aromei „concentrat de aromă pentru grătar (vegetal)” nr. FL 21.002 (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1259",
+   "versions": [
+    {
+     "from": "2018-10-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f796fb14-bd6a-11e8-99ee-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "ec4bfd0b2cfa845856be6429790c1c5e54aa4387c7987b9600584bd9da220d89"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1308-2018",
+   "path": "ue/regulament/2018/1308",
+   "short": "Regulamentul (UE) 2018/1308",
+   "title": "Regulamentul (UE) 2018/1308 al Consiliului din 28 septembrie 2018 de modificare a Regulamentului (UE) 2018/120 în ceea ce privește posibilitățile de pescuit pentru bibanul-de-mare european",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1308",
+   "versions": [
+    {
+     "from": "2018-10-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/48c9d2bd-c30c-11e8-9424-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "5c3bd0d05059cd869cf8db7e1b581bb71d4b299ce80a1633190b7e5feab2eca7"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1461-2018",
    "path": "ue/regulament/2018/1461",
    "short": "Regulamentul (UE) 2018/1461",
@@ -464,6 +614,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/e882063c-c524-11e8-9424-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "88a6d89b43517c7992047ff008afe22b8049aa14f06ad829cac1cca1291efb72"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1462-2018",
+   "path": "ue/regulament/2018/1462",
+   "short": "Regulamentul (UE) 2018/1462",
+   "title": "Regulamentul (UE) 2018/1462 al Comisiei din 28 septembrie 2018 de modificare a anexei la Regulamentul (UE) nr. 231/2012 de stabilire a specificațiilor pentru aditivii alimentari enumerați în anexele II și III la Regulamentul (CE) nr. 1333/2008 al Parlamentului European și al Consiliului în ceea ce privește specificațiile pentru anumiți esteri de sorbitan (E 491 Monostearat de sorbitan, E 492 Tristearat de sorbitan și E 495 Monopalmitat de sorbitan) (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1462",
+   "versions": [
+    {
+     "from": "2018-10-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/aad217da-c524-11e8-9424-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "46db87761b9f19314f8cf02366d706e6ef4abbbe353994783e37ded04c89c75e"
     }
    ]
   },
@@ -498,6 +663,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1480-2018",
+   "path": "ue/regulament/2018/1480",
+   "short": "Regulamentul (UE) 2018/1480",
+   "title": "Regulamentul (UE) 2018/1480 al Comisiei din 4 octombrie 2018 de modificare, în vederea adaptării la progresul tehnic și științific, a Regulamentului (CE) nr. 1272/2008 al Parlamentului European și al Consiliului privind clasificarea, etichetarea și ambalarea substanțelor și a amestecurilor și de corectare a Regulamentului (UE) 2017/776 al Comisiei (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1480",
+   "versions": [
+    {
+     "from": "2018-10-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fe49a71c-c862-11e8-9424-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "973598cc67e61c7811a7dc3df80368011d7988b488f58af5e8a4b86e1faebeec"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1481-2018",
    "path": "ue/regulament/2018/1481",
    "short": "Regulamentul (UE) 2018/1481",
@@ -528,6 +708,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1497-2018",
+   "path": "ue/regulament/2018/1497",
+   "short": "Regulamentul (UE) 2018/1497",
+   "title": "Regulamentul (UE) 2018/1497 al Comisiei din 8 octombrie 2018 de modificare a anexei II la Regulamentul (CE) nr. 1333/2008 al Parlamentului European și al Consiliului în ceea ce privește categoria de produse alimentare 17 și utilizarea aditivilor alimentari în suplimentele alimentare (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1497",
+   "versions": [
+    {
+     "from": "2018-10-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/55ebd66c-cb88-11e8-9424-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "516bd152a80d0b0315ef7315da7be6adb9e14b2a5d0821411873b1a82a2544aa"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1504-2018",
    "path": "ue/regulament/2018/1504",
    "short": "Regulamentul (UE) 2018/1504",
@@ -539,6 +734,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/555b1c06-d052-11e8-9424-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "a0aa929fc8916ee2b66cd2821d2e464a3c50ff8cbcd3a913ecab52e3fcbdfd54"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1513-2018",
+   "path": "ue/regulament/2018/1513",
+   "short": "Regulamentul (UE) 2018/1513",
+   "title": "Regulamentul (UE) 2018/1513 al Comisiei din 10 octombrie 2018 de modificare a anexei XVII la Regulamentul (CE) nr. 1907/2006 al Parlamentului European și al Consiliului privind înregistrarea, evaluarea, autorizarea și restricționarea substanțelor chimice (REACH) cu privire la anumite substanțe clasificate drept cancerigene, mutagene sau toxice pentru reproducere (CMR) din categoriile 1A sau 1B (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1513",
+   "versions": [
+    {
+     "from": "2018-11-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b7900096-cde6-11e8-9424-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "e5407bf420597b9212939118d6a94efb4be96f9c66377f8e0b80e9632ff0b200"
     }
    ]
   },
@@ -558,6 +768,111 @@
    ]
   },
   {
+   "slug": "ue-regulament-1515-2018",
+   "path": "ue/regulament/2018/1515",
+   "short": "Regulamentul (UE) 2018/1515",
+   "title": "Regulamentul (UE) 2018/1515 al Comisiei din 10 octombrie 2018 de modificare a anexelor III și V la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime pentru reziduurile de difenilamină și oxadixil din sau de pe anumite produse (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1515",
+   "versions": [
+    {
+     "from": "2018-11-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9e396bcb-cde8-11e8-9424-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "0c7193c3e2039ff0d7413ad1a28d8c682b74e7dbfe9b0092b10863b65c13cf66"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1516-2018",
+   "path": "ue/regulament/2018/1516",
+   "short": "Regulamentul (UE) 2018/1516",
+   "title": "Regulamentul (UE) 2018/1516 al Comisiei din 10 octombrie 2018 de modificare a anexelor II și III la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime pentru reziduurile de penoxsulam, triflumizol și triflumuron din sau de pe anumite produse (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1516",
+   "versions": [
+    {
+     "from": "2018-11-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5e60666d-cde9-11e8-9424-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "637e982952355f27fe338372a17a74a813e95203a79e950afcd88b18de51a6c7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1541-2018",
+   "path": "ue/regulament/2018/1541",
+   "short": "Regulamentul (UE) 2018/1541",
+   "title": "Regulamentul (UE) 2018/1541 al Consiliului din 2 octombrie 2018 de modificare a Regulamentelor (UE) nr. 904/2010 și (UE) 2017/2454 în ceea ce privește măsurile de consolidare a cooperării administrative în domeniul taxei pe valoarea adăugată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1541",
+   "versions": [
+    {
+     "from": "2018-11-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/da7e79e9-d10a-11e8-9424-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "f3775c39de8077201c4dbcb0781f983b060dee6d05f6d1ae2e4c42c0b3ae90e7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1542-2018",
+   "path": "ue/regulament/2018/1542",
+   "short": "Regulamentul (UE) 2018/1542",
+   "title": "Regulamentul (UE) 2018/1542 din 15 octombrie 2018",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1542",
+   "versions": [
+    {
+     "from": "2018-10-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/32a21afc-d10b-11e8-9424-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "7275eccef99fb40590de7fe297c543fee2522de06e6e9615aec95beba26cb532"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1554-2018",
+   "path": "ue/regulament/2018/1554",
+   "short": "Regulamentul (UE) 2018/1554",
+   "title": "Regulamentul (UE) 2018/1554 al Consiliului din 15 octombrie 2018 de modificare a Regulamentului (UE) nr. 1370/2013 în ceea ce privește limita cantitativă pentru achiziționarea de lapte praf degresat",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1554",
+   "versions": [
+    {
+     "from": "2018-10-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b6c8bb6b-d2a7-11e8-9424-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "225c213f141eaf5128de19263a4a7cf71bd987bdeece840f403e843d163a1574"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1555-2018",
+   "path": "ue/regulament/2018/1555",
+   "short": "Regulamentul (UE) 2018/1555",
+   "title": "Regulamentul (UE) 2018/1555 al Comisiei din 17 octombrie 2018 de refuzare a autorizării anumitor mențiuni de sănătate înscrise pe produsele alimentare și care se referă la reducerea riscului de îmbolnăvire (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1555",
+   "versions": [
+    {
+     "from": "2018-11-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0759fbc0-d2a3-11e8-9424-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "e9677e92a968bc2223caf45a0c0ee9e5716b47b2542407496d69db0d74880ce7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1556-2018",
+   "path": "ue/regulament/2018/1556",
+   "short": "Regulamentul (UE) 2018/1556",
+   "title": "Regulamentul (UE) 2018/1556 al Comisiei din 17 octombrie 2018 de refuzare a autorizării anumitor mențiuni de sănătate înscrise pe produsele alimentare, altele decât cele care se referă la reducerea riscului de îmbolnăvire și la dezvoltarea și sănătatea copiilor (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1556",
+   "versions": [
+    {
+     "from": "2018-11-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f687bb02-d2a4-11e8-9424-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "87f741abf9b29af90bcb7f34f20672399973e7c7046d7c4590deccade112f6e7"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1628-2018",
    "path": "ue/regulament/2018/1628",
    "short": "Regulamentul (UE) 2018/1628",
@@ -573,6 +888,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-1649-2018",
+   "path": "ue/regulament/2018/1649",
+   "short": "Regulamentul (UE) 2018/1649",
+   "title": "Regulamentul (UE) 2018/1649 al Comisiei din 5 noiembrie 2018 de modificare a anexei I la Regulamentul (CE) nr. 1334/2008 al Parlamentului European și al Consiliului în ceea ce privește ștergerea de pe lista Uniunii a anumitor substanțe aromatizante (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1649",
+   "versions": [
+    {
+     "from": "2018-11-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/affbdbcb-e197-11e8-b690-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "56d5a905d55bfc2a88082b11afca9f7f2918ce93db3494a9837a0a9d9a74d45a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1671-2018",
+   "path": "ue/regulament/2018/1671",
+   "short": "Regulamentul (UE) 2018/1671",
+   "title": "Regulamentul (UE) 2018/1671 al Parlamentului European și al Consiliului din 23 octombrie 2018 de modificare a Regulamentului (UE) 2017/825 pentru a majora pachetul financiar aferent Programului de sprijin pentru reforme structurale și pentru a adapta obiectivul general al acestuia",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1671",
+   "versions": [
+    {
+     "from": "2018-11-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/26a3031c-e611-11e8-b690-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "ca6e086dc838d9e5d775743934da2ea9ab7d6a706e32e4ed8e6ac1f753e28d9d"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1672-2018",
    "path": "ue/regulament/2018/1672",
    "short": "Regulamentul (UE) 2018/1672",
@@ -584,6 +929,81 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/71d1af91-e611-11e8-b690-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "ece16b43d21115fb0844d6b30b51685367cd3335c1508c94b7ee89497eda3c17"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1717-2018",
+   "path": "ue/regulament/2018/1717",
+   "short": "Regulamentul (UE) 2018/1717",
+   "title": "Regulamentul (UE) 2018/1717 al Parlamentului European și al Consiliului din 14 noiembrie 2018 de modificare a Regulamentului (UE) nr. 1093/2010 în ceea ce privește stabilirea sediului Autorității Bancare Europene (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1717",
+   "versions": [
+    {
+     "from": "2018-11-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f863cc59-e92d-11e8-b690-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "e3830d96425266ff56f67c9fccc167ab25cb0b22b579e684e699a88bedf3a01a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1718-2018",
+   "path": "ue/regulament/2018/1718",
+   "short": "Regulamentul (UE) 2018/1718",
+   "title": "Regulamentul (UE) 2018/1718 al Parlamentului European și al Consiliului din 14 noiembrie 2018 de modificare a Regulamentului (CE) nr. 726/2004 în ceea ce privește stabilirea sediului Agenției Europene pentru Medicamente (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1718",
+   "versions": [
+    {
+     "from": "2018-11-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4b20fb2e-e92e-11e8-b690-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "ddb811f314e2fe71930e2d3c751478650d3d06b7b00f8cd54e5dbed300879171"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1719-2018",
+   "path": "ue/regulament/2018/1719",
+   "short": "Regulamentul (UE) 2018/1719",
+   "title": "Regulamentul (UE) 2018/1719 al Parlamentului European și al Consiliului din 14 noiembrie 2018 de modificare a Regulamentului (UE) nr. 1303/2013 în ceea ce privește resursele pentru coeziunea economică, socială și teritorială și resursele pentru obiectivul de investiții pentru creștere economică și ocuparea forței de muncă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1719",
+   "versions": [
+    {
+     "from": "2018-11-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2621d9cb-e92e-11e8-b690-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "ac9ac58ba6a6bdf6106c0a3ffc0a84ffb1263eeb4ef861402d84fd76afbc019c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1724-2018",
+   "path": "ue/regulament/2018/1724",
+   "short": "Regulamentul (UE) 2018/1724",
+   "title": "Regulamentul (UE) 2018/1724 al Parlamentului European și al Consiliului din 2 octombrie 2018 privind înființarea unui portal digital unic (gateway) pentru a oferi acces la informații, la proceduri și la servicii de asistență și de soluționare a problemelor și de modificare a Regulamentului (UE) nr. 1024/2012 (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1724",
+   "versions": [
+    {
+     "from": "2018-12-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/796b405c-ed62-11e8-b690-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "5c688c5a515e1bb79bac3b233661062d18839ad8bd6fbf4ab082d66cefd3fcb7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1725-2018",
+   "path": "ue/regulament/2018/1725",
+   "short": "Regulamentul (UE) 2018/1725",
+   "title": "Regulamentul (UE) 2018/1725 al Parlamentului European și al Consiliului din 23 octombrie 2018 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal de către instituțiile, organele, oficiile și agențiile Uniunii și privind libera circulație a acestor date și de abrogare a Regulamentului (CE) nr. 45/2001 și a Deciziei nr. 1247/2002/CE (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1725",
+   "versions": [
+    {
+     "from": "2018-12-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/999029ee-ed62-11e8-b690-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "8a28d8ef8e1664c9aef6f3c7eca2b271ff07ed9e5d9586bf78a1cfc6261becc0"
     }
    ]
   },
@@ -618,6 +1038,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-174-2018",
+   "path": "ue/regulament/2018/174",
+   "short": "Regulamentul (UE) 2018/174",
+   "title": "Regulamentul (UE) 2018/174 al Comisiei din 2 februarie 2018 de punere în aplicare a Regulamentului (CE) nr. 1177/2003 al Parlamentului European și al Consiliului privind statisticile comunitare referitoare la venit și la condițiile de viață (EU-SILC) în ceea ce privește lista cu variabilele țintă secundare referitoare la transmiterea între generații a dezavantajelor, componența gospodăriei și evoluția veniturilor pentru 2019 (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0174",
+   "versions": [
+    {
+     "from": "2018-02-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5aae2c22-0b16-11e8-966a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "721d1db0252997b1d84e2c11bcf7eb57773637af99d9e67c893b9dc1ac4edd10"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1793-2018",
+   "path": "ue/regulament/2018/1793",
+   "short": "Regulamentul (UE) 2018/1793",
+   "title": "Regulamentul (UE) 2018/1793 al Comisiei din 20 noiembrie 2018 de aprobare a unei modificări aduse dosarului tehnic al unei indicații geografice a unei băuturi spirtoase înregistrate în anexa III la Regulamentul (CE) nr. 110/2008, care a condus la modificarea specificațiilor sale de bază [„Ron de Guatemala” (IG)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1793",
+   "versions": [
+    {
+     "from": "2018-12-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b48827cf-ed62-11e8-b690-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "aff978af35d6ecb729e923f7d60e475220c96c0fe5932a153aad3b6e0936ce1d"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1798-2018",
    "path": "ue/regulament/2018/1798",
    "short": "Regulamentul (UE) 2018/1798",
@@ -629,6 +1079,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/fbad1b2a-ee20-11e8-b690-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "b5ddd359591f9f2623af492dd9b9f586859026e302df1792c0f01f9551b31e48"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1805-2018",
+   "path": "ue/regulament/2018/1805",
+   "short": "Regulamentul (UE) 2018/1805",
+   "title": "Regulamentul (UE) 2018/1805 al Parlamentului European și al Consiliului din 14 noiembrie 2018 privind recunoașterea reciprocă a ordinelor de indisponibilizare și de confiscare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1805",
+   "versions": [
+    {
+     "from": "2018-12-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/83e4752e-f2e5-11e8-9982-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "beb3495406fbf534116dc7d012ae8554aaaa7e2eab82cafd046b8fc60cc4acc7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1806-2018",
+   "path": "ue/regulament/2018/1806",
+   "short": "Regulamentul (UE) 2018/1806",
+   "title": "Regulamentul (UE) 2018/1806 al Parlamentului European și al Consiliului din 14 noiembrie 2018 de stabilire a listei țărilor terțe ai căror resortisanți trebuie să dețină viză pentru trecerea frontierelor externe și a listei țărilor terțe ai căror resortisanți sunt exonerați de această obligație (text codificat)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1806",
+   "versions": [
+    {
+     "from": "2018-12-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a0500041-f2e5-11e8-9982-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "50631bb582a7aeb479062ef29fec6cd51b326cb8be3e6d56bb5d8f877b42465e"
     }
    ]
   },
@@ -663,6 +1143,96 @@
    ]
   },
   {
+   "slug": "ue-regulament-1845-2018",
+   "path": "ue/regulament/2018/1845",
+   "short": "Regulamentul (UE) 2018/1845",
+   "title": "Regulamentul (UE) 2018/1845 al Băncii Centrale Europene din 21 noiembrie 2018 privind exercitarea marjei de apreciere în temeiul articolului 178 alineatul (2) litera (d) din Regulamentul (UE) nr. 575/2013 în legătură cu pragul pentru evaluarea caracterului semnificativ al obligațiilor din credite restante (BCE/2018/26)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1845",
+   "versions": [
+    {
+     "from": "2018-12-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3e0a53d8-f14d-11e8-9982-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "b282c13485898dcd275e7136e90957283c3cfcc52d687abf72786f6771887d3c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1847-2018",
+   "path": "ue/regulament/2018/1847",
+   "short": "Regulamentul (UE) 2018/1847",
+   "title": "Regulamentul (UE) 2018/1847 al Comisiei din 26 noiembrie 2018 de modificare a anexei V la Regulamentul (CE) nr. 1223/2009 al Parlamentului European și al Consiliului privind produsele cosmetice (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1847",
+   "versions": [
+    {
+     "from": "2018-12-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e0b79b53-f21e-11e8-9982-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "4fe2edd8d29268ed910458c1c077ea2cb05770cf12580ffe3862601c4322cfde"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1860-2018",
+   "path": "ue/regulament/2018/1860",
+   "short": "Regulamentul (UE) 2018/1860",
+   "title": "Regulamentul (UE) 2018/1860 al Parlamentului European și al Consiliului din 28 noiembrie 2018 privind utilizarea Sistemului de informații Schengen pentru returnarea resortisanților țărilor terțe aflați în situație de ședere ilegală",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1860",
+   "versions": [
+    {
+     "from": "2018-12-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/afc82ea1-f9ec-11e8-a96d-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "6600ed2d24eab45bf63afff5b338414c1c634b858b01b0897a3af179b3e347ef"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1861-2018",
+   "path": "ue/regulament/2018/1861",
+   "short": "Regulamentul (UE) 2018/1861",
+   "title": "Regulamentul (UE) 2018/1861 al Parlamentului European și al Consiliului din 28 noiembrie 2018 privind instituirea, funcționarea și utilizarea Sistemului de informații Schengen (SIS) în domeniul verificărilor la frontiere, de modificare a Convenției de punere în aplicare a Acordului Schengen și de modificare și abrogare a Regulamentului (CE) nr. 1987/2006",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1861",
+   "versions": [
+    {
+     "from": "2018-12-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e4787e73-f9ec-11e8-a96d-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "b03fcc88a25ed1ccbab115c7aacc40b1b883eb2193951afba92ba69e11943401"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1862-2018",
+   "path": "ue/regulament/2018/1862",
+   "short": "Regulamentul (UE) 2018/1862",
+   "title": "Regulamentul (UE) 2018/1862 al Parlamentului European și al Consiliului din 28 noiembrie 2018 privind instituirea, funcționarea și utilizarea Sistemului de informații Schengen (SIS) în domeniul cooperării polițienești și al cooperării judiciare în materie penală, de modificare și de abrogare a Deciziei 2007/533/JAI a Consiliului și de abrogare a Regulamentului (CE) nr. 1986/2006 al Parlamentului European și al Consiliului și a Deciziei 2010/261/UE a Comisiei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1862",
+   "versions": [
+    {
+     "from": "2018-12-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/75ca2f4f-f9ed-11e8-a96d-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "4f706832eb99ae8c75416b136f81a10efead0bfd454026348e88e0b5aa93931b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1877-2018",
+   "path": "ue/regulament/2018/1877",
+   "short": "Regulamentul (UE) 2018/1877",
+   "title": "Regulamentul (UE) 2018/1877 al Consiliului din 26 noiembrie 2018 privind regulamentul financiar aplicabil celui de al 11-lea Fond european de dezvoltare și de abrogare a Regulamentului (UE) 2015/323",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1877",
+   "versions": [
+    {
+     "from": "2018-12-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/945c298e-f6c8-11e8-9982-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "6c18995f9028dbc58d25bc635f0376689b38309394c0fc7ad7404feea70b0f22"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1881-2018",
    "path": "ue/regulament/2018/1881",
    "short": "Regulamentul (UE) 2018/1881",
@@ -674,6 +1244,81 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/fedad42b-f792-11e8-9982-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "c657a0902ce5bc37e86336de61fca31de5d2d5954bb6562122d3fef70f4d993f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1903-2018",
+   "path": "ue/regulament/2018/1903",
+   "short": "Regulamentul (UE) 2018/1903",
+   "title": "Regulamentul (UE) 2018/1903 al Comisiei din 5 decembrie 2018 de rectificare a anexelor IV, VI și VII la Regulamentul (CE) nr. 767/2009 al Parlamentului European și al Consiliului privind introducerea pe piață și utilizarea furajelor și de rectificare a anumitor versiuni lingvistice ale anexelor II, IV, V și VI la respectivul regulament (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1903",
+   "versions": [
+    {
+     "from": "2018-12-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a65d83ab-f926-11e8-8885-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "de851bb77f688cb6dd6478be89fb50997baa1cddec4178f1b38b01769a6a3ee7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1909-2018",
+   "path": "ue/regulament/2018/1909",
+   "short": "Regulamentul (UE) 2018/1909",
+   "title": "Regulamentul (UE) 2018/1909 al Consiliului din 4 decembrie 2018 de modificare a Regulamentului (UE) nr. 904/2010 în ceea ce privește schimbul de informații în scopul monitorizării aplicării corecte a regimului de stocuri la dispoziția clientului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1909",
+   "versions": [
+    {
+     "from": "2018-12-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/469a4cf3-f9ee-11e8-a96d-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "5b80dd4e52dbec1ca31e6ef4bf8e93d3bcea35e9286181f8c638534bb7250096"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1911-2018",
+   "path": "ue/regulament/2018/1911",
+   "short": "Regulamentul (UE) 2018/1911",
+   "title": "Regulamentul (UE) 2018/1911 al Consiliului din 26 noiembrie 2018 de modificare a Regulamentului (UE) 2015/1588 privind aplicarea articolelor 107 și 108 din Tratatul privind funcționarea Uniunii Europene anumitor categorii de ajutoare de stat orizontale (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1911",
+   "versions": [
+    {
+     "from": "2018-12-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/697671dc-f9ef-11e8-a96d-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "c738340bc02d250915ba6fb8f6fd4f993c773120a83c09f019ca84c6b74f4bfc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1923-2018",
+   "path": "ue/regulament/2018/1923",
+   "short": "Regulamentul (UE) 2018/1923",
+   "title": "Regulamentul (UE) 2018/1923 al Comisiei din 7 decembrie 2018 de modificare a Regulamentului (UE) nr. 360/2012 în ceea ce privește perioada de aplicare a acestuia (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1923",
+   "versions": [
+    {
+     "from": "2018-12-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b227d98b-fc1c-11e8-a96d-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "ddcc9b5e25153598736ae52f32cb6e6b13fa51c406f0d5d10f3669e64ecb3bcc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1933-2018",
+   "path": "ue/regulament/2018/1933",
+   "short": "Regulamentul (UE) 2018/1933",
+   "title": "Regulamentul (UE) 2018/1933 al Consiliului din 10 decembrie 2018 de modificare a Regulamentului (UE) nr. 356/2010 de impunere a anumitor măsuri restrictive specifice îndreptate împotriva unor persoane fizice sau juridice, entități sau organisme, având în vedere situația din Somalia",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R1933",
+   "versions": [
+    {
+     "from": "2018-12-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ddf64f5d-fce4-11e8-a96d-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "1631e69defd53a2b456844181c61395d642bb703b0c71336b57928898a77d2b4"
     }
    ]
   },
@@ -708,6 +1353,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-199-2018",
+   "path": "ue/regulament/2018/199",
+   "short": "Regulamentul (UE) 2018/199",
+   "title": "Regulamentul (UE) 2018/199 al Comisiei din 9 februarie 2018 de refuzare a autorizării unei mențiuni de sănătate înscrise pe produsele alimentare, alta decât cele care se referă la reducerea riscului de îmbolnăvire și la dezvoltarea și sănătatea copiilor (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0199",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f1d5e058-0dfe-11e8-966a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "c9f8392347b77be3055b58cc2ce895a165d0848abedc5b50c05e87279b4676f9"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1999-2018",
    "path": "ue/regulament/2018/1999",
    "short": "Regulamentul (UE) 2018/1999",
@@ -738,6 +1398,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-2004-2018",
+   "path": "ue/regulament/2018/2004",
+   "short": "Regulamentul (UE) 2018/2004",
+   "title": "Regulamentul (UE) 2018/2004 al Consiliului din 17 decembrie 2018 de modificare a Regulamentului (UE) 2016/44 privind măsuri restrictive având în vedere situația din Libia",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R2004",
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d5f0bc2e-029f-11e9-adde-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "c69192bb8d8df8b950ae2709c52b1a89d300e5c9d20a639e2632c97fd1abcb60"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2005-2018",
+   "path": "ue/regulament/2018/2005",
+   "short": "Regulamentul (UE) 2018/2005",
+   "title": "Regulamentul (UE) 2018/2005 al Comisiei din 17 decembrie 2018 de modificare a anexei XVII la Regulamentul (CE) nr. 1907/2006 al Parlamentului European și al Consiliului privind înregistrarea, evaluarea, autorizarea și restricționarea substanțelor chimice (REACH), în ceea ce privește ftalatul de bis(2-etilhexil) (DEHP), ftalatul de dibutil (DBP), ftalatul de butil și de benzil (BBP) și ftalatul de diizobutil (DIBP) (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R2005",
+   "versions": [
+    {
+     "from": "2019-01-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f1630f96-029e-11e9-adde-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "4b2c9b9b32948cf2c8ea3295ccaca78e6c0bc3d88e42411990986d632de9ecb4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2025-2018",
+   "path": "ue/regulament/2018/2025",
+   "short": "Regulamentul (UE) 2018/2025",
+   "title": "Regulamentul (UE) 2018/2025 al Consiliului din 17 decembrie 2018 de stabilire, pentru anii 2019 și 2020, a posibilităților de pescuit pentru navele Uniunii în ceea ce privește anumite stocuri de pești de adâncime",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R2025",
+   "versions": [
+    {
+     "from": "2018-12-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b80ed927-0431-11e9-adde-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "a4d15a9d9db61e776e4b186b70cb8d14643ee0a038d4e9660c9951b157d08119"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2026-2018",
    "path": "ue/regulament/2018/2026",
    "short": "Regulamentul (UE) 2018/2026",
@@ -749,6 +1454,51 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/82552507-0430-11e9-adde-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "42de788c4dd5ace04cc0de2d1d7649a0e69e33e3a75aef2c196de8ba54735b8c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2056-2018",
+   "path": "ue/regulament/2018/2056",
+   "short": "Regulamentul (UE) 2018/2056",
+   "title": "Regulamentul (UE) 2018/2056 al Consiliului din 6 decembrie 2018 de modificare a Regulamentului (UE) nr. 216/2013 privind publicarea electronică a Jurnalului Oficial al Uniunii Europene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R2056",
+   "versions": [
+    {
+     "from": "2019-01-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a2a0ff72-09a3-11e9-81b4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "6dc28c136b547e6a6216a59229e8a6d40c6f35a104c3d878b5cc2ccff9cd67d9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2058-2018",
+   "path": "ue/regulament/2018/2058",
+   "short": "Regulamentul (UE) 2018/2058",
+   "title": "Regulamentul (UE) 2018/2058 al Consiliului din 17 decembrie 2018 de stabilire, pentru 2019, a posibilităților de pescuit pentru anumite stocuri de pește și grupuri de stocuri de pește din Marea Neagră",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R2058",
+   "versions": [
+    {
+     "from": "2018-12-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b3cd78a6-09a2-11e9-81b4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "9bd08c8712d9bdd11963bb3fa639f99c2c1304b2d735392769a620f2f0b0c69c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-208-2018",
+   "path": "ue/regulament/2018/208",
+   "short": "Regulamentul (UE) 2018/208",
+   "title": "Regulamentul (UE) 2018/208 al Comisiei din 12 februarie 2018 de modificare a Regulamentului (UE) nr. 389/2013 de creare a registrului Uniunii (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0208",
+   "versions": [
+    {
+     "from": "2018-02-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7d658fa0-1086-11e8-9253-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "5e37842487d7b490aba73c10002cbdd4dda91d43be7794ca799a54e2fb55c118"
     }
    ]
   },
@@ -768,6 +1518,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-231-2018",
+   "path": "ue/regulament/2018/231",
+   "short": "Regulamentul (UE) 2018/231",
+   "title": "Regulamentul (UE) 2018/231 al Băncii Centrale Europene din 26 ianuarie 2018 privind cerințele de raportare de statistică pentru fondurile de pensii (BCE/2018/2)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0231",
+   "versions": [
+    {
+     "from": "2018-03-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/32ba59f9-13b2-11e8-9253-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "afc612399238b967b8ef1d360f97888ea405c03673ff0c93121b140c84f80805"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-255-2018",
    "path": "ue/regulament/2018/255",
    "short": "Regulamentul (UE) 2018/255",
@@ -779,6 +1544,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/d5ad4587-1699-11e8-9253-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "5a1d24e63bfed05377a746ba23a24f84d3746c8685ec153ce529f15ad4fe842e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-264-2018",
+   "path": "ue/regulament/2018/264",
+   "short": "Regulamentul (UE) 2018/264",
+   "title": "Regulamentul (UE) 2018/264 al Consilului din 19 februarie 2018 de stabilire a cotizațiilor la producție și a coeficientului pentru calculul cotizației suplimentare în sectorul zahărului pentru anul de comercializare 1999/2000 și de stabilire a cotizațiilor la producție în sectorul zahărului pentru anul de comercializare 2000/2001",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0264",
+   "versions": [
+    {
+     "from": "2018-02-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/71d5385c-1871-11e8-ac73-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "bc7d979c2bdf3d5d2a1565da6e37cb0fd3ab1615dc043f4f0f6a044d8e4e7379"
     }
    ]
   },
@@ -798,6 +1578,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-285-2018",
+   "path": "ue/regulament/2018/285",
+   "short": "Regulamentul (UE) 2018/285",
+   "title": "Regulamentul (UE) 2018/285 din 26 februarie 2018",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0285",
+   "versions": [
+    {
+     "from": "2018-02-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fc0efc94-1b89-11e8-ac73-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "24c48fa1ca32eaadd83a2163e62030b9a9825012ac1cf5d945ac94de1cb9e8c5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-302-2018",
+   "path": "ue/regulament/2018/302",
+   "short": "Regulamentul (UE) 2018/302",
+   "title": "Regulamentul (UE) 2018/302 al Parlamentului European și al Consiliului din 28 februarie 2018 privind prevenirea geoblocării nejustificate și a altor forme de discriminare bazate pe cetățenia sau naționalitatea, domiciliul sau sediul clienților pe piața internă și de modificare a Regulamentelor (CE) nr. 2006/2004 și (UE) 2017/2394, precum și a Directivei 2009/22/CE (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0302",
+   "versions": [
+    {
+     "from": "2018-03-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/058372dc-1def-11e8-ac73-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "1a8b5eb29157312567292de49ee0e556dc30129efb245e262bc280ad3d438c75"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-318-2018",
+   "path": "ue/regulament/2018/318",
+   "short": "Regulamentul (UE) 2018/318",
+   "title": "Regulamentul (UE) 2018/318 al Băncii Centrale Europene din 22 februarie 2018 de modificare a Regulamentului (UE) nr. 1011/2012 privind statisticile referitoare la deținerile de titluri de valoare (BCE/2018/7)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0318",
+   "versions": [
+    {
+     "from": "2018-10-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/56134b94-2044-11e8-ac73-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "ac34ceccba0a0a28d3ad1eed9dbef84696da60fccea6e59e15868c29eccf0158"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-336-2018",
    "path": "ue/regulament/2018/336",
    "short": "Regulamentul (UE) 2018/336",
@@ -809,6 +1634,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/370a78be-268c-11e8-ac73-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "5eaed008e7c539a11f908e56eb64f14676dcdb6f69bb54894147df95e814842b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-35-2018",
+   "path": "ue/regulament/2018/35",
+   "short": "Regulamentul (UE) 2018/35",
+   "title": "Regulamentul (UE) 2018/35 al Comisiei din 10 ianuarie 2018 de modificare a anexei XVII la Regulamentul (CE) nr. 1907/2006 al Parlamentului European și al Consiliului privind înregistrarea, evaluarea, autorizarea și restricționarea substanțelor chimice (REACH), în ceea ce privește substanțele octametilciclotetrasiloxan (D4) și decametilciclopentasiloxan (D5) (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0035",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/db103079-f6a4-11e7-b8f5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "fdb6a395643caa9d4cb4220b8f8e4f233425e125742620391fbc08f401d587f6"
     }
    ]
   },
@@ -839,6 +1679,81 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/b17bc4b0-2752-11e8-ac73-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "d30ed8d0eee68016e6b5ef63decd33c15aed351a4c274dcb1c4fbb5b98ed7142"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-395-2018",
+   "path": "ue/regulament/2018/395",
+   "short": "Regulamentul (UE) 2018/395",
+   "title": "Regulamentul (UE) 2018/395 al Comisiei din 13 martie 2018 de stabilire a normelor detaliate pentru operarea baloanelor în temeiul Regulamentului (CE) nr. 216/2008 al Parlamentului European și al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0395",
+   "versions": [
+    {
+     "from": "2018-04-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7c3f9329-2753-11e8-ac73-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "494a8207a8931569c670610ff811a92084fca2acdb3ac05a42fffd8b3198ec33"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-401-2018",
+   "path": "ue/regulament/2018/401",
+   "short": "Regulamentul (UE) 2018/401",
+   "title": "Regulamentul (UE) 2018/401 al Comisiei din 14 martie 2018 de modificare a Regulamentului (UE) nr. 139/2014 în ceea ce privește clasificarea pistelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0401",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/372b9e4e-2820-11e8-ac73-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "112dbe1757a41d3f86d5f0194cf1768ac4c81a17cf81f59e62b4aaff481b358d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-455-2018",
+   "path": "ue/regulament/2018/455",
+   "short": "Regulamentul (UE) 2018/455",
+   "title": "Regulamentul (UE) 2018/455 al Comisiei din 16 martie 2018 de stabilire a responsabilităților și sarcinilor suplimentare atribuite laboratorului de referință al Uniunii Europene pentru boli ale peștilor și ale crustaceelor și de modificare a anexei VII la Regulamentul (CE) nr. 882/2004 al Parlamentului European și al Consiliului (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0455",
+   "versions": [
+    {
+     "from": "2018-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e7ddc978-2c14-11e8-b5fe-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "86cde884227327e3e33e9ea3ab560206cf966c0630c8f406da3a73723a4d4b7d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-511-2018",
+   "path": "ue/regulament/2018/511",
+   "short": "Regulamentul (UE) 2018/511",
+   "title": "Regulamentul (UE) 2018/511 al Consiliului din 23 martie 2018 de modificare a Regulamentului (UE) 2018/120 în ceea ce privește anumite posibilități de pescuit",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0511",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cb9aaa41-3255-11e8-b5fe-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "63f1eb1cf411028659f3174c56cad349aba2a1168892c45073d7a8e8a027fdf5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-581-2018",
+   "path": "ue/regulament/2018/581",
+   "short": "Regulamentul (UE) 2018/581",
+   "title": "Regulamentul (UE) 2018/581 al Consiliului din 16 aprilie 2018 de suspendare temporară a taxelor vamale autonome prevăzute de Tariful vamal comun pentru anumite mărfuri de tipul celor care urmează a fi încorporate în aeronave sau utilizate pentru aeronave și de abrogare a Regulamentului (CE) nr. 1147/2002",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0581",
+   "versions": [
+    {
+     "from": "2018-04-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3b098384-42d0-11e8-b5fe-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "70e5d38552cc32fbbecfcd73ea9aeb71b36b0138ee986cb7a019dda34a3d2939"
     }
    ]
   },
@@ -918,6 +1833,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-643-2018",
+   "path": "ue/regulament/2018/643",
+   "short": "Regulamentul (UE) 2018/643",
+   "title": "Regulamentul (UE) 2018/643 al Parlamentului European și al Consiliului din 18 aprilie 2018 privind statisticile din transportul feroviar (reformare)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0643",
+   "versions": [
+    {
+     "from": "2018-05-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/845ca6f9-4dd4-11e8-be1d-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "54f6faa369ba1c7ded646079ea2053b3654c818574d830638cc865ee1778087c"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-644-2018",
    "path": "ue/regulament/2018/644",
    "short": "Regulamentul (UE) 2018/644",
@@ -929,6 +1859,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/449aa176-4dd4-11e8-be1d-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "a7131f743f1ab90dcafdf01f0d1a04bcbfde7ef88af0c8bbc482b3f25546da3f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-647-2018",
+   "path": "ue/regulament/2018/647",
+   "short": "Regulamentul (UE) 2018/647",
+   "title": "Regulamentul (UE) 2018/647 din 26 aprilie 2018",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0647",
+   "versions": [
+    {
+     "from": "2018-04-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/41c96882-49ef-11e8-be1d-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "bcac67064e70a328a92da19228db1f5d0ee353a0753679d999a2a14e30ef5f70"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-669-2018",
+   "path": "ue/regulament/2018/669",
+   "short": "Regulamentul (UE) 2018/669",
+   "title": "Regulamentul (UE) 2018/669 al Comisiei din 16 aprilie 2018 de modificare, în vederea adaptării la progresul tehnic și științific, a Regulamentului (CE) nr. 1272/2008 al Parlamentului European și al Consiliului privind clasificarea, etichetarea și ambalarea substanțelor și a amestecurilorText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0669",
+   "versions": [
+    {
+     "from": "2018-05-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7243e2bd-4f66-11e8-be1d-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "f8429b35cf8c5d368a4277091f03659bb5f5595a2595631fa0c1539d5be8a717"
     }
    ]
   },
@@ -948,6 +1908,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-676-2018",
+   "path": "ue/regulament/2018/676",
+   "short": "Regulamentul (UE) 2018/676",
+   "title": "Regulamentul (UE) 2018/676 al Comisiei din 3 mai 2018 de rectificare a Regulamentului (UE) nr. 546/2011 al Comisiei de punere în aplicare a Regulamentului (CE) nr. 1107/2009 al Parlamentului European și al Consiliului în ceea ce privește principiile uniforme de evaluare și autorizare a produselor de protecție a plantelor (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0676",
+   "versions": [
+    {
+     "from": "2018-05-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f61cbe57-4f65-11e8-be1d-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "418e72c924929be9393cd1f880577a112e76ac394de8364395cf2d96facd01cb"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-677-2018",
    "path": "ue/regulament/2018/677",
    "short": "Regulamentul (UE) 2018/677",
@@ -959,6 +1934,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/c3b7a1a1-4f66-11e8-be1d-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "be2a7f0658716973ffe40f5e8260a5b16aafa46d622406b2dd9cbdb3b1c403a8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-678-2018",
+   "path": "ue/regulament/2018/678",
+   "short": "Regulamentul (UE) 2018/678",
+   "title": "Regulamentul (UE) 2018/678 al Comisiei din 3 mai 2018 de modificare și rectificare a anexei I la Regulamentul (CE) nr. 1334/2008 al Parlamentului European și al Consiliului în ceea ce privește anumite substanțe aromatizante (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0678",
+   "versions": [
+    {
+     "from": "2018-05-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/528af6cf-4f65-11e8-be1d-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "9a2a808d5c689979341054db5aa9363ba15824fbe692c82b9092edddca280473"
     }
    ]
   },
@@ -978,6 +1968,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-682-2018",
+   "path": "ue/regulament/2018/682",
+   "short": "Regulamentul (UE) 2018/682",
+   "title": "Regulamentul (UE) 2018/682 al Comisiei din 4 mai 2018 de modificare a anexei II la Regulamentul (CE) nr. 1333/2008 al Parlamentului European și al Consiliului în ceea ce privește utilizarea poliricinoleatului de poliglicerină (E 476) în sosuri emulsionate (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0682",
+   "versions": [
+    {
+     "from": "2018-05-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/64bf2378-517d-11e8-be1d-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "d2670f20c7842ce24756d249be1d3b7aee393bda6d1c231a0ea47b0720da896b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-683-2018",
+   "path": "ue/regulament/2018/683",
+   "short": "Regulamentul (UE) 2018/683",
+   "title": "Regulamentul (UE) 2018/683 al Comisiei din 4 mai 2018 de instituire a unei taxe antidumping provizorii la importurile de anumite tipuri de anvelope pneumatice, noi sau reșapate, din cauciuc, de tipul celor utilizate pentru autobuze sau camioane, cu un indice de sarcină de peste 121, originare din Republica Populară Chineză, și de modificare a Regulamentului de punere în aplicare (UE) 2018/163",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0683",
+   "versions": [
+    {
+     "from": "2018-05-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d9e99aa1-517c-11e8-be1d-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "f17792fc6268b391de18a79fc7eb25ff0958b1959904dcf185d325b6c7d495da"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-685-2018",
+   "path": "ue/regulament/2018/685",
+   "short": "Regulamentul (UE) 2018/685",
+   "title": "Regulamentul (UE) 2018/685 al Comisiei din 3 mai 2018 de modificare a anexelor II, III și IV la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime pentru reziduurile de abamectin, bere, fluopiram, fluxapiroxad, hidrazidă maleică, pudră din semințe de muștar și teflutrin din sau de pe anumite produse (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0685",
+   "versions": [
+    {
+     "from": "2018-06-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c424ad91-58d0-11e8-ab41-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "18a920aa373b9451eecdc347047ecc023dcc49b20fa651c1d3a00f6f230f36e0"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-686-2018",
    "path": "ue/regulament/2018/686",
    "short": "Regulamentul (UE) 2018/686",
@@ -989,6 +2024,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/c26fb52a-58d1-11e8-ab41-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "833efed5a8132d2d569efb08e7b050dd84fa4a30fb3d3f1acf9952db7b2cc099"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-687-2018",
+   "path": "ue/regulament/2018/687",
+   "short": "Regulamentul (UE) 2018/687",
+   "title": "Regulamentul (UE) 2018/687 al Comisiei din 4 mai 2018 de modificare a anexelor II și III la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime ale reziduurilor de acibenzolar-S-metil, benzovindiflupir, bifentrin, bixafen, clorantraniliprol, deltametrin, flonicamid, fluazifop-P, izofetamid, metrafenonă, pendimetalin și teflubenzuron din sau de pe anumite produse (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0687",
+   "versions": [
+    {
+     "from": "2018-06-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7578cbd6-58d1-11e8-ab41-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "447b22b82913b160290e7dabe8c0bb2d5e7e0d4c83d1b6b70124c870127c7af3"
     }
    ]
   },
@@ -1008,6 +2058,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-73-2018",
+   "path": "ue/regulament/2018/73",
+   "short": "Regulamentul (UE) 2018/73",
+   "title": "Regulamentul (UE) 2018/73 al Comisiei din 16 ianuarie 2018 de modificare a anexelor II și III la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime de reziduuri aplicabile compușilor de mercur din sau de pe anumite produse (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0073",
+   "versions": [
+    {
+     "from": "2018-02-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/546c7502-fbf6-11e7-b8f5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "14569ca28c3de9ca0b5759687069f2df271af2f72bbaf2e024b308bed9f517f4"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-74-2018",
    "path": "ue/regulament/2018/74",
    "short": "Regulamentul (UE) 2018/74",
@@ -1019,6 +2084,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/9e092c32-fbf5-11e7-b8f5-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "45b54a80f7bd3f954e9934768b3dddcab3cdb3114c982a36866752572a54910f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-75-2018",
+   "path": "ue/regulament/2018/75",
+   "short": "Regulamentul (UE) 2018/75",
+   "title": "Regulamentul (UE) 2018/75 al Comisiei din 17 ianuarie 2018 de modificare a anexei la Regulamentul (UE) nr. 231/2012 de stabilire a specificațiilor pentru aditivii alimentari enumerați în anexele II și III la Regulamentul (CE) nr. 1333/2008 al Parlamentului European și al Consiliului în ceea ce privește specificațiile pentru celuloza microcristalină [E460(i)] (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0075",
+   "versions": [
+    {
+     "from": "2018-02-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2f52c6be-fbf6-11e7-b8f5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "7c7ff03e92cb5e6bd7ee7fe634e1b73bcce67dcff3a80b30244a8c4eb668d3c5"
     }
    ]
   },
@@ -1053,6 +2133,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-781-2018",
+   "path": "ue/regulament/2018/781",
+   "short": "Regulamentul (UE) 2018/781",
+   "title": "Regulamentul (UE) 2018/781 al Comisiei din 29 mai 2018 de modificare a Regulamentului (CE) nr. 847/2000 în ceea ce privește definiția conceptului de „medicament similar” (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0781",
+   "versions": [
+    {
+     "from": "2018-06-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7f4d34f8-63ca-11e8-ab9c-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "d6d3e9f5187099e2c97ff62c6bdd87f846200cdd4cc1d37ed7fc2ff6c6ca9fe6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-782-2018",
+   "path": "ue/regulament/2018/782",
+   "short": "Regulamentul (UE) 2018/782",
+   "title": "Regulamentul (UE) 2018/782 al Comisiei din 29 mai 2018 de stabilire a principiilor metodologice pentru evaluarea riscurilor și pentru recomandările de gestionare a riscurilor menționate în Regulamentul (CE) nr. 470/2009 (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0782",
+   "versions": [
+    {
+     "from": "2018-06-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e5c114f0-63ca-11e8-ab9c-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "5ea1ca227bc3ed51c84c3d309178c1d27b7feda5db0365db65e6e4d73f9e3b89"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-79-2018",
    "path": "ue/regulament/2018/79",
    "short": "Regulamentul (UE) 2018/79",
@@ -1064,6 +2174,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/b4ce9819-fcce-11e7-b8f5-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "97b4104321b191403d88956e7200708f53be9c62ee2687b857d995877df2f343"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-825-2018",
+   "path": "ue/regulament/2018/825",
+   "short": "Regulamentul (UE) 2018/825",
+   "title": "Regulamentul (UE) 2018/825 al Parlamentului European și al Consiliului din 30 mai 2018 de modificare a Regulamentului (UE) 2016/1036 privind protecția împotriva importurilor care fac obiectul unui dumping din partea țărilor care nu sunt membre ale Uniunii Europene și a Regulamentului (UE) 2016/1037 privind protecția împotriva importurilor care fac obiectul unor subvenții din partea țărilor care nu sunt membre ale Uniunii Europene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0825",
+   "versions": [
+    {
+     "from": "2018-06-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/08391c1f-6a23-11e8-9483-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "d08408a61cdb0766b2763fec843e9f5decca9ba8569bb3e41e0c428bcfe02d91"
     }
    ]
   },
@@ -1083,6 +2208,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-832-2018",
+   "path": "ue/regulament/2018/832",
+   "short": "Regulamentul (UE) 2018/832",
+   "title": "Regulamentul (UE) 2018/832 al Comisiei din 5 iunie 2018 de modificare a anexelor II, III și V la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime pentru reziduurile de ciantraniliprol, cimoxanil, deltametrin, difenoconazol, fenamidon, flubendiamidă, fluopicolid, folpet, fosetil, mandestrobin, mepiquat, metazaclor, propamocarb, propargit, pirimetanil, sulfoxaflor și trifloxistrobin din sau de pe anumite produse (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0832",
+   "versions": [
+    {
+     "from": "2018-06-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/85719720-6964-11e8-85ab-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "4a3ea581f65fabb84dbb9e85c2aa1d6d466ac358d1414fbdb8d4873b4c40c89c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-841-2018",
+   "path": "ue/regulament/2018/841",
+   "short": "Regulamentul (UE) 2018/841",
+   "title": "Regulamentul (UE) 2018/841 al Parlamentului European și al Consiliului din 30 mai 2018 cu privire la includerea emisiilor de gaze cu efect de seră și a absorbțiilor rezultate din activități legate de exploatarea terenurilor, schimbarea destinației terenurilor și silvicultură în cadrul de politici privind clima și energia pentru 2030 și de modificare a Regulamentului (UE) nr. 525/2013 și a Deciziei nr. 529/2013/UE (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0841",
+   "versions": [
+    {
+     "from": "2018-07-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f4bb0d04-737f-11e8-9483-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "34ee921db065ff31e840e15a0f0856324bb366eaecb42c70ba8b9757dfc35a4c"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-842-2018",
    "path": "ue/regulament/2018/842",
    "short": "Regulamentul (UE) 2018/842",
@@ -1094,6 +2249,51 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/33b50796-7380-11e8-9483-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "6b02b311275270387f913018e7f7d4693aadfccd0996b760a308a6ab51266142"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-848-2018",
+   "path": "ue/regulament/2018/848",
+   "short": "Regulamentul (UE) 2018/848",
+   "title": "Regulamentul (UE) 2018/848 al Parlamentului European și al Consiliului din 30 mai 2018 privind producția ecologică și etichetarea produselor ecologice și de abrogare a Regulamentului (CE) nr. 834/2007 al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0848",
+   "versions": [
+    {
+     "from": "2018-06-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/083834f7-6f9d-11e8-9483-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "9576f6af55ca37182c2016b45d27e3259fa86d38d14bf1643cf166a9d6ed0661"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-858-2018",
+   "path": "ue/regulament/2018/858",
+   "short": "Regulamentul (UE) 2018/858",
+   "title": "Regulamentul (UE) 2018/858 al Parlamentului European și al Consiliului din 30 mai 2018 privind omologarea și supravegherea pieței autovehiculelor și remorcilor acestora, precum și ale sistemelor, componentelor și unităților tehnice separate destinate vehiculelor respective, de modificare a Regulamentelor (CE) nr. 715/2007 și (CE) nr. 595/2009 și de abrogare a Directivei 2007/46/CE (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0858",
+   "versions": [
+    {
+     "from": "2018-07-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d828c80f-6f9d-11e8-9483-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "086b08cdeb8fa7a8d8d27de5dd6ce419b312c0fa044475d5b0d927feb6f568f3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-885-2018",
+   "path": "ue/regulament/2018/885",
+   "short": "Regulamentul (UE) 2018/885",
+   "title": "Regulamentul (UE) 2018/885 al Comisiei din 20 iunie 2018 de modificare a anexei VI la Regulamentul (CE) nr. 1223/2009 al Parlamentului European și al Consiliului privind produsele cosmetice (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0885",
+   "versions": [
+    {
+     "from": "2018-07-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/815e0503-750c-11e8-9483-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "101c584b9a738e0fdb5c615daaf9b014748dee3e5418a49da60f766fff34a9fb"
     }
    ]
   },
@@ -1124,6 +2324,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/0b05027c-7dcf-11e8-ac6a-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "691ecd7c9226b415822707acdd90add01baf47db73fcb139988e667d3816ad56"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-946-2018",
+   "path": "ue/regulament/2018/946",
+   "short": "Regulamentul (UE) 2018/946",
+   "title": "Regulamentul (UE) 2018/946 al Parlamentului European și al Consiliului din 4 iulie 2018 de înlocuire a anexelor A și B la Regulamentul (UE) 2015/848 privind procedurile de insolvență",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0946",
+   "versions": [
+    {
+     "from": "2018-07-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/65c777a8-80e4-11e8-ac6a-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "b4b92c78dc7fd10a8484812b97206cdc746bf85d00c37a199105448627acd711"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-960-2018",
+   "path": "ue/regulament/2018/960",
+   "short": "Regulamentul (UE) 2018/960",
+   "title": "Regulamentul (UE) 2018/960 al Comisiei din 5 iulie 2018 de modificare a anexelor II și III la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime de reziduuri aplicabile lambda-cihalotrinului din sau de pe anumite produse (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0960",
+   "versions": [
+    {
+     "from": "2018-07-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/39abf6a5-80e4-11e8-ac6a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "6aee424015ea6af166210436cfec3a557007d95cc0c35057f1fd1ec304c218f5"
     }
    ]
   },
@@ -1184,6 +2414,66 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/d395cfea-88c7-11e8-ac6a-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "4f90d46a6e39ee25d7861395b4b98f97f8a3d181b45442dd3cd59b6f64697db4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-975-2018",
+   "path": "ue/regulament/2018/975",
+   "short": "Regulamentul (UE) 2018/975",
+   "title": "Regulamentul (UE) 2018/975 al Parlamentului European și al Consiliului din 4 iulie 2018 de stabilire a măsurilor de gestionare, conservare și control aplicabile în zona Convenției Organizației regionale de gestionare a pescuitului în Pacificul de Sud (SPRFMO)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0975",
+   "versions": [
+    {
+     "from": "2018-07-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0ca8dd9c-88c8-11e8-ac6a-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "c001142b9399bca68525e83acfc0f88b42cba388c6d81d89167f1f530ccd02ff"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-976-2018",
+   "path": "ue/regulament/2018/976",
+   "short": "Regulamentul (UE) 2018/976",
+   "title": "Regulamentul (UE) 2018/976 al Parlamentului European și al Consiliului din 4 iulie 2018 de modificare a Regulamentului (UE) 2016/1139 în ceea ce privește intervalele mortalității prin pescuit și nivelurile de salvgardare pentru anumite stocuri de hering din Marea Baltică",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0976",
+   "versions": [
+    {
+     "from": "2018-07-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/576e8f10-88c8-11e8-ac6a-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "e488db54f1fc3e91c9c2c186017e3318653a3f62a7be742e3888f49e62c718ab"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-978-2018",
+   "path": "ue/regulament/2018/978",
+   "short": "Regulamentul (UE) 2018/978",
+   "title": "Regulamentul (UE) 2018/978 al Comisiei din 9 iulie 2018 de modificare a anexelor II și III la Regulamentul (CE) nr. 1223/2009 al Parlamentului European și al Consiliului privind produsele cosmetice (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0978",
+   "versions": [
+    {
+     "from": "2018-08-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1ad46c21-8565-11e8-ac6a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "5ef6b9f306910beeca3a9b63c87526c3576b49d2dac46046b3213a6e2f169453"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-98-2018",
+   "path": "ue/regulament/2018/98",
+   "short": "Regulamentul (UE) 2018/98",
+   "title": "Regulamentul (UE) 2018/98 al Comisiei din 22 ianuarie 2018 de modificare a anexelor II și III la Regulamentul (CE) nr. 1333/2008 al Parlamentului European și al Consiliului și a anexei la Regulamentul (UE) nr. 231/2012 al Comisiei în ceea ce privește sorbatul de calciu (E 203) (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0098",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dba64413-0015-11e8-b8f5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "0b7c1ffbbf0870e47562708d947ae0eb68f8178fb30a866f3763f9629db694a9"
     }
    ]
   }

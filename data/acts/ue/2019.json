@@ -20,6 +20,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019L0001"
 },
 {
+"slug": "ue-regulament-2-2019",
+"path": "ue/regulament/2019/2",
+"kind": "ue",
+"year": "2019",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2019/2 al Parlamentului European și al Consiliului din 11 decembrie 2018 de modificare a Regulamentului (CE) nr. 1008/2008 privind normele comune pentru operarea serviciilor aeriene în Comunitate",
+"short": "Regulamentul (UE) 2019/2",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2019-02-03",
+"latest": "2019-02-03",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0002"
+},
+{
 "slug": "ue-regulament-4-2019",
 "path": "ue/regulament/2019/4",
 "kind": "ue",
@@ -52,6 +69,23 @@
 "from": "2019-01-27",
 "latest": "2019-01-27",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0005"
+},
+{
+"slug": "ue-regulament-6-2019",
+"path": "ue/regulament/2019/6",
+"kind": "ue",
+"year": "2019",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2019/6 al Parlamentului European și al Consiliului din 11 decembrie 2018 privind produsele medicinale veterinare și de abrogare a Directivei 2001/82/CE (Text cu relevanță pentru SEE)",
+"short": "Regulamentul (UE) 2019/6",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2019-01-27",
+"latest": "2019-01-27",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0006"
 },
 {
 "slug": "ue-regulament-26-2019",
@@ -649,6 +683,23 @@
 "flags": {
 "figures_missing": 4
 }
+},
+{
+"slug": "ue-regulament-440-2019",
+"path": "ue/regulament/2019/440",
+"kind": "ue",
+"year": "2019",
+"number": "440",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2019/440 al Consiliului din 29 noiembrie 2018 privind alocarea posibilităților de pescuit în temeiul Acordului de parteneriat în domeniul pescuitului sustenabil dintre Uniunea Europeană și Regatul Maroc și al protocolului său de punere în aplicare",
+"short": "Regulamentul (UE) 2019/440",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2019-03-21",
+"latest": "2019-03-21",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019R0440"
 },
 {
 "slug": "ue-regulament-452-2019",
