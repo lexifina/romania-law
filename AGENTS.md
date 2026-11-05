@@ -86,6 +86,25 @@ When only the credit was wrong (the words are right, but a change was credited t
 - `anexa/<act id>/<annex>/`: official annexes the corpus did not otherwise hold, such as the localities of each court (HG nr. 1.217/2023) and the small-claims forms (Ordinul nr. 359/C/2013).
 - `data/court-jurisdiction.csv` and the other practical tables (fees, thresholds, deadlines, legal aid, forms) are listed in README.md; each row cites its provision.
 
+## Is an act current? (freshness)
+
+Before relying on an act's latest version, read its freshness row: when a check of the official source last confirmed that the version here is the newest, and whether the source reports a change that is not here yet.
+
+    python tools/freshness.py codul-civil                    # by id
+    python tools/freshness.py lege/2009/287                  # by folder
+    python tools/freshness.py --stale --kind lege            # tab-separated: act, last_verified, method, official_url
+    python tools/freshness.py --status pending-change        # any status
+    python tools/freshness.py --summary
+    python tools/freshness.py --as-of 2026-12-01 codul-civil # judge the age against another day
+
+- `data/freshness/<kind>/<year>.csv` (local acts `data/freshness/local/<county>/<council>/<year>.csv`, split as the act lists are) has one row per act on main: `act`, `status`, `last_verified`, `check_due`, `method`, `newest_change`, `newest_change_date`, `change_in_repo`, `official_url`. Days are UTC. `data/freshness/index.json` lists every file with its count per status; `data/freshness.json` holds the totals, per group and kind, the sources, and the text of every status, method and threshold.
+- `status` is as of `as_of` in `data/freshness.json`. Re-read it against today: a `current` act whose `check_due` is before today is `stale`. `check_due` is `last_verified` plus the threshold; it is empty for a repealed act (it does not change again, so it stays `current`) and for an act never verified.
+- Statuses: `current` (checked within the threshold, no known change missing); `pending-change` (the official source reports a change not here: `newest_change` names it, with `change_in_repo` `no`; every act marked `amended, not consolidated` is pending); `stale` (checked longer ago than the threshold); `unverified` (never checked for later changes: orders and other acts "as published, amendments not yet checked"); `source-unavailable` (due for a check, but the official source is not answering; `sources[].unavailable_since` in `data/freshness.json`).
+- Thresholds: 7 days for `constitutie`, `cod`, `lege`, `oug`, `og`, `decret`, `decret-lege`, `hotarare-parlament`, `hg`; 30 days for every other kind. Court decisions have no rows: they do not change once published.
+- `method`: `amendment-search` (a full-text search of the official legislation service for the act's designation, every result read for a change to it; documents that cannot change it, such as an order for a law, do not count), `edition-index` (the service's list of every document, each scanned for the acts it changes: confirms when no later document names the act with a change not applied here), `consolidated-form` (the act's newest consolidated form on the portal as the page stood that day), `in-force-list` (the EU Publications Office's list of acts in force and their consolidated versions: a newer Romanian consolidated version, an end of validity or absence from the list is `pending-change`), `register-read` (the issuing council's or body's official register or site, for council decisions and authorities' records held as metadata).
+- When `newest_change` is filled and `change_in_repo` is `yes`, it is the newest change this repository already has.
+- No row means the act is not on main (or was withdrawn). The tool reads only these files and never connects to the sources: for certainty, open `official_url`. Only the Monitorul Oficial, Part I is authoritative.
+
 ## What is not here
 
 - Chapter and section headings, and the annexes of laws, ordinances and Government decisions. Orders and other secondary legislation include their annexes (`anexa-N/`) where the text could be read cleanly; an annex left out is named in the act's README.md and flagged `annex_missing` in `data/acts/`.

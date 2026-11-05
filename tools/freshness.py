@@ -92,7 +92,8 @@ def describe(row, folder, rel, summary, today):
     last, due = day(row.get('last_verified')), day(row.get('check_due'))
     lines = [row['act'] + (f' ({folder})' if folder else '')]
     if last:
-        when = f'last verified {last}, {(today - last).days} days ago'
+        n = (today - last).days
+        when = f'last verified {last}, ' + ('today' if n == 0 else f'{n} day ago' if n == 1 else f'{n} days ago')
         when += f'; next check due {due}' if due else '; repealed, no further check needed'
     else:
         when = 'never verified against the official source for later changes'
@@ -151,6 +152,11 @@ def main(argv=None):
     ap.add_argument('--as-of', help='judge each check_due against this day (YYYY-MM-DD) instead of today')
     ap.add_argument('--repo', default=str(ROOT), help='the repository checkout (default: the one holding this tool)')
     a = ap.parse_args(argv)
+    for stream in (sys.stdout, sys.stderr):  # a console that cannot show a letter (a Romanian letter on cp1252) gets '?', not a crash
+        try:
+            stream.reconfigure(errors='replace')
+        except (AttributeError, ValueError):
+            pass
     root = Path(a.repo)
     today = day(a.as_of) if a.as_of else dt.datetime.now(dt.timezone.utc).date()
     if today is None:
