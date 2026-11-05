@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/bacau/bacau/2006",
+"acts": [
+{
+"slug": "hcl-bacau--bacau-1-2006",
+"path": "local/bacau/bacau/2006/1",
+"kind": "local",
+"year": "2006",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 1/2006 privind aprobarea indexării unor taxe locale care constituie surse de venit ale bugetului local, altele decât cele reglementate prin Legea 571/2003- privind Codul fiscal cu modificările și completările ulterioare. ●Modificat prin H.C.L.nr.7 din 19.01.2006 Hotărâre nr.2 /19.01.2006 - privind aprobarea bugetului de venituri și cheltuieli , și a listelor de investiții pe anul 2006, a Consiliului Loca",
+"short": "HCL Bacău nr. 1/2006",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2006-01-06",
+"latest": "2006-01-06",
+"portal": "https://municipiulbacau.ro/monitorul-oficial-local/arhiva-hotararilor-consiliului-local-bacau/",
+"council": "bacau/bacau",
+"council_name": "Consiliul Local al Municipiului Bacău",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/bihor/salonta/2022",
+"acts": [
+{
+"slug": "hcl-bihor--salonta-61-2022",
+"path": "local/bihor/salonta/2022/61",
+"kind": "local",
+"year": "2022",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 61/2022 privind aprobarea „Regulamentului privind realizarea, repartizarea, închirierea, exploatarea şi administrarea locuinţelor sociale și de necesitate din Municipiul Salonta”",
+"short": "HCL Salonta nr. 61/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-03-31",
+"latest": "2022-03-31",
+"portal": "https://salonta.net/ro/hotarari-republicate/",
+"council": "bihor/salonta",
+"council_name": "Consiliul Local al Municipiului Salonta",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-bihor--salonta-237-2022",
+"path": "local/bihor/salonta/2022/237",
+"kind": "local",
+"year": "2022",
+"number": "237",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 237/2022 privind aprobarea organizării a unei noi sesiuni de licitaţie publică deschisă cu strigare a loturilor din păşunea permanentă situată în Municipiul Salonta – Republicată, conform HCLMS nr.293/21.12.2022",
+"short": "HCL Salonta nr. 237/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-27",
+"latest": "2022-10-27",
+"portal": "https://salonta.net/ro/hotarari-republicate/",
+"council": "bihor/salonta",
+"council_name": "Consiliul Local al Municipiului Salonta",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

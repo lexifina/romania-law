@@ -1,0 +1,138 @@
+{
+"country": "RO",
+"shard": "local/judet/giurgiu/2025",
+"acts": [
+{
+"slug": "hcj-giurgiu-191-2025",
+"path": "local/judet/giurgiu/2025/191",
+"kind": "local",
+"year": "2025",
+"number": "191",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 191/2025 privind aprobarea Regulamentului de acordare a stimulentelor financiare elevilor din instituțiile de învățământ preuniversitar gimnazial și liceal de stat din județul Giurgiu întrunit în ședință extraordinară",
+"short": "HCJ Giurgiu nr. 191/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-08-13",
+"latest": "2025-08-13",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2025/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-giurgiu-238-2025",
+"path": "local/judet/giurgiu/2025/238",
+"kind": "local",
+"year": "2025",
+"number": "238",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 238/2025 pentru aprobarea componenței Comitetului județean pentru accelerarea procesului de dezinstituționalizare și de prevenire a instituționalizării la nivelul județului Giurgiu, precum și aprobarea Regulamentului de organizarea și funcționare a acestuia întrunit în ședință ordinară",
+"short": "HCJ Giurgiu nr. 238/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-30",
+"latest": "2025-10-30",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2025/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-giurgiu-264-2025",
+"path": "local/judet/giurgiu/2025/264",
+"kind": "local",
+"year": "2025",
+"number": "264",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 264/2025 privind aprobarea Regulamentului pentru decontarea cheltuielilor cu naveta pentru funcționarii publici din cadrul aparatului de specialitate al Consiliului Județean Giurgiu, Serviciului Public Comunitar Județean de Evidență a Persoanelor Giurgiu și al Direcției Generale de Asistență Socială și Protecția Copilului Giurgiu întrunit în ședință ordinară",
+"short": "HCJ Giurgiu nr. 264/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2025/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-giurgiu-274-2025",
+"path": "local/judet/giurgiu/2025/274",
+"kind": "local",
+"year": "2025",
+"number": "274",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 274/2025 privind avizarea favorabilă a cuantumului normelor de venit și a coeficienților de corecție pentru activități independente pentru anul 2026, propus de către Administrația Județeană a Finanțelor Publice Giurgiu",
+"short": "HCJ Giurgiu nr. 274/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-08",
+"latest": "2025-12-08",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2025/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-giurgiu-281-2025",
+"path": "local/judet/giurgiu/2025/281",
+"kind": "local",
+"year": "2025",
+"number": "281",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 281/2025 privind stabilirea taxelor și tarifelor care vor fi percepute de Consiliul Județean Giurgiu și instituțiile publice subordonate acestuia în anul fiscal 2026 întrunit în ședință ordinară",
+"short": "HCJ Giurgiu nr. 281/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2025/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-giurgiu-297-2025",
+"path": "local/judet/giurgiu/2025/297",
+"kind": "local",
+"year": "2025",
+"number": "297",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 297/2025 pentru modificarea anexei nr.2 la Hotărârea Consiliului Județean Giurgiu nr.274 din 08 decembrie 2025 privind avizarea favorabilă a cuantumului normelor de venit și a coeficienților de corecție pentru activități independente pentru anul 2026, propus de către Administrația Județeană a Finanțelor Publice Giurgiu",
+"short": "HCJ Giurgiu nr. 297/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2025/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

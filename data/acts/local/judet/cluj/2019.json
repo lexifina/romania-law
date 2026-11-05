@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/cluj/2019",
+"acts": [
+{
+"slug": "hcj-cluj-203-2019",
+"path": "local/judet/cluj/2019/203",
+"kind": "local",
+"year": "2019",
+"number": "203",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Cluj nr. 203/2019 pentru modificarea și completarea Hotărârii Consiliului Județean Cluj nr. 4/2019 privind aprobarea taxelor și tarifelor pentru anul fiscal 2019",
+"short": "HCJ Cluj nr. 203/2019",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2019-10-30",
+"latest": "2019-10-30",
+"portal": "https://cjcluj.ro/hotarare-cjc/2019/10",
+"council": "judet/cluj",
+"council_name": "Consiliul Județean Cluj",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

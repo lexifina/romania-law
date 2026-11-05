@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/bistrita-nasaud/2013",
+ "acts": [
+  {
+   "slug": "hcj-bistrita-nasaud-69-2013",
+   "path": "local/judet/bistrita-nasaud/2013/69",
+   "short": "HCJ Bistrița-Năsăud nr. 69/2013",
+   "title": "Hotărârea Consiliului Județean Bistrița-Năsăud nr. 69/2013 privind stabilirea nivelurilor pentru valorile impozabile, impozitele și taxele locale pentru anul 2014 în comuna Șieu Măgheruș 2 2 MONITORUL OFICIAL AL JUDEȚULUI BISTRIȚA-NÃSÃUD NR. 1 /16 ianuarie 2014 ROMÂNIA JUDEȚUL BISTRIȚA NĂSĂUD CONSILIUL LOCAL AL COMUNEI ȘIEU MĂGHERUȘ HOTĂRÂRE privind stabilirea nivelurilor pentru valorile impozabile, impozitele și taxele locale pentru anul 2014 în comuna Ș",
+   "url": "https://www.portalbn.ro/portal/bistrita-nasaud/portal.nsf/AllByUNID/2014-00006a8e?OpenDocument",
+   "versions": [
+    {
+     "from": "2013-12-20",
+     "units": 1,
+     "source_url": "https://www.portalbn.ro/portal/bistrita-nasaud/portal.nsf/AllByUNID/D968120B70C82BA7C22586BD003D2C7E/$FILE/Monitor%20Oficial%20nr.1%20din%202014.pdf",
+     "sha256": "6623c95632dcf8d0205fdb5c591b61bfb42d30de34c3bc1cde30e5ae2be33177"
+    }
+   ]
+  }
+ ]
+}

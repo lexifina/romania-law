@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/bacau/1994",
+ "acts": [
+  {
+   "slug": "hcl-bacau--bacau-1-1994",
+   "path": "local/bacau/bacau/1994/1",
+   "short": "HCL Bacău nr. 1/1994",
+   "title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 1/1994 privind abrogarea Hotărârilor Consiliului Local nr.34/14.08.1992 și nr.54 din 23.12.1992",
+   "url": "https://municipiulbacau.ro/monitorul-oficial-local/arhiva-hotararilor-consiliului-local-bacau/",
+   "versions": [
+    {
+     "from": "1994-01-28",
+     "units": 1,
+     "source_url": "https://municipiulbacau.ro/wp-content/uploads/2024/04/liste-cu-hotarari-1994.pdf",
+     "sha256": "28234770be1253a9beddd201d9abaab627f3d259603cfae247a131dcccae1a74"
+    }
+   ]
+  }
+ ]
+}

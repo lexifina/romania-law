@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/judet/vaslui/2023",
+"acts": [
+{
+"slug": "hcj-vaslui-177-2023",
+"path": "local/judet/vaslui/2023/177",
+"kind": "local",
+"year": "2023",
+"number": "177",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 177/2023 privind aprobarea atribuirii licenţelor de traseu și a tarifelor pentru efectuarea serviciului public de transport de persoane prin curse regulate 18 septembrie",
+"short": "HCJ Vaslui nr. 177/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-09-13",
+"latest": "2023-09-13",
+"portal": "https://cjvs.eu/hotarari-2023/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-vaslui-196-2023",
+"path": "local/judet/vaslui/2023/196",
+"kind": "local",
+"year": "2023",
+"number": "196",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 196/2023 privind aprobarea atribuirii a patru licenţe de traseu și a tarifelor pentru efectuarea serviciului public de transport de persoane prin curse regulate 18 octombrie",
+"short": "HCJ Vaslui nr. 196/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-10-16",
+"latest": "2023-10-16",
+"portal": "https://cjvs.eu/hotarari-2023/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-vaslui-257-2023",
+"path": "local/judet/vaslui/2023/257",
+"kind": "local",
+"year": "2023",
+"number": "257",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 257/2023 privind aprobarea înlocuirii unui membru al Autorității Teritoriale de Ordine Publică Vaslui 22 decembrie",
+"short": "HCJ Vaslui nr. 257/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://cjvs.eu/hotarari-2023/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/judet/buzau/2020",
+ "acts": [
+  {
+   "slug": "hcj-buzau-1-2020",
+   "path": "local/judet/buzau/2020/1",
+   "short": "HCJ Buzău nr. 1/2020",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 1/2020 pentru susținerea programelor de dezvoltare locală, pentru proiecte de infrastructură care necesită cofinanțare locală, precum și pentru cheltuielile de funcționare pe anul 2020 și estimări pe anii 2021 – 2023 din sumele defalcate din taxa pe valoare adăugată și cotele defalcate din unele venituri ale bugetului de stat pentru echilibrarea bugetelor lo",
+   "url": "http://cjbuzau.ro/hotarari-cj-2020/",
+   "versions": [
+    {
+     "from": "2020-01-21",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2020/01/H-1.pdf",
+     "sha256": "65dcd5d8aaea6846bffb4c596e6a44af8bfed7b7f6f82b48dbb0fcba00023baa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-132-2020",
+   "path": "local/judet/buzau/2020/132",
+   "short": "HCJ Buzău nr. 132/2020",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 132/2020 pentru aparatul de specialitate al Direcţiei Judeţene de Evidenţă a Persoanelor Buzău şi a Regulamentului de organizare şifuncţionare – forma actualizată * Anexele nr.1 și 2 șe înlocuiesc cu anexele din Hotărârea nr.173/2016 * Abrogată prin Hotărârea nr.132/2020",
+   "url": "http://cjbuzau.ro/hotarari-cj-2020/",
+   "versions": [
+    {
+     "from": "2020-07-16",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2020/07/H-132.pdf",
+     "sha256": "400ad2a2c00b65667530701b51321f908bc6e499318d36120687629f7958a439"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-164-2020",
+   "path": "local/judet/buzau/2020/164",
+   "short": "HCJ Buzău nr. 164/2020",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 164/2020 privind aprobarea Caietului de sarcini al serviciului de transport public județean de persoane prin curse regulate, în județul Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2020/",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2020/09/H-164.pdf",
+     "sha256": "ea9767815cc729366f65488e0d905088f41118a614e05988cceaed65cc25b859"
+    }
+   ]
+  }
+ ]
+}

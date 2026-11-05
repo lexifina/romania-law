@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/judet/vaslui/2023",
+ "acts": [
+  {
+   "slug": "hcj-vaslui-177-2023",
+   "path": "local/judet/vaslui/2023/177",
+   "short": "HCJ Vaslui nr. 177/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 177/2023 privind aprobarea atribuirii licenţelor de traseu și a tarifelor pentru efectuarea serviciului public de transport de persoane prin curse regulate 18 septembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-09-13",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr177_2023.pdf",
+     "sha256": "a68462a226c70ae17cf4d9b456fca46b72b26f737fa8063bb340c8cbbb1de97c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-196-2023",
+   "path": "local/judet/vaslui/2023/196",
+   "short": "HCJ Vaslui nr. 196/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 196/2023 privind aprobarea atribuirii a patru licenţe de traseu și a tarifelor pentru efectuarea serviciului public de transport de persoane prin curse regulate 18 octombrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-10-16",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr196_2023.pdf",
+     "sha256": "7967645bc62d2fa0223d2f3bb3684e0fc8aa97a07c9b96e51de200e7ee829426"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-257-2023",
+   "path": "local/judet/vaslui/2023/257",
+   "short": "HCJ Vaslui nr. 257/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 257/2023 privind aprobarea înlocuirii unui membru al Autorității Teritoriale de Ordine Publică Vaslui 22 decembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr257_2023.pdf",
+     "sha256": "5e9e4b5917ad82adba1203d35e4e41527acfa36378de8f3d099afe06161d5e35"
+    }
+   ]
+  }
+ ]
+}

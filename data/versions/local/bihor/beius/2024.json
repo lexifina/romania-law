@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/beius/2024",
+ "acts": [
+  {
+   "slug": "hcl-bihor--beius-260-2024",
+   "path": "local/bihor/beius/2024/260",
+   "short": "HCL Beiuș nr. 260/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 260/2024",
+   "url": "https://emol.ro/beius-bh/registru-hcl/184361",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/63290/Anexa%201%20la%20HCL%20260%20din%2020.12.2024.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--beius-261-2024",
+   "path": "local/bihor/beius/2024/261",
+   "short": "HCL Beiuș nr. 261/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 261/2024 privind modificarea și completarea prin Act Adiţional nr. 2 a Contractului de delegare a gestiunii serviciului de gestionare a câinilor fără stăpân de pe raza teritorială a Municipiului Beiuș, Județul Bihor, asigurat de SC Administrația Domeniului Public Beiuș SA, în baza contractului de delegare nr.11022 /1413 din 30.09.2022",
+   "url": "https://emol.ro/beius-bh/registru-hcl/184362",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/63293/Anexa%20la%20HCL%20261%20DIN%2020.12.2024.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--beius-262-2024",
+   "path": "local/bihor/beius/2024/262",
+   "short": "HCL Beiuș nr. 262/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 262/2024 privind aprobarea organizării şi funcţionării reţelei şcolare a unităţilor de învăţământ preuniversitar de stat şi particular, la nivelul municipiului Beiuş în anul şcolar 2025-2026",
+   "url": "https://emol.ro/beius-bh/registru-hcl/184363",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/63294/Anexa%20la%20HCL%20262%20DIN%2020.12.2024.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--beius-271-2024",
+   "path": "local/bihor/beius/2024/271",
+   "short": "HCL Beiuș nr. 271/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 271/2024 privind actualizarea indicatorilor tehnico- economici faza Proiect Tehnic pentru obiectivul de investiții „Amenajare parcare Municipiul Beiuș – Piața Samuil Vulcan – Aleea Moților – Colegiul Național Samuil Vulcan”",
+   "url": "https://emol.ro/beius-bh/registru-hcl/184372",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/63295/Anexa%20la%20HCL%20271%20DIN%2020.12.2024.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--beius-272-2024",
+   "path": "local/bihor/beius/2024/272",
+   "short": "HCL Beiuș nr. 272/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 272/2024 privind aprobarea indicatorilor tehnico – economici pentru executarea lucrărilor de intervenţie la blocul de locuinţe situat în Municipiul Beiuș, județul Bihor, strada Traian, nr. 14/B, în vederea racordării acestuia la sistemul centralizat de încălzire bazat pe apa geotermală existent și realizării instalației interioare pentru distribuția agentului termic de la punctul de racord până la nivelul fiecărui apartament în parte",
+   "url": "https://emol.ro/beius-bh/registru-hcl/184373",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/63296/Anexa%20la%20HCL%20272%20DIN%2020.12.2024.pdf",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

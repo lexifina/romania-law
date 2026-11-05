@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/salonta/2019",
+ "acts": [
+  {
+   "slug": "hcl-bihor--salonta-120-2019",
+   "path": "local/bihor/salonta/2019/120",
+   "short": "HCL Salonta nr. 120/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 120/2019 Privind aprobarea asigurării din bugetul local a finanțării unor categorii de cheltuieli, care nu se finanțează de la bugetul de stat prin Programul privind construirea de locuințe sociale și de necesitate derulate conform Legii nr. 114/1996 pentru obiectivul de investiție „ Amenajare de locuințe sociale (de necesitate), prin transformarea clădirii C1 – dormitor, Salonta, str. Șarcadului, nr. 1” C",
+   "url": "https://salonta.net/ro/hotarari-republicate/",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/Hot.-120-republicata-cofinantare-locuinte-sociale.pdf",
+     "sha256": "893346c6fff62d2452181cbd1636adc17fe81322d7f663173997d9e96fd4faa3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-147-2019",
+   "path": "local/bihor/salonta/2019/147",
+   "short": "HCL Salonta nr. 147/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 147/2019 Privind aprobarea trecerii în administrarea Județului Bihor – Consiliului Județean Bihor a unor sectoare de drumuri aflate în proprietatea publică a Municipiului Salonta și în administrarea Consiliului Local al Municipiului Salonta, în vederea realizării obiectivului de investiții ”Reabilitare și modernizare DJ795 Salonta – Tinca” Consiliul Local al Municipiului Salonta Având în vedere:  Raportul",
+   "url": "https://salonta.net/ro/hotarari-republicate/",
+   "versions": [
+    {
+     "from": "2019-08-02",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hot.-147-REPUBLICATA-%E2%80%9DReabilitare-si-modernizare-DJ795-Salonta-%E2%80%93-Tinca-drept-administrare-CJ-Bihor.pdf",
+     "sha256": "d8ac400df3e07f4ee2a762be0dbc0b542cba10531340581ca3bf33eaa217249c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-57-2019",
+   "path": "local/bihor/salonta/2019/57",
+   "short": "HCL Salonta nr. 57/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 57/2019 Privind propunerea de schimbare a destinației de unitate de învățământ a imobilului situat pe str",
+   "url": "https://salonta.net/ro/hotarari-republicate/",
+   "versions": [
+    {
+     "from": "2019-03-29",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hot.-57-Republicata-2.pdf",
+     "sha256": "0aea7dd769cdf3681581762ebf17be1d55a273d138063e3e8a96c67b1de02043"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-58-2019",
+   "path": "local/bihor/salonta/2019/58",
+   "short": "HCL Salonta nr. 58/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 58/2019 Privind propunerea de schimbare a destinației de unitate de învățământ a imobilului situat pe str",
+   "url": "https://salonta.net/ro/hotarari-republicate/",
+   "versions": [
+    {
+     "from": "2019-03-29",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/Hot.58-Republicata.pdf",
+     "sha256": "e98de008a035390c87ddd794e23614faf625e905accb2c6a0a683bcab138c71f"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/covasna/targu-secuiesc/2025",
+"acts": [
+{
+"slug": "hcl-covasna--targu-secuiesc-96-2025",
+"path": "local/covasna/targu-secuiesc/2025/96",
+"kind": "local",
+"year": "2025",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Târgu Secuiesc nr. 96/2025 privind modificarea și completarea Hotărârii Consiliului Local nr. 167/2024 privind stabilirea impozitelor și taxelor locale, pentru anul 2025 Consiliul local al Municipiului Târgu Secuiesc, județul Covasna, Analizând proiectul de hotărâre și referatul de aprobare al primarului Municipiului privind modificarea și completarea Hotărârii Consiliului Local nr.167/2024 privind stabilirea impozitelor și",
+"short": "HCL Târgu Secuiesc nr. 96/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-05-29",
+"latest": "2025-05-29",
+"portal": "https://www.kezdi.ro/wp-content/uploads/HCL-96-1.pdf",
+"council": "covasna/targu-secuiesc",
+"council_name": "Consiliul Local al Municipiului Târgu Secuiesc",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

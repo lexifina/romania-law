@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/judet/vrancea/2026",
+ "acts": [
+  {
+   "slug": "hcj-vrancea-209-2026",
+   "path": "local/judet/vrancea/2026/209",
+   "short": "HCJ Vrancea nr. 209/2026",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 209/2026 pentru o perioadă de 2 ani; - în conformitate cu prevederile: - art. 8 și art. 9 din Regulamentul de Organizare și Funcționare al Serviciului Public Județean Salvamont Vrancea aprobat prin Hotărârea Consiliului Județean Vrancea nr. 102/30.06.2020; - Hotărârea de Guvern nr. 77/2003 privind instituirea unor măsuri pentru prevenirea accidentelor montane și organizarea activității de salvare în munți",
+   "url": "https://cjvrancea.ro/hotarari/page/2/",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2026/09/209.-Hot-director-Salvamont.docx",
+     "sha256": "05dff9521507efdf26f38b5dfc580f734f39f7064b642bfcd7df670ace37f827"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-227-2026",
+   "path": "local/judet/vrancea/2026/227",
+   "short": "HCJ Vrancea nr. 227/2026",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 227/2026 privind colectarea deșeurilor municipale și similare și transportul acestora la punctele/stațiile de transfer la nivelul Zonei 3 - 3 UAT-uri membre și mecanism de plată Tarif - de colectare a județului Vrancea, pentru proiectul ,,Sistem de Management Integrat al Deșeurilor în județul Vrancea”",
+   "url": "https://cjvrancea.ro/hotarari/page/2/",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2026/09/hot-227-Aprobare-DA-Lot3.docx",
+     "sha256": "1bae6cb5c4456a0b32f37e9de7587ef73a311fca37bb8bf44c058ea726a54e14"
+    }
+   ]
+  }
+ ]
+}

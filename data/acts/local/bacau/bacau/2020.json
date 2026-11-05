@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/bacau/bacau/2020",
+"acts": [
+{
+"slug": "hcl-bacau--bacau-291-2020",
+"path": "local/bacau/bacau/2020/291",
+"kind": "local",
+"year": "2020",
+"number": "291",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 291/2020 privind aprobarea modificării HCL nr. 20 din 19.02.2020 prin care s-au aprobat Bugetul de venituri si cheltuieli si Programul de investiții pe anul 2020, ale Consiliului Local al Municipiului Bacău Consiliul Local al Municipiului Bacău întrunit în ședință ordinară la data de 28.12.2020, potrivit art.133 alin. 1 din Ordonanța de Urgență nr. 57/2019 privind Codul administrativ, cu modificările și co",
+"short": "HCL Bacău nr. 291/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-28",
+"latest": "2020-12-28",
+"portal": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
+"council": "bacau/bacau",
+"council_name": "Consiliul Local al Municipiului Bacău",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

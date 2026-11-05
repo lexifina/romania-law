@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/judet/valcea/2025",
+"acts": [
+{
+"slug": "hcj-valcea-52-2025",
+"path": "local/judet/valcea/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vâlcea nr. 52/2025 privind aprobarea Regulamentului privind regimul finanțărilor nerambursabile de la bugetul propriu al Județului Vâlcea, pentru proiectele sportive de utilitate publică Vizualizare",
+"short": "HCJ Vâlcea nr. 52/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-03-25",
+"latest": "2025-03-25",
+"portal": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2025-hotararile-autoritatii-deliberative/",
+"council": "judet/valcea",
+"council_name": "Consiliul Județean Vâlcea",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-valcea-53-2025",
+"path": "local/judet/valcea/2025/53",
+"kind": "local",
+"year": "2025",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vâlcea nr. 53/2025 privind aprobarea Regulamentului privind regimul finanțărilor nerambursabile de la bugetul propriu al Județului Vâlcea pentru proiectele culturale Vizualizare",
+"short": "HCJ Vâlcea nr. 53/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-03-25",
+"latest": "2025-03-25",
+"portal": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2025-hotararile-autoritatii-deliberative/",
+"council": "judet/valcea",
+"council_name": "Consiliul Județean Vâlcea",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

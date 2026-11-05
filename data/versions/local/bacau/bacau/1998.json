@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/bacau/1998",
+ "acts": [
+  {
+   "slug": "hcl-bacau--bacau-1-1998",
+   "path": "local/bacau/bacau/1998/1",
+   "short": "HCL Bacău nr. 1/1998",
+   "title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 1/1998",
+   "url": null,
+   "versions": [
+    {
+     "from": "1998-01-30",
+     "units": 1,
+     "source_url": "https://municipiulbacau.ro/wp-content/uploads/2024/04/liste-cu-hotarari-1998.pdf",
+     "sha256": "9950a080608fa3cb46a52e501d42451c87206bcba8a33f6ce9c53868dfd30c9a"
+    }
+   ]
+  }
+ ]
+}

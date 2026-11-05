@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/botosani/dorohoi/2020",
+"acts": [
+{
+"slug": "hcl-botosani--dorohoi-100-2020",
+"path": "local/botosani/dorohoi/2020/100",
+"kind": "local",
+"year": "2020",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 100/2020 pentru Situații de Urgență Botoșani",
+"short": "HCL Dorohoi nr. 100/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-07",
+"latest": "2020-11-07",
+"portal": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=4000&Itemid=1147",
+"council": "botosani/dorohoi",
+"council_name": "Consiliul Local al Municipiului Dorohoi",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

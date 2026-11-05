@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/bacau/bacau/2005",
+"acts": [
+{
+"slug": "hcl-bacau--bacau-1-2005",
+"path": "local/bacau/bacau/2005/1",
+"kind": "local",
+"year": "2005",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 1/2005 privind aprobarea modificării tarifului de producere, transport și distribuție a energiei termice sub forma de apă fierbinte livrată de SC „ CET ” S.A BACĂU, consumatorilor urbani racordați la sistemul termic centralizat al municipiului Bacău , începând cu data de 01.01.2005",
+"short": "HCL Bacău nr. 1/2005",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2005-01-11",
+"latest": "2005-01-11",
+"portal": "https://municipiulbacau.ro/monitorul-oficial-local/arhiva-hotararilor-consiliului-local-bacau/",
+"council": "bacau/bacau",
+"council_name": "Consiliul Local al Municipiului Bacău",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

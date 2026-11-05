@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/judet/cluj/2022",
+ "acts": [
+  {
+   "slug": "hcj-cluj-128-2022",
+   "path": "local/judet/cluj/2022/128",
+   "short": "HCJ Cluj nr. 128/2022",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 128/2022 privind introducerea unor restricții de circulație pe drumul județean DJ 172F, sectorul de drum km 13+640 (intersecția cu DJ 161D) – km 23+340 (limita județ Bistrița-Năsăud)",
+   "url": "https://cjcluj.ro/hotarare-cjc/2022/06",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2022/07/03a4070c-128_17_restrictii-circulatie-dj-172f.pdf",
+     "sha256": "c1791849535d62ae6b2758b1bc8010bc86bbf88255d9214f36dff3115ffac716"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-146-2022",
+   "path": "local/judet/cluj/2022/146",
+   "short": "HCJ Cluj nr. 146/2022",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 146/2022 privind aprobarea tarifelor serviciului public de operare a Centrului de Management Integrat al Deșeurilor Cluj-Napoca",
+   "url": "https://cjcluj.ro/hotarare-cjc/2022/07",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2022/07/91a26f73-146_2022_versiune-consolidata_hcj_58_202375_2025.pdf",
+     "sha256": "874649e2357ae8b4db78ad0bdcb3330929ee11ff133aeb980dac28ef1bab6ca0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-163-2022",
+   "path": "local/judet/cluj/2022/163",
+   "short": "HCJ Cluj nr. 163/2022",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 163/2022 privind aprobarea tarifelor pentru servicii oferite utilizatorilor de către Muzeul Memorial ”Octavian Goga”",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-163-29-septembrie-2022-privind-aprobarea-tarifelor-pentru-servicii-oferite-utilizatorilor-de-catre-muzeul-memorial-octavian-goga/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2022/09/9cb2c30f-163_1_aprobare-tarife-mmog.pdf",
+     "sha256": "4a1dfc34ac8ddf40f86957297339cd49ccd515d0f5e8b82223ee03516ea00b23"
+    }
+   ]
+  }
+ ]
+}

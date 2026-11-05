@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/hunedoara/2019",
+"acts": [
+{
+"slug": "hcj-hunedoara-216-2019",
+"path": "local/judet/hunedoara/2019/216",
+"kind": "local",
+"year": "2019",
+"number": "216",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Hunedoara nr. 216/2019 privind aprobarea procedurii de atribuire pe baza de anunț public, pe o perioadă de 60 de zile, a unor trasee cuprinse în Programul de transport județean pentru transport rutier contra cost de persoane prin servicii regulate, la nivel județean, valabil până la 30.06.2023",
+"short": "HCJ Hunedoara nr. 216/2019",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2019-08-28",
+"latest": "2019-08-28",
+"portal": "https://www.cjhunedoara.ro/index.php/programul-judetean-de-transport-public-pentru-2008-2011",
+"council": "judet/hunedoara",
+"council_name": "Consiliul Județean Hunedoara",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/beius/2026",
+ "acts": [
+  {
+   "slug": "hcl-bihor--beius-136-2026",
+   "path": "local/bihor/beius/2026/136",
+   "short": "HCL Beiuș nr. 136/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 136/2026",
+   "url": "https://www.municipiulbeius.ro/wp-content/uploads/2026/07/Beius-HCL-nr.-136-din-14-Iulie-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://www.municipiulbeius.ro/wp-content/uploads/2026/07/Beius-HCL-nr.-136-din-14-Iulie-2026.pdf",
+     "sha256": "a971cd9cd0880ec6d45d4fefd94b239bb238ca61740ab4e0760938a476fe6ab1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--beius-156-2026",
+   "path": "local/bihor/beius/2026/156",
+   "short": "HCL Beiuș nr. 156/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 156/2026",
+   "url": "https://www.municipiulbeius.ro/wp-content/uploads/2026/08/HCL-nr.156-din-17.08.2026-Lista-de-prioritati-cuprin.-solicitantii-indrep.-sa-primesca-locuinta-nZeb-plus-in-Municipiul-Beius-si-listei-de-solicitanti-care-nu-au-acees-la-locuintele-nZeb-plus.pdf",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 1,
+     "source_url": "https://www.municipiulbeius.ro/wp-content/uploads/2026/08/HCL-nr.156-din-17.08.2026-Lista-de-prioritati-cuprin.-solicitantii-indrep.-sa-primesca-locuinta-nZeb-plus-in-Municipiul-Beius-si-listei-de-solicitanti-care-nu-au-acees-la-locuintele-nZeb-plus.pdf",
+     "sha256": "d674d8dbf5d9acd49d5cc25e7887160fbb166a950b42bc43b3fc1f8caa09be32"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--beius-172-2026",
+   "path": "local/bihor/beius/2026/172",
+   "short": "HCL Beiuș nr. 172/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 172/2026",
+   "url": "https://www.municipiulbeius.ro/wp-content/uploads/2026/08/HCL-nr.172-din-27.08.2026-Aprobare-repartizare-locuinte-nZeb-plus-din-Municipiul-Beius.pdf",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://www.municipiulbeius.ro/wp-content/uploads/2026/08/HCL-nr.172-din-27.08.2026-Aprobare-repartizare-locuinte-nZeb-plus-din-Municipiul-Beius.pdf",
+     "sha256": "6db23c726e2d9b38f279cc96c448897811f694214d24464dd3e80e24a98149ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--beius-197-2026",
+   "path": "local/bihor/beius/2026/197",
+   "short": "HCL Beiuș nr. 197/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 197/2026 privind aprobarea rectificării bugetului local si a bugetului activitatilor finantate integral/partial din venituri proprii pe anul 2026",
+   "url": "https://emol.ro/beius-bh/registru-hcl/291799",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/110525/Anexe%20la%20HCL%20197%20din%2002.10.2026.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--beius-201-2026",
+   "path": "local/bihor/beius/2026/201",
+   "short": "HCL Beiuș nr. 201/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 201/2026 privind încheierea unui Acord de parteneriat în scopul implementării proiectului ” Îmbunătățirea calității serviciilor oferite de administrațiile publice locale din județul Bihor, prin soluții digitale inovatoare ”",
+   "url": "https://emol.ro/beius-bh/registru-hcl/292399",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/110668/Anex%C4%83%20la%20HCL%20201.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--beius-209-2026",
+   "path": "local/bihor/beius/2026/209",
+   "short": "HCL Beiuș nr. 209/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 209/2026 privind aprobarea preluării în proprietatea Municipiului Beiuș şi înscrierea în domeniul public, a imobilului situat în strada Burgundia Mică, nr. 16, ap.2, precum si clasificarea acesteia ca locuință socială",
+   "url": "https://emol.ro/beius-bh/registru-hcl/295953",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/112853/Anexa%201%20%C8%99i%202%20%20la%20HCL%20209.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--beius-210-2026",
+   "path": "local/bihor/beius/2026/210",
+   "short": "HCL Beiuș nr. 210/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 210/2026 privind aprobarea modificării statului de funcţii al aparatului de specialitate al primarului municipiului Beius si al institutiilor subordonate, cu incadrarea in numărul de posturi stabilit de Instituția Prefectului Județul Bihor",
+   "url": "https://emol.ro/beius-bh/registru-hcl/295954",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/112854/Anexa%20la%20HCL%20210.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--beius-211-2026",
+   "path": "local/bihor/beius/2026/211",
+   "short": "HCL Beiuș nr. 211/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 211/2026 privind aprobarea încheierii unui contract de prestări servicii având ca obiect recoltarea exemplarelor din specia de faună sălbatică din perimetrul intravilan al municipiului Beiuș",
+   "url": "https://emol.ro/beius-bh/registru-hcl/295955",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/112855/Anexa%20la%20HCL%20211.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--beius-212-2026",
+   "path": "local/bihor/beius/2026/212",
+   "short": "HCL Beiuș nr. 212/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 212/2026 privind aprobarea modificării elementelor de identificare ale unor imobile din inventarul domeniului public atestat prin H.G nr.931/2008 pentru modificarea și completarea H.G 970/2002 – Anexa nr. 5 – Spital staționar II - poziția 175",
+   "url": "https://emol.ro/beius-bh/registru-hcl/295956",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/112856/Anexa%20la%20HCL%20212.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--beius-213-2026",
+   "path": "local/bihor/beius/2026/213",
+   "short": "HCL Beiuș nr. 213/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 213/2026 privind aprobarea modificării art.1 alin.2, alin.3 și a anexei la H.C.L nr. 97 din 28.05.2026, privind aprobarea dării în folosință gratuită a imobilului cu numărul cadastral 107042, CF 107042 Beiuș, proprietatea publică a Municipiului Beiuș, situat în Municipiul Beiuș, strada Garofiței, nr. 14 către Parohia Ortodoxă Română Beiuș IV",
+   "url": "https://emol.ro/beius-bh/registru-hcl/295957",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/112858/Anexa%20la%20HCL%20213.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--beius-214-2026",
+   "path": "local/bihor/beius/2026/214",
+   "short": "HCL Beiuș nr. 214/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 214/2026 privind aprobarea rectificării bugetului local si a bugetului activitatilor finantate integral/partial din venituri proprii pe anul 2026",
+   "url": "https://emol.ro/beius-bh/registru-hcl/295958",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/112859/Anexa%20la%20HCL%20214.pdf",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

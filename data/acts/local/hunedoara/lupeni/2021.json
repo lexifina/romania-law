@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/lupeni/2021",
+"acts": [
+{
+"slug": "hcl-hunedoara--lupeni-130-2021",
+"path": "local/hunedoara/lupeni/2021/130",
+"kind": "local",
+"year": "2021",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 130/2021 privind aprobare Regulament de organizare functionare SPCLEP.pdf",
+"short": "HCL Lupeni nr. 130/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-11-29",
+"latest": "2021-11-29",
+"portal": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2021-00003be2?OpenDocument",
+"council": "hunedoara/lupeni",
+"council_name": "Consiliul Local al Municipiului Lupeni",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-hunedoara--lupeni-147-2021",
+"path": "local/hunedoara/lupeni/2021/147",
+"kind": "local",
+"year": "2021",
+"number": "147",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 147/2021 privind aprobarea Regulamentului pentru accesul turistilor si al mijloacelor de transport în Statiunea Tu.pdf",
+"short": "HCL Lupeni nr. 147/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-12-15",
+"latest": "2021-12-15",
+"portal": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2021-00003be2?OpenDocument",
+"council": "hunedoara/lupeni",
+"council_name": "Consiliul Local al Municipiului Lupeni",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

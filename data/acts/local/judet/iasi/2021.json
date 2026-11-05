@@ -1,0 +1,183 @@
+{
+"country": "RO",
+"shard": "local/judet/iasi/2021",
+"acts": [
+{
+"slug": "hcj-iasi-55-2021",
+"path": "local/judet/iasi/2021/55",
+"kind": "local",
+"year": "2021",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 55/2021 privind aprobarea Regulamentului de organizare și desfășurare a evaluării managementului instituțiilor publice de cultură din subordinea Consiliului Județean Iași Tags:",
+"short": "HCJ Iași nr. 55/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-02-24",
+"latest": "2021-02-24",
+"portal": "http://www.icc.ro/ro/hotarari/2021/2021-02-24/hot%C4%83r%C3%A2rea-nr-55",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-iasi-219-2021",
+"path": "local/judet/iasi/2021/219",
+"kind": "local",
+"year": "2021",
+"number": "219",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 219/2021 privind aprobarea Regulamentului serviciului public de transport persoane prin curse regulate în județul Iași, Caietului de sarcini al serviciului public de transport pers",
+"short": "HCJ Iași nr. 219/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-07-21",
+"latest": "2021-07-21",
+"portal": "https://www.icc.ro/ro/hotarari/2021/2021-07-21/hot%C4%83r%C3%A2rea-nr-219",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-iasi-251-2021",
+"path": "local/judet/iasi/2021/251",
+"kind": "local",
+"year": "2021",
+"number": "251",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 251/2021 pentru modificarea Hotărârii Consiliului Județean Iași nr. 127/18.03.2020 privind aprobarea Regulamentului de organizare și desfășurare a Programului de Internship al C",
+"short": "HCJ Iași nr. 251/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-08-25",
+"latest": "2021-08-25",
+"portal": "https://www.icc.ro/ro/hotarari/2021/2021-08-25/hot%C4%83r%C3%A2rea-nr-251",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-iasi-350-2021",
+"path": "local/judet/iasi/2021/350",
+"kind": "local",
+"year": "2021",
+"number": "350",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 350/2021 privind aprobarea taxei de participare la cursurile din cadrul Programelor de formare „Managementul procesului de incluziune școlară a elevilor cu cerințe educaționale",
+"short": "HCJ Iași nr. 350/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-24",
+"latest": "2021-11-24",
+"portal": "https://www.icc.ro/ro/hotarari/2021/2021-11-24/hot%C4%83r%C3%A2rea-nr-350",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-iasi-400-2021",
+"path": "local/judet/iasi/2021/400",
+"kind": "local",
+"year": "2021",
+"number": "400",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 400/2021 privind tarifele de închiere pentru spațiile și terenurile aflate în domeniul public al Județului Iași, pentru anul 2022 Tags: hotărâre hotărâri hotărâri 2021 22.12",
+"short": "HCJ Iași nr. 400/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-22",
+"latest": "2021-12-22",
+"portal": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-400",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-iasi-401-2021",
+"path": "local/judet/iasi/2021/401",
+"kind": "local",
+"year": "2021",
+"number": "401",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 401/2021 privind taxele, taxele speciale și tarifele pentru anul 2022 Tags: hotărâre hotărâri hotărâri 2021 22.12.2021 Creat de icc la Mie, 29/12/2021 - 10:17 Ultima actua",
+"short": "HCJ Iași nr. 401/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-12-22",
+"latest": "2021-12-22",
+"portal": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-401",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-iasi-407-2021",
+"path": "local/judet/iasi/2021/407",
+"kind": "local",
+"year": "2021",
+"number": "407",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 407/2021",
+"short": "HCJ Iași nr. 407/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-22",
+"latest": "2021-12-22",
+"portal": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-407",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-iasi-408-2021",
+"path": "local/judet/iasi/2021/408",
+"kind": "local",
+"year": "2021",
+"number": "408",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 408/2021 privind aprobarea taxelor de participare la cursurile organizate de către Școala Populară de Arte “Titel Popovici” Iași, pentru anul 2022 Tags: hotărâre hotărâri hot",
+"short": "HCJ Iași nr. 408/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-22",
+"latest": "2021-12-22",
+"portal": "https://www.icc.ro/ro/hotarari/2021/2021-12-22/hot%C4%83r%C3%A2rea-nr-408",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

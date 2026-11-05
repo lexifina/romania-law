@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/covasna/2023",
+"acts": [
+{
+"slug": "hcj-covasna-177-2023",
+"path": "local/judet/covasna/2023/177",
+"kind": "local",
+"year": "2023",
+"number": "177",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Covasna nr. 177/2023 pentru modificarea și completarea anexei la Hotărârea Consiliului Județean Covasna nr. 189/2022 cu privire la stabilirea prețurilor medii ale produselor agricole pentru anul fiscal 2023, în vederea stabilirii venitului net din cedarea folosinței bunurilor, conform art. 83 și 84 din Legea nr. 227/2015 privind Codul fiscal",
+"short": "HCJ Covasna nr. 177/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-10-27",
+"latest": "2023-10-27",
+"portal": "https://www.cjcv.ro/ro/hotarari-nr-157-182-octombrie-2023.html",
+"council": "judet/covasna",
+"council_name": "Consiliul Județean Covasna",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

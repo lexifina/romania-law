@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/bistrita-nasaud/bistrita/2022",
+ "acts": [
+  {
+   "slug": "hcl-bistrita-nasaud--bistrita-119-2022",
+   "path": "local/bistrita-nasaud/bistrita/2022/119",
+   "short": "HCL Bistrița nr. 119/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Bistrița nr. 119/2022",
+   "url": "https://primariabistrita.ro/wp-content/uploads/2025/12/Hotararea-119-din-26.05.2022-1.pdf",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://primariabistrita.ro/wp-content/uploads/2025/12/Hotararea-119-din-26.05.2022-1.pdf",
+     "sha256": "c031d9bf8726f0391bf14e0e372bb8f2f0e9debcb19c805340232a9855dbef7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--bistrita-223-2022",
+   "path": "local/bistrita-nasaud/bistrita/2022/223",
+   "short": "HCL Bistrița nr. 223/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Bistrița nr. 223/2022",
+   "url": "https://primariabistrita.ro/wp-content/uploads/2025/12/Hotararea-223-din-27.10.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://primariabistrita.ro/wp-content/uploads/2025/12/Hotararea-223-din-27.10.2022.pdf",
+     "sha256": "c6b914bfe8d6c884e4d6605eb8edbde75ad484a611a7e0b8651cdcb9ec597db5"
+    }
+   ]
+  }
+ ]
+}

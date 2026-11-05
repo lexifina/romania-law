@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/dorohoi/2020",
+ "acts": [
+  {
+   "slug": "hcl-botosani--dorohoi-100-2020",
+   "path": "local/botosani/dorohoi/2020/100",
+   "short": "HCL Dorohoi nr. 100/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 100/2020 pentru Situații de Urgență Botoșani",
+   "url": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=4000&Itemid=1147",
+   "versions": [
+    {
+     "from": "2020-11-07",
+     "units": 1,
+     "source_url": "https://www.primariadorohoi.ro/files/2020/ALEGERI%20PARLAMENTARE%202020/MODEL%20CERERE.pdf",
+     "sha256": "e29f1874f32dd5891ac993ae984e712fde6cb3e8063364054e097d673de90e3b"
+    }
+   ]
+  }
+ ]
+}

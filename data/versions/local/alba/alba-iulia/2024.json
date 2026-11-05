@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/alba/alba-iulia/2024",
+ "acts": [
+  {
+   "slug": "hcl-alba--alba-iulia-469-2024",
+   "path": "local/alba/alba-iulia/2024/469",
+   "short": "HCL Alba Iulia nr. 469/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 469/2024 privind constituirea Structurii Comunitare Consultative și aprobarea Regulamentului de organizare și funcționare al Structurii Comunitare Consultative a Municipiului Alba Iulia, în domeniul problemelor sociale care privesc copiii din municipiul Alba Iulia",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/184906",
+   "versions": [
+    {
+     "from": "2025-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/62960/anexa%20.pdf",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

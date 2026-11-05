@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/judet/botosani/2026",
+"acts": [
+{
+"slug": "hcj-botosani-58-2026",
+"path": "local/judet/botosani/2026/58",
+"kind": "local",
+"year": "2026",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 58/2026 privind însușirea Planului Strategic al Autorității Teritoriale de Ordine Publică Botoșani pe anul 2026",
+"short": "HCJ Botoșani nr. 58/2026",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2026-03-26",
+"latest": "2026-03-26",
+"portal": "https://www.cjbotosani.ro/wp-content/uploads/2026/06/HOTARARE-PLAN-STRATEGIC-ATOP-2026.pdf",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-botosani-136-2026",
+"path": "local/judet/botosani/2026/136",
+"kind": "local",
+"year": "2026",
+"number": "136",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 136/2026 privind unele măsuri pentru protecția ariilor naturale protejate de interes județean, a arborilor monumente ale naturii, a florei și faunei sălbatice",
+"short": "HCJ Botoșani nr. 136/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-07-28",
+"latest": "2026-07-28",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/alte-documente/informari-proiecte-de-hotarari-cu-caracter-normativ/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-138-2026",
+"path": "local/judet/botosani/2026/138",
+"kind": "local",
+"year": "2026",
+"number": "138",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 138/2026 privind aprobarea tarifelor practicate de Centrul Cultural Botosani pentru serviciile prestate",
+"short": "HCJ Botoșani nr. 138/2026",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2026-07-28",
+"latest": "2026-07-28",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/alte-documente/informari-proiecte-de-hotarari-cu-caracter-normativ/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

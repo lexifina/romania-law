@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/lupeni/2019",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--lupeni-13-2019",
+   "path": "local/hunedoara/lupeni/2019/13",
+   "short": "HCL Lupeni nr. 13/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 13/2019 pentru modificarea Hotărârii Consiliului Local nr. 59/2018 privind aprobarea documentului Politica de Parcare ”Linie verde de autobuze electrice între Petrila-Petroșani-Aninoasa-Vulcan-Lupeni-Uricani Green Line Valea Jiului” hotărârea a fost aprobată prin vot liber exprimat cu unanimitate de voturi CONSILIUL LOCAL AL MUNICIPIULUI LUPENI, Având în vedere Proiectul de hotărâre nr. 22/ 14.02.2019 și",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-02-14",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/08FEBE83035BD5F2C225872C0038E911/$FILE/HCL-13_14-FEBRUARIE-2019-modificare-politica-de-parcari.doc.pdf",
+     "sha256": "8d5b3d878947c3457df54c292dece3593dd91626a58e8b439a034fde442aa338"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-3-2019",
+   "path": "local/hunedoara/lupeni/2019/3",
+   "short": "HCL Lupeni nr. 3/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 3/2019 pentru aprobarea prelungirii termenului de valabilitate al Planului Urbanistic General al Municipiului Lupeni, până la intrarea în vigoare a noului Plan Urbanistic General, dar fără a se depăși data de 31 decembrie 2023 hotărârea a fost aprobată prin vot liber exprimat cu unanimitate de voturi Consiliul local al Municipiului Lupeni; Având în vedere Proiectul de hotărâre nr. 4/ 2019 și Expunerea de",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/F14246457876EF52C225872C0038E2EA/$FILE/HCL-3_31-IANUARIE-2019-prelungire-valabilitate-PUG.doc.pdf",
+     "sha256": "2e89ea137038e36a382adf6c507a259b7d698da0ca0184ec2ed8c9b45d3afa9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-47-2019",
+   "path": "local/hunedoara/lupeni/2019/47",
+   "short": "HCL Lupeni nr. 47/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 47/2019 privind indexarea impozitelor şi taxelor locale pentru anul 2020.doc HCL 49_25 APRILIE 2019_ privind aprobarea contului de încheiere a exerciţiului bugetar pe anul 2018.doc HCL 50_25 APRILIE 2019_ privind aprobarea programului acțiunilor culturale, științifice, artistice, sportive și de agrement HCL 51_25 APRILIE 2019_ privind aprobarea programului de acţiuni şi lucrări publice de interes local HC",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-04-17",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/31BFD675F109DD2BC225872C0038F43C/$FILE/HCL-47_25-APRILIE-2019_privind-aprobarea-bugetului-local-pe-anul-2019.pdf",
+     "sha256": "c2c2cdb1df92692038de6bc3ae1efee471a9bf61e38d367d4dd784516db6dda2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-54-2019",
+   "path": "local/hunedoara/lupeni/2019/54",
+   "short": "HCL Lupeni nr. 54/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 54/2019 privind indexarea impozitelor şi taxelor locale pentru anul 2020.doc HCL 49_25 APRILIE 2019_ privind aprobarea contului de încheiere a exerciţiului bugetar pe anul 2018.doc HCL 50_25 APRILIE 2019_ privind aprobarea programului acțiunilor culturale, științifice, artistice, sportive și de agrement HCL 51_25 APRILIE 2019_ privind aprobarea programului de acţiuni şi lucrări publice de interes local HC",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/EAA063565842804CC225872C0038F6DE/$FILE/HCL-54_25-APRILIE-2019_-prelungire-contract-ANL.pdf",
+     "sha256": "e0778cf38042143b5cda4c2a59a5606913a336b8bc11ac1607718a34627e5a96"
+    }
+   ]
+  }
+ ]
+}

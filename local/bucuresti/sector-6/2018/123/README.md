@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Sectorului 6 nr. 123/2018
+
+HCLS6 nr. 123/2018 · 1 versions, from 2018-06-28 (latest in force: 2018-06-28) · <https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-executarii-lucrarilor-de-interventii-de-urgenta-pentru-repararea-deficientelor-din-carosabil-si-lucrarilor-de-semnalizare-rutiera-pe-orizontala-si-pe-verticala-de-catre-sectorul-6-al-municipiului-bucuresti-prin-administratia>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcls6-123-2018` (tags `hcls6-123-2018/<day>`; `python tools/on.py <day> hcls6-123-2018`).
+
+## Decisions made by hand
+
+- HCLS6 nr. 123/2018: listed from Consiliul Local al Sectorului 6 (www.primarie6.ro); an individual decision: metadata only.
+- HCLS6 nr. 123/2018: dated from 28 June 2018, the day it was adopted (the register gives no later day of publication).
+- HCLS6 nr. 123/2018: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

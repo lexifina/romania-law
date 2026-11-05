@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/judet/buzau/2021",
+"acts": [
+{
+"slug": "hcj-buzau-70-2021",
+"path": "local/judet/buzau/2021/70",
+"kind": "local",
+"year": "2021",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Buzău nr. 70/2021 privind stabilirea taxelor și tarifelor de nivel județean pentru anul 2021",
+"short": "HCJ Buzău nr. 70/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-04-29",
+"latest": "2021-04-29",
+"portal": "http://cjbuzau.ro/hotarari-cj-2021/",
+"council": "judet/buzau",
+"council_name": "Consiliul Județean Buzău",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-buzau-144-2021",
+"path": "local/judet/buzau/2021/144",
+"kind": "local",
+"year": "2021",
+"number": "144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Buzău nr. 144/2021 privind stabilirea taxelor și tarifelor de nivel județean pentru anul 2021",
+"short": "HCJ Buzău nr. 144/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-08-03",
+"latest": "2021-08-03",
+"portal": "http://cjbuzau.ro/hotarari-cj-2021/",
+"council": "judet/buzau",
+"council_name": "Consiliul Județean Buzău",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-buzau-224-2021",
+"path": "local/judet/buzau/2021/224",
+"kind": "local",
+"year": "2021",
+"number": "224",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Buzău nr. 224/2021 pentru aprobarea modificării tarifelor de călătorie la bilete și abonamente pe traseul cod 064 Buzău Autogara XXL – Vernești - Berca pe care efectuează transport rutier public județean de persoane prin curse regulate operatorul de transport SC DUBLU G SRL",
+"short": "HCJ Buzău nr. 224/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-11",
+"latest": "2021-11-11",
+"portal": "http://cjbuzau.ro/hotarari-cj-2021/",
+"council": "judet/buzau",
+"council_name": "Consiliul Județean Buzău",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-buzau-225-2021",
+"path": "local/judet/buzau/2021/225",
+"kind": "local",
+"year": "2021",
+"number": "225",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Buzău nr. 225/2021 pentru aprobarea modificării tarifelor de călătorie la bilete și abonamente pe traseele cod 010 Buzău Autogara Sud – Mărgineanu, cod 014 Buzău Autogara Sud – Gherăseni, cod 016 Buzău Autogara Sud – Bălaia, cod 026 Buzău Autogara Sud – Pogoanele – Rușețu, cod 028 Buzău Autogara Sud – Padina, cod 080 Buzău Autogara Sud – Vintileanca pe care efectuează transport rutier public județean de persoane pri",
+"short": "HCJ Buzău nr. 225/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-11",
+"latest": "2021-11-11",
+"portal": "http://cjbuzau.ro/hotarari-cj-2021/",
+"council": "judet/buzau",
+"council_name": "Consiliul Județean Buzău",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

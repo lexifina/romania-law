@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/deva/2025",
+"acts": [
+{
+"slug": "hcl-hunedoara--deva-549-2025",
+"path": "local/hunedoara/deva/2025/549",
+"kind": "local",
+"year": "2025",
+"number": "549",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Deva nr. 549/2025 privind Stabilirea impozitelor și taxelor locale, precum și a taxelor speciale pentru anul2026 în Municipiul Deva",
+"short": "HCL Deva nr. 549/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87",
+"council": "hunedoara/deva",
+"council_name": "Consiliul Local al Municipiului Deva",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

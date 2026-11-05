@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/cluj/2024",
+"acts": [
+{
+"slug": "hcj-cluj-63-2024",
+"path": "local/judet/cluj/2024/63",
+"kind": "local",
+"year": "2024",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Cluj nr. 63/2024 privind introducerea restricțiilor de circulație pe unele sectoare ale Drumurilor județene 107R, 191D, 161J, 108C 107T",
+"short": "HCJ Cluj nr. 63/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-03-28",
+"latest": "2024-03-28",
+"portal": "https://cjcluj.ro/hotarare-cjc/2024/03",
+"council": "judet/cluj",
+"council_name": "Consiliul Județean Cluj",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

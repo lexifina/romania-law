@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/salonta/2023",
+ "acts": [
+  {
+   "slug": "hcl-bihor--salonta-180-2023",
+   "path": "local/bihor/salonta/2023/180",
+   "short": "HCL Salonta nr. 180/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 180/2023 privind aprobarea planului de amplasament și delimitare a imobilului pentru formarea a trei numere cadastrale în vederea relocării rețelei de curent electric ce traversează amplasamente situate în Zona Puskin propuse pentru realizare de investiții Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea planului de amplasament și delimitare a imobilului pentru f",
+   "url": "https://salonta.net/ro/hotarari-republicate/",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.180-PAD-retea-curent-zona-Puskin.pdf",
+     "sha256": "0ba5bcca52e612e9650cab3ebc5f3f3deb078b2b4f10c90ddb17b335f1e23b56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-192-2023",
+   "path": "local/bihor/salonta/2023/192",
+   "short": "HCL Salonta nr. 192/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 192/2023",
+   "url": "https://salonta.net/ro/hotarari-republicate/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.192-republicare-Reg.-Complex-Muzeal.pdf",
+     "sha256": "dd1088dfe902fcf9ff913c63dda8cb81a5a127f0d3ce8d5299b1f85345c6c4e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-227-2023",
+   "path": "local/bihor/salonta/2023/227",
+   "short": "HCL Salonta nr. 227/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 227/2023",
+   "url": "https://salonta.net/ro/hotarari-republicate/",
+   "versions": [
+    {
+     "from": "2023-11-03",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl.227-R-hcl-226-1-1.pdf",
+     "sha256": "c38c60a45d2e73b7068b95193fcbdddbd4c57b805f61de038bf4bd08649eb763"
+    }
+   ]
+  }
+ ]
+}

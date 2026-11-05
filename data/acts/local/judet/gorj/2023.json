@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/judet/gorj/2023",
+"acts": [
+{
+"slug": "hcj-gorj-58-2023",
+"path": "local/judet/gorj/2023/58",
+"kind": "local",
+"year": "2023",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Gorj nr. 58/2023 privind aprobarea tarifelor de călătorie, practicate de către operatorul de transport rutier câștigător în cadrul procedurii de atribuire a Contractelor de delegare a serviciului de transport public judeţean de persoane – Programului de transport public județean de persoane prin curse regul",
+"short": "HCJ Gorj nr. 58/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-02-03",
+"latest": "2023-02-03",
+"portal": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "judet/gorj",
+"council_name": "Consiliul Județean Gorj",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-gorj-78-2023",
+"path": "local/judet/gorj/2023/78",
+"kind": "local",
+"year": "2023",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Gorj nr. 78/2023 privind aprobarea tarifelor de călătorie, practicate de către operatorii de transport rutier câștigători în cadrul procedurii de atribuire a Contractelor de delegare a serviciului de transport public judeţean de persoane – Programului de transport public județean de persoane prin curse regu",
+"short": "HCJ Gorj nr. 78/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-02-27",
+"latest": "2023-02-27",
+"portal": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "judet/gorj",
+"council_name": "Consiliul Județean Gorj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-gorj-101-2023",
+"path": "local/judet/gorj/2023/101",
+"kind": "local",
+"year": "2023",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Gorj nr. 101/2023 privind aprobarea tarifelor de călătorie, practicate de către operatorii de transport rutier căștigători în cadrul procedurii de atribuire a Contractelor de delegare a serviciului de transport public judeţean de persoane – Programului de transport public județean de persoane prin curse regu",
+"short": "HCJ Gorj nr. 101/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-03-27",
+"latest": "2023-03-27",
+"portal": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "judet/gorj",
+"council_name": "Consiliul Județean Gorj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-gorj-152-2023",
+"path": "local/judet/gorj/2023/152",
+"kind": "local",
+"year": "2023",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Gorj nr. 152/2023 privind aprobarea Regulamentului pentru controlul circulației autovehiculelor cu depășiri de greutate / gabarit, constatarea contravențiilor și aplicarea sancțiunilor pentru nerespectarea prevederilor Ordonanței Guvernului nr. 43/1997 privind regimul drumurilor, republicată, cu modificările și completările ulterioare, pe drumurile județene din județul Gorj, precum și pentru aprobarea formei procesului verbal de constatare și sancționare a contravențiilor",
+"short": "HCJ Gorj nr. 152/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-29",
+"latest": "2023-05-29",
+"portal": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "judet/gorj",
+"council_name": "Consiliul Județean Gorj",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-gorj-280-2023",
+"path": "local/judet/gorj/2023/280",
+"kind": "local",
+"year": "2023",
+"number": "280",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Gorj nr. 280/2023 privind aprobarea unor taxe şi tarife pentru anul fiscal 2024, la nivelul Judeţului Gorj",
+"short": "HCJ Gorj nr. 280/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "judet/gorj",
+"council_name": "Consiliul Județean Gorj",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

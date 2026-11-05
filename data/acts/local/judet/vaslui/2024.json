@@ -1,0 +1,206 @@
+{
+"country": "RO",
+"shard": "local/judet/vaslui/2024",
+"acts": [
+{
+"slug": "hcj-vaslui-54-2024",
+"path": "local/judet/vaslui/2024/54",
+"kind": "local",
+"year": "2024",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 54/2024 pentru modificarea anexei la Hotărârea Consiliului Județean Vaslui nr.20/2021 privind aprobarea Regulamentului cuprinzând măsurile metodologice, organizatorice, termenele și circulația proiectelor de hotărâri care se supun adoptării Consiliului Județean Vaslui, cu modificările și completările ulterioare 01 martie",
+"short": "HCJ Vaslui nr. 54/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-28",
+"latest": "2024-02-28",
+"portal": "https://cjvs.eu/hotarari-2024/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-vaslui-55-2024",
+"path": "local/judet/vaslui/2024/55",
+"kind": "local",
+"year": "2024",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 55/2024 privind aprobarea înlocuirii unui membru al Autorității Teritoriale de Ordine Publică Vaslui 01 martie",
+"short": "HCJ Vaslui nr. 55/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-02-28",
+"latest": "2024-02-28",
+"portal": "https://cjvs.eu/hotarari-2024/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-vaslui-65-2024",
+"path": "local/judet/vaslui/2024/65",
+"kind": "local",
+"year": "2024",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 65/2024 privind aprobarea atribuirii a două licenţe de traseu și a tarifelor pentru efectuarea serviciului public de transport de persoane prin curse regulate 25 martie",
+"short": "HCJ Vaslui nr. 65/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-03-25",
+"latest": "2024-03-25",
+"portal": "https://cjvs.eu/hotarari-2024/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-vaslui-84-2024",
+"path": "local/judet/vaslui/2024/84",
+"kind": "local",
+"year": "2024",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 84/2024 privind aprobarea Metodologiei de evaluare și selecție a propunerilor de proiecte depuse în cadrul Programului județean pentru finanțarea nerambursabilă a activităților nonprofit de interes județean, precum și a Ghidurilor Solicitantului pentru domeniile cultură, culte, social, activități de tineret și sport 30 aprilie",
+"short": "HCJ Vaslui nr. 84/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-04-26",
+"latest": "2024-04-26",
+"portal": "https://cjvs.eu/hotarari-2024/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-vaslui-123-2024",
+"path": "local/judet/vaslui/2024/123",
+"kind": "local",
+"year": "2024",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 123/2024 privind aprobarea atribuirii a cinci licenţe de traseu și a tarifelor pentru efectuarea serviciului public de transport de persoane prin curse regulate 01 august",
+"short": "HCJ Vaslui nr. 123/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-07-31",
+"latest": "2024-07-31",
+"portal": "https://cjvs.eu/hotarari-2024/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-vaslui-147-2024",
+"path": "local/judet/vaslui/2024/147",
+"kind": "local",
+"year": "2024",
+"number": "147",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 147/2024 privind aprobarea înființării Locuinței Maxim Protejate pentru Persoane Adulte cu Dizabilități (LMP) Vutcani prin reorganizarea Centrului de Abilitare și Reabilitare Vutcani (CAbR) din cadrul Complexului de Servicii pentru Persoane Adulte cu Dizabilități Mălăești-Vutcani, din structura Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Vaslui, precum și a Regulamentului de organizare ș",
+"short": "HCJ Vaslui nr. 147/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-09-30",
+"latest": "2024-09-30",
+"portal": "https://cjvs.eu/hotarari-2024/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-vaslui-152-2024",
+"path": "local/judet/vaslui/2024/152",
+"kind": "local",
+"year": "2024",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 152/2024 privind aprobarea atribuirii a două licenţe de traseu și a tarifelor pentru efectuarea serviciului public de transport de persoane prin curse regulate 01 octombrie",
+"short": "HCJ Vaslui nr. 152/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-09-30",
+"latest": "2024-09-30",
+"portal": "https://cjvs.eu/hotarari-2024/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-vaslui-197-2024",
+"path": "local/judet/vaslui/2024/197",
+"kind": "local",
+"year": "2024",
+"number": "197",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 197/2024",
+"short": "HCJ Vaslui nr. 197/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://cjvs.eu/hotarari-2024/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-vaslui-198-2024",
+"path": "local/judet/vaslui/2024/198",
+"kind": "local",
+"year": "2024",
+"number": "198",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 198/2024",
+"short": "HCJ Vaslui nr. 198/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://cjvs.eu/hotarari-2024/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+}
+]
+}

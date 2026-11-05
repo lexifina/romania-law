@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/suceava/campulung-moldovenesc/2022",
+"acts": [
+{
+"slug": "hcl-suceava--campulung-moldovenesc-153-2022",
+"path": "local/suceava/campulung-moldovenesc/2022/153",
+"kind": "local",
+"year": "2022",
+"number": "153",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 153/2022 pentru modificarea și completarea Regulamentului de organizare, exploatare și atribuire a locurilor de parcare în parcările de domiciliu din Municipiul Câmpulung Moldovenesc, aprobat prin Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 164 din 28.11.2017 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 27 decembrie 2022; Având în",
+"short": "HCL Câmpulung Moldovenesc nr. 153/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-27",
+"latest": "2022-12-27",
+"portal": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2022",
+"council": "suceava/campulung-moldovenesc",
+"council_name": "Consiliul Local al Municipiului Câmpulung Moldovenesc",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-suceava--campulung-moldovenesc-165-2022",
+"path": "local/suceava/campulung-moldovenesc/2022/165",
+"kind": "local",
+"year": "2022",
+"number": "165",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 165/2022 privind aprobarea Planului anual de evoluție a tarifelor revizuit, conform rezultatelor Analizei Cost-Beneficiu revizuită în baza HG 379/2020, pentru Proiectul regional ”Dezvoltarea infrastructurii de apă și apă uzată din județul Suceava, în perioada 2014 - 2020” și mandatarea reprezentantului UAT municipiul Câmpulung Moldovenesc să susțină și să voteze în Adunarea Generală a Asociației Județene p",
+"short": "HCL Câmpulung Moldovenesc nr. 165/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-12-27",
+"latest": "2022-12-27",
+"portal": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2022",
+"council": "suceava/campulung-moldovenesc",
+"council_name": "Consiliul Local al Municipiului Câmpulung Moldovenesc",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

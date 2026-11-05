@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/vaslui/2026",
+"acts": [
+{
+"slug": "hcj-vaslui-13-2026",
+"path": "local/judet/vaslui/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 13/2026 pentru aprobarea actualizării Planului de evoluție a tarifului pentru utilizatorii non-casnici din cadrul proiectului ”Sistem Integrat de Management al Deșeurilor Solide în Județul Vaslui”, cod SMIS 106400 03 februarie",
+"short": "HCJ Vaslui nr. 13/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-30",
+"latest": "2026-01-30",
+"portal": "https://cjvs.eu/hotarari-2026/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

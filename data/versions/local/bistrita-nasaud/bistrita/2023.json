@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bistrita-nasaud/bistrita/2023",
+ "acts": [
+  {
+   "slug": "hcl-bistrita-nasaud--bistrita-173-2023",
+   "path": "local/bistrita-nasaud/bistrita/2023/173",
+   "short": "HCL Bistrița nr. 173/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Bistrița nr. 173/2023",
+   "url": "https://primariabistrita.ro/monitorul-oficial-local/documente-si-informatii-financiare/datoria-publica-locala/hotarari-ale-comisiei-de-autorizare-a-imprumuturilor-locale/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://primariabistrita.ro/wp-content/uploads/2025/12/HCL-nr.173-din-28.09.2023-redistribuire-sume-nr.3-intre-obiective-de-investitiiimprumut-BT.pdf",
+     "sha256": "1ba44f8c4ba5224ebe449f79bddfb6816b5a58a6f09554ae886eff698c868d24"
+    }
+   ]
+  }
+ ]
+}

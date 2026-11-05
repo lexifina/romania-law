@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/judet/gorj/2020",
+"acts": [
+{
+"slug": "hcj-gorj-76-2020",
+"path": "local/judet/gorj/2020/76",
+"kind": "local",
+"year": "2020",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Gorj nr. 76/2020 pentru modificarea Hotărârii Consiliului Județean Gorj nr. 85/30.11.2010 privind aprobarea Regulamentului pentru acordarea titlului “GORJEANUL ANULUI” și a distincțiilor conferite unor personalități cu merite deosebite, cu modificările și completările ulterioare",
+"short": "HCJ Gorj nr. 76/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-06-24",
+"latest": "2020-06-24",
+"portal": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "judet/gorj",
+"council_name": "Consiliul Județean Gorj",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-gorj-138-2020",
+"path": "local/judet/gorj/2020/138",
+"kind": "local",
+"year": "2020",
+"number": "138",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Gorj nr. 138/2020 privind aprobarea Contractului-cadru de delegare a gestiunii serviciului public rutier de transport persoane prin curse regulate în județul Gorj, Regulamentului pentru efectuarea serviciului public de transport persoane prin curse regulate în județul Gorj și a Caietului de sarcini aferent a",
+"short": "HCJ Gorj nr. 138/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-09-30",
+"latest": "2020-09-30",
+"portal": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "judet/gorj",
+"council_name": "Consiliul Județean Gorj",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-gorj-179-2020",
+"path": "local/judet/gorj/2020/179",
+"kind": "local",
+"year": "2020",
+"number": "179",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Gorj nr. 179/2020 privind aprobarea unor taxe și tarife pentru anul fiscal 2022, la nivelul Județului Gorj",
+"short": "HCJ Gorj nr. 179/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-18",
+"latest": "2020-12-18",
+"portal": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "judet/gorj",
+"council_name": "Consiliul Județean Gorj",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/bihor/beius/2022",
+"acts": [
+{
+"slug": "hcl-bihor--beius-368-2022",
+"path": "local/bihor/beius/2022/368",
+"kind": "local",
+"year": "2022",
+"number": "368",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 368/2022 privind aprobarea modificării Actului Constitutiv al Ocolului Silvic Codrii Beiuşului R.A",
+"short": "HCL Beiuș nr. 368/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-29",
+"latest": "2022-12-29",
+"portal": "https://emol.ro/beius-bh/registru-hcl/84766",
+"council": "bihor/beius",
+"council_name": "Consiliul Local al Municipiului Beiuș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--beius-371-2022",
+"path": "local/bihor/beius/2022/371",
+"kind": "local",
+"year": "2022",
+"number": "371",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 371/2022 privind aprobarea Planului de investiții al SC Compania de Apă Oradea SA – sucursala Beiuș ( rectificat ) pe anul 2022",
+"short": "HCL Beiuș nr. 371/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-29",
+"latest": "2022-12-29",
+"portal": "https://emol.ro/beius-bh/registru-hcl/84769",
+"council": "bihor/beius",
+"council_name": "Consiliul Local al Municipiului Beiuș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--beius-372-2022",
+"path": "local/bihor/beius/2022/372",
+"kind": "local",
+"year": "2022",
+"number": "372",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 372/2022 privind aprobarea modificării Articolului 1 din HCL nr.351/13.12.2022 privind aprobarea modificării organigramei si a statului de funcţii al aparatului de specialitate al primarului municipiului Beius si al institutiilor subordonate, cu incadrarea in numărul de posturi stabilit de Instituția Prefectului Județul Bihor,",
+"short": "HCL Beiuș nr. 372/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-29",
+"latest": "2022-12-29",
+"portal": "https://emol.ro/beius-bh/registru-hcl/84770",
+"council": "bihor/beius",
+"council_name": "Consiliul Local al Municipiului Beiuș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--beius-374-2022",
+"path": "local/bihor/beius/2022/374",
+"kind": "local",
+"year": "2022",
+"number": "374",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 374/2022 privind actualizarea Regulamentului de acordare a materialului lemnos către populația municipiului Beiuș",
+"short": "HCL Beiuș nr. 374/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-29",
+"latest": "2022-12-29",
+"portal": "https://emol.ro/beius-bh/registru-hcl/84772",
+"council": "bihor/beius",
+"council_name": "Consiliul Local al Municipiului Beiuș",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/bacau/bacau/2008",
+"acts": [
+{
+"slug": "hcl-bacau--bacau-1-2008",
+"path": "local/bacau/bacau/2008/1",
+"kind": "local",
+"year": "2008",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 1/2008 pentru modificarea și completarea Deciziei nr. 497/20.12.1990, a Primăriei Municipiului Bacău, privind atribuirea în folosință pe durata existenței construcției a suprafeței de 2.500 m.p. teren, situat în municipiul Bacău str. Triumfului, în vederea construirii unui lăcaș de cult al Parohiei ortodoxe Șerbănești Hotărâre nr. 3/ 30.01.2008 privind aprobarea încheierii Actului Adițional nr. 3, la con",
+"short": "HCL Bacău nr. 1/2008",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2008-01-30",
+"latest": "2008-01-30",
+"portal": "https://municipiulbacau.ro/monitorul-oficial-local/arhiva-hotararilor-consiliului-local-bacau/",
+"council": "bacau/bacau",
+"council_name": "Consiliul Local al Municipiului Bacău",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/vaslui/2021",
+ "acts": [
+  {
+   "slug": "hcj-vaslui-20-2021",
+   "path": "local/judet/vaslui/2021/20",
+   "short": "HCJ Vaslui nr. 20/2021",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 20/2021 privind aprobarea Regulamentului cuprinzând măsurile metodologice, organizatorice, termenele și circulația proiectelor de hotărâri care se supun adoptării Consiliului Județean Vaslui 27 ianuarie",
+   "url": "https://cjvs.eu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-01-25",
+     "units": 1,
+     "source_url": "http://vechi.cjvs.eu/downloads/hotarari/2021/HotarareaNr20_2021.pdf",
+     "sha256": "4322cb277bbca16d0837befc948f362ae6c08693309e59266d607a748a2e1761"
+    }
+   ]
+  }
+ ]
+}

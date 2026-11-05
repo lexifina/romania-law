@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/judet/cluj/2022",
+"acts": [
+{
+"slug": "hcj-cluj-128-2022",
+"path": "local/judet/cluj/2022/128",
+"kind": "local",
+"year": "2022",
+"number": "128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Cluj nr. 128/2022 privind introducerea unor restricții de circulație pe drumul județean DJ 172F, sectorul de drum km 13+640 (intersecția cu DJ 161D) – km 23+340 (limita județ Bistrița-Năsăud)",
+"short": "HCJ Cluj nr. 128/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-06-30",
+"latest": "2022-06-30",
+"portal": "https://cjcluj.ro/hotarare-cjc/2022/06",
+"council": "judet/cluj",
+"council_name": "Consiliul Județean Cluj",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-cluj-146-2022",
+"path": "local/judet/cluj/2022/146",
+"kind": "local",
+"year": "2022",
+"number": "146",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Cluj nr. 146/2022 privind aprobarea tarifelor serviciului public de operare a Centrului de Management Integrat al Deșeurilor Cluj-Napoca",
+"short": "HCJ Cluj nr. 146/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-07-27",
+"latest": "2022-07-27",
+"portal": "https://cjcluj.ro/hotarare-cjc/2022/07",
+"council": "judet/cluj",
+"council_name": "Consiliul Județean Cluj",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-cluj-163-2022",
+"path": "local/judet/cluj/2022/163",
+"kind": "local",
+"year": "2022",
+"number": "163",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Cluj nr. 163/2022 privind aprobarea tarifelor pentru servicii oferite utilizatorilor de către Muzeul Memorial ”Octavian Goga”",
+"short": "HCJ Cluj nr. 163/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-09-29",
+"latest": "2022-09-29",
+"portal": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-163-29-septembrie-2022-privind-aprobarea-tarifelor-pentru-servicii-oferite-utilizatorilor-de-catre-muzeul-memorial-octavian-goga/",
+"council": "judet/cluj",
+"council_name": "Consiliul Județean Cluj",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

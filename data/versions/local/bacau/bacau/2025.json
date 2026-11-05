@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/bacau/2025",
+ "acts": [
+  {
+   "slug": "hcl-bacau--bacau-487-2025",
+   "path": "local/bacau/bacau/2025/487",
+   "short": "HCL Bacău nr. 487/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 487/2025 pentru apr barea modificarii HCL nr.89 din 27.03.2025 privind aprobarea ugetului de venituri si cheltuieli si a rogra ului de investitii pe anul 2025, ale Consiliu i Local al Municipiului Bacau si a prognozei pe urmatorii trei ani, cu odificările i completările lterioare Consiliul Locał al Municipiului Bacău întrunit în edință extraordinară ła data de 31.10.2025 potrivit art. 133 alin. (2) lit. a)",
+   "url": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://municipiulbacau.ro/wp-content/uploads/2026/02/HCL-nr.-487-din-31.10.2025.pdf",
+     "sha256": "40f88a51f1e9f653005cec7b361f8ac516362662a58f0a0bbdaf30963853146d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--bacau-493-2025",
+   "path": "local/bacau/bacau/2025/493",
+   "short": "HCL Bacău nr. 493/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 493/2025 pentru modificarea HCL nr.89 din 27.03.2025 privind aprobarea Bugetului de venituri si cheltuieli si a Programului de investitii pe anul 2025, ale Consiliului Local al Munieipiului Bacau si a prognozei pe urmatorii trei ani, cu modificările i completările ułterioare Consiliuł Locał al Municipiului Bacău întrunit în edință extraordinară la data de 14.11.2025 potrivit art. 133 alin. (2) lit. a) din",
+   "url": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 1,
+     "source_url": "https://municipiulbacau.ro/wp-content/uploads/2026/02/HCL-nr.-493-din-14.11.2025.pdf",
+     "sha256": "b5b9a3db7a0ed8f4baabcccd5cc5eea5a4fa7cc7a8603746edf3e3b46111050a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--bacau-552-2025",
+   "path": "local/bacau/bacau/2025/552",
+   "short": "HCL Bacău nr. 552/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 552/2025 privind stabilirea taxei de salubrizare pentru anul 2026 in municipiul Bacău, cu îndreptarea erorii materiale strecurată în Anexa nr.1 la HCL nr.552/2025, făcută prin HCL nr.49 din 11.02.2026",
+   "url": "https://municipiulbacau.ro/monitorul-oficial-local/hotarari/",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://municipiulbacau.ro/wp-content/uploads/2026/02/HCL-nr.552-din-19.12.2025-cu-indreptare-eroare-materiala.pdf",
+     "sha256": "2dd7d864fc860b5e7537a009c5253f28d346ff5506cc9046024b65285711f087"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--bacau-556-2025",
+   "path": "local/bacau/bacau/2025/556",
+   "short": "HCL Bacău nr. 556/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 556/2025 privind aprobarea modificarii HCL nr. 89 din 27.03.2025 priviiid aprobarea Bugetułui de venituri si cheltuieli si a Programului de investitii pe anul 2025, ale Consiliułui Local al Municipiului Bacau si a prognozei pe urmatorii trei ani Consiliul Local al Municipiului Bacău întrunit în edință ordinară la data de 19.12.2025, potrivit art. 133 alin. (1) din Ordonanța de Urgență nr. 57/2019 privind C",
+   "url": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://municipiulbacau.ro/wp-content/uploads/2026/02/HCL-nr.556-din-19.12.2025.pdf",
+     "sha256": "5f4dbe9a0c634c08c23d2506270bf39a25c48b604226a715c676344c48ed9997"
+    }
+   ]
+  }
+ ]
+}

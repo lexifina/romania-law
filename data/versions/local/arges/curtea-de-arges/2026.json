@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/arges/curtea-de-arges/2026",
+ "acts": [
+  {
+   "slug": "hcl-arges--curtea-de-arges-18-2026",
+   "path": "local/arges/curtea-de-arges/2026/18",
+   "short": "HCL Curtea de Argeș nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Curtea de Argeș nr. 18/2026",
+   "url": "https://www.primariacurteadearges.ro/dm_ag_curteadearges/portalcda.nsf/AllByUNID/Hotarari+CJSU+privind+starea+de+alerta+si+potabilitatea+apei-00003862?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-06-28",
+     "units": 1,
+     "source_url": "https://www.primariacurteadearges.ro/dm_ag_curteadearges/portalcda.nsf/AllByUNID/4C36D2D0FB60B19FC2258E24005DE40B/$FILE/HCJSU%20nr.%2018%20din%2028.06.2026.pdf",
+     "sha256": "7720ecde16628031f6a6b98afbb60fa56c9499969013bdb2437404ed7d3716ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--curtea-de-arges-7-2026",
+   "path": "local/arges/curtea-de-arges/2026/7",
+   "short": "HCL Curtea de Argeș nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Curtea de Argeș nr. 7/2026 pentru Situatii de Urgenta privind prelungirea starii de alerta_Redacted f.pdf Descarcă",
+   "url": "https://www.primariacurteadearges.ro/dm_ag_curteadearges/portalcda.nsf/AllByUNID/Hotarari+CJSU+privind+starea+de+alerta+si+potabilitatea+apei-00003862?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://www.primariacurteadearges.ro/dm_ag_curteadearges/portalcda.nsf/AllByUNID/E743DA12B54805BEC2258DD9002A132F/$FILE/Hotarare%20nr.%207%20din%2008.04.2026%20a%20CJ%20pentru%20Situatii%20de%20Urgenta%20privind%20prelungirea%20starii%20de%20alerta_Redacted%20f.pdf",
+     "sha256": "3d973dc66df55ffceaf5d46d812142af7b46d16194c67e15ac53d89c7091e981"
+    }
+   ]
+  }
+ ]
+}

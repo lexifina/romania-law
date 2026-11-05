@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/bihor/salonta/2024",
+"acts": [
+{
+"slug": "hcl-bihor--salonta-73-2024",
+"path": "local/bihor/salonta/2024/73",
+"kind": "local",
+"year": "2024",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 73/2024 privind modificarea anexei nr. 1 la Hotărârea nr. 298/21.12.2022 privind însușirea propunerii de stemă a Municipiului Salonta",
+"short": "HCL Salonta nr. 73/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-28",
+"latest": "2024-03-28",
+"portal": "https://salonta.net/ro/hotarari-republicate/",
+"council": "bihor/salonta",
+"council_name": "Consiliul Local al Municipiului Salonta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--salonta-77-2024",
+"path": "local/bihor/salonta/2024/77",
+"kind": "local",
+"year": "2024",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 77/2024 privind „Aprobarea indicatorilor pentru finanțarea elaborării și actualizării Planului Urbanistic General și Regulamentului Local de Urbanism al Municipiului Salonta, jud. Bihor”",
+"short": "HCL Salonta nr. 77/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-03-28",
+"latest": "2024-03-28",
+"portal": "https://salonta.net/ro/hotarari-republicate/",
+"council": "bihor/salonta",
+"council_name": "Consiliul Local al Municipiului Salonta",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-bihor--salonta-103-2024",
+"path": "local/bihor/salonta/2024/103",
+"kind": "local",
+"year": "2024",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 103/2024 pentru obiectivul de investiții : “ AMENAJARE CORIDOR ALBASTRU ÎN MUNICIPIUL SALONTA”, Republicată prin HCLMS nr.146/31.07.2025 și prin HCLMS nr.189/25.09",
+"short": "HCL Salonta nr. 103/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-30",
+"latest": "2024-04-30",
+"portal": "https://salonta.net/ro/hotarari-republicate/",
+"council": "bihor/salonta",
+"council_name": "Consiliul Local al Municipiului Salonta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--salonta-140-2024",
+"path": "local/bihor/salonta/2024/140",
+"kind": "local",
+"year": "2024",
+"number": "140",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 140/2024 privind însușirea Contractului de Asistență Juridică nr. 36/08.07.2024",
+"short": "HCL Salonta nr. 140/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-16",
+"latest": "2024-07-16",
+"portal": "https://salonta.net/ro/hotarari-republicate/",
+"council": "bihor/salonta",
+"council_name": "Consiliul Local al Municipiului Salonta",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

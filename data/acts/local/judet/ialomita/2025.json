@@ -1,0 +1,51 @@
+{
+"country": "RO",
+"shard": "local/judet/ialomita/2025",
+"acts": [
+{
+"slug": "hcj-ialomita-122-2025",
+"path": "local/judet/ialomita/2025/122",
+"kind": "local",
+"year": "2025",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Ialomița nr. 122/2025 privind aprobarea Regulamentului privind vânzarea bunurilor imobile proprietate privată a Județului Ialomița PDF Anexă",
+"short": "HCJ Ialomița nr. 122/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-06-26",
+"latest": "2025-06-26",
+"portal": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+"council": "judet/ialomita",
+"council_name": "Consiliul Județean Ialomița",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-ialomita-166-2025",
+"path": "local/judet/ialomita/2025/166",
+"kind": "local",
+"year": "2025",
+"number": "166",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Ialomița nr. 166/2025",
+"short": "HCJ Ialomița nr. 166/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-09-25",
+"latest": "2025-09-25",
+"portal": null,
+"council": "judet/ialomita",
+"council_name": "Consiliul Județean Ialomița",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+}
+]
+}

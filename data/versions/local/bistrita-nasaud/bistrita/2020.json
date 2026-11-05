@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bistrita-nasaud/bistrita/2020",
+ "acts": [
+  {
+   "slug": "hcl-bistrita-nasaud--bistrita-20-2020",
+   "path": "local/bistrita-nasaud/bistrita/2020/20",
+   "short": "HCL Bistrița nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Bistrița nr. 20/2020 privind aprobarea contractării unei finanțări rambursabile interne necesare asigurării contribuției la proiectele finanțate prin fonduri structurale ale Uniunii Europene din perioada de programare 2014 – 2020 în valoare de 9.476.463 lei Consiliul local al municipiului Bistrița, întrunit în ședință ordinară în data de 30.01.2020, Având în vedere: Referatul de aprobare nr.4446/21.01.2020 a Primarulu",
+   "url": "https://primariabistrita.ro/monitorul-oficial-local/documente-si-informatii-financiare/datoria-publica-locala/hotarari-ale-comisiei-de-autorizare-a-imprumuturilor-locale/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://primariabistrita.ro/wp-content/uploads/2025/12/1.HCL-nr.-20-din-30.01.2020.pdf",
+     "sha256": "cde93f4cb8a9ca219c83305eb29bac8ceca7b9311259863d8d82e50e22d9451c"
+    }
+   ]
+  }
+ ]
+}

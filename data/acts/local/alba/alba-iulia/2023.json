@@ -1,0 +1,95 @@
+{
+"country": "RO",
+"shard": "local/alba/alba-iulia/2023",
+"acts": [
+{
+"slug": "hcl-alba--alba-iulia-513-2023",
+"path": "local/alba/alba-iulia/2023/513",
+"kind": "local",
+"year": "2023",
+"number": "513",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 513/2023 cu privire la actualizarea programului de transport public local de persoane pentru zona tarifară „zona 1 municipiul Alba Iulia”",
+"short": "HCL Alba Iulia nr. 513/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-15",
+"latest": "2024-01-15",
+"portal": "https://emol.ro/albaiulia-ab/registru-hcl/134635",
+"council": "alba/alba-iulia",
+"council_name": "Consiliul Local al Municipiului Alba Iulia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--alba-iulia-519-2023",
+"path": "local/alba/alba-iulia/2023/519",
+"kind": "local",
+"year": "2023",
+"number": "519",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 519/2023 privind STABILIREA CRITERIILOR DE ZONARE ȘI ÎNCADRARE A STRĂZILOR ȘI A UNOR IMOBILE SITUATE ÎN INTRAVILANUL MUNICIPIULUI ALBA IULIA ÎN ZONELE DE IMPOZITARE DELIMITATE",
+"short": "HCL Alba Iulia nr. 519/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-11",
+"latest": "2024-01-11",
+"portal": "https://emol.ro/albaiulia-ab/registru-hcl/134641",
+"council": "alba/alba-iulia",
+"council_name": "Consiliul Local al Municipiului Alba Iulia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--alba-iulia-523-2023",
+"path": "local/alba/alba-iulia/2023/523",
+"kind": "local",
+"year": "2023",
+"number": "523",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 523/2023",
+"short": "HCL Alba Iulia nr. 523/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-15",
+"latest": "2024-01-15",
+"portal": "https://emol.ro/albaiulia-ab/registru-hcl/134645",
+"council": "alba/alba-iulia",
+"council_name": "Consiliul Local al Municipiului Alba Iulia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--alba-iulia-525-2023",
+"path": "local/alba/alba-iulia/2023/525",
+"kind": "local",
+"year": "2023",
+"number": "525",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 525/2023 privind aprobarea transmiterii în administrarea Inspectoratului de Poliție Județean Alba a unui imobil (teren) aflat în domeniul public al municipiului Alba Iulia, situat în municipiul Alba Iulia, str.Ion Arion",
+"short": "HCL Alba Iulia nr. 525/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-15",
+"latest": "2024-01-15",
+"portal": "https://emol.ro/albaiulia-ab/registru-hcl/134647",
+"council": "alba/alba-iulia",
+"council_name": "Consiliul Local al Municipiului Alba Iulia",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -1,0 +1,726 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/salonta/2026",
+ "acts": [
+  {
+   "slug": "hcl-bihor--salonta-101-2026",
+   "path": "local/bihor/salonta/2026/101",
+   "short": "HCL Salonta nr. 101/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 101/2026 pentru emiterea autorizației de funcționare pentru desfășurarea jocurilor de noroc pe raza teritorială a UAT Salonta HCLMS nr. 103 din 28.05.2026 HCLMS nr",
+   "url": "https://salonta.net/ro/hotarari/28-mai-2026/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.101-PIEE-2026.pdf",
+     "sha256": "5bfb948329b5cb5f3653595b9998bec3626a2579194a3c695e888cc78b81a188"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-103-2026",
+   "path": "local/bihor/salonta/2026/103",
+   "short": "HCL Salonta nr. 103/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 103/2026 pentru emiterea autorizației de funcționare pentru desfășurarea jocurilor de noroc pe raza teritorială a UAT Salonta HCLMS nr. 103 din 28.05.2026 HCLMS nr",
+   "url": "https://salonta.net/ro/hotarari/28-mai-2026/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.103-abrogare-hcl-48-scutire-impozite-organizatii.pdf",
+     "sha256": "13ddae078b921a789a98e5eeaf7e6da9ca72200c3037d824fce1b638ffbb0d7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-104-2026",
+   "path": "local/bihor/salonta/2026/104",
+   "short": "HCL Salonta nr. 104/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 104/2026 pentru emiterea autorizației de funcționare pentru desfășurarea jocurilor de noroc pe raza teritorială a UAT Salonta",
+   "url": "https://salonta.net/ro/hotarari/28-mai-2026/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.104-Reg.act_.jocuri-de-noroc1.pdf",
+     "sha256": "888b2a4da8432cc32f4c5e9d4496bf81df47e9e99c5ac054f5495c90d61cbc11"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-105-2026",
+   "path": "local/bihor/salonta/2026/105",
+   "short": "HCL Salonta nr. 105/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 105/2026 pentru emiterea autorizației de funcționare pentru desfășurarea jocurilor de noroc pe raza teritorială a UAT Salonta HCLMS nr. 103 din 28.05.2026 HCLMS nr",
+   "url": "https://salonta.net/ro/hotarari/28-mai-2026/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.105-PAD-str.-Coposu.pdf",
+     "sha256": "010e08f304b6d2288ea75f110b8742637f7352aeceb8a8fded3b640e4ef4d177"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-106-2026",
+   "path": "local/bihor/salonta/2026/106",
+   "short": "HCL Salonta nr. 106/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 106/2026 pentru emiterea autorizației de funcționare pentru desfășurarea jocurilor de noroc pe raza teritorială a UAT Salonta HCLMS nr. 103 din 28.05.2026 HCLMS nr",
+   "url": "https://salonta.net/ro/hotarari/28-mai-2026/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.106-PAD-str.-Oradiei-Bratianu.pdf",
+     "sha256": "8cb7966a83f29e8aaf94b686e43cea79618bbbf08be1951f8cf09c39c1a30845"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-107-2026",
+   "path": "local/bihor/salonta/2026/107",
+   "short": "HCL Salonta nr. 107/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 107/2026 pentru emiterea autorizației de funcționare pentru desfășurarea jocurilor de noroc pe raza teritorială a UAT Salonta HCLMS nr. 103 din 28.05.2026 HCLMS nr",
+   "url": "https://salonta.net/ro/hotarari/28-mai-2026/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.107-UAT-Ciumeghiu.pdf",
+     "sha256": "5162d4bd619c112772b54bd2f883e4561f076199cd8f7d87df088cfc7ca7470d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-108-2026",
+   "path": "local/bihor/salonta/2026/108",
+   "short": "HCL Salonta nr. 108/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 108/2026 pentru emiterea autorizației de funcționare pentru desfășurarea jocurilor de noroc pe raza teritorială a UAT Salonta HCLMS nr. 103 din 28.05.2026 HCLMS nr",
+   "url": "https://salonta.net/ro/hotarari/28-mai-2026/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.108-UAT-Cefa.pdf",
+     "sha256": "f8a267493123e675a7ce2514f2e8570cb7e15a633e479ba3d0cd019d0cc59b1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-109-2026",
+   "path": "local/bihor/salonta/2026/109",
+   "short": "HCL Salonta nr. 109/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 109/2026 pentru emiterea autorizației de funcționare pentru desfășurarea jocurilor de noroc pe raza teritorială a UAT Salonta HCLMS nr. 103 din 28.05.2026 HCLMS nr",
+   "url": "https://salonta.net/ro/hotarari/28-mai-2026/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.109-retragere-angajament-invest.producere-energie-surse-reg.pdf",
+     "sha256": "c9ba39dadb4c049b42768e37e354dee30ab89370308c23a6025df047fc7290ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-110-2026",
+   "path": "local/bihor/salonta/2026/110",
+   "short": "HCL Salonta nr. 110/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 110/2026 pentru emiterea autorizației de funcționare pentru desfășurarea jocurilor de noroc pe raza teritorială a UAT Salonta HCLMS nr. 103 din 28.05.2026 HCLMS nr",
+   "url": "https://salonta.net/ro/hotarari/28-mai-2026/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.110-alegerea-presedintelui-de-sedinta.pdf",
+     "sha256": "c2d04e228f29f19f9db513db2d737f6ff8adad4daa1542312228ec3cd4b6b63a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-116-2026",
+   "path": "local/bihor/salonta/2026/116",
+   "short": "HCL Salonta nr. 116/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 116/2026 Privind însușirea Contractului de Asistență Juridică nr. 376004 din 05.06.2026 Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind însușirea Contractului de Asistență Juridică nr.376004 din 05.06.2026; • Reținând Referatul de aprobare nr.4294 din data de 15.06.2026 al Primarului Municipiului Salonta, în calitate de inițiator; • Analizând Raportul de specialitate nr.4",
+   "url": "https://salonta.net/ro/hotarari/23-iunie-2026/",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.116-ctr.jr_.-Doseanu.pdf",
+     "sha256": "bae769dd8db4cc2b5100398cfedf17cf7427e810cd42bf6082a16fbb004768e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-117-2026",
+   "path": "local/bihor/salonta/2026/117",
+   "short": "HCL Salonta nr. 117/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 117/2026",
+   "url": "https://salonta.net/ro/hotarari/23-iunie-2026/",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.117-dotari-scoli.pdf",
+     "sha256": "f4b7d22df1783efa7a3564fb9f68b39f761f3c05d78268153f970b52cffcaf79"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-118-2026",
+   "path": "local/bihor/salonta/2026/118",
+   "short": "HCL Salonta nr. 118/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 118/2026 Privind plângerea prealabilă nr.2399 din 20 mai 2026 împotriva Hotărârii Consiliului Local al Municipiului Salonta nr.62 din 17.04.2026 privind modificarea Statului de funcții și Organigramei al aparatului de specialitate al Primarului Municipiului Salonta în vederea încadrării în numărul maxim de posturi stabilit de Instituția Prefectului Bihor pentru Municipiul Salonta Consiliul Local al Municip",
+   "url": "https://salonta.net/ro/hotarari/23-iunie-2026/",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.118-plangere-prealabila-hcl.pdf",
+     "sha256": "0545876e3065e6c5e3d987eaca37863030ea470a45bbf6828b2d92242b464aab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-119-2026",
+   "path": "local/bihor/salonta/2026/119",
+   "short": "HCL Salonta nr. 119/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 119/2026 Privind acordarea unui mandat special Asociației de Dezvoltare Intercomunitară ECOLECT GROUP, prin Aparatul tehnic de specialitate și reprezentanții împuterniciți ai acesteia-specialiști în managementul deșeurilor, pentru exercitarea, în numele și pe seama Municipiului Salonta a activităților de: verificare tehnică, de monitorizare, prevenire, control, constatare a contravențiilor și de aplicare a",
+   "url": "https://salonta.net/ro/hotarari/23-iunie-2026/",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.119-mandat-ECOLECT.pdf",
+     "sha256": "fc73dfd3c95208477390d4a2ecf98ee0543b7edcf09ad3f1d69f9e14e9c1261d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-120-2026",
+   "path": "local/bihor/salonta/2026/120",
+   "short": "HCL Salonta nr. 120/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 120/2026",
+   "url": "https://salonta.net/ro/hotarari/23-iunie-2026/",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.120-L15_CZEGE.pdf",
+     "sha256": "c9ebe3b604d699d32ca4892cd6ac2478d82010d7447a57625ff5981e9f0775d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-121-2026",
+   "path": "local/bihor/salonta/2026/121",
+   "short": "HCL Salonta nr. 121/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 121/2026 Privind soluționarea cererii nr. 4941 din 29.10.2025 depusă de numita Varga Krisztina Julianna de atribuire a unui teren pentru construirea unei locuințe proprietate personală, în condițiile Legii nr. 15/2003, republicată cu modificările și completările ulterioare Consiliul Local al Municipiului Salonta, ; • Examinând proiectul de hotărâre privind soluționarea cererii nr. 4941 din 29.10.2025 depus",
+   "url": "https://salonta.net/ro/hotarari/23-iunie-2026/",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.121-L15_VARGA.pdf",
+     "sha256": "68cdd83d7e695e02e1b2580507615260c4b63efa6080b1be872a2baefe13a0ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-122-2026",
+   "path": "local/bihor/salonta/2026/122",
+   "short": "HCL Salonta nr. 122/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 122/2026",
+   "url": "https://salonta.net/ro/hotarari/23-iunie-2026/",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.122-L15_PASCUT.pdf",
+     "sha256": "19e90a2b466a3aa4b3a557a0597224f8b36acccbb0bb741bb8d89cedd0512fc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-123-2026",
+   "path": "local/bihor/salonta/2026/123",
+   "short": "HCL Salonta nr. 123/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 123/2026",
+   "url": "https://salonta.net/ro/hotarari/23-iunie-2026/",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.123-L15_CHIRITA.pdf",
+     "sha256": "5ff4043c02e7113dfc9939832fdf9153ffd306623bb5b6f75015a1e56d4709f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-124-2026",
+   "path": "local/bihor/salonta/2026/124",
+   "short": "HCL Salonta nr. 124/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 124/2026",
+   "url": "https://salonta.net/ro/hotarari/23-iunie-2026/",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.124-L15_SZENKO.pdf",
+     "sha256": "3a98fa09d9f1a55cc4a0647ec8d10716c69e2b62dc218e8903e3b18aa57feff4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-125-2026",
+   "path": "local/bihor/salonta/2026/125",
+   "short": "HCL Salonta nr. 125/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 125/2026 Privind aprobarea Protocolului de colaborare pentru gestionarea câinilor fără stăpân din UAT Comuna Gepiu Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotărâre privind aprobarea Protocolului de colaborare pentru gestionarea câinilor fără stăpân din UAT Comuna Gepiu;  Reținând Referatul de aprobare nr.3658 din 25.05.2025 al Primarului Municipiului Salonta, în calitate de iniți",
+   "url": "https://salonta.net/ro/hotarari/23-iunie-2026/",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.125-UAT-Gepiu.pdf",
+     "sha256": "8fa2a9556efa5e5460ad0f46c2e8d222d777fd0ead90541dd3ae53e2d2ad2653"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-126-2026",
+   "path": "local/bihor/salonta/2026/126",
+   "short": "HCL Salonta nr. 126/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 126/2026 Privind aprobarea PUZ – SCHIMBARE DE DESTINAȚIE DIN ZONĂ DE LOCUIT PRIN DEZVOLTAREA ZONEI COMERCIALE (SERVICII, ALIMENTAȚIE PUBLICĂ, PANOURI PUBLICITARE, TOTEM ȘI PARCARE), jud. Bihor, mun. Salonta, strada Aradului, nr. Cad. 115161, 115162, 114649 Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea PUZ – Schimbare de destinație din zonă de locuit prin dezvo",
+   "url": "https://salonta.net/ro/hotarari/23-iunie-2026/",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.126-PUZ_pepco.pdf",
+     "sha256": "b39d5f8ef6533ec9bb56ef2a819f14d09a636eafd17d4443934638110b01f0ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-127-2026",
+   "path": "local/bihor/salonta/2026/127",
+   "short": "HCL Salonta nr. 127/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 127/2026 Privind soluționarea cererii 4408/18.06.2026 a SC RE-GLASS SRL Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind soluționarea cererii 4408/18.06.2026 a SC RE-GLASS SRL; • Reținând Referatul de aprobare nr.4408 din data de 19.06.2026 al Primarului Municipiului Salonta, în calitate de inițiator; • Analizând Raportul de specialitate nr.4408 din data de 19.06.2026 înto",
+   "url": "https://salonta.net/ro/hotarari/23-iunie-2026/",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.127-cerere-RE-GLASS.pdf",
+     "sha256": "46d3e88c1f0b5ab54afc49f20369772ca4bf7ba2b9f02c21eae75c2f96ea8839"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-128-2026",
+   "path": "local/bihor/salonta/2026/128",
+   "short": "HCL Salonta nr. 128/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 128/2026 Privind aprobarea executării de lucrări pe domeniul public al Municipiului Salonta, aferente obiectivului de investiții: „ Extindere conductă distribuție gaze naturale presiune redusă str",
+   "url": "https://salonta.net/ro/hotarari/23-iunie-2026/",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.128-extindere-conducta-gaze-Olimpiadei.pdf",
+     "sha256": "db47371a84c91f1869d65312e6d3466f8bec51febabfb2db59eb7f4d77859e55"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-129-2026",
+   "path": "local/bihor/salonta/2026/129",
+   "short": "HCL Salonta nr. 129/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 129/2026 Privind aprobarea modalității de gestionare a activităților de măturat căi publice și servicii conexe precum și a activităților de deszăpezire și servicii conexe la obiectivele din domeniul public și domeniul privat al UAT Municipiul Salonta din cadrul serviciului de salubrizare a localității și aprobarea Regulamentului serviciului de salubrizare al Municipiului Salonta Consiliul Local al Municipi",
+   "url": "https://salonta.net/ro/hotarari/23-iunie-2026/",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.129-Regulament-servicii-salubrizare-1.pdf",
+     "sha256": "8371323d266037c25aab546a67a60422cd40a6118bca7a1255205c98630717d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-130-2026",
+   "path": "local/bihor/salonta/2026/130",
+   "short": "HCL Salonta nr. 130/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 130/2026 Privind aprobarea Normei interne referitoare la aplicarea prevederilor art. 31 din Legea nr. 98/2016 privind achizițiile publice în relația dintre Municipiul Salonta și Dezvoltarea și Administrarea Patrimoniului Salonta S.A",
+   "url": "https://salonta.net/ro/hotarari/23-iunie-2026/",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.130-Nota-interna-DAPS.pdf",
+     "sha256": "2408725a5cbb68bf7471da5dfc719bc6467413c7d24cd94da6efb6ee6b236e23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-131-2026",
+   "path": "local/bihor/salonta/2026/131",
+   "short": "HCL Salonta nr. 131/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 131/2026",
+   "url": "https://salonta.net/ro/hotarari/23-iunie-2026/",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.131-alegerea-presedintelui-de-sedinta.pdf",
+     "sha256": "2160dee6c00c3818e4c2b47cea7b797db530b948b5273e3975981f9b9898c7cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-133-2026",
+   "path": "local/bihor/salonta/2026/133",
+   "short": "HCL Salonta nr. 133/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 133/2026",
+   "url": "https://salonta.net/ro/hotarari/9-iulie-2026/",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://salonta.net/ro/hotarari/9-iulie-2026/",
+     "sha256": "2b05807ecd8f5363bfd588ecbe60838cf7bc354d009571cb78f67ba952e92f9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-134-2026",
+   "path": "local/bihor/salonta/2026/134",
+   "short": "HCL Salonta nr. 134/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 134/2026 Privind aprobarea procesului-verbal al ședinței ordinare a Consiliului Local al Municipiului Salonta din data de 23 iunie 2026 Consiliul Local al Municipiului Salonta, Având în vedere: 1. Procesul-verbal al ședinței ordinare a Consiliului Local al Municipiului Salonta din data de 23 iunie 2026, pus la dispoziția consilierilor locali spre consultare, 2",
+   "url": "https://salonta.net/ro/hotarari/9-iulie-2026/",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.134-p.v.sedinta-CLMS.pdf",
+     "sha256": "2c36c7577f8a55ccb3c8983c1686a350ca88cf774a64f80e801d1690e051547f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-135-2026",
+   "path": "local/bihor/salonta/2026/135",
+   "short": "HCL Salonta nr. 135/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 135/2026 Privind modificarea Statului de funcții al Aparatului de specialitate al Primarului Municipiului Salonta, prin transformarea unor funcții, conform Anexei 1 Anexei 1.1. si Anexei 1.2",
+   "url": "https://salonta.net/ro/hotarari/9-iulie-2026/",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.135_Stat-de-functii_asis.sociala.pdf",
+     "sha256": "661df7c8c6ea8344e6f6f085158bcc10979effedc0acd2ab8ca394fa08fc44a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-136-2026",
+   "path": "local/bihor/salonta/2026/136",
+   "short": "HCL Salonta nr. 136/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 136/2026",
+   "url": "https://salonta.net/ro/hotarari/9-iulie-2026/",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.136_Anexa-1-HCL-23-din-2018-coef.pdf",
+     "sha256": "91dbe8c24c7f07b927ac2c0ae25beed77104ea988ce1390436fe22d0406a08b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-137-2026",
+   "path": "local/bihor/salonta/2026/137",
+   "short": "HCL Salonta nr. 137/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 137/2026",
+   "url": "https://salonta.net/ro/hotarari/9-iulie-2026/",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.137-L15_VILIGA.pdf",
+     "sha256": "cb02505642262f48e16cf39816e5d1ea1c9469a0408fea3f63aef5b7ab5204d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-140-2026",
+   "path": "local/bihor/salonta/2026/140",
+   "short": "HCL Salonta nr. 140/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 140/2026 Privind aprobarea procesului-verbal al ședinței extraordinare a Consiliului Local al Municipiului Salonta din data de 09 IULIE 2026 Consiliul Local al Municipiului Salonta, Având în vedere: 1. Procesul-verbal al ședinței extraordinare a Consiliului Local al Municipiului Salonta din data de 09 iulie 2026, pus la dispoziția consilierilor locali spre consultare, 2",
+   "url": "https://salonta.net/ro/hotarari/30-iulie-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.140-p.v.sedinta-CLMS.pdf",
+     "sha256": "40ce0b12f845b64bb4195f83895f112c8344069054a8c27d75deca6cbe7c347c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-141-2026",
+   "path": "local/bihor/salonta/2026/141",
+   "short": "HCL Salonta nr. 141/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 141/2026 Privind înființarea a 3 linii de gardă: Obstetrică-Ginecologie, Neonatologie și ATI – gărzi la domiciliu, în cadrul Spitalului Municipal Salonta Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind înființarea a 3 linii de gardă: Obstetrică-Ginecologie, Neonatologie și ATI – gărzi la domiciliu, în cadrul Spitalului Municipal Salonta; • Reținând Referatul de aprobare n",
+   "url": "https://salonta.net/ro/hotarari/30-iulie-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.141_linii-garda-Spital.pdf",
+     "sha256": "d75b3a2140de080ca81d1b10bf79c46c2b3041f2b5522a92358d16cc8fd8de02"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-142-2026",
+   "path": "local/bihor/salonta/2026/142",
+   "short": "HCL Salonta nr. 142/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 142/2026 Privind aprobarea prelungirii Protocolului de colaborare cu serviciul specializat pentru gestionarea câinilor fără stăpân din unitatea administrativ teritorială Comuna Husasău de Tinca, pentru anul 2026 Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotărâre privind aprobarea prelungirii Protocolului de colaborare cu serviciul specializat pentru gestionarea câinilor fără stăpân",
+   "url": "https://salonta.net/ro/hotarari/30-iulie-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.142_Protocol-gestionarea-cainilor-fara-stapan-Husasau-de-Tinca.pdf",
+     "sha256": "476e4688aeabb87d5c137dc494f8a2130a071297f6f66d7b34e8718bd804a3ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-143-2026",
+   "path": "local/bihor/salonta/2026/143",
+   "short": "HCL Salonta nr. 143/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 143/2026 Pentru respingerea plângerii prealabile formulată de Compania Națională ”Loteria Română” SA împotriva Hotărârii Consiliului Local nr.104/28.05.2026 privind stabilirea condițiilor de organizare și desfășurare a activităților de jocuri de noroc în locații fizice și aprobarea Regulamentului pentru emiterea autorizației de funcționare pentru desfășurarea jocurilor de noroc pe raza teritorială a UAT Sa",
+   "url": "https://salonta.net/ro/hotarari/30-iulie-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.143_plangere-prealabila-Loteria.pdf",
+     "sha256": "1969c5467116977964571b3b5e81595d6f31d094a221fc09b236753dbc0d7437"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-144-2026",
+   "path": "local/bihor/salonta/2026/144",
+   "short": "HCL Salonta nr. 144/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 144/2026 Pentru emiterea autorizației de funcționare pentru activitatea de jocuri de noroc pe raza Municipiului Salonta pentru RED SEVENS SRL la punctul de lucru din Municipiul Salonta, str. Republicii, nr. 36, jud",
+   "url": "https://salonta.net/ro/hotarari/30-iulie-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.144_RED-SEVEN.pdf",
+     "sha256": "4c6712b9d4ba18407c7a1ee59b0401d6f0b47f36dd32ff1a3c88e75f7de821ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-145-2026",
+   "path": "local/bihor/salonta/2026/145",
+   "short": "HCL Salonta nr. 145/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 145/2026",
+   "url": "https://salonta.net/ro/hotarari/30-iulie-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.145_SUPERBET.pdf",
+     "sha256": "dc6bb857292fcfbc505dc349707395aeeebe14fc100e36cc3959230dc2bd0021"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-146-2026",
+   "path": "local/bihor/salonta/2026/146",
+   "short": "HCL Salonta nr. 146/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 146/2026 Privind rectificarea bugetului general consolidat al Municipiului Salonta pe anul 2026 Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind rectificarea bugetului general consolidat al Municipiului Salonta pe anul 2026; • Reținând Referatul de aprobare nr.5387 din data de 28.07.2026 al Primarului Municipiului Salonta, în calitate de inițiator; • Analizând Raportul de",
+   "url": "https://salonta.net/ro/hotarari/30-iulie-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.146_RECTIFICARE.pdf",
+     "sha256": "a8708f92c99a5bcd105bcd6c7f7be1f0d02054e56909475838c3a5e7888f850d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-147-2026",
+   "path": "local/bihor/salonta/2026/147",
+   "short": "HCL Salonta nr. 147/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 147/2026 Pentru pentru emiterea autorizației de funcționare pentru activitatea de jocuri de noroc pe raza Municipiului Salonta pentru RIVIERA GAMES SRL la punctul de lucru din Municipiul Salonta, str. Republicii, nr. 7, ap. 17A, jud",
+   "url": "https://salonta.net/ro/hotarari/30-iulie-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.147_RIVIERA-GAMES.pdf",
+     "sha256": "940cfc40f0af66054e562ef4274638b43f177a22811d13f4e54960e27052b7ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-148-2026",
+   "path": "local/bihor/salonta/2026/148",
+   "short": "HCL Salonta nr. 148/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 148/2026 Privind reactualizarea documentației tehnico-economice-faza Studiu de fezabilitate - obiectiv mixt de investiții pentru obiectivul de investiții: “CREȘTEREA CALITĂȚII SERVICIILOR MEDICALE ÎN SPITALUL MUNICIPAL SALONTA, PRIN REABILITAREA INFRASTRUCTURII EXISTENTE, EXTINDEREA PRIN CONSTRUIREA DE NOI FACILITĂȚI, MODERNIZAREA ȘI DOTAREA ACESTORA” aprobat inițial prin HCLMS nr. 247/30.12.2021, modifica",
+   "url": "https://salonta.net/ro/hotarari/30-iulie-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.148_SPITAL-indicatori_compressed.pdf",
+     "sha256": "21065a809ebdc8e5b0ced1542abd44318e0eb9c1826821fec584b549b7484ce6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-149-2026",
+   "path": "local/bihor/salonta/2026/149",
+   "short": "HCL Salonta nr. 149/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 149/2026 Privind aprobarea Raportului final al procedurii de selecție și desemnarea persoanelor selectate pentru numirea în funcția de membri ai Consiliului de administrație al Societății Dezvoltarea și Administrarea Patrimoniului Salonta S.A",
+   "url": "https://salonta.net/ro/hotarari/30-iulie-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.149_DAPS.pdf",
+     "sha256": "d1d1f6f337cc9875522ac9892567798f65d3a51e317a38b2b7544850d17b6b65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-150-2026",
+   "path": "local/bihor/salonta/2026/150",
+   "short": "HCL Salonta nr. 150/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 150/2026",
+   "url": "https://salonta.net/ro/hotarari/30-iulie-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.150-alegerea-presedintelui-de-sedinta.pdf",
+     "sha256": "1fe999fae141dc03273cfc780bd37f5fd1c51605e094359b253a2586e8b881f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-175-2026",
+   "path": "local/bihor/salonta/2026/175",
+   "short": "HCL Salonta nr. 175/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 175/2026 pentru reanalizarea HCL nr. 34/26.02.2026 și revocarea HCL nr. 73/30.04.2026 Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotărâre privind reanalizarea HCL nr.34/26.02.2026 și revocarea HCL nr.73/30.04.2026;  Reținând Referatul de aprobare nr. 6166/26/08/2026 al Primarului Municipiului Salonta, în calitate de inițiator;  Analizând Raportul de specialitate nr. 6167/26/08/2026",
+   "url": "https://salonta.net/ro/hotarari/27-august-2026/",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/Hot-175-reanalizare-HCL-3-si-revocare-HCL-73.pdf",
+     "sha256": "75c3c6dd9ed2ba5e23e265d73116879e9fb35220aff7c2481c0b4c2687882c1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-179-2026",
+   "path": "local/bihor/salonta/2026/179",
+   "short": "HCL Salonta nr. 179/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 179/2026 Privind aprobarea procesului-verbal al ședinței ordinare a Consiliului Local al Municipiului Salonta din data de 27 august 2026 Consiliul Local al Municipiului Salonta, Având în vedere: 1. Procesul-verbal al ședinței ordinare a Consiliului Local al Municipiului Salonta din data de 27 august 2026, pus la dispoziția consilierilor locali spre consultare, 2",
+   "url": "https://salonta.net/ro/hotarari/10-septembrie-2026/",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.179-p.v.sedinta-CLMS.pdf",
+     "sha256": "35f675f82302ad9fe36c5821674113e58fcd6db3a718e83d7a2e65c30382729b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-180-2026",
+   "path": "local/bihor/salonta/2026/180",
+   "short": "HCL Salonta nr. 180/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 180/2026 Privind rectificarea bugetului general consolidat al Municipiului Salonta pe anul 2026 Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind rectificarea bugetului general consolidat al Municipiului Salonta pe anul 2026; • Reținând Referatul de aprobare nr.6514 din data de 04.09.2026 al Primarului Municipiului Salonta, în calitate de inițiator; • Analizând Raportul de",
+   "url": "https://salonta.net/ro/hotarari/10-septembrie-2026/",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.180-rectificare_compressed1.pdf",
+     "sha256": "eedee0042d69f7a8b1c7f85d9147703ce5be82d70f5a802fd327118e0b8d7740"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-181-2026",
+   "path": "local/bihor/salonta/2026/181",
+   "short": "HCL Salonta nr. 181/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 181/2026 Privind aprobarea planului de amplasament și delimitare a imobilului pentru dezmembrarea terenului cu nr.cadastral 113045 cu suprafața măsurată de 33950mp în trei loturi și ieșirea din indiviziune Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea planului de amplasament și delimitare a imobilului pentru dezmembrarea terenului cu nr.cadastral 113045 cu sup",
+   "url": "https://salonta.net/ro/hotarari/10-septembrie-2026/",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.181-PAD-33950-dezmemb.-si-indiviziune.pdf",
+     "sha256": "600f4a2a4a80e2e7a0b1de27486aa98b4d9852c54297082f585bd5be8f5410e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-60-2026",
+   "path": "local/bihor/salonta/2026/60",
+   "short": "HCL Salonta nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 60/2026 pentru dezmembrarea terenului cu nr.cadastral 113081 cu suprafața măsurată de 624 mp în două loturi – Republicată prin HCLMS nr.74/30.04.2026",
+   "url": "https://salonta.net/ro/hotarari-republicate/",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.60-R-PAD-624mp_Coridor-albastru.pdf",
+     "sha256": "bcf6b3b99c20a1ed9efe50f827b1a3cef5592275a4cc61bc21c9200b4b01980e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-61-2026",
+   "path": "local/bihor/salonta/2026/61",
+   "short": "HCL Salonta nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 61/2026 privind aprobarea planului de amplasament și delimitare a imobilului pentru dezmembrarea terenului cu nr.cadastral 103155 cu suprafața de 561 mp în două loturi – Republicată prin HCLMS nr.75/30.04.2026",
+   "url": "https://salonta.net/ro/hotarari-republicate/",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.61-R-PAD-561mp_Coridor-albastru.pdf",
+     "sha256": "a309af48108d2bdadf1579a536b76380eb43db8c22fdfc2c47025d9e146d3a08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-99-2026",
+   "path": "local/bihor/salonta/2026/99",
+   "short": "HCL Salonta nr. 99/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 99/2026 pentru emiterea autorizației de funcționare pentru desfășurarea jocurilor de noroc pe raza teritorială a UAT Salonta HCLMS nr. 103 din 28.05.2026 HCLMS nr",
+   "url": "https://salonta.net/ro/hotarari/28-mai-2026/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.99-abrogare-hcl-55-terenuri-L15.pdf",
+     "sha256": "0ded260222c86360eebd06ccb20ce5263287fbc9ea5cd049418b51676bd76786"
+    }
+   ]
+  }
+ ]
+}

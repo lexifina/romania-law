@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/bacau/1996",
+ "acts": [
+  {
+   "slug": "hcl-bacau--bacau-1-1996",
+   "path": "local/bacau/bacau/1996/1",
+   "short": "HCL Bacău nr. 1/1996",
+   "title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 1/1996 privind aprobarea virărilor de credite pe anul 1995 la bugetul local",
+   "url": "https://municipiulbacau.ro/monitorul-oficial-local/arhiva-hotararilor-consiliului-local-bacau/",
+   "versions": [
+    {
+     "from": "1996-01-19",
+     "units": 1,
+     "source_url": "https://municipiulbacau.ro/wp-content/uploads/2024/04/liste-cu-hotarari-1996-.pdf",
+     "sha256": "38ef4935d701b8af68dae362d33dd699c46e7b11f155974598985ddff69af780"
+    }
+   ]
+  }
+ ]
+}

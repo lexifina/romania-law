@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/botosani/dorohoi/2011",
+"acts": [
+{
+"slug": "hcl-botosani--dorohoi-160-2011",
+"path": "local/botosani/dorohoi/2011/160",
+"kind": "local",
+"year": "2011",
+"number": "160",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 160/2011",
+"short": "HCL Dorohoi nr. 160/2011",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2011-01-03",
+"latest": "2011-01-03",
+"portal": null,
+"council": "botosani/dorohoi",
+"council_name": "Consiliul Local al Municipiului Dorohoi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

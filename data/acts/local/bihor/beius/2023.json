@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/bihor/beius/2023",
+"acts": [
+{
+"slug": "hcl-bihor--beius-310-2023",
+"path": "local/bihor/beius/2023/310",
+"kind": "local",
+"year": "2023",
+"number": "310",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 310/2023 privind aprobarea rectificării bugetului local, pe anul 2023",
+"short": "HCL Beiuș nr. 310/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/beius-bh/registru-hcl/132954",
+"council": "bihor/beius",
+"council_name": "Consiliul Local al Municipiului Beiuș",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

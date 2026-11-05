@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/covasna/2025",
+"acts": [
+{
+"slug": "hcj-covasna-216-2025",
+"path": "local/judet/covasna/2025/216",
+"kind": "local",
+"year": "2025",
+"number": "216",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Covasna nr. 216/2025 pentru modificarea anexelor nr. 1 și 2 la Hotărârea Consiliului Județean Covasna nr. 190/2022 privind aprobarea Regulamentului, a Caietului de sarcini al serviciului de transport public județean de persoane prin curse regulate în județul Covasna și a Documentației de atribuire a contractelor de delegare a gestiunii serviciului public de transport persoane în județul Covasna",
+"short": "HCJ Covasna nr. 216/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-10-23",
+"latest": "2025-10-23",
+"portal": "https://www.cjcv.ro/ro/hotarari-nr-205-218-octombrie-2025.html",
+"council": "judet/covasna",
+"council_name": "Consiliul Județean Covasna",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

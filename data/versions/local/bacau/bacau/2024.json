@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/bacau/2024",
+ "acts": [
+  {
+   "slug": "hcl-bacau--bacau-2-2024",
+   "path": "local/bacau/bacau/2024/2",
+   "short": "HCL Bacău nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 2/2024",
+   "url": "https://municipiulbacau.ro/monitorul-oficial-local/hotarari/",
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "units": 1,
+     "source_url": "https://municipiulbacau.ro/wp-content/uploads/2025/01/REGISTRU-DE-HOTARARI-ALE-CONSILIULUI-LOCAL-BACAU-MOL-2024-E-.pdf",
+     "sha256": "445f93cee23506796a07e79e57bf65a631be260d87168092a005141f972326dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--bacau-506-2024",
+   "path": "local/bacau/bacau/2024/506",
+   "short": "HCL Bacău nr. 506/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 506/2024 privind aprobarea",
+   "url": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://municipiulbacau.ro/wp-content/uploads/2025/01/Bugetul-local-pe-anul-2024-si-estimarile-pe-anii-2025-2027-HCL-506-20.12.2024.pdf",
+     "sha256": "d2ff0396d31c08b1817cb797f7f2ce91831dea3369c27a330c585e6cb98f9832"
+    }
+   ]
+  }
+ ]
+}

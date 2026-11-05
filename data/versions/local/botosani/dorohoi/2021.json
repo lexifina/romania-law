@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/dorohoi/2021",
+ "acts": [
+  {
+   "slug": "hcl-botosani--dorohoi-1-2021",
+   "path": "local/botosani/dorohoi/2021/1",
+   "short": "HCL Dorohoi nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 1/2021",
+   "url": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=4678:hotarare-clsu-nr-1-din-09102021&catid=213:2020-03-26-07-53-46&Itemid=1117",
+   "versions": [
+    {
+     "from": "2021-10-09",
+     "units": 1,
+     "source_url": "https://www.primariadorohoi.ro/files/2021/clsu/Hotar%C3%A2re%20CLSU%201%20din%2009_10_2021.pdf",
+     "sha256": "1e80aab23c5063f6c2be7388893d9769b93ffd10b2401ebcf32c7201d2e111be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--dorohoi-2-2021",
+   "path": "local/botosani/dorohoi/2021/2",
+   "short": "HCL Dorohoi nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 2/2021",
+   "url": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=4880:hotararea-clsu-nr2-din-01022022&catid=213:2020-03-26-07-53-46&Itemid=1117",
+   "versions": [
+    {
+     "from": "2021-10-23",
+     "units": 1,
+     "source_url": "https://www.primariadorohoi.ro/files/2021/clsu/Hotararea%20nr_2%20din23_10_2021%20a%20CLSU.pdf",
+     "sha256": "1116e726d96f4fa28a60fa7e39918954885d3dab27a2bb6bd23ddd350a9008d9"
+    }
+   ]
+  }
+ ]
+}

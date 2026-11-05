@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/constanta/2025",
+ "acts": [
+  {
+   "slug": "hcj-constanta-322-2025",
+   "path": "local/judet/constanta/2025/322",
+   "short": "HCJ Constanța nr. 322/2025",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 322/2025 privind stabilirea unor tarife, taxe si taxe speciale pe anul 2026, cu aplicabilitate de la 01.01.2026, va facem cunoscut ca incepand cu data de 01.01.2026 Consiliului Judetean Constanta emite acordurile prealabile si autorizatiile de acces privind realizarea sau amplasarea in zona drumurilor publice de interes judetean a cailor de acces, a oricaror constructii sau activitati comerciale, a panouri",
+   "url": "https://www.cjc.ro/sectiune.php?s=293",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/Hotarari/2025/322.pdf",
+     "sha256": "0b81af7b1557b98c5e0188ce5a157bd7a163538cb135f5bf00fa6289f5422d89"
+    }
+   ]
+  }
+ ]
+}

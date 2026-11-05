@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/bistrita-nasaud/bistrita/2021",
+ "acts": [
+  {
+   "slug": "hcl-bistrita-nasaud--bistrita-1-2021",
+   "path": "local/bistrita-nasaud/bistrita/2021/1",
+   "short": "HCL Bistrița nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Bistrița nr. 1/2021",
+   "url": "https://primariabistrita.ro/wp-content/uploads/2025/12/1.Hotararea-de-infiintare-a-centrului-165din-28.10.2021.pdf",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://primariabistrita.ro/wp-content/uploads/2025/12/1.Hotararea-de-infiintare-a-centrului-165din-28.10.2021.pdf",
+     "sha256": "a985eaf943ee814d083245da9e207ee992ce0b494caf47dd639f39e3d0484fa0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--bistrita-13-2021",
+   "path": "local/bistrita-nasaud/bistrita/2021/13",
+   "short": "HCL Bistrița nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Bistrița nr. 13/2021 privind aprobarea contractării unei finanțări rambursabile interne în valoare de 25.136.816 lei necesară suplimentării valorii aprobate prin Hotărârea nr.20/30.01.2020 a Consiliului local al municipiului Bistrița, pentru asigurarea contribuției la proiectele finanțate prin fonduri structurale ale Uniunii Europene din perioada de programare 2014 – 2020 Consiliul local al municipiului Bistrița, într",
+   "url": "https://primariabistrita.ro/monitorul-oficial-local/documente-si-informatii-financiare/datoria-publica-locala/hotarari-ale-comisiei-de-autorizare-a-imprumuturilor-locale/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariabistrita.ro/wp-content/uploads/2025/12/HCL-nr.13-din-28.01.2021-suplimentare-imprumut-bancar.pdf",
+     "sha256": "1960d17c6a282b37f842e0f885dd463483e00238d272f4b7ac6070161ae6343a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--bistrita-162-2021",
+   "path": "local/bistrita-nasaud/bistrita/2021/162",
+   "short": "HCL Bistrița nr. 162/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Bistrița nr. 162/2021",
+   "url": "https://primariabistrita.ro/monitorul-oficial-local/documente-si-informatii-financiare/datoria-publica-locala/hotarari-ale-comisiei-de-autorizare-a-imprumuturilor-locale/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://primariabistrita.ro/wp-content/uploads/2025/12/HCL-nr.162-din-28.11.2021-redistribuire-sume-nr.2-intre-obiective-de-investitii.imprumut-BTpdf.pdf",
+     "sha256": "65c9b8648de6d4f65069085bdfb970e3066ce6c2c15f646084791acd4ab7c3db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--bistrita-206-2021",
+   "path": "local/bistrita-nasaud/bistrita/2021/206",
+   "short": "HCL Bistrița nr. 206/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Bistrița nr. 206/2021",
+   "url": "https://primariabistrita.ro/wp-content/uploads/2025/11/HCL-nr.-206-din-21.12.2021.pdf",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://primariabistrita.ro/wp-content/uploads/2025/11/HCL-nr.-206-din-21.12.2021.pdf",
+     "sha256": "27b6cad8735ba98d39b22e9ecfeabc47f4557c87518712930f45111850e93ef8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--bistrita-207-2021",
+   "path": "local/bistrita-nasaud/bistrita/2021/207",
+   "short": "HCL Bistrița nr. 207/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Bistrița nr. 207/2021",
+   "url": "https://primariabistrita.ro/wp-content/uploads/2025/11/HCL-nr.-207-din-21.12.2021.pdf",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://primariabistrita.ro/wp-content/uploads/2025/11/HCL-nr.-207-din-21.12.2021.pdf",
+     "sha256": "38e3aa4afd33ec508800ff0a7d0c8f50724c46e06da20285f10aad3423bf48d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--bistrita-74-2021",
+   "path": "local/bistrita-nasaud/bistrita/2021/74",
+   "short": "HCL Bistrița nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Bistrița nr. 74/2021",
+   "url": "https://primariabistrita.ro/wp-content/uploads/2025/12/HCL-NR-74-DIN-27.05.2021-1-1.pdf",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://primariabistrita.ro/wp-content/uploads/2025/12/HCL-NR-74-DIN-27.05.2021-1-1.pdf",
+     "sha256": "6d01d6dfffae3d951ae1b12260d23f5cf49b863e8636edef584af759ac01b5ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--bistrita-94-2021",
+   "path": "local/bistrita-nasaud/bistrita/2021/94",
+   "short": "HCL Bistrița nr. 94/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Bistrița nr. 94/2021 privind modificarea Hotărârii Consiliului local al municipiului Bistrița nr.13/28.01.2021 privind aprobarea contractării unei finanțări rambursabile interne în valoare de 25.136.816 lei necesară suplimentării valorii aprobate prin Hotărârea nr.20/30.01.2020 a Consiliului local al municipiului Bistrița, pentru asigurarea contribuției la proiectele finanțate prin fonduri structurale ale Uniunii Euro",
+   "url": "https://primariabistrita.ro/monitorul-oficial-local/documente-si-informatii-financiare/datoria-publica-locala/hotarari-ale-comisiei-de-autorizare-a-imprumuturilor-locale/",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://primariabistrita.ro/wp-content/uploads/2025/12/HCL-nr.94-din-24.06.2021-redistribuire-sume-intre-ob.de-investitiiimprumut-BT.pdf",
+     "sha256": "6fce9a360c1fb0c6f1bf1d621b8a6aa0ea8528aa2bc1989d7090d1735604899d"
+    }
+   ]
+  }
+ ]
+}

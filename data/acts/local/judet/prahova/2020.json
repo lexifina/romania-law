@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/prahova/2020",
+"acts": [
+{
+"slug": "hcj-prahova-196-2020",
+"path": "local/judet/prahova/2020/196",
+"kind": "local",
+"year": "2020",
+"number": "196",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 196/2020 pentru modificarea Hotărârii nr. 81/2013 a Consiliului Județean Prahova privind înființarea pe lângă Direcția Generală de Asistență Socială și Protecția Copilului Prahova a Comitetului de analiză a problemelor persoanelor cu handicap și aprobarea Regulamentului",
+"short": "HCJ Prahova nr. 196/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2020/",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

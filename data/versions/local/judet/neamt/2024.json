@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/judet/neamt/2024",
+ "acts": [
+  {
+   "slug": "hcj-neamt-11-2024",
+   "path": "local/judet/neamt/2024/11",
+   "short": "HCJ Neamț nr. 11/2024",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 11/2024 privind acordarea unui mandat special în vederea stabilirii și aprobării tarifelor de salubrizare din Zona 4, Județul Neamț - Instituția Prefectului Persoanelor/autorităților interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2024/02/Consiliul-Judetean-Neamt-HCJ-nr.-11-din-31-ianuarie-2024.pdf",
+     "sha256": "058e5283eef3231e4494d080260ee8678f39afab47a60ebcfe2649067416f69b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-12-2024",
+   "path": "local/judet/neamt/2024/12",
+   "short": "HCJ Neamț nr. 12/2024",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 12/2024 privind acordarea unui mandat special în vederea ajustării tarifelor de salubrizare din Zona 4, Județul Neamț - Instituția Prefectului Persoanelor/autorităților interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2024/02/Consiliul-Judetean-Neamt-HCJ-nr.-12-din-31-ianuarie-2024.pdf",
+     "sha256": "b53452b879cb71ba4f6e05769b95654217f4972835f123b3936e0b5cc6a3e8d5"
+    }
+   ]
+  }
+ ]
+}

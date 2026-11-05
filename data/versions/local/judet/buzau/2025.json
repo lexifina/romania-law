@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/judet/buzau/2025",
+ "acts": [
+  {
+   "slug": "hcj-buzau-109-2025",
+   "path": "local/judet/buzau/2025/109",
+   "short": "HCJ Buzău nr. 109/2025",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 109/2025 pentru modificarea și completarea Hotărârii Consiliului Județean Buzău nr. 17/2025 privind aprobarea tarifelor/prețurilor pentru prestațiile Societății „Domenii Prest Serv” SRL Buzău în baza contractelor de delegare a gestiunii unor activități ale serviciului public de administrare a domeniului public și privat al județului Buzău, respectiv servicii de operare a deșeurilor din construcții și demol",
+   "url": "https://cjbuzau.ro/hotarari-cj-2025/",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2025/05/H-109.pdf",
+     "sha256": "0e213685e9f74aa3d000846ad6934b24b0ef427513b1a9e9295455e98f90b3cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-143-2025",
+   "path": "local/judet/buzau/2025/143",
+   "short": "HCJ Buzău nr. 143/2025",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 143/2025 privind aprobarea Normelor tehnice privind condițiile de proiectare și amplasare a construcțiilor, instalațiilor și a mijloacelor de publicitate în zona drumurilor de interes județean – forma actualizată",
+   "url": "https://cjbuzau.ro/hotarari-cj-2025/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2025/06/Hotararea-nr.143-din-2025.pdf",
+     "sha256": "468a920f7cc590d5a1643a0b68c398bb8e744ec40306d1ffb74685c3951c8679"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-17-2025",
+   "path": "local/judet/buzau/2025/17",
+   "short": "HCJ Buzău nr. 17/2025",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 17/2025 privind aprobarea tarifelor/prețurilor pentru prestațiile Societății „Domenii Prest Serv” SRL Buzău în baza contractelor de delegare a gestiunii unor activități ale serviciului public de administrare a domeniului public și privat al Județului Buzău, respectiv servicii de operare a deșeurilor din construcții și demolări pentru anul 2025 * Anexa completată prin Hotărârea nr 79 din 2025 * Anexa repub",
+   "url": "https://cjbuzau.ro/hotarari-cj-2025/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2025/01/Hotararea-nr.17-din-2025.pdf",
+     "sha256": "2de037901a638fcf3c75553f51565f3a2d7ee3db5386c3ac1686c8680a9d56cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-232-2025",
+   "path": "local/judet/buzau/2025/232",
+   "short": "HCJ Buzău nr. 232/2025",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 232/2025 privind stabilirea preţurilor medii ale produselor agricole şi a valorii masei verzi pe hectar pajişte pentru anul fiscal 2026 la nivelul Judeţului Buzău",
+   "url": "https://cjbuzau.ro/hotarari-cj-2025/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2025/11/Hotararea-nr.232-din-2025.pdf",
+     "sha256": "becfbe2b96453ef3624e4d1ad14aa6bf7f0f06c169367db771f855970adbc9f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-252-2025",
+   "path": "local/judet/buzau/2025/252",
+   "short": "HCJ Buzău nr. 252/2025",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 252/2025 privind stabilirea taxelor şi tarifelor de nivel județean pentru anul 2026 * Anexele nr.10 și 11 înlocuite cu Anexele nr.1 și 2 din Hotărârea nr.164 din 2026",
+   "url": "https://cjbuzau.ro/hotarari-cj-2025/",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2025/12/Hotararea-nr.252-din-2025.pdf",
+     "sha256": "f44d3459574dd2722303d095612f970ab6884a93fa797c01cb3cc4c1ea14f022"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-58-2025",
+   "path": "local/judet/buzau/2025/58",
+   "short": "HCJ Buzău nr. 58/2025",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 58/2025 privind aprobarea METODOLOGIEI de acordare a subvenţiilor de la bugetul Judeţului Buzău asociaţiilor şi fundaţiilor române cu personalitate juridică, care înfiinţează şi administrează unităţi de asistenţă socială, conform Legii nr. 34/1998 – formă revizuită și actualizată conform Hotărârii Guvernului nr. 1.259/09.10.2024 * Modificată prin Hotărârea nr.7 din 2026",
+   "url": "https://cjbuzau.ro/hotarari-cj-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2025/03/Hotararea-nr-58-din-2025.pdf",
+     "sha256": "05b455cf81634bcadb8cf34db2b1e941c8325404825b196475c0dfecd082ffb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-73-2025",
+   "path": "local/judet/buzau/2025/73",
+   "short": "HCJ Buzău nr. 73/2025",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 73/2025 privind însuşirea Planului Strategic al Autorităţii Teritoriale de Ordine Publică a Judeţului Buzău pentru anul 2025",
+   "url": "https://cjbuzau.ro/hotarari-cj-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2025/03/Hotararea-nr-73-din-2025.pdf",
+     "sha256": "0291d4987643893af78e2018fa359f05744d4879c6852dd71f0603a50f1f41f9"
+    }
+   ]
+  }
+ ]
+}

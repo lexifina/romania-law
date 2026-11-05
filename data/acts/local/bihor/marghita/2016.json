@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/bihor/marghita/2016",
+"acts": [
+{
+"slug": "hcl-bihor--marghita-12-2016",
+"path": "local/bihor/marghita/2016/12",
+"kind": "local",
+"year": "2016",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 12/2016 privind modificarea Regulamentului de vanzare a locuintelor de tip ANL aprobat prin HCL nr 12 din 26.01.2016",
+"short": "HCL Marghita nr. 12/2016",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2016-01-26",
+"latest": "2016-01-26",
+"portal": "https://marghita.ro/hotararile-c-l/2018/",
+"council": "bihor/marghita",
+"council_name": "Consiliul Local al Municipiului Marghita",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bihor--marghita-42-2016",
+"path": "local/bihor/marghita/2016/42",
+"kind": "local",
+"year": "2016",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 42/2016 pentru completarea HCL nr42-29.09.2016 privind stabilirea consumului lunar de carburanti pentru mijloacele aflate in dotarea parcului auto propriu din cadrul primariei mun. Marghita",
+"short": "HCL Marghita nr. 42/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-09-29",
+"latest": "2016-09-29",
+"portal": "https://marghita.ro/hotararile-c-l/2018/",
+"council": "bihor/marghita",
+"council_name": "Consiliul Local al Municipiului Marghita",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

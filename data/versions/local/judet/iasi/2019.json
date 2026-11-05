@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/judet/iasi/2019",
+ "acts": [
+  {
+   "slug": "hcj-iasi-116-2019",
+   "path": "local/judet/iasi/2019/116",
+   "short": "HCJ Iași nr. 116/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 116/2019 privind avizarea modificării Regulamentului APA VITAL a Serviciului de Alimentare cu Apă și de Canalizare și de acordare a mandatului special reprezentantului Județului Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-05-29/hot%C4%83r%C3%A2rea-nr-116",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-05-29/hot%C4%83r%C3%A2rea-nr-116",
+     "sha256": "7fbfce2108b87bf0da1da1bc429e1e0e9eb0f56996893fb339e5ca94d9aea00c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-256-2019",
+   "path": "local/judet/iasi/2019/256",
+   "short": "HCJ Iași nr. 256/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 256/2019 privind completarea Hotararii Consiliului Judetean Iasi nr. 34/19.02.2013 privind aprobarea tarifelor aplicate pentru inchirierea de spatii si mijloace utilizate in scop",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-08-21/hot%C4%83r%C3%A2rea-nr-256",
+   "versions": [
+    {
+     "from": "2019-08-21",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-08-21/hot%C4%83r%C3%A2rea-nr-256",
+     "sha256": "2149edc2c962b0c07b8f1491be935ba7ac407673330f4ea7facc5639704723f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-35-2019",
+   "path": "local/judet/iasi/2019/35",
+   "short": "HCJ Iași nr. 35/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 35/2019 privind aprobarea Planului Strategic ai Autorității Teritoriale de Ordine Publică Iași pentru anul 2019 Tags: hotărâre hotărâri hotărâri 2019 20.02.2019 Creat de icc",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-35",
+   "versions": [
+    {
+     "from": "2019-02-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-35",
+     "sha256": "13f11eb0424625b3f27242986d4dc5f3f45651149078e8cbc2edf9255c3b18f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-388-2019",
+   "path": "local/judet/iasi/2019/388",
+   "short": "HCJ Iași nr. 388/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 388/2019 privind tarifele pentru prestarea serviciilor de pază și protecție de către Direcția Județeană de Pază și Protecție Iași, pentru anul 2020. Tags: hotărâre hotărâri h",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-11-20/hot%C4%83r%C3%A2rea-nr-388",
+   "versions": [
+    {
+     "from": "2019-11-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-11-20/hot%C4%83r%C3%A2rea-nr-388",
+     "sha256": "a4083a2bf6f9d2ccce062108dd62daee5b16bcd34eb40424eb846c1a9a1ada78"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-389-2019",
+   "path": "local/judet/iasi/2019/389",
+   "short": "HCJ Iași nr. 389/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 389/2019",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-11-20/hot%C4%83r%C3%A2rea-nr-389",
+   "versions": [
+    {
+     "from": "2019-11-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-11-20/hot%C4%83r%C3%A2rea-nr-389",
+     "sha256": "3fe109c9a347ecefe5d9ceaa1ab6ef522fe27c7704d193c2fa2d766babe4f0f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-40-2019",
+   "path": "local/judet/iasi/2019/40",
+   "short": "HCJ Iași nr. 40/2019",
+   "title": "Hotărârea Consiliului Județean Iași nr. 40/2019 privind aprobarea Regulamentului de organizare și desfășurare a evaluării managementului instituțiilor publice de cultură din subordinea Consiliului Județean Iași Tags:",
+   "url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-40",
+   "versions": [
+    {
+     "from": "2019-02-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2019/2019-02-20/hot%C4%83r%C3%A2rea-nr-40",
+     "sha256": "03522ec53150762dc1c2a750d86ba3911bb42a8b803a1cdb86e2ccdc2e38ad0b"
+    }
+   ]
+  }
+ ]
+}

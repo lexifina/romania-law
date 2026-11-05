@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/arges/campulung/2023",
+"acts": [
+{
+"slug": "hcl-arges--campulung-72-2023",
+"path": "local/arges/campulung/2023/72",
+"kind": "local",
+"year": "2023",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 72/2023",
+"short": "HCL Câmpulung nr. 72/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-30",
+"latest": "2023-03-30",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/judet/botosani/2026",
+ "acts": [
+  {
+   "slug": "hcj-botosani-136-2026",
+   "path": "local/judet/botosani/2026/136",
+   "short": "HCJ Botoșani nr. 136/2026",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 136/2026 privind unele măsuri pentru protecția ariilor naturale protejate de interes județean, a arborilor monumente ale naturii, a florei și faunei sălbatice",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/alte-documente/informari-proiecte-de-hotarari-cu-caracter-normativ/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H136_20260728.pdf",
+     "sha256": "223765d45ed0974aabf6012d27daf590e11a45d1806de6017db94412d2a9b793"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-138-2026",
+   "path": "local/judet/botosani/2026/138",
+   "short": "HCJ Botoșani nr. 138/2026",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 138/2026 privind aprobarea tarifelor practicate de Centrul Cultural Botosani pentru serviciile prestate",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/alte-documente/informari-proiecte-de-hotarari-cu-caracter-normativ/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H138_20260728.pdf",
+     "sha256": "32d3ed9f5fed483a051e9c6be110d686fe39e83e787d048db88aa854ec487f9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-58-2026",
+   "path": "local/judet/botosani/2026/58",
+   "short": "HCJ Botoșani nr. 58/2026",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 58/2026 privind însușirea Planului Strategic al Autorității Teritoriale de Ordine Publică Botoșani pe anul 2026",
+   "url": "https://www.cjbotosani.ro/wp-content/uploads/2026/06/HOTARARE-PLAN-STRATEGIC-ATOP-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/wp-content/uploads/2026/06/HOTARARE-PLAN-STRATEGIC-ATOP-2026.pdf",
+     "sha256": "fc3011bffbd27c21114e8f237197950931c54c27fc3384f6f5b2b5bb8cb19bc3"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+"country": "RO",
+"shard": "local/judet/bihor/2024",
+"acts": [
+{
+"slug": "hcj-bihor-184-2024",
+"path": "local/judet/bihor/2024/184",
+"kind": "local",
+"year": "2024",
+"number": "184",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bihor nr. 184/2024 PRIVIND APROBAREA „HARTA STRATEGICĂ DE ZGOMOT DJ 797, KM 2+566 – KM 10+000”",
+"short": "HCJ Bihor nr. 184/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-07-30",
+"latest": "2024-07-30",
+"portal": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2024/",
+"council": "judet/bihor",
+"council_name": "Consiliul Județean Bihor",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-bihor-211-2024",
+"path": "local/judet/bihor/2024/211",
+"kind": "local",
+"year": "2024",
+"number": "211",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bihor nr. 211/2024 PRIVIND MODIFICAREA ȘI COMPLETAREA HOTĂRÂRII CONSILIULUI JUDEȚEAN BIHOR NR. 84/2023 PRIVIND APROBAREA TARIFELOR PRACTICATE DE OPERATORII DE TRANSPORT DECLARAȚI CÂȘTIGATORI AI PROCEDURII DE ATRIBUIRE A SERVICIULUI PUBLIC DE TRANSPORT JUDEȚEAN PRIN CURSE REGULATE LA",
+"short": "HCJ Bihor nr. 211/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-08-29",
+"latest": "2024-08-29",
+"portal": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2024/",
+"council": "judet/bihor",
+"council_name": "Consiliul Județean Bihor",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-bihor-263-2024",
+"path": "local/judet/bihor/2024/263",
+"kind": "local",
+"year": "2024",
+"number": "263",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bihor nr. 263/2024 privind instituirea unor restricții de circulație pe drumul județean DJ 797, de la km. 1+450 la km. 6+746, pentru autovehiculele rutiere de marfă care depășesc masa totală maximă autorizată de 10 tone",
+"short": "HCJ Bihor nr. 263/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-10-29",
+"latest": "2024-10-29",
+"portal": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2024/",
+"council": "judet/bihor",
+"council_name": "Consiliul Județean Bihor",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-bihor-317-2024",
+"path": "local/judet/bihor/2024/317",
+"kind": "local",
+"year": "2024",
+"number": "317",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bihor nr. 317/2024 PRIVIND IMPUNEREA UNEI OBLIGAȚII DE SERVICIU PUBLIC ÎN CEEA CE PRIVEȘTE SERVICIILE AERIENE REGULATE ÎNTRE AEROPORTUL DIN ORADEA ȘI AEROPORTUL DIN MÜNCHEN, CONFORM ART. 16 ȘI ART. 17 DIN REGULAMENTUL (CE) NR. 1008/2008",
+"short": "HCJ Bihor nr. 317/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-11-29",
+"latest": "2024-11-29",
+"portal": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2024/",
+"council": "judet/bihor",
+"council_name": "Consiliul Județean Bihor",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-bihor-342-2024",
+"path": "local/judet/bihor/2024/342",
+"kind": "local",
+"year": "2024",
+"number": "342",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bihor nr. 342/2024",
+"short": "HCJ Bihor nr. 342/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": null,
+"council": "judet/bihor",
+"council_name": "Consiliul Județean Bihor",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+}
+]
+}

@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/salonta/2025",
+ "acts": [
+  {
+   "slug": "hcl-bihor--salonta-128-2025",
+   "path": "local/bihor/salonta/2025/128",
+   "short": "HCL Salonta nr. 128/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 128/2025 privind completarea Art. 3 al HCLMS nr. 87/26.05.2025 privind aprobarea declanșării procedurii de expropriere a unor imobile (terenuri) aferente lucrării de utilitate publică de interes local „Amenajare Coridor Albastru în Mun. Salonta”",
+   "url": "https://salonta.net/ro/hotarari-republicate/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.128-modif-hcl-87_2025-Coridor-Albastru.pdf",
+     "sha256": "29bcc829a062043c1c6459b621f3bd51a2c02b1cd875813a9b7ca8b22dbc2db6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-172-2025",
+   "path": "local/bihor/salonta/2025/172",
+   "short": "HCL Salonta nr. 172/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 172/2025 privind aprobarea planurilor de amplasament şi delimitare a imobilului pentru imobilul identificat ca Aleea Petre Păulescu, Republicată prin HCLMS nr.181/25.09.2025",
+   "url": "https://salonta.net/ro/hotarari-republicate/",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.172-R-hcl-172_2025-Ale.P.Paulescu.pdf",
+     "sha256": "a71305ad20689082c6dda29e1b1adef52a15558a3f61cc99a7124fada0f8b720"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-251-2025",
+   "path": "local/bihor/salonta/2025/251",
+   "short": "HCL Salonta nr. 251/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 251/2025 privind aprobarea planului de amplasament şi dezlipire a imobilului înscris în CF. nr. 109007-C1 situat în Municipiul Salonta str",
+   "url": "https://salonta.net/ro/hotarari-republicate/",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.251-PAD-dezlipire-imobil-CF-109007_-sediul-Politiei-1.pdf",
+     "sha256": "b90ec62302e3da0e5e3376fddad06a22da228bb30c169aa5d95feb9b9e0e9b8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-37-2025",
+   "path": "local/bihor/salonta/2025/37",
+   "short": "HCL Salonta nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 37/2025 privind modificarea formei juridice a societatii „Dezvoltarea si administrarea patrimoniului Salonta”",
+   "url": "https://salonta.net/ro/hotarari-republicate/",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.37-R-SC-DAPS-SA_modif.forma-juridica.R-1.pdf",
+     "sha256": "19168a3a624cff5e014797259cddd14c96c1fe9b83f79234af44ea46d21baaba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-71-2025",
+   "path": "local/bihor/salonta/2025/71",
+   "short": "HCL Salonta nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 71/2025 Privind aprobarea PUZ – Apartamentare imobil în 5 apartamente și transformarea spațiilor rezidențiale în spații comerciale, jud. Bihor, mun. Salonta, strada Kulin Gyorgy, nr. 1, nr. Cad. 110359 Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea PUZ – Apartamentare imobil în 5 apartamente și transformarea spațiilor rezidențiale în spații comerciale, jud. Bi",
+   "url": "https://salonta.net/ro/hotarari-republicate/",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.71-R_PUZ-apartamentare-5-imobile.pdf",
+     "sha256": "81c996905b2d04a12fd4cce8e8ee531400b91d93706a4606f11a678f480259c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-87-2025",
+   "path": "local/bihor/salonta/2025/87",
+   "short": "HCL Salonta nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 87/2025 privind aprobarea declanșării procedurii de expropriere a unor imobile (terenuri) aferente lucrării de utilitate publică de interes local „Amenajare Coridor Albastru în Mun. Salonta”",
+   "url": "https://salonta.net/ro/hotarari-republicate/",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.87-R-PAD-_Coridor-albastru.pdf",
+     "sha256": "73031e38e176462f748a339d6f3aec4eee65c8091dc23e44b9480d90f4b9d0e2"
+    }
+   ]
+  }
+ ]
+}

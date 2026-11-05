@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/judet/buzau/2021",
+ "acts": [
+  {
+   "slug": "hcj-buzau-144-2021",
+   "path": "local/judet/buzau/2021/144",
+   "short": "HCJ Buzău nr. 144/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 144/2021 privind stabilirea taxelor și tarifelor de nivel județean pentru anul 2021",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-08-03",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/08/H-144.pdf",
+     "sha256": "da1aff9489507ae4f97844fcfcbb32f28c1822b0a35cccaa2c36f948ce8b5606"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-224-2021",
+   "path": "local/judet/buzau/2021/224",
+   "short": "HCJ Buzău nr. 224/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 224/2021 pentru aprobarea modificării tarifelor de călătorie la bilete și abonamente pe traseul cod 064 Buzău Autogara XXL – Vernești - Berca pe care efectuează transport rutier public județean de persoane prin curse regulate operatorul de transport SC DUBLU G SRL",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-11-11",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/11/H-224-din-2021.pdf",
+     "sha256": "4aef804cece66d1034865bd8e9745195450e024ce1d920cb8a11b8cf37c5de10"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-225-2021",
+   "path": "local/judet/buzau/2021/225",
+   "short": "HCJ Buzău nr. 225/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 225/2021 pentru aprobarea modificării tarifelor de călătorie la bilete și abonamente pe traseele cod 010 Buzău Autogara Sud – Mărgineanu, cod 014 Buzău Autogara Sud – Gherăseni, cod 016 Buzău Autogara Sud – Bălaia, cod 026 Buzău Autogara Sud – Pogoanele – Rușețu, cod 028 Buzău Autogara Sud – Padina, cod 080 Buzău Autogara Sud – Vintileanca pe care efectuează transport rutier public județean de persoane pri",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-11-11",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/11/H-225-din-2021.pdf",
+     "sha256": "763e5dd4f04b7f86b9e26da16666c1aa5d959a5e5ffcd9efec86d08dbfda4263"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-70-2021",
+   "path": "local/judet/buzau/2021/70",
+   "short": "HCJ Buzău nr. 70/2021",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 70/2021 privind stabilirea taxelor și tarifelor de nivel județean pentru anul 2021",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2021/04/H-70.pdf",
+     "sha256": "f0d246cf273a7054103d29057df9194ac11107f1765a26a2eb9a80bff3f519f0"
+    }
+   ]
+  }
+ ]
+}

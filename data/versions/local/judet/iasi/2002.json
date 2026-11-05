@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/judet/iasi/2002",
+ "acts": [
+  {
+   "slug": "hcj-iasi-37-2002",
+   "path": "local/judet/iasi/2002/37",
+   "short": "HCJ Iași nr. 37/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 37/2002 privind regimul juridic al contraventiilor, sint urmatoarele: pentru faptele enumerate la pct.1 amenda de la 750000 lei la 5000000 lei; pentru faptele enumerate la pct.2 amenda de la 750000 lei la 1000000 lei; pentru faptele enumerate la pct.3 amenda de la 750000 lei la 5000000 lei; pentru faptele enumerate la pct.4 amenda de la 750000 lei la 1500000 lei. Art.2 Persoanele din cadrul Serviciului Pu",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-37",
+   "versions": [
+    {
+     "from": "2002-03-26",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-37",
+     "sha256": "2c848ca90d842362dccb5681e8e4bc52d8291b7cbdc490ea3cca7a71695c7b0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-86-2002",
+   "path": "local/judet/iasi/2002/86",
+   "short": "HCJ Iași nr. 86/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 86/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-86",
+   "versions": [
+    {
+     "from": "2002-07-16",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-86",
+     "sha256": "5c20e1a9163424d5095f24df866a4f981321aa4819ae1b29fa068b3466263a50"
+    }
+   ]
+  }
+ ]
+}

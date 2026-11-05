@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/constanta/2024",
+ "acts": [
+  {
+   "slug": "hcj-constanta-225-2024",
+   "path": "local/judet/constanta/2024/225",
+   "short": "HCJ Constanța nr. 225/2024",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 225/2024 privind stabilirea unor tarife, taxe si taxe speciale pentru anul 2025",
+   "url": "https://www.cjc.ro/sectiune.php?s=208",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/Hotarari/2024/225.pdf",
+     "sha256": "848f87b613b4b0fc6f5b8675b226083dcb0472fe536e5877717cf92c1a3cd2c8"
+    }
+   ]
+  }
+ ]
+}

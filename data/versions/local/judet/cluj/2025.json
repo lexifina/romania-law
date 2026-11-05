@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/judet/cluj/2025",
+ "acts": [
+  {
+   "slug": "hcj-cluj-101-2025",
+   "path": "local/judet/cluj/2025/101",
+   "short": "HCJ Cluj nr. 101/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 101/2025 privind aprobarea Planului de acțiune pentru prevenirea și reducerea zgomotului aeroportuar pentru Aeroportul Internațional ,,Avram Iancu” Cluj R.A",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/06",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/06/f4a48413-101_2_plan-zgomot-aeroport.pdf",
+     "sha256": "bf2c20a31450dd71f9c956d5920025f17b5bdd11dec597fe7702d759150ca1e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-119-2025",
+   "path": "local/judet/cluj/2025/119",
+   "short": "HCJ Cluj nr. 119/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 119/2025 pentru ajustarea tarifului de călătorie pe Traseul 023: Cluj-Napoca – Vâlcele (ramificație) – Câmpia Turzii, aferent Grupei 11 și modificarea Hotărârii Consiliului Județean Cluj nr. 130/2023 privind aprobarea tarifelor de călătorie pentru traseele aferente Grupelor 1, 2, 6, 7, 8, 9, 11 ,12, 39, 41, 42 și 55 din Programul de transport public județean de persoane prin curse regulate în Județul Cluj, valabil până la 31.12.2028",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-191-2025",
+   "path": "local/judet/cluj/2025/191",
+   "short": "HCJ Cluj nr. 191/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 191/2025 privind declanșarea procedurii de selecție a membrilor consiliilor de administrație ale societăților la care Județul Cluj este acționar unic sau majoritar",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/10",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/11/a39ce2ca-191_9e_suplimentare-declansare-procedura-selectie-intreprinderi-publice.pdf",
+     "sha256": "164b44d66fba1b8d137a683a540eee9861a1f87efb99abf1e3b6600f7516e6b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-20-2025",
+   "path": "local/judet/cluj/2025/20",
+   "short": "HCJ Cluj nr. 20/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 20/2025 privind introducerea unor restricții de circulație pe drumul județean DJ 172F, sectorul de drum km 13+640 (intersecția cu DJ 161D) – km 23+340 (limita județ Bistrița-Năsăud)",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/02",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/03/8655098d-20_2_intoducere-restrictii-circulatie-dj-172f.pdf",
+     "sha256": "7315f6b606f1b1639f83cbb97cb354c1c9cd9f3a911a15ea75928e7d7eef8a82"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-220-2025",
+   "path": "local/judet/cluj/2025/220",
+   "short": "HCJ Cluj nr. 220/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 220/2025 privind avizarea taxelor și tarifelor pentru servicii prestate utilizatorilor de către Biblioteca Judeţeană „Octavian Goga”Cluj, pentru anul fiscal 2026",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-221-2025",
+   "path": "local/judet/cluj/2025/221",
+   "short": "HCJ Cluj nr. 221/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 221/2025 privind aprobarea tarifelor pentru spectacolele susținute de către Teatrul de Păpuşi “PUCK” în anul 2026",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

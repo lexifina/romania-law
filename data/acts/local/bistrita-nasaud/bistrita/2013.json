@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/bistrita-nasaud/bistrita/2013",
+"acts": [
+{
+"slug": "hcl-bistrita-nasaud--bistrita-136-2013",
+"path": "local/bistrita-nasaud/bistrita/2013/136",
+"kind": "local",
+"year": "2013",
+"number": "136",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Bistrița nr. 136/2013",
+"short": "HCL Bistrița nr. 136/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-11-14",
+"latest": "2013-11-14",
+"portal": "https://primariabistrita.ro/wp-content/uploads/2025/12/Hotarare-nr.136-din-14.11.2013.pdf",
+"council": "bistrita-nasaud/bistrita",
+"council_name": "Consiliul Local al Municipiului Bistrița",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

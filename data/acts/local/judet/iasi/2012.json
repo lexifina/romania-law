@@ -1,0 +1,162 @@
+{
+"country": "RO",
+"shard": "local/judet/iasi/2012",
+"acts": [
+{
+"slug": "hcj-iasi-20-2012",
+"path": "local/judet/iasi/2012/20",
+"kind": "local",
+"year": "2012",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 20/2012 privind aprobarea Regulamentului de organizare și desfășurare a evaluării managementului instituțiilor publice de cultură din subordin",
+"short": "HCJ Iași nr. 20/2012",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2012-01-30",
+"latest": "2012-01-30",
+"portal": "http://www.icc.ro/ro/hotarari/2012/2012-01-30/hot%C4%83r%C3%A2rea-nr-20",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-iasi-129-2012",
+"path": "local/judet/iasi/2012/129",
+"kind": "local",
+"year": "2012",
+"number": "129",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 129/2012 privind tarifele Direcției Județene de Pază și Ordine Iași pentru anul fiscal 2012 Tags: hotărâre hotărâri hotărâri 2012 Creat de icc la Mie, 29/05/2013 - 14:32 Ultima",
+"short": "HCJ Iași nr. 129/2012",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2012-05-23",
+"latest": "2012-05-23",
+"portal": "http://www.icc.ro/ro/hotarari/2012/2012-05-23/hot%C4%83r%C3%A2rea-nr-129",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-iasi-131-2012",
+"path": "local/judet/iasi/2012/131",
+"kind": "local",
+"year": "2012",
+"number": "131",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 131/2012",
+"short": "HCJ Iași nr. 131/2012",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2012-05-23",
+"latest": "2012-05-23",
+"portal": "http://www.icc.ro/ro/hotarari/2012/2012-05-23/hot%C4%83r%C3%A2rea-nr-131",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-iasi-132-2012",
+"path": "local/judet/iasi/2012/132",
+"kind": "local",
+"year": "2012",
+"number": "132",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 132/2012 privind aprobarea tarifelor de închiriere/oră/zi a spațiilor expoziționale ale obiectivelor (muzee, case memoriale, monumente istorice) aflate în administrarea Muzeului Lite",
+"short": "HCJ Iași nr. 132/2012",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2012-05-23",
+"latest": "2012-05-23",
+"portal": "http://www.icc.ro/ro/hotarari/2012/2012-05-23/hot%C4%83r%C3%A2rea-nr-132",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-iasi-134-2012",
+"path": "local/judet/iasi/2012/134",
+"kind": "local",
+"year": "2012",
+"number": "134",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 134/2012 privind taxele speciale și tarifele pentru anul fiscal 2013 Modificată prin HCJ nr. 370 din 18.12.2012, HCJ nr. 86 din 29.03.2013 și HCJ nr. 88 din 29.03.2013 Abrogată prin",
+"short": "HCJ Iași nr. 134/2012",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2012-05-23",
+"latest": "2012-05-23",
+"portal": "http://www.icc.ro/ro/hotarari/2012/2012-05-23/hot%C4%83r%C3%A2rea-nr-134",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-iasi-262-2012",
+"path": "local/judet/iasi/2012/262",
+"kind": "local",
+"year": "2012",
+"number": "262",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 262/2012 privind aprobarea Planului Urbanistic Zonal: \"Introducere teren în intravilan pentru Modernizarea Aeroportului Intenațional Iași\" Tags: hotărâre hotărâri hotărâr",
+"short": "HCJ Iași nr. 262/2012",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2012-09-26",
+"latest": "2012-09-26",
+"portal": "http://www.icc.ro/ro/hotarari/2012/2012-09-26/hot%C4%83r%C3%A2rea-nr-262",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-iasi-264-2012",
+"path": "local/judet/iasi/2012/264",
+"kind": "local",
+"year": "2012",
+"number": "264",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 264/2012",
+"short": "HCJ Iași nr. 264/2012",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2012-09-26",
+"latest": "2012-09-26",
+"portal": "http://www.icc.ro/ro/hotarari/2012/2012-09-26/hot%C4%83r%C3%A2rea-nr-264",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+}
+]
+}

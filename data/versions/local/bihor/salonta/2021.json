@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/salonta/2021",
+ "acts": [
+  {
+   "slug": "hcl-bihor--salonta-163-2021",
+   "path": "local/bihor/salonta/2021/163",
+   "short": "HCL Salonta nr. 163/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 163/2021",
+   "url": "https://salonta.net/ro/hotarari-republicate/",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hot.-163-din-30.09.2022-REPUBLICATA.pdf",
+     "sha256": "3de9217dbd229da295762676d42bb8ff8127d001557207e8c9c7d9d4a3ec0bcf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-169-2021",
+   "path": "local/bihor/salonta/2021/169",
+   "short": "HCL Salonta nr. 169/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 169/2021 privind desemnarea reprezentanților Consiliului Local al Municipiului Salonta în Consiliile de administrație ale unităților de învățământ din Municipiul Salonta pentru anul școlar 2021-2022 Consiliul Local al Municipiului Salonta întrunit în ședința ordinară, • Examinând proiectul de hotărâre cu privire la propunerea pentru desemnarea reprezentanților Consiliului Local al Municipiului Salonta în C",
+   "url": "https://salonta.net/ro/hotarari-republicate/",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hot.-169-Republicata-reprezentanti-CA-unitati-invatamant-2021-2022.pdf",
+     "sha256": "51c9be032a1d5f8d7dee1f660663a06a7901f43ff2bee5d318d84421943e979a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-175-2021",
+   "path": "local/bihor/salonta/2021/175",
+   "short": "HCL Salonta nr. 175/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 175/2021 privind participarea la Programul privind creșterea eficienței energetice a infrastructurii de iluminat public Consiliul Local al Municipiului Salonta întrunit de îndată, în ședința extraordinară, • Examinând proiectul de hotărâre privind participarea la Programul privind creșterea eficienței energetice a infrastructurii de iluminat public; • Reținând Referatul de aprobare nr. 6226 din data de 29",
+   "url": "https://salonta.net/ro/hotarari-republicate/",
+   "versions": [
+    {
+     "from": "2021-10-13",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hot.-175-R-Program-eficienta-energetica-iluminat-public-REPUBLICATA-cf.-HCL-nr.190.pdf",
+     "sha256": "52e6862e1e63f64e5f6914c449c31dbd1f1f38bd183813024b1ec8ccac86a3d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-191-2021",
+   "path": "local/bihor/salonta/2021/191",
+   "short": "HCL Salonta nr. 191/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 191/2021 privind participarea la Programul Național de Investiții ,, Anghel Saligny'' pentru obiectivul de investiții: ,, Reabilitare și modernizare 11 străzi în Municipiul Salonta, județul Bihor'' Consiliul Local al Municipiului Salonta întrunit în ședință ordinară, • Examinând proiectul de hotărâre privind participarea la Programul Național de Investiții ,, Anghel Saligny'' pentru obiectivul de investiți",
+   "url": "https://salonta.net/ro/hotarari-republicate/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hot.-191-Anghel-Saligny-11-strazi-Republicata.pdf",
+     "sha256": "b20c65c1ed0d2c62577505fda9c4247711df0ee53e4fdd51df865dfff91506b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-192-2021",
+   "path": "local/bihor/salonta/2021/192",
+   "short": "HCL Salonta nr. 192/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 192/2021 privind participarea la Programul Național de Investiții ,, Anghel Saligny'' pentru obiectivul de investiții: ,,Modernizare 10 străzi, structură rutieră și evacuare ape pluviale în Municipiul Salonta, județul Bihor'' Consiliul Local al Municipiului Salonta întrunit în ședință ordinară, • Examinând proiectul de hotărâre privind participarea la Programul Național de Investiții ,, Anghel Saligny'' pe",
+   "url": "https://salonta.net/ro/hotarari-republicate/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hot.-192-Anghel-Saligny-10-strazi-Republicata.pdf",
+     "sha256": "855599d5ac67b8eea76ee1f789d6966ea002c695b8e14cbbfb89e3fa57416fd5"
+    }
+   ]
+  }
+ ]
+}

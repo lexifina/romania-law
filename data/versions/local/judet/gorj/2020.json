@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/judet/gorj/2020",
+ "acts": [
+  {
+   "slug": "hcj-gorj-138-2020",
+   "path": "local/judet/gorj/2020/138",
+   "short": "HCJ Gorj nr. 138/2020",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 138/2020 privind aprobarea Contractului-cadru de delegare a gestiunii serviciului public rutier de transport persoane prin curse regulate în județul Gorj, Regulamentului pentru efectuarea serviciului public de transport persoane prin curse regulate în județul Gorj și a Caietului de sarcini aferent a",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-09-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.09.2020%20-%20Adoptate/138.%20HCJ%20aprob%20reg+caiet+crt%20transport%20persoane.pdf",
+     "sha256": "dfdc51af28c4049f4e857dee5029edfbc32218f03dd3ea8804626fe40b82d34c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-179-2020",
+   "path": "local/judet/gorj/2020/179",
+   "short": "HCJ Gorj nr. 179/2020",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 179/2020 privind aprobarea unor taxe și tarife pentru anul fiscal 2022, la nivelul Județului Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/23.12.2021%20-%20Adoptate/201.%20HCJ%20aprobare%20taxe%20si%20taxe%20tarife%202022.pdf",
+     "sha256": "5b7fc2c863d7a588d9fb36e6c6be25d4b999f9963a330f563e1f646fbd08e0e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-76-2020",
+   "path": "local/judet/gorj/2020/76",
+   "short": "HCJ Gorj nr. 76/2020",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 76/2020 pentru modificarea Hotărârii Consiliului Județean Gorj nr. 85/30.11.2010 privind aprobarea Regulamentului pentru acordarea titlului “GORJEANUL ANULUI” și a distincțiilor conferite unor personalități cu merite deosebite, cu modificările și completările ulterioare",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/24.06.2020%20-%20Adoptate/76.%20HCJ%20modificare%20Regulament%20GORJEANUL%20ANULUI.pdf",
+     "sha256": "44de5a6dd2e2e38687e2368e61725fe690a013214c77be938544c3b955b92ac9"
+    }
+   ]
+  }
+ ]
+}

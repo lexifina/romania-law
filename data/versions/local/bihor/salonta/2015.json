@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/salonta/2015",
+ "acts": [
+  {
+   "slug": "hcl-bihor--salonta-113-2015",
+   "path": "local/bihor/salonta/2015/113",
+   "short": "HCL Salonta nr. 113/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 113/2015 privind propunerea de schimbare a destinației de unitate de învățământ a imobilului situat pe str",
+   "url": "https://salonta.net/ro/hotarari-republicate/",
+   "versions": [
+    {
+     "from": "2015-07-09",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/Republicata-Hot-113-Gradi-destinatie.pdf",
+     "sha256": "eb72f36bc231ef9c80a678d35024fa938d00e817d6493186752928fd603b38a9"
+    }
+   ]
+  }
+ ]
+}

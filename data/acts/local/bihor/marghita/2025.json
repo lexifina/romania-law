@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/bihor/marghita/2025",
+"acts": [
+{
+"slug": "hcl-bihor--marghita-179-2025",
+"path": "local/bihor/marghita/2025/179",
+"kind": "local",
+"year": "2025",
+"number": "179",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 179/2025",
+"short": "HCL Marghita nr. 179/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://marghita.ro/wp-content/uploads/2026/01/HOTARAREA-179-DIN-22.12.2025.pdf",
+"council": "bihor/marghita",
+"council_name": "Consiliul Local al Municipiului Marghita",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--marghita-180-2025",
+"path": "local/bihor/marghita/2025/180",
+"kind": "local",
+"year": "2025",
+"number": "180",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 180/2025",
+"short": "HCL Marghita nr. 180/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://marghita.ro/wp-content/uploads/2026/01/HOTARAREA-180-DIN-22.12.2025.pdf",
+"council": "bihor/marghita",
+"council_name": "Consiliul Local al Municipiului Marghita",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

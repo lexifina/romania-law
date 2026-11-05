@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/bacau/2018",
+ "acts": [
+  {
+   "slug": "hcl-bacau--bacau-434-2018",
+   "path": "local/bacau/bacau/2018/434",
+   "short": "HCL Bacău nr. 434/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 434/2018",
+   "url": "https://municipiulbacau.ro/monitorul-oficial-local/hotarari/",
+   "versions": [
+    {
+     "from": "2018-11-14",
+     "units": 1,
+     "source_url": "https://municipiulbacau.ro/wp-content/uploads/2024/10/REGISTRU-DE-HOTARARI-2021-MOL.pdf",
+     "sha256": "e62f7c59405617ecf968f2a8207e5228e961110112b9fe6747b71a830baf15aa"
+    }
+   ]
+  }
+ ]
+}

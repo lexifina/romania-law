@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/buzau/2025",
+ "acts": [
+  {
+   "slug": "hcl-buzau--buzau-47-2025",
+   "path": "local/buzau/buzau/2025/47",
+   "short": "HCL Buzău nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Buzău nr. 47/2025 pentru aprobarea modificării și completării Regulamentului privind administrarea spaţiilor verzi în municipiul Buzău, aprobat prin Hotărârea Consiliului Local al Municipiului Buzău nr. 368 din 18.12.2017",
+   "url": "https://primariabuzau.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://primariabuzau.ro/wp-content/uploads/2025/04/HCL-47-modificare-Regulament-spatii-verzi.pdf",
+     "sha256": "a7bd4092a9d286a70f86a13c8176901ccb8454a1c9741683abbc98a10642210a"
+    }
+   ]
+  }
+ ]
+}

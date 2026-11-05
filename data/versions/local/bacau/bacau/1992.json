@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/bacau/1992",
+ "acts": [
+  {
+   "slug": "hcl-bacau--bacau-1-1992",
+   "path": "local/bacau/bacau/1992/1",
+   "short": "HCL Bacău nr. 1/1992",
+   "title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 1/1992 privind alegerea Comisiei de validare",
+   "url": "https://municipiulbacau.ro/monitorul-oficial-local/arhiva-hotararilor-consiliului-local-bacau/",
+   "versions": [
+    {
+     "from": "1992-02-28",
+     "units": 1,
+     "source_url": "https://municipiulbacau.ro/wp-content/uploads/2024/04/liste-cu-hotarari-1992-.pdf",
+     "sha256": "74b05c3083a3a190d60a2a41e091da2043fc53fe85f39c0e05c1d22dc1f1a322"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/judet/gorj/2022",
+ "acts": [
+  {
+   "slug": "hcj-gorj-114-2022",
+   "path": "local/judet/gorj/2022/114",
+   "short": "HCJ Gorj nr. 114/2022",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 114/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-04-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": "9495dd93bd114c7dcda648174cf99a4676288297fbb31d023f8ecf01b13bd69b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-255-2022",
+   "path": "local/judet/gorj/2022/255",
+   "short": "HCJ Gorj nr. 255/2022",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 255/2022 privind aprobarea unor taxe şi tarife pentru anul fiscal 2023, la nivelul Judeţului Gor",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/22.12.2022%20-%20Adoptate/255.%20HCJ%20taxe%20tarife%202023.pdf",
+     "sha256": "46c886d27d4b6f9094e536287d48209d7c8b04ce3ce71351e9d6940ac22609f6"
+    }
+   ]
+  }
+ ]
+}

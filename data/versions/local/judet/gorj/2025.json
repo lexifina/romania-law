@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/judet/gorj/2025",
+ "acts": [
+  {
+   "slug": "hcj-gorj-135-2025",
+   "path": "local/judet/gorj/2025/135",
+   "short": "HCJ Gorj nr. 135/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 135/2025 pentru aprobarea Procedurii privind cumpărarea de imobile de către UAT – Județul Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.04.2025%20-%20Adoptate/135.%20HCJ%20procedura%20cumparare%20imobile.pdf",
+     "sha256": "3294c2f78bc7d62fb716f920b56d713d6dfd24ced99dcc5977fd3d074e76d822"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-210-2025",
+   "path": "local/judet/gorj/2025/210",
+   "short": "HCJ Gorj nr. 210/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 210/2025 privind aprobarea Regulamentului pentr stabilirea și acordarea sprijinului financiar de la bugetul județului Gorj, unităților de cult din județul Gorj aparținând cultelor religioase recunoscute din România",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.08.2025%20-%20Adoptate/210.%20HCJ%20aprobare%20Ghid%20acordare%20sprijin%20financiar%20biserici%20REGULAMENT.pdf",
+     "sha256": "90dc52e1ee7e82d80ff972a1af49bf2a00bc1c85c9eb90eef0feb8f991e388cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-245-2025",
+   "path": "local/judet/gorj/2025/245",
+   "short": "HCJ Gorj nr. 245/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 245/2025 privind aprobarea ajustării tarifelor de călătorie, practicate de către operatorii de transport rutier în cadrul Contractelor de delegare a gestiunii serviciului public de transport persoane în aria teritorială de competență a județului Gorj – Programul de transport public județean de perso",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/30.10.2025%20-%20Adoptate/245.%20HCJ%20aprobare%20ajustare%20tarife%20-%20octombrie%202025.pdf",
+     "sha256": "7eec9fe4f9576d57885321b088f4d6bd5016132d38a94f4a0b97ed2007a968c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-282-2025",
+   "path": "local/judet/gorj/2025/282",
+   "short": "HCJ Gorj nr. 282/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 282/2025 privind aprobarea unor taxe şi tarife pentru anul fiscal 2026, la nivelul Judeţului Gorj",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/19.12.2025%20-%20Adoptate/282.%20HCJ%20taxe%20tarife%202026%20final.pdf",
+     "sha256": "345e635f98dbd506601867fd6266dbd6e9b7a17052f7e0cabdcef1a8dad3b55d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-63-2025",
+   "path": "local/judet/gorj/2025/63",
+   "short": "HCJ Gorj nr. 63/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 63/2025 privind aprobarea tarifelor de călătorie, practicate de către operatorii de transport rutier câștigători în cadrul procedurii de atribuire a Contractelor de delegare a serviciului de transport public judeţean de persoane – Programului de transport public județean de persoane prin curse regu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.02.2025%20-%20Adoptate/63.%20HCJ%20aprobare%20tarife%20-operatori%20castigatori%20-%20februarie%202025.pdf",
+     "sha256": "6385d8e56ac5fa7a87c8ae5e88ab27e6f7868595771379a625845c1109d6dffa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-98-2025",
+   "path": "local/judet/gorj/2025/98",
+   "short": "HCJ Gorj nr. 98/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 98/2025 privind aprobarea ajustării tarifelor de călătorie, practicate de către operatorii de transport rutier în cadrul Contractelor de delegare a gestiunii serviciului public de transport persoane în aria teritorială de competență a județului Gorj – Programul de transport public județean de perso",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/24.03.2025%20-%20Adoptate/98.%20HCJ%20aprobare%20ajustare%20tarife%20-%20martie%202025.pdf",
+     "sha256": "6f1e53127aa113b1fca457e009a347171f52f4b67a116a597ee3d65babbbb514"
+    }
+   ]
+  }
+ ]
+}

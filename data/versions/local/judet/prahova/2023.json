@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/prahova/2023",
+ "acts": [
+  {
+   "slug": "hcj-prahova-381-2023",
+   "path": "local/judet/prahova/2023/381",
+   "short": "HCJ Prahova nr. 381/2023",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 381/2023 privind stabilirea prețurilor medii ale produselor agricole și a prețului mediu al ierbii obținută de pe pajiști, pentru anul fiscal 2024",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2023/12/Hotararea-nr.-381-din-data-20-12-2023.pdf",
+     "sha256": "2ea0d231215a03f248586beb8e7f25217de3876e261d1e584e817d9bd355e7d8"
+    }
+   ]
+  }
+ ]
+}

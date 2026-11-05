@@ -1,0 +1,186 @@
+{
+ "country": "RO",
+ "shard": "local/judet/buzau/2023",
+ "acts": [
+  {
+   "slug": "hcj-buzau-109-2023",
+   "path": "local/judet/buzau/2023/109",
+   "short": "HCJ Buzău nr. 109/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 109/2023 privind modificarea art. 33 alin. (2) și (3) din Regulamentul de organizare și funcționare a Autorității Teritoriale de Ordine Publică a Județului Buzău – formă actualizată, aprobat prin art. 3 din Hotărârea Consiliului Județean Buzău nr. 19/2021",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/04/Hotararea-nr.109-din-2023.pdf",
+     "sha256": "9dbeab9534e381d5e8673d1b51028c3859f85a33b714ce085b81c4c6cee540f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-131-2023",
+   "path": "local/judet/buzau/2023/131",
+   "short": "HCJ Buzău nr. 131/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 131/2023 privind stabilirea preţurilor medii ale produselor agricole şi a valorii masei verzi pe hectar pajişte pentru anul fiscal 2023 la nivelul Judeţului Buzău * Anexa se înlocuiește cu anexa la Hotărârea nr.131 din 2023",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/06/Hotararea-nr.131-din-2023.pdf",
+     "sha256": "64e3f7e08292e3ed1503147783ec11410f09e1341e96471b220f92b887e5b8d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-143-2023",
+   "path": "local/judet/buzau/2023/143",
+   "short": "HCJ Buzău nr. 143/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 143/2023 privind stabilirea taxelor şi tarifelor de nivel judeţean pentru anul 2023 * Anexa nr.13 actualizată și completată prin Hotărârea nr.143 din 2023",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/06/Hotararea-nr.143-din-2023.pdf",
+     "sha256": "408c989e955822bf02f81cebeb0b62b00a9cfaa14ddc39cb35d321ee4c4ffe26"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-167-2023",
+   "path": "local/judet/buzau/2023/167",
+   "short": "HCJ Buzău nr. 167/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 167/2023 privind aprobarea Metodologiei de acordare a subvențiilor de la bugetul județului Buzău, asociațiilor și fundațiilor române cu personalitate juridică, care înființează și administrează unități de asistență socială, conform Legii nr. 34/1998 – formă revizuită și actualizată conform Hotărârii Guvernului nr. 578/22.04.2022 * Încetat aplicabilitatea prin Hotărârea nr 58 din 2025",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/08/Hotararea-nr.167-din-2023.pdf",
+     "sha256": "c0a0db7174daae39931092aca0c7821f55ef232e92b8f3d3f36ff885f783c1df"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-196-2023",
+   "path": "local/judet/buzau/2023/196",
+   "short": "HCJ Buzău nr. 196/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 196/2023",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/11/Hotararea-nr.196-din-2023.pdf",
+     "sha256": "63238a38eb570a0da5e33e6ab1d737793a0c8a9b3d04981a59910e1045935e05"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-243-2023",
+   "path": "local/judet/buzau/2023/243",
+   "short": "HCJ Buzău nr. 243/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 243/2023 privind aprobarea emiterii licențelor de traseu pentru traseele aferente grupei 06 din Programul județean de transport și aprobarea tarifelor de călătorie pentru efectuarea serviciului public de transport rutier județean de persoane prin curse regulate pentru traseele aferente grupei 06 din Programul județean de transport la nivelul județului Buzău * Anexa înlocuită cu anexa din Hotărârea nr. 105",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/10/Hotararea-nr.243-din-2023.pdf",
+     "sha256": "663d87af5d8394f319c298d1d23df84931626f329ac85d21aaecb43293d3e374"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-264-2023",
+   "path": "local/judet/buzau/2023/264",
+   "short": "HCJ Buzău nr. 264/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 264/2023 privind stabilirea prețurilor medii ale produselor agricole şi a valorii masei verzi pe hectar pajiște pentru anul fiscal 2024 la nivelul Judeţului Buzău",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2024/09/264-din-2023.-preturi-medii-produse-agricole-2024.pdf",
+     "sha256": "4e94d676d0c6e49e1168b89ea226dbb4ea3995346f43f3af9ef9106cd646ceb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-285-2023",
+   "path": "local/judet/buzau/2023/285",
+   "short": "HCJ Buzău nr. 285/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 285/2023 privind stabilirea taxelor şi tarifelor de nivel judeţean pentru anul 2024 * Anexa nr.4 completată prin Hotărârea nr.98 din 2024 * Încetat aplicabilitatea prin Hotărârea nr.292 din 2024",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-12-14",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/12/H-285.pdf",
+     "sha256": "c191d10bf04e9cc57674e331c8376d7edc8b3f13722ed2a76ff604c155f7df88"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-286-2023",
+   "path": "local/judet/buzau/2023/286",
+   "short": "HCJ Buzău nr. 286/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 286/2023 privind participarea Consiliului Județean Buzău la Programul multianual privind finanţarea elaborării şi/sau actualizării planurilor urbanistice generale ale localităţilor şi a regulamentelor locale de urbanism",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-12-14",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/12/H-286.pdf",
+     "sha256": "49d80486ee98581bd3d8d68b82c31fff3115328af13760e89db062ee0f029cf5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-30-2023",
+   "path": "local/judet/buzau/2023/30",
+   "short": "HCJ Buzău nr. 30/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 30/2023 privind însuşirea Planului Strategic al Autorităţii Teritoriale de Ordine Publică a Judeţului Buzău pentru anul 2023",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/01/Hotararea-nr.30-din-2023.pdf",
+     "sha256": "d8bb39ea362654dce6c8d5a0837a85781067cfb2d3397c0c6199cd6a8bba92c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-33-2023",
+   "path": "local/judet/buzau/2023/33",
+   "short": "HCJ Buzău nr. 33/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 33/2023 privind aprobarea tarifelor/prețurilor pentru prestațiile Societății „Domenii Prest Serv” SRL în baza contractelor de delegare a gestiunii unor activități ale serviciului public de administrare a domeniului public și privat al Județului Buzău, respectiv servicii de operare a deșeurilor din construcții și demolări, pentru anul 2023",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/01/Hotararea-nr.33-din-2023.pdf",
+     "sha256": "5e7496a55911c2e74640186562defa1437f4174d9c3b125d69cda66580a4325c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-41-2023",
+   "path": "local/judet/buzau/2023/41",
+   "short": "HCJ Buzău nr. 41/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 41/2023 pentru aprobarea metodologiilor de finanțare pentru programe sportive dedicate copiilor și juniorilor respectiv pentru activități de tineret și pentru tineret conform Hotărârii Consiliului Județean Buzău nr. 22/2023 * Notă de îndreptare eroare materială * Art.5, alin(2) abrogat prin Hotărârea nr. 95 din 2025",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/02/Hotararea-nr.41-din-2023.pdf",
+     "sha256": "43d9c9688a36fe1df32e1af728a81781ef9544eb6a81affea54ce7368255d65b"
+    }
+   ]
+  }
+ ]
+}

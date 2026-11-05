@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/salonta/2020",
+ "acts": [
+  {
+   "slug": "hcl-bihor--salonta-112-2020",
+   "path": "local/bihor/salonta/2020/112",
+   "short": "HCL Salonta nr. 112/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 112/2020 pentru aprobarea și demararea procedurilor privind declararea Municipiului Salonta Stațiune Turistică de interes local Consiliul Local al Municipiului Salonta întrunit în ședința extraordinară, • Examinând proiectul de hotărâre cu privire la aprobarea și demararea procedurilor privind declararea Municipiului Salonta, Stațiune Turistică de interes local; • Reținând Referatul de aprobare nr.4962/22",
+   "url": "https://salonta.net/ro/hotarari-republicate/",
+   "versions": [
+    {
+     "from": "2020-07-24",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hot.-112-Statiune-turistica-REPUBLICATA.pdf",
+     "sha256": "3210a9d1a3d74ed917c6db477a299e70ede88fa20347d01cb4a63da8e5c2a7ae"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Municipiului Lupeni nr. 3/2019 pentru aprobarea prelungirii termenului de valabilitate al Planului Urbanistic General al Municipiului Lupeni, până la intrarea în vigoare a noului Plan Urbanistic General, dar fără a se depăși data de 31 decembrie 2023 hotărârea a fost aprobată prin vot liber exprimat cu unanimitate de voturi Consiliul local al Municipiului Lupeni; Având în vedere Proiectul de hotărâre nr. 4/ 2019 și Expunerea de
+
+HCL Lupeni nr. 3/2019 · 1 versions, from 2019-01-31 (latest in force: 2019-01-31) · <https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument>
+
+**Status:** Text withheld: its text names a natural person (honorific), and is not anonymised, so only its metadata is published here; the official text is at the council's record.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-hunedoara--lupeni-3-2019` (tags `hcl-hunedoara--lupeni-3-2019/<day>`; `python tools/on.py <day> hcl-hunedoara--lupeni-3-2019`).
+
+## Decisions made by hand
+
+- HCL Lupeni nr. 3/2019: listed from Consiliul Local al Municipiului Lupeni (www.municipiullupeni.ro); metadata only for now: its text names a natural person (honorific).
+- HCL Lupeni nr. 3/2019: dated from 31 January 2019, the day it was adopted (the register gives no later day of publication).
+- HCL Lupeni nr. 3/2019: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

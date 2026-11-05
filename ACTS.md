@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12438 acts, 23,953 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12442 acts, 23,957 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -11303,7 +11303,7 @@
 | Ordonanța de urgență a Guvernului nr. 37/2026 pentru modificarea şi completarea Legii nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor şi protecţia persoanelor | [`oug/2026/37/`](oug/2026/37/) | amending act | 2 | 2026-05-06 | 2026-06-05 |
 | Ordonanța de urgență a Guvernului nr. 39/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 58/2023 privind unele măsuri pentru acordarea unei prime de carieră didactică pentru personalul didactic şi didactic auxiliar, precum şi unei prime de carieră profesională pentru personalul administrativ din învăţământul de stat, suportate din fonduri externe nerambursabile, precum şi pentru instituirea unor reglementări în vederea gestionării Programului Educaţie şi Ocupare 2021-2027 | [`oug/2026/39/`](oug/2026/39/) | amended, not consolidated | 1 | 2026-05-06 | 2026-05-06 |
 
-## Ordinances (OG) (1010, of which 118 amending acts)
+## Ordinances (OG) (1014, of which 119 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -11511,6 +11511,10 @@
 | Ordonanța Guvernului nr. 39/1999 privind finalizarea procesului de restructurare a Băncii Române de Comerț Exterior - Bancorex - S.A. și fuziunea prin absorbire a acestei bănci cu Banca Comercială Română - S.A. | [`og/1999/39/`](og/1999/39/) | in force | 9 | 1999-07-30 | 2003-04-09 |
 | Ordonanța Guvernului nr. 40/1999 pentru ratificarea Acordului de împrumut dintre România, reprezentată de Ministerul Finanţelor, şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare privind proiectul de dezvoltare instituţională a sectorului privat, în valoare de 25 milioane dolari S.U.A., semnat la Washington D.C. la 17 iunie 1999 | [`og/1999/40/`](og/1999/40/) | amended, not consolidated | 1 | 1999-08-12 | 1999-08-12 |
 | Ordonanța Guvernului nr. 41/1999 privind organizarea şi funcţionarea Ministerului Apărării Naţionale | [`og/1999/41/`](og/1999/41/) | amended, not consolidated | 1 | 1999-09-15 | 1999-09-15 |
+| Ordonanța Guvernului nr. 43/1999 pentru ratificarea Acordului privind Forţa Multinaţională de Pace din Europa de Sud-Est, semnat la Skopje la 26 septembrie 1998 şi a Protocolului adiţional la Acordul privind Forţa Multinaţională de Pace din Europa de Sud-Est, semnat la Atena la 12 ianuarie 1999 | [`og/1999/43/`](og/1999/43/) | in force | 1 | 1999-08-25 | 1999-08-25 |
+| Ordonanța Guvernului nr. 44/1999 pentru ratificarea Acordului de împrumut dintre România, reprezentată de Ministerul Finanţelor, şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare privind ajustarea structurală a sectorului privat, semnat la Washington la 17 iunie 1999 | [`og/1999/44/`](og/1999/44/) | in force | 1 | 1999-08-16 | 1999-08-16 |
+| Ordonanța Guvernului nr. 45/1999 pentru ratificarea Addendei la memorandumurile de finanţare PHARE privind Programul de combatere a efectelor dezastrelor cauzate de inundaţii, încheiată la Bucureşti la 24 decembrie 1998 între Comisia Europeană şi Guvernul României | [`og/1999/45/`](og/1999/45/) | in force | 1 | 1999-08-19 | 1999-08-19 |
+| Ordonanța Guvernului nr. 46/1999 pentru aprobarea participării României la Grupul de state împotriva corupţiei (GRECO), instituit prin Rezoluţia Consiliului Europei nr. (99)5 din 1 mai 1999 | [`og/1999/46/`](og/1999/46/) | amending act | 1 | 1999-08-24 | 1999-08-24 |
 | Ordonanța Guvernului nr. 47/1999 pentru ratificarea Acordului de asistenţa financiară nerambursabilă dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare din fondurile Facilităţii globale de mediu (FGM) pentru finanţarea Proiectului "Managementul conservării biodiversităţii", în valoare de 5,5 milioane dolari S.U.A. echivalent, semnat la Washington la 17 iunie 1999 | [`og/1999/47/`](og/1999/47/) | amended, not consolidated | 1 | 1999-08-26 | 1999-08-26 |
 | Ordonanța Guvernului nr. 48/1999 privind transportul rutier al mărfurilor periculoase | [`og/1999/48/`](og/1999/48/) | in force | 2 | 1999-08-24 | 2002-03-25 |
 | Ordonanța Guvernului nr. 49/1999 | [`og/1999/49/`](og/1999/49/) | in force | 2 | 1999-08-24 | 2002-01-16 |
@@ -12504,7 +12508,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 28207 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 28224 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |
@@ -12520,4 +12524,4 @@
 | Anti-discrimination council decisions (CNCD) | 2315 | [`data/acts/cncd/`](data/acts/cncd/) |
 | Data protection authority decisions and sanction notices (ANSPDCP) | 375 | [`data/acts/anspdcp/`](data/acts/anspdcp/) |
 | Technical rules for construction (normative tehnice) | 291 | [`data/acts/normativ-tehnic/`](data/acts/normativ-tehnic/) |
-| Local acts (decisions of local and county councils) | 28553 | [`data/acts/local/`](data/acts/local/) |
+| Local acts (decisions of local and county councils) | 30053 | [`data/acts/local/`](data/acts/local/) |

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/bihor/salonta/2009",
+"acts": [
+{
+"slug": "hcl-bihor--salonta-154-2009",
+"path": "local/bihor/salonta/2009/154",
+"kind": "local",
+"year": "2009",
+"number": "154",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 154/2009 privind realizarea investiției: „Blocuri pt. tineret în regim de închiriere, realizate prin ANL, strada Puşkin – 60 apartamente – P+3E, Salonta”",
+"short": "HCL Salonta nr. 154/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-07-30",
+"latest": "2009-07-30",
+"portal": "https://salonta.net/ro/hotarari-republicate/",
+"council": "bihor/salonta",
+"council_name": "Consiliul Local al Municipiului Salonta",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

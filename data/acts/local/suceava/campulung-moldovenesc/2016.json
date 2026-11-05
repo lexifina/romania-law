@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/suceava/campulung-moldovenesc/2016",
+"acts": [
+{
+"slug": "hcl-suceava--campulung-moldovenesc-134-2016",
+"path": "local/suceava/campulung-moldovenesc/2016/134",
+"kind": "local",
+"year": "2016",
+"number": "134",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 134/2016 privind aprobarea Regulamentului pentru procedura de vânzare și/sau închiriere a bunurilor imobile din domeniul privat al Municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 21 decembrie 2016; Având în vedere: -Expunerea de motive a primarului municipiului Câmpulung Moldovenesc înregistrată la nr. 25175 din 15.11.2016",
+"short": "HCL Câmpulung Moldovenesc nr. 134/2016",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2016-12-21",
+"latest": "2016-12-21",
+"portal": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2016",
+"council": "suceava/campulung-moldovenesc",
+"council_name": "Consiliul Local al Municipiului Câmpulung Moldovenesc",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

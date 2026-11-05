@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/gorj/2019",
+"acts": [
+{
+"slug": "hcj-gorj-160-2019",
+"path": "local/judet/gorj/2019/160",
+"kind": "local",
+"year": "2019",
+"number": "160",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Gorj nr. 160/2019 privind aprobarea unor taxe și tarife pentru anul fiscal 2021, la nivelul Județului Gorj",
+"short": "HCJ Gorj nr. 160/2019",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2019-12-16",
+"latest": "2019-12-16",
+"portal": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "judet/gorj",
+"council_name": "Consiliul Județean Gorj",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

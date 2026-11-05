@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/bistrita-nasaud/bistrita/2006",
+"acts": [
+{
+"slug": "hcl-bistrita-nasaud--bistrita-53-2006",
+"path": "local/bistrita-nasaud/bistrita/2006/53",
+"kind": "local",
+"year": "2006",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Bistrița nr. 53/2006",
+"short": "HCL Bistrița nr. 53/2006",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2006-03-30",
+"latest": "2006-03-30",
+"portal": "https://primariabistrita.ro/monitorul-oficial-local/documente-si-informatii-financiare/datoria-publica-locala/hotarari-ale-comisiei-de-autorizare-a-imprumuturilor-locale/",
+"council": "bistrita-nasaud/bistrita",
+"council_name": "Consiliul Local al Municipiului Bistrița",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

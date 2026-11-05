@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/bacau/bacau/2018",
+"acts": [
+{
+"slug": "hcl-bacau--bacau-434-2018",
+"path": "local/bacau/bacau/2018/434",
+"kind": "local",
+"year": "2018",
+"number": "434",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 434/2018",
+"short": "HCL Bacău nr. 434/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-11-14",
+"latest": "2018-11-14",
+"portal": "https://municipiulbacau.ro/monitorul-oficial-local/hotarari/",
+"council": "bacau/bacau",
+"council_name": "Consiliul Local al Municipiului Bacău",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

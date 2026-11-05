@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/iasi/2014",
+ "acts": [
+  {
+   "slug": "hcj-iasi-203-2014",
+   "path": "local/judet/iasi/2014/203",
+   "short": "HCJ Iași nr. 203/2014",
+   "title": "Hotărârea Consiliului Județean Iași nr. 203/2014 privind aprobarea hărților strategice de zgomot și a planurilor de acțiune elaborate cu rapoartele aferente pentru RA Aeroportul Iași Tags: hotărâre hotărâri hotărâri 2014",
+   "url": "http://www.icc.ro/ro/hotarari/2014/2014-07-15/hot%C4%83r%C3%A2rea-nr-203",
+   "versions": [
+    {
+     "from": "2014-07-15",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2014/2014-07-15/hot%C4%83r%C3%A2rea-nr-203",
+     "sha256": "04a435c97cf24cecbfe89f61b951c6e93512a451f6dc7eca88db40a8ec9a44b6"
+    }
+   ]
+  }
+ ]
+}

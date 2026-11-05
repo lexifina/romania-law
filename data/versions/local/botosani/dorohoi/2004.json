@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/dorohoi/2004",
+ "acts": [
+  {
+   "slug": "hcl-botosani--dorohoi-115-2004",
+   "path": "local/botosani/dorohoi/2004/115",
+   "short": "HCL Dorohoi nr. 115/2004",
+   "title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 115/2004 privind aprobarea prelungirii Contractului de concesiune nr. 07/12.04.2017, a terenului in suprafata de 182,00 m.p., situat in Municipiul Dorohoi, str, Lt",
+   "url": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=5674:registrul-pentru-evidena-hotrarilor-autoritii-deliberative&catid=225:registre&Itemid=1165",
+   "versions": [
+    {
+     "from": "2004-12-07",
+     "units": 1,
+     "source_url": "https://www.primariadorohoi.ro/files/2022/CONSILIUL%20LOCAL/10.SEDINTA%2026042022/HCL_115_28042022.pdf",
+     "sha256": "7865afa03a7583b9b45d604bedc7a0e6ed54b7b0d0f83adc25ac8f6f0fabecc7"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/campulung-moldovenesc/2015",
+ "acts": [
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-127-2015",
+   "path": "local/suceava/campulung-moldovenesc/2015/127",
+   "short": "HCL Câmpulung Moldovenesc nr. 127/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 127/2015 pentru modificarea anexei la Hotărârea Consiliului Local al municipiului Câmpulung Moldovenesc nr. 66/2015 cu privire la aprobarea cererilor de înlesnire la plata impozitelor, taxelor și a unor majorări de întârziere Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 26.11.2015; Având în vedere: -Expunerea de motive a primarului municipiului Câmpulung M",
+   "url": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2015",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_127_2015.pdf",
+     "sha256": "dd4eebd1d1743060be664a095adfee79c42b65c70fc7ae864996be4c3ceb7914"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-135-2015",
+   "path": "local/suceava/campulung-moldovenesc/2015/135",
+   "short": "HCL Câmpulung Moldovenesc nr. 135/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 135/2015 cu privire la prelungirea valabilității Planului Urbanistic General al Municipiului Câmpulung Moldovenesc și a Regulamentului Local de Urbanism aferent Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 21.12.2015; Având în vedere: -Expunerea de motive a primarului Municipiului Câmpulung Moldovenesc, înregistrată la nr. 25189 din 09.12.2015; -Raportul D",
+   "url": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2015",
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 1,
+     "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_135_2015.pdf",
+     "sha256": "ba28c4d0c718391a7b9c88e0e6da93b95ad3d93662763e60c6bc62352fbcd46b"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/judet/giurgiu/2026",
+"acts": [
+{
+"slug": "hcj-giurgiu-47-2026",
+"path": "local/judet/giurgiu/2026/47",
+"kind": "local",
+"year": "2026",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 47/2026 pentru modificarea Anexei nr.3 la Hotărârea Consiliului Județean Giurgiu nr.281 din 18 decembrie 2025 privind stabilirea taxelor și tarifelor care vor fi percepute de Consiliul Județean Giurgiu și instituțiile publice subordonate acestuia în anul fiscal 2026, cu completările ulterioare",
+"short": "HCJ Giurgiu nr. 47/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-26",
+"latest": "2026-02-26",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-giurgiu-147-2026",
+"path": "local/judet/giurgiu/2026/147",
+"kind": "local",
+"year": "2026",
+"number": "147",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 147/2026 privind aprobarea Regulamentului de acordare a stimulentelor financiare pentru medicii, biologii și biochimiștii din cadrul Spitalului Județean de Urgență Giurgiu și Spitalului de Pneumoftiziologie Izvoru",
+"short": "HCJ Giurgiu nr. 147/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-28",
+"latest": "2026-05-28",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-giurgiu-235-2026",
+"path": "local/judet/giurgiu/2026/235",
+"kind": "local",
+"year": "2026",
+"number": "235",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 235/2026 privind aprobarea Regulamentului de acordare a unor stimulente financiare elevilor din instituțiile de învățământ preuniversitar gimnazial și liceal de stat din județul Giurgiu pentru anul școlar 2025-2026",
+"short": "HCJ Giurgiu nr. 235/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-08-31",
+"latest": "2026-08-31",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

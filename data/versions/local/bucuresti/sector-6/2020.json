@@ -3,6 +3,1116 @@
  "shard": "local/bucuresti/sector-6/2020",
  "acts": [
   {
+   "slug": "hcls6-1-2020",
+   "path": "local/bucuresti/sector-6/2020/1",
+   "short": "HCLS6 nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 1/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-utilizarii-excedentului-anului-precedent-pentru-finantarea-obiectivelor-de-investitii-2",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-1_0.pdf",
+     "sha256": "e1015bd5179f408b5a6a5a22de2901bb1b5add19d940fd6b9d2740546f57c1b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-10-2020",
+   "path": "local/bucuresti/sector-6/2020/10",
+   "short": "HCLS6 nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 10/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-regulamentului-cadru-de-organizare-si-functionare-al-complexului-de-servicii-sociale-pentru-copii-cu-dizabilitati-istru-casuta-istru-4-din-cadrul-directiei-generale-de-asistenta-sociala-si-protectia-copilului-sector-6-conform",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-10%20%281%29.pdf",
+     "sha256": "ef4970cd5286efc96bc46cb14d92289b90cce1fe72f309386315333a0777987b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-100-2020",
+   "path": "local/bucuresti/sector-6/2020/100",
+   "short": "HCLS6 nr. 100/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 100/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-intrarea-silistraru-nr-24-sector-6-pentru-pentru-construire-imobil-cu-functiune-mixta-pe-un-teren-suprafata-masurata-de-741-mp-proprietate-privata-persoane-fizice",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-100.pdf",
+     "sha256": "052981e39ff12be45d9d0922fe56a1cf7bd043a3cf4849afcc26953bf3044d82"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-101-2020",
+   "path": "local/bucuresti/sector-6/2020/101",
+   "short": "HCLS6 nr. 101/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 101/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-rectificarii-bugetului-consolidat-al-sectorului-6-al-municipiului-bucuresti-pe-anul-2020",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-101_0.pdf",
+     "sha256": "26822fb9ca995dfcad9068d2f1a9b0102aeb6dc1f2c3813358d51450bce2efaa"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-102-2020",
+   "path": "local/bucuresti/sector-6/2020/102",
+   "short": "HCLS6 nr. 102/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 102/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-aprobarea-incheierii-unui-acord-privind-acordarea-unui-drept-de-folosinta-gratuita-pentru-un-spatiu-suprafata-de-aproximativ-256-m2-situat-incinta-centrului-comercial-din-soseaua-virtutii-nr-148-sector-6-bucuresti-pentru-desfasurarea",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-102_0.pdf",
+     "sha256": "67c7c1d56d7109ad6492800f7d2f5c25f872d4b6187a0ed26e702118c2b75887"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-103-2020",
+   "path": "local/bucuresti/sector-6/2020/103",
+   "short": "HCLS6 nr. 103/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 103/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-derularii-si-finantarii-din-bugetul-local-al-sectorului-6-anul-2020-proiectului-centrul-de-zi-educare-desfasurat-de-directia-generala-de-asistenta-sociala-si-protectia-copilului-sector-6-parteneriat-cu-asociatia-educare",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-103_1.pdf",
+     "sha256": "0b3dce79960f40b73a8302baa4fcf65953cb58ccbf552aa6583c6dae00af4e68"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-104-2020",
+   "path": "local/bucuresti/sector-6/2020/104",
+   "short": "HCLS6 nr. 104/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 104/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-metodologiei-pentru-aplicarea-la-nivelul-sectorului-6-prevederilor-legii-nr-352020-privind-acordarea-unui-ajutor-financiar-familiilor-pentru-plata-serviciilor-oferite-de-bona-care-urmeaza-sa-fie-pusa-aplicare-de-directia",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-104_0.pdf",
+     "sha256": "ce8fb8510736403b5b1fc806ab6909563031b8d1e4e18d74e52e48902ecd27ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-105-2020",
+   "path": "local/bucuresti/sector-6/2020/105",
+   "short": "HCLS6 nr. 105/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 105/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-modificarea-si-completarea-hotararii-consiliului-local-al-sectorului-6-nr-191-29092016",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-105_0.pdf",
+     "sha256": "75e4e430502ae2f0a51bca026575ddf88078921efafcebbcd126df5add257197"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-106-2020",
+   "path": "local/bucuresti/sector-6/2020/106",
+   "short": "HCLS6 nr. 106/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 106/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-prelungirii-propunerii-de-schimbare-destinatiei-etajului-1-si-mansardei-imobilului-apartinand-colegiului-tehnic-carol-i-situat-soseaua-grozavesti-nr-9-sector-6-bucuresti",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-106_0.pdf",
+     "sha256": "864cb62713c519b795643b1d415289787bd9f322c18e8c6670e75419cebcfc79"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-107-2020",
+   "path": "local/bucuresti/sector-6/2020/107",
+   "short": "HCLS6 nr. 107/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 107/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-strada-brasov-nr-23c-sector-6-pentru-construire-ansamblu-cu-functiunea-de-locuinte-colective-comert-si-servicii-pe-un-teren-suprafata-de-14805-mp-proprietate-privata-persoane-juridice",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-107_1.pdf",
+     "sha256": "6894bdbf4cae6f4c32d74c4d787eea3a1ea3b6236cbdfb7559de2f09c6a8d4fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-108-2020",
+   "path": "local/bucuresti/sector-6/2020/108",
+   "short": "HCLS6 nr. 108/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 108/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-strada-george-valsan-nr-45-47-sector-6-pentru-construire-imobil-cu-functiunea-de-locuinte-colective-pe-un-teren-suprafata-de-599-mp-proprietate-privata-persoana-juridica",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-108_0.pdf",
+     "sha256": "13caf578610a27909e56d9fa027daa799808991e317b6a05604b932b122ca2dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-109-2020",
+   "path": "local/bucuresti/sector-6/2020/109",
+   "short": "HCLS6 nr. 109/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 109/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-respingerea-planului-urbanistic-de-detaliu-calea-giulesti-nr-254-258a-sector-6-pentru-construire-imobil-cu-functiunea-de-centru-comercial-pe-un-teren-suprafata-de-5702-mp-proprietate-privata-persoana-juridica-0",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-109_0.pdf",
+     "sha256": "862207367fa284296b69b3d4b89e68a55ef7022dbdd30378051f2a71b165c575"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-11-2020",
+   "path": "local/bucuresti/sector-6/2020/11",
+   "short": "HCLS6 nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 11/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-regulamentului-cadru-de-organizare-si-functionare-al-complexului-de-servicii-sociale-pentru-copii-cu-dizabilitati-istru-casuta-istru-6-din-cadrul-directiei-generale-de-asistenta-sociala-si-protectia-copilului-sector-6-conform",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-11_0.pdf",
+     "sha256": "c3812aa8ad681ac136df5f40f5ea4bf49b9d90eb5053857394e86ef0d65ba279"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-110-2020",
+   "path": "local/bucuresti/sector-6/2020/110",
+   "short": "HCLS6 nr. 110/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 110/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-rectificarii-bugetului-consolidat-de-venituri-si-cheltuieli-al-sectorului-6-al-municipiului-bucuresti-pe-anul-2020-2",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-110.pdf",
+     "sha256": "160228d4079fe45bcb6f9bfe3e6c3c0963fc16c764a525d9b656849c4dc705e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-111-2020",
+   "path": "local/bucuresti/sector-6/2020/111",
+   "short": "HCLS6 nr. 111/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 111/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-indicatorilor-tehnico-economici-pentru-obiectivul-de-investitii-amplasarea-si-construirea-56-de-constructii-provizorii-pentru-comercializarea-de-flori-pe-raza-sectorului-6",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-111-anexe.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-112-2020",
+   "path": "local/bucuresti/sector-6/2020/112",
+   "short": "HCLS6 nr. 112/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 112/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aporbarea-indicatorilor-tehnico-economici-pentru-obiectivul-de-investitii-piata-valea-ialomitei-modificari-interioare-exterioare-si-lucrari-pentru-adaptarea-cladirii-existente-vederea-asigurarii-securitatii-la-incendiu",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-112-anexe.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-113-2020",
+   "path": "local/bucuresti/sector-6/2020/113",
+   "short": "HCLS6 nr. 113/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 113/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-garantarii-si-contractarii-uneiunor-finantari-rambursabile-interneexterne-valoare-de-pana-la-19500000-lei-ce-va-fi-contractata-de-catre-administratia-pietelor-sector-6",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-113-anexa.pdf",
+     "sha256": "d739b6a5265bc1d8a6a47f911ba1e98aea55243d90e1bf3ac42020d88cb07dbf"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-114-2020",
+   "path": "local/bucuresti/sector-6/2020/114",
+   "short": "HCLS6 nr. 114/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 114/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-interzicerea-unor-mijloace-de-publicitate-pe-raza-sectorului-6-al-municipiului-bucuresti",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-114_0.pdf",
+     "sha256": "01726984905a991ec336cd62d7ad2af391ae4db9b361321d2d0a3591d9805ce5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-115-2020",
+   "path": "local/bucuresti/sector-6/2020/115",
+   "short": "HCLS6 nr. 115/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 115/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-hotarare-privind-acordarea-unor-facilitati-fiscale-conform-oug-nr-692020-pentru-modificarea-si-completarea-legii-nr-2272015-privind-codul-fiscal-precum-si-pentru-instituirea-unor-masuri-fiscal",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-115_0.pdf",
+     "sha256": "649da88bfaebec1c86b3974991f693ec50762eb940632462e70d9d6d381e2f09"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-116-2020",
+   "path": "local/bucuresti/sector-6/2020/116",
+   "short": "HCLS6 nr. 116/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 116/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-aprobarea-actualizarii-indicatorilor-tehnico-economici-ai-proiectului-privind-modernizarea-unitatii-de-invatamant-colegiul-economic-costin-c-kiritescu-din-str-pestera-dambovicioara-nr-12-sector-6-bucuresti",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-116_0.pdf",
+     "sha256": "181d5776a00f51dc7f6dd30feef6e22b8938153a37c94eb96fa21e3205d9227d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-117-2020",
+   "path": "local/bucuresti/sector-6/2020/117",
+   "short": "HCLS6 nr. 117/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 117/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-117_1.pdf",
+     "sha256": "1e440a9dff2adfe4b87acb48da4e9bff229e2d576e2c61b4e5329873b4ca991b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-118-2020",
+   "path": "local/bucuresti/sector-6/2020/118",
+   "short": "HCLS6 nr. 118/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 118/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-118_0.pdf",
+     "sha256": "58bd394dea69e82baff6e5961fe574a182f9c0dd6d69dcb42177684caa420ada"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-119-2020",
+   "path": "local/bucuresti/sector-6/2020/119",
+   "short": "HCLS6 nr. 119/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 119/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-119_0.pdf",
+     "sha256": "20370a330733a7cff106839ef5643b786feaaff2e54a42b606f03903a69aa9ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-12-2020",
+   "path": "local/bucuresti/sector-6/2020/12",
+   "short": "HCLS6 nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 12/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-derularii-si-finantarii-din-bugetul-local-al-sectorului-6-anul-2020-proiectului-centrul-de-consiliere-si-sprijin-pentru-tineri-situatii-de-risc-desfasurat-de-directia-generala-de-asistenta-sociala-si-protectia-copilului-sector",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-12_0.pdf",
+     "sha256": "ee3bbe2762a085a4979c1dce8fabb2b506b1977aab13ac9fa8868f345fe1a4c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-120-2020",
+   "path": "local/bucuresti/sector-6/2020/120",
+   "short": "HCLS6 nr. 120/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 120/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-aprobarea-actualizarii-indicatorilor-tehnico-economici-ai-proiectului-privind-modernizarea-unitatii-de-invatamant-scoala-gimnaziala-sfantul-calinic-de-la-cernica-fosta-scoala-gimnaziala-nr164-din-strpravat-nr22-sector-6-bucuresti",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-120_0.pdf",
+     "sha256": "22e243d740ce4dc635e45cf940b62069995cb1166d6f44116e7b330e9fbfb8ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-121-2020",
+   "path": "local/bucuresti/sector-6/2020/121",
+   "short": "HCLS6 nr. 121/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 121/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-aprobarea-actualizarii-indicatorilor-tehnico-economici-ai-proiectului-privind-modernizarea-unitatii-de-invatamant-scoala-profesionala-speciala-pentru-deficienti-de-auz-sfanta-maria-din-aleea-istru-nr-6-sector-6-bucuresti",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-121_0.pdf",
+     "sha256": "63d6e369669fa01ba14bf17a24d5c88000a7c4476195056d2d7b5eaae6e966f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-122-2020",
+   "path": "local/bucuresti/sector-6/2020/122",
+   "short": "HCLS6 nr. 122/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 122/2020 privind aprobarea proiectului “Modernizarea unității de învățământ Colegiul Economic Costin C.Kirițescu”, a cheltuielilor legate de proiect și de aprobare a acordului de parteneriat între Sectorul 6 al Municipiului București şi Administrația Școlilor Sector 6. - modificata prin HCL S6 nr. 223/09.10.2023",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-proiectului-modernizarea-unitatii-de-invatamant-colegiul-economic-costin-ckiritescu-cheltuielilor-legate-de-proiect-si-de-aprobare-acordului-de-parteneriat-intre-sectorul-6-al-municipiului-bucuresti-si-administratia-scolilor",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-122_0.pdf",
+     "sha256": "88047a792e72d42831b87e30f475bcb4c6036e4f6403dcf9d14cb07589b67e26"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-123-2020",
+   "path": "local/bucuresti/sector-6/2020/123",
+   "short": "HCLS6 nr. 123/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 123/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-123_0.pdf",
+     "sha256": "36d0e8307f606909b33f93079992f069a45ab59c3738810c4695f58849f25c1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-124-2020",
+   "path": "local/bucuresti/sector-6/2020/124",
+   "short": "HCLS6 nr. 124/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 124/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-124_0.pdf",
+     "sha256": "1e7ca3f5a94b330fb7403ad976a66cf9c2a3828f3a0d0f5cdfbc1981470cafb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-125-2020",
+   "path": "local/bucuresti/sector-6/2020/125",
+   "short": "HCLS6 nr. 125/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 125/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-125_0.pdf",
+     "sha256": "856d7c97c2cee8f2c6eecc804f64f3bf71aa06c76a9b011ec789be43f47d5c21"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-126-2020",
+   "path": "local/bucuresti/sector-6/2020/126",
+   "short": "HCLS6 nr. 126/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 126/2020 privind aprobarea proiectului “Modernizarea unității de învățământ Școala Profesională Specială pentru deficienți de auz – Sfânta Maria”, a cheltuielilor legate de proiect și de aprobare a acordului de parteneriat între Sectorul 6 al Municipiului București şi Administrația Școlilor Sector 6. - modificata prin HCL S6 nr. 227/09.10.2023",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-proiectului-modernizarea-unitatii-de-invatamant-scoala-profesionala-speciala-pentru-deficienti-de-auz-sfanta-maria-cheltuielilor-legate-de-proiect-si-de-aprobare-acordului-de-parteneriat-intre-sectorul-6-al-municipiului",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-126_1.pdf",
+     "sha256": "1fb5ae4728ca888d1430765823553b2c438b49e2d871747d1c9f1517c5be0b5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-127-2020",
+   "path": "local/bucuresti/sector-6/2020/127",
+   "short": "HCLS6 nr. 127/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 127/2020 privind aprobarea proiectului “Modernizarea unității de învățământ Școala gimnazială Sfântul Calinic de la Cernica (fostă Școala gimnazială nr. 164)”, a cheltuielilor legate de proiect și de aprobare a acordului de parteneriat între Sectorul 6 al Municipiului București şi Administrația Școlilor Sector 6. - modificata prin HCL S6 nr. 228/09.10.2023",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-proiectului-modernizarea-unitatii-de-invatamant-scoala-gimnaziala-sfantul-calinic-de-la-cernica-fosta-scoala-gimnaziala-nr-164-cheltuielilor-legate-de-proiect-si-de-aprobare-acordului-de-parteneriat-intre-sectorul-6-al",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-127_0.pdf",
+     "sha256": "cbf00f8253566c79a1cd1322468b1175bc67192bdb2487b871c210716a38b5f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-128-2020",
+   "path": "local/bucuresti/sector-6/2020/128",
+   "short": "HCLS6 nr. 128/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 128/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-finantarii-proiectului-reabilitarea-parcului-alunelul-din-sectorul-buiucani-municipiul-chisinau-republica-moldova",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-128_0.pdf",
+     "sha256": "86fb2c02598b159d811462b345c0e84c158c2f72296fd928e498c55bf3561e1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-129-2020",
+   "path": "local/bucuresti/sector-6/2020/129",
+   "short": "HCLS6 nr. 129/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 129/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-derularii-si-finantarii-anul-scolar-2020-2021-din-bugetul-local-al-sectorului-6-al-municipiului-bucuresti-proiectului-scoala-dupa-scoala-desfasurat-de-catre-administratia-scolilor-sector-6",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-129_0.pdf",
+     "sha256": "0fa76c650be31a94d62f2415f75f16abf1e621165a185004f5d314c4754b8c7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-13-2020",
+   "path": "local/bucuresti/sector-6/2020/13",
+   "short": "HCLS6 nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 13/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-derularii-si-finantarii-din-bugetul-local-al-sectorului-6-anul-2020-proiectului-centrul-de-zi-pentru-copii-si-parinti-desfasurat-de-directia-generala-de-asistenta-sociala-si-protectia-copilului-sector-6-parteneriat-cu-fundatia",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-13.pdf",
+     "sha256": "db5298bfc3099a27e876327083ea5391329a3717b03f8ac9fc5033e8bfd115fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-130-2020",
+   "path": "local/bucuresti/sector-6/2020/130",
+   "short": "HCLS6 nr. 130/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 130/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-trecerea-imobilului-apartament-nr-1-suprafata-construita-desfasurata-de-12490-mp-situat-intrarea-pinului-nr-28-bloc-1a-sector-6-bucuresti-obiectiv-de-investitie-proprietate-privata-statului-din-administrarea-consiliului-local-al",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-130_0.pdf",
+     "sha256": "aa2bebcd173f183e65868a39dc1d847d1a4480fafeed047df6d1b764c42a8283"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-131-2020",
+   "path": "local/bucuresti/sector-6/2020/131",
+   "short": "HCLS6 nr. 131/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 131/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-liniilor-de-subventionare-prioritare-din-bugetul-local-anul-2021-pentru-asociatiile-fundatiile-si-cultele-recunoscute-romania-acreditate-ca-furnizori-de-servicii-sociale-potrivit-legii-precum-si-categoriile-de-cheltuieli-pentru",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-131-Nota-indreptare-eroare-materiala.pdf",
+     "sha256": "465280a76e19ca95e1f503d431bcd657f46f06e7467d5aaf6c17f0f80ded6a88"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-132-2020",
+   "path": "local/bucuresti/sector-6/2020/132",
+   "short": "HCLS6 nr. 132/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 132/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-acordarea-unor-ajutoare-de-urgenta-pentru-decontarea-contravalorii-testului-covid-19-pentru-familiile-sau-pentru-persoanele-singure-cu-domiciliul-pe-raza-sectorului-6-al-municipiului-bucuresti-aflate-situatie-de-vulnerabilitate-pe-fondul",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-132_0.pdf",
+     "sha256": "f41d8bd2567deb6e9eed895553e1716f5244d0d3fc741cf4cfe574d808faa19f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-133-2020",
+   "path": "local/bucuresti/sector-6/2020/133",
+   "short": "HCLS6 nr. 133/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 133/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-modificarea-anexelor-nr-1-si-nr-2-din-hotararea-consiliului-local-sector-6-nr-30628112019-privind-infiintarea-biroului-ingrijiri-la-domiciliu-pentru-persoane-varstnice-subordinea-directiei-protectie-sociala-din-cadrul-directiei-generale",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-133_1.pdf",
+     "sha256": "e5742980ec1d3301f09f9374eb03212a4d316b325d71817d14a8f7204e74d4ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-134-2020",
+   "path": "local/bucuresti/sector-6/2020/134",
+   "short": "HCLS6 nr. 134/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 134/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-regulamentului-cadru-de-organizare-si-functionare-al-centrului-pentru-persoane-varstnice-sfantul-mucenic-fanurie-din-cadrul-directiei-generale-de-asistenta-sociala-si-protectia-copilului-sector-6-0",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-134.pdf",
+     "sha256": "0f60f9c9c52bcea45067671915660ef8e2c994ec0c66127b030d4d1ebb42e18a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-135-2020",
+   "path": "local/bucuresti/sector-6/2020/135",
+   "short": "HCLS6 nr. 135/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 135/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-regulamentului-cadru-de-organizare-si-functionare-al-centrului-pentru-persoane-varstnice-floare-rosie-din-cadrul-directiei-generale-de-asistenta-sociala-si-protectia-copilului-sector-6-0",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-135.pdf",
+     "sha256": "759a9cc8dad6039d48c8501421f158b7cd16c06c90260711bd68cb12134d5f9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-136-2020",
+   "path": "local/bucuresti/sector-6/2020/136",
+   "short": "HCLS6 nr. 136/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 136/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-strada-agnita-nr-22-sector-6-pentru-construire-imobil-cu-functiunea-de-locuinte-colective-pe-un-teren-suprafata-de-480-mp-proprietate-privata-persoana-juridica",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-136.pdf",
+     "sha256": "fb6639477fd5912db040760e7e713b6cd59a1d3e27ab35b7f6e5779c35d24fdf"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-137-2020",
+   "path": "local/bucuresti/sector-6/2020/137",
+   "short": "HCLS6 nr. 137/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 137/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-drumul-ciorogarla-nr-371c-sector-6-pentru-construire-imobil-cu-functiunea-de-locuinte-colective-pe-un-teren-suprafata-de-6029-mp-proprietate-privata-persoana-juridica",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-137.pdf",
+     "sha256": "7228be0e433fe33a283d8b43f6adb23ca88f86f14d98ef34eaedda14b0a9b25b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-138-2020",
+   "path": "local/bucuresti/sector-6/2020/138",
+   "short": "HCLS6 nr. 138/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 138/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-calea-giulesti-nr-254-258a-sector-6-pentru-construire-imobil-cu-functiunea-de-centru-comercial-pe-un-teren-suprafata-de-5702-mp-proprietate-privata-persoana-juridica",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-138.pdf",
+     "sha256": "0b8526282d7522d1c72aaa5dd75cd529f14466151cb70e123d5ae61ab83c2c43"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-139-2020",
+   "path": "local/bucuresti/sector-6/2020/139",
+   "short": "HCLS6 nr. 139/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 139/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-strada-lujerului-nr-16-sector-6-pentru-construire-ansamblu-cu-functiunea-de-locuinte-colective-pe-un-teren-suprafata-de-4017-mp-proprietate-privata-persoane-fizice",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-139.pdf",
+     "sha256": "74a4776dba94359dff7364dca8167b156af97dedd4e65b52bb1189e662483dc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-14-2020",
+   "path": "local/bucuresti/sector-6/2020/14",
+   "short": "HCLS6 nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 14/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-derularii-si-finantarii-din-bugetul-local-al-sectorului-6-anul-2020-proiectului-masa-bucuriei-pe-roti-desfasurat-de-directia-generala-de-asistenta-sociala-si-protectia-copilului-sector-6-parteneriat-cu-asociatia-diaconia",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-14.pdf",
+     "sha256": "2c626cb52b11dc7427a5c25cff10b3b2836d4f24e3e35a2b4c5d31a0f276b398"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-140-2020",
+   "path": "local/bucuresti/sector-6/2020/140",
+   "short": "HCLS6 nr. 140/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 140/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-respingerea-planului-urbanistic-de-detaliu-strada-piscul-crasani-nr-37-sector-6-pentru-construire-imobil-cu-functiunea-de-locuinte-colective-pe-un-teren-suprafata-masurata-de-283-mp-proprietate-privata-persoana-juridica",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-140.pdf",
+     "sha256": "890fc6232f0381c455eea89e0f9a1a0b93d4c90ad9708ce3ee485007c8711ba1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-141-2020",
+   "path": "local/bucuresti/sector-6/2020/141",
+   "short": "HCLS6 nr. 141/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 141/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-alegerea-presedintelui-de-sedinta-29",
+   "versions": [
+    {
+     "from": "2020-08-20",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-141_0.pdf",
+     "sha256": "8eeb9004dca237b1d6e77886629848375fc16048086b2d87237e6a575a06a071"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-142-2020",
+   "path": "local/bucuresti/sector-6/2020/142",
+   "short": "HCLS6 nr. 142/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 142/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-rectificarii-bugetului-consolidat-de-venituri-si-cheltuieli-al-sectorului-6-al-municipiului-bucuresti-pe-anul-2020-3",
+   "versions": [
+    {
+     "from": "2020-08-20",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-142-anexe.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-143-2020",
+   "path": "local/bucuresti/sector-6/2020/143",
+   "short": "HCLS6 nr. 143/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 143/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-conturilor-de-executie-pe-trimestrul-2-ale-sectorului-6-al-municipiului-bucuresti-pe-anul-2020",
+   "versions": [
+    {
+     "from": "2020-08-20",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-143_1.pdf",
+     "sha256": "45f690b048fd2cb7eb6e094bdfe9e3a94912ff2fa8628b13b394abd6c843a261"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-144-2020",
+   "path": "local/bucuresti/sector-6/2020/144",
+   "short": "HCLS6 nr. 144/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 144/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-actualizarea-indicatorilor-tehnico-economici-pentru-reabilitarea-termica-8-blocuri-de-locuinte-din-sectorul-6-al-municipiului-bucuresti",
+   "versions": [
+    {
+     "from": "2020-08-20",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-144-anexe.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-145-2020",
+   "path": "local/bucuresti/sector-6/2020/145",
+   "short": "HCLS6 nr. 145/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 145/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-completarea-anexei-nr-2-hcl-sector-6-nr-7-din-data-de-30012020-privind-organizarea-retelei-scolare-unitatilor-de-invatamant-preuniversitar-de-stat-si-particular-de-pe-raza-sectorului-6-al-municipiului-bucuresti-pe-anul-scolar-2020-2021",
+   "versions": [
+    {
+     "from": "2020-08-20",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-145_1.pdf",
+     "sha256": "15870375b58f1e3f3a66b6c4b0f5c735eb3a0caa7d5c197cbf24160116bf0af1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-146-2020",
+   "path": "local/bucuresti/sector-6/2020/146",
+   "short": "HCLS6 nr. 146/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 146/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-derularii-anul-2020-proiectului-oamenii-sunt-grija-noastra-cod-apel-poim81991-id-139239-desfasurat-de-directia-generala-de-asistenta-sociala-si-protectia-copilului-sector-6",
+   "versions": [
+    {
+     "from": "2020-08-20",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-146-anexe.pdf",
+     "sha256": "9d50bd4bf34ce7ffa1ebbac1a2b9d0996fa1582d0ea862438786725d05d08b64"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-147-2020",
+   "path": "local/bucuresti/sector-6/2020/147",
+   "short": "HCLS6 nr. 147/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 147/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-privind-aprobarea-predarii-catre-ministerul-lucrarilor-publice-dezvoltarii-si-administratiei-prin-compania-nationala-de-investitii-cni-sa-pe-baza-de-protocol-amplasamentului-teren-situat-incinta-scolii-gimnaziale-nr-197-str-obcina-mare",
+   "versions": [
+    {
+     "from": "2020-08-20",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-147-anexe.pdf",
+     "sha256": "ff9b7471b803274365e26c40b068c350e277e1926bf4d53319a402af8cd3eddb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-148-2020",
+   "path": "local/bucuresti/sector-6/2020/148",
+   "short": "HCLS6 nr. 148/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 148/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-08-20",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-148_0.pdf",
+     "sha256": "1e75726cc3d1d12623daab09cebcd9a04070a699246e87152822c204a0a5a64c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-149-2020",
+   "path": "local/bucuresti/sector-6/2020/149",
+   "short": "HCLS6 nr. 149/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 149/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-strada-piscul-crasani-nr-37-sector-6-pentru-construire-imobil-cu-functiunea-de-locuinte-colective-pe-un-teren-suprafata-masurata-de-283-mp-proprietate-privata-persoana-juridica",
+   "versions": [
+    {
+     "from": "2020-08-20",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-149_0.pdf",
+     "sha256": "4c6e5a6cef9d9735bb58448e80be2fb3fd1b76cae1409779dd9b9f2a4d3e5ba0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-15-2020",
+   "path": "local/bucuresti/sector-6/2020/15",
+   "short": "HCLS6 nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 15/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-derularii-si-finantarii-din-bugetul-local-al-sectorului-6-anul-2020-proiectului-locuinte-protejate-pentru-adultii-cu-probleme-psihice-desfasurat-de-directia-generala-de-asistenta-sociala-si-protectia-copilului-sector-6",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-15_0.pdf",
+     "sha256": "606a83cea222ab0e903554b1fc1584c72c8c9f9c5a0a14b3083279e89c2676b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-150-2020",
+   "path": "local/bucuresti/sector-6/2020/150",
+   "short": "HCLS6 nr. 150/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 150/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-calea-giulesti-nr-466-sector-6-pentru-extindere-si-supraetajare-constructie-existenta-cu-functiunea-de-locuinta-pe-un-teren-suprafata-masurata-de-1469-mp-proprietate-privata-persoane-fizice",
+   "versions": [
+    {
+     "from": "2020-08-20",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-150_0.pdf",
+     "sha256": "f03581259b3ec463252ade3e9eec1ef3a1fd1ec559f7a2accf44028e0d840c22"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-151-2020",
+   "path": "local/bucuresti/sector-6/2020/151",
+   "short": "HCLS6 nr. 151/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 151/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-rectificarii-bugetului-consolidat-de-venituri-si-cheltuieli-al-sectorului-6-al-municipiului-bucuresti-pe-anul-2020-4",
+   "versions": [
+    {
+     "from": "2020-09-07",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-151-anexe.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-152-2020",
+   "path": "local/bucuresti/sector-6/2020/152",
+   "short": "HCLS6 nr. 152/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 152/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-reactualizarea-indicatorilor-tehnico-economici-pentru-obiectivului-de-investitii-modernizare-sistem-rutier-alei-fara-denumire-intre-blocuri-zona-1-str-ghirlandei-str-dezrobirii-bd-uverturii-str-apusului-fara-strazile-cu-nume-sectorul-6",
+   "versions": [
+    {
+     "from": "2020-09-07",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-152_1.pdf",
+     "sha256": "5140d395d59932fb51a7831cb3d277f1239c02ad07e335dd8cfe5a8242959091"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-153-2020",
+   "path": "local/bucuresti/sector-6/2020/153",
+   "short": "HCLS6 nr. 153/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 153/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-reactualizarea-indicatorilor-tehnico-economici-pentru-obiectivului-de-investitii-modernizare-sistem-rutier-alei-fara-denumire-intre-blocuri-zona-4-str-orsova-sos-virtutii-bd-uverturii-str-dreptatii-fara-strazile-cu-nume-sectorul-6-al",
+   "versions": [
+    {
+     "from": "2020-09-07",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-153-anexe.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-154-2020",
+   "path": "local/bucuresti/sector-6/2020/154",
+   "short": "HCLS6 nr. 154/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 154/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-aprobarea-actualizarii-indicatorilor-tehnico-economici-la-proiect-consolidarea-si-modernizarea-scolii-gimnaziale-nr169-din-str-pascani-nr-2-sector-6-bucuresti",
+   "versions": [
+    {
+     "from": "2020-09-07",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-154_0.pdf",
+     "sha256": "6dd9ff466086bb8ca5e549a6dca78f0697767cc91b52274b9c121424d1831182"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-155-2020",
+   "path": "local/bucuresti/sector-6/2020/155",
+   "short": "HCLS6 nr. 155/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 155/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-alegerea-presedintelui-de-sedinta-30",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-nr.-155_0.pdf",
+     "sha256": "e6c7206943b69cbe2d5e9494d1a606ee07fd3a6d68c45d62fcb43ee4f83eeeb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-156-2020",
+   "path": "local/bucuresti/sector-6/2020/156",
+   "short": "HCLS6 nr. 156/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 156/2020 privind numărul, denumirea şi componenţa Comisiilor de specialitate ale Consiliului Local al Sectorului 6 - modificata prin HCL S6 nr. 172/18.07.2024 - modificata prin HCL S6 nr. 298/24.11.2022",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-numarul-denumirea-si-componenta-comisiilor-de-specialitate-ale-consiliului-local-al-sectorului-6",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-156_0.pdf",
+     "sha256": "7cf4fe43d8806ac8aa1fba4d0c59011468ebcba6e7ac837bd1ce32be255ecc8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-157-2020",
+   "path": "local/bucuresti/sector-6/2020/157",
+   "short": "HCLS6 nr. 157/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 157/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-alegerea-presedintelui-de-sedinta-31",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-157_1.pdf",
+     "sha256": "3f2b09a8f1199300c0593730bc8245c39f5545ba18d7fd3914391646f253b13d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-158-2020",
+   "path": "local/bucuresti/sector-6/2020/158",
+   "short": "HCLS6 nr. 158/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 158/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-organigramei-si-statului-de-functii-ale-administratiei-domeniului-public-si-dezvoltare-urbana-sector-6-0",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-158_0.pdf",
+     "sha256": "fe89249b721cbf1aca3a52e9a2da422b09c02384944d87f6d1304009c1276193"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-159-2020",
+   "path": "local/bucuresti/sector-6/2020/159",
+   "short": "HCLS6 nr. 159/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 159/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-organigramei-statului-de-functii-si-regulamentului-de-organizare-si-functionare-al-primariei-sectorului-6-al-municipiului-bucuresti",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-159_0.pdf",
+     "sha256": "65ebeb1b4cad859d05a128df9d7da6e5cd2b2c351ed2e107ad24d8911490bcf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-16-2020",
+   "path": "local/bucuresti/sector-6/2020/16",
+   "short": "HCLS6 nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 16/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-derularii-anul-2020-proiectului-de-dezvoltare-al-serviciului-de-recuperare-balneofizioterapie-din-cadrul-centrului-pentru-persoane-varstnice-floare-rosie-desfasurat-de-catre-directia-generala-de-asistenta-sociala-si-protectia",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-16.pdf",
+     "sha256": "931d6e33f266115cd9b7ec49486026dd17f5cdcbebcb7fdcf34dabe2456e099a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-160-2020",
+   "path": "local/bucuresti/sector-6/2020/160",
+   "short": "HCLS6 nr. 160/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 160/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-alegerea-viceprimarului-sectorului-6-care-exercita-primul-calitatea-de-inlocuitor-de-drept-al-primarului-sectorului-6",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-160_0.pdf",
+     "sha256": "810c1bf4c8808118bb1d57c14ee2270b9d73a406e16f6b8e1a91ed4277cd44fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-161-2020",
+   "path": "local/bucuresti/sector-6/2020/161",
+   "short": "HCLS6 nr. 161/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 161/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-alegerea-viceprimarului-sectorului-6",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-161_0.pdf",
+     "sha256": "6d303e260f1536cca0d903039fff54cff8db55a722fd5a6a2e9ef959ea569e6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-162-2020",
+   "path": "local/bucuresti/sector-6/2020/162",
+   "short": "HCLS6 nr. 162/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 162/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-conturilor-de-executie-pe-trimestrul-3-ale-sectorului-6-al-municipiului-bucuresti-pe-anul-2020",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-162-anexe.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-163-2020",
+   "path": "local/bucuresti/sector-6/2020/163",
+   "short": "HCLS6 nr. 163/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 163/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-proiectului-consolidarea-capacitatii-de-gestionare-pandemiei-generata-de-virusul-sars-cov-2-la-nivelul-unitatilor-de-invatamant-de-pe-raza-sectorului-6-al-municipiului-bucuresti-si-cheltuielilor-legate-de-proiect",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-163_0.pdf",
+     "sha256": "9e79f9e4c5605180694b91fc1af96895c7b7bd92331ce433e5bc6c936b597662"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-164-2020",
+   "path": "local/bucuresti/sector-6/2020/164",
+   "short": "HCLS6 nr. 164/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 164/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-constituirea-comisiei-sociale-de-analiza-cererilor-de-locuinta-si-repartizare-locuintelor-stabilirea-numarului-membrilor-structurii-pe-specialitati-si-atributiilor-acesteia",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-164_0.pdf",
+     "sha256": "9bb2f64b02a80883af7f08725a6f11c8303cda2b2edc275026dec55a2f090960"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-165-2020",
+   "path": "local/bucuresti/sector-6/2020/165",
+   "short": "HCLS6 nr. 165/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 165/2020 privind desemnarea membrilor titulari şi a membrilor supleanţi ce vor face parte din Comisia pentru Vânzarea Spaţiilor Comerciale sau de Prestări de Servicii ce va funcţiona la nivelul Sectorului 6, al municipiului Bucureşti - modificata prin HCL S6 nr. 174/18.07.2024",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-desemnarea-membrilor-titulari-si-membrilor-supleanti-ce-vor-face-parte-din-comisia-pentru-vanzarea-spatiilor-comerciale-sau-de-prestari-de-servicii-ce-va-functiona-la-nivelul-sectorului-6-al-municipiului-bucuresti",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-165.pdf",
+     "sha256": "bcef4d9362f46a2a0cc1b2bbdad7849d762638595f1537ed5c13dadad060ed81"
+    }
+   ]
+  },
+  {
    "slug": "hcls6-166-2020",
    "path": "local/bucuresti/sector-6/2020/166",
    "short": "HCLS6 nr. 166/2020",
@@ -14,6 +1124,1731 @@
      "units": 1,
      "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-166.pdf",
      "sha256": "1b260e7a050e5ac54575282d12a81e02187f1e0ce6b0410919b8143920a24218"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-167-2020",
+   "path": "local/bucuresti/sector-6/2020/167",
+   "short": "HCLS6 nr. 167/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 167/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-de-catre-consiliul-local-al-sectorului-6-al-municipiului-bucuresti-constituirii-colegiului-director-la-nivelul-directiei-generale-de-asistenta-sociala-si-protectia-copilui-sector-6-0",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-167.pdf",
+     "sha256": "1fbcd2ef09c43f84f70cb3b64201d82f21a8d3b9964d2b6b690ba4c601fada85"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-168-2020",
+   "path": "local/bucuresti/sector-6/2020/168",
+   "short": "HCLS6 nr. 168/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 168/2020 privind aprobarea componenței Comisiei de evaluare și selecționare a asociațiilor, fundațiilor și cultelor recunoscute în România, acreditate ca furnizori de servicii sociale potrivit legii, precum și aprobarea Regulamentului de organizare și funcționare al Comisiei de evaluare și selecționare și a Grilei de evaluare a asociațiilor, fundațiilor și cultelor recunoscute în România, acreditate ca furnizori de servicii sociale potrivit legii - modificata prin HCL S6 nr. 10/30.01.2025",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-componentei-comisiei-de-evaluare-si-selectionare-asociatiilor-fundatiilor-si-cultelor-recunoscute-romania-acreditate-ca-furnizori-de-servicii-sociale-potrivit-legii-precum-si-aprobarea-regulamentului-de-organizare-si-0",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-168.pdf",
+     "sha256": "6e61fe7418f7cef2dea0e75727f6137306b5c8d3985ace4512e4910d8b916935"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-169-2020",
+   "path": "local/bucuresti/sector-6/2020/169",
+   "short": "HCLS6 nr. 169/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 169/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-nominalizarii-reprezentantilor-consiliului-local-al-sectorului-6-consiliul-de-dezvoltare-regionala-bucuresti-ilfov",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-169.pdf",
+     "sha256": "04f496a9384daf75836e0c92b72a228b1137187bf86db46e97cba65808602f4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-17-2020",
+   "path": "local/bucuresti/sector-6/2020/17",
+   "short": "HCLS6 nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 17/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-stabilirea-serviciilor-acordate-persoanelor-varstnice-functie-de-gradul-de-dependenta-costului-mediu-lunar-pe-grade-de-dependenta-cuantumului-contributiei-lunare-de-intretinere-persoanelor-varstnice-si-nivelului-alocatiei-zilnice-de-1",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-17.pdf",
+     "sha256": "b92c4814d6b35468fcfe1fec71eef40bd4bacb4ce57c25e3e893cac2bf0efad1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-170-2020",
+   "path": "local/bucuresti/sector-6/2020/170",
+   "short": "HCLS6 nr. 170/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 170/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-proiectului-dotarea-unitatilor-de-invatamant-din-sectorul-6-pentru-asigurarea-accesului-elevilor-la-procesul-de-invatamant-mediul-online-si-cheltuielilor-legate-de-proiect",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-170.pdf",
+     "sha256": "3046e0bd7810a008f8c233d707a9630a19afd98021eb2270a2ab8923f7914b00"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-171-2020",
+   "path": "local/bucuresti/sector-6/2020/171",
+   "short": "HCLS6 nr. 171/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 171/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-solicitarea-catre-consiliul-general-al-municipiului-bucuresti-de-intreprinde-demersurile-necesare-vederea-initierii-unei-hotarari-de-guvern-pentru-transmiterea-imobilelor-avand-numerele-cadastrale-218783-227926-si-228563-din-domeniul",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-171.pdf",
+     "sha256": "81cc7ff072757604d63c7ece14947cc53858a6ece28b3e627a30752660a26d16"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-172-2020",
+   "path": "local/bucuresti/sector-6/2020/172",
+   "short": "HCLS6 nr. 172/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 172/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-burselor-scolare-si-cuantumul-acestora-pentru-semestrul-i-scolar-2020-2021-pentru-elevii-cuprinsi-invatamantul-preuniversitar-de-stat-din-unitatile-de-invatamant-preuniversitar-de-stat-din-sectorul-6",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-172.pdf",
+     "sha256": "e63b88659a5d4c77441de9330de7f8e83a8ee8f461160bc0ec799ec9685eb0a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-173-2020",
+   "path": "local/bucuresti/sector-6/2020/173",
+   "short": "HCLS6 nr. 173/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 173/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-solicitarea-acordului-consiliului-general-al-municipiului-bucuresti-de-aprobare-asocierii-dintre-sectorul-6-al-municipiului-bucuresti-si-universitatea-politehnica-din-bucuresti-scopul-acordarii-accesului-nelimitat-pentru-public-incinta",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-173.pdf",
+     "sha256": "25582f87014e7a488c9db432cdd6893dcf0dbabfb4668f36994476ab5a5c8685"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-174-2020",
+   "path": "local/bucuresti/sector-6/2020/174",
+   "short": "HCLS6 nr. 174/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 174/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-174_0.pdf",
+     "sha256": "d9de219c96ecd5044e3f93db63904c958fda12632a47abd03b4f36cdf8ff02b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-175-2020",
+   "path": "local/bucuresti/sector-6/2020/175",
+   "short": "HCLS6 nr. 175/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 175/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-175.pdf",
+     "sha256": "c016cf57aed9c68ad28ef8b683fca699a79ed1047f12a5dc369a1afce055855c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-176-2020",
+   "path": "local/bucuresti/sector-6/2020/176",
+   "short": "HCLS6 nr. 176/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 176/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-176.pdf",
+     "sha256": "b95cc5ca938eb05983863c85299ee9f790cf7b71cbd191446d7e69ebe35ecd13"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-177-2020",
+   "path": "local/bucuresti/sector-6/2020/177",
+   "short": "HCLS6 nr. 177/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 177/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-modificarea-hotararii-consiliului-local-al-sectorului-6-nr-15604112020-privind-numarul-denumirea-si-componenta-comisiilor-de-specialitate-ale-consiliului-local-al-sectorului-6",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-177.pdf",
+     "sha256": "8467b6211aff435401d6c04ecb174dc793ebf5c23905682fd96276d064db9c21"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-178-2020",
+   "path": "local/bucuresti/sector-6/2020/178",
+   "short": "HCLS6 nr. 178/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 178/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-solicitarea-catre-consiliul-general-al-municipiului-bucuresti-de-transmite-administrarea-consiliului-local-sector-6-terenul-situat-bd-timisoara-nr-101e-sector-6-bucuresti-suprafata-de-33330-mp-aflat-domeniul-public-al-municipiului",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-178.pdf",
+     "sha256": "9f65477b3695e6ae865e6ffe7075020ac4c2c0e2b77340f2f5ef3b3dcea7f2b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-179-2020",
+   "path": "local/bucuresti/sector-6/2020/179",
+   "short": "HCLS6 nr. 179/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 179/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-rectificarii-bugetului-consolidat-de-venituri-si-cheltuieli-al-sectorului-6-al-municipiului-bucuresti-pe-anul-2020-5",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-179.pdf",
+     "sha256": "f8ec00ba25de54046b6cab86c1ded5d6811abcc12f22168b3bc4e0084bc6fc29"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-18-2020",
+   "path": "local/bucuresti/sector-6/2020/18",
+   "short": "HCLS6 nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 18/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-derularii-anul-2020-proiectului-servicii-de-salinoterapie-la-nivelul-sectorului-6-desfasurat-de-catre-directia-generala-de-asistenta-sociala-si-protectia-copilului-sector-6",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-18.pdf",
+     "sha256": "4e68bde871092994618359c9180e562b8eede362791cd5d8fd305b7b658acacf"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-180-2020",
+   "path": "local/bucuresti/sector-6/2020/180",
+   "short": "HCLS6 nr. 180/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 180/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-modificarea-hotararii-consiliului-local-al-sectorului-6-nr-5402042020-privind-aprobarea-contractarii-uneiunor-finantari-rambursabile-externe-baza-garantiilor-proprii-valoare-de-pana-la-47000000-euro-sau-echivalentul-lei-pentru-o-perioada",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-180.pdf",
+     "sha256": "c6c888ec6953269a43158b9bc2060749a7a9a7579e10e5eefaa5d9f5784dc859"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-181-2020",
+   "path": "local/bucuresti/sector-6/2020/181",
+   "short": "HCLS6 nr. 181/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 181/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-nominalizarea-reprezentantilor-consiliului-local-sector-6-comisiile-pentru-evaluarea-si-asigurarea-calitatii-din-unitatile-de-invatamant-preuniversitar-de-stat-particular-si-confesional-din-sectorul-6-al-municipiului-bucuresti",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-181_0.pdf",
+     "sha256": "c597d55837e044c47b278ff94d2e0ff3c67b97d73503e8bc4e8fbe4fd3c3ca19"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-182-2020",
+   "path": "local/bucuresti/sector-6/2020/182",
+   "short": "HCLS6 nr. 182/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 182/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-nominalizarea-reprezentantilor-consiliului-local-sector-6-consiliile-de-administratie-ale-unitatilor-de-invatamant-preuniversitar-de-stat-din-sectorul-6-al-municipiului-bucuresti-nominalizarea-reprezentantilor-consiliului-local-sector-0",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-182_0.pdf",
+     "sha256": "499663484e5e3b3cb0ee0277ece38823a395f64dbb93831d98257b96b3d40ad3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-183-2020",
+   "path": "local/bucuresti/sector-6/2020/183",
+   "short": "HCLS6 nr. 183/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 183/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-modificarea-hcl-nr-7-din-data-de-30012020-privind-organizarea-retelei-scolare-unitatilor-de-invatamant-preuniversitar-de-pe-raza-sectorului-6-al-municipiului-bucuresti-pe-anul-scolar-2020-2021",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-183.pdf",
+     "sha256": "4b054d804544789d05122f90979c18b8d776aa9ebb0087f44740f2b50368046c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-184-2020",
+   "path": "local/bucuresti/sector-6/2020/184",
+   "short": "HCLS6 nr. 184/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 184/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-modificarea-hcl-nr-7-din-data-de-30012020-privind-organizarea-retelei-scolare-unitatilor-de-invatamant-preuniversitar-de-pe-raza-sectorului-6-al-municipiului-bucuresti-pe-anul-scolar-2020-2021-0",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-184_0.pdf",
+     "sha256": "f027662969ac327f76e2da90e6de0c738824e442b82647d66b20db69c76b3dce"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-185-2020",
+   "path": "local/bucuresti/sector-6/2020/185",
+   "short": "HCLS6 nr. 185/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 185/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-solicitarea-catre-consiliul-general-al-municipiului-bucuresti-de-transmite-administrarea-consiliului-local-al-sectorului-6-prin-administratia-domeniului-public-si-dezvoltare-urbana-sector-6-imobilul-cu-nr-cadastral-214793-situat",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-185.pdf",
+     "sha256": "5a0717661f0339d4f3d8a752699157ec9347d2969877b1c2bdc554750a6778ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-186-2020",
+   "path": "local/bucuresti/sector-6/2020/186",
+   "short": "HCLS6 nr. 186/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 186/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-inregistrarea-administratiei-domeniului-public-si-dezvoltare-urbana-sector-6-sistemul-national-electronic-de-plata-online-snep-utilizand-cardul-bancar",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-186_0.pdf",
+     "sha256": "b71a0fb3e3e412ac223e87b44b98c0b9ea84a37999eaa11eccf7b07b20c49a59"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-187-2020",
+   "path": "local/bucuresti/sector-6/2020/187",
+   "short": "HCLS6 nr. 187/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 187/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-realizarii-unui-audit-extern-al-activitatii-unor-institutii-aflate-subordinea-consiliului-local-sector-6",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-187.pdf",
+     "sha256": "341e0a354d23fa4f0848d18b2862a2c0ea072bf4edc59567ca133db763c1cd65"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-188-2020",
+   "path": "local/bucuresti/sector-6/2020/188",
+   "short": "HCLS6 nr. 188/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 188/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-prelungirea-termenului-de-aplicabilitate-hotararii-consiliului-local-al-sectorului-6-nr-32612122019-de-aprobare-listelor-cu-ordinea-de-prioritate-solicitantilor-indreptatiti-sa-beneficieze-conform-legii-nr-1141996-de-locuinte-convenabile",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-188.pdf",
+     "sha256": "b33c722dc39a6f8b09317ddf46c090943ef2a03fdf70263b117c1a868b402445"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-189-2020",
+   "path": "local/bucuresti/sector-6/2020/189",
+   "short": "HCLS6 nr. 189/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 189/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-prelungirea-termenului-de-aplicabilitate-hotararii-consiliului-local-al-sectorului-6-nr-32712122019-de-aprobare-listelor-cu-ordinea-de-prioritate-solicitantilor-indreptatiti-conform-ordonantei-de-urgenta-nr-742007-sa-beneficieze-de",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-189.pdf",
+     "sha256": "fd0b2a9e20e2bd9a6bebb1255db15cc628418634223286468ca0f331c411d439"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-19-2020",
+   "path": "local/bucuresti/sector-6/2020/19",
+   "short": "HCLS6 nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 19/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-derularii-si-finantarii-din-bugetul-local-al-sectorului-6-anul-2020-proiectului-centrul-comunitar-generatii-desfasurat-de-directia-generala-de-asistenta-sociala-si-protectia-copilului-sector-6-parteneriat-cu-fundatia-regala",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-19.pdf",
+     "sha256": "f90aef70a8e76911b5a57a78ff72468809c4637f25f4571441ef4719ac56e892"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-190-2020",
+   "path": "local/bucuresti/sector-6/2020/190",
+   "short": "HCLS6 nr. 190/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 190/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-solicitarea-acordului-expres-al-consiliului-general-al-municipiului-bucuresti-pentru-imputernicirea-primarului-sectorului-6-de-semna-protocolul-de-colaborare-dezvoltarea-spatiului-verde-public-din-sectorul-6-vederea-imbunatatirii",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-190.pdf",
+     "sha256": "8695d134c1f27ce573d0e3e5058406050d8cc78c48e1ea4dadea64b53a9f0c20"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-191-2020",
+   "path": "local/bucuresti/sector-6/2020/191",
+   "short": "HCLS6 nr. 191/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 191/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-modificarea-anexelor-nr1-si-nr-2-din-hotararea-consiliului-local-sector-6-nr-14620082020-privind-aprobarea-derularii-anul-2020-proiectului-oamenii-sunt-grija-noastra-cod-apel-poim81991-id-139239-desfasurat-de-directia-generala-de",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-191_1.pdf",
+     "sha256": "8cafae067ec6461e2a464c6c0d89ce45836361950f8355655fee7b207d92af87"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-192-2020",
+   "path": "local/bucuresti/sector-6/2020/192",
+   "short": "HCLS6 nr. 192/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 192/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-solicitarea-catre-consiliului-general-al-municipiului-bucuresti-pentru-imputernicirea-expresa-consiliului-local-al-sectorului-6-de-incheia-un-acord-de-parteneriat-cu-universitatea-politehnica-bucuresti-vederea-stabilirii-cadrului-general",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-192_0.pdf",
+     "sha256": "fb83cdd455648754b9c698d966b77f9635d648b22e5cf80fc8ec8039cd738a09"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-2-2020",
+   "path": "local/bucuresti/sector-6/2020/2",
+   "short": "HCLS6 nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 2/2020 privind aprobarea documentației tehnice faza studiu de fezabilitate și a indicatorilor tehnico-economici pentru obiectivul „Sistem de supraveghere și monitorizare video integrat pe teritoriul administrativ al Sectorului 6” actualizati indicatorii prin HCL S6 nr. 55/2022",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-documentatiei-tehnice-faza-studiu-de-fezabilitate-si-indicatorilor-tehnico-economici-pentru-obiectivul-sistem-de-supraveghere-si-monitorizare-video-integrat-pe-teritoriul-administrativ-al-sectorului-6",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-2_1.pdf",
+     "sha256": "3cd223e954ad0706c253646ccf462411102bff3ba8d2fc04b326e096db93bc08"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-20-2020",
+   "path": "local/bucuresti/sector-6/2020/20",
+   "short": "HCLS6 nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 20/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-derularii-si-finantarii-din-bugetul-local-al-sectorului-6-anul-2020-proiectului-centrul-de-plasament-sf-marcellin-champagnat-desfasurat-de-directia-generala-de-asistenta-sociala-si-protectia-copilului-sector-6-parteneriat-cu",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-20.pdf",
+     "sha256": "c612e80c8105912f1d9d23256e693afac71693b8190c2a73827c40e2958e3659"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-21-2020",
+   "path": "local/bucuresti/sector-6/2020/21",
+   "short": "HCLS6 nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 21/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-solicitarea-acordului-expres-al-consiliului-general-al-municipiului-bucuresti-de-imputernicire-consiliului-local-al-sectorului-6-sa-hotarasca-vederea-asocieriicooperarii-dintre-directia-generala-de-asistenta-sociala-si-protectia-3",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-21.pdf",
+     "sha256": "d9abb57b17d9865d222d35ee7320e3df9796a83d1971a1749e39f34c2b5e8ea9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-22-2020",
+   "path": "local/bucuresti/sector-6/2020/22",
+   "short": "HCLS6 nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 22/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-acordarea-de-la-bugetul-local-al-sectorului-6-unor-sume-de-bani-pentru-plata-chiriei-unor-locuinte-anul-2020-ca-masura-de-prevenire-si-combatere-marginalizarii-sociale-conform-prevederilor-legii-nr-1162002",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-22.pdf",
+     "sha256": "ed9930b6c450d7edd5a5cb19f67213063f41bc761ab2efa9404e8fb31d9f5bd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-23-2020",
+   "path": "local/bucuresti/sector-6/2020/23",
+   "short": "HCLS6 nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 23/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-alegerea-presedintelui-de-sedinta-27",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-23.pdf",
+     "sha256": "3392ed81329d150e1ea09214544044cea0521cfe866eb6deecec2febc59f835c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-24-2020",
+   "path": "local/bucuresti/sector-6/2020/24",
+   "short": "HCLS6 nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 24/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-24_0.pdf",
+     "sha256": "788f0841435b46efd98aa6da846794292f7b0ab1a19326d1d3ac50fa6b3f4814"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-25-2020",
+   "path": "local/bucuresti/sector-6/2020/25",
+   "short": "HCLS6 nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 25/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-bugetului-consolidat-de-venituri-si-cheltuieli-al-sectorului-6-al-municipiului-bucuresti-pe-anul-2020",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-25.pdf",
+     "sha256": "2e280c8c32f7fccf222d8eade73fcd2cdd5e7e332989432dacd097c70fbc1889"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-26-2020",
+   "path": "local/bucuresti/sector-6/2020/26",
+   "short": "HCLS6 nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 26/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-solicitarea-acordului-consiliului-general-al-municipiului-bucuresti-de-aprobare-asocierii-dintre-sectorul-6-al-municipiului-bucuresti-cu-administratia-strazilor-bucuresti-vederea-realizarii-lucrarilor-de-interes-public-local-referitoare",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-26.pdf",
+     "sha256": "7cffa1ca83c898a232a001e9fa99370f1fb4430d607ede05b309a643351c64b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-27-2020",
+   "path": "local/bucuresti/sector-6/2020/27",
+   "short": "HCLS6 nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 27/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-trecerea-din-administrarea-sectorului-6-al-municipiului-bucuresti-administrarea-administratiei-pietelor-sector-6-unui-numar-de-56-de-terenuri-destinate-amplasariiconstruirii-de-structuri-pentru-comercializarea-de-flori",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-27.pdf",
+     "sha256": "0839348a36f3e6688466a96ee1b037c216a64f8c9cc07b2173a5205fbcc4511d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-28-2020",
+   "path": "local/bucuresti/sector-6/2020/28",
+   "short": "HCLS6 nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 28/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-solicitarea-catre-consiliul-general-al-municipiului-bucuresti-de-transmite-administrarea-consiliului-local-sector-6-terenurile-situate-bucuresti-splaiul-independentei-nr-298a-sector-6-splaiul-independentei-nr-296-b-sector-6-calea-plevnei",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-28.pdf",
+     "sha256": "5ee02188c2659ceb6f2ffeab90ebb4a4e9a2c8a28e421471e5e4bd9d0c5f3f1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-29-2020",
+   "path": "local/bucuresti/sector-6/2020/29",
+   "short": "HCLS6 nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 29/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-derularii-si-finantarii-din-bugetul-local-al-sectorului-6-limita-sumei-de-67000-lei-proiectului-centrul-de-pregatire-pentru-performanta-perm-programare-electronica-robotica-mecanica-desfasurat-de-primaria-sector-6-prin",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-29.pdf",
+     "sha256": "1ed226b9f7dbe998871494cd01b6bb3d5b23ca407b6ed1a719a4a4b690fa4bed"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-3-2020",
+   "path": "local/bucuresti/sector-6/2020/3",
+   "short": "HCLS6 nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 3/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-acordarea-catre-directia-de-administrare-fondului-locativ-sector-6-dreptului-de-administrare-asupra-suprafetelor-de-teren-ce-cuprind-proiectia-la-sol-imobilelor-amprenta-blocului-aleilecaile-si-platformele-pietonale-acces-bloc-aferente",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-3.pdf",
+     "sha256": "ccff739e494ea97a529f295dbbe7ce2863c71a1c832f46b60fbcfd5230a739d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-30-2020",
+   "path": "local/bucuresti/sector-6/2020/30",
+   "short": "HCLS6 nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 30/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-bursei-primarului-sectorului-6-burselor-de-excelenta-burselor-scolare-si-cuantumul-acestora-pentru-semestrul-ii-scolar-2019-2020-pentru-elevii-cuprinsi-invatamantul-preuniversitar-de-stat-din-unitatile-de-invatamant",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-30.pdf",
+     "sha256": "41180afa9aa13ac28d7d2145f4496abaff0ee3b19fb8f998c662a5491e9e8d6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-31-2020",
+   "path": "local/bucuresti/sector-6/2020/31",
+   "short": "HCLS6 nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 31/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-constituirea-echipei-mobile-pentru-interventia-regim-de-urgenta-cazurile-de-violenta-domestica-identificate-pe-raza-sectorului-6",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-31_0.pdf",
+     "sha256": "c192128c9e6ffc8cc7a69aa5e499d75e7b8b5cc311bd420d28acd4ed22c8b02b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-32-2020",
+   "path": "local/bucuresti/sector-6/2020/32",
+   "short": "HCLS6 nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 32/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-regulamentului-cadru-de-organizare-si-functionare-al-centrului-de-plasament-acasa-din-cadrul-directiei-generale-de-asistenta-sociala-si-protectia-copilului-sector-6-conform-anexei-nr-1-precum-si-aprobarea-procedurilor-conform",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-32_0.pdf",
+     "sha256": "9459f549f711bcefe94bad494178c61abcbe17ecd725bfaf1e4e20b0a6760ffe"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-33-2020",
+   "path": "local/bucuresti/sector-6/2020/33",
+   "short": "HCLS6 nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 33/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-stabilirea-costului-mediu-lunar-de-intretinere-persoanelor-adulte-cu-handicap-care-beneficiaza-de-servicii-oferite-de-centrul-de-zi-pentru-persoane-adulte-cu-dizabilitati-din-cadrul-directiei-generale-de-asistenta-sociala-si-protectia",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-33.pdf",
+     "sha256": "8b55f6f26d22cb8fa4251f48f49b8ea236cf82167da6aff3939b174083b2860d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-34-2020",
+   "path": "local/bucuresti/sector-6/2020/34",
+   "short": "HCLS6 nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 34/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-stabilirea-cuantumului-maxim-al-alocatiei-zilnice-de-hrana-si-costului-mediu-lunar-de-intretinere-pentru-persoanele-adulte-cu-handicap-ingrijite-centrul-de-abilitare-si-reabilitare-pentru-persoane-adulte-cu-handicap-uverturii-din-cadrul",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-34_0.pdf",
+     "sha256": "bb7bb4b61d8067acb81f4600bca606592878b9e457a1f8135651186244f115f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-35-2020",
+   "path": "local/bucuresti/sector-6/2020/35",
+   "short": "HCLS6 nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 35/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-decontarea-cheltuielilor-de-transport-ale-personalului-administratiei-domeniului-public-si-dezvoltare-urbana-sector-6",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-35.pdf",
+     "sha256": "67615fd92e9e36d21a6908c71cfa2a00dbae745c8c19247f765a1bbdeaa5dacc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-36-2020",
+   "path": "local/bucuresti/sector-6/2020/36",
+   "short": "HCLS6 nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 36/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-actualizarea-indicatorilor-tehnico-economici-si-aprobarea-documentatiei-tehnice-faza-studiu-de-fezabilitate-obiectivului-de-investitii-amenajare-peisagistica-scuar-central-bulevardul-timisoara",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-36-anexe.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-37-2020",
+   "path": "local/bucuresti/sector-6/2020/37",
+   "short": "HCLS6 nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 37/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-documentatiei-tehnico-economice-faza-studiu-de-fezabilitate-pentru-obiectivul-de-investitii-lucrari-de-reamenajare-si-resistematizare-integrata-zona-teritoriala-nr-8-str-raul-doamnei-drumul-taberei-str-brasov-prelungirea",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-37-anexe_0.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-38-2020",
+   "path": "local/bucuresti/sector-6/2020/38",
+   "short": "HCLS6 nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 38/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-documentatiei-tehnico-economice-faza-studiu-de-fezabilitate-pentru-obiectivul-de-investitii-lucrari-de-reamenajare-si-resistematizare-integrata-zona-teritoriala-nr-9-str-brasov-drumul-taberei-str-sibiu-str-1-mai",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-38-anexe.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-39-2020",
+   "path": "local/bucuresti/sector-6/2020/39",
+   "short": "HCLS6 nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 39/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-39-anexe.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-4-2020",
+   "path": "local/bucuresti/sector-6/2020/4",
+   "short": "HCLS6 nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 4/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-imputernicirea-primarului-sectorului-6-al-municipiului-bucuresti-sa-constituie-comisia-de-negociere-vederea-cumpararii-pentru-si-numele-municipiului-bucuresti-terenului-suprafata-de-65200-mp-situat-bucuresti-str-dealul-tugulea-nr-1c",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-4.pdf",
+     "sha256": "dd0e8d6701b0a01c29b9439b8c291a6d637ff568d4eeef977f6007672753174e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-40-2020",
+   "path": "local/bucuresti/sector-6/2020/40",
+   "short": "HCLS6 nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 40/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-indreptarea-erorii-materiale-cuprinsa-planul-urbanistic-de-detaliu-drumul-belsugului-nr-32-34-sector-6-pentru-construire-imobil-cu-functiunea-de-locuinte-colective-pe-un-teren-suprafata-de-3179-mp-proprietate-privata-persoana-juridica",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-40.pdf",
+     "sha256": "089d30f94f9a5729503de69decb615f442307d66722c9e98e288198099bc044d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-41-2020",
+   "path": "local/bucuresti/sector-6/2020/41",
+   "short": "HCLS6 nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 41/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-indreptarea-erorii-materiale-cuprinsa-planul-urbanistic-de-detaliu-intrarea-poltava-nr-20b-sector-6-pentru-construire-imobil-cu-functiunea-de-locuinta-si-anexa-pe-un-teren-suprafata-de-762-mp-proprietate-privata-persoane-fizice-aprobat",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-41_0.pdf",
+     "sha256": "f6f2cb30ac2e40ff9c9749ee56cda147177a4f3e7175be2629a47ab906d57b2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-42-2020",
+   "path": "local/bucuresti/sector-6/2020/42",
+   "short": "HCLS6 nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 42/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-drumul-coasta-magurii-nr-80-90-sector-6-pentru-construire-ansamblu-cu-functiunea-de-locuinte-colective-pe-un-teren-suprafata-de-10800-mp-proprietate-privata-persoane-fizice-0",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-42_1.pdf",
+     "sha256": "4ba48b16de5c7c39209edcc99bd7e4156f811837d67ec11632d961c61c97232f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-43-2020",
+   "path": "local/bucuresti/sector-6/2020/43",
+   "short": "HCLS6 nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 43/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-rectificarii-bugetului-local-de-venituri-si-cheltuieli-al-sectorului-6-al-municipiului-bucuresti-pe-anul-2017-7",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-43_0.pdf",
+     "sha256": "f7a76a6209c1dd8ea704d9cfab30208c5092469e94bf6b0e0be80bd26aa8daf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-44-2020",
+   "path": "local/bucuresti/sector-6/2020/44",
+   "short": "HCLS6 nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 44/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-respingerea-planului-urbanistic-de-detaliu-bulevardul-iuliu-maniu-nr-432-442-sector-6-pentru-construire-imobil-cu-functiunea-de-magazin-retail-si-corp-tehnic-pe-un-teren-suprafata-masurata-de-9397-mp-proprietate-privata-persoana-juridica",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-44_1.pdf",
+     "sha256": "891ad91a0ab92c35f7a37ab310eb9dd43a504f0c878faa296924ad503792fef8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-45-2020",
+   "path": "local/bucuresti/sector-6/2020/45",
+   "short": "HCLS6 nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 45/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-respingerea-planului-urbanistic-de-detaliu-strada-lujerului-nr-16-sector-6-pentru-construire-ansamblu-cu-functiunea-de-locuinte-colective-pe-un-teren-suprafata-de-4017-mp-proprietate-privata-persoane-fizice",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-45_0.pdf",
+     "sha256": "913368d5f29131c2a186784c7c962a4425a768a3ea08f6037061950d615a3004"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-46-2020",
+   "path": "local/bucuresti/sector-6/2020/46",
+   "short": "HCLS6 nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 46/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-strada-marin-calciu-nr-20d-sector-6-pentru-construire-imobil-cu-functiunea-de-locuinte-colective-servicii-si-comert-pe-un-teren-suprafata-de-4899-mp-proprietate-privata-persoane-fizice-0",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-46_2.pdf",
+     "sha256": "82d642a72510a24b8cf8122686dacaf12eda859d2cee8e000807695c598f2e52"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-47-2020",
+   "path": "local/bucuresti/sector-6/2020/47",
+   "short": "HCLS6 nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 47/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-calea-plevnei-nr-198-sector-6-pentru-construire-imobil-cu-functiunea-de-locuinte-colective-si-spatii-comerciale-pe-un-teren-suprafata-de-477-mp-proprietate-privata-persoane-fizice-0",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-47_1.pdf",
+     "sha256": "48b928f8c4cb465530cf4adf0fb2378f24444806a49f69a8ce10e3186302ccb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-48-2020",
+   "path": "local/bucuresti/sector-6/2020/48",
+   "short": "HCLS6 nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 48/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-drumul-valea-furcii-nr-12-28-sector-6-pentru-construire-imobil-cu-functiunea-de-spatiu-comercial-pe-un-teren-suprafata-de-5597-mp-proprietate-privata-persoane-fizice-0",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-48_1.pdf",
+     "sha256": "dfdbd7c72bb2d0ad3a638c68b8a7e3ada11ae1117aa805ffd5dc93bda023d9f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-49-2020",
+   "path": "local/bucuresti/sector-6/2020/49",
+   "short": "HCLS6 nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 49/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-49_1.pdf",
+     "sha256": "ab8df313339ac4d9fb11fb67646ce098324e8c55cf9fab63f685ae4163af4991"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-5-2020",
+   "path": "local/bucuresti/sector-6/2020/5",
+   "short": "HCLS6 nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 5/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-transmiterea-imobilelor-situate-municipiul-bucuresti-strada-odgonului-fn-sector-6-avand-datele-de-identificare-prevazute-anexa-din-administrarea-consiliului-local-al-sectorului-6-administrarea-directa-administratiei-domeniului-public-si",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-5_0.pdf",
+     "sha256": "a6a2ca10ac984c9f3c509e89b8eced567bdd7499f93d1eaed27a7c9066cdcb0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-50-2020",
+   "path": "local/bucuresti/sector-6/2020/50",
+   "short": "HCLS6 nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 50/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-conturilor-de-executie-pe-trimestrul-4-ale-sectorului-6-al-municipiului-bucuresti-pe-anul-2019",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-50_0.pdf",
+     "sha256": "fd6911c6bf8d064756cc890f6e72658da18f3972e3ba543b7f3e13adbcf78438"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-51-2020",
+   "path": "local/bucuresti/sector-6/2020/51",
+   "short": "HCLS6 nr. 51/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 51/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-rectificarii-bugetului-consolidat-de-venituri-si-cheltuieli-al-sectorului-6-al-municipiului-bucuresti-pe-anul-2020",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-51_1.pdf",
+     "sha256": "8f2a930728b9268deb9a1ab20b60f33c2d02837a5614623fcb2011359380392d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-52-2020",
+   "path": "local/bucuresti/sector-6/2020/52",
+   "short": "HCLS6 nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 52/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-rectificarii-bugetului-consolidat-de-venituri-si-cheltuieli-al-sectorului-6-al-municipiului-bucuresti-pe-anul-2020-0",
+   "versions": [
+    {
+     "from": "2020-04-02",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-52_2.pdf",
+     "sha256": "75cd96acd0fac7afeab697ba3f441d1c148533b11ca69578d243e12876e34118"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-53-2020",
+   "path": "local/bucuresti/sector-6/2020/53",
+   "short": "HCLS6 nr. 53/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 53/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-acordarea-ajutoarelor-de-urgenta-pentru-familiile-sau-pentru-persoanele-singure-cu-domiciliul-pe-raza-sectorului-6-al-municipiului-bucuresti-aflate-situatie-de-necesitate-pe-fondul-pandemiei-create-de-raspandirea-covid-19-pe-perioada",
+   "versions": [
+    {
+     "from": "2020-04-02",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-53_0.pdf",
+     "sha256": "5647f93dd520ef5a8d246f12568fc4a9d2ad9b6d08909749b988b13d39303689"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-54-2020",
+   "path": "local/bucuresti/sector-6/2020/54",
+   "short": "HCLS6 nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 54/2020 privind aprobarea contractării unei/unor finanțări rambursabile externe în baza garanțiilor proprii, în valoare de până la 47.000.000 euro, sau echivalentul în lei pentru o perioadă de până la 25 de ani și perioadă de grație de până la 4 ani, în vederea asigurării finanțării și/sau cofinanțării cheltuielilor aferente proiectelor de eficiență energetică (reabilitare termică a blocurilor de locuințe și a clădirilor publice) și asistență socială de pe raza Sectorului 6 - modificata prin HCL S6 nr. 264/21.11.2024 - modificata prin HCL S6 nr. 240/26.09.2024 - modificata prin HCL S6 nr. 180/28.08.2023",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-contractarii-uneiunor-finantari-rambursabile-externe-baza-garantiilor-proprii-valoare-de-pana-la-47000000-euro-sau-echivalentul-lei-pentru-o-perioada-de-pana-la-25-de-ani-si-perioada-de-gratie-de-pana-la-4-ani-vederea",
+   "versions": [
+    {
+     "from": "2020-04-02",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-54_1.pdf",
+     "sha256": "979901743d2b3893e86961f878b231116263d01dd50edd35511533d8be52340d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-55-2020",
+   "path": "local/bucuresti/sector-6/2020/55",
+   "short": "HCLS6 nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 55/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-modificarea-si-completarea-hotararii-consiliului-local-sector-6-nr-1030012018-privind-aprobarea-contractarii-uneiunor-finantari-rambursabile-interne-valoare-de-pana-la-36888204501-lei-vederea-refinantarii-partiale-imprumutului-contractat",
+   "versions": [
+    {
+     "from": "2020-04-02",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-55_1.pdf",
+     "sha256": "48620c1664003c65b05891e9f6eef346031da5e36baa2fcf98b3275672e56999"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-56-2020",
+   "path": "local/bucuresti/sector-6/2020/56",
+   "short": "HCLS6 nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 56/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-conturilor-anuale-de-executie-ale-sectorului-6-al-municipiului-bucuresti-pe-anul-2019",
+   "versions": [
+    {
+     "from": "2020-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-56_1.pdf",
+     "sha256": "bb47dea9e7f61446675ed894c5b4ed92faf86b8c49921d0497a7957bc551391d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-57-2020",
+   "path": "local/bucuresti/sector-6/2020/57",
+   "short": "HCLS6 nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 57/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-modificarea-si-completarea-hotararii-consiliului-local-al-sectorului-6-nr-19129092016-0",
+   "versions": [
+    {
+     "from": "2020-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-nr.-57-si-anexa.pdf",
+     "sha256": "9eaaae87d49b5fd4cc914e15f79a5f905b32eb7ef7c97632e7ea887f86512251"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-58-2020",
+   "path": "local/bucuresti/sector-6/2020/58",
+   "short": "HCLS6 nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 58/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-rectificarii-bugetului-creditelor-interne-al-sectorului-6-al-municipiului-bucuresti-pe-anul-2020",
+   "versions": [
+    {
+     "from": "2020-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-nr.-58-plus-anexe.pdf",
+     "sha256": "cd5270e56702374001aa552f97d251f853ef0cb9a65968ddce2fcda697f6ffb1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-59-2020",
+   "path": "local/bucuresti/sector-6/2020/59",
+   "short": "HCLS6 nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 59/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-unor-masuri-economice-pentru-prevenirea-unei-eventuale-crize-economice-ca-urmare-unor-masuri-administrative-instituite-pe-perioada-starii-de-urgenta-determinate-de-raspandirea-virusului-covid-19",
+   "versions": [
+    {
+     "from": "2020-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-nr.-59_0.pdf",
+     "sha256": "13da3f1fc79c89e3da009d92df56121b4428d2792d3e10550444853ac78c0a46"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-6-2020",
+   "path": "local/bucuresti/sector-6/2020/6",
+   "short": "HCLS6 nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 6/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-modificarea-anexei-nr-1-la-hcl-sector-6-nr-72-din-data-de-28022019-privind-organizarea-retelei-scolare-unitatilor-de-invatamant-preuniversitar-de-stat-si-particular-de-pe-raza-sectorului-6-al-municipiului-bucuresti-pe-anul-scolar-2019-0",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-6.pdf",
+     "sha256": "49a8aa7559da9af1c0c0fb02ed87f7e2fe8ccbaea53f1c5e8e828249d4e0feb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-60-2020",
+   "path": "local/bucuresti/sector-6/2020/60",
+   "short": "HCLS6 nr. 60/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 60/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-actualizarea-indicatorilor-tehnico-economici-pentru-constructie-locuinte-situate-strada-alexandru-ivasiuc-nr-3a-si-amenajare-incinta-din-sectorul-6-al-municipiului-bucuresti",
+   "versions": [
+    {
+     "from": "2020-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-nr.-60-plus-anexa.pdf",
+     "sha256": "6bc15d962e7a3fd15bb49aaed3219246004f8f614313f23e45cb1b08221997db"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-61-2020",
+   "path": "local/bucuresti/sector-6/2020/61",
+   "short": "HCLS6 nr. 61/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 61/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-modificarea-anexei-la-hotararea-consiliului-local-sector-6-nr-1342019-privind-aprobarea-documentatiei-tehnico-economice-faza-studiu-de-fezabilitate-pentru-obiectivul-de-investitii-lucrari-de-reamenajare-si-resistematizare-integrata-zona",
+   "versions": [
+    {
+     "from": "2020-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-61_0.pdf",
+     "sha256": "5037dd6e3cf912afb7ab9e5dba73e22bb5ae2a3b5a5724e07bf26c8916f74028"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-62-2020",
+   "path": "local/bucuresti/sector-6/2020/62",
+   "short": "HCLS6 nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 62/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-modificarea-anexei-la-hotararea-consiliului-local-sector-6-nr-1352019-privind-aprobarea-documentatiei-tehnico-economice-faza-studiu-de-fezabilitate-pentru-obiectivul-de-investitii-lucrari-de-reamenajare-si-resistematizare-integrata-zona",
+   "versions": [
+    {
+     "from": "2020-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-62-anexe.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-63-2020",
+   "path": "local/bucuresti/sector-6/2020/63",
+   "short": "HCLS6 nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 63/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-modificarea-anexei-la-hotararea-consiliului-local-sector-6-nr-1362019-privind-aprobarea-documentatiei-tehnico-economice-faza-studiu-de-fezabilitate-pentru-obiectivul-de-investitii-lucrari-de-reamenajare-si-resistematizare-integrata-zona",
+   "versions": [
+    {
+     "from": "2020-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-63-anexe.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-64-2020",
+   "path": "local/bucuresti/sector-6/2020/64",
+   "short": "HCLS6 nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 64/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-modificarea-anexei-la-hotararea-consiliului-local-sector-6-nr-1372019-privind-aprobarea-documentatiei-tehnico-economice-faza-studiu-de-fezabilitate-pentru-obiectivul-de-investitii-lucrari-de-reamenajare-si-resistematizare-integrata-zona",
+   "versions": [
+    {
+     "from": "2020-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-64_0.pdf",
+     "sha256": "0856daa2676077ca730748434df03427fbb0234a268c1cdd5ce8e2fee7dc55af"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-65-2020",
+   "path": "local/bucuresti/sector-6/2020/65",
+   "short": "HCLS6 nr. 65/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 65/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-modificarea-anexei-la-hotararea-consiliului-local-sector-6-nr-1382019-privind-aprobarea-documentatiei-tehnico-economice-faza-studiu-de-fezabilitate-pentru-obiectivul-de-investitii-lucrari-de-reamenajare-si-resistematizare-integrata-zona",
+   "versions": [
+    {
+     "from": "2020-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-65-anexe.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-66-2020",
+   "path": "local/bucuresti/sector-6/2020/66",
+   "short": "HCLS6 nr. 66/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 66/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-modificarea-anexei-la-hotararea-consiliului-local-sector-6-nr-1392019-privind-aprobarea-documentatiei-tehnico-economice-faza-studiu-de-fezabilitate-pentru-obiectivul-de-investitii-lucrari-de-reamenajare-si-resistematizare-integrata-zona",
+   "versions": [
+    {
+     "from": "2020-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-66.pdf",
+     "sha256": "e2c16fca005c280b3ee568980080528fe2b4c558b44ca3aa44830985de6443af"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-69-2020",
+   "path": "local/bucuresti/sector-6/2020/69",
+   "short": "HCLS6 nr. 69/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 69/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-strada-barsanesti-nr-24-sector-6-pentru-construire-imobil-cu-functiunea-de-locuinte-colective-pe-un-teren-suprafata-de-298-mp-proprietate-privata-persoane-fizice",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-69.pdf",
+     "sha256": "e7a55c36698681f50f985699b6ef4c70c50077252ea7df2957ea784863e770c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-7-2020",
+   "path": "local/bucuresti/sector-6/2020/7",
+   "short": "HCLS6 nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 7/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-organizarea-retelei-scolare-unitatilor-de-invatamant-preuniversitar-de-stat-si-particular-de-pe-raza-sectorului-6-al-municipiului-bucuresti-pe-anul-scolar-2020-2021",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-7_0.pdf",
+     "sha256": "23b17dba8fd6dbe7db07c5df486e17dca4777aa1a68f3b63a346b227375b21d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-70-2020",
+   "path": "local/bucuresti/sector-6/2020/70",
+   "short": "HCLS6 nr. 70/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 70/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-strada-cornului-nr-10-sector-6-pentru-extindere-si-supraetajare-constructie-existenta-cu-functiunea-de-locuinta-unifamiliala-pe-un-teren-suprafata-masurata-de-202-mp-proprietate-privata-persoana",
+   "versions": [
+    {
+     "from": "2020-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-70.pdf",
+     "sha256": "63008e2e80f29d68408b5f6b10278b654bb61552295639e185dbc4936d478445"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-71-2020",
+   "path": "local/bucuresti/sector-6/2020/71",
+   "short": "HCLS6 nr. 71/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 71/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-strada-corcodusului-nr-18a-sector-6-pentru-extindere-si-supraetajare-constructie-cu-functiunea-de-locuinte-colective-pe-un-teren-suprafata-de-450-mp-proprietate-privata-persoana-fizica",
+   "versions": [
+    {
+     "from": "2020-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-71_0.pdf",
+     "sha256": "96838d9c0fb386cbedd4097ce694408c0444e70233aae31a16c2cf7143ddfd06"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-72-2020",
+   "path": "local/bucuresti/sector-6/2020/72",
+   "short": "HCLS6 nr. 72/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 72/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-strada-chemarii-nr19-sector-6-pentru-construire-imobil-cu-functiunea-de-locuinte-colective-pe-un-teren-suprafata-masurata-de-273-mp-proprietate-privata-persoana-juridica",
+   "versions": [
+    {
+     "from": "2020-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-72_0.pdf",
+     "sha256": "32c86182597fedeb7e556c54b4ca197a8da98b25569a03b34488a65e1492e157"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-73-2020",
+   "path": "local/bucuresti/sector-6/2020/73",
+   "short": "HCLS6 nr. 73/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 73/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-calea-giulesti-nr-162-sector-6pentru-construire-imobil-cu-functiunea-de-locuinta-individuala-si-comert-pe-un-teren-suprafata-masurata-de-257-mp-proprietate-privata-persoane-fizice",
+   "versions": [
+    {
+     "from": "2020-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-nr.-73_1.pdf",
+     "sha256": "a9af545f51fc9d3ceaec5f6679b96dde40eb66de70294f922a9d45b31267ccc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-74-2020",
+   "path": "local/bucuresti/sector-6/2020/74",
+   "short": "HCLS6 nr. 74/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 74/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-bulevardul-iuliu-maniu-nr-586-590-sector-6-pentru-construire-ansamblu-cu-functiunea-de-birouri-comert-si-locuinte-colective-pe-un-teren-suprafata-de-12217-mp-proprietate-privata-persoana-juridica",
+   "versions": [
+    {
+     "from": "2020-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-nr.-74_0.pdf",
+     "sha256": "e06ecd384c643160efa5bc317cf6bc42645121e101512bce3acbaf459ecaa400"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-75-2020",
+   "path": "local/bucuresti/sector-6/2020/75",
+   "short": "HCLS6 nr. 75/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 75/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-strada-leaota-nr-4-sector-6-pentru-extindere-si-supraetajare-constructie-existenta-cu-functiunea-de-locuinta-unifamiliala-pe-un-teren-suprafata-masurata-de-266-mp-proprietate-privata-persoane",
+   "versions": [
+    {
+     "from": "2020-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-nr.-75_1.pdf",
+     "sha256": "e5ac9ef009bda1d8c4daa8cdbf6c29e9b9f4c37ab8f4b769d2bf5e327338e9f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-76-2020",
+   "path": "local/bucuresti/sector-6/2020/76",
+   "short": "HCLS6 nr. 76/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 76/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-strada-preciziei-nr-6f-lot-2-6f-lot-22-6k-sector-6-pentru-construire-imobil-cu-functiunea-de-camin-studentescpe-un-teren-suprafata-masurata-de-1343-mp-proprietate-privata-persoana-juridica",
+   "versions": [
+    {
+     "from": "2020-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-76.pdf",
+     "sha256": "cff6d46f132bda7d75f00426efb00eeed607f9f2a30f68795b89beddcf945e45"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-77-2020",
+   "path": "local/bucuresti/sector-6/2020/77",
+   "short": "HCLS6 nr. 77/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 77/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-strada-retezatului-nr-15-sector-6-pentru-extindere-si-supraetajare-constructie-existenta-cu-functiunea-de-locuinta-unifamiliala-pe-un-teren-suprafata-masurata-de-162-mp-proprietate-privata",
+   "versions": [
+    {
+     "from": "2020-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-77_0.pdf",
+     "sha256": "637a81b39b1cd2bed2b6e09b0c8806c1ba6bf41361401fbb54f18326242c4970"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-78-2020",
+   "path": "local/bucuresti/sector-6/2020/78",
+   "short": "HCLS6 nr. 78/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 78/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-strada-rasadnitei-nr-42a-sector-6-pentru-construire-imobil-cu-functiunea-de-locuinta-unifamiliala-pe-un-teren-suprafata-masurata-de-817-mp-proprietate-privata-persoana-fizica",
+   "versions": [
+    {
+     "from": "2020-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-78_2.pdf",
+     "sha256": "5593724d4ab624dfdebf9958d22642760b449ba62718255ac00ec3834ceeba36"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-79-2020",
+   "path": "local/bucuresti/sector-6/2020/79",
+   "short": "HCLS6 nr. 79/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 79/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-bulevardul-iuliu-maniu-nr-432-442-sector-6-pentru-construire-imobil-cu-functiunea-de-magazin-retail-si-corp-tehnic-pe-un-teren-suprafata-masurata-de-9397-mp-proprietate-privata-persoana-juridica",
+   "versions": [
+    {
+     "from": "2020-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-79_0.pdf",
+     "sha256": "51fec2b0579dd4873c30d82b40e3001da4b81904ce5856c8794c7805a4a2cd60"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-8-2020",
+   "path": "local/bucuresti/sector-6/2020/8",
+   "short": "HCLS6 nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 8/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-stabilirea-unor-masuri-organizatorice-anul-2020-pentru-aplicarea-prevederilor-legii-nr-4162001-privind-venitul-minim-garantat-cu-modificarile-si-completarile-ulterioare",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-8.pdf",
+     "sha256": "a2b8006d8b789da8514cc149d2a9f39287898590f597fb0e98b0e0ed89f5f656"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-80-2020",
+   "path": "local/bucuresti/sector-6/2020/80",
+   "short": "HCLS6 nr. 80/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 80/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-indicatorilor-tehnico-economici-ai-obiectivului-de-investitii-construire-imobile-cu-destinatia-de-banca-de-alimente-cu-regim-de-inaltime-p1e-cantina-cabina-poarta-cu-regim-de-inaltime-parter",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-80_0.pdf",
+     "sha256": "1b3a27db9b7fd0e58323cc161ab27075766188e2c19be89e488d6b63ae3a6370"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-81-2020",
+   "path": "local/bucuresti/sector-6/2020/81",
+   "short": "HCLS6 nr. 81/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 81/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-proiectului-constructie-si-dotare-cresa-ingerasii-cod-smis-124789-si-cheltuielilor-legate-de-proiect",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-81_0.pdf",
+     "sha256": "7977c438a477011335501d52dcea7badfb197bdcf19ef85aa7e92c9d65910a4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-82-2020",
+   "path": "local/bucuresti/sector-6/2020/82",
+   "short": "HCLS6 nr. 82/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 82/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-modificarea-hotararii-consiliului-local-sector-6-nr-9924052018-privind-aprobarea-programului-local-multianual-de-investitii-scopul-regenerarii-urbane-sectorului-6-al-municipiului-bucuresti-perioada-2018-2020",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-82_1.pdf",
+     "sha256": "b6e49c68ca4a7246a7178956c9dd306dbcd070672d0222f387d12a8853051673"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-83-2020",
+   "path": "local/bucuresti/sector-6/2020/83",
+   "short": "HCLS6 nr. 83/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 83/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-modificarea-si-completarea-hcl-sector-6-nr-10024052018-sensul-majorarii-cu-pana-la-35000000-lei-imprumutului-valoare-de-pana-la-150000000-lei-contractat-de-catre-administratia-domeniului-public-si-dezvoltare-urbana-sector-6",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-83_0.pdf",
+     "sha256": "af3a2bb584c0ee95102dbcacdd6d390607ecc81e65c43e0a7307a82d38e95f07"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-84-2020",
+   "path": "local/bucuresti/sector-6/2020/84",
+   "short": "HCLS6 nr. 84/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 84/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-imputernicirii-administratiei-domeniului-public-si-dezvoltare-urbana-sector-6-si-directiei-generale-investitii-sa-realizeze-comun-cu-administratia-strazilor-bucuresti-lucrari-de-interes-public-local-pe-strazile-administrate-de",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-84_0.pdf",
+     "sha256": "41584348384edeb979ee961ade2da33c98aa0c412f68c7286a2f946facdf3a32"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-85-2020",
+   "path": "local/bucuresti/sector-6/2020/85",
+   "short": "HCLS6 nr. 85/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 85/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-alegerea-presedintelui-de-sedinta-28",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-85_0.pdf",
+     "sha256": "0f717c5259aa32e71c5bd2eeb557e265940b0318858f29e57f8018e58aef2d2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-86-2020",
+   "path": "local/bucuresti/sector-6/2020/86",
+   "short": "HCLS6 nr. 86/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 86/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-conturilor-de-executie-pe-trimestrul-1-ale-sectorului-6-al-municipiului-bucuresti-pe-anul-2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-86.pdf",
+     "sha256": "523af4f545a635c4bdbe20b4b2e35e797f06f61b727f6169ab853dbd4e66f17c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-87-2020",
+   "path": "local/bucuresti/sector-6/2020/87",
+   "short": "HCLS6 nr. 87/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 87/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-rectificarii-bugetului-consolidat-de-venituri-si-cheltuieli-al-sectorului-6-al-municipiului-bucuresti-pe-anul-2020-1",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-87.pdf",
+     "sha256": "8d25d7a4d9a368a86903b3762568618b93a01463f194835c60a2f39fef32c076"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-88-2020",
+   "path": "local/bucuresti/sector-6/2020/88",
+   "short": "HCLS6 nr. 88/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 88/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-completarea-hotararii-consiliului-local-al-sectorului-6-nr-191-29092016",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-88_0.pdf",
+     "sha256": "a7c43ee0452c1db2c8275d2a11113bbdc135d690862ec88520547091bf3ecc4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-89-2020",
+   "path": "local/bucuresti/sector-6/2020/89",
+   "short": "HCLS6 nr. 89/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 89/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-modificarea-anexei-la-hotararea-consiliului-local-sector-6-nr-1262018-privind-aprobarea-indicatorilor-tehnico-economici-aferenti-obiectivului-de-investitii-modernizare-si-amenajare-peisagistica-parc-sfantul-andrei",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-89.pdf",
+     "sha256": "23f5b29734b6a23f25d7e35178558cd1429dfd9820eb27a2b7ea149db1e3d6cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-9-2020",
+   "path": "local/bucuresti/sector-6/2020/9",
+   "short": "HCLS6 nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 9/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-derularii-si-finantarii-din-bugetul-local-al-sectorului-6-anul-2020-proiectului-centrul-comunitar-ghencea-desfasurat-de-directia-generala-de-asistenta-sociala-si-protectia-copilului-sector-6-parteneriat-cu-asociatia-sfantul",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-9.pdf",
+     "sha256": "240759cdbda317c848b54e3f105ffe1f20297ce2c78fd7fbc25bf18b668d9bba"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-90-2020",
+   "path": "local/bucuresti/sector-6/2020/90",
+   "short": "HCLS6 nr. 90/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 90/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-derularii-si-finantarii-anul-2020-proiectului-prestatii-financiare-exceptionale-pentru-familii-care-nu-au-posibilitatea-de-acorda-copiilor-ingrijirea-corespunzatoare-desfasurat-de-directia-generala-de-asistenta-sociala-si",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-90_0.pdf",
+     "sha256": "885911efa8f7a51fbcbf1a9a8131de0487d2d44e02d886815d799572c02a736d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-91-2020",
+   "path": "local/bucuresti/sector-6/2020/91",
+   "short": "HCLS6 nr. 91/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 91/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-drumul-bacriului-nr-45-sector-6-pentru-construire-imobil-cu-functiunea-de-locuinte-colective-pe-un-teren-suprafata-de-3133-mp-proprietate-privata-persoana-juridica",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-91_0.pdf",
+     "sha256": "3cb7aadadc44e71e53a4a19264ec5fd4b7e0937d2c0b525f25f264ea3c95b011"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-92-2020",
+   "path": "local/bucuresti/sector-6/2020/92",
+   "short": "HCLS6 nr. 92/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 92/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-strada-cetatea-de-balta-nr-100a-sector-6-pentru-construire-imobil-cu-functiunea-de-locuinte-colective-pe-un-teren-suprafata-de-335-mp-proprietate-privata-persoane-fizice",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-92_0.pdf",
+     "sha256": "b373d33fb2bc584121eaf2df4e29029c08bceaac57abbcdbdd783151c9ea34da"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-93-2020",
+   "path": "local/bucuresti/sector-6/2020/93",
+   "short": "HCLS6 nr. 93/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 93/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-drumul-valea-cricovului-nr-58a-sector-6-pentru-construire-locuinta-unifamiliala-pe-un-teren-suprafata-masurata-de-498-mp-proprietate-privata-persoane-fizice",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-93_1.pdf",
+     "sha256": "3131325f0ae11a4fabb3ed80f304684bde32bc79ffbf153bcabb6062fdf18f49"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-94-2020",
+   "path": "local/bucuresti/sector-6/2020/94",
+   "short": "HCLS6 nr. 94/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 94/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-respingerea-planului-urbanistic-de-detaliu-strada-george-valsan-nr-45-47-sector-6-pentru-construire-imobil-cu-functiunea-de-locuinte-colective-pe-un-teren-suprafata-de-599-mp-proprietate-privata-persoana-juridica",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-94_0.pdf",
+     "sha256": "f8f7478fd0cafe1bc2ebf6af710a1ee3d4b1f5dcfef9e8b9014db4214a1dacf0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-95-2020",
+   "path": "local/bucuresti/sector-6/2020/95",
+   "short": "HCLS6 nr. 95/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 95/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-strada-george-valsan-nr-79-sector-6-pentru-construire-imobil-cu-functiunea-de-locuinte-colective-pe-un-teren-suprafata-masurata-de-298-mp-proprietate-privata-persoane-fizice",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-95_1.pdf",
+     "sha256": "c7c4e87d2e798b59ce32c93b652b2ed96581d1ec87ed62d9e9f0666b96dfe42f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-96-2020",
+   "path": "local/bucuresti/sector-6/2020/96",
+   "short": "HCLS6 nr. 96/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 96/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-respingerea-planului-urbanistic-de-detaliu-calea-giulesti-nr-254-258a-sector-6-pentru-construire-imobil-cu-functiunea-de-centru-comercial-pe-un-teren-suprafata-de-5702-mp-proprietate-privata-persoana-juridica",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-96.pdf",
+     "sha256": "d3e29043ec0329d8d153e6a1792dab5d14050fafa751589519ac35454c9eacf4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-97-2020",
+   "path": "local/bucuresti/sector-6/2020/97",
+   "short": "HCLS6 nr. 97/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 97/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-strada-ilovatul-nr-7-sector-6-pentru-extindere-si-supraetajare-constructie-existenta-cu-functiunea-de-locuinta-unifamiliala-pe-un-teren-suprafata-masurata-de-288-mp-proprietate-privata-persoana",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-97_0.pdf",
+     "sha256": "06b75583f23a06610867e87d59b0553fb3656fbad75ff348e2509b6064a74265"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-98-2020",
+   "path": "local/bucuresti/sector-6/2020/98",
+   "short": "HCLS6 nr. 98/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 98/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-strada-preciziei-nr-6f-lot-2-6f-lot-22-6k-sector-6-pentru-construire-imobil-cu-functiunea-de-camin-studentesc-pe-un-teren-suprafata-masurata-de-1343-mp-proprietate-privata-persoana-juridica",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-98_0.pdf",
+     "sha256": "1d5523ebfe145dfaf5b6b08cc04926bf630ccf297887d7a5f87ac36cf05382e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-99-2020",
+   "path": "local/bucuresti/sector-6/2020/99",
+   "short": "HCLS6 nr. 99/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 99/2020",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-planului-urbanistic-de-detaliu-strada-ramura-jiului-nr-2-sector-6-pentru-construire-imobil-cu-functiunea-de-locuinte-colective-pe-un-teren-suprafata-de-526-mp-proprietate-privata-persoane-fizice",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-99_1.pdf",
+     "sha256": "deb8c7ed010e617d0a0671a3a27bcbfaf7830eed584467140c9114b1b1cdf011"
     }
    ]
   }

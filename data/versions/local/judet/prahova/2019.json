@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/prahova/2019",
+ "acts": [
+  {
+   "slug": "hcj-prahova-177-2019",
+   "path": "local/judet/prahova/2019/177",
+   "short": "HCJ Prahova nr. 177/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 177/2019 privind aprobarea Regulamentului de atribuire directă, pe o perioadă de 60 de zile, a unor trasee cuprinse în Programul de transport județean",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-12-16",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-177-din-data-16-12-2019.pdf",
+     "sha256": "89e301785cf30b6fb41e6740018bf4ec4ab6bf9375b106f70e98473db19f815a"
+    }
+   ]
+  }
+ ]
+}

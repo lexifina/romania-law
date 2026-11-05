@@ -1,0 +1,95 @@
+{
+"country": "RO",
+"shard": "local/alba/alba-iulia/2025",
+"acts": [
+{
+"slug": "hcl-alba--alba-iulia-414-2025",
+"path": "local/alba/alba-iulia/2025/414",
+"kind": "local",
+"year": "2025",
+"number": "414",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 414/2025",
+"short": "HCL Alba Iulia nr. 414/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-21",
+"latest": "2026-01-21",
+"portal": "https://emol.ro/albaiulia-ab/registru-hcl/245175",
+"council": "alba/alba-iulia",
+"council_name": "Consiliul Local al Municipiului Alba Iulia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--alba-iulia-427-2025",
+"path": "local/alba/alba-iulia/2025/427",
+"kind": "local",
+"year": "2025",
+"number": "427",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 427/2025 privind acceptarea donaţiei către Municipiul Alba Iulia- domeniul public",
+"short": "HCL Alba Iulia nr. 427/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-21",
+"latest": "2026-01-21",
+"portal": "https://emol.ro/albaiulia-ab/registru-hcl/245188",
+"council": "alba/alba-iulia",
+"council_name": "Consiliul Local al Municipiului Alba Iulia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--alba-iulia-428-2025",
+"path": "local/alba/alba-iulia/2025/428",
+"kind": "local",
+"year": "2025",
+"number": "428",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 428/2025 privind acceptarea donaţiei către Municipiul Alba Iulia- domeniul public",
+"short": "HCL Alba Iulia nr. 428/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-21",
+"latest": "2026-01-21",
+"portal": "https://emol.ro/albaiulia-ab/registru-hcl/245189",
+"council": "alba/alba-iulia",
+"council_name": "Consiliul Local al Municipiului Alba Iulia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--alba-iulia-445-2025",
+"path": "local/alba/alba-iulia/2025/445",
+"kind": "local",
+"year": "2025",
+"number": "445",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 445/2025 privind aprobarea Regulamentului de funcționare și utilizare a locurilor de parcare cu acces controlat prin barieră din parkingul ARNSBERG",
+"short": "HCL Alba Iulia nr. 445/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-21",
+"latest": "2026-01-21",
+"portal": "https://emol.ro/albaiulia-ab/registru-hcl/245207",
+"council": "alba/alba-iulia",
+"council_name": "Consiliul Local al Municipiului Alba Iulia",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

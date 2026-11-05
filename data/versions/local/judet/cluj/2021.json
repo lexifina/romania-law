@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/judet/cluj/2021",
+ "acts": [
+  {
+   "slug": "hcj-cluj-138-2021",
+   "path": "local/judet/cluj/2021/138",
+   "short": "HCJ Cluj nr. 138/2021",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 138/2021 pentru modificarea Hotărârii Consiliului Județean Cluj nr. 227/2020 privind aprobarea taxelor și tarifelor pentru anul fiscal 2021",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-138-30-septembrie-2021-pentru-modificarea-hotararii-consiliului-judetean-cluj-nr-227-2020-privind-aprobarea-taxelor-si-tarifelor-pentru-anul-fiscal-2021/",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/138_2_modif-HCJC-227_2020-taxe-si-tarife-DUAT.pdf",
+     "sha256": "7d2e3b2e84923104e69a3d6f7cadf77e3ff2b0a1e37ec316c356a188d3624757"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-141-2021",
+   "path": "local/judet/cluj/2021/141",
+   "short": "HCJ Cluj nr. 141/2021",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 141/2021 privind introducerea unor restricții de circulație pe drumul județean DJ 191D, limita județ Sălaj - DJ 108A (Vânători), sectorul de drum km 31+330 – 35+800",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-141-30-septembrie-2021-privind-introducerea-unor-restrictii-de-circulatie-pe-drumul-judetean-dj-191d-limita-judet-salaj-dj-108a-vanatori-sectorul-de-drum-km-31330-358/",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/141_5_restrictii-de-circulatie-DJ-191D.pdf",
+     "sha256": "13807cd7a8dae5764006dec726eb2b75009cd162b30a30052887b1640f3a64a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-230-2021",
+   "path": "local/judet/cluj/2021/230",
+   "short": "HCJ Cluj nr. 230/2021",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 230/2021 privind aprobarea taxelor și tarifelor pentru anul fiscal 2022",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-230-21-decembrie-2021-privind-aprobarea-taxelor-si-tarifelor-pentru-anul-fiscal/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2022/02/230_1-aprobare-taxe-si-impozite-2022.pdf",
+     "sha256": "2ff0a2988126d069b8ced12c11dae85eb5e1e9bb9dd3de77b8579c69292552df"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-81-2021",
+   "path": "local/judet/cluj/2021/81",
+   "short": "HCJ Cluj nr. 81/2021",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 81/2021 privind unele măsuri referitoare la procedura de selecție a administratorilor întreprinderilor publice aflate sub autoritatea Consiliului Județean Cluj",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-81-27-mai-2021-privind-unele-masuri-referitoare-la-procedura-de-selectie-a-administratorilor-intreprinderilor-publice-aflate-sub-autoritatea-consiliului-judetean-cluj/",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/81_12_masuri-ref.-procedura-de-selectie-administratori.pdf",
+     "sha256": "b8cb10589ffed6ad4bb2404caf53fd8b19c893618358eb86dc55c64cb8ca534a"
+    }
+   ]
+  }
+ ]
+}

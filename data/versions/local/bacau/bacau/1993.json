@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/bacau/1993",
+ "acts": [
+  {
+   "slug": "hcl-bacau--bacau-1-1993",
+   "path": "local/bacau/bacau/1993/1",
+   "short": "HCL Bacău nr. 1/1993",
+   "title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 1/1993 privind virările de credite în cadrul bugetului Local al Municipiului Bacău pe trimestrul IV 1992 efectuate în baza legii",
+   "url": "https://municipiulbacau.ro/monitorul-oficial-local/arhiva-hotararilor-consiliului-local-bacau/",
+   "versions": [
+    {
+     "from": "1993-01-29",
+     "units": 1,
+     "source_url": "https://municipiulbacau.ro/wp-content/uploads/2024/04/liste-cu-hotarari-1993.pdf",
+     "sha256": "5e861eb7c5c92fee348785798b97021f1c726e0360de395cab311992905dcbd7"
+    }
+   ]
+  }
+ ]
+}

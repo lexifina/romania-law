@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/suceava/campulung-moldovenesc/2011",
+"acts": [
+{
+"slug": "hcl-suceava--campulung-moldovenesc-94-2011",
+"path": "local/suceava/campulung-moldovenesc/2011/94",
+"kind": "local",
+"year": "2011",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 94/2011 cu privire la aprobarea Regulamentul intern al Serviciului Poliția Locală a municipiului Câmpulung Moldovenesc Consiliul Local al Municipiului Câmpulung Moldovenesc, județul Suceava, întrunit în ședința ordinară din data de 24 noiembrie 2011; Având în vedere: -Expunerea de motive a primarului municipiului Câmpulung Moldovenesc înregistrată la nr. 19315 din 17.11.2011; -Raportul Serviciului Poliția",
+"short": "HCL Câmpulung Moldovenesc nr. 94/2011",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2011-11-24",
+"latest": "2011-11-24",
+"portal": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/consiliul-local/hotarari?an=2011",
+"council": "suceava/campulung-moldovenesc",
+"council_name": "Consiliul Local al Municipiului Câmpulung Moldovenesc",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

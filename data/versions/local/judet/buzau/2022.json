@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/judet/buzau/2022",
+ "acts": [
+  {
+   "slug": "hcj-buzau-159-2022",
+   "path": "local/judet/buzau/2022/159",
+   "short": "HCJ Buzău nr. 159/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 159/2022 pentru aprobarea modificării tarifelor de călătorie la bilete și abonamente pe traseele cod 003 BUZĂU AUTOGARA SUD – ULMENI – PIETROASELE, cod 004 BUZĂU AUTOGARA SUD – ULMENI – VISPEȘTI și cod 082 BUZĂU AUTOGARA SUD – CLONDIRU pe care efectuează transport rutier public județean de persoane prin curse regulate operatorul de transport SC TRANSRODICA SRL",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/06/H-159.pdf",
+     "sha256": "d14cf86769788fd51ad8a7844f8955b7e85fcf686d07098ffdac819303965013"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-161-2022",
+   "path": "local/judet/buzau/2022/161",
+   "short": "HCJ Buzău nr. 161/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 161/2022 pentru aprobarea reluării procedurii de atribuire a Contractelor de delegare a gestiunii Serviciului public de transport județean de persoane prin curse regulate la nivelul Județului Buzău pentru perioada 2023-2028 şi aprobarea unor modificări ale documentației de atribuire a procedurii",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/06/Hotararea-nr.161-din-2022.pdf",
+     "sha256": "2e55254d8532b39c1bf1eada1b5c16aec4e7cbcbce69044cf1bbd261aad138b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-176-2022",
+   "path": "local/judet/buzau/2022/176",
+   "short": "HCJ Buzău nr. 176/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 176/2022 pentru modificarea Hotărârii Consiliului Județean Buzău nr. 44/2022 privind aprobarea modificării contractelor de delegare a gestiunii unor activități către Societatea „Domenii Prest Serv” SRL Buzău precum și aprobarea tarifelor/prețurilor pentru prestațiile societății în baza contractelor de delegare a gestiunii pentru anul 2022 *Modificată conform Notei de îndreptare eroare materială",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/08/176.-Pr.-HCJ-modificare-tarife-Domenii.pdf",
+     "sha256": "090d94dfc27c361bff1719135b6176f12d01668fb71e61fc33d11608f9cca216"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-177-2022",
+   "path": "local/judet/buzau/2022/177",
+   "short": "HCJ Buzău nr. 177/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 177/2022 privind aprobarea atribuirii licențelor de traseu și a tarifelor de călătorie la bilete și abonamente pe trasele județene cod 080 Buzău Autogara Sud – Vintileanca și cod 082 Buzău Autogara Sud – Clondiru",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/07/Hotararea-nr.177-din-2022.pdf",
+     "sha256": "c7649ad3d25e295291c3bc4e598bd678dacd208157dcfa6611de189565b51c5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-282-2022",
+   "path": "local/judet/buzau/2022/282",
+   "short": "HCJ Buzău nr. 282/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 282/2022 privind stabilirea taxelor şi tarifelor de nivel judeţean pentru anul 2023 * Anexa nr.13 actualizată și completată prin Hotărârea nr.143 din 2023",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/12/H-282.pdf",
+     "sha256": "83467ffddaa82e0c4559020e3d34c63ea9ba5d23dda9805952e6446a3c0fa8f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-283-2022",
+   "path": "local/judet/buzau/2022/283",
+   "short": "HCJ Buzău nr. 283/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 283/2022 privind stabilirea preţurilor medii ale produselor agricole şi a valorii masei verzi pe hectar pajişte pentru anul fiscal 2023 la nivelul Judeţului Buzău * Anexa se înlocuiește cu anexa la Hotărârea nr.131 din 2023",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/12/Hotararea-nr.283-din-2022.pdf",
+     "sha256": "c634aa22cc20e1e5d22857723eb079d09de22d3b0d6124e285bfcaa4e070e3cf"
+    }
+   ]
+  }
+ ]
+}

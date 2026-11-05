@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/dorohoi/2011",
+ "acts": [
+  {
+   "slug": "hcl-botosani--dorohoi-160-2011",
+   "path": "local/botosani/dorohoi/2011/160",
+   "short": "HCL Dorohoi nr. 160/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 160/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-01-03",
+     "units": 1,
+     "source_url": "https://www.primariadorohoi.ro/files/2022/CONSILIUL%20LOCAL/15.sedinta%2029062022/pr_hcl_160_29062022.pdf",
+     "sha256": "97d770aa035a3b6601b0d773ae979854fcec113669c402eeac0bced2b4bd950d"
+    }
+   ]
+  }
+ ]
+}

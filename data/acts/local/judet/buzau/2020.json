@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/judet/buzau/2020",
+"acts": [
+{
+"slug": "hcj-buzau-1-2020",
+"path": "local/judet/buzau/2020/1",
+"kind": "local",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Buzău nr. 1/2020 pentru susținerea programelor de dezvoltare locală, pentru proiecte de infrastructură care necesită cofinanțare locală, precum și pentru cheltuielile de funcționare pe anul 2020 și estimări pe anii 2021 – 2023 din sumele defalcate din taxa pe valoare adăugată și cotele defalcate din unele venituri ale bugetului de stat pentru echilibrarea bugetelor lo",
+"short": "HCJ Buzău nr. 1/2020",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2020-01-21",
+"latest": "2020-01-21",
+"portal": "http://cjbuzau.ro/hotarari-cj-2020/",
+"council": "judet/buzau",
+"council_name": "Consiliul Județean Buzău",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-buzau-132-2020",
+"path": "local/judet/buzau/2020/132",
+"kind": "local",
+"year": "2020",
+"number": "132",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Buzău nr. 132/2020 pentru aparatul de specialitate al Direcţiei Judeţene de Evidenţă a Persoanelor Buzău şi a Regulamentului de organizare şifuncţionare – forma actualizată * Anexele nr.1 și 2 șe înlocuiesc cu anexele din Hotărârea nr.173/2016 * Abrogată prin Hotărârea nr.132/2020",
+"short": "HCJ Buzău nr. 132/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-07-16",
+"latest": "2020-07-16",
+"portal": "http://cjbuzau.ro/hotarari-cj-2020/",
+"council": "judet/buzau",
+"council_name": "Consiliul Județean Buzău",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-buzau-164-2020",
+"path": "local/judet/buzau/2020/164",
+"kind": "local",
+"year": "2020",
+"number": "164",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Buzău nr. 164/2020 privind aprobarea Caietului de sarcini al serviciului de transport public județean de persoane prin curse regulate, în județul Buzău",
+"short": "HCJ Buzău nr. 164/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-09-17",
+"latest": "2020-09-17",
+"portal": "http://cjbuzau.ro/hotarari-cj-2020/",
+"council": "judet/buzau",
+"council_name": "Consiliul Județean Buzău",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

@@ -1,0 +1,771 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/marghita/2018",
+ "acts": [
+  {
+   "slug": "hcl-bihor--marghita-10-2018",
+   "path": "local/bihor/marghita/2018/10",
+   "short": "HCL Marghita nr. 10/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 10/2018 privind reglementarea din punct de vedere juridic a unor terenuri situate in intravilanul mun Marghita si aprobare constituire a unor numere cadastrale",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-01-30",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-10-30.01.2018-privind-reglementarea-din-punct-de-vedere-juridic-a-unor-terenuri-situate-in-intravilanul-mun-Marghita-si-aprobare-constituire-a-unor-numere-cadastrale.pdf",
+     "sha256": "33bb1e19143fc556b1b7e103d3e2a86175dc129ce85e765defddd4e82f742c05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-12-2018",
+   "path": "local/bihor/marghita/2018/12",
+   "short": "HCL Marghita nr. 12/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 12/2018 privind activitatea asistentilor personali ai persoanelor cu handicap grav pt perioada iulie-decembrie 2017",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-01-30",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-12-30.01.2018-privind-activitatea-asistentilor-personali-ai-persoanelor-cu-handicap-grav-pt-perioada-iulie-decembrie-2017.pdf",
+     "sha256": "ae0f0723e47b09d8ef8f9c5166fdf7ba670f247914da2f92f36ce0eb86c0b3d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-15-2018",
+   "path": "local/bihor/marghita/2018/15",
+   "short": "HCL Marghita nr. 15/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 15/2018 pentru aprobarea Organigramei si a statului de functii la Spitalul Municipal Dr",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-01-30",
+     "units": 1,
+     "source_url": "https://marghita.ro/hotararile-c-l/2018/",
+     "sha256": "4ab4a221cf2e5db29a210966be91dc1189d49b927447ac74e4f44ee4aa49bda6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-16-2018",
+   "path": "local/bihor/marghita/2018/16",
+   "short": "HCL Marghita nr. 16/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 16/2018 pentru achizitionarea terenului situat in intravilanul str Salcamilor nr10 in suprafata de 21.072mp inscris in CF 103467 si CF 103475",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-01-30",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-16-30.01.2018-pentru-achizitionarea-terenului-situat-in-intravilanul-str-Salcamilor-nr10-in-suprafata-de-21.072mp-inscris-in-CF-103467-si-CF-103475.pdf",
+     "sha256": "945cc2f05a59d867dc52cf7414f5fa4272adbd675e71891e8f3202255ac090f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-18-2018",
+   "path": "local/bihor/marghita/2018/18",
+   "short": "HCL Marghita nr. 18/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 18/2018 privind aprobarea ordinei de zi a sedintei ordinare a Consiliului Local a municipiului Marghita din 26.02.2018",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-02-26",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-18-26.02.2018-privind-aprobarea-ordinei-de-zi-a-sedintei-ordinare-a-Consiliului-Local-a-municipiului-Marghita-din-26.02.2018.pdf",
+     "sha256": "6fc89cc0b3512245f260575925bb3863fbc1a0b37f11bdd3914e98b9d003ac93"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-19-2018",
+   "path": "local/bihor/marghita/2018/19",
+   "short": "HCL Marghita nr. 19/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 19/2018 privind aprobarea bugetului de venituri si cheltuieli a unitatii administrativ teritoriale Marghita pe anul 2018",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-02-26",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-19-26.02.2018-privind-aprobarea-bugetului-de-venituri-si-cheltuieli-a-unitatii-administrativ-teritoriale-Marghita-pe-anul-2018.pdf",
+     "sha256": "442c254784bd5adb630dcfaebdd96404c611788d462c939e1f392d48b390f66c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-20-2018",
+   "path": "local/bihor/marghita/2018/20",
+   "short": "HCL Marghita nr. 20/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 20/2018 privind aprobarea nivelului cotei pierderi de apa la nivelul municipiului Marghita",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-02-26",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-20-26.02.2018-privind-aprobarea-nivelului-cotei-pierderi-de-apa-la-nivelul-municipiului-Marghita.pdf",
+     "sha256": "a164c1ce8cb061df96e537c63592d5814ba3c97001c16c898b2f5c13b55505ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-21-2018",
+   "path": "local/bihor/marghita/2018/21",
+   "short": "HCL Marghita nr. 21/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 21/2018 privind aprobarea Regulamentului de organizare si functionare a Seviciului de alimentare cu apa si canalizare a mun Marghita si a indicatorilor de performanta pt anul 2018",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-02-26",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-21-26.02.2018-privind-aprobarea-Regulamentului-de-organizare-si-functionare-a-Seviciului-de-alimentare-cu-apa-si-canalizare-a-mun-Marghita-si-a-indicatorilor-de-performanta-pt-anul-2018.pdf",
+     "sha256": "2908f0b6579dfe775e1d508c363ad549d382efe7687d8e14240ec51409616a26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-22-2018",
+   "path": "local/bihor/marghita/2018/22",
+   "short": "HCL Marghita nr. 22/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 22/2018 privind cuprinderea in domeniul public a unor terenuri din mun Marghita si aprobare constituire numere cadastrale",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-02-26",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-22-26.02.2018-privind-cuprinderea-in-domeniul-public-a-unor-terenuri-din-mun-Marghita-si-aprobare-constituire-numere-cadastrale.pdf",
+     "sha256": "e7b811651ba464de7b4e388611666b576dc750b2c8e3ef63b0f8b62926a5a5cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-26-2018",
+   "path": "local/bihor/marghita/2018/26",
+   "short": "HCL Marghita nr. 26/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 26/2018 privind modificarea statului de functii al Municipiului Marghita",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-02-26",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-26-26.02.2018-privind-modificarea-statului-de-functii-al-Municipiului-Marghita.pdf",
+     "sha256": "2b15efde1affa45a084c942811202a1b1560b5e11fae82a3fe5e261b785c566e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-27-2018",
+   "path": "local/bihor/marghita/2018/27",
+   "short": "HCL Marghita nr. 27/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 27/2018",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-02-26",
+     "units": 1,
+     "source_url": "https://marghita.ro/hotararile-c-l/2018/",
+     "sha256": "5517042c046376f5a2407e731956273773f70e79b53a911cecefea43635e9f91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-33-2018",
+   "path": "local/bihor/marghita/2018/33",
+   "short": "HCL Marghita nr. 33/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 33/2018 privind alegerea presedintelui de sedinta a CL Marghita pentru sedinta ordinara din luna martie",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-33-29.03.2018-privind-alegerea-presedintelui-de-sedinta-a-CL-Marghita-pentru-sedinta-ordinara-din-luna-martie.pdf",
+     "sha256": "8f4a2f43cab0b028193c3d26abc178e5ae28619f44ff34d19cec7936cb277c3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-34-2018",
+   "path": "local/bihor/marghita/2018/34",
+   "short": "HCL Marghita nr. 34/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 34/2018 privind aprobarea ordinei de zi a sedintei ordinare a CL a mun Marghita din 29.03.2018",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-34-29.03.2018-privind-aprobarea-ordinei-de-zi-a-sedintei-ordinare-a-CL-a-mun-Marghita-din-29.03.2018.pdf",
+     "sha256": "bbecfcc8a0b7ba2a43e187f1a1330cb48a2f57c20bf5eb07ea8ba2c4515e4314"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-36-2018",
+   "path": "local/bihor/marghita/2018/36",
+   "short": "HCL Marghita nr. 36/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 36/2018 privind aprobarea incheierii Conventiei definitive pt Asociatia Caritas Marghita, Fundatia Crestina Elim si Asotiatia Speranta pt Schimbare pt anul 2018",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-36-29.03.2018-privind-aprobarea-incheierii-Conventiei-definitive-pt-Asociatia-Caritas-Marghita-Fundatia-Crestina-Elim-si-Asotiatia-Speranta-pt-Schimbare-pt-anul-2018.pdf",
+     "sha256": "e3cb816699c577a173048cb058ff27534decbad43ed3a74aaefcf3f4ccdf1a81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-38-2018",
+   "path": "local/bihor/marghita/2018/38",
+   "short": "HCL Marghita nr. 38/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 38/2018 privind transmiterea in administrarea Directiei Silvice Bihor prin Ocolul Silvic Marghita a suprafetei de 153.69 ha fond forestier proprietate publica a mun Marghit",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-38-29.03.2018-privind-transmiterea-in-administrarea-Directiei-Silvice-Bihor-prin-Ocolul-Silvic-Marghita-a-suprafetei-de-153.69-ha-fond-forestier-proprietate-publica-a-mun-Marghit.pdf",
+     "sha256": "19d48588bdbe97e54c61a7bef9e4c4e11220fb2870f77254d185ce1b67c863c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-39-2018",
+   "path": "local/bihor/marghita/2018/39",
+   "short": "HCL Marghita nr. 39/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 39/2018 pentru alocare sume de bani ca sprijin financiar la cultele religioase de pe raza UAT mun Marghita",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-39-29.03.2018-pentru-alocare-sume-de-bani-ca-sprijin-financiar-la-cultele-religioase-de-pe-raza-UAT-mun-Marghita.pdf",
+     "sha256": "55ff6978203e3f701795003eb97c719263a206ec495c43032a0b9e0b7cd3452a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-40-2018",
+   "path": "local/bihor/marghita/2018/40",
+   "short": "HCL Marghita nr. 40/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 40/2018 privind aprobarea studiului de oportunitate si a caietului de sarcini pt licitate publica a doua terenuri destinate activitatilor comerciale situate pe str Crinului in mun Marghita",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-40-29.03.2018-privind-aprobarea-studiului-de-oportunitate-si-a-caietului-de-sarcini-pt-licitate-publica-a-doua-terenuri-destinate-activitatilor-comerciale-situate-pe-str-Crinului-in-mun-Marghita.pdf",
+     "sha256": "34abcf2afa531dac0c2cce4ac133019239429f7e02f0a35ab873775be57793b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-41-2018",
+   "path": "local/bihor/marghita/2018/41",
+   "short": "HCL Marghita nr. 41/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 41/2018 privind aprobarea Planului de asigurare cu resurse umane materiale si financiare pt gestionarea situatiilor de urgenta din mun Marghita",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-41-29.03.2018-privind-aprobarea-Planului-de-asigurare-cu-resurse-umane-materiale-si-financiare-pt-gestionarea-situatiilor-de-urgenta-din-mun-Marghita.pdf",
+     "sha256": "c69a4af27dce8a7b6f23ad4dafec09ba9659837d05d784c675b9d2173a0ffa28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-42-2018",
+   "path": "local/bihor/marghita/2018/42",
+   "short": "HCL Marghita nr. 42/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 42/2018 privind reglementarea juridica a unor terenuri din intravilanul UAT Marghita prin cuprinderea in dom public-privat a mun Marghita",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-42-29.03.2018-privind-reglementarea-juridica-a-unor-terenuri-din-intravilanul-UAT-Marghita-prin-cuprinderea-in-dom-public-privat-a-mun-Marghita.pdf",
+     "sha256": "28d4e603bfd79508615bfb7f33fbd10d59a2a3dbf7887b2ed03192664a97facf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-43-2018",
+   "path": "local/bihor/marghita/2018/43",
+   "short": "HCL Marghita nr. 43/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 43/2018 privind modificarea si aprobarea statului de functii si a organigramei la Spitalul Dr",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "https://marghita.ro/hotararile-c-l/2018/",
+     "sha256": "f43cde50faeab91a9bca5f2dd84418659d9a6c29456a354b1fc60977b5f207ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-44-2018",
+   "path": "local/bihor/marghita/2018/44",
+   "short": "HCL Marghita nr. 44/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 44/2018 privind aprobarea aprobarea bugetului de venituri si cheltuieli al SPACS Marghita pe anul 2018",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-44-29.03.2018-privind-aprobarea-aprobarea-bugetului-de-venituri-si-cheltuieli-al-SPACS-Marghita-pe-anul-2018.pdf",
+     "sha256": "767d6a50e19401d9d6881cf83dd728fec7189412e74c7afc5c0b82ddeb2a3cd7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-45-2018",
+   "path": "local/bihor/marghita/2018/45",
+   "short": "HCL Marghita nr. 45/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 45/2018 privind aprobarea regulamentului de organizare si functionare a Casei de Cultura a mun Marghita",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-45-29.03.2018-privind-aprobarea-regulamentului-de-organizare-si-functionare-a-Casei-de-Cultura-a-mun-Marghita.pdf",
+     "sha256": "2b93983dc44be49b63180fd31abcd0277c09913fa1be04bf4d122a03623b39e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-46-2018",
+   "path": "local/bihor/marghita/2018/46",
+   "short": "HCL Marghita nr. 46/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 46/2018 privind majorarea tarifelor la apa si canalizare aplicate beneficiarilor de SPAACS Marghita",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-46-29.03.2018-privind-majorarea-tarifelor-la-apa-si-canalizare-aplicate-beneficiarilor-de-SPAACS-Marghita.pdf",
+     "sha256": "9bef1c78a01d2740745518bdbd7bd5bae90dc5645253d3ffd2fdc3e012f980cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-48-2018",
+   "path": "local/bihor/marghita/2018/48",
+   "short": "HCL Marghita nr. 48/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 48/2018",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-04-25",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-48-25.04.2018-pt-aprobarea-ordinei-de-zi-a-sedintei-din-25-aprilie-2018-si-a-procesului-verbal-a-sedintei-anterioare.pdf",
+     "sha256": "e1aa1a4dc872de57fa5c119c71c17f97385a1335e48541a67dce249e5058c9ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-49-2018",
+   "path": "local/bihor/marghita/2018/49",
+   "short": "HCL Marghita nr. 49/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 49/2018 privind aprobarea unita’ilor de invatamant preuniversitar la nivel de UAT Marghita pe anul scolar 2018-2019",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-04-25",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-49-25.04.2018-privind-aprobarea-unitailor-de-invatamant-preuniversitar-la-nivel-de-UAT-Marghita-pe-anul-scolar-2018-2019.pdf",
+     "sha256": "bc0a3a51dab82c5e34793fe6b1040bde20bb4cf2b1d4ae3fab39d98fd62a3e66"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-50-2018",
+   "path": "local/bihor/marghita/2018/50",
+   "short": "HCL Marghita nr. 50/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 50/2018 privind rectificarea bugetului de venituri si cheltuieli al mun Marghita pe anul 2018",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-04-25",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-50-25.04.2018-privind-rectificarea-bugetului-de-venituri-si-cheltuieli-al-mun-Marghita-pe-anul-2018.pdf",
+     "sha256": "de9b6553acad7953b0a70727111ae4d15c918262cc46100ec4a977f2258752c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-51-2018",
+   "path": "local/bihor/marghita/2018/51",
+   "short": "HCL Marghita nr. 51/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 51/2018 pentru stabilirea impozitelor si taxelor locale alte taxe asimilate acestora si amenzi aplicate de catre mun Marghita in anul 2019",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-04-25",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-51-25.04.2018-pentru-stabilirea-impozitelor-si-taxelor-locale-alte-taxe-asimilate-acestora-si-amenzi-aplicate-de-catre-mun-Marghita-in-anul-2019.pdf",
+     "sha256": "aee98e793dc1c74230cb90fd3976f3e333b8f7d02fe89361a849c8aab872276c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-52-2018",
+   "path": "local/bihor/marghita/2018/52",
+   "short": "HCL Marghita nr. 52/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 52/2018 privind respingerea procedurii acordarii la plata impozitelor si taxelor locale restante datorate bugetului local al mn Marghita",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-04-25",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-52-25.04.2018-privind-respingerea-procedurii-acordarii-la-plata-impozitelor-si-taxelor-locale-restante-datorate-bugetului-local-al-mn-Marghita.pdf",
+     "sha256": "e3b341ab27e0d80bae606c3eed96fa0b25cff3227bb00ad44825f4c74cc9cb72"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-53-2018",
+   "path": "local/bihor/marghita/2018/53",
+   "short": "HCL Marghita nr. 53/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 53/2018 pentru stabilirea taxelor percepute prin Compartimentul Registru Agricol pentru eliberare atestat de producator si carnet de comercializare a produselor agricole",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-04-25",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-53-25.04.2018-pentru-stabilirea-taxelor-percepute-prin-Compartimentul-Registru-Agricol-pentru-eliberare-atestat-de-producator-si-carnet-de-comercializare-a-produselor-agricole.pdf",
+     "sha256": "6104d2a18df63edcf38c45113b7270393808739ecc138428057436fbbcbb995a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-56-2018",
+   "path": "local/bihor/marghita/2018/56",
+   "short": "HCL Marghita nr. 56/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 56/2018 PENTRU PERIOADA 2014-2020",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-04-25",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-56-25.04.2018-in-vederea-modificarii-si-completarii-HCL-8-din-29.01.2015-pt-aprobarea-STRATEGIEI-DE-DEZVOLTARE-LOCXALA-A-MUNICIPIULUI-MARGHITA-PENTRU-PERIOADA-2014-2020.pdf",
+     "sha256": "faea196c614a6c1e34a9ab91e8449e547897a93d5311a876bf9f069d9a0f8799"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-58-2018",
+   "path": "local/bihor/marghita/2018/58",
+   "short": "HCL Marghita nr. 58/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 58/2018 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Marghita pentru sedinta ordinara din luna mai 2018",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-58-31.05.2018-privind-alegerea-presedintelui-de-sedinta-a-Consiliului-Local-al-municipiului-Marghita-pentru-sedinta-ordinara-din-luna-mai-2018.pdf",
+     "sha256": "ad770dc5306a382ef593b0704888f606ffbe46a314e0e8befa8695d1fee8c7df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-59-2018",
+   "path": "local/bihor/marghita/2018/59",
+   "short": "HCL Marghita nr. 59/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 59/2018 pentru aprobarea ordinei de zi a sedintei din 31 mai 2018 si a procesului verbal a sedintei anterioare",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-59-31.05.2018-pentru-aprobarea-ordinei-de-zi-a-sedintei-din-31-mai-2018-si-a-procesului-verbal-a-sedintei-anterioare.pdf",
+     "sha256": "0e1c0bc24082bfa3ad257832a8a76841f8f3ad603456407d17e164351e6963bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-60-2018",
+   "path": "local/bihor/marghita/2018/60",
+   "short": "HCL Marghita nr. 60/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 60/2018 privind solicitarea preluarii din domeniul public al statului si administrarea APIA in domeniul public al UAT Marghita a doua imobile",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-60-31.05.2018-privind-solicitarea-preluarii-din-domeniul-public-al-statului-si-administrarea-APIA-in-domeniul-public-al-UAT-Marghita-a-doua-imobile.pdf",
+     "sha256": "d788c8c0d91b649795b9a3038a1fdb1ff084e379982186319336396e1dc5de99"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-62-2018",
+   "path": "local/bihor/marghita/2018/62",
+   "short": "HCL Marghita nr. 62/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 62/2018 privind stabilirea chiriei catre Parohia Romana Unita cu Roma greco-Catolica Marghita pt terenul in suprafat de 1179 folosit de administratia locala ca piata agroalimentara",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-62-31.05.2018-privind-stabilirea-chiriei-catre-Parohia-Romana-Unita-cu-Roma-greco-Catolica-Marghita-pt-terenul-in-suprafat-de-1179-folosit-de-administratia-locala-ca-piata-agroalimentara.pdf",
+     "sha256": "51bf0af82e0960d7b0100133dba3fc9abe0f664a4076aa22875d2e8e7493f020"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-64-2018",
+   "path": "local/bihor/marghita/2018/64",
+   "short": "HCL Marghita nr. 64/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 64/2018 pentru atribuirea de denumire la str nou infiintata cu nr cad 104344 Marghita, domeniul public al mun Marghita",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-64-31.05.2018-pentru-atribuirea-de-denumire-la-str-nou-infiintata-cu-nr-cad-104344-Marghita-domeniul-public-al-mun-Marghita.pdf",
+     "sha256": "7e837ea095f6753179f28e5ed105e25f2149c1670eb1ad898a8ce8d743fa3c53"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-65-2018",
+   "path": "local/bihor/marghita/2018/65",
+   "short": "HCL Marghita nr. 65/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 65/2018 pentru vanzarea prin licitatie publica deschisa a unor imobile-teren fara constructii-proprietate privata a mun Marghita situat in Marghita str C Republicii FN S=257mp",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-65-31.05.2018-pentru-vanzarea-prin-licitatie-publica-deschisa-a-unor-imobile-teren-fara-constructii-proprietate-privata-a-mun-Marghita-situat-in-Marghita-str-C-Republicii-FN-S257mp.pdf",
+     "sha256": "3bfe24bf58639f340582adf96d494ec4bcc47a25b6983393f205c6de628f2659"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-66-2018",
+   "path": "local/bihor/marghita/2018/66",
+   "short": "HCL Marghita nr. 66/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 66/2018 privind reglementarea din punct de vedere juridic a unor terenuri situate in intravilanul municipiului Marghita precum si constituirea unor numere cadastrale",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-66-31.05.2018-privind-reglementarea-din-punct-de-vedere-juridic-a-unor-terenuri-situate-in-intravilanul-municipiului-Marghita-precum-si-constituirea-unor-numere-cadastrale.pdf",
+     "sha256": "9c6ab198ccba4844f116e95413a3d9774a9261bda112f42a35dc9ac2d1772194"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-67-2018",
+   "path": "local/bihor/marghita/2018/67",
+   "short": "HCL Marghita nr. 67/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 67/2018 privind aprobarea listelor de prioritate pt acordarea locuintelor ANL care s-au eliberat in anul 2018",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-67-31.05.2018-privind-aprobarea-listelor-de-prioritate-pt-acordarea-locuintelor-ANL-care-s-au-eliberat-in-anul-2018.pdf",
+     "sha256": "e4f0d8053a6897be1f0d12e5449fec8b7e8d39b3ceae0c8a0f254c58e1656204"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-68-2018",
+   "path": "local/bihor/marghita/2018/68",
+   "short": "HCL Marghita nr. 68/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 68/2018 privind aprobarea listelor de prioritate pt acordarea locuintelor sociale care s-au eliberat in anul 2018",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-68-31.05.2018-privind-aprobarea-listelor-de-prioritate-pt-acordarea-locuintelor-sociale-care-s-au-eliberat-in-anul-2018.pdf",
+     "sha256": "7e5adb3d8329c5f1dcb0668d0193ea302a39dce5eda27911369ce05b074061be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-69-2018",
+   "path": "local/bihor/marghita/2018/69",
+   "short": "HCL Marghita nr. 69/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 69/2018 privind modificarea Regulamentului privind repartizarea inchiderea si exploatarea locuintelor sociale din mun Marghita aprobat prin HCL nr 15 din 2016",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-69-31.05.2018-privind-modificarea-Regulamentului-privind-repartizarea-inchiderea-si-exploatarea-locuintelor-sociale-din-mun-Marghita-aprobat-prin-HCL-nr-15-din-2016.pdf",
+     "sha256": "eda66df3aea6dd069de083673b87b148f65789b2bf7318f6fd184152d17dac6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-7-2018",
+   "path": "local/bihor/marghita/2018/7",
+   "short": "HCL Marghita nr. 7/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 7/2018",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-01-30",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-07-30.01.2018-aprobarea-in-principiu-a-vanzarii-fara-licitatie-publica-a-terenului-in-suprafata-de-320mp-nrcad-10227C-Marghita-catre-Ravanar-Trans-SRL-concesionarul-suprafetei-respective.pdf",
+     "sha256": "91b315b35d19ca4eee9132ea2cca024b26446185d453b3f7eecb91699d4545c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-71-2018",
+   "path": "local/bihor/marghita/2018/71",
+   "short": "HCL Marghita nr. 71/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 71/2018",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://marghita.ro/hotararile-c-l/2018/",
+     "sha256": "f88d49e8e59db1d01afa4ced182d3d7ff4fd9ea833533c5013b3b1147310d768"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-72-2018",
+   "path": "local/bihor/marghita/2018/72",
+   "short": "HCL Marghita nr. 72/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 72/2018 privind aprobarea ordinei de zi a sedintei de indata a CL al mun Marghita din 06.06.2018",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-06-06",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-72-06.06.2018-privind-aprobarea-ordinei-de-zi-a-sedintei-de-indata-a-CL-al-mun-Marghita-din-06.06.2018.pdf",
+     "sha256": "28bcc3da2d0a58acceb0fc68841e2a81623c22166c830e8c125471a7285f842d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-74-2018",
+   "path": "local/bihor/marghita/2018/74",
+   "short": "HCL Marghita nr. 74/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 74/2018 privind aprobarea ordinei de zi a sedintei de indata a CL al mun Marghita din 13.06.2018",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-06-13",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-74-13.06.2018-privind-aprobarea-ordinei-de-zi-a-sedintei-de-indata-a-CL-al-mun-Marghita-din-13.06.2018.pdf",
+     "sha256": "c6f73a15c83b8d613e25a68c685fd89201b3e10f5883101b37af1c9b757479b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-76-2018",
+   "path": "local/bihor/marghita/2018/76",
+   "short": "HCL Marghita nr. 76/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 76/2018 pentru reglementarea juridica a unor terenuri situate in intravilanul municipiului Marghita precum si constituirea unui numar cadastral",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-06-13",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-76-13.06.2018-pentru-reglementarea-juridica-a-unor-terenuri-situate-in-intravilanul-municipiului-Marghita-precum-si-constituirea-unui-numar-cadastral.pdf",
+     "sha256": "eb91f840d45af682d54293cff23eaf989ffb6b260266ff741350caeba748996e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-77-2018",
+   "path": "local/bihor/marghita/2018/77",
+   "short": "HCL Marghita nr. 77/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 77/2018 pentru aprobarea ordinei de zi a sedintei din 28 iunie 2018 si a procesului verbal al sedintei anterioare",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-77-28.06.2018-pentru-aprobarea-ordinei-de-zi-a-sedintei-din-28-iunie-2018-si-a-procesului-verbal-al-sedintei-anterioare.pdf",
+     "sha256": "551c8cf3b25905dbcbd30e1cf35a8420886d92127a6e56513225fd50657edf50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-78-2018",
+   "path": "local/bihor/marghita/2018/78",
+   "short": "HCL Marghita nr. 78/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 78/2018 pentru aprobarea Regulamentului privind constatarea si sanctionarea expunerii vehiculelor in scopul comercializarii in mun Marghita",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-78-28.06.2018-pentru-aprobarea-Regulamentului-privind-constatarea-si-sanctionarea-expunerii-vehiculelor-in-scopul-comercializarii-in-mun-Marghita.pdf",
+     "sha256": "8404ee64256d0246460d1eb279aff198640dfdff6f25e47f35a3c5c9ba3c1e81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-8-2018",
+   "path": "local/bihor/marghita/2018/8",
+   "short": "HCL Marghita nr. 8/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 8/2018 pentru aprobarea amenajamentului pastoral intocmit pentru pajistile din mun Marghita conform OUG 34-2013",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-01-30",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-08-30.01.2018-pentru-aprobarea-amenajamentului-pastoral-intocmit-pentru-pajistile-din-mun-Marghita-conform-OUG-34-2013.pdf",
+     "sha256": "58c5e2d858ebf9fa656c39f7dd6f68e49b5065947b26374a48d18e4ea1f1a019"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-81-2018",
+   "path": "local/bihor/marghita/2018/81",
+   "short": "HCL Marghita nr. 81/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 81/2018",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://marghita.ro/hotararile-c-l/2018/",
+     "sha256": "2aa13d3cd5a20371bd4aec5936af3f82cd1416c28741a258394f189693e5fc9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-82-2018",
+   "path": "local/bihor/marghita/2018/82",
+   "short": "HCL Marghita nr. 82/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 82/2018 privind rectificarea bugetului de venituri si cheltuieli al mun Marghita pe anul 2018",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-82-28.06.2018-privind-rectificarea-bugetului-de-venituri-si-cheltuieli-al-mun-Marghita-pe-anul-2018.pdf",
+     "sha256": "f618403b5d6ad31ca34b21fe26de1a1e20e62c407d6f24880893d80f657353bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-83-2018",
+   "path": "local/bihor/marghita/2018/83",
+   "short": "HCL Marghita nr. 83/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 83/2018 pentru scoaterea din domeniul public-privat si din evidentele contabile a imobilelor cu destinatia ateliere situate pe C Republicii nr 29 urmare a autodemolarii",
+   "url": "https://marghita.ro/hotararile-c-l/2018/",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-83-28.06.2018-pentru-scoaterea-din-domeniul-public-privat-si-din-evidentele-contabile-a-imobilelor-cu-destinatia-ateliere-situate-pe-C-Republicii-nr-29-urmare-a-autodemolarii.pdf",
+     "sha256": "1b31408a36eec2c8135eaf5ce582293deac86809345cb90b853b4c64cf8f6bc0"
+    }
+   ]
+  }
+ ]
+}

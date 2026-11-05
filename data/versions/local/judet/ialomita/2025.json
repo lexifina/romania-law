@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/judet/ialomita/2025",
+ "acts": [
+  {
+   "slug": "hcj-ialomita-122-2025",
+   "path": "local/judet/ialomita/2025/122",
+   "short": "HCJ Ialomița nr. 122/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 122/2025 privind aprobarea Regulamentului privind vânzarea bunurilor imobile proprietate privată a Județului Ialomița PDF Anexă",
+   "url": "https://cjialomita.ro/monitorul-oficial-al-judetului/registrul-pentru-evidenta-hotararilor-adoptate/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/07/anexa-HCJI-122-din-26.06.2025.pdf",
+     "sha256": "cd294fb3a131f3036d798e2b52368f1c60277e94cbb3858071a6195c8a2dca2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ialomita-166-2025",
+   "path": "local/judet/ialomita/2025/166",
+   "short": "HCJ Ialomița nr. 166/2025",
+   "title": "Hotărârea Consiliului Județean Ialomița nr. 166/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://cjialomita.ro/wp-content/uploads/2025/10/anexa-HCJI-166-din-25.09.2025.pdf",
+     "sha256": "9fb099ef607dbcf003aef691d6442b3ff14266646e9b935d8de472de2767d869"
+    }
+   ]
+  }
+ ]
+}

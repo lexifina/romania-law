@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/bacau/bacau/1997",
+"acts": [
+{
+"slug": "hcl-bacau--bacau-1-1997",
+"path": "local/bacau/bacau/1997/1",
+"kind": "local",
+"year": "1997",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 1/1997",
+"short": "HCL Bacău nr. 1/1997",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "1997-01-20",
+"latest": "1997-01-20",
+"portal": null,
+"council": "bacau/bacau",
+"council_name": "Consiliul Local al Municipiului Bacău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

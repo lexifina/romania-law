@@ -1,0 +1,531 @@
+{
+ "country": "RO",
+ "shard": "local/braila/braila/2020",
+ "acts": [
+  {
+   "slug": "hcl-braila--braila-1-2020",
+   "path": "local/braila/braila/2020/1",
+   "short": "HCL Brăila nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 1/2020",
+   "url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+   "versions": [
+    {
+     "from": "2020-08-14",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+     "sha256": "58dd79a19d21e7310c6ad6cf7ea90fb7939519524a9f6f0903362561c15d50e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-10-2020",
+   "path": "local/braila/braila/2020/10",
+   "short": "HCL Brăila nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 10/2020",
+   "url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+   "versions": [
+    {
+     "from": "2020-08-18",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+     "sha256": "d18d1f4a7cebe1609d243582e5cc191db3e79748f032bbdb976a9404a071027e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-11-2020",
+   "path": "local/braila/braila/2020/11",
+   "short": "HCL Brăila nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 11/2020",
+   "url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+   "versions": [
+    {
+     "from": "2020-08-18",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Alegeri/locale%202020/Hotararea%20nr.11%20-18.08.2020%20PSL%20LISTA%20CANDIDATI.pdf",
+     "sha256": "1acb0653699b2bed53106d76d01fe66c5e61534bc0c1352dc7412c701d367fb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-112-2020",
+   "path": "local/braila/braila/2020/112",
+   "short": "HCL Brăila nr. 112/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 112/2020",
+   "url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+   "versions": [
+    {
+     "from": "2020-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Alegeri/locale%202020/Hotararea%20112%20din%2030.09.2020.pdf",
+     "sha256": "5247daa52b66a746480ae048650f9e7b0f57e8a5232faedf1f019bffe9642516"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-113-2020",
+   "path": "local/braila/braila/2020/113",
+   "short": "HCL Brăila nr. 113/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 113/2020",
+   "url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+   "versions": [
+    {
+     "from": "2020-09-26",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Alegeri/locale%202020/Hotararea%20113%20din%2030.09.2020.pdf",
+     "sha256": "6b640e08b8ed3e238552714152786c47e89d2f6c845dcd19828d5267d7a4bd38"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-114-2020",
+   "path": "local/braila/braila/2020/114",
+   "short": "HCL Brăila nr. 114/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 114/2020",
+   "url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+   "versions": [
+    {
+     "from": "2020-09-26",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Alegeri/locale%202020/Hotararea%20114%20din%2030.09.2020.pdf",
+     "sha256": "5e86c68a0cc0a0e10c9b922480791f411b25e53a97ecea199a27a42c7ca65f53"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-12-2020",
+   "path": "local/braila/braila/2020/12",
+   "short": "HCL Brăila nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 12/2020",
+   "url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+   "versions": [
+    {
+     "from": "2020-08-18",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+     "sha256": "9e45cede58f7745cc30510c50808cc931b922b835aff77b1d04fe5e833d6537c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-13-2020",
+   "path": "local/braila/braila/2020/13",
+   "short": "HCL Brăila nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 13/2020",
+   "url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+   "versions": [
+    {
+     "from": "2020-08-18",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Alegeri/locale%202020/Hotararea%20nr.%2013%20-%2018.08.2020%20PRM%20LISTA%20CONSILIERI.pdf",
+     "sha256": "5477ba9fe3974f25115fffeff72a21f0a9e03357131f341ab0f0d6198e4191f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-14-2020",
+   "path": "local/braila/braila/2020/14",
+   "short": "HCL Brăila nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 14/2020",
+   "url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+   "versions": [
+    {
+     "from": "2020-08-18",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+     "sha256": "8f3f02b928bad221ccccd7716412c92b184b1d8305d13590bd19d97647b4191f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-15-2020",
+   "path": "local/braila/braila/2020/15",
+   "short": "HCL Brăila nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 15/2020",
+   "url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+   "versions": [
+    {
+     "from": "2020-08-18",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Alegeri/locale%202020/Hotararea%20nr.%2015-18.08.2020%20PER%20CONSILIERI.pdf",
+     "sha256": "107b5d62d4c271fa64bdbeef18333c3e3c019769d3a1969e6b5a09180622e9b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-16-2020",
+   "path": "local/braila/braila/2020/16",
+   "short": "HCL Brăila nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 16/2020",
+   "url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+   "versions": [
+    {
+     "from": "2020-08-18",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+     "sha256": "c3ea1d6d724bdf925d6e628625c97ace528fd2dd29448d9d176b57761f1806d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-17-2020",
+   "path": "local/braila/braila/2020/17",
+   "short": "HCL Brăila nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 17/2020",
+   "url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+   "versions": [
+    {
+     "from": "2020-08-18",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+     "sha256": "4fdc763bb4b135dc025f2ae024d46712d17ce7740e3c40a42635cf8a2aa790ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-18-2020",
+   "path": "local/braila/braila/2020/18",
+   "short": "HCL Brăila nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 18/2020",
+   "url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+   "versions": [
+    {
+     "from": "2020-08-18",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Alegeri/locale%202020/Hotararea%20nr.%2018-18.08.2020%20ALDE%20CONSILIERI%20LOCALI.pdf",
+     "sha256": "3b7504e99ebe37862845b00c8249818fa4509a337806854873b601ded1c927ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-19-2020",
+   "path": "local/braila/braila/2020/19",
+   "short": "HCL Brăila nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 19/2020",
+   "url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+   "versions": [
+    {
+     "from": "2020-08-18",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Alegeri/locale%202020/Hotararea%20nr.%2019-18.08.2020%20PNL%20CONSILIERI%20LOCALI.pdf",
+     "sha256": "fb1c4ef46b14406f9de56f5848a528ab1de770d3cbb79a48d81e88e54aef4de3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-2-2020",
+   "path": "local/braila/braila/2020/2",
+   "short": "HCL Brăila nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 2/2020",
+   "url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+   "versions": [
+    {
+     "from": "2020-08-14",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Alegeri/locale%202020/Hotararea%20nr.2%20-14.08.2020%20PMP%20LISTA%20CANDIDATI.pdf",
+     "sha256": "81220e2e518e8de73c87560098d48cdb0e8f1cfff938085b060f67b95b18aa04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-20-2020",
+   "path": "local/braila/braila/2020/20",
+   "short": "HCL Brăila nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 20/2020",
+   "url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+   "versions": [
+    {
+     "from": "2020-08-18",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+     "sha256": "c2592c089ed5e8fd88905a867d8f5b27137d95192a8fc83f56787d51c976bb6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-21-2020",
+   "path": "local/braila/braila/2020/21",
+   "short": "HCL Brăila nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 21/2020",
+   "url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+   "versions": [
+    {
+     "from": "2020-08-18",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Alegeri/locale%202020/Hotararea%20nr.%2021-18.08.2020%20USR%20CONSILIERI%20LOCALI.pdf",
+     "sha256": "aa6314d542d75040a9a0ce638f5c08583874176cfb61c977bd4c76714997b544"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-22-2020",
+   "path": "local/braila/braila/2020/22",
+   "short": "HCL Brăila nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 22/2020",
+   "url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+   "versions": [
+    {
+     "from": "2020-08-18",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+     "sha256": "da0b91757a26617afb8bf984765119494676a9c8bfdda1ce609405c85c9946b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-23-2020",
+   "path": "local/braila/braila/2020/23",
+   "short": "HCL Brăila nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 23/2020",
+   "url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+   "versions": [
+    {
+     "from": "2020-08-18",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Alegeri/locale%202020/Hotararea%20nr.%2023-18.08.2020%20PARTIDUL%20VERDE%20CONSILIERI%20LOCALI.pdf",
+     "sha256": "f72970b52762f3b41d6f84659dc6e9cf5cfe2dd04d586e4774d66e4bd601d065"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-24-2020",
+   "path": "local/braila/braila/2020/24",
+   "short": "HCL Brăila nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 24/2020",
+   "url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+   "versions": [
+    {
+     "from": "2020-08-18",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+     "sha256": "1e92ba0573b332664fc161a01b0dd4ebdf925f85e63308e5a5d3964979d9e5e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-25-2020",
+   "path": "local/braila/braila/2020/25",
+   "short": "HCL Brăila nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 25/2020",
+   "url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+   "versions": [
+    {
+     "from": "2020-08-18",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Alegeri/locale%202020/Hotararea%20nr.%2025-18.08.2020%20PPU%20CONSILIERI%20LOCALI.pdf",
+     "sha256": "4bac03df4a0664bc16fc5b35319cb16603f35a2889216f9cefd985d23c24ff26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-26-2020",
+   "path": "local/braila/braila/2020/26",
+   "short": "HCL Brăila nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 26/2020",
+   "url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+   "versions": [
+    {
+     "from": "2020-08-18",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Alegeri/locale%202020/Hotararea%20nr.%2026-18.08.2020%20%20PSR%20CONSILIERI%20LOCALI.pdf",
+     "sha256": "4306b6dd29d0a977e76221489884881b5884ee2fc415f1e21e23699599edd9fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-27-2020",
+   "path": "local/braila/braila/2020/27",
+   "short": "HCL Brăila nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 27/2020",
+   "url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+   "versions": [
+    {
+     "from": "2020-08-26",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Alegeri/locale%202020/HOTARAREA%20NR%2027%20DIN%2026.08.2020%20.pdf",
+     "sha256": "340255af9569f9cd3735137decfff5f0fe90c36721f5984b8a34d4cee9f467e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-28-2020",
+   "path": "local/braila/braila/2020/28",
+   "short": "HCL Brăila nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 28/2020",
+   "url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+   "versions": [
+    {
+     "from": "2020-08-26",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Alegeri/locale%202020/HOTARAREA%2028%20DIN%2026.08.2020%20STABILIRE%20DIMENSIUNE%20BULETIN%20DE%20VOT.pdf",
+     "sha256": "ad86c19aa323249a396784c4da0e6694a620d1d94cde4cc9e2992ba2717da2a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-29-2020",
+   "path": "local/braila/braila/2020/29",
+   "short": "HCL Brăila nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 29/2020",
+   "url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+   "versions": [
+    {
+     "from": "2020-08-29",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Alegeri/locale%202020/Hotararea%20nr.%2029-29.08.2020%20PLANGERE%20PRIVIND%20AFISAJUL.pdf",
+     "sha256": "91f2e6611d2924ae4c115a0e80e1d8ab5254819dabe0e768286f9b58eacc9c1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-3-2020",
+   "path": "local/braila/braila/2020/3",
+   "short": "HCL Brăila nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 3/2020",
+   "url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+   "versions": [
+    {
+     "from": "2020-08-14",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+     "sha256": "c03714aecdbe0f90c821d3422c89161cdfaec69d905964c808788dab2634ebfa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-30-2020",
+   "path": "local/braila/braila/2020/30",
+   "short": "HCL Brăila nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 30/2020 PRIVIND AFISAJUL.pdf",
+   "url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+   "versions": [
+    {
+     "from": "2020-08-29",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Alegeri/locale%202020/Hotararea%20nr.%2030-29.08.2020%20PLANGERE%20PRIVIND%20AFISAJUL.pdf",
+     "sha256": "6e6cfd01d315616a9c40b59846e5dc16130bb7906eb3ff0167ff2f80d71e536c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-31-2020",
+   "path": "local/braila/braila/2020/31",
+   "short": "HCL Brăila nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 31/2020",
+   "url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+   "versions": [
+    {
+     "from": "2020-09-26",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Alegeri/locale%202020/Hotararea%2031%20din%2026.09.2020.pdf",
+     "sha256": "a85b8552ecf96784143215e183af98e8486c1d8567b55d9c42a61d2e3acbd707"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-32-2020",
+   "path": "local/braila/braila/2020/32",
+   "short": "HCL Brăila nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 32/2020",
+   "url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+   "versions": [
+    {
+     "from": "2020-09-26",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Alegeri/locale%202020/Hotararea%2032%20din%2026.09.2020.pdf",
+     "sha256": "132c3086dbd16fef1decc871ebc0f49a37a396000673a0a42b5d73054915e1b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-4-2020",
+   "path": "local/braila/braila/2020/4",
+   "short": "HCL Brăila nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 4/2020",
+   "url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+   "versions": [
+    {
+     "from": "2020-08-15",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+     "sha256": "33d52cc9e49faae1f6a0fb1f4a416ea730731acd4246edfc865f61f71ea1ba1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-5-2020",
+   "path": "local/braila/braila/2020/5",
+   "short": "HCL Brăila nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 5/2020",
+   "url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+   "versions": [
+    {
+     "from": "2020-08-15",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Alegeri/locale%202020/Hotararea%20nr.5-15.08.2020%20PSD%20LISTA%20CANDIDATI%20CONSILIERI%20LOCALI.pdf",
+     "sha256": "c85a2cec8c22e4a4a5183b3c61c202836577774d9e7bf76c5326cd6b79cf2f18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-6-2020",
+   "path": "local/braila/braila/2020/6",
+   "short": "HCL Brăila nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 6/2020",
+   "url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+   "versions": [
+    {
+     "from": "2020-08-15",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Alegeri/locale%202020/Hotararea%20nr.6-15.08.2020%20BR%C4%82ILA%20NOU%C4%82%20CONSILIERI%20LOCALI.pdf",
+     "sha256": "cc8d899f7ce9b0cac18eb3c73742cdb12487b47466f1e0e4474343d969706a98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-7-2020",
+   "path": "local/braila/braila/2020/7",
+   "short": "HCL Brăila nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 7/2020",
+   "url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+   "versions": [
+    {
+     "from": "2020-08-15",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+     "sha256": "39799a91de3c6337c3f1743e371e45576a05b861cdb316feb9b1cdfa0b4e356c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-8-2020",
+   "path": "local/braila/braila/2020/8",
+   "short": "HCL Brăila nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 8/2020",
+   "url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+   "versions": [
+    {
+     "from": "2020-08-15",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Alegeri/locale%202020/Hotararea%20nr.8-15.08.2020%20PRO%20ROMANIA%20LISTA%20CANDIDATI.pdf",
+     "sha256": "19961aa65af79e9c81d3aeeedd4dbbd026206ad549d2a76182a2fdac5f7e4182"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--braila-9-2020",
+   "path": "local/braila/braila/2020/9",
+   "short": "HCL Brăila nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Brăila nr. 9/2020",
+   "url": "https://www.primariabraila.ro/alegeri/arhiva/alegeri-locale-2020",
+   "versions": [
+    {
+     "from": "2020-08-17",
+     "units": 1,
+     "source_url": "https://www.primariabraila.ro/wp-content/uploads/2018/documentePDF/Alegeri/locale%202020/Hotararea%20nr.9-17.08.2020%20COMUNITATEA%20RUSILOR%20LIPOVENI%20DIN%20ROMANIA.pdf",
+     "sha256": "6c997b8aaa9e208672336e82f9c164ab272e87473430293beccc4b9ae9f4c938"
+    }
+   ]
+  }
+ ]
+}

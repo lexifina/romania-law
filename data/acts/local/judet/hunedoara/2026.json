@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/hunedoara/2026",
+"acts": [
+{
+"slug": "hcj-hunedoara-4-2026",
+"path": "local/judet/hunedoara/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Hunedoara nr. 4/2026 privind Modificarea Anexei nr.1 a Hotărârii Consiliului Județean Hunedoara nr.310/2025 privind aprobarea nivelului taxelor şi tarifelor precum şi altor taxe asimilate acestora, din competenţa consiliului judeţean hunedoara, aplicabile în anul fiscal 2026 - publicat la data de 02.02.2026",
+"short": "HCJ Hunedoara nr. 4/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-01-30",
+"latest": "2026-01-30",
+"portal": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/916-hotarari-2026",
+"council": "judet/hunedoara",
+"council_name": "Consiliul Județean Hunedoara",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

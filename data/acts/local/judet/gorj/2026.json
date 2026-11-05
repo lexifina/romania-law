@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/judet/gorj/2026",
+"acts": [
+{
+"slug": "hcj-gorj-27-2026",
+"path": "local/judet/gorj/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Gorj nr. 27/2026 privind înființarea ”Serviciului de gestionare a câinilor fără stăpân”, aprobarea delegării acestuia către Asociația de Dezvoltare Intercomunitară ”Serviciul județean pentru ocrotirea animalelor fără stăpân” Hunedoara, precum și aderarea Județului Gorj prin",
+"short": "HCJ Gorj nr. 27/2026",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2026-01-28",
+"latest": "2026-01-28",
+"portal": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "judet/gorj",
+"council_name": "Consiliul Județean Gorj",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-gorj-135-2026",
+"path": "local/judet/gorj/2026/135",
+"kind": "local",
+"year": "2026",
+"number": "135",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Gorj nr. 135/2026 privind aprobarea ajustării tarifelor de călătorie, practicate de către operatorii de transport rutier în cadrul Contractelor de delegare a gestiunii serviciului public de transport persoane în aria teritorială de competență a județului Gorj – Programul de transport public județean de perso",
+"short": "HCJ Gorj nr. 135/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-05-25",
+"latest": "2026-05-25",
+"portal": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "judet/gorj",
+"council_name": "Consiliul Județean Gorj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-gorj-214-2026",
+"path": "local/judet/gorj/2026/214",
+"kind": "local",
+"year": "2026",
+"number": "214",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Gorj nr. 214/2026 privind aprobarea tarifelor de călătorie, practicate de către operatorul de transport rutier căștigător în cadrul procedurii de atribuire a Contractelor de delegare a serviciului de transport public judeţean de persoane – Programului de transport public județean de persoane prin curse regul",
+"short": "HCJ Gorj nr. 214/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-29",
+"latest": "2026-09-29",
+"portal": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "judet/gorj",
+"council_name": "Consiliul Județean Gorj",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

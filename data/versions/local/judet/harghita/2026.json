@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/judet/harghita/2026",
+ "acts": [
+  {
+   "slug": "hcj-harghita-138-2026",
+   "path": "local/judet/harghita/2026/138",
+   "short": "HCJ Harghita nr. 138/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 138/2026 privind aprobarea Regulamentului serviciului public de alimentare cu apă și de canalizare (actualizat 2026) și a Caietului de sarcini al serviciului (actualizat 2026) în aria de delegare a Asociației de Dezvoltare Intercomunitară „HARGITA VÍZ”; Hotărârea nr. 138/29.06.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/7/",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-138-2026.pdf",
+     "sha256": "28b0c7588139e7f6dc38b2e328348867c2f200d6affa42ebc87128f36b50c313"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-139-2026",
+   "path": "local/judet/harghita/2026/139",
+   "short": "HCJ Harghita nr. 139/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 139/2026 privind aprobarea contractării unui împrumut în valoare de 12.625.962 lei, în conformitate cu prevederile art. I din Ordonanţa de urgenţă a Guvernului nr. 35/2026 privind unele măsuri fiscal-bugetare destinate acordării unor împrumuturi din Trezoreria Statului în vederea accelerării absorbției fondurilor nerambursabile de la Uniunea Europeană de către unitățile/subdiviziunile administrativ-teritor",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/7/",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-139-2026.pdf",
+     "sha256": "b900dd7ebcb9c575f85fce3dee07e5d6315f1886794339ed4a8c562e95141977"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-140-2026",
+   "path": "local/judet/harghita/2026/140",
+   "short": "HCJ Harghita nr. 140/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 140/2026 privind completarea şi modificarea Hotărârii Consiliului Județean Harghita nr. 251/2020 privind aprobarea Regulamentului privind acordarea de sprijin financiar cultelor religioase recunoscute de lege, care îşi desfăşoară activitatea în judeţul Harghita, cu modificările și completările ulterioare; Hotărârea nr. 140/29.06.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/7/",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-140-2026.pdf",
+     "sha256": "7e3b11d1b2350ba7083292da3ebb3d707e00ef45739684652ac9fe9d5b8c232a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-183-2026",
+   "path": "local/judet/harghita/2026/183",
+   "short": "HCJ Harghita nr. 183/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 183/2026 privind modificarea Hotărârii Consiliului Județean nr. 138/2026 privind aprobarea Regulamentului serviciului public de alimentare cu apă și de canalizare (actualizat 2026) și a Caietului de sarcini al serviciului (actualizat 2026) în aria de delegare a Asociației de Dezvoltare Intercomunitară „HARGITA VÍZ”; Hotărârea nr. 183/27.07.2026",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/5/",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/07/Hot-183-2026.pdf",
+     "sha256": "9671cac056f9469b116508afffc48584ebd3d5572021b478e7f84ceeab1e8242"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-221-2026",
+   "path": "local/judet/harghita/2026/221",
+   "short": "HCJ Harghita nr. 221/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 221/2026 privind modificarea Hotărârii nr. 87/2026 a Consiliului Județean Harghita, privind aprobarea Regulamentului privind circulația pe drumurile publice județene a vehiculelor rutiere cu greutăți și/sau dimensiuni de gabarit care depășesc limitele maxime prevăzute de Ordonanța Guvernului nr. 43/1997 privind regimul drumurilor, republicată, cu modificările și completările ulterioare , obținerea autoriza",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/3/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/09/Hot-221-2026.pdf",
+     "sha256": "a91215bbb13d86447034362278474775cb2c67ae3b8befb6204320354e9275dc"
+    }
+   ]
+  }
+ ]
+}

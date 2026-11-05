@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/judet/gorj/2026",
+ "acts": [
+  {
+   "slug": "hcj-gorj-135-2026",
+   "path": "local/judet/gorj/2026/135",
+   "short": "HCJ Gorj nr. 135/2026",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 135/2026 privind aprobarea ajustării tarifelor de călătorie, practicate de către operatorii de transport rutier în cadrul Contractelor de delegare a gestiunii serviciului public de transport persoane în aria teritorială de competență a județului Gorj – Programul de transport public județean de perso",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/25.05.2026%20-%20Adoptate/135.%20HCJ%20aprobare%20ajustare%20tarife%20-%20mai%202026.pdf",
+     "sha256": "a50eec9851172c0807688933dd29c492972e22793c6b3a8775c5429f80916c35"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-214-2026",
+   "path": "local/judet/gorj/2026/214",
+   "short": "HCJ Gorj nr. 214/2026",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 214/2026 privind aprobarea tarifelor de călătorie, practicate de către operatorul de transport rutier căștigător în cadrul procedurii de atribuire a Contractelor de delegare a serviciului de transport public judeţean de persoane – Programului de transport public județean de persoane prin curse regul",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/29.06.2026%20-%20Adoptate/214.%20HCJ%20aprobare%20tarife%20-operatori%20castigatori%20-%20septembrie%202026.pdf",
+     "sha256": "a0cbb548ccc90a9e5fbabe63b551b5e0064473de38cf683a30ed52be6f3ea82e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-27-2026",
+   "path": "local/judet/gorj/2026/27",
+   "short": "HCJ Gorj nr. 27/2026",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 27/2026 privind înființarea ”Serviciului de gestionare a câinilor fără stăpân”, aprobarea delegării acestuia către Asociația de Dezvoltare Intercomunitară ”Serviciul județean pentru ocrotirea animalelor fără stăpân” Hunedoara, precum și aderarea Județului Gorj prin",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+     "sha256": "a5ff6fa84b7ba382572c5d55d44d1c5ed737b9ee69778af5704fed91d871d771"
+    }
+   ]
+  }
+ ]
+}

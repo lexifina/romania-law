@@ -208103,6 +208103,21 @@
    ]
   },
   {
+   "slug": "og-43-1999",
+   "path": "og/1999/43",
+   "short": "OG nr. 43/1999",
+   "title": "Ordonanța Guvernului nr. 43/1999 pentru ratificarea Acordului privind Forţa Multinaţională de Pace din Europa de Sud-Est, semnat la Skopje la 26 septembrie 1998 şi a Protocolului adiţional la Acordul privind Forţa Multinaţională de Pace din Europa de Sud-Est, semnat la Atena la 12 ianuarie 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19129",
+   "versions": [
+    {
+     "from": "1999-08-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19129",
+     "sha256": "6fc7c04a8f84a1e91ab678ad499ff6309eb46d0a2e97d52e2fc95a92df522ce6"
+    }
+   ]
+  },
+  {
    "slug": "og-43-2005",
    "path": "og/2005/43",
    "short": "OG nr. 43/2005",
@@ -208171,6 +208186,21 @@
      "units": 0,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/11532",
      "sha256": "e6243e32b5a24a0c95673bc41177d6453a8c2b9a2ff36a65192c1e27b19d0c62"
+    }
+   ]
+  },
+  {
+   "slug": "og-44-1999",
+   "path": "og/1999/44",
+   "short": "OG nr. 44/1999",
+   "title": "Ordonanța Guvernului nr. 44/1999 pentru ratificarea Acordului de împrumut dintre România, reprezentată de Ministerul Finanţelor, şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare privind ajustarea structurală a sectorului privat, semnat la Washington la 17 iunie 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18999",
+   "versions": [
+    {
+     "from": "1999-08-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18999",
+     "sha256": "59e7c9b93b6a141ebeec3316956ea63a6b590bd1fad7ab7b4524c2688a3c6037"
     }
    ]
   },
@@ -208286,6 +208316,21 @@
    ]
   },
   {
+   "slug": "og-45-1999",
+   "path": "og/1999/45",
+   "short": "OG nr. 45/1999",
+   "title": "Ordonanța Guvernului nr. 45/1999 pentru ratificarea Addendei la memorandumurile de finanţare PHARE privind Programul de combatere a efectelor dezastrelor cauzate de inundaţii, încheiată la Bucureşti la 24 decembrie 1998 între Comisia Europeană şi Guvernul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19033",
+   "versions": [
+    {
+     "from": "1999-08-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19033",
+     "sha256": "35c9806c7598a25062225922463fda698c9c2ccd54dfc501b508146efbcf41d2"
+    }
+   ]
+  },
+  {
    "slug": "og-45-2002",
    "path": "og/2002/45",
    "short": "OG nr. 45/2002",
@@ -208372,6 +208417,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11290",
      "sha256": "a1f883890f88055d60713799db0252a7e6ed65120979a074d382006d9615ebae"
+    }
+   ]
+  },
+  {
+   "slug": "og-46-1999",
+   "path": "og/1999/46",
+   "short": "OG nr. 46/1999",
+   "title": "Ordonanța Guvernului nr. 46/1999 pentru aprobarea participării României la Grupul de state împotriva corupţiei (GRECO), instituit prin Rezoluţia Consiliului Europei nr. (99)5 din 1 mai 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19055",
+   "versions": [
+    {
+     "from": "1999-08-24",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19055",
+     "sha256": "3c44329f95d5bdcb375c8af98e1421801d20fe0e92bad962a55f182fd33130e0"
     }
    ]
   },

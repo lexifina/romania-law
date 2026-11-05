@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/bacau/bacau/2024",
+"acts": [
+{
+"slug": "hcl-bacau--bacau-2-2024",
+"path": "local/bacau/bacau/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 2/2024",
+"short": "HCL Bacău nr. 2/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-11",
+"latest": "2024-07-11",
+"portal": "https://municipiulbacau.ro/monitorul-oficial-local/hotarari/",
+"council": "bacau/bacau",
+"council_name": "Consiliul Local al Municipiului Bacău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--bacau-506-2024",
+"path": "local/bacau/bacau/2024/506",
+"kind": "local",
+"year": "2024",
+"number": "506",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 506/2024 privind aprobarea",
+"short": "HCL Bacău nr. 506/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-20",
+"latest": "2024-12-20",
+"portal": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
+"council": "bacau/bacau",
+"council_name": "Consiliul Local al Municipiului Bacău",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

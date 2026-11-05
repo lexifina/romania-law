@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/judet/vaslui/2025",
+ "acts": [
+  {
+   "slug": "hcj-vaslui-101-2025",
+   "path": "local/judet/vaslui/2025/101",
+   "short": "HCJ Vaslui nr. 101/2025",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 101/2025 privind aprobarea atribuirii unei licenţe de traseu și a tarifelor pentru efectuarea serviciului public de transport de persoane prin curse regulate 28 mai",
+   "url": "https://cjvs.eu/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2025/HotarareaNr101_2025.pdf",
+     "sha256": "3723e486cf913e0b3077ce87f0783851cab7be01d11804e3542fc1aafa9a58cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-111-2025",
+   "path": "local/judet/vaslui/2025/111",
+   "short": "HCJ Vaslui nr. 111/2025",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 111/2025",
+   "url": "https://cjvs.eu/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2025/HotarareaNr111_2025.pdf",
+     "sha256": "b334bb851c8d70869374a720e5f19ea705e85dfd2fbf642ea96d6b41b0f2fc4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-13-2025",
+   "path": "local/judet/vaslui/2025/13",
+   "short": "HCJ Vaslui nr. 13/2025",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 13/2025 privind aprobarea măsurilor necesare pentru interzicerea abandonării și aruncării necontrolate a deșeurilor pe terenurile aflate în proprietatea Județului Vaslui 31 ianuarie",
+   "url": "https://cjvs.eu/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2025/HotarareaNr13_2025.pdf",
+     "sha256": "f785c34a583f9c1780c5fd91c68f0acbe621c51840f4ddd25833740719c62a66"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-14-2025",
+   "path": "local/judet/vaslui/2025/14",
+   "short": "HCJ Vaslui nr. 14/2025",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 14/2025",
+   "url": "https://cjvs.eu/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2025/HotarareaNr14_2025.pdf",
+     "sha256": "52a7b766655a2419e1e94683088819bb7c7bb9a2f4a3a3638a6220b7be88fd73"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-158-2025",
+   "path": "local/judet/vaslui/2025/158",
+   "short": "HCJ Vaslui nr. 158/2025",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 158/2025 privind aprobarea atribuirii unei licenţe de traseu și a tarifelor pentru efectuarea serviciului public de transport de persoane prin curse regulate 28 octombrie",
+   "url": "https://cjvs.eu/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2025/HotarareaNr158_2025.pdf",
+     "sha256": "5c21664962a2d1de270d81e726a19b9fea9123880d27aec100da74075d36ee82"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-47-2025",
+   "path": "local/judet/vaslui/2025/47",
+   "short": "HCJ Vaslui nr. 47/2025",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 47/2025 privind aprobarea atribuirii a trei licenţe de traseu și a tarifelor pentru efectuarea serviciului public de transport de persoane prin curse regulate 28 februarie",
+   "url": "https://cjvs.eu/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2025/HotarareaNr47_2025.pdf",
+     "sha256": "df0e422eb5802eaf0f8d4ce299610bf9eb9648080fe507403d9b36e36335a934"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-68-2025",
+   "path": "local/judet/vaslui/2025/68",
+   "short": "HCJ Vaslui nr. 68/2025",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 68/2025 pentru modificarea anexelor nr.4-7 la Hotărârea Consiliului Județean Vaslui nr.4/2024 privind aprobarea înființării Centrului de Zi pentru persoane adulte cu dizabilități (CZ) Murgeni și a Complexului de Locuințe Maxim Protejate pentru persoane adulte cu dizabilități Murgeni în structura Direcției Generale de Asistență Socială şi Protecția Copilului Vaslui, precum și a Regulamentelor de organizare",
+   "url": "https://cjvs.eu/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2025/HotarareaNr68_2025.pdf",
+     "sha256": "e7826b2fdd1e4710c08ee19658464886907ca96b00849b1bebfe737be08dce43"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-76-2025",
+   "path": "local/judet/vaslui/2025/76",
+   "short": "HCJ Vaslui nr. 76/2025",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 76/2025 pentru modificarea anexelor nr.4-7 la Hotărârea Consiliului Județean Vaslui nr.74/2024 privind aprobarea înființării Centrului de Zi pentru persoane adulte cu dizabilități Gârceni și a Complexului de Locuințe Maxim Protejate pentru persoane adulte cu dizabilități Gârceni-Armășoaia-Bleșca în structura Direcției Generale de Asistență Socială şi Protecția Copilului Vaslui, precum și a Regulamentelor",
+   "url": "https://cjvs.eu/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2025/HotarareaNr76_2025.pdf",
+     "sha256": "5c0829c66be46bcf1d8115baaf613b3b37ca1e974c74fa7fe631b5ac6a6a1477"
+    }
+   ]
+  }
+ ]
+}

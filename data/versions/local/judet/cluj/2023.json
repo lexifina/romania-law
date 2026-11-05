@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/judet/cluj/2023",
+ "acts": [
+  {
+   "slug": "hcj-cluj-136-2023",
+   "path": "local/judet/cluj/2023/136",
+   "short": "HCJ Cluj nr. 136/2023",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 136/2023 privind aprobarea hărților strategice de zgomot pentru Aeroportul Internațional ,,Avram Iancu” Cluj R.A",
+   "url": "https://cjcluj.ro/hotarare-cjc/2023/07",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2023/08/abb1dfc9-136_7_harti-de-zgomot-aeroport.pdf",
+     "sha256": "0b86e52be832a20074e3bb82f0fcb4941e1e0602dde80a2a68c701898d8f6ed3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-2-2023",
+   "path": "local/judet/cluj/2023/2",
+   "short": "HCJ Cluj nr. 2/2023",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 2/2023 privind avizarea taxelor și tarifelor pentru servicii prestate utilizatorilor de către Biblioteca Județeană „Octavian Goga” Cluj pentru anul fiscal 2023",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-2-31-ianuarie-2023-privind-avizarea-taxelor-si-tarifelor-pentru-servicii-prestate-utilizatorilor-de-catre-biblioteca-judeteana-octavian-goga-cluj-pentru-anul/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2023/02/bfefc8e6-2_2_taxe-si-tarife-biblioteca-o.-goga.pdf",
+     "sha256": "78a0a24903acdf650e09f9c5a3dc8e7609dc51cdf3c4f8dac373c782ee450ef8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-223-2023",
+   "path": "local/judet/cluj/2023/223",
+   "short": "HCJ Cluj nr. 223/2023",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 223/2023 privind aprobarea tarifelor de călătorie pentru traseele aferente Grupelor 24, 25, 31, 32, 33, 35, 36, 38, 56, 59, 60 și 62 din Programul de transport public județean de persoane prin curse regulate în Județul Cluj",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-223-20-decembrie-2023-privind-aprobarea-tarifelor-de-calatorie-pentru-traseele-aferente-grupelor-24-25-31-32-33-35-36-38-56-59-60-si-62-din-programul-de-transport-p/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2023/12/a6a31e3d-223_6_aprobare-tarife-calatorie-negociere-directa.pdf",
+     "sha256": "61c12fee96ac6280d3214c1f9a5b1009c28fe8486df699b70ddbd0ec68dc4034"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-3-2023",
+   "path": "local/judet/cluj/2023/3",
+   "short": "HCJ Cluj nr. 3/2023",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 3/2023 privind aprobarea tarifelor pentru spectacolele susținute de către Teatrul de Păpuși “PUCK” în anul 2023",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-3-31-ianuarie-2023-privind-aprobarea-tarifelor-pentru-spectacolele-sustinute-de-catre-teatrul-de-papusi-puck-in-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2023/02/cd445947-3_3_tarife-puck.pdf",
+     "sha256": "bc50dcaae1ba91843671d54d429384c2fe35961667e7b92211e8e61eedd14cea"
+    }
+   ]
+  }
+ ]
+}

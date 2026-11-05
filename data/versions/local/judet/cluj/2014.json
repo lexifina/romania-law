@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/cluj/2014",
+ "acts": [
+  {
+   "slug": "hcj-cluj-323-2014",
+   "path": "local/judet/cluj/2014/323",
+   "short": "HCJ Cluj nr. 323/2014",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 323/2014 pentru aprobarea Regulamentului privind acordarea de finanțare nerambursabilă, de la bugetul Județului Cluj, pentru programele, proiectele și acțiunile organizate în domeniul cultural",
+   "url": "https://cjcluj.ro/hotarare-cjc/2014/12",
+   "versions": [
+    {
+     "from": "2014-12-15",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2022/05/323_10-regulament-alocari-cultura.docx",
+     "sha256": "ee201074861405f679500f11e5eb90ec93f133308630bf3cf556ee63e71e48fa"
+    }
+   ]
+  }
+ ]
+}

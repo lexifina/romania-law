@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/salonta/2024",
+ "acts": [
+  {
+   "slug": "hcl-bihor--salonta-103-2024",
+   "path": "local/bihor/salonta/2024/103",
+   "short": "HCL Salonta nr. 103/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 103/2024 pentru obiectivul de investiții : “ AMENAJARE CORIDOR ALBASTRU ÎN MUNICIPIUL SALONTA”, Republicată prin HCLMS nr.146/31.07.2025 și prin HCLMS nr.189/25.09",
+   "url": "https://salonta.net/ro/hotarari-republicate/",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.103-R2-amenajare-Coridor-albastru.pdf",
+     "sha256": "2ab0d85537ec8f5bfacce197e6da1caecb29aacdaecbdfc4292e23e396c3b53f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-140-2024",
+   "path": "local/bihor/salonta/2024/140",
+   "short": "HCL Salonta nr. 140/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 140/2024 privind însușirea Contractului de Asistență Juridică nr. 36/08.07.2024",
+   "url": "https://salonta.net/ro/hotarari-republicate/",
+   "versions": [
+    {
+     "from": "2024-07-16",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.140-ctr.jr_.Dos_.2385-din-2024-Trib.-Bh-1.pdf",
+     "sha256": "69335dafd326357d945f4e2e99844b4c64645b6e2cc7a3f05c951c48b6c59e28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-73-2024",
+   "path": "local/bihor/salonta/2024/73",
+   "short": "HCL Salonta nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 73/2024 privind modificarea anexei nr. 1 la Hotărârea nr. 298/21.12.2022 privind însușirea propunerii de stemă a Municipiului Salonta",
+   "url": "https://salonta.net/ro/hotarari-republicate/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.73-modif-Anexa-HCL-298-stema.pdf",
+     "sha256": "51986a9afb13d21fd6dbd0bdd232188204508ec268d230e66d785088c921aa45"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-77-2024",
+   "path": "local/bihor/salonta/2024/77",
+   "short": "HCL Salonta nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 77/2024 privind „Aprobarea indicatorilor pentru finanțarea elaborării și actualizării Planului Urbanistic General și Regulamentului Local de Urbanism al Municipiului Salonta, jud. Bihor”",
+   "url": "https://salonta.net/ro/hotarari-republicate/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.77-modif.finantare-elaborare-PUG-si-RLU.pdf",
+     "sha256": "16966573cff001ed36aef06742acd9ef7df4294e198380ae8644d071423bb868"
+    }
+   ]
+  }
+ ]
+}

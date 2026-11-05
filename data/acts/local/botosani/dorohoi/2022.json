@@ -1,0 +1,227 @@
+{
+"country": "RO",
+"shard": "local/botosani/dorohoi/2022",
+"acts": [
+{
+"slug": "hcl-botosani--dorohoi-1-2022",
+"path": "local/botosani/dorohoi/2022/1",
+"kind": "local",
+"year": "2022",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 1/2022 privind aprobarea documentatiei tehnico-economica (faza DTAC+ PT), a indicatorilor tehnico-economici (faza DTAC + PT) si a cheltuielilor proiectului, urmare actualizarii devizului general la nivel de proiect tehnci, pentru obiectivul de investitii \"Construire Gradinita nr. 3, Mun. Dorohoi, judetul Botosani\"",
+"short": "HCL Dorohoi nr. 1/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-19",
+"latest": "2022-01-19",
+"portal": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=4872:hotararea-clsu-nr1-din-19012022&catid=213:2020-03-26-07-53-46&Itemid=1117",
+"council": "botosani/dorohoi",
+"council_name": "Consiliul Local al Municipiului Dorohoi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--dorohoi-2-2022",
+"path": "local/botosani/dorohoi/2022/2",
+"kind": "local",
+"year": "2022",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 2/2022 privind aprobarea Grupului de Lucru Local , pentru romii din Municipiul Dorohoi, precum si a Planului Local de Actiune \"Romii 2022\"",
+"short": "HCL Dorohoi nr. 2/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-01",
+"latest": "2022-02-01",
+"portal": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=4880:hotararea-clsu-nr2-din-01022022&catid=213:2020-03-26-07-53-46&Itemid=1117",
+"council": "botosani/dorohoi",
+"council_name": "Consiliul Local al Municipiului Dorohoi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--dorohoi-13-2022",
+"path": "local/botosani/dorohoi/2022/13",
+"kind": "local",
+"year": "2022",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 13/2022 privind aprobarea modificarii Statului de functii si a organigramei Spitalului Municipal Dorohoi, incepand cu data de 01.01.2022",
+"short": "HCL Dorohoi nr. 13/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-01",
+"latest": "2022-01-01",
+"portal": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=5674:registrul-pentru-evidena-hotrarilor-autoritii-deliberative&catid=225:registre&Itemid=1165",
+"council": "botosani/dorohoi",
+"council_name": "Consiliul Local al Municipiului Dorohoi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--dorohoi-21-2022",
+"path": "local/botosani/dorohoi/2022/21",
+"kind": "local",
+"year": "2022",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 21/2022 privind aprobarea efectuării de cheltuieli din bugetul local în suma de 80.000 lei pentru organizarea Festivalului Național de Muzică Ușoară Românească ,,Mărțișor Dorohoian’’, ediția a XXXVIII- a, desfășurat în perioada 11 - 12 martie 2022",
+"short": "HCL Dorohoi nr. 21/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-12",
+"latest": "2022-03-12",
+"portal": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=5674:registrul-pentru-evidena-hotrarilor-autoritii-deliberative&catid=225:registre&Itemid=1165",
+"council": "botosani/dorohoi",
+"council_name": "Consiliul Local al Municipiului Dorohoi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--dorohoi-25-2022",
+"path": "local/botosani/dorohoi/2022/25",
+"kind": "local",
+"year": "2022",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 25/2022 pentru modificarea, incepand cu 01.03.2022 a Regulamentului de organizare si functionare al Directiei de Asistenta Sociala, din structura Consiliului Local al Municipiului Dorohoi",
+"short": "HCL Dorohoi nr. 25/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-01",
+"latest": "2022-03-01",
+"portal": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=5674:registrul-pentru-evidena-hotrarilor-autoritii-deliberative&catid=225:registre&Itemid=1165",
+"council": "botosani/dorohoi",
+"council_name": "Consiliul Local al Municipiului Dorohoi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--dorohoi-108-2022",
+"path": "local/botosani/dorohoi/2022/108",
+"kind": "local",
+"year": "2022",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 108/2022 privind aprobarea efectuarii de cheltuieli, din bugetul local, in suma de 50.000 lei, pentru organizarea Festivalului International de Muzica Usoara \" MUGURELUL\", editia a XVI-a, desfasurat in perioada 24-26 iunie 2022",
+"short": "HCL Dorohoi nr. 108/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-26",
+"latest": "2022-06-26",
+"portal": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=5674:registrul-pentru-evidena-hotrarilor-autoritii-deliberative&catid=225:registre&Itemid=1165",
+"council": "botosani/dorohoi",
+"council_name": "Consiliul Local al Municipiului Dorohoi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--dorohoi-109-2022",
+"path": "local/botosani/dorohoi/2022/109",
+"kind": "local",
+"year": "2022",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 109/2022 privind aprobarea efectuarii de cheltuieli, din bugetul local, in suma de 150.000 lei, pentru organizarea evenimentelor sportive si cultural-artistice, dedicate Zilei Internationale a Copilului, ce se vor defasura in perioada 01 - 05 iunie 2022",
+"short": "HCL Dorohoi nr. 109/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-05",
+"latest": "2022-06-05",
+"portal": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=5674:registrul-pentru-evidena-hotrarilor-autoritii-deliberative&catid=225:registre&Itemid=1165",
+"council": "botosani/dorohoi",
+"council_name": "Consiliul Local al Municipiului Dorohoi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--dorohoi-145-2022",
+"path": "local/botosani/dorohoi/2022/145",
+"kind": "local",
+"year": "2022",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 145/2022",
+"short": "HCL Dorohoi nr. 145/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-24",
+"latest": "2022-02-24",
+"portal": null,
+"council": "botosani/dorohoi",
+"council_name": "Consiliul Local al Municipiului Dorohoi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--dorohoi-164-2022",
+"path": "local/botosani/dorohoi/2022/164",
+"kind": "local",
+"year": "2022",
+"number": "164",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 164/2022 privind aprobarea efectuării de cheltuieli din bugetul local în suma de 40.000 Lei pentru desfășurarea Festivalului Tradițiilor Meșteșugărești Ediția a-IX a organizat în perioada 19-21 august 2022",
+"short": "HCL Dorohoi nr. 164/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-21",
+"latest": "2022-08-21",
+"portal": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=5674:registrul-pentru-evidena-hotrarilor-autoritii-deliberative&catid=225:registre&Itemid=1165",
+"council": "botosani/dorohoi",
+"council_name": "Consiliul Local al Municipiului Dorohoi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--dorohoi-165-2022",
+"path": "local/botosani/dorohoi/2022/165",
+"kind": "local",
+"year": "2022",
+"number": "165",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 165/2022 privind alocarea din bugetul local a sumei de 5.000 lei în vedereaorganizării evenimentului sportiv ,,Cupa Dorohoi la Înot’’ desfășurat pe data de 19 iulie 2022",
+"short": "HCL Dorohoi nr. 165/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-19",
+"latest": "2022-07-19",
+"portal": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=5674:registrul-pentru-evidena-hotrarilor-autoritii-deliberative&catid=225:registre&Itemid=1165",
+"council": "botosani/dorohoi",
+"council_name": "Consiliul Local al Municipiului Dorohoi",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

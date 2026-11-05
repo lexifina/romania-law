@@ -1,0 +1,74 @@
+{
+"country": "RO",
+"shard": "local/judet/iasi/2013",
+"acts": [
+{
+"slug": "hcj-iasi-86-2013",
+"path": "local/judet/iasi/2013/86",
+"kind": "local",
+"year": "2013",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 86/2013",
+"short": "HCJ Iași nr. 86/2013",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2013-03-29",
+"latest": "2013-03-29",
+"portal": "http://www.icc.ro/ro/hotarari/2012/2012-05-23",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-iasi-88-2013",
+"path": "local/judet/iasi/2013/88",
+"kind": "local",
+"year": "2013",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 88/2013",
+"short": "HCJ Iași nr. 88/2013",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2013-03-29",
+"latest": "2013-03-29",
+"portal": "http://www.icc.ro/ro/hotarari/2012/2012-05-23",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-iasi-221-2013",
+"path": "local/judet/iasi/2013/221",
+"kind": "local",
+"year": "2013",
+"number": "221",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 221/2013 privind aprobarea Regulamentului și a Caietului de sarcini al serviciului de transport public județean de persoane prin curse regulate în județul Iași",
+"short": "HCJ Iași nr. 221/2013",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2013-06-28",
+"latest": "2013-06-28",
+"portal": "http://www.icc.ro/ro/hotarari/2013/2013-06-28",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

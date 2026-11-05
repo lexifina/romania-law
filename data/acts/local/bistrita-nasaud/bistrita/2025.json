@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/bistrita-nasaud/bistrita/2025",
+"acts": [
+{
+"slug": "hcl-bistrita-nasaud--bistrita-146-2025",
+"path": "local/bistrita-nasaud/bistrita/2025/146",
+"kind": "local",
+"year": "2025",
+"number": "146",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Bistrița nr. 146/2025 privind modificarea și actualizarea Statutului “Asociației Intercomunitare Silvice Bistrița-Livezile” Consiliul local al municipiului Bistrita întrunit în ședința ordinară în data de 25.06.2025; având în vedere: Hotărârea nr.1/23.06.2025 a Adunării Generale a “Asociației Intercomunitare Silvice Bistrița-Livezile”; Referatul de aprobare nr.61587/24.06.2025 al Primarului municipiului Bistrita; Rapor",
+"short": "HCL Bistrița nr. 146/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-25",
+"latest": "2025-06-25",
+"portal": "https://primariabistrita.ro/wp-content/uploads/2025/12/Statut-Hotararea-146-din-25.06.2025.pdf",
+"council": "bistrita-nasaud/bistrita",
+"council_name": "Consiliul Local al Municipiului Bistrița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--bistrita-244-2025",
+"path": "local/bistrita-nasaud/bistrita/2025/244",
+"kind": "local",
+"year": "2025",
+"number": "244",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Bistrița nr. 244/2025",
+"short": "HCL Bistrița nr. 244/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-07",
+"latest": "2025-10-07",
+"portal": "https://primariabistrita.ro/monitorul-oficial-local/documente-si-informatii-financiare/datoria-publica-locala/hotarari-ale-comisiei-de-autorizare-a-imprumuturilor-locale/",
+"council": "bistrita-nasaud/bistrita",
+"council_name": "Consiliul Local al Municipiului Bistrița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--bistrita-245-2025",
+"path": "local/bistrita-nasaud/bistrita/2025/245",
+"kind": "local",
+"year": "2025",
+"number": "245",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Bistrița nr. 245/2025",
+"short": "HCL Bistrița nr. 245/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-07",
+"latest": "2025-10-07",
+"portal": "https://primariabistrita.ro/monitorul-oficial-local/documente-si-informatii-financiare/datoria-publica-locala/hotarari-ale-comisiei-de-autorizare-a-imprumuturilor-locale/",
+"council": "bistrita-nasaud/bistrita",
+"council_name": "Consiliul Local al Municipiului Bistrița",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -1,0 +1,182 @@
+{
+"country": "RO",
+"shard": "local/judet/gorj/2024",
+"acts": [
+{
+"slug": "hcj-gorj-9-2024",
+"path": "local/judet/gorj/2024/9",
+"kind": "local",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Gorj nr. 9/2024 privind modificarea și completarea Metodologiei de organizare şi desfăşurare a concursurilor/examenelor pentru ocuparea funcţiilor specifice comitetului director din cadrul Spitalului Judeţean de Urgenţă Târgu-Jiu și Spitalului de Pneumoftiziologie ,,Tudor Vladimirescu” – comuna Runcu",
+"short": "HCJ Gorj nr. 9/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-26",
+"latest": "2024-01-26",
+"portal": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "judet/gorj",
+"council_name": "Consiliul Județean Gorj",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-gorj-31-2024",
+"path": "local/judet/gorj/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Gorj nr. 31/2024 privind aprobarea ajustării tarifelor de călătorie, practicate de către operatorii de transport rutier în cadrul Contractelor de delegare a gestiunii serviciului public de transport persoane în aria teritorială de competență a județului Gorj – Programul de transport public județean de perso",
+"short": "HCJ Gorj nr. 31/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-01-23",
+"latest": "2024-01-23",
+"portal": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "judet/gorj",
+"council_name": "Consiliul Județean Gorj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-gorj-86-2024",
+"path": "local/judet/gorj/2024/86",
+"kind": "local",
+"year": "2024",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Gorj nr. 86/2024 privind modificarea Metodologiei de organizare şi desfăşurare a concursurilor/examenelor pentru ocuparea funcţiilor specifice comitetului director din cadrul Spitalului Judeţean de Urgenţă Târgu-Jiu și Spitalului de Pneumoftiziologie ,,Tudor Vladimirescu” – comuna Runcu, cu modificările și",
+"short": "HCJ Gorj nr. 86/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-29",
+"latest": "2024-02-29",
+"portal": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "judet/gorj",
+"council_name": "Consiliul Județean Gorj",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-gorj-103-2024",
+"path": "local/judet/gorj/2024/103",
+"kind": "local",
+"year": "2024",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Gorj nr. 103/2024 privind aprobarea ajustării tarifelor de călătorie, practicate de către operatorii detransport rutier în cadrul Contractelor de delegare a gestiunii serviciului public de transport persoane în aria teritorială de competență a județului Gorj – Programul de transport public județean de persoa",
+"short": "HCJ Gorj nr. 103/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-03-23",
+"latest": "2024-03-23",
+"portal": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "judet/gorj",
+"council_name": "Consiliul Județean Gorj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-gorj-104-2024",
+"path": "local/judet/gorj/2024/104",
+"kind": "local",
+"year": "2024",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Gorj nr. 104/2024 privind aprobarea tarifelor de călătorie, practicate de către operatorii de transport rutier căștigători în cadrul procedurii de atribuire a Contractelor de delegare a serviciului de transport public judeţean de persoane – Programului de transport public județean de persoane prin curse regu",
+"short": "HCJ Gorj nr. 104/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-03-28",
+"latest": "2024-03-28",
+"portal": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "judet/gorj",
+"council_name": "Consiliul Județean Gorj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-gorj-155-2024",
+"path": "local/judet/gorj/2024/155",
+"kind": "local",
+"year": "2024",
+"number": "155",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Gorj nr. 155/2024 privind aprobarea ajustării tarifelor de călătorie, practicate de către operatorii de transport rutier în cadrul Contractelor de delegare a gestiunii serviciului public de transport persoane în aria teritorială de competență a județului Gorj – Programul de transport public județean de perso",
+"short": "HCJ Gorj nr. 155/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-06-28",
+"latest": "2024-06-28",
+"portal": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "judet/gorj",
+"council_name": "Consiliul Județean Gorj",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-gorj-166-2024",
+"path": "local/judet/gorj/2024/166",
+"kind": "local",
+"year": "2024",
+"number": "166",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Gorj nr. 166/2024 privind modificarea Anexei 10 Regulamentul pentru efectuarea serviciului public de transport persoane, prin curse regulate, în județul Gorj a Contractelor de delegare a gestiunii serviciilor publice de transport persoane în aria teritorială de competență a județului Gorj",
+"short": "HCJ Gorj nr. 166/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-07-26",
+"latest": "2024-07-26",
+"portal": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "judet/gorj",
+"council_name": "Consiliul Județean Gorj",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-gorj-245-2024",
+"path": "local/judet/gorj/2024/245",
+"kind": "local",
+"year": "2024",
+"number": "245",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Gorj nr. 245/2024 privind aprobarea unor taxe şi tarife pentru anul fiscal 2025, la nivelul Judeţului Gorj",
+"short": "HCJ Gorj nr. 245/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "judet/gorj",
+"council_name": "Consiliul Județean Gorj",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

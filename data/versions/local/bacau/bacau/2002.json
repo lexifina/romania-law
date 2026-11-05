@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/bacau/2002",
+ "acts": [
+  {
+   "slug": "hcl-bacau--bacau-1-2002",
+   "path": "local/bacau/bacau/2002/1",
+   "short": "HCL Bacău nr. 1/2002",
+   "title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 1/2002 privind aprobarea bugetului de venituri și cheltuieli pe anul 2002 al RAGC Bacău",
+   "url": "https://municipiulbacau.ro/monitorul-oficial-local/arhiva-hotararilor-consiliului-local-bacau/",
+   "versions": [
+    {
+     "from": "2002-01-28",
+     "units": 1,
+     "source_url": "https://municipiulbacau.ro/wp-content/uploads/2024/04/liste-cu-hotarari-2002-.pdf",
+     "sha256": "a4c9f80e87b555b3205fd71bc035919495126751b6c71e31a387d0fb2dd7a20e"
+    }
+   ]
+  }
+ ]
+}

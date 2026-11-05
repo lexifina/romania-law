@@ -1,0 +1,756 @@
+{
+ "country": "RO",
+ "shard": "local/arges/campulung/2026",
+ "acts": [
+  {
+   "slug": "hcl-arges--campulung-1-2026",
+   "path": "local/arges/campulung/2026/1",
+   "short": "HCL Câmpulung nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 1/2026",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-01-02",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%201%20din%2002.01.2026.pdf",
+     "sha256": "1a4d27d898b3043832761a384dad6587c75f1c0444dbc0d324e61723eb06aeed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-10-2026",
+   "path": "local/arges/campulung/2026/10",
+   "short": "HCL Câmpulung nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 10/2026 privind aprobarea dezmembrării imobilului cu număr cadastral 89191, înscris în cartea funciară nr. 89191 a municipiului Câmpulung în două loturi Hotărâre privind aprobarea dezmembrării imobilului cu număr cadastral 89191, înscris în cartea funciară nr. 89191 a municipiului Câmpulung în două loturi",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2010%20din%2029.01.2026.pdf",
+     "sha256": "69c0ad651ae9593eae2f4471c4ffa0351b6cc7ba20d36974033fc66ca763b2a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-11-2026",
+   "path": "local/arges/campulung/2026/11",
+   "short": "HCL Câmpulung nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 11/2026 privind aprobarea Programului de acțiune comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială la nivelul municipiului Câmpulung, județul Argeș, pe anul 2026 Hotărâre privind aprobarea Programului de acțiune comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială la nivelul municipiului Câmpulung, județul Argeș, pe anul 2026",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2011%20din%2029.01.2026.pdf",
+     "sha256": "113b4eaad34288f600e6890a5d072833734a4e5ca0282f8df504000977d9f69f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-12-2026",
+   "path": "local/arges/campulung/2026/12",
+   "short": "HCL Câmpulung nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 12/2026 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Consiliul Local al Municipiului Câmpulung pentru anul 2026 Hotărâre privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Consiliul Local al Municipiului Câmpulung pentru anul 2026",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2012%20din%2029.01.2026.pdf",
+     "sha256": "2d54d26ace425a6b0ec5b4ee2431e6df9317a6ad25780d38c9f0b0c908c9f598"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-15-2026",
+   "path": "local/arges/campulung/2026/15",
+   "short": "HCL Câmpulung nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 15/2026 privind aprobarea asocierii (parteneriatului) și cofinanțării dintre UAT Municipiul Câmpulung și Asociația Culturală ,,IADASARECASA” Hotărâre privind aprobarea asocierii (parteneriatului) și cofinanțării dintre UAT Municipiul Câmpulung și Asociația Culturală ,,IADASARECASA”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2015%20din%2029.01.2026.pdf",
+     "sha256": "4a754486773f4ba8244056f479205a68071c14c70d29e0787e4e479dbc1bf438"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-18-2026",
+   "path": "local/arges/campulung/2026/18",
+   "short": "HCL Câmpulung nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 18/2026 privind alegerea viceprimarului Municipiului Câmpulung Hotărâre privind alegerea viceprimarului Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2018%20din%2026.02.2026.pdf",
+     "sha256": "60cda75cece5eab76fd3cce36f4c926995d05d4d7cbf94a2652ecccb0f4e528b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-2-2026",
+   "path": "local/arges/campulung/2026/2",
+   "short": "HCL Câmpulung nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 2/2026 privind aprobarea utilizării unei sume din excedentul bugetului local al anilor precedenți pentru acoperirea golurilor temporare de casă provenite din decalajele între venituri şi cheltuieli în anul 2026 Hotărâre privind aprobarea utilizării unei sume din excedentul bugetului local al anilor precedenți pentru acoperirea golurilor temporare de casă provenite din decalajele între venituri şi cheltui",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%202%20din%2023.01.2026.pdf",
+     "sha256": "f82ad9ccda4303e873442f0bac7e578b0422bd80076cd958c55b31ba4ecdcaea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-20-2026",
+   "path": "local/arges/campulung/2026/20",
+   "short": "HCL Câmpulung nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 20/2026 privind aprobarea Regulamentului serviciului public de salubrizare – activitatea de dezinsecție, dezinfecție și deratizare la obiectivele din domeniul public și domeniul privat al UAT Municipiul Câmpulung Hotărâre privind aprobarea Regulamentului serviciului public de salubrizare – activitatea de dezinsecție, dezinfecție și deratizare la obiectivele din domeniul public și domeniul privat al UAT Mu",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2020%20din%2026.02.2026.pdf",
+     "sha256": "b8f25727fa83f2c3e6475e7ee80292c5339750d1568ab05ca14b42d50b93fedc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-21-2026",
+   "path": "local/arges/campulung/2026/21",
+   "short": "HCL Câmpulung nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 21/2026 privind acordarea unui sprijin financiar echipei de volei U18 a Colegiului Național \"Dinicu Golescu\" Câmpulung pentru participarea la Campionatul Mondial Școlar de Volei U18 (ISF) ce se va desfășura la Shangluo, China Hotărâre privind acordarea unui sprijin financiar echipei de volei U18 a Colegiului Național \"Dinicu Golescu\" Câmpulung pentru participarea la Campionatul Mondial Școlar de Volei U18",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2021%20din%2026.02.2026.pdf",
+     "sha256": "617d488d4f0a8716d4112ef5d5626d1e169ae129ad2acb5e38629d76a50f3cd1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-22-2026",
+   "path": "local/arges/campulung/2026/22",
+   "short": "HCL Câmpulung nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 22/2026 privind modificarea comisiei de specialitate de organizare și dezvoltare urbanistică, realizare a lucrărilor publice, protecție a mediului înconjurător, conservare a monumentelor istorice și arhitectură Hotărâre privind modificarea comisiei de specialitate de organizare și dezvoltare urbanistică, realizare a lucrărilor publice, protecție a mediului înconjurător, conservare a monumentelor istorice",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2022%20din%2026.02.2026.pdf",
+     "sha256": "bfa7f5d78b341d57f2f3a4a39c85f27508e9633d7b1df68ec197c89c4cc97310"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-23-2026",
+   "path": "local/arges/campulung/2026/23",
+   "short": "HCL Câmpulung nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 23/2026 privind însușirea locurilor de parcare pentru folosință în parcările de domiciliu, ce vor fi supuse procedurii de atribuire și încheiere a contractelor de închiriere Hotărâre privind însușirea locurilor de parcare pentru folosință în parcările de domiciliu, ce vor fi supuse procedurii de atribuire și încheiere a contractelor de închiriere",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2023%20din%2026.02.2026.pdf",
+     "sha256": "65bd57bb135a6fcc7d9d5b8d1bbbe3976175337d053ca636812d2c7c930970f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-24-2026",
+   "path": "local/arges/campulung/2026/24",
+   "short": "HCL Câmpulung nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 24/2026 privind aprobarea actualizării Devizului General și a Anexei 2.2b pentru obiectivul de investiții „Extindere rețea de canalizare pe str",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2024%20din%2026.02.2026.pdf",
+     "sha256": "b1026f3cfcf925f238007ee1c9af3d31ab19519c8121251a3962199783d4124a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-25-2026",
+   "path": "local/arges/campulung/2026/25",
+   "short": "HCL Câmpulung nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 25/2026 privind aprobarea statutului Organizației de Management al Destinației ”Regatul Argeșului” Hotărâre privind aprobarea statutului Organizației de Management al Destinației ”Regatul Argeșului”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2025%20din%2026.02.2026.pdf",
+     "sha256": "f5eef876815189174c64e35b3ae1f022908cdf7ed94227c6018c3987604de697"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-26-2026",
+   "path": "local/arges/campulung/2026/26",
+   "short": "HCL Câmpulung nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 26/2026",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2026%20din%2026.02.2026.pdf",
+     "sha256": "f9e6e34bc992b3ea99075a0ef560ab254db1b90a6a06de3100dce6fbca8a1b02"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-27-2026",
+   "path": "local/arges/campulung/2026/27",
+   "short": "HCL Câmpulung nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 27/2026",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2027%20din%2026.02.2026.pdf",
+     "sha256": "fb5973bba01dc5b52220fbc8fbe7937df366b058c752d1cf32db003c332d8c99"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-275-2026",
+   "path": "local/arges/campulung/2026/275",
+   "short": "HCL Câmpulung nr. 275/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 275/2026",
+   "url": "https://www.primariacampulung.ro/registrul-agricol/",
+   "versions": [
+    {
+     "from": "2026-01-19",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/Agricol/2026//Notificare%20preemptori%20-%20Dosar%20nr.%20275%20-%2019.01.2026.pdf",
+     "sha256": "a5baeaa936efb55cbff3a3897af21b276d35c10674de75342a7c81f915e61b7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-28-2026",
+   "path": "local/arges/campulung/2026/28",
+   "short": "HCL Câmpulung nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 28/2026",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2028%20din%2026.02.2026.pdf",
+     "sha256": "60720056ab3b0427c79d76fbd7c2af80763c54ed8cfbb2a8826178f3290332f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-29-2026",
+   "path": "local/arges/campulung/2026/29",
+   "short": "HCL Câmpulung nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 29/2026 privind înlocuirea unui reprezentant al Consiliului Local în Consiliul de Administrație al Spitalului de Pneumoftiziologie Câmpulung Hotărâre privind înlocuirea unui reprezentant al Consiliului Local în Consiliul de Administrație al Spitalului de Pneumoftiziologie Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2029%20din%2026.02.2026.pdf",
+     "sha256": "ea40b4281c4e408f4f16cf01aa67a59f0ba6afc6a4fd4c4c5814e2c60b0ab2a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-3-2026",
+   "path": "local/arges/campulung/2026/3",
+   "short": "HCL Câmpulung nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 3/2026",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%203%20din%2023.01.2026.pdf",
+     "sha256": "ca8c37d2e4de5496ffcb7494acf74bd7fa71ae5b10f6f96d4770e6df471fb0b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-30-2026",
+   "path": "local/arges/campulung/2026/30",
+   "short": "HCL Câmpulung nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 30/2026",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2030%20din%2026.02.2026.pdf",
+     "sha256": "457000d49b6178ad65e6828929b9dd869e2325f814efa1817c3c4673d00baa68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-31-2026",
+   "path": "local/arges/campulung/2026/31",
+   "short": "HCL Câmpulung nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 31/2026 privind aprobarea achiziționării de servicii juridice de consultanță, asistență și reprezentare în dosarul nr. 221/109/2026 aflat pe rolul Tribunalului Argeș Hotărâre privind aprobarea achiziționării de servicii juridice de consultanță, asistență și reprezentare în dosarul nr. 221/109/2026 aflat pe rolul Tribunalului Argeș",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2031%20din%2026.02.2026.pdf",
+     "sha256": "b18af036a564aca944a229eeede8b46e4ada545409cd6a102410f8c7154e7a66"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-37-2026",
+   "path": "local/arges/campulung/2026/37",
+   "short": "HCL Câmpulung nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 37/2026",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2037%20din%2031.03.2026.pdf",
+     "sha256": "d626b569f4071a21fe51240a0e632d2fb5a4c67e28cfa770c2392eff1ae32433"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-38-2026",
+   "path": "local/arges/campulung/2026/38",
+   "short": "HCL Câmpulung nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 38/2026",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2038%20din%2031.03.2026.pdf",
+     "sha256": "abc1e836034453d31f8a704103e7ab322e26b4dbfefa0569f2bc25293ccc0c28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-39-2026",
+   "path": "local/arges/campulung/2026/39",
+   "short": "HCL Câmpulung nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 39/2026",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2039%20din%2031.03.2026.pdf",
+     "sha256": "63909dd556da50222a03ecbbc98937312723eea9a48ab7e8ba00a102766a7621"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-4-2026",
+   "path": "local/arges/campulung/2026/4",
+   "short": "HCL Câmpulung nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 4/2026 privind aprobarea achiziționării de servicii juridice în vederea promovării unei acțiuni de către Spitalul Municipal Câmpulung Hotărâre privind aprobarea achiziționării de servicii juridice în vederea promovării unei acțiuni de către Spitalul Municipal Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%204%20din%2029.01.2026.pdf",
+     "sha256": "56e6c88624dcdb1ac720226183ce6df72e7b6c7accb564319934402a69083f09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-40-2026",
+   "path": "local/arges/campulung/2026/40",
+   "short": "HCL Câmpulung nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 40/2026 privind aprobarea achiziționării de servicii juridice de consultanță, asistență și reprezentare pentru dosarul nr. 27886/3/2025 Hotărâre privind aprobarea achiziționării de servicii juridice de consultanță, asistență și reprezentare pentru dosarul nr. 27886/3/2025",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2040%20din%2031.03.2026.pdf",
+     "sha256": "8b94b771b60a63662d147acb6ec36c0db04a14b5769f6fd241d3bd375ed5a512"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-41-2026",
+   "path": "local/arges/campulung/2026/41",
+   "short": "HCL Câmpulung nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 41/2026 privind aprobarea achiziționării de servicii juridice de consultanță, asistență și reprezentare pentru dosarul nr. 18374/3/2025 Hotărâre privind aprobarea achiziționării de servicii juridice de consultanță, asistență și reprezentare pentru dosarul nr. 18374/3/2025",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2041%20din%2031.03.2026.pdf",
+     "sha256": "82d49a77803e624001d4be140902b431488c350b9e0b6a771f73a43c0441a037"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-42-2026",
+   "path": "local/arges/campulung/2026/42",
+   "short": "HCL Câmpulung nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 42/2026 privind aprobarea achiziționării de servicii juridice de consultanță, asistență și reprezentare pentru dosarul nr. 630/109/2026 Hotărâre privind aprobarea achiziționării de servicii juridice de consultanță, asistență și reprezentare pentru dosarul nr. 630/109/2026",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2042%20din%2031.03.2026.pdf",
+     "sha256": "0a1a2cb134242e61ae14b358574f0905dc0325071b7c2f799679573217278a84"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-43-2026",
+   "path": "local/arges/campulung/2026/43",
+   "short": "HCL Câmpulung nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 43/2026 privind aprobarea achiziționării de servicii juridice de consultanță, asistență și reprezentare pentru dosarul nr. 631/109/2026 Hotărâre privind aprobarea achiziționării de servicii juridice de consultanță, asistență și reprezentare pentru dosarul nr. 631/109/2026",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2043%20din%2031.03.2026.pdf",
+     "sha256": "d1f3020762a98e9632d94d48c8e903f20c5316016278ffdc391a76f85cbf8aa6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-44-2026",
+   "path": "local/arges/campulung/2026/44",
+   "short": "HCL Câmpulung nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 44/2026",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2044%20din%2031.03.2026.pdf",
+     "sha256": "9dbf7be1b0170452c2b3560bcd0e2a953b89e5d557906f154cf0a55a60a348ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-45-2026",
+   "path": "local/arges/campulung/2026/45",
+   "short": "HCL Câmpulung nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 45/2026 privind însușirea propunerii de concesionare a imobilului, teren și construcție, situat în Municipiul Câmpulung, județul Argeș – punct sanitar Apa Sărată Hotărâre privind însușirea propunerii de concesionare a imobilului, teren și construcție, situat în Municipiul Câmpulung, județul Argeș – punct sanitar Apa Sărată",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2045%20din%2031.03.2026.pdf",
+     "sha256": "67680177da6ee2159696e357135c9dfffd556a91d2504d414f4fa1f8b3c776ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-46-2026",
+   "path": "local/arges/campulung/2026/46",
+   "short": "HCL Câmpulung nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 46/2026 privind aprobarea dezmembrării imobilului cu număr cadastral 84561, înscris în cartea funciară nr. 84561 a municipiului Câmpulung, în trei loturi Hotărâre privind aprobarea dezmembrării imobilului cu număr cadastral 84561, înscris în cartea funciară nr. 84561 a municipiului Câmpulung, în trei loturi",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2046%20din%2031.03.2026.pdf",
+     "sha256": "e38463d6dbf8a2d36452c425bbb646b11ef3c06cd9ce25fdb1a6234f7f1e7e8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-47-2026",
+   "path": "local/arges/campulung/2026/47",
+   "short": "HCL Câmpulung nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 47/2026 privind aprobarea dezmembrării imobilului cu număr cadastral 86814, înscris în cartea funciară nr. 86814 a municipiului Câmpulung, în două loturi Hotărâre privind aprobarea dezmembrării imobilului cu număr cadastral 86814, înscris în cartea funciară nr. 86814 a municipiului Câmpulung, în două loturi",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2047%20din%2031.03.2026.pdf",
+     "sha256": "12e71070a3c6cf210b5e72b5a40e21404683eb868fa3207eff71172d255027f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-48-2026",
+   "path": "local/arges/campulung/2026/48",
+   "short": "HCL Câmpulung nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 48/2026",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2048%20din%2031.03.2026.pdf",
+     "sha256": "33a8563983087f7af1ef273ef2bf3145985202642394c824067e26d23b9a210b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-49-2026",
+   "path": "local/arges/campulung/2026/49",
+   "short": "HCL Câmpulung nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 49/2026 privind stabilirea nivelului chiriilor lunare pentru locuinţele ANL, aflate în administrarea Municipiului Câmpulung Hotărâre privind stabilirea nivelului chiriilor lunare pentru locuinţele ANL, aflate în administrarea Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2049%20din%2031.03.2026.pdf",
+     "sha256": "161287bd8fa85574df5eaa59b580d15f8920f0e9e1fb0118d75dfc228e3a4e48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-5-2026",
+   "path": "local/arges/campulung/2026/5",
+   "short": "HCL Câmpulung nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 5/2026 privind aprobarea înființării unui post de expert achiziții în afara organigramei Spitalului Municipal Câmpulung Hotărâre privind aprobarea înființării unui post de expert achiziții în afara organigramei Spitalului Municipal Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%205%20din%2029.01.2026.pdf",
+     "sha256": "58c9b72d59dd28f20668762d959d9535b2c158ee40ace831da6e617de79dc42d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-51-2026",
+   "path": "local/arges/campulung/2026/51",
+   "short": "HCL Câmpulung nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 51/2026 privind actualizarea devizului general și a indicatorilor tehnico-economici, pentru obiectivul de investiții “Renovarea energetică a Spitalului Municipal Câmpulung” Hotărâre privind actualizarea devizului general și a indicatorilor tehnico-economici, pentru obiectivul de investiții “Renovarea energetică a Spitalului Municipal Câmpulung”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2051%20din%2016.04.2026.pdf",
+     "sha256": "fb61b01b4a8dbd033c9dd1ff10b1da821a4dd0ad4dde6e5018c07a612870ae94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-54-2026",
+   "path": "local/arges/campulung/2026/54",
+   "short": "HCL Câmpulung nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 54/2026 privind actualizarea Comisiei Locale de Ordine Publică Hotărâre privind actualizarea Comisiei Locale de Ordine Publică",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2054%20din%2016.04.2026.pdf",
+     "sha256": "be92a18adfc554c48e70595cdc161559e94d89863a4baac39a3310331863d5fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-55-2026",
+   "path": "local/arges/campulung/2026/55",
+   "short": "HCL Câmpulung nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 55/2026 privind aprobarea Regulamentului de organizare şi funcţionare al Comisiei Locale de Ordine Publică Hotărâre privind aprobarea Regulamentului de organizare şi funcţionare al Comisiei Locale de Ordine Publică",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2055%20din%2016.04.2026.pdf",
+     "sha256": "4b7add288d5b5959d796dd294cabf2abb2662912e15f203cefedd179eb981abf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-56-2026",
+   "path": "local/arges/campulung/2026/56",
+   "short": "HCL Câmpulung nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 56/2026 privind interzicerea organizării și exploatării jocurilor de noroc pe raza Municipiului Câmpulung, cu excepția jocurilor de tip loto tradiționale, aparținând Companiei Naționale “Loteria Română” SA Hotărâre privind interzicerea organizării și exploatării jocurilor de noroc pe raza Municipiului Câmpulung, cu excepția jocurilor de tip loto tradiționale, aparținând Companiei Naționale “Loteria Româ",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2056%20din%2027.04.2026.pdf",
+     "sha256": "b5e5d503d90836e1c62adf6c89d88ff62496c79148427c7e99a99eb5063847aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-57-2026",
+   "path": "local/arges/campulung/2026/57",
+   "short": "HCL Câmpulung nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 57/2026 privind aprobarea modificării Organigramei și a Statului de Funcții ale Spitalului Municipal Câmpulung Hotărâre privind aprobarea modificării Organigramei și a Statului de Funcții ale Spitalului Municipal Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2057%20din%2030.04.2026.pdf",
+     "sha256": "68ee6c175fa9692242aa9ab539221d29f79eb6b75c050f6e1e883fdf728273d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-58-2026",
+   "path": "local/arges/campulung/2026/58",
+   "short": "HCL Câmpulung nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 58/2026",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2058%20din%2030.04.2026.pdf",
+     "sha256": "383b565131f50a6e5848cedc86b0a58ef86dec31c0923cad116500002ceb7a72"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-59-2026",
+   "path": "local/arges/campulung/2026/59",
+   "short": "HCL Câmpulung nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 59/2026",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2059%20din%2030.04.2026.pdf",
+     "sha256": "8268b451ebb5f6377624bd037d0e147fb428f614120303ebf8bc5150e00718d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-6-2026",
+   "path": "local/arges/campulung/2026/6",
+   "short": "HCL Câmpulung nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 6/2026",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%206%20din%2029.01.2026.pdf",
+     "sha256": "e9dd30953e4682255b962f7eb7008fe6756cd82edebb277a708f37592d729865"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-60-2026",
+   "path": "local/arges/campulung/2026/60",
+   "short": "HCL Câmpulung nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 60/2026",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2060%20din%2030.04.2026.pdf",
+     "sha256": "fb16ae6616146c2220e824e965c2ff6d82f494f6166e3e1ce0a10d4c4bf2d4fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-62-2026",
+   "path": "local/arges/campulung/2026/62",
+   "short": "HCL Câmpulung nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 62/2026",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2062%20din%2030.04.2026.pdf",
+     "sha256": "e2bbb24200d202246163fcae1f7969113cec9cb8639fa565f69ed6b9df4ca137"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-65-2026",
+   "path": "local/arges/campulung/2026/65",
+   "short": "HCL Câmpulung nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 65/2026 privind actualizarea devizului general și a indicatorilor tehnico-economici pentru obiectivul de investiții \"Renovarea energetică a Școlii Gimnaziale Theodor Aman\" Hotărâre privind actualizarea devizului general și a indicatorilor tehnico-economici pentru obiectivul de investiții \"Renovarea energetică a Școlii Gimnaziale Theodor Aman\"",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2065%20din%2030.04.2026.pdf",
+     "sha256": "0bf330bd025baa7531ac8d1b8591949ca2e75b79c67b0a6b52b1d7e81dc4e633"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-7-2026",
+   "path": "local/arges/campulung/2026/7",
+   "short": "HCL Câmpulung nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 7/2026 privind darea în administrare către Spitalul Municipal Câmpulung a echipamentului medical SISTEM MAMOGRAFIE DIGITALĂ CU SUBSTANȚĂ DE CONTRAST, proprietate publică a Municipiului Câmpulung Hotărâre privind darea în administrare către Spitalul Municipal Câmpulung a echipamentului medical SISTEM MAMOGRAFIE DIGITALĂ CU SUBSTANȚĂ DE CONTRAST, proprietate publică a Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%207%20din%2029.01.2026.pdf",
+     "sha256": "da4059577e978efcedcaaa2d242136657941660ea9fe81aa6c3dbf0e2519fb5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-8-2026",
+   "path": "local/arges/campulung/2026/8",
+   "short": "HCL Câmpulung nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 8/2026 privind aprobarea componenței nominale și a regulamentului de organizare și funcționare a Comisiei tehnice de amenajare a teritoriului și urbanism a Municipiului Câmpulung Hotărâre privind aprobarea componenței nominale și a regulamentului de organizare și funcționare a Comisiei tehnice de amenajare a teritoriului și urbanism a Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%208%20din%2029.01.2026.pdf",
+     "sha256": "7c536dea81e19176a040ad810565af2fa6f0b056d5987acfebacfef65d1f25f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-9-2026",
+   "path": "local/arges/campulung/2026/9",
+   "short": "HCL Câmpulung nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 9/2026 privind declanșarea procedurii de selecție a membrilor Consiliului de Administrație al societății PIEȚE SERVICII COMUNITARE MUSCEL SRL Hotărâre privind declanșarea procedurii de selecție a membrilor Consiliului de Administrație al societății PIEȚE SERVICII COMUNITARE MUSCEL SRL",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%209%20din%2029.01.2026.pdf",
+     "sha256": "a5a2e7619b60dddef15deeb0b7e24302c62014aa901a986a65ccb98235768666"
+    }
+   ]
+  }
+ ]
+}

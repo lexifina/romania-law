@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/teleorman/rosiorii-de-vede/2020",
+"acts": [
+{
+"slug": "hcl-teleorman--rosiorii-de-vede-144-2020",
+"path": "local/teleorman/rosiorii-de-vede/2020/144",
+"kind": "local",
+"year": "2020",
+"number": "144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 144/2020 privind stabilirea tarifului pentru pornirea licitației pentru închirierile de terenuri și spații construite.pdf)",
+"short": "HCL Roșiorii de Vede nr. 144/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://www.primariarosioriidevede.ro/index.php/ro/hotararile-autoritatii-deliberative",
+"council": "teleorman/rosiorii-de-vede",
+"council_name": "Consiliul Local al Municipiului Roșiorii de Vede",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

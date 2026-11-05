@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/judet/buzau/2024",
+ "acts": [
+  {
+   "slug": "hcj-buzau-144-2024",
+   "path": "local/judet/buzau/2024/144",
+   "short": "HCJ Buzău nr. 144/2024",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 144/2024",
+   "url": "https://cjbuzau.ro/hotarari-cj-2024/",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2024/07/H-144.pdf",
+     "sha256": "d4d6517370b724038d049ea7a6815e5a7a31ec1279dab46d6fe44896e0f9e36c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-202-2024",
+   "path": "local/judet/buzau/2024/202",
+   "short": "HCJ Buzău nr. 202/2024",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 202/2024 privind aprobarea Metodologiei de recepție a lucrărilor și serviciilor de întreținere/reparații a drumurilor județene",
+   "url": "https://cjbuzau.ro/hotarari-cj-2024/",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2024/08/Hotararea-nr.202-din-2024.pdf",
+     "sha256": "57162801b2b81eef05650272fef9d48d115598ee8bd135e0869d9e2a0f98bc7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-269-2024",
+   "path": "local/judet/buzau/2024/269",
+   "short": "HCJ Buzău nr. 269/2024",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 269/2024 privind stabilirea preţurilor medii ale produselor agricole şi a valorii masei verzi pe hectar pajişte pentru anul fiscal 2025 la nivelul Judeţului Buzău",
+   "url": "https://cjbuzau.ro/hotarari-cj-2024/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2024/11/Hotararea-nr.269-din-2024.pdf",
+     "sha256": "05ebd2949ecf767769728f7518339c2df7e8fb1708646208be0b37b81236eb98"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-292-2024",
+   "path": "local/judet/buzau/2024/292",
+   "short": "HCJ Buzău nr. 292/2024",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 292/2024 privind stabilirea taxelor şi tarifelor de nivel județean pentru anul 2025 * Abrogată prin Hotărârea nr.252 din 2025",
+   "url": "https://cjbuzau.ro/hotarari-cj-2024/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2024/12/H-292.pdf",
+     "sha256": "bc51a28c6ce7bba2977d8ba8e10a80f7ce0d2351e1d7e685c074b5427ef80f99"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-39-2024",
+   "path": "local/judet/buzau/2024/39",
+   "short": "HCJ Buzău nr. 39/2024",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 39/2024 privind aprobarea tarifelor/prețurilor pentru prestațiile Societății „Domenii Prest Serv” SRL în baza contractelor de delegare a gestiunii unor activități ale serviciului public de administrare a domeniului public și privat al Județului Buzău, respectiv servicii de operare a deșeurilor din construcții și demolări, pentru anul 2024",
+   "url": "https://cjbuzau.ro/hotarari-cj-2024/",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2024/02/Hotararea-nr.39-din-2024.pdf",
+     "sha256": "a769d95f4e421a07d94fc549ac688e1d89b2e554692655662298dfd72714f04d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-8-2024",
+   "path": "local/judet/buzau/2024/8",
+   "short": "HCJ Buzău nr. 8/2024",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 8/2024 privind însușirea Planului Strategic al Autorității Teritoriale de Ordine Publică a Județului Buzău pentru anul 2024",
+   "url": "https://cjbuzau.ro/hotarari-cj-2024/",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2024/01/Hotararea-nr.8-din-2024.pdf",
+     "sha256": "61d30a3438ef60b27758cf3754751c2203ccc6c800f54605bdd7de63c4eb10ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-98-2024",
+   "path": "local/judet/buzau/2024/98",
+   "short": "HCJ Buzău nr. 98/2024",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 98/2024 pentru completarea anexei nr. 4 la Hotărârea Consiliului Județean Buzău nr. 285/2023 privind stabilirea taxelor și tarifelor de nivel județean pentru anul 2024",
+   "url": "https://cjbuzau.ro/hotarari-cj-2024/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2024/04/Hotararea-nr.98-din-2024.pdf",
+     "sha256": "4df63af65bdfe8b29ffd19883159fc77c78d5ca5899856e4d983b13fe2b0e981"
+    }
+   ]
+  }
+ ]
+}

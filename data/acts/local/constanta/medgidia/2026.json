@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/constanta/medgidia/2026",
+"acts": [
+{
+"slug": "hcl-constanta--medgidia-279-2026",
+"path": "local/constanta/medgidia/2026/279",
+"kind": "local",
+"year": "2026",
+"number": "279",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Medgidia nr. 279/2026 pentru modificarea Hotărârii Consiliului Local nr. 247/2026 privind aprobarea contractării unui împrumut în valoare de 20.000.000 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 35/2026 privind unele măsuri fiscal-bugetare destinate acordării unor împrumuturi din Trezoreria Statului în vederea accelerării absorbției fondurilor nerambursabile de la Uniunea Europ",
+"short": "HCL Medgidia nr. 279/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-08-31",
+"latest": "2026-08-31",
+"portal": "https://primaria-medgidia.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "constanta/medgidia",
+"council_name": "Consiliul Local al Municipiului Medgidia",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

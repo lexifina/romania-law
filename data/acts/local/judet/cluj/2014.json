@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/cluj/2014",
+"acts": [
+{
+"slug": "hcj-cluj-323-2014",
+"path": "local/judet/cluj/2014/323",
+"kind": "local",
+"year": "2014",
+"number": "323",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Cluj nr. 323/2014 pentru aprobarea Regulamentului privind acordarea de finanțare nerambursabilă, de la bugetul Județului Cluj, pentru programele, proiectele și acțiunile organizate în domeniul cultural",
+"short": "HCJ Cluj nr. 323/2014",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2014-12-15",
+"latest": "2014-12-15",
+"portal": "https://cjcluj.ro/hotarare-cjc/2014/12",
+"council": "judet/cluj",
+"council_name": "Consiliul Județean Cluj",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

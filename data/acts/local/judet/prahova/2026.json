@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/prahova/2026",
+"acts": [
+{
+"slug": "hcj-prahova-264-2026",
+"path": "local/judet/prahova/2026/264",
+"kind": "local",
+"year": "2026",
+"number": "264",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 264/2026 privind aprobarea procedurii de eșalonare a debitelor datorate de către Județul Prahova către creditoarea VEOLIA ENERGIE PRAHOVA SRL",
+"short": "HCJ Prahova nr. 264/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2026/",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

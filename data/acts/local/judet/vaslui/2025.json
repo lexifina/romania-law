@@ -1,0 +1,184 @@
+{
+"country": "RO",
+"shard": "local/judet/vaslui/2025",
+"acts": [
+{
+"slug": "hcj-vaslui-13-2025",
+"path": "local/judet/vaslui/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 13/2025 privind aprobarea măsurilor necesare pentru interzicerea abandonării și aruncării necontrolate a deșeurilor pe terenurile aflate în proprietatea Județului Vaslui 31 ianuarie",
+"short": "HCJ Vaslui nr. 13/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://cjvs.eu/hotarari-2025/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-vaslui-14-2025",
+"path": "local/judet/vaslui/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 14/2025",
+"short": "HCJ Vaslui nr. 14/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://cjvs.eu/hotarari-2025/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-vaslui-47-2025",
+"path": "local/judet/vaslui/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 47/2025 privind aprobarea atribuirii a trei licenţe de traseu și a tarifelor pentru efectuarea serviciului public de transport de persoane prin curse regulate 28 februarie",
+"short": "HCJ Vaslui nr. 47/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-02-27",
+"latest": "2025-02-27",
+"portal": "https://cjvs.eu/hotarari-2025/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-vaslui-68-2025",
+"path": "local/judet/vaslui/2025/68",
+"kind": "local",
+"year": "2025",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 68/2025 pentru modificarea anexelor nr.4-7 la Hotărârea Consiliului Județean Vaslui nr.4/2024 privind aprobarea înființării Centrului de Zi pentru persoane adulte cu dizabilități (CZ) Murgeni și a Complexului de Locuințe Maxim Protejate pentru persoane adulte cu dizabilități Murgeni în structura Direcției Generale de Asistență Socială şi Protecția Copilului Vaslui, precum și a Regulamentelor de organizare",
+"short": "HCJ Vaslui nr. 68/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-03-31",
+"latest": "2025-03-31",
+"portal": "https://cjvs.eu/hotarari-2025/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-vaslui-76-2025",
+"path": "local/judet/vaslui/2025/76",
+"kind": "local",
+"year": "2025",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 76/2025 pentru modificarea anexelor nr.4-7 la Hotărârea Consiliului Județean Vaslui nr.74/2024 privind aprobarea înființării Centrului de Zi pentru persoane adulte cu dizabilități Gârceni și a Complexului de Locuințe Maxim Protejate pentru persoane adulte cu dizabilități Gârceni-Armășoaia-Bleșca în structura Direcției Generale de Asistență Socială şi Protecția Copilului Vaslui, precum și a Regulamentelor",
+"short": "HCJ Vaslui nr. 76/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "https://cjvs.eu/hotarari-2025/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-vaslui-101-2025",
+"path": "local/judet/vaslui/2025/101",
+"kind": "local",
+"year": "2025",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 101/2025 privind aprobarea atribuirii unei licenţe de traseu și a tarifelor pentru efectuarea serviciului public de transport de persoane prin curse regulate 28 mai",
+"short": "HCJ Vaslui nr. 101/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-05-27",
+"latest": "2025-05-27",
+"portal": "https://cjvs.eu/hotarari-2025/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-vaslui-111-2025",
+"path": "local/judet/vaslui/2025/111",
+"kind": "local",
+"year": "2025",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 111/2025",
+"short": "HCJ Vaslui nr. 111/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-06-27",
+"latest": "2025-06-27",
+"portal": "https://cjvs.eu/hotarari-2025/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-vaslui-158-2025",
+"path": "local/judet/vaslui/2025/158",
+"kind": "local",
+"year": "2025",
+"number": "158",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 158/2025 privind aprobarea atribuirii unei licenţe de traseu și a tarifelor pentru efectuarea serviciului public de transport de persoane prin curse regulate 28 octombrie",
+"short": "HCJ Vaslui nr. 158/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-10-24",
+"latest": "2025-10-24",
+"portal": "https://cjvs.eu/hotarari-2025/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

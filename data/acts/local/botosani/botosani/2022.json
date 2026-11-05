@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/botosani/botosani/2022",
+"acts": [
+{
+"slug": "hcl-botosani--botosani-7-2022",
+"path": "local/botosani/botosani/2022/7",
+"kind": "local",
+"year": "2022",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 7/2022 privind aprobarea planului de acțiuni și lucrări de interes local pentru anul 2022 întocmit în conformitate cu prevederile art. 6 alin. (7) din Legea nr. 416/2001 privind venitul minim garantat, cu modificările și completările ulterioare",
+"short": "HCL Botoșani nr. 7/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-27",
+"latest": "2022-01-27",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/judet/iasi/2009",
+"acts": [
+{
+"slug": "hcj-iasi-62-2009",
+"path": "local/judet/iasi/2009/62",
+"kind": "local",
+"year": "2009",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 62/2009 privind instituirea tarifelor pentru eliberare date privind zonele cu risc natural Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 09:56 Ult",
+"short": "HCJ Iași nr. 62/2009",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2009-03-25",
+"latest": "2009-03-25",
+"portal": "http://www.icc.ro/ro/hotarari/2009/2009-03-25/hot%C4%83r%C3%A2rea-nr-62",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-iasi-176-2009",
+"path": "local/judet/iasi/2009/176",
+"kind": "local",
+"year": "2009",
+"number": "176",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 176/2009 privind tarifele Directiei Judetene de Paza si Ordine Iasi pentru anul fiscal 2010 Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 12:19 Ul",
+"short": "HCJ Iași nr. 176/2009",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2009-07-29",
+"latest": "2009-07-29",
+"portal": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-176",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

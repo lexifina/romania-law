@@ -1,0 +1,95 @@
+{
+"country": "RO",
+"shard": "local/judet/salaj/2026",
+"acts": [
+{
+"slug": "hcj-salaj-47-2026",
+"path": "local/judet/salaj/2026/47",
+"kind": "local",
+"year": "2026",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 47/2026 privind modificarea tarifelor de călătorie practicate pe traseele aferente loturilor 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13 din Programul de transport judeţean de persoane prin curse regulate pe raza administrativ – teritorială a Judeţului Sălaj",
+"short": "HCJ Sălaj nr. 47/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-78-2026",
+"path": "local/judet/salaj/2026/78",
+"kind": "local",
+"year": "2026",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 78/2026",
+"short": "HCJ Sălaj nr. 78/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-29",
+"latest": "2026-06-29",
+"portal": null,
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-salaj-109-2026",
+"path": "local/judet/salaj/2026/109",
+"kind": "local",
+"year": "2026",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 109/2026 pentru completarea anexei nr. 3 la Hotărârea Consiliului Judeţean Sălaj nr.171 din 30 decembrie 2025 privind stabilirea taxelor şi tarifelor de competenţa Consiliului Judeţean Sălaj, pentru anul 2026",
+"short": "HCJ Sălaj nr. 109/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-31",
+"latest": "2026-07-31",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-salaj-143-2026",
+"path": "local/judet/salaj/2026/143",
+"kind": "local",
+"year": "2026",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 143/2026 privind ajustarea tarifelor aplicabile serviciului public de salubrizare al Județului Sălaj",
+"short": "HCJ Sălaj nr. 143/2026",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

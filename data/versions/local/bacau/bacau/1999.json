@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/bacau/1999",
+ "acts": [
+  {
+   "slug": "hcl-bacau--bacau-1-1999",
+   "path": "local/bacau/bacau/1999/1",
+   "short": "HCL Bacău nr. 1/1999",
+   "title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 1/1999 privind stabilirea în municipiul Bacău, în anul 1999, a impozitelor și taxelor locale reglementate prin Ordonanța de urgență nr.62/30.12.1998 • Completată prin HCL nr.2/27.01.1999 • Modificată prin HCL nr.35/16.03.1999 • Abrogat alin.2 art.1 prin HCL nr.126/1999 • Abrogată prin HCL nr.124/29.05.2002 • Hotărâre nr.2/27.01.1999 – privind completarea anexei la Hotărârea Consiliului local al Municipiu",
+   "url": "https://municipiulbacau.ro/monitorul-oficial-local/arhiva-hotararilor-consiliului-local-bacau/",
+   "versions": [
+    {
+     "from": "1999-01-08",
+     "units": 1,
+     "source_url": "https://municipiulbacau.ro/wp-content/uploads/2024/04/liste-cu-hotarari-1999.pdf",
+     "sha256": "eab5f86963e6259914fcb523de864915c6715184877f304cd7dcf35e9c6b429a"
+    }
+   ]
+  }
+ ]
+}

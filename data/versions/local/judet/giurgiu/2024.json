@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/judet/giurgiu/2024",
+ "acts": [
+  {
+   "slug": "hcj-giurgiu-120-2024",
+   "path": "local/judet/giurgiu/2024/120",
+   "short": "HCJ Giurgiu nr. 120/2024",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 120/2024 privind încheierea unui Acord privind implementarea art. 29/ REGULAMENTUL (UE) 2021/1060 în contextul Strategiei Integrate de Dezvoltare Teritorială Sud-Muntenia 2021 – 2027 între Județul Giurgiu, prin Consiliul Județean Giurgiu și Agenția pentru Dezvoltare Regională Sud-Muntenia, Călărași, în calitate de Autoritate de Management pentru Programul Regional Sud-Muntenia 2021-2027 întrunit în ședință ordinară,",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.120-din-30.04.2024-cu-anexa.pdf",
+     "sha256": "b2b2aceb3fadea75bb496360fde43e373ba6498b1f7d4b2d525546b2740e69f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-180-2024",
+   "path": "local/judet/giurgiu/2024/180",
+   "short": "HCJ Giurgiu nr. 180/2024",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 180/2024",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.180-din-28.06.2024-cu-anexa.pdf",
+     "sha256": "d3ede83cca0fbe6ae67f94ffd7fc6ec65975c2702c8bd338dac9eac1de44ce6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-304-2024",
+   "path": "local/judet/giurgiu/2024/304",
+   "short": "HCJ Giurgiu nr. 304/2024",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 304/2024 privind stabilirea taxelor și tarifelor care vor fi percepute de Consiliul Județean Giurgiu și instituțiile publice subordonate acestuia pentru anul fiscal 2025 întrunit în ședință ordinară,",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.304-din-20.12.2024-cu-anexe.pdf",
+     "sha256": "cbe8b11a6bd7f90f363b7ae56c54f3d7c9dfead42b9a71965eb2198d8251a5a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-313-2024",
+   "path": "local/judet/giurgiu/2024/313",
+   "short": "HCJ Giurgiu nr. 313/2024",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 313/2024 privind avizarea favorabilă a cuantumului Normelor de venit și a coeficienților de corecție pentru activități independente pentru anul 2025, propus de către Administrația Județeană a Finanțelor Publice Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.313-din-20.12.2024-cu-anexe.pdf",
+     "sha256": "bac58aa7c5ce5d3abe6a55a63a4caee012d7c995893f32e43a49815af4f2dc86"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-78-2024",
+   "path": "local/judet/giurgiu/2024/78",
+   "short": "HCJ Giurgiu nr. 78/2024",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 78/2024 pentru modificarea Anexei nr.9 și Anexei nr.10 la Hotărârea Consiliului Județean Giurgiu nr.372 din 28 decembrie 2023 privind stabilirea taxelor și tarifelor care vor fi percepute de Consiliul Județean Giurgiu și instituțiile publice subordonate acestuia pentru anul fiscal 2024 întrunit în ședință ordinară",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.78-din-28.03.2024-cu-anexe.pdf",
+     "sha256": "022667e6f37fa616e311decbabe6aa327d54b2cfd41b21fdf678184021e3f4da"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-82-2024",
+   "path": "local/judet/giurgiu/2024/82",
+   "short": "HCJ Giurgiu nr. 82/2024",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 82/2024 privind aprobarea metodologiei de acordare a sumelor necesare acoperirii cheltuielilor de transport și cazare realizate de adoptator sau familia adoptatoare în vederea participării la procedura potrivirii practice cu un copil având domiciliul în alt județ întrunit în ședință ordinară,",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.82-din-28.03.2024-cu-anexa.pdf",
+     "sha256": "949fe4fcd1d2842b95df5f74206c6dd4be0943cf2b29abd03f5aeaee94c53ee7"
+    }
+   ]
+  }
+ ]
+}

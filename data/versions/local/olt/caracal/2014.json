@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/olt/caracal/2014",
+ "acts": [
+  {
+   "slug": "hcl-olt--caracal-160-2014",
+   "path": "local/olt/caracal/2014/160",
+   "short": "HCL Caracal nr. 160/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 160/2014 pentru prestÄri servicii cÄtre persoanele fizice Åi persoanele juridice precum Åi aprobarea nivelurilor unor taxe locale pentru anul 2015",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2014-12-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2014/HCLnr_160din29_12_2014.pdf",
+     "sha256": "437944f84ec330bd40dcc7c5f6c48a1b19925c1781237f3bd1ed8966e870762a"
+    }
+   ]
+  }
+ ]
+}

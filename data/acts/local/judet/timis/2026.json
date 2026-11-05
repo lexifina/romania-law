@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/judet/timis/2026",
+"acts": [
+{
+"slug": "hcj-timis-44-2026",
+"path": "local/judet/timis/2026/44",
+"kind": "local",
+"year": "2026",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Timiș nr. 44/2026",
+"short": "HCJ Timiș nr. 44/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-24",
+"latest": "2026-02-24",
+"portal": "https://www.cjtimis.ro/wp-content/uploads/2020/07/HOTARAREA-NR.-44-din-24.02.2026.pdf",
+"council": "judet/timis",
+"council_name": "Consiliul Județean Timiș",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+}
+]
+}

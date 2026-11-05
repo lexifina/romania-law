@@ -1,0 +1,51 @@
+{
+"country": "RO",
+"shard": "local/judet/gorj/2022",
+"acts": [
+{
+"slug": "hcj-gorj-114-2022",
+"path": "local/judet/gorj/2022/114",
+"kind": "local",
+"year": "2022",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Gorj nr. 114/2022",
+"short": "HCJ Gorj nr. 114/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-04-18",
+"latest": "2022-04-18",
+"portal": null,
+"council": "judet/gorj",
+"council_name": "Consiliul Județean Gorj",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-gorj-255-2022",
+"path": "local/judet/gorj/2022/255",
+"kind": "local",
+"year": "2022",
+"number": "255",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Gorj nr. 255/2022 privind aprobarea unor taxe şi tarife pentru anul fiscal 2023, la nivelul Judeţului Gor",
+"short": "HCJ Gorj nr. 255/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-12-22",
+"latest": "2022-12-22",
+"portal": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "judet/gorj",
+"council_name": "Consiliul Județean Gorj",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

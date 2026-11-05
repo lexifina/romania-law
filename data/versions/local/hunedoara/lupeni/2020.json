@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/lupeni/2020",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--lupeni-126-2020",
+   "path": "local/hunedoara/lupeni/2020/126",
+   "short": "HCL Lupeni nr. 126/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 126/2020 privind actualizarea Regulamentului Serviuciului de salubrizare",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2020-00003bde?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/C15249BBE0E32A75C225872C0039A219/$FILE/HCL-126_23.12.2020-privind-actualizarea-Regulamentului-Serviuciului-de-salubrizare.pdf",
+     "sha256": "3e2b1bbb3508f3a95f36b5c39b209d8b05bea564e23985995a6af597fa6128ba"
+    }
+   ]
+  }
+ ]
+}

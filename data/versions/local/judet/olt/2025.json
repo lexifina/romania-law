@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/olt/2025",
+ "acts": [
+  {
+   "slug": "hcj-olt-19-2025",
+   "path": "local/judet/olt/2025/19",
+   "short": "HCJ Olt nr. 19/2025",
+   "title": "Hotărârea Consiliului Județean Olt nr. 19/2025 pentru acordarea unui mandat special reprezentantului Unității Administrativ-Teritoriale Județul Olt în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „OLT-ECO” în vederea exercitării votului pentru ajustarea tarifelor aferente serviciilor de salubrizare de pe raza județului Olt prevăzute în Contractele de delegare nr. 6867/18.06.2018 și nr. 2542/06.12.2021",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2025/",
+   "versions": [
+    {
+     "from": "2025-02-17",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/255/001-HCJ-nr.-019-17.02.2025.pdf",
+     "sha256": "5244c3f3c2b931dafbd3a758fb8690b047fd60c84e95107862bbc2ae4743ce18"
+    }
+   ]
+  }
+ ]
+}
