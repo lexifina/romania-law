@@ -16,6 +16,36 @@
      "sha256": "848f87b613b4b0fc6f5b8675b226083dcb0472fe536e5877717cf92c1a3cd2c8"
     }
    ]
+  },
+  {
+   "slug": "hcj-constanta-246-2024",
+   "path": "local/judet/constanta/2024/246",
+   "short": "HCJ Constanța nr. 246/2024",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 246/2024",
+   "url": "https://www.cjc.ro/sectiune.php?s=192",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/organizare/ROF_CJC_HCJ_246-19.12.2024.pdf",
+     "sha256": "8fa002e45ef3339a644d826963995eaf11e93dba044cf9fc75efe285e8a36680"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-76-2024",
+   "path": "local/judet/constanta/2024/76",
+   "short": "HCJ Constanța nr. 76/2024",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 76/2024",
+   "url": "https://www.cjc.ro/sectiune.php?s=46",
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/anunturi/achizitii/licitatii/2024/47_negociere_transport/HCJC_76_2024.pdf",
+     "sha256": "5f8a425b055b1801ed2546174e6ca3335da3a26982410a0b8123c7e5b3bf8da8"
+    }
+   ]
   }
  ]
 }

@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/judet/caras-severin/2024",
+ "acts": [
+  {
+   "slug": "hcj-caras-severin-943-2024",
+   "path": "local/judet/caras-severin/2024/943",
+   "short": "HCJ Caraș-Severin nr. 943/2024",
+   "title": "Hotărârea Consiliului Județean Caraș-Severin nr. 943/2024",
+   "url": "https://www.cjcs.ro/dm_cjcs/portal.nsf/pagini/monitorul+oficial+local-000021CA?Open",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://cjcs.ro/dm_cjcs/portal.nsf/atasament/E61C957456496BEFC2258BB300441745/$FILE/Incheierea%20nr.%20943.pdf?Open",
+     "sha256": "eee8bae555b08365cf76728584261172e46611ce544e67e2e786cdb78a3e8b2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-caras-severin-944-2024",
+   "path": "local/judet/caras-severin/2024/944",
+   "short": "HCJ Caraș-Severin nr. 944/2024",
+   "title": "Hotărârea Consiliului Județean Caraș-Severin nr. 944/2024",
+   "url": "https://www.cjcs.ro/dm_cjcs/portal.nsf/pagini/monitorul+oficial+local-000021CA?Open",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://cjcs.ro/dm_cjcs/portal.nsf/atasament/3C8220894F2EE199C2258BB300441737/$FILE/Incheierea%20nr.944.pdf?Open",
+     "sha256": "d72e7f931ea6fb8956e7f912186d6a44e046c64f47715bfd43c0c37d49c2808b"
+    }
+   ]
+  }
+ ]
+}

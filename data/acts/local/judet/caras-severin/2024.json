@@ -1,0 +1,52 @@
+{
+"country": "RO",
+"shard": "local/judet/caras-severin/2024",
+"acts": [
+{
+"slug": "hcj-caras-severin-943-2024",
+"path": "local/judet/caras-severin/2024/943",
+"kind": "local",
+"year": "2024",
+"number": "943",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Caraș-Severin nr. 943/2024",
+"short": "HCJ Caraș-Severin nr. 943/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-10",
+"latest": "2024-10-10",
+"portal": "https://www.cjcs.ro/dm_cjcs/portal.nsf/pagini/monitorul+oficial+local-000021CA?Open",
+"council": "judet/caras-severin",
+"council_name": "Consiliul Județean Caraș-Severin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-caras-severin-944-2024",
+"path": "local/judet/caras-severin/2024/944",
+"kind": "local",
+"year": "2024",
+"number": "944",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Caraș-Severin nr. 944/2024",
+"short": "HCJ Caraș-Severin nr. 944/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-10",
+"latest": "2024-10-10",
+"portal": "https://www.cjcs.ro/dm_cjcs/portal.nsf/pagini/monitorul+oficial+local-000021CA?Open",
+"council": "judet/caras-severin",
+"council_name": "Consiliul Județean Caraș-Severin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

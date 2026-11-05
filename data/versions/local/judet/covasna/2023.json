@@ -3,6 +3,261 @@
  "shard": "local/judet/covasna/2023",
  "acts": [
   {
+   "slug": "hcj-covasna-100-2023",
+   "path": "local/judet/covasna/2023/100",
+   "short": "HCJ Covasna nr. 100/2023",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 100/2023",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-86-110-iunie-2023.html",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2023/06/ro/100_2023.pdf",
+     "sha256": "e5219ad58178ef645c888de56d2bfb2bf91ac35ec7fcaff35499161c78414d45"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-102-2023",
+   "path": "local/judet/covasna/2023/102",
+   "short": "HCJ Covasna nr. 102/2023",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 102/2023",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-86-110-iunie-2023.html",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2023/06/ro/102_2023.pdf",
+     "sha256": "9a1e987bfa7ea4d1a66d98da97ce109481e4c86a1cda053e91b9b6b1fd68faba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-106-2023",
+   "path": "local/judet/covasna/2023/106",
+   "short": "HCJ Covasna nr. 106/2023",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 106/2023",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-86-110-iunie-2023.html",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2023/06/ro/106_2023.pdf",
+     "sha256": "5378a8d05a686f74f345e6886b4167061bfcb08366f6fd56e669480089c9e383"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-108-2023",
+   "path": "local/judet/covasna/2023/108",
+   "short": "HCJ Covasna nr. 108/2023",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 108/2023",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-86-110-iunie-2023.html",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2023/06/ro/108_2023.pdf",
+     "sha256": "f269587c8de12490ca76cdd33c8182eba9c3635ba061c6844c86ddcbeefd7b93"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-116-2023",
+   "path": "local/judet/covasna/2023/116",
+   "short": "HCJ Covasna nr. 116/2023",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 116/2023",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-111-119-iulie-2023.html",
+   "versions": [
+    {
+     "from": "2023-07-19",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2023/07/ro/116_2023.pdf",
+     "sha256": "aed87e21e00f6f4b728fd562d8b2075b5ccb84cb07108a3c4c2ac97a55a44293"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-119-2023",
+   "path": "local/judet/covasna/2023/119",
+   "short": "HCJ Covasna nr. 119/2023",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 119/2023",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-111-119-iulie-2023.html",
+   "versions": [
+    {
+     "from": "2023-07-19",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2023/07/ro/119_2023.pdf",
+     "sha256": "1f48ca0ecc555251fe2b5ee91122e03c085e3368920265ebeb659dbbcb14b319"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-125-2023",
+   "path": "local/judet/covasna/2023/125",
+   "short": "HCJ Covasna nr. 125/2023",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 125/2023",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-120-129-august-2023.html",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2023/08/ro/125_2023.pdf",
+     "sha256": "dc64d48aab37df48ccbbfc75460e813862e4323fc8df472abfcea6d66ee63ccf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-126-2023",
+   "path": "local/judet/covasna/2023/126",
+   "short": "HCJ Covasna nr. 126/2023",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 126/2023",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-120-129-august-2023.html",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2023/08/ro/126_2023.pdf",
+     "sha256": "e620f0d17889f94b2c10a2fb274b9d36281de6cd7f60fce35ab8a1b3b3c0e77d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-128-2023",
+   "path": "local/judet/covasna/2023/128",
+   "short": "HCJ Covasna nr. 128/2023",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 128/2023",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-120-129-august-2023.html",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2023/08/ro/128_2023.pdf",
+     "sha256": "d8eb4bc0e15a5b3c454892db8963f02456ab4f531524a2dad6197e83d5bb77d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-138-2023",
+   "path": "local/judet/covasna/2023/138",
+   "short": "HCJ Covasna nr. 138/2023",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 138/2023",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-130-156-septembrie-2023.html",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2023/09/ro/138_2023.pdf",
+     "sha256": "6cc6ea6ff69a0c8d5be4c212854b04fca74d0cd9c70764d4f4a6650c52b20ea5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-142-2023",
+   "path": "local/judet/covasna/2023/142",
+   "short": "HCJ Covasna nr. 142/2023",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 142/2023",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-130-156-septembrie-2023.html",
+   "versions": [
+    {
+     "from": "2023-09-19",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2023/09/ro/142_2023.pdf",
+     "sha256": "af94eeaf36519a885139cddb94b7eed4210109f19429ea4c46b4090f45f21348"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-15-2023",
+   "path": "local/judet/covasna/2023/15",
+   "short": "HCJ Covasna nr. 15/2023",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 15/2023",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-1-16-ianuarie-2023.html",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2023/01/ro/15_2023.pdf",
+     "sha256": "a3660ee5ecd4d097a0827395a58f7a751f8af3c7671e1425cae39f539dbbe1c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-153-2023",
+   "path": "local/judet/covasna/2023/153",
+   "short": "HCJ Covasna nr. 153/2023",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 153/2023",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-130-156-septembrie-2023.html",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2023/09/ro/153_2023.pdf",
+     "sha256": "8ad6d0f3ab3e7c90235b66af3d43972f32e4f30fc566adf9cdc8a37807d6630c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-159-2023",
+   "path": "local/judet/covasna/2023/159",
+   "short": "HCJ Covasna nr. 159/2023",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 159/2023",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-157-182-octombrie-2023.html",
+   "versions": [
+    {
+     "from": "2023-10-05",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2023/10/ro/159_2023.pdf",
+     "sha256": "6330cddceb5c768318d3b437fb6e8a57dbd4d7f5db654404ebb444d836d0a4c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-16-2023",
+   "path": "local/judet/covasna/2023/16",
+   "short": "HCJ Covasna nr. 16/2023",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 16/2023",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-1-16-ianuarie-2023.html",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2023/01/ro/16_2023.pdf",
+     "sha256": "5123ca959185973a85dc05f489f7b6bcc41cfbf2f491a4eff84324bcfecb947d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-170-2023",
+   "path": "local/judet/covasna/2023/170",
+   "short": "HCJ Covasna nr. 170/2023",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 170/2023",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-157-182-octombrie-2023.html",
+   "versions": [
+    {
+     "from": "2023-10-19",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2023/10/ro/170_2023.pdf",
+     "sha256": "dab9af01f1d208d8ee343cbf42bf1b4c672c75ec2452e55169ca7c178a206a69"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-171-2023",
+   "path": "local/judet/covasna/2023/171",
+   "short": "HCJ Covasna nr. 171/2023",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 171/2023",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-157-182-octombrie-2023.html",
+   "versions": [
+    {
+     "from": "2023-10-19",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2023/10/ro/171_2023.pdf",
+     "sha256": "df55f4009f2ee44916ea477c9ceae40aa8ad4bf63f047bf07bf1f43fd2c70111"
+    }
+   ]
+  },
+  {
    "slug": "hcj-covasna-177-2023",
    "path": "local/judet/covasna/2023/177",
    "short": "HCJ Covasna nr. 177/2023",
@@ -14,6 +269,156 @@
      "units": 1,
      "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2023/10/ro/177_2023.pdf",
      "sha256": "ffbac82ce9bc5361d0d13acbc96de5932f00dda042d6d7e20c88b117497d84fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-185-2023",
+   "path": "local/judet/covasna/2023/185",
+   "short": "HCJ Covasna nr. 185/2023",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 185/2023",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-183-204-noiembrie-2023.html",
+   "versions": [
+    {
+     "from": "2023-11-09",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2023/11/ro/185_2023.pdf",
+     "sha256": "3c3f7808dc9f833b6d39d1d4797a77ca386bc390033482452f3a064a3cc8fa16"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-188-2023",
+   "path": "local/judet/covasna/2023/188",
+   "short": "HCJ Covasna nr. 188/2023",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 188/2023",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-183-204-noiembrie-2023.html",
+   "versions": [
+    {
+     "from": "2023-11-09",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2023/11/ro/188_2023.pdf",
+     "sha256": "16e160ce32db245c7131390894f13fe5487f1faef4d900611cb9193f52f38c24"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-200-2023",
+   "path": "local/judet/covasna/2023/200",
+   "short": "HCJ Covasna nr. 200/2023",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 200/2023",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-183-204-noiembrie-2023.html",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2023/11/ro/200_2023.pdf",
+     "sha256": "789500cc485d35fa95f066e5ec2911957a815b348182f5e622caf06999730d72"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-39-2023",
+   "path": "local/judet/covasna/2023/39",
+   "short": "HCJ Covasna nr. 39/2023",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 39/2023",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-30-50-martie-2023.html",
+   "versions": [
+    {
+     "from": "2023-03-09",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2023/03/ro/39_2023.pdf",
+     "sha256": "503ae323f769962071c1876908014dc35764ebaf6a8d2e0a26e190bacfc078fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-40-2023",
+   "path": "local/judet/covasna/2023/40",
+   "short": "HCJ Covasna nr. 40/2023",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 40/2023 privind aprobarea acordării unui ajutor de minimis individual sub forma majorării capitalului social prin aport în natură cu dreptul de folosință asupra unui imobil pentru societatea Drumuri și Poduri Covasna S.A",
+   "url": "https://www.cjcv.ro/ro/alte-documente-monitorul-oficial-local.html",
+   "versions": [
+    {
+     "from": "2023-03-09",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/06_alte_documente/2023/03_de_minimis/hotarare_40_2023_acordare_ajutor.pdf",
+     "sha256": "d3f267f2eefe4313fd41ba6bef0a8d1391c4fc1e7edfcbe64070a4bcbbedf5ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-75-2023",
+   "path": "local/judet/covasna/2023/75",
+   "short": "HCJ Covasna nr. 75/2023",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 75/2023",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-51-80-aprilie-2023.html",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2023/04/ro/75_2023.pdf",
+     "sha256": "4fafd884ec0b8ccdd6f93844d3ed475ccd167f8f60eb7db64069a769cb435f73"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-78-2023",
+   "path": "local/judet/covasna/2023/78",
+   "short": "HCJ Covasna nr. 78/2023",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 78/2023",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-51-80-aprilie-2023.html",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2023/04/ro/78_2023.pdf",
+     "sha256": "219bdf833a95b9dc612f80ae695291ad319fae27ac5d4f762708da5132606462"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-83-2023",
+   "path": "local/judet/covasna/2023/83",
+   "short": "HCJ Covasna nr. 83/2023",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 83/2023",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-81-85-mai-2023.html",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2023/05/ro/83_2023.pdf",
+     "sha256": "82c2a9fd42e56fd4f9bef6f2cf380df30e3c4ce92938a8afb94f7bf6d4c200f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-92-2023",
+   "path": "local/judet/covasna/2023/92",
+   "short": "HCJ Covasna nr. 92/2023",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 92/2023",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-86-110-iunie-2023.html",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2023/06/ro/92_2023.pdf",
+     "sha256": "744681ce5fe6b6038237548cdb9ff15a5e1ea02b0f6716eec9ea8d90d8b93c0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-95-2023",
+   "path": "local/judet/covasna/2023/95",
+   "short": "HCJ Covasna nr. 95/2023",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 95/2023",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-86-110-iunie-2023.html",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2023/06/ro/95_2023.pdf",
+     "sha256": "643d4a6f7b0c905d0642679321789f5d0aaabb138a9612407210b5bfa99d92a5"
     }
    ]
   }

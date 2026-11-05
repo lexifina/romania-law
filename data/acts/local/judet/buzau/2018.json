@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/buzau/2018",
+"acts": [
+{
+"slug": "hcj-buzau-7-2018",
+"path": "local/judet/buzau/2018/7",
+"kind": "local",
+"year": "2018",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Buzău nr. 7/2018 privind aprobarea dării în administrarea Ministerului Justiției a unei suprafețe de teren aparținând domeniului public al Județului Buzău în vederea construirii noului sediu al Judecătoriei Buzău",
+"short": "HCJ Buzău nr. 7/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-01-31",
+"latest": "2018-01-31",
+"portal": "http://cjbuzau.ro/hotarari-cj-2018/",
+"council": "judet/buzau",
+"council_name": "Consiliul Județean Buzău",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

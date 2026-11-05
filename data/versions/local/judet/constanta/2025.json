@@ -3,6 +3,186 @@
  "shard": "local/judet/constanta/2025",
  "acts": [
   {
+   "slug": "hcj-constanta-124-2025",
+   "path": "local/judet/constanta/2025/124",
+   "short": "HCJ Constanța nr. 124/2025",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 124/2025 privind completarea Hotărârii Consiliului Județean Constanța nr. 105/16.04.2025",
+   "url": "https://www.cjc.ro/sectiune.php?s=271",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/Hotarari/2025/124.pdf",
+     "sha256": "bf4b007e595770c23fb712f227c703541c63366801d8330df000b7a0d0e440f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-142-2025",
+   "path": "local/judet/constanta/2025/142",
+   "short": "HCJ Constanța nr. 142/2025",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 142/2025 privind modificarea Hotărârii Consiliului Județean Constanța nr. 58/2025",
+   "url": "https://www.cjc.ro/sectiune.php?s=271",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/Hotarari/2025/142.pdf",
+     "sha256": "29476f975addd6fdf5ee158a9305b218f2f7b367f2e37a270aaeb73f16332df3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-152-2025",
+   "path": "local/judet/constanta/2025/152",
+   "short": "HCJ Constanța nr. 152/2025",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 152/2025 privind revocarea Hotărârii Consiliului Județean Constanța nr. 93/16.04.2025",
+   "url": "https://www.cjc.ro/sectiune.php?s=271",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/Hotarari/2025/152.pdf",
+     "sha256": "3066dfcd535a0951a5d595957128a93ef8d3bfc2dcc0bad7a2f70dba03581ec0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-161-2025",
+   "path": "local/judet/constanta/2025/161",
+   "short": "HCJ Constanța nr. 161/2025",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 161/2025 privind abrogarea punctului 3 al anexei 1 din Hotărârea Consiliului Județean Constanța nr. 226/19.12.2024",
+   "url": "https://www.cjc.ro/sectiune.php?s=271",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/Hotarari/2025/161.pdf",
+     "sha256": "853cd0dfec49df891f391ea812fac5f303d0ceb6b6fb838ff42d2ec218824a30"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-177-2025",
+   "path": "local/judet/constanta/2025/177",
+   "short": "HCJ Constanța nr. 177/2025",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 177/2025 privind modificarea Anexei nr. 2 a Hotărârii Consiliului Județean Constanța nr. 19/2025",
+   "url": "https://www.cjc.ro/sectiune.php?s=271",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/Hotarari/2025/177.pdf",
+     "sha256": "1c6752222a155a921335ac74de35eb2f086561206ad3171842b69eeb526e8688"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-219-2025",
+   "path": "local/judet/constanta/2025/219",
+   "short": "HCJ Constanța nr. 219/2025",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 219/2025 privind modificarea Anexei nr. 3 la Hotărârea Consiliului Județean Constanta nr. 252 din 19.12.2024",
+   "url": "https://www.cjc.ro/sectiune.php?s=271",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/Hotarari/2025/219.pdf",
+     "sha256": "2b76d28687bb48e427c63edabfc71d578eedcaa4dc622fa6fc824884d5908182"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-220-2025",
+   "path": "local/judet/constanta/2025/220",
+   "short": "HCJ Constanța nr. 220/2025",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 220/2025 privind modificarea și completarea HCJ 242/21.09.2022 privind aprobarea Strategiei de Dezvoltare Durabilă a Județului Constanța pentru perioada 2021-2027",
+   "url": "https://www.cjc.ro/sectiune.php?s=271",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/Hotarari/2025/220.pdf",
+     "sha256": "e5c544911a72d708ecbf7529a90f136a19479a36c06ea6c1a018d1e987c2d397"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-228-2025",
+   "path": "local/judet/constanta/2025/228",
+   "short": "HCJ Constanța nr. 228/2025",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 228/2025 privind modificarea și completarea Anexei nr. 1 a Hotărârii Consiliului Județean Constanța nr. 143/23.06.2025",
+   "url": "https://www.cjc.ro/sectiune.php?s=271",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/Hotarari/2025/228.pdf",
+     "sha256": "3865ab5ab316f2407395c603ecaad309b0569ad257d8d562006158edbf472112"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-234-2025",
+   "path": "local/judet/constanta/2025/234",
+   "short": "HCJ Constanța nr. 234/2025",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 234/2025 privind aprobarea Planului de mentinere a calitatii aerului in judetul Constanta, perioada 2024 – 2028 si Planul de mentinere a calitatii aerului in judetul Constanta, perioada 2024 – 2028",
+   "url": "https://www.cjc.ro/sectiune.php?s=57",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/anunturi/PMCA/06_HCJ_234_si_Planul.pdf",
+     "sha256": "abc9c40c04b51f2ef07fd0dd25e4b0a793550a935b390f4898ce5fb2581b7c74"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-242-2025",
+   "path": "local/judet/constanta/2025/242",
+   "short": "HCJ Constanța nr. 242/2025",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 242/2025 privind revocarea împuternicirii Spitalului Clinic Județean de Urgență ”Sf. Apostol Andrei” Constanța pentru încheiere/adiționare contracte de închiriere și adiționare contracte de concesiune încheiate potrivit Hotărârii Guvernului nr.884/2004 pentru cabinetele medicale, proprietate privată a județului Constanța",
+   "url": "https://www.cjc.ro/sectiune.php?s=271",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/Hotarari/2025/242.pdf",
+     "sha256": "aba4a8434449ebbd2a19eaf42f110ecacfd3e59643d74de12b47f667a591888c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-243-2025",
+   "path": "local/judet/constanta/2025/243",
+   "short": "HCJ Constanța nr. 243/2025",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 243/2025 pentru atribuirea locuintelor de serviciu aflate in proprietatea publica a Judetului Constanta si/sau in administrarea Consiliului Judetean Constanta si a clauzelor contractului de inchiriere, aprobat prin Hotararea Consiliului Judetean Constanta nr. 243/27.10.2025",
+   "url": "https://www.cjc.ro/sectiune.php?s=201",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/anunturi/Locuinte_de_serviciu/04_Regulament.pdf",
+     "sha256": "5479b61cac84345714e08451a9c89686e6397a7afe280365a0869be776d5ef75"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-3-2025",
+   "path": "local/judet/constanta/2025/3",
+   "short": "HCJ Constanța nr. 3/2025",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 3/2025 privind modificarea anexelor 2 si 4 la HCJ 191 din 29.11.2024",
+   "url": "https://www.cjc.ro/sectiune.php?s=271",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/Hotarari/2025/3.pdf",
+     "sha256": "377a707f0b9d8bfd605436032c8b23dbbae16603b729d637a87aad6864f95967"
+    }
+   ]
+  },
+  {
    "slug": "hcj-constanta-322-2025",
    "path": "local/judet/constanta/2025/322",
    "short": "HCJ Constanța nr. 322/2025",
@@ -14,6 +194,21 @@
      "units": 1,
      "source_url": "https://www.cjc.ro/dyn_doc/Hotarari/2025/322.pdf",
      "sha256": "0b81af7b1557b98c5e0188ce5a157bd7a163538cb135f5bf00fa6289f5422d89"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-38-2025",
+   "path": "local/judet/constanta/2025/38",
+   "short": "HCJ Constanța nr. 38/2025",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 38/2025 privind modificarea și completarea Anexei nr.2 la H.C.J nr. 303/22.12.2021",
+   "url": "https://www.cjc.ro/sectiune.php?s=271",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/Hotarari/2025/38.pdf",
+     "sha256": "bb095273437a8010342689cefc823feba54b2ccbecf351352d288b58e84b177a"
     }
    ]
   }

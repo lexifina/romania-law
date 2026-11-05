@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/constanta/2021",
+"acts": [
+{
+"slug": "hcj-constanta-30-2021",
+"path": "local/judet/constanta/2021/30",
+"kind": "local",
+"year": "2021",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Constanța nr. 30/2021 privind aprobarea Planului Judetean de Gestionare a Deseurilor 2020-2025 - judetul Constanta",
+"short": "HCJ Constanța nr. 30/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://www.cjc.ro/sectiune.php?s=171",
+"council": "judet/constanta",
+"council_name": "Consiliul Județean Constanța",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

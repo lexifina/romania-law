@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/dolj/2025",
+"acts": [
+{
+"slug": "hcj-dolj-663-2025",
+"path": "local/judet/dolj/2025/663",
+"kind": "local",
+"year": "2025",
+"number": "663",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Dolj nr. 663/2025 privind aprobarea modificării statului de funcții pentru Unitatea Medico – Socială Cetate",
+"short": "HCJ Dolj nr. 663/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-02",
+"latest": "2025-12-02",
+"portal": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2025-0001171E",
+"council": "judet/dolj",
+"council_name": "Consiliul Județean Dolj",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

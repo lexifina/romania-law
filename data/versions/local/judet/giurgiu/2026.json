@@ -3,6 +3,576 @@
  "shard": "local/judet/giurgiu/2026",
  "acts": [
   {
+   "slug": "hcj-giurgiu-100-2026",
+   "path": "local/judet/giurgiu/2026/100",
+   "short": "HCJ Giurgiu nr. 100/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 100/2026 pentru modificarea Listei provizorii de investiții pentru anul 2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.100-din-26.03.2026-cu-anexa.pdf",
+     "sha256": "767c43e6ad14753739ecd1c56e120c771f4970695b2fc3815cddc84d6157d31d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-101-2026",
+   "path": "local/judet/giurgiu/2026/101",
+   "short": "HCJ Giurgiu nr. 101/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 101/2026 pentru modificarea Anexei nr.2 la Hotărârea Consiliului Județean nr.262 din 27 noiembrie 2025 privind aprobarea organigramei și statului de funcții ale Spitalului de Pneumoftiziologie Izvoru CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară Având în vedere: - referatul de aprobare nr.4946 din 11 martie 2026 al Președintelui Consiliului Județean Giurgiu; - raportul de specialitate nr.4947 di",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.101-din-26.03.2026.pdf",
+     "sha256": "2df04e55ee4523f190df3b0cc3f5a3d588350a5fc1078cadfc1f40a02063d5e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-102-2026",
+   "path": "local/judet/giurgiu/2026/102",
+   "short": "HCJ Giurgiu nr. 102/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 102/2026 privind aplicarea numărului maxim de posturi stabilit pentru județul Giurgiu conform Anexei nr.1 la Ordinul Prefectului nr.105 din 10 martie 2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.102-din-26.03.2026-cu-anexa.pdf",
+     "sha256": "c63811cc4c0bd26096282eedd9262f1d327af08834d0845c3f293d546e3b42b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-103-2026",
+   "path": "local/judet/giurgiu/2026/103",
+   "short": "HCJ Giurgiu nr. 103/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 103/2026 privind actualizarea documentației, a indicatorilor tehnico-economici și a valorii aferente proiectului „Producție de energie electrică din sursă regenerabilă solară pentru autoconsum în Secția Exterioara de Psihiatrie Vadu Lat, Județul Giurgiu” la faza Studiu de fezabilitate",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.103-din-26.03.2026-cu-anexe.pdf",
+     "sha256": "3bbf3ff592bcd336e6a1e2590ee09595b9c458699ae9b7803eece26c9b7a4d96"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-104-2026",
+   "path": "local/judet/giurgiu/2026/104",
+   "short": "HCJ Giurgiu nr. 104/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 104/2026 privind alocarea sumei de 40.000 lei, în vederea achiziționării pachetelor acordate de",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.104-din-26.03.2026.pdf",
+     "sha256": "742c8026ea6db82f9ef148fe28e453cc587cbcaae56dbf9d13a4723c5e62d847"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-106-2026",
+   "path": "local/judet/giurgiu/2026/106",
+   "short": "HCJ Giurgiu nr. 106/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 106/2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.106-din-26.03.2026-cu-anexa.pdf",
+     "sha256": "2f768eed4759a3db0a2793fafa79ce4676745006f11c61b0802627f96cb040a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-107-2026",
+   "path": "local/judet/giurgiu/2026/107",
+   "short": "HCJ Giurgiu nr. 107/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 107/2026 privind încheierea Actului Adițional nr.3 la Acordul de Parteneriat încheiat pentru realizarea proiectului „Varianta Ocolitoare Giurgiu” întrunit în ședință ordinară",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.107-din-26.03.2026-cu-anexa.pdf",
+     "sha256": "3e892d342bc3a059c8685297d149bfd253c7141c6b6865b4baeab0bad0c0b4e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-111-2026",
+   "path": "local/judet/giurgiu/2026/111",
+   "short": "HCJ Giurgiu nr. 111/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 111/2026 privind repartizarea pe unități administrativ-teritoriale a sumei corespunzătoare cotei de 6% din impozitul pe venit estimat a se încasa la bugetul de stat pe anul 2026, reprezentând fond la dispoziția Consiliului Județean Giurgiu, precum și aprobarea repartizării pe unități administrativ-teritoriale a cotelor din impozitul pe venit pentru echilibrarea bugetelor locale pentru anii 2027-2029",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.111-din-06.04.2026-cu-anexe-1.pdf",
+     "sha256": "777b5df3eb437fed9f8869a7d0a4b2ed37b8c6a88222733e76768c54e390f8bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-112-2026",
+   "path": "local/judet/giurgiu/2026/112",
+   "short": "HCJ Giurgiu nr. 112/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 112/2026 privind aprobarea contractării unei/unor finanțări rambursabile interne în valoare de 56.000.000 lei",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.112-din-06.04.2026-cu-anexa-1.pdf",
+     "sha256": "dd203e7f647495ece9437bf73e2c2ba3141d5ec1725327c928693832a8cdadc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-113-2026",
+   "path": "local/judet/giurgiu/2026/113",
+   "short": "HCJ Giurgiu nr. 113/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 113/2026 privind aprobarea contractării unei/unor finanțări rambursabile interne în valoare de până la 40.638.825 lei",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.113-din-06.04.2026-cu-anexa-1.pdf",
+     "sha256": "f6fc8a6bdb34bc0929f394de414df596da2d0896c0bc444ac3106fc6803c6662"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-115-2026",
+   "path": "local/judet/giurgiu/2026/115",
+   "short": "HCJ Giurgiu nr. 115/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 115/2026 privind acordarea unui sprijin financiar CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară, Având în vedere - referatul de aprobare nr.7129 din 3 aprilie 2026 al Președintelui Consiliului Județean Giurgiu; - raportul de specialitate nr.7130 din 3 aprilie 2026 al Serviciului buget-finanțe și contabilitate; - avizul nr.83/06.04.2026 al Comisiei buget, finanțe, economie, fonduri europene",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.115-din-06.04.2026-1.pdf",
+     "sha256": "33c8ae3cc11091ade7bdf0208f305863a1f128e649a4b774e530cab131d568a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-116-2026",
+   "path": "local/judet/giurgiu/2026/116",
+   "short": "HCJ Giurgiu nr. 116/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 116/2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.116-din-22.04.2026-cu-anexa.pdf",
+     "sha256": "027efcbe6f4d07371f2ed50babeb11f17c613717fd651d420952e559307da3ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-117-2026",
+   "path": "local/judet/giurgiu/2026/117",
+   "short": "HCJ Giurgiu nr. 117/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 117/2026 privind aprobarea achiziției de servicii juridice de asistență și reprezentare de către Direcția Generală de Asistență Socială și Protecția Copilului Giurgiu în dosarele civile nr.592/122/2023 și nr.47/122/2026 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară, Având în vedere: - referatul de aprobare nr.8015 din 15 aprilie 2026 al Președintelui Consiliului Județean Giurgiu; - raportul",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.117-din-22.04.2026.pdf",
+     "sha256": "14eb074c1b0d0498e1dbdc4b2055958ead276a0025cd5e5bfee015b6e2b4eda4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-118-2026",
+   "path": "local/judet/giurgiu/2026/118",
+   "short": "HCJ Giurgiu nr. 118/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 118/2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.118-din-22.04.2026-cu-anexa.pdf",
+     "sha256": "e4423abae45167081e9889ce1c73d61bb842d553b7c329ef27b816632a453c82"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-119-2026",
+   "path": "local/judet/giurgiu/2026/119",
+   "short": "HCJ Giurgiu nr. 119/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 119/2026 privind aprobarea asigurării plății din bugetul local al județului Giurgiu a sumei de 1.082.426,68 lei reprezentând procentul de 20% din suma eligibilă estimată a se deconta în cursul anului 2026, aferentă contribuției de la bugetul de stat prin Programul național de investiții „Anghel Saligny“ pentru obiectivul de investiții „Modernizare drumul județean DJ 602, Limită județ Ilfov - Bâcu - Joița",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.119-din-27.04.2026.pdf",
+     "sha256": "1635a3e37578dd1ed442adedcdcae093d8e788bed4282139416e705e71d1a093"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-120-2026",
+   "path": "local/judet/giurgiu/2026/120",
+   "short": "HCJ Giurgiu nr. 120/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 120/2026 privind aprobarea asigurării plății din bugetul local al județului Giurgiu a sumei de 899.772,34 lei reprezentând procentul de 20% din suma eligibilă estimată a se deconta în cursul anului 2026, aferentă contribuției de la bugetul de stat prin Programul național de investiții „Anghel Saligny“ pentru obiectivul de investiții ,,Modernizare drum județean DJ602, limita județ Ilfov-Bacu-Joița- Săbăreni",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.120-din-27.04.2026.pdf",
+     "sha256": "1ceb5d3f15fb1082b31b66cb85a2b0ce01bf797791716246a18465ead25dbf90"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-121-2026",
+   "path": "local/judet/giurgiu/2026/121",
+   "short": "HCJ Giurgiu nr. 121/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 121/2026 privind aprobarea asigurării plății din bugetul local al județului Giurgiu a sumei de 1.952.691,25 lei reprezentând procentul de 20% din suma eligibilă estimată a se deconta în cursul anului 2026, aferentă contribuției de la bugetul de stat prin Programul național de investiții „Anghel Saligny“ pentru obiectivul de investiții „Modernizare DJ 401B, Herăști – DN4, km 0+000 – km 4+431” CONSILIUL JUDE",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.121-din-27.04.2026.pdf",
+     "sha256": "22d60cbb9e56eb3bfae3afd3a10d3da5b9fd04aa6c9ce8b3bead39cdefbc55c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-122-2026",
+   "path": "local/judet/giurgiu/2026/122",
+   "short": "HCJ Giurgiu nr. 122/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 122/2026 privind actualizarea devizului general, a caracteristicilor principale și a indicatorilor tehnico- economici pentru obiectivul de investiții „Modernizare DJ 504, Giurgiu – Vieru – Putineiu – Gogosari – Limita judet Teleorman (sector 2 - km 20+200 – 30+372)”",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.122-din-27.04.2026-cu-anexe-1.pdf",
+     "sha256": "ac66ed0fa7c933329b8f7bda938d20bf5155a7ac1b72a1f948350bbf4f36683c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-123-2026",
+   "path": "local/judet/giurgiu/2026/123",
+   "short": "HCJ Giurgiu nr. 123/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 123/2026 privind acordarea unor mandate reprezentanților județului Giurgiu în Adunarea Generală a Asociaților Societății JUDSERV 2020 S.R.L",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.123-din-27.04.2026-cu-anexe-2.pdf",
+     "sha256": "ee6d55fb6591d7bdbbcebf568c1ba7206d90897f21cf1662343de93e4083857d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-126-2026",
+   "path": "local/judet/giurgiu/2026/126",
+   "short": "HCJ Giurgiu nr. 126/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 126/2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.126-din-30.04.2026-cu-anexa.pdf",
+     "sha256": "b538cf2a593fffdfeb248ed060dbe5d76974087f9c61704b962024cd595dc6d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-127-2026",
+   "path": "local/judet/giurgiu/2026/127",
+   "short": "HCJ Giurgiu nr. 127/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 127/2026 privind acordarea unor sprijine financiare",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.127-din-30.04.2026-cu-anexa.pdf",
+     "sha256": "61374e0c725c78c7dc12e01b1a07b6d87602de8a4302deb2611647900dcc40f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-128-2026",
+   "path": "local/judet/giurgiu/2026/128",
+   "short": "HCJ Giurgiu nr. 128/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 128/2026 privind aprobarea asigurării plații din bugetul local al județului Giurgiu a sumei de 419.048,87 lei, reprezentând procentul de 20% din suma eligibilă estimată a se deconta în cursul anului 2026, aferentă contribuției de la bugetul de stat prin Programul național de investiții „Anghel Saligny“ pentru obiectivul de investiții „Modernizare DJ 504 Giurgiu-Vieru-Putineiu-Gogoșari-limită județ Teleorma",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.128-din-30.04.2026.pdf",
+     "sha256": "6f040ea53dd6ae1974604f9956cb45f278c6bc1cbf97d7a4da5762c5b630b93d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-129-2026",
+   "path": "local/judet/giurgiu/2026/129",
+   "short": "HCJ Giurgiu nr. 129/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 129/2026 privind încheierea unui Acord de Asociere între județul Giurgiu și Confederația Națională pentru Antreprenoriat Feminin – CONAF în vederea organizării și desfășurării evenimentului competițional „Maratonul pentru Educație Antreprenorială”",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.129-din-30.04.2026-cu-anexa.pdf",
+     "sha256": "4679bf131c53a2886d9ed6cc113a89977aaee9ae288e482aa7c06c2bb98692b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-130-2026",
+   "path": "local/judet/giurgiu/2026/130",
+   "short": "HCJ Giurgiu nr. 130/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 130/2026 privind încheierea unui Acord de Asociere între județul Giurgiu și Casa Corpului Didactic Giurgiu în vederea organizării și desfășurării Festivalului județean de muzică corală „Glasuri cristaline”, ediția a XV-a",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.130-din-30.04.2026-cu-anexa.pdf",
+     "sha256": "6b751ae1dabb8db2abe36ca486d7c0ff6bec803e62d415726b0dea5182a917d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-131-2026",
+   "path": "local/judet/giurgiu/2026/131",
+   "short": "HCJ Giurgiu nr. 131/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 131/2026 privind aprobarea bugetului propriu de venituri și cheltuieli al județului Giurgiu, a bugetului de venituri și cheltuieli al instituțiilor publice finanțate integral sau parțial din venituri proprii și subvenții pe anul 2026 și estimările pe anii 2027-2029",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.131-din-04.05.2026-cu-anexe.pdf",
+     "sha256": "c85224da1c83925831aba0711f2b50f0230c21db71bf2b88c131d855cd7ebc54"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-132-2026",
+   "path": "local/judet/giurgiu/2026/132",
+   "short": "HCJ Giurgiu nr. 132/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 132/2026 privind acordarea unui mandat expres reprezentanților județului Giurgiu în Adunarea Generală a Asociaților Societății JUDSERV 2020 S.R.L",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.132-din-04.05.2026-cu-anexe.pdf",
+     "sha256": "8f1df433c1b42cff30b657b66e50427866b071b6b0a638d666c9b50335ba806e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-133-2026",
+   "path": "local/judet/giurgiu/2026/133",
+   "short": "HCJ Giurgiu nr. 133/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 133/2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.133-din-04.05.2026-cu-anexe.pdf",
+     "sha256": "8b1269b2a7bf1144275112b6048c3adf13cae848d619c08d49acd9a1605e671d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-134-2026",
+   "path": "local/judet/giurgiu/2026/134",
+   "short": "HCJ Giurgiu nr. 134/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 134/2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.134-din-04.05.2026-cu-anexa.pdf",
+     "sha256": "bbe068aa461ca6bfef229011ce3abab420f88b77a3b73104fab234ea021e63eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-135-2026",
+   "path": "local/judet/giurgiu/2026/135",
+   "short": "HCJ Giurgiu nr. 135/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 135/2026 privind încheierea unui Acord de parteneriat între Palatul Copiilor Giurgiu și județul Giurgiu, în vederea implementării activităților de prevenire a consumului de droguri, respectiv alocarea sumei de 20.000 de lei pentru organizarea și desfășurarea activităților aferente concursului județean de educație civică ,,RESET-RePornește Viața Fără Droguri”",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.135-din-13.05.2026-cu-anexa.pdf",
+     "sha256": "1c2f8f7151705fd9fedf19a485715e7f59a233079b087d5be4c321cbd0fb2c45"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-136-2026",
+   "path": "local/judet/giurgiu/2026/136",
+   "short": "HCJ Giurgiu nr. 136/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 136/2026 privind alocarea sumelor necesare organizării și desfășurării activităților de prevenire și combatere a corupției implementate în cadrul Sistemului de Management Anticorupție la nivelul Consiliului Județean Giurgiu CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară Având în vedere: - referatul de aprobare nr.9716 din 05 mai 2026 al Președintelui Consiliului Județean Giurgiu; - raportul",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.136-din-13.05.2026.pdf",
+     "sha256": "8e2ea300fc763e727f11eb69762c63431f5ca9782392587c9b608d80e7374c6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-137-2026",
+   "path": "local/judet/giurgiu/2026/137",
+   "short": "HCJ Giurgiu nr. 137/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 137/2026 privind încheierea unui Acord de asociere între județul Giurgiu și Asociația Pasiune pentru Sport Giurgiu în vederea organizării și desfășurării Campionatului Național de Fotbal Tenis – etapa a III-a masculin și etapa a II-a feminin",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.137-din-13.05.2026-cu-anexa.pdf",
+     "sha256": "dbb659485561711d56c4fec713576629e91da8e98491f41771d08624821ff8a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-138-2026",
+   "path": "local/judet/giurgiu/2026/138",
+   "short": "HCJ Giurgiu nr. 138/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 138/2026 privind încheierea unui Acord de asociere între județul Giurgiu și Asociația Club Sportiv Swim Academy Giurgiu în vederea organizării și desfășurării proiectului comunitar pentru promovarea sportului pentru toți, incluziunii și sănătății „Giurgiu în mișcare”",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.138-din-13.05.2026-cu-anexa.pdf",
+     "sha256": "df507ae7361b58e9274852355377dc506c0540725d1a6eb15da06683bf1a39df"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-139-2026",
+   "path": "local/judet/giurgiu/2026/139",
+   "short": "HCJ Giurgiu nr. 139/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 139/2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.139-din-28.05.2026.pdf",
+     "sha256": "f6890881809ab77e0f2be232a76274100dcf7d397fe089f6c7de557cfa3720f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-140-2026",
+   "path": "local/judet/giurgiu/2026/140",
+   "short": "HCJ Giurgiu nr. 140/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 140/2026 privind rectificarea bugetului propriu de venituri și cheltuieli al județului Giurgiu, a bugetului de venituri și cheltuieli al instituțiilor finanțate integral sau parțial din venituri proprii și subvenții și a bugetului creditelor interne pe anul 2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.140-din-28.05.2026-cu-anexe.pdf",
+     "sha256": "286ebfc6f1099a1ceb6ec1570bb75685d910749fd9c4d64c5247a8c6161827be"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-141-2026",
+   "path": "local/judet/giurgiu/2026/141",
+   "short": "HCJ Giurgiu nr. 141/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 141/2026 pentru aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat, precum și a sumei care va fi finanțată din bugetul local al județului Giurgiu pentru obiectivul de investiții „Modernizare DJ 412 Vărăști – DN 4; Prundu (DN 41)”",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.141-din-28.05.2026-cu-anexe.pdf",
+     "sha256": "3cf14ca067754e9bdffbb4b837828aa8f458cdc5549cab513fd5e4dd983ed9f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-142-2026",
+   "path": "local/judet/giurgiu/2026/142",
+   "short": "HCJ Giurgiu nr. 142/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 142/2026 privind aprobarea asocierii între județul Giurgiu și orașul Bolintin-Vale în vederea executării unor lucrări suplimentare (amenajare parcare și drum acces auto curte interioară) aferente obiectivului de investiții „Intervenții de eficientizare energetică la Liceul Tehnologic Dimitrie Bolintineanu, Bolintin-Vale, județul Giurgiu”",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.142-din-28.05.2026-cu-anexa.pdf",
+     "sha256": "7306b68884d31f062be1e536242bac9d911d8924db112b0ee15c06fce32cffb1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-145-2026",
+   "path": "local/judet/giurgiu/2026/145",
+   "short": "HCJ Giurgiu nr. 145/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 145/2026 pentru modificarea Anexei nr.2 la Hotărârea Consiliului Județean nr.262 din 27 noiembrie 2025 privind aprobarea organigramei și statului de funcții ale Spitalului de Pneumoftiziologie Izvoru, cu modificările ulterioare CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară Având în vedere: - referatul de aprobare nr.10837 din 20 mai 2026 al Președintelui Consiliului Județean Giurgiu; - raportul",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.145-din-28.05.2026.pdf",
+     "sha256": "4698c1abd93b5b510eea04164fe310423c644c2d3d1b701b930462c5b0064fc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-146-2026",
+   "path": "local/judet/giurgiu/2026/146",
+   "short": "HCJ Giurgiu nr. 146/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 146/2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.146-din-28.05.2026-cu-anexa.pdf",
+     "sha256": "9b24d7819c7e1b360a255ee857a9901fc2c947657516090f0f7e815d3c75a72d"
+    }
+   ]
+  },
+  {
    "slug": "hcj-giurgiu-147-2026",
    "path": "local/judet/giurgiu/2026/147",
    "short": "HCJ Giurgiu nr. 147/2026",
@@ -14,6 +584,1326 @@
      "units": 1,
      "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.147-din-28.05.2026-cu-anexa.pdf",
      "sha256": "d10b784a31830974b876130c73c6a396a2c22488a44668b6b86c3feafcc47f5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-148-2026",
+   "path": "local/judet/giurgiu/2026/148",
+   "short": "HCJ Giurgiu nr. 148/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 148/2026 privind aprobarea încheierii contractelor de servicii juridice de consultanță, asistență și reprezentare pentru procesele având ca parte Societatea ECO SUD S.A CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară Având în vedere: - referatul de aprobare nr.10700 din 19 mai 2026 al Președintelui Consiliului Județean Giurgiu; - raportul de specialitate nr.10701 din 19 mai 2026 al Serviciului jur",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.148-din-28.05.2026.pdf",
+     "sha256": "1202cfe7cd44327ba5463cdd0c1a1380bdc7ae3b9066ab0c3b99666e2b937e51"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-149-2026",
+   "path": "local/judet/giurgiu/2026/149",
+   "short": "HCJ Giurgiu nr. 149/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 149/2026 privind aprobarea încheierii unui contract de servicii juridice de consultanță, asistență și reprezentare de către Spitalul de Pneumofiziologie Izvoru în dosarul civil nr.6225/236/2026, în toate fazele procesuale CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară Având în vedere: - referatul de aprobare nr.10797 din 20 mai 2026 al Președintelui Consiliului Județean Giurgiu; -raportul de spec",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.149-din-28.05.2026.pdf",
+     "sha256": "f04b407eeabdb21959f65129d93e41435012ece9567aa963882997ae9ae4383a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-15-2026",
+   "path": "local/judet/giurgiu/2026/15",
+   "short": "HCJ Giurgiu nr. 15/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 15/2026 privind utilizarea excedentului bugetului local al județului Giurgiu în anul 2026 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară Având în vedere: - referatul de aprobare nr.2060 din 3 februarie 2026 al Președintelui Consiliului Județean Giurgiu; - raportul de specialitate nr.2063 din 3 februarie 2026 al Serviciului buget-finanțe și contabilitate; - avizul nr.12/04.02.2026 al Comisie",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.15-din-05.02.2026.pdf",
+     "sha256": "ba9ce4b0327fa52632e28568b2c80d1670e26d78049b79a31f62585fa556a64f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-150-2026",
+   "path": "local/judet/giurgiu/2026/150",
+   "short": "HCJ Giurgiu nr. 150/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 150/2026 pentru aprobarea încheierii unor Acorduri de parteneriat între Județul Giurgiu, Spitalul Județean de Urgență Giurgiu, Asociația Sportivă ,,Mereu Împreună pentru Oameni” și anumite comune în vederea realizării proiectului ,,Șanse Egale la Vedere – Program pentru sănătatea vizuală”",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.150-din-28.05.2026-cu-anexe.pdf",
+     "sha256": "a859c9ee3f90440d90694b9247af898a18646f8c0e4c1f6364d038a018992283"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-151-2026",
+   "path": "local/judet/giurgiu/2026/151",
+   "short": "HCJ Giurgiu nr. 151/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 151/2026 privind acordarea unor sprijine financiare",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.151-din-28.05.2026-cu-anexa.pdf",
+     "sha256": "e6013f966081dfd38b16b78c44c554fb07796f1ed238541318b3bb1da0ad1f95"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-152-2026",
+   "path": "local/judet/giurgiu/2026/152",
+   "short": "HCJ Giurgiu nr. 152/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 152/2026 privind acordarea unor sprijine financiare CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară Având în vedere: - referatul de aprobare nr.10703 din 19 mai 2026 al Președintelui Consiliului Județean Giurgiu; - raportul de specialitate nr.10704 din 19 mai 2026 al Serviciului buget-finanțe și contabilitate; - procesele verbale nr.10007 din 11 mai 2026, 10319 din 15 mai 2026 și 10617 din 18 mai",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.152-din-28.05.2026.pdf",
+     "sha256": "ab761633547dd7ddc1fc0c8b502c6de9fa964509c9c4ed64bdfca2e0e0558641"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-153-2026",
+   "path": "local/judet/giurgiu/2026/153",
+   "short": "HCJ Giurgiu nr. 153/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 153/2026 pentru aprobarea modificării Anexei la Hotărârea Consiliului Județean Giurgiu nr.38 din 28 februarie 2025 privind aprobarea Regulamentului de organizare și funcționare al Consiliului Județean Giurgiu” CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară Având în vedere: - referatul de aprobare nr.12343 din 10 iunie 2026 al Președintelui Consiliului Județean Giurgiu; - raportul de speciali",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.153-din-12.06.2026.pdf",
+     "sha256": "d3159a55f71fc1fe7d6fbe127320cc1c239993f87e19e874c860e631885cc1aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-155-2026",
+   "path": "local/judet/giurgiu/2026/155",
+   "short": "HCJ Giurgiu nr. 155/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 155/2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.155-din-12.06.2026-cu-anexa.pdf",
+     "sha256": "98bf690c408ded15d8261e1deca54e204b37c0c7b1ffc4b85315e95353c22fba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-156-2026",
+   "path": "local/judet/giurgiu/2026/156",
+   "short": "HCJ Giurgiu nr. 156/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 156/2026 privind achiziționarea unui număr de 2500 ghiozdane dotate cu rechizite și cărți, care urmează să fie oferite copiilor care provin din medii defavorizate pentru anul școlar 2026-2027 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară Având în vedere: - referatul de necesitate nr.11040 din data de 25 mai 2026 întocmit de Direcția patrimoniu, coordonare servicii publice de interes județea",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.156-din-12.06.2026.pdf",
+     "sha256": "de1312e9295cab8a27800399ebc333aceb3f5aa8a43dbc9fc7e2064ea5ab2cbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-157-2026",
+   "path": "local/judet/giurgiu/2026/157",
+   "short": "HCJ Giurgiu nr. 157/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 157/2026 pentru modificarea și completarea art.2 la Hotărârea Consiliului Județean Giurgiu nr.124 din 30 aprilie 2026 privind solicitarea Consiliului Județean Giurgiu către Guvernul României de trecere din domeniul public al Statului Român și administrarea Ministerului Justiției - Penitenciarul București - Jilava în domeniul public al județului Giurgiu a terenului în suprafață de 23.494 mp, situat în comun",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.157-din-12.06.2026.pdf",
+     "sha256": "07ad40d659e097e6a9e78ce3f8e18f150f3cb351fe47e8dc9162c32f9f5f266f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-158-2026",
+   "path": "local/judet/giurgiu/2026/158",
+   "short": "HCJ Giurgiu nr. 158/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 158/2026 privind aprobarea Regulamentului de Organizare și Funcționare al Serviciului Social Locuire Asistată în Comunitate pentru Viață Independentă de tip Centru pentru Viață Independentă - LACVI-CPVI Ansaloni",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.158-din-12.06.2026-cu-anexe.pdf",
+     "sha256": "e8d9b8c02342df995ac8fae2ae4bb004d76b53b6bd83e309b08ef2cfc2ca5ffc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-159-2026",
+   "path": "local/judet/giurgiu/2026/159",
+   "short": "HCJ Giurgiu nr. 159/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 159/2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.159-din-12.06.2026-cu-anexe.pdf",
+     "sha256": "9dfb676e2a6f8c41638851257094ca11a680e825ac27988f0ff8341bfa4da86a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-16-2026",
+   "path": "local/judet/giurgiu/2026/16",
+   "short": "HCJ Giurgiu nr. 16/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 16/2026 privind neexercitarea dreptului de preemțiune pentru vânzarea - cumpărarea imobilului situat în comuna Cosoba, strada Principală, nr.428, înscris în Lista Monumentelor Istorice 2015 - „Conacul Nica Dorobanțu” Cod GR -II-m – B – 14971, poziția 367 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară Având în vedere: - referatul de aprobare nr.2064 din 3 februarie 2026 al Președintelui Cons",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.16-din-05.02.2026.pdf",
+     "sha256": "68e6b1429eb44e2883b12fc895868b645fd298144f9db2ec544b1d3f6f4385a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-160-2026",
+   "path": "local/judet/giurgiu/2026/160",
+   "short": "HCJ Giurgiu nr. 160/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 160/2026 privind aprobarea Regulamentului de Organizare și Funcționare al Serviciului Social Locuire Asistată în Comunitate pentru Viață Independentă de tip Locuință Protejată - LACVI-LP Apartament 21, precum și modificarea Hotărârii Consiliului Județean Giurgiu nr.72 din 29 martie 2021",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.160-din-12.06.2026-cu-anexe.pdf",
+     "sha256": "7c4d1b5ad4c3e97ca4aefaa7a9dd4e2cf8ff055a18bdc4eda40072e16bb99bd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-161-2026",
+   "path": "local/judet/giurgiu/2026/161",
+   "short": "HCJ Giurgiu nr. 161/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 161/2026 privind aprobarea Regulamentului de organizare și funcționare al Serviciului Social Locuire Asistată în Comunitate pentru Viață Independentă de tip Centru pentru Viață Independentă – LACVI – CPVI Phare, precum și modificarea Hotărârii Consiliului Județean Giurgiu nr.69 din 29 martie 2021",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.161-din-12.06.2026-cu-anexe.pdf",
+     "sha256": "8b6acf8afd7fce1eb79e8ef9f7749ec14bc0de9274f86eea19201a3f38c71ff6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-162-2026",
+   "path": "local/judet/giurgiu/2026/162",
+   "short": "HCJ Giurgiu nr. 162/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 162/2026 privind aprobarea Regulamentului de Organizare și Funcționare al Serviciului Social Locuire Asistată în Comunitate pentru Viață Independentă de tip Locuință Protejată – LACVI – LP Apartament 22, precum și modificarea Hotărârii Consiliului Județean Giurgiu nr.71 din 29 martie 2021",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.162-din-12.06.2026-cu-anexe.pdf",
+     "sha256": "54d418cad6644e9f96a691e87332865b29c18bad4a43760b11716741a2a87ee1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-163-2026",
+   "path": "local/judet/giurgiu/2026/163",
+   "short": "HCJ Giurgiu nr. 163/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 163/2026 pentru modificarea Anexei la Hotărârea Consiliului Județean Giurgiu nr.85 din 28.08.2020 privind înființarea Centrului de Abilitare și Reabilitare pentru Persoane Adulte cu Dizabilități Oinacu prin reorganizarea Centrului de Recuperare și Reabilitare Neuropsihiatrică Oinacu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.163-din-12.06.2026-cu-anexe.pdf",
+     "sha256": "1d9daf68efd666801b29a63b3a6656e4183c9138a8f3bc08f80bfb4443c29a22"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-164-2026",
+   "path": "local/judet/giurgiu/2026/164",
+   "short": "HCJ Giurgiu nr. 164/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 164/2026 privind aprobarea Regulamentului de Organizare și Funcționare al Serviciului Social Locuire Asistată în Comunitate pentru Viață Independentă de tip Locuință Protejată – LACVI – LP Apartament 69, precum și modificarea Hotărârii Consiliului Județean Giurgiu nr.66 din 29 martie 2021",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.164-din-12.06.2026-cu-anexe.pdf",
+     "sha256": "d374ee83b3dbd10f86aabe931994fc7c5330391a915b010d9a749e845ab836a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-165-2026",
+   "path": "local/judet/giurgiu/2026/165",
+   "short": "HCJ Giurgiu nr. 165/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 165/2026 privind aprobarea Regulamentului de organizare și funcționare al Serviciului Social Locuire Asistată în Comunitate pentru Viață Independentă de tip Centru pentru Viață Independentă – LACVI – CPVI Casa Comber, precum și modificarea Hotărârii Consiliului Județean Giurgiu nr.68 din 29 martie 2021",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.165-din-12.06.2026-cu-anexe.pdf",
+     "sha256": "9089394d883de95d954b1ae308e1a996e3946e59fcba2ad09a146fd3eeafda4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-166-2026",
+   "path": "local/judet/giurgiu/2026/166",
+   "short": "HCJ Giurgiu nr. 166/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 166/2026 privind aprobarea Regulamentului de Organizare și Funcționare al Serviciului Social Locuire Asistată în Comunitate pentru Viață Independentă de tip Locuință Protejată – LACVI – LP Apartament 71, precum și modificarea Hotărârii Consiliului Județean nr.67 din 29 martie 2021",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.166-din-12.06.2026-cu-anexe.pdf",
+     "sha256": "40d68260a03d6fdbdbfd3f07c5318d022179d351951c6d1ea15e796d9925e409"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-167-2026",
+   "path": "local/judet/giurgiu/2026/167",
+   "short": "HCJ Giurgiu nr. 167/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 167/2026 privind rectificarea bugetului propriu de venituri și cheltuieli al județului Giurgiu și a bugetului de venituri și cheltuieli al instituțiilor publice finanțate integral sau parțial din venituri proprii și subvenții pe anul 2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.167-din-30.06.2026-cu-anexe.pdf",
+     "sha256": "ea2c803ee5c8a3a1ac2f7c0fb27bf0866fcfc160171dc94be21693ece690a7c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-168-2026",
+   "path": "local/judet/giurgiu/2026/168",
+   "short": "HCJ Giurgiu nr. 168/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 168/2026 privind acordarea unor sprijine financiare",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.168-din-30.06.2026-cu-anexa.pdf",
+     "sha256": "80a18d50f52a82017ecfd05064907e5b13524eca065da943ec6248cea30ea1f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-17-2026",
+   "path": "local/judet/giurgiu/2026/17",
+   "short": "HCJ Giurgiu nr. 17/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 17/2026 privind darea în administrare Bibliotecii Județene I.A.Bassarabescu a imobilului aflat în domeniul public al județului Giurgiu, situat în municipiul Giurgiu, str",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.17-din-05.02.2026.pdf",
+     "sha256": "7c77609ad89977c9adb8cef44f9af9c83e45c56cc7e804b04e61c4576afb21e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-171-2026",
+   "path": "local/judet/giurgiu/2026/171",
+   "short": "HCJ Giurgiu nr. 171/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 171/2026 privind aprobarea participării Direcției Generale de Asistență Socială și Protecția Copilului Giurgiu în colaborare cu Fundația Convergențe Europene la depunerea și implementarea proiectului „O șansă la viață independentă – Intervenții integrate în comunitate pentru copii și tineri în procesul de dezinstituționalizare”",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.171-din-30.06.2026-cu-anexa.pdf",
+     "sha256": "f6f7d51c1dee05fd418f532270e672f23f6cab4e6d34cd57f5562b5f86d1ef08"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-172-2026",
+   "path": "local/judet/giurgiu/2026/172",
+   "short": "HCJ Giurgiu nr. 172/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 172/2026 pentru modificarea componenței nominale a Comisiei buget, finanțe, economie, fonduri europene și mediu de afaceri constituită prin Hotărârea Consiliului Județean Giurgiu nr.264/2024 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară Având în vedere: - referatul de aprobare nr.12920 din 16 iunie 2026 al Președintelui Consiliului Județean Giurgiu; - raportul de specialitate nr.12921 din 16 iun",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.172-din-30.06.2026.pdf",
+     "sha256": "cdf3f59c12a48c59b3c987b86fdc4226a799a59a5a93f3783c856b7b5c4d6ddc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-173-2026",
+   "path": "local/judet/giurgiu/2026/173",
+   "short": "HCJ Giurgiu nr. 173/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 173/2026 pentru completarea Comisiei de numărare a voturilor exprimate de către consilierii județeni prin vot secret constituită prin Hotărârea Consiliului Județean Giurgiu nr.49/2025 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară Având în vedere: - referatul de aprobare nr.12909 din 16 iunie 2026 al Președintelui Consiliului Județean Giurgiu; - raportul de specialitate nr.12915 din 16 iunie 2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.173-din-30.06.2026.pdf",
+     "sha256": "4ba68542d6309f632f9164d8acaa42e8bee350ac82f32f09016ff84d8cedaf2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-174-2026",
+   "path": "local/judet/giurgiu/2026/174",
+   "short": "HCJ Giurgiu nr. 174/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 174/2026 privind desemnarea unui consilier județean, ca membru în Autoritatea Teritorială de Ordine Publică a județului Giurgiu și validarea desemnării nominale a membrilor Autorității Teritoriale de Ordine Publică CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară Având în vedere: - referatul de aprobare nr.13064 din 18 iunie 2026 al Președintelui Consiliului Județean Giurgiu; - raportul de speciali",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.174-din-30.06.2026.pdf",
+     "sha256": "8a8279552b445125c0dab1a34d1fb4306bf467c85f1791a7a1bc30aa625d50a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-175-2026",
+   "path": "local/judet/giurgiu/2026/175",
+   "short": "HCJ Giurgiu nr. 175/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 175/2026 privind exprimarea acordului de principiu pentru încheierea unui parteneriat între",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.175-din-30.06.2026.pdf",
+     "sha256": "595fad292467cdb828f09c8f74c46318e81c3d2a3dc5a562de56fdfaf573f07f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-176-2026",
+   "path": "local/judet/giurgiu/2026/176",
+   "short": "HCJ Giurgiu nr. 176/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 176/2026 privind încheierea Actului adițional nr.1 la Protocolul de colaborare nr.171/25.06.2024 încheiat între Direcția Generală Anticorupție și județul Giurgiu prin Consiliul Județean Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.176-din-30.06.2026-cu-anexa.pdf",
+     "sha256": "3f8e074339150118795e8fd7f9b2f3a8968a8ce5bfdd8b99f20a8bddc3067f14"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-177-2026",
+   "path": "local/judet/giurgiu/2026/177",
+   "short": "HCJ Giurgiu nr. 177/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 177/2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.177-din-30.06.2026-cu-anexa.pdf",
+     "sha256": "49d03b34e0c4bba5945978d41e1fadef130bd7ea0a29cc287908d5ca9829cf31"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-178-2026",
+   "path": "local/judet/giurgiu/2026/178",
+   "short": "HCJ Giurgiu nr. 178/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 178/2026 privind modificarea statului de funcții al Bibliotecii Județene „I.A.Bassarabescu” Giurgiu CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară Având în vedere: - referatul de aprobare nr.12527 din 11 iunie 2026 al Președintelui Consiliului Județean Giurgiu; - raportul de specialitate nr.12528 din 11 iunie 2026 al Serviciului resurse umane, salarizare, coordonarea activității instituțiilor pub",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.178-din-30.06.2026.pdf",
+     "sha256": "d9686470a940c09ed8503abe6c2df0a8dc84fcd9353fac754b7e31ec70d3700e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-179-2026",
+   "path": "local/judet/giurgiu/2026/179",
+   "short": "HCJ Giurgiu nr. 179/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 179/2026 privind achiziția, în sistem de leasing financiar, de către Societatea JUDSERV 2020 SRL, a două autoutilitare marca VOLSWAGEN CADDY 2.0 TDI și revocarea Hotărârii Consiliului Județean Giurgiu nr.134/2026 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară Având în vedere: - referatul de aprobare nr.12365 din 10 iunie 2026 al Președintelui Consiliului Județean Giurgiu; - raportul de specialita",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.179-din-30.06.2026.pdf",
+     "sha256": "3d6ffd17ca13b005a00982b8da864b2b59f0e28379d913c8805e5374da1acff6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-18-2026",
+   "path": "local/judet/giurgiu/2026/18",
+   "short": "HCJ Giurgiu nr. 18/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 18/2026 privind neexercitarea dreptului de preemțiune pentru vânzarea - cumpărarea imobilului, situat în municipiul Giurgiu, strada Gării, nr.72, et.1, ap.3 înscris în Lista Monumentelor Istorice 2015 - Ansamblul urban „Strada Gării” Cod GR -II-m – B – 14884, poziția 271",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.18-din-26.02.2026-cu-anexa.pdf",
+     "sha256": "eadf1c30c1688c77f7fa439e710dd73fd15add8655cc33734f287920b589c566"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-180-2026",
+   "path": "local/judet/giurgiu/2026/180",
+   "short": "HCJ Giurgiu nr. 180/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 180/2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.180-din-30.06.2026.pdf",
+     "sha256": "d3d1f7601347ed636207600b1f56a797538b0045119235c942fd3a47189f2a29"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-181-2026",
+   "path": "local/judet/giurgiu/2026/181",
+   "short": "HCJ Giurgiu nr. 181/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 181/2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.181-din-30.06.2026-cu-anexa.pdf",
+     "sha256": "ed8b2dcf86fe7b8f884901def36b8212254fc57a37ad263bc782adf9873f7a5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-182-2026",
+   "path": "local/judet/giurgiu/2026/182",
+   "short": "HCJ Giurgiu nr. 182/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 182/2026 privind aprobarea asocierii județului Giurgiu în calitate de membru fondator cu alte unități administrativ-teritoriale din județul Giurgiu în scopul constituirii Asociației de Dezvoltare Intercomunitară „AUDIT PUBLIC INTERN” Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.182-din-30.06.2026-cu-anexe.pdf",
+     "sha256": "709672969cc01addd9b8567a57c2ae578f80979cfcc00eb4199397ba5d296b23"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-183-2026",
+   "path": "local/judet/giurgiu/2026/183",
+   "short": "HCJ Giurgiu nr. 183/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 183/2026 privind aprobarea majorării contribuției județului Giurgiu și încheierea Actului adițional nr.1, la Contractul de asociere nr.135/2730/18.07.2025 încheiat între județul Giurgiu și comuna Vărăști, în scopul realizării obiectivului de investiții „Construcție Piață Agroalimentară la Târg Dobreni”",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.183-din-30.06.2026-cu-anexa.pdf",
+     "sha256": "7bde59af2d8dae8a4fbd8b06831ae33f15b7e6aa57d0b5f8e78adae1c944b3a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-184-2026",
+   "path": "local/judet/giurgiu/2026/184",
+   "short": "HCJ Giurgiu nr. 184/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 184/2026 privind aprobarea Actului adițional nr.3 la Contractul de asociere nr.25/1549/20.02.2024 și 981/22.02.2024 încheiat între județul Giurgiu, comuna Frătești și comuna Daia întrunit în ședință ordinară",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.184-din-30.06.2026-cu-anexa.pdf",
+     "sha256": "ca0d78777dd7a3bb123ef60899c4c0c723541b807c4cd0ac039bcf019561c3c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-185-2026",
+   "path": "local/judet/giurgiu/2026/185",
+   "short": "HCJ Giurgiu nr. 185/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 185/2026 privind aprobarea participării Direcției Generale de Asistență Socială și Protecția Copilului Giurgiu în parteneriat cu Fundația Estuar la depunerea și implementarea proiectului „EMPAD – Echipă mobilă pentru persoane adulte cu dizabilități din județul Giurgiu”",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.185-din-30.06.2026-cu-anexa.pdf",
+     "sha256": "17dd74dcc9b4d5b65985ee26bf57a5794fa1ee6493b142fa8b3de824bfcb715f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-186-2026",
+   "path": "local/judet/giurgiu/2026/186",
+   "short": "HCJ Giurgiu nr. 186/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 186/2026 privind rectificarea bugetului propriu de venituri și cheltuieli al Județului Giurgiu și a bugetului de venituri și cheltuieli al instituțiilor publice finanțate integral sau parțial din venituri proprii și subvenții pe anul 2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.186-din-13.07.2026-cu-anexe.pdf",
+     "sha256": "c2b528f33a06a6e064c80e4d3a0af8b37aa6fbf80596ff1135bff2d117d0b5a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-187-2026",
+   "path": "local/judet/giurgiu/2026/187",
+   "short": "HCJ Giurgiu nr. 187/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 187/2026 privind asigurarea de către Direcția Generală de Asistență Socială și Protecția Copilului Giurgiu a necesarului de hrană, materiale de igienă personală, de curățenie și a obiectelor de cazarmament pentru un număr de 18 beneficiari pentru care s-au încetat măsurile de protecție în sistem rezidențial, fiind integrați în comunitate CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară Având î",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.187-din-13.07.2026.pdf",
+     "sha256": "1e14d527010dadff3f03c9047ba2d6b278f29dcde0a84cb1b1fde6c815b60d37"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-188-2026",
+   "path": "local/judet/giurgiu/2026/188",
+   "short": "HCJ Giurgiu nr. 188/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 188/2026 privind alocarea sumei de 20.000 lei din fondul de rezervă bugetară constituit în bugetul de venituri si cheltuieli al județului Giurgiu, orașului Mihăilești CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară Având în vedere: - referatul de aprobare nr.14676 din 8 iulie 2026 al Președintelui Consiliului Județean Giurgiu; - raportul de specialitate nr.14678 din 8 iulie 2026 al Serviciulu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.188-din-13.07.2026.pdf",
+     "sha256": "d1f75b4118e47b854e388d758419021b83eba75a86ee488a61d72c8b5761fa39"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-189-2026",
+   "path": "local/judet/giurgiu/2026/189",
+   "short": "HCJ Giurgiu nr. 189/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 189/2026 privind aprobarea încheierii unui Acord de Asociere între județul Giurgiu și Societatea Națională de Cruce Roșie din România – Filiala Giurgiu în vederea organizării anuale a sesiunii naționale de pregătire a voluntarilor în domeniul salvare din apă și prim ajutor, ediția 2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.189-din-13.07.2026-cu-anexa.pdf",
+     "sha256": "cf33802e700db78c45c95f9f5b69dee6291983938d6011c01450a1fe63659302"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-19-2026",
+   "path": "local/judet/giurgiu/2026/19",
+   "short": "HCJ Giurgiu nr. 19/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 19/2026 privind neexercitarea dreptului de preemțiune pentru vânzarea - cumpărarea imobilului, situat în municipiul Giurgiu, strada Gării, nr.72, et.1, ap.5 înscris în Lista Monumentelor Istorice 2015 - Ansamblul urban „Strada Gării” Cod GR -II-m – B – 14884, poziția 271",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.19-din-26.02.2026-cu-anexa.pdf",
+     "sha256": "4c7112cc7e6198ac2f76ff55dc6848de5057fafb15afa815e5d1878e7b6505f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-190-2026",
+   "path": "local/judet/giurgiu/2026/190",
+   "short": "HCJ Giurgiu nr. 190/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 190/2026 privind aprobarea asocierii dintre județul Giurgiu și comuna Florești-Stoenești, în scopul organizării și desfășurării Festivalului de muzică folk „Rapsodii de toamnă”, ediția a III-a, 2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.190-din-13.07.2026-cu-anexa.pdf",
+     "sha256": "6a153b39f40d8b239b1954ae4510775a20a2ca36205e69c54c65b42a12433ad5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-191-2026",
+   "path": "local/judet/giurgiu/2026/191",
+   "short": "HCJ Giurgiu nr. 191/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 191/2026 privind aprobarea Convenției – cadru perfectate de Președintele Consiliului Județean Giurgiu și primarii unităților administrativ-teritoriale din județul Giurgiu în aplicarea art.4 alin.(1) lit.a) pct.2 și art.45 alin.(3¹) din Legea nr.50/1991 privind autorizarea lucrărilor de construcții, republicată, cu modificările și completările ulterioare",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.191-din-13.07.2026-cu-anexa.pdf",
+     "sha256": "46047a692f190e365769ba29dc31faaed6e3e9436dbf95655f3cc563686f774a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-192-2026",
+   "path": "local/judet/giurgiu/2026/192",
+   "short": "HCJ Giurgiu nr. 192/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 192/2026 privind rectificarea bugetului propriu de venituri și cheltuieli al județului Giurgiu și a bugetului de venituri și cheltuieli al instituțiilor publice finanțate integral sau parțial din venituri proprii și subvenții pe anul 2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.192-din-23.07.2026-cu-anexe.pdf",
+     "sha256": "87d3b810213fd400ef38fbeffaddda3620edecd58a2944de02a897cc1c670dfa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-193-2026",
+   "path": "local/judet/giurgiu/2026/193",
+   "short": "HCJ Giurgiu nr. 193/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 193/2026 pentru completarea Anexei la Hotărârea Consiliului Județean Giurgiu nr.243 din 23 septembrie 2024 privind aprobarea Strategiei Integrate de Dezvoltare Teritorială Județeană Giurgiu 2024-2034 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară Având în vedere: - referatul de aprobare nr.15350 din 16 iulie 2026 al Președintelui Consiliului Județean Giurgiu; - raportul de specialitate nr.15",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.193-din-23.07.2026.pdf",
+     "sha256": "04adb31966d7cb61a442ea71fc3cb85c330a06633452cbd6fff347e4a9c7789d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-195-2026",
+   "path": "local/judet/giurgiu/2026/195",
+   "short": "HCJ Giurgiu nr. 195/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 195/2026 privind aprobarea depunerii în cadrul Programului Sănătate 2021-2027 a proiectului „Construire și dotare Centru Județean de Sănătate Mintală și pentru Prevenirea Adicțiilor Giurgiu”, precum și a cheltuielilor aferente proiectului CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară Având în vedere: - referatul de aprobare nr.15805 din 21 iulie 2026 al Președintelui Consiliului Județean Gi",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.195-din-23.07.2026.pdf",
+     "sha256": "a109b59e7296fe0a5b66c7da671533a3da3776ae0ba0a3433dd20c182a6ba3c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-196-2026",
+   "path": "local/judet/giurgiu/2026/196",
+   "short": "HCJ Giurgiu nr. 196/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 196/2026 privind aprobarea execuției bugetului propriu de venituri și cheltuieli al județului Giurgiu pe trimestrul II 2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.196-din-30.07.2026-cu-anexe.pdf",
+     "sha256": "211fe1d8132f5f1849207edf6db20bb2ae5d189c6bae6a8830fa06c629fec34e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-197-2026",
+   "path": "local/judet/giurgiu/2026/197",
+   "short": "HCJ Giurgiu nr. 197/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 197/2026 privind acordarea unor sprijine financiare CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară Având în vedere: - referatul de aprobare nr.15759 din 21 iulie 2026 al Președintelui Consiliului Județean Giurgiu; - raportul de specialitate nr.15767 din 21 iulie 2026 al Serviciului buget-finanțe și contabilitate; - procesele verbale nr.11512 din 29 mai 2026, 15261 din 15 iulie 2026, 15422 din 16",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.197-din-30.07.2026.pdf",
+     "sha256": "1f2e123c7b10e3ce5c76792463529f3e30d2de85a025c1cef41f4c2b6fbad9fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-198-2026",
+   "path": "local/judet/giurgiu/2026/198",
+   "short": "HCJ Giurgiu nr. 198/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 198/2026 privind acordarea unor sprijine financiare",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.198-din-30.07.2026-cu-anexa.pdf",
+     "sha256": "c15a3a276419360db39fd0e435ca5a89e57a03adfe5b82350e0498300e4198d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-199-2026",
+   "path": "local/judet/giurgiu/2026/199",
+   "short": "HCJ Giurgiu nr. 199/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 199/2026 privind modificarea statului de funcții al Direcției Județene de Transport, Administrarea Drumurilor Județene și Control Trafic Giurgiu CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară Având în vedere: - referatul de aprobare nr.15128 din 14 iulie 2026 al Președintelui Consiliului Județean Giurgiu; - raportul de specialitate nr.15133 din 14 iulie 2026 al Serviciului resurse umane, salariza",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.199-din-30.07.2026.pdf",
+     "sha256": "16848189d37f950dec8d78903af8e71726814ffd42cdec9034cb24364db09e15"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-20-2026",
+   "path": "local/judet/giurgiu/2026/20",
+   "short": "HCJ Giurgiu nr. 20/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 20/2026 privind trecerea din domeniul public al județului Giurgiu în domeniul privat al județului Giurgiu, a construcțiilor C2, C3, C4, C5, aferente imobilului înscris în cartea funciară nr.31610 a comunei Comana, în vederea scoaterii din funcțiune și a desființării întrunit în ședință ordinară",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.20-din-26.02.2026-cu-anexa.pdf",
+     "sha256": "ab5f20706f84b9a436f2e972850c2a4ac5942941d2f2381ceca527a30f16ff3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-200-2026",
+   "path": "local/judet/giurgiu/2026/200",
+   "short": "HCJ Giurgiu nr. 200/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 200/2026 privind aprobarea organigramei și a statului de funcții ale Bibliotecii Județene „I.A.Bassarabescu” Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.200-din-30.07.2026-cu-anexe.pdf",
+     "sha256": "a6b790990db90683b6b2269a0ee7133467b4740adf7d4c3c1279b2793f2ce376"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-201-2026",
+   "path": "local/judet/giurgiu/2026/201",
+   "short": "HCJ Giurgiu nr. 201/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 201/2026 privind modificarea statului de funcții al Spitalului de Pneumoftiziologie Izvoru CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară Având în vedere: - referatul de aprobare nr.15650 din 20 iulie 2026 al Președintelui Consiliului Județean Giurgiu; - raportul de specialitate nr.15655 din 20 iulie 2026 al Compartimentului resurse umane, salarizare și coordonarea activității instituțiilor publi",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.201-din-30.07.2026.pdf",
+     "sha256": "f19c33b6b97016d41fe283a20f71aa7e65fbee5ec985a19bf629ab1621e65fa1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-202-2026",
+   "path": "local/judet/giurgiu/2026/202",
+   "short": "HCJ Giurgiu nr. 202/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 202/2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.202-din-30.07.2026-cu-anexa.pdf",
+     "sha256": "17e404619e768e53a1e0a2822c5d1b539ab9faee0be8f0b963b84b2238b9af83"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-203-2026",
+   "path": "local/judet/giurgiu/2026/203",
+   "short": "HCJ Giurgiu nr. 203/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 203/2026 privind neexercitarea dreptului de preemțiune pentru vânzarea - cumpărarea imobilului compus din teren în suprafață de 1251 mp, situat în municipiul Giurgiu, strada Păcii, înscris în Lista Monumentelor Istorice 2015 - Ansamblul urban „Cartierul Fabricii de Zahăr”, Cod cod LMI 2015 - GR -II-a – B – 14882, poziția 269",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.203-din-30.07.2026-cu-anexa.pdf",
+     "sha256": "a6c95fa5c0e47ba8fd3da39628229e72f6e3da7d481e1a529e422b40792727ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-204-2026",
+   "path": "local/judet/giurgiu/2026/204",
+   "short": "HCJ Giurgiu nr. 204/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 204/2026 privind încheierea unui contract de comodat între județul Giurgiu și Direcția de Sănătate Publică a județului Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.204-din-30.07.2026-cu-anexe.pdf",
+     "sha256": "7d0eb1636c99322a1d466bd5666a3d3bb9c703ebe619749f5014174edffc4254"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-205-2026",
+   "path": "local/judet/giurgiu/2026/205",
+   "short": "HCJ Giurgiu nr. 205/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 205/2026 privind încheierea unui contract de comodat între județul Giurgiu și Direcția Sanitară Veterinară și pentru Siguranța Alimentelor Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.205-din-30.07.2026-cu-anexe.pdf",
+     "sha256": "7d4c1aba12b412caf7c371f7b3afd42af795348a41f53a275d26e6baee929d8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-206-2026",
+   "path": "local/judet/giurgiu/2026/206",
+   "short": "HCJ Giurgiu nr. 206/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 206/2026 privind încheierea unui contract de comodat între județul Giurgiu și Inspectoratul pentru Situații de Urgență „Vlașca” al județului Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.206-din-30.07.2026-cu-anexe.pdf",
+     "sha256": "9fc0c63bb98ecc1afd6a99d2cdc57ee588e4e57bbe969276c94bb10f15bc787d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-207-2026",
+   "path": "local/judet/giurgiu/2026/207",
+   "short": "HCJ Giurgiu nr. 207/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 207/2026 privind încheierea unui contract de comodat între județul Giurgiu și Inspectoratul pentru Situații de Urgență „Vlașca” al județului Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.207-din-30.07.2026-cu-anexe.pdf",
+     "sha256": "79ca9c3bf9cf062090cec57ec91de12ed049a975e8fb51ce02c210a03c1d571d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-208-2026",
+   "path": "local/judet/giurgiu/2026/208",
+   "short": "HCJ Giurgiu nr. 208/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 208/2026 privind încheierea unui contract de comodat între județul Giurgiu și Inspectoratul pentru Situații de Urgență „Vlașca” al județului Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.208-din-30.07.2026-cu-anexe.pdf",
+     "sha256": "a10da43e0355005e16fd4b5e91ea832a47f5dcb7196eb6e06fc7dc15c5096184"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-209-2026",
+   "path": "local/judet/giurgiu/2026/209",
+   "short": "HCJ Giurgiu nr. 209/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 209/2026 privind aprobarea asocierii județului Giurgiu în calitate de membru fondator cu alte unități administrativ-teritoriale din județul Giurgiu în scopul constituirii ASOCIAȚIEI DE DEZVOLTARE INTERCOMUNITARĂ PENTRU AUDIT PUBLIC INTERN GIURGIU",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.209-din-30.07.2026-cu-anexe.pdf",
+     "sha256": "87c0ec0fb69d9980be9210e380eab5ef0d6f5cf6ce7b8d13c4d9f3c6fb12eef2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-21-2026",
+   "path": "local/judet/giurgiu/2026/21",
+   "short": "HCJ Giurgiu nr. 21/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 21/2026 privind încheierea unui contract de comodat între Județul Giurgiu și Serviciul Județean de Ambulanță Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.21-din-26.02.2026-cu-anexa.pdf",
+     "sha256": "0519c7d5d37d31e873d709d91e4c904daffa6ac3d2b5e427c1028c27e6a74be7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-210-2026",
+   "path": "local/judet/giurgiu/2026/210",
+   "short": "HCJ Giurgiu nr. 210/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 210/2026 privind rectificarea bugetului propriu de venituri și cheltuieli al județului Giurgiu și a bugetului de venituri și cheltuieli al instituțiilor publice finanțate integral sau parțial din venituri proprii și subvenții pe anul 2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.210-din-30.07.2026-cu-anexe.pdf",
+     "sha256": "8d8c105842902ace0dcf8cefc0a65967ec4cf63cccb3ca55db6f113e460d9f2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-211-2026",
+   "path": "local/judet/giurgiu/2026/211",
+   "short": "HCJ Giurgiu nr. 211/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 211/2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.211-din-30.07.2026-cu-anexa.pdf",
+     "sha256": "288a5689849940e2662bfa1e5e85c687eb8cd614da2c571ff470a2c75e4f8740"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-212-2026",
+   "path": "local/judet/giurgiu/2026/212",
+   "short": "HCJ Giurgiu nr. 212/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 212/2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.212-din-30.07.2026-cu-anexa.pdf",
+     "sha256": "3340b89c8fb0bc993eca96492cd6e4856cc9b04f0843251abe6bc16fa1afc4bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-213-2026",
+   "path": "local/judet/giurgiu/2026/213",
+   "short": "HCJ Giurgiu nr. 213/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 213/2026 privind aprobarea asocierii între județul Giurgiu și comuna Grădinari în vederea executării unor lucrări de reparații curente la Școala Primară nr.3 din satul Zorile, comuna Grădinari",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.213-din-30.07.2026-cu-anexa.pdf",
+     "sha256": "90b6ec37ee75510dbbc4c653b1dfa99542115f478905bab0b99fb7004c5506c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-214-2026",
+   "path": "local/judet/giurgiu/2026/214",
+   "short": "HCJ Giurgiu nr. 214/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 214/2026 privind aprobarea asocierii dintre județul Giurgiu și comuna Letca Nouă, în vederea realizării obiectivului de investiții „Punerea în siguranță a circulației pietonale prin realizarea unor trotuare pietonale în satele Letca Nouă și Milcovățu, comuna Letca Nouă, județul Giurgiu”",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.214-din-30.07.2026-cu-anexa.pdf",
+     "sha256": "f1c9934a918764146b49f027bed65d450a16c885c68b2b19264f4bea290569c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-215-2026",
+   "path": "local/judet/giurgiu/2026/215",
+   "short": "HCJ Giurgiu nr. 215/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 215/2026 privind aprobarea asocierii între județul Giurgiu și comuna Adunații Copăceni în vederea executării unor lucrări suplimentare pentru realizarea a 225 de accese la proprietăți aferente obiectivului de investiții „Dezvoltarea infrastructurii de transport verde – Amenajare piste pentru biciclete pe Șoseaua Giurgiului în comuna Adunații - Copăceni”",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.215-din-30.07.2026-cu-anexa.pdf",
+     "sha256": "2304dc9c7196924fc69c65f010ff3fd087c03cc47f0690c90dbc434a4251de7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-216-2026",
+   "path": "local/judet/giurgiu/2026/216",
+   "short": "HCJ Giurgiu nr. 216/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 216/2026 privind rectificarea bugetului propriu de venituri și cheltuieli al Județului Giurgiu și a bugetului de venituri și cheltuieli al instituțiilor publice finanțate integral sau parțial din venituri proprii și subvenții pe anul 2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.216-din-20.08.2026-cu-anexe.pdf",
+     "sha256": "6f54dbbff8df6b1c3c52353d9db981df309acc99485c326fa627607659f1547d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-217-2026",
+   "path": "local/judet/giurgiu/2026/217",
+   "short": "HCJ Giurgiu nr. 217/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 217/2026 privind alocarea din fondul de rezervă bugetară constituit în bugetul de venituri și cheltuieli al Județului Giurgiu, a sumei de 30.000 lei, comunelor Greaca, Clejani și Vedea CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară Având în vedere: - referatul de aprobare nr.17572 din 14 august 2026 al Președintelui Consiliului Județean Giurgiu; - raportul de specialitate nr.17573 din 14 aug",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.217-din-20.08.2026.pdf",
+     "sha256": "e79aaf1e83409d5d9dd1293abf9a6cd83135f20626e637473e8fc30bd7733aee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-218-2026",
+   "path": "local/judet/giurgiu/2026/218",
+   "short": "HCJ Giurgiu nr. 218/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 218/2026 privind aprobarea actualizării devizului general și a indicatorilor tehnico-economici pentru obiectivul de investiții „Construire Spital Județean de Urgență Giurgiu - Etapa I (Secțiile Oncologie și Neurologie)” la faza studiu de fezabilitate",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.218-din-20.08.2026-cu-anexe.pdf",
+     "sha256": "a276888c78b86890ac901b3fa30f43d61db6db7aed411ed18a5f8813eb7c5945"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-219-2026",
+   "path": "local/judet/giurgiu/2026/219",
+   "short": "HCJ Giurgiu nr. 219/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 219/2026 pentru aprobarea documentației tehnico-economice pentru obiectivul de investiții „Construire Spital Județean de Urgență Giurgiu - Etapa I (Secțiile Oncologie și Neurologie)” faza proiect tehnic de excuție",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.219-din-20.08.2026-cu-anexe.pdf",
+     "sha256": "f8687df84bd0febcd2313a87bfc95c95e69050aa5e66c9917ae20998e2b82116"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-22-2026",
+   "path": "local/judet/giurgiu/2026/22",
+   "short": "HCJ Giurgiu nr. 22/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 22/2026 privind declararea ca bun de interes public județean și preluarea în domeniul public al județului Giurgiu a terenului în suprafață de 1189 mp, situat în intravilanul municipiului Giurgiu, strada Unirii, FN, Parcul Tineretului, înscris în cartea funciară nr.47541, județul Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.22-din-26.02.2026-cu-anexa.pdf",
+     "sha256": "ff24c71c7d8c604876f6c8a668dd1e5ffc61c0cea9d50a6158644a90c5fd68dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-222-2026",
+   "path": "local/judet/giurgiu/2026/222",
+   "short": "HCJ Giurgiu nr. 222/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 222/2026 privind rectificarea bugetului propriu de venituri și cheltuieli al Județului Giurgiu pe anul 2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.222-din-27.08.2026-cu-anexa.pdf",
+     "sha256": "abcdf95fe15954f399effa2256dc38dfb4580feaf6383e5298f775343c1b7248"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-223-2026",
+   "path": "local/judet/giurgiu/2026/223",
+   "short": "HCJ Giurgiu nr. 223/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 223/2026 privind alocarea din fondul de rezervă bugetară constituit în bugetul de venituri și cheltuieli al Județului Giurgiu, a sumei de 10.000 lei, comunei Letca Nouă CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară Având în vedere: - referatul de aprobare nr.18067 din 21 august 2026 al Vicepreședintelui Consiliului Județean Giurgiu; - raportul de specialitate nr.18068 din 21 august 2026 al",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.223-din-27.08.2026.pdf",
+     "sha256": "dccdaa0e73f58549c1dec75a09ef92ad15c843f0811e1c821d8057a4f0cc412a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-224-2026",
+   "path": "local/judet/giurgiu/2026/224",
+   "short": "HCJ Giurgiu nr. 224/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 224/2026 privind acordarea unor sprijine financiare CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară Având în vedere: - referatul de aprobare nr.17393 din 12 august 2026 al Președintelui Consiliului Județean Giurgiu; - raportul de specialitate nr.17394 din 12 august 2026 al Serviciului buget-finanțe și contabilitate; - procesul verbal nr.17107 din 07 august 2026, al Comisiei pentru analiza sol",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.224-din-27.08.2026.pdf",
+     "sha256": "a86bb92120571f86427363c5f6cb9eeb7fbf50882759d8d1ef73c11b820ca439"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-226-2026",
+   "path": "local/judet/giurgiu/2026/226",
+   "short": "HCJ Giurgiu nr. 226/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 226/2026 pentru modificarea Hotărârii Consiliului Județean Giurgiu nr.195 din 23.07.2026 privind aprobarea depunerii în cadrul Programului Sănătate 2021-2027 a proiectului „Construire și dotare Centru Județean de Sănătate Mintală și pentru Prevenirea Adicțiilor Giurgiu”, precum și a cheltuielilor aferente proiectului",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.226-din-27.08.2026-cu-anexa.pdf",
+     "sha256": "b814b5a213580ee84c9723e55f9c88df0381642ac17b8c7d2725cffa9a92c908"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-227-2026",
+   "path": "local/judet/giurgiu/2026/227",
+   "short": "HCJ Giurgiu nr. 227/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 227/2026 pentru completarea Anexei la Hotărârea Consiliului Județean Giurgiu nr.268/2023 privind înființarea Unității de Achiziții Centralizată - U.A.T",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.227-din-31.08.2026.pdf",
+     "sha256": "611c4fe9ac3cae6fdef92bf862396a76976d841ffe885817f4aac957165725ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-228-2026",
+   "path": "local/judet/giurgiu/2026/228",
+   "short": "HCJ Giurgiu nr. 228/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 228/2026 privind încheierea unui contract de comodat între județul Giurgiu și comuna Comana, județul Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.228-din-31.08.2026-cu-anexe.pdf",
+     "sha256": "417c5e010079c8d71d3fbe0b28b315dd78b5966d014242b2f4729b2b159518c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-229-2026",
+   "path": "local/judet/giurgiu/2026/229",
+   "short": "HCJ Giurgiu nr. 229/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 229/2026 privind încheierea unui contract de comodat între județul Giurgiu și comuna Izvoarele, județul Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.229-din-31.08.2026-cu-anexe.pdf",
+     "sha256": "fcb2766ab3c70ac20fb4f425ea6947603e5dcfb68bf87107a4c65e79f717f572"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-23-2026",
+   "path": "local/judet/giurgiu/2026/23",
+   "short": "HCJ Giurgiu nr. 23/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 23/2026 privind darea în folosință gratuită Agenției pentru Dezvoltare Regională SUD MUNTENIA a unor spații în suprafață de 41,19 mp, la etajul IV al imobilului „Comandament Militar Județean”, situat în municipiul Giurgiu, B-dul Mihai Viteazu, nr.4, aflat în domeniul public al județului Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.23-din-26.02.2026-cu-anexe.pdf",
+     "sha256": "d34479da955b62a314a37353b8166890c55f3003e2c2944828c698a7f9f87c8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-230-2026",
+   "path": "local/judet/giurgiu/2026/230",
+   "short": "HCJ Giurgiu nr. 230/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 230/2026 privind încheierea unui contract de comodat între județul Giurgiu și comuna Herăști, județul Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.230-din-31.08.2026-cu-anexe.pdf",
+     "sha256": "98145cd2393c82e4c0a040c8fd5ed5cc46d005fb9d22be2808ebc0501a11e9e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-231-2026",
+   "path": "local/judet/giurgiu/2026/231",
+   "short": "HCJ Giurgiu nr. 231/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 231/2026 privind încheierea unui contract de comodat între județul Giurgiu și comuna Mihai Bravu, județul Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.231-din-31.08.2026-cu-anexe.pdf",
+     "sha256": "0312192409baac5b905886fde3dd88cd6060ead5eb707cedc790e802614fe68e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-232-2026",
+   "path": "local/judet/giurgiu/2026/232",
+   "short": "HCJ Giurgiu nr. 232/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 232/2026 privind încheierea unui contract de comodat între județul Giurgiu și comuna Grădinari, județul Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.232-din-31.08.2026-cu-anexe.pdf",
+     "sha256": "9e525905cd66fb07b6b51994e95e37d9424eb6e0270131845ea42e9131fa7586"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-234-2026",
+   "path": "local/judet/giurgiu/2026/234",
+   "short": "HCJ Giurgiu nr. 234/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 234/2026 privind aprobarea încheierii contractului de servicii juridice de consultanță, asistență și reprezentare pentru dosarul nr.1088/122/2023 în toate fazele procesuale ale rejudecării cauzei CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară Având în vedere: - referatul de aprobare nr.17500 din 13 august 2026 al Președintelui Consiliului Județean Giurgiu; - raportul de specialitate nr.17503 din",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.234-din-31.08.2026-1.pdf",
+     "sha256": "b1cd446005c962285ff4332b7d3f47a93efc5fb95e9786cf5d332e4bebc094ee"
     }
    ]
   },
@@ -33,6 +1923,321 @@
    ]
   },
   {
+   "slug": "hcj-giurgiu-236-2026",
+   "path": "local/judet/giurgiu/2026/236",
+   "short": "HCJ Giurgiu nr. 236/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 236/2026 privind stabilirea valorii unitare lei/kilometru aferentă sumei forfetare de care beneficiază, în anul școlar 2026-2027 elevii din județul Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.236-din-31.08.2026-cu-anexa.pdf",
+     "sha256": "23b01d1f4ee19c9aa0092c062f298781a865b27b07c40bdbe36b63a1d997dd73"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-237-2026",
+   "path": "local/judet/giurgiu/2026/237",
+   "short": "HCJ Giurgiu nr. 237/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 237/2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.237-din-31.08.2026.pdf",
+     "sha256": "5695d8ed1565e30f063fa051513ccd254a5a05786aa11ae255e1caf9e076573a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-238-2026",
+   "path": "local/judet/giurgiu/2026/238",
+   "short": "HCJ Giurgiu nr. 238/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 238/2026 privind modificarea statului de funcții al Bibliotecii Județene „I.A.Bassarabescu” Giurgiu CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară Având în vedere: - referatul de aprobare nr.17248 din 11 august 2026 al Președintelui Consiliului Județean Giurgiu; - raportul de specialitate nr.17251 din 11 august 2026 al Serviciului resurse umane, salarizare, coordonarea activității instituțiilor p",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.238-din-31.08.2026.pdf",
+     "sha256": "f986cd315d21b42408b4a8c266f6c869421620363bb39bf337d9b66ca3ae8b5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-239-2026",
+   "path": "local/judet/giurgiu/2026/239",
+   "short": "HCJ Giurgiu nr. 239/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 239/2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.239-din-31.08.2026.pdf",
+     "sha256": "428658f072ec679c4b34c5f23491dc594916752cf1394e5f5a9f664f8ec886ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-24-2026",
+   "path": "local/judet/giurgiu/2026/24",
+   "short": "HCJ Giurgiu nr. 24/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 24/2026 privind încheierea unui contract de comodat între județul Giurgiu și Școala Gimnazială Specială nr.1 Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.24-din-26.02.2026-cu-anexe.pdf",
+     "sha256": "c4b9c4c7cc215c8b5e055e5c2505da3b220ecc4d3c12cfcafc0f0afa95ae45df"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-241-2026",
+   "path": "local/judet/giurgiu/2026/241",
+   "short": "HCJ Giurgiu nr. 241/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 241/2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.241-din-31.08.2026.pdf",
+     "sha256": "aa6a8beecca3e811ba0755cac1d566b80c5e74c368d8ff9d74ad5d8d19e7e4ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-242-2026",
+   "path": "local/judet/giurgiu/2026/242",
+   "short": "HCJ Giurgiu nr. 242/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 242/2026 privind acordarea unor sprijine financiare",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.242-din-31.08.2026-cu-anexa.pdf",
+     "sha256": "0df0cf351f6ba20df63a2ef9426f15779292ae5a96f26ecc527324160a59eb80"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-243-2026",
+   "path": "local/judet/giurgiu/2026/243",
+   "short": "HCJ Giurgiu nr. 243/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 243/2026 privind aprobarea încheierii actului adițional nr.1 la Contractul de asociere încheiat între județul Giurgiu și orașul Mihăilești pentru realizarea obiectivului de investiții „Modernizare drum comunal DC Mihăilești -Bulbucata”",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.243-din-31.08.2026-cu-anexa.pdf",
+     "sha256": "357641bd3858165aceabf2b2af19618eb6e200d5f4e7ca49b3f348982b785caf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-244-2026",
+   "path": "local/judet/giurgiu/2026/244",
+   "short": "HCJ Giurgiu nr. 244/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 244/2026 privind aprobarea asocierii între județul Giurgiu și comuna Stănești în vederea executării lucrărilor aferente obiectivului ”Modernizare Drumuri Comunale în comuna Stănești, județul Giurgiu - DC 117 (Strada Principală, tronsoanele 1,2,3,4 și 5)”",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.244-din-31.08.2026-cu-anexa.pdf",
+     "sha256": "34fafd08a5fb27744f0c73620efa8b4b9ee5e166552f7cd686eccaa4a6e40ba8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-246-2026",
+   "path": "local/judet/giurgiu/2026/246",
+   "short": "HCJ Giurgiu nr. 246/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 246/2026 privind rectificarea bugetului propriu de venituri și cheltuieli al Județului Giurgiu și a bugetului de venituri și cheltuieli al instituțiilor publice finanțate integral sau parțial din venituri proprii și subvenții pe anul 2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.246-din-09.09.2026-cu-anexe.pdf",
+     "sha256": "5ca74934f4de2af4b5148ed4ee4c38e51677eb2524056ff8955b8771f68cde24"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-248-2026",
+   "path": "local/judet/giurgiu/2026/248",
+   "short": "HCJ Giurgiu nr. 248/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 248/2026 privind încheierea unui Acord de Asociere între județul Giurgiu, municipiul Giurgiu, Direcția Județeană de Sport Giurgiu și Asociația Județeană de Fotbal Giurgiu, în vederea organizării evenimentului sportiv „Gala Fotbalului Giurgiuvean – selecționata NORD versus selecționata SUD” dedicat „Săptămânii Europene a Sportului”",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.248-din-09.09.2026-cu-anexa.pdf",
+     "sha256": "5cf51be49485753c45a42028148801995b202dcf63fda94f1b4649fc2e9dcc90"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-249-2026",
+   "path": "local/judet/giurgiu/2026/249",
+   "short": "HCJ Giurgiu nr. 249/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 249/2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.249-din-09.09.2026-cu-anexa.pdf",
+     "sha256": "d5caaca9f87df56f51e3bbf0181d1101cdfa828fe644cfa96f82307a49346812"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-25-2026",
+   "path": "local/judet/giurgiu/2026/25",
+   "short": "HCJ Giurgiu nr. 25/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 25/2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.25-din-26.02.2026-cu-anexe.pdf",
+     "sha256": "773c6163412bda8b4520688e488e7506dbec4c410715fa957b6ede75c41d1e34"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-250-2026",
+   "path": "local/judet/giurgiu/2026/250",
+   "short": "HCJ Giurgiu nr. 250/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 250/2026 privind încheierea unui contract de comodat între județul Giurgiu și Spitalul de Pneumoftiziologie Izvoru",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.250-din-24.09.2026-cu-anexe.pdf",
+     "sha256": "8408eca0d10e9121ffcbc3e1b496f7b1cab8565c6c7ce30dcc3035f680d58684"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-252-2026",
+   "path": "local/judet/giurgiu/2026/252",
+   "short": "HCJ Giurgiu nr. 252/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 252/2026 privind schimbarea denumirii „Școlii Gimnaziale Speciale nr.1 Giurgiu” în „Liceul Tehnologic Special nr.1 Giurgiu” din județul Giurgiu, precum și modificarea și completarea Anexei la Hotărârea Consiliului Județean nr.6 din 29 ianuarie 2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.252-din-24.09.2026-cu-anexa.pdf",
+     "sha256": "0979578bc7404d39059691dba14691806c4c57e8f0d47bc771075ec6b914d586"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-253-2026",
+   "path": "local/judet/giurgiu/2026/253",
+   "short": "HCJ Giurgiu nr. 253/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 253/2026 privind acordarea unor sprijine financiare",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.253-din-24.09.2026-cu-anexa.pdf",
+     "sha256": "be58e87d04c18293c00baa7577be2963f5d0675ca526010a9c0cfd8911694d11"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-254-2026",
+   "path": "local/judet/giurgiu/2026/254",
+   "short": "HCJ Giurgiu nr. 254/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 254/2026 privind modificarea statului de funcții al Spitalului de Pneumoftiziologie Izvoru CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară Având în vedere: - referatul de aprobare nr.19867 din 14 septembrie 2026 al Vicepreședintelui Consiliului Județean Giurgiu; - raportul de specialitate nr.19871 din 14 septembrie 2026 al Compartimentului resurse umane, salarizare și coordonarea activității insti",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.254-din-24.09.2026.pdf",
+     "sha256": "b364786af0cbe4677f6ef88a67b1a5766e6d4f7c960a2ef8c518de23cf9e72b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-255-2026",
+   "path": "local/judet/giurgiu/2026/255",
+   "short": "HCJ Giurgiu nr. 255/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 255/2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.255-din-24.09.2026-cu-anexe.pdf",
+     "sha256": "d39b31b57e80a2b875ebff24a825e749e0bd3939830f49aafe8079c6fc5a56cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-256-2026",
+   "path": "local/judet/giurgiu/2026/256",
+   "short": "HCJ Giurgiu nr. 256/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 256/2026 privind desemnarea membrilor în comisia de evaluare a probei de interviu la concursul pentru ocuparea funcțiilor de director și director adjunct din cadrul Liceului Tehnologic Special Nr.1 Giurgiu CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară Având în vedere: - referatul de aprobare nr.20235 din 16 septembrie 2026 al Vicepreședintelui Consiliului Județean Giurgiu; - raportul de speciali",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.256-din-24.09.2026.pdf",
+     "sha256": "838bc6cb045075286b1b0df2a7744203f0ceec291b32b80b3f90e29cd356a0db"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-257-2026",
+   "path": "local/judet/giurgiu/2026/257",
+   "short": "HCJ Giurgiu nr. 257/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 257/2026 privind aprobarea asocierii între județul Giurgiu și municipiul Giurgiu în vederea executării unor lucrări de racordare la utilități aferente obiectivelor de investiții CAV 1 – Șoseaua Sloboziei și CAV 2 – Aleea Chimiei din cadrul proiectului „Înființarea a două centre de colectare a deșeurilor prin aport voluntar (CAV) în municipiul Giurgiu” întrunit în ședință ordinară",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.257-din-24.09.2026-cu-anexa.pdf",
+     "sha256": "a7fbdce2905f7ea85d039a00bde593d2be9bd1d25cc6ed8b5d8bd596c2a5f2af"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-258-2026",
+   "path": "local/judet/giurgiu/2026/258",
+   "short": "HCJ Giurgiu nr. 258/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 258/2026 privind rectificarea bugetului propriu de venituri și cheltuieli al Județului Giurgiu și a bugetului de venituri și cheltuieli al instituțiilor publice finanțate integral sau parțial din venituri proprii și subvenții pe anul 2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.258-din-24.09.2026-cu-anexe.pdf",
+     "sha256": "0d2bc2de3be893b24a7880782666783e2844e82fcb0b1c866b3901f56c9bf41d"
+    }
+   ]
+  },
+  {
    "slug": "hcj-giurgiu-259-2026",
    "path": "local/judet/giurgiu/2026/259",
    "short": "HCJ Giurgiu nr. 259/2026",
@@ -44,6 +2249,486 @@
      "units": 5,
      "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.259-din-24.09.2026.pdf",
      "sha256": "12fbd9bb669b5f71f3483c9f822f98bc3ce7095c9015a9cb5634e66b997f3c50"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-26-2026",
+   "path": "local/judet/giurgiu/2026/26",
+   "short": "HCJ Giurgiu nr. 26/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 26/2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.26-din-26.02.2026-cu-anexe.pdf",
+     "sha256": "b3cfd481a7a08797647e1b57dcf0d793ae4e7e93458c4e61037affa51dfb7cff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-260-2026",
+   "path": "local/judet/giurgiu/2026/260",
+   "short": "HCJ Giurgiu nr. 260/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 260/2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.260-din-24.09.2026-cu-anexa.pdf",
+     "sha256": "fc99fc493cb237595b2a295faafd0571ea9931ef6c14e14e8e8330ff6db2ff89"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-261-2026",
+   "path": "local/judet/giurgiu/2026/261",
+   "short": "HCJ Giurgiu nr. 261/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 261/2026 privind aprobarea asocierii județului Giurgiu cu Asociația Club Sportiv Alpha Fighters Academy în vederea organizării și desfășurării evenimentului sportiv de interes public județean „Alpha Fighters Tournament – Ediția a II-a”",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.261-din-24.09.2026-cu-anexa.pdf",
+     "sha256": "2ec01e5294c82e382c4601c0a67e4773b3f73c6f660ad30321349f2661a115d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-262-2026",
+   "path": "local/judet/giurgiu/2026/262",
+   "short": "HCJ Giurgiu nr. 262/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 262/2026 privind aprobarea asocierii județului Giurgiu cu Palatul Copiilor Giurgiu în vederea susținerii și promovării educației nonformale prin proiectul comunitar „STEAM Clubs”",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.262-din-24.09.2026-cu-anexa.pdf",
+     "sha256": "cc7ffa66694456bea927c95d8086a966f7104c2101591953004458d48229654d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-263-2026",
+   "path": "local/judet/giurgiu/2026/263",
+   "short": "HCJ Giurgiu nr. 263/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 263/2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.263-din-24.09.2026-cu-anexa.pdf",
+     "sha256": "d8e76f32b0cb65eab5298b432705c90bc2cc69882396b686969e5461bdffd5c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-264-2026",
+   "path": "local/judet/giurgiu/2026/264",
+   "short": "HCJ Giurgiu nr. 264/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 264/2026 privind aprobarea exploatării și repartizării masei lemnoase obținute din tăierea arborilor limitrofi drumurilor județene DJ 412A – Zona Ogrezeni, DJ 601A – Zona Joița, DJ 601 – Zona Bolintin Deal, Bolintin Vale, Crevedia Mare, Roata de Jos",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.264-din-24.09.2026-cu-anexa.pdf",
+     "sha256": "e35d8b96d007637772cebff5c1cc42921ac2655251eedd8d106286d2a59c539e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-265-2026",
+   "path": "local/judet/giurgiu/2026/265",
+   "short": "HCJ Giurgiu nr. 265/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 265/2026 privind rectificarea bugetului propriu de venituri și cheltuieli al Județului Giurgiu și a bugetului de venituri și cheltuieli al instituțiilor publice finanțate integral sau parțial din venituri proprii și subvenții pe anul 2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.265-din-09.10.2026-cu-anexe.pdf",
+     "sha256": "71ef7e9adb731e14a47cb48f5c871620c14a3de0377d7fc7ca04b8996ca2d1af"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-266-2026",
+   "path": "local/judet/giurgiu/2026/266",
+   "short": "HCJ Giurgiu nr. 266/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 266/2026 pentru aprobarea Convenției-cadru privind cooperarea tehnică și exercitarea atribuțiilor de specialitate în domeniul amenajării teritoriului, urbanismului și autorizării construcțiilor, în condițiile Legii nr.169/2026 și a cooperării tehnice cu unități administrativ-teritoriale din județul Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.266-din-09.10.2026-cu-anexe.pdf",
+     "sha256": "fbda7cb3d62dee33d7b006e4d9df9c34b0cb08c2923b3e4b74209cf6315510a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-267-2026",
+   "path": "local/judet/giurgiu/2026/267",
+   "short": "HCJ Giurgiu nr. 267/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 267/2026 privind aprobarea Actului adițional nr.4 la Contractul de asociere nr.25/1549/981/20.02.2024/22.02.2024 încheiat între județul Giurgiu, comuna Frătești și comuna Daia",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.267-din-09.10.2026-cu-anexa.pdf",
+     "sha256": "7a999374666455a8f8b85fd2e34604c0d4fcc4d99d0a35f42b49ab73a4bf5f70"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-268-2026",
+   "path": "local/judet/giurgiu/2026/268",
+   "short": "HCJ Giurgiu nr. 268/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 268/2026 privind aprobarea asocierii între județul Giurgiu și comuna Letca Nouă în vederea realizării obiectivului de investiții „Renovare clădire de utilitate publică, satul Letca Veche, comuna Letca Nouă, județul Giurgiu”",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.268-din-09.10.2026-cu-anexa.pdf",
+     "sha256": "140573d9c2b3c71ef1338c470961b13b23d773bf95c780d821e74a0d4aa2e81b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-269-2026",
+   "path": "local/judet/giurgiu/2026/269",
+   "short": "HCJ Giurgiu nr. 269/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 269/2026 privind aprobarea asocierii între județul Giurgiu, Direcția Județeană de Transport, Administrarea Drumurilor Județene și Control Trafic Giurgiu și comuna Izvoarele în scopul realizării lucrărilor de „Reparații prin pietruire DC 112, comuna Izvoarele, județul Giurgiu”",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.269-din-09.10.2026-cu-anexa.pdf",
+     "sha256": "b8cf28a1018b6bfb0950ff49120b8ba3564404b43aef664b25e2f56311349a56"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-27-2026",
+   "path": "local/judet/giurgiu/2026/27",
+   "short": "HCJ Giurgiu nr. 27/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 27/2026 privind încheierea unui contract de comodat între județul Giurgiu și municipiul Giurgiu, în calitate de Beneficiar, respectiv Liceul Tehnologic „Ion Barbu” Giurgiu, în calitate de Beneficiar final",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.27-din-26.02.2026-cu-anexe.pdf",
+     "sha256": "0be7309be4cb9f695a99d66171ca7f316a3b8f4bbadc69e423713375a4ce8487"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-270-2026",
+   "path": "local/judet/giurgiu/2026/270",
+   "short": "HCJ Giurgiu nr. 270/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 270/2026 privind preluarea temporară în administrarea județului Giurgiu, prin Consiliul Județean Giurgiu, a unor tronsoane ale drumului comunal DC 117 din comuna Stănești, în vederea realizării lucrărilor de modernizare întrunit în ședință extraordinară",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.270-din-09.10.2026-cu-anexe.pdf",
+     "sha256": "97c5c7ef4ad7780f8e988e76cd1bab2efeeed22c63c9b61de9c6b5f40e24adcf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-271-2026",
+   "path": "local/judet/giurgiu/2026/271",
+   "short": "HCJ Giurgiu nr. 271/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 271/2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.271-din-09.10.2026-cu-anexe.pdf",
+     "sha256": "8fb6ba7427920ed3eec98bedf39c07d21e9810a8b641e093bce3da94f299ee04"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-273-2026",
+   "path": "local/judet/giurgiu/2026/273",
+   "short": "HCJ Giurgiu nr. 273/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 273/2026 pentru modificarea Art.1 alin.(2) al Hotărârii Consiliului Județean Giurgiu nr.16/2022 privind trecerea în domeniul public al județului Giurgiu și în administrarea Consiliului Județean Giurgiu a unui imobil situat în intravilanul comunei Adunații Copăceni, sat Varlaam, județul Giurgiu CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară Având în vedere: - referatul de aprobare nr.21958 di",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.273-din-09.10.2026.pdf",
+     "sha256": "947a3474b52d15a9b60a1b7c2d4bba41f6c5402206a9ee2fb9fa9eaf02622105"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-274-2026",
+   "path": "local/judet/giurgiu/2026/274",
+   "short": "HCJ Giurgiu nr. 274/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 274/2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.274-din-26.10.2026-cu-anexa.pdf",
+     "sha256": "2ef02f4d98e6ccdcc7f5300f29cfb22d9743f20f697400a0f34efaaa6c6078f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-275-2026",
+   "path": "local/judet/giurgiu/2026/275",
+   "short": "HCJ Giurgiu nr. 275/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 275/2026 privind încheierea unui contract de comodat între județul Giurgiu și Inspectoratul de Poliție al județului Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.275-din-26.10.2026-cu-anexe.pdf",
+     "sha256": "93c458b65141564a7bfd358a83318a822455db17776119493f8883dcc0c833e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-276-2026",
+   "path": "local/judet/giurgiu/2026/276",
+   "short": "HCJ Giurgiu nr. 276/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 276/2026 privind aprobarea asocierii dintre județul Giurgiu și Camera de Comerț, Industrie și Agricultură Giurgiu în vederea organizării și desfășurării evenimentului „Gala Oamenilor de Afaceri din Giurgiu – Ediția I, 2026”",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.276-din-26.10.2026-cu-anexa.pdf",
+     "sha256": "7f54b0b2fc6ade4c452ced6dcbfd61d02e9882f5cb8b5960b536bafcdc743b55"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-277-2026",
+   "path": "local/judet/giurgiu/2026/277",
+   "short": "HCJ Giurgiu nr. 277/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 277/2026 privind aprobarea organigramei, statului de funcții și Regulamentului de organizare și funcționare ale Societății JUDSERV 2020 S.R.L",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.277-din-26.10.2026-cu-anexe.pdf",
+     "sha256": "2a6a97000159acf58253460b3ee7f2eaaa16596899a360280abb902fd5fafc6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-278-2026",
+   "path": "local/judet/giurgiu/2026/278",
+   "short": "HCJ Giurgiu nr. 278/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 278/2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.278-din-26.10.2026-cu-anexa.pdf",
+     "sha256": "019dce745ffd55b7914133c6f2a019649b12aa3e56a817251947a3173868b15b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-279-2026",
+   "path": "local/judet/giurgiu/2026/279",
+   "short": "HCJ Giurgiu nr. 279/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 279/2026 privind rectificarea bugetului propriu de venituri și cheltuieli al județului Giurgiu și a bugetului de venituri și cheltuieli al instituțiilor publice finanțate integral sau parțial din venituri proprii și subvenții pe anul 2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.279-din-29.10.2026-cu-anexe.pdf",
+     "sha256": "6ff6f293dcee244ca066f3aa4609eaa576c1f9a31195f7bdbb06eba568d3d4d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-28-2026",
+   "path": "local/judet/giurgiu/2026/28",
+   "short": "HCJ Giurgiu nr. 28/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 28/2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.28-din-26.02.2026-cu-anexe.pdf",
+     "sha256": "1c3dbefb5d2e093a6f1aa54f94ed01da0e0c70a6cc119554d7f0556d7ec77544"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-280-2026",
+   "path": "local/judet/giurgiu/2026/280",
+   "short": "HCJ Giurgiu nr. 280/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 280/2026 privind aprobarea execuției bugetului propriu de venituri și cheltuieli al județului Giurgiu pe trimestrul III 2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.280-din-29.10.2026-cu-anexe.pdf",
+     "sha256": "bcbae9903afd7d1e61b32a08a2f7c721813c50b926ccf786a1e0b65de4d18666"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-281-2026",
+   "path": "local/judet/giurgiu/2026/281",
+   "short": "HCJ Giurgiu nr. 281/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 281/2026 privind acordarea unor sprijine financiare",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.281-din-29.10.2026-cu-anexa.pdf",
+     "sha256": "454148a7c78b524230930870a213adb2772483b135bf699b139d3283fbfe500a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-282-2026",
+   "path": "local/judet/giurgiu/2026/282",
+   "short": "HCJ Giurgiu nr. 282/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 282/2026",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.282-din-29.10.2026-cu-anexe.pdf",
+     "sha256": "f07e5a2d513f241664c773ee0e2a8e3dd09d58ee0bed203e189b72ace0f773b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-283-2026",
+   "path": "local/judet/giurgiu/2026/283",
+   "short": "HCJ Giurgiu nr. 283/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 283/2026 privind aprobarea devizului general la finalizarea lucrărilor și a indicatorilor tehnico economici finali rezultați pentru obiectivul de investiții „Modernizare DJ505 GOGOȘARI, km 17+168 - km 17+932 (km 17+941), 0,773 km”",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.283-din-29.10.2026-cu-anexe.pdf",
+     "sha256": "081009ecd5df6e75ae48927b210ad1ebe881786afb9e7d1f5c7d39007109c62e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-284-2026",
+   "path": "local/judet/giurgiu/2026/284",
+   "short": "HCJ Giurgiu nr. 284/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 284/2026 privind modificarea statului de funcții al Centrului de Asistență Medico-Socială Mogoșești CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară Având în vedere: - referatul de aprobare nr.22116 din 09 octombrie 2026 al Președintelui Consiliului Județean Giurgiu; - raportul de specialitate nr.22117 din 09 octombrie 2026 al Compartimentului resurse umane, salarizare și coordonarea activității in",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.284-din-29.10.2026.pdf",
+     "sha256": "c0bce37eaff3a255591d74043ff29e2384a17c86a23767cae773fbe9dfdc35f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-285-2026",
+   "path": "local/judet/giurgiu/2026/285",
+   "short": "HCJ Giurgiu nr. 285/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 285/2026 privind aprobarea organigramei și a statului de funcții ale aparatului de specialitate al Consiliului Județean Giurgiu, cabinetul președintelui și cabinetele vicepreședinților Consiliului Județean Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.285-din-29.10.2026-cu-anexe.pdf",
+     "sha256": "2e286a463f212e6edc4ec5ea114870ac36078d9972dbdaf7af23b679aa845684"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-286-2026",
+   "path": "local/judet/giurgiu/2026/286",
+   "short": "HCJ Giurgiu nr. 286/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 286/2026 privind aprobarea organigramei și statului de funcții ale Teatrului „Tudor Vianu” Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.286-din-29.10.2026-cu-anexe.pdf",
+     "sha256": "14d57f589962af17a09a62c30a110b68a10a1741c115c0bdc1e2cfd6bd68b85e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-287-2026",
+   "path": "local/judet/giurgiu/2026/287",
+   "short": "HCJ Giurgiu nr. 287/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 287/2026 privind acordarea unui mandat reprezentanților județului Giurgiu în Adunarea Generală a Asociaților Societății JUDSERV 2020 S.R.L",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.287-din-29.10.2026-cu-anexe.pdf",
+     "sha256": "3eca42d770c3577bc3fad835db6ecc39ec4ff0fe326074b47bdb3344ecdef276"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-288-2026",
+   "path": "local/judet/giurgiu/2026/288",
+   "short": "HCJ Giurgiu nr. 288/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 288/2026 pentru modificarea Anexei la Hotărârea Consiliului Județean Giurgiu nr.264 din 24 septembrie 2026 privind aprobarea exploatării și repartizării masei lemnoase obținute din tăierea arborilor limitrofi drumurilor județene DJ 412A – Zona Ogrezeni, DJ 601A – Zona Joița, DJ 601 – Zona Bolintin Deal, Bolintin Vale, Crevedia Mare, Roata de Jos",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.288-din-29.10.2026-cu-anexa.pdf",
+     "sha256": "6e4b2a8a029f1d83e4d2e7b1952369f4922f38bc0641ed40d1d486895c118b76"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-289-2026",
+   "path": "local/judet/giurgiu/2026/289",
+   "short": "HCJ Giurgiu nr. 289/2026",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 289/2026 pentru utilizarea sumei de 240.000 lei pentru achiziționarea pachetelor acordate de",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.289-din-29.10.2026.pdf",
+     "sha256": "ff107faecca9f435831a371acc12d5bae42f2a5386a0b15c540ab4514db7a1b6"
     }
    ]
   },

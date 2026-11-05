@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/judet/galati/2023",
+ "acts": [
+  {
+   "slug": "hcj-galati-313-2023",
+   "path": "local/judet/galati/2023/313",
+   "short": "HCJ Galați nr. 313/2023",
+   "title": "Hotărârea Consiliului Județean Galați nr. 313/2023 privind aprobarea participării în cadrul „Programului privind îmbunătățirea calității aerului și reducerea cantității de emisii de gaze cu efect de seră, prin utilizarea pentru transportul elevilor a autovehiculelor mai puțin poluante de tipul microbuzelor electrice, hibride și alimentate cu gaz natural comprimat”, precum și a obligațiilor cu privire la implementarea proiectului „Asigurarea accesu",
+   "url": "https://cjgalati.ro/mongl/",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/MonitorOficial/mo15-040923.pdf",
+     "sha256": "0eb3fca6cb97e2af978e07b82dcf1fbf15530dfb0f7e838c3a50d2a1dc2c2834"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-38-2023",
+   "path": "local/judet/galati/2023/38",
+   "short": "HCJ Galați nr. 38/2023",
+   "title": "Hotărârea Consiliului Județean Galați nr. 38/2023 privind aprobarea Ghidului privind identificarea și selecția partenerilor relevanți în vederea constituirii Grupului județean de coordonare a tranziției la neutralitatea climatică la nivelul județului Galați 2021—2027 și a Regulamentului de organizare și funcționare a Grupului județean pentru coordonarea tranziției la neutralitatea climatică la nivelul județului Galați 2021—2027 ………………………………………………",
+   "url": "https://cjgalati.ro/mongl/",
+   "versions": [
+    {
+     "from": "2023-02-03",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/MonitorOficial/mo2-2023.pdf",
+     "sha256": "89f93ed9ffbecaf18dc9833f8e0c1c5fdc0418b81e9394b7680d7b6a8a8cf2be"
+    }
+   ]
+  }
+ ]
+}

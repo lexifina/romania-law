@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/dolj/2026",
+"acts": [
+{
+"slug": "hcj-dolj-620-2026",
+"path": "local/judet/dolj/2026/620",
+"kind": "local",
+"year": "2026",
+"number": "620",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Dolj nr. 620/2026 privind aprobarea modificării statului de funcții pentru Unitatea Medico Socială Amărăștii de Jos",
+"short": "HCJ Dolj nr. 620/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-07",
+"latest": "2026-10-07",
+"portal": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2026-00014CE6",
+"council": "judet/dolj",
+"council_name": "Consiliul Județean Dolj",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

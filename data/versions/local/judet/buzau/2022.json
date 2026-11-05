@@ -3,6 +3,426 @@
  "shard": "local/judet/buzau/2022",
  "acts": [
   {
+   "slug": "hcj-buzau-108-2022",
+   "path": "local/judet/buzau/2022/108",
+   "short": "HCJ Buzău nr. 108/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 108/2022 pentru stabilirea unui mandat special reprezentantului Județului Buzău în Adunarea Generală a Acționarilor la Societatea „Compania de Apă” SA Buzău pentru ședința ordinară din data de 22.05.2023",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2022-08-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/04/Hotararea-nr.108-din-2023.pdf",
+     "sha256": "6793eb8f51d4ac8360066b2364d3aa38205c5c55e762bc1d7f8ef54ce28798c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-109-2022",
+   "path": "local/judet/buzau/2022/109",
+   "short": "HCJ Buzău nr. 109/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 109/2022 pentru înlocuirea unor membri în componența Comisiei pentru Protecţia Copilului Buzău * Abrogată prin Hotărârea nr.212 din 2026",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-05-11",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/05/H-109.pdf",
+     "sha256": "89df260295ba3f3a61f98b9a8bac4841e1f4d265a8a1a904fb91467aaf903c40"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-116-2022",
+   "path": "local/judet/buzau/2022/116",
+   "short": "HCJ Buzău nr. 116/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 116/2022 pentru aprobarea formei actualizate a Documentației de atribuire a Contractelor de delegare a gestiunii Serviciului public de transport județean de persoane prin curse regulate, la nivelul Județului Buzău aprobată prin art.2 al Hotărârii Consiliului Județean Buzău nr. 256/2021 * Abrogată prin Hotărârea nr.161 din 2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-05-11",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/06/Hotararea-nr.116-din-2022.pdf",
+     "sha256": "94b1b23d5485a517f8d57952d7b76737ce37929c7035b19b0e2f476572443bec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-127-2022",
+   "path": "local/judet/buzau/2022/127",
+   "short": "HCJ Buzău nr. 127/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 127/2022 privind aprobarea utilizării în anul 2022 a excedentului anual al bugetului propriu al Județului Buzău rezultat la încheierea exercițiului bugetar la 31 decembrie 2021 – formă actualizată 2",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/06/H-127.pdf",
+     "sha256": "cb3beb07d7228a617e1f3eb1ee3624829dad8841c6857cd9cefe760a2ed38398"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-129-2022",
+   "path": "local/judet/buzau/2022/129",
+   "short": "HCJ Buzău nr. 129/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 129/2022 pentru aprobarea rectificării I a bugetului de venituri și cheltuieli pe anul 2022 al Centrului Școlar de Educație Incluzivă Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/06/H-129.pdf",
+     "sha256": "4c2b680977e77ec5c8cd89983bd0a7a7db66ec1da81307049c99b97cf5eb6d6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-130-2022",
+   "path": "local/judet/buzau/2022/130",
+   "short": "HCJ Buzău nr. 130/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 130/2022 pentru aprobarea rectificării I a bugetului de venituri și cheltuieli pe anul 2022 al Spitalului Județean de Urgență Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/06/H-130.pdf",
+     "sha256": "273eda497230bceeed5af2b8689188d9dddf337c71d68cb899729cbcf17ef679"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-131-2022",
+   "path": "local/judet/buzau/2022/131",
+   "short": "HCJ Buzău nr. 131/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 131/2022 pentru aprobarea rectificării I a bugetului de venituri și cheltuieli pe anul 2022 al Teatrului „George Ciprian” Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/06/H-131.pdf",
+     "sha256": "c3a5eef8e467d2782a0e9ae18a22ac7e3d3973a3c33fae85808aac1689ba9581"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-133-2022",
+   "path": "local/judet/buzau/2022/133",
+   "short": "HCJ Buzău nr. 133/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 133/2022 pentru aprobarea rectificării I a bugetului de venituri și cheltuieli pe anul 2022 al Societății „Domenii Prest Serv” SRL Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/06/H-133.pdf",
+     "sha256": "1d1b8c8ba9c2e21b745266c883df6f56ede1b4ceb84bd728ca993bf97ebcfc7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-134-2022",
+   "path": "local/judet/buzau/2022/134",
+   "short": "HCJ Buzău nr. 134/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 134/2022 privind aprobarea formei actualizate I a Programului anual de achiziții publice al Consiliului Județean Buzău pentru anul 2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/06/H-134.pdf",
+     "sha256": "8609aa58476d33d6d7cf77d5ddc7c7cf6626ddc0f27871b06fcb7cef638be1cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-135-2022",
+   "path": "local/judet/buzau/2022/135",
+   "short": "HCJ Buzău nr. 135/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 135/2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/06/H-135.pdf",
+     "sha256": "820eed0b7243a62468c0532065b060c768b3b306a2f5497e067f8d21e40b4f23"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-136-2022",
+   "path": "local/judet/buzau/2022/136",
+   "short": "HCJ Buzău nr. 136/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 136/2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/06/H-136.pdf",
+     "sha256": "a190eefcedfaf848d78dd235b5135a90fa3e1a8419a2d2d9f9abdec269bdde39"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-137-2022",
+   "path": "local/judet/buzau/2022/137",
+   "short": "HCJ Buzău nr. 137/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 137/2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/06/H-137.pdf",
+     "sha256": "2b5c0b64c91fe7e734bc6781036e185317db71eeeaf10108fd454ab0252b58f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-138-2022",
+   "path": "local/judet/buzau/2022/138",
+   "short": "HCJ Buzău nr. 138/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 138/2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/06/H-138.pdf",
+     "sha256": "dfaf6f97b668f02c0134833314b21a4058cecdf645eae50f35788e1e36771356"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-139-2022",
+   "path": "local/judet/buzau/2022/139",
+   "short": "HCJ Buzău nr. 139/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 139/2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/06/H-139.pdf",
+     "sha256": "25d10b9c393533bef2c382916e45a680a1865969fe927be55371b75a1d91f90c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-140-2022",
+   "path": "local/judet/buzau/2022/140",
+   "short": "HCJ Buzău nr. 140/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 140/2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/06/H-140.pdf",
+     "sha256": "bdc6ffbecf4f44e6f6c74dec5449540b5e0a83504f014eeb35f1a73617772c45"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-142-2022",
+   "path": "local/judet/buzau/2022/142",
+   "short": "HCJ Buzău nr. 142/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 142/2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/06/H-142.pdf",
+     "sha256": "25babce27eb0bd0b416134a11391bfba9dc6b79e1329693fb4d3cea2c8ef5263"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-145-2022",
+   "path": "local/judet/buzau/2022/145",
+   "short": "HCJ Buzău nr. 145/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 145/2022 pentru aprobarea rectificării a III-a a bugetului de venituri și cheltuieli pe anul 2022 al Direcției Generale de Asistență Socială și Protecția Copilului Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/06/H-132.pdf",
+     "sha256": "e84addf27c4094b1e79f8c28476756185e7ea29c7f54e8b0e209aaeb0f628d32"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-146-2022",
+   "path": "local/judet/buzau/2022/146",
+   "short": "HCJ Buzău nr. 146/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 146/2022 privind prelungirea prorogării termenului aprobat prin Hotărârea Consiliului Județean Buzău nr. 110 din 2022 pentru suspendarea aplicabilității Hotărârilor Consiliului Județean Buzău nr. 69 din 2022 și nr. 70/2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/06/H-146.pdf",
+     "sha256": "1a18e812c76f2dfe7054b1a48ad6ca22e11cf93ef55b07ad8d8be47d0093745c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-147-2022",
+   "path": "local/judet/buzau/2022/147",
+   "short": "HCJ Buzău nr. 147/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 147/2022 pentru aprobarea participării Consiliului Județean Buzău în parteneriat cu Asociația „Human Made Art” pentru organizarea și desfășurarea și în Geoparcul Internațional UNESCO „Ținutul Buzăului” a Campaniei „Cronicari Digitali” 2022 prin proiectul „Treasure Games in the Park”",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/06/H-147.pdf",
+     "sha256": "ea404db4a05c6b0dbda40b387743ed20222ce778867a86b831265d8eedbaa4db"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-148-2022",
+   "path": "local/judet/buzau/2022/148",
+   "short": "HCJ Buzău nr. 148/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 148/2022 pentru aprobarea Protocolului între Administrația Națională „Apele Române” prin Administrația Bazinală de Apă Buzău-Ialomița și Unitatea Administrativ-Teritorială – Județul Buzău, privind utilizarea terenurilor din domeniul public al apelor administrat de Administrația Națională „Apele Române” aferente executării lucrărilor pe DJ 203I, km. 0+100, DN 2B – Cilibia – Caragele, Județul Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/06/H-148.pdf",
+     "sha256": "95c5226337782dd6dba92e53862cb93e1a0b733fb9dce87d4477fdceca4e582c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-149-2022",
+   "path": "local/judet/buzau/2022/149",
+   "short": "HCJ Buzău nr. 149/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 149/2022 privind aprobarea solicitării dreptului de utilizare a unui teren din domeniul public al Statului și administrarea Administrației Naționale „Apele Române” pentru obiectivul de investiții „Consolidare zonă alunecătoare DJ 203L km. 23+300 – 23+675, comuna Pârscov, județul Buzău”",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/06/H-149.pdf",
+     "sha256": "d1a87ca9b26cebf349871c4a4f321b8cc6909c1cf5d89b7470e9d0ff281d9132"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-151-2022",
+   "path": "local/judet/buzau/2022/151",
+   "short": "HCJ Buzău nr. 151/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 151/2022 privind aprobarea Planului de Integritate la nivelul Consiliului Județean Buzău în scopul implementării Strategiei Naționale Anticorupție în perioada 2021-2025",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/06/H-151.pdf",
+     "sha256": "210782e8e8c8710cd5982a0e601013ed1018cb3793570c3192140bd8508ad939"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-152-2022",
+   "path": "local/judet/buzau/2022/152",
+   "short": "HCJ Buzău nr. 152/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 152/2022 pentru aparatul de specialitate al Consiliului judeţean Buzău – formă actualizată * Modificată prin Hotărârea nr.28 din 2022 ; Hotărârea nr. 68 din 2022 ; Hotărârea nr.111 din 2022 ; Hotărârea nr. 218 din 2022 ; Hotărârea nr.249 din 2022 * Anexa nr.2 este modificată prin Hotărârea nr.152 din 2022 * Abrogată prin Hotărârea nr.295 din 2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/06/H-152.pdf",
+     "sha256": "471190469cc9b579f3bdbf7bc2cfc81453a50736723f4e3dbfef7442faffadd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-153-2022",
+   "path": "local/judet/buzau/2022/153",
+   "short": "HCJ Buzău nr. 153/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 153/2022 pentru aprobarea formei actualizate a statului de funcții al Direcției Județene de Evidență a Persoanelor Buzău * Modificată prin Hotărârea nr. 219 din 2022 * Abrogată prin Hotărârea nr. 81 din 2023",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/06/H-153.pdf",
+     "sha256": "30f5cc307dc148dfe994f08e0c986e1d5e548cb51b5cb3851180b9b998d7f7b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-154-2022",
+   "path": "local/judet/buzau/2022/154",
+   "short": "HCJ Buzău nr. 154/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 154/2022 pentru Muzeul judeţean Buzău – formă actualizată * Modificată prin Hotărârea nr.154 din 2022 ; Hotărârea nr. 225 din 2022 ; Hotărârea nr.303 din 2022 , Hotărârea nr.194 din 2023 * Abrogată prin Hotărârea nr.276 din 2023 * Modificată prin Hotărârea nr.19 din 2024 * Abrogată prin Hotărârea nr.52 din 2024",
+   "url": "http://cjbuzau.ro/hotarari-cj-2021/",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/06/H-154.pdf",
+     "sha256": "a6823fc12c969017961afe2d900f02062c3a3057f7b1f87a67c62cb089279059"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-155-2022",
+   "path": "local/judet/buzau/2022/155",
+   "short": "HCJ Buzău nr. 155/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 155/2022 pentru aprobarea unor modificări în numărul total de posturi pe categorii, organigrama și statul de funcții ale Spitalului Județean de Urgență Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/06/H-155.pdf",
+     "sha256": "7e45dea4418f637a2639c9cd9b746efa7995d0011ae2412b698bee0bbfa13397"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-156-2022",
+   "path": "local/judet/buzau/2022/156",
+   "short": "HCJ Buzău nr. 156/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 156/2022 privind modificarea unor anexe la Monografia economico-militară a Județului Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/06/H-156.pdf",
+     "sha256": "f0429cf811d6b73bed38f80616412ca3ce3e77644886decc8129052e306d18b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-157-2022",
+   "path": "local/judet/buzau/2022/157",
+   "short": "HCJ Buzău nr. 157/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 157/2022 pentru revocarea/validarea unor membru de drept al Autorităţii Teritoriale de Ordine Publică a Judeţului Buzău * Modificată prin Hotărârea nr.128 din 2023 , Hotărârea nr.9 din 2024 , Hotărârea nr.132 din 2024 * Modificată prin Hotărârea nr. 230 din 2024",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/06/H-157.pdf",
+     "sha256": "bdc268d82653c93cdf847509285d98555af39a8e3a3361b1110b1d7a32d6b160"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-159-2022",
    "path": "local/judet/buzau/2022/159",
    "short": "HCJ Buzău nr. 159/2022",
@@ -18,6 +438,21 @@
    ]
   },
   {
+   "slug": "hcj-buzau-160-2022",
+   "path": "local/judet/buzau/2022/160",
+   "short": "HCJ Buzău nr. 160/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 160/2022 pentru modificarea capătului de traseu plecare a traseelor județene cod 109 Rm",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/06/H-160.pdf",
+     "sha256": "2f45d68f78395488b4709ae5b69cb2613b9928746b4279780ec6335fe1a1e56c"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-161-2022",
    "path": "local/judet/buzau/2022/161",
    "short": "HCJ Buzău nr. 161/2022",
@@ -29,6 +464,141 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/06/Hotararea-nr.161-din-2022.pdf",
      "sha256": "2e55254d8532b39c1bf1eada1b5c16aec4e7cbcbce69044cf1bbd261aad138b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-162-2022",
+   "path": "local/judet/buzau/2022/162",
+   "short": "HCJ Buzău nr. 162/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 162/2022 privind execuția bugetului propriu al județului Buzău pe trimestrul II 2022 pe cele două secțiuni",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/07/Hotararea-nr.162-din-2022.pdf",
+     "sha256": "04e6fa4158e3173767689a91b0b371bd7a514b1c79ad56c5d77b7f510c2bc253"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-163-2022",
+   "path": "local/judet/buzau/2022/163",
+   "short": "HCJ Buzău nr. 163/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 163/2022 pentru aprobarea rectificării a V-a a bugetului propriu al județului Buzău pe anul 2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/07/Hotararea-nr.163-din-2022.pdf",
+     "sha256": "62dd309548f7e930d54fa20e8e1ebe9042e1783eb97943457a1478676c4ca867"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-165-2022",
+   "path": "local/judet/buzau/2022/165",
+   "short": "HCJ Buzău nr. 165/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 165/2022 pentru aprobarea rectificării a II – a a bugetului de venituri și cheltuieli pe anul 2022 al Teatrului „George Ciprian” Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/07/Hotararea-nr.165-din-2022.pdf",
+     "sha256": "2ac3a89dd0769ef1be44f4ce64deac673ef95952bb24cc17a113eecae94ec7d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-166-2022",
+   "path": "local/judet/buzau/2022/166",
+   "short": "HCJ Buzău nr. 166/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 166/2022 pentru aprobarea rectificării a II – a a bugetului de venituri și cheltuieli pe anul 2022 al Muzeului Județean Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/07/Hotararea-nr.166-din-2022.pdf",
+     "sha256": "f399d2b429a3476823172c0c2ebe77e251f76f9d50c8956c8166604dfd02179f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-168-2022",
+   "path": "local/judet/buzau/2022/168",
+   "short": "HCJ Buzău nr. 168/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 168/2022 privind darea în administrarea Consiliului Local al comunei Țintești a unor tronsoane din drumurile județene DJ 203D și DJ 204D, situate în intravilanul satelor Maxenu și Țintești, comuna Țintești",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/07/Hotararea-nr.168-din-2022.pdf",
+     "sha256": "08465789dde3643957d6a2e1f7347f2d20a8ae29379ddc71a7f29b4ae54ad1b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-169-2022",
+   "path": "local/judet/buzau/2022/169",
+   "short": "HCJ Buzău nr. 169/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 169/2022 privind darea în administrarea Consiliului Local al comunei Poșta Câlnău a unui tronson din drumul județean DJ 220, situat în intravilanul comunei Poșta Câlnău * Abrogată prin Hotărârea nr.164 din 2025",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/07/Hotararea-nr.169-din-2022.pdf",
+     "sha256": "cbace900b6065fb6e2142e7eef523ebe8273bcb1c08dab3924aec754b1fd6a9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-170-2022",
+   "path": "local/judet/buzau/2022/170",
+   "short": "HCJ Buzău nr. 170/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 170/2022 privind aprobarea concesionării terenului aparținând domeniului privat al județului Buzău situat în, comuna Săgeata – punct Bentu, județul Buzău, prin licitație publică",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/08/Hotararea-nr.170-din-2022.pdf",
+     "sha256": "6bc3c4b5185e714da114e3852c07cc95b503af5d074fe91680183f6d9af4615d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-172-2022",
+   "path": "local/judet/buzau/2022/172",
+   "short": "HCJ Buzău nr. 172/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 172/2022 pentru aprobarea completării Hotărârii Consiliului Județean Buzău nr. 121/2022 privind aprobarea solicitării de trecere a unor bunuri imobile aflate în domeniul public al statului în domeniul public al Județului Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/07/Hotararea-nr.172-din-2022.pdf",
+     "sha256": "b7d09ee0bf559979ac63a84f705663d7a4b49425b81b652af81af371a39c455d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-174-2022",
+   "path": "local/judet/buzau/2022/174",
+   "short": "HCJ Buzău nr. 174/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 174/2022 pentru stabilirea unui mandat special reprezentantului Județului Buzău în Adunarea Generală a Acționarilor la Societatea „Compania de Apă” SA Buzău pentru ședințele ordinară, respectiv extraordinară din data de 04.08.2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/07/Hotararea-nr.174-din-2022.pdf",
+     "sha256": "e480e20122f6cd85cd4facb43c1df4dc3b1320bce6bc0b110444529ccc0260ec"
     }
    ]
   },
@@ -63,6 +633,1236 @@
    ]
   },
   {
+   "slug": "hcj-buzau-178-2022",
+   "path": "local/judet/buzau/2022/178",
+   "short": "HCJ Buzău nr. 178/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 178/2022 pentru elevii cu rezultate deosebite la examenele naționale de evaluare și Bacalaureat sesiunea 2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/07/Hotararea-nr.178-din-2022.pdf",
+     "sha256": "97853b5ebccde861ca5b07f494df440f51e354e6f5494209cfdd6620885f80d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-179-2022",
+   "path": "local/judet/buzau/2022/179",
+   "short": "HCJ Buzău nr. 179/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 179/2022 pentru aprobarea rectificării a VI-a a bugetului propriu al Județului Buzău pe anul 2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/08/H-179.pdf",
+     "sha256": "7704c8b03f5d2c77f86fff1c2c8ce49b1f2a1c90224de8139736829bfef5a0e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-180-2022",
+   "path": "local/judet/buzau/2022/180",
+   "short": "HCJ Buzău nr. 180/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 180/2022 pentru rectificarea I a bugetului de venituri și cheltuieli pe anul 2022 al Liceului Tehnologic Special pentru Copii cu Deficiențe Auditive Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/08/H-180.pdf",
+     "sha256": "573eb7371a4477ec654ae52d06cdff7fd9b37bbb3586fe5069a1caaa73656be0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-182-2022",
+   "path": "local/judet/buzau/2022/182",
+   "short": "HCJ Buzău nr. 182/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 182/2022 pentru rectificarea a V-a a bugetului de venituri și cheltuieli pe anul 2022 al Direcției Generale de Asistență Socială și Protecția Copilului Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/08/H-182.pdf",
+     "sha256": "1f5cd86f42f6718d9934ebe65057970e22b79f3dbada21d64ae49b6f8299d798"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-183-2022",
+   "path": "local/judet/buzau/2022/183",
+   "short": "HCJ Buzău nr. 183/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 183/2022 privind aprobarea participării în anul 2022 a Unității Administrativ Teritoriale – Județul Buzău în cadrul Programului de stimulare a înnoirii Parcului auto național 2020-2024 * Își încetează aplicabilitatea prin Hotărârea nr.274 din 2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/08/H-183.pdf",
+     "sha256": "4ed87aa53ba828fdab2f9e377040f2072ef446a0d08e5d101cb5ffba21a71db6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-184-2022",
+   "path": "local/judet/buzau/2022/184",
+   "short": "HCJ Buzău nr. 184/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 184/2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/08/H-184.pdf",
+     "sha256": "b0275da017fb193b1023d1c0edf97b0890c9b3ef87bb4bbe0d6e0d31afad1180"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-185-2022",
+   "path": "local/judet/buzau/2022/185",
+   "short": "HCJ Buzău nr. 185/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 185/2022 privind aprobarea cofinanțării participării unei delegații sportive a Clubului Sportiv „Ten Club Tenis” Buzău la competiția internațională 18 – 25 septembrie 2022, Chișinău, Republica Moldova",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/08/H-185.pdf",
+     "sha256": "624b777f9ed5f90b1ec94dea5eeeb7b9ad7f9fa8f1ae8e96db3e5beef6ab272d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-186-2022",
+   "path": "local/judet/buzau/2022/186",
+   "short": "HCJ Buzău nr. 186/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 186/2022 pentru aprobarea modificării suprafeței construite din imobilul proprietate publică a județului Buzău, situat în municipiul Buzău, Str",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/08/H-186.pdf",
+     "sha256": "19c3c17e9f84e802075f80e32d4a4b68bc44e65fb2aeef20929249571ce18aff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-187-2022",
+   "path": "local/judet/buzau/2022/187",
+   "short": "HCJ Buzău nr. 187/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 187/2022 pentru aprobarea constituirii unui drept de trecere în favoarea UAT – comuna Tisău, prin Consiliul Local Tisău, pentru unele sectoare de drum județean aflate în proprietatea publică a județului Buzău, în vederea realizării obiectivului de investiții „Înființare sistem inteligent de distribuție gaze naturale în satele Izvoru, Grăjdana, Haleș, Pădurenii, Strezeni, Tisău și Valea Sălciilor, aparținăt",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/08/H-187.pdf",
+     "sha256": "61b8dfa31eca1059c540613fbbb5f959fb9ee0618e2a5a9736758e951dc12436"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-188-2022",
+   "path": "local/judet/buzau/2022/188",
+   "short": "HCJ Buzău nr. 188/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 188/2022 pentru aprobarea organizării evaluării finale a managementului la Muzeul județean Buzău, Teatrul „George Ciprian” Buzău și Centrul Județean de Cultură și Artă Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/08/H-188.pdf",
+     "sha256": "fb54b8d352945f23f6e9349f80f642b2c6d1dcdb01b7eb82c5d649b8632c292a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-189-2022",
+   "path": "local/judet/buzau/2022/189",
+   "short": "HCJ Buzău nr. 189/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 189/2022 pentru aprobarea cooperării între Județul Buzău din România și Raionul Strășeni din Republica Moldova",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/08/H-189.pdf",
+     "sha256": "2effc7231e78163d115092becb9ea3176c916dbf33ad44da38ab16b9df46ae18"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-190-2022",
+   "path": "local/judet/buzau/2022/190",
+   "short": "HCJ Buzău nr. 190/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 190/2022 privind stabilirea cadrului general pentru acordarea de premii speciale elevilor din judeţul Buzău cu rezultate deosebite la olimpiadele şcolare naţionale şi internaţionale, precum şi celor cu performanțe în domeniul sportiv și cultural * Completată prin Hotărârea nr.158 din 2023",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/08/H-190.pdf",
+     "sha256": "6bc7bfeb0da2b5383c70e610f140d0ef9de542d253094705f13bf4d47f8aefbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-192-2022",
+   "path": "local/judet/buzau/2022/192",
+   "short": "HCJ Buzău nr. 192/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 192/2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/08/H-192.pdf",
+     "sha256": "1490a47e1fce6096fccbaa2d81aa396a8abb5864d6d23be13a512a71870c5b11"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-193-2022",
+   "path": "local/judet/buzau/2022/193",
+   "short": "HCJ Buzău nr. 193/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 193/2022 pentru rectificarea a IV-a a bugetului de venituri și cheltuieli pe anul 2022 al Direcției Generale de Asistență Socială și Protecția Copilului Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-07-08",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/07/Hotararea-nr.167-din-2022.pdf",
+     "sha256": "190b9e17019e0bae55b9edc4dbf2ccc6bfa3148c6f4fe76542fba79ef7136613"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-194-2022",
+   "path": "local/judet/buzau/2022/194",
+   "short": "HCJ Buzău nr. 194/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 194/2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/08/H-194.pdf",
+     "sha256": "1a92ba35388dab23b0d73f49891c0e903a12c89d81cfdf9adfd0717f5e74d3ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-195-2022",
+   "path": "local/judet/buzau/2022/195",
+   "short": "HCJ Buzău nr. 195/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 195/2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/08/H-195.pdf",
+     "sha256": "009422bcda9d394a06955e2ac7d8fdc0f448a356e723f67f64cb0a0c780bb334"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-196-2022",
+   "path": "local/judet/buzau/2022/196",
+   "short": "HCJ Buzău nr. 196/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 196/2022 privind aprobarea utilizării în anul 2022 a excedentului anual al bugetului propriu al Județului Buzău rezultat la încheierea exercițiului bugetar la 31 decembrie 2021 – formă actualizată 3",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/09/H-196.pdf",
+     "sha256": "0bdbece79fdb4f65c2b0ebfba5051265c45d5cbfd6708d99294462fbed1c0ca2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-197-2022",
+   "path": "local/judet/buzau/2022/197",
+   "short": "HCJ Buzău nr. 197/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 197/2022 pentru aprobarea rectificării a VII-a a bugetului propriu al Județului Buzău pe anul 2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/09/H-197.pdf",
+     "sha256": "66ffaf9f6f42f7b935e062610f00dcb1d19dfd7ab95b02d37a070236b0f77437"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-199-2022",
+   "path": "local/judet/buzau/2022/199",
+   "short": "HCJ Buzău nr. 199/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 199/2022 pentru aprobarea rectificării a II-a a bugetului de venituri și cheltuieli pe anul 2022 al Liceului Tehnologic Special pentru Copii cu Deficiențe Auditive Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/09/H-199.pdf",
+     "sha256": "6d7af8c1a71519e2d3af42b558817addba9f9575020b953ca822e739d82f2111"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-200-2022",
+   "path": "local/judet/buzau/2022/200",
+   "short": "HCJ Buzău nr. 200/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 200/2022 pentru aprobarea rectificării I a bugetului de venituri și cheltuieli pe anul 2022 al Liceului Special pentru Deficienți de Vedere Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/09/H-200.pdf",
+     "sha256": "810374df162ee9977dfa158f1ce1ac5e217dc8514d5a84a83f2a6566aecd551f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-201-2022",
+   "path": "local/judet/buzau/2022/201",
+   "short": "HCJ Buzău nr. 201/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 201/2022 pentru aprobarea rectificării a II-a a bugetului de venituri și cheltuieli pe anul 2022 al Centrului Școlar de Educație Incluzivă Rm. Sărat",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/09/H-201.pdf",
+     "sha256": "ed40e71e77382011c12b40640e06979fab44b8a698850c73c1b1e3cffe8f7d3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-202-2022",
+   "path": "local/judet/buzau/2022/202",
+   "short": "HCJ Buzău nr. 202/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 202/2022 pentru aprobarea rectificării a III-a a bugetului de venituri și cheltuieli pe anul 2022 al Spitalului Județean de Urgență Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/09/H-202.pdf",
+     "sha256": "349fb78420651b0dbb5757508d85ee72af3229be1a29ea8a89c0761fd60fdc0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-203-2022",
+   "path": "local/judet/buzau/2022/203",
+   "short": "HCJ Buzău nr. 203/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 203/2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/09/H-203.pdf",
+     "sha256": "371f9a891566bb2fff37041fc6decc9d111f6edad7eb1bc526041498e10518a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-205-2022",
+   "path": "local/judet/buzau/2022/205",
+   "short": "HCJ Buzău nr. 205/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 205/2022 pentru aprobarea rectificării a III-a a bugetului de venituri și cheltuieli pe anul 2022 al Muzeului Județean Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/09/H-205.pdf",
+     "sha256": "46c414445373a0f59ba918987110b77f82aaad5a8d62f582a4676373f49538bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-206-2022",
+   "path": "local/judet/buzau/2022/206",
+   "short": "HCJ Buzău nr. 206/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 206/2022 pentru aprobarea rectificării a VI-a a bugetului de venituri și cheltuieli pe anul 2022 al Direcției Generale de Asistență Socială și Protecția Copilului Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/09/H-206.pdf",
+     "sha256": "497995d7db994262b6ebb458514617967e14f5833b90c2b5a05bb1471cfd1b94"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-207-2022",
+   "path": "local/judet/buzau/2022/207",
+   "short": "HCJ Buzău nr. 207/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 207/2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/09/H-207.pdf",
+     "sha256": "476dcb1e2cac0ae5e5501522c8cad3ef5044fa8f54c228e537b4fc0dba2f8543"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-208-2022",
+   "path": "local/judet/buzau/2022/208",
+   "short": "HCJ Buzău nr. 208/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 208/2022 pentru stabilirea cuantumului burselor care se acordă elevilor cu cerințe educaționale speciale școlarizați în unitățile de învățământ preuniversitar special, în anul școlar 2022-2023",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/09/H-208.pdf",
+     "sha256": "221d47762e8f3cc150ba10d93331979443acb0c39f08ba4a3405f54f6dbd0beb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-209-2022",
+   "path": "local/judet/buzau/2022/209",
+   "short": "HCJ Buzău nr. 209/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 209/2022 pentru aprobarea formei actualizate a Planului de acțiune privind serviciile sociale administrate și finanțate din bugetul Județului Buzău pentru anul 2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/09/H-209.pdf",
+     "sha256": "757b026561d166db1a01963a38c298e552d0ffa6282a506635a933d5951e2d86"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-210-2022",
+   "path": "local/judet/buzau/2022/210",
+   "short": "HCJ Buzău nr. 210/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 210/2022 pentru stabilirea capacității de furnizare servicii specializate de către Căminul pentru persoane vârstnice Smeeni și a Centrului de reabilitare a persoanelor adulte cu dizabilități Stâlpu – unități de asistență socială din structura Direcției Generale de Asistență Socială și Protecția Copilului Buzău * Abrogată prin Hotărârea nr.173 din 2023",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/09/H-210.pdf",
+     "sha256": "90331addbf06189ebf3a83965a5b51e9cea346b6d22b4a5e2c9a8d7d5de7c0c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-211-2022",
+   "path": "local/judet/buzau/2022/211",
+   "short": "HCJ Buzău nr. 211/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 211/2022 privind însușirea Planului de acțiune în domeniul drogurilor la nivelul Județului Buzău 2022-2026",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/11/H-211.pdf",
+     "sha256": "2e06296fa6f53c8f9277941ddb11d2575fc08fc05fab2bbb3fe5c8038e358535"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-213-2022",
+   "path": "local/judet/buzau/2022/213",
+   "short": "HCJ Buzău nr. 213/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 213/2022 pentru aprobarea trecerii din proprietatea județului Buzău în domeniul public al Statului Român și în administrarea Ministerului Mediului, Apelor și Pădurilor prin Agenția Națională pentru Arii Naturale Protejate a clădirii Centrului de vizitare înscris în Cartea funciară nr.20614-C1 Chiojdu",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/09/H-213.pdf",
+     "sha256": "02903a8a16c5d9f75e47dd00482f7c6ae07353ae02c6ec647f7f39a2f8abb184"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-214-2022",
+   "path": "local/judet/buzau/2022/214",
+   "short": "HCJ Buzău nr. 214/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 214/2022 pentru aprobarea trecerii din proprietatea județului Buzău în domeniul public al Statului Român și în administrarea Ministerului Mediului, Apelor și Pădurilor prin Agenția Națională pentru Arii Naturale Protejate a clădirii Centrului de vizitare înscris în Cartea funciară nr.20542-C1 Gura Teghii",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/09/H-214.pdf",
+     "sha256": "0da605cbebcbae2e41473d0be772e559e5f75b4aa6ef1013dbdeba3516568c92"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-215-2022",
+   "path": "local/judet/buzau/2022/215",
+   "short": "HCJ Buzău nr. 215/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 215/2022 privind aprobarea documentației tehnico-economice – faza Documentație de Avizare a Lucrărilor de Intervenții – și a indicatorilor tehnico-economici ai obiectivului de investiții „Modernizare DJ 103 R, km 0+500-4+900, – Scorțeanca – Vintileanca, județul Buzău”",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/09/H-215.pdf",
+     "sha256": "cbab3a09b9960906c92e063b9df4620e854bd610dcf2d2bea70bd12cb3bee5f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-216-2022",
+   "path": "local/judet/buzau/2022/216",
+   "short": "HCJ Buzău nr. 216/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 216/2022 pentru aprobarea participării unei delegații a Consiliului Județean Buzău la „Festivalul Național al Mărului”, Republica Moldova – Soroca, 7-9 octombrie 2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/09/H-216.pdf",
+     "sha256": "2df43d3675e0e4de1eb453e87cbdd9b1542ad3c7e69546a32c4e3cb33201e8b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-217-2022",
+   "path": "local/judet/buzau/2022/217",
+   "short": "HCJ Buzău nr. 217/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 217/2022 privind acordarea unui mandat special reprezentantului Județului Buzău în Adunarea Generală a Asociaţiei de Dezvoltare Intercomunitară „Buzău 2008” să voteze aprobarea prelungirii Strategiei de dezvoltare a serviciului public de alimentare cu apă și canalizare pentru aria de operare-Județul Buzău 2016-2020",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/09/H-217.pdf",
+     "sha256": "7886c489ccfc916346652993cdd5b16fc56777c7046c8a20d750a0cd28ee57e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-218-2022",
+   "path": "local/judet/buzau/2022/218",
+   "short": "HCJ Buzău nr. 218/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 218/2022 privind aprobarea unei modificări în statul de funcţii al aparatului de specialitate al Consiliului Judeţean Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/09/H-218.pdf",
+     "sha256": "aabad8856f749e40fef6a79c14f7415f0d04720b0060198816c0adc7f2f64a53"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-219-2022",
+   "path": "local/judet/buzau/2022/219",
+   "short": "HCJ Buzău nr. 219/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 219/2022 pentru aprobarea unei modificări în statul de funcţii al Direcţiei Judeţene de Evidenţă a Persoanelor Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/09/H-219.pdf",
+     "sha256": "56f8cf45b7789a698bcad7a9d8d3c90878c594745ab35636cb7e4dcb180caedf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-220-2022",
+   "path": "local/judet/buzau/2022/220",
+   "short": "HCJ Buzău nr. 220/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 220/2022 pentru aprobarea unor modificări în organigrama și statul de funcții ale Spitalului Judeţean de Urgenţă Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/09/H-220.pdf",
+     "sha256": "51d41f75bd7ff5d2f34f37aa5403d5227df866e8988a8932823295731f6bc586"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-221-2022",
+   "path": "local/judet/buzau/2022/221",
+   "short": "HCJ Buzău nr. 221/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 221/2022 pentru aprobarea modificării Regulamentului de Organizare și Funcționare a Consiliului Tehnico-Economic din cadrul Consiliului Județean Buzău * Abrogată prin Hotărârea nr.294 din 2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/09/H-221.pdf",
+     "sha256": "db78a7b7d315c6c450d104d5306293534b4adc5dc3205c4d36e0e5fa1c710479"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-222-2022",
+   "path": "local/judet/buzau/2022/222",
+   "short": "HCJ Buzău nr. 222/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 222/2022 privind numirea administratorilor la Societatea „Domenii Prest Serv” SRL Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/09/H-222.pdf",
+     "sha256": "b5df5b91bb789dba83444af23c8fb54ab770da3bb5ef4676932c5e46f47be90d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-223-2022",
+   "path": "local/judet/buzau/2022/223",
+   "short": "HCJ Buzău nr. 223/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 223/2022 pentru aprobarea rectificării a II-a a bugetului de venituri și cheltuieli pe anul 2022 al Societății „Domenii Prest Serv” SRL Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/09/H-223.pdf",
+     "sha256": "ae92053fa83ddf3a95f4baaca2617d437063c87ac174bee4866ff5b312518811"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-225-2022",
+   "path": "local/judet/buzau/2022/225",
+   "short": "HCJ Buzău nr. 225/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 225/2022 pentru aprobarea modificării nivelului unui post vacant din statul de funcţii al Muzeului Județean Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/09/H-225.pdf",
+     "sha256": "63baa140c073900135f537e93372605d27bb31dc667fb8a7ea95464132abea24"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-226-2022",
+   "path": "local/judet/buzau/2022/226",
+   "short": "HCJ Buzău nr. 226/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 226/2022 privind darea în administrarea Consiliului Local al comunei Florica a unui tronson din drumul județean DJ 203C, aflat în administrarea Consiliului Judeţean Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/09/H-226.pdf",
+     "sha256": "a05febf5a580c7395a1849b1cd8c886e58107fb888a19494474520ba7dbbb9a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-227-2022",
+   "path": "local/judet/buzau/2022/227",
+   "short": "HCJ Buzău nr. 227/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 227/2022 pentru aprobarea rectificării a VIII-a a bugetului propriu al judeţului Buzău pe anul 2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/10/Hotararea-nr.227-din-2022.pdf",
+     "sha256": "8b54554f723ff21431dcd8d37cc3cf1b47dc63728700f3f424362570f99b8ca3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-229-2022",
+   "path": "local/judet/buzau/2022/229",
+   "short": "HCJ Buzău nr. 229/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 229/2022 privind rectificarea I a sumelor cu titlu de finanțări nerambursabile pentru cluburile sportive de drept public și privat, în cadrul Programului anual al finanțărilor nerambursabile de la bugetul propriu al județului Buzău pentru anul 2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/10/Hotararea-nr.229-din-2022.pdf",
+     "sha256": "ccf6dc80a02878401dfc7078099b8f4b3c54b3e578b3c6c6e9f2d41246cf8ab5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-230-2022",
+   "path": "local/judet/buzau/2022/230",
+   "short": "HCJ Buzău nr. 230/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 230/2022 privind darea în administrarea Consiliului Local al comunei Vernești a unor tronsoane din drumurile județene DJ 205 și DJ 100 H, situate în intravilanul comunei Vernești",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/10/Hotararea-nr.230-din-2022.pdf",
+     "sha256": "523aa4d133c361d98861f0c5f91da72b8256348859e1acc9f6844f21a630e661"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-231-2022",
+   "path": "local/judet/buzau/2022/231",
+   "short": "HCJ Buzău nr. 231/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 231/2022 privind darea în administrarea Consiliului Local al comunei Rușețu a unor tronsoane din drumurile județene DJ 214 A și DJ 203 N, situate în intravilanul comunei Rușețu",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/10/Hotararea-nr.231-din-2022.pdf",
+     "sha256": "56efc0ce1dc26d1fe5adbac7c4610334ea051151998b1c5b0517e039a9dd8fba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-233-2022",
+   "path": "local/judet/buzau/2022/233",
+   "short": "HCJ Buzău nr. 233/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 233/2022 privind execuţia bugetului propriu al Judeţului Buzău pe trimestrul III 2022 pe cele două secțiuni",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/10/H-233-din-2022.pdf",
+     "sha256": "d655c5de9c5ca3837214f520cf34f0634c5033be0c13c6c9cae22c32cd7a14d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-234-2022",
+   "path": "local/judet/buzau/2022/234",
+   "short": "HCJ Buzău nr. 234/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 234/2022 privind aprobarea utilizării în anul 2022 a excedentului anual al bugetului propriu al Județului Buzău rezultat la încheierea exercițiului bugetar la 31 decembrie 2021 – formă actualizată 4",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/10/H-234-din-2022.pdf",
+     "sha256": "a1bf8b7a7861c22176ffa6f76a4e5cd2efe8c10e6d43dcbe50093b8d3f28f05d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-235-2022",
+   "path": "local/judet/buzau/2022/235",
+   "short": "HCJ Buzău nr. 235/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 235/2022 pentru aprobarea rectificării a IX-a a bugetului propriu al Județului Buzău pe anul 2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/10/H-235-din-2022.pdf",
+     "sha256": "5596a89d64d54fca5e9357ea19c961999744233092f428f75fadcbeac0f8288c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-236-2022",
+   "path": "local/judet/buzau/2022/236",
+   "short": "HCJ Buzău nr. 236/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 236/2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/10/H-236-din-2022.pdf",
+     "sha256": "dba9b8f19aa247bd1fadbc7db8545df45ad58082be29d7184ad443a365dfeb7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-237-2022",
+   "path": "local/judet/buzau/2022/237",
+   "short": "HCJ Buzău nr. 237/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 237/2022 pentru aprobarea rectificării a IV-a a bugetului de venituri și cheltuieli pe anul 2022 al Muzeului Județean Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/10/H-237-din-2022.pdf",
+     "sha256": "c8903169cdc5b97e447b0071dcae441e59f62b313650f0cf8e2c58aafe1081f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-238-2022",
+   "path": "local/judet/buzau/2022/238",
+   "short": "HCJ Buzău nr. 238/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 238/2022 pentru stabilirea unor măsuri aferente desfășurării Workshop-ului Regional pentru Europa privind rolul centrelor de vizitare în siturile desemnate UNESCO, Buzău 7-10 noiembrie 2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/10/H-238-din-2022.pdf",
+     "sha256": "8ec3781ea95186b90be1cb55102a0aca3ce9111cd71c70bfbac945d3e91d55d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-239-2022",
+   "path": "local/judet/buzau/2022/239",
+   "short": "HCJ Buzău nr. 239/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 239/2022 privind repartizarea unor sume din bugetul propriu al Județului Buzău pe anul 2022 pentru unele unități de cult religios recunoscute în România",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/10/H-239-din-2022.pdf",
+     "sha256": "729d1066e9864be74d66eb948b2abafe6963124cd114ba8602af2969356ac65b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-240-2022",
+   "path": "local/judet/buzau/2022/240",
+   "short": "HCJ Buzău nr. 240/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 240/2022 pentru aprobarea parteneriatului dintre",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/10/H-240-din-2022.pdf",
+     "sha256": "884776e6c534a0f66ad07374ee151a3b44d3459aced6c75c0aae6d02addc6da4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-242-2022",
+   "path": "local/judet/buzau/2022/242",
+   "short": "HCJ Buzău nr. 242/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 242/2022 pentru aprobarea închirierii de către",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/10/H-242-din-2022.pdf",
+     "sha256": "ba17711da68985b95e52b64ae43933b2d095609966e52cc48d13a4d259eb48cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-244-2022",
+   "path": "local/judet/buzau/2022/244",
+   "short": "HCJ Buzău nr. 244/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 244/2022 privind aprobarea documentaţiei tehnico-economice – faza Documentaţie de Avizare a Lucrărilor de Intervenţii – şi a indicatorilor tehnico-economici ai obiectivului de investiţii „Modernizare DJ 202E, km 0+000-3+800, DN 202 (Râmnicu Sărat) – limita județ Vrancea, județul Buzău”",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/10/H-244-din-2022.pdf",
+     "sha256": "ae609119aa0a79f66fc9af695762cc3f1bd700a23cf08ef3f6edad7a529a1280"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-245-2022",
+   "path": "local/judet/buzau/2022/245",
+   "short": "HCJ Buzău nr. 245/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 245/2022 pentru aprobarea documentaţiei tehnico-economice, faza Documentație de Avizare a Lucrărilor de Intervenție și a indicatorilor tehnico-economici pentru obiectivul de investiţii „Reparație capitală pod peste pârâul Slănic pe DJ203K, km 80+000, localitatea Vintilă Vodă, județul Buzău”",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/10/H-245-din-2022.pdf",
+     "sha256": "b796d5774e88d1bc07197d6c8b735805a050249185c900e02c348929712e7bb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-246-2022",
+   "path": "local/judet/buzau/2022/246",
+   "short": "HCJ Buzău nr. 246/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 246/2022 privind actualizarea devizului general și reaprobarea indicatorilor tehnico-economici ai obiectivului de investiții „Reabilitare structurală și funcțională a Spitalului Județean de Urgență Buzău – Etapa I – Modernizare și extindere Bloc operator, str",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/10/H-246-din-2022.pdf",
+     "sha256": "a477edc0f3266f84579516275c8ef26b13e957faad08f0e06a23c7e2f013a9ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-247-2022",
+   "path": "local/judet/buzau/2022/247",
+   "short": "HCJ Buzău nr. 247/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 247/2022 pentru aprobarea Planului de restructurare a Centrului de Integrare prin Terapie Ocupațională Rm.Sărat din structura Direcției Generale de Asistență Socială și Protecția Copilului Buzău – formă revizuită * A rt.1 își încetează aplicabilitatea prin Hotărârea nr.46 din 2024",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/10/H-247-din-2022.pdf",
+     "sha256": "571818474f9916b96f3abafbd5b6dafeb030aa6fb480d563afd8270216b496b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-248-2022",
+   "path": "local/judet/buzau/2022/248",
+   "short": "HCJ Buzău nr. 248/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 248/2022 privind aprobarea trecerii din domeniul public în domeniul privat al județului Buzău a unor construcții anexe aferente unor bunuri imobile aflate în administrarea Direcției Generale de Asistență Socială și Protecția Copilului Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/10/H-248-din-2022.pdf",
+     "sha256": "8bcc09659786888ffa5992e2e8544aa5bf37ecfcf3f0c1dfd4d68c84e0881b7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-249-2022",
+   "path": "local/judet/buzau/2022/249",
+   "short": "HCJ Buzău nr. 249/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 249/2022 pentru aprobarea unor modificări în statul de funcţii al aparatului de specialitate al Consiliului Judeţean Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/10/H-249-din-2022.pdf",
+     "sha256": "5b3d9baf1bff431e0c7182e01a73fc6c1a4da9a7a895b97fc058bd6c6a48faad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-250-2022",
+   "path": "local/judet/buzau/2022/250",
+   "short": "HCJ Buzău nr. 250/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 250/2022 privind aprobarea modificării nivelului unor posturi din statul de funcţii al Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/10/H-250-din-2022.pdf",
+     "sha256": "133fa82407eb86182c21af93cc8bc6c535b30965417152f0081196c6a11c2f85"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-251-2022",
+   "path": "local/judet/buzau/2022/251",
+   "short": "HCJ Buzău nr. 251/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 251/2022 pentru aprobarea unor modificări în statul de funcții al Spitalului Judeţean de Urgenţă Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/10/H-251-din-2022.pdf",
+     "sha256": "07d367c4367ac8bbfc1f623991712aac76c25f17d1100773602aac214b77cdfb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-252-2022",
+   "path": "local/judet/buzau/2022/252",
+   "short": "HCJ Buzău nr. 252/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 252/2022 pentru aprobarea unor modificări în organigrama şi statul de funcţii ale Teatrului „George Ciprian” Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/10/H-252-din-2022.pdf",
+     "sha256": "b6535d65fbbefe23d20a1bfa106f36ea18cb9b8ff6cefb704aa5b980cf546e8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-253-2022",
+   "path": "local/judet/buzau/2022/253",
+   "short": "HCJ Buzău nr. 253/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 253/2022 pentru stabilirea măsurilor prealabile pentru înfiinţarea Serviciului Public Judeţean de Salvamont Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/10/H-253-din-2022.pdf",
+     "sha256": "b7c7c570a56f9682dd452ac9b709da31cf132af9c4440f225dca1776bf7dc02d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-254-2022",
+   "path": "local/judet/buzau/2022/254",
+   "short": "HCJ Buzău nr. 254/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 254/2022 pentru modificarea Hotărârii Consiliului Județean Buzău nr.171/2021 privind aprobarea promovării proiectului „Eficientizare energetică a clădirii administrative C3 din incinta imobilului situat în municipiul Buzău, bd",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/10/H-254-din-2022.pdf",
+     "sha256": "6b9b035f227175fe6f7ec2dae6af966e8c0cb799683dcaf2cdb4239ee18f6076"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-261-2022",
+   "path": "local/judet/buzau/2022/261",
+   "short": "HCJ Buzău nr. 261/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 261/2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/11/Hotararea-nr.261-din-2022.pdf",
+     "sha256": "a52eb497a070471aeb51faf9d1eade4057e9eb9409d97d3b2eafe8385c4263e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-262-2022",
+   "path": "local/judet/buzau/2022/262",
+   "short": "HCJ Buzău nr. 262/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 262/2022 pentru stabilirea baremelor de dotări specifice, a costurilor medii lunare de întreţinere şi a contribuţiilor lunare de întreținere datorate de persoanele adulte asistate în căminele pentru persoane vârstnice, centrele de abilitare şi reabilitare a persoanelor adulte cu handicap, precum și în centrul de asistenţă medico-socială, unităţi de asistenţă socială din structura Direcţiei Generale de Asis",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/11/Hotararea-nr.262-din-2022.pdf",
+     "sha256": "f886594aa172c64f115018994d844c6b3108a3e6511b410b797fb55500ea35a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-263-2022",
+   "path": "local/judet/buzau/2022/263",
+   "short": "HCJ Buzău nr. 263/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 263/2022 pentru aprobarea Convenției de asociere cu Fundația „Hope and Homes for Children” România în scopul închiderii Centrului Rezidențial pentru Copilul cu Handicap Sever nr. 8 Buzău * Modificată prin Hotărârea nr.275 din 2024",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/11/Hotararea-nr.263-din-2022.pdf",
+     "sha256": "0ec6ff9ddae5a8dd6875776d2802fc0fa45d77bcf04ec1765f20c9d239b41fbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-267-2022",
+   "path": "local/judet/buzau/2022/267",
+   "short": "HCJ Buzău nr. 267/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 267/2022 privind aprobarea constituirii unui drept de trecere în favoarea UAT – comuna Brădeanu, prin Consiliul Local Brădeanu, pentru unele sectoare din drumurile județene DJ 203D, DJ 102I și DJ 203C, aflate în proprietatea publică a județului Buzău și în administrarea Consiliului Județean Buzău, în vederea realizării obiectivului de investiții „Reabilitare și extindere sistem public de alimentare cu apă",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/11/Hotararea-nr.267-din-2022.pdf",
+     "sha256": "5300a81e1d4a6df0a5a62d4641a2e47254c63400f0479651c9ca82b689f18912"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-268-2022",
+   "path": "local/judet/buzau/2022/268",
+   "short": "HCJ Buzău nr. 268/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 268/2022 privind aprobarea constituirii unui drept de trecere (acces) în favoarea UAT – comuna Mărăcineni, prin Consiliul Local Mărăcineni, pentru un sector din drumul județean DJ 203K aflat în proprietatea publică a județului Buzău și în administrarea Consiliului Județean Buzău, în vederea realizării obiectivului de investiții „Înființare sistem de distribuție gaze naturale în satele Potoceni, Căpățânești",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/11/Hotararea-nr.268-din-2022.pdf",
+     "sha256": "419d433c3f450839db1e878b4772b3b85ac273b009c5372439c0212473ac69e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-269-2022",
+   "path": "local/judet/buzau/2022/269",
+   "short": "HCJ Buzău nr. 269/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 269/2022 pentru aprobarea organizării procedurii de achiziţie sectorială – negociere fără invitaţie prealabilă la o procedură concurenţială de ofertare pentru atribuirea contractelor de delegare a gestiunii serviciului public de transport, pe grupele de trasee din Programul judeţean de transport rutier de persoane prin curse regulate aferent judeţului Buzău, 2023-2028, urmare a nefinalizării procedurii de",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/11/Hotararea-nr.269-din-2022.pdf",
+     "sha256": "96a299eba91fe9fb5e0a5ef0a23390346cec66867866ccbfa75a0f9002200955"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-270-2022",
+   "path": "local/judet/buzau/2022/270",
+   "short": "HCJ Buzău nr. 270/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 270/2022 pentru aprobarea modificării nivelului unui post din statul de funcţii al Muzeului Județean Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/11/Hotararea-nr.270-din-2022.pdf",
+     "sha256": "75797a4eaf48dc6bd082d45dee71efd3ca047bf2f0cac789b5be8ae2352546c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-271-2022",
+   "path": "local/judet/buzau/2022/271",
+   "short": "HCJ Buzău nr. 271/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 271/2022 pentru aprobarea unor modificări în organigrama și statul de funcții ale Spitalului Judeţean de Urgenţă Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/11/Hotararea-nr.271-din-2022.pdf",
+     "sha256": "d0d75fb61cb8485e1b1d9b512b1074dad188605fc805123ba0d27396f9ec3364"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-272-2022",
+   "path": "local/judet/buzau/2022/272",
+   "short": "HCJ Buzău nr. 272/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 272/2022 pentru stabilirea unui mandat special reprezentantului Județului Buzău în Adunarea Generală a Acționarilor la Societatea „Compania de Apă” SA Buzău pentru ședințele ordinară, respectiv extraordinară din data de 05.12.2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/11/Hotararea-nr.272-din-2022.pdf",
+     "sha256": "6ccd48ebb287262163f047d182d2273f442ed4fcb8e686f5b08dcc0fbdcc5c7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-273-2022",
+   "path": "local/judet/buzau/2022/273",
+   "short": "HCJ Buzău nr. 273/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 273/2022 pentru aprobarea acordării de premii speciale unor tineri sportivi buzoieni la tenis de masă și dans sportiv",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/11/Hotararea-nr.273-din-2022.pdf",
+     "sha256": "a2ce31a79b75cae231f1824bb74a138d0680120742d6a23b4ec984341679eeeb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-275-2022",
+   "path": "local/judet/buzau/2022/275",
+   "short": "HCJ Buzău nr. 275/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 275/2022 pentru aprobarea participării Unității Administrativ -Teritoriale – Județul Buzău în parteneriat cu Unitatea Administrativ-Teritorială – Județul Prahova și Unitatea Administrativ-Teritorială – Județul Vrancea pentru promovarea și implementarea proiectului de înființare a traseului de cicloturism „Velo Valahia” în regiunea Prahova-Buzău-Vrancea în cadrul PNRR – Componenta 11 – Turism și Cultură, In",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/11/Hotararea-nr.275.pdf",
+     "sha256": "3a25db01ea2f9b6e1d286a55c53e3f41b4d4740c9342e2ea1326404723af65e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-276-2022",
+   "path": "local/judet/buzau/2022/276",
+   "short": "HCJ Buzău nr. 276/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 276/2022 privind execuția bugetului propriu al județului Buzău pe trimestrul IV 2022 pe cele două secțiuni",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/12/Hotararea-nr.276-din-2022.pdf",
+     "sha256": "569a90a2db98958f3ff528297d1a95b300ae9726af38a1a1ca5e611731b7fa43"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-277-2022",
+   "path": "local/judet/buzau/2022/277",
+   "short": "HCJ Buzău nr. 277/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 277/2022 privind repartizarea impozitului pe venit încasat suplimentar pe anul 2022 corespunzător cotei de 6% reprezentând fondul constituit la dispoziția Consiliului Județean",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/12/Hotararea-nr.277-din-2022.pdf",
+     "sha256": "e3f7e11a91d660192edc628d606036d0511c99b8d3c1047e7886a7a61a5f5c00"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-278-2022",
+   "path": "local/judet/buzau/2022/278",
+   "short": "HCJ Buzău nr. 278/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 278/2022 privind aprobarea utilizării în anul 2022 a excedentului anual al bugetului propriu al județului Buzău rezultat la încheierea exercițiului bugetar la 31 decembrie 2021 – formă actualizată 5",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/12/Hotararea-nr.278-din-2022.pdf",
+     "sha256": "cee5d969d4e54a9da6e860cdf3748efe29f4ae2cffa998aedc9eee3536d68a9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-280-2022",
+   "path": "local/judet/buzau/2022/280",
+   "short": "HCJ Buzău nr. 280/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 280/2022 pentru aprobarea rectificării a IV-a a bugetului de venituri și cheltuieli pe anul 2022 al Spitalului Județean de Urgență Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/12/Hotararea-nr.280-din-2022.pdf",
+     "sha256": "411260c3256d9654a1b3fc6b0a3515168f37d7ca5be98e30e6ae6560dfc2bbee"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-282-2022",
    "path": "local/judet/buzau/2022/282",
    "short": "HCJ Buzău nr. 282/2022",
@@ -89,6 +1889,396 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/12/Hotararea-nr.283-din-2022.pdf",
      "sha256": "c634aa22cc20e1e5d22857723eb079d09de22d3b0d6124e285bfcaa4e070e3cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-284-2022",
+   "path": "local/judet/buzau/2022/284",
+   "short": "HCJ Buzău nr. 284/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 284/2022 pentru rectificarea a VII-a a bugetului de venituri și cheltuieli pe anul 2022 al Direcției Generale de Asistență Socială și Protecția Copilului Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/10/Hotararea-nr.228-din-2022.pdf",
+     "sha256": "d27e26f82dd2fa344428c16701f4c477162296b8feb2a88ca37786319fbc5d27"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-285-2022",
+   "path": "local/judet/buzau/2022/285",
+   "short": "HCJ Buzău nr. 285/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 285/2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/12/Hotararea-nr.285-din-2022-m.pdf",
+     "sha256": "448228d6baf9a3a94e271d18e30333f8f85abf2ef3ab1a2969389b888e3b48d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-287-2022",
+   "path": "local/judet/buzau/2022/287",
+   "short": "HCJ Buzău nr. 287/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 287/2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/12/Hotararea-nr.287-din-2022.pdf",
+     "sha256": "ca14d5c0f07d634fb2401804875c84b2788e3c9ad33a59d68967474a5e3ce59b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-288-2022",
+   "path": "local/judet/buzau/2022/288",
+   "short": "HCJ Buzău nr. 288/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 288/2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/12/Hotararea-nr.288-din-2022.pdf",
+     "sha256": "d16a282e03e3e7af9d13bab1f19db7a29a45cc160c5a822dce3ba43aff21b6d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-289-2022",
+   "path": "local/judet/buzau/2022/289",
+   "short": "HCJ Buzău nr. 289/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 289/2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/12/Hotararea-nr.289-din-2022.pdf",
+     "sha256": "77ab9c9ff06ba6c054a6722069724d6b2e86530c873ddfe5fce0af32eb4417c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-290-2022",
+   "path": "local/judet/buzau/2022/290",
+   "short": "HCJ Buzău nr. 290/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 290/2022 pentru aprobarea dării în folosința gratuită a Inspectoratului Județean de Poliție Buzău a unei suprafețe construite suplimentare din imobilul situat în municipiul Buzău str",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/12/Hotararea-nr.290-din-2022.pdf",
+     "sha256": "7a6d5fc4e2baf6069e656b2548a531e1893e405346d20adc50dc0ab3a331781d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-291-2022",
+   "path": "local/judet/buzau/2022/291",
+   "short": "HCJ Buzău nr. 291/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 291/2022 pentru aprobarea documentației tehnico-economice, faza Documentație de Avizare a Lucrărilor de Intervenție și a indicatorilor tehnico-economici pentru obiectivul de investiții „Reabilitare pod peste pârâul Sărățel pe DJ 102F km. 8+900, satul Policiori – extravilan – comuna Scorțoasa”, județul Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/12/Hotararea-nr.291-din-2022.pdf",
+     "sha256": "2254dda20d59efd6b37943de2c460712fa7c65c25a9007e694966a3518b4b3ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-292-2022",
+   "path": "local/judet/buzau/2022/292",
+   "short": "HCJ Buzău nr. 292/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 292/2022 privind reaprobarea indicatorilor tehnico-economici și constituirea rezervei de implementare pentru obiectivul de investiții „Extinderea și dotarea Unității de Primiri Urgențe a Spitalului Județean de Urgență Buzău * Abrogată prin Hotărârea nr.102 din 2023",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/12/Hotararea-nr.292-din-2022.pdf",
+     "sha256": "e47bb34bfab86c2cb3c12722ce129f7b0b37ae16b971ca1c3004e7ca10840214"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-293-2022",
+   "path": "local/judet/buzau/2022/293",
+   "short": "HCJ Buzău nr. 293/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 293/2022 privind aprobarea Protocolului-cadru al colaborării Consiliului Județean Buzău cu unele Unități Administrativ-Teritoriale pentru înființarea de Centre Comunitare Integrate",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/12/Hotararea-nr.293-din-2022.pdf",
+     "sha256": "0cf9df011d7f2756ef4b8ff17764304918e21cba8b51730c034967661ded8b12"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-294-2022",
+   "path": "local/judet/buzau/2022/294",
+   "short": "HCJ Buzău nr. 294/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 294/2022 privind aprobarea formei actualizate a Regulamentului de organizare și funcționare al Consiliului Tehnico-Economic (CTE) din cadrul Consiliului Județean Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/12/Hotararea-nr.294-din-2022-1.pdf",
+     "sha256": "23b3d073224d2ab0f9203a7b331e88581797d5eb884115f10a31d18d833c1e5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-295-2022",
+   "path": "local/judet/buzau/2022/295",
+   "short": "HCJ Buzău nr. 295/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 295/2022 privind aprobarea numărului de personal, a numărului de funcţii publice, a organigramei şi statului de funcţii pentru aparatul de specialitate al Consiliului judeţean Buzău – formă actualizată * Modificată prin Hotărârea nr.77/2023 * Modificată prin Hotărârea nr.181 din 2023 * Abrogată prin Hotărârea nr. 291/2023 * Anexa nr.2 modificată prin Hotărârea nr.112 din 2024",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/12/Hotararea-nr.295-din-2022.pdf",
+     "sha256": "713883bc1bfa98962c74f0af61dbaaf8b85e47df68dae9919659d03465cba9d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-296-2022",
+   "path": "local/judet/buzau/2022/296",
+   "short": "HCJ Buzău nr. 296/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 296/2022 pentru aprobarea numărului de personal, organigramei şi statului de funcţii pentru Centrul Judeţean de Cultură şi Artă Buzău – formă actualizată * Modificată prin Hotărârea nr.50 din 2023 ; Hotărârea nr.150 din 2023 , Hotărârea nr.241 din 2023 * Abrogată prin Hotărârea nr.279 din 2023 * Modificată prin Hotărârea nr.89 din 2024 * Anexa nr.2 modificată prin Hotărârea nr.113 din 2024",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/12/Hotararea-nr.296-din-2022.pdf",
+     "sha256": "22a75705274529547043e3bfe571b248cec1ab015af4bcf58dd85bdf3b16509f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-297-2022",
+   "path": "local/judet/buzau/2022/297",
+   "short": "HCJ Buzău nr. 297/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 297/2022 pentru funcționarii publici și personalul contractual din aparatul de specialitate al Consiliului Județean Buzău – familia ocupațională „Administrație” – forma actualizată conform Codului administrativ * Se completează prin Hotărârea nr. 175/2020 * Abrogată prin Hotărârea nr.297 din 2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/12/Hotararea-nr.297-din-2022.pdf",
+     "sha256": "69e76acf08b83354cab1fc86ed31ae3e5727fa3edcd1395a0a90139717c9e04c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-298-2022",
+   "path": "local/judet/buzau/2022/298",
+   "short": "HCJ Buzău nr. 298/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 298/2022 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din aparatul de specialitate al Direcției Județene de Evidență a Persoanelor Buzău – familia ocupațională „Administrație” * Abrogată prin Hotărârea nr.308 din 2023",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/12/Hotararea-nr.298-din-2022.pdf",
+     "sha256": "412ead0c1fc1bddf9189e47117ce7f50b60f80acf61c6a07d1aa7c30716dc7ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-299-2022",
+   "path": "local/judet/buzau/2022/299",
+   "short": "HCJ Buzău nr. 299/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 299/2022 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din aparatul de specialitate al Direcției Generale de Asistență Socială și Protecția Copilului Buzău – familia ocupațională „Administrație” * Completată prin Hotărârea nr. 297/2023 * Abrogată prin Hotărârea nr.307 din 2023",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/12/Hotararea-nr.299-din-2022.pdf",
+     "sha256": "c6d849412e65049327549d8f9078c8283eab9f2427a54fe03b734e19ae032e99"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-301-2022",
+   "path": "local/judet/buzau/2022/301",
+   "short": "HCJ Buzău nr. 301/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 301/2022 privind validarea Dispoziției Președintelui Consiliului Judeţean Buzău nr. 345 pentru stabilirea unei măsuri în aplicarea prevederilor Hotărârii Consiliului Județean Buzău nr. 269/2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/12/Hotararea-nr.301-din-2022.pdf",
+     "sha256": "a47aa00ad900b3e05cb05acec1d2f733a18f825391dcd1fbd10d0383cfc65f15"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-302-2022",
+   "path": "local/judet/buzau/2022/302",
+   "short": "HCJ Buzău nr. 302/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 302/2022 pentru completarea Hotărârii Consiliului Județean Buzău nr. 275/2022 pentru aprobarea participării Unității Administrativ-Teritoriale – Județul Buzău în parteneriat cu Unitatea Administrativ-Teritorială – Județul Prahova și Unitatea Administrativ-Teritorială – Județul Vrancea pentru promovarea și implementarea proiectului de înființare a traseului de cicloturism „Velo Valahia” în regiunea Prahova",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/12/H-302.pdf",
+     "sha256": "7920a04e12925f61162b1a8a674b2604b1414306bf3ebbc4675052b3a64942c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-303-2022",
+   "path": "local/judet/buzau/2022/303",
+   "short": "HCJ Buzău nr. 303/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 303/2022 pentru aprobarea modificării nivelului unui post din statul de funcţii al Muzeului Județean Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/12/Hotararea-nr.303-din-2022.pdf",
+     "sha256": "a395c6b003b39825317b283b1e034e8661df3881d2304eaef6b4c8c066bffe08"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-304-2022",
+   "path": "local/judet/buzau/2022/304",
+   "short": "HCJ Buzău nr. 304/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 304/2022 pentru aprobarea formei inițiale a Programului Anual de Achiziţii Publice al Consiliului Judeţean Buzău pentru anul 2023",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/12/Hotararea-nr.304-din-2022.pdf",
+     "sha256": "c3d95caa546886e5586ba67a59b36519cec9ce3c171e462e633f7c71c02e3edc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-305-2022",
+   "path": "local/judet/buzau/2022/305",
+   "short": "HCJ Buzău nr. 305/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 305/2022 pentru aprobarea formei inițiale a Programului Anual de Achiziţii Sectoriale al Consiliului Judeţean Buzău pentru anul 2023",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/12/Hotararea-nr.305-din-2022.pdf",
+     "sha256": "966a2310b8e60d3bd362d634ebfe339943c5b3880bc4c1ce82aa3bdc6eb051d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-306-2022",
+   "path": "local/judet/buzau/2022/306",
+   "short": "HCJ Buzău nr. 306/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 306/2022 pentru aprobarea rectificării a XII-a a bugetului propriu al Județului Buzău pe anul 2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-12-23",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/12/Hotararea-nr.306.pdf",
+     "sha256": "8b181ac82e9feefd1bb805bbd26e3b1669d7db6de14c4edee7ca00720de66936"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-323-2022",
+   "path": "local/judet/buzau/2022/323",
+   "short": "HCJ Buzău nr. 323/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 323/2022 pentru rectificarea a III-a a bugetului de venituri și cheltuieli pe anul 2022 al Liceului Tehnologic Special pentru Copii cu Deficiențe Auditive Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/11/Hotararea-nr.256-din-2022.pdf",
+     "sha256": "4097bffe0a069d1cf4ae0c944aff748a15267328571b848ce9f85c65a38877b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-324-2022",
+   "path": "local/judet/buzau/2022/324",
+   "short": "HCJ Buzău nr. 324/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 324/2022 pentru rectificarea a VIII-a a bugetului de venituri și cheltuieli pe anul 2022 al Direcției Generale de Asistență Socială și Protecția Copilului Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/11/Hotararea-nr.260-din-2022.pdf",
+     "sha256": "5889a6acf3986fddd1101852f498f4aff1eda98df5045e0191631d57f26162e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-332-2022",
+   "path": "local/judet/buzau/2022/332",
+   "short": "HCJ Buzău nr. 332/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 332/2022 pentru aprobarea rectificării a X-a a bugetului propriu al județului Buzău pe anul 2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/11/Hotararea-nr.255-din-2022.pdf",
+     "sha256": "a43340bf867d991d86a2f88381e685e7579ebe3c2c27d7bf2e419e6c1cd03f35"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-349-2022",
+   "path": "local/judet/buzau/2022/349",
+   "short": "HCJ Buzău nr. 349/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 349/2022 pentru rectificarea a IX-a a bugetului de venituri și cheltuieli pe anul 2022 al Direcției Generale de Asistență Socială și Protecția Copilului Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/12/Hotararea-nr.281-din-2022.pdf",
+     "sha256": "1b47ed5e75f3b4d316d2ed9c3fee0ce227d9d190416cda2c207b15b07f35744a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-561-2022",
+   "path": "local/judet/buzau/2022/561",
+   "short": "HCJ Buzău nr. 561/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 561/2022 pentru rectificarea a X-a a bugetului de venituri și cheltuieli pe anul 2022 al Direcției Generale de Asistență Socială și Protecția Copilului Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/12/Hotararea-nr.308.pdf",
+     "sha256": "c7b4bc98408f5b24be63b99ec7d91a34d1cb20acd05ec5dc6cd3bb2b5694e265"
     }
    ]
   }

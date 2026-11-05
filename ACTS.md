@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12450 acts, 23,965 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12452 acts, 23,967 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8346, of which 3135 amending acts)
+## Laws (legi) (8347, of which 3136 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -626,6 +626,7 @@
 | Legea nr. 52/1999 privind aprobarea Ordonanţei Guvernului nr. 46/1998 pentru stabilirea unor măsuri în vederea îndeplinirii obligaţiilor asumate de România prin aderarea la Convenţia internaţionala EUROCONTROL privind cooperarea pentru securitatea navigaţiei aeriene şi la Acordul multilateral privind tarifele de ruta aeriană | [`lege/1999/52/`](lege/1999/52/) | amended, not consolidated | 1 | 1999-04-13 | 1999-04-13 |
 | Legea nr. 54/1999 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 19/1998 privind rectificarea bugetului asigurărilor sociale de stat pe anul 1998 | [`lege/1999/54/`](lege/1999/54/) | amended, not consolidated | 1 | 1999-04-20 | 1999-04-20 |
 | Legea nr. 64/1999 pentru aprobarea Ordonanţei Guvernului nr. 70/1997 privind controlul fiscal | [`lege/1999/64/`](lege/1999/64/) | amended, not consolidated | 1 | 1999-04-21 | 1999-04-21 |
+| Legea nr. 69/1999 pentru aprobarea Ordonanţei Guvernului nr. 28/1999 de ratificare a Acordului-cadru de împrumut dintre România şi Fondul de Dezvoltare Socială al Consiliului Europei pentru sprijinirea regiunilor afectate de inundaţiile din ultima perioadă, semnat la Paris la 19 ianuarie 1999 | [`lege/1999/69/`](lege/1999/69/) | amending act | 1 | 1999-05-05 | 1999-05-05 |
 | Legea nr. 72/1999 privind reînfiinţarea comunelor Costineşti şi Horia din judeţul Constanţa | [`lege/1999/72/`](lege/1999/72/) | amended, not consolidated | 1 | 1999-05-05 | 1999-05-05 |
 | Legea nr. 74/1999 pentru ratificarea Cartei sociale europene revizuite, adoptată la Strasbourg la 3 mai 1996 | [`lege/1999/74/`](lege/1999/74/) | amended, not consolidated | 1 | 1999-05-04 | 1999-05-04 |
 | Legea nr. 75/1999 pentru aderarea României la Tratatul de la Budapesta privind recunoaşterea internaţionala a depozitului de microorganisme în scopul procedurii de brevetare, semnat la 28 aprilie 1977 şi modificat la 26 septembrie 1980 | [`lege/1999/75/`](lege/1999/75/) | amended, not consolidated | 1 | 1999-05-13 | 1999-05-13 |
@@ -8384,7 +8385,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (2922, of which 672 amending acts)
+## Emergency ordinances (OUG) (2923, of which 673 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8476,6 +8477,7 @@
 | Ordonanța de urgență a Guvernului nr. 52/1999 privind asigurarea unui cadru unitar pentru managementul proiectelor finanțate prin împrumuturi externe contractate sau garantate de stat, rambursabile sau nerambursabile, inclusiv privind plata specialiștilor români care își desfășoară activitatea în cadrul unităților de management de proiect | [`oug/1999/52/`](oug/1999/52/) | in force | 5 | 1999-04-29 | 2021-08-13 |
 | Ordonanța de urgență a Guvernului nr. 54/1999 privind asigurarea unor facilități furnizorilor de îngrășăminte chimice și de uz fitosanitar | [`oug/1999/54/`](oug/1999/54/) | in force | 2 | 1999-04-30 | 2000-06-06 |
 | Ordonanța de urgență a Guvernului nr. 58/1999 | [`oug/1999/58/`](oug/1999/58/) | in force | 1 | 1999-04-30 | 1999-04-30 |
+| Ordonanța de urgență a Guvernului nr. 59/1999 pentru aprobarea scutirii de la plata taxei pe valoarea adăugată a unor instalaţii şi echipamente importate, care concura la înzestrarea Ministerului Apărării Naţionale | [`oug/1999/59/`](oug/1999/59/) | amending act | 1 | 1999-05-07 | 1999-05-07 |
 | Ordonanța de urgență a Guvernului nr. 62/1999 | [`oug/1999/62/`](oug/1999/62/) | in force | 2 | 1999-05-14 | 2002-01-25 |
 | Ordonanța de urgență a Guvernului nr. 63/1999 | [`oug/1999/63/`](oug/1999/63/) | in force | 16 | 1999-05-17 | 2022-07-23 |
 | Ordonanța de urgență a Guvernului nr. 64/1999 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 51/1998 privind unele măsuri premergătoare privatizării băncilor | [`oug/1999/64/`](oug/1999/64/) | amended, not consolidated | 1 | 1999-05-20 | 1999-05-20 |
@@ -12516,7 +12518,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 28366 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 28387 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |
@@ -12532,4 +12534,4 @@
 | Anti-discrimination council decisions (CNCD) | 2315 | [`data/acts/cncd/`](data/acts/cncd/) |
 | Data protection authority decisions and sanction notices (ANSPDCP) | 375 | [`data/acts/anspdcp/`](data/acts/anspdcp/) |
 | Technical rules for construction (normative tehnice) | 291 | [`data/acts/normativ-tehnic/`](data/acts/normativ-tehnic/) |
-| Local acts (decisions of local and county councils) | 33053 | [`data/acts/local/`](data/acts/local/) |
+| Local acts (decisions of local and county councils) | 34553 | [`data/acts/local/`](data/acts/local/) |

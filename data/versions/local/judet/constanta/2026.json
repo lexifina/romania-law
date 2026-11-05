@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/judet/constanta/2026",
+ "acts": [
+  {
+   "slug": "hcj-constanta-144-2026",
+   "path": "local/judet/constanta/2026/144",
+   "short": "HCJ Constanța nr. 144/2026",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 144/2026 privind aprobarea declansarii procedurilor de expropriere a imobilelor proprietate privata ce urmeaza a fi afectate de lucrarile de utilitate publica de interes judetean ,,Extinderea si modernizarea capacitatii Spitalului Clinic Judetean de Urgenta ,,Sfantul Apostol Andrei” Constanta prin infiintarea Unitatii de Primiri Urgente si Ambulatoriu Stomatologie, precum si prin infiintarea unui Centru de",
+   "url": "https://www.cjc.ro/sectiune.php?s=49",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/Hotarari/2026/144.pdf",
+     "sha256": "95e375fdf2a88a47cde3636b3c543fcd6c273621b92a377ec5428fbb87103a16"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-167-2026",
+   "path": "local/judet/constanta/2026/167",
+   "short": "HCJ Constanța nr. 167/2026",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 167/2026",
+   "url": "https://www.cjc.ro/sectiune.php?s=286",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/Hotarari/2026/167.pdf",
+     "sha256": "ba219187676a4f7705a6f0c29668d54dc58ac7af4d3554ad0da39e2baa292dc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-19-2026",
+   "path": "local/judet/constanta/2026/19",
+   "short": "HCJ Constanța nr. 19/2026",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 19/2026 privind aprobarea Raportului anual aferent anului 2025 cu privire la stadiul masurilor prevazute in Planul de Mentinere a Calitatii Aerului in Judetul Constanta, perioada 2024 – 2028",
+   "url": "https://www.cjc.ro/sectiune.php?s=57",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/anunturi/PMCA/07_HCJ_19_din_05.02.2026_cu_Raport.pdf",
+     "sha256": "43a1a4eae3036637e69d7a0ba5df9b861f5d1d355ba1fed4181e94e202ec1f58"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-8-2026",
+   "path": "local/judet/constanta/2026/8",
+   "short": "HCJ Constanța nr. 8/2026",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 8/2026",
+   "url": "https://www.cjc.ro/sectiune.php?s=286",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/Hotarari/2026/8.pdf",
+     "sha256": "9ec255b9855eb0a4c3ec98573e09a66560f964420bc67ee98577405f090159c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-9-2026",
+   "path": "local/judet/constanta/2026/9",
+   "short": "HCJ Constanța nr. 9/2026",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 9/2026 privind modificarea Hotărârii Consiliului Județean Constanța nr. 251/27.10.2025",
+   "url": "https://www.cjc.ro/sectiune.php?s=286",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/Hotarari/2026/9.pdf",
+     "sha256": "b9b3a19ef32b35311ff5b65a54a47fc4b9df2c878d6a06c6e7ced5c38bcb8e90"
+    }
+   ]
+  }
+ ]
+}

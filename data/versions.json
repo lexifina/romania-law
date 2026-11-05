@@ -186833,6 +186833,21 @@
    ]
   },
   {
+   "slug": "legea-69-1999",
+   "path": "lege/1999/69",
+   "short": "Legea nr. 69/1999",
+   "title": "Legea nr. 69/1999 pentru aprobarea Ordonanţei Guvernului nr. 28/1999 de ratificare a Acordului-cadru de împrumut dintre România şi Fondul de Dezvoltare Socială al Consiliului Europei pentru sprijinirea regiunilor afectate de inundaţiile din ultima perioadă, semnat la Paris la 19 ianuarie 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18031",
+   "versions": [
+    {
+     "from": "1999-05-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18031",
+     "sha256": "64026aa5aba4b1d3b7416a9d9dd7587ac7a6704fb04425eb044bf7734a172cfd"
+    }
+   ]
+  },
+  {
    "slug": "legea-69-2001",
    "path": "lege/2001/69",
    "short": "Legea nr. 69/2001",
@@ -243100,6 +243115,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16602",
      "sha256": "abe1a9a1995f84ae0f36899aea3158c7be7fd12bfe87df32942ea668922878d7"
+    }
+   ]
+  },
+  {
+   "slug": "oug-59-1999",
+   "path": "oug/1999/59",
+   "short": "OUG nr. 59/1999",
+   "title": "Ordonanța de urgență a Guvernului nr. 59/1999 pentru aprobarea scutirii de la plata taxei pe valoarea adăugată a unor instalaţii şi echipamente importate, care concura la înzestrarea Ministerului Apărării Naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18092",
+   "versions": [
+    {
+     "from": "1999-05-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18092",
+     "sha256": "b77bda8dc143373c480b4909d1f8b16f1ad72311a30bc289f9b3cfa5bf14c732"
     }
    ]
   },

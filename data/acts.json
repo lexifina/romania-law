@@ -10032,6 +10032,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/17906"
 },
 {
+"slug": "legea-69-1999",
+"path": "lege/1999/69",
+"kind": "lege",
+"year": "1999",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 69/1999 pentru aprobarea Ordonanţei Guvernului nr. 28/1999 de ratificare a Acordului-cadru de împrumut dintre România şi Fondul de Dezvoltare Socială al Consiliului Europei pentru sprijinirea regiunilor afectate de inundaţiile din ultima perioadă, semnat la Paris la 19 ianuarie 1999",
+"short": "Legea nr. 69/1999",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1999-05-05",
+"latest": "1999-05-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/18031"
+},
+{
 "slug": "legea-72-1999",
 "path": "lege/1999/72",
 "kind": "lege",
@@ -143395,6 +143412,23 @@
 "from": "1999-04-30",
 "latest": "1999-04-30",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/18060"
+},
+{
+"slug": "oug-59-1999",
+"path": "oug/1999/59",
+"kind": "oug",
+"year": "1999",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 59/1999 pentru aprobarea scutirii de la plata taxei pe valoarea adăugată a unor instalaţii şi echipamente importate, care concura la înzestrarea Ministerului Apărării Naţionale",
+"short": "OUG nr. 59/1999",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1999-05-07",
+"latest": "1999-05-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/18092"
 },
 {
 "slug": "oug-62-1999",

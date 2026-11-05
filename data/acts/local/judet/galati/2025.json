@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/galati/2025",
+"acts": [
+{
+"slug": "hcj-galati-1-2025",
+"path": "local/judet/galati/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Galați nr. 1/2025 privind utilizarea în anul 2025 a sumei de 65.000.000 lei din excedentul cumulat al anilor precedenți pentru acoperirea temporară a golurilor de casă ……..................................................... 2 Unitatea administrativ–teritorială județul Galați — Monitorul Oficial Local nr. 1 din ianuarie 2025 HOTĂRÂREA NR. 1 din 10 ianuarie 2025 privind: utilizarea în anul 2025 a sumei de 65.000.000",
+"short": "HCJ Galați nr. 1/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-10",
+"latest": "2025-01-10",
+"portal": "https://cjgalati.ro/mongl/",
+"council": "judet/galati",
+"council_name": "Consiliul Județean Galați",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

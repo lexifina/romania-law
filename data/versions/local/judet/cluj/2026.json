@@ -3,6 +3,126 @@
  "shard": "local/judet/cluj/2026",
  "acts": [
   {
+   "slug": "hcj-cluj-102-2026",
+   "path": "local/judet/cluj/2026/102",
+   "short": "HCJ Cluj nr. 102/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 102/2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/07/02738525-102_9_modif-hcjc-250_2024_ind.-teh.-ec.-obiectiv-investitii-sp.-recuperare.pdf",
+     "sha256": "b905c3dffc5af37a1722e58197ba1d86b6df76445d3536aa34331ad8478c5a1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-105-2026",
+   "path": "local/judet/cluj/2026/105",
+   "short": "HCJ Cluj nr. 105/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 105/2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjcluj.ro/hotarare-cjc/2026/06",
+     "sha256": "0baa3d4c53570bfa7776703e876a0125c510358b405d1332e510b93e1e77da6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-106-2026",
+   "path": "local/judet/cluj/2026/106",
+   "short": "HCJ Cluj nr. 106/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 106/2026 privind alocarea unor sume din fondul de rezervă al bugetului local al Județului Cluj în anul 2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/07/78dd4eeb-106_12a_suplimentare-alocare-sume-fond-de-rezerva.pdf",
+     "sha256": "2da173aa28f782789ee26e51393f6dd5e9867a39bcdfc68eb8b308a624d0ca38"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-107-2026",
+   "path": "local/judet/cluj/2026/107",
+   "short": "HCJ Cluj nr. 107/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 107/2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjcluj.ro/hotarare-cjc/2026/06",
+     "sha256": "f844093a8f2d0c842e831bd9754243621cb4043bd6da16bd24520247da428eab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-111-2026",
+   "path": "local/judet/cluj/2026/111",
+   "short": "HCJ Cluj nr. 111/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 111/2026 privind aprobarea contului de execuție al bugetului general propriu al Județului Cluj la 30 iunie 2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/07",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/07/13877d43-111_3_aprobare-cont-de-executie-30.06.2026.pdf",
+     "sha256": "dbce0c6f19b9b817164c1f8bbed08e65044e0baab97674d8529eb19c9f769b41"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-115-2026",
+   "path": "local/judet/cluj/2026/115",
+   "short": "HCJ Cluj nr. 115/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 115/2026 privind rectificarea bugetului general propriu al Județului Cluj pe anul 2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/07",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/07/e75068ac-115_7_rectificare-buget.pdf",
+     "sha256": "ebb4252734ec9a4cc53f389fb73008304646456fb620ed797fc36f47064dbd6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-116-2026",
+   "path": "local/judet/cluj/2026/116",
+   "short": "HCJ Cluj nr. 116/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 116/2026 privind aprobarea Bugetului de venituri și cheltuieli pe anul 2026, rectificat, al societății Compania de Apă Someș S.A",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/07",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/07/b893e244-116_8_bvc-rectificat-compania-de-apa-somes.pdf",
+     "sha256": "cb5067f02f38483181342b013c0d3d0bec7d8f31b09411d469ba23d9d3c3fbff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-119-2026",
+   "path": "local/judet/cluj/2026/119",
+   "short": "HCJ Cluj nr. 119/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 119/2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/07",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://cjcluj.ro/hotarare-cjc/2026/07",
+     "sha256": "c6736a677876a647a24a07dd7c15175de2ff40858124fa44f417c28816cfacfb"
+    }
+   ]
+  },
+  {
    "slug": "hcj-cluj-12-2026",
    "path": "local/judet/cluj/2026/12",
    "short": "HCJ Cluj nr. 12/2026",
@@ -14,6 +134,921 @@
      "units": 1,
      "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/02/97bdcd31-12_1_restrictii-de-tonaj-si-viteza-drumuri.pdf",
      "sha256": "f3af1db08ca40f3de7aa688b77a61d2d45700e5ba93cc6a6c73280b3f043eb51"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-120-2026",
+   "path": "local/judet/cluj/2026/120",
+   "short": "HCJ Cluj nr. 120/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 120/2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/07",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/07/6426a5b0-120_9c_suplimentare-modif-hcjc-106_2026_fond-de-rezerva_.pdf",
+     "sha256": "bd7bffc7f568955af0d00d402ac8506011699bb51c82763cbb94540c448c5f56"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-121-2026",
+   "path": "local/judet/cluj/2026/121",
+   "short": "HCJ Cluj nr. 121/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 121/2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 1,
+     "source_url": "https://cjcluj.ro/hotarare-cjc/2026/08",
+     "sha256": "82b9396cb7594cf3458506049da4e493d10244431fe68bb37fc473836daa0903"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-123-2026",
+   "path": "local/judet/cluj/2026/123",
+   "short": "HCJ Cluj nr. 123/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 123/2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://cjcluj.ro/hotarare-cjc/2026/08",
+     "sha256": "9c8c6ccdd1f0adc6b68a054b088ebb8b278b2c062f9a16bc5ec3438fdcf57c42"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-127-2026",
+   "path": "local/judet/cluj/2026/127",
+   "short": "HCJ Cluj nr. 127/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 127/2026 pentru modificarea Hotărârii Consiliului Județean Cluj nr. 143/2008 privind însușirea Inventarului bunurilor care alcătuiesc domeniul public al Județului Cluj, republicată",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/09/f1a4af9c-127_4_modif-143-2008-inventar-dom-public-cmid.pdf",
+     "sha256": "ae2968a2341876ed5110d9d97c9ed34dc542277f7bc09d3ab99f5ad78dc0d83c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-128-2026",
+   "path": "local/judet/cluj/2026/128",
+   "short": "HCJ Cluj nr. 128/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 128/2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/09/99c31cfe-128_5_modif-hcj-107-2026-organigrama-biblioteca-judeteana-octavian-goga.pdf",
+     "sha256": "5855f2d50e4726932b89e94aae23a4f7b2ae6888bf01b79cbce4c37a67108893"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-13-2026",
+   "path": "local/judet/cluj/2026/13",
+   "short": "HCJ Cluj nr. 13/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 13/2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/02",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjcluj.ro/hotarare-cjc/2026/02",
+     "sha256": "67852057ed577d5132d87fd53ecb4f40a3e041509fbba3a2639d353cc3b34450"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-132-2026",
+   "path": "local/judet/cluj/2026/132",
+   "short": "HCJ Cluj nr. 132/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 132/2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/09/925830ea-132_9_modif-hcj-68-din-2026-program-de-drumuri.pdf",
+     "sha256": "56ff4781cbae7b2b5d144904c944f90d0a4a5c411a805e1ab17f87c63c0f443b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-134-2026",
+   "path": "local/judet/cluj/2026/134",
+   "short": "HCJ Cluj nr. 134/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 134/2026 privind alocarea unor sume din fondul de rezervă al bugetului local al Județului Cluj în anul 2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/09/dba6b9c8-134_9b_suplimentare_alocare_fond-de-rezerva.pdf",
+     "sha256": "f98ef417c8caba7729fb1ac010a6d6c08ace2db80bb141f461a96a9b9e4372ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-144-2026",
+   "path": "local/judet/cluj/2026/144",
+   "short": "HCJ Cluj nr. 144/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 144/2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/2/",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/10/49cbdd0b-144_4_modif-hcjc-226_2025_organigrama-si-stat-de-functii-sp.-infectioase.pdf",
+     "sha256": "ca8dfe768b05fe0023d060b38d146393e79a20429333668930de1a1414b3f183"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-145-2026",
+   "path": "local/judet/cluj/2026/145",
+   "short": "HCJ Cluj nr. 145/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 145/2026 pentru modificarea Hotărârii Consiliului Județean Cluj nr. 110/2024 privind aprobarea Organigramei, a Statului de funcții și a Regulamentului de organizare și funcționare pentru Muzeul Etnografic al Transilvaniei",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/09",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/10/1ac9049d-145_5_modif-hcjc-110_2024_stat-de-functii-muzeu-etnografic.pdf",
+     "sha256": "97871ef0b289901ae3aa979edb81d64e11225119ebdabc69cd748752f56b8a64"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-146-2026",
+   "path": "local/judet/cluj/2026/146",
+   "short": "HCJ Cluj nr. 146/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 146/2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/09",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/10/51acfc31-146_6_modif-hcjc-46_2014_organigrama-si-stat-de-functii-aeroport.pdf",
+     "sha256": "12106e02170e1cdf65a6782ba7ef451e050151aeee50c38f2d1b79cc160b8613"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-147-2026",
+   "path": "local/judet/cluj/2026/147",
+   "short": "HCJ Cluj nr. 147/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 147/2026 privind trecerea din domeniul public în domeniul privat al Județului Cluj a unei construcții aflate în administrarea Consiliului Județean Cluj",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/09",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/10/4decbff3-147_7_trecere-din-dom-public-in-dom-privat-imobil-str.-traian-vuia.pdf",
+     "sha256": "83aee5dd0b276dba513ac48dd3771f06bc9ae0fb9d2871a1f4b9b9ece5e24fbf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-152-2026",
+   "path": "local/judet/cluj/2026/152",
+   "short": "HCJ Cluj nr. 152/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 152/2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/09",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/10/812a9e23-152_12_modif-hcjc-70_2025_validare-membru-atop_sef-ipj.pdf",
+     "sha256": "2bc45cec516a69e834b9c4fc23869a5af4d578fa4bec0647278efe22d9eed0a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-156-2026",
+   "path": "local/judet/cluj/2026/156",
+   "short": "HCJ Cluj nr. 156/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 156/2026 privind alocarea unor sume din fondul de rezervă al bugetului local al Județului Cluj în anul 2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/09",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/10/3f0604bb-156_12d_suplimentare-fond-de-rezerva.pdf",
+     "sha256": "ec788a64ed607e6752a0599701e1f0f13b880bf10ea18d1df984d0134a50518d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-157-2026",
+   "path": "local/judet/cluj/2026/157",
+   "short": "HCJ Cluj nr. 157/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 157/2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/09",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/10/37060620-157_12e_suplimentare-completare-hcj-67_2026_nominalizare-sume-federatie-dans.pdf",
+     "sha256": "42669930745c1fe4c8b739a30d644b9ae2e0fbb0d58a9b524d8ddec37e4e71f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-159-2026",
+   "path": "local/judet/cluj/2026/159",
+   "short": "HCJ Cluj nr. 159/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 159/2026 privind constituirea și organizarea Comisiei de Acord Unic (CAU) a Județului Cluj",
+   "url": "https://cjcluj.ro/hotarare-cjc/",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/10/679e06b4-159_12h_suplimentare-constituirea-comisiei-de-acord-unic-cau.pdf",
+     "sha256": "5e82dea54584b1ae58a27ceb9bb8461bcfd8155d36bc11c343986af442ffe18b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-161-2026",
+   "path": "local/judet/cluj/2026/161",
+   "short": "HCJ Cluj nr. 161/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 161/2026 privind aprobarea Proiectului „CLUJANA REGIONAL INNOVATION HUB”, a Studiului de prefezabilitate și a cheltuielilor legate de proiect",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/10/8eea0024-161_3_clujana-hub.pdf",
+     "sha256": "e9af2bf380a555f21c33e049fdae04d8637dfa5e977d26ecb3a4a6beca6da7ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-162-2026",
+   "path": "local/judet/cluj/2026/162",
+   "short": "HCJ Cluj nr. 162/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 162/2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjcluj.ro/hotarare-cjc/2026/10",
+     "sha256": "25fae22819a0ea3e6185d72a1d6659dd10b26522997bf69f646ff13798612b6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-163-2026",
+   "path": "local/judet/cluj/2026/163",
+   "short": "HCJ Cluj nr. 163/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 163/2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/10/79ab2eca-163_1_org-stat-de-functii-rof-spit.-borsa_.pdf",
+     "sha256": "522476c145c69cec1d9ab95c3d20999ccc5c1e25261e034948b342d67e933adf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-164-2026",
+   "path": "local/judet/cluj/2026/164",
+   "short": "HCJ Cluj nr. 164/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 164/2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/10/0d00278d-164_2_org-stat-de-functii-rof-spit.-pneumo.pdf",
+     "sha256": "b93d27151aef7cf3211d1809a87085cb74dd708f7784d31c4b2f22f4cd6692e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-165-2026",
+   "path": "local/judet/cluj/2026/165",
+   "short": "HCJ Cluj nr. 165/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 165/2026 privind aprobarea contului de execuție al bugetului general propriu al Județului Cluj la 30 septembrie 2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/10/b1b35a64-165_3_aprobare-cont-de-executie-30.09.2026.pdf",
+     "sha256": "34ffea6da63a2495b386c570e01418deb20b14620a55ef1476c8a5fd5bada7a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-166-2026",
+   "path": "local/judet/cluj/2026/166",
+   "short": "HCJ Cluj nr. 166/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 166/2026 privind aprobarea Proiectului “Pod peste râul Someșul Mic, pe DJ161D, km 9+007, în localitatea Mănăstirea” și a indicatorilor tehnico-economici aferenți acestuia",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/10/2dc6f537-166_4_pod-raul-somesu-mic-dj-161d.pdf",
+     "sha256": "0046c5dbc3c06fe0c5df9da4c19575970a0cf39dc2c17a2813b83502fbc495e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-167-2026",
+   "path": "local/judet/cluj/2026/167",
+   "short": "HCJ Cluj nr. 167/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 167/2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjcluj.ro/hotarare-cjc/2026/10",
+     "sha256": "45944e964ce6dcdd80b5d7d042e0949d0cbb3973a20ecb3a75ed7ad4ff853528"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-169-2026",
+   "path": "local/judet/cluj/2026/169",
+   "short": "HCJ Cluj nr. 169/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 169/2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/10/80105c3b-169_7a_suplimentare-modif-si-compl-hcjc-71_2026_cost-mediu-lunar-copii-dgaspc.pdf",
+     "sha256": "65ef79281b1a90261b339cad23e051c2d4daf029e1bd4e630354e541effca9f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-170-2026",
+   "path": "local/judet/cluj/2026/170",
+   "short": "HCJ Cluj nr. 170/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 170/2026 privind rectificarea bugetului general propriu al Județului Cluj pe anul 2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/10/60f31b81-170_7b_suplimentare-rectificare-buget.pdf",
+     "sha256": "02eb6b2dc9b31cb860075f14765c68e06bccc4eeb96f41df7f07ff4ee6163964"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-171-2026",
+   "path": "local/judet/cluj/2026/171",
+   "short": "HCJ Cluj nr. 171/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 171/2026 privind alocarea unor sume din fondul de rezervă al bugetului local al Județului Cluj în anul 2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/10/3c15c0f5-171_7c_suplimentare-alocare-sume-fond-de-rezerva.pdf",
+     "sha256": "2e44195b819a0f96e4cd89f409bf478ad9526c5abfca63dbd9403a1a2e370181"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-21-2026",
+   "path": "local/judet/cluj/2026/21",
+   "short": "HCJ Cluj nr. 21/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 21/2026 privind desemnarea reprezentanților Consiliului Județean Cluj în Comisia Județeană pentru Incluziunea Socială Cluj",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/02",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/02/83047598-21_10_desemnare-reprezentanti-comisia-privind-incluziunea-sociala.pdf",
+     "sha256": "e2f4ac1e0bf8a1dc0ae0ea211079b979aca4fc5ab31cef38bb2e7c9632ddc4be"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-23-2026",
+   "path": "local/judet/cluj/2026/23",
+   "short": "HCJ Cluj nr. 23/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 23/2026 privind însușirea documentațiilor cadastrale cu privire la imobilul situat în Municipiul Cluj-Napoca, înscris în Cartea funciară nr. 261514 Cluj-Napoca",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/02",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/02/a8f2a667-23_11a_suplimentare-insusire-documentatii-cadastrale-imobil-zona-hoia.pdf",
+     "sha256": "8549dbf43f7d1424672753d7e0a1ce3c8c92d2eafd0e58922f9f27aa6e04ea16"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-24-2026",
+   "path": "local/judet/cluj/2026/24",
+   "short": "HCJ Cluj nr. 24/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 24/2026 privind aprobarea Acordului de parteneriat pentru realizarea și dezvoltarea Clusterului de Tehnologii Semiconductoare",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/02",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/02/7f920954-24_11b_suplimentare-acord-de-parteneriat-cluster-tehnologii-semiconductoare.pdf",
+     "sha256": "c04fb197d96f5b1cde7d76bcb8ffee7e93ce2d196b6dcb55ad7cf42094e1cfd6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-25-2026",
+   "path": "local/judet/cluj/2026/25",
+   "short": "HCJ Cluj nr. 25/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 25/2026 privind solicitarea de trecere a unor imobile din domeniul public al Comunei Recea-Cristur în domeniul public al Județului Cluj",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/02",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/02/38c2d1da-25_11c_suplimentare-solicitare-trecere-drum-recea-cristur-in-dom-pub-al-jud.pdf",
+     "sha256": "00f3c1a8d722f7fa0792126c31a641bd9a39f7f62ed3943863011604c6fd9d81"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-36-2026",
+   "path": "local/judet/cluj/2026/36",
+   "short": "HCJ Cluj nr. 36/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 36/2026 privind aprobarea Contului de execuție al bugetului general propriu al Județului Cluj la data de 31 decembrie 2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/03",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/04/d41e72d8-36_9_aprobare-cont-de-executie-la-31.12.2025.pdf",
+     "sha256": "ecd405aa25682887ce48ee58a0e768dd687f38dd7c2830cb62a0fa7ee46b019d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-37-2026",
+   "path": "local/judet/cluj/2026/37",
+   "short": "HCJ Cluj nr. 37/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 37/2026 privind aprobarea Proiectului „Monitorizarea stării drumurilor județene pe timp de iarnă”",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/03",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/04/b36dfc41-37_10_monitorizare-stare-drumuri-judetene-pe-timp-de-iarna.pdf",
+     "sha256": "0fafc3d17b9361efba602b63e4668dc35a5075a6fb857393ee7fdbd68296b3da"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-38-2026",
+   "path": "local/judet/cluj/2026/38",
+   "short": "HCJ Cluj nr. 38/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 38/2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/03",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://cjcluj.ro/hotarare-cjc/2026/03",
+     "sha256": "fb015eab4ef7cca0acef15b3bf797bbf2ec419bfb68029549c2016c49dbdbc40"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-39-2026",
+   "path": "local/judet/cluj/2026/39",
+   "short": "HCJ Cluj nr. 39/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 39/2026 privind aplicarea numărului maxim de posturi stabilit potrivit Ordonanței de urgență a Guvernului nr. 7/2026 pentru modificarea și completarea unor acte normative, precum și pentru adoptarea unor măsuri pentru creșterea capacității financiare a unităților administrativ-teritoriale",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/03",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/04/95189aca-39_11b-suplimentare_stabilire-nr-maxim-de-posturi-potrivit-oug-7_2026.pdf",
+     "sha256": "cf07ef1ea3865cc86a22a7884290fe0a40325ff110143ad4b84bc9628ad8ea4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-42-2026",
+   "path": "local/judet/cluj/2026/42",
+   "short": "HCJ Cluj nr. 42/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 42/2026 privind repartizarea pe unități administrativ-teritoriale a sumei corespunzătoare cotelor defalcate din impozitul pe venit pe anul 2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-42-7-aprilie-2026-privind-repartizarea-pe-unitati-administrativ-teritoriale-a-sumei-corespunzatoare-cotelor-defalcate-din-impozitul-pe-venit-pe-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/04/f69c8ae3-42_1_repartizare-pe-uat-suma-cote-defalcate-din-impozitul-pe-venit.pdf",
+     "sha256": "d131b0a6214eae2f2425c9e43c812c5b6cfaea6b1d631c0caf0d60565042c4c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-43-2026",
+   "path": "local/judet/cluj/2026/43",
+   "short": "HCJ Cluj nr. 43/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 43/2026 privind suportarea din bugetul general propriu al Județului Cluj a procentului de 20% din valoarea aferentă contribuției de la bugetul de stat pentru finanțarea, prin Programul național de investiții „Anghel Saligny”, a obiectivului de investiții “Pod pe DJ182E, km 6+053, în Comuna Chiuiești”",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-43-7-aprilie-2026-privind-suportarea-din-bugetul-general-propriu-al-judetului-cluj-a-procentului-de-20-din-valoarea-aferenta-contributiei-de-la-bugetul-de-stat-pentru-finantare/",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/04/bc7a0a15-43_2_contributie-din-bugetul-judetului-pentru-finantare-pod-pe-dj182e.pdf",
+     "sha256": "3cf6a66e2153b87f523eac7d36facc1dab90af2d9d58e41d32dbbfb728c1c348"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-44-2026",
+   "path": "local/judet/cluj/2026/44",
+   "short": "HCJ Cluj nr. 44/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 44/2026 privind suportarea din bugetul general propriu al Județului Cluj a procentului de 20% din valoarea aferentă contribuției de la bugetul de stat pentru finanțarea, prin Programul național de investiții „Anghel Saligny”, a obiectivului de investiții “Pod pe DJ161, km 30+977, în localitatea Pâglișa”",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-44-7-aprilie-2026-privind-suportarea-din-bugetul-general-propriu-al-judetului-cluj-a-procentului-de-20-din-valoarea-aferenta-contributiei-de-la-bugetul-de-stat-pentru-finantare/",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/04/c2246892-44_3_contributie-din-bugetul-judetului-pentru-finantare-pod-pe-dj-161.pdf",
+     "sha256": "1b85b914281c9faa533f76cae173a80e7cd579e8eb2e36f9774ec6902c058cc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-45-2026",
+   "path": "local/judet/cluj/2026/45",
+   "short": "HCJ Cluj nr. 45/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 45/2026 privind suportarea din bugetul general propriu al Județului Cluj a procentului de 20% din valoarea aferentă contribuției de la bugetul de stat pentru finanțarea, prin Programul național de investiții „Anghel Saligny”, a obiectivului de investiții “Refacere pod pe DJ103L km 0+000 Mănăstireni”",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-45-7-aprilie-2026-privind-suportarea-din-bugetul-general-propriu-al-judetului-cluj-a-procentului-de-20-din-valoarea-aferenta-contributiei-de-la-bugetul-de-stat-pentru-finantare/",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/04/b1b330f9-45_4_contributie-din-bugetul-judetului-pentru-finantare-pod-pe-dj-103l.pdf",
+     "sha256": "d0195a7a2c03ff04d67f1f8c7a80adede6aa3fa1c482089c0a12ae4962acef84"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-46-2026",
+   "path": "local/judet/cluj/2026/46",
+   "short": "HCJ Cluj nr. 46/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 46/2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/04",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/04/eb389e74-46_1_ajustare-tarife-calatorie.pdf",
+     "sha256": "1ade4ad3d3679dead559a7706529a80e15e7336b19ce45a9314b361c7a0acb30"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-47-2026",
+   "path": "local/judet/cluj/2026/47",
+   "short": "HCJ Cluj nr. 47/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 47/2026 pentru aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul local al Județului Cluj în anul 2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/04",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/04/6667fd2c-47_2_aprobare-plan-actiune-servicii-sociale.pdf",
+     "sha256": "d665adea32a4344102f9a4877927721da2e1bae043aa44f62576113c22f868ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-51-2026",
+   "path": "local/judet/cluj/2026/51",
+   "short": "HCJ Cluj nr. 51/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 51/2026 pentru prelungirea duratei Acordului de parteneriat între Județul Cluj și Asociația „ROMANIAN ASSOCIATION FOR THE STUDY OF GAMBLING” – RASG – (ASOCIAȚIA ROMÂNĂ PENTRU STUDIUL JOCURILOR DE NOROC), aprobat prin Hotărârea Consiliului Județean Cluj nr. 112/2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/04",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/04/93cf989e-51_6_prelungire-acord-de-parteneriat-cu-asociatia-rasg.pdf",
+     "sha256": "b5ebb6c60361069772022f16a9aad47c63d4a6ab361a218b0ac11f8afadd58fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-52-2026",
+   "path": "local/judet/cluj/2026/52",
+   "short": "HCJ Cluj nr. 52/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 52/2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/04",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://cjcluj.ro/hotarare-cjc/2026/04",
+     "sha256": "a08588fc2ba09e2ee7ac703033b6adf3cae6cf3679b13c99ba118f585784cadf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-53-2026",
+   "path": "local/judet/cluj/2026/53",
+   "short": "HCJ Cluj nr. 53/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 53/2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/04",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/04/026006b3-53_8_modif-hcjc-27_2025_desemnare-reprezentant-ca-sp.-borsa.pdf",
+     "sha256": "cbfd44b5a932a48b30ec97bdf3cc208c130b417f90bf40426496624bd91b8775"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-54-2026",
+   "path": "local/judet/cluj/2026/54",
+   "short": "HCJ Cluj nr. 54/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 54/2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/04",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/04/5f476d52-54_9_modif-hcjc-237_2024_desemnare-repr-ca-scoli-speciale.pdf",
+     "sha256": "a2de2fb6e4b8dab820c606d1f55f10d91aef9357143527812fd7c9fade88bc9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-59-2026",
+   "path": "local/judet/cluj/2026/59",
+   "short": "HCJ Cluj nr. 59/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 59/2026 privind aprobarea contului de execuție al bugetului general propriu al Județului Cluj la data de 31 martie 2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/04",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/04/060ea7b6-59_11c_suplimentare-aprobare-cont-de-executie-la-31.03.2026.pdf",
+     "sha256": "97435aea369d111cdbd0e4941f9b76c7ea83e29d5cb0f1110d3a62dec311e2e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-6-2026",
+   "path": "local/judet/cluj/2026/6",
+   "short": "HCJ Cluj nr. 6/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 6/2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/01",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/01/5abb3292-6_6_modif-hcjc-125_2024_dare-in-adm-active-sp.-recuperare.pdf",
+     "sha256": "5fb6ded279e4d7efc468b384ca71e1874154ebb8fb2f6d907794a9ab8317fc1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-65-2026",
+   "path": "local/judet/cluj/2026/65",
+   "short": "HCJ Cluj nr. 65/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 65/2026 privind aprobarea bugetului general propriu al Județului Cluj pe anul 2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/8/",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/05/52e10fe2-65_5_aprobare-buget-general-propriu-al-judetului-pe-2026.pdf",
+     "sha256": "ee47fc13fba5cd083e20ba23f2fab16cfe34da596d06422e083ff8fba9f6fd15"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-66-2026",
+   "path": "local/judet/cluj/2026/66",
+   "short": "HCJ Cluj nr. 66/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 66/2026 privind aprobarea unor măsuri pentru finanțarea cheltuielilor din bugetul propriu al Județului Cluj pe anul 2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/8/",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/05/f27e3df5-66_6_masuri-finantare-cheltuieli-din-buget_excedent.pdf",
+     "sha256": "ec816dbb1e4b0d0a4abd6835b3ffde393c43008eba657d283462410df48eed26"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-67-2026",
+   "path": "local/judet/cluj/2026/67",
+   "short": "HCJ Cluj nr. 67/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 67/2026 privind nominalizarea unor sumedin bugetul local al Județului Cluj pe anul 2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/8/",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/05/f7ffaa53-67_7_nominalizare-sume-2026_cotizatii-si-contributii.pdf",
+     "sha256": "a066025e84fd00b22b3c121070068a78647d49532f3098dc4e86d73967a513f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-7-2026",
+   "path": "local/judet/cluj/2026/7",
+   "short": "HCJ Cluj nr. 7/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 7/2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/01",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://cjcluj.ro/hotarare-cjc/2026/01",
+     "sha256": "a67bc3a8c559df134e4afb92b258c1a3d75292eaa6abdb26f32f7379ce761e5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-72-2026",
+   "path": "local/judet/cluj/2026/72",
+   "short": "HCJ Cluj nr. 72/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 72/2026 privind aprobarea Bugetului de venituri și cheltuieli pe anul 2026 al societății Centrul Agro Transilvania Cluj S.A",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-72-11-mai-2026/",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/05/bcc26f9e-72_12_bvc-agro-transilvania.pdf",
+     "sha256": "ea33ba0932666f85c6dcf18850ad608135459b57a562bc20d9864d87e9020da5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-73-2026",
+   "path": "local/judet/cluj/2026/73",
+   "short": "HCJ Cluj nr. 73/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 73/2026 privind aprobarea Bugetului de venituri și cheltuieli pe anul 2026 al societății TETAROM S.A",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/05/5d21a969-73_13_bvc-tetarom.pdf",
+     "sha256": "2fddcd97b289d4c5359dcbe103b5c9e5be6de411b7a73d6d5c6938f1c6f46dc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-74-2026",
+   "path": "local/judet/cluj/2026/74",
+   "short": "HCJ Cluj nr. 74/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 74/2026 privind aprobarea Bugetului de venituri și cheltuieli pe anul 2026 al societății Univers T S.A",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/05/57f683e3-74_14_bvc-univers-t.pdf",
+     "sha256": "a20485365995f971b5d1344ee47013d014a3d532c2854063447afc65c5e2dc3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-75-2026",
+   "path": "local/judet/cluj/2026/75",
+   "short": "HCJ Cluj nr. 75/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 75/2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/05/db2527f7-75_15_bvc-aeroport.pdf",
+     "sha256": "0de427d5815d0a96153ed1ac2eeac130170baddef33c21d1d9c34d80913220e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-87-2026",
+   "path": "local/judet/cluj/2026/87",
+   "short": "HCJ Cluj nr. 87/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 87/2026 privind aprobarea Bugetului de venituri și cheltuieli pe anul 2026 al societății Compania de Apă Someș S.A",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/05/721b6a2f-87_1_bvc-compania-de-apa-somes.pdf",
+     "sha256": "521559d5f26ce0e5231e9dff53e15cb0eaf92ae3fe7cf25fe31089957dd0135c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-88-2026",
+   "path": "local/judet/cluj/2026/88",
+   "short": "HCJ Cluj nr. 88/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 88/2026 privind rectificarea bugetului general propriu al Județului Cluj pe anul 2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-88-8-iunie-2026-privind-rectificarea-bugetului-general-propriu-al-judetului-cluj-pe-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/06/7d2f832c-88_1_rectificare-bvc-iunie-2026.pdf",
+     "sha256": "d7e8a96af9a7d77e758c13964d0effa63ab7c3e27e557eded3f83661b811b402"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-89-2026",
+   "path": "local/judet/cluj/2026/89",
+   "short": "HCJ Cluj nr. 89/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 89/2026 privind nominalizarea pe beneficiari a sumei de 3.050.000 lei aprobată prin Hotărârea Consiliului Județean Cluj nr. 65/2026, la Capitolul 67.02 Alte Culte",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/6/",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/06/69bc0281-89_1_nominalizare-sume-culte.pdf",
+     "sha256": "2530112659a719863755802560c1a7dce2b85e7e73031f271e5867a79e8a4c4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-91-2026",
+   "path": "local/judet/cluj/2026/91",
+   "short": "HCJ Cluj nr. 91/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 91/2026 privind nominalizarea pe beneficiari a sumei de 1.250.000 lei aprobată prin Hotărârea Consiliului Județean Cluj nr. 65/2026, la Capitolul 67.02 Activități Sportive",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/6/",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/06/be392b93-91_3_nominalizare-sume-sport.pdf",
+     "sha256": "f240e7fe9f48f910da017e0781815b370f5f8454f71ff79476a0e665daec0b50"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-92-2026",
+   "path": "local/judet/cluj/2026/92",
+   "short": "HCJ Cluj nr. 92/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 92/2026 privind nominalizarea pe beneficiari a sumei de 1.200.000 lei aprobată prin Hotărârea Consiliului Județean Cluj nr. 65/2026, la Capitolul 67.02 Activități Tineret, Socio-Educaționale",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-92-18-iunie-2026-privind-nominalizarea-pe-beneficiari-a-sumei-de-1-200-000-lei-aprobata-prin-hotararea-consiliului-judetean-cluj-nr-65-2026-la-capitolul-67-02-activitati-tin/",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/06/064df77c-92_4_nominalizare-sume-tineret.pdf",
+     "sha256": "4b2ee9dfebff9d1f8c7bfd8c34aff36327c442345510746bc25247564339cc34"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-96-2026",
+   "path": "local/judet/cluj/2026/96",
+   "short": "HCJ Cluj nr. 96/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 96/2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/07/320eec3a-96_3_modif-hcjc-37_2025_org-stat-de-fct-rof-sp.-copii.pdf",
+     "sha256": "10454ef54cbb88914953b58731d1483855cc7935d2613bf7a4b720f5e7cf9cb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-98-2026",
+   "path": "local/judet/cluj/2026/98",
+   "short": "HCJ Cluj nr. 98/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 98/2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/07/3bc32a5e-98_5_modif-hcjc-39_2025_org-stat-de-fct-rof-sp.-recuperare.pdf",
+     "sha256": "8c9629e840374f83074e0d7da1581ad74ddf1e4e03ac8f82a019878d087c1020"
     }
    ]
   }

@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/judet/galati/2022",
+ "acts": [
+  {
+   "slug": "hcj-galati-159-2022",
+   "path": "local/judet/galati/2022/159",
+   "short": "HCJ Galați nr. 159/2022",
+   "title": "Hotărârea Consiliului Județean Galați nr. 159/2022 privind modificarea și completarea Hotărârii Consiliului Județean Galați nr. 127/26.06.2018 privind aprobarea contribuției Consiliului Județean Galați pentru realizarea obiectivului de investiții „Consolidare Spital Clinic Județean de Urgență Sf",
+   "url": "https://cjgalati.ro/mongl/",
+   "versions": [
+    {
+     "from": "2022-05-11",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/MonitorOficial/mo09-2022.pdf",
+     "sha256": "49ab43af315522bfe9bea2b3e525372875b1d220a7223ea50ebb64bdf632c199"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-191-2022",
+   "path": "local/judet/galati/2022/191",
+   "short": "HCJ Galați nr. 191/2022",
+   "title": "Hotărârea Consiliului Județean Galați nr. 191/2022 privind aprobarea parteneriatului între județul Galați, prin",
+   "url": "https://cjgalati.ro/mongl/",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/MonitorOficial/mo-100622.pdf",
+     "sha256": "5d16f4993ccbb89754f2b626c810571d3e02fe78782b81f514582bb39c967104"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-286-2022",
+   "path": "local/judet/galati/2022/286",
+   "short": "HCJ Galați nr. 286/2022",
+   "title": "Hotărârea Consiliului Județean Galați nr. 286/2022 privind solicitarea adresată Consiliului Local al municipiului Galați de trecere a unui bun imobil (teren) din domeniul public al municipiului Galați și administrarea Consiliului Local al municipiului Galați în domeniul public al județului Galați și în administrarea Consiliului Județean Galați ………... 2 Unitatea administrativ–teritorială județul Galați — Monitorul Oficial Local nr. 17 din septembri",
+   "url": "https://cjgalati.ro/mongl/",
+   "versions": [
+    {
+     "from": "2022-09-13",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/MonitorOficial/mo17-140922.pdf",
+     "sha256": "76ae77f5cacfad5262d9b40ab95fcedfd77728a8b823e697f643f9b4f77345f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-376-2022",
+   "path": "local/judet/galati/2022/376",
+   "short": "HCJ Galați nr. 376/2022",
+   "title": "Hotărârea Consiliului Județean Galați nr. 376/2022 privind aprobarea participării în cadrul „Programului de realizare a pistelor pentru biciclete”, pentru realizarea proiectului „Pista de biciclete în județul Galați pe traseul Lacul Vânători - comuna Vânători - Pădurea Gârboavele și traseul Sat Odaia Manolachi - Cișmele - Smârdan - DJ 251“ 2 Unitatea administrativ–teritorială județul Galați — Monitorul Oficial Local nr. 24 din noiembrie 2022 HOTĂR",
+   "url": "https://cjgalati.ro/mongl/",
+   "versions": [
+    {
+     "from": "2022-11-03",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/MonitorOficial/mo24-2022.pdf",
+     "sha256": "00337ab62c7814e44e0f895d1efbecf001953fb20f035e22cdebd9d8463e72b7"
+    }
+   ]
+  }
+ ]
+}

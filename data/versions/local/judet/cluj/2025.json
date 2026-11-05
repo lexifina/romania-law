@@ -3,6 +3,51 @@
  "shard": "local/judet/cluj/2025",
  "acts": [
   {
+   "slug": "hcj-cluj-1-2025",
+   "path": "local/judet/cluj/2025/1",
+   "short": "HCJ Cluj nr. 1/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 1/2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/01",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://cjcluj.ro/hotarare-cjc/2025/01",
+     "sha256": "07ccc596b2bf1d17bde0d7dfb50983c71f22e3a9c2c4eb62d17831da3c78ee25"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-10-2025",
+   "path": "local/judet/cluj/2025/10",
+   "short": "HCJ Cluj nr. 10/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 10/2025 privind includerea în domeniul public a Județului Cluj a 3 (trei) posturi de transformare în anvelopă de beton și concesionarea acestora Companiei de Apă Someș S.A",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/01",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/01/7310659d-10_9_concesionare-transformatoare-compania-de-apa.pdf",
+     "sha256": "969393fcd099e5f3a0717a495074626a05374d84aa0217cd7a4ae0f5b67ad3d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-100-2025",
+   "path": "local/judet/cluj/2025/100",
+   "short": "HCJ Cluj nr. 100/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 100/2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/06",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://cjcluj.ro/hotarare-cjc/2025/06",
+     "sha256": "9e1741530ae3748d253219bc618c7e16a02e6a8e4545e1ec4056496ed4fa5e0b"
+    }
+   ]
+  },
+  {
    "slug": "hcj-cluj-101-2025",
    "path": "local/judet/cluj/2025/101",
    "short": "HCJ Cluj nr. 101/2025",
@@ -18,6 +63,231 @@
    ]
   },
   {
+   "slug": "hcj-cluj-102-2025",
+   "path": "local/judet/cluj/2025/102",
+   "short": "HCJ Cluj nr. 102/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 102/2025 pentru aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Consiliului Județean Cluj în anul 2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/06",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/06/df4ffc5f-102_3_plan-actiune-servicii-sociale_2025.pdf",
+     "sha256": "78723feecd7db6a6e6b9f60fd7319c2cbea2e36a33f00657d4e53fa393db782e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-103-2025",
+   "path": "local/judet/cluj/2025/103",
+   "short": "HCJ Cluj nr. 103/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 103/2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/06",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/06/fa884da0-103_4_modif-hcjc-27_2025_desemnare-repr-cjc-in-ca-la-spitale.pdf",
+     "sha256": "d58651cf114642ac5149309b30b0c926b8e4eaa49da22df8302ffc9f78f00eab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-106-2025",
+   "path": "local/judet/cluj/2025/106",
+   "short": "HCJ Cluj nr. 106/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 106/2025 pentru modificarea Hotărârii Consiliului Judeţean Cluj nr. 110/2024 privind aprobarea Organigramei, a Statului de funcţii și a Regulamentului de organizare și funcționare pentru Muzeul Etnografic al Transilvaniei",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-107-2025",
+   "path": "local/judet/cluj/2025/107",
+   "short": "HCJ Cluj nr. 107/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 107/2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/06",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/06/af138089-107_8_modif-hcjc-38_2025_organigrama-si-stat-de-fct-sp-infestioase.pdf",
+     "sha256": "0d938513b1b2be5ba30a22590dd8c408b5c8f15e4e0bfbb1a721c0093456efb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-108-2025",
+   "path": "local/judet/cluj/2025/108",
+   "short": "HCJ Cluj nr. 108/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 108/2025 privind actualizarea Monografiei economico-militare a Județului Cluj în anul 2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/06",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/06/773bce92-108_9_actualizare-monografie-economico-militara.pdf",
+     "sha256": "ca7ba72e831ad7cdc768e9c8c8af08701435840a30f7b6bd95985f632444f3c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-109-2025",
+   "path": "local/judet/cluj/2025/109",
+   "short": "HCJ Cluj nr. 109/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 109/2025 privind încheierea Acordului de parteneriat între Județul Cluj și Asociația Nativ Activ, în vederea promovării turismului și a ciclismului recreațional în județul Cluj",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-11-2025",
+   "path": "local/judet/cluj/2025/11",
+   "short": "HCJ Cluj nr. 11/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 11/2025 privind aprobarea PLANULUI DE AMENAJARE A TERITORIULUI JUDEȚEAN – JUDEȚUL CLUJ",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-110-2025",
+   "path": "local/judet/cluj/2025/110",
+   "short": "HCJ Cluj nr. 110/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 110/2025 privind solicitarea de trecere a unor imobile din domeniul public al Comunei Bobâlna în domeniul public al Județului Cluj",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-111-2025",
+   "path": "local/judet/cluj/2025/111",
+   "short": "HCJ Cluj nr. 111/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 111/2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/06",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/06/ba3a8d94-111_12a_modif-hcjc-57_2020_spital-monobloc.pdf",
+     "sha256": "37b685d47cb50aec6d0d5d65c585d6dae6f5291bfc03f50099e0053886be4eb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-112-2025",
+   "path": "local/judet/cluj/2025/112",
+   "short": "HCJ Cluj nr. 112/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 112/2025 parteneriat privind încheierea unui Acord de parteneriat între Județul Cluj și Asociația „ROMANIAN ASSOCIATION FOR THE STUDY OF GAMBLING” – RASG – (ASOCIAȚIA ROMÂNĂ PENTRU STUDIUL JOCURILOR DE NOROC)",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-113-2025",
+   "path": "local/judet/cluj/2025/113",
+   "short": "HCJ Cluj nr. 113/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 113/2025 privind solicitarea de trecere a unor imobile din domeniul public al Comunei Câțcău în domeniul public al Județului Cluj",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/06",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/06/31a94c25-113_12c_solicitare-trecere-imobile-din-dom-pub-catcau.pdf",
+     "sha256": "b60066b8ff094ea7e293c662ea676f672a239067344fe25dbc7e5341939d7e4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-114-2025",
+   "path": "local/judet/cluj/2025/114",
+   "short": "HCJ Cluj nr. 114/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 114/2025 privind rectificarea bugetului general propriu al Județului Cluj pe anul 2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-114-2-iulie-2025-privind-rectificarea-bugetului-general-propriu-al-judetului-cluj-pe-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/07/ca83e222-114_1_rectificare-buget.pdf",
+     "sha256": "4985893bfc3fb379223711b6d26bc8a98674bb4f96fe9d561ca5c575f12574dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-115-2025",
+   "path": "local/judet/cluj/2025/115",
+   "short": "HCJ Cluj nr. 115/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 115/2025 privind constituirea Comisiei de verificare a dreptului de proprietate sau a altui drept real aferentă deciziei de expropriere aprobată prin Hotărârea Consiliului Județean Cluj nr. 104/2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-115-2-iulie-2025-privind-constituirea-comisiei-de-verificare-a-dreptului-de-proprietate-sau-a-altui-drept-real-aferenta-deciziei-de-expropriere-aprobata-prin-hotararea-consil/",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/07/71b9aa25-115_2_constituire-comisie-dr.-proprietate-ref.-hcjc-104_2025.pdf",
+     "sha256": "ed9b8b3635b6893d155724949b6994209fd70671f79cefbe70320b3399cf2319"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-116-2025",
+   "path": "local/judet/cluj/2025/116",
+   "short": "HCJ Cluj nr. 116/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 116/2025 privind aprobarea protocolului de delegare temporară a dreptului de administrare asupra drumului comunal DC 177 inscris în cărțile funciare 51914 și 51986 Câțcău",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-117-2025",
+   "path": "local/judet/cluj/2025/117",
+   "short": "HCJ Cluj nr. 117/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 117/2025",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcj-cluj-119-2025",
    "path": "local/judet/cluj/2025/119",
    "short": "HCJ Cluj nr. 119/2025",
@@ -26,6 +296,921 @@
    "versions": [
     {
      "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-12-2025",
+   "path": "local/judet/cluj/2025/12",
+   "short": "HCJ Cluj nr. 12/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 12/2025",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-120-2025",
+   "path": "local/judet/cluj/2025/120",
+   "short": "HCJ Cluj nr. 120/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 120/2025 privind reorganizarea Centrului Judeţean pentru Conservarea şi Promovarea Culturii Tradiţionale Cluj prin transformare în instituție de spectacole",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-121-2025",
+   "path": "local/judet/cluj/2025/121",
+   "short": "HCJ Cluj nr. 121/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 121/2025 pentru modificarea Hotărârii Consiliului Judeţean Cluj nr. 157/2024 privind aprobarea Structurii organizatorice, a Organigramei, a Statului de funcţii şi a Regulamentului de organizare şi funcţionare pentru Spitalul Clinic de Pneumoftiziologie ,,Leon Daniello” Cluj-Napoca",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-124-2025",
+   "path": "local/judet/cluj/2025/124",
+   "short": "HCJ Cluj nr. 124/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 124/2025 privind solicitarea de trecere a unui imobil din domeniul public al Comunei Negreni în domeniul public al Județului Cluj",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-125-2025",
+   "path": "local/judet/cluj/2025/125",
+   "short": "HCJ Cluj nr. 125/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 125/2025 privind solicitarea de trecere a unor imobile din domeniul public al Municipiului Câmpia Turzii, Comunei Luna și Comunei Călărași în domeniul public al Județului Cluj",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-125-24-iulie-2025-privind-solicitarea-de-trecere-a-unor-imobile-din-domeniul-public-al-municipiului-campia-turzii-comunei-luna-si-comunei-calarasi-in-domeniul-public-al-jud/",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/07/a763c1a0-125_9_solicitare-trecere-imobile-din-dom-pub-campia-turzii-luna-calarasi-in-dom-pub-jud.pdf",
+     "sha256": "a9dfd73bb605aba9a5d07eba1cd46730506565ab7afdd6c335e572f1dc22a586"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-126-2025",
+   "path": "local/judet/cluj/2025/126",
+   "short": "HCJ Cluj nr. 126/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 126/2025 privind stabilirea regimului juridic și includerea în domeniul public al Judeţului Cluj a drumului județean DJ 108F: Bobâlna (DJ 108B)- Monument Bobâlna",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-126-24-iulie-2025-privind-stabilirea-regimului-juridic-si-includerea-in-domeniul-public-al-judetului-cluj-a-drumului-judetean-dj-108f-bobalna-dj-108b-monument-bobalna/",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/07/46796889-126_10_includerea-in-dom-pub-al-jud.-a-dj-108-f-bobalna.pdf",
+     "sha256": "85f00a289286b646e4e090da8cf6ae40371e677a02bc4bdeba95dbf7819516a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-127-2025",
+   "path": "local/judet/cluj/2025/127",
+   "short": "HCJ Cluj nr. 127/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 127/2025 privind exercitarea calității de autoritate publică tutelară la societatea TETAROM S.A",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-127-24-iulie-2025-privind-exercitarea-calitatii-de-autoritate-publica-tutelara-la-societatea-tetarom-s-a/",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/07/7a521877-127_11_numire-administrator-ca-la-tetarom.pdf",
+     "sha256": "68e4b9d15b4012de02994581315d6b5964d6024f92637cc0f2d722fa93b9846d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-128-2025",
+   "path": "local/judet/cluj/2025/128",
+   "short": "HCJ Cluj nr. 128/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 128/2025 pentru modificarea Hotărârii Consiliului Județean Cluj nr. 165/2022 privind aprobarea componenței nominale a Comisiei pentru Protecţia Copilului Cluj",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-129-2025",
+   "path": "local/judet/cluj/2025/129",
+   "short": "HCJ Cluj nr. 129/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 129/2025 privind încheierea unui Acord de parteneriat între Județul Cluj și Organizația Mondială a Sănătății - Biroul Regional pentru Europa",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-130-2025",
+   "path": "local/judet/cluj/2025/130",
+   "short": "HCJ Cluj nr. 130/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 130/2025 privind aprobarea acordului de parteneriat și a contribuției financiare pentru realizarea proiectului „Îmbunătățirea capacității de inserție profesională a persoanelor cu dizabilități pe piața muncii”, cod MySMIS2021/SMIS2021+ 348291",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-131-2025",
+   "path": "local/judet/cluj/2025/131",
+   "short": "HCJ Cluj nr. 131/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 131/2025 privind aprobarea constituirii unui drept de superficie în favoarea Judeţului Cluj pentru realizarea obiectivului de investiții: “VELO APUSENI - Amenajare trasee cicloturistice în zona munții Apuseni, pe zona Județelor Bihor, Cluj și Alba - lot Județul Cluj”",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-132-2025",
+   "path": "local/judet/cluj/2025/132",
+   "short": "HCJ Cluj nr. 132/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 132/2025 privind aprobarea Bugetului de venituri și cheltuieli pe anul 2025, rectificat, al societății Compania de Apă Someș S.A",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/07",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/07/a573c55c-132_15a_buget-rectificat-compania-de-apa.pdf",
+     "sha256": "b489d94e34aed5c1de9d4e827b380f7137a13fd1209bfbb5d6bf38c6e5edfce4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-133-2025",
+   "path": "local/judet/cluj/2025/133",
+   "short": "HCJ Cluj nr. 133/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 133/2025 privind rectificarea bugetului general propriu al Județului Cluj pe anul 2025",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-134-2025",
+   "path": "local/judet/cluj/2025/134",
+   "short": "HCJ Cluj nr. 134/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 134/2025 privind alocarea unor sume din fondul de rezervă al bugetului local al Judeţului Cluj în anul 2025",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-136-2025",
+   "path": "local/judet/cluj/2025/136",
+   "short": "HCJ Cluj nr. 136/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 136/2025 privind aprobarea contului de execuţie al bugetului general propriu al Județului Cluj la 30 iunie 2025",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-138-2025",
+   "path": "local/judet/cluj/2025/138",
+   "short": "HCJ Cluj nr. 138/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 138/2025 privind aprobarea amplasamentului și declanșarea procedurii de expropriere a imobilelor proprietate privată, care constituie coridorul de expropriere necesar pentru realizarea obiectivului de investiții: “VELO APUSENI - Amenajare trasee cicloturistice în zona munții Apuseni,pe zona Județelor Bihor, Cluj și Alba - lot Județul Cluj”",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-14-2025",
+   "path": "local/judet/cluj/2025/14",
+   "short": "HCJ Cluj nr. 14/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 14/2025 privind aprobarea proiectului ÎMBUNĂTĂȚIREA INFRASTRUCTURII DE TURISM LA MUZEUL “OCTAVIAN GOGA” DIN CIUCEA și a cheltuielilor legate de proiect",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-140-2025",
+   "path": "local/judet/cluj/2025/140",
+   "short": "HCJ Cluj nr. 140/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 140/2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/07",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/07/e7f34979-140_15i_suplimentare-modif-hcjc-180_2022_studiu-de-oportunitate-sp.-pneumoftiziologie.pdf",
+     "sha256": "910eff79e60d5ca8cc7997ab845821326815b56d3e8fd1a7f7df288c38e9b663"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-141-2025",
+   "path": "local/judet/cluj/2025/141",
+   "short": "HCJ Cluj nr. 141/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 141/2025",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-142-2025",
+   "path": "local/judet/cluj/2025/142",
+   "short": "HCJ Cluj nr. 142/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 142/2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/07",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/07/0e5334e9-142_1_modif-hcjc-260_2024_taxe-si-tarife-cluj-arena.pdf",
+     "sha256": "b202371209b87bce296d3d4ec0984365a85f3172890b8ffae76798df7ed35586"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-144-2025",
+   "path": "local/judet/cluj/2025/144",
+   "short": "HCJ Cluj nr. 144/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 144/2025 privind stabilirea regimului juridic și includerea în domeniul public al Judeţului Cluj a imobilului înscris în Cartea Funciară nr. 354383 Cluj- Napoca, nr. cadastral 354383-C14",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-144-22-august-2025-privind-stabilirea-regimului-juridic-si-includerea-in-domeniul-public-al-judetului-cluj-a-imobilului-inscris-in-cartea-funciara-nr-354383-cluj-napoca-cu-n/",
+   "versions": [
+    {
+     "from": "2025-08-22",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/08/240ec647-144_1_includere-in-domeniul-public-imobil-upu.pdf",
+     "sha256": "c057b0d11b575853fd94019964460132610b528ad4576c5d0dafabd5296a85de"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-145-2025",
+   "path": "local/judet/cluj/2025/145",
+   "short": "HCJ Cluj nr. 145/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 145/2025 pentru modificarea Hotărârii nr. 193/28.08.2018 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii ,,Revitalizarea zonei Parcului Etnografic ,,Romulus Vuia\" Cluj-Napoca - Padurea Hoia\"",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-08-22",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-146-2025",
+   "path": "local/judet/cluj/2025/146",
+   "short": "HCJ Cluj nr. 146/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 146/2025 pentru modificarea Hotărârii nr. 24/27.02.2025 privind aprobarea proiectului Revitalizarea zonei Parcului Etnografic Național ”Romulus Vuia” – Pădurea Hoia din Cluj-Napoca și a cheltuielilor legate de proiect",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-08-22",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-148-2025",
+   "path": "local/judet/cluj/2025/148",
+   "short": "HCJ Cluj nr. 148/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 148/2025 privind înscrierea unor componente ale infrastructurii tehnico-edilitare aferente sistemului public de alimentare cu apă și de canalizare în inventarul bunurilor din domeniul public al Judeţului Cluj",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-149-2025",
+   "path": "local/judet/cluj/2025/149",
+   "short": "HCJ Cluj nr. 149/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 149/2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/08",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://cjcluj.ro/hotarare-cjc/2025/08",
+     "sha256": "302609a6bf59f26f17871eda7f84a113050cbd85f66735e0f5f640ae1895b705"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-15-2025",
+   "path": "local/judet/cluj/2025/15",
+   "short": "HCJ Cluj nr. 15/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 15/2025 pentru aprobarea RAPORTULUI ANUAL cu privire la stadiul realizării măsurilor prevăzute în PLANUL DE MENȚINERE A CALITĂȚII AERULUI ÎN JUDEȚUL CLUJ, PERIOADA 2024-2028",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-151-2025",
+   "path": "local/judet/cluj/2025/151",
+   "short": "HCJ Cluj nr. 151/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 151/2025 pentru modificarea Hotărârii Consiliului Județean Cluj nr. 139/2021 privind reorganizarea Direcției Generale de Asistență Socială și Protecția Copilului Cluj, aprobarea Organigramei, Statului de Funcții și a Regulamentului de organizare și funcționare a aparatului propriu și a serviciilor sociale furnizate de către aceasta",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-153-2025",
+   "path": "local/judet/cluj/2025/153",
+   "short": "HCJ Cluj nr. 153/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 153/2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/08",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/09/a0c6385b-153_7_modif-hcjc-70_2025_neremunerare-membri-atop.pdf",
+     "sha256": "beea48a330f5d8918bf3c65c14b0c2a98f995a58f7d419ba2d108eac1b3bb284"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-154-2025",
+   "path": "local/judet/cluj/2025/154",
+   "short": "HCJ Cluj nr. 154/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 154/2025 privind aprobarea proiectului “Pod peste Pârâul Bandău, pe DJ172F, km 13+150, în localitatea Mica” și a indicatorilor tehnico-economici aferenți acestuia",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-155-2025",
+   "path": "local/judet/cluj/2025/155",
+   "short": "HCJ Cluj nr. 155/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 155/2025 privind încheierea Acordului de parteneriat între Județul Cluj și Asociația Via Mariae-Filiala Cluj, în vederea promovării traseului Via Mariae în județul Cluj",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-157-2025",
+   "path": "local/judet/cluj/2025/157",
+   "short": "HCJ Cluj nr. 157/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 157/2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/08",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/09/50217278-157_9b_suplimentare-modif-hcjc-236_2024_desemnare-repr-cjc-in-ca-centru-traditii-judetene.pdf",
+     "sha256": "edb6f751d337268c119aec3e75e31a29ea80044d5d945dc735983901e0952638"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-158-2025",
+   "path": "local/judet/cluj/2025/158",
+   "short": "HCJ Cluj nr. 158/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 158/2025 pentru modificarea Hotărârii Consiliului Județean Cluj nr. 27/2025 privind desemnarea reprezentanților Consiliului Județean Cluj în consiliile de administrație ale unor spitale publice",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-159-2025",
+   "path": "local/judet/cluj/2025/159",
+   "short": "HCJ Cluj nr. 159/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 159/2025 privind aprobarea acordului de parteneriat pentru asocierea Agenției de Dezvoltare Regională Nord-Vest și Județului Cluj în domeniul amenajării teritoriului și urbanismului",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-16-2025",
+   "path": "local/judet/cluj/2025/16",
+   "short": "HCJ Cluj nr. 16/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 16/2025 pentru modificarea Hotărârii Consiliului Județean Cluj nr. 212/2024 privind constituirea și organizarea comisiilor de specialitate ale Consiliului Judeţean Cluj, ca urmare a constituirii noului Consiliu Județean Cluj în data de 24 octombrie 2024",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-02-19",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-161-2025",
+   "path": "local/judet/cluj/2025/161",
+   "short": "HCJ Cluj nr. 161/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 161/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1b9b907ebd3a39e6575771658f3b9667a699c61c31e8879ad31f900fea679e9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-162-2025",
+   "path": "local/judet/cluj/2025/162",
+   "short": "HCJ Cluj nr. 162/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 162/2025 privind înscrierea unor componente ale infrastructurii tehnico-edilitare aferente sistemului public de alimentare cu apă și de canalizare în inventarul bunurilor din domeniul public al Judeţului Cluj",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-163-2025",
+   "path": "local/judet/cluj/2025/163",
+   "short": "HCJ Cluj nr. 163/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 163/2025 pentru modificarea și completarea Hotărârii Consiliului Judetean Cluj nr. 183/2020 privind darea ȋn administrare a unor echipamente IT către Inspectoratul pentru Situații de Urgență „Avram Iancu\" al Judeţului Cluj",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-164-2025",
+   "path": "local/judet/cluj/2025/164",
+   "short": "HCJ Cluj nr. 164/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 164/2025 privind stabilirea regimului juridic și includerea în domeniul public al Judeţului Cluj a drumului județean DJ 103C: Negreni (DN 1)- Limită județ Sălaj",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-166-2025",
+   "path": "local/judet/cluj/2025/166",
+   "short": "HCJ Cluj nr. 166/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 166/2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/09",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://cjcluj.ro/hotarare-cjc/2025/09",
+     "sha256": "b7abd0ab7dda9b96f60b5801916581489dc336dba6470888801f853b37d1ee98"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-167-2025",
+   "path": "local/judet/cluj/2025/167",
+   "short": "HCJ Cluj nr. 167/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 167/2025 privind aprobarea proiectului Extinderea, modernizarea și dotarea Ambulatorului Spitalului Clinic de Boli Infecțioase, etapa 1, a indicatorilor tehnico-economici și a cheltuielilor legate de proiect",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-168-2025",
+   "path": "local/judet/cluj/2025/168",
+   "short": "HCJ Cluj nr. 168/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 168/2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/09",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/10/268b2852-168_8_modificarea-hcj-237_2024-reprez-in-ca-scoli-speciale.pdf",
+     "sha256": "27eab5bc97a35abeb915e3da0b8640ec98a396b8ff06e0f6f5d0aacedde7b440"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-169-2025",
+   "path": "local/judet/cluj/2025/169",
+   "short": "HCJ Cluj nr. 169/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 169/2025 privind înființarea la nivelul Județului Cluj a Echipei intersectoriale în domeniul prevenirii și combaterii violenței domestice",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/09",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/10/c6eb770d-169_9_echipa-intersectoriala-violenta-domestica.pdf",
+     "sha256": "54f9e27e63fd1c8ced89e625af74bc1f0aa2d6bbc38512a2eee7871c61a4ea61"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-17-2025",
+   "path": "local/judet/cluj/2025/17",
+   "short": "HCJ Cluj nr. 17/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 17/2025 privind repartizarea pe unități administrativ-teritoriale a sumei corespunzătoare cotelor defalcate din impozitul pe venit pe anul 2025",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-02-19",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-170-2025",
+   "path": "local/judet/cluj/2025/170",
+   "short": "HCJ Cluj nr. 170/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 170/2025 privind aprobarea participării Direcției Generale de Asistență Socială și Protecția Copilului Cluj la Proiectul Erasmus+ ”Generații fără adicții, construind o comunitate incluzivă”",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-171-2025",
+   "path": "local/judet/cluj/2025/171",
+   "short": "HCJ Cluj nr. 171/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 171/2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/09",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/10/86d29454-171_11_modif-hcj-44_25-nominalizare-sume-premiere.pdf",
+     "sha256": "a4d87cbfbde44f3ecbc55e87d640cd0b78fdded95f95a18c5e5bc6f07b049800"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-173-2025",
+   "path": "local/judet/cluj/2025/173",
+   "short": "HCJ Cluj nr. 173/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 173/2025 privind declanșarea procedurii de selecție și numire a membrilor Consiliului de Administrație al societății Univers T S.A",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-174-2025",
+   "path": "local/judet/cluj/2025/174",
+   "short": "HCJ Cluj nr. 174/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 174/2025 privind rectificarea bugetului general propriu al Judeţului Cluj pe anul 2025",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-175-2025",
+   "path": "local/judet/cluj/2025/175",
+   "short": "HCJ Cluj nr. 175/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 175/2025 privind modificarea Hotărârii Consiliului Județean Cluj nr. 45 /2025 pentru aprobarea Programului privind obiectivele de investiții, lucrările de modernizare/reabilitare și a Programului privind lucrările/serviciile de întreținere și reparații a drumurilor județene în anul 2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/09",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/10/cbce8863-175_11d_suplimentare-modif-hcj-45_2025_program-de-drumuri.pdf",
+     "sha256": "544c42edd60fb5a5a5198eabf231988c6d668ac9040b29689958aa5c8ed3207c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-176-2025",
+   "path": "local/judet/cluj/2025/176",
+   "short": "HCJ Cluj nr. 176/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 176/2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/09",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://cjcluj.ro/hotarare-cjc/2025/09",
+     "sha256": "c1988bbc7f6e6474efe884ec5b134fb418527d4feef4fc027ee5eed707c29614"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-179-2025",
+   "path": "local/judet/cluj/2025/179",
+   "short": "HCJ Cluj nr. 179/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 179/2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-179-30-octombrie-2025-pentru-modificarea-hotararii-consiliului-judetean-cluj-nr-150-2025-privind-aprobarea-structurii-organizatorice-a-organigramei-a-statului-de-functii-s/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/11/84f7b764-179_1_modif-hcjc-150_2025_stat-de-functii-sp.-borsa.pdf",
+     "sha256": "c4f02cac12d5a2f0f8c9bd059d27dfa06afd948334dc92da9619bc6e26573d62"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-18-2025",
+   "path": "local/judet/cluj/2025/18",
+   "short": "HCJ Cluj nr. 18/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 18/2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/02",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://cjcluj.ro/hotarare-cjc/2025/02",
+     "sha256": "f23827e16617fce7f285b7954e9d1ea525811d11ca1072f49d209c501fed5708"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-181-2025",
+   "path": "local/judet/cluj/2025/181",
+   "short": "HCJ Cluj nr. 181/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 181/2025 pentru modificarea Hotărârii Consiliului Județean Cluj nr. 160/2023 privind aprobarea Proiectului ”Echipamente pentru creșterea siguranței traficului în Județul Cluj”",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/10",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/11/f22b67bf-181_3_modif-hcjc-160_2023_echipamente-siguranta-trafic.pdf",
+     "sha256": "6a6ab59e2d874e63c8693c675e529d74e1eb24bb0bf4fa75a4dbb3a478719c3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-182-2025",
+   "path": "local/judet/cluj/2025/182",
+   "short": "HCJ Cluj nr. 182/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 182/2025",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-184-2025",
+   "path": "local/judet/cluj/2025/184",
+   "short": "HCJ Cluj nr. 184/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 184/2025 pentru modificarea Hotărârii Consiliului Județean Cluj nr. 139/2021 privind reorganizarea Direcției Generale de Asistență Socială și Protecția Copilului Cluj, aprobarea Organigramei, Statului de Funcții și a Regulamentului de organizare și funcționare a aparatului propriu și a serviciilor sociale furnizate de către aceasta",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-185-2025",
+   "path": "local/judet/cluj/2025/185",
+   "short": "HCJ Cluj nr. 185/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 185/2025 privind aprobarea achiziționării de servicii juridice de consultanță, de asistență și de reprezentare a Centrului Agrotransilvania Cluj S.A",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/10",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/11/5108bfbc-185_8_achizitionare-servicii-juridice-centru-agro-transilvania.pdf",
+     "sha256": "2659ca7e1665c1d5cfc8c7196b8daf1e6bd53395fa88ac0c6ef7133b12bc9873"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-186-2025",
+   "path": "local/judet/cluj/2025/186",
+   "short": "HCJ Cluj nr. 186/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 186/2025 privind implementarea unui sistem de management pentru flota de transport rutier deținută de Consiliului Județean Cluj și organismele prestatoare de servicii publice din subordinea/de sub autoritatea Consiliului Județean Cluj",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-187-2025",
+   "path": "local/judet/cluj/2025/187",
+   "short": "HCJ Cluj nr. 187/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 187/2025 privind rectificarea bugetului general propriu al Județului Cluj pe anul 2025",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-188-2025",
+   "path": "local/judet/cluj/2025/188",
+   "short": "HCJ Cluj nr. 188/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 188/2025 privind alocarea unor sume din fondul de rezervă al bugetului local al Județului Cluj în anul 2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/10",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/11/340c91bb-188_9b_suplimentare-alocare-fond-rezerva.pdf",
+     "sha256": "e810fdcb00a95ed117985fc80b76ef9ab65a09b9c9c81f17e52b842a609ad8fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-189-2025",
+   "path": "local/judet/cluj/2025/189",
+   "short": "HCJ Cluj nr. 189/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 189/2025 privind aprobarea contului de execuție al bugetului general propriu al Județului Cluj la 30 septembrie 2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/10",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/11/32dd3b1f-189_9c_suplimentare-aprobare-cont-de-executie-la-30.09.2025.pdf",
+     "sha256": "d292e27ab698d2444483c69745f95531108bd2080f295a85247888a995d69fcf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-19-2025",
+   "path": "local/judet/cluj/2025/19",
+   "short": "HCJ Cluj nr. 19/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 19/2025 privind aprobarea Planului ”Master Planul Regional, actualizat, pentru dezvoltarea infrastructurii de apă și apă uzată din Județele Cluj, Sălaj și Mureș”",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/02",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/03/830621ca-19_1_aprobare-master-plan-apa-si-apa-uzata.pdf",
+     "sha256": "b69f08d819013c11b014d9947c7e967d62605ff504c2511bdc69f56532dac29f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-190-2025",
+   "path": "local/judet/cluj/2025/190",
+   "short": "HCJ Cluj nr. 190/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 190/2025 pentru modificarea și completarea Hotărârii Consiliului Judeţean Cluj nr. 229/2024 privind desemnarea reprezentanţilor Judeţului Cluj în adunarea generală a acţionarilor la societăţile la care acesta este acţionar",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-10-30",
      "units": 1,
      "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
      "sha256": null
@@ -48,6 +1233,66 @@
    ]
   },
   {
+   "slug": "hcj-cluj-192-2025",
+   "path": "local/judet/cluj/2025/192",
+   "short": "HCJ Cluj nr. 192/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 192/2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/10",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://cjcluj.ro/hotarare-cjc/2025/10",
+     "sha256": "3f30414d65666ea2d9e793436cd401022ac479f998143d1e67387760304c99af"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-194-2025",
+   "path": "local/judet/cluj/2025/194",
+   "short": "HCJ Cluj nr. 194/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 194/2025 pentru modificarea și completarea Hotărârii Consiliului Județean Cluj nr. 152/2024 privind aprobarea Proiectului ”Dotarea Ambulatoriului Integrat al Spitalului Clinic de Boli Infecțioase Cluj-Napoca cu echipamente medicale” și a cheltuielilor legate de proiect",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/10",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/11/3b0b87e0-194_9h_suplimentare-modif-hcj-152_2024-spital-infectioase.pdf",
+     "sha256": "8dc0855e5fc5f9bbddb77468368beffaaaac99c21d9eb4f58f5a20b52422d845"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-199-2025",
+   "path": "local/judet/cluj/2025/199",
+   "short": "HCJ Cluj nr. 199/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 199/2025 privind aprobarea amplasamentului și declanșarea procedurii de expropriere a imobilelor proprietate privată, care constituie coridorul de expropriere necesar pentru realizarea obiectivului de investiții: „Modernizarea și reabilitarea drumurilor județene DJ 170B și DJ 103K”",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-199-14-noiembrie-2025-privind-aprobarea-amplasamentului-si-declansarea-procedurii-de-expropriere-a-imobilelor-proprietate-privata-care-constituie-coridorul-de-expropriere-nec/",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/11/fd73c10f-199_1_declansare-procedura-expropriere-dj.pdf",
+     "sha256": "d3a80db3286b4c08be575b1d7a7e9bcd0466446a92a9196641f366aabc0bb54e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-2-2025",
+   "path": "local/judet/cluj/2025/2",
+   "short": "HCJ Cluj nr. 2/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 2/2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/01",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://cjcluj.ro/hotarare-cjc/2025/01",
+     "sha256": "55269dacfa869f3b8c319a1a4740c711f5c7b626c903e5a84e66b6a3cb9dd12a"
+    }
+   ]
+  },
+  {
    "slug": "hcj-cluj-20-2025",
    "path": "local/judet/cluj/2025/20",
    "short": "HCJ Cluj nr. 20/2025",
@@ -59,6 +1304,276 @@
      "units": 1,
      "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/03/8655098d-20_2_intoducere-restrictii-circulatie-dj-172f.pdf",
      "sha256": "7315f6b606f1b1639f83cbb97cb354c1c9cd9f3a911a15ea75928e7d7eef8a82"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-201-2025",
+   "path": "local/judet/cluj/2025/201",
+   "short": "HCJ Cluj nr. 201/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 201/2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/11",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/11/de99f919-201_2_modificare-hcjc-157_2024_stat-de-functii-sp.-pneumoftiziologie.pdf",
+     "sha256": "8d2a7f976a71972a2d06bd669aeb07824f34fcfb8479fdb2993b1685234c0cec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-202-2025",
+   "path": "local/judet/cluj/2025/202",
+   "short": "HCJ Cluj nr. 202/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 202/2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/11",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/11/dc8edf06-202_3_modificare-hcjc-39_2025_org-stat-de-fct-rof-spital-recuperare.pdf",
+     "sha256": "a9f5ab2d0745ce26e4276d3c52e503951ae598bf9bfaea02ddb123c810ef8a74"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-203-2025",
+   "path": "local/judet/cluj/2025/203",
+   "short": "HCJ Cluj nr. 203/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 203/2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/11",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/11/2d8cf6e9-203_4_modificare-hcjc-37_2025_org-stat-de-fct-sp-copii.pdf",
+     "sha256": "b25a9b906a7633048c0b749c4e400092b7f1dc535ebf26bd74ae68777a87947a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-204-2025",
+   "path": "local/judet/cluj/2025/204",
+   "short": "HCJ Cluj nr. 204/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 204/2025 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții “Reabilitarea, modernizarea și dotarea Punctului de Comandă Județean Cluj”",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/11",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/11/20281fa3-204_5_aprobare-ind-teh-ec-modernizare-punct-de-comanda-judetean.pdf",
+     "sha256": "69fb65067df4e784a3de847395d3427944e8d7d931f7a3f5e16eabc4fc103d07"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-205-2025",
+   "path": "local/judet/cluj/2025/205",
+   "short": "HCJ Cluj nr. 205/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 205/2025 privind aprobarea proiectului Extinderea, modernizarea și dotarea Ambulatoriului Spitalului Clinic de Pneumoftiziologie ”LEON DANIELLO” Cluj-Napoca, a indicatorilor tehnico-economici și a cheltuielilor legate de proiect",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-206-2025",
+   "path": "local/judet/cluj/2025/206",
+   "short": "HCJ Cluj nr. 206/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 206/2025 pentru modificarea Hotărârii Consiliului Județean Cluj nr. 165/2022 privind aprobarea componenței nominale a Comisiei pentru Protecția Copilului Cluj",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/11",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/11/1dc7fa16-206_7_modifarea-hcjc-165_2022_modif-componenta-comisia-pt-protectia-copilului.pdf",
+     "sha256": "d4f724809894fda04ca9b632c74d5d94f4a03777b86045601201720e3042d8c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-207-2025",
+   "path": "local/judet/cluj/2025/207",
+   "short": "HCJ Cluj nr. 207/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 207/2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/11",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/11/f16e1b21-207_8_modificarea-hcjc-107_2021_modif-componenta-comisia-ev-pers-adulte-handicap.pdf",
+     "sha256": "115959af1c39fad525e836e76633e04e4f5478a2cb3394af60d197b7700bde4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-208-2025",
+   "path": "local/judet/cluj/2025/208",
+   "short": "HCJ Cluj nr. 208/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 208/2025 privind nominalizarea a doi consilieri județeni care vor avea calitatea de evaluatori în cadrul comisiei de evaluare anuală a performanțelor profesionale individuale ale Secretarului General al Județului Cluj",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-209-2025",
+   "path": "local/judet/cluj/2025/209",
+   "short": "HCJ Cluj nr. 209/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 209/2025 privind trecerea în administrarea Consiliului Județean Cluj a unor imobile și pentru modificarea și completarea Hotărârii Consiliului Județean Cluj nr. 143/2008 privind însușirea Inventarului bunurilor care alcătuiesc domeniul public al Județului Cluj",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/11",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/11/7008e5df-209_10_modif-hcjc-143_2008_inventar-bunuri-dom-pub.pdf",
+     "sha256": "73b1c55d159341d9569804be5790913762898a6c67f26fe17112f78d3a9c7b14"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-21-2025",
+   "path": "local/judet/cluj/2025/21",
+   "short": "HCJ Cluj nr. 21/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 21/2025 pentru modificarea și completarea Hotărârii Consiliului Judeţean Cluj nr. 143/2008 privind însuşirea Inventarului bunurilor care alcătuiesc domeniul public al Judeţului Cluj",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-210-2025",
+   "path": "local/judet/cluj/2025/210",
+   "short": "HCJ Cluj nr. 210/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 210/2025 privind însușirea unei documentației cadastrale pentru imobilul înscris în Cartea Funciară nr. 345986 Cluj-Napoca",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-211-2025",
+   "path": "local/judet/cluj/2025/211",
+   "short": "HCJ Cluj nr. 211/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 211/2025 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiții “Construire pavilion administrativ, desfiinţare Corp C6 (grajd)” la Spitalul de Boli Psihice Cronice Borşa",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-212-2025",
+   "path": "local/judet/cluj/2025/212",
+   "short": "HCJ Cluj nr. 212/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 212/2025 privind rectificarea bugetului general propriu al Județului Cluj pe anul 2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/11",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/11/99d9a9a1-212_12a_suplimentare-rectificare-buget.pdf",
+     "sha256": "a53b4eb9062d47832963d88010be23b69aa03a56c3809d8a614c81d823a1c674"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-213-2025",
+   "path": "local/judet/cluj/2025/213",
+   "short": "HCJ Cluj nr. 213/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 213/2025 privind alocarea unor sume din fondul de rezervă al bugetului local al Judeţului Cluj în anul 2025",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-214-2025",
+   "path": "local/judet/cluj/2025/214",
+   "short": "HCJ Cluj nr. 214/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 214/2025 privind aprobarea Proiectului Consolidarea capacităților comune de răspuns în contexte de criză complexă – DANUBE ALLIANCE și a cheltuielilor legate de proiect",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-215-2025",
+   "path": "local/judet/cluj/2025/215",
+   "short": "HCJ Cluj nr. 215/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 215/2025 privind aprobarea componentei inițiale a planului de selecție pentru întreprinderile publice aflate sub autoritatea Consiliului Judeţean Cluj, pentru mandatul 2026-2030",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-216-2025",
+   "path": "local/judet/cluj/2025/216",
+   "short": "HCJ Cluj nr. 216/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 216/2025 privind exproprierea pentru cauză de utilitate publică necesară pentru realizarea obiectivului de investiții: „Modernizarea și reabilitarea drumurilor județene DJ 170B și DJ 103K”",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-216-10-decembrie-2025-privind-exproprierea-pentru-cauza-de-utilitate-publica-necesara-pentru-realizarea-obiectivului-de-investitii-modernizarea-si-reabilitarea-drumu/",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/12/fab21e78-216_1_decizie-de-exprpriere-dj-103-k.pdf",
+     "sha256": "c24386b64cff93ee19127f40e862ddb50a5ea68e2f164c54ae87f44ab4359c6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-219-2025",
+   "path": "local/judet/cluj/2025/219",
+   "short": "HCJ Cluj nr. 219/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 219/2025 pentru stabilirea preţurilor medii la principalele produse agricole pe baza cărora vor fi stabilite veniturile din arendă în anul 2026",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
     }
    ]
   },
@@ -86,6 +1601,1146 @@
    "versions": [
     {
      "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-222-2025",
+   "path": "local/judet/cluj/2025/222",
+   "short": "HCJ Cluj nr. 222/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 222/2025 privind aprobarea execuţiei bugetului general propriu al Județului Cluj preliminată la 31 decembrie 2025",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-223-2025",
+   "path": "local/judet/cluj/2025/223",
+   "short": "HCJ Cluj nr. 223/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 223/2025 privind modificarea denumirii Școlii Profesionale Speciale SAMUS CLUJ-Napoca în “Liceul Tehnologic Special SAMUS Cluj-Napoca”",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-223-22-decembrie-2025-privind-modificarea-denumirii-scolii-profesionale-speciale-samus-cluj-napoca-in-liceul-tehnologic-special-samus-cluj-napoca/",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/12/30b6c593-223_7_schimbare-denumire-samus.pdf",
+     "sha256": "cbe4b516eb5b637be2c6b26841e7fc0885d0177bb97ee86e7009f6e0eeedec44"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-224-2025",
+   "path": "local/judet/cluj/2025/224",
+   "short": "HCJ Cluj nr. 224/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 224/2025 privind aprobarea rețelei școlare de învățământ special din Județul Cluj pentru anul școlar 2026-2027",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-224-22-decembrie-2025-privind-aprobarea-retelei-scolare-de-invatamant-special-din-judetul-cluj-pentru-anul-scolar-2026-2027/",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/12/44f7792a-224_8_aprobare-retea-scolara-2026-2027.pdf",
+     "sha256": "b523eef8904500908d579f88f9d99aa46c5bf77282fd11617f96e28a7c1bbbf4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-225-2025",
+   "path": "local/judet/cluj/2025/225",
+   "short": "HCJ Cluj nr. 225/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 225/2025 pentru modificarea Hotărârii Consiliului Judeţean Cluj nr. 123/2024 privind aprobarea Organigramei, a Statului de funcţii și a Regulamentului de organizare și funcționare pentru Muzeul Memorial ”Octavian Goga”",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-225-22-decembrie-2025-pentru-modificarea-hotararii-consiliului-judetean-cluj-nr-123-2024-privind-aprobarea-organigramei-a-statului-de-functii-si-a-regulamentului-de-organiz/",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/12/43a56cdf-225_9_anexa_.pdf",
+     "sha256": "4ed7a700a83cf7424b12ad558365876cfb7381a1e3591645dcab1f3e74f24648"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-226-2025",
+   "path": "local/judet/cluj/2025/226",
+   "short": "HCJ Cluj nr. 226/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 226/2025 privind aprobarea Structurii organizatorice, a Organigramei, a Statului de funcţii şi a Regulamentului de organizare şi funcţionare pentru Spitalul Clinic de Boli Infecțioase Cluj-Napoca",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-227-2025",
+   "path": "local/judet/cluj/2025/227",
+   "short": "HCJ Cluj nr. 227/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 227/2025 privind aprobarea înființării Centrului de Îngrijire și Asistență pentru Persoane Adulte cu Dizabilități ,,Sfânta Maria” Cluj Napoca prin reorganizarea Centrului de Îngrijire și Asistență pentru Persoane Adulte cu Dizabilități Cluj-Napoca",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-228-2025",
+   "path": "local/judet/cluj/2025/228",
+   "short": "HCJ Cluj nr. 228/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 228/2025 pentru modificarea Hotărârii Consiliului Județean Cluj nr. 139/2021 privind reorganizarea Direcției Generale de Asistență Socială și Protecția Copilului Cluj, aprobarea Organigramei, Statului de Funcții și a Regulamentului de organizare și funcționare a aparatului propriu și a serviciilor sociale furnizate de către aceasta",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-231-2025",
+   "path": "local/judet/cluj/2025/231",
+   "short": "HCJ Cluj nr. 231/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 231/2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/12",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://cjcluj.ro/hotarare-cjc/2025/12",
+     "sha256": "0f12df55601411234a932a1b93876e88988a0e47c2b3c0bbeaa193224fc6aae7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-232-2025",
+   "path": "local/judet/cluj/2025/232",
+   "short": "HCJ Cluj nr. 232/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 232/2025 privind stabilirea regimului juridic a unor imobile și modificarea lungimii drumului județean DJ 161B",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/12",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/12/ae9bd0a1-232_16_modificare-lungime-dj-161b.pdf",
+     "sha256": "610750fc839b1bdb4a28ccf9a3d878ff78a9c564e390026aa0c2feccef28ddee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-233-2025",
+   "path": "local/judet/cluj/2025/233",
+   "short": "HCJ Cluj nr. 233/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 233/2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/12",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/12/2a7dbb51-233_17_modif-hcjc-22_2015_dare-in-adm-active-sp.-pneumoftiziologie.pdf",
+     "sha256": "acbbb42d7a78e7887c8755847802a404a2520facf33a658fa98301f33d044fd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-234-2025",
+   "path": "local/judet/cluj/2025/234",
+   "short": "HCJ Cluj nr. 234/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 234/2025",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-235-2025",
+   "path": "local/judet/cluj/2025/235",
+   "short": "HCJ Cluj nr. 235/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 235/2025 privind darea în administrare a Camerei Hiperbare achiziționate în cadrul proiectului “Dotarea Ambulatoriului Spitalului Clinic de Recuperare Cluj-Napoca”",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-236-2025",
+   "path": "local/judet/cluj/2025/236",
+   "short": "HCJ Cluj nr. 236/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 236/2025 privind stabilirea perioadei pentru inventarierea anuală a bunurilor din domeniul public și privat al Județului Cluj",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/12",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/12/ab35b4e4-236_20_stabilire-perioada-inventariere-bunuri-dom-public-si-privat.pdf",
+     "sha256": "d526082e65bdb4b5af3f0712932806069283be97d0505c433cb18393bb465953"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-238-2025",
+   "path": "local/judet/cluj/2025/238",
+   "short": "HCJ Cluj nr. 238/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 238/2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/12",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/12/aef6d1c5-238_21b_suplimentare-prelungire-program-sterilizare-caini.pdf",
+     "sha256": "50b59fdac3730980ca887d5b4186f2af6f73ee7ac766418c5d269c008e530849"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-239-2025",
+   "path": "local/judet/cluj/2025/239",
+   "short": "HCJ Cluj nr. 239/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 239/2025 privind rectificarea bugetului general propriu al Judeţului Cluj pe anul 2025",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-25-2025",
+   "path": "local/judet/cluj/2025/25",
+   "short": "HCJ Cluj nr. 25/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 25/2025 privind aprobarea Organigramei, Statului de funcții și a Regulamentului de organizare și funcționare pentru Direcția Județeană de Evidență a Persoanelor Cluj",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/02",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/03/5d593fb2-25_7_aprobare-organigrama-stat-de-fct-rof-djep.pdf",
+     "sha256": "5652bb07eb1322e7c1df51237451998543bb0e5e164446b9ab202b3a75bc2dc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-26-2025",
+   "path": "local/judet/cluj/2025/26",
+   "short": "HCJ Cluj nr. 26/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 26/2025 pentru aprobarea Indicatorilor tehnico-economici ai obiectivului de investiții “Extinderea și modernizarea clădirii sediului Consiliului Județean Cluj”",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/02",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/03/ca647d71-26_8_aprobare-ind-teh-ec-extindere-si-modernizare-sediu-cjc.pdf",
+     "sha256": "a1d925caf675a676ea855ad10c79c15ba172f34f98683eb4685a93f7bf0dfd69"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-28-2025",
+   "path": "local/judet/cluj/2025/28",
+   "short": "HCJ Cluj nr. 28/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 28/2025 pentru modificarea Hotărârii Consiliului Județean Cluj nr. 212/2024 privind constituirea și organizarea comisiilor de specialitate ale Consiliului Judeţean Cluj, ca urmare a constituirii noului Consiliu Județean Cluj în data de 24 octombrie 2024",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-3-2025",
+   "path": "local/judet/cluj/2025/3",
+   "short": "HCJ Cluj nr. 3/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 3/2025",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-30-2025",
+   "path": "local/judet/cluj/2025/30",
+   "short": "HCJ Cluj nr. 30/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 30/2025 privind propunerea de schimbare a destinației imobilelor identificate în Cărțile funciare nr. 354499, nr. 357443 și nr. 354498 Cluj-Napoca",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/02",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/03/f727e52e-30_10d_suplimentare-schimbarea-destinatiei-imobilelor-din-cf-35498-354499-si-357443-copie.pdf",
+     "sha256": "b79c71ea1209c0d167dc4d3a4f6305899f784592fe0c2c2b3b0637db8d77fc5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-31-2025",
+   "path": "local/judet/cluj/2025/31",
+   "short": "HCJ Cluj nr. 31/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 31/2025 privind aprobarea unor măsuri pentru asigurarea sustenabilității proiectului ”Microbuze electrice pentru elevii din județul Cluj”",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-31-13-martie-2025-privind-aprobarea-unor-masuri-pentru-asigurarea-sustenabilitatii-proiectului-microbuze-electrice-pentru-elevii-din-judetul-cluj/",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/03/11e005a4-31_1_anexa-nr.-1.pdf",
+     "sha256": "6ded05f764b4edc1c02c9e4115136ca4f342b368d77e6357a0988076ca50946e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-32-2025",
+   "path": "local/judet/cluj/2025/32",
+   "short": "HCJ Cluj nr. 32/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 32/2025 pentru modificarea Hotărârii Consiliului Județean Cluj nr. 212/2024 privind constituirea și organizarea comisiilor de specialitate ale Consiliului Judeţean Cluj, ca urmare a constituirii noului Consiliu Județean Cluj în data de 24 octombrie 2024",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-33-2025",
+   "path": "local/judet/cluj/2025/33",
+   "short": "HCJ Cluj nr. 33/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 33/2025",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-36-2025",
+   "path": "local/judet/cluj/2025/36",
+   "short": "HCJ Cluj nr. 36/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 36/2025 pentru completarea Hotărârii Consiliului Judeţean Cluj nr. 202 / 17 octombrie 2024 privind darea în administrare a unor active achiziționate în cadrul proiectului Reducerea riscului de infecții nosocomiale în Spitalul Clinic de Boli Infecțioase",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-39-2025",
+   "path": "local/judet/cluj/2025/39",
+   "short": "HCJ Cluj nr. 39/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 39/2025 privind aprobarea Structurii organizatorice, a Organigramei, a Statului de funcții și a Regulamentului de organizare și funcționare pentru Spitalul Clinic de Recuperare Cluj-Napoca",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-39-20-martie-2025-privind-aprobarea-structurii-organizatorice-a-organigramei-a-statului-de-functii-si-a-regulamentului-de-organizare-si-functionare-pentru-spitalul-clinic-d/",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/03/eb968faa-39_2025_versiune-consolidata_hcj_202_2025.pdf",
+     "sha256": "46a50ce322997206277df8d33636564a047bf6d3b1e412f9fa7af204ddbe64ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-4-2025",
+   "path": "local/judet/cluj/2025/4",
+   "short": "HCJ Cluj nr. 4/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 4/2025",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-40-2025",
+   "path": "local/judet/cluj/2025/40",
+   "short": "HCJ Cluj nr. 40/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 40/2025 privind aprobarea unor măsuri pentru finanțarea cheltuielilor din bugetul propriu al Județului Cluj pe anul 2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/03/9acff266-40_9_aprobare-masuri-finantare-cheltuieli_excedent.pdf",
+     "sha256": "9aea56b7ad962e6243890d24a5de02998ce91a5299bce3a0052b2f57dd6bf45f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-41-2025",
+   "path": "local/judet/cluj/2025/41",
+   "short": "HCJ Cluj nr. 41/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 41/2025 privind aprobarea Contului de execuție al bugetului general propriu al Județului Cluj la 31 decembrie 2024",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/03/0de95578-41_10_aprobare-cont-de-executie-la-31.12.2024.pdf",
+     "sha256": "6167660ec5d443ca55c8e79052ed18d8bb8e79dda0089f2fe284c07ae509e645"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-42-2025",
+   "path": "local/judet/cluj/2025/42",
+   "short": "HCJ Cluj nr. 42/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 42/2025 privind aprobarea bugetului general propriu al Județului Cluj pe anul 2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/03/9f64efe7-42_11_buget-general-propriu-al-judetului-pe-anul-2025.pdf",
+     "sha256": "20257da0edad10e865096f736975e202b2be49d563fb3a2f683b32ce034c20f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-43-2025",
+   "path": "local/judet/cluj/2025/43",
+   "short": "HCJ Cluj nr. 43/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 43/2025 privind alocarea unor sume din fondul de rezervă al bugetului local al Judeţului Cluj în anul 2025",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-44-2025",
+   "path": "local/judet/cluj/2025/44",
+   "short": "HCJ Cluj nr. 44/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 44/2025 privind nominalizarea unor sume din bugetul local al Județului Cluj pe anul 2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/03/a43d0e16-44_2025_versiune-consolidata_hcj_171_2025.pdf",
+     "sha256": "ea4d3b339630d0747db4dda037fdfbf3044c4af709b8a4b5099706934a17cf52"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-46-2025",
+   "path": "local/judet/cluj/2025/46",
+   "short": "HCJ Cluj nr. 46/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 46/2025 privind aprobarea Bugetului de venituri și cheltuieli pe anul 2025 al societății Centrul Agro Transilvania Cluj S.A",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/03/f274daa3-46_16_bvc-catcj-2025.pdf",
+     "sha256": "74f205f5ba84bda201afce38ca3ba66cd1e13f8119b12c8fe9355c096bcd0cdb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-5-2025",
+   "path": "local/judet/cluj/2025/5",
+   "short": "HCJ Cluj nr. 5/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 5/2025 privind desemnarea reprezentantului Consiliului Județean Cluj în consiliul de administrație al Centrului Național de Excelență Dej pentrupregătirea elevilor la disciplina sportivă volei",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-50-2025",
+   "path": "local/judet/cluj/2025/50",
+   "short": "HCJ Cluj nr. 50/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 50/2025 privind acordarea unui mandat special reprezentantului Judeţului Cluj în Adunarea Generală a Acţionarilor la Compania de Apă Someș S.A, în vederea exercitării drepturilor de acţionar",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-51-2025",
+   "path": "local/judet/cluj/2025/51",
+   "short": "HCJ Cluj nr. 51/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 51/2025 privind privind actualizarea Indicatorilor cheie de performanță a administratorilor de la întreprinderile publice aflate sub autoritatea Consiliului Județean Cluj și pentru modificarea unor hotărâri de Consiliu Județean Cluj",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-52-2025",
+   "path": "local/judet/cluj/2025/52",
+   "short": "HCJ Cluj nr. 52/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 52/2025 privind aprobarea Bugetului de venituri și cheltuieli pe anul 2025 al societății TETAROM S.A",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/03/fe6752f5-52_1_bvc-tetarom-2025.pdf",
+     "sha256": "217b5f98ac5c7cf23e4ca21f1f1e326397e633f09a169fcbab4934d4edc7d27b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-53-2025",
+   "path": "local/judet/cluj/2025/53",
+   "short": "HCJ Cluj nr. 53/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 53/2025 privind aprobarea Bugetului de venituri și cheltuieli pe anul 2025 al societății Univers T S.A",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/03/666e2761-53_2_bvc-univers-t-2025.pdf",
+     "sha256": "41695b9a076b72615b9e21f5d18e2df6afd7605415721ac4d7de728fc1f2b51a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-54-2025",
+   "path": "local/judet/cluj/2025/54",
+   "short": "HCJ Cluj nr. 54/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 54/2025",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-55-2025",
+   "path": "local/judet/cluj/2025/55",
+   "short": "HCJ Cluj nr. 55/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 55/2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-55-9-aprilie-2025-pentru-modificarea-hotararii-consiliului-judetean-cluj-nr-122-2023-privind-aprobarea-proiectului-microbuze-electrice-pentru-elevii-din-judetul-cluj/",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/04/cd54b9bc-55_1_modif-hcj-nr-122-2023-microbuze-pt-elevi.pdf",
+     "sha256": "bb74bbe945441faeb990c1a6ccde6dd639762386dfc220b39009c6edff6ed1de"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-56-2025",
+   "path": "local/judet/cluj/2025/56",
+   "short": "HCJ Cluj nr. 56/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 56/2025 privind aprobarea depunerii spre finanțare, de către Direcția Generală de Asistență Socială și Protecția Copilului Cluj a unor proiecte pentru dotarea centrelor de zi și rezidențiale, din bugetul Ministerului Muncii, Familiei, Tineretului și Solidarității Sociale aferent anului 2025",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-58-2025",
+   "path": "local/judet/cluj/2025/58",
+   "short": "HCJ Cluj nr. 58/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 58/2025 privind înscrierea unor componente ale infrastructurii tehnico-edilitare aferente sistemului public de alimentare cu apă și de canalizare în inventarul bunurilor din domeniul public al Judeţului Cluj",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-58-29-aprilie-2025-privind-inscrierea-unor-componente-ale-infrastructurii-tehnico-edilitare-aferente-sistemului-public-de-alimentare-cu-apa-si-de-canalizare-in-inventarul-bunu/",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/04/91fcb36b-58_2_inscriere-componenete-in-inventar-bunuri-dom-pub.pdf",
+     "sha256": "e935e3cdd50d1d2c188911d6de4abe8d88b3b0f46d9776ba1a25203738fed2fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-61-2025",
+   "path": "local/judet/cluj/2025/61",
+   "short": "HCJ Cluj nr. 61/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 61/2025 privind acordarea unui mandat special reprezentantului Judeţului Cluj în Adunarea Generală a Acţionarilor la Compania de Apă Someș S.A, în vederea exercitării drepturilor de acţionar",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-62-2025",
+   "path": "local/judet/cluj/2025/62",
+   "short": "HCJ Cluj nr. 62/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 62/2025 privind vânzarea unor bunuri mobile din domeniul privat al Județului Cluj",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-63-2025",
+   "path": "local/judet/cluj/2025/63",
+   "short": "HCJ Cluj nr. 63/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 63/2025 pentru modificarea Hotărârii Consiliului Judeţean Cluj nr. 48/2023 privind aprobarea proiectului ”Dotare cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ special din Județul Cluj”",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-64-2025",
+   "path": "local/judet/cluj/2025/64",
+   "short": "HCJ Cluj nr. 64/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 64/2025 privind aprobarea contului de execuție al bugetului general propriu al Județului Cluj la 31 martie 2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/04",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/04/b51feacc-64_8_aprobare-cont-de-executie-31.03.2025.pdf",
+     "sha256": "8f5e7b99829650e42ce91b0881e4c9e7887ff70adf948dc65d023079cf1858f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-66-2025",
+   "path": "local/judet/cluj/2025/66",
+   "short": "HCJ Cluj nr. 66/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 66/2025 privind actualizarea, pentru anul 2025, a planurilor de restructurare a centrelor rezidențiale pentru persoanele adulte cu dizabilități din structura Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Cluj",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-68-2025",
+   "path": "local/judet/cluj/2025/68",
+   "short": "HCJ Cluj nr. 68/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 68/2025 privind desemnarea reprezentantului Consiliului Județean Cluj în Consiliul de administrație al Casei de Asigurări de Sănătate a Județului Cluj",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/04",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/04/343f94ef-68_13_desemnare-repr-cjc-in-ca-la-casa-de-asigurari-de-sanatate-cluj.pdf",
+     "sha256": "0a37ee5832a9392c428c487355e1725c7af72ecc6995f4e2b87c0636ec9d60f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-7-2025",
+   "path": "local/judet/cluj/2025/7",
+   "short": "HCJ Cluj nr. 7/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 7/2025 privind numirea administratorului special la societatea Pază și Protecție Cluj S.R.L",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/01",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/01/108344d7-7_6_numire-administrator-special-paza-si-protectie.pdf",
+     "sha256": "fab1b10fa2d3869ac17ad3ccdea23c839fb7ac9f8351e5c5e436595d24112a3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-70-2025",
+   "path": "local/judet/cluj/2025/70",
+   "short": "HCJ Cluj nr. 70/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 70/2025 privind validarea nominală a membrilor Autorității Teritoriale de Ordine Publică Cluj",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/04",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/04/2b6ea77e-70_15_validare-membrii-atop.pdf",
+     "sha256": "b25b65f8b1c66ab53a6b7dff0fb1f17797a8c770c0a4084767df3a4a5ae0dbf8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-71-2025",
+   "path": "local/judet/cluj/2025/71",
+   "short": "HCJ Cluj nr. 71/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 71/2025 privind actualizarea componenței nominale a Comisiei tehnice de Amenajare a Teritoriului și Urbanism al Județului Cluj și a regulamentului de organizare și funcționare al acesteia",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-72-2025",
+   "path": "local/judet/cluj/2025/72",
+   "short": "HCJ Cluj nr. 72/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 72/2025 privind aprobarea unor măsuri pentru asigurarea sustenabilității proiectului ”Microbuze electrice pentru elevii din Județul Cluj în cadrul Programului Administrației Fondului pentru Mediu”",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-73-2025",
+   "path": "local/judet/cluj/2025/73",
+   "short": "HCJ Cluj nr. 73/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 73/2025 privind încheierea Protocolului pentru delegarea dreptului de administrare temporară a suprafeței de 55 mp aferentă DJ 107R, în vederea implementării, de către Comuna Ciurila a proiectului “Stații de încărcare pentru vehicule electrice în comuna Ciurila“",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-74-2025",
+   "path": "local/judet/cluj/2025/74",
+   "short": "HCJ Cluj nr. 74/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 74/2025",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-75-2025",
+   "path": "local/judet/cluj/2025/75",
+   "short": "HCJ Cluj nr. 75/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 75/2025 pentru aprobarea modificării tarifelor de salubrizare prevăzute în Contractul de delegare prin concesionare a gestiunii serviciului public de operare a Centrului de Management Integrat al Deşeurilor Cluj-Napoca nr. 7735/69 din 28.02.2022",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-77-2025",
+   "path": "local/judet/cluj/2025/77",
+   "short": "HCJ Cluj nr. 77/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 77/2025 privind aprobarea Organigramei, Statului de funcţii şi a Regulamentului de organizare şi funcţionare pentru Direcția Județeană de Evidență a Persoanelor Cluj",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-77-27-mai-2025-privind-aprobarea-organigramei-statului-de-functii-si-a-regulamentului-de-organizare-si-functionare-pentru-directia-judeteana-de-evidenta-a-persoanelor-cluj/",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/05/440707b9-77_2_djep.pdf",
+     "sha256": "835ff320fd2d229eb1d6281ce5af1b826992ca487803bf010f446d8da88606bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-78-2025",
+   "path": "local/judet/cluj/2025/78",
+   "short": "HCJ Cluj nr. 78/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 78/2025 privind înscrierea unor componente ale infrastructurii tehnico-edilitare aferente sistemului public de alimentare cu apă și de canalizare în inventarul bunurilor din domeniul public al Judeţului Cluj",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-78-27-mai-2025-privind-inscrierea-unor-componente-ale-infrastructurii-tehnico-edilitare-aferente-sistemului-public-de-alimentare-cu-apa-si-de-canalizare-in-inventarul-bunurilo/",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/05/5d55cbd6-78_3_inscriere-componente-in-inventar-bunuri-dom-pub-comp-de-apa.pdf",
+     "sha256": "6e328c6b4632f98fbe24ab79801fb22a856d03bb0caaaa87920e0ffb44132da2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-79-2025",
+   "path": "local/judet/cluj/2025/79",
+   "short": "HCJ Cluj nr. 79/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 79/2025 pentru modificarea Hotărârii Consiliului Judeţean Cluj nr. 23/2025 privind aprobarea Structurii organizatorice, a Organigramei, a Statului de funcţii şi a Regulamentului de organizare şi funcţionare pentru Spitalul de Boli Psihice Cronice Borșa",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-8-2025",
+   "path": "local/judet/cluj/2025/8",
+   "short": "HCJ Cluj nr. 8/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 8/2025 pentru modificarea Hotărârii Consiliului Judeţean Cluj nr. 123/2024 privind aprobarea Organigramei, a Statului de funcţii și aRegulamentului de organizare și funcționare pentru Muzeul Memorial ”Octavian Goga”",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-80-2025",
+   "path": "local/judet/cluj/2025/80",
+   "short": "HCJ Cluj nr. 80/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 80/2025 pentru modificarea Hotărârii Consiliului Judeţean Cluj nr. 39/2025 privind aprobarea Structurii organizatorice, a Organigramei, a Statului de funcţii şi a Regulamentului de organizare şi funcţionare pentru Spitalul Clinic de Recuperare Cluj-Napoca",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-81-2025",
+   "path": "local/judet/cluj/2025/81",
+   "short": "HCJ Cluj nr. 81/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 81/2025",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-82-2025",
+   "path": "local/judet/cluj/2025/82",
+   "short": "HCJ Cluj nr. 82/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 82/2025 privind acordarea unui mandat special reprezentantului Judeţului Cluj în Adunarea Generală a Acţionarilor la TETAROM S.A, în vederea exercitării drepturilor de acţionar",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-82-27-mai-2025-privind-acordarea-unui-mandat-special-reprezentantului-judetului-cluj-in-adunarea-generala-a-actionarilor-la-tetarom-s-a-in-vederea-exercitarii-drepturilor-de/",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/05/07bddfee-82_7_situatii-financiare-tetarom.pdf",
+     "sha256": "971a7425a8fc0caac24d74bd2b0ca2906d079008e3a02c24f1ae962e7e568f9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-83-2025",
+   "path": "local/judet/cluj/2025/83",
+   "short": "HCJ Cluj nr. 83/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 83/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ee65bf4e455f125e13a6a0687e39352aa908e44b6e8a97fa1e44b2cd8224773e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-84-2025",
+   "path": "local/judet/cluj/2025/84",
+   "short": "HCJ Cluj nr. 84/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 84/2025 privind aprobarea situațiilor financiare la data de 31.12.2024 ale societății Univers T S.A",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/05",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/05/9e85dd79-84_9_situatii-financiare-univers-t.pdf",
+     "sha256": "cb190c60235c6adc0ffb7f32e9cc1c62db2991f47e351f7b1c550dc128bef454"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-85-2025",
+   "path": "local/judet/cluj/2025/85",
+   "short": "HCJ Cluj nr. 85/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 85/2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/05",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://cjcluj.ro/hotarare-cjc/2025/05",
+     "sha256": "63a8940c41fa56c969a7e9272324cd6b4128c4abcc84e9b4252c5a2d76e15a3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-86-2025",
+   "path": "local/judet/cluj/2025/86",
+   "short": "HCJ Cluj nr. 86/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 86/2025 pentru modificarea Hotărârii Consiliului Județean Cluj nr. 270/2024 privind încheierea unui contract de comodat între Județul Cluj și Inspectoratul pentru Situații de Urgență ,,Avram Iancu” al Județului Cluj",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-87-2025",
+   "path": "local/judet/cluj/2025/87",
+   "short": "HCJ Cluj nr. 87/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 87/2025 privind constituirea dreptului de administrare în favoarea Spitalului Clinic Județean de Urgență Cluj-Napoca asupra unei părți din imobilul identificat în Cartea Funciară nr. 335875 Cluj-Napoca și pentru modificarea și completarea Hotărârii Consiliului Judeţean Cluj nr. 143/2008 privind însuşirea Inventarului bunurilor care alcătuiesc domeniul public al Judeţului Cluj",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-88-2025",
+   "path": "local/judet/cluj/2025/88",
+   "short": "HCJ Cluj nr. 88/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 88/2025 pentru exercitarea calității de acționar privind evaluarea administratorilor pe anul 2024 de la unele întreprinderi publice aflate sub autoritatea Consiliului Județean Cluj",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-89-2025",
+   "path": "local/judet/cluj/2025/89",
+   "short": "HCJ Cluj nr. 89/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 89/2025",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-90-2025",
+   "path": "local/judet/cluj/2025/90",
+   "short": "HCJ Cluj nr. 90/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 90/2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/05",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://cjcluj.ro/hotarare-cjc/2025/05",
+     "sha256": "781fcbfece64273f150ceebee9c29e39abaf600b112b61e69f45325b1e03c048"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-91-2025",
+   "path": "local/judet/cluj/2025/91",
+   "short": "HCJ Cluj nr. 91/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 91/2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/05",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://cjcluj.ro/hotarare-cjc/2025/05",
+     "sha256": "260e51a84b40ad698ccd3fadb4b6943db833718e87b8ea49ccbc1372f5f8ff12"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-92-2025",
+   "path": "local/judet/cluj/2025/92",
+   "short": "HCJ Cluj nr. 92/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 92/2025 privind alocarea unor sume din fondul de rezervă al bugetului local al Judeţului Cluj în anul 2025",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-93-2025",
+   "path": "local/judet/cluj/2025/93",
+   "short": "HCJ Cluj nr. 93/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 93/2025",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/05",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://cjcluj.ro/hotarare-cjc/2025/05",
+     "sha256": "14c6f102c8a27f596960d3748d35af300dd4c071bf9869d305cd4c597c387acd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-96-2025",
+   "path": "local/judet/cluj/2025/96",
+   "short": "HCJ Cluj nr. 96/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 96/2025 privind nominalizarea pe beneficiari a sumei de 1.600.000 lei, aprobată prin Hotărârea Consiliului Județean Cluj nr. 42/2025 la Capitolul 67.02 Activități Sportive",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/05",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/05/c442ef8a-96_16e_suplimentare-nominalizare-sume-sport.pdf",
+     "sha256": "7b44d12e178a0888d8ebed0565f8979e67c7685a7f7576436208b298b2a93f9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-97-2025",
+   "path": "local/judet/cluj/2025/97",
+   "short": "HCJ Cluj nr. 97/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 97/2025 privind nominalizarea pe beneficiari a sumei de 1.200 mii lei aprobată prin Hotărârea Consiliului Județean Cluj nr. 42/2025, la Capitolul 67.02 Alte Acțiuni de Cultură",
+   "url": "https://cjcluj.ro/hotarare-cjc/2025/05",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2025/05/b1141849-97_16f_suplimentare-nominalizare-sume-cultura.pdf",
+     "sha256": "8c678be18f4f9843d9738fee9d536038321b217d08fbb0c4cc9cd46216b18074"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-98-2025",
+   "path": "local/judet/cluj/2025/98",
+   "short": "HCJ Cluj nr. 98/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 98/2025 privind nominalizarea pe beneficiari a sumei de 4.100.000 lei aprobată prin Hotărârea Consiliului Județean Cluj nr. 42/2025 la Capitolul 67.02 Alte Culte",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-99-2025",
+   "path": "local/judet/cluj/2025/99",
+   "short": "HCJ Cluj nr. 99/2025",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 99/2025 privind aprobarea Acordului de parteneriat „Alianța regională pentru reconstrucția Ucrainei”",
+   "url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
+   "versions": [
+    {
+     "from": "2025-06-11",
      "units": 1,
      "source_url": "https://data.gov.ro/dataset/hotarari_cjc_2025",
      "sha256": null

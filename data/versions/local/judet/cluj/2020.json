@@ -3,6 +3,201 @@
  "shard": "local/judet/cluj/2020",
  "acts": [
   {
+   "slug": "hcj-cluj-101-2020",
+   "path": "local/judet/cluj/2020/101",
+   "short": "HCJ Cluj nr. 101/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 101/2020 pentru modificarea și completarea Hotărârii Consiliului Județean Cluj nr. 143/2016 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Județean Cluj",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/04",
+   "versions": [
+    {
+     "from": "2020-04-16",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/101_3_modif-HCJ-143_2016_ROF-CJC-2020.pdf",
+     "sha256": "12d7be45c6db8632beb784ba52cd4b7aa02f6426c6be9984379202c4b72cc67e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-103-2020",
+   "path": "local/judet/cluj/2020/103",
+   "short": "HCJ Cluj nr. 103/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 103/2020",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/04",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/103_2_modif-HCJ-96_2020_trecere-DJ-150A-in-propr-stat-roman.pdf",
+     "sha256": "b43c65734ed9211c7c82d245e12809bc4e3ad573c6c263c33bf67872bf71316b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-108-2020",
+   "path": "local/judet/cluj/2020/108",
+   "short": "HCJ Cluj nr. 108/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 108/2020",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/05",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/108_3_modif-HCJC-1-din-2019-trecere-teren-dom-privat.pdf",
+     "sha256": "a94f1d37f715c78a2cbb88be3b27c55a845b16327299854b43bf177331e3326a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-109-2020",
+   "path": "local/judet/cluj/2020/109",
+   "short": "HCJ Cluj nr. 109/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 109/2020",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/05",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/109_4_modif-HCJ-250-2018-INDICATORI-RECUPERARE.pdf",
+     "sha256": "6e38b0ac66714e05979d596d464c8eb07c09997fc4b4a4dd47792efcaf844ddf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-116-2020",
+   "path": "local/judet/cluj/2020/116",
+   "short": "HCJ Cluj nr. 116/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 116/2020",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/05",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/116_10A_modif-HCJ-74-2019-Extindere-etajare-amenajare-birouri-la-etaj-revizuit-Sp.-Pneumo.pdf",
+     "sha256": "365bf4084a25b453e977cbb88f458eeb80703f66e0369cd1ce4a854e4d62d79b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-118-2020",
+   "path": "local/judet/cluj/2020/118",
+   "short": "HCJ Cluj nr. 118/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 118/2020",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/05",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/118_10C_modif-HCJ_119_2019_26.05.pdf",
+     "sha256": "c313e9c2709a1a9e333fdf13d9f20a8b3e2eb9bc0fcac85e9d9f65fbd5211d0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-12-2020",
+   "path": "local/judet/cluj/2020/12",
+   "short": "HCJ Cluj nr. 12/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 12/2020 privind darea ȋn administrare a unor active achiziționate prin Programul Național de Dezvoltare Locală 2017-2020",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/01",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/12_7E_SUPLIMENTARE-dare-in-administrare-active-achizitionate-PNDL_spitale-ian-2020.pdf",
+     "sha256": "c853335ddc5b5a1c7984c266237ccbb02097c6570d86b723cbf273d00ea34175"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-122-2020",
+   "path": "local/judet/cluj/2020/122",
+   "short": "HCJ Cluj nr. 122/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 122/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "cfe0a69b1a369936ba711be0e58c6754f26063f6dbba9fbc24fd35bfdd84c8f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-123-2020",
+   "path": "local/judet/cluj/2020/123",
+   "short": "HCJ Cluj nr. 123/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 123/2020 privind aprobarea Monografiei economico-militare a județului Cluj",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-123-30-iunie-2020-privind-aprobarea-monografiei-economico-militare-a-judetului-cluj/",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/123_2_Monografie-militara-2020.pdf",
+     "sha256": "1a71bf60dd516bbcc605f10ebaf1f6d738d186b0e159e675de724b66e3cfabfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-124-2020",
+   "path": "local/judet/cluj/2020/124",
+   "short": "HCJ Cluj nr. 124/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 124/2020 pentru modificarea Hotărârii Consiliului Județean Cluj nr. 43/2019 privind aprobarea Protocolului de colaborare între Județul Cluj și Agenția Națională Antidrog, cu modificările ulterioare",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-124-30-iunie-2020-pentru-modificarea-hotararii-consiliului-judetean-cluj-nr-43-2019-privind-aprobarea-protocolului-de-colaborare-intre-judetul-cluj-si-agentia-nationala-antidrog-cu-m/",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-124-30-iunie-2020-pentru-modificarea-hotararii-consiliului-judetean-cluj-nr-43-2019-privind-aprobarea-protocolului-de-colaborare-intre-judetul-cluj-si-agentia-nationala-antidrog-cu-m/",
+     "sha256": "b672679a01ee4f92c333eac1b1e0463e6f9e07eab045b9f310e224d71a6998c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-126-2020",
+   "path": "local/judet/cluj/2020/126",
+   "short": "HCJ Cluj nr. 126/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 126/2020 pentru modificarea Hotărârii Consiliului Județean Cluj nr. 164/2019 privind aprobarea Structurii organizatorice, a Organigramei, a Statului de funcții și a Regulamentului de organizare și funcționare pentru Spitalul Clinic de Recuperare Cluj-Napoca, cu modificările ulterioare",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-126-30-iunie-2020-pentru-modificarea-hotararii-consiliului-judetean-cluj-nr-164-2019-privind-aprobarea-structurii-organizatorice-a-organigramei-a-statului-de-functii-si-a-regulame/",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/126_5_modif-HJC-124-2019-org-stat-functii-S-RECUPERARE.pdf",
+     "sha256": "01b73e9cbd02f54c7faa46fe60a07f4583c34e1d35704b1af2b0842b2142e8ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-127-2020",
+   "path": "local/judet/cluj/2020/127",
+   "short": "HCJ Cluj nr. 127/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 127/2020",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-127-30-iunie-2020-pentru-modificarea-hotararii-consiliului-judetean-cluj-nr-112-2020-privind-aprobarea-inchirierii-unor-suprafete-din-imobile-aflate-in-domeniul-public-sau-privat-al/",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2020/06/127_6_modif-hcj_112_2020_inch.spatii-aero..pdf",
+     "sha256": "e102fd5204f0ce8b0675c6bf32d736876522a96360c44e487142976b2dc8b6ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-134-2020",
+   "path": "local/judet/cluj/2020/134",
+   "short": "HCJ Cluj nr. 134/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 134/2020 pentru modificarea Hotărârii Consiliului Județean Cluj nr. 161/2018 privind aprobarea indicatorilor tehnico-economici aferenți obiectivului de investiții din cadrul Proiectului ” Extinderea și modernizarea Ambulatoriului Clinic Psihiatrie Pediatrică din cadrul Spitalului Clinic de Urgență pentru Copii Cluj”",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/06",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/134_11B_modif-HCJ-161-2018-indicatori-PSIHIATRIE-1.pdf",
+     "sha256": "59e410e8e55b86a27bc772f026e0c8f58a457cfd771a81c92e92f71bd244755e"
+    }
+   ]
+  },
+  {
    "slug": "hcj-cluj-14-2020",
    "path": "local/judet/cluj/2020/14",
    "short": "HCJ Cluj nr. 14/2020",
@@ -14,6 +209,351 @@
      "units": 1,
      "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/14_2_taxe-si-tarife-CJCJ-2020.pdf",
      "sha256": "2c2c32b27d0983325476cfd3f37575510cecaea2b57308b7d69aca26d49ba3d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-146-2020",
+   "path": "local/judet/cluj/2020/146",
+   "short": "HCJ Cluj nr. 146/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 146/2020 pentru modificarea Hotărârii Consiliului Județean Cluj nr. 174/2018 privind aprobarea Structurii organizatorice, a Organigramei, a Statului de funcții și a Regulamentului de organizare și funcționare pentru Spitalul Clinic de Pneumoftiziologie ,,Leon Daniello” Cluj-Napoca, cu modificările ulterioare",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/07",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/146_3_organigrama-si-stat-de-functii-Spitalul-Pneumo.pdf",
+     "sha256": "a8869ba474e70a4c87b65c785f4028eaec6b9a31857047f531227d505e4f9929"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-149-2020",
+   "path": "local/judet/cluj/2020/149",
+   "short": "HCJ Cluj nr. 149/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 149/2020",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/07",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/149_6_modif-HCJ-78-2017-organ-Spit-Copii.pdf",
+     "sha256": "612b39ea73b2a48bbc1fbaf2056dfada43152e343243d4b8e2294cb58e1f8679"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-152-2020",
+   "path": "local/judet/cluj/2020/152",
+   "short": "HCJ Cluj nr. 152/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 152/2020",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/07",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/152_9_modificare_parteneriat-camin-persoane-varstnice-Aghiresu_2.pdf",
+     "sha256": "f32ba1391842aef56869c77e11fcb74f4c02ef832ffaea6e321532117c76138e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-156-2020",
+   "path": "local/judet/cluj/2020/156",
+   "short": "HCJ Cluj nr. 156/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 156/2020 privind nominalizarea a doi consilieri județeni care vor avea calitatea de evaluatori în cadrul Comisiei de evaluare parțială a performanțelor profesionale individuale ale Secretarului General al Județului Cluj",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-156-31-august-2020-privind-nominalizarea-a-doi-consilieri-judeteni-care-vor-avea-calitatea-de-evaluatori-in-cadrul-comisiei-de-evaluare-partiala-a-performantelor-profesionale-individ/",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/156_1_evaluare-secretar-general.pdf",
+     "sha256": "6702ad3c34df9108d1115fd93147213e86a1555d17c056090412ee11d5518f3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-157-2020",
+   "path": "local/judet/cluj/2020/157",
+   "short": "HCJ Cluj nr. 157/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 157/2020",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-157-31-august-2020-pentru-modificarea-hotararii-consiliului-judetean-cluj-nr-164-2019-privind-aprobarea-structurii-organizatorice-a-organigramei-a-statului-de-functii-si-a-regulam/",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/157_2_Anexa-1-STRUCTURA_ORGANIZATORICA-SPITAL-RECUPERARE_august_2020.pdf",
+     "sha256": "7fc6db0fb0797dbe2e996660cc7ab9f1a70c43b21ab8f0dfec9bff4566bf5c5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-158-2020",
+   "path": "local/judet/cluj/2020/158",
+   "short": "HCJ Cluj nr. 158/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 158/2020 pentru modificarea Hotărârii Consiliului Județean Cluj nr. 41/2017 pentru aprobarea Structurii organizatorice, a Organigramei, a Statului de funcții și a Regulamentului de organizare și funcționare pentru Spitalul de Boli Psihice Cronice Borșa, cu modificările ulterioare",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-158-31-august-2020-pentru-modificarea-hotararii-consiliului-judetean-cluj-nr-41-2017-pentru-aprobarea-structurii-organizatorice-a-organigramei-a-statului-de-functii-si-a-regulament/",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/158_3_modif-HCJ-41-2017-organ-stat-functii...-Spit-Borsa.pdf",
+     "sha256": "9fe04f0166f32912af63513d98548d129ea50aea451571bc4b7837a194cc9ba6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-159-2020",
+   "path": "local/judet/cluj/2020/159",
+   "short": "HCJ Cluj nr. 159/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 159/2020",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-159-31-august-2020-pentru-modificarea-hotararii-consiliului-judetean-cluj-nr-39-2017-pentru-aprobarea-structurii-organizatorice-a-organigramei-a-statului-de-functii-si-a-regulamentu/",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/159_4_modif-HCJ-39-2017-org-stat-functii-Spitalul-de-Boli-Infectioase.pdf",
+     "sha256": "37b17bb44a777becb6c424736c89d4bf2538eab4af5badfea8871103382f7f16"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-162-2020",
+   "path": "local/judet/cluj/2020/162",
+   "short": "HCJ Cluj nr. 162/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 162/2020 pentru modificarea Hotărârii Consiliului Județean Cluj nr. 245/2016 privind validarea nominală a membrilor Autorității Teritoriale de Ordine Publică Cluj, cu modificările ulterioare",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/08",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/162_7_modif-HCJ-245-2016-ATOP-demisie-Marinela-Marc-validare-Andro-Marinel-si-sef-IPJ.pdf",
+     "sha256": "65b8523a2a529e3fcdfb0acf39451b8ba4ce19825cf4ba4fb4cfb07adb2a6895"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-163-2020",
+   "path": "local/judet/cluj/2020/163",
+   "short": "HCJ Cluj nr. 163/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 163/2020 pentru modificarea Hotărârii Consiliului Județean Cluj nr. 102/2019 privind aprobarea Organigramei, a Statului de funcții și a Regulamentului de organizare și funcționare pentru Muzeul Etnografic al Transilvaniei",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/08",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/163_8_modif-HCJ-102-2019-organ-stat-functii-Muzeul-Etnografic-al-Transilvaniei.pdf",
+     "sha256": "76cc57261fb3ee80e3b865f7f985db70b965dfd18c9243e5f5e2ab14fea1032a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-166-2020",
+   "path": "local/judet/cluj/2020/166",
+   "short": "HCJ Cluj nr. 166/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 166/2020",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/08",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/166_11_modif-HCJ-46-2014-organ-stat-functii-Aeroport.pdf",
+     "sha256": "3ecd6ac0bb3d07d525ddf7ad20907976830bd44d1e7df6a52b9927883c63da78"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-170-2020",
+   "path": "local/judet/cluj/2020/170",
+   "short": "HCJ Cluj nr. 170/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 170/2020 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Județean Cluj (Formă republicată în temeiul art. II din Hotărârea Consiliului Județean Cluj nr. 57/2022 pentru modificarea și completarea Hotărârii Consiliului Județean Cluj nr. 170/2020 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Județean Cluj)",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/08",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2020/08/1_57_2_HCJ-170_2020-_anexa-ROF-repub-2022-forma-Site.pdf",
+     "sha256": "b3dedd3effb8f21f729e61b96165b8ab3f440fa2fbcca5435bc731c7bffa1f30"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-176-2020",
+   "path": "local/judet/cluj/2020/176",
+   "short": "HCJ Cluj nr. 176/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 176/2020 pentru modificarea Hotărârii Consiliului Județean Cluj nr. 328/2012 pentru aprobarea Programului de transport public de persoane prin curse regulate în trafic județean pe anii 2014-2019, cu modificările și completările ulterioare",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/09",
+   "versions": [
+    {
+     "from": "2020-09-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/176_2_modif-HCJ-328-2018-aprobare-Program-transport_12.08.2020.pdf",
+     "sha256": "d2b4df8870d3dfa7dddb9b6b9ccc8a439a407f6cb9e01d0b910fa322ff4ff528"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-178-2020",
+   "path": "local/judet/cluj/2020/178",
+   "short": "HCJ Cluj nr. 178/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 178/2020 pentru modificarea Hotărârii Consiliului Județean Cluj nr. 174/2018 privind aprobarea Structurii organizatorice, a Organigramei, a Statului de funcții și a Regulamentului de organizare și funcționare pentru Spitalul Clinic de Pneumoftiziologie ,,Leon Daniello” Cluj-Napoca, cu modificările ulterioare",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/09",
+   "versions": [
+    {
+     "from": "2020-09-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/178_4_modif-HCJ-174-2018-aprobare-organigrama-si-stat-de-fct-Spitalul-Pneumo.pdf",
+     "sha256": "3d9f1a1d0cbe35fd3b0a27381d02bf097ad116f3d34aa8afbe8521819af403b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-184-2020",
+   "path": "local/judet/cluj/2020/184",
+   "short": "HCJ Cluj nr. 184/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 184/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-10-23",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/184_1_alegere-vicepresedine-1.pdf",
+     "sha256": "e91682445347926ff2c655127a477bfbf1516c1a3a2efa0c72834da682727cd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-185-2020",
+   "path": "local/judet/cluj/2020/185",
+   "short": "HCJ Cluj nr. 185/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 185/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-10-23",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/185_2_alegere-vicepresedine-2.pdf",
+     "sha256": "8ca7ea4ece89e27f16fb95292ff39a8fe7dd67c3a0dc98a82682c924c5169ded"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-195-2020",
+   "path": "local/judet/cluj/2020/195",
+   "short": "HCJ Cluj nr. 195/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 195/2020 privind aprobarea execuției bugetului general propriu al Județului Cluj la data de 30 septembrie 2020",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/10",
+   "versions": [
+    {
+     "from": "2020-10-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/195_8_aprobare-exec-bug-oct-2020.pdf",
+     "sha256": "a48a929e12cab24ca66dc00104de2b9b0492ea95d0a9dc82b8e0706082455bc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-202-2020",
+   "path": "local/judet/cluj/2020/202",
+   "short": "HCJ Cluj nr. 202/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 202/2020",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-202-26-noiembrie-2020-pentru-modificarea-hotararii-consiliului-judetean-cluj-nr-174-2018-privind-aprobarea-structurii-organizatorice-a-organigramei-a-statului-de-functii-si-a-regula/",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/202_2_Anexa-1-Organigrama-noiemb-2020.pdf",
+     "sha256": "df345b17233d9b544d113e43b4763ebb8b8ed39b69dfb57f88a6bba947d1024b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-205-2020",
+   "path": "local/judet/cluj/2020/205",
+   "short": "HCJ Cluj nr. 205/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 205/2020 privind numirea Comisiei cu atribuții de selecție, negociere indicatori și evaluare a administratorilor de la întreprinderilor publice aflate sub autoritatea Consiliului Județean Cluj",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-205-26-noiembrie-2020-privind-numirea-comisiei-cu-atributii-de-selectie-negociere-indicatori-si-evaluare-a-administratorilor-de-la-intreprinderilor-publice-aflate-sub-autoritatea-con/",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2020/11/205_5_Comisie-selectie-administratori_.pdf",
+     "sha256": "bf1d21bc13ebc5689091221fae1077f8401cc604f50f5f8a604efcceecd87fca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-209-2020",
+   "path": "local/judet/cluj/2020/209",
+   "short": "HCJ Cluj nr. 209/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 209/2020 privind desemnarea reprezentantului Consiliului Județean Cluj în Consiliul de administrație al Centrului Județean de Resurse și Asistență Educațională Cluj",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/11",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2020/11/209_9_-desemnarea-reprezentantului-CJC-in-consiliul-de-administratie-al-Centrului-Judetean-de-Resurse-si-Asistenta-Educationala-Cluj_.pdf",
+     "sha256": "6a689b02d20834f8bc5b42e2ed68d7dfec9cd5802ac7fccc78623a409576a4ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-214-2020",
+   "path": "local/judet/cluj/2020/214",
+   "short": "HCJ Cluj nr. 214/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 214/2020",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/11",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2020/11/214_14_modif-HCJ-78-2017-org-stat-functii-Spit-Copii_.pdf",
+     "sha256": "8e624e798e8ead6b53b7513e7d13300259c43e0652a6616d13dc5c4128fbae5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-215-2020",
+   "path": "local/judet/cluj/2020/215",
+   "short": "HCJ Cluj nr. 215/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 215/2020 privind aprobarea Organigramei, a Statului de funcții și a Regulamentului de organizare și funcționare pentru Muzeul Memorial ”Octavian Goga”",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/11",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2020/11/215_15_organigrama-stat-de-functii-ROF-Muzeu-Goga-Ciucea_.pdf",
+     "sha256": "15f4c74ff4969e655df4c2a8227ddc6586d37b2508d65a0009f6f0bc6b75acc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-216-2020",
+   "path": "local/judet/cluj/2020/216",
+   "short": "HCJ Cluj nr. 216/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 216/2020",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/11",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://cjcluj.ro/hotarare-cjc/2020/11",
+     "sha256": "b29ab4e03254a2f984b56f8337a2ffa9dae42341015e5439de1b713965c16324"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-222-2020",
+   "path": "local/judet/cluj/2020/222",
+   "short": "HCJ Cluj nr. 222/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 222/2020 privind înființarea unui serviciu social pentru victimele violenței domestice în structura Direcției Generale de Asistență Socială și Protecția Copilului Cluj",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/11",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/222_16F_SUPLIMENTARE-infiintare-serviciu-nou-DGASPC-MODIF.pdf",
+     "sha256": "ad155cf66f07cc0b2fd81d15245ff3abb25a7f7faf68b2cc44c9b7b86b61e465"
     }
    ]
   },
@@ -59,6 +599,381 @@
      "units": 1,
      "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/227_5_aprobare-taxe-si-tarife-CJC-2021.pdf",
      "sha256": "5978ac3f230c62c3e5155ba8bd4e027dd3c498ea49f087842e08cfd5ac4b5bb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-228-2020",
+   "path": "local/judet/cluj/2020/228",
+   "short": "HCJ Cluj nr. 228/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 228/2020",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/12",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/228_6_modif-HCJ-152-2016-organ-stat-functii-CLUJANA.pdf",
+     "sha256": "5ea16c0ac27b45cc6fc9a0e15b5d16105e911a3dde2dfb068e4d5a47ff801c5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-229-2020",
+   "path": "local/judet/cluj/2020/229",
+   "short": "HCJ Cluj nr. 229/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 229/2020 privind aprobarea Bugetului de venituri și cheltuieli pe anul 2020, rectificat, al societății Univers T S.A",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/12",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/229_7_aprobare-BVC-rectif-Univers-T.pdf",
+     "sha256": "b4ef415403c1048bea09d27435bcaf88d0fb83fd8de64ec61cb17fb4d2c8551e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-230-2020",
+   "path": "local/judet/cluj/2020/230",
+   "short": "HCJ Cluj nr. 230/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 230/2020 privind aprobarea Regulamentului de Organizare și Funcționare al societății Centrul Agro Transilvania Cluj S.A",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/12",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2020/12/230_8_aprobare-ROF-Centrul-agro_.pdf",
+     "sha256": "be0915e394fbd1ad26d70a4546d74c3a6bf5ac82889e47d4154708da46d110db"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-233-2020",
+   "path": "local/judet/cluj/2020/233",
+   "short": "HCJ Cluj nr. 233/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 233/2020 privind stabilirea unor măsuri în cadrul asociațiilor de dezvoltare intercomunitară la care Județul Cluj are calitatea de asociat",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/12",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://cjcluj.ro/hotarare-cjc/2020/12",
+     "sha256": "19d9241205984f527187aabb4f36d9a4f6b27a6552d32bea9e0e6a31e430aa0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-235-2020",
+   "path": "local/judet/cluj/2020/235",
+   "short": "HCJ Cluj nr. 235/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 235/2020",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/12",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/235_13_asociere-UAT-J-Cluj-UAT-M-Turda.pdf",
+     "sha256": "7560716a3de6a7f03b8461b7a4f09919f5f39759b30fb095d3c9f8ebd523fb5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-240-2020",
+   "path": "local/judet/cluj/2020/240",
+   "short": "HCJ Cluj nr. 240/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 240/2020",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/12",
+   "versions": [
+    {
+     "from": "2020-12-31",
+     "units": 1,
+     "source_url": "https://cjcluj.ro/hotarare-cjc/2020/12",
+     "sha256": "46dfe3988e20fd0e42d61548856cb5edb5554be0a31bd08df077c160673c6b09"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-241-2020",
+   "path": "local/judet/cluj/2020/241",
+   "short": "HCJ Cluj nr. 241/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 241/2020",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/12",
+   "versions": [
+    {
+     "from": "2020-12-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/241_2A_modif-HCJ-186-2020-Comisii-de-specialitate.pdf",
+     "sha256": "ef89ee5db9faaede674dbdfdd221cf5214be5e62e85ff87d9d5f5b6ae62ef609"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-39-2020",
+   "path": "local/judet/cluj/2020/39",
+   "short": "HCJ Cluj nr. 39/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 39/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": null,
+     "sha256": "753ec0f7cfd67c13fffe205a4748610f04bfe87300adb58050c42df96bdd5282"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-40-2020",
+   "path": "local/judet/cluj/2020/40",
+   "short": "HCJ Cluj nr. 40/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 40/2020 privind aprobarea prețului de cumpărare al imobilului-teren- înscris în Cartea funciară nr. 59076 Apahida, stabilit în urma negocierii",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-40-20-februarie-2020-privind-aprobarea-pretului-de-cumparare-al-imobilului-teren-inscris-in-cartea-funciara-nr-59076-apahida-stabilit-in-urma-negocierii/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/40_28_aprobare-cumparare-teren-CF-59076-apahida.pdf",
+     "sha256": "adfccf17787051942aca6ee896228e7c8d2ef6982c66f35d6ef136c93cbeb60d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-41-2020",
+   "path": "local/judet/cluj/2020/41",
+   "short": "HCJ Cluj nr. 41/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 41/2020 pentru modificarea Hotărârii Consiliului Județean Cluj nr. 99/2017 privind desemnarea reprezentanților Consiliului Județean Cluj în consiliile de administrație ale unor spitale publice, cu modificările ulterioare",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-41-20-februarie-2020-pentru-modificarea-hotararii-consiliului-judetean-cluj-nr-99-2017-privind-desemnarea-reprezentantilor-consiliului-judetean-cluj-in-consiliile-de-administratie-ale/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2020/02/41_29_modif-HCJ-99-2017-inlocuire-Maier-si-Mang-in-CA-la-Sp-Cl-Jud-Urgenta.pdf",
+     "sha256": "f98ebc97e0b6c999dbe108a0c2821bf7de5730986471312a899f13d309582d3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-47-2020",
+   "path": "local/judet/cluj/2020/47",
+   "short": "HCJ Cluj nr. 47/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 47/2020 privind aprobarea contractului de asociere dintre Județul Cluj și Inspectoratul pentru Situații de Urgență „Avram Iancu\" al Județului Cluj",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/02",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/47_31D_suplim-asociere_ISU.pdf",
+     "sha256": "1bbd2cec81f8f79802a16ee6f92db3e313c5ee390202f292f643f7579d4734c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-50-2020",
+   "path": "local/judet/cluj/2020/50",
+   "short": "HCJ Cluj nr. 50/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 50/2020",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/02",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/50_31G-suplim-_modif-HCJ-207-2019-majorare-capital-Tetarom-V.pdf",
+     "sha256": "9221513535f1a199b49884a0e35e4849255ed7087b1f7b96ba123b4606e1edac"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-54-2020",
+   "path": "local/judet/cluj/2020/54",
+   "short": "HCJ Cluj nr. 54/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 54/2020 privind nominalizarea unor sume din bugetul local al Județului Cluj pe anul 2020",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/02",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/54_31K_suplim-nominalizare-sume-2020-cotizatii-cap-54.pdf",
+     "sha256": "42278f3283c89ca898a1001133b099ea3c3b2c04b3882fa71570563acca08860"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-55-2020",
+   "path": "local/judet/cluj/2020/55",
+   "short": "HCJ Cluj nr. 55/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 55/2020 privind alocarea unor sume din fondul de rezervă al bugetului local al Județului Cluj în anul 2020",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/02",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/55_31L_suplim-_alocare-sume-FOND-DE-REZERVA.pdf",
+     "sha256": "95f8489840b8ffca6228be15e1549283ca24ae0c63922e238af5d9b93a704d2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-57-2020",
+   "path": "local/judet/cluj/2020/57",
+   "short": "HCJ Cluj nr. 57/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 57/2020 privind solicitarea de trecere a unui imobil din domeniul public al statului în domeniul public al Județului Cluj, precum și pentru trecerea unor imobile din domeniul public al Județului Cluj în domeniul public al statului",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-57-13-martie-2020-privind-privind-solicitarea-de-trecere-a-unui-imobil-din-domeniul-public-al-statului-in-domeniul-public-al-judetului-cluj-precum-si-pentru-trecerea-unor-imobile-din/",
+   "versions": [
+    {
+     "from": "2020-03-13",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/57_1_solicit-transmit-teren-USAMV-pt-spital.pdf",
+     "sha256": "cc16c1876553948eb2771cd2bb746fa273c205f2c5754d320b673da848caed4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-58-2020",
+   "path": "local/judet/cluj/2020/58",
+   "short": "HCJ Cluj nr. 58/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 58/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 1,
+     "source_url": null,
+     "sha256": "392123164e07e7d96749ffb619cd14f1649f6901cdf852d155c98401e6b664ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-59-2020",
+   "path": "local/judet/cluj/2020/59",
+   "short": "HCJ Cluj nr. 59/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 59/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/59_5K_-validare-Okos.pdf",
+     "sha256": "741abfcdba818fec50990aa43c4d952c570cdba73c8032e1b0ecfd7776cb1dc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-7-2020",
+   "path": "local/judet/cluj/2020/7",
+   "short": "HCJ Cluj nr. 7/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 7/2020 pentru modificarea Hotărârii Consiliului Județean Cluj nr. 243/2017 privind achiziția dotărilor aferente unităților sanitare și unităților de învățământ de sub autoritatea Consiliului Județean Cluj, finanțate prin Programul Național de Dezvoltare Locală în perioada 2017-2020, cu modificǎrile ulterioare",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/01",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/7_7_aprobare-cofinantare-PNDL-aparat-laser-robotizat-2020.pdf",
+     "sha256": "810c2df1519987415a07fc49dd98df7fb3f9a95ccde3ce35f2857c5497af8d91"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-83-2020",
+   "path": "local/judet/cluj/2020/83",
+   "short": "HCJ Cluj nr. 83/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 83/2020 privind însușirea unei documentații cadastrale de alipire a unor imobile situate în Municipiul Cluj-Napoca str",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-83-31-martie-2020-privind-insusirea-unei-documentatii-cadastrale-de-alipire-a-unor-imobile-situate-in-municipiul-cluj-napoca-str-traian-vuia-nr-149-151-identificate-cu-numerele-c/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/83_8_doc-cadastral-alipire-3-terenuri-T-Vuia-149.pdf",
+     "sha256": "231825a5745958023c40cf7319dc7cd272b4b50fd9ba1b51b7374399ac81bc71"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-86-2020",
+   "path": "local/judet/cluj/2020/86",
+   "short": "HCJ Cluj nr. 86/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 86/2020 privind încetarea Contractului de concesiune nr. 11449/156/2016",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/03",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/86_11_incetare-concesiune-Serbanescu-str.-Padin.pdf",
+     "sha256": "240efb8a72d39a0b9a6d46b038822f99860393e6c79d18fdaf35b6bf07b6befd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-88-2020",
+   "path": "local/judet/cluj/2020/88",
+   "short": "HCJ Cluj nr. 88/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 88/2020",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/03",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/88_13_modif-HCJ-279-2018-aprobare-studiu-PNEUMO.pdf",
+     "sha256": "c1111795ef6c979c0e4757cb8003a4030c8cbf254e52ca4be327b6bd9f96c293"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-89-2020",
+   "path": "local/judet/cluj/2020/89",
+   "short": "HCJ Cluj nr. 89/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 89/2020 pentru modificarea Hotărârii Consiliului Județean Cluj nr. 163/2018 privind aprobarea Studiului de oportunitate din cadrul Proiectului ”Dotarea Ambulatoriului Spitalulului Clinic de Recuperare Cluj-Napoca”",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/03",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/89_14_modif-HCJ-163-2018-aprobare-studiu-RECUPERARE.pdf",
+     "sha256": "dd39fc6de20adc4289906d1d950668d00b49b81dc8c8bd623b269d8d5f70c8b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-9-2020",
+   "path": "local/judet/cluj/2020/9",
+   "short": "HCJ Cluj nr. 9/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 9/2020",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/01",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/9_7B_SUPLIMENTARE-abrogare-HCJ-audit-SC.pdf",
+     "sha256": "ce578048b6cf3038c4ab29c8ec96425a89bb278d41f5a56a02ddacc1c4385cf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-91-2020",
+   "path": "local/judet/cluj/2020/91",
+   "short": "HCJ Cluj nr. 91/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 91/2020 pentru modificarea Hotărârii Consiliului Județean Cluj nr. 195/2018 privind aprobarea Studiului de oportunitate din cadrul Proiectului ”Dotarea Ambulatoriului Spitalulului Clinic de Boli Infecțioase”",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/03",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/91_16_modif-HCJ-195-2018-aprobare-studiu-BOLI-INFECTIOASE.pdf",
+     "sha256": "a366d6fe9b46b12abe6cac00dec773960df14d4b4fef7f46561c1c2bcf778189"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-98-2020",
+   "path": "local/judet/cluj/2020/98",
+   "short": "HCJ Cluj nr. 98/2020",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 98/2020",
+   "url": "https://cjcluj.ro/hotarare-cjc/2020/03",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/98_2_aprobare-organigrama-si-stat-de-functii-Aeroport-2020.pdf",
+     "sha256": "b453450a54c8d2beecc5b3af8302c23a90e315de4e4d6a419535a00428f66726"
     }
    ]
   }

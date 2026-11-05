@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/constanta/2012",
+"acts": [
+{
+"slug": "hcj-constanta-1-2012",
+"path": "local/judet/constanta/2012/1",
+"kind": "local",
+"year": "2012",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Constanța nr. 1/2012",
+"short": "HCJ Constanța nr. 1/2012",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2012-01-24",
+"latest": "2012-01-24",
+"portal": "https://www.cjc.ro/sectiune.php?s=94",
+"council": "judet/constanta",
+"council_name": "Consiliul Județean Constanța",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

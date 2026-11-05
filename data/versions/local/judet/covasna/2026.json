@@ -1,0 +1,276 @@
+{
+ "country": "RO",
+ "shard": "local/judet/covasna/2026",
+ "acts": [
+  {
+   "slug": "hcj-covasna-110-2026",
+   "path": "local/judet/covasna/2026/110",
+   "short": "HCJ Covasna nr. 110/2026",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 110/2026",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-95-126-iunie-2026.html",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2026/06/ro/110_2026.pdf",
+     "sha256": "8adf6e3c3f79e2811bec5635cf379d3f6aa1721d8dcc07fc27b1a92c10663413"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-111-2026",
+   "path": "local/judet/covasna/2026/111",
+   "short": "HCJ Covasna nr. 111/2026",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 111/2026",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-95-126-iunie-2026.html",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2026/06/ro/111_2026.pdf",
+     "sha256": "19aef91eb9b2b0067a882016657167168bbb57ef50ab7e82201b3260d486a198"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-114-2026",
+   "path": "local/judet/covasna/2026/114",
+   "short": "HCJ Covasna nr. 114/2026",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 114/2026",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-95-126-iunie-2026.html",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2026/06/ro/114_2026.pdf",
+     "sha256": "f8b3a70a1c431dc78a9461dde6a21e51c835133736f2dbf79c6944a1d3a4d70c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-118-2026",
+   "path": "local/judet/covasna/2026/118",
+   "short": "HCJ Covasna nr. 118/2026",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 118/2026",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-95-126-iunie-2026.html",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2026/06/ro/118_2026.pdf",
+     "sha256": "9d9474f783cd447979a3419dba99dd8342d661049b3ac36ef9e839b0fe7527f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-119-2026",
+   "path": "local/judet/covasna/2026/119",
+   "short": "HCJ Covasna nr. 119/2026",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 119/2026 pentru modificarea anexelor nr. 1-3 la Hotărârea Consiliului Județean Covasna nr. 54/2026 cu privire la aprobarea Organigramei, Statului de funcții și a Regulamentului de organizare și funcționare ale Serviciului Public Comunitar Județean de Evidență a Persoanelor Covasna",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-95-126-iunie-2026.html",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2026/06/ro/119_2026.pdf",
+     "sha256": "f769927e3db2eff7621997707f5accd656da52939f88f7927a37161aa56b4f76"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-122-2026",
+   "path": "local/judet/covasna/2026/122",
+   "short": "HCJ Covasna nr. 122/2026",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 122/2026",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-95-126-iunie-2026.html",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2026/06/ro/122_2026.pdf",
+     "sha256": "648991588660ccd4edd001d402c5b83c95f1edfbdae4113f92321e480b1fae1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-128-2026",
+   "path": "local/judet/covasna/2026/128",
+   "short": "HCJ Covasna nr. 128/2026",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 128/2026",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-127-159-iulie-2026.html",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2026/07/ro/128_2026.pdf",
+     "sha256": "b04bf69bc97655d22c916317f08f24b0e4685553082831b5285dd4b3820854dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-133-2026",
+   "path": "local/judet/covasna/2026/133",
+   "short": "HCJ Covasna nr. 133/2026",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 133/2026",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-127-159-iulie-2026.html",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2026/07/ro/133_2026.pdf",
+     "sha256": "a8ac30f6c0d6f89e4df7147c86c576eba8dd04fc0cbe12101ee7f63e18faec32"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-136-2026",
+   "path": "local/judet/covasna/2026/136",
+   "short": "HCJ Covasna nr. 136/2026",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 136/2026",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-127-159-iulie-2026.html",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2026/07/ro/136_2026.pdf",
+     "sha256": "3e4f8c6263d1af2cd36f727e669b2bbc46dc0c116142ddcc5af7275d8dc04cbc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-31-2026",
+   "path": "local/judet/covasna/2026/31",
+   "short": "HCJ Covasna nr. 31/2026",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 31/2026",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-27-33-februarie-2026.html",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2026/02/ro/31_2026.pdf",
+     "sha256": "eb568f89c1ceb0274315f3e2483abdf565de2b4fb1c3bc990bce4a38b9c0def4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-32-2026",
+   "path": "local/judet/covasna/2026/32",
+   "short": "HCJ Covasna nr. 32/2026",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 32/2026",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-27-33-februarie-2026.html",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2026/02/ro/32_2026.pdf",
+     "sha256": "a207b7779e39ac0d268d93cf1dadc669af47835dd1698bcafd248d6c646723ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-43-2026",
+   "path": "local/judet/covasna/2026/43",
+   "short": "HCJ Covasna nr. 43/2026",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 43/2026",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-34-48-martie-2026.html",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2026/03/ro/43_2026.pdf",
+     "sha256": "aa68c7cffd347cea03335d744fe17b1d07a589c8e54cdea71d551733c4b7b6fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-47-2026",
+   "path": "local/judet/covasna/2026/47",
+   "short": "HCJ Covasna nr. 47/2026",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 47/2026 pentru completarea Hotărârii Consiliului Județean Covasna nr. 47/2026 privind asumarea suportării județului Covasna din bugetul propriu a unui procent de 20% din valoarea aferentă contribuției de la bugetul de stat din solicitarea de transfer, care urmează să fie depusă în platforma digita",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-49-88-aprilie-2026.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2026/04/ro/61_2026.pdf",
+     "sha256": "8d741f5616066ba0579d285af7f12194b9993cc6cef753e453f532cab9c5992b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-60-2026",
+   "path": "local/judet/covasna/2026/60",
+   "short": "HCJ Covasna nr. 60/2026",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 60/2026",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-49-88-aprilie-2026.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2026/04/ro/60_2026.pdf",
+     "sha256": "4d813aa2d0766534aff2db0212f76693b030779ff104399b7dee5482105398d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-64-2026",
+   "path": "local/judet/covasna/2026/64",
+   "short": "HCJ Covasna nr. 64/2026",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 64/2026",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-49-88-aprilie-2026.html",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2026/04/ro/64_2026.pdf",
+     "sha256": "25319d9bb5ce1aa82312f5e86e4adeb9344f1e3220a50a2324503d645d6be5f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-80-2026",
+   "path": "local/judet/covasna/2026/80",
+   "short": "HCJ Covasna nr. 80/2026",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 80/2026",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-49-88-aprilie-2026.html",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2026/04/ro/80_2026.pdf",
+     "sha256": "22ccfc82c5562e205cee45606faee6d73b0db585bd24f0cf46dc87a1a4099787"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-95-2026",
+   "path": "local/judet/covasna/2026/95",
+   "short": "HCJ Covasna nr. 95/2026",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 95/2026",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-95-126-iunie-2026.html",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2026/06/ro/95_2026.pdf",
+     "sha256": "c41ca144f3dab2c98c9a7cf5ca5552989d52e706d72b73040d2d6ce332edfc5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-96-2026",
+   "path": "local/judet/covasna/2026/96",
+   "short": "HCJ Covasna nr. 96/2026",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 96/2026",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-95-126-iunie-2026.html",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2026/06/ro/96_2026.pdf",
+     "sha256": "e34f1c2fb528fb5d9af134aa29c9ddd5cf15e0cca2f235b8191e80827916efdf"
+    }
+   ]
+  }
+ ]
+}

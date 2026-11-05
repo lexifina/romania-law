@@ -3,6 +3,29 @@
 "shard": "local/judet/constanta/2024",
 "acts": [
 {
+"slug": "hcj-constanta-76-2024",
+"path": "local/judet/constanta/2024/76",
+"kind": "local",
+"year": "2024",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Constanța nr. 76/2024",
+"short": "HCJ Constanța nr. 76/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-24",
+"latest": "2024-04-24",
+"portal": "https://www.cjc.ro/sectiune.php?s=46",
+"council": "judet/constanta",
+"council_name": "Consiliul Județean Constanța",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcj-constanta-225-2024",
 "path": "local/judet/constanta/2024/225",
 "kind": "local",
@@ -22,6 +45,28 @@
 "council_name": "Consiliul Județean Constanța",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-constanta-246-2024",
+"path": "local/judet/constanta/2024/246",
+"kind": "local",
+"year": "2024",
+"number": "246",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Constanța nr. 246/2024",
+"short": "HCJ Constanța nr. 246/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://www.cjc.ro/sectiune.php?s=192",
+"council": "judet/constanta",
+"council_name": "Consiliul Județean Constanța",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]
