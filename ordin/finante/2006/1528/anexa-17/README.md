@@ -1,0 +1,7 @@
+# Anexa nr. 17: 17 Model 2006 ITL - 017
+
+Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial. Its tables are shown row by row as the official text draws them.
+
+- Official web service (FreeWebService) document: 78173 (https://legislatie.just.ro/Public/DetaliiDocument/78173)
+- sha256 of that document's text as the service returned it: 4f770b439a4c90254878640a08b10176e631999ce1a81b3445687231ce5bb399
+- Retrieved: 2026-11-03
