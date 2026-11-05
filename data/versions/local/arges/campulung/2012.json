@@ -3,6 +3,291 @@
  "shard": "local/arges/campulung/2012",
  "acts": [
   {
+   "slug": "hcl-arges--campulung-1-2012",
+   "path": "local/arges/campulung/2012/1",
+   "short": "HCL Câmpulung nr. 1/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 1/2012 privind închirierea prin licitaţie publică a unui spaţiu situat în incinta Spitalului Municipal Câmpulung Hotărâre privind închirierea prin licitaţie publică a unui spaţiu situat în incinta Spitalului Municipal Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-01-05",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%201%20din%2005.01.2012.pdf",
+     "sha256": "57d95fb11cf13dfce540d7dd3db3221e1306e24efd255d8d175ad2833934d4ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-10-2012",
+   "path": "local/arges/campulung/2012/10",
+   "short": "HCL Câmpulung nr. 10/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 10/2012 privind Contul de execuţie al Municipiului Câmpulung la data de 30 06 2012 Hotărâre privind Contul de execuţie al Municipiului Câmpulung la data de 30 06 2012",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-07-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2010%20din%2031.07.2012.pdf",
+     "sha256": "8f0481b5e96f9a1b5de8c3a38baf6c28d72775eda6afff28ac11c1d1e4bb56ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-11-2012",
+   "path": "local/arges/campulung/2012/11",
+   "short": "HCL Câmpulung nr. 11/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 11/2012 privind desemnarea reprezentanţilor Consiliului Local al Municipiului Câmpulung în cadrul Consiliului de Administraţie al Spitalului de Pneumoftiziologie Câmpulung Hotărâre privind desemnarea reprezentanţilor Consiliului Local al Municipiului Câmpulung în cadrul Consiliului de Administraţie al Spitalului de Pneumoftiziologie Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2011%20din%2031.01.2012.pdf",
+     "sha256": "34b48eb01688754b3862a682c3e884e675e924533eb12b0959204a57239f3e07"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-12-2012",
+   "path": "local/arges/campulung/2012/12",
+   "short": "HCL Câmpulung nr. 12/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 12/2012 privind structura Unităţii Locale de Sprijin Câmpulung Hotărâre privind structura Unităţii Locale de Sprijin Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2012%20din%2031.01.2012.pdf",
+     "sha256": "0ddb64ea07e7c0ab307d08329eb5e7d35141a29fab205312db6eb1c37fbf06fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-14-2012",
+   "path": "local/arges/campulung/2012/14",
+   "short": "HCL Câmpulung nr. 14/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 14/2012 privind organigrama şi statul de funcţii ale Serviciului Public Comunitar Local de Evidenţă a Persoanelor al Municipiului Câmpulung pentru anul 2012 Hotărâre privind organigrama şi statul de funcţii ale Serviciului Public Comunitar Local de Evidenţă a Persoanelor al Municipiului Câmpulung pentru anul 2012",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-02-03",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2014%20din%2003.02.2012.pdf",
+     "sha256": "16ce406523713d9b5b87b984a0e8847987f8c20cb80cd341197a6ecc3c43acac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-15-2012",
+   "path": "local/arges/campulung/2012/15",
+   "short": "HCL Câmpulung nr. 15/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 15/2012 privind completarea domeniului privat al Municipiului Câmpulung Hotărâre privind completarea domeniului privat al Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-02-03",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2015%20din%2003.02.2012.pdf",
+     "sha256": "c942e5c0234283155a2b457e2908fc68d9f84894793b4b0db36fcf10bf012efd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-16-2012",
+   "path": "local/arges/campulung/2012/16",
+   "short": "HCL Câmpulung nr. 16/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 16/2012",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2016%20din%2029.02.2012.pdf",
+     "sha256": "2eae2d5217c41d15228a10aa5696d51d32d2e6a5878c8e1accd8946053aa7c22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-17-2012",
+   "path": "local/arges/campulung/2012/17",
+   "short": "HCL Câmpulung nr. 17/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 17/2012",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2017%20din%2029.02.2012.pdf",
+     "sha256": "60dfb1c3c6e0d141d5074e896841d105592c47c3ca2f27e38b6c794c0f586e64"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-18-2012",
+   "path": "local/arges/campulung/2012/18",
+   "short": "HCL Câmpulung nr. 18/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 18/2012 privind închirierea prin licitaţie publică a unor terenuri situate în curtea Spitalului Municipal Câmpulung Hotărâre privind închirierea prin licitaţie publică a unor terenuri situate în curtea Spitalului Municipal Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-07-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2018%20din%2031.07.2012.pdf",
+     "sha256": "7545fa5126e833343db00c2b74c421581882cdf413665051c4c2aac182c06e5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-19-2012",
+   "path": "local/arges/campulung/2012/19",
+   "short": "HCL Câmpulung nr. 19/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 19/2012 privind rectificarea bugetului local Hotărâre privind rectificarea bugetului local",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2019%20din%2029.02.2012.pdf",
+     "sha256": "88e5d4494f8737edca85c20ea26b9a8e7e4ea10c65d348c0e11c544753b6f270"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-2-2012",
+   "path": "local/arges/campulung/2012/2",
+   "short": "HCL Câmpulung nr. 2/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 2/2012 privind validarea mandatelor consilierilor locali declaraţi aleşi în ordine alfabetică Hotărâre privind validarea mandatelor consilierilor locali declaraţi aleşi în ordine alfabetică",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-06-18",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%202%20din%2018.06.2012.pdf",
+     "sha256": "b2f25fef5ae00113f6daed29625abb5ac3996295d2160434ed565827ebc4ebf9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-20-2012",
+   "path": "local/arges/campulung/2012/20",
+   "short": "HCL Câmpulung nr. 20/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 20/2012 privind constituirea comisiei pentru repartizarea locuinţelor sociale, din fondul locativ de stat, de urgenţă şi cele construite din fondurile A.N.L",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-07-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2020%20din%2031.07.2012.pdf",
+     "sha256": "610463fffd820fce72a60f081ddc9a49a93c464b262adecdc8a5525f686e962e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-21-2012",
+   "path": "local/arges/campulung/2012/21",
+   "short": "HCL Câmpulung nr. 21/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 21/2012 privind atribuirea denumirii străzii „Uzina ARO” Hotărâre privind atribuirea denumirii străzii „Uzina ARO”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2021%20din%2029.02.2012.pdf",
+     "sha256": "6c10e3210bf692e1ce0be8416c4e4489a712ce65971707ad0c95f51731be4ea9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-22-2012",
+   "path": "local/arges/campulung/2012/22",
+   "short": "HCL Câmpulung nr. 22/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 22/2012",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2022%20din%2029.02.2012.pdf",
+     "sha256": "4e24b6c92c31d80fe9562aba8d44566987b935b17335c5991bab080965321c7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-23-2012",
+   "path": "local/arges/campulung/2012/23",
+   "short": "HCL Câmpulung nr. 23/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 23/2012 privind Planul de ocupare a funcţiilor publice pe anul 2012 al Serviciului Public Comunitar Local de Evidenţă a Persoanelor al Municipiului Câmpulung Hotărâre privind Planul de ocupare a funcţiilor publice pe anul 2012 al Serviciului Public Comunitar Local de Evidenţă a Persoanelor al Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2023%20din%2029.02.2012.pdf",
+     "sha256": "7acca9ffc32275b359b2bcbe325c70fd42559cd5cbb4130d4f637866ce596347"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-24-2012",
+   "path": "local/arges/campulung/2012/24",
+   "short": "HCL Câmpulung nr. 24/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 24/2012",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2024%20din%2029.02.2012.pdf",
+     "sha256": "1323ab41fba5e7891e72af71fc14acd97048949774b0f4ed06234b1da1a4bf6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-25-2012",
+   "path": "local/arges/campulung/2012/25",
+   "short": "HCL Câmpulung nr. 25/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 25/2012 privind Programul de lucrări pe anul 2012 al S.P.A.D.P.P",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2025%20din%2029.02.2012.pdf",
+     "sha256": "6d3d4e64e91cfcfddeaaeb81f2a415b9fb1393810e94187e23567aec6acf6253"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-26-2012",
+   "path": "local/arges/campulung/2012/26",
+   "short": "HCL Câmpulung nr. 26/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 26/2012 privind Acordul de Parteneriat dintre Municipiul Câmpulung, Consiliul Local al Municipiului Câmpulung, prin Comisia nr.4 şi Colegiul Naţional „Dinicu Golescu” Hotărâre privind Acordul de Parteneriat dintre Municipiul Câmpulung, Consiliul Local al Municipiului Câmpulung, prin Comisia nr.4 şi Colegiul Naţional „Dinicu Golescu”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2026%20din%2029.02.2012.pdf",
+     "sha256": "dacae40231dec32928a40ec233da7afbb999fa0a8d01e0a4ed7645c0735053de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-28-2012",
+   "path": "local/arges/campulung/2012/28",
+   "short": "HCL Câmpulung nr. 28/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 28/2012 privind rectificarea bugetului local Hotărâre privind rectificarea bugetului local",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2028%20din%2029.03.2012.pdf",
+     "sha256": "2096a5a9d004534e47601c4956316feb5596ac983071244a2a91bf7955e10a3b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--campulung-29-2012",
    "path": "local/arges/campulung/2012/29",
    "short": "HCL Câmpulung nr. 29/2012",
@@ -14,6 +299,486 @@
      "units": 1,
      "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2029%20din%2029.03.2012.pdf",
      "sha256": "6e2ce800239c6f9c8d128f98a477e920ab5af4696b928dfcadb540965e9bd044"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-30-2012",
+   "path": "local/arges/campulung/2012/30",
+   "short": "HCL Câmpulung nr. 30/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 30/2012",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2030%20din%2030.08.2012.pdf",
+     "sha256": "ec48c26a20c4137114a56db61f37b6f0afab10855ce1bdaaed9742804b0d6268"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-31-2012",
+   "path": "local/arges/campulung/2012/31",
+   "short": "HCL Câmpulung nr. 31/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 31/2012 privind organigrama, statul de funcţii şi Planul cuprinzând principalele manifestări cultural-ştiinţifice organizate în anul 2012 de către Muzeul Municipal Câmpulung precum şi Planul editorial al Muzeului pe anul 2012 Hotărâre privind organigrama, statul de funcţii şi Planul cuprinzând principalele manifestări cultural-ştiinţifice organizate în anul 2012 de către Muzeul Municipal Câmpulung precum",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2031%20din%2029.03.2012.pdf",
+     "sha256": "ca2a712c6424bd081d5da17fe5617c5a815ccb1ba7e6e588526a01040af022a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-32-2012",
+   "path": "local/arges/campulung/2012/32",
+   "short": "HCL Câmpulung nr. 32/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 32/2012 privind organigrama, statul de funcţii, Agenda Principalelor Manifestări Culturale pe anul 2012 ale Bibliotecii Municipale „Ion Barbu” Câmpulung Hotărâre privind organigrama, statul de funcţii, Agenda Principalelor Manifestări Culturale pe anul 2012 ale Bibliotecii Municipale „Ion Barbu” Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2032%20din%2029.03.2012.pdf",
+     "sha256": "63507bc4ecca12859097ce365678efbe055932f8b38954e1dff73bd178ca5535"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-34-2012",
+   "path": "local/arges/campulung/2012/34",
+   "short": "HCL Câmpulung nr. 34/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 34/2012 privind „Planul anual de lucrări de interes local” Hotărâre privind „Planul anual de lucrări de interes local”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2034%20din%2029.03.2012.pdf",
+     "sha256": "d2023b37fe3edaaabc52a4ab260fdbada21b418f8587728461b91deb202f23cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-35-2012",
+   "path": "local/arges/campulung/2012/35",
+   "short": "HCL Câmpulung nr. 35/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 35/2012 privind organigrama şi statele funcţiilor publice şi contractuale ale Serviciului Public de Asistenţă Socială Câmpulung pentru anul 2012 Hotărâre privind organigrama şi statele funcţiilor publice şi contractuale ale Serviciului Public de Asistenţă Socială Câmpulung pentru anul 2012",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2035%20din%2029.03.2012.pdf",
+     "sha256": "0534e7f2d7e23a01cbe6270e19d83cf897aeff209832e41893d99456fcece135"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-36-2012",
+   "path": "local/arges/campulung/2012/36",
+   "short": "HCL Câmpulung nr. 36/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 36/2012 privind înfiinţarea Grupului Local de Lucru privind îmbunătăţirea situaţiei romilor Hotărâre privind înfiinţarea Grupului Local de Lucru privind îmbunătăţirea situaţiei romilor",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2036%20din%2029.03.2012.pdf",
+     "sha256": "af51e076e99871ad7d092007ac661b776e09cf5357293d19d6b6662d457ea3db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-37-2012",
+   "path": "local/arges/campulung/2012/37",
+   "short": "HCL Câmpulung nr. 37/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 37/2012 privind Protocolul de Colaborare dintre Municipiul Câmpulung şi Fundaţia Diego de Sagredo Hotărâre privind Protocolul de Colaborare dintre Municipiul Câmpulung şi Fundaţia Diego de Sagredo",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2037%20din%2029.03.2012.pdf",
+     "sha256": "7861c2834a73f3699166874b236a882c7061bde4b215a3408ff1a8d37183b4e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-38-2012",
+   "path": "local/arges/campulung/2012/38",
+   "short": "HCL Câmpulung nr. 38/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 38/2012 privind Acordul de Parteneriat dintre Municipiul Câmpulung şi IGLOO MEDIA S.R.L",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2038%20din%2029.03.2012.pdf",
+     "sha256": "53967d958bc2b9c4a0f20ba03c0f357c45cb93d2bec0f548d37241d19cbb5fc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-39-2012",
+   "path": "local/arges/campulung/2012/39",
+   "short": "HCL Câmpulung nr. 39/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 39/2012 privind închirierea prin licitaţie publică a unor spaţii situate în incinta Ambulatoriului de Specialitate Hotărâre privind închirierea prin licitaţie publică a unor spaţii situate în incinta Ambulatoriului de Specialitate",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2039%20din%2029.03.2012.pdf",
+     "sha256": "123e5a866cbc6520f9bd20f122a714da50c1af1845bac3c88d72390db32e3acf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-4-2012",
+   "path": "local/arges/campulung/2012/4",
+   "short": "HCL Câmpulung nr. 4/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 4/2012 privind Regulamentul cuprinzând procedura de acordare a facilităţilor fiscale de la plata impozitului pe clădiri datorat de persoanele fizice Hotărâre privind Regulamentul cuprinzând procedura de acordare a facilităţilor fiscale de la plata impozitului pe clădiri datorat de persoanele fizice",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%204%20din%2031.01.2012.pdf",
+     "sha256": "2fb0b4514c1484f9c411177584abf430a85cd135db4670def686e2901aa634bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-40-2012",
+   "path": "local/arges/campulung/2012/40",
+   "short": "HCL Câmpulung nr. 40/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 40/2012 privind închirierea directă a unei suprafeţe de teren Hotărâre privind închirierea directă a unei suprafeţe de teren",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2040%20din%2029.03.2012.pdf",
+     "sha256": "336ef89c408417d4a077cc4d35e78172895381a5346f09e930802dfe34c28a00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-41-2012",
+   "path": "local/arges/campulung/2012/41",
+   "short": "HCL Câmpulung nr. 41/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 41/2012 privind închirierea directă a unei suprafeţe de teren Hotărâre privind închirierea directă a unei suprafeţe de teren",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2041%20din%2029.03.2012.pdf",
+     "sha256": "0a69700f07617637903a2ae464268b1c93e196ea23515d7b13ff101d8ce7d519"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-42-2012",
+   "path": "local/arges/campulung/2012/42",
+   "short": "HCL Câmpulung nr. 42/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 42/2012 privind închirierea directă a unei suprafeţe de teren Hotărâre privind închirierea directă a unei suprafeţe de teren",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2042%20din%2029.03.2012.pdf",
+     "sha256": "f29a03c338e85d404083d9cda08273e03f78e55937d31f43721ed142a3128f91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-43-2012",
+   "path": "local/arges/campulung/2012/43",
+   "short": "HCL Câmpulung nr. 43/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 43/2012 privind vânzarea locuinţei din Câmpulung, strada Carpaţi, nr.91, bloc D22, scara A, etaj 3, apartament 7, judeţul Argeş către dl",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-04-05",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2043%20din%2005.04.2012.pdf",
+     "sha256": "f1946e0254cf0854128ffcd5f5d417fd3ad7bb6054ec0c67eacbfb533df7b137"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-44-2012",
+   "path": "local/arges/campulung/2012/44",
+   "short": "HCL Câmpulung nr. 44/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 44/2012",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2044%20din%2026.04.2012.pdf",
+     "sha256": "a8ee691f2c082926c48b6696a004e4c3392171bc1278fa0d661a0a174e21df56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-45-2012",
+   "path": "local/arges/campulung/2012/45",
+   "short": "HCL Câmpulung nr. 45/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 45/2012",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2045%20din%2026.04.2012.pdf",
+     "sha256": "29324d054ca45b794c1086cd4787c37c344ede5c1d4eebb6d8fee9a3bd6906d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-46-2012",
+   "path": "local/arges/campulung/2012/46",
+   "short": "HCL Câmpulung nr. 46/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 46/2012 privind transmiterea obiectivului de investiţii „Înfiinţare Parc şi Îmbunătăţirea Calităţii Spaţiilor Verzi din Cartierul Grui Municipiul Câmpulung” Hotărâre privind transmiterea obiectivului de investiţii „Înfiinţare Parc şi Îmbunătăţirea Calităţii Spaţiilor Verzi din Cartierul Grui Municipiul Câmpulung”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2046%20din%2031.10.2012.pdf",
+     "sha256": "42734c0b1e9c397cd090f99b0b6308f81f7060a2d650d252a4efae482d3d80dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-47-2012",
+   "path": "local/arges/campulung/2012/47",
+   "short": "HCL Câmpulung nr. 47/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 47/2012 privind vânzarea locuinţei din Câmpulung, str. Carpaţi, nr.91, bl. D22, sc.A, et.2, ap.5, judeţul Argeş Hotărâre privind vânzarea locuinţei din Câmpulung, str. Carpaţi, nr.91, bl. D22, sc.A, et.2, ap.5, judeţul Argeş",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2047%20din%2026.04.2012.pdf",
+     "sha256": "73eeffec624d13f59240ac99a466c90c77a4edd37d455eef6d4cb013acc49acb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-49-2012",
+   "path": "local/arges/campulung/2012/49",
+   "short": "HCL Câmpulung nr. 49/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 49/2012 privind contul de execuţie al Municipiului Câmpulung la data de 31 03 2012 Hotărâre privind contul de execuţie al Municipiului Câmpulung la data de 31 03 2012",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2049%20din%2026.04.2012.pdf",
+     "sha256": "933dfb29a7f099d20d17dc657418f8b056e4c008be8e0784e2b3ce52df2a1ebd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-5-2012",
+   "path": "local/arges/campulung/2012/5",
+   "short": "HCL Câmpulung nr. 5/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 5/2012 privind darea în administrare cu titlu gratuit a unor bunuri unităţilor de învăţământ preuniversitar Hotărâre privind darea în administrare cu titlu gratuit a unor bunuri unităţilor de învăţământ preuniversitar",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%205%20din%2031.01.2012.pdf",
+     "sha256": "a48f36c26b2b4809b991a2fa3d9fc18835dbff1b428f8b26a08d90cf1ca13243"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-50-2012",
+   "path": "local/arges/campulung/2012/50",
+   "short": "HCL Câmpulung nr. 50/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 50/2012 privind Studiul de Fezabilitate şi indicatorii tehnico-economici ai investiţiei „Amenajare Canal Pereat şi Prag Deversor pe Drumul Godeni” Hotărâre privind Studiul de Fezabilitate şi indicatorii tehnico-economici ai investiţiei „Amenajare Canal Pereat şi Prag Deversor pe Drumul Godeni”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2050%20din%2031.10.2012.pdf",
+     "sha256": "faf98dc28f4e6f9de4b70b43066fc976ee415ad668692c8a6edfc82851a1b3d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-51-2012",
+   "path": "local/arges/campulung/2012/51",
+   "short": "HCL Câmpulung nr. 51/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 51/2012 privind protocolul dintre Municipiul Câmpulung şi Colegiul Naţional Pedagocic “Carol I” Hotărâre privind protocolul dintre Municipiul Câmpulung şi Colegiul Naţional Pedagocic “Carol I”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2051%20din%2026.04.2012.pdf",
+     "sha256": "3962ea86d7a6b3b6757c483e381490f20c1889cdf263667f48bfaacfa6716e4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-52-2012",
+   "path": "local/arges/campulung/2012/52",
+   "short": "HCL Câmpulung nr. 52/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 52/2012 privind protocolul dintre Municipiul Câmpulung şi comunele Lereşti, Bughea de Jos şi Dragoslavele Hotărâre privind protocolul dintre Municipiul Câmpulung şi comunele Lereşti, Bughea de Jos şi Dragoslavele",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2052%20din%2026.04.2012.pdf",
+     "sha256": "84bd3bb9c224133407a0092a42968fa1408b7ba3675cbdab38cae197e401e524"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-53-2012",
+   "path": "local/arges/campulung/2012/53",
+   "short": "HCL Câmpulung nr. 53/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 53/2012 privind Studiul de Fezabilitate şi indicatorii tehnico-economici ai investiţiei „Remodelarea şi Modernizarea Blocului de Naşteri” din cadrul Spitalului Municipal Câmpulung Hotărâre privind Studiul de Fezabilitate şi indicatorii tehnico-economici ai investiţiei „Remodelarea şi Modernizarea Blocului de Naşteri” din cadrul Spitalului Municipal Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2053%20din%2031.10.2012.pdf",
+     "sha256": "de21791ae256fe89c54f6ec92af067b446fe64cffe1e9c852d7648e17b459b95"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-54-2012",
+   "path": "local/arges/campulung/2012/54",
+   "short": "HCL Câmpulung nr. 54/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 54/2012",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-05-25",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2054%20din%2025.05.2012.pdf",
+     "sha256": "85a07959ca475a111ee17d5ccf75bb47b580b5f2691bc0e03f46bb0418893968"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-55-2012",
+   "path": "local/arges/campulung/2012/55",
+   "short": "HCL Câmpulung nr. 55/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 55/2012",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-05-25",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2055%20din%2025.05.2012.pdf",
+     "sha256": "a723604b05f7526c003b6e33e036dded4b523c611f8803ea7891a7fe8082adc3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-56-2012",
+   "path": "local/arges/campulung/2012/56",
+   "short": "HCL Câmpulung nr. 56/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 56/2012 privind prelungirea contractelor de închiriere pentru spaţiile comerciale şi terenurile ce aparţin domeniului public şi privat al Municipiului Câmpulung Hotărâre privind prelungirea contractelor de închiriere pentru spaţiile comerciale şi terenurile ce aparţin domeniului public şi privat al Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2056%20din%2029.11.2012.pdf",
+     "sha256": "9a771624aab1e2c0c420fb796b51ccad6f5033ee7be4ff16d91de5177060abe9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-57-2012",
+   "path": "local/arges/campulung/2012/57",
+   "short": "HCL Câmpulung nr. 57/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 57/2012 privind rectificarea bugetului local Hotărâre privind rectificarea bugetului local",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-05-25",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2057%20din%2025.05.2012.pdf",
+     "sha256": "80c38e9d9914c4afe96eaa2f9178f650db21625459e6a79bba2f1ef4477f7ca4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-58-2012",
+   "path": "local/arges/campulung/2012/58",
+   "short": "HCL Câmpulung nr. 58/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 58/2012 privind vânzarea locuinţei din Câmpulung, str. Carpaţi, nr.91, bl. D22, sc.A, et.2, ap.6, judeţul Argeş Hotărâre privind vânzarea locuinţei din Câmpulung, str. Carpaţi, nr.91, bl. D22, sc.A, et.2, ap.6, judeţul Argeş",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-05-25",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2058%20din%2025.05.2012.pdf",
+     "sha256": "b7df152dde866b8ad630e1b4d56d1f644e7d971c966fad735869275cb7682ada"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-59-2012",
+   "path": "local/arges/campulung/2012/59",
+   "short": "HCL Câmpulung nr. 59/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 59/2012",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-05-25",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2059%20din%2025.05.2012.pdf",
+     "sha256": "4028913c01dc6db4d70764baaf6f1ac1626804e7318e9b4c70744b69ed2210f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-6-2012",
+   "path": "local/arges/campulung/2012/6",
+   "short": "HCL Câmpulung nr. 6/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 6/2012 privind Planul de ocupare a funcţiilor publice pe semestrul I din anul 2012 al Serviciului Public de Asistenţă Socială Hotărâre privind Planul de ocupare a funcţiilor publice pe semestrul I din anul 2012 al Serviciului Public de Asistenţă Socială",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%206%20din%2031.01.2012.pdf",
+     "sha256": "1d6e2876cc90ca22c4c0913ae8241fc48704e5c558f5c3b84a5c6988437bb8c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-60-2012",
+   "path": "local/arges/campulung/2012/60",
+   "short": "HCL Câmpulung nr. 60/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 60/2012 privind scoaterea din domeniul public al municipiului Câmpulung şi trecerea în domeniul privat a unui imobil Hotărâre privind scoaterea din domeniul public al municipiului Câmpulung şi trecerea în domeniul privat a unui imobil",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-05-25",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2060%20din%2025.05.2012.pdf",
+     "sha256": "5d27a0e495e9a2f9ea30006bf057e734d4adbf4b180ab21c4d87eb6e8e1e39ed"
     }
    ]
   },
@@ -33,6 +798,126 @@
    ]
   },
   {
+   "slug": "hcl-arges--campulung-62-2012",
+   "path": "local/arges/campulung/2012/62",
+   "short": "HCL Câmpulung nr. 62/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 62/2012 privind închirierea directă a unui teren în favoarea d-lui Ţuţuianu Cornel-Gheorghe Hotărâre privind închirierea directă a unui teren în favoarea d-lui Ţuţuianu Cornel-Gheorghe",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-05-25",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2062%20din%2025.05.2012.pdf",
+     "sha256": "ce7c85a9d9e8cf21ba6ed0b0f2537a00c2290ea7dfc4eb9089ae6fa36adab0b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-63-2012",
+   "path": "local/arges/campulung/2012/63",
+   "short": "HCL Câmpulung nr. 63/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 63/2012 privind rectificarea bugetului Municipiului Câmpulung Hotărâre privind rectificarea bugetului Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-12-14",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2063%20din%2014.12.2012.pdf",
+     "sha256": "80c7a00e82feca3de78dad439c337c7a1dd20d187a64abc782c10faf0272fe78"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-64-2012",
+   "path": "local/arges/campulung/2012/64",
+   "short": "HCL Câmpulung nr. 64/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 64/2012 privind Contul de execuţie al Municipiului Câmpulung la data de 11 12 2012 Hotărâre privind Contul de execuţie al Municipiului Câmpulung la data de 11 12 2012",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-12-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2064%20din%2020.12.2012.pdf",
+     "sha256": "85ed95f5101a79b29fc0605179eb79ceddc7324432ca0bc95b49bbd3aba6b117"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-66-2012",
+   "path": "local/arges/campulung/2012/66",
+   "short": "HCL Câmpulung nr. 66/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 66/2012 privind completarea domeniului public al municipiului Câmpulung Hotărâre privind completarea domeniului public al municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-12-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2066%20din%2020.12.2012.pdf",
+     "sha256": "96f0882a18b53f03700709bb70ba6ba4070d0e960c9fa3d9b5a2bfa6d9a3bc91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-67-2012",
+   "path": "local/arges/campulung/2012/67",
+   "short": "HCL Câmpulung nr. 67/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 67/2012 privind modificarea Planului de ocupare a funcţiilor publice pe anul 2013 al aparatului de specialitate al Primarului Municipiului Câmpulung Hotărâre privind modificarea Planului de ocupare a funcţiilor publice pe anul 2013 al aparatului de specialitate al Primarului Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-12-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2067%20din%2020.12.2012.pdf",
+     "sha256": "66901d039e6036e186a64c90fb45c73ae97ab8286404d84ba90520d9e29247ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-68-2012",
+   "path": "local/arges/campulung/2012/68",
+   "short": "HCL Câmpulung nr. 68/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 68/2012 privind Planul de ocupare a funcţiilor publice pe anul 2013 al Serviciului Public de Asistenţă Socială Câmpulung Hotărâre privind Planul de ocupare a funcţiilor publice pe anul 2013 al Serviciului Public de Asistenţă Socială Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-12-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2068%20din%2020.12.2012.pdf",
+     "sha256": "ed5db6e1c82d0f4699d2fd6d757ae11001cdea242ac9798e50ff10af6d6bf5ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-69-2012",
+   "path": "local/arges/campulung/2012/69",
+   "short": "HCL Câmpulung nr. 69/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 69/2012 privind aprobare PUD pentru terenul situat în str",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-12-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2069%20din%2020.12.2012.pdf",
+     "sha256": "d53d8d9c2ef8c7544f8d2b1c64738f912a5ca0d03c424a7b0f9895281a7c9d3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-7-2012",
+   "path": "local/arges/campulung/2012/7",
+   "short": "HCL Câmpulung nr. 7/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 7/2012",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-06-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%207%20din%2028.06.2012.pdf",
+     "sha256": "f49f496ac56127082bc8218e6b0c19a1378db7d569fc92d010762d5be33ebcd8"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--campulung-71-2012",
    "path": "local/arges/campulung/2012/71",
    "short": "HCL Câmpulung nr. 71/2012",
@@ -44,6 +929,21 @@
      "units": 1,
      "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%2071%20din%2031.12.2012.pdf",
      "sha256": "0018e74a629d48f1cb5259eee724178bd522a769cef8eaa9df7aa43f643cee92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-9-2012",
+   "path": "local/arges/campulung/2012/9",
+   "short": "HCL Câmpulung nr. 9/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 9/2012 privind Regulamentul pentru vânzarea locuinţelor de serviciu care aparţin domeniului privat al municipiului Câmpulung Hotărâre privind Regulamentul pentru vânzarea locuinţelor de serviciu care aparţin domeniului privat al municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2012/HCL%20nr.%209%20din%2031.01.2012.pdf",
+     "sha256": "e80f06cf1c3de8d9cb50cbef13377971c6f0ffa38900134b1b802ce6610b430d"
     }
    ]
   }

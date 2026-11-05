@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Municipiului Câmpulung nr. 96/2021 cu privire la aprobarea achiziționării de servicii juridice de colsultanță, asistență și/sau reprezentare a Municipiului Câmpulung, a Primăriei Municipiului Câmpulung și a Consiliului Local al Municipiului Câmpulung pentru promovarea unor acțiuni, apărări și căi de atac, cât și achiziționar Hotărâre cu privire la aprobarea achiziționării de servicii juridice de colsultanță, asistență și/sau reprez
+
+HCL Câmpulung nr. 96/2021 · 1 versions, from 2021-06-30 (latest in force: 2021-06-30) · <https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-arges--campulung-96-2021` (tags `hcl-arges--campulung-96-2021/<day>`; `python tools/on.py <day> hcl-arges--campulung-96-2021`).
+
+## Decisions made by hand
+
+- HCL Câmpulung nr. 96/2021: listed from Consiliul Local al Municipiului Câmpulung (www.primariacampulung.ro); an individual decision: metadata only.
+- HCL Câmpulung nr. 96/2021: dated from 30 June 2021, the day it was adopted (the register gives no later day of publication).
+- HCL Câmpulung nr. 96/2021: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

@@ -3,6 +3,66 @@
  "shard": "local/arges/campulung/2011",
  "acts": [
   {
+   "slug": "hcl-arges--campulung-1-2011",
+   "path": "local/arges/campulung/2011/1",
+   "short": "HCL Câmpulung nr. 1/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 1/2011 privind repartizarea unei sume de bani Hotărâre privind repartizarea unei sume de bani",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%201%20din%2027.01.2011.pdf",
+     "sha256": "a42adf956fb15dacd92a7b53f6040b6aef3be9eb1aca171bba781f34ea6ae708"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-10-2011",
+   "path": "local/arges/campulung/2011/10",
+   "short": "HCL Câmpulung nr. 10/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 10/2011 privind înfiinţarea Poliţei Locale Câmpulung Hotărâre privind înfiinţarea Poliţei Locale Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2010%20din%2027.01.2011.pdf",
+     "sha256": "937e477fa31e0be37944ce61c275d0266caafaa9c419251847a31c8175baf442"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-100-2011",
+   "path": "local/arges/campulung/2011/100",
+   "short": "HCL Câmpulung nr. 100/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 100/2011 privind Studiul de Fezabilitate „Consolidare în zona alunecărilor de teren strada Drăceşti-Cartier Mărcuş-Câmpulung- Judeţul Argeş” Hotărâre privind Studiul de Fezabilitate „Consolidare în zona alunecărilor de teren strada Drăceşti-Cartier Mărcuş-Câmpulung- Judeţul Argeş”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20100%20din%2030.06.2011.pdf",
+     "sha256": "06ee6f4f27e23bd7f699ea568f7871c9b9ef77a3b23df720be020379b4e05d12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-101-2011",
+   "path": "local/arges/campulung/2011/101",
+   "short": "HCL Câmpulung nr. 101/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 101/2011 privind colaborarea dintre Municipiul Câmpulung şi „C.S.Rucăr” Hotărâre privind colaborarea dintre Municipiul Câmpulung şi „C.S.Rucăr”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20101%20din%2030.06.2011.pdf",
+     "sha256": "d9a207e8f3379a3527f56c845cb4270bcf18f9bd0355f8a186866952daf4020c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--campulung-102-2011",
    "path": "local/arges/campulung/2011/102",
    "short": "HCL Câmpulung nr. 102/2011",
@@ -14,6 +74,111 @@
      "units": 1,
      "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20102%20din%2030.06.2011.pdf",
      "sha256": "a49cac856ebc1b7d79ec0bdc107074e04fa8dbfd92201edfd5cfbbcb7dd82e4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-103-2011",
+   "path": "local/arges/campulung/2011/103",
+   "short": "HCL Câmpulung nr. 103/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 103/2011",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20103%20din%2030.06.2011.pdf",
+     "sha256": "f5e62a743180578bd9c876e9b5aaa7e5812526b9f77569824cef55f75b1c2431"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-104-2011",
+   "path": "local/arges/campulung/2011/104",
+   "short": "HCL Câmpulung nr. 104/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 104/2011",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20104%20din%2030.06.2011.pdf",
+     "sha256": "a112203f33d86f6cfff3225bb0c44ac14964fb34d4933a9727e565fddecde454"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-105-2011",
+   "path": "local/arges/campulung/2011/105",
+   "short": "HCL Câmpulung nr. 105/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 105/2011 privind formularea recursului de către Consiliul Local al Municipiului Câmpulung în dosarul nr.14/205/2011 Hotărâre privind formularea recursului de către Consiliul Local al Municipiului Câmpulung în dosarul nr.14/205/2011",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20105%20din%2030.06.2011.pdf",
+     "sha256": "ef96d2d3869ad679599080095968741dba42e19670ba777d170ff6f4e4c81c4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-106-2011",
+   "path": "local/arges/campulung/2011/106",
+   "short": "HCL Câmpulung nr. 106/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 106/2011 privind indicatorii tehnico-economici ai investiţiei „Amenajarea parterului şi demisolului în blocul central în corpurile A şi B pentru realizarea serviciului de internări pediatrie şi OG” Hotărâre privind indicatorii tehnico-economici ai investiţiei „Amenajarea parterului şi demisolului în blocul central în corpurile A şi B pentru realizarea serviciului de internări pediatrie şi OG”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-07-14",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20106%20din%2014.07.2011.pdf",
+     "sha256": "97048e5795f4ee4b2c97e3680b41d671ccbb512030010202a27d64a622985442"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-107-2011",
+   "path": "local/arges/campulung/2011/107",
+   "short": "HCL Câmpulung nr. 107/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 107/2011 privind rectificarea bugetului local Hotărâre privind rectificarea bugetului local",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-07-14",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20107%20din%2014.07.2011.pdf",
+     "sha256": "187335e3da0e9719b7749ba817876a00297aff308d405067b510f2e7451de463"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-108-2011",
+   "path": "local/arges/campulung/2011/108",
+   "short": "HCL Câmpulung nr. 108/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 108/2011",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-07-14",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20108%20din%2014.07.2011.pdf",
+     "sha256": "9ea32c58fc4372fdb1bd0bbd2ee221cf265695abab0de9fc36b75b7b6dbf0289"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-109-2011",
+   "path": "local/arges/campulung/2011/109",
+   "short": "HCL Câmpulung nr. 109/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 109/2011",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-07-14",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20109%20din%2014.07.2011.pdf",
+     "sha256": "d9f161c8d193cbad450257c1d3ba6db4f5942e3eb95294f1d819afb38c697b99"
     }
    ]
   },
@@ -33,6 +198,306 @@
    ]
   },
   {
+   "slug": "hcl-arges--campulung-110-2011",
+   "path": "local/arges/campulung/2011/110",
+   "short": "HCL Câmpulung nr. 110/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 110/2011",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-07-14",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20110%20din%2014.07.2011.pdf",
+     "sha256": "e0b36440c705d0c12420bc2cae49f0efebbfb7a93c529b32a528943a7adfedc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-111-2011",
+   "path": "local/arges/campulung/2011/111",
+   "short": "HCL Câmpulung nr. 111/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 111/2011",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-07-14",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20111%20din%2014.07.2011.pdf",
+     "sha256": "93dd49ba9bc8ac91f1b8c1aa3b439438dae60215f7d67302c7515ce88d55b388"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-112-2011",
+   "path": "local/arges/campulung/2011/112",
+   "short": "HCL Câmpulung nr. 112/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 112/2011 privind contul de execuţie al Municipiului Câmpulung Hotărâre privind contul de execuţie al Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20112%20din%2028.07.2011.pdf",
+     "sha256": "df2a752ebee79cc08d99f0b73aeb6a218bc1d39f5272dcff320ce0a88d3bcfe9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-113-2011",
+   "path": "local/arges/campulung/2011/113",
+   "short": "HCL Câmpulung nr. 113/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 113/2011",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20113%20din%2028.07.2011.pdf",
+     "sha256": "773f471c1de87f53a930ff8f22a5e54ff0527f7512b2e0be246b61c3a9afbdfb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-114-2011",
+   "path": "local/arges/campulung/2011/114",
+   "short": "HCL Câmpulung nr. 114/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 114/2011",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20114%20din%2028.07.2011.pdf",
+     "sha256": "d6cdd2ca022049440a848099e1b909c84e14a199688cf3efa366f4b14b09e247"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-115-2011",
+   "path": "local/arges/campulung/2011/115",
+   "short": "HCL Câmpulung nr. 115/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 115/2011",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20115%20din%2028.07.2011.pdf",
+     "sha256": "52a522b7c5e094523f980d75fcf44835d6f82cb6f27a332527fced5530744981"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-116-2011",
+   "path": "local/arges/campulung/2011/116",
+   "short": "HCL Câmpulung nr. 116/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 116/2011 privind aprobare PUD pentru terenul situat în str. Dr. N. Fălcoianu, zona “Creţişoara” Hotărâre privind aprobare PUD pentru terenul situat în str. Dr. N. Fălcoianu, zona “Creţişoara”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20116%20din%2028.07.2011.pdf",
+     "sha256": "5ea4dfb746fb7d1ca298e37e5dfd29cd33265d2e4064d4b07d08c1aa9858df81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-117-2011",
+   "path": "local/arges/campulung/2011/117",
+   "short": "HCL Câmpulung nr. 117/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 117/2011 privind virarea de credite de la un capitol la altul Hotărâre privind virarea de credite de la un capitol la altul",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20117%20din%2028.07.2011.pdf",
+     "sha256": "e731ff481c8a0dae346d585c9c43fd4f592301d17b9837edd853da954659e110"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-118-2011",
+   "path": "local/arges/campulung/2011/118",
+   "short": "HCL Câmpulung nr. 118/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 118/2011 privind Studiul de Fezabilitate și indicatorii tehnico-economici ai proiectului „Crearea Centrului Național de Informare și Promovare Turistică (CNIPT) și dotarea acestuia în Municipiul Câmpulung, Județul Argeș” Consiliul Local al Municipiului Câmpulung întrunit în ședință de îndată în data de 18 08 2011; Având în vedere raportul primarului înregistrat sub nr. 24424/12 08 2011 prin care se propune",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-08-18",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20118%20din%2018.08.2011.pdf",
+     "sha256": "eded7f7012da86492db5164835a748e01819672424c78156719867da0a7b711e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-120-2011",
+   "path": "local/arges/campulung/2011/120",
+   "short": "HCL Câmpulung nr. 120/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 120/2011 privind aprobarea deplasării delegaţiei Municipiului Câmpulung în municipiul Dve Mogili, Regiunea Area Ruse - Bulgaria, la evenimentul „Activităţi culturale şi sportive la Dve Mogili” Hotărâre privind aprobarea deplasării delegaţiei Municipiului Câmpulung în municipiul Dve Mogili, Regiunea Area Ruse - Bulgaria, la evenimentul „Activităţi culturale şi sportive la Dve Mogili”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-08-18",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20120%20din%2018.08.2011.pdf",
+     "sha256": "1514c372d30fa0d52d7c52ea1408d4a5bd0ffe49ea5541d50e2cb0b54a8b5f1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-121-2011",
+   "path": "local/arges/campulung/2011/121",
+   "short": "HCL Câmpulung nr. 121/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 121/2011 privind consemnarea unei sume de bani reprezentând cauţiunea în dosarul nr.3781/205/2011 Hotărâre privind consemnarea unei sume de bani reprezentând cauţiunea în dosarul nr.3781/205/2011",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-08-18",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20121%20din%2018.08.2011.pdf",
+     "sha256": "8782b2bc0ddebcf8a03be27f71a11fcc9c89aa59f033977d5f7890fe71d70b2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-122-2011",
+   "path": "local/arges/campulung/2011/122",
+   "short": "HCL Câmpulung nr. 122/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 122/2011 privind rectificarea bugetului local Hotărâre privind rectificarea bugetului local",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-08-18",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20122%20din%2018.08.2011.pdf",
+     "sha256": "5a22383203fbd2aa7d7bac66a2d8ee94a3699d1b4571f6392d8caa32fb4f1265"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-123-2011",
+   "path": "local/arges/campulung/2011/123",
+   "short": "HCL Câmpulung nr. 123/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 123/2011 privind aprobarea Organigramei şi statului functiilor publice şi contractuale ale aparatului de specialitate al Primarului Municipiului Câmpulung şi serviciilor fără personalitate juridică ale Consiliului Local Câmpulung pe anul 2011 Hotărâre privind aprobarea Organigramei şi statului functiilor publice şi contractuale ale aparatului de specialitate al Primarului Municipiului Câmpulung şi servicii",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-08-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20123%20din%2031.08.2011.pdf",
+     "sha256": "cf5afd2595bb33cbb7727045453761fc397a14c16566602a4781aac94a70ca74"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-124-2011",
+   "path": "local/arges/campulung/2011/124",
+   "short": "HCL Câmpulung nr. 124/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 124/2011 privind organigrama, statul de funcţii ale S.P.A.D.P.P",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-08-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20124%20din%2031.08.2011.pdf",
+     "sha256": "0ed720ccaa0625096370f6745d85330e66d520511be8f35ac5a359854dc10b7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-125-2011",
+   "path": "local/arges/campulung/2011/125",
+   "short": "HCL Câmpulung nr. 125/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 125/2011 privind „Sistemul centralizat de supraveghere video în Municipiul Câmpulung” Hotărâre privind „Sistemul centralizat de supraveghere video în Municipiul Câmpulung”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-08-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20125%20din%2031.08.2011.pdf",
+     "sha256": "fdf175bf74de1420b79103942cbb7a7377d4aabc8c8c0fc2b2cbdbd9d3f922e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-126-2011",
+   "path": "local/arges/campulung/2011/126",
+   "short": "HCL Câmpulung nr. 126/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 126/2011 privind Studiul de Fezabilitate „Bazin de înot acoperit” şi indicatorii tehnico-economici Hotărâre privind Studiul de Fezabilitate „Bazin de înot acoperit” şi indicatorii tehnico-economici",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-08-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20126%20din%2031.08.2011.pdf",
+     "sha256": "32da2f3de30e7ca1cd46789de053112b1c7402a3b5e4a7b940fd0a824fbe5188"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-127-2011",
+   "path": "local/arges/campulung/2011/127",
+   "short": "HCL Câmpulung nr. 127/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 127/2011 privind darea în folosinţă gratuită a unui teren Hotărâre privind darea în folosinţă gratuită a unui teren",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-08-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20127%20din%2031.08.2011.pdf",
+     "sha256": "f8622587fffeedb4404c811d6b495637e65ac974742eb6e4ba05e882770951c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-128-2011",
+   "path": "local/arges/campulung/2011/128",
+   "short": "HCL Câmpulung nr. 128/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 128/2011",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-08-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20128%20din%2031.08.2011.pdf",
+     "sha256": "d319ea74a0f00e06b79f828b779bf9286c4678cc68d39e8abe8730a6997e95ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-129-2011",
+   "path": "local/arges/campulung/2011/129",
+   "short": "HCL Câmpulung nr. 129/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 129/2011 privind rectificarea bugetului local Hotărâre privind rectificarea bugetului local",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20129%20din%2029.09.2011.pdf",
+     "sha256": "475eb62c265e5ef1001729b0152a2ea666fd181c5c70ea6e5fc66a00342348a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-13-2011",
+   "path": "local/arges/campulung/2011/13",
+   "short": "HCL Câmpulung nr. 13/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 13/2011 privind Programul pentru instalarea sistemelor de încălzire care utilizează energie regenerabilă Hotărâre privind Programul pentru instalarea sistemelor de încălzire care utilizează energie regenerabilă",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2013%20din%2027.01.2011.pdf",
+     "sha256": "456ca0727565f88f97e2f20bbbca06d91a42673b7771c9ea51485dc9a4b23791"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--campulung-134-2011",
    "path": "local/arges/campulung/2011/134",
    "short": "HCL Câmpulung nr. 134/2011",
@@ -48,6 +513,66 @@
    ]
   },
   {
+   "slug": "hcl-arges--campulung-135-2011",
+   "path": "local/arges/campulung/2011/135",
+   "short": "HCL Câmpulung nr. 135/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 135/2011 privind repartizarea unei locuinţe A.N.L",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20135%20din%2029.09.2011.pdf",
+     "sha256": "4374af35a251110b639bf3cf748c5fc97f3f20c43756d67fae5ce180aa5e00a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-136-2011",
+   "path": "local/arges/campulung/2011/136",
+   "short": "HCL Câmpulung nr. 136/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 136/2011 privind modificarea Planului de ocupare a funcţiilor publice pe semestrul II din anul 2011 Hotărâre privind modificarea Planului de ocupare a funcţiilor publice pe semestrul II din anul 2011",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20136%20din%2029.09.2011.pdf",
+     "sha256": "1ffd75587cbfeb44b675a100bcbd2f53d4e02c800b0fb46f3d923d7d4236c8aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-137-2011",
+   "path": "local/arges/campulung/2011/137",
+   "short": "HCL Câmpulung nr. 137/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 137/2011 privind Planul Local de Acţiune pentru Prevenirea şi Combaterea Abandonului Şcolar în Municipiul Câmpulung Hotărâre privind Planul Local de Acţiune pentru Prevenirea şi Combaterea Abandonului Şcolar în Municipiul Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20137%20din%2029.09.2011.pdf",
+     "sha256": "d662c22473b9e766109a0273b73681750445ec078e5add78bd2d05ca7364a868"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-138-2011",
+   "path": "local/arges/campulung/2011/138",
+   "short": "HCL Câmpulung nr. 138/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 138/2011 privind desemnarea unui reprezentant în consiliul de admnistraţie al Şcolii „Sf. Iacob” Hotărâre privind desemnarea unui reprezentant în consiliul de admnistraţie al Şcolii „Sf. Iacob”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20138%20din%2029.09.2011.pdf",
+     "sha256": "369b138b97d5f2b10bb1622855604857134136aaa741730b8bbc7818b40fc110"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--campulung-139-2011",
    "path": "local/arges/campulung/2011/139",
    "short": "HCL Câmpulung nr. 139/2011",
@@ -59,6 +584,381 @@
      "units": 1,
      "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20139%20din%2029.09.2011.pdf",
      "sha256": "6ff7131777f9ce787c36e3e34a445ea7c995ea97fbc27bc999e29e5f2f648ee4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-14-2011",
+   "path": "local/arges/campulung/2011/14",
+   "short": "HCL Câmpulung nr. 14/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 14/2011 privind Studiul de Fezabilitate aferent Programului pentru instalarea sistemelor de încălzire care utilizează energie regenerabilă Hotărâre privind Studiul de Fezabilitate aferent Programului pentru instalarea sistemelor de încălzire care utilizează energie regenerabilă",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2014%20din%2027.01.2011.pdf",
+     "sha256": "8242bc286520c3a39d631d0eec78817f6a6506a7e00fac8191f085f366f30058"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-140-2011",
+   "path": "local/arges/campulung/2011/140",
+   "short": "HCL Câmpulung nr. 140/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 140/2011",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20140%20din%2029.09.2011.pdf",
+     "sha256": "56bc34ad76bfca9c654c7f1fcfa06b188a08855f077f282a2e924774688c0a61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-141-2011",
+   "path": "local/arges/campulung/2011/141",
+   "short": "HCL Câmpulung nr. 141/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 141/2011 privind aprobare PUD pentru terenul situat în str",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20141%20din%2029.09.2011.pdf",
+     "sha256": "1594a88a100722c80f52e69e68901f4f761e2707ba645966e5fec602a65ae0d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-142-2011",
+   "path": "local/arges/campulung/2011/142",
+   "short": "HCL Câmpulung nr. 142/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 142/2011 privind modificarea listei obiectivelor de investiţii pe anul 2011 Hotărâre privind modificarea listei obiectivelor de investiţii pe anul 2011",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20142%20din%2029.09.2011.pdf",
+     "sha256": "bab8cde4555d900ce136a4baa2abdf3839689a687d94b4fdb789d63442deb927"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-144-2011",
+   "path": "local/arges/campulung/2011/144",
+   "short": "HCL Câmpulung nr. 144/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 144/2011",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-10-12",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20144%20din%2012.10.2011.pdf",
+     "sha256": "bd6f3ace85ac0e63f241554f6ccafd80a56cc1db872244790234a37279182b13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-145-2011",
+   "path": "local/arges/campulung/2011/145",
+   "short": "HCL Câmpulung nr. 145/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 145/2011 privind completarea domeniului public al Municipiului Câmpulung Hotărâre privind completarea domeniului public al Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-10-12",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20145%20din%2012.10.2011.pdf",
+     "sha256": "4e6b369a9a20d8a303d802d6ee3193d57adca19f47e38b5ebe8d257b1d910381"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-146-2011",
+   "path": "local/arges/campulung/2011/146",
+   "short": "HCL Câmpulung nr. 146/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 146/2011 privind darea in folosinţă gratuită a unor terenuri către S.C.GDF SUEZ Energy România S.A",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-10-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20146%20din%2031.10.2011.pdf",
+     "sha256": "66118dd84c977512374049ad66a2fd0e5426a5181004e5c5cfeeaeae5013a54a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-147-2011",
+   "path": "local/arges/campulung/2011/147",
+   "short": "HCL Câmpulung nr. 147/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 147/2011 privind Contul de execuţie al Municipiului Câmpulung la data de 30 09 2011 Hotărâre privind Contul de execuţie al Municipiului Câmpulung la data de 30 09 2011",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-10-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20147%20din%2031.10.2011.pdf",
+     "sha256": "7d857c7295cf8d79b482b644c3d2f9ed7ef6d55724ec4ca1d0ed1d438a2d7361"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-148-2011",
+   "path": "local/arges/campulung/2011/148",
+   "short": "HCL Câmpulung nr. 148/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 148/2011 privind rectificarea bugetului local Hotărâre privind rectificarea bugetului local",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-10-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20148%20din%2031.10.2011.pdf",
+     "sha256": "62d8457752ed2b5e1561db711fd20620ff79dfae6217626393c7e59fbb85c9c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-151-2011",
+   "path": "local/arges/campulung/2011/151",
+   "short": "HCL Câmpulung nr. 151/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 151/2011 privind prelungirea contractelor de închiriere pentru spaţiile comerciale şi terenurile ce aparţin domeniului public şi privat al Municipiului Câmpulung Hotărâre privind prelungirea contractelor de închiriere pentru spaţiile comerciale şi terenurile ce aparţin domeniului public şi privat al Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-10-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20151%20din%2031.10.2011.pdf",
+     "sha256": "cf82fe1af0624b463c5ebe449d23baf312271f9c5fb6e462ccdb31bec0cda713"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-152-2011",
+   "path": "local/arges/campulung/2011/152",
+   "short": "HCL Câmpulung nr. 152/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 152/2011 privind prelungirea contractelor de închiriere pentru suprafeţele de teren ocupate de construcţii cu destinaţia de balcoane Hotărâre privind prelungirea contractelor de închiriere pentru suprafeţele de teren ocupate de construcţii cu destinaţia de balcoane",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-10-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20152%20din%2031.10.2011.pdf",
+     "sha256": "9fd62c0d8c9fc76f688d44b6d1712a1e612e2dfb53d5752345b8c8c2923985cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-153-2011",
+   "path": "local/arges/campulung/2011/153",
+   "short": "HCL Câmpulung nr. 153/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 153/2011",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-10-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20153%20din%2031.10.2011.pdf",
+     "sha256": "604fa796a74d98f11e5a3071d67ba33e7813b07d4e785140ddc3dcafa68acbc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-157-2011",
+   "path": "local/arges/campulung/2011/157",
+   "short": "HCL Câmpulung nr. 157/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 157/2011",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-10-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20157%20din%2031.10.2011.pdf",
+     "sha256": "94e3d2ab757b434bc172b42e2e3b8503cdff7d8d02502d31094ece28c0aaaaa7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-158-2011",
+   "path": "local/arges/campulung/2011/158",
+   "short": "HCL Câmpulung nr. 158/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 158/2011 privind Planul de ocupare a funcţiilor publice pe semestrul II din anul 2011 al Serviciului Public de Asistenţă Socială Hotărâre privind Planul de ocupare a funcţiilor publice pe semestrul II din anul 2011 al Serviciului Public de Asistenţă Socială",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-10-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20158%20din%2031.10.2011.pdf",
+     "sha256": "5d10fc9815514b8f9b1a3239622cdc13cb6e1d99c9cb04b3a807b540890b14c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-159-2011",
+   "path": "local/arges/campulung/2011/159",
+   "short": "HCL Câmpulung nr. 159/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 159/2011 privind modificarea contractului de concesiune al Cabinetului Medical Dr.Irimia Aurora Hotărâre privind modificarea contractului de concesiune al Cabinetului Medical Dr.Irimia Aurora",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-10-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20159%20din%2031.10.2011.pdf",
+     "sha256": "4246365f140894cb9f1ea6bc4af720943b0c6d73b38cf8682502b45867e82112"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-16-2011",
+   "path": "local/arges/campulung/2011/16",
+   "short": "HCL Câmpulung nr. 16/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 16/2011 privind prelungirea perioadei de dare în folosinţă a spaţiului situat în incinta Ambulatoriului de Specialitate, Casei Judeţene de Pensii Argeş Hotărâre privind prelungirea perioadei de dare în folosinţă a spaţiului situat în incinta Ambulatoriului de Specialitate, Casei Judeţene de Pensii Argeş",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2016%20din%2027.01.2011.pdf",
+     "sha256": "24e741de3d8d61fb3bf368bdf8733b12b798efd95a62c26e9a4dee6d26d91c85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-161-2011",
+   "path": "local/arges/campulung/2011/161",
+   "short": "HCL Câmpulung nr. 161/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 161/2011 privind acordarea dreptului de trecere în favoarea S.C",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-10-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20161%20din%2031.10.2011.pdf",
+     "sha256": "5f77dd0be62967f1e1799b9b79c9b93891276104484230d9c6d0cee0ca7e45f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-162-2011",
+   "path": "local/arges/campulung/2011/162",
+   "short": "HCL Câmpulung nr. 162/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 162/2011",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-10-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20162%20din%2031.10.2011.pdf",
+     "sha256": "079e2c238aca7be2fcfe0a35956e5ccf00f696c1bffca5739579847e353cc73b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-163-2011",
+   "path": "local/arges/campulung/2011/163",
+   "short": "HCL Câmpulung nr. 163/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 163/2011 privind rectificarea bugetului local Hotărâre privind rectificarea bugetului local",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-11-08",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20163%20din%2008.11.2011.pdf",
+     "sha256": "88910d91d52fcd1ebb7550e21621bbccadea000433edbe4d2c336850d9f01fbb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-164-2011",
+   "path": "local/arges/campulung/2011/164",
+   "short": "HCL Câmpulung nr. 164/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 164/2011 privind structura reţelei unităţilor de învăţământ preuniversitar de stat şi particular pentru anul 2012 – 2013 din Municipiul Câmpulung Hotărâre privind structura reţelei unităţilor de învăţământ preuniversitar de stat şi particular pentru anul 2012 – 2013 din Municipiul Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-11-08",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20164%20din%2008.11.2011.pdf",
+     "sha256": "8a7a4c92c720089cec48b1439a04bfdef911bc079c9d20cf9d57c130cbccf44b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-165-2011",
+   "path": "local/arges/campulung/2011/165",
+   "short": "HCL Câmpulung nr. 165/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 165/2011 privind rectificarea bugetului local Hotărâre privind rectificarea bugetului local",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-11-17",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20165%20din%2017.11.2011.pdf",
+     "sha256": "8f97e8f24b7a44013ce3d0c4d6dc9355f959af4a954f94b24577da0bf58484ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-166-2011",
+   "path": "local/arges/campulung/2011/166",
+   "short": "HCL Câmpulung nr. 166/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 166/2011 privind împuternicirea Primarului Municipiului Câmpulung să depună toate diligenţele în vederea înaintării unei acţiuni în regres împotriva celor vinovaţi de prejudiciul din cadrul litigiului cu S.C.Energi-Co Holding S.R.L",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-11-17",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20166%20din%2017.11.2011.pdf",
+     "sha256": "37138ee9e6eeede9c5ea4f35ae5e237f192a4707474ce2d038bbcd3bfe7373ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-167-2011",
+   "path": "local/arges/campulung/2011/167",
+   "short": "HCL Câmpulung nr. 167/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 167/2011 privind Regulamentul de vânzare a locuinţelor din Câmpulung, str.Carpaţi, nr.91, bl.D22, sc.A Hotărâre privind Regulamentul de vânzare a locuinţelor din Câmpulung, str.Carpaţi, nr.91, bl.D22, sc.A",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20167%20din%2028.11.2011.pdf",
+     "sha256": "033e613c8113501644a71f63b36f97216276ec9410055517ba9ae5cff5b82e5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-168-2011",
+   "path": "local/arges/campulung/2011/168",
+   "short": "HCL Câmpulung nr. 168/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 168/2011 privind completarea domeniului public Hotărâre privind completarea domeniului public",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20168%20din%2028.11.2011.pdf",
+     "sha256": "78ee25daf78f2c9db3b8b9b632c60b530585468f589ee625623fe5adc190aa42"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-169-2011",
+   "path": "local/arges/campulung/2011/169",
+   "short": "HCL Câmpulung nr. 169/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 169/2011 privind preţul de vânzare al albumului „Artă, Istorie, Cultură” Hotărâre privind preţul de vânzare al albumului „Artă, Istorie, Cultură”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20169%20din%2028.11.2011.pdf",
+     "sha256": "7382cbd92ecca8b6a78157d3f2561074c656b5a80aa7808dc293a1f0b3a666fa"
     }
    ]
   },
@@ -108,6 +1008,336 @@
    ]
   },
   {
+   "slug": "hcl-arges--campulung-173-2011",
+   "path": "local/arges/campulung/2011/173",
+   "short": "HCL Câmpulung nr. 173/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 173/2011 privind rectificarea bugetului local Hotărâre privind rectificarea bugetului local",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-12-05",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20173%20din%2005.12.2011.pdf",
+     "sha256": "cd10f380582a7c9ed603f6906b4ec1fda693b213cb302ea2aa8aee3632498fd4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-174-2011",
+   "path": "local/arges/campulung/2011/174",
+   "short": "HCL Câmpulung nr. 174/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 174/2011 privind rectificarea bugetului local Hotărâre privind rectificarea bugetului local",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-12-19",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20174%20din%2019.12.2011.pdf",
+     "sha256": "6752bf3d7e82207915bffdb443e791ee4479f78b40564c2968971104e5bd8671"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-178-2011",
+   "path": "local/arges/campulung/2011/178",
+   "short": "HCL Câmpulung nr. 178/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 178/2011 privind împuternicirea Primarului Municipiului Câmpulung pentru reprezentarea intereselor Consiliului Local în Dosarul nr. 1400/1259/2011 Hotărâre privind împuternicirea Primarului Municipiului Câmpulung pentru reprezentarea intereselor Consiliului Local în Dosarul nr. 1400/1259/2011",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-12-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20178%20din%2029.12.2011.pdf",
+     "sha256": "4f57531fa037f31cabd6d23c95fff8bff28cccfe4a5c554615fff44d5d4b9540"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-179-2011",
+   "path": "local/arges/campulung/2011/179",
+   "short": "HCL Câmpulung nr. 179/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 179/2011 privind completarea domeniului public al Municipiului Câmpulung Hotărâre privind completarea domeniului public al Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-12-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20179%20din%2029.12.2011.pdf",
+     "sha256": "7c5922093e483a3b2f702602242d65a94353c933b00b41843f3c2bae24ed3002"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-18-2011",
+   "path": "local/arges/campulung/2011/18",
+   "short": "HCL Câmpulung nr. 18/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 18/2011 privind aprobarea bugetului local al Municipiului Câmpulung pe anul 2011 Hotărâre privind aprobarea bugetului local al Municipiului Câmpulung pe anul 2011",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-02-10",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2018%20din%2010.02.2011.pdf",
+     "sha256": "46ecb836c2def1002949979e97cf40693d8e1077bd5fc4550f0b944f0f6a2a40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-180-2011",
+   "path": "local/arges/campulung/2011/180",
+   "short": "HCL Câmpulung nr. 180/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 180/2011 privind preţul de vânzare al publicaţiei „Revista de Istorie a Muscelului",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-12-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20180%20din%2029.12.2011.pdf",
+     "sha256": "8945b573a17488971b5b72acfcd0f13f6d58455d6f39c2fb91aad25e6402c9b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-181-2011",
+   "path": "local/arges/campulung/2011/181",
+   "short": "HCL Câmpulung nr. 181/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 181/2011 privind acceptarea unei donaţii Hotărâre privind acceptarea unei donaţii",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-12-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20181%20din%2029.12.2011.pdf",
+     "sha256": "c7f2b79677004cea056614b5fda1ff4c3a1ade8a4d4d2e902eabb8afca7915ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-182-2011",
+   "path": "local/arges/campulung/2011/182",
+   "short": "HCL Câmpulung nr. 182/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 182/2011 privind Acordul de Parteneriat dintre Municipiul Câmpulung şi Grădiniţa cu Program Prelungit nr.4 Hotărâre privind Acordul de Parteneriat dintre Municipiul Câmpulung şi Grădiniţa cu Program Prelungit nr.4",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-12-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20182%20din%2029.12.2011.pdf",
+     "sha256": "2ca2726d7344ffedc1f3d69fd2d0c0e90eb5ef50bb7e895e25fd284604e2e06d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-183-2011",
+   "path": "local/arges/campulung/2011/183",
+   "short": "HCL Câmpulung nr. 183/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 183/2011 privind darea în administrarea Şcolii Generale cu Clasele I-VIII Nr.3 „Nanu Muscel” a clădirii în care a funcţionat Şcoala Generală nr.5 Hotărâre privind darea în administrarea Şcolii Generale cu Clasele I-VIII Nr.3 „Nanu Muscel” a clădirii în care a funcţionat Şcoala Generală nr.5",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-12-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20183%20din%2029.12.2011.pdf",
+     "sha256": "59e6188c27c6d99a8cc71efd1a79a029d60c63f953be760bcb97d9e4fdc0c071"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-184-2011",
+   "path": "local/arges/campulung/2011/184",
+   "short": "HCL Câmpulung nr. 184/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 184/2011 privind contul de execuţie al Municipiului Câmpulung pe trimestrul IV la data de 29 12 2011 Hotărâre privind contul de execuţie al Municipiului Câmpulung pe trimestrul IV la data de 29 12 2011",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-12-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%20184%20din%2029.12.2011.pdf",
+     "sha256": "00beb5cc2a67bd4587c55ef98b9da58ed01eb639db1afcc049dc374c0b34498a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-19-2011",
+   "path": "local/arges/campulung/2011/19",
+   "short": "HCL Câmpulung nr. 19/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 19/2011 privind Actul Adiţional la Actul Constitutiv al Asociaţiei de Dezvoltare Intercomunitară SERVSAL - Actul Adiţional la Statutul Asociaţiei şi Actul Adiţional la Acordul de Asociere Hotărâre privind Actul Adiţional la Actul Constitutiv al Asociaţiei de Dezvoltare Intercomunitară SERVSAL - Actul Adiţional la Statutul Asociaţiei şi Actul Adiţional la Acordul de Asociere",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-02-10",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2019%20din%2010.02.2011.pdf",
+     "sha256": "d208e9efd960482316d2207633f208b8be9b62fa9c919380afcf53b83b6b85c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-23-2011",
+   "path": "local/arges/campulung/2011/23",
+   "short": "HCL Câmpulung nr. 23/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 23/2011 privind prelungirea contractelor de închiriere pentru locuinţele sociale din strada Emil Gârleanu, bl.17, sc.C Hotărâre privind prelungirea contractelor de închiriere pentru locuinţele sociale din strada Emil Gârleanu, bl.17, sc.C",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2023%20din%2028.02.2011.pdf",
+     "sha256": "b64bfa1a70b762c47b5856e29c3d09facac11838d6097371867b2d743413b5dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-25-2011",
+   "path": "local/arges/campulung/2011/25",
+   "short": "HCL Câmpulung nr. 25/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 25/2011 privind transferul cu titlu gratuit a unui autoturism către S.P.A.D.P.P",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2025%20din%2028.02.2011.pdf",
+     "sha256": "21acc52bcb894902feebb9bd3a59d642fb2ae2e43724e53e447b34721ba37efd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-27-2011",
+   "path": "local/arges/campulung/2011/27",
+   "short": "HCL Câmpulung nr. 27/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 27/2011 privind achiziţionarea unui autoturism Hotărâre privind achiziţionarea unui autoturism",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2027%20din%2028.02.2011.pdf",
+     "sha256": "df4b11d65f0298ffa29a8d8be48b3132e395a365fe66981499a3b5a4f465bda4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-28-2011",
+   "path": "local/arges/campulung/2011/28",
+   "short": "HCL Câmpulung nr. 28/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 28/2011 privind Programul de lucrări pe anul 2011 al S.P.A.D.P.P",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2028%20din%2028.02.2011.pdf",
+     "sha256": "ab297b6f34e00830a8596df3b67feed2b2ee3317875df5438c9c2a6aaa0a2b6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-29-2011",
+   "path": "local/arges/campulung/2011/29",
+   "short": "HCL Câmpulung nr. 29/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 29/2011 privind limita minimă a veniturilor potenţiale provenite din valorificarea bunurilor Hotărâre privind limita minimă a veniturilor potenţiale provenite din valorificarea bunurilor",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2029%20din%2028.02.2011.pdf",
+     "sha256": "5d859f8ac66321fe048c184d4e7089a0c50c2c00f3d731c2f2874732c4fc712c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-3-2011",
+   "path": "local/arges/campulung/2011/3",
+   "short": "HCL Câmpulung nr. 3/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 3/2011",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%203%20din%2027.01.2011.pdf",
+     "sha256": "2937dd55726a276a83ff9fa0a138011b625dbf1b687c34dfd5fb21a4fa594b28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-30-2011",
+   "path": "local/arges/campulung/2011/30",
+   "short": "HCL Câmpulung nr. 30/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 30/2011 privind încetarea contractului de închiriere nr.2/366/21 12 1999 Hotărâre privind încetarea contractului de închiriere nr.2/366/21 12 1999",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2030%20din%2028.02.2011.pdf",
+     "sha256": "ac07d3b77a6c10146020c40d1e5cf47d9f5bfa28e061a4b79e4e659c035e8e41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-31-2011",
+   "path": "local/arges/campulung/2011/31",
+   "short": "HCL Câmpulung nr. 31/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 31/2011 privind Acordul de Parteneriat dintre Municipiul Câmpulung şi Asociaţia Română de Film “Document.Art.” Hotărâre privind Acordul de Parteneriat dintre Municipiul Câmpulung şi Asociaţia Română de Film “Document.Art.”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2031%20din%2028.02.2011.pdf",
+     "sha256": "173d13ba83be7bedca60543aa8d30e09f5adc7e6cd00edac7b85d20cb1bb91e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-33-2011",
+   "path": "local/arges/campulung/2011/33",
+   "short": "HCL Câmpulung nr. 33/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 33/2011 privind concesionarea prin licitaţie publică a izlazului din punctul “Loturi” Hotărâre privind concesionarea prin licitaţie publică a izlazului din punctul “Loturi”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2033%20din%2028.02.2011.pdf",
+     "sha256": "58872ff7fb8c176d86ba5ceafd06c28968938b046ef39bea56bd66cf7f4492de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-34-2011",
+   "path": "local/arges/campulung/2011/34",
+   "short": "HCL Câmpulung nr. 34/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 34/2011 privind închirierea directă a suprafeţei de 553 mp în favoarea LIDL ROMÂNIA SCS Hotărâre privind închirierea directă a suprafeţei de 553 mp în favoarea LIDL ROMÂNIA SCS",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2034%20din%2028.02.2011.pdf",
+     "sha256": "bd3b9e25385a875652f94eca528b9dbdb835e7cfa1f1f1fcff6c2b4e105e6d36"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-35-2011",
+   "path": "local/arges/campulung/2011/35",
+   "short": "HCL Câmpulung nr. 35/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 35/2011 privind aprobare PUZ pentru terenul situat în str",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2035%20din%2028.02.2011.pdf",
+     "sha256": "e1b34aec7f2789018224df6a5b321b9c2e7a0c8fd657f1e5f59b3e3fe4c264c0"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--campulung-38-2011",
    "path": "local/arges/campulung/2011/38",
    "short": "HCL Câmpulung nr. 38/2011",
@@ -119,6 +1349,51 @@
      "units": 1,
      "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2038%20din%2031.03.2011.pdf",
      "sha256": "4f8d1a7d49328f111d9d031d91067f620f87fcefcd974a94a90dcf73e4d34c36"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-39-2011",
+   "path": "local/arges/campulung/2011/39",
+   "short": "HCL Câmpulung nr. 39/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 39/2011 privind repartizarea unei locuinţe sociale Hotărâre privind repartizarea unei locuinţe sociale",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2039%20din%2031.03.2011.pdf",
+     "sha256": "21b29202141e1a38f2b1b3e3502f755672a651005f2871eec76ef978eaeb6537"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-4-2011",
+   "path": "local/arges/campulung/2011/4",
+   "short": "HCL Câmpulung nr. 4/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 4/2011 privind stabilirea unui preţ la Muzeul Municipal Câmpulung Hotărâre privind stabilirea unui preţ la Muzeul Municipal Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%204%20din%2027.01.2011.pdf",
+     "sha256": "2a8142fbafa7859c4f03626c3abdb09edd84142ecaa90de488636eadf7206660"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-40-2011",
+   "path": "local/arges/campulung/2011/40",
+   "short": "HCL Câmpulung nr. 40/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 40/2011 privind repartizarea unei locuinţe A.N.L",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2040%20din%2031.03.2011.pdf",
+     "sha256": "777a0f8c25f40d03909fe048ca54db4750f8467f166eac606b5f15937b2e3371"
     }
    ]
   },
@@ -138,6 +1413,216 @@
    ]
   },
   {
+   "slug": "hcl-arges--campulung-42-2011",
+   "path": "local/arges/campulung/2011/42",
+   "short": "HCL Câmpulung nr. 42/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 42/2011",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2042%20din%2031.03.2011.pdf",
+     "sha256": "b4bdc48f400c96bcdb0c42015a1f5ee68117e129419fcc6672aa89e9373fec06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-43-2011",
+   "path": "local/arges/campulung/2011/43",
+   "short": "HCL Câmpulung nr. 43/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 43/2011 privind cuantumul cotizaţiei pentru Municipiul Câmpulung în cadrul Asociaţiei de Dezvoltare Intercomunitară SERVSAL Argeş Hotărâre privind cuantumul cotizaţiei pentru Municipiul Câmpulung în cadrul Asociaţiei de Dezvoltare Intercomunitară SERVSAL Argeş",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2043%20din%2031.03.2011.pdf",
+     "sha256": "76ba05532dff28c5479cee5ea40616732deaca6189bf4a7cd7408e8864d69a6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-44-2011",
+   "path": "local/arges/campulung/2011/44",
+   "short": "HCL Câmpulung nr. 44/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 44/2011 privind asocierea dintre Municipiul Câmpulung şi Clubul Sportiv Olimpic Team Autoconstruct Hotărâre privind asocierea dintre Municipiul Câmpulung şi Clubul Sportiv Olimpic Team Autoconstruct",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2044%20din%2031.03.2011.pdf",
+     "sha256": "a0586d60d53cb460b88e4ae59e4923e11ef957e0a208403272223af4c72e7bb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-45-2011",
+   "path": "local/arges/campulung/2011/45",
+   "short": "HCL Câmpulung nr. 45/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 45/2011 privind participarea Municipiului Câmpulung la proiectul „Sprijin zonal de formare profesională, informare și asistență în dezvoltarea carierei” Consiliul Local al Municipiului Câmpulung întrunit în ședință ordinară în data de 31 03 2011; Luând în discuție raportul primarului înregistrat sub nr.9285/24 03 2011 prin care se propune participarea Municipiului Câmpulung la proiectul „Sprijin zonal de",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2045%20din%2031.03.2011.pdf",
+     "sha256": "9968374a95fe7acc61f00321208eb35a19739244fed7494a0a21e9c917e3bb46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-49-2011",
+   "path": "local/arges/campulung/2011/49",
+   "short": "HCL Câmpulung nr. 49/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 49/2011 privind darea în folosinţă gratuită către S.C.GDF SUEZ ENERGY ROMÂNIA SA a unor suprafeţe de teren Hotărâre privind darea în folosinţă gratuită către S.C.GDF SUEZ ENERGY ROMÂNIA SA a unor suprafeţe de teren",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2049%20din%2031.03.2011.pdf",
+     "sha256": "73908b637d428612812826cd91fb03b5de16f1229c970b6c46410ed7feb164e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-5-2011",
+   "path": "local/arges/campulung/2011/5",
+   "short": "HCL Câmpulung nr. 5/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 5/2011 privind încheierea contractelor de prestări servicii de către Serviciul Public Comunitar Local de Evidenţă a Persoanelor al Municipiului Câmpulung Hotărâre privind încheierea contractelor de prestări servicii de către Serviciul Public Comunitar Local de Evidenţă a Persoanelor al Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%205%20din%2027.01.2011.pdf",
+     "sha256": "784e3126e893d1e7d380076633b2a33f6ad51a2ffc72d0d91ae34b5017da7c46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-50-2011",
+   "path": "local/arges/campulung/2011/50",
+   "short": "HCL Câmpulung nr. 50/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 50/2011 privind închirierea directă a unei suprafeţe de teren în favoarea S.C.”UN BĂIAT ŞI O FATĂ” S.R.L",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2050%20din%2031.03.2011.pdf",
+     "sha256": "995577fe1a1328323a07ff9b1ff2b1bc23c556686e8a1f3ccce31a790b128643"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-52-2011",
+   "path": "local/arges/campulung/2011/52",
+   "short": "HCL Câmpulung nr. 52/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 52/2011",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-04-07",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2052%20din%2007.04.2011.pdf",
+     "sha256": "4ed3e65d1993a8cf9e3595f5a79cbf98e32e0e80e58b9c28d25c865f0e518c4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-53-2011",
+   "path": "local/arges/campulung/2011/53",
+   "short": "HCL Câmpulung nr. 53/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 53/2011 privind contul de execuţie şi bilanţul contabil pe trimestrul I al anului 2011 Hotărâre privind contul de execuţie şi bilanţul contabil pe trimestrul I al anului 2011",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2053%20din%2028.04.2011.pdf",
+     "sha256": "e918290ebac033239f87cedc6a1f1b7c56ee7d078938626447efe49cbcf26708"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-54-2011",
+   "path": "local/arges/campulung/2011/54",
+   "short": "HCL Câmpulung nr. 54/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 54/2011 privind organigrama, statul de funcţii şi Planul cuprinzând principalele manifestări cultural-ştiinţifice organizate în anul 2011 de către Muzeul Municipal Câmpulung Hotărâre privind organigrama, statul de funcţii şi Planul cuprinzând principalele manifestări cultural-ştiinţifice organizate în anul 2011 de către Muzeul Municipal Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2054%20din%2028.04.2011.pdf",
+     "sha256": "e9983f8d2f9ebf28e52e8b7abe6a602ee0ebde06e40b425dda9a3ec901cdf66a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-55-2011",
+   "path": "local/arges/campulung/2011/55",
+   "short": "HCL Câmpulung nr. 55/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 55/2011 privind organigrama, statul de funcţii, Agenda Principalelor Manifestări Culturale pe anul 2011 ale Bibliotecii Municipale „Ion Barbu” Câmpulung şi Raportul privind activitatea desfăşurată de Biblioteca Municipală „Ion Barbu” în anul 2010 Hotărâre privind organigrama, statul de funcţii, Agenda Principalelor Manifestări Culturale pe anul 2011 ale Bibliotecii Municipale „Ion Barbu” Câmpulung şi Rapo",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2055%20din%2028.04.2011.pdf",
+     "sha256": "2c4d6c0864f1ab760534d91a02f67cb2e6426e07f7758cb05e76310aa83dcef1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-56-2011",
+   "path": "local/arges/campulung/2011/56",
+   "short": "HCL Câmpulung nr. 56/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 56/2011 privind aprobarea organigramei şi statului de funcţii ale Serviciului Public de Asistenţă Socială Câmpulung Hotărâre privind aprobarea organigramei şi statului de funcţii ale Serviciului Public de Asistenţă Socială Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2056%20din%2028.04.2011.pdf",
+     "sha256": "aac60ff87b0bf7d700bc79d8febb82bb1fe0a22fe8b6f52ff8cf7552922d186a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-57-2011",
+   "path": "local/arges/campulung/2011/57",
+   "short": "HCL Câmpulung nr. 57/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 57/2011 privind organigrama, statul de funcţii ale S.P.A.D.P.P",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2057%20din%2028.04.2011.pdf",
+     "sha256": "486426da9bd5bf1319a57454b4d93848b683969ba4c5e46c289292e18453ec08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-58-2011",
+   "path": "local/arges/campulung/2011/58",
+   "short": "HCL Câmpulung nr. 58/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 58/2011 privind aprobarea Organigramei şi statului functiilor publice şi contractuale ale aparatului de specialitate al Primarului Municipiului Câmpulung şi serviciilor fără personalitate juridică ale Consiliului Local Câmpulung pe anul 2011 Hotărâre privind aprobarea Organigramei şi statului functiilor publice şi contractuale ale aparatului de specialitate al Primarului Municipiului Câmpulung şi servicii",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2058%20din%2028.04.2011.pdf",
+     "sha256": "4e33e25687144c1c8fa8004193c96c50282da64f6c754fa5a78244d2476ff4c6"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--campulung-6-2011",
    "path": "local/arges/campulung/2011/6",
    "short": "HCL Câmpulung nr. 6/2011",
@@ -149,6 +1634,441 @@
      "units": 4,
      "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%206%20din%2027.01.2011.pdf",
      "sha256": "07c1a19f3bde5488d0013f105305750823bbdd2189c51b54c1762caa241f4660"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-61-2011",
+   "path": "local/arges/campulung/2011/61",
+   "short": "HCL Câmpulung nr. 61/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 61/2011 privind concesionarea directă a unui teren Hotărâre privind concesionarea directă a unui teren",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2061%20din%2028.04.2011.pdf",
+     "sha256": "94089b5e2f8a499ec0beb65f361cdd501ddbe44130bab17c6db34a6ce0e98c7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-62-2011",
+   "path": "local/arges/campulung/2011/62",
+   "short": "HCL Câmpulung nr. 62/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 62/2011 privind aprobare PUD pentru terenul situat în str",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2062%20din%2028.04.2011.pdf",
+     "sha256": "890b9ce1947dcfbb2e0ee175d0cf0ce26f115f094c052d85fdfc919020d21633"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-63-2011",
+   "path": "local/arges/campulung/2011/63",
+   "short": "HCL Câmpulung nr. 63/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 63/2011 privind aprobare PUD pentru terenul situat în str.Izvorului, nr.63 Hotărâre privind aprobare PUD pentru terenul situat în str.Izvorului, nr.63",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2063%20din%2028.04.2011.pdf",
+     "sha256": "4120a22f86a6abf1b5b4ee318c301eaf53c4e1df6dbafecc68d7f1d19c9f2e97"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-64-2011",
+   "path": "local/arges/campulung/2011/64",
+   "short": "HCL Câmpulung nr. 64/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 64/2011 privind asocierea dintre Municipiul Câmpulung şi Asociaţia Club Sportiv Hatters Motorsport Hotărâre privind asocierea dintre Municipiul Câmpulung şi Asociaţia Club Sportiv Hatters Motorsport",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2064%20din%2028.04.2011.pdf",
+     "sha256": "ffe09857ce92a6fe3bdb4422cb9b33e1b18909422d5eef92db353bcdc3906c87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-65-2011",
+   "path": "local/arges/campulung/2011/65",
+   "short": "HCL Câmpulung nr. 65/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 65/2011 privind validarea negocierii concesionării izlazului din punctul „Loturi” Hotărâre privind validarea negocierii concesionării izlazului din punctul „Loturi”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-05-12",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2065%20din%2012.05.2011.pdf",
+     "sha256": "a5a68eba96b0c65520dc0eea7060ee07f9fa07c81bfa54c473d4425963e8a9f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-67-2011",
+   "path": "local/arges/campulung/2011/67",
+   "short": "HCL Câmpulung nr. 67/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 67/2011 privind faptul că s-a luat act de încetarea de drept a mandatului de consilier local al d-lui Fologea Marinică, consilier local ales pe lista Partidului România Mare Hotărâre privind faptul că s-a luat act de încetarea de drept a mandatului de consilier local al d-lui Fologea Marinică, consilier local ales pe lista Partidului România Mare",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2067%20din%2026.05.2011.pdf",
+     "sha256": "699b8483eb43f98fe6c5140f7dde90753bda8fc1361a845e989c4f2930bd085f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-68-2011",
+   "path": "local/arges/campulung/2011/68",
+   "short": "HCL Câmpulung nr. 68/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 68/2011 privind validarea mandatului de consilier local al d-lui Lămbescu Emil-Bebe Hotărâre privind validarea mandatului de consilier local al d-lui Lămbescu Emil-Bebe",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2068%20din%2026.05.2011.pdf",
+     "sha256": "55c59581e03613ee1e8019d717680f77298bb8468870a1c30c8b32beed110c69"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-69-2011",
+   "path": "local/arges/campulung/2011/69",
+   "short": "HCL Câmpulung nr. 69/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 69/2011 privind rectificarea bugetului local Hotărâre privind rectificarea bugetului local",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2069%20din%2026.05.2011.pdf",
+     "sha256": "da16a3dd5d1e05a4524615c8611eee67f3d1e7774fbba13ed96b9018ace99fbf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-7-2011",
+   "path": "local/arges/campulung/2011/7",
+   "short": "HCL Câmpulung nr. 7/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 7/2011 privind stabilirea numărului maxim de asistenţi personali ai persoanelor cu handicap grav pentru anul 2011 Hotărâre privind stabilirea numărului maxim de asistenţi personali ai persoanelor cu handicap grav pentru anul 2011",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%207%20din%2027.01.2011.pdf",
+     "sha256": "e9bc3c26dd4bbfc6d77f1cf12667fc90836bb01dd3f782d3434058a532a36c41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-70-2011",
+   "path": "local/arges/campulung/2011/70",
+   "short": "HCL Câmpulung nr. 70/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 70/2011 privind contul de execuţie al Municipiului Câmpulung pe anul 2010 Hotărâre privind contul de execuţie al Municipiului Câmpulung pe anul 2010",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2070%20din%2026.05.2011.pdf",
+     "sha256": "36f2741812d86b724b04c27d7c74848c492b83d6c4f90cb6fc3e35f4a41c4a5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-72-2011",
+   "path": "local/arges/campulung/2011/72",
+   "short": "HCL Câmpulung nr. 72/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 72/2011",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2072%20din%2026.05.2011.pdf",
+     "sha256": "c6b741f3aaf405dbce96df6897a53831844dd41a397b8b0766cde426c2cb5144"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-73-2011",
+   "path": "local/arges/campulung/2011/73",
+   "short": "HCL Câmpulung nr. 73/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 73/2011 privind Planul de ocupare a funcţiilor publice pe semestrul I din anul 2011 Hotărâre privind Planul de ocupare a funcţiilor publice pe semestrul I din anul 2011",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2073%20din%2026.05.2011.pdf",
+     "sha256": "799b0d56a7f46c095f8d7b0b3abddc35256f86bf2c874c6ed6a6ff444109cd7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-74-2011",
+   "path": "local/arges/campulung/2011/74",
+   "short": "HCL Câmpulung nr. 74/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 74/2011 privind asocierea dintre Municipiul Câmpulung şi S.C",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2074%20din%2026.05.2011.pdf",
+     "sha256": "b9e85df2ae30a84b7640389d16dcd32d934841c0d6ea4c0a6782d6340252fec7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-77-2011",
+   "path": "local/arges/campulung/2011/77",
+   "short": "HCL Câmpulung nr. 77/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 77/2011 privind asigurarea obligatorie a locuinţelor administrate de Consiliul Local şi Primăria Municipiului Câmpulung Hotărâre privind asigurarea obligatorie a locuinţelor administrate de Consiliul Local şi Primăria Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2077%20din%2026.05.2011.pdf",
+     "sha256": "ac375d44546b0c9aca41f67f868792edd1ae32adc25b6af307b0617f33d2754a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-78-2011",
+   "path": "local/arges/campulung/2011/78",
+   "short": "HCL Câmpulung nr. 78/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 78/2011",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2078%20din%2026.05.2011.pdf",
+     "sha256": "1f6da7a11aab3daf751c14675c47251b13a6d1f5ff9af64fbeb5d90ab9d72f05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-79-2011",
+   "path": "local/arges/campulung/2011/79",
+   "short": "HCL Câmpulung nr. 79/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 79/2011 privind aprobare PUD pentru terenul situat în str",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2079%20din%2026.05.2011.pdf",
+     "sha256": "8eb344061cd8b67349f67b5e87c745eb03c35cea9981ae1883cbf94bd604bbc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-8-2011",
+   "path": "local/arges/campulung/2011/8",
+   "short": "HCL Câmpulung nr. 8/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 8/2011 privind repartizarea unei locuinţe sociale Hotărâre privind repartizarea unei locuinţe sociale",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%208%20din%2027.01.2011.pdf",
+     "sha256": "22073152faab56b461cfaf680e4992ed55e2a1aea240cecefd6fe9babbcfb8a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-81-2011",
+   "path": "local/arges/campulung/2011/81",
+   "short": "HCL Câmpulung nr. 81/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 81/2011 privind rectificarea bugetului local Hotărâre privind rectificarea bugetului local",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-06-09",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2081%20din%2009.06.2011.pdf",
+     "sha256": "3b20f3c29c82a273bcb4052640e29f60736db0554c77c7348c4b1adad21e2a69"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-82-2011",
+   "path": "local/arges/campulung/2011/82",
+   "short": "HCL Câmpulung nr. 82/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 82/2011 privind măsura adiacentă în cadrul „Programului de încurajare a consumului de fructe în şcoli” Hotărâre privind măsura adiacentă în cadrul „Programului de încurajare a consumului de fructe în şcoli”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-06-09",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2082%20din%2009.06.2011.pdf",
+     "sha256": "34f5108748a660f6eb6259c4d87e191e53b00d6af18735b937b67f3496d941a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-87-2011",
+   "path": "local/arges/campulung/2011/87",
+   "short": "HCL Câmpulung nr. 87/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 87/2011 privind aprobarea transferului Spitalului de Pneumoftiziologie Câmpulung Hotărâre privind aprobarea transferului Spitalului de Pneumoftiziologie Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-06-09",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2087%20din%2009.06.2011.pdf",
+     "sha256": "740f570901129953bb8ee3309c22eca22ae91ed6b21baa9802f13f6a05df5480"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-88-2011",
+   "path": "local/arges/campulung/2011/88",
+   "short": "HCL Câmpulung nr. 88/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 88/2011 privind Parteneriatul de Colaborare dintre Municipiul Câmpulung, Asociaţia Partida Romilor „Pro Europa”- Centrul de Resurse pentru Antreprenoriat Social Hotărâre privind Parteneriatul de Colaborare dintre Municipiul Câmpulung, Asociaţia Partida Romilor „Pro Europa”- Centrul de Resurse pentru Antreprenoriat Social",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2088%20din%2030.06.2011.pdf",
+     "sha256": "7ff8128910d3efdcf7937788c96fd787851a17c5037ed69876ec6f87375f5689"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-89-2011",
+   "path": "local/arges/campulung/2011/89",
+   "short": "HCL Câmpulung nr. 89/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 89/2011 privind darea în folosinţă gratuită a unei clădiri Hotărâre privind darea în folosinţă gratuită a unei clădiri",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2089%20din%2030.06.2011.pdf",
+     "sha256": "5a9a9853afa6ff001aba67220ffdd73a87e59099605453a98753314b3e172920"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-9-2011",
+   "path": "local/arges/campulung/2011/9",
+   "short": "HCL Câmpulung nr. 9/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 9/2011 privind „Planul anual de lucrări de interes local” Hotărâre privind „Planul anual de lucrări de interes local”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%209%20din%2027.01.2011.pdf",
+     "sha256": "bc15460f34485601bccd8252af4f73380d466c42ab8837df4ea99142308fabc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-90-2011",
+   "path": "local/arges/campulung/2011/90",
+   "short": "HCL Câmpulung nr. 90/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 90/2011 privind „Strategia Locală pentru Prevenirea şi Combaterea Abandonului Şcolar în Municipiul Câmpulung” Hotărâre privind „Strategia Locală pentru Prevenirea şi Combaterea Abandonului Şcolar în Municipiul Câmpulung”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2090%20din%2030.06.2011.pdf",
+     "sha256": "bd4abfeff9b57d3cb07019b87c3ea2865bcbe4d8441a905013d7eb1ae097a652"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-91-2011",
+   "path": "local/arges/campulung/2011/91",
+   "short": "HCL Câmpulung nr. 91/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 91/2011",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2091%20din%2030.06.2011.pdf",
+     "sha256": "265220e1ff6efbc1046861694867cb343c9df8086b639427e32ae73659556931"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-92-2011",
+   "path": "local/arges/campulung/2011/92",
+   "short": "HCL Câmpulung nr. 92/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 92/2011 privind rectificarea bugetului local Hotărâre privind rectificarea bugetului local",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2092%20din%2030.06.2011.pdf",
+     "sha256": "f975d73b6035ffc8ba88bc32ee2b38a128e1b9dfb3adae34475b909c08f01d3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-96-2011",
+   "path": "local/arges/campulung/2011/96",
+   "short": "HCL Câmpulung nr. 96/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 96/2011 privind Planul de ocupare a funcţiilor publice pe semestrul II din anul 2011 al Serviciului Public Comunitar Local de Evidenţă a Persoanelor al Municipiului Câmpulung Hotărâre privind Planul de ocupare a funcţiilor publice pe semestrul II din anul 2011 al Serviciului Public Comunitar Local de Evidenţă a Persoanelor al Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2096%20din%2030.06.2011.pdf",
+     "sha256": "55da77bb6559db177953ed696e621896c322bef47096db1eb4a09688f421101a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-97-2011",
+   "path": "local/arges/campulung/2011/97",
+   "short": "HCL Câmpulung nr. 97/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 97/2011",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2097%20din%2030.06.2011.pdf",
+     "sha256": "7658efe77304d49e90a55e7a583ce6520eb55c327e643219bf433f8c8e470108"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-98-2011",
+   "path": "local/arges/campulung/2011/98",
+   "short": "HCL Câmpulung nr. 98/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 98/2011",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2011/HCL%20nr.%2098%20din%2030.06.2011.pdf",
+     "sha256": "285d445101031a2b9bd987a4d9fac4671d3f0463b545596180af4aa5090d3fd0"
     }
    ]
   }

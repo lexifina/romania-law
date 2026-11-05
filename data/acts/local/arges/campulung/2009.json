@@ -3,6 +3,292 @@
 "shard": "local/arges/campulung/2009",
 "acts": [
 {
+"slug": "hcl-arges--campulung-1-2009",
+"path": "local/arges/campulung/2009/1",
+"kind": "local",
+"year": "2009",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 1/2009 privind tragerea din linia de finanţare a sumei necesară obiectivului „Reabilitarea staţiei de epurare din Municipiul Câmpulung în vederea îmbunătăţirii calitative a mediului înconjurător şi a protecţiei acestuia – Linia Nămolului, Bazine de aerare şi Staţie de suflante” Hotărâre privind tragerea din linia de finanţare a sumei necesară obiectivului „Reabilitarea staţiei de epurare din Municipiul C",
+"short": "HCL Câmpulung nr. 1/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-01-29",
+"latest": "2009-01-29",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-2-2009",
+"path": "local/arges/campulung/2009/2",
+"kind": "local",
+"year": "2009",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 2/2009 privind asocierea Municipiului Câmpulung cu alte unităţi administrativ-teritoriale în scopul constituirii Asociaţiei de Dezvoltare Intercomunitară „Servsal” Argeş Hotărâre privind asocierea Municipiului Câmpulung cu alte unităţi administrativ-teritoriale în scopul constituirii Asociaţiei de Dezvoltare Intercomunitară „Servsal” Argeş",
+"short": "HCL Câmpulung nr. 2/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-01-29",
+"latest": "2009-01-29",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-10-2009",
+"path": "local/arges/campulung/2009/10",
+"kind": "local",
+"year": "2009",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 10/2009 privind stabilirea de preţuri la Muzeul Municipal Câmpulung Hotărâre privind stabilirea de preţuri la Muzeul Municipal Câmpulung",
+"short": "HCL Câmpulung nr. 10/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-02-26",
+"latest": "2009-02-26",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-12-2009",
+"path": "local/arges/campulung/2009/12",
+"kind": "local",
+"year": "2009",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 12/2009 privind contractul de comodat încheiat între Municipiul Câmpulung şi Colegiul Tehnic Câmpulung Hotărâre privind contractul de comodat încheiat între Municipiul Câmpulung şi Colegiul Tehnic Câmpulung",
+"short": "HCL Câmpulung nr. 12/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-02-26",
+"latest": "2009-02-26",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-13-2009",
+"path": "local/arges/campulung/2009/13",
+"kind": "local",
+"year": "2009",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 13/2009 privind vânzarea apartamentelor din blocul D22, sc.A",
+"short": "HCL Câmpulung nr. 13/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-02-26",
+"latest": "2009-02-26",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-14-2009",
+"path": "local/arges/campulung/2009/14",
+"kind": "local",
+"year": "2009",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 14/2009 privind regimul juridic al apartamentelor eliberate prin mutarea Grădiniţelor cu Program Normal nr. 3 şi 4 Hotărâre privind regimul juridic al apartamentelor eliberate prin mutarea Grădiniţelor cu Program Normal nr. 3 şi 4",
+"short": "HCL Câmpulung nr. 14/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-02-26",
+"latest": "2009-02-26",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-15-2009",
+"path": "local/arges/campulung/2009/15",
+"kind": "local",
+"year": "2009",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 15/2009 privind aprobarea cotei de benzină la Serviciul Public de Asistenţă Socială Hotărâre privind aprobarea cotei de benzină la Serviciul Public de Asistenţă Socială",
+"short": "HCL Câmpulung nr. 15/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-02-26",
+"latest": "2009-02-26",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-16-2009",
+"path": "local/arges/campulung/2009/16",
+"kind": "local",
+"year": "2009",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 16/2009 privind stabilirea numărului maxim de asistenţi personali ai persoanelor cu handicap grav pentru anul 2009 Hotărâre privind stabilirea numărului maxim de asistenţi personali ai persoanelor cu handicap grav pentru anul 2009",
+"short": "HCL Câmpulung nr. 16/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-02-26",
+"latest": "2009-02-26",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-17-2009",
+"path": "local/arges/campulung/2009/17",
+"kind": "local",
+"year": "2009",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 17/2009 privind darea în folosinţă gratuită către Serviciul Public de Asistenţă Socială a imobilului din str",
+"short": "HCL Câmpulung nr. 17/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-02-26",
+"latest": "2009-02-26",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-18-2009",
+"path": "local/arges/campulung/2009/18",
+"kind": "local",
+"year": "2009",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 18/2009 privind darea în folosinţă gratuită către Asociaţia Persoanelor cu Handicap din Muscel a unui spaţiu din imobilul situat în str",
+"short": "HCL Câmpulung nr. 18/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-02-26",
+"latest": "2009-02-26",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-19-2009",
+"path": "local/arges/campulung/2009/19",
+"kind": "local",
+"year": "2009",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 19/2009 privind închirierea prin licitaţie publică a unui teren situat în str",
+"short": "HCL Câmpulung nr. 19/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-02-26",
+"latest": "2009-02-26",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-20-2009",
+"path": "local/arges/campulung/2009/20",
+"kind": "local",
+"year": "2009",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 20/2009 privind închirierea prin licitaţie publică a unui teren situat în str.Şoseaua Naţională Hotărâre privind închirierea prin licitaţie publică a unui teren situat în str.Şoseaua Naţională",
+"short": "HCL Câmpulung nr. 20/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-02-26",
+"latest": "2009-02-26",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-21-2009",
+"path": "local/arges/campulung/2009/21",
+"kind": "local",
+"year": "2009",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 21/2009 privind aprobarea bugetului local al Municipiului Câmpulung pe anul 2009 Hotărâre privind aprobarea bugetului local al Municipiului Câmpulung pe anul 2009",
+"short": "HCL Câmpulung nr. 21/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-03-31",
+"latest": "2009-03-31",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--campulung-22-2009",
 "path": "local/arges/campulung/2009/22",
 "kind": "local",
@@ -22,6 +308,29 @@
 "council_name": "Consiliul Local al Municipiului Câmpulung",
 "flags": {
 "text_pending": "review"
+}
+},
+{
+"slug": "hcl-arges--campulung-25-2009",
+"path": "local/arges/campulung/2009/25",
+"kind": "local",
+"year": "2009",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 25/2009",
+"short": "HCL Câmpulung nr. 25/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-03-31",
+"latest": "2009-03-31",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -47,6 +356,28 @@
 }
 },
 {
+"slug": "hcl-arges--campulung-27-2009",
+"path": "local/arges/campulung/2009/27",
+"kind": "local",
+"year": "2009",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 27/2009 privind repartizarea a două apartamente Hotărâre privind repartizarea a două apartamente",
+"short": "HCL Câmpulung nr. 27/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-03-31",
+"latest": "2009-03-31",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--campulung-28-2009",
 "path": "local/arges/campulung/2009/28",
 "kind": "local",
@@ -66,6 +397,28 @@
 "council_name": "Consiliul Local al Municipiului Câmpulung",
 "flags": {
 "text_pending": "review"
+}
+},
+{
+"slug": "hcl-arges--campulung-29-2009",
+"path": "local/arges/campulung/2009/29",
+"kind": "local",
+"year": "2009",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 29/2009 privind sporurile acordate salariaţilor S.P.A.P",
+"short": "HCL Câmpulung nr. 29/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-03-31",
+"latest": "2009-03-31",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -113,6 +466,138 @@
 }
 },
 {
+"slug": "hcl-arges--campulung-100-2009",
+"path": "local/arges/campulung/2009/100",
+"kind": "local",
+"year": "2009",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 100/2009 privind aprobare PUD pentru terenul situat în str. Dr. Fălcoianu, nr. 2 Hotărâre privind aprobare PUD pentru terenul situat în str. Dr. Fălcoianu, nr. 2",
+"short": "HCL Câmpulung nr. 100/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-07-30",
+"latest": "2009-07-30",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-101-2009",
+"path": "local/arges/campulung/2009/101",
+"kind": "local",
+"year": "2009",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 101/2009 privind aprobare PUD pentru terenul situat în str. Dr. Fălcoianu, nr. 4 Hotărâre privind aprobare PUD pentru terenul situat în str. Dr. Fălcoianu, nr. 4",
+"short": "HCL Câmpulung nr. 101/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-07-30",
+"latest": "2009-07-30",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-102-2009",
+"path": "local/arges/campulung/2009/102",
+"kind": "local",
+"year": "2009",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 102/2009 privind aprobare PUD pentru terenul situat în str. Gruiului, nr.175 E Hotărâre privind aprobare PUD pentru terenul situat în str. Gruiului, nr.175 E",
+"short": "HCL Câmpulung nr. 102/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-07-30",
+"latest": "2009-07-30",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-103-2009",
+"path": "local/arges/campulung/2009/103",
+"kind": "local",
+"year": "2009",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 103/2009 privind aprobare PUD pentru terenul situat în str",
+"short": "HCL Câmpulung nr. 103/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-07-30",
+"latest": "2009-07-30",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-104-2009",
+"path": "local/arges/campulung/2009/104",
+"kind": "local",
+"year": "2009",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 104/2009 Privind Acordul de parteneriat dintre Municipiul Câmpulung prin Consiliul Local al Municipiului Câmpulung și Județul Argeș prin",
+"short": "HCL Câmpulung nr. 104/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-07-30",
+"latest": "2009-07-30",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-105-2009",
+"path": "local/arges/campulung/2009/105",
+"kind": "local",
+"year": "2009",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 105/2009 privind construirea unui bloc de locuinţe sociale Hotărâre privind construirea unui bloc de locuinţe sociale",
+"short": "HCL Câmpulung nr. 105/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-08-13",
+"latest": "2009-08-13",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--campulung-106-2009",
 "path": "local/arges/campulung/2009/106",
 "kind": "local",
@@ -132,6 +617,116 @@
 "council_name": "Consiliul Local al Municipiului Câmpulung",
 "flags": {
 "text_pending": "review"
+}
+},
+{
+"slug": "hcl-arges--campulung-109-2009",
+"path": "local/arges/campulung/2009/109",
+"kind": "local",
+"year": "2009",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 109/2009 privind aprobare PUD pentru terenul situat în str. Dr",
+"short": "HCL Câmpulung nr. 109/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-08-27",
+"latest": "2009-08-27",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-110-2009",
+"path": "local/arges/campulung/2009/110",
+"kind": "local",
+"year": "2009",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 110/2009 privind aprobare PUD pentru terenul situat în str. Dr",
+"short": "HCL Câmpulung nr. 110/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-08-27",
+"latest": "2009-08-27",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-111-2009",
+"path": "local/arges/campulung/2009/111",
+"kind": "local",
+"year": "2009",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 111/2009 privind rectificarea bugetului local Hotărâre privind rectificarea bugetului local",
+"short": "HCL Câmpulung nr. 111/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-09-07",
+"latest": "2009-09-07",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-112-2009",
+"path": "local/arges/campulung/2009/112",
+"kind": "local",
+"year": "2009",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 112/2009 privind trecerea din domeniul public în domeniul privat al Municipiului Câmpulung a unor mijloace fixe în vederea casării Hotărâre privind trecerea din domeniul public în domeniul privat al Municipiului Câmpulung a unor mijloace fixe în vederea casării",
+"short": "HCL Câmpulung nr. 112/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-09-07",
+"latest": "2009-09-07",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-113-2009",
+"path": "local/arges/campulung/2009/113",
+"kind": "local",
+"year": "2009",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 113/2009 privind scoaterea din domeniul public şi trecerea în domeniul privat al municipiului Câmpulung a unor spaţii medicale Hotărâre privind scoaterea din domeniul public şi trecerea în domeniul privat al municipiului Câmpulung a unor spaţii medicale",
+"short": "HCL Câmpulung nr. 113/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-09-07",
+"latest": "2009-09-07",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -157,6 +752,28 @@
 }
 },
 {
+"slug": "hcl-arges--campulung-116-2009",
+"path": "local/arges/campulung/2009/116",
+"kind": "local",
+"year": "2009",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 116/2009 privind acceptarea unei donaţii Hotărâre privind acceptarea unei donaţii",
+"short": "HCL Câmpulung nr. 116/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-09-24",
+"latest": "2009-09-24",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--campulung-122-2009",
 "path": "local/arges/campulung/2009/122",
 "kind": "local",
@@ -176,6 +793,447 @@
 "council_name": "Consiliul Local al Municipiului Câmpulung",
 "flags": {
 "text_pending": "review"
+}
+},
+{
+"slug": "hcl-arges--campulung-123-2009",
+"path": "local/arges/campulung/2009/123",
+"kind": "local",
+"year": "2009",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 123/2009 privind darea în folosinţă gratuită Casei Judeţene de Pensii Argeş – Filiala Câmpulung a unui spaţiu situat în incinta Primăriei Municipiului Câmpulung Hotărâre privind darea în folosinţă gratuită Casei Judeţene de Pensii Argeş – Filiala Câmpulung a unui spaţiu situat în incinta Primăriei Municipiului Câmpulung",
+"short": "HCL Câmpulung nr. 123/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-09-24",
+"latest": "2009-09-24",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-126-2009",
+"path": "local/arges/campulung/2009/126",
+"kind": "local",
+"year": "2009",
+"number": "126",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 126/2009 privind rectificarea bugetului local Hotărâre privind rectificarea bugetului local",
+"short": "HCL Câmpulung nr. 126/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-10-29",
+"latest": "2009-10-29",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-128-2009",
+"path": "local/arges/campulung/2009/128",
+"kind": "local",
+"year": "2009",
+"number": "128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 128/2009 privind Planul de ocupare al funcţiilor publice din cadrul aparatului de specialitate al primarului pe anul 2010 Hotărâre privind Planul de ocupare al funcţiilor publice din cadrul aparatului de specialitate al primarului pe anul 2010",
+"short": "HCL Câmpulung nr. 128/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-10-29",
+"latest": "2009-10-29",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-129-2009",
+"path": "local/arges/campulung/2009/129",
+"kind": "local",
+"year": "2009",
+"number": "129",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 129/2009 privind Planul de ocupare al funcţiilor publice din cadrul Serviciului Public Comunitar Local de Evidenţă a Persoanelor al Municipiului Câmpulung pe anul 2010 Hotărâre privind Planul de ocupare al funcţiilor publice din cadrul Serviciului Public Comunitar Local de Evidenţă a Persoanelor al Municipiului Câmpulung pe anul 2010",
+"short": "HCL Câmpulung nr. 129/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-10-29",
+"latest": "2009-10-29",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-130-2009",
+"path": "local/arges/campulung/2009/130",
+"kind": "local",
+"year": "2009",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 130/2009 privind protocolul de colaborare dintre Inspectoratul Şcolar Judeţean Argeş şi Municipiul Câmpulung Hotărâre privind protocolul de colaborare dintre Inspectoratul Şcolar Judeţean Argeş şi Municipiul Câmpulung",
+"short": "HCL Câmpulung nr. 130/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-10-29",
+"latest": "2009-10-29",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-133-2009",
+"path": "local/arges/campulung/2009/133",
+"kind": "local",
+"year": "2009",
+"number": "133",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 133/2009 privind modificarea unui contract de închiriere Hotărâre privind modificarea unui contract de închiriere",
+"short": "HCL Câmpulung nr. 133/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-10-29",
+"latest": "2009-10-29",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-134-2009",
+"path": "local/arges/campulung/2009/134",
+"kind": "local",
+"year": "2009",
+"number": "134",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 134/2009 privind închirierea directă a unei suprafeţe de teren în favoarea S.C",
+"short": "HCL Câmpulung nr. 134/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-10-29",
+"latest": "2009-10-29",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-135-2009",
+"path": "local/arges/campulung/2009/135",
+"kind": "local",
+"year": "2009",
+"number": "135",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 135/2009 privind aprobare PUD pentru terenul situat în str. Dr",
+"short": "HCL Câmpulung nr. 135/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-10-29",
+"latest": "2009-10-29",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-136-2009",
+"path": "local/arges/campulung/2009/136",
+"kind": "local",
+"year": "2009",
+"number": "136",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 136/2009 privind aprobare PUD pentru terenul situat în str. Prof.Gh.Mitu (pct. Onicuţ) Hotărâre privind aprobare PUD pentru terenul situat în str. Prof.Gh.Mitu (pct. Onicuţ)",
+"short": "HCL Câmpulung nr. 136/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-10-29",
+"latest": "2009-10-29",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-137-2009",
+"path": "local/arges/campulung/2009/137",
+"kind": "local",
+"year": "2009",
+"number": "137",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 137/2009 privind aprobare PUD pentru terenul situat în Zona Periurbană Mărcuşi Hotărâre privind aprobare PUD pentru terenul situat în Zona Periurbană Mărcuşi",
+"short": "HCL Câmpulung nr. 137/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-10-29",
+"latest": "2009-10-29",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-140-2009",
+"path": "local/arges/campulung/2009/140",
+"kind": "local",
+"year": "2009",
+"number": "140",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 140/2009 privind rectificarea bugetului local Hotărâre privind rectificarea bugetului local",
+"short": "HCL Câmpulung nr. 140/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-11-05",
+"latest": "2009-11-05",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-141-2009",
+"path": "local/arges/campulung/2009/141",
+"kind": "local",
+"year": "2009",
+"number": "141",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 141/2009 privind rectificarea bugetului local Hotărâre privind rectificarea bugetului local",
+"short": "HCL Câmpulung nr. 141/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-11-25",
+"latest": "2009-11-25",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-142-2009",
+"path": "local/arges/campulung/2009/142",
+"kind": "local",
+"year": "2009",
+"number": "142",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 142/2009 privind aprobare PUZ pentru terenul situat în str. Leculeşti (punct Livadei) Hotărâre privind aprobare PUZ pentru terenul situat în str. Leculeşti (punct Livadei)",
+"short": "HCL Câmpulung nr. 142/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-11-25",
+"latest": "2009-11-25",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-143-2009",
+"path": "local/arges/campulung/2009/143",
+"kind": "local",
+"year": "2009",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 143/2009 privind rectificarea bugetului local Hotărâre privind rectificarea bugetului local",
+"short": "HCL Câmpulung nr. 143/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-12-03",
+"latest": "2009-12-03",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-144-2009",
+"path": "local/arges/campulung/2009/144",
+"kind": "local",
+"year": "2009",
+"number": "144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 144/2009 Privind proiectul : „Instruirea personalului din cadrul Administrației publice locale Câmpulung, județul Argeș - modalitate de sporire a eficacității instituționale prin asigurarea unui nivel superior de calitate” Consiliul Local al Municipiului Câmpulung întrunit în ședință extraordinară în data de 03 12 2009; Luând în discuție raportul primarului înregistrat sub nr.29844/03 12 2009 prin care se",
+"short": "HCL Câmpulung nr. 144/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-12-03",
+"latest": "2009-12-03",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-145-2009",
+"path": "local/arges/campulung/2009/145",
+"kind": "local",
+"year": "2009",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 145/2009 privind rectificarea bugetului local Hotărâre privind rectificarea bugetului local",
+"short": "HCL Câmpulung nr. 145/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-12-17",
+"latest": "2009-12-17",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-152-2009",
+"path": "local/arges/campulung/2009/152",
+"kind": "local",
+"year": "2009",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 152/2009 privind completarea inventarului bunurilor aparţinând domeniului public al Municipiului Câmpulung Hotărâre privind completarea inventarului bunurilor aparţinând domeniului public al Municipiului Câmpulung",
+"short": "HCL Câmpulung nr. 152/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-12-17",
+"latest": "2009-12-17",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-153-2009",
+"path": "local/arges/campulung/2009/153",
+"kind": "local",
+"year": "2009",
+"number": "153",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 153/2009",
+"short": "HCL Câmpulung nr. 153/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-12-17",
+"latest": "2009-12-17",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arges--campulung-154-2009",
+"path": "local/arges/campulung/2009/154",
+"kind": "local",
+"year": "2009",
+"number": "154",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 154/2009 privind Studiul de Fezabilitate „Creşterea performanţei energetice a Spitalului Municipal Câmpulung ” Hotărâre privind Studiul de Fezabilitate „Creşterea performanţei energetice a Spitalului Municipal Câmpulung ”",
+"short": "HCL Câmpulung nr. 154/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-12-17",
+"latest": "2009-12-17",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-155-2009",
+"path": "local/arges/campulung/2009/155",
+"kind": "local",
+"year": "2009",
+"number": "155",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 155/2009 privind repartizarea unei locuinţe A.N.L",
+"short": "HCL Câmpulung nr. 155/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-12-17",
+"latest": "2009-12-17",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

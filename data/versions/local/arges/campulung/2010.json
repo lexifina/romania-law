@@ -3,6 +3,231 @@
  "shard": "local/arges/campulung/2010",
  "acts": [
   {
+   "slug": "hcl-arges--campulung-100-2010",
+   "path": "local/arges/campulung/2010/100",
+   "short": "HCL Câmpulung nr. 100/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 100/2010 privind majorarea numărului de paturi pentru însoţitori de la Spitalul Municipal Câmpulung Hotărâre privind majorarea numărului de paturi pentru însoţitori de la Spitalul Municipal Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-08-12",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20100%20din%2012.08.2010.pdf",
+     "sha256": "6b50fa75564201e872e7e71e25729c86c7f7ac693930d50cf261a9d2267036d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-101-2010",
+   "path": "local/arges/campulung/2010/101",
+   "short": "HCL Câmpulung nr. 101/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 101/2010 privind desemnarea reprezentanţilor Consiliului Local al Municipiului Câmpulung în cadrul Consiliului de Administraţie al Spitalului Municipal Câmpulung Hotărâre privind desemnarea reprezentanţilor Consiliului Local al Municipiului Câmpulung în cadrul Consiliului de Administraţie al Spitalului Municipal Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-08-12",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20101%20din%2012.08.2010.pdf",
+     "sha256": "0707531de62e84d0046a7e917e958fb63867259de9297c2d3efce53941b5a099"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-104-2010",
+   "path": "local/arges/campulung/2010/104",
+   "short": "HCL Câmpulung nr. 104/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 104/2010 privind trecerea blocurilor A, B1, A1, B, situate în str. Carpaţi, nr.93, din proprietatea publică a Municipiului Câmpulung în proprietatea publică a statului Hotărâre privind trecerea blocurilor A, B1, A1, B, situate în str. Carpaţi, nr.93, din proprietatea publică a Municipiului Câmpulung în proprietatea publică a statului",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-08-12",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20104%20din%2012.08.2010.pdf",
+     "sha256": "76280c2fd88b471bb1b9a9d43dcaac44a5ca8299a024a539686260d48028044b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-105-2010",
+   "path": "local/arges/campulung/2010/105",
+   "short": "HCL Câmpulung nr. 105/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 105/2010 privind deplasarea delegaţiei Municipiului Câmpulung în Municipiul Berovo -Macedonia, la evenimentul „Festivalul Piaţa Etno” Hotărâre privind deplasarea delegaţiei Municipiului Câmpulung în Municipiul Berovo -Macedonia, la evenimentul „Festivalul Piaţa Etno”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-08-12",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20105%20din%2012.08.2010.pdf",
+     "sha256": "755960659db31067fdb67ee737d26e4cb570c11be510bf42d7d08e8bbc9788db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-106-2010",
+   "path": "local/arges/campulung/2010/106",
+   "short": "HCL Câmpulung nr. 106/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 106/2010 privind aprobare PUD pentru terenul situat în str",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-08-12",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20106%20din%2012.08.2010.pdf",
+     "sha256": "2cb8988fd6107054843c061e681c46bb650c42f625f24cdc9ad4d76e5cf7e537"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-107-2010",
+   "path": "local/arges/campulung/2010/107",
+   "short": "HCL Câmpulung nr. 107/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 107/2010 privind rectificarea bugetului local Hotărâre privind rectificarea bugetului local",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-08-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20107%20din%2031.08.2010.pdf",
+     "sha256": "27027faee3e3b3ac982bcbdf86c27b38d9997e9811fbd72aa5fdbe7756c80769"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-109-2010",
+   "path": "local/arges/campulung/2010/109",
+   "short": "HCL Câmpulung nr. 109/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 109/2010 privind chiriile pentru locuinţele ce aparţin domeniului public sau privat al Municipiului Câmpulung Hotărâre privind chiriile pentru locuinţele ce aparţin domeniului public sau privat al Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-08-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20109%20din%2031.08.2010.pdf",
+     "sha256": "d013ca5c8a2974d85aaaab272fe98f7f543a8aaf5434b62a14badbc79e270b5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-11-2010",
+   "path": "local/arges/campulung/2010/11",
+   "short": "HCL Câmpulung nr. 11/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 11/2010",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2011%20din%2028.01.2010.pdf",
+     "sha256": "3b9b92c8e3ad3b9da0f2623286e0375537eb9b5eab49fea5dc7aa60709001a81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-110-2010",
+   "path": "local/arges/campulung/2010/110",
+   "short": "HCL Câmpulung nr. 110/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 110/2010 pentru asigurarea cheltuielilor de personal aferente medicilor, medicilor dentişti, asistenţilor medicali şi a cheltuielilor pentru medicamente şi materiale sanitare pentru baremul de dotare din cabinetele de medicină generală şi dentară din unităţile sanitare de învăţămân Hotărâre rivind contractul pentru asigurarea cheltuielilor de personal aferente medicilor, medicilor dentişti, asistenţilor me",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-08-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20110%20din%2031.08.2010.pdf",
+     "sha256": "26eebc74a5c80c6ebe4cae1a8c89a5623d0bf0a6b4433ed4c60712aa2bfd0158"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-111-2010",
+   "path": "local/arges/campulung/2010/111",
+   "short": "HCL Câmpulung nr. 111/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 111/2010 privind contractul de cesiune dintre Municipiul Câmpulung şi S.P.A.D.P.P",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-08-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20111%20din%2031.08.2010.pdf",
+     "sha256": "60de7af844ca7edf8911d4b2adc1cd965e11cbb827190a2f0ee19dbd3dfe73e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-112-2010",
+   "path": "local/arges/campulung/2010/112",
+   "short": "HCL Câmpulung nr. 112/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 112/2010",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-08-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20112%20din%2031.08.2010.pdf",
+     "sha256": "8140fb3dbf8e69143cf204a296682b7b0a256aefc8839c020c72b00088146c79"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-113-2010",
+   "path": "local/arges/campulung/2010/113",
+   "short": "HCL Câmpulung nr. 113/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 113/2010 privind stabilirea amplasamentului pentru construirea unei locuinţe Hotărâre privind stabilirea amplasamentului pentru construirea unei locuinţe",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-08-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20113%20din%2031.08.2010.pdf",
+     "sha256": "a3bd61cd9d2ac5149f082bc4588d219d5903ebb86a1f8a0b0e368904ed7a2938"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-114-2010",
+   "path": "local/arges/campulung/2010/114",
+   "short": "HCL Câmpulung nr. 114/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 114/2010 privind deplasarea delegaţiei Municipiului Câmpulung în oraşul Trzebnica, Regiunea Powiat, Polonia, la evenimentul „Cultura noastră, moştenirea istorică şi culturală, tradiţiile şi rolul lor în dezvoltarea economică şi turistică a regiunilor ” Hotărâre privind deplasarea delegaţiei Municipiului Câmpulung în oraşul Trzebnica, Regiunea Powiat, Polonia, la evenimentul „Cultura noastră, moştenirea ist",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-09-07",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20114%20din%2007.09.2010.pdf",
+     "sha256": "81804106ea70de2fde1a9ac85d6b686191e93dfc877a5a5a1779594101b45990"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-115-2010",
+   "path": "local/arges/campulung/2010/115",
+   "short": "HCL Câmpulung nr. 115/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 115/2010 privind “Programul de investiţii publice pe anul 2011”, al Spitalului Municipal Câmpulung Hotărâre privind “Programul de investiţii publice pe anul 2011”, al Spitalului Municipal Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-09-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20115%20din%2030.09.2010.pdf",
+     "sha256": "422593f7896469369969312307a597db450b353d5e4efee922558690855863d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-116-2010",
+   "path": "local/arges/campulung/2010/116",
+   "short": "HCL Câmpulung nr. 116/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 116/2010 privind rectificarea bugetului local Hotărâre privind rectificarea bugetului local",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-09-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20116%20din%2030.09.2010.pdf",
+     "sha256": "74f371a75c9c1cf076cc832985dd512dbf20825ef48fe618e8377b4b4e5c1eac"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--campulung-119-2010",
    "path": "local/arges/campulung/2010/119",
    "short": "HCL Câmpulung nr. 119/2010",
@@ -14,6 +239,891 @@
      "units": 1,
      "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20119%20din%2030.09.2010.pdf",
      "sha256": "5c90ae453b5598f451e9d959e435d95f6d409b7cfa15b81015e7f4142fb8889b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-12-2010",
+   "path": "local/arges/campulung/2010/12",
+   "short": "HCL Câmpulung nr. 12/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 12/2010",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2012%20din%2028.01.2010.pdf",
+     "sha256": "1bc1c14f1fc48c4f1f7875781b601b62eb5dd7e6c956f57795a33d8a84f838db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-120-2010",
+   "path": "local/arges/campulung/2010/120",
+   "short": "HCL Câmpulung nr. 120/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 120/2010 privind completarea inventarului bunurilor domeniului public Hotărâre privind completarea inventarului bunurilor domeniului public",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-09-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20120%20din%2030.09.2010.pdf",
+     "sha256": "06ca07afee7b6e30c03491be0520e060dfa0e09153c9d08769ae4608a7ef9439"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-122-2010",
+   "path": "local/arges/campulung/2010/122",
+   "short": "HCL Câmpulung nr. 122/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 122/2010 privind Programul Guvernamental de încurajare a consumului de fructe în şcoli Hotărâre privind Programul Guvernamental de încurajare a consumului de fructe în şcoli",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-09-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20122%20din%2030.09.2010.pdf",
+     "sha256": "768cb0883a1497be6416b2ba99d053d3d216f403f838097c13f637557fd21cd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-123-2010",
+   "path": "local/arges/campulung/2010/123",
+   "short": "HCL Câmpulung nr. 123/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 123/2010",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-09-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20123%20din%2030.09.2010.pdf",
+     "sha256": "4f51c7e3fe5a87f00e0db068bd19b855a6cedb8535fd2b36422448a418499433"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-124-2010",
+   "path": "local/arges/campulung/2010/124",
+   "short": "HCL Câmpulung nr. 124/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 124/2010 privind închirierea prin licitaţie publică a unui spaţiu situat în incinta Ambulatoriului de Specialitate Hotărâre privind închirierea prin licitaţie publică a unui spaţiu situat în incinta Ambulatoriului de Specialitate",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-09-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20124%20din%2030.09.2010.pdf",
+     "sha256": "ec027c62049c04102f8abad1850234a17d9e3c983d7a1bea4aae1cd776649e7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-125-2010",
+   "path": "local/arges/campulung/2010/125",
+   "short": "HCL Câmpulung nr. 125/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 125/2010 privind închirierea directă a unui teren Hotărâre privind închirierea directă a unui teren",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-09-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20125%20din%2030.09.2010.pdf",
+     "sha256": "7f064a39cf4fd836b606059555445128b7d687b7f2f11e1b3ada8c707e0e28fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-126-2010",
+   "path": "local/arges/campulung/2010/126",
+   "short": "HCL Câmpulung nr. 126/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 126/2010 privind închirierea prin licitaţie publică a unui teren Hotărâre privind închirierea prin licitaţie publică a unui teren",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-09-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20126%20din%2030.09.2010.pdf",
+     "sha256": "78abc3ed1cc0846f7cf29461b84d5197ece7308c6f2d557d4d595263b13da5f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-127-2010",
+   "path": "local/arges/campulung/2010/127",
+   "short": "HCL Câmpulung nr. 127/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 127/2010 privind asocierea dintre Municipiul Câmpulung şi Asociaţia Culturală „Pardon Mersi” Hotărâre privind asocierea dintre Municipiul Câmpulung şi Asociaţia Culturală „Pardon Mersi”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-09-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20127%20din%2030.09.2010.pdf",
+     "sha256": "acdd1066fe5731787a88fde60759abc4109a8a1ce33379862f8df41815844459"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-128-2010",
+   "path": "local/arges/campulung/2010/128",
+   "short": "HCL Câmpulung nr. 128/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 128/2010 privind acordul de parteneriat dintre Municipiul Câmpulung şi Grupul Şcolar Tehnologic Câmpulung Hotărâre privind acordul de parteneriat dintre Municipiul Câmpulung şi Grupul Şcolar Tehnologic Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-10-21",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20128%20din%2021.10.2010.pdf",
+     "sha256": "e131d89416df1dd6ae8d11a8104733b662520d109b20284d982e191088c30ffd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-129-2010",
+   "path": "local/arges/campulung/2010/129",
+   "short": "HCL Câmpulung nr. 129/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 129/2010 privind rectificarea bugetului local Hotărâre privind rectificarea bugetului local",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-10-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20129%20din%2028.10.2010.pdf",
+     "sha256": "fe86742426a6e714e6d0d03685a12b21a34b2e1890d593d8b46d58db444c327b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-13-2010",
+   "path": "local/arges/campulung/2010/13",
+   "short": "HCL Câmpulung nr. 13/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 13/2010 privind prelungirea contractelor de închiriere pentru spaţiile comerciale ce aparţin domeniului public şi privat al Municipiului Câmpulung Hotărâre privind prelungirea contractelor de închiriere pentru spaţiile comerciale ce aparţin domeniului public şi privat al Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2013%20din%2028.01.2010.pdf",
+     "sha256": "4bc0a2be5d02a80845a81d95e5f59dcd66be52df118d1675bf192eb370e50fe8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-131-2010",
+   "path": "local/arges/campulung/2010/131",
+   "short": "HCL Câmpulung nr. 131/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 131/2010 privind parteneriatul dintre Municipiul Câmpulung şi S.C",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-10-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20131%20din%2028.10.2010.pdf",
+     "sha256": "0981f569c1ed9a6e8e2d4abe257d2b063f9dcdc0587411dc2f13d75b8cdb3214"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-132-2010",
+   "path": "local/arges/campulung/2010/132",
+   "short": "HCL Câmpulung nr. 132/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 132/2010",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-10-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20132%20din%2028.10.2010.pdf",
+     "sha256": "9b9912489b960b13abe5e75a3b2a6e27767c71588317703290ac7faae97431f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-133-2010",
+   "path": "local/arges/campulung/2010/133",
+   "short": "HCL Câmpulung nr. 133/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 133/2010 privind repartizarea unei locuinţe A.N.L",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-10-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20133%20din%2028.10.2010.pdf",
+     "sha256": "2a1641d9d5059daedc24286b4a86062c65f5d1d73114c0c1bbec174b797c1a91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-134-2010",
+   "path": "local/arges/campulung/2010/134",
+   "short": "HCL Câmpulung nr. 134/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 134/2010 privind angajarea unei case de avocaţi care să reprezinte Municipiul Câmpulung Hotărâre privind angajarea unei case de avocaţi care să reprezinte Municipiul Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-10-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20134%20din%2028.10.2010.pdf",
+     "sha256": "a7a2c5ce743de6bd166526b968d5fafa3ad01bd54d6403ffa23a348dcfb6481a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-135-2010",
+   "path": "local/arges/campulung/2010/135",
+   "short": "HCL Câmpulung nr. 135/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 135/2010",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-10-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20135%20din%2028.10.2010.pdf",
+     "sha256": "22ddab71c8299a5552240aca7d92f81ea60f58a9ed900a61b479fe1421fa50e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-136-2010",
+   "path": "local/arges/campulung/2010/136",
+   "short": "HCL Câmpulung nr. 136/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 136/2010 privind asocierea Municipiului Câmpulung cu comunele Valea Mare Pravăţ şi Lereşti într-o asociere de dezvoltare intercomunitară Hotărâre privind asocierea Municipiului Câmpulung cu comunele Valea Mare Pravăţ şi Lereşti într-o asociere de dezvoltare intercomunitară",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-10-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20136%20din%2028.10.2010.pdf",
+     "sha256": "db480dfac1362611b63c0293effc04edaa7130abaf5596def3023388af2e732a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-137-2010",
+   "path": "local/arges/campulung/2010/137",
+   "short": "HCL Câmpulung nr. 137/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 137/2010 privind introducerea unui teren în domeniul privat al Municipiului Câmpulung Hotărâre privind introducerea unui teren în domeniul privat al Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-10-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20137%20din%2028.10.2010.pdf",
+     "sha256": "ebfb4061357bbe212da8c5e044269dd7b77f5ae981042f3e52c357700aae763c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-139-2010",
+   "path": "local/arges/campulung/2010/139",
+   "short": "HCL Câmpulung nr. 139/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 139/2010 privind Studiul de Fezabilitate pentru proiectul ”Reabilitarea stației de epurare (Linia apei) în Municipiului Câmpulung” Consiliul Local al Municipiului Câmpulung întrunit în ședință de îndată, astăzi 16 11 2010 ; Luând în discuție raportul primarului înregistrat sub nr.31 205/16 11 2010 prin care se propune spre aprobare Studiul de Fezabilitate pentru proiectul ”Reabilitarea stației de epurare (",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-11-16",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20139%20din%2016.11.2010.pdf",
+     "sha256": "8457aacb86966547610a82fc3c45c3a7ae73cfa0844327ca07c4bbb9c42e1af0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-14-2010",
+   "path": "local/arges/campulung/2010/14",
+   "short": "HCL Câmpulung nr. 14/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 14/2010 privind repartizarea unei locuinţe sociale Hotărâre privind repartizarea unei locuinţe sociale",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2014%20din%2028.01.2010.pdf",
+     "sha256": "ba14f9f8f3b4a373d7e0549ecc2f98625051dd75aaab5c38098335ffe91ceaf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-140-2010",
+   "path": "local/arges/campulung/2010/140",
+   "short": "HCL Câmpulung nr. 140/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 140/2010 privind acordarea unor sporuri salariale Hotărâre privind acordarea unor sporuri salariale",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-11-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20140%20din%2030.11.2010.pdf",
+     "sha256": "bc5fcc1b852854defdc9ce5c18013fc8c6f6d219987d32f22e83d893269e9e36"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-141-2010",
+   "path": "local/arges/campulung/2010/141",
+   "short": "HCL Câmpulung nr. 141/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 141/2010 privind Planul de ocupare a funcţiilor publice pe semestrul II din anul 2010 Hotărâre privind Planul de ocupare a funcţiilor publice pe semestrul II din anul 2010",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-11-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20141%20din%2030.11.2010.pdf",
+     "sha256": "999c3a1b802563ee1426a9c186bf8d9af8b0bdf0ba70c8416a30ce46b2f6658b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-142-2010",
+   "path": "local/arges/campulung/2010/142",
+   "short": "HCL Câmpulung nr. 142/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 142/2010 privind rectificarea bugetului local Hotărâre privind rectificarea bugetului local",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-11-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20142%20din%2030.11.2010.pdf",
+     "sha256": "c06e53741a50da244af134113dae287b3235665a3442098c9e7c2b8cbf2d20e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-143-2010",
+   "path": "local/arges/campulung/2010/143",
+   "short": "HCL Câmpulung nr. 143/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 143/2010 privind perfectarea unor noi contracte de închiriere Hotărâre privind perfectarea unor noi contracte de închiriere",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-11-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20143%20din%2030.11.2010.pdf",
+     "sha256": "9eb934cba613606d95635c4b634d2b7390f2b1aa2baa4f7257d246976ee67f57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-144-2010",
+   "path": "local/arges/campulung/2010/144",
+   "short": "HCL Câmpulung nr. 144/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 144/2010 privind selectarea unui evaluator autorizat Hotărâre privind selectarea unui evaluator autorizat",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-11-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20144%20din%2030.11.2010.pdf",
+     "sha256": "810fbdebbec01111b6ef8dc65af36ea07454c460e8eb3fcbe699cc31744dadbb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-146-2010",
+   "path": "local/arges/campulung/2010/146",
+   "short": "HCL Câmpulung nr. 146/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 146/2010 privind domeniile serviciilor publice şi locurile în care se vor presta activităţi în folosul comunităţii de către contravenienţi Hotărâre privind domeniile serviciilor publice şi locurile în care se vor presta activităţi în folosul comunităţii de către contravenienţi",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-11-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20146%20din%2030.11.2010.pdf",
+     "sha256": "de8a88b8d0ff7c603c024957a0a5fad78bf506f1d9a6a08befc58fcfc18cc4e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-149-2010",
+   "path": "local/arges/campulung/2010/149",
+   "short": "HCL Câmpulung nr. 149/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 149/2010 privind asocierea dintre Municipiul Câmpulung, Clubul Sportiv Sporting Piteşti şi C.S.Ş",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-11-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20149%20din%2030.11.2010.pdf",
+     "sha256": "90c78bdc9e62c4bff34da8986e57938552f7e2af1d6c5b2c74228b40892725cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-15-2010",
+   "path": "local/arges/campulung/2010/15",
+   "short": "HCL Câmpulung nr. 15/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 15/2010 privind stabilirea numărului maxim de asistenţi personali ai persoanelor cu handicap grav pentru anul 2010 Hotărâre privind stabilirea numărului maxim de asistenţi personali ai persoanelor cu handicap grav pentru anul 2010",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2015%20din%2028.01.2010.pdf",
+     "sha256": "8e4ff19e4e342b2c4224ba9b76b3c768ed023754f6be99885b99b708ef84e498"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-150-2010",
+   "path": "local/arges/campulung/2010/150",
+   "short": "HCL Câmpulung nr. 150/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 150/2010 privind închirierea directă a unui teren Hotărâre privind închirierea directă a unui teren",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-11-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20150%20din%2030.11.2010.pdf",
+     "sha256": "8ef9e4bb988308e7d123373d24416c1e7e71ae451761da5a664efd675cbfc2ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-151-2010",
+   "path": "local/arges/campulung/2010/151",
+   "short": "HCL Câmpulung nr. 151/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 151/2010 privind rectificarea bugetului local Hotărâre privind rectificarea bugetului local",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-12-02",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20151%20din%2002.12.2010.pdf",
+     "sha256": "9ea8f4ffb6cf8e2ea4c89c7a0020e843a673a01ec574ab018dc25c4d3a229746"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-152-2010",
+   "path": "local/arges/campulung/2010/152",
+   "short": "HCL Câmpulung nr. 152/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 152/2010 privind participarea Municipiului Câmpulung la proiectul „INTEGRARE PE PIAȚA MUNCII PRIN ACTIVAREA ECONOMIEI SOCIALE ” Consiliul Local al Municipiului Câmpulung întrunit în ședință de îndată în data de 02 12 2010; Luând în discuție raportul primarului înregistrat sub nr.33219/02 12 2010 prin care se propune participarea Municipiului Câmpulung la proiectul „INTEGRARE PE PIAȚA MUNCII PRIN ACTIVAREA",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-12-02",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20152%20din%2002.12.2010.pdf",
+     "sha256": "c9165dd01032f0cc231b022c3f5c436a05ee0561318caa139b396e840298f19d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-153-2010",
+   "path": "local/arges/campulung/2010/153",
+   "short": "HCL Câmpulung nr. 153/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 153/2010 privind aprobarea proiectului „ INCLUZIUNE SOCIALĂ ȘI ACCES PE PIAȚA MUNCII PRIN CREAREA DE ÎNTREPRINDERI SOCIALE – INSOMAL ” Consiliul Local al Municipiului Câmpulung întrunit în ședință de îndată în data de 02 12 2010; Luând în discuție raportul primarului înregistrat sub nr.33245/02 12 2010 prin care se propune participarea Municipiului Câmpulung la proiectul ” INCLUZIUNE SOCIALĂ ȘI ACCES PE PI",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-12-02",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20153%20din%2002.12.2010.pdf",
+     "sha256": "12875d5f6dd1b6b5d2e921c63da17ca3e4715b1bc660bd22a028b1503f6c9390"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-154-2010",
+   "path": "local/arges/campulung/2010/154",
+   "short": "HCL Câmpulung nr. 154/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 154/2010 privind rectificarea bugetului local Hotărâre privind rectificarea bugetului local",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-12-13",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20154%20din%2013.12.2010.pdf",
+     "sha256": "8fdfe37d4cd6380933867bdfb9cfb4be5a760dcd29293c1c9953620d338fcb13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-155-2010",
+   "path": "local/arges/campulung/2010/155",
+   "short": "HCL Câmpulung nr. 155/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 155/2010 privind alocarea unei sume din buget pentru sarbatorile de iarnă Hotărâre privind alocarea unei sume din buget pentru sarbatorile de iarnă",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-12-13",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20155%20din%2013.12.2010.pdf",
+     "sha256": "5bdadb71efcba46aed57bc620f2a014b5630b0ee54315f40d5a806321317971f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-156-2010",
+   "path": "local/arges/campulung/2010/156",
+   "short": "HCL Câmpulung nr. 156/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 156/2010 privind participarea Municipiului Câmpulung la proiectul „Incubator de Economie Socială MUSCEL ” Consiliul Local al Municipiului Câmpulung întrunit în ședință extraordinară în data de 13 12 2010; Luând în discuție raportul primarului înregistrat sub nr.34251/09 12 2010 prin care se propune participarea Municipiului Câmpulung la proiectul „Incubator de Economie Socială MUSCEL ”, din cadrul Programu",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-12-13",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20156%20din%2013.12.2010.pdf",
+     "sha256": "487d56074b8fdb1174a29ee2e66a6e988c37c64a147583776c04d6b0fed0827c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-157-2010",
+   "path": "local/arges/campulung/2010/157",
+   "short": "HCL Câmpulung nr. 157/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 157/2010 privind prelungirea contractelor de închiriere pentru spaţiile comerciale şi terenurile ce aparţin domeniului public şi privat al Municipiului Câmpulung Hotărâre privind prelungirea contractelor de închiriere pentru spaţiile comerciale şi terenurile ce aparţin domeniului public şi privat al Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-12-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20157%20din%2028.12.2010.pdf",
+     "sha256": "60da511f47f97af2c46bbc5af95ed8388aff6112a5b3013265f404a2de79589b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-160-2010",
+   "path": "local/arges/campulung/2010/160",
+   "short": "HCL Câmpulung nr. 160/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 160/2010",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-12-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20160%20din%2028.12.2010.pdf",
+     "sha256": "e00955a20bf4281cd3f05b62c99f6adc35abf3a6ddca3abe7c7a9fab0a2a6ba8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-163-2010",
+   "path": "local/arges/campulung/2010/163",
+   "short": "HCL Câmpulung nr. 163/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 163/2010",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-12-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20163%20din%2028.12.2010.pdf",
+     "sha256": "cab5bc75f0bf89ded7d8c727f9e6de691ee57aaadcd16bad5df241a12e597fe6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-165-2010",
+   "path": "local/arges/campulung/2010/165",
+   "short": "HCL Câmpulung nr. 165/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 165/2010 privind condiţiile de eliberare a autorizaţiei de funcţionare pentru agenţi economici care comercializează plante şi substanţe cu efect halucinogen, euforic sau psihotrop pe teritoriul Municipiului Câmpulung Hotărâre privind condiţiile de eliberare a autorizaţiei de funcţionare pentru agenţi economici care comercializează plante şi substanţe cu efect halucinogen, euforic sau psihotrop pe teritoriu",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-12-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20165%20din%2028.12.2010.pdf",
+     "sha256": "6fdc9164f85243decb8ccae37a0ce78f379f2d5acc7025724579d3958fdc9964"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-166-2010",
+   "path": "local/arges/campulung/2010/166",
+   "short": "HCL Câmpulung nr. 166/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 166/2010 privind asocierea Municipiului Câmpulung, judeţul Argeş cu Ministerul Transporturilor şi Infrastructurii Hotărâre privind asocierea Municipiului Câmpulung, judeţul Argeş cu Ministerul Transporturilor şi Infrastructurii",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-12-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20166%20din%2028.12.2010.pdf",
+     "sha256": "bdfa39638db0b5d0c5863b2d71421f70d262bd251e923bf71c970d63b33ee9cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-167-2010",
+   "path": "local/arges/campulung/2010/167",
+   "short": "HCL Câmpulung nr. 167/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 167/2010 privind participarea Municipiului Câmpulung la proiectul „ Centrul de resurse, formare și perfecționare în meserii noi și tradiționale ” Consiliul Local al Municipiului Câmpulung întrunit în ședință ordinară în data de 28 12 2010; Luând în discuție raportul primarului înregistrat sub nr.35 622/22 12 2010 prin care se propune participarea Municipiului Câmpulung la proiectul „ Centrul de resurse, fo",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-12-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20167%20din%2028.12.2010.pdf",
+     "sha256": "71aa9e9e5b720e9c1d0ca560a37efc4108e0e1686642e569b798167bd0ecad1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-168-2010",
+   "path": "local/arges/campulung/2010/168",
+   "short": "HCL Câmpulung nr. 168/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 168/2010 privind aprobare PUD pentru terenul situat în str. Poligonului, nr.13 Hotărâre privind aprobare PUD pentru terenul situat în str. Poligonului, nr.13",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-12-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20168%20din%2028.12.2010.pdf",
+     "sha256": "b371a767dea98422eb467742236abaec0ca1861067b667a31116e98bc5b592f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-17-2010",
+   "path": "local/arges/campulung/2010/17",
+   "short": "HCL Câmpulung nr. 17/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 17/2010 privind darea în folosinţă gratuită către Casa Judeţeană de Pensii Argeş a spaţiului situat în str",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2017%20din%2028.01.2010.pdf",
+     "sha256": "defa1f6e1bf3307ed465b58243a3ce3149de9741b2a89fd9a2da1663dd8500c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-18-2010",
+   "path": "local/arges/campulung/2010/18",
+   "short": "HCL Câmpulung nr. 18/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 18/2010 privind scoaterea imobilului situat în str. I.L.Caragiale, nr.28, din evidenţa contabilă a bunurilor aparţinând domeniului privat al Municipiului Câmpulung Hotărâre privind scoaterea imobilului situat în str. I.L.Caragiale, nr.28, din evidenţa contabilă a bunurilor aparţinând domeniului privat al Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2018%20din%2028.01.2010.pdf",
+     "sha256": "ad17786d8bcc01c7b0038fb44c30452411675309f92836bb40f130f0d7a465f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-19-2010",
+   "path": "local/arges/campulung/2010/19",
+   "short": "HCL Câmpulung nr. 19/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 19/2010 privind scoaterea din domeniul public şi trecerea în domeniul privat al Municipiului Câmpulung a unor terenuri Hotărâre privind scoaterea din domeniul public şi trecerea în domeniul privat al Municipiului Câmpulung a unor terenuri",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2019%20din%2028.01.2010.pdf",
+     "sha256": "b84fda0c438e30c9c955705ab8355107e2dc3cb0783261e92211cecbac1b4939"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-20-2010",
+   "path": "local/arges/campulung/2010/20",
+   "short": "HCL Câmpulung nr. 20/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 20/2010 privind cuantumul indemnizaţiei membrilor comisiei de vânzare a spaţiilor medicale Hotărâre privind cuantumul indemnizaţiei membrilor comisiei de vânzare a spaţiilor medicale",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2020%20din%2028.01.2010.pdf",
+     "sha256": "b9a0e519d57419576622e35a9d32b533333983b1eb471d2947a4b3f291275e2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-21-2010",
+   "path": "local/arges/campulung/2010/21",
+   "short": "HCL Câmpulung nr. 21/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 21/2010 privind caietele de sarcini pentru Serviciul de Apă şi Canalizare şi pentru Serviciul de Salubrizare Hotărâre privind caietele de sarcini pentru Serviciul de Apă şi Canalizare şi pentru Serviciul de Salubrizare",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2021%20din%2028.01.2010.pdf",
+     "sha256": "05751419f9ec090f557b9b3b8dde78845384011f1365a9555f0116015bb38f3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-22-2010",
+   "path": "local/arges/campulung/2010/22",
+   "short": "HCL Câmpulung nr. 22/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 22/2010 privind închirierea prin licitaţie publică a două spaţii şi un teren aflate în administrarea Spitalului Municipal Câmpulung Hotărâre privind închirierea prin licitaţie publică a două spaţii şi un teren aflate în administrarea Spitalului Municipal Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2022%20din%2028.01.2010.pdf",
+     "sha256": "12f1626a47c315fd77e22feba02ccd632e07f5a0e66592e57df2337104b0aa4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-23-2010",
+   "path": "local/arges/campulung/2010/23",
+   "short": "HCL Câmpulung nr. 23/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 23/2010 PRIVIND APROBAREA STUDIULUI ȘTIINȚIFIC PRIVIND “ STRATEGIA DE DEZVOLTARE A MUNICIPIULUI CÂMPULUNG ÎN CONTEXT EUROPEAN” Hotărâre PRIVIND APROBAREA STUDIULUI ȘTIINȚIFIC PRIVIND “ STRATEGIA DE DEZVOLTARE A MUNICIPIULUI CÂMPULUNG ÎN CONTEXT EUROPEAN”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-02-25",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2023%20din%2025.02.2010.pdf",
+     "sha256": "bf92a49421c82258598fa9a79e406839e9dbf05313c684408f7f6516b1554ffd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-25-2010",
+   "path": "local/arges/campulung/2010/25",
+   "short": "HCL Câmpulung nr. 25/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 25/2010 PRIVIND ÎNCHIRIEREA DIRECTĂ DE TERENURI APARȚINÂND DOMENIULUI PUBLIC AL MUNICIPIULUI CÂMPULUNG Hotărâre PRIVIND ÎNCHIRIEREA DIRECTĂ DE TERENURI APARȚINÂND DOMENIULUI PUBLIC AL MUNICIPIULUI CÂMPULUNG",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-02-25",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2025%20din%2025.02.2010.pdf",
+     "sha256": "44bb6384eaa17383aa7bf4aad8259f6df56542c9a4603180f7c43416fd05a06a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-26-2010",
+   "path": "local/arges/campulung/2010/26",
+   "short": "HCL Câmpulung nr. 26/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 26/2010 privind transmiterea în folosinţă gratuită către Direcţia de Sănătate Publică Argeş a unui spatiu din Ambulatoriul Spitalului Municipal Câmpulung Hotărâre privind transmiterea în folosinţă gratuită către Direcţia de Sănătate Publică Argeş a unui spatiu din Ambulatoriul Spitalului Municipal Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-02-25",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2026%20din%2025.02.2010.pdf",
+     "sha256": "87d6d10bc980422513f5b12fd694a77c788f7f346e98bb90e0f7a3e5cfdecc1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-27-2010",
+   "path": "local/arges/campulung/2010/27",
+   "short": "HCL Câmpulung nr. 27/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 27/2010 privind asocierea cu Asociaţia Utilizatorilor Păşunilor Comunale din localitatea Schitu-Goleşti Hotărâre privind asocierea cu Asociaţia Utilizatorilor Păşunilor Comunale din localitatea Schitu-Goleşti",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-02-25",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2027%20din%2025.02.2010.pdf",
+     "sha256": "7720f8e56fefd2ba380a6c425f8824b036879bfdde9b58642c47de316ae163d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-28-2010",
+   "path": "local/arges/campulung/2010/28",
+   "short": "HCL Câmpulung nr. 28/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 28/2010 privind aprobarea organigramei şi statului de funcţii ale Serviciului Public de Administrarea Domeniului Public şi Privat Hotărâre privind aprobarea organigramei şi statului de funcţii ale Serviciului Public de Administrarea Domeniului Public şi Privat",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-02-25",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2028%20din%2025.02.2010.pdf",
+     "sha256": "0f8e8268016cbaf4a046a969d3073a138dd3f0dd5ea8ba8b0bbd33a8d7283f7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-29-2010",
+   "path": "local/arges/campulung/2010/29",
+   "short": "HCL Câmpulung nr. 29/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 29/2010 privind aprobarea bugetului local al Municipiului Câmpulung pe anul 2010 Hotărâre privind aprobarea bugetului local al Municipiului Câmpulung pe anul 2010",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-03-10",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2029%20din%2010.03.2010.pdf",
+     "sha256": "b98632dc2b1f06534a90d4776889357b1ab3028d1927b52bc1509dfb0f68de0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-30-2010",
+   "path": "local/arges/campulung/2010/30",
+   "short": "HCL Câmpulung nr. 30/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 30/2010 privind organigrama, statul de funcţii şi Planul cuprinzând principalele manifestări cultural-ştiinţifice organizate în anul 2010 de către Muzeul Municipal Câmpulung Hotărâre privind organigrama, statul de funcţii şi Planul cuprinzând principalele manifestări cultural-ştiinţifice organizate în anul 2010 de către Muzeul Municipal Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2030%20din%2031.03.2010.pdf",
+     "sha256": "e859fb56825606b675b084bd65cb14a60722da8a15fb65744ddf9f3ea81ce94c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-31-2010",
+   "path": "local/arges/campulung/2010/31",
+   "short": "HCL Câmpulung nr. 31/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 31/2010 privind organigrama, statul de funcţii, Agenda Principalelor Manifestări Culturale pe anul 2010 ale Bibliotecii Municipale „Ion Barbu” Câmpulung şi Raportul privind activitatea desfăşurată de Biblioteca Municipală „Ion Barbu” în anul 2009 Hotărâre privind organigrama, statul de funcţii, Agenda Principalelor Manifestări Culturale pe anul 2010 ale Bibliotecii Municipale „Ion Barbu” Câmpulung şi Rapo",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2031%20din%2031.03.2010.pdf",
+     "sha256": "f6cc7ae3cb53f380eb7c507fd5116beb18edbc732d3eff99ef6c1499183dee4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-32-2010",
+   "path": "local/arges/campulung/2010/32",
+   "short": "HCL Câmpulung nr. 32/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 32/2010",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2032%20din%2031.03.2010.pdf",
+     "sha256": "6eed68b3d707deecdfa2f38e68d81780454ac19e819fa3a4587a7b6f944e458f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-33-2010",
+   "path": "local/arges/campulung/2010/33",
+   "short": "HCL Câmpulung nr. 33/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 33/2010 privind organigrama şi statul de funcţii ale Serviciului Public Administraţia Pieţelor pe anul 2010 Hotărâre privind organigrama şi statul de funcţii ale Serviciului Public Administraţia Pieţelor pe anul 2010",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2033%20din%2031.03.2010.pdf",
+     "sha256": "aab16e647e94417f9b6ae022bc512b99852676014101c6f23a809beeeeff702b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-34-2010",
+   "path": "local/arges/campulung/2010/34",
+   "short": "HCL Câmpulung nr. 34/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 34/2010 privind rectificarea bugetului local Hotărâre privind rectificarea bugetului local",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2034%20din%2031.03.2010.pdf",
+     "sha256": "85be52c4b2555dd960c5d19ac3d72b8552b534c12b0e93e854f983b02059ed07"
     }
    ]
   },
@@ -33,6 +1143,96 @@
    ]
   },
   {
+   "slug": "hcl-arges--campulung-37-2010",
+   "path": "local/arges/campulung/2010/37",
+   "short": "HCL Câmpulung nr. 37/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 37/2010",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2037%20din%2031.03.2010.pdf",
+     "sha256": "7b0f48b7adf0a8c48166b307c9e906d3080782ca82e04695921c8e434145aa07"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-38-2010",
+   "path": "local/arges/campulung/2010/38",
+   "short": "HCL Câmpulung nr. 38/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 38/2010",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2038%20din%2031.03.2010.pdf",
+     "sha256": "44984458421c70bf6fbd0ab45f11064448504bd1e01b7b7bdf26fcc5a02dd748"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-4-2010",
+   "path": "local/arges/campulung/2010/4",
+   "short": "HCL Câmpulung nr. 4/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 4/2010 privind transferul din gestiunea Muzeului Municipal Câmpulung în gestiunea Primăriei Municipiului Câmpulung a unor hărţi turistice Hotărâre privind transferul din gestiunea Muzeului Municipal Câmpulung în gestiunea Primăriei Municipiului Câmpulung a unor hărţi turistice",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%204%20din%2028.01.2010.pdf",
+     "sha256": "68e1d86329df79777da113f3a96566879898ed00a00cff3693db0cd96937e04d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-40-2010",
+   "path": "local/arges/campulung/2010/40",
+   "short": "HCL Câmpulung nr. 40/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 40/2010 privind participarea Municipiului Câmpulung prin cofinanţare în vederea amenajării unui teren de volei Hotărâre privind participarea Municipiului Câmpulung prin cofinanţare în vederea amenajării unui teren de volei",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2040%20din%2031.03.2010.pdf",
+     "sha256": "60b624de9ca817377b4b7ace2802fa9336e44e3e5539fccababa89b8c8cf629b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-41-2010",
+   "path": "local/arges/campulung/2010/41",
+   "short": "HCL Câmpulung nr. 41/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 41/2010 privind participarea Municipiului Câmpulung prin cofinanţare în vederea amenajării unui loc de joacă în incinta Grădiniţei nr.1 Hotărâre privind participarea Municipiului Câmpulung prin cofinanţare în vederea amenajării unui loc de joacă în incinta Grădiniţei nr.1",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2041%20din%2031.03.2010.pdf",
+     "sha256": "f5909ea63f5c855d86f6e92d33eb9e7bfbb96ec825f6c7dc39ffb452aeaea579"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-44-2010",
+   "path": "local/arges/campulung/2010/44",
+   "short": "HCL Câmpulung nr. 44/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 44/2010 privind scoaterea din domeniul privat a unei suprafeţe de teren Hotărâre privind scoaterea din domeniul privat a unei suprafeţe de teren",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2044%20din%2031.03.2010.pdf",
+     "sha256": "259b911b6df0f9a9f92a43b264fff0611831d3747839567329e3b4830a913eba"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--campulung-45-2010",
    "path": "local/arges/campulung/2010/45",
    "short": "HCL Câmpulung nr. 45/2010",
@@ -48,6 +1248,231 @@
    ]
   },
   {
+   "slug": "hcl-arges--campulung-46-2010",
+   "path": "local/arges/campulung/2010/46",
+   "short": "HCL Câmpulung nr. 46/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 46/2010 privind Programul de lucru pe anul 2010 al S.P.A.D.P.P",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2046%20din%2031.03.2010.pdf",
+     "sha256": "9e5f3a141e03ef95b4bf3b03c83de9ae66b13874fec4bed767f35712628d9f36"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-47-2010",
+   "path": "local/arges/campulung/2010/47",
+   "short": "HCL Câmpulung nr. 47/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 47/2010 privind asocierea dintre Judeţul Argeş prin",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-04-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2047%20din%2029.04.2010.pdf",
+     "sha256": "c9a85be8d8ef3112d943de2d34601c9134e7fdd5936483849179d8492f63aeea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-48-2010",
+   "path": "local/arges/campulung/2010/48",
+   "short": "HCL Câmpulung nr. 48/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 48/2010 privind Studiul de fezabilitate, contribuţia proprie necesară, cererea de finananţare în vederea realizării obiectivului de investiţie „Producerea energiei termice pentru consumul propriu al Spitalului Municipal Câmpulung utilizând resurse regenerabile de energie” Hotărâre privind Studiul de fezabilitate, contribuţia proprie necesară, cererea de finananţare în vederea realizării obiectivului de in",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-04-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2048%20din%2029.04.2010.pdf",
+     "sha256": "a57e744f600cb47c526ad7ca38685075cb748ab7ff0b82115bf33b6c34154357"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-49-2010",
+   "path": "local/arges/campulung/2010/49",
+   "short": "HCL Câmpulung nr. 49/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 49/2010 privind contul de încheiere al execuţiei bugetare pe anul 2009 Hotărâre privind contul de încheiere al execuţiei bugetare pe anul 2009",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-04-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2049%20din%2029.04.2010.pdf",
+     "sha256": "62f2cf9d30812be6d1eed25208ed5e3f7b8d1e2c2411e1b363de040f822b7e70"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-5-2010",
+   "path": "local/arges/campulung/2010/5",
+   "short": "HCL Câmpulung nr. 5/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 5/2010 privind stabilirea de preţuri la Muzeul Municipal Câmpulung Hotărâre privind stabilirea de preţuri la Muzeul Municipal Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%205%20din%2028.01.2010.pdf",
+     "sha256": "4f1b4afb81f08199cec97993f71fcfb9dffa54cbb02b127f143a5b4a2d3d11aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-55-2010",
+   "path": "local/arges/campulung/2010/55",
+   "short": "HCL Câmpulung nr. 55/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 55/2010",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-04-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2055%20din%2029.04.2010.pdf",
+     "sha256": "90c3fbf8ffcb3cc9ad958ec1e984b872aee1e55d6056ab982927b27288bfb1e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-56-2010",
+   "path": "local/arges/campulung/2010/56",
+   "short": "HCL Câmpulung nr. 56/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 56/2010",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-04-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2056%20din%2029.04.2010.pdf",
+     "sha256": "0c5682e7e89e490aa3f599c1cdabea167f125375c6c29b50c41bcfe2708c506e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-57-2010",
+   "path": "local/arges/campulung/2010/57",
+   "short": "HCL Câmpulung nr. 57/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 57/2010 privind închirierea prin licitaţie publică a unor suprafeţe de teren situate în incinta Spitalului Municipal Câmpulung Hotărâre privind închirierea prin licitaţie publică a unor suprafeţe de teren situate în incinta Spitalului Municipal Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-04-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2057%20din%2029.04.2010.pdf",
+     "sha256": "5770ef51bdf20ec59bcf73feb4672982f2ada3e020a5f8a1db2de324faf1c3d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-58-2010",
+   "path": "local/arges/campulung/2010/58",
+   "short": "HCL Câmpulung nr. 58/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 58/2010 privind încheierea contractelor de închiriere având ca obiect balcoanele construite în extensie Hotărâre privind încheierea contractelor de închiriere având ca obiect balcoanele construite în extensie",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-04-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2058%20din%2029.04.2010.pdf",
+     "sha256": "8d1a00404bc8b2b33e2d3eac30f04cb434ea1d315c29613b6eb563f5ccc144a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-59-2010",
+   "path": "local/arges/campulung/2010/59",
+   "short": "HCL Câmpulung nr. 59/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 59/2010 privind aprobare PUD pentru terenul situat în str",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-04-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2059%20din%2029.04.2010.pdf",
+     "sha256": "65c3453108170774929c26fd2069ba1d39a2b11076918995463ef9d65b1c21e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-60-2010",
+   "path": "local/arges/campulung/2010/60",
+   "short": "HCL Câmpulung nr. 60/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 60/2010 Privind asocierea dintre Uniunea Scriitorilor din România – Filiala Pitești și Municipiul Câmpulung, în vederea realizării proiectului „Colocviul Național Generația 80 la Maturitate ”, ediția I",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-04-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2060%20din%2029.04.2010.pdf",
+     "sha256": "a83be8058e80023c981067f6c1a5be60e7444cf4d7c6d3a9c95da3465ca6a0d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-61-2010",
+   "path": "local/arges/campulung/2010/61",
+   "short": "HCL Câmpulung nr. 61/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 61/2010 privind aprobarea deplasării delegaţiei Municipiului Câmpulung în Municipiul Negotino, Macedonia, la evenimentul „Sărbătorirea Zilei Europei la Negotino” Hotărâre privind aprobarea deplasării delegaţiei Municipiului Câmpulung în Municipiul Negotino, Macedonia, la evenimentul „Sărbătorirea Zilei Europei la Negotino”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-04-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2061%20din%2029.04.2010.pdf",
+     "sha256": "e1eb6e0d5ae2a2aed588e69dc3b9082cfa2306588ceb6015b047cea9785feba4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-62-2010",
+   "path": "local/arges/campulung/2010/62",
+   "short": "HCL Câmpulung nr. 62/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 62/2010",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2062%20din%2027.05.2010.pdf",
+     "sha256": "9611436c1219a763ddd04d811e07f840b1f5011811aa6da23473612c5cd708cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-63-2010",
+   "path": "local/arges/campulung/2010/63",
+   "short": "HCL Câmpulung nr. 63/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 63/2010",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2063%20din%2027.05.2010.pdf",
+     "sha256": "3a9c7a4307a49a2053a6aa74a6fda01bedf7eb564b13f34e481782445188a379"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-65-2010",
+   "path": "local/arges/campulung/2010/65",
+   "short": "HCL Câmpulung nr. 65/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 65/2010 privind nivelul minim al redevenţei lunare pentru spaţiile cu destinaţia de cabinete medicale Hotărâre privind nivelul minim al redevenţei lunare pentru spaţiile cu destinaţia de cabinete medicale",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2065%20din%2027.05.2010.pdf",
+     "sha256": "b167ec1f927b7601c9ba00faa10240fa8531f72f26fbb796bad8aeaf7a202339"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--campulung-67-2010",
    "path": "local/arges/campulung/2010/67",
    "short": "HCL Câmpulung nr. 67/2010",
@@ -59,6 +1484,366 @@
      "units": 1,
      "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2067%20din%2027.05.2010.pdf",
      "sha256": "7b9332a353eea158426e39f4a7ba453491bc339bacfef10ad9079e2f99ff5c69"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-68-2010",
+   "path": "local/arges/campulung/2010/68",
+   "short": "HCL Câmpulung nr. 68/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 68/2010 privind scoaterea din domeniul public a unei suprafeţe de teren Hotărâre privind scoaterea din domeniul public a unei suprafeţe de teren",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2068%20din%2027.05.2010.pdf",
+     "sha256": "c77a92cf512dfcb1cd750f811e4559febb815ed5f39fa8386c945e7c2d7d43b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-69-2010",
+   "path": "local/arges/campulung/2010/69",
+   "short": "HCL Câmpulung nr. 69/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 69/2010",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2069%20din%2027.05.2010.pdf",
+     "sha256": "422db965ab663a8ca030da0bb00c110113a659dff91aaa730ad210959fb21298"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-70-2010",
+   "path": "local/arges/campulung/2010/70",
+   "short": "HCL Câmpulung nr. 70/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 70/2010 privind deplasarea delegaţiei Municipiului Câmpulung în municipiul Popovo, Bulgaria, la evenimentul „Festivalul Oraşelor înfrăţite şi prietene” Hotărâre privind deplasarea delegaţiei Municipiului Câmpulung în municipiul Popovo, Bulgaria, la evenimentul „Festivalul Oraşelor înfrăţite şi prietene”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2070%20din%2027.05.2010.pdf",
+     "sha256": "8a8ad515a1c97599e278902dbc61493b55db523aa4da2b8072184a0489e13041"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-71-2010",
+   "path": "local/arges/campulung/2010/71",
+   "short": "HCL Câmpulung nr. 71/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 71/2010 privind Proiectul „ Câmpulung Muscel – prima capitală a Țării Românești – reședință de scaun a lui Basarab I ” Consiliul Local al Municipiului Câmpulung întrunit în ședință ordinară în data de 27 05 2010; Luând în discuție raportul primarului înregistrat sub nr.12687/26 05 2010 prin care se propune spre aprobare Proiectul „ Câmpulung Muscel – prima capitală a Țării Românești – reședință de scaun a",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2071%20din%2027.05.2010.pdf",
+     "sha256": "59719f8e0ec5a60f7027f34c77241f3260a89e42f38d38151aabbad56a9f0073"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-72-2010",
+   "path": "local/arges/campulung/2010/72",
+   "short": "HCL Câmpulung nr. 72/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 72/2010 privind asocierea dintre Municipiul Câmpulung şi Asociaţia Club Sportiv Hatters Motor Sport Hotărâre privind asocierea dintre Municipiul Câmpulung şi Asociaţia Club Sportiv Hatters Motor Sport",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-06-14",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2072%20din%2014.06.2010.pdf",
+     "sha256": "85090c36d7d7ac13c01125f4f95be948b5dca0711b8f74b455780dbcd0c6b1cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-73-2010",
+   "path": "local/arges/campulung/2010/73",
+   "short": "HCL Câmpulung nr. 73/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 73/2010 privind Studiul de fezabilitate și indicatorii tehnico-economici pentru proiectul „ Reabilitare Piața Centrală Câmpulung Muscel, județul Argeș” Consiliul Local al Municipiului Câmpulung întrunit în ședință extraordinară în data de 14 06 2010; Luând în discuție raportul directorului Serviciului Public Administrația Piețelor înregistrat sub nr.238/10 06 2010 prin care se propune spre aprobare Studiu",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-06-14",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2073%20din%2014.06.2010.pdf",
+     "sha256": "b743ea44a06a8986f145ca34fabfc230e2a03255a0a5320a0ed822fc5d39c3cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-75-2010",
+   "path": "local/arges/campulung/2010/75",
+   "short": "HCL Câmpulung nr. 75/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 75/2010 privind aprobarea Organigramei şi statului functiilor publice şi contractuale ale aparatului de specialitate al Primarului Municipiului Câmpulung şi serviciilor fără personalitate juridică ale Consiliului Local Câmpulung pe anul 2010 Hotărâre privind aprobarea Organigramei şi statului functiilor publice şi contractuale ale aparatului de specialitate al Primarului Municipiului Câmpulung şi servicii",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2075%20din%2030.06.2010.pdf",
+     "sha256": "c4b91b9c074a3347649311d67c571eb8ff0827a10b715d3c88e32cb3762fcc5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-76-2010",
+   "path": "local/arges/campulung/2010/76",
+   "short": "HCL Câmpulung nr. 76/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 76/2010 privind repartizarea unei locuinţe sociale Hotărâre privind repartizarea unei locuinţe sociale",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2076%20din%2030.06.2010.pdf",
+     "sha256": "1630a4714fef3ba803203c5a73cd28d37c6faeeff4ebd29777803b7177c7e023"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-78-2010",
+   "path": "local/arges/campulung/2010/78",
+   "short": "HCL Câmpulung nr. 78/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 78/2010 privind darea în folosinţă gratuită către Asociaţia Muscel pentru Educaţie şi Cultură a spaţiului situat în incinta Centrului de Afaceri Hotărâre privind darea în folosinţă gratuită către Asociaţia Muscel pentru Educaţie şi Cultură a spaţiului situat în incinta Centrului de Afaceri",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2078%20din%2030.06.2010.pdf",
+     "sha256": "5ad5cc5eae3c9ffda22bba048ff289fc92fd8f71142bd1c35c23ff31a314d033"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-79-2010",
+   "path": "local/arges/campulung/2010/79",
+   "short": "HCL Câmpulung nr. 79/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 79/2010 privind scoaterea imobilului „Spălătorie” din administrarea Colegiului Tehnic Câmpulung Hotărâre privind scoaterea imobilului „Spălătorie” din administrarea Colegiului Tehnic Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2079%20din%2030.06.2010.pdf",
+     "sha256": "8751b46d42aa918726bf2bc940c4f624ac455d93c0e33315139ae488e380114a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-80-2010",
+   "path": "local/arges/campulung/2010/80",
+   "short": "HCL Câmpulung nr. 80/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 80/2010 privind vânzarea prin licitaţie publică a Centralei Termice Pescăreasa Consiliul Local al Municipiului Câmpulung întrunit în şedinţă ordinară în data de 30 06 2010 Hotărâre privind vânzarea prin licitaţie publică a Centralei Termice Pescăreasa Consiliul Local al Municipiului Câmpulung întrunit în şedinţă ordinară în data de 30 06 2010",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2080%20din%2030.06.2010.pdf",
+     "sha256": "575764210a4d4a9eb35671ec9b6c81f27e63673cf709a2ec0a7628df68a8e96c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-81-2010",
+   "path": "local/arges/campulung/2010/81",
+   "short": "HCL Câmpulung nr. 81/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 81/2010 privind vânzarea prin licitaţie publică a unui spaţiu comercial Hotărâre privind vânzarea prin licitaţie publică a unui spaţiu comercial",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2081%20din%2030.06.2010.pdf",
+     "sha256": "b0be4445191d863feab7c74722daac66a7292d92b17e5fb42f9af27bfc5be0f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-82-2010",
+   "path": "local/arges/campulung/2010/82",
+   "short": "HCL Câmpulung nr. 82/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 82/2010 privind închirierea prin licitaţie publică a unui spaţiu comercial Hotărâre privind închirierea prin licitaţie publică a unui spaţiu comercial",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2082%20din%2030.06.2010.pdf",
+     "sha256": "04af1f46ecd0e105f3b45f4f6d16bc2a55302700f9fcbf45b07c4e5f6a0bfc21"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-84-2010",
+   "path": "local/arges/campulung/2010/84",
+   "short": "HCL Câmpulung nr. 84/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 84/2010 privind închirierea prin licitaţie publică a unui spaţiu situat în incinta Ambulatoriului de Specialitate Hotărâre privind închirierea prin licitaţie publică a unui spaţiu situat în incinta Ambulatoriului de Specialitate",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2084%20din%2030.06.2010.pdf",
+     "sha256": "f35fd624ee47671900ff1fabbbe312f5dd2cf9b7b26ccf318c20de2705dc8696"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-85-2010",
+   "path": "local/arges/campulung/2010/85",
+   "short": "HCL Câmpulung nr. 85/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 85/2010 privind închirierea unui spaţiu pentru sediul Partidului Uniunea Naţională pentru Progresul României Hotărâre privind închirierea unui spaţiu pentru sediul Partidului Uniunea Naţională pentru Progresul României",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2085%20din%2030.06.2010.pdf",
+     "sha256": "55ffb75a160e6640130b65b3c41a15238279a9b68958054a29224cf037fad2f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-87-2010",
+   "path": "local/arges/campulung/2010/87",
+   "short": "HCL Câmpulung nr. 87/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 87/2010",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2087%20din%2030.06.2010.pdf",
+     "sha256": "6fdce53df675832e6e29ca12a8a9903481eee3d2ed92dc099961ac3e4b8da750"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-90-2010",
+   "path": "local/arges/campulung/2010/90",
+   "short": "HCL Câmpulung nr. 90/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 90/2010 privind preluarea managementului asistenţei medicale al Spitalului Municipal Câmpulung Hotărâre privind preluarea managementului asistenţei medicale al Spitalului Municipal Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-07-12",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2090%20din%2012.07.2010.pdf",
+     "sha256": "d3fa0decf9c032105fdcb17c3237cf9750d5583ed32b1f34724907d69b1cbeb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-91-2010",
+   "path": "local/arges/campulung/2010/91",
+   "short": "HCL Câmpulung nr. 91/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 91/2010 privind rectificarea bugetului local Hotărâre privind rectificarea bugetului local",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2091%20din%2029.07.2010.pdf",
+     "sha256": "a880ffcde14f4dcc9853948dbe934d33f42ec010576947027d2d4e8aaba0474e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-93-2010",
+   "path": "local/arges/campulung/2010/93",
+   "short": "HCL Câmpulung nr. 93/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 93/2010 privind scoaterea imobilului „Cămin nr.1” din administrarea Colegiului Tehnic Câmpulung şi încheiere contract comodat Hotărâre privind scoaterea imobilului „Cămin nr.1” din administrarea Colegiului Tehnic Câmpulung şi încheiere contract comodat",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2093%20din%2029.07.2010.pdf",
+     "sha256": "fa2864cbb151d7c7d5f34fa750d93139b722a2e2c6abf4e1ca6be7a8082b40a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-94-2010",
+   "path": "local/arges/campulung/2010/94",
+   "short": "HCL Câmpulung nr. 94/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 94/2010 privind acceptarea unei donaţii din partea S.C.Kaufland Hotărâre privind acceptarea unei donaţii din partea S.C.Kaufland",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2094%20din%2029.07.2010.pdf",
+     "sha256": "2f94fe54caca6310f09ef43af36fc7e22d6c81769a73cca4828fd8a0a3a15240"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-95-2010",
+   "path": "local/arges/campulung/2010/95",
+   "short": "HCL Câmpulung nr. 95/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 95/2010 privind aprobarea Programului de gestionare a calităţii aerului Hotărâre privind aprobarea Programului de gestionare a calităţii aerului",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2095%20din%2029.07.2010.pdf",
+     "sha256": "7eda02d9d10e6c607e89ce4e48c31128cae3b588955df4e1b31733bc0a4f7603"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-97-2010",
+   "path": "local/arges/campulung/2010/97",
+   "short": "HCL Câmpulung nr. 97/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 97/2010 privind rectificarea bugetului local Hotărâre privind rectificarea bugetului local",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-08-05",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2097%20din%2005.08.2010.pdf",
+     "sha256": "9c80e61ac629d90a942ce94763062c4419c69ca32cc143ae97662cddb26134c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-98-2010",
+   "path": "local/arges/campulung/2010/98",
+   "short": "HCL Câmpulung nr. 98/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 98/2010",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-08-05",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2098%20din%2005.08.2010.pdf",
+     "sha256": "cec51afcaa0873f70d44396ed524f9fdfba0163e34f3fcd5e22c9d967e4e9499"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-99-2010",
+   "path": "local/arges/campulung/2010/99",
+   "short": "HCL Câmpulung nr. 99/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 99/2010 privind aprobarea Organigramei şi statului functiilor publice şi contractuale ale aparatului de specialitate al primarului Municipiului Câmpulung, a instituţiilor şi serviciilor publice ale Consiliului Local Câmpulung pe anul 2010 Hotărâre privind aprobarea Organigramei şi statului functiilor publice şi contractuale ale aparatului de specialitate al primarului Municipiului Câmpulung, a instituţiil",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-08-05",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2099%20din%2005.08.2010.pdf",
+     "sha256": "4fb14ec49e804fb6bc7d80276d78c40d605d1b0f1827a4776219abb3c669decb"
     }
    ]
   }
