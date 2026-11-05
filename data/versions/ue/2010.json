@@ -483,6 +483,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-1001-2010",
+   "path": "ue/regulament/2010/1001",
+   "short": "Regulamentul (UE) nr. 1001/2010",
+   "title": "Regulamentul (UE) nr. 1001/2010 din 5 noiembrie 2010",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1001",
+   "versions": [
+    {
+     "from": "2010-11-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/faafcda9-a5b1-4976-bde8-7fc3e7d857cf.0004.02/DOC_1",
+     "sha256": "db096f2b173d06cc6e698825e0640c4dddaa400044dfa7d2553e13f439523ed1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1004-2010",
+   "path": "ue/regulament/2010/1004",
+   "short": "Regulamentul (UE) nr. 1004/2010",
+   "title": "Regulamentul (UE) nr. 1004/2010 al Comisiei din 8 noiembrie 2010 privind operarea de deduceri din anumite cote de pescuit pentru 2010 din cauza depășirii cotelor de pescuit în anul precedent",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1004",
+   "versions": [
+    {
+     "from": "2010-11-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d8fb0f98-be7d-45ae-b637-0c3de0fab6f6.0003.02/DOC_1",
+     "sha256": "a8cd5b47fd2c71b90de52e2c4a385987bc98d2baf5b8ebbc75a6ec29c255df3c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1021-2010",
+   "path": "ue/regulament/2010/1021",
+   "short": "Regulamentul (UE) nr. 1021/2010",
+   "title": "Regulamentul (UE) nr. 1021/2010 al Comisiei din 12 noiembrie 2010 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Peperone di Pontecorvo (DOP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1021",
+   "versions": [
+    {
+     "from": "2010-12-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2f2a8049-ec19-4e8d-8f83-3edfb8edcdcc.0004.03/DOC_1",
+     "sha256": "c27f981fe79b8af97e75c10d569ff8f25130b2adca530b477dd430482029667a"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1022-2010",
    "path": "ue/regulament/2010/1022",
    "short": "Regulamentul (UE) nr. 1022/2010",
@@ -494,6 +539,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/680efd55-ad81-4ffa-b03e-681a3eb7dc16.0003.02/DOC_1",
      "sha256": "aa5ecf6004764f381fabd2a9bb2be4be178d66d2deaf1f000bac3b1b14cd3ab6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1023-2010",
+   "path": "ue/regulament/2010/1023",
+   "short": "Regulamentul (UE) nr. 1023/2010",
+   "title": "Regulamentul (UE) nr. 1023/2010 al Comisiei din 12 noiembrie 2010 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Jambon de l’Ardèche (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1023",
+   "versions": [
+    {
+     "from": "2010-12-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5112793c-d3db-4417-9b93-79376d88b1c3.0019.02/DOC_1",
+     "sha256": "3f3804e093f23e6fc7fe586d025fd527537d4cce421e288911651b52929896a5"
     }
    ]
   },
@@ -513,6 +573,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1027-2010",
+   "path": "ue/regulament/2010/1027",
+   "short": "Regulamentul (UE) nr. 1027/2010",
+   "title": "Regulamentul (UE) nr. 1027/2010 din 11 noiembrie 2010",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1027",
+   "versions": [
+    {
+     "from": "2010-11-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a28899b6-f52c-4e48-af62-ff0627103d9f.0015.02/DOC_1",
+     "sha256": "4ae4903facc676e6c0392397fe05ff256706c2f16059d03bd5635c3317301bd3"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1035-2010",
    "path": "ue/regulament/2010/1035",
    "short": "Regulamentul (UE) nr. 1035/2010",
@@ -524,6 +599,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/b42906b1-cc5b-4583-8a88-68b4f110d104.0020.02/DOC_1",
      "sha256": "5974e28fc4930b7fa8c9e77f9f71d3ddf93d6cf1975c9fdeb248bd74d906e71f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1036-2010",
+   "path": "ue/regulament/2010/1036",
+   "short": "Regulamentul (UE) nr. 1036/2010",
+   "title": "Regulamentul (UE) nr. 1036/2010 al Comisiei din 15 noiembrie 2010 de instituire a unei taxe antidumping provizorii privind importurile de pudră de zeolit A originară din Bosnia și Herțegovina",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1036",
+   "versions": [
+    {
+     "from": "2010-11-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/98665495-2b63-4520-9108-5c7231f1765e.0021.02/DOC_1",
+     "sha256": "6066aff65108814d7424de7e78814afd2eb2178e607a532bf826de7ff662b271"
     }
    ]
   },
@@ -543,6 +633,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1042-2010",
+   "path": "ue/regulament/2010/1042",
+   "short": "Regulamentul (UE) nr. 1042/2010",
+   "title": "Regulamentul (UE) nr. 1042/2010 al Comisiei din 16 noiembrie 2010 de instituire a unei taxe antidumping provizorii asupra importurilor de hârtie cretată de calitate superioară originară din Republica Populară Chineză",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1042",
+   "versions": [
+    {
+     "from": "2010-11-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/04bc520b-9aaa-498e-af92-21f56027e068.0016.03/DOC_1",
+     "sha256": "1ed9cbb9f13c5ce1a151b9b081ac7415107e94ca3a2a32754c38e971da059f89"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1054-2010",
    "path": "ue/regulament/2010/1054",
    "short": "Regulamentul (UE) nr. 1054/2010",
@@ -558,6 +663,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1065-2010",
+   "path": "ue/regulament/2010/1065",
+   "short": "Regulamentul (UE) nr. 1065/2010",
+   "title": "Regulamentul (UE) nr. 1065/2010 al Comisiei din 19 noiembrie 2010 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1065",
+   "versions": [
+    {
+     "from": "2010-12-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3f2643db-4246-47da-b8c6-c713a4b5040e.0009.02/DOC_1",
+     "sha256": "0984b76a719437a3dd516011d11e809d673749af16bf02fa4bf3354d9e36e901"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1067-2010",
    "path": "ue/regulament/2010/1067",
    "short": "Regulamentul (UE) nr. 1067/2010",
@@ -569,6 +689,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/0fda9e97-6351-4182-b6cc-f33b6f6bd1fb.0003.02/DOC_1",
      "sha256": "4e7b053119429f629c80c24d02f83833f57af47807bc413ca648e7d0e29a6e01"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1071-2010",
+   "path": "ue/regulament/2010/1071",
+   "short": "Regulamentul (UE) nr. 1071/2010",
+   "title": "Regulamentul (UE) nr. 1071/2010 al Comisiei din 22 noiembrie 2010 de modificare a Regulamentului (CE) nr. 474/2006 de stabilire a listei comunitare a transportatorilor aerieni care fac obiectul unei interdicții de exploatare pe teritoriul Comunității Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1071",
+   "versions": [
+    {
+     "from": "2010-11-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cf2c09a4-cfa7-4a47-99a1-91fa27f7deb3.0007.02/DOC_1",
+     "sha256": "309e1ddc4f66b78946f630057805942f1d0a32120da38c86498c5ea85d9b14fe"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1076-2010",
+   "path": "ue/regulament/2010/1076",
+   "short": "Regulamentul (UE) nr. 1076/2010",
+   "title": "Regulamentul (UE) nr. 1076/2010 al Comisiei din 22 noiembrie 2010 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1076",
+   "versions": [
+    {
+     "from": "2010-12-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ca2b1735-1b2c-43fd-b5ab-e234ab50ab08.0015.02/DOC_1",
+     "sha256": "e7a9be9f968a34908071b5cb5246e3da550846b9e06affae56c93cae46793792"
     }
    ]
   },
@@ -599,6 +749,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/74c35e4f-68c3-4543-94b7-1385bce39c23.0006.02/DOC_1",
      "sha256": "bbd0662b1c2aa7c92d085d7d45b067dca26d5786183fc141792b0af6e5376c5e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1089-2010",
+   "path": "ue/regulament/2010/1089",
+   "short": "Regulamentul (UE) nr. 1089/2010",
+   "title": "Regulamentul (UE) nr. 1089/2010 al Comisiei din 23 noiembrie 2010 de punere în aplicare a Directivei 2007/2/CE a Parlamentului European și a Consiliului în ceea ce privește interoperabilitatea seturilor și serviciilor de date spațiale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1089",
+   "versions": [
+    {
+     "from": "2010-12-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6c9b0d4b-831f-47fe-b551-ac13604d9797.0022.02/DOC_1",
+     "sha256": "b729df99f7c9ff37240b32af7d7e7b08211ab94cfd0a1da97ceb8055d5d7f1fb"
     }
    ]
   },
@@ -648,6 +813,66 @@
    ]
   },
   {
+   "slug": "ue-regulament-1094-2010",
+   "path": "ue/regulament/2010/1094",
+   "short": "Regulamentul (UE) nr. 1094/2010",
+   "title": "Regulamentul (UE) nr. 1094/2010 al Parlamentului European și al Consiliului din 24 noiembrie 2010 de instituire a Autorității europene de supraveghere (Autoritatea europeană de asigurări și pensii ocupaționale) de modificare a Deciziei nr. 716/2009/CE și de abrogare a Deciziei 2009/79/CE a Comisiei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1094",
+   "versions": [
+    {
+     "from": "2010-12-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4bd6de5a-ce58-4243-a5ad-bdd19d7cd556.0020.02/DOC_1",
+     "sha256": "a2b8feaadd9b1f8389ae7b49d46cca10eaf9bdb49f0c0f7bc7c35d421c7fb496"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1095-2010",
+   "path": "ue/regulament/2010/1095",
+   "short": "Regulamentul (UE) nr. 1095/2010",
+   "title": "Regulamentul (UE) nr. 1095/2010 al Parlamentului European și al Consiliului din 24 noiembrie 2010 de instituire a Autorității europene de supraveghere (Autoritatea europeană pentru valori mobiliare și piețe), de modificare a Deciziei nr. 716/2009/CE și de abrogare a Deciziei 2009/77/CE a Comisiei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1095",
+   "versions": [
+    {
+     "from": "2010-12-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d6206116-a910-4ffa-b6cd-f14b1b503568.0003.02/DOC_1",
+     "sha256": "d50c271e0e1bc63aeb12d25e637fe90074fd62fdaea8a698f0bf4c99cdec47e8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1096-2010",
+   "path": "ue/regulament/2010/1096",
+   "short": "Regulamentul (UE) nr. 1096/2010",
+   "title": "Regulamentul (UE) nr. 1096/2010 al Consiliului din 17 noiembrie 2010 privind acordarea unor competențe specifice Băncii Centrale Europene referitoare la funcționarea Comitetului european pentru risc sistemic",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1096",
+   "versions": [
+    {
+     "from": "2010-12-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0c8980e2-7964-40e5-98ab-06ea33e6e950.0008.02/DOC_1",
+     "sha256": "08c409aaec34850b31a06891b8bb509cd5c3ed145ad06fd0fd90cf8617a78f24"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1098-2010",
+   "path": "ue/regulament/2010/1098",
+   "short": "Regulamentul (UE) nr. 1098/2010",
+   "title": "Regulamentul (UE) nr. 1098/2010 al Comisiei din 26 noiembrie 2010 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Dresdner Christstollen/Dresdner Stollen/Dresdner Weihnachtsstollen (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1098",
+   "versions": [
+    {
+     "from": "2010-12-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/345e25f3-3ac1-469e-b1e1-c8d98d829c07.0007.02/DOC_1",
+     "sha256": "65b43cc8ca2d75c5728bc0f6171f12b75325bcb08cfb149351f74317687fe2ce"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-110-2010",
    "path": "ue/regulament/2010/110",
    "short": "Regulamentul (UE) nr. 110/2010",
@@ -659,6 +884,66 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/d4cd441c-7aeb-4d1f-b886-87fe8b0d4f9c.0019.02/DOC_1",
      "sha256": "08c221512fd40d5045a93e5f70e193b4fc2c58635031ae8aa2a29acb05d1735a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1103-2010",
+   "path": "ue/regulament/2010/1103",
+   "short": "Regulamentul (UE) nr. 1103/2010",
+   "title": "Regulamentul (UE) nr. 1103/2010 al Comisiei din 29 noiembrie 2010 de stabilire, în conformitate cu Directiva 2006/66/CE a Parlamentului European și a Consiliului, a normelor de etichetare privind capacitatea pentru bateriile și acumulatorii portabili secundari (reîncărcabili) și auto Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1103",
+   "versions": [
+    {
+     "from": "2010-11-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/da83e514-480a-43fb-b143-aead87470d06.0008.02/DOC_1",
+     "sha256": "e4b058d367565f0c7972f2db028012330a79a7c16c8defa5ceb1c4a13b0828ce"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1107-2010",
+   "path": "ue/regulament/2010/1107",
+   "short": "Regulamentul (UE) nr. 1107/2010",
+   "title": "Regulamentul (UE) nr. 1107/2010 al Comisiei din 30 noiembrie 2010 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Pimiento de Gernika sau Gernikako Piperra (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1107",
+   "versions": [
+    {
+     "from": "2010-12-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5b7765f5-b1af-4fd0-8991-e5fa5a700f79.0006.03/DOC_1",
+     "sha256": "bcbadda4695b25aa352ea6f3475dad5d790f47507a8e5f9309a9a5df35fe38f0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1108-2010",
+   "path": "ue/regulament/2010/1108",
+   "short": "Regulamentul (UE) nr. 1108/2010",
+   "title": "Regulamentul (UE) nr. 1108/2010 al Comisiei din 30 noiembrie 2010 de aprobare a unei modificări care nu este minoră din caietul de sarcini al unei denumiri înscrise în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Castagna del Monte Amiata (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1108",
+   "versions": [
+    {
+     "from": "2010-12-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/42f05ed0-0742-41d5-b51e-cd0ddfe2bbe2.0011.03/DOC_1",
+     "sha256": "c501a3e5d1e344c653e24007cd73ebf1554926d934d1f92474789a1c9524c6e8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1121-2010",
+   "path": "ue/regulament/2010/1121",
+   "short": "Regulamentul (UE) nr. 1121/2010",
+   "title": "Regulamentul (UE) nr. 1121/2010 al Comisiei din 2 decembrie 2010 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Edam Holland (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1121",
+   "versions": [
+    {
+     "from": "2010-12-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0967a7f6-c8b1-497d-9b45-3a0e43f714cb.0001.02/DOC_1",
+     "sha256": "b44a791478df554306776e249fbaff8749d6363013f323b7ee54269a461559ea"
     }
    ]
   },
@@ -693,6 +978,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1126-2010",
+   "path": "ue/regulament/2010/1126",
+   "short": "Regulamentul (UE) nr. 1126/2010",
+   "title": "Regulamentul (UE) nr. 1126/2010 al Comisiei din 3 decembrie 2010 de modificare a Regulamentului (CE) nr. 1547/2007 în ceea ce privește prelungirea perioadei de tranziție pentru excluderea Republicii Capului Verde de pe lista țărilor beneficiare ale regimului special în favoarea țărilor cel mai puțin dezvoltate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1126",
+   "versions": [
+    {
+     "from": "2010-12-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fffa56f0-cb2a-498d-8f15-05e2a5c21825.0003.03/DOC_1",
+     "sha256": "44747533e8b02be9ac50edb8e28fb5ec6bc2fd56959607b4a59abbad702f6db1"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1127-2010",
    "path": "ue/regulament/2010/1127",
    "short": "Regulamentul (UE) nr. 1127/2010",
@@ -719,6 +1019,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/6d036417-2e21-4024-babc-47fdd8f76d2c.0019.03/DOC_1",
      "sha256": "cea18563841c445271bcb3987c1ca259f8715e7d7280979295603ad57fd0ff2e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1138-2010",
+   "path": "ue/regulament/2010/1138",
+   "short": "Regulamentul (UE) nr. 1138/2010",
+   "title": "Regulamentul (UE) nr. 1138/2010 al Comisiei din 7 decembrie 2010 de modificare pentru a 140-a oară a Regulamentului (CE) nr. 881/2002 al Consiliului de instituire a unor măsuri restrictive specifice împotriva anumitor persoane și entități care au legătură cu Osama ben Laden, cu rețeaua Al-Qaida și cu talibanii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1138",
+   "versions": [
+    {
+     "from": "2010-12-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/77d8b8b1-811e-440b-a06b-f54664e1c633.0015.02/DOC_1",
+     "sha256": "8b46462f2cd593b7dd645a660b5027bf89a9827b29a23dd3deee6defde54ee66"
     }
    ]
   },
@@ -753,6 +1068,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-1141-2010",
+   "path": "ue/regulament/2010/1141",
+   "short": "Regulamentul (UE) nr. 1141/2010",
+   "title": "Regulamentul (UE) nr. 1141/2010 al Comisiei din 7 decembrie 2010 de stabilire a procedurii de reînnoire a includerii unui al doilea grup de substanțe active în anexa I la Directiva 91/414/CEE a Consiliului și de stabilire a listei substanțelor în cauză Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1141",
+   "versions": [
+    {
+     "from": "2010-12-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4f87fb5a-0b4b-46a6-86e0-3aef5f5963c7.0014.03/DOC_1",
+     "sha256": "cd0068c8414dc8d6f7c5f2546d8b71f0eeb2129128ed2455b793d00a572d15f2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-115-2010",
+   "path": "ue/regulament/2010/115",
+   "short": "Regulamentul (UE) nr. 115/2010",
+   "title": "Regulamentul (UE) nr. 115/2010 al Comisiei din 9 februarie 2010 de stabilire a condițiilor de utilizare a aluminei activate pentru eliminarea fluorurilor din apele minerale naturale și din apele de izvor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0115",
+   "versions": [
+    {
+     "from": "2010-03-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1d9e7829-30ae-431b-89ea-920fd876bce7.0019.02/DOC_1",
+     "sha256": "5b2c22cb12db5716703669c5b3340e6948486dc0b74d512da6a9414e25ab8ab4"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1151-2010",
    "path": "ue/regulament/2010/1151",
    "short": "Regulamentul (UE) nr. 1151/2010",
@@ -783,6 +1128,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-1155-2010",
+   "path": "ue/regulament/2010/1155",
+   "short": "Regulamentul (UE) nr. 1155/2010",
+   "title": "Regulamentul (UE) nr. 1155/2010 al Comisiei din 1 decembrie 2010 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1155",
+   "versions": [
+    {
+     "from": "2010-12-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0c9330d7-f222-4618-8f94-8dd572d4104b.0015.04/DOC_1",
+     "sha256": "c5d1962fbae78107f87d3d96d892ba3811218f19ec538b500ddc8a83b996340c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1157-2010",
+   "path": "ue/regulament/2010/1157",
+   "short": "Regulamentul (UE) nr. 1157/2010",
+   "title": "Regulamentul (UE) nr. 1157/2010 al Comisiei din 9 decembrie 2010 de punere în aplicare a Regulamentului (CE) nr. 1177/2003 al Parlamentului European și al Consiliului privind statisticile comunitare referitoare la venit și la condițiile de viață (EU-SILC) în ceea ce privește lista 2012 a variabilelor-țintă secundare referitoare la condițiile de locuit Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1157",
+   "versions": [
+    {
+     "from": "2010-12-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/da15f9eb-dbcf-460e-acf5-e553de68fe7d.0002.02/DOC_1",
+     "sha256": "0f67a7934c95c4a879e095e6e7da39e0a7afe2ea491c4fb5de78581e5e060827"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1159-2010",
+   "path": "ue/regulament/2010/1159",
+   "short": "Regulamentul (UE) nr. 1159/2010",
+   "title": "Regulamentul (UE) nr. 1159/2010 al Comisiei din 9 decembrie 2010 de stabilire a normelor privind gestionarea și distribuția de contingente pentru produse textile stabilite pentru anul 2011, în conformitate cu Regulamentul (CE) nr. 517/94 al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1159",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6adecf96-370d-4900-83e4-5cc0d392a476.0015.02/DOC_1",
+     "sha256": "aea2f05f53c32d4ea4c09d07b92f174134436b87654239aa4ddd35151a51b705"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-116-2010",
    "path": "ue/regulament/2010/116",
    "short": "Regulamentul (UE) nr. 116/2010",
@@ -794,6 +1184,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/a505779e-f608-42b1-bb45-06bfd239fdbb.0019.02/DOC_1",
      "sha256": "95a28530d50f6b5d7978a37774e1f8b7aecd0029b51990ec1b21ffda2712c91b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1161-2010",
+   "path": "ue/regulament/2010/1161",
+   "short": "Regulamentul (UE) nr. 1161/2010",
+   "title": "Regulamentul (UE) nr. 1161/2010 al Comisiei din 9 decembrie 2010 de refuzare a autorizării unei mențiuni de sănătate înscrise pe produsele alimentare, alta decât cele care se referă la reducerea riscului de îmbolnăvire și la dezvoltarea și sănătatea copiilor Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1161",
+   "versions": [
+    {
+     "from": "2010-12-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/73dd1d35-e4d9-49e5-8fd5-e4d6e0445309.0010.02/DOC_1",
+     "sha256": "688fbd2ee76f9d097b36745cc865c3a222a88cff33d78793212f9ef8ea792f43"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1162-2010",
+   "path": "ue/regulament/2010/1162",
+   "short": "Regulamentul (UE) nr. 1162/2010",
+   "title": "Regulamentul (UE) nr. 1162/2010 al Comisiei din 9 decembrie 2010 de refuzare a autorizării anumitor mențiuni de sănătate înscrise pe produsele alimentare, referitoare la reducerea riscului de îmbolnăvire și la dezvoltarea și sănătatea copiilor Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1162",
+   "versions": [
+    {
+     "from": "2010-12-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c6141547-abfb-4468-856a-bb20dab9e08a.0006.02/DOC_1",
+     "sha256": "3663b0842515e2aaf9d48d00e041c4e9c817eba1da96db24f5e420b8a9c1687a"
     }
    ]
   },
@@ -933,6 +1353,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-118-2010",
+   "path": "ue/regulament/2010/118",
+   "short": "Regulamentul (UE) nr. 118/2010",
+   "title": "Regulamentul (UE) nr. 118/2010 al Comisiei din 9 februarie 2010 de modificare a Regulamentului (CE) nr. 900/2008 de stabilire a metodelor de analiză și a altor dispoziții tehnice necesare pentru punerea în aplicare a regimului de import al anumitor mărfuri rezultate din prelucrarea produselor agricole",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0118",
+   "versions": [
+    {
+     "from": "2010-03-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/98b628cf-d18c-4fbd-97bf-b96be791ac52.0019.03/DOC_1",
+     "sha256": "3124c5e9ae6cbd14d5783d2b5ad98749c32e33dc85bcdc79a770dd35a3290e52"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-119-2010",
    "path": "ue/regulament/2010/119",
    "short": "Regulamentul (UE) nr. 119/2010",
@@ -948,6 +1383,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-1190-2010",
+   "path": "ue/regulament/2010/1190",
+   "short": "Regulamentul (UE, Euratom) nr. 1190/2010",
+   "title": "Regulamentul (UE, Euratom) nr. 1190/2010 al Consiliului din 13 decembrie 2010 de modificare a Regulamentului (UE, Euratom) nr. 1296/2009 de ajustare, începând cu 1 iulie 2009 , a remunerațiilor și pensiilor funcționarilor și ale celorlalți agenți ai Uniunii Europene, precum și a coeficienților corectori aferenți",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1190",
+   "versions": [
+    {
+     "from": "2010-12-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d86b681d-0d68-4e77-b835-f9f55dbb2908.0020.02/DOC_1",
+     "sha256": "320fe5543fead18725e33ec4957b9a2142cc290a7ae47fbe0787964e6c2af84b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1192-2010",
+   "path": "ue/regulament/2010/1192",
+   "short": "Regulamentul (UE) nr. 1192/2010",
+   "title": "Regulamentul (UE) nr. 1192/2010 al Comisiei din 16 decembrie 2010 de aprobare a unor modificări care nu sunt minore din caietul de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Ricotta Romana (DOP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1192",
+   "versions": [
+    {
+     "from": "2011-01-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fe6336a6-4884-4236-80fc-f2f90ead1ec8.0015.02/DOC_1",
+     "sha256": "d289e1b23cf325af2228e1caa680c79397a730eb3d21ad42b7c38691814a962f"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1193-2010",
    "path": "ue/regulament/2010/1193",
    "short": "Regulamentul (UE) nr. 1193/2010",
@@ -959,6 +1424,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/f1238d49-ef2a-48e9-8432-bd242d32f923.0009.02/DOC_1",
      "sha256": "78e4fffcddf1db88a276365696c468217e7881b67b297f17f5a3092a480586c2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1204-2010",
+   "path": "ue/regulament/2010/1204",
+   "short": "Regulamentul (UE) nr. 1204/2010",
+   "title": "Regulamentul (UE) nr. 1204/2010 din 16 decembrie 2010",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1204",
+   "versions": [
+    {
+     "from": "2010-12-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c546b7c9-e9cb-41d8-936c-580f1b511a4f.0015.02/DOC_1",
+     "sha256": "f1bd3c5d4278541d2ead355a02f4077da10f3558a9430bebd7887082c04f2f6b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-121-2010",
+   "path": "ue/regulament/2010/121",
+   "short": "Regulamentul (UE) nr. 121/2010",
+   "title": "Regulamentul (UE) nr. 121/2010 al Comisiei din 9 februarie 2010 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Provolone del Monaco (DOP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0121",
+   "versions": [
+    {
+     "from": "2010-03-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/09e04148-fbc0-43cd-a6ce-1e0df7c2f440.0019.02/DOC_1",
+     "sha256": "5218ba4106bf766eeaa961cad1496106d01932fc65b07c8b64d9abfcd6b576ac"
     }
    ]
   },
@@ -993,6 +1488,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1214-2010",
+   "path": "ue/regulament/2010/1214",
+   "short": "Regulamentul (UE) nr. 1214/2010",
+   "title": "Regulamentul (UE) nr. 1214/2010 al Comisiei din 17 decembrie 2010 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Carota Novella di Ispica (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1214",
+   "versions": [
+    {
+     "from": "2011-01-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/80e2ea63-ef89-48c2-8868-08ca5af68f45.0001.02/DOC_1",
+     "sha256": "e04496a4241ea3619a7e45014f49eb8d9416ef9f110fa5565accb36629999051"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1215-2010",
    "path": "ue/regulament/2010/1215",
    "short": "Regulamentul (UE) nr. 1215/2010",
@@ -1004,6 +1514,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/a8494131-71d4-4bc1-bf75-ef8ebf9d8e12.0019.02/DOC_1",
      "sha256": "77358efb4ff6e964724fee6a50195a154097524fe5b1bbcb1d5e3d7a0458f3c2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1216-2010",
+   "path": "ue/regulament/2010/1216",
+   "short": "Regulamentul (UE) nr. 1216/2010",
+   "title": "Regulamentul (UE) nr. 1216/2010 al Comisiei din 17 decembrie 2010 de aprobare a unor modificări care nu sunt minore din caietul de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Welsh Lamb (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1216",
+   "versions": [
+    {
+     "from": "2011-01-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/95d3ef03-63cb-4236-b323-58d36222a815.0021.02/DOC_1",
+     "sha256": "af1c4722722e7a85f500973d8505b5a1f1c78efdc7094f265c19c17bb7a3c072"
     }
    ]
   },
@@ -1023,6 +1548,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1227-2010",
+   "path": "ue/regulament/2010/1227",
+   "short": "Regulamentul (UE) nr. 1227/2010",
+   "title": "Regulamentul (UE) nr. 1227/2010 al Comisiei din 20 decembrie 2010 de modificare a Regulamentului (CE) nr. 1055/2008 de punere în aplicare a Regulamentului (CE) nr. 184/2005 al Parlamentului European și al Consiliului privind criteriile de calitate și calitatea raportării statisticilor referitoare la balanța de plăți",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1227",
+   "versions": [
+    {
+     "from": "2011-01-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/448a57c7-418b-45cf-89aa-79371aa082ef.0022.02/DOC_1",
+     "sha256": "718f34bf2cc444b87245632eb04593e67db6425b37b5be917f7f6190a11e4cc8"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1228-2010",
    "path": "ue/regulament/2010/1228",
    "short": "Regulamentul (UE) nr. 1228/2010",
@@ -1034,6 +1574,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/92a8e6d1-4aa9-403b-a4f7-114e1f3a08b1.0016.02/DOC_1",
      "sha256": "d4acdac0ddef042790c6a49ca303806b40caa86aef5fc6ba4c2587e3655f083a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1231-2010",
+   "path": "ue/regulament/2010/1231",
+   "short": "Regulamentul (UE) nr. 1231/2010",
+   "title": "Regulamentul (UE) nr. 1231/2010 al Parlamentului European și al Consiliului din 24 noiembrie 2010 de extindere a Regulamentului (CE) nr. 883/2004 și a Regulamentului (CE) nr. 987/2009 la resortisanții țărilor terțe care nu fac obiectul regulamentelor respective exclusiv pe motive de cetățenie",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1231",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4acb9bc4-1a5b-4851-a957-15a86f351696.0022.02/DOC_1",
+     "sha256": "2022ee4491ecce60841de958848fbd227e2be3c3bccea7bd11b726342c46bc7b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1233-2010",
+   "path": "ue/regulament/2010/1233",
+   "short": "Regulamentul (UE) nr. 1233/2010",
+   "title": "Regulamentul (UE) nr. 1233/2010 al Parlamentului European și al Consiliului din 15 decembrie 2010 de modificare a Regulamentului (CE) nr. 663/2009 de stabilire a unui program de ajutor pentru redresare economică prin acordarea de asistență financiară comunitară pentru proiecte în domeniul energiei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1233",
+   "versions": [
+    {
+     "from": "2010-12-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4a5ab213-b4e6-43a9-b15a-fec821bb914f.0009.02/DOC_1",
+     "sha256": "4c28bd81500fbe128e36d8ffe3f5233fd9a7d493b97e06539bd952dd29fe8502"
     }
    ]
   },
@@ -1083,6 +1653,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1240-2010",
+   "path": "ue/regulament/2010/1240",
+   "short": "Regulamentul (UE) nr. 1240/2010",
+   "title": "Regulamentul (UE) nr. 1240/2010 al Consiliului din 20 decembrie 2010 de ajustare, începând cu 1 iulie 2010 , a ratei contribuției la sistemul de pensii al funcționarilor și al celorlalți agenți ai Uniunii Europene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1240",
+   "versions": [
+    {
+     "from": "2010-12-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/78b980f2-dd51-4517-8cc4-a7e759ff36a5.0003.02/DOC_1",
+     "sha256": "99d305a86be7cd7c42cdd2541e2d3bf1bc668b8633e9c739450137ad74784578"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1244-2010",
    "path": "ue/regulament/2010/1244",
    "short": "Regulamentul (UE) nr. 1244/2010",
@@ -1094,6 +1679,66 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/c7ae514b-94ca-4d10-b701-1d6431a1bd64.0020.02/DOC_1",
      "sha256": "e9943dfd708bec25eafd1e7f3da48411b40e32f77336f3dd32811350074b212a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1248-2010",
+   "path": "ue/regulament/2010/1248",
+   "short": "Regulamentul (UE) nr. 1248/2010",
+   "title": "Regulamentul (UE) nr. 1248/2010 al Comisiei din 21 decembrie 2010 de deschidere pentru anul 2011 a unor contingente tarifare aplicabile importurilor în Uniunea Europeană de anumite mărfuri originare din Norvegia și rezultate din prelucrarea produselor agricole prevăzute în Regulamentul (CE) nr. 1216/2009 al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1248",
+   "versions": [
+    {
+     "from": "2010-12-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4a9eb6ea-f599-4c07-abbb-af08691756c9.0005.02/DOC_1",
+     "sha256": "a114970608ee1566c149b718d82bcfdf8cc69a188cac8102b912486493c88887"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1249-2010",
+   "path": "ue/regulament/2010/1249",
+   "short": "Regulamentul (UE) nr. 1249/2010",
+   "title": "Regulamentul (UE) nr. 1249/2010 al Comisiei din 22 decembrie 2010 de modificare a Regulamentului (CE) nr. 498/2007 de stabilire a unor norme detaliate pentru punerea în aplicare a Regulamentului (CE) nr. 1198/2006 al Consiliului privind Fondul european pentru pescuit",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1249",
+   "versions": [
+    {
+     "from": "2011-01-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/594b2061-45cd-4290-a3b3-c416c2b796bf.0016.02/DOC_1",
+     "sha256": "5b68361aa0a30649d44488baa9d9136aa57f0fc539b19137a40d971d6ed3385e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1250-2010",
+   "path": "ue/regulament/2010/1250",
+   "short": "Regulamentul (UE) nr. 1250/2010",
+   "title": "Regulamentul (UE) nr. 1250/2010 din 22 decembrie 2010",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1250",
+   "versions": [
+    {
+     "from": "2010-12-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/20545b6c-a75a-44cc-9834-3f0f40e5f736.0017.02/DOC_1",
+     "sha256": "391abe9513319c4e956ac70a5a2bb2b37f793c57dc5c6f04830db911ce5de774"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1256-2010",
+   "path": "ue/regulament/2010/1256",
+   "short": "Regulamentul (UE) nr. 1256/2010",
+   "title": "Regulamentul (UE) nr. 1256/2010 al Consiliului din 17 decembrie 2010 de stabilire, pentru 2011, a posibilităților de pescuit pentru anumite resurse halieutice aplicabile în Marea Neagră",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1256",
+   "versions": [
+    {
+     "from": "2010-12-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d9f35ddc-b13f-406c-a95c-beb299a57b23.0006.02/DOC_1",
+     "sha256": "d100107ce1fe765ddd6e1933633d29d63075c6664d7f8544c57a9ab7018e9997"
     }
    ]
   },
@@ -1113,6 +1758,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-1261-2010",
+   "path": "ue/regulament/2010/1261",
+   "short": "Regulamentul (UE) nr. 1261/2010",
+   "title": "Regulamentul (UE) nr. 1261/2010 al Comisiei din 22 decembrie 2010 de instituire a unei taxe compensatorii provizorii privind importurile de anumite bare din oțeluri inoxidabile originare din India",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1261",
+   "versions": [
+    {
+     "from": "2010-12-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/50c07561-bb22-4145-8c38-18246a4bc3e7.0019.02/DOC_1",
+     "sha256": "3bf6df0b3ef578e44ac50148c6cbf1c6719a1c1d9c4438bfcb600893bc276f64"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1263-2010",
+   "path": "ue/regulament/2010/1263",
+   "short": "Regulamentul (UE) nr. 1263/2010",
+   "title": "Regulamentul (UE) nr. 1263/2010 al Consiliului din 20 decembrie 2010 privind alocarea posibilităților de pescuit în temeiul Protocolului de stabilire a posibilităților de pescuit și a contribuției financiare prevăzute de Acordul de parteneriat în domeniul pescuitului între Comunitatea Europeană și Republica Seychelles",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R1263",
+   "versions": [
+    {
+     "from": "2011-01-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4732e5eb-14e0-411f-a604-6814ea9ca0f9.0007.02/DOC_1",
+     "sha256": "ecfa39ed1b794e7cf8bf219c1417ac6d19b847b3cd1015d15e39753847c3bd3c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-147-2010",
+   "path": "ue/regulament/2010/147",
+   "short": "Regulamentul (UE) nr. 147/2010",
+   "title": "Regulamentul (UE) nr. 147/2010 al Comisiei din 23 februarie 2010 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Pemento do Couto (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0147",
+   "versions": [
+    {
+     "from": "2010-03-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9c930ce3-367c-4fbc-86ee-720608c23b3d.0019.02/DOC_1",
+     "sha256": "ce10ea37b16566cc1d08a3f3b29d556be0d9c8b8dfb8c148e8da8f294feb6065"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-148-2010",
    "path": "ue/regulament/2010/148",
    "short": "Regulamentul (UE) nr. 148/2010",
@@ -1124,6 +1814,51 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/cb4ad8c5-b6f6-4044-a47b-412f2e0548a5.0019.03/DOC_1",
      "sha256": "7a84eb33cd1375530e114aa0df37f8af99499bc51bc1fb3464b96495153b388f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-152-2010",
+   "path": "ue/regulament/2010/152",
+   "short": "Regulamentul (UE) nr. 152/2010",
+   "title": "Regulamentul (UE) nr. 152/2010 al Comisiei din 23 februarie 2010 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0152",
+   "versions": [
+    {
+     "from": "2010-03-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/afef0498-a051-4288-a1da-354459f03e58.0019.02/DOC_1",
+     "sha256": "48c4325180310357c2b7f9412eba4e221639513f3c65d088bb29a411395a1603"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-153-2010",
+   "path": "ue/regulament/2010/153",
+   "short": "Regulamentul (UE) nr. 153/2010",
+   "title": "Regulamentul (UE) nr. 153/2010 al Comisiei din 23 februarie 2010 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0153",
+   "versions": [
+    {
+     "from": "2010-03-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a98e5ec8-a2a8-4b1f-8bfc-6154dc526df7.0019.02/DOC_1",
+     "sha256": "9c19af9799440bc32593f90af0fc749248a0697831d84a21337a90b818dc5751"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-163-2010",
+   "path": "ue/regulament/2010/163",
+   "short": "Regulamentul (UE) nr. 163/2010",
+   "title": "Regulamentul (UE) nr. 163/2010 al Comisiei din 9 februarie 2010 de stabilire pentru anul 2009 a listei Prodcom de produse industriale prevăzută în Regulamentul (CEE) nr. 3924/91 al Consiliului (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0163",
+   "versions": [
+    {
+     "from": "2010-03-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ba27c7da-2e2a-4ec0-b875-4a1684ad1663.0019.02/DOC_1",
+     "sha256": "382b9e399fccbb8e4223b695c39efc9e8c566e3299b4e1b8fb4c969fe7c1a043"
     }
    ]
   },
@@ -1158,6 +1893,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-172-2010",
+   "path": "ue/regulament/2010/172",
+   "short": "Regulamentul (UE) nr. 172/2010",
+   "title": "Regulamentul (UE) nr. 172/2010 al Comisiei din 1 martie 2010 de înregistrare a unei denumiri în registrul de specialități tradiționale garantate [Prekmurska gibanica (STG)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0172",
+   "versions": [
+    {
+     "from": "2010-03-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3bfa6afe-8029-41e5-935c-5debd7d95aad.0019.02/DOC_1",
+     "sha256": "08f08bb6bf80e22cf11915de1b71bd16b14a2e8be2a9785eca72d07bbef944df"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-173-2010",
+   "path": "ue/regulament/2010/173",
+   "short": "Regulamentul (UE) nr. 173/2010",
+   "title": "Regulamentul (UE) nr. 173/2010 din 25 februarie 2010",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0173",
+   "versions": [
+    {
+     "from": "2010-03-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1c9e8224-7912-401a-9726-57888839ff27.0019.02/DOC_1",
+     "sha256": "38b9275f03256130bf8a969e891b19dd4a0eb0b0abf591f621a51dbe22b4e5d9"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-18-2010",
    "path": "ue/regulament/2010/18",
    "short": "Regulamentul (UE) nr. 18/2010",
@@ -1169,6 +1934,66 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/8e4ae6fb-4acf-41e4-aa04-e95abb07b2d6.0019.02/DOC_1",
      "sha256": "d5f4d0857b4ace58c562687e697cb256f67716b50e31bbdcc1430f895d512987"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-182-2010",
+   "path": "ue/regulament/2010/182",
+   "short": "Regulamentul (UE) nr. 182/2010",
+   "title": "Regulamentul (UE) nr. 182/2010 al Comisiei din 3 martie 2010 de înregistrare a unei denumiri în registrul de specialități tradiționale garantate [Belokranjska pogača (STG)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0182",
+   "versions": [
+    {
+     "from": "2010-03-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1302adde-7785-4807-bad5-6ecbc02bd2f1.0019.02/DOC_1",
+     "sha256": "b11a147c24ca58dc82e35985df9c1c4ad8420dc9b238914ee9f3bb4c6979533b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-20-2010",
+   "path": "ue/regulament/2010/20",
+   "short": "Regulamentul (UE) nr. 20/2010",
+   "title": "Regulamentul (UE) nr. 20/2010 al Comisiei din 12 ianuarie 2010 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Arzúa-Ulloa (DOP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0020",
+   "versions": [
+    {
+     "from": "2010-02-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/efc93ba1-ee24-4103-b7c0-f127c88018f7.0019.02/DOC_1",
+     "sha256": "d2e1fcf330c72c0cdba6f3cd986827fe5901b956d5a4176fdd24a8e63b303379"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-200-2010",
+   "path": "ue/regulament/2010/200",
+   "short": "Regulamentul (UE) nr. 200/2010",
+   "title": "Regulamentul (UE) nr. 200/2010 al Comisiei din 10 martie 2010 de punere în aplicare a Regulamentului (CE) nr. 2160/2003 al Parlamentului European și al Consiliului în ceea ce privește obiectivul UE de reducere a prevalenței anumitor serotipuri de Salmonella la efectivele reproducătoare adulte din specia Gallus gallus (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0200",
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c6442770-7e03-4ba8-8c56-90b4c407fc8d.0019.02/DOC_1",
+     "sha256": "588e23b90502f328c907dff9a4d8bde43607d598ffc5e0fc66ba825e8b5ebeae"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-201-2010",
+   "path": "ue/regulament/2010/201",
+   "short": "Regulamentul (UE) nr. 201/2010",
+   "title": "Regulamentul (UE) nr. 201/2010 al Comisiei din 10 martie 2010 de stabilire a normelor de aplicare a Regulamentului (CE) nr. 1006/2008 al Consiliului privind autorizațiile pentru activitățile de pescuit ale navelor de pescuit comunitare în afara apelor comunitare și accesul navelor țărilor terțe în apele comunitare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0201",
+   "versions": [
+    {
+     "from": "2010-03-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/99199c5d-827e-472d-9a0e-d32ebdec28bc.0019.02/DOC_1",
+     "sha256": "e1d783504785d2f0044c0fb0dbd732a8c3cd113b56a9e671081951fee56520dd"
     }
    ]
   },
@@ -1188,6 +2013,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-203-2010",
+   "path": "ue/regulament/2010/203",
+   "short": "Regulamentul (UE) nr. 203/2010",
+   "title": "Regulamentul (UE) nr. 203/2010 al Comisiei din 10 martie 2010 de înregistrare a unei denumiri în registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Irpinia – Colline dell’Ufita (DOP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0203",
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/935b7913-f7ab-450f-a492-cfad2e34ab71.0019.02/DOC_1",
+     "sha256": "ca4055eada4d3508f150fedc5af2c42838ddb2c83ce907106ec6f68439efd39b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-207-2010",
+   "path": "ue/regulament/2010/207",
+   "short": "Regulamentul (UE) nr. 207/2010",
+   "title": "Regulamentul (UE) nr. 207/2010 al Comisiei din 10 martie 2010 de modificare pentru a 121-a oară a Regulamentului (CE) nr. 881/2002 al Consiliului de instituire a anumitor măsuri restrictive specifice împotriva anumitor persoane și entități care au legătură cu Osama ben Laden, cu rețeaua Al-Quaida și cu talibanii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0207",
+   "versions": [
+    {
+     "from": "2010-03-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9936fbeb-585a-40d2-9c0d-06b6ecc598da.0019.02/DOC_1",
+     "sha256": "fd6f3cbc04f2b5b9f0dcf5f68c682e6366d6c0f049025a784803c5c2930f6f59"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-21-2010",
    "path": "ue/regulament/2010/21",
    "short": "Regulamentul (UE) nr. 21/2010",
@@ -1199,6 +2054,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/ed3b528e-2170-40a1-8462-78a91a624491.0019.02/DOC_1",
      "sha256": "f2f875d95893e1920ee9c14aa4634ec019ab4ed1983b04ae9e715aa85688c81e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-211-2010",
+   "path": "ue/regulament/2010/211",
+   "short": "Regulamentul (UE) nr. 211/2010",
+   "title": "Regulamentul (UE) nr. 211/2010 al Comisiei din 11 martie 2010 de modificare a anexei I la Regulamentul (CEE) nr. 2658/87 al Consiliului privind Nomenclatura tarifară și statistică și Tariful vamal comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0211",
+   "versions": [
+    {
+     "from": "2010-04-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/18a76742-192e-4b0a-b164-f0cd023c2b97.0019.02/DOC_1",
+     "sha256": "faae860b9d4e20a668d73e1d91ac5da0a5745797926344e3937627df7feaeaa3"
     }
    ]
   },
@@ -1218,6 +2088,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-219-2010",
+   "path": "ue/regulament/2010/219",
+   "short": "Regulamentul (UE) nr. 219/2010",
+   "title": "Regulamentul (UE) nr. 219/2010 al Consiliului din 15 martie 2010 de modificare a Regulamentului (UE) nr. 53/2010 în ceea ce privește posibilitățile de pescuit pentru anumite resurse halieutice și ca urmare a încheierii acordurilor bilaterale de pescuit cu Norvegia și Insulele Feroe pentru 2010",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0219",
+   "versions": [
+    {
+     "from": "2010-03-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c62a09e2-90af-49bc-8d93-c446533945c8.0019.02/DOC_1",
+     "sha256": "6214f8b28b03bdc37ad9afcd3649dbe8b2add685cd1ddc6b17181d6cdd530523"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-220-2010",
+   "path": "ue/regulament/2010/220",
+   "short": "Regulamentul (UE) nr. 220/2010",
+   "title": "Regulamentul (UE) nr. 220/2010 al Comisiei din 16 martie 2010 de adoptare a programului de module ad hoc , care acoperă perioada 2013-2015, pentru ancheta prin sondaj asupra forței de muncă, prevăzută prin Regulamentul (CE) nr. 577/98 al Consiliului (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0220",
+   "versions": [
+    {
+     "from": "2010-03-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/988a1d37-304b-4fe1-bf0a-f7c215ceab86.0019.02/DOC_1",
+     "sha256": "34fa6fc543acda9171c4dd34f4aceb787c7e2f443d70e3386577ffca544f67b1"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-222-2010",
    "path": "ue/regulament/2010/222",
    "short": "Regulamentul (UE) nr. 222/2010",
@@ -1229,6 +2129,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/c5d7dfd7-f0ad-4e46-9208-73dad2aa3207.0019.02/DOC_1",
      "sha256": "d80b7366f2b1a0dd70093d3077018b0349da1cac31187d93681e8a3b23bcd922"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-228-2010",
+   "path": "ue/regulament/2010/228",
+   "short": "Regulamentul (UE) nr. 228/2010",
+   "title": "Regulamentul (UE) nr. 228/2010 al Comisiei din 18 martie 2010 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Patata di Bologna (DOP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0228",
+   "versions": [
+    {
+     "from": "2010-04-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d466e89d-e63c-4383-8917-f8c63c6049cb.0019.02/DOC_1",
+     "sha256": "65fd4018a4e8507617286dff74e9e0ad20a0fc9c5700f5038b75d10cb03a7d48"
     }
    ]
   },
@@ -1263,6 +2178,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-237-2010",
+   "path": "ue/regulament/2010/237",
+   "short": "Regulamentul (UE) nr. 237/2010",
+   "title": "Regulamentul (UE) nr. 237/2010 al Comisiei din 22 martie 2010 de stabilire a normelor de aplicare a Regulamentului (CE) nr. 1342/2008 al Consiliului de stabilire a unui plan pe termen lung pentru rezervele de cod și zonele piscicole care exploatează aceste rezerve",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0237",
+   "versions": [
+    {
+     "from": "2010-04-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/aecbaf0a-66da-43d1-a9ed-8fe00eb5bdf3.0019.02/DOC_1",
+     "sha256": "1193ae35d1147b96ce81586827b72e351cf945d62cbff400a89867d3d51a3047"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-238-2010",
+   "path": "ue/regulament/2010/238",
+   "short": "Regulamentul (UE) nr. 238/2010",
+   "title": "Regulamentul (UE) nr. 238/2010 al Comisiei din 22 martie 2010 de modificare a anexei V la Regulamentul (CE) nr. 1333/2008 al Parlamentului European și al Consiliului privind cerințele de etichetare a băuturilor care conțin mai mult de 1,2 % alcool în volum și anumiți coloranți alimentari (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0238",
+   "versions": [
+    {
+     "from": "2010-04-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e35341f7-5008-49b8-8118-aa99206debb2.0019.03/DOC_1",
+     "sha256": "077108c5cd33af3b25ebf5d5de161b61e0e9dc5ca3e1a8659f1fae0785c4d090"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-24-2010",
    "path": "ue/regulament/2010/24",
    "short": "Regulamentul (UE) nr. 24/2010",
@@ -1289,6 +2234,66 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/7dd80462-7dc4-4dcd-aede-1fd1b53cae85.0019.02/DOC_1",
      "sha256": "a8d79a80daf885d19266fb07a35cdefd639d6a258114feb7ea98f636fdd7f8b1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-249-2010",
+   "path": "ue/regulament/2010/249",
+   "short": "Regulamentul (UE) nr. 249/2010",
+   "title": "Regulamentul (UE) nr. 249/2010 al Comisiei din 24 martie 2010 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Chorizo Riojano (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0249",
+   "versions": [
+    {
+     "from": "2010-04-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9f9360ca-a914-414f-8ecb-de1c13571d9c.0019.02/DOC_1",
+     "sha256": "90f0cdf70f260f3ef6d3f6cfdaaf878a44f3c3308ea81bf77890bbada0b9cfa0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-250-2010",
+   "path": "ue/regulament/2010/250",
+   "short": "Regulamentul (UE) nr. 250/2010",
+   "title": "Regulamentul (UE) nr. 250/2010 al Comisiei din 24 martie 2010 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Farine de Petit Épeautre de Haute Provence (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0250",
+   "versions": [
+    {
+     "from": "2010-04-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/069b3c87-6030-4b47-b481-a48d455c6eef.0019.02/DOC_1",
+     "sha256": "c48c73320755c28950cb7697365f45e23f6e95cc365e41203a5903450275a5e8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-251-2010",
+   "path": "ue/regulament/2010/251",
+   "short": "Regulamentul (UE) nr. 251/2010",
+   "title": "Regulamentul (UE) nr. 251/2010 al Comisiei din 24 martie 2010 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Yorkshire Forced Rhubarb (DOP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0251",
+   "versions": [
+    {
+     "from": "2010-04-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cd2ab34a-e32c-431a-b82b-918db13f4c4b.0019.02/DOC_1",
+     "sha256": "891a03dda785a1b1dc3a6b6678744dee761888f60cf2add664ef45ca69ada539"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-254-2010",
+   "path": "ue/regulament/2010/254",
+   "short": "Regulamentul (UE) nr. 254/2010",
+   "title": "Regulamentul (UE) nr. 254/2010 al Comisiei din 10 martie 2010 de aprobare a unui program de control al infecțiilor cu Salmonella în rândul păsărilor de curte din anumite țări terțe în conformitate cu Regulamentul (CE) nr. 2160/2003 al Parlamentului European și al Consiliului și de modificare a anexei I la Regulamentul (CE) nr. 798/2008 în ceea ce privește statutul anumitor țări terțe în materie de control al infecțiilor cu Salmonella (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0254",
+   "versions": [
+    {
+     "from": "2010-04-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/89bd34c6-0b0e-42ac-8f2b-1b5579a3be15.0019.03/DOC_1",
+     "sha256": "026dfd56c5bbe912b83806b68dc1ac8f5f8a32e4a9db5dcc9e77a04f23f94e97"
     }
    ]
   },
@@ -1323,6 +2328,186 @@
    ]
   },
   {
+   "slug": "ue-regulament-257-2010",
+   "path": "ue/regulament/2010/257",
+   "short": "Regulamentul (UE) nr. 257/2010",
+   "title": "Regulamentul (UE) nr. 257/2010 al Comisiei din 25 martie 2010 de stabilire a unui program de reevaluare a aditivilor alimentari autorizați în conformitate cu Regulamentul (CE) nr. 1333/2008 al Parlamentului European și al Consiliului privind aditivii alimentari (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0257",
+   "versions": [
+    {
+     "from": "2010-04-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7e8cedab-5e21-46cf-8cf3-d759e3d4b0db.0019.02/DOC_1",
+     "sha256": "995cd021640709e0ec31fb3df520a098208db7f3eb9c4b1e957b25c1be5d24a1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-259-2010",
+   "path": "ue/regulament/2010/259",
+   "short": "Regulamentul (UE) nr. 259/2010",
+   "title": "Regulamentul (UE) nr. 259/2010 al Comisiei din 25 martie 2010 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Colline Pontine (DOP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0259",
+   "versions": [
+    {
+     "from": "2010-04-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e03771d0-0ee2-4d12-8b5e-52cfc89b0892.0019.02/DOC_1",
+     "sha256": "99488767d6265cbba58117130bbb9dfeee4c7cd95b752eb7854087c0b2cf3bb2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-26-2010",
+   "path": "ue/regulament/2010/26",
+   "short": "Regulamentul (UE) nr. 26/2010",
+   "title": "Regulamentul (UE) nr. 26/2010 din 12 ianuarie 2010",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0026",
+   "versions": [
+    {
+     "from": "2010-01-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d58edcd5-fecc-4427-9db3-96c60e7f6bdd.0019.02/DOC_1",
+     "sha256": "1bf78a5b4deab08dc4831e48f7e5217bc9bf4d809d714143d458d9d607bc77ef"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-260-2010",
+   "path": "ue/regulament/2010/260",
+   "short": "Regulamentul (UE) nr. 260/2010",
+   "title": "Regulamentul (UE) nr. 260/2010 al Comisiei din 25 martie 2010 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Chirimoya de la Costa tropical de Granada-Málaga (DOP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0260",
+   "versions": [
+    {
+     "from": "2010-04-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c65a7b2a-d1ca-44d6-a202-946a479d9705.0019.02/DOC_1",
+     "sha256": "33b6b11f3bd0065e7bf6197d71b0febb890eb30567e66e4da09bb49023d53e9c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-262-2010",
+   "path": "ue/regulament/2010/262",
+   "short": "Regulamentul (UE) nr. 262/2010",
+   "title": "Regulamentul (UE) nr. 262/2010 din 24 martie 2010",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0262",
+   "versions": [
+    {
+     "from": "2010-03-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5658dff6-3d19-4fa0-b985-f6cb02f7abe8.0019.02/DOC_1",
+     "sha256": "520af986842d121539b27555ce8cb443361b71f39e43f572fcd4ed6215aaa2f3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-265-2010",
+   "path": "ue/regulament/2010/265",
+   "short": "Regulamentul (UE) nr. 265/2010",
+   "title": "Regulamentul (UE) nr. 265/2010 al Parlamentului European și al Consiliului din 25 martie 2010 de modificare a Convenției de punere în aplicare a Acordului Schengen și a Regulamentului (CE) nr. 562/2006 în ceea ce privește circulația persoanelor care dețin o viză de lungă ședere",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0265",
+   "versions": [
+    {
+     "from": "2010-04-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7acda48b-6538-44e6-b2fc-2a1c259014ef.0020.03/DOC_1",
+     "sha256": "b14fd057916c70a41040e13d464b191050c95d85090a515b2825d442fa2d52a3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-268-2010",
+   "path": "ue/regulament/2010/268",
+   "short": "Regulamentul (UE) nr. 268/2010",
+   "title": "Regulamentul (UE) nr. 268/2010 al Comisiei din 29 martie 2010 de implementare a Directivei 2007/2/CE a Parlamentului European și a Consiliului în ceea ce privește accesul instituțiilor și organismelor comunitare, în condiții armonizate, la seturile și serviciile de date spațiale ale statelor membre",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0268",
+   "versions": [
+    {
+     "from": "2010-04-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f6bba23b-b713-4c60-880a-b57b14556247.0019.02/DOC_1",
+     "sha256": "f0a461de7d0292fa982ed89d2e5c4ab98531f46f9a5fea6d73c880826e724833"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-273-2010",
+   "path": "ue/regulament/2010/273",
+   "short": "Regulamentul (UE) nr. 273/2010",
+   "title": "Regulamentul (UE) nr. 273/2010 al Comisiei din 30 martie 2010 de modificare a Regulamentului (CE) nr. 474/2006 de stabilire a listei comunitare a transportatorilor aerieni care fac obiectul unei interdicții de exploatare pe teritoriul Comunității (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0273",
+   "versions": [
+    {
+     "from": "2010-04-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/96215836-a971-4b3d-8d0e-8421b0150ab4.0019.02/DOC_1",
+     "sha256": "65c61b201210947fe92e943f197c746fb1167e37e08bc20e20fb51fc81269d2f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-276-2010",
+   "path": "ue/regulament/2010/276",
+   "short": "Regulamentul (UE) nr. 276/2010",
+   "title": "Regulamentul (UE) nr. 276/2010 al Comisiei din 31 martie 2010 de modificare a Regulamentului (CE) nr. 1907/2006 al Parlamentului European și al Consiliului privind înregistrarea, evaluarea, autorizarea și restricționarea substanțelor chimice (REACH) în ceea ce privește anexa XVII (diclorometan, uleiuri lampante și lichide de aprins focul pentru barbecue și compuși organostanici) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0276",
+   "versions": [
+    {
+     "from": "2010-04-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dfe232f5-9002-4375-b4d4-00a85251525b.0019.04/DOC_1",
+     "sha256": "cb97e13ff7e32b18fc1416679532b17cd0495ab58197a1e33acdaa0dcb38fa83"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-278-2010",
+   "path": "ue/regulament/2010/278",
+   "short": "Regulamentul (UE) nr. 278/2010",
+   "title": "Regulamentul (UE) nr. 278/2010 al Comisiei din 31 martie 2010 de modificare a Regulamentului (CE) nr. 1276/2008 privind monitorizarea prin controale fizice a exporturilor de produse agricole care beneficiază de restituiri sau de alte sume și a Regulamentului (CE) nr. 612/2009 de stabilire a normelor comune de aplicare a sistemului de restituiri la export pentru produsele agricole",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0278",
+   "versions": [
+    {
+     "from": "2010-04-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/93166afa-dba2-4224-b29e-46eaa24bfafa.0019.03/DOC_1",
+     "sha256": "86c01bbfb6e5f1beff70e2bd6f2451b679322f2bebc02b0716d90969e53a3c55"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-279-2010",
+   "path": "ue/regulament/2010/279",
+   "short": "Regulamentul (UE) nr. 279/2010",
+   "title": "Regulamentul (UE) nr. 279/2010 din 31 martie 2010",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0279",
+   "versions": [
+    {
+     "from": "2010-04-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f655ad07-cce3-4f0b-a9a8-f386d7f8ad22.0019.04/DOC_1",
+     "sha256": "39047788b918b5b26338d2e49ad681cf5903a20de3ab80bfaaac3455726a38ab"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-285-2010",
+   "path": "ue/regulament/2010/285",
+   "short": "Regulamentul (UE) nr. 285/2010",
+   "title": "Regulamentul (UE) nr. 285/2010 al Comisiei din 6 aprilie 2010 de modificare a Regulamentului (CE) nr. 785/2004 al Parlamentului European și al Consiliului privind cerințele de asigurare a operatorilor de transport aerian și a operatorilor de aeronave",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0285",
+   "versions": [
+    {
+     "from": "2010-04-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/04d51c28-dc40-44c4-afc4-cca3b90f9758.0019.02/DOC_1",
+     "sha256": "b6fc51fdd2cbd5222f97c4b84d91e2c5a7b9be258bd57ba9d1c9fae5285cf334"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-286-2010",
    "path": "ue/regulament/2010/286",
    "short": "Regulamentul (UE) nr. 286/2010",
@@ -1353,6 +2538,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-290-2010",
+   "path": "ue/regulament/2010/290",
+   "short": "Regulamentul (CE) nr. 290/2010",
+   "title": "Regulamentul (CE) nr. 290/2010 din 6 aprilie 2010",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0290",
+   "versions": [
+    {
+     "from": "2010-04-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e29dcc56-ee43-43c3-9b50-e0792f33b536.0019.02/DOC_1",
+     "sha256": "acedbfb8b3faa50479f5c8286abd7cddcb8b4348023aab7e1e3ecfc8afb698d4"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-297-2010",
    "path": "ue/regulament/2010/297",
    "short": "Regulamentul (UE) nr. 297/2010",
@@ -1364,6 +2564,51 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/642bd46f-d6dc-4c05-8672-bfcb3129d100.0019.02/DOC_1",
      "sha256": "50d1a783b8dec63d4baa5b10af7acf287a30f003bfdfb382059c670010696dfa"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-30-2010",
+   "path": "ue/regulament/2010/30",
+   "short": "Regulamentul (UE) nr. 30/2010",
+   "title": "Regulamentul (UE) nr. 30/2010 al Comisiei din 14 ianuarie 2010 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Pesca di Verona (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0030",
+   "versions": [
+    {
+     "from": "2010-02-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9062b883-2a43-4304-93d4-b9ab0964f77f.0019.02/DOC_1",
+     "sha256": "ce05e203147c4166823f8bf6bc5659da6b070873a50be628dd82f164ffc475e1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-300-2010",
+   "path": "ue/regulament/2010/300",
+   "short": "Regulamentul (UE) nr. 300/2010",
+   "title": "Regulamentul (UE) nr. 300/2010 al Comisiei din 12 aprilie 2010 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [ Gentse azalea (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0300",
+   "versions": [
+    {
+     "from": "2010-05-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/44606977-d81e-4ad1-b323-c7b19e4b1a49.0019.02/DOC_1",
+     "sha256": "c2d2a4efe4b61ef40f0e6a518dcdb60b6f69e34a302cb84389fdafb0d051c8da"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-304-2010",
+   "path": "ue/regulament/2010/304",
+   "short": "Regulamentul (UE) nr. 304/2010",
+   "title": "Regulamentul (UE) nr. 304/2010 al Comisiei din 9 aprilie 2010 de modificare a anexei II la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime de reziduuri pentru 2-fenil-fenol din sau de pe anumite produse (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0304",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/745bb841-1f98-4414-ba38-653cb74b85c9.0019.03/DOC_1",
+     "sha256": "9b930836aa0cd36095f98666a8936d20174ab2175ae8dc81dddad49215af158f"
     }
    ]
   },
@@ -1443,6 +2688,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-310-2010",
+   "path": "ue/regulament/2010/310",
+   "short": "Regulamentul (UE) nr. 310/2010",
+   "title": "Regulamentul (UE) nr. 310/2010 al Comisiei din 9 aprilie 2010 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0310",
+   "versions": [
+    {
+     "from": "2010-05-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3ad0348c-c04c-458c-805b-bf8b729c5c3c.0019.02/DOC_1",
+     "sha256": "7e0d8058db6c775f04884a6132e05c34b5ed27146a9703dc2b6f658f02b7b5d2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-316-2010",
+   "path": "ue/regulament/2010/316",
+   "short": "Regulamentul (UE) nr. 316/2010",
+   "title": "Regulamentul (UE) nr. 316/2010 al Comisiei din 16 aprilie 2010 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Pommes des Alpes de Haute Durance (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0316",
+   "versions": [
+    {
+     "from": "2010-05-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/799e8b9d-2d3e-46e7-b2a6-520a2d88cb85.0019.02/DOC_1",
+     "sha256": "69c2237fd71cf68c5d04844b651b4c7469246ef5320dd42dad1d9af2271fa629"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-317-2010",
    "path": "ue/regulament/2010/317",
    "short": "Regulamentul (UE) nr. 317/2010",
@@ -1484,6 +2759,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/23bbbd41-5e74-43a2-a782-82044d17512d.0019.02/DOC_1",
      "sha256": "9754b40c82629a5172b171b1626276972e56a36e7a31329ba273df956ded6017"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-320-2010",
+   "path": "ue/regulament/2010/320",
+   "short": "Regulamentul (UE) nr. 320/2010",
+   "title": "Regulamentul (UE) nr. 320/2010 al Comisiei din 19 aprilie 2010 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Prosciutto di Sauris (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0320",
+   "versions": [
+    {
+     "from": "2010-05-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/25ee7467-617a-40cc-ae5b-5a7074b315ed.0019.02/DOC_1",
+     "sha256": "a7cf26cd6c41c9e1149363c85d885cab8a5c72c602bc99edd6b16f7b0254a31a"
     }
    ]
   },
@@ -1563,6 +2853,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-353-2010",
+   "path": "ue/regulament/2010/353",
+   "short": "Regulamentul (UE) nr. 353/2010",
+   "title": "Regulamentul (UE) nr. 353/2010 al Comisiei din 23 aprilie 2010 de aprobare a unor modificări minore ale caietului de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Mirabelles de Lorraine (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0353",
+   "versions": [
+    {
+     "from": "2010-05-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b4d285ba-5fe9-4054-8056-5c49a9ba406a.0019.02/DOC_1",
+     "sha256": "4ce222b7129baf798777df685198c4dbf9edf065858b5ca88d62188552662d98"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-356-2010",
+   "path": "ue/regulament/2010/356",
+   "short": "Regulamentul (UE) nr. 356/2010",
+   "title": "Regulamentul (UE) nr. 356/2010 din 26 aprilie 2010",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0356",
+   "versions": [
+    {
+     "from": "2010-04-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3099783b-e305-4969-ac70-8e3d33b0e7ef.0019.02/DOC_1",
+     "sha256": "52cce14a26b626812c920e35a37416ffeac93edfc9ef8a2d3cb565afeec85476"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-36-2010",
+   "path": "ue/regulament/2010/36",
+   "short": "Regulamentul (UE) nr. 36/2010",
+   "title": "Regulamentul (UE) nr. 36/2010 al Comisiei din 3 decembrie 2009 privind modelele comunitare de permise de mecanici de locomotivă, certificate complementare, copii certificate ale certificatelor complementare și formulare pentru cererile de permise de mecanici de locomotivă, în temeiul Directivei 2007/59/CE a Parlamentului European și a Consiliului (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0036",
+   "versions": [
+    {
+     "from": "2010-02-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/990888ee-c624-48a5-8278-3a776ed2e894.0019.03/DOC_1",
+     "sha256": "61c7cee7d7317603f84b69e2b0b2cd560343ca357df5f6e6157bd502a2130990"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-365-2010",
    "path": "ue/regulament/2010/365",
    "short": "Regulamentul (UE) nr. 365/2010",
@@ -1574,6 +2909,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/c1644cf6-3f5c-4339-a123-79006ebbd823.0019.02/DOC_1",
      "sha256": "80bb0a2e7ef56b6714c5d0e01b7eeb0a296eb06f0f7835a72db48c1fe980cc3e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-366-2010",
+   "path": "ue/regulament/2010/366",
+   "short": "Regulamentul (UE) nr. 366/2010",
+   "title": "Regulamentul (UE) nr. 366/2010 al Comisiei din 28 aprilie 2010 de modificare pentru a 125-a oară a Regulamentului (CE) nr. 881/2002 al Consiliului de instituire a unor măsuri restrictive specifice împotriva anumitor persoane și entități care au legătură cu Osama ben Laden, cu rețeaua Al-Qaida și cu talibanii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0366",
+   "versions": [
+    {
+     "from": "2010-04-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/df3ddb0a-aec7-405d-b40e-a0832765acb7.0019.02/DOC_1",
+     "sha256": "ca471172c53e46cd8db06785b8cc2e32c53c1f105c3045bdeb17f5771caa82e3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-37-2010",
+   "path": "ue/regulament/2010/37",
+   "short": "Regulamentul (UE) nr. 37/2010",
+   "title": "Regulamentul (UE) nr. 37/2010 al Comisiei din 22 decembrie 2009 privind substanțele active din punct de vedere farmacologic și clasificarea lor în funcție de limitele reziduale maxime din produsele alimentare de origine animală (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0037",
+   "versions": [
+    {
+     "from": "2010-02-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cfa7a5a9-b6bb-4a53-a2d9-62dd573ecc84.0019.02/DOC_1",
+     "sha256": "4e1770d6df2fb290ee49f056cdf939eef70b77994c7116d548844184471cf2a0"
     }
    ]
   },
@@ -1604,6 +2969,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/bd3aa68c-a121-48c3-8d64-94bcbcf724e2.0019.03/DOC_1",
      "sha256": "d644b948ad9755a06a4819d7ff2c9ad32f6c42474d5091f43cb47355eaef3d48"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-376-2010",
+   "path": "ue/regulament/2010/376",
+   "short": "Regulamentul (UE) nr. 376/2010",
+   "title": "Regulamentul (UE) nr. 376/2010 al Comisiei din 3 mai 2010 de modificare a Regulamentului (CE) nr. 983/2009 privind autorizarea și refuzul autorizării anumitor mențiuni de sănătate formulate pentru alimente și care se referă la reducerea riscului de îmbolnăvire și la dezvoltarea și sănătatea copiilor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0376",
+   "versions": [
+    {
+     "from": "2010-05-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4187bbb3-8dcf-497f-9115-370e3192e39b.0019.03/DOC_1",
+     "sha256": "8506f6ceff0fedd436806762a9e95c9b45c8d238b9ff257c0425115bb6089ba8"
     }
    ]
   },
@@ -1649,6 +3029,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/17da69fe-a47d-4af2-8e98-bc4749fff475.0019.03/DOC_1",
      "sha256": "12ee05322747cd701cfc00b9f0ad919d3d0a7c97596d1f99429fb3c17ccdad66"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-383-2010",
+   "path": "ue/regulament/2010/383",
+   "short": "Regulamentul (UE) nr. 383/2010",
+   "title": "Regulamentul (UE) nr. 383/2010 al Comisiei din 5 mai 2010 de refuzare a autorizării unei mențiuni de sănătate înscrise pe produsele alimentare, alta decât cele care se referă la reducerea riscului de îmbolnăvire și la dezvoltarea și sănătatea copiilor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0383",
+   "versions": [
+    {
+     "from": "2010-05-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/32de0d23-070c-4fe3-beb9-da147a39ada9.0019.03/DOC_1",
+     "sha256": "0fd4baeea0727fefcc4e2bd4868415d1852a28a7fe0d0734e69a3c918427bd0c"
     }
    ]
   },
@@ -1728,6 +3123,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-403-2010",
+   "path": "ue/regulament/2010/403",
+   "short": "Regulamentul (UE) nr. 403/2010",
+   "title": "Regulamentul (UE) nr. 403/2010 al Comisiei din 10 mai 2010 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Tarta de Santiago (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0403",
+   "versions": [
+    {
+     "from": "2010-05-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b048e3be-ea9e-4295-81d0-bf8d83de367f.0019.02/DOC_1",
+     "sha256": "992e49c970e5a55401fb4d3582ba272c50dec87d64630e26f15d5653f8aba9ef"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-404-2010",
+   "path": "ue/regulament/2010/404",
+   "short": "Regulamentul (UE) nr. 404/2010",
+   "title": "Regulamentul (UE) nr. 404/2010 al Comisiei din 10 mai 2010 de instituire a unei taxe antidumping provizorii la importurile de anumite roți din aluminiu originare din Republica Populară Chineză",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0404",
+   "versions": [
+    {
+     "from": "2010-05-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1f7a12cc-f3e2-4ca0-8e66-e2729da495df.0019.02/DOC_1",
+     "sha256": "9f26386810cf71cdc9f672cc2e64db492aabaf7c8f3892f622ef07d528d70e03"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-407-2010",
    "path": "ue/regulament/2010/407",
    "short": "Regulamentul (UE) nr. 407/2010",
@@ -1743,6 +3168,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-409-2010",
+   "path": "ue/regulament/2010/409",
+   "short": "Regulamentul (UE) nr. 409/2010",
+   "title": "Regulamentul (UE) nr. 409/2010 al Comisiei din 11 mai 2010 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Castaña de Galicia (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0409",
+   "versions": [
+    {
+     "from": "2010-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/27532759-1ff6-4694-9eff-176482cc3bf2.0019.02/DOC_1",
+     "sha256": "4bd274d2a27f0b4c1b02547a046123ce42aaafc6c27486376a241914e9a2bb06"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-410-2010",
+   "path": "ue/regulament/2010/410",
+   "short": "Regulamentul (UE) nr. 410/2010",
+   "title": "Regulamentul (UE) nr. 410/2010 al Comisiei din 11 mai 2010 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Εξαιρετικό Παρθένο Ελαιόλαδο Σέλινο Κρήτης (Exeretiko partheno eleolado Selino Kritis) (DOP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0410",
+   "versions": [
+    {
+     "from": "2010-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5bc69de1-dde1-49eb-ab28-2cb5259dfefb.0019.02/DOC_1",
+     "sha256": "bedd7a84bdbc1e3c6d437e80fc60ba1d7e95fedaff7aed60dad6f34d81fab482"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-414-2010",
    "path": "ue/regulament/2010/414",
    "short": "Regulamentul (UE) nr. 414/2010",
@@ -1754,6 +3209,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/1cd4f6d3-4dd0-40a0-8cc5-09b3c95bea57.0019.02/DOC_1",
      "sha256": "c4caf35c7b3df4512708856233fa55298379e4b92326aa3bd63645b5a929f4d0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-415-2010",
+   "path": "ue/regulament/2010/415",
+   "short": "Regulamentul (UE) nr. 415/2010",
+   "title": "Regulamentul (UE) nr. 415/2010 al Comisiei din 12 mai 2010 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Tettnanger Hopfen (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0415",
+   "versions": [
+    {
+     "from": "2010-06-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/52e88268-2056-4024-bee6-9477162a0507.0019.02/DOC_1",
+     "sha256": "24c97af261077db7da9a303990cfa3d3cb923e063fb2ce58efe1f2e5b9b97b79"
     }
    ]
   },
@@ -1784,6 +3254,81 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/e47e6312-78d1-4f85-a033-616a08b9b20a.0019.02/DOC_1",
      "sha256": "3a1d7800cc8b80280fcb3929c99ed68dc3a74b314c547fc614577b3020547908"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-421-2010",
+   "path": "ue/regulament/2010/421",
+   "short": "Regulamentul (UE) nr. 421/2010",
+   "title": "Regulamentul (UE) nr. 421/2010 al Comisiei din 17 mai 2010 de modificare a Regulamentului (UE) nr. 53/2010 în ceea ce privește limitele de captură pentru capelin în apele Groenlandei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0421",
+   "versions": [
+    {
+     "from": "2010-05-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9eef8df0-cf38-40c3-ac3f-38b2c0bf0369.0019.02/DOC_1",
+     "sha256": "ff9c31530289319f76e3a1a59444a4862199a2c3a94f66ecdc66944fd410a625"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-428-2010",
+   "path": "ue/regulament/2010/428",
+   "short": "Regulamentul (UE) nr. 428/2010",
+   "title": "Regulamentul (UE) nr. 428/2010 al Comisiei din 20 mai 2010 de punere în aplicare a articolului 14 din Directiva 2009/16/CE a Parlamentului European și a Consiliului privind inspecțiile extinse ale navelor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0428",
+   "versions": [
+    {
+     "from": "2010-06-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/186f889f-e699-49fe-9fd6-3b1b1d582935.0019.02/DOC_1",
+     "sha256": "4d62d42a03c1b3ad392b1826fd1233ec816255eb16be83ff983bd230f295e4b7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-429-2010",
+   "path": "ue/regulament/2010/429",
+   "short": "Regulamentul (UE) nr. 429/2010",
+   "title": "Regulamentul (UE) nr. 429/2010 al Comisiei din 20 mai 2010 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Pemento de Oímbra (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0429",
+   "versions": [
+    {
+     "from": "2010-06-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0f2ae270-1e67-4c69-8b4b-fa859b6fc31e.0019.02/DOC_1",
+     "sha256": "41e5f57e7371d886e16ebb4b18b035be40c220e27e93c4e83be149cf3cf118dc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-440-2010",
+   "path": "ue/regulament/2010/440",
+   "short": "Regulamentul (UE) nr. 440/2010",
+   "title": "Regulamentul (UE) nr. 440/2010 al Comisiei din 21 mai 2010 privind taxele plătite Agenției Europene pentru Produse Chimice în conformitate cu Regulamentul (CE) nr. 1272/2008 al Parlamentului European și al Consiliului privind clasificarea, etichetarea și ambalarea substanțelor și a amestecurilor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0440",
+   "versions": [
+    {
+     "from": "2010-05-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/90bd5b87-91ee-4cf3-a53c-ac055cc2907d.0019.03/DOC_1",
+     "sha256": "d237d3b5b417fa1c9cb3da0f056ec9a70c434e71c799e604b7d98e0b2db701cf"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-441-2010",
+   "path": "ue/regulament/2010/441",
+   "short": "Regulamentul (UE) nr. 441/2010",
+   "title": "Regulamentul (UE) nr. 441/2010 al Comisiei din 21 mai 2010 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Canestrato di Moliterno (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0441",
+   "versions": [
+    {
+     "from": "2010-06-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d8ac0e96-aaf2-4526-b0c6-333ecec4a833.0019.02/DOC_1",
+     "sha256": "5ed8d6baa21fe2250c3d746af83a7a09046f21fe7c69270f5ece7360c633e6eb"
     }
    ]
   },
@@ -1878,6 +3423,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-454-2010",
+   "path": "ue/regulament/2010/454",
+   "short": "Regulamentul (UE) nr. 454/2010",
+   "title": "Regulamentul (UE) nr. 454/2010 al Comisiei din 26 mai 2010 privind măsuri tranzitorii aplicate în temeiul Regulamentului (CE) nr. 767/2009 în ceea ce privește dispozițiile privind etichetarea furajelor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0454",
+   "versions": [
+    {
+     "from": "2010-06-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0dc17c05-8f39-40a1-9cc4-1f432d797113.0019.02/DOC_1",
+     "sha256": "79e676a9ab5b5ffea3a47f3ef1a1c8f26c2c3118afa7138a53ce24e8a4dacbb9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-455-2010",
+   "path": "ue/regulament/2010/455",
+   "short": "Regulamentul (UE) nr. 455/2010",
+   "title": "Regulamentul (UE) nr. 455/2010 al Comisiei din 26 mai 2010 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0455",
+   "versions": [
+    {
+     "from": "2010-06-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/46c962c4-7814-4ca3-b997-78beea1797e2.0019.02/DOC_1",
+     "sha256": "b8b58f30d9c391aa2110b17ecd0d8c73b523f20231d4501558be95ff7bdbc6f7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-459-2010",
+   "path": "ue/regulament/2010/459",
+   "short": "Regulamentul (UE) nr. 459/2010",
+   "title": "Regulamentul (UE) nr. 459/2010 al Comisiei din 27 mai 2010 de modificare a anexelor II, III și IV la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește conținuturile maxime de reziduuri pentru anumite pesticide din sau de pe anumite produse (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0459",
+   "versions": [
+    {
+     "from": "2010-05-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1f45e2cd-c1f5-4848-92ac-6a94f36af7c5.0019.03/DOC_1",
+     "sha256": "909fbd179b55e5c1376a82a7f30cd03948682433e37b176f61b269ed19fdefc9"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-461-2010",
    "path": "ue/regulament/2010/461",
    "short": "Regulamentul (UE) nr. 461/2010",
@@ -1938,6 +3528,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-473-2010",
+   "path": "ue/regulament/2010/473",
+   "short": "Regulamentul (UE) nr. 473/2010",
+   "title": "Regulamentul (UE) nr. 473/2010 al Comisiei din 31 mai 2010 de instituire a unei taxe compensatorii provizorii privind importurile de anumite tipuri de polietilen tereftalat originare din Iran, Pakistan și Emiratele Arabe Unite",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0473",
+   "versions": [
+    {
+     "from": "2010-06-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ff69294d-416d-4342-8f0b-ae12e0cb85e7.0019.02/DOC_1",
+     "sha256": "8d23aa114ba4d051962a98fadc57d013a1ffefc9dd4f1df928d04b22f960b0c9"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-478-2010",
    "path": "ue/regulament/2010/478",
    "short": "Regulamentul (UE) nr. 478/2010",
@@ -1953,6 +3558,81 @@
    ]
   },
   {
+   "slug": "ue-regulament-479-2010",
+   "path": "ue/regulament/2010/479",
+   "short": "Regulamentul (UE) nr. 479/2010",
+   "title": "Regulamentul (UE) nr. 479/2010 al Comisiei din 1 iunie 2010 de stabilire a normelor de implementare a Regulamentului (CE) nr. 1234/2007 al Consiliului în ceea ce privește notificările statelor membre către Comisie în sectorul laptelui și produselor lactate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0479",
+   "versions": [
+    {
+     "from": "2010-06-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/716cf897-316f-4f99-a7e8-7f4cd20361b1.0019.02/DOC_1",
+     "sha256": "ee8cdafca514a72a02b9dec96c171c55f3691944353accf2a6a5ae60ad9b8b01"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-480-2010",
+   "path": "ue/regulament/2010/480",
+   "short": "Regulamentul (UE) nr. 480/2010",
+   "title": "Regulamentul (UE) nr. 480/2010 al Comisiei din 1 iunie 2010 de aprobare a unor modificări care nu sunt minore ale caietului de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Spressa delle Giudicarie (DOP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0480",
+   "versions": [
+    {
+     "from": "2010-06-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/049b9c7f-9ca4-40f8-b788-455c7563b2d8.0019.02/DOC_1",
+     "sha256": "e7ba0106442f87ee593fa16dbfd0db869d43f4629b03fbb6c8e7acfe4c1df2e4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-481-2010",
+   "path": "ue/regulament/2010/481",
+   "short": "Regulamentul (UE) nr. 481/2010",
+   "title": "Regulamentul (UE) nr. 481/2010 al Comisiei din 1 iunie 2010 de punere în aplicare a Regulamentului (CE) nr. 1177/2003 al Parlamentului European și al Consiliului privind statisticile comunitare referitoare la venit și la condițiile de viață (EU-SILC) în ceea ce privește lista pentru 2011 cu variabilele țintă secundare referitoare la transmiterea între generații a dezavantajelor (Text cu relevanță pentru SEE )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0481",
+   "versions": [
+    {
+     "from": "2010-06-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7043a484-5bde-41d7-a73e-8c5dc4b9ba80.0019.02/DOC_1",
+     "sha256": "7fc4f7ad9fb67d371953bdcd7004e586654fbf75ece6c54f723d95d8440ce5a3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-494-2010",
+   "path": "ue/regulament/2010/494",
+   "short": "Regulamentul (UE) nr. 494/2010",
+   "title": "Regulamentul (UE) nr. 494/2010 al Comisiei din 25 mai 2010 de modificare a anexei I la Regulamentul (CEE) nr. 2658/87 al Consiliului privind Nomenclatura tarifară și statistică și Tariful vamal comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0494",
+   "versions": [
+    {
+     "from": "2010-06-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ea4ded4a-ea81-4f12-ad9a-cec07164b61a.0019.02/DOC_1",
+     "sha256": "fe93d0a3666c5902bca13348ef50b4e6be2cbba29952978f57885b673c122e75"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-507-2010",
+   "path": "ue/regulament/2010/507",
+   "short": "Regulamentul (UE) nr. 507/2010",
+   "title": "Regulamentul (UE) nr. 507/2010 din 11 iunie 2010",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0507",
+   "versions": [
+    {
+     "from": "2010-06-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/42ea9576-6ce5-4ca8-9ec9-80238b40e71b.0019.02/DOC_1",
+     "sha256": "bfe36fb4ff527ed5ea7cf51b06cef8f4ff0bd3955092b8ce55dc725bf050035a"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-519-2010",
    "path": "ue/regulament/2010/519",
    "short": "Regulamentul (UE) nr. 519/2010",
@@ -1964,6 +3644,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/afc2692a-524d-436c-bc1d-3d99a0219af1.0019.02/DOC_1",
      "sha256": "e8d3ad234c7923488504d38f06293c6e1b7b252b53379d3a3a1f9fdc5f908e95"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-53-2010",
+   "path": "ue/regulament/2010/53",
+   "short": "Regulamentul CELEX 32010R0053",
+   "title": "Regulamentul (UE) nr. 23/2010 al Consiliului din 14 ianuarie 2010 de stabilire, pentru 2010, a posibilităților de pescuit pentru anumite resurse halieutice și grupe de resurse halieutice, aplicabile în apele UE și, pentru navele din UE, în ape în care sunt necesare limitări ale capturilor și de modificare a Regulamentelor (CE) nr. 1359/2008, (CE) nr. 754/2009, (CE) nr. 1226/2009 și (CE) nr. 1287/2009",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0053",
+   "versions": [
+    {
+     "from": "2010-01-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5eaf68b3-afd7-47b4-b688-429f04995066.0019.02/DOC_1",
+     "sha256": "d26c847e9f2e36f631b9d4e145bd9618a982c5aa840ec0616cd095c91d73c09a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-530-2010",
+   "path": "ue/regulament/2010/530",
+   "short": "Regulamentul (UE) nr. 530/2010",
+   "title": "Regulamentul (UE) nr. 530/2010 al Comisiei din 18 iunie 2010 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Gyulai kolbász/Gyulai pároskolbász (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0530",
+   "versions": [
+    {
+     "from": "2010-07-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0b558106-35b9-4e2d-80ab-1922245325d3.0019.02/DOC_1",
+     "sha256": "ac7272bb4ad34d685fba20071c4f2eb9ae8f8d6c971501d651c9d56925f605a5"
     }
    ]
   },
@@ -2013,6 +3723,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-557-2010",
+   "path": "ue/regulament/2010/557",
+   "short": "Regulamentul (UE) nr. 557/2010",
+   "title": "Regulamentul (UE) nr. 557/2010 al Comisiei din 24 iunie 2010 de modificare a Regulamentelor (CE) nr. 1518/2003, (CE) nr. 596/2004, (CE) nr. 633/2004, (CE) nr. 1345/2005, (CE) nr. 2014/2005, (CE) nr. 239/2007, (CE) nr. 1299/2007, (CE) nr. 543/2008, (CE) nr. 589/2008, (CE) nr. 617/2008 și (CE) nr. 826/2008 în ceea ce privește obligațiile de notificare în cadrul organizării comune a piețelor agricole",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0557",
+   "versions": [
+    {
+     "from": "2010-06-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/89978c52-812a-41c6-8507-d71339988480.0019.03/DOC_2",
+     "sha256": "5e14ee3cb2aedcaeb53ca9e9e41e0d091b9518cdae42724a9b4206ce9bf4bbdb"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-558-2010",
    "path": "ue/regulament/2010/558",
    "short": "Regulamentul (UE) nr. 558/2010",
@@ -2028,6 +3753,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-560-2010",
+   "path": "ue/regulament/2010/560",
+   "short": "Regulamentul (UE) nr. 560/2010",
+   "title": "Regulamentul (UE) nr. 560/2010 al Comisiei din 25 iunie 2010 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Farine de blé noir de Bretagne/Farine de blé noir de Bretagne – Gwinizh du Breizh (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0560",
+   "versions": [
+    {
+     "from": "2010-07-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/193a37ec-1493-4238-b03c-93c7693f7155.0019.02/DOC_1",
+     "sha256": "650ee3b76ebf9695900b4f0495250284b090552d93390c76029c1f08ae88011f"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-564-2010",
    "path": "ue/regulament/2010/564",
    "short": "Regulamentul (UE, Euratom) nr. 564/2010",
@@ -2039,6 +3779,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/d70f4543-1330-4149-8e75-8b7d099de944.0019.02/DOC_1",
      "sha256": "01e461a8feb62914015227fa0f376281b85ba43d9105e3d4e190ecfc7355a7d1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-568-2010",
+   "path": "ue/regulament/2010/568",
+   "short": "Regulamentul (UE) nr. 568/2010",
+   "title": "Regulamentul (UE) nr. 568/2010 al Comisiei din 29 iunie 2010 de modificare a anexei III la Regulamentul (CE) nr. 767/2009 al Parlamentului European și al Consiliului în ceea ce privește interzicerea introducerii pe piață sau a utilizării pentru nevoile nutriționale ale animalelor a produselor proteice obținute din drojdii de tip „Candida” cultivate pe n-alcani (Text cu relevanță pentru SEE )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0568",
+   "versions": [
+    {
+     "from": "2010-07-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bb81c65c-6307-4d65-8492-e0a2f6f9f768.0019.03/DOC_1",
+     "sha256": "7529835c01fa77e1661259423427c793999988f789d1af745cd10d9d163b8005"
     }
    ]
   },
@@ -2088,6 +3843,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-584-2010",
+   "path": "ue/regulament/2010/584",
+   "short": "Regulamentul (UE) nr. 584/2010",
+   "title": "Regulamentul (UE) nr. 584/2010 al Comisiei din 1 iulie 2010 de punere în aplicare a Directivei 2009/65/CE a Parlamentului European și a Consiliului în ceea ce privește forma și conținutul scrisorii standard de notificare și ale atestării OPCVM-urilor, utilizarea mijloacelor electronice de comunicare între autoritățile competente în scopul notificării, procedurile de efectuare a verificărilor la fața locului și a investigațiilor și schimbul de informații dintre autoritățile competente (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0584",
+   "versions": [
+    {
+     "from": "2010-07-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6a58b39b-a332-40dc-ae9e-44d57e05b302.0019.02/DOC_1",
+     "sha256": "26e695beb94c270d211c2e27ce746ef2b4b45707b3df5b7dfe8d76e9525cb68f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-586-2010",
+   "path": "ue/regulament/2010/586",
+   "short": "Regulamentul (UE) nr. 586/2010",
+   "title": "Regulamentul (UE) nr. 586/2010 al Comisiei din 2 iulie 2010 de modificare pentru a 130-a oară a Regulamentului (CE) nr. 881/2002 al Consiliului de instituire a unor măsuri restrictive specifice împotriva anumitor persoane și entități care au legătură cu Osama ben Laden, cu rețeaua Al-Quaida și cu talibanii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0586",
+   "versions": [
+    {
+     "from": "2010-07-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7ea8f45d-0274-4b6e-8b0f-9b7790deda93.0019.02/DOC_1",
+     "sha256": "a293146edc2d83e3c8f6dd334662b19cf5b645acf3a6391f75180a488f39e98c"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-588-2010",
    "path": "ue/regulament/2010/588",
    "short": "Regulamentul (UE) nr. 588/2010",
@@ -2118,6 +3903,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-590-2010",
+   "path": "ue/regulament/2010/590",
+   "short": "Regulamentul (UE) nr. 590/2010",
+   "title": "Regulamentul (UE) nr. 590/2010 al Comisiei din 5 iulie 2010 de modificare a Regulamentului (CE) nr. 474/2006 de stabilire a listei comunitare a transportatorilor aerieni care fac obiectul unei interdicții de exploatare pe teritoriul Comunității (Text cu relevanță pentru SEE )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0590",
+   "versions": [
+    {
+     "from": "2010-07-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4b957413-8a4a-4928-91e2-69a99028624a.0019.02/DOC_1",
+     "sha256": "5184dd8165c580b30a9eadf31de2488e3d60792729737ebdda0cb96c77570b72"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-593-2010",
    "path": "ue/regulament/2010/593",
    "short": "Regulamentul (UE) nr. 593/2010",
@@ -2133,6 +3933,81 @@
    ]
   },
   {
+   "slug": "ue-regulament-6-2010",
+   "path": "ue/regulament/2010/6",
+   "short": "Regulamentul (UE) nr. 6/2010",
+   "title": "Regulamentul (UE) nr. 6/2010 al Comisiei din 5 ianuarie 2010 privind deschiderea unei reexaminări a Regulamentelor (CE) nr. 1292/2007 și (CE) nr. 367/2006 ale Consiliului (care instituie taxe antidumping și taxe compensatorii definitive la importurile de folii din polietilen tereftalat (PET) originare din India și extind taxele respective la importurile produsului menționat expediate din, printre altele, Israel), pentru a examina posibilitatea de exceptare a unui exportator israelian de la măsurile respective, eliminarea taxei antidumping pentru importurile provenind de la acel exportator și de impunere a obligativității de înregistrare a importurilor provenind de la acel exportator",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0006",
+   "versions": [
+    {
+     "from": "2010-01-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9ddbc6f0-ec4a-46c9-8acc-a4cea6053e99.0019.02/DOC_1",
+     "sha256": "c5debf3d12582ac8ca87d96a2946b846ec55840d306917e6b7995df47d081398"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-600-2010",
+   "path": "ue/regulament/2010/600",
+   "short": "Regulamentul (UE) nr. 600/2010",
+   "title": "Regulamentul (UE) nr. 600/2010 al Comisiei din 8 iulie 2010 de modificare a anexei I la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește adăugările și modificările aduse exemplelor de varietăți înrudite sau de alte produse cărora li se aplică același CMR (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0600",
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e62f4cea-d8bf-4c57-9a51-9c3a7a0c2da3.0019.03/DOC_1",
+     "sha256": "6aa05081fb2b071586231742a9f86c6a05d666e2059fd19de1062570b417e84f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-606-2010",
+   "path": "ue/regulament/2010/606",
+   "short": "Regulamentul (UE) nr. 606/2010",
+   "title": "Regulamentul (UE) nr. 606/2010 al Comisiei din 9 iulie 2010 privind aprobarea unui instrument simplificat elaborat de organismul european pentru siguranța navigației aeriene (Eurocontrol) în vederea estimării consumului de combustibil al anumitor operatori aerieni mici emițători (Text cu relevanță pentru SEE )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0606",
+   "versions": [
+    {
+     "from": "2010-07-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4105a9d3-3bdf-45d6-8302-0de9f5816606.0019.02/DOC_1",
+     "sha256": "e9eb472eae3b663fd893462ef9fc686b9c53eda9ad9f904d406c9daff4c6728a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-611-2010",
+   "path": "ue/regulament/2010/611",
+   "short": "Regulamentul (UE) nr. 611/2010",
+   "title": "Regulamentul (UE) nr. 611/2010 al Comisiei din 12 iulie 2010 de aprobare a unor modificări minore ale caietului de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Basilico Genovese (DOP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0611",
+   "versions": [
+    {
+     "from": "2010-08-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cf5d8492-5583-4204-adc7-92f48ae122aa.0019.03/DOC_1",
+     "sha256": "8f5b59e0c3fb5546c141942f824898fe6688094abf8b8b327213c7d8283ecd3c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-612-2010",
+   "path": "ue/regulament/2010/612",
+   "short": "Regulamentul (UE) nr. 612/2010",
+   "title": "Regulamentul (UE) nr. 612/2010 al Comisiei din 12 iulie 2010 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Fasola korczyńska (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0612",
+   "versions": [
+    {
+     "from": "2010-08-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ab7f1511-ad5b-486f-adb1-8fc1bba1c1bb.0019.02/DOC_1",
+     "sha256": "6fa35b69ebab358505283dc54cc200dd6c83e605bf0d8b766c39025b4913e066"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-613-2010",
    "path": "ue/regulament/2010/613",
    "short": "Regulamentul (UE) nr. 613/2010",
@@ -2144,6 +4019,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/e8f01801-3b41-46e6-ae5a-687d1690bcb6.0019.02/DOC_1",
      "sha256": "8c4c74712f0e3416fc6be14a5cf9b5408a312a1b7e8379ff57c35ce5d024c882"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-621-2010",
+   "path": "ue/regulament/2010/621",
+   "short": "Regulamentul (UE) nr. 621/2010",
+   "title": "Regulamentul (UE) nr. 621/2010 al Consiliului din 3 iunie 2010 privind alocarea posibilităților de pescuit în temeiul Acordului de parteneriat în domeniul pescuitului dintre Uniunea Europeană și Insulele Solomon",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0621",
+   "versions": [
+    {
+     "from": "2010-07-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9d1b148b-a91c-47cf-8975-9daf6486829f.0022.03/DOC_1",
+     "sha256": "8d3e8d55471642174de2feb1af1084776eb4b8d448ee803bb7a2723f0d63dd48"
     }
    ]
   },
