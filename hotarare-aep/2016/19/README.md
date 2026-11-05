@@ -1,0 +1,15 @@
+# HOTĂRÂRE nr. 19 din 18 aprilie 2016 privind aprobarea Ghidului finanţării campaniei electorale la alegerile locale din anul 2016
+
+Hotărârea AEP nr. 19/2016 · 1 versions, from 2016-04-22 (latest in force: 2016-04-22) · <http://legislatie.just.ro/Public/DetaliiDocument/177853>
+
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Text | [text.md](text.md) | 0 |  |
+
+Act id: `hotarare-aep-19-2016` (tags `hotarare-aep-19-2016/<day>`; `python tools/on.py <day> hotarare-aep-19-2016`).
+
+## Decisions made by hand
+
+- Hotărârea AEP nr. 19/2016: added by Lexifina's electoral source lane from the official web service of the Portalul legislativ (document 177853), the act as published. Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.

@@ -1,0 +1,15 @@
+# HOTĂRÂRE nr. 16 din 6 aprilie 2016 privind condiţiile de aducere la cunoştinţă publică a delimitării şi a numerotării secţiilor de votare din ţară, precum şi a sediilor acestora
+
+Hotărârea AEP nr. 16/2016 · 1 versions, from 2016-04-11 (latest in force: 2016-04-11) · <http://legislatie.just.ro/Public/DetaliiDocument/177399>
+
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Text | [text.md](text.md) | 0 |  |
+
+Act id: `hotarare-aep-16-2016` (tags `hotarare-aep-16-2016/<day>`; `python tools/on.py <day> hotarare-aep-16-2016`).
+
+## Decisions made by hand
+
+- Hotărârea AEP nr. 16/2016: added by Lexifina's electoral source lane from the official web service of the Portalul legislativ (document 177399), the act as published. Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.

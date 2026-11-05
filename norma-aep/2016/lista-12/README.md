@@ -1,0 +1,15 @@
+# LISTA nr. 12 din 5 iulie 2016 partidelor politice, alianţelor politice, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi pentru care a fost depus raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 47 alin. (2) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, pentru alegerea autorităţilor administraţiei publice locale - turul II, desfăşurată conform Hotărârii Guvernului nr. 51/2016 privind stabilirea datei alegerilor locale din anul 2016
+
+Listă AEP nr. 12/2016 · 1 versions, from 2016-07-07 (latest in force: 2016-07-07) · <http://legislatie.just.ro/Public/DetaliiDocument/179882>
+
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Text | [text.md](text.md) | 0 |  |
+
+Act id: `norma-aep-lista-12-2016` (tags `norma-aep-lista-12-2016/<day>`; `python tools/on.py <day> norma-aep-lista-12-2016`).
+
+## Decisions made by hand
+
+- Listă AEP nr. 12/2016: added by Lexifina's electoral source lane from the official web service of the Portalul legislativ (document 179882), the act as published. Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
