@@ -201236,6 +201236,21 @@
    ]
   },
   {
+   "slug": "og-118-1998",
+   "path": "og/1998/118",
+   "short": "OG nr. 118/1998",
+   "title": "Ordonanța Guvernului nr. 118/1998 privind afilierea Ministerului Apărării Naţionale al României, ca membru asociat, la Consiliul Internaţional al Sportului Militar şi plata cotizaţiei anuale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15556",
+   "versions": [
+    {
+     "from": "1998-08-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15556",
+     "sha256": "1b8c26d34324cda7e23e0026f8b039b79040b76fcab730e375e9610927962070"
+    }
+   ]
+  },
+  {
    "slug": "og-118-2000",
    "path": "og/2000/118",
    "short": "OG nr. 118/2000",
@@ -201247,6 +201262,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24162",
      "sha256": "b2778d0beebdce1a9f3f04f503642182cba813703202e5d83d45ae6221945750"
+    }
+   ]
+  },
+  {
+   "slug": "og-119-1998",
+   "path": "og/1998/119",
+   "short": "OG nr. 119/1998",
+   "title": "Ordonanța Guvernului nr. 119/1998 pentru ratificarea Acordului sub forma de schimb de scrisori modificând Acordul sub forma de schimb de scrisori dintre România şi Comunitatea Europeană privind stabilirea reciprocă de contingente tarifare pentru anumite vinuri, efectuat la Bruxelles la 7 aprilie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15557",
+   "versions": [
+    {
+     "from": "1998-08-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15557",
+     "sha256": "d7a060e26d0561e5dda584335d110a81d2759c4a08e96be2e6aa4e54c31b0460"
     }
    ]
   },

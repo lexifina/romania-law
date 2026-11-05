@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12504 acts, 24,019 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12506 acts, 24,021 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -11363,7 +11363,7 @@
 | Ordonanța de urgență a Guvernului nr. 37/2026 pentru modificarea şi completarea Legii nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor şi protecţia persoanelor | [`oug/2026/37/`](oug/2026/37/) | amending act | 2 | 2026-05-06 | 2026-06-05 |
 | Ordonanța de urgență a Guvernului nr. 39/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 58/2023 privind unele măsuri pentru acordarea unei prime de carieră didactică pentru personalul didactic şi didactic auxiliar, precum şi unei prime de carieră profesională pentru personalul administrativ din învăţământul de stat, suportate din fonduri externe nerambursabile, precum şi pentru instituirea unor reglementări în vederea gestionării Programului Educaţie şi Ocupare 2021-2027 | [`oug/2026/39/`](oug/2026/39/) | amended, not consolidated | 1 | 2026-05-06 | 2026-05-06 |
 
-## Ordinances (OG) (1016, of which 120 amending acts)
+## Ordinances (OG) (1018, of which 120 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -11550,6 +11550,8 @@
 | Ordonanța Guvernului nr. 109/1998 pentru modificarea anexei la Legea nr. 156/1998 pentru ratificarea Acordului de împrumut dintre România şi Fondul pentru Cooperarea Economică Internaţională, Japonia, privind Proiectul de reabilitare a drumurilor, semnat la Tokyo la 27 februarie 1998 | [`og/1998/109/`](og/1998/109/) | amended, not consolidated | 1 | 1998-08-29 | 1998-08-29 |
 | Ordonanța Guvernului nr. 116/1998 privind instituirea regimului special pentru activitatea de transport maritim internaţional | [`og/1998/116/`](og/1998/116/) | amended, not consolidated | 1 | 1998-10-28 | 1998-10-28 |
 | Ordonanța Guvernului nr. 117/1998 pentru modificarea anexei la Ordonanţa de urgenţă a Guvernului nr. 7/1998 privind preţurile şi tarifele produselor şi serviciilor care se executa sau se prestează în ţara în cadrul activităţilor cu caracter de monopol natural, al celor supuse prin lege unui regim special sau al regiilor autonome, care se stabilesc cu avizul Oficiului Concurentei | [`og/1998/117/`](og/1998/117/) | amended, not consolidated | 1 | 1998-08-29 | 1998-08-29 |
+| Ordonanța Guvernului nr. 118/1998 privind afilierea Ministerului Apărării Naţionale al României, ca membru asociat, la Consiliul Internaţional al Sportului Militar şi plata cotizaţiei anuale | [`og/1998/118/`](og/1998/118/) | in force | 1 | 1998-08-29 | 1998-08-29 |
+| Ordonanța Guvernului nr. 119/1998 pentru ratificarea Acordului sub forma de schimb de scrisori modificând Acordul sub forma de schimb de scrisori dintre România şi Comunitatea Europeană privind stabilirea reciprocă de contingente tarifare pentru anumite vinuri, efectuat la Bruxelles la 7 aprilie 1998 | [`og/1998/119/`](og/1998/119/) | in force | 1 | 1998-08-29 | 1998-08-29 |
 | Ordonanța Guvernului nr. 120/1998 pentru ratificarea de către România a Convenţiei-cadru europene privind cooperarea transfrontaliera a colectivităţilor sau autorităţilor teritoriale, adoptată la Madrid la 21 mai 1980 | [`og/1998/120/`](og/1998/120/) | amended, not consolidated | 1 | 1998-08-31 | 1998-08-31 |
 | Ordonanța Guvernului nr. 121/1998 | [`og/1998/121/`](og/1998/121/) | in force | 4 | 1998-11-27 | 2024-01-09 |
 | Ordonanța Guvernului nr. 124/1998 | [`og/1998/124/`](og/1998/124/) | in force | 11 | 1998-09-28 | 2025-05-23 |
@@ -12570,7 +12572,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 28765 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 28821 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |
