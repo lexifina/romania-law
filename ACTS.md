@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12555 acts, 24,070 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12563 acts, 24,078 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8430, of which 3188 amending acts)
+## Laws (legi) (8438, of which 3196 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -464,12 +464,20 @@
 | Legea nr. 169/1997 | [`lege/1997/169/`](lege/1997/169/) | in force | 2 | 1997-11-04 | 2005-07-25 |
 | Legea nr. 171/1997 | [`lege/1997/171/`](lege/1997/171/) | in force | 1 | 1997-11-24 | 1997-11-24 |
 | Legea nr. 178/1997 | [`lege/1997/178/`](lege/1997/178/) | in force | 9 | 1997-11-10 | 2016-05-02 |
+| Legea nr. 187/1997 privind aprobarea Ordonanţei Guvernului nr. 12/1997 pentru ratificarea Acordului de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare privind ajustarea sectorului de protecţie socială, în suma de 50 milioane dolari S.U.A | [`lege/1997/187/`](lege/1997/187/) | amending act | 1 | 1997-11-24 | 1997-11-24 |
+| Legea nr. 188/1997 privind aprobarea Ordonanţei Guvernului nr. 36/1997 pentru ratificarea Acordului de împrumut dintre România şi Banca de Export-Import a Japoniei, în suma de 50 milioane dolari S.U.A., semnat la Tokyo la 14 iulie 1997 | [`lege/1997/188/`](lege/1997/188/) | amending act | 1 | 1997-11-24 | 1997-11-24 |
+| Legea nr. 189/1997 privind aprobarea Ordonanţei Guvernului nr. 33/1997 pentru ratificarea Acordului-cadru de cooperare financiară dintre România şi Banca Europeană de Investiţii, semnat la Luxembourg şi Bucureşti la 4 şi, respectiv, 5 iunie 1997 | [`lege/1997/189/`](lege/1997/189/) | amending act | 1 | 1997-11-24 | 1997-11-24 |
+| Legea nr. 190/1997 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 34/1997 privind sprijinul acordat de stat producătorilor agricoli pentru diminuarea pagubelor produse la culturile agricole calamitate ca urmare a condiţiilor meteorologice nefavorabile din luna iunie 1997 | [`lege/1997/190/`](lege/1997/190/) | amending act | 1 | 1997-11-24 | 1997-11-24 |
+| Legea nr. 192/1997 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 46/1997 privind constituirea fondului pentru preluarea graului din recolta anului 1997, necesar consumului intern | [`lege/1997/192/`](lege/1997/192/) | amending act | 1 | 1997-11-24 | 1997-11-24 |
+| Legea nr. 193/1997 pentru abrogarea Legii nr. 83/1993 privind sprijinul acordat de stat producătorilor agricoli, precum şi pentru abrogarea unor hotărâri ale Guvernului date în aplicarea acestei legi | [`lege/1997/193/`](lege/1997/193/) | amending act | 1 | 1997-11-24 | 1997-11-24 |
 | Legea nr. 194/1997 privind aprobarea Ordonanţei Guvernului nr. 61/1997 pentru modificarea şi completarea Legii nr. 27/1994 privind impozitele şi taxele locale, cu modificările ulterioare | [`lege/1997/194/`](lege/1997/194/) | amended, not consolidated | 1 | 1997-11-24 | 1997-11-24 |
 | Legea nr. 195/1997 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 32/1997 pentru modificarea şi completarea Legii nr. 31/1990 privind societăţile comerciale | [`lege/1997/195/`](lege/1997/195/) | amended, not consolidated | 1 | 1997-11-28 | 1997-11-28 |
 | Legea nr. 196/1997 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 40/1997 pentru modificarea şi completarea Legii locuinţei nr. 114/1996 | [`lege/1997/196/`](lege/1997/196/) | amended, not consolidated | 1 | 1997-11-26 | 1997-11-26 |
 | Legea nr. 197/1997 | [`lege/1997/197/`](lege/1997/197/) | in force | 1 | 1997-11-26 | 1997-11-26 |
 | Legea nr. 198/1997 pentru modificarea articolului 67 din Legea gospodăriei comunale nr. 4/1981 | [`lege/1997/198/`](lege/1997/198/) | amended, not consolidated | 1 | 1997-12-01 | 1997-12-01 |
 | Legea nr. 199/1997 pentru ratificarea Cartei europene a autonomiei locale, adoptată la Strasbourg la 15 octombrie 1985 | [`lege/1997/199/`](lege/1997/199/) | amended, not consolidated | 1 | 1997-11-26 | 1997-11-26 |
+| Legea nr. 200/1997 pentru aprobarea Ordonanţei Guvernului nr. 21/1997 privind instituirea sistemului de cupoane pentru agricultori | [`lege/1997/200/`](lege/1997/200/) | amending act | 1 | 1997-12-02 | 1997-12-02 |
+| Legea nr. 201/1997 privind aprobarea Ordonanţei Guvernului nr. 31/1997 pentru ratificarea Acordului de împrumut dintre România şi Banca Europeană de Investiţii şi Regia Autonomă de Exploatare a Metroului Bucureşti - Metrorex, semnat la Luxembourg şi Bucureşti la 18 şi, respectiv, la 20 decembrie 1996, şi a Acordului de împrumut dintre România şi Banca Europeană de Investiţii şi Regia Autonomă de Exploatare a Metroului Bucureşti - Metrorex, semnat la Luxembourg şi Bucureşti la 25 martie şi, respectiv, la 27 martie 1997 | [`lege/1997/201/`](lege/1997/201/) | amending act | 1 | 1997-12-03 | 1997-12-03 |
 | Legea nr. 202/1997 pentru denunţarea Convenţiei privind soluţionarea pe cale arbitrală a litigiilor de drept civil decurgând din raporturile de colaborare economică şi tehnico-ştiinţifică, adoptată la Moscova la 26 mai 1972 | [`lege/1997/202/`](lege/1997/202/) | in force | 1 | 1997-12-10 | 1997-12-10 |
 | Legea nr. 204/1997 privind aprobarea Ordonanţei Guvernului nr. 25/1997 pentru ratificarea Memorandumului de înţelegere - Programul de cooperare a Olandei cu România, 1997, semnat la Bucureşti la 25 februarie 1997 | [`lege/1997/204/`](lege/1997/204/) | amending act | 1 | 1997-12-10 | 1997-12-10 |
 | Legea nr. 205/1997 privind aprobarea Ordonanţei Guvernului nr. 38/1997 pentru ratificarea Acordului de împrumut dintre România şi Banca Europeană pentru Reconstrucţie şi Dezvoltare pentru finanţarea Proiectului privind conservarea energiei termice, semnat la Londra la 13 aprilie 1997 | [`lege/1997/205/`](lege/1997/205/) | amended, not consolidated | 1 | 1997-12-10 | 1997-12-10 |
@@ -12621,7 +12629,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 29209 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 29239 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |
