@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12588 acts, 24,103 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12596 acts, 24,111 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8460, of which 3203 amending acts)
+## Laws (legi) (8468, of which 3206 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -441,9 +441,17 @@
 | Legea nr. 111/1997 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 14/1997 pentru modificarea şi completarea articolului 16 din Legea nr. 129/1996 privind transportul pe căile ferate române | [`lege/1997/111/`](lege/1997/111/) | amended, not consolidated | 1 | 1997-07-07 | 1997-07-07 |
 | Legea nr. 117/1997 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Ungare privind protecţia reciprocă a schimbului de informaţii militare secrete de stat, semnat la Debretin la 17 februarie 1997 | [`lege/1997/117/`](lege/1997/117/) | amended, not consolidated | 1 | 1997-07-08 | 1997-07-08 |
 | Legea nr. 120/1997 | [`lege/1997/120/`](lege/1997/120/) | repealed 2001-04-01 | 2 | 1997-07-11 | 2001-04-01 |
+| Legea nr. 121/1997 pentru ratificarea Convenţiei dintre Guvernul României şi Guvernul Republicii Armenia pentru evitarea dublei impuneri şi prevenirea evaziunii fiscale cu privire la impozitele pe venit şi pe capital şi a Protocolului-anexa, semnate la Erevan la 25 martie 1996 | [`lege/1997/121/`](lege/1997/121/) | in force | 1 | 1997-07-15 | 1997-07-15 |
+| Legea nr. 122/1997 pentru ratificarea Convenţiei dintre Guvernul României şi Guvernul Federal al Republicii Federale Iugoslavia pentru evitarea dublei impuneri cu privire la impozitele pe venit şi pe capital, semnată la Belgrad la 16 mai 1996 | [`lege/1997/122/`](lege/1997/122/) | in force | 1 | 1997-07-15 | 1997-07-15 |
 | Legea nr. 123/1997 pentru modificarea şi completarea Ordonanţei Guvernului nr. 32/1995 privind timbrul judiciar | [`lege/1997/123/`](lege/1997/123/) | amended, not consolidated | 1 | 1997-07-11 | 1997-07-11 |
+| Legea nr. 124/1997 pentru ratificarea Acordului de cooperare economică şi tehnică dintre Guvernul României şi Guvernul Republicii Mozambic, semnat la Bucureşti la 18 septembrie 1996 | [`lege/1997/124/`](lege/1997/124/) | in force | 1 | 1997-07-15 | 1997-07-15 |
+| Legea nr. 125/1997 pentru ratificarea Acordului dintre România şi Republica Federala Germania privind promovarea şi protejarea reciprocă a investiţiilor de capital şi a protocolului-anexa, semnate la Bonn la 25 iunie 1996 | [`lege/1997/125/`](lege/1997/125/) | in force | 1 | 1997-07-14 | 1997-07-14 |
+| Legea nr. 126/1997 pentru ratificarea Convenţiei europene cu privire la efectele internaţionale ale interzicerii exercitării dreptului de a conduce un vehicul cu motor, adoptată la Bruxelles la 3 iunie 1976 | [`lege/1997/126/`](lege/1997/126/) | in force | 1 | 1997-07-14 | 1997-07-14 |
+| Legea nr. 127/1997 pentru modificarea şi completarea Legii nr. 53/1991 privind indemnizaţiile şi celelalte drepturi ale senatorilor şi deputaţilor, precum şi salarizarea personalului din aparatul Parlamentului României | [`lege/1997/127/`](lege/1997/127/) | amending act | 1 | 1997-07-10 | 1997-07-10 |
 | Legea nr. 128/1997 | [`lege/1997/128/`](lege/1997/128/) | in force | 5 | 1997-09-01 | 2011-01-01 |
 | Legea nr. 129/1997 | [`lege/1997/129/`](lege/1997/129/) | in force | 1 | 1997-07-16 | 1997-07-16 |
+| Legea nr. 130/1997 pentru modificarea unor prevederi din Decretul nr. 214/1977 privind pensiile militare de stat | [`lege/1997/130/`](lege/1997/130/) | amending act | 1 | 1997-07-17 | 1997-07-17 |
+| Legea nr. 131/1997 pentru modificarea şi completarea Legii nr. 75/1995 privind producerea, controlul calităţii, comercializarea şi folosirea seminţelor şi materialului săditor, precum şi înregistrarea soiurilor de plante agricole | [`lege/1997/131/`](lege/1997/131/) | amending act | 1 | 1997-07-17 | 1997-07-17 |
 | Legea nr. 133/1997 privind aprobarea Ordonanţei de urgenta a Guvernului nr. 17/1997 pentru modificarea şi completarea Ordonanţei Guvernului nr. 23/1995 privind instituirea sistemului de marcare pentru ţigarete, produse din tutun şi băuturi alcoolice | [`lege/1997/133/`](lege/1997/133/) | amended, not consolidated | 1 | 1997-07-18 | 1997-07-18 |
 | Legea nr. 134/1997 pentru abilitarea Guvernului de a emite ordonanţe | [`lege/1997/134/`](lege/1997/134/) | amended, not consolidated | 1 | 1997-07-24 | 1997-07-24 |
 | Legea nr. 135/1997 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 23/1997 pentru modificarea şi completarea Ordonanţei Guvernului nr. 26/1994 privind drepturile de hrana, în timp de pace, ale personalului din sectorul de apărare naţionala, ordine publică şi siguranţă naţionala | [`lege/1997/135/`](lege/1997/135/) | amending act | 1 | 1997-07-28 | 1997-07-28 |
@@ -12654,7 +12662,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 29479 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 29516 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |
