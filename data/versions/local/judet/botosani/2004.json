@@ -3,6 +3,336 @@
  "shard": "local/judet/botosani/2004",
  "acts": [
   {
+   "slug": "hcj-botosani-1-2004",
+   "path": "local/judet/botosani/2004/1",
+   "short": "HCJ Botoșani nr. 1/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 1/2004 privind alegerea Comisiei de validare",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-06-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h001_2004.06.22.pdf",
+     "sha256": "ac39b3996fb234b6d4e46015b4623eaef660b4a353ce76ae60774af03bfed8ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-10-2004",
+   "path": "local/judet/botosani/2004/10",
+   "short": "HCJ Botoșani nr. 10/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 10/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-07-12",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h010_2004.07.12.pdf",
+     "sha256": "15313f3a9515037fda3fae872bb9ce8574f40054f3808dbb80e3f37515272788"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-11-2004",
+   "path": "local/judet/botosani/2004/11",
+   "short": "HCJ Botoșani nr. 11/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 11/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-07-12",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h011_2004.07.12.pdf",
+     "sha256": "a869763439136cf254597653edeef1358bc7fba00bf4231bf38dc1997697d847"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-12-2004",
+   "path": "local/judet/botosani/2004/12",
+   "short": "HCJ Botoșani nr. 12/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 12/2004 privind aprobarea componentei nominale a comisiilor de specialitate pe domenii de activitate ale Consiliului Judetean Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-07-12",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h012_2004.07.12.pdf",
+     "sha256": "b78ec147a49426fe2b26998087e1cf6e2fb1df07e0ac59f670bce327215c4385"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-13-2004",
+   "path": "local/judet/botosani/2004/13",
+   "short": "HCJ Botoșani nr. 13/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 13/2004 privind aprobarea Regulamentului de organizare si functionare a Consiliului Judetean Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-07-12",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h013_2004.07.12.pdf",
+     "sha256": "3ffb3625869a16060f094b3932dbc4f571c3a4d1521c24d3cf4a8d9b52b03dac"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-134-2004",
+   "path": "local/judet/botosani/2004/134",
+   "short": "HCJ Botoșani nr. 134/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 134/2004 privind aprobarea functiilor publice, organigramei si statului de functii ale Serviciului Judetean de Asistenta Sociala, valabile cu 01.01.2004",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/134.pdf",
+     "sha256": "6d8680a02b67803a493213582a1ae236c09ee5cd620268f9a0f3dd39a26b91ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-14-2004",
+   "path": "local/judet/botosani/2004/14",
+   "short": "HCJ Botoșani nr. 14/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 14/2004 privind nominalizarea unui vicepresedinte si a 3 consilieri pentru a fi desemnati ca membri ai comitetului de organizare, in vederea constituirii autoritatii teritoriale de ordine publica din judetul Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-07-12",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h014_2004.07.12.pdf",
+     "sha256": "aecdecda37edd4e6f0a92784649dbeabfc1f0b40892099fc83ef48e0d01312f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-15-2004",
+   "path": "local/judet/botosani/2004/15",
+   "short": "HCJ Botoșani nr. 15/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 15/2004 privind organizarea si functionarea Scolii Populare de Arte si Meserii Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-03-03",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h015_2004.03.03.pdf",
+     "sha256": "fad2b5bfeb4a8369613c09ada71fa368a049ef55e13af26cebfcf08b09886045"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-16-2004",
+   "path": "local/judet/botosani/2004/16",
+   "short": "HCJ Botoșani nr. 16/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 16/2004 privind constituirea Comisiei de concurs pentru ocuparea postului de consilier juridic - gradul IA din cadrul aparatului permanent de lucru al Consiliului Judetean Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-07-12",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h016_2004.07.12.pdf",
+     "sha256": "3aa266caa49870c501c19dbd2b32354310dbabe71e01565c903ba4c14cef5422"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-2-2004",
+   "path": "local/judet/botosani/2004/2",
+   "short": "HCJ Botoșani nr. 2/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 2/2004 privind validarea mandatelor consilierilor judeteni din cadrul Consiliului Judetean Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-06-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h002_2004.06.22.pdf",
+     "sha256": "dc42d46ef5c93d76f5adebd2e2ae0621ddcf5aa802c39ea27998d1fe4a843824"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-23-2004",
+   "path": "local/judet/botosani/2004/23",
+   "short": "HCJ Botoșani nr. 23/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 23/2004 privind repartizarea sumei de 2.952.164,0 mii lei reprezentand lucrari si obiective finantate din fondurile Ministerului Transporturilor, Constructiilor si Turismului din transferuri de la bugetul de stat pe anul 2004 pentru Consiliul Local Vaculesti",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-08-16",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h023_2004.08.16.pdf",
+     "sha256": "778a582d8399797833f91808b8bf013bc342d3d8da670dedc4d96ecc48ec0e58"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-24-2004",
+   "path": "local/judet/botosani/2004/24",
+   "short": "HCJ Botoșani nr. 24/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 24/2004 privind desemnarea nominala si validarea membrilor \"Autoritatii Teritoriale de Ordine Publica\" din judetul Botosani si stabilirea pentru activitatile desfasurate in plen si in comisii a unei indemnizatii de sedinta",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-08-16",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h024_2004.08.16.pdf",
+     "sha256": "39b099581ee7150adf831d2fddd2d925f6ca7e8dcef213510680b06d531712d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-25-2004",
+   "path": "local/judet/botosani/2004/25",
+   "short": "HCJ Botoșani nr. 25/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 25/2004 privind preluarea in administrare si exploatare de catre RAJ \"APA\" Botosani a instalatiilor de alimentare cu apa din localitatile Cristesti si Ghilanesti, comuna Cristesti",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-09-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h025_2004.09.23.pdf",
+     "sha256": "d7c229f79d2d76caf543a6e6fed6c28f7b11fc9b1dbc16ead9ec290c3967b982"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-26-2004",
+   "path": "local/judet/botosani/2004/26",
+   "short": "HCJ Botoșani nr. 26/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 26/2004 privind preluarea in administrare si exploatare de catre RAJ \"APA\" Botosani a instalatiei de alimentare cu apa din localitatea Ripiceni, comuna Ripiceni",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-09-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h026_2004.09.23.pdf",
+     "sha256": "91b06a02aeb4cc845e4d3c7f46cfd286057bcaf29bed81143db12183c04daf23"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-27-2004",
+   "path": "local/judet/botosani/2004/27",
+   "short": "HCJ Botoșani nr. 27/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 27/2004 privind aprobarea modificarii programului de activitate pe anul 2004 al Centrului Judetean pentru Conservarea si Promovarea Culturii Traditionale Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-09-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h027_2004.09.23.pdf",
+     "sha256": "9c35f852c18dfc7b245b02d9b3cdb3af589144a82cb68acb15fe45ae471521d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-28-2004",
+   "path": "local/judet/botosani/2004/28",
+   "short": "HCJ Botoșani nr. 28/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 28/2004 privind preluarea in administrarea si exploatare de catre RAJ \"APA\" Botosani a unor obiective din com. MIHAI EMINESCU",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-03-03",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h028_2004.03.03.pdf",
+     "sha256": "55cd48b31e2f05dd9273cf5e0ae92d43a447fa9aab1e6e0dc7b782f94049cafd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-29-2004",
+   "path": "local/judet/botosani/2004/29",
+   "short": "HCJ Botoșani nr. 29/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 29/2004 privind aprobarea modificarii situatiei functiilor publice si a statului de functii ale Serviciului Judetean de Asistenta Sociala Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-09-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h029_2004.09.23.pdf",
+     "sha256": "054ce38e2a63a5a96d4b0e14df2ac92a6315563f21070b9ed4f11b2d18b2cb0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-3-2004",
+   "path": "local/judet/botosani/2004/3",
+   "short": "HCJ Botoșani nr. 3/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 3/2004 privind declararea Consiliului Judetean Botosani ca legal constituit",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-06-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h003_2004.06.22.pdf",
+     "sha256": "26ced2f786545f3dab2a0bb89a34a19aa4464301e86ceff1ef84a2a4efaf312f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-31-2004",
+   "path": "local/judet/botosani/2004/31",
+   "short": "HCJ Botoșani nr. 31/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 31/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-03-03",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h031_2004.03.03.pdf",
+     "sha256": "bc80fc2abfc6cb26b65511a7db153fdf9702c8e759658015e93f55dd39729a52"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-32-2004",
+   "path": "local/judet/botosani/2004/32",
+   "short": "HCJ Botoșani nr. 32/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 32/2004 privind rectificarea bugetului propriu judetean cu suma de 2.658 mii lei, atat la partea de venituri, cat si la partea de cheltuieli, pe anul 2011",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-05-11",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h032_30.03.2011.pdf",
+     "sha256": "3c94c30d455299896d8876325617ad427c4e2893ca843ee5e6ea08f8aca32b66"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-33-2004",
+   "path": "local/judet/botosani/2004/33",
+   "short": "HCJ Botoșani nr. 33/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 33/2004 privind aprobarea Regulamentului de organizare si functionare a serviciilor publice de alimentare cu apa si de canalizare",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-03-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h033_2004.03.26.pdf",
+     "sha256": "644ca1b26d13be647f8a2113a57a82e10dd7d6137bd1f1ea9560cdb31ea76523"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-34-2004",
+   "path": "local/judet/botosani/2004/34",
+   "short": "HCJ Botoșani nr. 34/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 34/2004 privind aprobarea reţelei şcolare a învăţământului special din Judeţul Botoşani, pentru anul şcolar 2014 - 2015",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-01-14",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h034_27.03.2014.pdf",
+     "sha256": "603d44e95d7e2aeddc54ff3b5484c1378696124a01b2e82c5d16f7b031263414"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-35-2004",
    "path": "local/judet/botosani/2004/35",
    "short": "HCJ Botoșani nr. 35/2004",
@@ -18,6 +348,96 @@
    ]
   },
   {
+   "slug": "hcj-botosani-36-2004",
+   "path": "local/judet/botosani/2004/36",
+   "short": "HCJ Botoșani nr. 36/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 36/2004 privind numirea reprezentantilor Consiliului Judetean Botosani in consiliile de administratie ale spitalelor de interes judetean",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-10-21",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h036_2004.10.21.pdf",
+     "sha256": "57f0898bc263cbc538362f6b9dce6118cea273401435675a2d730cc219eb51dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-37-2004",
+   "path": "local/judet/botosani/2004/37",
+   "short": "HCJ Botoșani nr. 37/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 37/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-03-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h037_2004.03.26.pdf",
+     "sha256": "3872f9fc46698bf5f1bbb0c259f4a26cb5c0aaf69392520f948d23b964d5214f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-39-2004",
+   "path": "local/judet/botosani/2004/39",
+   "short": "HCJ Botoșani nr. 39/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 39/2004 privind modificarea organigramei si statului de functii pe anul 2004 ale Corpului Gardienilor Publici Botosani si aprobarea drepturilor salariale ale sefului de corp",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-03-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h039_2004.03.26.pdf",
+     "sha256": "97d96854177c20a772d79c3cfab60e80baa7081c967e5ac3dc9ee50ef2ae9c58"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-40-2004",
+   "path": "local/judet/botosani/2004/40",
+   "short": "HCJ Botoșani nr. 40/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 40/2004 privind aprobarea functiilor publice, organigramei si statului de functii ale Directiei Judetene de Drumuri si Poduri Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-03-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h040_2004.03.26.pdf",
+     "sha256": "eeb665f3d42092467dda40702862d0d7c0528fbf3a23adee172c8167601b9076"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-41-2004",
+   "path": "local/judet/botosani/2004/41",
+   "short": "HCJ Botoșani nr. 41/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 41/2004 privind aprobarea Planului de analiză şi acoperire a riscurilor pe teritoriul judeţului Botoşani - actualizat în anul 2014",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-01-14",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h041_27.03.2014.pdf",
+     "sha256": "121e92295918f3114099249d06b99f1b6d823ea8f4d18a0e3ffa6dace1944a2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-42-2004",
+   "path": "local/judet/botosani/2004/42",
+   "short": "HCJ Botoșani nr. 42/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 42/2004 privind aprobarea Programului de ocupare temporară a forţei de muncă din rândul şomerilor pentru judeţul Botoşani, pe anul 2016",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-01-16",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h042_31.03.2016.pdf",
+     "sha256": "7b8c0517388834d180349e91ac75e03c91696a8fa4336a74f5b49f236424dcec"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-44-2004",
    "path": "local/judet/botosani/2004/44",
    "short": "HCJ Botoșani nr. 44/2004",
@@ -29,6 +449,336 @@
      "units": 1,
      "source_url": "https://www.cjbotosani.ro/files/h044_2004.10.21.pdf",
      "sha256": "2c71df58c0655194e266d3a4c405e449b3a4d496460bc3f6146209dd8f745611"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-45-2004",
+   "path": "local/judet/botosani/2004/45",
+   "short": "HCJ Botoșani nr. 45/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 45/2004 privind modificarea organigramei si statului de functii ale Memorialului Ipotesti - Centrul National de Studii \"Mihai Eminescu\", pentru anul 2009",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-03-09",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h045_25.03.2009.pdf",
+     "sha256": "fdc279ab5c8532bac5f82560bac749a01e9a447720f84e246a0392e1cb38ebf8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-46-2004",
+   "path": "local/judet/botosani/2004/46",
+   "short": "HCJ Botoșani nr. 46/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 46/2004 privind aprobarea bugetului propriu judetean, pe anul 2009",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-03-09",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h046_25.03.2009.pdf",
+     "sha256": "51836767deec9bfe82efe2ec2a9bd45be57db0415d3366c844f1fef032173352"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-47-2004",
+   "path": "local/judet/botosani/2004/47",
+   "short": "HCJ Botoșani nr. 47/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 47/2004 privind aprobarea modificarii organigramei si statului de functii ale Directiei Judetene de Drumuri si Poduri Botosani pe anul 2004, pentru personalul preluat din somaj",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-11-11",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h047_2004.11.11.pdf",
+     "sha256": "6a434339c0ebbef602f697a1405a35cc229f761a3afb416631301dd616e1287e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-49-2004",
+   "path": "local/judet/botosani/2004/49",
+   "short": "HCJ Botoșani nr. 49/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 49/2004 privind aprobarea documentatiei tehnico-economice pentru obiectivul de investitii \"Instalare centrala termica pe gaze naturale la Muzeul Memorial George Enescu, Dorohoi\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-05-14",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h049_2004.05.14.pdf",
+     "sha256": "ad57aa9aefc334688cf11a0e19eb4e7f16c4b826f93162c2e2959288a9c5b278"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-5-2004",
+   "path": "local/judet/botosani/2004/5",
+   "short": "HCJ Botoșani nr. 5/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 5/2004 privind alegerea Vicepresedintilor Consiliului Judetean Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-06-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h005_2004.06.22.pdf",
+     "sha256": "5bbae9cc5298a5b02f8869ce1c753172cbdbf1141d13c20a42c15e83e7c2c758"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-51-2004",
+   "path": "local/judet/botosani/2004/51",
+   "short": "HCJ Botoșani nr. 51/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 51/2004 privind angajarea Fondului de rulment existent la nivelul Consiliului Judetean Botosani, in suma de 12.000.000.000 lei, pentru finantarea lucrarilor de investitii ale Directiei Judetene de Drumuri si Poduri Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-05-14",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h051_2004.05.14.pdf",
+     "sha256": "f9f4ac309ae75e49e0bc16882ea1e6f3a1b291dd13c6425ddbe79450f17faadc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-55-2004",
+   "path": "local/judet/botosani/2004/55",
+   "short": "HCJ Botoșani nr. 55/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 55/2004 privind modificarea situatiei functiilor publice, organigramei si statului de functii ale Directiei Judetene de Drumuri si Poduri Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-05-14",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h055_2004.05.14.pdf",
+     "sha256": "8f59f79cff2c65b832752fd07307a8e8d7666ffe4b6f7c07a63cc2b464ae76c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-56-2004",
+   "path": "local/judet/botosani/2004/56",
+   "short": "HCJ Botoșani nr. 56/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 56/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-05-14",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h056_2004.05.14.pdf",
+     "sha256": "369453076fbabc16143ca214d327edb0a11bd4ad1ffe04e1dbf987003be2528f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-6-2004",
+   "path": "local/judet/botosani/2004/6",
+   "short": "HCJ Botoșani nr. 6/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 6/2004 privind aprobarea denumirii comisiilor de specialitate pe domenii de activitate ale Consiliului Judetean Botosani si a numarului de membri din cadrul acestora",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-06-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h006_2004.06.22.pdf",
+     "sha256": "87b6bba916d3265e1d5717e9c3e615e50db1e07738b85a8e8b5dbb9f64be9f03"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-61-2004",
+   "path": "local/judet/botosani/2004/61",
+   "short": "HCJ Botoșani nr. 61/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 61/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-06-11",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h061_2004.06.11.pdf",
+     "sha256": "220cf775f6c783833b28acecfc2d45e9fa26a05c7bc7031d0893ba220f8debc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-68-2004",
+   "path": "local/judet/botosani/2004/68",
+   "short": "HCJ Botoșani nr. 68/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 68/2004 privind preluarea institutiilor pentru persoanele cu handicap din judet si infiintarea, organizarea si functionarea Directiei Generale de Asistenta Sociala si Protectia Copilului Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-12-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h068_2004.12.23.pdf",
+     "sha256": "afe6042ad363eeb8b7055ac8c49cea685f93a3060038f4ff963857e5a117c5a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-69-2004",
+   "path": "local/judet/botosani/2004/69",
+   "short": "HCJ Botoșani nr. 69/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 69/2004 privind infiintarea, organizarea si functionarea Serviciului Public Comunitar de Evidenta a Persoanelor al judetului Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-12-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h069_2004.12.23.pdf",
+     "sha256": "0a89289ffca0ee45921980b2b2889a8892e52a45a6c7bf601c125731a88dc30f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-7-2004",
+   "path": "local/judet/botosani/2004/7",
+   "short": "HCJ Botoșani nr. 7/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 7/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-07-12",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h007_2004.07.12.pdf",
+     "sha256": "db3da23c2479deb1d8bd12c084229d90658b7d56a8be3ab1030490842cdecee4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-73-2004",
+   "path": "local/judet/botosani/2004/73",
+   "short": "HCJ Botoșani nr. 73/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 73/2004 privind infiintarea si aprobarea componentei Comisiei pentru Protectia Copilului Botosani, precum si a Regulamentului de functionare a acesteia",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-12-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h073_2004.12.23.pdf",
+     "sha256": "f3b3e7ed526967675a0cec68dd3d6a86ba4e8d7ec184c3e4e091aa906fdeaa7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-75-2004",
+   "path": "local/judet/botosani/2004/75",
+   "short": "HCJ Botoșani nr. 75/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 75/2004 privind aprobarea situațiilor financiare pe anul 2020",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-01-21",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H075_20210331.pdf",
+     "sha256": "e77b50c416f51385ee384f4180261bdbc05ba8002c3f6938bd628f49767daa00"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-79-2004",
+   "path": "local/judet/botosani/2004/79",
+   "short": "HCJ Botoșani nr. 79/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 79/2004 privind aprobarea Regulamentului de organizare si functionare a Consiliului Judetean Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-12-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h079_2004.12.23.pdf",
+     "sha256": "d3c0d5fc1ad3ac87073fb4c97aecefc56a7029b805eb05634215af48ef3feddd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-8-2004",
+   "path": "local/judet/botosani/2004/8",
+   "short": "HCJ Botoșani nr. 8/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 8/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-07-12",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h008_2004.07.12.pdf",
+     "sha256": "d397a9c932d2ef81226dca393fdef1fd8d79e8800795803f74ae0a7b8b9e56ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-82-2004",
+   "path": "local/judet/botosani/2004/82",
+   "short": "HCJ Botoșani nr. 82/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 82/2004 privind infiintarea Societatii Comerciale \"APA GRUP\" SA Botosani prin reorganizarea Regiei Autonome Judetene \"APA\" care se desfiinteaza",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-12-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h082_2004.12.27.pdf",
+     "sha256": "a69e508cd842b84a1be48a87defb19abbc56af60c9415ee4b8e5cccada1db018"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-84-2004",
+   "path": "local/judet/botosani/2004/84",
+   "short": "HCJ Botoșani nr. 84/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 84/2004 privind eliberarea acordului privind fuziunea si asocierea SC \"APA GRUP\" SA Botosani cu persoane juridice din subordinea autoritatilor locale in vederea crearii a unui operator regional si dezvoltarii serviciilor publice de alimentare cu apa si de canalizare",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-12-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h084_2004.12.27.pdf",
+     "sha256": "9fa1001c6b963c63a43897f067e4610ddbcdeafa633d6d48548cdfdc88ff9f44"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-85-2004",
+   "path": "local/judet/botosani/2004/85",
+   "short": "HCJ Botoșani nr. 85/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 85/2004 privind aprobarea administrarii si gestionarii serviciilor publice de alimentare cu apa si de canalizare in sistemul gestiunii delegate",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-12-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h085_2004.12.27.pdf",
+     "sha256": "c36f74f8a12085752d783617092b2f9725aa631775db57f509b6dd545a1d6cf0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-9-2004",
+   "path": "local/judet/botosani/2004/9",
+   "short": "HCJ Botoșani nr. 9/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 9/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-07-12",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h009_2004.07.12.pdf",
+     "sha256": "a22016e966d49ca40238940003ddab54ef04412af293939c909ef838b3342e64"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-97-2004",
+   "path": "local/judet/botosani/2004/97",
+   "short": "HCJ Botoșani nr. 97/2004",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 97/2004 privind rectificarea bugetului instituțiilor publice si activităților finanțate integral sau parțial din venituri proprii, modificarea bugetului propriu județean și efectuarea de modificări și corecții în Programul obiectivelor de investiții, aprobat pe anul 2025",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2004-11-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H097_20250411.pdf",
+     "sha256": "89267556cc5b7ffc5815e96e93486652b23e601c8314cb80c62ea56cfec1bd06"
     }
    ]
   }

@@ -3,6 +3,321 @@
  "shard": "local/judet/botosani/2009",
  "acts": [
   {
+   "slug": "hcj-botosani-1-2009",
+   "path": "local/judet/botosani/2009/1",
+   "short": "HCJ Botoșani nr. 1/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 1/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-01-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h001_27.01.2009.pdf",
+     "sha256": "4a4939e8259af9d99d74dde82ddc76ccd7da871a86c92d574e70566fc53fd5b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-10-2009",
+   "path": "local/judet/botosani/2009/10",
+   "short": "HCJ Botoșani nr. 10/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 10/2009 privind aprobarea inchirierii suprafetei de 110 mp pentru functionarea unui cabinet medical individual aflat in incinta Unitatii de Asistenta Medico-Sociale Suharau",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-01-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h010_27.01.2009.pdf",
+     "sha256": "f87b377f2efd4feae9a675e82a4048a618344b84a05549b05b194783c921f952"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-100-2009",
+   "path": "local/judet/botosani/2009/100",
+   "short": "HCJ Botoșani nr. 100/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 100/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-06-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h100_26.06.2009.pdf",
+     "sha256": "77ff2b89483d5e8587603a6942a5fdf6f58acedff44740eb1ee71580dc4e232d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-102-2009",
+   "path": "local/judet/botosani/2009/102",
+   "short": "HCJ Botoșani nr. 102/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 102/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h102_29.07.2009.pdf",
+     "sha256": "31a609f754cae787d64ec8c05e332a7d6e5165f164b62575ef0b8c26d503fc53"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-103-2009",
+   "path": "local/judet/botosani/2009/103",
+   "short": "HCJ Botoșani nr. 103/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 103/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h103_29.07.2009.pdf",
+     "sha256": "e6c008ef589fcd01f54e02e01f3af33334c4f0c58320b00cdc14519255ffaaa1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-104-2009",
+   "path": "local/judet/botosani/2009/104",
+   "short": "HCJ Botoșani nr. 104/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 104/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h104_29.07.2009.pdf",
+     "sha256": "59a15f87a912cc16ee80c1cbadebb248434b59928c713bcbfb4b645ff9941924"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-105-2009",
+   "path": "local/judet/botosani/2009/105",
+   "short": "HCJ Botoșani nr. 105/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 105/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h105_29.07.2009.pdf",
+     "sha256": "c4822fcc9c2b1cd5dcab5978bacebb6be2c6617ad99bca4075934c7d391a9180"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-106-2009",
+   "path": "local/judet/botosani/2009/106",
+   "short": "HCJ Botoșani nr. 106/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 106/2009 privind desemnarea unui reprezentant al Consiliului Judetean Botosani in Consiliul de administratie al Memorialului Ipotesti - Centrul National de Studii \"Mihai Eminescu\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h106_29.07.2009.pdf",
+     "sha256": "98daaba1b0648ea6e6ecc079c51752627814473daf5a0a87f96ce447e29d0c0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-107-2009",
+   "path": "local/judet/botosani/2009/107",
+   "short": "HCJ Botoșani nr. 107/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 107/2009 privind modificarea componentei Comisiei pentru Protectia Copilului Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h107_29.07.2009.pdf",
+     "sha256": "bd2da0d04fff26df6f004d9a92e053921bff546e7d94f47703bc8ec9d0be4678"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-108-2009",
+   "path": "local/judet/botosani/2009/108",
+   "short": "HCJ Botoșani nr. 108/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 108/2009 privind modificarea componentei Comisiei judetene de evaluare a persoanelor cu handicap pentru adulti",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h108_29.07.2009.pdf",
+     "sha256": "e9476e53b113d6a0b78282d9b6372a29075f06d1acd3a1b5ebc7aab473b50ce7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-109-2009",
+   "path": "local/judet/botosani/2009/109",
+   "short": "HCJ Botoșani nr. 109/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 109/2009 privind aprobarea solicitarii pentru trecerea bunului \"Muzeu\" si a terenului aferent in suprafata de 3460 mp, situate in localitatea Stefanesti, judetul Botosani din domeniul public al orasului Stefanesti in domeniul public al judetului Botosani si in administrarea Muzeului Judetean Botosan",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h109_29.07.2009.pdf",
+     "sha256": "15fd3385f98071ea87b329b81bd1d79ef9e1e042820b3d5fc4831b3218631bad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-11-2009",
+   "path": "local/judet/botosani/2009/11",
+   "short": "HCJ Botoșani nr. 11/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 11/2009 privind insusirea unor modificari survenite in structura inventarului bunurilor care alcatuiesc domeniul public al judetului Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-01-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h011_27.01.2009.pdf",
+     "sha256": "6c50f708aa99fe7e8ce3ecdab616da0c1f2533e05e8e46befb875523c5473807"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-111-2009",
+   "path": "local/judet/botosani/2009/111",
+   "short": "HCJ Botoșani nr. 111/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 111/2009 privind eliberarea acordului pentru preluarea tronsonului de drum \"Sector DRUM NATIONAL DN 29A - pozitia kilometrica 97+638-99+722\" din domeniul public al statului si din administrarea Ministerului Transporturilor si a Infrastructurii in domeniul public al judetului Botosani si in administr",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h111_29.07.2009.pdf",
+     "sha256": "c672d13eb1c3ab34d87068f91ab9ebe0f4575e4e8e3d8c8156be655d57a0e3fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-112-2009",
+   "path": "local/judet/botosani/2009/112",
+   "short": "HCJ Botoșani nr. 112/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 112/2009 privind aprobarea documentatiei de atribuire pentru concesionarea imobilului situat in str",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h112_29.07.2009.pdf",
+     "sha256": "af1af0bfa94fb1070ec607c8e6ab87c665f7be4c08e61f73980e0dec439c44f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-113-2009",
+   "path": "local/judet/botosani/2009/113",
+   "short": "HCJ Botoșani nr. 113/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 113/2009 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Reabilitarea si modernizare Centru de Ingrijire si Asistenta localitatea Adaseni, comuna Adaseni, judetul Botosani\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h113_29.07.2009.pdf",
+     "sha256": "fd2519c5c2eb86b38c39d18a3cca97066cbbf83eaa906e0885ea81bb6f9957cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-114-2009",
+   "path": "local/judet/botosani/2009/114",
+   "short": "HCJ Botoșani nr. 114/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 114/2009 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Reabilitare Centru de Plasament Prietenia Botosani, judetul Botosani\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h114_29.07.2009.pdf",
+     "sha256": "2d4eb0d87a7365bac006423f63ebb9bed385316aadd30355431aa47567603274"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-115-2009",
+   "path": "local/judet/botosani/2009/115",
+   "short": "HCJ Botoșani nr. 115/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 115/2009 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Reabilitare si valorificarea durabila a obiectivului de patrimoniu Complexul Monahal Cosula, judetul Botosani\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h115_29.07.2009.pdf",
+     "sha256": "a14ff2708958689ddf691d309c1f5936c17983f99c2528483488979585e9acc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-116-2009",
+   "path": "local/judet/botosani/2009/116",
+   "short": "HCJ Botoșani nr. 116/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 116/2009 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Reabilitarea Spitalului Judetean de Urgente Mavromati Botosani\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h116_29.07.2009.pdf",
+     "sha256": "c260f061c18d81e429971968084cd800cdd73da99431d28035a9c2b515b725dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-118-2009",
+   "path": "local/judet/botosani/2009/118",
+   "short": "HCJ Botoșani nr. 118/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 118/2009 privind rectificarea bugetului propriu judetean cu suma de 1.795,50 lei, atat la partea de venituri, cat si la partea de cheltuieli, pe anul 2010",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-02-10",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h118_02.09.2010.pdf",
+     "sha256": "1ac736999254afdbb0a9d653cb7bb714af14cc97fb0b9ead27dfd57e2c1515c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-122-2009",
+   "path": "local/judet/botosani/2009/122",
+   "short": "HCJ Botoșani nr. 122/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 122/2009 privind rectificarea bugetului propriu județean și efectuarea de modificări în Programul obiectivelor de investiții aprobat pe anul 2017",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-01-17",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h122_31.08.2017.pdf",
+     "sha256": "d111902695684040137dd643460818625373c9f3c295684ed6aa6f5e3c0db167"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-128-2009",
+   "path": "local/judet/botosani/2009/128",
+   "short": "HCJ Botoșani nr. 128/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 128/2009 privind participarea judetului Botosani, prin",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h128_29.07.2009.pdf",
+     "sha256": "a7754aec696a32a61f540760fba0c617637d438865de68528feecc383747090f"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-13-2009",
    "path": "local/judet/botosani/2009/13",
    "short": "HCJ Botoșani nr. 13/2009",
@@ -14,6 +329,186 @@
      "units": 1,
      "source_url": "https://www.cjbotosani.ro/files/h013_27.01.2009.pdf",
      "sha256": "a9202683d2d1ad94243341629cd63357533a70ea412018eb8597d59ae0c86bf9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-131-2009",
+   "path": "local/judet/botosani/2009/131",
+   "short": "HCJ Botoșani nr. 131/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 131/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-08-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h131_26.08.2009.pdf",
+     "sha256": "b8da4ec4faa23968dffceefafd04652ab17d3d49a569391e1184dcdb933dc3f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-132-2009",
+   "path": "local/judet/botosani/2009/132",
+   "short": "HCJ Botoșani nr. 132/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 132/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-08-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h132_26.08.2009.pdf",
+     "sha256": "d1c2435ef0891c2824084d360ded1c6f88871b4bd55516fc899b7606f923654a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-133-2009",
+   "path": "local/judet/botosani/2009/133",
+   "short": "HCJ Botoșani nr. 133/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 133/2009 privind modificarea componentei Comisiei pentru Protectia Copilului Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-08-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h133_26.08.2009.pdf",
+     "sha256": "dbdd8f0321e89643f4338adaf99c38bb9b84ec6d55bf319b3d47fb99d4c8320d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-134-2009",
+   "path": "local/judet/botosani/2009/134",
+   "short": "HCJ Botoșani nr. 134/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 134/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-08-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h134_26.08.2009.pdf",
+     "sha256": "a68168ac708b88b611df08c93d7cc25aa5046bcc408b6f446f6f104a9b2e5280"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-135-2009",
+   "path": "local/judet/botosani/2009/135",
+   "short": "HCJ Botoșani nr. 135/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 135/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-08-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h135_26.08.2009.pdf",
+     "sha256": "6a00324f19adc735547dbe5f7723d8557c4acffbb285b024b0294fbe493613e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-136-2009",
+   "path": "local/judet/botosani/2009/136",
+   "short": "HCJ Botoșani nr. 136/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 136/2009 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Reabilitare Centru de ingrijire si asistenta sociala, localitatea Dorohoi, judetul Botosani\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-08-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h136_26.08.2009.pdf",
+     "sha256": "56334dfa06201bff10ba0abbfe7ea3491151e5daf8ac609930d5d37a7b5376d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-137-2009",
+   "path": "local/judet/botosani/2009/137",
+   "short": "HCJ Botoșani nr. 137/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 137/2009 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Reabilitare Complex de Servicii pentru Copii in dificultate - Sf",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-08-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h137_26.08.2009.pdf",
+     "sha256": "8151bc3362c86157ddec68652a1e06889f4c460c0455899a25581acd9df18291"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-138-2009",
+   "path": "local/judet/botosani/2009/138",
+   "short": "HCJ Botoșani nr. 138/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 138/2009 privind rectificarea bugetului propriu județean și al instituțiilor publice și activităților finanțate integral sau parțial de venituri proprii, pe anul 2019",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-02-19",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H138_29082019.pdf",
+     "sha256": "88fe7658fa6cb406df2dcdb0a3606bcfb463e2b74a35deab563df1b21b0547dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-14-2009",
+   "path": "local/judet/botosani/2009/14",
+   "short": "HCJ Botoșani nr. 14/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 14/2009 privind desemnarea unui reprezentant al Consiliului Judetean Botosani in Consiliul de Administratie al Orchestrei Populare \"Rapsozii Botosanilor\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h014_26.02.2009.pdf",
+     "sha256": "16dc1f6dfbc28f92817be4724f4a54b246829285e923143b39209314894a36e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-141-2009",
+   "path": "local/judet/botosani/2009/141",
+   "short": "HCJ Botoșani nr. 141/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 141/2009 privind aprobarea modificarilor si completarilor inventarului bunurilor care apartin domeniului public al judetului Botosani, aflate in administrarea Unitatii de Asistenta Medico-Sociala Mihaileni, Directiei Generale de Asistenta Sociala si Protectia Copilului Botosani, Spitalului de copii",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-08-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h141_26.08.2009.pdf",
+     "sha256": "78992f620b45164dfbcdf52ea16acdfe8dc692dcfbadf2105f0103fdd3400f4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-144-2009",
+   "path": "local/judet/botosani/2009/144",
+   "short": "HCJ Botoșani nr. 144/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 144/2009 privind modificarea bugetului propriu judetean pe anul 2009",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-01-09",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h144_26.08.2009.pdf",
+     "sha256": "5e9a8b9928cd6ebc325f3d8e06b9d390bd437e7e49b71be14c65c2fd66e784b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-145-2009",
+   "path": "local/judet/botosani/2009/145",
+   "short": "HCJ Botoșani nr. 145/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 145/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-08-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h145_26.08.2009.pdf",
+     "sha256": "8ed49de1d0f83a38b55df1126a4cd09ff70b878c9327a0794597cce72933b08e"
     }
    ]
   },
@@ -33,6 +528,801 @@
    ]
   },
   {
+   "slug": "hcj-botosani-147-2009",
+   "path": "local/judet/botosani/2009/147",
+   "short": "HCJ Botoșani nr. 147/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 147/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-08-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h147_26.08.2009.pdf",
+     "sha256": "4536f1d693b045e06be75267121c4bbed42fb173c30991fa145bc99e57138ed1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-148-2009",
+   "path": "local/judet/botosani/2009/148",
+   "short": "HCJ Botoșani nr. 148/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 148/2009 privind rectificarea bugetului propriu judetean, pe anul 2009, cu suma de 2.694 mii lei",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-09-09",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h148_09.09.2009.pdf",
+     "sha256": "6f7e7a438d65e2d619dc68c7f349571971db0246a4349dba078f545c3345240a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-149-2009",
+   "path": "local/judet/botosani/2009/149",
+   "short": "HCJ Botoșani nr. 149/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 149/2009 privind aprobarea participarii Consiliului Judetean Botosani la Programul de imbunatatire a calitatii mediului prin impadurirea terenurilor agricole degradate",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-09-09",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h149_09.09.2009.pdf",
+     "sha256": "e985f0e07aa9531feaea4125d76191981126097d38256b85da977a7ac32ec5b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-15-2009",
+   "path": "local/judet/botosani/2009/15",
+   "short": "HCJ Botoșani nr. 15/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 15/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h015_26.02.2009.pdf",
+     "sha256": "b05fdc79a0e0dbdf871c8a241712a18fd4bf77dbdd01ea5f3a7104c172a9a7f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-150-2009",
+   "path": "local/judet/botosani/2009/150",
+   "short": "HCJ Botoșani nr. 150/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 150/2009 privind repartizarea cotei de 20% din sumele defalcate din taxa pe valoarea adaugata pentru echilibrarea bugetelor locale si din cota de 22% din impozitul pe venit, precum si a sumelor din impozitul pe venit si sume defalcate rezultate din aplicarea gradului de necolectare a veniturilor pro",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-09-16",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h150_16.09.2009.pdf",
+     "sha256": "8b940c8acc651650bfa018aa9d7f8a1460ce183a8385262e4790925bb6369254"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-151-2009",
+   "path": "local/judet/botosani/2009/151",
+   "short": "HCJ Botoșani nr. 151/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 151/2009 privind rectificarea bugetului propriu judetean, pe anul 2009, cu suma de 313 mii lei, atat la partea de venituri, cat si la partea de cheltuieli",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-09-16",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h151_16.09.2009.pdf",
+     "sha256": "bb3922f173ee47246e64c3b28dee344df7f999ecd5716a3759c638d05080bd34"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-153-2009",
+   "path": "local/judet/botosani/2009/153",
+   "short": "HCJ Botoșani nr. 153/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 153/2009 privind desemnarea unui reprezentant al Consiliului Judetean Botosani in Consiliul consultativ al Unitatii de Asistenta Medico-Sociala Mihaileni",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-09-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h153_30.09.2009.pdf",
+     "sha256": "2c3d29f3771090318663ebac23b9266b2add9f32ecca7373931d9afe7a7547b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-154-2009",
+   "path": "local/judet/botosani/2009/154",
+   "short": "HCJ Botoșani nr. 154/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 154/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-09-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h154_30.09.2009.pdf",
+     "sha256": "a60fec60e1cd4361728910968200b1a4eaba1b1c23bc8aecb1512be223e52a00"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-157-2009",
+   "path": "local/judet/botosani/2009/157",
+   "short": "HCJ Botoșani nr. 157/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 157/2009 privind aprobarea parteneriatului intre",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-09-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h157_30.09.2009.pdf",
+     "sha256": "1d7e167b7df27ecc41f508fa81101cc8c51440b104feffef029355e8c1b1558a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-16-2009",
+   "path": "local/judet/botosani/2009/16",
+   "short": "HCJ Botoșani nr. 16/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 16/2009 privind modificarea si completarea componentei comisiilor de specialitate ale Consiliului Judetean Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h016_26.02.2009.pdf",
+     "sha256": "9fd15301593b62245219ce56d2b708ac0b38777382569eff709212fdd9453280"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-161-2009",
+   "path": "local/judet/botosani/2009/161",
+   "short": "HCJ Botoșani nr. 161/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 161/2009 privind stabilirea costului mediu lunar de intretinere pentru asistatii din centrele rezidentiale publice pentru persoanele cu handicap din cadrul Directiei Generale de Asistenta Sociala si Protectia Copilului Botosani pentru perioada 1 octombrie 2009 - 30 septembrie 2010",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-10-01",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h161_30.09.2009.pdf",
+     "sha256": "b2e7b73d2ae6770471423fe85b10cebe3133a039e45e43c9116ebdf595823415"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-162-2009",
+   "path": "local/judet/botosani/2009/162",
+   "short": "HCJ Botoșani nr. 162/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 162/2009 privind stabilirea contributiei lunare de intretinere datorata de asistatii din centrele rezidentiale publice pentru persoanele cu handicap din cadrul Directiei Generale de Asistenta Sociala si Protectia Copilului Botosani pentru perioada 1 octombrie 2009 - 30 septembrie 2010",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-10-01",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h162_30.09.2009.pdf",
+     "sha256": "76c480bf401f80afc97c05124bb2d127c64e7c4103e8df9e3c5aec9ec546fc05"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-165-2009",
+   "path": "local/judet/botosani/2009/165",
+   "short": "HCJ Botoșani nr. 165/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 165/2009 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Punct de trecere a frontierei si a biroului vamal de frontiera la Radauti Prut, Judetul Botosani (Romania) - Lipcani (Republica Moldova)\" spatii si utilitati necesare pentru desfasurarea activitatii de control",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-10-12",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h165_12.10.2009.pdf",
+     "sha256": "e2710474b99dab9cd9458be266fd0b04a51e7b4ca6919f2bc59aec8d78e8ef7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-166-2009",
+   "path": "local/judet/botosani/2009/166",
+   "short": "HCJ Botoșani nr. 166/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 166/2009 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Punct de trecere a frontierei si a biroului vamal de frontiera la Radauti Prut, Judetul Botosani (Romania) - Lipcani (Republica Moldova)\" amenajare teren in vederea prevenirii riscului de inundabilitate si amen",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-10-12",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h166_12.10.2009.pdf",
+     "sha256": "5ad79f5fcff6eb4328032c96541f24d6fd211a15e208e85171e6c7cb8b0ca679"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-17-2009",
+   "path": "local/judet/botosani/2009/17",
+   "short": "HCJ Botoșani nr. 17/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 17/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h017_26.02.2009.pdf",
+     "sha256": "abfd31e9b377d732749ba131a14ddf23c86176f804251de723df4da1d87aea3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-173-2009",
+   "path": "local/judet/botosani/2009/173",
+   "short": "HCJ Botoșani nr. 173/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 173/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-10-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h173_26.10.2009.pdf",
+     "sha256": "6a0fc26f8fabe852cefbf3cab8d198b528ad2ff19ec76ef0b733254361d7ade7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-174-2009",
+   "path": "local/judet/botosani/2009/174",
+   "short": "HCJ Botoșani nr. 174/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 174/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-10-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h174_26.10.2009.pdf",
+     "sha256": "b4b2307b8272c46a5175efb8798e44c0ccc13294fa7a64fa3a933daf28e06e79"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-175-2009",
+   "path": "local/judet/botosani/2009/175",
+   "short": "HCJ Botoșani nr. 175/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 175/2009 privind modificarea componentei Comisiei de validare",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-10-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h175_26.10.2009.pdf",
+     "sha256": "ce63243177d9bea73daa4f10051a33a1e233d7c3fd0d8f01e2c6e4b0bbe28f71"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-176-2009",
+   "path": "local/judet/botosani/2009/176",
+   "short": "HCJ Botoșani nr. 176/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 176/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-10-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h176_26.10.2009.pdf",
+     "sha256": "a88178e5aacbe84f0aae94388e9cb737ff013893fedf40d4ada2301dd5e6ef7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-177-2009",
+   "path": "local/judet/botosani/2009/177",
+   "short": "HCJ Botoșani nr. 177/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 177/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-10-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h177_26.10.2009.pdf",
+     "sha256": "cd22f1a306012974d6c01a5ed00277d3dca77fa10da8d7773bd276df226612df"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-184-2009",
+   "path": "local/judet/botosani/2009/184",
+   "short": "HCJ Botoșani nr. 184/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 184/2009 privind trecerea unor bunuri imobile situate in localitatea Trusesti, judetul Botosani, din domeniul public al judetului Botosani si din administrarea Directiei Generale de Asistenta Sociala si Protectia Copilului Botosani, Directiei Generale a Finantelor Publice Botosani si Consiliului Loc",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-10-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h184_26.10.2009.pdf",
+     "sha256": "e7af5a5cf6417fb68f73550005aad63069813b9757ccee66577ac4df7c6b1278"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-186-2009",
+   "path": "local/judet/botosani/2009/186",
+   "short": "HCJ Botoșani nr. 186/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 186/2009 privind completarea Regulamentului de organizare si functionare al Centrului Judetean pentru Conservarea si Promovarea Culturii Traditionale Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-10-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h186_26.10.2009.pdf",
+     "sha256": "dbe9ed8bf03bda162aef05825580a68fea8379350b3b27dfc9e7d4cd44e218fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-188-2009",
+   "path": "local/judet/botosani/2009/188",
+   "short": "HCJ Botoșani nr. 188/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 188/2009 privind aprobarea organigramelor si statelor de functii ale unitatilor invatamantului special de sub autoritatea Consiliului Judetean Botosani, pentru anul scolar 2009-2010",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-10-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h188_26.10.2009.pdf",
+     "sha256": "3ac173acf08ba759c3520a879faf3ccae5f2a415f41aa4feedd5ca88c9ec632c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-189-2009",
+   "path": "local/judet/botosani/2009/189",
+   "short": "HCJ Botoșani nr. 189/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 189/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-10-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h189_26.10.2009.pdf",
+     "sha256": "c723367834231c9fe773c4a6cbeb27d0997cfb36a526225873b2e4256fe69d86"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-19-2009",
+   "path": "local/judet/botosani/2009/19",
+   "short": "HCJ Botoșani nr. 19/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 19/2009 privind aprobarea inventarului unor bunuri apartinand domeniului public al judetului Botosani si aflate in administrarea Directiei Generale de Asistenta Sociala si Protectia Copilului in care isi desfasoara activitatea Centrul de plasament \"Prietenia\" din municipiul Botosani str",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h019_26.02.2009.pdf",
+     "sha256": "166ffd2fba69f68de71f35f5095f3f7043f5d32fa3eb44a34bfecefc44204647"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-190-2009",
+   "path": "local/judet/botosani/2009/190",
+   "short": "HCJ Botoșani nr. 190/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 190/2009 privind rectificarea bugetului fondului de rulment, pe anul 2009",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-10-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h190_26.10.2009.pdf",
+     "sha256": "5dd1cc5c39efba2110d5ad55b210c5bebe85171b95edb6d5b2005508b66f5159"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-191-2009",
+   "path": "local/judet/botosani/2009/191",
+   "short": "HCJ Botoșani nr. 191/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 191/2009 privind rectificarea bugetului propriu judetean, pe anul 2009",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-10-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h191_26.10.2009.pdf",
+     "sha256": "fb12e5b8f1607ada7c633bba6d3e541396315922603d9c932d0519b984293f9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-193-2009",
+   "path": "local/judet/botosani/2009/193",
+   "short": "HCJ Botoșani nr. 193/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 193/2009 privind aprobarea Protocolului de predare-preluare a terenului in suprafata de 15.600 mp, situat in extravilanul comunei Radauti Prut, din domeniul privat al comunei Radauti Prut si din administrarea Consiliului Local al comunei Radauti Prut in domeniul public al judetului Botosani si in ad",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-10-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h193_26.10.2009.pdf",
+     "sha256": "11e2bd184ffa7600a609286aa7e5a9787a1129043d2fc07e2fdfe2105cf2d229"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-194-2009",
+   "path": "local/judet/botosani/2009/194",
+   "short": "HCJ Botoșani nr. 194/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 194/2009 privind transmiterea terenului in suprafata de 1.200,01 mp teren cu valoarea de 3.519,29 lei, situat in localitatea Adaseni, judetul Botosani, aflat in domeniul public al judetului Botosani, din administrarea Directiei Generale de Asistenta Sociala si Protectia Copilului Botosani in adminis",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-10-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h194_26.10.2009.pdf",
+     "sha256": "9853f87cf6884c4921f85288105462a36c6ecce2de3cc11e89484ccf9308f443"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-195-2009",
+   "path": "local/judet/botosani/2009/195",
+   "short": "HCJ Botoșani nr. 195/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 195/2009 privind rectificarea bugetului propriu judetean cu suma de 5.000 mii lei, atat la partea de venituri, cat si la partea de cheltuieli, pe anul 2009",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-10-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h195_28.10.2009.pdf",
+     "sha256": "b9b2b7f0267b8741b4ff85a6a6279db0c3f03b5f7566b2aa4bd09a804b50dc46"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-197-2009",
+   "path": "local/judet/botosani/2009/197",
+   "short": "HCJ Botoșani nr. 197/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 197/2009 privind angajarea fondului de rezerva constituit la nivelul bugetului propriu judetean, pe anul 2009 si alocarea sumei de 93.500 lei comunei Vlasinesti",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-11-12",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h197_12.11.2009.pdf",
+     "sha256": "e893eafd93272a50b35362368cb56a0e4dca1986ad25b5388d24352c27f9c191"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-198-2009",
+   "path": "local/judet/botosani/2009/198",
+   "short": "HCJ Botoșani nr. 198/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 198/2009 privind desemnarea unui reprezentant al Consiliului Judetean Botosani in Consiliul de Administratie al Bibliotecii Judetene \"Mihai Eminescu\" Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-11-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h198_30.11.2009.pdf",
+     "sha256": "b30cc2c1ceec67198d2ecc919fd4d8dcc13c2a9f0fe6e095c283455dccd9a76c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-199-2009",
+   "path": "local/judet/botosani/2009/199",
+   "short": "HCJ Botoșani nr. 199/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 199/2009 privind delegarea unui reprezentant al asiguratilor din judetul Botosani in Adunarea Reprezentantilor Casei Nationale de Asigurari de Sanatate",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-11-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h199_30.11.2009.pdf",
+     "sha256": "bce11bf32fabbb71e0e9524332d48b4650edf555200501298f475a2835071df3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-2-2009",
+   "path": "local/judet/botosani/2009/2",
+   "short": "HCJ Botoșani nr. 2/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 2/2009 privind desemnarea unui reprezentant al Consiliului Judetean Botosani in Consiliul consultativ al Sanatoriului de Neuropsihiatrie Podriga",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-01-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h002_27.01.2009.pdf",
+     "sha256": "21387ef8858032f252350642a0d8fb59d5b9b6836c3a8c9f9c7ca6a6b93fbfdb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-20-2009",
+   "path": "local/judet/botosani/2009/20",
+   "short": "HCJ Botoșani nr. 20/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 20/2009 privind aprobarea inventarului bunurilor care apartin domeniului public al judetului Botosani, aflate in administrarea Spitalului Judetean de Urgenta \"Mavromati\" Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h020_26.02.2009.pdf",
+     "sha256": "5d29091ef520e9a9143c4500c444feced1bc2cd5c1b7ed042dc3d27af78cba1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-200-2009",
+   "path": "local/judet/botosani/2009/200",
+   "short": "HCJ Botoșani nr. 200/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 200/2009 privind desemnarea si validarea unor membri in Autoritatea Teritoriala de Ordine Publica Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-11-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h200_30.11.2009.pdf",
+     "sha256": "60288bd3da17ff9f8fbb56e5ea76d382732c16e5c16333e4917d43f8ef96513d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-201-2009",
+   "path": "local/judet/botosani/2009/201",
+   "short": "HCJ Botoșani nr. 201/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 201/2009 privind desemnarea unui reprezentant al Consiliului Judetean Botosani in Comitetul judetean de coordonare al centrelor de permanenta",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-11-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h201_30.11.2009.pdf",
+     "sha256": "ab257b7bf2b894cc7477984739be1d66ad28a7d00906de6ecaab5e49a372704e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-202-2009",
+   "path": "local/judet/botosani/2009/202",
+   "short": "HCJ Botoșani nr. 202/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 202/2009 privind desemnarea unor reprezentanti ai Consiliului Judetean Botosani in Consiliul Etic si Consiliul Consultativ al Spitalului Judetean de Urgenta \"Mavromati\" Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-11-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h202_30.11.2009.pdf",
+     "sha256": "5b5e6ce2a394e041314ea1795926b7da1ed29dfc5dddbee208112623f84aa63a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-203-2009",
+   "path": "local/judet/botosani/2009/203",
+   "short": "HCJ Botoșani nr. 203/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 203/2009 privind desemnarea unor reprezentanti ai Consiliului Judetean Botosani in Consiliile consultative ale Unitatilor de Asistenta Medico-Sociala Sulita si Suharau",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-11-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h203_30.11.2009.pdf",
+     "sha256": "7d25b5bca4755fdb8a6af50db82f73ffb61852e2826c238916761b87f93b21a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-208-2009",
+   "path": "local/judet/botosani/2009/208",
+   "short": "HCJ Botoșani nr. 208/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 208/2009 privind modificarea organigramei si statului de functii pentru personalul preluat din somaj pe anul 2009, ale Directiei Judetene de Drumuri si Poduri Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-11-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h208_30.11.2009.pdf",
+     "sha256": "0464d6b96a1ba7725367d68398ee5265972169d1a8c0197f1f1e1f870b48e253"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-21-2009",
+   "path": "local/judet/botosani/2009/21",
+   "short": "HCJ Botoșani nr. 21/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 21/2009 privind aprobarea inventarului unor bunuri apartinand domeniului privat al judetului Botosani in care isi desfasoara activitatea cabinetele medicale",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h021_26.02.2009.pdf",
+     "sha256": "f35db4dc2293f5ce45537b96f727a98077ab8c6403893fd2eed4d63ea8a1ae31"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-210-2009",
+   "path": "local/judet/botosani/2009/210",
+   "short": "HCJ Botoșani nr. 210/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 210/2009 privind angajarea fondului de rezerva constituit la nivelul bugetului propriu judetean, in suma de 24.500 lei, pe anul 2009, prin alocarea sumei de 12.250 lei comunei Copalau si sumei de 12.250 lei comunei Stauceni",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-11-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h210_30.11.2009.pdf",
+     "sha256": "4fcdb359687008a4fc0d2993e94c0bfb3d36a28cd732f50fca1a9332102b25e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-214-2009",
+   "path": "local/judet/botosani/2009/214",
+   "short": "HCJ Botoșani nr. 214/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 214/2009 privind aprobarea asocierii Judetului Botosani cu Comuna Mihalaseni pentru implementarea Programului de imbunatatire a calitatii mediului prin impadurirea terenurilor agricole degradate",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-11-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h214_30.11.2009.pdf",
+     "sha256": "743bace69eec910661ca97be47541127cce626427a8072f545dcb92ceef2847e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-215-2009",
+   "path": "local/judet/botosani/2009/215",
+   "short": "HCJ Botoșani nr. 215/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 215/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-11-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h215_30.11.2009.pdf",
+     "sha256": "643381420353e4b0008ec9d9b5e320679951761b0c8e187808779d327b62a645"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-216-2009",
+   "path": "local/judet/botosani/2009/216",
+   "short": "HCJ Botoșani nr. 216/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 216/2009 privind rectificarea bugetului propriu judetean, pe anul 2009, atat la partea de venituri, cat si la partea de cheltuieli, cu suma de 2.574 mii lei",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-12-11",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h216_11.12.2009.pdf",
+     "sha256": "be8d1a15e2ffac116f39e715d5cbb6f4397cd7332285f1a46edcf546b2227123"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-217-2009",
+   "path": "local/judet/botosani/2009/217",
+   "short": "HCJ Botoșani nr. 217/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 217/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-12-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h217_22.12.2009.pdf",
+     "sha256": "5ad0e763d17112681087859bfa96875c78f55cba69af10d4878a671bd36b37db"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-218-2009",
+   "path": "local/judet/botosani/2009/218",
+   "short": "HCJ Botoșani nr. 218/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 218/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-12-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h218_22.12.2009.pdf",
+     "sha256": "feced8630ae9489cd1eb49b42a8df014fed056e0b18ed7208b207edf88df54d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-219-2009",
+   "path": "local/judet/botosani/2009/219",
+   "short": "HCJ Botoșani nr. 219/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 219/2009 privind completarea componentei Comisiei pentru servicii publice si comert a Consiliului Judetean Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-12-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h219_22.12.2009.pdf",
+     "sha256": "82d72c3aaf036df1a5b8af8d50fc494f836c3fb0bb3861ab653386bb591508ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-22-2009",
+   "path": "local/judet/botosani/2009/22",
+   "short": "HCJ Botoșani nr. 22/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 22/2009 privind trecerea unor bunuri aflate in concesionarea SC \"APA GRUP\" SA Botosani din domeniul public al judetului Botosani in domeniul privat al judetului Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h022_26.02.2009.pdf",
+     "sha256": "bb3729d2f4efdea88832ffc0ccf8bb0eb6b9d48cd56a1a575ab437053a26a309"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-220-2009",
+   "path": "local/judet/botosani/2009/220",
+   "short": "HCJ Botoșani nr. 220/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 220/2009 privind desemnarea unui reprezentant al Consiliului Judetean Botosani in Colegiul director al Directiei Generale de Asistenta Sociala si Protectia Copilului Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-12-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h220_22.12.2009.pdf",
+     "sha256": "67c7bc9cda7ca9f1486cf6930d570ba9a3a2980ee860141f3e30783dd45df5ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-221-2009",
+   "path": "local/judet/botosani/2009/221",
+   "short": "HCJ Botoșani nr. 221/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 221/2009 privind desemnarea unor reprezentanti ai Consiliului Judetean Botosani in Consiliile Consultative ale Spitalului de Copii Botosani si Sanatoriului de Neuropsihiatrie Podriga",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-12-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h221_22.12.2009.pdf",
+     "sha256": "b6d48bc3b65a664059aac4671b9de1528a4a36b271f72dcf99767fcbce957295"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-222-2009",
+   "path": "local/judet/botosani/2009/222",
+   "short": "HCJ Botoșani nr. 222/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 222/2009 privind desemnarea unui membru in Consiliul de Administratie al Casei de Asigurari de Sanatate a Judetului Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-12-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h222_22.12.2009.pdf",
+     "sha256": "ad54e9ecf2926b7e1673b898fec7fb2d89d069b26579611b73972f936df89be0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-223-2009",
+   "path": "local/judet/botosani/2009/223",
+   "short": "HCJ Botoșani nr. 223/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 223/2009 privind modificarea componentei Comisiei pentru Protectia Copilului Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-12-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h223_22.12.2009.pdf",
+     "sha256": "2e0fd33ef2a7da74655c9bb41c45d61e4fd18db479219734cc4d68b805d0be3b"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-225-2009",
    "path": "local/judet/botosani/2009/225",
    "short": "HCJ Botoșani nr. 225/2009",
@@ -44,6 +1334,201 @@
      "units": 1,
      "source_url": "https://www.cjbotosani.ro/files/h225_22.12.2009.pdf",
      "sha256": "158743d393a137d9500a3efaca06885914dd24688f2d86578689839a22afce4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-227-2009",
+   "path": "local/judet/botosani/2009/227",
+   "short": "HCJ Botoșani nr. 227/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 227/2009 privind aprobarea Master Planului pentru servicii de apa si canal - judetul Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-12-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h227_22.12.2009.pdf",
+     "sha256": "86e5d67e5db28549a94fe44bc0e078c428580e142c199187a13312889b8407fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-228-2009",
+   "path": "local/judet/botosani/2009/228",
+   "short": "HCJ Botoșani nr. 228/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 228/2009 privind rectificarea bugetului propriu judetean cu suma de 17 mii lei, atat la partea de venituri, cat si la partea de cheltuieli, pe anul 2009",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-12-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h228_22.12.2009.pdf",
+     "sha256": "6e3758b9dd10bfbe1395b5b65131b9f4fdbb2b2f5a29a54622869d4313e991c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-25-2009",
+   "path": "local/judet/botosani/2009/25",
+   "short": "HCJ Botoșani nr. 25/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 25/2009 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Restaurarea si valorificarea durabila a patrimoniului cultural precum si crearea/modernizarea infrastructurilor conexe din zona \"Casei Ventura\" din municipiul Botosani in vederea amenajarii Muzeului Etnografic",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h025_26.02.2009.pdf",
+     "sha256": "dc0e5fce54266d0ea807778cb780237dbe59fae6a06fced1e18bfaec07400ce4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-27-2009",
+   "path": "local/judet/botosani/2009/27",
+   "short": "HCJ Botoșani nr. 27/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 27/2009 privind aprobarea Planului de Analiza si Acoperire a Riscurilor pe teritoriul judetului Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-03-09",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h027_09.03.2009.pdf",
+     "sha256": "289e00e70a3bfb174eda9901686ff77c42e0a2e300bb12cf9d3876315f48288b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-28-2009",
+   "path": "local/judet/botosani/2009/28",
+   "short": "HCJ Botoșani nr. 28/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 28/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-03-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h028_25.03.2009.pdf",
+     "sha256": "b6652bc4c30260b91a52166504387e01de359bf4844aef7b054a6f766f812c59"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-29-2009",
+   "path": "local/judet/botosani/2009/29",
+   "short": "HCJ Botoșani nr. 29/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 29/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-03-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h029_25.03.2009.pdf",
+     "sha256": "dceb5c34b95abf80086c842fdabff05a7252632bf26d922eba3db93c558b4b9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-3-2009",
+   "path": "local/judet/botosani/2009/3",
+   "short": "HCJ Botoșani nr. 3/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 3/2009 privind desemnarea unor reprezentanti ai Consiliului Judetean Botosani in Consiliile consultative ale Unitatilor de Asistenta Medico-Sociala Sulita si Suharau",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-01-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h003_27.01.2009.pdf",
+     "sha256": "086264aa56da0673bd54efd8243cebba3c3fe2e7e14d4ddda0475ebe97148cf3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-31-2009",
+   "path": "local/judet/botosani/2009/31",
+   "short": "HCJ Botoșani nr. 31/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 31/2009 privind infiintarea, organizarea si functionarea Comitetului de analiza a problemelor persoanelor cu handicap Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-03-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h031_25.03.2009.pdf",
+     "sha256": "c4c0970fdd95511cdf08341ff32a2e1c0588b25b1322b50c44b58ad61cfff9fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-32-2009",
+   "path": "local/judet/botosani/2009/32",
+   "short": "HCJ Botoșani nr. 32/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 32/2009 privind aprobarea \"Protocolului de colaborare cu Asociatia Nationala pentru Protectia Consumatorilor si Promovarea Programelor si Strategiilor din Romania\" in vederea participarii la reteaua INFO EU-RO",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-03-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h032_25.03.2009.pdf",
+     "sha256": "253cb2b416be6ddfe5f3668ddb4b5acf49d7f8bff28ec42bed31831a977ef386"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-34-2009",
+   "path": "local/judet/botosani/2009/34",
+   "short": "HCJ Botoșani nr. 34/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 34/2009 privind aprobarea prelungirii duratei de folosinta gratuita pana la 31.03.2009, de catre Biblioteca Oraseneasca Dorohoi, a spatiului in suprafata de 119,76 mp, compus din 4 (patru) camere, situat la parterul cladirii \"Muzeul de Stiintele Naturii\" din municipiul Dorohoi, str. A.I",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-03-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h034_24.04.2008.pdf",
+     "sha256": "905c8869d6f546401c0d016ab69a7a4d891b95cef3de459e8c591ed25dcce35c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-36-2009",
+   "path": "local/judet/botosani/2009/36",
+   "short": "HCJ Botoșani nr. 36/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 36/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-03-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h036_25.03.2009.pdf",
+     "sha256": "05d963bb015e5330bfee504139ef00effff5cdf725fb75594704563378589a96"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-37-2009",
+   "path": "local/judet/botosani/2009/37",
+   "short": "HCJ Botoșani nr. 37/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 37/2009 privind aprobarea contului anual de executie a utilizarii fondului de rulment, la 31 decembrie 2009",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-12-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h037_04.03.2010.pdf",
+     "sha256": "f3005e0462325f65282a15f03e299f53ae2ed5d788d50684030f65a18c348ff6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-38-2009",
+   "path": "local/judet/botosani/2009/38",
+   "short": "HCJ Botoșani nr. 38/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 38/2009 privind modificarea organigramei si statului de functii ale aparatului permanent de lucru al Consiliului Judetean Botosani si constituirea comisiei de concurs pentru ocuparea postului vacant",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-03-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h038_25.03.2009.pdf",
+     "sha256": "01c1abd66f06cd746860ea27ef1c18cfaff161bf80748d9f6169d99b403bd0a9"
     }
    ]
   },
@@ -63,6 +1548,381 @@
    ]
   },
   {
+   "slug": "hcj-botosani-4-2009",
+   "path": "local/judet/botosani/2009/4",
+   "short": "HCJ Botoșani nr. 4/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 4/2009 privind aprobarea situatiei functiilor publice, organigramei si statului de functii pentru Directia Generala de Asistenta Sociala si Protectia Copilului Botosani, pe anul 2009",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-01-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h004_27.01.2009.pdf",
+     "sha256": "0c4875faae209a61a6a4f5123b0d9b1ec882aa0cdee9da69622dedc5d121bf10"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-40-2009",
+   "path": "local/judet/botosani/2009/40",
+   "short": "HCJ Botoșani nr. 40/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 40/2009 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Reabilitarea centralei termice, instalatii termice si racordarea Spitalului de Psihiatrie la gaze naturale\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-03-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h040_25.03.2009.pdf",
+     "sha256": "92bbb1a8d3563e1ea6fe22c974cb5367c1a5bf016b20be1a0972945ed44a18b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-41-2009",
+   "path": "local/judet/botosani/2009/41",
+   "short": "HCJ Botoșani nr. 41/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 41/2009 privind introducerea in domeniul public al judetului Botosani si darea in administrarea Directiei Generale de Asistenta Sociala si Protectia Copilului Botosani a imobilelor ce apartin complexelor \"Casa mea\", \"Floarea de colt\" si \"Ciresarii\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-03-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h041_25.03.2009.pdf",
+     "sha256": "dff618cad93a5804d8f52ec5760bb0aac474df12184643c8ac47b86f9b518852"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-43-2009",
+   "path": "local/judet/botosani/2009/43",
+   "short": "HCJ Botoșani nr. 43/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 43/2009 privind instituirea unor restrictii temporare de circulatie, pe DJ 208C si DJ 208H",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-03-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h043_25.03.2009.pdf",
+     "sha256": "a4c9eebc48ea2bc441399403d8a958ddbdbcd4e853a2190fe5df9873364fa92b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-48-2009",
+   "path": "local/judet/botosani/2009/48",
+   "short": "HCJ Botoșani nr. 48/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 48/2009 privind prelungirea duratei de inchiriere si stabilirea chiriei pentru spatiile aflate in domeniul public al judetului Botosani si administrarea Spitalului Judetean \"Mavromati\" Botosani si a Spitalului de Obstetrica Ginecologie Botosani precum si inchirierea prin licitatie publica a unui sp",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-03-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h048_25.03.2009.pdf",
+     "sha256": "e1f25700ef1477db37d388d3dfc291a935a02687c8575fd73c37a10a372e81e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-49-2009",
+   "path": "local/judet/botosani/2009/49",
+   "short": "HCJ Botoșani nr. 49/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 49/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-03-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h049_25.03.2009.pdf",
+     "sha256": "bbbae74031bc1f5907e5b8a0fed3faf39c2bec387284687fdcdb20ef8682e853"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-5-2009",
+   "path": "local/judet/botosani/2009/5",
+   "short": "HCJ Botoșani nr. 5/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 5/2009 privind aprobarea Strategiei judetene in domeniul protectiei si promovarii drepturilor copilului 2009-2013",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-01-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h005_27.01.2009.pdf",
+     "sha256": "8b032bcfc080b7b0de79e4fec0e9f10eff5d1f59b14bb252c217944fdf7dd6ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-50-2009",
+   "path": "local/judet/botosani/2009/50",
+   "short": "HCJ Botoșani nr. 50/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 50/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-04-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h050_29.04.2009.pdf",
+     "sha256": "4434eb4ff6bd4025df1649f5b9a459a9771fcb0cd788c3f919da010185ff856f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-51-2009",
+   "path": "local/judet/botosani/2009/51",
+   "short": "HCJ Botoșani nr. 51/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 51/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-04-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h051_29.04.2009.pdf",
+     "sha256": "0b76232fd481e6abf9eff0ad7fa64912d6f68e25f9c1bd64ab1e5344ca7d4288"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-52-2009",
+   "path": "local/judet/botosani/2009/52",
+   "short": "HCJ Botoșani nr. 52/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 52/2009 privind modificarea componentei Comisiei de validare",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-04-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h052_29.04.2009.pdf",
+     "sha256": "7ecb665db5b28dc52e4178600091750edc71f149902d7f976174703c5769cb85"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-53-2009",
+   "path": "local/judet/botosani/2009/53",
+   "short": "HCJ Botoșani nr. 53/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 53/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-04-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h053_29.04.2009.pdf",
+     "sha256": "b2525d63825d39220dc8def040ba651d54ad0f507116e12a2cef5c3dcc723853"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-54-2009",
+   "path": "local/judet/botosani/2009/54",
+   "short": "HCJ Botoșani nr. 54/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 54/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-04-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h054_29.04.2009.pdf",
+     "sha256": "1dc9fc62645adafde5168253f2c9f05f1a01286e72f5d7e69dd94266552d473e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-55-2009",
+   "path": "local/judet/botosani/2009/55",
+   "short": "HCJ Botoșani nr. 55/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 55/2009 privind alegerea unui vicepresedinte al Consiliului Judetean Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-04-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h055_29.04.2009.pdf",
+     "sha256": "0d4b9ce1364daa0b0347ae75ed0efaa358adcf06b6725f3d6fed17cbef373573"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-58-2009",
+   "path": "local/judet/botosani/2009/58",
+   "short": "HCJ Botoșani nr. 58/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 58/2009 privind desemnarea unui reprezentant al Consiliului Judetean Botosani in Consiliul consultativ al Unitatii de Asistenta Medico-Sociala Suharau",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-04-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h058_29.04.2009.pdf",
+     "sha256": "7b5ea2912c0ec1b26574438531d35d267819423f00efd46af460946085362c2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-59-2009",
+   "path": "local/judet/botosani/2009/59",
+   "short": "HCJ Botoșani nr. 59/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 59/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-04-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h059_29.04.2009.pdf",
+     "sha256": "331dfb54accf61f21f27a0f79989617caf58c9bbfed3d282479885560d73a711"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-6-2009",
+   "path": "local/judet/botosani/2009/6",
+   "short": "HCJ Botoșani nr. 6/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 6/2009 privind aprobarea Strategiei judetene pentru protectia, integrarea si incluziunea sociala a persoanelor cu handicap 2009-2013",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-01-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h006_27.01.2009.pdf",
+     "sha256": "f01dc12e41f4d6d1cc6e333c7e1b719387bbc659c00f655ee5e54d65406a56ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-61-2009",
+   "path": "local/judet/botosani/2009/61",
+   "short": "HCJ Botoșani nr. 61/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 61/2009 privind aprobarea Regulamentelor de organizare si functionare a Muzeului Judetean Botosani si a Bibliotecii Judetene \"Mihai Eminescu\" Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-04-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h061_29.04.2009.pdf",
+     "sha256": "0279f6a3644c245d6578a40e8260388663b1f81816c4ab55a5b8035a22425d2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-62-2009",
+   "path": "local/judet/botosani/2009/62",
+   "short": "HCJ Botoșani nr. 62/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 62/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-04-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h062_29.04.2009.pdf",
+     "sha256": "fa1047feabe903327e16aee0fa57ef434bf2b8d7b14204e6659965a14e4e6d1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-68-2009",
+   "path": "local/judet/botosani/2009/68",
+   "short": "HCJ Botoșani nr. 68/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 68/2009 privind modificarea statului de funcţii pentru aparatul de specialitate al Consiliului Judeţean Botoşani, pe anul 2007",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-06-07",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h068_30.08.2007.pdf",
+     "sha256": "fe2d67238d02e444eca714298cbb459505057cb2a5afc7143c404c990d14df3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-69-2009",
+   "path": "local/judet/botosani/2009/69",
+   "short": "HCJ Botoșani nr. 69/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 69/2009 privind transmiterea spatiului in suprafata utila de 403,25 mp si a terenului aferent in suprafata de 67 mp, situate in municipiul Botosani str",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-04-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h069_29.04.2009.pdf",
+     "sha256": "c157651c1f3b7354044c3d06c38576d296f8644e654d7afdef4dd2fcf288214c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-7-2009",
+   "path": "local/judet/botosani/2009/7",
+   "short": "HCJ Botoșani nr. 7/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 7/2009 privind achitarea contributiei judetului Botosani la Agentia pentru Dezvoltare Regionala Nord-Est Piatra Neamt in suma de 603.958 lei, din care 453.958 lei pentru Fondul pentru Dezvoltare Regionala, 150.000 lei pentru Birourile Regionale de Cooperare Transfrontaliera Iasi si Suceava, precum",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-01-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h007_27.01.2009.pdf",
+     "sha256": "1ef4c8dc10957cbee3a62ec63d671a46f471edb7b89ed2a69385f4934b9ab502"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-70-2009",
+   "path": "local/judet/botosani/2009/70",
+   "short": "HCJ Botoșani nr. 70/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 70/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-04-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h070_29.04.2009.pdf",
+     "sha256": "76ac63649fd3fdb9ee6bec85b9b1c101df77ef7297620cb4920a0a22374f1bfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-71-2009",
+   "path": "local/judet/botosani/2009/71",
+   "short": "HCJ Botoșani nr. 71/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 71/2009 privind aprobarea inchirierii unei suprafete de 1,5 mp in incinta cladirii Spitalului de Copii Botosani, pentru amplasarea unui automat de cafea",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-04-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h071_29.04.2009.pdf",
+     "sha256": "3b11907a5b0154d50d9727f5529b86e79c6ebdd6b4fba398a320ae70f8855704"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-72-2009",
+   "path": "local/judet/botosani/2009/72",
+   "short": "HCJ Botoșani nr. 72/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 72/2009 privind repartizarea limitelor pentru sumele defalcate din taxa pe valoare adăugată pentru echilibrarea bugetelor locale şi din cota de 22% din impozitul pe venit pe anul 2008 şi a estimărilor 2009 - 2011",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-06-07",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h072_30.08.2007.pdf",
+     "sha256": "d175bc3083b05857b7e8b6e435c8e51a661e163fd61ebeff5751c88a2e841f1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-73-2009",
+   "path": "local/judet/botosani/2009/73",
+   "short": "HCJ Botoșani nr. 73/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 73/2009 privind repartizarea sumelor defalcate din taxa pe valoare adăugată de 18.000 mii lei destinaţi finanţării cheltuielilor pentru drumuri judeţene şi rectificarea bugetului propriu judeţean pe anul 2007",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-06-07",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h073_30.08.2007.pdf",
+     "sha256": "012ac798baa7e4b8ba914d911a9ee447dc71f1a4a31c7274ccf8dc291641ae76"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-74-2009",
    "path": "local/judet/botosani/2009/74",
    "short": "HCJ Botoșani nr. 74/2009",
@@ -74,6 +1934,51 @@
      "units": 1,
      "source_url": "https://www.cjbotosani.ro/files/h074_29.04.2009.pdf",
      "sha256": "b67c05a485afea2b09d622e0352180d850d4dd6c760480ce8e56dac2ab1273a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-75-2009",
+   "path": "local/judet/botosani/2009/75",
+   "short": "HCJ Botoșani nr. 75/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 75/2009 privind aprobarea Studiului de oportunitate si concesionarea imobilului situat in str",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-04-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h075_29.04.2009.pdf",
+     "sha256": "e9a54d84c6b3d215bc9041eb966c4c086d830bce4e5332d1356d24f9eaea619d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-76-2009",
+   "path": "local/judet/botosani/2009/76",
+   "short": "HCJ Botoșani nr. 76/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 76/2009 privind măsurile de organizare şi funcţionare a Şcolii Speciale Dorohoi urmare a comasării Şcolii Speciale nr.1 Dorohoi cu Şcoala Specială nr.2 Dorohoi",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-06-07",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h076_30.08.2007.pdf",
+     "sha256": "727f37944fb2d10a4f856f15eddbf4fe1d63f5405ba5d59e2d879cb06ee50b39"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-78-2009",
+   "path": "local/judet/botosani/2009/78",
+   "short": "HCJ Botoșani nr. 78/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 78/2009 privind desemnarea unor reprezentanti ai Consiliului Judetean Botosani in Consiliile Etice ale Spitalului de Copii Botosani si Sanatoriului de Pneumoftiziologie Guranda",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-05-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h078_27.05.2009.pdf",
+     "sha256": "c1f00b37b893200cc7d3e391ae4dae7c76407247c18394f302504bfe01aadc6b"
     }
    ]
   },
@@ -108,6 +2013,21 @@
    ]
   },
   {
+   "slug": "hcj-botosani-81-2009",
+   "path": "local/judet/botosani/2009/81",
+   "short": "HCJ Botoșani nr. 81/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 81/2009 privind aprobarea Programului de pregatire, formare si perfectionare a consilierilor judeteni, pe anul 2009",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-05-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h081_27.05.2009.pdf",
+     "sha256": "581b1f39c379f3df7690359fba6b8a77cc97e3a5f5b4c09bf73d9a8dbe56d4b9"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-82-2009",
    "path": "local/judet/botosani/2009/82",
    "short": "HCJ Botoșani nr. 82/2009",
@@ -134,6 +2054,156 @@
      "units": 1,
      "source_url": "https://www.cjbotosani.ro/files/h083_2006.08.30.pdf",
      "sha256": "4fbc61480980fb6d643790b11e7607f8dce103e00cf0c5cd7a77518df61887f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-84-2009",
+   "path": "local/judet/botosani/2009/84",
+   "short": "HCJ Botoșani nr. 84/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 84/2009 privind rectificarea bugetului propriu judetean, pe anul 2009",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-05-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h084_27.05.2009.pdf",
+     "sha256": "43d7e45261c0bf83f2349163046e9aff6e8bda47757fca670dcc62ee165bb791"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-85-2009",
+   "path": "local/judet/botosani/2009/85",
+   "short": "HCJ Botoșani nr. 85/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 85/2009 privind modificarea şi completarea Statului de funcţii a Serviciului Public Comunitar de Evidenţa Persoanelor al Judeţului Botoşani, pe anul 2006",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-04-06",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h085_2006.08.30.pdf",
+     "sha256": "b4956bfd0555e4330ac8fc10592d14e0a90d0ca472601dc01da6151224c27cb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-88-2009",
+   "path": "local/judet/botosani/2009/88",
+   "short": "HCJ Botoșani nr. 88/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 88/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-05-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h088_27.05.2009.pdf",
+     "sha256": "97a5841fc1af8f1d4fc3306190a435b950534b0ec437aec1215e8f8018118ac9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-92-2009",
+   "path": "local/judet/botosani/2009/92",
+   "short": "HCJ Botoșani nr. 92/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 92/2009 privind angajarea fondului de rezerva constituit la nivelul bugetului propriu judetean, pe anul 2009 si alocarea sumei de 142.000 lei comunei Radauti Prut",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-06-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h092_26.06.2009.pdf",
+     "sha256": "d99e376d13843fa0dac3edd7a29fa4caf60d9b08926d383e9ce7f6a84fade7bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-93-2009",
+   "path": "local/judet/botosani/2009/93",
+   "short": "HCJ Botoșani nr. 93/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 93/2009 privind aprobarea Contractului-cadru privind managementul institutiilor publice de cultura din subordinea Consiliului Judetean Botosani si mandatarea presedintelui Consiliului Judetean Botosani pentru negocierea si incheierea contractelor de management cu directorii institutiilor publice de",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-06-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h093_26.06.2009.pdf",
+     "sha256": "ac5120ca1bbb54daf2dfc7d441770c1830eea80a0a70f4d954d744001903eeed"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-94-2009",
+   "path": "local/judet/botosani/2009/94",
+   "short": "HCJ Botoșani nr. 94/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 94/2009 privind aprobarea vanzarii spatiului \"Farmacie\" din imobilul \"Dispensar urban nr. 2\", situat in Botosani, str",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-02-08",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h094_28.08.2008.pdf",
+     "sha256": "dd4aae64649ab8457103b2e9d5b07ef9af72d9b71422cc2880e6240807382e97"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-95-2009",
+   "path": "local/judet/botosani/2009/95",
+   "short": "HCJ Botoșani nr. 95/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 95/2009 privind aprobarea rectificarii bugetului propriu judetean cu suma de 400 mii lei atat la partea de venituri cat si la partea de cheltuieli si virarilor de credite bugetare intre capitole, pe anul 2011",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-06-11",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h095_31.08.2011.pdf",
+     "sha256": "c92e8f94dab2eac318c8b40a93b534bc3f72d6f448316126d9d5a4cde25cf2eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-96-2009",
+   "path": "local/judet/botosani/2009/96",
+   "short": "HCJ Botoșani nr. 96/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 96/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-06-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h096_26.06.2009.pdf",
+     "sha256": "92b890ae8fd25ca41b46957bf7f68b03a6bdfbb16550b5cf3e67d4b2d5d36aab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-97-2009",
+   "path": "local/judet/botosani/2009/97",
+   "short": "HCJ Botoșani nr. 97/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 97/2009 privind aprobarea unor virari de credite intre capitole apartinand bugetului propriu judetean, precum si modificarea Programului obiectivelor de investitii si a Programului dotarilor independente, pe anul 2008",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-02-08",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h097_28.08.2008.pdf",
+     "sha256": "31c096bed347cbc8979bf7c1b4f692cf7561d10d52bb4aab66bdda42e1be418a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-99-2009",
+   "path": "local/judet/botosani/2009/99",
+   "short": "HCJ Botoșani nr. 99/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 99/2009 privind rectificarea bugetului propriu judetean cu suma de 7.200.000 lei, pe anul 2008",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-11-08",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h099_11.09.2008.pdf",
+     "sha256": "6ab80f3df06449e04119819311d94f210a814c867b9710fba656f21544050557"
     }
    ]
   }

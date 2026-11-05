@@ -3,6 +3,126 @@
  "shard": "local/judet/botosani/2001",
  "acts": [
   {
+   "slug": "hcj-botosani-108-2001",
+   "path": "local/judet/botosani/2001/108",
+   "short": "HCJ Botoșani nr. 108/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 108/2001 privind redistribuirea sumelor defalcate din taxa pe valoare adaugata intre unitati administrativ-teritoriale pentru anul 2005",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2001-04-05",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h108_2005.12.19.pdf",
+     "sha256": "eaf0c8bfc79c7137d622f95e55d09ec6a15ca065de57b8bdfc6b769629c994c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-109-2001",
+   "path": "local/judet/botosani/2001/109",
+   "short": "HCJ Botoșani nr. 109/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 109/2001 privind rectificarea bugetului propriu judetean pe anul 2005",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2001-04-05",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h109_2005.12.19.pdf",
+     "sha256": "0a15b6e6254ea51ead2acb06668ba3c9d03004b1d1f580b2bd2aee8491592a7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-110-2001",
+   "path": "local/judet/botosani/2001/110",
+   "short": "HCJ Botoșani nr. 110/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 110/2001 privind stabilirea ca si criteriu specific unic \"Investitii comunitare care necesita cofinantare locala\" pentru repartizarea cotei de 15% din sumele defalcate din unele venituri ale bugetului de stat pentru echilibrarea bugetelor locale, pentru anul 2006",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2001-04-05",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h110_2005.12.19.pdf",
+     "sha256": "36519c935fff3a6b4a80f95563f74b4b46002bf15bc3b4b6a0dabcba3382e222"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-112-2001",
+   "path": "local/judet/botosani/2001/112",
+   "short": "HCJ Botoșani nr. 112/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 112/2001 privind aprobarea numarului de personal, organigramelor si statelor de functii pentru aparatul propriu de specialitate al Consiliului Judetean Botosani si pentru institutiile subordonate, pentru anul 2006",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2001-04-05",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h112_2005.12.19.pdf",
+     "sha256": "1ee4f3c876ae442ca3d6d6169883eb98f572b6a969e15705be796621645d9a13"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-115-2001",
+   "path": "local/judet/botosani/2001/115",
+   "short": "HCJ Botoșani nr. 115/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 115/2001 privind repartizarea sumelor defalcate din taxa pe valoare adaugata pe unitati administrativ-teritoriale, pe anul 2006",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2001-04-05",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h115_2005.12.29.pdf",
+     "sha256": "5ab6149598892d0ff4671f79073a7308051013b22388b4e56daae8ea33e61f6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-116-2001",
+   "path": "local/judet/botosani/2001/116",
+   "short": "HCJ Botoșani nr. 116/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 116/2001 privind repartizarea cotei de 22% din impozitul pe venit pentru echilibrarea bugetelor locale pe anul 2006",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2001-04-05",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h116_2005.12.29.pdf",
+     "sha256": "f0da68d822a128d689d96fa0dd92654e97f51489bd6ab52b8e2fd243999af871"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-148-2001",
+   "path": "local/judet/botosani/2001/148",
+   "short": "HCJ Botoșani nr. 148/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 148/2001 privind redistribuirea sumelor defalcate din impozitul pe venit si a sumelor defalcate din taxa pe valoare adaugata, intre unitati administrativ teritoriale, pentru anul 2003",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2001-05-03",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/148.pdf",
+     "sha256": "24b0ea65170022f4135f583f8e9ef134513ea7a43f2fd7613ed6dc1e706f9bad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-163-2001",
+   "path": "local/judet/botosani/2001/163",
+   "short": "HCJ Botoșani nr. 163/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 163/2001",
+   "url": null,
+   "versions": [
+    {
+     "from": "2001-07-08",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h163_29.12.2008.pdf",
+     "sha256": "7667f748b570fba8a30b0a61a80688268c4ce8a16dc70963f44e84828e32fcdb"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-167-2001",
    "path": "local/judet/botosani/2001/167",
    "short": "HCJ Botoșani nr. 167/2001",
@@ -29,6 +149,21 @@
      "units": 1,
      "source_url": "https://www.cjbotosani.ro/files/h168_20.12.2013.pdf",
      "sha256": "e3b861433efbcabfc41ed8bef5f42ffebd31457a28c14d7b9aecd8782db953d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-169-2001",
+   "path": "local/judet/botosani/2001/169",
+   "short": "HCJ Botoșani nr. 169/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 169/2001",
+   "url": null,
+   "versions": [
+    {
+     "from": "2001-08-12",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h169_20.12.2012.pdf",
+     "sha256": "b3edbc27e5ca0a4dccd4c695b7f2804ccaf5309820701014b2fdbfc536fabbf5"
     }
    ]
   },
@@ -78,6 +213,36 @@
    ]
   },
   {
+   "slug": "hcj-botosani-173-2001",
+   "path": "local/judet/botosani/2001/173",
+   "short": "HCJ Botoșani nr. 173/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 173/2001 privind rectificarea bugetului propriu judetean, atat la partea de venituri, cat si la partea de cheltuieli, cu suma de 960 mii lei, pe anul 2010",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2001-03-10",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h173_30.12.2010.pdf",
+     "sha256": "d76fe879acdb2bef363e8b57f404edb2e0928beacb9d348e9456704b0ab80583"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-174-2001",
+   "path": "local/judet/botosani/2001/174",
+   "short": "HCJ Botoșani nr. 174/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 174/2001 privind aprobarea virarilor de credite intre capitolele bugetului propriu judetean, pe anul 2010",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2001-03-10",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h174_30.12.2010.pdf",
+     "sha256": "ab14d9f232545bd5be59ba9c3b5b5f1788e898f85e566d934f88133ffd29fa1f"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-175-2001",
    "path": "local/judet/botosani/2001/175",
    "short": "HCJ Botoșani nr. 175/2001",
@@ -104,6 +269,66 @@
      "units": 1,
      "source_url": "https://www.cjbotosani.ro/files/h176_20.12.2012.pdf",
      "sha256": "675c1881431e6e7f79d8f4556d89bc36ff31e2ba3fc8bb94f591bc1adc91057b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-177-2001",
+   "path": "local/judet/botosani/2001/177",
+   "short": "HCJ Botoșani nr. 177/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 177/2001 privind aprobarea modificării statului de funcţii pentru aparatul de specialitate al Consiliului Judeţean Botoşani, pe anul 2013",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2001-06-13",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h177_20.12.2013.pdf",
+     "sha256": "3a57cbacf4580f9308d79ad024b8b6082a0d0e786faf1e2d23123e2af95ef61c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-179-2001",
+   "path": "local/judet/botosani/2001/179",
+   "short": "HCJ Botoșani nr. 179/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 179/2001 privind validarea modificărilor intervenite în bugetul propriu judeţean, pe anul 2013",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2001-06-13",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h179_20.12.2013.pdf",
+     "sha256": "13fc0081cf622cd89f11e15d1ff3a7acc27f465f5251f3e2a78094464a131ff3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-183-2001",
+   "path": "local/judet/botosani/2001/183",
+   "short": "HCJ Botoșani nr. 183/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 183/2001 privind rectificarea bugetului propriu judeţean, al bugetului instituţiilor şi activităţilor finanţate integral sau parţial din venituri proprii şi efectuarea virărilor de credite bugetare între capitole, pe anul 2012",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2001-08-12",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h183_20.12.2012.pdf",
+     "sha256": "76e1df5607d51502459543e6a9e159b07fbfdba20e74cff5edae4a22af15f6f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-184-2001",
+   "path": "local/judet/botosani/2001/184",
+   "short": "HCJ Botoșani nr. 184/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 184/2001 privind aprobarea rectificării bugetului propriu judeţean, al bugetului instituţiilor publice şi activităţilor finanţate integral sau parţial din venituri proprii şi a virărilor de credite bugetare între capitolele bugetului propriu judeţean pe anul 2013",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2001-06-13",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h184_20.12.2013.pdf",
+     "sha256": "295ec3ee08a62847dbaebf5f3b8ded26efb04a52985199d729620bab9569d426"
     }
    ]
   },
@@ -164,6 +389,231 @@
      "units": 1,
      "source_url": "https://www.cjbotosani.ro/files/h055_2004.12.23.pdf",
      "sha256": "f46f027c4640b83e7cda4d2cd8e1b3247c4de137ba7424da78cfef65f1dd036e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-56-2001",
+   "path": "local/judet/botosani/2001/56",
+   "short": "HCJ Botoșani nr. 56/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 56/2001",
+   "url": null,
+   "versions": [
+    {
+     "from": "2001-03-04",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h056_2004.12.23.pdf",
+     "sha256": "c72947c9ef4dc13f5f2cde6fd264d2aeb3af7cc768a18d067208a55c29d18392"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-57-2001",
+   "path": "local/judet/botosani/2001/57",
+   "short": "HCJ Botoșani nr. 57/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 57/2001 privind modificarea Situatiei functiilor publice si a Statului de functii pentru aparatul propriu al Consiliului Judetean Botosani, pe anul 2004",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2001-03-04",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h057_2004.12.23.pdf",
+     "sha256": "ecc9ac0760b16e6a2eb202290e410c05d2797326bf81854f374b7c28a406c241"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-58-2001",
+   "path": "local/judet/botosani/2001/58",
+   "short": "HCJ Botoșani nr. 58/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 58/2001 privind stabilirea ca si criteriu specific unic \"Investitii comunitare care necesita cofinantare locala\" pentru repartizarea cotei de 15% din sumele defalcate din unele venituri ale bugetului de stat pentru echilibrarea bugetelor locale, pentru anul 2005",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2001-03-04",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h058_2004.12.23.pdf",
+     "sha256": "e05784d16087e87ac80ab2d8e54d8f001134629298273e55ed07bd87a90853ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-59-2001",
+   "path": "local/judet/botosani/2001/59",
+   "short": "HCJ Botoșani nr. 59/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 59/2001 privind repartizarea sumelor defalcate din impozitul pe venit pentru asigurarea ajutorului social si ajutorului pentru incalzirea locuintei, pentru anul 2005",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2001-03-04",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h059_2004.12.23.pdf",
+     "sha256": "81dd5cbb521e86e7baef39c52466d70e621c46eae9c335cb6bfa1ae60e5f79fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-60-2001",
+   "path": "local/judet/botosani/2001/60",
+   "short": "HCJ Botoșani nr. 60/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 60/2001 privind repartizarea sumelor defalcate din impozitul pe venit pe unitati administrativ teritoriale, pentru echilibrarea bugetelor locale in suma totala de 528.410.000 mii lei, pentru anul 2005",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2001-03-04",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h060_2004.12.23.pdf",
+     "sha256": "516d71341e0773f5e9a7a1908bbdbec7d4e65cd83900d8f6339dcffdfb07f8a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-62-2001",
+   "path": "local/judet/botosani/2001/62",
+   "short": "HCJ Botoșani nr. 62/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 62/2001 privind repartizarea sumelor defalcate din taxa pe valoare adaugata in suma de 208.937.000 mii lei pe unitati administrativ teritoriale pentru subventionarea energiei termice livrata populatiei, pe anul 2005",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2001-03-04",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h062_2004.12.23.pdf",
+     "sha256": "8404f4909047209f287ba71434d6e2de7b6c0f8d34d64e6a5b6dc7709462c079"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-65-2001",
+   "path": "local/judet/botosani/2001/65",
+   "short": "HCJ Botoșani nr. 65/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 65/2001 privind aprobarea costului anual pentru intretinerea unui copil cu deficiente de auz, vaz, deficiente mentale, institutionalizat in centre de plasament si scoli speciale din alte judete, pentru anul 2005",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2001-03-04",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h065_2004.12.23.pdf",
+     "sha256": "a1d7abc66441d9656b95a439f000046641d28eb65a1195589b79a2cb7a28510c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-66-2001",
+   "path": "local/judet/botosani/2001/66",
+   "short": "HCJ Botoșani nr. 66/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 66/2001 privind adoptarea bugetului propriu judetean pe anul 2005",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2001-03-04",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h066_2004.12.23.pdf",
+     "sha256": "3d28419be7def5c0a5f5314b822858a687a9839124224340dddfded5e0578a31"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-67-2001",
+   "path": "local/judet/botosani/2001/67",
+   "short": "HCJ Botoșani nr. 67/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 67/2001 privind aprobarea Situatiei functiilor publice, organigramei, statului de functii si regulamentului de organizare si functionare pentru aparatul propriu al Consiliului Judetean Botosani, pe anul 2005",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2001-03-04",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h067_2004.12.23.pdf",
+     "sha256": "bced19aaa2af72dc37fa293a3b1d37efd5a792a5102cc63c54a5f99fd40d483d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-70-2001",
+   "path": "local/judet/botosani/2001/70",
+   "short": "HCJ Botoșani nr. 70/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 70/2001 privind aprobarea organigramelor si statelor de functii ale unitatilor invatamantului special de stat de sub autoritatea Consiliului Judetean Botosani, pentru anul scolar 2004-2005",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2001-03-04",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h070_2004.12.23.pdf",
+     "sha256": "cfbd496387d04a8aa8da2753121dc3991a42bac92169c41bf60755c3e2bef644"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-71-2001",
+   "path": "local/judet/botosani/2001/71",
+   "short": "HCJ Botoșani nr. 71/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 71/2001 privind aprobarea numarului de personal, organigramelor si statelor de functii ale institutiilor de cultura si arta subordonate Consiliului Judetean Botosani, pentru anul 2005",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2001-03-04",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h071_2004.12.23.pdf",
+     "sha256": "1a49599bbfba5b523ef06cd1de2e97f025e21e468da65bedab74f0f532487804"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-72-2001",
+   "path": "local/judet/botosani/2001/72",
+   "short": "HCJ Botoșani nr. 72/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 72/2001 privind aprobarea numarului de personal, organigramelor si statelor de functii ale serviciilor publice subordonate Consiliului Judetean Botosani, pentru anul 2005",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2001-03-04",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h072_2004.12.23.pdf",
+     "sha256": "e0ddcf58ed97a5cd64143132be791fe6ed4b2f7f8cd83d2ce71ebde5a50ec0c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-78-2001",
+   "path": "local/judet/botosani/2001/78",
+   "short": "HCJ Botoșani nr. 78/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 78/2001 privind preluarea de catre",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2001-04-04",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h078_2004.12.23.pdf",
+     "sha256": "3b74f156d9dace078dc141ff5800539840d1e32b7f331c593922fd0e4666bf4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-80-2001",
+   "path": "local/judet/botosani/2001/80",
+   "short": "HCJ Botoșani nr. 80/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 80/2001 privind redistribuirea sumelor defalcate din unele venituri ale bugetului de stat intre unitati administrativ teritoriale pentru anul 2004",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2001-04-04",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h080_2004.12.23.pdf",
+     "sha256": "035fc413afebbecf0b60d9d76e4c1f1e40bce59d4c2c3bad0fdb2e960b390d7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-81-2001",
+   "path": "local/judet/botosani/2001/81",
+   "short": "HCJ Botoșani nr. 81/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 81/2001 privind rectificarea bugetului propriu judetean pe anul 2004",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2001-04-04",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h081_2004.12.23.pdf",
+     "sha256": "1207117ee4fc474b7681449739ec462b61db23a00c259d7c4b45ff9da417b898"
     }
    ]
   }

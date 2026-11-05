@@ -25,6 +25,185 @@
 }
 },
 {
+"slug": "hcj-botosani-3-2002",
+"path": "local/judet/botosani/2002/3",
+"kind": "local",
+"year": "2002",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 3/2002 privind aprobarea Programului judetean pentru obiectivele de investitii privind pietruirea, reabilitarea si/sau asfaltarea drumurilor de interes local si alimentarea cu apa a satelor pentru anul 2007",
+"short": "HCJ Botoșani nr. 3/2002",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2002-06-07",
+"latest": "2002-06-07",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-botosani-4-2002",
+"path": "local/judet/botosani/2002/4",
+"kind": "local",
+"year": "2002",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 4/2002 privind achitarea contributiei judetului Botosani la Agentia pentru Dezvoltare Regionala Nord-Est Piatra Neamt in suma de 487.917 lei din bugetul propriu judetean, pentru anul 2008",
+"short": "HCJ Botoșani nr. 4/2002",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2002-01-08",
+"latest": "2002-01-08",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-botosani-5-2002",
+"path": "local/judet/botosani/2002/5",
+"kind": "local",
+"year": "2002",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 5/2002 privind aprobarea programelor de activitate ale institutiilor de cultura si arta aflate sub autoritatea Consiliului Judetean Botosani, pentru anul 2004",
+"short": "HCJ Botoșani nr. 5/2002",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2002-06-04",
+"latest": "2002-06-04",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-botosani-6-2002",
+"path": "local/judet/botosani/2002/6",
+"kind": "local",
+"year": "2002",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 6/2002 privind aprobarea situatiei functiilor publice, organigramei si statului de functii ale Serviciului Public Comunitar de Evidenta a Persoanelor al Judetului Botosani, pe anul 2008",
+"short": "HCJ Botoșani nr. 6/2002",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2002-01-08",
+"latest": "2002-01-08",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-botosani-7-2002",
+"path": "local/judet/botosani/2002/7",
+"kind": "local",
+"year": "2002",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 7/2002",
+"short": "HCJ Botoșani nr. 7/2002",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2002-01-13",
+"latest": "2002-01-13",
+"portal": null,
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-botosani-8-2002",
+"path": "local/judet/botosani/2002/8",
+"kind": "local",
+"year": "2002",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 8/2002",
+"short": "HCJ Botoșani nr. 8/2002",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2002-06-07",
+"latest": "2002-06-07",
+"portal": null,
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-botosani-9-2002",
+"path": "local/judet/botosani/2002/9",
+"kind": "local",
+"year": "2002",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 9/2002",
+"short": "HCJ Botoșani nr. 9/2002",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2002-06-07",
+"latest": "2002-06-07",
+"portal": null,
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-botosani-10-2002",
+"path": "local/judet/botosani/2002/10",
+"kind": "local",
+"year": "2002",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 10/2002 privind aprobarea bugetului creditului intern, pe anul 2007",
+"short": "HCJ Botoșani nr. 10/2002",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2002-06-07",
+"latest": "2002-06-07",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-botosani-12-2002",
 "path": "local/judet/botosani/2002/12",
 "kind": "local",
@@ -44,6 +223,72 @@
 "council_name": "Consiliul Județean Botoșani",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-13-2002",
+"path": "local/judet/botosani/2002/13",
+"kind": "local",
+"year": "2002",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 13/2002 privind angajarea fondului de rulment existent la nivelul Consiliului Judetean Botosani in suma de 7.000.000 lei, pe anul 2008",
+"short": "HCJ Botoșani nr. 13/2002",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2002-01-08",
+"latest": "2002-01-08",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-botosani-16-2002",
+"path": "local/judet/botosani/2002/16",
+"kind": "local",
+"year": "2002",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 16/2002 privind aprobarea bugetului propriu judeţean, al bugetului instituţiilor publice şi activităţilor finanţate integral sau parţial din venituri proprii, pe anul 2015",
+"short": "HCJ Botoșani nr. 16/2002",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2002-12-15",
+"latest": "2002-12-15",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-botosani-19-2002",
+"path": "local/judet/botosani/2002/19",
+"kind": "local",
+"year": "2002",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 19/2002 privind aprobarea bugetului propriu județean, al bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii, pe anul 2018",
+"short": "HCJ Botoșani nr. 19/2002",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2002-08-18",
+"latest": "2002-08-18",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

@@ -3,6 +3,111 @@
  "shard": "local/judet/botosani/2010",
  "acts": [
   {
+   "slug": "hcj-botosani-10-2010",
+   "path": "local/judet/botosani/2010/10",
+   "short": "HCJ Botoșani nr. 10/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 10/2010 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Modernizare DJ 282B, limita jud. Iasi-Prajeni-Campeni-Flamanzi, km 34+740 - 50+150, judetul Botosani\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h010_28.01.2010.pdf",
+     "sha256": "f822d6c1aee8feee9845eca27e680d844654d72f7d2cc5d093ed88bc4d97bb8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-100-2010",
+   "path": "local/judet/botosani/2010/100",
+   "short": "HCJ Botoșani nr. 100/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 100/2010 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Consolidare si extindere Casa Memoriala Nicolae Iorga Botosani\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h100_29.07.2010.pdf",
+     "sha256": "802cc40a7551426d5e658a31536e67e38d506366ae4b4c108819193189e966c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-101-2010",
+   "path": "local/judet/botosani/2010/101",
+   "short": "HCJ Botoșani nr. 101/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 101/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h101_29.07.2010.pdf",
+     "sha256": "c7b70f8ecd0b872f240d26518826d6a3043703001b313d6b59bcbabea192c60d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-102-2010",
+   "path": "local/judet/botosani/2010/102",
+   "short": "HCJ Botoșani nr. 102/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 102/2010 privind prelungirea duratei de inchiriere a suprafetei de 86,62 mp din bunul imobil \"Cladire Galerii de arta si magazin fond plastic\", situat in Botosani, Piata Revolutiei nr.3, bl.5-6, aflat in domeniul public al judetului Botosani si in administrarea Muzeului Judetean Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h102_29.07.2010.pdf",
+     "sha256": "0d73381689b6356aa3800dd9624e25766466a5f802c7d1dce6c3f896f15bceea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-103-2010",
+   "path": "local/judet/botosani/2010/103",
+   "short": "HCJ Botoșani nr. 103/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 103/2010 privind rectificarea bugetului propriu judeţean, al bugetului instituţiilor şi activităţilor finanţate integral sau parţial din venituri proprii şi efectuarea virărilor de credite între capitolele bugetului propriu județean pe anul 2014",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-03-14",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h103_03.10.2014.pdf",
+     "sha256": "0b7e319036ba8f66c896d7779fb020c5108c1d8683183cf4292c48d0654755fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-104-2010",
+   "path": "local/judet/botosani/2010/104",
+   "short": "HCJ Botoșani nr. 104/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 104/2010 privind aprobarea componentei Consiliilor de Administratie pentru spitalele publice de interes judetean",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h104_29.07.2010.pdf",
+     "sha256": "e5067cba23ec009b21fb55d727e225fafe343ddcd8397067f5e692e86ef0352f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-105-2010",
+   "path": "local/judet/botosani/2010/105",
+   "short": "HCJ Botoșani nr. 105/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 105/2010 privind modificarea statului de functii al Directiei Judetene de Drumuri si Poduri Botosani, pe anul 2008",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-03-08",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h105_30.09.2008.pdf",
+     "sha256": "699ef22cadce78c57037883f0139b190b1f1ff3bf31df9bc5c048af731180ef0"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-106-2010",
    "path": "local/judet/botosani/2010/106",
    "short": "HCJ Botoșani nr. 106/2010",
@@ -14,6 +119,636 @@
      "units": 1,
      "source_url": "https://www.cjbotosani.ro/files/h106_30.09.2008.pdf",
      "sha256": "950ce7416ad3ea9b50d0c27171f086061240bf79558418817ad8f10f7e81e248"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-107-2010",
+   "path": "local/judet/botosani/2010/107",
+   "short": "HCJ Botoșani nr. 107/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 107/2010 privind aprobarea organigramei si statului de functii pentru Directia Generala de Asistenta Sociala si Protectia Copilului Botosani, valabile incepand cu data de 01.09.2010",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-09-01",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h107_12.08.2010.pdf",
+     "sha256": "b0b62794710d85395c834149f147415154e6e3505a4850f28a12646eba2caf09"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-11-2010",
+   "path": "local/judet/botosani/2010/11",
+   "short": "HCJ Botoșani nr. 11/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 11/2010 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Reabilitare pod pe DJ 298A, km 8+957, in localitatea Darabani, jud. Botosani\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h011_28.01.2010.pdf",
+     "sha256": "2aeb41e7c20ba1e673203011409a2fd0f5b9ed0fff127e8b52a9a892c995b58d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-112-2010",
+   "path": "local/judet/botosani/2010/112",
+   "short": "HCJ Botoșani nr. 112/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 112/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-08-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h112_30.08.2010.pdf",
+     "sha256": "5e0b8dda67774945055a4ba8b9be1d7c55247e49a2508f3900e55ed1dc0e323c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-114-2010",
+   "path": "local/judet/botosani/2010/114",
+   "short": "HCJ Botoșani nr. 114/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 114/2010 privind aprobarea vanzarii spatiilor neconcesionate, cu destinatia de cabinete medicale si a spatiilor in care se desfasoara activitati conexe, precum si, dupa caz, a terenului aferent, aflate in domeniul privat al judetului Botosani, prin licitatie publica cu strigare, cu plata pretului in",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-08-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h114_30.08.2010.pdf",
+     "sha256": "c60019fcda3068cb8edd71038ccf7dfda6ff18f14231f0bcbfbcf71b81fd3735"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-115-2010",
+   "path": "local/judet/botosani/2010/115",
+   "short": "HCJ Botoșani nr. 115/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 115/2010 privind rectificarea bugetului propriu judetean cu suma de 3.022.820,02 lei, pe anul 2008",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-03-08",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h115_30.09.2008.pdf",
+     "sha256": "c28caae2c7ec0006a470aa47d6fd23e8f66d058533fcca40ed977ee44eafd35c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-116-2010",
+   "path": "local/judet/botosani/2010/116",
+   "short": "HCJ Botoșani nr. 116/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 116/2010 privind modificarea componentei Autoritatii Teritoriale de Ordine Publica Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-08-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h116_30.08.2010.pdf",
+     "sha256": "e182b8bb15b7bfbaf68f2ff267d4eed30d7604b26f9908dcc1a00668f2cc0c4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-117-2010",
+   "path": "local/judet/botosani/2010/117",
+   "short": "HCJ Botoșani nr. 117/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 117/2010 privind schimbarea denumirii Scolii de Arte si Meserii Botosani in Centrul Scolar pentru Educatie Incluziva Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-08-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h117_30.08.2010.pdf",
+     "sha256": "f8e1ee7ade7bea30966736a0d18096b37d6bfe14b04f2cd65c7868b28e62d977"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-12-2010",
+   "path": "local/judet/botosani/2010/12",
+   "short": "HCJ Botoșani nr. 12/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 12/2010 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Modernizare DJ 294C, Hanesti, km 12+000 - 12+500, judetul Botosani\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h012_28.01.2010.pdf",
+     "sha256": "79a16f83658f0ddfd5675355f4accbc0dc24d50441171bd5cadfdc4592f549f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-120-2010",
+   "path": "local/judet/botosani/2010/120",
+   "short": "HCJ Botoșani nr. 120/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 120/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-09-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h120_27.09.2010.pdf",
+     "sha256": "a0b06e1fd332d5b5abfd1db30f5234c14da7e4cbf349d0234dd83ae76fc8826d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-121-2010",
+   "path": "local/judet/botosani/2010/121",
+   "short": "HCJ Botoșani nr. 121/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 121/2010 privind trecerea bunului imobil \"Cladire sectie distrofici\" aflat în domeniul public al judetului Botosani din administrarea Spitalului de Copii Botosani in administrarea Scolii Populare de Arte si Meserii Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-09-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h121_27.09.2010.pdf",
+     "sha256": "75fd91f1b35f376bed6087cf6d88a31bb951170b703e90bc00c74eb512206753"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-122-2010",
+   "path": "local/judet/botosani/2010/122",
+   "short": "HCJ Botoșani nr. 122/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 122/2010 privind prelungirea duratei de inchiriere a terenului in suprafata de 14,96 mp, ocupat cu un chiosc in care se produc si comercializeaza produse alimentare, precum si inchirierea prin licitatie publica a spatiului in suprafata de 13,82 mp din bunul imobil \"Cladire Policlinica corp D\", situa",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-09-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h122_27.09.2010.pdf",
+     "sha256": "3123957507a0eba30313c3d49be6f0b70a05136671b44cfaa004d90d5da969d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-123-2010",
+   "path": "local/judet/botosani/2010/123",
+   "short": "HCJ Botoșani nr. 123/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 123/2010 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Reabilitare imobil - Pavilion A - Centrul Militar Judetean, strada Sucevei, Botosani\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-09-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h123_27.09.2010.pdf",
+     "sha256": "8a0c91836d223bf123a1cc60e86163935a82a1f087bc1f5f1c6aa826afc42a9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-125-2010",
+   "path": "local/judet/botosani/2010/125",
+   "short": "HCJ Botoșani nr. 125/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 125/2010 privind aprobarea Regulamentelor de organizare si functionare ale Unitatilor de Asistenta Medico - Sociala din subordinea Consiliului Judetean Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-09-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h125_27.09.2010.pdf",
+     "sha256": "117a4530cfa813ebeb427787616aad2291bef47ebbff7472a88a8d82cd3b4db6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-126-2010",
+   "path": "local/judet/botosani/2010/126",
+   "short": "HCJ Botoșani nr. 126/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 126/2010 privind aprobarea Master Planului pentru servicii de alimentare cu apa si canalizare in judetul Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-09-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h126_27.09.2010.pdf",
+     "sha256": "396d7252fe0f37e2ca0705ecaef77853cf595a5579139021b612377241ddcb62"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-127-2010",
+   "path": "local/judet/botosani/2010/127",
+   "short": "HCJ Botoșani nr. 127/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 127/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-09-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h127_27.09.2010.pdf",
+     "sha256": "5d5cb7d49c7b450c79470e991888f3a9f4fb506ffb14e513fe8f9f61cbb3b9b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-128-2010",
+   "path": "local/judet/botosani/2010/128",
+   "short": "HCJ Botoșani nr. 128/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 128/2010 privind repartizarea cotei de 20% din sumele defalcate din taxa pe valoarea adaugata pentru echilibrarea bugetelor locale si din cota de 21% din impozitul pe venit, precum si a sumelor din impozitul pe venit si sume defalcate rezultate din aplicarea gradului de necolectare a veniturilor pro",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-09-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h128_27.09.2010.pdf",
+     "sha256": "517568f739c14254d7015b5cbb78900b720a6b7f1346cf99cfb0e293b77cf4bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-129-2010",
+   "path": "local/judet/botosani/2010/129",
+   "short": "HCJ Botoșani nr. 129/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 129/2010 privind lucrarile de interventie in prima urgenta la obiectivul \"Reabilitare pod pe DJ 208H, km 39+800, in localitatea Copalau, jud. Botosani\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-09-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h129_27.09.2010.pdf",
+     "sha256": "e5df16096bce3c5086d522ff806c1940659dae86001c5108079eedb9c71c2aa2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-13-2010",
+   "path": "local/judet/botosani/2010/13",
+   "short": "HCJ Botoșani nr. 13/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 13/2010 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Modernizare DJ 294B, Stefanesti-Murguta-Dobarceni, km 2+400 - 13+010, judetul Botosani\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h013_28.01.2010.pdf",
+     "sha256": "30c5fc433af75bfc964521000976955dac026e17d702ff7379592df61353b815"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-130-2010",
+   "path": "local/judet/botosani/2010/130",
+   "short": "HCJ Botoșani nr. 130/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 130/2010 privind incetarea Contractului de Delegare de Gestiune a serviciilor de alimentare cu apa si canalizare prin concesiune nr.10037/2005, modificarea si completarea listei bunurilor apartinand domeniului public al judetului Botosani, aferente sistemului de alimentare cu apa si de canalizare, c",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-09-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h130_27.09.2010.pdf",
+     "sha256": "e0b7fd7bbddace58a9006740625c9c96595219988752a4855eb9beee3b92163d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-132-2010",
+   "path": "local/judet/botosani/2010/132",
+   "short": "HCJ Botoșani nr. 132/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 132/2010 privind rectificarea bugetului propriu judetean cu suma de -10.253,72 mii lei, atat la partea de venituri, cat si la partea de cheltuieli, pe anul 2010",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-04-10",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h132_30.09.2010.pdf",
+     "sha256": "61bb2cfa40379a1bff9e2bfbd0326cfe8ad8c107db1c4636f5ae0e34f30d0326"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-133-2010",
+   "path": "local/judet/botosani/2010/133",
+   "short": "HCJ Botoșani nr. 133/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 133/2010 privind încadrarea unui drum comunal în categoria de folosinţă a drumurilor judeţene pe raza comunelor Corlăteni şi Dimăcheni şi încadrarea unui drum judeţean în categoria de folosinţă a drumurilor comunale pe raza comunei Suharău",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-10-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h133_28.10.2010.pdf",
+     "sha256": "f613716cb96902ffbecf44442a59fb850b0c09a3aa31f8b3849ba403a58a506c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-14-2010",
+   "path": "local/judet/botosani/2010/14",
+   "short": "HCJ Botoșani nr. 14/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 14/2010 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Reabilitare pod pe DJ 208C, km 5+300, in localitatea Oraseni-Vale, jud. Botosani\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h014_28.01.2010.pdf",
+     "sha256": "82b2c92b0f63d8c1c83327cbf6173c4f8d747523647ebd1860b036d815792c1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-141-2010",
+   "path": "local/judet/botosani/2010/141",
+   "short": "HCJ Botoșani nr. 141/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 141/2010 privind aprobarea modificării valorii de inventar a unor bunuri care aparţin domeniului public al Judeţului Botoşani, aflate în administrarea Direcţiei Judeţene de Drumuri şi Poduri Botoşani respectiv în administrarea Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-10-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h141_28.10.2010.pdf",
+     "sha256": "20de4ea0429363499a538c1157916cf7bfae105c7074fd3fbd2501ba4ef26397"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-143-2010",
+   "path": "local/judet/botosani/2010/143",
+   "short": "HCJ Botoșani nr. 143/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 143/2010 privind constituirea unei Comisii speciale de analiză şi verificare",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-10-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h143_28.10.2010.pdf",
+     "sha256": "1cfaddfac4ece9f357b080dd540385f6aebf26846e3887ae35945b6c0ea33314"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-146-2010",
+   "path": "local/judet/botosani/2010/146",
+   "short": "HCJ Botoșani nr. 146/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 146/2010 privind rectificarea bugetului propriu județean, al bugetelor instituțiilor și activităților proprii, efectuarea de virări de credite între capitole și de modificări în Programul obiectivelor de investiții, pe anul 2017",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-02-17",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h146_27.09.2017.pdf",
+     "sha256": "07c384c41130eebea9da123877ebde6382a57cccb5af2936271db4479700c03b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-148-2010",
+   "path": "local/judet/botosani/2010/148",
+   "short": "HCJ Botoșani nr. 148/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 148/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-10-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h148_28.10.2010.pdf",
+     "sha256": "67305f6567d19212c1495faaf6988ad05163c7563281e63ee1c725c570482181"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-149-2010",
+   "path": "local/judet/botosani/2010/149",
+   "short": "HCJ Botoșani nr. 149/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 149/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-11-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h149_29.11.2010.pdf",
+     "sha256": "0c2b29c2bf39b94961a96fb500c4a48abe71f2c8891998aeb61d840424d6b840"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-15-2010",
+   "path": "local/judet/botosani/2010/15",
+   "short": "HCJ Botoșani nr. 15/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 15/2010 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Modernizare DJ 294, Dangeni-Mihalaseni, km 12+500 - 22+100, judetul Botosani\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h015_28.01.2010.pdf",
+     "sha256": "cdb25b0ae031d3bd1432aa6c0bd77122590dc9ca9960432527c2ce2e01f9193b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-156-2010",
+   "path": "local/judet/botosani/2010/156",
+   "short": "HCJ Botoșani nr. 156/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 156/2010 privind prelungirea duratei de inchiriere a spatiului in suprafata de 2,8 mp, din cladirea punctului de control \"Cabina poarta nr. 1\", situat in municipiul Botosani, str",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-11-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h156_29.11.2010.pdf",
+     "sha256": "939a5f02656c7f45980b1ae7d934b4b5c00f8fe330389179297b6741fd3862ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-157-2010",
+   "path": "local/judet/botosani/2010/157",
+   "short": "HCJ Botoșani nr. 157/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 157/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-11-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h157_29.11.2010.pdf",
+     "sha256": "69219feacfba3925024acb2be2a119c8c5d24447b6173a57f9fd377992ce6d6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-159-2010",
+   "path": "local/judet/botosani/2010/159",
+   "short": "HCJ Botoșani nr. 159/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 159/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-11-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h159_29.11.2010.pdf",
+     "sha256": "c64b32ea78f51cbace9e30e92c05a78ad7454d63b80db925fd990b8d279f422d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-16-2010",
+   "path": "local/judet/botosani/2010/16",
+   "short": "HCJ Botoșani nr. 16/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 16/2010 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Reabilitare pod pe DJ 208H, km 39+800, in localitatea Copalau, jud. Botosani\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h016_28.01.2010.pdf",
+     "sha256": "79f778ff9e3544e093872beaef5f72b3cbe6155300c47a0e0401901b39e7b468"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-161-2010",
+   "path": "local/judet/botosani/2010/161",
+   "short": "HCJ Botoșani nr. 161/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 161/2010 privind aprobarea asocierii dintre Judetul Botosani, Directia Generala de Asistenta Sociala si Protectia Copilului Botosani, Fundatia Sera Romania si Fundatia \"Hope and Homes for Children\" Romania cu privire la infiintarea, reabilitarea, reorganizarea si functionarea unui centru de recupera",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-11-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h161_29.11.2010.pdf",
+     "sha256": "21efee5c9171f31766534d6981e530f5cb5c02892b7e4c3ed4a531b1504296d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-162-2010",
+   "path": "local/judet/botosani/2010/162",
+   "short": "HCJ Botoșani nr. 162/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 162/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-12-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h162_22.12.2010.pdf",
+     "sha256": "2f807c14f4f416bb5c45d436318ba4c48263453adef7677fc0cf6b1ff60e2c14"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-163-2010",
+   "path": "local/judet/botosani/2010/163",
+   "short": "HCJ Botoșani nr. 163/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 163/2010 privind rectificarea bugetului propriu judetean, la partea de cheltuieli, pe anul 2009",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-02-09",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h163_30.09.2009.pdf",
+     "sha256": "c09cf4b7cf4d5f37536f14471a418c9c7110574422fc8429332215f591af1e06"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-164-2010",
+   "path": "local/judet/botosani/2010/164",
+   "short": "HCJ Botoșani nr. 164/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 164/2010 privind rectificarea bugetului propriu judetean, pe anul 2009",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-12-09",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h164_12.10.2009.pdf",
+     "sha256": "c423f998e497e0c361b595ed12e4373128b61ec68014f7e7f3babfcd8409a8ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-165-2010",
+   "path": "local/judet/botosani/2010/165",
+   "short": "HCJ Botoșani nr. 165/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 165/2010 privind aprobarea Protocolului referitor la Programul de Modernizare a Infrastructurii incheiat intre Judetul Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-12-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h165_22.12.2010.pdf",
+     "sha256": "97251f8acd559fa866c4163f828019fb83ba59af4fea2c267bb8b0ab87f2c01d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-166-2010",
+   "path": "local/judet/botosani/2010/166",
+   "short": "HCJ Botoșani nr. 166/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 166/2010 privind aprobarea modificarii valorii de inventar a bunului \"Cladire administrativa\", situat in municipiul Botosani, str",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-12-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h166_22.12.2010.pdf",
+     "sha256": "e2019562a5c265a03cf4f5460329f80af7a78a89382829f25796e662bef02692"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-167-2010",
+   "path": "local/judet/botosani/2010/167",
+   "short": "HCJ Botoșani nr. 167/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 167/2010 privind trecerea bunului imobil \"Pavilion C - Centrul de Sanatate Mintala si Stationarul de zi\" din administrarea Spitalului de Psihiatrie Botosani in administrarea Scolii Populare de Arte si Meserii Botosani, precum si a bunului imobil \"Cladire sectie distrofici\" din administrarea Scolii P",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-12-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h167_22.12.2010.pdf",
+     "sha256": "ebc396c7f5ab8f17edcdb5eb5d9cd2bae308707b36b0ca16e68c850d86069240"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-168-2010",
+   "path": "local/judet/botosani/2010/168",
+   "short": "HCJ Botoșani nr. 168/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 168/2010 privind trecerea din domeniul public al Judetului Botosani in domeniul privat al acestuia, in vederea valorificarii si, dupa caz, casarii unor bunuri aflate in administrarea Spitalului de Psihiatrie Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-12-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h168_22.12.2010.pdf",
+     "sha256": "d312a665c909e9784d9b89ed97756ee0d960239e5e3bd2d9461e2620b4ca333b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-169-2010",
+   "path": "local/judet/botosani/2010/169",
+   "short": "HCJ Botoșani nr. 169/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 169/2010 privind aprobarea inventarului bunurilor care apartin domeniului public al judetului Botosani, situate in municipiul Dorohoi, aflate in administrarea Directiei Generale de Asistenta Sociala si Protectia Copilului Botosani si Consiliului Local al Municipiului Dorohoi",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-12-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h169_22.12.2010.pdf",
+     "sha256": "f8897aeaa79df53ae80a703eea842a3dc025bb12631e8c2beb5cc83a1893da16"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-17-2010",
+   "path": "local/judet/botosani/2010/17",
+   "short": "HCJ Botoșani nr. 17/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 17/2010 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Modernizare DJ 282, Buhaceni-Dangeni-Hanesti, km 104+000 - 117+570, judetul Botosani\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h017_28.01.2010.pdf",
+     "sha256": "ef21f6c8e8b612540ea877bcc996052ade355b3605cecf9464bf288f4101fa13"
     }
    ]
   },
@@ -33,6 +768,66 @@
    ]
   },
   {
+   "slug": "hcj-botosani-171-2010",
+   "path": "local/judet/botosani/2010/171",
+   "short": "HCJ Botoșani nr. 171/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 171/2010 privind rectificarea bugetului propriu judetean pentru anul 2010",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-12-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h171_22.12.2010.pdf",
+     "sha256": "871eac57ff7c31acfbf860dd2f628e63b043267dfef297a0a265e5cf716a40bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-172-2010",
+   "path": "local/judet/botosani/2010/172",
+   "short": "HCJ Botoșani nr. 172/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 172/2010 privind aprobarea numarului de posturi peste limita minima a normativului de personal, pentru Spitalul Judetean de Urgenta \"Mavromati\" Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-12-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h172_22.12.2010.pdf",
+     "sha256": "1a4f4f9928d4bcb199dd6f2c04eaac41ec0033a25e13572882bbacdb57da5fab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-18-2010",
+   "path": "local/judet/botosani/2010/18",
+   "short": "HCJ Botoșani nr. 18/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 18/2010 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Constructie pod pe DJ 291C, km 14+500, in localitatea Pomarla, jud. Botosani\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h018_28.01.2010.pdf",
+     "sha256": "b59bb86fd5521f68f9c268e919a49d51169d5f29d82d7da2aa515e1ebaf36248"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-19-2010",
+   "path": "local/judet/botosani/2010/19",
+   "short": "HCJ Botoșani nr. 19/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 19/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h019_28.01.2010.pdf",
+     "sha256": "86433b0ba9d779abc3d0e7b904133d06a97a8bfb0e62b3f8f16164d18193606e"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-2-2010",
    "path": "local/judet/botosani/2010/2",
    "short": "HCJ Botoșani nr. 2/2010",
@@ -44,6 +839,801 @@
      "units": 1,
      "source_url": "https://www.cjbotosani.ro/files/h002_28.01.2010.pdf",
      "sha256": "5ea6dfa086b42da06b109f115ce55976757219234c7c97f644bf80592afe60ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-20-2010",
+   "path": "local/judet/botosani/2010/20",
+   "short": "HCJ Botoșani nr. 20/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 20/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h020_28.01.2010.pdf",
+     "sha256": "7b91fa12fd03bf7c13cbdd221d4647af64e8d61469c27de6a45aa6d2a7c74ee9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-21-2010",
+   "path": "local/judet/botosani/2010/21",
+   "short": "HCJ Botoșani nr. 21/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 21/2010 privind constituirea comisiilor de evaluare finala a managementului institutiilor de cultura aflate in subordinea Consiliului Judetean Botosani, precum si a comisiilor de solutionare a contestatiilor",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h021_28.01.2010.pdf",
+     "sha256": "0374fa510a367604fc48181de02a85bcb4c258063fc5f5d3ab30877306f477b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-25-2010",
+   "path": "local/judet/botosani/2010/25",
+   "short": "HCJ Botoșani nr. 25/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 25/2010 privind infiintarea Camerei Agricole Judetene Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h025_28.01.2010.pdf",
+     "sha256": "b373931e955f273c8f12209f07cfd56ceec15b439fd1375acc2dbf71817b6457"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-26-2010",
+   "path": "local/judet/botosani/2010/26",
+   "short": "HCJ Botoșani nr. 26/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 26/2010 privind aprobarea Planului de Analiza si Acoperire a Riscurilor pe teritoriul judetului Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h026_28.01.2010.pdf",
+     "sha256": "2d432594afe219154251fe82437b5bef96999c6b90e22beae653fc9edc1fc77e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-27-2010",
+   "path": "local/judet/botosani/2010/27",
+   "short": "HCJ Botoșani nr. 27/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 27/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h027_28.01.2010.pdf",
+     "sha256": "c592d6fb9d2f0d4bbbf8b9db2d2a78d6b9376ed3d50205d7b6c768c1b6b6a9e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-29-2010",
+   "path": "local/judet/botosani/2010/29",
+   "short": "HCJ Botoșani nr. 29/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 29/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-02-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h029_26.02.2010.pdf",
+     "sha256": "d33b2a1403d0bacc9bb989a230956eba2808b431374be5be7b5f708391116a45"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-3-2010",
+   "path": "local/judet/botosani/2010/3",
+   "short": "HCJ Botoșani nr. 3/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 3/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h003_28.01.2010.pdf",
+     "sha256": "77ec5c5428e2ff6a062bc1bd6a9a8f0ce17bdcdbd5298c8f3d3e102c2de39114"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-30-2010",
+   "path": "local/judet/botosani/2010/30",
+   "short": "HCJ Botoșani nr. 30/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 30/2010 privind aprobarea componentei Comisiei judetene de reconstituire a vechimii in munca si prelungirea activitatii acesteia pana la data de 31.12.2010",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-12-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h030_25.03.2009.pdf",
+     "sha256": "31f47e1eeb5ad100502a08637803472298e923c510cbece06b4372d3b3cd4e04"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-31-2010",
+   "path": "local/judet/botosani/2010/31",
+   "short": "HCJ Botoșani nr. 31/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 31/2010 privind trecerea bunului imobil \"Cladire sectie distrofici\" aflat in domeniul public al judetului Botosani din administrarea Spitalului de Copii Botosani in administrarea Directiei de Sanatate Publica Botosani in vederea infiintarii unui \"LABORATOR DE SANATATE PUBLICA TRANSFRONTALIER\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-02-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h031_26.02.2010.pdf",
+     "sha256": "1b657fbc4ccfeb4f2e4bde449cb4fe715941de221cc3db61fc54a2f986837d2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-32-2010",
+   "path": "local/judet/botosani/2010/32",
+   "short": "HCJ Botoșani nr. 32/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 32/2010 privind aprobarea inchirierii suprafetei de 4,18 mp de la etajul bunului imobil \"Muzeul de Stiintele Naturii\", situat in Dorohoi, strada A.I",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-02-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h032_26.02.2010.pdf",
+     "sha256": "a989838d8a3961def13a6bc8ff8687d577752f8d85b25bfb3ef0dd4ba16389f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-36-2010",
+   "path": "local/judet/botosani/2010/36",
+   "short": "HCJ Botoșani nr. 36/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 36/2010 privind aprobarea rezultatului final al evaluarii managementului institutiilor publice de cultura din subordinea Consiliului Judetean Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-02-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h036_26.02.2010.pdf",
+     "sha256": "01c148f60b9e41aff3577496c8733d7a2ebe3bb28793e40aa207c1e73d0f2058"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-4-2010",
+   "path": "local/judet/botosani/2010/4",
+   "short": "HCJ Botoșani nr. 4/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 4/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h004_28.01.2010.pdf",
+     "sha256": "e29a6a7232804e9f447678f7e3fd32464a37298811cb2ca0e5d424704e377608"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-41-2010",
+   "path": "local/judet/botosani/2010/41",
+   "short": "HCJ Botoșani nr. 41/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 41/2010 privind aprobarea organigramelor si statelor de functii pentru institutiile publice de interes judetean care au prevazute posturi contractuale",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-03-04",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h041_04.03.2010.pdf",
+     "sha256": "6aad630927b6776845bfce62a625169317c3e0609737f54baf5fe94a9a508e42"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-43-2010",
+   "path": "local/judet/botosani/2010/43",
+   "short": "HCJ Botoșani nr. 43/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 43/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-03-04",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h043_04.03.2010.pdf",
+     "sha256": "188b04f6046d9d90eddb9358dcc8ab65eefd8b773bc0a11dbc71ce0ee9ad1b02"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-44-2010",
+   "path": "local/judet/botosani/2010/44",
+   "short": "HCJ Botoșani nr. 44/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 44/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-03-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h044_30.03.2010.pdf",
+     "sha256": "12bed0df8376ee549bfe5b889c8795f439fa01666a0d3314d0ddf438fdaa20b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-45-2010",
+   "path": "local/judet/botosani/2010/45",
+   "short": "HCJ Botoșani nr. 45/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 45/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-03-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h045_30.03.2010.pdf",
+     "sha256": "3be560e698724185d598d5b18cd4f8aa48037e835552b9fa8d8321dfe18e0f89"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-46-2010",
+   "path": "local/judet/botosani/2010/46",
+   "short": "HCJ Botoșani nr. 46/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 46/2010 privind desemnarea unui reprezentant al Consiliului Judetean Botosani in Consiliul de administratie al Memorialului Ipotesti-Centrul National de Studii \"Mihai Eminescu\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-03-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h046_30.03.2010.pdf",
+     "sha256": "a743fe2e39ee3e90ba974d8c0c793fdab36eca0f834bb11f50f83e5fed2f847e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-47-2010",
+   "path": "local/judet/botosani/2010/47",
+   "short": "HCJ Botoșani nr. 47/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 47/2010 privind desemnarea unor reprezentanti ai Consiliului Judetean Botosani in Consiliul Etic al Spitalului de Obstetrica si Ginecologie Botosani si in Consiliul Consultativ al Spitalului de Copii Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-03-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h047_30.03.2010.pdf",
+     "sha256": "f2ff3905037e3b5a64709c95c88cfb43860c9d4dc884cbffeede4fba0c8b7122"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-5-2010",
+   "path": "local/judet/botosani/2010/5",
+   "short": "HCJ Botoșani nr. 5/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 5/2010 privind solicitarea trecerii tronsonului de drum \"Sector DRUM NATIONAL DN 29A - pozitia kilometrica 98+638 - 99+722\" din domeniul public al statului si din administrarea Ministerului Transporturilor si Infrastructurii prin Compania Nationala de Autostrazi si Drumuri Nationale din Romania",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h005_28.01.2010.pdf",
+     "sha256": "2347441b2e63cfea948cf3b734ce97c5b8e0b710361500bf23efe3ed92649aec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-51-2010",
+   "path": "local/judet/botosani/2010/51",
+   "short": "HCJ Botoșani nr. 51/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 51/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-03-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h051_30.03.2010.pdf",
+     "sha256": "958a29ebbe07885e4600305dd4bdbb24834b039f203fcf221153b74cbbb04eb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-53-2010",
+   "path": "local/judet/botosani/2010/53",
+   "short": "HCJ Botoșani nr. 53/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 53/2010 privind aprobarea Caietelor de obiective pentru asigurarea managementului institutiilor publice de cultura din subordinea Consiliului Judetean Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-03-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h053_30.03.2010.pdf",
+     "sha256": "74d9fbc44d93869816cadae949259191702d84082a0de801acca9350f5ed2f64"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-54-2010",
+   "path": "local/judet/botosani/2010/54",
+   "short": "HCJ Botoșani nr. 54/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 54/2010 privind aprobarea Regulamentului de organizare si functionare al Camerei Agricole Judetene Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-03-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h054_30.03.2010.pdf",
+     "sha256": "67215f4d388ff27e8188bd048a04c4844fea7213d1807c8d6d2d3741e64ae053"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-58-2010",
+   "path": "local/judet/botosani/2010/58",
+   "short": "HCJ Botoșani nr. 58/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 58/2010 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Centru rezidential pentru persoane adulte cu handicap din localitatile Ionaseni si Botosani\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-03-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h058_30.03.2010.pdf",
+     "sha256": "6c0125893eeaec9266b74c9d62f6434ac55f7c8e721fd0857af809405ead89db"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-59-2010",
+   "path": "local/judet/botosani/2010/59",
+   "short": "HCJ Botoșani nr. 59/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 59/2010 privind aprobarea organigramelor si statelor de functii pentru aparatul de specialitate al Consiliului Judetean Botosani, Directia Judeteana de Drumuri si Poduri Botosani si Serviciul Public Comunitar de Evidenta a Persoanelor al Judetului Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-04-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h059_28.04.2010.pdf",
+     "sha256": "5b556d05ed19b10df020850bb77d0226f063ec1bb41ac0699de4756a87acb190"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-6-2010",
+   "path": "local/judet/botosani/2010/6",
+   "short": "HCJ Botoșani nr. 6/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 6/2010 privind achitarea contributiei judetului Botosani la Agentia pentru Dezvoltare Regionala Nord-Est Piatra Neamt in suma de 710.529 lei din bugetul propriu judetean, pentru anul 2010, din care 560.529 lei pentru Fondul pentru Dezvoltare Regionala si 150.000 lei pentru Biroul Regional de Coope",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h006_28.01.2010.pdf",
+     "sha256": "c115d6499256b1f5bed0e2fbe16298dcd200dd590632bde751f2e9171ad79050"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-62-2010",
+   "path": "local/judet/botosani/2010/62",
+   "short": "HCJ Botoșani nr. 62/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 62/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-04-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h062_28.04.2010.pdf",
+     "sha256": "1c828d5df166265fad7c0a13b7882cba358848a15cdb1e1209409515fa02933d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-65-2010",
+   "path": "local/judet/botosani/2010/65",
+   "short": "HCJ Botoșani nr. 65/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 65/2010 privind aprobarea prelungirii duratei de folosinta gratuita a spatiului situat la parterul cladirii \"Muzeul de Stiintele Naturii - Dorohoi\", apartinand domeniului public al judetului Botosani, aflat in administrarea Muzeului Judetean Botosani, de catre Biblioteca Oraseneasca Dorohoi",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-04-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h065_28.04.2010.pdf",
+     "sha256": "052aaa47f9c831decb55683d5b1eed35ec2ae3f49974d9cb374febeb64e6d405"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-66-2010",
+   "path": "local/judet/botosani/2010/66",
+   "short": "HCJ Botoșani nr. 66/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 66/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-04-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h066_28.04.2010.pdf",
+     "sha256": "77c0e7786e2afeb06bd1bdb479af55fc038cd8f25e5f58a911290e2fb0daf0f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-67-2010",
+   "path": "local/judet/botosani/2010/67",
+   "short": "HCJ Botoșani nr. 67/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 67/2010 privind aprobarea conditiilor de vanzare a spatiilor cu destinatia de cabinete medicale si a spatiilor in care se desfasoara activitati conexe, aflate in domeniul privat al judetului Botosani, situate in municipiul Botosani, str",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-04-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h067_28.04.2010.pdf",
+     "sha256": "7245528abe81b2bbb226e2e70e5555e2d8bd3588855a83fd5ffc1649d5a49373"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-68-2010",
+   "path": "local/judet/botosani/2010/68",
+   "short": "HCJ Botoșani nr. 68/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 68/2010 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Modernizare drum de acces catre Lacul cu nuferi - Ipotesti, in vederea includerii in circuitul turistic\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-04-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h068_28.04.2010.pdf",
+     "sha256": "70014d622d29210e986c1f38e904bc50944955297d664997b6b63b5ca441b56f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-69-2010",
+   "path": "local/judet/botosani/2010/69",
+   "short": "HCJ Botoșani nr. 69/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 69/2010 privind declansarea procedurilor de expropriere a imobilelor proprietate privata, situate pe amplasamentul lucrarii de utilitate publica de interes judetean \"Modernizare drum de acces catre Lacul cu nuferi - Ipotesti, in vederea includerii in circuitul turistic\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-04-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h069_28.04.2010.pdf",
+     "sha256": "8c2669ef8b13c3b75c53438a7daeb080c3c7f7656900036e6b708c6256869c38"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-7-2010",
+   "path": "local/judet/botosani/2010/7",
+   "short": "HCJ Botoșani nr. 7/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 7/2010 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Modernizare DJ 293, Cotusca-Ghireni-DN 24C, km 41+050 - 47+700, judetul Botosani\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h007_28.01.2010.pdf",
+     "sha256": "d4a48b6c44fc693997b72d62a7e35103166e21689ee4708f908508aa0e44f94d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-72-2010",
+   "path": "local/judet/botosani/2010/72",
+   "short": "HCJ Botoșani nr. 72/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 72/2010 privind aprobarea prelungirii duratei de folosinta gratuita pana la 31.03.2010, de catre Biblioteca Oraseneasca Dorohoi, a spatiului in suprafata totala de 119,76 mp, situat la parterul cladirii \"Muzeului de Stiintele Naturii-Dorohoi\" - compus din 4 (patru) camere, amplasat in municipiul Do",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h072_29.04.2009.pdf",
+     "sha256": "e691d5b834fa980fe7906f48098b2fcc2e808f8e0f587eb9f9176d510ed657cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-73-2010",
+   "path": "local/judet/botosani/2010/73",
+   "short": "HCJ Botoșani nr. 73/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 73/2010 privind aprobarea Regulamentului de organizare si functionare al Memorialului Ipotesti - Centrul National de Studii \"Mihai Eminescu\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h073_27.05.2010.pdf",
+     "sha256": "9456c57bfb968f6ee6417c144e868dc9f044656b17613b2d26a910c1b6ca4006"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-74-2010",
+   "path": "local/judet/botosani/2010/74",
+   "short": "HCJ Botoșani nr. 74/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 74/2010 privind modificarea componentei Comisiei judetene de evaluare a persoanelor cu handicap pentru adulti",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h074_27.05.2010.pdf",
+     "sha256": "e87728900e77186458fab5bb76bf1b8b2f6948864762b42e0fae11631ad01520"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-75-2010",
+   "path": "local/judet/botosani/2010/75",
+   "short": "HCJ Botoșani nr. 75/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 75/2010 privind trecerea unor bunuri aflate in administrarea Spitalului de Psihiatrie Botosani, din domeniul public al judetului Botosani in domeniul privat al acestuia, in vederea valorificarii si, dupa caz, casarii, precum si modificarea inventarului bunurilor care apartin domeniului public al ju",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h075_27.05.2010.pdf",
+     "sha256": "ea067c8b4351020eb43e7dc9605bca3a0f9cbb0ef6f688c90c7e51ef256d2994"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-76-2010",
+   "path": "local/judet/botosani/2010/76",
+   "short": "HCJ Botoșani nr. 76/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 76/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h076_27.05.2010.pdf",
+     "sha256": "9cd16b2acdfa7225755a131970cef109f2aa8df4f9aea2ec012bb6f86308916a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-78-2010",
+   "path": "local/judet/botosani/2010/78",
+   "short": "HCJ Botoșani nr. 78/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 78/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h078_27.05.2010.pdf",
+     "sha256": "63119929a898d48711de1065265aa65ec3891ab5271484b940c88fd778dac0af"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-79-2010",
+   "path": "local/judet/botosani/2010/79",
+   "short": "HCJ Botoșani nr. 79/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 79/2010 privind aprobarea Regulamentului de organizare si functionare al Orchestrei Populare \"Rapsozii Botosanilor\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-06-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h079_29.06.2010.pdf",
+     "sha256": "ce141dc009f17da46a6adf5ff563fb7c5b3bf6bd18b48cb0f76f42534a0f9c3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-8-2010",
+   "path": "local/judet/botosani/2010/8",
+   "short": "HCJ Botoșani nr. 8/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 8/2010 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Modernizare DJ 208H, Vorona-Oneaga-Padureni, km 21+450 - 34+150, judetul Botosani\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h008_28.01.2010.pdf",
+     "sha256": "9d01d17a856a89651de6af34d7626f566711c9745d837f72dd4a2453f7ca9478"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-80-2010",
+   "path": "local/judet/botosani/2010/80",
+   "short": "HCJ Botoșani nr. 80/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 80/2010 privind aprobarea organigramei si statului de functii pentru Camera Agricola Judeteana Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-06-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h080_29.06.2010.pdf",
+     "sha256": "526c8d0bb7d4016c9a26c914f5e8bc8c218c18b90234e5090a8facd850657422"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-82-2010",
+   "path": "local/judet/botosani/2010/82",
+   "short": "HCJ Botoșani nr. 82/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 82/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-06-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h082_29.06.2010.pdf",
+     "sha256": "265cac6a0b4ae9dc3e2fba6d8b291a34cb3a0bae4521d4a90c4c04bbd5644df8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-84-2010",
+   "path": "local/judet/botosani/2010/84",
+   "short": "HCJ Botoșani nr. 84/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 84/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-06-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h084_29.06.2010.pdf",
+     "sha256": "9a865e213798057acd136af17bbae04b2d846a32ab9f706b23699a5d18311983"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-85-2010",
+   "path": "local/judet/botosani/2010/85",
+   "short": "HCJ Botoșani nr. 85/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 85/2010 privind demararea procedurii de preluare a managementului asistentei medicale privind spitalele publice de interes judetean",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-06-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h085_29.06.2010.pdf",
+     "sha256": "1bfeba393518b57c9079de161e33a0dbf92d055d11607e146d34f8ca16c58fa8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-88-2010",
+   "path": "local/judet/botosani/2010/88",
+   "short": "HCJ Botoșani nr. 88/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 88/2010 privind aprobarea preluarii de către",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-07-09",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/hg088_09.07.2010-partea%20a%20doua.pdf",
+     "sha256": "c493233680ff827a726684fbfa0d363dddcba540fb11d58f49d0a0da20e77722"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-89-2010",
+   "path": "local/judet/botosani/2010/89",
+   "short": "HCJ Botoșani nr. 89/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 89/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h089_29.07.2010.pdf",
+     "sha256": "f4ed3af66f40912279ac1c7459a4bccd2b0eb16371ce5f28e9018fda1fbfe448"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-9-2010",
+   "path": "local/judet/botosani/2010/9",
+   "short": "HCJ Botoșani nr. 9/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 9/2010 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Reabilitare pod peste raul Jijia pe DJ 292, km 4+980, in localitatea Broscauti, jud. Botosani\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h009_28.01.2010.pdf",
+     "sha256": "38a9a995e6e46d3c20027111b28eaf7c3a683bccd7c685b49f41ea462565c3f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-90-2010",
+   "path": "local/judet/botosani/2010/90",
+   "short": "HCJ Botoșani nr. 90/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 90/2010 privind modificarea componentei Comisiei de validare",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h090_29.07.2010.pdf",
+     "sha256": "d3d205460e57026b95c3ca91f062bf6a0b5afbb4a11dd78dba90565c1489c60b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-91-2010",
+   "path": "local/judet/botosani/2010/91",
+   "short": "HCJ Botoșani nr. 91/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 91/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h091_29.07.2010.pdf",
+     "sha256": "8a082b2c60fdc9c002d7e7d73a179d5ff675cf2c9bdbc30f9d4c0b4b3ba0ba19"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-92-2010",
+   "path": "local/judet/botosani/2010/92",
+   "short": "HCJ Botoșani nr. 92/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 92/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h092_29.07.2010.pdf",
+     "sha256": "37aaf1cf5e16a0c6d1dfe3e0781010ddc1f3d38d1aaabf7d2fa65b3c86c92166"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-93-2010",
+   "path": "local/judet/botosani/2010/93",
+   "short": "HCJ Botoșani nr. 93/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 93/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h093_29.07.2010.pdf",
+     "sha256": "8883da422ef02fdaa4217a1af213fe1f367792a6af0391cbd72a51582ffdd207"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-97-2010",
+   "path": "local/judet/botosani/2010/97",
+   "short": "HCJ Botoșani nr. 97/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 97/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h097_29.07.2010.pdf",
+     "sha256": "bcfa3ac01d536fba2127d6979897de52a5464b1e21ae0e8c90aefd618593c615"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-98-2010",
+   "path": "local/judet/botosani/2010/98",
+   "short": "HCJ Botoșani nr. 98/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 98/2010 privind aprobarea cotizatiei anuale a Judetului Botosani la Asociatia pentru Dezvoltare Intercomunitara EURONES 29.07.2010 T (A.D.I.E.) - Iasi",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h098_29.07.2010.pdf",
+     "sha256": "ea1f19907ebc38b954ee02c4d3a6bdfeec8493b34589c717d67d379086e71384"
     }
    ]
   }

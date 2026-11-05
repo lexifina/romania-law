@@ -3,6 +3,456 @@
  "shard": "local/judet/botosani/2005",
  "acts": [
   {
+   "slug": "hcj-botosani-101-2005",
+   "path": "local/judet/botosani/2005/101",
+   "short": "HCJ Botoșani nr. 101/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 101/2005 privind infiintarea Comisiei judetene de evaluare a persoanelor cu handicap pentru adulti si aprobarea Regulamentului de organizare si functionare al acesteia",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-11-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h101_2005.11.22.pdf",
+     "sha256": "88a19b79bf1cfa19abe725484d15da14c35d89c73d8737d6ad47193b35102dae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-104-2005",
+   "path": "local/judet/botosani/2005/104",
+   "short": "HCJ Botoșani nr. 104/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 104/2005 privind aprobarea bugetului propriu judeţean și al bugetului instituţiilor publice şi activităţilor finanţate integral sau parţial din venituri proprii, pe anul 2026",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-05-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H104_20260505.pdf",
+     "sha256": "cb9f592bcb4034b3213401eb7bb6cbce9894aed97ac8d2462ee8742f94efb82a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-107-2005",
+   "path": "local/judet/botosani/2005/107",
+   "short": "HCJ Botoșani nr. 107/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 107/2005",
+   "url": null,
+   "versions": [
+    {
+     "from": "2005-12-19",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h107_2005.12.19.pdf",
+     "sha256": "4a9e523f8c16aeae8167b827327cab9dc6bf6cbcdad556b2a12928cd0e2bbdec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-11-2005",
+   "path": "local/judet/botosani/2005/11",
+   "short": "HCJ Botoșani nr. 11/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 11/2005 privind aprobarea Regulamentului de organizare si functionare a Muzeului Judetean Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-02-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h011_2005.02.23.pdf",
+     "sha256": "09f3b577a62c5ad5b97722f98783ab0caacb4f6f5926f1f9d2e395411cf672a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-113-2005",
+   "path": "local/judet/botosani/2005/113",
+   "short": "HCJ Botoșani nr. 113/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 113/2005 privind achitarea contributiei judetului Botosani la Agentia pentru Dezvoltare Regionala Nord-Est, pentru anul 2006, in suma de 279.950 RON, din bugetul propriu judetean",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-12-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h113_2005.12.29.pdf",
+     "sha256": "38c3e9040d07ed4675f3672f28e5060ff0614f1b863b8c4b43f044dd16cc9772"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-12-2005",
+   "path": "local/judet/botosani/2005/12",
+   "short": "HCJ Botoșani nr. 12/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 12/2005 privind numirea directorilor, aprobarea regulamentelor de organizare si functionare si constituirea consiliilor consultative la Unitatile de Asistenta Medico-Sociala Sulita, Mihaileni si Suharau",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-02-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h012_2005.02.23.pdf",
+     "sha256": "87af5dcd01a37fcb7c499b1935b6edce866d756d5905e8db5d3114f0f2468d0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-14-2005",
+   "path": "local/judet/botosani/2005/14",
+   "short": "HCJ Botoșani nr. 14/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 14/2005 privind alocarea sumei de 867.875 mii lei pentru cheltuieli personal la Serviciul Public Comunitar de Evidenta a Persoanelor Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-02-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h014_2005.02.23.pdf",
+     "sha256": "41b17091db90745a7c73d3d2f276c5cf8b01a0a44be86487f2d4e38caf0f49f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-15-2005",
+   "path": "local/judet/botosani/2005/15",
+   "short": "HCJ Botoșani nr. 15/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 15/2005 privind aprobarea salariilor de baza pe anul 2005, ale personalului incadrat in Aparatul permanent de lucru al Consiliului Judetean Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-02-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h015_2005.02.23.pdf",
+     "sha256": "3bc07a2a9946b8d614d8153fcfbed8487c8fec9a4debecf7805acb81752b553e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-16-2005",
+   "path": "local/judet/botosani/2005/16",
+   "short": "HCJ Botoșani nr. 16/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 16/2005 privind repartizarea fondurilor alocate pe anul 2005 de Ministerul Transporturilor, Constructiilor si Turismului pentru actualizarea planurilor urbanistice generale si a regulamentelor locale de urbanism",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-02-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h016_2005.02.23.pdf",
+     "sha256": "9ed6f05becace462f04c65ac2e7bb6bb54211f31ca814229b7ddc5d8b98f4b43"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-19-2005",
+   "path": "local/judet/botosani/2005/19",
+   "short": "HCJ Botoșani nr. 19/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 19/2005 privind vanzarea pachetului de actiuni al S.C",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-02-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h019_2005.02.23.pdf",
+     "sha256": "4922453cb05226c5233e4060505b057754f5a96b155ae7e6d398d0ace1dc9374"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-2-2005",
+   "path": "local/judet/botosani/2005/2",
+   "short": "HCJ Botoșani nr. 2/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 2/2005 privind eliberarea acordului pentru trecerea unor constructii si terenuri din domeniul public al statului si din administrarea Ministerului Culturii si Cultelor in domeniul public al judetului Botosani si administrarea Consiliului Judetean Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-02-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h002_2005.02.23.pdf",
+     "sha256": "542268fa27b8ad624914adbb7a4456cfe8c69cb180d0499d780a6500f27c0b2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-21-2005",
+   "path": "local/judet/botosani/2005/21",
+   "short": "HCJ Botoșani nr. 21/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 21/2005",
+   "url": null,
+   "versions": [
+    {
+     "from": "2005-04-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h021_2005.04.25.pdf",
+     "sha256": "732703dc5b5b0b1c55e165d4ad1eeaad322e7ee590bb3665045b553df64088aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-28-2005",
+   "path": "local/judet/botosani/2005/28",
+   "short": "HCJ Botoșani nr. 28/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 28/2005 privind aprobarea prelungirii duratei de folosinta gratuita pana la 15 iunie 2005, de catre Gradinita nr. 12 Botosani, a suprafetei de 918,7 mp (\"Cresa - Pavilion I\") din bunul \"Imobil\" de la Centrul de Plasament \"Sf. Stelian\", situat in municipiul Botosani, strada 30 Decembrie, apartinand",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-06-15",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h028_2005.04.25.pdf",
+     "sha256": "e5f040b926fd0b299e01ca27e9d0dde625630fa966720bc4790021a55091269a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-29-2005",
+   "path": "local/judet/botosani/2005/29",
+   "short": "HCJ Botoșani nr. 29/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 29/2005 privind aprobarea inchirierii suprafetei de 82,65 mp din bunul imobil \"Cladire Galerii de arta si magazin fond plastic\", situat in Botosani, Piata Revolutiei nr. 3, bl. 5-6, aflat in domeniul public al judetului Botosani si administrarea Muzeului Judetean Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-04-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h029_2005.04.25.pdf",
+     "sha256": "e36222eb06eafe83a6240dc87217cba6e6b5286070373f8e96b8b8ead70b29a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-30-2005",
+   "path": "local/judet/botosani/2005/30",
+   "short": "HCJ Botoșani nr. 30/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 30/2005 privind modificarea Programului de transport rutier de persoane prin servicii regulate in trafic judetean, valabil in perioada 01.07.2005 - 30.06.2008",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-07-01",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h030_2007.03.28.pdf",
+     "sha256": "990dede42c6d6f2994a252cd7b6e99937022fc00879a94eba80fcda9236dafae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-31-2005",
+   "path": "local/judet/botosani/2005/31",
+   "short": "HCJ Botoșani nr. 31/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 31/2005 privind aprobarea Programului de transport rutier de persoane prin servicii regulate in trafic judetean, precum si a Programului de transport rutier de persoane prin servicii regulate in trafic interjudetean, intre doua judete limitrofe, pentru perioada 01.07.2005-30.06.2008",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-07-01",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h031_2005.04.25.pdf",
+     "sha256": "3eb28f3b1be4c6317110f50e461663e81561c8d64573920f98266d74413cb286"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-32-2005",
+   "path": "local/judet/botosani/2005/32",
+   "short": "HCJ Botoșani nr. 32/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 32/2005 privind modificarea si completarea organigramei, situatiei functiilor publice si statului de functii ale Directiei Generale de Asistenta Sociala si Protectia Copilului Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-04-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h032_2005.04.25.pdf",
+     "sha256": "03a01bfd3ccf8255d6c2106b08d561367c22d14e9701c4f2222bf9060da8f77f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-33-2005",
+   "path": "local/judet/botosani/2005/33",
+   "short": "HCJ Botoșani nr. 33/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 33/2005",
+   "url": null,
+   "versions": [
+    {
+     "from": "2005-04-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h033_2005.04.25.pdf",
+     "sha256": "ab5f8c868afbf39229d7a05ea541cf5efa87ae643ae39c0feb5f391bbc10d366"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-34-2005",
+   "path": "local/judet/botosani/2005/34",
+   "short": "HCJ Botoșani nr. 34/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 34/2005 privind aprobarea numarului de personal, organigramei si statului de functii ale Corpului Gardienilor Publici Botosani, pentru perioada aprilie - 30 noiembrie 2005",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-11-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h034_2005.04.25.pdf",
+     "sha256": "e565ca21623725b2b5afb8519bf0d30b81867d8aa3624ec3e8d083a7044d81ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-35-2005",
+   "path": "local/judet/botosani/2005/35",
+   "short": "HCJ Botoșani nr. 35/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 35/2005 privind modificarea si completarea statului de functii al Bibliotecii Judetene \"Mihai Eminescu\" Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-04-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h035_2005.04.25.pdf",
+     "sha256": "9aacaa400df24ed7b9cc6ff0a50e7546afcc951bb62d01bbda95bcbff24b64ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-37-2005",
+   "path": "local/judet/botosani/2005/37",
+   "short": "HCJ Botoșani nr. 37/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 37/2005 privind desemnarea unui reprezentant al Consiliului Judetean Botosani in Consiliul de Administratie al Muzeului Judetean Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-04-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h037_2005.04.25.pdf",
+     "sha256": "75224e9ad7ef331daa96aea976add571e46251304cce1eaf601a8f91a68d5cd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-38-2005",
+   "path": "local/judet/botosani/2005/38",
+   "short": "HCJ Botoșani nr. 38/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 38/2005 privind aprobarea contului anual de executie al bugetului propriu al Consiliului Judetean si a contului de executie a utilizarii fondului de rulment intocmite pe baza situatiilor financiare la 31 decembrie 2005",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-12-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h038_2006.05.31.pdf",
+     "sha256": "78ff96e224ff94c87f7f509bb326e5864029a82ed03ac6bb602e37ee6820a5fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-40-2005",
+   "path": "local/judet/botosani/2005/40",
+   "short": "HCJ Botoșani nr. 40/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 40/2005",
+   "url": null,
+   "versions": [
+    {
+     "from": "2005-05-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h040_2005.05.25.pdf",
+     "sha256": "caf6c3bbc7db75d183ef19604dc2767ceea7d095d92c7c7f100b2b2c32ed9d89"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-41-2005",
+   "path": "local/judet/botosani/2005/41",
+   "short": "HCJ Botoșani nr. 41/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 41/2005 privind angajarea fondului de rulment existent la nivelul Consiliului Judetean Botosani in suma de 1.000.000 lei, pe anul 2007",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-03-07",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h041_2007.04.26.pdf",
+     "sha256": "3fe06cc111fa23c562574115ed31d520fb332e72c4507f40186e2025ee331326"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-44-2005",
+   "path": "local/judet/botosani/2005/44",
+   "short": "HCJ Botoșani nr. 44/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 44/2005 privind aprobarea contului de executie al bugetului propriu judetean, pe cele doua sectiuni, pentru trimestrul I 2011",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-05-11",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h044_28.04.2011.pdf",
+     "sha256": "aa1aa99ca13bb13c74858769907283a15b80feb1fb15b13fbdc1e64b079ff437"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-46-2005",
+   "path": "local/judet/botosani/2005/46",
+   "short": "HCJ Botoșani nr. 46/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 46/2005 privind definitivarea pe post a directorilor Unitatilor de Asistenta Medico-Sociala Sulita, Mihaileni si Suharau la expirarea perioadei de proba",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-05-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h046_2005.05.25.pdf",
+     "sha256": "481f232eb3200f9289ffa4944d2c3bfe2064cbe68175720b90109df6b5818edc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-47-2005",
+   "path": "local/judet/botosani/2005/47",
+   "short": "HCJ Botoșani nr. 47/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 47/2005",
+   "url": null,
+   "versions": [
+    {
+     "from": "2005-05-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h047_2005.05.25.pdf",
+     "sha256": "0b1087ffa44a2d526a0e1b09f9937b1a0b8fddbdc77230c434ec6738ba21e68e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-49-2005",
+   "path": "local/judet/botosani/2005/49",
+   "short": "HCJ Botoșani nr. 49/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 49/2005",
+   "url": null,
+   "versions": [
+    {
+     "from": "2005-07-01",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h049_2005.06.23.pdf",
+     "sha256": "3b8c7f931f12e160ffe89d323aae1a9863985ab12a7fad3a979d0edf4f8c10a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-50-2005",
+   "path": "local/judet/botosani/2005/50",
+   "short": "HCJ Botoșani nr. 50/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 50/2005 privind nominalizarea persoanelor din cadrul Consiliului Judetean Botosani pentru tinerea evidentei in Registrul datoriei publice locale si in Registrul garantiilor locale la nivelul activitatii bugetului propriu judetean",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-06-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h050_2005.06.23.pdf",
+     "sha256": "75be6cda6c796e6c1e7a0bc6ee4c64cd136796cda5bbe19fa4a914f94520df79"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-51-2005",
+   "path": "local/judet/botosani/2005/51",
+   "short": "HCJ Botoșani nr. 51/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 51/2005 privind reorganizarea Comisiei judetene de expertiza medicala a persoanelor cu handicap pentru adulti si aprobarea Regulamentului de organizare si functionare al acesteia",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-06-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h051_2005.06.23.pdf",
+     "sha256": "f198c04acb53b8a2c46b6d6e14f7bd825014355a01a16b10eb14c392c4cd33a2"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-52-2005",
    "path": "local/judet/botosani/2005/52",
    "short": "HCJ Botoșani nr. 52/2005",
@@ -18,6 +468,156 @@
    ]
   },
   {
+   "slug": "hcj-botosani-57-2005",
+   "path": "local/judet/botosani/2005/57",
+   "short": "HCJ Botoșani nr. 57/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 57/2005 privind eliberarea acordului pentru trecerea unor constructii din domeniul privat al statului si din administrarea Ministerului Sanatatii in domeniul public al judetului Botosani si administrarea Consiliului Judetean Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-08-01",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h057_2005.08.01.pdf",
+     "sha256": "eb703835e0701d03f07e50988577382f2c526126c3b29106c8272a6046815d86"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-58-2005",
+   "path": "local/judet/botosani/2005/58",
+   "short": "HCJ Botoșani nr. 58/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 58/2005 privind rectificarea bugetului propriu judeţean cu suma de +395,00 mii lei şi al bugetului instituţiilor şi activităţilor finanţate integral sau parţial din venituri proprii cu suma de +400,00 mii lei atât la partea de venituri, cât şi la partea de cheltuieli, pe anul 2016",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-11-16",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h058_11.05.2016.pdf",
+     "sha256": "0f2a982bdd9a5be1e90390b58e0e721c6a4d66dda60fef86509dd436771da12b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-60-2005",
+   "path": "local/judet/botosani/2005/60",
+   "short": "HCJ Botoșani nr. 60/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 60/2005 privind modificarea organigramei si statului de functii pentru aparatul de specialitate al Consiliului Judetean Botosani, pe anul 2009",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-07-09",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h060_29.04.2009.pdf",
+     "sha256": "7de781155d99bb2b248b8b78449a9b326d580621c88a5ead99fd48b194af5beb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-62-2005",
+   "path": "local/judet/botosani/2005/62",
+   "short": "HCJ Botoșani nr. 62/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 62/2005 privind validarea modificărilor intervenite în bugetul propriu judeţean, pe anul 2014",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-09-14",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h062_30.04.2014.pdf",
+     "sha256": "0b19c576ee7c930b1befbc936bcc966eee3d03f0187cc4111c206eb4e511e9c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-64-2005",
+   "path": "local/judet/botosani/2005/64",
+   "short": "HCJ Botoșani nr. 64/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 64/2005 privind aprobarea situatiilor financiare, pe anul 2008",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-06-09",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h064_29.04.2009.pdf",
+     "sha256": "c9b6a53379e5e976130d72310bc8f26cad23dec92dba17fed6a5301ce00eda47"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-65-2005",
+   "path": "local/judet/botosani/2005/65",
+   "short": "HCJ Botoșani nr. 65/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 65/2005 privind privatizarea S.C",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-08-01",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h065_2005.08.01.pdf",
+     "sha256": "c46f81d7bce4182cb7753eb26888dc6f138a66f13fdaae0ddab6a8fe0eaf088e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-66-2005",
+   "path": "local/judet/botosani/2005/66",
+   "short": "HCJ Botoșani nr. 66/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 66/2005 privind rectificarea bugetului propriu judetean cu suma de 4.918,50 mii lei, pe anul 2009",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-06-09",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h066_29.04.2009.pdf",
+     "sha256": "ca9aae3967f550811f87ca8719f9ad7c05d127984ff610344c79904c74fdc2ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-69-2005",
+   "path": "local/judet/botosani/2005/69",
+   "short": "HCJ Botoșani nr. 69/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 69/2005 privind modificarea si completarea Programului de activitate pe anul 2005 al Centrului Judetean pentru Conservarea si Promovarea Culturii Traditionale Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-09-21",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h069_2005.09.21.pdf",
+     "sha256": "6f2df2ddd10b49ccb49128216bdc19697ec9a0edc6104f68577d1f07807709a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-71-2005",
+   "path": "local/judet/botosani/2005/71",
+   "short": "HCJ Botoșani nr. 71/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 71/2005 privind aprobarea componentei Comisiei de Acorduri Unice",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-09-21",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h071_2005.09.21.pdf",
+     "sha256": "09a03d5fd28983906fc4c70d2bf6622fb92e1ec8c783432882a940390173c4aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-73-2005",
+   "path": "local/judet/botosani/2005/73",
+   "short": "HCJ Botoșani nr. 73/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 73/2005",
+   "url": null,
+   "versions": [
+    {
+     "from": "2005-09-21",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h073_2005.09.21.pdf",
+     "sha256": "921b108e7cd856a50851ca1de8b2628669eb6fb935e78af15b607c0bedb22461"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-74-2005",
    "path": "local/judet/botosani/2005/74",
    "short": "HCJ Botoșani nr. 74/2005",
@@ -29,6 +629,141 @@
      "units": 1,
      "source_url": "https://www.cjbotosani.ro/files/h074_2005.09.21.pdf",
      "sha256": "ade387e0de1567de15979408c8dc2e1495629b342067806c0d749a884699a3ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-75-2005",
+   "path": "local/judet/botosani/2005/75",
+   "short": "HCJ Botoșani nr. 75/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 75/2005",
+   "url": null,
+   "versions": [
+    {
+     "from": "2005-09-21",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h075_2005.09.21.pdf",
+     "sha256": "731e4f8453dc30f33187243c4e06ee9dcfd7c58ff436dabbe5a1ef233584d980"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-77-2005",
+   "path": "local/judet/botosani/2005/77",
+   "short": "HCJ Botoșani nr. 77/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 77/2005 privind rectificarea bugetului propriu judetean, pe anul 2009",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-07-09",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h077_07.05.2009.pdf",
+     "sha256": "03126d5f220dc2c9705cb5576b20da9c1205f3bcfe65d918e2509466d573ea46"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-80-2005",
+   "path": "local/judet/botosani/2005/80",
+   "short": "HCJ Botoșani nr. 80/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 80/2005 privind aprobarea Conventiei intre",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-09-21",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h080_2005.09.21.pdf",
+     "sha256": "c1bd45446361e7c8c66f3046b66c8bfd03d3a0374690e4c27b8e0da24fa0ffef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-82-2005",
+   "path": "local/judet/botosani/2005/82",
+   "short": "HCJ Botoșani nr. 82/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 82/2005",
+   "url": null,
+   "versions": [
+    {
+     "from": "2005-10-01",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h082_2005.09.21.pdf",
+     "sha256": "2e7ced2f7473896a7299427136459d0700f063cec25930b6f0c8ef075b43287d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-9-2005",
+   "path": "local/judet/botosani/2005/9",
+   "short": "HCJ Botoșani nr. 9/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 9/2005 privind constituirea Comitetului Tehnic Judetean pentru Descentralizare",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-02-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h009_2005.02.23.pdf",
+     "sha256": "4cfe05ad8b43ee199efb199ff760c2a895d3a2724abc065b0e82ac8392668786"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-93-2005",
+   "path": "local/judet/botosani/2005/93",
+   "short": "HCJ Botoșani nr. 93/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 93/2005 privind aprobarea Regulamentului de organizare si functionare al Muzeului Judetean Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-11-03",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h093_2005.11.03.pdf",
+     "sha256": "1d41025f46b628b33eb22f3e9616cdb553de27e33d7c36d971d09697444d3ac5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-95-2005",
+   "path": "local/judet/botosani/2005/95",
+   "short": "HCJ Botoșani nr. 95/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 95/2005 privind aprobarea Strategiei de colaborare transfrontaliera in domeniul schimburilor culturale si a calendarului actiunilor culturale pentru perioada 2006-2010 intre institutiile de cultura din judetul Botosani (Romania) si raionul Glodeni (Rep. Moldova)",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-11-03",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h095_2005.11.03.pdf",
+     "sha256": "9805c5f768252822acf722130edea051253bd6ce7c7b4e64af0faddba3820b05"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-96-2005",
+   "path": "local/judet/botosani/2005/96",
+   "short": "HCJ Botoșani nr. 96/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 96/2005 privind aprobarea modificarii organigramei si statului de functii ale Directiei judetene de Drumuri si Poduri pe anul 2005, pentru personalul preluat din somaj",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-11-03",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h096_2005.11.03.pdf",
+     "sha256": "c4cd267319f4fba96976dd9454ffea23f039afcef93343157eb5eb926efe93bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-98-2005",
+   "path": "local/judet/botosani/2005/98",
+   "short": "HCJ Botoșani nr. 98/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 98/2005 privind numirea administratorului special la S.C",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-11-03",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h098_2005.11.03.pdf",
+     "sha256": "19bf7f6bcccdcc5831a1cf93111b96da7a665d094a6532f63a6e4f9506cfcb8a"
     }
    ]
   }

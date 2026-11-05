@@ -3,6 +3,81 @@
  "shard": "local/judet/braila/2026",
  "acts": [
   {
+   "slug": "hcj-braila-10-2026",
+   "path": "local/judet/braila/2026/10",
+   "short": "HCJ Brăila nr. 10/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 10/2026 pentru emiterea avizului consultativ pentru Planurile anuale de acțiune privind serviciile sociale administrate și finanțate din bugetele locale ale Unităților Administrativ Teritoriale: Frecăței, Mărașu, Scorțaru Nou, Tufești, Berteștii de Jos, Galbenu, Movila Miresii, Jirlău, Chiscani, Romanu, Vișani și Unirea",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/22C0F82CF83BBDECC2258D95003AE15C/$FILE/HOT%2010.pdf",
+     "sha256": "57405f7af7cc345ed6f7c5829ef92883a7fa5c8fcf8a132ed8d812c52f162b78"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-100-2026",
+   "path": "local/judet/braila/2026/100",
+   "short": "HCJ Brăila nr. 100/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 100/2026 pentru PNRR și UAT-Județul Brăila, în calitate de beneficiar al finanțării, cu modificările și completările ulterioare; - Proces verbal de recepție cantitativă partială nr.1/10.02.2026; - Procesul verbal de recepție cantitativă nr.4/11.03.2026; - Procesul verbal de recepție calitativă nr.8/07.04.2026; - Hotărârea Consiliului Județean Brăila nr.149/23.08.2023 privind aprobarea proiectului “Investiț",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/5973631FFACC9295C2258E0A002530CC/$FILE/HOT%20100.pdf",
+     "sha256": "610194d71133ee0b6294667e94e49066cb2af45f0804f0f132dba31b5d274c91"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-101-2026",
+   "path": "local/judet/braila/2026/101",
+   "short": "HCJ Brăila nr. 101/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 101/2026 privind aprobarea prelungirii termenului de transmitere în folosință gratuită, către Inspectoratul pentru Situații de Urgență “Dunărea” al Județului Brăila și Centrul Militar Județean Brăila, pe o perioada de 6 ani, a unor active fixe și obiecte de inventar",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/CEEDC58D2FABDD82C2258E0A002530CD/$FILE/HOT%20101.pdf",
+     "sha256": "2e17d0da947f91691a7f64712a1b3f9c94a4beeca5a9d0a766b014afa18da456"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-102-2026",
+   "path": "local/judet/braila/2026/102",
+   "short": "HCJ Brăila nr. 102/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 102/2026 privind aprobarea achitării sumei de 648.012,00 lei din cotizația de membru al Asociației de Dezvoltare Intercomunitară „ECO DUNĂREA” Brăila pentru anul 2026",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/86998BACADB4A28EC2258E0A002530CE/$FILE/HOT%20102.pdf",
+     "sha256": "09d2199e24357cdabfd720e5c047bd4f3906a52ff02fad4065ad9e5b4bddc33e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-103-2026",
+   "path": "local/judet/braila/2026/103",
+   "short": "HCJ Brăila nr. 103/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 103/2026 privind finanțele publice locale, cu modificările și completările ulterioare; În baza prevederilor art. 173 alin.(3) lit.“a“ din O.U.G 57/2019 privind Codul administrativ, cu modificările și completările ulterioare; În temeiul prevederilor art.182 alin.(1), art.196 alin.(1) lit.“a“ din O.U.G 57/2019 privind Codul administrativ, cu modificările și completările ulterioare, HOTĂRĂȘTE : Art.1 Se aprob",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/2CF9067A1C106D43C2258E0A002530D0/$FILE/HOT%20103.pdf",
+     "sha256": "a9be121df539723306d18f08a20918da4a499b47823d367922ecd6f2f65514a2"
+    }
+   ]
+  },
+  {
    "slug": "hcj-braila-104-2026",
    "path": "local/judet/braila/2026/104",
    "short": "HCJ Brăila nr. 104/2026",
@@ -14,6 +89,261 @@
      "units": 1,
      "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/7C49ADB86A56AF42C2258E17001D4593/$FILE/HOT%20104.pdf",
      "sha256": "5d24fcda0d70cc2bbaf579994e9b3c77f18f7ea0656a451684ab84de3481b675"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-105-2026",
+   "path": "local/judet/braila/2026/105",
+   "short": "HCJ Brăila nr. 105/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 105/2026",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/EA3F224B39363FA9C2258E17001D4596/$FILE/HOT%20105.pdf",
+     "sha256": "7ef7fe9dc6553806743ab32c2546a75aa4bb32ec732a1052e3ab10624d8daab5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-106-2026",
+   "path": "local/judet/braila/2026/106",
+   "short": "HCJ Brăila nr. 106/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 106/2026 privind aprobarea actualizării Monografiei economico-militare a județului Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/645A723B1BB85FE2C2258E290024D100/$FILE/HOT%20106.pdf",
+     "sha256": "f1a8bbc2cb0dd15a8698e14c409ec531c5081c6e556db1c27d07faac4a608149"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-107-2026",
+   "path": "local/judet/braila/2026/107",
+   "short": "HCJ Brăila nr. 107/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 107/2026 privind organizarea și stabilirea componenței nominale a comisiilor de specialitate ale Consiliului Județean Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/DA076DA3AFDE276FC2258E290024D101/$FILE/HOT%20107.pdf",
+     "sha256": "54b810e077b117f6af6231acdf683e5412150a793b164932167bfcaa3b7bdbcd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-108-2026",
+   "path": "local/judet/braila/2026/108",
+   "short": "HCJ Brăila nr. 108/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 108/2026 privind aprobarea organigramei și a statului de funcții ale Spitalului Clinic Județean de Urgență Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/92292921B72D4B6AC2258E290024D102/$FILE/HOT%20108.pdf",
+     "sha256": "049df1e1ba3a0500bdf0e2716aa69f7e3565d4c98537c8ac9808386e65cc4e53"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-109-2026",
+   "path": "local/judet/braila/2026/109",
+   "short": "HCJ Brăila nr. 109/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 109/2026 privind aprobarea organigramei și a statului de funcții ale Bibliotecii Județene « Panait Istrati » Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/A7E97FD122CC1AA2C2258E290024D103/$FILE/HOT%20109.pdf",
+     "sha256": "856c1ebea243337ebdf2bc0ef6fd23ee8a76a61468b6d7e6f1009700e461db9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-11-2026",
+   "path": "local/judet/braila/2026/11",
+   "short": "HCJ Brăila nr. 11/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 11/2026 privind aprobarea ,,Strategiei de dezvoltare a județului Brăila 2021-2027”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/890FC60B04DC3708C2258D95003AE15D/$FILE/HOT%2011.pdf",
+     "sha256": "fd81a82fa55c7e238025f33d0875ed45a874ec58fdee28667561d1e591b6d806"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-110-2026",
+   "path": "local/judet/braila/2026/110",
+   "short": "HCJ Brăila nr. 110/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 110/2026 privind modificarea Hotărârii Consiliului Județean Brăila nr.145 din 27 august 2025 pri- vind aprobarea organigramei, a statului de funcții și a Regulamentului de orga- nizare și funcționare ale Școlii Populare de Arte și Meserii «Vespasian Lungu» Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/2649518F0F59E379C2258E290024D104/$FILE/HOT%20110.pdf",
+     "sha256": "ca3810e8172ffbb5cb5282b71cd1aa718993646f4e2c86807433327f122b2957"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-111-2026",
+   "path": "local/judet/braila/2026/111",
+   "short": "HCJ Brăila nr. 111/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 111/2026 privind aprobarea organigramei, a statului de funcții și a Regulamentului de Organizare și Funcționare ale Filarmonicii “Lyra-George Cavadia” Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/6C6317E5D7A93684C2258E290024D105/$FILE/HOT%20111.pdf",
+     "sha256": "6b331410ac8faf8f260110e12edc24598114ebb817c050a526dc9059e4d583cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-112-2026",
+   "path": "local/judet/braila/2026/112",
+   "short": "HCJ Brăila nr. 112/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 112/2026 pentru obiectivul de investiții: „Reabilitare termică și a spațiilor Bibliotecii Județene \"Panait Istrati\" Brăila”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/807AA1EDEFA7A9E9C2258E290024D106/$FILE/HOT%20112.pdf",
+     "sha256": "af3788a79bceda06198ca6e0480e406a47b3c720dc9a56fc8b3419baa7d7e1fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-113-2026",
+   "path": "local/judet/braila/2026/113",
+   "short": "HCJ Brăila nr. 113/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 113/2026 pentru a vota în cadrul Asociației de Dezvoltare Intercomunitară „ECO DUNĂREA” Brăila modificarea tarifelor aferente Contractului de delegare nr.1502/04.06.2025 încheiat cu Asocierea Polaris M",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/C545DB9B0902000DC2258E290024D107/$FILE/HOT%20113.pdf",
+     "sha256": "dba5392b8ca0cf705ea51ec4fa7b8ff67d26ad0b208ab33991876137cfec329d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-114-2026",
+   "path": "local/judet/braila/2026/114",
+   "short": "HCJ Brăila nr. 114/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 114/2026 pentru Situații de Urgență ”Dunărea” al Județului Brăila, pentru desfășurarea evenimentului ”Maratonul Resuscitării - ediția I”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/59EA8F52CBBFCA86C2258E290024D108/$FILE/HOT%20114.pdf",
+     "sha256": "532e017a735fc9a25c67cf980626833a56e06e118c046faa537dcf20a1a17fb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-115-2026",
+   "path": "local/judet/braila/2026/115",
+   "short": "HCJ Brăila nr. 115/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 115/2026 pentru activități științifice, învățământ, cultură, culte, tineret și activități sportive; Având în vedere prevederile Hotărârii Guvernului nr.283/2003 pentru aprobarea Programului național \"Mișcare pentru sănătate\", art.173 alin. (1) lit.c), lit.e) și alin. (7) lit.a) din Ordonanța de Urgență nr.57/2019, privind Codul administrativ, cu modificările și completările ulterioare, coroborate cu preved",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/DB77A9DB335622B4C2258E290024D109/$FILE/HOT%20115.pdf",
+     "sha256": "21a97a89bfd7ba04b0a9bcaee793497242cb1d12cf5409ac58df72431c36312c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-116-2026",
+   "path": "local/judet/braila/2026/116",
+   "short": "HCJ Brăila nr. 116/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 116/2026 pentru o perioadă de 6 ani, către Centrul Militar Județean Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/C9A131D55BA559C2C2258E290024D10A/$FILE/HOT%20116.pdf",
+     "sha256": "cb3cd494b8b9d07af21ad59b90d9559e6ecb0301fa2dfd2672f4be186a8b0413"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-117-2026",
+   "path": "local/judet/braila/2026/117",
+   "short": "HCJ Brăila nr. 117/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 117/2026 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului; - Atlasul cadastrului apelor din România- partea I- Date morfo-hidrografice asupra rețelei hidrografice de suprafață; - Legea apelor nr. 107 din 25.09.1996, cu modificările și completările ulterioare; - Adresa nr. 10137 din 18.05.2026 emisă de Direcția Tehnică și Lucrări Publice din cadrul",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/A3CBAEA883F69542C2258E290024D10B/$FILE/HOT%20117.pdf",
+     "sha256": "c567e1638f3e23794f11aeddec245013a571311c066b087921fd22c2487fe476"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-118-2026",
+   "path": "local/judet/braila/2026/118",
+   "short": "HCJ Brăila nr. 118/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 118/2026 privind aprobarea achitării contribuției ce revine Județului Brăila prin",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/7C59606B90593A6AC2258E290024D10C/$FILE/HOT%20118.pdf",
+     "sha256": "f6a89977c2c6e71ceb4c00106fd1da3a30f7e5890075865d2c6f05ef8ee35497"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-119-2026",
+   "path": "local/judet/braila/2026/119",
+   "short": "HCJ Brăila nr. 119/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 119/2026 privind aprobarea și plata cuantumului cotizației pentru anul 2026 a UAT Județul Brăila, prin",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/CFB88272E6459D64C2258E290024D10D/$FILE/HOT%20119.pdf",
+     "sha256": "b63c3974e3af78deaf7f91f0edbd9913e38aaf8d89c32a5f2d8b8cd98655db78"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-12-2026",
+   "path": "local/judet/braila/2026/12",
+   "short": "HCJ Brăila nr. 12/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 12/2026 pentru finanțare din Programul Regional Sud-Est 2021- 2027, Acțiunea 6.2 Valorificarea potențialului turistic în zone non-urbane, Obiectiv Specific 5.2",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/2D2D65D6F7751019C2258D95003AE15E/$FILE/HOT%2012.pdf",
+     "sha256": "00e6dcba8746f7b9f17156ddbb8f26e7394dc63d347802e0eef2d57a2673a16a"
     }
    ]
   },
@@ -33,6 +363,186 @@
    ]
   },
   {
+   "slug": "hcj-braila-121-2026",
+   "path": "local/judet/braila/2026/121",
+   "short": "HCJ Brăila nr. 121/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 121/2026 privind aprobarea bugetului Județului Brăila pe anul 2026 și estimările pe anii 2027-2029",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/49C6B446A73A6041C2258E290024D10F/$FILE/HOT%20121.pdf",
+     "sha256": "e6203c263d61df56529ae37a41a6df206a392b089b4595b8da0d6ad7cd33f5ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-122-2026",
+   "path": "local/judet/braila/2026/122",
+   "short": "HCJ Brăila nr. 122/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 122/2026 privind repartizarea sumelor corespunzătoare cotei prevăzute la art.7 alin.(1) lit.e) din Legea bugetului de stat pe anul 2026 nr.43/2026 pentru finanțarea instituțiilor publice de spectacole din subordinea autorităților administrației publice locale ale unităților administrativ-teritoriale din județe, respectiv teatre, opere și filarmonici",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/974A454C883800DFC2258E290024D110/$FILE/HOT%20122.pdf",
+     "sha256": "c9f45fc764821b6532670feb18c28aef7dd4ef3c835676f0a4f83221e19b421c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-123-2026",
+   "path": "local/judet/braila/2026/123",
+   "short": "HCJ Brăila nr. 123/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 123/2026 privind aprobarea organigramei și a statului de funcții ale Direcției Generale de Asistență Socială și Protecția Copilului Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/0451ABCB06139387C2258E290024D111/$FILE/HOT%20123.pdf",
+     "sha256": "22c90d45c6d9ed089bfc2126d65a2835d6f183a0767e521345ae371f6074709c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-124-2026",
+   "path": "local/judet/braila/2026/124",
+   "short": "HCJ Brăila nr. 124/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 124/2026 privind : aprobarea Regulamentului de organizare și funcționare al Centrului pentru viață independentă pentru persoane adulte cu dizabilități ,,Lăcrămioara’’ Însurăței, organizat în cadrul Direcției Generale de Asistență Socială și Protecția Copilului Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/07DC8A44D9CD9AD1C2258E290024D112/$FILE/HOT%20124.pdf",
+     "sha256": "6f13e7d69a5ae60f3ee7e602b07af2bf186edaab7185c50205c9fa47753b8a1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-125-2026",
+   "path": "local/judet/braila/2026/125",
+   "short": "HCJ Brăila nr. 125/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 125/2026 privind : aprobarea Regulamentului de organizare și funcționare al Locuinței protejate pentru persoane adulte cu dizabilități ,,Violeta’’ Făurei, organizat în cadrul Direcției Generale de Asistență Socială și Protecția Copilului Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/72B5E211BA2A427BC2258E290024D113/$FILE/HOT%20125.pdf",
+     "sha256": "9757d22b43d96baa6c2714fce4ab3e38563f41771f8d9d41e58344c4a13b4385"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-126-2026",
+   "path": "local/judet/braila/2026/126",
+   "short": "HCJ Brăila nr. 126/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 126/2026 privind : aprobarea Regulamentului de organizare și funcționare al Centrului pentru viață independentă pentru persoane adulte cu dizabilități ,,Camelia’’ Făurei, organizat în cadrul Direcției Generale de Asistență Socială și Protecția Copilului Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/A2F8C1E68EF30BB9C2258E290024D114/$FILE/HOT%20126.pdf",
+     "sha256": "0b2f2e9d31ea9d970791ade6a9f75e6940802838d3643aaa79eea91e73d5b2c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-127-2026",
+   "path": "local/judet/braila/2026/127",
+   "short": "HCJ Brăila nr. 127/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 127/2026 privind : aprobarea Regulamentului de organizare și funcționare al Centrului pentru viață independentă pentru persoane adulte cu dizabilități ,,Azaleea’’, organizat în cadrul Direcției Generale de Asistență Socială și Protecția Copilului Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/6670F11A8E4D1915C2258E290024D115/$FILE/HOT%20127.pdf",
+     "sha256": "fe6e134c800e8363441e4d8ece1c2c251849dff7c84f1fc0a2e1198fdf23f36e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-128-2026",
+   "path": "local/judet/braila/2026/128",
+   "short": "HCJ Brăila nr. 128/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 128/2026 pentru obiectivul de investiții: “Construire Casa Colecției de Științe ale Naturii” Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/43DB83FE0ADFFE35C2258E290024D116/$FILE/HOT%20128.pdf",
+     "sha256": "b35187a8e508144cbd957c1bc2c5525369b6f28dabb0f20225e3115cd3cbbfe2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-129-2026",
+   "path": "local/judet/braila/2026/129",
+   "short": "HCJ Brăila nr. 129/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 129/2026 privind aprobarea organigramei, a statului de funcții și a Regulamentului de organizare și funcționare ale Muzeului Brăilei ,,Carol I’’",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/59A7D62FED822404C2258E4400414B77/$FILE/HOT%20129.pdf",
+     "sha256": "373aa6968425b2dcc885d962a6a9d4de97be95a737ac827e6fe83c8bacaa6db4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-13-2026",
+   "path": "local/judet/braila/2026/13",
+   "short": "HCJ Brăila nr. 13/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 13/2026 privind aprobarea contractului cadru de închiriere și a cuantumului chiriilor pentru locuințele construite de Agenția Națională pentru Locuințe destinate tinerilor specialiști din domeniul sănătății, cu rata inflației pentru anul anterior",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/F9553A8A87DA5861C2258D95003AE15F/$FILE/HOT%2013.pdf",
+     "sha256": "276916a0c60c06b8f9a59384f3bacb930e20f14f4dfec476c6c5f0164b619f54"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-130-2026",
+   "path": "local/judet/braila/2026/130",
+   "short": "HCJ Brăila nr. 130/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 130/2026 privind aprobarea organigramei, statului de funcții și a Regulamentului de Organizare și Funcționare ale Filarmonicii ,,Lyra-George Cavadia’’ Brăila;  Adresa Filarmonicii ,,Lyra-George Cavadia’’ Brăila, nr. 1942/10.07.2026 însoțită de Nota de fundamentare precum și de Hotărârea Consiliului de Administrație; Văzând avizul Comisiei pentru administrație publică locală, juridică, relații publice și r",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/1457154D2C472053C2258E4400414B7A/$FILE/HOT%20130.pdf",
+     "sha256": "05d75058b24aaa177fad62138b9d02d2e4380e831ccd193f0fe90775b7cb3686"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-131-2026",
+   "path": "local/judet/braila/2026/131",
+   "short": "HCJ Brăila nr. 131/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 131/2026 privind aprobarea organigramei, statului de funcții și a Regulamentului de Organizare și Funcționare ale Centrului Județean pentru Conservarea și Promovarea Culturii Tradiționale Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/AD8AF2C40103538AC2258E4400414B7B/$FILE/HOT%20131.pdf",
+     "sha256": "eb6e1ebc43568a711000aea6073d911075e139b38d5305b101ba6cd15bdd372c"
+    }
+   ]
+  },
+  {
    "slug": "hcj-braila-132-2026",
    "path": "local/judet/braila/2026/132",
    "short": "HCJ Brăila nr. 132/2026",
@@ -44,6 +554,156 @@
      "units": 5,
      "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/2BE18B7726AAA0D5C2258E4400414B7F/$FILE/HOT%20132.pdf",
      "sha256": "5c09b2b57a06af5dff79df6aa508fd314d6739325025213fbb23282ecc64c997"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-133-2026",
+   "path": "local/judet/braila/2026/133",
+   "short": "HCJ Brăila nr. 133/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 133/2026 pentru disciplinele predate în cadrul Școlii Populare de Arte și Meserii “Vespasian Lungu” Brăila începând cu anul școlar 2026 - 2027",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/E49E3C393C5E9333C2258E4400414B80/$FILE/HOT%20133.pdf",
+     "sha256": "f457fc5b6973424410c7039853c10acedfdfe69a4d87b30e98157afa4b9a84c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-134-2026",
+   "path": "local/judet/braila/2026/134",
+   "short": "HCJ Brăila nr. 134/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 134/2026 pentru alte activități desfășurate, precum și a unor facilități acordate în cadrul Școlii Populare de Arte și Meserii “Vespasian Lungu” Brăila, pentru anul școlar 2026-2027",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/642B493E6A7B0662C2258E4400414B82/$FILE/HOT%20134.pdf",
+     "sha256": "45699b904c9cbcded3eac35563e1e7992750352fce622d90786ae592aabde730"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-135-2026",
+   "path": "local/judet/braila/2026/135",
+   "short": "HCJ Brăila nr. 135/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 135/2026 privind :modificarea Hotărârii Consiliului Județean Brăila nr.79 din 28 mai 2026 privind aprobarea organigramei și a statului de funcții ale Spitalului de Pneumoftiziologie Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/B573661A5995357CC2258E4400414B83/$FILE/HOT%20135.pdf",
+     "sha256": "c20af2ed83cf7abeccb57499d973089c8fa43d97ecd2d8edf0eefc5f210f8d36"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-136-2026",
+   "path": "local/judet/braila/2026/136",
+   "short": "HCJ Brăila nr. 136/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 136/2026 privind : aprobarea Regulamentului de organizare și funcționare al Locuinței protejate pentru persoane adulte cu dizabilități ,,Anemona’’, organizată în cadrul Direcției Generale de Asistență Socială și Protecția Copilului Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/C49A5D9BFC536C45C2258E4400414B86/$FILE/HOT%20136.pdf",
+     "sha256": "12b82a65b4a7636c79523840ecc74b03486e39adefd71e4d9e82141e12058196"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-137-2026",
+   "path": "local/judet/braila/2026/137",
+   "short": "HCJ Brăila nr. 137/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 137/2026 privind : aprobarea Regulamentului de organizare și funcționare al Locuinței protejate pentru persoane adulte cu dizabilități ,,Liliac’’, organizată în cadrul Direcției Generale de Asistență Socială și Protecția Copilului Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/4CBCF5F3926159DCC2258E4400414B87/$FILE/HOT%20137.pdf",
+     "sha256": "11bcd15e86d89d2ea6a0f6aaf2911c3b17873d0af2f181c104c4f574e7e4db38"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-138-2026",
+   "path": "local/judet/braila/2026/138",
+   "short": "HCJ Brăila nr. 138/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 138/2026 privind : aprobarea Regulamentului de organizare și funcționare al Centrului pentru viață independentă pentru persoane adulte cu dizabilități ,,Panseluța’’ Bărăganul, organizat în cadrul Direcției Generale de Asistență Socială și Protecția Copilului Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/A2C7B05E200703EEC2258E4400414B88/$FILE/HOT%20138.pdf",
+     "sha256": "a437696c1d0572bf4e4490fa5beb8f23d25c1e7b8b384d231eb941d0ce754f81"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-139-2026",
+   "path": "local/judet/braila/2026/139",
+   "short": "HCJ Brăila nr. 139/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 139/2026 privind : aprobarea Regulamentului de organizare și funcționare al Locuinței protejate pentru persoane adulte cu dizabilități ,,Orhideea’’, organizată în cadrul Direcției Generale de Asistență Socială și Protecția Copilului Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/9C9F08AF03D91A7CC2258E4400414B89/$FILE/HOT%20139.pdf",
+     "sha256": "129e6839f093a265e2db441e41c9aa4a42eede63c7874fbd7a9097c26617a059"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-14-2026",
+   "path": "local/judet/braila/2026/14",
+   "short": "HCJ Brăila nr. 14/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 14/2026 privind aprobarea trecerii din domeniul public în domeniul privat al județului Brăila și valorificarea prin vânzare a unui număr de 76 arbori aparținând plantațiilor rutiere amplasate pe aliniamentul unor drumuri județene",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/FCC0E4CAA0BF15B0C2258D95003AE160/$FILE/HOT%2014.pdf",
+     "sha256": "cff7048271de31453f108156c0e0ccc8c307711c2c1f01c325b1c69a07b4d2a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-140-2026",
+   "path": "local/judet/braila/2026/140",
+   "short": "HCJ Brăila nr. 140/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 140/2026 pentru persoanele cu dizabilități",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/52BE50DFEE14B48EC2258E4400414B8A/$FILE/HOT%20140.pdf",
+     "sha256": "5f745a27bbb1888bc871b40585e1f8c44abf17377b2b4e20fb0ae871a686690b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-141-2026",
+   "path": "local/judet/braila/2026/141",
+   "short": "HCJ Brăila nr. 141/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 141/2026 pentru obiectivul de investiții: „Reabilitare termică și a spațiilor Bibliotecii Județene \"Panait Istrati\" Brăila”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/787D3539E63D6B04C2258E4400414B8B/$FILE/HOT%20141.pdf",
+     "sha256": "40dd288dabf46ce2d33ce45cb1b5ea199e91858255a8c63b6ab5007d2a3b9c06"
     }
    ]
   },
@@ -63,6 +723,441 @@
    ]
   },
   {
+   "slug": "hcj-braila-143-2026",
+   "path": "local/judet/braila/2026/143",
+   "short": "HCJ Brăila nr. 143/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 143/2026 privind : modificarea Hotărârii Consiliului Județean Brăila nr. 84/28.04.2022 privind luarea unor măsuri în vederea delegării serviciului public de transport județean de persoane prin curse regulate în aria teritorială de competență a Unității Administrativ-Teritoriale Județul Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/DEE8598A2D5E7B1DC2258E4400414B90/$FILE/HOT%20143.pdf",
+     "sha256": "9d42b36043d0811a6453f16204bb3484a117ab88ba5879d629aa94a3088e71ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-144-2026",
+   "path": "local/judet/braila/2026/144",
+   "short": "HCJ Brăila nr. 144/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 144/2026 pentru Clădiri Publice din Regiunea Sud-Est (SEEE-PB)\" finanțat prin Instrumentul financiar ELENA (European Local ENergy Assistance – Asistență locală Europeană pentru Energie) – Programul Orizont 2020, pentru obiectivul de investiții ,,Renovare energetică inteligentă și durabilă a imobilului situat în Mun.Brăila, str",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/7598E77FCA2F4444C2258E4400414B91/$FILE/HOT%20144.pdf",
+     "sha256": "09d5f19a5c57f7b006ab039448bc7617ae092d9dc742f89c587971b0bd5b2c68"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-145-2026",
+   "path": "local/judet/braila/2026/145",
+   "short": "HCJ Brăila nr. 145/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 145/2026 privind aprobarea proiectului „Îmbunătățirea activității educaționale din județul Brăila prin dotarea Centrului Județean de Resurse și Asistență Educațională (CJRAE) și a Centrului Școlar de Educație Incluzivă (CSEI)” și a cheltuielilor legate de proiect; Văzând avizele Comisiei de buget - finanțe, administrarea domeniului public și privat al județului, Comisiei pentru administrație publică, jurid",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/E97B7A9DFFD62D9AC2258E4400414B93/$FILE/HOT%20145.pdf",
+     "sha256": "54937930d965ccc3b43c568e6f8121c6fc28ff395e6780f3c3a3544ebf7152b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-146-2026",
+   "path": "local/judet/braila/2026/146",
+   "short": "HCJ Brăila nr. 146/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 146/2026 privind aprobarea proiectului „Îmbunătățirea activității educaționale din județul Brăila prin dotarea Centrului Județean de Resurse și Asistență Educațională (CJRAE) și a Centrului Școlar de Educație Incluzivă (CSEI)” și a cheltuielilor legate de proiect; Văzând avizele Comisiei de buget - finanțe, administrarea domeniului public și privat al județului, Comisiei pentru administrație publică, jurid",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/22754A5F81771EDBC2258E4400414B96/$FILE/HOT%20146.pdf",
+     "sha256": "278f923960f9c661bef8d81c90340ff1bc586300435ae699e2503ae7db554fdf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-147-2026",
+   "path": "local/judet/braila/2026/147",
+   "short": "HCJ Brăila nr. 147/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 147/2026 pentru Situații de Urgență “Dunărea” al Județului Brăila și Centrul Militar Județean Brăila, a unor active fixe, pe o perioada de 6 ani",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/B1231B807E7D231BC2258E4400414B98/$FILE/HOT%20147.pdf",
+     "sha256": "7f6ff7fa553c070632149afb6b7e2f261614f19150c078cd25278ba028cabe2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-148-2026",
+   "path": "local/judet/braila/2026/148",
+   "short": "HCJ Brăila nr. 148/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 148/2026 pentru Situații de Urgență “DUNĂREA” al Județului Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/182905174C8A14BEC2258E4400414B99/$FILE/HOT%20148.pdf",
+     "sha256": "48a0b6b782508ce288e65bcf8bceb45e3763b95c0f36a5a38ba79f6bf9e0a3f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-149-2026",
+   "path": "local/judet/braila/2026/149",
+   "short": "HCJ Brăila nr. 149/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 149/2026 privind necesitatea casării unui activ fix; Văzând avizele Comisiei de buget-finanțe, administrarea domeniului public și privat al județului și Comisiei pentru administrație publică locală, juridică, relații publice și relații internaționale; În conformitate cu prevederile: - Ordonanței Guvernului nr.112/2000 privind reglementarea procesului de scoatere din funcțiune, casare și valorificare a acti",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/4DCCADB61F4DC8B4C2258E4400414B9A/$FILE/HOT%20149.pdf",
+     "sha256": "8850d35e18bf3d5f0af568812ceacf235c55f393fbe0f6bebd35d0887ab259f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-15-2026",
+   "path": "local/judet/braila/2026/15",
+   "short": "HCJ Brăila nr. 15/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 15/2026 privind :stabilirea nivelului maxim al alocației zilnice de hrană pentru beneficiarii serviciilor rezidențiale organizate în cadrul Direcției Generale de Asistență Socială și Protecția Copilului Brăila, pentru luna ianuarie 2026",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/52CAE12C409F2D8DC2258D95003AE161/$FILE/HOT%2015.pdf",
+     "sha256": "98a9063c5ccda281f06f8c8c46aadc2fcd719aa939ae189d5e7b492be66328b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-150-2026",
+   "path": "local/judet/braila/2026/150",
+   "short": "HCJ Brăila nr. 150/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 150/2026 privind stabilirea normativelor proprii de consum lunar de carburanți pentru autovehiculele (autoturisme/autoutilitare și utilaje) aflate în dotarea Consiliului Județean Brăila, instituțiilor publice subordonate, Centrului Militar Județean Brăila, Inspectoratului pentru Situații de Urgență ,,Dunărea’’ Brăila și Comisiei Mixte de Rechiziții - Secretariatul tehnic Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/BD9830C9F046A463C2258E4400414B9B/$FILE/HOT%20150.pdf",
+     "sha256": "a2ee8d8b0fe92b60a6e7354544fb98e58f67fa56db884781efdd1de06f6a9087"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-151-2026",
+   "path": "local/judet/braila/2026/151",
+   "short": "HCJ Brăila nr. 151/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 151/2026 privind aprobarea completării inventarului bunurilor care aparțin domeniului public al județului Brăila cu activul fix denumit “Stație de epurare ape uzate tip ETK S-80”, achiziționat din fondul I.I.D conform Planului de investiții care se finanțează din fondul I.I.D în anul 2026 pentru contractul de delegare nr.203/28.09.2021 din cadrul Sistemului de Management Integrat al Deșeurilor în județul B",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/D53D4DEAF8C164D4C2258E4400414B9C/$FILE/HOT%20151.pdf",
+     "sha256": "2e49da3e6c581d6b8260be05105525fc82a686572e96f19472b2a845b9dbfe03"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-152-2026",
+   "path": "local/judet/braila/2026/152",
+   "short": "HCJ Brăila nr. 152/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 152/2026 pentru anul 2026",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/91F08A6EF6C15A0BC2258E4400414B9D/$FILE/HOT%20152.pdf",
+     "sha256": "79a8ae15f7e1ca2562a6ba0f573674437aa79ea2d5398f0ebf3edbbad5c5b97f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-153-2026",
+   "path": "local/judet/braila/2026/153",
+   "short": "HCJ Brăila nr. 153/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 153/2026 pentru Dezvoltare Regională Sud-Est (ADR SE) pentru anul 2026",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/269B4D76F6F7F13CC2258E4400414B9E/$FILE/HOT%20153.pdf",
+     "sha256": "288905add1ad78cda79896b36131cfb3c3b65006107209750f030ecbc3df328e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-154-2026",
+   "path": "local/judet/braila/2026/154",
+   "short": "HCJ Brăila nr. 154/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 154/2026 pentru administrație publică, juridică, relații publice și relații internaționale, Comisiei de buget-finanțe, administrarea domeniului public și privat al județului și Comisiei pentru activități științifice, învățământ, cultură, culte, tineret și activități sportive; Ținând cont de adresa Asociației Club Sportiv Cuza Pirates Brăila, înregistrată la",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/5AFE19D890D54781C2258E4400414B9F/$FILE/HOT%20154.pdf",
+     "sha256": "8f2170fe907bae26d5690219bd905852b73f141cf2ee6011a5e980c725b7b1c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-155-2026",
+   "path": "local/judet/braila/2026/155",
+   "short": "HCJ Brăila nr. 155/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 155/2026 pentru volei devine performanță!” al Asociației Club Sportiv PHOENIX VOLLEYBALL TEAM Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/159247E3DF573EB0C2258E4400414BA1/$FILE/HOT%20155.pdf",
+     "sha256": "02bb2955bf4f6819ed3bde0b8e4ce87e30ffe0661141550be3414269fdb6483e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-156-2026",
+   "path": "local/judet/braila/2026/156",
+   "short": "HCJ Brăila nr. 156/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 156/2026 pentru administrație publică, juridică, relații publice și relații internaționale, Comisiei de buget-finanțe, administrarea domeniului public și privat al județului și Comisiei pentru activități științifice, învățământ, cultură, culte, tineret și activități sportive; Ținând cont de adresa Asociației Club Sportiv LiL Motion Dance School, înregistrată la",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/1D7753BE4E204C2AC2258E4400414BA2/$FILE/HOT%20156.pdf",
+     "sha256": "0a2e9e9118d54450c42dc26d0b8cd13f68e0b665b907bfda1626dd8f61cbad3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-157-2026",
+   "path": "local/judet/braila/2026/157",
+   "short": "HCJ Brăila nr. 157/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 157/2026 pentru administrație publică, juridică, relații publice și relații internaționale, Comisiei de buget-finanțe, administrarea domeniului public și privat al județului și Comisiei pentru activități științifice, învătământ, cultură, culte, tineret și activități sportive; Ținând cont de adresa Clubului Sportiv Marțial Budo Brăila, înregistrată la",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/83BB4AEA66DEBC05C2258E4400414BA3/$FILE/HOT%20157.pdf",
+     "sha256": "264a84f56b043d0865fee5c1e715c42cd5b578a6a620db4235d4b240ccc499f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-158-2026",
+   "path": "local/judet/braila/2026/158",
+   "short": "HCJ Brăila nr. 158/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 158/2026 pentru administrație publică, juridică, relații publice și relații internaționale, Comisiei de buget-finanțe, administrarea domeniului public și privat al județului și Comisiei pentru activități științifice, învătământ, cultură, culte, tineret și activități sportive; Ținând cont de adresa Clubului Sportiv „Micul Prinț” Brăila, înregistrată la",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/F7358AAF4F7E2CC5C2258E4400414BA4/$FILE/HOT%20158.pdf",
+     "sha256": "1a314083df345b3b4cc9bb99c36c82790321648b7a04f13687235c1b62dc9625"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-159-2026",
+   "path": "local/judet/braila/2026/159",
+   "short": "HCJ Brăila nr. 159/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 159/2026 privind finanțele publice locale, cu modificările și completările ulterioare; În temeiul art.182 și art.196 alin.(1) lit.a) din Ordonanța de Urgență a Guvernului nr.57/2019 privind Codul Administrativ, cu modificările și completările ulterioare, HOTĂRĂȘTE: Art.1 Se aprobă execuția bugetului local al județului Brăila la data de 30.06.2026, conform anexelor nr. 1-2b, părți integrante din prezenta ho",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/E511760B89FF339AC2258E4400414BA7/$FILE/HOT%20159.pdf",
+     "sha256": "19404981e16e90a963e7830bf8f5c49e32ae3cdd23125b764c5e33b5246ae333"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-16-2026",
+   "path": "local/judet/braila/2026/16",
+   "short": "HCJ Brăila nr. 16/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 16/2026 privind aprobarea organigramei și a statului de funcții ale Spitalului Clinic Județean de Urgență Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/BEE891AD96F7336BC2258D95003AE162/$FILE/HOT%2016.pdf",
+     "sha256": "49955787019ca05de39f73f67e1d129a0e50e5664f836989f27faa880620461c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-160-2026",
+   "path": "local/judet/braila/2026/160",
+   "short": "HCJ Brăila nr. 160/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 160/2026 privind finanțele publice locale, cu modificările și completările ulterioare; În baza prevederilor art.173 alin.(3) lit.a) din O.U.G 57/2019 privind Codul administrativ, cu modificările și completările ulterioare; În temeiul prevederilor art.196 alin.(1) lit.a) din O.U.G 57/2019 privind Codul administrativ, cu modificările și completările ulterioare, HOTĂRĂȘTE : Art.1 Se aprobă rectificarea bugetu",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/7116EDFD7565EE09C2258E4400414BA8/$FILE/HOT%20160.pdf",
+     "sha256": "42dd1fbdd286448fe040dbf0d7ed7cec8c310ea69f2265dfbb7c3ec73561b49c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-161-2026",
+   "path": "local/judet/braila/2026/161",
+   "short": "HCJ Brăila nr. 161/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 161/2026 pentru încheierea unui acord de parteneriat în vederea promovării turismului cultural, ecologic și de drumeție; Văzând avizele Comisiei pentru administrație publică locală, juridică, relații publice și relații internaționale și Comisiei pentru activități științifice, învățământ, cultură, culte, tineret și activități sportive; Având în vedere prevederile art.173 alin.(1) lit. d), lit. e), alin.(5)",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/72B9D6D8349E9530C2258E4400414BA9/$FILE/HOT%20161.pdf",
+     "sha256": "2114081d37944e7a5a1469742c8cc435889f5d98d3d6c15631bb2b007b43709d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-162-2026",
+   "path": "local/judet/braila/2026/162",
+   "short": "HCJ Brăila nr. 162/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 162/2026 pentru Situații de Urgență “Dunărea” al județului Brăila nr. 1.012.093/05.08.2026, înregistrată la",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/0DF69FCFABE82EA5C2258E660020C012/$FILE/HOT%20162.pdf",
+     "sha256": "0841ad59ede1d4b98fe6ac886253e58232aee5535be1750f0c851f4d9496d3c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-163-2026",
+   "path": "local/judet/braila/2026/163",
+   "short": "HCJ Brăila nr. 163/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 163/2026 pentru sănătate și protecție socială și al Comisiei pentru administrație publică locală, juridică, relații publice și relații internaționale; Văzând Hotărârea Consiliului de Administrație al Spitalului Clinic Județean de Urgență Brăila privind avizarea modificării Organigramei și a Statului de funcții ale Spitalului Clinic Județean de Urgență Brăila aferente lunii septembrie 2026, în vederea reorg",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/85F3D5F4ACE9416CC2258E660020C013/$FILE/HOT%20163.pdf",
+     "sha256": "8a01124a0d474c2e543680fddb774cc23b8fe64e1bac76c726878da16308b8de"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-164-2026",
+   "path": "local/judet/braila/2026/164",
+   "short": "HCJ Brăila nr. 164/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 164/2026 privind aprobarea organigramei și a statului de funcții ale Direcției Generale de Asistență Socială și Protecția Copilului Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/AF6864D546CEFB26C2258E660020C014/$FILE/HOT%20164.pdf",
+     "sha256": "c59a64b9614a6679c59eccd23234a545fb3b51c4abe386fd40f77de5c3651512"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-165-2026",
+   "path": "local/judet/braila/2026/165",
+   "short": "HCJ Brăila nr. 165/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 165/2026 privind aprobarea Regulamentului serviciului de salubrizare al județului Brăila- rev.2, precum și a Actelor adiționale la Contractele de delegare nr.1502/04.06.2025 și nr. 302/27.02.2023; - Contractul de delegare nr. 203/28.09.2021 Delegare a gestiunii serviciului de operare și administrare a stației de sortare și a stației de tratare mecano-biologică Vădeni din cadrul „Sistemului de Management In",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/AA29E2FB0DABAB14C2258E660020C015/$FILE/HOT%20165.pdf",
+     "sha256": "95f8f192152108a64363f0a6bf9dc20def6726ab94f20fbc48f248839d2456eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-166-2026",
+   "path": "local/judet/braila/2026/166",
+   "short": "HCJ Brăila nr. 166/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 166/2026 privind aprobarea încheierii Actului adițional nr.14 la Contractul nr.294/14.12.2021 - “Delegarea gestiunii serviciului de operare și administrare a Stației de transfer Însurăței, Depozitului ecologic și Stației de sortare Ianca din cadrul „Sistemului de Management Integrat al Deșeurilor în Județul Brăila”, încheiat cu SC FCC Environment România SRL",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/46BB26C44C02B3EBC2258E660020C01F/$FILE/HOT%20166.pdf",
+     "sha256": "5b4af69cf8ed7294d7323b9d3040ae340326af5e70d55b7fac802b655601ffa9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-167-2026",
+   "path": "local/judet/braila/2026/167",
+   "short": "HCJ Brăila nr. 167/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 167/2026 pentru realizarea acestuia",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/E9B3AA5517A1C97EC2258E660020C024/$FILE/HOT%20167.pdf",
+     "sha256": "51706a4f79d256b6caf67ff97e765fdb16b928a219a36d017e391a6f49a66fa0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-168-2026",
+   "path": "local/judet/braila/2026/168",
+   "short": "HCJ Brăila nr. 168/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 168/2026 pentru obiectivul de investiții: “Reabilitare drum județean DJ 203”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/907D776A8A971B76C2258E660020C025/$FILE/HOT%20168.pdf",
+     "sha256": "60424dc02ceb0ea430f76ed3ea4b8d2670262400b5ac297106867d9e00f2a5ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-169-2026",
+   "path": "local/judet/braila/2026/169",
+   "short": "HCJ Brăila nr. 169/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 169/2026 pentru obiectivul de investiții: “Construcție modulară cu destinația de spații administrative”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/1610C3F374274B0FC2258E660020C028/$FILE/HOT%20169.pdf",
+     "sha256": "68bc136ba4a5d1005a7feed8f5dcd4f54d1cd1867fdd7e633ca55900c5ec30b4"
+    }
+   ]
+  },
+  {
    "slug": "hcj-braila-17-2026",
    "path": "local/judet/braila/2026/17",
    "short": "HCJ Brăila nr. 17/2026",
@@ -74,6 +1169,96 @@
      "units": 6,
      "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/043B494A2E54ADFCC2258D95003AE163/$FILE/HOT%2017.pdf",
      "sha256": "c7d7ae6ef63d68b4d80f6124b9f6f105504c958cd34fb968585266e184a73b2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-170-2026",
+   "path": "local/judet/braila/2026/170",
+   "short": "HCJ Brăila nr. 170/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 170/2026 privind : aprobarea tarifului mediu modificat lei/km/loc, fără TVA și a tarifelor de călătorie modificate, recalculate în funcție de tariful mediu modificat lei/km/loc, fără TVA, pentru serviciul public de transport județean de persoane prin curse regulate, pe traseele nr.012 Brăila – Însurăței - Odăieni și nr.014 Brăila – Bărăganul – Ciocile, respectiv a încheierii Actului Adițional nr. 4 la Cont",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/595DED2F19791D69C2258E660020C02A/$FILE/HOT%20170.pdf",
+     "sha256": "daf9eaff49e80b9035c5da128f36455157e8b87e06f232622925377df37112fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-171-2026",
+   "path": "local/judet/braila/2026/171",
+   "short": "HCJ Brăila nr. 171/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 171/2026 privind : aprobarea valorii unitare lei/kilometru aferentă sumei forfetare lunare și a sumei forfetare pe zi, acordată elevilor din județul Brăila care sunt școlarizați în altă localitate decât cea de domiciliu și nu beneficiază de existența serviciilor de transport public",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/96A63B0890D6E58CC2258E660020C02B/$FILE/HOT%20171.pdf",
+     "sha256": "875c66d227bcc0add5a48066431db55232ab415ad929280e6d182cdb71ce4462"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-172-2026",
+   "path": "local/judet/braila/2026/172",
+   "short": "HCJ Brăila nr. 172/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 172/2026 pentru Situații de Urgență ”Dunărea” al Județului Brăila și Centrul Militar Județean Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/58E52C847E6C25FAC2258E660020C02C/$FILE/HOT%20172.pdf",
+     "sha256": "ee987531e4aace11949f1afd35c93929f28bc2ef85e70d1eb61ccaf6b844987c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-173-2026",
+   "path": "local/judet/braila/2026/173",
+   "short": "HCJ Brăila nr. 173/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 173/2026 pentru anul 2026",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/DF1675C80061F91CC2258E660020C02D/$FILE/HOT%20173.pdf",
+     "sha256": "fceb88bbe682d613252779d881586ea9b1ca1a3884949e75b017a96eaf686455"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-174-2026",
+   "path": "local/judet/braila/2026/174",
+   "short": "HCJ Brăila nr. 174/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 174/2026 pentru Integrare Europeană și Dezvoltare Durabilă” Brăila pentru anul 2026",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/E6C07596FF6F742BC2258E660020C02E/$FILE/HOT%20174.pdf",
+     "sha256": "02380b6488032a318da2cbe2f62faba4d510c9b8aa6dfb99a654a654302e41e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-175-2026",
+   "path": "local/judet/braila/2026/175",
+   "short": "HCJ Brăila nr. 175/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 175/2026 privind finanțele publice locale, cu modificările și completările ulterioare; În baza prevederilor art. 173 alin.(3) lit.a) din O.U.G 57/2019 privind Codul administrativ, cu modificările și completările ulterioare; În temeiul prevederilor art.196 alin.(1) lit.a) din O.U.G 57/2019 privind Codul administrativ, cu modificările și completările ulterioare, HOTĂRĂȘTE : Art.1 Se aprobă rectificarea buget",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/6834B64E1B50C403C2258E660020C02F/$FILE/HOT%20175.pdf",
+     "sha256": "d6526bd1047c6602e9e9d87a1cfb3dcab74d35b4723ee3049d1b6927cb7aa564"
     }
    ]
   },
@@ -93,6 +1278,756 @@
    ]
   },
   {
+   "slug": "hcj-braila-177-2026",
+   "path": "local/judet/braila/2026/177",
+   "short": "HCJ Brăila nr. 177/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 177/2026 pentru realizarea proiectului",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/E847BBBBAB2A84D4C2258E660020C031/$FILE/HOT%20177.pdf",
+     "sha256": "08be90f61549443b72f4aa51ac70c395529f5a85ab130cdbe06d47c9d3528982"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-178-2026",
+   "path": "local/judet/braila/2026/178",
+   "short": "HCJ Brăila nr. 178/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 178/2026",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/9331078BDA926C51C2258E660020C032/$FILE/HOT%20178.pdf",
+     "sha256": "03ca40bfa43e8065f2becafa3210796e1da78d3b36e6c32018e0851d9513f095"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-179-2026",
+   "path": "local/judet/braila/2026/179",
+   "short": "HCJ Brăila nr. 179/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 179/2026",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/32EFABA9DBF3FC47C2258E660020C033/$FILE/HOT%20179.pdf",
+     "sha256": "294a9856634565221f3ef4b6cbe311672ecd0dcea31e479b0adb7bad26c52593"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-18-2026",
+   "path": "local/judet/braila/2026/18",
+   "short": "HCJ Brăila nr. 18/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 18/2026 pentru sănătate și protecție socială și al Comisiei pentru administrație publică locală, juridică, relații publice și relații internaționale; Văzând Hotărârea Consiliului de Administrație nr.4/18.02.2026 privind avizarea modificării organigramei și a statului de funcții ale Spitalului Clinic Județean de Urgență Brăila, precum și adresa nr.6619/18.02.2026 a Spitalului Clinic Județean de Urgență Bră",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/EBB7759ADCEF6FE2C2258DB20031CDEA/$FILE/HOT%2018.pdf",
+     "sha256": "4e9ed3afd6b37805ce90048899715a641e765331bab59cc4561acc31ec64cdca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-180-2026",
+   "path": "local/judet/braila/2026/180",
+   "short": "HCJ Brăila nr. 180/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 180/2026 pentru colaborare în vederea realizării unor activități educaționale pentru anul școlar 2026- 2027",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/EE3C08B830B411A1C2258E6C0039971B/$FILE/HOT%20180.pdf",
+     "sha256": "fffdc9591aeab674d87887d2e6bf7a1e6fee4c212ab7c7f1e03c87d0ec5e7251"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-181-2026",
+   "path": "local/judet/braila/2026/181",
+   "short": "HCJ Brăila nr. 181/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 181/2026 PENTRU ADEVĂR” Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/ADCE2F66A6F9946DC2258E6C0039971C/$FILE/HOT%20181.pdf",
+     "sha256": "f68f7e62e46861b78d1ffd00c8d28835438da3fa28d63a23370d683038c51edf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-182-2026",
+   "path": "local/judet/braila/2026/182",
+   "short": "HCJ Brăila nr. 182/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 182/2026 pentru administrație publică, juridică, relații publice și relații internaționale, Comisiei de buget-finanțe, administrarea domeniului public și privat al județului și Comisiei pentru activități științifice, învătământ, cultură, culte, tineret și activități sportive; Ținând cont de adresa Asociației Club Sportiv Cuza Pirates Brăila, înregistrată la",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/0B6BCBCFD0CF8C2AC2258E6C0039971D/$FILE/HOT%20182.pdf",
+     "sha256": "94185a88d21718a328f729f00795e21f41cfc77c570e6bbb976289ae1e690db5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-183-2026",
+   "path": "local/judet/braila/2026/183",
+   "short": "HCJ Brăila nr. 183/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 183/2026 pentru administrație publică, juridică, relații publice și relații internaționale, Comisiei de buget-finanțe, administrarea domeniului public și privat al județului și Comisiei pentru activități științifice, învătământ, cultură, culte, tineret și activități sportive; Ținând cont de adresa Asociației Club Sportiv Tokon Dojo, înregistrată la",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/814E36A6B333144CC2258E6C0039971E/$FILE/HOT%20183.pdf",
+     "sha256": "8ed5c72a8ebb072521882aadceb561833c1d01ea2a8e527ec31858787e7b9e3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-184-2026",
+   "path": "local/judet/braila/2026/184",
+   "short": "HCJ Brăila nr. 184/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 184/2026",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/5A72CAAA1C9DE62BC2258E6C0039971F/$FILE/HOT%20184.pdf",
+     "sha256": "fbe926720b59ff74bb8d636eb99be6e75a76aa7dfa34eff0ccb54e4cd4ebfe02"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-185-2026",
+   "path": "local/judet/braila/2026/185",
+   "short": "HCJ Brăila nr. 185/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 185/2026 privind : desemnarea reprezentanților Consiliului Județean Brăila în comisia de evaluare a probei de interviu a concursurilor privind ocuparea funcțiilor de director și director adjunct al Centrului Școlar de Educație Incluzivă Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/3C986789343F9B0AC2258E81001CE6AC/$FILE/HOT%20185.pdf",
+     "sha256": "25bc4d368f97d51ba6f88086a6017308a91036a7ddbcca8be04c89cded7176c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-186-2026",
+   "path": "local/judet/braila/2026/186",
+   "short": "HCJ Brăila nr. 186/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 186/2026 pentru Evidența Persoanelor; Văzând avizul Comisiei pentru administrație publică locală, juridică, relații publice și relații internaționale; Potrivit prevederilor art.173 alin.(1) lit.a), alin.(2) lit.c) și art.518 din O.U.G nr.57/2019 privind Codul administrativ, cu modificările și completările ulterioare; În temeiul prevederilor art.182 și art.196 alin.(1) lit.a) din O.U.G nr.57/2019 privind Co",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/E5E0951A8B9E544CC2258E81001CE6AD/$FILE/HOT%20186.pdf",
+     "sha256": "c760db77f3a7b9f16242184f3ee00cfb01ffb6a46b7a370364a777a53bfc2844"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-187-2026",
+   "path": "local/judet/braila/2026/187",
+   "short": "HCJ Brăila nr. 187/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 187/2026 privind : aprobarea Regulamentelor de organizare și funcționare ale serviciilor rezidențiale pentru copii din cadrul Complexului de tip familial ,,Universul Copiilor’’ organizat în cadrul Direcției Generale de Asistență Socială și Protecția Copilului Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/5A44A70DBAAF5C2CC2258E81001CE6AE/$FILE/HOT%20187.pdf",
+     "sha256": "126bc93a01696d55fb01e1a598ecde25a02e2fab61452f7b726270f8db19ff47"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-188-2026",
+   "path": "local/judet/braila/2026/188",
+   "short": "HCJ Brăila nr. 188/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 188/2026 privind : aprobarea Regulamentelor de organizare și funcționare ale serviciilor rezidențiale pentru copii din cadrul Complexului de tip familial ,,Surâsul Copilăriei’’ organizat în cadrul Direcției Generale de Asistență Socială și Protecția Copilului Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/C62BCA79A8343E46C2258E81001CE6AF/$FILE/HOT%20188.pdf",
+     "sha256": "a41c17225e20c70b734c01c1ce9d296587e55bea6e0c19439350429d80cc9356"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-189-2026",
+   "path": "local/judet/braila/2026/189",
+   "short": "HCJ Brăila nr. 189/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 189/2026 privind : stabilirea sumelor alocate pentru necesarul de îmbrăcăminte, încălțăminte, materiale igienico-sanitare, rechizite/manuale, jucării, materiale cultural-sportive, diferențiate pe grupe de vârstă pentru copiii și tinerii pentru care s-a stabilit o măsură de protecție specială într-un serviciu public de tip rezidențial, precum și pentru mamele protejate în centre maternale din cadrul Direcți",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/B24F29BE89E63878C2258E81001CE6B0/$FILE/HOT%20189.pdf",
+     "sha256": "50aeb76612e145c5c40ee6a283451b735ce7d8b46797f1b54597a3d91bcad8f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-19-2026",
+   "path": "local/judet/braila/2026/19",
+   "short": "HCJ Brăila nr. 19/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 19/2026 pentru colaborare în vederea realizării acțiunilor și manifestărilor culturale, artistice și educaționale comune care se organizează în municipiul Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/1FF6F9A09140E60BC2258DB20031CDEC/$FILE/HOT%2019.pdf",
+     "sha256": "02099d58302f9d9775aa6698db7e46d8e81df605f4c3650f0ab10fd4d37ac012"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-190-2026",
+   "path": "local/judet/braila/2026/190",
+   "short": "HCJ Brăila nr. 190/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 190/2026 privind : stabilirea costului mediu lunar de întreținere în serviciile sociale rezidențiale pentru persoane adulte cu dizabilități organizate în cadrul Direcției Generale de Asistență Socială și Protecția Copilului Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/DD359C4B4E1A63E5C2258E81001CE6B1/$FILE/HOT%20190.pdf",
+     "sha256": "1302e0e2ceebd477ebc1e3bf410526c9febf522c0a5a2b03ea58945c9fbf2fcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-191-2026",
+   "path": "local/judet/braila/2026/191",
+   "short": "HCJ Brăila nr. 191/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 191/2026 pentru administrație publică locală, juridică, relații publice și relații internaționale; În conformitate cu prevederile art. 34 din O.U.G.nr. 133/2021 privind gestionarea financiară a fondurilor europene pentru perioada de programare 2021 - 2027 alocate României din Fondul european de dezvoltare regională, Fondul de coeziune, Fondul social european Plus, Fondul pentru o tranziție justă, Hotărârii",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/54BE986F8657C706C2258E81001CE6B2/$FILE/HOT%20191.pdf",
+     "sha256": "80484eddf7c091b4e2c0875e37bc842edfe06667f685e9b9ba4adf5ccf3cc19f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-192-2026",
+   "path": "local/judet/braila/2026/192",
+   "short": "HCJ Brăila nr. 192/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 192/2026 pentru colaborare în vederea realizării unor activități educaționale pentru anul scolar 2026 - 2027",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/E15874C6D46DE142C2258E81001CE6B3/$FILE/HOT%20192.pdf",
+     "sha256": "d4d428fbf3bb0a5aec52e91a7ad35013f46fa85b9aaa0e39bcfee9a29d61e8b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-193-2026",
+   "path": "local/judet/braila/2026/193",
+   "short": "HCJ Brăila nr. 193/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 193/2026",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/0CEE7B0D86114D20C2258E81001CE6B4/$FILE/HOT%20193.pdf",
+     "sha256": "1229f7f234e53a6066946244081a1865e5e4f43810bee0ba317a2fa2bb71ae8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-194-2026",
+   "path": "local/judet/braila/2026/194",
+   "short": "HCJ Brăila nr. 194/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 194/2026 privind modificarea anexei la Hotărârea Consiliului Județean Brăila nr.226 din 18 decembrie 2025 privind aprobarea Planului de investiții care se finanțează din fondul I.I.D în anul 2026 pentru contractul de delegare nr.203/28.09.2021 din cadrul Sistemului de Management Integrat al Deșeurilor în județul Brăila; - Proces verbal de predare - primire nr. 14660/13.07.2026 (anexa 5 la Contractul nr. 20",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/234E2F832E2A4B89C2258E81001CE6B5/$FILE/HOT%20194.pdf",
+     "sha256": "f79753ae2954c300e3c2e30f688f2943e36032608bf828ef8bc79a3650fc728b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-195-2026",
+   "path": "local/judet/braila/2026/195",
+   "short": "HCJ Brăila nr. 195/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 195/2026 privind : modificarea Hotărârii Consiliului Județean Brăila nr. 84/28.04.2022 privind luarea unor măsuri în vederea delegării serviciului public de transport județean de persoane prin curse regulate în aria teritorială de competență a Unității Administrativ-Teritoriale Județul Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/29374898502BD389C2258E81001CE6B6/$FILE/HOT%20195.pdf",
+     "sha256": "1dc76c42f108f9c6348c10bd035b282a250c56c3b637269c99d7e8bb84e44657"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-196-2026",
+   "path": "local/judet/braila/2026/196",
+   "short": "HCJ Brăila nr. 196/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 196/2026 privind : stabilirea tarifelor de călătorie practicate pe traseul nr. 019 Brăila – Batogu - Jugureanu, respectiv a încheierii actului adițional nr.5 la Contractul de delegare a gestiunii serviciului public de transport județean de persoane prin curse regulate în aria teritorială de competență a Unității Administrativ- Teritoriale Județul Brăila nr. 36/02.02.2023",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/CECA08D29E4903FEC2258E81001CE6B7/$FILE/HOT%20196.pdf",
+     "sha256": "6c990e5c1d682a909cc09c05bbfc47f11e0f4e493e1ce0fc48a362de9e0f2e54"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-197-2026",
+   "path": "local/judet/braila/2026/197",
+   "short": "HCJ Brăila nr. 197/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 197/2026 pentru realizarea obiectivului de investiții “Modernizare strada Violetei și strada Panseluței în comuna Bărăganul, județul Brăila”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/D2F940CF83D26F36C2258E81001CE6B8/$FILE/HOT%20197.pdf",
+     "sha256": "f58345cfac9a86996149b2b71222a4b9fefee6ad7d1654d9ac8d1c46bc084203"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-198-2026",
+   "path": "local/judet/braila/2026/198",
+   "short": "HCJ Brăila nr. 198/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 198/2026 pentru realizarea obiectivului de investiții “Modernizare strada Principală/DJ221 în localitatea Cazasu, județul Brăila”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/F95BB8C34C5E7ACBC2258E81001CE6B9/$FILE/HOT%20198.pdf",
+     "sha256": "43aa7967b4d1815a42b244f6e1abeca6775929c9aee9df60d5812aa091067b50"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-199-2026",
+   "path": "local/judet/braila/2026/199",
+   "short": "HCJ Brăila nr. 199/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 199/2026 pentru realizarea obiectivului de investiții „Amenajare și dotare parc central în comuna Jirlău, județul Brăila”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/C4B4C8EFFC9E1871C2258E81001CE6BA/$FILE/HOT%20199.pdf",
+     "sha256": "1df599a30c3f4e43e190a282609fc86a44f3623aae0a0086e3f62e39e599045a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-2-2026",
+   "path": "local/judet/braila/2026/2",
+   "short": "HCJ Brăila nr. 2/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 2/2026 pentru activități științifice, învățământ, cultură, culte, tineret și activități sportive; Ca urmare a adresei Handbal Club “Dunărea” Brăila nr. 1/08.01.2026, înregistrată la",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/A0DE3CC9244558FCC2258D86003E167E/$FILE/HOT%202.pdf",
+     "sha256": "c4e6a9b32d08b01d4ec6fb713c52fe9342824f69be872ca80cc41fa6c8f5e30a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-20-2026",
+   "path": "local/judet/braila/2026/20",
+   "short": "HCJ Brăila nr. 20/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 20/2026 pentru activități știintifice, învățământ, cultură, culte, tineret și activități sportive; Având în vedere prevederile art.173 alin.(1) lit.e și alin.(7) lit.a din Ordonanța de Urgență nr.57/2019, privind Codul administrativ, cu modificările și completările ulterioare; În temeiul prevederilor art.173 alin.1 lit.(c), art.182 alin.1 și art.196 alin.1 lit.(a) din Ordonanța de Urgență nr.57/2019, priv",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/169D16A265BD5A5FC2258DB20031CDED/$FILE/HOT%2020.pdf",
+     "sha256": "e5e67d3112316f76ba6d167ec7b621085ea1ba9a61d146fdfa9ec7894edd66d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-200-2026",
+   "path": "local/judet/braila/2026/200",
+   "short": "HCJ Brăila nr. 200/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 200/2026 pentru realizarea obiectivului de investiții „Amenajare loc de recreere și agrement sat Mărașu, comuna Mărașu, județul Brăila”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/FF1BD63B550770ADC2258E81001CE6BB/$FILE/HOT%20200.pdf",
+     "sha256": "c0b44aa90826ad2ee716b18480085c72a844186564738dc90f3752786483b504"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-201-2026",
+   "path": "local/judet/braila/2026/201",
+   "short": "HCJ Brăila nr. 201/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 201/2026 pentru realizarea obiectivului de investiții “Reabilitare și recompartimentare cămin cultural în sat Râmnicelu, comuna Râmnicelu, județul Brăila”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/38EDCC27E1EF6C22C2258E81001CE6BC/$FILE/HOT%20201.pdf",
+     "sha256": "021943de8bd9b7a55b342e9415c1246150850b3bebd77da6e72bfea1805667c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-202-2026",
+   "path": "local/judet/braila/2026/202",
+   "short": "HCJ Brăila nr. 202/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 202/2026 pentru realizarea obiectivului de investiții “Amenajare trotuare și dispozitive pentru scurgerea apelor pe DJ 212(DJ 212C) și pe DJ 211A – DJ 212, pe raza localității Cuza-Vodă din comuna Stăncuța”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/949646C00338378CC2258E81001CE6BD/$FILE/HOT%20202.pdf",
+     "sha256": "edc7aa46af6602572ec8f7b9478c2daa31687c32c44916a535b33643df871756"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-203-2026",
+   "path": "local/judet/braila/2026/203",
+   "short": "HCJ Brăila nr. 203/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 203/2026",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/67675DC160BBF1BCC2258E81001CE6BE/$FILE/HOT%20203.pdf",
+     "sha256": "f74b2f756da5b4d58fed79709db0aea093c1cbb4c416619e42cda7e3541954ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-204-2026",
+   "path": "local/judet/braila/2026/204",
+   "short": "HCJ Brăila nr. 204/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 204/2026 pentru realizarea obiectivului de investiții “Extindere accesuri și trotuare pe str",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/1F5E5DBBE4AAE18FC2258E81001CE6BF/$FILE/HOT%20204.pdf",
+     "sha256": "f0e5410d8c5f93f0ef5e549607103faa2b39fae830962387c810fcb744ed41db"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-205-2026",
+   "path": "local/judet/braila/2026/205",
+   "short": "HCJ Brăila nr. 205/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 205/2026 pentru realizarea obiectivului de investiții “Asfaltare drumuri în sat Valea Cânepii și sat Unirea, Comuna Unirea, județul Brăila”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/39791F3E789B467EC2258E81001CE6C0/$FILE/HOT%20205.pdf",
+     "sha256": "d4acd2667d4730806b2e53d26c9e0a5618bf5ce2a04879b9cd87fa92f09ad041"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-206-2026",
+   "path": "local/judet/braila/2026/206",
+   "short": "HCJ Brăila nr. 206/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 206/2026 pentru realizarea obiectivului de investiții „Modernizare Centru Civic sat Muchea, comuna Siliștea, județul Brăila”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/922D473034005383C2258E81001CE6C1/$FILE/HOT%20206.pdf",
+     "sha256": "e9ad020a81c6b968455916a6ead04b46d7d2eb51e349e1c8d75e7aa485226923"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-207-2026",
+   "path": "local/judet/braila/2026/207",
+   "short": "HCJ Brăila nr. 207/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 207/2026 pentru realizarea obiectivului de investiții „AMENAJARE SPAȚIU DE JOACĂ”, localitatea Lișcoteanca, str. Școlii, nr. 8, Cvartal 18, Parcela 489, 490, 491, comuna Bordei Verde, județul Brăila”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/105A55BEFAE84A01C2258E81001CE6C2/$FILE/HOT%20207.pdf",
+     "sha256": "cb8045ba9e00084d91b1650be59f65abed479a2fba9d2baa76eb6721ad2e49b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-208-2026",
+   "path": "local/judet/braila/2026/208",
+   "short": "HCJ Brăila nr. 208/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 208/2026 pentru tineri specialiști din domeniul sănătății, a Listei de priorități în soluționarea cererilor de locuințe construite de Agenția Națională pentru Locuințe și a Listei de repartiție, etapa a XX a",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/944B11B98CFED803C2258E81001CE6C3/$FILE/HOT%20208.pdf",
+     "sha256": "122e23ae7fb33152b240d0bcf3eae3f2a41e809d9a86e707f6043e2adf9ae170"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-209-2026",
+   "path": "local/judet/braila/2026/209",
+   "short": "HCJ Brăila nr. 209/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 209/2026 privind aprobarea prelungirii termenului de transmitere în folosință gratuită a spațiului în suprafață de 85,45 mp din imobilul situat în Municipiul Brăila, Șos",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/D7F98D1B8694E381C2258E81001CE6C4/$FILE/HOT%20209.pdf",
+     "sha256": "9f12a85e9d6b88192003de7788fc72636c119b6bc90f170380f98a900a7216f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-21-2026",
+   "path": "local/judet/braila/2026/21",
+   "short": "HCJ Brăila nr. 21/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 21/2026 privind serviciile sociale administrate de către DGASPC Brăila și finanțate din bugetul Consiliului Județean Brăila, pe anul 2026",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/381708D8819375DBC2258DB20031CDEE/$FILE/HOT%2021.pdf",
+     "sha256": "33683dbcea044449cef24572081020d9e635e2d1d21de027490c061d6576fede"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-210-2026",
+   "path": "local/judet/braila/2026/210",
+   "short": "HCJ Brăila nr. 210/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 210/2026 privind aprobarea prelungirii termenului de transmitere în folosință gratuită a spațiului în suprafață de 187,95 mp din imobilul situat în Municipiul Brăila, Șos",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/3C95EC4E32908DECC2258E81001CE6C5/$FILE/HOT%20210.pdf",
+     "sha256": "8c710144968be83ce13656a9f6a68a59f5655609de5ab6842f3d8fe6ff3ce1c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-211-2026",
+   "path": "local/judet/braila/2026/211",
+   "short": "HCJ Brăila nr. 211/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 211/2026 pentru executarea lucrărilor de desființare a pavilioanelor C17(bloc 8), C18(bloc 9) și C19(bloc 10) din “Cazarma 906” Ianca, pe o perioadă de 3 ani",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/856758F4FEB73A39C2258E81001CE6C6/$FILE/HOT%20211.pdf",
+     "sha256": "d037723f2c5492031cac7965a6c69844aac5357ee596d76d1b5cc25fd208920a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-212-2026",
+   "path": "local/judet/braila/2026/212",
+   "short": "HCJ Brăila nr. 212/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 212/2026 pentru administrație publică locală, juridică, relații publice și relații internaționale; În baza prevederilor art.173 alin.(1) lit.c), art.294 alin.(3) și alin.(5) din Ordonanța de Urgență a Guvernului nr.57/2019 privind Codul administrativ, cu modificările și completările ulterioare; În temeiul prevederilor art.182 alin.(1) și art.196 alin.(1) lit.a) din Ordonanța de Urgentă a Guvernului nr.57/2",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/C59BCC2E924F5E8AC2258E81001CE6C7/$FILE/HOT%20212.pdf",
+     "sha256": "8fb11d262ca0b2ce68135478f9176fc7f17f3a53403685a2868ca4db70b8089a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-213-2026",
+   "path": "local/judet/braila/2026/213",
+   "short": "HCJ Brăila nr. 213/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 213/2026 pentru încadrarea terenurilor în clase de calitate în vederea introducerii în circuitul agricol realizat de Oficiul Județean de Studii Pedologice și Agrochimice Brăila; - Decizia nr. 15/16.12.2025 emisă de Ministerul Agriculturii și Dezvoltării Rurale; Văzând avizele Comisiei de buget-finanțe, administrarea domeniului public și privat al județului și Comisiei pentru administrație publică locală, j",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/ABA31156ECE88D68C2258E81001CE6C8/$FILE/HOT%20213.pdf",
+     "sha256": "403cdf003a6b8e62b902d9002254d43e832549cdeab0306dbf83b9a49f17cda5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-214-2026",
+   "path": "local/judet/braila/2026/214",
+   "short": "HCJ Brăila nr. 214/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 214/2026 pentru anul 2026",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/E4B85F7E5CCBED14C2258E81001CE6C9/$FILE/HOT%20214.pdf",
+     "sha256": "dc89864a96e7fe5acb1f98ddcfd5715050962919eb3c5b9e44db3842580e2c6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-215-2026",
+   "path": "local/judet/braila/2026/215",
+   "short": "HCJ Brăila nr. 215/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 215/2026 privind finanțele publice locale, cu modificările și completările ulterioare; În baza prevederilor art.173 alin.(3) lit.a) din O.U.G 57/2019 privind Codul administrativ, cu modificările și completările ulterioare; În temeiul prevederilor art.196 alin.(1) lit.a) din O.U.G 57/2019 privind Codul administrativ, cu modificările și completările ulterioare, HOTĂRĂȘTE : Art.1 Se aprobă rectificarea bugetu",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/B2E9A51CDA9E0468C2258E81001CE6CA/$FILE/HOT%20215.pdf",
+     "sha256": "d4b838dae83436d5d05dc73358006bcf63be4830b1a09b12d7a5d695fce0d1bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-216-2026",
+   "path": "local/judet/braila/2026/216",
+   "short": "HCJ Brăila nr. 216/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 216/2026",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/33C9E14E71DFF2AAC2258E81001CE6CB/$FILE/HOT%20216.pdf",
+     "sha256": "233309b671d3f4eac85a6179eeaeb38cb3adfab5bb393f19947eb27eb4887d17"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-217-2026",
+   "path": "local/judet/braila/2026/217",
+   "short": "HCJ Brăila nr. 217/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 217/2026 pentru administrație publică locală, juridică, relații publice și relații internaționale; În conformitate cu prevederile art.204 alin.2 lit.“a”, alin.6, alin.10 și 17 din OUG nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare; În temeiul prevederilor art.182 alin.1 și art.196 alin.1 lit.“a” din Ordonanța de Urgență a Guvernului României nr. 57/2019 privind Codul ad",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/C60B1865DB92E8D8C2258E97001B64C6/$FILE/HOT%20217.pdf",
+     "sha256": "2683b3f0398829ed42af358005cfc5e62ed9bb975c1cefa28068fc9137ab962f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-218-2026",
+   "path": "local/judet/braila/2026/218",
+   "short": "HCJ Brăila nr. 218/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 218/2026 pentru administrație publică locală, juridică, relații publice și relații internaționale; În conformitate cu prevederile art.204 alin.2 lit.“a”, alin.6, alin.10 și 17 din OUG nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare; În temeiul prevederilor art.182 alin.1 și art.196 alin.1 lit.“a” din Ordonanța de Urgență a Guvernului României nr. 57/2019 privind Codul ad",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/6F4193A6B572414DC2258E97001B64C7/$FILE/HOT%20218.pdf",
+     "sha256": "8031182fb6ba33a0ed3091c8dd68db4010aed507f87de09f53b2cd1af9428a8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-219-2026",
+   "path": "local/judet/braila/2026/219",
+   "short": "HCJ Brăila nr. 219/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 219/2026 privind procedura de selecție a partenerului nr. 20516/07.10.2026 al Comisiei de selecție a partenerului din rândul organizațiilor neguvernamentale; Văzând avizele Comisiei de strategii, studii, prognoze economico-sociale și Comisiei pentru administrație publică locală, juridică, relații publice și relații internaționale; În conformitate cu prevederile art. 34 din O.U.G.nr. 133/2021 privind gestio",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/C48CE30C4C7C3FC5C2258E97001B64C9/$FILE/HOT%20219.pdf",
+     "sha256": "f8b2bd6b85a0b796ada59e0f7ae455f57800b300bf40c95e2647181924772bc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-22-2026",
+   "path": "local/judet/braila/2026/22",
+   "short": "HCJ Brăila nr. 22/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 22/2026",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/DE6713C1D8A30A0EC2258DB20031CDEF/$FILE/HOT%2022.pdf",
+     "sha256": "475007de86eca357a9227f8dcf6050891bec169741cc91c8544fdbde80c94c9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-220-2026",
+   "path": "local/judet/braila/2026/220",
+   "short": "HCJ Brăila nr. 220/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 220/2026 pentru administrație publică locală, juridică, relații publice și relații internaționale; În baza prevederilor: - art.86 alin.(1) lit.b), art. 91 alin.(1) și (2), art. 92 alin.(1), (2) și (10) din Legea nr. 169/2026 privind Codul amenajării teritoriului, urbanismului și construcțiilor; - Legii nr.52/2003 privind transparența decizională în administrația publică, republicată, cu modificările și com",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/2F271A04A93412BAC2258E97001B64CD/$FILE/HOT%20220.pdf",
+     "sha256": "f167efe0033b87191347e13d6f409cf8e2d2dcbb50492120a1c1d614ca92ece9"
+    }
+   ]
+  },
+  {
    "slug": "hcj-braila-221-2026",
    "path": "local/judet/braila/2026/221",
    "short": "HCJ Brăila nr. 221/2026",
@@ -104,6 +2039,51 @@
      "units": 1,
      "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/BDF316C86068A02EC2258E97001B64D1/$FILE/HOT%20221.pdf",
      "sha256": "f8b35eee8e87a16bb70c79cc995c6f1ef2fad6183051d35bb45727d3f4d63eb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-222-2026",
+   "path": "local/judet/braila/2026/222",
+   "short": "HCJ Brăila nr. 222/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 222/2026 pentru încadrarea terenurilor în clase de calitate în vederea introducerii în circuitul agricol realizat de Oficiul Județean de Studii Pedologice și Agrochimice Brăila; - Decizia nr.15/16.12.2025 emisă de Ministerul Agriculturii și Dezvoltării Rurale; Văzând avizele Comisiei de buget-finanțe, administrarea domeniului public și privat al județului și Comisiei pentru administrație publică locală, ju",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/F3663558090AB430C2258E97001B64D3/$FILE/HOT%20222.pdf",
+     "sha256": "01ed92229f907c72bfbf4efee669781e31423801acaaa4da38b3c3f370b7b972"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-223-2026",
+   "path": "local/judet/braila/2026/223",
+   "short": "HCJ Brăila nr. 223/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 223/2026 privind aprobarea organigramei și a statului de funcții ale Spitalului Clinic Județean de Urgență Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/AED1CB2A8C6905E2C2258EA4004BEE15/$FILE/HOT%20223.pdf",
+     "sha256": "007c10c85f7160e04cbe362e99be23e14520670c2e1d8a6374ab7a2c798cc324"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-224-2026",
+   "path": "local/judet/braila/2026/224",
+   "short": "HCJ Brăila nr. 224/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 224/2026 privind : aprobarea Regulamentelor de organizare și funcționare ale serviciilor sociale din cadrul Complexului de servicii pentru copii și tineri cu dizabilități ,,Pescărușul’’ organizat în cadrul Direcției Generale de Asistență Socială și Protecția Copilului Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/53E5A59DB00E3462C2258EA4004BEE17/$FILE/HOT%20224.pdf",
+     "sha256": "c5dfd56bdb974a7f60558875dfb8ddcee46f410efb52bcb9516f4fc578eda240"
     }
    ]
   },
@@ -123,6 +2103,21 @@
    ]
   },
   {
+   "slug": "hcj-braila-226-2026",
+   "path": "local/judet/braila/2026/226",
+   "short": "HCJ Brăila nr. 226/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 226/2026 pentru obiectivul de investiții „Reabilitare drum județean DJ 255A pe tronsonul cuprins între km 30+000 – km 44+084”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/A79DE8B1F3EFC6C0C2258EA4004BEE19/$FILE/HOT%20226.pdf",
+     "sha256": "be9000d19554c369bcb47026249d5908f34c15a286a20229949d5bcb3d07650c"
+    }
+   ]
+  },
+  {
    "slug": "hcj-braila-227-2026",
    "path": "local/judet/braila/2026/227",
    "short": "HCJ Brăila nr. 227/2026",
@@ -134,6 +2129,51 @@
      "units": 1,
      "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/DA68B9FC304E8529C2258EA4004BEE1A/$FILE/HOT%20227.pdf",
      "sha256": "fd98c0245f0b63644297bd67ab000b1525582a3c50452d98087d145eade56cb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-228-2026",
+   "path": "local/judet/braila/2026/228",
+   "short": "HCJ Brăila nr. 228/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 228/2026",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/73055A0749CF72F3C2258EA4004BEE1B/$FILE/HOT%20228.pdf",
+     "sha256": "1b040fa8ee7e2e49d7e7f10847e9598271d481a7f87283b1583f3ebe1629f97f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-229-2026",
+   "path": "local/judet/braila/2026/229",
+   "short": "HCJ Brăila nr. 229/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 229/2026 privind : modificarea Hotărârii Consiliului Județean Brăila nr. 84/28.04.2022 privind luarea unor măsuri în vederea delegării serviciului public de transport județean de persoane prin curse regulate în aria teritorială de competență a Unității Administrativ-Teritoriale Județul Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/444A891A8D15428AC2258EA4004BEE1D/$FILE/HOT%20229.pdf",
+     "sha256": "b428d96155e0748cec859a39f9cff2a4a30e37782ce4167ed707b1307cd43a97"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-23-2026",
+   "path": "local/judet/braila/2026/23",
+   "short": "HCJ Brăila nr. 23/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 23/2026 pentru emiterea avizului consultativ pentru Planurile anuale de acțiune privind serviciile sociale administrate și finanțate din bugetele locale ale Unităților Administrativ Teritoriale: Bărăganul și Ciocile",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/CB65C190BB966F0FC2258DB20031CDF0/$FILE/HOT%2023.pdf",
+     "sha256": "d829ad3d5d1b253c0c83702739b539250eb9c8e62a197e12463330a30e407679"
     }
    ]
   },
@@ -153,6 +2193,321 @@
    ]
   },
   {
+   "slug": "hcj-braila-231-2026",
+   "path": "local/judet/braila/2026/231",
+   "short": "HCJ Brăila nr. 231/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 231/2026 pentru Situații de Urgență",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/123E39223E1F0E4CC2258EA4004BEE1F/$FILE/HOT%20231.pdf",
+     "sha256": "41b7d6851bd59454a16fdf95dcaff9fba56e8e5f6a763962d795aa04cd3dd2e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-232-2026",
+   "path": "local/judet/braila/2026/232",
+   "short": "HCJ Brăila nr. 232/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 232/2026 privind modificarea și completarea Anexei nr. 2 la Hotărârea Consiliului Județean Brăila nr.198/26.09.2019 privind aprobarea contractului cadru de închiriere și a cuantumului chiriilor pentru locuințele construite de Agenția Națională pentru Locuințe destinate tinerilor specialiști din domeniul sănătății, etapa a XX a",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/E02F8CCC8EE280ECC2258EA4004BEE20/$FILE/HOT%20232.pdf",
+     "sha256": "e31df0eaf0829d5797915ad92365b81bbebd8ca9103847a52ad549ddea6182b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-233-2026",
+   "path": "local/judet/braila/2026/233",
+   "short": "HCJ Brăila nr. 233/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 233/2026",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/FD4950657126219CC2258EA4004BEE21/$FILE/HOT%20233.pdf",
+     "sha256": "d7271c39f924bf4160d8780789b499d16a83de679ae173c3ba5901cd3c1519dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-234-2026",
+   "path": "local/judet/braila/2026/234",
+   "short": "HCJ Brăila nr. 234/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 234/2026 privind transmiterea în administrarea Consiliului Local Municipal Brăila a blocurilor B9 și B10, Ansamblul Buzăului, cu destinația de locuințe sociale, aflate în domeniul public al județului Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/4F71C5DBBFC73197C2258EA4004BEE23/$FILE/HOT%20234.pdf",
+     "sha256": "edc5235406a4d6d3779df5b506691332ac6588afb220fe6b17ea49bf1492b21d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-235-2026",
+   "path": "local/judet/braila/2026/235",
+   "short": "HCJ Brăila nr. 235/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 235/2026",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/B143797A0E32AF4BC2258EA4004BEE25/$FILE/HOT%20235.pdf",
+     "sha256": "42f8999d091886b00b8e7ed123af4a3920d9e53600878042f422353750901822"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-236-2026",
+   "path": "local/judet/braila/2026/236",
+   "short": "HCJ Brăila nr. 236/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 236/2026 privind aprobarea transmiterii imobilului aparținând domeniului privat al județului Brăila, situat în municipiul Brăila, str",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/240832C8362F061CC2258EA4004BEE28/$FILE/HOT%20236.pdf",
+     "sha256": "2b6c552e6f01ccaaa8ae9e8d155a5720e7560e5b1ce24e2acf0f4e2f1de61fc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-237-2026",
+   "path": "local/judet/braila/2026/237",
+   "short": "HCJ Brăila nr. 237/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 237/2026",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/C7BCEF334A603DACC2258EA4004BEE2A/$FILE/HOT%20237.pdf",
+     "sha256": "912700f8785cfe200e9d880b3b7284c32399950458d2691e125205c494c922b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-238-2026",
+   "path": "local/judet/braila/2026/238",
+   "short": "HCJ Brăila nr. 238/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 238/2026",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/B357A7A74A76DDE2C2258EA4004BEE2B/$FILE/HOT%20238.pdf",
+     "sha256": "5bb3eb6411c46b0ab3c752fd76a233fb6d8d8110b1097fc4b15b7fb677b781bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-239-2026",
+   "path": "local/judet/braila/2026/239",
+   "short": "HCJ Brăila nr. 239/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 239/2026 privind transmiterea imobilului situat în municipiul Brăila, str",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/E588B69A83BF159BC2258EA4004BEE2C/$FILE/HOT%20239.pdf",
+     "sha256": "8c66c6c4ceb75bbcae4aa27f2b8445381f1df73a107a49a9a595821cffec355a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-24-2026",
+   "path": "local/judet/braila/2026/24",
+   "short": "HCJ Brăila nr. 24/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 24/2026 pentru tineri specialiști din domeniul sănătății, a Listei de priorități în soluționarea cererilor de locuințe construite de Agenția Națională pentru Locuințe și a Listei de repartiție, etapa a XVIII a",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/BA56335637D62C28C2258DB20031CDF1/$FILE/HOT%2024.pdf",
+     "sha256": "b36e1efb936d21e63a21b018e15319f58b91cb765ee4a1b1a9f95af18ee0d07f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-240-2026",
+   "path": "local/judet/braila/2026/240",
+   "short": "HCJ Brăila nr. 240/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 240/2026",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/0AD00DA71F9BC391C2258EA4004BEE2D/$FILE/HOT%20240.pdf",
+     "sha256": "9df7d3d99fbab76742b5e1bcc608c79e7ea68202654613bcae8b10ac0320fd0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-241-2026",
+   "path": "local/judet/braila/2026/241",
+   "short": "HCJ Brăila nr. 241/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 241/2026 privind preluarea și trecerea de la Direcția de Sănătate Publică a județului Brăila în domeniul public al județului Brăila a imobilului situat în comuna Bărăganul, județul Brăila, sediul Spitalului de recuperare neuropsihomotorie și transmiterea acestuia împreună cu bunurile de inventar din dotare în administrarea Direcției Generale pentru Protecția Drepturilor Copilului Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/F2454CC570FBD664C2258EA4004BEE2E/$FILE/HOT%20241.pdf",
+     "sha256": "1cefa58d896e8615cf067a64a12376d66d2340e8c4b2ad37658e887533bc9a4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-242-2026",
+   "path": "local/judet/braila/2026/242",
+   "short": "HCJ Brăila nr. 242/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 242/2026",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/71398EE514ED67E1C2258EA4004BEE2F/$FILE/HOT%20242.pdf",
+     "sha256": "61bd99a527a42cad31686de4f4b3067575acaacdcedc5027aaa59d3669c3530e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-243-2026",
+   "path": "local/judet/braila/2026/243",
+   "short": "HCJ Brăila nr. 243/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 243/2026",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/5E94E69672DA64FAC2258EA4004BEE30/$FILE/HOT%20243.pdf",
+     "sha256": "07f2a9bd46b93ebb4dce33fdbbfd07ac6f1ecc87afdd5114963790f774df6dcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-244-2026",
+   "path": "local/judet/braila/2026/244",
+   "short": "HCJ Brăila nr. 244/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 244/2026 privind aprobarea transmiterii imobilului situat în municipiul Brăila, str",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/E738D5C02FAEBBEDC2258EA4004BEE31/$FILE/HOT%20244.pdf",
+     "sha256": "ecffaefc254d46b22104cd06835f11e23aecc95d02895fce854f41a2f5464426"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-245-2026",
+   "path": "local/judet/braila/2026/245",
+   "short": "HCJ Brăila nr. 245/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 245/2026 privind completarea inventarului bunurilor care aparțin domeniului public al județului Brăila cu 7 imobile realizate pentru serviciile comunitare destinate protecției copilului și transmiterea acestora în administrarea Direcției Generale de Asistență Socială și Protecția Copilului Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/04BF69E18E8548DEC2258EA4004BEE32/$FILE/HOT%20245.pdf",
+     "sha256": "5231dcd0205fe334a6fdada47229a59def1ef035b2d20e937518a048965a4eb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-246-2026",
+   "path": "local/judet/braila/2026/246",
+   "short": "HCJ Brăila nr. 246/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 246/2026",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/D9E79C6EB354F59AC2258EA4004BEE33/$FILE/HOT%20246.pdf",
+     "sha256": "50a1b88fc4c308ac7dd20f69e976c221e72c3f5ac211cafcd138febbac6f7bdc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-247-2026",
+   "path": "local/judet/braila/2026/247",
+   "short": "HCJ Brăila nr. 247/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 247/2026 privind aprobarea transmiterii imobilului situat în municipiul Brăila, str",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/4C87DF827CFB79B4C2258EA4004BEE34/$FILE/HOT%20247.pdf",
+     "sha256": "4a2476fdaa62c5e4e445f326f7a713715d86a128d7d6075dfabf3547f8643823"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-248-2026",
+   "path": "local/judet/braila/2026/248",
+   "short": "HCJ Brăila nr. 248/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 248/2026 privind aprobarea transmiterii imobilului aparținând domeniului public al județului Brăila, situat în municipiul Brăila, str",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/45A47C8D573AC92AC2258EA4004BEE35/$FILE/HOT%20248.pdf",
+     "sha256": "788f0605bc1b241a1e8e353bd286e4dcfd613d557023039eeb7b0867bb9d7444"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-249-2026",
+   "path": "local/judet/braila/2026/249",
+   "short": "HCJ Brăila nr. 249/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 249/2026 pentru administrație publică locală, juridică, relații publice și relații internaționale; În conformitate cu prevederile art.349, art.350 și art.351 din Ordonanța de Urgență a Guvernului nr.57/2019 privind Codul administrativ, cu modificările și completările ulterioare, art.861 alin.(3), art.874 alin.(1) din Legea nr.287/2009 privind Codul Civil, republicată, cu modificările și completările ulteri",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/7746C7FC60C36825C2258EA4004BEE36/$FILE/HOT%20249.pdf",
+     "sha256": "53f5695b8262eb4f9906c44c53692b1194685e78c2726c0d6bc9e784014b3889"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-25-2026",
+   "path": "local/judet/braila/2026/25",
+   "short": "HCJ Brăila nr. 25/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 25/2026 pentru tineri specialiști din domeniul sănătății, a Listei de priorități în soluționarea cererilor de locuințe construite de Agenția Națională pentru Locuințe și a Listei de repartiție, etapa a XIX a",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/FAEB4108130B9346C2258DB20031CDF2/$FILE/HOT%2025.pdf",
+     "sha256": "e4b8c5968868828dd3c2b4fa34fa459f3b5045be1194c4fe35dec5a52b7eae16"
+    }
+   ]
+  },
+  {
    "slug": "hcj-braila-250-2026",
    "path": "local/judet/braila/2026/250",
    "short": "HCJ Brăila nr. 250/2026",
@@ -164,6 +2519,51 @@
      "units": 7,
      "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/05BE49943D5429FFC2258EA4004BEE37/$FILE/HOT%20250.pdf",
      "sha256": "4b7e54153a505c5e52794dc4b1d84cf173727d8291fa8742f88a151394d53b8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-251-2026",
+   "path": "local/judet/braila/2026/251",
+   "short": "HCJ Brăila nr. 251/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 251/2026 pentru Situații de Urgență “Dunărea” al Județului Brăila, pe o perioadă de 6 ani",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/EBC4513072E2501EC2258EA4004BEE38/$FILE/HOT%20251.pdf",
+     "sha256": "03b0f8c508ebe376de596a32828358e26ac4cf0c5052b9058b4ba81db523d6ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-252-2026",
+   "path": "local/judet/braila/2026/252",
+   "short": "HCJ Brăila nr. 252/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 252/2026 pentru evaluarea în lei a venitului brut, în cazul în care arenda se exprimă în natură, valabile pentru anul fiscal 2027 la nivelul județului Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/D3A7A66C901182CDC2258EA4004BEE39/$FILE/HOT%20252.pdf",
+     "sha256": "3536cb0855c2b21ffadc9f38a7f44da578a6f7e366944927fbe07bfbb1cd7a41"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-253-2026",
+   "path": "local/judet/braila/2026/253",
+   "short": "HCJ Brăila nr. 253/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 253/2026 privind declanșarea procedurilor de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes național \"Drum Expres Focșani-Brăila\", județele Vrancea și Brăila, aprobarea listei imobilelor proprietate publică a statului, precum și a listei imobilelor proprietate publică a unităților administrativ-teritoriale, care fac",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/691E2C6CA6CE497FC2258EA4004BEE3A/$FILE/HOT%20253.pdf",
+     "sha256": "f032c80b39af15fedebab5398ca814e88202d01797b486cbe04cef99aacfa708"
     }
    ]
   },
@@ -183,6 +2583,81 @@
    ]
   },
   {
+   "slug": "hcj-braila-255-2026",
+   "path": "local/judet/braila/2026/255",
+   "short": "HCJ Brăila nr. 255/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 255/2026 privind Codul administrativ, cu modificările și completările ulterioare, precum și ale art. 23 alin. (1) din Legea nr. 273/2006 privind finanțele publice locale, cu modificările și completările ulterioare; În temeiul prevederilor art.182 alin.(1) și art.196 alin.(1) lit.a) din Ordonanța de Urgență a Guvernului nr.57/2019 privind Codul administrativ, cu modificările și completările ulterioare, HOTĂ",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/9D41892C9CB10A10C2258EA4004BEE3C/$FILE/HOT%20255.pdf",
+     "sha256": "4b9dabd485b98ba35ba939f5e517bbb5a6f8bc8ee0c0b7a336cecb114bbea2a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-256-2026",
+   "path": "local/judet/braila/2026/256",
+   "short": "HCJ Brăila nr. 256/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 256/2026",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/5E1B68DFFCFA9D51C2258EA4004BEE3D/$FILE/HOT%20256.pdf",
+     "sha256": "829e94baf95a9c85f886554d48707f6e78fd5b730d94b26379b7f27b22a043ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-257-2026",
+   "path": "local/judet/braila/2026/257",
+   "short": "HCJ Brăila nr. 257/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 257/2026 privind aprobarea finanțării programului sportiv „Împreună, pasiunea pentru volei devine performanță!” al Asociației Club Sportiv PHOENIX VOLLEYBALL TEAM Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/4E1CB9FED3C15C75C2258EA4004BEE3E/$FILE/HOT%20257.pdf",
+     "sha256": "e74e9672ea230d9d2b00f7fcace7b6111f58751f369eeb086a32f98a0b6d36f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-258-2026",
+   "path": "local/judet/braila/2026/258",
+   "short": "HCJ Brăila nr. 258/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 258/2026 privind aprobarea finanțării programului sportiv „Brăila – Cairo, drumul spre performanță” al Asociației Club Sportiv Tokon Dojo Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/2915E008066FCC6EC2258EA4004BEE3F/$FILE/HOT%20258.pdf",
+     "sha256": "dba643f64bbb463210cafee215266e2c3e104bc127fb0ffe35bafe79b2ae4517"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-259-2026",
+   "path": "local/judet/braila/2026/259",
+   "short": "HCJ Brăila nr. 259/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 259/2026 privind aprobarea finanțării programului sportiv „LiL Motion since99” al Asociației Club Sportiv LiL Motion Dance School",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/BA6D62F0CD3F28F3C2258EA4004BEE40/$FILE/HOT%20259.pdf",
+     "sha256": "cff322e87d95f36bb3c1b6bf3d6cd8a16f21aa17b76c4dc380897164793bceb2"
+    }
+   ]
+  },
+  {
    "slug": "hcj-braila-26-2026",
    "path": "local/judet/braila/2026/26",
    "short": "HCJ Brăila nr. 26/2026",
@@ -194,6 +2669,276 @@
      "units": 10,
      "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/6EF3C219F83BDB25C2258DB20031CDF3/$FILE/HOT%2026.pdf",
      "sha256": "9f70837433329fb1124af760c48cb330cd4318792dfa5cb8bb10e9b105080839"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-260-2026",
+   "path": "local/judet/braila/2026/260",
+   "short": "HCJ Brăila nr. 260/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 260/2026 privind finanțele publice locale, cu modificările și completările ulterioare; În temeiul prevederilor art.182 și art.196 alin.(1) lit.a) din Ordonanța de Urgență a Guvernului nr.57/2019 privind Codul Administrativ, cu modificările și completările ulterioare, HOTĂRĂȘTE : Art.1 Se aprobă execuția bugetului local al județului Brăila la data de 30.09.2026, conform anexelor nr. 1-2b, părți integrante d",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/4F04DA3CAB802F90C2258EA4004BEE41/$FILE/HOT%20260.pdf",
+     "sha256": "2b6015239ed59b350a78d3aa1408f972f5a06d666f48ce91dbb339c55b3fe362"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-261-2026",
+   "path": "local/judet/braila/2026/261",
+   "short": "HCJ Brăila nr. 261/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 261/2026 privind repartizarea sumelor corespunzătoare cotei prevăzute la art.7 alin.(1) lit.e) din Legea nr.43/2026 a bugetului de stat pe anul 2026 pentru finanțarea instituțiilor publice de spectacole din subordinea autorităților administrației publice locale ale unităților administrativ-teritoriale din județe, respectiv teatre, opere și filarmonici; În baza prevederilor art.19 alin. (2), art.45 alin. (1",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/103C6AD5B450109FC2258EA4004BEE42/$FILE/HOT%20261.pdf",
+     "sha256": "432eb9886c09a1677f037ae33a89d9cb9138172523b3af399046095f1f1932ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-27-2026",
+   "path": "local/judet/braila/2026/27",
+   "short": "HCJ Brăila nr. 27/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 27/2026 privind luarea unor măsuri în vederea delegării serviciului public de transport județean de persoane prin curse regulate în aria teritorială de competență a Unității Administrativ-Teritoriale Județul Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/84867D1F82D8D61CC2258DB20031CDF4/$FILE/HOT%2027.pdf",
+     "sha256": "d0653c7eac407d3d8d822a9c38f892711cb3be592e7cae2dc8eb489bed72ced8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-28-2026",
+   "path": "local/judet/braila/2026/28",
+   "short": "HCJ Brăila nr. 28/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 28/2026 pentru administrație publică locală, juridică, relații publice și relații internaționale; Conform prevederilor art.76 și art.77 din Legea nr. 446/2006, actualizată, privind pregătirea populației pentru apărare; În conformitate cu prevederile art.173 alin.(1) lit.c, alin.(4), lit.b și art.362, alin.(2), din Ordonanța de Urgență a Guvernului nr.57/2019, privind Codul administrativ, cu modificările ș",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/0748C846D6D08B5FC2258DB20031CDF5/$FILE/HOT%2028.pdf",
+     "sha256": "1c597b3b56cbcd527b9011f1b4280c76b130c4e242af3f226264660c8a05043c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-29-2026",
+   "path": "local/judet/braila/2026/29",
+   "short": "HCJ Brăila nr. 29/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 29/2026 privind aprobarea valorificării prin vânzare, organizată prin licitație publică, cu strigare, cu preselecție, a unui număr de 909 arbori, cu un volum brut de masă lemnoasă de 3669,55 mc, aparținând domeniului privat al județului Brăila, situați pe aliniamentul drumurilor județene",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/F15FDFA47BFB0D5DC2258DB20031CDF6/$FILE/HOT%2029.pdf",
+     "sha256": "194c72993e0d13160d86d7dc97f5a9cb0ff7d1dc744b48b7b9b1bed056f27165"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-3-2026",
+   "path": "local/judet/braila/2026/3",
+   "short": "HCJ Brăila nr. 3/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 3/2026 privind aprobarea acoperirii definitive a deficitului secțiunii de dezvoltare a bugetului județului Brăila, pe anul 2025, din excedentul bugetar al anilor precedenți; - Raportul de specialitate al Direcției Administrație Publică, Contencios, înregistrat la nr.195/08.01.2026, privind aprobarea acoperirii definitive a deficitului secțiunii de dezvoltare a bugetului județului Brăila, pe anul 2025, di",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/D2134E408B655728C2258D86003E167F/$FILE/HOT%203.pdf",
+     "sha256": "ce05a17b787132da9b0a3a8fd0fd650abf34d3ce48dcfdfac63949ddbffc0776"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-30-2026",
+   "path": "local/judet/braila/2026/30",
+   "short": "HCJ Brăila nr. 30/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 30/2026 pentru o perioadă de 5 ani",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/E406D0F649A174E5C2258DB20031CDF7/$FILE/HOT%2030.pdf",
+     "sha256": "143a52dc15755fb2583a55be256cf5dcb3aa83f60e1fca8e9e167eb752603f22"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-31-2026",
+   "path": "local/judet/braila/2026/31",
+   "short": "HCJ Brăila nr. 31/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 31/2026 privind : aprobarea includerii în domeniul public al județului Brăila a terenurilor situate în Orașul Ianca, Județul Brăila, în suprafață de 77.500 mp, înscris în Cartea Funciară nr.82558/Ianca și în suprafață de 4.900 mp, înscris în Cartea Funciară nr. 80651/Ianca",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/7F844BE7EBDFEDA4C2258DB20031CDF8/$FILE/HOT%2031.pdf",
+     "sha256": "83223a58f0b6b399472e336cab6a925ad86066711c82c27fac4414143f2e6758"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-32-2026",
+   "path": "local/judet/braila/2026/32",
+   "short": "HCJ Brăila nr. 32/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 32/2026 pentru activități științifice, învațământ, cultură, culte, tineret și activități sportive; Având în vedere prevederile Hotărârii Guvernului nr.283/2003 pentru aprobarea Programului național \"Mișcare pentru sănătate\", art.173 alin.(1) lit.c, lit.e și alin.(7) lit.a din Ordonanța de Urgență nr.57/2019, privind Codul administrativ, coroborate cu prevederile art.3 alin.1 din Legea educației fizice și",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/920E64B19B5F11B5C2258DB20031CDF9/$FILE/HOT%2032.pdf",
+     "sha256": "f113b704dc5166337602cdb66dba157e8dfc1e629f36ece8541b1204ba9966e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-33-2026",
+   "path": "local/judet/braila/2026/33",
+   "short": "HCJ Brăila nr. 33/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 33/2026",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/6C0096142FD8D26BC2258DB20031CDFA/$FILE/HOT%2033.pdf",
+     "sha256": "2101cbcdb5bdd1e3eac8d7c8b22c502b63129599dd646b3318cb7eac8d4ebee4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-34-2026",
+   "path": "local/judet/braila/2026/34",
+   "short": "HCJ Brăila nr. 34/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 34/2026 privind acoperirea temporară a golurilor de casă în anul 2026 din excedentul bugetar al anilor precedenți, înregistrat la data de 31 decembrie 2025; - Raportul de specialitate al Direcției Administrație Publică, Contencios, înregistrat la nr.3942/25.02.2026 privind acoperirea temporară a golurilor de casă în anul 2026 din excedentul bugetar al anilor precedenți, înregistrat la data de 31 decembrie",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/2EA9B8440670EF59C2258DB20031CDFB/$FILE/HOT%2034.pdf",
+     "sha256": "583e54bf80ea4b86cf02f3f53c59765978afd539097b8671dbd5e03a8b5bb101"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-35-2026",
+   "path": "local/judet/braila/2026/35",
+   "short": "HCJ Brăila nr. 35/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 35/2026 pentru administrație publică locală, juridică, relații publice și relații internaționale; Ținând cont de adresa Inspectoratului de Jandarmi Județean Brăila nr. 2166755/18.02.2026, înregistrată la",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/4AA58177322E453CC2258DCB003FCFE6/$FILE/HOT%2035.pdf",
+     "sha256": "62eed24b9f2736caf64fc1cfcc0418dacdbacaa3a52297faad05ab376fac8ffc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-36-2026",
+   "path": "local/judet/braila/2026/36",
+   "short": "HCJ Brăila nr. 36/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 36/2026 privind aprobarea organigramei și a statului de funcții ale Spitalului de Pneumoftiziologie Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/540529D570146409C2258DCB003FCFE7/$FILE/HOT%2036.pdf",
+     "sha256": "ece67a5ae61a115e0b1b8a67a88905c576e454b1ef9d29e793214b6420e91ddb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-37-2026",
+   "path": "local/judet/braila/2026/37",
+   "short": "HCJ Brăila nr. 37/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 37/2026 privind aprobarea organigramei și a statului de funcții ale Spitalului Clinic Județean de Urgență Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/BB1E8C11406EC655C2258DCB003FCFEA/$FILE/HOT%2037.pdf",
+     "sha256": "d2fb05f7f35901cc5bc5e123312060ddd7e2ab69bdbaa2c1e5fc0479feabff37"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-38-2026",
+   "path": "local/judet/braila/2026/38",
+   "short": "HCJ Brăila nr. 38/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 38/2026 privind organizarea și stabilirea componenței nominale a comisiilor de specialitate ale Consiliului Județean Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/312BF72BFA1B006DC2258DCB003FCFEB/$FILE/HOT%2038.pdf",
+     "sha256": "f857c49c47cdea3128df59bc98c42778f12b6a3128a46a6cedb786e0632d53cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-39-2026",
+   "path": "local/judet/braila/2026/39",
+   "short": "HCJ Brăila nr. 39/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 39/2026 PENTRU VIITOR!”, Cod SMIS 347762, proiect cofinanțat de Uniunea Europeană din Fondul Social European Plus (FSE+), prin Programul Incluziune și Demnitate Socială 2021–2027, Prioritatea P05 – Reducerea disparităților dintre copiii la risc de sărăcie și/sau excluziune socială și ceilalți copii",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/4BAA90E09726BBF0C2258DCB003FCFEC/$FILE/HOT%2039.pdf",
+     "sha256": "4adfc0df515a8365899439bb91e6e2734cd9c896da91b798bfe281bbcbfdd5ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-4-2026",
+   "path": "local/judet/braila/2026/4",
+   "short": "HCJ Brăila nr. 4/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 4/2026 pentru administrație publică locală, juridică, relații publice și relații internaționale; În conformitate cu prevederile art. 204 alin. 2 lit. “a”, alin. 6, alin. 10 si 17 din OUG nr. 57/2019 privind Codul administrativ; În temeiul prevederilor art. 182 alin. 1 si art. 196 alin. 1 lit. “a” din Ordonanța de Urgență a Guvernului României nr. 57/2019 privind Codul adminstrativ, H O T Ă R Ă Ș T E: Art",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/B80DB74B271F6BACC2258D95003AE152/$FILE/HOT%204.pdf",
+     "sha256": "b1a6d7bf35c18d049473460b9fe1bde9f931c2a298f3a9469fc2d2621012272f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-40-2026",
+   "path": "local/judet/braila/2026/40",
+   "short": "HCJ Brăila nr. 40/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 40/2026 privind : aprobarea Listei cuprinzând documentele de interes public și a Listei cuprinzând categoriile de documente produse și /sau gestionate de",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/FDF62316A1412170C2258DCB003FCFED/$FILE/HOT%2040.pdf",
+     "sha256": "a8202954aa93fe7337af2b75e1828841a13994783fa1b7faf8a59780d6630caa"
     }
    ]
   },
@@ -213,6 +2958,81 @@
    ]
   },
   {
+   "slug": "hcj-braila-42-2026",
+   "path": "local/judet/braila/2026/42",
+   "short": "HCJ Brăila nr. 42/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 42/2026 pentru serviciul public de transport județean de persoane prin curse regulate, pe traseul nr. 018 Brăila – Zăvoaia – Jugureanu, respectiv a încheierii unui Act Adițional la Contractul de delegare a gestiunii serviciului public de transport județean de persoane prin curse regulate în aria teritorială de competență a Unității Administrativ-Teritoriale Județul Brăila nr.43/02.02.2023",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/6B3FF06C8DCD04FCC2258DCB003FCFF1/$FILE/HOT%2042.pdf",
+     "sha256": "d70c518833cfffa82f38688479c34054a719255441441a3f938ecd2c6e4291c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-43-2026",
+   "path": "local/judet/braila/2026/43",
+   "short": "HCJ Brăila nr. 43/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 43/2026 pentru activități științifice, învațământ, cultură, culte, tineret și activități sportive; Având în vedere prevederile art.173 alin.1 lit.”c”, lit.”e” și alin.7 lit.”a” din Ordonanța de Urgență nr.57/2019, privind Codul administrativ, cu modificările si completările ulterioare; În temeiul prevederilor art.182 alin.1 și art.196 alin.1 lit.”a” din Ordonanța de Urgență nr.57/2019, privind Codul admin",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/6E89A222B03EC608C2258DCB003FCFF2/$FILE/HOT%2043.pdf",
+     "sha256": "a20aade65a85682955ed575d5f7df369ccc0d783621477e2b0f04fb89fccb6f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-44-2026",
+   "path": "local/judet/braila/2026/44",
+   "short": "HCJ Brăila nr. 44/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 44/2026 privind aprobarea contractului cadru de închiriere și a cuantumului chiriilor pentru locuințele construite de Agenția Națională pentru Locuințe destinate tinerilor specialiști din domeniul sănătății, etapa a XVIII a și a XIX a",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/296F4A91065F4D8BC2258DCB003FCFF3/$FILE/HOT%2044.pdf",
+     "sha256": "94b52d14843f181071691faef33d8a1a7353893c01d111314c4049be5b35ab89"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-45-2026",
+   "path": "local/judet/braila/2026/45",
+   "short": "HCJ Brăila nr. 45/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 45/2026",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/DF6344D4E7802CD1C2258DCB003FCFF4/$FILE/HOT%2045.pdf",
+     "sha256": "33a1c431efe1abc7402777327058af99b4a2e3850865032fb5e5e2046560f0ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-46-2026",
+   "path": "local/judet/braila/2026/46",
+   "short": "HCJ Brăila nr. 46/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 46/2026 privind aprobarea transmiterii în folosință gratuită a unui mijloc fix, pentru o perioadă de 6 ani, către Centrul Militar Județean Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/67C42DD8BC27FC83C2258DCB003FCFF5/$FILE/HOT%2046.pdf",
+     "sha256": "9e18418be24dd30709b885d9540f54c6d2ae293e1ff83449098277da7b5abfbb"
+    }
+   ]
+  },
+  {
    "slug": "hcj-braila-47-2026",
    "path": "local/judet/braila/2026/47",
    "short": "HCJ Brăila nr. 47/2026",
@@ -224,6 +3044,276 @@
      "units": 6,
      "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/5EE7D3D7D4B297CAC2258DCB003FCFF7/$FILE/HOT%2047.pdf",
      "sha256": "86a1680e6b47b17171f0001c1dcc8f20b827fd095bbf692dc3a3236357abdc9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-48-2026",
+   "path": "local/judet/braila/2026/48",
+   "short": "HCJ Brăila nr. 48/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 48/2026 privind : aprobarea conturilor anuale de execuție ale bugetului local al Județului Brăila, ale bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii și ale bugetului Fondurilor Externe Nerambursabile precum și a situațiilor financiare anuale la data de 31.12.2025",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/55FDE16A9BB43A2AC2258DCB003FCFF8/$FILE/HOT%2048.pdf",
+     "sha256": "343475c27bf88671f9a3daa1e8032c0f6b788ed59dfd33005a48055a9890158f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-49-2026",
+   "path": "local/judet/braila/2026/49",
+   "short": "HCJ Brăila nr. 49/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 49/2026 pentru activități științifice, învățământ, cultură, culte, tineret și activități sportive; Conform prevederilor Legii Educației Naționale nr.1/2011, cu modificările și completările ulterioare; În baza prevederilor art.173 alin.(1) lit.”c” și lit.”e”, alin.(7) lit.”a” din Ordonanța de Urgență nr.57/2019, privind Codul administrativ, cu modificările și completările ulterioare; În temeiul prevederilo",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/C029C63FB7410300C2258DE10031EFF0/$FILE/HOT%2049.pdf",
+     "sha256": "86982d2d19b5c9a608c7cfe95c6059326a4226f9b1d09bc4163cdd0585d6f328"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-5-2026",
+   "path": "local/judet/braila/2026/5",
+   "short": "HCJ Brăila nr. 5/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 5/2026 privind aprobarea organigramei și a statului de funcții ale Direcției Generale de Asistență Socială și Protecția Copilului Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/E0AD983CB99F5545C2258D95003AE155/$FILE/HOT%205.pdf",
+     "sha256": "26d6e5eac68b042873113dfda66c1876706a462db8a2e925fdd486eda3392e9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-50-2026",
+   "path": "local/judet/braila/2026/50",
+   "short": "HCJ Brăila nr. 50/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 50/2026 privind aprobarea organigramei, statului de funcții și a Regulamentului de Organizare și Funcționare ale aparatului de specialitate al Consiliului Județean Brăila; Văzând avizul Comisiei pentru administrație publică locală, juridică, relații publice și relații internaționale, precum și referatul Direcției Administrație Publică, Contencios înregistrat cu nr.6623/02.04.2026 și referatul Direcției Ad",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/1F8A5A60FBD9DF2FC2258DE10031EFF1/$FILE/HOT%2050.pdf",
+     "sha256": "3fe787820e28d639095bee376f43f4f6b230930c916a0f407672046ef712801d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-51-2026",
+   "path": "local/judet/braila/2026/51",
+   "short": "HCJ Brăila nr. 51/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 51/2026 pentru administrație publică locală, juridică, relații publice și relații internaționale, Comisiei buget-finanțe, administrarea domeniului public și privat al județului, Comisiei de organizare și dezvoltare urbanistică, realizarea lucrărilor publice, protecția mediului înconjurător, agricultură, turism, transport și Comisiei pentru activități științifice, învățământ, cultură, culte, tineret și act",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/09F545CC8DBC184FC2258DE10031EFF2/$FILE/HOT%2051.pdf",
+     "sha256": "277f8887c51dd4bf5960c846b1422a6e8d3447178f1fc0d3ac11efdf92f3baea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-52-2026",
+   "path": "local/judet/braila/2026/52",
+   "short": "HCJ Brăila nr. 52/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 52/2026 pentru administrație publică locală, juridică, relații publice și relații internaționale, Comisiei de organizare și dezvoltare urbanistică, realizarea lucrărilor publice, protecția mediului înconjurător,agricultură, turism, transport și al Comisiei de buget-finanțe, administrarea domeniului public și privat al județului; Luând în considerare: - Adresa nr.7690 din 19.02.2026 a Operatorului Societat",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/484E0CEE63618D46C2258DE10031EFF3/$FILE/HOT%2052.pdf",
+     "sha256": "9a394cbf32d7c1caff026d58f239e619d5e8b695358c686ebacc93401861673a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-53-2026",
+   "path": "local/judet/braila/2026/53",
+   "short": "HCJ Brăila nr. 53/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 53/2026 pentru obiectivul de investiții „Reabilitare drum județean DJ 255A pe tronsonul cuprins între km 30+000 – km 44+084”, finanțat prin Programul național de investiții „Anghel Saligny” și plata din suma estimată",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/59888DBDA117DCA8C2258DE10031EFF4/$FILE/HOT%2053.pdf",
+     "sha256": "81ce67b2d3e810f3be710660f806b994cb2c3d1c6883e68dc28c454e424df160"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-54-2026",
+   "path": "local/judet/braila/2026/54",
+   "short": "HCJ Brăila nr. 54/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 54/2026 pentru obiectivul de investiții „Modernizare drum județean DJ 212B, județul Brăila”, finanțat prin Programul național de investiții „Anghel Saligny” și plata din suma estimată",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/E0C7DC25EED8CF25C2258DE10031EFF5/$FILE/HOT%2054.pdf",
+     "sha256": "66c8eb5d3f8ca38981401b1f0080b2bd87c9c64e83e085271adc774cf27f7654"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-55-2026",
+   "path": "local/judet/braila/2026/55",
+   "short": "HCJ Brăila nr. 55/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 55/2026 pentru finanțarea cheltuielilor privind drumurile județene și comunale pe anul 2026 și a sumelor estimate pe anii 2027- 2029",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/66AC232A38419264C2258DE10031EFF6/$FILE/HOT%2055.pdf",
+     "sha256": "61f1523072fc550044926519564777cc85589f5884ed1bb8f7de7de0593bbfac"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-56-2026",
+   "path": "local/judet/braila/2026/56",
+   "short": "HCJ Brăila nr. 56/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 56/2026 pentru susținerea programelor de dezvoltare locală, pentru susținerea proiectelor de infrastuctură care necesitǎ cofinanțare localǎ, precum și pentru cheltuielile de funcționare pe care unitǎțile administrativ-teritoriale din județ, în mod justificat, nu le pot finanța din veniturile proprii așa cum sunt definite la art.5 alin.(1) lit.a) din Legea nr.273/2006, cu modificǎrile și completǎrile ulter",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/790017909D2E0125C2258DE10031EFF7/$FILE/HOT%2056.pdf",
+     "sha256": "702a1113544c6cb52214e9f413fc806cab130e2238259cc181eb7742bc469343"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-57-2026",
+   "path": "local/judet/braila/2026/57",
+   "short": "HCJ Brăila nr. 57/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 57/2026 pentru echilibrarea bugetelor locale pe anii 2027-2029",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/95F56CCDA0604003C2258DE10031EFF8/$FILE/HOT%2057.pdf",
+     "sha256": "10ac2b013393a948f039e320aaa1bb3a5ae7855274898686bb61219df8592cc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-58-2026",
+   "path": "local/judet/braila/2026/58",
+   "short": "HCJ Brăila nr. 58/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 58/2026 pentru administrație publică locală, juridică, relații publice și relații internaționale; În conformitate cu prevederile art.204 alin.(2) lit.“a”, alin.(6), alin.(10) și alin.(17) din OUG nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare; În temeiul prevederilor art.182 alin.(1) și art.196 alin.(1) lit.“a” din Ordonanța de Urgență a Guvernului României nr. 57/2019",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/CC0BF08317774392C2258DEF0030D1A8/$FILE/HOT%2058.pdf",
+     "sha256": "fb5688892d03807a21a20def553f8905e0de3de637be01189e16400cb6c4e482"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-59-2026",
+   "path": "local/judet/braila/2026/59",
+   "short": "HCJ Brăila nr. 59/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 59/2026 pentru administrație publică locală, juridică, relații publice și relații internaționale; Ținând cont de adresa Inspectoratului de Jandarmi Județean Brăila nr. 2166904/06.04.2026, înregistrată la",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/C3C3607CE7013A51C2258DEF0030D1A9/$FILE/HOT%2059.pdf",
+     "sha256": "238eb5166e288a98a39f9f56af81882c138ab55aaae14e93f9e639fbf83f720f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-6-2026",
+   "path": "local/judet/braila/2026/6",
+   "short": "HCJ Brăila nr. 6/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 6/2026 pentru administrație publică locală, juridică, relații publice și relații internaționale, precum și Raportul Serviciului Județean de Evidență a Persoanelor Brăila nr.8.929/15.01.2026, transmis prin adresa nr.8.930/15.01.2026; Având în vedere Avizul Direcției Generale pentru Evidența Persoanelor nr. 4936829/23.01.2026 Potrivit prevederilor art. 409 alin.3 lit.”b” din O.U.G nr.57/2019 – Codul admini",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/70BFB24BD0E4F100C2258D95003AE157/$FILE/HOT%206.pdf",
+     "sha256": "513975d15d9f8b067c58a06de697d4530f11d3ce3d66871cf8488127816a11e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-60-2026",
+   "path": "local/judet/braila/2026/60",
+   "short": "HCJ Brăila nr. 60/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 60/2026 pentru Protecția Drepturilor Persoanelor cu Dizabilități nr.22391/15.04.2026; - Propunerile instituțiilor publice din subordinea Consiliului Județean Brăila privind necesarul de fonduri pe anul 2026 și ale direcțiilor de specialitate și serviciilor din cadrul aparatului propriu al Consiliului Județean Brăila; - Prevederile Legii nr. 43/27.03.2026 a bugetului de stat pe anul 2026; - Prevederile Leg",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/ED3143A7A7AC39B4C2258DEF0030D1AC/$FILE/HOT%2060.pdf",
+     "sha256": "55917efa13cc56de0a8e6f439928f31eccc6011e734ff0d481cf87750c5006bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-61-2026",
+   "path": "local/judet/braila/2026/61",
+   "short": "HCJ Brăila nr. 61/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 61/2026 pentru Conservarea și Promovarea Culturii Tradiționale Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/4F715CD46168505FC2258DEF0030D1AD/$FILE/HOT%2061.pdf",
+     "sha256": "0fa3c4048bd1c483068cb29789389a388038e9c389586598657c970d961269dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-62-2026",
+   "path": "local/judet/braila/2026/62",
+   "short": "HCJ Brăila nr. 62/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 62/2026 pentru activități știintifice, învățământ, cultură, culte, tineret și activități sportive; Având în vedere prevederile art.173 alin(1) lit.c), lit. e) și alin. (7) lit.a) din Ordonanța de Urgență nr.57/2019, privind Codul administrativ, cu modificările și completările ulterioare; În temeiul prevederilor art.182 alin.(1) și art.196 alin.(1) lit.a) din Ordonanța de Urgență nr.57/2019, privind Codul",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/3C8AD33AF16963D7C2258DEF0030D1AE/$FILE/HOT%2062.pdf",
+     "sha256": "a5062f2b18f18595ea9506ab73a76f2e93b666dbb6629f6861378a35c8d6e4a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-63-2026",
+   "path": "local/judet/braila/2026/63",
+   "short": "HCJ Brăila nr. 63/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 63/2026 pentru emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul local al Unității Administrativ- Teritoriale Șuțești",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/71EE9EFDA1C6181BC2258DEF0030D1AF/$FILE/HOT%2063.pdf",
+     "sha256": "9e29bd58ec16ffca2c43f29ad2e6d002916a9ede65381e9da2f790a80d17410a"
     }
    ]
   },
@@ -243,6 +3333,66 @@
    ]
   },
   {
+   "slug": "hcj-braila-65-2026",
+   "path": "local/judet/braila/2026/65",
+   "short": "HCJ Brăila nr. 65/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 65/2026 pentru administrație publică locală, juridică, relații publice și relații internaționale, Comisiei de organizare și dezvoltare urbanistică, realizarea lucrărilor publice, protecția mediului înconjurător, agricultură, turism, transport și al Comisiei de buget-finanțe, administrarea domeniului public și privat al județului; Luând în considerare: - Adresa nr. 9771 din 05.03.2026 a Operatorului Region",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/C0ECBEBB6B443F0DC2258DEF0030D1B2/$FILE/HOT%2065.pdf",
+     "sha256": "6d50214016a7efc4a87059873690df8e5ce122c958916d2630adf63e72b12524"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-66-2026",
+   "path": "local/judet/braila/2026/66",
+   "short": "HCJ Brăila nr. 66/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 66/2026 pentru obiectivul de investiții „Reabilitare drum județean DJ 255A pe tronsonul cuprins între km 30+000 – km 44+084”, finanțat prin Programul național de investiții „Anghel Saligny” și plata din suma estimată",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/764A6316C3E90854C2258DEF0030D1B4/$FILE/HOT%2066.pdf",
+     "sha256": "7050fb8e8c2bf20fd9c4926ab32f7487a80e03e01a9781d2dadb35142fc84216"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-67-2026",
+   "path": "local/judet/braila/2026/67",
+   "short": "HCJ Brăila nr. 67/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 67/2026 privind aprobarea preluării la bugetul județean a unui procent de 20% din valoarea aferentă contribuției de la bugetul de stat, în anul 2026, pentru obiectivul de investiții „Modernizare drum județean DJ 212B, județul Brăila”, finanțat prin Programul național de investiții „Anghel Saligny” și plata din suma estimată",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/5FD3D13E43870B2CC2258DEF0030D1B6/$FILE/HOT%2067.pdf",
+     "sha256": "1ef58cdf2fdc0a391c3ce9d56b4e9a4aa07f8ce04d80f1067774cc3927dcd9ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-68-2026",
+   "path": "local/judet/braila/2026/68",
+   "short": "HCJ Brăila nr. 68/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 68/2026 privind : aprobarea tarifului mediu modificat lei/km/loc, fără TVA și a tarifelor de călătorie modificate, recalculate în funcție de tariful mediu modificat lei/km/loc, fără TVA, pentru serviciul public de transport județean de persoane prin curse regulate, pe traseul nr. 041 Brăila – Mărașu - Măgureni, respectiv a încheierii Actului Adițional nr. 2 la Contractul de delegare a gestiunii serviciulu",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/EB68C05F61E28D45C2258DEF0030D1B7/$FILE/HOT%2068.pdf",
+     "sha256": "f13c3803c01349b6a4e0d383bf44c3990a1e59985c0057f1609ddb5f139fbcdc"
+    }
+   ]
+  },
+  {
    "slug": "hcj-braila-69-2026",
    "path": "local/judet/braila/2026/69",
    "short": "HCJ Brăila nr. 69/2026",
@@ -254,6 +3404,501 @@
      "units": 9,
      "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/ACB4FCD6344CC358C2258DEF0030D1B8/$FILE/HOT%2069.pdf",
      "sha256": "6dbc6e3cd42669b01932c4eb16fa30ee589cb7e60b62b7f1c1a03af8c133de4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-7-2026",
+   "path": "local/judet/braila/2026/7",
+   "short": "HCJ Brăila nr. 7/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 7/2026 privind organizarea și stabilirea componenței nominale a comisiilor de specialitate ale Consiliului Județean Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/4EEE8F40A5AF1DD5C2258D95003AE158/$FILE/HOT%207.pdf",
+     "sha256": "2aac8f89a2356c3854729ce69e8408ce9cea69adfeca7285b4b6d9376e580d08"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-70-2026",
+   "path": "local/judet/braila/2026/70",
+   "short": "HCJ Brăila nr. 70/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 70/2026 pentru serviciul public de transport județean de persoane prin curse regulate, pe traseul: nr.035 Brăila – Baldovinești – Vădeni, respectiv a încheierii Actului Adițional nr.3 la Contractul de delegare a gestiunii serviciului public de transport județean de persoane prin curse regulate în aria teritorială de competență a Unității Administrativ-Teritoriale Județul Brăila nr. 335/22.09.2023",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/89B2FAC2E7A2B21CC2258DEF0030D1B9/$FILE/HOT%2070.pdf",
+     "sha256": "586ddbb8552fd676479587076ee7adc2c38cd9dfc55130604ba8a55c7969919b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-71-2026",
+   "path": "local/judet/braila/2026/71",
+   "short": "HCJ Brăila nr. 71/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 71/2026 pentru o perioadă de 6 ani, către Centrul Militar Județean Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/5B9EEAB7F636E734C2258DEF0030D1BA/$FILE/HOT%2071.pdf",
+     "sha256": "49c48c091018ddda609cdae7a5d0c8b87b9ab3e8cf6456b053b1a4d5b442f96f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-72-2026",
+   "path": "local/judet/braila/2026/72",
+   "short": "HCJ Brăila nr. 72/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 72/2026 privind schimbarea titularului dreptului de proprietate și de administrare asupra unor părți dintr-un imobil aflat în domeniul public al statului și în administrarea Ministerului Apărării; - Protocol nr. G706/2009-MApN UM01523 Ianca și nr. 7207/2009-CJ Brăila pentru punerea în aplicare a Hotărârii de Guvern nr. 1269/2007, privind schimbarea titularului dreptului de proprietate și de administrarea",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/3F44EC027344EE20C2258DEF0030D1BC/$FILE/HOT%2072.pdf",
+     "sha256": "74195eba6ad0dc36df7a19894f02a54fd3a48cac4539085df8ce38c379d2c193"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-73-2026",
+   "path": "local/judet/braila/2026/73",
+   "short": "HCJ Brăila nr. 73/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 73/2026 privind casarea unor bunuri de retur aferente sistemului public de alimentare cu apă aparținând domeniului privat al județului Brăila, Raportul de reevaluare nr. 2510201/20.10.2025; Văzând avizele Comisiei de buget-finanțe, administrarea domeniului public și privat al județului și Comisiei pentru administrație publică locală, juridică, relații publice și relații internaționale; Conform prevederilo",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/596D01E2923F8F0EC2258DEF0030D1BD/$FILE/HOT%2073.pdf",
+     "sha256": "fd8dfae9492919d9bafe81422619a5a24bf0ba9cb048d49ec676cc42209bc250"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-74-2026",
+   "path": "local/judet/braila/2026/74",
+   "short": "HCJ Brăila nr. 74/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 74/2026 privind finanțele publice locale, cu modificările și completările ulterioare; În temeiul prevederilor art.182 și art.196 alin.(1) lit.”a” din Ordonanța de Urgență a Guvernului nr.57/2019 privind Codul Administrativ, cu modificările și completările ulterioare, HOTĂRĂȘTE : Art.1 Se aprobă execuția bugetului local al județului Brăila la data de 31.03.2026, conform anexelor nr. 1-2b, părți integrante",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/7A3BFE74307C7ECAC2258DEF0030D1BE/$FILE/HOT%2074.pdf",
+     "sha256": "126a9aba6936f00b274f4bf17d6322d5dd316813aaca564cad735cf9c5e1e072"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-75-2026",
+   "path": "local/judet/braila/2026/75",
+   "short": "HCJ Brăila nr. 75/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 75/2026 pentru Promovarea Dezvoltării Integrate a Zonei Pescărești a Județului Brăila pentru anul 2026",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/CA5FFD5984302C6AC2258DEF0030D1BF/$FILE/HOT%2075.pdf",
+     "sha256": "c4206298e9897532ce0b1056aaa0efe2934564d519806e634a0cf9b280b924d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-76-2026",
+   "path": "local/judet/braila/2026/76",
+   "short": "HCJ Brăila nr. 76/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 76/2026 pentru anul 2026 a județului Brăila, prin",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/4759FB6FDE2A48D7C2258DEF0030D1C0/$FILE/HOT%2076.pdf",
+     "sha256": "2b5bceeacb24ec9d8d787780a441627394f8ef28e470e714eb0decb3ce591ac0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-77-2026",
+   "path": "local/judet/braila/2026/77",
+   "short": "HCJ Brăila nr. 77/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 77/2026 pentru activități științifice, învățământ, cultură, culte, tineret și activități sportive; Văzând adresa Asociației Sportive Handbal Club “Dunărea” Brăila nr. 1394/21.11.2025, înregistrată la",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/65D1CC7E612999ECC2258DEF0030D1C1/$FILE/HOT%2077.pdf",
+     "sha256": "a0075b542a350ab21224d33ea247de81a58b518bb043865a734720a6a89bcf4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-78-2026",
+   "path": "local/judet/braila/2026/78",
+   "short": "HCJ Brăila nr. 78/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 78/2026 pentru administrație publică locală, juridică, relații publice și relații internaționale; Ținând cont de adresa Corpului Național al Polițiștilor – Consiliul Teritorial IPJ Brăila nr. 63043/24.04.2026, înregistrată la",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/A23641F55CF23F57C2258E0A002530AB/$FILE/HOT%2078.pdf",
+     "sha256": "1665cb83c9a9d0a40ee3b2192eeb416c009ca3487a046877c1ec7a3076eddd8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-79-2026",
+   "path": "local/judet/braila/2026/79",
+   "short": "HCJ Brăila nr. 79/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 79/2026 privind aprobarea organigramei și a statului de funcții ale Spitalului de Pneumoftiziologie Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/9CCB92A114117809C2258E0A002530AE/$FILE/HOT%2079.pdf",
+     "sha256": "61f624c2d748e1d4fc383b4d161f3fce093cb80abdef2d895940329d225daee6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-8-2026",
+   "path": "local/judet/braila/2026/8",
+   "short": "HCJ Brăila nr. 8/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 8/2026 privind aprobarea “Programului cadru al manifestărilor cultural- artistice care se vor organiza în județul Brăila în anul 2026”; Văzând avizul Comisiei pentru activități științifice, învătământ, cultură, culte, tineret și activități sportive; În conformitate cu dispozițiile art.173 alin.5 lit.(d) din Ordonanța de Urgență a Guvernului nr.57/2019, privind Codul administrativ cu modificările și compl",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/D0BE1B2B27E24FDFC2258D95003AE159/$FILE/HOT%208.pdf",
+     "sha256": "7e31c5b1307c746a5890f8b2919a058d9473fb1f8e44f36b8a34badbb2ca73d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-80-2026",
+   "path": "local/judet/braila/2026/80",
+   "short": "HCJ Brăila nr. 80/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 80/2026 privind aprobarea organigramei, a statului de funcții și a Regulamentului de organizare și funcționare ale Muzeului Brăilei ,,Carol I’’",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/D4AAFBDC1BB37952C2258E0A002530AF/$FILE/HOT%2080.pdf",
+     "sha256": "de3089e77c44c66edfd9eac8f2dea88d54b31de167bdd7043327c9705e8c1267"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-81-2026",
+   "path": "local/judet/braila/2026/81",
+   "short": "HCJ Brăila nr. 81/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 81/2026",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/8DB5CDB52DC98CB8C2258E0A002530B0/$FILE/HOT%2081.pdf",
+     "sha256": "fed68b71bc5792bea64e5a558fed1062dedb1b4174a8673910acf2a2ee571bdd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-82-2026",
+   "path": "local/judet/braila/2026/82",
+   "short": "HCJ Brăila nr. 82/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 82/2026 privind modificarea Hotărârii Consiliului Județean Brăila nr.145 din 27 august 2025 pri- vind aprobarea organigramei, a statului de funcții și a Regulamentului de organi- zare și funcționare ale Școlii Populare de Arte și Meserii «Vespasian Lungu» Brăi- la",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/87FCB45D31A274FCC2258E0A002530B2/$FILE/HOT%2082.pdf",
+     "sha256": "6211600599b3fff3dcea2aebc236771dfa35701af1e644f49df34309e337cbba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-83-2026",
+   "path": "local/judet/braila/2026/83",
+   "short": "HCJ Brăila nr. 83/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 83/2026 privind aprobarea organigramei și a statului de funcții ale Direcției Generale de Asistență Socială și Protecția Copilului Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/850ED05583413DF7C2258E0A002530B4/$FILE/HOT%2083.pdf",
+     "sha256": "3053d5ca48deae89d014221468560866f8512267618f10ee16f8aed7ad7152af"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-84-2026",
+   "path": "local/judet/braila/2026/84",
+   "short": "HCJ Brăila nr. 84/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 84/2026 privind : aprobarea Regulamentului de organizare și funcționare al Locuinței protejate pentru persoane adulte cu dizabilități ,,Orhideea’’, organizată în cadrul Direcției Generale de Asistență Socială și Protecția Copilului Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/C3CF68D6747DECF8C2258E0A002530B5/$FILE/HOT%2084.pdf",
+     "sha256": "8bd67ca942c511491e9cf3d4b3a4851d2b06eec342498111174a0d289d71ab41"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-85-2026",
+   "path": "local/judet/braila/2026/85",
+   "short": "HCJ Brăila nr. 85/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 85/2026 privind : aprobarea Regulamentului de organizare și funcționare al Locuinței protejate pentru persoane adulte cu dizabilități ,,Anemona’’, organizată în cadrul Direcției Generale de Asistență Socială și Protecția Copilului Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/B7D8C4E9E5EA99E8C2258E0A002530B6/$FILE/HOT%2085.pdf",
+     "sha256": "03dfa6007548547fe26c3eb7bf11f96d53ac01197749fb440913a373be733d31"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-86-2026",
+   "path": "local/judet/braila/2026/86",
+   "short": "HCJ Brăila nr. 86/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 86/2026 privind : aprobarea Regulamentului de organizare și funcționare al Locuinței protejate pentru persoane adulte cu dizabilități ,,Liliac’’ , organizată în cadrul Direcției Generale de Asistență Socială și Protecția Copilului Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/E42712290BDAA6ABC2258E0A002530B7/$FILE/HOT%2086.pdf",
+     "sha256": "4914cdf3380cd350dd733eed5930efd889d7d3aa0b0fe1bf3a072c86de0a7dd4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-87-2026",
+   "path": "local/judet/braila/2026/87",
+   "short": "HCJ Brăila nr. 87/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 87/2026 privind : aprobarea Regulamentului de organizare și funcționare al Centrului pentru viața independentă pentru persoane adulte cu dizabilități ,,Panseluța’’ Bărăganul, organizat în cadrul Direcției Generale de Asistență Socială și Protecția Copilului Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/7B6A792E278D88B2C2258E0A002530B9/$FILE/HOT%2087.pdf",
+     "sha256": "2d9d6634c1b4540d988a00ae3a98cd7fb1491393f2bf104b311ed2e903d0eed8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-88-2026",
+   "path": "local/judet/braila/2026/88",
+   "short": "HCJ Brăila nr. 88/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 88/2026 pentru finanțarea nerambursabilă a activităților nonprofit de interes județean pentru anul 2026”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/CEF9BE4B86F73062C2258E0A002530BA/$FILE/HOT%2088.pdf",
+     "sha256": "856ee444d40b2ea4d313f4dc2195e9491ed372c99fbbc86b358f21a79d83bc64"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-89-2026",
+   "path": "local/judet/braila/2026/89",
+   "short": "HCJ Brăila nr. 89/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 89/2026 pentru emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul local al Unității Administrativ- Teritoriale Măxineni",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/7FA1733A2AC6C05FC2258E0A002530BB/$FILE/HOT%2089.pdf",
+     "sha256": "a8ee0b119db5385bde2e82870a6bd896835622e478215d4dea3bc61b2e71e6c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-9-2026",
+   "path": "local/judet/braila/2026/9",
+   "short": "HCJ Brăila nr. 9/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 9/2026 pentru emiterea avizului consultativ pentru Planurile anuale de acțiune privind serviciile sociale administrate și finanțate din bugetele locale ale Unităților Administrativ Teritoriale: Râmnicelu, Brăila, Surdila Găiseanca, Ianca, Cazasu și Făurei",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/291BF5DE34E519BCC2258D95003AE15A/$FILE/HOT%209.pdf",
+     "sha256": "545c111fc44cb62948323ea7e10ddc91f3e4292e6c2b851e4f91dce50266880d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-90-2026",
+   "path": "local/judet/braila/2026/90",
+   "short": "HCJ Brăila nr. 90/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 90/2026 privind aprobarea „Programului cadru al manifestărilor cultural – artistice care se vor organiza în județul Brăila în anul 2026”",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/E40854B819571E87C2258E0A002530BC/$FILE/HOT%2090.pdf",
+     "sha256": "f9637f3ecdaae903fab356b8c41cb3008ee189e144d618447f0282a9100f2717"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-91-2026",
+   "path": "local/judet/braila/2026/91",
+   "short": "HCJ Brăila nr. 91/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 91/2026 pentru administrație publică, juridică, relații publice și relații internaționale și ale Comisiei pentru activități științifice, învățământ, cultură, culte, tineret și activități sportive; Având în vedere adresa nr. 102060/21.05.2026, înregistrată la",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/DDE3608AAFECAECEC2258E0A002530BD/$FILE/HOT%2091.pdf",
+     "sha256": "fcc5a1065147e9451038c190c976f685f003ca097c6c0b563f6ad51098d2b811"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-92-2026",
+   "path": "local/judet/braila/2026/92",
+   "short": "HCJ Brăila nr. 92/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 92/2026 privind aprobarea încheierii Acordului de Parteneriat dintre Unitatea Administrativ Teritorială – Județul Brăila prin",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/B4C20F0409040392C2258E0A002530BE/$FILE/HOT%2092.pdf",
+     "sha256": "85d4cffdd1b960a8e6e5181c805747337ba6e750eef85c7d7ce530349adc89d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-93-2026",
+   "path": "local/judet/braila/2026/93",
+   "short": "HCJ Brăila nr. 93/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 93/2026 pentru administrație publică locală, juridică, relații publice și relații internaționale; Având în vedere prevederile Legii nr. 52/2003 privind transparența decizională în administrația publică, republicată, cu modificările și completările ulterioare; În conformitate cu prevederile art.34 din O.U.G.nr. 133/2021 privind gestionarea financiară a fondurilor europene pentru perioada de programare 2021",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/549BAC7F39D219CAC2258E0A002530BF/$FILE/HOT%2093.pdf",
+     "sha256": "4999fb29ee32efe8958a6f07eb944ae18aac2c81c460b9ebdc8be898ca62f894"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-94-2026",
+   "path": "local/judet/braila/2026/94",
+   "short": "HCJ Brăila nr. 94/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 94/2026 privind : modificarea Hotărârii Consiliului Județean Brăila nr. 84/28.04.2022 privind luarea unor măsuri în vederea delegării serviciului public de transport județean de persoane prin curse regulate în aria teritorială de competență a Unității Administrativ-Teritoriale Județul Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/702E9BC8DEB267F4C2258E0A002530C0/$FILE/HOT%2094.pdf",
+     "sha256": "18e66880339f2c9428c6414cb63d54e9d11f3d4639c0b8ee7936b2e23c516d7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-95-2026",
+   "path": "local/judet/braila/2026/95",
+   "short": "HCJ Brăila nr. 95/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 95/2026 privind : aprobarea tarifului mediu modificat lei/km/loc, fără TVA și a tarifelor de călătorie modificate, recalculate în funcție de tariful mediu modificat lei/km/loc, fără TVA, pentru serviciul public de transport județean de persoane prin curse regulate, pe traseul nr.013 Brăila – Însurăței – Roșiori, respectiv a încheierii Actului Adițional nr. 2 la Contractul de delegare a gestiunii serviciul",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/7B0FC55AC6A269CEC2258E0A002530C1/$FILE/HOT%2095.pdf",
+     "sha256": "4f8e6d5b1e05fb3104ee087081894974be9a09ca73db14e7b8bc6abfe20cfedd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-96-2026",
+   "path": "local/judet/braila/2026/96",
+   "short": "HCJ Brăila nr. 96/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 96/2026 privind : aprobarea tarifului mediu modificat lei/km/loc, fără TVA și a tarifelor de călătorie modificate, recalculate în funcție de tariful mediu modificat lei/km/loc, fără TVA, pentru serviciul public de transport județean de persoane prin curse regulate, pe traseele : nr.016 Brăila – Însurăței – Mihai Bravu și nr. 017 Brăila – Cuza Vodă - Victoria, respectiv a încheierii Actului Adițional nr. 2",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/F72D0CC79CC7B1E1C2258E0A002530C2/$FILE/HOT%2096.pdf",
+     "sha256": "96995a5b061dda5a456767f6695fbec610c8e7bc6b6e71f8d4509faa2fa26ac8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-97-2026",
+   "path": "local/judet/braila/2026/97",
+   "short": "HCJ Brăila nr. 97/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 97/2026 privind aprobarea documentației tehnico-economice-faza Proiect tehnic, a indicatorilor tehnico-economici actualizați la faza Proiect tehnic și a devizului general actualizat la faza Proiect tehnic pentru obiectivul de investiții „Modernizare drum județean DJ 212B, Județul Brăila”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny” precum și a sumei actualizate reprezen",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/1C2025401E68B1A7C2258E0A002530C4/$FILE/HOT%2097.pdf",
+     "sha256": "52d679eb118834f92bd25c02d38014519fff029402b9b641bcf61fb56290f9d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-98-2026",
+   "path": "local/judet/braila/2026/98",
+   "short": "HCJ Brăila nr. 98/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 98/2026 pentru a se aproba în Adunarea Generală a Asociației, Regulamentul serviciului de salubrizare al județului Brăila-revizia 2 și Actele Adiționale la Contractul de delegare nr. 1502/04.06.2025, încheiat cu Asocierea POLARIS M",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/F8A55201250ED1E2C2258E0A002530CA/$FILE/HOT%2098.pdf",
+     "sha256": "a8ed2b5bf5322cd3c1b7a52fd4d56be9dd2c6997c2fe0d4a7ea26eb016d08216"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-99-2026",
+   "path": "local/judet/braila/2026/99",
+   "short": "HCJ Brăila nr. 99/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 99/2026",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/01ECA1F00C9B308DC2258E0A002530CB/$FILE/HOT%2099.pdf",
+     "sha256": "c3ac664327f89ff338326e44702d6289b892b206ee525253836e0379e6aa08fc"
     }
    ]
   }

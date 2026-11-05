@@ -3,6 +3,156 @@
  "shard": "local/judet/botosani/2007",
  "acts": [
   {
+   "slug": "hcj-botosani-100-2007",
+   "path": "local/judet/botosani/2007/100",
+   "short": "HCJ Botoșani nr. 100/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 100/2007 privind aprobarea organigramelor si statelor de functii pe anul 2008, pentru institutiile publice si societatile comerciale de interes judetean",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-11-21",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h100_2007.11.21.pdf",
+     "sha256": "2945b050172bd178bfa2979e67340bc58ab51196eb69e1130c3e76260fa11098"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-101-2007",
+   "path": "local/judet/botosani/2007/101",
+   "short": "HCJ Botoșani nr. 101/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 101/2007 privind rectificarea bugetului propriu judetean, la partea de cheltuieli, pe anul 2009",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-08-09",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h101_08.07.2009.pdf",
+     "sha256": "a473fccf5856775d1ccc1043724263256f3b71df5bb6499296259d1958b97775"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-105-2007",
+   "path": "local/judet/botosani/2007/105",
+   "short": "HCJ Botoșani nr. 105/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 105/2007 privind aprobarea cumpararii imobilului apartinand Raiffeisen Bank Romania, situat in municipiul Botosani, str",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-11-21",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h105_2007.11.21.pdf",
+     "sha256": "33dc888f969619a1e20e15748297cd18f78341fbd11c96be61fa4c089b55b03b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-107-2007",
+   "path": "local/judet/botosani/2007/107",
+   "short": "HCJ Botoșani nr. 107/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 107/2007 privind aprobarea Actului Constitutiv si Statutului ASOCIATIEI DE DEZVOLTARE INTERCOMUNITARA \"EURONEST\"-A.D.I.E si mandatarea Presedintelui Consiliului Judetean Botosani in vederea semnarii inscrisurilor necesare dobandirii personalitatii juridice a asociatiei",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-11-21",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h107_2007.11.21.pdf",
+     "sha256": "b8e7923643ad085c921d2aef176c8a9eff2e1bc086496729a6fccb5630da5a53"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-110-2007",
+   "path": "local/judet/botosani/2007/110",
+   "short": "HCJ Botoșani nr. 110/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 110/2007 privind eliberarea acordului pentru trecerea unui teren in suprafata de 400 mp aflat in domeniul public al statului si administrarea Ministerului Internelor si Reformei Administrative, in domeniul public al judetului Botosani si administrarea Consiliului Judetean Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-11-21",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h110_2007.11.21.pdf",
+     "sha256": "2185b6cf0705bcc84c9bcead9e8fd2d8a194fc4d0daa8efda0d0ed1a95d87bd6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-111-2007",
+   "path": "local/judet/botosani/2007/111",
+   "short": "HCJ Botoșani nr. 111/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 111/2007 privind repartizarea cotei de 20% din unele venituri ale bugetului de stat pentru echilibrarea bugetelor locale pe unitati administrativ-teritoriale, pe anul 2007",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-11-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h111_28.11.2007.pdf",
+     "sha256": "0da19ebb6c4d549ecbaf3b5b0fe89bffd64994e0401c28f0c517de05e571bd59"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-112-2007",
+   "path": "local/judet/botosani/2007/112",
+   "short": "HCJ Botoșani nr. 112/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 112/2007 privind rectificarea bugetului propriu judetean, pe anul 2007",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-11-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h112_28.11.2007.pdf",
+     "sha256": "18640efea30e88f6e806558087254599d6a7986bcbcf9fef39760fb5fc5c2155"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-113-2007",
+   "path": "local/judet/botosani/2007/113",
+   "short": "HCJ Botoșani nr. 113/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 113/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-11-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h113_28.11.2007.pdf",
+     "sha256": "66cde41b42154cf1a1a673c77e5a4ba9a48dddc0aad663d38d7146b98557f881"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-114-2007",
+   "path": "local/judet/botosani/2007/114",
+   "short": "HCJ Botoșani nr. 114/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 114/2007 privind modificarea planului de ocupare a functiilor publice pentru aparatul de specialitate al Consiliului Judetean Botosani, pe anul 2008",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-12-17",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h114_17.12.2007.pdf",
+     "sha256": "240a8e72fcf3777f5c684224a4c4f04d43ad34f4929915d0565d9fa290085294"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-117-2007",
+   "path": "local/judet/botosani/2007/117",
+   "short": "HCJ Botoșani nr. 117/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 117/2007 privind darea in folosinta, pentru o perioada de 37 luni, catre Raiffeisen Bank S.A",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-12-17",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h117_17.12.2007.pdf",
+     "sha256": "f8434ea36cc5dc943a346036898dccdd6c7758fb8a78e8053ba2a4f2ed7c124a"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-119-2007",
    "path": "local/judet/botosani/2007/119",
    "short": "HCJ Botoșani nr. 119/2007",
@@ -14,6 +164,531 @@
      "units": 1,
      "source_url": "https://www.cjbotosani.ro/files/h119_17.12.2007.pdf",
      "sha256": "c380cfb1acd00ba7e7090eb0de201d9e1990756441d01bb750f90f7ae0324f40"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-12-2007",
+   "path": "local/judet/botosani/2007/12",
+   "short": "HCJ Botoșani nr. 12/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 12/2007 privind efectuarea achizitiilor de bunuri, servicii sau lucrari de catre unele institutii publice subordonate Consiliului Judetean Botosani prin S.C",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-01-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h012_2007.01.31.pdf",
+     "sha256": "60648d2d9121bfbca0755759c484db41c97f4f052305397f056e05ea44a54ded"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-120-2007",
+   "path": "local/judet/botosani/2007/120",
+   "short": "HCJ Botoșani nr. 120/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 120/2007 privind rectificarea bugetului propriu judetean, pe anul 2007 17.12.2007",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-12-17",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h120_17.12.2007.pdf",
+     "sha256": "bda935e62a64fdcd30bdf02dc4d7d3ca147933a18084c851cc6985edd93d40eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-121-2007",
+   "path": "local/judet/botosani/2007/121",
+   "short": "HCJ Botoșani nr. 121/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 121/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-12-17",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h121_17.12.2007.pdf",
+     "sha256": "747d6438e139f58160fe662183b6da033b42648fec34406bb13d6414dfe689b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-123-2007",
+   "path": "local/judet/botosani/2007/123",
+   "short": "HCJ Botoșani nr. 123/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 123/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-12-17",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h123_17.12.2007.pdf",
+     "sha256": "d69bb44794079877bf8c1c29cabac21f9d624a35069cc08d45c472d965d0229a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-124-2007",
+   "path": "local/judet/botosani/2007/124",
+   "short": "HCJ Botoșani nr. 124/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 124/2007 privind aprobarea preluarii din domeniul public al comunelor Suharau, Mihaileni si Sulita in domeniul public al judetului Botosani si administrarea Unitatilor de Asistenta Medico-Sociale respective, a imobilelor in care isi desfasoara activitatea Unitatile de Asistenta Medico-Sociale din Su",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-12-17",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h124_17.12.2007.pdf",
+     "sha256": "5ec726b999c94f445bcd1d3b91f14d47a646bc85eeb0b2a387e1a40dcf9e8f51"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-126-2007",
+   "path": "local/judet/botosani/2007/126",
+   "short": "HCJ Botoșani nr. 126/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 126/2007 privind aprobarea Studiului de Fezabilitate a obiectivului de investitii \"Modernizarea DJ 282H Calarasi-Libertatea-DN 24C, km 6+540 - 11+540\" din judetul Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-12-17",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h126_17.12.2007.pdf",
+     "sha256": "ad53d75bda27882fe95f50ca44c476ad50de8b00a6f34b5f36db03d020ac6368"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-127-2007",
+   "path": "local/judet/botosani/2007/127",
+   "short": "HCJ Botoșani nr. 127/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 127/2007 privind aprobarea Studiului de Fezabilitate a obiectivului de investitii \"Modernizarea DJ 208H, DN 28B (E58) - Copalau-Cerbu-Dracsani-DJ297, km 39+150 - 46+850\" din judetul Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-12-17",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h127_17.12.2007.pdf",
+     "sha256": "b94df7102bf6e7e8c996e67ae3b41b1347afe61284b260b36091cceaf12b39aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-128-2007",
+   "path": "local/judet/botosani/2007/128",
+   "short": "HCJ Botoșani nr. 128/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 128/2007 privind aprobarea Studiului de Fezabilitate a obiectivului de investitii \"Modernizarea DJ 208H, Padureni-Cosula-Buda (E58), km 34+150 - 39+150\" din judetul Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-12-17",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h128_17.12.2007.pdf",
+     "sha256": "0bec0281ef9822f6b98bfd998c6631cd201ba321949421e04d2906c2d4aeffbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-129-2007",
+   "path": "local/judet/botosani/2007/129",
+   "short": "HCJ Botoșani nr. 129/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 129/2007 privind aprobarea Studiului de Fezabilitate a obiectivului de investitii \"Modernizarea DJ 207N, Botosani-Curtesti-Cristesti-DN28B, km 0+900 - 13+900\" din judetul Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-12-17",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h129_17.12.2007.pdf",
+     "sha256": "09b00ec2fc4f7e843d649f74b3d652a46f7a6fdc27881fdc26a4c7c16be421b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-130-2007",
+   "path": "local/judet/botosani/2007/130",
+   "short": "HCJ Botoșani nr. 130/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 130/2007 privind aprobarea Studiului de Fezabilitate a obiectivului de investitii \"Modernizarea DJ 294, Mihalaseni-DN24C, km 22+100 - 29+160\" din judetul Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-12-17",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h130_17.12.2007.pdf",
+     "sha256": "c1644d863969fcc22e5aad71f4eb190cfd62492011c1be815febad115f3629b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-131-2007",
+   "path": "local/judet/botosani/2007/131",
+   "short": "HCJ Botoșani nr. 131/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 131/2007 privind aprobarea Studiului de Fezabilitate a obiectivului de investitii \"Modernizarea DJ 291B, Lozna-Dersca-Mihaileni, km 7+900 - 20+750\" din judetul Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-12-17",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h131_17.12.2007.pdf",
+     "sha256": "19843c0bdb9b939b2bd2f9152dbdbc950e35e982d65bf458d93f7b850449e660"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-132-2007",
+   "path": "local/judet/botosani/2007/132",
+   "short": "HCJ Botoșani nr. 132/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 132/2007 privind aprobarea Studiului de Fezabilitate a obiectivului de investitii \"Modernizarea DJ 291D, Cristinesti-Suharau-Oroftiana, km 18+000 - 31+000\" din judetul Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-12-17",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h132_17.12.2007.pdf",
+     "sha256": "99e7402719fa91b04e6da964de4058a942b3c13520b5a47a120be0e80f95e9fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-133-2007",
+   "path": "local/judet/botosani/2007/133",
+   "short": "HCJ Botoșani nr. 133/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 133/2007 privind aprobarea Studiului de Fezabilitate a obiectivului de investitii \"Modernizarea DJ 293A, Viisoara-Cuza Voda, km 7+000 - 11+550\" din judetul Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-12-17",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h133_17.12.2007.pdf",
+     "sha256": "2a3c3a1eb9a738d6da0ac6fa34c283b3282ec927e021c8f43eca5f76766ae3a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-14-2007",
+   "path": "local/judet/botosani/2007/14",
+   "short": "HCJ Botoșani nr. 14/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 14/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-01-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h014_2007.01.31.pdf",
+     "sha256": "0e8e1ee07be90996b5e3c5582927539937a5583692f99b8cdb2b660de7dd1ff0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-158-2007",
+   "path": "local/judet/botosani/2007/158",
+   "short": "HCJ Botoșani nr. 158/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 158/2007 privind efectuarea de virări de credite bugetare între capitolele bugetului propriu județean si rectificarea bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii pe anul 2025",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-09-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H158_20250709.pdf",
+     "sha256": "f6263c9926e2aa63c711d1a9e2567a578dd383d2d886606a0e82110b02614da1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-16-2007",
+   "path": "local/judet/botosani/2007/16",
+   "short": "HCJ Botoșani nr. 16/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 16/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-02-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h016_2007.02.22.pdf",
+     "sha256": "292eea72dde32ca35e7ae4a500232b09bf07ce491204649559b7813b3c8de2b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-17-2007",
+   "path": "local/judet/botosani/2007/17",
+   "short": "HCJ Botoșani nr. 17/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 17/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-02-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h017_2007.02.22.pdf",
+     "sha256": "1ab430ab3dd75c364516ab61640b5a359fa075a5cdd492c38ee384bd8e1fa82d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-19-2007",
+   "path": "local/judet/botosani/2007/19",
+   "short": "HCJ Botoșani nr. 19/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 19/2007 privind numirea Comisiei pentru efectuarea cercetarii prealabile in vederea declararii utilitatii publice pentru lucrarea de interes local Obiectiv cultural \"George Enescu\" si prevenirea urmarilor unor eventuale dezastre naturale",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-02-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h019_2007.02.22.pdf",
+     "sha256": "45ea727114e1549ae264c409afb1b8ae70fac789fec6181f93cae71a2ae757c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-2-2007",
+   "path": "local/judet/botosani/2007/2",
+   "short": "HCJ Botoșani nr. 2/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 2/2007 privind aprobarea componentei Comisiei de Acorduri Unice",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-01-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h002_2007.01.31.pdf",
+     "sha256": "3f8c0d1586d25760a7f42047f51c64b6abc5b9755c7fe990bb08c1c1e298d167"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-20-2007",
+   "path": "local/judet/botosani/2007/20",
+   "short": "HCJ Botoșani nr. 20/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 20/2007 privind trecerea din domeniul public al judetului Botosani in domeniul privat al acestuia a bunului \"Grup electrogen\", aflat in administrarea Muzeului Judetean Botosani, in vederea valorificarii si, dupa caz, casarii",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-02-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h020_2007.02.22.pdf",
+     "sha256": "db90f528c320219571f6143c8a88289c2c184f8c504dfa171831c3a8ec803462"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-23-2007",
+   "path": "local/judet/botosani/2007/23",
+   "short": "HCJ Botoșani nr. 23/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 23/2007 privind reprezentarea Consiliului Judetean Botosani in dosarele nr. 361/40/2007 si nr. 362/40/2007 aflate pe rolul Tribunalului Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-02-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h023_2007.02.22.pdf",
+     "sha256": "d4c5fc09d47bcae2aa913491d4fd965618f3684ecc7c79fd7d2fdb499039fe82"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-24-2007",
+   "path": "local/judet/botosani/2007/24",
+   "short": "HCJ Botoșani nr. 24/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 24/2007 privind prelungirea activitatii Comisiei de verificare si analiza a activitatii Directiei Generale de Asistenta Sociala si Protectia Copilului Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-02-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h024_2007.02.22.pdf",
+     "sha256": "d407bb251e08d9190ef51b35120103581e880150d145b69985413c6f1d0260fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-25-2007",
+   "path": "local/judet/botosani/2007/25",
+   "short": "HCJ Botoșani nr. 25/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 25/2007 privind aprobarea componentei Comisiei pentru Protectia Copilului Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-03-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h025_2007.03.28.pdf",
+     "sha256": "aff0c5859e2ffcadaffbc048dd2fc0c998fc420647aea67fd14e5d743623a544"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-26-2007",
+   "path": "local/judet/botosani/2007/26",
+   "short": "HCJ Botoșani nr. 26/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 26/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-03-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h026_2007.03.28.pdf",
+     "sha256": "a70f3d0c00da574dfb586f77114b3513a05c40a1da18dd49eff6b5a10536f250"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-32-2007",
+   "path": "local/judet/botosani/2007/32",
+   "short": "HCJ Botoșani nr. 32/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 32/2007 privind repartizarea fondurilor alocate pe anul 2007 de Ministerul Transporturilor, Constructiilor si Turismului pentru actualizarea planurilor urbanistice generale si a regulamentelor locale de urbanism",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-03-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h032_2007.03.28.pdf",
+     "sha256": "67c2d285a6eca989d576c7d678824a56dd3313237c6fdcad60a9467f47990f17"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-33-2007",
+   "path": "local/judet/botosani/2007/33",
+   "short": "HCJ Botoșani nr. 33/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 33/2007 privind aprobarea Acordului/Contractului colectiv de munca al salariatilor din aparatul de specialitate al Consiliului Judetean Botosani, aparatul permanent de lucru al Consiliului Judetean Botosani si cabinetele presedintelui si vicepresedintilor Consiliului Judetean Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-03-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h033_2007.03.28.pdf",
+     "sha256": "d3c9e4f6a4fe8fdfc885aad2c418f29b0e6c380b4eda23482ed528a557dd1bd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-34-2007",
+   "path": "local/judet/botosani/2007/34",
+   "short": "HCJ Botoșani nr. 34/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 34/2007 privind modificarea componentei secretariatului executiv al \"Autoritatii Teritoriale de Ordine Publica\" a judetului Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-04-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h034_2007.04.26.pdf",
+     "sha256": "3b14f42564cbd85f7554929e8be7caa5d2265205fbb5c4d356b9fcbedaf896ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-35-2007",
+   "path": "local/judet/botosani/2007/35",
+   "short": "HCJ Botoșani nr. 35/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 35/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-04-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h035_2007.04.26.pdf",
+     "sha256": "8af7f7b4677e3b18fb9a9db2fd28bd36db88914140f4e5d8e939d35f7db1567f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-38-2007",
+   "path": "local/judet/botosani/2007/38",
+   "short": "HCJ Botoșani nr. 38/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 38/2007 privind aprobarea contului anual de executie al bugetului propriu judetean al Consiliului Judetean Botosani la 31 decembrie 2007",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-12-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h038_24.04.2008.pdf",
+     "sha256": "abf6e4d806f858439443d68b76f882d93045d4de20d423db32a2edb8397972d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-39-2007",
+   "path": "local/judet/botosani/2007/39",
+   "short": "HCJ Botoșani nr. 39/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 39/2007 privind aprobarea propunerii de incadrare ca drum comunal a unor drumuri de exploatare de pe teritoriul administrativ al comunei Mihai Eminescu",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-04-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h039_2007.04.26.pdf",
+     "sha256": "2de7ef8facd576d32698e593aed133e873447fe9b9ceccf091e80371a75771cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-40-2007",
+   "path": "local/judet/botosani/2007/40",
+   "short": "HCJ Botoșani nr. 40/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 40/2007 privind declararea utilitatii publice a lucrarii de interes local Obiectiv cultural \"George Enescu\" si prevenirea urmarilor unor eventuale dezastre naturale in municipiul Dorohoi, judetul Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-04-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h040_2007.04.26.pdf",
+     "sha256": "a755558e3cc7aa60e4a758a1563fcc98a91f37d5e09818c6e90076c0bb5dd9d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-44-2007",
+   "path": "local/judet/botosani/2007/44",
+   "short": "HCJ Botoșani nr. 44/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 44/2007 privind aprobarea modificarii Programului de investitii al Consiliului Judetean Botosani pe anul 2007, in scopul realizarii investitiei \"Panouri intrare in judet\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-05-16",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h044_2007.05.16.pdf",
+     "sha256": "c7f2e508ad4ee061d10dbaa7b0d0eb12e32a860e9571a583f29019f150dc4e7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-45-2007",
+   "path": "local/judet/botosani/2007/45",
+   "short": "HCJ Botoșani nr. 45/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 45/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-05-16",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h045_2007.05.16.pdf",
+     "sha256": "24298b2d1f36bb8dd96791604586d6ce093bdf217533a71dd4686300d90f4789"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-46-2007",
+   "path": "local/judet/botosani/2007/46",
+   "short": "HCJ Botoșani nr. 46/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 46/2007 privind transmiterea unor sectoare de drumuri judetene apartinand domeniului public al judetului Botosani, din administrarea Directiei Judetene de Drumuri si Poduri Botosani, in administrarea Consiliului Local al Municipiului Botosani si a Consiliului Local al Orasului Saveni",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-06-07",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h046_2007.06.07.pdf",
+     "sha256": "371ae1c9690fc732f7ca9ccae6ab232cce9206df99c136b3c40bd84a8feaf55e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-55-2007",
+   "path": "local/judet/botosani/2007/55",
+   "short": "HCJ Botoșani nr. 55/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 55/2007 privind modificarea organigramei si completarea Statului de functii si Regulamentului de organizare si functionare a aparatului propriu al Consiliului Judetean Botosani, pe anul 2006",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-05-06",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h055_2006.06.29.pdf",
+     "sha256": "9b5315a69d85e68677c5d7f5d514b66fabc9c993efdc84565705f5f3f040291b"
     }
    ]
   },
@@ -48,6 +723,171 @@
    ]
   },
   {
+   "slug": "hcj-botosani-6-2007",
+   "path": "local/judet/botosani/2007/6",
+   "short": "HCJ Botoșani nr. 6/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 6/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-01-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h006_2007.01.31.pdf",
+     "sha256": "73a66eeb06a88f18194ad35991739f463b75bb4403e984e7def5f93c73dbacba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-61-2007",
+   "path": "local/judet/botosani/2007/61",
+   "short": "HCJ Botoșani nr. 61/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 61/2007 privind rectificarea bugetului propriu judeţean cu suma de 5.449 mii lei atât la partea de venituri, cât şi la partea de cheltuieli, pe anul 2012",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-04-12",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h061_29.06.2012.pdf",
+     "sha256": "2137d7286c19f9d760690b7ce3067f66ae6578935c80cbd63e9791366be74cef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-62-2007",
+   "path": "local/judet/botosani/2007/62",
+   "short": "HCJ Botoșani nr. 62/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 62/2007 privind desemnarea reprezentantului Consiliului Judetean Botosani in Adunarea Generala a Asociatiei pentru Alimentari cu Apa, Canalizari si Salubrizari in Judetul Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-07-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h062_2007.07.26.pdf",
+     "sha256": "5ccea76fac42d6e7e0aed07b4640df53a95d8cd5c138e1c4df1a49a1487f07c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-63-2007",
+   "path": "local/judet/botosani/2007/63",
+   "short": "HCJ Botoșani nr. 63/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 63/2007 privind inlocuirea secretarului Comisiei Judetene de reconstituire a vechimii in munca",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-07-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h063_2007.07.26.pdf",
+     "sha256": "20915abb28789452582b50e93b7f6ffc18a81ca7d600b07d7a1cb177e9430e53"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-64-2007",
+   "path": "local/judet/botosani/2007/64",
+   "short": "HCJ Botoșani nr. 64/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 64/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-07-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h064_2007.07.26.pdf",
+     "sha256": "a571eb5a589a01988213d0115ce0eb1f122687ab0fe5ad6a25a34947221860a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-66-2007",
+   "path": "local/judet/botosani/2007/66",
+   "short": "HCJ Botoșani nr. 66/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 66/2007 privind trecerea din domeniul public al judeţului Botoşani în domeniul privat al acestuia a unor bunuri aflate în administrarea Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului şi a Spitalului Judeţean de Urgenţă \"Mavromati\" Botoşani, în vederea valorificării şi, după caz, cas",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-08-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h066_30.08.2007.pdf",
+     "sha256": "c63d1092b29066c9ecc87b56f6d84e2ba6e4c835c5bae2cd2470717431c92402"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-67-2007",
+   "path": "local/judet/botosani/2007/67",
+   "short": "HCJ Botoșani nr. 67/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 67/2007 privind aprobarea închirierii suprafeţei de 14,96 mp de teren, situat în municipiul Botoşani, str",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-08-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h067_30.08.2007.pdf",
+     "sha256": "5fa3e4631c61e5fc8bd4eab2c46e212ac380868b78465465eb38371990f28936"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-7-2007",
+   "path": "local/judet/botosani/2007/7",
+   "short": "HCJ Botoșani nr. 7/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 7/2007 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Reabilitare, consolidare, instalatii incalzire, centrala termica pe gaz metan si inprejmuire a Casei Ventura Botosani\" Scoala Populara de Arte si Meserii Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-01-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h007_2007.01.31.pdf",
+     "sha256": "992c829c60034d7e234005158fece1b6b9cf5d0b12fd5d8d1e73ad0c4aa13fa8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-70-2007",
+   "path": "local/judet/botosani/2007/70",
+   "short": "HCJ Botoșani nr. 70/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 70/2007 privind aprobarea participării Consiliului Judeţean Botoşani în calitate de membru fondator la înfiinţarea Asociaţiei de Dezvoltare Intercomunitară \"EURONEST\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-08-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h070_30.08.2007.pdf",
+     "sha256": "d893af199a6f7dffb36a3d4105a099e9dbedcf97f28352c7af0a08e47aea758f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-71-2007",
+   "path": "local/judet/botosani/2007/71",
+   "short": "HCJ Botoșani nr. 71/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 71/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-08-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h071_30.08.2007.pdf",
+     "sha256": "1b80c5f07222bf6b7ef33cbcf92ce097bab18cfc9642dfe3ab3cfca4cce99911"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-74-2007",
+   "path": "local/judet/botosani/2007/74",
+   "short": "HCJ Botoșani nr. 74/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 74/2007 privind aprobarea Acordului de asociere între Judeţul Botoşani şi Municipiul Botoşani, în vederea promovării pe plan naţional şi internaţional a imaginii judeţului Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-08-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h074_30.08.2007.pdf",
+     "sha256": "4299d63e2fee90e61d5e227cd9bc01ef189d00802e8b25d6cf47316739e6ba01"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-75-2007",
    "path": "local/judet/botosani/2007/75",
    "short": "HCJ Botoșani nr. 75/2007",
@@ -59,6 +899,96 @@
      "units": 1,
      "source_url": "https://www.cjbotosani.ro/files/h075_30.08.2007.pdf",
      "sha256": "cc547d99c100ce74a398955f7e6168aed799fc215a78ed7147dcccf7a83995b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-77-2007",
+   "path": "local/judet/botosani/2007/77",
+   "short": "HCJ Botoșani nr. 77/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 77/2007 privind aprobarea Parteneriatului Interinstitutional pentru realizarea cooperarii in domeniul prevenirii si combaterii traficului de persoane",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-09-19",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h077_2007.09.19.pdf",
+     "sha256": "b09ce25bd43cd25bd98d3208759a710bc61a225d1e5e3bb663bc751346d0d7be"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-78-2007",
+   "path": "local/judet/botosani/2007/78",
+   "short": "HCJ Botoșani nr. 78/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 78/2007 privind modificarea regulamentelor de organizare si functionare a Unitatilor de Asistenta Medico-Sociala Sulita, Mihaileni si Suharau, precum si a componentei consiliilor consultative ale acestora",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-09-19",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h078_2007.09.19.pdf",
+     "sha256": "e41d9f184204c3a63b840a19c0d43ccd8bd5582aae3aee32e8b2d4f25c3f1a5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-81-2007",
+   "path": "local/judet/botosani/2007/81",
+   "short": "HCJ Botoșani nr. 81/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 81/2007 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Extinderea sistemelor de alimentare cu apa si canalizare din sursele Siret si Prut pentru localitatile din judetul Botosani\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-09-19",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h081_2007.09.19.pdf",
+     "sha256": "ab25bbf3aec9f2a0bdd44b5598f60774c08624435fd523a542861e7ee7104490"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-82-2007",
+   "path": "local/judet/botosani/2007/82",
+   "short": "HCJ Botoșani nr. 82/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 82/2007 privind angajarea fondului de rezerva constituit la nivelul bugetului propriu judetean, pe anul 2007 si alocarea sumei de 25.000 lei Municipiului Dorohoi",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-09-19",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h082_2007.09.19.pdf",
+     "sha256": "d565cee7be5b5412f312c2af05910ad2c4cab3480340acb7541e909ec791759e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-83-2007",
+   "path": "local/judet/botosani/2007/83",
+   "short": "HCJ Botoșani nr. 83/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 83/2007 privind rectificarea bugetului propriu judetean, atat la partea de venituri, cat si la partea de cheltuieli, cu suma de 705.000 lei, pe anul 2010",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-01-10",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h083_29.06.2010.pdf",
+     "sha256": "9df391d127eb19924cb688873ab93202b418245d98144249d721d64bb3591328"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-87-2007",
+   "path": "local/judet/botosani/2007/87",
+   "short": "HCJ Botoșani nr. 87/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 87/2007 privind angajarea sumei de 1670 mii lei din fondul de rezerva constituit, pe anul 2010",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-06-10",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h087_06.07.2010.pdf",
+     "sha256": "48050e09c7fff262ab88c7eb2e69ee8235b6a9fbfe2df584fae0e03bb48825b5"
     }
    ]
   },
@@ -78,6 +1008,51 @@
    ]
   },
   {
+   "slug": "hcj-botosani-89-2007",
+   "path": "local/judet/botosani/2007/89",
+   "short": "HCJ Botoșani nr. 89/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 89/2007 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Modernizare traseu regional Dorohoi-Racovat, tronsonul Ibanesti-Cristinesti-Baranca-Fundul Hertii-Racovat, L=15,00 km, judetul Botosani\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-10-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h089_31.10.2007.pdf",
+     "sha256": "a0ab4ceda45dcdc6b8846335b77210bdf7e75baf3caad94badc7b1743b657298"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-90-2007",
+   "path": "local/judet/botosani/2007/90",
+   "short": "HCJ Botoșani nr. 90/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 90/2007 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Alimentare cu apa statie hidrofor si instalatii de stingerea incendiilor\" Scoala Speciala Dorohoi",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-10-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h090_31.10.2007.pdf",
+     "sha256": "a22a619bf868f60543abe1050661b5d2ecfca254b02d9a96ba228363aef158ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-91-2007",
+   "path": "local/judet/botosani/2007/91",
+   "short": "HCJ Botoșani nr. 91/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 91/2007 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Punct de trecere a frontierei si Birou Vamal RADAUTI-PRUT (Romania)-LIPCANI (Republica Moldova), judetul Botosani\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-10-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h091_31.10.2007.pdf",
+     "sha256": "3d955d94d567bbddccf9290452fe07fde34e63750f29e81325a18b8cf9c5e072"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-92-2007",
    "path": "local/judet/botosani/2007/92",
    "short": "HCJ Botoșani nr. 92/2007",
@@ -89,6 +1064,66 @@
      "units": 1,
      "source_url": "https://www.cjbotosani.ro/files/h092_31.10.2007.pdf",
      "sha256": "6ccb286324a879d4303d05341401b318295646016b742ac2013cc56a50f010cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-94-2007",
+   "path": "local/judet/botosani/2007/94",
+   "short": "HCJ Botoșani nr. 94/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 94/2007 privind modificarea Contractului de vanzare-cumparare de actiuni incheiat intre",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-10-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h094_31.10.2007.pdf",
+     "sha256": "54fc116f07280b9f86051fab0bf5d9e04b13cada141fc1914837d25fe685c188"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-95-2007",
+   "path": "local/judet/botosani/2007/95",
+   "short": "HCJ Botoșani nr. 95/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 95/2007 privind aprobarea participării reprezentanţilor Consiliului Judeţean Botoşani în Biroul de Reprezentare al Uniunii Naţionale a Consiliilor Judeţene din România de la Bruxelles, în perioada octombrie 2006 - aprilie 2007",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-04-06",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h095_2006.09.20.pdf",
+     "sha256": "01a6405414ccb6ca626438d874ec6cbe62090e68a442b6d8efa1157fac6910b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-97-2007",
+   "path": "local/judet/botosani/2007/97",
+   "short": "HCJ Botoșani nr. 97/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 97/2007 privind numirea unor reprezentanti ai Consiliului Judetean Botosani in Comisia pentru evaluarea si asigurarea calitatii si in Consiliul de administratie al unitatilor de invatamant special",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-11-21",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h097_2007.11.21.pdf",
+     "sha256": "b878d1698942783375cbd899324e10b4847f7e24a30fde57413c8fa178c542ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-99-2007",
+   "path": "local/judet/botosani/2007/99",
+   "short": "HCJ Botoșani nr. 99/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 99/2007 privind aprobarea prelungirii duratei de folosinţă gratuită până la 31.03.2007, de către Biblioteca Orăşenească Dorohoi, a spaţiului în suprafaţă de 89,76 mp şi suplimentarea acestuia cu 30 mp, situat la parterul clădirii \"Muzeul de Ştiinţele Naturii - Dorohoi\" - compus din 4 (patru) camere",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-03-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h099_2006.09.20.pdf",
+     "sha256": "4fbdc1b63a10155e5df028c40e035eb23863f73b5b1ce1b56477b3ad5f1a72fd"
     }
    ]
   }

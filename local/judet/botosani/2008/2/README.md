@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Județean Botoșani nr. 2/2008 privind repartizarea sumelor defalcate din taxa pe valoare adaugata si a cotei de 22% din impozitul pe venit, pe unitati administrativ-teritoriale, in anul 2008
+
+HCJ Botoșani nr. 2/2008 · 1 versions, from 2008-01-15 (latest in force: 2008-01-15) · <https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcj-botosani-2-2008` (tags `hcj-botosani-2-2008/<day>`; `python tools/on.py <day> hcj-botosani-2-2008`).
+
+## Decisions made by hand
+
+- HCJ Botoșani nr. 2/2008: listed from Consiliul Județean Botoșani (www.cjbotosani.ro); an individual decision: metadata only.
+- HCJ Botoșani nr. 2/2008: dated from 15 January 2008, the day it was adopted (the register gives no later day of publication).
+- HCJ Botoșani nr. 2/2008: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

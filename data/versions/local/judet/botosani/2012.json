@@ -3,6 +3,321 @@
  "shard": "local/judet/botosani/2012",
  "acts": [
   {
+   "slug": "hcj-botosani-100-2012",
+   "path": "local/judet/botosani/2012/100",
+   "short": "HCJ Botoșani nr. 100/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 100/2012 privind aprobarea modificării organigramei şi statului de funcţii ale aparatului de specialitate al Consiliului Judeţean Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-08-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h100_29.08.2012.pdf",
+     "sha256": "a17dd3bc5e8e976e391e0b10f3e40bb79a59aa2c6fbc1d6982149fff4015facf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-101-2012",
+   "path": "local/judet/botosani/2012/101",
+   "short": "HCJ Botoșani nr. 101/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 101/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-08-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h101_29.08.2012.pdf",
+     "sha256": "2bb7e1d84bbd3b9e642222a0b70d891b60f098ff265d1ffdee79cfc88bc98e3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-103-2012",
+   "path": "local/judet/botosani/2012/103",
+   "short": "HCJ Botoșani nr. 103/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 103/2012 privind înfiinţarea Comisiei Paritare pentru transportul public local de persoane prin curse regulate pe trasee judeţene",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-08-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h103_29.08.2012.pdf",
+     "sha256": "ef1cbb272df0a8874081f1abc6099d7f8a7965d43b9e13e87ea8d3dfb3e0429a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-104-2012",
+   "path": "local/judet/botosani/2012/104",
+   "short": "HCJ Botoșani nr. 104/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 104/2012 privind aprobarea monografiei economico-militare a judeţului Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-08-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h104_29.08.2012.pdf",
+     "sha256": "4c626a30dbb6d46393304973f322970779fc91dbe61f545d0094eb0d38874387"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-106-2012",
+   "path": "local/judet/botosani/2012/106",
+   "short": "HCJ Botoșani nr. 106/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 106/2012 privind aprobarea Programului cu obiectivele şi lucrările de drumuri şi poduri pentru 2012 - 2013, finanţate din bugetul judeţului, precum şi aprobarea unor credite de angajament",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-08-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h106_29.08.2012.pdf",
+     "sha256": "c92dc812e0c1fbfcee406cd1898bea04e829917728d4a5f80316b0ec4ca6d135"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-108-2012",
+   "path": "local/judet/botosani/2012/108",
+   "short": "HCJ Botoșani nr. 108/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 108/2012 privind aprobarea garantării unui împrumut intern/extern contractat de către SC NOVA APASERV SA Botoşani, în valoare de 31.378.976 lei, pentru asigurarea contribuţiei proprii la realizarea obiectivului de investiţii „Extinderea şi modernizarea sistemelor de alimentare cu apă şi canalizare",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-08-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h108_29.08.2012.pdf",
+     "sha256": "94d175e258aaa0228ceb452ac4d61d099602ce2883050291c2f57de82d38c1e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-109-2012",
+   "path": "local/judet/botosani/2012/109",
+   "short": "HCJ Botoșani nr. 109/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 109/2012 privind desemnarea reprezentantului Consiliului Judeţean Botoşani în Comisia de Orientare Şcolară şi Profesională",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-09-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h109_28.09.2012.pdf",
+     "sha256": "f47daf72cfa615bc8968615468ffc6bd08d2ea02e7f7f5de1928ad79b4539e35"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-11-2012",
+   "path": "local/judet/botosani/2012/11",
+   "short": "HCJ Botoșani nr. 11/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 11/2012 privind constituirea comisiilor de evaluare a managementului institutiilor publice de cultura aflate in subordinea Consiliului Judetean Botosani, precum si a comisiilor de solutionare a contestatiilor",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h011_29.02.2012.pdf",
+     "sha256": "1d366234f20aca2231c7668f7e9e42b0d8b8c7f5e244ee70259574439577e1e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-110-2012",
+   "path": "local/judet/botosani/2012/110",
+   "short": "HCJ Botoșani nr. 110/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 110/2012 privind modificarea componenţei Comisiei pentru Protecţia Copilului Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-09-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h110_28.09.2012.pdf",
+     "sha256": "a55d372ca15179a600d93e7c2e667ffca3a46d038ebabc1b80395c03e237835f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-111-2012",
+   "path": "local/judet/botosani/2012/111",
+   "short": "HCJ Botoșani nr. 111/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 111/2012 privind atribuirea unei licenţe de traseu pentru curse regulate speciale",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-09-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h111_28.09.2012.pdf",
+     "sha256": "a1eacbd9040b170c2728d66d04f6757e5d3db44ac715e84429588bc785e710c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-115-2012",
+   "path": "local/judet/botosani/2012/115",
+   "short": "HCJ Botoșani nr. 115/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 115/2012 privind modificarea si completarea Statului de functii a Serviciului Public Comunitar de Evidenta Persoanelor al Judetului Botosani, pe anul 2006",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-05-06",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h115_2006.11.30.pdf",
+     "sha256": "95e22b9800a3ca4bb0daa69e1bf992228eb497e49c0ac1329a64770342ff94f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-116-2012",
+   "path": "local/judet/botosani/2012/116",
+   "short": "HCJ Botoșani nr. 116/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 116/2012 privind aprobarea Planurilor de ocupare a functiilor publice pentru aparatul de specialitate si institutiile publice subordonate, pe anul 2007",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-05-06",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h116_2006.11.30.pdf",
+     "sha256": "6eaac2fd440a669a48a2686a7ad8b6d872a344ee5dd91172917f76eb0a6d1138"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-117-2012",
+   "path": "local/judet/botosani/2012/117",
+   "short": "HCJ Botoșani nr. 117/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 117/2012 privind aprobarea situatiei functiilor publice, organigramei si statului de functii pentru aparatul de specialitate al Consiliului Judetean Botosani, pe anul 2007",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-05-06",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h117_2006.11.30.pdf",
+     "sha256": "b4839406c9f926fc098fee82accab31932512360c2a4744fb7abcfc7c6b5b184"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-118-2012",
+   "path": "local/judet/botosani/2012/118",
+   "short": "HCJ Botoșani nr. 118/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 118/2012 privind aprobarea parteneriatului între Judeţul Botoşani şi Casa de Cultură a Sindicatelor „Nicolae Iorga” Botoşani în vederea finanţării festivalului multicultural „De dragoste, de neam, de ţară”, faza zonală a Festivalului Naţional de Folclor „Cântece Dintotdeauna”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-09-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h118_28.09.2012.pdf",
+     "sha256": "f39d75b8b712517378f679809a5c247bb4e94ddcceaf89951a1ae5cf8b2f0d87"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-119-2012",
+   "path": "local/judet/botosani/2012/119",
+   "short": "HCJ Botoșani nr. 119/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 119/2012 privind aprobarea închirierii prin licitaţie publică a unui teren în suprafaţă de 10,00 mp, situat în municipiul Botoşani, str",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-09-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h119_28.09.2012.pdf",
+     "sha256": "bcbebe1a359e4052f294e2440d6940ef543b843ac843124ebc81d00d3d3f2945"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-120-2012",
+   "path": "local/judet/botosani/2012/120",
+   "short": "HCJ Botoșani nr. 120/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 120/2012 privind aprobarea organigramelor si statelor de functii ale unitatilor invatamantului special de sub autoritatea Consiliului Judetean Botosani, pentru anul scolar 2006-2007",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-05-06",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h120_2006.11.30.pdf",
+     "sha256": "c19ca4baa758e45d1c368ba8cf38399c984372cdf42c51f5ea317dfc74584ee8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-121-2012",
+   "path": "local/judet/botosani/2012/121",
+   "short": "HCJ Botoșani nr. 121/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 121/2012 privind aprobarea modificării valorii de inventar a bunurilor „Pod beton armat – pârâu Răchita” şi „Drum Judeţean DJ 282”, care aparţin domeniului public al Judeţului Botoşani, aflate în administrarea Direcţiei Judeţene de Drumuri şi Poduri Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-09-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h121_28.09.2012.pdf",
+     "sha256": "acdcac97a285fda261242d98c86ed36c705a9a1f73db6b98e9489bf8b1f6f26e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-122-2012",
+   "path": "local/judet/botosani/2012/122",
+   "short": "HCJ Botoșani nr. 122/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 122/2012 privind rectificarea bugetului institutiilor si activitatilor finantate integral sau partial din venituri proprii cu suma de 1.428 mii lei, atat la partea de venituri, cat si la partea de cheltuieli, pentru anul 2011",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-05-11",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h122_29.11.2011.pdf",
+     "sha256": "bac083c5213757fce446b61933d9068d372e0c43ed29bcdc407e1f7eb8adae9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-123-2012",
+   "path": "local/judet/botosani/2012/123",
+   "short": "HCJ Botoșani nr. 123/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 123/2012 privind aprobarea rectificarii bugetului propriu judetean cu suma de 520 mii lei, atat la partea de venituri, cat si la partea de cheltuieli si virarilor de credite bugetare intre capitole, pe anul 2011",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-05-11",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h123_29.11.2011.pdf",
+     "sha256": "a093f6b9166654414c0c644fa8d77e8a478d65bc8693c7f5ebba6ed1b19fb816"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-124-2012",
+   "path": "local/judet/botosani/2012/124",
+   "short": "HCJ Botoșani nr. 124/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 124/2012 privind aprobarea costului anual pentru intretinerea unui copil protejat pentru care comunitatea locala trebuie sa acorde sprijin financiar, pe anul 2007",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-05-06",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h124_2006.11.30.pdf",
+     "sha256": "909bbfd2abfd94016f107d4b7dee12cab4f8a4f886cd0f413aa271e3e0e707f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-125-2012",
+   "path": "local/judet/botosani/2012/125",
+   "short": "HCJ Botoșani nr. 125/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 125/2012 privind repartizarea sumelor defalcate din unele venituri ale bugetului de stat pe unităţi administrativ-teritoriale, pentru achitarea arieratelor provenite din neplata cheltuielilor de funcţionare şi/sau de capital",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-09-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h125_28.09.2012.pdf",
+     "sha256": "ebdd5b571dd3421ebeab004b29bc49e8e0f813090e9a4d8b4fec5522069ab4dc"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-127-2012",
    "path": "local/judet/botosani/2012/127",
    "short": "HCJ Botoșani nr. 127/2012",
@@ -48,6 +363,21 @@
    ]
   },
   {
+   "slug": "hcj-botosani-13-2012",
+   "path": "local/judet/botosani/2012/13",
+   "short": "HCJ Botoșani nr. 13/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 13/2012 privind aprobarea prelungirii duratei de inchiriere a suprafetei de 110 mp, aflata in incinta Unitatii de Asistenta Medico-Sociala Suharau, pentru functionarea unui cabinet medical individual",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h013_29.02.2012.pdf",
+     "sha256": "6e19b3346b4ff79c9de7761e0cb597ceddb0b4e4d36af824c39229952154def2"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-130-2012",
    "path": "local/judet/botosani/2012/130",
    "short": "HCJ Botoșani nr. 130/2012",
@@ -78,6 +408,186 @@
    ]
   },
   {
+   "slug": "hcj-botosani-132-2012",
+   "path": "local/judet/botosani/2012/132",
+   "short": "HCJ Botoșani nr. 132/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 132/2012 privind trecerea bunului imobil „Pavilion C” – Centrul de Sănătate Mintală şi Staţionarul de zi, care aparţine domeniului public al Judeţului Botoşani din administrarea Şcolii Populare de Arte şi Meserii Botoşani în administrarea Direcţiei Generale de Asistenţă Socială şi Protecţia Copilulu",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-10-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h132_30.10.2012.pdf",
+     "sha256": "3ef8b9b6cc7fc497d5f783cbf4d424a98e5a87d97bbeffbdc392514034e6c411"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-134-2012",
+   "path": "local/judet/botosani/2012/134",
+   "short": "HCJ Botoșani nr. 134/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 134/2012 privind rectificarea bugetului propriu judetean, pe anul 2008",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-03-08",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h134_27.11.2008.pdf",
+     "sha256": "de79528841407de12c560125d876c49e8975089a81c0c67ac1b44e0f0f44925b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-137-2012",
+   "path": "local/judet/botosani/2012/137",
+   "short": "HCJ Botoșani nr. 137/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 137/2012 privind validarea modificărilor intervenite în bugetul propriu judeţean, pe anul 2014",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-05-14",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h137_28.11.2014.pdf",
+     "sha256": "aeefeb44146cbc11b77aa233b78a0412b6704dda073eb10356a56dd3e73d45d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-139-2012",
+   "path": "local/judet/botosani/2012/139",
+   "short": "HCJ Botoșani nr. 139/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 139/2012 privind aprobarea organigramelor si statelor de functii pentru institutiile publice de interes judetean care au prevazute posturi contractuale, pe anul 2009",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-03-08",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h139_27.11.2008.pdf",
+     "sha256": "5183186da3fb3fe22d2d7a99e293db1ea557c8a1e740ad9410696b6a931816ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-14-2012",
+   "path": "local/judet/botosani/2012/14",
+   "short": "HCJ Botoșani nr. 14/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 14/2012 privind aprobarea transmiterii unor bunuri care apartin domeniului public al Judetului Botosani, din administrarea unitatilor sanitare publice cu paturi desfiintate din municipiul Botosani, in administrarea Spitalului Judetean de Urgenta \"Mavromati\" Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h014_29.02.2012.pdf",
+     "sha256": "d769fecd227e669d5f25e9a971f6c4133bb3ddd820abeb24d699486ea4d0589c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-140-2012",
+   "path": "local/judet/botosani/2012/140",
+   "short": "HCJ Botoșani nr. 140/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 140/2012 privind aprobarea parteneriatului între Judeţul Botoşani şi Comuna Vlăsineşti în vederea finanţării evenimentului „Festivalul Vinului – ediţia a IV-a”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-10-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h140_30.10.2012.pdf",
+     "sha256": "65f47eb816befecfa345379307815b38f6f067838f9624d0ca19432138ebf359"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-141-2012",
+   "path": "local/judet/botosani/2012/141",
+   "short": "HCJ Botoșani nr. 141/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 141/2012 privind aprobarea Actului aditional la Contractul de delegare de gestiune a serviciilor publice de alimentare cu apa si canalizare prin concesiune nr. 10037 din 30.09.2005",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-03-08",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h141_27.11.2008.pdf",
+     "sha256": "642d99e9deb02207ba043d09f5fcacb2560badb102bba52c21c5b983ce442c1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-142-2012",
+   "path": "local/judet/botosani/2012/142",
+   "short": "HCJ Botoșani nr. 142/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 142/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-08",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h142_27.11.2008.pdf",
+     "sha256": "c20903a85ea64b582b65b34e5203736a6977d6f7c6905ff533301bedad6c094d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-143-2012",
+   "path": "local/judet/botosani/2012/143",
+   "short": "HCJ Botoșani nr. 143/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 143/2012 privind aprobarea Strategiei de Dezvoltare Economico-Sociala a Judetului Botosani, 2008-2013",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-04-08",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h143_27.11.2008.pdf",
+     "sha256": "552338a0ef2e5aee9365cc168c961ff4ce3996c9e97bd71ef0eead4c0b1a39f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-144-2012",
+   "path": "local/judet/botosani/2012/144",
+   "short": "HCJ Botoșani nr. 144/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 144/2012 privind aprobarea planurilor de ocupare a functiilor publice pentru aparatul de specialitate al Consiliului Judetean Botosani si institutiile publice subordonate, pe anul 2009",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-04-08",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h144_27.11.2008.pdf",
+     "sha256": "517c7f9ecfad39e729d2588a4416636f452384d151036ce36e1faeb114a1de5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-145-2012",
+   "path": "local/judet/botosani/2012/145",
+   "short": "HCJ Botoșani nr. 145/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 145/2012 privind aprobarea parteneriatului între Judeţul Botoşani şi Comuna Coşula în vederea finanţării evenimentului „Obiceiuri şi tradiţii populare – Coşula 2012”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-10-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h145_30.10.2012.pdf",
+     "sha256": "c3ed2eed122079cb287673be949e0bdad9d2e809dc04a38eff44f91108bcef8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-146-2012",
+   "path": "local/judet/botosani/2012/146",
+   "short": "HCJ Botoșani nr. 146/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 146/2012 privind rectificarea bugetului propriu judetean, pe anul 2008",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-11-08",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h146_11.12.2008.pdf",
+     "sha256": "7e186294ce9aa5a5e155eb2bcd31714c7cfbb67157c31d6ca711d3c5c7e16d38"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-147-2012",
    "path": "local/judet/botosani/2012/147",
    "short": "HCJ Botoșani nr. 147/2012",
@@ -89,6 +599,36 @@
      "units": 1,
      "source_url": "https://www.cjbotosani.ro/files/h147_11.12.2008.pdf",
      "sha256": "a948202b03d1aaa65a155ca3520d076dc5af3ff84dcdc273cead3111d165af79"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-15-2012",
+   "path": "local/judet/botosani/2012/15",
+   "short": "HCJ Botoșani nr. 15/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 15/2012 privind desemnarea reprezentantului Consiliului Judetean Botosani in Comisia de Orientare Scolara si Profesionala",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h015_29.02.2012.pdf",
+     "sha256": "bd6cce9bb97337c7f11367f398e7541037bb83b33ade61fba884f1e38f69b420"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-150-2012",
+   "path": "local/judet/botosani/2012/150",
+   "short": "HCJ Botoșani nr. 150/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 150/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-02-10",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h150_29.11.2010.pdf",
+     "sha256": "b1b0b7b90d9782a67e9532925ea1eabcf6c06f0f3bfb5e64726e0344264116a1"
     }
    ]
   },
@@ -168,6 +708,276 @@
    ]
   },
   {
+   "slug": "hcj-botosani-156-2012",
+   "path": "local/judet/botosani/2012/156",
+   "short": "HCJ Botoșani nr. 156/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 156/2012 privind acordarea unui mandat special reprezentantului Judeţului Botoşani în Adunarea Generală a Asociaţilor a Asociaţiei de Dezvoltare Intercomunitară „AQUA” Botoşani pentru aprobarea cotizaţiei anuale aferente anului 2014",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-03-13",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h156_28.11.2013.pdf",
+     "sha256": "53e59022029db496e7758aec379b113b8dfad18a99f3551ec793ca7778819e57"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-157-2012",
+   "path": "local/judet/botosani/2012/157",
+   "short": "HCJ Botoșani nr. 157/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 157/2012 privind desfiinţarea Spitalului Orăşenesc Darabani prin reorganizare ca structură fără personalitate juridică în cadrul Spitalului Judeţean de Urgenţă „Mavromati” Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-11-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h157_23.11.2012.pdf",
+     "sha256": "dcef48aff2752f5d6dc4fbeeee61d07a3615ef0a6f4ba3f5d38d75378c166d4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-158-2012",
+   "path": "local/judet/botosani/2012/158",
+   "short": "HCJ Botoșani nr. 158/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 158/2012 privind aprobarea virarilor de credite intre capitolele bugetului propriu judetean, pe anul 2010",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-03-10",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h158_29.11.2010.pdf",
+     "sha256": "b55a05b12f43c01e7be95046ececa28c798089db7d26d5a1c99fbd32c75be8fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-159-2012",
+   "path": "local/judet/botosani/2012/159",
+   "short": "HCJ Botoșani nr. 159/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 159/2012 privind aprobarea cuantumului şi numărului de burse acordate pentru învăţământul special in anul şcolar 2012 - 2013, din bugetul propriu judeţean",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-11-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h159_28.11.2012.pdf",
+     "sha256": "d9231c5f5f6c56f10a8311abf89c5620dadad5814501236cedf1c7a14289f13a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-16-2012",
+   "path": "local/judet/botosani/2012/16",
+   "short": "HCJ Botoșani nr. 16/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 16/2012 privind aprobarea organigramelor si statelor de functii pentru aparatul permanent de lucru al Consiliului Judetean Botosani si institutiilor publice de interes judetean care au prevazute in structura posturi contractuale",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h016_29.02.2012.pdf",
+     "sha256": "dc4da4a3bacf2fad980d3b6c48c4c63c630b5ba2ead788da46e32aaad122c757"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-160-2012",
+   "path": "local/judet/botosani/2012/160",
+   "short": "HCJ Botoșani nr. 160/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 160/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-11-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h160_28.11.2012.pdf",
+     "sha256": "0a03363f02cd6f61bc55c184ed6a8786fee41a7bf20eecb7758222cc9c961649"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-161-2012",
+   "path": "local/judet/botosani/2012/161",
+   "short": "HCJ Botoșani nr. 161/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 161/2012 privind participarea judeţului Botoşani, prin",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-11-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h161_28.11.2012.pdf",
+     "sha256": "0f615d17c63d9726e4551f0dd6cf8a2bee5ea348484b04482775f2ad4a5a42de"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-162-2012",
+   "path": "local/judet/botosani/2012/162",
+   "short": "HCJ Botoșani nr. 162/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 162/2012 privind aprobarea rectificării bugetului propriu judeţean şi a bugetului instituţiilor şi activităţilor finanţate integral sau parţial din venituri proprii, pe anul 2012",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-04-12",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h162_28.11.2012.pdf",
+     "sha256": "0ff60094418d71bc7c2ca5458306bba109f7945d01cffa1351047255534c68d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-163-2012",
+   "path": "local/judet/botosani/2012/163",
+   "short": "HCJ Botoșani nr. 163/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 163/2012 privind anularea unor credite bugetare neutilizate, majorarea şi utilizarea fondului de rezervă bugetară aflat la dispoziţia Consiliului Judeţean Botoşani, pe anul 2012",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-04-12",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h163_28.11.2012.pdf",
+     "sha256": "98e1e30bd13555e592fd1d671ec226910f6f34ba5ff93b8d6d1fc6abaaae2da1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-164-2012",
+   "path": "local/judet/botosani/2012/164",
+   "short": "HCJ Botoșani nr. 164/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 164/2012 privind asigurarea cheltuielilor de funcţionare ulterioară şi păstrare a destinaţiei iniţiale sau a destinaţiei sociale a Centrului de Îngrijire şi Asistenţă Dorohoi, judeţul Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-12-03",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h164_03.12.2012.pdf",
+     "sha256": "ef677b85895b02e20da5961b3d12a3e0426826d6254e6b7a406e44c8bc68aa65"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-165-2012",
+   "path": "local/judet/botosani/2012/165",
+   "short": "HCJ Botoșani nr. 165/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 165/2012 privind asigurarea cheltuielilor de funcţionare ulterioară şi păstrare a destinaţiei iniţiale sau a destinaţiei sociale a Complexului de apartamente CASA MEA Dorohoi, judeţul Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-12-03",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h165_03.12.2012.pdf",
+     "sha256": "7441d977b10726285e63a20f85141660b8befa7645e77cf874c8774340368d98"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-166-2012",
+   "path": "local/judet/botosani/2012/166",
+   "short": "HCJ Botoșani nr. 166/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 166/2012 privind modificarea componenţei Autorităţii Teritoriale de Ordine Publică Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-12-20",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h166_20.12.2012.pdf",
+     "sha256": "cd03437d7599a6013c65d27c2b63aa55f165167102bbcf3d628676993f41c957"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-168-2012",
+   "path": "local/judet/botosani/2012/168",
+   "short": "HCJ Botoșani nr. 168/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 168/2012 privind aprobarea Protocolului de colaborare între Judeţul Botoşani şi Inspectoratul de Poliţie Judeţean Botoşani, precum şi aprobarea finanţării Campaniei pentru prevenirea furturilor din locuinţe „UN PLUS DE SIGURANŢĂ” şi a Campaniei de prevenire a furturilor în unităţile de învăţământ",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-12-20",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h168_20.12.2012.pdf",
+     "sha256": "9e765c500dd03d54732cbcd6a953b54a38edaaf72fa2d0837fc2209f4da6c7c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-177-2012",
+   "path": "local/judet/botosani/2012/177",
+   "short": "HCJ Botoșani nr. 177/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 177/2012 privind atribuirea unor licenţe de traseu pentru curse regulate speciale",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-12-20",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h177_20.12.2012.pdf",
+     "sha256": "4528858f979f2060856691b437017eb3d59fd2a1b16d32fc8d71be9fb7fb360f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-179-2012",
+   "path": "local/judet/botosani/2012/179",
+   "short": "HCJ Botoșani nr. 179/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 179/2012 privind aprobarea Programului cu obiectivele şi lucrările de drumuri şi poduri pentru 2012 – 2013, finanţate din bugetul judeţului, precum şi aprobarea unor credite de angajament",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-12-20",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h179_20.12.2012.pdf",
+     "sha256": "46c4bf69552dd632d30612bcb06feefc1b7fa2928cda0ce612fd2a415f6db8bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-18-2012",
+   "path": "local/judet/botosani/2012/18",
+   "short": "HCJ Botoșani nr. 18/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 18/2012 privind aprobarea rezultatului final al evaluarii managementului aplicat de managerii institutiilor publice de cultura din subordinea Consiliului Judetean Botosani, pentru anul 2011",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h018_28.03.2012.pdf",
+     "sha256": "80695bc43f179f8e846602feb6af1681a9ec25a9a8967bc83676faa010bc3a2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-181-2012",
+   "path": "local/judet/botosani/2012/181",
+   "short": "HCJ Botoșani nr. 181/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 181/2012 privind aprobarea contului de execuţie al bugetului propriu judeţean şi al bugetului instituţiilor publice şi activităţilor finanţate integral sau parţial din venituri proprii, pe cele două secţiuni, până la data de 11 decembrie 2012",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-12-11",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h181_20.12.2012.pdf",
+     "sha256": "ae2ec3e3cd0beaf3ed28d4ee35d6dab8616ca6fb5a4b0b06e507f2067a21d327"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-182-2012",
+   "path": "local/judet/botosani/2012/182",
+   "short": "HCJ Botoșani nr. 182/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 182/2012 privind aprobarea Actului constitutiv al Societăţii Comerciale „PARC INDUSTRIAL BOTOŞANI” S.A",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-12-20",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h182_20.12.2012.pdf",
+     "sha256": "e8c61fe7c4aff6f29d2a6fe183dae66562436057a4f6ebf4f989805c4e6d39d1"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-187-2012",
    "path": "local/judet/botosani/2012/187",
    "short": "HCJ Botoșani nr. 187/2012",
@@ -179,6 +989,111 @@
      "units": 1,
      "source_url": "https://www.cjbotosani.ro/files/H187_28112019.pdf",
      "sha256": "defa7ac223b4db8a167b30250779b5aa08d0618e3a9bab30dfe344bb5194c7b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-188-2012",
+   "path": "local/judet/botosani/2012/188",
+   "short": "HCJ Botoșani nr. 188/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 188/2012 privind repartizarea cotei de 20% din cota de 18,5% din impozitul pe venit, pe unităţi administrativ-teritoriale, pentru achitarea arieratelor provenite din neplata cheltuielilor de funcţionare şi/sau de capital, în ordinea cronologică a vechimii acestora, pe anul 2017",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-06-17",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h188_29.11.2017.pdf",
+     "sha256": "48d4ba9097e2b9066a05b68b4c30f7dfe88629b8b2d8c65a35b594dd3095a454"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-189-2012",
+   "path": "local/judet/botosani/2012/189",
+   "short": "HCJ Botoșani nr. 189/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 189/2012 privind rectificarea bugetului propriu judeţean, al bugetelor instituţiilor şi activităţilor finanţate integral sau parţial din venituri proprii şi efectuarea de virări de credite între capitolele bugetului propriu judeţean pe anul 2017",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-06-17",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h189_29.11.2017.pdf",
+     "sha256": "26a55b11356d81319e6f7bb660cae4a6192f33ebf2bae84ea659ea73ff9571c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-19-2012",
+   "path": "local/judet/botosani/2012/19",
+   "short": "HCJ Botoșani nr. 19/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 19/2012 privind achitarea cotizatiei anuale a judetului Botosani la Asociatia pentru Dezvoltare Intercomunitara EURONEST (A.D.I.E.) - Iasi in suma de 8.929,12 euro, din bugetul propriu judetean, pentru anul 2012",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h019_28.03.2012.pdf",
+     "sha256": "4dd9c502b6efd6f9acdda00fca456f566e81d36d1c1e668e124b8be0e099e973"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-190-2012",
+   "path": "local/judet/botosani/2012/190",
+   "short": "HCJ Botoșani nr. 190/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 190/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-02-19",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H190_28112019.pdf",
+     "sha256": "e5d9f23c4ca4ca085ac6772e352203fc17d2c249c93db3f40f37489bc992fc05"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-195-2012",
+   "path": "local/judet/botosani/2012/195",
+   "short": "HCJ Botoșani nr. 195/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 195/2012 privind rectificarea bugetului propriu județean, al bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii, pe anul 2019 și angajarea sumei de 15,50 mii lei din excedentul bugetului local constituit la finele anului 2018",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-02-19",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H195_28112019.pdf",
+     "sha256": "c7757811d8035409c9bf78e077762a6c0d3f14dc5b4162b7750dc23d0137374f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-2-2012",
+   "path": "local/judet/botosani/2012/2",
+   "short": "HCJ Botoșani nr. 2/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 2/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h002_31.01.2012.pdf",
+     "sha256": "3f0b35777982f6da43b497460790d396fe381f162642e9d74a0616b310ec8e49"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-20-2012",
+   "path": "local/judet/botosani/2012/20",
+   "short": "HCJ Botoșani nr. 20/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 20/2012 privind achitarea contributiei judetului Botosani la Agentia pentru Dezvoltare Regionala Nord-Est Piatra Neamt in suma de 708.070 lei din bugetul propriu judetean, pentru anul 2012, din care 558.070 lei pentru Fondul pentru Dezvoltare Regionala si 150.000 lei pentru Biroul Regional de Coope",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h020_28.03.2012.pdf",
+     "sha256": "2c220fb565f660908e531c4a9946a4ed51a8913a2da29d4add96d37f89ccd9bb"
     }
    ]
   },
@@ -243,6 +1158,531 @@
    ]
   },
   {
+   "slug": "hcj-botosani-209-2012",
+   "path": "local/judet/botosani/2012/209",
+   "short": "HCJ Botoșani nr. 209/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 209/2012 privind aprobarea planurilor de ocupare a functiilor publice pentru aparatul de specialitate al Consiliului Judetean Botosani si institutiile publice subordonate, pe anul 2010",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-04-09",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h209_30.11.2009.pdf",
+     "sha256": "3e828ea82ab9c9a9614efac6f2dfd06d77cd3274d1a20b40dc9946ade9d4a840"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-210-2012",
+   "path": "local/judet/botosani/2012/210",
+   "short": "HCJ Botoșani nr. 210/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 210/2012 privind rectificarea bugetului propriu județean, aprobat pe anul 2024",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-09-24",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H210_20241209.pdf",
+     "sha256": "f4e20be80d82a063e81d502194d05c94acd1cbb5031409f5f08d274078ac7dcd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-211-2012",
+   "path": "local/judet/botosani/2012/211",
+   "short": "HCJ Botoșani nr. 211/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 211/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-04-09",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h211_30.11.2009.pdf",
+     "sha256": "f565780bc9ac228ea2ff23664ba7c65575dab4f11b1df06e0f33c73917d86592"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-212-2012",
+   "path": "local/judet/botosani/2012/212",
+   "short": "HCJ Botoșani nr. 212/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 212/2012 privind angajarea fondului de rulment existent la nivelul Consiliului Judetean Botosani, in suma de 307.000 lei, pe anul 2009",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-04-09",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h212_30.11.2009.pdf",
+     "sha256": "7c65f510b929a705829bc89fb9204eadb7e7ab9cf53f013cc3322d2ef7d562a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-23-2012",
+   "path": "local/judet/botosani/2012/23",
+   "short": "HCJ Botoșani nr. 23/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 23/2012 privind aprobarea prelungirii duratei de inchiriere si stabilirea chiriei pentru unele spatii si terenuri apartinand domeniului public al judetului Botosani, aflate in administrarea Spitalului Judetean de Urgenta \"Mavromati\" Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h023_28.03.2012.pdf",
+     "sha256": "f677a517f0711b236e726f2b41ceeae066f4d7f2a3449ed22d5548dfafc82086"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-24-2012",
+   "path": "local/judet/botosani/2012/24",
+   "short": "HCJ Botoșani nr. 24/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 24/2012 privind aprobarea Protocolului de predare-preluare a DN 29F, km 0+000 - km 27+900, Vorniceni - Cristinesti, din domeniul public al statului si administrarea Ministerului Transporturilor si Infrastructurii in domeniul public al judetului Botosani si administrarea Consiliului Judetean Botosan",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h024_28.03.2012.pdf",
+     "sha256": "65572bc889e8ecf4cc756ebd51b5cd0ecc7e7ebeb7d02b805b93b23d4d6da194"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-25-2012",
+   "path": "local/judet/botosani/2012/25",
+   "short": "HCJ Botoșani nr. 25/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 25/2012 privind aprobarea organigramelor si statelor de functii ale aparatului de specialitate al Consiliului Judetean Botosani, Directiei Judetene de Drumuri si Poduri Botosani, Serviciului Public Comunitar de Evidenta a Persoanelor al Judetului Botosani, Camerei Agricole Judetene Botosani si modi",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h025_28.03.2012.pdf",
+     "sha256": "51ba47b9019bd9762fb605e71f9b9f3381cc6ef32a7312c2ab24362df9fe58c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-27-2012",
+   "path": "local/judet/botosani/2012/27",
+   "short": "HCJ Botoșani nr. 27/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 27/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h027_28.03.2012.pdf",
+     "sha256": "f4125f865e88c5d3c2a3f90dc1fe7e2a9aeae5fc08fb5ce7312c118f8c22be94"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-28-2012",
+   "path": "local/judet/botosani/2012/28",
+   "short": "HCJ Botoșani nr. 28/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 28/2012 privind probarea Planului de Analiza si Acoperire a Riscurilor pe teritoriul judetului Botosani - actualizat in anul 2012",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h028_28.03.2012.pdf",
+     "sha256": "e333e6142518832a1df2879f9556610747bb230692408a9216309c3a856862b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-3-2012",
+   "path": "local/judet/botosani/2012/3",
+   "short": "HCJ Botoșani nr. 3/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 3/2012 privind atribuirea unor licente de traseu pentru curse regulate speciale",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h003_31.01.2012.pdf",
+     "sha256": "3c0cd27055127c9766f5250ed889b433017997921bc6f20a9ccef2b37ec1efde"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-35-2012",
+   "path": "local/judet/botosani/2012/35",
+   "short": "HCJ Botoșani nr. 35/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 35/2012 privind stabilirea costului mediu lunar de intretinere pentru asistatii din centrele rezidentiale publice pentru persoanele cu handicap din cadrul Directiei Generale de Asistenta Sociala si Protectia Copilului Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-04-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h035_27.04.2012.pdf",
+     "sha256": "6e2b6925f4e692f7855668540712219dfe8a6c70ea04aee71f7d87ce9485b147"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-36-2012",
+   "path": "local/judet/botosani/2012/36",
+   "short": "HCJ Botoșani nr. 36/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 36/2012 privind aprobarea modificarii si completarii inventarului bunurilor apartinand domeniului public al judetului Botosani, aflate in administrarea Directiei Judetene de Drumuri si Poduri Botosani, respectiv Muzeului Judetean Botosani, Spitalului Judetean de Urgenta \"Mavromati\" Botosani si Sana",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-04-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h036_27.04.2012.pdf",
+     "sha256": "5118efd28445cb79a7fdd57c9572a6cbb4e310a099ccf6589d1d69cfdd711a24"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-37-2012",
+   "path": "local/judet/botosani/2012/37",
+   "short": "HCJ Botoșani nr. 37/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 37/2012 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"MODERNIZARE TRASEU REGIONAL Dorohoi-Racovat, tronsonul Cristinesti-Baranca-Fundu Hertii-Racovat, L=9,960 km, Judetul Botosani\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-04-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h037_27.04.2012.pdf",
+     "sha256": "9ab8c08ac6f48cbcf5bdcb94652aed678d5b39baac884cc7685d69639f04d4e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-39-2012",
+   "path": "local/judet/botosani/2012/39",
+   "short": "HCJ Botoșani nr. 39/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 39/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-04-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h039_27.04.2012.pdf",
+     "sha256": "3ac53e9ac169d5c726eb823dca93f89b8972981d2100ea4b0bc1adcf837d8cfa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-4-2012",
+   "path": "local/judet/botosani/2012/4",
+   "short": "HCJ Botoșani nr. 4/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 4/2012 privind aprobarea unor modificari in inventarul domeniului public al Judetului Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h004_31.01.2012.pdf",
+     "sha256": "698526245a31b934e8c46d6e79c735f473f2cf978d7a1745eedb5964438ab197"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-43-2012",
+   "path": "local/judet/botosani/2012/43",
+   "short": "HCJ Botoșani nr. 43/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 43/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-05-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h043_25.05.2012.pdf",
+     "sha256": "38608ccd0e7a78f81f655491eafd06f632f1061810eb0aa00bf1815ec7c925e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-44-2012",
+   "path": "local/judet/botosani/2012/44",
+   "short": "HCJ Botoșani nr. 44/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 44/2012 privind atribuirea unei licente de traseu pentru cursele regulate speciale",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-05-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h044_25.05.2012.pdf",
+     "sha256": "81511c5b030ee0f150ce7fdb1e86710f5502d68fbf89ac10ed6e93dc53b9393a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-45-2012",
+   "path": "local/judet/botosani/2012/45",
+   "short": "HCJ Botoșani nr. 45/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 45/2012 privind aprobarea propunerii de incadrare a unui drum judetean in categoria de folosinta a drumurilor comunale, pe raza comunei Corni, judetul Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-05-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h045_25.05.2012.pdf",
+     "sha256": "7fcf8206ad13787496ceaaf5523ab27e9ad6bc7708aee0afc63f29e544da07c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-46-2012",
+   "path": "local/judet/botosani/2012/46",
+   "short": "HCJ Botoșani nr. 46/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 46/2012 privind aprobarea transmiterii DJ207L din domeniul public al judetului si administrarea Directiei Judetene de Drumuri si Poduri Botosani in domeniul public al comunei Corni si administrarea Consiliului Local al Comunei Corni, precum si modificarii si completarii inventarului bunurilor apart",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-05-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h046_25.05.2012.pdf",
+     "sha256": "c6f244be300c753b6e44de2db0c2872368310f54ad9b80afd552f085b13b894a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-47-2012",
+   "path": "local/judet/botosani/2012/47",
+   "short": "HCJ Botoșani nr. 47/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 47/2012 privind prelungirea duratei de inchiriere a spatiului in suprafata de 15,30 mp, situat in localitatea Suharau, apartinand domeniului public al Judetului Botosani, aflat in administrarea Unitatii de Asistenta Medico-Sociala Suharau, in vederea functionarii unui cabinet medical stomatologic",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-05-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h047_25.05.2012.pdf",
+     "sha256": "5a9d662a8657074833fd5cdf74cc0c3ced4607c5e15ee61cd6540d61be3a021f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-48-2012",
+   "path": "local/judet/botosani/2012/48",
+   "short": "HCJ Botoșani nr. 48/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 48/2012 privind repartizarea pe unitati administrativ teritoriale a sumei de 32.500.000 mii lei pentru finantarea cheltuielilor de personal ale unitatilor de invatamant preuniversitar de stat, pentru anul 2004",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-08-04",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h048_2004.12.08.pdf",
+     "sha256": "847552bbb876ab4e7f2f22fc70f5e8ba48d9aa36275867ec29565081dd5055bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-49-2012",
+   "path": "local/judet/botosani/2012/49",
+   "short": "HCJ Botoșani nr. 49/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 49/2012 privind rectificarea bugetului propriu judetean pe anul 2004",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-08-04",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h049_2004.12.08.pdf",
+     "sha256": "6e581eceb0c279b3f654c8f77c5e317d7c81c2968f1d71397b628cafd00800eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-5-2012",
+   "path": "local/judet/botosani/2012/5",
+   "short": "HCJ Botoșani nr. 5/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 5/2012 privind modificarea si completarea inventarului bunurilor apartinand domeniului public al Judetului Botosani, concesionate SC \"NOVA APASERV\" SA Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h005_31.01.2012.pdf",
+     "sha256": "78904c76a14e1ee747504aeff64ac78655e6c911c7347fec3e406396747bd437"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-50-2012",
+   "path": "local/judet/botosani/2012/50",
+   "short": "HCJ Botoșani nr. 50/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 50/2012 privind rectificarea bugetului institutiilor publice si activitatilor finantate integral sau partial din venituri proprii, pe anul 2012",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-05-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h050_25.05.2012.pdf",
+     "sha256": "edcedb1207fb9a023f75fa9bc1608a4341d672efb2cfde1669156af49a499d77"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-51-2012",
+   "path": "local/judet/botosani/2012/51",
+   "short": "HCJ Botoșani nr. 51/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 51/2012 privind aprobarea modificarilor intervenite in bugetul propriu judetean, atat la partea de venituri, cat si la partea de cheltuieli, pe anul 2012",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-05-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h051_25.05.2012.pdf",
+     "sha256": "d52603913630e77582f714fdac485c0330cf1312982a7d4d61a107af408e729b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-53-2012",
+   "path": "local/judet/botosani/2012/53",
+   "short": "HCJ Botoșani nr. 53/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 53/2012 privind alegerea Comisiei de validare",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-06-20",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h053_20.06.2012.pdf",
+     "sha256": "d64fb4c37d5a0baf532104251bc4c03e403342bae30c67fa6b127660ce5d2f6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-54-2012",
+   "path": "local/judet/botosani/2012/54",
+   "short": "HCJ Botoșani nr. 54/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 54/2012 privind validarea mandatelor consilierilor judeteni din cadrul Consiliului Judetean Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-06-20",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h054_20.06.2012.pdf",
+     "sha256": "fa92915735c9acfdd6cd97d06fd32708a7d5a40e9dda5bf2ea9a711d5ae46220"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-55-2012",
+   "path": "local/judet/botosani/2012/55",
+   "short": "HCJ Botoșani nr. 55/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 55/2012 privind declararea Consiliului Judetean Botosani ca legal constituit",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-06-20",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h055_20.06.2012.pdf",
+     "sha256": "e239622370b0ac77b1219346497494611c4605ef4b1817c08092cd494befc874"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-56-2012",
+   "path": "local/judet/botosani/2012/56",
+   "short": "HCJ Botoșani nr. 56/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 56/2012 privind alegerea vicepresedintilor Consiliului Judetean Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-06-20",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h056_20.06.2012.pdf",
+     "sha256": "8576e467940d92bd2b151caae063bbb4f6e748cfab09cd9e212db5367549ba49"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-57-2012",
+   "path": "local/judet/botosani/2012/57",
+   "short": "HCJ Botoșani nr. 57/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 57/2012 privind organizarea comisiilor de specialitate in principalele domenii de activitate, precum si repartizarea consilierilor in comisiile de specialitate",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-06-20",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h057_20.06.2012.pdf",
+     "sha256": "396f974c98196fd54896e9724916f2dfcae9446fc5f8b1ef2b120f33cadd8d5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-58-2012",
+   "path": "local/judet/botosani/2012/58",
+   "short": "HCJ Botoșani nr. 58/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 58/2012 privind aprobarea Regulamentului de organizare şi funcţionare a Consiliului Judeţean Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-06-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h058_29.06.2012.pdf",
+     "sha256": "de56ed45ec40139bb8c378833a11c9b4ebe7ac8179b607ab85739b5376cdc646"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-59-2012",
+   "path": "local/judet/botosani/2012/59",
+   "short": "HCJ Botoșani nr. 59/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 59/2012 privind repartizarea cotei de 20% din sumele defalcate din taxa pe valoarea adăugată pentru echilibrarea bugetelor locale şi din cota de 18,5 % din impozitul pe venit, precum şi a sumelor din impozitul pe venit şi sume defalcate rezultate din aplicarea gradului de necolectare a veniturilor",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-06-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h059_29.06.2012.pdf",
+     "sha256": "391b55b77fc4bed76e71ebef8f9dc4b05d429987775d41148e20790560176112"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-6-2012",
+   "path": "local/judet/botosani/2012/6",
+   "short": "HCJ Botoșani nr. 6/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 6/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h006_31.01.2012.pdf",
+     "sha256": "895c18d21b2af4c1d6ff77d81ba1504f944549507874d07f37254c9f5b93cc26"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-62-2012",
+   "path": "local/judet/botosani/2012/62",
+   "short": "HCJ Botoșani nr. 62/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 62/2012 privind desemnarea reprezentanţilor Consiliului Judeţean Botoşani în cadrul organelor de conducere, administrare şi control ale Asociaţiei de Dezvoltare Intercomunitară „EURONEST” Iaşi",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-06-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h062_29.06.2012.pdf",
+     "sha256": "7c44e02008293542f91aa4bf6231900a602e3ef354cf750dce32cd5319576a3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-63-2012",
+   "path": "local/judet/botosani/2012/63",
+   "short": "HCJ Botoșani nr. 63/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 63/2012 privind desemnarea reprezentantului Judeţului Botoşani în Adunarea Generală a Asociaţiei de Dezvoltare Intercomunitară „AQUA BOTOŞANI”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-06-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h063_29.06.2012.pdf",
+     "sha256": "e478b8b6c050e9012d0bed2b245f30bf0086df6416e34924f758b98a803cbd58"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-64-2012",
    "path": "local/judet/botosani/2012/64",
    "short": "HCJ Botoșani nr. 64/2012",
@@ -254,6 +1694,456 @@
      "units": 1,
      "source_url": "https://www.cjbotosani.ro/files/h064_29.06.2012.pdf",
      "sha256": "a3442d78ac5abea9ea156ead15b607a13d0ecfafeae8ff1c3f08319b1ca15519"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-65-2012",
+   "path": "local/judet/botosani/2012/65",
+   "short": "HCJ Botoșani nr. 65/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 65/2012 privind aprobarea organigramei şi statului de funcţii ale Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-06-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h065_29.06.2012.pdf",
+     "sha256": "2aaeeb66df39d3705b811e61fdd0d2b980b50a22b60a7da7f4ac4340907024fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-66-2012",
+   "path": "local/judet/botosani/2012/66",
+   "short": "HCJ Botoșani nr. 66/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 66/2012 privind aprobarea organigramei şi statului de funcţii ale aparatului de specialitate al Consiliului Judeţean Botoşani, a criteriilor, procedurilor şi atribuţiilor specifice, urmare a înfiinţării funcţiei de administrator public",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-06-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h066_29.06.2012.pdf",
+     "sha256": "6c03c85141c91344b220256500c962b079edacce045c84917c60e1372a379966"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-67-2012",
+   "path": "local/judet/botosani/2012/67",
+   "short": "HCJ Botoșani nr. 67/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 67/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-06-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h067_29.06.2012.pdf",
+     "sha256": "acbc558870425aea04643310f504d28697330e0d18db0400bb659dc93c026d5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-68-2012",
+   "path": "local/judet/botosani/2012/68",
+   "short": "HCJ Botoșani nr. 68/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 68/2012 privind desemnarea a 6 consilieri judeţeni în calitate de membri ai Autorităţii Teritoriale de Ordine Publică Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-06-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h068_29.06.2012.pdf",
+     "sha256": "cf7fdf9f36ef7dd5386bc2c7a85a4d766c2b33ff066599277c5d186e92b9b427"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-69-2012",
+   "path": "local/judet/botosani/2012/69",
+   "short": "HCJ Botoșani nr. 69/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 69/2012 privind aprobarea Programului cu obiectivele şi lucrările de drumuri şi poduri pentru anul 2012 finanţate din bugetul judeţului",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-06-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h069_29.06.2012.pdf",
+     "sha256": "3d62a8c9a06d3ecfe0dc59a32c53773347f5d2a6d679482376912a4d3976c365"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-7-2012",
+   "path": "local/judet/botosani/2012/7",
+   "short": "HCJ Botoșani nr. 7/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 7/2012 privind aprobarea inchirierii prin licitatie publica a terenurilor in suprafata de 24 mp, respectiv 15 mp, situate in Botosani, str",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h007_31.01.2012.pdf",
+     "sha256": "3d791ff447def871aa2db1d32b65486f139b536761c627cbabed9f508b88889b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-70-2012",
+   "path": "local/judet/botosani/2012/70",
+   "short": "HCJ Botoșani nr. 70/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 70/2012 privind desemnarea reprezentantului Judeţului Botoşani în Adunarea Generală a Asociaţiei de Dezvoltare Intercomunitară \"ECOPROCES\" Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-06-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h070_29.06.2012.pdf",
+     "sha256": "7faab294ab9d9ab75847f3f8034a03ebf371a47e66dedad1ec76fc8ab5003278"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-71-2012",
+   "path": "local/judet/botosani/2012/71",
+   "short": "HCJ Botoșani nr. 71/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 71/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-07-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h071_27.07.2012.pdf",
+     "sha256": "151f896439d9c182da2b803061115fd245dc4d9a50ac52214b4186a81c5086c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-72-2012",
+   "path": "local/judet/botosani/2012/72",
+   "short": "HCJ Botoșani nr. 72/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 72/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-07-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h072_27.07.2012.pdf",
+     "sha256": "9db8e3a0ab502d8e36004d4ae01cbe1b323f08861de299c92193ce9bb6e71569"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-73-2012",
+   "path": "local/judet/botosani/2012/73",
+   "short": "HCJ Botoșani nr. 73/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 73/2012 privind aprobarea schimbării denumirii Centrului Şcolar pentru Educaţie Incluzivă Botoşani în Liceul tehnologic special „Sfântul Stelian” Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-07-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h073_27.07.2012.pdf",
+     "sha256": "ad21415f7e7af000bdef77a96b1d0caca84d754bfd9f67b2a1302d4250acb6f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-74-2012",
+   "path": "local/judet/botosani/2012/74",
+   "short": "HCJ Botoșani nr. 74/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 74/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-07-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h074_27.07.2012.pdf",
+     "sha256": "ef8104a2dba13b240b06b9f415b7604cff82f0caef4ad73852cf058465263e95"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-75-2012",
+   "path": "local/judet/botosani/2012/75",
+   "short": "HCJ Botoșani nr. 75/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 75/2012 privind desemnarea unui reprezentant al Consiliului Judeţean Botoşani în Consiliul de administraţie al Centrului Judeţean de Resurse şi Asistenţă Educaţională Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-07-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h075_27.07.2012.pdf",
+     "sha256": "faec860d6620b6bf8411a157237f22e5bebd1c567316cbe806e70f38bab22317"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-76-2012",
+   "path": "local/judet/botosani/2012/76",
+   "short": "HCJ Botoșani nr. 76/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 76/2012 privind desemnarea unor reprezentanţi ai Consiliului Judeţean Botoşani în Comisia pentru evaluarea şi asigurarea calităţii şi în Consiliul de administraţie al Liceului tehnologic special „Sfântul Stelian” Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-07-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h076_27.07.2012.pdf",
+     "sha256": "d80fe57ca3dc63890ba427b04a3d534add7a6799af4e03cd73461d91d0e2b45f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-77-2012",
+   "path": "local/judet/botosani/2012/77",
+   "short": "HCJ Botoșani nr. 77/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 77/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-07-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h077_27.07.2012.pdf",
+     "sha256": "ab15ed27fae6be44ee0a512a646e9bfd4aca58403d9ca34f7e69c03571cb5986"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-78-2012",
+   "path": "local/judet/botosani/2012/78",
+   "short": "HCJ Botoșani nr. 78/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 78/2012 privind desemnarea unor reprezentanţi ai Consiliului Judeţean Botoşani în Consiliile consultative ale Unităţilor de Asistenţă Medico-Socială Mihăileni, Suliţa şi Suharău",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-07-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h078_27.07.2012.pdf",
+     "sha256": "559614fe277a3c4f297e0242aa50332d83fe50749cba72114cb2a49fd99b423d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-79-2012",
+   "path": "local/judet/botosani/2012/79",
+   "short": "HCJ Botoșani nr. 79/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 79/2012 privind delegarea unui reprezentant al asiguraţilor din judeţul Botoşani în Adunarea Reprezentanţilor CNAS, precum şi desemnarea unui membru în Consiliul de Administraţie al Casei de Asigurări de Sănătate a Judeţului Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-07-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h079_27.07.2012.pdf",
+     "sha256": "23bb21f4c3f37817a25699990932710919b04ada0dee5aa2e8eb5010fae13db4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-8-2012",
+   "path": "local/judet/botosani/2012/8",
+   "short": "HCJ Botoșani nr. 8/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 8/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h008_31.01.2012.pdf",
+     "sha256": "15948d3d92f02d1235dff3440b954f8c83e5ec682311a6dd8a3ed3501be2e156"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-80-2012",
+   "path": "local/judet/botosani/2012/80",
+   "short": "HCJ Botoșani nr. 80/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 80/2012 privind desemnarea unor reprezentanţi ai Consiliului Judeţean Botoşani în Colegiul director al Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-07-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h080_27.07.2012.pdf",
+     "sha256": "dac7a7e53233184a21de8feac1cf5907ba61bf9683e00da848f9920e967f4329"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-81-2012",
+   "path": "local/judet/botosani/2012/81",
+   "short": "HCJ Botoșani nr. 81/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 81/2012 privind desemnarea unui reprezentant al Consiliului Judeţean Botoşani în Consiliul administrativ al Orchestrei Populare „Rapsozii Botoşanilor”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-07-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h081_27.07.2012.pdf",
+     "sha256": "31e9315e6be98e01e9a87515f646e990710339fb063fe010a42a613772367b49"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-82-2012",
+   "path": "local/judet/botosani/2012/82",
+   "short": "HCJ Botoșani nr. 82/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 82/2012 privind desemnarea unui reprezentant al Consiliului Judeţean Botoşani în Consiliul de administraţie al Memorialului Ipoteşti - Centrul Naţional de Studii „Mihai Eminescu”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-07-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h082_27.07.2012.pdf",
+     "sha256": "239c1087bd12d25d01b8b223ea232e7abd8a12b52ce02dcc6d653784065504cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-83-2012",
+   "path": "local/judet/botosani/2012/83",
+   "short": "HCJ Botoșani nr. 83/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 83/2012 privind desemnarea unui reprezentant al Consiliului Judeţean Botoşani în Consiliul de administraţie al Bibliotecii Judeţene „Mihai Eminescu” Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-07-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h083_27.07.2012.pdf",
+     "sha256": "eb52d7cfce42b95609c409a7ebc0814f090e071c045240d53a91dd328a0a827f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-84-2012",
+   "path": "local/judet/botosani/2012/84",
+   "short": "HCJ Botoșani nr. 84/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 84/2012 privind desemnarea reprezentanţilor Consiliului Judeţean Botoşani în comisia de vânzare a spaţiilor medicale aflate în domeniul privat al Judeţului Botoşani, respectiv în comisia de soluţionare a contestaţiilor şi aprobarea indemnizaţiei membrilor celor două comisii",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-07-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h084_27.07.2012.pdf",
+     "sha256": "f4a4a634aa5b351fb48c5cc77de03ec6ac731890170c9b57e023fddc4d52214d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-85-2012",
+   "path": "local/judet/botosani/2012/85",
+   "short": "HCJ Botoșani nr. 85/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 85/2012 privind aprobarea închirierii prin licitaţie publică a unui teren în suprafaţă de 45 mp, situat în Botoşani, str",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-07-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h085_27.07.2012.pdf",
+     "sha256": "950a2436d5121255c45d7e5a1e01cc98c7b4109b4ac031dd896cc25f567d6ed0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-86-2012",
+   "path": "local/judet/botosani/2012/86",
+   "short": "HCJ Botoșani nr. 86/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 86/2012 privind aprobarea modificării inventarului bunurilor aparţinând domeniului public al judeţului Botoşani, aflate în administrarea Muzeului Judeţean Botoşani, Spitalului Judeţean de Urgenţă „Mavromati” Botoşani şi Sanatoriului de Neuropsihiatrie Podriga Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-07-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h086_27.07.2012.pdf",
+     "sha256": "51e22bfe9e1c0660e055c2801b9705766f2d442ca3ad7ac3a6adf2fb6c4e84b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-87-2012",
+   "path": "local/judet/botosani/2012/87",
+   "short": "HCJ Botoșani nr. 87/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 87/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-07-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h087_27.07.2012.pdf",
+     "sha256": "f82db11ba80ff48d06b4cae2c16af2d29f540f955a024d03aa9961e4e625d49d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-89-2012",
+   "path": "local/judet/botosani/2012/89",
+   "short": "HCJ Botoșani nr. 89/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 89/2012 privind atribuirea unei licenţe de traseu pentru curse regulate speciale",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-07-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h089_27.07.2012.pdf",
+     "sha256": "8849b478094080c21422a9646edea6583ceadb6d42e59acdf7ffd782a00ccaff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-91-2012",
+   "path": "local/judet/botosani/2012/91",
+   "short": "HCJ Botoșani nr. 91/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 91/2012 privind validarea membrilor Autorităţii Teritoriale de Ordine Publică Botoşani, stabilirea indemnizaţiei de şedinţă, precum şi desemnarea secretariatului executiv",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-07-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h091_27.07.2012.pdf",
+     "sha256": "7ccad02f75c40547e0746f3d31744af85c020015fb78c24d5410ba407ee9f3a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-92-2012",
+   "path": "local/judet/botosani/2012/92",
+   "short": "HCJ Botoșani nr. 92/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 92/2012 privind desemnarea unui reprezentant al Consiliului Judeţean Botoşani în Consiliul de administraţie al Muzeului Judeţean Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-07-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h092_27.07.2012.pdf",
+     "sha256": "96ae5c790cf2923ccb593c698243e76ee6a1c7834176d9962dbe3801a1791f3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-96-2012",
+   "path": "local/judet/botosani/2012/96",
+   "short": "HCJ Botoșani nr. 96/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 96/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-07-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h096_27.07.2012.pdf",
+     "sha256": "bd592f5c40fe7a5260bda24a1f7dac08ea309b03bf8730824f0f96462200624b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-99-2012",
+   "path": "local/judet/botosani/2012/99",
+   "short": "HCJ Botoșani nr. 99/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 99/2012 privind completarea Regulamentului de organizare şi funcţionare al Memorialului Ipoteşti – Centrul Naţional de Studii „Mihai Eminescu”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-08-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h099_29.08.2012.pdf",
+     "sha256": "b15af3fa554317c6af0d2a0173dc061d0caf65f272dd9230d76b1f73ae2042ef"
     }
    ]
   }

@@ -3,6 +3,201 @@
  "shard": "local/judet/botosani/2014",
  "acts": [
   {
+   "slug": "hcj-botosani-1-2014",
+   "path": "local/judet/botosani/2014/1",
+   "short": "HCJ Botoșani nr. 1/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 1/2014 privind aprobarea acoperirii definitive din excedentul bugetului local a deficitului secţiunii de dezvoltare pe anul 2013",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-01-14",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h001_14.01.2014.pdf",
+     "sha256": "4750ea37fbdca8ac07847e15b6770f17075eaf03182657927b7e40a06c6ad6d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-10-2014",
+   "path": "local/judet/botosani/2014/10",
+   "short": "HCJ Botoșani nr. 10/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 10/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-01-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h010_31.01.2014.pdf",
+     "sha256": "8d4ea5595738c7503256be5ede8fdbe5b49ac2014d1d839795bd1d6a8a1bf75c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-100-2014",
+   "path": "local/judet/botosani/2014/100",
+   "short": "HCJ Botoșani nr. 100/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 100/2014 privind repartizarea cotei de 20% din sumele defalcate din taxa pe valoarea adăugată pentru echilibrarea bugetelor locale și din cota de 18,5% din impozitul pe venit, precum și a sumelor din impozitul pe venit și sume defalcate rezultate din aplicarea gradului de necolectare a veniturilor p",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-09-04",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h100_04.09.2014.pdf",
+     "sha256": "d1e42d725465a0ae3cc8b1dac915a3daf4bbbe14dc33e3a35c986bb90402a71c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-101-2014",
+   "path": "local/judet/botosani/2014/101",
+   "short": "HCJ Botoșani nr. 101/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 101/2014 privind înscrierea bunului imobil situat în intravilanul satului Ionășeni, comuna Vîrfu Cîmpului, județul Botoșani, compus din teren în suprafață totală de 27.700 mp și construcție „Pavilion bolnavi cronici” cu o suprafață construită la sol de 881 mp în domeniul public al Judeţului Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-09-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h101_28.09.2014.pdf",
+     "sha256": "ef5cb165752ecc339e012a83c8abb0d87deb7ff935d478e213fda0fc2bb42c8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-102-2014",
+   "path": "local/judet/botosani/2014/102",
+   "short": "HCJ Botoșani nr. 102/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 102/2014 privind modificarea componenţei Autorităţii Teritoriale de Ordine Publică Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-09-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h102_28.09.2014.pdf",
+     "sha256": "90d59622b9554328891707d89f3c695304da5e681fee1f38bfba41fc95206f63"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-104-2014",
+   "path": "local/judet/botosani/2014/104",
+   "short": "HCJ Botoșani nr. 104/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 104/2014 pentru aprobarea „Propunerile de încadrare a drumurilor judeţene pe niveluri de viabilitate în perioada de iarnă 2014 – 2015” şi a „Planului operativ de acţiune privind prevenirea şi combaterea înzăpezirii drumurilor judeţene în perioada de iarnă 2014 – 2015”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-10-03",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h104_03.10.2014.pdf",
+     "sha256": "3d2a296ef53d512dd0b6db8fde31d1cc5775468786fe134d4a80edde639afabd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-105-2014",
+   "path": "local/judet/botosani/2014/105",
+   "short": "HCJ Botoșani nr. 105/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 105/2014 privind atribuirea unei licenţe de traseu pentru curse regulate speciale",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-10-16",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h105_16.10.2014.pdf",
+     "sha256": "a44ba2f679f8ea957ad0bbf110607f53c312639a2963e4ab4715e1f20e502c42"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-106-2014",
+   "path": "local/judet/botosani/2014/106",
+   "short": "HCJ Botoșani nr. 106/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 106/2014 privind asocierea Judeţului Botoşani cu comunele Adăşeni, Blândeşti, Coşula, Cristineşti, Dimăcheni, Gorbăneşti, Lozna, Nicşeni, Prăjeni, Roma, Suharău, Vf",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-10-16",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h106_16.10.2014.pdf",
+     "sha256": "c318eb3f5ad6cbbdc0b69ab5e55e641baf68c678829d78c5b9b341238a085a68"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-107-2014",
+   "path": "local/judet/botosani/2014/107",
+   "short": "HCJ Botoșani nr. 107/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 107/2014 privind aprobarea componenţei Comisiei de evaluare a persoanelor adulte cu handicap din judeţul Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-10-16",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h107_16.10.2014.pdf",
+     "sha256": "3b72d2e510d7182a2755a3dde2d70d8d4d17421a5dddf6b96c7b07ea083a1e54"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-108-2014",
+   "path": "local/judet/botosani/2014/108",
+   "short": "HCJ Botoșani nr. 108/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 108/2014 privind validarea modificărilor intervenite în bugetul propriu judeţean, pe anul 201",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-10-16",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h108_16.10.2014.pdf",
+     "sha256": "37a876b10329225373ef60140125d12c7aff8e4de4134cd2b1034307dfa0acf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-109-2014",
+   "path": "local/judet/botosani/2014/109",
+   "short": "HCJ Botoșani nr. 109/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 109/2014 privind aprobarea contului de execuţie al bugetului propriu judeţean şi al bugetului instituţiilor publice şi activităţilor finanţate integral sau parţial din venituri proprii, pe cele două secţiuni, pentru perioada 01.01 – 30.09.2014",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-09-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h109_16.10.2014.pdf",
+     "sha256": "1d9bfb7863fdfffb50f0a9278008ade4b8a09ac6216ab910d37a00023f6d22ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-110-2014",
+   "path": "local/judet/botosani/2014/110",
+   "short": "HCJ Botoșani nr. 110/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 110/2014 privind darea în folosinţă gratuită, către Asociaţia Părinţilor Copiilor cu Autism a unui spaţiu în suprafaţă de 64,3 mp, amplasat la parterul clădirii „Centru de Plasament pentru Copiii cu Handicap” aparţinând domeniului public al Judeţului Botoşani, aflat în administrarea Direcţiei Genera",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-10-16",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h110_16.10.2014.pdf",
+     "sha256": "0131c9252d8069007ea48949055a8a1b314aa23d7163a3f87e9a6da9d32058f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-111-2014",
+   "path": "local/judet/botosani/2014/111",
+   "short": "HCJ Botoșani nr. 111/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 111/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-10-16",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h111_16.10.2014.pdf",
+     "sha256": "83b09f3496746489d3c04f95afea80201516105b84aa21b06d6e97ec85bd8e8c"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-112-2014",
    "path": "local/judet/botosani/2014/112",
    "short": "HCJ Botoșani nr. 112/2014",
@@ -14,6 +209,351 @@
      "units": 1,
      "source_url": "https://www.cjbotosani.ro/files/h112_16.10.2014.pdf",
      "sha256": "fb281f0f8f68506cfb61f503ffdb8cd73ff3d83b5865ad4cdd0d41652a7f3d1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-113-2014",
+   "path": "local/judet/botosani/2014/113",
+   "short": "HCJ Botoșani nr. 113/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 113/2014 privind constituirea comisiilor de concurs de management, respectiv de soluţionare a contestaţiilor în vederea ocupării postului de manager la Muzeul Judeţean Botoşani, instituţie publică de cultură din subordinea Consiliului Judeţean Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-10-16",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h113_16.10.2014.pdf",
+     "sha256": "03f9b0c6ad027994b41d98eee763832f5edc177032ae94febcded0f76117c854"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-114-2014",
+   "path": "local/judet/botosani/2014/114",
+   "short": "HCJ Botoșani nr. 114/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 114/2014 privind aprobarea efectuării concediului de odihnă restant, aferent anului 2013, de către persoanele cu funcţii de demnitate publică din conducerea Consiliului Judeţean Botoşani, în cursul anului 2014",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-10-16",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h114_16.10.2014.pdf",
+     "sha256": "b88e19463ba104eb8e2a2cf0116dd4901f8b84c8b53440ea309569083f25bfe7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-115-2014",
+   "path": "local/judet/botosani/2014/115",
+   "short": "HCJ Botoșani nr. 115/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 115/2014 privind actualizarea Programului de transport judeţean de persoane prin curse regulate pentru judeţul Botoşani, valabil în perioada 01.01.2014 – 30.06.2019",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h115_28.09.2015.pdf",
+     "sha256": "9369fcdd7e09284b7fe971ffd0808470fac701b7ac5632bf42dcfd77b4ed677b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-116-2014",
+   "path": "local/judet/botosani/2014/116",
+   "short": "HCJ Botoșani nr. 116/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 116/2014 privind rectificarea bugetului propriu judeţean şi al bugetului instituţiilor şi activităţilor finanţate integral sau parţial din venituri proprii, pe anul 2014",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-10-16",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h116_16.10.2014.pdf",
+     "sha256": "4365658c632192bcba33faaf3ab909673041ecee026dd8daf53a0526717bb663"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-117-2014",
+   "path": "local/judet/botosani/2014/117",
+   "short": "HCJ Botoșani nr. 117/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 117/2014 privind repartizarea sumelor defalcate din taxa pe valoare adăugată pentru finanțarea cheltuielilor privind drumurile județene și comunale, pe anul 2014",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-10-16",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h117_16.10.2014.pdf",
+     "sha256": "e7975e1469256b48c113db1b4e3989eb00d2075db765416d37dd3d61edfdd36f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-118-2014",
+   "path": "local/judet/botosani/2014/118",
+   "short": "HCJ Botoșani nr. 118/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 118/2014 privind rectificarea bugetului propriu judeţean cu suma de 7.000 mii lei, atât la partea de venituri, cât și la partea de cheltuieli, pe anul 2014",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-10-16",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h118_16.10.2014.pdf",
+     "sha256": "6a066b8ef42fe297e7727b32448b6f0034d86234f25753407e4d0e4947fda3ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-12-2014",
+   "path": "local/judet/botosani/2014/12",
+   "short": "HCJ Botoșani nr. 12/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 12/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-01-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h012_31.01.2014.pdf",
+     "sha256": "a035c10af13ff1e05903f5d36f5893d65be4c199c6b113412a3745709d37ab2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-125-2014",
+   "path": "local/judet/botosani/2014/125",
+   "short": "HCJ Botoșani nr. 125/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 125/2014 privind atribuirea unei licenţe de traseu pentru curse regulate speciale",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-11-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h125_28.11.2014.pdf",
+     "sha256": "cc1e971c8476073e098491dbd670a264626edf49f925e04da960a9edaa309a52"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-126-2014",
+   "path": "local/judet/botosani/2014/126",
+   "short": "HCJ Botoșani nr. 126/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 126/2014 privind atribuirea unor licenţe de traseu pentru curse regulate speciale",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-11-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h126_28.11.2014.pdf",
+     "sha256": "e6711497d551d95bc00969cfaf7c19224567fee3a9e622503aba3252d25e0581"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-127-2014",
+   "path": "local/judet/botosani/2014/127",
+   "short": "HCJ Botoșani nr. 127/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 127/2014 privind atribuirea unor licenţe de traseu pentru curse regulate speciale",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-11-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h127_28.11.2014.pdf",
+     "sha256": "f64dd3ad4167177e5d079b08ae0ca3f7ea9dcb7909133058ad7303abbd89acda"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-128-2014",
+   "path": "local/judet/botosani/2014/128",
+   "short": "HCJ Botoșani nr. 128/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 128/2014 privind aprobarea Protocolului de colaborare între Judeţul Botoşani şi Inspectoratul de Poliţie Judeţean Botoşani, precum şi aprobarea finanţării Programului local pentru prevenirea infracţiunilor de loviri sau alte violenţe „UN PLUS DE SIGURANŢĂ”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-11-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h128_28.11.2014.pdf",
+     "sha256": "49387e4dc7c3b95e9440e4c68eef61d32fb031b5e5960a0f2e499f77cf3b4920"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-130-2014",
+   "path": "local/judet/botosani/2014/130",
+   "short": "HCJ Botoșani nr. 130/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 130/2014 privind modificarea componenţei Comisiei pentru Protecţia Copilului Botoşanihotărâre privind modificarea componenţei Comisiei pentru Protecţia Copilului Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-11-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h130_28.11.2014.pdf",
+     "sha256": "3fae39294b2741d13243a45534b1d8c85286ca9937cc98c3032fc542722f5a06"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-131-2014",
+   "path": "local/judet/botosani/2014/131",
+   "short": "HCJ Botoșani nr. 131/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 131/2014 privind aprobarea închirierii unor bunuri imobile aparţinând domeniului public al Judeţului Botoşani, aflate în administrarea Spitalului Judeţean de Urgenţă „Mavromati” Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-11-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h131_28.11.2014.pdf",
+     "sha256": "97ca7b7fdb5b824a746592b96197b15e56b22fb7bdbfdc3f7d2b7b6443dfac51"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-132-2014",
+   "path": "local/judet/botosani/2014/132",
+   "short": "HCJ Botoșani nr. 132/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 132/2014 privind aprobarea înscrierii unui bun în domeniul public al Judeţului Botoşani şi a unor modificări şi completări la inventarul bunurilor aparţinând domeniului public al Judeţului Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-11-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h132_28.11.2014.pdf",
+     "sha256": "215e2e938d5a2aa2cec90844e813204e23b4cdfb216f5b203c675f4cee450eb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-133-2014",
+   "path": "local/judet/botosani/2014/133",
+   "short": "HCJ Botoșani nr. 133/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 133/2014 privind atribuirea licenţelor de traseu pentru traseul nr. 15 şi traseul nr. 72, cuprinse în Programul de transport judeţean de persoane prin curse regulate pentru judeţul Botoşani, valabil în perioada 01.01.2014 – 30.06.2019",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h133_28.09.2016.pdf",
+     "sha256": "fcceeb325ad1d87b6f0eef0419661a884baff5a6d68c782c792c28ea59756b9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-134-2014",
+   "path": "local/judet/botosani/2014/134",
+   "short": "HCJ Botoșani nr. 134/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 134/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-11-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h134_28.11.2014.pdf",
+     "sha256": "e43c2657cc768058cd5d7dd53df20f3db232ce1058a94cd3d6fc8f4eae3524ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-135-2014",
+   "path": "local/judet/botosani/2014/135",
+   "short": "HCJ Botoșani nr. 135/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 135/2014 privind aprobarea dării în folosinţă gratuită Serviciului de Telecomunicaţii Speciale, pentru o perioadă de 3 (trei) ani, a unui spaţiu situat în municipiul Botoşani, str",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-11-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h135_28.11.2014.pdf",
+     "sha256": "a2290d6cab8ec18f65842a2297cb0e589b0719d09706c21992e7fd7814a2f793"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-138-2014",
+   "path": "local/judet/botosani/2014/138",
+   "short": "HCJ Botoșani nr. 138/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 138/2014 privind aprobarea cuantumului şi numărului de burse acordate pentru învăţământul special în anul şcolar 2014 – 2015, din bugetul propriu judeţean",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-11-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h138_28.11.2014.pdf",
+     "sha256": "492440a06c75de72e500b8465bc11bd32cbffdb50e0395091cbefc453f409bfa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-143-2014",
+   "path": "local/judet/botosani/2014/143",
+   "short": "HCJ Botoșani nr. 143/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 143/2014 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii „Pod pe drumul judeţean DJ 292 km 41+450, comuna Ştiubieni, judeţul Botoşani”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-11-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h143_28.11.2014.pdf",
+     "sha256": "ca4d0a01ab8de9db4814b4ad2b62dc49fdde0dfda53e3f12f10ac9893dd90501"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-144-2014",
+   "path": "local/judet/botosani/2014/144",
+   "short": "HCJ Botoșani nr. 144/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 144/2014 privind utilizarea sumei de 100 mii lei din fondul de rezervă aflat la dispoziţia Consiliului Judeţean Botoşani pe anul 2014 şi alocarea acesteia Direcţiei Judeţene de Drumuri şi Poduri Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-11-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h144_28.11.2014.pdf",
+     "sha256": "35df050a330e24a713131f86dcf4b2efe9e6cff29c184366882c8796c8c76977"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-146-2014",
+   "path": "local/judet/botosani/2014/146",
+   "short": "HCJ Botoșani nr. 146/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 146/2014 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii „Refacere pod din beton armat pe DJ 208C, Km 5+300, peste pârâul Miletin, comuna Curteşti, judeţul Botoşani”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-11-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h146_28.11.2014.pdf",
+     "sha256": "56058a53a1545da99cc4a85d4c3a1830b8dffea512502123b403a95642bfef67"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-147-2014",
+   "path": "local/judet/botosani/2014/147",
+   "short": "HCJ Botoșani nr. 147/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 147/2014 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii „Refacere pod pe DJ 297 Km 11+580, peste pârâul Burla, localitatea Suliţa, comuna Suliţa”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-11-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h147_28.11.2014.pdf",
+     "sha256": "20526b0a846c4ae24f6e47b664d654103362da3d8edb744affe3ae0e4455b2fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-148-2014",
+   "path": "local/judet/botosani/2014/148",
+   "short": "HCJ Botoșani nr. 148/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 148/2014 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii „Refacere pod din beton armat pe DJ 298 A, Km 8+957 peste pârâul Podriga, loc. Mileanca, jud. Botoşani”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-11-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h148_28.11.2014.pdf",
+     "sha256": "ae3b5f7728df290ccbe5d1232c52bf8e53608e7a08d095f2fc15cc8e16d8829e"
     }
    ]
   },
@@ -33,6 +573,516 @@
    ]
   },
   {
+   "slug": "hcj-botosani-150-2014",
+   "path": "local/judet/botosani/2014/150",
+   "short": "HCJ Botoșani nr. 150/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 150/2014 privind atribuirea unor licenţe de traseu pentru curse regulate speciale",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-12-17",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h150_17.12.2014.pdf",
+     "sha256": "081b62882f710d0abc4368aa57a62bf232141d1faa7bff141dd2abe867574e29"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-151-2014",
+   "path": "local/judet/botosani/2014/151",
+   "short": "HCJ Botoșani nr. 151/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 151/2014 privind atribuirea unei licenţe de traseu pentru curse regulate speciale",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-12-17",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h151_17.12.2014.pdf",
+     "sha256": "e343861294c43dfec902ec976ff3e886425286f4586e7164f09bb3ad970d6b10"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-152-2014",
+   "path": "local/judet/botosani/2014/152",
+   "short": "HCJ Botoșani nr. 152/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 152/2014 privind aprobarea rezultatului final al concursului şi planul de management pentru ocuparea postului de manager la Muzeul Judeţean Botoşani – instituţie publică de cultură din subordinea Consiliului Judeţean Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-12-17",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h152_17.12.2014.pdf",
+     "sha256": "2929a0af3f44411455d74c14544e8882c74ef92246ad67f6382b93bea86a7841"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-153-2014",
+   "path": "local/judet/botosani/2014/153",
+   "short": "HCJ Botoșani nr. 153/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 153/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-12-17",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h153_17.12.2014.pdf",
+     "sha256": "bd6084ca4ba5da1b70a93815169e510eb2aec914d6c7940fd02a9c6c2e760d31"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-154-2014",
+   "path": "local/judet/botosani/2014/154",
+   "short": "HCJ Botoșani nr. 154/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 154/2014 privind aprobarea efectuării concediului de odihnă restant, aferent anului 2014, de către persoanele cu funcţii de demnitate publică din conducerea Consiliului Judeţean Botoşani, în cursul anului 2015",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-12-17",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h154_17.12.2014.pdf",
+     "sha256": "981a77f1f1a433f85cce685e2f7962b5eeeebd960f78064ca6ce41a469bd1043"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-156-2014",
+   "path": "local/judet/botosani/2014/156",
+   "short": "HCJ Botoșani nr. 156/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 156/2014 privind înfiinţarea, organizarea, administrarea şi gestionarea Sistemului integrat de management al deşeurilor în judeţul Botoşani (SIMD) - partea 2",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-12-17",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h156_17.12.2014%20part2.pdf",
+     "sha256": "5bf956bc6b30c70b4fd1e6d35f2f973308326c121a25a93650d3692a591e5721"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-158-2014",
+   "path": "local/judet/botosani/2014/158",
+   "short": "HCJ Botoșani nr. 158/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 158/2014 privind aprobarea Protocolului de colaborare între Judeţul Botoşani şi Inspectoratul de Poliţie Judeţean Botoşani, precum şi aprobarea finanţării achiziţiei de truse criminalistice şi echipamente IT, în scopul creşterii gradului de ordine şi siguranţă publică pe teritoriul judeţului Botoşan",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-12-17",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h158_17.12.2014.pdf",
+     "sha256": "89006e112c7aba778d0e2e73df9845508541bd15857a2ceeecefb5765df8634c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-159-2014",
+   "path": "local/judet/botosani/2014/159",
+   "short": "HCJ Botoșani nr. 159/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 159/2014 privind aprobarea contului de execuţie al bugetului propriu judeţean şi al bugetului instituţiilor publice şi activităţilor finanţate integral sau parţial din venituri proprii, pe cele două secţiuni, pentru perioada 01.01 – 08.12.2014",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-12-08",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h159_17.12.2014.pdf",
+     "sha256": "47d8e32289d8cbe86415e52d56d7fe1e4e1323a34ee3ad62505fadf14e4e19bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-160-2014",
+   "path": "local/judet/botosani/2014/160",
+   "short": "HCJ Botoșani nr. 160/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 160/2014 privind validarea modificărilor intervenite în bugetul propriu judeţean, pe anul 2014",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-12-17",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h160_17.12.2014.pdf",
+     "sha256": "a7f0ec4df9452a04d135eb8b41442c013781c365f8cb9ea25c680ae766787972"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-161-2014",
+   "path": "local/judet/botosani/2014/161",
+   "short": "HCJ Botoșani nr. 161/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 161/2014 privind rectificarea bugetului propriu judeţean, al bugetului instituţiilor publice şi activităţilor finanţate integral sau parţial din venituri proprii şi efectuarea virărilor de credite între capitolele bugetului propriu judeţean, pe anul 2014",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-12-17",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h161_17.12.2014.pdf",
+     "sha256": "5666d3edb50f2bef0d38052d1e0650a28538a3b937c2456037f8dc8f26808ab3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-189-2014",
+   "path": "local/judet/botosani/2014/189",
+   "short": "HCJ Botoșani nr. 189/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 189/2014 privind atribuirea licenţelor de traseu pentru traseele din Programul de transport judeţean de persoane prin curse regulate pentru judeţul Botoşani, valabil în perioada 01.01.2014 – 30.06.2019",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h189_20.12.2013.pdf",
+     "sha256": "b110a6a7307f011c5d582bc0d54c0535ff4cbb4e1a77c0cdfb3f04d479b09544"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-21-2014",
+   "path": "local/judet/botosani/2014/21",
+   "short": "HCJ Botoșani nr. 21/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 21/2014 privind desemnarea unor reprezentanţi ai Consiliului Judeţean Botoşani în Consiliile administrative ale Centrului Judeţean pentru Conservarea şi Promovarea Culturii Tradiţionale Botoşani şi Şcolii Populare de Arte şi Meserii Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h021_27.02.2014.pdf",
+     "sha256": "942c987d097d54b74d5326ebfa90d7313d13a0bf18a62fc55bfbef75ad7c2b49"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-22-2014",
+   "path": "local/judet/botosani/2014/22",
+   "short": "HCJ Botoșani nr. 22/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 22/2014 privind constituirea comisiilor de evaluare a managementului instituţiilor publice de cultură aflate în subordinea Consiliului Judeţean Botoşani, precum şi a comisiilor de soluţionare a contestaţiilor",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h022_27.02.2014.pdf",
+     "sha256": "76e6bfa62344ee9aa064869de1eb1290a2d2c69d782a8789a48c023853f84af1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-23-2014",
+   "path": "local/judet/botosani/2014/23",
+   "short": "HCJ Botoșani nr. 23/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 23/2014 privind aprobarea organigramelor şi statelor de funcţii pentru aparatul de specialitate şi aparatul permanent de lucru ale Consiliului Judeţean Botoşani şi pentru instituţiile publice subordonate",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h023_27.02.2014.pdf",
+     "sha256": "cca99765abd534583be4b548a6c5ca62433cb433a82a76179dfcf53a00aac861"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-27-2014",
+   "path": "local/judet/botosani/2014/27",
+   "short": "HCJ Botoșani nr. 27/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 27/2014 privind aprobarea închirierii prin licitaţie publică a unui spaţiu în suprafaţă de 11,00 mp, amplasat în corpul A al bunului imobil „Clădire Secţie Pediatrie”, situat în municipiul Botoşani, b-dul Mihai Eminescu nr. 16, aparţinând domeniului public al Judeţului Botoşani, aflat în administra",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h027_27.02.2014.pdf",
+     "sha256": "8e7aa61efdeb2bd2547c8a6b3b4450fb1462eeefd6ea011cccf22e06ec706d9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-28-2014",
+   "path": "local/judet/botosani/2014/28",
+   "short": "HCJ Botoșani nr. 28/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 28/2014 privind aprobarea înscrierii unui bun în domeniul public al Judeţului Botoşani precum şi a modificării inventarului bunurilor aparţinând domeniului public al judeţului Botoşani aflate în administrarea Sanatoriului de Neuropsihiatrie Podriga Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h028_27.02.2014.pdf",
+     "sha256": "97627e98a515dc9682436ebb5b3134368ef70fe99752cb7d4c203219fe0714ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-29-2014",
+   "path": "local/judet/botosani/2014/29",
+   "short": "HCJ Botoșani nr. 29/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 29/2014 privind modificarea arondării unor unităţi administrativ-teritoriale la serviciile publice comunitare de evidenţă a persoanelor de pe raza Judeţului Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h029_27.02.2014.pdf",
+     "sha256": "4d69e73bb9041ef75a21f3dfaa46626c49b672732543c8673cdda67583250f0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-3-2014",
+   "path": "local/judet/botosani/2014/3",
+   "short": "HCJ Botoșani nr. 3/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 3/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-01-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h003_31.01.2014.pdf",
+     "sha256": "4f86ba0206103c94d88053cc8ec72e8ea850cde3dadbd35cce56e2f4462ec67e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-30-2014",
+   "path": "local/judet/botosani/2014/30",
+   "short": "HCJ Botoșani nr. 30/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 30/2014 privind actualizarea Programului de transport judeţean de persoane prin curse regulate pentru judeţul Botoşani, valabil în perioada 01.01.2014 – 30.06.2019",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h030_27.02.2014.pdf",
+     "sha256": "7ee9a8fe5405acddcb22a9cc0401e86246e315f2995c9274e4636dd5cfcf0e1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-32-2014",
+   "path": "local/judet/botosani/2014/32",
+   "short": "HCJ Botoșani nr. 32/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 32/2014 privind rectificarea bugetului propriu județean cu suma de 240,50 mii lei, atât la partea de venituri, cât și la partea de cheltuieli, pe anul 2014",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-03-14",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h032_14.03.2014.pdf",
+     "sha256": "3835d322346e3a988b6f09d8896f41cde335aadd3f424f87894de2949872aa82"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-33-2014",
+   "path": "local/judet/botosani/2014/33",
+   "short": "HCJ Botoșani nr. 33/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 33/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h033_27.03.2014.pdf",
+     "sha256": "55e2de7b491199e22fbed0742697bedff6664c9561a17659ab16be6b92fc3b1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-35-2014",
+   "path": "local/judet/botosani/2014/35",
+   "short": "HCJ Botoșani nr. 35/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 35/2014 privind aprobarea organigramei şi statului de funcţii ale Camerei Agricole Judeţene Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h035_27.03.2014.pdf",
+     "sha256": "dea8f266ac460ad7dd4ff8089dd5be279d38a1bffcb0217ca140373de8e08938"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-36-2014",
+   "path": "local/judet/botosani/2014/36",
+   "short": "HCJ Botoșani nr. 36/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 36/2014 privind prelungirea duratei de închiriere a spaţiului în suprafaţă de 42,00 mp, situat în municipiul Botoşani, str",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h036_27.03.2014.pdf",
+     "sha256": "faf51ede3b44b6e24854f23964f515f94457639b538d5fb6a38bc9fbfad17492"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-37-2014",
+   "path": "local/judet/botosani/2014/37",
+   "short": "HCJ Botoșani nr. 37/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 37/2014 privind aprobarea prelungirii duratei de folosinţă gratuită, pentru o perioadă de 5 (cinci) ani, a unui spaţiu situat în municipiul Botoşani, str",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h037_27.03.2014.pdf",
+     "sha256": "fd0fc51a9b67ca1a09db0f63ed35b704899e953999444a25d80173c8428c32bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-38-2014",
+   "path": "local/judet/botosani/2014/38",
+   "short": "HCJ Botoșani nr. 38/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 38/2014 privind trecerea din domeniul public al Judeţului Botoşani în domeniul privat al acestuia, în vederea valorificării şi, după caz, casării a unor bunuri aflate în administrarea Consiliului Judeţean Botoşani, a Direcţiei Judeţeană de Drumuri şi Poduri Botoşani, a Direcţiei Generală de Asisten",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h038_27.03.2014.pdf",
+     "sha256": "0eba771c807a012c51311fd7dca54914b26f243dfcc85b15ff8496973a8497ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-39-2014",
+   "path": "local/judet/botosani/2014/39",
+   "short": "HCJ Botoșani nr. 39/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 39/2014 privind aprobarea inventarului actualizat al bunurilor care aparţin domeniului public al Judeţului Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h039_27.03.2014.pdf",
+     "sha256": "e93931b9b16dc613ca075b09a85b59da02f4de7e39c602a5c6ef2c16bb6ede71"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-4-2014",
+   "path": "local/judet/botosani/2014/4",
+   "short": "HCJ Botoșani nr. 4/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 4/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-01-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h004_31.01.2014.pdf",
+     "sha256": "46f75b4a8a410f9c6ad01eee005f0f7a746bf2e56e8e0d5374edf0c35a56c2ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-42-2014",
+   "path": "local/judet/botosani/2014/42",
+   "short": "HCJ Botoșani nr. 42/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 42/2014 privind aprobarea rezultatului final al evaluării managementului instituţiilor publice de cultură din subordinea Consiliului Judeţean Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h042_27.03.2014.pdf",
+     "sha256": "4993f11f09f82eb490d486c1d52dea1461ddccb1d2353444ec73009237b75f02"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-45-2014",
+   "path": "local/judet/botosani/2014/45",
+   "short": "HCJ Botoșani nr. 45/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 45/2014 privind modificarea şi completarea componenţei unor comisii de specialitate ale Consiliului Judeţean Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-04-15",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h045_15.04.2014.pdf",
+     "sha256": "65c6476303e646047070ff82d6ad4374672c61cae04d524e3a3325f81d67930b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-47-2014",
+   "path": "local/judet/botosani/2014/47",
+   "short": "HCJ Botoșani nr. 47/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 47/2014 privind atribuirea unor licenţe de traseu pentru curse regulate speciale",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h047_30.04.2014.pdf",
+     "sha256": "75eb652455af6df2688e4281336201861f566664e73388b6dfce6a17c9dc6068"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-48-2014",
+   "path": "local/judet/botosani/2014/48",
+   "short": "HCJ Botoșani nr. 48/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 48/2014 privind desemnarea unui reprezentant al Consiliului Judeţean Botoşani în Consiliul Administrativ al Muzeului Judeţean Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h048_30.04.2014.pdf",
+     "sha256": "33df11b133105462685a1cb8313d5d2319a387a0930a092d6074197636197b1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-49-2014",
+   "path": "local/judet/botosani/2014/49",
+   "short": "HCJ Botoșani nr. 49/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 49/2014 privind modificarea componenţei Autorităţii Teritoriale de Ordine Publică Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h049_30.04.2014.pdf",
+     "sha256": "2d7ff11d3a8d8d87bf6c9f09d6762c99a0db044f4c49e2133a4db445b17a08b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-5-2014",
+   "path": "local/judet/botosani/2014/5",
+   "short": "HCJ Botoșani nr. 5/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 5/2014 privind modificarea componenţei Autorităţii Teritoriale de Ordine Publică Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-01-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h005_31.01.2014.pdf",
+     "sha256": "a4edadb1b717cf42730a9f0ad9a9373c6ad8c837ea9a62ddc56ecf9bcc04f4cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-50-2014",
+   "path": "local/judet/botosani/2014/50",
+   "short": "HCJ Botoșani nr. 50/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 50/2014 privind aprobarea Regulamentului de organizare şi funcţionare a Comisiei de evaluare a persoanelor adulte cu handicap a judeţului Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h050_30.04.2014.pdf",
+     "sha256": "7adc37b08e4c3f6c0dbd6acfb3452eec5a4dd30491967e90c2a1c78422e7d00d"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-51-2014",
    "path": "local/judet/botosani/2014/51",
    "short": "HCJ Botoșani nr. 51/2014",
@@ -44,6 +1094,606 @@
      "units": 1,
      "source_url": "https://www.cjbotosani.ro/files/h051_30.04.2014.pdf",
      "sha256": "bcb56174000e736dc2696631461e7b910b7b95dce658899872bb9b12c96511d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-52-2014",
+   "path": "local/judet/botosani/2014/52",
+   "short": "HCJ Botoșani nr. 52/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 52/2014 privind modificarea componenţei Comisiei pentru Protecţia Copilului Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h052_30.04.2014.pdf",
+     "sha256": "35c99d5fdf63361b0951edeeca37f8337e1f85689f1d2b29067c0858be477b2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-53-2014",
+   "path": "local/judet/botosani/2014/53",
+   "short": "HCJ Botoșani nr. 53/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 53/2014 privind aprobarea modificării valorii de inventar a unor bunuri care aparţin domeniului public al Judeţului Botoşani, aflate în administrarea Şcolii Populare de Arte şi Meserii Botoşani, respectiv a Liceului Tehnologic Special „Sfântul Stelian” Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h053_30.04.2014.pdf",
+     "sha256": "1a816c4a6c84eb1ead0e6d995d6b0faa0e1d3361fc5a2b3d0aefe902614f5c3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-54-2014",
+   "path": "local/judet/botosani/2014/54",
+   "short": "HCJ Botoșani nr. 54/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 54/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h054_30.04.2014.pdf",
+     "sha256": "7151848661320f3c47a75ac7046c8faf55f2e93fdb6b4d188b66aab013bd0bc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-55-2014",
+   "path": "local/judet/botosani/2014/55",
+   "short": "HCJ Botoșani nr. 55/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 55/2014 privind aprobarea prelungirii duratei de folosinţă gratuită, a duratei de închiriere, precum şi închirierii unor bunuri imobile aparţinând domeniului public al Judeţului Botoşani, aflate în administrarea Muzeului Judeţean Botoşani, respectiv a Spitalului Judeţean de Urgenţă „Mavromati” Boto",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h055_30.04.2014.pdf",
+     "sha256": "19852082b34a82e54fd2d20260004f78d139e3e3344ac7b5f3577cf0389d1844"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-56-2014",
+   "path": "local/judet/botosani/2014/56",
+   "short": "HCJ Botoșani nr. 56/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 56/2014 privind aprobarea solicitării de preluare a clădirii „Bază de tratament şi recuperare”, aparţinând domeniului public al municipiului Dorohoi, precum şi a terenului în suprafaţă de 752 mp aparţinând domeniului privat al municipiului Dorohoi, situate în municipiul Dorohoi, str. C. Dobrogeanu",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h056_30.04.2014.pdf",
+     "sha256": "4fe4e64165b5bce917993ad8b7b9dc623cdf5a27bef79f35aea6b939898102a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-57-2014",
+   "path": "local/judet/botosani/2014/57",
+   "short": "HCJ Botoșani nr. 57/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 57/2014 privind trecerea unor bunuri care aparţin domeniului public, respectiv privat, al Judeţului Botoşani din administrarea Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Botoşani în administrarea Consiliului Local al Comunei Pomîrla, pentru desfăşurarea activităţilor de învăţămâ",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h057_30.04.2014.pdf",
+     "sha256": "21a168aac4081a056649689e005c33872be80e5c9dedb67fb3a1f3e9990757b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-58-2014",
+   "path": "local/judet/botosani/2014/58",
+   "short": "HCJ Botoșani nr. 58/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 58/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h058_30.04.2014.pdf",
+     "sha256": "2352a41782a37514488ef4f6461a5eb622c455663d9ca15f596c4d21f3e42d5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-59-2014",
+   "path": "local/judet/botosani/2014/59",
+   "short": "HCJ Botoșani nr. 59/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 59/2014 privind aprobarea organigramei şi statului de funcţii ale Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h059_30.04.2014.pdf",
+     "sha256": "e480cb1a832cf1d295b5927012214025658d8ca809f557fbc0a0226fd3776397"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-60-2014",
+   "path": "local/judet/botosani/2014/60",
+   "short": "HCJ Botoșani nr. 60/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 60/2014 privind aprobarea Protocolului de Parteneriat între",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h060_30.04.2014.pdf",
+     "sha256": "90873fb938e9d19030ac00e069d572ebb774908995395dd2dddee9750724d505"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-61-2014",
+   "path": "local/judet/botosani/2014/61",
+   "short": "HCJ Botoșani nr. 61/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 61/2014 privind aprobarea contului de execuţie al bugetului propriu judeţean şi al bugetului instituţiilor publice şi activităţilor finanţate integral sau parţial din venituri proprii, pe cele două secţiuni, pentru perioada 01.01 – 31.03.2014",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h061_30.04.2014.pdf",
+     "sha256": "f7353bd50e0deb91c92677450ef46201d34dad87b9c6fdd32aadf2de653c0a59"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-64-2014",
+   "path": "local/judet/botosani/2014/64",
+   "short": "HCJ Botoșani nr. 64/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 64/2014 privind actualizarea Programului de transport judeţean de persoane prin curse regulate pentru judeţul Botoşani, valabil în perioada 01.01.2014 – 30.06.2019",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h064_30.04.2014.pdf",
+     "sha256": "914231ef625958212a16e93afbe53f024d7b576e3876de08513be0d61eb9c1ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-65-2014",
+   "path": "local/judet/botosani/2014/65",
+   "short": "HCJ Botoșani nr. 65/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 65/2014 privind aprobarea utilizării sumei de 413,167 mii lei din Fondul IID pentru realizarea lucrărilor de reabilitare/modernizare a Conductei de Aducţiune Truşeşti - Dângeni, Etapa I, Judeţul Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h065_30.04.2014.pdf",
+     "sha256": "a3d8597a0954b9c6591d2d40310c859fe3c49b37a0eb960dbea76771f01ceace"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-66-2014",
+   "path": "local/judet/botosani/2014/66",
+   "short": "HCJ Botoșani nr. 66/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 66/2014 privind aprobarea Regulamentelor de organizare şi funcţionare ale unităţilor de asistenţă medico-sociale din subordinea Consiliului Judeţean Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-05-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h066_28.05.2014.pdf",
+     "sha256": "4560bbb536a50a37eb21dad0826e7cfe1f299baaeae61948efc3d27d3fd660d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-67-2014",
+   "path": "local/judet/botosani/2014/67",
+   "short": "HCJ Botoșani nr. 67/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 67/2014 privind trecerea bunului „Teren”, situat în extravilanul Oraşului Săveni, din domeniul public al Judeţului Botoşani şi din administrarea Consiliului Judeţean Botoşani în domeniul public al Oraşului Săveni şi în administrarea Consiliului Local al Oraşului Săveni",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-05-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h067_28.05.2014.pdf",
+     "sha256": "15427696629d367c37107fa654f4be563ee0201c5ff5863286e2415f7ea24ef9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-68-2014",
+   "path": "local/judet/botosani/2014/68",
+   "short": "HCJ Botoșani nr. 68/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 68/2014 privind aprobarea înscrierii în domeniul public al Judeţului Botoşani şi darea în administrarea Memorialului Ipoteşti - Centrul Naţional de Studii „Mihai Eminescu\" a terenului în suprafaţă de 26.045 mp situat în extravilanul comunei Mihai Eminescu, judeţul Botoşani şi a modificării şi compl",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-05-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h068_28.05.2014.pdf",
+     "sha256": "c3c4c57ee83eacc7a10e091d67de6934f4e99ca91647083d54484c349ef820c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-69-2014",
+   "path": "local/judet/botosani/2014/69",
+   "short": "HCJ Botoșani nr. 69/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 69/2014 privind aprobarea închirierii prin licitaţie publică a unui spaţiu aparţinând domeniului public al Judeţului Botoşani, aflat în administrarea Spitalului Judeţean de Urgenţă „Mavromati” Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-05-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h069_28.05.2014.pdf",
+     "sha256": "cd01b6e80e4a7b00ba979b95e9f2da5592e1f745e377e30ddcef7c1e966648d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-70-2014",
+   "path": "local/judet/botosani/2014/70",
+   "short": "HCJ Botoșani nr. 70/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 70/2014 privind privind aprobarea cumpărării imobilului compus din teren în suprafaţă de 27.700 mp şi construcţie în suprafaţă de 881 mp situat în localitatea Ionăşeni, comuna Vîrfu Cîmpului, judeţul Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-05-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h070_28.05.2014.pdf",
+     "sha256": "cbfcbabf8c09142a0fa2abc536020093a403aa5f1bb8de83540431a3142a21dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-71-2014",
+   "path": "local/judet/botosani/2014/71",
+   "short": "HCJ Botoșani nr. 71/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 71/2014 privind trecerea unor sectoare de drumuri judeţene situate în intravilanul localităţilor urbane, aparţinând domeniului public al Judeţului Botoşani, din administrarea Direcţiei Judeţeană de Drumuri şi Poduri Botoşani în administrarea unor consilii locale şi modificarea inventarului domeniul",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-05-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h071_28.05.2014.pdf",
+     "sha256": "b18f13d373b7f4b70ecaeaabc3b2b37137fd04908f64ee69d5d5877f6b733089"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-72-2014",
+   "path": "local/judet/botosani/2014/72",
+   "short": "HCJ Botoșani nr. 72/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 72/2014 privind trecerea unor bunuri care aparţin domeniului public al Judeţului Botoşani din administrarea Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Botoşani în administrarea Consiliului Local al Municipiului Dorohoi",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-05-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h072_28.05.2014.pdf",
+     "sha256": "9923de4af09fc05ceaea8f5ecbfe9cfa92d7da152d51bb7d4870c31c4f96882f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-73-2014",
+   "path": "local/judet/botosani/2014/73",
+   "short": "HCJ Botoșani nr. 73/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 73/2014 privind aprobarea Protocolului de Parteneriat dintre",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-05-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h073_28.05.2014.pdf",
+     "sha256": "44db66ba933aadfa402e8c20715c880bc892b02724d6fb7a8d264fda55c799a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-77-2014",
+   "path": "local/judet/botosani/2014/77",
+   "short": "HCJ Botoșani nr. 77/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 77/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-05-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h077_28.05.2014.pdf",
+     "sha256": "3ba5f1bdadb7d67375c9a5031309b1d1b8832351678d8298bea243332e9c357e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-78-2014",
+   "path": "local/judet/botosani/2014/78",
+   "short": "HCJ Botoșani nr. 78/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 78/2014 privind aprobarea închirierii unor bunuri imobile aparţinând domeniului public al Judeţului Botoşani, aflate în administrarea Spitalului Judeţean de Urgenţă ”Mavromati” Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-06-24",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h078_24.06.2014.pdf",
+     "sha256": "99f0c1cf2eac361b43d3fa572c5547893eb569c3c7ada2d47e93b693ad2db638"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-79-2014",
+   "path": "local/judet/botosani/2014/79",
+   "short": "HCJ Botoșani nr. 79/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 79/2014 privind aprobarea Strategiei judeţene antidrog 2014-2020 şi a Planului de acţiune pentru implementarea strategiei judeţene antidrog Botoşani 2014-2016",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-06-24",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h079_24.06.2014.pdf",
+     "sha256": "7431c6d02a8372ca61b3aa5ae36c4fe68b31ca578650882b114f891b35d0c9ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-80-2014",
+   "path": "local/judet/botosani/2014/80",
+   "short": "HCJ Botoșani nr. 80/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 80/2014 privind actualizarea monografiei economico-militară a judeţului Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-06-24",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h080_24.06.2014.pdf",
+     "sha256": "737a7e8b07b9cf6d59e3db958b3d21a494ea3f8e62e3def5ed474aeb8259bb8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-81-2014",
+   "path": "local/judet/botosani/2014/81",
+   "short": "HCJ Botoșani nr. 81/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 81/2014 privind rectificarea bugetului propriu judeţean şi al bugetului instituţiilor şi activităţilor finanţate integral sau parţial din venituri proprii pe anul 2014",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-06-24",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h081_24.06.2014.pdf",
+     "sha256": "8230b3c1c518687c64bc795e96e47e08a8afeb0b316061abde72737288b2fe7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-82-2014",
+   "path": "local/judet/botosani/2014/82",
+   "short": "HCJ Botoșani nr. 82/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 82/2014 privind modificarea componenţei Autorităţii Teritoriale de Ordine Publică Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-06-24",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h082_24.06.2014.pdf",
+     "sha256": "97dd4c17a5503f85f9365cd49e0670bed9b1b56f55ca5eec37882e20ea6e6dd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-83-2014",
+   "path": "local/judet/botosani/2014/83",
+   "short": "HCJ Botoșani nr. 83/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 83/2014 privind trecerea unor bunuri din domeniul public al Judeţului Botoşani şi din administrarea Consiliului Judeţean Botoşani în domeniul public al Comunei Rădăuţi Prut, al Comunei Vîrfu Cîmpului, respectiv al Comunei Vlăsineşti şi în administrarea Consiliului Local al Comunei Rădăuţi Prut, al",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-07-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h083_30.07.2014.pdf",
+     "sha256": "44f42c12497281768597ce44100e7701cbac12bba8c0782995c56478783b7cfe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-84-2014",
+   "path": "local/judet/botosani/2014/84",
+   "short": "HCJ Botoșani nr. 84/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 84/2014 privind aprobarea înscrierii unui bun în domeniul public al Judeţului Botoşani, a transferului unor bunuri din domeniul privat al Judeţului Botoşani în domeniul public al acestuia, precum şi a altor modificări şi completări la inventarul bunurilor aparţinând domeniului public al Judeţului B",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-07-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h084_30.07.2014.pdf",
+     "sha256": "a4895fca85d2bb1cf4b8fe2b60dcc3c55eb43e3d997b616fad0ee5b6d3e7de3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-86-2014",
+   "path": "local/judet/botosani/2014/86",
+   "short": "HCJ Botoșani nr. 86/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 86/2014 privind stabilirea costului mediu lunar de întreţinere pentru asistaţii din centrele rezidenţiale publice pentru persoanele cu handicap din cadrul Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-07-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h086_30.07.2014.pdf",
+     "sha256": "a542fb8b6ad1a76986dabb62c3733dfc0aae176c0dd87a451187869ac56fff9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-87-2014",
+   "path": "local/judet/botosani/2014/87",
+   "short": "HCJ Botoșani nr. 87/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 87/2014 privind aprobarea contului de execuţie al bugetului propriu judeţean şi al bugetului instituţiilor publice şi activităţilor finanţate integral sau parţial din venituri proprii, pe cele două secţiuni, pentru perioada 01.01 – 30.06.2014",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-06-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h087_30.04.2014.pdf",
+     "sha256": "3fdac0f38b7664a4a7081aab088dc69cc29c1c8a25c54dcfa20b100691985311"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-9-2014",
+   "path": "local/judet/botosani/2014/9",
+   "short": "HCJ Botoșani nr. 9/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 9/2014 privind atribuirea unei licenţe de traseu pentru curse regulate speciale",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-01-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h009_31.01.2014.pdf",
+     "sha256": "8746882b103859698728e4fda4938e324f23686a6b20b4383c5b46c91bff9803"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-91-2014",
+   "path": "local/judet/botosani/2014/91",
+   "short": "HCJ Botoșani nr. 91/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 91/2014 privind aprobarea participării la cursurile de perfecţionare profesională a Preşedintelui Consiliului Judeţean Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-07-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h091_30.07.2014.pdf",
+     "sha256": "141ed39811c35fb919dd4cb1b571c03ec8900ede58d6e591887bf7e2bef852ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-92-2014",
+   "path": "local/judet/botosani/2014/92",
+   "short": "HCJ Botoșani nr. 92/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 92/2014 privind modificarea componenţei Autorităţii Teritoriale de Ordine Publică Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-07-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h092_30.07.2014.pdf",
+     "sha256": "a291cd01a24a8117b6892de1b3cc27808c472130e1efc7069f2ad81b9900a5e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-93-2014",
+   "path": "local/judet/botosani/2014/93",
+   "short": "HCJ Botoșani nr. 93/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 93/2014 privind actualizarea Programului de transport judeţean de personae prin curse regulate pentru judeţul Botoşani, valabil în perioada 01.01.2014 –30.06.2019",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h093_30.07.2015.pdf",
+     "sha256": "d03b340790b5fee165b9f72bb800db19b1a83f869205d684be7693a89c163362"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-94-2014",
+   "path": "local/judet/botosani/2014/94",
+   "short": "HCJ Botoșani nr. 94/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 94/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h094_28.08.2014.pdf",
+     "sha256": "6f21fd0179373136887cfab1abf37081a9e19ed3ba237d39c1f7d279eeb67dd9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-95-2014",
+   "path": "local/judet/botosani/2014/95",
+   "short": "HCJ Botoșani nr. 95/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 95/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h095_28.08.2014.pdf",
+     "sha256": "02d99937754673e040762f77cb9a652baf9caa732b1fe828078202be64da7cdc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-96-2014",
+   "path": "local/judet/botosani/2014/96",
+   "short": "HCJ Botoșani nr. 96/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 96/2014 privind actualizarea Programului de transport județean de persoane prin curse regulate pentru județul Botoșani, valabil în perioada 01.01.2014-30.06.2019",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h096_28.08.2014.pdf",
+     "sha256": "15d53f3abd0d127205d2a103db4450360744213a28a2fb4e48732e95e45c1deb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-97-2014",
+   "path": "local/judet/botosani/2014/97",
+   "short": "HCJ Botoșani nr. 97/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 97/2014 privind validarea modificărilor intervenite în bugetul propriu județean pe anul 2014",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h097_28.08.2014.pdf",
+     "sha256": "0d407cceed49198f325bc8d2b2fb9fdfb101913cdf0b61a1e2c00585ad61a72c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-98-2014",
+   "path": "local/judet/botosani/2014/98",
+   "short": "HCJ Botoșani nr. 98/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 98/2014 privind rectificarea bugetului propriu județean și al bugetului instituțiilor și activităților finanțate integral sau parțial din venituri proprii pe anul 2014",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h098_28.08.2014.pdf",
+     "sha256": "23336d87d191b5229a710fe07e2775ca7931556196955e4ccce1dcc46916e793"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-99-2014",
+   "path": "local/judet/botosani/2014/99",
+   "short": "HCJ Botoșani nr. 99/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 99/2014 privind aprobarea prelungirii duratei de închiriere a unor bunuri imobile aparținând domeniului public al Județului Botoșani, aflate în administrarea Spitalului Județean de Urgență ”Mavromati” Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h099_28.08.2014.pdf",
+     "sha256": "f3ee76ff1a495f1c25af0dfbda1543353f4af530bbe880dc814457f5d568a5c0"
     }
    ]
   }

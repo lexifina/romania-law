@@ -3,6 +3,126 @@
  "shard": "local/judet/botosani/2008",
  "acts": [
   {
+   "slug": "hcj-botosani-1-2008",
+   "path": "local/judet/botosani/2008/1",
+   "short": "HCJ Botoșani nr. 1/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 1/2008 privind aprobarea \"criteriilor de repartizare\" a sumelor defalcate din taxa pe valoare adaugata pe unitati administrativ-teritoriale, pentru echilibrarea bugetelor locale, pe anul 2008",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-01-15",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h001_15.01.2008.pdf",
+     "sha256": "d67106d7a1ada798000e3c0eeec0107c2468e1e69cf023999eb29f184bfcd2fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-10-2008",
+   "path": "local/judet/botosani/2008/10",
+   "short": "HCJ Botoșani nr. 10/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 10/2008 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Modernizare drum judetean DJ 296 A, Stauceni (DN 29 D)-Rosiori-DJ 296\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-01-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h010_30.01.2008.pdf",
+     "sha256": "ba99231291c19b78da87082ab323f6eb77ba646960b9499deff8df28a5261d83"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-100-2008",
+   "path": "local/judet/botosani/2008/100",
+   "short": "HCJ Botoșani nr. 100/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 100/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-09-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h100_30.09.2008.pdf",
+     "sha256": "7d9ccb4230b4550eded449caeca5470f58ef22ddc4e02e79e729b1b824177e56"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-101-2008",
+   "path": "local/judet/botosani/2008/101",
+   "short": "HCJ Botoșani nr. 101/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 101/2008 privind aprobarea documentului strategic Master Plan privind gestionarea deseurilor 2007-2037, judetul Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-09-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h101_30.09.2008.pdf",
+     "sha256": "7d7a073e915afdaec8b899f419325a6724d8d8b8b827f0ad6dabcff405ef4041"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-102-2008",
+   "path": "local/judet/botosani/2008/102",
+   "short": "HCJ Botoșani nr. 102/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 102/2008 privind desemnarea nominala si validarea d-lui Rusu Pavel ca membru in Autoritatea Teritoriala de Ordine Publica Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-09-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h102_30.09.2008.pdf",
+     "sha256": "2ca75452401a16c2af72a1b0e219e124941647c47f1e1c4e70584f252074af28"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-103-2008",
+   "path": "local/judet/botosani/2008/103",
+   "short": "HCJ Botoșani nr. 103/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 103/2008 privind aprobarea conditiilor de vanzare a spatiului cu destinatia de cabinet medical, aflat in domeniul privat al judetului Botosani, situat in municipiul Botosani, str",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-04-10",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h103_29.07.2010.pdf",
+     "sha256": "d98964d21d813239e92edf3811c65514c7453b83958f994eaa936488a81e1b5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-104-2008",
+   "path": "local/judet/botosani/2008/104",
+   "short": "HCJ Botoșani nr. 104/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 104/2008 privind modificarea statului de functii al aparatului permanent de lucru al Consiliului Judetean Botosani si constituirea comisiei de concurs pentru ocuparea postului vacant de consilier/consilier juridic, gradul profesional IA",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-09-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h104_30.09.2008.pdf",
+     "sha256": "2c4ab107b9e8734a09f6162197321f095e1ef617c906e9c192c5301c3e71d595"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-108-2008",
+   "path": "local/judet/botosani/2008/108",
+   "short": "HCJ Botoșani nr. 108/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 108/2008 privind trecerea unui imobil din domeniul privat al judetului Botosani si administrarea Consiliului Judetean Botosani in domeniul public al judetului Botosani si administrarea Consiliului Judetean Botosani si transmiterea lui din administrarea Consiliului Judetean Botosani in administrarea",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-09-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h108_30.09.2008.pdf",
+     "sha256": "29b10ee03bf57a1fd131b8f4c9c5691a512e823052a448abeeceb86713962033"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-109-2008",
    "path": "local/judet/botosani/2008/109",
    "short": "HCJ Botoșani nr. 109/2008",
@@ -14,6 +134,696 @@
      "units": 1,
      "source_url": "https://www.cjbotosani.ro/files/h109_31.07.2017.pdf",
      "sha256": "96f6d3ba4bbe3d58354bc8806a339ff381804db4e2edc012b7085a5ac6d83465"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-11-2008",
+   "path": "local/judet/botosani/2008/11",
+   "short": "HCJ Botoșani nr. 11/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 11/2008 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Modernizare DJ 292 Km 14+100-29+864, Corlateni-Vladeni-Podeni-Dealu Crucii-Vorniceni, judetul Botosani\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-01-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h011_30.01.2008.pdf",
+     "sha256": "f0be82c498027be11c184253cd6cd28c0bcfb1d9bfeff944dcc502041223620b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-110-2008",
+   "path": "local/judet/botosani/2008/110",
+   "short": "HCJ Botoșani nr. 110/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 110/2008 privind aprobarea contului de execuţie al bugetului propriu judeţean şi al bugetului instituţiilor publice şi activităţilor finanţate integral sau parţial din venituri proprii, pe cele două secţiuni, pentru perioada 01.01 - 30.06.2017",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-01-17",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h110_31.07.2017.pdf",
+     "sha256": "d3f816b413afe64ca29b63dfb6e44f8ff17513ace76397a2e1c082054ffdf7f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-112-2008",
+   "path": "local/judet/botosani/2008/112",
+   "short": "HCJ Botoșani nr. 112/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 112/2008 privind atribuirea licenţei de traseu pentru traseul nr. 61 din Programul de transport judeţean de persoane prin curse regulate pentru judeţul Botoşani, valabil în perioada 01.07.2008 – 30.04.2013",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-07-01",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h112_28.09.2012.pdf",
+     "sha256": "4ff7795822e79c57bdfcea2d6fd95618dab410b828188664cfec6e9be5bfda37"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-113-2008",
+   "path": "local/judet/botosani/2008/113",
+   "short": "HCJ Botoșani nr. 113/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 113/2008 privind aprobarea indicatorilor tehnico-economici aferenti Studiului de fezabilitate \"Pavilion D+P+1E de recuperare si cazare beneficiari ai Centrului de ingrijire si asistenta sociala a persoanelor in varsta si cu dizabilitati\" (CIAS Leorda), judetul Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-09-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h113_30.09.2008.pdf",
+     "sha256": "fbd16d51ba9cd08d96d4e1a2c4c19903e83d8de6e01f5d846fbcc0848cfb5c8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-114-2008",
+   "path": "local/judet/botosani/2008/114",
+   "short": "HCJ Botoșani nr. 114/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 114/2008 privind angajarea fondului de rulment existent la nivelul Consiliului Judetean Botosani in suma de 2.270 mii lei, pe anul 2008, pentru lucrari de investitii pe drumuri judetene",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-09-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h114_30.09.2008.pdf",
+     "sha256": "e8a640e475be8d676ab128ba1307d5ae3c1b9d90d79a3886b4c0c6846903e1e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-117-2008",
+   "path": "local/judet/botosani/2008/117",
+   "short": "HCJ Botoșani nr. 117/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 117/2008 privind repartizarea a 10.000.000 lei reprezentand sume defalcate din taxa pe valoarea adaugata, destinata finantarii cheltuielilor privind drumurile judetene si comunale, pe unitati administrativ-teritoriale, pe anul 2008",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-10-24",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h117_24.10.2008.pdf",
+     "sha256": "059b8e36ee83f0cdd2e5d89d4cd761e7483ce55e9483b777aadcb2bd1470dc46"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-118-2008",
+   "path": "local/judet/botosani/2008/118",
+   "short": "HCJ Botoșani nr. 118/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 118/2008 privind rectificarea bugetului propriu judetean cu suma de 10.624 mii lei, pe anul 2008",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-10-24",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h118_24.10.2008.pdf",
+     "sha256": "4f7fd65f92f322c0d42e585e5b3888698d830518451175fd1bb40c3e59385b54"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-121-2008",
+   "path": "local/judet/botosani/2008/121",
+   "short": "HCJ Botoșani nr. 121/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 121/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h121_30.10.2008.pdf",
+     "sha256": "fa7984d8766a1a933db4222260b49141d09e575d33d6900f25f70817130953c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-122-2008",
+   "path": "local/judet/botosani/2008/122",
+   "short": "HCJ Botoșani nr. 122/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 122/2008 privind achitarea cotizatiei judetului Botosani catre Asociatia de Dezvoltare Intercomunitara \"AQUA\" Botosani in suma de 62.569 lei, pe anul 2009",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-05-09",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h122_29.07.2009.pdf",
+     "sha256": "bd0b6ebca20063be97d667b59291b59cbe8739b61505ea187b28cd77e143f2c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-124-2008",
+   "path": "local/judet/botosani/2008/124",
+   "short": "HCJ Botoșani nr. 124/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 124/2008 privind modificarea organigramei, situatiei functiilor publice si a statului de functii ale Directiei Generale de Asistenta Sociala si Protectia Copilului Botosani, pe anul 2009",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-07-09",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h124_29.07.2009.pdf",
+     "sha256": "bdc8831c46f4ace0ab9ef664de3dc65d97a3f9926c6a1013e0228fec7b775d88"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-126-2008",
+   "path": "local/judet/botosani/2008/126",
+   "short": "HCJ Botoșani nr. 126/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 126/2008 privind aprobarea Planului de Analiza si Acoperire a Riscurilor pe teritoriul judetului Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h126_30.10.2008.pdf",
+     "sha256": "39044d7954002b2d465d7b78cad05b179b45d7a86e136a66feb76dc9b504043e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-127-2008",
+   "path": "local/judet/botosani/2008/127",
+   "short": "HCJ Botoșani nr. 127/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 127/2008 privind modificarea repartizarii pe obiective a sumelor alocate din fondul de rulment pe anul 2009",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-07-09",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h127_29.07.2009.pdf",
+     "sha256": "a2ea1faf4ec4df77776b72c3eea91616921ed31ec91a28624f971bc7f71098cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-129-2008",
+   "path": "local/judet/botosani/2008/129",
+   "short": "HCJ Botoșani nr. 129/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 129/2008 privind rectificarea bugetului propriu judetean cu suma de 2.753 mii lei si aprobarea modificarilor intervenite in programul obiectivelor de investitii pe anul 2009",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-07-09",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h129_29.07.2009.pdf",
+     "sha256": "604b3932e73a4c6c921d2df0a1ea24f675614b830f8ba69bd79c34adf36e9f16"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-132-2008",
+   "path": "local/judet/botosani/2008/132",
+   "short": "HCJ Botoșani nr. 132/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 132/2008 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Amenajare si reabilitare Unitate de Asistenta Medico-Sociala Mihaileni\", comuna Mihaileni, judetul Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h132_27.11.2008.pdf",
+     "sha256": "91e05fe3532969b4657c0dbebc7dc1c11ba53576b1236072f57c5c402d8886d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-133-2008",
+   "path": "local/judet/botosani/2008/133",
+   "short": "HCJ Botoșani nr. 133/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 133/2008 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Modernizare DJ 282, km 58+625-76+200, Rediu-Todireni (DJ 297)\" din judetul Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h133_27.11.2008.pdf",
+     "sha256": "781e33335630b3fd837345f9fea5b387d7ec3068bfd8fcba716150a510d738a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-135-2008",
+   "path": "local/judet/botosani/2008/135",
+   "short": "HCJ Botoșani nr. 135/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 135/2008 privind eliberarea acordului pentru trecerea suprafetei de 300,48 mp amplasata la etajul doi al imobilului in care functioneaza Centrul de Transfuzii Sanguine Botosani si a cotei indivize din terenul aferent, din domeniul public al statului si din administrarea Ministerului Sanatatii in dom",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h135_27.11.2008.pdf",
+     "sha256": "7b954b3b62628e3b2aaeecb7ac476ae1aff914592593596e920b04fc1330f707"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-136-2008",
+   "path": "local/judet/botosani/2008/136",
+   "short": "HCJ Botoșani nr. 136/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 136/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h136_27.11.2008.pdf",
+     "sha256": "7ee77071d6be70d5a6428f45909b937b2dc071b4eccf2df34d278eaaced6006c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-137-2008",
+   "path": "local/judet/botosani/2008/137",
+   "short": "HCJ Botoșani nr. 137/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 137/2008 privind inchirierea prin licitatie publica a spatiului in suprafata de 53,18 mp din imobilul \"Cladire compartiment financiar-contabil\"-compus din doua camere, situat in Botosani, str",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h137_27.11.2008.pdf",
+     "sha256": "34ee692a5f2a67fe50f84cfb5606d4dffd8f14d5a26009ba544c92de831771c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-138-2008",
+   "path": "local/judet/botosani/2008/138",
+   "short": "HCJ Botoșani nr. 138/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 138/2008 privind scoaterea din domeniul public al judetului Botosani a unor bunuri aflate in folosinta Centrului Militar Botosani respectiv in administrarea Directiei Generale de Asistenta Sociala si Protectia Copilului Botosani si a Serviciului Public Comunitar de Evidenta a Persoanelor a Judetului",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h138_27.11.2008.pdf",
+     "sha256": "2be2470733b50378f58419fd993a134ca523701cb0dee1da414cb701cd2e5faf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-140-2008",
+   "path": "local/judet/botosani/2008/140",
+   "short": "HCJ Botoșani nr. 140/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 140/2008 privind aprobarea \"Strategiei judetene privind accelerarea dezvoltarii serviciilor comunitare de utilitati publice 2007-2020\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h140_27.11.2008.pdf",
+     "sha256": "d04a942a8fd74097d03edc6f3e5742fead34a963928dd312ab7c2d916d2cae8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-145-2008",
+   "path": "local/judet/botosani/2008/145",
+   "short": "HCJ Botoșani nr. 145/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 145/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h145_27.11.2008.pdf",
+     "sha256": "9cfeed260cba1ac1dace7b83e30a45bd52ab0d4e7e58df4d9519e922edcb33f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-149-2008",
+   "path": "local/judet/botosani/2008/149",
+   "short": "HCJ Botoșani nr. 149/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 149/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h149_29.12.2008.pdf",
+     "sha256": "01d9f48c644123c4878cab2a4555848971a8459d2061236c27b23a39af545a13"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-150-2008",
+   "path": "local/judet/botosani/2008/150",
+   "short": "HCJ Botoșani nr. 150/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 150/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h150_29.12.2008.pdf",
+     "sha256": "ff0a998d6ed071ab6be90e960d6b74a05fe4a675cd6f37accc4e16a5271fd12d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-151-2008",
+   "path": "local/judet/botosani/2008/151",
+   "short": "HCJ Botoșani nr. 151/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 151/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h151_29.12.2008.pdf",
+     "sha256": "d876026ae439bd87d5ee9fd17756c6c60b9c21196b85a8338b813d4ade90afaf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-152-2008",
+   "path": "local/judet/botosani/2008/152",
+   "short": "HCJ Botoșani nr. 152/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 152/2008 privind alegerea unui vicepresedinte al Consiliului Judetean Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h152_29.12.2008.pdf",
+     "sha256": "683131f0dc2e2ca8c72805f8f2663faaec43a2bacc3a85b7c3bfa96373b897ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-153-2008",
+   "path": "local/judet/botosani/2008/153",
+   "short": "HCJ Botoșani nr. 153/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 153/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h153_29.12.2008.pdf",
+     "sha256": "0f89f193f04611c30e5e11e19f21281dcfe82edefd29d3e4f83ac0139ccc2ff7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-154-2008",
+   "path": "local/judet/botosani/2008/154",
+   "short": "HCJ Botoșani nr. 154/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 154/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h154_29.12.2008.pdf",
+     "sha256": "8ed940af28263f467f39bd1d7a6578cdd7b01cbcad8fe65440757ce21247569a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-155-2008",
+   "path": "local/judet/botosani/2008/155",
+   "short": "HCJ Botoșani nr. 155/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 155/2008 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Reabilitare acoperisului si a tamplariei la Unitatea de Asistenta Medico-Sociala Suharau\", comuna Suharau, judetul Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h155_29.12.2008.pdf",
+     "sha256": "25ee647482fe5b49c30bee1923c79269215bcad222a3793d3fbed53aa4e57e88"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-156-2008",
+   "path": "local/judet/botosani/2008/156",
+   "short": "HCJ Botoșani nr. 156/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 156/2008 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Retea de canalizare menajera si statie de epurare la Unitatea de Asistenta Medico-Sociala Suharau\", comuna Suharau, judetul Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h156_29.12.2008.pdf",
+     "sha256": "7714880258ca6b30805f6e6c49bc691be66317eb69a31b18f098b63a70d4f94d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-157-2008",
+   "path": "local/judet/botosani/2008/157",
+   "short": "HCJ Botoșani nr. 157/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 157/2008 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Conducta de aductiune alimentare cu apa pentru municipiul Botosani din sursa Acumularea Stinca Costesti, judetul Botosani\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h157_29.12.2008.pdf",
+     "sha256": "9b2749cca8ef756d0943133b0e0aa7c8ff2fe9d338db53f5dbeea560c7ec5c56"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-158-2008",
+   "path": "local/judet/botosani/2008/158",
+   "short": "HCJ Botoșani nr. 158/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 158/2008 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Modernizare DJ 282 Hanesti-Vlasinesti, km 124+455-124+755 si reabilitare pod din beton armat\" din judetul Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h158_29.12.2008.pdf",
+     "sha256": "a00a0b719a5cc8b81a8d8a38a25b3cef2124eaa5cf64355e0fda783a1426ae8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-16-2008",
+   "path": "local/judet/botosani/2008/16",
+   "short": "HCJ Botoșani nr. 16/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 16/2008 privind repartizarea fondurilor alocate pe anul 2008 de Ministerul Dezvoltarii, Lucrarilor Publice si Locuintelor pentru actualizarea planurilor urbanistice generale si a regulamentelor locale de urbanism",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h016_28.02.2008.pdf",
+     "sha256": "9d8d608a06773fa672c51c2a97090fb05364c923ffafe67e00d552d2ed5a9eac"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-160-2008",
+   "path": "local/judet/botosani/2008/160",
+   "short": "HCJ Botoșani nr. 160/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 160/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h160_29.12.2008.pdf",
+     "sha256": "155b58a1eb427779c683b1f3f363dce67faa38499a20a25e87530f0a7109ddf8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-161-2008",
+   "path": "local/judet/botosani/2008/161",
+   "short": "HCJ Botoșani nr. 161/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 161/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h161_29.12.2008.pdf",
+     "sha256": "67878d6382a47c4594a86dec123cc32e1559b430a93c60934ff628107b89ee9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-162-2008",
+   "path": "local/judet/botosani/2008/162",
+   "short": "HCJ Botoșani nr. 162/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 162/2008 privind aprobarea situatiei functiilor publice, organigramelor si statelor de functii pentru aparatul de specialitate al Consiliului Judetean Botosani, Directia Judeteana de Drumuri si Poduri Botosani si Serviciul Public Comunitar de Evidenta a Persoanelor al Judetului Botosani, pe anul 200",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h162_29.12.2008.pdf",
+     "sha256": "07c189fb94f3b8d47f9c12da2760cef24d295947e0d2adecc55db5294cb8ec48"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-19-2008",
+   "path": "local/judet/botosani/2008/19",
+   "short": "HCJ Botoșani nr. 19/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 19/2008 privind aprobarea inchirierii prin licitatie a unui spatiu din imobilul \"Dispensar urban nr.2\", situat in Botosani, str",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h019_28.02.2008.pdf",
+     "sha256": "9b5d43051bb20b2d91046f3a319cfc5fffd9328c9b34679170612e177172c6dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-2-2008",
+   "path": "local/judet/botosani/2008/2",
+   "short": "HCJ Botoșani nr. 2/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 2/2008 privind repartizarea sumelor defalcate din taxa pe valoare adaugata si a cotei de 22% din impozitul pe venit, pe unitati administrativ-teritoriale, in anul 2008",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-01-15",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h002_15.01.2008.pdf",
+     "sha256": "5422c9facf0382eb51627eaa510c17e505264e93f544cdb8fbfd2bb0ee60e431"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-20-2008",
+   "path": "local/judet/botosani/2008/20",
+   "short": "HCJ Botoșani nr. 20/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 20/2008 privind trecerea din domeniul public al judetului Botosani in domeniul privat al acestuia a mijlocului fix \"Closet\", aflat in administrarea Muzeului Judetean Botosani, in vederea casarii",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h020_28.02.2008.pdf",
+     "sha256": "66c632c86a155603c19ab5f115f0f9473cd85d9510a2415bb9ddb41f6f6eda5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-23-2008",
+   "path": "local/judet/botosani/2008/23",
+   "short": "HCJ Botoșani nr. 23/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 23/2008 privind constituirea Comisiei de solutionare a intampinarilor formulate impotriva propunerilor de expropriere pentru realizarea lucrarii de utilitate publica de interes local Obiectiv cultural George Enescu si prevenirea urmarilor unor dezastre naturale din municipiul Dorohoi",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h023_27.03.2008.pdf",
+     "sha256": "af63811cfb8b0d291f36a4eee89fc7987d1d2aab69333adeb655ca2e485899ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-24-2008",
+   "path": "local/judet/botosani/2008/24",
+   "short": "HCJ Botoșani nr. 24/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 24/2008 privind actualizarea Programului de transport judetean de persoane prin curse regulate pentru judetul Botosani, valabil in perioada 01.07.2008-30.06.2011",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-07-01",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h024_28.01.2010.pdf",
+     "sha256": "5df67d57c2920b95462d4e7f8977d08c845f6cb239598aed1b3555e875110043"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-25-2008",
+   "path": "local/judet/botosani/2008/25",
+   "short": "HCJ Botoșani nr. 25/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 25/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h025_27.03.2008.pdf",
+     "sha256": "516e6f01598572190fff60e602c282476befbc306021f97d1c33f0154be191fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-26-2008",
+   "path": "local/judet/botosani/2008/26",
+   "short": "HCJ Botoșani nr. 26/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 26/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h026_27.03.2008.pdf",
+     "sha256": "465fd521f0b6992125239051c9ea08cb8dfb7f5e33b170f04b3bbcc038e3f13c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-27-2008",
+   "path": "local/judet/botosani/2008/27",
+   "short": "HCJ Botoșani nr. 27/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 27/2008 privind modificarea componentei Comisiei pentru Protectia Copilului Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h027_27.03.2008.pdf",
+     "sha256": "a2e2f4f85f8c51f7d1de1ff7e2449c31866f990fe63508c46879e05ac0024375"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-29-2008",
+   "path": "local/judet/botosani/2008/29",
+   "short": "HCJ Botoșani nr. 29/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 29/2008 privind rectificarea bugetului propriu judetean, pe anul 2008",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h029_27.03.2008.pdf",
+     "sha256": "23366885efe843810faf47160f0d70405bf4eae5adcbb5f7f978d72b7f5e65a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-3-2008",
+   "path": "local/judet/botosani/2008/3",
+   "short": "HCJ Botoșani nr. 3/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 3/2008 privind aprobarea cotizatiei anuale a Consiliului Judetean Botosani la ASOCIATIA DE DEZVOLTARE INTERCOMUNITARA \"EURONEST\" - A.I.D.E",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-01-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h003_30.01.2008.pdf",
+     "sha256": "79e3d8c0373b67647924a14732563aaaa70e1842ce6a63e2887883075c915352"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-30-2008",
+   "path": "local/judet/botosani/2008/30",
+   "short": "HCJ Botoșani nr. 30/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 30/2008 privind modificarea si completarea Actului Constitutiv si Statutului Asociatiei pentru Alimentari cu Apa, Canalizare si Salubrizari in judetul Botosani, la care judetul Botosani este membru asociat",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h030_27.03.2008.pdf",
+     "sha256": "0b488c73f646d0dd30542b7b3a0fc16801ea0ef7894caebedab3461008ea482c"
     }
    ]
   },
@@ -33,6 +843,96 @@
    ]
   },
   {
+   "slug": "hcj-botosani-32-2008",
+   "path": "local/judet/botosani/2008/32",
+   "short": "HCJ Botoșani nr. 32/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 32/2008 privind modificarea si infiintarea unor trasee turistice pe raza judetului Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h032_27.03.2008.pdf",
+     "sha256": "80cf61856da0b0151ae4487bb46bb28376ab858591356750e105d81e91d52609"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-33-2008",
+   "path": "local/judet/botosani/2008/33",
+   "short": "HCJ Botoșani nr. 33/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 33/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-04-24",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h033_24.04.2008.pdf",
+     "sha256": "6eb2b031c9edc2b2968de9a909af0858f01ff41b743e0aede8ab9ae1a11ba319"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-35-2008",
+   "path": "local/judet/botosani/2008/35",
+   "short": "HCJ Botoșani nr. 35/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 35/2008 privind inscrierea unor bunuri in domeniul public al judetului Botosani, precum si trecerea din domeniul public al judetului Botosani in domeniul privat al acestuia",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-04-24",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h035_24.04.2008.pdf",
+     "sha256": "1f1524022b15e4d5601192a0b2b54d577f11408d6adf22026b030f261a6c8e81"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-36-2008",
+   "path": "local/judet/botosani/2008/36",
+   "short": "HCJ Botoșani nr. 36/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 36/2008 privind aprobarea prelungirii duratei de folosinta gratuita pana la 31.03.2008, de catre Biblioteca Oraseneasca Dorohoi, a spatiului in suprafata totala de 119,76 mp, situat la parterul cladirii \"Muzeului de Stiinte naturale - Dorohoi\" - compus din 4 (patru) camere, amplasat in municipiul D",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-03-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h036_2007.04.26.pdf",
+     "sha256": "92b77badfc72fc748f1370db258f181172d970c5f41aace8a9a1c90810142e7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-39-2008",
+   "path": "local/judet/botosani/2008/39",
+   "short": "HCJ Botoșani nr. 39/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 39/2008 privind angajarea fondului de rulment existent la nivelul Consiliului Judetean Botosani in suma de 450.000 lei, pe anul 2008, pentru \"Alimentare cu apa, statie hidrofor si instalatii de stingerea incendiilor\" la Scoala Speciala Dorohoi",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-04-24",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h039_24.04.2008.pdf",
+     "sha256": "fb0d7d0b2d6441eef26bf4b289a9322c91fccb87d1bb65a5f0910dae37a51122"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-4-2008",
+   "path": "local/judet/botosani/2008/4",
+   "short": "HCJ Botoșani nr. 4/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 4/2008 privind aprobarea componentei Comisiei judetene de reconstituire a vechimii in munca si prelungirea activitatii acesteia pana la data de 31.12.2008",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-12-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h004_2007.01.31.pdf",
+     "sha256": "619bbeb8731ded46b538768c88c6f85f746089e931d50fb4d1f967b896f97008"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-40-2008",
    "path": "local/judet/botosani/2008/40",
    "short": "HCJ Botoșani nr. 40/2008",
@@ -44,6 +944,591 @@
      "units": 1,
      "source_url": "https://www.cjbotosani.ro/files/h040_24.04.2008.pdf",
      "sha256": "8a28563ce243663b83fe7cc1a15ad0e3a0ae681a42e7ce0c69ae2ecabfee133c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-41-2008",
+   "path": "local/judet/botosani/2008/41",
+   "short": "HCJ Botoșani nr. 41/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 41/2008 privind aprobarea Statutului Judetului Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-04-24",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h041_24.04.2008.pdf",
+     "sha256": "b6ed4215cbae74ca9cc551b04db538c66a68d572ad4cb8df967d9525a0f366d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-42-2008",
+   "path": "local/judet/botosani/2008/42",
+   "short": "HCJ Botoșani nr. 42/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 42/2008 privind aprobarea Regulamentului de organizare si functionare a Consiliului Judetean Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-04-24",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h042_24.04.2008.pdf",
+     "sha256": "27f5781dc5764a16a4a81d66558f017be3735fbe7d438d4cf59661a71915e06b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-43-2008",
+   "path": "local/judet/botosani/2008/43",
+   "short": "HCJ Botoșani nr. 43/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 43/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-05-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h043_22.05.2008.pdf",
+     "sha256": "098ca0a9dc82c4e72e999aaf3d4efd94cec8c70436402c2be306e2dad3d2bbb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-44-2008",
+   "path": "local/judet/botosani/2008/44",
+   "short": "HCJ Botoșani nr. 44/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 44/2008 privind aprobarea contului de executie a utilizarii fondului de rulment, la 31 decembrie 2008",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-12-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h044_25.03.2009.pdf",
+     "sha256": "03c285704530fe22f1d50773cf31c464a96daac693092c90821498b050be4dcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-45-2008",
+   "path": "local/judet/botosani/2008/45",
+   "short": "HCJ Botoșani nr. 45/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 45/2008 privind prelungirea duratei de inchiriere pentru spatiile aflate in domeniul public al judetului Botosani si administrarea Spitalului de copii Botosani, respectiv a Spitalului de psihiatrie Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-05-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h045_22.05.2008.pdf",
+     "sha256": "04269ecdde1df634ce1744b2f7a7470628006ab90e54d957e673184c4decdb34"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-46-2008",
+   "path": "local/judet/botosani/2008/46",
+   "short": "HCJ Botoșani nr. 46/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 46/2008 privind eliberarea acordului pentru preluarea a doua pavilioane situate in municipiul Botosani, str",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-05-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h046_22.05.2008.pdf",
+     "sha256": "d685e8bff7ba9d2f5e8da067c7b80d97825cd8f2bdadd001d04cdf1676cd2e26"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-47-2008",
+   "path": "local/judet/botosani/2008/47",
+   "short": "HCJ Botoșani nr. 47/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 47/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-05-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h047_22.05.2008.pdf",
+     "sha256": "33099b8256cf0725c87d7a6f4daccc9030eb7bcbb2c70831904d960d3dd09fe0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-48-2008",
+   "path": "local/judet/botosani/2008/48",
+   "short": "HCJ Botoșani nr. 48/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 48/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-05-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h048_22.05.2008.pdf",
+     "sha256": "f8613a9b183e8f6c3d8ecdf4b18b76fb2e0d138593008b5b7fd47502088c55cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-49-2008",
+   "path": "local/judet/botosani/2008/49",
+   "short": "HCJ Botoșani nr. 49/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 49/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-05-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h049_22.05.2008.pdf",
+     "sha256": "9b9e9819adf0ab65cfa2e162ccf5f60b690284bb39910f62943ed6f084c56173"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-50-2008",
+   "path": "local/judet/botosani/2008/50",
+   "short": "HCJ Botoșani nr. 50/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 50/2008 privind trecerea terenului in suprafata de 2.101,77 mp, situat in incinta Sectiei de boli contagioase a Spitalului Judetean \"Mavromati\" Botosani, din domeniul public in domeniul privat al judetului si trecerea acestuia in rezerva Comisiei locale pentru stabilirea dreptului de proprietate pr",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-06-05",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h050_05.06.2008.pdf",
+     "sha256": "c7b7cb4d9223af67ed8d836610f1eb6759e30be8d9f3bef849658a9b066b99ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-51-2008",
+   "path": "local/judet/botosani/2008/51",
+   "short": "HCJ Botoșani nr. 51/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 51/2008 privind alegerea Comisiei de validare",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-06-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h051_28.06.2008.pdf",
+     "sha256": "ef2db5c201ad186fe9b79ed3724c0d63405ef6d273ad40d970c979ab1e39ef81"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-52-2008",
+   "path": "local/judet/botosani/2008/52",
+   "short": "HCJ Botoșani nr. 52/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 52/2008 privind validarea mandatelor consilierilor judeteni din cadrul Consiliului Judetean Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-06-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h052_28.06.2008.pdf",
+     "sha256": "8bca4a324452ebf9685056be3af7657cd48f14abe23a62a11f5b2ebd4e53be3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-53-2008",
+   "path": "local/judet/botosani/2008/53",
+   "short": "HCJ Botoșani nr. 53/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 53/2008 privind declararea Consiliului Judetean Botosani ca legal constituit",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-06-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h053_28.06.2008.pdf",
+     "sha256": "1f98a96b06048aa4dfbba022127945789e77bd6af461b0cd94b1c3a4773122da"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-54-2008",
+   "path": "local/judet/botosani/2008/54",
+   "short": "HCJ Botoșani nr. 54/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 54/2008 privind alegerea vicepresedintilor Consiliului Judetean Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-06-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h054_28.06.2008.pdf",
+     "sha256": "c540a763e35d91e6453351eff5fe79856b583178aa7fd42dcf1dd4a173d6cb2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-55-2008",
+   "path": "local/judet/botosani/2008/55",
+   "short": "HCJ Botoșani nr. 55/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 55/2008 privind organizarea comisiilor de specialitate in principalele domenii de activitate, precum si repartizarea consilierilor in comisiile de specialitate",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-06-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h055_28.06.2008.pdf",
+     "sha256": "1db59ef8a5037c6b50c0697045d0db030b4d9ce24a3f425819ff1dfc105598c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-56-2008",
+   "path": "local/judet/botosani/2008/56",
+   "short": "HCJ Botoșani nr. 56/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 56/2008 privind modificarea componentei Comisiei de validare",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h056_31.07.2008.pdf",
+     "sha256": "53358352dc6e50b6c086bae78f2850d14fb989a06a620b3f231ffa6fb1dd1281"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-57-2008",
+   "path": "local/judet/botosani/2008/57",
+   "short": "HCJ Botoșani nr. 57/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 57/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h057_31.07.2008.pdf",
+     "sha256": "df276ee2fa6618cad1fdf348f1f48fd21ef907b0beafb07d476c9707418fb22a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-58-2008",
+   "path": "local/judet/botosani/2008/58",
+   "short": "HCJ Botoșani nr. 58/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 58/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h058_31.07.2008.pdf",
+     "sha256": "0e7768d6cf7d84c116263b6a53dcd4370cd2d565716f6c93e9c042d75bb65a76"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-59-2008",
+   "path": "local/judet/botosani/2008/59",
+   "short": "HCJ Botoșani nr. 59/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 59/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h059_31.07.2008.pdf",
+     "sha256": "dc021597efab60bf2748410eb7b7f4fc73277a10fe6670336e5f9d182fc4dca6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-60-2008",
+   "path": "local/judet/botosani/2008/60",
+   "short": "HCJ Botoșani nr. 60/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 60/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h060_31.07.2008.pdf",
+     "sha256": "6f62b26e6b55431fffa537a306cbc52a11674bf8ad8bfe45fb897551e75216cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-61-2008",
+   "path": "local/judet/botosani/2008/61",
+   "short": "HCJ Botoșani nr. 61/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 61/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h061_31.07.2008.pdf",
+     "sha256": "581d4d168c80cf4bddf6c183d02383838393ad12d4789030b99b12d5479b0151"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-62-2008",
+   "path": "local/judet/botosani/2008/62",
+   "short": "HCJ Botoșani nr. 62/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 62/2008 privind rectificarea si repartizarea sumelor defalcate din taxa pe valoare adaugata pentru finantarea cheltuielilor institutiilor de invatamant si a sumelor defalcate din taxa pe valoare adaugata pentru subventionarea energiei termice livrata populatiei pe anul 2005",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-01-05",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h062_2005.08.01.pdf",
+     "sha256": "0c89be7b0841825b70dc04de1fca939c2eff3fd8304cfea17e54a258c54f29b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-63-2008",
+   "path": "local/judet/botosani/2008/63",
+   "short": "HCJ Botoșani nr. 63/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 63/2008 privind angajarea Fondului de rulment existent la nivelul Consiliului Judetean Botosani, in suma de 190.000 lei pentru finantarea lucrarilor de investitii la Unitatile Medico-Sociale Suharau si Sulita pentru anul 2005",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-01-05",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h063_2005.08.01.pdf",
+     "sha256": "7f5dc1c466a4d47f1cad6b8cea52471669e9bd08c238ffa5fd42ec14a8cd8f16"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-64-2008",
+   "path": "local/judet/botosani/2008/64",
+   "short": "HCJ Botoșani nr. 64/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 64/2008 privind rectificarea bugetului propriu judetean pe anul 2005",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-01-05",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h064_2005.08.01.pdf",
+     "sha256": "67f345eb7717351af1ae6d270ee0781004c816e59b0e35ebadf3b85c38f953b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-65-2008",
+   "path": "local/judet/botosani/2008/65",
+   "short": "HCJ Botoșani nr. 65/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 65/2008 privind desemnarea a 6 consilieri judeteni in calitate de membri ai Autoritatii Teritoriale de Ordine Publica Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h065_31.07.2008.pdf",
+     "sha256": "0be6e4f1bbc4f6bd8b4b646f3317ae393052f40021844df9f389becfdd646ccf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-66-2008",
+   "path": "local/judet/botosani/2008/66",
+   "short": "HCJ Botoșani nr. 66/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 66/2008 privind desemnarea unui reprezentant al Consiliului Judetean Botosani in Consiliul de Administratie al Bibliotecii Judetene \"Mihai Eminescu\" Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h066_31.07.2008.pdf",
+     "sha256": "c44b05b7061ef283dcaa4041fb0833ebdca4889d53e13c9dd073cb5985896de9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-67-2008",
+   "path": "local/judet/botosani/2008/67",
+   "short": "HCJ Botoșani nr. 67/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 67/2008 privind desemnarea unui reprezentant al Consiliului Judetean Botosani in Consiliul de Administratie al Muzeului Judetean Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h067_31.07.2008.pdf",
+     "sha256": "0945e1bba1b64f8cf56b0ca8ed24ac5756ac0ad0713385e1d37a314f51a60b14"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-69-2008",
+   "path": "local/judet/botosani/2008/69",
+   "short": "HCJ Botoșani nr. 69/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 69/2008 privind aprobarea bugetului de venituri si cheltuieli pentru Societatea Comerciala Protect-Plant S.A",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-02-06",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h069_2006.07.27.pdf",
+     "sha256": "c12a6fd1f231e83613f0c471cc31a3f8984451904f2773a139b7b426e682f135"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-7-2008",
+   "path": "local/judet/botosani/2008/7",
+   "short": "HCJ Botoșani nr. 7/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 7/2008 privind aprobarea organigramei, statului de functii si regulamentului de organizare si functionare ale Orchestrei Populare \"Rapsozii Botosanilor\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-01-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h007_30.01.2008.pdf",
+     "sha256": "e012e2bfd83f7969b176937dadede8e9ce1899d44d32f73baeff40cb8adeb77e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-70-2008",
+   "path": "local/judet/botosani/2008/70",
+   "short": "HCJ Botoșani nr. 70/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 70/2008 privind delegarea unui reprezentant al asiguratilor din judetul Botosani in Adunarea Reprezentantilor CNAS, precum si desemnarea unui membru in Consiliul de Administratie al Casei de Asigurari de Sanatate a Judetului Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h070_31.07.2008.pdf",
+     "sha256": "17dda98565fba871cc864d9b562bb7dc2406194ac5d2664cee5299ebcc149872"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-71-2008",
+   "path": "local/judet/botosani/2008/71",
+   "short": "HCJ Botoșani nr. 71/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 71/2008 privind numirea unor reprezentanti ai Consiliului Judetean Botosani in consiliile etice ale spitalelor de interes judetean",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h071_31.07.2008.pdf",
+     "sha256": "0142c9b351a28db221ed2a050e2858ee003b5707ecc40007f813999c476697bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-72-2008",
+   "path": "local/judet/botosani/2008/72",
+   "short": "HCJ Botoșani nr. 72/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 72/2008 privind desemnarea reprezentantilor Consiliului Judetean Botosani in Consiliile consultative ale spitalelor publice de interes judetean",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h072_31.07.2008.pdf",
+     "sha256": "b20933dbeac9acfd855a29f3091e3cafa967e09e0a15c86d6a367f80561a1f9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-73-2008",
+   "path": "local/judet/botosani/2008/73",
+   "short": "HCJ Botoșani nr. 73/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 73/2008 privind modificarea regulamentelor de organizare si functionare a Unitatilor de Asistenta Medico-Sociala Sulita, Mihaileni si Suharau, precum si desemnarea reprezentantilor Consiliului Judetean Botosani in Consiliile consultative ale acestora",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h073_31.07.2008.pdf",
+     "sha256": "3dac36494ab523cc37ef101cb3a1da5ffbc142eaea964a67d8665b9f634bc440"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-74-2008",
+   "path": "local/judet/botosani/2008/74",
+   "short": "HCJ Botoșani nr. 74/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 74/2008 privind desemnarea unui reprezentant al Consiliului Judetean Botosani in Comitetul judetean de coordonare al centrelor de permanenta",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h074_31.07.2008.pdf",
+     "sha256": "2f683726b1b4ad543a59942f0f216b5c0b3d2ca9758b0bb6f9518cc6c89989ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-75-2008",
+   "path": "local/judet/botosani/2008/75",
+   "short": "HCJ Botoșani nr. 75/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 75/2008 privind desemnarea reprezentantilor Consiliului Judetean Botosani in cadrul organelor de conducere si administrare ale Asociatiei de Dezvoltare Intercomunitara \"EURONEST\" - A.D.I.E",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h075_31.07.2008.pdf",
+     "sha256": "6afaa3c7a065c554c4216c82e1eed2b5410ea94f7dfa91b55f39395b1217ad6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-76-2008",
+   "path": "local/judet/botosani/2008/76",
+   "short": "HCJ Botoșani nr. 76/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 76/2008 privind constituirea Asociatiei de Dezvoltare Intercomunitara \"ECOPROCES\" Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h076_31.07.2008.pdf",
+     "sha256": "2734856b42e2047f8e1ec659f78c729b6235a1c460911708d041f5537d956aeb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-77-2008",
+   "path": "local/judet/botosani/2008/77",
+   "short": "HCJ Botoșani nr. 77/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 77/2008 privind repartizarea sumelor defalcate din taxa pe valoarea adaugata, pentru echilibrarea bugetelor pe anul 2007 si estimarile pe anii 2008 - 2010",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-02-06",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h077_2006.07.27.pdf",
+     "sha256": "76747647b31f3b5d1585c552079e94c3e81b4f1612e9fa7835a51d51864ff3d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-78-2008",
+   "path": "local/judet/botosani/2008/78",
+   "short": "HCJ Botoșani nr. 78/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 78/2008 pentru modificarea si completarea organigramei si Statului de functii a Bibliotecii Judetene \"Mihai Eminescu\" Botosani pe anul 2006",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-02-06",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h078_2006.07.27.pdf",
+     "sha256": "3e0ab4cf4561c0a2761dc07c5171783e72bca6d02b5cddc07fe50ba8f800d493"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-79-2008",
+   "path": "local/judet/botosani/2008/79",
+   "short": "HCJ Botoșani nr. 79/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 79/2008 privind asocierea Judetului Botosani cu un numar de 45 unitati administrativ teritoriale din Judetul Botosani in cadrul Asociatiei de Dezvoltare Intercomunitara \"AQUA\" Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h079_31.07.2008.pdf",
+     "sha256": "c2d29d74bead2cc1bf05cf9c9d915f458d3afd4051ee9327dd2d78d4a83d2a5e"
     }
    ]
   },
@@ -63,6 +1548,81 @@
    ]
   },
   {
+   "slug": "hcj-botosani-80-2008",
+   "path": "local/judet/botosani/2008/80",
+   "short": "HCJ Botoșani nr. 80/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 80/2008 privind modificarea statutului de functii pentru aparatul de specialitate al Consiliului Judetean Botosani, pe anul 2008",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-07-08",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h080_31.07.2008.pdf",
+     "sha256": "91b0510681279fa721dbcf0a7ea4c169af6033c632e5bc9a0d686cd248ad57b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-81-2008",
+   "path": "local/judet/botosani/2008/81",
+   "short": "HCJ Botoșani nr. 81/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 81/2008 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Modernizarea DJ 296 KM 23+250-26+000, Dorobanti-Podeni, judetul Botosani\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h081_31.07.2008.pdf",
+     "sha256": "625e4e5d3be1b9a0ab4fcc10257947555db25bba78a1447813b17a99ef775536"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-82-2008",
+   "path": "local/judet/botosani/2008/82",
+   "short": "HCJ Botoșani nr. 82/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 82/2008 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii \"Modernizare DJ 208C km 10+000-21+870, Vorona-Joldesti-Limita Judet Suceava\" din judetul Botosani\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h082_31.07.2008.pdf",
+     "sha256": "efc49cde5b8096da9c3b477466c2a6fbdc8b58422f8abc9a46f77d8913683aa2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-83-2008",
+   "path": "local/judet/botosani/2008/83",
+   "short": "HCJ Botoșani nr. 83/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 83/2008 privind rectificarea bugetului propriu judetean cu suma de 5.713.000 lei si virari de credite intre capitole apartinand bugetului propriu judetean, pe anul 2008",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-08-14",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h083_14.08.2008.pdf",
+     "sha256": "bee84704732b574b3650258d311d12aab0b7158639e66ae205ec20adde92486a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-84-2008",
+   "path": "local/judet/botosani/2008/84",
+   "short": "HCJ Botoșani nr. 84/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 84/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h084_28.08.2008.pdf",
+     "sha256": "19e64d0fc7b0fcbd8f715178895382b5ee323a45410b38dd8a789f23f7084005"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-85-2008",
    "path": "local/judet/botosani/2008/85",
    "short": "HCJ Botoșani nr. 85/2008",
@@ -78,6 +1638,141 @@
    ]
   },
   {
+   "slug": "hcj-botosani-86-2008",
+   "path": "local/judet/botosani/2008/86",
+   "short": "HCJ Botoșani nr. 86/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 86/2008 privind desemnarea unor reprezentanti ai Consiliului Judetean Botosani in Colegiul director al Directiei Generale de Asistenta Sociala si Protectia Copilului Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h086_28.08.2008.pdf",
+     "sha256": "f2caf5fcc77407685d265a894404b2d57b2ecbd8209134c0a921753191da053d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-87-2008",
+   "path": "local/judet/botosani/2008/87",
+   "short": "HCJ Botoșani nr. 87/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 87/2008 privind modificarea componentei Comisiei pentru Protectia Copilului Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h087_28.08.2008.pdf",
+     "sha256": "bec72debd646bbaf99eed884eed66d2b51c689d53c19f6cb3c7d3bfe7b463ede"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-88-2008",
+   "path": "local/judet/botosani/2008/88",
+   "short": "HCJ Botoșani nr. 88/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 88/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h088_28.08.2008.pdf",
+     "sha256": "4a2bb9b304110f8b4f59b5f9187d54a8cccf276e42641a91b0b8fc1fee5b261e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-89-2008",
+   "path": "local/judet/botosani/2008/89",
+   "short": "HCJ Botoșani nr. 89/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 89/2008 privind schimbarea denumirii Scolii Speciale Botosani, judetul Botosani in Scoala de Arte si Meserii-Invatamant Special Botosani, judetul Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h089_28.08.2008.pdf",
+     "sha256": "37f947df85384743fe82491e3e9afdb7a721787c691d6b0b0aa74135e5d4bf51"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-9-2008",
+   "path": "local/judet/botosani/2008/9",
+   "short": "HCJ Botoșani nr. 9/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 9/2008 privind inchirierea unor terenuri si cladiri situate in municipiul Botosani, municipiul Dorohoi si orasul Saveni, apartinand domeniului privat al judetului Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-01-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h009_30.01.2008.pdf",
+     "sha256": "1b290b17810ef35f759dbaefd2ba04118257a65b0ebf98328ed01f714553c4bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-90-2008",
+   "path": "local/judet/botosani/2008/90",
+   "short": "HCJ Botoșani nr. 90/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 90/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h090_28.08.2008.pdf",
+     "sha256": "b516a4a613e3ea6091216c6149a3a5c5dcbd175cccff05a6dd4bf42e5d1bb366"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-91-2008",
+   "path": "local/judet/botosani/2008/91",
+   "short": "HCJ Botoșani nr. 91/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 91/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h091_28.08.2008.pdf",
+     "sha256": "6960c95460b7b57538e8f94f9a1546ab6ce70d77aa6585940525cc8cb64f970d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-92-2008",
+   "path": "local/judet/botosani/2008/92",
+   "short": "HCJ Botoșani nr. 92/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 92/2008 privind suplimentarea organigramei si statului de functii pentru aparatul de specialitate al Consiliului Judetean Botosani pe anul 2008, cu un post",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h092_28.08.2008.pdf",
+     "sha256": "ca6d7459da443712931604a8049aea0ceda8160a51df817df9a16711eaf8392f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-93-2008",
+   "path": "local/judet/botosani/2008/93",
+   "short": "HCJ Botoșani nr. 93/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 93/2008 privind inchirierea terenului si a cladirilor situate in municipiul Botosani, str",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h093_28.08.2008.pdf",
+     "sha256": "ec59cce866b8bd7282fb49d68b7126418d576a746eae58611d14006aab1539d4"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-94-2008",
    "path": "local/judet/botosani/2008/94",
    "short": "HCJ Botoșani nr. 94/2008",
@@ -89,6 +1784,66 @@
      "units": 1,
      "source_url": "https://www.cjbotosani.ro/files/h094_29.07.2010.pdf",
      "sha256": "a3eeb3d1357f535717c9a9e87345e91c997e0ed35682e66f5ac4bd4f5537a9fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-95-2008",
+   "path": "local/judet/botosani/2008/95",
+   "short": "HCJ Botoșani nr. 95/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 95/2008 privind eliberarea acordului pentru preluarea a doua pavilioane situate in municipiul Botosani, str",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h095_28.08.2008.pdf",
+     "sha256": "6256cd3780498057ba52fc4fb227af0cf6002c4285dc709e6abfbeb63a40514a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-96-2008",
+   "path": "local/judet/botosani/2008/96",
+   "short": "HCJ Botoșani nr. 96/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 96/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-04-10",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h096_29.07.2010.pdf",
+     "sha256": "558122a7b0bba439bc8b8c6cb304e23c97f9fb9b185f35ef1f34997162dfbfa6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-97-2008",
+   "path": "local/judet/botosani/2008/97",
+   "short": "HCJ Botoșani nr. 97/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 97/2008 privind atribuirea licentei de traseu pentru traseul nr. 91 cuprins in Programul de transport judetean de persoane prin curse regulate pentru judetul Botosani, valabil in perioada 01.07.2008-30.04.2013",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-07-01",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h097_31.08.2011.pdf",
+     "sha256": "d0b1430868efc33b482d0763c037f0041eca7bcf13ba17dc6425ecfa88685299"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-98-2008",
+   "path": "local/judet/botosani/2008/98",
+   "short": "HCJ Botoșani nr. 98/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 98/2008 privind repartizarea cotei de 20% din sumele defalcate din taxa pe valoarea adaugata pentru echilibrarea bugetelor locale si din cota de 22% din impozitul pe venit, precum si a sumelor din impozitul pe venit si sume defalcate rezultate din aplicarea gradului de necolectare a veniturilor pro",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h098_28.08.2008.pdf",
+     "sha256": "1f6f66ed3773d9a198d78a0cd28ee6a9e7bf7091b3dab6cf579f909e0246b086"
     }
    ]
   }

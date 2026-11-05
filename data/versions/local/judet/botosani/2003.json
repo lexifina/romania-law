@@ -18,6 +18,231 @@
    ]
   },
   {
+   "slug": "hcj-botosani-102-2003",
+   "path": "local/judet/botosani/2003/102",
+   "short": "HCJ Botoșani nr. 102/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 102/2003",
+   "url": null,
+   "versions": [
+    {
+     "from": "2003-10-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/102.pdf",
+     "sha256": "1932fcb3aff6c6356894e5103c1c368fdaaf7bbb0e39d3e367ce3bddc894719b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-103-2003",
+   "path": "local/judet/botosani/2003/103",
+   "short": "HCJ Botoșani nr. 103/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 103/2003 privind aprobarea documentatiei tehnico-economice pentru obiectivul de investitii \"Reabilitare Centrala termica la Spitalul de Obstretica-Ginecologie, municipiul Botosani\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2003-10-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/103.pdf",
+     "sha256": "6e58c86d60ca39ded1dc06a424a6cb1a9bba1e5a3eae73526664911a76082c88"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-104-2003",
+   "path": "local/judet/botosani/2003/104",
+   "short": "HCJ Botoșani nr. 104/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 104/2003 privind aprobarea pretului de oferta si modalitatii de achitare a pretului actiunilor S.C",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2003-10-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/104.pdf",
+     "sha256": "00e2c38b7f251701fd70ae50df84b38f1aa9896e2155672add480f577e3d25ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-111-2003",
+   "path": "local/judet/botosani/2003/111",
+   "short": "HCJ Botoșani nr. 111/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 111/2003 privind aprobarea modificarii numarului de personal, organigramei, statului de functii si Regulamentului de organizare si functionare ale Directiei Judetene pentru Protectia Drepturilor Copilului Botosani, incepand cu data de 1.12.2003",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2003-12-01",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/111.pdf",
+     "sha256": "b70b103ce333093822bc9ac41334f48152b1681b74a45ec6033b9f3f82a33c9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-114-2003",
+   "path": "local/judet/botosani/2003/114",
+   "short": "HCJ Botoșani nr. 114/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 114/2003 privind reorganizarea Comisiei Anti-Saracie si Promovarea Incluziunii Sociale",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2003-11-20",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/114.pdf",
+     "sha256": "a5aaaeb68cb338bc50ea9c8341817cd2c81a796027a3b308c9df2b6072fb1719"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-118-2003",
+   "path": "local/judet/botosani/2003/118",
+   "short": "HCJ Botoșani nr. 118/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 118/2003 privind aprobarea documentatiei tehnico-economice pentru obiectivul de investitii \"Alimentarea cu gaze naturale a statiei de tratare a apei Bucecea, judetul Botosani\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2003-11-20",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/118.pdf",
+     "sha256": "3b8b8ae91b515a8f358c0e7617342f37d1fa5887b19a504499d700b9a7192c5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-12-2003",
+   "path": "local/judet/botosani/2003/12",
+   "short": "HCJ Botoșani nr. 12/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 12/2003 privind modificarea statului de functii al Orchestrei Populare \"Rapsozii Botosanilor\", pentru anul 2004",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2003-03-04",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h012_2004.03.03.pdf",
+     "sha256": "b2c7c9323a7bc763fdd53ef41712db8df65697170e4ccbb58cf54ff4df0fee20"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-121-2003",
+   "path": "local/judet/botosani/2003/121",
+   "short": "HCJ Botoșani nr. 121/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 121/2003 privind aprobarea documentatiei tehnico-economice pentru obiectivul de investitii \"Reabilitarea centralei termice proprii si a instalatiilor de alimentare cu gaze naturale la sediu spital pentru Spitalul de Copii Cuvioasa Parascheva, judetul Botosani\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2003-11-20",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/121.pdf",
+     "sha256": "6baced02c6f879063505a535c61cdfa7e95328dee55600ab7998cc7a51a2e6fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-122-2003",
+   "path": "local/judet/botosani/2003/122",
+   "short": "HCJ Botoșani nr. 122/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 122/2003",
+   "url": null,
+   "versions": [
+    {
+     "from": "2003-11-20",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/122.pdf",
+     "sha256": "12bab02bcdebbbcb1847e89ec8da93c01307d4d6026eb56f34ef8b697098ce61"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-125-2003",
+   "path": "local/judet/botosani/2003/125",
+   "short": "HCJ Botoșani nr. 125/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 125/2003 privind modificarea bugetului de venituri si cheltuieli pe anul 2003, al Regiei Autonome Judetene \"APA\" Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2003-12-02",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/125.pdf",
+     "sha256": "a47172c2451bbae41709339e9c7b8e4d8c17e6806793e0021328263c3215a20d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-132-2003",
+   "path": "local/judet/botosani/2003/132",
+   "short": "HCJ Botoșani nr. 132/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 132/2003 privind aprobarea bugetului de venituri si cheltuieli pe anul 2004, al Regiei Autonome Judetene \"APA\" Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2003-12-13",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/132.pdf",
+     "sha256": "4edd74fefb09685d94a05a9c32f2080c05013e23723ad0bf0b50919b1a6aac19"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-14-2003",
+   "path": "local/judet/botosani/2003/14",
+   "short": "HCJ Botoșani nr. 14/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 14/2003 privind aprobarea bugetului Centrului Judetean pentru Conservarea si Promovarea Culturii Traditionale Botosani, pe anul 2004",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2003-03-04",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h014_2004.03.03.pdf",
+     "sha256": "793648ab31700e21c9201fa975cc157d7ab4bb8b2d3610e6b2ea03d5169ce328"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-141-2003",
+   "path": "local/judet/botosani/2003/141",
+   "short": "HCJ Botoșani nr. 141/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 141/2003 privind preluarea in administrare si exploatare de catre RAJ \"APA\" Botosani a instalatiilor de alimentare cu apa din localitatile Durnesti si Guranda - comuna Durnesti",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2003-12-13",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/141.pdf",
+     "sha256": "1a9b35c67dc7a1528e60d4f36d5eb45a607545934aba1ee3cb28d354628eeda3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-145-2003",
+   "path": "local/judet/botosani/2003/145",
+   "short": "HCJ Botoșani nr. 145/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 145/2003",
+   "url": null,
+   "versions": [
+    {
+     "from": "2003-12-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/145.pdf",
+     "sha256": "e6b6a71e0c21519486ad898ef89f9218e43030100b2eba17816750df1f58ca56"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-146-2003",
+   "path": "local/judet/botosani/2003/146",
+   "short": "HCJ Botoșani nr. 146/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 146/2003",
+   "url": null,
+   "versions": [
+    {
+     "from": "2003-12-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/146.pdf",
+     "sha256": "4a56048de7c1346e982b7e47b818fb7fdd0eaea4de2e743854970dc700fade96"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-15-2003",
    "path": "local/judet/botosani/2003/15",
    "short": "HCJ Botoșani nr. 15/2003",
@@ -33,6 +258,261 @@
    ]
   },
   {
+   "slug": "hcj-botosani-16-2003",
+   "path": "local/judet/botosani/2003/16",
+   "short": "HCJ Botoșani nr. 16/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 16/2003 privind achitarea cotizaţiei Judeţului Botoşani la Uniunea Naţională a Consiliilor Judeţene din România, în sumă de 65.823,78 lei din bugetul propriu judeţean, pentru anul 2013",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2003-05-13",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h016_28.02.2013.pdf",
+     "sha256": "d4ff23a6c3073a60e77dfaefa1182e1fb73a2a4463ccfa625426f50176c91a96"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-17-2003",
+   "path": "local/judet/botosani/2003/17",
+   "short": "HCJ Botoșani nr. 17/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 17/2003 privind aprobarea Programului de ocupare temporara a fortei de munca din randul somerilor pentru judetul Botosani, pe anul 2008",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2003-03-08",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h017_28.02.2008.pdf",
+     "sha256": "b25927d1f9c174830211e356faa7128f3cd8431a15857088f4bcf15a9c9c1808"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-18-2003",
+   "path": "local/judet/botosani/2003/18",
+   "short": "HCJ Botoșani nr. 18/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 18/2003 privind aprobarea contului anual de executie al bugetului propriu judetean, pe anul 2003",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2003-03-03",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h018_2004.03.03.pdf",
+     "sha256": "349f48dfd3722fdc5c78bf803af956cc53c7231c87016af75a613d1e924fb228"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-19-2003",
+   "path": "local/judet/botosani/2003/19",
+   "short": "HCJ Botoșani nr. 19/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 19/2003",
+   "url": null,
+   "versions": [
+    {
+     "from": "2003-10-14",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h019_27.02.2014.pdf",
+     "sha256": "6e7a63d3c83d87a321d53f9252457a0c93ed1194d5ece805e9b337954125ad05"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-20-2003",
+   "path": "local/judet/botosani/2003/20",
+   "short": "HCJ Botoșani nr. 20/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 20/2003 privind acordarea din bugetul pe anul 2019 de stimulente financiare pentru elevi din instituții de învățământ din județul Botoșani care au obținut rezultate de excepție la concursuri și olimpiade școlare județene desfășurate în anul 2018",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2003-04-19",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h020_28.02.2019.pdf",
+     "sha256": "7b54a3f232b73893d52533f0058ee8847fecc5027f1cb9f83ab8bbfb2fc344db"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-22-2003",
+   "path": "local/judet/botosani/2003/22",
+   "short": "HCJ Botoșani nr. 22/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 22/2003",
+   "url": null,
+   "versions": [
+    {
+     "from": "2003-03-04",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h022_2004.03.03.pdf",
+     "sha256": "6458a3f6328631884e051969685f2d1992d61573b1deaea21007cf14a1e6418c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-24-2003",
+   "path": "local/judet/botosani/2003/24",
+   "short": "HCJ Botoșani nr. 24/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 24/2003",
+   "url": null,
+   "versions": [
+    {
+     "from": "2003-10-14",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h024_27.02.2014.pdf",
+     "sha256": "e65322715a852a8cd01f0928e84ac5ab0b964ffeb46b365773757c2655824fb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-25-2003",
+   "path": "local/judet/botosani/2003/25",
+   "short": "HCJ Botoșani nr. 25/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 25/2003 privind aprobarea Strategiei judeţene în domeniul protecţiei şi promovării drepturilor copilului pentru perioada 2014 – 2020",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2003-10-14",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h025_27.02.2014.pdf",
+     "sha256": "dcd11c61970f59543a7217b41cdc8367eee33abcc533638dc5d3d2206991aa8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-26-2003",
+   "path": "local/judet/botosani/2003/26",
+   "short": "HCJ Botoșani nr. 26/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 26/2003 privind aprobarea Strategiei judeţene privind incluziunea socială a persoanelor cu dizabilităţi pentru perioada 2014 – 2020",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2003-10-14",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h026_27.02.2014.pdf",
+     "sha256": "88be4bc68f3c246ce7e34ac42610a0bca8beefc496685c25fa45faf16fd9682f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-31-2003",
+   "path": "local/judet/botosani/2003/31",
+   "short": "HCJ Botoșani nr. 31/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 31/2003 privind repartizarea sumelor defalcate din taxa pe valoarea adăugată pentru finanţarea cheltuielilor privind drumurile judeţene şi comunale, pe anul 2017 şi estimările pentru anii 2018 - 2020",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2003-02-17",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h031_28.02.2017.pdf",
+     "sha256": "544b934665f9b267da4a89cfaf046086a3e6cb310f93df2af898b8c7fb1693e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-32-2003",
+   "path": "local/judet/botosani/2003/32",
+   "short": "HCJ Botoșani nr. 32/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 32/2003 privind repartizarea fondurilor alocate de Ministerul Transporturilor, Constructiilor si Turismului pentru finantarea alimentarii cu apa a satelor si pietruirea drumurilor comunale de pamant in judetul Botosani, pe anul 2004",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2003-03-04",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h032_2004.03.03.pdf",
+     "sha256": "ef987811aa94f46e491bcb8421f3e16812674af07b5e9b502e3b826675f97de1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-34-2003",
+   "path": "local/judet/botosani/2003/34",
+   "short": "HCJ Botoșani nr. 34/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 34/2003 privind achitarea contributiei judetului Botosani la Uniunea Nationala a Consiliilor Judetene din Romania pentru anul 2010, in suma de 67.263,00 lei",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2003-03-10",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h034_26.02.2010.pdf",
+     "sha256": "ba110ec29b719bfbc92df7ba488acb75099a49713224b317f1ad05886d9a2363"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-38-2003",
+   "path": "local/judet/botosani/2003/38",
+   "short": "HCJ Botoșani nr. 38/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 38/2003 privind angajarea din fondul de rulment existent la nivelul Consiliului Judetean Botosani, a sumei de 10.777.000 lei, pe anul 2010",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2003-04-10",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h038_04.03.2010.pdf",
+     "sha256": "f44b744990527c8400326f87dfbd5649e06f74644526f7bf55e0b02e88e85f71"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-39-2003",
+   "path": "local/judet/botosani/2003/39",
+   "short": "HCJ Botoșani nr. 39/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 39/2003 privind aprobarea bugetului creditului intern, pe anul 2010",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2003-04-10",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h039_04.03.2010.pdf",
+     "sha256": "89233d1b287d8dc6c2d713a84d57fc62261c7263e98cd2a9697482a48f065d7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-40-2003",
+   "path": "local/judet/botosani/2003/40",
+   "short": "HCJ Botoșani nr. 40/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 40/2003 privind aprobarea bugetului propriu judetean, pe anul 2010",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2003-04-10",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h040_04.03.2010.pdf",
+     "sha256": "a2f9d11e85bcd177868b87061256b76ac0953e53ef5af3c8ec54124d9b0064bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-54-2003",
+   "path": "local/judet/botosani/2003/54",
+   "short": "HCJ Botoșani nr. 54/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 54/2003 privind aprobarea situatiilor financiare anuale simplificate la 31.12.2003, ale Regiei Autonome Judetene \"APA\" Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2003-12-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h054_2004.05.14.pdf",
+     "sha256": "ed03944e8f443fbbbabfdb52ce1fff2a3d49aa052b63ceebafeaa7e732a817c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-8-2003",
+   "path": "local/judet/botosani/2003/8",
+   "short": "HCJ Botoșani nr. 8/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 8/2003 privind redistribuirea sumelor defalcate din taxa pe valoare adaugata intre unitatile administrativ-teritoriale Adaseni si Avrameni pentru anul 2006",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2003-03-06",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h008_2006.02.22.pdf",
+     "sha256": "43013c9906e5e970e403ca7a00e7505e49a7ba91c4aaf675c16e5f9231d641fd"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-84-2003",
    "path": "local/judet/botosani/2003/84",
    "short": "HCJ Botoșani nr. 84/2003",
@@ -44,6 +524,96 @@
      "units": 1,
      "source_url": "https://www.cjbotosani.ro/files/84.pdf",
      "sha256": "aefd0df9b44047eae174bf8899b2d28ce2ebd63a8fd40731830f9dfbdc6f061c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-85-2003",
+   "path": "local/judet/botosani/2003/85",
+   "short": "HCJ Botoșani nr. 85/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 85/2003",
+   "url": null,
+   "versions": [
+    {
+     "from": "2003-08-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/85.pdf",
+     "sha256": "2aea3be296589493ceaf696f719a8c255979bf5cbe9daeeb64f4eb1115c8da5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-87-2003",
+   "path": "local/judet/botosani/2003/87",
+   "short": "HCJ Botoșani nr. 87/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 87/2003 privind modificarea statului de functii pentru aparatul propriu al Consiliului Judetean Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2003-08-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/87.pdf",
+     "sha256": "90b9966abfee17fb5fac0f96708ef316a34a446be7d0054a772fd7ed4b36b5c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-92-2003",
+   "path": "local/judet/botosani/2003/92",
+   "short": "HCJ Botoșani nr. 92/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 92/2003 privind constituirea unui fond de stimulente prin retinerea cotei de 5% din sumele incasate la bugetul judetean pe anul 2003 prin executarea silita, pentru acordarea de stimulente personalului Directiei Judetene de Drumuri si Poduri Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2003-09-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/92.pdf",
+     "sha256": "0c6bf6652ab885fb33800cddc91e0980a5932acc1e52226b399b6a3f81595d3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-96-2003",
+   "path": "local/judet/botosani/2003/96",
+   "short": "HCJ Botoșani nr. 96/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 96/2003 privind preluarea in administrare si exploatare de catre RAJ \"APA\" Botosani a instalatiilor de alimentare cu apa din localitatea Costinesti, comuna Leorda",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2003-10-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/96.pdf",
+     "sha256": "ec69b4f37a68ec8717bf8fadfbb6c1493084f2c15469ea854c8200d7161a6762"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-97-2003",
+   "path": "local/judet/botosani/2003/97",
+   "short": "HCJ Botoșani nr. 97/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 97/2003 privind aprobarea documentatiei tehnico-economice pentru obiectivul de investitii \"Alimentare cu gaze naturale si amenajare centrala termica la Sectia de Recuperare Pediatrica Botosani\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2003-10-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/97.pdf",
+     "sha256": "61fb5f92d5bc34186b71d8436e0f477ca41b7f107f8fecc71ac57767d22f4a13"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-99-2003",
+   "path": "local/judet/botosani/2003/99",
+   "short": "HCJ Botoșani nr. 99/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 99/2003",
+   "url": null,
+   "versions": [
+    {
+     "from": "2003-10-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/99.pdf",
+     "sha256": "c5e10cf384549c4b7ba5614bd6a82b893fa8597d590ecd65bbe83b869e314369"
     }
    ]
   }
