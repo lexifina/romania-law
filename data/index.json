@@ -8713,23 +8713,23 @@
   {
    "shard": "ue/2019",
    "kind": "ue",
-   "count": 52,
+   "count": 124,
    "acts": "data/acts/ue/2019.json",
    "list": "data/acts/ue/2019.md",
    "versions": "data/versions/ue/2019.json",
    "laws": "data/laws/ue/2019.csv",
-   "laws_count": 52,
+   "laws_count": 124,
    "sources": "data/sources/ue/2019.csv"
   },
   {
    "shard": "ue/2020",
    "kind": "ue",
-   "count": 109,
+   "count": 128,
    "acts": "data/acts/ue/2020.json",
    "list": "data/acts/ue/2020.md",
    "versions": "data/versions/ue/2020.json",
    "laws": "data/laws/ue/2020.csv",
-   "laws_count": 109,
+   "laws_count": 128,
    "sources": "data/sources/ue/2020.csv"
   },
   {

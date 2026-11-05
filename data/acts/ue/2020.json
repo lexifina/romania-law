@@ -108,6 +108,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0213"
 },
 {
+"slug": "ue-regulament-261-2020",
+"path": "ue/regulament/2020/261",
+"kind": "ue",
+"year": "2020",
+"number": "261",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2020/261 al Consiliului din 19 decembrie 2019 de modificare a Regulamentului (UE) nr. 389/2012 privind cooperarea administrativă în domeniul accizelor în ceea ce privește conținutul registrelor electronice",
+"short": "Regulamentul (UE) 2020/261",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2020-03-18",
+"latest": "2020-03-18",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0261"
+},
+{
 "slug": "ue-directiva-262-2020",
 "path": "ue/directiva/2020/262",
 "kind": "ue",
@@ -278,6 +295,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0355"
 },
 {
+"slug": "ue-regulament-356-2020",
+"path": "ue/regulament/2020/356",
+"kind": "ue",
+"year": "2020",
+"number": "356",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2020/356 al Comisiei din 4 martie 2020 de modificare a anexei II la Regulamentul (CE) nr. 1333/2008 al Parlamentului European și al Consiliului în ceea ce privește utilizarea polisorbaților (E 432-436) în băuturile carbogazoase (Text cu relevanță pentru SEE)",
+"short": "Regulamentul (UE) 2020/356",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2020-03-25",
+"latest": "2020-03-25",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0356"
+},
+{
 "slug": "ue-directiva-367-2020",
 "path": "ue/directiva/2020/367",
 "kind": "ue",
@@ -298,6 +332,23 @@
 }
 },
 {
+"slug": "ue-regulament-459-2020",
+"path": "ue/regulament/2020/459",
+"kind": "ue",
+"year": "2020",
+"number": "459",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2020/459 al Parlamentului European și al Consiliului din 30 martie 2020 de modificare a Regulamentului (CEE) nr. 95/93 al Consiliului privind normele comune de alocare a sloturilor orare pe aeroporturile comunitare (Text cu relevanță pentru SEE)",
+"short": "Regulamentul (UE) 2020/459",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2020-04-01",
+"latest": "2020-04-01",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0459"
+},
+{
 "slug": "ue-regulament-460-2020",
 "path": "ue/regulament/2020/460",
 "kind": "ue",
@@ -313,6 +364,23 @@
 "from": "2020-04-01",
 "latest": "2020-04-01",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0460"
+},
+{
+"slug": "ue-regulament-461-2020",
+"path": "ue/regulament/2020/461",
+"kind": "ue",
+"year": "2020",
+"number": "461",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2020/461 al Parlamentului European și al Consiliului din 30 martie 2020 de modificare a Regulamentului (CE) nr. 2012/2002 al Consiliului în vederea acordării de asistență financiară statelor membre și țărilor care negociază aderarea la Uniune ce sunt grav afectate de o situație de urgență majoră de sănătate publică",
+"short": "Regulamentul (UE) 2020/461",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2020-04-01",
+"latest": "2020-04-01",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0461"
 },
 {
 "slug": "ue-regulament-488-2020",
@@ -432,6 +500,40 @@
 "from": "2020-04-24",
 "latest": "2020-04-24",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0535"
+},
+{
+"slug": "ue-regulament-538-2020",
+"path": "ue/regulament/2020/538",
+"kind": "ue",
+"year": "2020",
+"number": "538",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE, Euratom) 2020/538 al Consiliului din 17 aprilie 2020 de modificare a Regulamentului (UE, Euratom) nr. 1311/2013 de stabilire a cadrului financiar multianual pentru perioada 2014-2020 în ceea ce privește domeniul de aplicare a marjei globale pentru angajamente",
+"short": "Regulamentul (UE, Euratom) 2020/538",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2020-04-17",
+"latest": "2020-04-17",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0538"
+},
+{
+"slug": "ue-regulament-558-2020",
+"path": "ue/regulament/2020/558",
+"kind": "ue",
+"year": "2020",
+"number": "558",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2020/558 al Parlamentului European și al Consiliului din 23 aprilie 2020 de modificare a Regulamentelor (UE) nr. 1301/2013 și (UE) nr. 1303/2013 în ceea ce privește măsuri specifice de asigurare a unei flexibilități excepționale pentru utilizarea fondurilor structurale și de investiții europene ca reacție la epidemia de COVID-19",
+"short": "Regulamentul (UE) 2020/558",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2020-04-24",
+"latest": "2020-04-24",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0558"
 },
 {
 "slug": "ue-regulament-559-2020",
@@ -695,6 +797,23 @@
 }
 },
 {
+"slug": "ue-regulament-741-2020",
+"path": "ue/regulament/2020/741",
+"kind": "ue",
+"year": "2020",
+"number": "741",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2020/741 al Parlamentului European și al Consiliului din 25 mai 2020 privind cerințele minime pentru reutilizarea apei (Text cu relevanță pentru SEE)",
+"short": "Regulamentul (UE) 2020/741",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2020-06-25",
+"latest": "2020-06-25",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0741"
+},
+{
 "slug": "ue-regulament-749-2020",
 "path": "ue/regulament/2020/749",
 "kind": "ue",
@@ -812,6 +931,40 @@
 "from": "2020-07-02",
 "latest": "2020-07-02",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0771"
+},
+{
+"slug": "ue-regulament-772-2020",
+"path": "ue/regulament/2020/772",
+"kind": "ue",
+"year": "2020",
+"number": "772",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2020/772 al Comisiei din 11 iunie 2020 de modificare a anexelor I, VII și VIII la Regulamentul (CE) nr. 999/2001 al Parlamentului European și al Consiliului în ceea ce privește măsurile de eradicare vizând encefalopatiile spongiforme transmisibile la caprine și la rasele pe cale de dispariție (Text cu relevanță pentru SEE)",
+"short": "Regulamentul (UE) 2020/772",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2020-07-02",
+"latest": "2020-07-02",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0772"
+},
+{
+"slug": "ue-regulament-785-2020",
+"path": "ue/regulament/2020/785",
+"kind": "ue",
+"year": "2020",
+"number": "785",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2020/785 al Comisiei din 9 iunie 2020 de modificare a anexelor II și III la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime pentru reziduurile de cromafenozidă, fluometuron, pencicuron, sedaxan, tau-fluvalinat și triazoxid din sau de pe anumite produse (Text cu relevanță pentru SEE)",
+"short": "Regulamentul (UE) 2020/785",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2020-07-06",
+"latest": "2020-07-06",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R0785"
 },
 {
 "slug": "ue-regulament-797-2020",
@@ -973,6 +1126,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1000"
 },
 {
+"slug": "ue-regulament-1040-2020",
+"path": "ue/regulament/2020/1040",
+"kind": "ue",
+"year": "2020",
+"number": "1040",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2020/1040 al Parlamentului European și al Consiliului din 15 iulie 2020 de modificare a Regulamentului (UE) 2016/1628 în ceea ce privește dispozițiile sale tranzitorii pentru a aborda impactul crizei provocate de COVID-19 (Text cu relevanță pentru SEE)",
+"short": "Regulamentul (UE) 2020/1040",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2020-07-17",
+"latest": "2020-07-17",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1040"
+},
+{
 "slug": "ue-regulament-1041-2020",
 "path": "ue/regulament/2020/1041",
 "kind": "ue",
@@ -988,6 +1158,23 @@
 "from": "2020-07-18",
 "latest": "2020-07-18",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1041"
+},
+{
+"slug": "ue-regulament-1043-2020",
+"path": "ue/regulament/2020/1043",
+"kind": "ue",
+"year": "2020",
+"number": "1043",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2020/1043 al Parlamentului European și al Consiliului din 15 iulie 2020 privind efectuarea de studii clinice și furnizarea de medicamente de uz uman care conțin organisme modificate genetic sau care constau în organisme modificate genetic și care sunt destinate tratării sau prevenirii bolii provocate de coronavirus (COVID-19) (Text cu relevanță pentru SEE",
+"short": "Regulamentul (UE) 2020/1043",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2020-07-18",
+"latest": "2020-07-18",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1043"
 },
 {
 "slug": "ue-regulament-1054-2020",
@@ -1025,6 +1212,23 @@
 "from": "2020-08-20",
 "latest": "2020-08-20",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1055"
+},
+{
+"slug": "ue-regulament-1056-2020",
+"path": "ue/regulament/2020/1056",
+"kind": "ue",
+"year": "2020",
+"number": "1056",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2020/1056 al Parlamentului European și al Consiliului din 15 iulie 2020 privind informațiile electronice referitoare la transportul de mărfuri (Text cu relevanță pentru SEE)",
+"short": "Regulamentul (UE) 2020/1056",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2020-08-20",
+"latest": "2020-08-20",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1056"
 },
 {
 "slug": "ue-directiva-1057-2020",
@@ -1404,6 +1608,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1633"
 },
 {
+"slug": "ue-regulament-1666-2020",
+"path": "ue/regulament/2020/1666",
+"kind": "ue",
+"year": "2020",
+"number": "1666",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2020/1666 al Comisiei din 10 noiembrie 2020 de modificare a Regulamentului (CE) nr. 2003/2003 al Parlamentului European și al Consiliului privind îngrășămintele cu scopul de a include un nou tip de îngrășăminte CE în anexa I (Text cu relevanță pentru SEE)",
+"short": "Regulamentul (UE) 2020/1666",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2020-12-01",
+"latest": "2020-12-01",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1666"
+},
+{
 "slug": "ue-regulament-1681-2020",
 "path": "ue/regulament/2020/1681",
 "kind": "ue",
@@ -1419,6 +1640,23 @@
 "from": "2020-12-03",
 "latest": "2020-12-03",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1681"
+},
+{
+"slug": "ue-regulament-1682-2020",
+"path": "ue/regulament/2020/1682",
+"kind": "ue",
+"year": "2020",
+"number": "1682",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2020/1682 al Comisiei din 12 noiembrie 2020 de modificare a anexei III la Regulamentul (CE) nr. 1223/2009 al Parlamentului European și al Consiliului privind produsele cosmetice (Text cu relevanță pentru SEE)",
+"short": "Regulamentul (UE) 2020/1682",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2020-12-03",
+"latest": "2020-12-03",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1682"
 },
 {
 "slug": "ue-regulament-1683-2020",
@@ -1509,6 +1747,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1720"
 },
 {
+"slug": "ue-regulament-1751-2020",
+"path": "ue/regulament/2020/1751",
+"kind": "ue",
+"year": "2020",
+"number": "1751",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2020/1751 al Comisiei din 17 noiembrie 2020 de acordare a protecției în temeiul articolului 99 din Regulamentul (UE) nr. 1308/2013 al Parlamentului European și al Consiliului pentru denumirea „Würzburger Stein-Berg” (DOP)",
+"short": "Regulamentul (UE) 2020/1751",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2020-12-14",
+"latest": "2020-12-14",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1751"
+},
+{
 "slug": "ue-directiva-1756-2020",
 "path": "ue/directiva/2020/1756",
 "kind": "ue",
@@ -1577,6 +1832,26 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1784"
 },
 {
+"slug": "ue-regulament-1785-2020",
+"path": "ue/regulament/2020/1785",
+"kind": "ue",
+"year": "2020",
+"number": "1785",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2020/1785 al Consiliului din 16 noiembrie 2020 privind deschiderea și modul de gestionare a unor contingente tarifare autonome ale Uniunii la importul anumitor produse pescărești în Insulele Canare în perioada 2021-2027",
+"short": "Regulamentul (UE) 2020/1785",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2020-12-04",
+"latest": "2020-12-04",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1785",
+"flags": {
+"end_of_validity": "2027-12-31"
+}
+},
+{
 "slug": "ue-regulament-1819-2020",
 "path": "ue/regulament/2020/1819",
 "kind": "ue",
@@ -1609,6 +1884,26 @@
 "from": "2020-12-24",
 "latest": "2020-12-24",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020L1828"
+},
+{
+"slug": "ue-regulament-1998-2020",
+"path": "ue/regulament/2020/1998",
+"kind": "ue",
+"year": "2020",
+"number": "1998",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2020/1998 din 7 decembrie 2020",
+"short": "Regulamentul (UE) 2020/1998",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2020-12-08",
+"latest": "2020-12-08",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R1998",
+"flags": {
+"text_withheld": "personal_data"
+}
 },
 {
 "slug": "ue-regulament-2004-2020",
@@ -1646,6 +1941,23 @@
 "flags": {
 "end_of_validity": "2022-12-31"
 }
+},
+{
+"slug": "ue-regulament-2011-2020",
+"path": "ue/regulament/2020/2011",
+"kind": "ue",
+"year": "2020",
+"number": "2011",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2020/2011 al Băncii Centrale Europene din 1 decembrie 2020 de modificare a Regulamentului (UE) nr. 1409/2013 alprivind statisticile referitoare la plăți (BCE/2013/43) (BCE/2020/59)",
+"short": "Regulamentul (UE) 2020/2011",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2020-12-31",
+"latest": "2020-12-31",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R2011"
 },
 {
 "slug": "ue-directiva-2020-2020",
@@ -1737,6 +2049,23 @@
 "from": "2021-01-01",
 "latest": "2021-01-01",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R2092"
+},
+{
+"slug": "ue-regulament-2093-2020",
+"path": "ue/regulament/2020/2093",
+"kind": "ue",
+"year": "2020",
+"number": "2093",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE, Euratom) 2020/2093 al Consiliului din 17 decembrie 2020 de stabilire a cadrului financiar multianual pentru perioada 2021-2027",
+"short": "Regulamentul (UE, Euratom) 2020/2093",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2020-12-25",
+"latest": "2020-12-25",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020R2093"
 },
 {
 "slug": "ue-regulament-2094-2020",
