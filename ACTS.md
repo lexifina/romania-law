@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12394 acts, 23,908 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12396 acts, 23,910 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8319, of which 3118 amending acts)
+## Laws (legi) (8320, of which 3119 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -761,6 +761,7 @@
 | Legea nr. 80/2000 privind aprobarea Ordonanţei Guvernului nr. 58/1999 pentru aderarea României la Convenţia privind facilitarea traficului maritim internaţional (FAL), adoptată la Londra la 9 aprilie 1965 de Conferinţa internaţionala privind facilitarea voiajului şi transportului maritim, modificată şi completată prin amendamentele din 1984, 1986, 1989, 1991, 1993 şi 1994 | [`lege/2000/80/`](lege/2000/80/) | amended, not consolidated | 1 | 2000-05-16 | 2000-05-16 |
 | Legea nr. 81/2000 privind respingerea Ordonanţei Guvernului nr. 1/1999 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 82/1997 privind regimul accizelor şi al altor impozite indirecte | [`lege/2000/81/`](lege/2000/81/) | amended, not consolidated | 1 | 2000-05-16 | 2000-05-16 |
 | Legea nr. 83/2000 pentru aprobarea Ordonanţei Guvernului nr. 86/1999 privind ratificarea Memorandumului înţelegere pentru facilitarea transportului rutier internaţional de mărfuri în regiunea SECI, semnat la Atena la 28 aprilie 1999 | [`lege/2000/83/`](lege/2000/83/) | amended, not consolidated | 1 | 2000-05-16 | 2000-05-16 |
+| Legea nr. 84/2000 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 14/1999 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 82/1997 privind regimul accizelor şi al altor impozite indirecte | [`lege/2000/84/`](lege/2000/84/) | amending act | 1 | 2000-05-16 | 2000-05-16 |
 | Legea nr. 85/2000 privind aprobarea Ordonanţei Guvernului nr. 35/1999 pentru prelungirea termenului de aplicare a prevederilor Ordonanţei Guvernului nr. 50/1998 privind aprobarea primei de 200 lei/kg la cumpărarea graului din recolta anului 1998 pentru panificaţie, destinat consumului intern, acordată producătorilor agricoli prin societăţile comerciale de morărit şi/sau de panificaţie | [`lege/2000/85/`](lege/2000/85/) | amended, not consolidated | 1 | 2000-05-18 | 2000-05-18 |
 | Legea nr. 86/2000 | [`lege/2000/86/`](lege/2000/86/) | in force | 1 | 2000-05-22 | 2000-05-22 |
 | Legea nr. 87/2000 pentru ratificarea Protocolului de adaptare a aspectelor instituţionale ale Acordului european instituind o asociere între România, pe de o parte, şi Comunităţile Europene şi statele membre ale acestora, pe de altă parte, pentru a tine seama de aderarea Republicii Austria, Republicii Finlanda şi Regatului Suediei la Uniunea Europeană, semnat la Bruxelles la 28 iunie 1999 | [`lege/2000/87/`](lege/2000/87/) | amended, not consolidated | 1 | 2000-05-22 | 2000-05-22 |
@@ -8357,7 +8358,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (2910, of which 669 amending acts)
+## Emergency ordinances (OUG) (2911, of which 670 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8533,6 +8534,7 @@
 | Ordonanța de urgență a Guvernului nr. 48/2000 privind comasarea Agenţiei Române de Dezvoltare şi a Agenţiei Naţionale pentru Întreprinderi Mici şi Mijlocii cu Agenţia Naţionala pentru Dezvoltare Regionala | [`oug/2000/48/`](oug/2000/48/) | amended, not consolidated | 1 | 2000-05-11 | 2000-05-11 |
 | Ordonanța de urgență a Guvernului nr. 49/2000 privind unele măsuri pentru asanarea financiară a activităţii Băncii Agricole - S.A., în vederea privatizării | [`oug/2000/49/`](oug/2000/49/) | amended, not consolidated | 1 | 2000-05-11 | 2000-05-11 |
 | Ordonanța de urgență a Guvernului nr. 50/2000 pentru abrogarea Ordonanţei de urgenţă a Guvernului nr. 67/1999 privind unele măsuri pentru dezvoltarea activităţii economice | [`oug/2000/50/`](oug/2000/50/) | amended, not consolidated | 1 | 2000-05-12 | 2000-05-12 |
+| Ordonanța de urgență a Guvernului nr. 54/2000 pentru abrogarea unor dispoziţii legale cu privire la contribuţia agenţilor economici la constituirea Fondului asigurărilor sociale ale agricultorilor | [`oug/2000/54/`](oug/2000/54/) | amending act | 1 | 2000-07-01 | 2000-07-01 |
 | Ordonanța de urgență a Guvernului nr. 55/2000 privind regularizarea datoriilor fostei Companii Române de Petrol | [`oug/2000/55/`](oug/2000/55/) | in force | 2 | 2000-05-23 | 2001-07-24 |
 | Ordonanța de urgență a Guvernului nr. 56/2000 pentru completarea art. 41 din Legea bancară nr. 58/1998 | [`oug/2000/56/`](oug/2000/56/) | amended, not consolidated | 1 | 2000-05-23 | 2000-05-23 |
 | Ordonanța de urgență a Guvernului nr. 58/2000 privind unele măsuri pentru întărirea disciplinei salariale şi financiare în regiile autonome, societăţile şi companiile naţionale şi în unele societăţi comerciale cu capital majoritar de stat, în anul 2000 | [`oug/2000/58/`](oug/2000/58/) | amended, not consolidated | 2 | 2000-05-24 | 2000-06-01 |
@@ -12460,7 +12462,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 27713 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 27748 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 12574 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 710 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 550 | [`data/acts/regulament/`](data/acts/regulament/) |

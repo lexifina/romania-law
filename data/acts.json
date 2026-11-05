@@ -12327,6 +12327,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/22330"
 },
 {
+"slug": "legea-84-2000",
+"path": "lege/2000/84",
+"kind": "lege",
+"year": "2000",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 84/2000 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 14/1999 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 82/1997 privind regimul accizelor şi al altor impozite indirecte",
+"short": "Legea nr. 84/2000",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2000-05-16",
+"latest": "2000-05-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/22332"
+},
+{
 "slug": "legea-85-2000",
 "path": "lege/2000/85",
 "kind": "lege",
@@ -144364,6 +144381,23 @@
 "from": "2000-05-12",
 "latest": "2000-05-12",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/22271"
+},
+{
+"slug": "oug-54-2000",
+"path": "oug/2000/54",
+"kind": "oug",
+"year": "2000",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 54/2000 pentru abrogarea unor dispoziţii legale cu privire la contribuţia agenţilor economici la constituirea Fondului asigurărilor sociale ale agricultorilor",
+"short": "OUG nr. 54/2000",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2000-07-01",
+"latest": "2000-07-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/22425"
 },
 {
 "slug": "oug-55-2000",
