@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12506 acts, 24,021 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12510 acts, 24,025 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -11363,7 +11363,7 @@
 | Ordonanța de urgență a Guvernului nr. 37/2026 pentru modificarea şi completarea Legii nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor şi protecţia persoanelor | [`oug/2026/37/`](oug/2026/37/) | amending act | 2 | 2026-05-06 | 2026-06-05 |
 | Ordonanța de urgență a Guvernului nr. 39/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 58/2023 privind unele măsuri pentru acordarea unei prime de carieră didactică pentru personalul didactic şi didactic auxiliar, precum şi unei prime de carieră profesională pentru personalul administrativ din învăţământul de stat, suportate din fonduri externe nerambursabile, precum şi pentru instituirea unor reglementări în vederea gestionării Programului Educaţie şi Ocupare 2021-2027 | [`oug/2026/39/`](oug/2026/39/) | amended, not consolidated | 1 | 2026-05-06 | 2026-05-06 |
 
-## Ordinances (OG) (1018, of which 120 amending acts)
+## Ordinances (OG) (1022, of which 120 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -11538,6 +11538,8 @@
 | Ordonanța Guvernului nr. 86/1998 pentru modificarea şi completarea Ordonanţei Guvernului nr. 23/1995 privind instituirea sistemului de marcare pentru ţigarete, produse din tutun şi băuturi alcoolice | [`og/1998/86/`](og/1998/86/) | amended, not consolidated | 1 | 1998-08-27 | 1998-08-27 |
 | Ordonanța Guvernului nr. 89/1998 pentru modificarea şi completarea Ordonanţei Guvernului nr. 65/1994 privind organizarea activităţii de expertiza contabila şi a contabililor autorizaţi | [`og/1998/89/`](og/1998/89/) | amended, not consolidated | 1 | 1998-08-27 | 1998-08-27 |
 | Ordonanța Guvernului nr. 90/1998 | [`og/1998/90/`](og/1998/90/) | in force | 2 | 1998-08-27 | 1998-11-16 |
+| Ordonanța Guvernului nr. 92/1998 pentru acceptarea de către România a Proiectului celui de-al 4-lea Amendament la Statutul Fondului Monetar Internaţional, aprobat prin Rezoluţia Consiliului Guvernatorilor nr. 52-4 din 23 septembrie 1997 | [`og/1998/92/`](og/1998/92/) | in force | 1 | 1998-08-28 | 1998-08-28 |
+| Ordonanța Guvernului nr. 93/1998 privind înlocuirea şi împrospătarea unor produse petroliere din rezervele de mobilizare ale armatei | [`og/1998/93/`](og/1998/93/) | in force | 1 | 1998-08-27 | 1998-08-27 |
 | Ordonanța Guvernului nr. 94/1998 pentru modificarea anexelor nr. 1 şi 2 la Legea telecomunicaţiilor nr. 74/1996 | [`og/1998/94/`](og/1998/94/) | amended, not consolidated | 1 | 1998-08-28 | 1998-08-28 |
 | Ordonanța Guvernului nr. 95/1998 | [`og/1998/95/`](og/1998/95/) | in force | 9 | 1998-09-27 | 2024-04-24 |
 | Ordonanța Guvernului nr. 96/1998 | [`og/1998/96/`](og/1998/96/) | in force | 7 | 1998-10-27 | 2005-06-23 |
@@ -11548,6 +11550,8 @@
 | Ordonanța Guvernului nr. 104/1998 pentru modificarea Legii sanitare veterinare nr. 60/1974 | [`og/1998/104/`](og/1998/104/) | amended, not consolidated | 1 | 1998-08-28 | 1998-08-28 |
 | Ordonanța Guvernului nr. 108/1998 pentru modificarea anexei la Legea nr. 157/1998 pentru ratificarea Acordului de împrumut dintre România şi Fondul pentru Cooperarea Economică Internaţionala, Japonia, privind Proiectul de dezvoltare a Portului Constanţa-Sud, semnat la Tokyo la 27 februarie 1998 | [`og/1998/108/`](og/1998/108/) | amended, not consolidated | 1 | 1998-08-29 | 1998-08-29 |
 | Ordonanța Guvernului nr. 109/1998 pentru modificarea anexei la Legea nr. 156/1998 pentru ratificarea Acordului de împrumut dintre România şi Fondul pentru Cooperarea Economică Internaţională, Japonia, privind Proiectul de reabilitare a drumurilor, semnat la Tokyo la 27 februarie 1998 | [`og/1998/109/`](og/1998/109/) | amended, not consolidated | 1 | 1998-08-29 | 1998-08-29 |
+| Ordonanța Guvernului nr. 110/1998 pentru ratificarea Convenţiei privind înfiinţarea Biroului European de Telecomunicaţii (ETO), adoptată la Copenhaga la 1 septembrie 1996 | [`og/1998/110/`](og/1998/110/) | in force | 1 | 1998-08-29 | 1998-08-29 |
+| Ordonanța Guvernului nr. 114/1998 pentru ratificarea Acordului de cooperare financiară dintre Guvernul României şi Banca Nordica de Investiţii, semnat la Bucureşti la 26 august 1998 | [`og/1998/114/`](og/1998/114/) | in force | 1 | 1998-08-29 | 1998-08-29 |
 | Ordonanța Guvernului nr. 116/1998 privind instituirea regimului special pentru activitatea de transport maritim internaţional | [`og/1998/116/`](og/1998/116/) | amended, not consolidated | 1 | 1998-10-28 | 1998-10-28 |
 | Ordonanța Guvernului nr. 117/1998 pentru modificarea anexei la Ordonanţa de urgenţă a Guvernului nr. 7/1998 privind preţurile şi tarifele produselor şi serviciilor care se executa sau se prestează în ţara în cadrul activităţilor cu caracter de monopol natural, al celor supuse prin lege unui regim special sau al regiilor autonome, care se stabilesc cu avizul Oficiului Concurentei | [`og/1998/117/`](og/1998/117/) | amended, not consolidated | 1 | 1998-08-29 | 1998-08-29 |
 | Ordonanța Guvernului nr. 118/1998 privind afilierea Ministerului Apărării Naţionale al României, ca membru asociat, la Consiliul Internaţional al Sportului Militar şi plata cotizaţiei anuale | [`og/1998/118/`](og/1998/118/) | in force | 1 | 1998-08-29 | 1998-08-29 |
@@ -12572,7 +12576,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 28821 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 28822 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |

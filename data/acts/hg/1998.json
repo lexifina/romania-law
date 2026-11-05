@@ -1040,6 +1040,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/15580"
 },
 {
+"slug": "hg-527-1998",
+"path": "hg/1998/527",
+"kind": "hg",
+"year": "1998",
+"number": "527",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 527/1998 privind modificarea anexei la Hotărârea Guvernului nr. 898/1997 privind alocarea din Fondul special de dezvoltare aflat la dispoziţia Guvernului a sumei de 50.475 milioane lei pentru finanţarea investiţiei \"Turnătoria de tuburi de presiune din fonta ductila la Societatea Comercială &lt;&lt;Sidermet&gt;&gt; - S.A. Călan, judeţul Hunedoara\"",
+"short": "HG nr. 527/1998",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1998-09-01",
+"latest": "1998-09-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/15561"
+},
+{
 "slug": "hg-528-1998",
 "path": "hg/1998/528",
 "kind": "hg",

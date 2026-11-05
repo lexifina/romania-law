@@ -201044,6 +201044,21 @@
    ]
   },
   {
+   "slug": "og-110-1998",
+   "path": "og/1998/110",
+   "short": "OG nr. 110/1998",
+   "title": "Ordonanța Guvernului nr. 110/1998 pentru ratificarea Convenţiei privind înfiinţarea Biroului European de Telecomunicaţii (ETO), adoptată la Copenhaga la 1 septembrie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15542",
+   "versions": [
+    {
+     "from": "1998-08-29",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15542",
+     "sha256": "f05bf1557734b9d2c931bfd041faf6976d852d9a9385807b1e3b410b4b180626"
+    }
+   ]
+  },
+  {
    "slug": "og-110-1999",
    "path": "og/1999/110",
    "short": "OG nr. 110/1999",
@@ -201115,6 +201130,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24083",
      "sha256": "83791a74d462892be6ee8449efb74c966431f04076926d0f71aa2e82b505ac4d"
+    }
+   ]
+  },
+  {
+   "slug": "og-114-1998",
+   "path": "og/1998/114",
+   "short": "OG nr. 114/1998",
+   "title": "Ordonanța Guvernului nr. 114/1998 pentru ratificarea Acordului de cooperare financiară dintre Guvernul României şi Banca Nordica de Investiţii, semnat la Bucureşti la 26 august 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15559",
+   "versions": [
+    {
+     "from": "1998-08-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15559",
+     "sha256": "fe534ed18ad0e49619d7a11bebc7bbb9f43a159225d5a4817ee5eba924b2db37"
     }
    ]
   },
@@ -213533,6 +213563,21 @@
    ]
   },
   {
+   "slug": "og-92-1998",
+   "path": "og/1998/92",
+   "short": "OG nr. 92/1998",
+   "title": "Ordonanța Guvernului nr. 92/1998 pentru acceptarea de către România a Proiectului celui de-al 4-lea Amendament la Statutul Fondului Monetar Internaţional, aprobat prin Rezoluţia Consiliului Guvernatorilor nr. 52-4 din 23 septembrie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15510",
+   "versions": [
+    {
+     "from": "1998-08-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15510",
+     "sha256": "461296d0345d5b8385207b6e1bd25e75217771ac43de677d62d372142f5541a8"
+    }
+   ]
+  },
+  {
    "slug": "og-92-1999",
    "path": "og/1999/92",
    "short": "OG nr. 92/1999",
@@ -213544,6 +213589,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19131",
      "sha256": "3ab9e2910fb913bf8dfeece6b1be2fd7358234ecdcc5260f2739ef129d920725"
+    }
+   ]
+  },
+  {
+   "slug": "og-93-1998",
+   "path": "og/1998/93",
+   "short": "OG nr. 93/1998",
+   "title": "Ordonanța Guvernului nr. 93/1998 privind înlocuirea şi împrospătarea unor produse petroliere din rezervele de mobilizare ale armatei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15506",
+   "versions": [
+    {
+     "from": "1998-08-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15506",
+     "sha256": "ff9d5a23c6abf0164c083d769c202b92fcfbee6ff5f8f83ea60dbcc34ac94baa"
     }
    ]
   },
