@@ -24,6 +24,14 @@ https://github.com/user-attachments/assets/3f47ad88-f514-4765-97e3-ff67ed8f79b4
 
 An AI assistant answering a question about Romanian law through the MCP: the answer cites the exact article and version in this repository, with the official links.
 
+### Romanian law, drawn
+
+Thirty charts drawn from this repository: who makes Romanian law, how the codes and the Fiscal Code change, the Constitutional Court, the Official Gazette, and Romania against its neighbours and the rest of global law. See [visualisations/](visualisations/) for every chart and the interactive pages.
+
+![The government writes four acts for every law Parliament passes](https://raw.githubusercontent.com/lexifina/global-law/main/visualisations/stills/romanian-law-drawn-01-the-government-writes-four-acts-for-every-law-parl.png)
+
+![An emergency ordinance applies at once. Parliament takes a median of 319 days to rule on it](https://raw.githubusercontent.com/lexifina/global-law/main/visualisations/stills/romanian-law-drawn-03-an-emergency-ordinance-applies-at-once-parliament-.png)
+
 ## Layout
 
 | Where | What |
