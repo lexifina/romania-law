@@ -1,0 +1,270 @@
+{
+"country": "RO",
+"shard": "local/judet/botosani/2017",
+"acts": [
+{
+"slug": "hcj-botosani-30-2017",
+"path": "local/judet/botosani/2017/30",
+"kind": "local",
+"year": "2017",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 30/2017 privind modificarea şi completarea Regulamentului de organizare şi funcţionare al aparatului de specialitate al Consiliului Judeţean Botoşani",
+"short": "HCJ Botoșani nr. 30/2017",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2017-02-23",
+"latest": "2017-02-23",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-62-2017",
+"path": "local/judet/botosani/2017/62",
+"kind": "local",
+"year": "2017",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 62/2017 privind aprobarea Programului anual pentru acordarea de finanţări nerambursabile pe anul 2017 şi a Regulamentului privind regimul finanţărilor nerambursabile alocate din fonduri ale bugetului Judeţului Botoşani pentru activităţi non-profit de interes judeţean",
+"short": "HCJ Botoșani nr. 62/2017",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2017-04-27",
+"latest": "2017-04-27",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-63-2017",
+"path": "local/judet/botosani/2017/63",
+"kind": "local",
+"year": "2017",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 63/2017 privind aprobarea Regulamentului privind regimul finanţărilor nerambursabile alocate din fonduri ale bugetului Judeţului Botoşani pentru activităţile de tineret pentru anul 2017",
+"short": "HCJ Botoșani nr. 63/2017",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2017-04-27",
+"latest": "2017-04-27",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-172-2017",
+"path": "local/judet/botosani/2017/172",
+"kind": "local",
+"year": "2017",
+"number": "172",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 172/2017 privind aprobarea tarifelor pentru eliberarea licenţelor de traseu în vederea efectuării transportului public judeţean de persoane prin curse regulate speciale, pentru anul 2018",
+"short": "HCJ Botoșani nr. 172/2017",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2017-11-24",
+"latest": "2017-11-24",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-173-2017",
+"path": "local/judet/botosani/2017/173",
+"kind": "local",
+"year": "2017",
+"number": "173",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 173/2017 privind aprobarea tarifelor practicate de Orchestra Populară „Rapsozii Botoşanilor”, pentru serviciile prestate în anul 2018",
+"short": "HCJ Botoșani nr. 173/2017",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2017-11-24",
+"latest": "2017-11-24",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-174-2017",
+"path": "local/judet/botosani/2017/174",
+"kind": "local",
+"year": "2017",
+"number": "174",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 174/2017 privind aprobarea tarifelor practicate de Muzeul Judeţean Botoşani, pentru serviciile prestate, în anul 2018",
+"short": "HCJ Botoșani nr. 174/2017",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2017-11-24",
+"latest": "2017-11-24",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-175-2017",
+"path": "local/judet/botosani/2017/175",
+"kind": "local",
+"year": "2017",
+"number": "175",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 175/2017 privind stabilirea tarifelor pentru serviciile prestate de Centrul Judeţean pentru Conservarea şi Promovarea Culturii Tradiţionale Botoşani, pentru anul 2018",
+"short": "HCJ Botoșani nr. 175/2017",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2017-11-24",
+"latest": "2017-11-24",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-176-2017",
+"path": "local/judet/botosani/2017/176",
+"kind": "local",
+"year": "2017",
+"number": "176",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 176/2017 privind aprobarea tarifelor pentru serviciile prestate de Memorialul Ipoteşti – Centrul Naţional de Studii „Mihai Eminescu” pentru anul 2018",
+"short": "HCJ Botoșani nr. 176/2017",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2017-11-24",
+"latest": "2017-11-24",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-177-2017",
+"path": "local/judet/botosani/2017/177",
+"kind": "local",
+"year": "2017",
+"number": "177",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 177/2017 privind aprobarea tarifelor pentru serviciile prestate de Şcoala Populară de Arte şi Meserii Botoşani pentru anul 2018",
+"short": "HCJ Botoșani nr. 177/2017",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2017-11-24",
+"latest": "2017-11-24",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-178-2017",
+"path": "local/judet/botosani/2017/178",
+"kind": "local",
+"year": "2017",
+"number": "178",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 178/2017 privind aprobarea unor tarife pentru drumurile publice administrate de către Direcţia Judeţeană de Drumuri şi Poduri Botoşani, pentru anul 2018",
+"short": "HCJ Botoșani nr. 178/2017",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2017-11-24",
+"latest": "2017-11-24",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-191-2017",
+"path": "local/judet/botosani/2017/191",
+"kind": "local",
+"year": "2017",
+"number": "191",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 191/2017 privind acordarea unui mandat special reprezentantului Județului Botoșani în Adunarea Generală a Asociaților “AQUA BOTOȘANI” pentru aprobarea modificării prețurilor și tarifelor la serviciile publice de alimentare cu apă potabilă și de canalizare – epurare propuse de Operatorul Regional – S",
+"short": "HCJ Botoșani nr. 191/2017",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2017-12-08",
+"latest": "2017-12-08",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-193-2017",
+"path": "local/judet/botosani/2017/193",
+"kind": "local",
+"year": "2017",
+"number": "193",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 193/2017 privind aprobarea prețurilor medii ale produselor agricole pentru anul 2018",
+"short": "HCJ Botoșani nr. 193/2017",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2017-12-21",
+"latest": "2017-12-21",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

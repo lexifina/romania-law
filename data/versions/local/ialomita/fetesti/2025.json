@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/ialomita/fetesti/2025",
+ "acts": [
+  {
+   "slug": "hcl-ialomita--fetesti-155-2025",
+   "path": "local/ialomita/fetesti/2025/155",
+   "short": "HCL Fetești nr. 155/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 155/2025 privind aprobarea Regulamentului de conviețuire socială în municipiul Fetești",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/238704",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/84738/Anexa.pdf",
+     "sha256": "50a7dd65b3decd1301c04deb1b669794f24821f4d6cb21be75f65b89f84b6767"
+    }
+   ]
+  }
+ ]
+}

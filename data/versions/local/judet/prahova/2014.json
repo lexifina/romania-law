@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/judet/prahova/2014",
+ "acts": [
+  {
+   "slug": "hcj-prahova-176-2014",
+   "path": "local/judet/prahova/2014/176",
+   "short": "HCJ Prahova nr. 176/2014",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 176/2014 privind stabilirea taxelor în domeniul construcțiilor, aplicabile în anul fiscal 2015",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-12-15",
+     "units": 3,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-176-din-data-2014-12-15.pdf",
+     "sha256": "358b8ec7ec1690f50ad10587f90fee7578ba1bd492ef1149449af4c605735ecb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-40-2014",
+   "path": "local/judet/prahova/2014/40",
+   "short": "HCJ Prahova nr. 40/2014",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 40/2014 privind aprobarea tarifelor pentru serviciul de transport public judeţean de persoane prin curse regulate",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2014/?dpage=14",
+   "versions": [
+    {
+     "from": "2014-04-24",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-040-din-data-2014-04-24.pdf",
+     "sha256": "c21cd5ebca1637ed88502ee0a3b92ab45369f667d8253a4a18426a3b5941c01f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-94-2014",
+   "path": "local/judet/prahova/2014/94",
+   "short": "HCJ Prahova nr. 94/2014",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 94/2014 privind actualizarea caietului de sarcini al serviciului de transport public judeţean de persoane prin curse regulate",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2014/?dpage=12",
+   "versions": [
+    {
+     "from": "2014-08-04",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-094-din-data-2014-08-04.pdf",
+     "sha256": "a7620820725d2c46f4d9631ac9ec23a1971cd954738d82bd0963f081f8c57015"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-99-2014",
+   "path": "local/judet/prahova/2014/99",
+   "short": "HCJ Prahova nr. 99/2014",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 99/2014 privind modificarea anexei la Hotărârea nr. 2/2014 a Consiliului judeţean Prahova referitoare la stabilirea preţurilor medii ale produselor agricole pentru anul fiscal 2014",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2014/?dpage=8",
+   "versions": [
+    {
+     "from": "2014-08-04",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-099-din-data-2014-08-04.pdf",
+     "sha256": "893528b2f6448703099964d14eaab26a6592b64d7985be80b5bf74f9b619a5da"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,21 @@
  "shard": "local/suceava/campulung-moldovenesc/2015",
  "acts": [
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-120-2015",
+   "path": "local/suceava/campulung-moldovenesc/2015/120",
+   "short": "HCL Câmpulung Moldovenesc nr. 120/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 120/2015 cu privire la stabilirea impozitelor și taxelor locale pentru anul 2016 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința extraordinară din data de 6 noiembrie 2015; Având în vedere: -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc înregistrată la nr. 22563 din 02.11.2015; -Raportul Direcției economice înregistrat la nr. 22567 din 02.11.2015; -Rapoartel",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2015",
+   "versions": [
+    {
+     "from": "2015-11-06",
+     "units": 8,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_120_2015.pdf",
+     "sha256": "5baed82b63c5bd0f6b8b17573db78b6ec10043bcc2a71fd91468f04d84d61297"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-127-2015",
    "path": "local/suceava/campulung-moldovenesc/2015/127",
    "short": "HCL Câmpulung Moldovenesc nr. 127/2015",
@@ -239,6 +254,96 @@
      "units": 1,
      "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_142_2015.pdf",
      "sha256": "6d705483e48089414ec90ef72e1946901c2de859d0a3d8968d3158272517e4c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-19-2015",
+   "path": "local/suceava/campulung-moldovenesc/2015/19",
+   "short": "HCL Câmpulung Moldovenesc nr. 19/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 19/2015 pentru aprobarea Regulamentului privind regimul finanțărilor nerambursabile din fondurile bugetului local al municipiului Câmpulung Moldovenesc alocate pentru activități nonprofit de interes local și a unor măsuri pentru punerea în aplicare a acestuia Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 26 februarie 2015; Având în vedere: -Expunerea de mo",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p8?an=2015",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_019_2015.pdf",
+     "sha256": "f8c2a9a1ed87e31ba6d1dd50b90a9fef3eacf697519028d7f3df40ea6165fb12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-24-2015",
+   "path": "local/suceava/campulung-moldovenesc/2015/24",
+   "short": "HCL Câmpulung Moldovenesc nr. 24/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 24/2015 cu privire la aprobarea cererilor de înlesnire la plata impozitelor, taxelor și a unor majorări de întârziere Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinarã din data de 26 martie 2015; Având în vedere: -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc înregistrată la nr. 5129 din 11.03.2015; -Raportul Direcției economice, înregistrat la nr. 5",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p8?an=2015",
+   "versions": [
+    {
+     "from": "2015-03-26",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_024_2015.pdf",
+     "sha256": "a340821147585baa8f9e172022f02156a834d051ef9f54310b047821658e86cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-40-2015",
+   "path": "local/suceava/campulung-moldovenesc/2015/40",
+   "short": "HCL Câmpulung Moldovenesc nr. 40/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 40/2015 cu privire la întreținerea și folosirea construcțiilor, inclusiv drumuri, poduri sau amenajări de albii ale râurilor, activitățile de întreținere și curățenie a localității, activități comerciale, protecția mediului, conviețuirea socială, ordinea și liniștea publică și traficul rutier în municipiul Câmpulung Moldovenesc Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ord",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2015",
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 4,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_040_2015.pdf",
+     "sha256": "861434a39d7698b19c33a802075887a97fe66345707f8423196a18d2d52313aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-53-2015",
+   "path": "local/suceava/campulung-moldovenesc/2015/53",
+   "short": "HCL Câmpulung Moldovenesc nr. 53/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 53/2015 privind stabilirea taxei pentru eliberarea atestatelor de producător și a taxei de viză semestrială a acestora în anul 2015 Consiliul Local al municipiului Câmpulung Moldovenesc întrunit în ședința ordinară din data de 28 mai 2015; Având în vedere: -Expunerea de motive a primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 8808/2015; -Raportul comun al Direcției economice și Comparti",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2015",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 4,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_053_2015.pdf",
+     "sha256": "4bfb05193f1e1ac6110b5d6f288616999f4fa6808231bf4d6886313006e8bb31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-66-2015",
+   "path": "local/suceava/campulung-moldovenesc/2015/66",
+   "short": "HCL Câmpulung Moldovenesc nr. 66/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 66/2015 cu privire la aprobarea cererilor de înlesnire la plata impozitelor, taxelor și a unor majorări de întârziere Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 25 iunie 2015; Având în vedere: -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 11970/2015; -Raportul Direcției economice , înregistrat la nr. 11971/2015; -Rapo",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2015",
+   "versions": [
+    {
+     "from": "2015-06-25",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_066_2015.pdf",
+     "sha256": "2a45da64979c84b9c068c9e9e09e0fdeac2ac8f5ee7c6dd8cf93db093956ef60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-79-2015",
+   "path": "local/suceava/campulung-moldovenesc/2015/79",
+   "short": "HCL Câmpulung Moldovenesc nr. 79/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 79/2015 cu privire la aprobarea cererilor de înlesnire la plata impozitelor, taxelor și a unor majorări de întârziere Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 30 iulie 2015; Având în vedere: - Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 14274/2015; - Raportul Direcției economice , înregistrat la nr. 14275/2015; - R",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2015",
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_079_2015.pdf",
+     "sha256": "5470879284f53289f0bc49776e6ce1457a258f25df381115cfda2eb14c38af95"
     }
    ]
   }

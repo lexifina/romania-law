@@ -1,0 +1,276 @@
+{
+ "country": "RO",
+ "shard": "local/judet/salaj/1999",
+ "acts": [
+  {
+   "slug": "hcj-salaj-10-1999",
+   "path": "local/judet/salaj/1999/10",
+   "short": "HCJ Sălaj nr. 10/1999",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 10/1999 privind stabilirea impozitului forfetar trimestrial pentru contribualii care desfasoara exclusiv activitate de comert ambulant si in puncte volante, carausii cu mijloace de transport cu tractiune animala si meseriasii ambulanti, pe anul 1999",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=115:hotarari-1999&catid=2",
+   "versions": [
+    {
+     "from": "1999-02-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari1999/hot101999.pdf",
+     "sha256": "59c0a36abb287f5920e6f429c40de9f1752a27a62c03a2f6117fc16452f6c918"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-11-1999",
+   "path": "local/judet/salaj/1999/11",
+   "short": "HCJ Sălaj nr. 11/1999",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 11/1999 privind stabilirea normelor anuale de venit pentru impunerea meseriasilor care presteaza servicii sau executa lucrari in mod singular sau in asociatii familiale, in ateliere stabile pentru anul 1999",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=115:hotarari-1999&catid=2",
+   "versions": [
+    {
+     "from": "1999-02-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari1999/hot111999.pdf",
+     "sha256": "1d7971f8547675239611ba7350e052b9f1495f2d99ba77c18503a3576744e5c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-12-1999",
+   "path": "local/judet/salaj/1999/12",
+   "short": "HCJ Sălaj nr. 12/1999",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 12/1999 privind modificarea Anexei nr.1 la Hotararea Consiliului Judetean nr.35 din 06.08.1997, privind stabilirea unor taxe judetene",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=115:hotarari-1999&catid=2",
+   "versions": [
+    {
+     "from": "1999-02-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari1999/hot121999.pdf",
+     "sha256": "727a37add34d54ecb4c8b2badecaaa45f536d910a66b634e41d1d5b6e7345cf0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-13-1999",
+   "path": "local/judet/salaj/1999/13",
+   "short": "HCJ Sălaj nr. 13/1999",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 13/1999 privind modificarea Anexelor 1 si 2 la Hotararea nr. 51 din 2 februarie 1998 a Consiliului Judetean Salaj, privind instituirea unor taxe judetene",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=115:hotarari-1999&catid=2",
+   "versions": [
+    {
+     "from": "1999-02-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari1999/hot131999.pdf",
+     "sha256": "affac7f94df7f03de54c66f5122c3229c877877a733701210e34eeae989528d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-19-1999",
+   "path": "local/judet/salaj/1999/19",
+   "short": "HCJ Sălaj nr. 19/1999",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 19/1999 privind aprobarea regulamentului de functionare a Consiliului Judetean Salaj, modificat si completat",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=115:hotarari-1999&catid=2",
+   "versions": [
+    {
+     "from": "1999-04-08",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari1999/hot191999.pdf",
+     "sha256": "e0e8558476c33647d1843625850cfa0b736d0c7ad4f1a647d5c36aab776d9161"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-21-1999",
+   "path": "local/judet/salaj/1999/21",
+   "short": "HCJ Sălaj nr. 21/1999",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 21/1999 privind aprobarea regulamentului de functionare a Comisiei pentru protectia copilului Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=115:hotarari-1999&catid=2",
+   "versions": [
+    {
+     "from": "1999-04-08",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari1999/hot211999.pdf",
+     "sha256": "26f4508d800b7c3edd323d82e06e968345f7b8a9af6645953b2404b34396c5ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-26-1999",
+   "path": "local/judet/salaj/1999/26",
+   "short": "HCJ Sălaj nr. 26/1999",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 26/1999 privind esalonarea la plata a impozitului pe profit datorat de S.C",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=115:hotarari-1999&catid=2",
+   "versions": [
+    {
+     "from": "1999-04-08",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari1999/hot261999.pdf",
+     "sha256": "48462b5c931cb2c6569e8004fa4de58f93aff5842ac56bd0f76e99c4fcdd42ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-27-1999",
+   "path": "local/judet/salaj/1999/27",
+   "short": "HCJ Sălaj nr. 27/1999",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 27/1999 privind amanarea si esalonarea la plata a sumei de 256.064.715 lei, reprezentand impozitul pe profit aferent trim.4.1998, datorat de S.C",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=115:hotarari-1999&catid=2",
+   "versions": [
+    {
+     "from": "1999-04-08",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari1999/hot271999.pdf",
+     "sha256": "e418a7bc461348ee2d130bb5032d3d77a88a6950a10345d6f5b14be68f13ca0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-36-1999",
+   "path": "local/judet/salaj/1999/36",
+   "short": "HCJ Sălaj nr. 36/1999",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 36/1999 privind amanarea la plata a sumei de 496.999.877 lei, reprezentand impozitul pe profit aferent trim. I 1999, datorat de S.C",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=115:hotarari-1999&catid=2",
+   "versions": [
+    {
+     "from": "1999-06-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari1999/hot361999.pdf",
+     "sha256": "a6d54c3a4688b99ed1668a98d1c662279e26b51e6d213992170cb629bdab44ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-43-1999",
+   "path": "local/judet/salaj/1999/43",
+   "short": "HCJ Sălaj nr. 43/1999",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 43/1999 privind aprobarea instituirii unei taxe speciale in cuantum de 250 lei/m.c. de apa livrata de catre S.C",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=115:hotarari-1999&catid=2",
+   "versions": [
+    {
+     "from": "1999-06-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari1999/hot431999.pdf",
+     "sha256": "cc62801d60068e04cd069aa162fdda20c1b2d597337c7bb36a0982bcbce0bb6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-48-1999",
+   "path": "local/judet/salaj/1999/48",
+   "short": "HCJ Sălaj nr. 48/1999",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 48/1999 privind constituirea Comisiei tehnice de urbanism si amenajarea teritoriului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=115:hotarari-1999&catid=2",
+   "versions": [
+    {
+     "from": "1999-07-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari1999/hot481999.pdf",
+     "sha256": "20643bd22feaad202a91e0961bc7fa5c8e494b23c2c1f21c664835dfddcb1776"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-51-1999",
+   "path": "local/judet/salaj/1999/51",
+   "short": "HCJ Sălaj nr. 51/1999",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 51/1999 privind unele masuri pentru imbunatatirea activitatii de intretinere si administrare a drumurilor judetene",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=115:hotarari-1999&catid=2",
+   "versions": [
+    {
+     "from": "1999-08-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari1999/hot511999.pdf",
+     "sha256": "06979e2cc20d96367f041d4a2b0ab2d5e66fbf724adc33582f129b05e8cc056c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-55-1999",
+   "path": "local/judet/salaj/1999/55",
+   "short": "HCJ Sălaj nr. 55/1999",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 55/1999 privind aprobarea tarifelor pentru activitatea de dirigentare a lucrarilor de pietruiri drumuri de pamant",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=115:hotarari-1999&catid=2",
+   "versions": [
+    {
+     "from": "1999-08-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari1999/hot551999.pdf",
+     "sha256": "ca78c1dc4a4a53d0e15b8bb7ccd7dc87369d05d5a532a36b631cc948fce7c57f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-65-1999",
+   "path": "local/judet/salaj/1999/65",
+   "short": "HCJ Sălaj nr. 65/1999",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 65/1999 privind aprobarea esalonarii la plata a sumei de 1.190.000 mii lei, reprezentand taxe de autorizare in domeniul constructiilor si scutirea la plata a majorarilor de intarziere pentru neplata in termen a acestor taxe, in suma de 104.108.474 lei",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=115:hotarari-1999&catid=2",
+   "versions": [
+    {
+     "from": "1999-10-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari1999/hot651999.pdf",
+     "sha256": "d184d52d4655e0cd8e60e6c92252bc2d3b81816de906bbc4136a9443d978649d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-70-1999",
+   "path": "local/judet/salaj/1999/70",
+   "short": "HCJ Sălaj nr. 70/1999",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 70/1999 privind indexarea taxelor si tarifelor stabilite de",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=115:hotarari-1999&catid=2",
+   "versions": [
+    {
+     "from": "1999-11-19",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari1999/hot701999.pdf",
+     "sha256": "f13df1ffa1a6cbf3b72e3814ccd6029acaf36e3f1e6070a1bbe984dde9d30284"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-72-1999",
+   "path": "local/judet/salaj/1999/72",
+   "short": "HCJ Sălaj nr. 72/1999",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 72/1999 privind amanarea la plata a taxei pentru autorizatia de constructie la investitia \"Infiintarea distributiei de gaze naturale in comuna Somes-Odorhei\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=115:hotarari-1999&catid=2",
+   "versions": [
+    {
+     "from": "1999-11-19",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari1999/hot721999.pdf",
+     "sha256": "f1f54a203e3286847533a9fa10689c321a73015b7b0ce929f5a1dff7bfd583ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-74-1999",
+   "path": "local/judet/salaj/1999/74",
+   "short": "HCJ Sălaj nr. 74/1999",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 74/1999 privind stabilirea normelor anuale de venit pentru impunerea contribuabililor care desfasoara activitati independente intr-un punct fix sau ambulant pentru anul 2000",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=115:hotarari-1999&catid=2",
+   "versions": [
+    {
+     "from": "1999-12-20",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari1999/hot741999.pdf",
+     "sha256": "7ddda962b91f45230ca1d84a9ba82624545e7e74f1a2e9d4d7786532a04d1ad6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-75-1999",
+   "path": "local/judet/salaj/1999/75",
+   "short": "HCJ Sălaj nr. 75/1999",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 75/1999",
+   "url": null,
+   "versions": [
+    {
+     "from": "1999-12-20",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari1999/hot751999.pdf",
+     "sha256": "f9473ff40f16c0777f0c2032d019e70126242b0c2e1a1f0725d43e89db4fd507"
+    }
+   ]
+  }
+ ]
+}

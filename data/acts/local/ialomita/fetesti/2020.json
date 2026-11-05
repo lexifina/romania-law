@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/ialomita/fetesti/2020",
+"acts": [
+{
+"slug": "hcl-ialomita--fetesti-47-2020",
+"path": "local/ialomita/fetesti/2020/47",
+"kind": "local",
+"year": "2020",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 47/2020 privind aprobarea Programului anual de finanțare nerambursabilă de la bugetul local al Municipiului Fetești pentru activitățile nonprofit de interes general aferent anului 2020",
+"short": "HCL Fetești nr. 47/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-03-12",
+"latest": "2020-03-12",
+"portal": "https://emol.ro/fetesti-il/registru-hcl/2308",
+"council": "ialomita/fetesti",
+"council_name": "Consiliul Local al Municipiului Fetești",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

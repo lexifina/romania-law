@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcj-bihor-105-2024",
+   "path": "local/judet/bihor/2024/105",
+   "short": "HCJ Bihor nr. 105/2024",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 105/2024 PRIVIND MODIFICAREA ȘI COMPLETAREA HOTĂRÂRII CONSILIULUI JUDEȚEAN BIHOR NR. 84/2023 PRIVIND APROBAREA TARIFELOR PRACTICATE DE OPERATORII DE TRANSPORT DECLARAȚI CÂȘTIGĂTORI AI PROCEDURII DE ATRIBUIRE A SERVICIULUI PUBLIC DE TRANSPORT JUDEȚEAN PRIN CURSE REGULATE LA",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2024/",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2021/02/h-105-din-26.04.2024_Redacted.pdf",
+     "sha256": "3fd7d450686ace15c2c187d6a41afe2b636847ff1d37c80b206be9b97a036e5c"
+    }
+   ]
+  },
+  {
    "slug": "hcj-bihor-137-2024",
    "path": "local/judet/bihor/2024/137",
    "short": "HCJ Bihor nr. 137/2024",
@@ -2924,6 +2939,66 @@
      "units": 1,
      "source_url": "https://www.cjbihor.ro/wp-content/uploads/2025/01/h-350-din-18.12.2024_Redacted.pdf",
      "sha256": "c98e44bf9f6259ab3812c09c0a3368fb5b4166bb64bbd33afad85093581098ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-67-2024",
+   "path": "local/judet/bihor/2024/67",
+   "short": "HCJ Bihor nr. 67/2024",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 67/2024 PRIVIND APROBAREA REZULTATULUI FINAL AL PROCEDURII ORGANIZATĂ PENTRU IMPUNEREA UNEI OBLIGAȚII DE SERVICIU PUBLIC ÎN CEEA CE PRIVEȘTE SERVICIILE AERIENE REGULATE ÎNTRE AEROPORTUL DIN ORADEA ȘI AEROPORTURILE DIN VARȘOVIA, CONFORM ART. 16 ȘI ART. 17 DIN REGULAMENTUL (C",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2024/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2024/04/h-67-din-27.03.2024_Redacted.pdf",
+     "sha256": "d8488d2499babaa0961dc658e441695869a51b21b3a41c1b4642a9413094da4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-71-2024",
+   "path": "local/judet/bihor/2024/71",
+   "short": "HCJ Bihor nr. 71/2024",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 71/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2024/04/h-71-din-27.03.2024_Redacted.pdf",
+     "sha256": "d2f9056aab2b780978d54d437f3d600d502af7eae8edaa8a65861165cc184020"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-72-2024",
+   "path": "local/judet/bihor/2024/72",
+   "short": "HCJ Bihor nr. 72/2024",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 72/2024 PRIVIND APROBAREA REGULAMENTULUI DE ACORDARE A FINANȚĂRILOR NERAMBURSABILE CONFORM LEGII NR. 350/2005, DIN BUGETUL JUDEȚULUI BIHOR",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2024/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2024/04/h-72-din-27.03.2024_Redacted.pdf",
+     "sha256": "438444f716206d3fa34b474d786ba5b60fcc7bfecd06afd1644b50d6700365f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-99-2024",
+   "path": "local/judet/bihor/2024/99",
+   "short": "HCJ Bihor nr. 99/2024",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 99/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2021/02/h-99-din-26.04.2024_Redacted.pdf",
+     "sha256": "337185d8295ed2df6ce3fc4d21501a5969afb0aa2c1d5766ca92e1f9b8a90e4f"
     }
    ]
   }

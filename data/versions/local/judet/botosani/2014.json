@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/judet/botosani/2014",
+ "acts": [
+  {
+   "slug": "hcj-botosani-112-2014",
+   "path": "local/judet/botosani/2014/112",
+   "short": "HCJ Botoșani nr. 112/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 112/2014 privind aprobarea Caietului de obiective, Regulamentului de organizare şi desfăşurare a concursului de management, condiţiilor de participare la concurs şi bibliografiei pentru postul de manager la Muzeul Judeţean Botoşani, instituţie publică de cultură din subordinea Consiliului Judeţean B",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-10-16",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h112_16.10.2014.pdf",
+     "sha256": "fb281f0f8f68506cfb61f503ffdb8cd73ff3d83b5865ad4cdd0d41652a7f3d1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-149-2014",
+   "path": "local/judet/botosani/2014/149",
+   "short": "HCJ Botoșani nr. 149/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 149/2014 privind aprobarea tarifelor pentru eliberarea licenţelor de traseu în vederea efectuării transportului public judeţean de persoane prin curse regulate speciale, pentru anul 2015",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-12-17",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h149_17.12.2014.pdf",
+     "sha256": "850fa7ba8ebb8af0939f9cb3fa234a7cdacde47268404347066569968a4325d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-51-2014",
+   "path": "local/judet/botosani/2014/51",
+   "short": "HCJ Botoșani nr. 51/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 51/2014 privind aprobarea Regulamentului de organizare şi funcţionare al Serviciului Public Comunitar de Evidenţă a Persoanelor al Judeţului Botoşani din subordinea Consiliului Judeţean Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h051_30.04.2014.pdf",
+     "sha256": "bcb56174000e736dc2696631461e7b910b7b95dce658899872bb9b12c96511d5"
+    }
+   ]
+  }
+ ]
+}

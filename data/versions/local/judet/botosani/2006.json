@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/judet/botosani/2006",
+ "acts": [
+  {
+   "slug": "hcj-botosani-135-2006",
+   "path": "local/judet/botosani/2006/135",
+   "short": "HCJ Botoșani nr. 135/2006",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 135/2006 privind aprobarea Regulamentului de organizare si functionare a aparatului de specialitate al Consiliului judetean Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2006-12-21",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h135_2006.12.21.pdf",
+     "sha256": "241219034ef0ec13b9a21a6cccbb0361abfe5fe8b38e86b2470387a66f6bb8e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-84-2006",
+   "path": "local/judet/botosani/2006/84",
+   "short": "HCJ Botoșani nr. 84/2006",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 84/2006 privind aprobarea ajustării preţurilor/tarifelor pentru serviciul de alimentare cu apă potabilă şi serviciul de canalizare - epurare, cu indicele preţurilor de consum de 107,55% aferent perioadei mai 2005 - mai 2006, începând cu data de 1 septembrie 2006",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2006-05-05",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h084_2006.08.30.pdf",
+     "sha256": "f1368a10126889bb3e8000e4531c93e9514928526a8dbda5c0be0016e74f1ad4"
+    }
+   ]
+  }
+ ]
+}

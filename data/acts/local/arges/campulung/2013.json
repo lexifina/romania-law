@@ -1,0 +1,271 @@
+{
+"country": "RO",
+"shard": "local/arges/campulung/2013",
+"acts": [
+{
+"slug": "hcl-arges--campulung-2-2013",
+"path": "local/arges/campulung/2013/2",
+"kind": "local",
+"year": "2013",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 2/2013 privind stabilirea impozitelor și taxele locale, a chiriilor, a tarifelor pentru acorduri și pentru avizarea anuală a acordurilor pentru desfășurarea activităților de comercializare, precum și pentru acordarea de facilități fiscale aplicabile pentru anul 2013 Consiliul Local al Municipiului Câmpulung întrunit în ședință de îndată în data de 11 01 2013; Luând în discuție raportul primarului înregis",
+"short": "HCL Câmpulung nr. 2/2013",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2013-01-11",
+"latest": "2013-01-11",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-arges--campulung-16-2013",
+"path": "local/arges/campulung/2013/16",
+"kind": "local",
+"year": "2013",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 16/2013 privind acordarea de facilităţi fiscale la plata impozitului pe clădiri şi a impozitului pe terenul aferent pentru semestrul I 2013 Hotărâre privind acordarea de facilităţi fiscale la plata impozitului pe clădiri şi a impozitului pe terenul aferent pentru semestrul I 2013",
+"short": "HCL Câmpulung nr. 16/2013",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2013-03-28",
+"latest": "2013-03-28",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-arges--campulung-22-2013",
+"path": "local/arges/campulung/2013/22",
+"kind": "local",
+"year": "2013",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 22/2013",
+"short": "HCL Câmpulung nr. 22/2013",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2013-03-28",
+"latest": "2013-03-28",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"title_withheld": "personal_data",
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arges--campulung-25-2013",
+"path": "local/arges/campulung/2013/25",
+"kind": "local",
+"year": "2013",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 25/2013 privind organizarea păşunatului şi stabilirea taxei de păşunat pe izlazurile proprietatea Municipiului Câmpulung Hotărâre privind organizarea păşunatului şi stabilirea taxei de păşunat pe izlazurile proprietatea Municipiului Câmpulung",
+"short": "HCL Câmpulung nr. 25/2013",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2013-03-28",
+"latest": "2013-03-28",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arges--campulung-29-2013",
+"path": "local/arges/campulung/2013/29",
+"kind": "local",
+"year": "2013",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 29/2013 privind prelungirea termenului de valabilitate al Planului Urbanistic General şi al Regulamentului Local de Urbanism Hotărâre privind prelungirea termenului de valabilitate al Planului Urbanistic General şi al Regulamentului Local de Urbanism",
+"short": "HCL Câmpulung nr. 29/2013",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2013-03-28",
+"latest": "2013-03-28",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arges--campulung-51-2013",
+"path": "local/arges/campulung/2013/51",
+"kind": "local",
+"year": "2013",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 51/2013 privind stabilirea impozitelor și taxele locale, a chiriilor, a tarifelor pentru acorduri și pentru avizarea anuală a acordurilor pentru desfășurarea activităților de comercializare, precum și pentru acordarea de facilități fiscale aplicabile pentru anul 2014 Consiliul Local al Municipiului Câmpulung întrunit în ședință ordinară în data de 30 05 2013; Luând în discuție raportul primarului înregist",
+"short": "HCL Câmpulung nr. 51/2013",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2013-05-30",
+"latest": "2013-05-30",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arges--campulung-56-2013",
+"path": "local/arges/campulung/2013/56",
+"kind": "local",
+"year": "2013",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 56/2013 privind metodologia de acordare a prestaţiilor financiare excepţionale Hotărâre privind metodologia de acordare a prestaţiilor financiare excepţionale",
+"short": "HCL Câmpulung nr. 56/2013",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2013-05-30",
+"latest": "2013-05-30",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-arges--campulung-102-2013",
+"path": "local/arges/campulung/2013/102",
+"kind": "local",
+"year": "2013",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 102/2013 privind aprobarea Regulamentului privind exploatarea şi întreţinerea Bazinului de Înot Municipal Câmpulung, situat în cartierul Grui, şi tarifelor ce vor fi percepute la Bazinul de Înot Municipal Câmpulung Hotărâre privind aprobarea Regulamentului privind exploatarea şi întreţinerea Bazinului de Înot Municipal Câmpulung, situat în cartierul Grui, şi tarifelor ce vor fi percepute la Bazinul de Înot",
+"short": "HCL Câmpulung nr. 102/2013",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2013-07-31",
+"latest": "2013-07-31",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-arges--campulung-112-2013",
+"path": "local/arges/campulung/2013/112",
+"kind": "local",
+"year": "2013",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 112/2013 privind acordarea de facilităţi fiscale la plata impozitului pe clădiri şi a impozitului pe terenul aferent pentru semestrul II 2013 Hotărâre privind acordarea de facilităţi fiscale la plata impozitului pe clădiri şi a impozitului pe terenul aferent pentru semestrul II 2013",
+"short": "HCL Câmpulung nr. 112/2013",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2013-09-26",
+"latest": "2013-09-26",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-arges--campulung-132-2013",
+"path": "local/arges/campulung/2013/132",
+"kind": "local",
+"year": "2013",
+"number": "132",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 132/2013 privind aprobarea Regulamentului de organizare şi funcţionare a serviciului de gestionare şi protecţia animalelor fără stăpân, animalelor pierdute sau abandonate şi de neutralizare a deşeurilor animaliere din municipiul Câmpulung Hotărâre privind aprobarea Regulamentului de organizare şi funcţionare a serviciului de gestionare şi protecţia animalelor fără stăpân, animalelor pierdute sau abandonate",
+"short": "HCL Câmpulung nr. 132/2013",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2013-10-31",
+"latest": "2013-10-31",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-arges--campulung-138-2013",
+"path": "local/arges/campulung/2013/138",
+"kind": "local",
+"year": "2013",
+"number": "138",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 138/2013 privind Regulamentul de Organizare şi Funcţionare al Serviciului Public de Asistenţă Socială Câmpulung Hotărâre privind Regulamentul de Organizare şi Funcţionare al Serviciului Public de Asistenţă Socială Câmpulung",
+"short": "HCL Câmpulung nr. 138/2013",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2013-11-28",
+"latest": "2013-11-28",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-arges--campulung-146-2013",
+"path": "local/arges/campulung/2013/146",
+"kind": "local",
+"year": "2013",
+"number": "146",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 146/2013 privind aprobarea contractului - cadru de închiriere pentru suprafeţe cu destinaţia de locuinţă și a regulamentului de stabilire a condițiilor de închiriere și a tarifului de bază Hotărâre privind aprobarea contractului - cadru de închiriere pentru suprafeţe cu destinaţia de locuinţă și a regulamentului de stabilire a condițiilor de închiriere și a tarifului de bază",
+"short": "HCL Câmpulung nr. 146/2013",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2013-12-19",
+"latest": "2013-12-19",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

@@ -531,6 +531,248 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcj-neamt-46-2024",
+"path": "local/judet/neamt/2024/46",
+"kind": "local",
+"year": "2024",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Neamț nr. 46/2024 privind emiterea unui aviz prevăzut de Legea nr.296/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilității financiare a României pe termen lung - Instituția Prefectului Persoanelor/autorităților interesate Vezi HCJ",
+"short": "HCJ Neamț nr. 46/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-02-29",
+"latest": "2024-02-29",
+"portal": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2024/",
+"council": "judet/neamt",
+"council_name": "Consiliul Județean Neamț",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-neamt-112-2024",
+"path": "local/judet/neamt/2024/112",
+"kind": "local",
+"year": "2024",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Neamț nr. 112/2024 privind stabilirea taxelor, tarifelor şi amenzilor din competenţa de aprobare a Consiliului Judeţean Neamţ, pentru anul fiscal 2025 - Instituția Prefectului Persoanelor/autorităților interesate Vezi HCJ",
+"short": "HCJ Neamț nr. 112/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-04-26",
+"latest": "2024-04-26",
+"portal": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2024/",
+"council": "judet/neamt",
+"council_name": "Consiliul Județean Neamț",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-neamt-135-2024",
+"path": "local/judet/neamt/2024/135",
+"kind": "local",
+"year": "2024",
+"number": "135",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Neamț nr. 135/2024 privind aprobarea Regulamentului de organizare și funcționare a Serviciului de Administrare a Parcului Național Ceahlău - Abroga 45/2016 Instituția Prefectului Persoanelor/autorităților interesate Vezi HCJ",
+"short": "HCJ Neamț nr. 135/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-05-30",
+"latest": "2024-05-30",
+"portal": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2024/",
+"council": "judet/neamt",
+"council_name": "Consiliul Județean Neamț",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-neamt-136-2024",
+"path": "local/judet/neamt/2024/136",
+"kind": "local",
+"year": "2024",
+"number": "136",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Neamț nr. 136/2024 privind emiterea avizului pentru „Regulamentul local privind realizarea și amplasarea în zona drumurilor publice de interes local a oricăror construcții, lucrări, amenajări sau instalații în orice scop”, din Comuna Gârcina - Instituția Prefectului Persoanelor/autorităților interesate Vezi HCJ",
+"short": "HCJ Neamț nr. 136/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-05-30",
+"latest": "2024-05-30",
+"portal": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2024/",
+"council": "judet/neamt",
+"council_name": "Consiliul Județean Neamț",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-neamt-145-2024",
+"path": "local/judet/neamt/2024/145",
+"kind": "local",
+"year": "2024",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Neamț nr. 145/2024 privind aprobarea Regulamentului de organizare și funcționare a Serviciului Public SALVAMONT Neamț - Abroga 120/2015 Instituția Prefectului Persoanelor/autorităților interesate Vezi HCJ",
+"short": "HCJ Neamț nr. 145/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-05-30",
+"latest": "2024-05-30",
+"portal": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2024/",
+"council": "judet/neamt",
+"council_name": "Consiliul Județean Neamț",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-neamt-168-2024",
+"path": "local/judet/neamt/2024/168",
+"kind": "local",
+"year": "2024",
+"number": "168",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Neamț nr. 168/2024 privind unele măsuri referitoare la organizarea și funcționarea Direcției Județene de Evidența Persoanelor Neamţ - Abroga 101/2024 - Abroga 226/2017 Instituția Prefectului Persoanelor/autorităților interesate Vezi HCJ",
+"short": "HCJ Neamț nr. 168/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-06-27",
+"latest": "2024-06-27",
+"portal": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2024/",
+"council": "judet/neamt",
+"council_name": "Consiliul Județean Neamț",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-neamt-173-2024",
+"path": "local/judet/neamt/2024/173",
+"kind": "local",
+"year": "2024",
+"number": "173",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Neamț nr. 173/2024 privind aprobarea Regulamentului de organizare și funcționare a aparatului de specialitate al Consiliului Județean Neamț - Abroga 147/2022 Instituția Prefectului Persoanelor/autorităților interesate Vezi HCJ",
+"short": "HCJ Neamț nr. 173/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-06-27",
+"latest": "2024-06-27",
+"portal": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2024/",
+"council": "judet/neamt",
+"council_name": "Consiliul Județean Neamț",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-neamt-198-2024",
+"path": "local/judet/neamt/2024/198",
+"kind": "local",
+"year": "2024",
+"number": "198",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Neamț nr. 198/2024 privind aprobarea Regulamentului de organizare și funcționare a aparatului de specialitate al Consiliului Județean Neamț - Abroga 173/2024 Instituția Prefectului Persoanelor/autorităților interesate Vezi HCJ",
+"short": "HCJ Neamț nr. 198/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-08-29",
+"latest": "2024-08-29",
+"portal": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2024/",
+"council": "judet/neamt",
+"council_name": "Consiliul Județean Neamț",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-neamt-255-2024",
+"path": "local/judet/neamt/2024/255",
+"kind": "local",
+"year": "2024",
+"number": "255",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Neamț nr. 255/2024 privind acordarea unui mandat special în vederea ajustării tarifelor de salubrizare din Zona 4, Județul Neamț - Instituția Prefectului Persoanelor/autorităților interesate Vezi HCJ",
+"short": "HCJ Neamț nr. 255/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2024/",
+"council": "judet/neamt",
+"council_name": "Consiliul Județean Neamț",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-neamt-289-2024",
+"path": "local/judet/neamt/2024/289",
+"kind": "local",
+"year": "2024",
+"number": "289",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Neamț nr. 289/2024 privind stabilirea preţurilor medii ale produselor agricole, necesare evaluării în lei a arendei achitate în natură, valabile pentru anul 2025 - Instituția Prefectului Persoanelor/autorităților interesate Vezi HCJ",
+"short": "HCJ Neamț nr. 289/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-12-20",
+"latest": "2024-12-20",
+"portal": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2024/",
+"council": "judet/neamt",
+"council_name": "Consiliul Județean Neamț",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-neamt-297-2024",
+"path": "local/judet/neamt/2024/297",
+"kind": "local",
+"year": "2024",
+"number": "297",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Neamț nr. 297/2024 pentru modificarea Hotărârii Consiliului Județean Neamț nr.112/2024 privind stabilirea taxelor, tarifelor şi amenzilor din competenţa de aprobare a Consiliului Judeţean Neamţ, pentru anul fiscal 2025 - Modifica 112/2024 Instituția Prefectului Persoanelor/autorităților interesate Vezi HCJ",
+"short": "HCJ Neamț nr. 297/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-12-20",
+"latest": "2024-12-20",
+"portal": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2024/",
+"council": "judet/neamt",
+"council_name": "Consiliul Județean Neamț",
+"flags": {
+"text_withheld": "personal_data"
+}
 }
 ]
 }

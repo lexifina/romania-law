@@ -3,6 +3,126 @@
  "shard": "local/arges/campulung/2023",
  "acts": [
   {
+   "slug": "hcl-arges--campulung-102-2023",
+   "path": "local/arges/campulung/2023/102",
+   "short": "HCL Câmpulung nr. 102/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 102/2023 privind aprobarea unor măsuri pentru organizarea pășunatului și stabilirea taxelor de pășunat pe anul 2023, pe pășunile aflate în proprietatea Municipiului Câmpulung, altele decât cele închiriate sau concesionate Hotărâre privind aprobarea unor măsuri pentru organizarea pășunatului și stabilirea taxelor de pășunat pe anul 2023, pe pășunile aflate în proprietatea Municipiului Câmpulung, altele decâ",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2023/HCL%20nr.%20102%20din%2012.05.2023.pdf",
+     "sha256": "be96f1751a8a1941918fea4a32661c5795646a5641dbd15f542d85470f291601"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-119-2023",
+   "path": "local/arges/campulung/2023/119",
+   "short": "HCL Câmpulung nr. 119/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 119/2023",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2023/HCL%20nr.%20119%20din%2030.05.2023.pdf",
+     "sha256": "0978ea8cf828f5727cd4646c7c582d33dd72509d5c78cc92ec26acb02e0e0d98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-158-2023",
+   "path": "local/arges/campulung/2023/158",
+   "short": "HCL Câmpulung nr. 158/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 158/2023 privind însușirea Raportului privind informarea şi consultarea publicului pentru documentația \"actualizarea planului urbanistic general al Municipiului Câmpulung” – completare la Raportul nr. 38357 din 17.12.2021 Hotărâre privind însușirea Raportului privind informarea şi consultarea publicului pentru documentația \"actualizarea planului urbanistic general al Municipiului Câmpulung” – completare la",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2023/HCL%20nr.%20158%20din%2031.07.2023.pdf",
+     "sha256": "3ceca788569fcdf2d1072bb19549cbeaeae5f7d0f59c570c89df50e2eee7e696"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-270-2023",
+   "path": "local/arges/campulung/2023/270",
+   "short": "HCL Câmpulung nr. 270/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 270/2023 privind stabilirea impozitelor şi taxelor locale pentru anul 2024 Hotărâre privind stabilirea impozitelor şi taxelor locale pentru anul 2024",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2023/HCL%20nr.%20270%20din%2028.12.2023.pdf",
+     "sha256": "56ca05b4a9d523336b60a7aa9dcbc963fed7cbeef45cbf8f4d1d6dcd50b380e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-271-2023",
+   "path": "local/arges/campulung/2023/271",
+   "short": "HCL Câmpulung nr. 271/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 271/2023 privind stabilirea nivelului impozitului pe mijloacele de transport de marfă cu masa totală autorizată egală sau mai mare de 12 tone, pentru anul 2024 Hotărâre privind stabilirea nivelului impozitului pe mijloacele de transport de marfă cu masa totală autorizată egală sau mai mare de 12 tone, pentru anul 2024",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2023/HCL%20nr.%20271%20din%2028.12.2023.pdf",
+     "sha256": "c0a097905a25d322a675c41a8c7fee5422308c4a45b2e0bc24bd42c616148c6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-69-2023",
+   "path": "local/arges/campulung/2023/69",
+   "short": "HCL Câmpulung nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 69/2023 privind aprobarea documentației de urbanism PUZ – \"Modernizare fațadă clădire existentă (spălătorie auto), extindere activitate, construire spălătorie auto și împrejmuire parțială teren\" Hotărâre privind aprobarea documentației de urbanism PUZ – \"Modernizare fațadă clădire existentă (spălătorie auto), extindere activitate, construire spălătorie auto și împrejmuire parțială teren\"",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2023/HCL%20nr.%2069%20din%2030.03.2023.pdf",
+     "sha256": "8ad2967f32851fc3b2badfe73e0da747fd77735ad40efc223ac599e5945934c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-70-2023",
+   "path": "local/arges/campulung/2023/70",
+   "short": "HCL Câmpulung nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 70/2023 privind aprobarea Regulamentului local privind consultarea, la cerere, de către solicitanții certificatelor de urbanism, a documentațiilor de urbanism și amenajare a teritoriului și a regulamentelor care au stat la baza emiterii certificatelor de urbanism Hotărâre privind aprobarea Regulamentului local privind consultarea, la cerere, de către solicitanții certificatelor de urbanism, a documentații",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2023/HCL%20nr.%2070%20din%2030.03.2023.pdf",
+     "sha256": "ff28571cee28d36ff9a5165045540e83b970d880349d42329afc8fe3767c8d5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-71-2023",
+   "path": "local/arges/campulung/2023/71",
+   "short": "HCL Câmpulung nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 71/2023 privind aprobarea modificarea tarifului de distanță maximal pentru transportul public local de persoane în regim de taxi în Municipiul Câmpulung Hotărâre privind aprobarea modificarea tarifului de distanță maximal pentru transportul public local de persoane în regim de taxi în Municipiul Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2023/HCL%20nr.%2071%20din%2030.03.2023.pdf",
+     "sha256": "b554184d505f2182e72d70c76c4afc1b4832da8e23b0ae33852494cf53b1ccc4"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--campulung-72-2023",
    "path": "local/arges/campulung/2023/72",
    "short": "HCL Câmpulung nr. 72/2023",
@@ -14,6 +134,21 @@
      "units": 1,
      "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2023/HCL%20nr.%2072%20din%2030.03.2023.pdf",
      "sha256": "8980cd9bfbdbdf84ae1a0450bc43c64a764ff89f2456dc761341b43219194566"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-79-2023",
+   "path": "local/arges/campulung/2023/79",
+   "short": "HCL Câmpulung nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 79/2023 privind aprobarea tarifelor conexe serviciilor de furnizare apă potabilă și canalizare ce vor fi aplicate de SC EDILUL CGA SA Hotărâre privind aprobarea tarifelor conexe serviciilor de furnizare apă potabilă și canalizare ce vor fi aplicate de SC EDILUL CGA SA",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2023/HCL%20nr.%2079%20din%2030.03.2023.pdf",
+     "sha256": "fbf359591f9e9f812e889cacc5dd7e534cdf9de6986d96e981b9a7a40b6136d2"
     }
    ]
   }

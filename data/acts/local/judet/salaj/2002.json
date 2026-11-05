@@ -1,0 +1,161 @@
+{
+"country": "RO",
+"shard": "local/judet/salaj/2002",
+"acts": [
+{
+"slug": "hcj-salaj-21-2002",
+"path": "local/judet/salaj/2002/21",
+"kind": "local",
+"year": "2002",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 21/2002 privind stabilirea tarifului de baza lunar pe m.p. pentru inchirierea unor spatii apartinand Consiliului Judetean Salaj",
+"short": "HCJ Sălaj nr. 21/2002",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2002-02-26",
+"latest": "2002-02-26",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-29-2002",
+"path": "local/judet/salaj/2002/29",
+"kind": "local",
+"year": "2002",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 29/2002 privind unele masuri pentru buna gospodarie si intretinere a drumurilor publice",
+"short": "HCJ Sălaj nr. 29/2002",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2002-04-24",
+"latest": "2002-04-24",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-32-2002",
+"path": "local/judet/salaj/2002/32",
+"kind": "local",
+"year": "2002",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 32/2002 privind stabilirea unor taxe speciale pentru functionarea structurii de specialitate si a Comisiei de Acorduri Unice",
+"short": "HCJ Sălaj nr. 32/2002",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2002-05-29",
+"latest": "2002-05-29",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-64-2002",
+"path": "local/judet/salaj/2002/64",
+"kind": "local",
+"year": "2002",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 64/2002",
+"short": "HCJ Sălaj nr. 64/2002",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2002-09-27",
+"latest": "2002-09-27",
+"portal": null,
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-salaj-77-2002",
+"path": "local/judet/salaj/2002/77",
+"kind": "local",
+"year": "2002",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 77/2002 privind aprobarea esalonarii la plata a impozitului pe profit si a varsamintelor din profitul net din anul 1998 si scutirea la plata a majorarilor de intarziere a penalitatilor si penalitatilor de intarziere aferente, solicitate de S.C",
+"short": "HCJ Sălaj nr. 77/2002",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2002-11-25",
+"latest": "2002-11-25",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-79-2002",
+"path": "local/judet/salaj/2002/79",
+"kind": "local",
+"year": "2002",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 79/2002 privind stabilirea unor tarife si indexarea taxelor si tarifelor in sume fixe stabilite de catre",
+"short": "HCJ Sălaj nr. 79/2002",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2002-11-25",
+"latest": "2002-11-25",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-89-2002",
+"path": "local/judet/salaj/2002/89",
+"kind": "local",
+"year": "2002",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 89/2002 privind stabilirea si sanctionarea unor contraventii la incalcarea ordinii publice si a sigurantei civice in zona unitatilor de invatamant",
+"short": "HCJ Sălaj nr. 89/2002",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2002-12-14",
+"latest": "2002-12-14",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

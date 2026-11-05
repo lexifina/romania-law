@@ -1,0 +1,261 @@
+{
+ "country": "RO",
+ "shard": "local/judet/botosani/2012",
+ "acts": [
+  {
+   "slug": "hcj-botosani-127-2012",
+   "path": "local/judet/botosani/2012/127",
+   "short": "HCJ Botoșani nr. 127/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 127/2012 privind stabilirea tarifelor pentru desfasurarea activitatii Centrului Judetean pentru Conservarea si Promovarea Culturii Traditionale Botosani, pentru anul 2009",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-03-08",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h127_27.11.2008.pdf",
+     "sha256": "32133caf62db50dec1640947d69d17ebbea60c8dc8bbb1c0e848e83083735f63"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-128-2012",
+   "path": "local/judet/botosani/2012/128",
+   "short": "HCJ Botoșani nr. 128/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 128/2012 privind aprobarea unor tarife pentru drumurile publice administrate de catre Directia Judeteana de Drumuri si Poduri Botosani, pentru anul 2009",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-03-08",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h128_27.11.2008.pdf",
+     "sha256": "75938d21dbf1934674e91d0f638878bce824818b76a21e387ebbbe14bb8ced83"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-129-2012",
+   "path": "local/judet/botosani/2012/129",
+   "short": "HCJ Botoșani nr. 129/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 129/2012 privind aprobarea tarifelor pentru serviciile prestate de Memorialul Ipotesti - Centrul National de Studii \"Mihai Eminescu\" pentru anul 2009",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-03-08",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h129_27.11.2008.pdf",
+     "sha256": "03fc86a4155f9697bf1174118635c6e0617998a76afcaa7aa6379aac2bd4b8f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-130-2012",
+   "path": "local/judet/botosani/2012/130",
+   "short": "HCJ Botoșani nr. 130/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 130/2012 privind aprobarea tarifelor practicate de Muzeul Judetean Botosani, pentru serviciile prestate in anul 2009",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-03-08",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h130_27.11.2008.pdf",
+     "sha256": "77778263ae95a1d8eea9ac7a10d29d0e22bd56841be17d0782bb53a167704d3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-131-2012",
+   "path": "local/judet/botosani/2012/131",
+   "short": "HCJ Botoșani nr. 131/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 131/2012 privind aprobarea preturilor medii ale produselor agricole pentru anii 2008-2009",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-03-08",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h131_27.11.2008.pdf",
+     "sha256": "4295967b7313fe53bfa408ea4ac9b18c81f30539ad44327488933976b03b5230"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-147-2012",
+   "path": "local/judet/botosani/2012/147",
+   "short": "HCJ Botoșani nr. 147/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 147/2012 privind redistribuirea sumei de 3.000.000 lei reprezentand sume defalcate din taxa pe valoare adaugata destinata finantarii cheltuielilor privind drumurile judetene si comunale pe unitati administrativ-teritoriale pe anul 2008",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-11-08",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h147_11.12.2008.pdf",
+     "sha256": "a948202b03d1aaa65a155ca3520d076dc5af3ff84dcdc273cead3111d165af79"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-151-2012",
+   "path": "local/judet/botosani/2012/151",
+   "short": "HCJ Botoșani nr. 151/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 151/2012 privind aprobarea tarifelor practicate de Orchestra Populara \"Rapsozii Botosanilor\", pentru serviciile prestate in anul 2011",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-02-10",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h151_29.11.2010.pdf",
+     "sha256": "641c54e13034663c1b86525ad138433b3676c24a9cc52b173ae9aebfdd7d8f3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-152-2012",
+   "path": "local/judet/botosani/2012/152",
+   "short": "HCJ Botoșani nr. 152/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 152/2012 privind aprobarea tarifelor practicate de Muzeul Judetean Botosani, pentru serviciile prestate in anul 2011",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-02-10",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h152_29.11.2010.pdf",
+     "sha256": "79b6ca0380d674e94df7ec9025202dfe8c6fac47571dbdf5783dede74dc813fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-153-2012",
+   "path": "local/judet/botosani/2012/153",
+   "short": "HCJ Botoșani nr. 153/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 153/2012 privind stabilirea tarifelor pentru desfasurarea activitatii Centrului Judetean pentru Conservarea si Promovarea Culturii Traditionale Botosani, pentru anul 2011",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-02-10",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h153_29.11.2010.pdf",
+     "sha256": "9fc1e35c82bbb73e2ce39afae0e26538033812bc856463abe794aa6fe8b09796"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-154-2012",
+   "path": "local/judet/botosani/2012/154",
+   "short": "HCJ Botoșani nr. 154/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 154/2012 privind aprobarea tarifelor pentru serviciile prestate de Memorialul Ipotesti-Centrul National de Studii \"Mihai Eminescu\" pentru anul 2011",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-02-10",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h154_29.11.2010.pdf",
+     "sha256": "c0563ebcae203fc091a8b475201bbbd808f14f2a6ccafa711600f702a07e8aab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-155-2012",
+   "path": "local/judet/botosani/2012/155",
+   "short": "HCJ Botoșani nr. 155/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 155/2012 privind aprobarea unor tarife pentru drumurile publice administrate de catre Directia Judeteana de Drumuri si Poduri Botosani, pentru anul 2011",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-02-10",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h155_29.11.2010.pdf",
+     "sha256": "f7899d3f5cef7e9bcf89686bb7d54aaf4c612333d9f06276241c4058d87d6e95"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-187-2012",
+   "path": "local/judet/botosani/2012/187",
+   "short": "HCJ Botoșani nr. 187/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 187/2012 privind aprobarea prețurilor medii ale produselor agricole pentru anul 2020",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-02-19",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H187_28112019.pdf",
+     "sha256": "defa7ac223b4db8a167b30250779b5aa08d0618e3a9bab30dfe344bb5194c7b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-204-2012",
+   "path": "local/judet/botosani/2012/204",
+   "short": "HCJ Botoșani nr. 204/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 204/2012 privind stabilirea tarifelor pentru desfasurarea activitatii Centrului Judetean pentru Conservarea si Promovarea Culturii Traditionale Botosani, pentru anul 2010",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-04-09",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h204_30.11.2009.pdf",
+     "sha256": "f5a13d61d2de9b159f93b3dd07ffb3a8389d53bbbaea88c6e7fd73ea1de7da47"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-205-2012",
+   "path": "local/judet/botosani/2012/205",
+   "short": "HCJ Botoșani nr. 205/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 205/2012 privind aprobarea tarifelor pentru serviciile prestate de Memorialul Ipotesti - Centrul National de Studii \"Mihai Eminescu\" pentru anul 2010",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-04-09",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h205_30.11.2009.pdf",
+     "sha256": "ce33dc750f31fe1f08dd319097afb6f28b6033bab187d81309617685fbe4ecf8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-206-2012",
+   "path": "local/judet/botosani/2012/206",
+   "short": "HCJ Botoșani nr. 206/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 206/2012 privind aprobarea tarifelor practicate de Muzeul Judetean Botosani, pentru serviciile prestate in anul 2010",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-04-09",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h206_30.11.2009.pdf",
+     "sha256": "5af29256f17019d6d1638fc5484f1e551a432877295f56a284be4da8ed0d354d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-207-2012",
+   "path": "local/judet/botosani/2012/207",
+   "short": "HCJ Botoșani nr. 207/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 207/2012 privind aprobarea unor tarife pentru drumurile publice administrate de catre Directia Judeteana de Drumuri si Poduri Botosani, pentru anul 2010",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-04-09",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h207_30.11.2009.pdf",
+     "sha256": "db97b6e4ebc1092b96427695b7657c92da95fa3786aadd06b919b56f663e6cf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-64-2012",
+   "path": "local/judet/botosani/2012/64",
+   "short": "HCJ Botoșani nr. 64/2012",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 64/2012 privind aprobarea Strategiei de tarifare pentru serviciile publice de alimentare cu apă şi canalizare",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2012-06-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h064_29.06.2012.pdf",
+     "sha256": "a3442d78ac5abea9ea156ead15b607a13d0ecfafeae8ff1c3f08319b1ca15519"
+    }
+   ]
+  }
+ ]
+}

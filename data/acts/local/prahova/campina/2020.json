@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/prahova/campina/2020",
+"acts": [
+{
+"slug": "hcl-prahova--campina-183-2020",
+"path": "local/prahova/campina/2020/183",
+"kind": "local",
+"year": "2020",
+"number": "183",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 183/2020",
+"short": "HCL Câmpina nr. 183/2020",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2020-12-28",
+"latest": "2020-12-28",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+}
+]
+}

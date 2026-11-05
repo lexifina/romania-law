@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/judet/olt/2019",
+"acts": [
+{
+"slug": "hcj-olt-71-2019",
+"path": "local/judet/olt/2019/71",
+"kind": "local",
+"year": "2019",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Olt nr. 71/2019 pentru modificarea Hotărârii Consiliului Județean Olt nr. 213/20.12.2018 cu privire la aprobarea tarifelor pentru eliberarea acordului prealabil şi autorizaţiei de amplasare şi/sau de acces la drumurile judeţene,precum şi a tarifelor de utilizare a suprafeţelor din zona drumurilor județene pentru anul 2019 Vizualizare",
+"short": "HCJ Olt nr. 71/2019",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2019-05-30",
+"latest": "2019-05-30",
+"portal": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+"council": "judet/olt",
+"council_name": "Consiliul Județean Olt",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-olt-123-2019",
+"path": "local/judet/olt/2019/123",
+"kind": "local",
+"year": "2019",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Olt nr. 123/2019 cu privire la propunerea de reluare a concursului de proiecte de management și de aprobare a modificării condițiilor de participare la concursul de proiecte de management organizat pentru Biblioteca Judeţeană Olt „Ion Minulescu”, aprobarea Caietului de obiective și a Regulamentului de organizare şi desfăşurare a concursului de proiecte de management, precum și cu privire la desemnarea comisiei de",
+"short": "HCJ Olt nr. 123/2019",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2019-08-29",
+"latest": "2019-08-29",
+"portal": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+"council": "judet/olt",
+"council_name": "Consiliul Județean Olt",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-olt-202-2019",
+"path": "local/judet/olt/2019/202",
+"kind": "local",
+"year": "2019",
+"number": "202",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Olt nr. 202/2019 pentru spaţiile din fondul locativ cu altă destinaţie decât cea de locuinţă, aflate în domeniul public sau privat al județului, precum și cu privire la stabilirea tarifului de închiriere a sălii de conferințe a Consiliului Județean Olt, pentru anul 2020 Vizualizare",
+"short": "HCJ Olt nr. 202/2019",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2019-12-19",
+"latest": "2019-12-19",
+"portal": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+"council": "judet/olt",
+"council_name": "Consiliul Județean Olt",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-olt-213-2019",
+"path": "local/judet/olt/2019/213",
+"kind": "local",
+"year": "2019",
+"number": "213",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Olt nr. 213/2019 cu privire la înființarea serviciului social ,,Locuință protejată pentru persoanele victime ale violenței domestice” în cadrul Complexului servicii ,,Sf. Ştefan” Slatina din structura Direcției Generale de Asistență Socială și Protecția Copilului Olt, aprobarea Regulamentului deOrganizare și Funcționare al serviciului social ,,Locuință protejată pentru persoanele victime ale violenței domestice”",
+"short": "HCJ Olt nr. 213/2019",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2019-12-19",
+"latest": "2019-12-19",
+"portal": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+"council": "judet/olt",
+"council_name": "Consiliul Județean Olt",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

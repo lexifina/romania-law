@@ -1,0 +1,119 @@
+{
+"country": "RO",
+"shard": "local/bihor/beius/2021",
+"acts": [
+{
+"slug": "hcl-bihor--beius-166-2021",
+"path": "local/bihor/beius/2021/166",
+"kind": "local",
+"year": "2021",
+"number": "166",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 166/2021 privind actualizarea Regulamentului Consiliului Local al municipiului Beiuş",
+"short": "HCL Beiuș nr. 166/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-07-27",
+"latest": "2021-07-27",
+"portal": "https://emol.ro/beius-bh/registru-hcl/31233",
+"council": "bihor/beius",
+"council_name": "Consiliul Local al Municipiului Beiuș",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bihor--beius-202-2021",
+"path": "local/bihor/beius/2021/202",
+"kind": "local",
+"year": "2021",
+"number": "202",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 202/2021 privind aprobarea încheierii unui protocol de colaborare în scopul dezvoltării rețelei de parcuri industriale în Județul Bihor",
+"short": "HCL Beiuș nr. 202/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-09-29",
+"latest": "2021-09-29",
+"portal": "https://emol.ro/beius-bh/registru-hcl/36583",
+"council": "bihor/beius",
+"council_name": "Consiliul Local al Municipiului Beiuș",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bihor--beius-205-2021",
+"path": "local/bihor/beius/2021/205",
+"kind": "local",
+"year": "2021",
+"number": "205",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 205/2021",
+"short": "HCL Beiuș nr. 205/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-09-29",
+"latest": "2021-09-29",
+"portal": "https://emol.ro/beius-bh/registru-hcl/36586",
+"council": "bihor/beius",
+"council_name": "Consiliul Local al Municipiului Beiuș",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--beius-249-2021",
+"path": "local/bihor/beius/2021/249",
+"kind": "local",
+"year": "2021",
+"number": "249",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 249/2021",
+"short": "HCL Beiuș nr. 249/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/beius-bh/registru-hcl/42605",
+"council": "bihor/beius",
+"council_name": "Consiliul Local al Municipiului Beiuș",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--beius-270-2021",
+"path": "local/bihor/beius/2021/270",
+"kind": "local",
+"year": "2021",
+"number": "270",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 270/2021",
+"short": "HCL Beiuș nr. 270/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-12-14",
+"latest": "2021-12-14",
+"portal": "https://emol.ro/beius-bh/registru-hcl/44124",
+"council": "bihor/beius",
+"council_name": "Consiliul Local al Municipiului Beiuș",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+}
+]
+}

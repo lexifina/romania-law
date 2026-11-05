@@ -1,0 +1,293 @@
+{
+"country": "RO",
+"shard": "local/arges/campulung/2021",
+"acts": [
+{
+"slug": "hcl-arges--campulung-14-2021",
+"path": "local/arges/campulung/2021/14",
+"kind": "local",
+"year": "2021",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 14/2021",
+"short": "HCL Câmpulung nr. 14/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arges--campulung-68-2021",
+"path": "local/arges/campulung/2021/68",
+"kind": "local",
+"year": "2021",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 68/2021 cu privire la aprobarea tarifelor conexe serviciilor de furnizare apă potabilă și canalizare ce vor fi aplicate începând cu data de 01 05 2021 Hotărâre cu privire la aprobarea tarifelor conexe serviciilor de furnizare apă potabilă și canalizare ce vor fi aplicate începând cu data de 01 05 2021",
+"short": "HCL Câmpulung nr. 68/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-04-29",
+"latest": "2021-04-29",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arges--campulung-74-2021",
+"path": "local/arges/campulung/2021/74",
+"kind": "local",
+"year": "2021",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 74/2021 cu privire la aprobarea unor măsuri pentru organizarea pășunatului și stabilirea taxelor de pășunat pe anul 2021, pe pășunile aflate în proprietatea Municipiului Câmpulung, altele decât cele închiriate sau concesionate Hotărâre cu privire la aprobarea unor măsuri pentru organizarea pășunatului și stabilirea taxelor de pășunat pe anul 2021, pe pășunile aflate în proprietatea Municipiului Câmpulung",
+"short": "HCL Câmpulung nr. 74/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-04-29",
+"latest": "2021-04-29",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arges--campulung-80-2021",
+"path": "local/arges/campulung/2021/80",
+"kind": "local",
+"year": "2021",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 80/2021 cu privire la aprobarea tarifului la tarabele din lemn practicat de S.C.Piețe-Servicii Comunitare Muscel SRL Hotărâre cu privire la aprobarea tarifului la tarabele din lemn practicat de S.C.Piețe-Servicii Comunitare Muscel SRL",
+"short": "HCL Câmpulung nr. 80/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arges--campulung-90-2021",
+"path": "local/arges/campulung/2021/90",
+"kind": "local",
+"year": "2021",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 90/2021 cu privire la aprobarea formei de gestiune , aprobarea regulamentului și caietului de sarcini pentru activitatea de dezinsecție, dezinfecție și deratizare în Municipiul Câmpulung Hotărâre cu privire la aprobarea formei de gestiune , aprobarea regulamentului și caietului de sarcini pentru activitatea de dezinsecție, dezinfecție și deratizare în Municipiul Câmpulung",
+"short": "HCL Câmpulung nr. 90/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-06-30",
+"latest": "2021-06-30",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arges--campulung-92-2021",
+"path": "local/arges/campulung/2021/92",
+"kind": "local",
+"year": "2021",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 92/2021 cu privire la aprobarea unor tarife pentru investigații medicale efectuate la cererea pacienților Hotărâre cu privire la aprobarea unor tarife pentru investigații medicale efectuate la cererea pacienților",
+"short": "HCL Câmpulung nr. 92/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-06-30",
+"latest": "2021-06-30",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arges--campulung-106-2021",
+"path": "local/arges/campulung/2021/106",
+"kind": "local",
+"year": "2021",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 106/2021 cu privire la modificarea tarifelor pentru utilizarea Bazinului Municipal de Înot Câmpulung Hotărâre cu privire la modificarea tarifelor pentru utilizarea Bazinului Municipal de Înot Câmpulung",
+"short": "HCL Câmpulung nr. 106/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-07-19",
+"latest": "2021-07-19",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arges--campulung-136-2021",
+"path": "local/arges/campulung/2021/136",
+"kind": "local",
+"year": "2021",
+"number": "136",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 136/2021 cu privire la aprobarea procedurii de acordare a unor ajutoare de urgență pentru sprijinirea familiilor și persoanelor din Municipiul Câmpulung afectate de inundațiile din cursul anului 2021 Hotărâre cu privire la aprobarea procedurii de acordare a unor ajutoare de urgență pentru sprijinirea familiilor și persoanelor din Municipiul Câmpulung afectate de inundațiile din cursul anului 202",
+"short": "HCL Câmpulung nr. 136/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-08-30",
+"latest": "2021-08-30",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arges--campulung-152-2021",
+"path": "local/arges/campulung/2021/152",
+"kind": "local",
+"year": "2021",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 152/2021 cu privire la aprobarea unor tarife pentru investigații medicale efectuate la cererea pacienților Hotărâre cu privire la aprobarea unor tarife pentru investigații medicale efectuate la cererea pacienților",
+"short": "HCL Câmpulung nr. 152/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arges--campulung-183-2021",
+"path": "local/arges/campulung/2021/183",
+"kind": "local",
+"year": "2021",
+"number": "183",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 183/2021 cu privire la stabilirea nivelului impozitului pe mijloace de transport de marfă cu masa totală autorizată egală sau mai mare de 12 tone pentru anul 2022 Hotărâre cu privire la stabilirea nivelului impozitului pe mijloace de transport de marfă cu masa totală autorizată egală sau mai mare de 12 tone pentru anul 2022",
+"short": "HCL Câmpulung nr. 183/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arges--campulung-197-2021",
+"path": "local/arges/campulung/2021/197",
+"kind": "local",
+"year": "2021",
+"number": "197",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 197/2021 cu privire la stabilirea impozitelor și taxelor locale, precum și a taxelor speciale pe anul 2022 Hotărâre cu privire la stabilirea impozitelor și taxelor locale, precum și a taxelor speciale pe anul 2022",
+"short": "HCL Câmpulung nr. 197/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arges--campulung-214-2021",
+"path": "local/arges/campulung/2021/214",
+"kind": "local",
+"year": "2021",
+"number": "214",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 214/2021 cu privire la aprobarea taxelor și tarifelor practicate de S.C.Piețe-Servicii Comunitare Muscel SRL Hotărâre cu privire la aprobarea taxelor și tarifelor practicate de S.C.Piețe-Servicii Comunitare Muscel SRL",
+"short": "HCL Câmpulung nr. 214/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-12-28",
+"latest": "2021-12-28",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arges--campulung-222-2021",
+"path": "local/arges/campulung/2021/222",
+"kind": "local",
+"year": "2021",
+"number": "222",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 222/2021 cu privire la însușirea Raportului privind informarea și consultarea publicului pentru documentația “ Actualizarea Planului Urbanistic General al Municipiului Câmpulung “ Hotărâre cu privire la însușirea Raportului privind informarea și consultarea publicului pentru documentația “ Actualizarea Planului Urbanistic General al Municipiului Câmpulung “",
+"short": "HCL Câmpulung nr. 222/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-12-28",
+"latest": "2021-12-28",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

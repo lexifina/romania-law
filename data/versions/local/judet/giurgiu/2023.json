@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/judet/giurgiu/2023",
+ "acts": [
+  {
+   "slug": "hcj-giurgiu-130-2023",
+   "path": "local/judet/giurgiu/2023/130",
+   "short": "HCJ Giurgiu nr. 130/2023",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 130/2023 privind aprobarea tarifelor pentru închirierea utilajelor din dotarea parcului auto al Direcției Județene de Transport, Administrarea Drumurilor Județene și Control Trafic Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 6,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.130-din-31.05.2023-cu-anexa.pdf",
+     "sha256": "279d82d4ed7f93f619ab55d0b5aed8cd8c59f58fb46e53a1a375c2d06ec88731"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-31-2023",
+   "path": "local/judet/giurgiu/2023/31",
+   "short": "HCJ Giurgiu nr. 31/2023",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 31/2023 privind aprobarea achiziției de servicii juridice de asistență și reprezentare",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 4,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.31-din-06.02.2023.pdf",
+     "sha256": "ea8499e1f65406241352476ca62536d88a16cc00374ced13bc13f0c3f580fab4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-372-2023",
+   "path": "local/judet/giurgiu/2023/372",
+   "short": "HCJ Giurgiu nr. 372/2023",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 372/2023 privind stabilirea taxelor și tarifelor care vor fi percepute de Consiliul Județean Giurgiu și instituțiile publice subordonate acestuia pentru anul fiscal 2024",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.372-din-28.12.2023-cu-anexe.pdf",
+     "sha256": "e0a91e923cb273051e2e846051bbc4abbd13df9ef1828b872ebb1d3d10768b76"
+    }
+   ]
+  }
+ ]
+}

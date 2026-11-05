@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/judet/prahova/2014",
+"acts": [
+{
+"slug": "hcj-prahova-40-2014",
+"path": "local/judet/prahova/2014/40",
+"kind": "local",
+"year": "2014",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 40/2014 privind aprobarea tarifelor pentru serviciul de transport public judeţean de persoane prin curse regulate",
+"short": "HCJ Prahova nr. 40/2014",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2014-04-24",
+"latest": "2014-04-24",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2014/?dpage=14",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-prahova-94-2014",
+"path": "local/judet/prahova/2014/94",
+"kind": "local",
+"year": "2014",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 94/2014 privind actualizarea caietului de sarcini al serviciului de transport public judeţean de persoane prin curse regulate",
+"short": "HCJ Prahova nr. 94/2014",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2014-08-04",
+"latest": "2014-08-04",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2014/?dpage=12",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-prahova-99-2014",
+"path": "local/judet/prahova/2014/99",
+"kind": "local",
+"year": "2014",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 99/2014 privind modificarea anexei la Hotărârea nr. 2/2014 a Consiliului judeţean Prahova referitoare la stabilirea preţurilor medii ale produselor agricole pentru anul fiscal 2014",
+"short": "HCJ Prahova nr. 99/2014",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2014-08-04",
+"latest": "2014-08-04",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2014/?dpage=8",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-prahova-176-2014",
+"path": "local/judet/prahova/2014/176",
+"kind": "local",
+"year": "2014",
+"number": "176",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 176/2014 privind stabilirea taxelor în domeniul construcțiilor, aplicabile în anul fiscal 2015",
+"short": "HCJ Prahova nr. 176/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-12-15",
+"latest": "2014-12-15",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2014/",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

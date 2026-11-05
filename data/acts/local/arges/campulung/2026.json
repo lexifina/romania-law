@@ -1096,6 +1096,72 @@
 }
 },
 {
+"slug": "hcl-arges--campulung-71-2026",
+"path": "local/arges/campulung/2026/71",
+"kind": "local",
+"year": "2026",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 71/2026 privind aprobarea unor măsuri pentru organizarea pășunatului și stabilirea taxelor de pășunat pe anul 2026, pe pășunile aflate în proprietatea Municipiului Câmpulung, altele decât cele închiriate sau concesionate Hotărâre privind aprobarea unor măsuri pentru organizarea pășunatului și stabilirea taxelor de pășunat pe anul 2026, pe pășunile aflate în proprietatea Municipiului Câmpulung, altele decâ",
+"short": "HCL Câmpulung nr. 71/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-05-27",
+"latest": "2026-05-27",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arges--campulung-85-2026",
+"path": "local/arges/campulung/2026/85",
+"kind": "local",
+"year": "2026",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 85/2026 privind aprobarea Regulamentului de organizare și funcționare al aparatului de specialitate al primarului Municipiului Câmpulung Hotărâre privind aprobarea Regulamentului de organizare și funcționare al aparatului de specialitate al primarului Municipiului Câmpulung",
+"short": "HCL Câmpulung nr. 85/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arges--campulung-170-2026",
+"path": "local/arges/campulung/2026/170",
+"kind": "local",
+"year": "2026",
+"number": "170",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 170/2026 privind acordarea unui mandat special în vederea aprobării ajustării tarifului de tratare mecano-biologică a deșeurilor perceput de operatorul Soc",
+"short": "HCL Câmpulung nr. 170/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
 "slug": "hcl-arges--campulung-275-2026",
 "path": "local/arges/campulung/2026/275",
 "kind": "local",

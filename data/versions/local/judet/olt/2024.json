@@ -31,6 +31,36 @@
      "sha256": "572263fb0ba43d18f6914691c85ed0f21f0de76a25f72150bf2c696dd0fa3ced"
     }
    ]
+  },
+  {
+   "slug": "hcj-olt-170-2024",
+   "path": "local/judet/olt/2024/170",
+   "short": "HCJ Olt nr. 170/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 170/2024 cu privire la aprobarea taxelor școlare pentru activitățile prestate de Secția Arte și Meșteșuguri din cadrul Centrului Județean de Cultură și Artă Olt, pentru anul școlar 2024-2025 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/21229-1.pdf",
+     "sha256": "4ee5b3117f99e06606d9a64da741feae5ef05358a7425da48d79cc0dbb712321"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-212-2024",
+   "path": "local/judet/olt/2024/212",
+   "short": "HCJ Olt nr. 212/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 212/2024 pentru spațiile din fondul locativ cu altă destinație decât cea de locuință, aflate în domeniul public sau privat al județului, precum și cu privire la stabilirea tarifului de închiriere a sălii de conferințe a Consiliului Județean Olt, pentru anul 2025 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/21727.pdf",
+     "sha256": "ab389642e4ce8d011980b2996e8f9c55c863b763fd4e912d9899465dcad0aa6e"
+    }
+   ]
   }
  ]
 }

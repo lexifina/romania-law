@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/botosani/2022",
+"acts": [
+{
+"slug": "hcj-botosani-251-2022",
+"path": "local/judet/botosani/2022/251",
+"kind": "local",
+"year": "2022",
+"number": "251",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 251/2022 privind aprobarea tarifelor pentru serviciile prestate de Școala Populară de Arte „George Enescu” Botoșani pentru anul 2023",
+"short": "HCJ Botoșani nr. 251/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-12-21",
+"latest": "2022-12-21",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/alte-documente/informari-proiecte-de-hotarari-cu-caracter-normativ/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/judet/teleorman/2023",
+"acts": [
+{
+"slug": "hcj-teleorman-163-2023",
+"path": "local/judet/teleorman/2023/163",
+"kind": "local",
+"year": "2023",
+"number": "163",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Teleorman nr. 163/2023 privind aprobarea Regulamentului de organizare si functionare al Serviciului de Deservire, Paza si Protocol, cu modificarile si completarile ulterioare",
+"short": "HCJ Teleorman nr. 163/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-10-26",
+"latest": "2023-10-26",
+"portal": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+"council": "judet/teleorman",
+"council_name": "Consiliul Județean Teleorman",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-teleorman-188-2023",
+"path": "local/judet/teleorman/2023/188",
+"kind": "local",
+"year": "2023",
+"number": "188",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Teleorman nr. 188/2023 pentru echilibrarea bugetelor locale şi din cota de 14 % din impozitul pe venit, precum şi .a sumelor reţinute ca urmare a diminuării . cu.gradul de necolectare.a.veniturilor.proprii.pe .anul-2022 pentru anul 2024 şi estimările pe anii 2025 - 2027",
+"short": "HCJ Teleorman nr. 188/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-11-28",
+"latest": "2023-11-28",
+"portal": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+"council": "judet/teleorman",
+"council_name": "Consiliul Județean Teleorman",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

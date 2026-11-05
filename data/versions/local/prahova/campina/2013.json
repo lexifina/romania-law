@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/campina/2013",
+ "acts": [
+  {
+   "slug": "hcl-prahova--campina-40-2013",
+   "path": "local/prahova/campina/2013/40",
+   "short": "HCL Câmpina nr. 40/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 40/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-03-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e8641c5befc9fe4d15855d880e314458a79d565191c565cb46bda7c690255de4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-6-2013",
+   "path": "local/prahova/campina/2013/6",
+   "short": "HCL Câmpina nr. 6/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 6/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr.-6-mod-art1-din-HCL-113-din-2010-tarife-practicate-de-Piata-Centrala.pdf",
+     "sha256": "d5bf79cb4572ca3343a8dccddad92d1792c83ee6e750d68ae893785551772b87"
+    }
+   ]
+  }
+ ]
+}

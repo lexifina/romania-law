@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/vrancea/adjud/2020",
+"acts": [
+{
+"slug": "hcl-vrancea--adjud-3-2020",
+"path": "local/vrancea/adjud/2020/3",
+"kind": "local",
+"year": "2020",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 3/2020 privind aprobarea procedurii operaționale privind gestionarea cazurilor de infecție cu noul Coronavirus",
+"short": "HCL Adjud nr. 3/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-02-28",
+"latest": "2020-02-28",
+"portal": "https://www.adjud.ro/municipiul-adjud/protectie-civila/covid19-ordonantemilitare-decrete-hotarari/",
+"council": "vrancea/adjud",
+"council_name": "Consiliul Local al Municipiului Adjud",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

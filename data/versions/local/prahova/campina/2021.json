@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/campina/2021",
+ "acts": [
+  {
+   "slug": "hcl-prahova--campina-190-2021",
+   "path": "local/prahova/campina/2021/190",
+   "short": "HCL Câmpina nr. 190/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 190/2021 privind stabilirea impozitelor $i taxeIor locaIe in Municipiul Campina, pentru anuI fiscal 2022 Avand in vedere Referatul de aprobare nr.45.690/3 noiembrie 2021 al d-lui Ioan-Alin Moldoveanu - Primarul Municipiului Campina, prin care se propune stabilirea impozitelor $i taxelor locale in Municipiul Campina, pentru anul fiscal 2022; Tinand seama de: - raportul inregistrat sub nr.45.693/3 noiembrie",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2021/",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2022/01/Hotararea-nr190-stabilire-impozite-si-taxe-locale-2022-1.pdf",
+     "sha256": "b87a1df9d5ea816ff050217d8ad721ac29ca24394f8342cb4aa4e1b2c314051c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-47-2021",
+   "path": "local/prahova/campina/2021/47",
+   "short": "HCL Câmpina nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 47/2021 privind aprobarea Planului Urbanistic Zonal ,,P.U.Z intravilan (S=2078,00 mp) si schimbare destina(ie teren din sul compusa din institutii sj servicii, locuin{e individuale cu regim continuu sJ discontinuu, spafii verzi amenajate, sport si agrement in zoh^inixta servicii sJ industrie nepoluanta, subzona spafii verzi de protec{ie, paduri si planta{ii forestiere si subzona cai de comunica{ie rutiera",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2021/",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2021/04/Hotararea-nr47-PUZ-schimbare-teren-din-subzona-mixta-beneficiar-SC-Swisscaps-Romania-SRL.pdf",
+     "sha256": "67414fbc2eab86e9586123f4be96316a42066d593e9aca9d57c6f1cdbc29c57b"
+    }
+   ]
+  }
+ ]
+}

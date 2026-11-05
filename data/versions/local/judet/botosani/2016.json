@@ -1,0 +1,216 @@
+{
+ "country": "RO",
+ "shard": "local/judet/botosani/2016",
+ "acts": [
+  {
+   "slug": "hcj-botosani-153-2016",
+   "path": "local/judet/botosani/2016/153",
+   "short": "HCJ Botoșani nr. 153/2016",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 153/2016 privind aprobarea tarifelor pentru eliberarea licențelor de traseu în vederea efectuării transportului public județean de persoane prin curse regulate speciale, pentru anul 2017",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2016-11-24",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h153_24.11.2016.pdf",
+     "sha256": "cbc1d2fd291c6d73f11720ec9312ef49e06c9144962757f33c509c5c757ee198"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-154-2016",
+   "path": "local/judet/botosani/2016/154",
+   "short": "HCJ Botoșani nr. 154/2016",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 154/2016 privind aprobarea tarifelor practicate de Orchestra Populară „Rapsozii Botoșanilor”, pentru serviciile prestate în anul 2017",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2016-11-24",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h154_24.11.2016.pdf",
+     "sha256": "ca6b50343eaa22b2acaba3715d46390228c6727e7763ab8eaf5a0b0fefe5a437"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-155-2016",
+   "path": "local/judet/botosani/2016/155",
+   "short": "HCJ Botoșani nr. 155/2016",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 155/2016 privind aprobarea tarifelor practicate de Muzeul Județean Botoșani, pentru serviciile prestate, în anul 2017",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2016-11-24",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h155_24.11.2016.pdf",
+     "sha256": "d22ddb76998a702df1d7082529d16bd148830cf1104079fa22db223166309717"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-156-2016",
+   "path": "local/judet/botosani/2016/156",
+   "short": "HCJ Botoșani nr. 156/2016",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 156/2016 privind stabilirea tarifelor pentru serviciile prestate de Centrul Județean pentru Conservarea și Promovarea Culturii Tradiționale Botoșani, pentru anul 2017",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2016-11-24",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h156_24.11.2016.pdf",
+     "sha256": "6bd3c50366aa55a13ea3d0c121eb0f0de46f320877571b441cf69b0155aa3e28"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-157-2016",
+   "path": "local/judet/botosani/2016/157",
+   "short": "HCJ Botoșani nr. 157/2016",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 157/2016 privind aprobarea tarifelor pentru serviciile prestate de Memorialul Ipotești – Centrul Național de Studii „Mihai Eminescu” pentru anul 2017",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2016-11-24",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h157_24.11.2016.pdf",
+     "sha256": "ad8630d64829538caf37b1811ee422923c5ce50028624b19b244fdac02c3a0c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-158-2016",
+   "path": "local/judet/botosani/2016/158",
+   "short": "HCJ Botoșani nr. 158/2016",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 158/2016 privind aprobarea tarifelor pentru serviciile prestate de Școala Populară de Arte și Meserii Botoșani, pentru anul 2017",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2016-11-24",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h158_24.11.2016.pdf",
+     "sha256": "dce8d3d2554e462c60a341696a0abc7bf706c8b2a81e95d08e21dfa645826402"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-159-2016",
+   "path": "local/judet/botosani/2016/159",
+   "short": "HCJ Botoșani nr. 159/2016",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 159/2016 privind aprobarea tarifelor pentru serviciile prestate de Camera Agricolă Județeană Botoșani, pentru anul 2017",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2016-11-24",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h159_24.11.2016.pdf",
+     "sha256": "e006c853ed60c5f31e5c27386fa2ed47ac9fe7dd4658eadc1ac060223d0ce599"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-160-2016",
+   "path": "local/judet/botosani/2016/160",
+   "short": "HCJ Botoșani nr. 160/2016",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 160/2016 privind aprobarea prețurilor medii ale produselor agricole pentru anul 2017",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2016-11-24",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h160_24.11.2016.pdf",
+     "sha256": "ad45a20a4f32262668e2bba1261f5dd1aeae4a4892dbd2cbe4dead63a8c0834d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-176-2016",
+   "path": "local/judet/botosani/2016/176",
+   "short": "HCJ Botoșani nr. 176/2016",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 176/2016 privind aprobarea unor tarife pentru drumurile publice administrate de către Direcţia Judeţeană de Drumuri şi Poduri Botoșani, pentru anul 2017",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2016-12-21",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h176_21.12.2016.pdf",
+     "sha256": "baf284023b0316d28b84bab0713043808a854f905a49edcbe824104e99314758"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-187-2016",
+   "path": "local/judet/botosani/2016/187",
+   "short": "HCJ Botoșani nr. 187/2016",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 187/2016 privind însuşirea Planului Strategic al Autorităţii Teritoriale de Ordine Publică Botoşani pe anul 2017",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2016-12-21",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h187_21.12.2016.pdf",
+     "sha256": "41f395f03b9ce745c34c78bd066b61408ce4b5219b21b1a2761c66bb259b674f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-26-2016",
+   "path": "local/judet/botosani/2016/26",
+   "short": "HCJ Botoșani nr. 26/2016",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 26/2016 privind aprobarea tarifelor pentru serviciile prestate de Şcoala Populară de Arte şi Meserii Botoşani în anul 2016",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h026_25.02.2016.pdf",
+     "sha256": "77ae7328c9a7b68711097d4b2435f5144157fc1012d492b51487bbe16426524a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-33-2016",
+   "path": "local/judet/botosani/2016/33",
+   "short": "HCJ Botoșani nr. 33/2016",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 33/2016 privind aprobarea Programului anual pentru acordarea de finanţări nerambursabile pe anul 2016 şi a Regulamentului privind regimul finanţărilor nerambursabile alocate din fonduri ale bugetului Judeţului Botoşani pentru activităţi non-profit de interes judeţean",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h033_25.02.2016.pdf",
+     "sha256": "481b07136a297caf5311e8904ddf493d53682281442ecf1bb645286a7660a4a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-34-2016",
+   "path": "local/judet/botosani/2016/34",
+   "short": "HCJ Botoșani nr. 34/2016",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 34/2016 privind aprobarea Regulamentului privind regimul finanţărilor nerambursabile alocate din fonduri ale bugetului Judeţului Botoşani pentru activităţile de tineret pentru anul 2016",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h034_25.02.2016.pdf",
+     "sha256": "04d4fe7f9ab17ec7fd601e054b4867c8967d592d14b9a9ff4f84cc4dd364e70d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-94-2016",
+   "path": "local/judet/botosani/2016/94",
+   "short": "HCJ Botoșani nr. 94/2016",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 94/2016 privind aprobarea taxelor şcolare pentru elevi pentru anul şcolar 2016 – 2017 şi a tarifelor pentru serviciile prestate de Şcoala Populară de Arte şi Meserii Botoşani pentru perioada 01.08 – 31.12.2016",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2016-12-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h094_29.07.2016.pdf",
+     "sha256": "8925a1a36b9cd7b6e63fd585836abfd54fcb384b8e1b0ed30e9b45a121108822"
+    }
+   ]
+  }
+ ]
+}

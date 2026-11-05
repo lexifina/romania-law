@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/giurgiu/giurgiu/2016",
+ "acts": [
+  {
+   "slug": "hcl-giurgiu--giurgiu-103-2016",
+   "path": "local/giurgiu/giurgiu/2016/103",
+   "short": "HCL Giurgiu nr. 103/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 103/2016 cu privire la modificarea Hotărârii Consiliului Loca nr. 103 din data de 18 martie 2016 privind aprobarea Regulamentului pentru stimularea participării în învățământul preșcolar a copiilor provenind din familii defavorizate și a procedurii de acordare a tichetelor sociale pentru grădinițe Vizualizare",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2016-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2016-03-18",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/157/342-modificare-103.pdf",
+     "sha256": "88b9d677fc10a558e8c7a54e626e3f5e48926b8a2d5277030c9206bd4baedd3a"
+    }
+   ]
+  }
+ ]
+}

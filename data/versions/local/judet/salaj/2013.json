@@ -1,0 +1,186 @@
+{
+ "country": "RO",
+ "shard": "local/judet/salaj/2013",
+ "acts": [
+  {
+   "slug": "hcj-salaj-113-2013",
+   "path": "local/judet/salaj/2013/113",
+   "short": "HCJ Sălaj nr. 113/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 113/2013 privind stabilirea taxelor şi tarifelor de competenţa Consiliului Judeţean Sălaj, pentru anul 2014",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-11-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot1132013.pdf",
+     "sha256": "de45b30c36c8948209aecccb7ac285814c9e28abb20c9f1ed75a5da98ad5bab7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-121-2013",
+   "path": "local/judet/salaj/2013/121",
+   "short": "HCJ Sălaj nr. 121/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 121/2013 privind modificarea și completarea Hotărârii Consiliului Judeţean Sălaj nr.10 din 25 februarie 2011 pentru aprobarea formei gestiunii delegate a serviciului de administrare a domeniului public şi privat al judeţului, precum şi a regulamentului de delegare a ge",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-12-20",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot1212013.pdf",
+     "sha256": "01136f09e91688cb461fa6cc4789149fe2bd0d23a4742bcd41d6357f45a63a51"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-19-2013",
+   "path": "local/judet/salaj/2013/19",
+   "short": "HCJ Sălaj nr. 19/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 19/2013 privind modificarea Hotărârii Consiliului Județean nr. 6 din 28 ianuarie 2013 privind aprobarea Regulamentului de organizare și desfășurare a evaluării anuale a managementului la Muzeul Județean de Istorie și Artă Zalău și desemnarea reprezentanților Consiliulu",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot192013.pdf",
+     "sha256": "ca4ec2b243a3a37dc440f5a1a13f015a4eb3cdb7a44eaaf2285f28b0ad976995"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-24-2013",
+   "path": "local/judet/salaj/2013/24",
+   "short": "HCJ Sălaj nr. 24/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 24/2013 privind alocarea cotei de 20% din impozitul pe venit şi din sumele defalcate din unele venituri ale bugetului de stat pentru achitarea arieratelor provenite din neplata cheltuielilor de funcţionare şi/sau de capital, în ordinea cronologică a vechimii arieratelor",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-03-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot242013.pdf",
+     "sha256": "068f0d863889f49f0c37d919fbb97b470ecedd30ec343f4b3a17ecaf101c3cc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-29-2013",
+   "path": "local/judet/salaj/2013/29",
+   "short": "HCJ Sălaj nr. 29/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 29/2013 privind completarea Hotărârii Consiliului Judeţean Sălaj nr. 132 din 16 noiembrie 2012 privind stabilirea taxelor şi tarifelor, de competenţa Consiliului Judeţean Sălaj, pentru anul 2013",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-03-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot292013.pdf",
+     "sha256": "55da969bbaf967eabca35deef32a67d3a6e2fee26e58ef5c2400cae08f172298"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-4-2013",
+   "path": "local/judet/salaj/2013/4",
+   "short": "HCJ Sălaj nr. 4/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 4/2013 privind aprobarea Regulamentului de organizare şi desfăşurare a evaluării anuale a managementului la Biblioteca Judeţeană \"Ioniţă Scipione Bădescu\" Sălaj şi desemnarea reprezentanţilor Consiliului Judeţean Sălaj în cadrul comisiei de evaluare şi a comisiei de sol",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-01-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot42013.pdf",
+     "sha256": "5eacb9ff17cf999c6eaa5bd00879c33c08b0189c96bb3746e6a59b9bcfef7f1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-5-2013",
+   "path": "local/judet/salaj/2013/5",
+   "short": "HCJ Sălaj nr. 5/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 5/2013 privind aprobarea Regulamentului de organizare şi desfăşurare a evaluării anuale a managementului la Centrul de Cultură şi Artă al Judeţului Sălaj şi desemnarea reprezentanţilor Consiliului Judeţean Sălaj în cadrul comisiei de evaluare şi a comisiei de soluţionar",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-01-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot52013.pdf",
+     "sha256": "4a15dc5116671a6b8d07528f91f8b1969cb879723042017376782b1fd8bf4012"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-6-2013",
+   "path": "local/judet/salaj/2013/6",
+   "short": "HCJ Sălaj nr. 6/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 6/2013 privind aprobarea Regulamentului de organizare şi desfăşurare a evaluării anuale a managementului la Muzeul Judeţean de Istorie şi Artă Zalău şi desemnarea reprezentanţilor Consiliului Judeţean Sălaj în cadrul comisiei de evaluare şi comisiei de soluţionare a con",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-01-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot62013.pdf",
+     "sha256": "ec9a5bbff7179b82a0e0ee3e23a9d694574e54b81f3ef9fad3cd30facbf7ffbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-7-2013",
+   "path": "local/judet/salaj/2013/7",
+   "short": "HCJ Sălaj nr. 7/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 7/2013 privind completarea Hotărârii Consiliului Judeţean Sălaj nr. 132 din 16 noiembrie 2012 privind stabilirea taxelor şi tarifelor de competenţa Consiliului Judeţean Sălaj pentru anul 2013",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-01-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot72013.pdf",
+     "sha256": "6b8f4251bc6ba74406b93c1c69537ced1ee6a565fd9df1328b06e476c0317bb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-78-2013",
+   "path": "local/judet/salaj/2013/78",
+   "short": "HCJ Sălaj nr. 78/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 78/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-07-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot782013.pdf",
+     "sha256": "3d570fd9130a50a66e26f67b9c00699afd3b43129e0152470bf123b26e9df620"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-84-2013",
+   "path": "local/judet/salaj/2013/84",
+   "short": "HCJ Sălaj nr. 84/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 84/2013 privind aprobarea unor taxe la Centrul de Cultură şi Artă al Judeţului Sălaj, pentru anul şcolar 2013-2014",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-08-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot842013.pdf",
+     "sha256": "4d25dc3a1185ef496ae3414c15e9e5ff9eec28d12f0d6654b0754304e9c620fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-86-2013",
+   "path": "local/judet/salaj/2013/86",
+   "short": "HCJ Sălaj nr. 86/2013",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 86/2013 privind aprobarea Regulamentului de organizare și funcționare al aparatului de specialitate al Consiliului Județean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=101:hotarari-2013&catid=2",
+   "versions": [
+    {
+     "from": "2013-08-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2013/hot862013.pdf",
+     "sha256": "be45a957bb4d26cb67336af87f2df53600f2a6ec542c2c80f67c8d9e5f7a72d1"
+    }
+   ]
+  }
+ ]
+}

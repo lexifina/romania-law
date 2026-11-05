@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/brad/2026",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--brad-109-2026",
+   "path": "local/hunedoara/brad/2026/109",
+   "short": "HCL Brad nr. 109/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 109/2026",
+   "url": "https://emol.ro/brad-hd/registru-hcl/276378",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/102928/Anexa%20nr.%201%20-%20HCL%20109%20-Bugetul%20de%20venituri%20si%20cheltuieli%20TERMICA-1-3.pdf",
+     "sha256": "621591f2cc24a65e2323762ca69da301b59ba21ef5e4a85f1e7b510db4009818"
+    }
+   ]
+  }
+ ]
+}

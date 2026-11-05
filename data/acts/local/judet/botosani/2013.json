@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/judet/botosani/2013",
+"acts": [
+{
+"slug": "hcj-botosani-39-2013",
+"path": "local/judet/botosani/2013/39",
+"kind": "local",
+"year": "2013",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 39/2013 privind aprobarea Programului anual pentru acordarea de finanţări nerambursabile pe anul 2013 şi a Regulamentului privind regimul finanţărilor nerambursabile alocate din fonduri ale bugetului Judeţului Botoşani pentru activităţi non-profit de interes judeţean",
+"short": "HCJ Botoșani nr. 39/2013",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2013-04-25",
+"latest": "2013-04-25",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-73-2013",
+"path": "local/judet/botosani/2013/73",
+"kind": "local",
+"year": "2013",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 73/2013 privind aprobarea Regulamentelor de organizare şi funcţionare a aparatului de specialitate al Consiliului Judeţean Botoşani şi a unor instituţii publice din subordinea Consiliului Judeţean Botoşani",
+"short": "HCJ Botoșani nr. 73/2013",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2013-06-26",
+"latest": "2013-06-26",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

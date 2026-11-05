@@ -224,6 +224,94 @@
 }
 },
 {
+"slug": "hcj-hunedoara-62-2019",
+"path": "local/judet/hunedoara/2019/62",
+"kind": "local",
+"year": "2019",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Hunedoara nr. 62/2019 pentru echilibrarea bugetelor locale și sumelor din cota de 18,5% din impozitul pe venit pentru echilibrarea bugetelor locale, estimate pentru anii 2020 – 2022 (20%)",
+"short": "HCJ Hunedoara nr. 62/2019",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2019-03-29",
+"latest": "2019-03-29",
+"portal": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+"council": "judet/hunedoara",
+"council_name": "Consiliul Județean Hunedoara",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-hunedoara-108-2019",
+"path": "local/judet/hunedoara/2019/108",
+"kind": "local",
+"year": "2019",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Hunedoara nr. 108/2019 privind aprobarea nivelului taxelor și tarifelor, precum și altor taxe asimilate acestora din competența Consiliului Județean Hunedoara aplicabile în anul fiscal 2019",
+"short": "HCJ Hunedoara nr. 108/2019",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2019-05-31",
+"latest": "2019-05-31",
+"portal": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+"council": "judet/hunedoara",
+"council_name": "Consiliul Județean Hunedoara",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-hunedoara-144-2019",
+"path": "local/judet/hunedoara/2019/144",
+"kind": "local",
+"year": "2019",
+"number": "144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Hunedoara nr. 144/2019 pentru Valea Jiului; Anexa 2 - Regulament",
+"short": "HCJ Hunedoara nr. 144/2019",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2019-06-19",
+"latest": "2019-06-19",
+"portal": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+"council": "judet/hunedoara",
+"council_name": "Consiliul Județean Hunedoara",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-hunedoara-187-2019",
+"path": "local/judet/hunedoara/2019/187",
+"kind": "local",
+"year": "2019",
+"number": "187",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Hunedoara nr. 187/2019 pentru apa potabilă și a tarifului pentru canalizare-epurare pentru aria de operare a SC APAPROD SA DEVA",
+"short": "HCJ Hunedoara nr. 187/2019",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2019-08-14",
+"latest": "2019-08-14",
+"portal": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+"council": "judet/hunedoara",
+"council_name": "Consiliul Județean Hunedoara",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
 "slug": "hcj-hunedoara-200-2019",
 "path": "local/judet/hunedoara/2019/200",
 "kind": "local",
@@ -261,6 +349,28 @@
 "from": "2019-08-28",
 "latest": "2019-08-28",
 "portal": "https://www.cjhunedoara.ro/index.php/programul-judetean-de-transport-public-pentru-2008-2011",
+"council": "judet/hunedoara",
+"council_name": "Consiliul Județean Hunedoara",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-hunedoara-258-2019",
+"path": "local/judet/hunedoara/2019/258",
+"kind": "local",
+"year": "2019",
+"number": "258",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Hunedoara nr. 258/2019 pentru eliberarea licențelor de traseu și a taxei pentru înlocuirea licenței de traseu în vederea efectuării transportului rutier contra cost de persoane prin servicii regulate la nivel județean",
+"short": "HCJ Hunedoara nr. 258/2019",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2019-10-31",
+"latest": "2019-10-31",
+"portal": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
 "council": "judet/hunedoara",
 "council_name": "Consiliul Județean Hunedoara",
 "flags": {

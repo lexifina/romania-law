@@ -1,0 +1,51 @@
+{
+"country": "RO",
+"shard": "local/judet/dolj/2015",
+"acts": [
+{
+"slug": "hcj-dolj-10-2015",
+"path": "local/judet/dolj/2015/10",
+"kind": "local",
+"year": "2015",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Dolj nr. 10/2015",
+"short": "HCJ Dolj nr. 10/2015",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2015-02-01",
+"latest": "2015-02-01",
+"portal": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+"council": "judet/dolj",
+"council_name": "Consiliul Județean Dolj",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-dolj-153-2015",
+"path": "local/judet/dolj/2015/153",
+"kind": "local",
+"year": "2015",
+"number": "153",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Dolj nr. 153/2015 pentru a vota in adunarea generala a asociatiei preturile si tarifele unice pentru serviciile de alimentare cu apa si de canalizare, aplicate de catre S.C",
+"short": "HCJ Dolj nr. 153/2015",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2015-07-01",
+"latest": "2015-07-01",
+"portal": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+"council": "judet/dolj",
+"council_name": "Consiliul Județean Dolj",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

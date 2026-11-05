@@ -3,6 +3,36 @@
  "shard": "local/judet/vaslui/2023",
  "acts": [
   {
+   "slug": "hcj-vaslui-119-2023",
+   "path": "local/judet/vaslui/2023/119",
+   "short": "HCJ Vaslui nr. 119/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 119/2023 pentru aprobarea contractării unui împrumut în valoare de 7.500.000 lei, în conformitate cu prevederile art.1 din Ordonanța de urgență a Guvernului nr.24/2023 privind unele măsuri fiscal-bugetare destinate acordării unor împrumuturi din Trezoreria Statului 03 iulie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr119_2023.pdf",
+     "sha256": "8992b378542d7715b103c4f210989d25a353a067c34a51ecdfcff8c98bb384e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-141-2023",
+   "path": "local/judet/vaslui/2023/141",
+   "short": "HCJ Vaslui nr. 141/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 141/2023",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr141_2023.pdf",
+     "sha256": "10a3746a352a7a968af4317b4ccf30b91478e3df26bb2e8a55a33172cf810e3d"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vaslui-174-2023",
    "path": "local/judet/vaslui/2023/174",
    "short": "HCJ Vaslui nr. 174/2023",
@@ -1169,6 +1199,21 @@
      "units": 1,
      "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr260_2023.pdf",
      "sha256": "480517e120e8fd603b35fb3d0b3bed70871d79c173a06287a6cba5c7aaaec9d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-85-2023",
+   "path": "local/judet/vaslui/2023/85",
+   "short": "HCJ Vaslui nr. 85/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 85/2023 privind aprobarea Metodologiei de evaluare, selecție și monitorizare a propunerilor de proiecte depuse în cadrul Programului județean pentru finanțarea nerambursabilă a activităților non-profit de interes local, precum și a Ghidurilor Solicitantului pentru domeniile cultură, culte, social, activități de tineret și sport 13 aprilie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr85_2023.pdf",
+     "sha256": "b41ed34332d9fd43646b66380c3e3f872788671c22a1c850ce6d5780e417e315"
     }
    ]
   }

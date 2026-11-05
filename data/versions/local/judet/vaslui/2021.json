@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcj-vaslui-123-2021",
+   "path": "local/judet/vaslui/2021/123",
+   "short": "HCJ Vaslui nr. 123/2021",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 123/2021 privind aprobarea contractării unui împrumut în valoare de 20.000.000 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 83/2021 pentru unele măsuri fiscal-bugetare privind acordarea unor împrumuturi din Trezoreria Statului 05 octombrie",
+   "url": "https://cjvs.eu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2021/HotarareaNr123_2021.pdf",
+     "sha256": "ada8a4b036f3e1bef491e547959fe8a89324f60946f3c2394a1b6d868a0c394b"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vaslui-13-2021",
    "path": "local/judet/vaslui/2021/13",
    "short": "HCJ Vaslui nr. 13/2021",
@@ -134,6 +149,21 @@
      "units": 1,
      "source_url": "http://vechi.cjvs.eu/downloads/hotarari/2021/HotarareaNr18_2021.pdf",
      "sha256": "2b7ca8b6357fad07a5880922ac28b7859e5abef30ccb82fef016d993fac09766"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-188-2021",
+   "path": "local/judet/vaslui/2021/188",
+   "short": "HCJ Vaslui nr. 188/2021",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 188/2021 privind stabilirea prețurilor medii ale produselor agricole exprimate în natură în contractul de arendă pentru anul fiscal 2022 03 decembrie",
+   "url": "https://cjvs.eu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2021/HotarareaNr188_2021.pdf",
+     "sha256": "1c6501ce8046b119bfeea2471ec89dc9938f8ce5d8d69374d5747f26e2dfc08c"
     }
    ]
   },
@@ -449,6 +479,21 @@
      "units": 1,
      "source_url": "http://vechi.cjvs.eu/downloads/hotarari/2021/HotarareaNr7_2021.pdf",
      "sha256": "f18d00becf200812e5999a14b094b30199336097d3dc978bc616ea1b58821d7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-79-2021",
+   "path": "local/judet/vaslui/2021/79",
+   "short": "HCJ Vaslui nr. 79/2021",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 79/2021 privind aprobarea Metodologiei de evaluare și selecție a propunerilor de proiecte depuse în cadrul Programului judeţean pentru finanţarea nerambursabilă a activităţilor non-profit de interes local pentru anul 2021, precum și a Ghidurilor Solicitantului pentru domeniile cultură, culte, social și sport 26 mai",
+   "url": "https://cjvs.eu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-05-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2021/HotarareaNr79_2021.pdf",
+     "sha256": "04cae03e149d486fd9158f6cc7be133783fbff6c82370377caf426da81e1b165"
     }
    ]
   },

@@ -1,0 +1,96 @@
+{
+"country": "RO",
+"shard": "local/prahova/campina/2016",
+"acts": [
+{
+"slug": "hcl-prahova--campina-72-2016",
+"path": "local/prahova/campina/2016/72",
+"kind": "local",
+"year": "2016",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 72/2016",
+"short": "HCL Câmpina nr. 72/2016",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2016-05-26",
+"latest": "2016-05-26",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--campina-116-2016",
+"path": "local/prahova/campina/2016/116",
+"kind": "local",
+"year": "2016",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 116/2016",
+"short": "HCL Câmpina nr. 116/2016",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2016-08-25",
+"latest": "2016-08-25",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--campina-131-2016",
+"path": "local/prahova/campina/2016/131",
+"kind": "local",
+"year": "2016",
+"number": "131",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 131/2016 privind aprobarea Regulamentelor privind concesionarea/ il bunurilor aparfinand proprietatii publice a Municipiului Campina Avand in vedere: - expunerea de motive nr.69.083/19 septembrie 2016 a membrilor Comisiei administra{ie publica locala, juridic, rela{ii cu publicul, servicii si comert, munca si probleme sociale, s.am.d., prin care propun aprobarea Regulamentelor privind concesionarea/ inchir",
+"short": "HCL Câmpina nr. 131/2016",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2016-09-27",
+"latest": "2016-09-27",
+"portal": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2016/",
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-prahova--campina-172-2016",
+"path": "local/prahova/campina/2016/172",
+"kind": "local",
+"year": "2016",
+"number": "172",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 172/2016 privind stabiIirea impozitelor$i taxelor locaIe pentru anuI 2(F Avand in vedere : -expunereademotivenr.69.296/21 noiembrie 2016 a d-lui ing",
+"short": "HCL Câmpina nr. 172/2016",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2016-12-15",
+"latest": "2016-12-15",
+"portal": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2016/",
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

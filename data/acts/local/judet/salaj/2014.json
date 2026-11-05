@@ -1,0 +1,273 @@
+{
+"country": "RO",
+"shard": "local/judet/salaj/2014",
+"acts": [
+{
+"slug": "hcj-salaj-5-2014",
+"path": "local/judet/salaj/2014/5",
+"kind": "local",
+"year": "2014",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 5/2014",
+"short": "HCJ Sălaj nr. 5/2014",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2014-01-27",
+"latest": "2014-01-27",
+"portal": null,
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-salaj-16-2014",
+"path": "local/judet/salaj/2014/16",
+"kind": "local",
+"year": "2014",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 16/2014 privind modificarea şi completarea Hotărârii Consiliului Județean Sălaj nr. 113 din 26 noiembrie 2013 privind stabilirea taxelor și tarifelor de competența Consiliului Județean Sălaj, pentru anul 2014",
+"short": "HCJ Sălaj nr. 16/2014",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2014-02-28",
+"latest": "2014-02-28",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=100:hotarari-2014&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-17-2014",
+"path": "local/judet/salaj/2014/17",
+"kind": "local",
+"year": "2014",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 17/2014 privind aprobarea Regulamentului de organizare şi desfăşurare a evaluării anuale a managementului la Biblioteca Judeţeană \"Ioniţă Scipione Bădescu\" Sălaj și desemnarea reprezentanţilor Consiliului Judeţean Sălaj în cadrul comisiei de evaluare şi comisiei de sol",
+"short": "HCJ Sălaj nr. 17/2014",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2014-02-28",
+"latest": "2014-02-28",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=100:hotarari-2014&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-26-2014",
+"path": "local/judet/salaj/2014/26",
+"kind": "local",
+"year": "2014",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 26/2014 privind aprobarea caietului de obiective, a Regulamentului de organizare şi desfăşurare a concursului de management organizat pentru ocuparea postului de manager la Muzeul Judeţean de Istorie şi Artă Zalău şi desemnarea reprezentanţilor Consiliului Judeţean Sălaj",
+"short": "HCJ Sălaj nr. 26/2014",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2014-03-31",
+"latest": "2014-03-31",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=100:hotarari-2014&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-27-2014",
+"path": "local/judet/salaj/2014/27",
+"kind": "local",
+"year": "2014",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 27/2014 privind aprobarea caietului de obiective, a Regulamentului de organizare şi desfăşurare a concursului de management organizat pentru ocuparea postului de manager la Centrul de Cultură şi Artă al Judeţului Sălaj şi desemnarea reprezentanţilor Consiliului Judeţean S",
+"short": "HCJ Sălaj nr. 27/2014",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2014-03-31",
+"latest": "2014-03-31",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=100:hotarari-2014&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-92-2014",
+"path": "local/judet/salaj/2014/92",
+"kind": "local",
+"year": "2014",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 92/2014 privind aprobarea unor taxe la Centrul de Cultură şi Artă al Judeţului Sălaj, pentru anul şcolar 2014-2015",
+"short": "HCJ Sălaj nr. 92/2014",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2014-08-22",
+"latest": "2014-08-22",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=100:hotarari-2014&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-114-2014",
+"path": "local/judet/salaj/2014/114",
+"kind": "local",
+"year": "2014",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 114/2014 privind pentru modificarea şi completarea Hotărârii Consiliului Județean Sălaj nr. 1 din 27 ianuarie 2014 privind alocarea cotei de 20% din impozitul pe venit şi din sumele defalcate din unele venituri ale bugetului de stat pentru susţinerea programelor de dez",
+"short": "HCJ Sălaj nr. 114/2014",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2014-10-24",
+"latest": "2014-10-24",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=100:hotarari-2014&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-117-2014",
+"path": "local/judet/salaj/2014/117",
+"kind": "local",
+"year": "2014",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 117/2014",
+"short": "HCJ Sălaj nr. 117/2014",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2014-10-24",
+"latest": "2014-10-24",
+"portal": null,
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-salaj-131-2014",
+"path": "local/judet/salaj/2014/131",
+"kind": "local",
+"year": "2014",
+"number": "131",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 131/2014 privind aprobarea Regulamentului de organizare şi funcţionare al aparatului de specialitate al Consiliului Judeţean Sălaj",
+"short": "HCJ Sălaj nr. 131/2014",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2014-11-28",
+"latest": "2014-11-28",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=100:hotarari-2014&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-136-2014",
+"path": "local/judet/salaj/2014/136",
+"kind": "local",
+"year": "2014",
+"number": "136",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 136/2014 privind aprobarea Caietului de obiective, a Regulamentului de organizare şi desfăşurare a concursului de management organizat pentru ocuparea postului de manager la Biblioteca Judeţeană \"Ioniţă Scipione Bădescu\" Sălaj şi desemnarea reprezentanţilor Consiliului",
+"short": "HCJ Sălaj nr. 136/2014",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2014-11-28",
+"latest": "2014-11-28",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=100:hotarari-2014&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-149-2014",
+"path": "local/judet/salaj/2014/149",
+"kind": "local",
+"year": "2014",
+"number": "149",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 149/2014 privind stabilirea taxelor şi tarifelor de competenţa Consiliului Judeţean Sălaj, pentru anul 2015",
+"short": "HCJ Sălaj nr. 149/2014",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2014-12-23",
+"latest": "2014-12-23",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=100:hotarari-2014&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-151-2014",
+"path": "local/judet/salaj/2014/151",
+"kind": "local",
+"year": "2014",
+"number": "151",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 151/2014",
+"short": "HCJ Sălaj nr. 151/2014",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2014-12-23",
+"latest": "2014-12-23",
+"portal": null,
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+}
+]
+}

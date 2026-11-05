@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/vrancea/adjud/2011",
+ "acts": [
+  {
+   "slug": "hcl-vrancea--adjud-108-2011",
+   "path": "local/vrancea/adjud/2011/108",
+   "short": "HCL Adjud nr. 108/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 108/2011 pentru aprobarea unor măsuri privind spațiile verzi din municipiul Adjud Consiliul Local al Municipiului Adjud întrunit în ședința ordinară la convocarea Primarului municipiului Adjud analizând: - Expunerea de motive a Primarului Municipiului Adjud , care a inițiat proiectul de hotărâre privind aprobarea Regulamentului privind administrarea spațiilor verzi din municipiul Adjud ; - Raportul de spec",
+   "url": "https://www.adjud.ro/municipiul-adjud/consiliul-local-pagina/hotarari/hotarari-2011/",
+   "versions": [
+    {
+     "from": "2011-08-11",
+     "units": 5,
+     "source_url": "https://www.adjud.ro/assets/media/2017/02/15-05-19-09-11-48HCL_108.pdf",
+     "sha256": "ede91636adfe833e7071e7ace464c8dc9909003b31a5b716232deef0a36f0935"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--adjud-15-2011",
+   "path": "local/vrancea/adjud/2011/15",
+   "short": "HCL Adjud nr. 15/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 15/2011 privind aprobarea taxelor speciale pentru activitățile de stare civilă prestate de către Serviciul Public Comunitar Local de Evidență a Persoanelor Consiliul local al municipiului Adjud, întrunit în ședință ordinară : - Văzând Expunerea de motive a Primarului mun",
+   "url": "https://www.adjud.ro/municipiul-adjud/consiliul-local-pagina/hotarari/hotarari-2011/",
+   "versions": [
+    {
+     "from": "2011-02-16",
+     "units": 3,
+     "source_url": "https://www.adjud.ro/assets/media/2017/02/15-05-19-09-11-33HCL_15.pdf",
+     "sha256": "4b632b17f52417947364b41e00a270d10f275f9d08f18cd6482f72ac717bcd95"
+    }
+   ]
+  }
+ ]
+}

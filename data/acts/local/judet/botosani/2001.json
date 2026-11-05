@@ -1,0 +1,248 @@
+{
+"country": "RO",
+"shard": "local/judet/botosani/2001",
+"acts": [
+{
+"slug": "hcj-botosani-52-2001",
+"path": "local/judet/botosani/2001/52",
+"kind": "local",
+"year": "2001",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 52/2001 privind stabilirea tarifelor pentru desfasurarea activitatii Centrului Judetean pentru Conservarea si Promovarea Culturii Traditionale Botosani, in anul 2005",
+"short": "HCJ Botoșani nr. 52/2001",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2001-03-04",
+"latest": "2001-03-04",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-53-2001",
+"path": "local/judet/botosani/2001/53",
+"kind": "local",
+"year": "2001",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 53/2001 privind aprobarea taxelor si tarifelor practicate de Muzeul Judetean Botosani, pentru serviciile prestate in anul 2005",
+"short": "HCJ Botoșani nr. 53/2001",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2001-03-04",
+"latest": "2001-03-04",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-54-2001",
+"path": "local/judet/botosani/2001/54",
+"kind": "local",
+"year": "2001",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 54/2001 privind aprobarea unor tarife pentru drumurile publice administrate de catre Directia Judeteana de Drumuri si Poduri Botosani, pentru anul 2005",
+"short": "HCJ Botoșani nr. 54/2001",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2001-03-04",
+"latest": "2001-03-04",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-55-2001",
+"path": "local/judet/botosani/2001/55",
+"kind": "local",
+"year": "2001",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 55/2001 privind aprobarea de taxe si tarife pentru serviciile prestate de Memorialul Ipotesti - Centrul National de Studii \"Mihai Eminescu\" pentru anul 2005",
+"short": "HCJ Botoșani nr. 55/2001",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2001-03-04",
+"latest": "2001-03-04",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-167-2001",
+"path": "local/judet/botosani/2001/167",
+"kind": "local",
+"year": "2001",
+"number": "167",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 167/2001 privind privind însuşirea Planului Strategic al Autorităţii Teritoriale de Ordine Publică Botoşani pe anul 2013",
+"short": "HCJ Botoșani nr. 167/2001",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2001-08-12",
+"latest": "2001-08-12",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-168-2001",
+"path": "local/judet/botosani/2001/168",
+"kind": "local",
+"year": "2001",
+"number": "168",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 168/2001 privind aprobarea preţurilor medii ale produselor agricole pentru anul 2014",
+"short": "HCJ Botoșani nr. 168/2001",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2001-06-13",
+"latest": "2001-06-13",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-170-2001",
+"path": "local/judet/botosani/2001/170",
+"kind": "local",
+"year": "2001",
+"number": "170",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 170/2001 privind aprobarea tarifelor practicate de Orchestra Populară „Rapsozii Botoşanilor”, pentru serviciile prestate în anul 2013",
+"short": "HCJ Botoșani nr. 170/2001",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2001-08-12",
+"latest": "2001-08-12",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-171-2001",
+"path": "local/judet/botosani/2001/171",
+"kind": "local",
+"year": "2001",
+"number": "171",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 171/2001 privind aprobarea tarifelor practicate de Muzeul Judeţean Botoşani, pentru serviciile prestate în anul 2013",
+"short": "HCJ Botoșani nr. 171/2001",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2001-08-12",
+"latest": "2001-08-12",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-172-2001",
+"path": "local/judet/botosani/2001/172",
+"kind": "local",
+"year": "2001",
+"number": "172",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 172/2001 privind stabilirea tarifelor pentru serviciile prestate de Centrul Judeţean pentru Conservarea şi Promovarea Culturii Tradiţionale Botoşani, pentru anul 2013",
+"short": "HCJ Botoșani nr. 172/2001",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2001-08-12",
+"latest": "2001-08-12",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-175-2001",
+"path": "local/judet/botosani/2001/175",
+"kind": "local",
+"year": "2001",
+"number": "175",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 175/2001 privind aprobarea tarifelor pentru serviciile prestate de Camera Agricolă Judeţeană Botoşani, pentru anul 2013",
+"short": "HCJ Botoșani nr. 175/2001",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2001-08-12",
+"latest": "2001-08-12",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-176-2001",
+"path": "local/judet/botosani/2001/176",
+"kind": "local",
+"year": "2001",
+"number": "176",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 176/2001 privind aprobarea tarifelor pentru eliberarea licenţelor de traseu în vederea efectuării transportului public judeţean de persoane prin curse regulate speciale, pentru anul 2013",
+"short": "HCJ Botoșani nr. 176/2001",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2001-08-12",
+"latest": "2001-08-12",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

@@ -1,0 +1,227 @@
+{
+"country": "RO",
+"shard": "local/judet/salaj/2015",
+"acts": [
+{
+"slug": "hcj-salaj-13-2015",
+"path": "local/judet/salaj/2015/13",
+"kind": "local",
+"year": "2015",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 13/2015 privind aprobarea Regulamentului de organizare şi desfăşurare a evaluării anuale a managementului la Muzeul Judeţean de Istorie şi Artă Zalău şi desemnarea reprezentanţilor Consiliului Judeţean Sălaj în cadrul comisiei de evaluare şi comisiei de soluţionare a c",
+"short": "HCJ Sălaj nr. 13/2015",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2015-02-27",
+"latest": "2015-02-27",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=99:hotarari-2015&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-14-2015",
+"path": "local/judet/salaj/2015/14",
+"kind": "local",
+"year": "2015",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 14/2015 privind aprobarea Regulamentului de organizare şi desfăşurare a evaluării anuale a managementului la Centrul de Cultură şi Artă al Judeţului Sălaj şi desemnarea reprezentanţilor Consiliului Judeţean Sălaj în cadrul comisiei de evaluare şi comisiei de soluţionar",
+"short": "HCJ Sălaj nr. 14/2015",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2015-02-27",
+"latest": "2015-02-27",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=99:hotarari-2015&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-18-2015",
+"path": "local/judet/salaj/2015/18",
+"kind": "local",
+"year": "2015",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 18/2015 privind modificarea Hotărârii Consiliului Judeţean Sălaj nr. 10 din 25 ianuarie 2011 privind aprobarea formei gestiunii delegate a serviciului de administrare a domeniului public şi privat al judeţului, precum şi a regulamentului, studiului de oportunitate, a c",
+"short": "HCJ Sălaj nr. 18/2015",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2015-02-27",
+"latest": "2015-02-27",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=99:hotarari-2015&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-32-2015",
+"path": "local/judet/salaj/2015/32",
+"kind": "local",
+"year": "2015",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 32/2015 privind aprobarea Regulamentului pentru acordarea sprijinului financiar unităţilor de cult din judeţul Sălaj, aparţinând cultelor religioase recunoscute din România",
+"short": "HCJ Sălaj nr. 32/2015",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2015-03-30",
+"latest": "2015-03-30",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=99:hotarari-2015&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-34-2015",
+"path": "local/judet/salaj/2015/34",
+"kind": "local",
+"year": "2015",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 34/2015 privind aprobarea Regulamentului de organizare şi funcţionare al aparatului de specialitate al Consiliului Judeţean Sălaj",
+"short": "HCJ Sălaj nr. 34/2015",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2015-03-30",
+"latest": "2015-03-30",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=99:hotarari-2015&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-78-2015",
+"path": "local/judet/salaj/2015/78",
+"kind": "local",
+"year": "2015",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 78/2015",
+"short": "HCJ Sălaj nr. 78/2015",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2015-06-30",
+"latest": "2015-06-30",
+"portal": null,
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-salaj-89-2015",
+"path": "local/judet/salaj/2015/89",
+"kind": "local",
+"year": "2015",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 89/2015 privind aprobarea taxelor percepute de Centrul de Cultură şi Artă al Judeţului Sălaj, pentru anul şcolar 2015-2016",
+"short": "HCJ Sălaj nr. 89/2015",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2015-07-23",
+"latest": "2015-07-23",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=99:hotarari-2015&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-97-2015",
+"path": "local/judet/salaj/2015/97",
+"kind": "local",
+"year": "2015",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 97/2015 privind aprobarea utilizării de către Asociaţia de Dezvoltare Intercomunitară \"Transilvania de Nord\" Cluj a sumei de 10,80 mii lei pentru plata impozitului datorat pe perioada 2011-2015 asupra autospecialelor date în folosinţă, cu titlu gratuit, Inspectoratului pe",
+"short": "HCJ Sălaj nr. 97/2015",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2015-08-28",
+"latest": "2015-08-28",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=99:hotarari-2015&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-143-2015",
+"path": "local/judet/salaj/2015/143",
+"kind": "local",
+"year": "2015",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 143/2015 privind stabilirea taxelor și tarifelor de competența Consiliului Județean Sălaj, pentru anul 2016",
+"short": "HCJ Sălaj nr. 143/2015",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2015-11-10",
+"latest": "2015-11-10",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=99:hotarari-2015&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-149-2015",
+"path": "local/judet/salaj/2015/149",
+"kind": "local",
+"year": "2015",
+"number": "149",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 149/2015 pentru modificarea Hotărârii Consiliului Judeţean Sălaj nr. 10 din 25 ianuarie 2011 privind aprobarea formei gestiunii delegate a serviciului de administrare a domeniului public şi privat al judeţului, precum şi a regulamentului, studiului de oportunitate, a c",
+"short": "HCJ Sălaj nr. 149/2015",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2015-11-27",
+"latest": "2015-11-27",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=99:hotarari-2015&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

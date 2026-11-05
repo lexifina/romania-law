@@ -111,6 +111,72 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcj-hunedoara-47-2026",
+"path": "local/judet/hunedoara/2026/47",
+"kind": "local",
+"year": "2026",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Hunedoara nr. 47/2026 privind Aprobarea completării Regulamentelor privind cofinanţarea furnizorilor privaţi acreditaţi de servicii sociale în domeniul protecţiei copilului şi în domeniul protecţiei persoanei adulte cu handicap sau persoanei vârstnice din cuprinsul Hotărârii Consiliului Județean Hunedoara nr.55/2017, cu modificările și completările ulterioare - publicat la data de 07.05.2026",
+"short": "HCJ Hunedoara nr. 47/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-04-29",
+"latest": "2026-04-29",
+"portal": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/916-hotarari-2026",
+"council": "judet/hunedoara",
+"council_name": "Consiliul Județean Hunedoara",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-hunedoara-165-2026",
+"path": "local/judet/hunedoara/2026/165",
+"kind": "local",
+"year": "2026",
+"number": "165",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Hunedoara nr. 165/2026 privind Modificarea și completarea Anexei 3 la Hotărârea Consiliului Județean Hunedoara nr.310/2025 privind aprobarea nivelului taxelor şi tarifelor precum şi altor taxe asimilate acestora, din competenţa Consiliului Judeţean Hunedoara, aplicabile în anul fiscal 2026, cu modificările și completările ulterioare - publicat la data de 15.09.2026",
+"short": "HCJ Hunedoara nr. 165/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-08-28",
+"latest": "2026-08-28",
+"portal": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/916-hotarari-2026",
+"council": "judet/hunedoara",
+"council_name": "Consiliul Județean Hunedoara",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-hunedoara-166-2026",
+"path": "local/judet/hunedoara/2026/166",
+"kind": "local",
+"year": "2026",
+"number": "166",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Hunedoara nr. 166/2026 privind Aprobarea Regulamentului-cadru privind închirierea fără licitație publică a unor spații cu o suprafață utilă de maximum 10 mp, aflate în domeniul public al județului Hunedoara - publicat la data de 15.09.2026",
+"short": "HCJ Hunedoara nr. 166/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-08-28",
+"latest": "2026-08-28",
+"portal": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/916-hotarari-2026",
+"council": "judet/hunedoara",
+"council_name": "Consiliul Județean Hunedoara",
+"flags": {
+"text_pending": "ocr"
+}
 }
 ]
 }

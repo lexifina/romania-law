@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/judet/botosani/2014",
+"acts": [
+{
+"slug": "hcj-botosani-51-2014",
+"path": "local/judet/botosani/2014/51",
+"kind": "local",
+"year": "2014",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 51/2014 privind aprobarea Regulamentului de organizare şi funcţionare al Serviciului Public Comunitar de Evidenţă a Persoanelor al Judeţului Botoşani din subordinea Consiliului Judeţean Botoşani",
+"short": "HCJ Botoșani nr. 51/2014",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2014-04-30",
+"latest": "2014-04-30",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-112-2014",
+"path": "local/judet/botosani/2014/112",
+"kind": "local",
+"year": "2014",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 112/2014 privind aprobarea Caietului de obiective, Regulamentului de organizare şi desfăşurare a concursului de management, condiţiilor de participare la concurs şi bibliografiei pentru postul de manager la Muzeul Judeţean Botoşani, instituţie publică de cultură din subordinea Consiliului Judeţean B",
+"short": "HCJ Botoșani nr. 112/2014",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2014-10-16",
+"latest": "2014-10-16",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-149-2014",
+"path": "local/judet/botosani/2014/149",
+"kind": "local",
+"year": "2014",
+"number": "149",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 149/2014 privind aprobarea tarifelor pentru eliberarea licenţelor de traseu în vederea efectuării transportului public judeţean de persoane prin curse regulate speciale, pentru anul 2015",
+"short": "HCJ Botoșani nr. 149/2014",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2014-12-17",
+"latest": "2014-12-17",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

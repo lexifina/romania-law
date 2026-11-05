@@ -3,6 +3,21 @@
  "shard": "local/arges/campulung/2020",
  "acts": [
   {
+   "slug": "hcl-arges--campulung-113-2020",
+   "path": "local/arges/campulung/2020/113",
+   "short": "HCL Câmpulung nr. 113/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 113/2020 cu privire la aprobarea tarifelor pentru abonamentele de călătorie Hotărâre cu privire la aprobarea tarifelor pentru abonamentele de călătorie",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2020-10-13",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2020/HCL%20nr.%20113%20din%2013.10.2020.pdf",
+     "sha256": "f84ef3f62e193b565ad611ae488c1103dcb341d625f6647c76699286907cf12d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--campulung-116-2020",
    "path": "local/arges/campulung/2020/116",
    "short": "HCL Câmpulung nr. 116/2020",
@@ -14,6 +29,171 @@
      "units": 1,
      "source_url": "https://www.primariacampulung.ro/file-zone/consiliu/regulament/HCL%20nr.%20116%20din%2026.10.2020.pdf",
      "sha256": "d0dff1b97791f3c575e25b95fcb93e6fcd7b630aa63aa73d44013c665a143a23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-139-2020",
+   "path": "local/arges/campulung/2020/139",
+   "short": "HCL Câmpulung nr. 139/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 139/2020 cu privire la modificarea prevederilor Regulamentului de organizare, funcționare și autorizare a activității de transport în regim de taxi și în regim de închiriere referitoare la ,,Dotările autovehiculelor taxi” Hotărâre cu privire la modificarea prevederilor Regulamentului de organizare, funcționare și autorizare a activității de transport în regim de taxi și în regim de închiriere referitoare l",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2020/HCL%20nr.%20139%20din%2026.11.2020.pdf",
+     "sha256": "7bd7cd9c179c02b77c8ce5671fb1272930a7f388898645c9c489bde39a907f23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-145-2020",
+   "path": "local/arges/campulung/2020/145",
+   "short": "HCL Câmpulung nr. 145/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 145/2020 cu privire la modificarea tarifului pentru test RT – PCR SARS – CoV2, efectuat la cererea pacienților Hotărâre cu privire la modificarea tarifului pentru test RT – PCR SARS – CoV2, efectuat la cererea pacienților",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2020/HCL%20nr.%20145%20din%2026.11.2020.pdf",
+     "sha256": "bedddbe23c2c7ef571271a68fd363b0b2f39ca07c823de313d8474c181848a75"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-17-2020",
+   "path": "local/arges/campulung/2020/17",
+   "short": "HCL Câmpulung nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 17/2020 cu privire la aprobarea Procedurii de desfășurare a ședințelor Consiliului Local al Municipiului Câmpulung, în situații excepționale, constatate de autoritățile abilitate Hotărâre cu privire la aprobarea Procedurii de desfășurare a ședințelor Consiliului Local al Municipiului Câmpulung, în situații excepționale, constatate de autoritățile abilitate",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2020-03-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2020/HCL%20nr.%2017%20din%2030.03.2020.pdf",
+     "sha256": "6ccdd80b98a167f1ff7608342812374c9e4aebe62a3829295ff0549f9e85f42a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-33-2020",
+   "path": "local/arges/campulung/2020/33",
+   "short": "HCL Câmpulung nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 33/2020 cu privire la unele măsuri referitoare la prelungirea/ reducerea/exonerarea obligațiilor de plată a chiriilor pentru spațiile cu altă destinație decât cea de locuință, aflate în proprietatea/administrarea Municipiului Câmpulung, în contextul pandemiei SARS – CoV – 2 Hotărâre cu privire la unele măsuri referitoare la prelungirea/ reducerea/exonerarea obligațiilor de plată a chiriilor pentru spațiil",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2020/HCL%20nr.%2033%20din%2031.03.2020.pdf",
+     "sha256": "1db98964902f237e51cbb299fcd4202b63d646cc05d1046eb9aa27d35ed7fca0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-42-2020",
+   "path": "local/arges/campulung/2020/42",
+   "short": "HCL Câmpulung nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 42/2020 privind organizarea pășunatului și stabilirea taxei de pășunat pe izlazurile proprietatea Municipiului Câmpulung Hotărâre privind organizarea pășunatului și stabilirea taxei de pășunat pe izlazurile proprietatea Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2020/HCL%20nr.%2042%20din%2030.04.2020.pdf",
+     "sha256": "eaedb6da4b03ae60bc246f53fa6a8dcb8c436c3b0194c7be121f71327a79912e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-72-2020",
+   "path": "local/arges/campulung/2020/72",
+   "short": "HCL Câmpulung nr. 72/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 72/2020 cu privire la aprobarea Regulamentului privind procedura pentru înregistrarea, evidența și radierea vehiculelor pentru care există obligativitatea înregistrării, de pe raza administrativ – teritorială a Municipiului Câmpulung Hotărâre cu privire la aprobarea Regulamentului privind procedura pentru înregistrarea, evidența și radierea vehiculelor pentru care există obligativitatea înregistrării, de",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2020/HCL%20nr.%2072%20din%2029.06.2020.pdf",
+     "sha256": "f04328a27535614b2adaa04dd345156766f274e60a6a3b68369980bc0d08f6e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-78-2020",
+   "path": "local/arges/campulung/2020/78",
+   "short": "HCL Câmpulung nr. 78/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 78/2020 cu privire la aprobarea tarifului pentru test RT-PCR SARS-CoV2, efectuat la cererea pacienților Hotărâre cu privire la aprobarea tarifului pentru test RT-PCR SARS-CoV2, efectuat la cererea pacienților",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2020-07-15",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2020/HCL%20nr.%2078%20din%2015.07.2020.pdf",
+     "sha256": "04c0ee81d4c3222a83ef2f1a70f2a98ff19571e66d5151c49aa75113d1307fda"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-83-2020",
+   "path": "local/arges/campulung/2020/83",
+   "short": "HCL Câmpulung nr. 83/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 83/2020 cu privire la stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pe anul 2021 Hotărâre cu privire la stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pe anul 2021",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2020/HCL%20nr.%2083%20din%2030.07.2020.pdf",
+     "sha256": "b41e35057bd60d09904ebfb2cb02c2e036bd7397317edd3baa6c803d0f122d11"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-87-2020",
+   "path": "local/arges/campulung/2020/87",
+   "short": "HCL Câmpulung nr. 87/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 87/2020 cu privire la instituirea unor facilități fiscale constând în anularea unor obligații accesorii și aprobarea procedurii de acordare a anulării acestora Hotărâre cu privire la instituirea unor facilități fiscale constând în anularea unor obligații accesorii și aprobarea procedurii de acordare a anulării acestora",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2020-08-13",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2020/HCL%20nr.%2087%20din%2013.08.2020.pdf",
+     "sha256": "0ad44b5f482d419b56952e9b7881ca4d7f11f8c654c623b6de027bf84ad97465"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-89-2020",
+   "path": "local/arges/campulung/2020/89",
+   "short": "HCL Câmpulung nr. 89/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 89/2020",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2020-08-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2020/HCL%20nr.%2089%20din%2020.08.2020.pdf",
+     "sha256": "fec9403d8812d0a2f98c5772835d495cf9c0cede99dba78aebfdf7cac7079e95"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-90-2020",
+   "path": "local/arges/campulung/2020/90",
+   "short": "HCL Câmpulung nr. 90/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 90/2020",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2020-08-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2020/HCL%20nr.%2090%20din%2020.08.2020.pdf",
+     "sha256": "0d12918aee17a1935c0cf159b8315878501dfbf11bc9186e52c237037b6279be"
     }
    ]
   }

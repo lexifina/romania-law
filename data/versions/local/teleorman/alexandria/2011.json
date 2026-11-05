@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/teleorman/alexandria/2011",
+ "acts": [
+  {
+   "slug": "hcl-teleorman--alexandria-16-2011",
+   "path": "local/teleorman/alexandria/2011/16",
+   "short": "HCL Alexandria nr. 16/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 16/2011 privind normele de tehnica legislativa pentru elaborarea actelor normative; -raportul comisiilor de specialitate pe domenii de activitate ale Consiliului local al municipiului Alexandria; - prevederile art.111 din Legea nr.31/1990 cu privire la societatile comerciale republicata, cu modificarile si completarile ulterioare; - prevederile art.36 alin.(2) lit.”a” din Legea nr.215/23 aprilie 2001 a ad",
+   "url": "https://alexandria.ro/priveste-modificarea-hotararii-consiliului-local-nr-90-din-30-aprilie-2009/",
+   "versions": [
+    {
+     "from": "2011-01-28",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/hcl_nr_16_din_28_ian_2011.pdf",
+     "sha256": "180937450923470e1fbef3509abdbc21de77f6f528cdbed1e5a084a4ea906cdf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-246-2011",
+   "path": "local/teleorman/alexandria/2011/246",
+   "short": "HCL Alexandria nr. 246/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 246/2011 privind acordarea de facilitati unor categorii de persoane pentru transportul public local de calatori Consiliul Local al municipiului Alexandria, judetul Teleorman, intrunit in sedinta de lucru ordinara, avand in vedere: - expunerea de motive nr. 20639/21.10.2011 a Primarului municipiului Alexandria; - raportul de specialitate nr. 20640/21.10.2011 al Directiei buget finante taxe si impozite; - ad",
+   "url": "https://alexandria.ro/priveste-modificarea-hcl-nr-202-2010-privind-acordarea-de-facilitati-unor-categorii-de-persoane-pentru-transportul-public-local-de-calatori/",
+   "versions": [
+    {
+     "from": "2011-10-26",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/hcl_nr_246_din_26_oct_2011.pdf",
+     "sha256": "63b5ce4cfaf9ca70068619694beaf72444937f96e4aa88ba9fd86694bbcb43a5"
+    }
+   ]
+  }
+ ]
+}

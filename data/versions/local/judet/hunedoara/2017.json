@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/judet/hunedoara/2017",
+ "acts": [
+  {
+   "slug": "hcj-hunedoara-77-2017",
+   "path": "local/judet/hunedoara/2017/77",
+   "short": "HCJ Hunedoara nr. 77/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 77/2017 pentru aprobarea nivelului taxelor şi tarifelor precum şi altor taxe asimilate acestora, din competenţa Consiliului Judeţean Hunedoara, aplicabile în anul fiscal 2017",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/HOTARARI%20SCANATE%2028%20APRILIE%202017/HCJH%2077.pdf",
+     "sha256": "c63656ffc61a3c4be09da80e456c3090c8147e9ff8d8d572e5fe829ee9625477"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-94-2017",
+   "path": "local/judet/hunedoara/2017/94",
+   "short": "HCJ Hunedoara nr. 94/2017",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 94/2017 referitoare la aprobarea Regulamentelor pentru finanțarea furnizorilor privați de servicii sociale în domeniul protecției copilului și în domeniul protecției persoanei adulte cu handicap/persoanei vârstnice",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/384-hotarari-2017",
+   "versions": [
+    {
+     "from": "2017-05-15",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2017/HOT%20SCANATE%2015%20MAI%202017/HCJH%2094.pdf",
+     "sha256": "da5959094a3a5f7db8909f4fe7ea3686df1981db08a7088e0b3970dd4c0f6b72"
+    }
+   ]
+  }
+ ]
+}

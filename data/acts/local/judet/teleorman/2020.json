@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/judet/teleorman/2020",
+"acts": [
+{
+"slug": "hcj-teleorman-115-2020",
+"path": "local/judet/teleorman/2020/115",
+"kind": "local",
+"year": "2020",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Teleorman nr. 115/2020 pentru efectuarea serviciului de transport public judeţean de persoane prin curse regulate şi a Caietului de sarcini al serviciului de transport public judeţean de persoane prin curse regulate",
+"short": "HCJ Teleorman nr. 115/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-08-14",
+"latest": "2020-08-14",
+"portal": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202020.htm",
+"council": "judet/teleorman",
+"council_name": "Consiliul Județean Teleorman",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-teleorman-128-2020",
+"path": "local/judet/teleorman/2020/128",
+"kind": "local",
+"year": "2020",
+"number": "128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Teleorman nr. 128/2020 pentru echilibrarea bugetelor locale şi din cota de 18,5 % din impozitul pe venit, precum şi a sumelor retinute ca urmare a diminuării cu gradul de necolectare a veniturilor proprii pe anul 2019 şi estimările pentru anii 2020 - 2022",
+"short": "HCJ Teleorman nr. 128/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-10-31",
+"latest": "2020-10-31",
+"portal": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202018.htm",
+"council": "judet/teleorman",
+"council_name": "Consiliul Județean Teleorman",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

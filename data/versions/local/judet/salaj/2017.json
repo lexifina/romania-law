@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "local/judet/salaj/2017",
+ "acts": [
+  {
+   "slug": "hcj-salaj-107-2017",
+   "path": "local/judet/salaj/2017/107",
+   "short": "HCJ Sălaj nr. 107/2017",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 107/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-08-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2017/hot1072017.pdf",
+     "sha256": "4eae3961b0f052fadc17cc5097d791ef5710bc08069b93e7eee5354109a4aad1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-108-2017",
+   "path": "local/judet/salaj/2017/108",
+   "short": "HCJ Sălaj nr. 108/2017",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 108/2017 privind aprobarea taxelor percepute de Centrul de Cultură şi Artă al Judeţului Sălaj, pentru anul şcolar 2017-2018",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=97:hotarari-2017&catid=2",
+   "versions": [
+    {
+     "from": "2017-08-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2017/hot1082017.pdf",
+     "sha256": "db68109227f2eb4f9b14e237d8bf72cdaaba86e3a53403b1fbe1a1571bef4091"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-120-2017",
+   "path": "local/judet/salaj/2017/120",
+   "short": "HCJ Sălaj nr. 120/2017",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 120/2017 pentru modificarea și completarea Hotărârii Consiliului Județean nr. 24 din 26.02.2016 privind aprobarea Regulamentului de organizare și funcționare al aparatului de specialitate și a serviciilor sociale furnizate de către Direcția Generală de Asistență Socia",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=97:hotarari-2017&catid=2",
+   "versions": [
+    {
+     "from": "2017-09-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2017/hot1202017.pdf",
+     "sha256": "1e7296d88c19c2c27175d133670f604002f2fbd982fa774d03c8c0a0245c58fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-147-2017",
+   "path": "local/judet/salaj/2017/147",
+   "short": "HCJ Sălaj nr. 147/2017",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 147/2017 privind stabilirea taxelor şi tarifelor de competenţa Consiliului Judeţean Sălaj, pentru anul 2018",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=97:hotarari-2017&catid=2",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2017/hot1472017.pdf",
+     "sha256": "cc10b7bc2e69eea97e6f403115eb1f7dcddd9cd9cddfcd9daf3c7adb4d78215b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-148-2017",
+   "path": "local/judet/salaj/2017/148",
+   "short": "HCJ Sălaj nr. 148/2017",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 148/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2017/hot1482017.pdf",
+     "sha256": "e2f8cbdd406ec0c582bf881b880e8d15839948980c96b71504def6425f002e3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-17-2017",
+   "path": "local/judet/salaj/2017/17",
+   "short": "HCJ Sălaj nr. 17/2017",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 17/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2017/hot172017.pdf",
+     "sha256": "b549f9901631b2930ecc52992875112c92bfa6ff666133955f893621d4d4a774"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-6-2017",
+   "path": "local/judet/salaj/2017/6",
+   "short": "HCJ Sălaj nr. 6/2017",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 6/2017 privind aprobarea Regulamentului de organizare şi desfăşurare a evaluării anuale a managementului la Biblioteca Judeţeană \"Ioniţă Scipione Bădescu\" Sălaj şi desemnarea reprezentanţilor Consiliului Judeţean Sălaj în cadrul comisiei de evaluare şi comisiei de soluţ",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=97:hotarari-2017&catid=2",
+   "versions": [
+    {
+     "from": "2017-01-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2017/hot62017.pdf",
+     "sha256": "6147dd0bb8f404d780240da666b7abde867d87e1ede018e9f7e7f1249df59fdc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-7-2017",
+   "path": "local/judet/salaj/2017/7",
+   "short": "HCJ Sălaj nr. 7/2017",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 7/2017 privind aprobarea Regulamentului de organizare şi desfăşurare a evaluării finale a managementului la Centrul de Cultură şi Artă al Judeţului Sălaj şi desemnarea reprezentanţilor Consiliului Judeţean Sălaj în cadrul comisiei de evaluare şi comisiei de soluţionare",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=97:hotarari-2017&catid=2",
+   "versions": [
+    {
+     "from": "2017-01-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2017/hot72017.pdf",
+     "sha256": "16692ba4a72005e98f6997a92b0db07333bcf35875695e73e257097e7166f707"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-8-2017",
+   "path": "local/judet/salaj/2017/8",
+   "short": "HCJ Sălaj nr. 8/2017",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 8/2017 privind aprobarea Regulamentului de organizare şi desfăşurare a evaluării finale a managementului la Muzeul Judeţean de Istorie şi Artă - Zalău şi desemnarea reprezentanţilor Consiliului Judeţean Sălaj în cadrul comisiei de evaluare şi comisiei de soluţionare a c",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=97:hotarari-2017&catid=2",
+   "versions": [
+    {
+     "from": "2017-01-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2017/hot82017.pdf",
+     "sha256": "6630123c0381fc855138740fe8bd7e732bbf67585e71796b5f207c36b1a2a90b"
+    }
+   ]
+  }
+ ]
+}

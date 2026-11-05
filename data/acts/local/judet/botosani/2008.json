@@ -1,0 +1,138 @@
+{
+"country": "RO",
+"shard": "local/judet/botosani/2008",
+"acts": [
+{
+"slug": "hcj-botosani-8-2008",
+"path": "local/judet/botosani/2008/8",
+"kind": "local",
+"year": "2008",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 8/2008 privind aprobarea Regulamentului pentru organizarea licitatiilor in vederea inchirierii bunurilor proprietate publica sau privata a judetului Botosani",
+"short": "HCJ Botoșani nr. 8/2008",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2008-01-30",
+"latest": "2008-01-30",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-31-2008",
+"path": "local/judet/botosani/2008/31",
+"kind": "local",
+"year": "2008",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 31/2008 privind aprobarea Regulamentului de transport public judetean de persoane prin curse regulate si curse regulate speciale, a Caietului de sarcini al serviciului de transport public judetean de persoane prin curse regulate, precum si a Programului de transport judetean de persoane prin curse",
+"short": "HCJ Botoșani nr. 31/2008",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2008-03-27",
+"latest": "2008-03-27",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-40-2008",
+"path": "local/judet/botosani/2008/40",
+"kind": "local",
+"year": "2008",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 40/2008 privind aprobarea tarifelor pentru eliberarea licentelor de traseu in vederea efectuarii transportului public judetean de persoane prin curse regulate speciale",
+"short": "HCJ Botoșani nr. 40/2008",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2008-04-24",
+"latest": "2008-04-24",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-85-2008",
+"path": "local/judet/botosani/2008/85",
+"kind": "local",
+"year": "2008",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 85/2008 privind aprobarea taxelor şcolare pentru elevii Şcolii Populare de Arte şi Meserii Botoşani pentru anul şcolar 2013 - 2014",
+"short": "HCJ Botoșani nr. 85/2008",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2008-01-13",
+"latest": "2008-01-13",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-94-2008",
+"path": "local/judet/botosani/2008/94",
+"kind": "local",
+"year": "2008",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 94/2008 privind aprobarea tarifelor practicate de Orchestra Populara \"Rapsozii Botosanilor\", pentru serviciile prestate in anul 2010",
+"short": "HCJ Botoșani nr. 94/2008",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2008-04-10",
+"latest": "2008-04-10",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-109-2008",
+"path": "local/judet/botosani/2008/109",
+"kind": "local",
+"year": "2008",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 109/2008 privind aprobarea taxelor şcolare pentru elevii Şcolii Populare de Arte şi Meserii Botoşani, pe anul şcolar 2017 - 2018",
+"short": "HCJ Botoșani nr. 109/2008",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2008-01-17",
+"latest": "2008-01-17",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

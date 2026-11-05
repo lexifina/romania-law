@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/judet/giurgiu/2022",
+ "acts": [
+  {
+   "slug": "hcj-giurgiu-128-2022",
+   "path": "local/judet/giurgiu/2022/128",
+   "short": "HCJ Giurgiu nr. 128/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 128/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.128-din-30.06.2022.pdf",
+     "sha256": "6ecd2c12cf9c4857a74e8954275937386c647b00e63b6e2406e7e9cb6d10216d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-14-2022",
+   "path": "local/judet/giurgiu/2022/14",
+   "short": "HCJ Giurgiu nr. 14/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 14/2022 privind acordarea mandatului special, reprezentantului Județului Giurgiu în Adunarea Generală a Asociaților a Asociației de Dezvoltare Intercomunitară „Management Eficient pentru un Județ Curat” pentru aprobarea modificării sistemului de colectare a deșeurilor și a modalității de plată a serviciilor prestate, precum și a tarifelor de colectare și transport separat a deșeurilor din zona de colectar",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.14-din-31.01.2022.pdf",
+     "sha256": "34a368eb821e015d6c8e82d9b5160b1de591568a26058178c2495199c7913da8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-165-2022",
+   "path": "local/judet/giurgiu/2022/165",
+   "short": "HCJ Giurgiu nr. 165/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 165/2022 privind aprobarea achiziției de servicii juridice de consultanță, asistență și reprezentare",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-08-23",
+     "units": 4,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.165-din-23.08.2022.pdf",
+     "sha256": "e3618adb07dcb1cb3aee23f66df4f677186175a6c6ceeed8d8b6a2b992db19ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-24-2022",
+   "path": "local/judet/giurgiu/2022/24",
+   "short": "HCJ Giurgiu nr. 24/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 24/2022 privind aprobarea proiectului „A.P.I. – Administrație Publică Inovativă” și a cheltuielilor legate de proiect",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 5,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.24-din-09.02.2022.pdf",
+     "sha256": "fe24db4c1d88df5bab5356252f55552f83ee7ff2a3215b119b182cb4e168d764"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-241-2022",
+   "path": "local/judet/giurgiu/2022/241",
+   "short": "HCJ Giurgiu nr. 241/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 241/2022 privind aprobarea instituirii unor restricții de circulație pe drumul județean DJ 602, pentru autovehiculele rutiere de marfă care depășesc masa totală maximă autorizată de 12 tone",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 4,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.241-din-17.10.2022.pdf",
+     "sha256": "d6ccdf28f1b4dcd997b43372e2cb87bdd6424819172210dac427fe66555f0af8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-33-2022",
+   "path": "local/judet/giurgiu/2022/33",
+   "short": "HCJ Giurgiu nr. 33/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 33/2022 privind utilizarea Fondului de întreținere, înlocuire și dezvoltare pe anul 2022 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr. 3346 din 17 februarie 2022 al președintelui; -raportul de specialitate nr.3355 din 17 februarie 2022 al Direcției Urbanism și amenajarea teritoriului- Compartimentul Monitorizare servicii de utilitate publică; - aviz",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-03-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.33-din-07.03.2022.pdf",
+     "sha256": "7eef28aa9eac3f4f6ad9e03ece045f42cfb9ac8e609f29e01df0273c862b8850"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-7-2022",
+   "path": "local/judet/giurgiu/2022/7",
+   "short": "HCJ Giurgiu nr. 7/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 7/2022 privind aprobarea acordării unui mandat special Asociației de Dezvoltare Intercomunitară ,,Sănătate asigurată prin apă curată” pentru exercitarea atribuțiilor privind modificarea prețului pentru apa potabilă și a tarifului pentru canalizare CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.738 din 12 ianuarie 2022 al președintelui; - raportul de",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.7-din-31.01.2022.pdf",
+     "sha256": "73b348d705f9f52ba67b2d563dde1c70f67078ddf1a049873cffd40b71179dee"
+    }
+   ]
+  }
+ ]
+}

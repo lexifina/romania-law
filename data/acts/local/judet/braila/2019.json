@@ -1,0 +1,51 @@
+{
+"country": "RO",
+"shard": "local/judet/braila/2019",
+"acts": [
+{
+"slug": "hcj-braila-160-2019",
+"path": "local/judet/braila/2019/160",
+"kind": "local",
+"year": "2019",
+"number": "160",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brăila nr. 160/2019",
+"short": "HCJ Brăila nr. 160/2019",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2019-08-30",
+"latest": "2019-08-30",
+"portal": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+"council": "judet/braila",
+"council_name": "Consiliul Județean Brăila",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-braila-176-2019",
+"path": "local/judet/braila/2019/176",
+"kind": "local",
+"year": "2019",
+"number": "176",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brăila nr. 176/2019 pentru administratie publica locala, juridica, relatii publice si relatii internationale; Avand in vedere art.58 alin.1 si 3 din Legea nr.24/2000 (**republicata**) privind normele de tehnica legislativa pentru elaborarea actelor normative, cu modificarile si completarile ulterioare; În temeiul prevederilor art.182 si art. 196 alin. 1 lit. “a” din Ordonanta de urgenta nr.57/2019, privind Codul admi",
+"short": "HCJ Brăila nr. 176/2019",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2019-08-30",
+"latest": "2019-08-30",
+"portal": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+"council": "judet/braila",
+"council_name": "Consiliul Județean Brăila",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

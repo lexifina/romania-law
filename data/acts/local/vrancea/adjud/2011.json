@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/vrancea/adjud/2011",
+"acts": [
+{
+"slug": "hcl-vrancea--adjud-15-2011",
+"path": "local/vrancea/adjud/2011/15",
+"kind": "local",
+"year": "2011",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 15/2011 privind aprobarea taxelor speciale pentru activitățile de stare civilă prestate de către Serviciul Public Comunitar Local de Evidență a Persoanelor Consiliul local al municipiului Adjud, întrunit în ședință ordinară : - Văzând Expunerea de motive a Primarului mun",
+"short": "HCL Adjud nr. 15/2011",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2011-02-16",
+"latest": "2011-02-16",
+"portal": "https://www.adjud.ro/municipiul-adjud/consiliul-local-pagina/hotarari/hotarari-2011/",
+"council": "vrancea/adjud",
+"council_name": "Consiliul Local al Municipiului Adjud",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-vrancea--adjud-108-2011",
+"path": "local/vrancea/adjud/2011/108",
+"kind": "local",
+"year": "2011",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 108/2011 pentru aprobarea unor măsuri privind spațiile verzi din municipiul Adjud Consiliul Local al Municipiului Adjud întrunit în ședința ordinară la convocarea Primarului municipiului Adjud analizând: - Expunerea de motive a Primarului Municipiului Adjud , care a inițiat proiectul de hotărâre privind aprobarea Regulamentului privind administrarea spațiilor verzi din municipiul Adjud ; - Raportul de spec",
+"short": "HCL Adjud nr. 108/2011",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2011-08-11",
+"latest": "2011-08-11",
+"portal": "https://www.adjud.ro/municipiul-adjud/consiliul-local-pagina/hotarari/hotarari-2011/",
+"council": "vrancea/adjud",
+"council_name": "Consiliul Local al Municipiului Adjud",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

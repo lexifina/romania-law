@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/judet/salaj/2001",
+ "acts": [
+  {
+   "slug": "hcj-salaj-11-2001",
+   "path": "local/judet/salaj/2001/11",
+   "short": "HCJ Sălaj nr. 11/2001",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 11/2001 privind stabilirea taxelor speciale pentru servicii publice de protectia plantelor",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=113:hotarari-2001&catid=2",
+   "versions": [
+    {
+     "from": "2001-02-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2001/hot112001.pdf",
+     "sha256": "c19c1f0938b565ef9347d41ea33dc5be6423a31fc2edcb065b6849d3c768ca65"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-64-2001",
+   "path": "local/judet/salaj/2001/64",
+   "short": "HCJ Sălaj nr. 64/2001",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 64/2001 privind indexarea taxelor si tarifelor stabilite in sume fixe de",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=113:hotarari-2001&catid=2",
+   "versions": [
+    {
+     "from": "2001-11-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2001/hot642001.pdf",
+     "sha256": "a239b06723139300aba3514ab1c1e5e95f670a524e0612764c27117af32df37e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-65-2001",
+   "path": "local/judet/salaj/2001/65",
+   "short": "HCJ Sălaj nr. 65/2001",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 65/2001 privind stabilirea tarifelor pentru serviciile publice de protectia plantelor si actualizarea taxelor speciale pentru anul 2002",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=113:hotarari-2001&catid=2",
+   "versions": [
+    {
+     "from": "2001-11-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2001/hot652001.pdf",
+     "sha256": "2b1f78babffce5115f44e580d79803ece0ccf9c3fd472c7ef5c34964cdfccaca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-66-2001",
+   "path": "local/judet/salaj/2001/66",
+   "short": "HCJ Sălaj nr. 66/2001",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 66/2001 privind stabilirea normelor anuale de venit pe anul 2002 pentru impunerea contribuabililor care desfasoara activitati independente intr-un punct fix sau ambulant",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=113:hotarari-2001&catid=2",
+   "versions": [
+    {
+     "from": "2001-11-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2001/hot662001.pdf",
+     "sha256": "44cb7c9f86425df3eeb37ed874e5f4a5cffddd3a93b516ee042b7628eadbede2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-76-2001",
+   "path": "local/judet/salaj/2001/76",
+   "short": "HCJ Sălaj nr. 76/2001",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 76/2001 privind modificarea anexei la Hotararea nr.68 din 27 noiembrie 2001 a Consiliului Judetean Salaj, cu privire la sumele defalcate din taxa pe valoare adaugata pentru finantarea cheltuielilor de personal din invatamantul preuniversitar de stat, pe anul 2001",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=113:hotarari-2001&catid=2",
+   "versions": [
+    {
+     "from": "2001-12-21",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2001/hot762001.pdf",
+     "sha256": "d501230a8d95d3dfd8960a59c197387dbdbd640cbc434a8a13a62d43ac905cb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-79-2001",
+   "path": "local/judet/salaj/2001/79",
+   "short": "HCJ Sălaj nr. 79/2001",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 79/2001 privind aprobarea Regulamentului de funcionare al Comisiei pentru protectia copilului Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=113:hotarari-2001&catid=2",
+   "versions": [
+    {
+     "from": "2001-12-21",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2001/hot792001.pdf",
+     "sha256": "68c5db0e89105da2ebf6b33df11fad9e35b664ad952302c833a14165fb922311"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-9-2001",
+   "path": "local/judet/salaj/2001/9",
+   "short": "HCJ Sălaj nr. 9/2001",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 9/2001 privind stabilirea tarifului de baza lunar, pe m.p. la chiria pentru spatiul inchiriat Corpului Gardienilor Publici Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=113:hotarari-2001&catid=2",
+   "versions": [
+    {
+     "from": "2001-02-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2001/hot92001.pdf",
+     "sha256": "8142c950a5c98dce2159edc57d1eb91c567655a00e637446d55e8729d2c953f0"
+    }
+   ]
+  }
+ ]
+}

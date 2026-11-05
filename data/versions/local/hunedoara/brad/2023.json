@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/brad/2023",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--brad-21-2023",
+   "path": "local/hunedoara/brad/2023/21",
+   "short": "HCL Brad nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 21/2023 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2023 pentru[LineBreak] fondul forestier, proprietatea publică a Municipiului Brad",
+   "url": "https://emol.ro/brad-hd/registru-hcl/87200",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/22209/anexa%20.pdf",
+     "sha256": "64e96dbcef301a4b7d809763f5acf6c4ffebfab3d94e4e4f332550c09145d298"
+    }
+   ]
+  }
+ ]
+}

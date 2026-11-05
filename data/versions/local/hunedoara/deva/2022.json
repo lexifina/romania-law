@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/deva/2022",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--deva-198-2022",
+   "path": "local/hunedoara/deva/2022/198",
+   "short": "HCL Deva nr. 198/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 198/2022 privind aprobarea Regulamentului de organizare și funcționare a parcării publice subterane din Piața Agroalimentară a municipiului Deva, str. Ion Creangă, nr.60",
+   "url": "https://emol.ro/deva-hd/registru-hcl/61733",
+   "versions": [
+    {
+     "from": "2022-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/6454/anexa%20parcare.pdf",
+     "sha256": "0f32cef67ce0244f5850dfe6580831dd0312ce7d94edd2a2f278ac2c2d3d0e85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-21-2022",
+   "path": "local/hunedoara/deva/2022/21",
+   "short": "HCL Deva nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 21/2022 privind aprobarea documentaţiei Plan Urbanistic Zonal ​“Locuință familială și împrejmuire ” generat de imobilul situat în extravilanul municipiului Deva, zona strada Cozia, f.n",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P560",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/Deva,_HCL_21_din_28_ianuarie_2022.pdf",
+     "sha256": "028992ed11e1b6b1545f9ad0d0062279822a51ebc1da302c0e7b9df85c2844be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-339-2022",
+   "path": "local/hunedoara/deva/2022/339",
+   "short": "HCL Deva nr. 339/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 339/2022 pentru modificarea și completarea Anexei la Hotărârea Consiliului local nr.432/2018 privind aprobarea Regulamentului privind metodologia de emitere a acordului pentru exercitarea activității de comercializare a produselor si serviciilor de piață, în municipiul Deva, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/deva-hd/registru-hcl/71593",
+   "versions": [
+    {
+     "from": "2022-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/16124/cerere%20a.pdf",
+     "sha256": "7d6d8721fff0c37e83408f3dd1189f0e802e1277c7128fe1982bd9799897de56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-55-2022",
+   "path": "local/hunedoara/deva/2022/55",
+   "short": "HCL Deva nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 55/2022 privind aprobarea documentaţiei Plan Urbanistic Zonal ,,Locuință individuală împrejmuire și racorduri la utilități” generat de imobilul situat în extravilanul municipiul Deva, strada Granitului",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P520",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/55_1.pdf",
+     "sha256": "c4ab3cb0823fb9323c77514eefd639cccabaed5cce3102ddc07079e4a6d69ef6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-64-2022",
+   "path": "local/hunedoara/deva/2022/64",
+   "short": "HCL Deva nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 64/2022 pentru aprobarea Regulamentului privind condițiile de utilizare a trotinetelor electrice pe domeniul public al municipiului Deva",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P520",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/64.pdf",
+     "sha256": "bf838e80d471bbef0573e45de0612f49bac32b7f85b62006c5f09d025180ff4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-71-2022",
+   "path": "local/hunedoara/deva/2022/71",
+   "short": "HCL Deva nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 71/2022 pentru modificarea Hotărârii Consiliului local al municipiului Deva nr.188/2021, privind numirea comisiei de evaluare a oportunității achiziționării și/sau închirierii de imobile precum și aprobarea Regulamentului de funcționare al comisiei de evaluare a oportunității achiziț",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P500",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/Deva,_HCL_71_din_25_februarie_2022.pdf",
+     "sha256": "c4024b34ae70f20cabb3e8c0eb5ff0b4c35e536edf89fa38526e492dbc35b499"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-77-2022",
+   "path": "local/hunedoara/deva/2022/77",
+   "short": "HCL Deva nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 77/2022 privind aprobarea Regulamentului privind stabilirea unor forme de sprijin financiar de la bugetul local pentru unitățile de cult aparținând cultelor religioase recunoscute în România",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P500",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/77.pdf",
+     "sha256": "b7bf26949849d4d2e6b7d2078aa858a0de41755e04e9649d8e20a9fb070402f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-80-2022",
+   "path": "local/hunedoara/deva/2022/80",
+   "short": "HCL Deva nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 80/2022 pentru modificarea Anexei la Hotărârea Consiliului local nr.301/2020 privind anularea accesoriilor în cazul obligațiilor bugetare restante la 31.03.2020, administrate de Direcția impozite și taxe locale Deva, cu modificările și completările ulterioare",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P500",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/Deva,_HCL_80_din_25_februarie_2022.pdf",
+     "sha256": "edc6be6558d158d6b1af7d8e921d93c7d964c9db89067d7ba1a1fcbb6355b3d8"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,28 @@
 "shard": "local/judet/prahova/2022",
 "acts": [
 {
+"slug": "hcj-prahova-397-2022",
+"path": "local/judet/prahova/2022/397",
+"kind": "local",
+"year": "2022",
+"number": "397",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 397/2022 privind aprobarea Regulamentului de organizare a ”Galei de Excelență a Învățământului Prahovean în anul 2022”",
+"short": "HCJ Prahova nr. 397/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-11-29",
+"latest": "2022-11-29",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2022/?dpage=3",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "hcj-prahova-428-2022",
 "path": "local/judet/prahova/2022/428",
 "kind": "local",

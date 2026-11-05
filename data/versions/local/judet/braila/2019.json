@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/judet/braila/2019",
+ "acts": [
+  {
+   "slug": "hcj-braila-160-2019",
+   "path": "local/judet/braila/2019/160",
+   "short": "HCJ Brăila nr. 160/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 160/2019",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/B10F093EBA80A44EC22584F8002D2C95/$FILE/HOT%20160%20din%2030.08.2019.pdf",
+     "sha256": "329f16ee920a32d3170bb55eba65e6e30b7baad71d72a84c09379f65a1ce953c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-176-2019",
+   "path": "local/judet/braila/2019/176",
+   "short": "HCJ Brăila nr. 176/2019",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 176/2019 pentru administratie publica locala, juridica, relatii publice si relatii internationale; Avand in vedere art.58 alin.1 si 3 din Legea nr.24/2000 (**republicata**) privind normele de tehnica legislativa pentru elaborarea actelor normative, cu modificarile si completarile ulterioare; În temeiul prevederilor art.182 si art. 196 alin. 1 lit. “a” din Ordonanta de urgenta nr.57/2019, privind Codul admi",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2019-000174AA?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/847402712131E8BEC22584F80031ED3D/$FILE/HOT%20176%20din%2030.08.2019.pdf",
+     "sha256": "567ea78ec91eeb3fbb793ccd9c59fa2d0599a935ad2e16a605bc62c198a35ce4"
+    }
+   ]
+  }
+ ]
+}

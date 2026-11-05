@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/drobeta-turnu-severin/2025",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-130-2025",
+   "path": "local/mehedinti/drobeta-turnu-severin/2025/130",
+   "short": "HCL Drobeta-Turnu Severin nr. 130/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 130/2025 privind modificarea organigramei și a ștatelor de funcții din cadrul Creșei Drobeta Turnu Severin",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/208931",
+   "versions": [
+    {
+     "from": "2025-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/72103/Organigrama%20Cre%C8%99a%20DTS.pdf",
+     "sha256": "4bb43d86d456da6e23353f73c6cbce4b109b6ca942fcfd7f2c88cf44ceb24285"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-212-2025",
+   "path": "local/mehedinti/drobeta-turnu-severin/2025/212",
+   "short": "HCL Drobeta-Turnu Severin nr. 212/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 212/2025 privind aprobarea casării mijloacelor fixe aparținând instituțiilor de învățământ Colegiul Național \"Traian\" și Colegiul Național Economic \"Theodor Costescu\"",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/227053",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/227053",
+     "sha256": "a5453e2ea0a2ea5dd7bdfbdd20363c34020fca3b9554a5371e636cc334801461"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-288-2025",
+   "path": "local/mehedinti/drobeta-turnu-severin/2025/288",
+   "short": "HCL Drobeta-Turnu Severin nr. 288/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 288/2025 privind aprobarea casării mijloacelor fixe aparținând unor unități de învățământ preuniversitar de stat",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/241056",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/85692/ANEXE.pdf",
+     "sha256": "c4321e8c6b69d16bac3adc7a91984cc9a46d1a7981e07efb7a15857ad9ebc115"
+    }
+   ]
+  }
+ ]
+}

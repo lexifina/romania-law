@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/teleorman/alexandria/2012",
+"acts": [
+{
+"slug": "hcl-teleorman--alexandria-15-2012",
+"path": "local/teleorman/alexandria/2012/15",
+"kind": "local",
+"year": "2012",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 15/2012 privind aprobarea Regulamentului propriu al serviciilor de salubrizare din municipiul Alexandria",
+"short": "HCL Alexandria nr. 15/2012",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2012-02-29",
+"latest": "2012-02-29",
+"portal": "https://alexandria.ro/priveste-modificarea-si-completarea-hcl-nr-158-2007-privind-aprobarea-regulamentului-propriu-al-serviciilor-de-salubrizare-din-municipiul-alexandria/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-teleorman--alexandria-16-2012",
+"path": "local/teleorman/alexandria/2012/16",
+"kind": "local",
+"year": "2012",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 16/2012 cu privire la aprobarea Regulamentului de blocare, ridicare,transport, depozitare si eliberare a vehiculelor stationate neregulamentar si a vehiculelor fara stapan sau abandonate pe teritoriul municipiului Alexandria si desemnarea ca operator a S.C",
+"short": "HCL Alexandria nr. 16/2012",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2012-07-18",
+"latest": "2012-07-18",
+"portal": "https://alexandria.ro/priveste-modificarea-anexei-nr-1-la-hcl-nr-16-din-29-februarie-2012-cu-privire-la-aprobarea-regulamentului-de-blocare-ridicaretransport-depozitare-si-eliberare-a-vehiculelor-stationate-neregulam/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

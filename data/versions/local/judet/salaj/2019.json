@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/judet/salaj/2019",
+ "acts": [
+  {
+   "slug": "hcj-salaj-14-2019",
+   "path": "local/judet/salaj/2019/14",
+   "short": "HCJ Sălaj nr. 14/2019",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 14/2019 pentru modificarea Anexei la Hotărârea Consiliului Judeţean nr. 41 din 27 aprilie 2018 privind aprobarea regulamentului pentru finanţarea programelor sportive ale cluburilor sportive de drept privat înfiinţate pe raza unităţii administrativ-teritoriale, constituit",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=95:hotarari-2019&catid=2",
+   "versions": [
+    {
+     "from": "2019-03-20",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2019/hot142019.pdf",
+     "sha256": "c53fd1ee899a41c9bf1d8de4c7db83dac85d67b27721115fcfc211250b33688c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-150-2019",
+   "path": "local/judet/salaj/2019/150",
+   "short": "HCJ Sălaj nr. 150/2019",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 150/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2019/hot1502019.pdf",
+     "sha256": "d35f46fd4101738f24deac3506161fee9f8bdb6ce1d26e98ea7e7f2fdc211c5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-152-2019",
+   "path": "local/judet/salaj/2019/152",
+   "short": "HCJ Sălaj nr. 152/2019",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 152/2019 privind stabilirea taxelor şi tarifelor de competenţa Consiliului Judeţean Sălaj, pentru anul 2020",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=95:hotarari-2019&catid=2",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2019/hot1522019.pdf",
+     "sha256": "a03d4319eb61e9eeb68378b5beb1427d457add497fc1934fd8fb1dd0d7c81f20"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-155-2019",
+   "path": "local/judet/salaj/2019/155",
+   "short": "HCJ Sălaj nr. 155/2019",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 155/2019 privind aprobarea Regulamentului de organizare şi funcţionare al aparatului de specialitate al Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=95:hotarari-2019&catid=2",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 3,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2019/hot1552019.pdf",
+     "sha256": "91b46355293972ba06977e3b974ff2b9c7296d56754bd0db81d7e2be5519f8a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-5-2019",
+   "path": "local/judet/salaj/2019/5",
+   "short": "HCJ Sălaj nr. 5/2019",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 5/2019 pentru modificarea tarifului de depozitare aplicabil serviciului public de salubrizare al judeţului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=95:hotarari-2019&catid=2",
+   "versions": [
+    {
+     "from": "2019-01-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2019/hot52019.pdf",
+     "sha256": "ee641515d070bd277f3c4ba920e499231d366e9fa44a2ed758b7ac1173b67702"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-59-2019",
+   "path": "local/judet/salaj/2019/59",
+   "short": "HCJ Sălaj nr. 59/2019",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 59/2019 privind aprobarea regulamentului pentru finanţarea programelor sportive ale cluburilor sportive de drept privat înfiinţate pe raza unităţii administrativ-teritoriale, constituite ca persoane juridice fără scop patrimonial, deţinătoare ale certificatului de identitate",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=95:hotarari-2019&catid=2",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2019/hot592019.pdf",
+     "sha256": "833d833a598f5bad74646e2be2cb33a5a336f134f7d7be616d57a01e1462a3a6"
+    }
+   ]
+  }
+ ]
+}

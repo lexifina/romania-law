@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/judet/olt/2023",
+ "acts": [
+  {
+   "slug": "hcj-olt-114-2023",
+   "path": "local/judet/olt/2023/114",
+   "short": "HCJ Olt nr. 114/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 114/2023 pentru îndreptarea unei erori materiale strecurate în cuprinsul Hotărârii Consiliului Județean Olt nr. 179/22.12.2022 cu privire la: aprobare taxe pentru anul 2023",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/registrul-pentru-evidenta-hotararilor-consiliului-judetean/registrul-pentru-evidenta-hotararilor-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-07-07",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/rhcj-2023/18116.pdf",
+     "sha256": "9005f26c72424fbbe6f61569a71a63cd8852e21deb94b36c189153c201f479ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-131-2023",
+   "path": "local/judet/olt/2023/131",
+   "short": "HCJ Olt nr. 131/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 131/2023 cu privire la aprobarea taxelor școlare pentru activitățile prestate de Secția Arte și Meșteșuguri din cadrul Centrului Județean de Cultură și Artă Olt, pentru anul școlar 2023-2024 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18311.pdf",
+     "sha256": "b22218d80f7ea9535fbdf617f76be185c056d9e40d7631fd0d603369df9bef3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-225-2023",
+   "path": "local/judet/olt/2023/225",
+   "short": "HCJ Olt nr. 225/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 225/2023 pentru spaţiile din fondul locativ cu altă destinaţie decât cea de locuinţă, aflate în domeniul public sau privat al județului, precum și cu privire la stabilirea tarifului de închiriere a sălii de conferințe a Consiliului Județean Olt, pentru anul 2024 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18804.pdf",
+     "sha256": "fd80dc4ae51eb779879a79c6810c32999a3dcdc2564068dbfaa4f5285054759d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-227-2023",
+   "path": "local/judet/olt/2023/227",
+   "short": "HCJ Olt nr. 227/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 227/2023 cu privire la aprobarea unor taxe şi tarife pentru activităţile prestate de unele instituţii de cultură de interes județean, pentru anul 2024 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18806.pdf",
+     "sha256": "85554c1c1523c9f4ad0a01878790af41308490afdb9d16a76bcb7b6e5e5a48ad"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,204 @@
+{
+"country": "RO",
+"shard": "local/judet/salaj/2008",
+"acts": [
+{
+"slug": "hcj-salaj-7-2008",
+"path": "local/judet/salaj/2008/7",
+"kind": "local",
+"year": "2008",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 7/2008 privind stabilirea obiectivelor apartinand domeniului public si privat al judetului la care paza se efectueaza de catre agenti de paza apartinand Directiei de Paza, Protocol si Administrativ, precum si a tarifului care se va practica in anul 2008",
+"short": "HCJ Sălaj nr. 7/2008",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2008-01-31",
+"latest": "2008-01-31",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-22-2008",
+"path": "local/judet/salaj/2008/22",
+"kind": "local",
+"year": "2008",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 22/2008 privind stabilirea tarifelor pentru acordarea autorizatiilor de transport si a licentelor de traseu pentru transportul de persoane prin curse regulate speciale",
+"short": "HCJ Sălaj nr. 22/2008",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2008-02-28",
+"latest": "2008-02-28",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-24-2008",
+"path": "local/judet/salaj/2008/24",
+"kind": "local",
+"year": "2008",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 24/2008 privind aprobarea Regulamentului modificat de organizare si functionare al aparatului de specialitate al Consiliului Judetean Salaj",
+"short": "HCJ Sălaj nr. 24/2008",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2008-02-28",
+"latest": "2008-02-28",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-73-2008",
+"path": "local/judet/salaj/2008/73",
+"kind": "local",
+"year": "2008",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 73/2008 privind aprobarea Regulamentului pentru efectuarea transportului public judetean de persoane in judetul Salaj si a Caietului de sarcini al serviciilor de transport public judetean",
+"short": "HCJ Sălaj nr. 73/2008",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2008-07-14",
+"latest": "2008-07-14",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-78-2008",
+"path": "local/judet/salaj/2008/78",
+"kind": "local",
+"year": "2008",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 78/2008 privind aprobarea criteriilor, procedurilor si atributiilor specifice ocuparii functiei de administrator public",
+"short": "HCJ Sălaj nr. 78/2008",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2008-07-14",
+"latest": "2008-07-14",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-93-2008",
+"path": "local/judet/salaj/2008/93",
+"kind": "local",
+"year": "2008",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 93/2008 privind aprobarea Regulamentului, reactualizar, de organizare si functionare al Scolii Populare de Arta si Meserii Salaj",
+"short": "HCJ Sălaj nr. 93/2008",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2008-07-28",
+"latest": "2008-07-28",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-100-2008",
+"path": "local/judet/salaj/2008/100",
+"kind": "local",
+"year": "2008",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 100/2008 privind instituirea unor taxe la Scoala Populara de Arte si Meserii Salaj, pentru anul scolar 2008/2009",
+"short": "HCJ Sălaj nr. 100/2008",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2008-08-14",
+"latest": "2008-08-14",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-150-2008",
+"path": "local/judet/salaj/2008/150",
+"kind": "local",
+"year": "2008",
+"number": "150",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 150/2008 privind stabilirea taxelor si tarifelor de competenta Consiliului Judetean Salaj, pentru anul 2009",
+"short": "HCJ Sălaj nr. 150/2008",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2008-10-29",
+"latest": "2008-10-29",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-188-2008",
+"path": "local/judet/salaj/2008/188",
+"kind": "local",
+"year": "2008",
+"number": "188",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 188/2008 privind stabilirea tarifului care se va practica, in anul 2009, de catre agentii de paza apartinand Directiei de Paza, Protocol si Administrativ Salaj",
+"short": "HCJ Sălaj nr. 188/2008",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2008-12-15",
+"latest": "2008-12-15",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

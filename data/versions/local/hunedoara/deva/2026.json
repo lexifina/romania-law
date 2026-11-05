@@ -3,6 +3,141 @@
  "shard": "local/hunedoara/deva/2026",
  "acts": [
   {
+   "slug": "hcl-hunedoara--deva-122-2026",
+   "path": "local/hunedoara/deva/2026/122",
+   "short": "HCL Deva nr. 122/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 122/2026 privind aprobarea Regulamentului de desfășurare a activităților de comerț stradal și utilizare/ocupare temporară a domeniului public de pe raza unității administrativ-teritoriale municipiul Deva, a localității componente și a satelor aparținătoare",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C91/P280",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/122_4.pdf",
+     "sha256": "5945f6ed2bbbecaea9b6d0ad70507c82a5fa450dbc9e029af8f881aa7bb98404"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-126-2026",
+   "path": "local/hunedoara/deva/2026/126",
+   "short": "HCL Deva nr. 126/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 126/2026 pentru modificarea și completarea Hotărârii Consiliului local nr.313/2023 privind aprobarea Metodologiei privind inventarierea, expertizarea, ridicarea, transportul, depozitarea, paza vehiculului, precum și valorificarea vehiculelor și a bunurilor găsite/aflate în in",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C91/P280",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/126_4.pdf",
+     "sha256": "cff74dced92376f759844df06213e21bed0dd7c0d19034a4ca1d07dd837fefa2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-140-2026",
+   "path": "local/hunedoara/deva/2026/140",
+   "short": "HCL Deva nr. 140/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 140/2026 pentru aprobarea Regulamentului privind ocuparea temporară a domeniului public al municipiului Deva în vederea amplasării și funcționării teraselor",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C91/P260",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/140_4.pdf",
+     "sha256": "cf9475d7ab2cafc60e1a28a6ae1f9ec413975cb942baa262670712ea8c2101e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-221-2026",
+   "path": "local/hunedoara/deva/2026/221",
+   "short": "HCL Deva nr. 221/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 221/2026 privind aprobarea tarifelor de intrare precum și a Regulamentului de funcționare a Ștrandului Municipal Deva",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C91/P180",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/221_4.pdf",
+     "sha256": "eba12639823c4ebc24f69c7f376dcc6329fd17e3b2649da538f1a131afd79136"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-225-2026",
+   "path": "local/hunedoara/deva/2026/225",
+   "short": "HCL Deva nr. 225/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 225/2026 pentru modificarea Hotărârii Consiliului local nr. 122/2026 privind aprobarea Regulamentului de desfășurare a activităților de comerț stradal și utilizare/ocupare temporară a domeniului public de pe raza unității administrativ-teritoriale municipiul Deva, a localităț",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C91/P180",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/225_4.pdf",
+     "sha256": "e197a9e900c5fd35b80d9467974d2542e160e64a71abebc2322ffaacd3787828"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-256-2026",
+   "path": "local/hunedoara/deva/2026/256",
+   "short": "HCL Deva nr. 256/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 256/2026 privind aprobarea documentației \"Actualizarea Planului Urbanistic General al municipiului Deva, județul Hunedoara\"",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C91/P140",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/256_3.pdf",
+     "sha256": "0f56d7849f6c1ca4d0eca978ccf078e361176d92f1244f008277d1190eece10d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-304-2026",
+   "path": "local/hunedoara/deva/2026/304",
+   "short": "HCL Deva nr. 304/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 304/2026 privind aprobarea Regulamentului serviciului de salubrizare privind deșeurile menajere și similare din județul Hunedoara și mandatarea reprezentantului Municipiului Deva să voteze aprobarea acestuia în Adunarea Generală a Asociației de Dezvoltare Intercomunitară \"Sis",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C91/P100",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/304s.pdf",
+     "sha256": "f0394fd0e145d06262ed9f0c9741351c065aa2d20d3896ec4972eba6e1cb96b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-316-2026",
+   "path": "local/hunedoara/deva/2026/316",
+   "short": "HCL Deva nr. 316/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 316/2026 pentru modificarea Hotărârii Consiliului local nr. 122/2026 privind aprobarea Regulamentului de desfășurare a activităților de comerț stradal și utilizare/ocupare temporară a domeniului public de pe raza unității administrativ- teritoriale Municipiul Deva, a localită",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C91/P80",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/316_4.pdf",
+     "sha256": "8f4e64b2d28fd1a01a1adfea55103324fbaab19270e3420fb8d6b3ef0171be25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-351-2026",
+   "path": "local/hunedoara/deva/2026/351",
+   "short": "HCL Deva nr. 351/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 351/2026 pentru modificarea Hotărârii Consiliului local nr. 148/2025 privind numirea comisiei de evaluare a oportunității achiziționării și/sau închirierii de imobile, respectiv exercitarea sau neexercitarea dreptului de preempțiune, precum și aprobarea Regulamentului de func",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C91/P60",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/351_3.pdf",
+     "sha256": "cc3b03a189dde8d8dfba923332b1d9c071e73ffe57e8a97b014f1cdf68731337"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--deva-386-2026",
    "path": "local/hunedoara/deva/2026/386",
    "short": "HCL Deva nr. 386/2026",

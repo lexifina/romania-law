@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/campina/2019",
+ "acts": [
+  {
+   "slug": "hcl-prahova--campina-172-2019",
+   "path": "local/prahova/campina/2019/172",
+   "short": "HCL Câmpina nr. 172/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 172/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2020/01/Hotararea-nr.-172-impozite-si-taxe-locale-2020.pdf",
+     "sha256": "91abaf367721c9bddb18e65e9081852cfa76d3ad40f8dbd8e50b776f261e4d56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-25-2019",
+   "path": "local/prahova/campina/2019/25",
+   "short": "HCL Câmpina nr. 25/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 25/2019 privind actualizarea informatiilorcadastrale pent proprietate privata a Municipiului Campina, in suprs (T21, P618), avand Nr.cadastraI/Carte fun Avand in vedere expunerea de motive nr.68.580/19f< :br iarie 2019 a membrilor Comisiei de specialitate din cadrul Consiliului local al Mi .nicipiului Campina - amenajarea teritoriului, urbanism, ecologie si protectia m ;di alui, prin care propun aprobarea",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2019/",
+   "versions": [
+    {
+     "from": "2019-02-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2019/04/Hotararea-nr.-25-actualizare-inform-cadastrale-teren-15524-mp.pdf",
+     "sha256": "9c4a6f20f3b4315fd40977988cdb7e46c558457a3d4ccb780cbeda3e88fd17cf"
+    }
+   ]
+  }
+ ]
+}

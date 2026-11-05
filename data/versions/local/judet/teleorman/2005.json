@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/judet/teleorman/2005",
+ "acts": [
+  {
+   "slug": "hcj-teleorman-58-2005",
+   "path": "local/judet/teleorman/2005/58",
+   "short": "HCJ Teleorman nr. 58/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 58/2005 pentru activitili atiintificea, ctivitdlei conomicea,griculturdin, vdldmenlsenetatec,ulturSc,ulte, spodqitineretp, recumEipentruprotec{iesociald; - prevederilaert. 104alin.(l) lit. b), ale art. 116alin (1) lit. k) din Legea administra{iepiublicelocalenr.21512001m, odificatdqi completatda,leart. 14alin(l) lit. k) gi ale an. 4'7a\\n (l) lit. b) din Regulamentudle organizaregi func(ionarea ConsiliuluJ",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-06-10",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h58-2005.pdf",
+     "sha256": "66fba367b6a59e24086971a7b337ce058a49ecefaadf69961b5903d5d021e75d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-72-2005",
+   "path": "local/judet/teleorman/2005/72",
+   "short": "HCJ Teleorman nr. 72/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 72/2005",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-07-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h72-2005.pdf",
+     "sha256": "15d2a8f8263d88092a99fd452a56ea99d15a2c3cb107d1122bf7962ef81c6f6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-84-2005",
+   "path": "local/judet/teleorman/2005/84",
+   "short": "HCJ Teleorman nr. 84/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 84/2005 pentru activitdligtiin{ificea, ctivitefeconomicea,griculturii,nv6{emanst,6n6tatec,ulturSc,ulte, sport;i tineretp, recumEipentruprotec{iesociali; - prcvederilaert. lM alin.(l) lit. b), ale art. ll6 alin (l) lit. k) din Legea administraliepiublicelocalenr.215/2001m, odificateqi completatda,leart. 14alin (1) lit. k) 9i ale art. 47 alin (l) lit. b) din Regulamentudle organizaregi funclionarea Consiliu",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-07-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h84-2005.pdf",
+     "sha256": "06b613be59e5254b7b0516237125dd8ea10ac4388e626be8ed92ceae3f2534cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-97-2005",
+   "path": "local/judet/teleorman/2005/97",
+   "short": "HCJ Teleorman nr. 97/2005",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 97/2005 pentru reparti zarea pe unităţi administrativ-teritoriale a cotei de 15 % din limitele pentru sumele defalcate din taxa pe valoarea adaugată şi din cota de 22 % din impozitul pe venit pentru echilibrarea bugetelor locale pe anul 2006 şi estimările pe anii 2007-2009",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/hotarari%202005-2004.htm",
+   "versions": [
+    {
+     "from": "2005-09-05",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202005-06/h97-2005.pdf",
+     "sha256": "84034a51eca3e458d7051102942900000068d9cf93d18a57d0346ddcaf0934d0"
+    }
+   ]
+  }
+ ]
+}

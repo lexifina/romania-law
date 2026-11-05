@@ -1,0 +1,249 @@
+{
+"country": "RO",
+"shard": "local/judet/salaj/2011",
+"acts": [
+{
+"slug": "hcj-salaj-10-2011",
+"path": "local/judet/salaj/2011/10",
+"kind": "local",
+"year": "2011",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 10/2011 privind aprobarea formei gestiunii delegate a serviciului de administrare a domeniului public şi privat al judeţului, precum şi a regulamentului de delegare a gestiunii acestui serviciu",
+"short": "HCJ Sălaj nr. 10/2011",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2011-01-25",
+"latest": "2011-01-25",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-22-2011",
+"path": "local/judet/salaj/2011/22",
+"kind": "local",
+"year": "2011",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 22/2011 privind aprobarea taxelor şi tarifelor pentru serviciile delegate practicate de către S.C",
+"short": "HCJ Sălaj nr. 22/2011",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2011-02-28",
+"latest": "2011-02-28",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-38-2011",
+"path": "local/judet/salaj/2011/38",
+"kind": "local",
+"year": "2011",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 38/2011 privind modificarea Hotărârii Consiliului Judeţean Sălaj nr. 22/2011 privind aprobarea taxelor şi tarifelor pentru serviciile delegate practicate de către S.C",
+"short": "HCJ Sălaj nr. 38/2011",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2011-03-28",
+"latest": "2011-03-28",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-74-2011",
+"path": "local/judet/salaj/2011/74",
+"kind": "local",
+"year": "2011",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 74/2011 pentru completarea Hotărârii Consiliului Judeţean Sălaj nr. 138/2010 privind stabilirea taxelor şi tarifelor de competenţa Consiliului Judeţean Sălaj, pentru anul 2011",
+"short": "HCJ Sălaj nr. 74/2011",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2011-05-30",
+"latest": "2011-05-30",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-106-2011",
+"path": "local/judet/salaj/2011/106",
+"kind": "local",
+"year": "2011",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 106/2011 pentru aprobarea Regulamentului local privind implicarea publicului in elaborarea sau revizuirea planului de urbanism sau de amenajare a teritoriului",
+"short": "HCJ Sălaj nr. 106/2011",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2011-07-29",
+"latest": "2011-07-29",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-111-2011",
+"path": "local/judet/salaj/2011/111",
+"kind": "local",
+"year": "2011",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 111/2011 privind aprobarea unor taxe la centrul de Cultură şi Artă al Judeţului Sălaj, pentru anul şcolar 2011-2012",
+"short": "HCJ Sălaj nr. 111/2011",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2011-08-29",
+"latest": "2011-08-29",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-113-2011",
+"path": "local/judet/salaj/2011/113",
+"kind": "local",
+"year": "2011",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 113/2011",
+"short": "HCJ Sălaj nr. 113/2011",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2011-08-29",
+"latest": "2011-08-29",
+"portal": null,
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-salaj-118-2011",
+"path": "local/judet/salaj/2011/118",
+"kind": "local",
+"year": "2011",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 118/2011 privind aprobarea Regulamentului de organizare şi funcţionare al aparatului de specialitate al Consiliului Judeţean Sălaj",
+"short": "HCJ Sălaj nr. 118/2011",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2011-08-29",
+"latest": "2011-08-29",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-122-2011",
+"path": "local/judet/salaj/2011/122",
+"kind": "local",
+"year": "2011",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 122/2011 pentru completarea Hotărârii Consiliului Judeţean Sălaj nr.138/2010 privind stabilirea taxelor şi tarifelor de competenţa Consiliului Judeţean Sălaj, pentru anul 2011",
+"short": "HCJ Sălaj nr. 122/2011",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2011-09-26",
+"latest": "2011-09-26",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-138-2011",
+"path": "local/judet/salaj/2011/138",
+"kind": "local",
+"year": "2011",
+"number": "138",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 138/2011 privind instituirea restricţiei de circulaţie privind masa maximă admisă pentru vehiculele care pot circula pe un tronson din drumul judeţean DJ110B",
+"short": "HCJ Sălaj nr. 138/2011",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2011-10-28",
+"latest": "2011-10-28",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-144-2011",
+"path": "local/judet/salaj/2011/144",
+"kind": "local",
+"year": "2011",
+"number": "144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 144/2011 privind stabilirea taxelor şi tarifelor de competenţa Consiliului Judeţean Sălaj pentru anul 2012",
+"short": "HCJ Sălaj nr. 144/2011",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2011-11-28",
+"latest": "2011-11-28",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

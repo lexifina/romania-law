@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/beius/2021",
+ "acts": [
+  {
+   "slug": "hcl-bihor--beius-166-2021",
+   "path": "local/bihor/beius/2021/166",
+   "short": "HCL Beiuș nr. 166/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 166/2021 privind actualizarea Regulamentului Consiliului Local al municipiului Beiuş",
+   "url": "https://emol.ro/beius-bh/registru-hcl/31233",
+   "versions": [
+    {
+     "from": "2021-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/29302/Anex%C4%83%20HCL%20166din%2027.07.2021.pdf",
+     "sha256": "972365b355af915de541802c1362862d241cf4cf78604323dc2113986364a752"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--beius-202-2021",
+   "path": "local/bihor/beius/2021/202",
+   "short": "HCL Beiuș nr. 202/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 202/2021 privind aprobarea încheierii unui protocol de colaborare în scopul dezvoltării rețelei de parcuri industriale în Județul Bihor",
+   "url": "https://emol.ro/beius-bh/registru-hcl/36583",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/16/Anexa.pdf",
+     "sha256": "972b47c2fc5c8b6767ad4e2f1596e382788d82a896b7e38904dcf27b19a186f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--beius-205-2021",
+   "path": "local/bihor/beius/2021/205",
+   "short": "HCL Beiuș nr. 205/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 205/2021",
+   "url": "https://emol.ro/beius-bh/registru-hcl/36586",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/20/Anexa%20-%20Oferta%20de%20donatie.pdf",
+     "sha256": "04eec29bfaaa8a89cf55f8423f741195b3b09797ba15fea974364e3f93c47d22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--beius-249-2021",
+   "path": "local/bihor/beius/2021/249",
+   "short": "HCL Beiuș nr. 249/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 249/2021",
+   "url": "https://emol.ro/beius-bh/registru-hcl/42605",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/1189/Amenajament%20pastoral%20B.pdf",
+     "sha256": "f7e4962181ec6c0359dbbdaaae317cdd36ecf7d99f28e1d4d8a6f1967468cb20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--beius-270-2021",
+   "path": "local/bihor/beius/2021/270",
+   "short": "HCL Beiuș nr. 270/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 270/2021",
+   "url": "https://emol.ro/beius-bh/registru-hcl/44124",
+   "versions": [
+    {
+     "from": "2021-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/1439/Plan%20de%20Amplasament%20%C8%99i%20delimitare%20-%20Autogar%C4%83.pdf",
+     "sha256": "8a8c0e2e53dfffa93f448abc273dbd118d69d5f66ab4f1541f700613c81ae2b5"
+    }
+   ]
+  }
+ ]
+}

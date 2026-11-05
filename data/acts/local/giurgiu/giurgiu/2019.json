@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/giurgiu/giurgiu/2019",
+"acts": [
+{
+"slug": "hcl-giurgiu--giurgiu-43-2019",
+"path": "local/giurgiu/giurgiu/2019/43",
+"kind": "local",
+"year": "2019",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 43/2019",
+"short": "HCL Giurgiu nr. 43/2019",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2019-02-18",
+"latest": "2019-02-18",
+"portal": null,
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+}
+]
+}

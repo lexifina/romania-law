@@ -33,6 +33,51 @@
    ]
   },
   {
+   "slug": "hcj-hunedoara-108-2019",
+   "path": "local/judet/hunedoara/2019/108",
+   "short": "HCJ Hunedoara nr. 108/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 108/2019 privind aprobarea nivelului taxelor și tarifelor, precum și altor taxe asimilate acestora din competența Consiliului Județean Hunedoara aplicabile în anul fiscal 2019",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/09%20HOT%20SCAN%2031%20MAI%202019/HCJH%20108.pdf",
+     "sha256": "8cefd96d6f700077c0ed6aed82c04dcd96aaaab9055dcc4cc344ca4dadb5cecc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-144-2019",
+   "path": "local/judet/hunedoara/2019/144",
+   "short": "HCJ Hunedoara nr. 144/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 144/2019 pentru Valea Jiului; Anexa 2 - Regulament",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-06-19",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/10%20HOT%20SCAN%2019%20IUNIE%202019/HCJH%20144.pdf",
+     "sha256": "da2427b466bc9626b9b11c030095d4e4c02ad374f727c65235f0d82f564af5f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-187-2019",
+   "path": "local/judet/hunedoara/2019/187",
+   "short": "HCJ Hunedoara nr. 187/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 187/2019 pentru apa potabilă și a tarifului pentru canalizare-epurare pentru aria de operare a SC APAPROD SA DEVA",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-08-14",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/15%20HOT%20SCAN%2014%20AUGUST%202019/HCJH%20187.pdf",
+     "sha256": "093ea8e0e713afd51a2b553097f3793a8be21caddf55a0860eac96cf9c6fa6c7"
+    }
+   ]
+  },
+  {
    "slug": "hcj-hunedoara-2-2019",
    "path": "local/judet/hunedoara/2019/2",
    "short": "HCJ Hunedoara nr. 2/2019",
@@ -74,6 +119,21 @@
      "units": 1,
      "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/HOT%20SITE%2028%20AUGUST%202019/HCJ%20216.pdf",
      "sha256": "71ba60c90302f6cb861e21832edeb9cf3076c0908fbd9ed43714feaf4d40394f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-258-2019",
+   "path": "local/judet/hunedoara/2019/258",
+   "short": "HCJ Hunedoara nr. 258/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 258/2019 pentru eliberarea licențelor de traseu și a taxei pentru înlocuirea licenței de traseu în vederea efectuării transportului rutier contra cost de persoane prin servicii regulate la nivel județean",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/21%20HOT%20SCAN%2031%20OCT%202019/HCJH%20258.pdf",
+     "sha256": "ae81945854b2dbefefc205571f9f9cfff9b82b86dddf4d432f53684b6860be9e"
     }
    ]
   },
@@ -134,6 +194,21 @@
      "units": 1,
      "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/02%20HOT%20SCAN%2031%20IAN%202019/HCJH%206.pdf",
      "sha256": "d286510ecaa747bf5239e7924d1e3dad5b2fdd341a32946c780f07ea7e19b321"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-62-2019",
+   "path": "local/judet/hunedoara/2019/62",
+   "short": "HCJ Hunedoara nr. 62/2019",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 62/2019 pentru echilibrarea bugetelor locale și sumelor din cota de 18,5% din impozitul pe venit pentru echilibrarea bugetelor locale, estimate pentru anii 2020 – 2022 (20%)",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+   "versions": [
+    {
+     "from": "2019-03-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/hotarari/2019/07%20HOT%20SCAN%2029%20MARTIE%202019/HCJH%2062.pdf",
+     "sha256": "4b76e08208544bba67a115062364c5ea469b46ddd89bbd7781a6a3b9ffae3f52"
     }
    ]
   },

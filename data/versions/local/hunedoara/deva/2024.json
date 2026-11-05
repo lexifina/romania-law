@@ -3,6 +3,111 @@
  "shard": "local/hunedoara/deva/2024",
  "acts": [
   {
+   "slug": "hcl-hunedoara--deva-268-2024",
+   "path": "local/hunedoara/deva/2024/268",
+   "short": "HCL Deva nr. 268/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 268/2024 pentru modificarea Hotărârii Consiliului local nr.375/2021 privind aprobarea înființării serviciului social „Servicii de îngrijiri la domiciliu pentru persoane adulte cu dizabilități\", din cadrul Direcției de asistență socială Deva, a Regulamentului de organizare și",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C82/P120",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/268_2.pdf",
+     "sha256": "5464076d182c97c6b068d1a767a6ea531fb521a36f30b1981308a5949a145095"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-285-2024",
+   "path": "local/hunedoara/deva/2024/285",
+   "short": "HCL Deva nr. 285/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 285/2024 privind aprobarea documentației Plan Urbanistic Zonal \"Locuințe unifamiliale și împrejmuire\" generat de imobilul situat în extravilanul municipiului Deva, zona străzii Călugăreni",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C82/P100",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/285.pdf",
+     "sha256": "a1d2f6e56343e10a7fb81387ac6c88e915c79fd36e01377f3e6dbe48dc3386cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-34-2024",
+   "path": "local/hunedoara/deva/2024/34",
+   "short": "HCL Deva nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 34/2024 privind aprobarea documentației Plan Urbanistic Zonal “Locuință și filigorie\" generat de imobilul situat în extravilanul municipiului Deva, sat Bârcea Mică, strada Dealului, nr.23A",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C82/P360",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/34_1.pdf",
+     "sha256": "c9fb96b46101d9cf5067b1592a2799ad48c22c41c774ec08e79ab3287f880474"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-357-2024",
+   "path": "local/hunedoara/deva/2024/357",
+   "short": "HCL Deva nr. 357/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 357/2024 privind aprobarea Metodologiei de evaluare a nevoitor comunității în vederea organizării serviciilor sociale pentru persoanele vârstnice din Municipiul Deva",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C82/P40",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/357_2.pdf",
+     "sha256": "e987619ecb936d6b3ea94976031c2dab437f07da2d59ee051db44c159263f8d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-362-2024",
+   "path": "local/hunedoara/deva/2024/362",
+   "short": "HCL Deva nr. 362/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 362/2024 privind aprobarea documentației Plan Urbanistic Zonal „Locuință familială\" generat de imobilul situat în extravilanul municipiului Deva, sat aparținător Bârcea Mică, f.n",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C82/P20",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/362_2.pdf",
+     "sha256": "88e605b9170ab5d96be9f59eb45e37edfcacec2e6c27166f6bc39b8cbf8f371e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-363-2024",
+   "path": "local/hunedoara/deva/2024/363",
+   "short": "HCL Deva nr. 363/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 363/2024 privind aprobarea documentației Plan Urbanistic Zonal „Locuință, împrejmuire\" generat de imobilul situat în extravilanul municipiului Deva, zona străzii Carierei",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C82/P20",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/363_2.pdf",
+     "sha256": "1e319f77bb00bfbd4a411b801155aaa1f6db1dd79368bbcee98a4ae0c5a4df65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-379-2024",
+   "path": "local/hunedoara/deva/2024/379",
+   "short": "HCL Deva nr. 379/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 379/2024 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale pentru anul 2025 în Municipiul Deva",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C82/P20",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/379_2.pdf",
+     "sha256": "349b11ea9a6aa389541a71676196bbaa025ddfc776d890d2054689a25efd8799"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--deva-390-2024",
    "path": "local/hunedoara/deva/2024/390",
    "short": "HCL Deva nr. 390/2024",
@@ -149,6 +254,81 @@
      "units": 1,
      "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/400_1.pdf",
      "sha256": "280698036151d0561818d97e4546fd1a5f28cd23a787efdd2dcb70e7e029de07"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-55-2024",
+   "path": "local/hunedoara/deva/2024/55",
+   "short": "HCL Deva nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 55/2024 pentru modificarea Hotărârii Consiliului local al municipiului Deva nr. 196/2021 privind aprobarea Regulamentului de organizare și desfășurare a activității de voluntariat din cadrul Direcției de asistență socială Deva, instituție publică cu personalitate juridică, sub",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C82/P340",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/55_3.pdf",
+     "sha256": "a5c441d8a10aab36272984772e1c9eb71a71f1724a5f7c7401590d4434d50b67"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-64-2024",
+   "path": "local/hunedoara/deva/2024/64",
+   "short": "HCL Deva nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 64/2024 pentru modificarea Hotărârii Consiliului local nr.461/2023 privind aprobarea Studiului de fundamentare a deciziei de delegare a serviciului de iluminat public, a modalității de gestiune, a caietului de sarcini și a contractului-cadru de delegare a gestiunii serviciului",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C82/P340",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/64_2.pdf",
+     "sha256": "4cc43de00af1704e7bce6e3add515c0a44dd1d39ec0a37b89715bf99c0b30fa5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-73-2024",
+   "path": "local/hunedoara/deva/2024/73",
+   "short": "HCL Deva nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 73/2024 pentru modificarea Hotărârii Consiliului local al municipiului Deva nr. 150/30.03.2023, privind aprobarea Regulamentului privind stabilirea unor forme de sprijin financiar de la bugetul local al Municipiului Deva, pentru unitățile de cult aparținând cultelor religioase",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C82/P320",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/73_2.pdf",
+     "sha256": "226c00191fc358408b3c9a77663182420f53762edf581142f37cd15982eb3df8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-74-2024",
+   "path": "local/hunedoara/deva/2024/74",
+   "short": "HCL Deva nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 74/2024 pentru modificarea Hotărârii Consiliului local al municipiului Deva nr. 149/2023, privind aprobarea Regulamentului privind regimul finanțărilor nerambursabile de la bugetul local al municipiului Deva, acordate pentru activități nonprofit de interes general, conform Leg",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C82/P320",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/74_2.pdf",
+     "sha256": "6efd7df5f44e0277554207633214725793a4680097afb5be8a4df145c1a07930"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-87-2024",
+   "path": "local/hunedoara/deva/2024/87",
+   "short": "HCL Deva nr. 87/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 87/2024 privind stabilirea situațiilor de necesitate și a situațiilor deosebite pentru care se acordă ajutoare de urgență și ajutoare comunitare, începând cu anul 2024, precum și metodologia de acordare",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C82/P300",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/87_2.pdf",
+     "sha256": "f36c8fe6571863f906dfdc9321d1347d986f2b78946250f6c22f7d3fb0272b17"
     }
    ]
   }

@@ -23,6 +23,72 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcj-hunedoara-153-2018",
+"path": "local/judet/hunedoara/2018/153",
+"kind": "local",
+"year": "2018",
+"number": "153",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Hunedoara nr. 153/2018 privind aprobarea nivelului taxelor şi tarifelor precum şi altor taxe asimilate acestora, din competenţa Consiliului Judeţean Hunedoara, aplicabile în anul fiscal 2018",
+"short": "HCJ Hunedoara nr. 153/2018",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2018-06-29",
+"latest": "2018-06-29",
+"portal": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/392-hotarari-2018",
+"council": "judet/hunedoara",
+"council_name": "Consiliul Județean Hunedoara",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-hunedoara-164-2018",
+"path": "local/judet/hunedoara/2018/164",
+"kind": "local",
+"year": "2018",
+"number": "164",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Hunedoara nr. 164/2018 privind aprobarea Planului de Mobilitate Urbană Durabilă pentru realizarea proiectului de dezvoltare zonală ”Linie verde de autobuze electrice între Petrila-Petroșani-Aninoasa-Vulcan-Lupeni-Uricani Green Line Valea Jiului”",
+"short": "HCJ Hunedoara nr. 164/2018",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2018-07-27",
+"latest": "2018-07-27",
+"portal": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/392-hotarari-2018",
+"council": "judet/hunedoara",
+"council_name": "Consiliul Județean Hunedoara",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-hunedoara-316-2018",
+"path": "local/judet/hunedoara/2018/316",
+"kind": "local",
+"year": "2018",
+"number": "316",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Hunedoara nr. 316/2018 pentru completarea Anexei nr.3 la Hotărârea Consiliului Județean Hunedoara nr.316/2018 privind aprobarea nivelului taxelor și tarifelor precum și altor taxe asimilate acestora din competența Consiliului Județean Hunedoara aplicabile în anul fiscal 2019 ; doc:",
+"short": "HCJ Hunedoara nr. 316/2018",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2018-12-14",
+"latest": "2018-12-14",
+"portal": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/392-hotarari-2018",
+"council": "judet/hunedoara",
+"council_name": "Consiliul Județean Hunedoara",
+"flags": {
+"text_pending": "ocr"
+}
 }
 ]
 }

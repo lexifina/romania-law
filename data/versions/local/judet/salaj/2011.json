@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "local/judet/salaj/2011",
+ "acts": [
+  {
+   "slug": "hcj-salaj-10-2011",
+   "path": "local/judet/salaj/2011/10",
+   "short": "HCJ Sălaj nr. 10/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 10/2011 privind aprobarea formei gestiunii delegate a serviciului de administrare a domeniului public şi privat al judeţului, precum şi a regulamentului de delegare a gestiunii acestui serviciu",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-01-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot102011.pdf",
+     "sha256": "36a598de23aaa3c4c39be3c48f461f467c0c5b6708f725f49c07328404057a58"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-106-2011",
+   "path": "local/judet/salaj/2011/106",
+   "short": "HCJ Sălaj nr. 106/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 106/2011 pentru aprobarea Regulamentului local privind implicarea publicului in elaborarea sau revizuirea planului de urbanism sau de amenajare a teritoriului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-07-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1062011.pdf",
+     "sha256": "ea6db1fbdae2f77a99361e40f136670572c73430ec1c3972b1a107598b4b2dd1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-111-2011",
+   "path": "local/judet/salaj/2011/111",
+   "short": "HCJ Sălaj nr. 111/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 111/2011 privind aprobarea unor taxe la centrul de Cultură şi Artă al Judeţului Sălaj, pentru anul şcolar 2011-2012",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-08-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1112011.pdf",
+     "sha256": "64671dc60dfa788626e22174446728e7dd5f03a78e683db7f32dc40ef8179683"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-113-2011",
+   "path": "local/judet/salaj/2011/113",
+   "short": "HCJ Sălaj nr. 113/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 113/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-08-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1132011.pdf",
+     "sha256": "ce0411059b7d425b768b81ace916e0894ce1d014ad07f95df9d97b6329637dc8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-118-2011",
+   "path": "local/judet/salaj/2011/118",
+   "short": "HCJ Sălaj nr. 118/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 118/2011 privind aprobarea Regulamentului de organizare şi funcţionare al aparatului de specialitate al Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-08-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1182011.pdf",
+     "sha256": "500769a691d0ed2c90592b1bc79bc192d49f4cf4b62658417bd64dc285035077"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-122-2011",
+   "path": "local/judet/salaj/2011/122",
+   "short": "HCJ Sălaj nr. 122/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 122/2011 pentru completarea Hotărârii Consiliului Judeţean Sălaj nr.138/2010 privind stabilirea taxelor şi tarifelor de competenţa Consiliului Judeţean Sălaj, pentru anul 2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-09-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1222011.pdf",
+     "sha256": "7faead6345344691ff26c997ff7ff624a6857ac14322d4fd64691f95f9d36f00"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-138-2011",
+   "path": "local/judet/salaj/2011/138",
+   "short": "HCJ Sălaj nr. 138/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 138/2011 privind instituirea restricţiei de circulaţie privind masa maximă admisă pentru vehiculele care pot circula pe un tronson din drumul judeţean DJ110B",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1382011.pdf",
+     "sha256": "00c36e44af25819aeecfa8124d9f650615501224e1a5f3bc710767fde63a7d19"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-144-2011",
+   "path": "local/judet/salaj/2011/144",
+   "short": "HCJ Sălaj nr. 144/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 144/2011 privind stabilirea taxelor şi tarifelor de competenţa Consiliului Judeţean Sălaj pentru anul 2012",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1442011.pdf",
+     "sha256": "ecdc1d89b60de2e6fe88beb4637c1e9f5ac9073cf23f027694603315920ff3dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-22-2011",
+   "path": "local/judet/salaj/2011/22",
+   "short": "HCJ Sălaj nr. 22/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 22/2011 privind aprobarea taxelor şi tarifelor pentru serviciile delegate practicate de către S.C",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot222011.pdf",
+     "sha256": "f41026c03afb35de686b984a375ba7bcf1cca7084e3b2e55dd37f003183aeee9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-38-2011",
+   "path": "local/judet/salaj/2011/38",
+   "short": "HCJ Sălaj nr. 38/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 38/2011 privind modificarea Hotărârii Consiliului Judeţean Sălaj nr. 22/2011 privind aprobarea taxelor şi tarifelor pentru serviciile delegate practicate de către S.C",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-03-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot382011.pdf",
+     "sha256": "0c5f9d1e730566585851c596b52c62e8bf62c8346fdbdfecb9587cac899b1af1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-74-2011",
+   "path": "local/judet/salaj/2011/74",
+   "short": "HCJ Sălaj nr. 74/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 74/2011 pentru completarea Hotărârii Consiliului Judeţean Sălaj nr. 138/2010 privind stabilirea taxelor şi tarifelor de competenţa Consiliului Judeţean Sălaj, pentru anul 2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-05-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot742011.pdf",
+     "sha256": "fd1f80df46acc8ad801d762fb8bf81be6d90fd8c9d2670977d7cd1eed8b8f391"
+    }
+   ]
+  }
+ ]
+}

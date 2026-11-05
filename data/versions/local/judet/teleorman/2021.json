@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/judet/teleorman/2021",
+ "acts": [
+  {
+   "slug": "hcj-teleorman-115-2021",
+   "path": "local/judet/teleorman/2021/115",
+   "short": "HCJ Teleorman nr. 115/2021",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 115/2021 pentru efectuarea serviciului public de transport judeţean de persoane prin curse regulate şi a Caietului de sarcini al serviciului public de transport judeţean de persoane prin curse regulate",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202021.htm",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202021/115.pdf",
+     "sha256": "5b21e4a25836a29698307416d6e130b010943a90ab91240491dc96f387c5b5a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-155-2021",
+   "path": "local/judet/teleorman/2021/155",
+   "short": "HCJ Teleorman nr. 155/2021",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 155/2021 pentru analiza noului proiect de management şi aprobarea Regulamentului de organizare şi desfăşurare a analizei noului proiect de management ce va fi depus de managerul Muzeului Judeţean Teleorman - instituţie publică de cultură aflată în subordinea Consiliului Judeţean Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202021.htm",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202021/155.pdf",
+     "sha256": "89a37d54d99038d0cd61b9347bc1cfef15fff00b45a28ae13d5672b525d0d991"
+    }
+   ]
+  }
+ ]
+}

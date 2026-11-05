@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/constanta/2008",
+ "acts": [
+  {
+   "slug": "hcj-constanta-96-2008",
+   "path": "local/judet/constanta/2008/96",
+   "short": "HCJ Constanța nr. 96/2008",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 96/2008 privind aprobarea Regulamentului pentru efectuarea serviciului de transport public judetean de persoane, in judetul Constanta",
+   "url": "https://www.cjc.ro/sectiune.php?s=98",
+   "versions": [
+    {
+     "from": "2008-04-03",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/Hotarari/2008/96.pdf",
+     "sha256": "972948868e88a1ca31645a935d9da9fa15055399d03ad12bb0149dac1379646b"
+    }
+   ]
+  }
+ ]
+}

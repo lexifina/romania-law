@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/ialomita/fetesti/2023",
+"acts": [
+{
+"slug": "hcl-ialomita--fetesti-232-2023",
+"path": "local/ialomita/fetesti/2023/232",
+"kind": "local",
+"year": "2023",
+"number": "232",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 232/2023 privind aprobarea Regulamentului de organizare și funcționare a activității de voluntariat din cadrul Municipiului Fetești și a serviciilor publice din subordinea Consiliului Local al Municipiului Fetești",
+"short": "HCL Fetești nr. 232/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-11-03",
+"latest": "2023-11-03",
+"portal": "https://emol.ro/fetesti-il/registru-hcl/125967",
+"council": "ialomita/fetesti",
+"council_name": "Consiliul Local al Municipiului Fetești",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

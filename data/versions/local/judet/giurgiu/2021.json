@@ -3,6 +3,21 @@
  "shard": "local/judet/giurgiu/2021",
  "acts": [
   {
+   "slug": "hcj-giurgiu-103-2021",
+   "path": "local/judet/giurgiu/2021/103",
+   "short": "HCJ Giurgiu nr. 103/2021",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 103/2021 privind aprobarea achiziției de servicii juridice de consultanță, asistență și reprezentare",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-05-06",
+     "units": 5,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/103.-hotararea-nr.103-din-06.05.2021.pdf",
+     "sha256": "1b5cf22922dde2b9bceecb165dae169fda6d4e35ea62a1f8a82d661a3b4435f6"
+    }
+   ]
+  },
+  {
    "slug": "hcj-giurgiu-104-2021",
    "path": "local/judet/giurgiu/2021/104",
    "short": "HCJ Giurgiu nr. 104/2021",
@@ -14,6 +29,66 @@
      "units": 1,
      "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.38-din-28.02.2025-cu-anexa.pdf",
      "sha256": "b14b38e55059153df13eb3e9020bfe05d6d95a4da48e9b23b3a857bac1106f3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-118-2021",
+   "path": "local/judet/giurgiu/2021/118",
+   "short": "HCJ Giurgiu nr. 118/2021",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 118/2021 privind aprobarea achiziției de servicii juridice de consultanță, asistență și reprezentare",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-05-25",
+     "units": 4,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.118-din-25.05.2021.pdf",
+     "sha256": "26bdadffd0e7eebf6066def42da470bb337bea1d9c62ceffa102493f59a807c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-127-2021",
+   "path": "local/judet/giurgiu/2021/127",
+   "short": "HCJ Giurgiu nr. 127/2021",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 127/2021 privind aprobarea înființării unui punct de lucru al Societății JUDSERV 2020 S.R.L.",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-06-28",
+     "units": 3,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/127.-hotararea-nr.127-din-28.06.2021.pdf",
+     "sha256": "8b34120dda598fe36f22e1808bf8af7c2e953d69fb52bb74c35b16dff241c896"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-182-2021",
+   "path": "local/judet/giurgiu/2021/182",
+   "short": "HCJ Giurgiu nr. 182/2021",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 182/2021 privind aprobarea achiziției de servicii juridice de asistență și reprezentare",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 4,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.182-din-30.08.2021.pdf",
+     "sha256": "61b42d65a27ed465b802861dff8c3af8e9dd5618dac4bb354da5900f963d0304"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-5-2021",
+   "path": "local/judet/giurgiu/2021/5",
+   "short": "HCJ Giurgiu nr. 5/2021",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 5/2021 privind aprobarea contractului de mandat al administratorului Societății JUDSERV 2020 S.R.L CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.18044 din 31 decembrie 2020 al președintelui, - raportul de specialitate nr.18045 din 31 decembrie 2020 al Direcției juridice și administrație publică; - avizul Comisiei juridice, ordine publică și situații",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/07/005.-hotararea-nr.5-din-28.01.2021.pdf",
+     "sha256": "8f0babd60548d5d2b84675c539b1d0c2a19e56eab1c73455791eae8bc5c37d68"
     }
    ]
   }

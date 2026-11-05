@@ -2384,6 +2384,95 @@
 }
 },
 {
+"slug": "hcj-neamt-152-2026",
+"path": "local/judet/neamt/2026/152",
+"kind": "local",
+"year": "2026",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Neamț nr. 152/2026 privind aprobarea tarifului mediu lei/km/loc pentru traseele din programul județean de transport persoane 2024-2033, aferente Lotului 1 și Lotului 2, valabil începând cu data de 01.06.2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ",
+"short": "HCJ Neamț nr. 152/2026",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2026-05-27",
+"latest": "2026-05-27",
+"portal": "https://cjneamt.ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+"council": "judet/neamt",
+"council_name": "Consiliul Județean Neamț",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-neamt-213-2026",
+"path": "local/judet/neamt/2026/213",
+"kind": "local",
+"year": "2026",
+"number": "213",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Neamț nr. 213/2026 privind aprobarea tarifului mediu lei/km/loc pentru traseele din programul județean de transport persoane 2024-2033, aferent Lot 5, valabil începând cu data de 01.08.2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ",
+"short": "HCJ Neamț nr. 213/2026",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2026-07-29",
+"latest": "2026-07-29",
+"portal": "https://cjneamt.ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+"council": "judet/neamt",
+"council_name": "Consiliul Județean Neamț",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-neamt-254-2026",
+"path": "local/judet/neamt/2026/254",
+"kind": "local",
+"year": "2026",
+"number": "254",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Neamț nr. 254/2026 privind aprobarea modificării tarifului mediu lei/km/loc pentru transportul public județean de persoane pe traseele lotului 4, începând cu 01.10.2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ",
+"short": "HCJ Neamț nr. 254/2026",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2026-09-25",
+"latest": "2026-09-25",
+"portal": "https://cjneamt.ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+"council": "judet/neamt",
+"council_name": "Consiliul Județean Neamț",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-neamt-278-2026",
+"path": "local/judet/neamt/2026/278",
+"kind": "local",
+"year": "2026",
+"number": "278",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Neamț nr. 278/2026",
+"short": "HCJ Neamț nr. 278/2026",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2026-10-01",
+"latest": "2026-10-01",
+"portal": null,
+"council": "judet/neamt",
+"council_name": "Consiliul Județean Neamț",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcj-neamt-279-2026",
 "path": "local/judet/neamt/2026/279",
 "kind": "local",

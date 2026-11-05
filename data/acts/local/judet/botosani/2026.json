@@ -113,6 +113,28 @@
 }
 },
 {
+"slug": "hcj-botosani-139-2026",
+"path": "local/judet/botosani/2026/139",
+"kind": "local",
+"year": "2026",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 139/2026 privind aprobarea taxelor școlare pentru elevii Școlii Populare de Arte „George Enescu” Botoșani, pe anul școlar 2026 - 2027",
+"short": "HCJ Botoșani nr. 139/2026",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-07-28",
+"latest": "2026-07-28",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
 "slug": "hcj-botosani-185-2026",
 "path": "local/judet/botosani/2026/185",
 "kind": "local",

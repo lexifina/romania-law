@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/judet/botosani/2018",
+"acts": [
+{
+"slug": "hcj-botosani-34-2018",
+"path": "local/judet/botosani/2018/34",
+"kind": "local",
+"year": "2018",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 34/2018 privind aprobarea Programului anual pentru acordarea de finanţări nerambursabile pe anul 2018 şi aprobarea Regulamentului privind regimul finanţărilor nerambursabile alocate din fonduri ale bugetului Judeţului Botoşani pentru activităţi non-profit de interes judeţean, în baza Legii nr. 350/",
+"short": "HCJ Botoșani nr. 34/2018",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2018-02-22",
+"latest": "2018-02-22",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-35-2018",
+"path": "local/judet/botosani/2018/35",
+"kind": "local",
+"year": "2018",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 35/2018 privind aprobarea Regulamentului privind regimul finanţărilor nerambursabile alocate din fonduri ale bugetului Judeţului Botoşani pentru activităţile de tineret pentru anul 2018",
+"short": "HCJ Botoșani nr. 35/2018",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2018-02-22",
+"latest": "2018-02-22",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-98-2018",
+"path": "local/judet/botosani/2018/98",
+"kind": "local",
+"year": "2018",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 98/2018 privind aprobarea taxelor școlare pentru elevii Școlii Populare de Arte „George Enescu” Botoșani, pe anul școlar 2018 - 2019",
+"short": "HCJ Botoșani nr. 98/2018",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2018-07-26",
+"latest": "2018-07-26",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-165-2018",
+"path": "local/judet/botosani/2018/165",
+"kind": "local",
+"year": "2018",
+"number": "165",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 165/2018 privind acordarea unui mandat special din partea Judeţului Botoşani, Asiciaţiei de Dezvoltare Intercomunitară \"ECOPROCES\" Botoşani pentru a aproba in Adunarea Generala a Acţionarilor, in numele si pe seama Judeţului Botoşani, Planul anual de creştere a tarifului actualizat",
+"short": "HCJ Botoșani nr. 165/2018",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2018-11-08",
+"latest": "2018-11-08",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-187-2018",
+"path": "local/judet/botosani/2018/187",
+"kind": "local",
+"year": "2018",
+"number": "187",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 187/2018 privind aprobarea Regulamentului de acordare a stimulentelor financiare elevilor din instituțiile de învățământ din județul Botoșani, care au obținut rezultate de excepție la olimpiadele și concursurile școlare județene și a Listei elevilor din instituțiile de învățământ din județul Botoșan",
+"short": "HCJ Botoșani nr. 187/2018",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2018-12-06",
+"latest": "2018-12-06",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

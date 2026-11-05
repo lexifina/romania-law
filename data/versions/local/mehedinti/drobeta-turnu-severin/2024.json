@@ -3,6 +3,21 @@
  "shard": "local/mehedinti/drobeta-turnu-severin/2024",
  "acts": [
   {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-123-2024",
+   "path": "local/mehedinti/drobeta-turnu-severin/2024/123",
+   "short": "HCL Drobeta-Turnu Severin nr. 123/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 123/2024 privind aprobarea casării mijloacelor fixe aparținând instituției de învățământ Școala Gimnazială \"Theodor Costescu\"",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/157829",
+   "versions": [
+    {
+     "from": "2024-07-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/51345/Anexa.pdf",
+     "sha256": "5f87da78e199de370748f6ecafa205381ee557dfe94f895fbf85e69de42117fa"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--drobeta-turnu-severin-131-2024",
    "path": "local/mehedinti/drobeta-turnu-severin/2024/131",
    "short": "HCL Drobeta-Turnu Severin nr. 131/2024",
@@ -29,6 +44,66 @@
      "units": 1,
      "source_url": "https://primariadrobeta.ro/wp-content/uploads/2026/01/3.-HCL-nr.-132-28.05.2024-actualizare-PMUDdecizie-APM.pdf",
      "sha256": "d0296d0cf89cc0047a9385d545c987224d2be1428909677e512ed8d4d6c72901"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-191-2024",
+   "path": "local/mehedinti/drobeta-turnu-severin/2024/191",
+   "short": "HCL Drobeta-Turnu Severin nr. 191/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 191/2024",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/164699",
+   "versions": [
+    {
+     "from": "2024-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/164699",
+     "sha256": "db1f126b194cac1ddd05809dc7810ae0baa4cd26840fea130acfb2584ede4821"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-325-2024",
+   "path": "local/mehedinti/drobeta-turnu-severin/2024/325",
+   "short": "HCL Drobeta-Turnu Severin nr. 325/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 325/2024 privind modificarea HCL nr. 58/28.02.2022 referitoare la aprobarea Regulamentului de organizare și funcționare a parcărilor publice cu tarifare orară cât și procedura de atribuire a locurilor în parcările publice de reședință în municipiul Drobeta Turnu Severin",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/183605",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/65331/anexa.pdf",
+     "sha256": "584626b0373ce45ef066f5398f88ca36837efdbf1812d9a93ce35dc18de00bf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-51-2024",
+   "path": "local/mehedinti/drobeta-turnu-severin/2024/51",
+   "short": "HCL Drobeta-Turnu Severin nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 51/2024",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/143913",
+   "versions": [
+    {
+     "from": "2024-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/143913",
+     "sha256": "01460f84a6a74617e26756b93fe1e1ea231479106163661aeaa2291c7aa0cd5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-9-2024",
+   "path": "local/mehedinti/drobeta-turnu-severin/2024/9",
+   "short": "HCL Drobeta-Turnu Severin nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 9/2024 privind aprobarea Programului de Acțiuni Comunitare destinat prevenirii și combaterii riscului de sărăcie și excluziune socială pentru anul 2024",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/139593",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/42528/Anex%C4%83%20la%20HCL.pdf",
+     "sha256": "e77b3ad619806088a98e5f4e12294a16bde1e73aadf41595d23656f19825214b"
     }
    ]
   }

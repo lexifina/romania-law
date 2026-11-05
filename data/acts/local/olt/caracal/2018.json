@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-olt--caracal-73-2018",
+"path": "local/olt/caracal/2018/73",
+"kind": "local",
+"year": "2018",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 73/2018 privind stabilirea unor masuri pentru gospodarirea municipiului Caracal, precum si stabilirea, constatarea si sanctionarea faptelor ce constituie contraventii",
+"short": "HCL Caracal nr. 73/2018",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2018-06-29",
+"latest": "2018-06-29",
+"portal": "https://www.primariacaracal.ro/hotarari-consiliul-local-2013/",
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
 "slug": "hcl-olt--caracal-89-2018",
 "path": "local/olt/caracal/2018/89",
 "kind": "local",

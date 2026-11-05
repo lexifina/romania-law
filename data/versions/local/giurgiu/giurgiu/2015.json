@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/giurgiu/giurgiu/2015",
+ "acts": [
+  {
+   "slug": "hcl-giurgiu--giurgiu-145-2015",
+   "path": "local/giurgiu/giurgiu/2015/145",
+   "short": "HCL Giurgiu nr. 145/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 145/2015 cu privire la stabilirea categoriilor de persoane beneficiare de transport public cu tarif redus și gratuit în Municipiul Giurgiu Vizualizare",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2016-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2015-04-22",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/157/92-modificare-145.pdf",
+     "sha256": "78b9906bca0a71e0f22a5cfbdd655ff69352eefedb61b68a5ca3433a93fa151f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-384-2015",
+   "path": "local/giurgiu/giurgiu/2015/384",
+   "short": "HCL Giurgiu nr. 384/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 384/2015 privind completarea Hotărârii Consiliului Local nr. 384 din data de 04 noiembrie 2015 privind stabilirea impozitelor și taxelor locale pentru anul fiscal 2016 Vizualizare",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2015-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2015-11-04",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/193/472-completare-384-1.pdf",
+     "sha256": "44a78c2a09039867feeb3004f514bace237c725e9595af1fd1e6933f72770776"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-385-2015",
+   "path": "local/giurgiu/giurgiu/2015/385",
+   "short": "HCL Giurgiu nr. 385/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 385/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-11-04",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/193/473-modificare-385-1.pdf",
+     "sha256": "9e797aa084ec3fc3bf74eb4f3d44e34b23e187dc2f166504fc38b9dd41fd560e"
+    }
+   ]
+  }
+ ]
+}

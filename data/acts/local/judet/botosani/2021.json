@@ -23,6 +23,116 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcj-botosani-219-2021",
+"path": "local/judet/botosani/2021/219",
+"kind": "local",
+"year": "2021",
+"number": "219",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 219/2021 privind acordarea unui mandat special reprezentantului Județului Botoșani în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ,,ECOPROCES” Botoșani, pentru a vota, în numele și pe seama Județului Botoșani, aprobarea Planului de creștere a tarifelor actualizat, la luna august 202",
+"short": "HCJ Botoșani nr. 219/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-10-27",
+"latest": "2021-10-27",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-botosani-254-2021",
+"path": "local/judet/botosani/2021/254",
+"kind": "local",
+"year": "2021",
+"number": "254",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 254/2021 privind aprobarea tarifelor pentru serviciile prestate de Școala Populară de Arte „George Enescu” Botoșani pentru anul 2022",
+"short": "HCJ Botoșani nr. 254/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-12-22",
+"latest": "2021-12-22",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-botosani-255-2021",
+"path": "local/judet/botosani/2021/255",
+"kind": "local",
+"year": "2021",
+"number": "255",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 255/2021 privind stabilirea tarifelor pentru serviciile prestate de Centrul Judeţean pentru Conservarea şi Promovarea Culturii Tradiţionale Botoşani, pentru anul 2022",
+"short": "HCJ Botoșani nr. 255/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-12-22",
+"latest": "2021-12-22",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-botosani-268-2021",
+"path": "local/judet/botosani/2021/268",
+"kind": "local",
+"year": "2021",
+"number": "268",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 268/2021 privind aprobarea Regulamentului de organizare şi funcţionare a aparatului de specialitate al Consiliului Județean Botoșani",
+"short": "HCJ Botoșani nr. 268/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-12-22",
+"latest": "2021-12-22",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-botosani-273-2021",
+"path": "local/judet/botosani/2021/273",
+"kind": "local",
+"year": "2021",
+"number": "273",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 273/2021 privind aprobarea preţurilor medii ale produselor agricole pentru anul 2022",
+"short": "HCJ Botoșani nr. 273/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-12-22",
+"latest": "2021-12-22",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_withheld": "personal_data"
+}
 }
 ]
 }

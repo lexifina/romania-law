@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/campina/2020",
+ "acts": [
+  {
+   "slug": "hcl-prahova--campina-183-2020",
+   "path": "local/prahova/campina/2020/183",
+   "short": "HCL Câmpina nr. 183/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 183/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2021/02/Hotararea-nr183-mod-si-complet-HCL-172_2020-stab-impozite-si-taxe-locale-2021-1.pdf",
+     "sha256": "e8e68a405151ce418a99bc30b37ee71e238bf0e83e5f430b6cb1288d911e60bd"
+    }
+   ]
+  }
+ ]
+}

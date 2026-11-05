@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/judet/teleorman/2015",
+"acts": [
+{
+"slug": "hcj-teleorman-58-2015",
+"path": "local/judet/teleorman/2015/58",
+"kind": "local",
+"year": "2015",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Teleorman nr. 58/2015 pentru perioada 2014-2019, unui operator de transport rutier, precum si a tarifului utilizat de acesta",
+"short": "HCJ Teleorman nr. 58/2015",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2015-04-29",
+"latest": "2015-04-29",
+"portal": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202015.htm",
+"council": "judet/teleorman",
+"council_name": "Consiliul Județean Teleorman",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-teleorman-148-2015",
+"path": "local/judet/teleorman/2015/148",
+"kind": "local",
+"year": "2015",
+"number": "148",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Teleorman nr. 148/2015 pentru echilibrarea bugetelor locale ºi a cotei de 20% din cota de 18,5 % din impozitul pe venit, precum ºi sumele reþinute ca urmare a diminuãrii cu gradul de necolectare a veniturilor proprii, pe anul 2016 ºi estimãri pentru anii 2017 -2019",
+"short": "HCJ Teleorman nr. 148/2015",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2015-10-08",
+"latest": "2015-10-08",
+"portal": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202015.htm",
+"council": "judet/teleorman",
+"council_name": "Consiliul Județean Teleorman",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-teleorman-177-2015",
+"path": "local/judet/teleorman/2015/177",
+"kind": "local",
+"year": "2015",
+"number": "177",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Teleorman nr. 177/2015 pentru peri oada 2014-2019. unui operator de transport rutier, precum şi a tarifului utili zat de aces ta",
+"short": "HCJ Teleorman nr. 177/2015",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2015-12-22",
+"latest": "2015-12-22",
+"portal": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202015.htm",
+"council": "judet/teleorman",
+"council_name": "Consiliul Județean Teleorman",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

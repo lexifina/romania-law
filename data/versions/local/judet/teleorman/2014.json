@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/judet/teleorman/2014",
+ "acts": [
+  {
+   "slug": "hcj-teleorman-170-2014",
+   "path": "local/judet/teleorman/2014/170",
+   "short": "HCJ Teleorman nr. 170/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 170/2014 pentru perioada 204-2019 unui operator de transport rutier, precum si a tarifului utilizat de acesta",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-09-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20170.pdf",
+     "sha256": "4a1eda072ca117529d0dbb00c2fc33cdf8d647787b0c1b1fafdda3f1ca86f849"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-68-2014",
+   "path": "local/judet/teleorman/2014/68",
+   "short": "HCJ Teleorman nr. 68/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 68/2014 privind procedura publicării actelor cu caracter normativ în Monitorul Oficial al Judetului , Teleorman şi modalitatea de difuzare a acestuia",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-04-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/68.pdf",
+     "sha256": "a25fb92f61382e4243b5584659fadb08f94b77f0878ac509f6367a5c7cbeab38"
+    }
+   ]
+  }
+ ]
+}

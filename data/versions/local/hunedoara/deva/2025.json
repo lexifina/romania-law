@@ -3,6 +3,291 @@
  "shard": "local/hunedoara/deva/2025",
  "acts": [
   {
+   "slug": "hcl-hunedoara--deva-101-2025",
+   "path": "local/hunedoara/deva/2025/101",
+   "short": "HCL Deva nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 101/2025 privind aprobarea documentației Plan Urbanistic Zonal \"Parcelare teren pentru construcții de locuințe\" generat de imobilul situat în extravilanul municipiului Deva, zona localității Archia",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87/P440",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/101_4.pdf",
+     "sha256": "ec36fda3caa8a27dc90f2a16e9261789e708c14f6dab7ceacd1750f6b765cc60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-102-2025",
+   "path": "local/hunedoara/deva/2025/102",
+   "short": "HCL Deva nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 102/2025 pentru aprobarea Regulamentului privind procedura de emitere a certificatului de atestare a edificării construcțiilor executate fără autorizație de construire și pentru care s-a împlinit termenul de prescripție",
+   "url": "https://emol.ro/deva-hd/registru-hcl/199425",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/68075/anexa%20edificare.pdf",
+     "sha256": "9af08d929fb79ce2c27bff4d3681a79fca812e9c7042a9631e964f0cd1bcef63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-105-2025",
+   "path": "local/hunedoara/deva/2025/105",
+   "short": "HCL Deva nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 105/2025 pentru modificarea Hotărârii Consiliului local nr. 13/2014 privind constituirea Comisiei tehnice de amenajare a teritoriului și urbanism și aprobarea Regulamentului de funcționare al acesteia, cu modificările și completările ulterioare",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87/P440",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/105_3.pdf",
+     "sha256": "1afdf04548329968e573463bb5861efea97e509bf0cd17d5d5dc5d9abb33dfaf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-134-2025",
+   "path": "local/hunedoara/deva/2025/134",
+   "short": "HCL Deva nr. 134/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 134/2025 privind actualizarea tarifului pentru o călătorie în cadrul Serviciului de Transport Public Local în municipiul Deva și localitățile aparținătoare",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87/P400",
+   "versions": [
+    {
+     "from": "2025-04-07",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/134_3.pdf",
+     "sha256": "e99aa7f297ed5231fd57134858b199357dbdea99dd127c8cd87d36c88263d580"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-141-2025",
+   "path": "local/hunedoara/deva/2025/141",
+   "short": "HCL Deva nr. 141/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 141/2025 privind stabilirea tarifelor pentru utilizarea spațiilor aflate în administrarea Centrului Cultural „Drăgan Muntean\" Deva",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87/P400",
+   "versions": [
+    {
+     "from": "2025-04-15",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/141_3.pdf",
+     "sha256": "93c7110d597278b94ade1e22470265877e91dd43127a833ec1ed2b6211c6c48f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-148-2025",
+   "path": "local/hunedoara/deva/2025/148",
+   "short": "HCL Deva nr. 148/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 148/2025 privind numirea comisiei de evaluare a oportunității achiziționării și/sau închirierii de imobile, respectiv exercitarea sau neexercitarea dreptului de preempțiune, precum și aprobarea Regulamentului de funcționare a comisiei",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87/P400",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/148_3.pdf",
+     "sha256": "5962c9bbffa8585734e9f8f2303f2934f5e6af93e34707e081ab4a0f0800ef76"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-155-2025",
+   "path": "local/hunedoara/deva/2025/155",
+   "short": "HCL Deva nr. 155/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 155/2025 privind stabilirea tarifelor pentru utilizarea terenurilor de sport aflate în administrarea Clubului Sportiv Municipal Deva",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87/P380",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/155_3.pdf",
+     "sha256": "2aee4cf6b1ebdb4ca6379dc6b5288b7bd47352e7c5c4e96a0d3c6982772c8114"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-156-2025",
+   "path": "local/hunedoara/deva/2025/156",
+   "short": "HCL Deva nr. 156/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 156/2025 privind indexarea cu rata inflației a impozitelor și taxelor locale care constau într- o anumită sumă în lei sau care sunt stabilite pe baza unei anumite sume în lei și actualizarea limitelor amenzilor prevăzute la art.493 alin.3 și alin.4 ale Legii nr.227/2015 privi",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87/P380",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/156_3.pdf",
+     "sha256": "f4b4d27eb6f7721db3772527641352a507568a20b6a15b56694f1f8b87c983a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-169-2025",
+   "path": "local/hunedoara/deva/2025/169",
+   "short": "HCL Deva nr. 169/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 169/2025 privind aprobarea Regulamentului privind stabilirea unor forme de sprijin financiar de la bugetul local al Municipiului Deva, pentru unitățile de cult aparținând cultelor religioase recunoscute în România",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87/P380",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/169_2.pdf",
+     "sha256": "a7f260b1f6ac91be6c1b1a9fbc3b36caff34af1521922eef45bf97d184dc5789"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-416-2025",
+   "path": "local/hunedoara/deva/2025/416",
+   "short": "HCL Deva nr. 416/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 416/2025 privind aprobarea Metodologiei de acordare, cu titlu gratuit, a unei cantități de 5 m3 de material lemnos pentru foc, sub formă de ajutor pentru încălzirea locuinței, pentru persoanele singure/familiile nevoiașe din Municipiul Deva care nu beneficiază de ajutor pentr",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87/P120",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/416_3.pdf",
+     "sha256": "b5e4bd2e3a2fc0cfe1ae3ecd5ff50704b194d55cfc5720a88901a00174612406"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-434-2025",
+   "path": "local/hunedoara/deva/2025/434",
+   "short": "HCL Deva nr. 434/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 434/2025 privind aprobarea documentației Plan Urbanistic Zonal „Stație iTP, service auto și împrejmuirea terenului\" generat de imobilul situat în extravilan, municipiul Deva, prelungirea străzii Depozitelor",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87/P100",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/434_2.pdf",
+     "sha256": "ed0caf76dbf0124dff57823a51df7c356a3f5a25f37b9f51744a3230af1299b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-473-2025",
+   "path": "local/hunedoara/deva/2025/473",
+   "short": "HCL Deva nr. 473/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 473/2025 privind aprobarea tarifelor de intrare precum și a Regulamentului de funcționare a patinoarului artificial Deva",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87/P60",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/473_2.pdf",
+     "sha256": "246ff058fd12387ef3a64666619901d92c1fce63bd1027bad39f9cc00951f863"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-488-2025",
+   "path": "local/hunedoara/deva/2025/488",
+   "short": "HCL Deva nr. 488/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 488/2025 pentru modificarea Hotărârii Consiliului local nr.473/2025 privind aprobarea tarifelor de intrare precum și a Regulamentului de funcționare a patinoarului artificial Deva",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87/P60",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/488_2.pdf",
+     "sha256": "63e4b3867296de73d40e99294a1e2c27b5f077ea28fe355ea2ec0a727fb9be10"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-489-2025",
+   "path": "local/hunedoara/deva/2025/489",
+   "short": "HCL Deva nr. 489/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 489/2025 pentru modificarea Hotărârii Consiliului local nr. 160/2018 privind reglementarea activității de ridicare, transport, depozitare și eliberare a vehiculelor staționate neregulamentar pe drumurile publice sau pe domeniul public sau privat al municipiului Deva, cu modif",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87/P60",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/489_2.pdf",
+     "sha256": "941081b8ff19aef1af22152b33d8f59718dbef7cf091353f61b1f6cf4caebb91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-511-2025",
+   "path": "local/hunedoara/deva/2025/511",
+   "short": "HCL Deva nr. 511/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 511/2025 pentru modificarea Hotărârii Consiliului local nr.375/2021 privind aprobarea înființării serviciului social „Servicii de îngrijiri la domiciliu pentru persoane adulte cu dizabilități\", din cadrul Direcției de asistență socială Deva, a Regulamentului de organizare și",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87/P40",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/511_1.pdf",
+     "sha256": "44dfce816d5bbf20289e964222eab270381d5d5f05f73b399bf59c02bfa76b62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-526-2025",
+   "path": "local/hunedoara/deva/2025/526",
+   "short": "HCL Deva nr. 526/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 526/2025 privind aprobarea documentației Plan Urbanistic Zonal „înființare cimitir\" generat de imobilul situat în extravilanul municipiului Deva, zona străzii Carierei",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87/P20",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/526_1.pdf",
+     "sha256": "149e7e5a6ff4bb2464ee1ad354524e2396d9878838fd83dc16e8fe29f2b8c12f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-527-2025",
+   "path": "local/hunedoara/deva/2025/527",
+   "short": "HCL Deva nr. 527/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 527/2025 privind aprobarea documentației Plan Urbanistic Zonal “Zonă rezidențială\"generat de imobilul situat în extravilanul municipiului Deva, zona localității Archia",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87/P20",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/527_1.pdf",
+     "sha256": "ed61b2f26d35f3e8568348abcac6752f43dc020b5df310f11b2bc4e695b17763"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-528-2025",
+   "path": "local/hunedoara/deva/2025/528",
+   "short": "HCL Deva nr. 528/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 528/2025 privind aprobarea documentației Plan Urbanistic Zonal \"Construire și dotare stație /. T.P",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87/P20",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/528_1.pdf",
+     "sha256": "c214c22103319384e2d305e575c8484ff374c00a55c316f0a775c610360dd7b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-535-2025",
+   "path": "local/hunedoara/deva/2025/535",
+   "short": "HCL Deva nr. 535/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 535/2025 privind aprobarea Regulamentului de reglementare a accesului cu animale de companie, animale de terapie și câini utilitari în sediul Primăriei municipiului Deva și ale instituțiilor publice de interes local subordonate Consiliului local al municipiului Deva",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/535_2.pdf",
+     "sha256": "99a7d8d9556fb92521439fe97db24a84ffb189ebfb245921b68e6a87565af3d6"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--deva-542-2025",
    "path": "local/hunedoara/deva/2025/542",
    "short": "HCL Deva nr. 542/2025",

@@ -1,0 +1,204 @@
+{
+"country": "RO",
+"shard": "local/judet/salaj/2010",
+"acts": [
+{
+"slug": "hcj-salaj-15-2010",
+"path": "local/judet/salaj/2010/15",
+"kind": "local",
+"year": "2010",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 15/2010 pentru completarea Hotararii Consiliului Judetean Salaj nr.148 din 30 noiembrie 2009 privind stabilirea taxelor si tarifelor de competenta Consiliului Judetean Salaj, pentru anul 2010",
+"short": "HCJ Sălaj nr. 15/2010",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2010-02-23",
+"latest": "2010-02-23",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-46-2010",
+"path": "local/judet/salaj/2010/46",
+"kind": "local",
+"year": "2010",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 46/2010 privind aprobarea Regulamentului de organizare si functionare al aparatului de specialitate al Consiliului Judetean Salaj, reactualizat",
+"short": "HCJ Sălaj nr. 46/2010",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2010-03-26",
+"latest": "2010-03-26",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-63-2010",
+"path": "local/judet/salaj/2010/63",
+"kind": "local",
+"year": "2010",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 63/2010 pentru completarea Hotararii Consiliului Judetean Salaj nr.148/2009 privind stabilirea taxelor si tarifelor de competenta Consiliului Judetean Salaj, pentru anul 2010",
+"short": "HCJ Sălaj nr. 63/2010",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2010-05-25",
+"latest": "2010-05-25",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-71-2010",
+"path": "local/judet/salaj/2010/71",
+"kind": "local",
+"year": "2010",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 71/2010 pentru modificarea Anexei nr.12 a Hotararii Consiliului Judetean Salaj nr.148/2009 privind stabilirea taxelor si tarifelor de competenta Consiliului Judetean Salaj, pentru anul 2010, cu completarile ulterioare",
+"short": "HCJ Sălaj nr. 71/2010",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2010-06-28",
+"latest": "2010-06-28",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-76-2010",
+"path": "local/judet/salaj/2010/76",
+"kind": "local",
+"year": "2010",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 76/2010 privind unele masuri referitoare la preluarea de catre",
+"short": "HCJ Sălaj nr. 76/2010",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2010-06-28",
+"latest": "2010-06-28",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-92-2010",
+"path": "local/judet/salaj/2010/92",
+"kind": "local",
+"year": "2010",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 92/2010 privind aprobarea unor taxe la Scoala Populara de Arte si Meserii Salaj pentru anul scolar 2010/2011",
+"short": "HCJ Sălaj nr. 92/2010",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2010-08-30",
+"latest": "2010-08-30",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-95-2010",
+"path": "local/judet/salaj/2010/95",
+"kind": "local",
+"year": "2010",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 95/2010 privind aprobarea regulamentului de organizare si functionare al aparatului de specialitate al Consiliului Judetean Salaj, reactualizat",
+"short": "HCJ Sălaj nr. 95/2010",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2010-08-30",
+"latest": "2010-08-30",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-133-2010",
+"path": "local/judet/salaj/2010/133",
+"kind": "local",
+"year": "2010",
+"number": "133",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 133/2010 privind aprobarea metodologiei de evaluare a activelor fixe corporale aflate in domeniul public al judetului, inregistrate in unitati naturale",
+"short": "HCJ Sălaj nr. 133/2010",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2010-11-26",
+"latest": "2010-11-26",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-138-2010",
+"path": "local/judet/salaj/2010/138",
+"kind": "local",
+"year": "2010",
+"number": "138",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 138/2010 privind stabilirea taxelor si tarifelor de competenta Consiliului Judetean Salaj pentru anul 2011",
+"short": "HCJ Sălaj nr. 138/2010",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2010-12-20",
+"latest": "2010-12-20",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

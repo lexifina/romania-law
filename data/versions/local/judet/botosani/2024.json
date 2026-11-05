@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/judet/botosani/2024",
+ "acts": [
+  {
+   "slug": "hcj-botosani-139-2024",
+   "path": "local/judet/botosani/2024/139",
+   "short": "HCJ Botoșani nr. 139/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 139/2024 privind aprobarea Regulamentului de organizare şi funcţionare a aparatului de specialitate al Consiliului Județean",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-07-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H139_20240726.pdf",
+     "sha256": "c8a100c92ded005f71f39a88b6c261aa632e90851a587fdb4dc97216bdff4050"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-147-2024",
+   "path": "local/judet/botosani/2024/147",
+   "short": "HCJ Botoșani nr. 147/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 147/2024 pentru modificarea Hotărârii Consiliului Județean Botoșani nr. 230 din 21.12.2023 privind aprobarea tarifelor pentru serviciile prestate de Memorialul Ipotești – Centrul Național de Studii „Mihai Eminescu”, pentru anul 2024",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/alte-documente/informari-proiecte-de-hotarari-cu-caracter-normativ/",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 3,
+     "source_url": "https://www.cjbotosani.ro/files/H147_20240828.pdf",
+     "sha256": "942a80dcab6be4461ec2409952c04f925fc6ff3e994176bcb475ab2d800a9638"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-78-2024",
+   "path": "local/judet/botosani/2024/78",
+   "short": "HCJ Botoșani nr. 78/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 78/2024 privind aprobarea taxelor școlare pentru elevii Școlii Populare de Arte „George Enescu” Botoșani, pe anul școlar 2024 - 2025",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 3,
+     "source_url": "https://www.cjbotosani.ro/files/H078_20240425.pdf",
+     "sha256": "78072dfe47c495a7ae84965e491462f6cd03bc533c4cd702c7de78f37f706a52"
+    }
+   ]
+  }
+ ]
+}

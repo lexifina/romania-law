@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/ialomita/fetesti/2024",
+"acts": [
+{
+"slug": "hcl-ialomita--fetesti-116-2024",
+"path": "local/ialomita/fetesti/2024/116",
+"kind": "local",
+"year": "2024",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 116/2024 privind acordarea unor facilități fiscale în conformitate cu prevederile Ordonanței de Urgență nr.107/04.09.2024 și aprobarea Procedurii de acordare a unor facilități fiscale privind anularea accesoriilor în cazul obligațiilor bugetare restante la 31.08.2024 inclusiv constând în creanțe de natură fiscală datorate bugetului local al Municipiului Fetești",
+"short": "HCL Fetești nr. 116/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-10-04",
+"latest": "2024-10-04",
+"portal": "https://emol.ro/fetesti-il/registru-hcl/170690",
+"council": "ialomita/fetesti",
+"council_name": "Consiliul Local al Municipiului Fetești",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

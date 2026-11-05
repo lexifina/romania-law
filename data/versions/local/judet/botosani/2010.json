@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/judet/botosani/2010",
+ "acts": [
+  {
+   "slug": "hcj-botosani-106-2010",
+   "path": "local/judet/botosani/2010/106",
+   "short": "HCJ Botoșani nr. 106/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 106/2010 privind aprobarea taxelor de frecventa pentru elevii Scolii Populare de Arte si Meserii Botosani pentru anul scolar 2008-2009",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-03-08",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h106_30.09.2008.pdf",
+     "sha256": "950ce7416ad3ea9b50d0c27171f086061240bf79558418817ad8f10f7e81e248"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-170-2010",
+   "path": "local/judet/botosani/2010/170",
+   "short": "HCJ Botoșani nr. 170/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 170/2010 privind unele masuri pentru protectia ariilor naturale protejate de interes judetean, a parcurilor dendrologice, a arborilor monumente ale naturii, a florei si faunei salbatice",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-12-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h170_22.12.2010.pdf",
+     "sha256": "0d590f6f0aa45d7dcfb4e453a388fb08b3433bf887b7c8314b7b14d397806efd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-2-2010",
+   "path": "local/judet/botosani/2010/2",
+   "short": "HCJ Botoșani nr. 2/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 2/2010 privind aprobarea preturilor medii ale produselor agricole pentru anul 2010",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-02-03",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h002_28.01.2010.pdf",
+     "sha256": "5ea6dfa086b42da06b109f115ce55976757219234c7c97f644bf80592afe60ec"
+    }
+   ]
+  }
+ ]
+}

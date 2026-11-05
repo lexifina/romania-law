@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/judet/botosani/2002",
+"acts": [
+{
+"slug": "hcj-botosani-2-2002",
+"path": "local/judet/botosani/2002/2",
+"kind": "local",
+"year": "2002",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 2/2002 privind aprobarea preturilor medii ale produselor agricole pentru anul 2011",
+"short": "HCJ Botoșani nr. 2/2002",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2002-03-11",
+"latest": "2002-03-11",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-12-2002",
+"path": "local/judet/botosani/2002/12",
+"kind": "local",
+"year": "2002",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 12/2002 privind însuşirea Planului Strategic al Autorităţii Teritoriale de Ordine Publică Botoşani pe anul 2016",
+"short": "HCJ Botoșani nr. 12/2002",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2002-02-16",
+"latest": "2002-02-16",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

@@ -1,0 +1,183 @@
+{
+"country": "RO",
+"shard": "local/brasov/fagaras/2016",
+"acts": [
+{
+"slug": "hcl-brasov--fagaras-23-2016",
+"path": "local/brasov/fagaras/2016/23",
+"kind": "local",
+"year": "2016",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 23/2016 privind modificarea si completarea anexei 1 la HCL nr. 9/2016 privind aprobarea Regulamentului privind regimul finanţărilor nerambursabile din fondurile bugetului local al Municipiului Fagaras, alocate pentru ac",
+"short": "HCL Făgăraș nr. 23/2016",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2016-07-21",
+"latest": "2016-07-21",
+"portal": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1123",
+"council": "brasov/fagaras",
+"council_name": "Consiliul Local al Municipiului Făgăraș",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-brasov--fagaras-32-2016",
+"path": "local/brasov/fagaras/2016/32",
+"kind": "local",
+"year": "2016",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 32/2016 privind aprobarea procedurii de publicare listelor debitorilor care înregistrează obligaţii fiscale restante, precum şi cuantumul acestor obligaţii",
+"short": "HCL Făgăraș nr. 32/2016",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2016-07-21",
+"latest": "2016-07-21",
+"portal": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1132",
+"council": "brasov/fagaras",
+"council_name": "Consiliul Local al Municipiului Făgăraș",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-brasov--fagaras-46-2016",
+"path": "local/brasov/fagaras/2016/46",
+"kind": "local",
+"year": "2016",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 46/2016 privind completarea anexei 2, pct.3 din HCL nr.200/2015 privind stabilirea impozitelor şi taxelor locale pentru anul 2016",
+"short": "HCL Făgăraș nr. 46/2016",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2016-07-21",
+"latest": "2016-07-21",
+"portal": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1146",
+"council": "brasov/fagaras",
+"council_name": "Consiliul Local al Municipiului Făgăraș",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-brasov--fagaras-48-2016",
+"path": "local/brasov/fagaras/2016/48",
+"kind": "local",
+"year": "2016",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 48/2016 privind aprobarea Planului Urbanistic Zonal- zona centrală a Municipiului Făgăraş situată în Zona Construit Protejată",
+"short": "HCL Făgăraș nr. 48/2016",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2016-08-30",
+"latest": "2016-08-30",
+"portal": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1148",
+"council": "brasov/fagaras",
+"council_name": "Consiliul Local al Municipiului Făgăraș",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-brasov--fagaras-53-2016",
+"path": "local/brasov/fagaras/2016/53",
+"kind": "local",
+"year": "2016",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 53/2016",
+"short": "HCL Făgăraș nr. 53/2016",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2016-08-30",
+"latest": "2016-08-30",
+"portal": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1153",
+"council": "brasov/fagaras",
+"council_name": "Consiliul Local al Municipiului Făgăraș",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-brasov--fagaras-54-2016",
+"path": "local/brasov/fagaras/2016/54",
+"kind": "local",
+"year": "2016",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 54/2016 privind aprobarea metodologiei de aplicare a H.G.nr.333/2003, a Legii nr.650/2002 de aprobare a O.G.nr.99/2000 cu referire la comercializarea produselor şi serviciilor de piaţă",
+"short": "HCL Făgăraș nr. 54/2016",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2016-08-30",
+"latest": "2016-08-30",
+"portal": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1154",
+"council": "brasov/fagaras",
+"council_name": "Consiliul Local al Municipiului Făgăraș",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-brasov--fagaras-57-2016",
+"path": "local/brasov/fagaras/2016/57",
+"kind": "local",
+"year": "2016",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 57/2016 privind acordarea unui mandat special în vederea exercitării votului favorabil privind aprobarea preţurilor la apă potabilă produsă, transportată şi distribuită în localităţile Răşinari şi Păuca, şi tarifele la",
+"short": "HCL Făgăraș nr. 57/2016",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2016-08-30",
+"latest": "2016-08-30",
+"portal": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1157",
+"council": "brasov/fagaras",
+"council_name": "Consiliul Local al Municipiului Făgăraș",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-brasov--fagaras-68-2016",
+"path": "local/brasov/fagaras/2016/68",
+"kind": "local",
+"year": "2016",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 68/2016 privind stabilirea taxei de ocupare domeniu public sau privat pentru vânzarea de produse sau prestarea de servicii în pieţe tip talcioc",
+"short": "HCL Făgăraș nr. 68/2016",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2016-09-02",
+"latest": "2016-09-02",
+"portal": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1168",
+"council": "brasov/fagaras",
+"council_name": "Consiliul Local al Municipiului Făgăraș",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

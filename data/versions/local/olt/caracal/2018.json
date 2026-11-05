@@ -153,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-olt--caracal-73-2018",
+   "path": "local/olt/caracal/2018/73",
+   "short": "HCL Caracal nr. 73/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 73/2018 privind stabilirea unor masuri pentru gospodarirea municipiului Caracal, precum si stabilirea, constatarea si sanctionarea faptelor ce constituie contraventii",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2013/",
+   "versions": [
+    {
+     "from": "2018-06-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2018/HCLnr.73din29.06.2018.pdf",
+     "sha256": "94591951200a10655f3cf5c0354df57f123a072b66d696a4847e4ae5c6812ee2"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--caracal-89-2018",
    "path": "local/olt/caracal/2018/89",
    "short": "HCL Caracal nr. 89/2018",

@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/judet/olt/2021",
+ "acts": [
+  {
+   "slug": "hcj-olt-129-2021",
+   "path": "local/judet/olt/2021/129",
+   "short": "HCJ Olt nr. 129/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 129/2021 cu privire la aprobarea taxelor școlare pentru activitățile prestate de Secția Arte șiMeșteșuguri din cadrul Centrului Județean de Cultură și Artă Olt, pentru anul școlar 2021-2022 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-09-14",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14436.pdf",
+     "sha256": "a018d45b2b80867ec7c5ea34b3e7fad143c43d5baee882ba6cfa2fb93c8a6491"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-186-2021",
+   "path": "local/judet/olt/2021/186",
+   "short": "HCJ Olt nr. 186/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 186/2021 pentru spațiile din fondul locativ cu altă destinație decât cea de locuință, aflate în domeniul public sau privat al județului, precum și cu privire la stabilirea tarifului de închiriere a sălii de conferințe a Consiliului Județean Olt, pentru anul 2022 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14953.pdf",
+     "sha256": "1604f82034514fd0926e0bfcdf96288522c3267b5214c1508aa88a6383572fa3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-40-2021",
+   "path": "local/judet/olt/2021/40",
+   "short": "HCJ Olt nr. 40/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 40/2021 pentru Studii Economico - Sociale, Buget - Finanțe, Integrare Europeană, Administrarea Domeniului Public și Privat al Județului; - prevederile Capitolului V art. 5.16 din Normele metodologice privind încheierea exercițiului bugetar al anului 2020, aprobate prin Ordinul ministrului finanțelor publice nr. 3155/2020, cu modificările și completările ulterioare; - prevederile art. 58 alin. (1) lit. a)",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-03-08",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/13205.pdf",
+     "sha256": "be1c10fa3f44497ebd34d52c86c0870feccacf78088acb72c4da6327abb4a4df"
+    }
+   ]
+  }
+ ]
+}

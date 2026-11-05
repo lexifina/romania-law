@@ -1,0 +1,73 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/brad/2022",
+"acts": [
+{
+"slug": "hcl-hunedoara--brad-42-2022",
+"path": "local/hunedoara/brad/2022/42",
+"kind": "local",
+"year": "2022",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Brad nr. 42/2022",
+"short": "HCL Brad nr. 42/2022",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2022-05-24",
+"latest": "2022-05-24",
+"portal": "https://emol.ro/brad-hd/registru-hcl/55768",
+"council": "hunedoara/brad",
+"council_name": "Consiliul Local al Municipiului Brad",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-hunedoara--brad-43-2022",
+"path": "local/hunedoara/brad/2022/43",
+"kind": "local",
+"year": "2022",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Brad nr. 43/2022 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2022 pentru[LineBreak] fondul forestier, proprietatea publică a Municipiului Brad",
+"short": "HCL Brad nr. 43/2022",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2022-05-24",
+"latest": "2022-05-24",
+"portal": "https://emol.ro/brad-hd/registru-hcl/55769",
+"council": "hunedoara/brad",
+"council_name": "Consiliul Local al Municipiului Brad",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-hunedoara--brad-100-2022",
+"path": "local/hunedoara/brad/2022/100",
+"kind": "local",
+"year": "2022",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Brad nr. 100/2022 pentru modificarea Hotărârii Consiliului Local nr. 55/2008 privind aprobarea unor reglementări referitoare la funcționarea Serviciului de taximetrie în municipiul Brad",
+"short": "HCL Brad nr. 100/2022",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/brad-hd/registru-hcl/67226",
+"council": "hunedoara/brad",
+"council_name": "Consiliul Local al Municipiului Brad",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

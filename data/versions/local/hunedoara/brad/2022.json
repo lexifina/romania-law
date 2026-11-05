@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/brad/2022",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--brad-100-2022",
+   "path": "local/hunedoara/brad/2022/100",
+   "short": "HCL Brad nr. 100/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 100/2022 pentru modificarea Hotărârii Consiliului Local nr. 55/2008 privind aprobarea unor reglementări referitoare la funcționarea Serviciului de taximetrie în municipiul Brad",
+   "url": "https://emol.ro/brad-hd/registru-hcl/67226",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/14734/memoriu%20justificativ.pdf",
+     "sha256": "dcbf9acea54acf6f057891f001603ba7394b21eacc45a345301a1061ddea9b8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--brad-42-2022",
+   "path": "local/hunedoara/brad/2022/42",
+   "short": "HCL Brad nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 42/2022",
+   "url": "https://emol.ro/brad-hd/registru-hcl/55768",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/4111/BUGET.pdf",
+     "sha256": "0dd04a4f983fa8427bf9fc63781d972401b0f2b06eb62713318b5f3c35fc4c0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--brad-43-2022",
+   "path": "local/hunedoara/brad/2022/43",
+   "short": "HCL Brad nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 43/2022 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2022 pentru[LineBreak] fondul forestier, proprietatea publică a Municipiului Brad",
+   "url": "https://emol.ro/brad-hd/registru-hcl/55769",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/4112/Anexa%20Buget%20Ocolul%20Silvic%20Brad.pdf",
+     "sha256": "0cc71ffc404d80026b0a5fd401101785d47b767a83c9cc2d5316cf6ec1f96789"
+    }
+   ]
+  }
+ ]
+}

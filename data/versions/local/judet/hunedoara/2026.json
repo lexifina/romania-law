@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "hcj-hunedoara-165-2026",
+   "path": "local/judet/hunedoara/2026/165",
+   "short": "HCJ Hunedoara nr. 165/2026",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 165/2026 privind Modificarea și completarea Anexei 3 la Hotărârea Consiliului Județean Hunedoara nr.310/2025 privind aprobarea nivelului taxelor şi tarifelor precum şi altor taxe asimilate acestora, din competenţa Consiliului Judeţean Hunedoara, aplicabile în anul fiscal 2026, cu modificările și completările ulterioare - publicat la data de 15.09.2026",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/916-hotarari-2026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2026/Hotarari/HOTARARI%2028%20AUGUST%202026/HCJH%20165.pdf",
+     "sha256": "527e60bf776030ace59fc8e69ad17b40cfe1c2cf30072213c97552e8725972ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-166-2026",
+   "path": "local/judet/hunedoara/2026/166",
+   "short": "HCJ Hunedoara nr. 166/2026",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 166/2026 privind Aprobarea Regulamentului-cadru privind închirierea fără licitație publică a unor spații cu o suprafață utilă de maximum 10 mp, aflate în domeniul public al județului Hunedoara - publicat la data de 15.09.2026",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/916-hotarari-2026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2026/Hotarari/HOTARARI%2028%20AUGUST%202026/HCJH%20166.pdf",
+     "sha256": "f5fc1d1136962b1cbc2148dc79ada02b912c6060d04d6ce503e6c94182eff10b"
+    }
+   ]
+  },
+  {
    "slug": "hcj-hunedoara-2-2026",
    "path": "local/judet/hunedoara/2026/2",
    "short": "HCJ Hunedoara nr. 2/2026",
@@ -59,6 +89,21 @@
      "units": 1,
      "source_url": "https://www.cjhunedoara.ro/documente/2026/Hotarari/HOTARARI%2030%20IANUARIE%202026/HCJH%204.pdf",
      "sha256": "2729cb49b0809a5bb6a98d409f5aa69d248b8793436b647ce40ea111867635d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-47-2026",
+   "path": "local/judet/hunedoara/2026/47",
+   "short": "HCJ Hunedoara nr. 47/2026",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 47/2026 privind Aprobarea completării Regulamentelor privind cofinanţarea furnizorilor privaţi acreditaţi de servicii sociale în domeniul protecţiei copilului şi în domeniul protecţiei persoanei adulte cu handicap sau persoanei vârstnice din cuprinsul Hotărârii Consiliului Județean Hunedoara nr.55/2017, cu modificările și completările ulterioare - publicat la data de 07.05.2026",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/916-hotarari-2026",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2026/Hotarari/HOTARARI%2029%20APRILIE%202026/HCJH%2047.pdf",
+     "sha256": "1db2e50db3128ee994f9625f5247595036b3f320126e865128362a997e037978"
     }
    ]
   },

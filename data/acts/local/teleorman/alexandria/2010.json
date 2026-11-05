@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/teleorman/alexandria/2010",
+"acts": [
+{
+"slug": "hcl-teleorman--alexandria-2-2010",
+"path": "local/teleorman/alexandria/2010/2",
+"kind": "local",
+"year": "2010",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 2/2010 privind aprobarea taxelor si tarifelor practicate in piete, targuri, oboare si alte locuri publice din municipiul Alexandria",
+"short": "HCL Alexandria nr. 2/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-01-28",
+"latest": "2010-01-28",
+"portal": "https://alexandria.ro/priveste-modificarea-si-completarea-hcl-nr-24-26-02-2009-privind-aprobarea-taxelor-si-tarifelor-practicate-in-piete-targuri-oboare-si-alte-locuri-publice-din-municipiul-alexandria/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-teleorman--alexandria-167-2010",
+"path": "local/teleorman/alexandria/2010/167",
+"kind": "local",
+"year": "2010",
+"number": "167",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 167/2010 privind normele de tehnică legislativă pentru elaborarea actelor normative, republicată; - prevederile Legii 325/2006 a serviciilor publice de alimentare cu energie termică; - prevederile art. 36, alin. (2), lit “d” si ale (alin 6), lit.”a”, pct. 14 din Legea nr. 215 din 23 aprilie 2001 a administrației publice locale, republicată, cu modificările și completările ulterioare; În temeiul prevederilo",
+"short": "HCL Alexandria nr. 167/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-07-30",
+"latest": "2010-07-30",
+"portal": "https://alexandria.ro/priveste-modificarea-regulamentului-serviciului-public-de-alimentare-cu-energie-termica-in-municipiul-alexandria-aprobat-prin-hotararea-consiliului-local-al-municipiului-alexandria-nr-69-din-31-mart/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

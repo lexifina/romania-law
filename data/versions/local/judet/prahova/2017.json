@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/judet/prahova/2017",
+ "acts": [
+  {
+   "slug": "hcj-prahova-125-2017",
+   "path": "local/judet/prahova/2017/125",
+   "short": "HCJ Prahova nr. 125/2017",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 125/2017 privind modificarea Regulamentului de organizare șifuncționare a Consiliului județean Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2017/?dpage=4",
+   "versions": [
+    {
+     "from": "2017-07-25",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-125-din-data-25-07-2017.pdf",
+     "sha256": "b953fa8b3deda09cace92272f16206c0bad0dba05438d4d79010fc144eac5064"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-190-2017",
+   "path": "local/judet/prahova/2017/190",
+   "short": "HCJ Prahova nr. 190/2017",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 190/2017 privind modificarea și completarea Hotărârii Consiliului Județean Prahova nr. 92/31.05.2017, referitoare la aprobarea taxelor instituțiilor de cultură aflate în subordinea Consiliului Județean Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2017/?dpage=2",
+   "versions": [
+    {
+     "from": "2017-10-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.190-din-data-30-10-2017.pdf",
+     "sha256": "35883f43911520e3278853eb9e21cf378a352f1a74cc05f280b13a4a6cc77b31"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-212-2017",
+   "path": "local/judet/prahova/2017/212",
+   "short": "HCJ Prahova nr. 212/2017",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 212/2017 privind stabilirea taxelor în domeniul construcţiilor, aplicabile în anul fiscal 2018",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-12-18",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.212-din-data-18-12-2017.pdf",
+     "sha256": "34ed86ccf1b396409b7795514f77653a2a44db64ddd805dfcf91ff6c0672e2ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-82-2017",
+   "path": "local/judet/prahova/2017/82",
+   "short": "HCJ Prahova nr. 82/2017",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 82/2017 privind plata cotizatiei pe anul 2017 catre Asociatia Nationala a Autoritatilor Teritoriale de Ordine Publica din Romania",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2017/?dpage=5",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-082-din-data-2017-05-31.pdf",
+     "sha256": "7dd33c79d7d8662ee866e7b7917db14ef6a1552eb309fe3866cd83fb9f34b815"
+    }
+   ]
+  }
+ ]
+}

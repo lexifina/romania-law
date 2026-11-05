@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/judet/dolj/2015",
+ "acts": [
+  {
+   "slug": "hcj-dolj-10-2015",
+   "path": "local/judet/dolj/2015/10",
+   "short": "HCJ Dolj nr. 10/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 10/2015",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-02-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%2010.pdf",
+     "sha256": "c1e932a81d2d40f5718fb6bb131ca5a8034d2c25ad536a68180f9c58729d132a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-153-2015",
+   "path": "local/judet/dolj/2015/153",
+   "short": "HCJ Dolj nr. 153/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 153/2015 pentru a vota in adunarea generala a asociatiei preturile si tarifele unice pentru serviciile de alimentare cu apa si de canalizare, aplicate de catre S.C",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-07-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20153.pdf",
+     "sha256": "cab885997fcee94b47e226338a042f03d659462d631c0fdb3c46147cf3432431"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/arges/campulung/2010",
+ "acts": [
+  {
+   "slug": "hcl-arges--campulung-119-2010",
+   "path": "local/arges/campulung/2010/119",
+   "short": "HCL Câmpulung nr. 119/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 119/2010 privind acordarea de facilităţi fiscale la plata impozitului pe clădiri şi a impozitului pe terenul aferent pentru semestrul II - 2010 Hotărâre privind acordarea de facilităţi fiscale la plata impozitului pe clădiri şi a impozitului pe terenul aferent pentru semestrul II - 2010",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-09-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%20119%20din%2030.09.2010.pdf",
+     "sha256": "5c90ae453b5598f451e9d959e435d95f6d409b7cfa15b81015e7f4142fb8889b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-36-2010",
+   "path": "local/arges/campulung/2010/36",
+   "short": "HCL Câmpulung nr. 36/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 36/2010 privind acordarea de facilităţi fiscale la plata impozitului pe clădiri şi a impozitului pe terenul aferent pentru semestrul I 2010 Hotărâre privind acordarea de facilităţi fiscale la plata impozitului pe clădiri şi a impozitului pe terenul aferent pentru semestrul I 2010",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2036%20din%2031.03.2010.pdf",
+     "sha256": "01c20a6cbff9125864a88b7ac98243c05c16e14d1db434c24f5e1e286a5d595e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-45-2010",
+   "path": "local/arges/campulung/2010/45",
+   "short": "HCL Câmpulung nr. 45/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 45/2010 privind organizarea păşunatului şi stabilirea taxei de păşunat pe izlazurile proprietatea Municipiului Câmpulung Hotărâre privind organizarea păşunatului şi stabilirea taxei de păşunat pe izlazurile proprietatea Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2045%20din%2031.03.2010.pdf",
+     "sha256": "58c5f9a6407ebb254cbe468dcc9b312a8f76570778a53c0b80a09c41aaafd649"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-67-2010",
+   "path": "local/arges/campulung/2010/67",
+   "short": "HCL Câmpulung nr. 67/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 67/2010 privind Regulamentul de acordare a burselor sociale şi de performanţă Hotărâre privind Regulamentul de acordare a burselor sociale şi de performanţă",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2010/HCL%20nr.%2067%20din%2027.05.2010.pdf",
+     "sha256": "7b9332a353eea158426e39f4a7ba453491bc339bacfef10ad9079e2f99ff5c69"
+    }
+   ]
+  }
+ ]
+}

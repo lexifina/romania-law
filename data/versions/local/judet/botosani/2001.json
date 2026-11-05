@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "local/judet/botosani/2001",
+ "acts": [
+  {
+   "slug": "hcj-botosani-167-2001",
+   "path": "local/judet/botosani/2001/167",
+   "short": "HCJ Botoșani nr. 167/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 167/2001 privind privind însuşirea Planului Strategic al Autorităţii Teritoriale de Ordine Publică Botoşani pe anul 2013",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2001-08-12",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h167_20.12.2012.pdf",
+     "sha256": "69bf2c642807ff27015debeeb7eb89b152acbf089db50ba2e9a82bfa57b64dc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-168-2001",
+   "path": "local/judet/botosani/2001/168",
+   "short": "HCJ Botoșani nr. 168/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 168/2001 privind aprobarea preţurilor medii ale produselor agricole pentru anul 2014",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2001-06-13",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h168_20.12.2013.pdf",
+     "sha256": "e3b861433efbcabfc41ed8bef5f42ffebd31457a28c14d7b9aecd8782db953d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-170-2001",
+   "path": "local/judet/botosani/2001/170",
+   "short": "HCJ Botoșani nr. 170/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 170/2001 privind aprobarea tarifelor practicate de Orchestra Populară „Rapsozii Botoşanilor”, pentru serviciile prestate în anul 2013",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2001-08-12",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h170_20.12.2012.pdf",
+     "sha256": "bac88827f4ee702e788e056091ac206b57f9283c2c499555b6b015fc8f6f72ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-171-2001",
+   "path": "local/judet/botosani/2001/171",
+   "short": "HCJ Botoșani nr. 171/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 171/2001 privind aprobarea tarifelor practicate de Muzeul Judeţean Botoşani, pentru serviciile prestate în anul 2013",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2001-08-12",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h171_20.12.2012.pdf",
+     "sha256": "ef8f3ab6c8766c6a72d7b27bf44169dbf8870a6eb747e39b13ab1109930efa77"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-172-2001",
+   "path": "local/judet/botosani/2001/172",
+   "short": "HCJ Botoșani nr. 172/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 172/2001 privind stabilirea tarifelor pentru serviciile prestate de Centrul Judeţean pentru Conservarea şi Promovarea Culturii Tradiţionale Botoşani, pentru anul 2013",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2001-08-12",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h172_20.12.2012.pdf",
+     "sha256": "c9929201388f08396515fe746814e05052076ba8c7081582ee484f74e2049077"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-175-2001",
+   "path": "local/judet/botosani/2001/175",
+   "short": "HCJ Botoșani nr. 175/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 175/2001 privind aprobarea tarifelor pentru serviciile prestate de Camera Agricolă Judeţeană Botoşani, pentru anul 2013",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2001-08-12",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h175_20.12.2012.pdf",
+     "sha256": "e9d3d7c6c8cac6fea485a8edde91cdaf237530953dcf2b40ce826eb8f019f213"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-176-2001",
+   "path": "local/judet/botosani/2001/176",
+   "short": "HCJ Botoșani nr. 176/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 176/2001 privind aprobarea tarifelor pentru eliberarea licenţelor de traseu în vederea efectuării transportului public judeţean de persoane prin curse regulate speciale, pentru anul 2013",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2001-08-12",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h176_20.12.2012.pdf",
+     "sha256": "675c1881431e6e7f79d8f4556d89bc36ff31e2ba3fc8bb94f591bc1adc91057b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-52-2001",
+   "path": "local/judet/botosani/2001/52",
+   "short": "HCJ Botoșani nr. 52/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 52/2001 privind stabilirea tarifelor pentru desfasurarea activitatii Centrului Judetean pentru Conservarea si Promovarea Culturii Traditionale Botosani, in anul 2005",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2001-03-04",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h052_2004.12.23.pdf",
+     "sha256": "ce2be56b1cea41db56bfa01b60f42f6d0a02a2629b87a6be2a60dffadf6f96d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-53-2001",
+   "path": "local/judet/botosani/2001/53",
+   "short": "HCJ Botoșani nr. 53/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 53/2001 privind aprobarea taxelor si tarifelor practicate de Muzeul Judetean Botosani, pentru serviciile prestate in anul 2005",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2001-03-04",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h053_2004.12.23.pdf",
+     "sha256": "a737271d714ddaa47acfca48d41315b7034453ddd4e101e18b6b564263dfb18b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-54-2001",
+   "path": "local/judet/botosani/2001/54",
+   "short": "HCJ Botoșani nr. 54/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 54/2001 privind aprobarea unor tarife pentru drumurile publice administrate de catre Directia Judeteana de Drumuri si Poduri Botosani, pentru anul 2005",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2001-03-04",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h054_2004.12.23.pdf",
+     "sha256": "84c09482a1e133af9358fcada4e524c2ec0d8642a94f5ef0b74f9965f88e4367"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-55-2001",
+   "path": "local/judet/botosani/2001/55",
+   "short": "HCJ Botoșani nr. 55/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 55/2001 privind aprobarea de taxe si tarife pentru serviciile prestate de Memorialul Ipotesti - Centrul National de Studii \"Mihai Eminescu\" pentru anul 2005",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2001-03-04",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h055_2004.12.23.pdf",
+     "sha256": "f46f027c4640b83e7cda4d2cd8e1b3247c4de137ba7424da78cfef65f1dd036e"
+    }
+   ]
+  }
+ ]
+}

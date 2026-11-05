@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "local/judet/botosani/2009",
+ "acts": [
+  {
+   "slug": "hcj-botosani-13-2009",
+   "path": "local/judet/botosani/2009/13",
+   "short": "HCJ Botoșani nr. 13/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 13/2009 privind aprobarea ajustarii preturilor/tarifelor pentru serviciul de alimentare cu apa potabila si a tarifelor pentru serviciul de canalizare-epurare, cu indicele preturilor de consum 104,56 % aferent perioadei august-decembrie 2007, incepand cu data de 01 februarie 2009",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-02-01",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h013_27.01.2009.pdf",
+     "sha256": "a9202683d2d1ad94243341629cd63357533a70ea412018eb8597d59ae0c86bf9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-146-2009",
+   "path": "local/judet/botosani/2009/146",
+   "short": "HCJ Botoșani nr. 146/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 146/2009 privind modificarea si completarea Regulamentului de organizare si functionare al Serviciului Public Comunitar de Evidenta a Persoanelor al Judetului Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-08-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h146_26.08.2009.pdf",
+     "sha256": "a1b4358363e581862b963d5fbdaa72b5c7b35ebc1b7e3a234027b86d6a3e0027"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-225-2009",
+   "path": "local/judet/botosani/2009/225",
+   "short": "HCJ Botoșani nr. 225/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 225/2009 privind aprobarea tarifelor pentru prestarea serviciilor de productie editoriala, tipografica si de difuzare a Monitorului Oficial al Judetului Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-12-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h225_22.12.2009.pdf",
+     "sha256": "158743d393a137d9500a3efaca06885914dd24688f2d86578689839a22afce4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-39-2009",
+   "path": "local/judet/botosani/2009/39",
+   "short": "HCJ Botoșani nr. 39/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 39/2009 privind aprobarea Regulamentului de organizare si functionare a aparatului de specialitate al Consiliului Judetean Botosani si a Serviciului Public Comunitar de Evidenta a Persoanelor al Judetului Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-03-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h039_25.03.2009.pdf",
+     "sha256": "81e1022f830b03e8054f73742d8f2abf08b94a004860b90d0d9fb7799d2fecec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-74-2009",
+   "path": "local/judet/botosani/2009/74",
+   "short": "HCJ Botoșani nr. 74/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 74/2009 privind aprobarea Programului anual pentru acordarea de finantari nerambursabile pe anul 2009 si a Regulamentului privind regimul finantarilor nerambursabile alocate din fonduri ale bugetului Judetului Botosani pentru activitati nonprofit de interes judetean",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-04-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h074_29.04.2009.pdf",
+     "sha256": "b67c05a485afea2b09d622e0352180d850d4dd6c760480ce8e56dac2ab1273a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-79-2009",
+   "path": "local/judet/botosani/2009/79",
+   "short": "HCJ Botoșani nr. 79/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 79/2009 privind aprobarea tarifelor pentru serviciile prestate de Memorialul Ipoteşti - Centrul Naţional de Studii \"Mihai Eminescu\" pentru anul 2007",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-04-06",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h079_2006.08.30.pdf",
+     "sha256": "71c5c5aef33b1e85feec1cbacf83125adc24f0894fc979e9dd74becb94052e58"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-80-2009",
+   "path": "local/judet/botosani/2009/80",
+   "short": "HCJ Botoșani nr. 80/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 80/2009 privind aprobarea taxelor de frecvenţă pentru elevii Şcolii Populare de Arte şi Meserii Botoşani pentru anul şcolar 2006 - 2007",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-04-06",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h080_2006.08.30.pdf",
+     "sha256": "b560778ea355b7688ed13d7f43a1b31aa1d6dd4232426ba4775bfae344fa603e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-82-2009",
+   "path": "local/judet/botosani/2009/82",
+   "short": "HCJ Botoșani nr. 82/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 82/2009 privind stabilirea tarifelor pentru desfăşurarea activităţii Centrului Judeţean pentru Conservarea şi Promovarea Culturii Tradiţionale Botoşani, în anul 2007",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-04-06",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h082_2006.08.30.pdf",
+     "sha256": "660060c18033a3a9dd3a98fcf68baced19a97e402bc1b00656dd9965c880373e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-83-2009",
+   "path": "local/judet/botosani/2009/83",
+   "short": "HCJ Botoșani nr. 83/2009",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 83/2009 privind aprobarea tarifelor practicate de Muzeul Judeţean Botoşani, pentru serviciile prestate în anul 2007",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2009-04-06",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h083_2006.08.30.pdf",
+     "sha256": "4fbc61480980fb6d643790b11e7607f8dce103e00cf0c5cd7a77518df61887f9"
+    }
+   ]
+  }
+ ]
+}

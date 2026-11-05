@@ -3,6 +3,36 @@
  "shard": "local/judet/botosani/2020",
  "acts": [
   {
+   "slug": "hcj-botosani-146-2020",
+   "path": "local/judet/botosani/2020/146",
+   "short": "HCJ Botoșani nr. 146/2020",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 146/2020 privind aprobarea tarifelor pentru serviciile prestate de Școala Populară de Arte „George Enescu” Botoșani pentru anul 2021",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H146_20201217.pdf",
+     "sha256": "49841ceb22f11aa16f40af70709b6e18173b46e8b7884620b5d04a7245b23df8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-147-2020",
+   "path": "local/judet/botosani/2020/147",
+   "short": "HCJ Botoșani nr. 147/2020",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 147/2020 privind aprobarea preţurilor medii ale produselor agricole pentru anul 2021",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H147_20201217.pdf",
+     "sha256": "fbafc007875a76d3e576223f455aec8a7b15d4338cb578a57afba9f0820d0b2f"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-41-2020",
    "path": "local/judet/botosani/2020/41",
    "short": "HCJ Botoșani nr. 41/2020",

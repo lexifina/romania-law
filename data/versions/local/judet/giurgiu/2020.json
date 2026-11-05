@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/judet/giurgiu/2020",
+ "acts": [
+  {
+   "slug": "hcj-giurgiu-111-2020",
+   "path": "local/judet/giurgiu/2020/111",
+   "short": "HCJ Giurgiu nr. 111/2020",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 111/2020 privind aprobarea votului electronic în cadrul comisiilor de specialitate și ședințelor de consiliu județean în perioada de stare de urgență sau stare de alertă",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2020/",
+   "versions": [
+    {
+     "from": "2020-10-29",
+     "units": 7,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/07/hotararea-nr.111-din-29.10.2020.pdf",
+     "sha256": "d8b0e69b27c86d16a6c525ba0f16789f26cfb07495024ad628cae693a0a9a5cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-115-2020",
+   "path": "local/judet/giurgiu/2020/115",
+   "short": "HCJ Giurgiu nr. 115/2020",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 115/2020 privind aprobarea revocării Hotărârii nr.104 din 22 septembrie 2020 și a Hotărârii nr.105 din 22 septembrie 2020",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2020/",
+   "versions": [
+    {
+     "from": "2020-11-06",
+     "units": 4,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/07/hotararea-nr.115-din-06.11.2020.pdf",
+     "sha256": "87a5fbfe139e0e4c6153b3671c6d24a452c1ded4aed0195739aef4f80f3593fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-117-2020",
+   "path": "local/judet/giurgiu/2020/117",
+   "short": "HCJ Giurgiu nr. 117/2020",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 117/2020 privind achiziția de servicii juridice de asistență și reprezentare de către Centrul Județean pentru Conservarea și Promovarea Culturii Tradiționale Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2020/",
+   "versions": [
+    {
+     "from": "2020-11-06",
+     "units": 3,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/07/hotararea-nr.117-din-06.11.2020.pdf",
+     "sha256": "6fa8b684dd1e0ef97ee8024ad329a2b4b89b4e9f05d69e0660be79f98d80dce1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-118-2020",
+   "path": "local/judet/giurgiu/2020/118",
+   "short": "HCJ Giurgiu nr. 118/2020",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 118/2020 privind achiziția de servicii juridice de asistență și reprezentare",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2020/",
+   "versions": [
+    {
+     "from": "2020-11-06",
+     "units": 4,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/07/hotararea-nr.118-din-06.11.2020.pdf",
+     "sha256": "39e1660f35c7bda1f3acc35f4cd31b69c8ce26461f3823744387a338166bc3d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-132-2020",
+   "path": "local/judet/giurgiu/2020/132",
+   "short": "HCJ Giurgiu nr. 132/2020",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 132/2020 privind aprobarea Protocolului de colaborare între Județul Giurgiu, Direcția Județeană de Transport, Administrarea Drumurilor Județene și Control Trafic Giurgiu și Municipiul Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2020/",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 4,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/07/hotararea-nr.132-din-20.11.2020.pdf",
+     "sha256": "56bf6e92a6c0224d37da6c616501ab2c8afa84d1086f3c43babf46dfc55011c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-138-2020",
+   "path": "local/judet/giurgiu/2020/138",
+   "short": "HCJ Giurgiu nr. 138/2020",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 138/2020 privind încetarea aplicabilității Hotărârilor nr.134 din 18 noiembrie 2016, nr.101 din 29 august 2018 și nr.102 din 29 august 2018",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2020/",
+   "versions": [
+    {
+     "from": "2020-12-03",
+     "units": 3,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/07/hotararea-nr.138-din-03.12.2020.pdf",
+     "sha256": "c1a61e0a162c85e502b0997291a2a0a5e5f4f9bddeab2307900e2f8379620b73"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-47-2020",
+   "path": "local/judet/giurgiu/2020/47",
+   "short": "HCJ Giurgiu nr. 47/2020",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 47/2020 privind aprobarea Procedurii de vânzare a bunurilor din domeniul privat al Județului Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2020/",
+   "versions": [
+    {
+     "from": "2020-06-04",
+     "units": 6,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/07/hotararea-nr.47-din-04.06.2020.pdf",
+     "sha256": "9c20eb6ac1d3b7df70bedb849362843cd0976c1b7afc0f908a0e3107d64dfc3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-71-2020",
+   "path": "local/judet/giurgiu/2020/71",
+   "short": "HCJ Giurgiu nr. 71/2020",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 71/2020 privind modificarea și completarea Hotărârii nr.179 din data de 13 decembrie 2013 a Consiliului Județean Giurgiu pentru aprobarea REGULAMENTULUI privind condițiile în care se realizează accesul pe proprietatea publică sau privată a Județului Giurgiu de către furnizorii de rețele de comunicații electronice în vederea instalării, întreținerii, înlocuirii sau mutării rețelelor de comunicații electronice sau a elementelor de infrastructură necesare susținerii acestora, precum și măsurile privind construirea de rețele de comunicații electronice, a tarifelor de utilizare și a contractului standard",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2020/",
+   "versions": [
+    {
+     "from": "2020-07-29",
+     "units": 6,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/07/hotararea-nr.71-din-29.07.2020.pdf",
+     "sha256": "26e895d1814fab42761729bbe6e58eba7e33522523db5eec83ecb2a8078fad09"
+    }
+   ]
+  }
+ ]
+}

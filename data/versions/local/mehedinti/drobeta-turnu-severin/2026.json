@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/drobeta-turnu-severin/2026",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-107-2026",
+   "path": "local/mehedinti/drobeta-turnu-severin/2026/107",
+   "short": "HCL Drobeta-Turnu Severin nr. 107/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 107/2026 privind aprobarea documentației de urbanism în fază PUZ pentru :” Parcelare și construire locuinte cu functiuni complementare, în zona Tarla 2, Parcela 8, Parcela 7/1, nr.cadastral 65720, nr.72266, nr.72267, din municipiul Drobeta Turnu Severin",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/270371",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/99603/MEMORIU%20PUZ%20WALTER.pdf",
+     "sha256": "e540e120949b64a71f30d75d2cd50c1323707518e58d13a1f9817543bf6b8374"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-108-2026",
+   "path": "local/mehedinti/drobeta-turnu-severin/2026/108",
+   "short": "HCL Drobeta-Turnu Severin nr. 108/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 108/2026",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/270372",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/270372",
+     "sha256": "665719672f4cbba28d0769ac33edee72e68b32b9982fa4e30bec2eb5febf9818"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-171-2026",
+   "path": "local/mehedinti/drobeta-turnu-severin/2026/171",
+   "short": "HCL Drobeta-Turnu Severin nr. 171/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 171/2026",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/284798",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/107161/PUZ%20ZONA%20W.MARACINEANU.pdf",
+     "sha256": "b6ef6afc4db735133a68c8e5230d672592c65c1a66aa71ba1b62d244c6910b35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-43-2026",
+   "path": "local/mehedinti/drobeta-turnu-severin/2026/43",
+   "short": "HCL Drobeta-Turnu Severin nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 43/2026 pentru aprobarea Planului de ordine şi siguranţă publică al Direcţiei de Poliţie Locală Drobeta Turnu Severin pentru anul 2026",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/260622",
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/94280/anexa.pdf",
+     "sha256": "7ecd8c48ffdce2b6ef60f97819e58ce039a56ee97e24d5ddc5d3d8d4cc3faf5b"
+    }
+   ]
+  }
+ ]
+}

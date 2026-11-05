@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/judet/salaj/2003",
+ "acts": [
+  {
+   "slug": "hcj-salaj-16-2003",
+   "path": "local/judet/salaj/2003/16",
+   "short": "HCJ Sălaj nr. 16/2003",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 16/2003 privind aprobarea regulamentului de functionare a Comisiei pentru protectia copilului Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=111:hotarari-2003&catid=2",
+   "versions": [
+    {
+     "from": "2003-02-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2003/hot162003.pdf",
+     "sha256": "1a24314cae7b87c1546152f4f6bee153b560c33f909b38aa0bb25c1d16fe6532"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-31-2003",
+   "path": "local/judet/salaj/2003/31",
+   "short": "HCJ Sălaj nr. 31/2003",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 31/2003 pentru modificarea anexei nr. 3 la Hotararea nr. 79 din 25 noiembrie 2002 privind stabilirea unor tarife si indexarea taxelor si tarifelor in sume fixe stabilite de",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=111:hotarari-2003&catid=2",
+   "versions": [
+    {
+     "from": "2003-04-24",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2003/hot312003.pdf",
+     "sha256": "35d41c23455d8aed94605b5bd438049fe4c9d7be21f4c674b49541f7c775df1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-32-2003",
+   "path": "local/judet/salaj/2003/32",
+   "short": "HCJ Sălaj nr. 32/2003",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 32/2003 privind scutirea la plata a dobanzilor de intarziere datorate ca urmare a neplatii la termen a impozitului pe salarii datorat in anul 1999 de catre S.C",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=111:hotarari-2003&catid=2",
+   "versions": [
+    {
+     "from": "2003-04-24",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2003/hot322003.pdf",
+     "sha256": "5b02511826c6f77578cfa385003828fb8379252ac01e588b2dc5dcb7315a7225"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-55-2003",
+   "path": "local/judet/salaj/2003/55",
+   "short": "HCJ Sălaj nr. 55/2003",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 55/2003 privind unele modificari in componenta Autoritatii Teritoriale de Ordine Publica Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=111:hotarari-2003&catid=2",
+   "versions": [
+    {
+     "from": "2003-06-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2003/hot552003.pdf",
+     "sha256": "ca2db571d9bff54da58397cc31827a28f0a66865dd0620d38a28f8ea7f6901b3"
+    }
+   ]
+  }
+ ]
+}

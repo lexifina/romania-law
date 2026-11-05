@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/judet/botosani/2024",
+"acts": [
+{
+"slug": "hcj-botosani-78-2024",
+"path": "local/judet/botosani/2024/78",
+"kind": "local",
+"year": "2024",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 78/2024 privind aprobarea taxelor școlare pentru elevii Școlii Populare de Arte „George Enescu” Botoșani, pe anul școlar 2024 - 2025",
+"short": "HCJ Botoșani nr. 78/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-04-25",
+"latest": "2024-04-25",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcj-botosani-139-2024",
+"path": "local/judet/botosani/2024/139",
+"kind": "local",
+"year": "2024",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 139/2024 privind aprobarea Regulamentului de organizare şi funcţionare a aparatului de specialitate al Consiliului Județean",
+"short": "HCJ Botoșani nr. 139/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-07-26",
+"latest": "2024-07-26",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-botosani-147-2024",
+"path": "local/judet/botosani/2024/147",
+"kind": "local",
+"year": "2024",
+"number": "147",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 147/2024 pentru modificarea Hotărârii Consiliului Județean Botoșani nr. 230 din 21.12.2023 privind aprobarea tarifelor pentru serviciile prestate de Memorialul Ipotești – Centrul Național de Studii „Mihai Eminescu”, pentru anul 2024",
+"short": "HCJ Botoșani nr. 147/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/alte-documente/informari-proiecte-de-hotarari-cu-caracter-normativ/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

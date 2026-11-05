@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/judet/botosani/2008",
+ "acts": [
+  {
+   "slug": "hcj-botosani-109-2008",
+   "path": "local/judet/botosani/2008/109",
+   "short": "HCJ Botoșani nr. 109/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 109/2008 privind aprobarea taxelor şcolare pentru elevii Şcolii Populare de Arte şi Meserii Botoşani, pe anul şcolar 2017 - 2018",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-01-17",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h109_31.07.2017.pdf",
+     "sha256": "96f6d3ba4bbe3d58354bc8806a339ff381804db4e2edc012b7085a5ac6d83465"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-31-2008",
+   "path": "local/judet/botosani/2008/31",
+   "short": "HCJ Botoșani nr. 31/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 31/2008 privind aprobarea Regulamentului de transport public judetean de persoane prin curse regulate si curse regulate speciale, a Caietului de sarcini al serviciului de transport public judetean de persoane prin curse regulate, precum si a Programului de transport judetean de persoane prin curse",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h031_27.03.2008.pdf",
+     "sha256": "bcadf037c1955b134d450815562bbd1f3a544f1906b6dce239a019968b7a46a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-40-2008",
+   "path": "local/judet/botosani/2008/40",
+   "short": "HCJ Botoșani nr. 40/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 40/2008 privind aprobarea tarifelor pentru eliberarea licentelor de traseu in vederea efectuarii transportului public judetean de persoane prin curse regulate speciale",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-04-24",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h040_24.04.2008.pdf",
+     "sha256": "8a28563ce243663b83fe7cc1a15ad0e3a0ae681a42e7ce0c69ae2ecabfee133c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-8-2008",
+   "path": "local/judet/botosani/2008/8",
+   "short": "HCJ Botoșani nr. 8/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 8/2008 privind aprobarea Regulamentului pentru organizarea licitatiilor in vederea inchirierii bunurilor proprietate publica sau privata a judetului Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-01-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h008_30.01.2008.pdf",
+     "sha256": "782ab4fa31c8ad35735c2387538969299d3b6565e5b3a5cd8552419ea1df7f1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-85-2008",
+   "path": "local/judet/botosani/2008/85",
+   "short": "HCJ Botoșani nr. 85/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 85/2008 privind aprobarea taxelor şcolare pentru elevii Şcolii Populare de Arte şi Meserii Botoşani pentru anul şcolar 2013 - 2014",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-01-13",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h085_29.07.2013.pdf",
+     "sha256": "b7344a2779c2c05c0f595e21ae2256c08d8c11a34d6995d43f91f0505ed0211b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-94-2008",
+   "path": "local/judet/botosani/2008/94",
+   "short": "HCJ Botoșani nr. 94/2008",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 94/2008 privind aprobarea tarifelor practicate de Orchestra Populara \"Rapsozii Botosanilor\", pentru serviciile prestate in anul 2010",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2008-04-10",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h094_29.07.2010.pdf",
+     "sha256": "a3eeb3d1357f535717c9a9e87345e91c997e0ed35682e66f5ac4bd4f5537a9fe"
+    }
+   ]
+  }
+ ]
+}

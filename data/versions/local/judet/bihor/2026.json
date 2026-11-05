@@ -106,6 +106,21 @@
      "sha256": "35d11fb13b4af788072be698b616727592a8654c21fe31469a9dfbcf7f06ebcb"
     }
    ]
+  },
+  {
+   "slug": "hcj-bihor-37-2026",
+   "path": "local/judet/bihor/2026/37",
+   "short": "HCJ Bihor nr. 37/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 37/2026 PRIVIND UNELE MĂSURI LEGATE DE ACTIVITATEA SOCIETĂȚII PAZĂ ȘI PROTECȚIE BIHOR S.R.L",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/04/h-37-din-26.03.2026_Redacted.pdf",
+     "sha256": "1ba5b8597a4255697956cac63bee34ac2cab4f68f18f1a8171fbeb88aac1ee58"
+    }
+   ]
   }
  ]
 }

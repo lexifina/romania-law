@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/judet/prahova/2017",
+"acts": [
+{
+"slug": "hcj-prahova-82-2017",
+"path": "local/judet/prahova/2017/82",
+"kind": "local",
+"year": "2017",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 82/2017 privind plata cotizatiei pe anul 2017 catre Asociatia Nationala a Autoritatilor Teritoriale de Ordine Publica din Romania",
+"short": "HCJ Prahova nr. 82/2017",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2017-05-31",
+"latest": "2017-05-31",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2017/?dpage=5",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-prahova-125-2017",
+"path": "local/judet/prahova/2017/125",
+"kind": "local",
+"year": "2017",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 125/2017 privind modificarea Regulamentului de organizare șifuncționare a Consiliului județean Prahova",
+"short": "HCJ Prahova nr. 125/2017",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2017-07-25",
+"latest": "2017-07-25",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2017/?dpage=4",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-prahova-190-2017",
+"path": "local/judet/prahova/2017/190",
+"kind": "local",
+"year": "2017",
+"number": "190",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 190/2017 privind modificarea și completarea Hotărârii Consiliului Județean Prahova nr. 92/31.05.2017, referitoare la aprobarea taxelor instituțiilor de cultură aflate în subordinea Consiliului Județean Prahova",
+"short": "HCJ Prahova nr. 190/2017",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2017-10-30",
+"latest": "2017-10-30",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2017/?dpage=2",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-prahova-212-2017",
+"path": "local/judet/prahova/2017/212",
+"kind": "local",
+"year": "2017",
+"number": "212",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 212/2017 privind stabilirea taxelor în domeniul construcţiilor, aplicabile în anul fiscal 2018",
+"short": "HCJ Prahova nr. 212/2017",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2017-12-18",
+"latest": "2017-12-18",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2017/",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

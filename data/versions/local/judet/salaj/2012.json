@@ -1,0 +1,156 @@
+{
+ "country": "RO",
+ "shard": "local/judet/salaj/2012",
+ "acts": [
+  {
+   "slug": "hcj-salaj-102-2012",
+   "path": "local/judet/salaj/2012/102",
+   "short": "HCJ Sălaj nr. 102/2012",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 102/2012 pentru modificarea şi completarea Hotărârii Consiliului Judeţean Sălaj nr.144/2011 privind stabilirea taxelor şi tarifelor de competenţa Consiliului Judeţean Sălaj pentru anul 2012",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=102:hotarari-2012&catid=2",
+   "versions": [
+    {
+     "from": "2012-08-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2012/hot1022012.pdf",
+     "sha256": "707a48b3e1d6b92c2e864a1553e017d4858cf1f54cf99aa15d31d441ea36dcbb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-103-2012",
+   "path": "local/judet/salaj/2012/103",
+   "short": "HCJ Sălaj nr. 103/2012",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 103/2012 privind aprobarea taxelor percepute de Centrul de Cultură şi Artă al Judeţului Sălaj pentru anul şcolar 2012-2013",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=102:hotarari-2012&catid=2",
+   "versions": [
+    {
+     "from": "2012-08-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2012/hot1032012.pdf",
+     "sha256": "23bb0f2c5e565fcce80b59b6db18725003e9f43d9d595dfaa306f799a180fbc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-132-2012",
+   "path": "local/judet/salaj/2012/132",
+   "short": "HCJ Sălaj nr. 132/2012",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 132/2012 privind stabilirea taxelor şi tarifelor de competenţa Consiliului Judeţean Sălaj pentru anul 2013",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=102:hotarari-2012&catid=2",
+   "versions": [
+    {
+     "from": "2012-11-16",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2012/hot1322012.pdf",
+     "sha256": "5c9f61c8f44d14e244096f4e4d836150d047d5837ff979f44ae02819a7b261a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-134-2012",
+   "path": "local/judet/salaj/2012/134",
+   "short": "HCJ Sălaj nr. 134/2012",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 134/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-11-16",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2012/hot1342012.pdf",
+     "sha256": "e4ed56d0019284493c812db9531e641692ba6f341c5219f98f55db3b04c4c851"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-17-2012",
+   "path": "local/judet/salaj/2012/17",
+   "short": "HCJ Sălaj nr. 17/2012",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 17/2012 pentru modificarea Hotărârii Consiliului Judeţean Sălaj nr.10 din 25 februarie 2011 privind aprobarea formei gestiunii delegate a serviciului de administrare a domeniului public şi privat al judeţului, precum şi a regulamentului de delegare a gestiunii acestui",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=102:hotarari-2012&catid=2",
+   "versions": [
+    {
+     "from": "2012-02-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2012/hot172012.pdf",
+     "sha256": "ec6089831f8b089558c5d350dd7c1647c0015ac62566d9d84ac95a979a9472ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-35-2012",
+   "path": "local/judet/salaj/2012/35",
+   "short": "HCJ Sălaj nr. 35/2012",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 35/2012 privind aprobarea Regulamentului de organizare şi desfăşurare a evaluării anuale a managementului la Biblioteca Judeţeană \"Ioniţă Scipione Bădescu\" Sălaj şi desemnarea reprezentanţilor Consiliului Judeţean Sălaj în cadrul Comisiei de evaluare şi a Comisiei de solu",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=102:hotarari-2012&catid=2",
+   "versions": [
+    {
+     "from": "2012-03-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2012/hot352012.pdf",
+     "sha256": "78e7d35b9fda4cc9135dfe48da6ce284fb2a35daaa896cfb3db5ef0988e465cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-36-2012",
+   "path": "local/judet/salaj/2012/36",
+   "short": "HCJ Sălaj nr. 36/2012",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 36/2012 privind aprobarea Regulamentului de organizare şi desfăşurare a evaluării anuale a managementului la Centrul de Cultură şi Artă al Judeţului Sălaj şi desemnarea reprezentanţilor Consiliului Judeţean Sălaj în cadrul Comisiei de evaluare şi a Comisiei de soluţionare",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=102:hotarari-2012&catid=2",
+   "versions": [
+    {
+     "from": "2012-03-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2012/hot362012.pdf",
+     "sha256": "f991af67d6bc02c558c11a7d4da72741736ba432ae739e0593027294ed1ab9f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-37-2012",
+   "path": "local/judet/salaj/2012/37",
+   "short": "HCJ Sălaj nr. 37/2012",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 37/2012 privind aprobarea Regulamentului de organizare şi desfăşurare a evaluării anuale a managementului la Muzeul Judeţean de Istorie şi Artă Zalău şi desemnarea reprezentanţilor Consiliului Judeţean Sălaj în cadrul Comisiei de evaluare şi a Comisiei de soluţionare a co",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=102:hotarari-2012&catid=2",
+   "versions": [
+    {
+     "from": "2012-03-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2012/hot372012.pdf",
+     "sha256": "afdf1b9df0ba0a3f4a2643770dede9c6ed338371402d6d76bc8e4905b3695053"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-62-2012",
+   "path": "local/judet/salaj/2012/62",
+   "short": "HCJ Sălaj nr. 62/2012",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 62/2012 privind aprobarea taxelor și tarifelor pentru serviciile delegate practicate de către S.C",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=102:hotarari-2012&catid=2",
+   "versions": [
+    {
+     "from": "2012-05-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2012/hot622012.pdf",
+     "sha256": "0850d0afe3375f13e30b01529e279073d3ae972a15eda1464d3a1514684a6e4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-67-2012",
+   "path": "local/judet/salaj/2012/67",
+   "short": "HCJ Sălaj nr. 67/2012",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 67/2012 privind aprobarea normelor de acordare şi utilizare, de către Asociaţia \"HANDBAL CLUB ZALĂU\", a fondurilor alocate din bugetul Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=102:hotarari-2012&catid=2",
+   "versions": [
+    {
+     "from": "2012-06-07",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2012/hot672012.pdf",
+     "sha256": "591b47d9951deb10d9dd649343a0a1b8a32549654cba66d10875700201fe6828"
+    }
+   ]
+  }
+ ]
+}

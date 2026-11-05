@@ -3,6 +3,73 @@
 "shard": "local/judet/giurgiu/2026",
 "acts": [
 {
+"slug": "hcj-giurgiu-2-2026",
+"path": "local/judet/giurgiu/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 2/2026 pentru modificarea Anexei nr.2 la Hotărârea Consiliului Județean Giurgiu nr.274 din 08 decembrie 2025 privind avizarea favorabilă a cuantumului normelor de venit și a coeficienților de corecție pentru activități independente pentru anul 2026, propus de către Administrația Județeană a Finanțelor Publice Giurgiu",
+"short": "HCJ Giurgiu nr. 2/2026",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"annex_missing": true,
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcj-giurgiu-3-2026",
+"path": "local/judet/giurgiu/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 3/2026 pentru îndreptarea erorii materiale din cuprinsul Anexei nr.2 și Anexei nr.8 la Hotărârea Consiliului Județean Giurgiu nr.281 din 18 decembrie 2025 privind stabilirea taxelor și tarifelor care vor fi percepute de Consiliul Județean Giurgiu și instituțiile publice subordonate acestuia în anul fiscal 2026",
+"short": "HCJ Giurgiu nr. 3/2026",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcj-giurgiu-4-2026",
+"path": "local/judet/giurgiu/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 4/2026 privind aprobarea instituirii, până la data de 31.12.2026 a unei restricții de circulație pe drumul județean DJ 603, sectorul cuprins, între intersecția cu drumul național DN5 (localitatea Uzunu, comuna Călugăreni) și drumul național DN6 (localitatea Naipu, comuna Ghimpați, județul Giurgiu), pentru autovehiculele rutiere de marfă care depășesc masa totală maximă autorizată de 12 tone",
+"short": "HCJ Giurgiu nr. 4/2026",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-01-29",
+"latest": "2026-01-29",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
 "slug": "hcj-giurgiu-15-2026",
 "path": "local/judet/giurgiu/2026/15",
 "kind": "local",

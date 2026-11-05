@@ -1,0 +1,138 @@
+{
+"country": "RO",
+"shard": "local/judet/botosani/2007",
+"acts": [
+{
+"slug": "hcj-botosani-57-2007",
+"path": "local/judet/botosani/2007/57",
+"kind": "local",
+"year": "2007",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 57/2007 privind aprobarea unor tarife pentru drumurile publice administrate de catre Directia Judeteana de Drumuri si Poduri Botosani, pentru anii 2006 - 2007",
+"short": "HCJ Botoșani nr. 57/2007",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2007-05-06",
+"latest": "2007-05-06",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-58-2007",
+"path": "local/judet/botosani/2007/58",
+"kind": "local",
+"year": "2007",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 58/2007 privind aprobarea necesarului de alocatii de la bugetul de stat in vederea actualizarii planurilor urbanistice generale ale localitatilor si/sau regulamentelor locale de urbanism, pentru anul 2007",
+"short": "HCJ Botoșani nr. 58/2007",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2007-05-06",
+"latest": "2007-05-06",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-75-2007",
+"path": "local/judet/botosani/2007/75",
+"kind": "local",
+"year": "2007",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 75/2007 privind modificarea Regulamentului de organizare şi funcţionare şi a ststului de funcţii ale Serviciului Public Comunitar de Evidenţă a Persoanelor al Judeţului Botoşani",
+"short": "HCJ Botoșani nr. 75/2007",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2007-08-30",
+"latest": "2007-08-30",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-88-2007",
+"path": "local/judet/botosani/2007/88",
+"kind": "local",
+"year": "2007",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 88/2007 privind actualizarea tarifelor pentru prestarea serviciilor de productie editoriala, tipografica si de difuzare a Monitorului Oficial al Judetului Botosani",
+"short": "HCJ Botoșani nr. 88/2007",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2007-10-31",
+"latest": "2007-10-31",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-92-2007",
+"path": "local/judet/botosani/2007/92",
+"kind": "local",
+"year": "2007",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 92/2007 privind aprobarea ajustarii preturilor/tarifelor pentru serviciul de alimentare cu apa potabila si a tarifelor pentru serviciul de canalizare-epurare, cu indicele preturilor de consum de 104,26% aferent perioadei iunie 2006-iulie 2007, incepand cu data de 1 noiembrie 2007",
+"short": "HCJ Botoșani nr. 92/2007",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2007-07-06",
+"latest": "2007-07-06",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-119-2007",
+"path": "local/judet/botosani/2007/119",
+"kind": "local",
+"year": "2007",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 119/2007 privind aprobarea Regulamentului de organizare si functionare a aparatului de specialitate al Consiliului Judetean Botosani",
+"short": "HCJ Botoșani nr. 119/2007",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2007-12-17",
+"latest": "2007-12-17",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

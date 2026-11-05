@@ -31,6 +31,21 @@
      "sha256": "123d61063911ffe17e1d2de8d0d70976b0f3b31aed25d7e793fed5ad5ae1bf1b"
     }
    ]
+  },
+  {
+   "slug": "hcl-olt--caracal-36-2016",
+   "path": "local/olt/caracal/2016/36",
+   "short": "HCL Caracal nr. 36/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 36/2016 privind aprobarea Regulamentului de organizare Åi funcÅ£ionare a Consiliului local al municipiului Caracal",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2016/HCLnr.36din31.10.2016.pdf",
+     "sha256": "61cb224393ae158675bfb304f7f976c79b75ac67226866ec5b5a9adb1b268655"
+    }
+   ]
   }
  ]
 }

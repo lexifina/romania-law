@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-olt--caracal-137-2017",
+"path": "local/olt/caracal/2017/137",
+"kind": "local",
+"year": "2017",
+"number": "137",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 137/2017 privind stabilirea impozitelor, taxelor locale si a altor taxe asimilate acestora pentru anul 2018",
+"short": "HCL Caracal nr. 137/2017",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2017-12-21",
+"latest": "2017-12-21",
+"portal": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
 "slug": "hcl-olt--caracal-139-2017",
 "path": "local/olt/caracal/2017/139",
 "kind": "local",

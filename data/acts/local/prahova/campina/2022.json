@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/prahova/campina/2022",
+"acts": [
+{
+"slug": "hcl-prahova--campina-28-2022",
+"path": "local/prahova/campina/2022/28",
+"kind": "local",
+"year": "2022",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 28/2022 privind aprobarea tarifelor pentru serviciuI public de salubrizare prestat utilizatorilor casnici si non-casnici de catre S.C.Floricon Salub S.R.L",
+"short": "HCL Câmpina nr. 28/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-02-28",
+"latest": "2022-02-28",
+"portal": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2022/",
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--campina-29-2022",
+"path": "local/prahova/campina/2022/29",
+"kind": "local",
+"year": "2022",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 29/2022 privind modificarea taxei speciale pentru utilizatorii - beneficiari ai serviciului de salubrizare din Municipiul Campina, care nu au incheiat contract de prestari - servicii cu operatorul de salubrizare al MunicipiuluiCampina",
+"short": "HCL Câmpina nr. 29/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-02-28",
+"latest": "2022-02-28",
+"portal": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2022/",
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-prahova--campina-76-2022",
+"path": "local/prahova/campina/2022/76",
+"kind": "local",
+"year": "2022",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 76/2022 privind indexarea impozitelor $i taxelor locale in MunicipiulCampina, pentru anul fiscal 2023 Avand in vedere Referatul de aprobare nr.ll.l46/16 martie 2022 al d-lui Moldoveanu Ioan-Alin - Primarul Municipiului Campina, prin care propune indexarea impozitelor si taxelor locale in Municipiul Campina, pentru anul fiscal 2023; Tinand seama de: - raportul nr.ll.l48/16 martie 2022, intocmit de DirecJia",
+"short": "HCL Câmpina nr. 76/2022",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2022-04-28",
+"latest": "2022-04-28",
+"portal": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2022/",
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

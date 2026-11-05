@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/judet/salaj/2020",
+ "acts": [
+  {
+   "slug": "hcj-salaj-106-2020",
+   "path": "local/judet/salaj/2020/106",
+   "short": "HCJ Sălaj nr. 106/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 106/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 4,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot1062020.pdf",
+     "sha256": "649fd1bcb7cc12298be3d0b61baed1890d2755ade1d15712b13b19e92dcbad93"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-3-2020",
+   "path": "local/judet/salaj/2020/3",
+   "short": "HCJ Sălaj nr. 3/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 3/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-01-27",
+     "units": 6,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot32020.pdf",
+     "sha256": "bd8993fcb5d325e6a3b7c0070edca92f2d22f9fba4d96ec8cc59e1aa38f56e1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-4-2020",
+   "path": "local/judet/salaj/2020/4",
+   "short": "HCJ Sălaj nr. 4/2020",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 4/2020 pentru modificarea tarifelor aplicabile serviciului public de salubrizare al judeţului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=94:hotarari-2020&catid=2",
+   "versions": [
+    {
+     "from": "2020-01-27",
+     "units": 5,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2020/hot42020.pdf",
+     "sha256": "5b4de98a3722ac9c3579d2fa5a9f807fb05fbf5c1a353337b96a675971bc11af"
+    }
+   ]
+  }
+ ]
+}

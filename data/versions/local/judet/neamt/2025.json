@@ -3,6 +3,36 @@
  "shard": "local/judet/neamt/2025",
  "acts": [
   {
+   "slug": "hcj-neamt-124-2025",
+   "path": "local/judet/neamt/2025/124",
+   "short": "HCJ Neamț nr. 124/2025",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 124/2025 privind stabilirea taxelor, tarifelor şi amenzilor din competenţa de aprobare a Consiliului Judeţean Neamţ, pentru anul fiscal 2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2025/",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2025/04/Consiliul-Judetean-Neamt-HCJ-nr.-124-din-28-aprilie-2025-1.pdf",
+     "sha256": "b23b065aa13553077d9ee3d32b86eb9cdf399cdb05039578e62bbadc4b31976f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-320-2025",
+   "path": "local/judet/neamt/2025/320",
+   "short": "HCJ Neamț nr. 320/2025",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 320/2025 privind stabilirea preţurilor medii ale produselor agricole, necesare evaluării în lei a arendei achitate în natură, valabile pentru anul 2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2025/",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2025/12/Hotararea-Consiliului-Judetean-nr.-320-din-11.12.2025.pdf",
+     "sha256": "5d2ce384eb61b221cb250205fbee6794a32a64b5c3f288237a81e424b8446349"
+    }
+   ]
+  },
+  {
    "slug": "hcj-neamt-324-2025",
    "path": "local/judet/neamt/2025/324",
    "short": "HCJ Neamț nr. 324/2025",

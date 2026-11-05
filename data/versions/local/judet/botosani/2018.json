@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/judet/botosani/2018",
+ "acts": [
+  {
+   "slug": "hcj-botosani-165-2018",
+   "path": "local/judet/botosani/2018/165",
+   "short": "HCJ Botoșani nr. 165/2018",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 165/2018 privind acordarea unui mandat special din partea Judeţului Botoşani, Asiciaţiei de Dezvoltare Intercomunitară \"ECOPROCES\" Botoşani pentru a aproba in Adunarea Generala a Acţionarilor, in numele si pe seama Judeţului Botoşani, Planul anual de creştere a tarifului actualizat",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2018-11-08",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h165_08.11.2018.pdf",
+     "sha256": "8e6eb0bb2d1a02993a4111088ad1af8f00331212f82bccb6f6fce89d301d3e9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-187-2018",
+   "path": "local/judet/botosani/2018/187",
+   "short": "HCJ Botoșani nr. 187/2018",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 187/2018 privind aprobarea Regulamentului de acordare a stimulentelor financiare elevilor din instituțiile de învățământ din județul Botoșani, care au obținut rezultate de excepție la olimpiadele și concursurile școlare județene și a Listei elevilor din instituțiile de învățământ din județul Botoșan",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2018-12-06",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h187_06.12.2018.pdf",
+     "sha256": "01aa5b98f9cd320261209aadec52ef27882ff53e21fcd4029aa0508e307a7f2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-34-2018",
+   "path": "local/judet/botosani/2018/34",
+   "short": "HCJ Botoșani nr. 34/2018",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 34/2018 privind aprobarea Programului anual pentru acordarea de finanţări nerambursabile pe anul 2018 şi aprobarea Regulamentului privind regimul finanţărilor nerambursabile alocate din fonduri ale bugetului Judeţului Botoşani pentru activităţi non-profit de interes judeţean, în baza Legii nr. 350/",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2018-02-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h034_22.02.2018.pdf",
+     "sha256": "1f1ca9ac36a5a92516fbfeb6063b1011b2f5faac2255b6fa5516eef556ef95e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-35-2018",
+   "path": "local/judet/botosani/2018/35",
+   "short": "HCJ Botoșani nr. 35/2018",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 35/2018 privind aprobarea Regulamentului privind regimul finanţărilor nerambursabile alocate din fonduri ale bugetului Judeţului Botoşani pentru activităţile de tineret pentru anul 2018",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2018-02-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h035_22.02.2018.pdf",
+     "sha256": "4979eaef47e1bd82bc0e78d15d09e5aaf111fa2b3211924978318aeef14193ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-98-2018",
+   "path": "local/judet/botosani/2018/98",
+   "short": "HCJ Botoșani nr. 98/2018",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 98/2018 privind aprobarea taxelor școlare pentru elevii Școlii Populare de Arte „George Enescu” Botoșani, pe anul școlar 2018 - 2019",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2018-07-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H098_26.07.2018.pdf",
+     "sha256": "b5bf4cfb75ce202426e4fc7249fe73ae7ccfd33f6a0cdef6491e95f991cd0bf8"
+    }
+   ]
+  }
+ ]
+}

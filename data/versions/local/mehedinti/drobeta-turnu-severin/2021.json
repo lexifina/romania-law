@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/drobeta-turnu-severin/2021",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-14-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/14",
+   "short": "HCL Drobeta-Turnu Severin nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 14/2021 privind modificarea HCL nr. 14 din 29.01.2021 ref. la stabilire norme locale, contraventii Vizualizare",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/105/hcl-168-privind-modificarea-HCL-nr.-14-din-29.01.2021-ref.-la-stabilire-norme-locale-contraventii.pdf",
+     "sha256": "3f4aab49ebb72499484280aae0f2fd8cf49bae98bc8125e8235d20cee5c905fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-175-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/175",
+   "short": "HCL Drobeta-Turnu Severin nr. 175/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 175/2021 privind modif. HCL nr. 168 din 2019 ref.la aprobare Regulament de org.si funct.a Serviciului social de ingrijire la domiciliu persoane varstnice Vizualizare",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/105/HCL-nr.-175-din-30.07.2021-privind-modif.-HCL-nr.-168-din-2019-ref.la-aprobare-Regulament-de-org.si-funct.a-Serviciului-social-de-ingrijire-la-domiciliu-persoane-varstnice.pdf",
+     "sha256": "3d854a5cef0a2ef9e7c47da1a3b067086d8dbf5f4449c404906d033520c21e67"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-187-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/187",
+   "short": "HCL Drobeta-Turnu Severin nr. 187/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 187/2021 privind modificarea Regulamentului de instituire si administrare a taxei de salubrizarein DTS,aprobat prin HCL 61-29.03.2021 Vizualizare",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/105/HCL-nr.-187-din-30.07.2021-privind-modificarea-Regulamentului-de-instituire-si-administrare-a-taxei-de-salubrizarein-DTSaprobat-prin-HCL-61-29.03.2021.pdf",
+     "sha256": "e75fc1e3a6697e438a9d05158d5d60794aa0d32b64696d9f839457c483438c6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-99-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/99",
+   "short": "HCL Drobeta-Turnu Severin nr. 99/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 99/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b0b8541e5b24c2ff205edcbeecbbdca3f71d12c23ebbda7fe1b777ea2c3c350a"
+    }
+   ]
+  }
+ ]
+}

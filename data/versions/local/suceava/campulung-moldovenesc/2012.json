@@ -3,6 +3,66 @@
  "shard": "local/suceava/campulung-moldovenesc/2012",
  "acts": [
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-1-2012",
+   "path": "local/suceava/campulung-moldovenesc/2012/1",
+   "short": "HCL Câmpulung Moldovenesc nr. 1/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 1/2012 cu privire la prelungirea valabilității Planului Urbanistic General al Municipiului Câmpulung Moldovenesc și a Regulamentul Local de Urbanism aferent Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 26 ianuarie 2012; Având în vedere: - Expunerea de motive a primarului Municipiului Câmpulung Moldovenesc, înregistrată la nr. 575 din 13.01.2012; - Raport",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p10?an=2012",
+   "versions": [
+    {
+     "from": "2012-01-26",
+     "units": 3,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_001_2012.pdf",
+     "sha256": "8f84b44bfdd8755800f4bb20e5588753d2797cd55cc0f0d8dc54e35c1ef6f86d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-111-2012",
+   "path": "local/suceava/campulung-moldovenesc/2012/111",
+   "short": "HCL Câmpulung Moldovenesc nr. 111/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 111/2012 pentru aprobarea Regulamentului privind măsurile de creștere a calității arhitectural – ambientale a clădirilor în municipiul Câmpulung Moldovenesc Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 27 septembrie 2012, Având în vedere: - Expunerea de motive a Primarului Municipiului Câmpulung Moldovenesc înregistrată la nr. 16312/2012; - Raportul Direcț",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2012",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 3,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_111_2012.pdf",
+     "sha256": "1ff6ccd3012a464972a61426296a3a63e92dd0ffc871944b5b65d2ca1c164ec5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-117-2012",
+   "path": "local/suceava/campulung-moldovenesc/2012/117",
+   "short": "HCL Câmpulung Moldovenesc nr. 117/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 117/2012 cu privire la prelungirea valabilității Planului Urbanistic General al Municipiului Câmpulung Moldovenesc și a Regulamentului Local de Urbanism aferent Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 27 septembrie 2012; Având în vedere: - Expunerea de motive a primarului Municipiului Câmpulung Moldovenesc, înregistrată la nr. 16395 din 14.09.2012;",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2012",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 3,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_117_2012.pdf",
+     "sha256": "c55bbb1b5e2f1ff84a02c30e41d2a620391af574ad0cbd66022e093077e80b31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-136-2012",
+   "path": "local/suceava/campulung-moldovenesc/2012/136",
+   "short": "HCL Câmpulung Moldovenesc nr. 136/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 136/2012 privind aprobarea înregistrării Primăriei Municipiului Câmpulung Moldovenesc în Sistemul național electronic de plată online a taxelor și impozitelor utilizând cardul bancar, precum și stabilirea modului în care este suportat comisionul bancar Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 29 noiembrie 2012, Având în vedere: - Expunerea de motive a",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2012",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 5,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_136_2012.pdf",
+     "sha256": "2c5ebfe1079cd7c0986d26fce5a74dbb3d56b58b76725b83db15a09960326026"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-143-2012",
    "path": "local/suceava/campulung-moldovenesc/2012/143",
    "short": "HCL Câmpulung Moldovenesc nr. 143/2012",
@@ -239,6 +299,96 @@
      "units": 1,
      "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_158_2012.pdf",
      "sha256": "38e7409480146baa7414407f13bc0d7b66b47cbc0ef834eaa20f078579a549b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-2-2012",
+   "path": "local/suceava/campulung-moldovenesc/2012/2",
+   "short": "HCL Câmpulung Moldovenesc nr. 2/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 2/2012 cu privire la aprobarea cererilor de înlesnire la plata impozitelor, taxelor și a unor majorări de întârziere Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 26 ianuarie 2012 Având în vedere: - Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc înregistrată la nr. 21383/21.12.2011; - Raportul Serviciului venituri, cheltuieli și patri",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p10?an=2012",
+   "versions": [
+    {
+     "from": "2012-01-26",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_002_2012.pdf",
+     "sha256": "0b6e5960abc85625a153930bb064472e561eb6dd3a80df756be40562b565b647"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-26-2012",
+   "path": "local/suceava/campulung-moldovenesc/2012/26",
+   "short": "HCL Câmpulung Moldovenesc nr. 26/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 26/2012 cu privire la aprobarea Planului Urbanistic Zonal și a Regulamentului Local de Urbanism aferent pentru str",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p9?an=2012",
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_026_2012.pdf",
+     "sha256": "cd1c94155a994f889b4c81ea9fc17e55a1e29e54497ed99e1a3a419a03175c45"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-4-2012",
+   "path": "local/suceava/campulung-moldovenesc/2012/4",
+   "short": "HCL Câmpulung Moldovenesc nr. 4/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 4/2012 privind stabilirea cotei impozitului pe clădiri nereevaluate și pentru clădirile cu destinație turistică Consiliul local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 26 ianuarie 2012, Având în vedere : - Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc înregistrată la nr. 426/11.01.2012 ; - Raportul Serviciului venituri, cheltuieli și patrimoni",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p10?an=2012",
+   "versions": [
+    {
+     "from": "2012-01-26",
+     "units": 4,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_004_2012.pdf",
+     "sha256": "40107654b45f1362e88402ba4c6423e4f176eca37b04cc83ca55ae0723686b3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-48-2012",
+   "path": "local/suceava/campulung-moldovenesc/2012/48",
+   "short": "HCL Câmpulung Moldovenesc nr. 48/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 48/2012 cu privire la aprobarea cererilor de înlesnire la plata impozitelor, taxelor și a unor majorări de întârziere Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 29 martie 2012 Având în vedere: - Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc înregistrată la nr. 5345/2012; - Raportul Serviciului venituri, cheltuieli și patrimoniu, în",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2012",
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_048_2012.pdf",
+     "sha256": "5e505560b89259d36d9cc807ba3e297bcc4448bf696a7ed9e985a8533b7f4132"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-75-2012",
+   "path": "local/suceava/campulung-moldovenesc/2012/75",
+   "short": "HCL Câmpulung Moldovenesc nr. 75/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 75/2012 privind aprobarea listei solicitanților care au acces la locuințele pentru tineri, destinate închirierii și aprobarea regulamentului privind ordinea și modul de soluționare a cererilor, administrarea, exploatarea și închirierea locuințelor construite prin Agenția Națională pentru Locuințe, în municipiul Câmpulung Moldovenesc Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședinț",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2012",
+   "versions": [
+    {
+     "from": "2012-05-10",
+     "units": 6,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_075_2012.pdf",
+     "sha256": "c8b36c863be99991c70d1752d2919e9fa258a9cb3f525f39ff8ee9c484982a8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-99-2012",
+   "path": "local/suceava/campulung-moldovenesc/2012/99",
+   "short": "HCL Câmpulung Moldovenesc nr. 99/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 99/2012 cu privire la aprobarea cererilor de înlesnire la plata impozitelor, taxelor și a unor majorări de întârziere Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 30 august 2012",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2012",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_099_2012.pdf",
+     "sha256": "e8745e2387a784f0f2fb617fcfaf1dc61a3a6800ec0bc4c2e21a8b878804aac6"
     }
    ]
   }

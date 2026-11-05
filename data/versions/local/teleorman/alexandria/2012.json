@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/teleorman/alexandria/2012",
+ "acts": [
+  {
+   "slug": "hcl-teleorman--alexandria-15-2012",
+   "path": "local/teleorman/alexandria/2012/15",
+   "short": "HCL Alexandria nr. 15/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 15/2012 privind aprobarea Regulamentului propriu al serviciilor de salubrizare din municipiul Alexandria",
+   "url": "https://alexandria.ro/priveste-modificarea-si-completarea-hcl-nr-158-2007-privind-aprobarea-regulamentului-propriu-al-serviciilor-de-salubrizare-din-municipiul-alexandria/",
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 4,
+     "source_url": "https://alexandria.ro/storage/hcl_nr_15_din_29_feb_2012.pdf",
+     "sha256": "663d59111a1d213c117ad38f3b0f21db0ac7a2b30d9fde810ef91a6885aea998"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-16-2012",
+   "path": "local/teleorman/alexandria/2012/16",
+   "short": "HCL Alexandria nr. 16/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 16/2012 cu privire la aprobarea Regulamentului de blocare, ridicare,transport, depozitare si eliberare a vehiculelor stationate neregulamentar si a vehiculelor fara stapan sau abandonate pe teritoriul municipiului Alexandria si desemnarea ca operator a S.C",
+   "url": "https://alexandria.ro/priveste-modificarea-anexei-nr-1-la-hcl-nr-16-din-29-februarie-2012-cu-privire-la-aprobarea-regulamentului-de-blocare-ridicaretransport-depozitare-si-eliberare-a-vehiculelor-stationate-neregulam/",
+   "versions": [
+    {
+     "from": "2012-07-18",
+     "units": 3,
+     "source_url": "https://alexandria.ro/storage/hcl_nr_16_din_18_iul_2012.pdf",
+     "sha256": "a8d030133f06b48fbc7ea042b8f494768a2807db68bca19ac32f84d906cf0f53"
+    }
+   ]
+  }
+ ]
+}

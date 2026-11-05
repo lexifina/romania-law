@@ -1,0 +1,156 @@
+{
+ "country": "RO",
+ "shard": "local/arges/campulung/2014",
+ "acts": [
+  {
+   "slug": "hcl-arges--campulung-119-2014",
+   "path": "local/arges/campulung/2014/119",
+   "short": "HCL Câmpulung nr. 119/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 119/2014 privind măsurile tehnico-administrative din cadrul Compartimentului Urbanism, Amenajarea Teritoriului Hotărâre privind măsurile tehnico-administrative din cadrul Compartimentului Urbanism, Amenajarea Teritoriului",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2014-09-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2014/HCL%20nr.%20119%20din%2030.09.2014.pdf",
+     "sha256": "c3808cb793692ec875341fa983123713886bbf89963ceb4ba64ec2c956cca0b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-125-2014",
+   "path": "local/arges/campulung/2014/125",
+   "short": "HCL Câmpulung nr. 125/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 125/2014",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2014-10-10",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2014/HCL%20nr.%20125%20din%2010.10.2014.pdf",
+     "sha256": "42504d4300d0dabb91a41b6bcd399065c017222eb81ded55bfa3f4016d240e19"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-24-2014",
+   "path": "local/arges/campulung/2014/24",
+   "short": "HCL Câmpulung nr. 24/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 24/2014 privind acordarea de facilităţi fiscale la plata impozitului pe clădiri şi a impozitului pe terenul aferent pentru semestrul I 2014 Hotărâre privind acordarea de facilităţi fiscale la plata impozitului pe clădiri şi a impozitului pe terenul aferent pentru semestrul I 2014",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2014/HCL%20nr.%2024%20din%2031.03.2014.pdf",
+     "sha256": "b6d310344b4713fab259b1b67b105b0976783c223714cf408dfb0ee45274c2cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-28-2014",
+   "path": "local/arges/campulung/2014/28",
+   "short": "HCL Câmpulung nr. 28/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 28/2014 privind interzicerea activităţii de depozitare/stocare a deșeurilor periculoase pe raza Municipiului Câmpulung Hotărâre privind interzicerea activităţii de depozitare/stocare a deșeurilor periculoase pe raza Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2014/HCL%20nr.%2028%20din%2031.03.2014.pdf",
+     "sha256": "69fe930c5d17ffabc64140ba9b4d1e751b91657ed1d2edd521de53d9510ebd2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-30-2014",
+   "path": "local/arges/campulung/2014/30",
+   "short": "HCL Câmpulung nr. 30/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 30/2014",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2014/HCL%20nr.%2030%20din%2031.03.2014.pdf",
+     "sha256": "bde88179e4f9a0e2c6191344430743c3b51a14cb268077398514407254e9a417"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-44-2014",
+   "path": "local/arges/campulung/2014/44",
+   "short": "HCL Câmpulung nr. 44/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 44/2014 privind Regulamentul local de publicitate pentru amplasarea şi autorizarea mijloacelor de publicitate în municipiul Câmpulung Hotărâre privind Regulamentul local de publicitate pentru amplasarea şi autorizarea mijloacelor de publicitate în municipiul Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 4,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2014/HCL%20nr.%2044%20din%2030.04.2014.pdf",
+     "sha256": "a75bc329487365c30d1614fc1715de901447482bb115e5d1983d7e33de264a79"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-50-2014",
+   "path": "local/arges/campulung/2014/50",
+   "short": "HCL Câmpulung nr. 50/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 50/2014 privind tariful pentru activitatea de canalizare – epurare Hotărâre privind tariful pentru activitatea de canalizare – epurare",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2014-05-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2014/HCL%20nr.%2050%20din%2030.05.2014.pdf",
+     "sha256": "339afbc893504ee078b8d09f20e06436978b65b9700d2d0591ea284b58aa79bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-73-2014",
+   "path": "local/arges/campulung/2014/73",
+   "short": "HCL Câmpulung nr. 73/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 73/2014 privind stabilirea unei taxe pentru înscrierea cererii de afişare a ofertelor de vânzare a terenurilor extravilane Hotărâre privind stabilirea unei taxe pentru înscrierea cererii de afişare a ofertelor de vânzare a terenurilor extravilane",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2014-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2014/HCL%20nr.%2073%20din%2030.06.2014.pdf",
+     "sha256": "ef2dfede2ebac4fab7174258802d35c0705c957ae6909775e7ed8b907d87c047"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-78-2014",
+   "path": "local/arges/campulung/2014/78",
+   "short": "HCL Câmpulung nr. 78/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 78/2014 privind instituirea unui tarif la Muzeul Municipal Câmpulung Hotărâre privind instituirea unui tarif la Muzeul Municipal Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2014-07-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2014/HCL%20nr.%2078%20din%2031.07.2014.pdf",
+     "sha256": "d2743fbbf9fabf5654197cc3a3ad9693da82fafe9ea4bf8fecf24822b952a47b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-8-2014",
+   "path": "local/arges/campulung/2014/8",
+   "short": "HCL Câmpulung nr. 8/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 8/2014 privind criteriile de performanţă pentru salarizarea directorului general al S.C",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2014/HCL%20nr.%208%20din%2027.02.2014.pdf",
+     "sha256": "25ea3582d5d9c3496ba52df46184d80a2c3676def2462f38a2cb503ddd374a4e"
+    }
+   ]
+  }
+ ]
+}

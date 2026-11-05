@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/judet/prahova/2016",
+"acts": [
+{
+"slug": "hcj-prahova-123-2016",
+"path": "local/judet/prahova/2016/123",
+"kind": "local",
+"year": "2016",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 123/2016 privind modificarea anexei la Hotararea nr. 72/2016 a Consiliului judetean Prahova referitoare la stabilirea preturilor medii ale produselor agricole si a pretului mediu al ierbii obtinuta de pe pajisti, pentru anul fiscal 2016",
+"short": "HCJ Prahova nr. 123/2016",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2016-08-31",
+"latest": "2016-08-31",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=3",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-prahova-187-2016",
+"path": "local/judet/prahova/2016/187",
+"kind": "local",
+"year": "2016",
+"number": "187",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 187/2016 privind stabilirea taxelor in domeniul constructiilor, aplicabile in anul fiscal 2017",
+"short": "HCJ Prahova nr. 187/2016",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2016-12-22",
+"latest": "2016-12-22",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

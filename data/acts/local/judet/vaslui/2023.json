@@ -3,6 +3,73 @@
 "shard": "local/judet/vaslui/2023",
 "acts": [
 {
+"slug": "hcj-vaslui-85-2023",
+"path": "local/judet/vaslui/2023/85",
+"kind": "local",
+"year": "2023",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 85/2023 privind aprobarea Metodologiei de evaluare, selecție și monitorizare a propunerilor de proiecte depuse în cadrul Programului județean pentru finanțarea nerambursabilă a activităților non-profit de interes local, precum și a Ghidurilor Solicitantului pentru domeniile cultură, culte, social, activități de tineret și sport 13 aprilie",
+"short": "HCJ Vaslui nr. 85/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-04-12",
+"latest": "2023-04-12",
+"portal": "https://cjvs.eu/hotarari-2023/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-vaslui-119-2023",
+"path": "local/judet/vaslui/2023/119",
+"kind": "local",
+"year": "2023",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 119/2023 pentru aprobarea contractării unui împrumut în valoare de 7.500.000 lei, în conformitate cu prevederile art.1 din Ordonanța de urgență a Guvernului nr.24/2023 privind unele măsuri fiscal-bugetare destinate acordării unor împrumuturi din Trezoreria Statului 03 iulie",
+"short": "HCJ Vaslui nr. 119/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-06-28",
+"latest": "2023-06-28",
+"portal": "https://cjvs.eu/hotarari-2023/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-vaslui-141-2023",
+"path": "local/judet/vaslui/2023/141",
+"kind": "local",
+"year": "2023",
+"number": "141",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 141/2023",
+"short": "HCJ Vaslui nr. 141/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-07-31",
+"latest": "2023-07-31",
+"portal": "https://cjvs.eu/hotarari-2023/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcj-vaslui-174-2023",
 "path": "local/judet/vaslui/2023/174",
 "kind": "local",

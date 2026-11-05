@@ -23,6 +23,116 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcj-bihor-133-2021",
+"path": "local/judet/bihor/2021/133",
+"kind": "local",
+"year": "2021",
+"number": "133",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bihor nr. 133/2021 PRIVIND APROBAREA REGULAMENTULUI DE ACORDARE A FINANȚĂRILOR NERAMBURSABILE CONFORM LEGII NR. 350/2005, DIN BUGETUL JUDEȚULUI BIHOR",
+"short": "HCJ Bihor nr. 133/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-06-30",
+"latest": "2021-06-30",
+"portal": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2021/",
+"council": "judet/bihor",
+"council_name": "Consiliul Județean Bihor",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-bihor-178-2021",
+"path": "local/judet/bihor/2021/178",
+"kind": "local",
+"year": "2021",
+"number": "178",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bihor nr. 178/2021 PENTRU APROBAREA REGULAMENTULUI DE ORGANIZARE ŞI FUNCŢIONARE AL SERVICIULUI PUBLIC DE ADĂPOSTIRE A ANIMALELOR AFLATE ÎN PERICOL PE RAZA JUDEŢULUI BIHOR, PENTRU CARE S-A EMIS UN ORDIN DE PLASARE ÎN ADĂPOST",
+"short": "HCJ Bihor nr. 178/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-08-23",
+"latest": "2021-08-23",
+"portal": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2021/",
+"council": "judet/bihor",
+"council_name": "Consiliul Județean Bihor",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-bihor-181-2021",
+"path": "local/judet/bihor/2021/181",
+"kind": "local",
+"year": "2021",
+"number": "181",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bihor nr. 181/2021 PRIVIND APROBAREA REZULTATULUI FINAL AL PROCEDURII DE SELECȚIE A ADMINISTRATORULUI SOCIETĂȚII PAZĂ ȘI PROTECȚIE BIHOR S.R.L",
+"short": "HCJ Bihor nr. 181/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-08-23",
+"latest": "2021-08-23",
+"portal": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2021/",
+"council": "judet/bihor",
+"council_name": "Consiliul Județean Bihor",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-bihor-183-2021",
+"path": "local/judet/bihor/2021/183",
+"kind": "local",
+"year": "2021",
+"number": "183",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bihor nr. 183/2021 PRIVIND MODIFICAREA ȘI COMPLETAREA HOTĂRÂRII NR. 122 DIN 2020 PRIVIND APROBAREA REGULAMENTULUI PENTRU EFECTUAREA SERVICIULUI PUBLIC DE TRANSPORT JUDEȚEAN DE PERSOANE PRIN CURSE REGULATE ÎN JUDEȚUL BIHOR, CAIETULUI DE SARCINI AL SERVICIULUI DE TRANSPORT PUBLIC JUDEȚ",
+"short": "HCJ Bihor nr. 183/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-08-23",
+"latest": "2021-08-23",
+"portal": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2021/",
+"council": "judet/bihor",
+"council_name": "Consiliul Județean Bihor",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-bihor-317-2021",
+"path": "local/judet/bihor/2021/317",
+"kind": "local",
+"year": "2021",
+"number": "317",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bihor nr. 317/2021 PRIVIND APROBAREA UNOR MODELE ORIENTATIVE DE ACTE ADMINISTRATIVE NECESARE IMPLEMENTĂRII MĂSURII DE GOSPODĂRIRE A LOCALITĂȚII PRECUM ȘI SANCȚIONAREA FAPTELOR DE ÎNCĂLCARE A NORMELOR PRIVIND BUNA GOSPODĂRIRE ȘI ÎNTREȚINERE A LOCALITĂȚILOR, DE CĂTRE CONSILIILE LOCALE",
+"short": "HCJ Bihor nr. 317/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-11-29",
+"latest": "2021-11-29",
+"portal": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2021/",
+"council": "judet/bihor",
+"council_name": "Consiliul Județean Bihor",
+"flags": {
+"text_pending": "ocr"
+}
 }
 ]
 }

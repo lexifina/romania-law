@@ -3,6 +3,201 @@
  "shard": "local/judet/bihor/2023",
  "acts": [
   {
+   "slug": "hcj-bihor-201-2023",
+   "path": "local/judet/bihor/2023/201",
+   "short": "HCJ Bihor nr. 201/2023",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 201/2023 PRIVIND APROBAREA NORMELOR SPECIFICE DE DESFĂȘURARE A ACTIVITĂȚII UNITĂȚII DE ACHIZIȚII PUBLICE CENTRALIZATE – UCA",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2021/02/h-201-din-27.07.2023_Redacted.pdf",
+     "sha256": "3ba32925c1e1d8f550751c6e05711127858cdcee8a41a741f9599f10f7a961fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-292-2023",
+   "path": "local/judet/bihor/2023/292",
+   "short": "HCJ Bihor nr. 292/2023",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 292/2023 PRIVIND APROBAREA ATRIBUIRII LICENȚELOR DE TRASEU PENTRU OPERATORUL DE TRANSPORT RUTIER SC TUR CENTO TRANS SRL A CĂRUI OFERTĂ A FOST STABILITĂ CÂȘTIGĂTOARE ÎN CADRUL PROCEDURII DE ATRIBUIRE DIRECTĂ A CONTRACTELOR DE DELEGARE A GESTIUNII SERVICIULUI PUBLIC DE TRANSPOR",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2021/02/h-292-din-29.09.2023_Redacted.pdf",
+     "sha256": "f0203fdcf7bdaae8800899b850b76e536fef0c3d18ef2be6aff10bbe8bfccbe7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-293-2023",
+   "path": "local/judet/bihor/2023/293",
+   "short": "HCJ Bihor nr. 293/2023",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 293/2023 PRIVIND APROBAREA ATRIBUIRII LICENȚELOR DE TRASEU PENTRU OPERATORUL DE TRANSPORT RUTIER SC DORYCOR TOURS SRL A CĂRUI OFERTĂ A FOST STABILITĂ CÂȘTIGĂTOARE ÎN CADRUL PROCEDURII DE ATRIBUIRE DIRECTĂ A CONTRACTELOR DE DELEGARE A GESTIUNII SERVICIULUI PUBLIC DE TRANSPORT",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2021/02/h-293-din-29.09.2023_Redacted.pdf",
+     "sha256": "357a9253e1717c511a551996f4440e232ea7272a4a6dce3a4afb57cc7426afbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-294-2023",
+   "path": "local/judet/bihor/2023/294",
+   "short": "HCJ Bihor nr. 294/2023",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 294/2023 PRIVIND APROBAREA ATRIBUIRII LICENȚELOR DE TRASEU PENTRU OPERATORUL DE TRANSPORT RUTIER SC ROMSORELIA SRL A CĂRUI OFERTĂ A FOST STABILITĂ CÂȘTIGĂTOARE ÎN CADRUL PROCEDURII DE ATRIBUIRE DIRECTĂ A CONTRACTELOR DE DELEGARE A GESTIUNII SERVICIULUI PUBLIC DE TRANSPORT PER",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2021/02/h-294-din-29.09.2023_Redacted.pdf",
+     "sha256": "504db3718d18a11972735d2eff633b9982e3945ac0f1faf24708aea1c115bca0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-295-2023",
+   "path": "local/judet/bihor/2023/295",
+   "short": "HCJ Bihor nr. 295/2023",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 295/2023 PRIVIND APROBAREA ATRIBUIRII LICENȚELOR DE TRASEU PENTRU OPERATORUL DE TRANSPORT RUTIER SC TESAN PREST SRL A CĂRUI OFERTĂ A FOST STABILITĂ CÂȘTIGĂTOARE ÎN CADRUL PROCEDURII DE ATRIBUIRE DIRECTĂ A CONTRACTELOR DE DELEGARE A GESTIUNII SERVICIULUI PUBLIC DE TRANSPORT PE",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2021/02/h-295-din-29.09.2023_Redacted.pdf",
+     "sha256": "b3d1a7158ffdf67ffdd941567336d4b7ff980841b31844130a5e4cd94f0cacee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-297-2023",
+   "path": "local/judet/bihor/2023/297",
+   "short": "HCJ Bihor nr. 297/2023",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 297/2023 PRIVIND APROBAREA ATRIBUIRII LICENȚELOR DE TRASEU PENTRU OPERATORUL DE TRANSPORT RUTIER SC CSORDAS TRANS SRL A CĂRUI OFERTĂ A FOST STABILITĂ CÂȘTIGĂTOARE ÎN CADRUL PROCEDURII DE ATRIBUIRE DIRECTĂ A CONTRACTELOR DE DELEGARE A GESTIUNII SERVICIULUI PUBLIC DE TRANSPORT",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2021/02/h-297-din-29.09.2023_Redacted.pdf",
+     "sha256": "540e8a85de8222b3aae495a83d07adaa5f8522316cb83f28d1923bb505f82f82"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-298-2023",
+   "path": "local/judet/bihor/2023/298",
+   "short": "HCJ Bihor nr. 298/2023",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 298/2023 PRIVIND APROBAREA ATRIBUIRII LICENȚELOR DE TRASEU PENTRU OPERATORUL DE TRANSPORT RUTIER SC K&E COMTRANS SRL A CĂRUI OFERTĂ A FOST STABILITĂ CÂȘTIGĂTOARE ÎN CADRUL PROCEDURII DE ATRIBUIRE DIRECTĂ A CONTRACTELOR DE DELEGARE A GESTIUNII SERVICIULUI PUBLIC DE TRANSPORT P",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2021/02/h-298-din-29.09.2023_Redacted.pdf",
+     "sha256": "ce7e62a9de321f6e30f07ed91ab962a513bf2e14087ebf1cab5a634f21e5082e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-299-2023",
+   "path": "local/judet/bihor/2023/299",
+   "short": "HCJ Bihor nr. 299/2023",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 299/2023 PRIVIND APROBAREA ATRIBUIRII LICENȚELOR DE TRASEU PENTRU OPERATORUL DE TRANSPORT RUTIER SC TUR CENTO TRANS SRL A CĂRUI OFERTĂ A FOST STABILITĂ CÂȘTIGĂTOARE ÎN CADRUL PROCEDURII DE ATRIBUIRE DIRECTĂ A CONTRACTELOR DE DELEGARE A GESTIUNII SERVICIULUI PUBLIC DE TRANSPOR",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2021/02/h-299-din-29.09.2023_Redacted.pdf",
+     "sha256": "4e81ea19967c63fcc8d86865debead02ce8acc0f22c45b08b4895884ab6f349d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-300-2023",
+   "path": "local/judet/bihor/2023/300",
+   "short": "HCJ Bihor nr. 300/2023",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 300/2023 PRIVIND APROBAREA ATRIBUIRII LICENȚELOR DE TRASEU PENTRU OPERATORUL DE TRANSPORT RUTIER SC OMNITRANS SA A CĂRUI OFERTĂ A FOST STABILITĂ CÂȘTIGĂTOARE ÎN CADRUL PROCEDURII DE ATRIBUIRE DIRECTĂ A CONTRACTELOR DE DELEGARE A GESTIUNII SERVICIULUI PUBLIC DE TRANSPORT PERSO",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2021/02/h-300-din-29.09.2023_Redacted.pdf",
+     "sha256": "1eedb2b7ccb21b2696fe43ce2e7a6dba30ee657b074691fdfc1664d5e4bb846d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-301-2023",
+   "path": "local/judet/bihor/2023/301",
+   "short": "HCJ Bihor nr. 301/2023",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 301/2023 PRIVIND APROBAREA ATRIBUIRII LICENȚELOR DE TRASEU PENTRU OPERATORUL DE TRANSPORT RUTIER SC PUPNICOL TRANS SRL A CĂRUI OFERTĂ A FOST STABILITĂ CÂȘTIGĂTOARE ÎN CADRUL PROCEDURII DE ATRIBUIRE DIRECTĂ A CONTRACTELOR DE DELEGARE A GESTIUNII SERVICIULUI PUBLIC DE TRANSPORT",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2021/02/h-301-din-29.09.2023_Redacted.pdf",
+     "sha256": "2a0eb243ed2de2583b892121aa5558b12611678b348367ecb0e3f84c7b9cfe7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-302-2023",
+   "path": "local/judet/bihor/2023/302",
+   "short": "HCJ Bihor nr. 302/2023",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 302/2023 PRIVIND APROBAREA ATRIBUIRII LICENȚELOR DE TRASEU PENTRU OPERATORUL DE TRANSPORT RUTIER SC TRANSALEȘD SA A CĂRUI OFERTĂ A FOST STABILITĂ CÂȘTIGĂTOARE ÎN CADRUL PROCEDURII DE ATRIBUIRE DIRECTĂ A CONTRACTELOR DE DELEGARE A GESTIUNII SERVICIULUI PUBLIC DE TRANSPORT PERS",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2021/02/h-302-din-29.09.2023_Redacted.pdf",
+     "sha256": "dfb9e44e412019ed08b7bbb57ed3fa7b8cfeed0e2f8febd13f198766d5a6bf2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-303-2023",
+   "path": "local/judet/bihor/2023/303",
+   "short": "HCJ Bihor nr. 303/2023",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 303/2023 PRIVIND APROBAREA TARIFELOR PRACTICATE DE OPERATORII DE TRANSPORT DECLARAȚI CÂȘTIGĂTORI AI PROCEDURII DE ATRIBUIRE DIRECTĂ A CONTRACTELOR DE DELEGARE A GESTIUNII SERVICIULUI PUBLIC DE TRANSPORT PERSOANE PRIN CURSE REGULATE, PÂNĂ LA FINALIZAREA PROCEDURILOR DE ATRIBUI",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2021/02/h-303-din-29.09.2023_Redacted.pdf",
+     "sha256": "56f0c2117870dac84664bc0932ee9e71533a785ecfb99cffcf621eb130a4797e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-376-2023",
+   "path": "local/judet/bihor/2023/376",
+   "short": "HCJ Bihor nr. 376/2023",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 376/2023 PRIVIND IMPUNEREA UNEI OBLIGAȚII DE SERVICIU PUBLIC ÎN CEEA CE PRIVEȘTE SERVICIILE AERIENE REGULATE ÎNTRE AEROPORTUL DIN ORADEA ȘI AEROPORTURILE DIN VARȘOVIA, CONFORM ART. 16 ȘI ART. 17 DIN REGULAMENTUL (CE) NR. 1008/2008",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-12-06",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2023/12/h-376-din-06.12.2023_Redacted.pdf",
+     "sha256": "55ee3d60ae5d1c931af787e63e9716cfa65c1c7462e3a920b1ea73f3b7948172"
+    }
+   ]
+  },
+  {
    "slug": "hcj-bihor-407-2023",
    "path": "local/judet/bihor/2023/407",
    "short": "HCJ Bihor nr. 407/2023",
@@ -209,6 +404,36 @@
      "units": 1,
      "source_url": "https://www.cjbihor.ro/wp-content/uploads/2021/02/h-422-din-27.12.2023_Redacted.pdf",
      "sha256": "31bc1b0243e2df9f0dc14f61295a5b06c59513c469405e2a9639605633fd72b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-84-2023",
+   "path": "local/judet/bihor/2023/84",
+   "short": "HCJ Bihor nr. 84/2023",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 84/2023 PRIVIND APROBAREA TARIFELOR PRACTICATE DE OPERATORII DE TRANSPORT DECLARAȚI CÂȘTIGĂTORI AI PROCEDURII DE ATRIBUIRE A SERVICIULUI PUBLIC DE TRANSPORT JUDEȚEAN PRIN CURSE REGULATE LA NIVELUL JUDEȚULUI BIHOR",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2021/02/h-84-din-30.03.2023_Redacted.pdf",
+     "sha256": "aecb9f4b9f348a5ade5108582876360a0b4b720948cc9daea3d1b279e76826a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-92-2023",
+   "path": "local/judet/bihor/2023/92",
+   "short": "HCJ Bihor nr. 92/2023",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 92/2023 PRIVIND APROBAREA PROCEDURII DE ACORDARE A UNEI COFINANȚĂRI, UNITĂȚILOR ADMINISTRATIV-TERITORIALE DIN JUDEȚ, ÎN SCOPUL STOPĂRII ÎNMULȚIRII NECONTROLATE A CÂINILOR CU STĂPÂN ÎN JUDEȚUL BIHOR, ÎN ANUL 2023",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2021/02/h-92-din-30.03.2023_Redacted.pdf",
+     "sha256": "0f42cf6a781bec82cd3eac5a21e35361f9b825fb78b17a7705b5a7cba18d5bea"
     }
    ]
   }

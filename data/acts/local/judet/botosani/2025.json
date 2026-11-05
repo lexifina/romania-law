@@ -114,6 +114,50 @@
 }
 },
 {
+"slug": "hcj-botosani-7-2025",
+"path": "local/judet/botosani/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 7/2025 privind aprobarea preţurilor medii ale produselor agricole pentru anul 2025",
+"short": "HCJ Botoșani nr. 7/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-01-29",
+"latest": "2025-01-29",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-botosani-83-2025",
+"path": "local/judet/botosani/2025/83",
+"kind": "local",
+"year": "2025",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 83/2025 privind însuşirea Planului Strategic al Autorităţii Teritoriale de Ordine Publică Botoşani pe anul 2025",
+"short": "HCJ Botoșani nr. 83/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-03-21",
+"latest": "2025-03-21",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "hcj-botosani-141-2025",
 "path": "local/judet/botosani/2025/141",
 "kind": "local",
@@ -129,6 +173,28 @@
 "from": "2025-06-27",
 "latest": "2025-06-27",
 "portal": "https://www.cjbotosani.ro/monitorul-oficial/alte-documente/informari-proiecte-de-hotarari-cu-caracter-normativ/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcj-botosani-147-2025",
+"path": "local/judet/botosani/2025/147",
+"kind": "local",
+"year": "2025",
+"number": "147",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 147/2025 privind aprobarea taxelor școlare pentru elevii Școlii Populare de Arte „George Enescu” Botoșani, pe anul școlar 2025 - 2026",
+"short": "HCJ Botoșani nr. 147/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-06-27",
+"latest": "2025-06-27",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
 "council": "judet/botosani",
 "council_name": "Consiliul Județean Botoșani",
 "flags": {
@@ -266,6 +332,28 @@
 "council_name": "Consiliul Județean Botoșani",
 "flags": {
 "text_pending": "review"
+}
+},
+{
+"slug": "hcj-botosani-249-2025",
+"path": "local/judet/botosani/2025/249",
+"kind": "local",
+"year": "2025",
+"number": "249",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 249/2025 privind aprobarea preţurilor medii ale produselor agricole pentru anul 2026",
+"short": "HCJ Botoșani nr. 249/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-12-19",
+"latest": "2025-12-19",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_withheld": "personal_data"
 }
 }
 ]

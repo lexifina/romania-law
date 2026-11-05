@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/judet/teleorman/2019",
+"acts": [
+{
+"slug": "hcj-teleorman-150-2019",
+"path": "local/judet/teleorman/2019/150",
+"kind": "local",
+"year": "2019",
+"number": "150",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Teleorman nr. 150/2019 pentru echilibrarea bugetelor locale şi din cota de 18,5 % din impozitul pe venit, precum şi a sumelor reţinute ca urmare a diminuării cu gradul de necolectare a veniturilor proprii pe anul 2020 şi estimările pentru anii 2021-2023",
+"short": "HCJ Teleorman nr. 150/2019",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2019-10-17",
+"latest": "2019-10-17",
+"portal": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+"council": "judet/teleorman",
+"council_name": "Consiliul Județean Teleorman",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-teleorman-165-2019",
+"path": "local/judet/teleorman/2019/165",
+"kind": "local",
+"year": "2019",
+"number": "165",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Teleorman nr. 165/2019 pentru eliberarea licenţelor de traseu şi al taxei pentru inlocuirea licenţelor de traseu pentru transportul rutier judeţean de persoane efectuat cu autobuze prin servicii regulate",
+"short": "HCJ Teleorman nr. 165/2019",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2019-11-28",
+"latest": "2019-11-28",
+"portal": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+"council": "judet/teleorman",
+"council_name": "Consiliul Județean Teleorman",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-teleorman-169-2019",
+"path": "local/judet/teleorman/2019/169",
+"kind": "local",
+"year": "2019",
+"number": "169",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Teleorman nr. 169/2019 privind aprobarea tarifelor de utilizare a zonei drumurilor județene și a tarifelor suplimentare de utilizare a drumurilor de interes județean din județul Teleorman, precum și a tarifelor pentru eliberarea licențelor de traseu pentru serviciile de transport public județean de persoane prin curse regulate speciale și acordarea autorizațiilor de transport",
+"short": "HCJ Teleorman nr. 169/2019",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2019-11-28",
+"latest": "2019-11-28",
+"portal": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202019.htm",
+"council": "judet/teleorman",
+"council_name": "Consiliul Județean Teleorman",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

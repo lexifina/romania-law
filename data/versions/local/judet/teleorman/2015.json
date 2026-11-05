@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/judet/teleorman/2015",
+ "acts": [
+  {
+   "slug": "hcj-teleorman-148-2015",
+   "path": "local/judet/teleorman/2015/148",
+   "short": "HCJ Teleorman nr. 148/2015",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 148/2015 pentru echilibrarea bugetelor locale ºi a cotei de 20% din cota de 18,5 % din impozitul pe venit, precum ºi sumele reþinute ca urmare a diminuãrii cu gradul de necolectare a veniturilor proprii, pe anul 2016 ºi estimãri pentru anii 2017 -2019",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202015.htm",
+   "versions": [
+    {
+     "from": "2015-10-08",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202015/148.pdf",
+     "sha256": "c9f46b1d7f2e397f7039dfe34d8d22f6dbf1b7fc71c858d39e433c833ba8af64"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-177-2015",
+   "path": "local/judet/teleorman/2015/177",
+   "short": "HCJ Teleorman nr. 177/2015",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 177/2015 pentru peri oada 2014-2019. unui operator de transport rutier, precum şi a tarifului utili zat de aces ta",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202015.htm",
+   "versions": [
+    {
+     "from": "2015-12-22",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202015/177.pdf",
+     "sha256": "d124417ec387057b5eaad437facba4981291f63e7f1f4f1a4467edb1f8f0fd61"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-58-2015",
+   "path": "local/judet/teleorman/2015/58",
+   "short": "HCJ Teleorman nr. 58/2015",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 58/2015 pentru perioada 2014-2019, unui operator de transport rutier, precum si a tarifului utilizat de acesta",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202015.htm",
+   "versions": [
+    {
+     "from": "2015-04-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202015/58.pdf",
+     "sha256": "4c36f9f328cdc0baf7aabd528d20fd542ebac916d11db0d5e5045526046c6b85"
+    }
+   ]
+  }
+ ]
+}

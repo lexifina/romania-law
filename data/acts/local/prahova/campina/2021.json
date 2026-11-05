@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/prahova/campina/2021",
+"acts": [
+{
+"slug": "hcl-prahova--campina-47-2021",
+"path": "local/prahova/campina/2021/47",
+"kind": "local",
+"year": "2021",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 47/2021 privind aprobarea Planului Urbanistic Zonal ,,P.U.Z intravilan (S=2078,00 mp) si schimbare destina(ie teren din sul compusa din institutii sj servicii, locuin{e individuale cu regim continuu sJ discontinuu, spafii verzi amenajate, sport si agrement in zoh^inixta servicii sJ industrie nepoluanta, subzona spafii verzi de protec{ie, paduri si planta{ii forestiere si subzona cai de comunica{ie rutiera",
+"short": "HCL Câmpina nr. 47/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2021/",
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-prahova--campina-190-2021",
+"path": "local/prahova/campina/2021/190",
+"kind": "local",
+"year": "2021",
+"number": "190",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 190/2021 privind stabilirea impozitelor $i taxeIor locaIe in Municipiul Campina, pentru anuI fiscal 2022 Avand in vedere Referatul de aprobare nr.45.690/3 noiembrie 2021 al d-lui Ioan-Alin Moldoveanu - Primarul Municipiului Campina, prin care se propune stabilirea impozitelor $i taxelor locale in Municipiul Campina, pentru anul fiscal 2022; Tinand seama de: - raportul inregistrat sub nr.45.693/3 noiembrie",
+"short": "HCL Câmpina nr. 190/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-12-23",
+"latest": "2021-12-23",
+"portal": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2021/",
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

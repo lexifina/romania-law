@@ -1,0 +1,186 @@
+{
+ "country": "RO",
+ "shard": "local/judet/salaj/2018",
+ "acts": [
+  {
+   "slug": "hcj-salaj-108-2018",
+   "path": "local/judet/salaj/2018/108",
+   "short": "HCJ Sălaj nr. 108/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 108/2018 pentru modificarea Anexei nr. 5 la Hotărârea Consiliului Judeţean Sălaj nr. 147 din 21 decembrie 2017 privind stabilirea taxelor și tarifelor de competența Consiliului Județean Sălaj, pentru anul 2018",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-08-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1082018.pdf",
+     "sha256": "a12514308317e6cefea6d6d1e3c3c17bdd77c317db516bf3a3e9425d30d73f8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-109-2018",
+   "path": "local/judet/salaj/2018/109",
+   "short": "HCJ Sălaj nr. 109/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 109/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-08-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1092018.pdf",
+     "sha256": "1c6434b6e45643c8b24433f3261b6658dea0ac383e02c1240b612cd1ccb0e096"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-122-2018",
+   "path": "local/judet/salaj/2018/122",
+   "short": "HCJ Sălaj nr. 122/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 122/2018 privind aprobarea Regulamentului de acordare a stimulentelor financiare, elevilor care au obţinut distincţii, medalii şi premii speciale la etapele judeţene ale competiţiilor şcolare şi cadrelor didactice care s-au ocupat de pregătirea acestora",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-09-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1222018.pdf",
+     "sha256": "5f9fd49bd5bb2f44ca22e0438e43339dee2a6dec45324e98b0d3ac7c34fe368f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-129-2018",
+   "path": "local/judet/salaj/2018/129",
+   "short": "HCJ Sălaj nr. 129/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 129/2018 pentru modificarea Anexei la Hotărârea Consiliului Judeţean nr. 41 din 27 aprilie 2018 privind aprobarea regulamentului pentru finanţarea programelor sportive ale cluburilor sportive de drept privat înfiinţate pe raza unităţii administrativ-teritoriale, const",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-09-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1292018.pdf",
+     "sha256": "f76d7ac616785639106dcbd95991a7146abb515105b2c432fe459c08b5f002b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-141-2018",
+   "path": "local/judet/salaj/2018/141",
+   "short": "HCJ Sălaj nr. 141/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 141/2018 pentru modificarea și completarea Hotărârii Consiliului Judeţean Sălaj nr.40 din 27 aprilie 2018 privind aprobarea Regulamentelor de organizare şi funcţionare ale aparatului de specialitate și ale serviciilor sociale furnizate de către Direcţia Generală de Asi",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-10-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1412018.pdf",
+     "sha256": "98c331f777aca86e8240ddf4342eb8d67be7825e1d8661cd1806637f9889bd52"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-156-2018",
+   "path": "local/judet/salaj/2018/156",
+   "short": "HCJ Sălaj nr. 156/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 156/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-12-21",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1562018.pdf",
+     "sha256": "b89282c80bff5839c73f92a5256884feb74512fa2f9e4108a97d8f34b76cb7d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-158-2018",
+   "path": "local/judet/salaj/2018/158",
+   "short": "HCJ Sălaj nr. 158/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 158/2018 privind stabilirea taxelor şi tarifelor de competenţa Consiliului Judeţean Sălaj, pentru anul 2019",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-12-21",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot1582018.pdf",
+     "sha256": "95de1f1b7a38a8927e38bc15066d6d83b2a89bb591601e198306a2d7540b3ce1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-39-2018",
+   "path": "local/judet/salaj/2018/39",
+   "short": "HCJ Sălaj nr. 39/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 39/2018 privind aprobarea Regulamentului de organizare şi funcţionare al aparatului de specialitate al Consiliului Județean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot392018.pdf",
+     "sha256": "7538ead28aec3bd13bc43e661dec583620ddf7a2bc815352d139e6bdeae77116"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-40-2018",
+   "path": "local/judet/salaj/2018/40",
+   "short": "HCJ Sălaj nr. 40/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 40/2018 privind aprobarea Regulamentului de organizare şi funcţionare al aparatului de specialitate şi ale serviciilor sociale furnizate de către Direcţia Generală de Asistenţă Socială şi Protecţia Copilului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot402018.pdf",
+     "sha256": "9cbc785b7ce0c72a30c4451ed10fdb5a218d9254e815e91cf961fce5e1def368"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-41-2018",
+   "path": "local/judet/salaj/2018/41",
+   "short": "HCJ Sălaj nr. 41/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 41/2018 privind aprobarea regulamentului pentru finanţarea programelor sportive ale cluburilor sportive de drept privat înfiinţate pe raza unităţii administrativ-teritoriale, constituite ca persoane juridice fără scop patrimonial, deţinătoare ale certificatului de identi",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot412018.pdf",
+     "sha256": "68ddecd44f4944a55e5dcb1e5ff3ed4437150eb10789969f0a4f9a9dfb9407f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-74-2018",
+   "path": "local/judet/salaj/2018/74",
+   "short": "HCJ Sălaj nr. 74/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 74/2018 privind aprobarea taxelor și tarifelor în cadrul campaniei de promovare Transylvania All Inclusive, pe anul 2018",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-06-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot742018.pdf",
+     "sha256": "33ed139d02a34c9c72bb7e990211ca1e9208102f0ac0fca1a076969baed24b2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-92-2018",
+   "path": "local/judet/salaj/2018/92",
+   "short": "HCJ Sălaj nr. 92/2018",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 92/2018 pentru modificarea şi completarea Hotărârii Consiliului Judeţean nr. 40 din 29 martie 2016 privind aprobarea Regulamentului serviciului de administrare a domeniului public şi privat al judeţului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=96:hotarari-2018&catid=2",
+   "versions": [
+    {
+     "from": "2018-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2018/hot922018.pdf",
+     "sha256": "b3e7f65f924e9b457484d3da7d6b43a5cefb2a6794d23988d206f87ab566c614"
+    }
+   ]
+  }
+ ]
+}

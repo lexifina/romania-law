@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/mehedinti/drobeta-turnu-severin/2025",
+"acts": [
+{
+"slug": "hcl-mehedinti--drobeta-turnu-severin-130-2025",
+"path": "local/mehedinti/drobeta-turnu-severin/2025/130",
+"kind": "local",
+"year": "2025",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 130/2025 privind modificarea organigramei și a ștatelor de funcții din cadrul Creșei Drobeta Turnu Severin",
+"short": "HCL Drobeta-Turnu Severin nr. 130/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-06-04",
+"latest": "2025-06-04",
+"portal": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/208931",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-mehedinti--drobeta-turnu-severin-212-2025",
+"path": "local/mehedinti/drobeta-turnu-severin/2025/212",
+"kind": "local",
+"year": "2025",
+"number": "212",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 212/2025 privind aprobarea casării mijloacelor fixe aparținând instituțiilor de învățământ Colegiul Național \"Traian\" și Colegiul Național Economic \"Theodor Costescu\"",
+"short": "HCL Drobeta-Turnu Severin nr. 212/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-11-06",
+"latest": "2025-11-06",
+"portal": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/227053",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-mehedinti--drobeta-turnu-severin-288-2025",
+"path": "local/mehedinti/drobeta-turnu-severin/2025/288",
+"kind": "local",
+"year": "2025",
+"number": "288",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 288/2025 privind aprobarea casării mijloacelor fixe aparținând unor unități de învățământ preuniversitar de stat",
+"short": "HCL Drobeta-Turnu Severin nr. 288/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-12-19",
+"latest": "2025-12-19",
+"portal": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/241056",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

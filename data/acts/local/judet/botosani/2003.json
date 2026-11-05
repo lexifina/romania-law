@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/judet/botosani/2003",
+"acts": [
+{
+"slug": "hcj-botosani-10-2003",
+"path": "local/judet/botosani/2003/10",
+"kind": "local",
+"year": "2003",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 10/2003 privind aprobarea preturilor medii ale produselor agricole pentru anul 2012",
+"short": "HCJ Botoșani nr. 10/2003",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2003-05-12",
+"latest": "2003-05-12",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-15-2003",
+"path": "local/judet/botosani/2003/15",
+"kind": "local",
+"year": "2003",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 15/2003 privind însuşirea Planului Strategic al Autorităţii Teritoriale de Ordine Publică Botoşani pe anul 2019",
+"short": "HCJ Botoșani nr. 15/2003",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2003-04-19",
+"latest": "2003-04-19",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-84-2003",
+"path": "local/judet/botosani/2003/84",
+"kind": "local",
+"year": "2003",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 84/2003 privind infiintarea activitatii economice de alimentatie pentru turism, cazare si prestari servicii specifice la Pensiunea \"Floare albastra\" de pe langa Memorialul \"Mihai Eminescu\" Ipotesti si aprobarea tarifelor de cazare pentru serviciile specifice",
+"short": "HCJ Botoșani nr. 84/2003",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2003-08-25",
+"latest": "2003-08-25",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

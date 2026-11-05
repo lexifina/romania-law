@@ -226,6 +226,81 @@
      "sha256": "31555ce66ba60ebc05ceb8052eb299234a9e3fb149e979291d5bcf955ddb0a4d"
     }
    ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-15-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/15",
+   "short": "HCL Câmpulung Moldovenesc nr. 15/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 15/2014",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2014",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_015_2014.pdf",
+     "sha256": "88e7a4c4d676a7f1c98ef504dc52b9cc8fcc6705e8cc980d357305261056cd49"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-34-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/34",
+   "short": "HCL Câmpulung Moldovenesc nr. 34/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 34/2014 cu privire la aprobarea cererilor de înlesnire la plata impozitelor, taxelor și a unor majorãri de întârziere Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 28 aprilie 2014; Având în vedere: -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 7629/2014; -Raportul Direcției economice, înregistrat la nr. 7630/2014; -Rapor",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2014",
+   "versions": [
+    {
+     "from": "2014-04-28",
+     "units": 3,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_034_2014.pdf",
+     "sha256": "d91b4002b2cdb6bd4e3bd50ffe1bd3d638ba7c5e2f819526abf76dddc28eeec7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-52-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/52",
+   "short": "HCL Câmpulung Moldovenesc nr. 52/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 52/2014 pentru aprobarea Regulamentului privind amplasarea și funcționarea teraselor sezoniere în municipiul Câmpulung Moldovenesc Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 26 iunie 2014; Având în vedere: - Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 11912 din 18.06.2014; - Raportul Direcției tehnice și urbanism din",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2014",
+   "versions": [
+    {
+     "from": "2014-06-26",
+     "units": 7,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_052_2014.pdf",
+     "sha256": "db20475def8a2e455e245ce8059b7810ae062d912ca9155f03e8680c16bf962d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-75-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/75",
+   "short": "HCL Câmpulung Moldovenesc nr. 75/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 75/2014 cu privire la aprobarea Schemei de ajutor de minimis, reprezentând scutiri de la plata majorărilor de întârziere și a penalităților aferente impozitelor și taxelor locale, chiriilor, redevențelor și altor obligații la bugetul municipiului Câmpulung Moldovenesc, datorate de persoanele juridice Consiliul Local al municipiului Câmpulung Moldovenesc întrunit în ședința ordinară din 25 septembrie 2014",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2014",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_075_2014.pdf",
+     "sha256": "02b0f1616b6e90371c6361f46b770debbff9f95d0ce31968c5a042d59501aa3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-79-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/79",
+   "short": "HCL Câmpulung Moldovenesc nr. 79/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 79/2014 pentru constituirea Comisiei tehnice de amenajare a teritoriului și urbanism și aprobarea Regulamentului de funcționare a Comisiei tehnice de amenajare a teritoriului și urbanism a Municipiului Câmpulung Moldovenesc Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 25 septembrie 2014; Având în vedere: -Expunerea de motive a primarului municipiului Câmpulung Mo",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2014",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 4,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_079_2014.pdf",
+     "sha256": "b3dbb6cadf595c86ffb8092a9b9910a6f1b3f5d70a40f57816583913335fae4e"
+    }
+   ]
   }
  ]
 }

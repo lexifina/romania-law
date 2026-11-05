@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/judet/botosani/2003",
+ "acts": [
+  {
+   "slug": "hcj-botosani-10-2003",
+   "path": "local/judet/botosani/2003/10",
+   "short": "HCJ Botoșani nr. 10/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 10/2003 privind aprobarea preturilor medii ale produselor agricole pentru anul 2012",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2003-05-12",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h010_29.02.2012.pdf",
+     "sha256": "3427a913c803c98f8c6b952280c5519be4bf4552c8143096f718364d4478cc88"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-15-2003",
+   "path": "local/judet/botosani/2003/15",
+   "short": "HCJ Botoșani nr. 15/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 15/2003 privind însuşirea Planului Strategic al Autorităţii Teritoriale de Ordine Publică Botoşani pe anul 2019",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2003-04-19",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h015_28.02.2019.pdf",
+     "sha256": "fa10a41f6590ca02e73aa6e600d5ea9c9cb162488e1465a53df3ef13adfc820d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-84-2003",
+   "path": "local/judet/botosani/2003/84",
+   "short": "HCJ Botoșani nr. 84/2003",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 84/2003 privind infiintarea activitatii economice de alimentatie pentru turism, cazare si prestari servicii specifice la Pensiunea \"Floare albastra\" de pe langa Memorialul \"Mihai Eminescu\" Ipotesti si aprobarea tarifelor de cazare pentru serviciile specifice",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2003-08-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/84.pdf",
+     "sha256": "aefd0df9b44047eae174bf8899b2d28ce2ebd63a8fd40731830f9dfbdc6f061c"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,232 @@
+{
+"country": "RO",
+"shard": "local/judet/salaj/2021",
+"acts": [
+{
+"slug": "hcj-salaj-36-2021",
+"path": "local/judet/salaj/2021/36",
+"kind": "local",
+"year": "2021",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 36/2021 privind aprobarea Regulamentului de organizare şi funcţionare al aparatului de specialitate al Consiliului Judeţean Sălaj",
+"short": "HCJ Sălaj nr. 36/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-03-26",
+"latest": "2021-03-26",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=93:hotarari-2021&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcj-salaj-38-2021",
+"path": "local/judet/salaj/2021/38",
+"kind": "local",
+"year": "2021",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 38/2021",
+"short": "HCJ Sălaj nr. 38/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-03-26",
+"latest": "2021-03-26",
+"portal": null,
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"title_withheld": "personal_data",
+"annex_missing": true,
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcj-salaj-77-2021",
+"path": "local/judet/salaj/2021/77",
+"kind": "local",
+"year": "2021",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 77/2021 privind aprobarea regulamentului pentru finanțarea programelor sportive ale asociațiilor județene pe ramură sportivă afiliate la federațiile sportive corespondente, constituite ca persoane juridice de drept privat fără scop lucrativ",
+"short": "HCJ Sălaj nr. 77/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-06-30",
+"latest": "2021-06-30",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=93:hotarari-2021&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"annex_missing": true,
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcj-salaj-127-2021",
+"path": "local/judet/salaj/2021/127",
+"kind": "local",
+"year": "2021",
+"number": "127",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 127/2021 privind aprobarea contractării unui împrumut în valoare de 10.000.000 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 83/2021 pentru unele măsuri fiscal-bugetare privind acordarea unor împrumuturi din Trezoreria Statului",
+"short": "HCJ Sălaj nr. 127/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-08-27",
+"latest": "2021-08-27",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=93:hotarari-2021&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcj-salaj-133-2021",
+"path": "local/judet/salaj/2021/133",
+"kind": "local",
+"year": "2021",
+"number": "133",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 133/2021 privind aprobarea regulamentului privind premierea sportivilor sălăjeni care au obținut performanțe deosebite la competițiile sportive naționale și internaționale precum și a antrenorilor acestora",
+"short": "HCJ Sălaj nr. 133/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=93:hotarari-2021&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcj-salaj-161-2021",
+"path": "local/judet/salaj/2021/161",
+"kind": "local",
+"year": "2021",
+"number": "161",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 161/2021 privind aprobarea regulamentului pentru acordarea sumelor destinate acoperirii cheltuielilor de transport şi cazare ale adoptatorului/familiei adoptatoare în vederea participării la procedura potrivirii practice cu un copil având domiciliul în alt judeţ",
+"short": "HCJ Sălaj nr. 161/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-10-27",
+"latest": "2021-10-27",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=93:hotarari-2021&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcj-salaj-162-2021",
+"path": "local/judet/salaj/2021/162",
+"kind": "local",
+"year": "2021",
+"number": "162",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 162/2021 privind modificarea tarifelor aplicabile serviciului public de salubrizare al Judeţului Sălaj, începând cu 01.01.2022",
+"short": "HCJ Sălaj nr. 162/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-10-27",
+"latest": "2021-10-27",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=93:hotarari-2021&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcj-salaj-183-2021",
+"path": "local/judet/salaj/2021/183",
+"kind": "local",
+"year": "2021",
+"number": "183",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 183/2021 privind stabilirea taxelor şi tarifelor de competenţa Consiliului Judeţean Sălaj, pentru anul 2022",
+"short": "HCJ Sălaj nr. 183/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-29",
+"latest": "2021-12-29",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=93:hotarari-2021&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"annex_missing": true,
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcj-salaj-185-2021",
+"path": "local/judet/salaj/2021/185",
+"kind": "local",
+"year": "2021",
+"number": "185",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 185/2021",
+"short": "HCJ Sălaj nr. 185/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-29",
+"latest": "2021-12-29",
+"portal": null,
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"title_withheld": "personal_data",
+"annex_missing": true,
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcj-salaj-186-2021",
+"path": "local/judet/salaj/2021/186",
+"kind": "local",
+"year": "2021",
+"number": "186",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 186/2021 privind aprobarea Regulamentului privind amplasarea construcțiilor, instalațiilor și panourilor publicitare în zona drumurilor județene, pe poduri și pasaje",
+"short": "HCJ Sălaj nr. 186/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-29",
+"latest": "2021-12-29",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=93:hotarari-2021&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

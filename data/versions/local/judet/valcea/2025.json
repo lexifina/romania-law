@@ -3,6 +3,21 @@
  "shard": "local/judet/valcea/2025",
  "acts": [
   {
+   "slug": "hcj-valcea-140-2025",
+   "path": "local/judet/valcea/2025/140",
+   "short": "HCJ Vâlcea nr. 140/2025",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 140/2025 privind indexarea taxelor locale ce se vor încasa în anul 2026 în bugetul propriu al Județului Vâlcea Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2025-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/images/sedinte/2025/07-25/hotarari/hot140.pdf",
+     "sha256": "4aab538d83f6bb829542ed36109f7f38415a119b83be6b941eb02b45e9024583"
+    }
+   ]
+  },
+  {
    "slug": "hcj-valcea-41-2025",
    "path": "local/judet/valcea/2025/41",
    "short": "HCJ Vâlcea nr. 41/2025",

@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/judet/botosani/2005",
+ "acts": [
+  {
+   "slug": "hcj-botosani-52-2005",
+   "path": "local/judet/botosani/2005/52",
+   "short": "HCJ Botoșani nr. 52/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 52/2005 privind aprobarea tarifelor pentru prestarea serviciilor de productie editoriala, tipografica si de difuzare a Monitorului Oficial al Judetului Botosani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-06-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h052_2005.06.23.pdf",
+     "sha256": "c9fc7297b1b6ace27dc4c34c94853f6ab26990bbf90b05e2ffbcd793e8a1948d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-74-2005",
+   "path": "local/judet/botosani/2005/74",
+   "short": "HCJ Botoșani nr. 74/2005",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 74/2005 privind majorarea tarifului la canalizare-epurare in termeni reali cu 12% pentru populatie si 50% pentru rest utilizatori, precum si ajustarea cu indicele preturilor de consum aferent perioadei octombrie 2003 - aprilie 2005, incepand cu data de 1 octombrie 2005",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2005-04-03",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h074_2005.09.21.pdf",
+     "sha256": "ade387e0de1567de15979408c8dc2e1495629b342067806c0d749a884699a3ab"
+    }
+   ]
+  }
+ ]
+}

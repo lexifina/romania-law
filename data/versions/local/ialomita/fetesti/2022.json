@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/ialomita/fetesti/2022",
+ "acts": [
+  {
+   "slug": "hcl-ialomita--fetesti-13-2022",
+   "path": "local/ialomita/fetesti/2022/13",
+   "short": "HCL Fetești nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 13/2022",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/49322",
+   "versions": [
+    {
+     "from": "2022-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/2235/Anexa.pdf",
+     "sha256": "48704b8216b3f6e95cbb07e1baf1d8820c42ce8dd54eefa068dca6792aa78cc7"
+    }
+   ]
+  }
+ ]
+}

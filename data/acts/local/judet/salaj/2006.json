@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/judet/salaj/2006",
+"acts": [
+{
+"slug": "hcj-salaj-2-2006",
+"path": "local/judet/salaj/2006/2",
+"kind": "local",
+"year": "2006",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 2/2006 privind modificarea si completarera Anexei nr.2 la Hotararea nr.107/2005, privind stabilirea unor tarife si majorarea, in limita legii, a taxelor si tarifelor, in sume fixe, stabilite de catre Consiliul judetean, pe anul 2006",
+"short": "HCJ Sălaj nr. 2/2006",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2006-01-17",
+"latest": "2006-01-17",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=108:hotarari-2006&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-21-2006",
+"path": "local/judet/salaj/2006/21",
+"kind": "local",
+"year": "2006",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 21/2006 privind instituirea unor taxe speciale, pe anul 2006",
+"short": "HCJ Sălaj nr. 21/2006",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2006-02-22",
+"latest": "2006-02-22",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=108:hotarari-2006&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-53-2006",
+"path": "local/judet/salaj/2006/53",
+"kind": "local",
+"year": "2006",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 53/2006 privind modificarea si completarea Hotararii Consiliului judetean nr.19/2006 privind aprobarea alocarii sumei de 658 mii RON din cota de 15% din sumele defalcate din taxa pe valoarea adaugata si din cota de 22% din impozitul pe venit pentru continuarea Programului",
+"short": "HCJ Sălaj nr. 53/2006",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2006-04-28",
+"latest": "2006-04-28",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=108:hotarari-2006&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-90-2006",
+"path": "local/judet/salaj/2006/90",
+"kind": "local",
+"year": "2006",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 90/2006 privind aprobarea Regulamentului privind respectarea dreptului la imagine si intimitate al beneficiarilor de servicii sociale",
+"short": "HCJ Sălaj nr. 90/2006",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2006-07-28",
+"latest": "2006-07-28",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=108:hotarari-2006&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-130-2006",
+"path": "local/judet/salaj/2006/130",
+"kind": "local",
+"year": "2006",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 130/2006 privind actualizarea nivelului taxelor si tarifelor de competenta Consiliului Judetean Salaj, pentru anul 2007",
+"short": "HCJ Sălaj nr. 130/2006",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2006-11-30",
+"latest": "2006-11-30",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=108:hotarari-2006&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

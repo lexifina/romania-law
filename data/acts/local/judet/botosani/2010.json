@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/judet/botosani/2010",
+"acts": [
+{
+"slug": "hcj-botosani-2-2010",
+"path": "local/judet/botosani/2010/2",
+"kind": "local",
+"year": "2010",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 2/2010 privind aprobarea preturilor medii ale produselor agricole pentru anul 2010",
+"short": "HCJ Botoșani nr. 2/2010",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2010-02-03",
+"latest": "2010-02-03",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-106-2010",
+"path": "local/judet/botosani/2010/106",
+"kind": "local",
+"year": "2010",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 106/2010 privind aprobarea taxelor de frecventa pentru elevii Scolii Populare de Arte si Meserii Botosani pentru anul scolar 2008-2009",
+"short": "HCJ Botoșani nr. 106/2010",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2010-03-08",
+"latest": "2010-03-08",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-170-2010",
+"path": "local/judet/botosani/2010/170",
+"kind": "local",
+"year": "2010",
+"number": "170",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 170/2010 privind unele masuri pentru protectia ariilor naturale protejate de interes judetean, a parcurilor dendrologice, a arborilor monumente ale naturii, a florei si faunei salbatice",
+"short": "HCJ Botoșani nr. 170/2010",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2010-12-22",
+"latest": "2010-12-22",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/judet/botosani/2019",
+ "acts": [
+  {
+   "slug": "hcj-botosani-12-2019",
+   "path": "local/judet/botosani/2019/12",
+   "short": "HCJ Botoșani nr. 12/2019",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 12/2019 privind acordarea unui mandat special al reprezentantului Județului Botoșani în Adunarea Generală a Aociațiilor Asociației de Dezvoltare Intercomunitară ”AQUA BOTOȘANI” pentru aprobarea modificării prețurilor și tarifelor la serviciile publice de alimentare cu apă potabilă și de canalizare",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h012_31.01.2019.pdf",
+     "sha256": "9f9265b94dcb3e96f6e160920df002e9413c97bbdf0b1c704e7aa9be843c856c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-147-2019",
+   "path": "local/judet/botosani/2019/147",
+   "short": "HCJ Botoșani nr. 147/2019",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 147/2019 privind aprobarea tarifelor pentru eliberarea licențelor de traseu pentru transportul rutier contra cost de persoane prin servicii regulate la nivel județean",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H147_26092019.pdf",
+     "sha256": "78af81b765d82d114630cf9b88eccd776a2736de90d0a266d9b30f208e1d3fa7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-22-2019",
+   "path": "local/judet/botosani/2019/22",
+   "short": "HCJ Botoșani nr. 22/2019",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 22/2019 privind aprobarea Regulamentului de organizare şi funcţionare al Serviciului Public Comunitar de Evidență a Persoanelor al Județului Botoşani din subordinea Consiliului Judeţean Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h022_28.02.2019.pdf",
+     "sha256": "9ae06733eeeb8c83e0988a436c79db16768e22eeb6290df1b24bb15ba78aaceb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-62-2019",
+   "path": "local/judet/botosani/2019/62",
+   "short": "HCJ Botoșani nr. 62/2019",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 62/2019 privind aprobarea Regulamentului privind regimul finanţărilor nerambursabile alocate din fonduri ale bugetului Judeţului Botoşani pentru activităţi non-profit de interes judeţean",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2019-05-07",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h062_07052019.pdf",
+     "sha256": "8e7538041431ae8b198ede9b43d7af3c731d52955c8dc48a1e757a2b3a67d627"
+    }
+   ]
+  }
+ ]
+}

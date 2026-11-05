@@ -1,0 +1,139 @@
+{
+"country": "RO",
+"shard": "local/judet/salaj/2019",
+"acts": [
+{
+"slug": "hcj-salaj-5-2019",
+"path": "local/judet/salaj/2019/5",
+"kind": "local",
+"year": "2019",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 5/2019 pentru modificarea tarifului de depozitare aplicabil serviciului public de salubrizare al judeţului Sălaj",
+"short": "HCJ Sălaj nr. 5/2019",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2019-01-28",
+"latest": "2019-01-28",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=95:hotarari-2019&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-14-2019",
+"path": "local/judet/salaj/2019/14",
+"kind": "local",
+"year": "2019",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 14/2019 pentru modificarea Anexei la Hotărârea Consiliului Judeţean nr. 41 din 27 aprilie 2018 privind aprobarea regulamentului pentru finanţarea programelor sportive ale cluburilor sportive de drept privat înfiinţate pe raza unităţii administrativ-teritoriale, constituit",
+"short": "HCJ Sălaj nr. 14/2019",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2019-03-20",
+"latest": "2019-03-20",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=95:hotarari-2019&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-59-2019",
+"path": "local/judet/salaj/2019/59",
+"kind": "local",
+"year": "2019",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 59/2019 privind aprobarea regulamentului pentru finanţarea programelor sportive ale cluburilor sportive de drept privat înfiinţate pe raza unităţii administrativ-teritoriale, constituite ca persoane juridice fără scop patrimonial, deţinătoare ale certificatului de identitate",
+"short": "HCJ Sălaj nr. 59/2019",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2019-05-31",
+"latest": "2019-05-31",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=95:hotarari-2019&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-150-2019",
+"path": "local/judet/salaj/2019/150",
+"kind": "local",
+"year": "2019",
+"number": "150",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 150/2019",
+"short": "HCJ Sălaj nr. 150/2019",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2019-12-23",
+"latest": "2019-12-23",
+"portal": null,
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-salaj-152-2019",
+"path": "local/judet/salaj/2019/152",
+"kind": "local",
+"year": "2019",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 152/2019 privind stabilirea taxelor şi tarifelor de competenţa Consiliului Judeţean Sălaj, pentru anul 2020",
+"short": "HCJ Sălaj nr. 152/2019",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2019-12-23",
+"latest": "2019-12-23",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=95:hotarari-2019&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-155-2019",
+"path": "local/judet/salaj/2019/155",
+"kind": "local",
+"year": "2019",
+"number": "155",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 155/2019 privind aprobarea Regulamentului de organizare şi funcţionare al aparatului de specialitate al Consiliului Judeţean Sălaj",
+"short": "HCJ Sălaj nr. 155/2019",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2019-12-23",
+"latest": "2019-12-23",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=95:hotarari-2019&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

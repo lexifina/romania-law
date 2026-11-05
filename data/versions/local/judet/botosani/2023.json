@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/judet/botosani/2023",
+ "acts": [
+  {
+   "slug": "hcj-botosani-110-2023",
+   "path": "local/judet/botosani/2023/110",
+   "short": "HCJ Botoșani nr. 110/2023",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 110/2023 pentru modificarea Hotărârii Consiliului Județean Botoșani nr. 274 din 21.12.2022 privind aprobarea prețurilor medii ale produselor agricole pentru anul 2023",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 4,
+     "source_url": "https://www.cjbotosani.ro/files/H110_20230629.pdf",
+     "sha256": "9995f5762cee7108e6f83be40092a8de146c0ff8986746e37c15f09a83d23f47"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-139-2023",
+   "path": "local/judet/botosani/2023/139",
+   "short": "HCJ Botoșani nr. 139/2023",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 139/2023 privind aprobarea taxelor școlare pentru elevii Școlii Populare de Arte „George Enescu” Botoșani, pe anul școlar 2023 - 2024",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 3,
+     "source_url": "https://www.cjbotosani.ro/files/H139_20230727.pdf",
+     "sha256": "2e39e6c4013428fc4f12a314ad0b48f28e6a2be5c52118ed11e4645193d877b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-237-2023",
+   "path": "local/judet/botosani/2023/237",
+   "short": "HCJ Botoșani nr. 237/2023",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 237/2023 privind aprobarea preţurilor medii ale produselor agricole pentru anul 2024",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H237_20231221.pdf",
+     "sha256": "7e8245235e483da34eadf6cff50bbe8b82d1423f09b1608471b2191983d2d41d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-51-2023",
+   "path": "local/judet/botosani/2023/51",
+   "short": "HCJ Botoșani nr. 51/2023",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 51/2023 privind modificarea Hotărârii Consiliului Județean Botoșani nr. 69 din 30.05.2019 privind aprobarea Regulamentului privind regimul finanțărilor nerambursabile alocate din fonduri ale bugetului Județului Botoșani pentru activitățile de tineret",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 4,
+     "source_url": "https://www.cjbotosani.ro/files/H051_20230224.pdf",
+     "sha256": "4c47a0430f1b663b0f41f2f2d2b35cb441f84403a0287312fd75fdea25170e23"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-93-2023",
+   "path": "local/judet/botosani/2023/93",
+   "short": "HCJ Botoșani nr. 93/2023",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 93/2023 de modificare a Hotărârii Consiliului Județean Botoșani nr. 33 din 24.02.2023 privind aprobarea Regulamentului de vânzare a locuințelor de tip A.N.L. din Blocul de locuințe realizat prin Agenția Națională pentru Locuințe, situat în municipiul Botoșani str. Ștefan cel Mare nr. 39 (20 apartamente)",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/alte-documente/informari-proiecte-de-hotarari-cu-caracter-normativ/",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 4,
+     "source_url": "https://www.cjbotosani.ro/files/H093_20230529.pdf",
+     "sha256": "9363f8e9bab23ff28475ef2667d95e8fde8bd9a2c0ff5ab86752b76f03b4bc1d"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/teleorman/alexandria/2013",
+"acts": [
+{
+"slug": "hcl-teleorman--alexandria-29-2013",
+"path": "local/teleorman/alexandria/2013/29",
+"kind": "local",
+"year": "2013",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 29/2013 privind aprobarea taxelor si tarifelor practicate in piete, targuri, oboare si alte locuri publice din municipiul Alexandria",
+"short": "HCL Alexandria nr. 29/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-01-30",
+"latest": "2013-01-30",
+"portal": "https://alexandria.ro/priveste-modificare-si-completarea-hcl-nr-24-din-26-februarie-2009-privind-aprobarea-taxelor-si-tarifelor-practicate-in-piete-targuri-oboare-si-altelocuri-publice-din-municipiul-alexandria/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

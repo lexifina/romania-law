@@ -3,6 +3,36 @@
  "shard": "local/alba/alba-iulia/2024",
  "acts": [
   {
+   "slug": "hcl-alba--alba-iulia-182-2024",
+   "path": "local/alba/alba-iulia/2024/182",
+   "short": "HCL Alba Iulia nr. 182/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 182/2024 privind modificarea statului de funcții al Aparatului de specialitate al Primarului municipiului Alba Iulia, începând cu data de 1 iunie 2024",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/157974",
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/51414/anexa.pdf",
+     "sha256": "396f9a656c256415cd204772943c1058784d893248b9b91dc693f9aaeb9784bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-269-2024",
+   "path": "local/alba/alba-iulia/2024/269",
+   "short": "HCL Alba Iulia nr. 269/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 269/2024 privind aprobarea reactualizării Planului de Mobilitate Urbană Durabilă pentru Municipiul Alba Iulia",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/164017",
+   "versions": [
+    {
+     "from": "2024-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/54126/ANEXA_HCL_PMUD.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--alba-iulia-469-2024",
    "path": "local/alba/alba-iulia/2024/469",
    "short": "HCL Alba Iulia nr. 469/2024",
@@ -14,6 +44,21 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/62960/anexa%20.pdf",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-85-2024",
+   "path": "local/alba/alba-iulia/2024/85",
+   "short": "HCL Alba Iulia nr. 85/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 85/2024 privind completarea inventarului bunurilor care alcătuiesc domeniul privat al municipiului Alba Iulia, aprobat prin HCL nr.334/2022, completat prin HCL nr.381/2023 și îndreptarea erorilor materiale din cuprinsul Anexelor la HCL nr.334/2022 și HCL nr.381/2023",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/146471",
+   "versions": [
+    {
+     "from": "2024-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/46272/Anexa%20completare%20inventar%20domeniul%20privat.doc",
+     "sha256": "5b7c9edcd2c04f44b65b514bfef63f33d582cc99d25458b2a6383fd1224bf0f5"
     }
    ]
   }

@@ -3,6 +3,28 @@
 "shard": "local/olt/caracal/2014",
 "acts": [
 {
+"slug": "hcl-olt--caracal-36-2014",
+"path": "local/olt/caracal/2014/36",
+"kind": "local",
+"year": "2014",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 36/2014 privind interzicerea expunerii spre vÃ¢nzare a autovehiculelor pe domeniu public sau privat al municipiului Caracal",
+"short": "HCL Caracal nr. 36/2014",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2014-02-28",
+"latest": "2014-02-28",
+"portal": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
 "slug": "hcl-olt--caracal-107-2014",
 "path": "local/olt/caracal/2014/107",
 "kind": "local",

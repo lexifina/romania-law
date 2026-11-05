@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/vrancea/adjud/2008",
+ "acts": [
+  {
+   "slug": "hcl-vrancea--adjud-57-2008",
+   "path": "local/vrancea/adjud/2008/57",
+   "short": "HCL Adjud nr. 57/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 57/2008 pentru aprobarea înființării Serviciului public de administrare a fondului locativ al Municipiului Adjud CONSILIUL LOCAL AL MUNICIPIULUI ADJUD, întrunit în ședință ordinară: - având în vedere Expunerea de motive a Comisiei pentru amenajarea teritoriului, urbanism, administrarea patrimoniului public și privat al municipiului, juridică și de disciplină -cu privire la necesitatea înființării Serviciu",
+   "url": "https://www.adjud.ro/municipiul-adjud/consiliul-local-pagina/hotarari/hotarari-2008/",
+   "versions": [
+    {
+     "from": "2008-05-15",
+     "units": 10,
+     "source_url": "https://www.adjud.ro/assets/media/2017/02/15-05-19-09-06-47HCL_57.pdf",
+     "sha256": "a59ebd86ebfff373c423097bef499d589400c5e60657035eb34d3587e7641cde"
+    }
+   ]
+  }
+ ]
+}

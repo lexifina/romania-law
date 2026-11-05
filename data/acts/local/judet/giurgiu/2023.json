@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/judet/giurgiu/2023",
+"acts": [
+{
+"slug": "hcj-giurgiu-31-2023",
+"path": "local/judet/giurgiu/2023/31",
+"kind": "local",
+"year": "2023",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 31/2023 privind aprobarea achiziției de servicii juridice de asistență și reprezentare",
+"short": "HCJ Giurgiu nr. 31/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-02-06",
+"latest": "2023-02-06",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-2023/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcj-giurgiu-130-2023",
+"path": "local/judet/giurgiu/2023/130",
+"kind": "local",
+"year": "2023",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 130/2023 privind aprobarea tarifelor pentru închirierea utilajelor din dotarea parcului auto al Direcției Județene de Transport, Administrarea Drumurilor Județene și Control Trafic Giurgiu",
+"short": "HCJ Giurgiu nr. 130/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-05-31",
+"latest": "2023-05-31",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-2023/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcj-giurgiu-372-2023",
+"path": "local/judet/giurgiu/2023/372",
+"kind": "local",
+"year": "2023",
+"number": "372",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 372/2023 privind stabilirea taxelor și tarifelor care vor fi percepute de Consiliul Județean Giurgiu și instituțiile publice subordonate acestuia pentru anul fiscal 2024",
+"short": "HCJ Giurgiu nr. 372/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-2023/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

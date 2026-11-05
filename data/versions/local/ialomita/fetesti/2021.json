@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/ialomita/fetesti/2021",
+ "acts": [
+  {
+   "slug": "hcl-ialomita--fetesti-166-2021",
+   "path": "local/ialomita/fetesti/2021/166",
+   "short": "HCL Fetești nr. 166/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 166/2021 pentru modificarea Anexei la H.C.L.nr. 138/27.10.2015 privind aprobarea Strategiei de tarifare/Mecanismului de tarifare practicat de operatorul regional SC RAJA SA pentru perioada 2021-2029",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/44093",
+   "versions": [
+    {
+     "from": "2021-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/1410/Anexa.pdf",
+     "sha256": "dbe4a113a491ac2fd5ddc093663f2eaf32c5cfbc45b2e8706062a7f8443346f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-176-2021",
+   "path": "local/ialomita/fetesti/2021/176",
+   "short": "HCL Fetești nr. 176/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 176/2021 privind aprobarea tarifelor practicate de Direcţia de Administrare a Domeniului Public şi Privat Feteşti pentru serviciile prestate în anul 2022",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/45785",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/1747/Anexa.pdf",
+     "sha256": "3d3eeb99ec4afe9bf9582bd0ea4aa1d3cc8a93517afc57bd672a9f4a6002623e"
+    }
+   ]
+  }
+ ]
+}

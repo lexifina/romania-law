@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/olt/2020",
+ "acts": [
+  {
+   "slug": "hcj-olt-131-2020",
+   "path": "local/judet/olt/2020/131",
+   "short": "HCJ Olt nr. 131/2020",
+   "title": "Hotărârea Consiliului Județean Olt nr. 131/2020 cu privire la aprobarea taxelor școlare pentru activitățile prestate de Secția Arte și Meșteșuguri din cadrul Centrului Județean de Cultură șiArtă Olt, pentru anul școlar 2020-2021 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2020/",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/11975.pdf",
+     "sha256": "91f6e17538e90f2d853193287c69df1d1ee8c32dd4017cb4c19115d52d147479"
+    }
+   ]
+  }
+ ]
+}

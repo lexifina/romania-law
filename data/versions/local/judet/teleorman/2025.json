@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/judet/teleorman/2025",
+ "acts": [
+  {
+   "slug": "hcj-teleorman-175-2025",
+   "path": "local/judet/teleorman/2025/175",
+   "short": "HCJ Teleorman nr. 175/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 175/2025 privind aprobarea Normelor specifice privind realizarea sau amplasarea în zona drumului de interes judeţean a panourilor publicitare, a oricăror construcţii sau activităţi comerciale, căi de acces, amenajări sau instalaţii în orice scop",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/175.pdf",
+     "sha256": "52b639497267a782d8318eed383d1c9872fa6cfa9e1d8eebd13eba18b56c4392"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-176-2025",
+   "path": "local/judet/teleorman/2025/176",
+   "short": "HCJ Teleorman nr. 176/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 176/2025 privind aprobarea tarifelor de utilizare a zonei drumului judeţean şi a tarifelor suplimentare de utilizare a drumurilor de interes judeţean din judeţul Teleorman, precum şi a tarifelor pentru eliberarea licenţelor de traseu pentru serviciile de transport public judeţean de persoane prin curse regulate speciale şi acordarea autorizaţiilor de transport",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/176.pdf",
+     "sha256": "9d053230f5b68b7e603918a9f92a19ee5115fce2b82dfd4e3ebb0289ce970752"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-184-2025",
+   "path": "local/judet/teleorman/2025/184",
+   "short": "HCJ Teleorman nr. 184/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 184/2025 privind aprobarea Regulamentului privind măsurile metodologice, organizatorice, termenele şi circulaţia proiectelor de hotărâri ale Consiliului Judeţean Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/184.pdf",
+     "sha256": "60157361f1918e5ffb04a9cfdc4c43eefb7eb6c84aca668a4d4599ec43c3f06d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-5-2025",
+   "path": "local/judet/teleorman/2025/5",
+   "short": "HCJ Teleorman nr. 5/2025",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 5/2025 pentru nominalizarea membrilor Autorităţii Teritoriale de Ordine Publică Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202025.htm",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202025/5.pdf",
+     "sha256": "dfa11328f4a23d24ee5cb5855ec3b336f96c9b32fe0f5283cf414aaf9741e8c3"
+    }
+   ]
+  }
+ ]
+}

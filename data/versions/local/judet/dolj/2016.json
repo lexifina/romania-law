@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/dolj/2016",
+ "acts": [
+  {
+   "slug": "hcj-dolj-22-2016",
+   "path": "local/judet/dolj/2016/22",
+   "short": "HCJ Dolj nr. 22/2016",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 22/2016 pentru a vota în adunarea generală a asociației prețurile și tarifele unice pentru serviciile de alimentare cu apă și de canalizare, aplicate de către S.C",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2016-00001496",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202016/Hotararea%2022.pdf",
+     "sha256": "933423b31e3482d0f6f6be0f39a92548e188fea65aa89626b8bfd2d93b74fc73"
+    }
+   ]
+  }
+ ]
+}

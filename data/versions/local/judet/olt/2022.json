@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/judet/olt/2022",
+ "acts": [
+  {
+   "slug": "hcj-olt-130-2022",
+   "path": "local/judet/olt/2022/130",
+   "short": "HCJ Olt nr. 130/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 130/2022 cu privire la aprobarea taxelor școlare pentru activitățile prestate de Secția Arte și Meșteșuguri din cadrul Centrului Județean de Cultură și Artă Olt, pentru anul școlar 2022-2023 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16377.pdf",
+     "sha256": "7e305185de9c88c066c8fe0e6172331b0b5c3cd8cf3b3c92d932d4e3b997e7c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-180-2022",
+   "path": "local/judet/olt/2022/180",
+   "short": "HCJ Olt nr. 180/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 180/2022 pentru spaţiile din fondul locativ cu altă destinaţie decât cea de locuinţă, aflate în domeniul public sau privat al județului, precum și cu privire la stabilirea tarifului de închiriere a sălii de conferințe a Consiliului Județean Olt, pentru anul 2023 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16725.pdf",
+     "sha256": "7c3baca6e0b69b749c9c2893fd4dead0c3d9d880f7df46cc794d7b2e587b32ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-76-2022",
+   "path": "local/judet/olt/2022/76",
+   "short": "HCJ Olt nr. 76/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 76/2022 pentru modificarea și completarea Regulamentului de organizare șifuncționare a pieței volante ”Piața Producătorilor Olteni„ din municipiul Slatinaaprobat prin Hotărârea Consiliului Județean Olt nr. 133/14.09.2021 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15666.pdf",
+     "sha256": "7dc7c4954963d2d8be1ec9623963c4aafb6c93af3e6a47edb6dd5df2087f79e7"
+    }
+   ]
+  }
+ ]
+}

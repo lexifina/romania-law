@@ -3,6 +3,81 @@
  "shard": "local/judet/bihor/2021",
  "acts": [
   {
+   "slug": "hcj-bihor-133-2021",
+   "path": "local/judet/bihor/2021/133",
+   "short": "HCJ Bihor nr. 133/2021",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 133/2021 PRIVIND APROBAREA REGULAMENTULUI DE ACORDARE A FINANȚĂRILOR NERAMBURSABILE CONFORM LEGII NR. 350/2005, DIN BUGETUL JUDEȚULUI BIHOR",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2021/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2021/02/H-133-din-30.06.-2021.pdf",
+     "sha256": "42be08061367679923ac68a7eb0e07c9edcf75e17192b67b874cc562ebac6d45"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-178-2021",
+   "path": "local/judet/bihor/2021/178",
+   "short": "HCJ Bihor nr. 178/2021",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 178/2021 PENTRU APROBAREA REGULAMENTULUI DE ORGANIZARE ŞI FUNCŢIONARE AL SERVICIULUI PUBLIC DE ADĂPOSTIRE A ANIMALELOR AFLATE ÎN PERICOL PE RAZA JUDEŢULUI BIHOR, PENTRU CARE S-A EMIS UN ORDIN DE PLASARE ÎN ADĂPOST",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2021/",
+   "versions": [
+    {
+     "from": "2021-08-23",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2021/09/h-178-din-23.08.2021_Redacted-1.pdf",
+     "sha256": "b840b0be0ce307cfbeecd8355e80db5fb5931fde67d1f4d183cee8e1d75e5a5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-181-2021",
+   "path": "local/judet/bihor/2021/181",
+   "short": "HCJ Bihor nr. 181/2021",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 181/2021 PRIVIND APROBAREA REZULTATULUI FINAL AL PROCEDURII DE SELECȚIE A ADMINISTRATORULUI SOCIETĂȚII PAZĂ ȘI PROTECȚIE BIHOR S.R.L",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2021/",
+   "versions": [
+    {
+     "from": "2021-08-23",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2021/09/h-181-din-23.08.2021_Redacted.pdf",
+     "sha256": "9582db6e9d0e205ed3a67954101c2def8049f750a65f08080827b9bb8997441c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-183-2021",
+   "path": "local/judet/bihor/2021/183",
+   "short": "HCJ Bihor nr. 183/2021",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 183/2021 PRIVIND MODIFICAREA ȘI COMPLETAREA HOTĂRÂRII NR. 122 DIN 2020 PRIVIND APROBAREA REGULAMENTULUI PENTRU EFECTUAREA SERVICIULUI PUBLIC DE TRANSPORT JUDEȚEAN DE PERSOANE PRIN CURSE REGULATE ÎN JUDEȚUL BIHOR, CAIETULUI DE SARCINI AL SERVICIULUI DE TRANSPORT PUBLIC JUDEȚ",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2021/",
+   "versions": [
+    {
+     "from": "2021-08-23",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2021/09/h-183-din-23.08.2021.pdf",
+     "sha256": "8a0c881c95640b03105cb0dd7cf587e7798368df1bac12d7eb6599cab5663407"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-317-2021",
+   "path": "local/judet/bihor/2021/317",
+   "short": "HCJ Bihor nr. 317/2021",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 317/2021 PRIVIND APROBAREA UNOR MODELE ORIENTATIVE DE ACTE ADMINISTRATIVE NECESARE IMPLEMENTĂRII MĂSURII DE GOSPODĂRIRE A LOCALITĂȚII PRECUM ȘI SANCȚIONAREA FAPTELOR DE ÎNCĂLCARE A NORMELOR PRIVIND BUNA GOSPODĂRIRE ȘI ÎNTREȚINERE A LOCALITĂȚILOR, DE CĂTRE CONSILIILE LOCALE",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2021/",
+   "versions": [
+    {
+     "from": "2021-11-29",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2021/12/h-317-din-29.11.2021_Redacted.pdf",
+     "sha256": "5ff406ed3acd9b2f33d7b8959be9e680fd497179809226298f0659d72727602b"
+    }
+   ]
+  },
+  {
    "slug": "hcj-bihor-8-2021",
    "path": "local/judet/bihor/2021/8",
    "short": "HCJ Bihor nr. 8/2021",

@@ -1,0 +1,276 @@
+{
+ "country": "RO",
+ "shard": "local/arges/campulung/2018",
+ "acts": [
+  {
+   "slug": "hcl-arges--campulung-103-2018",
+   "path": "local/arges/campulung/2018/103",
+   "short": "HCL Câmpulung nr. 103/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 103/2018 privind prelungirea perioadei de valabilitate a Planului de Urbanism General și a Regulamentului Local de Urbanism al Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2018-07-31",
+     "units": 4,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2018/HCL%20nr.%20103%20din%2031.07.2018.pdf",
+     "sha256": "7632fa2dfa9199827e096380b5b250c5c72b5ba1a69c478c58c293dc8fe6baf2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-120-2018",
+   "path": "local/arges/campulung/2018/120",
+   "short": "HCL Câmpulung nr. 120/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 120/2018 privind aprobarea Regulamentului de stabilire a criteriilor de identificare a clădirilor și terenurilor neîngrijite situate în intravilanul Municipiului Câmpulung, în vederea aplicării prevederilor art. 489 alin. (5) - (8) din Legea nr. 227/2015 privind Codul fiscal și pct. 168 din HG. nr. 1/2016 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 227/2015 privind Codul fiscal și a formularelor tipizate pentru aplicarea acestuia",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2018-08-30",
+     "units": 5,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2018/HCL%20nr.%20120%20din%2030.08.2018.pdf",
+     "sha256": "9d3715dbbaa4d9f42c2997ae96091841da63e233dc21727628a224968ec1f8d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-123-2018",
+   "path": "local/arges/campulung/2018/123",
+   "short": "HCL Câmpulung nr. 123/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 123/2018 privind aprobarea Regulamentului privind procedura de vânzare a bunurilor imobile din domeniul privat al Municipiului Câmpulung, altele decât clădirile din fondul locativ",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2018-08-30",
+     "units": 7,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2018/HCL%20nr.%20123%20din%2030.08.2018.pdf",
+     "sha256": "371345baef3f33d8d9e042fcfd792c9997282a2eeb8e89f23e571e51f9914b01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-129-2018",
+   "path": "local/arges/campulung/2018/129",
+   "short": "HCL Câmpulung nr. 129/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 129/2018 cu privire la modificarea art. 1 din Hotărârea Consiliului Local al Municipiului Campulung nr. 98 / 28.12.2016 și a Regulamentului privind încasarea taxei speciale de colectare, transport și depozitare a deșeurilor menajere",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2018/HCL%20nr.%20129%20din%2027.09.2018.pdf",
+     "sha256": "3ffc808d4272ba207f6da1670aae5a5c28d27ff30573c19fe8ba08b9879570cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-176-2018",
+   "path": "local/arges/campulung/2018/176",
+   "short": "HCL Câmpulung nr. 176/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 176/2018 cu privire la aprobare Regulament al serviciului de alimentare cu apă și canalizare al SC EDILUL CGA SA",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2018-11-29",
+     "units": 6,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2018/HCL%20nr.%20176%20din%2029.11.2018.pdf",
+     "sha256": "7f00b6ed748b314b31a8d7588fb7c73ba6281499ad926931d7ab7fda3d4880b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-191-2018",
+   "path": "local/arges/campulung/2018/191",
+   "short": "HCL Câmpulung nr. 191/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 191/2018 cu privire la aprobare modificare cuantum taxă de colectare, transport și depozitare gunoi începând cu 01.01.2019 Hotărâre cu privire la aprobare modificare cuantum taxă de colectare, transport și depozitare gunoi începând cu 01.01.2019",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2018/HCL%20nr.%20191%20din%2020.12.2018.pdf",
+     "sha256": "38cf4181bd5d40575fea8ae277dd2a3df3576f8d0cbe492779d8e448e2a11444"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-194-2018",
+   "path": "local/arges/campulung/2018/194",
+   "short": "HCL Câmpulung nr. 194/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 194/2018 cu privire la aprobare modificare tarif pentru transport local de călători Hotărâre cu privire la aprobare modificare tarif pentru transport local de călători",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2018/HCL%20nr.%20194%20din%2020.12.2018.pdf",
+     "sha256": "3587189d527dc405774b3ed02f42d65eff9fafb161c9858f074de46d39e34272"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-198-2018",
+   "path": "local/arges/campulung/2018/198",
+   "short": "HCL Câmpulung nr. 198/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 198/2018 privind categoriile de tarife și taxe practicate de S.C. Piețe-Servicii Comunitare Muscel S.R.L. începând cu data de 01.01.2019",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 6,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2018/HCL%20nr.%20198%20din%2020.12.2018.pdf",
+     "sha256": "61cedd805b62c6e9e0cc5730df428b7a336661a7b62ad49349d734dac326efb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-20-2018",
+   "path": "local/arges/campulung/2018/20",
+   "short": "HCL Câmpulung nr. 20/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 20/2018 privind majorarea tarifului de prestări servicii de evidenţa persoanelor Hotărâre privind majorarea tarifului de prestări servicii de evidenţa persoanelor",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2018-02-28",
+     "units": 9,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2018/HCL%20nr.%2020%20din%2028.02.2018.pdf",
+     "sha256": "51cdb14cfa7544b4837c7b65325d94bbe34767051d4d4a35b7c9611d7593e479"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-32-2018",
+   "path": "local/arges/campulung/2018/32",
+   "short": "HCL Câmpulung nr. 32/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 32/2018 privind tarifele conexe serviciilor de furnizare apă potabilă şi canalizare ce vor fi aplicate începând cu data de 01 04 2018 Hotărâre privind tarifele conexe serviciilor de furnizare apă potabilă şi canalizare ce vor fi aplicate începând cu data de 01 04 2018",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2018/HCL%20nr.%2032%20din%2029.03.2018.pdf",
+     "sha256": "87279199d988cb5b2784c61fb5171ab1a8cc9676da2d76ba71e8cb87257854a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-34-2018",
+   "path": "local/arges/campulung/2018/34",
+   "short": "HCL Câmpulung nr. 34/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 34/2018",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2018/HCL%20nr.%2034%20din%2029.03.2018.pdf",
+     "sha256": "53a2c28688a9e198ff00b0d2bb567fcb454c9bb840bb26287945989f813bd1a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-44-2018",
+   "path": "local/arges/campulung/2018/44",
+   "short": "HCL Câmpulung nr. 44/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 44/2018 privind Regulamentul de atribuire a locurilor de parcare, pentru folosinţă în parcările de domiciliu aflate pe raza Municipiului Câmpulung Hotărâre privind Regulamentul de atribuire a locurilor de parcare, pentru folosinţă în parcările de domiciliu aflate pe raza Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2018/HCL%20nr.%2044%20din%2029.03.2018.pdf",
+     "sha256": "b729a137e4d904326e730a67c8246179ee40f2e7dbf1e3f06f934d1e2ebcf5dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-53-2018",
+   "path": "local/arges/campulung/2018/53",
+   "short": "HCL Câmpulung nr. 53/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 53/2018 privind aprobarea Regulamentului de conferire a Titlului de „Cetăţean de Onoare al Municipiului Câmpulung” Hotărâre privind aprobarea Regulamentului de conferire a Titlului de „Cetăţean de Onoare al Municipiului Câmpulung”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2018/HCL%20nr.%2053%20din%2026.04.2018.pdf",
+     "sha256": "c36f39e4aa30d6c0385835096cddd411732f051a46750429ef982fcc3ffbb5d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-54-2018",
+   "path": "local/arges/campulung/2018/54",
+   "short": "HCL Câmpulung nr. 54/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 54/2018 privind organizarea păşunatului şi stabilirea taxei de păşunat pe izlazurile proprietate a Municipiului Câmpulung Hotărâre privind organizarea păşunatului şi stabilirea taxei de păşunat pe izlazurile proprietate a Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 17,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2018/HCL%20nr.%2054%20din%2026.04.2018.pdf",
+     "sha256": "4ecfc74ce5d6f1eb8bbc2d74d6ed7b9d0efaddd64a40d061f738e7af827f1f61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-58-2018",
+   "path": "local/arges/campulung/2018/58",
+   "short": "HCL Câmpulung nr. 58/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 58/2018 privind includerea în tariful de apă potabilă, canalizare epurare, ape meteo a unei cote de 10% fond de dezvoltare Hotărâre privind includerea în tariful de apă potabilă, canalizare epurare, ape meteo a unei cote de 10% fond de dezvoltare",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2018-05-30",
+     "units": 4,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2018/HCL%20nr.%2058%20din%2030.05.2018.pdf",
+     "sha256": "9db30629804f273c6cac14f355811bf2c1cfe280c7bdc05b397d1163fe20998a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-59-2018",
+   "path": "local/arges/campulung/2018/59",
+   "short": "HCL Câmpulung nr. 59/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 59/2018 pentru stabilirea nivelului impozitelor şi taxelor locale pentru anul 2019 Hotărâre pentru stabilirea nivelului impozitelor şi taxelor locale pentru anul 2019",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2018-05-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2018/HCL%20nr.%2059%20din%2030.05.2018.pdf",
+     "sha256": "47346a5244fef555956e2e1a60ee568a549d34b10186dfa3215bb835bdc661ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-88-2018",
+   "path": "local/arges/campulung/2018/88",
+   "short": "HCL Câmpulung nr. 88/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 88/2018 privind aprobarea Regulamentului de acordare material lemnos, lemn de foc și lemn de lucru, către populația Municipiului Câmpulung, județul Argeș",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 4,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2018/HCL%20nr.%2088%20din%2028.06.2018.pdf",
+     "sha256": "a3064cd1a9dfab61e1dc796687e4bd76ae21ee2c6c750c8e39bb92ce262ba94c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-99-2018",
+   "path": "local/arges/campulung/2018/99",
+   "short": "HCL Câmpulung nr. 99/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 99/2018 privind aprobarea modificării prețurilor / tarifelor la apă potabilă și canalizare – epurare care se furnizează / prestează de SC EDILUL CGA SA Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2018-07-31",
+     "units": 5,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2018/HCL%20nr.%2099%20din%2031.07.2018.pdf",
+     "sha256": "b684816f16b031a02112277bd0f0923e790da43d72c1e73bb4c18e2fad14eac3"
+    }
+   ]
+  }
+ ]
+}

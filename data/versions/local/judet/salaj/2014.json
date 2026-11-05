@@ -1,0 +1,186 @@
+{
+ "country": "RO",
+ "shard": "local/judet/salaj/2014",
+ "acts": [
+  {
+   "slug": "hcj-salaj-114-2014",
+   "path": "local/judet/salaj/2014/114",
+   "short": "HCJ Sălaj nr. 114/2014",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 114/2014 privind pentru modificarea şi completarea Hotărârii Consiliului Județean Sălaj nr. 1 din 27 ianuarie 2014 privind alocarea cotei de 20% din impozitul pe venit şi din sumele defalcate din unele venituri ale bugetului de stat pentru susţinerea programelor de dez",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=100:hotarari-2014&catid=2",
+   "versions": [
+    {
+     "from": "2014-10-24",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2014/hot1142014.pdf",
+     "sha256": "86c7938e27454a838cbef2c284a0de115a3eceaa4057b224ed896b3da1459af5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-117-2014",
+   "path": "local/judet/salaj/2014/117",
+   "short": "HCJ Sălaj nr. 117/2014",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 117/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-10-24",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2014/hot1172014.pdf",
+     "sha256": "a131cc71cfcf5677d423037c84e198f51372ddb937f7be3c1aa85e123d613ba6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-131-2014",
+   "path": "local/judet/salaj/2014/131",
+   "short": "HCJ Sălaj nr. 131/2014",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 131/2014 privind aprobarea Regulamentului de organizare şi funcţionare al aparatului de specialitate al Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=100:hotarari-2014&catid=2",
+   "versions": [
+    {
+     "from": "2014-11-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2014/hot1312014.pdf",
+     "sha256": "5494fe3242ba193a7faf6cfe27ac161ea7d33b3538fc9fac839102304887d421"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-136-2014",
+   "path": "local/judet/salaj/2014/136",
+   "short": "HCJ Sălaj nr. 136/2014",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 136/2014 privind aprobarea Caietului de obiective, a Regulamentului de organizare şi desfăşurare a concursului de management organizat pentru ocuparea postului de manager la Biblioteca Judeţeană \"Ioniţă Scipione Bădescu\" Sălaj şi desemnarea reprezentanţilor Consiliului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=100:hotarari-2014&catid=2",
+   "versions": [
+    {
+     "from": "2014-11-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2014/hot1362014.pdf",
+     "sha256": "75c27b7c9a9232f32a90119ccd5808d6321199433cb50abae4a887dfa2797e7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-149-2014",
+   "path": "local/judet/salaj/2014/149",
+   "short": "HCJ Sălaj nr. 149/2014",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 149/2014 privind stabilirea taxelor şi tarifelor de competenţa Consiliului Judeţean Sălaj, pentru anul 2015",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=100:hotarari-2014&catid=2",
+   "versions": [
+    {
+     "from": "2014-12-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2014/hot1492014.pdf",
+     "sha256": "873ffb2f5150c8b48a8487c22cb55126bac729df7b15334af062514aeff39df5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-151-2014",
+   "path": "local/judet/salaj/2014/151",
+   "short": "HCJ Sălaj nr. 151/2014",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 151/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-12-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2014/hot1512014.pdf",
+     "sha256": "ce4eb5d11667df693238e9e527cbbfb4000b8888899fd1a839b96b5d5aebc60b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-16-2014",
+   "path": "local/judet/salaj/2014/16",
+   "short": "HCJ Sălaj nr. 16/2014",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 16/2014 privind modificarea şi completarea Hotărârii Consiliului Județean Sălaj nr. 113 din 26 noiembrie 2013 privind stabilirea taxelor și tarifelor de competența Consiliului Județean Sălaj, pentru anul 2014",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=100:hotarari-2014&catid=2",
+   "versions": [
+    {
+     "from": "2014-02-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2014/hot162014.pdf",
+     "sha256": "0be9c99a74656bd1ae304bcd681feb32d0c52cba7285f2cdc8800bcdcb7c14c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-17-2014",
+   "path": "local/judet/salaj/2014/17",
+   "short": "HCJ Sălaj nr. 17/2014",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 17/2014 privind aprobarea Regulamentului de organizare şi desfăşurare a evaluării anuale a managementului la Biblioteca Judeţeană \"Ioniţă Scipione Bădescu\" Sălaj și desemnarea reprezentanţilor Consiliului Judeţean Sălaj în cadrul comisiei de evaluare şi comisiei de sol",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=100:hotarari-2014&catid=2",
+   "versions": [
+    {
+     "from": "2014-02-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2014/hot172014.pdf",
+     "sha256": "4994b500954dbe17b0967f541c9ff41f5df3bc8d5922dcd612e1a804a4d7fbc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-26-2014",
+   "path": "local/judet/salaj/2014/26",
+   "short": "HCJ Sălaj nr. 26/2014",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 26/2014 privind aprobarea caietului de obiective, a Regulamentului de organizare şi desfăşurare a concursului de management organizat pentru ocuparea postului de manager la Muzeul Judeţean de Istorie şi Artă Zalău şi desemnarea reprezentanţilor Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=100:hotarari-2014&catid=2",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2014/hot262014.pdf",
+     "sha256": "e17ffbd3408afcdb60ef32775dcc3fe24301a00457a86637952ecdc91971b0bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-27-2014",
+   "path": "local/judet/salaj/2014/27",
+   "short": "HCJ Sălaj nr. 27/2014",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 27/2014 privind aprobarea caietului de obiective, a Regulamentului de organizare şi desfăşurare a concursului de management organizat pentru ocuparea postului de manager la Centrul de Cultură şi Artă al Judeţului Sălaj şi desemnarea reprezentanţilor Consiliului Judeţean S",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=100:hotarari-2014&catid=2",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2014/hot272014.pdf",
+     "sha256": "84e277e7130683ab00cf201f955a6085b8e33741086f47a145b82fb030238265"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-5-2014",
+   "path": "local/judet/salaj/2014/5",
+   "short": "HCJ Sălaj nr. 5/2014",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 5/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-01-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2014/hot52014.pdf",
+     "sha256": "ac7aee5b88ce72ff1556bbdf612bf090b09a32a60a5777bb126ec630e142f911"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-92-2014",
+   "path": "local/judet/salaj/2014/92",
+   "short": "HCJ Sălaj nr. 92/2014",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 92/2014 privind aprobarea unor taxe la Centrul de Cultură şi Artă al Judeţului Sălaj, pentru anul şcolar 2014-2015",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=100:hotarari-2014&catid=2",
+   "versions": [
+    {
+     "from": "2014-08-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2014/hot922014.pdf",
+     "sha256": "8b92569f16aa26a2639c7d59413f3493ba6f82de72948f1005eaf0c87d087b3a"
+    }
+   ]
+  }
+ ]
+}

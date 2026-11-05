@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/botosani/dorohoi/2023",
+"acts": [
+{
+"slug": "hcl-botosani--dorohoi-309-2023",
+"path": "local/botosani/dorohoi/2023/309",
+"kind": "local",
+"year": "2023",
+"number": "309",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 309/2023 pentru aprobarea taxelor si tarifelor ce se vor incasa de catre Directia Administratia Pietelor si Oborului din Municipiul Dorohoi, incepand cu data de 01.01.2023",
+"short": "HCL Dorohoi nr. 309/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-01-01",
+"latest": "2023-01-01",
+"portal": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=5674:registrul-pentru-evidena-hotrarilor-autoritii-deliberative&catid=225:registre&Itemid=1165",
+"council": "botosani/dorohoi",
+"council_name": "Consiliul Local al Municipiului Dorohoi",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

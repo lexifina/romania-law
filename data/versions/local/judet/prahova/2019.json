@@ -3,6 +3,36 @@
  "shard": "local/judet/prahova/2019",
  "acts": [
   {
+   "slug": "hcj-prahova-151-2019",
+   "path": "local/judet/prahova/2019/151",
+   "short": "HCJ Prahova nr. 151/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 151/2019 pentru completarea Hotărârii nr. 81/2013 a Consiliului Județean Prahova privind înființarea pe lângă Direcția Generală de Asistență Socială și Protecția Copilului Prahova a Comitetului de analiză a problemelor persoanelor cu handicap și aprobarea Regulamentului",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-11-18",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-151-din-data-18-11-2019.pdf",
+     "sha256": "b32d1414b6c9c3867b7e7ccea3753da1eb449e1e7788bd02549b5713c8f1ac11"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-155-2019",
+   "path": "local/judet/prahova/2019/155",
+   "short": "HCJ Prahova nr. 155/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 155/2019 privind aprobarea Regulamentului de organizare a ”Galei de Excelență a Învățământului Prahovean în anul 2019”",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-11-18",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-155-din-data-18-11-2019.pdf",
+     "sha256": "b0e74ff4fcf097eba0e3e680d0e2d24f9531a8abdb4d0e55c70bd03acf9f5746"
+    }
+   ]
+  },
+  {
    "slug": "hcj-prahova-175-2019",
    "path": "local/judet/prahova/2019/175",
    "short": "HCJ Prahova nr. 175/2019",
@@ -89,6 +119,36 @@
      "units": 1,
      "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-180-din-data-16-12-2019.pdf",
      "sha256": "a126ded953a2d5610490aeb1b61beeaf59e3ed88c1b35fa11eff0e249d8a7ff5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-89-2019",
+   "path": "local/judet/prahova/2019/89",
+   "short": "HCJ Prahova nr. 89/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 89/2019 privind plata cotizaţiei pe anul 2019 către Asociaţia Naţională a Autorităţilor Teritoriale de Ordine Publică din România",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=4",
+   "versions": [
+    {
+     "from": "2019-07-17",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-89-din-data-17-07-2019.pdf",
+     "sha256": "523e020beadbac898a2f9471a63ba4e21bc93a8955e852320048b7a54733635d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-98-2019",
+   "path": "local/judet/prahova/2019/98",
+   "short": "HCJ Prahova nr. 98/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 98/2019 privind aprobarea normelor financiare pentru activitatea sportivă a Clubului Sportiv „ACTIV PRAHOVA - PLOIEȘTI”",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=3",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-98-din-data-26-07-2019.pdf",
+     "sha256": "d164102183cf7c6b195125a2b0b07577d046918ae0334cb02a7634fd21432e40"
     }
    ]
   }

@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Județean Botoșani nr. 219/2021 privind acordarea unui mandat special reprezentantului Județului Botoșani în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ,,ECOPROCES” Botoșani, pentru a vota, în numele și pe seama Județului Botoșani, aprobarea Planului de creștere a tarifelor actualizat, la luna august 202
+
+HCJ Botoșani nr. 219/2021 · 1 versions, from 2021-10-27 (latest in force: 2021-10-27) · <https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/>
+
+**Status:** Text withheld: its text names a natural person (honorific), and is not anonymised, so only its metadata is published here; the official text is at the council's record.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcj-botosani-219-2021` (tags `hcj-botosani-219-2021/<day>`; `python tools/on.py <day> hcj-botosani-219-2021`).
+
+## Decisions made by hand
+
+- HCJ Botoșani nr. 219/2021: listed from Consiliul Județean Botoșani (www.cjbotosani.ro); metadata only for now: its text names a natural person (honorific).
+- HCJ Botoșani nr. 219/2021: dated from 27 October 2021, the day it was adopted (the register gives no later day of publication).
+- HCJ Botoșani nr. 219/2021: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

@@ -1,0 +1,182 @@
+{
+"country": "RO",
+"shard": "local/judet/salaj/2000",
+"acts": [
+{
+"slug": "hcj-salaj-15-2000",
+"path": "local/judet/salaj/2000/15",
+"kind": "local",
+"year": "2000",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 15/2000 privind aprobarea taxelor speciale pentru servicii publice de protectia plantelor",
+"short": "HCJ Sălaj nr. 15/2000",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2000-04-28",
+"latest": "2000-04-28",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=114:hotarari-2000&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-22-2000",
+"path": "local/judet/salaj/2000/22",
+"kind": "local",
+"year": "2000",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 22/2000 privind modificarea art. 2 al Hotararii nr. 15 din 28 aprilie 2000 a Consiliului Judetean Salaj pentru aprobarea taxelor speciale pentru servicii publice de protectie a plantelor",
+"short": "HCJ Sălaj nr. 22/2000",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2000-05-31",
+"latest": "2000-05-31",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=114:hotarari-2000&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-63-2000",
+"path": "local/judet/salaj/2000/63",
+"kind": "local",
+"year": "2000",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 63/2000 privind majorarea taxelor speciale si stabilirea unei noi taxe pentru serviciile prestate catre utilizatori de Biblioteca Judeteana \"Ionita Scipione Badescu\" Salaj",
+"short": "HCJ Sălaj nr. 63/2000",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2000-10-26",
+"latest": "2000-10-26",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=114:hotarari-2000&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-64-2000",
+"path": "local/judet/salaj/2000/64",
+"kind": "local",
+"year": "2000",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 64/2000 pentru completarea Anexei nr.1 la Hotararea nr.35/1997 privind instituirea unor taxe judetene",
+"short": "HCJ Sălaj nr. 64/2000",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2000-10-26",
+"latest": "2000-10-26",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=114:hotarari-2000&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-67-2000",
+"path": "local/judet/salaj/2000/67",
+"kind": "local",
+"year": "2000",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 67/2000 privind aprobarea taxelor pentru intocmirea unor documentatii tehnico-economice",
+"short": "HCJ Sălaj nr. 67/2000",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2000-10-26",
+"latest": "2000-10-26",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=114:hotarari-2000&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-68-2000",
+"path": "local/judet/salaj/2000/68",
+"kind": "local",
+"year": "2000",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 68/2000 privind aprobarea taxelor pentru activitatea de dirigentare a lucrarilor de alimentare cu apa a satelor, pietruire drumuri de pamant, construire de locuinte si cladiri",
+"short": "HCJ Sălaj nr. 68/2000",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2000-10-26",
+"latest": "2000-10-26",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=114:hotarari-2000&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-72-2000",
+"path": "local/judet/salaj/2000/72",
+"kind": "local",
+"year": "2000",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 72/2000 privind indexarea taxelor si tarifelor stabilite de",
+"short": "HCJ Sălaj nr. 72/2000",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2000-11-28",
+"latest": "2000-11-28",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=114:hotarari-2000&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-73-2000",
+"path": "local/judet/salaj/2000/73",
+"kind": "local",
+"year": "2000",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 73/2000 privind stabilirea normelor anuale de venit pe anul 2001 pentru impunerea contribuabililor care desfasoara activitati independente intr-un punct fix sau ambulant",
+"short": "HCJ Sălaj nr. 73/2000",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2000-11-28",
+"latest": "2000-11-28",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=114:hotarari-2000&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

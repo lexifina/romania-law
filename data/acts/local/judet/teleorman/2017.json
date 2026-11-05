@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/teleorman/2017",
+"acts": [
+{
+"slug": "hcj-teleorman-172-2017",
+"path": "local/judet/teleorman/2017/172",
+"kind": "local",
+"year": "2017",
+"number": "172",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Teleorman nr. 172/2017 pentru echilibrarea bugetelor locale şi a cotei de 20% din cota de 18,5 % din impozitul pe venit, diminuate cu gradul de necolectare a veniturilor proprii pe anul 2018 şi estimările pentru anii 2019-2021",
+"short": "HCJ Teleorman nr. 172/2017",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2017-12-06",
+"latest": "2017-12-06",
+"portal": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202017.htm",
+"council": "judet/teleorman",
+"council_name": "Consiliul Județean Teleorman",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

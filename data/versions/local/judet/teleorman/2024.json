@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/teleorman/2024",
+ "acts": [
+  {
+   "slug": "hcj-teleorman-156-2024",
+   "path": "local/judet/teleorman/2024/156",
+   "short": "HCJ Teleorman nr. 156/2024",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 156/2024 privind aprobarea Regulamentului de organizare şi funcţionare al aparatului de specialitate al Consiliului Judeţean Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202024.htm",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202024/156.pdf",
+     "sha256": "f9db6b6a7e22f37ef266936711c3e48191647657ac1fc4850e1558705ec47b7b"
+    }
+   ]
+  }
+ ]
+}

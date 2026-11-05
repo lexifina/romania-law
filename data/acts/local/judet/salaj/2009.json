@@ -1,0 +1,138 @@
+{
+"country": "RO",
+"shard": "local/judet/salaj/2009",
+"acts": [
+{
+"slug": "hcj-salaj-17-2009",
+"path": "local/judet/salaj/2009/17",
+"kind": "local",
+"year": "2009",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 17/2009 privind aprobarea Regulamentului de organizare si functionare al aparatului de specialitate al Consiliului Judetean Salaj, reactualizat",
+"short": "HCJ Sălaj nr. 17/2009",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2009-01-30",
+"latest": "2009-01-30",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-21-2009",
+"path": "local/judet/salaj/2009/21",
+"kind": "local",
+"year": "2009",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 21/2009 pentru modificarea Hotararii Consiliului Judetean Salaj nr.150/2008 privind stabilirea taxelor si tarifelor de competenta Consiliului Judetean Salaj, pentru anul 2009",
+"short": "HCJ Sălaj nr. 21/2009",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2009-02-27",
+"latest": "2009-02-27",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-123-2009",
+"path": "local/judet/salaj/2009/123",
+"kind": "local",
+"year": "2009",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 123/2009 privind aprobarea Regulamentului de organizare si functionare al aparatului de specialitate al Consiliului Judetean Salaj, reactualizat",
+"short": "HCJ Sălaj nr. 123/2009",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2009-08-31",
+"latest": "2009-08-31",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-135-2009",
+"path": "local/judet/salaj/2009/135",
+"kind": "local",
+"year": "2009",
+"number": "135",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 135/2009 pentru completarea Hotararii Consiliului Judetean Salaj nr.150/2008 privind stabilirea taxelor si tarifelor de competenta Consiliului Judetean Salaj, pentru anul 2009",
+"short": "HCJ Sălaj nr. 135/2009",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2009-10-30",
+"latest": "2009-10-30",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-148-2009",
+"path": "local/judet/salaj/2009/148",
+"kind": "local",
+"year": "2009",
+"number": "148",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 148/2009 privind stabilirea taxelor si tarifelor de competenta Consiliului Judetean Salaj, pentru anul 2010",
+"short": "HCJ Sălaj nr. 148/2009",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2009-11-30",
+"latest": "2009-11-30",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-salaj-154-2009",
+"path": "local/judet/salaj/2009/154",
+"kind": "local",
+"year": "2009",
+"number": "154",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 154/2009 pentru modificarea Hotararii Consiliului Judetean Salaj nr.148 din 30 noiembrie 2009 privind stabilirea taxelor si tarifelor de competenta Consiliului Judetean Salaj, pentru anul 2010",
+"short": "HCJ Sălaj nr. 154/2009",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2009-12-18",
+"latest": "2009-12-18",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

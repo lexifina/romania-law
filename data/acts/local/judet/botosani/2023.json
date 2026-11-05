@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/judet/botosani/2023",
+"acts": [
+{
+"slug": "hcj-botosani-51-2023",
+"path": "local/judet/botosani/2023/51",
+"kind": "local",
+"year": "2023",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 51/2023 privind modificarea Hotărârii Consiliului Județean Botoșani nr. 69 din 30.05.2019 privind aprobarea Regulamentului privind regimul finanțărilor nerambursabile alocate din fonduri ale bugetului Județului Botoșani pentru activitățile de tineret",
+"short": "HCJ Botoșani nr. 51/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-02-24",
+"latest": "2023-02-24",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcj-botosani-93-2023",
+"path": "local/judet/botosani/2023/93",
+"kind": "local",
+"year": "2023",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 93/2023 de modificare a Hotărârii Consiliului Județean Botoșani nr. 33 din 24.02.2023 privind aprobarea Regulamentului de vânzare a locuințelor de tip A.N.L. din Blocul de locuințe realizat prin Agenția Națională pentru Locuințe, situat în municipiul Botoșani str. Ștefan cel Mare nr. 39 (20 apartamente)",
+"short": "HCJ Botoșani nr. 93/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-05-29",
+"latest": "2023-05-29",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/alte-documente/informari-proiecte-de-hotarari-cu-caracter-normativ/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcj-botosani-110-2023",
+"path": "local/judet/botosani/2023/110",
+"kind": "local",
+"year": "2023",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 110/2023 pentru modificarea Hotărârii Consiliului Județean Botoșani nr. 274 din 21.12.2022 privind aprobarea prețurilor medii ale produselor agricole pentru anul 2023",
+"short": "HCJ Botoșani nr. 110/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-06-29",
+"latest": "2023-06-29",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcj-botosani-139-2023",
+"path": "local/judet/botosani/2023/139",
+"kind": "local",
+"year": "2023",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 139/2023 privind aprobarea taxelor școlare pentru elevii Școlii Populare de Arte „George Enescu” Botoșani, pe anul școlar 2023 - 2024",
+"short": "HCJ Botoșani nr. 139/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-07-27",
+"latest": "2023-07-27",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcj-botosani-237-2023",
+"path": "local/judet/botosani/2023/237",
+"kind": "local",
+"year": "2023",
+"number": "237",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 237/2023 privind aprobarea preţurilor medii ale produselor agricole pentru anul 2024",
+"short": "HCJ Botoșani nr. 237/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

@@ -3,6 +3,73 @@
 "shard": "local/mehedinti/drobeta-turnu-severin/2024",
 "acts": [
 {
+"slug": "hcl-mehedinti--drobeta-turnu-severin-9-2024",
+"path": "local/mehedinti/drobeta-turnu-severin/2024/9",
+"kind": "local",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 9/2024 privind aprobarea Programului de Acțiuni Comunitare destinat prevenirii și combaterii riscului de sărăcie și excluziune socială pentru anul 2024",
+"short": "HCL Drobeta-Turnu Severin nr. 9/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-02-07",
+"latest": "2024-02-07",
+"portal": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/139593",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-mehedinti--drobeta-turnu-severin-51-2024",
+"path": "local/mehedinti/drobeta-turnu-severin/2024/51",
+"kind": "local",
+"year": "2024",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 51/2024",
+"short": "HCL Drobeta-Turnu Severin nr. 51/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-04-15",
+"latest": "2024-04-15",
+"portal": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/143913",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--drobeta-turnu-severin-123-2024",
+"path": "local/mehedinti/drobeta-turnu-severin/2024/123",
+"kind": "local",
+"year": "2024",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 123/2024 privind aprobarea casării mijloacelor fixe aparținând instituției de învățământ Școala Gimnazială \"Theodor Costescu\"",
+"short": "HCL Drobeta-Turnu Severin nr. 123/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-07-12",
+"latest": "2024-07-12",
+"portal": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/157829",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
 "slug": "hcl-mehedinti--drobeta-turnu-severin-131-2024",
 "path": "local/mehedinti/drobeta-turnu-severin/2024/131",
 "kind": "local",
@@ -44,6 +111,51 @@
 "council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--drobeta-turnu-severin-191-2024",
+"path": "local/mehedinti/drobeta-turnu-severin/2024/191",
+"kind": "local",
+"year": "2024",
+"number": "191",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 191/2024",
+"short": "HCL Drobeta-Turnu Severin nr. 191/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-08-08",
+"latest": "2024-08-08",
+"portal": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/164699",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--drobeta-turnu-severin-325-2024",
+"path": "local/mehedinti/drobeta-turnu-severin/2024/325",
+"kind": "local",
+"year": "2024",
+"number": "325",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 325/2024 privind modificarea HCL nr. 58/28.02.2022 referitoare la aprobarea Regulamentului de organizare și funcționare a parcărilor publice cu tarifare orară cât și procedura de atribuire a locurilor în parcările publice de reședință în municipiul Drobeta Turnu Severin",
+"short": "HCL Drobeta-Turnu Severin nr. 325/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-12-30",
+"latest": "2024-12-30",
+"portal": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/183605",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"text_pending": "ocr"
 }
 }
 ]

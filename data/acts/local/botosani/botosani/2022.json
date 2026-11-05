@@ -23,6 +23,51 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcl-botosani--botosani-77-2022",
+"path": "local/botosani/botosani/2022/77",
+"kind": "local",
+"year": "2022",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 77/2022 pentru modificarea Hotărârii Consiliului Local nr. 387/28.10.2021 privind aprobarea Regulamentului de acordare a unor beneficii de asistență socială, sub formă de tichete sprijin în cuantum de 500 de lei pentru remedierea problemelor oculare la preșcolarii și elevii din municipiul Botoșani, pentru facilitarea accesului la educație",
+"short": "HCL Botoșani nr. 77/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-03-16",
+"latest": "2022-03-16",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--botosani-113-2022",
+"path": "local/botosani/botosani/2022/113",
+"kind": "local",
+"year": "2022",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 113/2022",
+"short": "HCL Botoșani nr. 113/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-03-30",
+"latest": "2022-03-30",
+"portal": null,
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
 }
 ]
 }

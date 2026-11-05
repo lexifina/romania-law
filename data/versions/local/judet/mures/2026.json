@@ -421,6 +421,21 @@
      "sha256": "06079cc5ff0882fcb6fb5d459dc8774dbce2d68fcce50d47d17154a8cbbba50f"
     }
    ]
+  },
+  {
+   "slug": "hcj-mures-94-2026",
+   "path": "local/judet/mures/2026/94",
+   "short": "HCJ Mureș nr. 94/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 94/2026 privind aprobarea unor taxe și tarife la instituțiile de cultură subordonate Consiliului Județean Mureș",
+   "url": "https://ro.cjmures.ro/consiliul-judetean/hotarari/hotararea-nr-94-din-30-iulie-2026-privind-aprobarea-unor-taxe-si-tarife-la-institutiile-de-cultura-subordonate-consiliului-judetean-mures",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/07/hot-94.pdf",
+     "sha256": "ef6c46d773f1bf5b83183f9c9bc0287f8e251a47a13f3f230bfd0b63247d6389"
+    }
+   ]
   }
  ]
 }

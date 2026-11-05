@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/arges/campulung/2008",
+ "acts": [
+  {
+   "slug": "hcl-arges--campulung-16-2008",
+   "path": "local/arges/campulung/2008/16",
+   "short": "HCL Câmpulung nr. 16/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 16/2008",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2016%20din%2031.01.2008.pdf",
+     "sha256": "9024e5ac17c900846297258a83be6dceca63e29c3657e687de7b1e47b2eb27f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-45-2008",
+   "path": "local/arges/campulung/2008/45",
+   "short": "HCL Câmpulung nr. 45/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 45/2008 privind taxele şi tarifele pe anul 2008 pentru transportul în regim de taxi Hotărâre privind taxele şi tarifele pe anul 2008 pentru transportul în regim de taxi",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2045%20din%2028.02.2008.pdf",
+     "sha256": "c6aa055254c479cc428ad3c904589ea383174fbdd5bb4399449974ac4c9d79b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-58-2008",
+   "path": "local/arges/campulung/2008/58",
+   "short": "HCL Câmpulung nr. 58/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 58/2008 privind acordarea de facilităţi fiscale la plata impozitului pe clădiri şi a impozitului pe terenul aferent pentru semestrul I - 2008 Hotărâre privind acordarea de facilităţi fiscale la plata impozitului pe clădiri şi a impozitului pe terenul aferent pentru semestrul I - 2008",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2058%20din%2027.03.2008.pdf",
+     "sha256": "d6d1889477e3eaa0020539e2b35d1360037c06c84bb223407b3977a1050185cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-61-2008",
+   "path": "local/arges/campulung/2008/61",
+   "short": "HCL Câmpulung nr. 61/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 61/2008 privind înfiinţarea unui Compartiment de Transport Public Local în cadrul Serviciului Tehnic, Urbanism, Amenajarea Teritoriului Hotărâre privind înfiinţarea unui Compartiment de Transport Public Local în cadrul Serviciului Tehnic, Urbanism, Amenajarea Teritoriului",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2061%20din%2027.03.2008.pdf",
+     "sha256": "24199e632a7c2d20f1e0337ee83b47c769616f41196419d07a690c82496f4518"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-62-2008",
+   "path": "local/arges/campulung/2008/62",
+   "short": "HCL Câmpulung nr. 62/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 62/2008 privind organizarea păşunatului şi stabilirea taxei de păşunat pe izlazurile proprietatea Municipiului Câmpulung Hotărâre privind organizarea păşunatului şi stabilirea taxei de păşunat pe izlazurile proprietatea Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2062%20din%2027.03.2008.pdf",
+     "sha256": "684a87e690906a68916bc3ed8acc395d99f7212560adbc76af13cbe0473a4517"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-81-2008",
+   "path": "local/arges/campulung/2008/81",
+   "short": "HCL Câmpulung nr. 81/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 81/2008 privind constituirea Comisiei Locale de Ordine Publică Hotărâre privind constituirea Comisiei Locale de Ordine Publică",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-04-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2081%20din%2030.04.2008.pdf",
+     "sha256": "7a2aa21406cd68cbcc4ba095daee1b45bb2782c9675ef4bd7f9e03a25f267f7a"
+    }
+   ]
+  }
+ ]
+}

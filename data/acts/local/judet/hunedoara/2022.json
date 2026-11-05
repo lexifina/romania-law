@@ -3,6 +3,28 @@
 "shard": "local/judet/hunedoara/2022",
 "acts": [
 {
+"slug": "hcj-hunedoara-5-2022",
+"path": "local/judet/hunedoara/2022/5",
+"kind": "local",
+"year": "2022",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Hunedoara nr. 5/2022 privind aprobarea prețului pentru apa potabilă și a tarifului pentru canalizare-epurare pentru aria de operare a SC APA PROD SA Deva",
+"short": "HCJ Hunedoara nr. 5/2022",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2022-01-28",
+"latest": "2022-01-28",
+"portal": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/599-hotarari-2022",
+"council": "judet/hunedoara",
+"council_name": "Consiliul Județean Hunedoara",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
 "slug": "hcj-hunedoara-19-2022",
 "path": "local/judet/hunedoara/2022/19",
 "kind": "local",
@@ -22,6 +44,138 @@
 "council_name": "Consiliul Județean Hunedoara",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-hunedoara-26-2022",
+"path": "local/judet/hunedoara/2022/26",
+"kind": "local",
+"year": "2022",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Hunedoara nr. 26/2022 privind aprobarea metodologiei de acordare a sumelor necesare acoperirii cheltuielilor de transport și cazare realizate de adoptator sau familia adoptatoare în vederea participării la procedura potrivirii practice cu un copil având domiciliul în alt județ decât cel al adoptatorului/familiei adoptatoare",
+"short": "HCJ Hunedoara nr. 26/2022",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2022-02-25",
+"latest": "2022-02-25",
+"portal": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/599-hotarari-2022",
+"council": "judet/hunedoara",
+"council_name": "Consiliul Județean Hunedoara",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-hunedoara-106-2022",
+"path": "local/judet/hunedoara/2022/106",
+"kind": "local",
+"year": "2022",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Hunedoara nr. 106/2022 privind aprobarea regulamentelor de vizitare a unor monumente istorice înscrise în lista patrimoniului mondial UNESCO, aflate în administrarea Direcției Generale de Administrare Monumente și Promovare Turistică a Județului Hunedoara",
+"short": "HCJ Hunedoara nr. 106/2022",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2022-04-28",
+"latest": "2022-04-28",
+"portal": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/599-hotarari-2022",
+"council": "judet/hunedoara",
+"council_name": "Consiliul Județean Hunedoara",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-hunedoara-205-2022",
+"path": "local/judet/hunedoara/2022/205",
+"kind": "local",
+"year": "2022",
+"number": "205",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Hunedoara nr. 205/2022 privind aprobarea nivelului taxelor şi tarifelor precum şi altor taxe asimilate acestora, din competenţa Consiliului Judeţean Hunedoara, aplicabile în anul fiscal 2022, cu modificările și completările ulterioare",
+"short": "HCJ Hunedoara nr. 205/2022",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2022-07-29",
+"latest": "2022-07-29",
+"portal": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/599-hotarari-2022",
+"council": "judet/hunedoara",
+"council_name": "Consiliul Județean Hunedoara",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-hunedoara-325-2022",
+"path": "local/judet/hunedoara/2022/325",
+"kind": "local",
+"year": "2022",
+"number": "325",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Hunedoara nr. 325/2022 privind Aprobarea metodologiei de acordare a sumelor necesare acoperirii cheltuielilor de transport și cazare realizate de adoptator sau familia adoptatoare în vederea participării la procedura potrivirii practice cu un copil având domiciliul în alt județ decât cel al adoptatorului/familiei adoptatoare",
+"short": "HCJ Hunedoara nr. 325/2022",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2022-10-28",
+"latest": "2022-10-28",
+"portal": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/599-hotarari-2022",
+"council": "judet/hunedoara",
+"council_name": "Consiliul Județean Hunedoara",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-hunedoara-398-2022",
+"path": "local/judet/hunedoara/2022/398",
+"kind": "local",
+"year": "2022",
+"number": "398",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Hunedoara nr. 398/2022 privind aprobarea nivelului taxelor şi tarifelor precum şi altor taxe asimilate acestora, din competenţa Consiliului Judeţean Hunedoara, aplicabile în anul fiscal 2023",
+"short": "HCJ Hunedoara nr. 398/2022",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2022-12-22",
+"latest": "2022-12-22",
+"portal": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/599-hotarari-2022",
+"council": "judet/hunedoara",
+"council_name": "Consiliul Județean Hunedoara",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-hunedoara-407-2022",
+"path": "local/judet/hunedoara/2022/407",
+"kind": "local",
+"year": "2022",
+"number": "407",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Hunedoara nr. 407/2022 privind aprobarea completării Regulamentelor privind cofinanțarea furnizorilor privați acreditați de servicii sociale în domeniul protecției copilului și în domeniul protecției persoanei adulte cu handicap sau persoanei vârstnice din cuprinsul Hotărârii Consiliului Județean Hunedoara nr.55/2017, cu modificările și completările ulterioare",
+"short": "HCJ Hunedoara nr. 407/2022",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2022-12-22",
+"latest": "2022-12-22",
+"portal": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/599-hotarari-2022",
+"council": "judet/hunedoara",
+"council_name": "Consiliul Județean Hunedoara",
+"flags": {
+"text_pending": "ocr"
 }
 }
 ]

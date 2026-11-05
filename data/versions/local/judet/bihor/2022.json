@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/judet/bihor/2022",
+ "acts": [
+  {
+   "slug": "hcj-bihor-2-2022",
+   "path": "local/judet/bihor/2022/2",
+   "short": "HCJ Bihor nr. 2/2022",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 2/2022 privind modificarea și completarea Hotărârii nr. 122 din 2020 privind aprobarea Regulamentului pentru efectuarea serviciului public de transport județean de persoane prin curse regulate în județul Biho",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2021/",
+   "versions": [
+    {
+     "from": "2022-04-08",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2021/02/Rectificarea-nr-2-la-HCJB-nr-183-din-2021-2.pdf",
+     "sha256": "170493c15801ab43622f9753f3837338956257442b18c75fe6c1199a0e21d324"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-359-2022",
+   "path": "local/judet/bihor/2022/359",
+   "short": "HCJ Bihor nr. 359/2022",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 359/2022 PRIVIND APROBAREA PROCEDURII DE PRELUARE A AUTOSPECIALELOR ACHIZIȚIONATE DE ASOCIAȚIA DE DEZVOLTARE INTERCOMUNITARĂ ”TRANSILVANIA DE NORD” ÎN PATRIMONIUL JUDEȚULUI BIHOR",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2021/02/h-359-din-09.12.2022_Redacted.pdf",
+     "sha256": "b4eebdc853fcd7ec7fa0e19fb069f8b58a6689f3994a8f3d7d8b69cf9ebe13b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-387-2022",
+   "path": "local/judet/bihor/2022/387",
+   "short": "HCJ Bihor nr. 387/2022",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 387/2022 PRIVIND APROBAREA ”HARTA STRATEGICĂ DE ZGOMOT AEROPORTUL INTERNAȚIONAL ORADEA”",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2021/02/h-387-din-22.12.2022_Redacted.pdf",
+     "sha256": "25b01398602fe2296a1b929196bf6315866ce1628fad37519e18cdf386c13b42"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-83-2022",
+   "path": "local/judet/bihor/2022/83",
+   "short": "HCJ Bihor nr. 83/2022",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 83/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2021/02/h-83-din-31.03.2022_Redacted.pdf",
+     "sha256": "8b451a37bfc9f29609ed49771bb2a211cd60b2f8134b9ec621ee575ffd4df314"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-97-2022",
+   "path": "local/judet/bihor/2022/97",
+   "short": "HCJ Bihor nr. 97/2022",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 97/2022 PRIVIND MODIFICAREA HOTĂRÂRII CONSILIULUI JUDEȚEAN BIHOR NR.241/29.12.2020 PENTRU APROBAREA REGULAMENTULUI PRIVIND ÎNTREȚINEREA PE TIMP DE PRIMĂVARĂ-TOAMNĂ ȘI GOSPODĂRIREA DRUMURILOR PUBLICE LA NIVELUL JUDEȚULUI BIHOR",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2022/05/h-97-din-28.04.2022_Redacted.pdf",
+     "sha256": "67bd61248dd61cd86c154b7abbaa4d39c85dc3f2383bc18c109db79c6f1e9836"
+    }
+   ]
+  }
+ ]
+}

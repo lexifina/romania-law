@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/dorohoi/2005",
+ "acts": [
+  {
+   "slug": "hcl-botosani--dorohoi-262-2005",
+   "path": "local/botosani/dorohoi/2005/262",
+   "short": "HCL Dorohoi nr. 262/2005",
+   "title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 262/2005 privind aprobarea proiectului „Actualizarea Planului Urbanistic General (P.U.G.), a Regulamentului Local de Urbanism (R.L.U.) şi transpunerea în format digital/GIS a Planului Urbanistic General (P.U.G.) al Municipiului Dorohoi” în cadrul apelului PNRR/2022/C10/I.4 şi a cheltuielilor aferente acestui proiect",
+   "url": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=5674:registrul-pentru-evidena-hotrarilor-autoritii-deliberative&catid=225:registre&Itemid=1165",
+   "versions": [
+    {
+     "from": "2005-12-26",
+     "units": 1,
+     "source_url": "https://www.primariadorohoi.ro/files/2022/CONSILIUL%20LOCAL/26.sedinta%2008112022/HCL_262_08112021.pdf",
+     "sha256": "c1eb5b6ebe51e60995b711d39b6b11e97599ca954b4c7317660f56e2e1866ef6"
+    }
+   ]
+  }
+ ]
+}

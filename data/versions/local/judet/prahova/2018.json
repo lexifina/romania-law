@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/prahova/2018",
+ "acts": [
+  {
+   "slug": "hcj-prahova-126-2018",
+   "path": "local/judet/prahova/2018/126",
+   "short": "HCJ Prahova nr. 126/2018",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 126/2018 privind aprobarea Regulamentului de acordare a unor stimulente financiare elevilor și cadrelor didactice din instituțiile de învățământ preuniversitar din județul Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2018/?dpage=8",
+   "versions": [
+    {
+     "from": "2018-09-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-126-din-data-28-09-2018.pdf",
+     "sha256": "ea73ace2de8db64f3feffa359cf5c33614774b7b19221c87efcc5d7f99e0797b"
+    }
+   ]
+  }
+ ]
+}
