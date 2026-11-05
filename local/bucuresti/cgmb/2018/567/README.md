@@ -1,0 +1,17 @@
+# Hotărârea Consiliului General al Municipiului București nr. 567/2018 PRIVIND APROBAREA STRUCTURILOR ORGANIZATORICE ALE UNOR SPITALE AFLATE IN ADMINISTRAREA MUNICIPALITATII, PRIN ADMINISTRATIA SPITALELOR SI SERVICIILOR MEDICALE BUCURESTI INCETEAZA APLICABILITATEA HCGMB NR. 73/2011 INCETEAZA APLICABILITATEA ANEXELOR 1,2,4 SI 6 ALE HCGMB NR. 174/2011 INCETEAZA APLICABILITATEA HCGMB NR. 105/2016 SE MODIFICA PRIN HCGMB NR. 650/2018 ANEXELE 2 SI 6 ISI INCETEAZA APLICABILITATEA PRIN HCGMB NR. 650/2018 ANEXA NR. 3 SI ANEXA NR. 10 SE MODIFICA PRIN HCGMB NR. 836/2018 SE MODIFICA PRIN HCGMB NR. 169/2019 SE MODIFICA PRIN HCGMB NR. 596/2019 ANEXA NR. 1 SE MODIFICA PRIN HCGMB NR. 735/2019 ANEXA NR. 9 ISI INCETEAZA APLICABILITATEA PRIN HCGMB NR. 80/2020 ANEXA NR. 4 SE MODIFICA PRIN HCGMB NR. 171/2020 ANEXA NR. 1 ISI INCETEAZA APLICABILITATEA PRIN HCGMB NR. 85/2025 SE MODIFICA SI SE COMPLETEAZA ANEXA NR. 5 PRIN HCGMB NR. 376/2025 ART. 8 SI ANEXA NR. 8 ISI INCETEAZA APLICABILITATEA PRIN HCGMB NR. 6/2026 ANEXELE NR. 1, NR. 4, NR. 7 SI NR. 8 MODIFICATE PRIN HCGMB NR. 297/2024 ANEXA NR. 6 ISI INCETEAZA APLICABILITATEA PRIN HCGMB NR. 408/2026 ANEXA NR. 4 ISI INCETEAZA APLICABILITATEA PRIN HCGMB NR. 466/2026
+
+HCGMB nr. 567/2018 · 1 versions, from 2018-08-23 (latest in force: 2018-08-23) · <https://acteinterne.pmb.ro/legis/acteinterne/acte_int/38469>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcgmb-567-2018` (tags `hcgmb-567-2018/<day>`; `python tools/on.py <day> hcgmb-567-2018`).
+
+## Decisions made by hand
+
+- HCGMB nr. 567/2018: listed from Primăria Municipiului București, Acte interne (acteinterne.pmb.ro); an individual decision: metadata only.
+- HCGMB nr. 567/2018: dated from 23 August 2018, the day it was adopted and published.
+- HCGMB nr. 567/2018: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.
