@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12565 acts, 24,080 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12566 acts, 24,081 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -8478,7 +8478,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (2929, of which 676 amending acts)
+## Emergency ordinances (OUG) (2930, of which 676 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8515,6 +8515,7 @@
 | Ordonanța de urgență a Guvernului nr. 69/1997 privind acordarea unui ajutor pentru plata cheltuielilor suplimentare, determinate de creşterea consumului de energie termica în lunile sezonului rece şi de majorarea preţului acesteia, pentru unele categorii ale populaţiei, precum şi modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 3/1997 | [`oug/1997/69/`](oug/1997/69/) | amended, not consolidated | 1 | 1997-11-05 | 1997-11-05 |
 | Ordonanța de urgență a Guvernului nr. 70/1997 pentru ratificarea Acordului-cadru de împrumut dintre România şi Fondul de Dezvoltare Socială al Consiliului Europei, semnat la Paris la 1 octombrie 1997 | [`oug/1997/70/`](oug/1997/70/) | amended, not consolidated | 1 | 1997-11-12 | 1997-11-12 |
 | Ordonanța de urgență a Guvernului nr. 71/1997 pentru ratificarea Acordului de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare - Proiectul privind reabilitarea şcolilor - semnat la Washington la 2 octombrie 1997 | [`oug/1997/71/`](oug/1997/71/) | amended, not consolidated | 1 | 1997-11-12 | 1997-11-12 |
+| Ordonanța de urgență a Guvernului nr. 74/1997 privind unele măsuri pentru asigurarea stocurilor de păcura şi combustibil lichid uşor pentru iarna 1997-1998 | [`oug/1997/74/`](oug/1997/74/) | in force | 1 | 1997-11-14 | 1997-11-14 |
 | Ordonanța de urgență a Guvernului nr. 75/1997 pentru completarea Legii nr. 50/1996 privind salarizarea şi alte drepturi ale personalului din organele autorităţii judecătoreşti | [`oug/1997/75/`](oug/1997/75/) | amended, not consolidated | 1 | 1997-11-24 | 1997-11-24 |
 | Ordonanța de urgență a Guvernului nr. 78/1997 pentru completarea articolului 1 din Legea nr. 2/1992 privind acordarea de indemnizaţii membrilor Academiei Române | [`oug/1997/78/`](oug/1997/78/) | amended, not consolidated | 1 | 1997-12-15 | 1997-12-15 |
 | Ordonanța de urgență a Guvernului nr. 81/1997 pentru reglementarea plății premiilor anuale, a celui de-al 13-lea salariu sau a altor sume de aceasta natura, suportate din fondul de salarii, care, de regula, se acordă la finele anului | [`oug/1997/81/`](oug/1997/81/) | in force | 2 | 1997-12-17 | 1998-07-02 |
@@ -12631,7 +12632,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 29244 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 29275 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |
