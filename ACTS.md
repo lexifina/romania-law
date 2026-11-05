@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12629 acts, 24,144 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12637 acts, 24,152 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8499, of which 3216 amending acts)
+## Laws (legi) (8507, of which 3219 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -363,7 +363,15 @@
 | Legea nr. 87/1996 pentru aprobarea Ordonanţei Guvernului nr. 5/1996 privind actualizarea taxelor de avizare şi atestare, precum şi întărirea disciplinei financiare în activitatea jocurilor de noroc | [`lege/1996/87/`](lege/1996/87/) | amended, not consolidated | 1 | 1996-07-17 | 1996-07-17 |
 | Legea nr. 91/1996 cu privire la asigurarea facultativă a autovehiculelor Camerei Deputaţilor, Senatului, Curţii Constituţionale, Curţii de Conturi şi Consiliului Legislativ | [`lege/1996/91/`](lege/1996/91/) | amended, not consolidated | 1 | 1996-07-12 | 1996-07-12 |
 | Legea nr. 92/1996 | [`lege/1996/92/`](lege/1996/92/) | in force | 2 | 1996-07-30 | 2002-02-12 |
+| Legea nr. 93/1996 privind ratificarea Acordului dintre Guvernul României şi Organizaţia pentru Cooperare şi Dezvoltare Economică cu privire la privilegiile şi imunităţile acordate Organizaţiei | [`lege/1996/93/`](lege/1996/93/) | in force | 1 | 1996-09-25 | 1996-09-25 |
+| Legea nr. 94/1996 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Confederaţiei Elveţiene privind cooperarea tehnică gratuita, semnat la Bucureşti la 8 noiembrie 1995 | [`lege/1996/94/`](lege/1996/94/) | in force | 1 | 1996-09-26 | 1996-09-26 |
+| Legea nr. 95/1996 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Croaţia privind transporturile maritime, semnat la Zagreb la 8 iunie 1994 | [`lege/1996/95/`](lege/1996/95/) | in force | 1 | 1996-09-26 | 1996-09-26 |
+| Legea nr. 97/1996 pentru aprobarea Ordonanţei Guvernului nr. 45/1995 privind aprobarea Acordului pentru încheierea decontărilor în ruble transferabile, precum şi transformarea şi lichidarea soldului în ruble transferabile în favoarea Republicii Federale Germania | [`lege/1996/97/`](lege/1996/97/) | amending act | 1 | 1996-09-25 | 1996-09-25 |
+| Legea nr. 99/1996 privind aprobarea Ordonanţei Guvernului nr. 14/1996 pentru ratificarea Acordului de împrumut (Împrumutul de ajustare a sectorului financiar şi al întreprinderilor - FESAL) dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Washington la 19 ianuarie 1996 | [`lege/1996/99/`](lege/1996/99/) | amending act | 1 | 1996-09-25 | 1996-09-25 |
+| Legea nr. 100/1996 pentru aderarea României la Acordul european privind marile linii internaţionale de cale ferată (A.G.C.), încheiat la Geneva la 31 mai 1985 | [`lege/1996/100/`](lege/1996/100/) | in force | 1 | 1996-09-30 | 1996-09-30 |
+| Legea nr. 101/1996 pentru aprobarea Ordonanţei Guvernului nr. 2/1996 cu privire la completarea şi modificarea unor reglementări referitoare la taxa pe valoarea adăugată | [`lege/1996/101/`](lege/1996/101/) | amending act | 1 | 1996-09-25 | 1996-09-25 |
 | Legea nr. 103/1996 | [`lege/1996/103/`](lege/1996/103/) | in force | 3 | 1996-10-27 | 2005-12-28 |
+| Legea nr. 104/1996 privind contul general anual de execuţie a bugetului de stat pe anul 1992 | [`lege/1996/104/`](lege/1996/104/) | in force | 1 | 1996-10-01 | 1996-10-01 |
 | Legea nr. 105/1996 | [`lege/1996/105/`](lege/1996/105/) | in force | 4 | 1996-09-30 | 2004-12-10 |
 | Legea apelor nr. 107/1996 | [`lege/1996/107/`](lege/1996/107/) | in force | 30 | 1996-12-07 | 2024-07-08 |
 | Legea nr. 108/1996 | [`lege/1996/108/`](lege/1996/108/) | in force | 1 | 1996-10-17 | 1996-10-17 |
@@ -12695,7 +12703,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 30135 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 30180 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |

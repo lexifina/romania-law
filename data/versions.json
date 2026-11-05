@@ -82451,6 +82451,21 @@
    ]
   },
   {
+   "slug": "legea-100-1996",
+   "path": "lege/1996/100",
+   "short": "Legea nr. 100/1996",
+   "title": "Legea nr. 100/1996 pentru aderarea României la Acordul european privind marile linii internaţionale de cale ferată (A.G.C.), încheiat la Geneva la 31 mai 1985",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8537",
+   "versions": [
+    {
+     "from": "1996-09-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8537",
+     "sha256": "079f03786051bab71c8c83b0fdd4b28d5eb4cdf03b38d105fcd211a917f7ed01"
+    }
+   ]
+  },
+  {
    "slug": "legea-100-1997",
    "path": "lege/1997/100",
    "short": "Legea nr. 100/1997",
@@ -82765,6 +82780,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6249",
      "sha256": "96ff33a8e6165764c3d8763b819a0f622e5f1e74d165729e35b693c074ddd8dc"
+    }
+   ]
+  },
+  {
+   "slug": "legea-101-1996",
+   "path": "lege/1996/101",
+   "short": "Legea nr. 101/1996",
+   "title": "Legea nr. 101/1996 pentru aprobarea Ordonanţei Guvernului nr. 2/1996 cu privire la completarea şi modificarea unor reglementări referitoare la taxa pe valoarea adăugată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8541",
+   "versions": [
+    {
+     "from": "1996-09-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8541",
+     "sha256": "2e474fd16a005ed94b1d253b3983639209649fac80e364fb09edcd47261831bc"
     }
    ]
   },
@@ -83770,6 +83800,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311567",
      "sha256": "c15b82fd02e88af67095b6504c52b4c90747e039e56e858dbcb838463cde88f5"
+    }
+   ]
+  },
+  {
+   "slug": "legea-104-1996",
+   "path": "lege/1996/104",
+   "short": "Legea nr. 104/1996",
+   "title": "Legea nr. 104/1996 privind contul general anual de execuţie a bugetului de stat pe anul 1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8552",
+   "versions": [
+    {
+     "from": "1996-10-01",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8552",
+     "sha256": "fda5f96cf67cafe5b347517705a8b61dae694318bc57d789711d56b1002cedce"
     }
    ]
   },
@@ -199304,6 +199349,21 @@
    ]
   },
   {
+   "slug": "legea-93-1996",
+   "path": "lege/1996/93",
+   "short": "Legea nr. 93/1996",
+   "title": "Legea nr. 93/1996 privind ratificarea Acordului dintre Guvernul României şi Organizaţia pentru Cooperare şi Dezvoltare Economică cu privire la privilegiile şi imunităţile acordate Organizaţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8507",
+   "versions": [
+    {
+     "from": "1996-09-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8507",
+     "sha256": "d91f175514d72f790e7e4eba2d9d06aae288c7f00ce85ba4fa07ab89f099f7ed"
+    }
+   ]
+  },
+  {
    "slug": "legea-93-1998",
    "path": "lege/1998/93",
    "short": "Legea nr. 93/1998",
@@ -199570,6 +199630,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298936",
      "sha256": "e87f843dad31d1886ad12c5a71e50f40a7b74dea520d7b1212947679888b99ac"
+    }
+   ]
+  },
+  {
+   "slug": "legea-94-1996",
+   "path": "lege/1996/94",
+   "short": "Legea nr. 94/1996",
+   "title": "Legea nr. 94/1996 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Confederaţiei Elveţiene privind cooperarea tehnică gratuita, semnat la Bucureşti la 8 noiembrie 1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8511",
+   "versions": [
+    {
+     "from": "1996-09-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8511",
+     "sha256": "c77bce79ff34b26eddf3b9438cefa38e4d4931378cdfa98237deae20973d3683"
     }
    ]
   },
@@ -199930,6 +200005,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3286",
      "sha256": "9656bc97e8a279e2b6196be61f9198df87303825a485168af0bdc76ce067525b"
+    }
+   ]
+  },
+  {
+   "slug": "legea-95-1996",
+   "path": "lege/1996/95",
+   "short": "Legea nr. 95/1996",
+   "title": "Legea nr. 95/1996 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Croaţia privind transporturile maritime, semnat la Zagreb la 8 iunie 1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8516",
+   "versions": [
+    {
+     "from": "1996-09-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8516",
+     "sha256": "baf14e323aca82c7fd549da4cd79d5249d0b38b672193230db4185a8a15aff9f"
     }
    ]
   },
@@ -200615,6 +200705,21 @@
    ]
   },
   {
+   "slug": "legea-97-1996",
+   "path": "lege/1996/97",
+   "short": "Legea nr. 97/1996",
+   "title": "Legea nr. 97/1996 pentru aprobarea Ordonanţei Guvernului nr. 45/1995 privind aprobarea Acordului pentru încheierea decontărilor în ruble transferabile, precum şi transformarea şi lichidarea soldului în ruble transferabile în favoarea Republicii Federale Germania",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8525",
+   "versions": [
+    {
+     "from": "1996-09-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8525",
+     "sha256": "d97b119e1659ac79bb14815191483567968aff632014d4c0bccccbbcacedf3d5"
+    }
+   ]
+  },
+  {
    "slug": "legea-97-1997",
    "path": "lege/1997/97",
    "short": "Legea nr. 97/1997",
@@ -201226,6 +201331,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4400",
      "sha256": "7a9e6109e69978fd0e4bc80fde1a77366ceafe25ddf1379bd9d67f87f156aef1"
+    }
+   ]
+  },
+  {
+   "slug": "legea-99-1996",
+   "path": "lege/1996/99",
+   "short": "Legea nr. 99/1996",
+   "title": "Legea nr. 99/1996 privind aprobarea Ordonanţei Guvernului nr. 14/1996 pentru ratificarea Acordului de împrumut (Împrumutul de ajustare a sectorului financiar şi al întreprinderilor - FESAL) dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Washington la 19 ianuarie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8533",
+   "versions": [
+    {
+     "from": "1996-09-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8533",
+     "sha256": "8e2a58db5bdae38e77078e49593854f5eb1bc11837bd3a51418bdc68392cfd20"
     }
    ]
   },
