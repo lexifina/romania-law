@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/judet/bacau/2019",
+ "acts": [
+  {
+   "slug": "hcj-bacau-200-2019",
+   "path": "local/judet/bacau/2019/200",
+   "short": "HCJ Bacău nr. 200/2019",
+   "title": "Hotărârea Consiliului Județean Bacău nr. 200/2019",
+   "url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/buget-finante-2019-000063fa?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/D0EB21BCB2808BBFC225867F002BE569/$FILE/Buget%20de%20%20venituri%20si%20cheltuieli%20an%202019%20hcj%20200%20din%20%2029.08.2019.xls",
+     "sha256": "953dc4cd463b1b773c70eb1d52adf5047fc2dc0485699fce21746ed2ac999415"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bacau-213-2019",
+   "path": "local/judet/bacau/2019/213",
+   "short": "HCJ Bacău nr. 213/2019",
+   "title": "Hotărârea Consiliului Județean Bacău nr. 213/2019",
+   "url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/buget-finante-2019-000063fa?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/612EBF3B9B74DB1AC225867F002BE5A6/$FILE/Program%20investitii%20hcj%20213%20din%2030.09.2019.pdf",
+     "sha256": "191f7d6e80e9ff3c603b9acab5c53175b55e5a1b071ad5c0994e5b4edb66d0ae"
+    }
+   ]
+  }
+ ]
+}

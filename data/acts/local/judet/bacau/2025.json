@@ -3,6 +3,28 @@
 "shard": "local/judet/bacau/2025",
 "acts": [
 {
+"slug": "hcj-bacau-74-2025",
+"path": "local/judet/bacau/2025/74",
+"kind": "local",
+"year": "2025",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bacău nr. 74/2025 pentru anul 2025",
+"short": "HCJ Bacău nr. 74/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-28",
+"latest": "2025-04-28",
+"portal": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/buget-finante-2025-000342d2?OpenDocument",
+"council": "judet/bacau",
+"council_name": "Consiliul Județean Bacău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-bacau-190-2025",
 "path": "local/judet/bacau/2025/190",
 "kind": "local",

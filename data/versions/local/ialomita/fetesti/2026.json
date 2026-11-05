@@ -1,0 +1,561 @@
+{
+ "country": "RO",
+ "shard": "local/ialomita/fetesti/2026",
+ "acts": [
+  {
+   "slug": "hcl-ialomita--fetesti-103-2026",
+   "path": "local/ialomita/fetesti/2026/103",
+   "short": "HCL Fetești nr. 103/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 103/2026 privind trecerea unor bunuri din domeniul privat în domeniul public al Municipiului Fetești",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/280800",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/105083/Anexa.pdf",
+     "sha256": "2bde8bec74792ec7b28289361a0dd42ba50efb615b879ab3cc656411b5f24d22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-106-2026",
+   "path": "local/ialomita/fetesti/2026/106",
+   "short": "HCL Fetești nr. 106/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 106/2026 privind rectificarea bugetului local al Municipiului Fetești pe anul 2026",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/283925",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/106781/anex%C4%83.pdf",
+     "sha256": "5b1ac4dac5591971f41af019cf5a8659bad25b97c37a39ad07a7d27e53e4d36a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-109-2026",
+   "path": "local/ialomita/fetesti/2026/109",
+   "short": "HCL Fetești nr. 109/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 109/2026 privind aprobarea rezultatului sesiunii de selecţie a proiectelor finanţate conform Legii nr. 350/2005 pentru domeniile Asistență Socială şi Culte Religioase pe anul 2026",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/285192",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/107475/Anexa.pdf",
+     "sha256": "8495f57d17b3e6fdf0294c48a5f3f3b01c963820c44f757b1006f2356cef4c7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-112-2026",
+   "path": "local/ialomita/fetesti/2026/112",
+   "short": "HCL Fetești nr. 112/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 112/2026 privind atribuirea denumirii de stradă pentru De169/1 din municipiul Feteşti",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/285195",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/107479/Anexa.pdf",
+     "sha256": "da00a243483714c03cb9199848b1bf11f59d8f653800c62406bc428927a2fca9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-113-2026",
+   "path": "local/ialomita/fetesti/2026/113",
+   "short": "HCL Fetești nr. 113/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 113/2026",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/285196",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/107480/Anexa.pdf",
+     "sha256": "d47f8e630a95387a9f8e4481da294fdf4bc5eccb05bc2ac73cdc2b78b488042a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-115-2026",
+   "path": "local/ialomita/fetesti/2026/115",
+   "short": "HCL Fetești nr. 115/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 115/2026 privind aprobarea Listei solicitanților îndreptățiți și a ordinii de prioritate pentru repartizarea și închirierea locuințelor nZEB plus pentru tineri/locuințe de serviciu pentru specialiști din sănătate și învățământ",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/285198",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/107481/Anexa.pdf",
+     "sha256": "33eb3451f62c7a788ae2146e453fe9a2c940e46809465f376a175a98ee1d9a04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-13-2026",
+   "path": "local/ialomita/fetesti/2026/13",
+   "short": "HCL Fetești nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 13/2026 privind modificarea inventarului bunurilor care fac parte din domeniul privat al municipiului Fetești, aprobat prin H.C.L.nr.150/26.11.2015",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/255784",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/92223/Anexa.pdf",
+     "sha256": "8a381f45362d36ebf61f5840d8e86de2ddcbe5d3a22f5728eb04f9baf469028d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-131-2026",
+   "path": "local/ialomita/fetesti/2026/131",
+   "short": "HCL Fetești nr. 131/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 131/2026 privind atestarea inventarului bunurilor care aparțin domeniului public al municipiului Fetesti, județul Ialomița",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/292144",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/110534/Anexa.pdf",
+     "sha256": "c23ca21cf68fe6fcfc87be78568efd3b9ec2c883b2218acd695281fd994fc24e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-132-2026",
+   "path": "local/ialomita/fetesti/2026/132",
+   "short": "HCL Fetești nr. 132/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 132/2026 privind modificarea organigramei Spitalului Municipal „Anghel Saligny” Fetești",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/292145",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/110535/Anexa.pdf",
+     "sha256": "b48d2ef716f14caf780cfbec97de0308ad338f7b864278b6d536864428b45507"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-15-2026",
+   "path": "local/ialomita/fetesti/2026/15",
+   "short": "HCL Fetești nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 15/2026 privind vânzarea unui apartament de tip ANL situat în municipiul Feteşti, str.Grâușor, nr.23, bl.U8",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/255786",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/92226/Anexa.pdf",
+     "sha256": "454665ebb4adc1629c730855508ce785ca459e20f4b1713f29fa63b8460a02e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-20-2026",
+   "path": "local/ialomita/fetesti/2026/20",
+   "short": "HCL Fetești nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 20/2026",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/255791",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/92232/Anexa.pdf",
+     "sha256": "292927bdc2d749af6f1ebfec355bec8e9495a58211eac175929f8c491f23b2c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-21-2026",
+   "path": "local/ialomita/fetesti/2026/21",
+   "short": "HCL Fetești nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 21/2026",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/255792",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/92233/Anexa.pdf",
+     "sha256": "5fcf9c5a87129637606699fc468f7f200ea1d82323c3321062e61dec8a98cc18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-22-2026",
+   "path": "local/ialomita/fetesti/2026/22",
+   "short": "HCL Fetești nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 22/2026 privind aprobarea Cererii de finanțare și a cheltuielilor aferente proiectului de investiții ”Creșterea eficienței energetice a clădirii Școlii Gimnaziale ”AUREL VLAICU” - Corp C1 și Corp C2 - Bază sportivă, Municipiul Fetești” finanțat în cadrul Programului ELENA-European Local Energy Assistance în asociere cu Județul Ialomița în vederea realizării în comun a proiectelor de interes județean",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/255793",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/92234/Anexa.pdf",
+     "sha256": "82e154603dbb396abce6334097b5244469a8204bf93274e0102f8b996a1d62f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-23-2026",
+   "path": "local/ialomita/fetesti/2026/23",
+   "short": "HCL Fetești nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 23/2026 privind aprobarea Cererii de finanțare și a cheltuielilor aferente proiectului de investiții ”Creșterea eficienței energetice a clădirii Liceului Tehnologic \"Anghel Saligny\"- Corp 2, Municipiul Fetești” finanțat în cadrul Programului ELENA-European Local Energy Assistance în asociere cu Județul Ialomița în vederea realizării în comun a proiectelor de interes județean",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/255794",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/92235/Anexa.pdf",
+     "sha256": "e02179b33d7a370553876aa299ee568363d507a27de0738a08befd0056ba979b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-25-2026",
+   "path": "local/ialomita/fetesti/2026/25",
+   "short": "HCL Fetești nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 25/2026 privind aprobarea Devizului general final actualizat la terminarea lucrărilor de construcții pentru proiectul ”Renovare energetică moderată a clădirii rezidențiale multifamiliale bloc 7 din Municipiul Fetești, str.Călărași”",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/257375",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/92836/Anexa.pdf",
+     "sha256": "db3cb6c0f24d3c43c901af7dacc8362ba151eb421e67df2a3068f6842850d4c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-26-2026",
+   "path": "local/ialomita/fetesti/2026/26",
+   "short": "HCL Fetești nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 26/2026 privind aprobarea Devizului general final actualizat la terminarea lucrărilor de construcții pentru proiectul ”Renovare energetică moderată a clădirii rezidențiale multifamiliale bloc 8 din Municipiul Fetești, str.Călărași”",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/257376",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/92837/Anexa.pdf",
+     "sha256": "ed2d0da658e9dfb700409c3a06ca128f7d907aadeb735bfc0539c34bbad3188a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-28-2026",
+   "path": "local/ialomita/fetesti/2026/28",
+   "short": "HCL Fetești nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 28/2026",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/257378",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/92840/Anexa.pdf",
+     "sha256": "5d516bc2380a408262d7e9ebb90b5b925c3fb6bdc033ecfff02d4385722fc7a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-29-2026",
+   "path": "local/ialomita/fetesti/2026/29",
+   "short": "HCL Fetești nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 29/2026 privind modificarea inventarului bunurilor care fac parte din domeniul privat al municipiului Fetești, aprobat prin H.C.L.nr.150/26.11.2015",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/259898",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/93892/Anexa.pdf",
+     "sha256": "c6b8a01ab28bd2fc0c5babc76b9246c69affc5dc602931dbf4199388de37677d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-3-2026",
+   "path": "local/ialomita/fetesti/2026/3",
+   "short": "HCL Fetești nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 3/2026 privind aprobarea utilizării sumei de 3.585.558,95 lei, reprezentând excedentul bugetar al bugetului local al Municipiului Fetești înregistrat la data de 31.12.2025, pentru finanţarea secţiunii de dezvoltare",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/249314",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/89363/Anexa.pdf",
+     "sha256": "a52f74239402477044ffaca99498f90059c85b9e57d00c860d1de0699eb14289"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-45-2026",
+   "path": "local/ialomita/fetesti/2026/45",
+   "short": "HCL Fetești nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 45/2026 privind aprobarea Devizului general final actualizat la terminarea lucrărilor de construcții pentru proiectul ”Renovare energetică moderată a clădirii rezidențiale multifamiliale bloc 9 din Municipiul Fetești, str.Călărași”",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/266100",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/97064/Anexa.pdf",
+     "sha256": "0a759a4a2a41dc07b621f9d7b859f7a2af074dfd79b64d52adf6b71be2c204e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-46-2026",
+   "path": "local/ialomita/fetesti/2026/46",
+   "short": "HCL Fetești nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 46/2026 privind aprobarea Devizului general final actualizat la terminarea lucrărilor de construcții pentru proiectul ”Renovare energetică moderată a clădirii rezidențiale multifamiliale bloc 16PP din Municipiul Fetești, str.Ardealului”",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/266101",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/97065/Anexa.pdf",
+     "sha256": "4871fdcfde822e59259f76f2c91de8cf957921d154dec5a840e13c1ba0df0cb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-47-2026",
+   "path": "local/ialomita/fetesti/2026/47",
+   "short": "HCL Fetești nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 47/2026 privind aprobarea Devizului general final actualizat la terminarea lucrărilor de construcții pentru proiectul ”Renovare energetică moderată a clădirii rezidențiale multifamiliale bloc Ansamblul 44 din Municipiul Fetești, str.Călărași”",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/266102",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/97066/Anexa.pdf",
+     "sha256": "183961b4b8a71a6220dd1c7c0a9256ac81fe87c6b6cc2e50812b8b32a94117eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-48-2026",
+   "path": "local/ialomita/fetesti/2026/48",
+   "short": "HCL Fetești nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 48/2026 privind aprobarea Devizului general final actualizat la terminarea lucrărilor de construcții pentru proiectul ”Renovare energetică moderată a clădirii rezidențiale multifamiliale bloc Ansamblul 56 din Municipiul Fetești, str.Ardealului”",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/266103",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/97067/Anexa.pdf",
+     "sha256": "4e67249828bec5a5cfc24398a2549a7fc9ed3d2339c882190c0359a4d826d085"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-49-2026",
+   "path": "local/ialomita/fetesti/2026/49",
+   "short": "HCL Fetești nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 49/2026 privind aprobarea Devizului general final actualizat la terminarea lucrărilor de construcții pentru proiectul ”Renovare energetică moderată a clădirii rezidențiale multifamiliale bloc Tronson A1/A2/A3 din Municipiul Fetești, str.Siretului”",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/266104",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/97068/Anexa.pdf",
+     "sha256": "7e7d9a869e2c0670522b5d930e3d90f960512825e062ef766a79124186587637"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-50-2026",
+   "path": "local/ialomita/fetesti/2026/50",
+   "short": "HCL Fetești nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 50/2026 privind aprobarea Devizului general final actualizat la terminarea lucrărilor de construcții pentru proiectul ”Renovare energetică moderată a clădirii rezidențiale multifamiliale bloc U2 din Municipiul Fetești, str.Călărași”",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/266105",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/97069/Anexa.pdf",
+     "sha256": "bd3bb9ebeda5372c9d34533b66a065a86eae7e6c7a41d384c5c904aba4acb0a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-54-2026",
+   "path": "local/ialomita/fetesti/2026/54",
+   "short": "HCL Fetești nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 54/2026",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/266109",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/97072/Anexa.pdf",
+     "sha256": "ba99a15dd3c5e75fab2de0b41dc3bc00c2360c97fc7d06b4f9c65def5b5cb8b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-57-2026",
+   "path": "local/ialomita/fetesti/2026/57",
+   "short": "HCL Fetești nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 57/2026 privind aprobarea execuţiei bugetului împrumutului intern la trimestrul I 2026",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/266112",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/97221/Anexa.pdf",
+     "sha256": "3e77abfc87e504c3900e63b99a443b1b7b05666ab124b37ceb34cbdd68731762"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-60-2026",
+   "path": "local/ialomita/fetesti/2026/60",
+   "short": "HCL Fetești nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 60/2026",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/266790",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/97522/Anexa.pdf",
+     "sha256": "be7fc33cef61feaa103121db9ad8bdb711bf84230fca9bcd0a1f692518c62da8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-65-2026",
+   "path": "local/ialomita/fetesti/2026/65",
+   "short": "HCL Fetești nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 65/2026 privind aprobarea Programului anual de finanțare nerambursabilă de la bugetul local al Municipiului Fetești, conform Legii nr. 350/2005, pentru activităţile nonprofit de interes general aferent anului 2026",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/271244",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/99980/Anexa.pdf",
+     "sha256": "e01c75f33924356373a32be5cad34a888b3396dc59fa24cccd2304d0a6a3df68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-68-2026",
+   "path": "local/ialomita/fetesti/2026/68",
+   "short": "HCL Fetești nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 68/2026 privind aprobarea Devizului general actualizat după finalizarea procedurilor de achiziție publică pentru proiectul ” ÎNFIINȚARE CENTRU DE APORT VOLUNTAR ÎN MUNICIPIUL FETEȘTI”",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/271247",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/99987/Anexa.pdf",
+     "sha256": "c8a1715cd9463ec2f736e1a775e53e46e2f79815d0b1f112c198a4da4a296511"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-71-2026",
+   "path": "local/ialomita/fetesti/2026/71",
+   "short": "HCL Fetești nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 71/2026 privind aprobarea Devizului general actualizat după finalizarea procedurilor de achiziție publică, pentru lucrările reprezentând ”Rest de executat” la data de 01.08.2025 și la terminarea lucrărilor de construcții pentru proiectul ”Renovare energetică moderată a clădirii rezidențiale multifamiliale bloc 10 din Municipiul Fetești, str. Călărași”",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/274975",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/101987/Anexa.pdf",
+     "sha256": "6ec3837d1acfd315ef8fa3a25f888e1e598244f6e6ac568fb0e9fddb78df5595"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-76-2026",
+   "path": "local/ialomita/fetesti/2026/76",
+   "short": "HCL Fetești nr. 76/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 76/2026 privind aprobarea Devizului general actualizat după finalizarea procedurilor de achiziție publică, pentru lucrările reprezentând ”Rest de executat” la data de 01.08.2025 și la terminarea lucrărilor de construcții pentru proiectul ”Renovare energetică moderată a clădirii rezidențiale multifamiliale bloc U3 din Municipiul Fetești, str. Călărași”",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/275970",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/102681/Anexa.pdf",
+     "sha256": "e3afe12c0154fcb75e229dfa436cd36158b01372c23bb7b1f19e91369f238672"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-79-2026",
+   "path": "local/ialomita/fetesti/2026/79",
+   "short": "HCL Fetești nr. 79/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 79/2026",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/275973",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/102686/Anexa.pdf",
+     "sha256": "97821e4fb5c9576fa08ca9f5a01d854f67782e91c305dedd231e51abce5d5403"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-87-2026",
+   "path": "local/ialomita/fetesti/2026/87",
+   "short": "HCL Fetești nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 87/2026 privind transformarea postului contractual vacant de referent IA în post de administrator I din cadrul aparatului de specialitate al primarului municipiului Fetești",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/275981",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/102695/Anexa.pdf",
+     "sha256": "808d627900a72d46c4c5627ef30d366606a659980c07abca89150376b3208fb1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-92-2026",
+   "path": "local/ialomita/fetesti/2026/92",
+   "short": "HCL Fetești nr. 92/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 92/2026 privind aprobarea execuţiei bugetului împrumutului intern la trimestrul II 2026",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/280789",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/105074/Anexa.pdf",
+     "sha256": "231ef7ae51c1f1a257ce02173ac14f802d9a70edc6f1d1acc9a7380432947ad3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-93-2026",
+   "path": "local/ialomita/fetesti/2026/93",
+   "short": "HCL Fetești nr. 93/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 93/2026 privind rectificarea bugetului local al Municipiului Fetești și a bugetului activităților autofinanțate pe anul 2026",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/280790",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/105075/Anexa.pdf",
+     "sha256": "1b7f483e53fca821862a070c1404703043a74e367d0398d3965dfc0edd06e571"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-94-2026",
+   "path": "local/ialomita/fetesti/2026/94",
+   "short": "HCL Fetești nr. 94/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 94/2026 privind modificarea inventarului bunurilor care fac parte din domeniul privat al municipiului Fetești, aprobat prin H.C.L.nr.150/26.11.2015",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/280791",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/105077/Anexa.pdf",
+     "sha256": "b65d2f9ca233de7e9e7a1edd2e62f202eb33ae635b3b07a71b6e0a4c208c1c3a"
+    }
+   ]
+  }
+ ]
+}

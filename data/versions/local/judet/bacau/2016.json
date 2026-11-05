@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/bacau/2016",
+ "acts": [
+  {
+   "slug": "hcj-bacau-162-2016",
+   "path": "local/judet/bacau/2016/162",
+   "short": "HCJ Bacău nr. 162/2016",
+   "title": "Hotărârea Consiliului Județean Bacău nr. 162/2016",
+   "url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/arhiva-monitorul-oficial-al-judetului-bacau-000043aa?OpenDocument",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/CFC194DC17EB6F9CC225867D003BE622/$FILE/Monitor-Oficial-Judetul-Bacau-nr-4-din-2016.pdf",
+     "sha256": "b542d1e237857af4939697194b5bd9710f9e6d1766e0284d67db511674fabea2"
+    }
+   ]
+  }
+ ]
+}

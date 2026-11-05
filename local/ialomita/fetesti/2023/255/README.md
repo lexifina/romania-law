@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Municipiului Fetești nr. 255/2023 privind aprobarea gratuității în anul 2024 pe mijloacele de transport în comun pentru beneficiarii Legii nr. 44/1994 și Decretului-Lege nr.118/1990 prin subvenționarea operatorului de transport local SC TRANSBUS SA Fetești și aprobarea Convenției privind acordarea legitimațiilor de călătorie pentru aceste categorii de persoane
+
+HCL Fetești nr. 255/2023 · 1 versions, from 2024-01-03 (latest in force: 2024-01-03) · <https://emol.ro/fetesti-il/registru-hcl/134725>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-ialomita--fetesti-255-2023` (tags `hcl-ialomita--fetesti-255-2023/<day>`; `python tools/on.py <day> hcl-ialomita--fetesti-255-2023`).
+
+## Decisions made by hand
+
+- HCL Fetești nr. 255/2023: listed from Consiliul Local al Municipiului Fetești (emol.ro); an individual decision: metadata only.
+- HCL Fetești nr. 255/2023: dated from 3 January 2024, the day the council's register gives it as published (adopted 19 December 2023).
+- HCL Fetești nr. 255/2023: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

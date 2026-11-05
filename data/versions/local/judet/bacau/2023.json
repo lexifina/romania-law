@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/judet/bacau/2023",
+ "acts": [
+  {
+   "slug": "hcj-bacau-129-2023",
+   "path": "local/judet/bacau/2023/129",
+   "short": "HCJ Bacău nr. 129/2023",
+   "title": "Hotărârea Consiliului Județean Bacău nr. 129/2023 pentru anul 2023 - Hotărârea Consiliului Județean Bacău nr. 129/28.04.2023",
+   "url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/buget-finante--2023-0002deda?OpenDocument",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/B93C6583DA2254ACC22589A50026A8C7/$FILE/BVC%20RECTIFICAT%20HCJ%20nr.129%20DIN%2028.04.2023+%20VIRARI%20DE%20%20CREDITE.XLS",
+     "sha256": "b7299d89bb193bc47c22fb813c41fde7a96a4322b54619c9412835b19ca418fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bacau-176-2023",
+   "path": "local/judet/bacau/2023/176",
+   "short": "HCJ Bacău nr. 176/2023",
+   "title": "Hotărârea Consiliului Județean Bacău nr. 176/2023 pentru anul 2023 – H.C.J",
+   "url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/buget-finante--2023-0002deda?OpenDocument",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/F67C161E56CE3152C22589FA0039A727/$FILE/BVC%20RECTIFICAT%20HCJ%20nr.176%20%20DIN%2027.07.2023+VIRARI%20DE%20%20CREDITE.XLS",
+     "sha256": "a4a9a5b7611ab8a713b8cf4f25e0213d77c2c2aa22bd9cc2ceed8c098176455c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bacau-230-2023",
+   "path": "local/judet/bacau/2023/230",
+   "short": "HCJ Bacău nr. 230/2023",
+   "title": "Hotărârea Consiliului Județean Bacău nr. 230/2023 privind rectificarea bugetului de venituri si cheltuieli al Judetului Bacau, pe anul 2023 - MII LEI PROGRAMUL DE INVESTITII PUBLICE PE SURSE DE FINANTARE SI GRUPE DE INVESTITII I-Credit de angajament I TOTAL CHELTUIELI Executie PROGRAM ESTIMARI ESTIMARI ESTIMARI Estimari II-Credit bugetar EFECTUATE 2022 2023 2024 2025 2026 anii CAPITOL /II GRUPA pana la ulteriori SURSA 31.12.2021 Total general I 1",
+   "url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/buget-finante--2023-0002deda?OpenDocument",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/3D2D3820375701DDC2258A2000460824/$FILE/PIP-HCJ-nr-230-din-30-08-2023anexa-4.pdf",
+     "sha256": "81a81ac581fb9d8c0ce0009740597ee40197e7224bf0caaf8534e2e202422109"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bacau-232-2023",
+   "path": "local/judet/bacau/2023/232",
+   "short": "HCJ Bacău nr. 232/2023",
+   "title": "Hotărârea Consiliului Județean Bacău nr. 232/2023 pentru anul 2023 - H.C.J Bacău nr. 232/13.09.2023",
+   "url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/buget-finante--2023-0002deda?OpenDocument",
+   "versions": [
+    {
+     "from": "2023-09-13",
+     "units": 1,
+     "source_url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/DFA4B6D27135AD66C2258A2E0032A4A0/$FILE/BVC%20RECTIFICAT%20HCJ%20nr.232%20%20DIN%2013.09.2023.XLS",
+     "sha256": "26e06bd9b9fdc9bfcb514adb5ef9ddc87361d2c0602a06fcde2fbb39683a725e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bacau-243-2023",
+   "path": "local/judet/bacau/2023/243",
+   "short": "HCJ Bacău nr. 243/2023",
+   "title": "Hotărârea Consiliului Județean Bacău nr. 243/2023 pentru anul 2023 - H.C.J Bacău nr. 243/29.09.2023",
+   "url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/buget-finante--2023-0002deda?OpenDocument",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/BB4FFBC6346C9AEEC2258A3E00243575/$FILE/BVC%20RECTIFICAT%20HCJ%20nr.243%20DIN%2029.09.2023+%20VIRARI%20DE%20%20CREDITE.XLS",
+     "sha256": "30775bd7f3206b18827c49c26d9a480c3bcc2457b3dedc7f4240aaea708a5b21"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bacau-257-2023",
+   "path": "local/judet/bacau/2023/257",
+   "short": "HCJ Bacău nr. 257/2023",
+   "title": "Hotărârea Consiliului Județean Bacău nr. 257/2023 pentru anul 2023 - H.C.J",
+   "url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/buget-finante--2023-0002deda?OpenDocument",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/9E023C2D05A7C3F0C2258A59003B5F43/$FILE/BVC%20RECTIFICAT%20HCJ%20nr%20257%20DIN%2025-10-2023%20si%20VIRARI%20DE%20%20CREDITE.XLS",
+     "sha256": "491217314a7ad8c3ecc4e03a00c33ffdc9dcee024627a4018299d64d8358c8d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bacau-287-2023",
+   "path": "local/judet/bacau/2023/287",
+   "short": "HCJ Bacău nr. 287/2023",
+   "title": "Hotărârea Consiliului Județean Bacău nr. 287/2023 pentru anul 2023 - H.C.J",
+   "url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/buget-finante--2023-0002deda?OpenDocument",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/5B38A4A4AEC11946C2258A7E001F3F8E/$FILE/BVC%20RECTIFICAT%20HCJ%20nr.287%20DIN%2029.11.2023+%20VIRARI%20DE%20%20CREDITE.XLS",
+     "sha256": "117904193327fb342ae7819bfd76d1719ff3e38c9e249e30c2af5145b972c93f"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/bacau/2015",
+"acts": [
+{
+"slug": "hcj-bacau-60-2015",
+"path": "local/judet/bacau/2015/60",
+"kind": "local",
+"year": "2015",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bacău nr. 60/2015",
+"short": "HCJ Bacău nr. 60/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-04-30",
+"latest": "2015-04-30",
+"portal": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/arhiva-monitorul-oficial-al-judetului-bacau-000043aa?OpenDocument",
+"council": "judet/bacau",
+"council_name": "Consiliul Județean Bacău",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

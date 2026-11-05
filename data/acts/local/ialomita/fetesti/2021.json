@@ -3,6 +3,138 @@
 "shard": "local/ialomita/fetesti/2021",
 "acts": [
 {
+"slug": "hcl-ialomita--fetesti-115-2021",
+"path": "local/ialomita/fetesti/2021/115",
+"kind": "local",
+"year": "2021",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 115/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 al Spitalului Municipal ”Anghel Saligny” Fetești pentru sume alocate din fonduri externe nerambursabile (FEN-Sursa D), derulat prin Programul –pilot prevăzut în Ordinul Ministrului Sănătății nr. 672/11.05.2021 și completarea H.C.L.nr. 48/15.04.2021 privind aprobarea bugetului local al Municipiului Feteşti pe anul 2021",
+"short": "HCL Fetești nr. 115/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-29",
+"latest": "2021-09-29",
+"portal": "https://emol.ro/fetesti-il/registru-hcl/37224",
+"council": "ialomita/fetesti",
+"council_name": "Consiliul Local al Municipiului Fetești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--fetesti-116-2021",
+"path": "local/ialomita/fetesti/2021/116",
+"kind": "local",
+"year": "2021",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 116/2021 privind rectificarea bugetului Spitalului Municipal „Anghel Saligny” Fetești pe anul 2021",
+"short": "HCL Fetești nr. 116/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-29",
+"latest": "2021-09-29",
+"portal": "https://emol.ro/fetesti-il/registru-hcl/37225",
+"council": "ialomita/fetesti",
+"council_name": "Consiliul Local al Municipiului Fetești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--fetesti-117-2021",
+"path": "local/ialomita/fetesti/2021/117",
+"kind": "local",
+"year": "2021",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 117/2021 pentru modificarea Anexei nr. 3 la H.C.L.nr. 113/02.09.2021 privind rectificarea bugetului local și modificarea Listei de investiții anexă la bugetul local pe anul 2021",
+"short": "HCL Fetești nr. 117/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-29",
+"latest": "2021-09-29",
+"portal": "https://emol.ro/fetesti-il/registru-hcl/37226",
+"council": "ialomita/fetesti",
+"council_name": "Consiliul Local al Municipiului Fetești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--fetesti-120-2021",
+"path": "local/ialomita/fetesti/2021/120",
+"kind": "local",
+"year": "2021",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 120/2021 privind modificarea inventarului bunurilor care fac parte din domeniul privat al municipiului Feteşti, aprobat prin H.C.L.nr.150/26.11.2015",
+"short": "HCL Fetești nr. 120/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-29",
+"latest": "2021-09-29",
+"portal": "https://emol.ro/fetesti-il/registru-hcl/37229",
+"council": "ialomita/fetesti",
+"council_name": "Consiliul Local al Municipiului Fetești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--fetesti-153-2021",
+"path": "local/ialomita/fetesti/2021/153",
+"kind": "local",
+"year": "2021",
+"number": "153",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 153/2021 privind aprobarea asocierii Municipiului Fetești cu Județul Ialomița în vederea finanțării în comun a dotării Spitalului Municipal ”Anghel Saligny” Fetești cu echipamente medicale necesare creșterii capacității de intervenție în prevenirea și combaterea infecției cu noul coronavirus ”COVID-19”",
+"short": "HCL Fetești nr. 153/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-27",
+"latest": "2021-10-27",
+"portal": "https://emol.ro/fetesti-il/registru-hcl/39907",
+"council": "ialomita/fetesti",
+"council_name": "Consiliul Local al Municipiului Fetești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--fetesti-161-2021",
+"path": "local/ialomita/fetesti/2021/161",
+"kind": "local",
+"year": "2021",
+"number": "161",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 161/2021 privind aprobarea Listei solicitanţilor care au acces la locuinţele de tip ANL din municipiul Fetești, destinate închirierii tinerilor şi familiilor de tineri",
+"short": "HCL Fetești nr. 161/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-24",
+"latest": "2021-11-24",
+"portal": "https://emol.ro/fetesti-il/registru-hcl/42994",
+"council": "ialomita/fetesti",
+"council_name": "Consiliul Local al Municipiului Fetești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--fetesti-166-2021",
 "path": "local/ialomita/fetesti/2021/166",
 "kind": "local",
@@ -44,6 +176,116 @@
 "council_name": "Consiliul Local al Municipiului Fetești",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-ialomita--fetesti-177-2021",
+"path": "local/ialomita/fetesti/2021/177",
+"kind": "local",
+"year": "2021",
+"number": "177",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 177/2021 privind aprobarea tarifelor pentru serviciul de iluminat public din municipiul Fetești practicate de Direcţia de Administrare a Domeniului Public şi Privat Feteşti",
+"short": "HCL Fetești nr. 177/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-22",
+"latest": "2021-12-22",
+"portal": "https://emol.ro/fetesti-il/registru-hcl/45786",
+"council": "ialomita/fetesti",
+"council_name": "Consiliul Local al Municipiului Fetești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--fetesti-178-2021",
+"path": "local/ialomita/fetesti/2021/178",
+"kind": "local",
+"year": "2021",
+"number": "178",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 178/2021 privind aprobarea tarifelor pentru serviciul de dezinsecție, dezinfecție și deratizare din municipiul Fetești, practicate de Direcţia de Administrare a Domeniului Public şi Privat Feteşti",
+"short": "HCL Fetești nr. 178/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-22",
+"latest": "2021-12-22",
+"portal": "https://emol.ro/fetesti-il/registru-hcl/45787",
+"council": "ialomita/fetesti",
+"council_name": "Consiliul Local al Municipiului Fetești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--fetesti-181-2021",
+"path": "local/ialomita/fetesti/2021/181",
+"kind": "local",
+"year": "2021",
+"number": "181",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 181/2021 privind aprobarea Planului lucrărilor şi acţiunilor de interes local pentru repartizarea orelor de muncă beneficiarilor Legii nr. 416/2001, pentru anul 2022",
+"short": "HCL Fetești nr. 181/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-22",
+"latest": "2021-12-22",
+"portal": "https://emol.ro/fetesti-il/registru-hcl/45790",
+"council": "ialomita/fetesti",
+"council_name": "Consiliul Local al Municipiului Fetești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--fetesti-204-2021",
+"path": "local/ialomita/fetesti/2021/204",
+"kind": "local",
+"year": "2021",
+"number": "204",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 204/2021 privind validarea rectificării bugetului local al municipiului Fetești",
+"short": "HCL Fetești nr. 204/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-27",
+"latest": "2021-12-27",
+"portal": "https://emol.ro/fetesti-il/registru-hcl/45816",
+"council": "ialomita/fetesti",
+"council_name": "Consiliul Local al Municipiului Fetești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--fetesti-205-2021",
+"path": "local/ialomita/fetesti/2021/205",
+"kind": "local",
+"year": "2021",
+"number": "205",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 205/2021 privind rectificarea bugetului local pe anul 2021",
+"short": "HCL Fetești nr. 205/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-27",
+"latest": "2021-12-27",
+"portal": "https://emol.ro/fetesti-il/registru-hcl/45817",
+"council": "ialomita/fetesti",
+"council_name": "Consiliul Local al Municipiului Fetești",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

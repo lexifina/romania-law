@@ -2313,6 +2313,21 @@
    ]
   },
   {
+   "slug": "hcj-bihor-48-2025",
+   "path": "local/judet/bihor/2025/48",
+   "short": "HCJ Bihor nr. 48/2025",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 48/2025 privind încheierea unor contracte de comodat cu Asociația Salvatorilor Montani Bihor având ca obiect Centru medical de urgență în zona Stâna de Vale și Centru medical de urgență zona Padiș, aflate în proprietatea privată a Județului Bihor",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2025/04/h-48-din-25.03.2025_Redacted.pdf",
+     "sha256": "71a4f52c82b236c1793d6aa2e9963233450cf7478a396929cf9fb9599c05e0e5"
+    }
+   ]
+  },
+  {
    "slug": "hcj-bihor-5-2025",
    "path": "local/judet/bihor/2025/5",
    "short": "HCJ Bihor nr. 5/2025",

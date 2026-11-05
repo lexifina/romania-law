@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/bacau/2018",
+"acts": [
+{
+"slug": "hcj-bacau-191-2018",
+"path": "local/judet/bacau/2018/191",
+"kind": "local",
+"year": "2018",
+"number": "191",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bacău nr. 191/2018",
+"short": "HCJ Bacău nr. 191/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-10-19",
+"latest": "2018-10-19",
+"portal": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/arhiva-monitorul-oficial-al-judetului-bacau-000043aa?OpenDocument",
+"council": "judet/bacau",
+"council_name": "Consiliul Județean Bacău",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

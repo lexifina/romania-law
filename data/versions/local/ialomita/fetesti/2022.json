@@ -3,6 +3,96 @@
  "shard": "local/ialomita/fetesti/2022",
  "acts": [
   {
+   "slug": "hcl-ialomita--fetesti-106-2022",
+   "path": "local/ialomita/fetesti/2022/106",
+   "short": "HCL Fetești nr. 106/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 106/2022 pentru modificarea Anexei 2 la H.C.L.nr. 101/02.08.2017 privind stabilirea salariilor de bază pentru personalul contractual din cadrul Direcţiei de Administrare a Domeniului Public şi Privat Feteşti",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/65388",
+   "versions": [
+    {
+     "from": "2022-07-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/7802/Anexa.pdf",
+     "sha256": "27d40b3eb92e8188bf288fbc9b8f04295698bf528aa25e8c917c5b545564074c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-110-2022",
+   "path": "local/ialomita/fetesti/2022/110",
+   "short": "HCL Fetești nr. 110/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 110/2022 pentru modificarea H.C.L.nr. 58/27.04.2022 privind aprobarea închirierii prin încredințare directă pe o durată de 12 luni de la data începerii lucrărilor și accesul asupra terenului în suprafaţă de 21.146,3 mp, către SC CONPET SA, pentru realizarea obiectivului investițional ”ÎNLOCUIRE FIRE LEGĂTURĂ TRAVERSARE DUNĂRE C1-C2 ȘI BRAȚ BORCEA C3-C4” – SUBTRAVERSARE DUNĂRE ȘI BORCEA A ȚIȚEIULUI TRANSPORTAT PRIN CONDUCTELE CONSTANȚA-BĂRĂGANU 14”, 20”, 28”",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/65392",
+   "versions": [
+    {
+     "from": "2022-07-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/7805/Anexa.pdf",
+     "sha256": "42a49eeed732bf1b3dab277814779082a6e0c3c6b8153262d2cd27edc016fa0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-119-2022",
+   "path": "local/ialomita/fetesti/2022/119",
+   "short": "HCL Fetești nr. 119/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 119/2022 privind aprobarea modelului protocolului de colaborare între Direcția de Administrare a Domeniului Public și Privat Fetești și comuna Stelnica, județul Ialomița, pentru prestarea serviciilor de gestionare a câinilor fără stăpân",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/65401",
+   "versions": [
+    {
+     "from": "2022-07-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/7812/Anexa.pdf",
+     "sha256": "14c461d718beb6037efc61abf1da46e1b293c0c63ae9f066ae8b125833f81737"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-120-2022",
+   "path": "local/ialomita/fetesti/2022/120",
+   "short": "HCL Fetești nr. 120/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 120/2022 privind modificarea Anexei nr. 7 din Regulamentul de emitere a acordului și a autorizației de funcționare a operatorilor economici care desfășoară activități comerciale, alimentație publică, prestări servicii, producție și altele pe teritoriul administrativ al municipiului Fetești, aprobat prin H.C.L.nr. 107/31.08.2021",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/65402",
+   "versions": [
+    {
+     "from": "2022-07-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/7813/Anexa.pdf",
+     "sha256": "9602f2249fbf0de3b0221e88a8cf170556d624f048d9553e02b83abc134f8d0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-126-2022",
+   "path": "local/ialomita/fetesti/2022/126",
+   "short": "HCL Fetești nr. 126/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 126/2022 privind modificarea inventarului bunurilor care fac parte din domeniul privat al municipiului Feteşti, aprobat prin H.C.L.nr.150/26.11.2015",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/67716",
+   "versions": [
+    {
+     "from": "2022-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/14885/Anexa.pdf",
+     "sha256": "c85c5a1984e0d0d347206860a31f4894c36948066b96beb70c2a217487682e08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-127-2022",
+   "path": "local/ialomita/fetesti/2022/127",
+   "short": "HCL Fetești nr. 127/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 127/2022 privind aprobarea modelului protocolului de colaborare între Direcția de Administrare a Domeniului Public și Privat Fetești și Comuna Giurgeni, județul Ialomița, pentru prestarea serviciilor de gestionare a câinilor fără stăpân",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/67717",
+   "versions": [
+    {
+     "from": "2022-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/14886/Anexa.pdf",
+     "sha256": "587ad6413e697a440ed8e5c0f947d39b439d6820a1b7e9e82e44836cb249283b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ialomita--fetesti-13-2022",
    "path": "local/ialomita/fetesti/2022/13",
    "short": "HCL Fetești nr. 13/2022",
@@ -14,6 +104,1281 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/2235/Anexa.pdf",
      "sha256": "48704b8216b3f6e95cbb07e1baf1d8820c42ce8dd54eefa068dca6792aa78cc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-133-2022",
+   "path": "local/ialomita/fetesti/2022/133",
+   "short": "HCL Fetești nr. 133/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 133/2022 privind aprobarea bugetului și a indicatorilor tehnico-economici pentru proiectul ”Dotarea unităților de învățământ preuniversitar de stat cu echipamente de protecție medicală de tip măști de protecție medicală, dezinfectanți, precum și alte echipamente de acest tip necesare pentru a preveni răspândirea coronavirului SARS - CoV-2 în județul Ialomița” ID 143475 – pentru Școala Gimnazială ”Mihai Viteazul” Fetești",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/69584",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/15434/Anexa.pdf",
+     "sha256": "18c8d92374931b131a562f7f7643d070e4adf6be589894c8dd41b15cf4b9b249"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-134-2022",
+   "path": "local/ialomita/fetesti/2022/134",
+   "short": "HCL Fetești nr. 134/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 134/2022 privind aprobarea bugetului și a indicatorilor tehnico-economici pentru proiectul ”Dotarea unităților de învățământ preuniversitar de stat cu echipamente de protecție medicală de tip măști de protecție medicală, dezinfectanți, precum și alte echipamente de acest tip necesare pentru a preveni răspândirea coronavirului SARS - CoV-2 în județul Ialomița” ID 143475 – pentru Școala Gimnazială ”Radu Vodă” Fetești",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/69585",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/15435/Anexa.pdf",
+     "sha256": "04b5a1cc7b4b62aeee89cf987e509e3f1ca0db8f211805b12c8e47ead6dfb9ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-135-2022",
+   "path": "local/ialomita/fetesti/2022/135",
+   "short": "HCL Fetești nr. 135/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 135/2022 privind aprobarea bugetului și a indicatorilor tehnico-economici pentru proiectul ”Dotarea unităților de învățământ preuniversitar de stat cu echipamente de protecție medicală de tip măști de protecție medicală, dezinfectanți, precum și alte echipamente de acest tip necesare pentru a preveni răspândirea coronavirului SARS - CoV-2 în județul Ialomița” ID 143475 – pentru Școala Gimnazială ”Aurel Vlaicu” Fetești",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/69586",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/15436/Anexa.pdf",
+     "sha256": "01d686e8160bda55487156b9989e70c85540a34c2937dcc1e4d20c80e81091ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-136-2022",
+   "path": "local/ialomita/fetesti/2022/136",
+   "short": "HCL Fetești nr. 136/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 136/2022 pentru modificarea H.C.L.Fetești nr. 55/27.04.2022 privind aprobarea depunerii proiectului ”Renovare energetică a clădirii publice din județul Ialomița, Municipiul Fetești, strada Călărași, nr. 549” în cadrul PNRR – Componenta C5- Valul Renovării",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/69830",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/15657/Anexa.pdf",
+     "sha256": "70e13084e73630a8850ca251d4cbad57b37b7cb50a5fd69e69ac349394f3efc3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-137-2022",
+   "path": "local/ialomita/fetesti/2022/137",
+   "short": "HCL Fetești nr. 137/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 137/2022 pentru modificarea H.C.L.Fetești nr. 72/04.05.2022 privind aprobarea depunerii proiectului ”Renovare energetică a clădirii publice din județul Ialomița, Municipiul Fetești, strada Călărași, nr. 229 – Școala Gimnazială ”Mihai Viteazul” – corp B” în cadrul PNRR – Componenta C5- Valul Renovării",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/69831",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/15658/Anexa.pdf",
+     "sha256": "f0c900cf8b6ae7d0206c559c0c13e95eac0098b039a97ed1bc09eb2b66cebe35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-138-2022",
+   "path": "local/ialomita/fetesti/2022/138",
+   "short": "HCL Fetești nr. 138/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 138/2022 pentru modificarea H.C.L.nr. 80/27.05.2022 privind aprobarea depunerii proiectului ”Renovare energetică moderată a clădirii rezidențiale multifamiliale bloc nr.7 din municipiul Fetești, strada Călărași” în cadrul PNRR – Componenta C5- Valul Renovării",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/69832",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/15659/Anexa.pdf",
+     "sha256": "749ff18e86d1eb7ed6f47587377d93c8564193e1ec9576dd1f96d3ff1a60be0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-139-2022",
+   "path": "local/ialomita/fetesti/2022/139",
+   "short": "HCL Fetești nr. 139/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 139/2022 pentru modificarea H.C.L.nr. 81/27.05.2022 privind aprobarea depunerii proiectului ”Renovare energetică moderată a clădirii rezidențiale multifamiliale bloc nr.8 din municipiul Fetești, strada Călărași” în cadrul PNRR – Componenta C5- Valul Renovării",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/69833",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/15660/Anexa.pdf",
+     "sha256": "71120e8a47422b85bcdc32f27759af3237c8d4e501d1be9f88c44654796339d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-140-2022",
+   "path": "local/ialomita/fetesti/2022/140",
+   "short": "HCL Fetești nr. 140/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 140/2022 pentru modificarea H.C.L.nr. 82/27.05.2022 privind aprobarea depunerii proiectului ”Renovare energetică moderată a clădirii rezidențiale multifamiliale bloc nr.9 din municipiul Fetești, strada Călărași” în cadrul PNRR – Componenta C5- Valul Renovării",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/69834",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/15661/Anexa.pdf",
+     "sha256": "0bdea4448a8417b962a2d569ea5ff8cb3cf938aef1299ccc204df64ed60acf27"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-141-2022",
+   "path": "local/ialomita/fetesti/2022/141",
+   "short": "HCL Fetești nr. 141/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 141/2022 pentru modificarea H.C.L.Fetești nr. 83/27.05.2022 privind aprobarea depunerii proiectului ”Renovare energetică moderată a clădirii rezidențiale multifamiliale bloc nr.10 din municipiul Fetești, strada Călărași” în cadrul PNRR – Componenta C5- Valul Renovării",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/69835",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/15662/Anexa.pdf",
+     "sha256": "0ae0413683bb3de2eaf6c58e97853649c0dad8b09f6476be4e91b5e550614433"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-142-2022",
+   "path": "local/ialomita/fetesti/2022/142",
+   "short": "HCL Fetești nr. 142/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 142/2022 pentru modificarea H.C.L.nr. 84/27.05.2022 privind aprobarea depunerii proiectului ”Renovare energetică moderată a clădirii rezidențiale multifamiliale bloc nr.12PP din municipiul Fetești, strada Ardealului” în cadrul PNRR – Componenta C5- Valul Renovării",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/69836",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/15663/Anexa.pdf",
+     "sha256": "bb7d5a87a0b174b12139dc4163cb388386bdcb7b260ae177aca143f041c15bba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-143-2022",
+   "path": "local/ialomita/fetesti/2022/143",
+   "short": "HCL Fetești nr. 143/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 143/2022 pentru modificarea H.C.L.nr. 85/27.05.2022 privind aprobarea depunerii proiectului ”Renovare energetică moderată a clădirii rezidențiale multifamiliale bloc nr.16PP din municipiul Fetești, strada Ardealului” în cadrul PNRR – Componenta C5- Valul Renovării",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/69837",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/15664/Anexa.pdf",
+     "sha256": "1311ebe98da92c864e2226423e2a8eedfd0728e02056bfcc3d285e953001079a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-144-2022",
+   "path": "local/ialomita/fetesti/2022/144",
+   "short": "HCL Fetești nr. 144/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 144/2022 pentru modificarea H.CL.nr. 86/27.05.2022 privind aprobarea depunerii proiectului ”Renovare energetică moderată a clădirii rezidențiale multifamiliale bloc Ansamblul 44 din municipiul Fetești, strada Călărași” în cadrul PNRR – Componenta C5- Valul Renovării",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/69838",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/15665/Anexa.pdf",
+     "sha256": "d6b3ffda915480a0685b6974ccb774dd7b75e7926633f0e91aa00fe4ff6bf23c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-145-2022",
+   "path": "local/ialomita/fetesti/2022/145",
+   "short": "HCL Fetești nr. 145/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 145/2022 pentru modificarea H.C.L.nr. 87/27.05.2022 privind aprobarea depunerii proiectului ”Renovare energetică moderată a clădirii rezidențiale multifamiliale bloc Ansamblul 56 din municipiul Fetești, strada Ardealului” în cadrul PNRR – Componenta C5- Valul Renovării",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/69839",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/15666/Anexa.pdf",
+     "sha256": "f262e7dc359e273e828ff8f2c450e7b7653a517aaf9f5cadfc0650c3d459e530"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-146-2022",
+   "path": "local/ialomita/fetesti/2022/146",
+   "short": "HCL Fetești nr. 146/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 146/2022 pentru modificarea H.C.L.nr. 88/27.05.2022 privind aprobarea depunerii proiectului ”Renovare energetică moderată a clădirii rezidențiale multifamiliale bloc C2PP din municipiul Fetești, strada Călărași” în cadrul PNRR – Componenta C5- Valul Renovării",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/69840",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/15667/Anexa.pdf",
+     "sha256": "048128ca0b317ee3b38739ec65c6892c83433101511e41ad111664ae04ca411b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-147-2022",
+   "path": "local/ialomita/fetesti/2022/147",
+   "short": "HCL Fetești nr. 147/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 147/2022 pentru modificarea H.C.L.nr. 89/27.05.2022 privind aprobarea depunerii proiectului ”Renovare energetică moderată a clădirii rezidențiale multifamiliale bloc C4 din municipiul Fetești, strada Vasile Lupu” în cadrul PNRR – Componenta C5- Valul Renovării",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/69841",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/15668/Anexa.pdf",
+     "sha256": "e4c6845071cc0f9c4c18356fbdbf522f41b651121cdd5c9e51a878921a65b9c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-148-2022",
+   "path": "local/ialomita/fetesti/2022/148",
+   "short": "HCL Fetești nr. 148/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 148/2022 pentru modificarea H.C.L.nr. 90/27.05.2022 privind aprobarea depunerii proiectului ”Renovare energetică moderată a clădirii rezidențiale multifamiliale bloc Tronson A1/A2/A3 din municipiul Fetești, strada Siretului” în cadrul PNRR – Componenta C5- Valul Renovării",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/69842",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/15669/Anexa.pdf",
+     "sha256": "b3333a1c35462036d2395396841039d54f8c82eb19b7640ecbf96ee835a453ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-149-2022",
+   "path": "local/ialomita/fetesti/2022/149",
+   "short": "HCL Fetești nr. 149/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 149/2022 pentru modificarea H.C.L.nr. 91/27.05.2022 privind aprobarea depunerii proiectului ”Renovare energetică moderată a clădirii rezidențiale multifamiliale bloc U1 din municipiul Fetești, strada Călărași” în cadrul PNRR – Componenta C5- Valul Renovării",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/69843",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/15670/Anexa.pdf",
+     "sha256": "8aa1bab5690b38e4996cdd231f5aaaffbd03e717ec09b5840910506059134fe6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-150-2022",
+   "path": "local/ialomita/fetesti/2022/150",
+   "short": "HCL Fetești nr. 150/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 150/2022 pentru modificarea H.C.L.nr.92/27.05.2022 privind aprobarea depunerii proiectului ”Renovare energetică moderată a clădirii rezidențiale multifamiliale bloc U2 din municipiul Fetești, strada Călărași” în cadrul PNRR – Componenta C5- Valul Renovării",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/69844",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/15671/Anexa.pdf",
+     "sha256": "dc8e1a5563422e8d9bc22952ec4a732fbab01c024eb3b580f70ec9de442030e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-151-2022",
+   "path": "local/ialomita/fetesti/2022/151",
+   "short": "HCL Fetești nr. 151/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 151/2022 pentru modificarea H.C.L.nr. 93/27.05.2022 privind aprobarea depunerii proiectului ”Renovare energetică moderată a clădirii rezidențiale multifamiliale bloc U3 din municipiul Fetești, strada Călărași” în cadrul PNRR – Componenta C5- Valul Renovării",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/69845",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/15672/Anexa.pdf",
+     "sha256": "0bdb84c8c7f4a91119f201ad225872393c6c482627ea999342d2ec1aa279342a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-152-2022",
+   "path": "local/ialomita/fetesti/2022/152",
+   "short": "HCL Fetești nr. 152/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 152/2022 privind declararea de uz și interes public local a investiției ”Teren de fotbal cu gazon sintetic” situată în strada Jandarmeriei, nr. 15, municipiul Fetești, județul Ialomița",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/70962",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/15942/Anexa.pdf",
+     "sha256": "bea08d483cd8ee8ffb59f6c57743557cc8f0f1f4845bacea60a9414babc7fa7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-153-2022",
+   "path": "local/ialomita/fetesti/2022/153",
+   "short": "HCL Fetești nr. 153/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 153/2022",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/70963",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/15943/Anexa.pdf",
+     "sha256": "ccce29a97ab3fa4968232e1b0ea338a62f7c27cdf29e742ff189c342720e5490"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-16-2022",
+   "path": "local/ialomita/fetesti/2022/16",
+   "short": "HCL Fetești nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 16/2022 pentru modificarea H.C.L.nr. 76/26.05.2021 privind participarea Municipiului Fetești în cadrul Programului ”South-Muntenia Energy Efficency for Public Buildings Investment Programme” finanțat în cadrul Programului ELENA-European Local Energy Assistance și asocierea cu Județul Ialomița în vederea realizării în comun a proiectelor de interes județean",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/49405",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/2241/ANEXA.pdf",
+     "sha256": "a7c5b6c036172727fd217df9531c1e10a9d707225ac404bc48bd6c93519100e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-162-2022",
+   "path": "local/ialomita/fetesti/2022/162",
+   "short": "HCL Fetești nr. 162/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 162/2022 privind desemnarea reprezentanţilor Consiliului Local Municipal Feteşti în Consiliile de administraţie ale unităţilor de învăţământ preuniversitar din municipiul Feteşti pentru anul școlar 2022-2023",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/70972",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/15948/Anexa.pdf",
+     "sha256": "253e5ebce7516b76841b1cf3e8a5687e2cf47f42082966f5e44ed9e7cb88defc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-166-2022",
+   "path": "local/ialomita/fetesti/2022/166",
+   "short": "HCL Fetești nr. 166/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 166/2022 pentru modificarea H.C.L.Fetești nr. 54/27.04.2022 privind aprobarea depunerii proiectului ”Renovare energetică a clădirii publice din județul Ialomița, Municipiul Fetești, strada Călărași, nr. 261” în cadrul PNRR – Componenta C5- Valul Renovării",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/70976",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/15953/Anexa.pdf",
+     "sha256": "1eaac1d85b7b7fbeb9222183a53cd635d6bb97fb9331d5c38f57b927ba160fa6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-167-2022",
+   "path": "local/ialomita/fetesti/2022/167",
+   "short": "HCL Fetești nr. 167/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 167/2022 privind rectificarea bugetului local al Municipiului Fetești pe anul 2022",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/71230",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/16037/Anexa.pdf",
+     "sha256": "62faff4e1f946f154ea08efa874ef69529de7ad2bca83516e12c8d6f33300909"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-178-2022",
+   "path": "local/ialomita/fetesti/2022/178",
+   "short": "HCL Fetești nr. 178/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 178/2022 privind rectificarea bugetului local al Municipiului Fetești pe anul 2022",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/74373",
+   "versions": [
+    {
+     "from": "2022-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/17144/Anexa.pdf",
+     "sha256": "b77a1fff30d15a9e876bf86d886fb9630794c0ab14a482312a40340a58e38d3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-181-2022",
+   "path": "local/ialomita/fetesti/2022/181",
+   "short": "HCL Fetești nr. 181/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 181/2022 privind actualizarea inventarului bunurilor care fac parte din domeniul privat al municipiului Feteşti, aprobat prin H.C.L.nr.150/26.11.2015",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/74376",
+   "versions": [
+    {
+     "from": "2022-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/17145/Anexa.pdf",
+     "sha256": "757482ef56c42447176c4bcc7abe8f482104278d609e3857688f660d3ecba59b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-182-2022",
+   "path": "local/ialomita/fetesti/2022/182",
+   "short": "HCL Fetești nr. 182/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 182/2022 privind declararea de uz și interes public local a bunului ”Teren și construcții” situat în municipiul Fetești, strada Călărași, nr. 512, județul Ialomița",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/74377",
+   "versions": [
+    {
+     "from": "2022-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/17146/Anexa.pdf",
+     "sha256": "1132d9fa09af808909b39973b8bf75de6eafd77c4f005703aacc0dd26c04932c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-183-2022",
+   "path": "local/ialomita/fetesti/2022/183",
+   "short": "HCL Fetești nr. 183/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 183/2022 privind aprobarea proiectului ”Amplasare insule ecologice în Municipiul Fetești” în vederea participării la apelul de proiecte PNRR/2022/C3/S/I.1.B., Subinvestiția I1.B.-”Construirea de insule ecologice digitalizate”, investiţia I1. \"Dezvoltarea, modernizarea şi completarea sistemelor de management integrat al deşeurilor municipale la nivel de judeţ sau la nivel de oraşe/comune\", Componenta C3 – Managementul deșeurilor din cadrul Planului Național de Redresare și Reziliență",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/74378",
+   "versions": [
+    {
+     "from": "2022-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/17147/Nota%20fundamentare%20anexa.pdf",
+     "sha256": "99d1476fd31b8592735f8b5b1a3208741b87028c8daa53984b323124f301a811"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-190-2022",
+   "path": "local/ialomita/fetesti/2022/190",
+   "short": "HCL Fetești nr. 190/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 190/2022",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/74750",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/17258/Anexa.pdf",
+     "sha256": "e442ae1d40107d788ad50407fafc79338edd2bd94372b8b31aaed035c67164fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-191-2022",
+   "path": "local/ialomita/fetesti/2022/191",
+   "short": "HCL Fetești nr. 191/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 191/2022 pentru modificarea H.C.L.nr. 71/04.05.2022 privind aprobarea depunerii proiectului ”Renovare energetică a clădirii publice din Județul Ialomița, Municipiul Fetești, strada Călărași, nr. 526 – Liceul Tehnologic Anghel Saligny” în cadrul PNRR – Componenta C5- Valul Renovării",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/74751",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/17259/Anexa.pdf",
+     "sha256": "d1218a771f263c80bf07a8314a984e9d569db846d59c9397cf6c93bc3a08936e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-192-2022",
+   "path": "local/ialomita/fetesti/2022/192",
+   "short": "HCL Fetești nr. 192/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 192/2022 pentru modificarea H.C.L.nr. 75/13.05.2022 privind aprobarea depunerii proiectului „Achiziționarea de sisteme TIC (Tehnologia Informațiilor și Comunicațiilor) pentru îmbunătățirea managementului urban în municipiul Fetești, județul Ialomița” în cadrul Programului Național de Redresare și Reziliență – Componenta 10 - Fondul local",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/74752",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/17260/Anexa.pdf",
+     "sha256": "9372ecec85443be58e9d9b738f2c1c1fe19f6fa70944e154e77ce64871dd679d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-197-2022",
+   "path": "local/ialomita/fetesti/2022/197",
+   "short": "HCL Fetești nr. 197/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 197/2022 pentru modificarea H.C.L.nr. 184/28.09.2022 privind aprobarea proiectului ”Înființare centru de aport voluntar în Municipiul Fetești” în vederea participării la apelul de proiecte PNRR/2022/C3/S/I.1.A., Subinvestiția I1.a.-”Înființare de centre de colectare prin aport voluntar”, investiţia I1. \"Dezvoltarea, modernizarea şi completarea sistemelor de management integrat al deşeurilor municipale la nivel de judeţ sau la nivel de oraşe/comune\", Componenta C3 – Managementul deșeurilor din cadrul Planului Național de Redresare și Reziliență",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/75982",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/17822/Anexa.pdf",
+     "sha256": "96c77ceb9f1094fdf245d75861316491f9421f725364a3e450e6a93f812ee600"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-200-2022",
+   "path": "local/ialomita/fetesti/2022/200",
+   "short": "HCL Fetești nr. 200/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 200/2022 privind completarea inventarului bunurilor care fac parte din domeniul privat al municipiului Feteşti, aprobat prin H.C.L.nr.150/26.11.2015",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/77276",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/18206/Anexa.pdf",
+     "sha256": "3ddb96c57096c2507f3b879aefaa8cf906455c2d2d2d6dd5b03b53554ca0765b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-213-2022",
+   "path": "local/ialomita/fetesti/2022/213",
+   "short": "HCL Fetești nr. 213/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 213/2022 privind actualizarea inventarului bunurilor care fac parte din domeniul privat al municipiului Feteşti, aprobat prin H.C.L.nr.150/26.11.2015",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/80858",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/19625/Anexa.pdf",
+     "sha256": "018f2c4941e4c22f334e83030edf8bb556c2f17dd0ecfad15a90821ca8e1b673"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-220-2022",
+   "path": "local/ialomita/fetesti/2022/220",
+   "short": "HCL Fetești nr. 220/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 220/2022 pentru modificarea H.C.L.nr. 91/24.06.2020 privind aprobarea alipirii loturilor în suprafață de 1750,25 mp proprietate privată a OMV Petrom Marketing SRL și 1287,00 mp, respectiv 113,00 mp proprietate privată a Municipiului Fetești, într-un singur corp de proprietate cu suprafața de 3150,25 mp",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/80865",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/19632/Anexa.pdf",
+     "sha256": "704afc0e28f43dd5f3c30f9537f75c7df140b51eba84a5c3d6f8882ab8a6971a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-227-2022",
+   "path": "local/ialomita/fetesti/2022/227",
+   "short": "HCL Fetești nr. 227/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 227/2022 privind aprobarea tarifelor practicate de Direcţia de Administrare a Domeniului Public şi Privat Feteşti pentru serviciile prestate în anul 2023",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/83040",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/20614/Anexa.pdf",
+     "sha256": "65d2d5972d809944b0336ef38a54f902fd3e7bfa5498e67daa39d1b70abdef8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-229-2022",
+   "path": "local/ialomita/fetesti/2022/229",
+   "short": "HCL Fetești nr. 229/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 229/2022 privind aprobarea Planului lucrărilor şi acţiunilor de interes local pentru repartizarea orelor de muncă beneficiarilor Legii nr. 416/2001, pentru anul 2023",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/83042",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/20617/Anexa.pdf",
+     "sha256": "d3eaab62bc1777f833eaf42950aebafd9f47928b192566bc55b0e121e247fb03"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-231-2022",
+   "path": "local/ialomita/fetesti/2022/231",
+   "short": "HCL Fetești nr. 231/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 231/2022 privind aprobarea modelului protocolului de colaborare între Direcția de Administrare a Domeniului Public și Privat Fetești și comuna Mihail Kogălniceanu, județul Ialomița, pentru prestarea serviciilor de gestionare a câinilor fără stăpân",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/83044",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/20618/Anexa.pdf",
+     "sha256": "691355014ce6dd472f2f49110c3259b10d1d79d8e15c981fde0c2d2aef40ac08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-233-2022",
+   "path": "local/ialomita/fetesti/2022/233",
+   "short": "HCL Fetești nr. 233/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 233/2022 privind rectificarea bugetului local al Municipiului Fetești pe anul 2022",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/83046",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/20619/Anexa.pdf",
+     "sha256": "bdd04bda581226f45ea5fbb7165d9ae712833c3f0d9352493fc24c8932cd86c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-235-2022",
+   "path": "local/ialomita/fetesti/2022/235",
+   "short": "HCL Fetești nr. 235/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 235/2022 privind modificarea tarifelor pentru serviciul de iluminat public din municipiul Fetești practicate de Direcţia de Administrare a Domeniului Public şi Privat Feteşti",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/83048",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/20622/Anexa.pdf",
+     "sha256": "a9c944010d451667d6c5b53d14eb5797368aa9f99dbb96d2cba92fe5944d51a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-236-2022",
+   "path": "local/ialomita/fetesti/2022/236",
+   "short": "HCL Fetești nr. 236/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 236/2022 privind modificarea tarifelor pentru serviciul de dezinsecție, dezinfecție și deratizare din municipiul Fetești, practicate de Direcţia de Administrare a Domeniului Public şi Privat Feteşti",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/83049",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/20623/Anexa.pdf",
+     "sha256": "fdf7adec790bfc4b6c1ab4aa2f6b5cfd207f1802bf0d8b9d01528b1589af5e55"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-24-2022",
+   "path": "local/ialomita/fetesti/2022/24",
+   "short": "HCL Fetești nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 24/2022 privind aprobarea finanțării cheltuielilor de personal pe anul 2022 aferente personalului didactic auxiliar şi personalului nedidactic din unităţile de învăţământ preuniversitar de stat de pe raza UAT Feteşti, încadrat cu aprobarea Consiliului Local Feteşti",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/52951",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/3416/Aanexa.pdf",
+     "sha256": "138f7fde2fcfe8de376f014d7acf4c21bae7ff5c9dbd0e51564706ece81c50d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-240-2022",
+   "path": "local/ialomita/fetesti/2022/240",
+   "short": "HCL Fetești nr. 240/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 240/2022 privind înregistrarea în evidențele contabile ale Municipiului Fetești a unor bunuri imobile proprietate privată a statului și aflate în administrarea Consiliului Local al Municipiului Fetești",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/84462",
+   "versions": [
+    {
+     "from": "2023-01-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/21143/Anexa.pdf",
+     "sha256": "fa7b10d6b2dbfa8f5d42c9025a734f37727ba1b176d35c04d133cf3183f23392"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-26-2022",
+   "path": "local/ialomita/fetesti/2022/26",
+   "short": "HCL Fetești nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 26/2022 privind modificarea Anexei la H.C.L.nr. 47/31.03.2021 pentru organizarea reţelei şcolare pe raza Municipiului Feteşti în anul şcolar 2021-2022",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/52953",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/3417/Anexa.pdf",
+     "sha256": "34d32674c4f3af0326fd43926564f73f003a682a73730d4a1b8b7c6914a12f4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-28-2022",
+   "path": "local/ialomita/fetesti/2022/28",
+   "short": "HCL Fetești nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 28/2022 pentru modificarea H.C.L.nr. 98/26.07.2017 privind stabilirea salariilor de bază pentru aparatul de specialitate al primarului Municipiului Feteşti",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/52955",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/3418/Anexa%20I.pdf",
+     "sha256": "a9a92c35299a643fa296bbd0dffbec98fbafa5cc413cf6b3b6a61ca52c71c731"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-34-2022",
+   "path": "local/ialomita/fetesti/2022/34",
+   "short": "HCL Fetești nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 34/2022 privind aprobarea Programului anual de finanțare nerambursabilă de la bugetul local al Municipiului Fetești pentru activităţile nonprofit de interes general aferent anului 2022",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/52961",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/3425/Anexa.pdf",
+     "sha256": "761adb020f9e623d9666b8072c1b3cd8dd77e55ea93219d0961bb8e944572399"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-39-2022",
+   "path": "local/ialomita/fetesti/2022/39",
+   "short": "HCL Fetești nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 39/2022 pentru modificarea art. 7 din H.C.L.nr.111/27.09.2017 privind acordarea cu titlu gratuit a dreptului de servitute pe durata existenţei construcţiilor şi pe durata execuţiei lucrărilor pe străzile din Municipiul Fetesti, a unor suprafeţe de teren din domeniul public al Municipiului Feteşti, în vederea construirii și punerii în funcțiune a obiectivelor din cadrul “Proiectului regional de dezvoltare a infrastructurii de apă și apă uzată în aria de operare a SC RAJA SA Constanța în perioada 2014-2020”",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/55102",
+   "versions": [
+    {
+     "from": "2022-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/3922/Anexa.pdf",
+     "sha256": "fd9794285ee5170a445a336b481f7596b4ddaa221165ed6bcd6ddf3f327cd477"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-41-2022",
+   "path": "local/ialomita/fetesti/2022/41",
+   "short": "HCL Fetești nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 41/2022 privind aprobarea modalității de subvenționare a legitimațiilor gratuite de transport local efectuat de operatorul SC TRANSBUS SA Fetești pe anul 2022 pentru beneficiarii Legii nr. 44/1994 și Decretului-Lege nr.118/1990",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/56286",
+   "versions": [
+    {
+     "from": "2022-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/4259/Anexa.pdf",
+     "sha256": "e611cc1ae9ee5963504647b0858038642d2b70278974e5b9d81e3e3382f16162"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-50-2022",
+   "path": "local/ialomita/fetesti/2022/50",
+   "short": "HCL Fetești nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 50/2022 privind rectificarea bugetului local al Municipiului Fetești pe anul 2022",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/59568",
+   "versions": [
+    {
+     "from": "2022-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/5505/Anexa.pdf",
+     "sha256": "9c46061ddfe9ef64660568fc498bc6a19dc877d694d1b5bbfdf4e44a3d2b2d04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-52-2022",
+   "path": "local/ialomita/fetesti/2022/52",
+   "short": "HCL Fetești nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 52/2022 privind aprobarea Acordului de parteneriat între Municipiul Fetești și Comuna Stelnica pentru realizarea investiției „Extindere rețea inteligentă de distribuție a gazelor naturale în cartierele Coloniști, Fetești Oraș, Vlașca și Buliga din municipiul Fetești și înființare sistem inteligent de distribuție gaze naturale în comuna Stelnica, județul Ialomița” în cadrul Programului Național de Investiții ”Anghel Saligny”",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/59570",
+   "versions": [
+    {
+     "from": "2022-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/5506/Anexa%20Parteneriat%20gaze.pdf",
+     "sha256": "8078d465a376ef335d7c661591a840b153c08e7afa1a8b5764f26d914aaf5566"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-54-2022",
+   "path": "local/ialomita/fetesti/2022/54",
+   "short": "HCL Fetești nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 54/2022 privind aprobarea depunerii proiectului ”Renovare energetică a clădirii publice din județul Ialomița, Municipiul Fetești, strada Călărași, nr. 261” în cadrul PNRR – Componenta C5- Valul Renovării",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/59572",
+   "versions": [
+    {
+     "from": "2022-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/5509/Anexa.pdf",
+     "sha256": "a1d86075cc33a38049e9c689822df805ae937d9cb4ba4fab2bc531f5d2a4b553"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-55-2022",
+   "path": "local/ialomita/fetesti/2022/55",
+   "short": "HCL Fetești nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 55/2022 privind aprobarea depunerii proiectului ”Renovare energetică a clădirii publice din județul Ialomița, Municipiul Fetești, strada Călărași, nr. 549” în cadrul PNRR – Componenta C5- Valul Renovării",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/59573",
+   "versions": [
+    {
+     "from": "2022-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/5510/Anexa.pdf",
+     "sha256": "c65ddfb15ac3d9d593b801d1e69193e8f9a87c9e5899645b39328d9413848f20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-56-2022",
+   "path": "local/ialomita/fetesti/2022/56",
+   "short": "HCL Fetești nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 56/2022 privind atestarea completării inventarului bunurilor care aparțin domeniului public al municipiului Fetesti",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/59574",
+   "versions": [
+    {
+     "from": "2022-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/5511/Anexa.pdf",
+     "sha256": "3a8f7d50b4cfc60ccb73db6c80e28ed021f07c9d668d1da4193acd4a97fabb46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-57-2022",
+   "path": "local/ialomita/fetesti/2022/57",
+   "short": "HCL Fetești nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 57/2022",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/59575",
+   "versions": [
+    {
+     "from": "2022-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/5512/Anexa.pdf",
+     "sha256": "b42244fb6d494d095dae41be7275d04ac9ebb3662233e67faa5f3ae403d811cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-58-2022",
+   "path": "local/ialomita/fetesti/2022/58",
+   "short": "HCL Fetești nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 58/2022 privind aprobarea închirierii prin încredințare directă pe o durată de 12 luni de la data începerii lucrărilor și accesul asupra terenului în suprafaţă de 21.146,3 mp, către SC CONPET SA, pentru realizarea obiectivului investițional ”ÎNLOCUIRE FIRE LEGĂTURĂ TRAVERSARE DUNĂRE C1-C2 ȘI BRAȚ BORCEA C3-C4” – SUBTRAVERSARE DUNĂRE ȘI BORCEA A ȚIȚEIULUI TRANSPORTAT PRIN CONDUCTELE CONSTANȚA-BĂRĂGANU 14”, 20”, 28”",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/59576",
+   "versions": [
+    {
+     "from": "2022-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/5513/Anexa.pdf",
+     "sha256": "fb53bf6dfcabcf679d262166caac33e81402a2532ff056f6fb0a14e775f36c33"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-59-2022",
+   "path": "local/ialomita/fetesti/2022/59",
+   "short": "HCL Fetești nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 59/2022 privind aprobarea criteriilor pentru stabilirea ordinii de prioritate în soluţionarea cererilor de locuinţe şi în repartizarea locuinţelor pentru tineri, destinate închirierii, în municipiul Feteşti",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/59577",
+   "versions": [
+    {
+     "from": "2022-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/5514/Anexa.pdf",
+     "sha256": "b82146ea000237ee74157ffbd87af633f3943104db0e937018f64eedcca9cd3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-65-2022",
+   "path": "local/ialomita/fetesti/2022/65",
+   "short": "HCL Fetești nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 65/2022",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/59583",
+   "versions": [
+    {
+     "from": "2022-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/5515/Anexa.pdf",
+     "sha256": "7c904ca399ae9ebf8081f8d7e3333856d648f0baad20d2403407948239e7815f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-66-2022",
+   "path": "local/ialomita/fetesti/2022/66",
+   "short": "HCL Fetești nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 66/2022 privind declanșarea procedurii de selecție a membrilor Consiliului de Administraţie al societăţii DRUMURI MUNICIPALE SRL Feteşti şi aprobarea Scrisorii de Așteptări",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/59584",
+   "versions": [
+    {
+     "from": "2022-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/5516/Anexa.pdf",
+     "sha256": "afeab2d1eeb655363a2dd077b82fc409b945a212ffe07c7b67ff60580950e4e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-68-2022",
+   "path": "local/ialomita/fetesti/2022/68",
+   "short": "HCL Fetești nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 68/2022",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/59921",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/5755/Anexa.pdf",
+     "sha256": "6c0cc939467ad4a4c8950c662e0c890be79470240862d8c17d9f9bdc4268e807"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-69-2022",
+   "path": "local/ialomita/fetesti/2022/69",
+   "short": "HCL Fetești nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 69/2022 privind aprobarea depunerii proiectului ”Renovare energetică a clădirii publice din județul Ialomița, Municipiul Fetești, strada Călărași, nr. 512 – Direcția de Administrare a Domeniului Public și Privat Fetești” în cadrul PNRR – Componenta C5- Valul Renovării",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/59922",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/5756/Anexa.pdf",
+     "sha256": "5f109ce372b5a4e0298d6a4ef25ea433639f404ebf77e5157553b0ccf6e49baa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-70-2022",
+   "path": "local/ialomita/fetesti/2022/70",
+   "short": "HCL Fetești nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 70/2022 privind aprobarea depunerii proiectului ”Renovare energetică a clădirii publice din județul Ialomița, Municipiul Fetești, strada Călărași, nr. 547A” în cadrul PNRR – Componenta C5- Valul Renovării",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/59923",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/5757/Anexa.pdf",
+     "sha256": "9e25802bbb5305b5c47312753e7fd059801f9a0f50fda01ca942366dee151775"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-71-2022",
+   "path": "local/ialomita/fetesti/2022/71",
+   "short": "HCL Fetești nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 71/2022 privind aprobarea depunerii proiectului ”Renovare energetică a clădirii publice din județul Ialomița, Municipiul Fetești, strada Călărași, nr. 526” – Liceul Tehnologic Anghel Saligny - în cadrul PNRR – Componenta C5- Valul Renovării",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/59924",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/5758/Anexa.pdf",
+     "sha256": "8ae80d2bf4d77ad3a067888c0acdf42f0b2b89d5b4da8e7a1cc6116d14e1827e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-72-2022",
+   "path": "local/ialomita/fetesti/2022/72",
+   "short": "HCL Fetești nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 72/2022 privind aprobarea depunerii proiectului ”Renovare energetică a clădirii publice din județul Ialomița, Municipiul Fetești, strada Călărași, nr. 229 – Școala Gimnazială Mihai Viteazul – corp B” în cadrul PNRR – Componenta C5- Valul Renovării",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/59925",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/5759/Anexa.pdf",
+     "sha256": "8dfe7351fabc8d0128432dc74ebd7e2dba87758ebf913759365fabde8229190d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-73-2022",
+   "path": "local/ialomita/fetesti/2022/73",
+   "short": "HCL Fetești nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 73/2022 privind aprobarea Acordului de parteneriat între Municipiul Fetești și Comuna Stelnica pentru realizarea investiției „ACHIZIȚIA DE VEHICULE NEPOLUANTE ÎN MUNICIPIUL FETEȘTI ȘI COMUNA STELNICA, JUDEȚUL IALOMIȚA” în cadrul Programului Național de Redresare și Reziliență – Componenta 10 Fondul local",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/60940",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/6088/acord%20parteneriat.pdf",
+     "sha256": "cf8582ad8566f9fa31e28ecd09b62d6712a1f6a65140b3d09ce1383b9a8584ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-78-2022",
+   "path": "local/ialomita/fetesti/2022/78",
+   "short": "HCL Fetești nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 78/2022 pentru modificarea art. 6 din H.C.L.nr.111/27.09.2017 privind acordarea cu titlu gratuit a dreptului de servitute pe durata existenţei construcţiilor şi pe durata execuţiei lucrărilor pe străzile din Municipiul Fetesti, a unor suprafeţe de teren din domeniul public al Municipiului Feteşti, în vederea construirii și punerii în funcțiune a obiectivelor din cadrul “Proiectului regional de dezvoltare a infrastructurii de apă și apă uzată în aria de operare a SC RAJA SA Constanța în perioada 2014-2020”",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/60945",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/6097/Anexa.pdf",
+     "sha256": "be3c30d73e174f061efbd1f7a5fb6584240da39c358282d43a9329ccc19bdfb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-80-2022",
+   "path": "local/ialomita/fetesti/2022/80",
+   "short": "HCL Fetești nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 80/2022 privind aprobarea depunerii proiectului ”Renovare energetică moderată a clădirii rezidențiale multifamiliale bloc nr.7 din municipiul Fetești, strada Călărași” în cadrul PNRR – Componenta C5- Valul Renovării",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/61909",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/6558/Anexa.pdf",
+     "sha256": "96dca735189014791dbacf32afb2b445dc55eb6b0416d68f13a7b4b170d7b684"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-81-2022",
+   "path": "local/ialomita/fetesti/2022/81",
+   "short": "HCL Fetești nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 81/2022 privind aprobarea depunerii proiectului ”Renovare energetică moderată a clădirii rezidențiale multifamiliale bloc nr.8 din municipiul Fetești, strada Călărași” în cadrul PNRR – Componenta C5- Valul Renovării",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/61910",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/6559/Anexa.pdf",
+     "sha256": "ab2cf9707a18133223fd2c328e082f4dcebc4afdeb73443990289dbaf51ecbe3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-82-2022",
+   "path": "local/ialomita/fetesti/2022/82",
+   "short": "HCL Fetești nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 82/2022 privind aprobarea depunerii proiectului ”Renovare energetică moderată a clădirii rezidențiale multifamiliale bloc nr.9 din municipiul Fetești, strada Călărași” în cadrul PNRR – Componenta C5- Valul Renovării",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/61911",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/6560/Anexa.pdf",
+     "sha256": "bc3df36877b0136e5e338a3568213584341ccece95f1807622f9d89bb8632210"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-83-2022",
+   "path": "local/ialomita/fetesti/2022/83",
+   "short": "HCL Fetești nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 83/2022 privind aprobarea depunerii proiectului ”Renovare energetică moderată a clădirii rezidențiale multifamiliale bloc nr.10 din municipiul Fetești, strada Călărași” în cadrul PNRR – Componenta C5- Valul Renovării",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/61912",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/6561/Anexa.pdf",
+     "sha256": "d5b1c388dd9c245c96733eff7de78edc4c0ed2f3d35b0556a3eb2af7f93320a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-84-2022",
+   "path": "local/ialomita/fetesti/2022/84",
+   "short": "HCL Fetești nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 84/2022 privind aprobarea depunerii proiectului ”Renovare energetică moderată a clădirii rezidențiale multifamiliale bloc nr.12PP din municipiul Fetești, strada Ardealului” în cadrul PNRR – Componenta C5- Valul Renovării",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/61913",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/6562/Anexa.pdf",
+     "sha256": "1f387ef03b5676af635dde6282ff2447ccf9bb60e35ecfec67caf8a0622104e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-85-2022",
+   "path": "local/ialomita/fetesti/2022/85",
+   "short": "HCL Fetești nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 85/2022 privind aprobarea depunerii proiectului ”Renovare energetică moderată a clădirii rezidențiale multifamiliale bloc nr.16PP din municipiul Fetești, strada Ardealului” în cadrul PNRR – Componenta C5- Valul Renovării",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/61914",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/6563/Anexa.pdf",
+     "sha256": "063bb46badb7fdd351651c699881de5e84a17dccb57c0763c0730f3d1951485f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-86-2022",
+   "path": "local/ialomita/fetesti/2022/86",
+   "short": "HCL Fetești nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 86/2022 privind aprobarea depunerii proiectului ”Renovare energetică moderată a clădirii rezidențiale multifamiliale bloc Ansamblul 44 din municipiul Fetești, strada Călărași” în cadrul PNRR – Componenta C5- Valul Renovării",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/61915",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/6564/Anexa.pdf",
+     "sha256": "2e6fc21869cbac8247682d80bd1dcb85eaad4a018691c507b438000bb28fa9f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-87-2022",
+   "path": "local/ialomita/fetesti/2022/87",
+   "short": "HCL Fetești nr. 87/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 87/2022 privind aprobarea depunerii proiectului ”Renovare energetică moderată a clădirii rezidențiale multifamiliale bloc Ansamblul 56 din municipiul Fetești, strada Ardealului” în cadrul PNRR – Componenta C5- Valul Renovării",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/61916",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/6565/Anexa.pdf",
+     "sha256": "4235f84734d7fc697e49d78f2167f3c9c9f5cc90fbce9077d93b25c7c4a5b04c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-88-2022",
+   "path": "local/ialomita/fetesti/2022/88",
+   "short": "HCL Fetești nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 88/2022 privind aprobarea depunerii proiectului ”Renovare energetică moderată a clădirii rezidențiale multifamiliale bloc C2PP din municipiul Fetești, strada Călărași” în cadrul PNRR – Componenta C5- Valul Renovării",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/61917",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/6566/Anexa.pdf",
+     "sha256": "c0772556e97b5dc8bfac756417deded22a8ac0950993c55976f7cff5dcfc7e7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-89-2022",
+   "path": "local/ialomita/fetesti/2022/89",
+   "short": "HCL Fetești nr. 89/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 89/2022 privind aprobarea depunerii proiectului ”Renovare energetică moderată a clădirii rezidențiale multifamiliale bloc C4 din municipiul Fetești, strada Vasile Lupu” în cadrul PNRR – Componenta C5- Valul Renovării",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/61918",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/6567/Anexa.pdf",
+     "sha256": "3437ab479b2db321f6e65d6a9a8d5fd868f8f64847f5fe7dbb221f3e9f349472"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-90-2022",
+   "path": "local/ialomita/fetesti/2022/90",
+   "short": "HCL Fetești nr. 90/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 90/2022 privind aprobarea depunerii proiectului ”Renovare energetică moderată a clădirii rezidențiale multifamiliale bloc Tronson A1/A2/A3 din municipiul Fetești, strada Siretului” în cadrul PNRR – Componenta C5- Valul Renovării",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/61919",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/6568/Anexa.pdf",
+     "sha256": "915e643b4d6b1182b97cd2a01e2414f2d5b88bc96409e51d9b90fe18e5475359"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-91-2022",
+   "path": "local/ialomita/fetesti/2022/91",
+   "short": "HCL Fetești nr. 91/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 91/2022 privind aprobarea depunerii proiectului ”Renovare energetică moderată a clădirii rezidențiale multifamiliale bloc U1 din municipiul Fetești, strada Călărași” în cadrul PNRR – Componenta C5- Valul Renovării",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/61920",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/6569/Anexa.pdf",
+     "sha256": "cd57aa3acd49bffeab62853b6d06773948e233f32b01c27bef50def505147610"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-92-2022",
+   "path": "local/ialomita/fetesti/2022/92",
+   "short": "HCL Fetești nr. 92/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 92/2022 privind aprobarea depunerii proiectului ”Renovare energetică moderată a clădirii rezidențiale multifamiliale bloc U2 din municipiul Fetești, strada Călărași” în cadrul PNRR – Componenta C5- Valul Renovării",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/61921",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/6570/Anexa.pdf",
+     "sha256": "da002217cbbaf23b3301db96b488277905ede8f10f991e7c1c02a942494a1131"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-93-2022",
+   "path": "local/ialomita/fetesti/2022/93",
+   "short": "HCL Fetești nr. 93/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 93/2022 privind aprobarea depunerii proiectului ”Renovare energetică moderată a clădirii rezidențiale multifamiliale bloc U3 din municipiul Fetești, strada Călărași” în cadrul PNRR – Componenta C5- Valul Renovării",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/61922",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/6571/Anexa.pdf",
+     "sha256": "ee1f13500b04bdc609cf189fe3463bd7504667e985ddea98d74267354170581e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-94-2022",
+   "path": "local/ialomita/fetesti/2022/94",
+   "short": "HCL Fetești nr. 94/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 94/2022 privind rectificarea bugetului activităților autofinanțate la capitolul ”Învățământ” pe anul 2022",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/61923",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/6572/Anexa.pdf",
+     "sha256": "2eb58b1c1a8a09f6d99a74ce6f490b486451345e316e84fd4e42096239e29f7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-95-2022",
+   "path": "local/ialomita/fetesti/2022/95",
+   "short": "HCL Fetești nr. 95/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 95/2022 privind asocierea Unității Administrativ Teritoriale Municipiul Fetești cu Unitatea Administrativ Teritorială Județul Ialomița în vederea realizării în comun a proiectului ”Amenajare teren și bazin captare a Brațului Borcea pentru realizarea unui doc plutitor”",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/62248",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/6799/Anexa.pdf",
+     "sha256": "978a35b4180b2146b9aa62dcf04fcd21b2fff6884c8c0438310ce3a93c285800"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-96-2022",
+   "path": "local/ialomita/fetesti/2022/96",
+   "short": "HCL Fetești nr. 96/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 96/2022 privind darea în administrare către Direcția de Administrare a Domeniului Public și Privat Fetești a unor imobile reprezentând cimitire din domeniul public al municipiului Fetești",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/62249",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/6800/Anexa.pdf",
+     "sha256": "54f4c00cc082185cb86785d5943c79926ce5ece7837aa71381c5c44796178cfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-97-2022",
+   "path": "local/ialomita/fetesti/2022/97",
+   "short": "HCL Fetești nr. 97/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 97/2022 privind aprobarea rezultatului sesiunii de selecţie a proiectelor finanţate conform Legii nr. 350/2005 pentru domeniile Asistență Socială şi Culte Religioase pe anul 2022",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/62250",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/6801/Anexa.pdf",
+     "sha256": "76130edbb3ad29432b4b47ec0e356f2fa64d11f96ed42b123cd18c201135f554"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-98-2022",
+   "path": "local/ialomita/fetesti/2022/98",
+   "short": "HCL Fetești nr. 98/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 98/2022 privind modificarea inventarului bunurilor care fac parte din domeniul privat al municipiului Feteşti, aprobat prin H.C.L.nr.150/26.11.2015",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/62251",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/6802/Anexa.pdf",
+     "sha256": "199b34b5c7594c45ea54c85051a8df6b29aadf65faac6d2df6a5cae0c2fdf495"
     }
    ]
   }

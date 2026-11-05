@@ -76,6 +76,21 @@
      "sha256": "fc40ae1fffeb5b34800a7f1db1b84d49ae1a3c3d6b8798116613133b622a681c"
     }
    ]
+  },
+  {
+   "slug": "hcj-bacau-74-2025",
+   "path": "local/judet/bacau/2025/74",
+   "short": "HCJ Bacău nr. 74/2025",
+   "title": "Hotărârea Consiliului Județean Bacău nr. 74/2025 pentru anul 2025",
+   "url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/buget-finante-2025-000342d2?OpenDocument",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/A599A81F9931CE33C2258C810034801A/$FILE/BVC%20RECTIFICAT%20HCJ%20nr.%2074%20DIN%2028.04.2025.XLS",
+     "sha256": "c5096c60622338055575bc3e4e03579405572a785e6e05f708e9016d52cf7c0b"
+    }
+   ]
   }
  ]
 }

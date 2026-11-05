@@ -1,0 +1,160 @@
+{
+"country": "RO",
+"shard": "local/judet/bacau/2023",
+"acts": [
+{
+"slug": "hcj-bacau-129-2023",
+"path": "local/judet/bacau/2023/129",
+"kind": "local",
+"year": "2023",
+"number": "129",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bacău nr. 129/2023 pentru anul 2023 - Hotărârea Consiliului Județean Bacău nr. 129/28.04.2023",
+"short": "HCJ Bacău nr. 129/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-28",
+"latest": "2023-04-28",
+"portal": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/buget-finante--2023-0002deda?OpenDocument",
+"council": "judet/bacau",
+"council_name": "Consiliul Județean Bacău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-bacau-176-2023",
+"path": "local/judet/bacau/2023/176",
+"kind": "local",
+"year": "2023",
+"number": "176",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bacău nr. 176/2023 pentru anul 2023 – H.C.J",
+"short": "HCJ Bacău nr. 176/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-27",
+"latest": "2023-07-27",
+"portal": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/buget-finante--2023-0002deda?OpenDocument",
+"council": "judet/bacau",
+"council_name": "Consiliul Județean Bacău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-bacau-230-2023",
+"path": "local/judet/bacau/2023/230",
+"kind": "local",
+"year": "2023",
+"number": "230",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bacău nr. 230/2023 privind rectificarea bugetului de venituri si cheltuieli al Judetului Bacau, pe anul 2023 - MII LEI PROGRAMUL DE INVESTITII PUBLICE PE SURSE DE FINANTARE SI GRUPE DE INVESTITII I-Credit de angajament I TOTAL CHELTUIELI Executie PROGRAM ESTIMARI ESTIMARI ESTIMARI Estimari II-Credit bugetar EFECTUATE 2022 2023 2024 2025 2026 anii CAPITOL /II GRUPA pana la ulteriori SURSA 31.12.2021 Total general I 1",
+"short": "HCJ Bacău nr. 230/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-30",
+"latest": "2023-08-30",
+"portal": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/buget-finante--2023-0002deda?OpenDocument",
+"council": "judet/bacau",
+"council_name": "Consiliul Județean Bacău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-bacau-232-2023",
+"path": "local/judet/bacau/2023/232",
+"kind": "local",
+"year": "2023",
+"number": "232",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bacău nr. 232/2023 pentru anul 2023 - H.C.J Bacău nr. 232/13.09.2023",
+"short": "HCJ Bacău nr. 232/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-13",
+"latest": "2023-09-13",
+"portal": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/buget-finante--2023-0002deda?OpenDocument",
+"council": "judet/bacau",
+"council_name": "Consiliul Județean Bacău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-bacau-243-2023",
+"path": "local/judet/bacau/2023/243",
+"kind": "local",
+"year": "2023",
+"number": "243",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bacău nr. 243/2023 pentru anul 2023 - H.C.J Bacău nr. 243/29.09.2023",
+"short": "HCJ Bacău nr. 243/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-29",
+"latest": "2023-09-29",
+"portal": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/buget-finante--2023-0002deda?OpenDocument",
+"council": "judet/bacau",
+"council_name": "Consiliul Județean Bacău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-bacau-257-2023",
+"path": "local/judet/bacau/2023/257",
+"kind": "local",
+"year": "2023",
+"number": "257",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bacău nr. 257/2023 pentru anul 2023 - H.C.J",
+"short": "HCJ Bacău nr. 257/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-25",
+"latest": "2023-10-25",
+"portal": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/buget-finante--2023-0002deda?OpenDocument",
+"council": "judet/bacau",
+"council_name": "Consiliul Județean Bacău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-bacau-287-2023",
+"path": "local/judet/bacau/2023/287",
+"kind": "local",
+"year": "2023",
+"number": "287",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bacău nr. 287/2023 pentru anul 2023 - H.C.J",
+"short": "HCJ Bacău nr. 287/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-29",
+"latest": "2023-11-29",
+"portal": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/buget-finante--2023-0002deda?OpenDocument",
+"council": "judet/bacau",
+"council_name": "Consiliul Județean Bacău",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

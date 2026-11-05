@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/judet/bacau/2019",
+"acts": [
+{
+"slug": "hcj-bacau-200-2019",
+"path": "local/judet/bacau/2019/200",
+"kind": "local",
+"year": "2019",
+"number": "200",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bacău nr. 200/2019",
+"short": "HCJ Bacău nr. 200/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-08-29",
+"latest": "2019-08-29",
+"portal": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/buget-finante-2019-000063fa?OpenDocument",
+"council": "judet/bacau",
+"council_name": "Consiliul Județean Bacău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-bacau-213-2019",
+"path": "local/judet/bacau/2019/213",
+"kind": "local",
+"year": "2019",
+"number": "213",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bacău nr. 213/2019",
+"short": "HCJ Bacău nr. 213/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-09-30",
+"latest": "2019-09-30",
+"portal": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/buget-finante-2019-000063fa?OpenDocument",
+"council": "judet/bacau",
+"council_name": "Consiliul Județean Bacău",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

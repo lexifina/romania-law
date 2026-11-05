@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "local/judet/bacau/2022",
+ "acts": [
+  {
+   "slug": "hcj-bacau-122-2022",
+   "path": "local/judet/bacau/2022/122",
+   "short": "HCJ Bacău nr. 122/2022",
+   "title": "Hotărârea Consiliului Județean Bacău nr. 122/2022 pentru anul 2022",
+   "url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/buget-finante-2022-0002b416?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/7742A58A2448B6B4C225887500302B72/$FILE/BVC%20RECTIFICAT%20HCJ%20nr%20122%20%20DIN%2030-06-2022.xls",
+     "sha256": "153edc961efdf969883cab0906c3e78005ae68f211fdfb33fdd4e47d5c1c1013"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bacau-135-2022",
+   "path": "local/judet/bacau/2022/135",
+   "short": "HCJ Bacău nr. 135/2022",
+   "title": "Hotărârea Consiliului Județean Bacău nr. 135/2022 pentru anul 2022",
+   "url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/buget-finante-2022-0002b416?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/BEB2CA9192CFB569C2258886003DA551/$FILE/BVC%20RECTIFICAT%20HCJ%20Nr.135%20%20DIN%2019.07.2022.XLS",
+     "sha256": "fdc0eaf2a913435c02a931e94ab8d9caeaaed31a70855b4606b0e86a018d175f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bacau-173-2022",
+   "path": "local/judet/bacau/2022/173",
+   "short": "HCJ Bacău nr. 173/2022",
+   "title": "Hotărârea Consiliului Județean Bacău nr. 173/2022 pentru anul 2022 – 31 august 2022",
+   "url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/buget-finante-2022-0002b416?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/40634425697874A3C22588B10022033B/$FILE/BVC%20RECTIFICAT%20HCJ%20173%20%20DIN%2031-08-2022.xls",
+     "sha256": "396ac9047872f6a6321b22d183156169c6933e8351f984b6b661c738b4e5b5db"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bacau-187-2022",
+   "path": "local/judet/bacau/2022/187",
+   "short": "HCJ Bacău nr. 187/2022",
+   "title": "Hotărârea Consiliului Județean Bacău nr. 187/2022 pentru anul 2022 - 19 septembrie 2022",
+   "url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/buget-finante-2022-0002b416?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-09-19",
+     "units": 1,
+     "source_url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/E03DB5D924D67E76C22588C40030A44B/$FILE/BVC%20RECTIFICAT%20HCJ%20187%20din%2019-09-2022.xls",
+     "sha256": "bc9953bb27132f453b9f0c6f5a3ade7681b6973354e8a57d57b2407786eb8452"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bacau-196-2022",
+   "path": "local/judet/bacau/2022/196",
+   "short": "HCJ Bacău nr. 196/2022",
+   "title": "Hotărârea Consiliului Județean Bacău nr. 196/2022 pentru anul 2022 - 30 septembrie 2022",
+   "url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/buget-finante-2022-0002b416?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AC763ECFE7C0EFA8C22588D10024A702/$FILE/BVC%20RECTIFICAT%20HCJ%20196%20%20DIN%2030-09-2022.XLS",
+     "sha256": "5be2f93df0a46048cf66172bb87eaa67a43aae867418e8ad3e17aca39271616d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bacau-215-2022",
+   "path": "local/judet/bacau/2022/215",
+   "short": "HCJ Bacău nr. 215/2022",
+   "title": "Hotărârea Consiliului Județean Bacău nr. 215/2022 pentru anul 2022 - 31.10.2022",
+   "url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/buget-finante-2022-0002b416?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/E60B339C83EB9765C22588ED004C6CCC/$FILE/BVC%20RECTIFICAT%20HCJ%20nr.%20215%20DIN%2031.10.2022.XLS",
+     "sha256": "11ec67567f202489cc7766f605600d9e63a4b9ada3d33a8256694a24d0ca5c07"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bacau-248-2022",
+   "path": "local/judet/bacau/2022/248",
+   "short": "HCJ Bacău nr. 248/2022",
+   "title": "Hotărârea Consiliului Județean Bacău nr. 248/2022",
+   "url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/buget-finante-2022-0002b416?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-11-10",
+     "units": 1,
+     "source_url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/2A97EB4B8E8CD7C1C22588FB00247BFF/$FILE/BVC%20%20rectificat%20HCJ%20248%20din%2010-11-2022.xls",
+     "sha256": "426fa42bfe94545621a9a2b37a1d2e9a1d39eb40fa761837ee8550eef8d9c4e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bacau-258-2022",
+   "path": "local/judet/bacau/2022/258",
+   "short": "HCJ Bacău nr. 258/2022",
+   "title": "Hotărârea Consiliului Județean Bacău nr. 258/2022 pentru anul 2022 - Hotărârea C.J",
+   "url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/buget-finante-2022-0002b416?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AF59437DAF8A4D29C225890F0045F700/$FILE/BVC%20RECTIFICAT%20HCJ%20nr%20258%20din%2028-11-2022.xls",
+     "sha256": "4db5931d0e0517b6491cc53ef57a2e12bbf56c63aa02351e786cd49b7f302f85"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bacau-286-2022",
+   "path": "local/judet/bacau/2022/286",
+   "short": "HCJ Bacău nr. 286/2022",
+   "title": "Hotărârea Consiliului Județean Bacău nr. 286/2022 pentru anul 2022 - Hotărârea C.J",
+   "url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/buget-finante-2022-0002b416?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/85C736BF35B71495C225892000484981/$FILE/BVC%20RECTIFICAT%20HCJ%20Nr.%20286%20DIN%2021.12.2022.XLS",
+     "sha256": "9b0650aadd5c1fe72453f964475b7474c2b15764c4283a1314d5d83047060327"
+    }
+   ]
+  }
+ ]
+}

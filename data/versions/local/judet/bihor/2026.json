@@ -3,6 +3,366 @@
  "shard": "local/judet/bihor/2026",
  "acts": [
   {
+   "slug": "hcj-bihor-100-2026",
+   "path": "local/judet/bihor/2026/100",
+   "short": "HCJ Bihor nr. 100/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 100/2026 PRIVIND APROBAREA ÎNCHEIERII UNEI TRANZACȚII JUDICIARE PENTRU STINGEREA LITIGIULUI CE FORMEAZĂ OBIECT AL DOSARULUI NR.1180/111/2026, AFLAT PE ROLUL TRIBUNALULUI BIHOR",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/08/h-100-din-30.07.2026_Redacted.pdf",
+     "sha256": "689218f14b5796e75f5814df29b1fee11deea1dc96a760fc2e18065fdd9584ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-101-2026",
+   "path": "local/judet/bihor/2026/101",
+   "short": "HCJ Bihor nr. 101/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 101/2026 PRIVIND ÎNCHEIEREA UNUI ACORD DE COLABORARE ÎNTRE U.A.T JUDEȚUL BIHOR – CONSILIUL JUDEȚEAN BIHOR, INSPECTORATUL ȘCOLAR JUDEȚEAN BIHOR, CASA CORPULUI DIDACTIC ȘI ASOCIAȚIA PROFESORILOR ȘI MENTORILOR DIN TURISM ”EDU4TOURISM”, ÎN SCOPUL PROMOVĂRII ȘI SUSȚINERII EVENIMEN",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/08/h-101-din-30.07.2026_Redacted.pdf",
+     "sha256": "e8abaaf83c2474767bd692462227467305365a43bc59ddbfdb4fd48a13333396"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-102-2026",
+   "path": "local/judet/bihor/2026/102",
+   "short": "HCJ Bihor nr. 102/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 102/2026 PRIVIND STABILIREA UNOR MĂSURI REFERITOARE LA ACTIVITATEA BIBLIOTECII JUDEȚENE „GHEORGHE ȘINCAI” BIHOR",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/08/h-102-din-30.07.2026_Redacted.pdf",
+     "sha256": "921733cfbd8430b1277899a6aa5d00f61f1d40c3042f84acb4232073c24c439e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-103-2026",
+   "path": "local/judet/bihor/2026/103",
+   "short": "HCJ Bihor nr. 103/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 103/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/08/h-103-din-30.07.2026_Redacted.pdf",
+     "sha256": "8ba62a0a38839d2d47315949c3c2c4c7701c92a83acd069451f087c4c7219d03"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-104-2026",
+   "path": "local/judet/bihor/2026/104",
+   "short": "HCJ Bihor nr. 104/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 104/2026 PRIVIND ACTUALIZAREA INDICATORILOR TEHNICO–ECONOMICI AFERENȚI OBIECTIVULUI DE INVESTIȚII: “EXECUȚIE LUCRĂRI DE LĂRGIRE DE LA DOUĂ LA PATRU BENZI DE CIRCULAȚIE PE DN19 (E671) ÎNTRE POZIȚIILE KM 5+985 SI KM 9+731”",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/08/h-104-din-30.07.2026_Redacted.pdf",
+     "sha256": "9f73ce284c9e3a0bd1a216f7243191ca149d8200bdbedf97d634f423f227a2c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-105-2026",
+   "path": "local/judet/bihor/2026/105",
+   "short": "HCJ Bihor nr. 105/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 105/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/08/h-105-din-30.07.2026_Redacted.pdf",
+     "sha256": "b95b11a8f622cd1af4e3de43bbd6ef0172eac28b439ff11c2a6b5d92aa1c92b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-106-2026",
+   "path": "local/judet/bihor/2026/106",
+   "short": "HCJ Bihor nr. 106/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 106/2026 PRIVIND MODIFICAREA HOTĂRÂRII CONSILIULUI JUDEȚEAN BIHOR NR. 6 DIN 23.01.2025 PRIVIND APROBAREA INDICATORILOR TEHNICO-ECONOMICI, DECLANȘAREA PROCEDURII DE EXPROPRIERE PENTRU IMOBILELE AFECTATE DE CORIDORUL DE EXPROPRIERE A LUCRĂRII DE UTILITATE PUBLICĂ ”MODERNIZARE D",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/08/h-106-din-30.07.2026_Redacted.pdf",
+     "sha256": "dd354c76ecbfebd6dec80f9e540456b7c0b3e898aba64dc1f1ff76c0c4710644"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-108-2026",
+   "path": "local/judet/bihor/2026/108",
+   "short": "HCJ Bihor nr. 108/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 108/2026 PRIVIND NUMIREA ADMINISTRATORILOR PERMANENȚI LA SOCIETATEA PAZĂ ȘI PROTECȚIE BIHOR S.R.L",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/08/h-108-din-30.07.2026_Redacted.pdf",
+     "sha256": "dd688dc2f8133c26c07b193c1a7cb88d74fe04a41288e0fcdf52c00deb96d2a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-109-2026",
+   "path": "local/judet/bihor/2026/109",
+   "short": "HCJ Bihor nr. 109/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 109/2026 PRIVIND NUMIREA ADMINISTRATORILOR PERMANENȚI LA REGIA AUTONOMĂ AEROPORTUL ORADEA",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/08/h-109-din-30.07.2026_Redacted.pdf",
+     "sha256": "f533aaaf5845aee4495ef2c722b3aba478594859df916c1fd92278e7d156bc10"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-11-2026",
+   "path": "local/judet/bihor/2026/11",
+   "short": "HCJ Bihor nr. 11/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 11/2026 PRIVIND REPARTIZAREA PE UNITĂȚI ADMINISTRATIV-TERITORIALE A LIMITELOR PENTRU SUMELE DEFALCATE DIN TVA PENTRU ECHILIBRAREA BUGETELOR LOCALE ȘI SUMELE AFERENTE COTEI DE 14% DIN IMPOZITUL PE VENIT PENTRU ECHILIBRAREA BUGETELOR LOCALE PE ANUL 2026 ȘI ESTIMĂRILE PE ANII 20",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/02/h-11-din-12.02.2026_Re-dacted.pdf",
+     "sha256": "94dc195c74dc4c50702137da1446290933e46c79b31670563f0dade484ec6cdb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-119-2026",
+   "path": "local/judet/bihor/2026/119",
+   "short": "HCJ Bihor nr. 119/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 119/2026 PRIVIND APROBAREA BUGETULUI JUDEȚULUI BIHOR ȘI A INSTITUȚIILOR SUBORDONATE PE ANUL 2026 – RECTIFICAT",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/08/h-119-din-20.08.2026_Redacted.pdf",
+     "sha256": "ca613d4b6aae1dbf2b769e147a27a2f6cd470cc7e7a26896c91df9b6aac129dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-12-2026",
+   "path": "local/judet/bihor/2026/12",
+   "short": "HCJ Bihor nr. 12/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 12/2026 PRIVIND INIȚIEREA PLANURILOR DE DEZINSTITUȚIONALIZARE LA NIVELUL UNOR CENTRE REZIDENȚIALE PENTRU PERSOANE ADULTE CU DIZABILITĂȚI DIN STRUCTURA DIRECȚIEI GENERALE DE ASISTENȚĂ SOCIALĂ ȘI PROTECȚIA COPILULUI BIHOR",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/02/h-12-din-12.02.2026_Re-dacted.pdf",
+     "sha256": "392b80c94f63a60ae944c56ecb9ebd31769824f6018de4dd870063747504ba92"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-121-2026",
+   "path": "local/judet/bihor/2026/121",
+   "short": "HCJ Bihor nr. 121/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 121/2026 PRIVIND APROBAREA OBIECTIVULUI ”ACTUALIZAREA PLANULUI DE AMENAJARE A TERITORIULUI JUDEȚEAN BIHOR”",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/09/h-121-din-26.08.2026_Redacted.pdf",
+     "sha256": "db687c04a5e3ca7dc09ba328b9d80195a82d53c6f64ff4cad5e3330e581a0779"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-122-2026",
+   "path": "local/judet/bihor/2026/122",
+   "short": "HCJ Bihor nr. 122/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 122/2026 PRIVIND STABILIREA VALORII UNITARE DE 0.34 LEI/KILOMETRU AFERENTĂ SUMEI FORFETARE LUNARE ȘI A SUMEI FORFETARE PE ZI, ACORDATĂ ELEVILOR DIN JUDEȚUL BIHOR CARE SUNT ȘCOLARIZAȚI ÎN ALTĂ LOCALITATE DECÂT CEA DE DOMICILIU ȘI NU BENEFICIAZĂ DE EXISTENȚA SERVICIILOR DE TRAN",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/09/h-122-din-26.08.2026_Redacted.pdf",
+     "sha256": "4f973d7f89c3ea8ec3c6f499661fe37e2639dbfdc8b14bf4e26e3cedf15ac341"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-123-2026",
+   "path": "local/judet/bihor/2026/123",
+   "short": "HCJ Bihor nr. 123/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 123/2026 PRIVIND APROBAREA ÎNCHIRIERII PRIN LICITAȚIE PUBLICĂ DE CĂTRE UNIVERSITATEA DIN ORADEA A UNEI SUPRAFEȚE DE TEREN, AFLATĂ ÎN PROPRIETATEA JUDEȚULUI BIHOR ȘI ÎN ADMINISTRAREA UNIVERSITĂȚII DIN ORADEA, ÎN VEDEREA AMPLASĂRII UNUI PUNCT DE ALIMENTAȚIE PUBLICĂ",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/09/h-123-din-26.08.2026_Redacted.pdf",
+     "sha256": "8a429c3d5abfb869b9b520c5610079ca6e460f27ae568b5033bcf62fe1da2be5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-124-2026",
+   "path": "local/judet/bihor/2026/124",
+   "short": "HCJ Bihor nr. 124/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 124/2026 PRIVIND DAREA ÎN FOLOSINȚĂ GRATUITĂ A UNOR BUNURI REPREZENTÂND MIJLOACE FIXE ȘI OBIECTE DE INVENTAR CĂTRE FUNDAȚIA ”MIHAI NEȘU”",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/09/h-124-din-26.08.2026_Redacted.pdf",
+     "sha256": "74e28d6f9680dad02c5f07bf37ac7bae811642788d6e9200cc10e6e8afaa003b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-128-2026",
+   "path": "local/judet/bihor/2026/128",
+   "short": "HCJ Bihor nr. 128/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 128/2026 PRIVIND APROBAREA ÎNCHEIERII UNUI ACT ADIȚIONAL LA ACORDUL DE PARTENERIAT ÎNCHEIAT PENTRU REALIZAREA OBIECTIVULUI DE INVESTIȚII: “PASAJ DENIVELAT PE CENTURA ORADEA INTERSECȚIE CU CENTURA OȘORHEI”",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/page/2/",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/09/h-128-din-16.09.2026_Redacted.pdf",
+     "sha256": "a5cf8493768e6dec85b43cf185fe29f328b44dfa2e26b980df8163c29ce83452"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-129-2026",
+   "path": "local/judet/bihor/2026/129",
+   "short": "HCJ Bihor nr. 129/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 129/2026 PRIVIND APROBAREA ÎNCHEIERII UNUI ACT ADIȚIONAL LA ACORDUL DE PARTENERIAT ÎNCHEIAT PENTRU REALIZAREA OBIECTIVULUI DE INVESTIȚII: “PASAJ DENIVELAT PE DN 79 INTERSECȚIE CU CENTURA ORADEA",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/page/2/",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/09/h-129-din-16.09.2026_Redacted.pdf",
+     "sha256": "e08953f411232d834e9468696fd3380913bd9a8e2be276e99868830983277c2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-130-2026",
+   "path": "local/judet/bihor/2026/130",
+   "short": "HCJ Bihor nr. 130/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 130/2026 PRIVIND APROBAREA ÎNCHEIERII UNUI ACT ADIȚIONAL LA ACORDUL DE PARTENERIAT ÎNCHEIAT PENTRU REALIZAREA OBIECTIVULUI DE INVESTIȚII: “PASAJ DENIVELAT PE DN 19 INTERSECȚIE CU CALEA BIHORULUI”",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/page/2/",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/09/h-130-din-16.09.2026_Redacted.pdf",
+     "sha256": "eb3105f0a35455159ee02c49bd18b5b234fa9421a7dd5f013904cd0d40451fa9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-131-2026",
+   "path": "local/judet/bihor/2026/131",
+   "short": "HCJ Bihor nr. 131/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 131/2026 PRIVIND APROBAREA BUGETULUI JUDEȚULUI BIHOR ȘI A INSTITUȚIILOR SUBORDONATE PE ANUL 2026 – RECTIFICAT",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/page/2/",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/10/h-131-din-30.09.2026_Redacted.pdf",
+     "sha256": "dd352309072576a46d717d8d2ba206ea61c257e09795e93e9530c58714bf3975"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-132-2026",
+   "path": "local/judet/bihor/2026/132",
+   "short": "HCJ Bihor nr. 132/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 132/2026 PRIVIND APROBAREA STATULUI DE FUNCȚII AL BIBLIOTECII JUDEȚENE „GHEORGHE ȘINCAI” BIHOR",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/page/2/",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/10/h-132-din-30.09.2026_Redacted.pdf",
+     "sha256": "954ca4bdcc7caabd35f7657cc34e8bdda2f9a39d966e0396bf3a503f28f0a11c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-133-2026",
+   "path": "local/judet/bihor/2026/133",
+   "short": "HCJ Bihor nr. 133/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 133/2026 PRIVIND DESEMNAREA REPREZENTANȚILOR CONSILIULUI JUDEȚEAN BIHOR ÎN CADRUL CONSILIILOR DE ADMINISTRAȚIE ALE UNITĂȚILOR DE ÎNVĂȚĂMÂNT SPECIAL DE STAT AFLATE SUB AUTORITATEA CONSILIULUI JUDEȚEAN BIHOR ȘI ÎN CONSILIUL DE ADMINISTRAȚIE AL CENTRULUI JUDEȚEAN DE RESURSE ȘI A",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/page/2/",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/10/h-133-din-30.09.2026_Redacted.pdf",
+     "sha256": "64eaff5f7e10618c16fc2c30f9ec6dd7981d114e08bf39df53c33178aee61dcf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-134-2026",
+   "path": "local/judet/bihor/2026/134",
+   "short": "HCJ Bihor nr. 134/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 134/2026 PRIVIND DESEMNAREA REPREZENTANȚILOR CONSILIULUI JUDEȚEAN BIHOR ÎN COMISIA PENTRU EVALUAREA ȘI ASIGURAREA CALITĂȚII ÎN UNITĂȚILE DIN ÎNVĂȚĂMÂNTUL PREUNIVERSITAR, ÎN ANUL ȘCOLAR 2026 – 2027",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/page/2/",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/10/h-134-din-30.09.2026_Redacted.pdf",
+     "sha256": "c683defe450bccb158276ed7c11391789575d5af3369bf63060358a1135f63cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-135-2026",
+   "path": "local/judet/bihor/2026/135",
+   "short": "HCJ Bihor nr. 135/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 135/2026 PRIVIND DESEMNAREA REPREZENTANȚILOR CONSILIULUI JUDEȚEAN BIHOR, MEMBRI AI COMISIEI DE EVALUARE A PROBEI DE INTERVIU PENTRU CONCURSUL DE OCUPARE A FUNCȚIILOR DE DIRECTOR ȘI DIRECTOR ADJUNCT DIN UNITĂȚILE DE ÎNVĂȚĂMÂNT SPECIAL ȘI CENTRELE ȘCOLARE PENTRU EDUCAȚIE INCLUZ",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/page/2/",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/10/h-135-din-30.09.2026_Redacted.pdf",
+     "sha256": "4844ce8620b53cf698ea79114f2d62c692f3b60b7dd23337510e72cf672adf4f"
+    }
+   ]
+  },
+  {
    "slug": "hcj-bihor-137-2026",
    "path": "local/judet/bihor/2026/137",
    "short": "HCJ Bihor nr. 137/2026",
@@ -44,6 +404,21 @@
      "units": 1,
      "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/10/h-139-din-30.09.2026_Redacted.pdf",
      "sha256": "10a181206a3b824ae7e6fc4ff9bf90934a3a284fe0d3332d0382b329a6ef192e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-14-2026",
+   "path": "local/judet/bihor/2026/14",
+   "short": "HCJ Bihor nr. 14/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 14/2026 PRIVIND TRECEREA DIN DOMENIUL PUBLIC AL UAT – JUDEȚUL BIHOR, ÎN DOMENIUL PUBLIC AL UAT – ORAȘUL SĂCUENI, A CONSTRUCȚIILOR SITUATE ÎN LOCALITATEA SĂCUENI, REPREZENTÂND AUTOGARĂ CU O SUPRAFAȚĂ CONSTRUITĂ DESFĂȘURATĂ DE 106 MP, IDENTIFICATĂ PRIN NR. CADASTRAL 54768 – C1",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/03/h-14-din-27.02.2026_Redacted.pdf",
+     "sha256": "67296b6a9f14c086ebbfc3854a5007f1dca244c049a25b47b727d7ebb1834eb2"
     }
    ]
   },
@@ -93,6 +468,21 @@
    ]
   },
   {
+   "slug": "hcj-bihor-18-2026",
+   "path": "local/judet/bihor/2026/18",
+   "short": "HCJ Bihor nr. 18/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 18/2026 PRIVIND MODIFICAREA ȘI COMPLETAREA HOTĂRÂRII CONSILIULUI JUDEȚEAN BIHOR NR. 245 DIN 28 AUGUST 2023 PRIVIND APROBAREA CONTRACTĂRII UNEI FINANȚĂRI RAMBURSABILE ÎN VALOARE DE MAXIM 150.000.000 LEI",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/03/h-18-din-27.02.2026_Redacted.pdf",
+     "sha256": "e0cde6d6b73fdb5db61b972f79cfbc5c1ee16822c7c7b84de5ecd9865b5aa061"
+    }
+   ]
+  },
+  {
    "slug": "hcj-bihor-2-2026",
    "path": "local/judet/bihor/2026/2",
    "short": "HCJ Bihor nr. 2/2026",
@@ -108,6 +498,186 @@
    ]
   },
   {
+   "slug": "hcj-bihor-20-2026",
+   "path": "local/judet/bihor/2026/20",
+   "short": "HCJ Bihor nr. 20/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 20/2026 PRIVIND APROBAREA ÎNCHEIERII UNUI PROTOCOL DE COLABORARE ÎNTRE UAT JUDEȚUL BIHOR ȘI UAT MUNICIPIUL ORADEA ÎN SCOPUL REALIZĂRII UNUI DRUM DE LEGĂTURĂ ÎNTRE B-DUL. DECEBAL ȘI STRADA TRAIAN BLAJOVICI, PENTRU FUNCȚIONAREA OPTIMĂ A INFRASTRUCTURII AFERENTE NOULUI SPITALUL",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/03/h-20-din-27.02.2026_Redacted.pdf",
+     "sha256": "091c98237ea290dc1e4b1ad6164e37ff401223091de6180ea0001c104306b1cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-21-2026",
+   "path": "local/judet/bihor/2026/21",
+   "short": "HCJ Bihor nr. 21/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 21/2026 PRIVIND MODIFICAREA HOTĂRÂRII CONSILIULUI JUDEȚEAN BIHOR NR. 249 DIN 28.08.2023 PRIVIND APROBAREA INDICATORILOR TEHNICO-ECONOMICI, DECLANȘAREA PROCEDURII DE EXPROPRIERE PENTRU TERENURILE AFECTATE DE CORIDORUL DE EXPROPRIERE A LUCRĂRII DE UTILITATE PUBLICĂ ”AMENAJARE I",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/03/h-21-din-27.02.2026_Redacted.pdf",
+     "sha256": "d837bbab93fe74dcbcc79c1b2db12477b622a480d9be3579dbbcbcbbe3e09b62"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-25-2026",
+   "path": "local/judet/bihor/2026/25",
+   "short": "HCJ Bihor nr. 25/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 25/2026 PRIVIND APROBAREA BUGETULUI CREDITELOR INTERNE, PE ANUL 2026",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/04/h-25-din-26.03.2026_Redacted.pdf",
+     "sha256": "794f5ad4e5a74dd0cd6c728effdbf89e7e17a8dd641343c4e1823f05bc2efb19"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-26-2026",
+   "path": "local/judet/bihor/2026/26",
+   "short": "HCJ Bihor nr. 26/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 26/2026 PRIVIND MODIFICAREA ORGANIGRAMEI ȘI A STATULUI DE FUNCŢII ALE DIRECȚIEI GENERALE DE ASISTENȚĂ SOCIALĂ ȘI PROTECȚIA COPILULUI BIHOR",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/04/h-26-din-26.03.2026_Redacted.pdf",
+     "sha256": "09854ec9673c4788167b5cb6737a8c6c87918b1f785daabda183b137ba368ec0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-27-2026",
+   "path": "local/judet/bihor/2026/27",
+   "short": "HCJ Bihor nr. 27/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 27/2026 PRIVIND APROBAREA PLANULUI ANUAL DE ACȚIUNE PRIVIND SERVICIILE SOCIALE ADMINISTRATE ȘI FINANȚATE DIN BUGETUL CONSILIULUI JUDEȚEAN BIHOR PENTRU ANUL 2026 AL DIRECȚIEI GENERALE DE ASISTENȚĂ SOCIALĂ ȘI PROTECȚIA COPILULUI BIHOR",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/04/h-27-din-26.03.2026_Redacted.pdf",
+     "sha256": "7dff049c5d01a1c7f5b35b444ad2f7ea8c65be93ace5649d0d59d3c8c5f0ef6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-28-2026",
+   "path": "local/judet/bihor/2026/28",
+   "short": "HCJ Bihor nr. 28/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 28/2026 PRIVIND APLICAREA NOULUI NUMĂR MAXIM DE POSTURI STABILIT DE INSTITUȚIA PREFECTULUI – JUDEȚUL BIHOR PENTRU CONSILIUL JUDEȚEAN BIHOR",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/04/h-28-din-26.03.2026_Redacted.pdf",
+     "sha256": "c8697787511f730b5368711f1284225504a3ca871b9183ea13dcc411d7eb2c39"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-29-2026",
+   "path": "local/judet/bihor/2026/29",
+   "short": "HCJ Bihor nr. 29/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 29/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/04/h-29-din-26.03.2026_Redacted.pdf",
+     "sha256": "a2c141770c8fe03e3c5e45c1ad4391c83331e86ef9046f7252cf60a23c99ecdb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-30-2026",
+   "path": "local/judet/bihor/2026/30",
+   "short": "HCJ Bihor nr. 30/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 30/2026 PRIVIND RETRAGEREA DREPTULUI DE ADMINISTRARE AL UNIVERSITĂȚII ORADEA ASUPRA IMOBILULUI ÎNSCRIS ÎN CF 204659 ORADEA REPREZENTÂND TEREN ȘI CONSTRUCȚII ȘI TRECEREA DIN DOMENIUL PUBLIC ÎN DOMENIUL PRIVAT AL JUDEȚULUI BIHOR, A CONSTRUCȚIILOR IDENTIFICATE PRIN NR. CADASTRAL",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/04/h-30-din-26.03.2026_Redacted.pdf",
+     "sha256": "e05f4d96df9653ca3c7189ce751444ad39079ee51ef1afcef1133c5007a5bc8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-31-2026",
+   "path": "local/judet/bihor/2026/31",
+   "short": "HCJ Bihor nr. 31/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 31/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/04/h-31-din-26.03.2026_Redacted.pdf",
+     "sha256": "9e1d62e9460f527106dced617ed6dabe01ce7fcdd2593ea620962565e006446a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-32-2026",
+   "path": "local/judet/bihor/2026/32",
+   "short": "HCJ Bihor nr. 32/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 32/2026 PENTRU APROBAREA UNUI PROTOCOL DE COLABORARE ÎNTRE UAT – MUNICIPIUL ORADEA, UAT – JUDEȚUL BIHOR ȘI UNIVERSITATEA DIN ORADEA, AVÂND CA SCOP REALIZAREA UNOR LUCRĂRI ÎN CAMPUSUL UNIVERSITAR ORADEA",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/04/h-32-din-26.03.2026_Redacted.pdf",
+     "sha256": "72f9fb0d59bb180712f3a5046c457d0bdbf9bcb7bce587326599068cdda0b895"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-33-2026",
+   "path": "local/judet/bihor/2026/33",
+   "short": "HCJ Bihor nr. 33/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 33/2026 PRIVIND APROBAREA CORIDORULUI SUPLIMENTAR DE EXPROPRIERE, ÎNSUȘIREA RAPORTULUI DE EVALUARE ȘI DEMARAREA PROCEDURII DE EXPROPRIERE SUPLIMENTARE PENTRU LUCRAREA DE UTILITATE PUBLICĂ ”PASAJ DENIVELAT PE DN19 – INTERSECȚIE CU CALEA BIHORULUI”",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/04/h-33-din-26.03.2026_Redacted.pdf",
+     "sha256": "f9fc3014987c8de995a0dbcdea00fbb795c0b51a58c7ea3093eb645826aea9a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-35-2026",
+   "path": "local/judet/bihor/2026/35",
+   "short": "HCJ Bihor nr. 35/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 35/2026 PRIVIND MODIFICAREA COMPONENȚEI CONSORȚIULUI PENTRU ÎNVĂȚĂMÂNT DUAL „CAMPUS ORADEA” ȘI ÎNCHEIEREA UNOR ACTE ADIȚIONALE LA CONTRACTELE DE PARTENERIAT PRIVIND CONSORȚIUL",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/04/h-35-din-26.03.2026_Redacted.pdf",
+     "sha256": "543cde89b916ad92d044ba4c935031b24d777fd9c559dd80ed406e091038d35c"
+    }
+   ]
+  },
+  {
    "slug": "hcj-bihor-37-2026",
    "path": "local/judet/bihor/2026/37",
    "short": "HCJ Bihor nr. 37/2026",
@@ -119,6 +689,546 @@
      "units": 1,
      "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/04/h-37-din-26.03.2026_Redacted.pdf",
      "sha256": "1ba5b8597a4255697956cac63bee34ac2cab4f68f18f1a8171fbeb88aac1ee58"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-38-2026",
+   "path": "local/judet/bihor/2026/38",
+   "short": "HCJ Bihor nr. 38/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 38/2026 PRIVIND APROBAREA SOLICITĂRII DE TRECERE DIN DOMENIUL PUBLIC AL UAT MUNICIPIUL MARGHITA ÎN DOMENIUL PUBLIC AL UAT JUDEȚUL BIHOR, A INVESTIȚIEI REALIZATĂ PENTRU ELIBERAREA AMPLASAMENTULUI LEA 100 KV ȘI LEA 20 KV, NECESAR PENTRU PARCUL DE SPECIALIZARE INTELIGENTĂ MARGHI",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/04/h-38-din-26.03.2026_Redacted.pdf",
+     "sha256": "ad01d026765968e252df20f96fbd0a209d05f074ca91f3b0843a17c02227517b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-39-2026",
+   "path": "local/judet/bihor/2026/39",
+   "short": "HCJ Bihor nr. 39/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 39/2026 PRIVIND ACORDAREA UNUI TERMEN DE GRAȚIE ÎN FAVOAREA SOCIETĂȚII CONSTRUCȚII ERBAȘU SA, NECESAR PENTRU FINALIZAREA INVESTIȚIEI ”STRUCTURĂ DE PRIMIRE TURISTICĂ – HOTEL”, PE TERENUL ÎNSCRIS ÎN CF NR. 213121 ORADEA, PROPRIETATEA JUDEȚULUI BIHOR",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/04/h-39-din-26.03.2026_Redacted.pdf",
+     "sha256": "ca2435cee2daae5c42e25740b751f5d0a162854b87ca4dbc6a1b965f6485f2d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-43-2026",
+   "path": "local/judet/bihor/2026/43",
+   "short": "HCJ Bihor nr. 43/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 43/2026 PRIVIND APROBAREA BUGETULUI JUDEȚULUI BIHOR ȘI A INSTITUȚIILOR SUBORDONATE PE ANUL 2026",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/05/h-43-din-30.04.2026-privind-aprobarea-bugetului-CJB-pe-anul-2026_Redacted.pdf",
+     "sha256": "2cee75008d64be131c226404da5db5ab7be6ed6ce834a92d3bd1d5f247e5b5bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-44-2026",
+   "path": "local/judet/bihor/2026/44",
+   "short": "HCJ Bihor nr. 44/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 44/2026 PRIVIND APROBAREA CONTRACTĂRII UNEI FINANȚĂRI RAMBURSABILE EXTERNE ÎN VALOARE DE MAXIM 38.000.000 EURO, DE LA BANCA EUROPEANĂ DE INVESTIȚII",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/05/h-44-din-30.04.2026_Redacted.pdf",
+     "sha256": "db31f486b54d879e3c0cff85c4941ba5ff3aaf4616cfecd343ebb036c89c1030"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-48-2026",
+   "path": "local/judet/bihor/2026/48",
+   "short": "HCJ Bihor nr. 48/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 48/2026 PENTRU APROBAREA ÎNCHEIERII ACTULUI ADIȚIONAL NR. 3 LA ACORDUL DE PARTENERIAT PENTRU ÎNFIINȚAREA ȘI OPERAȚIONALIZAREA CENTRULUI REGIONAL DE DATE NORD-VEST, CU FINANȚARE PRIN PROGRAMUL REGIONAL NORD-VEST 2021 – 2027",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/05/h-48-din-30.04.2026_Redacted.pdf",
+     "sha256": "008972e2015d187f9222011e6a971da0bb5506f1944989fdb95469e3aacacc86"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-50-2026",
+   "path": "local/judet/bihor/2026/50",
+   "short": "HCJ Bihor nr. 50/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 50/2026 PRIVIND DESEMNAREA ADMINISTRATORILOR PROVIZORII NEEXECUTIVI ÎN CONSILIUL DE ADMINISTRAȚIE AL REGIEI AUTONOME AEROPORTUL ORADEA",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/05/h-50-din-30.04.2026_Redacted.pdf",
+     "sha256": "015105eb8af60f92280a5ee326a94be133acc631709cebd5dcb17225762a0d65"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-55-2026",
+   "path": "local/judet/bihor/2026/55",
+   "short": "HCJ Bihor nr. 55/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 55/2026 PRIVIND ÎNCHEIEREA UNUI ACORD DE COLABORARE ÎNTRE CONSILIUL JUDEȚEAN BIHOR, FACULTATEA DE ARTE, FACULTATEA DE CONSTRUCȚII, CADASTRU ȘI ARHITECTURĂ ȘI SOCIETATEA BORODI GROUP SRL , ÎN SCOPUL PROMOVĂRII ȘI SUSȚINERII EVENIMENTULUI CULTURAL ”HERITAGE IN DESIGN”",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/05/h-55-din-30.04.2026_Redacted.pdf",
+     "sha256": "496ec2d6c5599c5fffb1d037def299093f4b651275bdceb080dbf70b36184848"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-58-2026",
+   "path": "local/judet/bihor/2026/58",
+   "short": "HCJ Bihor nr. 58/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 58/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/05/h-58-din-19.05.2026_Redacted.pdf",
+     "sha256": "b0fb1a84db59a10114cb647ac36a88cfc603da47b9107690f8b4372d6b99cbc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-59-2026",
+   "path": "local/judet/bihor/2026/59",
+   "short": "HCJ Bihor nr. 59/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 59/2026 PRIVIND APROBAREA SOLICITĂRII DE TRECERE DIN DOMENIUL PUBLIC AL U.A.T.-MUNICIPIUL ORADEA ÎN DOMENIUL PUBLIC AL U.A.T.-JUDEȚUL BIHOR, A IMOBILELOR-TERENURI, IDENTIFICATE PRIN NR. CADASTRAL 171211, ÎNSCRIS ÎN CF 171211 ORADEA, NR. CADASTRAL 221748, ÎNSCRIS ÎN CF 221748",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/05/h-59-din-19.05.2026_Redacted.pdf",
+     "sha256": "fa9dc237062ad698ba2ede84db864c65767f1a715b2211ea8b576ca6b493b313"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-60-2026",
+   "path": "local/judet/bihor/2026/60",
+   "short": "HCJ Bihor nr. 60/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 60/2026 PRIVIND APROBAREA BUGETULUI JUDEȚULUI BIHOR ȘI A INSTITUȚIILOR SUBORDONATE PE ANUL 2026 – RECTIFICAT",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/06/h-60-din-26.05.2026_Redacted.pdf",
+     "sha256": "c71342ab92c524cd74db990d20191d7f75fe5075bb1169317a44aafea1132959"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-62-2026",
+   "path": "local/judet/bihor/2026/62",
+   "short": "HCJ Bihor nr. 62/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 62/2026 PRIVIND APROBAREA BUGETULUI RA AEROPORTUL ORADEA PE ANUL 2026",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/06/h-62-din-26.05.2026_Redacted.pdf",
+     "sha256": "51ffab0076198b414d17863d34b13e9cfc2aca0b0aef39436352c009d90b0eb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-63-2026",
+   "path": "local/judet/bihor/2026/63",
+   "short": "HCJ Bihor nr. 63/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 63/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/06/h-63-din-26.05.2026_Redacted.pdf",
+     "sha256": "396a1f11da72bb1acb6f593d50dd07800f6829b1ab13be22925d6ad530d009b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-65-2026",
+   "path": "local/judet/bihor/2026/65",
+   "short": "HCJ Bihor nr. 65/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 65/2026 PRIVIND APROBAREA BUGETULUI SC PARC ȘTIINȚIFIC ȘI TEHNOLOGIC BIHOR SRL PE ANUL 2026",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/06/h-65-din-26.05.2026_Redacted.pdf",
+     "sha256": "25099a986c2179c7f3fc7e9a5d059524546a6609a355168392a29cf9c41af53d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-66-2026",
+   "path": "local/judet/bihor/2026/66",
+   "short": "HCJ Bihor nr. 66/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 66/2026 PRIVIND APROBAREA CONTULUI DE ÎNCHEIERE A EXERCIȚIULUI BUGETAR LA 31 DECEMBRIE 2025",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/06/h-66-din-26.05.2026_Redacted.pdf",
+     "sha256": "8444155aa6632415c62c8474ddc2ee2fb7dceb34110bce89d1b538d50aec775f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-68-2026",
+   "path": "local/judet/bihor/2026/68",
+   "short": "HCJ Bihor nr. 68/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 68/2026 PRIVIND APROBAREA INDICATORILOR TEHNICO – ECONOMICI FAZA DALI AFERENȚI OBIECTIVULUI DE INVESTIȚIE “REAMENAJARE ȘI RECOMPARTIMENTARE SPAȚII PENTRU CENTRUL JUDEȚEAN DE ORIENTARE ȘCOLARĂ ȘI PROFESIONALĂ BIHOR”",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/06/h-68-din-26.05.2026_Redacted.pdf",
+     "sha256": "6194e8d0cfb1989fcf09598d347c974658b9421e87dcca86600255f698e6f6de"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-72-2026",
+   "path": "local/judet/bihor/2026/72",
+   "short": "HCJ Bihor nr. 72/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 72/2026 PENTRU STABILIREA COMPONENȚEI NOMINALE A COMISIEI TEHNICE DE AMENAJARE A TERITORIULUI ȘI URBANISM A JUDEȚULUI BIHOR",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/06/h-72-din-26.05.2026_Redacted.pdf",
+     "sha256": "4f63b1cb01b705f44ebd42d2b55250d9665df688cef0f0592214d524cafd1e1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-73-2026",
+   "path": "local/judet/bihor/2026/73",
+   "short": "HCJ Bihor nr. 73/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 73/2026 PRIVIND MODIFICAREA HOTĂRÂRII CONSILIULUI JUDEȚEAN BIHOR NR. 311/­­­­21.11.2024 PRIVIND VALIDAREA DESEMNĂRII NOMINALE A MEMBRILOR AUTORITĂȚII TERITORIALE DE ORDINE PUBLICĂ PENTRU MANDATUL 2024 – 2028",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/06/h-73-din-26.05.2026_Redacted.pdf",
+     "sha256": "e4b7cc03f5cc933632e94334dbe7c0c63b46ae91b75c20dfc2ec1582585a2dee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-74-2026",
+   "path": "local/judet/bihor/2026/74",
+   "short": "HCJ Bihor nr. 74/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 74/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/06/h-74-din-26.05.2026_Redacted.pdf",
+     "sha256": "569b7aa16a80a568c8475510fd6206e628838901ed16c6156346b6a0cc821964"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-75-2026",
+   "path": "local/judet/bihor/2026/75",
+   "short": "HCJ Bihor nr. 75/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 75/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/06/h-75-din-26.05.2026_Redacted.pdf",
+     "sha256": "994f2925224a9f77c1030dbda58ea491673856b68373791f750caf8967dd9063"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-77-2026",
+   "path": "local/judet/bihor/2026/77",
+   "short": "HCJ Bihor nr. 77/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 77/2026 privind aprobarea situațiilor financiare pe anul 2025 ale SC Pază și Protecție Bihor SRL",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/07/h-77-din-25.06.2026_Redacted.pdf",
+     "sha256": "a06dcf25818469ae46a08b0b4742d3b653a79af09a533502bacb5f53b13ac6c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-80-2026",
+   "path": "local/judet/bihor/2026/80",
+   "short": "HCJ Bihor nr. 80/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 80/2026 privind aprobarea Statului de funcții al Unității de Asistență Medico-Socială Popești",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/07/h-80-din-25.06.2026_Redacted.pdf",
+     "sha256": "03112dde767c50522978f46ef60be1707b57d565802586278da7505114169071"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-81-2026",
+   "path": "local/judet/bihor/2026/81",
+   "short": "HCJ Bihor nr. 81/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 81/2026 privind aprobarea Statului de funcții al Muzeului Țării Crișurilor Oradea-Complex Muzeal",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/07/h-81-din-25.06.2026_Redacted.pdf",
+     "sha256": "4c69e25c496be3434b967828f77e7f55f2f03249a2b4c97eabed603f722ff290"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-82-2026",
+   "path": "local/judet/bihor/2026/82",
+   "short": "HCJ Bihor nr. 82/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 82/2026 privind încheierea unui contract de comodat între OTL Oradea și Județul Bihor",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/07/h-82-din-25.06.2026_Redacted.pdf",
+     "sha256": "04d690b212fe0d4c6011a04aad2dd8dcca72c8f24ff20418b0440af42a3472af"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-83-2026",
+   "path": "local/judet/bihor/2026/83",
+   "short": "HCJ Bihor nr. 83/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 83/2026 privind încheierea unui contract de folosință gratuită între Municipiul Beiuș – Primăria Municipiului Beiuș și Județul Bihor",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/07/h-83-din-25.06.2026_Redacted.pdf",
+     "sha256": "c656882235d14d742b0e0deaaa76f82d2a9877aa310bfa87827d2f92c300a985"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-84-2026",
+   "path": "local/judet/bihor/2026/84",
+   "short": "HCJ Bihor nr. 84/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 84/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/07/h-84-din-25.06.2026_Redacted.pdf",
+     "sha256": "e2f9c6015dd6e937b37eda21bb4eae15b3349c64485bccbc02d6c503e960a3de"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-85-2026",
+   "path": "local/judet/bihor/2026/85",
+   "short": "HCJ Bihor nr. 85/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 85/2026 privind delegarea temporară a dreptului de administrare a unui sector din drumul judetean DJ 797, în favoarea U.A.T",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/07/h-85-din-25.06.2026_Redacted.pdf",
+     "sha256": "dc083907907ce59aa5c56e91cfb085501175447ea7c187d6d7467e7abf0825b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-86-2026",
+   "path": "local/judet/bihor/2026/86",
+   "short": "HCJ Bihor nr. 86/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 86/2026 privind aprobarea Monografiei Economico-Militare a Județului Bihor, Ediția 2024 – actualizată",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/07/h-86-din-25.06.2026_Redacted.pdf",
+     "sha256": "02591eb1cc1b1b76f08846e5dcdc9ef534fd25464f2b4c9a39e73727f604326c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-87-2026",
+   "path": "local/judet/bihor/2026/87",
+   "short": "HCJ Bihor nr. 87/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 87/2026 privind modificarea și completarea Regulamentului de organizare și funcționare al R.A ”Aeroportul Oradea”",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/07/h-87-din-25.06.2026_Redacted.pdf",
+     "sha256": "70327084eca3a441c9afcefedfbe268009434f1b0be35b82025fcf5a663774eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-91-2026",
+   "path": "local/judet/bihor/2026/91",
+   "short": "HCJ Bihor nr. 91/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 91/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/07/h-91-din-25.06.2026_Redacted.pdf",
+     "sha256": "2f0473e1b33973ccbe07b3518bae908776d3bac3a81129470b8277350315ad37"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-93-2026",
+   "path": "local/judet/bihor/2026/93",
+   "short": "HCJ Bihor nr. 93/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 93/2026 PRIVIND APROBAREA BUGETULUI JUDEȚULUI BIHOR ȘI A INSTITUȚIILOR SUBORDONATE PE ANUL 2026 – RECTIFICAT",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/08/h-93-din-30.07.2026_Redacted.pdf",
+     "sha256": "87fd42ffc89082dc31afad86b9b872effdeff7ca5cb5057483013c6ef19976e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-94-2026",
+   "path": "local/judet/bihor/2026/94",
+   "short": "HCJ Bihor nr. 94/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 94/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/08/h-94-din-30.07.2026_Redacted.pdf",
+     "sha256": "4a9f82200e6565b02f5b09204690f5d562a34533b4b6d85a5ec0dd2ee6dcfed9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-95-2026",
+   "path": "local/judet/bihor/2026/95",
+   "short": "HCJ Bihor nr. 95/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 95/2026 PRIVIND MODIFICAREA ȘI COMPLETAREA ANEXEI NR. 12 LA HOTĂRÂREA CONSILIULUI JUDEȚEAN BIHOR NR. 233 DIN 18.12.2025 PRIVIND APROBAREA TAXELOR ȘI TARIFELOR LOCALE PENTRU ANUL FISCAL 2026, CARE CONSTITUIE VENITURI LA BUGETUL LOCAL AL JUDEȚULUI ȘI LA BUGETUL INSTITUȚIILOR SU",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/08/h-95-din-30.07.2026_Redacted.pdf",
+     "sha256": "1033e0fba76004d11bc394199c3a402685ec5c128c708263d6d6e2a589ec5ce3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-96-2026",
+   "path": "local/judet/bihor/2026/96",
+   "short": "HCJ Bihor nr. 96/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 96/2026 PRIVIND MODIFICAREA ȘI COMPLETARE REGULAMENTULUI DE ORGANIZARE ȘI FUNCȚIONARE AL SPITALULUI DE PSIHIATRIE NUCET",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/08/h-96-din-30.07.2026_Redacted.pdf",
+     "sha256": "884362cc396f5dfb841ea13a77c1984157ff894e3a432c64c5a1db79ea78d3b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-97-2026",
+   "path": "local/judet/bihor/2026/97",
+   "short": "HCJ Bihor nr. 97/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 97/2026 PRIVIND MODIFICAREA ANEXEI NR. 2 A HOTĂRÂRII CONSILIULUI JUDEȚEAN BIHOR NR. 197 DIN 30.07.2024 PRIVIND APROBAREA ORGANIGRAMEI, STATULUI DE FUNCȚII ȘI A REGULAMENTULUI DE ORGANIZARE ȘI FUNCȚIONARE ALE APARATULUI DE SPECIALITATE AL CONSILIULUI JUDEȚEAN BIHOR",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/08/h-97-din-30.07.2026_Redacted.pdf",
+     "sha256": "df87e165eaf4ce7ae155b058c6d1343b07f0439097b6b4c4368eb1a084e90734"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-98-2026",
+   "path": "local/judet/bihor/2026/98",
+   "short": "HCJ Bihor nr. 98/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 98/2026 PRIVIND APROBAREA STATULUI DE FUNCȚII AL DIRECȚIEI DE EVIDENȚĂ A PERSOANELOR A JUDEȚULUI BIHOR",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/08/h-98-din-30.07.2026_Redacted.pdf",
+     "sha256": "78962c8fffb99449fda6c921655e73a815ffdb9f0b2f5ea89db9b4ad2c123b9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-99-2026",
+   "path": "local/judet/bihor/2026/99",
+   "short": "HCJ Bihor nr. 99/2026",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 99/2026 PRIVIND MODIFICAREA ORGANIGRAMEI, A STATULUI DE FUNCȚII ȘI A REGULAMENTULUI DE ORGANIZARE ȘI FUNCȚIONARE ALE DIRECȚIEI GENERALE DE ASISTENȚĂ SOCIALĂ ȘI PROTECȚIA COPILULUI BIHOR, APROBATE PRIN HOTĂRÂREA CONSILIULUI JUDEȚEAN BIHOR NR. 71 DIN 26.05.2026",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2026/08/h-99-din-30.07.2026_Redacted.pdf",
+     "sha256": "5cf4c1819b18fb79964b45f52c90299cec6a0ff0391a5c87322e4ae1866ccf32"
     }
    ]
   }

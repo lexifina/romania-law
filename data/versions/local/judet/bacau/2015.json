@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/bacau/2015",
+ "acts": [
+  {
+   "slug": "hcj-bacau-60-2015",
+   "path": "local/judet/bacau/2015/60",
+   "short": "HCJ Bacău nr. 60/2015",
+   "title": "Hotărârea Consiliului Județean Bacău nr. 60/2015",
+   "url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/arhiva-monitorul-oficial-al-judetului-bacau-000043aa?OpenDocument",
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": "https://www.csjbacau.ro/dm_cj/portalweb.nsf/AllByUNID/BF5CB05FF670161BC225867D003BE606/$FILE/Monitor-Oficial-Judetul-Bacau-nr-1-ianuarie-Martie.pdf",
+     "sha256": "969dd100a07ca4bc9970df908ab88fbb706e2fc0171ef32a82a803d50d990790"
+    }
+   ]
+  }
+ ]
+}

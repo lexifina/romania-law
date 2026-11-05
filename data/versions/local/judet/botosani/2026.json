@@ -3,6 +3,261 @@
  "shard": "local/judet/botosani/2026",
  "acts": [
   {
+   "slug": "hcj-botosani-1-2026",
+   "path": "local/judet/botosani/2026/1",
+   "short": "HCJ Botoșani nr. 1/2026",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 1/2026 privind aprobarea Statutului Județului Botoșani, actualizat",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H001_20260128.pdf",
+     "sha256": "7397d092d4075e32e9168da1ecf7944d8fda6b4ba29e68eeb20cbb1ea3346ae0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-10-2026",
+   "path": "local/judet/botosani/2026/10",
+   "short": "HCJ Botoșani nr. 10/2026",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 10/2026 privind acordul pentru ocuparea temporară de către Societatea Națională de Transport Gaze Naturale„TRANSGAZ” SA Mediaș a suprafeței forestiere totale de 0,0039 ha, pentru obiectivul „Înlocuire tronson conductă Botoșani-Bucecea, în zona sat Baisa, județul Botoșan i– PT 1338/2019”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H010_20260128.pdf",
+     "sha256": "af7cc4ac017718e5e9c3bc4c892b837ad7585689f8548f95ee0519aa13429e41"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-100-2026",
+   "path": "local/judet/botosani/2026/100",
+   "short": "HCJ Botoșani nr. 100/2026",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 100/2026 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru obiectivul de investiții ,,CONSOLIDARE CLĂDIRE SERVICIUL JUDEȚEAN DE MEDICINĂ LEGALĂ”, str",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H100_20260428.pdf",
+     "sha256": "c1b0b80844574eb3f5093b058d9806214cded53c0e5e2657e59d38757381d7c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-101-2026",
+   "path": "local/judet/botosani/2026/101",
+   "short": "HCJ Botoșani nr. 101/2026",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 101/2026 privind achitarea cotizației anuale a Judeţului Botoşani la Asociaţia de Dezvoltare Intercomunitară – Dezvoltare Sustenabilă și Integrată în ”Țara de Sus” în sumă de 150.000 de lei, din bugetul propriu judeţean, pentru anul 2026",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H101_20260428.pdf",
+     "sha256": "e06faaf0d1614c6b56b034dbd700b2c255fa8991da1f43bcb3ef48e691c96c88"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-103-2026",
+   "path": "local/judet/botosani/2026/103",
+   "short": "HCJ Botoșani nr. 103/2026",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 103/2026 privind aprobarea Protocolului de parteneriat între",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H103_20260505.pdf",
+     "sha256": "84d213afea340c3db3de03c836cd5f788c3dbaaae8ba129c085951189f76f2f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-105-2026",
+   "path": "local/judet/botosani/2026/105",
+   "short": "HCJ Botoșani nr. 105/2026",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 105/2026 privind aprobarea Protocolului de cooperare între Judeţul Botoşani şi Inspectoratul de Poliție Judeţean Botoşani în domeniul prevenirii și combaterii infracționalității",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H105_20260522.pdf",
+     "sha256": "ca869d71be67f380d0e0d464ef2698a4a2f6908bc9d08d505bb14149ee8d3fd4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-107-2026",
+   "path": "local/judet/botosani/2026/107",
+   "short": "HCJ Botoșani nr. 107/2026",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 107/2026 privind declararea unor bunuri de interes public județean",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H107_20260528.pdf",
+     "sha256": "9f110a77d9693ea5e581b238464ff6464d72ba4ecd43fe8506e1607326a7f119"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-108-2026",
+   "path": "local/judet/botosani/2026/108",
+   "short": "HCJ Botoșani nr. 108/2026",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 108/2026 privind aprobarea achiziţionării de servicii juridice de consultanță, asistență și/sau reprezentare a Spitalului Județean de Urgență Mavromati Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H108_20260528.pdf",
+     "sha256": "e585ef3ac4df520d45fdca93c16cdd3e07c3ad5a97a387c39ce11e790b44acbb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-109-2026",
+   "path": "local/judet/botosani/2026/109",
+   "short": "HCJ Botoșani nr. 109/2026",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 109/2026 privind solicitarea de trecere a unor sectoare de drum național din domeniul public al statului și administrarea Ministerului Transporturilor și Infrastructurii, în domeniul public al Județului Botoșani și administrarea Consiliului Judeţean Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H109_20260528.pdf",
+     "sha256": "bf3fd44ba1165733ca3b6536bbd2ca805b415d5e062dc0531d1e218c861ed99c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-11-2026",
+   "path": "local/judet/botosani/2026/11",
+   "short": "HCJ Botoșani nr. 11/2026",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 11/2026 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru obiectivul de investiții ,,Rezervor de apă potabilă și rezervă incendiu Secția Boli Infecțioase”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H011_20260128.pdf",
+     "sha256": "e97f95442536efa723d05571b4f2a98b1421d12837421d93a12d33b0268552e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-110-2026",
+   "path": "local/judet/botosani/2026/110",
+   "short": "HCJ Botoșani nr. 110/2026",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 110/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H110_20260528.pdf",
+     "sha256": "150d6a6b8965afbf052392b7ee0b3fca197592023b1bf0b4bc3613f3f48126e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-113-2026",
+   "path": "local/judet/botosani/2026/113",
+   "short": "HCJ Botoșani nr. 113/2026",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 113/2026 privind aprobarea Regulamentului de organizare şi funcţionare a Unității de Asistență Medico-Socială Mihăileni din subordinea Consiliului Judeţean Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H113_20260528.pdf",
+     "sha256": "c7221d749dfa4c04a63cfbca8febe18f4639f97b45db33091afbe768cc3621e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-114-2026",
+   "path": "local/judet/botosani/2026/114",
+   "short": "HCJ Botoșani nr. 114/2026",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 114/2026 privind aprobarea Regulamentului de organizare şi funcţionare a Unității de Asistență Medico-Socială Sulița din subordinea Consiliului Judeţean Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H114_20260528.pdf",
+     "sha256": "0e2d9625dc68679664fe475b07ec698108df7f347b205e622c20449c7039b265"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-115-2026",
+   "path": "local/judet/botosani/2026/115",
+   "short": "HCJ Botoșani nr. 115/2026",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 115/2026 privind aprobarea Actului Adițional nr. 20/2026 la Contractul de delegare a gestiunii, prin concesiune, a activității de administrare a stațiilor de transfer, sortare a deșeurilor municipale și administrare a depozitului de deșeuri - Județul Botoșani nr. 12016/02.08.2016",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H115_20260528.pdf",
+     "sha256": "d62bd5e777cc4be219559233fea058c7ea94e1cc426089c90e5da2f7c09c6ce6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-12-2026",
+   "path": "local/judet/botosani/2026/12",
+   "short": "HCJ Botoșani nr. 12/2026",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 12/2026 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru obiectivul de investiții ,,Rezervor de apă potabilă și rezervă incendiu secția exterioară Săveni”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H012_20260128.pdf",
+     "sha256": "3c591806d535562a73fa34fc6d7f25411fbd3c1482fa895a56cc1f32a39ed2ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-120-2026",
+   "path": "local/judet/botosani/2026/120",
+   "short": "HCJ Botoșani nr. 120/2026",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 120/2026 privind acordarea unui mandat special reprezentantului Judeţului Botoşani în Adunarea Generală Ordinară a Acționarilor Societății Nova APASERV S.A",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H120_20260609.pdf",
+     "sha256": "2f08112234a97b086629a5106f18ef3efc2c41260ff8e2ccc03a2434b33e8788"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-122-2026",
+   "path": "local/judet/botosani/2026/122",
+   "short": "HCJ Botoșani nr. 122/2026",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 122/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H122_20260625.pdf",
+     "sha256": "e6206dc9008527eb45522b8f7c98c2b5e15be727b66d02a5d438ee18256f3441"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-123-2026",
    "path": "local/judet/botosani/2026/123",
    "short": "HCJ Botoșani nr. 123/2026",
@@ -14,6 +269,111 @@
      "units": 1,
      "source_url": "https://www.cjbotosani.ro/wp-content/uploads/2026/07/HCJ-modificare-regulament-CJB-iunie-2026.pdf",
      "sha256": "a427ed543eb45d9a1b87466b3e4cc90b620878ee999fd25b7b7e36a81930d84b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-124-2026",
+   "path": "local/judet/botosani/2026/124",
+   "short": "HCJ Botoșani nr. 124/2026",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 124/2026 privind solicitarea de trecere a unui teren din domeniul public al statului și administrarea Ministerului Agriculturii și Dezvoltării Rurale – Agenția de Plăți și Intervenție pentru Agricultură – Centrul Județean Botoșani în domeniul public al Județului Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H124_20260625.pdf",
+     "sha256": "dc99d8ebe0a8dbb2431bd6088a1a61e39487d528f8ea2e627a083f4e17eda88d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-125-2026",
+   "path": "local/judet/botosani/2026/125",
+   "short": "HCJ Botoșani nr. 125/2026",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 125/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H125_20260625.pdf",
+     "sha256": "d64581174f09810f99ae7a19e156a286d260490c578c47f5743c9dea19e80752"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-126-2026",
+   "path": "local/judet/botosani/2026/126",
+   "short": "HCJ Botoșani nr. 126/2026",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 126/2026 privind aprobarea inițierii procedurii de vânzare prin licitație publică a unui imobil situat în municipiul Botoșani, str",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H126_20260625.pdf",
+     "sha256": "ce47ea37b024a9a0547c6758568adac9739e3a5f2bf86ae62b2fd910d60aaf8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-127-2026",
+   "path": "local/judet/botosani/2026/127",
+   "short": "HCJ Botoșani nr. 127/2026",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 127/2026 privind revocarea dreptului de administrare al Direcției Generale de Asistență Socială și Protecția Copilului Botoșani asupra unui spațiu aflat în domeniul public al Județului Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H127_20260625.pdf",
+     "sha256": "56348999a0d245cdb79755afb59cec42f2ee1bc006cf4165350908bbe186657e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-128-2026",
+   "path": "local/judet/botosani/2026/128",
+   "short": "HCJ Botoșani nr. 128/2026",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 128/2026 privind aprobarea devizului general actualizat după recepția lucrărilor de execuție pentru obiectivul de investiții „Modernizare DJ 291K, DJ 291B (Lozna) – Călinești – DN 29C – Talpa, km 0+000-7+009, Județul Botoșani”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H128_20260625.pdf",
+     "sha256": "9534af08819ae9798fed228b764ccab810e92ea503d6d0014226e2c9adb81b52"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-13-2026",
+   "path": "local/judet/botosani/2026/13",
+   "short": "HCJ Botoșani nr. 13/2026",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 13/2026 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru obiectivul de investiții ,,Rezervor apa potabila si rezerva incendiu Secția Exterioară Psihiatrie VI”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H013_20260128.pdf",
+     "sha256": "1d0a883776630f206f7edc38a5de30e1f2eb944bd89d8517bdf62c32a267ea47"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-130-2026",
+   "path": "local/judet/botosani/2026/130",
+   "short": "HCJ Botoșani nr. 130/2026",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 130/2026 privind aprobarea unor măsuri pentru asigurarea continuității serviciului de transport public judeţean de persoane prin curse regulate în județul Botoșani, începând cu data de 01.07.2026",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H130_20260625.pdf",
+     "sha256": "d39f0a68ca99b5eacd4e57af1bc7ee5f017622d09cc6e4d5d5d1d6d3f4204e60"
     }
    ]
   },

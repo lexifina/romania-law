@@ -3,6 +3,96 @@
  "shard": "local/ialomita/fetesti/2021",
  "acts": [
   {
+   "slug": "hcl-ialomita--fetesti-115-2021",
+   "path": "local/ialomita/fetesti/2021/115",
+   "short": "HCL Fetești nr. 115/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 115/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 al Spitalului Municipal ”Anghel Saligny” Fetești pentru sume alocate din fonduri externe nerambursabile (FEN-Sursa D), derulat prin Programul –pilot prevăzut în Ordinul Ministrului Sănătății nr. 672/11.05.2021 și completarea H.C.L.nr. 48/15.04.2021 privind aprobarea bugetului local al Municipiului Feteşti pe anul 2021",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/37224",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/176/Anexa.pdf",
+     "sha256": "4944d71f8deb8dc45e517bcd84afa1303592ba561d388476ef74754eddce3357"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-116-2021",
+   "path": "local/ialomita/fetesti/2021/116",
+   "short": "HCL Fetești nr. 116/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 116/2021 privind rectificarea bugetului Spitalului Municipal „Anghel Saligny” Fetești pe anul 2021",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/37225",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/177/Anexa.pdf",
+     "sha256": "03fde6f2062146d22a3f1933d33db15a96e9bd461a5a50887862d0081c925af5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-117-2021",
+   "path": "local/ialomita/fetesti/2021/117",
+   "short": "HCL Fetești nr. 117/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 117/2021 pentru modificarea Anexei nr. 3 la H.C.L.nr. 113/02.09.2021 privind rectificarea bugetului local și modificarea Listei de investiții anexă la bugetul local pe anul 2021",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/37226",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/178/Anexa.pdf",
+     "sha256": "fb61ddd9b8261ed438286bcd7a7e80971e0f619b65402c7d851297f22308e3e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-120-2021",
+   "path": "local/ialomita/fetesti/2021/120",
+   "short": "HCL Fetești nr. 120/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 120/2021 privind modificarea inventarului bunurilor care fac parte din domeniul privat al municipiului Feteşti, aprobat prin H.C.L.nr.150/26.11.2015",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/37229",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/183/Anexa.pdf",
+     "sha256": "2a04b3bd4fb29ed6054b01eff8b6121498c3c1a9c5b556fef4f2e3d55a20208e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-153-2021",
+   "path": "local/ialomita/fetesti/2021/153",
+   "short": "HCL Fetești nr. 153/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 153/2021 privind aprobarea asocierii Municipiului Fetești cu Județul Ialomița în vederea finanțării în comun a dotării Spitalului Municipal ”Anghel Saligny” Fetești cu echipamente medicale necesare creșterii capacității de intervenție în prevenirea și combaterea infecției cu noul coronavirus ”COVID-19”",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/39907",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/662/Anexa.pdf",
+     "sha256": "e0fe363401ab83517fcbbfa161632adf33912e22e0d290b081bff6db80a13fe7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-161-2021",
+   "path": "local/ialomita/fetesti/2021/161",
+   "short": "HCL Fetești nr. 161/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 161/2021 privind aprobarea Listei solicitanţilor care au acces la locuinţele de tip ANL din municipiul Fetești, destinate închirierii tinerilor şi familiilor de tineri",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/42994",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/1251/Anexa.pdf",
+     "sha256": "2c600ae6ccb8cdfda61a6e9014e2dd050c1d57d5b37daf9011bb18f380d4ce7c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ialomita--fetesti-166-2021",
    "path": "local/ialomita/fetesti/2021/166",
    "short": "HCL Fetești nr. 166/2021",
@@ -29,6 +119,81 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/1747/Anexa.pdf",
      "sha256": "3d3eeb99ec4afe9bf9582bd0ea4aa1d3cc8a93517afc57bd672a9f4a6002623e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-177-2021",
+   "path": "local/ialomita/fetesti/2021/177",
+   "short": "HCL Fetești nr. 177/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 177/2021 privind aprobarea tarifelor pentru serviciul de iluminat public din municipiul Fetești practicate de Direcţia de Administrare a Domeniului Public şi Privat Feteşti",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/45786",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/1748/Anexa.pdf",
+     "sha256": "6ffe0061253c83ed09db6d766a5a00f7edef4bb71bb67a654a4572af9687daad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-178-2021",
+   "path": "local/ialomita/fetesti/2021/178",
+   "short": "HCL Fetești nr. 178/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 178/2021 privind aprobarea tarifelor pentru serviciul de dezinsecție, dezinfecție și deratizare din municipiul Fetești, practicate de Direcţia de Administrare a Domeniului Public şi Privat Feteşti",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/45787",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/1749/Anexa.pdf",
+     "sha256": "257ee9c2fa6f160c665ddb54bd6d8cac2894376b0a6a7dba12c9b982dbc88467"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-181-2021",
+   "path": "local/ialomita/fetesti/2021/181",
+   "short": "HCL Fetești nr. 181/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 181/2021 privind aprobarea Planului lucrărilor şi acţiunilor de interes local pentru repartizarea orelor de muncă beneficiarilor Legii nr. 416/2001, pentru anul 2022",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/45790",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/1750/Anexa.pdf",
+     "sha256": "e030d16ceaf113787a858a4fb6b3be60f333c16302f052626e9e7989308ab8bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-204-2021",
+   "path": "local/ialomita/fetesti/2021/204",
+   "short": "HCL Fetești nr. 204/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 204/2021 privind validarea rectificării bugetului local al municipiului Fetești",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/45816",
+   "versions": [
+    {
+     "from": "2021-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/1751/Anexa.pdf",
+     "sha256": "bde63739e1d219fa37779471a86802ff885ef884ea29927a21c5f8919cb216a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fetesti-205-2021",
+   "path": "local/ialomita/fetesti/2021/205",
+   "short": "HCL Fetești nr. 205/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Fetești nr. 205/2021 privind rectificarea bugetului local pe anul 2021",
+   "url": "https://emol.ro/fetesti-il/registru-hcl/45817",
+   "versions": [
+    {
+     "from": "2021-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/1752/Anexa.pdf",
+     "sha256": "cea78e761727dd45d442a5fc190428a0bd6f43c5a08cd5438ae5ffad7eb49d46"
     }
    ]
   }
