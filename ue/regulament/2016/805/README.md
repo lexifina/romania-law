@@ -1,0 +1,15 @@
+# Regulamentul (UE) 2016/805 al Comisiei din 20 mai 2016 de modificare a anexei IV la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește Streptomyces K61 (anterior S. griseoviridis), Candida oleophila tulpina O, FEN 560 (denumită, de asemenea, schinduf sau pulbere de semințe de schinduf), decanoatul de metil (CAS 110-42-9), octanoatul de metil (CAS 111-11-5) și amestecul de terpenoide QRD 460 (Text cu relevanță pentru SEE)
+
+Regulamentul (UE) 2016/805 · 1 versions, from 2016-06-10 (latest in force: 2016-06-10) · <https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0805>
+
+**Status:** Published as it appeared in the Official Journal of the European Union; later amendments, if any, are not yet applied (the Romanian consolidated versions will be added as later versions).
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Text | [text.md](text.md) | 0 |  |
+
+Act id: `ue-regulament-805-2016` (tags `ue-regulament-805-2016/<day>`; `python tools/on.py <day> ue-regulament-805-2016`).
+
+## Decisions made by hand
+
+- Regulamentul (UE) 2016/805: added by Lexifina's eu-law source lane from its Romanian text in the Publications Office's CELLAR (http://publications.europa.eu/resource/cellar/b6515d36-1edd-11e6-86d0-01aa75ed71a1.0019.03/DOC_1), as published in the Official Journal of the European Union (JO L 132/95, 21.5.2016); in force from 2016-06-10. Published as it appeared in the Official Journal of the European Union; later amendments, if any, are not yet applied (the Romanian consolidated versions will be added as later versions).

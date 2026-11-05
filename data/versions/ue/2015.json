@@ -393,6 +393,141 @@
    ]
   },
   {
+   "slug": "ue-regulament-1327-2015",
+   "path": "ue/regulament/2015/1327",
+   "short": "Regulamentul (UE) 2015/1327",
+   "title": "Regulamentul (UE) 2015/1327 al Consiliului din 31 iulie 2015 de modificare a Regulamentului (UE) nr. 267/2012 privind măsuri restrictive împotriva Iranului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R1327",
+   "versions": [
+    {
+     "from": "2015-08-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/efb34fd7-3816-11e5-98a0-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "4ccacc167bd65c040041cc7e792974dec3dbce6c51c48d1f31b3836855a7ab7a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1362-2015",
+   "path": "ue/regulament/2015/1362",
+   "short": "Regulamentul (UE) 2015/1362",
+   "title": "Regulamentul (UE) 2015/1362 al Comisiei din 6 august 2015 de modificare a anexei III la Regulamentul (CE) nr. 1333/2008 al Parlamentului European și al Consiliului în ceea ce privește utilizarea dioxidului de siliciu (E 551) în extractele de rozmarin (E 392) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R1362",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fb2d615e-3ccf-11e5-9f5a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "1fadccd58be97d7093f51570dc4c99bb9aa7904665fe7de66230a68493c0bd0d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1378-2015",
+   "path": "ue/regulament/2015/1378",
+   "short": "Regulamentul (UE) 2015/1378",
+   "title": "Regulamentul (UE) 2015/1378 al Comisiei din 11 august 2015 de modificare a anexei II la Regulamentul (CE) nr. 1333/2008 al Parlamentului European și al Consiliului în ceea ce privește utilizarea de riboflavine (E 101) și caroteni (E 160a) în granule și fulgi de cartofi uscați (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R1378",
+   "versions": [
+    {
+     "from": "2015-09-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ae366ac2-40b8-11e5-9f5a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "a8b0e074f45f390b61002045465ca217c07d1d1f070bfd9e4f059ed14b7a61b2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1525-2015",
+   "path": "ue/regulament/2015/1525",
+   "short": "Regulamentul (UE) 2015/1525",
+   "title": "Regulamentul (UE) 2015/1525 al Parlamentului European și al Consiliului din 9 septembrie 2015 de modificare a Regulamentului (CE) nr. 515/97 al Consiliului privind asistența reciprocă între autoritățile administrative ale statelor membre și cooperarea dintre acestea și Comisie în vederea asigurării aplicării corespunzătoare a legislației din domeniile vamal și agricol",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R1525",
+   "versions": [
+    {
+     "from": "2015-10-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/491debc1-5dcb-11e5-afbf-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "809636acbd97b74cd16f05956627cb44e79d1d55014af0517d009682ecdad4b8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1588-2015",
+   "path": "ue/regulament/2015/1588",
+   "short": "Regulamentul (UE) 2015/1588",
+   "title": "Regulamentul (UE) 2015/1588 al Consiliului din 13 iulie 2015 privind aplicarea articolelor 107 și 108 din Tratatul privind funcționarea Uniunii Europene anumitor categorii de ajutoare de stat orizontale (text codificat) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R1588",
+   "versions": [
+    {
+     "from": "2015-10-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f0b08567-62de-11e5-9317-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "06384976116451756fda8149057798671712c21e7b72e330f805ec1cf8ecdf50"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-180-2015",
+   "path": "ue/regulament/2015/180",
+   "short": "Regulamentul (UE) 2015/180",
+   "title": "Regulamentul (UE) 2015/180 al Comisiei din 9 februarie 2015 de modificare a Regulamentului (CE) nr. 748/2009 privind lista operatorilor de aeronave care au efectuat o activitate de aviație menționată în anexa I la Directiva 2003/87/CE a Parlamerntului European și a Consiliului la 1 ianuarie 2006 sau ulterior, specificând statul membru de administrare pentru fiecare operator de aeronave Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0180",
+   "versions": [
+    {
+     "from": "2015-02-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/144a51fa-b0ed-11e4-b5b2-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "8ac0247b441637cee149779e8d5af25347cc659ecc35dafc27efa846d3bbb89f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1832-2015",
+   "path": "ue/regulament/2015/1832",
+   "short": "Regulamentul (UE) 2015/1832",
+   "title": "Regulamentul (UE) 2015/1832 al Comisiei din 12 octombrie 2015 de modificare a anexei II la Regulamentul (CE) nr. 1333/2008 al Parlamentului European și al Consiliului în ceea ce privește utilizarea de eritritol (E 968) ca potențiator de arome în băuturile aromatizate cu valoare energetică redusă sau fără adaos de zahăr (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R1832",
+   "versions": [
+    {
+     "from": "2015-11-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0ce928d4-7174-11e5-9317-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "6b17df23c5c649c51e69b468f4c8b619ff5301bd60ac27a1bccad374a1861471"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1910-2015",
+   "path": "ue/regulament/2015/1910",
+   "short": "Regulamentul (UE) 2015/1910",
+   "title": "Regulamentul (UE) 2015/1910 al Comisiei din 21 octombrie 2015 de modificare a anexelor III și V la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime de reziduuri pentru guazatină din sau de pe anumite produse (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R1910",
+   "versions": [
+    {
+     "from": "2015-11-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/466951ab-7a14-11e5-b3d3-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "22d32ac894de12804716cf1b597363a439e2af2b26e737217578207e87e53958"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1919-2015",
+   "path": "ue/regulament/2015/1919",
+   "short": "Regulamentul (UE) 2015/1919",
+   "title": "Regulamentul (UE) 2015/1919 din 26 octombrie 2015",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R1919",
+   "versions": [
+    {
+     "from": "2015-10-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/95f6ccb5-7c77-11e5-9fae-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "8d4d312141830697f8c765f3981d3110ddd8e4410783cdc92ac4926d96a7959f"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2219-2015",
    "path": "ue/regulament/2015/2219",
    "short": "Regulamentul (UE) 2015/2219",
@@ -404,6 +539,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/c71d1eb2-9a55-11e5-b3b7-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "32fe2796ee9ed13ced1d067c235edc5a3739e08915411bf7378602c484fb28eb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2256-2015",
+   "path": "ue/regulament/2015/2256",
+   "short": "Regulamentul (UE) 2015/2256",
+   "title": "Regulamentul (UE) 2015/2256 al Comisiei din 4 decembrie 2015 de modificare a Regulamentului (CE) nr. 1983/2003 de punere în aplicare a Regulamentului (CE) nr. 1177/2003 al Parlamentului European și al Consiliului privind statisticile comunitare referitoare la venit și la condițiile de viață (EU-SILC), în ceea ce privește lista variabilelor primare țintă (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R2256",
+   "versions": [
+    {
+     "from": "2015-12-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/88af2ac4-9b09-11e5-b792-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "8152ee065ec078c8a0047e827c0b162e90732cd65f0256cc35490c6da0078f49"
     }
    ]
   },
@@ -423,6 +573,186 @@
    ]
   },
   {
+   "slug": "ue-regulament-2284-2015",
+   "path": "ue/regulament/2015/2284",
+   "short": "Regulamentul (UE) 2015/2284",
+   "title": "Regulamentul (UE) 2015/2284 al Parlamentului European și al Consiliului din 25 noiembrie 2015 de abrogare a Directivei 76/621/CEE a Consiliului privind stabilirea nivelului maxim de acid erucic în uleiuri și grăsimi, precum și a Regulamentului (CE) nr. 320/2006 al Consiliului de instituire a unui regim temporar de restructurare a industriei zahărului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R2284",
+   "versions": [
+    {
+     "from": "2015-12-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e5112839-9fd7-11e5-8781-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "f40096fbb6637795f71b64b57e5ca1f5594b11394e71814cb5c92d8b80cbde6b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2381-2015",
+   "path": "ue/regulament/2015/2381",
+   "short": "Regulamentul (UE) 2015/2381",
+   "title": "Regulamentul (UE) 2015/2381 al Comisiei din 17 decembrie 2015 de punere în aplicare a Regulamentului (CE) nr. 1059/2003 al Parlamentului European și al Consiliului privind instituirea unui nomenclator comun al unităților teritoriale de statistică (NUTS), în ceea ce privește transmiterea seriilor de timp pentru noua împărțire regională",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R2381",
+   "versions": [
+    {
+     "from": "2016-01-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/33829205-a55b-11e5-b528-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "aaa68ffc30ad05993d1c22d65252d51a8d3273edb3248b4c936cc2f3122c33ab"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-373-2015",
+   "path": "ue/regulament/2015/373",
+   "short": "Regulamentul (UE) 2015/373",
+   "title": "Regulamentul (UE) 2015/373 al Consiliului din 5 martie 2015 de modificare a Regulamentului (CE) nr. 2533/98 privind colectarea informațiilor statistice de către Banca Centrală Europeană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0373",
+   "versions": [
+    {
+     "from": "2015-03-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/25a38002-c499-11e4-bbe1-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "b4de9b1b92216506ba78a7426f289b743f825abede3e7ca0f2dc43024849445d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-475-2015",
+   "path": "ue/regulament/2015/475",
+   "short": "Regulamentul (UE) 2015/475",
+   "title": "Regulamentul (UE) 2015/475 al Parlamentului European și al Consiliului din 11 martie 2015 privind măsurile de salvgardare prevăzute de Acordul dintre Comunitatea Economică Europeană și Republica Islanda (text codificat)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0475",
+   "versions": [
+    {
+     "from": "2015-04-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d77a1167-d454-11e4-9de8-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "ff8f315a6723b1ccea4ad3ec6e336d25e2a87221ef173389ec22b60703005bc2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-476-2015",
+   "path": "ue/regulament/2015/476",
+   "short": "Regulamentul (UE) 2015/476",
+   "title": "Regulamentul (UE) 2015/476 al Parlamentului European și al Consiliului din 11 martie 2015 privind măsurile pe care Uniunea le poate lua ca urmare a unui raport adoptat de Organul de soluționare a litigiilor al OMC privind măsurile antidumping sau antisubvenții (text codificat)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0476",
+   "versions": [
+    {
+     "from": "2015-04-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/feb5bfdc-d455-11e4-9de8-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "1be3fbe57b714c4c2d8d3014f97f7ec360f9ee34ae89de1809a8f4cba411a46d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-478-2015",
+   "path": "ue/regulament/2015/478",
+   "short": "Regulamentul (UE) 2015/478",
+   "title": "Regulamentul (UE) 2015/478 al Parlamentului European și al Consiliului din 11 martie 2015 privind regimul comun aplicabil importurilor (text codificat)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0478",
+   "versions": [
+    {
+     "from": "2015-04-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/76e02947-d458-11e4-9de8-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "481d1421af028dd3c0bd5a35bb8ae38535b72c5c205df8ec6a23b42ecfce84d9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-523-2015",
+   "path": "ue/regulament/2015/523",
+   "short": "Regulamentul (UE) 2015/523",
+   "title": "Regulamentul (UE) 2015/523 al Consiliului din 25 martie 2015 de modificare a Regulamentelor (UE) nr. 43/2014 și (UE) 2015/104 în ceea ce privește anumite posibilități de pescuit",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0523",
+   "versions": [
+    {
+     "from": "2015-03-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/94fb4b19-d51a-11e4-9de8-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "914bea8ce6a9778164828bf14fbdc4d0368627f07455da1600fc276713b86c81"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-538-2015",
+   "path": "ue/regulament/2015/538",
+   "short": "Regulamentul (UE) 2015/538",
+   "title": "Regulamentul (UE) 2015/538 al Comisiei din 31 martie 2015 de modificare a anexei II la Regulamentul (CE) nr. 1333/2008 al Parlamentului European și al Consiliului în ceea ce privește utilizarea de acid benzoic-benzoați (E 210-213) în creveții fierți și conservați în saramură Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0538",
+   "versions": [
+    {
+     "from": "2015-04-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c8fd9759-d83b-11e4-9de8-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "0b42610010d351430d32512e822b5e99c08bd9d7347eb0e90606a231cb69e07a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-539-2015",
+   "path": "ue/regulament/2015/539",
+   "short": "Regulamentul (UE) 2015/539",
+   "title": "Regulamentul (UE) 2015/539 al Comisiei din 31 martie 2015 de autorizare a unei mențiuni de sănătate înscrise pe produsele alimentare, alta decât cele care se referă la reducerea riscului de îmbolnăvire și la dezvoltarea și sănătatea copiilor, și de modificare a Regulamentului (UE) nr. 432/2012 Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0539",
+   "versions": [
+    {
+     "from": "2015-04-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/eb11a6ba-d83b-11e4-9de8-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "4786608496983464e623390bf0e2d483a465c2f87d4ee2c78d43da4e47e3e128"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-648-2015",
+   "path": "ue/regulament/2015/648",
+   "short": "Regulamentul (UE) 2015/648",
+   "title": "Regulamentul (UE) 2015/648 al Comisiei din 24 aprilie 2015 de modificare a anexei I la Regulamentul (CE) nr. 1334/2008 al Parlamentului European și al Consiliului în ceea ce privește ștergerea de pe lista Uniunii a substanței aromatizante N-Etil (2E,6Z)-nonadienamidă (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0648",
+   "versions": [
+    {
+     "from": "2015-05-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/11839726-eb13-11e4-892c-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "4c7bfc4b49e323c3716080c9d21fad123f1a46c91c7e2fb08029e3cdd8c14ec0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-649-2015",
+   "path": "ue/regulament/2015/649",
+   "short": "Regulamentul (UE) 2015/649",
+   "title": "Regulamentul (UE) 2015/649 al Comisiei din 24 aprilie 2015 de modificare a anexei II la Regulamentul (CE) nr. 1333/2008 al Parlamentului European și al Consiliului și a anexei la Regulamentul (UE) nr. 231/2012 al Comisiei în ceea ce privește utilizarea substanței L-leucină ca excipient pentru îndulcitorii de masă sub formă de tablete (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0649",
+   "versions": [
+    {
+     "from": "2015-05-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/39fa5318-eb13-11e4-892c-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "0fe09fb0d515e40b77fc107651cc5569f0aff9b61537003dff1c9b6b2665795d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-703-2015",
+   "path": "ue/regulament/2015/703",
+   "short": "Regulamentul (UE) 2015/703",
+   "title": "Regulamentul (UE) 2015/703 al Comisiei din 30 aprilie 2015 de stabilire a unui cod de rețea pentru normele privind interoperabilitatea și schimbul de date (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0703",
+   "versions": [
+    {
+     "from": "2015-05-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d98b7806-efc1-11e4-a3bf-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "239dfdbc11a36dbcd1be61075f6871d3093acb654f9a84a354edeffc87887a16"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-751-2015",
    "path": "ue/regulament/2015/751",
    "short": "Regulamentul (UE) 2015/751",
@@ -438,6 +768,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-755-2015",
+   "path": "ue/regulament/2015/755",
+   "short": "Regulamentul (UE) 2015/755",
+   "title": "Regulamentul (UE) 2015/755 al Parlamentului European și al Consiliului din 29 aprilie 2015 privind regimul comun aplicabil importurilor din anumite țări terțe (reformare)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0755",
+   "versions": [
+    {
+     "from": "2015-06-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/368c3e0d-fdf6-11e4-a4c8-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "6545dca8a2f5a069cb9e28370b531165e0993894c70dc964605bdb4f5ed5632c"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-757-2015",
    "path": "ue/regulament/2015/757",
    "short": "Regulamentul (UE) 2015/757",
@@ -449,6 +794,66 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/c895b0b3-fdf7-11e4-a4c8-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "57d207afcced640103a3828dd8112f5056b3d76e12398d94725a5579738c1fb6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-760-2015",
+   "path": "ue/regulament/2015/760",
+   "short": "Regulamentul (UE) 2015/760",
+   "title": "Regulamentul (UE) 2015/760 al Parlamentului European și al Consiliului din 29 aprilie 2015 privind fondurile europene de investiții pe termen lung (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0760",
+   "versions": [
+    {
+     "from": "2015-06-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a0abe09c-fdf9-11e4-a4c8-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "bbf3ac238de24695ff2fc54040270357989dbc6152bbce1497eba091710bec65"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-802-2015",
+   "path": "ue/regulament/2015/802",
+   "short": "Regulamentul (UE) 2015/802",
+   "title": "Regulamentul (UE) 2015/802 al Consiliului din 19 mai 2015 de suspendare a taxelor vamale autonome prevăzute în Tariful vamal comun pentru anumite uleiuri grele și produse similare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0802",
+   "versions": [
+    {
+     "from": "2015-06-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7a2987ff-010e-11e5-a4c8-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "b833480766ca53d118b2c3609760bef9b6dcfa21464f6c1e4c838975b4818ada"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-878-2015",
+   "path": "ue/regulament/2015/878",
+   "short": "Regulamentul (UE) 2015/878",
+   "title": "Regulamentul (UE) 2015/878 al Consiliului din 8 iunie 2015 de modificare a Regulamentului (UE) nr. 1352/2014 privind măsuri restrictive având în vedere situația din Yemen",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0878",
+   "versions": [
+    {
+     "from": "2015-06-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/346c620b-0e62-11e5-8817-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "aa7184e4196d068873b4e7804aa73c2eaf83ed08f3aee0715ec1950781a912a2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-941-2015",
+   "path": "ue/regulament/2015/941",
+   "short": "Regulamentul (UE) 2015/941",
+   "title": "Regulamentul (UE) 2015/941 al Parlamentului European și al Consiliului din 9 iunie 2015 privind anumite proceduri de punere în aplicare a Acordului de stabilizare și de asociere între Comunitățile Europene și statele lor membre, pe de o parte, și fosta Republică iugoslavă a Macedoniei, pe de altă parte (text codificat)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0941",
+   "versions": [
+    {
+     "from": "2015-07-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ccb1a6d6-1b01-11e5-a342-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "abd41c57073c263e4312b7bbd130a79a8a5deb0fdd3de4ee899367807c5c9942"
     }
    ]
   }

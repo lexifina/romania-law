@@ -2118,6 +2118,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-76-2018",
+   "path": "ue/regulament/2018/76",
+   "short": "Regulamentul (UE) 2018/76",
+   "title": "Regulamentul (UE) 2018/76 al Consiliului din 23 octombrie 2017 privind alocarea posibilităților de pescuit în temeiul Protocolului de stabilire a posibilităților de pescuit și a contribuției financiare prevăzute de Acordul de parteneriat în domeniul pescuitului dintre Uniunea Europeană și Republica Mauritius",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018R0076",
+   "versions": [
+    {
+     "from": "2017-12-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/64c9845d-fcce-11e7-b8f5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "6dafeae8905d844ef79b7b02559bbac68034839a1ba4900c4bde9707224ae7ef"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-78-2018",
    "path": "ue/regulament/2018/78",
    "short": "Regulamentul (UE) 2018/78",

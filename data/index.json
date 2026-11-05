@@ -10341,45 +10341,45 @@
   {
    "shard": "ue/2015",
    "kind": "ue",
-   "count": 30,
+   "count": 57,
    "acts": "data/acts/ue/2015.json",
    "list": "data/acts/ue/2015.md",
    "versions": "data/versions/ue/2015.json",
    "laws": "data/laws/ue/2015.csv",
-   "laws_count": 30,
+   "laws_count": 57,
    "sources": "data/sources/ue/2015.csv"
   },
   {
    "shard": "ue/2016",
    "kind": "ue",
-   "count": 38,
+   "count": 198,
    "acts": "data/acts/ue/2016.json",
    "list": "data/acts/ue/2016.md",
    "versions": "data/versions/ue/2016.json",
    "laws": "data/laws/ue/2016.csv",
-   "laws_count": 38,
+   "laws_count": 198,
    "sources": "data/sources/ue/2016.csv"
   },
   {
    "shard": "ue/2017",
    "kind": "ue",
-   "count": 105,
+   "count": 195,
    "acts": "data/acts/ue/2017.json",
    "list": "data/acts/ue/2017.md",
    "versions": "data/versions/ue/2017.json",
    "laws": "data/laws/ue/2017.csv",
-   "laws_count": 105,
+   "laws_count": 195,
    "sources": "data/sources/ue/2017.csv"
   },
   {
    "shard": "ue/2018",
    "kind": "ue",
-   "count": 165,
+   "count": 166,
    "acts": "data/acts/ue/2018.json",
    "list": "data/acts/ue/2018.md",
    "versions": "data/versions/ue/2018.json",
    "laws": "data/laws/ue/2018.csv",
-   "laws_count": 165,
+   "laws_count": 166,
    "sources": "data/sources/ue/2018.csv"
   },
   {
